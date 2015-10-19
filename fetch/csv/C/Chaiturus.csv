@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-37382,A,Lamiaceae,,Chaiturus,,"leonuroides",,"","Willd.",Synonym,Illegitimate,H,WCSP,37382,445630-1,"Fl. Berol. Prodr.","201","","1787",kew-37383
+kew-37383,A,Lamiaceae,,Chaiturus,,"marrubiastrum",,"","(L.) Ehrh. ex Rchb.",Accepted,,H,WCSP,37383,,"Fl. Germ. Excurs.","1: 317","","1831",
+tro-17603824,A,Lamiaceae,,Chaiturus,,"marrubiastrum",,"","(L.) Spenn.",Synonym,,M,TRO,17603824,445631-1,"Gen. Fl. Germ.","fasc. 18: pl. 353","pl. 353","1839",kew-37383
+kew-37384,A,Lamiaceae,,Chaiturus,,"marrubifolius",,"","St.-Lag.",Synonym,,H,WCSP,37384,445629-1,"Étude Fl.","ed. 8, 2: 681","","1889",kew-37383

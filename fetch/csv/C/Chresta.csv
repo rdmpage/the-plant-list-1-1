@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-50807,A,Compositae,,Chresta,,"alpestris",,"","Gardner",Synonym,,M,TICA,0D3B1907-126F-47CD-B4FA-5E3CD15F10EE,310296-2,"London J. Bot. 1: 239. 1842","","239","1842",gcc-451
+gcc-156716,A,Compositae,,Chresta,,"amplexifolia",,"","Dematt., Roque & Miranda Gonç.",Accepted,,L,TICA,0C752635-AB3C-4FDF-A0C0-F2D78000F6DC,77092258-1,"Bot. J. Linn. Soc. (Lond.) 157: 588. 2008.","","588","2008",
+gcc-104472,A,Compositae,,Chresta,,"angustifolia",,"","Gardner",Accepted,,M,TICA,F2AC9146-97A1-41BB-96D1-A395395398BE,274562-2,"London J. Bot. 1: 240 (1842).","","240","1842",
+gcc-146978,A,Compositae,,Chresta,,"cordata",,"","Vell.",Synonym,Illegitimate,M,TICA,71E85B00-478C-41F4-9900-241F9CA26D76,,"","","","",gcc-103239
+gcc-124802,A,Compositae,,Chresta,,"curumbensis",,"","(Philipson) H.Rob.",Accepted,,M,TICA,0762D16D-3F6F-435C-822D-D1866DA99EDA,57326-2,"Phytologia 45","","91","1980",
+gcc-18578,A,Compositae,,Chresta,,"eriopus",,"","(Sch.Bip. ex Baker) H.Rob.",Synonym,,M,TICA,7057BF0A-D3E7-4882-9F4C-22562B680FD3,57327-2,"Phytologia 45","","91","1980",gcc-104643
+gcc-32131,A,Compositae,,Chresta,,"exsucca",,"","DC.",Accepted,,M,TICA,E454114E-D24D-4EC3-BA43-3B82754992B8,193033-1,"","","85","1836",
+gcc-41888,A,Compositae,,Chresta,,"halimodendron",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,F4FDD52A-E942-48A6-B686-4D8FCC89CF5B,,"","","380","1873",gcc-43477
+gcc-31831,A,Compositae,,Chresta,,"harleyi",,"","(DC.) H.Rob.",Accepted,,M,TICA,71B349C3-B67C-4D88-8178-3AFA86607E1C,274564-2,"Phytologia 53","","385","1983",
+gcc-17053,A,Compositae,,Chresta,,"hatschbachii",,"","H.Rob.",Accepted,,M,TICA,2CC31834-85C4-4DAA-8AC6-1F88CC3C645B,,"","","","2005",
+gcc-130971,A,Compositae,,Chresta,,"intermedia",,"","Gardner",Synonym,,M,TICA,1538167C-0CD9-4C29-BAD8-DFCB54CC8109,,"London J. Bot. 5","","236","",gcc-103239
+gcc-41767,A,Compositae,,Chresta,,"lanceolata",,"","Vell.",Synonym,,L,TICA,49C57080-FF38-49E6-AE2D-4D5AAD7C72AD,57330-2,"","","t. 151","",gcc-101735
+gcc-140983,A,Compositae,,Chresta,,"martii",,"","(DC.) H.Rob.",Accepted,,M,TICA,FE4B6CAB-B294-4813-B49E-F6566A9A62B7,57331-2,"Phytologia 45","","91","1980",
+gcc-151141,A,Compositae,,Chresta,,"pabstii",,"","(G.M.Barroso) H.Rob.",Unresolved,,L,TICA,7DC1A643-DA44-4C3C-BC0F-7EAAB2AB30F3,,"","","","",
+gcc-100837,A,Compositae,,Chresta,,"pinnatifida",,"","(Philipson) H.Rob.",Accepted,,M,TICA,AAABC7E1-7E27-47C7-97DB-9B8792AD5922,1139034-2,"Phytologia 78","","384","1995",
+gcc-128661,A,Compositae,,Chresta,,"plantaginifolia",,"","(Less.) Gardner",Accepted,,M,TICA,E1B24E7A-95E7-4A82-8BA4-DA88267AFEE6,193037-1,"London J. Bot. 1","","241","1842",
+gcc-43477,A,Compositae,,Chresta,,"pycnocephala",,"","DC.",Accepted,,M,TICA,ECC1422D-D0FA-42C4-A0D4-509C1C3AA863,193038-1,"","","85","1836",
+gcc-61246,A,Compositae,,Chresta,,"pycnocephala",var.,"halimodendron","DC.",Synonym,,L,TICA,8F89B518-A244-4804-9A7F-A4EB674F7FFA,57332-2,"","","85","1836",gcc-43477
+gcc-155877,A,Compositae,,Chresta,,"pycnocephala",var.,"pycnocephala","",Synonym,,L,TICA,9914F6D2-B714-4756-A651-E1BCE5961321,,"","","","",gcc-43477
+gcc-140060,A,Compositae,,Chresta,,"scapigera",,"","(Less.) Gardner",Accepted,,M,TICA,7D3DA1DC-7D2A-42D2-B006-F41F9451C6B9,193039-1,"London J. Bot. 1","","241","1842",
+gcc-127050,A,Compositae,,Chresta,,"souzae",,"","H.Rob.",Accepted,,M,TICA,688A3631-D315-4BAF-9061-D6B5A4D142D3,57333-2,"Phytologia 45","","92","1980",
+gcc-113451,A,Compositae,,Chresta,,"spathulaefolia",,"","(DC.) Gardner",Synonym,,M,TICA,72641DBB-BD3D-4A45-B113-B7A769DD15DD,193041-1,"London J. Bot. 1","","241","1842",gcc-128661
+gcc-155179,A,Compositae,,Chresta,,"speciosa",,"","Gardner",Accepted,,M,TICA,FB38566B-5497-4F03-B750-D2A04CDB70A0,274565-2,"London J. Bot. 1","","240","1842",
+gcc-103239,A,Compositae,,Chresta,,"sphaerocephala",,"","DC.",Accepted,,M,TICA,3BB8E819-6557-4EDE-82A5-A0CE373674D5,274566-2,"","","85","1836",

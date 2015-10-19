@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-41648,A,Rubiaceae,,Clarkella,,"nana",,"","(Edgew.) Hook.f.",Accepted,,H,WCSP,41648,746931-1,"Fl. Brit. India","3: 46","","1880",
+kew-371857,A,Rubiaceae,,Clarkella,,"nana",var.,"siamensis","(Craib) Fukuoka & N.Kurosaki",Synonym,,L,WCSP,371857,,"S. E. Asian Stud.","8: 178","","1970",kew-41648
+kew-41649,A,Rubiaceae,,Clarkella,,"siamensis",,"","Craib",Synonym,,H,WCSP,41649,746932-1,"Bull. Misc. Inform. Kew","1931: 216","","1931",kew-41648
+tro-50158048,A,Rubiaceae,,Clarkella,,"sianensis",,"","W. G. Craib",Synonym,,M,TRO,50158048,,"Bull. Misc. Inform. Kew","216","216","1931",kew-41648

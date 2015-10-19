@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104253,A,Compositae,,Detris,,"abyssinica",,"","(Sch.Bip. ex A.Rich.) Chiov.",Synonym,,L,TICA,A66DA749-6ED7-46A1-B3CA-A3192B7E4894,,"","","","1897",gcc-97982
+gcc-80970,A,Compositae,,Detris,,"barbata",,"","(DC.) Schltr.",Synonym,,M,TICA,3FE4B93F-C205-4233-8AAA-6ECA84A5CDC9,,"","","","",gcc-102959
+gcc-50567,A,Compositae,,Detris,,"dinteri",,"","S.Moore",Synonym,,M,TICA,149CA013-9FE2-4F55-959B-5DBEB0C06FED,,"","","1013","1904",gcc-53084
+gcc-52559,A,Compositae,,Detris,,"ericifolia",,"","(Forssk.) Hiern",Synonym,,M,TICA,56F6DF66-F188-4542-B626-616E8A2922B5,,"","","545","1898",gcc-118863
+gcc-9146,A,Compositae,,Detris,,"ericifolia",var.,"anthemidodes","Hiern",Synonym,,L,TICA,74FD9F75-3777-421D-B0E4-1119CAD71D91,,"Cat. Afr. Pl. 3: 546 (1898)","","546","1898",gcc-114879
+gcc-153145,A,Compositae,,Detris,,"ericifolia",var.,"ericifolia","",Synonym,,L,TICA,278FD30B-6EAD-462D-81C0-A80CE09B285A,,"","","","",gcc-118863
+gcc-17639,A,Compositae,,Detris,,"fascicularis",,"","(DC.) S.Moore",Synonym,,M,TICA,81775426-5D88-41F0-B61F-2090BE3DB4BF,201237-1,"","","159","1900",gcc-21154
+gcc-41068,A,Compositae,,Detris,,"fascicularis",,"","Chiov.",Unresolved,,L,TICA,AE95D2AA-40F5-42A7-BEB2-4C1E952DBB3B,201238-1,"""in Agric. Colon. 1924, xviii. 385.""","","xviii. 385.","1924",
+gcc-32342,A,Compositae,,Detris,,"hyssopifolia",,"","(Berger) Hiern",Synonym,,L,TICA,6F078498-FBD9-4AC7-841A-3BEFEF99A02D,,"","","547","1898",gcc-57727
+gcc-154526,A,Compositae,,Detris,,"hyssopifolia",var.,"hyssopifolia","",Synonym,,L,TICA,C7267A8C-4B6D-43D4-AE9E-C5761F56A0B2,,"","","","",gcc-57727
+gcc-8459,A,Compositae,,Detris,,"hyssopifolia",var.,"straminea","Hiern",Synonym,,L,TICA,562DD0E8-DDD1-43AF-9C1E-0FC11AAEFA33,,"","","","",gcc-109806
+gcc-48294,A,Compositae,,Detris,,"mossamedensis",,"","Hiern",Synonym,,M,TICA,B6C5296E-7340-4B08-813B-597F704C738D,,"","","546","1898",gcc-109806
+gcc-87357,A,Compositae,,Detris,,"richardii",,"","(Vatke) Chiov.",Synonym,,M,TICA,B66A9B04-2A23-48B5-A65B-7D1B68318AB4,,"","","","1897",gcc-87262
+gcc-108257,A,Compositae,,Detris,,"simulans",,"","(Harv.) S.Moore",Unresolved,,L,TICA,91EFD69E-0441-4466-96F9-ABE5C8338EA7,201242-1,"","","159","1900",gcc-56756
+gcc-27408,A,Compositae,,Detris,,"smaragdina",,"","S.Moore",Synonym,,M,TICA,CB4C2E57-8A31-42E6-8497-32B1FC3367EC,,"","","","1899",gcc-22478
+gcc-152562,A,Compositae,,Detris,,"smaragdina",var.,"smaragdina","",Synonym,,L,TICA,D135DEC7-3BFD-41FC-874A-9C19784AD237,,"","","","",gcc-22478
+gcc-62386,A,Compositae,,Detris,,"smaragdina",var.,"versicolor","S.Moore",Synonym,,L,TICA,9B733594-5289-45A9-ACBE-AE658D836C47,,"","","","",gcc-22478
+gcc-102092,A,Compositae,,Detris,,"tenella",,"","(L.) Schltr.",Synonym,,M,TICA,98BDC4AF-DF84-49D2-B374-9E446F55B7B7,201244-1,"","","370","1899",gcc-141000
+gcc-5612,A,Compositae,,Detris,,"tenella",,"","(L.) Moore",Synonym,,M,TICA,1ED09FE1-1D4C-4ADE-8080-0A7A5E668148,,"","","","",gcc-141000

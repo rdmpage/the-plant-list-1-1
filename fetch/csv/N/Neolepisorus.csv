@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50060040,P,Polypodiaceae,,Neolepisorus,,"basicordatus",,"","P.S. Wang",Accepted,,M,TRO,50060040,,"Acta Bot. Yunnan.","9(4): 399–400, pl. 2, f. 5–7","399","1987",
+tro-50241045,P,Polypodiaceae,,Neolepisorus,,"crenatus",,"","S.F. Wu",Accepted,,M,TRO,50241045,17566280-1,"Keys Vasc. Pl. Wuling Mts.","573, 577, pl. 6","573","1995",
+tro-50241049,P,Polypodiaceae,,Neolepisorus,,"cuneatus",,"","S.F. Wu",Accepted,,M,TRO,50241049,17566290-1,"Keys Vasc. Pl. Wuling Mts.","577, pl. 7","577","1995",
+tro-50059630,P,Polypodiaceae,,Neolepisorus,,"dengii",,"","Ching & P.S. Wang",Accepted,,M,TRO,50059630,17504840-1,"Acta Phytotax. Sin.","21(3): 272, pl. 2, f. 3","272","1983",
+tro-50195565,P,Polypodiaceae,,Neolepisorus,,"dengii",f.,"dengii","",Synonym,,L,TRO,50195565,,"","","","",tro-50059630
+tro-50059624,P,Polypodiaceae,,Neolepisorus,,"emeiensis",,"","Ching & K.H. Shing",Accepted,,M,TRO,50059624,17504820-1,"Acta Phytotax. Sin.","21(3): 271, pl. 2, f. 1","271","1983",
+tro-50195564,P,Polypodiaceae,,Neolepisorus,,"emeiensis",f.,"emeiensis","",Synonym,,L,TRO,50195564,,"","","","",tro-50059624
+tro-50059644,P,Polypodiaceae,,Neolepisorus,,"ensatus",,"","(Thunb.) Ching",Accepted,,M,TRO,50059644,17407830-1,"Bull. Fan Mem. Inst. Biol., Bot.","10(1): 14","14","1940",
+tro-50195566,P,Polypodiaceae,,Neolepisorus,,"ensatus",f.,"ensatus","",Synonym,,L,TRO,50195566,,"","","","",tro-50059644
+tro-50059663,P,Polypodiaceae,,Neolepisorus,,"ensatus",f.,"monstriferus","Tagawa",Accepted,,L,TRO,50059663,,"J. Jap. Bot.","26(1): 21","21","1951",
+tro-50059668,P,Polypodiaceae,,Neolepisorus,,"ensatus",f.,"platyphyllus","(Tagawa) Ching & K.H. Shing",Accepted,,L,TRO,50059668,17521190-1,"Acta Phytotax. Sin.","21(3): 275, pl. 4, f. 4","275","1983",
+tro-50059672,P,Polypodiaceae,,Neolepisorus,,"ensatus",var.,"platyphyllus","Tagawa",Synonym,,L,TRO,50059672,,"J. Jap. Bot.","22(10–12): 162–163","162","1948",tro-50059668
+ifn-39361,P,Polypodiaceae,,Neolepisorus,,"fortunei",,"","Li Wang",Unresolved,,L,IPNI,77103603-1,77103603-1,"Bot. J. Linn. Soc.","162(1): 36","","2010 [Jan 2010]",
+tro-50059628,P,Polypodiaceae,,Neolepisorus,,"lancifolius",,"","Ching & K.H. Shing",Accepted,,M,TRO,50059628,17504830-1,"Acta Phytotax. Sin.","21(3): 271–272, pl. 2, f. 1","271","1983",
+ifn-39363,P,Polypodiaceae,,Neolepisorus,,"lastii",,"","Ching",Unresolved,,L,IPNI,17407840-1,17407840-1,"Bull. Fan Mem. Inst. Biol. Bot.","10: 14","","1940",
+tro-26622738,P,Polypodiaceae,,Neolepisorus,,"microsorioides",,"","W.M. Zhu",Synonym,,M,TRO,26622738,17551660-1,"Acta Bot. Yunnan.","1(2): 96–97, pl. 3","96","1979",tro-26624323
+tro-26622737,P,Polypodiaceae,,Neolepisorus,,"minor",,"","W.M. Zhu",Accepted,,M,TRO,26622737,17551670-1,"Acta Bot. Yunnan.","1(2): 95–96, pl. 2","95","1979",
+tro-26617788,P,Polypodiaceae,,Neolepisorus,,"normalis",,"","(D. Don) Ching",Synonym,,M,TRO,26617788,17407850-1,"Bull. Fan Mem. Inst. Biol., Bot.","10(1): 13","13","1940",tro-50059761
+tro-26623241,P,Polypodiaceae,,Neolepisorus,,"ovatus",,"","Ching",Accepted,,M,TRO,26623241,17445230-1,"Acta Phytotax. Sin.","9(1): 99","99","1964",
+tro-26625203,P,Polypodiaceae,,Neolepisorus,,"ovatus",f.,"doryopteris","(Christ) Ching",Accepted,,L,TRO,26625203,,"Acta Phytotax. Sin.","9(1): 99","99","1964",
+tro-50195562,P,Polypodiaceae,,Neolepisorus,,"ovatus",f.,"ovatus","",Synonym,,L,TRO,50195562,,"","","","",tro-26623241
+ifn-39370,P,Polypodiaceae,,Neolepisorus,,"pappei",,"","Li Wang",Unresolved,,L,IPNI,77103604-1,77103604-1,"Bot. J. Linn. Soc.","162(1): 36","","2010 [Jan 2010]",
+tro-26623244,P,Polypodiaceae,,Neolepisorus,,"phyllomanes",,"","(Christ) Ching",Synonym,,M,TRO,26623244,17407860-1,"Bull. Fan Mem. Inst. Biol., Bot.","10(1): 14","14","1940",tro-26623241
+tro-26625202,P,Polypodiaceae,,Neolepisorus,,"phyllomanes",f.,"deltoideus","Ching",Synonym,,L,TRO,26625202,77100149-1,"Bull. Fan Mem. Inst. Biol., Bot.","10(1): 14","14","1940",tro-26623241
+tro-50059643,P,Polypodiaceae,,Neolepisorus,,"sinensis",,"","Ching",Accepted,,M,TRO,50059643,17504870-1,"Acta Phytotax. Sin.","21(3): 274, pl. 4, f. 1","274","1983",
+tro-50059639,P,Polypodiaceae,,Neolepisorus,,"tenuipes",,"","Ching & K.H. Shing",Accepted,,M,TRO,50059639,17504850-1,"Acta Phytotax. Sin.","21(3): 273, pl. 3, f. 2","273","1983",
+tro-50059774,P,Polypodiaceae,,Neolepisorus,,"triglossus",,"","(Baker) Ching",Synonym,,M,TRO,50059774,17407870-1,"Bull. Fan Mem. Inst. Biol., Bot.","10(1): 14","14","1940",tro-50059773
+tro-50059619,P,Polypodiaceae,,Neolepisorus,,"truncatus",,"","Ching & P.S. Wang",Accepted,,M,TRO,50059619,17504810-1,"Acta Phytotax. Sin.","21(3): 270, pl. 1, f. 3","270","1983",
+tro-50195563,P,Polypodiaceae,,Neolepisorus,,"truncatus",f.,"truncatus","",Synonym,,L,TRO,50195563,,"","","","",tro-50059619
+tro-50059642,P,Polypodiaceae,,Neolepisorus,,"tsai",,"","Ching & K.H. Shing",Accepted,,M,TRO,50059642,17504860-1,"Acta Phytotax. Sin.","21(3): 273–274, pl. 3, f. 3","273","1983",
+ifn-39379,P,Polypodiaceae,,Neolepisorus,,"zippelii",,"","Li Wang",Unresolved,,L,IPNI,77103605-1,77103605-1,"Bot. J. Linn. Soc.","162(1): 36","","2010 [Jan 2010]",

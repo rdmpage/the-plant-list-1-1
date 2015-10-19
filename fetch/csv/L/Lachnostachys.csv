@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-106733,A,Lamiaceae,,Lachnostachys,,"albicans",,"","Hook.",Accepted,,H,WCSP,106733,,"Hooker's Icon. Pl.","1: t. 44","","1837",
+kew-106734,A,Lamiaceae,,Lachnostachys,,"bracteosa",,"","C.A.Gardner",Accepted,,H,WCSP,106734,863175-1,"J. Roy. Soc. Western Australia","47: 62","","1964",
+kew-106735,A,Lamiaceae,,Lachnostachys,,"bracteosa",,"","F.Muell.",Synonym,Invalid,H,WCSP,106735,,"Fragm.","8: 49","","1872",kew-135448
+kew-106736,A,Lamiaceae,,Lachnostachys,,"brevispicata",,"","E.Pritz.",Synonym,,H,WCSP,106736,863176-1,"Bot. Jahrb. Syst.","35: 511","","1904",kew-106738
+kew-106737,A,Lamiaceae,,Lachnostachys,,"cliftonii",,"","F.Muell.",Synonym,,H,WCSP,106737,863177-1,"Fragm.","9: 3","","1875",kew-106750
+kew-106738,A,Lamiaceae,,Lachnostachys,,"coolgardiensis",,"","S.Moore",Accepted,,H,WCSP,106738,863178-1,"J. Bot.","1903: 100","","1903",
+kew-106739,A,Lamiaceae,,Lachnostachys,,"coolgardiensis",f.,"brevispicata","(E.Pritz.) Munir",Synonym,,L,WCSP,106739,876182-1,"Brunonia","1: 654","","1978",kew-106738
+kew-106740,A,Lamiaceae,,Lachnostachys,,"cordifolia",,"","S.Moore",Synonym,,H,WCSP,106740,863179-1,"J. Bot.","59: 247","","1921",kew-106750
+kew-106741,A,Lamiaceae,,Lachnostachys,,"dempsteri",,"","E.Pritz.",Synonym,,H,WCSP,106741,863180-1,"Bot. Jahrb. Syst.","35: 512","","1904",kew-106751
+kew-106742,A,Lamiaceae,,Lachnostachys,,"eriobotrya",,"","(F.Muell.) Druce",Accepted,,H,WCSP,106742,863181-1,"Rep. Bot. Soc. Exch. Club Brit. Isles","1916: 630","","1917",
+kew-106743,A,Lamiaceae,,Lachnostachys,,"ferruginea",,"","Hook.",Accepted,,H,WCSP,106743,863182-1,"Hooker's Icon. Pl.","5: t. 415a","","1842",
+kew-106744,A,Lamiaceae,,Lachnostachys,,"ferruginea",f.,"acutifolia","Munir",Synonym,,L,WCSP,106744,876183-1,"Brunonia","1: 659","","1978",kew-106743
+kew-106745,A,Lamiaceae,,Lachnostachys,,"ferruginea",f.,"obtusifolia","Munir",Synonym,,L,WCSP,106745,876184-1,"Brunonia","1: 663","","1978",kew-106743
+kew-106746,A,Lamiaceae,,Lachnostachys,,"ferruginea",var.,"paniculata","(Ewart) Munir",Synonym,,L,WCSP,106746,876185-1,"Brunonia","1: 660","","1978",kew-106751
+kew-334864,A,Lamiaceae,,Lachnostachys,,"ferruginea",f.,"paniculata","(Ewart) Munir",Synonym,,L,WCSP,334864,,"Brunonia","1: 660","","1978",kew-106751
+kew-106747,A,Lamiaceae,,Lachnostachys,,"ferruginea",f.,"reticulata","Munir",Synonym,,L,WCSP,106747,876186-1,"Brunonia","1: 659","","1978",kew-106743
+kew-106748,A,Lamiaceae,,Lachnostachys,,"insignis",,"","E.Pritz.",Synonym,Invalid,H,WCSP,106748,863183-1,"Bot. Jahrb. Syst.","35: 506","","1904",kew-135458
+kew-106749,A,Lamiaceae,,Lachnostachys,,"rodwayana",,"","W.Fitzg.",Synonym,,H,WCSP,106749,863184-1,"J. West Austral. Nat. Hist. Soc.","1: 29","","1904",kew-106742
+kew-106750,A,Lamiaceae,,Lachnostachys,,"verbascifolia",,"","F.Muell.",Accepted,,H,WCSP,106750,863185-1,"Fragm.","6: 158","","1868",
+kew-106751,A,Lamiaceae,,Lachnostachys,,"verbascifolia",var.,"paniculata","Ewart",Accepted,,L,WCSP,106751,,"Victorian Naturalist","24: 58","","1907",
+kew-106752,A,Lamiaceae,,Lachnostachys,,"verbascifolia",var.,"verbascifolia","",Synonym,,L,WCSP,106752,,"Unknown","","","",kew-106750
+kew-106753,A,Lamiaceae,,Lachnostachys,,"walcottii",,"","F.Muell.",Synonym,Illegitimate,H,WCSP,106753,863186-1,"Fragm.","2: 140","","1861",kew-106742

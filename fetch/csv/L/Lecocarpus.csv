@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-46448,A,Compositae,,Lecocarpus,,"darwinii",,"","Adsersen",Unresolved,,L,TICA,078AC889-43F8-4934-ADD4-56170652E1C1,136893-2,"","","69","1980",
+gcc-10231,A,Compositae,,Lecocarpus,,"foliosus",,"","Decne.",Synonym,,M,TICA,3B88CA85-8FC1-4792-884A-1321453252F1,,"""Voy. Venus, 19. t. 19 (1864).""","","","1864",gcc-1124
+gcc-103105,A,Compositae,,Lecocarpus,,"lecocarpoides",,"","(B.L.Rob. & Greenm.) Cronquist & Stuessy",Accepted,,M,TICA,E2FC7897-7472-40FD-86EE-A08F138BD396,136894-2,"","","256","1970",
+gcc-140277,A,Compositae,,Lecocarpus,,"leptolobus",,"","(S.F.Blake) Cronquist & Stuessy",Synonym,,M,TICA,59E2F221-AAB9-4E56-BDB5-F4A3FCDE454D,136895-2,"","","256","1970",gcc-103105
+gcc-1124,A,Compositae,,Lecocarpus,,"pinnatifidus",,"","Decne.",Accepted,,M,TICA,0F0B72F1-C43F-4D35-A323-021194F86F20,317736-2,"","","t. 14","1846",

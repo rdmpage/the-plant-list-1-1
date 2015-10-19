@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-37815,A,Compositae,,Otopappus,,"acuminatus",,"","S.Watson",Accepted,,M,TICA,AD0A14A5-47CD-469A-A0B9-4621520D7695,177353-2,"","","140","1891",
+gcc-38676,A,Compositae,,Otopappus,,"alternifolius",,"","B.L.Rob.",Synonym,,M,TICA,FFB335D7-8C51-4692-A178-47C00B37C382,177354-2,"","","165","1891",gcc-11297
+gcc-90418,A,Compositae,,Otopappus,,"aschenbornii",,"","Klatt",Synonym,,M,TICA,E34BC73E-7281-4816-AAFC-83EFEB629866,291771-2,"","","362","1894",gcc-131069
+gcc-132148,A,Compositae,,Otopappus,,"asperulus",,"","S.F.Blake",Synonym,,M,TICA,50598CD1-BE00-4E41-BEE5-E28DA5927734,177355-2,"","","""30-31, t. 10""","1922",gcc-142704
+gcc-118656,A,Compositae,,Otopappus,,"australis",,"","S.F.Blake",Synonym,,M,TICA,D98CD218-5E89-4A6A-8B56-C374112717E3,,"","","","1924",gcc-85032
+gcc-46060,A,Compositae,,Otopappus,,"brevipes",,"","B.L.Rob.",Accepted,,M,TICA,C1215DF2-7392-4D48-8BC6-5561E0AB5AEF,,"","","","1909",
+gcc-150426,A,Compositae,,Otopappus,,"brevipes",var.,"brevipes","",Synonym,,L,TICA,1BF2E1EF-FE14-46B8-B58F-6E42AF51F5AF,,"","","","",gcc-46060
+gcc-7680,A,Compositae,,Otopappus,,"brevipes",var.,"glabratus","(J.M.Coult.) B.L.Rob.",Synonym,,L,TICA,17B8299F-E63E-4041-9667-0E44D73F0EDF,177358-2,"","","622","1909",gcc-46060
+gcc-23781,A,Compositae,,Otopappus,,"calarcanus",,"","S.Díaz",Accepted,,M,TICA,247D8BA1-C840-4256-828A-2BF2D64D83F7,,"","","","1993",
+gcc-92823,A,Compositae,,Otopappus,,"cordatus",,"","S.F.Blake",Synonym,,M,TICA,67CC4ED0-1AF8-4232-90A9-897259F5839F,177359-2,"","","28","1928",gcc-39019
+gcc-22334,A,Compositae,,Otopappus,,"curviflorus",,"","(R.Br.) Hemsl.",Accepted,,L,TICA,61C86495-E18F-4615-8C52-295635CEBD0C,,"","","191","1881",
+gcc-47803,A,Compositae,,Otopappus,,"curviflorus",var.,"curviflorus","",Synonym,,L,TICA,800F555A-33F9-4636-BF5D-588F56D397E3,,"","","","",gcc-22334
+gcc-16058,A,Compositae,,Otopappus,,"curviflorus",var.,"glabratus","J.M.Coult.",Synonym,,L,TICA,AB5627E7-1A84-4B1C-8F4E-1DB66F29B101,177360-2,"","","50","1895",gcc-46060
+gcc-87307,A,Compositae,,Otopappus,,"epaleaceus",,"","Hemsl.",Accepted,,M,TICA,F9878B53-723C-42F2-8B78-7CF9E0B033E9,,"","","191","1881",
+gcc-153198,A,Compositae,,Otopappus,,"epaleaceus",var.,"epaleaceus","",Synonym,,L,TICA,A9749327-3B74-4F13-BDD3-A95E442BD1DC,,"","","","",gcc-87307
+gcc-9789,A,Compositae,,Otopappus,,"epaleaceus",var.,"pringlei","Greenm.",Synonym,,L,TICA,C605B36C-1CB1-4603-8BD8-1249225A55FE,177362-2,"Proc. Amer. Acad. Arts 40: 42. 1904","","42","1904",gcc-39019
+gcc-122871,A,Compositae,,Otopappus,,"ferrugineus",,"","V.M.Badillo",Synonym,,M,TICA,E81AF755-5092-4B31-BEBB-CD00E595E3D8,,"","","","1981",gcc-85032
+gcc-84152,A,Compositae,,Otopappus,,"glabratus",,"","(J.M.Coult.) S.F.Blake",Accepted,,M,TICA,0DE7DADE-0017-4A92-B6CE-75E5C6CD5CAE,177363-2,"J. Bot. 53","","234","1915",
+gcc-137673,A,Compositae,,Otopappus,,"guatemalensis",,"","(Urb.) R.L.Hartm. & Stuessy",Accepted,,M,TICA,F17C824C-9AA2-4A42-85A2-EEF8769AF946,912906-1,"","","206","1983",
+gcc-124971,A,Compositae,,Otopappus,,"hirsutus",,"","(Sw.) R.L.Hartm. & Stuessy",Accepted,,M,TICA,802A17C8-85D1-4520-AAD0-D1F72A42902A,912907-1,"Syst. Bot. 8","","205","1983",
+gcc-39019,A,Compositae,,Otopappus,,"imbricatus",,"","(Sch.Bip.) S.F.Blake",Accepted,,M,TICA,FBA36C09-239D-4E11-A98F-486471AAB846,177366-2,"","","255","1930",
+gcc-87755,A,Compositae,,Otopappus,,"jaliscensis",,"","McVaugh",Synonym,,M,TICA,DD555958-F7ED-4843-B3EC-7DF209438FA8,,"Contr. Univ. Michigan Herb. 9","","","1972",gcc-33873
+gcc-6703,A,Compositae,,Otopappus,,"koelzii",,"","McVaugh",Accepted,,M,TICA,F7A6A0BF-E289-4EAE-AA6A-0C6EB9F193A7,,"","","","1972",
+gcc-29690,A,Compositae,,Otopappus,,"mexicanus",,"","(Rzed.) H.Rob.",Accepted,,M,TICA,C36531F1-6A29-470B-AC1E-36E0A238D19A,177369-2,"","","44","1979",
+gcc-104279,A,Compositae,,Otopappus,,"microcephalus",,"","S.F.Blake",Accepted,,M,TICA,711689BB-418F-4D3D-9FDC-A3283426D88C,177370-2,"","","232","1915",
+gcc-120519,A,Compositae,,Otopappus,,"oaxacanus",,"","(DC.) Klatt",Synonym,,M,TICA,9CA9A5C2-ED37-44C8-A466-C7BB2CC4792E,177371-2,"","","362","1894",gcc-48085
+gcc-139369,A,Compositae,,Otopappus,,"olivaceus",,"","(Klatt) Klatt",Synonym,,M,TICA,35A76A77-E4DB-4DD8-B74D-F29B8C8E0B8F,177372-2,"","","362","1894",gcc-100850
+gcc-130197,A,Compositae,,Otopappus,,"perymenioides",,"","(Sch.Bip.) Klatt",Synonym,,L,TICA,F9FFE8B7-723B-41C8-9FB7-DDFDE403488C,177373-2,"","","362","1894",gcc-26515
+gcc-110628,A,Compositae,,Otopappus,,"pittieri",,"","(Greenm.) B.L.Turner",Unresolved,,L,TICA,FCEE4DC2-348A-4EBA-9196-B151B354FCAA,281812-2,"Phytologia 69(1)","","15","1990",
+gcc-37556,A,Compositae,,Otopappus,,"pringlei",,"","(Greenm.) S.F.Blake",Synonym,,M,TICA,0E48DA55-EBFB-4857-8B27-459E768DA3A2,177374-2,"","","232","1915",gcc-39019
+gcc-84285,A,Compositae,,Otopappus,,"robinsonii",,"","Klatt",Synonym,Illegitimate,M,TICA,82885779-6BD0-4907-A35D-7638067A0B30,177375-2,"","","362","1894",gcc-11297
+gcc-111202,A,Compositae,,Otopappus,,"robustus",,"","Hemsl.",Accepted,,M,TICA,421FD48F-975F-4104-9285-B2988CDEABAB,,"""Biol. Cent.-Amer., Bot. ii. 191""","","","1881",
+gcc-120807,A,Compositae,,Otopappus,,"salazari",,"","S.F.Blake",Synonym,,M,TICA,219DD21E-1E88-46D0-86E1-C85F681F9BA7,177376-2,"","","192","1919",gcc-93564
+gcc-137816,A,Compositae,,Otopappus,,"scaber",,"","S.F.Blake",Accepted,,M,TICA,8BD4DDCF-5076-44C2-B405-EF41A5914E0A,177377-2,"","","636-637","1924",
+gcc-31800,A,Compositae,,Otopappus,,"simplex",,"","V.M.Badillo",Synonym,,M,TICA,D190F7EA-A18E-4A6A-9AED-3AEBCC0F77D3,281813-2,"Bol. Soc. Venez. Ci. Nat. 10: 311. 1946","","311","1946",gcc-131798
+gcc-125040,A,Compositae,,Otopappus,,"syncephalus",,"","Donn.Sm.",Accepted,,M,TICA,3CAF64D5-E823-4A3E-AF39-D22C754CC527,177379-2,"","","6","1905",
+gcc-93564,A,Compositae,,Otopappus,,"tequilanus",,"","(A.Gray) B.L.Rob.",Accepted,,M,TICA,2718E9CF-01D0-4EB4-A230-8AFF2C445F37,177380-2,"","","622","1909",
+gcc-62739,A,Compositae,,Otopappus,,"tequilanus",var.,"acuminatus","(S.Watson) B.L.Rob.",Synonym,,L,TICA,56F7F6E4-4309-4355-B603-B10FE919C817,177381-2,"Proc. Amer. Acad. Arts 44: 622. 1909","","622","1909",gcc-37815
+gcc-59978,A,Compositae,,Otopappus,,"tequilanus",var.,"griseus","McVaugh",Synonym,,L,TICA,939CBC98-9DBC-4C7B-9CC3-9ABF0229F2AE,177382-2,"","","429","1972",gcc-93564
+gcc-9348,A,Compositae,,Otopappus,,"tequilanus",var.,"tequilanus","",Synonym,,L,TICA,F1C635F9-998C-4C39-BD40-1170553ED9EA,,"","","","",gcc-93564
+gcc-115174,A,Compositae,,Otopappus,,"trinervis",,"","S.F.Blake",Synonym,,M,TICA,9D355BA0-093E-4C07-9DCD-BB89BF7876D2,177383-2,"","","231-232","1915",gcc-142704
+gcc-142704,A,Compositae,,Otopappus,,"verbesinoides",,"","Benth.",Accepted,,M,TICA,B364F8A5-864F-4E4F-A356-FA363E03814B,177384-2,"Hooker's Icon. Pl. 12","","""47, t. 1153""","1873",
+gcc-126042,A,Compositae,,Otopappus,,"xanthocarphus",,"","Brandegee",Synonym,,M,TICA,C4744B09-C62C-47F0-AB58-D46F0BC8D9E1,,"","","","1909",gcc-39019

@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24048,A,Compositae,,Phalacroseris,,"bolanderi",,"","A.Gray",Accepted,,M,TICA,C41BB493-8E37-4536-AFFF-2C70D1650675,237648-1,"Proc. Amer. Acad. Arts vii. (1868) 364","","364","1868",
+gcc-61705,A,Compositae,,Phalacroseris,,"bolanderi",var.,"bolanderi","",Synonym,,L,TICA,2ABF4955-5BC1-4146-9ED4-A8D4173B1FC2,,"","","","1901",gcc-24048
+gcc-40493,A,Compositae,,Phalacroseris,,"bolanderi",var.,"coronata","H.M.Hall",Synonym,,L,TICA,D3402399-9FF3-4D6B-B54B-4B0A09878342,192249-2,"Bot. Gaz. 31: 393. 1901","","393","1901",gcc-24048

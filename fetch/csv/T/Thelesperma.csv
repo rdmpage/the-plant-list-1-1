@@ -1,0 +1,47 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144804,A,Compositae,,Thelesperma,,"ambiguum",,"","A.Gray",Synonym,,M,TICA,ED06ED9A-3B8E-41EE-ADFF-FEF41432573A,,"in Proc Am. Acad. xix. (1883) 16.","","","1883",gcc-62160
+gcc-2216,A,Compositae,,Thelesperma,,"burridgeanum",,"","S.F.Blake",Accepted,,M,TICA,8909C17F-FC47-4AEF-935C-040003441B0E,250986-2,"","","146","1928",
+gcc-135247,A,Compositae,,Thelesperma,,"caespitosum",,"","Dorn",Synonym,,M,TICA,D1875828-FFD3-48EA-81DC-E99152BC4CBA,,"","","","1991",gcc-52738
+gcc-143603,A,Compositae,,Thelesperma,,"curvicarpum",,"","Melchert",Synonym,,M,TICA,29E5AB9B-5606-465D-9604-FC46FA1A9C0F,250987-2,"","","179","1963",gcc-84524
+gcc-89875,A,Compositae,,Thelesperma,,"filifolium",,"","(Hook.) A.Gray",Accepted,,M,TICA,57456EA4-77BE-4060-8A98-82BDB54276C4,30086870-2,"Hooker's J. Bot. Kew Gard. Misc. 1: 252","","252","1849",
+gcc-35833,A,Compositae,,Thelesperma,,"filifolium",var.,"filifolium","",Synonym,,L,TICA,1FDB6EA3-29B6-4734-A76A-426DE060C66C,,"","","","1849",gcc-89875
+gcc-65425,A,Compositae,,Thelesperma,,"filifolium",var.,"flavodiscum","Shinners",Synonym,,L,TICA,8AA1FFDD-4517-439D-87AF-C6B109BCAC17,250988-2,"Field & Lab. 18: 98. 1950","","98","1950",gcc-110095
+gcc-53602,A,Compositae,,Thelesperma,,"filifolium",var.,"intermedium","(Rydb.) Shinners",Synonym,,L,TICA,8B54E1CE-B9E3-4796-A594-6777F8F04FC8,250989-2,"Sida 2: 348. 1966","","348","1966",gcc-89875
+gcc-110095,A,Compositae,,Thelesperma,,"flavodiscum",,"","(Shinners) B.L.Turner",Accepted,,L,TICA,8966C975-E164-4EB4-9A5A-B01248D5D567,250990-2,"","","245","1959",
+gcc-131319,A,Compositae,,Thelesperma,,"formosum",,"","Greene",Unresolved,,L,TICA,E86DB90B-6BA1-4766-9FA8-E09F28BBFF0F,250991-2,"","","56","1902",
+gcc-129271,A,Compositae,,Thelesperma,,"fraternum",,"","Shinners",Synonym,,M,TICA,9A1E2F37-C5D7-4948-BC25-DBE74898A054,,"","","","1950",gcc-62160
+gcc-80103,A,Compositae,,Thelesperma,,"gracile",,"","(Torr.) A.Gray",Synonym,,M,TICA,3F4F88F7-50D3-46D9-90A6-6CDF921782A6,255467-1,"Hooker's J. Bot. Kew Gard. Misc. 1: 252","","252","1849",gcc-119084
+gcc-110154,A,Compositae,,Thelesperma,,"graminiformis",,"","(Sherff) Melchert",Accepted,,M,TICA,191E969D-5940-4E95-B35F-B039D1D24445,285978-2,"","","219","1990",
+gcc-84621,A,Compositae,,Thelesperma,,"hybridum",,"","Voss",Unresolved,,L,TICA,32CED7B6-97C4-4607-BEC8-76ECA8D93C2A,,"""Vilm. Blumengärtn., ed. 3. 1: 484""","","3","1894",
+gcc-101085,A,Compositae,,Thelesperma,,"intermedium",,"","Rydb.",Synonym,,M,TICA,8C025966-7AE8-4263-B8B1-9C0BCC42F408,255469-1,"","","","1900",gcc-89875
+gcc-67612,A,Compositae,,Thelesperma,,"intermedium",var.,"flavodiscum","Shinners",Unresolved,,L,TICA,CCF9A744-0119-45DA-A6BE-D88F676F1CC2,250994-2,"Field & Lab. 18: 98. 1950","","98","1950",gcc-110095
+gcc-59434,A,Compositae,,Thelesperma,,"intermedium",var.,"intermedium","",Synonym,,L,TICA,EABC8F2C-5636-4748-9207-9663EA96FA83,,"","","","",gcc-89875
+gcc-105402,A,Compositae,,Thelesperma,,"longipes",,"","A.Gray",Accepted,,M,TICA,101D6415-5514-45E2-891B-A57DE33A9CDB,,"Pl. Wright. i. 109.","","","1852",
+gcc-51456,A,Compositae,,Thelesperma,,"marginatum",,"","Rydb.",Synonym,,M,TICA,A7438F84-578E-403B-AB90-5F6F59FFA486,308537-2,"Mem. New York Bot. Gard. 1: 421. 1900","","421","1900",gcc-52738
+gcc-119084,A,Compositae,,Thelesperma,,"megapotamicum",,"","(Spreng.) Kuntze",Accepted,,M,TICA,3BDDAE14-3893-4C6F-8BB4-C46E9581F458,250997-2,"Revis. Gen. Pl. 3[3]: 182","","182","1898",
+gcc-140298,A,Compositae,,Thelesperma,,"megapotamicum",,"","(Spreng.) Herter",Synonym,Illegitimate,M,TICA,4FEF4EE4-82FA-48E2-841C-F4AB46182078,255473-1,"in Rev. Sudamer. Bot. vii. 235 (1943).","","235","1943",gcc-119084
+gcc-62160,A,Compositae,,Thelesperma,,"megapotamicum",var.,"ambiguum","(A.Gray) Shinners",Accepted,,L,TICA,5F31B28A-7575-4B5B-8764-AC7C79AE45AE,250998-2,"Field & Lab. 18: 23. 1950","","23","1950",
+gcc-45658,A,Compositae,,Thelesperma,,"megapotamicum",var.,"megapotamicum","",Synonym,,L,TICA,27C7CA1B-F712-4DB8-8CBE-549F5F01362F,,"","","","1898",gcc-119084
+gcc-71029,A,Compositae,,Thelesperma,,"megapotamicum",var.,"ramosius","(S.F.Blake) Melchert",Accepted,,L,TICA,5C0B9329-23BF-42F6-A7B0-F2D933A8A63C,285979-2,"","","221","1990",
+gcc-131242,A,Compositae,,Thelesperma,,"muelleri",,"","(Sherff) Melchert",Accepted,,M,TICA,2828F851-1084-40E5-A8B2-E073E4DF46E6,285980-2,"","","221","1990",
+gcc-87975,A,Compositae,,Thelesperma,,"nuecense",,"","B.L.Turner",Accepted,,M,TICA,CD883E74-0490-42A7-9F2A-7E647162A57C,,"","","","1959",
+gcc-81553,A,Compositae,,Thelesperma,,"pubescens",,"","Dorn",Synonym,,M,TICA,DB051BF4-9CC4-4EB4-8EC3-70157FDBAA03,,"","","749","",gcc-52738
+gcc-58606,A,Compositae,,Thelesperma,,"pubescens",var.,"caespitosum","(Dorn) C.J.Hansen",Synonym,,L,TICA,10C9CD8A-7692-486A-AE86-9011FA383649,20010124-1,"Sida 20(1)","","91","2002",gcc-52738
+gcc-68963,A,Compositae,,Thelesperma,,"pubescens",var.,"pubescens","",Synonym,,L,TICA,DD54FD94-5B6A-4292-96CC-E2B6F7A03405,,"","","","2002",gcc-52738
+gcc-32740,A,Compositae,,Thelesperma,,"ramosius",,"","S.F.Blake",Synonym,,M,TICA,07D19388-2085-4FB8-B265-3CB45464A534,285982-2,"Proc. Biol. Soc. Wash. 54: 20. 1941","","20","1941",gcc-71029
+gcc-110946,A,Compositae,,Thelesperma,,"scabiosoides",,"","Less.",Synonym,,M,TICA,F55557DF-DF38-4E0B-8687-B2052E5742ED,,"Linnaea 6: 511. 1831","","512","1831",gcc-119084
+gcc-112607,A,Compositae,,Thelesperma,,"scabridulum",,"","S.F.Blake",Accepted,,M,TICA,72F3F584-CDBD-41B4-B96F-B5CD74421979,,"","","","1935",
+gcc-104685,A,Compositae,,Thelesperma,,"shinnersii",,"","Flyr",Unresolved,,L,TICA,C80E6D69-8B12-4526-A03C-A3FF71283A89,251002-2,"","","276","1971",
+gcc-84524,A,Compositae,,Thelesperma,,"simplicifolium",,"","(A.Gray) A.Gray",Accepted,,M,TICA,BC9FE105-972C-4CB0-BA0B-76BE53B2EA2D,30257577-2,"Hooker's J. Bot. Kew Gard. Misc. 1: 252","","252","1849",
+gcc-63631,A,Compositae,,Thelesperma,,"simplicifolium",var.,"simplicifolium","",Synonym,,L,TICA,1281527B-E49C-4931-81DA-B85F2C9619A3,,"","","","1849",gcc-84524
+gcc-29381,A,Compositae,,Thelesperma,,"subaequale",,"","S.F.Blake",Accepted,,M,TICA,010C0AF3-EA61-4BDA-AAFE-36487A068AD8,251003-2,"","","145","1928",
+gcc-52738,A,Compositae,,Thelesperma,,"subnudum",,"","A.Gray",Accepted,,M,TICA,258489B2-3C2F-4013-924A-61C62511011B,255481-1,"Proc. Amer. Acad. Arts x. (1874) 72.","","72","1874",
+gcc-71991,A,Compositae,,Thelesperma,,"subnudum",var.,"alpinum","S.L.Welsh",Synonym,,L,TICA,479F8143-0759-4EBB-BA8D-FA677B073672,251005-2,"","","369","1983",gcc-52738
+gcc-10863,A,Compositae,,Thelesperma,,"subnudum",var.,"caespitosum","(Dorn) S.L.Welsh",Synonym,,L,TICA,76ACB6ED-9371-4780-8088-14569BD00280,,"","","","",gcc-52738
+gcc-56939,A,Compositae,,Thelesperma,,"subnudum",var.,"marginatum","(Rydb.) Melchert ex Cronquist",Synonym,,L,TICA,DBC39A29-945F-4986-93B1-82550BCC58FC,979368-1,"","","48","1994",gcc-52738
+gcc-6275,A,Compositae,,Thelesperma,,"subnudum",var.,"pubescens","(Dorn) S.L.Welsh",Synonym,,L,TICA,17D2EE3A-DC4D-4177-B6D6-0BB015BB8F4D,60437319-2,"""Utah Fl., ed. 3 236. 2003""","","236","2003",gcc-52738
+gcc-62169,A,Compositae,,Thelesperma,,"subnudum",var.,"subnudum","",Synonym,,L,TICA,30F863BA-2AC1-4230-BE4F-AC8F3A37D345,,"","","","",gcc-52738
+gcc-46118,A,Compositae,,Thelesperma,,"subsimplicifolium",,"","A.Gray",Accepted,,M,TICA,0DFC1867-EE48-4BFE-9781-557C00090BD4,255482-1,"in Torr. Bot. Mex. Bound. 90.","","90","",
+gcc-22814,A,Compositae,,Thelesperma,,"tenue",,"","Rydb.",Unresolved,,L,TICA,C5D515B7-9C40-46E9-AC62-2A37251B639A,251004-2,"","","631","1900",
+gcc-108878,A,Compositae,,Thelesperma,,"trifidum",,"","(Poir.) Britton",Synonym,,M,TICA,1EBBFC98-D759-43D1-B6C2-AD5A92C6BE29,255484-1,"","","182","1890",gcc-89875
+gcc-121350,A,Compositae,,Thelesperma,,"windhamii",,"","C.J.Hansen",Synonym,,M,TICA,F02DE38B-86BD-4BCE-BE84-C99B689F8E1D,20010125-1,"Sida 20(1)","","91","2002",gcc-52738

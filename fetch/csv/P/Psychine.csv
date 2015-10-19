@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2412409,A,Brassicaceae,,Psychine,,"arabica",,"","(Vahl) Spreng.",Synonym,,M,WCSP (in review),,288246-1,"Syst. Veg.","2: 880","","1825",kew-2475784
+kew-2412377,A,Brassicaceae,,Psychine,,"numidica",,"","Spreng.",Unresolved,,L,WCSP (in review),,288247-1,"Syst. Veg.","2: 880","","1825",
+kew-2412423,A,Brassicaceae,,Psychine,,"stylosa",,"","Desf.",Accepted,,M,WCSP (in review),,288248-1,"Fl. Atlant.","2: 69","","1798",
+tro-4100595,A,Brassicaceae,,Psychine,,"stylosa",var.,"maroccana","Murb.",Synonym,,L,TRO,4100595,,"","","","",kew-2412423

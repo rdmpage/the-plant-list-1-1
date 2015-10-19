@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-446871,A,Poaceae,,Trichloris,,"blanchardiana",,"","Hack.",Synonym,,H,WCSP,446871,257026-2,"Nat. Pflanzenfam.","2(2): 59","","1887",kew-446872
+tro-25529115,A,Poaceae,,Trichloris,,"blanchardiana",,"","E. Fourn. ex Scribn.",Synonym,,M,TRO,25529115,,"Bull. Torrey Bot. Club","9: 146","146","1882",kew-446872
+kew-446872,A,Poaceae,,Trichloris,,"crinita",,"","(Lag.) Parodi",Accepted,,H,WCSP,446872,257027-2,"Revista Argent. Agron.","14: 63","","1947",
+kew-446873,A,Poaceae,,Trichloris,,"crinita",var.,"triflora","Parodi",Synonym,,L,WCSP,446873,257028-2,"Revista Argent. Agron.","14: 63","","1947",kew-446872
+kew-446875,A,Poaceae,,Trichloris,,"fasciculata",,"","E.Fourn.",Synonym,,H,WCSP,446875,424480-1,"Mexic. Pl.","2: 142","","1886",kew-446872
+kew-446876,A,Poaceae,,Trichloris,,"latifolia",,"","Vasey",Synonym,Invalid,H,WCSP,446876,,"Spec. Rep. Dept. Agric. (Washington DC)","63: 32","","1883",kew-446880
+kew-446877,A,Poaceae,,Trichloris,,"lilloi",,"","Parodi",Synonym,,H,WCSP,446877,257030-2,"Physis (Buenos Aires)","9: 256","","1928",kew-446880
+kew-446878,A,Poaceae,,Trichloris,,"mendocina",,"","(Phil.) Kurtz",Synonym,,H,WCSP,446878,1014723-2,"Mem. Fac. Ci. Exact. Fic. Nat. Univ. Nac. Cordoba","96: 37","","1897",kew-446872
+kew-446879,A,Poaceae,,Trichloris,,"mendocina",f.,"blanchardiana","(Hack.) Kurtz",Synonym,,L,WCSP,446879,257031-2,"Bol. Acad. Nac. Ci. Republ. Argent.","16: 270","","1900",kew-446872
+tro-50114022,A,Poaceae,,Trichloris,,"paradoxa",,"","Scherff. & Pascher",Unresolved,,L,TRO,50114022,,"Süsswasserflora","","","",
+kew-446880,A,Poaceae,,Trichloris,,"pluriflora",,"","E.Fourn.",Accepted,,H,WCSP,446880,257033-2,"Mexic. Pl.","2: 142","","1886",
+kew-446881,A,Poaceae,,Trichloris,,"pluriflora",f.,"macra","Hack.",Synonym,,L,WCSP,446881,,"Anales Mus. Nac. Buenos Aires","11: 116","","1904",kew-446880
+tro-50195591,A,Poaceae,,Trichloris,,"pluriflora",f.,"pluriflora","",Synonym,,L,TRO,50195591,,"","","","",kew-446880
+kew-446882,A,Poaceae,,Trichloris,,"verticillata",,"","E.Fourn. ex Vasey",Synonym,,H,WCSP,446882,,"Bull. Div. Bot. U.S.D.A.","12(2): t. 25","","1891",kew-446872

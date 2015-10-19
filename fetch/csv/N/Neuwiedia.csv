@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-135427,A,Orchidaceae,,Neuwiedia,,"amboinensis",,"","J.J.Sm.",Synonym,,H,WCSP,135427,645552-1,"Bull. Jard. Bot. Buitenzorg","II, 13: 1","","1914",kew-135442
+kew-135428,A,Orchidaceae,,Neuwiedia,,"annamensis",,"","Gagnep.",Synonym,,H,WCSP,135428,645553-1,"Bull. Soc. Bot. France","80: 350","","1933",kew-467650
+kew-135429,A,Orchidaceae,,Neuwiedia,,"balansae",,"","Baill. ex Gagnep.",Synonym,,H,WCSP,135429,645554-1,"Bull. Soc. Bot. France","80: 350","","1933",kew-135441
+kew-135430,A,Orchidaceae,,Neuwiedia,,"borneensis",,"","de Vogel",Accepted,,H,WCSP,135430,645555-1,"Blumea","17: 325","","1969",
+kew-135431,A,Orchidaceae,,Neuwiedia,,"calanthoides",,"","Ridl.",Synonym,,H,WCSP,135431,645556-1,"J. Bot.","24: 355","","1886",kew-135442
+kew-135432,A,Orchidaceae,,Neuwiedia,,"cucullata",,"","J.J.Sm.",Synonym,,H,WCSP,135432,645557-1,"Bull. Dép. Agric. Indes Néerl.","45: 1","","1911",kew-135442
+kew-135433,A,Orchidaceae,,Neuwiedia,,"curtisii",,"","Rolfe",Synonym,,H,WCSP,135433,645558-1,"J. Linn. Soc., Bot.","25: 232","","1889",kew-135441
+kew-135434,A,Orchidaceae,,Neuwiedia,,"elongata",,"","de Vogel",Accepted,,H,WCSP,135434,645559-1,"Blumea","17: 331","","1969",
+kew-135435,A,Orchidaceae,,Neuwiedia,,"griffithii",,"","Rchb.f.",Accepted,,H,WCSP,135435,645560-1,"Xenia Orchid.","2: 215","","1874",
+kew-135436,A,Orchidaceae,,Neuwiedia,,"inae",,"","de Vogel",Accepted,,H,WCSP,135436,645561-1,"Blumea","17: 333","","1969",
+kew-135437,A,Orchidaceae,,Neuwiedia,,"javanica",,"","J.J.Sm.",Synonym,,H,WCSP,135437,645562-1,"Bull. Jard. Bot. Buitenzorg","II, 14: 5","","1914",kew-135444
+kew-135438,A,Orchidaceae,,Neuwiedia,,"lindleyi",,"","Rolfe",Synonym,,H,WCSP,135438,,"J. Linn. Soc., Bot.","25: 233","","1889",kew-135442
+kew-135439,A,Orchidaceae,,Neuwiedia,,"ochracea",,"","Ridl.",Synonym,,H,WCSP,135439,,"J. Straits Branch Roy. Asiat. Soc.","86: 308","","1922",kew-135441
+tro-50020801,A,Orchidaceae,,Neuwiedia,,"ocrea",,"","Ridl.",Unresolved,,L,TRO,50020801,645564-1,"J. Asiat. Soc., Sci.","86: 308","308","1922",
+kew-135440,A,Orchidaceae,,Neuwiedia,,"siamensis",,"","de Vogel",Accepted,,H,WCSP,135440,645565-1,"Blumea","17: 328","","1969",
+kew-135441,A,Orchidaceae,,Neuwiedia,,"singapureana",,"","(Wall. ex Baker) Rolfe",Accepted,,H,WCSP,135441,645566-1,"Bull. Misc. Inform. Kew","1907: 412","","1907",
+kew-135442,A,Orchidaceae,,Neuwiedia,,"veratrifolia",,"","Blume",Accepted,,H,WCSP,135442,,"Tijdschr. Natuurl. Gesch. Physiol.","1: 142","","1834",
+kew-135443,A,Orchidaceae,,Neuwiedia,,"zollingeri",,"","Rchb.f.",Accepted,,H,WCSP,135443,645568-1,"Bonplandia (Hannover)","5: 58","","1857",
+kew-467650,A,Orchidaceae,,Neuwiedia,,"zollingeri",var.,"annamensis","(Gagnep.) Aver.",Accepted,,L,WCSP,467650,77110921-1,"Turczaninowia","11(1): 51","","2008",
+kew-467651,A,Orchidaceae,,Neuwiedia,,"zollingeri",var.,"balansae","(Baill. ex Gagnep.) Aver.",Synonym,,L,WCSP,467651,77110922-1,"Turczaninowia","11(1): 51","","2008",kew-135441
+kew-135444,A,Orchidaceae,,Neuwiedia,,"zollingeri",var.,"javanica","(J.J.Sm.) de Vogel",Accepted,,L,WCSP,135444,,"Blumea","17: 329","","1969",
+kew-135445,A,Orchidaceae,,Neuwiedia,,"zollingeri",var.,"singapureana","(Wall. ex Baker) de Vogel",Synonym,,L,WCSP,135445,,"Blumea","17: 331","","1969",kew-135441
+kew-135446,A,Orchidaceae,,Neuwiedia,,"zollingeri",var.,"zollingeri","",Synonym,,L,WCSP,135446,,"Unknown","","","",kew-135443

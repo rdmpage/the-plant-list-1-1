@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-15610,A,Compositae,,Centromadia,,"bakeri",,"","Greene ex C.F.Baker",Unresolved,Illegitimate,L,TICA,A8B6C033-E3BD-4418-B12A-1CE7521B875A,,"West American Plants 1:","","8","1902",
+gcc-9378,A,Compositae,,Centromadia,,"congdonii",,"","(B.L.Rob. & Greenm.) C.P.Sm.",Synonym,,M,TICA,97CAC0BB-0285-4B45-B2F0-1183025F824C,51448-2,"Muhlenbergia 4","","73","1908",gcc-56142
+gcc-141100,A,Compositae,,Centromadia,,"fitchii",,"","(A.Gray) Greene",Accepted,,M,TICA,1B2DF35D-3F14-44A4-9D7A-F692C5731476,51449-2,"Man. Bot. San Franc. Bay","","197","1894",
+gcc-81928,A,Compositae,,Centromadia,,"maritima",,"","Greene",Synonym,,M,TICA,3F285EFB-DFB5-496E-85CE-70E4EECC8BEC,51450-2,"Man. Bot. San Franc. Bay","","196","1894",gcc-88379
+gcc-86769,A,Compositae,,Centromadia,,"parryi",,"","(Greene) Greene",Accepted,,M,TICA,98B70643-00E3-4836-A9D6-7BACC670C0A7,51451-2,"Man. Bot. San Franc. Bay","","197","1894",
+gcc-44011,A,Compositae,,Centromadia,,"parryi",subsp.,"australis","(D.D.Keck) B.G.Baldwin",Accepted,,L,TICA,83E52983-103B-4326-A510-5186AE0D39F8,1012658-1,"Novon 9(4)","","466","1999",
+gcc-56142,A,Compositae,,Centromadia,,"parryi",subsp.,"congdonii","(B.L.Rob. & Greenm.) B.G.Baldwin",Accepted,,L,TICA,A289FD83-7CFC-42D6-9342-7C214B10CF6A,1012659-1,"Novon 9(4)","","466","1999",
+gcc-52134,A,Compositae,,Centromadia,,"parryi",subsp.,"parryi","",Synonym,,L,TICA,3CA902FE-9020-481F-A26E-60B5EB28F15E,,"","","","1999",gcc-86769
+gcc-72294,A,Compositae,,Centromadia,,"parryi",subsp.,"rudis","(Greene) B.G.Baldwin",Accepted,,L,TICA,12AEADDE-B497-4AEC-A228-FCD6477D1830,1012660-1,"Novon 9(4)","","467","1999",
+tro-50336074,A,Compositae,,Centromadia,,"perennis",,"","Greene",Accepted,,M,TRO,50336074,,"","","","1896",
+gcc-88379,A,Compositae,,Centromadia,,"pungens",,"","(Hook. & Arn.) Greene",Accepted,,M,TICA,E7678C06-464E-4951-9AC5-7F4A3C12B93D,51453-2,"Man. Bot. San Franc. Bay","","196","1894",
+gcc-69739,A,Compositae,,Centromadia,,"pungens",var.,"congdonii","(B.L.Rob. & Greenm.) Jeps.",Synonym,,L,TICA,67E29785-4379-4E3E-82DB-E8A8681B45E9,51454-2,"","","1087","1925",gcc-56142
+gcc-62750,A,Compositae,,Centromadia,,"pungens",subsp.,"laevis","(D.D.Keck) B.G.Baldwin",Accepted,,L,TICA,F60BE85F-6ED3-40F4-9143-B12C823C8213,1012661-1,"Novon 9(4)","","467","1999",
+gcc-57510,A,Compositae,,Centromadia,,"pungens",subsp.,"maritima","(Greene) B.G.Baldwin",Synonym,,L,TICA,B703B7FC-3287-43C8-9FB9-86E8946709B5,1012662-1,"Novon 9(4)","","467","1999",gcc-88379
+gcc-59920,A,Compositae,,Centromadia,,"pungens",var.,"parryi","(Greene) Jeps.",Synonym,,L,TICA,A2A62D31-7B31-4769-98C8-9A4C88111A18,51455-2,"","","532","1901",gcc-86769
+gcc-23531,A,Compositae,,Centromadia,,"pungens",subsp.,"pungens","",Synonym,,L,TICA,704B4A1C-C5E3-42D1-8101-2B872C43C48B,,"","","","",gcc-88379
+gcc-56815,A,Compositae,,Centromadia,,"pungens",var.,"pungens","",Synonym,,L,TICA,18BA232D-EC8D-4E9A-9CF7-8163532C36B7,,"","","","",gcc-88379
+gcc-70694,A,Compositae,,Centromadia,,"pungens",subsp.,"septentrionalis","(D.D.Keck) B.G.Baldwin",Synonym,,L,TICA,030CBC0F-CE47-4A2B-B30A-F023519BC6F0,1012663-1,"Novon 9(4)","","467","1999",gcc-88379
+gcc-91776,A,Compositae,,Centromadia,,"rudis",,"","Greene",Synonym,,M,TICA,3FBF4B90-A117-4154-9138-8720F9149C7F,51456-2,"Man. Bot. San Franc. Bay","","197","1894",gcc-72294

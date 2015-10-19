@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-137486,A,Compositae,,Monolopia,,"bahiifolia",,"","Benth.",Synonym,,L,TICA,F4DCB5EF-18CE-4469-8153-EE8E0FA918D8,,"Pl. Hartw. 317.","","","1849",gcc-17036
+gcc-71220,A,Compositae,,Monolopia,,"bahiifolia",var.,"bahiifolia","",Synonym,,L,TICA,8311C4D0-A52F-41EB-BBE7-F47B730687DD,,"","","","",gcc-17036
+gcc-100251,A,Compositae,,Monolopia,,"californica",,"","(DC. ex Lindl.) Fisch. & C.A.Mey.",Unresolved,,L,TICA,CB35083E-1930-4890-9AB7-9A3422B56859,233503-1,"Index Seminum [St. Petersburg] 9:","","""32, 80""","1843",
+gcc-28730,A,Compositae,,Monolopia,,"californica",,"","Fisch.Mey. & Avé-Lall.",Unresolved,,L,TICA,D915743F-3B7A-434F-8841-3521EEBDB3A1,,"Index Seminum Hort. Petrop. ix. 80","","80","",
+gcc-116858,A,Compositae,,Monolopia,,"congdonii",,"","(A.Gray) B.G.Baldwin",Accepted,,M,TICA,4701CB5D-58C7-48DF-96D2-BF631EC9773D,1012644-1,"Novon 9(4)","","460","1999",
+gcc-26671,A,Compositae,,Monolopia,,"glabrata",,"","(Lindl.) Fisch. & C.A.Mey.",Unresolved,,L,TICA,575A55DB-F260-4D50-9F19-3145A58F1CF0,,"Index Seminum Hort. Petrop. ix. 80","","","1843",
+gcc-131550,A,Compositae,,Monolopia,,"gracilens",,"","A.Gray",Accepted,,M,TICA,42E93139-FB00-4A77-9FD4-E1297C372B7D,233505-1,"Proc. Amer. Acad. Arts xix. (1883) 20.","","20","1883",
+gcc-43830,A,Compositae,,Monolopia,,"heermannii",,"","Durand",Synonym,,M,TICA,2B094450-2EC2-497E-AB58-5132B326BE86,1154951-2,"","","93","1855",gcc-51627
+gcc-96079,A,Compositae,,Monolopia,,"lanceolata",,"","Nutt.",Accepted,,M,TICA,C23F8028-2FBB-4918-BDA7-90C5AB6F5C0B,,"","","","1848",
+gcc-106591,A,Compositae,,Monolopia,,"major",,"","DC.",Accepted,,M,TICA,EF846AF0-0BCB-42EC-A105-A827955D0DD1,,"Prodr. (DC.) 6: 74","","74","",
+gcc-62211,A,Compositae,,Monolopia,,"major",var.,"major","",Synonym,,L,TICA,969EC17B-90D0-42D8-999C-ACCE9714A485,,"","","","1876",gcc-106591
+gcc-16186,A,Compositae,,Monolopia,,"minor",,"","DC.",Synonym,,L,TICA,B084399A-A392-4439-A37D-1DF2CF4A0423,,"Prodr. (DC.) 6: 74","","74","",gcc-140874
+gcc-144074,A,Compositae,,Monolopia,,"stricta",,"","Crum",Accepted,,M,TICA,D5C2C91D-4180-40C4-BC8E-FD4C37358221,,"","","","1940",

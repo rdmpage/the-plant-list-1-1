@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-120965,A,Lamiaceae,,Marsypianthes,,"arenosa",,"","Brandegee",Accepted,,H,WCSP,120965,153687-2,"Univ. Calif. Publ. Bot.","10: 418","","1924",
+kew-120966,A,Lamiaceae,,Marsypianthes,,"burchellii",,"","Epling",Accepted,,H,WCSP,120966,153688-2,"Repert. Spec. Nov. Regni Veg. Beih.","85: 186","","1936",
+kew-120967,A,Lamiaceae,,Marsypianthes,,"chamaedrys",,"","(Vahl) Kuntze",Accepted,,H,WCSP,120967,449997-1,"Revis. Gen. Pl.","2: 524","","1891",
+kew-120969,A,Lamiaceae,,Marsypianthes,,"foliolosa",,"","Benth.",Accepted,,H,WCSP,120969,449998-1,"Prodr.","12: 85","","1848",
+kew-120970,A,Lamiaceae,,Marsypianthes,,"glomerata",,"","C.Presl",Unresolved,,L,WCSP,120970,449999-1,"Abh. Königl. Böhm. Ges. Wiss.","V, 3: 531","","1845",
+kew-120971,A,Lamiaceae,,Marsypianthes,,"hassleri",,"","Briq.",Accepted,,H,WCSP,120971,153691-2,"Bull. Herb. Boissier","II, 7: 620","","1907",
+kew-120972,A,Lamiaceae,,Marsypianthes,,"hyptoides",,"","Mart. ex Benth.",Synonym,Illegitimate,H,WCSP,120972,450001-1,"Labiat. Gen. Spec.","64","","1833",kew-120967
+kew-120973,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"arenosa","Benth.",Synonym,,L,WCSP,120973,153692-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120974,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"bracteosa","Benth.",Synonym,,L,WCSP,120974,153693-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120975,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"calycina","Benth.",Synonym,,L,WCSP,120975,153694-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120976,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"elatior","Benth.",Synonym,,L,WCSP,120976,153695-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120977,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"eriocephala","Benth.",Synonym,,L,WCSP,120977,153696-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120978,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"montana","(Benth.) J.A.Schmidt",Synonym,,L,WCSP,120978,153697-2,"Fl. Bras.","8(1): 79","","1858",kew-120980
+kew-120979,A,Lamiaceae,,Marsypianthes,,"hyptoides",var.,"umbrosa","Benth.",Synonym,,L,WCSP,120979,153698-2,"Prodr.","12: 85","","1848",kew-120967
+kew-120980,A,Lamiaceae,,Marsypianthes,,"montana",,"","Benth.",Accepted,,H,WCSP,120980,450002-1,"Prodr.","12: 85","","1848",
+kew-120981,A,Lamiaceae,,Marsypianthes,,"secundiflora",,"","M.Martens & Galeotti",Synonym,,H,WCSP,120981,450003-1,"Bull. Acad. Roy. Sci. Bruxelles","11(2): 185","","1844",kew-120967
+kew-120982,A,Lamiaceae,,Marsypianthes,,"sessiliflora",,"","C.Presl",Synonym,,H,WCSP,120982,450004-1,"Abh. Königl. Böhm. Ges. Wiss.","V, 3: 531","","1845",kew-120967
+kew-120983,A,Lamiaceae,,Marsypianthes,,"viscosa",,"","Klotzsch",Synonym,Invalid,H,WCSP,120983,,"Reis. Guiana & Orinoko","1148","","1841",kew-120967

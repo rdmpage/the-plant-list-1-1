@@ -1,0 +1,45 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-103739,A,Compositae,,Clarionea,,"acanthoides",,"","D.Don ex Hook. & Arn.",Synonym,,M,TICA,32B17E21-E6B0-4CF3-91E7-A1EF958B0471,,"","","","1835",gcc-81638
+gcc-119636,A,Compositae,,Clarionea,,"affinis",,"","Phil.",Synonym,,M,TICA,9E32DDA6-C873-4233-82DB-C59D4B9666CC,196252-1,"Anales de la Universidad de Chile 43:","","479","1873",gcc-98707
+gcc-103392,A,Compositae,,Clarionea,,"atacamensis",,"","Phil.",Synonym,,M,TICA,AE9B3EAB-AF4A-4363-8D10-A12C1D17A170,59667-2,"","","35","1891",gcc-90280
+gcc-153488,A,Compositae,,Clarionea,,"atacamensis",,"","(Phil.) Reiche",Synonym,,M,TICA,F600277E-BB71-412C-B9AB-AF77333686F8,,"","","","",gcc-90280
+gcc-136715,A,Compositae,,Clarionea,,"carthamoides",,"","D.Don",Synonym,,M,TICA,D6C4E4E1-94AF-4380-8E2E-ECD20EB99221,,"","","","1832",gcc-35354
+gcc-149059,A,Compositae,,Clarionea,,"carthamoides",var.,"carthamoides","",Synonym,,L,TICA,94985F3A-9BFA-4381-9E18-509B4ED26709,,"","","","",gcc-35354
+gcc-32081,A,Compositae,,Clarionea,,"carthamoides",var.,"crispa","(Meyen) Phil.",Synonym,,L,TICA,5B3D9196-2FF8-4D46-9AD6-3B6988A9CE79,59668-2,"Linnaea 33","","124","1864",gcc-35354
+gcc-959,A,Compositae,,Clarionea,,"caulescens",,"","Phil.",Synonym,,M,TICA,5EB3D904-787E-431A-BA80-01C7C71BF077,59669-2,"Anales Univ. Chile 87","","301","1894",gcc-21970
+gcc-110676,A,Compositae,,Clarionea,,"ciliaris",,"","(D.Don ex Hook. & Arn.) DC.",Synonym,,M,TICA,CBE929A2-4248-4530-AD85-B17433AAEB63,,"Compan. Bot. Mag. 1: 34 (1835)","","","",gcc-12399
+gcc-17397,A,Compositae,,Clarionea,,"ciliaris",,"","D.Don ex Hook. & Arn.",Unresolved,,L,TICA,F8CE6500-4BA7-40B8-836F-20252D4BB171,196256-1,"in Comp. Bot. Mag. i. (1835) 34.","","i.  34","1835",
+gcc-12371,A,Compositae,,Clarionea,,"ciliosa",,"","Phil.",Synonym,,M,TICA,7F40BCC9-5176-450A-9806-1711FDAC8559,59670-2,"Anales Mus. Nac. Santiago de Chile 1891: 35.","","35","1891",gcc-129990
+gcc-125394,A,Compositae,,Clarionea,,"comosa",,"","Phil.",Synonym,,M,TICA,266ED164-883A-47BE-9A84-D2F3B61C03D7,59671-2,"Anales Univ. Chile 87","","304","1894",gcc-113735
+gcc-98941,A,Compositae,,Clarionea,,"dicephala",,"","DC.",Synonym,,M,TICA,FD9D62F0-CFDB-46BA-817A-973BFEDC3CBF,196258-1,"","","62","1838",gcc-141471
+gcc-78243,A,Compositae,,Clarionea,,"elegans",,"","Phil.",Synonym,,L,TICA,AE2E4188-AD56-4E63-B231-68B329CCCCA1,196259-1,"Linnaea 28","","717","1858",gcc-115512
+tro-2742195,A,Compositae,,Clarionea,,"fonckii",,"","Phil.",Synonym,,L,TRO,2742195,,"Linnaea","28: 718","718","1857",gcc-4854
+gcc-13830,A,Compositae,,Clarionea,,"fonki",,"","Phil.",Synonym,,M,TICA,1CAF96E4-E0FB-4E59-8397-19B45E659765,196260-1,"Linnaea 28","","718","1858",gcc-98707
+gcc-20219,A,Compositae,,Clarionea,,"glaberrima",,"","Cass.",Unresolved,Illegitimate,L,TICA,50F417F7-4AA1-41F8-B7C8-255EB6F36277,,"Opuscules Phytologiques 2:","","166","1826",
+gcc-51084,A,Compositae,,Clarionea,,"humilis",,"","Phil.",Synonym,,M,TICA,000F36BA-6FF4-4A24-AA6A-5EC4DC9BF203,196262-1,"Linnaea 28","","717","1858",gcc-113735
+gcc-39015,A,Compositae,,Clarionea,,"laciniata",,"","Phil.",Synonym,,M,TICA,677219A9-279E-42F0-8F5B-48634E424734,196263-1,"Anales de la Universidad de Chile 43:","","479","1873",gcc-113735
+gcc-39577,A,Compositae,,Clarionea,,"lactucoides",,"","(Vahl) D.Don",Unresolved,,L,TICA,43AC5DC0-26EC-4550-A2CD-49727741E23C,1173847-2,"Trans. Linn. Soc. London 16","","206","1833",
+tro-2742153,A,Compositae,,Clarionea,,"lactucoides",,"","(Vahl) Don",Synonym,,M,TRO,2742153,196264-1,"Trans. Linn. Soc. London","16: 206","206","1830",gcc-18311
+gcc-76505,A,Compositae,,Clarionea,,"lechleri",,"","Sch.Bip.",Synonym,,M,TICA,8176A030-83E2-47F6-A90C-64DD00CD7A23,196265-1,"","","122","1855",gcc-80090
+gcc-120242,A,Compositae,,Clarionea,,"macrocephala",,"","Sch.Bip.",Synonym,,M,TICA,5E5B7BC2-A849-4B19-B551-C70AAEBC4E23,196266-1,"","","","1857",gcc-91102
+gcc-111875,A,Compositae,,Clarionea,,"magellanica",,"","(L.f.) DC.",Synonym,,L,TICA,ACBEA563-AD1D-40D0-8AB0-B4246079FFC5,,"Annales du Museum National d'Histoire Naturelle 19:","","""66, pl. 3, t. xii, f. 2a-2f""","1812",gcc-115512
+gcc-51119,A,Compositae,,Clarionea,,"magellanicum",,"","Sch.Bip.",Unresolved,,L,TICA,8E57FF4A-042A-410F-8AD3-5ED49C753770,,"Flora 38:","","121","1855",
+gcc-92119,A,Compositae,,Clarionea,,"multicapitata",,"","J.Rémy",Synonym,,M,TICA,CF439ACC-6F5B-4740-AAA6-87E4E2A44903,,"Fl. Chil. 2: 410 (1847)","","410","1847",gcc-35354
+gcc-123386,A,Compositae,,Clarionea,,"nana",,"","Phil.",Synonym,,M,TICA,4A2CFFE0-0720-4444-8FAB-CE2BAAA2655B,59676-2,"Anales Univ. Chile 87","","303","1894",gcc-21970
+gcc-80637,A,Compositae,,Clarionea,,"parvifolia",,"","Phil.",Synonym,,M,TICA,5A5A154A-E729-490A-9746-6E011ED9FCD5,196270-1,"","","480","1873",gcc-113735
+gcc-86247,A,Compositae,,Clarionea,,"pedicularifolia",,"","(Less.) DC.",Synonym,,M,TICA,C517B0B1-12A0-4571-AE55-7A7E9B2AAC4E,196271-1,"Prodromus Systematis Naturalis Regni Vegetabilis 7(1):","","61","1838",gcc-113735
+gcc-143452,A,Compositae,,Clarionea,,"pilifera",,"","D.Don",Synonym,,M,TICA,D4830979-B8E2-4668-8F8A-FBEFA19D1795,196272-1,"","","388","1832",gcc-80090
+gcc-18692,A,Compositae,,Clarionea,,"pinnata",,"","Phil.",Synonym,,M,TICA,AEA66643-C3BF-4F0E-90EE-2287B7BC9F5A,196273-1,"Linnaea 28","","718","1858",gcc-116933
+gcc-47227,A,Compositae,,Clarionea,,"pinnatifida",,"","DC.",Synonym,,M,TICA,B0C8719D-3496-4562-AE54-57781BE3E124,196274-1,"Prodromus Systematis Naturalis Regni Vegetabilis 7:","","62","1838",gcc-126989
+gcc-3465,A,Compositae,,Clarionea,,"polycephala",,"","Cass.",Synonym,Illegitimate,M,TICA,759B3E0E-AB9B-4AC3-8895-065F1EDE23E2,,"Opuscules Phytologiques 2:","","167","1826",gcc-81638
+gcc-124703,A,Compositae,,Clarionea,,"pungens",,"","DC.",Unresolved,,L,TICA,48F8BDAB-D52C-40F3-B2BD-D14BAEC21CB0,196276-1,"Prodr. (DC.) 7(1): 62","","62","1838",
+gcc-90994,A,Compositae,,Clarionea,,"pungens",,"","(Bonpl.) D.Don ex Taylor & Philips",Synonym,Illegitimate,M,TICA,984A0207-07C2-4F84-8E82-854E667BC381,,"Phil. Mag. 11:","","388","1832",gcc-91102
+gcc-51108,A,Compositae,,Clarionea,,"recurvata",,"","(Vahl) D.Don",Synonym,,L,TICA,CE29BD23-2471-44B1-A38D-5ECFD06A9FDE,196277-1,"","","206","1830",gcc-88534
+gcc-80034,A,Compositae,,Clarionea,,"runcinata",,"","Lag. ex D.Don",Synonym,,M,TICA,C70CB9EB-554A-464D-9F32-6CB6057EE095,196278-1,"Trans. Linn. Soc. London 16: 207 (1830)","","207","1830",gcc-80909
+gcc-76852,A,Compositae,,Clarionea,,"spathulata",,"","Lag. ex D.Don",Synonym,Illegitimate,M,TICA,4DB10EB0-1F17-4878-88B8-6590945E23EB,196279-1,"Transactions of the Linnean Society of London 16(2):","","205","1830",gcc-50856
+gcc-96120,A,Compositae,,Clarionea,,"spectabilis",,"","Phil.",Synonym,,M,TICA,201A71D2-57F4-4D2C-B3C9-90D5CBE9BB04,59679-2,"Anales Univ. Chile 87","","303","1894",gcc-35354
+gcc-50481,A,Compositae,,Clarionea,,"variabilis",,"","Phil.",Synonym,,M,TICA,06F2C61A-46BA-4D9B-9319-5D9584FD77CC,196281-1,"Linnaea 33","","125","1864",gcc-113735
+gcc-18479,A,Compositae,,Clarionea,,"virens",,"","D.Don",Synonym,,M,TICA,08EF6408-C2B8-4649-AF19-221F314455BA,196282-1,"","","208","1830",gcc-21970
+gcc-23825,A,Compositae,,Clarionea,,"virens",var.,"humilis","Phil.",Synonym,,L,TICA,1A728989-F0EB-495C-B592-2C0C41D8ED65,,"Linnaea 33","","","1864",gcc-21970
+gcc-153939,A,Compositae,,Clarionea,,"virens",var.,"virens","",Synonym,,L,TICA,999B37F7-C06F-425D-A136-B89B469661C4,,"","","","",gcc-21970
+gcc-45216,A,Compositae,,Clarionea,,"volckmannii",,"","Phil.",Synonym,,M,TICA,571D8866-3050-4B0B-A973-53CBD3E93BAA,196283-1,"","","480","1873",gcc-113735

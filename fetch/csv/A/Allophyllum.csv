@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2629200,A,Polemoniaceae,,Allophyllum,,"capillare",,"","(Kellogg) A.G.Day & V.E.Grant",Unresolved,,L,WCSP (in review),,1012412-1,"Phytologia","84: 375","","1998 publ. 1999",tro-50100651
+kew-2629201,A,Polemoniaceae,,Allophyllum,,"divaricatum",,"","(Nutt.) A.D.Grant & V.E.Grant",Accepted,,M,WCSP (in review),,9111-2,"Aliso","3: 101","","1955",
+kew-2629202,A,Polemoniaceae,,Allophyllum,,"gilioides",,"","(Benth.) A.D.Grant & V.E.Grant",Accepted,,M,WCSP (in review),,9112-2,"Aliso","3: 105","","1955",
+tro-50140992,A,Polemoniaceae,,Allophyllum,,"gilioides",subsp.,"gilioides","",Synonym,,L,TRO,50140992,,"","","","",kew-2629202
+kew-2629203,A,Polemoniaceae,,Allophyllum,,"gilioides",subsp.,"violaceum","(A.Heller) A.G.Day",Accepted,,L,WCSP (in review),,975286-1,"Novon","3: 331","","1993",
+kew-2629204,A,Polemoniaceae,,Allophyllum,,"glutinosum",,"","(Benth.) A.D.Grant & V.E.Grant",Accepted,,M,WCSP (in review),,9113-2,"Aliso","3: 104","","1955",
+kew-2629205,A,Polemoniaceae,,Allophyllum,,"integrifolium",,"","(Brand) A.D.Grant & V.E.Grant",Accepted,,M,WCSP (in review),,9114-2,"Aliso","3: 102","","1955",
+kew-2629206,A,Polemoniaceae,,Allophyllum,,"leptaleum",,"","(A.Gray) A.G.Day & V.E.Grant",Unresolved,,L,WCSP (in review),,1012413-1,"Phytologia","84: 375","","1998 publ. 1999",
+kew-2629207,A,Polemoniaceae,,Allophyllum,,"leptaleum",subsp.,"bicolor","(H.Mason & A.D.Grant) A.G.Day & V.E.Grant",Unresolved,,L,WCSP (in review),,1012414-1,"Phytologia","84: 376","","1998 publ. 1999",tro-50175083
+kew-2629208,A,Polemoniaceae,,Allophyllum,,"nemophilophyllum",,"","J.M.Porter & L.A.Johnson",Accepted,,M,WCSP (in review),,1015835-1,"Aliso","19: 64","","2000",
+kew-2629209,A,Polemoniaceae,,Allophyllum,,"sinistrum",,"","(M.E.Jones) A.G.Day & V.E.Grant",Synonym,,L,WCSP (in review),,1012415-1,"Phytologia","84: 376","","1998 publ. 1999",kew-2381532
+kew-2629210,A,Polemoniaceae,,Allophyllum,,"sinistrum",subsp.,"pinnatisectum","(H.Mason & A.D.Grant) A.G.Day & V.E.Grant",Unresolved,,L,WCSP (in review),,1012416-1,"Phytologia","84: 376","","1998 publ. 1999",
+kew-2629211,A,Polemoniaceae,,Allophyllum,,"tenerrimum",,"","(A.Gray) V.E.Grant",Synonym,,M,WCSP (in review),,1012354-1,"Phytologia","84: 79","","1998 publ. 1999",kew-2495240
+kew-2629212,A,Polemoniaceae,,Allophyllum,,"violaceum",,"","(A.Heller) A.D.Grant & V.E.Grant",Synonym,,L,WCSP (in review),,9115-2,"Aliso","3: 106","","1955",kew-2629203

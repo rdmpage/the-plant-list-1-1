@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-85232,A,Compositae,,Trilisa,,"carnosa",,"","(Small) B.L.Rob.",Synonym,,M,TICA,DBF41E0A-0E4C-4D0B-B65F-78405DA90861,258280-2,"Contr. Gray Herb. 104","","49","1934",gcc-87122
+gcc-128318,A,Compositae,,Trilisa,,"odoratissima",,"","(J.F.Gmel.) Cass.",Accepted,,M,TICA,FE494785-DD0F-4C97-8364-D9C000D41782,,"","","140","1818",
+gcc-41082,A,Compositae,,Trilisa,,"paniculata",,"","(J.F.Gmel.) Cass.",Accepted,,M,TICA,CC52BA7E-18A3-4331-9114-4C2549109FDB,256421-1,"","","310","1828",
+gcc-147036,A,Compositae,,Trilisa,,"paniculata",f.,"paniculata","",Synonym,,L,TICA,F5DC1216-8DBB-47FB-91A9-252F2446BDDA,,"","","","",gcc-41082

@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136072,A,Compositae,,Gymnostyles,,"alata",,"","Spreng.",Synonym,,M,TICA,52FB991A-7FF0-4351-80BB-EB5345705C6A,211044-1,"","","500","1826",gcc-98509
+gcc-47368,A,Compositae,,Gymnostyles,,"anthemidifolia",,"","A.Juss.",Unresolved,,L,TICA,0F3CEB49-4FAB-4848-984A-57BADCBE50D9,,"Annales du Museum National d'Histoire Naturelle 4:","","""262, pl. 61""","1804",
+gcc-77761,A,Compositae,,Gymnostyles,,"anthemifolia",,"","Juss.",Synonym,,M,TICA,FD5FFA98-6081-4169-B232-679D1D6F6DF0,143935-3,"Ann. Mus. Natl. Hist. Nat. 4","","","1804",gcc-80777
+gcc-11087,A,Compositae,,Gymnostyles,,"barcklayana",,"","(DC.) Steud.",Synonym,,M,TICA,B4A36FC2-FB69-4A82-B707-14BE51C170CC,211046-1,"","","713","1840",gcc-98509
+gcc-46900,A,Compositae,,Gymnostyles,,"chilensis",,"","Spreng.",Synonym,,M,TICA,3195DBCF-CFFC-4EAD-A683-56EB3B7B902A,211047-1,"","","500","1826",gcc-98509
+gcc-38157,A,Compositae,,Gymnostyles,,"lusitanica",,"","Spreng.",Synonym,,L,TICA,E01BB4A6-BBC7-471D-B89A-46C633410ACE,211048-1,"","","500","1826",gcc-41812
+gcc-121166,A,Compositae,,Gymnostyles,,"minuta",,"","(L.f.) Spreng.",Synonym,,M,TICA,1716847E-C2B6-4BDB-BA1D-C92DE783512C,1097601-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 500","","500","1826",gcc-32023
+gcc-19508,A,Compositae,,Gymnostyles,,"mutisii",,"","Spreng.",Synonym,,M,TICA,CBAE001D-1FCA-434E-83C6-240E22368A66,211050-1,"","","500","1826",gcc-80777
+gcc-144694,A,Compositae,,Gymnostyles,,"nasturtiifolia",,"","Juss.",Unresolved,,L,TICA,1D8B1220-730B-49D1-A1C6-FEB2A00E2CA1,211051-1,"","","262","1804",gcc-41812
+gcc-107654,A,Compositae,,Gymnostyles,,"parthenifolia",,"","ex DC.",Unresolved,,L,TICA,5B65DB0C-A81F-49A5-8B50-AA8FB340962D,329304-2,"Prodr. (DC.) 5: 530","","530","1836",
+gcc-134258,A,Compositae,,Gymnostyles,,"partheniifolia",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,BEB8E36A-73B2-4518-823B-E760AB9F2050,329304-2,"","","530","1836",gcc-110025
+gcc-113981,A,Compositae,,Gymnostyles,,"pedunculata",,"","Moc. ex DC.",Synonym,,M,TICA,234BB34B-F513-47A4-88F7-B8CC9281BAA3,211053-1,"","","143","1838",gcc-32023
+gcc-15812,A,Compositae,,Gymnostyles,,"peruviana",,"","Spreng.",Synonym,,M,TICA,8D3E3A3E-9DFA-4CDD-A49C-1D47B2F0942B,211054-1,"Syst. Veg. 3","","500","1826",gcc-32023
+gcc-47434,A,Compositae,,Gymnostyles,,"pterosperma",,"","Juss.",Synonym,,M,TICA,E8727C60-D2D0-4534-A474-57DCDAB58A65,330245-2,"Ann. Mus. Natl. Hist. Nat. 4","","262","1804",gcc-98509
+gcc-110482,A,Compositae,,Gymnostyles,,"stolonifera",,"","(Brot.) Tutin",Synonym,,L,TICA,2293F88F-EBD9-4E27-BE12-B0FBD1024B45,1202796-2,"","","18","1975",gcc-41812
+gcc-115665,A,Compositae,,Gymnostyles,,"stolonifera",,"","A.Juss.",Synonym,,L,TICA,E0F49320-272E-4AD4-B6FE-BCB7FFA9F61B,,"","","","1804",gcc-41812
+gcc-149166,A,Compositae,,Gymnostyles,,"stolonifera",,"","(Brot.) Juss. ex Steud.",Synonym,,L,TICA,425E46F4-3AF7-4031-AB07-52F9AFB0282C,,"","","","",gcc-41812
+gcc-151051,A,Compositae,,Gymnostyles,,"stolonifera",,"","(Brot.) Juss. ex Brot.",Synonym,,L,TICA,01C629F8-1598-47B6-B590-7C27818F466B,,"","","","",gcc-41812
+gcc-153552,A,Compositae,,Gymnostyles,,"stolonifera",,"","(Brot.) Juss. ex DC.",Synonym,,L,TICA,48483835-266E-4F4B-8A18-B0BFBB9B7E39,,"","","","",gcc-41812
+gcc-51010,A,Compositae,,Gymnostyles,,"stolonifera",,"","(Brot.) R.Br. ex G.Don",Synonym,,M,TICA,C8BE0D62-3741-456D-9C23-5EA2D4C89895,,"Bot. J. Linn. Soc. 70: 18 (1975)","","18","1975",gcc-119720

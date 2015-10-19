@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-109251,A,Rubiaceae,,Lelya,,"osteocarpa",,"","Bremek.",Accepted,,H,WCSP,109251,755229-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 181","","1952",
+kew-109252,A,Rubiaceae,,Lelya,,"osteocarpa",var.,"angustifolia","Bremek.",Synonym,,L,WCSP,109252,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 183","","1952",kew-109251
+kew-109253,A,Rubiaceae,,Lelya,,"prostrata",,"","W.H.Lewis",Synonym,,H,WCSP,109253,755230-1,"Ann. Missouri Bot. Gard.","52: 189","","1965",kew-109251
+kew-109255,A,Rubiaceae,,Lelya,,"prostrata",var.,"angustifolia","(Bremek.) W.H.Lewis",Synonym,,L,WCSP,109255,,"Ann. Missouri Bot. Gard.","52: 189","","1965",kew-109251
+kew-109257,A,Rubiaceae,,Lelya,,"prostrata",var.,"elongata","Verdc.",Synonym,,L,WCSP,109257,890400-1,"Kew Bull.","30: 466","","1975",kew-109251

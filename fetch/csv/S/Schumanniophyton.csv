@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-188459,A,Rubiaceae,,Schumanniophyton,,"hirsutum",,"","(Hiern) R.D.Good",Accepted,,H,WCSP,188459,766232-1,"J. Bot.","64: 171","","1926",
+kew-188460,A,Rubiaceae,,Schumanniophyton,,"klaineanum",,"","Perre ex A.Chev.",Synonym,,H,WCSP,188460,766233-1,"Veg. Ut. Afr. Trop. Franç.","9: 232","","1917",kew-342000
+kew-188461,A,Rubiaceae,,Schumanniophyton,,"magnificum",,"","(K.Schum.) Harms",Accepted,,H,WCSP,188461,766234-1,"Nat. Pflanzenfam.","Nachtr. 1: 313","","1897",
+kew-342000,A,Rubiaceae,,Schumanniophyton,,"magnificum",var.,"klaineanum","(Perre ex A.Chev.) N.Hallé",Accepted,,L,WCSP,342000,,"in Fl. Gabon","17: 24","","1970",
+kew-342004,A,Rubiaceae,,Schumanniophyton,,"magnificum",f.,"letestuanum","N.Hallé",Synonym,,L,WCSP,342004,,"in Fl. Gabon","17: 26","","1970",kew-342002
+kew-342001,A,Rubiaceae,,Schumanniophyton,,"magnificum",var.,"magnificum","",Synonym,,L,WCSP,342001,,"Unknown","","","",kew-188461
+kew-342002,A,Rubiaceae,,Schumanniophyton,,"magnificum",var.,"trimerum","(R.D.Good) N.Hallé",Accepted,,L,WCSP,342002,,"in Fl. Gabon","17: 24","","1970",
+kew-342003,A,Rubiaceae,,Schumanniophyton,,"magnificum",f.,"umbraticola","(G.Taylor) N.Hallé",Synonym,,L,WCSP,342003,,"in Fl. Gabon","17: 26","","1970",kew-342002
+kew-188462,A,Rubiaceae,,Schumanniophyton,,"problematicum",,"","(A.Chev.) Aubrév.",Accepted,,H,WCSP,188462,766235-1,"Fl. Forest. Côte d'Ivoire","ed. 2, 3: 255","","1959",
+kew-188463,A,Rubiaceae,,Schumanniophyton,,"trimerum",,"","R.D.Good",Synonym,,H,WCSP,188463,766236-1,"J. Bot.","64: 171","","1926",kew-342002
+kew-188464,A,Rubiaceae,,Schumanniophyton,,"umbraticola",,"","G.Taylor",Synonym,,H,WCSP,188464,766237-1,"J. Bot.","68: 341","","1930",kew-342002

@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-404042,A,Poaceae,,Centotheca,,"lappacea",,"","(L.) Desv.",Accepted,,H,WCSP,404042,395345-1,"Nouv. Bull. Sci. Soc. Philom. Paris","2: 189","","1810",
+kew-404043,A,Poaceae,,Centotheca,,"lappacea",subsp.,"inermis","(Rendle) T.Koyama",Synonym,,L,WCSP,404043,954129-1,"Grass. Japan","497","","1987",kew-404042
+kew-404044,A,Poaceae,,Centotheca,,"lappacea",var.,"inermis","Rendle",Synonym,,L,WCSP,404044,,"J. Linn. Soc., Bot.","36: 420","","1904",kew-404042
+tro-50143454,A,Poaceae,,Centotheca,,"lappacea",var.,"lappacea","",Synonym,,L,TRO,50143454,,"","","","",kew-404042
+kew-404045,A,Poaceae,,Centotheca,,"lappacea",var.,"longilamina","(Ohwi) Bor",Synonym,,L,WCSP,404045,,"Grass. Burma, Ceylon, India & Pakistan","459","","1960",kew-404042
+kew-404046,A,Poaceae,,Centotheca,,"latifolia",,"","Trin.",Synonym,Illegitimate,H,WCSP,404046,395346-1,"Fund. Agrost.","141","","1820",kew-404042
+kew-404047,A,Poaceae,,Centotheca,,"latifolia",var.,"inermis","(Rendle) Sasaki",Synonym,,L,WCSP,404047,,"List Pl. Formosa","62","","1928",kew-404042
+kew-404048,A,Poaceae,,Centotheca,,"longilamina",,"","Ohwi",Synonym,,H,WCSP,404048,395347-1,"Bull. Tokyo Sci. Mus.","18: 10","","1947",kew-404042
+kew-404049,A,Poaceae,,Centotheca,,"madagascariensis",,"","(Lam.) Hack. ex Scott-Elliot",Synonym,,H,WCSP,404049,395348-1,"J. Linn. Soc., Bot.","29: 66","","1891",kew-423335
+kew-404050,A,Poaceae,,Centotheca,,"malabarica",,"","(L.) Merr.",Synonym,,H,WCSP,404050,395349-1,"Philipp. J. Sci.","1(Suppl.): 385","","1906",kew-422274
+kew-404051,A,Poaceae,,Centotheca,,"maxima",,"","Peter",Synonym,,H,WCSP,404051,395350-1,"Repert. Spec. Nov. Regni Veg. Beih.","40(1 Anh.): 113","","1930",kew-423339
+kew-404052,A,Poaceae,,Centotheca,,"mucronata",,"","(Poir.) Kuntze",Synonym,,H,WCSP,404052,395351-1,"Revis. Gen. Pl.","2: 765","","1891",kew-423339
+kew-404053,A,Poaceae,,Centotheca,,"owariensis",,"","(P.Beauv.) Hack.",Synonym,,H,WCSP,404053,,"Études Fl. Congo","333","","1896",kew-423339
+kew-404054,A,Poaceae,,Centotheca,,"parviflora",,"","Andersson",Synonym,,H,WCSP,404054,,"Naturwiss. Reise Mossambique","559","","1862",kew-404042
+kew-404055,A,Poaceae,,Centotheca,,"philippinensis",,"","(Merr.) C.Monod",Accepted,,H,WCSP,404055,,"Blumea","19: 60","","1971",
+kew-404056,A,Poaceae,,Centotheca,,"schlechteri",,"","Pilger ex Jansen",Synonym,,H,WCSP,404056,395356-1,"Reinwardtia","2: 252","","1953",kew-404055
+kew-404057,A,Poaceae,,Centotheca,,"uniflora",,"","Swallen",Accepted,,H,WCSP,404057,395357-1,"J. Wash. Acad. Sci.","26: 535","","1936",
+kew-404058,A,Poaceae,,Centotheca,,"urekana",,"","Guinea",Synonym,,H,WCSP,404058,395358-1,"Anales Agric. Terr. Espan. Golfo de Guinea","1947: 142","","1948",kew-423339

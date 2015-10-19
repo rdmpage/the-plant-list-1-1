@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-77623,A,Compositae,,Heterolepis,,"aliena",,"","(L.f.) Druce",Accepted,,M,TICA,38514AFB-1E1D-4D7D-897B-674D5D8A725C,213943-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 628 (1917)""","","628","1917",
+gcc-25787,A,Compositae,,Heterolepis,,"conyzoides",,"","Bertero ex DC.",Synonym,,M,TICA,DCD6AA61-DCFC-411E-B53F-2FA466FDF260,213944-1,"Prodr. (DC.) 6: 416","","416","1838",gcc-28765
+gcc-37637,A,Compositae,,Heterolepis,,"decipiens",,"","Cass.",Synonym,Illegitimate,M,TICA,E88DBEB7-DDBA-4E33-8CB6-45C66D7BCD34,213945-1,"in Dict. Sc. Nat. xxi. 120.","","xxi. 120.","",gcc-77623
+kew-418692,A,Poaceae,,Heterolepis,,"elegans",,"","Ehrenb. ex Boiss.",Synonym,Invalid,H,WCSP,418692,,"Fl. Orient.","5: 554","","1884",kew-404976
+gcc-114634,A,Compositae,,Heterolepis,,"mitis",,"","(Burm.) DC.",Accepted,,M,TICA,78E1F548-31AC-4781-9EB2-BA5448B86138,213946-1,"Prodr. (DC.) 6: 497","","497","1838",
+gcc-125660,A,Compositae,,Heterolepis,,"oryzoides",,"","Steud.",Unresolved,,L,TICA,D41CCB05-AC77-4378-8F50-D38D946B1313,213947-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 755, sphalm.""","","755","1840",
+gcc-30698,A,Compositae,,Heterolepis,,"peduncularis",,"","DC.",Accepted,,M,TICA,6ED4B16F-E779-4A4C-920C-38D9D82D701E,213948-1,"Prodr. (DC.) 6: 497","","497","1838",

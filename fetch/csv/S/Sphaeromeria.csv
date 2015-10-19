@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115547,A,Compositae,,Sphaeromeria,,"argentea",,"","Nutt.",Accepted,,M,TICA,0DAD8B42-76DC-4CF0-86AE-BC68F63A8658,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 402""","","402","1841",
+gcc-98494,A,Compositae,,Sphaeromeria,,"cana",,"","(D.C.Eaton) A.Heller",Accepted,,M,TICA,F0D27C61-6DDC-495D-BCB0-96469B08FF02,250665-1,"","","7","1900",
+gcc-23,A,Compositae,,Sphaeromeria,,"capitata",,"","A.Heller",Unresolved,,L,TICA,2B298739-3902-487B-BC1C-000DB049807B,,"","","7","1900",
+gcc-76794,A,Compositae,,Sphaeromeria,,"capitata",,"","Nutt.",Accepted,,M,TICA,F204FE5D-ECAA-42CA-8C38-656DE80C6416,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 402""","","402","1841",
+gcc-119100,A,Compositae,,Sphaeromeria,,"compacta",,"","(H.M.Hall) ""A.H.Holmgren, L.M.Shultz & Lowrey""",Accepted,,M,TICA,E47E401F-CA0E-4E78-A29E-C4753950E32A,241935-2,"","","261","1976",
+gcc-47442,A,Compositae,,Sphaeromeria,,"diversifolia",,"","(D.C.Eaton) Rydb.",Accepted,,M,TICA,5B4B43F3-DF3A-4611-A30C-57E0971438E6,250669-1,"","","242","1916",
+tro-100351974,A,Compositae,,Sphaeromeria,,"diversifolia",,"","(D.C. Eaton) A.A. Heller",Unresolved,,L,TRO,100351974,250667-1,"Muhlenbergia","1(1): 7","7","1900",
+gcc-80356,A,Compositae,,Sphaeromeria,,"martirensis",,"","(Wiggins) ""A.H.Holmgren, L.M.Shultz & Lowrey""",Accepted,,M,TICA,422EC122-AA4A-4086-A63D-6D73C48C2DA5,241937-2,"","","260","1976",
+gcc-10965,A,Compositae,,Sphaeromeria,,"potentilloides",,"","(A.Gray) A.Heller",Accepted,,M,TICA,19729595-5EA7-4721-AE87-147DF1EC18FD,241938-2,"","","7","1900",
+gcc-53777,A,Compositae,,Sphaeromeria,,"potentilloides",var.,"nitrophila","(Cronquist) ""A.H.Holmgren, L.M.Shultz & Lowrey""",Accepted,,L,TICA,9BD3CC69-9DED-4E4D-BC08-68C4B29B0756,241939-2,"","","261","1976",
+gcc-39014,A,Compositae,,Sphaeromeria,,"potentilloides",var.,"potentilloides","",Synonym,,L,TICA,525987B9-9DE3-42EC-8D24-486336EA4C8B,,"","","","",gcc-10965
+gcc-136701,A,Compositae,,Sphaeromeria,,"ruthiae",,"","""A.H.Holmgren, L.M.Shultz & Lowrey""",Accepted,,M,TICA,8830D867-7E0E-4C48-A79C-ECCC8ADDAAA7,,"","","","1976",
+gcc-81083,A,Compositae,,Sphaeromeria,,"simplex",,"","(A.Nelson) A.Heller",Accepted,,M,TICA,7195F20C-FAF3-4E14-8054-6F069A25E0A5,241940-2,"","","7","1900",

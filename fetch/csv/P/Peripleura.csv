@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49172,A,Compositae,,Peripleura,,"arida",,"","(N.T.Burb.) G.L.Nesom",Synonym,,M,TICA,C455675B-5140-45B3-9E67-5B0D797A840C,,"Phytologia 76(2): 131 (1994):.","","131","1994",gcc-9153
+gcc-113527,A,Compositae,,Peripleura,,"bicolor",,"","(N.T.Burb.) G.L.Nesom",Accepted,,L,TICA,422701BB-90E3-4D38-A587-B7D1458FB582,,"Phytologia 76(2): 131 (1994):.","","131","1994",
+gcc-111775,A,Compositae,,Peripleura,,"diffusa",,"","(N.T.Burb.) G.L.Nesom",Accepted,,L,TICA,A5FBD64D-8688-45D6-9938-B3E6EB5FD54D,,"Phytologia 76(2): 131 (1994):.","","131","1994",
+gcc-125383,A,Compositae,,Peripleura,,"hispidula",,"","(F.Muell. ex A.Gray) G.L.Nesom",Accepted,,M,TICA,875AF8E7-5E24-4584-BC15-D2EC73BB656A,,"Phytologia 76(2): 131 (1994):","","131","1994",
+gcc-71261,A,Compositae,,Peripleura,,"hispidula",var.,"hispidula","",Synonym,,L,TICA,A2DE3DE1-066C-428B-B11B-F4D71AF949D6,,"","","","",gcc-125383
+gcc-44347,A,Compositae,,Peripleura,,"obovata",,"","(N.T.Burb.) G.L.Nesom",Synonym,,M,TICA,44663EDB-E81B-4E5E-9BE5-5222722BFC90,,"Phytologia 76(2): 131 (1994):.","","131","1994",gcc-104303
+gcc-112834,A,Compositae,,Peripleura,,"scabra",,"","(DC.) G.L.Nesom",Accepted,,L,TICA,0CFF9B7A-711E-4982-9837-B656D143D804,978392-1,"Phytologia 76(2): 131 (1994):.","","131","1994",
+gcc-94267,A,Compositae,,Peripleura,,"sericea",,"","(N.T.Burb.) G.L.Nesom",Accepted,,L,TICA,20A79E25-D5E0-4961-94C0-8C96BECF4CC5,,"Phytologia 76(2): 132 (1994):.","","132","1994",
+gcc-141271,A,Compositae,,Peripleura,,"spechtii",,"","(N.T.Burb.) G.L.Nesom",Synonym,,M,TICA,A62D3237-DFC2-4009-B271-F702E2BD3720,,"Phytologia 76(2): 132 (1994):.","","132","1994",gcc-78327
+gcc-150897,A,Compositae,,Peripleura,,"spechtii",var.,"spechtii","",Synonym,,L,TICA,364559A0-9C14-4186-AFCE-788D2FE5F919,,"","","","",gcc-78327
+gcc-31696,A,Compositae,,Peripleura,,"virgata",,"","(N.T.Burb.) G.L.Nesom",Synonym,,M,TICA,BE380DD6-CEE2-40DE-9F06-3ABCFF05EDFE,,"Phytologia 76(2): 132 (1994):.","","132","1994",gcc-144599

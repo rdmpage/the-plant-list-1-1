@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-141703,A,Compositae,,Carminatia,,"alvarezii",,"","Rzed. & Calderón",Unresolved,,L,TICA,0FF39208-5921-4B71-ABA1-F7FBC509542F,,"Anales de la Escuela Nacional de Ciencias Biologicas 31:","","9","1987",
+gcc-132481,A,Compositae,,Carminatia,,"anomala",,"","B.L.Turner",Synonym,,L,TICA,E02A1156-4B2D-4CDE-9FA2-E35D9329EFAF,274145-2,"Pl. Syst. Evol. 160","","173","1988",gcc-141703
+gcc-154607,A,Compositae,,Carminatia,,"papagayana",,"","B.L.Turner",Accepted,,M,TICA,F2159D09-882D-4A21-A2ED-C720B07082FB,,"Phytologia 91(1): 88. 2009.","","88","2009",
+gcc-49615,A,Compositae,,Carminatia,,"recondita",,"","McVaugh",Accepted,,M,TICA,20D5E590-C4E3-4263-8E7E-5BF5C5F6EDCE,47643-2,"","","384","1972",
+gcc-7741,A,Compositae,,Carminatia,,"tenuiflora",,"","DC.",Accepted,,M,TICA,3D2CE35C-8E5D-4BB8-8E11-0E619B354060,189328-1,"","","267","1838",
+gcc-152223,A,Compositae,,Carminatia,,"tenuifolia",,"","steudel",Synonym,Invalid,M,TICA,533DAA13-3FFD-4AD4-8676-952540C131F2,,"Nomencl. Bot.1: 299. 1840. ","","299","1840",gcc-7741
+gcc-98228,A,Compositae,,Carminatia,,"tenuifolia",,"","Steud.",Unresolved,Illegitimate,L,TICA,ED50DD74-FDFF-4E83-987C-95A3D73FE7F4,,"""Nomencl. Bot., ed. 2 (Steudel) 1: 299, sphalm.""","","","1840",

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120218,A,Compositae,,Camptacra,,"barbata",,"","N.T.Burb.",Accepted,,M,TICA,EB34A063-BE68-434D-BCD5-C6FBC74D262D,,"","","15","1982",
+gcc-100208,A,Compositae,,Camptacra,,"brachycomoides",,"","(F.Muell.) N.T.Burb.",Accepted,,M,TICA,CA87E76F-3E49-45D2-963D-9A14DBC11A5B,,"Brunonia 5","","12","1982",
+gcc-73413,A,Compositae,,Camptacra,,"brachycomoides",f.,"brachycomoides","",Synonym,,L,TICA,CBB7F603-E5E7-4BC7-A6CC-1815DE3D5F7B,145782-3,"Brunonia","","13","1983",gcc-100208
+gcc-81355,A,Compositae,,Camptacra,,"brachycomoides",f.,"lanata","N.T.Burb.",Synonym,,L,TICA,86346E7C-433C-4F38-AB5B-6F9E4D6580FD,,"","","14","1982",gcc-118097
+gcc-16140,A,Compositae,,Camptacra,,"gracilis",,"","(Benth.) Lander",Accepted,,M,TICA,E09FE170-6412-4C30-8EA1-1DDC757B3219,944817-1,"","","61","1987",
+gcc-73999,A,Compositae,,Camptacra,,"gracilis",f.,"gracilis","",Synonym,,L,TICA,D55B2E63-350B-41D5-9445-2EC38E832E65,,"Nuytsia 6(1)  1987","","6(1)  1987","",gcc-16140
+gcc-118097,A,Compositae,,Camptacra,,"gracilis",f.,"lanata","(N.T.Burb.) Lander",Accepted,,L,TICA,C6A3179B-4707-413D-B780-C226EE7F2694,953927-1,"","","61","1987",

@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-23000,A,Arecaceae,,Borassus,,"aethiopum",,"","Mart.",Accepted,,H,WCSP,23000,664869-1,"Hist. Nat. Palm.","3: 221","","1838",
+kew-23001,A,Arecaceae,,Borassus,,"aethiopum",var.,"bagamojense","Becc.",Synonym,,L,WCSP,23001,,"Webbia","4: 337","","1914",kew-23000
+kew-348968,A,Arecaceae,,Borassus,,"aethiopum",var.,"domesticus","A.Chev.",Synonym,,L,WCSP,348968,,"Rev. Bot. Appl. Agric. Colon.","18: 103","","1938",kew-346107
+kew-23002,A,Arecaceae,,Borassus,,"aethiopum",var.,"senegalense","Becc.",Synonym,,L,WCSP,23002,,"Webbia","4: 334","","1914",kew-23000
+kew-346107,A,Arecaceae,,Borassus,,"akeassii",,"","Bayton, Ouédr. & Guinko",Accepted,,H,WCSP,346107,77075289-1,"Bot. J. Linn. Soc.","150: 420","","2006",
+kew-23003,A,Arecaceae,,Borassus,,"caudatus",,"","Lour.",Synonym,,H,WCSP,23003,664870-1,"Fl. Cochinch.","760","","1790",kew-14665
+kew-23004,A,Arecaceae,,Borassus,,"deleb",,"","Becc.",Synonym,,H,WCSP,23004,664871-1,"Webbia","4: 339","","1914",kew-23000
+kew-23005,A,Arecaceae,,Borassus,,"dichotomus",,"","White",Synonym,,H,WCSP,23005,,"Cat. Pl. Bombay","226","","1839",kew-101368
+kew-23006,A,Arecaceae,,Borassus,,"flabellifer",,"","L.",Accepted,,H,WCSP,23006,664873-1,"Sp. Pl.","1187","","1753",
+kew-23007,A,Arecaceae,,Borassus,,"flabellifer",var.,"aethiopum","(Mart.) Warb.",Synonym,,L,WCSP,23007,,"Pflanzenw. Ost-Afrikas","B: 20","","1895",kew-23000
+kew-23008,A,Arecaceae,,Borassus,,"flabellifer",var.,"madagascariensis","Jum. & H.Perrier",Synonym,,L,WCSP,23008,,"Ann. Mus. Colon. Marseille","II, 5: 389, f. 2-4","","1907",kew-23014
+kew-23009,A,Arecaceae,,Borassus,,"flabelliformis",,"","L.",Synonym,,H,WCSP,23009,,"Syst. Veg. ed. 13","827","","1774",kew-23006
+tro-50326342,A,Arecaceae,,Borassus,,"flabelliformis",,"","Roxb.",Synonym,,M,TRO,50326342,,"Fl. Ind., ed. 1832","3: 790","790","1832",kew-23006
+kew-23010,A,Arecaceae,,Borassus,,"gomutus",,"","Lour.",Synonym,,H,WCSP,23010,664875-1,"Fl. Cochinch.","618","","1790",kew-14681
+kew-23011,A,Arecaceae,,Borassus,,"heineanus",,"","Becc.",Accepted,,H,WCSP,23011,664876-1,"Webbia","4: 354","","1914",
+kew-23012,A,Arecaceae,,Borassus,,"ihur",,"","Giseke",Synonym,,H,WCSP,23012,664877-1,"Prael. Ord. Nat. Pl.","87","","1792",kew-152715
+kew-23013,A,Arecaceae,,Borassus,,"machadonis",,"","Ridl.",Synonym,,H,WCSP,23013,664878-1,"J. Straits Branch Roy. Asiat. Soc.","44: 203","","1905",kew-22998
+kew-23014,A,Arecaceae,,Borassus,,"madagascariensis",,"","(Jum. & H.Perrier) Bojer ex Jum. & H.Perrier",Accepted,,H,WCSP,23014,,"Ann. Mus. Colon. Marseille","III, 1: 61, t. 33-35","","1913",
+kew-23015,A,Arecaceae,,Borassus,,"pinnatifrons",,"","Jacq.",Synonym,,H,WCSP,23015,664881-1,"Pl. Hort. Schoenbr.","2: 65","","1797",kew-37622
+kew-23016,A,Arecaceae,,Borassus,,"sambiranensis",,"","Jum. & H.Perrier",Synonym,,H,WCSP,23016,664882-1,"Ann. Mus. Colon. Marseille","III, 1: 67","","1913",kew-23000
+kew-23017,A,Arecaceae,,Borassus,,"sonneratii",,"","Giseke",Synonym,,H,WCSP,23017,664884-1,"Prael. Ord. Nat. Pl.","86","","1792",kew-115067
+kew-23018,A,Arecaceae,,Borassus,,"sundaicus",,"","Becc.",Synonym,,H,WCSP,23018,664885-1,"Webbia","4: 321","","1914",kew-23006
+kew-377088,A,Arecaceae,,Borassus,,"sylvestris",,"","Giseke",Synonym,Illegitimate,H,WCSP,377088,,"Prael. Ord. Nat. Pl.","86","","1792",kew-48260
+kew-23019,A,Arecaceae,,Borassus,,"tunicatus",,"","Lour.",Synonym,,H,WCSP,23019,664886-1,"Fl. Cochinch.","618","","1790",kew-23006

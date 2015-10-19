@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-75947,A,Compositae,,Deinandra,,"arida",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,C93FF9DD-4F73-4FD1-B162-6391652A91D7,1012664-1,"Novon 9(4)","","467","1999",
+gcc-101641,A,Compositae,,Deinandra,,"bacigalupii",,"","B.G.Baldwin",Accepted,,M,TICA,FE9C47D3-5104-4B36-AA84-9D38BBFAD483,1012034-1,"Madroño 46(1)","","55","1999",
+gcc-51394,A,Compositae,,Deinandra,,"clementina",,"","(Brandegee) B.G.Baldwin",Accepted,,L,TICA,CBE2838F-410A-41B2-811E-5F512B564C37,1118341-2,"Novon 9(4)","","468","1999",
+gcc-28863,A,Compositae,,Deinandra,,"conjugens",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,E6BC6560-B740-41BA-8F6E-355AA9600513,1012666-1,"Novon 9(4)","","468","1999",
+gcc-135099,A,Compositae,,Deinandra,,"corymbosa",,"","(DC.) B.G.Baldwin",Accepted,,L,TICA,8E349814-6784-4C56-A8AA-E93A9516293E,1012667-1,"Novon 9(4)","","468","1999",
+gcc-5234,A,Compositae,,Deinandra,,"corymbosa",subsp.,"corymbosa","",Synonym,,L,TICA,313F24CF-109F-4696-A9A1-09C6A318F36F,,"","","","",gcc-135099
+gcc-63616,A,Compositae,,Deinandra,,"corymbosa",subsp.,"corymbosa","",Synonym,,L,TICA,2FE0DB2F-8A8B-4292-976F-B848D38EF625,,"","","","1999",gcc-135099
+gcc-68641,A,Compositae,,Deinandra,,"corymbosa",subsp.,"macrocephala","(Nutt.) B.G.Baldwin",Synonym,,L,TICA,13DBED31-08F7-4607-9EBF-E04ADB4DC3DF,1012668-1,"Novon 9(4)","","468","1999",gcc-135099
+gcc-35731,A,Compositae,,Deinandra,,"fasciculata",,"","(DC.) Greene",Synonym,,M,TICA,F3F3C531-EE2D-4AFA-83C9-4242FFE9FA7F,77194-2,"Fl. Francisc.","","424","1897",gcc-101037
+gcc-155367,A,Compositae,,Deinandra,,"fasciculata",var.,"fasciculata","",Synonym,,L,TICA,425172D3-FAFB-4FDD-8582-D6C8F6F62CE8,,"","","","",gcc-101037
+gcc-69706,A,Compositae,,Deinandra,,"fasciculata",var.,"ramosissima","(Benth.) Davidson & Moxley",Synonym,,L,TICA,887B9A40-01AA-4F0C-9CBC-E87520A6CEF3,77195-2,"","","401","1923",gcc-101037
+gcc-22190,A,Compositae,,Deinandra,,"floribunda",,"","(A.Gray) Davidson & Moxley",Synonym,,M,TICA,54668CAB-736F-43B4-AB1C-290F0273C3E3,77196-2,"","","401","1923",gcc-119037
+gcc-50589,A,Compositae,,Deinandra,,"frutescens",,"","(A.Gray) B.G.Baldwin",Accepted,,M,TICA,C7331DFA-6618-451B-A6D3-5DCC4C22492F,1012669-1,"Novon 9(4)","","468","1999",
+gcc-106539,A,Compositae,,Deinandra,,"greeneana",,"","(Rose) B.G.Baldwin",Accepted,,M,TICA,567BC019-30C3-409C-B516-A80B1FE00CD3,1012670-1,"Novon 9(4)","","468","1999",
+gcc-67118,A,Compositae,,Deinandra,,"greeneana",subsp.,"greeneana","",Synonym,,L,TICA,3ECED954-7A3C-43DB-989C-D456A2BC21BA,,"","","","1999",gcc-106539
+gcc-58319,A,Compositae,,Deinandra,,"greeneana",subsp.,"peninsularis","(Moran) B.G.Baldwin",Accepted,,L,TICA,6E01AA56-FB6A-4B3B-801B-8DA86F989B9D,1012671-1,"Novon 9(4)","","468","1999",
+gcc-45446,A,Compositae,,Deinandra,,"halliana",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,6B079B61-812D-451B-8D02-543753EB8667,1012672-1,"Novon 9(4)","","468","1999",
+gcc-81623,A,Compositae,,Deinandra,,"heermannii",,"","(Greene) Greene",Synonym,,M,TICA,E052F328-4CE5-4533-AC11-703F92C351C6,77197-2,"Fl. Francisc.","","425","1897",gcc-40466
+gcc-16103,A,Compositae,,Deinandra,,"increscens",,"","(H.M.Hall ex D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,CBD023D4-3FCB-421F-82F1-1DCA4CB5BED0,1012673-1,"Novon 9(4)","","468","1999",
+gcc-60692,A,Compositae,,Deinandra,,"increscens",subsp.,"foliosa","(Hoover) B.G.Baldwin",Synonym,,L,TICA,521CEA4F-268D-49B3-B896-A04CC91DA6F6,1012674-1,"Novon 9(4)","","468","1999",gcc-82708
+gcc-67812,A,Compositae,,Deinandra,,"increscens",subsp.,"increscens","",Synonym,,L,TICA,5A254627-2E80-424A-8029-DA46DD5137CD,,"","","","1999",gcc-16103
+gcc-60534,A,Compositae,,Deinandra,,"increscens",subsp.,"villosa","(Tanowitz) B.G.Baldwin",Accepted,,L,TICA,7C6CBC7C-9EAC-4E98-A011-9EFDB5F164C1,1012675-1,"Novon 9(4)","","469","1999",
+gcc-76032,A,Compositae,,Deinandra,,"kellogii",,"","Greene",Accepted,,L,TICA,388276DD-AE7B-4BDC-B722-63BF4B1F130D,,"","","","",
+gcc-129092,A,Compositae,,Deinandra,,"lobbii",,"","(Greene) Greene",Accepted,,M,TICA,B8CF5A35-4017-4882-A73C-DB7E5C111A58,77199-2,"Fl. Francisc.","","425","1897",
+gcc-125411,A,Compositae,,Deinandra,,"martirensis",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,6A57192B-B3A5-47A6-B311-D2FD3C64B89E,1012676-1,"Novon 9(4)","","469","1999",
+gcc-12941,A,Compositae,,Deinandra,,"minthornii",,"","(Jeps.) B.G.Baldwin",Accepted,,M,TICA,99D48469-FE0D-4BFD-88B0-181F87C4F992,1012677-1,"Novon 9(4)","","469","1999",
+gcc-103781,A,Compositae,,Deinandra,,"mohavensis",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,1B0E5766-84CA-4AFD-8833-A2082CA68224,1012678-1,"Novon 9(4)","","469","1999",
+gcc-114098,A,Compositae,,Deinandra,,"pallida",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,90C21A58-B410-4CA0-98AC-B91042205DC1,1012679-1,"Novon 9(4)","","469","1999",
+gcc-75504,A,Compositae,,Deinandra,,"palmeri",,"","(Rose) B.G.Baldwin",Accepted,,M,TICA,51FAA8EA-D745-40CA-AF2A-62964B3C5426,1012680-1,"Novon 9(4)","","469","1999",
+gcc-143020,A,Compositae,,Deinandra,,"paniculata",,"","(A.Gray) Davidson & Moxley",Synonym,,M,TICA,65E13062-1E16-4186-9B15-FAF2A1425C6D,77200-2,"","","401","1923",gcc-82708
+gcc-77506,A,Compositae,,Deinandra,,"peninsularis",,"","(Moran) B.G.Baldwin",Unresolved,,L,TICA,950E9D80-9E95-4169-BB1C-670A782A5944,60446053-2,"Madroño 54(1): 72","","72","2007",gcc-58319
+gcc-121157,A,Compositae,,Deinandra,,"pentactis",,"","(D.D.Keck) B.G.Baldwin",Accepted,,M,TICA,D7947853-8650-461F-8CD4-C92A2AB54F2A,1012681-1,"Novon 9(4)","","469","1999",
+gcc-113260,A,Compositae,,Deinandra,,"simplex",,"","Hedw.",Unresolved,,L,TICA,5CBE8459-DE8C-4DA0-88F0-B73DD6ECC84A,,"Botanical Gazette 39(1):","","48-49","1905",
+gcc-37023,A,Compositae,,Deinandra,,"simplex",,"","Elmer",Synonym,,M,TICA,C194BF4C-2AFE-4F06-A1B6-44981B0D8802,77201-2,"Bot. Gaz. 39","","48","1905",gcc-101037
+gcc-102428,A,Compositae,,Deinandra,,"streetsii",,"","(A.Gray) B.G.Baldwin",Accepted,,M,TICA,BC41A662-D03F-4F05-914A-9F1CE4D92253,1012682-1,"Novon 9(4)","","469","1999",
+gcc-112275,A,Compositae,,Deinandra,,"virgata",,"","(A.Gray) Greene",Synonym,,M,TICA,5264D826-F967-4270-94F5-B504F2D5F1A1,77202-2,"Fl. Francisc.","","425","1897",gcc-40466
+gcc-102426,A,Compositae,,Deinandra,,"wrightii",,"","(A.Gray) Greene",Synonym,,M,TICA,DC127D3C-734B-46EB-B7ED-9F1BDA47D162,77203-2,"Fl. Francisc.","","424","1897",gcc-76032

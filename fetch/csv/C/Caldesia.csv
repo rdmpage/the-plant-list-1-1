@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-301594,A,Alismataceae,,Caldesia,,"acanthocarpa",,"","(F.Muell.) Buchanan",Synonym,,H,WCSP,301594,,"Bot. Jahrb. Syst.","2: 479","","1882",kew-301597
+kew-301595,A,Alismataceae,,Caldesia,,"grandis",,"","Sam.",Accepted,,H,WCSP,301595,,"Svensk Bot. Tidskr.","24: 116","","1930",
+kew-462293,A,Alismataceae,,Caldesia,,"janaki-ammaliae",,"","Guha & M.S.Mondal",Accepted,,H,WCSP,462293,77106820-1,"J. Econ. Taxon. Bot.","27(Suppl.): 1102","","2003",
+tro-50150069,A,Alismataceae,,Caldesia,,"mexicana",,"","Kuntze",Unresolved,,L,TRO,50150069,,"Revis. Gen. Pl.","2: 590","590","1891",
+kew-301596,A,Alismataceae,,Caldesia,,"oligococca",,"","(F.Muell.) Buchanan",Accepted,,H,WCSP,301596,,"Bot. Jahrb. Syst.","2: 479","","1882",
+kew-301597,A,Alismataceae,,Caldesia,,"oligococca",var.,"acanthocarpa","(F.Muell.) Hartog",Accepted,,L,WCSP,301597,,"in Fl. Males.","5: 322","","1957",
+kew-301598,A,Alismataceae,,Caldesia,,"oligococca",var.,"echinata","Hartog",Accepted,,L,WCSP,301598,60444557-2,"in Fl. Males.","5: 322","","1957",
+kew-310646,A,Alismataceae,,Caldesia,,"oligococca",var.,"oligococca","",Synonym,,L,WCSP,310646,,"Unknown","","","",kew-301596
+kew-301599,A,Alismataceae,,Caldesia,,"parnassifolia",,"","(L.) Parl.",Accepted,,H,WCSP,301599,58293-1,"Fl. Ital.","3: 599","","1860",
+kew-310691,A,Alismataceae,,Caldesia,,"parnassifolia",var.,"dubia","Asch. & Graebn.",Synonym,,L,WCSP,310691,,"Syn. Mitteleur. Fl.","1: 386","","1897",kew-301599
+kew-301600,A,Alismataceae,,Caldesia,,"parnassifolia",var.,"major","(Micheli) Buchen",Synonym,,L,WCSP,301600,,"Pflanzenr.","IV, 15: 16","","1903",kew-301599
+kew-301602,A,Alismataceae,,Caldesia,,"parnassifolia",var.,"nilotica","Bouché",Synonym,,L,WCSP,301602,,"Pflanzenr.","IV, 15: 16","","1903",kew-301599
+kew-310692,A,Alismataceae,,Caldesia,,"parnassifolia",var.,"terrestris","Asch. & Graebn.",Synonym,,L,WCSP,310692,,"Syn. Mitteleur. Fl.","1: 386","","1897",kew-301599
+tro-900198,A,Alismataceae,,Caldesia,,"plantago-aquatica",,"","L.",Accepted,,M,TRO,900198,,"","","","",
+tro-900314,A,Alismataceae,,Caldesia,,"reniforme",,"","D. Don",Unresolved,,L,TRO,900314,,"","","","",
+kew-301603,A,Alismataceae,,Caldesia,,"reniformis",,"","(D.Don) Makino",Synonym,,H,WCSP,301603,58294-1,"Bot. Mag. (Tokyo)","20: 34","","1906",kew-301599
+kew-451871,A,Alismataceae,,Caldesia,,"reniformis",f.,"natans","H.Hara",Synonym,,L,WCSP,451871,,"J. Jap. Bot.","9: 520","","1933",kew-301599
+kew-301604,A,Alismataceae,,Caldesia,,"sagittarioides",,"","Ostenf.",Synonym,,H,WCSP,301604,58295-1,"Philipp. J. Sci., C","9: 259","","1914",kew-280499

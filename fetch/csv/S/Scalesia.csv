@@ -1,0 +1,48 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49091,A,Compositae,,Scalesia,,"affinis",,"","Hook.f.",Accepted,,M,TICA,228345B1-FC7F-4720-9796-5AEE5AA3B482,317740-2,"","","212","1847",
+gcc-41471,A,Compositae,,Scalesia,,"affinis",subsp.,"affinis","",Synonym,,L,TICA,8078A5AE-22FA-4E4E-A103-4CCCF1105947,,"","","","",gcc-49091
+gcc-21320,A,Compositae,,Scalesia,,"affinis",subsp.,"brachyloba","Harling",Synonym,,L,TICA,F164D55A-6315-4D10-94CF-2766A2881B4F,,"""Acta Horti Berg. 20(3): 72, fig. 2g, h, 3h, i. 1962""","","","1962",gcc-49091
+gcc-28104,A,Compositae,,Scalesia,,"affinis",subsp.,"gummifera","(Hook.f.) Harling",Synonym,,L,TICA,6695DBA8-592A-419F-A402-33E6EE82658C,228708-2,"Acta Horti Berg. 20(3): 71. 1962","","71","1962",gcc-49091
+gcc-47968,A,Compositae,,Scalesia,,"aspera",,"","Anderss.",Accepted,,L,TICA,963B4C77-A016-4467-A521-58DAF80A9324,,"Vet. Akad. Handl. Stockh. 1853 (1855) 180.","","180","1855",
+gcc-147741,A,Compositae,,Scalesia,,"aspera",var.,"aspera","",Synonym,,L,TICA,E1287239-5B9B-4215-8555-346A5CE2779C,,"","","","",gcc-47968
+gcc-59665,A,Compositae,,Scalesia,,"aspera",var.,"subintegerrima","Harling",Synonym,,L,TICA,A5DE84C0-1E80-4B92-AD06-98409310B01C,,"""Acta Horti Berg. 20(3): 74, fig. 5, 6a, e, f. 1962""","","","1962",gcc-47968
+gcc-82809,A,Compositae,,Scalesia,,"atractyloides",,"","Arn.",Accepted,,M,TICA,0C60FE77-4A82-4204-A888-72E12FABA4D1,317738-2,"","","443","1836",
+gcc-21634,A,Compositae,,Scalesia,,"atractyloides",var.,"atractyloides","",Synonym,,L,TICA,7A14C9D4-FA90-41CA-8845-2802D542D2A0,,"","","","",gcc-82809
+gcc-46104,A,Compositae,,Scalesia,,"baurii",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,33A1E8F1-A931-4AA0-8245-557549E92A9D,228711-2,"","","141","1895",
+gcc-149042,A,Compositae,,Scalesia,,"baurii",var.,"baurii","",Synonym,,L,TICA,82AB3887-8D09-4BA0-A498-5033A8945B7E,,"","","","",gcc-46104
+gcc-57133,A,Compositae,,Scalesia,,"baurii",var.,"glabrata","B.L.Rob.",Synonym,,L,TICA,D27D17C2-9AB8-4C87-96FF-83F80BFD7E1D,228712-2,"Proc. Amer. Acad. Arts 38: 216. 1902","","216","1902",gcc-46104
+gcc-127101,A,Compositae,,Scalesia,,"cordata",,"","A.Stewart",Unresolved,,L,TICA,BF797E5E-DD27-4487-820C-D6D76A26D38F,,"""Proc. Calif. Acad. Sci. ser. 4, 1""","","156","1911",
+gcc-46547,A,Compositae,,Scalesia,,"crockeri",,"","Howell",Unresolved,,L,TICA,7E099788-AB90-43DF-839E-563E2E477997,,"","","249","1941",
+gcc-225,A,Compositae,,Scalesia,,"darwinii",,"","Hook.f.",Synonym,,M,TICA,C85B3A44-0935-4AB8-8A51-0068DA0CCD06,228716-2,"","","211","1847",gcc-82809
+gcc-39351,A,Compositae,,Scalesia,,"decurrens",,"","Andersson",Unresolved,,L,TICA,3A452ADE-16B7-4B7B-B8F2-490B0D7023EE,242782-1,"Vet. Akad. Handl. Stockh. 1853 (1855) 182.","","182","1855",gcc-49091
+gcc-156001,A,Compositae,,Scalesia,,"decurrens",f.,"decurrens","",Synonym,,L,TICA,C80DD68B-51B8-4BD3-85FA-E47C9406676F,,"","","","",gcc-49091
+gcc-73563,A,Compositae,,Scalesia,,"decurrens",f.,"denudata","Andersson",Synonym,,L,TICA,C529EAA1-6544-4209-AA02-1DF78060FA9D,,"Kongliga Svenska Vetenskapsakademiens Handlingar 1853:","","182","1855",gcc-49091
+gcc-139466,A,Compositae,,Scalesia,,"divisa",,"","Andersson",Unresolved,,L,TICA,CA368595-A997-443A-8E88-F2CA5370F91A,242783-1,"Vet. Akad. Handl. Stockh. 179 (1855).","","179","1855",gcc-80609
+gcc-42967,A,Compositae,,Scalesia,,"gordilloi",,"","O.J.Hamann & S.Wium-Andersen",Unresolved,,L,TICA,A01A92BA-7FF1-4EE8-B520-4F937808ACBB,284653-2,"Nordic J. Bot. 6(1): 35 (1986)","","35","1986",
+gcc-6501,A,Compositae,,Scalesia,,"gordilloi",,"","O.Hamann & Wium-And.",Unresolved,,L,TICA,217CFBC3-377E-4AF3-9D78-0C17748CD5C5,929551-1,"""Nordic J. Bot. 6: 35, fig. 1986""","","","1986",
+gcc-45876,A,Compositae,,Scalesia,,"gummifera",,"","Hook.f.",Synonym,,M,TICA,B6FA7473-78F4-424B-84E4-55096740F9A5,228717-2,"","","212","1847",gcc-49091
+gcc-50622,A,Compositae,,Scalesia,,"helleri",,"","B.L.Rob.",Accepted,,M,TICA,3FEFE66E-E8B5-4C79-B5E0-5DDE6B8F1549,242785-1,"","","217","1902",
+gcc-9843,A,Compositae,,Scalesia,,"helleri",subsp.,"helleri","",Synonym,,L,TICA,ACF7895C-46F4-4798-BB6F-1263B86A4E31,,"","","","",gcc-50622
+gcc-25590,A,Compositae,,Scalesia,,"helleri",subsp.,"santacruziana","Harling",Synonym,,L,TICA,0A4BB29E-3F99-4025-BBD3-2F4287E51327,,"Acta Horti Bergiani 20(3):","","90","1962",gcc-50622
+gcc-84712,A,Compositae,,Scalesia,,"hopkinsii",,"","B.L.Rob.",Synonym,,M,TICA,35CC4602-9BFE-431C-ADF7-77204DCB3370,242786-1,"Proc. Amer. Acad. Arts xxxviii. (1902) 217","","217","1902",gcc-46104
+gcc-80609,A,Compositae,,Scalesia,,"incisa",,"","Hook.f.",Accepted,,M,TICA,46946A4E-B8C4-4B57-BA9B-6DF20BBF7B3A,317739-2,"","","210","1847",
+gcc-23606,A,Compositae,,Scalesia,,"menziesii",,"","O.Deg. & Sherff",Synonym,,M,TICA,1E1F3819-BA29-4811-93CA-2BA40AF225E1,242788-1,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","333","1947",gcc-49091
+gcc-24034,A,Compositae,,Scalesia,,"microcephala",,"","B.L.Rob.",Accepted,,M,TICA,C320A2AE-268B-4229-B22E-2C6A393FB80A,242789-1,"","","218","1902",
+gcc-35990,A,Compositae,,Scalesia,,"microcephala",var.,"microcephala","",Synonym,,L,TICA,8A2A0EEC-FC21-432B-ACBC-42B8E2853311,,"","","","",gcc-24034
+gcc-139180,A,Compositae,,Scalesia,,"narbonensis",,"","B.L.Rob.",Synonym,,M,TICA,DE36E31A-3060-483E-8C01-F22B3517F142,242790-1,"Proc. Amer. Acad. Arts xxxviii. (1902) 218","","218","1902",gcc-49091
+gcc-105605,A,Compositae,,Scalesia,,"ovata",,"","Andersson",Unresolved,,L,TICA,926F55BF-E6B9-484F-A67B-A5F207918547,242791-1,"""Vet. Akad. Handl. Stockh. 1853 (1855), 181.""","","181","1855",gcc-125736
+gcc-125736,A,Compositae,,Scalesia,,"pedunculata",,"","Hook.f.",Accepted,,M,TICA,57A3EBBB-9501-4BBA-A1D8-D3B84462B717,317737-2,"","","211","1847",
+gcc-59529,A,Compositae,,Scalesia,,"pedunculata",var.,"indurata","J.T.Howell",Unresolved,,L,TICA,5AB9731C-B87B-4108-808A-9726F8087013,228725-2,"Proc. Calif. Acad. Sci. 22: 255. 1941","","255","1941",gcc-125736
+gcc-71081,A,Compositae,,Scalesia,,"pedunculata",var.,"parviflora","J.T.Howell",Unresolved,,L,TICA,8123D091-0172-4450-829E-F3451A2B2F34,228726-2,"Proc. Calif. Acad. Sci. 22: 254. 1941","","254","1941",gcc-125736
+gcc-21597,A,Compositae,,Scalesia,,"pedunculata",var.,"pedunculata","",Synonym,,L,TICA,4386A84F-FDAC-4B4C-9F89-27EAED88489A,,"","","","",gcc-125736
+gcc-65668,A,Compositae,,Scalesia,,"pedunculata",var.,"pilosa","J.T.Howell",Unresolved,,L,TICA,CCA3536E-E8A9-4899-883F-C8A5A2BAE5B5,228727-2,"Proc. Calif. Acad. Sci. 22: 255. 1941","","255","1941",gcc-125736
+tro-2743114,A,Compositae,,Scalesia,,"pedunculata",var.,"svensoni","Howell",Synonym,,L,TRO,2743114,,"Proc. Calif. Acad. Sci., ser. 4,","22: 254","254","1941",gcc-125736
+gcc-5381,A,Compositae,,Scalesia,,"pedunculata",var.,"svensonii","J.T.Howell",Unresolved,,L,TICA,E3672508-3249-4497-A9CA-0A0B8ACFD540,228728-2,"Proc. Calif. Acad. Sci. 22: 254. 1941","","254","1941",gcc-125736
+gcc-116253,A,Compositae,,Scalesia,,"retroflexa",,"","Hemsl.",Synonym,,M,TICA,19F2B3BA-5206-42DB-84FE-BE01B508B4C6,242793-1,"","","2715","1901",gcc-80609
+gcc-121393,A,Compositae,,Scalesia,,"snodgrassii",,"","B.L.Rob.",Synonym,,M,TICA,1C949A92-E2AE-41BB-8D3A-C9B00F37C2D4,,"Proc. Amer. Acad. Arts xxxviii. 219.","","219","1902",gcc-80609
+gcc-97751,A,Compositae,,Scalesia,,"stewartii",,"","Riley",Accepted,,M,TICA,4B3EC343-7C46-4B99-8EA2-949B04C00CBC,228732-2,"","","223","1925",
+gcc-69373,A,Compositae,,Scalesia,,"stewartii",var.,"euryphylla","Harling",Synonym,,L,TICA,48E22E5D-2F6C-4208-9077-E5C6AFB05314,,"""Acta Horti Berg. 20(3): 82, fig. 9, 10b, d. 1962""","","","1962",gcc-97751
+gcc-57779,A,Compositae,,Scalesia,,"stewartii",var.,"stewartii","",Synonym,,L,TICA,CF88912A-9E21-40EE-B013-8916181D5167,,"","","","",gcc-97751
+gcc-13859,A,Compositae,,Scalesia,,"villosa",,"","Stewart",Accepted,,M,TICA,0261387F-AD5C-4011-B8E4-19C34D9BB5AB,,"""Proc. Calif. Acad. Sci. ser. 4, 1""","","158","1911",
+gcc-54290,A,Compositae,,Scalesia,,"villosa",var.,"championensis","A.Stewart",Unresolved,,L,TICA,55A81CEE-0939-4269-B577-6CCF5384447D,228735-2,"""Proc. Calif. Acad. Sci. ser. 4, 1: 159. 1911""","","","1911",gcc-13859
+gcc-155752,A,Compositae,,Scalesia,,"villosa",var.,"villosa","",Synonym,,L,TICA,AC8A0C83-36DB-4FC7-8D5F-DF16D2DEF9F5,,"","","","",gcc-13859

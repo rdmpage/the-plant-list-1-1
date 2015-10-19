@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81846,A,Compositae,,Lygodesmia,,"aphylla",,"","(Nutt.) DC.",Accepted,,M,TICA,EC714C3F-1DDA-444C-B4E1-70B1BE8AFF0C,231349-1,"Prodr. (DC.) 7(1): 198","","198","1838",
+gcc-34251,A,Compositae,,Lygodesmia,,"aphylla",var.,"aphylla","",Synonym,,L,TICA,5A5D19C1-4A52-459B-9799-3F7D4CE0AFC6,,"","","","",gcc-81846
+gcc-65011,A,Compositae,,Lygodesmia,,"aphylla",var.,"texana","Torr. & A.Gray",Synonym,,L,TICA,CB1A2DE4-039A-49EC-81CD-C311ED546DB2,147803-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 485. 1843 [Feb 1843]","","485","1843",gcc-123637
+gcc-96682,A,Compositae,,Lygodesmia,,"arizonica",,"","Tomb",Synonym,,M,TICA,EFB7C8EF-3DDE-4DDD-898F-92286F1FA56A,147804-2,"","","530","1970",gcc-100687
+gcc-133181,A,Compositae,,Lygodesmia,,"bigelovii",,"","(A.Gray) Shinners",Synonym,,M,TICA,A53CD922-4A82-4381-A7DA-E4EEE8825B41,147805-2,"","","31","1950",gcc-47556
+gcc-122030,A,Compositae,,Lygodesmia,,"dianthopsis",,"","Tomb",Synonym,,M,TICA,14CCCDB3-F0E9-4366-88D5-CB1A24A7FA96,147806-2,"","","532","1970",gcc-100687
+gcc-124100,A,Compositae,,Lygodesmia,,"doloresensis",,"","Tomb",Synonym,,M,TICA,54CF07A0-3E3C-49BB-8260-CFEAA402B7FE,147807-2,"Syst. Bot. Monogr. 1: 48. 1980","","48","1980",gcc-100687
+gcc-75633,A,Compositae,,Lygodesmia,,"entrada",,"","S.L.Welsh & Goodrich",Synonym,,M,TICA,1E4E7AC4-DB5E-4E20-9F7B-62E30E354151,147808-2,"Great Basin Naturalist 40","","83","1980",gcc-100687
+gcc-122006,A,Compositae,,Lygodesmia,,"exigua",,"","(A.Gray) A.Gray",Synonym,,M,TICA,F62649B7-CA8E-407E-96E1-CB0BF97A27E1,,"A. Gray in Proc. Amer. Acad. Arts 9. 1874","","217","1874",gcc-132578
+gcc-2072,A,Compositae,,Lygodesmia,,"exigua",,"","Benth. & Hook.f.",Accepted,,M,TICA,3C6E7B1D-9470-4F2E-857A-03BB4373F3B5,,"""Gen. ii. 530; A. Gray, in Proc. Am. Acad. ix. (1874) 217.""","","","1873",
+gcc-100687,A,Compositae,,Lygodesmia,,"grandiflora",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,C2B7A35C-B1F6-4EC4-99E0-9B30221D6627,231355-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 485","","485","1843",
+gcc-60756,A,Compositae,,Lygodesmia,,"grandiflora",var.,"arizonica","(Tomb) S.L.Welsh",Synonym,,L,TICA,A9C84698-9054-474C-94DF-A0EEFD8A23FA,951974-1,"","","314","1983",gcc-100687
+gcc-56504,A,Compositae,,Lygodesmia,,"grandiflora",var.,"dianthopsis","(Eaton ex D.C.Eaton) S.L.Welsh",Synonym,,L,TICA,42BCCFF1-DE75-4DBD-AA90-7F18A4A1681C,951975-1,"","","314","1983",gcc-100687
+gcc-70090,A,Compositae,,Lygodesmia,,"grandiflora",var.,"doloresensis","(Tomb) S.L.Welsh",Synonym,,L,TICA,D134E611-82FD-4A63-B528-EB6A5953C396,1186828-2,"","","399","1993",gcc-100687
+gcc-68614,A,Compositae,,Lygodesmia,,"grandiflora",var.,"entrada","(S.L.Welsh & Goodrich) S.L.Welsh",Synonym,,L,TICA,5035CB04-0D39-49AC-9B30-E00E9B8FBD25,1123257-2,"","","399","1993",gcc-100687
+gcc-51380,A,Compositae,,Lygodesmia,,"grandiflora",var.,"grandiflora","",Synonym,,L,TICA,44B8855D-A27D-4CB4-91A3-5F4C1C58DD59,147811-2,"Amer. Midl. Naturalist 37: 145. 1947","","145","1947",gcc-100687
+gcc-18988,A,Compositae,,Lygodesmia,,"grandiflora",var.,"stricta","Maguire",Synonym,,L,TICA,209F1EE6-AE7E-46F5-A81F-230C348A26D6,147812-2,"Amer. Midl. Naturalist 37: 145. 1947","","145","1947",gcc-100687
+gcc-140097,A,Compositae,,Lygodesmia,,"juncea",,"","(Pursh) D.Don ex Hook.",Accepted,,M,TICA,C4286FED-ED93-4D18-B83C-F432ADFCE4ED,,"","","295","1833",
+gcc-80829,A,Compositae,,Lygodesmia,,"juncea",,"","D.Don",Unresolved,,L,TICA,11B50140-13D1-4585-B2FF-6E7327F2E9FD,231356-1,"in Edinb. N. Phil. Journ. (Jan.-Mar. (1829) 311.","","311","1829",
+gcc-67073,A,Compositae,,Lygodesmia,,"juncea",var.,"dianthopsis","D.C.Eaton",Synonym,,L,TICA,DE75239D-6728-4A1F-9430-D3F6DB3F249C,147813-2,"Botany [Fortieth Parallel] 5: 200. 1871","","200","1871",gcc-100687
+gcc-154619,A,Compositae,,Lygodesmia,,"juncea",var.,"juncea","",Synonym,,L,TICA,79C5791F-6B42-42F5-A895-C773A0CF71A8,,"","","","",gcc-140097
+gcc-59764,A,Compositae,,Lygodesmia,,"juncea",var.,"rostrata","A.Gray",Synonym,,L,TICA,71F88FB5-3890-46C7-BE47-99204E55FF23,147815-2,"Proc. Acad. Nat. Sci. Philadelphia 1863: 69.","","69","1863 [1864]",gcc-99249
+gcc-142309,A,Compositae,,Lygodesmia,,"minor",,"","Hook.",Synonym,,M,TICA,D0A49B73-BEA2-40AA-ADE8-F95675FEE665,,"Fl. Bor.-Amer. (Hooker) i. 295. t. 103","","295","1833",gcc-117708
+gcc-18093,A,Compositae,,Lygodesmia,,"pauciflora",,"","(Torr.) Shinners",Synonym,,L,TICA,26AAC4BE-3A1A-4364-B061-216D1A60CEBF,147816-2,"","","30","1950",gcc-93218
+gcc-102447,A,Compositae,,Lygodesmia,,"pumila",,"","D.Don",Synonym,Invalid,M,TICA,7A696C07-978D-4C82-AFA4-9F256566C0E6,,"in Edinb. N. Phil. Journ. (Jan.-Mar. 1829) 311.","","","1829",gcc-81846
+gcc-138873,A,Compositae,,Lygodesmia,,"ramosissima",,"","Greenm.",Accepted,,M,TICA,3F39341B-80F2-44ED-8F11-F187F0EEA2C1,147818-2,"Proc. Amer. Acad. Arts 35: 315. 1900","","315","1900",
+gcc-32476,A,Compositae,,Lygodesmia,,"rostrata",,"","(A.Gray) A.Gray",Synonym,,M,TICA,81C443FB-71FC-4FBF-80B8-3C39CFA63300,231362-1,"","","217","1874",gcc-99249
+gcc-143594,A,Compositae,,Lygodesmia,,"spinosa",,"","Nutt.",Synonym,,M,TICA,85085A07-B6B2-4336-AF78-FC40A6ECF3AD,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","444","1841",gcc-51397
+gcc-64394,A,Compositae,,Lygodesmia,,"spinosa",var.,"spinosa","",Synonym,,L,TICA,55C6D03F-D084-44EB-A79F-BE3406161917,,"","","","",gcc-51397
+gcc-7443,A,Compositae,,Lygodesmia,,"tenuifolia",,"","Shinners",Synonym,,M,TICA,82536199-90F5-44AC-96D7-0DD61A3F2C60,147820-2,"","","31","1950",gcc-117708
+gcc-123637,A,Compositae,,Lygodesmia,,"texana",,"","(Torr. & A.Gray) Greene ex Small",Accepted,,M,TICA,F4BA13CD-ADA2-422E-A6F8-CECAC49F344E,147821-2,"","","1315","1903",
+gcc-45843,A,Compositae,,Lygodesmia,,"thurberi",,"","(A.Gray) Shinners",Synonym,,M,TICA,784A663A-C9D8-40AB-8EF9-54FE55E70700,147822-2,"","","32","1950",gcc-94555
+gcc-76725,A,Compositae,,Lygodesmia,,"triquetra",,"","D.Don",Synonym,Invalid,M,TICA,90F7A431-8BA0-45E9-9056-6547C20BAA54,231366-1,"in Edinb. N. Phil. Journ. (Jan.-Mar. 1829) 311.","","311","1829",gcc-142699
+gcc-129256,A,Compositae,,Lygodesmia,,"wrightii",,"","(A.Gray) Shinners",Synonym,,M,TICA,F177FF86-5946-4D5E-8FA6-DBE2693930E2,147823-2,"","","31","1950",gcc-117708

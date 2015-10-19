@@ -1,0 +1,282 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-43850,A,Compositae,,Carlina,,"acanthifolia",,"","All.",Accepted,,M,TICA,F621B8D3-AB28-4A51-8F3B-513E310B0417,189209-1,"","","156","1785",
+gcc-148877,A,Compositae,,Carlina,,"acanthifolia",var.,"acanthifolia","",Synonym,,L,TICA,08C7BBFB-6E6B-44F5-A5A7-4CB4D8A0D656,,"","","","",gcc-43850
+gcc-44820,A,Compositae,,Carlina,,"acanthifolia",subsp.,"acanthifolia","",Synonym,,L,TICA,75D9B104-2995-4811-BFDB-5305C4C27326,,"","","","",gcc-43850
+gcc-71451,A,Compositae,,Carlina,,"acanthifolia",var.,"argentea","Cariot & St.-Lag.",Synonym,,L,TICA,5E0D1C56-2278-42BA-9281-F665D4E90D3F,,"""Étude Fl., ed. 8: 411 (1889)""","","411","1889",gcc-43850
+gcc-22943,A,Compositae,,Carlina,,"acanthifolia",var.,"aurea","Cariot & St.-Lag.",Synonym,,L,TICA,97EC6ABC-C807-42EB-A3E3-2A77E00FA423,,"""Étude Fl., ed. 8: 44 (1889)""","","44","1889",gcc-55147
+gcc-40581,A,Compositae,,Carlina,,"acanthifolia",subsp.,"baetica","Fern.Casas & Leal",Synonym,,L,TICA,1E21DD4A-A1E6-467A-AC2B-4B36FE35DCE4,948619-1,"","","10","1980",gcc-72561
+gcc-55147,A,Compositae,,Carlina,,"acanthifolia",subsp.,"cynara","(Pourr. ex DC.) Rouy",Accepted,,L,TICA,EADCB568-C68F-46E2-98A0-73B37F9990F2,,"Fl. France 8: 363 (1903)","","363","1903",
+gcc-72211,A,Compositae,,Carlina,,"acanthifolia",var.,"cynara","Pourr. ex DC.",Synonym,,L,TICA,4D5BE6E2-D711-45F6-A4A3-FC528DD8592E,,"Fl. Franç. 4: 123 (1805)","","123","1805",gcc-55147
+gcc-72561,A,Compositae,,Carlina,,"acanthifolia",subsp.,"cynara","(DC.) Arcang.",Unresolved,,L,TICA,6850EB05-94BF-42A8-BFA6-FEEFFBC9F000,,"""Arcang., Comp Fl. Ital. 1882.""","","383","1882",
+gcc-68203,A,Compositae,,Carlina,,"acanthifolia",subsp.,"utzka","(Hacq.) Meusel & Kästner",Accepted,,L,TICA,000B9B8F-1C79-4C6B-A33A-DD0FFD45CAB6,983074-1,"","","374","1994",
+gcc-50839,A,Compositae,,Carlina,,"acanthophylla",,"","Hausskn.",Synonym,,M,TICA,C7327C99-74D6-45E0-B259-5E4BEAD18DDA,,"","","85","1887",gcc-56456
+gcc-29831,A,Compositae,,Carlina,,"acarna",,"","(L.) M.Bieb.",Synonym,,M,TICA,97F7397B-C479-4DDA-9120-372A6E4B3147,,"","","","1808",gcc-137511
+gcc-46634,A,Compositae,,Carlina,,"acaulis",,"","L.",Accepted,,M,TICA,CEF2F52C-44C1-4DE1-8163-566F7BD0D3B2,189213-1,"","","828","1753",
+gcc-88485,A,Compositae,,Carlina,,"acaulis",,"","Stokes",Unresolved,,L,TICA,C4B88880-B817-46F2-852C-7F8554A063D7,189214-1,"Bot. Mat. Med. iv. 156. 1812","","iv. 156","1812",
+gcc-96383,A,Compositae,,Carlina,,"acaulis",,"","Lam.",Unresolved,,L,TICA,6B73CD8C-0EFB-425C-BE49-916D5289B7D1,189212-1,"Encycl. (Lamarck) 1(2): 623","","623","1785",
+gcc-55395,A,Compositae,,Carlina,,"acaulis",subsp.,"acaulis","",Synonym,,L,TICA,58408367-78D9-4CC6-BC63-75AD9F563516,,"","","","",gcc-46634
+gcc-66286,A,Compositae,,Carlina,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,7AFF6BE7-03D3-4850-B30B-CD90B942E7CA,,"","","","",gcc-46634
+gcc-52127,A,Compositae,,Carlina,,"acaulis",subsp.,"aggregata","(Willd.) Hegi",Synonym,,L,TICA,17397ACF-E9DD-4286-949C-60B277869A0E,,"","","819","1928",gcc-65758
+gcc-45415,A,Compositae,,Carlina,,"acaulis",var.,"alpina","Jacq.",Accepted,,L,TICA,DCFF17B4-672F-49E3-B60A-5426E931D8CB,,"Enum. Stirp. Vindob.: 274 (1762)","","274","1762",
+gcc-17531,A,Compositae,,Carlina,,"acaulis",var.,"caulescens","(Lam.) Rchb.",Synonym,,L,TICA,A03020A8-23AF-4705-88A3-205D29CC3350,,"Icon. Fl. Germ. Helv. 15: 6 (1852)","","6","1852",gcc-65758
+gcc-65758,A,Compositae,,Carlina,,"acaulis",subsp.,"caulescens","(Lam.) Schübl. & G.Martens",Accepted,,L,TICA,4B9C3279-2662-46E7-8C25-C95DD0FEF2E3,,"","","523","1834",
+gcc-59423,A,Compositae,,Carlina,,"acaulis",var.,"eckartsbergensis","Ilse",Synonym,,L,TICA,99DD84BF-5ABA-4DD6-B8AE-964FED21C82C,,"""Jahrb. Königl. Akad. Gemeinnütz. Wiss. Erfurt, n.f., 4: 17 (1866)""","","17","1866",gcc-65758
+gcc-3802,A,Compositae,,Carlina,,"acaulis",subsp.,"simplex","(Waldst. & Kit.) Nyman",Synonym,,L,TICA,B1B2642E-3738-4219-9105-07141211C485,,"","","400","1879",gcc-65758
+gcc-132575,A,Compositae,,Carlina,,"actinobola",,"","(Halácsy) Heldr.",Synonym,,M,TICA,383F3A64-19A6-4007-B06D-E391FC62B3CD,,"""Heldr., Herb. Graec. Norm. 1902.""","","[in schedis] No. 1648","1902",gcc-89967
+gcc-91518,A,Compositae,,Carlina,,"aculeata",,"","Burm.f.",Synonym,,M,TICA,53D129B7-2C92-4E90-860F-868B8F0107CB,189215-1,"","","23","1768",gcc-3492
+gcc-49784,A,Compositae,,Carlina,,"aggregata",,"","Willd.",Synonym,,L,TICA,0CB59235-EE94-424D-BB3B-5C48F0B6ED18,189216-1,"","","1694","1803",gcc-65758
+gcc-154912,A,Compositae,,Carlina,,"aggregata",f.,"aggregata","",Synonym,,L,TICA,B711D04E-6EF4-4370-B7FA-CD46BC9BA8D6,,"","","","",gcc-65758
+gcc-155981,A,Compositae,,Carlina,,"aggregata",subsp.,"aggregata","",Synonym,,L,TICA,D91F94C8-F31B-4883-8042-E3F6B289B3A3,,"","","","",gcc-65758
+gcc-86101,A,Compositae,,Carlina,,"aggregata",f.,"nana","Degen",Synonym,,L,TICA,CBAD911E-1C4D-4378-BF53-7A2F31A21964,,"Fl. Veleb. 3: 168 (1938)","","168","1938",gcc-65758
+gcc-2971,A,Compositae,,Carlina,,"alpina",,"","Jacq.",Synonym,,M,TICA,997DA6A5-8DED-49F1-863D-0583C8987193,189217-1,"","","274","1762",gcc-46634
+gcc-45870,A,Compositae,,Carlina,,"atlantica",,"","Pomel",Accepted,,M,TICA,73D73DD7-D7C2-4AAF-A205-5505FB85A2EB,189219-1,"","","19","1874",
+gcc-155343,A,Compositae,,Carlina,,"atlantica",var.,"atlantica","",Synonym,,L,TICA,2479846E-1ED9-4CDB-9F48-D6404502755C,,"","","","",gcc-45870
+gcc-69093,A,Compositae,,Carlina,,"atlantica",var.,"claryi","Batt.",Synonym,,L,TICA,AD8E20BF-D0E4-41BF-8CEC-E3D3C1A14CFA,,"","","","",gcc-45870
+gcc-102273,A,Compositae,,Carlina,,"atractyloides",,"","L.",Unresolved,,L,TICA,411A2FF7-E178-41A8-86B9-9EB6C27EA3B0,,"","","1161","1753",gcc-126463
+gcc-36899,A,Compositae,,Carlina,,"baetica",,"","(Fern.Casas & Leal) Fern.Casas",Synonym,,L,TICA,C85CECD6-B040-4BEB-A2F2-4461F05771A3,942241-1,"Fontqueria 9","","19","1985",gcc-72561
+gcc-123803,A,Compositae,,Carlina,,"bakariensis",,"","E.Mayer",Synonym,,M,TICA,CB54D2F6-6403-4D02-B531-CF36F32DA9F5,189221-1,"Oesterr. Bot. Z. 113","","468","1966",gcc-68312
+gcc-144287,A,Compositae,,Carlina,,"balearica",,"","Sennen",Synonym,Invalid,M,TICA,965B6717-ABB1-43B2-9773-FDBF05D2C131,,"","","","1929",gcc-6061
+gcc-51692,A,Compositae,,Carlina,,"balfouris",,"","Sennen",Accepted,,M,TICA,D14DBD0B-B150-4238-8E27-5FD80CE95AA9,189223-1,"Bull. Soc. Bot. France 74","","380","1927",
+gcc-100622,A,Compositae,,Carlina,,"barnebiana",,"","B.L.Burtt & P.H.Davis",Accepted,,M,TICA,9D66851D-54BD-46CA-BC85-9B0B9A8FC61C,189224-1,"""Kew Bull. 1949, 103 (1949).""","","103","1949",
+gcc-17982,A,Compositae,,Carlina,,"biebersteinii",,"","Bernh. ex Hornem.",Accepted,,M,TICA,352B55F2-7399-4CD5-9A00-213C4B6DE5B6,189225-1,"","","94","1819",
+gcc-146241,A,Compositae,,Carlina,,"biebersteinii",var.,"biebersteinii","",Synonym,,L,TICA,EADCDBC3-9573-4559-889C-1487DB32007E,,"","","","",gcc-17982
+gcc-2840,A,Compositae,,Carlina,,"biebersteinii",subsp.,"biebersteinii","",Synonym,,L,TICA,E28F0F3A-C5B0-4AEC-977F-053BDB1AF0F5,,"","","","",gcc-17982
+gcc-61175,A,Compositae,,Carlina,,"biebersteinii",subsp.,"brevibracteata","(Andrae) K.Werner",Accepted,,L,TICA,A883B738-8C9A-4EB5-A76E-A46D7E39B5AA,983078-1,"","","518","1994",
+gcc-69035,A,Compositae,,Carlina,,"biebersteinii",subsp.,"brevibracteata","(Andrae) Meusel & Kästner",Unresolved,,L,TICA,A54BA213-E278-441B-A30C-E35F9E034665,,"""Österr. Akad. Wiss. Math.-Naturwiss. Kl., Denkschr. 128(2): 518 (1994)""","","518","1994",
+gcc-70950,A,Compositae,,Carlina,,"biebersteinii",var.,"fennica","Meusel & Kästner",Accepted,,L,TICA,7E8B1C20-65FC-42B8-BAA5-F230AAA6F5A5,983077-1,"","","517","1994",
+gcc-58402,A,Compositae,,Carlina,,"biebersteinii",subsp.,"intermedia","(Schur) Meusel & Kästner",Synonym,,L,TICA,9EC4E253-B0B1-4204-ACFC-8E68249963A5,966591-1,"","","275","1990",gcc-69035
+gcc-8333,A,Compositae,,Carlina,,"bolleana",,"","(Sch.Bip.) Linding.",Unresolved,,L,TICA,76C1A92F-FE77-4719-AF8B-0F81D14BBC5E,189226-1,"""Abh. Auslandsk., Reihe C, Naturwiss. xxi., viii. (Beitr. Veg. u. Fl. Kanar. Ins.) 172""","","172","1926",
+gcc-118833,A,Compositae,,Carlina,,"bollei",,"","(Sch.Bip.) Linding.",Synonym,,L,TICA,234C15B3-2ACC-4DF6-B6C7-C3E3EC695548,,"""Abh. Auslandsk., Reihe C, Naturwiss. 8: 172 (1926)""","","172","1926",gcc-43799
+gcc-135540,A,Compositae,,Carlina,,"brachylepis",,"","(Batt.) Meusel & Kästner",Accepted,,M,TICA,A1C3DF6D-A460-4259-95E0-EA393E88D9D7,,"","","403","1977",
+gcc-147352,A,Compositae,,Carlina,,"brachylepis",var.,"brachylepis","",Synonym,,L,TICA,2357B542-72A4-4B27-94B8-2BBB8DCF9725,,"","","","",gcc-135540
+gcc-69702,A,Compositae,,Carlina,,"brachylepis",var.,"lanigera","(Faure & Maire) D.P.Petit",Synonym,,L,TICA,BB31CFD3-9631-47E1-8123-E8628996081F,,"","","421","1988",gcc-135540
+gcc-104407,A,Compositae,,Carlina,,"bracteata",,"","J.Presl & C.Presl",Synonym,,M,TICA,4A00EF11-2527-4AAC-A381-A370BE519FB0,,"","","103","1822",gcc-86512
+gcc-122444,A,Compositae,,Carlina,,"brevibracteata",,"","Azn.",Unresolved,,L,TICA,81F5043B-4C07-47CE-96C5-CC0578A424C2,189229-1,"Magyar Bot. Lapok iii. 4.","","4","",
+gcc-125351,A,Compositae,,Carlina,,"brevibracteata",,"","(Andrae) Simonk.",Synonym,,M,TICA,FC9D8679-DE31-4E45-9978-D2D527F507F8,,"","","342","1887",gcc-61175
+gcc-77680,A,Compositae,,Carlina,,"canariensis",,"","Pit.",Accepted,,M,TICA,D2EB3E43-C8AA-4FE5-A9CC-676AE515C97F,189230-1,"","","240","",
+gcc-146047,A,Compositae,,Carlina,,"canariensis",f.,"canariensis","",Synonym,,L,TICA,F4ECC2E5-4417-4786-A523-1073B6BF6E2D,,"","","","",gcc-77680
+gcc-146775,A,Compositae,,Carlina,,"canariensis",var.,"canariensis","",Synonym,,L,TICA,98D50E3E-BC5B-4891-B9A9-1FA46D543D5D,,"","","","",gcc-77680
+gcc-75273,A,Compositae,,Carlina,,"canariensis",f.,"inermis","G.Kunkel",Synonym,,L,TICA,264772B8-1A02-4344-9FE9-60025C8B1B24,,"Cuad. Bot. Canaria 9: 12 (1970)","","12","1970",gcc-77680
+gcc-101881,A,Compositae,,Carlina,,"caulescens",,"","L.",Unresolved,,L,TICA,75484012-42FE-463F-8EF5-9DC34922A863,,"","","","",gcc-65758
+gcc-138835,A,Compositae,,Carlina,,"caulescens",,"","Lam.",Synonym,,L,TICA,102DFC74-B10C-47CF-8CFA-F17409138159,189231-1,"","","7","1779",gcc-65758
+gcc-139166,A,Compositae,,Carlina,,"caulescens",,"","Gilib.",Synonym,,M,TICA,5F19091E-8B11-4678-8628-F22443B58A0A,,"","","","",gcc-91676
+gcc-29841,A,Compositae,,Carlina,,"ceretana",,"","Sennen",Unresolved,,L,TICA,422A0386-D4C2-4A8A-BDED-372E6954B380,189233-1,"""Bull. Soc. Bot. France 74: 380, hybr.""","","380","1927",
+gcc-20848,A,Compositae,,Carlina,,"chamaeleon",,"","Vill.",Synonym,,L,TICA,0A8E901B-DFD5-4C43-BA40-268D1348C2AB,189234-1,"","","30","1788",gcc-65758
+gcc-108695,A,Compositae,,Carlina,,"chardousse",,"","Vill.",Synonym,,M,TICA,FD2034EE-5361-4DBA-AF7C-ACE5433D8A74,189235-1,"","","27","1779",gcc-43850
+gcc-44593,A,Compositae,,Carlina,,"cirsioides",,"","Klokov",Synonym,,M,TICA,8EC53D81-5832-423B-94B4-529D4C27326A,189236-1,"","","355","1954",gcc-46634
+gcc-13489,A,Compositae,,Carlina,,"clemenceaui",,"","Sennen",Unresolved,,L,TICA,AE32C50D-4874-4D1D-B27C-191D6268D1C1,189237-1,"""Bull. Soc. Bot. France 74: 380, hybr.""","","380","1927",
+gcc-81533,A,Compositae,,Carlina,,"comosa",,"","(Spreng.) Greuter",Accepted,,M,TICA,DAD36D2C-D376-4948-AE6F-7008A4CE4348,70029043-1,"","","52","2003",
+gcc-26704,A,Compositae,,Carlina,,"complanata",,"","Schur",Synonym,Invalid,M,TICA,E8249840-4C80-49EA-AF49-31585D0DCA1D,189238-1,"","","413","1866",gcc-91676
+gcc-76911,A,Compositae,,Carlina,,"conformis",,"","P.H.Davis",Synonym,,M,TICA,3F855D04-1852-40C4-A62A-65B021D8BCA5,189239-1,"Notes Roy. Bot. Gard. Edinburgh 21","","127","1953",gcc-49503
+gcc-15408,A,Compositae,,Carlina,,"corymbosa",,"","L.",Accepted,,M,TICA,29C96FB5-2A4B-4981-AFB8-1C88ACB5239C,,"","","","1753",
+gcc-19497,A,Compositae,,Carlina,,"corymbosa",,"","Scop. ex Steud.",Synonym,Invalid,M,TICA,9F328CE3-E686-4D8D-A7EC-240694E7BB68,189240-1,"","","299","1840",gcc-91676
+gcc-66875,A,Compositae,,Carlina,,"corymbosa",subsp.,"actinobola","(Heldr. ex Halácsy) Rech.f.",Synonym,,L,TICA,527E944C-541D-4D7C-B58F-D264FF8B225D,,"","","644","",gcc-89967
+gcc-145714,A,Compositae,,Carlina,,"corymbosa",subsp.,"corymbosa","",Synonym,,L,TICA,EC51C904-C891-455A-B42B-0958DEE6F6B0,,"","","","",gcc-15408
+gcc-152932,A,Compositae,,Carlina,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,2CFEEAA3-A0E8-4D33-9179-A374C4ADD748,,"","","","",gcc-15408
+gcc-50898,A,Compositae,,Carlina,,"corymbosa",subsp.,"curetum","(Heldr. ex Halácsy) Rech.f.",Synonym,,L,TICA,561FDC75-D1E5-4E85-88CD-5E6B7EA07271,,"","","644","",gcc-96138
+gcc-4767,A,Compositae,,Carlina,,"corymbosa",subsp.,"globosa","Arcang.",Synonym,,L,TICA,5590CC85-338E-4AFE-8F12-08E0AC5F9B6C,,"Arcang.. 1882.","","384","1882",gcc-55779
+gcc-63923,A,Compositae,,Carlina,,"corymbosa",var.,"globosa","Arcang.",Synonym,,L,TICA,DFA9ADA3-18CF-402C-A8A1-BA98500ED923,,"Comp. Fl. Ital.: 705 (1882)","","705","1882",gcc-55779
+gcc-66980,A,Compositae,,Carlina,,"corymbosa",var.,"gracilis","Formánek",Synonym,,L,TICA,61DDB66C-D3FF-4BEA-A25C-D3372D9B77D9,,"Verh. Naturf. Vereins Brünn 34: 306 (1896)","","306","1896",gcc-56456
+gcc-62120,A,Compositae,,Carlina,,"corymbosa",var.,"graeca","(Heldr. & Sart.) Boiss.",Synonym,,L,TICA,825DB0A0-31DB-4FF5-9FBD-AC2E7E8496CF,,"Fl. Orient. 3: 449 (1875)","","449","1875",gcc-89967
+gcc-70822,A,Compositae,,Carlina,,"corymbosa",subsp.,"graeca","Nyman",Synonym,,L,TICA,5EB565A8-B77B-48C1-B036-F12396A14F0F,,"","","400","1879",gcc-89967
+gcc-6061,A,Compositae,,Carlina,,"corymbosa",var.,"graeciformis","Meusel & Kästner",Accepted,,L,TICA,6A36D512-D1B3-4C79-BE70-0B46935DBA12,983071-1,"","","194","1994",
+gcc-7507,A,Compositae,,Carlina,,"corymbosa",subsp.,"hispanica","(Lam.) O.Bolòs & Vigo",Synonym,,L,TICA,4291CB2A-EF06-4B8A-A40A-0DF1D8E1ECA4,980175-1,"","","152","1984",gcc-23386
+gcc-41938,A,Compositae,,Carlina,,"corymbosa",var.,"involucrata","(Poir.) Boiss.",Synonym,,L,TICA,808EA63F-241D-4C45-BFD5-4DA43F285B1F,,"Fl. Orient. 3: 449 (1875)","","449","1875",gcc-90023
+gcc-42372,A,Compositae,,Carlina,,"corymbosa",subsp.,"involucrata","(Poir.) Holmboe",Synonym,,L,TICA,C4664557-4262-4EF7-869E-4E8283B81EA8,,"","","185","1914",gcc-90023
+gcc-59757,A,Compositae,,Carlina,,"corymbosa",var.,"libanotica","(Boiss.) Boiss.",Synonym,,L,TICA,E20CE785-B664-4C39-8C1B-9910056AA4E9,,"Fl. Orient. 3: 450 (1875)","","450","1875",gcc-16507
+gcc-67854,A,Compositae,,Carlina,,"corymbosa",var.,"lobeliana","(Tausch) Meusel & Kästner",Accepted,,L,TICA,E857A0A3-46A1-42D4-AF44-DA8BD04BE874,983070-1,"","","193","1994",
+gcc-62956,A,Compositae,,Carlina,,"corymbosa",var.,"major","Lange",Synonym,,L,TICA,FA9C3082-96F1-4F57-9078-B2F387B86166,,"Pug. Pl. Hispan. 2: 133 (1860)","","133","1860",gcc-67754
+gcc-72678,A,Compositae,,Carlina,,"corymbosa",var.,"microcephala","Post",Synonym,,L,TICA,22FCABE7-5129-4CB5-8A39-FFE5F5C61166,,"""Fl. Syria, Add.: 16 (1896)""","","16","1896",gcc-22947
+gcc-53505,A,Compositae,,Carlina,,"corymbosa",subsp.,"rothii","(Boiss.) Arcang.",Synonym,,L,TICA,A6A1AD8F-23B2-494A-B676-66CD809FC163,,"Arcang.. 1894.","","705","1894",gcc-89967
+gcc-55329,A,Compositae,,Carlina,,"corymbosa",var.,"rothii","Heldr. & Sart. ex Boiss.",Synonym,,L,TICA,9F941D2F-DAA5-4D13-83E2-752A1B2307FA,,"Fl. Orient. 3: 449 (1875)","","449","1875",gcc-60574
+gcc-96138,A,Compositae,,Carlina,,"curetum",,"","Heldr. ex Halácsy",Accepted,,L,TICA,9CECA380-BB96-4519-81E2-90DF2305079B,,"","","449","1875",
+gcc-149771,A,Compositae,,Carlina,,"curetum",var.,"curetum","",Synonym,,L,TICA,FB6E26BF-2D1D-40F7-BFE8-5FE3A9E7055B,,"","","","",gcc-96138
+gcc-65184,A,Compositae,,Carlina,,"curetum",subsp.,"curetum","",Synonym,,L,TICA,F0EF4F58-83C1-4DD6-A7D0-C47BC854E935,,"","","","",gcc-96138
+gcc-12158,A,Compositae,,Carlina,,"curetum",var.,"montana","Meusel & Kästner",Synonym,,L,TICA,04D210DB-710F-4B8A-8B1D-16AC9C9062D0,,"","","406","1977",gcc-30471
+gcc-30471,A,Compositae,,Carlina,,"curetum",subsp.,"orientalis","Meusel & Kästner",Accepted,,L,TICA,E59B0F1E-37D9-4170-A730-385C9FBCB158,,"","","406","1977",
+gcc-14161,A,Compositae,,Carlina,,"cynara",,"","(DC.) Pourr. ex Duby",Synonym,,L,TICA,4A02471C-7E87-48BF-BA4D-1A40FE4FCFAC,,"","","293","1828",gcc-72561
+gcc-83813,A,Compositae,,Carlina,,"cynara",,"","Pourr. ex DC.",Unresolved,,L,TICA,CD6BF6A3-A3E1-430A-ACAF-75179D44D6D2,189243-1,"","","","",
+gcc-39519,A,Compositae,,Carlina,,"decurrens",,"","Vandas",Synonym,,M,TICA,926441B1-93BE-473A-8C3A-49582AB1D7E3,,"Oesterr. Bot. Z. 38: 413 (1888)","","413","1888",gcc-45415
+gcc-48613,A,Compositae,,Carlina,,"diae",,"","(Rech.f.) Meusel & Kästner",Accepted,,M,TICA,9D115DCA-A3ED-4400-A97D-5A0C7E059FB5,189244-1,"","","228","1972",
+gcc-116927,A,Compositae,,Carlina,,"diaea",,"","(Rech.f.) Meusel & Kästner",Unresolved,,L,TICA,4D479E72-85D1-44CD-A823-BF87220E9D1C,,"","","","",
+gcc-43185,A,Compositae,,Carlina,,"discolor",,"","Nyman",Synonym,Invalid,M,TICA,EEF1D2D3-D0DD-41D5-8CC7-50080AA2B652,189245-1,"","","400","1879",gcc-8854
+gcc-35983,A,Compositae,,Carlina,,"dolopica",,"","Formánek",Synonym,,M,TICA,B5B84D31-4DC2-452F-9499-42B6A1409D38,,"Verh. Naturf. Vereins Brünn 35: 172 (1897)","","172","1897",gcc-56456
+gcc-76633,A,Compositae,,Carlina,,"echinus",,"","M.Bieb.",Synonym,,M,TICA,C2EF916E-B1D8-41B1-BFE1-651E86BDEDB2,47531-2,"Fl. Taur.-Caucas. 2","","283","1808",gcc-87988
+gcc-117914,A,Compositae,,Carlina,,"elatior",,"","Wallr.",Synonym,,L,TICA,C6537373-889B-408E-A34A-C1B84789A8F1,,"Linnaea 14","","636","",gcc-65758
+gcc-24104,A,Compositae,,Carlina,,"elegans",,"","Heldr. ex Halácsy",Synonym,,M,TICA,B4C75BC4-E718-4541-A43F-2C8A4843AA0D,,"","","97","1902",gcc-15408
+gcc-140686,A,Compositae,,Carlina,,"falcata",,"","Svent.",Synonym,,M,TICA,D6862A9C-8618-4FE3-A8AE-F5A9BD525541,189248-1,"","","52","1969",gcc-41309
+gcc-125127,A,Compositae,,Carlina,,"fennica",,"","(Meusel & Kästner) Tzvelev",Synonym,,M,TICA,7CCA8FA7-B997-4B04-BA63-D2575D29CEC3,1012270-1,"Novosti Sist. Vyssh. Rast. 31","","264","1998",gcc-70950
+gcc-35565,A,Compositae,,Carlina,,"fiumensis",,"","Simonk.",Synonym,,M,TICA,018BF1CD-3D71-4E64-A5F9-41F0C81648EE,189249-1,"","","15","1907",gcc-68312
+gcc-87743,A,Compositae,,Carlina,,"flavispina",,"","Simonk.",Synonym,,M,TICA,4AB72DC2-C158-49DD-832C-7DEEBE913E38,,"","","","1907",gcc-91676
+gcc-38441,A,Compositae,,Carlina,,"foliosa",,"","Boiss. & Hausskn.",Synonym,,M,TICA,45838EBF-D763-4581-A6A7-47512987EDB9,189251-1,"","","450","1875",gcc-47436
+gcc-14786,A,Compositae,,Carlina,,"fontanesii",,"","DC.",Synonym,,M,TICA,020AF0A7-6740-46D2-94A0-1B6B4B24FF73,189252-1,"","","548","1838",gcc-99019
+gcc-43492,A,Compositae,,Carlina,,"frigida",,"","Boiss. & Heldr.",Accepted,,M,TICA,ECD0E368-5CB7-4CBB-80B3-50A336A1CEC1,,"","","109","1846",
+gcc-68312,A,Compositae,,Carlina,,"frigida",subsp.,"fiumensis","(Simonk.) Meusel & Kästner",Accepted,,L,TICA,F9A9DD4B-8643-493A-BDC2-DDD5E37017C0,966592-1,"","","275","1990",
+gcc-54620,A,Compositae,,Carlina,,"frigida",subsp.,"frigida","",Synonym,,L,TICA,E330511C-C449-4168-AD5E-6F7E5B61873C,,"","","","",gcc-43492
+gcc-14657,A,Compositae,,Carlina,,"globosa",,"","(Arcang.) Huter",Synonym,,M,TICA,EDA6EC11-53E9-4534-A9C3-1B30FE20392D,189254-1,"Oesterr. Bot. Z. 56","","112","1906",gcc-55779
+gcc-106644,A,Compositae,,Carlina,,"gorterioides",,"","Lam.",Unresolved,,L,TICA,CD980ECA-CE83-4281-8F90-A84869ECB20C,189255-1,"","","625","1785",
+gcc-23870,A,Compositae,,Carlina,,"graeca",,"","Heldr. & Sart. ex Boiss.",Unresolved,,L,TICA,51F2286B-291A-46C5-8376-2C1C9AEF9842,189256-1,"Fl. Orient. [Boissier] 3: 449","","449","1875",
+gcc-89967,A,Compositae,,Carlina,,"graeca",,"","Heldr. & Sart.",Accepted,,M,TICA,C77653DE-5BA9-49D2-89A3-82EC7CBBB3B9,,"","","","1855",
+gcc-154455,A,Compositae,,Carlina,,"graeca",var.,"graeca","",Synonym,,L,TICA,B567891C-3C7A-4F49-9A1A-C3D555548D4F,,"","","","",gcc-89967
+gcc-60574,A,Compositae,,Carlina,,"graeca",var.,"rothii","(Heldr. & Sart. ex Boiss.) Meusel & Kästner",Accepted,,L,TICA,916B3703-D147-4DDD-9815-9F55F2550E1C,983081-1,"","","212","1994",
+gcc-12820,A,Compositae,,Carlina,,"grandiflora",,"","Moench",Synonym,,L,TICA,524D4106-1958-4C31-8785-17E76CD52AFB,189257-1,"","","558","1794",gcc-65758
+gcc-137240,A,Compositae,,Carlina,,"guittonneaui",,"","Dobignard",Accepted,,M,TICA,258974DF-4AC7-459C-BE85-EE09C763F26B,,"J. Bot. Soc. Bot. France 28","","25","2004",
+gcc-99019,A,Compositae,,Carlina,,"gummifera",,"","(L.) Less.",Accepted,,M,TICA,FB751E34-6B3D-4D3F-92AA-976D8A3CB73E,189258-1,"","","12","1832",
+gcc-23386,A,Compositae,,Carlina,,"hispanica",,"","Lam.",Accepted,,M,TICA,555A4394-4C8E-4DAE-B24A-2B50C120495A,189259-1,"","","624","1785",
+gcc-62278,A,Compositae,,Carlina,,"hispanica",subsp.,"galilaea","Meusel & Kästner",Synonym,,L,TICA,D544B021-CEE3-4071-983C-AD63F39A13F4,,"","","406","1977",gcc-16507
+gcc-55779,A,Compositae,,Carlina,,"hispanica",subsp.,"globosa","Meusel & Kästner",Accepted,,L,TICA,6A71CD87-CED7-4026-B6D0-78CC5A24E13B,966593-1,"","","275","1990",
+gcc-63499,A,Compositae,,Carlina,,"hispanica",subsp.,"hispanica","",Synonym,,L,TICA,6DF9ED39-14A6-4054-924D-B74FEE62AED7,,"","","","",gcc-23386
+gcc-67754,A,Compositae,,Carlina,,"hispanica",subsp.,"major","(Lange) Meusel & Kästner",Accepted,,L,TICA,E1B6F7AC-52D5-47C7-AB81-D9B969160315,966594-1,"","","275","1990",
+gcc-108061,A,Compositae,,Carlina,,"intermedia",,"","Schur",Synonym,,M,TICA,10C3B719-E2F0-46DB-BE18-AB852461C204,189260-1,"","","413","1866",gcc-61175
+gcc-90023,A,Compositae,,Carlina,,"involucrata",,"","Poir.",Accepted,,M,TICA,2572B6C0-29EB-4DF6-9934-830AA0A69887,189261-1,"","","234","1789",
+gcc-30219,A,Compositae,,Carlina,,"involucrata",var.,"brachylepis","Batt.",Synonym,,L,TICA,F292FC6F-04F0-43AE-8C4B-37F004811E76,,"Fl. Algérie 1(1): 485 (1889)","","485","1889",gcc-135540
+gcc-59743,A,Compositae,,Carlina,,"involucrata",subsp.,"corymbosa","Quézel & Santa",Synonym,,L,TICA,C18A2CAC-84ED-4573-80D7-98F4EA777518,,"","","","",gcc-23386
+gcc-70232,A,Compositae,,Carlina,,"involucrata",subsp.,"cyprica","Meusel & Kästner",Synonym,,L,TICA,04E22192-4A3D-47C8-915C-EC7F0F969368,,"","","402","1977",gcc-16507
+gcc-145751,A,Compositae,,Carlina,,"involucrata",subsp.,"involucrata","",Synonym,,L,TICA,DC334222-57DE-4BD6-8868-0A1B3D6F94EB,,"","","","",gcc-90023
+gcc-152829,A,Compositae,,Carlina,,"involucrata",var.,"involucrata","",Synonym,,L,TICA,3E7C14F2-D806-4EC9-BA22-A14A38FF5AAF,,"","","","",gcc-90023
+gcc-61177,A,Compositae,,Carlina,,"involucrata",var.,"lanigera","Faure & Maire",Synonym,,L,TICA,E69E06AC-FCC1-46DD-BBC9-A46E0673F26D,77117446-1,"Bull. Soc. Hist. Nat. Afrique N. 24: 218 (1933)","","218","1933",gcc-135540
+gcc-61377,A,Compositae,,Carlina,,"involucrata",subsp.,"libanotica","(Boiss.) Meusel & Kästner",Synonym,,L,TICA,05A6F472-6DB1-4C14-80A0-A60C0BE8A2F2,876749-1,"","","429","1975",gcc-16507
+gcc-68135,A,Compositae,,Carlina,,"involucrata",var.,"mareotica","Asch. & Schweinf.",Synonym,,L,TICA,BAECA237-D1C0-432A-80B3-DC7ED5BED9A1,,"Ill. Fl. Égypte: 93 (1887)","","93","1887",gcc-56491
+gcc-137301,A,Compositae,,Carlina,,"ixia",,"","Garsault",Synonym,Invalid,M,TICA,2289AC31-3001-4725-A006-EE286E3C149D,,"","","","1764",gcc-99019
+gcc-128104,A,Compositae,,Carlina,,"kurdica",,"","Meusel & Kästner",Accepted,,M,TICA,85A67189-508D-4D63-8150-D93B7644A391,189263-1,"","","231","1972",
+gcc-30521,A,Compositae,,Carlina,,"lanata",,"","L.",Accepted,,M,TICA,FE3B10B5-E3A4-45ED-8287-387D74830998,189264-1,"","","828","1753",
+gcc-77712,A,Compositae,,Carlina,,"lanata",,"","Habl.",Unresolved,,L,TICA,4B90FFD3-F90F-4E07-A054-677AE1D36794,,"Taur. 160.","","160","",
+gcc-85144,A,Compositae,,Carlina,,"lanata",,"","Pall. ex DC.",Unresolved,,L,TICA,320F24C1-7E0B-4AE0-96C2-78085B521836,189266-1,"Prodr. (DC.) 6: 546","","546","1838",
+gcc-150395,A,Compositae,,Carlina,,"lanata",var.,"lanata","",Synonym,,L,TICA,DC95162A-527D-44F7-9334-6D8CA4126ABD,,"","","","",gcc-85144
+gcc-59687,A,Compositae,,Carlina,,"lanata",var.,"pola","(Hacq.) Fiori & Bég.",Synonym,,L,TICA,0C1B014D-3345-4593-9175-987137F09446,,"Exsicc. (Fl. Ital.): 2977","","2977","",gcc-30521
+gcc-2012,A,Compositae,,Carlina,,"lanata",var.,"proilfera","DC.",Synonym,,L,TICA,B1A351DF-2A3A-48F5-B82D-039FD727F52D,,"Prodr. 6: 546 (1838)","","546","1838",gcc-30521
+gcc-24604,A,Compositae,,Carlina,,"lanata",var.,"pygmaea","Post",Synonym,,L,TICA,09ABFE7D-2055-4593-8CBD-2D704449679C,,"Mém. Herb. Boissier 18: 95 (1900)","","95","1900",gcc-49932
+gcc-16507,A,Compositae,,Carlina,,"libanotica",,"","Boiss.",Accepted,,M,TICA,558E5BB4-9E08-43AF-8F15-1E86CE1F9ECB,,"","","95","1849",
+gcc-148199,A,Compositae,,Carlina,,"libanotica",subsp.,"libanotica","",Synonym,,L,TICA,5928D26F-EC65-42C1-B279-3D49ED4A663F,,"","","","",gcc-16507
+gcc-153576,A,Compositae,,Carlina,,"libanotica",var.,"libanotica","",Synonym,,L,TICA,CBC2981E-ED14-4598-A71D-B123C57087D2,,"","","","",gcc-16507
+gcc-22947,A,Compositae,,Carlina,,"libanotica",var.,"microcephala","(Post) Bornm.",Accepted,,L,TICA,1AD3D8A4-FE67-4D3C-ABE5-2A7A2C80057F,,"Verh. K. K. Zool.-Bot. Ges. Wien 48: 602 (1898)","","602","1898",
+gcc-65693,A,Compositae,,Carlina,,"libanotica",subsp.,"microcephala","(Post) Meusel & Dittrich",Synonym,,L,TICA,EA102DB6-EC68-495B-B7D0-C8D40CC59D46,955781-1,"","","534","1989",gcc-16507
+gcc-131110,A,Compositae,,Carlina,,"lobeliana",,"","Tausch",Synonym,,M,TICA,3B51E0F3-B2D1-46E6-9D14-E01FBEF51BE8,,"","","","1829",gcc-67854
+gcc-21236,A,Compositae,,Carlina,,"longicaulis",,"","Sommier & Levier",Unresolved,,L,TICA,48E04D17-B8F2-425E-ABBB-273D8C2F6240,189269-1,"","","91","1895",gcc-69035
+gcc-134254,A,Compositae,,Carlina,,"longifolia",,"","Rchb.",Synonym,,M,TICA,D8B43D15-C850-4E01-B8DC-E75EF8277528,189271-1,"","","25","1830",gcc-17982
+gcc-21175,A,Compositae,,Carlina,,"longifolia",,"","Viv.",Synonym,,M,TICA,FC813076-DF43-4E95-8A1A-271BF859EDB4,189270-1,"","","68","1824",gcc-91676
+gcc-26211,A,Compositae,,Carlina,,"longifolia",var.,"brevibracteata","Andrae",Synonym,,L,TICA,6A7BE4D2-72DE-4241-84A7-3078951AD65B,,"Bot. Zeitung (Berlin) 13: 313 (1855)","","313","1855",gcc-69035
+gcc-149389,A,Compositae,,Carlina,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,5B098237-A0FB-4191-9150-57BA8358741E,,"","","","",gcc-17982
+gcc-44304,A,Compositae,,Carlina,,"longifolia",var.,"pontica","Boiss.",Synonym,,L,TICA,42F95144-1661-480C-853E-520F020EC4BF,,"Fl. Orient. 3: 449 (1875)","","","1875",gcc-17982
+gcc-115582,A,Compositae,,Carlina,,"lyrata",,"","Thunb.",Unresolved,,L,TICA,C572FFB8-FEE1-4B9E-B7F5-BC81235736EC,189272-1,"Prodr. Pl. Cap. 141.","","141","",
+gcc-126736,A,Compositae,,Carlina,,"macrocephala",,"","Less.",Synonym,,M,TICA,98188E3D-82F6-4CA9-88A4-D5F8AFCF8C5D,189273-1,"","","12","1832",gcc-99019
+gcc-8854,A,Compositae,,Carlina,,"macrocephala",,"","Moris",Accepted,,M,TICA,62AA3381-DC33-400A-9EED-1092BB687160,,"","","5","1827",
+gcc-98923,A,Compositae,,Carlina,,"macrocephala",,"","Formánek",Synonym,Illegitimate,M,TICA,814C2A8F-8FD9-4FB7-BD79-97310EC75551,189275-1,"","","","1898",gcc-17982
+gcc-157291,A,Compositae,,Carlina,,"macrocephala",var.,"macrocephala","",Synonym,,L,TICA,5E1E8A44-9DC8-46FF-A361-FEE730B5CDDE,,"","","","",gcc-8854
+gcc-128986,A,Compositae,,Carlina,,"macrophylla",,"","(Desf.) DC.",Accepted,,M,TICA,7B39142E-5E01-4259-8DED-DB406BA7B0C8,189276-1,"","","548","1838",
+gcc-92655,A,Compositae,,Carlina,,"malinvaudi",,"","Sennen",Unresolved,,L,TICA,DC07FEA3-CD23-44BD-8CE5-8910E47CDC56,189277-1,"""Bull. Soc. Bot. France 74: 380, nomen""","","380","1927",
+gcc-87783,A,Compositae,,Carlina,,"maritima",,"","Rouy",Synonym,,M,TICA,AE779E52-6154-4AAF-89EA-7E0145486D46,189278-1,"","","366","1903",gcc-91676
+gcc-133260,A,Compositae,,Carlina,,"maroccana",,"","Coss.",Unresolved,,L,TICA,389817D9-C058-4865-B2BC-E519964C2BEA,189279-1,"ex Battand. Contrib. Fl. Atlant. 52 (1919).","","52","",
+gcc-93601,A,Compositae,,Carlina,,"maroccana",,"","Coss. ex Batt.",Unresolved,,L,TICA,1EC5936C-6544-4CE4-81E1-8B0F87265412,,"Contr. Fl. Atl.: 52 (1919)","","52","1919",
+gcc-123639,A,Compositae,,Carlina,,"nebrodense",,"","Guss.",Unresolved,,L,TICA,B08947D6-AD1F-4E9C-A48B-CECC0563E0CD,,"Prodr. (DC.) 6: 546","","546","1838",
+gcc-47903,A,Compositae,,Carlina,,"nebrodensis",,"","Guss. ex DC.",Accepted,,M,TICA,CC9E7A56-0553-4F1D-8516-58BDCC5DB1A9,,"","","546","1838",
+gcc-9649,A,Compositae,,Carlina,,"nebrodensis",,"","Nyman",Synonym,,M,TICA,799103BD-1E2D-46BB-8B34-12057D6E15D5,189280-1,"","","401","1879",gcc-17982
+gcc-30954,A,Compositae,,Carlina,,"neglecta",,"","Formánek",Synonym,,L,TICA,DC653AE5-E198-4052-802D-39505A864750,,"","","172","1897",gcc-69035
+gcc-122847,A,Compositae,,Carlina,,"officinalis",,"","Bubani",Synonym,,M,TICA,613936D2-A672-4037-A543-CCF3835564AD,,"","","","1899",gcc-46634
+gcc-47436,A,Compositae,,Carlina,,"oligocephala",,"","Boiss. & Kotschy",Accepted,,M,TICA,4C3B1F5D-BC6B-49FE-8F07-57DD368D9233,,"","","51","1856",
+gcc-44119,A,Compositae,,Carlina,,"oligocephala",var.,"microcephala","Boiss.",Synonym,,L,TICA,FE7A5610-BA43-4F97-88B3-51B048CC3BEA,,"Fl. Orient. 3: 450 (1875)","","450","1875",gcc-49710
+gcc-49710,A,Compositae,,Carlina,,"oligocephala",subsp.,"microcephala","(Boiss.) Meusel & Kästner",Accepted,,L,TICA,1550253E-3E6A-4626-B61C-5C26117A554D,966596-1,"","","275","1990",
+gcc-11615,A,Compositae,,Carlina,,"oligocephala",subsp.,"oligocephala","",Synonym,,L,TICA,929BA84D-6876-458B-AD49-15A87D75718B,,"","","","",gcc-47436
+gcc-152940,A,Compositae,,Carlina,,"oligocephala",var.,"oligocephala","",Synonym,,L,TICA,2AF52E70-5CF9-4F1C-A2FA-A3AAF09E9C70,,"","","","",gcc-47436
+gcc-62740,A,Compositae,,Carlina,,"oligocephala",subsp.,"pallescens","(Wettst.) Meusel & Kästner",Accepted,,L,TICA,5779ABD1-56CA-49EE-AE0B-B1175525F9AF,876751-1,"","","429","1975",
+gcc-142442,A,Compositae,,Carlina,,"olympica",,"","Formánek",Synonym,,L,TICA,1A5ECB60-CF77-4D10-8A89-F9A33F601D1F,189285-1,"","","xxix. (1891).","1891",gcc-69035
+gcc-153925,A,Compositae,,Carlina,,"olympica",var.,"olympica","",Synonym,,L,TICA,F21D39E9-1DC9-40A2-8DAC-B851B0F787C7,,"","","","",gcc-69035
+gcc-59110,A,Compositae,,Carlina,,"olympica",var.,"viridans","Formánek",Synonym,,L,TICA,D325749F-AEEC-410E-B229-93D738CE928C,,"Verh. Naturf. Vereins Brünn 29: 128 (1891)","","128","1891",gcc-69035
+gcc-127259,A,Compositae,,Carlina,,"onopordifolia",,"","Besser ex Szaf., Kucz. & Pawł.",Unresolved,,L,TICA,D9E271A5-AE63-4A71-8DBF-D7378483798B,,"","","","",
+gcc-3756,A,Compositae,,Carlina,,"onopordifolia",,"","Szafer & al.",Synonym,,M,TICA,7544B75C-24A8-47FC-8583-06FA85936425,,"""Szafer & al., Rośl. Polsk. 1924.""","","641","1924",gcc-68203
+gcc-6151,A,Compositae,,Carlina,,"onopordifolia",,"","Besser ex DC.",Unresolved,,L,TICA,4F1B262E-AF24-4073-9497-0B714F60E59A,189286-1,"Prodr. (DC.) 6: 545","","545","1838",
+gcc-102387,A,Compositae,,Carlina,,"orophila",,"","Lamotte",Synonym,,M,TICA,0C2DA07C-C84F-46BA-9405-9F00E44DC714,,"","","","1825",gcc-91676
+gcc-95065,A,Compositae,,Carlina,,"pallescens",,"","Wettst.",Synonym,,M,TICA,E16641CF-ED4F-4A83-A42B-8E76F3D085D3,,"","","371","1889",gcc-62740
+gcc-122599,A,Compositae,,Carlina,,"patula",,"","Burm.f.",Unresolved,,L,TICA,CB924115-797C-4643-9599-CC61AA898E89,189288-1,"","","23","1768",
+gcc-11646,A,Compositae,,Carlina,,"pola",,"","Hacq.",Synonym,,M,TICA,D409B6AE-4AEC-4E40-9AED-15B7192EBA19,,"","","","1782",gcc-30521
+gcc-49932,A,Compositae,,Carlina,,"pygmaea",,"","(Post) Holmboe",Accepted,,M,TICA,68BE9933-6E6C-44F5-A1C9-5C8EAA870B9C,189290-1,"","","184","1914",
+gcc-96852,A,Compositae,,Carlina,,"pyrenaica",,"","L.",Synonym,,L,TICA,4A5FF470-2DDD-404B-8E47-927A555C303A,189291-1,"","","829","1753",gcc-23395
+gcc-120321,A,Compositae,,Carlina,,"racemosa",,"","Gilib.",Synonym,Invalid,M,TICA,8B2B1F7F-748D-4F01-930D-C738A0246F32,189292-1,"","","34","1782",gcc-91676
+gcc-123140,A,Compositae,,Carlina,,"racemosa",,"","Gouan",Unresolved,,L,TICA,CC6E2AB2-B107-44E9-932A-CDA2D2985322,189294-1,"Illustr. 64","","64","",
+gcc-123929,A,Compositae,,Carlina,,"racemosa",,"","L.",Accepted,,M,TICA,2670F541-DD17-40EE-93E9-CF866230DEEA,189293-1,"","","829","1753",
+gcc-135995,A,Compositae,,Carlina,,"radiata",,"","Viv.",Synonym,,M,TICA,32DFDB2A-2F9B-47B4-B186-EB2635284DF4,189295-1,"","","68","1824",gcc-91676
+gcc-5268,A,Compositae,,Carlina,,"reboudiana",,"","Pomel",Synonym,,M,TICA,7E1BD092-9DD2-4260-872F-09D6ABCD8AF3,189296-1,"","","","1875",gcc-123929
+gcc-25757,A,Compositae,,Carlina,,"rhodopea",,"","Formánek",Synonym,,M,TICA,6E49AB13-BCBD-4F00-B79B-2F97E7F7EF4F,189297-1,"","","19","1898",gcc-91676
+gcc-70153,A,Compositae,,Carlina,,"rhodopea",var.,"plicata","Formánek",Synonym,,L,TICA,4ADC7576-29A6-439F-B766-EBE3C4C92AB2,,"Verh. Naturf. Vereins Brünn 36: 64 (1898)","","64","1898",gcc-91676
+gcc-155775,A,Compositae,,Carlina,,"rhodopea",var.,"rhodopea","",Synonym,,L,TICA,E868CD7C-C55B-4341-A729-DF9FFA783009,,"","","","",gcc-91676
+gcc-2937,A,Compositae,,Carlina,,"rhopalachyron",,"","Cadevall & Sallent",Unresolved,,L,TICA,573F21BC-BAC1-417A-9EE5-0571DF76D47C,189298-1,"""Fl. Catal. iii. 398 (1919-23), in syn.""","","""iii. 398 (1919-23), in syn.""","",
+gcc-19778,A,Compositae,,Carlina,,"rigida",,"","Formánek",Synonym,,M,TICA,4ED88A29-56C3-4724-B4D9-2493AAE55AB2,,"","","305","1896",gcc-56456
+gcc-57029,A,Compositae,,Carlina,,"rigida",var.,"humilis","Formánek",Synonym,,L,TICA,0832CB16-7C35-4981-9094-8316CB3E2DD5,,"Verh. Naturf. Vereins Brünn 35: 171 (1897)","","171","1897",gcc-56456
+gcc-68834,A,Compositae,,Carlina,,"rigida",var.,"othryana","Formánek",Synonym,,L,TICA,65D0FB34-29F3-45F0-A707-E1D00AC37359,,"Verh. Naturf. Vereins Brünn 35: 172 (1897)","","172","1897",gcc-56456
+gcc-15028,A,Compositae,,Carlina,,"rigida",var.,"pallida","Formánek",Synonym,,L,TICA,930CBA9A-C02C-41C6-96EF-1BD258F5AE9E,,"Verh. Naturf. Vereins Brünn 35: 171 (1897)","","171","1897",gcc-56456
+gcc-145298,A,Compositae,,Carlina,,"rigida",var.,"rigida","",Synonym,,L,TICA,AC87BB41-2BDB-4376-AE44-01687C0F4C3A,,"","","","",gcc-56456
+gcc-54814,A,Compositae,,Carlina,,"rigida",var.,"rugulosa","Formánek",Synonym,,L,TICA,F28F306F-DD5F-403A-8E31-71163A9C593E,,"Verh. Naturf. Vereins Brünn 35: 170 (1897)","","170","1897",gcc-56456
+gcc-148665,A,Compositae,,Carlina,,"rigida",var.,"sordida","Formánek",Synonym,,L,TICA,EA29F5BE-7466-4A62-8ADA-47CC73FFC8D3,,"Verh. Naturf. Vereins Brünn 35: 171 (1897)","","171","1897",gcc-91676
+gcc-101404,A,Compositae,,Carlina,,"rothii",,"","Heldr. & Sart. ex Boiss.",Unresolved,,L,TICA,8782576F-1307-4846-A102-9CB40E641DE1,189300-1,"Fl. Orient. [Boissier] 3: 449","","449","1875",
+gcc-4241,A,Compositae,,Carlina,,"rothii",,"","(Heldr. & Sart. ex Boiss.) Halácsy",Synonym,,M,TICA,C06E9754-40AE-4A58-8B8C-07E0AD3C5F79,,"","","98","1902",gcc-89967
+gcc-41309,A,Compositae,,Carlina,,"salicifolia",,"","(L.f.) Cav.",Accepted,,M,TICA,69589A14-99A9-468B-A14A-4C8660DABF20,,"","","81","1801",
+gcc-96111,A,Compositae,,Carlina,,"salicifolia",f.,"excedens","G.Kunkel",Synonym,,L,TICA,D673FA25-5EA0-4385-8362-90D305699AFC,876752-1,"","","348","1980",gcc-41309
+gcc-55527,A,Compositae,,Carlina,,"salicifolia",var.,"gomerensis","G.Kunkel",Synonym,,L,TICA,83C954A7-E0AB-4EE4-A4C1-76B48AE34C82,876753-1,"","","348","1980",gcc-41309
+gcc-66283,A,Compositae,,Carlina,,"salicifolia",var.,"inermis","Lowe",Synonym,,L,TICA,F14FC3FF-3397-4DBD-AF85-CD8CB1CB620A,,"Man. Fl. Madeira 1: 514 (1868)","","514","1868",gcc-41309
+gcc-15392,A,Compositae,,Carlina,,"salicifolia",subsp.,"lancerottensis","G.Kunkel",Unresolved,,L,TICA,A8DF88AC-A786-4677-904C-1C7FDAC77C9B,876754-1,"","","22","1974",gcc-67851
+gcc-67851,A,Compositae,,Carlina,,"salicifolia",var.,"lancerottensis","(G.Kunkel) Meusel & Kästner",Accepted,,L,TICA,7B4A3E65-72B7-478C-ACC1-DA86B3D1B123,983065-1,"","","48","1994",
+gcc-63979,A,Compositae,,Carlina,,"salicifolia",var.,"latifolia","Lowe",Synonym,,L,TICA,6AA72706-755A-450E-A48A-BB0A5C57C70D,,"Man. Fl. Madeira 1: 514 (1868)","","514","1868",gcc-41309
+gcc-148140,A,Compositae,,Carlina,,"salicifolia",subsp.,"salicifolia","",Synonym,,L,TICA,01F8D97C-9C23-4C13-9998-3C5F5C0046C9,,"","","","",gcc-41309
+gcc-150026,A,Compositae,,Carlina,,"salicifolia",f.,"salicifolia","",Synonym,,L,TICA,13DFC24B-2B93-40AC-8697-65CF0BE86884,,"","","","",gcc-41309
+gcc-67029,A,Compositae,,Carlina,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,22667283-228A-46CB-BC83-D398E830D339,,"","","","",gcc-41309
+gcc-69473,A,Compositae,,Carlina,,"salicifolia",var.,"spinellosa","Lowe",Synonym,,L,TICA,D278FC90-4ACF-4743-BC71-E6ACDBD06C0D,,"Man. Fl. Madeira 1: 514 (1868)","","514","1868",gcc-41309
+gcc-8442,A,Compositae,,Carlina,,"scabra",,"","Burm.f.",Synonym,,M,TICA,0C4DECA2-ECF6-4877-B043-0FBA581F525E,189302-1,"","","23","1768",gcc-16311
+gcc-98585,A,Compositae,,Carlina,,"semiamplexicaulis",,"","Formánek",Synonym,,M,TICA,6C6F7CD3-6281-4839-B2E8-96763D973C1D,,"Oesterr. Bot. Z. 40","","86","1890",gcc-91676
+gcc-157317,A,Compositae,,Carlina,,"semiamplexicaulis",var.,"angustifolia","Formánek",Synonym,,L,TICA,1DFD7F08-CF30-4543-8D2C-FF60CC3D1533,,"Verh. Naturf. Vereins Brünn 30: 64 (1892)","","64","1892",gcc-91676
+gcc-154704,A,Compositae,,Carlina,,"semiamplexicaulis",var.,"longifolia","Formánek",Synonym,,L,TICA,60249615-6F9D-4403-BE85-C94F088AA239,,"Verh. Naturf. Vereins Brünn 31: 163 (1893)","","163","1893",gcc-69035
+gcc-152359,A,Compositae,,Carlina,,"semiamplexicaulis",var.,"ramosissima","Formánek",Synonym,,L,TICA,C0331A7B-1C0C-4756-A45B-97BB79169949,,"Oesterr. Bot. Z. 40: 86 (1890)","","86","1890",gcc-91676
+gcc-154603,A,Compositae,,Carlina,,"semiamplexicaulis",var.,"semiamplexicaulis","",Synonym,,L,TICA,8367E519-25ED-4886-85AB-C717BD0E1E85,,"","","","",gcc-91676
+gcc-86512,A,Compositae,,Carlina,,"sicula",,"","Ten.",Accepted,,M,TICA,7E894B7D-4BDB-4A43-A5AA-7B15563CBFF3,,"","","74","1819",
+gcc-336,A,Compositae,,Carlina,,"sicula",var.,"libyca","Pamp.",Synonym,,L,TICA,064B5E94-F6FE-4E89-ACFB-009AE317C02E,,"Agric. Colon. 15: 376 (1921)","","376","1921",gcc-56491
+gcc-49339,A,Compositae,,Carlina,,"sicula",var.,"longibracteata","(Cavara) Meusel & Kästner",Unresolved,,L,TICA,3158FD13-502C-4B80-874D-5B63743208ED,983073-1,"Oesterreichische Akademie der Wissenschaften : Mathematisch-Naturwissenschaftliche Klasse : Denkschriften 128:","","264","1994",gcc-86512
+gcc-56491,A,Compositae,,Carlina,,"sicula",subsp.,"mareotica","(Asch. & Schweinf.) Greuter",Accepted,,L,TICA,2E2EF757-BAA9-4513-833D-7EF88A4E2350,70029044-1,"","","52","2003",
+gcc-65747,A,Compositae,,Carlina,,"sicula",var.,"mareotica","(Asch. & Schweinf.) Meusel & Kästner",Unresolved,,L,TICA,2F69728B-9F21-4085-8CCC-C92D92833923,983072-1,"Oesterreichische Akademie der Wissenschaften : Mathematisch-Naturwissenschaftliche Klasse : Denkschriften 128:","","262","1994",gcc-86512
+gcc-60942,A,Compositae,,Carlina,,"sicula",var.,"purpurascens","DC.",Synonym,,L,TICA,FCC8EA24-BF7D-4C29-ABB8-A28460C00434,,"Prodr. 6: 546 (1838)","","546","1838",gcc-86512
+gcc-150691,A,Compositae,,Carlina,,"sicula",var.,"sicula","",Synonym,,L,TICA,C308418E-5CA8-4CBA-9847-744DEF77EB4E,,"","","","",gcc-86512
+gcc-157025,A,Compositae,,Carlina,,"sicula",f.,"sicula","",Synonym,,L,TICA,B019D557-A852-449C-8AB2-F930628C1AED,,"","","","",gcc-86512
+gcc-71935,A,Compositae,,Carlina,,"sicula",subsp.,"sicula","",Synonym,,L,TICA,8D6B3978-74BA-4CCC-85D0-FA0FED2DE438,,"","","","",gcc-86512
+gcc-135958,A,Compositae,,Carlina,,"simplex",,"","Waldst. & Kit.",Synonym,,L,TICA,5AD0E386-C1DB-4530-92E2-EB11F8A46B7D,,"","","164","1804",gcc-65758
+gcc-63635,A,Compositae,,Carlina,,"simplex",var.,"polycephala","Schur",Synonym,,L,TICA,D8BFCFD2-24B6-4667-A61B-B863F5BADAD2,,"Enum. Pl. Transsilv.: 413 (1866)","","413","1866",gcc-45415
+gcc-58872,A,Compositae,,Carlina,,"simplex",var.,"ramosa","Formánek",Synonym,,L,TICA,4F0711F6-F7F1-435B-893B-921930962725,,"Oesterr. Bot. Z. 40: 87 (1890)","","87","1890",gcc-65758
+gcc-154233,A,Compositae,,Carlina,,"simplex",var.,"simplex","",Synonym,,L,TICA,5D1451C8-6096-462C-8F51-BF49584D79BD,,"","","","",gcc-65758
+gcc-4300,A,Compositae,,Carlina,,"sitiensis",,"","Rech.f.",Accepted,,M,TICA,DFA0664D-49BA-4466-8979-07FC617F56CF,189306-1,"Repert. Spec. Nov. Regni Veg. 43","","147","1938",
+gcc-40772,A,Compositae,,Carlina,,"striata",,"","Formánek",Synonym,,M,TICA,0994BDB4-3F4F-4B51-BF76-4B9111F990FE,,"","","169","1899",gcc-91676
+gcc-37199,A,Compositae,,Carlina,,"striata",var.,"angustifolia","Formánek",Synonym,,L,TICA,2B892949-B98D-4CB4-81CC-44EA74F10558,,"Verh. Naturf. Vereins Brünn 37: 170 (1899)","","170","1899",gcc-91676
+gcc-67570,A,Compositae,,Carlina,,"striata",var.,"ciliata","Formánek",Synonym,,L,TICA,4636A0B7-B395-4F88-9A59-D82C1B88631E,,"Verh. Naturf. Vereins Brünn 37: 170 (1899)","","170","1899",gcc-91676
+gcc-156646,A,Compositae,,Carlina,,"striata",var.,"striata","",Synonym,,L,TICA,F2555D10-5EDB-4742-9FD8-F177657B982D,,"","","","",gcc-91676
+gcc-124588,A,Compositae,,Carlina,,"stricta",,"","(Rouy) Fritsch",Synonym,,M,TICA,917025BC-BA02-4988-973C-D10F2773DE3A,,"","","635","1909",gcc-17982
+gcc-89393,A,Compositae,,Carlina,,"stricta",,"","Rouy",Unresolved,,L,TICA,B15F8AC5-8B72-491B-A953-819B4B83672D,189308-1,"Fl. France (Rouy) 8: 367","","367","1903",
+gcc-34122,A,Compositae,,Carlina,,"subacaulis",,"","DC.",Synonym,,M,TICA,E03A9FC1-3AB9-4ACE-BBC3-3F4142CA0ECA,,"","","","1805",gcc-46634
+gcc-5581,A,Compositae,,Carlina,,"subacaulis",var.,"aggregata","(Willd.) DC.",Synonym,,L,TICA,64A963BF-5770-4CCD-9BBB-0A68CDE4D9A8,,"Prodr. 6: 546 (1838)","","546","1838",gcc-65758
+gcc-18574,A,Compositae,,Carlina,,"subacaulis",var.,"caulescens","(L.) DC.",Synonym,,L,TICA,CEDAD706-EB57-4DC8-A374-2252D762617F,,"Prodr. 6: 546 (1838)","","546","1838",gcc-65758
+gcc-18626,A,Compositae,,Carlina,,"subacaulis",var.,"simplex","(Waldst. & Kit.) DC.",Synonym,,L,TICA,2DE3D123-7341-4677-A8BF-226AFFE7F4D6,,"Prodr. 6: 546 (1838)","","546","1838",gcc-65758
+gcc-122003,A,Compositae,,Carlina,,"subdecurrens",,"","Vandas",Unresolved,,L,TICA,541548C4-65EC-4F66-B936-CB0B425486BA,189310-1,"Oesterr. Bot. Z. 38: 413","","413","1888",
+gcc-129739,A,Compositae,,Carlina,,"subfusca",,"","Nyman",Synonym,,M,TICA,351E2181-E2A8-4AFF-8708-DCF8E2355D4B,189311-1,"","","400","1879",gcc-91676
+gcc-102688,A,Compositae,,Carlina,,"sulphurea",,"","Desf.",Synonym,,M,TICA,980E1459-1A12-473C-B3E8-9FB0FA469802,,"","","","1799",gcc-123929
+gcc-103048,A,Compositae,,Carlina,,"sylvestris",,"","Bubani",Synonym,,M,TICA,151F03CD-EF22-4DB9-92E0-A06D2702B566,,"","","","1899",gcc-91676
+gcc-22067,A,Compositae,,Carlina,×,"szaferi",,"","Jasiewicz & Pawł.",Unresolved,,L,TICA,306245EB-A016-4CE1-8457-28CFC6C9022B,189314-1,"","","19","1956",
+gcc-136819,A,Compositae,,Carlina,,"taurica",,"","Klokov",Synonym,,M,TICA,8C7501D4-C935-410B-8BDC-ED1AEA4F8923,189315-1,"","","558","1962",gcc-91676
+gcc-78792,A,Compositae,,Carlina,,"texedae",,"","Marrero Rodr.",Synonym,,M,TICA,A45C7C23-E753-432A-A22D-69F8CFD4752E,938950-1,"","","71","1989",gcc-77680
+gcc-143214,A,Compositae,,Carlina,,"thracica",,"","Velen.",Synonym,,M,TICA,F849ABF7-7124-4932-A299-FB6604DC15A5,,"","","","1893",gcc-15408
+gcc-49503,A,Compositae,,Carlina,,"tragacanthifolia",,"","Klatt",Accepted,,M,TICA,7C9D1279-C259-434D-AB6D-5BBE03924BFD,189317-1,"","","94","1884",
+gcc-142664,A,Compositae,,Carlina,,"transsilvanica",,"","Schur",Synonym,,M,TICA,F2F8C24D-3290-4104-916A-FA1C6E9C36EF,,"","","","1853",gcc-45415
+gcc-136362,A,Compositae,,Carlina,,"tristis",,"","Salisb.",Synonym,Invalid,M,TICA,7E5EFB5A-A894-4034-973F-EC12DDFDCE8D,189319-1,"","","185","1796",gcc-91676
+gcc-92626,A,Compositae,,Carlina,,"utzka",,"","Hacq.",Synonym,,M,TICA,B27CF91F-2A42-4BF7-94C0-88FF389A5D48,,"","","7","1782",gcc-68203
+gcc-22713,A,Compositae,,Carlina,,"vayredrae",,"","Gaut.",Accepted,,M,TICA,ED379653-AC18-408B-8E40-2A0674608E5A,,"Cat. Fl. Pyrénées-Orientales: 244 (1897)","","244","1897",
+gcc-82414,A,Compositae,,Carlina,,"vulgaris",,"","Schur",Unresolved,,L,TICA,DE01463F-20E9-43EA-BA27-7208CD689BA4,,"","","","",
+gcc-91676,A,Compositae,,Carlina,,"vulgaris",,"","L.",Accepted,,M,TICA,9B2C8135-A6C5-4B10-9290-86E255E64872,189321-1,"","","828","1753",
+gcc-59047,A,Compositae,,Carlina,,"vulgaris",subsp.,"acanthophylla","(Hausskn.) Meusel & Kästner",Synonym,,L,TICA,B5558E0B-E43A-414F-A094-93639D1FEC2F,966598-1,"","","275","1990",gcc-56456
+gcc-71339,A,Compositae,,Carlina,,"vulgaris",var.,"humilis","Rouy",Synonym,,L,TICA,FD4A17D4-6476-40DA-A7EC-F57B68ECE8AF,,"Fl. France 8: 366 (1903)","","366","1903",gcc-56456
+gcc-63507,A,Compositae,,Carlina,,"vulgaris",var.,"leptophylla","Griess.",Synonym,,L,TICA,B56C245D-A0BA-47CB-92E5-B759FB528D45,,"Kleine Bot. Schr. 1: 104 (1836)","","104","1836",gcc-17982
+gcc-17779,A,Compositae,,Carlina,,"vulgaris",var.,"longifolia","Korsh.",Synonym,,L,TICA,83FF98D2-5931-462B-A2E2-20D229A5D808,,"Tent. Fl. Ross. Or.","","234","1898",gcc-17982
+gcc-31598,A,Compositae,,Carlina,,"vulgaris",subsp.,"longifolia","Nyman",Synonym,,L,TICA,C65441A9-E540-4F44-8CF0-3A908B9E8305,,"""Nyman, Consp. Fl. Eur. 1879.""","","","1879",gcc-17982
+tro-100375494,A,Compositae,,Carlina,,"vulgaris",var.,"longifolia","Grab.",Synonym,,L,TRO,100375494,,"","","","",gcc-17982
+gcc-12703,A,Compositae,,Carlina,,"vulgaris",var.,"macrocephala","Velen.",Synonym,,L,TICA,CFC383C6-D1FD-4759-A35B-17AB73A58F1E,,"""Fl. Bulg., Suppl. 1: 162 (1898)""","","162","1898",gcc-56456
+gcc-60960,A,Compositae,,Carlina,,"vulgaris",var.,"microcephala","Ledeb.",Synonym,,L,TICA,5CAD1B91-C265-4DE8-BB2B-A2A0B603C94D,,"Fl. Ross. 2: 675 (1845)","","","1845",gcc-17982
+gcc-55102,A,Compositae,,Carlina,,"vulgaris",var.,"rigida","(Forman) Vandas",Synonym,,L,TICA,387CA263-1BDB-4369-B88C-73516F5EBF07,,"Reliq. Forman.: 319 (1909)","","319","1909",gcc-56456
+gcc-26937,A,Compositae,,Carlina,,"vulgaris",var.,"spinosa","(Velen.) Bornm.",Synonym,,L,TICA,ED192AB9-435C-4903-A1E8-31CE25E90E0E,,"Bot. Jahrb. Syst. 60(136): 97 (1926)","","97","1926",gcc-56456
+gcc-56456,A,Compositae,,Carlina,,"vulgaris",subsp.,"spinosa","(Velen.) Vandas",Accepted,,L,TICA,AC652F17-2BA5-48A0-8D78-7EB255DFA3D3,,"","","320","1909",
+gcc-46384,A,Compositae,,Carlina,,"vulgaris",subsp.,"stricta","(Rouy) Domin",Synonym,,L,TICA,4BC64EBE-9289-4BA0-96E8-55F69C6CB8BD,,"","","238","1935",gcc-17982
+gcc-157117,A,Compositae,,Carlina,,"vulgaris",var.,"vulgaris","",Synonym,,L,TICA,4606B920-F948-479D-B305-FB4224ECFD18,,"","","","",gcc-91676
+gcc-70300,A,Compositae,,Carlina,,"vulgaris",subsp.,"vulgaris","",Synonym,,L,TICA,0EB0B2AB-21E1-4AA4-87D0-ECFF3FF576F1,,"","","","",gcc-91676
+gcc-43624,A,Compositae,,Carlina,,"xeranthemoides",,"","L.f.",Accepted,,M,TICA,B52232E1-AA1A-4B78-9052-50DD2574B2CC,189322-1,"","","349","1782",

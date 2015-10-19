@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28426,A,Compositae,,Lasianthaea,,"aurea",,"","(D.Don) K.M.Becker",Accepted,,L,TICA,A1326672-5F65-471D-9C9E-34846C1FFFFE,135741-2,"","","53","1979",
+gcc-38187,A,Compositae,,Lasianthaea,,"beckeri",,"","B.L.Turner",Accepted,,M,TICA,A3241C57-0148-4C1E-AAFD-46D6B9616D59,,"","","","1988",
+gcc-131801,A,Compositae,,Lasianthaea,,"belizeana",,"","B.L.Turner",Synonym,,M,TICA,A0E785EC-E10A-4838-A811-E1C508433CFE,,"Phytologia 65(5)","","","1988",gcc-22285
+gcc-47963,A,Compositae,,Lasianthaea,,"breedlovei",,"","B.L.Turner",Synonym,,M,TICA,59EDD779-33FF-4C2A-80CD-58D581E44B75,,"Phytologia 65(5)","","""364-365, f. 2""","1988",gcc-22285
+gcc-108888,A,Compositae,,Lasianthaea,,"calva",,"","(Greenm.) B.L.Turner",Synonym,,M,TICA,3752291B-1865-48B6-83AD-AD612B7851D6,279344-2,"","","365","1988",gcc-91111
+gcc-45518,A,Compositae,,Lasianthaea,,"ceanothifolia",,"","(Willd.) K.M.Becker",Accepted,,M,TICA,6229EB17-EC5A-4ED1-823A-545B7FCCDE62,135742-2,"Mem. New York Bot. Gard. 31(2)","","38","1979",
+gcc-41873,A,Compositae,,Lasianthaea,,"ceanothifolia",var.,"ceanothifolia","",Synonym,,L,TICA,E91D1DA2-2141-4BD1-ADF0-4D89BF304D41,,"","","","1979",gcc-45518
+gcc-68126,A,Compositae,,Lasianthaea,,"ceanothifolia",var.,"gracilis","(W.W.Jones) K.M.Becker",Accepted,,L,TICA,ABBF5636-15A4-40B8-9E4C-DC6EBEE012F2,135743-2,"","","44","1979",
+gcc-58269,A,Compositae,,Lasianthaea,,"ceanothifolia",var.,"gradata","(S.F.Blake) K.M.Becker",Accepted,,L,TICA,67030BE7-72C8-4156-9903-8D45E6ABB804,135744-2,"","","43","1979",
+gcc-68395,A,Compositae,,Lasianthaea,,"ceanothifolia",var.,"verbenifolia","(DC.) K.M.Becker",Accepted,,L,TICA,A8C8C022-8108-4E6A-946B-DE769766326F,135745-2,"","","42","1979",
+gcc-95808,A,Compositae,,Lasianthaea,,"crocea",,"","(A.Gray) K.M.Becker",Accepted,,M,TICA,07AE2BF4-7A5B-4EB9-9EF4-9033CAB49B06,135746-2,"","","33","1979",
+gcc-19671,A,Compositae,,Lasianthaea,,"fruticosa",,"","(L.) K.M.Becker",Unresolved,Illegitimate,L,TICA,AC711FF0-08A5-4641-9843-245F063F24DE,135748-2,"Phytologia 31(3)","","297","1975",
+gcc-38875,A,Compositae,,Lasianthaea,,"fruticosa",var.,"aggregata","(S.F.Blake) K.M.Becker",Unresolved,,L,TICA,D74CC53D-EF6A-4F9D-84FE-481FCB04E729,135749-2,"","","25","1979",
+gcc-47423,A,Compositae,,Lasianthaea,,"fruticosa",var.,"alamosana","K.M.Becker",Unresolved,,L,TICA,81B03E9D-DA13-426B-B709-57D7A7D264F6,288151-2,"","","24","1979",
+gcc-38567,A,Compositae,,Lasianthaea,,"fruticosa",var.,"fasciculata","(DC.) K.M.Becker",Unresolved,,L,TICA,C72A3A38-1C5A-4F0B-9A76-4794104CA210,135750-2,"","","21","1979",
+gcc-26240,A,Compositae,,Lasianthaea,,"fruticosa",var.,"fruticosa","",Unresolved,,L,TICA,28F4434D-1908-4804-9EC0-3085A079D095,,"","","","1975",
+gcc-38008,A,Compositae,,Lasianthaea,,"fruticosa",var.,"michoacana","(S.F.Blake) K.M.Becker",Unresolved,,L,TICA,D849FCFE-E123-4008-9A35-467CDBB54142,135751-2,"","","19","1979",
+gcc-29789,A,Compositae,,Lasianthaea,,"fruticosa",var.,"villosa","(Pol.) B.L.Turner",Unresolved,,L,TICA,3FAE06DA-9585-40B6-BF03-3716E57811CC,1077403-2,"Phytologia 69: 372. 1990","","372","1990",
+gcc-76839,A,Compositae,,Lasianthaea,,"gentryi",,"","B.L.Turner",Accepted,,M,TICA,DAE98DFA-F150-40B1-B84C-658A3F4D26AB,,"","","","1989",
+gcc-115693,A,Compositae,,Lasianthaea,,"guatemalensis",,"","(Donn.Sm.) B.L.Turner",Synonym,,M,TICA,BDB7A1C3-8FEC-480B-B0CC-BCC63222C846,279347-2,"Phytologia 65(5)","","366","1988",gcc-42293
+gcc-101722,A,Compositae,,Lasianthaea,,"helianthoides",,"","Zucc. ex DC.",Unresolved,Illegitimate,L,TICA,573A5A41-B444-43C7-A12B-9D63AA2627C4,228796-1,"Prodr. (DC.) 5: 608","","608","1836",
+gcc-113728,A,Compositae,,Lasianthaea,,"jaliscensis",,"","(McVaugh) R.L.Hartm. & Stuessy",Synonym,,M,TICA,D25F8BE5-13B2-40B3-831C-B846850D62A7,912746-1,"","","208","1983",gcc-33873
+gcc-92061,A,Compositae,,Lasianthaea,,"kingii",,"","(H.Rob.) B.L.Turner",Synonym,,M,TICA,F64C3B75-3B1F-4FBD-AA1A-87C3246C5EAB,279348-2,"","","366","1988",gcc-144728
+gcc-92357,A,Compositae,,Lasianthaea,,"lindenii",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,060F4CA5-1026-4D01-BA90-8867CFF7801B,,"Bot. Voy. Herald 306. 1856.","","306","1856",gcc-9683
+gcc-79310,A,Compositae,,Lasianthaea,,"lundellii",,"","(H.Rob.) B.L.Turner",Synonym,,M,TICA,13A9731F-3EEA-487F-92B1-6B282A26ACE1,279349-2,"","","367","1988",gcc-99568
+gcc-130594,A,Compositae,,Lasianthaea,,"machucana",,"","B.L.Turner",Accepted,,M,TICA,4F2B4D40-D885-4F8C-8707-DEE8E70B94B7,,"","","","1997",
+gcc-13911,A,Compositae,,Lasianthaea,,"macrocephala",,"","(Hook. & Arn.) K.M.Becker",Accepted,,M,TICA,7CF263B5-E53E-4BD7-BE6A-19D8CB2AEC41,135755-2,"","","26","1979",
+gcc-112119,A,Compositae,,Lasianthaea,,"nowickeana",,"","D'Arcy",Synonym,,M,TICA,D5F7D435-AAB9-4F86-8C82-B4B0B644BC59,310592-2,"Phytologia 30: 6. 1975","","6","1975",gcc-93902
+gcc-87567,A,Compositae,,Lasianthaea,,"palmeri",,"","(Greenm.) K.M.Becker",Accepted,,M,TICA,FCCE5E89-DADA-4A5C-A8EA-7D920873761A,135757-2,"","","49","1979",
+gcc-51367,A,Compositae,,Lasianthaea,,"podocephala",,"","(A.Gray) K.M.Becker",Accepted,,M,TICA,ACA7CBDC-ED5F-429B-8003-5F4785DE9B1B,135759-2,"","","52","1979",
+gcc-109056,A,Compositae,,Lasianthaea,,"ritovegana",,"","B.L.Turner",Accepted,,M,TICA,6FD2AF92-D010-45A2-92AA-ADC44BB53255,304262-2,"","","24","1992",
+gcc-90213,A,Compositae,,Lasianthaea,,"rosei",,"","(Greenm.) McVaugh",Accepted,,M,TICA,1E74E6AB-51E2-4BBD-812F-83736ED1A580,914119-1,"""Fl. Novo-Galiciana, 12: 573 (1984):.""","","573","1984",
+gcc-130248,A,Compositae,,Lasianthaea,,"salvinii",,"","(Hemsl.) B.L.Turner",Synonym,,M,TICA,9ACC04B0-E9C8-4914-A130-DE1F7F413D8C,279350-2,"Phytologia 65(5)","","367","1988",gcc-27676
+gcc-90175,A,Compositae,,Lasianthaea,,"seemannii",,"","(A.Gray) K.M.Becker",Accepted,,M,TICA,92CC18AD-076B-4CF3-9430-835E34453F83,135760-2,"","","46","1979",
+gcc-112486,A,Compositae,,Lasianthaea,,"squarrosa",,"","K.M.Becker",Accepted,,M,TICA,89B13F69-D68F-4CF8-B0C5-B5909406DBCE,135761-2,"","","37","1979",
+gcc-11485,A,Compositae,,Lasianthaea,,"steyermarkii",,"","(S.F.Blake) B.L.Turner",Synonym,,M,TICA,190F6BA3-C904-46C3-8E18-156EBE3D4A08,279351-2,"","","367","1988",gcc-40477
+gcc-34369,A,Compositae,,Lasianthaea,,"zinnioides",,"","(Hemsl.) K.M.Becker",Accepted,,M,TICA,A292E47B-E224-4891-815F-3FB10B7A562A,135762-2,"","","48","1979",

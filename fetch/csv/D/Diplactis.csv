@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144243,A,Compositae,,Diplactis,,"alpina",,"","(L.) Semple",Synonym,,M,TICA,240A1B66-E52F-4EBA-9851-FDA8A6F483CA,996456-1,"","","17","1996",gcc-37866
+gcc-47655,A,Compositae,,Diplactis,,"alpina",,"","Raf.",Accepted,,M,TICA,A49036A2-18C3-45E8-9317-584CA249C8B7,,"Fl. Tellur. ii. 45 (1836).","","","1836",
+gcc-151767,A,Compositae,,Diplactis,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,0CC303C8-9FE8-4579-BD02-8BEC877335B9,,"","","","",gcc-47655
+gcc-53116,A,Compositae,,Diplactis,,"alpina",subsp.,"vierhapperi","(Onno) Semple",Synonym,,L,TICA,1170AF71-3CB4-48F0-B9D6-63A446EBA2B6,996457-1,"Univ. Waterloo Biol. Ser. 38","","17","1996",gcc-37866
+gcc-33841,A,Compositae,,Diplactis,,"blanda",,"","Raf.",Unresolved,,L,TICA,0A288085-372A-44D5-A66A-3EC227702ED2,201520-1,"Fl. Tellur. ii. 45 (1836).","","ii. 45","1836",
+gcc-4267,A,Compositae,,Diplactis,,"caucasica",,"","Raf.",Unresolved,,L,TICA,F7AD6D2D-741E-4816-8C70-07EC24072869,201521-1,"Fl. Tellur. ii. 45 (1836).","","ii. 45","1836",
+gcc-44087,A,Compositae,,Diplactis,,"cyanea",,"","Raf.",Unresolved,,L,TICA,8DB24BEB-8974-439D-9D9E-51A436134271,201522-1,"Fl. Tellur. ii. 45 (1836).","","ii. 45","1836",
+gcc-122626,A,Compositae,,Diplactis,,"novanglia",,"","Raf.",Unresolved,,L,TICA,C8B89EDB-C9B1-4B2F-B9DC-CC6FA60E2975,201523-1,"Fl. Tellur. ii. 45 (1836).","","ii. 45","1836",
+gcc-119255,A,Compositae,,Diplactis,,"tongolensis",,"","(Franch.) Semple",Synonym,,M,TICA,D573397A-0D11-4955-8D52-C4C1A5CB7F5E,996458-1,"","","17","1996",gcc-78040

@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11853,A,Compositae,,Pasaccardoa,,"baumii",,"","O.Hoffm.",Accepted,,M,TICA,2C8A625B-B561-4BC2-86EF-161616C3D431,236532-1,"in Warb. Kunene-Sambesi Exped. 426.","","426","",
+gcc-84596,A,Compositae,,Pasaccardoa,,"dicomoides",,"","De Wild. & Muschl.",Synonym,,M,TICA,3402AB6C-C559-4522-8D29-76E162A18531,,"""in Bull. Soc. Bot. Belg. 1912, xlix. 223 (1913).""","","","",gcc-1920
+gcc-1920,A,Compositae,,Pasaccardoa,,"grantii",,"","(Benth. ex Oliv.) Kuntze",Accepted,,M,TICA,CBE93A0B-FCED-4C24-9374-0377643C44CE,,"Revis. Gen. Pl. 1: 354","","","1891",
+gcc-20449,A,Compositae,,Pasaccardoa,,"jeffreyi",,"","Wild",Accepted,,M,TICA,8C2CCEC8-F76C-48C7-84C4-25CF270E5EF2,,"Kirkia 8(2): 168 (1972).","","168","",
+gcc-55773,A,Compositae,,Pasaccardoa,,"jeffreyi",subsp.,"jeffreyi","",Synonym,,L,TICA,E430EE93-85AD-4973-ABA1-78B914A1B108,,"","","","",gcc-20449
+gcc-61203,A,Compositae,,Pasaccardoa,,"jeffreyi",subsp.,"procumbens","Lisowski",Synonym,,L,TICA,F8A85811-0327-4658-973A-A4A33C5C28D8,,"""in Bull. Jard. Bot. Nation. Belg., 57(1–2): 258 (1987)""","","258","1987",gcc-126241
+gcc-122784,A,Compositae,,Pasaccardoa,,"kassneri",,"","De Wild. & Muschl.",Synonym,,M,TICA,91C622D2-F154-4143-8289-CCCA2A032A48,,"""in Bull. Soc. Bot. Belg. 1912, xlix. 225 (1913).""","","","",gcc-1920
+gcc-126241,A,Compositae,,Pasaccardoa,,"procumbens",,"","(Lisowski) G.V.Pope",Accepted,,M,TICA,0F29BAA1-476E-45B6-BA10-D4E284187797,969255-1,"""in Fl. Zambes., 6(1): 27 (1992):""","","27","1992",

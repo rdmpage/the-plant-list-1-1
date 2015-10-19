@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41018,A,Compositae,,Ptilostemon,,"abylense",,"","Greuter",Accepted,,L,TICA,A64403D1-C536-46B3-8905-4C06FB122EB3,,"","","","",
+gcc-142905,A,Compositae,,Ptilostemon,,"abylensis",,"","(Maire) Greuter",Accepted,,M,TICA,D660C5EB-682E-460F-93DF-FAB4152A4380,240444-1,"","","137","1973",
+gcc-92387,A,Compositae,,Ptilostemon,,"afer",,"","(Jacq.) Greuter",Accepted,,M,TICA,7CF37336-298A-4753-9537-8879EB375E69,240445-1,"","","147","1967",
+gcc-71659,A,Compositae,,Ptilostemon,,"afer",subsp.,"afer","",Synonym,,L,TICA,30ACEB1C-13F1-469E-B6FD-F7D8765F7D43,,"","","","",gcc-92387
+gcc-4191,A,Compositae,,Ptilostemon,,"appendiculatum",,"","Cass.",Unresolved,,L,TICA,5A61DCE4-2293-40BA-A2AB-07CAAD871398,240446-1,"in Dict. Sci. Nat. xliv. 59.","","xliv. 59","",
+gcc-40392,A,Compositae,,Ptilostemon,,"casabonae",,"","(L.) Greuter",Accepted,,M,TICA,1EDEC28D-CF3E-46CF-A9EE-4ADD187C18C9,240447-1,"","","146","1967",
+gcc-93795,A,Compositae,,Ptilostemon,,"chamaepeuce",,"","(L.) Less.",Accepted,,L,TICA,0DE2A38A-91C4-43E4-8FB5-8B762D2EC3B3,20002426-1,"","","5","1832",
+gcc-147308,A,Compositae,,Ptilostemon,,"chamaepeuce",subsp.,"chamaepeuce","",Synonym,,L,TICA,01DDFAA0-1498-4FC4-8933-2AD7F2599EC9,,"","","","",gcc-93795
+gcc-147561,A,Compositae,,Ptilostemon,,"chamaepeuce",var.,"chamaepeuce","",Synonym,,L,TICA,3997B343-A6F4-4FBB-8360-302D33997628,,"","","","",gcc-93795
+gcc-20769,A,Compositae,,Ptilostemon,,"chamaepeuce",subsp.,"cyprius","(Greuter) Chrtek & B.Slavík",Synonym,,L,TICA,AC824596-195C-4873-B0FC-266A7FDFD16F,,"","","271","2001",gcc-93795
+gcc-63575,A,Compositae,,Ptilostemon,,"chamaepeuce",var.,"cyprius","Greuter",Unresolved,,L,TICA,9AEAB34B-B902-461C-B9AA-B7E5EF5A2C25,,"Boissiera 22: 113 (1973).","","113","",gcc-93795
+gcc-98392,A,Compositae,,Ptilostemon,,"diacantha",,"","(Labill.) Greuter",Accepted,,M,TICA,60267508-37BB-482E-9115-96035B0E15CC,240448-1,"","","146","1967",
+gcc-66819,A,Compositae,,Ptilostemon,,"diacantha",subsp.,"diacantha","",Synonym,,L,TICA,3E1FEFA6-A50D-4AC0-8C4A-D20464277B00,,"","","","",gcc-98392
+gcc-23945,A,Compositae,,Ptilostemon,,"dyricola",,"","(Maire) Greuter",Accepted,,M,TICA,7ECFD856-B0DD-469E-939D-2C4231E30512,240449-1,"","","142","1973",
+gcc-85560,A,Compositae,,Ptilostemon,,"echinocephalus",,"","(Willd.) Greuter",Accepted,,M,TICA,C20F2D98-3CD8-4CB0-B5E2-78F1BC82516B,,"","","","1967",
+gcc-142695,A,Compositae,,Ptilostemon,,"fruticosus",,"","(Desf.) Soják",Synonym,,L,TICA,6BBEFC69-CD61-4F4C-9506-FA2AF6D62363,240451-1,"""Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 46 (1962).""","","46 (1962)","1962",gcc-93795
+gcc-42457,A,Compositae,,Ptilostemon,,"gnaphaloides",,"","Soják",Accepted,,M,TICA,F090A8F7-3B78-4AA0-8175-4E9F96B7867E,,"","","","1962",
+gcc-6585,A,Compositae,,Ptilostemon,,"gnaphaloides",subsp.,"gnaphaloides","",Synonym,,L,TICA,7CADA6D9-8EED-434D-82E2-0C37B58AD982,,"","","","",gcc-42457
+gcc-70761,A,Compositae,,Ptilostemon,,"gnaphaloides",subsp.,"pseudofruticosus","(Pamp.) Greuter",Accepted,,L,TICA,2D1F2B89-7985-4918-B7E9-F0A41E5EAC2F,,"Greuter in Candollea 24. 1969.","","48","1969",
+gcc-7840,A,Compositae,,Ptilostemon,×,"grandei",,"","(Petr.) Greuter",Accepted,,M,TICA,445C155A-54BF-4BAF-8DAA-0E96F539DDF9,240453-1,"Boissiera 22: 157 (1973)","","157","1973",
+gcc-109138,A,Compositae,,Ptilostemon,,"greuteri",,"","Raimondo & Domina",Unresolved,,L,TICA,CAA91758-DAA6-4140-A2D5-ADF949F64436,,"","","","2006",
+gcc-92921,A,Compositae,,Ptilostemon,,"hispanicus",,"","(Lam.) Greuter",Accepted,,M,TICA,BAAA617E-3A7C-405F-BF6A-89A8BC77E754,240454-1,"","","146","1967",
+gcc-150840,A,Compositae,,Ptilostemon,,"karateginii",,"","(Lipsky) Iljin",Accepted,,M,TICA,B3299805-E962-477A-B87A-7754FA29C163,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk SSSR 21","","391","1961",
+gcc-112831,A,Compositae,,Ptilostemon,,"leptophyllus",,"","(Pau & Font Quer) Greuter",Accepted,,M,TICA,02FFA0AF-A391-4966-8C45-B65605BD5B84,240455-1,"","","127","1973",
+gcc-106860,A,Compositae,,Ptilostemon,,"muticus",,"","Cass.",Synonym,,L,TICA,336B54CB-379C-46B7-9A1E-A8CB2C4C470C,,"","","","1826",gcc-93795
+gcc-22279,A,Compositae,,Ptilostemon,,"niveus",,"","(Presl) Greuter",Accepted,,M,TICA,F84DA7A4-958A-440A-B46D-2937912F77B4,,"","","","1967",
+gcc-91506,A,Compositae,,Ptilostemon,×,"pabotii",,"","Greuter",Unresolved,,L,TICA,0BFF80CC-4B8D-4E9B-B970-8686F1847266,,"Boissiera 22: 160 (1973).","","160","",
+gcc-134921,A,Compositae,,Ptilostemon,×,"parisiensis",,"","Greuter",Unresolved,,L,TICA,570670E8-8B32-4227-9660-E8CDED2E4286,,"Boissiera 22: 159 (1973).","","159","",
+gcc-136083,A,Compositae,,Ptilostemon,,"polycephalus",,"","(DC.) Soják",Unresolved,,L,TICA,EA4A6ADB-B322-46AD-A4C0-EB5F18663F86,240460-1,"""Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 46 (1962).""","","46 (1962)","1962",
+gcc-24975,A,Compositae,,Ptilostemon,,"pseudohispanicus",,"","(Arènes) Raynaud & Sauvage",Synonym,,M,TICA,DB39179C-B2A8-454E-9411-2E25C656E3CC,,"Raynaud & Sauvage in Trav. RCP 249 CNRS 4. 1974.","","xx [No. 521]","1974",gcc-99559
+gcc-99559,A,Compositae,,Ptilostemon,,"rhiphaeus",,"","(Pau & Font Quer) Greuter",Accepted,,M,TICA,9E0B79C8-3DAC-4F1C-98AC-9898DDEA6ABB,240461-1,"","","138","1973",
+gcc-149847,A,Compositae,,Ptilostemon,,"rhiphaeus",var.,"rhiphaeus","",Synonym,,L,TICA,486C0F5C-196C-46D2-B6BE-616D4A2DB37F,,"","","","",gcc-99559
+gcc-61550,A,Compositae,,Ptilostemon,,"rhiphaeus",var.,"tetauensis","(Font Quer) Greuter",Accepted,,L,TICA,53568D81-35E6-4242-A5ED-A7959C3FEE2E,878190-1,"Boissiera 22: 141","","141","1973",
+gcc-60564,A,Compositae,,Ptilostemon,,"rhiphaeus",var.,"tetouanensis","(Font Quer) Greuter",Synonym,,L,TICA,667F0AF4-48CA-494D-959F-9F4528DA96E7,,"","","","",gcc-99559
+gcc-135175,A,Compositae,,Ptilostemon,,"stellatus",,"","(L.) Greuter",Accepted,,M,TICA,0D3C8D9A-8B16-4FA1-BE70-E964A3911401,240462-1,"","","146","1967",
+gcc-11545,A,Compositae,,Ptilostemon,,"strictus",,"","(Ten.) Greuter",Accepted,,M,TICA,AB676E08-86C8-4E0A-B515-1588ED45AA01,240463-1,"","","147","1967",
+gcc-89162,A,Compositae,,Ptilostemon,×,"tauricola",,"","(Boiss. & Hausskn.) Greuter",Accepted,,M,TICA,1871D028-0EF5-4A9E-9029-811520909BB0,240464-1,"Boissiera 22: 158 (1973)","","158","1973",

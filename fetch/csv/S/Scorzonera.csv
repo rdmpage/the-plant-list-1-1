@@ -1,0 +1,692 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-124326,A,Compositae,,Scorzonera,,"acanthoclada",,"","Franch.",Accepted,,M,TICA,1BA87CCD-D916-4268-B097-D06915B91BBC,,"""Ann. Sci. Nat., Bot. sér. 6, 16: 333""","","333","1883",
+gcc-89401,A,Compositae,,Scorzonera,,"acantholimon",,"","Hand.-Mazz.",Accepted,,M,TICA,1D486E21-3186-410C-9201-819EB80D72ED,243039-1,"","","455","1913",
+gcc-1976,A,Compositae,,Scorzonera,,"acaulis",,"","Willd.",Unresolved,,L,TICA,82075FBA-31B3-44A9-ADC3-0391FB4C36E6,243040-1,"Sp. Pl. iii. 1508.","","iii. 1508","",
+gcc-134576,A,Compositae,,Scorzonera,,"acrolasia",,"","Bunge",Synonym,,M,TICA,2A8964A6-AFE9-4B9A-92A4-E819BF1AF543,927991-1,"","","202","1852",gcc-150226
+gcc-150938,A,Compositae,,Scorzonera,,"acrolasia",var.,"acrolasia","",Synonym,,L,TICA,523E50E5-6F33-4047-9EDB-796E18901BD6,,"","","","",gcc-150226
+gcc-145788,A,Compositae,,Scorzonera,,"acrolasia",var.,"angustifolia","C.Winkl.",Synonym,,L,TICA,5E40DE55-9FAD-483C-B036-0ADDDCBC78FC,,"C. Winkl. in Trudy Imp. S.-Peterburgsk. Bot. Sada 11. 1890","","151","1890",gcc-150226
+gcc-105524,A,Compositae,,Scorzonera,,"acuminata",,"","Boiss.",Accepted,,M,TICA,6750BA5E-42A4-4DC9-A9D5-A5C319FC0EB5,,"""Boiss., Fl. Orient. 3. 1875.""","","769","1875",
+gcc-97675,A,Compositae,,Scorzonera,,"acuminata",,"","Boiss. & Balansa",Unresolved,,L,TICA,0D49980F-6D49-4194-8703-9470F737D004,,"""Diagn. Pl. Orient. ser. 2, 6: 119""","","119","1859",
+gcc-13173,A,Compositae,,Scorzonera,,"adilii",,"","A.Duran",Accepted,,M,TICA,B25FCFA1-1BB8-487D-8F25-188D64B1C788,,"","","385","2002",
+gcc-131417,A,Compositae,,Scorzonera,,"affinis",,"","Sennen & Elias",Accepted,,M,TICA,15670087-23CE-4DB9-B001-E0D743AFA136,,"""in Bol. Soc. Iber. 1929, xxviii. 169 (1930).""","","","",
+gcc-26748,A,Compositae,,Scorzonera,,"afghana",,"","Rech.f.",Synonym,,M,TICA,2F202539-E7C9-4850-99DB-316C978C7758,,"Oesterr. Bot. Z. 97: 263","","","1950",gcc-114593
+gcc-4111,A,Compositae,,Scorzonera,,"africana",,"","Poir.",Synonym,Illegitimate,M,TICA,1B8D20FD-1614-4377-9B18-07A84C305990,243045-1,"Encycl. (Lamarck) Suppl. 5. 114","","114","1817",gcc-39706
+gcc-20610,A,Compositae,,Scorzonera,,"alaica",,"","Lipsch.",Accepted,,M,TICA,FA1ED40C-705D-40BD-BE72-2627A46E53A0,243046-1,"Fragm. Monogr. Gen. Scorzon. 11. (Soc. Nat. Mosc.) 71 (1939).","","71","1939",
+gcc-157341,A,Compositae,,Scorzonera,,"alba",,"","R.R.Stewart",Accepted,,M,TICA,3B61626C-FDD1-4382-B539-FFD7604C5351,,"""Ralph Randles  Stewart - in Eugene Nasir & Syed Irtifaq Ali, Fl. W. Pakistan. 1972""","","778","1972",
+gcc-99900,A,Compositae,,Scorzonera,,"albertoregelia",,"","C.Winkl.",Accepted,,M,TICA,AA88F6F8-266B-42B0-99E8-996CC085FEFC,243047-1,"Act. Hort. Petrop. xi. (1890) 322.","","322","1890",
+gcc-131386,A,Compositae,,Scorzonera,,"albicans",,"","Coss.",Accepted,,M,TICA,C2B2E7FB-D8FF-4868-B911-E0C2781C15D5,243048-1,"Notes Crit.","","119","1851",
+gcc-154829,A,Compositae,,Scorzonera,,"albicans",f.,"albicans","",Synonym,,L,TICA,B6FDD9A3-1C20-48FE-BE91-CBA518D4DA70,,"","","","",gcc-131386
+gcc-51946,A,Compositae,,Scorzonera,,"albicaulis",,"","Bunge",Accepted,,M,TICA,5BA18C99-A885-41FF-82A7-6058BF45B4EC,,"","","114","1833",
+gcc-154497,A,Compositae,,Scorzonera,,"albicaulis",subsp.,"albicaulis","",Synonym,,L,TICA,95BD6C5F-6BBE-4729-A701-C4AA2E210D49,,"","","","",gcc-51946
+gcc-155263,A,Compositae,,Scorzonera,,"albicaulis",var.,"albicaulis","",Synonym,,L,TICA,15FAB2AE-66C7-4F49-B329-D45E655F969A,,"","","","",gcc-51946
+gcc-155355,A,Compositae,,Scorzonera,,"albicaulis",f.,"albicaulis","",Synonym,,L,TICA,E1A714C0-7D7A-4F65-807C-D6886443F8B7,,"","","","",gcc-51946
+gcc-97432,A,Compositae,,Scorzonera,,"albicaulis",f.,"flavescens","Nakai",Synonym,,L,TICA,AD314690-660A-43CF-BDB2-93D5F8609AE3,,"""Report of the Institute of Scientific Research, Manchoukuo 1(6):""","","169","1937",gcc-51946
+gcc-58475,A,Compositae,,Scorzonera,,"albicaulis",var.,"macrosperma","(C.A.Mey. ex Turcz.) Kitag.",Synonym,,L,TICA,9C84C3AA-75E5-4042-BB51-8F02B5D461D7,,"Lineamenta Florae Manshuricae","","467","1939",gcc-51946
+gcc-72657,A,Compositae,,Scorzonera,,"albicaulis",subsp.,"macrosperma","(Turcz. ex DC.) Vorosch.",Synonym,,L,TICA,D60058C7-5C82-4579-851B-FFB9C33210E0,987841-1,"""in A.K. Skvortsov (ed.), Florist. issl. v razn. raĭonakh SSSR: 198 (1985):""","","198","1985",gcc-51946
+gcc-77951,A,Compositae,,Scorzonera,,"albicaulis",f.,"rosea","Nakai",Synonym,,L,TICA,F8CCCAA8-1589-44E3-A12A-68039CADEC8D,,"""Report of the Institute of Scientific Research, Manchoukuo 1(6):""","","169","1937",gcc-51946
+gcc-14497,A,Compositae,,Scorzonera,,"alexandrina",,"","Boiss.",Synonym,,M,TICA,37243BB1-7F62-49C6-BA7C-1AE4B074570E,243050-1,"","","760","1875",gcc-2069
+gcc-23347,A,Compositae,,Scorzonera,,"alpigena",,"","(K.Koch) Grossh.",Synonym,,M,TICA,9D864492-5DEA-41EA-8F09-2B34075E6124,243051-1,"","","247","1927",gcc-52476
+gcc-119816,A,Compositae,,Scorzonera,,"alpina",,"","Pollini",Synonym,,M,TICA,0569C32F-2B74-4324-BF76-C607AAE8789A,243053-1,"","","100","1816",gcc-35362
+gcc-32604,A,Compositae,,Scorzonera,,"alpina",,"","Hoppe",Synonym,,M,TICA,51B38BBE-7E81-4027-AEAF-3C6B143D5468,,"","","","1828",gcc-139645
+gcc-76798,A,Compositae,,Scorzonera,,"amasiana",,"","Hausskn. & Bornm. ex Hausskn. & Bornm.",Accepted,,M,TICA,42ADBBDD-9334-41A8-981A-6570AB5C3389,,"","","24","1904",
+gcc-31468,A,Compositae,,Scorzonera,,"ambigua",,"","DC.",Synonym,,M,TICA,F2F36746-2E86-4A09-86C7-3A5266D6D5FF,243056-1,"","","126","1838",gcc-112106
+gcc-1648,A,Compositae,,Scorzonera,,"ammophila",,"","Bunge",Synonym,,M,TICA,6D8B8B77-75C7-4EE8-8064-02F657F05288,,"","","202","",gcc-150226
+gcc-32940,A,Compositae,,Scorzonera,,"ancyritana",,"","DC.",Synonym,,M,TICA,E2438D06-A641-4C9B-8A9F-3D152238A3D2,,"Prodr. (DC.) 7(1): 124","","","1838",gcc-83532
+gcc-115758,A,Compositae,,Scorzonera,,"angustifolia",,"","wohlleb. ex Wallr.",Synonym,Invalid,M,TICA,F3BF3707-2881-44B4-8FD0-BCEBAA39DF21,243064-1,"Ann. Bot. 96.","","96","1815",gcc-63227
+gcc-117079,A,Compositae,,Scorzonera,,"angustifolia",,"","[Weber & ]",Unresolved,,L,TICA,5D09C45D-ACA8-447B-B780-BFDAC731C853,243061-1,"in Wigg. Prim. Fl. Holsat. 55.","","55","",
+gcc-118292,A,Compositae,,Scorzonera,,"angustifolia",,"","thom.",Synonym,Illegitimate,M,TICA,5D62AF4E-C2E9-4A05-AE5E-C29A0C4F30B5,,"Flora Altaica 4:","","161","1833",gcc-11781
+gcc-128083,A,Compositae,,Scorzonera,,"angustifolia",,"","Asso",Accepted,,M,TICA,5BB0ECE3-A565-4E82-A315-D932D97D1942,243063-1,"Syn. Stirp. Arag. 108.","","108","",
+gcc-133701,A,Compositae,,Scorzonera,,"angustifolia",,"","Waldst. & Kit.",Unresolved,,L,TICA,5108BB73-56CB-4E6B-89C0-E61B2D6F6E64,243059-1,"Pl. Rar. Hung. ii. 128. t. 122.","","ii. 128. t. 122","",
+gcc-147769,A,Compositae,,Scorzonera,,"angustifolia",,"","Hegetschw.",Unresolved,,L,TICA,6D59BBD2-974C-465D-9E72-34FF1834F1A7,243065-1,"""J.J. Hegetschweiler, Fl. Schweiz. 1840""","","753","1840",
+gcc-149626,A,Compositae,,Scorzonera,,"angustifolia",,"","F.H.Wigg.",Unresolved,,L,TICA,C540629F-D02B-4B6D-9335-5CF8A872DD62,,"""F. H. Wigg., Prim. Fl. Holsat.. 1780""","","55","1780",
+gcc-21348,A,Compositae,,Scorzonera,,"angustifolia",,"","DC.",Unresolved,,L,TICA,1C3B5470-7A33-444B-AEE5-2771C4E08450,243060-1,"Prodr. (DC.) 7(1): 120","","120","1838",
+gcc-37577,A,Compositae,,Scorzonera,,"angustifolia",,"","L.",Unresolved,,L,TICA,305D1B04-D7C7-4399-9F83-45A9D92597DA,243062-1,"","","791","1753",
+gcc-43200,A,Compositae,,Scorzonera,,"angustifolia",,"","Porta",Unresolved,Invalid,L,TICA,0809525C-1973-4524-AA6E-500E4B8805E6,243066-1,"Porta in Nuovo Giorn. Bot. Ital. 11. 1879","","257","1879",
+gcc-152647,A,Compositae,,Scorzonera,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,7B04C3BC-409F-4ADF-B316-9DFC63DE113E,,"","","","",gcc-128083
+tro-100376311,A,Compositae,,Scorzonera,,"aniana",,"","N. Kilian",Accepted,,M,TRO,100376311,77118042-1,"Fl. China","20–21: 204","204","2011",
+gcc-27243,A,Compositae,,Scorzonera,,"aragatzi",,"","Kuth.",Accepted,,M,TICA,F5C32F6E-8E0A-4F64-BA4E-32634E0FF17A,,"","","64","1971",
+gcc-122466,A,Compositae,,Scorzonera,,"araneosa",,"","d'Urv.",Unresolved,,L,TICA,C9ACE943-5CA2-45DD-99DD-CC1531E433EA,243069-1,"in Mem. Soc. Linn. Par. i. (1822) 354.","","i.  354","1822",
+gcc-141932,A,Compositae,,Scorzonera,,"araneosa",,"","Sibth. & Sm.",Unresolved,,L,TICA,3FC8D1CA-7B98-4626-9BE7-F88578B6DCCE,243068-1,"Fl. Graec. viii. 62. t. 785.","","viii. 62. t. 785.","",
+gcc-86079,A,Compositae,,Scorzonera,,"araneosa",,"","Sm.",Accepted,,M,TICA,B693B2F8-5829-414E-B699-7A1F3908932B,,"Sm.. 1813.","","123","1813",
+gcc-21511,A,Compositae,,Scorzonera,,"argyrea",,"","Boiss.",Accepted,,M,TICA,10B0BCA1-2FA8-41B9-9712-27C617926066,,"","","26","1844",
+gcc-139645,A,Compositae,,Scorzonera,,"aristata",,"","Ramond ex DC.",Accepted,,M,TICA,D42FA72A-BA0B-4E65-8E47-F33003AA520D,243071-1,"","","922","1805",
+gcc-91521,A,Compositae,,Scorzonera,,"armeniaca",,"","(Boiss. & A.Huet) Boiss.",Synonym,,M,TICA,D19ACBEB-3A73-4AC1-B305-868F8203EE3C,243072-1,"","","760","1875",gcc-135473
+gcc-107743,A,Compositae,,Scorzonera,,"aspera",,"","Desf.",Synonym,,M,TICA,61A495C0-A15D-451E-AB39-AAC6A6358390,243073-1,"in Ann. Mus. Par. i. (1802) 133. t. 9.","","i.  133. t. 9","1802",gcc-155813
+gcc-124944,A,Compositae,,Scorzonera,,"asperrima",,"","Willd.",Synonym,,M,TICA,882DE7B8-6CC1-44D2-8417-D1E4D5321EA3,243074-1,"","","1507","1803",gcc-80247
+gcc-120273,A,Compositae,,Scorzonera,,"asphodeloides",,"","Wallr.",Synonym,,M,TICA,E2134FDB-46A9-4EA3-B2AF-C71B319651CA,243075-1,"","","95","1815",gcc-63227
+gcc-144485,A,Compositae,,Scorzonera,,"astrachanica",,"","DC.",Synonym,,M,TICA,8DAD5A0B-316D-492B-B96B-FE33C5EC9C6A,243076-1,"Prodr. (DC.) 7(1): 118","","118","1838",gcc-26259
+gcc-27096,A,Compositae,,Scorzonera,,"astrachiana",,"","DC.",Synonym,,M,TICA,EDF92911-B9C2-4205-A036-3218A753EF7E,,"Prodromus Systematis Naturalis Regni Vegetabilis 7(1):","","118","1838",gcc-26259
+gcc-13536,A,Compositae,,Scorzonera,,"aubertii",,"","Braun-Blanq. & Maire",Synonym,,M,TICA,BF403C0B-AA1D-4B7D-A9AE-192E941F6144,243077-1,"","","189","1922",gcc-52166
+gcc-145121,A,Compositae,,Scorzonera,,"aucheri",,"","Boiss. & A.Huet",Synonym,,M,TICA,0AFA4992-B278-407D-A890-FFB3FADB5256,,"","","92","1856",gcc-51964
+gcc-100846,A,Compositae,,Scorzonera,,"aucheriana",,"","DC.",Accepted,,M,TICA,0FA8B8A6-10C9-47FD-AAA6-9B8E6E64B57F,243079-1,"","","125","1838",
+gcc-11781,A,Compositae,,Scorzonera,,"austriaca",,"","Willd.",Accepted,,M,TICA,F0D27295-5AB6-48E0-A41D-15EEB043DC4F,243081-1,"","","1498","1803",
+gcc-83280,A,Compositae,,Scorzonera,,"austriaca",,"","Balb.",Unresolved,,L,TICA,9288C5A8-CEEC-4E8F-9D39-73F02172EA7F,243080-1,"Misc. Alt. 24.","","24","",
+gcc-146932,A,Compositae,,Scorzonera,,"austriaca",var.,"austriaca","",Synonym,,L,TICA,99B7EAE8-712E-4041-83CF-22D9F0CFFB5A,,"","","","",gcc-11781
+gcc-147881,A,Compositae,,Scorzonera,,"austriaca",subsp.,"austriaca","",Synonym,,L,TICA,8D82CB9D-1C2C-4060-BE82-37420C658A3E,,"","","","",gcc-11781
+gcc-44920,A,Compositae,,Scorzonera,,"austriaca",subsp.,"crispa","(Bieb.) Nyman",Synonym,,L,TICA,CBE6670F-3E9B-4DE5-83B9-533E391DC54C,,"","","","",gcc-4347
+gcc-6626,A,Compositae,,Scorzonera,,"austriaca",var.,"curvata","Popl.",Synonym,,L,TICA,85D25792-403D-4757-A8B0-0C4AEC4B37B7,," 15:","","38","1916",gcc-11781
+tro-100376280,A,Compositae,,Scorzonera,,"austriaca",var.,"hebecarpa","Z.X. An",Synonym,,L,TRO,100376280,,"Fl. Xinjiang.","5: 479","479","1999",gcc-12988
+gcc-61509,A,Compositae,,Scorzonera,,"austriaca",var.,"intermedia","Regel",Synonym,,L,TICA,F2853EA3-53A9-48D9-99EC-A743F2FEC196,,"Bulletin de la societe imperiale des naturalistses de Moscou 40(3):","","170","1867",gcc-40171
+gcc-66358,A,Compositae,,Scorzonera,,"austriaca",var.,"plantaginifolia","Kitag.",Synonym,,L,TICA,56292E61-BA3B-4CB4-94F4-CE32C8BB27A7,,"Report of the First Scientific Expedition to Manchoukou 4(2):","","39","1935",gcc-11781
+gcc-37574,A,Compositae,,Scorzonera,,"austriaca",subsp.,"sinensis","Lipsch. & Krasch.",Synonym,,L,TICA,C1A28633-54E7-48BA-B729-45A9202DCCB7,,"Fragm. Monog. Gen. Scorzonera","","120","1935",gcc-133882
+gcc-67585,A,Compositae,,Scorzonera,,"austriaca",var.,"subacaulis","Regel",Synonym,,L,TICA,BD4EB5E8-42CD-432C-A634-D84E50EB8F0D,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 6(2):","","323","1880",gcc-40171
+gcc-56521,A,Compositae,,Scorzonera,,"austriaca",var.,"typica","Trautv. ex Komar.",Synonym,,L,TICA,E6D8FA83-DE27-46C1-95DB-7F3D05230CB6,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25:","","771","1907",gcc-11781
+gcc-99570,A,Compositae,,Scorzonera,,"autumnalis",,"","(L.) Lam.",Synonym,,M,TICA,778655F6-A425-4185-B093-98A33FE6ADDE,,"Fl. Fr. ii. 82.","","","1779",gcc-121516
+gcc-109766,A,Compositae,,Scorzonera,,"aytatchii",,"","A.Duran & Sağiroğlu",Synonym,,M,TICA,23342ECF-DA3C-48D8-9889-AF6CFDE64978,20012554-1,"","","333","2003",gcc-94155
+gcc-52166,A,Compositae,,Scorzonera,,"baetica",,"","(DC.) Boiss.",Accepted,,M,TICA,2759A74C-8D0E-44B4-ABD5-60C630976532,,"","","382","1841",
+gcc-57207,A,Compositae,,Scorzonera,,"baetica",var.,"aubertii","(Braun-Blanq. & Maire) Maire",Synonym,,L,TICA,8FD1AF81-EDA8-43E2-82B1-8491B7442186,,"","","","",gcc-52166
+gcc-145547,A,Compositae,,Scorzonera,,"baetica",subsp.,"baetica","",Synonym,,L,TICA,0D497C96-8D34-4458-91EC-0639D24039E1,,"","","","",gcc-52166
+gcc-149868,A,Compositae,,Scorzonera,,"baetica",var.,"baetica","",Synonym,,L,TICA,A29A10A5-8B19-4AC5-9DE3-61F44D493BB6,,"","","","",gcc-52166
+gcc-44013,A,Compositae,,Scorzonera,,"baldshuanica",,"","Lipsch.",Accepted,,M,TICA,800F2CB2-C470-4D09-8C98-5187CD23A703,243083-1,"""in Bull. Soc. Nat. Mosc. 1933, n. s. xlii. 154.""","","154","1933",
+gcc-17018,A,Compositae,,Scorzonera,,"bella",,"","Lipsch.",Synonym,,M,TICA,157D2314-C53F-4449-8B3F-1F73A60BFD07,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xxii. 290 (1963).""","","","1963",gcc-80290
+gcc-89867,A,Compositae,,Scorzonera,,"bicolor",,"","Freyn & Sint.",Accepted,,M,TICA,FBE0BEB9-33A5-4E2D-BD14-82B7B6E0FDA5,243085-1,"","","266","1892",
+gcc-47696,A,Compositae,,Scorzonera,,"biebersteinii",,"","Lipsch.",Accepted,,M,TICA,D4775C86-C346-4442-8C1C-586018C2BE6E,243086-1,"","","95","1939",
+gcc-49266,A,Compositae,,Scorzonera,,"bohemica",,"","F.W.Schmidt",Synonym,,M,TICA,AC0C8418-E23B-4846-AC4F-5B3EC6477A55,243088-1,"Neue Abh. Boehm. Ges. i. (179) 55","","55","1791",gcc-35362
+gcc-13695,A,Compositae,,Scorzonera,,"boissieri",,"","Lipsch.",Accepted,,M,TICA,CE1AD8C6-1EDE-447B-B460-197A568BD542,243089-1,"","","293","1963",
+gcc-104583,A,Compositae,,Scorzonera,,"bracteosa",,"","C.Winkl.",Accepted,,M,TICA,D5706612-08B7-45DF-A048-A3CF19D2AEA5,243090-1,"Act. Hort. Petrop. xi. (1890) 324.","","324","1890",
+gcc-34113,A,Compositae,,Scorzonera,,"brevicaulis",,"","Vahl",Synonym,,M,TICA,31108CC9-24F9-40B8-9DE8-3F3BAFEB8661,243091-1,"","","88","1791",gcc-63072
+gcc-137962,A,Compositae,,Scorzonera,,"bulbipes",,"","Boiss. & Hausskn. ex Boiss. & Hausskn.",Synonym,,M,TICA,7274E4E8-BD68-4AB2-A830-EF9066B9DAE4,243092-1,"","","759","1875",gcc-95104
+gcc-81314,A,Compositae,,Scorzonera,,"bungei",,"","Krasch. & Lipsch.",Accepted,,M,TICA,AB93BE5B-2DF3-4367-A3C4-6F864D4E56AA,243093-1,"""in Bull. Soc. Nat. Mosc. 1934, n. s. xliii. 144.""","","144","1934",
+gcc-79555,A,Compositae,,Scorzonera,,"buphthalmoides",,"","DC.",Synonym,,M,TICA,F9F98ABA-3972-469C-9AEB-6BB0EF3DB737,243094-1,"","","121","1838",gcc-100631
+gcc-138881,A,Compositae,,Scorzonera,,"bupleurifolia",,"","Pouzolz",Accepted,,M,TICA,4FD32EFB-A20D-4072-88EC-F18AF217A20A,,"""Pouzolz, Cat. Pl. Gard. 1842.""","","39","1842",
+gcc-111172,A,Compositae,,Scorzonera,,"bupleuroides",,"","D.Don",Accepted,,M,TICA,7918E3B5-6F5F-4D2E-B9CB-B2852159EE69,243095-1,"Prodr. Fl. Nepal. 162 (Quid ?).","","162","1825",
+gcc-20733,A,Compositae,,Scorzonera,,"caerulea",,"","Saut. ex Rchb.",Synonym,Invalid,M,TICA,0C718AA7-092D-435B-B81A-2659DBBC3768,243096-1,"Fl. Germ. Excurs. 855","","855","1832",gcc-118579
+gcc-2727,A,Compositae,,Scorzonera,,"caespitosa",,"","Pomel",Accepted,,M,TICA,74ED7E9D-0B30-48EE-B675-050199A5DA6D,243097-1,"","","266","1875",
+gcc-31721,A,Compositae,,Scorzonera,,"caespitosa",subsp.,"caespitosa","",Synonym,,L,TICA,BC2FCE64-17CE-4BC4-AD29-3AC9412D7DF5,,"","","","",gcc-2727
+gcc-56467,A,Compositae,,Scorzonera,,"caespitosa",subsp.,"longifolia","(Emb. & Maire) Dobignard",Synonym,,L,TICA,402CFD5F-1631-457B-AFAA-7ECDB8FFD526,77065657-1,"","","70","2004",gcc-152313
+gcc-106605,A,Compositae,,Scorzonera,,"calcitrapifolia",,"","Vahl",Synonym,,M,TICA,28E78716-12CD-4BF3-B6BE-A82DA6A282D3,243098-1,"","","87","1791",gcc-53853
+gcc-147788,A,Compositae,,Scorzonera,,"calcitrapifolia",var.,"calcitrapifolia","",Synonym,,L,TICA,06A9938C-95F2-4AD8-B814-354190B95C17,,"","","","",gcc-53853
+gcc-55758,A,Compositae,,Scorzonera,,"calcitrapifolia",var.,"decumbens","Guss.",Synonym,,L,TICA,1EEC35FC-9F9B-4248-874E-789DEF0D2528,50426421-2,"Pl. Rar. 323 (1826).","","323","1826",gcc-53853
+gcc-6248,A,Compositae,,Scorzonera,,"callosa",,"","Moris",Accepted,,M,TICA,73473A1F-CFA2-44F2-91CD-0BA336EBAE35,243099-1,"","","29","1827",
+gcc-38119,A,Compositae,,Scorzonera,,"calvescens",,"","DC.",Synonym,,M,TICA,4E423ED2-6514-4585-BC9D-46B54B0BD626,243100-1,"Prodr. (DC.) 7(1): 123","","123","1838",gcc-132237
+gcc-141394,A,Compositae,,Scorzonera,,"calyculata",,"","Boiss.",Accepted,,M,TICA,1A1B7739-B157-4C59-B1AB-F74D1E4AB86F,,"""Diagn. Pl. Orient. ser. 1, 11: 42""","","42","1849",
+gcc-102646,A,Compositae,,Scorzonera,,"cana",,"","(C.A.Mey.) Grossh.",Unresolved,Illegitimate,L,TICA,0C835456-34BA-45E9-953D-9F98FE11E941,243103-1,"Beih. Bot. Centralbl. xliv. II. 247 (1927).","","xliv. II. 247","1927",gcc-143238
+gcc-18328,A,Compositae,,Scorzonera,,"cana",,"","(C.A.Mey.) O.Hoffm.",Synonym,,L,TICA,7A290AAB-C47A-453A-8DCD-21DC0D832CE5,,"""Engl. & Prantl, Naturl. Pflanzenfam. iv. 5. (1893) 365.""","","","1893",gcc-143238
+gcc-90251,A,Compositae,,Scorzonera,,"cana",,"","(C.A.Mey.) Griseb.",Synonym,,L,TICA,9FE7ECE1-CBE5-4463-8E53-838E92209937,,"","","546","1846",gcc-143238
+gcc-152687,A,Compositae,,Scorzonera,,"cana",var.,"cana","",Synonym,,L,TICA,6132BA6F-F86A-4D06-ACA6-9EB3E9BD99BE,,"","","","",gcc-143238
+gcc-43104,A,Compositae,,Scorzonera,,"candica",,"","Lipsch.",Synonym,,M,TICA,3B6CDCF2-5266-42E0-A313-4FD916DDED6C,243104-1,"","","299","1963",gcc-52476
+gcc-100438,A,Compositae,,Scorzonera,,"candollei",,"","Vis.",Synonym,,M,TICA,712C9182-11F5-46D0-9494-9AA218ED3E32,243105-1,"","","106","1847",gcc-35362
+gcc-146225,A,Compositae,,Scorzonera,,"candollei",subsp.,"candollei","",Synonym,,L,TICA,036C2E64-3C67-4DEF-8254-142D06A9885F,,"","","","",gcc-35362
+gcc-8017,A,Compositae,,Scorzonera,,"candollei",subsp.,"tenuifolia","(DC.) Nyman",Synonym,,L,TICA,136F8B82-8414-41A6-A73C-0EEC6FC61A6B,,"""Nyman, Consp. Fl. Eur. 1879.""","","464","1879",gcc-35362
+gcc-144846,A,Compositae,,Scorzonera,,"capensis",,"","Thunb.",Synonym,,M,TICA,5A7018AC-60C2-4851-BF8C-FF108D44FB2D,243106-1,"Prodr. Pl. Cap. 141.","","141","1800",gcc-85069
+gcc-37543,A,Compositae,,Scorzonera,,"capito",,"","Maxim.",Accepted,,M,TICA,2E8F327F-2086-480E-854B-45961B1BB95F,243107-1,"in Bull. Acad. Petersb. xxxii. (1888) 491.","","491","1888",
+gcc-13494,A,Compositae,,Scorzonera,,"caricifolia",,"","Pall.",Synonym,,M,TICA,E0DEC044-A531-4526-9F85-191F8B2F09CB,,"""Reise, iii. 756.""","","","1776",gcc-31733
+gcc-36618,A,Compositae,,Scorzonera,,"cariensis",,"","Boiss.",Synonym,,M,TICA,AE123A7F-E677-40B1-9A11-43E53D966E47,,"","","424","1844",gcc-45788
+gcc-120014,A,Compositae,,Scorzonera,,"castulonensis",,"","Fern.Casas",Synonym,,M,TICA,F50EA351-9740-4931-96F3-C67F753769A7,903040-1,"","","24","1983",gcc-131386
+gcc-22151,A,Compositae,,Scorzonera,,"cenopleura",,"","Bunge",Synonym,,M,TICA,82C03856-2B63-453C-B589-28F9FA7E52BD,,"","","202","",gcc-116914
+gcc-94655,A,Compositae,,Scorzonera,,"chantavica",,"","Pavlov",Accepted,,M,TICA,74BC9FBA-85F0-4528-A8A1-8D848A2DC794,,"","","27","1950",
+gcc-139675,A,Compositae,,Scorzonera,,"charadzeae",,"","Papava",Accepted,,M,TICA,1C4324D9-9A3B-4C95-BABE-F34302765C89,243111-1,"","","68","1955",
+gcc-113842,A,Compositae,,Scorzonera,,"chondrilloides",,"","Regel & Schmalh.",Synonym,,M,TICA,DA83C83E-2D3E-4A7E-8453-B885B5DB68E7,243112-1,"Descr. Pl. Nov. Rar. Fedtsch. 54.","","54","1882",gcc-124326
+gcc-98272,A,Compositae,,Scorzonera,,"chondrilloides",,"","Pourr. ex Willd.",Synonym,,L,TICA,A95CB8F1-932C-4E42-B091-95B7F998A07E,243113-1,"","","1505","1803",gcc-90729
+gcc-28617,A,Compositae,,Scorzonera,,"ciliata",,"","Forssk.",Synonym,,M,TICA,3D1563D8-D456-490F-8DA1-34E2115E6B51,243114-1,"Fl. Aegypt.-Arab. 143","","143","1775",gcc-125560
+gcc-137986,A,Compositae,,Scorzonera,,"cilicia",,"","Boiss. ex Lipsch.",Unresolved,,L,TICA,5FF36EE8-63A3-4181-A9E5-EF9ED67992E5,243115-1,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 156 (1935),in syn.""","","""156 ,in syn.""","1935",
+gcc-119599,A,Compositae,,Scorzonera,,"cilicica",,"","Boiss.",Synonym,,M,TICA,FE98F588-64C8-40A2-A1AC-C5847632FD2E,,"","","94","1856",gcc-119770
+gcc-119770,A,Compositae,,Scorzonera,,"cinerea",,"","Boiss.",Accepted,,M,TICA,4B0E82EE-5740-4C69-9FFB-C5ED03F47CEC,,"","","44","1849",
+gcc-154590,A,Compositae,,Scorzonera,,"cinerea",var.,"cinerea","",Synonym,,L,TICA,531E463D-5300-4A35-B89C-C6D8DF77E3CB,,"","","","",gcc-119770
+gcc-146395,A,Compositae,,Scorzonera,,"cinerea",var.,"undulatifolia","Boiss.",Synonym,,L,TICA,F1A59CCE-A637-449B-8F1A-17A691905518,,"""P.E. Boissier, Diagn. Pl. Orient., Ser. 2 3. 1856""","","94","1856",gcc-83532
+gcc-92012,A,Compositae,,Scorzonera,,"circinnata",,"","Pall.",Synonym,Illegitimate,M,TICA,A5A09409-3423-4042-BA71-87A97B424FA0,,"""Reise, iii. 677.""","","","1776",gcc-26259
+gcc-89287,A,Compositae,,Scorzonera,,"circumflexa",,"","Krasch. & Lipsch.",Accepted,,M,TICA,2FFC5205-41E6-45E7-934E-815D66D4C301,243119-1,"","","148","1934",
+gcc-155192,A,Compositae,,Scorzonera,,"circumflexa",subsp.,"circumflexa","",Synonym,,L,TICA,BBB4C9F2-660A-410D-8466-D2DDA2291F1D,,"","","","",gcc-89287
+gcc-53681,A,Compositae,,Scorzonera,,"circumflexa",subsp.,"glaberrima","(Bunge) Tagaev",Synonym,,L,TICA,47BDF1DC-D762-4D9F-87E4-680DA461F73A,924526-1,"Novosti Sist. Vyssh. Rast. 22: 234 (1985):","","234","1985",gcc-89287
+gcc-72089,A,Compositae,,Scorzonera,,"circumflexa",subsp.,"oxiana","Tagaev",Synonym,,L,TICA,CBD50BBA-4D18-4551-BAD4-FB33DB84E2BC,919118-1,"Novosti Sist. Vyssh. Rast. 22: 233 (1985)","","233","1985",gcc-43212
+gcc-19124,A,Compositae,,Scorzonera,,"clusii",,"","Asso",Synonym,,M,TICA,E3749007-E30B-412C-8F5A-235091C15A38,243120-1,"","","108","1779",gcc-35362
+gcc-76207,A,Compositae,,Scorzonera,,"codringtonii",,"","Rech.f.",Accepted,,M,TICA,ECD903B5-859F-4961-AABE-642FCE8428FB,243121-1,"","","263","1950",
+gcc-134035,A,Compositae,,Scorzonera,,"colorata",,"","Krasch.",Synonym,,M,TICA,36A030FA-8468-45C2-B18B-E6ED62BE9170,243122-1,"","","179","1933",gcc-137711
+gcc-139648,A,Compositae,,Scorzonera,,"columnae",,"","Guss.",Synonym,,M,TICA,CD76C42F-2068-405F-A0DC-F3330875C139,,"","","10","1825",gcc-54507
+gcc-100697,A,Compositae,,Scorzonera,,"communis",,"","Noronha",Accepted,,M,TICA,2FBA1CAC-7769-4B77-8E52-9B34B0DCBB7D,243124-1,"","","27","1790",
+gcc-105870,A,Compositae,,Scorzonera,,"concatenata",,"","szow. ex Lipsch.",Unresolved,,L,TICA,9A1DCD8B-7E9F-4077-942A-A687C17D69E6,243125-1,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 78 (1935),in syn.""","","""78 ,in syn.""","1935",
+gcc-47340,A,Compositae,,Scorzonera,,"coronopifolia",,"","Desf.",Synonym,,M,TICA,8A039C20-7407-4142-A40F-57AA642E9042,,"","","162","1792",gcc-63072
+gcc-131577,A,Compositae,,Scorzonera,,"crassicaulis",,"","Rech.f.",Synonym,,M,TICA,B813609D-EC20-4899-ACE5-E139A509B063,243127-1,"","","191","1955",gcc-118269
+gcc-1137,A,Compositae,,Scorzonera,,"crassifolia",,"","Krasch. & Lipsch.",Accepted,,M,TICA,E657A438-C086-4405-937C-02177D48EDB7,243128-1,"""Lipschitz, Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 60 (1935).""","","60","1935",
+gcc-98964,A,Compositae,,Scorzonera,,"crassinervia",,"","Fisch. ex Krasch. & Lipsch.",Unresolved,,L,TICA,FBF67869-6142-4C1D-8C75-974956AEAD1E,243129-1,"""in Bull. Soc. Nat. Mosc. 1934, n. s. xliii. 146, in syn.""","","""n. s. xliii. 146, in syn.""","1934",
+gcc-18443,A,Compositae,,Scorzonera,,"crepioides",,"","Poir.",Synonym,,M,TICA,2CFD28C0-D69E-43E9-8C3E-2211B5C77CC2,243130-1,"Encycl. (Lamarck) 7: 25","","25","1806",gcc-141095
+gcc-96312,A,Compositae,,Scorzonera,,"cretica",,"","Willd.",Accepted,,M,TICA,0901E098-FD79-4B65-98F3-914498369179,243131-1,"","","1504","1803",
+gcc-4347,A,Compositae,,Scorzonera,,"crispa",,"","M.Bieb.",Accepted,,M,TICA,08B2D02B-F8A3-4435-917E-0813A15E49B8,243132-1,"""F.A. Marschall von Bieberstein, Fl. Taur.-Caucas. 2. 1808""","","234","1808",
+gcc-153331,A,Compositae,,Scorzonera,,"crispa",var.,"altaica","Serg.",Synonym,,L,TICA,B8BB1D09-ABC9-40D6-B931-AC0745E50308,,"","","","",gcc-4347
+gcc-157244,A,Compositae,,Scorzonera,,"crispa",var.,"crispa","",Synonym,,L,TICA,7FADE61E-B1D9-4BA9-9903-FDFCF9D1F71F,,"","","","",gcc-4347
+gcc-118809,A,Compositae,,Scorzonera,,"crispatula",,"","(DC.) Boiss.",Synonym,,M,TICA,B3117358-D318-41C2-978D-C3D0D65AD2BD,,"","","741","1845",gcc-53256
+gcc-97530,A,Compositae,,Scorzonera,,"crispatula",,"","Boiss. ex Willk.",Unresolved,,L,TICA,D37FE361-DF8D-4185-AB06-941633731D94,243134-1,"Illustr. Fl. Hisp. ii. (1886-92) 83. t. 135.","","ii. (1886-92) 83. t. 135.","",
+gcc-35639,A,Compositae,,Scorzonera,,"crocifolia",,"","Sibth. & Sm.",Unresolved,,L,TICA,865B56D0-226E-40A1-A823-42176591EC08,243135-1,"Fl. Graec. viii. 63. t. 785.","","viii. 63. t. 785.","",
+gcc-84873,A,Compositae,,Scorzonera,,"crocifolia",,"","Sm.",Accepted,,M,TICA,8F3C5CBA-905E-4049-9E86-7771275ECDEB,,"Sm.. 1813.","","123","1813",
+gcc-83298,A,Compositae,,Scorzonera,,"curvata",,"","(Popl.) Lipsch.",Synonym,,M,TICA,2355FDEC-080B-422A-9196-73F681F90B95,243136-1,"Fl. URSS xxix. 72 (1964).","","72","1964",gcc-11781
+gcc-3124,A,Compositae,,Scorzonera,,"cypria",,"","Kotschy",Synonym,,M,TICA,CDEFDD0A-B5D8-4B70-BD06-05C4CE3CEA02,243137-1,"","","253","1865",gcc-31733
+gcc-106921,A,Compositae,,Scorzonera,,"czerepanovii",,"","Kuth.",Accepted,,M,TICA,5FA7BC65-1CB1-4F5D-B94C-A8E99E05A2D4,,"""Kuth. in Gagnidze, Fl. Gruzii 14. 2003.""","","101","2003",
+gcc-135876,A,Compositae,,Scorzonera,,"czerepanovii",,"","Kamelin",Synonym,Invalid,M,TICA,1BA88A43-3E91-46BE-AF8B-EAEABAE79010,940881-1,"""in Bot. Zhurn., 71(12): 1680 (1986), nom. nov., without replaced synonym ref.:.""","","1680","1986",gcc-106921
+gcc-9340,A,Compositae,,Scorzonera,,"czerepanovii",,"","Kamelin ex Czerep.",Unresolved,,L,TICA,6E9B6893-3E77-4D16-9C2F-116BC8DA73B2,,"""Vasc. Pl. Russia & Adj. States (former USSR): 95 (1995), nom. nov.:.""","","","",
+gcc-19911,A,Compositae,,Scorzonera,,"dalmatica",,"","Host",Synonym,,M,TICA,73F2B5D3-8519-4950-9FAF-24D22CA86F69,,"Fl. Austr. ii. 391.","","","1931",gcc-81443
+gcc-146333,A,Compositae,,Scorzonera,,"darreana",,"","C.Winkl.",Accepted,,M,TICA,9F4E03BA-9365-41BF-BBE4-16754A0C4FA7,,"","","","",
+gcc-110612,A,Compositae,,Scorzonera,,"davisii",,"","Lipsch.",Accepted,,M,TICA,D306CA21-05CC-45E6-B598-B14942820E31,243139-1,"","","291","1963",
+gcc-46382,A,Compositae,,Scorzonera,,"debilis",,"","Sosn.",Synonym,,M,TICA,2DF5E5FB-6587-4ABB-B884-55F5DD0231B3,,"","","222","1937",gcc-97395
+gcc-115748,A,Compositae,,Scorzonera,,"decumbens",,"","(Guss.) Guss.",Synonym,,M,TICA,E1555479-F24F-4D39-87E7-BCE8036E4E8E,,"","","386","1843",gcc-53853
+gcc-102409,A,Compositae,,Scorzonera,,"deliciosa",,"","Guss.",Synonym,,M,TICA,8C6551C9-56C2-4EBF-B2CC-9F10624B76A8,,"","","","",gcc-71256
+gcc-33508,A,Compositae,,Scorzonera,,"deliciosa",,"","Guss. ex DC.",Synonym,,M,TICA,5F4A1D77-5296-4099-9448-3E22EB429872,243142-1,"","","118","1838",gcc-71256
+gcc-152508,A,Compositae,,Scorzonera,,"deliciosa",var.,"deliciosa","",Synonym,,L,TICA,20333AA4-88E4-4AE5-8F13-9ADDAAD788ED,,"","","","",gcc-71256
+gcc-16866,A,Compositae,,Scorzonera,,"deliciosa",var.,"tetuanensis","Ball",Synonym,,L,TICA,514BAEA5-3DE1-4F53-AD5D-1F27BD6280E9,,"","","","",gcc-71256
+gcc-13046,A,Compositae,,Scorzonera,,"dentata",,"","Kit.",Synonym,,M,TICA,85695820-4FC1-416C-BAB7-184C06719D44,243143-1,"Linnaea 32: 409. 1864","","409","1864",gcc-80660
+gcc-105740,A,Compositae,,Scorzonera,,"denticulata",,"","Lam.",Synonym,,M,TICA,E00E4A26-4CDE-4B9C-A6BC-A635A7FB909E,243144-1,"","","82","1779",gcc-80660
+gcc-124385,A,Compositae,,Scorzonera,,"dependens",,"","Rech.f.",Synonym,,M,TICA,C6B9BCAB-61A0-409D-87A9-D08F181729B1,,"","","17","1934",gcc-96312
+gcc-49702,A,Compositae,,Scorzonera,,"dianthoides",,"","(Lipsch. & Krasch.) Lipsch.",Synonym,,M,TICA,277344CC-07E3-4B96-8F4F-5C22DD3B0C9B,243146-1,"Fl. URSS xxix. 72 (1964).","","72","1964",gcc-11781
+gcc-8808,A,Compositae,,Scorzonera,,"dichotoma",,"","Vahl",Synonym,Illegitimate,M,TICA,37BAFA2C-8B80-4155-9957-107F97B43418,243147-1,"Symb. Bot. (Vahl) ii. 89","","89","1791",gcc-147355
+gcc-42930,A,Compositae,,Scorzonera,,"divaricata",,"","Aucher ex DC.",Synonym,,M,TICA,ED99D5C9-4F5D-46E4-AD6D-4F84AFEB1B06,243148-1,"Prodr. (DC.) 7(1): 125","","125","1838",gcc-100846
+gcc-52528,A,Compositae,,Scorzonera,,"divaricata",,"","Turcz.",Accepted,,M,TICA,0AC91DFB-B26C-48E6-A629-615E19DD36C4,,"in Bull. Soc. Nat. Mosc. v. (1832) 200.","","","1832",
+gcc-64555,A,Compositae,,Scorzonera,,"divaricata",var.,"divaricata","",Synonym,,L,TICA,38A8A648-AE81-499A-8552-BF5DEFEDFA0D,,"","","","",gcc-52528
+tro-100376262,A,Compositae,,Scorzonera,,"divaricata",var.,"foliata","Maxim.",Synonym,,L,TRO,100376262,,"","","","",gcc-17992
+gcc-61782,A,Compositae,,Scorzonera,,"divaricata",var.,"foliosa","Maxim.",Synonym,,L,TICA,CDE281A2-DB3C-43A6-A089-A96FCC9AEC57,,"Bulletin de l'Academie Imperiale des Sciences de St-Petersbourg 32(4):","","494","1888",gcc-17992
+gcc-50372,A,Compositae,,Scorzonera,,"divaricata",var.,"intricatissima","Maxim.",Synonym,,L,TICA,389909A0-47FD-47B8-92E7-5D6A235B9910,,"Bulletin de l'Academie Imperiale des Sciences de St-Petersbourg 32(4):","","494","1888",gcc-52528
+gcc-21648,A,Compositae,,Scorzonera,,"divaricata",var.,"virgata","Maxim.",Synonym,,L,TICA,B8823E1A-3F50-4B35-915E-280A4F85DAC5,,"Bulletin de l'Academie Imperiale des Sciences de St-Petersbourg 32(4):","","495","1888",gcc-17992
+gcc-51807,A,Compositae,,Scorzonera,,"doriae",,"","Degen & Bald.",Accepted,,M,TICA,2D8EE8CF-C71F-4E04-AD90-601137EB9F5F,,"","","417","1896",
+gcc-99182,A,Compositae,,Scorzonera,,"drarii",,"","Täckh.",Accepted,,M,TICA,83A7E4D0-AF09-434E-9685-97C8069E30DA,,"","","375","1932",
+gcc-2477,A,Compositae,,Scorzonera,,"dzhavakhetica",,"","Sosn. ex Grossh. & Sosn.",Unresolved,,L,TICA,B21C7FC2-CCEF-4F91-AF2A-048579E22348,243152-1,"""in Trav. Inrt. Bot. Tbilissi, Acad. Sc. URSS, Fil. Georgienne, ii. 218 (1938),latine.""","","""ii. 218 ,latine.""","1938",
+gcc-811,A,Compositae,,Scorzonera,,"dzhawakhetica",,"","Sosn. ex Grossh.",Accepted,,M,TICA,EFFE5A95-EA34-45ED-9203-0185A02A1DE2,243153-1,"","","236","1934",
+gcc-147391,A,Compositae,,Scorzonera,,"dzhawakhetica",var.,"dzhawakhetica","",Synonym,,L,TICA,2AEBD3BB-29FD-4644-BAE1-2C8F0A261687,,"","","","",gcc-811
+gcc-151057,A,Compositae,,Scorzonera,,"dzhawakhetica",var.,"viridescens","Sosn.",Synonym,,L,TICA,FAAEEE8E-955A-462E-94A4-7C6609E4F046,,"""Sosn. - in Kechoveli, Fl. Gruzii 8. 1952""","","645","1952",gcc-811
+gcc-103564,A,Compositae,,Scorzonera,,"edulis",,"","Moench",Synonym,Illegitimate,M,TICA,A79432E9-2DBE-43EB-8FC9-A18CD4D1EB11,243154-1,"","","548","1794",gcc-80660
+gcc-156907,A,Compositae,,Scorzonera,,"edumea",,"","Eig",Synonym,,M,TICA,05BFB1AB-9C7F-4F68-B7B1-F6A5BBFD8683,,"","","","",gcc-16594
+gcc-145016,A,Compositae,,Scorzonera,,"ekimii",,"","A.Duran",Synonym,,M,TICA,7D1AC7D3-9F48-4079-88AB-FF77A472A1F5,20006991-1,"","","155","2002",gcc-76798
+gcc-51150,A,Compositae,,Scorzonera,,"elata",,"","Boiss.",Accepted,,M,TICA,2F14B13D-FC8D-4D7B-AA29-5EE199141080,,"","","25","1844",
+gcc-121747,A,Compositae,,Scorzonera,,"elongata",,"","C.H.An & X.L.He",Unresolved,Illegitimate,L,TICA,B56620A4-9EC6-4865-9C88-CA7658307356,1017283-1,"","","480","1999",
+gcc-42381,A,Compositae,,Scorzonera,,"elongata",,"","Willd.",Synonym,Illegitimate,M,TICA,66C2AAAA-CFA7-4848-9632-4E86FA686EC6,,"Sp. Pl. iii. 1508.","","","1803",gcc-120775
+gcc-7186,A,Compositae,,Scorzonera,,"ensifolia",,"","M.Bieb.",Accepted,,M,TICA,B6095DFF-F10E-4411-B603-0D60F46FE5A1,243157-1,"","","235","1808",
+gcc-157048,A,Compositae,,Scorzonera,,"ensifolia",var.,"ensifolia","",Synonym,,L,TICA,89D6A733-92C1-4A05-99C0-F9E514233FD9,,"","","","",gcc-7186
+gcc-149857,A,Compositae,,Scorzonera,,"ensifolia",var.,"glabrescens","Kuntze",Synonym,,L,TICA,B8DC8FF8-2FF2-439E-BA21-61AA1368EE97,,"C.E.O. Kuntze in Trudy Imp. S.-Peterburgsk. Bot. Sada 10. 1887","","205","1887",gcc-7186
+gcc-150400,A,Compositae,,Scorzonera,,"ensifolia",var.,"lanata","Serg.",Synonym,,L,TICA,E0428B05-F086-4B53-8145-6DA5DAD2836F,,"""Sergievskaja, Lydia Palladievna  in Sist. Zametki Mater. Gerb. Krylova Tomsk. Gosud. Univ. Kuybysheva 11. 1949""","","2987","1949",gcc-7186
+gcc-46165,A,Compositae,,Scorzonera,,"ensifolia",var.,"macrophylla","Tzvelev",Synonym,,L,TICA,6C53F60A-7DCD-4B1D-9ADE-55922E5813B3,955872-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 46 (1989):.""","","46","1989",gcc-7186
+gcc-149840,A,Compositae,,Scorzonera,,"ensifolia",var.,"pilosior","Kuntze",Synonym,,L,TICA,2A45D990-221D-4496-A263-6152BF041627,,"C.E.O. Kuntze in Trudy Imp. S.-Peterburgsk. Bot. Sada 10. 1887","","205","1887",gcc-7186
+gcc-92988,A,Compositae,,Scorzonera,,"eriocarpa",,"","Willk.",Unresolved,,L,TICA,A4D994EE-7885-4A70-AFE2-89CA0CC13493,243158-1,"""Willk. & Lange, Prod. Fl. Hisp. ii. 225.""","","ii. 225","",
+gcc-128575,A,Compositae,,Scorzonera,,"eriophora",,"","DC.",Accepted,,M,TICA,36388DBE-3CAA-4EFA-88F6-DA52DA9201FA,243159-1,"","","125","1838",
+gcc-142307,A,Compositae,,Scorzonera,,"eriosperma",,"","Willd.ex",Unresolved,,L,TICA,CF87F5DB-ED33-41BC-A48F-F954FD089947,243161-1,"Ledeb. Fl. Ross. ii. 783.","","ii. 783","",
+gcc-145653,A,Compositae,,Scorzonera,,"eriosperma",,"","Ledeb.",Synonym,,M,TICA,E508A64A-E1B4-4C6C-8DE4-0821048A709B,,"""C.F. von Ledebour, Fl. Ross. 2. 1846""","","783","1846",gcc-112106
+gcc-22006,A,Compositae,,Scorzonera,,"eriosperma",,"","M.Bieb.",Synonym,,M,TICA,7F6EFFF2-9118-476E-8299-28B5E0322121,,"","","117","1798",gcc-47696
+gcc-35158,A,Compositae,,Scorzonera,,"eriosperma",,"","Gouan",Synonym,,M,TICA,21D0770F-9418-4EAF-B674-413462D5B79B,243163-1,"","","52","1773",gcc-108947
+gcc-40987,A,Compositae,,Scorzonera,,"eriosperma",,"","Aucher ex DC.",Synonym,,M,TICA,A9C84FA7-6A5B-4F7D-A2FC-4BF72BD22F36,243162-1,"Prodr. (DC.) 7(1): 125","","125","1838",gcc-114189
+gcc-19436,A,Compositae,,Scorzonera,,"euphratica",,"","Gomb. & Arènes",Accepted,,M,TICA,8591FEB2-3D7E-4E3C-8E79-23EADA47DDF8,243164-1,"Bull. Soc. Bot. France Mém. 1952: 11","","11","1953",
+gcc-15825,A,Compositae,,Scorzonera,,"eximia",,"","Rech.f.",Synonym,,M,TICA,07F99714-E728-4393-B1D3-1D4D86C37456,243165-1,"","","17","1934",gcc-86079
+gcc-81167,A,Compositae,,Scorzonera,,"fasciata",,"","Pomel",Synonym,,M,TICA,BC253A20-BD34-443E-A037-6F325264C4EF,243166-1,"Nouv. Mat. Fl. Atl. 9.","","9","1874",gcc-63072
+gcc-25702,A,Compositae,,Scorzonera,,"fengtienensis",,"","Nakai",Synonym,,M,TICA,04D19814-EA21-4141-AB40-2F7B896ED3CD,,"""Report of the Institute of Scientific Research, Manchoukuo 1:""","","167","1937",gcc-142083
+gcc-33245,A,Compositae,,Scorzonera,,"fengtiensis",,"","Nakai",Accepted,,M,TICA,ECDCCA22-3915-41DF-AB1C-3DA790F3520B,,"""in Rep. Inst. Sc. Research Manchoukuo, i. 167 (1937).""","","","1937",
+gcc-75463,A,Compositae,,Scorzonera,,"ferganica",,"","Krasch.",Accepted,,M,TICA,3FF5B1FC-1DCA-46D3-A9C7-627F383CA9D3,243168-1,"","","180","1933",
+gcc-115863,A,Compositae,,Scorzonera,,"filifolia",,"","Boiss.",Accepted,,M,TICA,BF77BCA3-04C7-47F7-BD30-BD262F2CA091,243169-1,"","","774","1875",
+gcc-151066,A,Compositae,,Scorzonera,,"filifolia",var.,"filifolia","",Synonym,,L,TICA,CF9C47B0-81C7-4BA6-9105-7C9D04CE71E8,,"","","","",gcc-115863
+gcc-149820,A,Compositae,,Scorzonera,,"filifolia",var.,"lipskyi","(Lipsch.) Sosn.",Synonym,,L,TICA,F506125C-7B7E-46ED-B105-60ECC85C141C,,"""Sosnowsky, Dmitrii Ivanovich  in Zametki Sist. Geogr Rast. 13. 1947""","","63","1947",gcc-30072
+gcc-152764,A,Compositae,,Scorzonera,,"filifolia",var.,"rubriseta","(Lipsky) Grossh.",Synonym,,L,TICA,7CF96EDB-8095-4CA8-85E3-A006CB75F619,,"""Grossh. in Trudy Azerbajdžansk. Otd. Zakavkazsk. Fil. Akad. Nauk SSSR, Sekt. Bot. 1. 1933""","","55","1933",gcc-115863
+gcc-152828,A,Compositae,,Scorzonera,,"filifolia",var.,"vegetior","Trautv.",Synonym,,L,TICA,CD5155C1-E8EB-4377-B056-A1497C6EC17D,,"""Trautvetter, Ernst Rudolf von in Trudy Imp. S.-Peterburgsk. Bot. Sada 10. 1887""","","119","1887",gcc-115863
+gcc-40120,A,Compositae,,Scorzonera,,"fischeriana",,"","Krasch. & Lipsch.",Synonym,,M,TICA,FFAB482C-079F-4A5B-BBAD-4A67F02A5893,,"""in Bull. Soc. Nat. Mosc. 1934, n. s. xliii. 146.""","","","1934",gcc-15010
+gcc-76423,A,Compositae,,Scorzonera,,"fistulosa",,"","Brot.",Synonym,,M,TICA,6333CFB4-B003-4B5B-A6CB-64AD85E80427,243171-1,"","","329","1804",gcc-23501
+gcc-46513,A,Compositae,,Scorzonera,,"flaccida",,"","Rech.f.",Accepted,,M,TICA,29FE3547-841E-4B76-9CEE-562B0DB9100E,243172-1,"""in Fl. Iran., 122: 73 (1977).""","","73","1977",
+gcc-50192,A,Compositae,,Scorzonera,,"floccosa",,"","Boiss.",Synonym,,L,TICA,59DCEA65-7827-4ED5-BD87-5D0CDE38B763,243173-1,"","","758","1875",gcc-143238
+gcc-51888,A,Compositae,,Scorzonera,,"franchetii",,"","Lipsch.",Accepted,,M,TICA,E7DCC2D8-6132-4BAF-A843-603AD95F121A,243174-1,"""in Bull. Soc. Nat. Mosc. 1933, n. s. xlii. 154.""","","154","1933",
+gcc-118309,A,Compositae,,Scorzonera,,"fusca",,"","Kitam.",Synonym,,M,TICA,C2D72275-A7C8-4876-9A4C-C2A8D01EC8EE,243175-1,"Acta Phytotax. Geobot. xix. 104 (1963)","","104","1963",gcc-76207
+gcc-15010,A,Compositae,,Scorzonera,,"gageoides",,"","Boiss.",Accepted,,M,TICA,6C0A0D41-BB6D-4443-8FF0-1BCA86376A3D,,"""Diagn. Pl. Orient. ser. 2, 3: 95""","","95","1856",
+gcc-32674,A,Compositae,,Scorzonera,,"gebleri",,"","Besser ex DC.",Synonym,,M,TICA,C2ED30D9-3A80-43E9-8875-3C932BAFC15A,243177-1,"Prodr. (DC.) 7(1): 120","","120","1838",gcc-11781
+gcc-149151,A,Compositae,,Scorzonera,,"glabra",,"","Rupr.",Accepted,,M,TICA,98A9E032-AD9E-4771-8426-529FB00F1598,,"","","11","1845",
+gcc-96553,A,Compositae,,Scorzonera,,"glabra",,"","C.Winkl.",Synonym,,M,TICA,D73A6E76-3F2F-42D2-8A2F-91D63E8E944D,,"Act. Hort. Petrop. xi. (1890) 333.","","","1890",gcc-118269
+gcc-151667,A,Compositae,,Scorzonera,,"glabra",var.,"glabra","",Synonym,,L,TICA,01AE118A-8B7D-4185-94D7-89B0FC6070C8,,"","","","",gcc-149151
+gcc-43134,A,Compositae,,Scorzonera,,"glabra",var.,"manshurica","(Nakai) Kitag.",Synonym,,L,TICA,0B0177DA-8CE3-4C13-9049-4FE6BAC30533,,"Lineamenta Florae Manshuricae","","467","1939",gcc-137325
+gcc-126260,A,Compositae,,Scorzonera,,"glandulosa",,"","Pourr. ex DC.",Synonym,,M,TICA,E4D7EE2B-3FDE-4521-98BC-D4EB93F08711,243180-1,"Prodr. (DC.) 7(1): 183","","183","1838",gcc-47896
+gcc-125629,A,Compositae,,Scorzonera,,"glastifolia",,"","Hegetschw.",Unresolved,,L,TICA,EDB8073C-CCAA-4138-8FAC-D379F8361FEA,243182-1,"Fl. Schw. ii. 157.","","ii. 157","",
+gcc-31606,A,Compositae,,Scorzonera,,"glastifolia",,"","Willd.",Synonym,,M,TICA,9AF7DF01-C1F7-4EDC-9243-3A935F6BF1FD,243181-1,"","","1499","1803",gcc-80660
+gcc-7339,A,Compositae,,Scorzonera,,"glauca",,"","Salisb.",Synonym,Illegitimate,M,TICA,8358387F-0304-44BA-B2C2-0DA7FCD26A73,243183-1,"Prodr. Stirp. Chap. Allerton 179","","179","1796",gcc-98531
+gcc-25799,A,Compositae,,Scorzonera,,"gokcheoglui",,"","Ünal & Göktürk",Synonym,,M,TICA,A603C795-0EA2-42C8-84B3-2FA9988A869E,70029293-1,"","","465","2003",gcc-90268
+gcc-114390,A,Compositae,,Scorzonera,,"gorovanica",,"","Nazarova",Accepted,,M,TICA,F5FD6A27-E7C3-4C14-A3DF-B9BD6A146505,934612-1,"","","433","1988",
+gcc-116462,A,Compositae,,Scorzonera,,"gracilis",,"","Lipsch.",Accepted,,M,TICA,EE532673-02F4-44F5-9033-BE750719B258,,"""Fl. URSS xxix. 85, 721 (1964).""","","","1964",
+gcc-878,A,Compositae,,Scorzonera,,"graeca",,"","Hort. ex Steud.",Synonym,Invalid,M,TICA,99E9EC8F-6C32-4DBE-A935-01A40D934F58,243185-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 546""","","546","1841",gcc-120775
+gcc-136607,A,Compositae,,Scorzonera,,"graminea",,"","Krock.",Synonym,,M,TICA,6AA4CB81-D3B0-4A60-99A1-EC96693A5D72,,"Fl. Siles. ii. II. 263.","","","1790",gcc-83532
+gcc-130377,A,Compositae,,Scorzonera,,"graminifolia",,"","DC.",Unresolved,,L,TICA,691F35B5-CF10-4140-91F4-DE686FAF1AC8,,"Prodr. (DC.) 7(1)","","","1838",
+gcc-149411,A,Compositae,,Scorzonera,,"graminifolia",,"","Vis.",Synonym,,M,TICA,BB1910D4-195C-4AF3-9C54-58287AFB42CC,243187-1,"""R. de Visiani, Fl. Dalmat. 2. 1847""","","107","1847",gcc-81443
+gcc-150554,A,Compositae,,Scorzonera,,"graminifolia",,"","L.",Accepted,,M,TICA,761344A0-97CD-4776-B981-7145FE232662,243192-1,"""C. von Linnaeus, Sp. Pl.. 1753""","","791","1753",
+gcc-19938,A,Compositae,,Scorzonera,,"graminifolia",,"","Schur",Synonym,Invalid,M,TICA,0DB645F4-354A-4BE6-911F-24DB2A56E35E,243188-1,"","","362","1866",gcc-11781
+gcc-28373,A,Compositae,,Scorzonera,,"graminifolia",,"","Griseb.",Synonym,Invalid,M,TICA,2C08A274-79E4-413E-9FE0-346618549068,,"","","263","1846",gcc-112106
+gcc-86710,A,Compositae,,Scorzonera,,"graminifolia",,"","All.",Unresolved,,L,TICA,8B646810-8348-4562-9350-7B854900C980,,"","","","1785",
+gcc-148128,A,Compositae,,Scorzonera,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,A3F6F019-67A4-422D-9635-3C3AA1C3574B,,"","","","",gcc-86710
+gcc-146175,A,Compositae,,Scorzonera,,"graminifolia",var.,"intermedia","Rouy",Synonym,,L,TICA,26C8F106-5214-4D54-9728-13052E262467,,"""Rouy in Rev. Sci. Nat. Montpellier, ser. 3 1. 1883""","","72","1883",gcc-150554
+gcc-153176,A,Compositae,,Scorzonera,,"graminifolia",var.,"latifolia","Ledeb.",Synonym,,L,TICA,31C18315-CBD4-4D38-B8A1-A8D2DEAC4BF7,,"""C.F. von Ledebour, Fl. Altaic. 4. 1833""","","161","1833",gcc-11781
+gcc-147522,A,Compositae,,Scorzonera,,"graminifolia",var.,"major","Willk.",Synonym,,L,TICA,026D194D-2C5F-438D-A131-2F3B7475A2B5,,"""Willk. - in Willkomm & Lange, Prodr. Fl. Hisp. 2. 1865""","","224","1865",gcc-150554
+gcc-147809,A,Compositae,,Scorzonera,,"graminifolia",var.,"minor","Willk.",Synonym,,L,TICA,D57B3C69-D86B-4882-BAF5-35ADC9ADC96D,,"""Willk. - in Willkomm & Lange, Prodr. Fl. Hisp. 2. 1865""","","224","1865",gcc-37577
+gcc-9777,A,Compositae,,Scorzonera,,"grandiflora",,"","Lapeyr.",Synonym,Illegitimate,M,TICA,A18C540C-AE26-4352-B660-1245F34A6C52,243198-1,"Hist. Pl. Pyrenées 457. 1813","","457","1813",gcc-139645
+gcc-802,A,Compositae,,Scorzonera,,"grigoraschvilii",,"","(Sosn.) Lipsch.",Synonym,,M,TICA,EC0B3919-1101-431C-8A04-0180358B3331,243199-1,"","","48","1964",gcc-8240
+gcc-96234,A,Compositae,,Scorzonera,,"grossheimii",,"","Lipsch. & Vassilcz.",Synonym,,L,TICA,7321FEA1-F989-421D-A692-9110F8ED7428,243200-1,"","","718","1964",gcc-40029
+gcc-126499,A,Compositae,,Scorzonera,,"grubovii",,"","Lipsch.",Accepted,,M,TICA,A7F4A2B4-E39D-4D7A-9803-D57851475737,898706-1,"Novosti Sist. Vyssh. Rast. 18: 229 (1981)","","229","1981",
+gcc-18872,A,Compositae,,Scorzonera,,"halophila",,"","Fisch. & C.A.Mey.",Unresolved,,L,TICA,CDC34FB2-DFAC-418D-A5B1-22D6D9273E98,243201-1,"Prodr. (DC.) 7(1): 122","","122","1838",gcc-31733
+gcc-94273,A,Compositae,,Scorzonera,,"helodes",,"","Rech.f.",Accepted,,M,TICA,3FDA1DF8-681A-42AF-AAC1-8C9B4F54EA4D,243202-1,"""in Fl. Iran., 122: 76 (1977).""","","76","1977",
+gcc-90822,A,Compositae,,Scorzonera,,"hemilasia",,"","Bunge",Synonym,,M,TICA,80BC94B7-4538-47D8-97A3-84FB7C180102,927989-1,"","","201","1852",gcc-116914
+gcc-149406,A,Compositae,,Scorzonera,,"hemilasia",var.,"hemilasia","",Synonym,,L,TICA,2927F9C1-1718-45D0-B05C-5804EBFCBB04,,"","","","",gcc-116914
+gcc-151334,A,Compositae,,Scorzonera,,"hemilasia",var.,"intermedia","(Bunge) Boiss.",Synonym,,L,TICA,06253707-98C1-4563-8CAD-8272EE67DC04,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","782","1875",gcc-116914
+gcc-45101,A,Compositae,,Scorzonera,,"heterophylla",,"","Pomel",Synonym,,M,TICA,1FEAC65C-C12E-4FF4-BB90-539BD905BE0B,243204-1,"","","265","1875",gcc-112106
+gcc-122634,A,Compositae,,Scorzonera,,"hieraciifolia",,"","Hayek",Accepted,,M,TICA,A7880FE2-F4D3-44F8-AF8B-CC752DBBD59C,,"","","426","1907",
+gcc-113690,A,Compositae,,Scorzonera,,"hirsuta",,"","(Gouan) L.",Synonym,,M,TICA,602B6977-91BA-4C1E-98BB-B8323084D57A,243207-1,"","","278","1771",gcc-108947
+gcc-41664,A,Compositae,,Scorzonera,,"hirsuta",,"","Pett. ex Nyman",Synonym,,M,TICA,59F5EAB0-403C-440E-B449-4D25EDAB5BA0,243206-1,"Consp. 465.","","465","1879",gcc-81443
+gcc-80660,A,Compositae,,Scorzonera,,"hispanica",,"","L.",Accepted,,M,TICA,15CDE7BF-30A4-4E42-AF1E-6E0F64A37F35,243208-1,"Sp. Pl.","","791","1753",
+gcc-63227,A,Compositae,,Scorzonera,,"hispanica",subsp.,"asphodeloides","(Wallr.) Arcang.",Accepted,,L,TICA,7D1D1C28-A50F-4521-A544-B5316AABCC7A,,"Arcang.. 1882.","","421","1882",
+gcc-63072,A,Compositae,,Scorzonera,,"hispanica",subsp.,"coronopifolia","(Desf.) Rouy",Accepted,,L,TICA,D46DB133-4D14-4B04-9A7C-B3ED818B0F9D,,"""Rouy, Naturaliste, ser. 2, 12. 1890.""","","84","1890",
+gcc-53256,A,Compositae,,Scorzonera,,"hispanica",subsp.,"crispatula","(DC.) Nyman",Accepted,,L,TICA,AE92D2D3-A411-4C1E-854A-64E275BEC6EE,,"""Nyman, Consp. Fl. Eur. 1879.""","","464","1879",
+gcc-62645,A,Compositae,,Scorzonera,,"hispanica",var.,"crispatula","DC.",Synonym,,L,TICA,BDF1D492-8F18-440F-8242-B07B89B53874,,"","","","",gcc-54075
+gcc-61401,A,Compositae,,Scorzonera,,"hispanica",subsp.,"glastifolia","(Willd.) Arcang.",Synonym,,L,TICA,A37538EB-FBD7-4182-9CD3-A641EE489E16,,"Arcang.. 1882.","","421","1882",gcc-80660
+gcc-153965,A,Compositae,,Scorzonera,,"hispanica",var.,"hispanica","",Synonym,,L,TICA,7D9778F2-286E-4AEB-9CB4-B9562B637F7B,,"","","","",gcc-80660
+gcc-71956,A,Compositae,,Scorzonera,,"hispanica",subsp.,"hispanica","",Synonym,,L,TICA,393A5B03-8084-49BC-91FF-FA316C308ED7,,"","","","",gcc-80660
+gcc-54075,A,Compositae,,Scorzonera,,"hispanica",subsp.,"neapolitana","(Grande) Greuter",Accepted,,L,TICA,F266350A-800E-4071-A544-6B3DF76C8FA7,,"","","236","2003",
+gcc-156063,A,Compositae,,Scorzonera,,"hispanica",subsp.,"strictiformis","(Domin) Soó",Synonym,,L,TICA,1036D860-938A-4AB9-B96C-E5CD46F0CA3A,,"","","","",gcc-80660
+gcc-69232,A,Compositae,,Scorzonera,,"hispanica",subsp.,"taurica","(M.Bieb.) Tzvelev",Synonym,,L,TICA,505F24D1-2A1D-4F7C-86C6-E4DC3EF6CFFA,,"","","","",gcc-63227
+gcc-64224,A,Compositae,,Scorzonera,,"hispanica",subsp.,"trachysperma","(Fiori) Maire & Weiller",Accepted,,L,TICA,AA39BD92-6DEA-44C3-9B15-BCCAA09BBF26,,"Maire & Weiller in Bull. Soc. Hist. Nat. Afrique N. 30. 1939.","","290","1939",
+gcc-69357,A,Compositae,,Scorzonera,,"hispanica",var.,"trachysperma","(Guss.) Fiori",Synonym,,L,TICA,52AEC6F5-66A2-43BF-A050-E5A94BDCAD8C,,"","","","",gcc-54075
+gcc-51320,A,Compositae,,Scorzonera,,"hispida",,"","M.Bieb.",Synonym,,M,TICA,A4AA87EE-FD51-4044-9351-5F30887A0BD4,243209-1,"Casp. App. 210.","","210","1798",gcc-80247
+gcc-82495,A,Compositae,,Scorzonera,,"hispida",,"","Forssk.",Accepted,,M,TICA,ECFE7336-3290-450B-8343-7233D75F35C8,243210-1,"Fl. Aegypt.-Arab. 215.","","215","1775",
+gcc-108659,A,Compositae,,Scorzonera,,"hispidula",,"","(Delile) Spreng.",Synonym,,M,TICA,918D5C6A-6C53-46A5-B303-ACCE70CF6EC9,243211-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 667","","667","1826",gcc-131362
+gcc-113030,A,Compositae,,Scorzonera,,"hissariae",,"","C.Winkl.",Unresolved,,L,TICA,2EDAF710-168B-4E8A-87BE-B6BBB60D79FC,,"Act. Hort. Petrop. xi. (1889) 172.","","172","",
+gcc-77161,A,Compositae,,Scorzonera,,"hissarica",,"","C.Winkl.",Accepted,,M,TICA,F4FB06FC-B3AB-4BB6-B0D6-664341FC9914,,"Trudy Imp. S.-Petersburgsk. Bot. Sada 11","","172","1889",
+gcc-36963,A,Compositae,,Scorzonera,,"hoffmannseggiana",,"","P.Silva",Synonym,,M,TICA,FDE61192-00FB-4B96-B277-447AE29CACF0,243213-1,"","","38","1980",gcc-132237
+gcc-37823,A,Compositae,,Scorzonera,,"hondae",,"","Kitam.",Accepted,,M,TICA,86A1C11D-96FD-42E1-8C8E-46255D2ACFBE,243214-1,"Acta Phytotax. Geobot. xix. 105 (1963)","","105","1963",
+gcc-116818,A,Compositae,,Scorzonera,,"hoppeana",,"","Sieber ex Rchb.",Synonym,Invalid,M,TICA,214E57B7-9C69-40B0-97B7-BF4BB4FD04CA,243215-1,"Fl. Germ. Excurs. 276","","276","",gcc-139645
+gcc-127738,A,Compositae,,Scorzonera,,"hotanica",,"","C.H.An",Accepted,,M,TICA,6800FCED-8024-4CD6-B3A8-D865FCA35964,1017281-1,"""in Fl. Xinjiangensis, 5: 479 (1999)""","","479","1999",
+gcc-151361,A,Compositae,,Scorzonera,,"humifusa",,"","J.Woods",Accepted,,M,TICA,E2BAE6A0-EF9A-44E3-9622-82E33B4B8AB8,243216-1,"""J. Woods in J. Proc. Linn. Soc., Bot. 2. 1858""","","120","1858",
+gcc-1269,A,Compositae,,Scorzonera,,"humilis",,"","Jacq.",Unresolved,,L,TICA,E8572A4C-0E2B-475C-8B77-0251E0085E22,,"Fl. Austr. t. 36.","","t. 36","",
+gcc-35362,A,Compositae,,Scorzonera,,"humilis",,"","L.",Accepted,,M,TICA,05D4A5D7-9A85-4B7F-9EF2-4192BB62F345,243218-1,"","","790","1753",
+gcc-148952,A,Compositae,,Scorzonera,,"humilis",var.,"humilis","",Synonym,,L,TICA,6CC2DD8E-59DA-46E1-AB2E-4E6C0D06642D,,"","","","",gcc-35362
+gcc-151783,A,Compositae,,Scorzonera,,"humilis",subsp.,"humilis","",Synonym,,L,TICA,668B662E-6332-4CCF-835B-8C21277B0C94,,"","","","",gcc-35362
+gcc-55505,A,Compositae,,Scorzonera,,"humilis",var.,"linearifolia","DC.",Synonym,,L,TICA,A590D6CA-F0D9-42DF-ABA4-76819FE420BB,,"Prodromus Systematis Naturalis Regni Vegetabilis 7(1):","","120","1838",gcc-11781
+gcc-15466,A,Compositae,,Scorzonera,,"humilis",subsp.,"parviflora","(Jacq.) H.J.Coste",Synonym,,L,TICA,B2A53C42-0852-43AD-A9DB-1CA439950346,,"""Kotschy, Fl. Ill. France 3. 1906.""","","722","1906",gcc-31733
+gcc-57112,A,Compositae,,Scorzonera,,"humilis",subsp.,"tenuifolia","(DC.) Arcang.",Synonym,,L,TICA,67A94F52-29BC-46DA-A666-83BEDF4737E9,,"Arcang.. 1882.","","421","1882",gcc-35362
+gcc-41301,A,Compositae,,Scorzonera,,"idaea",,"","(Gand.) Lipsch.",Synonym,,M,TICA,6C837E4C-8A39-41C3-AF91-4C840FB18106,243221-1,"","","11","1939",gcc-902
+gcc-12988,A,Compositae,,Scorzonera,,"ikonnikovii",,"","Lipsch. ex Lipsch. & Krasch.",Accepted,,M,TICA,9A900635-E668-4265-81D7-18333E7BDD20,243222-1,"""Lipschitz, Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 109 (1935).""","","109","1935",
+gcc-151477,A,Compositae,,Scorzonera,,"ikonnikovii",,"","Krasch. & Lipsch.",Unresolved,,L,TICA,88C3EEB5-F7A7-44EF-BD1C-8543526F710C,243222-1,"""Krasch. & Lipsch. - in S.J. Lipschitz, Fragm. Monogr. Scorzonera 1. 1935""","","109","1935",
+gcc-132034,A,Compositae,,Scorzonera,,"iliensis",,"","Krasch.",Accepted,,M,TICA,49A587A4-28DF-490B-92FC-E2545521DC36,243223-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 178 (1933)""","","178","1933",
+gcc-117417,A,Compositae,,Scorzonera,,"inaequiscapa",,"","Boiss. ex Boiss.",Accepted,,M,TICA,9D96AF5B-81A9-406A-BA80-C09BC5873578,243224-1,"","","762","1875",
+gcc-116642,A,Compositae,,Scorzonera,,"incana",,"","Fisch. ex Lipsch.",Synonym,,M,TICA,4B8168A2-D43D-4244-86E0-BEE00579EFBF,,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 36, 153(1935), in syn.""","","","1935",gcc-119770
+gcc-95104,A,Compositae,,Scorzonera,,"incisa",,"","DC.",Accepted,,M,TICA,93104389-97DB-4F6B-A7F0-8E88B40503F2,243226-1,"","","119","1838",
+gcc-5864,A,Compositae,,Scorzonera,,"inconspicua",,"","Lipsch.",Accepted,,M,TICA,5A443267-6686-4BBB-AF51-0AE88EA79558,,"""in Bull. Soc. Nat. Mosc. 1933, n. s. xlii. 128, 139.""","","","1933",
+gcc-79703,A,Compositae,,Scorzonera,,"inconspicua",,"","Lipsch. ex Pavl.",Unresolved,,L,TICA,1FE86943-FB96-4EFC-BB44-6BFB34AEDEFF,,"","","139","1933",
+gcc-83708,A,Compositae,,Scorzonera,,"intermedia",,"","(DC.) Guss.",Synonym,,M,TICA,901B7AA2-89A5-4152-9216-74DEE1B964FF,,"","","386","1844",gcc-132237
+gcc-90963,A,Compositae,,Scorzonera,,"intermedia",,"","Bunge",Synonym,,M,TICA,0C84A705-60F2-4C30-8D3A-8543724BE82E,,"","","201","",gcc-116914
+gcc-109499,A,Compositae,,Scorzonera,,"intricata",,"","Boiss.",Accepted,,M,TICA,40EFCD36-C564-4343-919A-AECA67F4A3BB,,"","","9","1846",
+gcc-156330,A,Compositae,,Scorzonera,,"intricata",var.,"intricata","",Synonym,,L,TICA,A4876BDB-38F2-4E5A-B250-EAFB2001A939,,"","","","",gcc-109499
+gcc-151300,A,Compositae,,Scorzonera,,"intricata",var.,"petraea","Nábělek",Synonym,,L,TICA,AF02206C-02AC-46D2-964A-81A9001D07D5,,"","","","",gcc-143242
+gcc-83435,A,Compositae,,Scorzonera,,"inula",,"","Lipsch.",Synonym,,M,TICA,C93DAC39-284D-4EB1-A8D1-744967007FB5,,"""Syst. Notiz. Asiat. Scorzon. 19 (1932); Lipschitz in Fedde, Repert. xxxiii. 166.(1933).""","","","",gcc-104583
+gcc-5759,A,Compositae,,Scorzonera,,"isophylla",,"","Post",Accepted,,M,TICA,CDDB1960-6893-4778-A989-0AB63E9628F6,243232-1,"","","13","1892",
+gcc-33539,A,Compositae,,Scorzonera,,"ispahanica",,"","Boiss.",Accepted,,M,TICA,1A17B9EF-2FFA-4F2B-AA5F-3E2D38C94ED2,,"""Diagn. Pl. Orient. ser. 1, 7: 7""","","7","1846",
+gcc-128472,A,Compositae,,Scorzonera,,"jacquiniana",,"","(W.D.J.Koch) Boiss.",Synonym,,L,TICA,F6DD1797-E8D4-49B3-A848-DA1633A69C2A,243234-1,"","","757","1875",gcc-143238
+gcc-35281,A,Compositae,,Scorzonera,,"jacquiniana",,"","Beck",Unresolved,,L,TICA,2D02DC99-33C4-4A49-BD73-41691C0E16D3,243235-1,"Fl. Nieder-Osterreich ii. (1893) 1324.","","ii.  1324","1893",
+gcc-116010,A,Compositae,,Scorzonera,,"joharchii",,"","S.R.Safavi",Unresolved,,L,TICA,E215D5BC-8001-477D-9470-BD77AB82F066,77078076-1,"Nordic J. Bot. 24(3): 261 (-263; figs. 1-2)","","261 (-263; figs. 1-2)","2006",
+gcc-146988,A,Compositae,,Scorzonera,,"joharchii",,"","S. R. Safavi",Accepted,,M,TICA,7E101E30-B6B5-4C51-BFB8-245B23285DFA,,"S. R. Safavi in Nordic J. Bot. 24. 2006","","261","2006",
+gcc-17702,A,Compositae,,Scorzonera,,"judaica",,"","Eig",Synonym,,M,TICA,F2012CBD-8B92-417C-852F-20AB16BBD93C,895824-1,"","","399","1931",gcc-80235
+gcc-34511,A,Compositae,,Scorzonera,,"julia",,"","Vest",Synonym,,M,TICA,8C9B178F-63AD-4BF6-87C2-3FF620F26C1A,,"""in Flora, iii. (1820) 6.""","","","1820",gcc-81443
+gcc-111860,A,Compositae,,Scorzonera,,"juncea",,"","Hochst. ex Steud.",Unresolved,,L,TICA,AF960E88-E7DE-4DFA-9160-B41D2C09485A,243238-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 366, in syn.""","","366","1841",
+gcc-156834,A,Compositae,,Scorzonera,,"juncea",,"","Lipsch.",Synonym,,M,TICA,6BE2BE7A-6FE4-41AD-99D3-F51FC20CA57C,,"""Lipschitz, Sergej Julievitsch  in Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 42. 1933""","","157","1933",gcc-52528
+gcc-128357,A,Compositae,,Scorzonera,,"kandavanica",,"","Rech.f.",Accepted,,M,TICA,6C0FD7DD-3170-4D14-B0B4-D9DA5B8C90E4,243239-1,"""in Fl. Iran., 122: 30 (1977).""","","30","1977",
+gcc-87667,A,Compositae,,Scorzonera,,"karabelensis",,"","Parolly & N.Kilian",Accepted,,M,TICA,F7BC45E7-4F2B-4C8E-9A32-7DC4964B84EF,,"","","328","2003",
+gcc-128167,A,Compositae,,Scorzonera,,"karataviensis",,"","Kult.",Accepted,,M,TICA,8762E63B-517B-4023-BFB5-D960CA4CD1E6,243240-1,"Tau-Sagyz Ekol. Osnov. Vved. Kult. 67","","","1938",
+gcc-110358,A,Compositae,,Scorzonera,,"karjaginii",,"","Grossh.",Synonym,,M,TICA,0AB2A9BF-2B22-4F5A-8B0B-B0B32978D795,,"","","52","1932",gcc-95104
+gcc-42450,A,Compositae,,Scorzonera,,"kenisaea",,"","Boiss.",Synonym,,M,TICA,18AE8799-B2F4-4CC3-8B49-4E9D85E77532,243242-1,"","","321","1888",gcc-19344
+gcc-96263,A,Compositae,,Scorzonera,,"ketzkhovelii",,"","Sosn. ex Grossh. & Sosn.",Unresolved,,L,TICA,30E7664F-E8B8-4405-A334-9122782BC599,243243-1,"""in Trav. Inst. Bot. Tbilissi, Acad. Sc. URSS, Fil. Georgienne, ii. 219 (1938),latine.""","","""ii. 219 ,latine.""","1938",
+gcc-80433,A,Compositae,,Scorzonera,,"ketzkhowelii",,"","Sosn. ex Grossh.",Accepted,,M,TICA,D4B1E203-05F4-4718-85D7-6D9564FF9389,,"","","","1934",
+gcc-3532,A,Compositae,,Scorzonera,,"kirghisorum",,"","Afan.",Synonym,,M,TICA,E2C8324C-F4DB-4082-9A41-067FBA032184,,"""in Compt. Rend. (Doklady) Acad. Sc. URSS n.s., 1938, xviii. 481, in obs.,anglice.""","","","1938",gcc-36225
+gcc-30623,A,Compositae,,Scorzonera,,"kirpicznikovii",,"","Lipsch.",Synonym,,L,TICA,52B887B0-F6B6-42A9-8259-38B1C5EDD4DE,243246-1,"","","719","1964",gcc-76586
+gcc-31669,A,Compositae,,Scorzonera,,"koeieana",,"","Rech.f.",Synonym,,M,TICA,192CA47B-89E3-468A-9E80-3AB2A29D5EC1,,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. 11.) 194(1955).""","","","",gcc-76207
+gcc-108201,A,Compositae,,Scorzonera,,"koelpinioides",,"","Rech.f.",Accepted,,M,TICA,A3AC0056-DEED-429F-BD1D-ABC60FE3905F,243248-1,"","","53","1977",
+gcc-102282,A,Compositae,,Scorzonera,,"korschinskyi",,"","Lipsch.",Synonym,,M,TICA,EF495B22-B86E-434B-8100-9EBB95A0ED7F,,"""Syst. Notiz. Asiat. Scorzon. 18 (1932); Lipschitz in Fedde, Repert. xxxiii. 165(1933).""","","","",gcc-118269
+gcc-41212,A,Compositae,,Scorzonera,,"kotschyi",,"","Boiss.",Accepted,,M,TICA,9998B4A3-4978-4C8A-B968-4C5FA58A3FBA,243251-1,"Fl. Orient. [Boissier] 3","","780","1875",
+gcc-97395,A,Compositae,,Scorzonera,,"kozlowskyi",,"","Sosn. ex Grossh.",Accepted,,M,TICA,CB970157-BFF1-4BDC-8839-93C57F294997,,"""Fl. Kavkaza, iv. 241 (1934).""","","","1934",
+gcc-41537,A,Compositae,,Scorzonera,,"kuhistanica",,"","Popov",Unresolved,Invalid,L,TICA,BB469EB1-4B34-43E4-A042-4CED2BAE3FFD,,"","","94","1941",
+gcc-85016,A,Compositae,,Scorzonera,,"kultiassovi",,"","Lipsch.",Unresolved,,L,TICA,9094A5B9-C549-4385-A3B4-77BB7CF1ED82,243253-1,"""in Sovietsk. Bot. 1934, No. 1, 29, in obs., nomen.""","","""No. 1, 29, in obs., nomen.""","1934",
+gcc-101924,A,Compositae,,Scorzonera,,"kurdica",,"","Boiss. & Noë",Synonym,,M,TICA,08C446B7-0A65-4251-BD80-9DDA6597FFF8,,"""Diagn. Pl. Orient. ser. 2, 3: 93""","","93","1856",gcc-39392
+gcc-86702,A,Compositae,,Scorzonera,,"lacera",,"","Boiss. & Balansa",Accepted,,M,TICA,4B16E134-39A3-4EF2-88F7-7B818D75064F,,"","","116","1856",
+gcc-91564,A,Compositae,,Scorzonera,,"lachnostegia",,"","(Woronow) Lipsch.",Synonym,,M,TICA,31DC2334-760F-4B1B-8DA5-86A6D4FA566C,243256-1,"","","11","1939",gcc-141859
+gcc-123829,A,Compositae,,Scorzonera,,"laciniata",,"","Vahl ex DC.",Unresolved,,L,TICA,557389FB-1876-41DD-83D8-CF4D027DD6D1,243257-1,"Prodr. (DC.) 7(1): 123","","123","1838",
+gcc-147389,A,Compositae,,Scorzonera,,"laciniata",,"","Vahl",Synonym,,M,TICA,2B72CA50-374B-4323-917B-2C81877309CC,,"","","","",gcc-63072
+gcc-46236,A,Compositae,,Scorzonera,,"laciniata",,"","Jacq.",Accepted,,M,TICA,EBE42713-15BA-4962-A450-55B2122654E1,,"Fl. Austr. t. 356.","","t. 356","",
+gcc-7167,A,Compositae,,Scorzonera,,"laciniata",,"","L.",Synonym,,M,TICA,6E7CFA19-D61E-40F0-8144-0D5582B397DD,243258-1,"Sp. Pl.","","791","1753",gcc-132237
+gcc-32132,A,Compositae,,Scorzonera,,"laciniata",subsp.,"calcitrapifolia","(Vahl) Maire",Synonym,,L,TICA,DB0160C4-5541-46A5-9E99-3B84B8EB3524,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 22. 1931.","","302","1931",gcc-53853
+gcc-30887,A,Compositae,,Scorzonera,,"laciniata",subsp.,"decumbens","(Guss.) Greuter",Synonym,,L,TICA,265775BF-2A24-49F3-9B7B-392EF77360C0,,"","","237","2003",gcc-53853
+gcc-58893,A,Compositae,,Scorzonera,,"laciniata",var.,"intermedia","(Guss.) DC.",Synonym,,L,TICA,79372534-0C90-4E0F-A6B1-9231D2439602,,"","","","",gcc-53853
+gcc-147998,A,Compositae,,Scorzonera,,"laciniata",f.,"laciniata","",Synonym,,L,TICA,1D6DDD38-8B0D-4FFB-A51A-39A9253143E5,,"","","","",gcc-46236
+gcc-154307,A,Compositae,,Scorzonera,,"laciniata",subsp.,"laciniata","",Synonym,,L,TICA,EC8C5265-CC64-4607-8494-C0F3369F4058,,"","","","",gcc-132237
+gcc-54115,A,Compositae,,Scorzonera,,"laciniata",var.,"mixta","Maire & Wilczek",Synonym,,L,TICA,A364CBD7-221E-4153-8540-6B9AD47C57F4,,"","","","",gcc-53853
+gcc-55891,A,Compositae,,Scorzonera,,"laciniata",var.,"octangularis","(Willd.) Maire",Synonym,,L,TICA,DB1F3849-16DF-494F-B7B1-79DDFC6EDBFE,,"","","","",gcc-53853
+gcc-8308,A,Compositae,,Scorzonera,,"lamellata",,"","Krasch.",Accepted,,M,TICA,1514FF1E-33B8-41A3-98CC-0F743F8C1432,243260-1,"","","180","1933",
+gcc-116948,A,Compositae,,Scorzonera,,"lanata",,"","M.Bieb.",Accepted,,M,TICA,BBFB9899-7956-4B75-B0A9-BF925F55C4CE,,"Fl. Taur.-Caucas. ii. 237.","","","1808",
+gcc-43259,A,Compositae,,Scorzonera,,"lanata",,"","Schrank",Unresolved,,L,TICA,5C4FD59F-25A0-439C-9F52-5028FD8452D5,243262-1,"Baier. Fl.","","306","1789",
+gcc-98864,A,Compositae,,Scorzonera,,"lanata",,"","(L.) Hoffm.",Synonym,,M,TICA,88AE16CB-6CF1-4BF4-B9F9-970E93844AB1,,"Hoffm. in Commentat. Soc. Phys.-Med. Univ. Lit. Caes. Mosq. 1. 1806.","","9","1806",gcc-106921
+gcc-151040,A,Compositae,,Scorzonera,,"lanigera",,"","Tchich.",Synonym,,M,TICA,ABC34FFC-4AA9-403B-8B00-7BE99C892AD4,,"""Tchich., Asie Min., Bot. 2. 1860""","","366","1860",gcc-128575
+gcc-95485,A,Compositae,,Scorzonera,,"lanigera",,"","Fisch. & Mey.",Unresolved,,L,TICA,445AB458-5D86-4FCD-8235-8F7E795A0618,243263-1,"""Asie Min., Bot. (P.A. Tchichatscheff) ii. 366.""","","366","1860",
+gcc-48183,A,Compositae,,Scorzonera,,"lanuginosa",,"","Baumg.",Synonym,,M,TICA,A52DE648-470C-4FBB-9467-594DBDBA990D,,"Enum. Stirp. Transs. iii. 9.","","","1817",gcc-35362
+gcc-142245,A,Compositae,,Scorzonera,,"lasiocarpa",,"","D.F.Chamb.",Accepted,,M,TICA,F223ABD1-3B8F-4F33-9594-F9383348E35C,,"","","255","1974",
+gcc-10323,A,Compositae,,Scorzonera,,"lasiospora",,"","Boiss. & Balansa",Synonym,,M,TICA,1CBC7B2C-ABF9-4E7C-9FF4-13486AD82EF9,,"""Diagn. Pl. Orient. ser. 2, 6: 118""","","118","1859",gcc-19344
+gcc-110447,A,Compositae,,Scorzonera,,"lassitica",,"","Vierh.",Synonym,,M,TICA,2287BFC6-5561-4929-8D2B-B0EA03CE2FBA,243267-1,"","","63","1915",gcc-96312
+gcc-106449,A,Compositae,,Scorzonera,,"latibracteata",,"","Sennen & Elias",Synonym,,M,TICA,7370F195-B311-454B-9DB0-A7D494F3549D,,"""in Bol. Soc. Iber. 1929, xxviii. 168 (1930).""","","","",gcc-80660
+gcc-101097,A,Compositae,,Scorzonera,,"latifolia",,"","Vis.",Synonym,Invalid,M,TICA,08B7E007-B80A-487A-B1BE-9C140DCF1EF3,,"","","","",gcc-11781
+gcc-19344,A,Compositae,,Scorzonera,,"latifolia",,"","(Fisch. & C.A.Mey.) DC.",Accepted,,M,TICA,F212DF1F-8006-4E23-B0BD-23C1EFB1715C,243269-1,"","","124","1838",
+gcc-146178,A,Compositae,,Scorzonera,,"latifolia",var.,"abbreviata","Lipsch.",Synonym,,L,TICA,55CFF947-F4C7-4D30-8C11-130C34B34BFE,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 1. 1935""","","136","1935",gcc-19344
+gcc-155464,A,Compositae,,Scorzonera,,"latifolia",var.,"angustifolia","Lipsch.",Synonym,,L,TICA,0FDF5F01-A0C4-4567-B163-D8D3032A3462,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 1. 1935""","","136","1935",gcc-19344
+gcc-153071,A,Compositae,,Scorzonera,,"latifolia",var.,"glabrata","Trautv.",Synonym,,L,TICA,EBAB28CB-97DF-4CBA-BBA1-A68F45B24688,,"Trautv. in Trudy Imp. S.-Peterburgsk. Bot. Sada 2. 1873","","559","1873",gcc-19344
+gcc-152963,A,Compositae,,Scorzonera,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,D8430969-0DBD-40A2-AC06-A4583BADDFEB,,"","","","",gcc-19344
+gcc-156550,A,Compositae,,Scorzonera,,"latifolia",var.,"macrophylla","Lipsch.",Synonym,,L,TICA,32547048-4607-421A-A178-EFAB175BECA7,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 1. 1935""","","136","1935",gcc-19344
+gcc-153802,A,Compositae,,Scorzonera,,"latifolia",var.,"media","Lipsch.",Synonym,,L,TICA,FD1BB83F-8910-43EC-A32A-B589B74C4D06,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 1. 1935""","","136","1935",gcc-19344
+gcc-152308,A,Compositae,,Scorzonera,,"latifolia",var.,"typica","Trautv.",Synonym,,L,TICA,BC97AEE3-E53D-4314-99BB-96EAFB717750,,"Trautv. in Trudy Imp. S.-Peterburgsk. Bot. Sada 2. 1873","","559","1873",gcc-19344
+gcc-8636,A,Compositae,,Scorzonera,,"lawrencii",,"","Hook.f.",Synonym,,M,TICA,C9F8BF5D-0D7A-494D-9DE7-10204D5FD128,73097-3,"","","","1847",gcc-122344
+gcc-129402,A,Compositae,,Scorzonera,,"leptoclada",,"","Hausskn. & Bornm. ex Bornm.",Synonym,,M,TICA,92B1B481-32C2-48DC-A5C4-DC2FBFEECF49,,"""in Mitth. Bot. Ver. Jena, N. Folge, vi. (1894) 66.""","","","1894",gcc-51150
+gcc-19226,A,Compositae,,Scorzonera,,"leptophylla",,"","(DC.) Krasch. & Lipsch.",Accepted,,M,TICA,F53D1A90-4C3E-4A2E-BD2D-2383E65CE03B,243273-1,"""Lipschitz, Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 78 (1935).""","","78","1935",
+gcc-24714,A,Compositae,,Scorzonera,,"leptophylla",,"","(DC.) Grossh.",Unresolved,,L,TICA,785AFD57-922D-4F01-89C7-2DA47BC59D22,,"""Grossh., Fl. Kavk. 4. 1934.""","","239","1934",
+gcc-37170,A,Compositae,,Scorzonera,,"libanotica",,"","Boiss.",Accepted,,M,TICA,132586EE-A612-4281-86C7-44DC481643C1,,"","","43","1849",
+gcc-51276,A,Compositae,,Scorzonera,,"limnophila",,"","Boiss.",Accepted,,M,TICA,CCB9F34D-97D9-4529-A7D9-5F166ADBD7A3,,"","","7","1846",
+gcc-143023,A,Compositae,,Scorzonera,,"linarifolia",,"","Wender.",Synonym,,M,TICA,15BF1780-8DEB-4D87-8DF0-FAF42C338B1E,,"Fl. Hass. 265.","","","1846",gcc-80660
+gcc-47506,A,Compositae,,Scorzonera,,"lindbergii",,"","Rech.f.",Accepted,,M,TICA,A903E0AA-44E6-4D35-A362-5804BC020052,243277-1,"","","37","1962",
+gcc-4814,A,Compositae,,Scorzonera,,"lipschitzii",,"","(Kuth.) Czerep.",Synonym,,M,TICA,C309D19A-4C0A-483E-A6D7-08F5E70F915F,984676-1,"Sosud. Rast. SSSR: 94 (1981):.","","94","1981",gcc-77515
+gcc-30072,A,Compositae,,Scorzonera,,"lipskyi",,"","Lipsch.",Accepted,,M,TICA,8E56C9CA-D99B-46A7-97C2-37AA02755D91,243278-1,"","","15","1939",
+gcc-39511,A,Compositae,,Scorzonera,,"litwinowii",,"","Krasch. & Lipsch.",Accepted,,M,TICA,0F5271D5-F34B-4B43-B757-4951CBC1D6AE,243279-1,"","","153","1934",
+gcc-119203,A,Compositae,,Scorzonera,,"longiana",,"","Sümbül",Accepted,,M,TICA,3947A19C-D031-4B85-86B8-C4A3D595617A,958965-1,"","","35","1991",
+gcc-152313,A,Compositae,,Scorzonera,,"longifolia",,"","(Emb. & Maire) Greuter",Accepted,,M,TICA,E7F531FB-A61E-46E4-AE12-9703588B5E31,,"Greuter in Willdenowia 33. 2003","","237","2003",
+gcc-75763,A,Compositae,,Scorzonera,,"longipapposa",,"","Rech.f.",Accepted,,M,TICA,61943DDE-F8EA-42AE-B3D4-632DD1242EF1,243280-1,"","","53","1977",
+gcc-42710,A,Compositae,,Scorzonera,,"longipes",,"","Kult.",Synonym,,M,TICA,EFBFC026-BFF0-4A76-9060-4F1AA35A546D,243281-1,"","","","1938",gcc-36225
+gcc-20909,A,Compositae,,Scorzonera,,"longipes",var.,"kyzyl-kulensis","Kult.",Synonym,,L,TICA,B16992BE-F2D8-4581-984E-26AC37ABD39C,77085223-1,"Tau-Sagyz Ekol. Osnov. Vved. Kult. 71","","71","1938",gcc-36225
+gcc-149119,A,Compositae,,Scorzonera,,"longipes",var.,"longipes","",Synonym,,L,TICA,9F6D66F3-9774-4D5D-A8CA-51D6CE298DBA,,"","","","",gcc-36225
+gcc-19012,A,Compositae,,Scorzonera,,"longipes",var.,"tautaryensis","Kult.",Synonym,,L,TICA,9A9F1081-9EE9-4A3F-BFBF-2319AFAE0DAC,50994223-1,"Tau-Sagyz Ekol. Osnov. Vved. Kult. 70","","70","1938",gcc-36225
+gcc-109512,A,Compositae,,Scorzonera,,"lorea",,"","Griseb.",Synonym,,L,TICA,9AEC2F6E-DD50-41CD-B543-AED22489FC08,,"Spic. Fl. Rumel. ii. 263","","263","1846",gcc-143238
+gcc-82663,A,Compositae,,Scorzonera,,"luntaiensis",,"","C.Shih",Accepted,,M,TICA,4D204C38-8488-45D8-A350-728ED8DF7DC9,,"Acta Phytotax. Sin. 33(2): 197 (1995)","","197","1995",
+gcc-12817,A,Compositae,,Scorzonera,,"luristanica",,"","Rech.f.",Accepted,,M,TICA,FC48ACE2-9918-4994-8109-17E47D44E83B,243283-1,"","","266","1951",
+gcc-153573,A,Compositae,,Scorzonera,,"luristanica",var.,"lanata","S. R. Safavi",Synonym,,L,TICA,93CF3341-D29D-4DB9-A03C-B11E056E20C9,,"S. R. Safavi in Iranian J. Bot. 12. 2006","","60","2006",gcc-12817
+gcc-152603,A,Compositae,,Scorzonera,,"luristanica",var.,"luristanica","",Synonym,,L,TICA,DEA568E6-E4A3-4200-8465-9D15348E9B44,,"","","","",gcc-12817
+gcc-85088,A,Compositae,,Scorzonera,,"mackmeliana",,"","Boiss.",Accepted,,M,TICA,5BC157DA-CD5C-4370-B0F5-77E338313F11,,"","","44","1849",
+gcc-101531,A,Compositae,,Scorzonera,,"macrocephala",,"","DC.",Synonym,,L,TICA,7C80B07F-1223-471E-8C61-9CFFF3060AC4,243285-1,"","","122","1838",gcc-37577
+gcc-156829,A,Compositae,,Scorzonera,,"macrophylla",,"","Fisch. & C.A.Mey.",Synonym,,M,TICA,0749DC0F-F671-4988-A137-F4FF1BA43E32,243286-1,"""Fisch. & C. A. Mey., Enum. Pl. Nov. 1. 1841""","","39","1841",gcc-7186
+gcc-93741,A,Compositae,,Scorzonera,,"macrophylla",,"","Fisch. & Mey.",Unresolved,,L,TICA,BF3C3929-7DEE-4458-9F29-8B5AADA733EB,243286-1,"""in Schrenk, Enum. Pl. Nov. 39, in adnot.""","","""39, in adnot.""","",
+gcc-15732,A,Compositae,,Scorzonera,,"macrorhiza",,"","Schleich.",Synonym,,M,TICA,76697357-41B3-4C13-A37E-1D1F878A8271,243287-1,"""Cat. Pl. Helv., ed. 4. 32""","","32","1821",gcc-35362
+gcc-151381,A,Compositae,,Scorzonera,,"macrorhyncha",,"","James",Synonym,,M,TICA,68EB65B7-CF7E-4DD7-A10C-8345C72A009D,,"","","","",gcc-51946
+gcc-135835,A,Compositae,,Scorzonera,,"macrosperma",,"","Turcz.",Synonym,,M,TICA,E362EF5E-C5F2-4B44-A43C-EAD067E1B5C1,243288-1,"Prodr. (DC.) 7(1): 121","","121","1838",gcc-51946
+gcc-8337,A,Compositae,,Scorzonera,,"macrosperma",,"","Turcz. ex DC.",Synonym,,M,TICA,DA578F19-AB86-48E9-ACBE-0F83D1E41D5F,,"","","121","1838",gcc-51946
+gcc-74925,A,Compositae,,Scorzonera,,"macrosperma",f.,"angustifolia","Debeaux",Synonym,,L,TICA,CFE27F50-F7A9-47CC-A284-52E0B711B4C4,,"Actes de la Societe Linneenne de Bordeaux 31:","","227","1876",gcc-51946
+gcc-146089,A,Compositae,,Scorzonera,,"macrosperma",f.,"macrosperma","",Synonym,,L,TICA,682556EF-32CE-46C7-9250-1126B9BD27C7,,"","","","",gcc-51946
+gcc-137325,A,Compositae,,Scorzonera,,"manshurica",,"","Nakai",Accepted,,M,TICA,D4ADBB10-AA4F-4FB4-98C6-EE378578A0E6,,"""in Rep. Inst. Sc. Research Manchoukuo, i. 173 (1937).""","","173","1936",
+gcc-110979,A,Compositae,,Scorzonera,,"mariae",,"","Kult.",Synonym,,M,TICA,14535FC6-8DB4-416C-B17D-B2182ACC4BA2,243290-1,"Tau-Sagyz Ekol. Osnov. Vved. Kult. 59","","","1938",gcc-36225
+gcc-109987,A,Compositae,,Scorzonera,,"mariovoensis",,"","Micevski",Accepted,,M,TICA,0E6FCB21-32B2-4E3E-B9E1-AFDD315F8696,,"","","5","2003",
+gcc-76674,A,Compositae,,Scorzonera,,"marschalliana",,"","C.A.Mey. ex Bong. & Mey.",Unresolved,,L,TICA,98A08A05-7545-4F5D-B419-6534A0254B80,243291-1,"Verz. Pfl. Saisang-Nor 44.","","44","",
+gcc-87774,A,Compositae,,Scorzonera,,"marschalliana",,"","C.A.Mey.",Synonym,,M,TICA,3099C85B-04CC-441E-8479-7DFB6D51B3BF,,"","","44","1841",gcc-3818
+gcc-53274,A,Compositae,,Scorzonera,,"marschalliana",var.,"latifolia","Rupr.",Synonym,,L,TICA,F36FF3F6-9B6B-4FDD-A01B-6503C9C2A44C,,"17147+St. Petersb. Ser. 7+ 14(4):","","58","1869",gcc-79703
+gcc-152291,A,Compositae,,Scorzonera,,"marschalliana",var.,"marschalliana","",Synonym,,L,TICA,4D4A6F64-E362-478A-B90C-9666FB7D2F4E,,"","","","",gcc-3818
+gcc-58548,A,Compositae,,Scorzonera,,"marschalliana",var.,"oblongifolia","Trautv.",Synonym,,L,TICA,AF5865A6-BA36-4D00-9AF4-8FA07FC40A73,,"Bulletin de la societe imperiale des naturalistses de Moscou 39(2):","","383","1866",gcc-79703
+gcc-131105,A,Compositae,,Scorzonera,,"meshhedensis",,"","(Rech.f.) Rech.f.",Synonym,,M,TICA,D00CC57E-7738-4991-91B7-E01E1EA24BFE,243292-1,"","","25","1977",gcc-86723
+gcc-145155,A,Compositae,,Scorzonera,,"messeniaca",,"","Bory & Chaub.",Synonym,,L,TICA,936D01BD-BCC6-4D01-BF15-FFC9DC2E1629,,"","","231","1832",gcc-143238
+gcc-108043,A,Compositae,,Scorzonera,,"meyeri",,"","(K.Koch) Lipsch.",Synonym,,M,TICA,0CA22C35-6D1E-41AD-9AA3-AB7976CDB885,,"","","518","1961",gcc-38606
+gcc-139982,A,Compositae,,Scorzonera,,"microcalathia",,"","(Rech.f.) Rech.f.",Accepted,,M,TICA,DE8A62D1-59E0-418B-9836-F3F01125F90F,,"""in Anz. Osterr. Akad. Wiss., Mat.-Naturwiss. xcviii. 248 (1961).""","","","1961",
+gcc-128141,A,Compositae,,Scorzonera,,"mirabilis",,"","Lipsch.",Accepted,,M,TICA,2CE835F3-A8D2-42A8-A56F-D953A5BB3DAD,,"","","","1963",
+gcc-112106,A,Compositae,,Scorzonera,,"mollis",,"","M.Bieb.",Accepted,,M,TICA,9FDE604F-097F-4054-9C17-B4A8AE1F8300,243296-1,"","","522","1819",
+gcc-86793,A,Compositae,,Scorzonera,,"mollis",,"","Fisch. & Mey. ex DC.",Synonym,,M,TICA,4D3C2AC5-7A92-4AE4-8109-7BBA851A12E7,243297-1,"Prodr. (DC.) 7(1): 117","","117","1838",gcc-148242
+gcc-902,A,Compositae,,Scorzonera,,"mollis",subsp.,"idaea","(Gand.) Lack",Accepted,,L,TICA,F84F60AB-7D03-49C0-BE1B-01ADE379E2C7,970099-1,"","","534","1991",
+gcc-19698,A,Compositae,,Scorzonera,,"mollis",var.,"leptophylla","DC.",Unresolved,,L,TICA,6BC8C20C-4E04-4C41-B110-246EBA56DD7C,77070518-1,"Prodr. (DC.) 7(1): 122. 1838 [Apr 1838]","","122","1838",gcc-24714
+gcc-145525,A,Compositae,,Scorzonera,,"mollis",subsp.,"mollis","",Synonym,,L,TICA,1FBBB5F5-8AE9-420F-BB81-05C55798FE82,,"","","","",gcc-112106
+gcc-148572,A,Compositae,,Scorzonera,,"mollis",var.,"mollis","",Synonym,,L,TICA,630E4185-300A-45AB-8EAE-4595C3C3CB97,,"","","","",gcc-112106
+tro-2732224,A,Compositae,,Scorzonera,,"mollis",subsp.,"szovitzii","Chamberlain",Synonym,,L,TRO,2732224,,"","","","",tro-2732249
+gcc-2206,A,Compositae,,Scorzonera,,"mollis",subsp.,"szowitsii","(DC.) Chamberlain",Synonym,,L,TICA,5C7FD6EC-4855-4110-9A41-03FB57CB1A53,878246-1,"","","433","1975",gcc-148242
+gcc-148242,A,Compositae,,Scorzonera,,"mollis",subsp.,"szowitzii","(DC.) D.F.Chamb.",Accepted,,L,TICA,6B5B59EA-8E45-423B-A9D3-3E761E2DC498,,"D. F. Chamb. in Notes Roy. Bot. Gard. Edinburgh 33. 1975","","433","1975",
+gcc-142083,A,Compositae,,Scorzonera,,"mongolica",,"","Maxim.",Accepted,,M,TICA,8B334CAE-B22E-4A71-BFA5-F8DDECB33FC6,243298-1,"","","492","1888",
+gcc-155241,A,Compositae,,Scorzonera,,"mongolica",var.,"mongolica","",Synonym,,L,TICA,0E90EFC6-07C2-4566-AD8C-D3D2517DC25C,,"","","","",gcc-142083
+gcc-53379,A,Compositae,,Scorzonera,,"mongolica",var.,"putjatae","C.Winkl.",Synonym,,L,TICA,DE7C6D74-3D9A-4F62-A484-65C169E4A984,,"","","128","1898",gcc-142083
+gcc-146762,A,Compositae,,Scorzonera,,"mongolica",var.,"ramosa","Lipsch.",Synonym,,L,TICA,CEB1D2EC-4273-4D56-A118-1F4B80542B1F,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","133","1939",gcc-142083
+gcc-132451,A,Compositae,,Scorzonera,,"monocarpica",,"","Kitam.",Synonym,,M,TICA,51F6158E-B0BF-4B9E-9EA6-E34BB5346D20,243299-1,"Acta Phytotax. Geobot. xvii. 38 (1957)","","38","1957",gcc-102723
+gcc-78826,A,Compositae,,Scorzonera,,"montana",,"","Mutel",Synonym,,M,TICA,27ED0573-FC0B-4427-8339-6A11D89132BE,,"","","","1830",gcc-80660
+gcc-153262,A,Compositae,,Scorzonera,,"montana",var.,"baetica","DC.",Synonym,,L,TICA,DA333797-21A9-4666-A583-AAB9EF68F348,,"""A.P. de Candolle, Prodr. 7. 1838""","","121","1838",gcc-52166
+gcc-152831,A,Compositae,,Scorzonera,,"montana",var.,"montana","",Synonym,,L,TICA,A9312A27-26AE-4D0E-9D1F-A151A41019C7,,"","","","",gcc-80660
+gcc-139264,A,Compositae,,Scorzonera,,"mucida",,"","""Rech.f., Aellen & Esfand.""",Accepted,,M,TICA,75D99651-8D6F-485A-BD91-F25AE82DC992,243301-1,"Oesterr. Bot. Z. 97: 264","","264","1950",
+gcc-93360,A,Compositae,,Scorzonera,,"multiceps",,"","Freyn",Synonym,,M,TICA,E134E991-018E-497F-BF1D-8A9137CE0B0A,,"Bull. Herb. Boissier Ser. II. i. 272.","","272","1900",gcc-94155
+gcc-86314,A,Compositae,,Scorzonera,,"multifida",,"","Link ex Steud.",Accepted,,M,TICA,F0C6E636-C566-45D1-B1C0-7AA2B4958720,243303-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 546""","","546","1841",
+gcc-46488,A,Compositae,,Scorzonera,,"multiscapa",,"","Boiss.",Synonym,,M,TICA,E4DBFE59-8F7C-435C-822B-5621A2800F45,,"","","41","1849",gcc-41452
+gcc-155314,A,Compositae,,Scorzonera,,"multiscapa",var.,"compacta","Boiss.",Synonym,,L,TICA,8099457B-5BB0-479D-AAF2-D57FE258A442,,"""P.E. Boissier, Diagn. Pl. Orient. 11. 1849""","","42","1849",gcc-41452
+gcc-149369,A,Compositae,,Scorzonera,,"multiscapa",var.,"multiscapa","",Synonym,,L,TICA,E6425275-BAD5-45F2-B72E-574735C47027,,"","","","",gcc-41452
+gcc-91223,A,Compositae,,Scorzonera,,"muricata",,"","Balb.",Synonym,,M,TICA,F7A11E69-485D-410E-8D8F-85E1959D8FCD,,"","","223","1809",gcc-132237
+gcc-632,A,Compositae,,Scorzonera,,"muriculata",,"","Chang",Accepted,,M,TICA,4B606768-0A42-4B62-959D-013410318FB2,243306-1,"Bull. Fan Mem. Inst. Biol. Bot. 5: 319","","319","1934",
+gcc-104164,A,Compositae,,Scorzonera,,"musili",,"","Velen",Accepted,,M,TICA,6F44A237-158D-4753-95B5-A2ECC72A9515,243307-1,"""in Sitz. Bohm. Ges. 1911, xi. 8 (1912).""","","xi. 8 (1912).","1911",
+gcc-147425,A,Compositae,,Scorzonera,,"musilii",,"","Velen.",Accepted,,M,TICA,9153DD9B-F232-451C-B843-2D5B5D71FF36,243307-1,"""J. Velenovský, Plantae arabicae Musilianae in Sitzungsber. Königl. Böhm. Ges. Wiss. Prag, Math.-Naturwiss. Cl. 9. 1911""","","8","1911",
+gcc-104678,A,Compositae,,Scorzonera,,"nana",,"","Boiss. & Buhse",Synonym,,M,TICA,8FF5CF0F-6847-4862-8361-A3FAD58576D4,243308-1,"","","138","1860",gcc-116914
+gcc-98924,A,Compositae,,Scorzonera,,"nana",,"","Bunge",Unresolved,,L,TICA,57E1FE78-A6D0-4588-B3BF-9731B158EA12,,"","","","",
+gcc-106274,A,Compositae,,Scorzonera,,"neapolitana",,"","Grande",Synonym,,M,TICA,AEF6683A-D55C-4090-B069-A7674527E54A,243309-1,"","","239","1920",gcc-54075
+gcc-103538,A,Compositae,,Scorzonera,,"nervosa",,"","Lam.",Synonym,,M,TICA,476C59C6-84AE-41C0-B48E-A183BBC42E9B,,"","","","1779",gcc-35362
+gcc-152557,A,Compositae,,Scorzonera,,"nervosa",,"","Gilib.",Synonym,,M,TICA,D9C27E31-72A7-4575-B116-9BFDA30EAC58,,"""Gilib., Fl. Lit. Inch. 1. 1782""","","230","1782",gcc-35362
+gcc-50284,A,Compositae,,Scorzonera,,"nervosa",,"","Trevir.",Synonym,,M,TICA,61459800-D6F4-4F5B-81C1-5D413F832430,,"","","","1833",gcc-19344
+gcc-147344,A,Compositae,,Scorzonera,,"nikitinii",,"","Lipsch.",Synonym,,M,TICA,80BB0699-43CA-4678-A945-2BA18FA948E4,,"""Lipschitz, Sergej Julievitsch in Feddes Repert. Spec. Nov. Regni Veg. 33. 1933""","","166","1933",gcc-118269
+gcc-136872,A,Compositae,,Scorzonera,,"nivalis",,"","Boiss. & Hausskn. ex Boiss.",Accepted,,M,TICA,092A0026-F7C0-43DE-9878-ED35D44ED2BE,243313-1,"Fl. Orient. [Boissier] 3: 765","","765","1875",
+gcc-75785,A,Compositae,,Scorzonera,,"nova",,"","Desf. ex Walp.",Synonym,Invalid,M,TICA,6388C7AC-E4CE-4B63-9AF8-633D5039E76A,,"Repert. Bot. Syst. (Walpers) vi. 340","","340","1846",gcc-105693
+gcc-5756,A,Compositae,,Scorzonera,,"nuristanica",,"","Kitam.",Synonym,,M,TICA,B150F756-C167-4A21-8406-0AB5C864EFBB,,"Acta Phytotax. Geobot. xvii. 39 (1957)","","","",gcc-3567
+gcc-30673,A,Compositae,,Scorzonera,,"nutans",,"","Czeczott",Synonym,,M,TICA,CF0CFEC7-D500-4009-8B13-38CAE818CC87,,"","","202","1938",gcc-71892
+gcc-110364,A,Compositae,,Scorzonera,,"octangularis",,"","Hort. ex Willd.",Synonym,,M,TICA,F031D3F5-A760-4A0F-91EF-B0B6B1CF24F1,243317-1,"","","1506","1803",gcc-132237
+gcc-132009,A,Compositae,,Scorzonera,,"octangularis",,"","Roth ex Steud.",Unresolved,,L,TICA,89AB97FA-9128-4093-841C-E244053FD790,243318-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 546""","","546","1841",
+gcc-131331,A,Compositae,,Scorzonera,,"odontopleura",,"","Boiss.",Synonym,Invalid,M,TICA,0572FE9D-8BE8-4631-B66E-E0A4B9CF2CAD,243319-1,"Fl. Orient. [Boissier] 3: 766","","766","1875",gcc-95104
+gcc-113276,A,Compositae,,Scorzonera,,"orientalis",,"","Cav. ex Willk. & Lange",Synonym,,M,TICA,2C792B0B-DAEA-4AD1-A50F-B74500A030DD,,"Prod. Fl. Hisp. ii. 249.","","","1865",gcc-97661
+gcc-18042,A,Compositae,,Scorzonera,,"orientalis",,"","Baill.",Unresolved,,L,TICA,C960F4DE-1D09-40F1-AE93-21536008C381,,"Iconogr. Fl. Fr. t. 388","","388","",
+gcc-39398,A,Compositae,,Scorzonera,,"orientalis",,"","L.",Synonym,,M,TICA,9CCCBCB3-19E0-4DAE-813E-491DD6D4531B,243320-1,"","","1191","1759",gcc-98531
+gcc-31590,A,Compositae,,Scorzonera,,"ovata",,"","Trautv.",Accepted,,M,TICA,291B9C12-4AF4-4856-A78C-3A8DBE2A412F,,"","","275","1872",
+gcc-62027,A,Compositae,,Scorzonera,,"ovata",subsp.,"crassifolia","(Krasch. & Lipsch.) Tagaev",Synonym,,L,TICA,14DE7F6E-EDD8-4E6D-8ECE-AB7B492DB5BA,924527-1,"""in Bot. Zhurn., 70(8): 1060 (1985):.""","","1060","1985",gcc-1137
+gcc-147805,A,Compositae,,Scorzonera,,"ovata",subsp.,"ovata","",Synonym,,L,TICA,B34EFB8B-934F-4F87-8C96-359E6C9AB1A5,,"","","","",gcc-31590
+gcc-136309,A,Compositae,,Scorzonera,,"oxiana",,"","Popov",Synonym,Invalid,M,TICA,B8507B41-B179-41E1-8DB0-EBED26F1D730,,"","","91","1941",gcc-43212
+gcc-41723,A,Compositae,,Scorzonera,,"pachycephala",,"","Podlech & Rech.f.",Accepted,,M,TICA,ABD4DC11-7A2B-4069-A036-4D41A42F7A3B,243324-1,"","","36","1977",
+gcc-84222,A,Compositae,,Scorzonera,,"pamirica",,"","C.Shih",Accepted,,M,TICA,F29759F2-A03E-4693-9A63-760EFDCC1081,931764-1,"Acta Phytotax. Sin. 25(1): 48 (1987)","","48","1987",
+gcc-137791,A,Compositae,,Scorzonera,,"paniculata",,"","Boiss.",Synonym,,M,TICA,E1F0032B-8C81-4ACC-A590-EF3475271713,,"""Diagn. Pl. Orient. ser. 1, 7: 8""","","8","1846",gcc-19344
+gcc-39392,A,Compositae,,Scorzonera,,"papposa",,"","DC.",Accepted,,M,TICA,E9FA4964-EA54-4875-87E0-491B30EBCA9C,243326-1,"","","119","1838",
+gcc-119606,A,Compositae,,Scorzonera,,"paradoxa",,"","Fisch. & Mey. ex DC.",Synonym,,M,TICA,C9F5E565-586C-4FD8-94FA-C58A12A511D7,243327-1,"Prodr. (DC.) 7(1): 119","","119","1838",gcc-39392
+gcc-20206,A,Compositae,,Scorzonera,,"paradoxa",,"","Fisch. & C.A.Mey.",Accepted,,M,TICA,4FF9CB4D-4DC8-4DDF-AA94-25566105D7AC,,"","","119","1838",
+gcc-31733,A,Compositae,,Scorzonera,,"parviflora",,"","Jacq.",Accepted,,M,TICA,6A13F5E6-1A8B-4EF2-B248-3ACCB1DA282E,243328-1,"","","3","1776",
+gcc-97111,A,Compositae,,Scorzonera,,"paucifida",,"","Lam.",Synonym,,M,TICA,8EE2941A-DF73-4D5E-B0CF-9321DDEB6E78,,"Fl. Fr. ii. 83.","","","1779",gcc-132237
+gcc-134198,A,Compositae,,Scorzonera,,"persepolitana",,"","Boiss.",Accepted,,M,TICA,18CD9A0C-B098-4A87-80F0-E73AAEE6ACC7,243330-1,"Fl. Orient. [Boissier] 3: 760","","760","1875",
+gcc-11543,A,Compositae,,Scorzonera,,"persica",,"","Boiss.",Unresolved,,L,TICA,05E54184-2354-4A09-A0E9-158875B1C550,243332-1,"Fl. Orient. [Boissier] 3: 777","","777","1875",
+gcc-99609,A,Compositae,,Scorzonera,,"persica",,"","Boiss. & Buhse",Accepted,,M,TICA,CE2FFEF3-837D-4D22-AC2A-98BFE900B4B1,243331-1,"Nouv. Mém. Soc. Imp. Naturalistes Moscou 12: 139","","139","1860",
+gcc-100051,A,Compositae,,Scorzonera,,"petiolaris",,"","Lapeyr.",Synonym,,M,TICA,9D5682EA-275D-437C-9327-99B7C69D5380,243333-1,"Hist. Pl. Pyrenées 120. 1813","","120","",gcc-132237
+gcc-49163,A,Compositae,,Scorzonera,,"petrovii",,"","Lipsch.",Accepted,,M,TICA,E9CDEEB1-54F8-4551-A96F-5B0B061AE263,,"""Syst. Notiz. Asiat. Scorzon. 20 (1932); Lipschitz in Fedde, Repert. xxxiii. 167 (1933).""","","","1932",
+gcc-41452,A,Compositae,,Scorzonera,,"phaeopappa",,"","(Boiss.) Boiss.",Accepted,,M,TICA,A971365B-9DAA-4187-8D9D-4CC2C1A376FA,243335-1,"","","764","1875",
+gcc-155386,A,Compositae,,Scorzonera,,"phaeopappa",var.,"minor","Boiss.",Synonym,,L,TICA,0D3C9DE1-5DC6-4867-AA46-D71FDA5B8AA2,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","764","1875",gcc-41452
+gcc-146266,A,Compositae,,Scorzonera,,"phaeopappa",var.,"phaeopappa","",Synonym,,L,TICA,4490B622-E0A0-4B25-8695-1523E170B305,,"","","","",gcc-41452
+gcc-13455,A,Compositae,,Scorzonera,,"picridioides",,"","Boiss.",Synonym,,M,TICA,78526CB2-F9C9-41D4-98EB-190F90EBE354,,"""Diagn. Pl. Orient. ser. 1, 7: 6""","","6","1846",gcc-39392
+gcc-119625,A,Compositae,,Scorzonera,,"picroides",,"","L.",Synonym,,M,TICA,FA0A8CB0-8928-4EBA-BBFA-C596AB1D0263,243337-1,"","","792","1753",gcc-31506
+gcc-136998,A,Compositae,,Scorzonera,,"pindicola",,"","(Hausskn.) Lipsch.",Synonym,,M,TICA,F70F05E9-3493-4CE4-B3F1-ED74EB1D9194,,"Fragm. Monogr. Gen. Scorzon. II. (Soc. Nat. Mosc.) 11 (1939).","","","1939",gcc-52476
+gcc-7759,A,Compositae,,Scorzonera,,"pinifolia",,"","Gouan",Synonym,,L,TICA,8DFE2AF5-56CC-479D-B241-0E6DD2DD741B,243339-1,"","","53","1773",gcc-37577
+gcc-31267,A,Compositae,,Scorzonera,,"pinnatifida",,"","Michx.",Synonym,Illegitimate,M,TICA,EEBE8C8D-674C-45E7-9280-39E6DADDE909,243341-1,"Fl. Bor.-Amer. (Michaux) ii. 89","","89","1803",gcc-94178
+gcc-49187,A,Compositae,,Scorzonera,,"pinnatifida",,"","Lour.",Synonym,,M,TICA,D9314640-E614-495F-B379-5B12AC5F2BF7,243340-1,"","","479","1790",gcc-39706
+gcc-118265,A,Compositae,,Scorzonera,,"pisidica",,"","Hub.-Mor.",Accepted,,M,TICA,ED81DD0A-6564-4506-A2B9-C286377FAFC2,,"","","179","1982",
+gcc-40853,A,Compositae,,Scorzonera,,"plantaginea",,"","Gaudin",Synonym,,M,TICA,DBB0096F-5156-41D3-A170-4BB4BB081249,,"","","20","1829",gcc-35362
+gcc-145922,A,Compositae,,Scorzonera,,"plantaginea",var.,"graminifolia","Peterm.",Synonym,,L,TICA,1A8E7488-5850-421D-B8CA-0D8F704BEBBB,,"","","","",gcc-35362
+gcc-151293,A,Compositae,,Scorzonera,,"plantaginea",var.,"plantaginea","",Synonym,,L,TICA,A597CA07-AA4C-4D84-8D55-81795DC4311D,,"","","","",gcc-35362
+gcc-98708,A,Compositae,,Scorzonera,,"plantaginifolia",,"","Schleich.",Synonym,,M,TICA,3107BAC3-23D7-49BB-9CF4-96B408AD76CE,243343-1,"""Cat. Pl. Helv., ed. 3. 27""","","27","1815",gcc-35362
+gcc-139863,A,Compositae,,Scorzonera,,"plurifida",,"","Lam.",Synonym,,M,TICA,BE9660AC-B275-4AD4-B52E-F3A71B344BA6,,"Fl. Fr. ii. 83.","","","1779",gcc-132237
+gcc-39976,A,Compositae,,Scorzonera,,"polyclada",,"","Rech.f. & Köie",Accepted,,M,TICA,186E0B6D-4E26-445A-A2CA-4A2F3AB7F259,243345-1,"","","195","1955",
+gcc-88589,A,Compositae,,Scorzonera,,"pontica",,"","Hausskn. & Bornm. ex Lipsch.",Synonym,Invalid,M,TICA,E1A29E03-EF02-46B6-86AC-7FC5198C6507,243346-1,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 156 (1935),in syn.""","","","1935",gcc-76798
+gcc-2044,A,Compositae,,Scorzonera,,"popovii",,"","Lipsch.",Synonym,,M,TICA,3CC4BDEF-A734-4CAA-B789-03AC5E76677A,243347-1,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 23 (1935).""","","23","1935",gcc-26259
+gcc-134505,A,Compositae,,Scorzonera,,"praetuberosa",,"","Krasch. & Lipsch.",Accepted,,M,TICA,7426010C-B033-461A-BDA8-E7F670894BE3,,"""in Bull. Soc. Nat. Mosc. 1934, n. s. xliii. 157.""","","","1934",
+gcc-134245,A,Compositae,,Scorzonera,,"pratorum",,"","(Krasch.) Stankov",Accepted,,M,TICA,8029D654-89F6-4A1C-9B8F-E7564140FAC2,243349-1,"","","687","1949",
+gcc-114308,A,Compositae,,Scorzonera,,"prescottii",,"","comp. ex Boiss.",Unresolved,,L,TICA,590D91D2-C440-4E73-8F4E-B989AF9A1968,243350-1,"Fl. Orient. [Boissier] 3: 770","","770","1875",
+gcc-154523,A,Compositae,,Scorzonera,,"prescottii",,"","DC.",Synonym,,M,TICA,93ACD89D-B3D3-418B-A414-C56428B79D58,,"""A.P. de Candolle, Prodr. 7. 1838""","","120","1838",gcc-4347
+gcc-17992,A,Compositae,,Scorzonera,,"pseudodivaricata",,"","Lipsch.",Accepted,,M,TICA,E878771F-414C-4005-B5B8-213F83938F52,243351-1,"","","158","1933",
+gcc-32590,A,Compositae,,Scorzonera,,"pseudodivaricata",var.,"leiocarpa","C.H.An",Synonym,,L,TICA,B61BD81B-76D5-46FF-A240-3C65BD2D1D0F,1017284-1,"""in Fl. Xinjiangensis, 5: 480 (1999)""","","480","1999",gcc-17992
+gcc-155267,A,Compositae,,Scorzonera,,"pseudodivaricata",var.,"pseudodivaricata","",Synonym,,L,TICA,C7C05BEF-134E-4713-908B-D476E97E8571,,"","","","",gcc-17992
+gcc-126145,A,Compositae,,Scorzonera,,"pseudolanata",,"","Grossh.",Synonym,,M,TICA,9F52DFCE-919B-4EA0-90F6-D4AA0975FBF3,243352-1,"","","235","1934",gcc-80235
+gcc-42837,A,Compositae,,Scorzonera,,"pseudopygmaea",,"","Lipsch.",Synonym,,M,TICA,B9423095-2E4C-47FF-AE11-4F58B4947BA6,243354-1,"","","40","1935",gcc-2727
+gcc-85305,A,Compositae,,Scorzonera,,"pseudotomentosa",,"","Lipsch.",Synonym,,M,TICA,DF29EE9D-C2CC-412D-8BB6-7868D0E67EFF,243355-1,"""Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst., Moscow) 150 (1935),nomen provis.""","","","1935",gcc-83532
+gcc-80235,A,Compositae,,Scorzonera,,"psychrophila",,"","Boiss. & Hausskn. ex Boiss. & Hausskn.",Accepted,,M,TICA,03FEDD2D-D662-4EDE-9836-6D2EDAF5D6AD,,"","","","1875",
+gcc-3368,A,Compositae,,Scorzonera,,"pubescens",,"","DC.",Accepted,,M,TICA,15C8FCC4-33F6-4E4C-AA16-0636C20B3EF9,243357-1,"","","122","1838",
+gcc-46020,A,Compositae,,Scorzonera,,"pubescens",subsp.,"gracilis","(Lipsch.) Tagaev",Synonym,,L,TICA,7D135422-C038-471E-8758-554C4F78EFC1,,"""Bot. Zhurn. 71, 12 : 1679 (1986)""","","1679","1986",gcc-116462
+gcc-150680,A,Compositae,,Scorzonera,,"pubescens",subsp.,"pubescens","",Synonym,,L,TICA,7F9B6218-2375-407B-B67F-73F7FFB1E293,,"","","","",gcc-3368
+gcc-131543,A,Compositae,,Scorzonera,,"pulchra",,"","Lomakin",Accepted,,M,TICA,620FE25E-A19E-4396-B578-E126BC2A3769,,"","","289","1897",
+gcc-40217,A,Compositae,,Scorzonera,,"pulvinata",,"","Lipsch.",Synonym,,M,TICA,263807F9-9AB2-4BFB-AC08-4A94912D9037,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xxii. 296 (1963).""","","","1963",gcc-52476
+gcc-97809,A,Compositae,,Scorzonera,,"pumila",,"","Cav.",Synonym,,M,TICA,BDE3A0E4-D078-4B0F-91D5-94B9BA3C7D08,,"","","19","1793",gcc-47896
+gcc-89657,A,Compositae,,Scorzonera,,"purpurea",,"","L.",Synonym,,M,TICA,F1E931FF-DDF0-48B2-BB43-823010D1A553,243361-1,"","","791","1753",gcc-107140
+gcc-153034,A,Compositae,,Scorzonera,,"purpurea",subsp.,"eupurpurea","F.Herm.",Synonym,,L,TICA,FF563BDD-817F-450B-BB20-A5E1E6717254,,"","","","",gcc-107140
+gcc-64447,A,Compositae,,Scorzonera,,"purpurea",subsp.,"peristerica","Formánek",Synonym,,L,TICA,2ED2269B-C9E9-43C0-A2D8-BE9EF03B027B,50426425-2,"","","159","1899",gcc-150322
+gcc-151940,A,Compositae,,Scorzonera,,"purpurea",subsp.,"purpurea","",Synonym,,L,TICA,D4F2C820-92A2-48B5-8844-8F19CA96BFA7,,"","","","",gcc-107140
+gcc-54971,A,Compositae,,Scorzonera,,"purpurea",subsp.,"rosea","(Waldst. & Kit.) Nyman",Synonym,,L,TICA,E130A77B-0775-4DA0-9988-724E7F1D16E2,,"""Nyman, Consp. Fl. Eur. 1879.""","","464","1879",gcc-43845
+gcc-103919,A,Compositae,,Scorzonera,,"pusilla",,"","Pall.",Synonym,,M,TICA,C15381DC-CA7D-4337-8DFB-A256E34FEEAE,,"","","329","1773",gcc-26259
+gcc-120392,A,Compositae,,Scorzonera,,"pygmaea",,"","Sibth. & Sm.",Accepted,,M,TICA,CC3B5C5F-16A0-42B4-B394-C77091D4BE9E,243363-1,"Fl. Graec. viii. 61. t. 783.","","viii. 61. t. 783.","",
+gcc-77950,A,Compositae,,Scorzonera,,"pygmaea",,"","Sm.",Unresolved,,L,TICA,D90CBF71-313E-42AD-A4C8-680376B23069,,"Sm.. 1813.","","122","1813",
+gcc-22870,A,Compositae,,Scorzonera,,"pygmaea",subsp.,"longifolia","Emb. & Maire",Synonym,,L,TICA,1E19AFD6-2872-446C-B7D2-2A571838C3C8,50426423-2,"","","366","1937",gcc-152313
+gcc-71892,A,Compositae,,Scorzonera,,"pygmaea",subsp.,"nutans","(Czeczott) D.F.Chamb.",Accepted,,L,TICA,CAA63BA6-59BB-496F-AFCC-F999D1B9F687,,"D. F. Chamb. in Notes Roy. Bot. Gard. Edinburgh 33. 1975.","","433","1975",
+gcc-154231,A,Compositae,,Scorzonera,,"pygmaea",subsp.,"pygmaea","",Synonym,,L,TICA,31060712-6DD8-4C71-9835-BF336AABBD8A,,"","","","",gcc-120392
+gcc-10580,A,Compositae,,Scorzonera,,"quitensis",,"","Humb. ex Sch.Bip.",Synonym,Illegitimate,L,TICA,86090915-02EA-4E74-9424-13C41268B95D,243364-1,"in Nov. Act. Nat. Cur. xxi. I. (1845) 120.","","120","1845",gcc-107840
+gcc-102303,A,Compositae,,Scorzonera,,"racemosa",,"","Franch.",Accepted,,M,TICA,8A381A0D-2470-4072-A4E8-9ECD7C7ABF71,,"""Ann. Sci. Nat., Bot. sér. 6, 16: 332""","","332","1883",
+gcc-114593,A,Compositae,,Scorzonera,,"raddeana",,"","C.Winkl.",Accepted,,M,TICA,50C54888-DDD4-4813-8355-BA36DF880392,,"","","150","1890",
+gcc-147319,A,Compositae,,Scorzonera,,"radians",,"","Fisch.",Synonym,,M,TICA,C9983403-AF01-4FF7-946D-2B271183AE72,,"""Fischer, Friedrich Ernst Ludwig von  in Flora (Regensb.) 17. 1834""","","18","1834",gcc-47574
+gcc-26505,A,Compositae,,Scorzonera,,"radians",,"","Fisch. ex Besser",Accepted,,M,TICA,45477893-1C5F-47EC-A25D-30FC1BA5D5AC,,"""in Flora, xvii. (1834) I. Beibl. 18.""","","","1834",
+gcc-141032,A,Compositae,,Scorzonera,,"radiata",,"","Fisch. ex DC.",Unresolved,,L,TICA,0F113EE9-9292-4A6F-9D55-F67372CCA27F,243368-1,"Prodr. (DC.) 7(1): 122","","122","1838",
+gcc-47574,A,Compositae,,Scorzonera,,"radiata",,"","Fisch. ex Fisch.",Accepted,,M,TICA,6EBAA30E-D5DB-4BBA-ADE0-5826F4CFB899,,"""F.E.L. von Fischer - Fl. Altaic. in C.F. von Ledebour, Fl. Altaic. 4. 1833""","","160","1833",
+gcc-77779,A,Compositae,,Scorzonera,,"radiata",,"","Fisch. ex Colla",Unresolved,,L,TICA,0738890E-B936-4116-B673-67A638FE3275,243369-1,"Herb. Pedem. iii. 558 (1834).","","558","1834",
+gcc-54432,A,Compositae,,Scorzonera,,"radiata",var.,"linearifolia","H.Lév.",Synonym,,L,TICA,DE98E40F-0E70-4418-95C8-6E08A788B0DC,,"Flore du Kouy-Tcheou","","703","1914",gcc-51946
+gcc-151186,A,Compositae,,Scorzonera,,"radiata",var.,"radiata","",Synonym,,L,TICA,F6E6D5B7-FCB4-44CE-8CB6-7F9F5A6FF218,,"","","","",gcc-47574
+gcc-63776,A,Compositae,,Scorzonera,,"radiata",var.,"rebuensis","(Tatew. & Kitam.) Nakai",Synonym,,L,TICA,DB71BE07-9BDC-4252-89F2-B96A843C8FC5,,"""Report of the Institute of Scientific Research, Manchoukuo 1:""","","179","1937",gcc-47574
+tro-100376276,A,Compositae,,Scorzonera,,"radiata",var.,"subacaulis","Lipsch. & Krasch.",Synonym,,L,TRO,100376276,,"","","","",gcc-47574
+gcc-17871,A,Compositae,,Scorzonera,,"radicosa",,"","Boiss.",Synonym,,M,TICA,25192710-458A-407F-9248-20FD1D43C53F,,"","","43","1849",gcc-3215
+gcc-114189,A,Compositae,,Scorzonera,,"ramosissima",,"","DC.",Accepted,,M,TICA,7708DA1A-CA24-4441-A8A1-B9448B34C077,243371-1,"","","125","1838",
+gcc-147485,A,Compositae,,Scorzonera,,"ramosissima",var.,"kermanensis","Bornm.",Synonym,,L,TICA,FD03AA90-8086-4A8D-9D2E-2E9EC2BA6BB8,,"Bornm. in Beih. Bot. Centralbl. 60(B). 1939","","221","1939",gcc-114189
+gcc-149150,A,Compositae,,Scorzonera,,"ramosissima",var.,"ramosissima","",Synonym,,L,TICA,22C637B6-51F7-4BA2-B700-528BEEC5DE95,,"","","","",gcc-114189
+gcc-95077,A,Compositae,,Scorzonera,,"rawii",,"","Rech.f. & Guest",Accepted,,M,TICA,74D5D0E0-744A-45EF-B9B3-8E7A9AA3BE00,,"""Bull. Coll. Arts & Sci., Baghdad ii. 10 (1957); cf. K. H. Rechinger in Ber.Deutsch. Bot. Ges. lxxII. 284 (1959).""","","","1957",
+gcc-81044,A,Compositae,,Scorzonera,,"rebunensis",,"","Tatew. & Kitam. ex Tatew. & Kitam.",Synonym,,M,TICA,11FADACE-B03D-45A2-879C-6EF11A953C00,243373-1,"","","139","1934",gcc-47574
+gcc-126363,A,Compositae,,Scorzonera,,"renzii",,"","Rech.f.",Accepted,,M,TICA,5E9F3EE7-A70A-4C0B-85D3-D52C7B500916,243374-1,"""in Fl. Iran., 122: 48 (1977).""","","48","1977",
+gcc-126527,A,Compositae,,Scorzonera,,"resedifolia",,"","Retz.",Unresolved,,L,TICA,AFDEA8C5-787D-4DB7-8B95-D588F5440B9A,243375-1,"Obs. iii. 42.","","iii. 42","",
+gcc-40240,A,Compositae,,Scorzonera,,"resedifolia",,"","L.",Synonym,,M,TICA,18128338-E5AC-445B-9EF4-4A9D375CBC5E,243376-1,"","","1198","1753",gcc-53853
+gcc-130781,A,Compositae,,Scorzonera,,"reverchonii",,"","Debeaux & Hervier",Accepted,,M,TICA,A3104BC3-C9FE-48A3-98BE-DF5B03907B68,243377-1,"","","107","1905",
+gcc-125093,A,Compositae,,Scorzonera,,"rhodantha",,"","Hausskn.",Synonym,,M,TICA,5EE0FAC0-29B0-4925-B2B5-D24689F793B9,243378-1,"","","86","1887",gcc-150322
+gcc-94155,A,Compositae,,Scorzonera,,"rigida",,"","Aucher ex DC.",Accepted,,M,TICA,69466AC6-918E-4EBB-83B6-8C5772729525,243379-1,"","","123","1838",
+gcc-157223,A,Compositae,,Scorzonera,,"rigida",var.,"glabrescens","Boiss.",Synonym,,L,TICA,A79F9355-F206-4FDE-BAD6-FD9C8B014257,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","774","1875",gcc-94155
+gcc-149730,A,Compositae,,Scorzonera,,"rigida",var.,"rigida","",Synonym,,L,TICA,C6667559-EAE7-4756-83C8-5F12D02FBB84,,"","","","",gcc-94155
+gcc-82039,A,Compositae,,Scorzonera,,"rindak",,"","Ovcz.",Synonym,,M,TICA,BF7A857D-F7E1-44A8-8565-712223A6A22B,,"","","","",gcc-36225
+gcc-96399,A,Compositae,,Scorzonera,,"rosea",,"","Waldst. & Kit.",Synonym,,M,TICA,55DE7E29-B155-4BE3-BE06-9177B3EFF91D,,"","","127","1803",gcc-43845
+gcc-35616,A,Compositae,,Scorzonera,,"rosea",subsp.,"peristerica","(Formánek) Greuter",Synonym,,L,TICA,ADEAE9BD-8B6F-4639-BDA7-420BF9C51FFB,,"","","237","2003",gcc-150322
+gcc-145974,A,Compositae,,Scorzonera,,"rosea",subsp.,"rosea","",Synonym,,L,TICA,59FC9360-211E-4509-9D8A-0ED8B8164831,,"","","","",gcc-43845
+gcc-151639,A,Compositae,,Scorzonera,,"rosea",f.,"rosea","",Synonym,,L,TICA,F9EE44F7-A0F3-4A04-A7B6-891220975A47,,"","","","",gcc-43845
+gcc-78989,A,Compositae,,Scorzonera,,"roylei",,"","DC.",Synonym,,M,TICA,8B30511C-531F-4DA6-B37D-6A7A399AA984,243381-1,"Prodr. (DC.) 7(1): 125","","125","1838",gcc-52528
+gcc-136283,A,Compositae,,Scorzonera,,"rubriseta",,"","Lipsky",Synonym,,M,TICA,89214773-B0CE-4D92-B194-EBDF1486E951,,"","","52","1891",gcc-115863
+gcc-110266,A,Compositae,,Scorzonera,,"rubroviolacea",,"","Godw.",Synonym,,M,TICA,137E72F0-DFE2-4448-A827-B07CCF5D9798,,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Kasachst. ii. 72 (1964).","","","1964",gcc-43212
+gcc-130579,A,Compositae,,Scorzonera,,"rugulosa",,"","Chang",Unresolved,,L,TICA,43AA8EAD-2F20-4C7C-83E7-DEE107DC9587,243384-1,"Bull. Fan Mem. Inst. Biol. Bot. 5: 320","","320","1934",
+gcc-151330,A,Compositae,,Scorzonera,,"rugulosa",,"","C.C.Chang",Accepted,,M,TICA,A9A0FB3D-7B41-4A22-A6E0-825EB22B7742,,"""C. C. Chang in Bull. Fan Mem. Inst. Biol., Bot. 5. 1934""","","320","1934",
+gcc-80674,A,Compositae,,Scorzonera,,"rumelica",,"","Velen.",Synonym,,M,TICA,8F37DCE4-B558-4B33-9D13-6E1943404A3D,,"","","40","1893",gcc-112106
+gcc-20964,A,Compositae,,Scorzonera,,"rumicifolia",,"","hort.vindob. ex Link",Accepted,,M,TICA,47E11C44-40EB-4EB8-8D32-26C25B8279E3,,"Enum. Hort. Berol. ii. 278.","","","1822",
+gcc-128765,A,Compositae,,Scorzonera,,"runcinata",,"","Pall.",Synonym,,L,TICA,FC968268-2AD9-4582-B5BC-DAC340EFD52D,,"","","221","1799",gcc-143238
+gcc-76171,A,Compositae,,Scorzonera,,"rupicola",,"","Hausskn.",Accepted,,M,TICA,39A42DE2-D3AE-463D-B459-640FB02B185C,,"","","","",
+gcc-127672,A,Compositae,,Scorzonera,,"ruprechtiana",,"","Lipsch. & Krasch. ex Lipsch.",Unresolved,,L,TICA,A2382835-3EE7-4AFA-9C7E-D837CBDA5C88,243390-1,"","","69","1964",gcc-149151
+tro-2726862,A,Compositae,,Scorzonera,,"ruprechtiana",,"","Lipsch. & Krasch.",Synonym,,M,TRO,2726862,243390-1,"Fragm. Monog. Gen. Scorzonera","121","121","1935",gcc-11781
+gcc-101613,A,Compositae,,Scorzonera,,"safievii",,"","Grossh.",Accepted,,M,TICA,D14EE110-5E5C-4641-A2CA-9D291A969118,,"","","51","1932",
+gcc-76324,A,Compositae,,Scorzonera,,"sahnea",,"","Parsa",Accepted,,M,TICA,E8C00867-145B-40F2-ADD4-646FC6007376,971171-1,"""Flore de l'Iran (Publ. Univ. Teheran 1777), 10: 188 (1980)""","","188","1980",
+gcc-99154,A,Compositae,,Scorzonera,,"sandrasica",,"","Hartvig & Strid",Accepted,,M,TICA,83D112CD-E9A6-4DE2-B660-97BA69D11B78,,"","","311","1987",
+gcc-22232,A,Compositae,,Scorzonera,,"sardoa",,"","Moris ex Spreng.",Synonym,,M,TICA,D542CB00-4E7D-437B-B058-291FC0E8DFED,243392-1,"""Syst. Veg. (ed. 16) [Sprengel] 4(2, Cur. Post.): 347""","","347","1827",gcc-6248
+gcc-2898,A,Compositae,,Scorzonera,,"sativa",,"","Gaterau",Synonym,Illegitimate,M,TICA,89870458-54BA-453D-8029-055CF52DE2AE,243393-1,"Desc. Pl. Montaub.","","136","1789",gcc-80660
+gcc-28290,A,Compositae,,Scorzonera,,"scapigera",,"","Sol. ex A.Cunn.",Synonym,,M,TICA,2BD7B9EF-70E5-4A49-B434-34432882CD39,20005520-1,"","","125","1838",gcc-122344
+gcc-45969,A,Compositae,,Scorzonera,,"scapigera",,"","G.Forst.",Synonym,Invalid,M,TICA,DD0DF1C2-66B8-4107-9F60-5536FEA9E536,243394-1,"","","91","1786",gcc-122344
+gcc-156912,A,Compositae,,Scorzonera,,"schanginiana ",,"","Lipsch.",Synonym,,M,TICA,1A4E4098-ED87-4D56-8E57-F6B6F3575380,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","137","1939",gcc-31733
+gcc-110440,A,Compositae,,Scorzonera,,"schischkinii",,"","Lipsch. & Vassilcz.",Synonym,,L,TICA,778C1CF5-7F00-4FBF-B1D1-B0E7B7201033,243395-1,"","","717","1964",gcc-44838
+gcc-16594,A,Compositae,,Scorzonera,,"schweinfurthii",,"","Boiss.",Accepted,,M,TICA,C4A7F785-3804-436F-AC14-1EAA7C2169B4,243396-1,"","","320","1888",
+gcc-133365,A,Compositae,,Scorzonera,,"scoparia",,"","Boiss. & Kotschy ex Boiss.",Synonym,,M,TICA,85B30991-C154-4756-A284-E557FEB52B6F,243397-1,"Fl. Orient. [Boissier] 3: 774","","774","1875",gcc-85088
+gcc-154140,A,Compositae,,Scorzonera,,"scoparia",,"","Lipsch.",Synonym,,M,TICA,96306457-0490-487D-8E21-BD366C89AC2A,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","61","1939",gcc-26259
+gcc-85853,A,Compositae,,Scorzonera,,"scopariiformis",,"","Lipsch.",Accepted,,M,TICA,3344E63A-3C03-423A-B8B0-799829918B6C,243398-1,"","","294","1963",
+gcc-121565,A,Compositae,,Scorzonera,,"scowitzii",,"","Steud.",Unresolved,,L,TICA,2BE055FF-0B60-4DA5-B530-CA10E2857B94,243399-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 546, in syn.""","","546","1841",
+gcc-130035,A,Compositae,,Scorzonera,,"scyria",,"","M.A.Gust. & Snogerup",Accepted,,M,TICA,B7F917C8-E726-4E44-9817-DDA287F20BF5,243400-1,"","","323","1972",
+gcc-12545,A,Compositae,,Scorzonera,,"seidlitzii",,"","Boiss.",Accepted,,M,TICA,1C747028-9572-4D73-83C3-175D9AEDA865,243401-1,"","","775","1875",
+gcc-137711,A,Compositae,,Scorzonera,,"semicana",,"","DC.",Accepted,,M,TICA,8D683994-B93B-4448-A43B-EF0CB5298AEC,243402-1,"","","119","1838",
+gcc-139075,A,Compositae,,Scorzonera,,"semicana",,"","DC. & Rech.f.",Unresolved,,L,TICA,70CA9A05-1B64-4722-A7EB-F1EE2C6B1636,243403-1,"""Oesterr. Bot. Z. 97: 265, descr. emend.""","","265","1950",
+gcc-93059,A,Compositae,,Scorzonera,,"sericea",,"","Aucher ex DC.",Accepted,,M,TICA,4AC1E801-4CA7-4ECD-B50F-89F23053A691,243404-1,"","","123","1838",
+gcc-43212,A,Compositae,,Scorzonera,,"sericeo-lanata",,"","(Bunge) Krasch. & Lipsch.",Accepted,,M,TICA,456DCD28-01CF-4863-8425-50139F21E4B4,243405-1,"""in Bull. Soc. Nat. Mosc. 1934, n. s. xliii. 141.""","","141","1934",
+gcc-38152,A,Compositae,,Scorzonera,,"serpentinica",,"","Rech.f.",Accepted,,M,TICA,1D9050DE-61F1-48FF-9CF5-46C371537FAE,243406-1,"","","102","1956",
+gcc-101463,A,Compositae,,Scorzonera,,"serrulata",,"","Viv.",Synonym,,M,TICA,53F3A38D-2B26-45BE-833F-9CD61D1D7FB2,243408-1,"","","49","1824",gcc-64224
+gcc-82200,A,Compositae,,Scorzonera,,"sessilis",,"","Humb. ex Sch.Bip.",Synonym,Illegitimate,L,TICA,090C482C-C1A2-4DB2-92F4-7182417489ED,,"in Nov. Act. Nat. Cur. xxi. I. (1845) 120.","","","1845",gcc-107840
+gcc-133882,A,Compositae,,Scorzonera,,"sinensis",,"","Lipsch. & Krasch.",Accepted,,M,TICA,CF6BC4A5-DE90-4AB5-9C29-E683ED4A922C,243410-1,"""Lipschitz, Pragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 120 (1935), in syn.""","","","1935",
+gcc-154654,A,Compositae,,Scorzonera,,"sinensis",,"","(Lipsch. & Krasch.) Nakai",Synonym,,M,TICA,A7A19F64-E1AF-4D0A-97B3-C7FFF3C145A5,,"Takenoshin in Rep. Inst. Sci. Res. Manchoukuo 1. 1936","","171","1936",gcc-11781
+gcc-74090,A,Compositae,,Scorzonera,,"sinensis",f.,"plantaginifolia","(Kitag.) Nakai",Synonym,,L,TICA,CD05F364-9A2D-487A-B6D3-3306BB413254,,"""Report of the Institute of Scientific Research, Manchoukuo 1:""","","172","1936",gcc-11781
+gcc-156913,A,Compositae,,Scorzonera,,"sinensis",f.,"sinensis","",Synonym,,L,TICA,5B257617-AD53-4448-9242-F6B74F7CE8D1,,"","","","",gcc-133882
+gcc-144518,A,Compositae,,Scorzonera,,"sintenisii",,"","Freyn",Synonym,,M,TICA,9C7EC41D-ED31-4AB9-A040-FE4A3CFFCBB8,243411-1,"","","267","1892",gcc-83532
+tro-2732243,A,Compositae,,Scorzonera,,"songarica",,"","(Kar. & Kir.) Lipsch. & Vassilcz.",Accepted,,M,TRO,2732243,243412-1,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR","22: 301","301","1963",
+gcc-51436,A,Compositae,,Scorzonera,,"sosnowskyi",,"","Lipsch.",Synonym,,M,TICA,E7C22392-0CA8-4201-86E3-5F65106A426A,243414-1,"","","142","1935",gcc-811
+gcc-48988,A,Compositae,,Scorzonera,,"stenocephala",,"","Boiss.",Accepted,,M,TICA,917B73D6-952E-42FC-8A07-5ABB88056D1D,,"""Diagn. Pl. Orient. ser. 1, 7: 6""","","6","1846",
+gcc-97778,A,Compositae,,Scorzonera,,"stenophylla",,"","Boiss. & Hausskn. ex Lipsch.",Synonym,,M,TICA,50D64D08-3BAD-4D69-B5E6-94AB6919EF1B,243416-1,"""Lipschitz, Pragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 80 (1935), in syn.""","","","1935",gcc-51964
+gcc-156283,A,Compositae,,Scorzonera,,"stevenii",,"","Lipsch.",Synonym,,M,TICA,4B4EE3F2-1105-4550-B383-EA09E9F575B4,243417-1,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","11","1939",gcc-38606
+gcc-134293,A,Compositae,,Scorzonera,,"stewartii",,"","Hook.f.",Synonym,,M,TICA,775D280B-2F34-4AF9-A586-E7719E4919D7,,"Fl. Brit. Ind. iii. 419.","","","1881",gcc-17232
+gcc-142872,A,Compositae,,Scorzonera,,"stricta",,"","DC.",Unresolved,,L,TICA,CC89E81A-65E6-432F-B627-FAA308255D11,243420-1,"Prodr. (DC.) 7(1): 122","","122","1838",
+gcc-3818,A,Compositae,,Scorzonera,,"stricta",,"","Hornem.",Accepted,,M,TICA,827A5A37-157D-42C7-A5FB-071A05BCD2CE,243419-1,"","","750","1815",
+gcc-46362,A,Compositae,,Scorzonera,,"stylosa",,"","Pers.",Synonym,,M,TICA,C714910F-B750-4CD9-B6D6-55ECCF3870F8,243421-1,"Syn. Pl. (Persoon) 2(2): 361","","361","1807",gcc-155813
+gcc-40171,A,Compositae,,Scorzonera,,"subacaulis",,"","(Regel) Lipsch.",Accepted,,M,TICA,58335A44-6013-4E5E-B815-4A803732C095,,"""in Bull. Soc. Nat. Mosc. 1933, n. s. xlii. 160, cum descr. ampl.; et in Fedde,Repert. xxxiii. 168 (1933).""","","160","1933",
+gcc-130049,A,Compositae,,Scorzonera,,"subaphylla",,"","Boiss.",Accepted,,M,TICA,3ED4061E-5A14-409F-8906-DDACA57BC902,,"""Diagn. Pl. Orient. ser. 1, 7: 8""","","8","1846",
+gcc-51964,A,Compositae,,Scorzonera,,"suberosa",,"","K.Koch",Accepted,,M,TICA,D8050487-C131-46E0-B475-606462186134,,"","","275","1843",
+gcc-45788,A,Compositae,,Scorzonera,,"suberosa",subsp.,"cariensis","(Boiss.) D.F.Chamb.",Accepted,,L,TICA,3BCA5D44-FC92-4F0E-BBAC-54E6FADCAAFB,,"D. F. Chamb. in Notes Roy. Bot. Gard. Edinburgh 33. 1975.","","434","1975",
+gcc-59417,A,Compositae,,Scorzonera,,"suberosa",subsp.,"suberosa","",Synonym,,L,TICA,EC58578A-E7F4-4372-85C8-963FB53AC2EB,,"","","","",gcc-51964
+gcc-136625,A,Compositae,,Scorzonera,,"subintegra",,"","(Boiss.) J.Thiébaut",Unresolved,,L,TICA,844CD8EF-8B1C-4CF4-94F5-ECA5CE4D92B6,243426-1,"","","18","1948",gcc-52476
+gcc-79523,A,Compositae,,Scorzonera,,"sublanata",,"","Lipsch.",Accepted,,M,TICA,5688F6E4-5058-439A-8462-6BA060EE0789,243427-1,"","","44","1939",
+gcc-77394,A,Compositae,,Scorzonera,,"subulata",,"","Lam.",Synonym,,M,TICA,6D3812B6-9D31-4064-A274-66CB574CC94E,243428-1,"","","81","1779",gcc-132237
+gcc-39850,A,Compositae,,Scorzonera,,"sylvatica",,"","Benth.",Unresolved,,L,TICA,3A5EEE50-B45F-4565-80D0-49F67447D167,243429-1,"Pl. Hartw. 388 (Index).","","388","",
+gcc-42245,A,Compositae,,Scorzonera,,"syriaca",,"","Boiss. & Blanche ex Boiss. & Blanche",Accepted,,M,TICA,176E02A1-47D5-4451-BC68-4E41F8FCB358,,"","","93","1856",
+tro-2732249,A,Compositae,,Scorzonera,,"szovitzii",,"","DC.",Accepted,,M,TRO,2732249,,"","","","",
+gcc-84585,A,Compositae,,Scorzonera,,"tadshikorum",,"","Krasch. & Lipsch.",Accepted,,M,TICA,68403263-A914-4502-A7E1-76DCE8D36BE9,243432-1,"""Lipschitz, Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 49 (1935), nomen provis.""","","49","1935",
+gcc-124608,A,Compositae,,Scorzonera,,"taraxaci",,"","Roth",Unresolved,,L,TICA,A79BAFD7-1BBF-4C81-B259-D11B32B2393D,,"Beitr. Bot. i. (1782) 120.","","","1782",
+gcc-145889,A,Compositae,,Scorzonera,,"taraxacifolia",,"","Jacq.",Synonym,,M,TICA,41EACEEF-A8FB-45EE-8002-0CE6F8A690A5,,"""N.J. von Jacquin, Icon. Pl. Rar. 1. 1781-1786""","","","",gcc-105693
+gcc-130475,A,Compositae,,Scorzonera,,"taraxacifolium",,"","Jacq.",Unresolved,,L,TICA,A7B4F18B-B862-4901-872D-DE9D7D35B6C3,,"Ic. Pl. Rar. t. 160.","","t. 160","",
+gcc-86600,A,Compositae,,Scorzonera,,"taraxifolia",,"","Jacq.",Unresolved,,L,TICA,4B8A0DCF-C17B-4161-A562-7B45A2E6793F,,"Icones Plantarum Rariorum 1(4):","","f. 160","1784",
+gcc-36225,A,Compositae,,Scorzonera,,"tau-saghyz",,"","Lipsch. & G.G.Bosse",Accepted,,L,TICA,258F89D2-D9D3-41EF-91C4-432DE0423CF6,243435-1,"","","27","1930",
+gcc-10887,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"karataviensis","(Kult.) Kamelin",Synonym,,L,TICA,5C490598-3E07-4E0A-8237-145E825AEDAF,985514-1,"Fl. Sȳrdar'inskogo Karatau: 36 (1990):","","36","1990",gcc-128167
+gcc-53735,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"longipes","(Kult.) Kamelin",Synonym,,L,TICA,3CE4EB6F-5B78-43A1-9DF7-6876E08629A5,985515-1,"Fl. Sȳrdar'inskogo Karatau: 36 (1990):","","36","1990",gcc-36225
+gcc-69480,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"mariae","(Kult.) Kamelin & Tagaev",Synonym,,L,TICA,0FD48919-9010-40AE-B3DE-E6B5969BFC47,985513-1,"""in R.V. Kamelin, Fl. Sȳrdar'inskogo Karatau: 36 (1990):""","","36","1990",gcc-36225
+gcc-31783,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"rindak","(Ovcz.) Kamelin",Synonym,,L,TICA,6A0198C7-9846-49F8-92C9-3AE314AF521C,,"","","","",gcc-36225
+gcc-147174,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"tau-saghyz","",Synonym,,L,TICA,B5411BA8-F3ED-42E6-8A05-2820601B8CDF,,"","","","",gcc-36225
+gcc-18723,A,Compositae,,Scorzonera,,"tau-saghyz",subsp.,"usbekistanica","(Czevr. & Bondarenko) Tagaev",Synonym,,L,TICA,3CE52260-6906-4532-B428-229441806D52,,"""Bot. Zhurn. 71, 12 : 1275 (1986)""","","1275","1986",gcc-20541
+gcc-124898,A,Compositae,,Scorzonera,,"taurica",,"","M.Bieb.",Synonym,,M,TICA,63DEBD2E-5E33-4D86-A99C-D1C1F272FD39,243436-1,"","","234","1808",gcc-63227
+gcc-19729,A,Compositae,,Scorzonera,,"taurica",,"","Janka ex Nyman",Synonym,Invalid,M,TICA,0D4B677B-46BB-43B2-BCD6-247E09319C4A,243437-1,"Consp. 463","","463","1879",gcc-3818
+gcc-135647,A,Compositae,,Scorzonera,,"tenax",,"","Rech.f.",Accepted,,M,TICA,1D2AEF93-1785-4DAB-9AE6-EA71AAE24705,243438-1,"""in Fl. Iran., 122: 59(1977).""","","59","1977",
+gcc-120898,A,Compositae,,Scorzonera,,"tenorei",,"","C.Presl",Synonym,,M,TICA,D7DF2A5F-BD7C-49CD-A5FA-C895A4ED09A9,243439-1,"","","116","1822",gcc-132237
+gcc-132126,A,Compositae,,Scorzonera,,"tenuifolia",,"","DC.",Synonym,,M,TICA,96B14192-B034-4815-A7FC-E2821D1FAAAE,,"""DC., Prodr. 7. 1838.""","","120","1838",gcc-35362
+gcc-4245,A,Compositae,,Scorzonera,,"tenuifolia",,"","Schrad.",Unresolved,,L,TICA,E35D95E7-84BD-42DB-8754-07E2C5D803A0,243441-1,"Prodr. (DC.) 7(1): 120","","120","1838",
+gcc-75915,A,Compositae,,Scorzonera,,"tenuifolia",,"","Bertol.",Unresolved,,L,TICA,814F8802-C748-43AE-8BC5-6384329A43F0,243440-1,"Fl. Ital. (Bertoloni) viii. 360","","360","",
+gcc-122176,A,Compositae,,Scorzonera,,"tenuisecta",,"","(Grossh. & Sosn.) Czerep.",Accepted,,M,TICA,EDA411F0-8F25-4751-B112-CB7037B031A3,,"Vasc. Pl. Russia Adjacent States : 96 (1994)","","96","1994",
+gcc-153530,A,Compositae,,Scorzonera,,"tenuissima",,"","(Borbás) Rapaicz",Synonym,,L,TICA,EE59155D-4B26-4038-AB39-B04A265098F8,,"Rapaicz in Magyar Bot. Lapok 5. 1906","","227","1906",gcc-143238
+gcc-141940,A,Compositae,,Scorzonera,,"tetuanensis",,"","Webb ex Ball",Synonym,Invalid,M,TICA,2B56EB19-86B3-468B-8730-F88981768C0E,243442-1,"""J. Linn. Soc., Bot. xvi. (1878) 551""","","551","1878",gcc-71256
+gcc-125345,A,Compositae,,Scorzonera,,"thirkei",,"","Sch.Bip.",Synonym,,M,TICA,09A737A0-7DE7-47F3-A60D-D2D10AC53827,,"Linnaea 19: 314. 1846","","314","",gcc-128575
+gcc-114096,A,Compositae,,Scorzonera,,"tianshanensis",,"","C.H.An",Accepted,,M,TICA,7E1BA10A-C1D0-40BB-A14A-B90F6890B793,1017282-1,"""in Fl. Xinjiangensis, 5: 480 (1999)""","","480","1999",
+gcc-43620,A,Compositae,,Scorzonera,,"tingitana",,"","L.",Synonym,,M,TICA,C9E1055E-44C5-432B-858B-50DC179AAB31,243444-1,"","","791","1753",gcc-98531
+gcc-39564,A,Compositae,,Scorzonera,,"tomentosa",,"","Siev. ex Ledeb.",Synonym,Invalid,M,TICA,55A124E3-26D5-48D3-A603-496A83B0C52B,,"Fl. Alt. iv. 163.","","","1833",gcc-3818
+gcc-83532,A,Compositae,,Scorzonera,,"tomentosa",,"","L.",Accepted,,M,TICA,C18C1477-BAB1-4B8C-AF6C-74828EDE54C2,243447-1,"","","1112","1763",
+gcc-8851,A,Compositae,,Scorzonera,,"tomentosa",,"","Pall.",Synonym,Invalid,M,TICA,68EE453A-4AD6-4F32-AE7C-1091629C3445,,"""Reise, iii. 513.""","","","1776",gcc-112106
+gcc-156307,A,Compositae,,Scorzonera,,"tomentosa",var.,"tomentosa","",Synonym,,L,TICA,9064E9D1-A350-44A9-BE93-EA68AB022F5B,,"","","","",gcc-83532
+gcc-154534,A,Compositae,,Scorzonera,,"tomentosa",var.,"undulatifolia","(Boiss.) Boiss.",Synonym,,L,TICA,69EA10A8-38B6-4545-A661-C5C9F9202F1B,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","773","1875",gcc-83532
+gcc-143242,A,Compositae,,Scorzonera,,"tortuosissima",,"","Boiss.",Accepted,,M,TICA,B4CA10C7-523A-468A-98D0-FB72704800C2,243448-1,"","","775","1875",
+gcc-152787,A,Compositae,,Scorzonera,,"tortuosissima",var.,"microcalathia","Rech.f.",Synonym,,L,TICA,CFB45A4B-3B2C-41A3-A637-A07FD55B1C8A,,"""Rechinger, Karl Heinz  in Ann. Naturhist. Mus. Wien 55. 1944""","","291","1944",gcc-139982
+gcc-147602,A,Compositae,,Scorzonera,,"tortuosissima",var.,"tortuosissima","",Synonym,,L,TICA,53D1691C-6DE5-41A7-B78D-30E4BF0FD37F,,"","","","",gcc-143242
+gcc-135166,A,Compositae,,Scorzonera,,"trachysperma",,"","Guss.",Synonym,,M,TICA,F9A7C560-4863-429F-BA93-E95FC4989D60,,"","","319","1826 (Jun.-Dec.)",gcc-54075
+gcc-16993,A,Compositae,,Scorzonera,,"trachysperma",,"","guenth. ex Spreng.",Synonym,,M,TICA,1211A186-5A4F-4EC5-A38F-1F68DF961C66,243449-1,"","","666","1826",gcc-64224
+gcc-118269,A,Compositae,,Scorzonera,,"tragopogonoides",,"","Regel & Schmalh.",Accepted,,M,TICA,EC17B45B-E4D9-4BF2-8B66-C28ADBA24BA5,243450-1,"","","635","1877",
+gcc-25289,A,Compositae,,Scorzonera,,"tragopogonoides",subsp.,"baldshuanica","(Lipsch.) Tagaev",Synonym,,L,TICA,AF0EFD37-A2EB-4895-8FBC-2EAE7B318271,,"""Bot. Zhurn. 71,12 : 1677 (1986)""","","1677","1986",gcc-44013
+gcc-151745,A,Compositae,,Scorzonera,,"tragopogonoides",subsp.,"tragopogonoides","",Synonym,,L,TICA,5E10A1C5-9764-4937-9FF3-8B6233411919,,"","","","",gcc-118269
+gcc-104351,A,Compositae,,Scorzonera,,"transiliensis",,"","Popov",Accepted,,M,TICA,42D1AE96-9748-4F0A-9048-A34EB2FC3053,243451-1,"""in Lipschitz, Fragm. Monogr. Gen. Scorzon. 11. (Soc. Nat. Mosc.) 148 (1939).""","","148","1939",
+gcc-118938,A,Compositae,,Scorzonera,,"transitoria",,"","Lipsch.",Synonym,,M,TICA,7B1BFD33-8D0E-4291-A4AD-C42141BBFF10,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xxii. 297 (1963).""","","","1963",gcc-122634
+gcc-121333,A,Compositae,,Scorzonera,,"transtagana",,"","Cout.",Synonym,,M,TICA,1615D4B6-EE7E-410B-83ED-C993C8A9F216,,"","","690","1913",gcc-63227
+gcc-132437,A,Compositae,,Scorzonera,,"troodea",,"","Boiss.",Accepted,,M,TICA,9362888E-1FDB-47A8-B43F-E344A32E21A5,243454-1,"","","320","1888",
+gcc-142369,A,Compositae,,Scorzonera,,"tuberculata",,"","J.Thiébaut",Accepted,,M,TICA,6AB854CC-68C2-4E5C-9436-F97186481625,243455-1,"","","698","1938",
+gcc-142265,A,Compositae,,Scorzonera,,"tuberosa",,"","Pall.",Accepted,,M,TICA,ADDEAABD-AE74-45A9-BA22-F9406777BDC0,,"","","757","1776",
+gcc-84272,A,Compositae,,Scorzonera,,"tuberosa",,"","Walp.",Unresolved,,L,TICA,61DD8422-780F-4870-937B-762CF979CBEF,243456-1,"""Repert. Bot. Syst. (Walpers) vi. 351, sphalm.""","","351","",
+gcc-34721,A,Compositae,,Scorzonera,,"tuberosa",var.,"sericeo-lanata","Bunge",Synonym,,L,TICA,8D2AB88E-5CEF-4F17-BED2-40620C941FF0,,"Beitr. z. Kenntn. d. Fl. Russl. u. Stepp. Centr.-As.","","200","1851",gcc-43212
+gcc-149243,A,Compositae,,Scorzonera,,"tuberosa",var.,"tuberosa","",Synonym,,L,TICA,65663587-198A-4A4B-951F-54CBE81F4464,,"","","","",gcc-142265
+gcc-35697,A,Compositae,,Scorzonera,,"tunicata",,"","Rech.f. & Köie",Accepted,,M,TICA,EFBF40FB-4430-46E4-A8B5-423528495824,243458-1,"","","196","1955",
+gcc-130256,A,Compositae,,Scorzonera,,"turcomanica",,"","Krasch. & Lipsch.",Synonym,,M,TICA,6C2DDC62-C90B-4ADE-889F-DE228DC1D565,243459-1,"""Lipschitz, Fragm. Monogr. Gen. Scorzon. (Trans. Rubber & Guttap. Inst.,Moscow) 80 (1935).""","","80","1935",gcc-114593
+gcc-90885,A,Compositae,,Scorzonera,,"turkestanica",,"","Franch.",Accepted,,M,TICA,A679AB81-E7C5-41F6-B641-85193BB801D0,,"","","333","1883",
+gcc-58605,A,Compositae,,Scorzonera,,"turkestanica",subsp.,"susamyrica","Tagaev",Synonym,,L,TICA,A65CF03B-FD4B-4A7C-8B04-9011CDDC0F62,919119-1,"""in Bot. Zhurn., 70(8): 1059 (1985)""","","1059","1985",gcc-90885
+gcc-156586,A,Compositae,,Scorzonera,,"turkestanica",subsp.,"turkestanica","",Synonym,,L,TICA,6BFA44BD-9CD9-44DE-B534-F06FB52C2ACC,,"","","","",gcc-90885
+gcc-95779,A,Compositae,,Scorzonera,,"turkeviczii",,"","Krasch. & Lipsch.",Synonym,,M,TICA,521EAE3F-CD9A-4690-8A47-90269B010EC0,243461-1,"","","83","1935",gcc-137711
+gcc-22961,A,Compositae,,Scorzonera,,"turkeviczii",var.,"kubanica","Krasch. & Lipsch.",Synonym,,L,TICA,1DCA7851-D09F-4145-A57B-2A81EE1B76C6,77070525-1,"Fragm. monogr. Scorzonera 83. 1935","","83","1935",gcc-137711
+gcc-150087,A,Compositae,,Scorzonera,,"turkeviczii",var.,"turkeviczii","",Synonym,,L,TICA,DD87340D-319D-4506-8955-66F02CB6A5BD,,"","","","",gcc-137711
+gcc-90268,A,Compositae,,Scorzonera,,"ulrichii",,"","Parolly & N.Kilian",Accepted,,M,TICA,8FF6C381-2921-4EB8-8CA6-83967DA7CA31,,"","","198","2002",
+gcc-2069,A,Compositae,,Scorzonera,,"undulata",,"","Vahl",Accepted,,M,TICA,D0755EAC-99D3-4158-A10C-03B9CD358AE2,243462-1,"","","86","1791",
+gcc-4958,A,Compositae,,Scorzonera,,"undulata",var.,"alexandrina","(Boiss.) Baratte",Synonym,,L,TICA,5FA67D58-8CBB-4ADF-911E-093F6CA477EE,,"","","","",gcc-2069
+gcc-54036,A,Compositae,,Scorzonera,,"undulata",subsp.,"alexandrina","(Boiss.) Maire",Synonym,,L,TICA,B912AD21-3D71-4C60-ABBC-6AD5C13AFE55,,"","","","",gcc-2069
+gcc-71256,A,Compositae,,Scorzonera,,"undulata",subsp.,"deliciosa","(DC.) Maire",Accepted,,L,TICA,1D9708DE-D590-4D33-BB51-F4D013F870E2,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 22. 1931.","","54","1931",
+gcc-61421,A,Compositae,,Scorzonera,,"undulata",var.,"filifolia","Batt.",Synonym,,L,TICA,3F0F4B09-751E-4545-BECA-A6681EF32954,,"","","","",gcc-2069
+gcc-69883,A,Compositae,,Scorzonera,,"undulata",var.,"lancifolia","Pomel",Synonym,,L,TICA,6A3F916E-8D6A-4E81-ADCA-E9D6C3E2A0BC,,"","","","",gcc-2069
+gcc-58499,A,Compositae,,Scorzonera,,"undulata",var.,"tetuanensis","(Webb) Pau",Synonym,,L,TICA,02BF6D2D-75D2-4D67-BB5D-8F3BAD1B5BCB,,"","","","",gcc-2069
+gcc-152427,A,Compositae,,Scorzonera,,"undulata",var.,"undulata","",Synonym,,L,TICA,95E30978-639E-4ADD-B90D-995298F4CC4A,,"","","","",gcc-2069
+gcc-54929,A,Compositae,,Scorzonera,,"undulata",subsp.,"undulata","",Synonym,,L,TICA,0F43063E-0F44-4FCD-890E-71F5D2E1E5D4,,"","","","",gcc-2069
+gcc-20541,A,Compositae,,Scorzonera,,"usbekistanica",,"","Czevr. & Bondarenko",Accepted,,M,TICA,EC791550-86E0-466B-9F65-260173DB75CC,,"Dokl. Akad. Nauk Uzbeks. SSR 3 : 37 (1950)","","37","1950",
+gcc-132272,A,Compositae,,Scorzonera,,"vaginata",,"","Bertol.",Synonym,,M,TICA,2C5A589B-B9C9-43DC-9A48-E2D7948D01E7,,"Misc. Bot. ii. 235.","","","1844",gcc-106921
+gcc-80726,A,Compositae,,Scorzonera,,"valentina",,"","Pau",Synonym,,L,TICA,04A4A0A0-2854-4D26-9BD8-6E313ED9F9C5,,"""in Bull. Geogr. Bot. 1906, xvi. No. 206 (Decemb). 77.""","","","1906",gcc-37577
+gcc-44851,A,Compositae,,Scorzonera,,"variifolia",,"","Salisb.",Synonym,Illegitimate,M,TICA,11E5632C-6E9D-4281-9A0C-53161210422A,243466-1,"Prodr. Stirp. Chap. Allerton 179","","179","1796",gcc-31506
+gcc-141156,A,Compositae,,Scorzonera,,"vavilovii",,"","Kult.",Synonym,,M,TICA,730E9357-DDE7-472F-8171-F6AF06430FD5,243467-1,"Tau-Sagyz Ekol. Osnov. Vved. Kult. 56","","","1938",gcc-36225
+gcc-35467,A,Compositae,,Scorzonera,,"velutina",,"","DC.",Synonym,,M,TICA,C1B6DF7E-D94B-4E09-BD80-41C1FE5D3281,243468-1,"Prodr. (DC.) 7(1): 123","","123","1838",gcc-112106
+gcc-80290,A,Compositae,,Scorzonera,,"veratrifolia",,"","Fenzl",Accepted,,M,TICA,4DBBC3A0-E1D6-4C59-A30F-6D49B91756DD,243469-1,"","","399","1843",
+gcc-87063,A,Compositae,,Scorzonera,,"veresczaginii",,"","Kamelin & S.V.Smirn.",Accepted,,M,TICA,4A599F52-8D3D-458D-9752-7C67B1EAAFB9,,"Turczaninowia 5(1): 17 (2002).","","17","2002",
+gcc-8105,A,Compositae,,Scorzonera,,"verrucosa",,"","(Boiss. & Balansa) Boiss.",Accepted,,M,TICA,FBD83EE6-D129-4C63-9F2D-0F136BF09B9B,243470-1,"","","764","1875",
+gcc-109169,A,Compositae,,Scorzonera,,"villosa",,"","M.Bieb.",Unresolved,,L,TICA,64E43956-A738-41C2-B641-AE09296A9CA7,243472-1,"Fl. Taur.-Caucas. ii. 235.","","ii. 235","",
+gcc-81443,A,Compositae,,Scorzonera,,"villosa",,"","Scop.",Accepted,,M,TICA,A695D5D9-FE8F-4EB8-BAAF-6FCE7410B537,243471-1,"","","97","1772",
+gcc-24842,A,Compositae,,Scorzonera,,"villosa",subsp.,"callosa","(Moris) Chater",Synonym,,L,TICA,BAAA3FDC-CDFB-4DCF-852E-2DE7F2A06D86,878250-1,"Chater in Bot. J. Linn. Soc. 71. 1976.","","270","1976",gcc-6248
+gcc-54507,A,Compositae,,Scorzonera,,"villosa",subsp.,"columnae","(Guss.) Nyman",Accepted,,L,TICA,EBDA0552-549F-43D0-A2EF-6EAE92968489,,"""Nyman, Consp. Fl. Eur. 1879.""","","465","1879",
+gcc-54828,A,Compositae,,Scorzonera,,"villosa",subsp.,"villosa","",Synonym,,L,TICA,CB715940-7558-4B0A-BE4F-712E820891C1,,"","","","",gcc-81443
+gcc-3070,A,Compositae,,Scorzonera,,"villosiformis",,"","(Fiori) Vierh.",Synonym,,M,TICA,7941509F-FB1A-4C25-BA65-05AF0BAAD64F,243473-1,"","","66","1915",gcc-54507
+gcc-30638,A,Compositae,,Scorzonera,,"violacea",,"","D.F.Chamb.",Accepted,,M,TICA,9ABCFE4F-B8EE-4C2A-969E-38B7E0EE7EEA,,"","","256","1974",
+gcc-3567,A,Compositae,,Scorzonera,,"virgata",,"","DC.",Accepted,,M,TICA,EE3D97FF-DACC-4370-8372-0693EABDCF8B,243475-1,"","","125","1838",
+gcc-40603,A,Compositae,,Scorzonera,,"wendelboi",,"","Rech.f.",Accepted,,M,TICA,673EE9FD-9669-491F-B7F0-4B3FE3D7F8EF,243476-1,"""in Fl. Iran., 122: 66 (1977).""","","66","1977",
+gcc-2129,A,Compositae,,Scorzonera,,"woronowii",,"","Krasch.",Accepted,,M,TICA,E74E2405-4D69-4677-87B5-03D0D31A9BEC,243477-1,"","","178","1933",
+gcc-134761,A,Compositae,,Scorzonera,,"xylobasis",,"","Rech.f.",Accepted,,M,TICA,03ED3036-6A77-4318-8C5B-E87F564A19C3,243478-1,"""in Fl. Iran., 122: 66 (1977).""","","66","1977",
+gcc-132016,A,Compositae,,Scorzonera,,"yemensis",,"","Podlech",Accepted,,M,TICA,A650FB2B-BEFE-4EFD-8151-E24A87B74D56,,"Mitt. Bot. Staatssamml. München 18: 437 (1982)","","437","",
+gcc-92114,A,Compositae,,Scorzonera,,"yildirimlii",,"","A.Duran & Hamzaoglu",Accepted,,M,TICA,D3122FD8-5EC9-4C13-8CFC-87E29F1F2166,,"","","48","2004",

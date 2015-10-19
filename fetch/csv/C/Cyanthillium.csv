@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28844,A,Compositae,,Cyanthillium,,"albicans",,"","(DC.) H.Rob.",Accepted,,M,TICA,C261B5E5-CF27-483E-B20C-3550A8A44314,1010895-1,"","","229","1999",
+gcc-87997,A,Compositae,,Cyanthillium,,"chinense",,"","(L.) Gleason",Synonym,,M,TICA,AAC49D1A-6791-416C-AE06-7E74671062CF,73083-2,"Bull. Torrey Bot. Club 40","","306","1913",gcc-2823
+gcc-149577,A,Compositae,,Cyanthillium,,"cinereum",,"","(L.) H.Rob.",Accepted,,M,TICA,A8E2483C-FF83-4FEE-9118-5BF55E7E9EF9,962413-1,"Proc. Biol. Soc. Wash. 103","","252","1990",
+gcc-46170,A,Compositae,,Cyanthillium,,"cinereum",var.,"cinereum","",Synonym,,L,TICA,67DFB23A-7995-4EC9-A577-55953B54D2A9,,"","","","",gcc-149577
+gcc-54326,A,Compositae,,Cyanthillium,,"cinereum",var.,"ovatum","Isawumi",Synonym,,L,TICA,DE0C7523-012F-4AF1-9F07-6D1A9E64D964,983904-1,"","","16","1995",gcc-149577
+gcc-64996,A,Compositae,,Cyanthillium,,"cinereum",var.,"ugandense","(C.Jeffrey) Isawumi",Synonym,,L,TICA,EF5E056D-7AC2-4433-AE82-C2EB6157F192,983902-1,"","","15","1995",gcc-58230
+gcc-66474,A,Compositae,,Cyanthillium,,"cinereum",var.,"viale","(DC.) Isawumi",Synonym,,L,TICA,95EE7AA9-A17F-4088-92D7-CF072F3FD152,983903-1,"","","16","1995",gcc-28250
+gcc-7160,A,Compositae,,Cyanthillium,,"conyzoides",,"","(DC.) H.Rob.",Accepted,,M,TICA,2D35516B-3693-46AD-B5A8-0D5106E00623,1010896-1,"","","229","1999",
+gcc-133335,A,Compositae,,Cyanthillium,,"cordifolium",,"","(Benth. ex Oliv.) H.Rob.",Synonym,,M,TICA,74F5EC18-640F-4B94-92CB-E547C763BF35,275481-2,"Phytologia 69","","106","1990",gcc-99947
+gcc-121730,A,Compositae,,Cyanthillium,,"hookerianum",,"","(Arn.) H.Rob.",Accepted,,M,TICA,A598B62E-DAE3-42D9-9B3A-CA6B0A02A534,1010897-1,"","","229","1999",
+tro-100378089,A,Compositae,,Cyanthillium,,"maritimum",,"","(Merr.) H. Rob. & Skvarla",Synonym,,M,TRO,100378089,,"","","","",gcc-98505
+gcc-149052,A,Compositae,,Cyanthillium,,"moluccense",,"","(Miq.) Blume",Synonym,,M,TICA,1A80DE5E-5C29-44DA-AAE2-5079461D07A8,200749-1,"","","890","1826",gcc-32065
+gcc-115562,A,Compositae,,Cyanthillium,,"patulum",,"","(Dryand. ex Dryand.) H.Rob.",Accepted,,M,TICA,965BCFCF-F600-438A-953F-BC75394B80EA,,"","","252","1990",
+gcc-6304,A,Compositae,,Cyanthillium,,"polytrichomata",,"","(Wech.) H.Rob.",Synonym,,M,TICA,57AA7A4F-E0A2-43CB-96AE-0BBC1ED57B82,,"","","106","1990",gcc-6738
+gcc-106822,A,Compositae,,Cyanthillium,,"polytrichotoma",,"","(Wech.) H.Rob.",Synonym,,M,TICA,77BF9684-2B75-448D-A4FC-A8B23B13937E,,"Phytologia 69(2):","","105-107","1990",gcc-115699
+gcc-105534,A,Compositae,,Cyanthillium,,"pubescens",,"","Blume",Synonym,,M,TICA,21A5BBB7-3E49-4CBE-8D6D-A5C906FDA257,200750-1,"","","890","1826",gcc-115562
+gcc-12462,A,Compositae,,Cyanthillium,,"stelluliferum",,"","(Benth.) H.Rob.",Accepted,,M,TICA,4E07AF62-2F5E-4FCA-943D-173E2BD86235,962415-1,"","","252","1990",
+gcc-7973,A,Compositae,,Cyanthillium,,"vernonioides",,"","(Muschl.) H.Rob.",Accepted,,M,TICA,332BD143-5D88-439C-9D19-0ED586E084D7,1010898-1,"","","229","1999",
+gcc-10005,A,Compositae,,Cyanthillium,,"villosum",,"","Blume",Synonym,,M,TICA,DE6CA9BC-9E81-4682-BD2F-12B865F99972,200751-1,"","","889","1826",gcc-115562
+gcc-147209,A,Compositae,,Cyanthillium,,"wollastonii",,"","(S.Moore) H.Rob.",Accepted,,M,TICA,094B7532-A4F4-4D93-BF0F-289B739B3410,,"","","","",

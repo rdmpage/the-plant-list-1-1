@@ -1,0 +1,99 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104004,A,Compositae,,Tripteris,,"afromontana",,"","(Norl.) B.Nord.",Accepted,,M,TICA,F27BD9F4-EF0C-40F9-9467-A28CFDCFBA17,980412-1,"""in Compositae Newsl., 25: 47 (1994):.""","","47","1994",
+gcc-125586,A,Compositae,,Tripteris,,"aghillana",,"","DC.",Accepted,,M,TICA,34C76B60-EBB6-4E87-B6CC-D3648479241F,256571-1,"Prodr. (DC.) 6: 457","","457","1838",
+gcc-61150,A,Compositae,,Tripteris,,"aghillana",var.,"aghillana","",Synonym,,L,TICA,0FF84521-5508-45F2-ACEA-A4422783671B,,"","","","",gcc-125586
+gcc-69119,A,Compositae,,Tripteris,,"aghillana",var.,"integrifolia","Harv.",Accepted,,L,TICA,E98E13D2-2070-435D-8EB4-E4024A4FC812,,"Flora Capensis 3:","","429","1865",
+gcc-34951,A,Compositae,,Tripteris,,"amplectens",,"","Harv.",Synonym,,M,TICA,0BCC06B1-343E-4A12-846C-40CB1A54779A,,"Fl. Cap. (Harvey) iii. 427","","427","",gcc-31567
+gcc-100006,A,Compositae,,Tripteris,,"amplexicaulis",,"","(Thunb.) Less.",Accepted,,M,TICA,70AC1F6E-8138-4C9F-B3C9-999C924D2EC1,256574-1,"Linnaea 6: 97. 1831","","97","1831",
+gcc-127200,A,Compositae,,Tripteris,,"amplexicaulis",,"","DC.",Synonym,,M,TICA,0237AABF-50D1-48BC-8F3F-D719B3AB33E9,256573-1,"Prodr. (DC.) 6: 457","","457","1838",gcc-31567
+gcc-147098,A,Compositae,,Tripteris,,"amplexicaulis",var.,"amplexicaulis","",Synonym,,L,TICA,ECAEE85B-5665-42CB-BE78-2683D118DF6F,,"","","","",gcc-100006
+gcc-59097,A,Compositae,,Tripteris,,"amplexicaulis",var.,"microtis","DC.",Synonym,,L,TICA,B5BEBC42-CEA4-42A7-9227-93BB4D1206DA,,"","","","",gcc-50811
+gcc-137789,A,Compositae,,Tripteris,,"angolensis",,"","(Norl.) B.Nord.",Accepted,,M,TICA,4FC28447-7A8F-46E8-A858-EF3405EDF819,980413-1,"""in Compositae Newsl., 25: 47 (1994):.""","","47","1994",
+gcc-8039,A,Compositae,,Tripteris,,"angustissima",,"","S.Moore",Synonym,,M,TICA,97014B86-62F7-4819-850A-0EF6568E5E4F,256575-1,"""in Journ. Bot. 1900, 460.""","","460","1900",gcc-121055
+gcc-89621,A,Compositae,,Tripteris,,"arborescens",,"","(Jacq.) Less.",Synonym,,M,TICA,4BAB06D3-78D0-418B-9023-821C89210DB6,,"Linnaea 6: 96. 1831","","","1831",gcc-137445
+gcc-9168,A,Compositae,,Tripteris,,"arborescens",,"","Harv.",Synonym,Illegitimate,M,TICA,6E27D110-8C94-4624-8C3B-112639719A16,,"Flora Capensis 3:","","431","1865",gcc-16311
+gcc-5174,A,Compositae,,Tripteris,,"atropurpurea",,"","Turcz.",Synonym,,M,TICA,57F40A70-282A-4BD7-8F93-09A72CCE492B,83670-3,"","","","1851",gcc-118341
+gcc-43280,A,Compositae,,Tripteris,,"auriculata",,"","S.Moore",Accepted,,M,TICA,453194B7-3A35-43DB-8A8B-50319C936E0D,256578-1,"""in Journ. Bot. 1919, lvii. 90.""","","lvii. 90.","1919",
+gcc-111960,A,Compositae,,Tripteris,,"bolusii",,"","Compton",Synonym,,M,TICA,1A8F6053-A008-407A-BE19-B451EC3F8B24,,"Trans. Roy. Soc. South Africa xix. 324 (1931).","","324","",gcc-2596
+gcc-46982,A,Compositae,,Tripteris,,"breviradiata",,"","(Norl.) B.Nord.",Synonym,,M,TICA,BB986D9C-910B-48D5-8C4E-57127F4FF4F9,980414-1,"""in Compositae Newsl., 25: 48 (1994):.""","","48","1994",gcc-93924
+gcc-21075,A,Compositae,,Tripteris,,"burchellii",,"","Hook.f.",Synonym,,M,TICA,1896CEB6-90BE-4A17-98A9-26EFE0A7131E,256580-1,"""in Melliss, St. Helena, 290. t. 45.""","","290. t. 45.","",gcc-107506
+tro-100000150,A,Compositae,,Tripteris,,"calcicola",,"","J.C. Manning & Goldblatt",Unresolved,,L,TRO,100000150,77091762-1,"Bothalia","38(1): 86, 85–88; fig. 17, map","86","2008",
+gcc-38474,A,Compositae,,Tripteris,,"cheiranthifolia",,"","Sch.Bip.",Synonym,Invalid,M,TICA,A867CF0C-DBD2-4E80-98F7-475FD0BCD1D3,,"""Flora, xxiv. (1841) I. Intell. 26, nomen.""","","","",gcc-121055
+gcc-39938,A,Compositae,,Tripteris,,"cheiranthifolia",,"","Sch.Bip. ex Hochst.",Unresolved,,L,TICA,5D4336EA-6E3C-405F-8BD5-4A21A20F2D4C,256581-1,"""in Flora, xxiv. (1841) I. Intell. 26, nomen.""","","""xxiv.  I. Intell. 26, nomen""","1841",
+gcc-138378,A,Compositae,,Tripteris,,"clandestina",,"","Less.",Synonym,,M,TICA,33F7C237-41A0-446E-B5D3-F072F2E2D2AE,256582-1,"Linnaea 6","","97","1831",gcc-118341
+gcc-152822,A,Compositae,,Tripteris,,"clandestina",var.,"clandestina","",Synonym,,L,TICA,16E5D59C-517C-4D9E-8CD2-A13A19D97E47,,"","","","",gcc-118341
+gcc-19365,A,Compositae,,Tripteris,,"concordiae",,"","Schltr.",Synonym,,M,TICA,36B452CB-758B-4114-A8EA-23CCD8BBFE09,,"","","","",gcc-20759
+gcc-29830,A,Compositae,,Tripteris,,"concordiae",,"","Schltr. ex Dinter",Unresolved,,L,TICA,D8BEAE5F-4227-4C5F-B5B6-372A596FED58,256583-1,"""Repert. Spec. Nov. Regni Veg. 24: 302, nomen""","","302","1928",
+gcc-100537,A,Compositae,,Tripteris,,"confusa",,"","Bolus",Synonym,,M,TICA,8B969665-E4A9-4BC4-8144-9AD67C1229A7,,"Trans. S. African Philos. Soc. xvi. 394 (1906).","","394","",gcc-31567
+gcc-131207,A,Compositae,,Tripteris,,"crassifolia",,"","O.Hoffm.",Accepted,,M,TICA,C1484126-8B24-41BE-8957-E05CE2FE380C,256585-1,"Bot. Jahrb. Syst. x. (1888) 280.","","x.  280.","1888",
+gcc-137445,A,Compositae,,Tripteris,,"dentata",,"","(Burm.f.) Harv.",Accepted,,M,TICA,A6493E36-D1F0-448E-A14A-EE7ABF765670,,"Fl. Cap. (Harvey) iii. 427","","427","",
+gcc-4709,A,Compositae,,Tripteris,,"flexuosa",,"","Harv.",Synonym,,M,TICA,ECF78871-2185-4E6A-9EB3-08C175010C77,,"Fl. Cap. (Harvey) iii. 429","","429","",gcc-125586
+gcc-111389,A,Compositae,,Tripteris,,"fruticosa",,"","Muschl. ex Dinter",Synonym,Invalid,M,TICA,BDA24FB3-33EA-4F96-A1E9-B2FE74FC7FD9,256588-1,"""Repert. Spec. Nov. Regni Veg. 24: 303, nomen""","","303","1928",gcc-97510
+gcc-82467,A,Compositae,,Tripteris,,"fruticosa",,"","Muschl.",Synonym,,M,TICA,6F5FF1E4-9895-4975-BD83-7225503A6EE4,,"","","","",gcc-131207
+gcc-87759,A,Compositae,,Tripteris,,"fruticosa",,"","Muschl. ex Engl.",Synonym,Invalid,M,TICA,C62AC54A-F6C3-42D3-9BB1-7DF3D49C9DE4,,"","","","",gcc-131207
+gcc-52061,A,Compositae,,Tripteris,,"gariepina",,"","Sond. ex Harv. & Sond.",Unresolved,,L,TICA,AB0BD518-F96F-42C6-B135-60907B407414,,"Fl. Cap. (Harvey) iii. 432","","432","",
+gcc-88375,A,Compositae,,Tripteris,,"glabra",,"","C.A.Sm.",Synonym,,M,TICA,2C1D447E-A931-4A54-BFE0-7F49B2BA48C4,256590-1,"Bothalia ii. 362 (1927).","","ii. 362","1927",gcc-33351
+gcc-93659,A,Compositae,,Tripteris,,"glabrata",,"","(Thunb.) Harv.",Synonym,,M,TICA,B7CCA73D-707D-410A-BDED-8B2ACC3FD913,256591-1,"Fl. Cap. (Harvey) iii. 425","","425","1865",gcc-4425
+gcc-121788,A,Compositae,,Tripteris,,"glandulosa",,"","Muschl. ex Dinter",Unresolved,,L,TICA,4A808756-9391-4281-8FCF-CA8A4165D5DB,256593-1,"""Repert. Spec. Nov. Regni Veg. 24: 303, nomen""","","303","1928",
+gcc-92141,A,Compositae,,Tripteris,,"glandulosa",,"","Muschl.",Synonym,,M,TICA,E2A86411-1BD4-4269-8BEB-87F730B874AB,,"","","","",gcc-50811
+gcc-94079,A,Compositae,,Tripteris,,"glandulosa",,"","Turcz.",Synonym,,M,TICA,D87F1EEA-9B9C-4C1B-A6BC-8C25DA8609DF,256592-1,"in Bull. Soc. Nat. Mosc. xxiv. (1851) II. 93.","","xxiv.  II. 93.","1851",gcc-69119
+gcc-66302,A,Compositae,,Tripteris,,"glandulosa",var.,"dentata","Harv.",Synonym,,L,TICA,D4F52CC3-7343-41F9-8FDF-CDB0B2B611AE,,"","","430","1865",gcc-125586
+gcc-42939,A,Compositae,,Tripteris,,"glandulosa",var.,"glandulosa","",Synonym,,L,TICA,54984704-DEDC-40A8-9F89-4F876AF70E0D,,"","","","",gcc-50811
+gcc-96672,A,Compositae,,Tripteris,,"goetzei",,"","O.Hoffm.",Synonym,,M,TICA,5B9117E0-ED44-41F9-8AC2-921E343E092A,,"Bot. Jahrb. Syst. xxx. 439.","","xxx. 439.","",gcc-107951
+gcc-126540,A,Compositae,,Tripteris,,"gossweileri",,"","Mattf.",Synonym,,M,TICA,735789B1-162E-427F-8EC7-D58DCCDC218C,256595-1,"""Bot. Jahrb. Syst. lix. Beibl. 133, 44 (1924).""","","""lix. Beibl. 133, 44""","1924",gcc-107951
+gcc-88003,A,Compositae,,Tripteris,,"gracilis",,"","Hutch.",Synonym,,M,TICA,8E64EBA2-1D23-4D2E-BA26-7E7950298FDF,,"Ann. S. African Mus. ix. 417 (1917).","","417","",gcc-31567
+gcc-115104,A,Compositae,,Tripteris,,"gweloensis",,"","Mattf.",Synonym,,M,TICA,8BA636BC-E3FC-4C6E-89CE-BB5BE3A9C408,256597-1,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 180","","180","1922",gcc-107951
+gcc-19873,A,Compositae,,Tripteris,,"herbacea",,"","E.Mey. ex DC.",Synonym,,M,TICA,C7D0D01A-B183-44F9-8BC7-24C0744E2D1D,256598-1,"Prodr. (DC.) 6: 458","","458","1838",gcc-118341
+gcc-80405,A,Compositae,,Tripteris,,"humilis",,"","Turcz.",Synonym,,M,TICA,FF2435B8-468A-498F-A7C7-6D87B6D86399,256599-1,"in Bull. Soc. Nat. Mosc. xxiv. (1851) I. 211.","","xxiv.  I. 211.","1851",gcc-125586
+gcc-5186,A,Compositae,,Tripteris,,"hyoseroides",,"","DC.",Synonym,,M,TICA,9CA7FA21-6BF3-4868-96E0-09AF62F64D0E,,"Prodr. (DC.) 6: 458","","458","",gcc-112531
+gcc-22080,A,Compositae,,Tripteris,,"hyoseroides",var.,"echinocarpa","DC.",Synonym,,L,TICA,75AA1EB8-4AD0-4982-8B52-28D55CE89EA3,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","458","1837 [1838]",gcc-118341
+gcc-152826,A,Compositae,,Tripteris,,"hyoseroides",var.,"hyoseroides","",Synonym,,L,TICA,2073702F-7E0C-4D21-9F89-A1475524DB6D,,"","","","",gcc-112531
+gcc-97374,A,Compositae,,Tripteris,,"incana",,"","Harv.",Synonym,,M,TICA,C50D21BB-29D1-42CC-ABCD-93B9DB0C0434,,"Fl. Cap. (Harvey) iii. 426","","426","",gcc-4425
+gcc-130947,A,Compositae,,Tripteris,,"integrifolia",,"","Dinter",Synonym,,M,TICA,90892ED3-F0E4-4726-ADDC-DFBED03BDC8A,,"","","","",gcc-97510
+gcc-130779,A,Compositae,,Tripteris,,"karrooica",,"","Bolus",Synonym,,M,TICA,93E07B23-6930-4DA9-8BE5-DF59C7BDD5AA,256604-1,"Trans. S. African Philos. Soc. xvi. 394 (1906)","","394","1906",gcc-97510
+gcc-117232,A,Compositae,,Tripteris,,"kraussii",,"","Sch.Bip.",Synonym,,M,TICA,2D80FAE2-FB4F-4525-8CCB-C02CBE0B7003,256605-1,"""in Flora, xxvii. (1844) 767.""","","xxvii.  767","1844",gcc-69119
+gcc-103437,A,Compositae,,Tripteris,,"leptoloba",,"","Harv.",Synonym,,M,TICA,D33094C7-18FB-452F-8EFB-A1408AD117B9,256606-1,"Fl. Cap. (Harvey) iii. 432","","432","1865",gcc-103540
+gcc-13051,A,Compositae,,Tripteris,,"leptophylla",,"","Muschl. ex Dinter",Unresolved,,L,TICA,472DE97D-5E73-4DCF-BE3E-184D690B51A8,256607-1,"""Repert. Spec. Nov. Regni Veg. 24: 303, nomen""","","303","1928",
+gcc-51137,A,Compositae,,Tripteris,,"limonifolia",,"","DC.",Synonym,,M,TICA,CBDF0CB9-8FF3-414F-8D99-5EDDE97DE54F,256608-1,"Prodr. (DC.) 6: 458","","458","1838",gcc-118172
+gcc-48582,A,Compositae,,Tripteris,,"linearis",,"","Harv.",Synonym,,M,TICA,E838F71F-D91A-43B6-936C-59FC6509B8C3,,"Fl. Cap. (Harvey) iii. 426","","426","",gcc-8093
+gcc-135229,A,Compositae,,Tripteris,,"lordii",,"","Oliv. & Hiern",Synonym,,M,TICA,831673F6-9FC4-4327-A78A-E984C3F9B017,256610-1,"Fl. Trop. Afr. [Oliver et al.] 3: 424","","424","1877",gcc-121055
+gcc-309,A,Compositae,,Tripteris,,"macroptera",,"","DC.",Synonym,,M,TICA,71668E5B-BBD6-47EB-A0A0-008EEE0B2E22,256611-1,"Prodr. (DC.) 6: 456","","456","1838",gcc-4425
+gcc-50811,A,Compositae,,Tripteris,,"microcarpa",,"","Harv.",Accepted,,M,TICA,7EFC3D1D-CF91-497B-B069-5E3E2CF0B47B,,"Fl. Cap. (Harvey) iii. 427","","","1865",
+gcc-153300,A,Compositae,,Tripteris,,"microcarpa",var.,"microcarpa","",Synonym,,L,TICA,9E65DA96-73F5-4871-8D87-AB730F095649,,"","","","",gcc-29322
+gcc-66791,A,Compositae,,Tripteris,,"microcarpa",subsp.,"microcarpa","",Synonym,,L,TICA,A57AD9CE-3221-46E9-86BC-D1C459F88506,,"Fl. Cap. (Harvey) iii. 427.","","","",gcc-50811
+gcc-64628,A,Compositae,,Tripteris,,"microcarpa",subsp.,"septentrionalis","(Norl.) B.Nord.",Accepted,,L,TICA,6FCFE68B-DF74-42F6-94FD-BFF1BD95571E,980415-1,"""in Compositae Newsl., 25: 48 (1994):.""","","48","1994",
+gcc-87746,A,Compositae,,Tripteris,,"microtis",,"","(DC.) Hutch.",Synonym,,M,TICA,928A571A-F834-4E3A-B52A-7DEF372A472E,,"Ann. S. African Mus. ix. 418 (1917).","","418","",gcc-50811
+gcc-107951,A,Compositae,,Tripteris,,"monocephala",,"","Oliv. & Hiern",Accepted,,M,TICA,9A92F147-26E7-4992-B90B-AB402BBBBEBF,256614-1,"Fl. Trop. Afr. [Oliver et al.] 3: 424","","424","1877",
+gcc-4004,A,Compositae,,Tripteris,,"monstrosa",,"","(Burm.f.) Levyns",Unresolved,,L,TICA,CBE5EB27-8F8A-409C-A2F5-076FE423A23F,256615-1,"J. S. African Bot. viii. 283 (1942).","","viii. 283","1942",
+gcc-10392,A,Compositae,,Tripteris,,"muschlerianus",,"","Dinter",Synonym,,M,TICA,E70C056A-43D3-41E6-95CA-136908989DE6,256616-1,"Repert. Spec. Nov. Regni Veg. 24: 303","","303","1928",gcc-20759
+gcc-144578,A,Compositae,,Tripteris,,"namaquensis",,"","Schltr.",Synonym,,M,TICA,CC79C15B-6870-4BBD-98D6-FE6E7BCFDEAF,,"","","","",gcc-50811
+gcc-21669,A,Compositae,,Tripteris,,"namaquensis",,"","Schltr. ex Dinter",Unresolved,,L,TICA,4A6DD00B-039F-4719-A567-28167DD4B768,256617-1,"""Repert. Spec. Nov. Regni Veg. 24: 303, nomen""","","303","1928",
+gcc-123858,A,Compositae,,Tripteris,,"natalensis",,"","Harv.",Synonym,,M,TICA,04E4AFD4-0EBE-4B53-BE83-CF5DF8069AE4,,"Fl. Cap. (Harvey) iii. 430","","430","",gcc-125586
+gcc-75948,A,Compositae,,Tripteris,,"nervosa",,"","Hutch.",Accepted,,M,TICA,44897A02-F888-4C1F-855E-639170DEF621,256619-1,"Ann. S. African Mus. ix. 418 (1917)","","418","1917",
+gcc-123308,A,Compositae,,Tripteris,,"nyikensis",,"","(Norl.) B.Nord.",Accepted,,M,TICA,2F63C1E6-2E5B-4834-80BD-CE00A56784C2,980416-1,"""in Compositae Newsl., 25: 48 (1994):.""","","48","1994",
+gcc-136884,A,Compositae,,Tripteris,,"oppositifolia",,"","E.Mey. ex DC.",Unresolved,,L,TICA,E13059F8-FF74-45D4-8251-ED3D1E198693,256620-1,"Prodr. (DC.) 6: 456","","456","1838",
+gcc-4425,A,Compositae,,Tripteris,,"oppositifolia",,"","(Aiton) B.Nord.",Accepted,,M,TICA,3F75922A-5D11-45FE-A97E-083A57C1F40D,980417-1,"""in Compositae Newsl., 25: 48 (1994):.""","","48","1994",
+gcc-109707,A,Compositae,,Tripteris,,"pachypteris",,"","(DC.) Harv.",Synonym,,M,TICA,F010FB72-A7F6-464E-842E-AF3F79F88F74,256621-1,"Fl. Cap. (Harvey) iii. 432","","432","1865",gcc-20759
+gcc-80648,A,Compositae,,Tripteris,,"pallescens",,"","DC.",Synonym,,M,TICA,A7878A6C-7DC6-4F73-9516-6E086FB64974,256622-1,"Prodr. (DC.) 6: 456","","456","1838",gcc-4425
+gcc-87498,A,Compositae,,Tripteris,,"petiolata",,"","DC.",Synonym,,M,TICA,8C55C370-0F9D-48E2-AC56-7D6E02DAE72C,256623-1,"Prodr. (DC.) 6: 457","","457","1838",gcc-16311
+gcc-133078,A,Compositae,,Tripteris,,"pinnatilobata",,"","(Norl.) B.Nord.",Accepted,,M,TICA,7884A50B-513A-4DC0-9F36-E4B2A7365317,980418-1,"""in Compositae Newsl., 25: 48 (1994):.""","","48","1994",
+gcc-118172,A,Compositae,,Tripteris,,"polycephala",,"","DC.",Accepted,,M,TICA,6F2EA68D-4F50-4DDD-A6E8-C2501B6E17A9,256624-1,"Prodr. (DC.) 6: 458","","458","1838",
+gcc-135349,A,Compositae,,Tripteris,,"racemosa",,"","Wagner",Unresolved,,L,TICA,1B5EBB35-5C4D-41C3-9382-E9DA3521FDE2,256625-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. lxxi. 483 (1907).""","","lxxi. 483","1907",
+gcc-112919,A,Compositae,,Tripteris,,"rhodesica",,"","R.E.Fr.",Synonym,,M,TICA,3524CC45-FF77-4CC1-BAF6-B6865F4E554F,256626-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 346 (1916)","","346","1916",gcc-107951
+gcc-119008,A,Compositae,,Tripteris,,"rigida",,"","Harv.",Synonym,,M,TICA,9A60EB4B-D6EB-4DFB-8C54-C44731E2B0AD,,"Fl. Cap. (Harvey) iii. 426","","","1865",gcc-137445
+gcc-135657,A,Compositae,,Tripteris,,"rogersii",,"","S.Moore",Synonym,,M,TICA,9B22606C-5E47-49B2-B32E-EA74AAA72BAE,256628-1,"""in Journ. Bot. 1917, lv. 121.""","","lv. 121.","1917",gcc-130580
+gcc-101369,A,Compositae,,Tripteris,,"rosulata",,"","(Norl.) B.Nord.",Accepted,,M,TICA,DABB4DDF-2CBA-4273-884C-9CA0E7DE3D96,980419-1,"""in Compositae Newsl., 25: 49 (1994):.""","","49","1994",
+gcc-137648,A,Compositae,,Tripteris,,"scariosa",,"","DC.",Synonym,,M,TICA,6FB51C76-BE01-4301-B865-EEE72555A72B,,"Prodr. (DC.) 6: 458","","458","",gcc-118341
+gcc-149725,A,Compositae,,Tripteris,,"scariosa",var.,"scariosa","",Synonym,,L,TICA,04522A87-8981-4E7F-A73B-5EEEB6457B23,,"","","","",gcc-118341
+gcc-41113,A,Compositae,,Tripteris,,"setifera",,"","DC.",Synonym,,M,TICA,F5F74DBB-DAFE-45E2-9755-4C316455BB41,256630-1,"Prodr. (DC.) 6: 457","","457","1838",gcc-69119
+gcc-82105,A,Compositae,,Tripteris,,"sinuata",,"","DC.",Accepted,,M,TICA,40F93700-039F-45E0-87D9-714BA555EC7A,256631-1,"Prodr. (DC.) 6: 456","","456","1838",
+gcc-8093,A,Compositae,,Tripteris,,"sinuata",var.,"linearis","(Harv.) B.Nord.",Accepted,,L,TICA,8CE0388A-9006-438B-9F1C-0F0F1E479091,980420-1,"""in Compositae Newsl., 25: 49 (1994):""","","49","1994",
+gcc-8666,A,Compositae,,Tripteris,,"sinuata",var.,"sinuata","",Synonym,,L,TICA,860A0AB4-EFD3-4480-9E51-102D7D39A85B,,"","","","",gcc-82105
+gcc-28629,A,Compositae,,Tripteris,,"spathulata",,"","DC.",Accepted,,M,TICA,708CF177-FB4B-427D-9489-34EA34F90B55,256632-1,"Prodr. (DC.) 6: 457","","457","1838",
+gcc-49894,A,Compositae,,Tripteris,,"speciosa",,"","Taub.",Unresolved,,L,TICA,737A2AA5-5A0D-46CE-8335-5C7F7B832DDC,,"Bot. Jahrb. Syst. xii. Beibl. n. 27 (1890) 14.","","xii. Beibl. n. 27  14.","1890",
+gcc-82319,A,Compositae,,Tripteris,,"spinescens",,"","(Thunb.) Harv.",Synonym,,M,TICA,D5A2F3AA-E828-497E-8E77-71C49E48FFA9,256634-1,"Fl. Cap. (Harvey) iii. 431","","431","1865",gcc-20759
+gcc-116613,A,Compositae,,Tripteris,,"spinigera",,"","Norl.",Accepted,,M,TICA,23F21D17-E636-4644-B2F5-BECCD9838293,256635-1,"""Bot. Not. 1939, 795.""","","795","",
+gcc-28111,A,Compositae,,Tripteris,,"thomii",,"","Harv.",Synonym,,M,TICA,E4998229-6F2C-4EFC-86A3-33EA3FDBDBCE,,"Fl. Cap. (Harvey) iii. 426","","426","",gcc-4425
+gcc-16155,A,Compositae,,Tripteris,,"tomentosa",,"","(L.f.) Less.",Synonym,,M,TICA,441E1EC4-3DDA-4F14-AEC3-1DE14F03EB89,256637-1,"Syn. Gen. Compos. 90","","90","1832",gcc-124305
+gcc-121055,A,Compositae,,Tripteris,,"vaillantii",,"","Decne.",Accepted,,M,TICA,038CAF10-1017-454C-81CB-C8F19E374A3F,,"","","260","1834",
+gcc-88241,A,Compositae,,Tripteris,,"volkensii",,"","O.Hoffm.",Accepted,,M,TICA,ECE2B853-F2CB-451F-AE3A-7EFE48A5ED8A,,"Pflanzenw. Ost-Afrikas C (1895) 419.","","","1895",

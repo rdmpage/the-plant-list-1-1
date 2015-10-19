@@ -1,0 +1,90 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129960,A,Compositae,,Lychnophora,,"affinis",,"","Gardner",Synonym,,M,TICA,72381C8A-DA3B-4CF4-8A9D-DD78B215D40C,231278-1,"London J. Bot. 5: 233 (1846).","","233","1846",gcc-25862
+gcc-8693,A,Compositae,,Lychnophora,,"albertinioides",,"","Gardner",Accepted,,M,TICA,4C1CCFFA-F71B-44DE-A86F-103C0D4E2F24,231279-1,"London J. Bot. 5: 234 (1846).","","234","1846",
+gcc-131426,A,Compositae,,Lychnophora,,"arrojadoana",,"","Mattf.",Synonym,,M,TICA,0BADE7EE-C8AA-4131-88D7-E0DA8061871D,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 432","","431","1923",gcc-52540
+gcc-15002,A,Compositae,,Lychnophora,,"arrojadoana",,"","Mattf. ex Luetzelb.",Unresolved,,L,TICA,8BCC3601-5B4D-49FB-8096-1BC603D46073,146399-2,"""Estud. Bot. Nordéste 1: 68. 1922 [as Arrojadiana].--Nomen; Insp. Fed. Obras Secc. Publ. 57; Notizblatt, 8: 432~ 1923""","","68","1922",
+gcc-12840,A,Compositae,,Lychnophora,,"bahiensis",,"","Mattf.",Accepted,,M,TICA,B53AC289-7914-4A25-9AB3-17EFB4AEFE06,231281-1,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 430","","430","1923",
+gcc-43260,A,Compositae,,Lychnophora,,"bahiensis",,"","Mattf. ex Luetzelb.",Unresolved,,L,TICA,882F1E5C-AA08-4FA9-9B9D-502905926561,146400-2,"""Estud. Bot. Nordéste 1: 68. 1922 Nomen; Insp. Fed. Obras Secc. Publ. 57; Notizblatt, 8: 430.  1923""","","68","1922",
+gcc-89467,A,Compositae,,Lychnophora,,"bishopii",,"","H.Rob.",Accepted,,M,TICA,B52E8EC2-21E6-42CF-98B8-81C69AB2CADF,146401-2,"","","372","1983",
+gcc-88617,A,Compositae,,Lychnophora,,"blanchetii",,"","Sch.Bip.",Accepted,,M,TICA,F0851FB3-C045-40DB-B28F-7FD4A8484923,,"""in Flora, xxxiii. (1850) 30.""","","364","1850",
+gcc-155273,A,Compositae,,Lychnophora,,"boquerona",,"","(B.L.Turner) H.Rob.",Accepted,,M,TICA,BEFC4616-5756-48C6-AED7-D48FDAFAFFA1,,"","","","",
+gcc-105818,A,Compositae,,Lychnophora,,"brunioides",,"","Mart.",Accepted,,M,TICA,35D44452-0744-4641-A6C8-A66744947963,,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 149. t. 4.","","","1822",
+gcc-54540,A,Compositae,,Lychnophora,,"brunioides",var.,"affinis","(Gardner) Sch.Bip.",Synonym,,L,TICA,C4E70D33-03BC-4549-957B-6EE8FB26F9A0,,"","","361","1863",gcc-25862
+gcc-36222,A,Compositae,,Lychnophora,,"brunioides",var.,"alpicola","DC.",Synonym,,L,TICA,B3B908F1-3832-47B7-8211-432D36A75054,146404-2,"Prodr. (DC.) 5: 80","","80","1836",gcc-105818
+gcc-147142,A,Compositae,,Lychnophora,,"brunioides",var.,"brunioides","",Synonym,,L,TICA,CA03A36C-A21A-4859-9D7D-27528D27BC39,,"","","","",gcc-105818
+gcc-17518,A,Compositae,,Lychnophora,,"brunioides",var.,"pinifolia","Baker",Synonym,,L,TICA,6CA0493E-BDF7-489C-8C59-205907C65D2A,,"","","155","1873",gcc-25862
+gcc-101222,A,Compositae,,Lychnophora,,"candelabrum",,"","Sch.Bip.",Synonym,,M,TICA,38AE6608-3266-47C0-9A52-9C58CB77A862,310651-2,"","","345","1863",gcc-108179
+gcc-42528,A,Compositae,,Lychnophora,,"cinerea",,"","Sch.Bip.",Synonym,,M,TICA,D94CD680-0026-4636-AABC-4EC3A61A38E2,146407-2,"","","358","1863",gcc-25862
+gcc-125643,A,Compositae,,Lychnophora,,"cipoensis",,"","Semir & Leitão",Unresolved,,L,TICA,9CC11B3F-1231-44FC-B316-D38368E465A7,,"","","","",
+gcc-119672,A,Compositae,,Lychnophora,,"columnaris",,"","Mattf.",Synonym,,M,TICA,DBAF9B64-87B9-48A2-9111-C5B389A5BCFE,231286-1,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 433","","433","1923",gcc-52540
+gcc-99619,A,Compositae,,Lychnophora,,"columnaris",,"","Mattf. ex Luetzelb.",Unresolved,,L,TICA,C265E260-477F-429C-8407-98C77989794F,146408-2,"""Estud. Bot. Nordéste 1: 68. 1922 Nomen; Insp. Fed. Obras Secc. Publ. 57; Notizblatt, 8: 433.  1923""","","68","1922",
+gcc-122495,A,Compositae,,Lychnophora,,"crispa",,"","Mattf.",Accepted,,M,TICA,C1B2150D-E720-46BD-9A9C-CC270640661A,146409-2,"Notizbl. Bot. Gart. Berlin-Dahlem 8","","429","1923",
+gcc-80171,A,Compositae,,Lychnophora,,"damazioi",,"","Beauverd",Synonym,,M,TICA,DABD105D-AECC-4F86-B87D-6D07D66F30FD,231288-1,"""Bull. Soc. Bot. Genève ser. 2, 5""","","241","1913",gcc-115658
+tro-2702872,A,Compositae,,Lychnophora,,"diamantana",,"","Coile & Jones",Unresolved,,L,TRO,2702872,,"","","","",
+gcc-21629,A,Compositae,,Lychnophora,,"diamantinana",,"","Coile & S.B.Jones",Accepted,,M,TICA,A52C3AD4-1113-4B26-9167-27FF33139475,146411-2,"","","532","1981",
+gcc-148,A,Compositae,,Lychnophora,,"diosmaefolia",,"","Pohl ex Baker",Synonym,Illegitimate,L,TICA,64CA5C72-1E21-41A7-A1D4-00479B96D020,,"Fl. Bras. (Martius) 6(2): 143","","143","1873",gcc-7296
+gcc-25862,A,Compositae,,Lychnophora,,"ericoides",,"","Mart.",Accepted,,M,TICA,5253D444-7C41-44A4-B5C6-2FC9F6EA03DB,,"","","","1822",
+gcc-155968,A,Compositae,,Lychnophora,,"ericoides",var.,"ericoides","",Synonym,,L,TICA,31A1234C-6528-4A41-B62B-E3A28EE439EF,,"","","","",gcc-25862
+gcc-43081,A,Compositae,,Lychnophora,,"gardneri",,"","Sch.Bip.",Synonym,,M,TICA,CDEA0C05-C783-4160-A53E-4FCB5B6BD320,,"","","358","1863",gcc-25862
+gcc-125058,A,Compositae,,Lychnophora,,"gorceixii",,"","Glaz.",Synonym,Illegitimate,M,TICA,70A8C15A-2398-40D8-B286-D234185EDE6E,146415-2,"Bull. Soc. Bot. France 56(Mém. 3d)","","379","1909",gcc-51230
+gcc-151522,A,Compositae,,Lychnophora,,"granmogolensis",,"","(Duarte) Semir",Accepted,,M,TICA,EF94E915-CF89-40A3-89E6-867A919E31F7,,"","","","",
+gcc-39652,A,Compositae,,Lychnophora,,"granmogolensis",,"","(Duarte) D.J.N.Hind",Unresolved,,L,TICA,0B9E7D03-7EE7-465C-96CF-4992A0867D3A,979039-1,"","","513","1994",
+gcc-119676,A,Compositae,,Lychnophora,,"hakeaefolia",,"","Spreng.",Synonym,Illegitimate,M,TICA,3B0A76A6-728E-4B6F-9C76-C5B763D27FF5,,"","","","1827",gcc-52540
+gcc-26087,A,Compositae,,Lychnophora,,"hakeaefolia",,"","Mart.",Synonym,,M,TICA,99291162-819C-4ECD-8374-303C0658A002,,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 156.","","","1822",gcc-52540
+gcc-7584,A,Compositae,,Lychnophora,,"harleyi",,"","H.Rob.",Accepted,,M,TICA,F87C89F6-547B-48D4-9A6D-0E1320203983,146416-2,"","","374","1983",
+gcc-75520,A,Compositae,,Lychnophora,,"heterotheca",,"","(Sch.Bip.) S.B.Jones & Coile",Unresolved,,L,TICA,5DCAEDE2-85CF-4DA1-AACD-629DB9D906F5,909051-1,"","","534","1981",gcc-84885
+gcc-85418,A,Compositae,,Lychnophora,,"heterotheca",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,5A48B092-CACC-4DFF-9AE7-789D4CA6539C,,"","","","",
+gcc-123450,A,Compositae,,Lychnophora,,"humillima",,"","Sch.Bip.",Accepted,,M,TICA,087B6D9C-AE52-4EDA-8135-CE5AB9B76C1D,231294-1,"in Pollichia xx-xxi. (1863) 371.","","371","1863",
+gcc-95954,A,Compositae,,Lychnophora,,"itatiaiae",,"","Wawra",Accepted,,M,TICA,AE672E79-3B2F-4980-9613-908081D8D70C,146418-2,"","","17","1888",
+gcc-33946,A,Compositae,,Lychnophora,,"jeffreyi",,"","H.Rob.",Accepted,,M,TICA,48291D0B-945C-481F-ABBB-3EF58F5804AC,146419-2,"","","377","1983",
+gcc-104387,A,Compositae,,Lychnophora,,"joliana",,"","Semir & Leitão",Unresolved,,L,TICA,635AB8BA-B974-4F48-A6B3-A3640F62C650,,"","","","",
+gcc-128725,A,Compositae,,Lychnophora,,"lanigera",,"","Pohl ex Sch.Bip.",Synonym,,M,TICA,33EB36C0-80A7-4EED-8254-DAAEBF49D4C4,231296-1,"in Pollichia xx-xxi. (1863) 341.","","341","1863",gcc-52540
+gcc-3155,A,Compositae,,Lychnophora,,"luetzelburgii",,"","Mattf.",Synonym,,M,TICA,E0E68EE6-9D06-47F3-8536-05D5679FA7B3,231297-1,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 431","","431","1923",gcc-52540
+gcc-51801,A,Compositae,,Lychnophora,,"luetzelburgii",,"","Mattf. ex Luetzelb.",Unresolved,,L,TICA,1812A531-F3BB-4F7F-B82F-600F39B23EFE,146420-2,"""Estud. Bot. Nordéste 1: 68. 1922 Nomen; Insp. Fed. Obras Secc. Publ. 57; Notizblatt, 8: 431.  1923""","","68","1922",
+gcc-109377,A,Compositae,,Lychnophora,,"markgravii",,"","G.M.Barroso",Accepted,,M,TICA,F1A678BF-F524-4A4B-9C63-AE853B0BC2B2,231298-1,"","","260","1956",
+gcc-22960,A,Compositae,,Lychnophora,,"martiana",,"","Gardner",Synonym,,M,TICA,35144BBD-75A0-49A6-9FDA-2A81DC137742,231299-1,"London J. Bot. 5: 232 (1846).","","232","1846",gcc-52540
+gcc-18274,A,Compositae,,Lychnophora,,"mello-barretoi",,"","G.M.Barroso",Synonym,,M,TICA,3BB20758-0C74-4F0E-AD27-21C5F59047BA,146422-2,"","","261","1956",gcc-123450
+gcc-123093,A,Compositae,,Lychnophora,,"microphylla",,"","Sch.Bip.",Synonym,,M,TICA,6CAAA5A7-6E3C-41A3-9B0A-CD848F05E7D2,231301-1,"in Pollichia xx-xxi. (1863) 354.","","354","1863",gcc-51230
+gcc-139127,A,Compositae,,Lychnophora,,"morii",,"","H.Rob.",Accepted,,M,TICA,34554175-D460-4224-ABA2-F20D0C091063,146423-2,"","","376","1983",
+gcc-366,A,Compositae,,Lychnophora,,"mutica",,"","Semir & Leitão",Unresolved,,L,TICA,415213BC-A1B5-4E9A-BEE2-00A7530D0094,,"","","","",
+gcc-115334,A,Compositae,,Lychnophora,,"passerina",,"","(Mart. ex DC.) Gardner",Accepted,,M,TICA,6AAD18F8-C69E-43B8-A2B6-BBE9768C1385,231302-1,"London J. Bot. 5: 230 (1846).","","230","1846",
+gcc-22754,A,Compositae,,Lychnophora,,"penninerva",,"","Sch.Bip.",Synonym,,M,TICA,48A393B6-3A00-4FDE-8BAB-2A1CB6421C75,231303-1,"in Pollichia xx-xxi. (1863) 405.","","405","1863",gcc-48750
+gcc-151648,A,Compositae,,Lychnophora,,"phylicifolia",,"","DC.",Accepted,,M,TICA,7CB7DFF1-934A-4C42-B5BB-8935430B6055,231304-1,"Prodr. (DC.) 5: 79","","79","1836",
+gcc-118651,A,Compositae,,Lychnophora,,"pinaster",,"","Mart.",Synonym,,M,TICA,3E0E535A-C9CA-4E69-B8D8-C37228014C90,,"","","","1822",gcc-25862
+gcc-136861,A,Compositae,,Lychnophora,,"piptocoma",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,L,TICA,D7A1A4DE-52D7-4519-B710-ED32F10B7FA7,231306-1,"Fl. Bras. (Martius) 6(2): 155","","155","1873",gcc-84355
+gcc-103287,A,Compositae,,Lychnophora,,"platyneura",,"","Sch.Bip.",Synonym,,M,TICA,8DA452E4-19E0-48F6-9C2E-A0F19AE53F3C,,"in Pollichia xx-xxi. (1863) 351.","","357","1863",gcc-25862
+gcc-126099,A,Compositae,,Lychnophora,,"pohlii",,"","Sch.Bip.",Accepted,,M,TICA,675679DD-9EAD-4A2B-9E76-D4884DD84D57,231308-1,"in Pollichia xx-xxi. (1863) 353.","","353","1863",
+gcc-111404,A,Compositae,,Lychnophora,,"prostrata",,"","Semir & Leitão",Unresolved,,L,TICA,D8020624-598D-4381-9FF8-B3090B89B751,,"","","","",
+gcc-93578,A,Compositae,,Lychnophora,,"proteaeformis",,"","(Less.) Mart. ex DC.",Synonym,,M,TICA,C0AE988C-7EEE-4B38-A11E-8B04BE73C92D,231309-1,"Prodr. (DC.) 5: 80","","80","1836",gcc-25862
+gcc-51019,A,Compositae,,Lychnophora,,"pseudovillosissima",,"","Semir & Leitão",Accepted,,M,TICA,62BC7BCF-EA6A-479E-B74D-5EA564E414E1,,"","","1993","1993",
+gcc-76969,A,Compositae,,Lychnophora,,"ramosissima",,"","Gardner",Accepted,,M,TICA,C521C220-AAF5-4A60-8982-65CF037DC145,231310-1,"London J. Bot. 5: 232 (1846).","","232","1846",
+gcc-750,A,Compositae,,Lychnophora,,"regis",,"","H.Rob.",Accepted,,M,TICA,24182629-1F85-4037-8BAB-0166E23EE139,146425-2,"","","375","1983",
+gcc-48750,A,Compositae,,Lychnophora,,"reticulata",,"","Gardner",Accepted,,M,TICA,52693A42-EAA3-4672-966E-5A4F12CA053A,231311-1,"London J. Bot. 5: 233 (1846).","","233","1846",
+gcc-133896,A,Compositae,,Lychnophora,,"riedelii",,"","Sch.Bip.",Accepted,,M,TICA,71F44291-72D6-4BFA-A199-E69098DA5FE7,231312-1,"in Pollichia xx-xxi. (1863) 351.","","351","1863",
+gcc-51230,A,Compositae,,Lychnophora,,"rosmarinifolia",,"","Mart.",Accepted,,M,TICA,41D17EE1-E9BB-4504-8754-5EFF6422BC55,,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 155. t. 9.","","","1822",
+gcc-134347,A,Compositae,,Lychnophora,,"rosmarinus",,"","Pohl ex Sch.Bip.",Synonym,Illegitimate,M,TICA,20BB8729-B1CD-47EC-B120-E79ADEF640AD,,"in Pollichia xx-xxi. (1863) 361.","","361","1963",gcc-25862
+gcc-30210,A,Compositae,,Lychnophora,,"rosmarinus",var.,"eurosmarinus","Sch.Bip.",Synonym,,L,TICA,C570C525-89B1-4B9F-A53E-37EC3D2F7060,,"","","361","1863",gcc-25862
+gcc-67532,A,Compositae,,Lychnophora,,"rosmarinus",var.,"normalis","Sch.Bip.",Synonym,,L,TICA,799B4D85-1CE6-4390-AC91-D7EC208F1188,,"Jahresber. Pollichia 20/21: 361. 1863","","361","1863",gcc-25862
+gcc-149798,A,Compositae,,Lychnophora,,"rosmarinus",var.,"rosmarinus","",Synonym,,L,TICA,689537F8-FBD0-40BF-86E3-60706CAA6082,,"","","","",gcc-25862
+gcc-115301,A,Compositae,,Lychnophora,,"rupestris",,"","Semir & Leitão",Unresolved,,L,TICA,1BD4E0DA-0954-49DF-9CDB-BBD872B75929,,"","","","",
+gcc-52540,A,Compositae,,Lychnophora,,"salicifolia",,"","Mart.",Accepted,,M,TICA,2F7F203B-79E2-4B0F-8CB7-6165D33DB651,231315-1,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 157. t. 10.","","157","1822",
+gcc-99531,A,Compositae,,Lychnophora,,"santosii",,"","H.Rob.",Accepted,,L,TICA,B1A57DA0-B15D-484B-8C12-9889823FCB0A,146428-2,"","","95","1980",
+gcc-35092,A,Compositae,,Lychnophora,,"saxosa",,"","Krasch.",Accepted,,M,TICA,5BB2C6D0-4009-4D44-81F7-4112F8423776,146429-2,"","","160","1922",
+gcc-89619,A,Compositae,,Lychnophora,,"sellowii",,"","Sch.Bip.",Accepted,,M,TICA,A800C181-FE15-436E-B677-821B79F9407F,,"in Pollichia xx-xxi. (1863) 872.","","372","1863",
+gcc-116544,A,Compositae,,Lychnophora,,"sericea",,"","D.J.N.Hind",Accepted,,M,TICA,BB125D01-F5EC-4484-9D9A-BEA79CAFB445,,"","","","2000",
+gcc-136666,A,Compositae,,Lychnophora,,"souzae",,"","H.Rob.",Accepted,,M,TICA,B92D7AF5-06C2-47CD-822D-ECB82610E71C,146430-2,"","","104","1980",
+gcc-11757,A,Compositae,,Lychnophora,,"staavioides",,"","Mart.",Accepted,,M,TICA,5B7997EF-4658-48F8-B5FD-15E3EE45C7D6,,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 154. t. 8.","","","1822",
+gcc-149057,A,Compositae,,Lychnophora,,"staavioides",var.,"staavioides","",Synonym,,L,TICA,CF4D99F6-7F4C-4808-99E8-5093FDC70C02,,"","","","",gcc-11757
+gcc-108624,A,Compositae,,Lychnophora,,"subulata",,"","Gardner",Synonym,,M,TICA,97FC110B-9F64-4A51-968A-ACB30AD27A42,,"London J. Bot. 5: 231 (1846).","","230","1846",gcc-115334
+gcc-120210,A,Compositae,,Lychnophora,,"syncephala",,"","(Sch.Bip.) Sch.Bip.",Synonym,,M,TICA,D0C8DAA8-69EF-43C4-B419-C6F8E1C9E9C9,,"in Pollichia xx-xxi. (1863) 404.","","168","1861",gcc-48750
+gcc-12788,A,Compositae,,Lychnophora,,"tomentosa",,"","(Mart. ex DC.) Sch.Bip.",Accepted,,M,TICA,FA11FEF9-6123-4EEF-8D02-17D34D861225,231323-1,"in Pollichia xx-xxi. (1863) 369.","","369","1863",
+gcc-146459,A,Compositae,,Lychnophora,,"trichocarpha",,"","(Spreng.) Spreng. ex Sch.Bip.",Accepted,,M,TICA,9037C6CF-B2A9-4D94-BFAA-18DA4BC1AE8E,,"Jahresber. Pollichia 20/21: 363. 1863","","363","1863",
+gcc-84355,A,Compositae,,Lychnophora,,"trichocarpha",,"","(Spreng.) Spreng.",Unresolved,,L,TICA,0875B02E-6245-42A4-AAA6-766588AEF117,231324-1,"""Syst. Veg. (ed. 16) [Sprengel] 4(2, Cur. Post.): 298""","","298","1827",
+gcc-156157,A,Compositae,,Lychnophora,,"trichocarpha",var.,"trichocarpha","",Synonym,,L,TICA,D3157045-355F-43E8-83D0-E7A10186992C,,"","","","",gcc-84355
+gcc-91992,A,Compositae,,Lychnophora,,"triflora",,"","(Mattf.) H.Rob.",Accepted,,M,TICA,CDF6D25B-E002-42EC-8D32-879F1BDD47A7,146434-2,"","","371","1983",
+gcc-145491,A,Compositae,,Lychnophora,,"unicaulis",,"","Glaziou",Synonym,,M,TICA,852E1C1E-2C44-4D83-B4A5-052135A0A0C5,,"""Bull. Soc. Bot. France 56, Mém. 1(3): 379. 1909""","","379","1909",gcc-115658
+gcc-96514,A,Compositae,,Lychnophora,,"unicaulis",,"","Glaz.",Synonym,Illegitimate,M,TICA,2FA7B89C-C391-4423-85CB-91C4286F56A7,146435-2,"Bull. Soc. Bot. France 56(Mém. 3d)","","379","1909",gcc-115658
+gcc-91808,A,Compositae,,Lychnophora,,"uniflora",,"","Sch.Bip.",Accepted,,M,TICA,A48AB2E7-F343-4427-B928-8734AE509960,231326-1,"in Pollichia xx-xxi. (1863) 347.","","347","1863",
+gcc-27421,A,Compositae,,Lychnophora,,"urbaniana",,"","Glaz.",Synonym,Illegitimate,M,TICA,2536B0E9-6E07-4C07-A792-32B5B840B4DD,146436-2,"Bull. Soc. Bot. France 56(Mém. 3d)","","378","1909",gcc-52540
+gcc-6995,A,Compositae,,Lychnophora,,"van-isschoti",,"","Heckel",Unresolved,Illegitimate,L,TICA,A45F7CAD-6F8E-4219-805A-0D02CBDB4A40,146437-2,"Rev. Cult. Colon. 11:","","161","1902",
+gcc-108096,A,Compositae,,Lychnophora,,"villosissima",,"","Mart.",Accepted,,M,TICA,EEB10E33-A0D5-44CC-A4E4-AB950CF347C2,231329-1,"in Denkschr. Bot. Ges. Regensb. ii. (1822) 153. t. 7.","","153","1822",

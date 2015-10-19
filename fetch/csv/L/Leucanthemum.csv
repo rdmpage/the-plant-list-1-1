@@ -1,0 +1,317 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-95992,A,Compositae,,Leucanthemum,,"achilleae",,"","Sampaio",Unresolved,,L,TICA,5BE53072-4632-4067-B3B1-9097EBA7357D,,"Herb. Portug. 132 (1913).","","132","1913",
+gcc-127435,A,Compositae,,Leucanthemum,,"adustum",,"","Gremli",Accepted,,M,TICA,9BC147F1-E589-4041-B8FF-D7A8C9834734,,"Gremli. 1898.","","272","1898",
+gcc-14529,A,Compositae,,Leucanthemum,,"adustum",subsp.,"adustum","",Synonym,,L,TICA,27056470-7A27-424B-87F2-1AF213248AF7,,"","","","",gcc-127435
+gcc-22590,A,Compositae,,Leucanthemum,,"adustum",subsp.,"margaritae","(Gáyer ex Jáv.) Holub",Accepted,,L,TICA,DB251F71-168D-44F6-BBDD-29D06828714D,,"","","273","1974",
+gcc-131702,A,Compositae,,Leucanthemum,,"aemilianii",,"","Sennen",Unresolved,,L,TICA,45F0D912-3B1F-4463-867C-E18407C52FC4,229952-1,"Diagn. Nouv. 288","","288","1936",
+gcc-126543,A,Compositae,,Leucanthemum,,"affine",,"","Pomel",Synonym,,M,TICA,03FFDEE4-5795-4E7E-B028-D58FA8A782FF,229953-1,"","","","1874",gcc-100825
+gcc-135301,A,Compositae,,Leucanthemum,,"affine",,"","Nyman",Unresolved,,L,TICA,8C7742AC-D8FD-4705-A88C-E9BC439A0C1C,,"Consp. 371.","","371","",
+gcc-144184,A,Compositae,,Leucanthemum,,"ageratifolium",,"","Pau",Synonym,,M,TICA,E22D1BBE-554D-4F3C-B89A-FD8A37AA00EA,,"","","","1902",gcc-59876
+gcc-121679,A,Compositae,,Leucanthemum,,"alaunicum",,"","(Koso-Pol.) Vorosch.",Unresolved,,L,TICA,9DF67FBB-E383-4209-98B4-CA5006F7A995,229956-1,"""in Seed List State Bot. Gard. Acad. Sci. URSS, viii. 6 (1953); cf. Botsch. inNot. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 638 (1959).""","","viii. 6","1953",
+gcc-119527,A,Compositae,,Leucanthemum,,"algidum",,"","Fisch. ex Herd",Unresolved,,L,TICA,289F1400-A59A-4A3C-ACBF-C55AD1334C2A,229957-1,"in Bull. Soc. Nat. Mosc. xxxviii. (1865) I. 416.","","xxxviii.  I. 416","1865",
+gcc-2600,A,Compositae,,Leucanthemum,,"aligulatum",,"","Vogt",Accepted,,M,TICA,ED8A81E4-3426-4B03-A47A-04C7271DB900,959150-1,"","","179","1991",
+gcc-26721,A,Compositae,,Leucanthemum,,"alpinum",,"","Lam.",Synonym,,M,TICA,ECFF4DCE-74A5-4F81-901A-315F7CA720A0,,"","","","1779",gcc-8447
+gcc-151262,A,Compositae,,Leucanthemum,,"alpinum",subsp.,"alpinum","",Synonym,,L,TICA,A3A5FA65-138C-48B8-9671-80F62A91C4DE,,"","","","",gcc-8447
+gcc-154416,A,Compositae,,Leucanthemum,,"alpinum",var.,"alpinum","",Synonym,,L,TICA,705F6A12-CC63-4E18-9284-C30DB802D473,,"","","","",gcc-8447
+gcc-67322,A,Compositae,,Leucanthemum,,"alpinum",var.,"cuneifolium","Murr",Synonym,,L,TICA,6571B655-194F-4E34-8FFB-D64ABEF1EFDA,,"Murr in Deutsche Bot. Monatsschr. 14. 1896.","","21","1896",gcc-8447
+gcc-59167,A,Compositae,,Leucanthemum,,"alpinum",subsp.,"pulverulentum","(Lag.) Bonnier",Synonym,,L,TICA,EA9004D6-F3CE-4ADC-B0C6-946190E002F4,,"Bonnier. 1922.","","96","1922",gcc-99881
+gcc-138264,A,Compositae,,Leucanthemum,,"anomalum",,"","DC.",Unresolved,,L,TICA,0496A482-78BE-4B39-8CC4-F039445883BB,229959-1,"Prodr. (DC.) 6: 49","","49","1838",
+gcc-105713,A,Compositae,,Leucanthemum,,"aragonense",,"","(Asso) Samp.",Accepted,,M,TICA,DE0729C6-0D73-46EC-92DD-A6250FA73A97,229960-1,"""in Ann. Acad. Polyt. Porto, xiv. 162 (1921).""","","xiv. 162","1921",
+gcc-97352,A,Compositae,,Leucanthemum,,"arcticum",,"","(L.) DC.",Synonym,,L,TICA,EF262517-C8BE-46D0-89C5-93AAA1ECE548,,"Prodr. (DC.) 6: 45","","45","",gcc-99059
+gcc-149587,A,Compositae,,Leucanthemum,,"arcticum",subsp.,"arcticum","",Synonym,,L,TICA,DF6BFD96-68F8-412C-8A1A-5C4E42098416,,"","","","",gcc-99059
+gcc-49272,A,Compositae,,Leucanthemum,,"arenarium",,"","Pomel",Synonym,,M,TICA,099DAD0C-5AD2-4EF5-89EF-5B4119DD833A,229962-1,"","","","1874",gcc-100825
+gcc-142929,A,Compositae,,Leucanthemum,,"armenum",,"","DC.",Synonym,,M,TICA,E71A36BB-DB30-4087-9137-FAC3D6F7BF9A,229963-1,"","","297","1838",gcc-122061
+gcc-36644,A,Compositae,,Leucanthemum,,"arundanum",,"","(Boiss.) Cuatrec.",Synonym,,M,TICA,E8274CCD-DE51-41ED-9EAE-43F0AA9D0A96,229964-1,"","","41","1928",gcc-19912
+gcc-3652,A,Compositae,,Leucanthemum,,"arundanum",var.,"acutifolium","Emb. & Maire",Synonym,,L,TICA,3215CF57-BB6C-4085-B790-06C003BF2D08,,"","","","",gcc-19912
+gcc-151142,A,Compositae,,Leucanthemum,,"arundanum",subsp.,"arundanum","",Synonym,,L,TICA,D44812E4-4106-4E3B-8E23-7EAB3B763877,,"","","","",gcc-19912
+gcc-155935,A,Compositae,,Leucanthemum,,"arundanum",var.,"arundanum","",Synonym,,L,TICA,33C75A6D-0C3A-4347-B746-E2DB69195036,,"","","","",gcc-19912
+gcc-64578,A,Compositae,,Leucanthemum,,"arundanum",subsp.,"atlanticum","(Ball) Cuatrec.",Synonym,,L,TICA,731FF894-68D3-48BA-84F0-BF9077DB13EC,,"","","","",gcc-136756
+gcc-43623,A,Compositae,,Leucanthemum,,"arundanum",var.,"mairei","(Humbert) Maire",Synonym,,L,TICA,093039DA-DF00-4616-AC67-50DCA8484548,,"","","","",gcc-19912
+gcc-7618,A,Compositae,,Leucanthemum,,"arundanum",subsp.,"mairei","(Humbert) Cuatrec.",Synonym,,L,TICA,2F02B28E-EB14-40FD-955A-0E25517744D0,,"","","","",gcc-19912
+gcc-63676,A,Compositae,,Leucanthemum,,"arundanum",var.,"minutum","Emb. & Maire",Synonym,,L,TICA,B2F719A2-C3D3-4D48-B8D1-B8A698B8FA1C,,"","","","",gcc-19912
+gcc-40818,A,Compositae,,Leucanthemum,,"astericodes",,"","Kuntze",Unresolved,,L,TICA,DB19FF05-EBD6-4548-8A6E-4BA47D077C4A,229965-1,"Revis. Gen. Pl. 1: 351","","351","1891",
+gcc-26369,A,Compositae,,Leucanthemum,,"asteriscoides",,"","(L.) Kuntze",Synonym,,M,TICA,CCB49DC2-E437-4742-914C-30BD9DE05FEA,,"Revis. Gen. Pl. (1891) 351.","","","",gcc-118690
+gcc-91013,A,Compositae,,Leucanthemum,,"atlanticum",,"","(Ball) Maire",Synonym,,M,TICA,E60AD1C1-6325-450D-8B4A-85589F886359,,"","","","1923",gcc-136756
+gcc-153448,A,Compositae,,Leucanthemum,,"atlanticum",var.,"atlanticum","",Synonym,,L,TICA,C29091A4-E2CC-4F5C-ACDB-AEBE006BFB2A,,"","","","",gcc-136756
+gcc-65304,A,Compositae,,Leucanthemum,,"atlanticum",var.,"gelidum","Maire",Synonym,,L,TICA,D4D4CBFA-6C09-475D-9170-C5CAAA3888A1,77086112-1,"Maire in Bull. Soc. Hist. Nat. Afrique N. 14. 1923.","","153","1923",gcc-68582
+gcc-12957,A,Compositae,,Leucanthemum,,"atlanticum",var.,"sericeum","Humbert",Synonym,,L,TICA,478FDA8C-FE1F-48C0-8FBC-182712886AF3,,"","","","",gcc-83743
+gcc-121205,A,Compositae,,Leucanthemum,,"atratum",,"","(Jacq.) DC.",Accepted,,M,TICA,89D866F1-9D53-47DD-9527-C94E549EE485,229968-1,"","","48","1838",
+gcc-143982,A,Compositae,,Leucanthemum,,"atratum",,"","Nyman",Unresolved,,L,TICA,8F2B3C9C-34D8-40C2-9773-FD1A190E73F0,,"Consp. 371.","","371","",
+gcc-150019,A,Compositae,,Leucanthemum,,"atratum",subsp.,"atratum","",Synonym,,L,TICA,05A99E18-C462-4E03-A84B-659D98A48CAE,,"","","","",gcc-121205
+gcc-157308,A,Compositae,,Leucanthemum,,"atratum",var.,"atratum","",Synonym,,L,TICA,C78F2FC0-3540-467E-8D99-FF243B43402B,,"","","","",gcc-121205
+gcc-12838,A,Compositae,,Leucanthemum,,"atratum",subsp.,"ceratophylloides","(All.) Horvatić",Synonym,,L,TICA,C06EA0B9-ABB0-408A-8B16-17EE65FB6613,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb. 10. 1935.","","66","1935",gcc-47742
+gcc-64136,A,Compositae,,Leucanthemum,,"atratum",subsp.,"chloroticum","(A.Kern. & Murb.) Horvatić",Synonym,,L,TICA,4CB70E81-9095-4BAD-8883-BC2616501AF5,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb. 10. 1935.","","73","1935",gcc-17280
+gcc-11632,A,Compositae,,Leucanthemum,,"atratum",subsp.,"coronopifolium","(Vill.) Horvatić",Synonym,,L,TICA,1507FBD5-9C57-4115-BE04-15AEAFA1B7CA,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb. 10. 1935.","","65","1935",gcc-16903
+gcc-63810,A,Compositae,,Leucanthemum,,"atratum",subsp.,"croaticum","(Horvatić) Horvatić",Synonym,,L,TICA,35050CC5-79A6-45BD-9F86-B9B3C295F0A9,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb. 10. 1935.","","71","1935",gcc-110562
+gcc-58827,A,Compositae,,Leucanthemum,,"atratum",subsp.,"halleri","(Vitman) Heywood",Synonym,,L,TICA,894F6B1A-57B2-4256-A5D4-91C8C2B3B917,877595-1,"Heywood in Bot. J. Linn. Soc. 71. 1976.","","272","1976",gcc-141388
+gcc-56344,A,Compositae,,Leucanthemum,,"atratum",var.,"heterophyllum","(Willd.) Rouy",Synonym,,L,TICA,494667CC-D245-42D1-8DF4-7DAD11060E61,,"Fl. France 8 (1903)","","269","1903",gcc-135712
+gcc-68698,A,Compositae,,Leucanthemum,,"atratum",subsp.,"illyricum","(Horvatić) Soó",Synonym,,L,TICA,0A197DD5-840B-4FFD-AE55-E0D02967E427,,"Acta Bot. Acad. Sci. Hung. 23(3-4): 386","","386","1978",gcc-86902
+gcc-62556,A,Compositae,,Leucanthemum,,"atratum",subsp.,"pallens","(Perreym.) Rouy",Synonym,,L,TICA,CC5FAE1D-C3E7-4F08-B021-AFC471F67561,,"Rouy. 1903.","","269","1903",gcc-87537
+gcc-60528,A,Compositae,,Leucanthemum,,"atratum",subsp.,"platylepis","(Borbás) Heywood",Synonym,,L,TICA,6B973AD9-41A6-4242-BA5E-9EE9BB7F7C10,877597-1,"","","273","1976",gcc-93582
+gcc-69326,A,Compositae,,Leucanthemum,,"atratum",subsp.,"tridactylites","(A.Kern. & Huter ex Rigo) Heywood",Synonym,,L,TICA,CC5ED2F4-2DA0-46BB-B129-E57441AAE4BC,877598-1,"Bot. J. Linn. Soc. 71(4): 272 (1975 publ. 1976).","","272","1976",gcc-130760
+gcc-17547,A,Compositae,,Leucanthemum,,"auriculatum",,"","Nyman",Unresolved,,L,TICA,C819166A-C285-422E-A088-20645E191CA3,,"Consp. 371.","","371","",
+gcc-48408,A,Compositae,,Leucanthemum,,"balsamita",,"","(L.) Over",Synonym,,M,TICA,48DCD9D3-5A56-44CE-94C9-59AFFC056C59,138984-2,"","","108","1932",gcc-112746
+gcc-126123,A,Compositae,,Leucanthemum,,"barrelieri",,"","Timb.",Unresolved,,L,TICA,1152F1A5-D858-4526-BA29-D49A8880C2BD,229971-1,"Bull. Soc. Bot. France 13(Sess. Extraord.): clii","","clii","1866",
+gcc-22165,A,Compositae,,Leucanthemum,,"bauhini",,"","Steud.",Unresolved,,L,TICA,3A9C354A-C72B-46A6-900D-2900A2CADB3D,229972-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 35""","","35","1840",
+gcc-129528,A,Compositae,,Leucanthemum,,"briquetii",,"","Maire",Synonym,,M,TICA,5D603CE2-C21D-4E95-AC94-DC75F42AA852,229973-1,"","","88","1924",gcc-102098
+gcc-10855,A,Compositae,,Leucanthemum,,"burnatii",,"","Briq. & Cavill.",Accepted,,M,TICA,43CC11E8-02DF-4863-BB33-1452DE2BB021,,"","","","1916",
+gcc-108217,A,Compositae,,Leucanthemum,,"candolleanum",,"","Martrin-Donos",Unresolved,,L,TICA,10B2B940-E36F-47A7-9BE3-ABCD3C7704ED,229975-1,"""Fl. Tarn, 356.""","","356","",
+gcc-32299,A,Compositae,,Leucanthemum,,"canescens",,"","Pourr. ex Nyman",Unresolved,,L,TICA,348AC40F-CBEA-47FA-B997-3BD859F3839E,,"Consp. 370.","","370","",
+gcc-13919,A,Compositae,,Leucanthemum,,"cantabricum",,"","Sennen",Synonym,,M,TICA,0B246A96-75D9-4D42-B4F0-19DA8CBAA88E,229977-1,"","","50","1936",gcc-8020
+gcc-87320,A,Compositae,,Leucanthemum,,"catalaunicum",,"","Vogt",Accepted,,M,TICA,DF09A39D-F3BD-47EF-AD5B-7D024BF9643B,935960-1,"","","21","1988",
+gcc-48110,A,Compositae,,Leucanthemum,,"catananche",,"","(Ball) Maire",Synonym,,M,TICA,F2B155A6-3A55-44CD-B180-592830EA505A,229979-1,"""in Bull. Soc. Hist. Nat. Afr. Nord,""","","151","1923",gcc-117118
+gcc-16996,A,Compositae,,Leucanthemum,,"cebennense",,"","DC.",Synonym,,M,TICA,85614E43-12E2-4A47-BE58-1F6AB9B45296,229980-1,"","","48","1838",gcc-107955
+gcc-81801,A,Compositae,,Leucanthemum,,"ceratophylloides",,"","(All.) Nyman",Synonym,,M,TICA,2DD313CE-1549-430A-9E02-709B19EABFCA,229981-1,"","","10","",gcc-47742
+gcc-71252,A,Compositae,,Leucanthemum,,"ceratophylloides",subsp.,"ceratophylloides","",Synonym,,L,TICA,956ABA57-8FA8-4446-BE81-F4C3E6F227BE,,"","","","",gcc-47742
+gcc-61801,A,Compositae,,Leucanthemum,,"ceratophylloides",subsp.,"platylepis","(Borbás) Hayek",Synonym,,L,TICA,BD9CDF13-E318-4F56-AEBB-A988AF437D97,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","649","1931",gcc-93582
+gcc-57926,A,Compositae,,Leucanthemum,,"ceratophylloides",subsp.,"tenuifolium","(Guss.) Brazzichelli & Marchi",Unresolved,,L,TICA,AFEB4F48-A9CF-45E9-B725-8A6519024B41,877599-1,"","","""97 (nom.), 110 (basion.)""","1973",gcc-69896
+gcc-29751,A,Compositae,,Leucanthemum,,"chamaemelum",,"","Lam.",Unresolved,,L,TICA,43409DBC-E87A-4814-85FD-36FC5A01C817,229982-1,"Fl. Fr. ii. 139.","","ii. 139","",
+gcc-17280,A,Compositae,,Leucanthemum,,"chloroticum",,"","Kern. & Murb. ex Murb.",Accepted,,L,TICA,70FACC86-6469-4762-B1FA-1FF36237C374,,"","","","",
+gcc-137225,A,Compositae,,Leucanthemum,,"clausonis",,"","(Pomel) P.Giraud",Unresolved,,L,TICA,5B01DF68-D69D-4472-AF85-EDFFB5680D57,229984-1,"""in Ann. Univ. Grenoble, 11: 198 (1935):.""","","198","1935",gcc-139326
+gcc-112706,A,Compositae,,Leucanthemum,,"commutatum",,"","Timb. & Martrin-Donos",Unresolved,,L,TICA,4812BA55-7A7F-4D31-8BF8-B60ABC0AEE82,229985-1,"","","29","1862",gcc-49032
+gcc-16903,A,Compositae,,Leucanthemum,,"coronopifolium",,"","Vill.",Accepted,,M,TICA,0A894DC9-7CA9-4376-AE22-1F39E6E10C41,229986-1,"","","32","1779",
+gcc-47742,A,Compositae,,Leucanthemum,,"coronopifolium",subsp.,"ceratophylloides","(All.) Vogt & Greuter",Accepted,,L,TICA,EA442E94-3B6A-4B5E-B3C0-5873A0BDC3BC,70028994-1,"","","41","2003",
+gcc-68356,A,Compositae,,Leucanthemum,,"coronopifolium",subsp.,"coronopifolium","",Synonym,,L,TICA,6D8E2142-2915-4F8D-8121-DE370BDDD00F,,"","","","",gcc-16903
+gcc-69896,A,Compositae,,Leucanthemum,,"coronopifolium",subsp.,"tenuifolium","(Guss.) Vogt & Greuter",Accepted,,L,TICA,CE03DF1A-CA31-40AC-96F1-E9F21BB0B44F,70028996-1,"","","41","2003",
+gcc-90522,A,Compositae,,Leucanthemum,,"corsicum",,"","(Less.) DC.",Accepted,,M,TICA,DEDDB0D8-8947-495E-9C8C-8438A2267DF2,229987-1,"","","47","1838",
+gcc-154282,A,Compositae,,Leucanthemum,,"corsicum",f.,"corsicum","",Synonym,,L,TICA,4614CF7D-95A9-449D-86C0-C076842F52CA,,"","","","",gcc-90522
+gcc-6864,A,Compositae,,Leucanthemum,,"corsicum",subsp.,"corsicum","",Synonym,,L,TICA,93F135A7-3499-43A5-8121-0CC09AAC6ED5,,"","","","",gcc-90522
+gcc-16842,A,Compositae,,Leucanthemum,×,"corunnense",,"","Lago",Unresolved,,L,TICA,EB15C8B8-6B07-430A-933F-1F1DAAA57823,958233-1,"""in An. Jard. Bot. Madrid, 48(1): 91 (1990)""","","91","1990",
+tro-2733867,A,Compositae,,Leucanthemum,,"corunnense",,"","Lago",Unresolved,,L,TRO,2733867,,"","","","",
+gcc-32322,A,Compositae,,Leucanthemum,,"corymbosum",,"","Gren. & Godr.",Unresolved,,L,TICA,3B9F1DF0-E121-4AC4-817E-3BE848D5808C,229988-1,"","","","1850",gcc-103006
+gcc-31649,A,Compositae,,Leucanthemum,,"crassifolium",,"","(Lange) Lange",Synonym,,L,TICA,FB24768F-EF79-4D51-AD0F-3AAC7C43B435,,"","","","1865",gcc-56631
+gcc-107867,A,Compositae,,Leucanthemum,,"croaticum",,"","(Horvatit) Horvatie",Unresolved,,L,TICA,A0423DD8-35C6-4456-9E17-AB13B8E28CDA,,"Acta Bot. Croat. xxii. 209 (1963)","","209","1963",
+gcc-126513,A,Compositae,,Leucanthemum,,"croaticum",,"","(Horvatić) Bjelčić",Synonym,,M,TICA,3F85EAE8-4599-44AA-8698-D57C4200E738,,"Bjelčić in Posebna Izd. Zemaljsk. Muz. Bosne Hercegovine Sarajevu 4. 1983.","","78","1983",gcc-110562
+gcc-82639,A,Compositae,,Leucanthemum,,"cuneifolium",,"","H.J.Coste",Accepted,,M,TICA,6471ADEE-F612-42DA-B889-7281B382FAEE,,"""H. J. Coste, Fl. Descr. France 2. 1903.""","","341","1903",
+gcc-52856,A,Compositae,,Leucanthemum,,"decipiens",,"","Pomel",Synonym,,M,TICA,E113510D-BF0D-47D2-A7E3-620212093148,229991-1,"","","","1874",gcc-33979
+gcc-126906,A,Compositae,,Leucanthemum,,"delarbrei",,"","Timb.",Unresolved,,L,TICA,21A7BEE4-6AF5-499B-9093-D662A8806AC8,229992-1,"","","","1878",
+gcc-110604,A,Compositae,,Leucanthemum,,"depressum",,"","(Ball) Maire",Synonym,,M,TICA,F772FC86-6062-450B-B12F-B146CE62B112,229994-1,"""in Bull. Soc. Hist. Nat. Afr. Nord,""","","151","1923",gcc-81983
+gcc-148455,A,Compositae,,Leucanthemum,,"depressum",var.,"depressum","",Synonym,,L,TICA,848848F3-102D-4247-B5B3-42C969B2DFE5,,"","","","",gcc-81983
+gcc-57711,A,Compositae,,Leucanthemum,,"depressum",var.,"elatum","Maire",Synonym,,L,TICA,2225D011-9CFC-457C-9976-8886D851BE7D,,"","","","",gcc-81983
+gcc-15759,A,Compositae,,Leucanthemum,,"depressum",var.,"insigne","Emb.",Synonym,,L,TICA,0EBA8880-5497-4699-AFF1-1D2ECF92AF4C,,"","","","",gcc-81983
+gcc-102248,A,Compositae,,Leucanthemum,,"discoideum",,"","Bourg. ex Nyman",Unresolved,,L,TICA,9F66DFA4-83C7-493F-B32B-9EA46D62C76A,,"Consp. 370.","","370","",
+gcc-103539,A,Compositae,,Leucanthemum,,"discoideum",,"","(All.) Coste",Accepted,,M,TICA,1B047A7E-E1FD-4DA1-BB09-A183DDF4FFC4,,"","","","",
+gcc-125049,A,Compositae,,Leucanthemum,,"eliasii",,"","(Sennen & Pau) Sennen & Pau",Synonym,,M,TICA,79FF8032-5088-47B7-AD57-D23026757AD9,,"Sennen & Pau in Bol. Soc. Ibér. Ci. Nat. 28(11). 1929.","","34","1929",gcc-63816
+gcc-86939,A,Compositae,,Leucanthemum,,"favargeri",,"","Vogt",Unresolved,,L,TICA,4E28A6EE-EA03-4D08-8AB2-7C1518FF8981,959151-1,"","","186","1991",
+gcc-111783,A,Compositae,,Leucanthemum,,"filifolium",,"","Rouy",Unresolved,,L,TICA,C2B7FBD0-3A65-40F5-AA20-B3EB8EA303B0,229996-1,"""Fl. France (Rouy) 8: 271, in syn.""","","271","1903",
+gcc-29412,A,Compositae,,Leucanthemum,,"fissum",,"","Timb.-Lagr. ex Galiss.",Unresolved,,L,TICA,687671C2-4B33-4BEE-8C5B-365C2E5CB4F8,229997-1,"in Bull. Soc. bot. Rochel. xi. (1889).","","xi.","1889",
+gcc-80675,A,Compositae,,Leucanthemum,,"flaveolum",,"","Sampaio",Unresolved,,L,TICA,B4B219BD-E320-472D-9F9E-6E19B12A5E2A,,"Herb. Portug. 132 (1913).","","132","1913",
+gcc-2201,A,Compositae,,Leucanthemum,,"flosculosum",,"","(L.) P.Giraud",Synonym,,M,TICA,B5E585B9-D671-4A0C-8D1A-03F5D4347A9D,,"","","201","",gcc-137050
+gcc-92666,A,Compositae,,Leucanthemum,,"fontanesii",,"","Boiss. & Reut.",Synonym,,M,TICA,64120FBB-34F6-42F0-85E2-891813D4EA36,,"","","26","1856",gcc-136805
+gcc-137866,A,Compositae,,Leucanthemum,,"gaetulum",,"","(Batt.) Maire",Synonym,,M,TICA,2B762CC0-E42B-433E-857C-EF62515CE759,230001-1,"","","151","1923",gcc-125232
+gcc-17360,A,Compositae,,Leucanthemum,,"gallaecicum",,"","Rodr.Oubiña & S.Ortiz",Unresolved,,L,TICA,681A84F0-48B1-4BF0-A7FF-20169EDEA6B7,940577-1,"","","498","1990",
+gcc-110284,A,Compositae,,Leucanthemum,,"gaudinii",,"","Dalla Torre",Accepted,,M,TICA,66A9B047-218C-4C99-A299-B08892BE1D39,,"","","","1882",
+gcc-62888,A,Compositae,,Leucanthemum,,"gaudinii",subsp.,"barrelieri","(Dufour ex DC.) Vogt",Accepted,,L,TICA,BC16B736-2509-4279-A996-B2694FB697E7,966786-1,"","","89","1991",
+gcc-34223,A,Compositae,,Leucanthemum,,"gaudinii",subsp.,"cantabricum","(Font Quer & Guinea) Vogt",Accepted,,L,TICA,86B0323A-9915-4D11-9E80-3F6DA7A62D74,966787-1,"","","98","1991",
+gcc-149248,A,Compositae,,Leucanthemum,,"gaudinii",subsp.,"gaudinii","",Synonym,,L,TICA,AD159CDC-D507-441B-A8F5-5502D44A9475,,"","","","",gcc-110284
+gcc-15468,A,Compositae,,Leucanthemum,,"gayanum",,"","(Coss. & Durieu) Maire",Synonym,,M,TICA,28277208-2467-43DB-8CDD-1CA4E911E044,230003-1,"","","149","1923",gcc-19871
+gcc-53231,A,Compositae,,Leucanthemum,,"gayanum",subsp.,"antiatlanticum","(Emb. & Maire) Maire",Synonym,,L,TICA,7A91108A-1E20-452C-95C6-64A901B36705,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 31. 1940.","","23","1940",gcc-47695
+gcc-65179,A,Compositae,,Leucanthemum,,"gayanum",var.,"elatum","(Maire) Maire",Synonym,,L,TICA,5C15639B-FD02-4408-9E12-C473EA5B4F3C,,"","","","",gcc-19871
+gcc-63489,A,Compositae,,Leucanthemum,,"gayanum",var.,"fallax","Maire & Weiller",Synonym,,L,TICA,BDA98C2C-D09C-4AB7-BCFC-B7397D6CFEE3,77066917-1,"Bull. Soc. Hist. Nat. Afrique N. 31: 23. 1940","","23","1940",gcc-60414
+gcc-153457,A,Compositae,,Leucanthemum,,"gayanum",var.,"gayanum","",Synonym,,L,TICA,AD3056D0-06E3-411C-B032-AEE6BB173C8C,,"","","","",gcc-19871
+gcc-65254,A,Compositae,,Leucanthemum,,"gayanum",subsp.,"gayanum","",Synonym,,L,TICA,05820EF7-602F-4100-A63D-C54B48A6B625,,"","","","",gcc-19871
+gcc-69244,A,Compositae,,Leucanthemum,,"gayanum",var.,"mawii","(Hook.) Maire",Synonym,,L,TICA,65D02BB1-D336-4AEC-A9C1-E4ED24EA77CF,,"","","","",gcc-19871
+gcc-64092,A,Compositae,,Leucanthemum,,"gayanum",var.,"murbeckianum","Emb. & Maire",Synonym,,L,TICA,100A5506-DBE9-4B14-A47C-BBD1D2716B2C,,"","","","",gcc-19871
+gcc-45278,A,Compositae,,Leucanthemum,,"gayanum",var.,"villosissimum","Maire",Synonym,,L,TICA,74CBC2E5-48C3-41F4-9A82-53E89AE08CD3,,"","","","",gcc-19871
+gcc-120528,A,Compositae,,Leucanthemum,,"georgicum",,"","Sosn. ex Sanadze",Unresolved,,L,TICA,8E604FFA-E0DE-4657-BD91-C7C1DFA73024,230004-1,"""in Sc. Papers Applied Sect. Tiflis Bot. Gard. Pt. VI. 14, 17 (1929).""","","""Pt. VI. 14, 17""","1929",
+gcc-45386,A,Compositae,,Leucanthemum,,"glabrum",,"","Boiss. & Reut.",Synonym,,M,TICA,3C1EB948-A63C-4333-91E6-541A21731519,230005-1,"","","57","1852",gcc-100825
+gcc-62865,A,Compositae,,Leucanthemum,,"glabrum",subsp.,"decipiens","(Pomel) Batt.",Synonym,,L,TICA,911551D6-39D0-4A6F-9488-B2463E184FA1,,"","","","",gcc-33979
+gcc-152046,A,Compositae,,Leucanthemum,,"glabrum",var.,"glabrum","",Synonym,,L,TICA,C117B40E-39BF-4203-BB67-917DCE17F8B6,,"","","","",gcc-100825
+gcc-152518,A,Compositae,,Leucanthemum,,"glabrum",subsp.,"glabrum","",Synonym,,L,TICA,B22BAD48-7A90-4F9D-B060-9B2422FD52EB,,"","","","",gcc-100825
+gcc-35959,A,Compositae,,Leucanthemum,,"glabrum",var.,"reboudianum","Pomel",Synonym,,L,TICA,FC9CB5D5-EE95-4D07-A4D5-42AE40139908,,"","","","",gcc-138359
+gcc-105328,A,Compositae,,Leucanthemum,,"glaucophyllum",,"","(Briq. & Cav.) Marchi & O.Illuminati",Unresolved,,L,TICA,E2A6B54C-7055-4E13-B061-A55BAB8F10B4,,"""in Ann. Bot. (Italy), 33: 174 (1974 publ. 1975).""","","174","1975",
+gcc-36511,A,Compositae,,Leucanthemum,,"glaucophyllum",,"","(Briq. & Cavill.) Jahand.",Accepted,,M,TICA,C7D88572-DDEF-4886-BA7D-43B5F692A27C,,"Jahand. in Ann. Soc. Hist. Nat. Toulon 1922. 1922.","","4","1922",
+gcc-131614,A,Compositae,,Leucanthemum,,"gmelini",,"","Ledeb.",Unresolved,,L,TICA,1933DE7C-D6B2-41FC-B392-E14DD9FB5493,230007-1,"Fl. Ross. ii. 541.","","ii. 541","",gcc-99059
+gcc-117700,A,Compositae,,Leucanthemum,,"gracilicaule",,"","(Dufour) S.Alavi & Heywood",Unresolved,,L,TICA,D2CCE648-4A61-4BC6-94AE-C13ECF573FDC,230009-1,"Bot. J. Linn. Soc. 71(4): 274 (1975 publ. 1976).","","274","1976",
+gcc-78463,A,Compositae,,Leucanthemum,,"gracilicaule",,"","Nyman",Unresolved,,L,TICA,15251985-1ADD-4ACE-A052-693947F985B0,,"Consp. 371.","","371","",
+gcc-8038,A,Compositae,,Leucanthemum,,"gracilicaule",,"","(Dufour) Pau",Accepted,,M,TICA,74DAA9DD-419D-4D3C-977B-0EF61164379D,,"Pau in Bol. Soc. Aragonesa Ci. Nat. 1. 1902.","","48","1902",
+gcc-91060,A,Compositae,,Leucanthemum,,"graminifolium",,"","(L.) Lam.",Accepted,,M,TICA,A29B8F0C-4B92-43AB-8270-857A05F8416C,,"","","","1779",
+gcc-70462,A,Compositae,,Leucanthemum,,"graminifolium",subsp.,"chloroticum","(A.Kern. & Murb.) Hayek",Synonym,,L,TICA,0FDD195F-2E19-4C42-91A0-EE5478055520,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","647","1931",gcc-17280
+gcc-152607,A,Compositae,,Leucanthemum,,"graminifolium",subsp.,"graminifolium","",Synonym,,L,TICA,B66FB27F-767B-4B63-A665-9D1DCBF80F6A,,"","","","",gcc-91060
+gcc-154504,A,Compositae,,Leucanthemum,,"graminifolium",var.,"graminifolium","",Synonym,,L,TICA,973224F2-92FF-4372-AE0B-C4E7020526DA,,"","","","",gcc-91060
+gcc-10652,A,Compositae,,Leucanthemum,,"grande",,"","(L.) P.Giraud",Accepted,,M,TICA,D0B896AE-4633-4999-B215-13E9087BCAAB,230011-1,"""in Ann. Univ. Grenoble, 11: 198 (1935):.""","","198","1935",
+gcc-121692,A,Compositae,,Leucanthemum,,"gussonei",,"","Nyman",Unresolved,,L,TICA,F410B5D8-5970-4D13-93CE-CA56E073CF03,,"Consp. 371.","","371","",
+gcc-129201,A,Compositae,,Leucanthemum,,"halleri",,"","(Suter) Polatschek",Unresolved,,L,TICA,B677E26F-749D-4620-A5DF-DBC10D50CAF9,230013-1,"Oesterr. Bot. Z. 113: 138","","138","1966",
+gcc-141388,A,Compositae,,Leucanthemum,,"halleri",,"","Ducommun",Accepted,,M,TICA,A25A4505-A021-43C1-87F1-F749D6AE565F,,"Ducommun. 1869.","","383","1869",
+gcc-104186,A,Compositae,,Leucanthemum,,"herminii",,"","Nyman",Unresolved,,L,TICA,BBFC7329-DEA6-49A6-A01A-A2F7F78482EB,,"Consp. 372.","","372","",
+gcc-35514,A,Compositae,,Leucanthemum,,"heterophyllum",,"","Schur ex Nyman",Unresolved,,L,TICA,64513D2D-294C-4D7C-B160-41D823A6A1DB,,"Consp. 370.","","370","",
+gcc-8953,A,Compositae,,Leucanthemum,,"heterophyllum",,"","(Willd.) DC.",Accepted,,M,TICA,2A37DC3B-278A-4490-9F74-10C08B37C3AE,230016-1,"","","47","1838",
+gcc-98826,A,Compositae,,Leucanthemum,,"hosmariense",,"","(Ball) Font Quer",Synonym,,M,TICA,4140491C-1BFA-4B23-B8AB-96F8A61065D8,230017-1,"","","61","1930",gcc-42862
+gcc-41638,A,Compositae,,Leucanthemum,,"hultenii",,"","Á.Löve & D.Löve",Synonym,,M,TICA,7B96D530-57CC-4289-A452-4D19C3F6937F,230018-1,"Bot. Not. (Lund) 1961 : 44 (1961)","","44","1961",gcc-72639
+gcc-117696,A,Compositae,,Leucanthemum,,"ifniense",,"","Font Quer",Synonym,,M,TICA,2BB30389-E1BD-4275-ACA8-C13DEFD1D177,230019-1,"","","150","1935",gcc-43023
+gcc-86902,A,Compositae,,Leucanthemum,,"illyricum",,"","Vogt & Greuter",Accepted,,M,TICA,6E64B944-B484-4F68-A8DB-7BFE77CF09E0,70028998-1,"","","41","2003",
+gcc-88026,A,Compositae,,Leucanthemum,,"illyricum",,"","(Horvatić) D.Papes",Unresolved,,L,TICA,4B2DF1D0-B4BC-4CD8-B9BB-7E8467838C06,,"""Acta Bot. Croat. 32: 244 (1973), without basionym page""","","244","",
+gcc-140620,A,Compositae,,Leucanthemum,,"integrifolium",,"","(Richardson) DC.",Synonym,,M,TICA,B9EC0EC3-AA6A-4196-B872-F5792373119C,,"Prodr. (DC.) 6: 46","","","",gcc-37250
+gcc-32237,A,Compositae,,Leucanthemum,×,"intersitum",,"","Hausskn.",Unresolved,,L,TICA,C19DA084-AA87-46F1-B422-3BBAC449E4AF,230022-1,"""in Mitth. Thur. Bot. Ver. N. Folge, vi. (1894) 25.""","","vi.  25.","1894",
+gcc-49032,A,Compositae,,Leucanthemum,,"ircutianum",,"","(Turcz.) Turcz. ex DC.",Accepted,,M,TICA,E7B1F967-62B3-438B-96B2-5AD46FA73B61,230023-1,"","","47","1838",
+gcc-8020,A,Compositae,,Leucanthemum,,"ircutianum",subsp.,"cantabricum","(Sennen) Vogt",Accepted,,L,TICA,97D7D9B7-76F8-4D40-802E-0EED764E01BC,966788-1,"","","121","1991",
+gcc-56631,A,Compositae,,Leucanthemum,,"ircutianum",subsp.,"crassifolium","(Lange) Vogt",Accepted,,L,TICA,A2614EDC-DA11-430E-9A4A-8006ECEBB6AB,966789-1,"","","127","1991",
+gcc-145471,A,Compositae,,Leucanthemum,,"ircutianum",subsp.,"ircutianum","",Synonym,,L,TICA,E492D31D-75E6-4C46-8F09-04A900E5C842,,"","","","",gcc-49032
+gcc-145729,A,Compositae,,Leucanthemum,,"ircutianum",var.,"ircutianum","",Synonym,,L,TICA,9906D3C3-1CEA-4F80-9ED3-099F2D1EE537,,"","","","",gcc-49032
+gcc-59414,A,Compositae,,Leucanthemum,,"ircutianum",subsp.,"leucolepis","(Briq. & Cavill.) Vogt & Greuter",Accepted,,L,TICA,0D505EBD-F064-4CEE-9F45-9633C5B73BF7,70029003-1,"","","41","2003",
+gcc-24575,A,Compositae,,Leucanthemum,,"kurilense",,"","(Tzvelev) Vorosch.",Synonym,,M,TICA,8F6BAEB5-DB27-4B33-A5C0-2D63686991F3,230024-1,"Fl. Sovetsk. DaI'n. Vost. 411 (1966).","","411","1966",gcc-62274
+gcc-144877,A,Compositae,,Leucanthemum,,"laciniatum",,"","",Unresolved,,L,TICA,63ED5C15-8D8E-4BF1-A97C-FF209F7273D2,,"""in Nuov. Giorn. Bot. Ital. ii. (not_stated) 268; et in Ann. Ist. Bot. Roma, iv.(1891) 159.""","","","1879",
+gcc-95922,A,Compositae,,Leucanthemum,,"laciniatum",,"","Huter",Unresolved,,L,TICA,F379B2F7-D3CA-4E3B-869A-9072B53A934D,230026-1,"Oesterr. Bot. Z. 55: 473","","473","1905",
+gcc-45207,A,Compositae,,Leucanthemum,,"laciniosum",,"","Arv.-Touv.",Unresolved,,L,TICA,51E46B59-B6FF-4FFA-AF97-53C9BA656323,230028-1,"Ess. Pl. Dauph. 36 (Quid?).","","36","",
+gcc-51636,A,Compositae,,Leucanthemum,,"lacustre",,"","(Brot.) Samp.",Accepted,,M,TICA,A44B13D3-E178-42CF-83E7-5FBFF6E09C90,230029-1,"","","132","1913",
+gcc-13125,A,Compositae,,Leucanthemum,,"lanceolatum",,"","Nyman",Unresolved,,L,TICA,E80BDE52-EDAF-4743-B888-18726508FDF1,,"Consp. 371.","","371","",
+gcc-9923,A,Compositae,,Leucanthemum,,"lanceolatum",,"","DC.",Synonym,,M,TICA,A4A4C97F-87AF-4325-A066-12894A451D16,230030-1,"","","47","1838",gcc-135712
+gcc-23632,A,Compositae,,Leucanthemum,,"latifolium",,"","DC.",Accepted,,M,TICA,86953C84-543E-46E4-A167-2BB2B01123CE,230032-1,"Prodr. (DC.) 6: 47","","47","1838",
+gcc-35290,A,Compositae,,Leucanthemum,,"lawatum",,"","Nyman",Unresolved,,L,TICA,A41344BE-AE7F-4AB9-90C5-416C5DDBB8EE,230033-1,"Consp. Fl. Eur. Suppl. II. i. (1889) 169.","","i.  169","1889",
+gcc-4351,A,Compositae,,Leucanthemum,,"leucanthemum",,"","(L.) Rydb.",Synonym,Illegitimate,M,TICA,5A8D2D5D-96D3-4A27-A167-0815E70BF9FF,138986-2,"","","235","1916",gcc-135712
+gcc-75951,A,Compositae,,Leucanthemum,,"leucanthemum",,"","L.",Unresolved,,L,TICA,CABA1055-1960-408A-8F22-6392F542E42C,,"","","","",
+gcc-12255,A,Compositae,,Leucanthemum,,"leucolepis",,"","(Briq. & Cavill.) Gajić",Synonym,,M,TICA,855F164C-BDA6-48F9-B33E-16DB81C47AEF,,"""Gajić in Josifovic, Fl. SR Srbije 9. 1977.""","","185","1977",gcc-59414
+gcc-95082,A,Compositae,,Leucanthemum,,"leucolepis",,"","(Briq. & Cavill.) Horvatie",Unresolved,,L,TICA,DF8C4553-3841-4955-8D21-8E7D08AFA74D,,"""Acta Bot. Croat. xxii. 214 (1963), cum. descr. emend.""","","214","",
+gcc-151048,A,Compositae,,Leucanthemum,,"leucolepis",subsp.,"leucolepis","",Synonym,,L,TICA,A2839AC1-860B-4D8A-A897-7C206C0C90EF,,"","","","",gcc-59414
+gcc-17316,A,Compositae,,Leucanthemum,,"liburnicum",,"","(Fiori) Horvatie",Synonym,,M,TICA,7AE8234A-629E-40B2-AE1B-200165E6E2B9,,"Acta Bot. Croat. xxii. 208 (1963)","","208","1963",gcc-93582
+gcc-25171,A,Compositae,,Leucanthemum,,"lineare",,"","(Matsum.) Vorosch.",Synonym,,M,TICA,01570507-150C-4B82-B572-2E7949A67ECF,230037-1,"""in Bull. Princ. Bot. Gard. Acad. Sci. URSS No. 49, 58 (1963).""","","""No. 49, 58""","1963",gcc-102006
+gcc-95265,A,Compositae,,Leucanthemum,,"lithopolitanicum",,"","(E.Mayer) Polatschek",Accepted,,M,TICA,30D29DD0-A5F5-43EB-B5BE-8EEA084B73E3,230038-1,"","","140","1966",
+gcc-79542,A,Compositae,,Leucanthemum,,"lobulatum",,"","Levier ex Levier & Sommier",Unresolved,,L,TICA,DC68CEA4-2B26-449D-B2B3-6BAA6019756B,,"in Nuov. Giorn. Bot. Ital. xxiii. (1891) 258.","","258","",
+gcc-120213,A,Compositae,,Leucanthemum,,"longifolium",,"","Sennen",Unresolved,,L,TICA,EAB01C27-F6FC-464C-BCBD-C6FA66BC475E,,"""Treb. Mus. Ci. Nat. Barcelona xv. Ser. Bot. No. 1, 21 (1931), in obs.,nomen.""","","21","",
+gcc-98216,A,Compositae,,Leucanthemum,,"longipectinatum",,"","Font Quer",Synonym,,M,TICA,B9B530F8-7B75-44A9-843D-959DB606223E,,"""Font Quer, Iter Marocc. 1927. 1927.""","","[in schedis] No. 671","1927",gcc-101954
+gcc-42124,A,Compositae,,Leucanthemum,,"macrocephalum",,"","Rouy",Unresolved,,L,TICA,3EF56FEB-4B0A-4CA8-BFA2-4E0A00DC744B,230041-1,"""Fl. France (Rouy) 8: 274, in syn.""","","274","1903",
+gcc-131369,A,Compositae,,Leucanthemum,,"macrotum",,"","(Durieu) Heywood",Synonym,,M,TICA,A93056EF-506D-4EAE-B909-E0B878EBE2E8,230042-1,"""Agron. Lusit. xx. (Fl. Lusit. Comment., Fasc. 12, 212 (1959) 212 (1958)""","","212","1958",gcc-121497
+gcc-81255,A,Compositae,,Leucanthemum,,"maestracense",,"","Vogt & F.H.Hellw.",Accepted,,M,TICA,DC64536A-01A9-49C8-91C0-6F64E2EC4735,959149-1,"","","172","1991",
+gcc-114757,A,Compositae,,Leucanthemum,,"mairei",,"","Humbert",Synonym,,M,TICA,796318F6-C8ED-453F-99C6-BA9B1F43FBF0,,"","","","1924",gcc-19912
+gcc-112325,A,Compositae,,Leucanthemum,,"maresii",,"","(Coss.) Maire",Synonym,,M,TICA,00B9640C-E249-40C8-A03B-B525A18AEBBA,230044-1,"","","151","1923",gcc-107508
+gcc-26849,A,Compositae,,Leucanthemum,,"maresii",var.,"albopurpurascens","Maire & Wilczek",Synonym,,L,TICA,A573D2B3-0046-4DF9-9A82-31A3697C635F,,"","","","",gcc-107508
+gcc-154995,A,Compositae,,Leucanthemum,,"maresii",var.,"maresii","",Synonym,,L,TICA,732218D8-52F9-42AA-B36F-CEE24C2AB8F9,,"","","","",gcc-107508
+gcc-110709,A,Compositae,,Leucanthemum,,"margaritae",,"","(Gáyer ex Jáv.) Zelený",Synonym,,M,TICA,44022157-FE32-4AC2-BCC2-B18708B1E9BD,,"Zeleny in Stud. Ceskoslov. Akad. Ved. 10. 1982.","","55","1982",gcc-22590
+gcc-50779,A,Compositae,,Leucanthemum,,"margaritae",,"","Soó",Synonym,,M,TICA,F7C8475C-E6ED-4591-B486-5E2FFCE6C616,230045-1,"Feddes Repert. 83(3): 154","","154","1972",gcc-22590
+gcc-45755,A,Compositae,,Leucanthemum,,"maroccanum",,"","(Batt.) Maire",Synonym,,M,TICA,C74C7F3D-90E5-4FD2-8807-54D74866BC86,230046-1,"","","151","1923",gcc-19871
+gcc-37763,A,Compositae,,Leucanthemum,,"maximum",,"","(Ramond) DC.",Accepted,,L,TICA,1F7D22F0-4D4C-431C-BE2D-46069F7D706F,230047-1,"Prodr. 6","","46","1838",
+gcc-104342,A,Compositae,,Leucanthemum,,"meridionale",,"","Legrand",Accepted,,M,TICA,58FF4952-1DA0-49A5-926F-A34BA7544CD4,,"Legrand in Bull. Soc. Bot. France 28. 1881.","","56","1881",
+gcc-88259,A,Compositae,,Leucanthemum,,"merinoi",,"","Vogt & Castrov.",Unresolved,,L,TICA,492BB2F6-CB14-4A05-A5B6-7F0746C395C1,940131-1,"","","567","1990",
+gcc-76719,A,Compositae,,Leucanthemum,,"mesatlanticum",,"","Emb. & Maire",Synonym,,M,TICA,9607304B-7454-4CF7-A0A6-6545E6BA3552,,"","","38","1930",gcc-132431
+gcc-6160,A,Compositae,,Leucanthemum,,"minimum",,"","Vill.",Accepted,,M,TICA,449D7BDD-5C7D-4820-BD5B-0B741ED79AA6,230050-1,"Prosp. Hist. Pl. Dauphiné 32","","32","1779",
+gcc-148809,A,Compositae,,Leucanthemum,,"minimum",var.,"minimum","",Synonym,,L,TICA,F3DDF041-9776-483C-AEF5-4B2FE994F430,,"","","","",gcc-6160
+gcc-107955,A,Compositae,,Leucanthemum,,"monspeliense",,"","(L.) H.J.Coste",Accepted,,M,TICA,45480805-10A0-43AF-8CB4-AB42892C720E,50957444-1,"","","342","1903",
+gcc-154298,A,Compositae,,Leucanthemum,,"monspeliense",var.,"monspeliense","",Synonym,,L,TICA,A3B38936-9153-45DB-AE93-C0C20C62F231,,"","","","",gcc-107955
+gcc-130082,A,Compositae,,Leucanthemum,,"montanum",,"","(L.) DC.",Synonym,,M,TICA,519DBA92-58E5-478C-AFA6-DDC0B7D875FE,230051-1,"","","48","1838",gcc-91060
+gcc-61309,A,Compositae,,Leucanthemum,,"montanum",subsp.,"atratum","(Jacq.) Arcang.",Synonym,,L,TICA,F28FBAAF-4ACA-4922-A6BB-A583AA43085F,,"Arcang.. 1882.","","352","1882",gcc-121205
+gcc-149361,A,Compositae,,Leucanthemum,,"montanum",subsp.,"montanum","",Synonym,,L,TICA,A0757CEB-6FEF-4284-9774-572ECECE2AA3,,"","","","",gcc-91060
+gcc-126351,A,Compositae,,Leucanthemum,,"montserratianum",,"","Vogt",Accepted,,M,TICA,83546566-8738-4B49-920C-D526D62AB963,959152-1,"","","191","1991",
+gcc-37634,A,Compositae,,Leucanthemum,,"multicaule",,"","(L.) Pers.",Unresolved,,L,TICA,0D23FFB6-8198-48A7-A809-45C451D22E71,,"","","","",
+gcc-76600,A,Compositae,,Leucanthemum,,"murcicum",,"","J.Gay ex Willk.",Unresolved,,L,TICA,249CB1F7-150E-43B8-926E-651125D0DA26,230052-1,"Bot. Zeitung (Berlin) 22: 253","","253","1864",
+gcc-23244,A,Compositae,,Leucanthemum,,"myconis",,"","(L.) P.Giraud",Unresolved,,L,TICA,25CE8018-9D5F-4724-A324-2B04EFC5B76A,230053-1,"","","","1935",gcc-17128
+gcc-27573,A,Compositae,,Leucanthemum,,"nanum",,"","St.-Lag.",Unresolved,,L,TICA,26E2B67F-280D-4479-BE44-32F7DA00BEDD,230054-1,"""in Cariot. Etud. des fl. ed. 8, ii. (1889) 481.""","","""8, ii.  481""","1889",
+gcc-75563,A,Compositae,,Leucanthemum,,"nipponicum",,"","Franch. ex Maxim.",Synonym,,M,TICA,878A92E2-46C9-4319-8862-62B196E632C6,327476-2,"","","420","1872",gcc-133598
+gcc-124164,A,Compositae,,Leucanthemum,,"occitanicum",,"","Sudre",Unresolved,,L,TICA,4C2721EF-61D9-41F4-8320-D00AD4037B76,,"""in Rev. de Bot. Toul. (Janv. 1894) [sp. collect.], ex Bull. Soc. Bot. Fr. xlii. (1895) 199""","","199","",
+gcc-41725,A,Compositae,,Leucanthemum,,"odoratum",,"","Dulac",Synonym,,L,TICA,84FC0D61-AA4E-407B-8335-4D42CBE98E30,230057-1,"","","504","1867",gcc-36373
+gcc-16061,A,Compositae,,Leucanthemum,,"oppositifolium",,"","Samp.",Unresolved,,L,TICA,9D52B1AF-F3C7-458D-8565-1DB7CB3F17EF,230058-1,"","","132","1913",gcc-78554
+gcc-9952,A,Compositae,,Leucanthemum,,"pachyphyllum",,"","Marchi & Illum.",Unresolved,,L,TICA,115C05A2-104D-4BF0-91AE-12984023C1AB,,"","","175","1975",
+gcc-87537,A,Compositae,,Leucanthemum,,"pallens",,"","DC.",Accepted,,M,TICA,04D64297-C2D1-465F-939C-7D81C122A3A3,230060-1,"","","47","1838",
+gcc-15627,A,Compositae,,Leucanthemum,,"pallens",var.,"crassifolium","Lange",Unresolved,,L,TICA,8D69167B-9B24-4268-8464-1CEFCADAAE75,,"","","","",gcc-56631
+gcc-56693,A,Compositae,,Leucanthemum,,"pallens",subsp.,"leucolepis","(Briq. & Cavill.) Favarger",Synonym,,L,TICA,9942249B-6C1E-4567-AB11-80827D833502,,"Favarger in Anales Inst. Bot. Cavanilles 32. 1975.","","1236","1975",gcc-59414
+gcc-146514,A,Compositae,,Leucanthemum,,"pallens",var.,"pallens","",Synonym,,L,TICA,2873035B-ABD3-4225-8018-1A1C44F663A3,,"","","","",gcc-87537
+gcc-151116,A,Compositae,,Leucanthemum,,"pallens",subsp.,"pallens","",Synonym,,L,TICA,0BDC48B5-BFAF-4DFA-8DD2-7DF2A9644990,,"","","","",gcc-87537
+gcc-62501,A,Compositae,,Leucanthemum,,"pallens",subsp.,"parviceps","(Briq. & Cavill.) Favarger",Synonym,,L,TICA,C7A2A8A2-CE1B-444C-9E9B-AF3447712DA1,,"Favarger in Anales Inst. Bot. Cavanilles 32. 1975.","","1235","1975",gcc-55808
+gcc-132462,A,Compositae,,Leucanthemum,,"pallidum",,"","Samp.",Unresolved,,L,TICA,28B2861E-4BFE-4D51-B94A-E351E2E3645A,230061-1,"""Fl. Portug., ed. 2, Pires de Lima, 577 (1947), in clavi, lusitanice.""","","""2, Pires de Lima, 577 , in clavi, lusitanice.""","1947",
+gcc-142758,A,Compositae,,Leucanthemum,,"palmatum",,"","Lam.",Synonym,,M,TICA,FFC581B6-564F-4C42-ABA3-FA5D10F6D539,230062-1,"","","138","1779",gcc-107955
+gcc-148728,A,Compositae,,Leucanthemum,,"palmatum",var.,"palmatum","",Synonym,,L,TICA,C2029653-61D2-4018-85A7-493C2D117ED7,,"","","","",gcc-107955
+gcc-84730,A,Compositae,,Leucanthemum,,"paludosum",,"","(Poir.) Bonnet & Barratte",Accepted,,M,TICA,A8082899-3869-478E-8C0C-772B5A331EFD,77084259-1,"""Expl. Sci. Tunisie, Cat. Pl. 221""","","221","1896",
+gcc-87477,A,Compositae,,Leucanthemum,,"paludosum",,"","(Poir.) Pomel",Synonym,,M,TICA,B46BC392-AE95-4B47-B7E9-7D6344872C0D,,"Pomel in Bull. Soc. Sci. Phys. Algérie 13. 1875.","","292","1875",gcc-100825
+gcc-40671,A,Compositae,,Leucanthemum,,"paludosum",var.,"arenarium","(Pomel) Batt.",Synonym,,L,TICA,1D52AAE8-7241-45C1-AFD1-4B626C7060E8,,"","","","",gcc-100825
+gcc-59910,A,Compositae,,Leucanthemum,,"paludosum",subsp.,"decipiens","(Pomel) Batt.",Synonym,,L,TICA,3EED104A-314B-45F2-B075-9A432B18F6A5,,"","","","",gcc-33979
+gcc-14998,A,Compositae,,Leucanthemum,,"paludosum",subsp.,"ebusitanum","Vogt",Unresolved,,L,TICA,34B0E008-9B2C-499E-9F42-1BC32B8E3DC3,965274-1,"Ruizia 10:","","223","1991",gcc-26184
+gcc-58264,A,Compositae,,Leucanthemum,,"paludosum",var.,"faureanum","Maire",Synonym,,L,TICA,162B7A2D-8ABD-4458-B9C2-8D35CC17C265,,"","","","",gcc-100825
+gcc-67079,A,Compositae,,Leucanthemum,,"paludosum",var.,"gaetulum","(Batt.) Maire",Synonym,,L,TICA,290DE719-869A-4F99-995B-D3FF8B5B8BAF,,"","","","",gcc-125232
+gcc-53446,A,Compositae,,Leucanthemum,,"paludosum",subsp.,"glabrum","Maire",Synonym,,L,TICA,3DF3B879-8FC9-4869-B111-664CB79BF495,,"","","","",gcc-100825
+gcc-146769,A,Compositae,,Leucanthemum,,"paludosum",subsp.,"paludosum","",Synonym,,L,TICA,9633311B-E7D4-49A7-8FCC-1F87D0A70671,,"","","","",gcc-100825
+gcc-150989,A,Compositae,,Leucanthemum,,"paludosum",var.,"paludosum","",Synonym,,L,TICA,648B2889-3866-4DB0-8611-7AA3A9352FDC,,"","","","",gcc-100825
+gcc-72633,A,Compositae,,Leucanthemum,,"paludosum",var.,"pinnatifidum","Coss.",Synonym,,L,TICA,F055F3A3-A6E4-4460-AF44-FF7DC0C805BB,,"","","","",gcc-100825
+gcc-61040,A,Compositae,,Leucanthemum,,"paludosum",var.,"pinnatisectum","Pau",Synonym,,L,TICA,32306351-B88C-46C7-A3BA-A353C1F39353,,"","","","",gcc-100825
+gcc-116922,A,Compositae,,Leucanthemum,,"parthenium",,"","(L.) Gren. & Godr.",Synonym,,L,TICA,7DB26A86-F914-4C2A-90F8-BF84D6B26D4A,230063-1,"","","145","1850",gcc-36373
+gcc-25384,A,Compositae,,Leucanthemum,×,"pawlowskii",,"","Piękoś",Unresolved,,L,TICA,881D179D-8610-4733-B75B-2EDE69597151,,"""Fragm. Florist. Geobot. 16(2): 319, 323""","","323","1970",
+gcc-25048,A,Compositae,,Leucanthemum,,"pectinatum",,"","DC.",Unresolved,,L,TICA,FEF47229-D399-4A8E-812D-2E4362669071,230065-1,"Prodr. (DC.) 6: 49","","49","1838",
+gcc-24466,A,Compositae,,Leucanthemum,,"persicifolium",,"","Timb.",Unresolved,,L,TICA,7F5433E4-0578-471D-BE60-2D29ADBE4AA5,,"Rod. & Bot. Agr. ii. 447; ex ej. in Bull. Soc. Sc. Phys. & Nat. Toulii.(1874) 460","","460","",
+gcc-93582,A,Compositae,,Leucanthemum,,"platylepis",,"","Borbás",Accepted,,M,TICA,B5C8B4D2-9882-402F-9756-8B04F4BAC8E8,,"","","","",
+gcc-128824,A,Compositae,,Leucanthemum,,"pluriflorum",,"","Pau",Unresolved,,L,TICA,79BA0571-20FD-409D-851B-DAE6681AFD99,,"","","31","1902",
+gcc-104519,A,Compositae,,Leucanthemum,,"praecox",,"","(Horvatić) Horvatić",Unresolved,,L,TICA,3086DEE0-3FF8-4DA3-9283-A3ACD83ED440,230069-1,"Acta Bot. Croat. xxii. 211 (1963)","","211","1963",
+gcc-98676,A,Compositae,,Leucanthemum,,"praecox",,"","(Horvatić) Villard",Synonym,,M,TICA,A1A9D0E5-AA5A-4756-814D-96A24A8AD65E,,"Villard in Ber. Schweiz. Bot. Ges. 80. 1970.","","169","1970",gcc-135712
+gcc-17785,A,Compositae,,Leucanthemum,,"pseudo-catananche",,"","Maire",Synonym,,M,TICA,9FB96EA0-C0EB-4EAB-851B-20D44D3D2BF3,230070-1,"in Mem. Soc. Sc. Not. Maroc","","37","1926",gcc-104744
+gcc-17809,A,Compositae,,Leucanthemum,,"pujiulae",,"","Sennen",Unresolved,,L,TICA,AE28BE45-147F-4850-9BA0-20E197C00EAC,,"""Treb. Mus. Ci. Nat. Barcelona xv. Ser. Bor. No. 1, 21 (1931), in obs.nomen.""","","21","",
+gcc-87432,A,Compositae,,Leucanthemum,,"pulverulentum",,"","Samp.",Unresolved,,L,TICA,D2AA651F-F486-41F0-8758-7D432BC74B3A,230073-1,"","","132","1913",gcc-99881
+gcc-83954,A,Compositae,,Leucanthemum,,"pyrenaicum",,"","Rouy",Unresolved,,L,TICA,89F5CC3D-869C-4D3E-B16D-756E9F8FA597,230074-1,"""Fl. France (Rouy) 8: 274, in syn.""","","""274, in syn.""","1903",
+gcc-87026,A,Compositae,,Leucanthemum,,"raciborskii",,"","Popov & Krasch.",Synonym,,M,TICA,340E092A-3DD5-4212-A58F-7C511BD2B2A2,,"""Popov & Krasch. in Popov, Ocerk Rast. Fl. Karpat. 1949.""","","248","1949",gcc-110284
+gcc-91818,A,Compositae,,Leucanthemum,,"raciborskii",,"","Popov & Chrshan.",Synonym,,M,TICA,7D9E9093-6FC2-43E7-93D7-873C02C8C69A,230075-1,"""in Mater. Pozn. Faun. Fl. SSSR, n. s., Bot., xiii. Fasc. 5 (Sketch Veg. & Fl.Carpath.) 248 (1949).""","","xiii. Fasc. 5 (Sketch Veg. & Fl.Carpath.) 248","1949",gcc-110284
+gcc-117636,A,Compositae,,Leucanthemum,,"reboudianum",,"","Pomel",Synonym,,M,TICA,84B1E7EE-5DFE-49C9-9420-C120EE586FEF,230076-1,"","","","1875",gcc-138359
+gcc-153955,A,Compositae,,Leucanthemum,,"reboudianum",var.,"reboudianum","",Synonym,,L,TICA,7DC97FF1-1322-4C9A-8106-B9062F5BA4E0,,"","","","",gcc-138359
+gcc-55428,A,Compositae,,Leucanthemum,,"reboudianum",var.,"regimontanum","Maire",Synonym,,L,TICA,8F3C29C3-2A00-45D6-819A-75F16FED376A,,"","","","",gcc-138359
+gcc-42224,A,Compositae,,Leucanthemum,,"redieri",,"","Maire",Synonym,,M,TICA,6498E532-2CFB-4A3F-BBA7-4E3C3F15FBDB,,"in Mem. Soc. Sc. Not. Maroc","","38","",gcc-83743
+gcc-154192,A,Compositae,,Leucanthemum,,"redieri",var.,"redieri","",Synonym,,L,TICA,85EA39A4-3391-4DF4-A0DD-BE5D3EABCEA3,,"","","","",gcc-83743
+gcc-21557,A,Compositae,,Leucanthemum,,"redieri",var.,"sericeum","(Humbert) Maire",Synonym,,L,TICA,DDE82A39-814A-4AAE-80D4-27D7B316B1E8,,"","","","",gcc-83743
+gcc-114503,A,Compositae,,Leucanthemum,,"rohlenae",,"","Vogt & Greuter",Accepted,,M,TICA,48966FCD-9DB7-4507-AFAC-BA042792656A,70029004-1,"","","41","2003",
+gcc-96588,A,Compositae,,Leucanthemum,,"rohlenae",,"","(Horvatić) Horvatić",Unresolved,Invalid,L,TICA,8E10D846-C466-4862-9907-91E4EC50DFA6,230079-1,"Acta Bot. Croat. 22: 212 (1963).","","212","1963",
+gcc-105865,A,Compositae,,Leucanthemum,,"rotundifolium",,"","(Opiz) Pouzar",Synonym,,M,TICA,D6B25249-5E19-4311-83F2-A684072EA10E,,"Pouzar in Preslia 47. 1975.","","158","1975",gcc-49032
+gcc-14667,A,Compositae,,Leucanthemum,,"rotundifolium",,"","Schur",Unresolved,,L,TICA,D8410767-1DC3-4221-9E8A-1B3555889A2B,230080-1,"Enum. Pl. Transsilv. 339. 1866 [Apr-Jun 1866]","","339","1866",
+gcc-98544,A,Compositae,,Leucanthemum,,"rotundifolium",,"","DC.",Accepted,,M,TICA,BFB7D8DF-A6B5-4BD0-9666-96603E3B9F9B,230081-1,"","","46","1838",
+gcc-85918,A,Compositae,,Leucanthemum,,"segetum",,"","(L.) Stankov",Synonym,,M,TICA,3DE049C4-8B36-4160-B45E-79C54BD7FD77,230082-1,"","","630","1949",gcc-47672
+gcc-135831,A,Compositae,,Leucanthemum,,"sericeum",,"","Nyman",Unresolved,,L,TICA,665575DA-63CD-4B71-9160-EACEC465647B,230083-1,"Syll. Fl. Eur. 10. 1855","","10","1855",
+gcc-80137,A,Compositae,,Leucanthemum,,"serotinum",,"","(L.) Stankov",Synonym,,M,TICA,51304211-FEF6-4E19-8373-6CF6C5F515E0,230084-1,"","","630","1949",gcc-130838
+gcc-93917,A,Compositae,,Leucanthemum,,"setabense",,"","(Dufour) DC.",Synonym,,M,TICA,4847CA60-6F34-4215-8EEE-8BC532EB7A86,,"","","","1838",gcc-100825
+gcc-9405,A,Compositae,,Leucanthemum,,"sibiricum",,"","DC.",Accepted,,M,TICA,C9618D23-A565-4236-AD93-1191A5B2F96C,,"Prodr. (DC.) 6: 46","","46","",
+gcc-65917,A,Compositae,,Leucanthemum,,"sibiricum",var.,"latilobum","Maxim.",Synonym,,L,TICA,27C32325-46A9-4D57-8F68-CAB9256AA3A8,,"Prim. Fl. Amur.: 156 (1859)","","156","1859",gcc-65813
+gcc-152971,A,Compositae,,Leucanthemum,,"sibiricum",var.,"sibiricum","",Synonym,,L,TICA,F5290019-E1EE-4F2D-97CC-A4A1DBE4CF11,,"","","","",gcc-9405
+gcc-41476,A,Compositae,,Leucanthemum,,"silvaticum",,"","Willk. & Lange",Unresolved,,L,TICA,5CF45189-CCA6-44EF-8A95-4CCEB47BE397,230087-1,"""Prod. Fl. Hisp. ii. 107, sphalm.""","","""ii. 107, sphalm.""","",
+gcc-108771,A,Compositae,,Leucanthemum,,"simplex",,"","Boiss.",Unresolved,,L,TICA,D6445B86-9FB5-42D8-A684-AD1D3E2A96AC,230088-1,"Fl. Orient. [Boissier] 3: 341","","341","1875",
+gcc-4127,A,Compositae,,Leucanthemum,,"sinuatum",,"","DC.",Unresolved,,L,TICA,C9E9AC28-43CD-46C0-9819-07B088C34225,230089-1,"Prodr. (DC.) 6: 46","","46","1838",
+gcc-85474,A,Compositae,,Leucanthemum,,"subalpinum",,"","(Schur) Tzvelev",Synonym,,M,TICA,1D601768-DE85-45C8-9D3A-78C40D1970AB,,"","","","1961",gcc-110284
+gcc-110557,A,Compositae,,Leucanthemum,,"subglaucum",,"","De Laramb.",Accepted,,M,TICA,16A60782-FBB0-4971-8D02-B1250C1046DE,,"","","446","1861",
+gcc-130314,A,Compositae,,Leucanthemum,,"suffruticulosum",,"","Timb.",Unresolved,,L,TICA,560F2365-ACA3-44DD-AAEF-DE3F6882DD58,,"Bull. Soc. Sci. Phys. Nat. Toulouse ii. (1874) 69","","69","",
+gcc-26467,A,Compositae,,Leucanthemum,×,"superbum",,"","(Bergmans ex J.W.Ingram) D.H.Kent",Accepted,,M,TICA,3F6EFE7B-8C67-4760-99F0-30EA2E3860A3,947628-1,"Watsonia 18(1)","","89","1990",
+gcc-79426,A,Compositae,,Leucanthemum,,"sylvaticum",,"","(Brot.) Nyman",Accepted,,M,TICA,4B7CEFDB-F5C1-4648-8CDB-6B6FD1738BA4,,"""Nyman, Syll. Fl. Eur. 1854.""","","11","1854",
+gcc-76673,A,Compositae,,Leucanthemum,,"tenuifolium",,"","(Guss.) Gamisans",Synonym,,M,TICA,523A8EBE-A4E2-4671-9B5B-65348F2840FF,230093-1,"","","203","1972",gcc-69896
+gcc-94214,A,Compositae,,Leucanthemum,,"tenuisectum",,"","Borbás ex Horvatić",Unresolved,,L,TICA,16156E2B-E82B-4605-AD46-8C78FC4F127C,230094-1,"""in Acta Inst. Bot. Univ. Zagreb. iii. 92 (1928), in syn.""","","""iii. 92 , in syn.""","1928",
+gcc-131947,A,Compositae,,Leucanthemum,,"tomentosum",,"","Gren. & Godr.",Unresolved,,L,TICA,205E6359-C0E4-478C-A6F1-E21EC8F55646,230095-1,"","","","1850",gcc-65160
+gcc-130760,A,Compositae,,Leucanthemum,,"tridactylites",,"","(A.Kern. & Huter) Huter & al.",Accepted,,M,TICA,5BE1113F-F021-413F-99AC-DF52E4E591B8,,"Huter & al.. 1878.","","[in schedis autogr.] No. 525","1878",
+gcc-135531,A,Compositae,,Leucanthemum,,"tridactylites",,"","A.Kern. & Huter ex Rigo",Unresolved,,L,TICA,C18A3D16-4869-4BAD-9B25-EA3671CA29BF,,"","","","",
+gcc-16568,A,Compositae,,Leucanthemum,,"tridactylites",,"","(Fiori) Bazzich.",Unresolved,,L,TICA,60E85DC6-AAEA-45A9-9A29-1E9DF2885F70,230096-1,"Ann. Bot. (Rome) 29: 97. 1972 [dt. 1967-69; publ. 3 Jul 1972]","","97","1972",
+gcc-107191,A,Compositae,,Leucanthemum,,"tubuliflorum",,"","Tinney",Unresolved,,L,TICA,DBDBF92D-EAC6-41C9-B745-A985F81E1A06,,"Amer. Naturalist i. (1867) 389","","389","",
+gcc-125606,A,Compositae,,Leucanthemum,,"valentinum",,"","Pau",Unresolved,,L,TICA,7D9FD852-AAA1-4CEB-858D-D36E3E6BE1B6,,"","","","1902",
+gcc-77965,A,Compositae,,Leucanthemum,,"varians",,"","Martrin-Donos",Unresolved,,L,TICA,057E1916-8B0D-47F3-8EA0-6809D9924DED,230099-1,"""Pl. Crit. Tarn, 30; ex Fl. Tarn, 356.""","","30","",
+gcc-52883,A,Compositae,,Leucanthemum,,"victoriae",,"","Sennen & Elias",Unresolved,,L,TICA,A0C39995-BB23-4E48-A6D4-6211A76D781D,230100-1,"""in Bol. Soc. Iber. 1929, xxviii. 34.""","","xxviii. 34","1929",
+gcc-115586,A,Compositae,,Leucanthemum,,"villosum",,"","Revol",Unresolved,,L,TICA,07E354B8-9BBC-4C44-9155-BC8432F7480F,230101-1,"""Cat. Pl. Vasc. Dep. Ardeche, 158 (1910).""","","158","1910",
+gcc-136805,A,Compositae,,Leucanthemum,,"virgatum",,"","(Desr.) Clos",Accepted,,M,TICA,C02D8B98-E8E0-4CD6-8476-ED11B03E580F,,"","","185","",
+gcc-110562,A,Compositae,,Leucanthemum,,"visianii",,"","(Gjurašin) Vogt & Greuter",Accepted,,M,TICA,BD636A99-1A02-423D-BAB7-B12C21187E41,70029006-1,"","","42","2003",
+gcc-135712,A,Compositae,,Leucanthemum,,"vulgare",,"","(Vaill.) Lam.",Accepted,,M,TICA,0547E050-E16B-4B8A-AB14-EA90D1AD85EF,230103-1,"Fl. Franc. 2","","137","1779",
+gcc-60710,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"aligulatum","(Vogt) O.Bolòs & Vigo",Synonym,,L,TICA,4C7A836E-D868-4CC0-BC3F-A07AA448FF76,991130-1,"","","813","1995",gcc-2600
+gcc-68069,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"alpicola","(Gremli) Á.Löve & D.Löve",Synonym,,L,TICA,CAD9A53C-CFF6-497E-BF6B-DC0D621BECAD,,"Á. Löve & D. Löve. 1961.","","56","1961",gcc-110284
+gcc-63832,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"atratum","(Jacq.) Bonnier",Synonym,,L,TICA,E302ECD4-1AE5-45FE-8F29-B9D57061928C,,"Bonnier. 1922.","","95","1922",gcc-121205
+gcc-65411,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"barrelieri","(Dufour ex DC.) O.Bolòs & Vigo",Synonym,,L,TICA,2CC9A085-02D7-4278-A9A9-C691B089E5F8,991133-1,"","","816","1995",gcc-62888
+gcc-54446,A,Compositae,,Leucanthemum,,"vulgare",var.,"cantabricum","Font Quer & Guinea",Unresolved,,L,TICA,2426BE06-42D2-444B-B53E-6E2B1ED0C08E,,"","","","",gcc-34223
+gcc-71827,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"cantabricum","Sennen",Synonym,,L,TICA,F08B95F7-8CBC-4FDE-A57F-F9195615115D,,"""Sennen, Diagn. Nouv. 1936.""","","50","1936",gcc-8020
+gcc-56724,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"catalaunicum","(Vogt) O.Bolòs & Vigo",Unresolved,,L,TICA,3D59D041-ACD7-41B0-9E08-80B0B1EE4ECC,991131-1,"","","813","1995",gcc-87320
+gcc-67793,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"coronopifolium","(Vill.) Bonnier",Synonym,,L,TICA,DEF5CE9D-B41B-4870-9B21-DA0D3D802DB0,,"Bonnier. 1922.","","95","1922",gcc-16903
+gcc-11189,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"crassifolium","(Lange) Rouy",Synonym,,L,TICA,A7107365-1554-443B-9369-14EC3D1C4E12,,"","","","1903",gcc-56631
+gcc-63816,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"eliasii","(Sennen & Pau) Sennen & Pau",Accepted,,L,TICA,DF01C06A-DD45-4F9D-8A5E-B9BF3AB585E3,,"Sennen & Pau in Bol. Soc. Ibér. Ci. Nat. 28(11). 1929.","","34","1929",
+gcc-64351,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"glaucophyllum","Briq. & Cavill.",Synonym,,L,TICA,0B6DE28A-752A-467E-9EB4-BDD65FD66991,,"""Briq. & Cavill. in Burnat, Fl. Alpes Marit. 6. 1916.""","","102","1916",gcc-36511
+gcc-21438,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"gracilicaule","O.Bolòs & Vigo",Synonym,,L,TICA,D126F5E8-85C0-4805-9C1B-279E3971A2E2,,"","","91","",gcc-8038
+gcc-58931,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"heterophyllum","(Willd.) Soó",Synonym,,L,TICA,4A0BAA6B-C7ED-4879-8621-9278B874980C,,"","","125","1972",gcc-135712
+gcc-52385,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"incisum","Arcang.",Synonym,,L,TICA,6E0B5E1C-6926-4265-AD93-61221EAA65D0,,"Arcang.. 1882.","","352","1882",gcc-135712
+gcc-64163,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"ircutianum","(Turcz. ex DC.) Tzvelev",Synonym,,L,TICA,976FAA7D-4500-41D5-913A-BC4C8370C346,983365-1,"","","138","1994",gcc-49032
+gcc-55768,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"laciniatum","(Vis.) Briq. & Cavill.",Synonym,,L,TICA,6E0D2FBE-CA79-49DC-AACD-78AC26DA2CED,,"""Briq. & Cavill. in Burnat, Fl. Alpes Marit. 6. 1916.""","","91","1916",gcc-110562
+gcc-58895,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"leucolepis","Briq. & Cavill.",Synonym,,L,TICA,6DDFB8BD-6FA1-45D7-A13E-92349D72725D,,"""Briq. & Cavill. in Burnat, Fl. Alpes Marit. 6. 1916.""","","93","1916",gcc-59414
+gcc-53094,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"margaritae","(Gáyer ex Jáv.) Soó",Synonym,,L,TICA,E156DDA7-1AF7-4C3C-B20D-637173D057D9,,"","","125","1972",gcc-22590
+gcc-48013,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"maximum","(Ramond) O.Bolòs & Vigo",Synonym,,L,TICA,6B2293A0-C7A3-4353-AEF0-58F826D73F75,,"","","91","",gcc-37763
+gcc-71442,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"meridionale","(Legrand) Nyman",Synonym,,L,TICA,622BC164-A631-4315-89D7-F64ED09F68C1,,"Nyman. 1889.","","169","1889",gcc-104342
+gcc-32467,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"montanum","Briq. & Cavill.",Synonym,,L,TICA,D5A7F0B6-3190-48B2-AF73-3C34C4C07A9A,,"""Briq. & Cavill. in Burnat, Fl. Alpes Marit. 6. 1916.""","","94","1916",gcc-127435
+gcc-10955,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"montserratianum","(Vogt) O.Bolòs & Vigo",Synonym,,L,TICA,123DD691-4315-4D94-BED6-1479C12342E2,991132-1,"","","814","1995",gcc-126351
+gcc-962,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"pallens","(Perreym.) Bonnier & Layens",Synonym,,L,TICA,8EEEC84C-53E0-41A3-AF20-01C8AE626191,,"Bonnier & Layens. 1894.","","166","1894",gcc-87537
+gcc-55808,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"parviceps","(Briq. & Cavill.) Vogt & Greuter",Accepted,,L,TICA,AC3D5369-FF19-4ACA-BA88-790756FE251D,70029008-1,"","","42","2003",
+gcc-65901,A,Compositae,,Leucanthemum,,"vulgare",var.,"pinnatifidum","(Lecoq & Lamotte) Moldenke",Synonym,,L,TICA,C6C74ABA-84AE-4126-BBFB-CA8F122076B0,138987-2,"Revista Sudamer. Bot. 5: 1. 1937","","1","1937",gcc-135712
+gcc-52472,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"praecox","Horvatić",Synonym,,L,TICA,6D23CC26-F1C4-4FCD-BEE1-61450B6EFEDD,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb 10. 1935.","","87","1935",gcc-135712
+gcc-59876,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"pujiulae","Sennen",Accepted,,L,TICA,186A4603-9456-4BE8-BCD6-9A003D6B71AE,,"Sennen in Bol. Soc. Ibér. Ci. Nat. 28(11). 1929.","","33","1929",
+gcc-67440,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"rohlenae","Horvatić",Synonym,,L,TICA,99D1D902-C0DB-48D8-BFAC-D72E00F80030,,"Horvatić in Acta Bot. Inst. Bot. Univ. Zagreb 10. 1935.","","93","1935",gcc-114503
+gcc-5216,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"silvaticum","(Brot.) Nyman",Synonym,,L,TICA,6C5B7918-E600-4CF1-B92C-09BEFE0AE4F8,,"""Nyman, Consp. Fl. Eur. 1879.""","","371","1879",gcc-79426
+gcc-55973,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"subalpinum","(Schur) Soó",Synonym,,L,TICA,FFA3BF96-0395-4444-9A1F-7A9A67AB1490,877614-1,"Feddes Repert. 83(3): 154","","154","1972",gcc-110284
+gcc-2311,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"subglaucum","(De Laramb.) Bonnier",Synonym,,L,TICA,F3F0B1B8-F3C8-4DCF-B1AB-0434C7B84F9A,,"Bonnier. 1922.","","95","1922",gcc-110557
+gcc-65734,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"triviale","(Gaudin) Briq. & Cavill.",Synonym,,L,TICA,4256B064-2766-4A12-83A8-C91850FEE7DF,,"""Briq. & Cavill. in Burnat, Fl. Alpes Marit. 6. 1916.""","","88","1916",gcc-49032
+gcc-52810,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"vogtii","O.Bolòs & Vigo",Synonym,,L,TICA,07FABC8D-D317-4C97-B21C-61ED6D03E676,,"O. Bolós & Vigo. 1995.","","815","1995",gcc-81255
+gcc-150318,A,Compositae,,Leucanthemum,,"vulgare",var.,"vulgare","",Synonym,,L,TICA,C18AED1A-6ABE-4E32-919B-6BBB741399FE,,"","","","",gcc-135712
+gcc-22005,A,Compositae,,Leucanthemum,,"vulgare",subsp.,"vulgare","",Synonym,,L,TICA,2880BB8C-FA41-4B2F-976E-28B54F3C638D,,"","","","",gcc-135712
+gcc-1875,A,Compositae,,Leucanthemum,,"waldsteinii",,"","(Sch.Bip.) Pouzar",Synonym,,M,TICA,042D8B2D-42E7-495D-AE10-035F615F6BF8,230104-1,"","","158","1975",gcc-98544
+gcc-128473,A,Compositae,,Leucanthemum,,"weyrichii",,"","Maxim.",Synonym,,M,TICA,E86BEBCB-1547-4E1B-9E60-DA16374E6B53,230105-1,"Prim. Fl. Amur.","","156","1859",gcc-133631
+gcc-110686,A,Compositae,,Leucanthemum,,"yezoense",,"","(Maekawa) Á.Löve & D.Löve",Unresolved,,L,TICA,BF51C17C-EB10-4014-9FA2-B178A09A2E6E,230106-1,"""in Bot. Notiser cxiv. 44 (1961), in obs.""","","""cxiv. 44 , in obs.""","1961",
+gcc-112833,A,Compositae,,Leucanthemum,,"zaianicum",,"","Maire & Weiller",Synonym,,M,TICA,3BD026D9-1295-41B4-A6C8-B6564C31A7F0,230107-1,"","","52","1928",gcc-66478
+gcc-100049,A,Compositae,,Leucanthemum,,"zawadskii",,"","Nyman",Unresolved,,L,TICA,6965B238-D103-4974-8485-99B6BF7A6ED2,,"Consp. 372.","","372","",

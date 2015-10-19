@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123775,A,Compositae,,Astranthium,,"beamanii",,"","DeJong",Accepted,,M,TICA,A6CBC6DE-C328-410C-B49A-CF21D016CDA4,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","514","1965",
+gcc-108091,A,Compositae,,Astranthium,,"ciliatum",,"","(Raf.) G.L.Nesom",Accepted,,M,TICA,346D32D0-FCFD-4BCB-824C-AB93A0603DEA,60441395-2,"Sida 21(4): 2016. 2005 [21 Dec 2005]","","2016","2005",
+gcc-96113,A,Compositae,,Astranthium,,"condimentum",,"","DeJong",Synonym,,M,TICA,4079A5E7-8C67-40ED-B0C8-90D39166E7FA,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","519","1965",gcc-100526
+gcc-105268,A,Compositae,,Astranthium,,"guatemalense",,"","S.F.Blake",Synonym,,M,TICA,3A71728B-DEC0-4016-B7B5-A53C6FEF8195,,"Brittonia 2","","","1937",gcc-82115
+gcc-21173,A,Compositae,,Astranthium,,"integrifolium",,"","(Michx.) Nutt.",Accepted,,M,TICA,7B780382-5875-4645-8C60-271B8C605C5E,,"","","312","1840",
+gcc-59812,A,Compositae,,Astranthium,,"integrifolium",subsp.,"ciliatum","(Raf.) DeJong",Synonym,,L,TICA,6C8A1D83-2202-44DF-B068-997BF6420024,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","504","1965",gcc-108091
+gcc-72625,A,Compositae,,Astranthium,,"integrifolium",var.,"ciliatum","(Raf.) Larsen",Synonym,,L,TICA,4A049161-EB65-406C-B5B9-FF73C1B282FD,25836-2,"Ann. Missouri Bot. Gard. 20","","35","1933",gcc-108091
+gcc-151931,A,Compositae,,Astranthium,,"integrifolium",var.,"integrifolium","",Synonym,,L,TICA,EB48CDBE-2195-4134-A316-8EFE4A07C34C,,"","","","",gcc-21173
+gcc-38750,A,Compositae,,Astranthium,,"integrifolium",subsp.,"integrifolium","",Synonym,,L,TICA,C481FF70-4D0B-400E-8D35-47DF04FD359E,,"","","","1965",gcc-21173
+gcc-7846,A,Compositae,,Astranthium,,"integrifolium",var.,"robustum","Shinners",Synonym,,L,TICA,8503D987-1753-46D6-B57A-0E99BF6FDEE9,25837-2,"Field & Lab. 18","","158","1950",gcc-144180
+gcc-67747,A,Compositae,,Astranthium,,"integrifolium",var.,"rosulatum","Larsen",Synonym,,L,TICA,04259F70-0A53-4F86-A493-D9B1214EB224,,"Ann. Missouri Bot. Gard. 20","","","1933",gcc-108091
+gcc-70883,A,Compositae,,Astranthium,,"integrifolium",var.,"triflorum","(Raf.) Shinners",Synonym,,L,TICA,75DE8433-736B-4F5E-9BCF-F1B4DA1DD6DF,25839-2,"Sida 2","","348","1966",gcc-108091
+gcc-10601,A,Compositae,,Astranthium,,"laetificum",,"","DeJong",Accepted,,M,TICA,DFAF319B-0466-4E6A-A783-13CF0A21B330,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","495","1965",
+gcc-130748,A,Compositae,,Astranthium,,"mexicanum",,"","(A.Gray) Larsen",Accepted,,M,TICA,105C9425-A500-41F5-88C0-DF461D607A53,25841-2,"Ann. Missouri Bot. Gard. 20","","32","1933",
+gcc-49626,A,Compositae,,Astranthium,,"mexicanum",var.,"chihuahuense","Larsen",Synonym,,L,TICA,6336E5A8-E294-4BE9-87FA-5BFB4D8EAB8E,25842-2,"Ann. Missouri Bot. Gard. 20","","32","1933",gcc-52
+gcc-156767,A,Compositae,,Astranthium,,"mexicanum",var.,"mexicanum","",Synonym,,L,TICA,1C0DBA3E-3E6D-4432-A9C7-F3C1F3CF5B50,,"","","","",gcc-130748
+gcc-84769,A,Compositae,,Astranthium,,"mimum",,"","(S.F.Blake) Larsen",Synonym,,M,TICA,0B2A690B-71D2-43C3-A2BF-773F9980FCF7,25843-2,"Ann. Missouri Bot. Gard. 20","","30","1933",gcc-80535
+gcc-100526,A,Compositae,,Astranthium,,"orthopodum",,"","(B.L.Rob. & Fernald) Larsen",Accepted,,M,TICA,8AFC8076-9BCB-4D41-857F-9AD234365E42,25844-2,"Ann. Missouri Bot. Gard. 20","","31","1933",
+gcc-112060,A,Compositae,,Astranthium,,"purpurascens",,"","(B.L.Rob.) Larsen",Accepted,,M,TICA,ECE91115-607A-4554-A5BB-B48AE6B231D0,25845-2,"Ann. Missouri Bot. Gard. 20","","33","1933",
+gcc-120088,A,Compositae,,Astranthium,,"reichei",,"","Rzed.",Accepted,,M,TICA,1E67C83A-0B43-4408-AB0A-C6AD4F503377,272954-2,"","","114","1984",
+gcc-144180,A,Compositae,,Astranthium,,"robustum",,"","(Shinners) DeJong",Accepted,,M,TICA,E502A9DE-0936-4513-841C-FD8910B4BA56,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","521","1965",
+gcc-116005,A,Compositae,,Astranthium,,"splendens",,"","DeJong",Accepted,,M,TICA,FC5AF29D-1B38-48F1-9E41-BD749AF66C71,,"""Publ. Mus. Michigan State Univ., Biol. Ser. 2""","","511","1965",
+gcc-117340,A,Compositae,,Astranthium,,"xanthocomoides",,"","(Less.) Larsen",Accepted,,M,TICA,3D96557D-36E2-4E12-B328-C076985177AF,25848-2,"Ann. Missouri Bot. Gard. 20","","33","1933",
+gcc-50524,A,Compositae,,Astranthium,,"xylopodum",,"","Larsen",Accepted,,M,TICA,CD9C1553-6C33-44FA-8FFE-5DA8C5659478,182720-1,"","","31","1933",

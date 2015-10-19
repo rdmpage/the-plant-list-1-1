@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-441263,A,Poaceae,,Schizachne,,"callosa",,"","(Turcz. ex Griseb.) Ohwi",Synonym,,H,WCSP,441263,420860-1,"Acta Phytotax. Geobot.","2: 279","","1933",kew-441268
+kew-441264,A,Poaceae,,Schizachne,,"fauriei",,"","Hack.",Synonym,,H,WCSP,441264,420861-1,"Repert. Spec. Nov. Regni Veg.","7: 323","","1909",kew-441268
+kew-441265,A,Poaceae,,Schizachne,,"komarovii",,"","Roshev.",Synonym,,H,WCSP,441265,420862-1,"Fl. URSS","2: 544","","1934",kew-441269
+kew-441266,A,Poaceae,,Schizachne,,"purpurascens",,"","(Torr.) Swallen",Accepted,,H,WCSP,441266,229305-2,"J. Wash. Acad. Sci.","18: 204","","1928",
+kew-441267,A,Poaceae,,Schizachne,,"purpurascens",f.,"albicans","(Fernald) Fernald",Synonym,,L,WCSP,441267,229306-2,"Rhodora","44: 139","","1942",kew-441266
+kew-441268,A,Poaceae,,Schizachne,,"purpurascens",subsp.,"callosa","(Turcz. ex Griseb.) T.Koyama & Kawano",Accepted,,L,WCSP,441268,,"Canad. J. Bot.","42: 862","","1964",
+kew-441270,A,Poaceae,,Schizachne,,"purpurascens",var.,"callosa","(Turcz. ex Griseb.) Kitag.",Synonym,,L,WCSP,441270,882992-1,"Neo-Lineam. Fl. Manshur.","109","","1979",kew-441268
+tro-25546285,A,Poaceae,,Schizachne,,"purpurascens",var.,"callosa","(Turcz. ex Griseb.) B. Boivin",Synonym,,L,TRO,25546285,229392-2,"Phytologia","43(1): 106","106","1979",kew-441268
+kew-441269,A,Poaceae,,Schizachne,,"purpurascens",subsp.,"capillipes","(Kom.) Tzvelev",Accepted,,L,WCSP,441269,882993-1,"Zlaki SSSR","546","","1976",
+kew-441271,A,Poaceae,,Schizachne,,"purpurascens",var.,"pubescens","Dore",Synonym,,L,WCSP,441271,303506-2,"Naturaliste Canad.","103: 563","","1976",kew-441266
+tro-25517766,A,Poaceae,,Schizachne,,"purpurascens",f.,"purpurascens","",Synonym,,L,TRO,25517766,,"","","","",kew-441266
+tro-25517864,A,Poaceae,,Schizachne,,"purpurascens",subsp.,"purpurascens","",Synonym,,L,TRO,25517864,,"","","","",kew-441266
+tro-25527737,A,Poaceae,,Schizachne,,"purpurascens",var.,"purpurascens","",Synonym,,L,TRO,25527737,,"","","","",kew-441266
+kew-441272,A,Poaceae,,Schizachne,,"smithii",,"","(Porter) Wiegand ex Muenscher",Synonym,,H,WCSP,441272,,"Fl. Whatcom","66","","1941",kew-423819
+kew-441273,A,Poaceae,,Schizachne,,"striata",,"","(Hitchc.) Hultén",Synonym,,H,WCSP,441273,229307-2,"Svensk Bot. Tidskr.","30: 518","","1936",kew-441266

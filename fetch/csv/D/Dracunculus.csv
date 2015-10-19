@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-64161,A,Araceae,,Dracunculus,,"canariensis",,"","Kunth",Accepted,,H,WCSP,64161,86970-1,"Enum. Pl.","3: 30","","1841",
+kew-64162,A,Araceae,,Dracunculus,,"cannifolius",,"","(Dryand. ex Sims) Raf.",Synonym,,H,WCSP,64162,86971-1,"Fl. Tellur.","3: 65","","1837",kew-193156
+kew-64163,A,Araceae,,Dracunculus,,"creticus",,"","Schott",Synonym,,H,WCSP,64163,86972-1,"Prodr. Syst. Aroid.","120","","1860",kew-64176
+kew-64164,A,Araceae,,Dracunculus,,"crinitus",,"","Schott",Synonym,Illegitimate,H,WCSP,64164,,"Melet. Bot.","17","","1832",kew-97917
+kew-64165,A,Araceae,,Dracunculus,,"divaricatus",,"","Raf.",Synonym,,H,WCSP,64165,86974-1,"Fl. Tellur.","3: 65","","1837",kew-209528
+kew-64166,A,Araceae,,Dracunculus,,"dracunculus",,"","(L.) Voss",Synonym,Invalid,H,WCSP,64166,86976-1,"Vilm. Ill. Blumengärtn.","ed. 3, 1: 1166","","1895",kew-64176
+kew-64167,A,Compositae,,Dracunculus,,"esculentus",,"","Garsault",Synonym,Invalid,H,WCSP,64167,,"Fig. Pl. Méd.","t. 252","","1764",gcc-35490
+kew-64168,A,Araceae,,Dracunculus,,"major",,"","Garsault",Synonym,Invalid,H,WCSP,64168,,"Fig. Pl. Méd.","t. 250","","1764",kew-64176
+gcc-21832,A,Compositae,,Dracunculus,,"marschallianus",,"","Ledeb.",Synonym,,M,TICA,6EBD62C6-790E-401C-A9B5-2864CDABA13E,,"","","","1845",gcc-921
+kew-64169,A,Araceae,,Dracunculus,,"minor",,"","Blume",Synonym,,H,WCSP,64169,86979-1,"Rumphia","1: 125","","1837",kew-66886
+kew-64170,A,Araceae,,Dracunculus,,"muscivorus",,"","(L.f.) Parl.",Synonym,,H,WCSP,64170,86980-1,"Fl. Ital.","2: 252","","1857",kew-97917
+kew-64171,A,Araceae,,Dracunculus,,"muscivorus",var.,"caprariensis","Romo",Synonym,,L,WCSP,64171,990654-1,"Fl. Silvestres Baleares","393","","1994",kew-97917
+kew-64172,A,Araceae,,Dracunculus,,"paludosus",,"","Montandon",Synonym,,H,WCSP,64172,,"Guide Bot.","309","","1868",kew-30622
+kew-64173,A,Araceae,,Dracunculus,,"polyphyllus",,"","Blume",Synonym,Illegitimate,H,WCSP,64173,86982-1,"Rumphia","1: 124","","1836",kew-64176
+kew-64174,A,Araceae,,Dracunculus,,"spadiceus",,"","Raf.",Synonym,Illegitimate,H,WCSP,64174,86983-1,"Fl. Tellur.","3: 65","","1837",kew-64176
+kew-64175,A,Araceae,,Dracunculus,,"trilobatus",,"","(L.) Raf.",Synonym,,H,WCSP,64175,86984-1,"Fl. Tellur.","3: 65","","1837",kew-209540
+kew-64176,A,Araceae,,Dracunculus,,"vulgaris",,"","Schott",Accepted,,H,WCSP,64176,,"Melet. Bot.","17","","1832",
+kew-341449,A,Araceae,,Dracunculus,,"vulgaris",var.,"creticus","(Schott) Nyman",Synonym,,L,WCSP,341449,,"Consp. Fl. Eur.","754","","1882",kew-64176
+kew-349630,A,Araceae,,Dracunculus,,"vulgaris",subsp.,"creticus","(Schott) K.Richt.",Synonym,,L,WCSP,349630,,"Pl. Eur.","1: 173","","1890",kew-64176
+kew-64177,A,Araceae,,Dracunculus,,"vulgaris",var.,"elongatus","Engl.",Synonym,,L,WCSP,64177,,"Monogr. Phan.","2: 603","","1879",kew-64176
+kew-64178,A,Araceae,,Dracunculus,,"vulgaris",var.,"laevigatus","Engl.",Synonym,,L,WCSP,64178,,"Monogr. Phan.","2: 603","","1879",kew-64176

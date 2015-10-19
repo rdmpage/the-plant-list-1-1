@@ -1,0 +1,34 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-3808,A,Compositae,,Doellingeria,,"amygdalina",,"","(Lam.) Nees",Synonym,,M,TICA,390CCB3A-F8C0-42D5-B95F-07175BA5456A,201896-1,"","","179","1832",gcc-82586
+gcc-124616,A,Compositae,,Doellingeria,,"cornifolia",,"","Lindl.",Unresolved,,L,TICA,B1FAF625-E73D-4E6A-A52A-D12079022433,201897-1,"in Hook. Comp. Bot. Mag. i. (1835) 98.","","i.  98","1835",
+gcc-94317,A,Compositae,,Doellingeria,,"cornifolia",,"","(Muhl. ex Willd.) Nees",Synonym,,M,TICA,6BE8292D-91BB-4384-B158-8CB72B1B8AAF,201898-1,"","","181","1832",gcc-136823
+gcc-8263,A,Compositae,,Doellingeria,,"dimorphophylla",,"","(Franch. & Sav.) G.L.Nesom",Accepted,,M,TICA,2ED6FAC6-7334-4E01-9803-0F60CF7C95F8,977453-1,"","","457","1994",
+tro-50008588,A,Compositae,,Doellingeria,,"dimorphophyllus",,"","(Franch. & Sav.) G.L. Nesom",Accepted,,M,TRO,50008588,977453-1,"Phytologia","75(6): 457","457","1993",
+gcc-112958,A,Compositae,,Doellingeria,,"humilis",,"","(Willd.) Britton",Synonym,,M,TICA,291AF076-739D-4C26-B647-B695D6B137A3,82761-2,"Ill. Fl. N. U.S. 3","","392","1898",gcc-136823
+gcc-136823,A,Compositae,,Doellingeria,,"infirma",,"","(Michx.) Greene",Accepted,,M,TICA,5E489683-2263-43F1-9055-ED1E7DF21236,82762-2,"Pittonia 3","","52","1896",
+gcc-105177,A,Compositae,,Doellingeria,,"japonica",,"","(Miq.) G.L.Nesom",Synonym,,M,TICA,6926F839-4D35-4EC2-BF7B-A50F16F6B811,977449-1,"","","456","1994",gcc-114641
+gcc-27120,A,Compositae,,Doellingeria,,"komonoensis",,"","(Makino) G.L.Nesom",Accepted,,M,TICA,F3F084F2-3BB8-484B-B4B2-3227E4984BF8,977452-1,"","","457","1994",
+gcc-18415,A,Compositae,,Doellingeria,,"longipetiolata",,"","(C.C.Chang) G.L.Nesom",Accepted,,M,TICA,DCFEC086-B10A-4A50-9057-2204A3F1CF93,977450-1,"","","457","1994",
+gcc-120247,A,Compositae,,Doellingeria,,"marchandii",,"","(H.Lév.) Ling",Unresolved,,L,TICA,071FD5AB-5F47-4A5E-8427-C70C42BB8784,,"Iconographia Cormophytorum Sinicorum 4:","","423","1975",gcc-29903
+gcc-14826,A,Compositae,,Doellingeria,,"obovata",,"","(Nutt.) Nees",Synonym,,M,TICA,682C5C15-6D2D-479A-B9CD-1B7AED08276A,1034429-2,"Gen. Sp. Aster.","","182","1832",gcc-106610
+gcc-83028,A,Compositae,,Doellingeria,,"ptarmicoides",,"","Nees",Synonym,Illegitimate,L,TICA,61E5AE20-648D-4AE5-978A-7361410E9165,82763-2,"Gen. Sp. Aster.","","183","1832",gcc-33632
+gcc-38540,A,Compositae,,Doellingeria,,"pubens",,"","(A.Gray) Rydb.",Synonym,,M,TICA,5FC8A170-ECB1-4DD8-ABE9-47856A2919D4,82764-2,"Bull. Torrey Bot. Club 37","","147","1910",gcc-82586
+gcc-2919,A,Compositae,,Doellingeria,,"reticulata",,"","(Pursh) Greene",Synonym,,M,TICA,A2A7F4E6-0930-41AD-98FB-05679ED2D093,82765-2,"Pittonia 3","","53","1896",gcc-106610
+gcc-95007,A,Compositae,,Doellingeria,,"rugulosa",,"","(Maxim.) G.L.Nesom",Accepted,,M,TICA,C76F1B33-7D57-4F50-95D6-8E53AAFA1D3D,977446-1,"","","456","1994",
+gcc-95063,A,Compositae,,Doellingeria,,"scaber",,"","(Thunb.) Nees",Synonym,,M,TICA,52487CCB-E09A-4591-B6BF-8E76BFBAB6EF,,"Gen. Sp. Aster.: 183 (1832)","","183","1832",gcc-83241
+gcc-83241,A,Compositae,,Doellingeria,,"scabra",,"","(Thunb.) Nees",Accepted,,M,TICA,D5C40DDD-4672-4B29-85FA-73DE8416E7D0,201906-1,"","","183","1832",
+gcc-79072,A,Compositae,,Doellingeria,,"sekimotoi",,"","(Makino) G.L.Nesom",Accepted,,M,TICA,ECCD9975-A32C-4093-87F9-6AA5B02BB130,977454-1,"","","457","1994",
+gcc-2301,A,Compositae,,Doellingeria,,"sericocarpoides",,"","Small",Accepted,,M,TICA,EF270A5A-1357-457C-B265-042D4F90AB56,82766-2,"Bull. Torrey Bot. Club 25","","620","1898",
+gcc-83412,A,Compositae,,Doellingeria,,"sohayakiensis",,"","(Koidz.) G.L.Nesom",Accepted,,M,TICA,772B7C4C-B603-404B-B49A-743A65B76533,977445-1,"","","456","1994",
+gcc-26994,A,Compositae,,Doellingeria,,"trichocarpa",,"","DC.",Synonym,,M,TICA,BA6134CA-F6A4-4AF8-8CE4-31E70A1CE096,201908-1,"","","263","1836",gcc-139872
+gcc-82586,A,Compositae,,Doellingeria,,"umbellata",,"","(Mill.) Nees",Accepted,,M,TICA,3805FBAA-36B5-461D-A7A6-7265CC0BA02D,30058707-2,"Gen. Sp. Aster.","","178","1832",
+gcc-54492,A,Compositae,,Doellingeria,,"umbellata",var.,"flexicaulis","House",Synonym,,L,TICA,BFC1296A-4F94-46AE-884C-6E9B1FB8D592,82767-2,"Bull. New York State Mus. Nat. Hist. 254","","712","1924",gcc-82586
+gcc-55452,A,Compositae,,Doellingeria,,"umbellata",subsp.,"humilis","(Willd.) W.Stone",Synonym,,L,TICA,85AE9400-A648-4817-97EA-76139C3B2232,82768-2,"","","763","1912",gcc-136823
+gcc-89141,A,Compositae,,Doellingeria,,"umbellata",f.,"intercedens","(Fernald) Moldenke",Synonym,,L,TICA,46C3FFB1-14C9-47D3-B961-8108916ABD73,82769-2,"Phytologia 12","","478","1966",gcc-82586
+gcc-68092,A,Compositae,,Doellingeria,,"umbellata",var.,"latifolia","(A.Gray) House",Synonym,,L,TICA,3C793A09-BD89-48DC-81E3-DC2BE4D7647C,1109148-2,"Bull. New York State Mus. Nat. Hist. 254: 712. 1924","","712","1924",gcc-2301
+gcc-59903,A,Compositae,,Doellingeria,,"umbellata",var.,"oneidica","House",Synonym,,L,TICA,89314586-C57D-44DE-8D26-9A283BA87972,82771-2,"Bull. New York State Mus. Nat. Hist. 243-244","","46","1923",gcc-82586
+gcc-31344,A,Compositae,,Doellingeria,,"umbellata",var.,"pubens","(A.Gray) Britton",Accepted,,L,TICA,E62950B5-5A82-4093-B3DC-3A0E50BA4CB7,82772-2,"An Illustrated Flora of the Northern United States 3:","","392","1898",
+gcc-66549,A,Compositae,,Doellingeria,,"umbellata",subsp.,"pubens","(A.Gray) Á.Löve & D.Löve",Synonym,,L,TICA,B6D69876-2018-4983-B823-CFA1A82C8BB7,920872-1,"","","357","1982",gcc-82586
+gcc-1455,A,Compositae,,Doellingeria,,"umbellata",subsp.,"umbellata","",Synonym,,L,TICA,26F53532-D534-4358-9CAB-029D0A80DC0B,,"","","","",gcc-82586
+gcc-150354,A,Compositae,,Doellingeria,,"umbellata",f.,"umbellata","",Synonym,,L,TICA,0FA281C3-F12C-42D7-9EFB-6C9C5DAF4735,,"","","","",gcc-82586
+gcc-42000,A,Compositae,,Doellingeria,,"umbellata",var.,"umbellata","",Synonym,,L,TICA,71F523BF-8222-49A0-A0F0-4DC3B2567E8A,,"","","","",gcc-82586

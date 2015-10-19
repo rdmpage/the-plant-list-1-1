@@ -1,0 +1,59 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-109656,A,Compositae,,Heteropappus,,"alberti",,"","(Regel) Novopokr. & Tamamsch.",Synonym,,L,TICA,CA2245C7-3681-48D5-AFAB-AF24348ECAB9,213966-1,"Fl. URSS xxv. 67 (1959)","","67","1959",gcc-488
+gcc-132783,A,Compositae,,Heteropappus,,"altaicus",,"","(Willd.) Novopokr.",Accepted,,M,TICA,B6E46A20-B7D2-48E0-9F51-E40A2A08ED22,,"","","","1922",
+gcc-154841,A,Compositae,,Heteropappus,,"altaicus",subsp.,"altaicus","",Synonym,,L,TICA,5F733354-FDDF-4A23-974B-CBE3BD57D1B1,,"","","","",gcc-132783
+gcc-68488,A,Compositae,,Heteropappus,,"altaicus",var.,"altaicus","",Synonym,,L,TICA,CB1F0308-52D1-4EF5-9E90-DF3A75C0CF75,,"","","","",gcc-132783
+gcc-47073,A,Compositae,,Heteropappus,,"altaicus",var.,"canescens","(Nees) Serg.",Synonym,,L,TICA,5044BF48-1A98-4749-8313-5737567D687C,,"""Krilov, Fl. Sibiriae 11: 264. 1949""","","","1949",gcc-488
+gcc-64389,A,Compositae,,Heteropappus,,"altaicus",var.,"scaber","(Avé-Lall.) Wang",Unresolved,,L,TICA,ED931D51-9B64-40EA-846F-BE318F526E2B,,"Clav. Pl. Chin. Bor.-Orient.","","377","1959",
+gcc-114858,A,Compositae,,Heteropappus,,"arenarius",,"","Kitam.",Synonym,,M,TICA,7DD5F130-6701-4EA5-8BDC-BAD50F1DE3E3,213968-1,"","","43","1933",gcc-77741
+gcc-101022,A,Compositae,,Heteropappus,,"biennis",,"","(Ledeb.) Tamamsch. ex Grubov",Synonym,,M,TICA,348E3D45-4E7B-4286-A97B-9BE8215EB971,,"Grubov in Novosti Sist. Vysš. Rast. 9. 1972.","","281","1972",gcc-12454
+gcc-147511,A,Compositae,,Heteropappus,,"biennis",,"","(Ledeb.) Tamamsch. ex Grub.",Accepted,,M,TICA,21413D9A-9A1C-4973-BF56-2F0A241F6F8F,,"","","","",
+gcc-114112,A,Compositae,,Heteropappus,,"boweri",,"","(Hemsl.) Grierson",Accepted,,M,TICA,38A780BB-B062-4A8A-9F91-B91DFD781549,,"""Notes from the Royal Botanic Garden, Edinburgh 26(1):""","","154-155","1964",
+gcc-79894,A,Compositae,,Heteropappus,,"canescens",,"","Novopokr. ex Nevski",Unresolved,,L,TICA,B4622483-2732-4A6D-BBF3-6C5F031F7953,213969-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 278 (1937)""","","278","1937",
+gcc-90086,A,Compositae,,Heteropappus,,"canescens",,"","(Nees) Novopokr.",Synonym,,L,TICA,2F170227-AAA7-4331-8BA5-832CA343E7B3,,"Novopokr.. 1922.","","193","1922",gcc-488
+gcc-132076,A,Compositae,,Heteropappus,,"chejuensis",,"","Kitam.",Accepted,,M,TICA,18F985E0-098F-419C-A981-E26BD9F0ED31,,"""Acta Phytotax. Geobot. 1934, iii. 172""","","172","",
+gcc-9937,A,Compositae,,Heteropappus,,"ciliosus",,"","(Turcz.) Ling",Synonym,,M,TICA,D695B04C-C008-4E11-AAFC-129164299A5F,915075-1,"","","116","1985",gcc-80232
+gcc-121634,A,Compositae,,Heteropappus,,"crenatifolius",,"","(Hand.-Mazz.) Grierson",Accepted,,M,TICA,971DF50F-C44D-4EBC-B200-CA38FD07186E,213971-1,"Notes Roy. Bot. Gard. Edinburgh 26: 152","","152","1964",
+gcc-40075,A,Compositae,,Heteropappus,,"decipiens",,"","Maxim.",Synonym,,M,TICA,F0B60D82-E7C0-4AFA-BD99-4A5647F89ACF,213972-1,"Prim. Fl. Amur.","","148","1859",gcc-130622
+gcc-149469,A,Compositae,,Heteropappus,,"decipiens",var.,"decipiens","",Synonym,,L,TICA,F1545772-44C5-4447-815E-595A28DE5E24,,"","","","",gcc-130622
+gcc-112500,A,Compositae,,Heteropappus,,"distortus",,"","(Turcz. ex Avé-Lall.) Tamamsch.",Synonym,,M,TICA,B59C0F5F-4F4B-4F4E-960B-B595A2E7BCBC,213973-1,"Fl. URSS xxv. 66 (1959)","","66","1959",gcc-132783
+gcc-48225,A,Compositae,,Heteropappus,,"eligulatus",,"","Ling",Unresolved,,L,TICA,AC4867CD-A6E3-4764-BCEE-5964B816696B,,"Acta Phytotax. Sin. 19(1): 85 (1981)","","","1981",
+gcc-16817,A,Compositae,,Heteropappus,,"elisabethinus",,"","Tamamsch.",Synonym,,M,TICA,4D5A098B-9DCC-420E-B364-1F0E24D06B05,,"Fl. URSS xxv. 578 (1959).","","","1959",gcc-130622
+gcc-116722,A,Compositae,,Heteropappus,,"gouldii",,"","(C.E.C.Fisch.) Grierson",Accepted,,M,TICA,AA0ED499-690A-4869-90C0-BF11378B9ACC,,"","","","1964",
+gcc-24956,A,Compositae,,Heteropappus,,"hispidus",,"","(Thunb.) Less.",Synonym,,M,TICA,83E8B4EA-F3F2-43B0-80A9-2E1AD9A9E563,213976-1,"Syn. Gen. Compos.","","189","1832",gcc-3931
+gcc-69084,A,Compositae,,Heteropappus,,"hispidus",subsp.,"arenarius","(Kitam.) Kitam.",Synonym,,L,TICA,1B0AD548-3F61-46E6-9DAA-E3C4A993A12C,,"Acta Phytotax. Geobot. 17: 6 (1957)","","","1957",gcc-77741
+gcc-47476,A,Compositae,,Heteropappus,,"hispidus",var.,"decipeins","(Maxim.) Kom.",Synonym,,L,TICA,1297F509-8FD2-4BA4-BFE3-57F57B09D0CD,,"Fl. Manshur. 3: 587 (1907)","","587","1907",gcc-130622
+gcc-41426,A,Compositae,,Heteropappus,,"hispidus",var.,"elisabethinus","(Tamamsch.) Vorosch.",Synonym,,L,TICA,9338CB23-74A5-4C81-8BD5-4CB9333215BB,,"","","","",gcc-130622
+gcc-153441,A,Compositae,,Heteropappus,,"hispidus",f.,"hispidus","",Synonym,,L,TICA,C7520D8C-8A31-4478-9E27-AEA13168C221,,"","","","",gcc-130622
+gcc-154669,A,Compositae,,Heteropappus,,"hispidus",subsp.,"hispidus","",Synonym,,L,TICA,F65AD53F-8010-4754-BD18-C88D2CCF866E,,"","","","",gcc-130622
+gcc-56378,A,Compositae,,Heteropappus,,"hispidus",subsp.,"insularis","(Makino) Kitam.",Synonym,,L,TICA,FCCB6D8F-5432-4142-B631-7DF646C7DF5C,,"Acta Phytotax. Geobot. 17: 6 (1957)","","6","1957",gcc-70622
+gcc-61852,A,Compositae,,Heteropappus,,"hispidus",subsp.,"koidzumianus","(Kitam.) Kitam.",Synonym,,L,TICA,FFBB9CB5-1F80-4F14-BF13-A9F636AE7636,,"Acta Phytotax. Geobot. 17: 6 (1957)","","6","1957",gcc-56419
+gcc-72065,A,Compositae,,Heteropappus,,"hispidus",subsp.,"leptocladus","(Makino) Kitam.",Synonym,,L,TICA,5A292A53-E0DC-4B50-B049-FB0800E15CEB,,"Acta Phytotax. Geobot. 12: 182 (1950)","","182","1950",gcc-65523
+gcc-18624,A,Compositae,,Heteropappus,,"hispidus",var.,"villosus","(Kom.) Vorosch.",Synonym,,L,TICA,83AA5D3D-94C3-4C03-A6B3-226A76D03095,,"","","","",gcc-137879
+gcc-120516,A,Compositae,,Heteropappus,,"holohermaphroditus",,"","Grierson",Accepted,,M,TICA,465D37E9-4A90-456C-9C58-C7B85727B0F3,213977-1,"Notes Roy. Bot. Gard. Edinburgh 26: 155","","155","1964",
+gcc-26474,A,Compositae,,Heteropappus,,"incisus",,"","(Fisch.) Siebold & Zucc.",Synonym,,M,TICA,DB7D6862-074A-4F9F-9C6F-30EBFC0CA473,213978-1,"","","182","1846",gcc-130622
+gcc-125505,A,Compositae,,Heteropappus,,"insularis",,"","Matsum.",Synonym,,M,TICA,77265FD6-180D-4C3A-B7DF-D331AA5C95C9,,"","","","1912",gcc-70622
+gcc-112040,A,Compositae,,Heteropappus,,"koidzumianus",,"","Kitam.",Synonym,,M,TICA,1CA176C4-85B9-46E3-8C1F-B47DC63347DE,213980-1,"","","22","1931",gcc-56419
+gcc-108467,A,Compositae,,Heteropappus,,"krylovianus",,"","Kom.",Unresolved,,L,TICA,C67451ED-3E09-45DC-A706-AC59885C1DA2,213981-1,"","","","",gcc-47459
+gcc-100255,A,Compositae,,Heteropappus,,"leptocladus",,"","(Makino) Matsum.",Synonym,,M,TICA,B10A712A-C379-477A-8792-9A35BD74DCB0,,"","","","1912",gcc-65523
+gcc-123727,A,Compositae,,Heteropappus,,"linearifolius",,"","(C.Winkl.) Kitag.",Unresolved,,L,TICA,ADB23691-46D7-4347-AD99-CF0307684112,213983-1,"Neolin. Fl. Manshur. 646 (1979)","","646","1979",
+gcc-91003,A,Compositae,,Heteropappus,,"magnicalathinus",,"","J.Q.Fu",Accepted,,M,TICA,8F5CBD7C-21F9-4C94-9AF6-855494E223D4,,"""Bull. Bot. Res., Harbin 3(1): 115""","","","1983",
+gcc-13982,A,Compositae,,Heteropappus,,"medius",,"","(Krylov) Tamamsch.",Accepted,,M,TICA,BD838DBF-9382-4F19-997D-19F6F2D89580,,"Fl. URSS xxv. 68 (1959).","","","1959",
+gcc-148873,A,Compositae,,Heteropappus,,"meyendorffii",var.,"meyendorffii","",Synonym,,L,TICA,E1D46FE2-680D-45F2-9CE0-4CA90A482964,,"","","","",gcc-130622
+gcc-59022,A,Compositae,,Heteropappus,,"meyendorffii",var.,"tataricus","(Lindl. ex DC.) Ling & Wang",Unresolved,,L,TICA,5A74370E-FC55-43B3-9C9E-933440D82160,,"?","","377","1959",
+gcc-78277,A,Compositae,,Heteropappus,,"noneifolius",,"","Tamamsch.",Synonym,,M,TICA,DC09DBF6-80B3-4742-9505-68C72B11B791,,"Fl. URSS xxv. 578 (1959).","","","1959",gcc-137879
+gcc-143843,A,Compositae,,Heteropappus,,"oharai",,"","(Nakai) Kitam.",Synonym,,M,TICA,A73670A8-8099-408F-9D98-FCCACBAE4018,,"Acta Phytotax. Geobot. 2","","44","",gcc-47459
+gcc-139062,A,Compositae,,Heteropappus,,"oldhamii",,"","(Hemsl.) Kitam.",Accepted,,M,TICA,F2F4693D-54E5-4A38-B2C8-F1E9AF450E3D,213987-1,"""Acta Phytotax. Geobot. 1932, i. 146""","","146","1932",
+gcc-155081,A,Compositae,,Heteropappus,,"oldhamii",f.,"oldhamii","",Synonym,,L,TICA,561EBB87-BB40-4828-B98B-D09B2FB8ACB7,,"","","","",gcc-139062
+gcc-124718,A,Compositae,,Heteropappus,,"pinetorum",,"","Kom.",Synonym,,M,TICA,52CC6882-3717-4A72-9493-D1540B61C58C,,"""in Bull. Jard. Bot. Acad. Sc. URSS, 1931, xxx. 216 (1932).""","","216","1932",gcc-130622
+gcc-18470,A,Compositae,,Heteropappus,,"rigens",,"","Sieb. & Zucc.",Synonym,,M,TICA,03ED565B-E19D-4400-A824-221BFEB4581F,,"Abh. Mat.-Phys. Baier. Akad. Wiss. 4(3): 184 (1846)","","184","1846",gcc-130622
+gcc-116785,A,Compositae,,Heteropappus,,"ringens",,"","Siebold & Zucc.",Unresolved,,L,TICA,80454323-407B-4D39-82E2-BF359C6F8707,,"Abh. Akad. Muench. iv. III. (1846) 184","","184","",
+gcc-85920,A,Compositae,,Heteropappus,,"rupicola",,"","(Vaniot & H.Lév.) Kitam.",Accepted,,M,TICA,4F5DBD7C-8E07-47E1-8A6C-79C67CD65643,,"""Acta Phytotax. Geobot. 1932, i. 146""","","146","",
+gcc-16885,A,Compositae,,Heteropappus,,"sampsonii",,"","Hance",Unresolved,,L,TICA,9B33FD6A-B971-4831-88B8-1F2F9F35FA90,213991-1,"J. Bot. 5: 370","","370","1867",gcc-105457
+gcc-116417,A,Compositae,,Heteropappus,,"saxomarinus",,"","Kom.",Synonym,,M,TICA,94E9BC1A-0198-4628-BDB9-BE5DE85E7059,,"""in Bull. Jard. Bot. Acad. Sc. URSS, 1931, xxx. 217 (1932).""","","","",gcc-130622
+gcc-120819,A,Compositae,,Heteropappus,,"semiprostratus",,"","Grierson",Synonym,,L,TICA,112C74B1-E5DF-4B4D-B1A7-C867E010DBBF,213993-1,"Notes Roy. Bot. Gard. Edinburgh 26: 151","","151","1964",gcc-488
+gcc-23449,A,Compositae,,Heteropappus,,"sibiricus",,"","(Kom.) Kom.",Unresolved,,L,TICA,CA8DB28D-CD57-4409-BF71-2B6722DEF3E1,,"Komarov & Klob.-Alis. Key Pl. Far East. Reg. USSR ii. 1010 (1932)","","1010","1932",
+gcc-26118,A,Compositae,,Heteropappus,,"subserratus",,"","Siebold & Zucc.",Unresolved,,L,TICA,BA4C72E8-8592-483D-8862-3049E7852ED2,213995-1,"Abh. Mat.-Phys. Baier. Akad. Wiss. 4(3): 183 (1846)","","183","1846",gcc-130622
+gcc-4115,A,Compositae,,Heteropappus,,"tataricus",,"","Tamamsch.",Accepted,,M,TICA,7BE8B20C-FE07-4A8C-BE78-07AA5D8D14DB,213996-1,"Fl. URSS xxv. 71 (1959).","","71","1959",
+gcc-156214,A,Compositae,,Heteropappus,,"tataricus",var.,"tataricus","",Synonym,,L,TICA,DF09909B-0D6D-4F3D-8E62-E8C5D70140E6,,"","","","",gcc-12454
+gcc-137879,A,Compositae,,Heteropappus,,"villosus",,"","Kom.",Accepted,,M,TICA,6320FDED-3A09-4563-B16E-EF69A779E782,,"Komarov & Klob.-Alis. Key Pl. Far East. Reg. USSR ii. 1010 (1932)","","1010","1932",

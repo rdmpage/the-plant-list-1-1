@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-85716,A,Compositae,,Myriactis,,"andina",,"","(V.M.Badillo) M.C.Velez",Accepted,,M,TICA,9482F370-E8AE-468D-8822-79504F15F951,909110-1,"Mitt. Bot. Staatssamml. München 17: 38 (1981):","","38","1981",
+gcc-26668,A,Compositae,,Myriactis,,"assamensis",,"","C.E.C.Fisch.",Accepted,,M,TICA,515DE465-BC86-4720-A235-3144BDBFACB4,233999-1,"""Bull. Misc. Inform. Kew 1940, 35.""","","35","1940",
+gcc-41017,A,Compositae,,Myriactis,,"bellidiformis",,"","F.Muell.",Unresolved,,L,TICA,FC02A24A-D963-4A93-9177-4C06F26CB78D,,"","","","1889",gcc-101200
+gcc-110898,A,Compositae,,Myriactis,,"bipinnatisecta",,"","Kitam.",Synonym,,M,TICA,29290E4B-0A18-4D8C-B03B-B1EAEBB3363B,234001-1,"""Acta Phytotax. Geobot. 1934, iii. 136""","","136","1934",gcc-17866
+gcc-46475,A,Compositae,,Myriactis,,"cabrerae",,"","J.Kost.",Accepted,,M,TICA,519F8586-57A1-4889-951B-561E8C0C19D1,234002-1,"","","""611, t. 17 b--f.""","1966",
+gcc-120271,A,Compositae,,Myriactis,,"candelabrum",,"","(H.Lév.) H.Lév.",Synonym,,M,TICA,BAD19AA7-7CB7-4443-9118-C71A1CD475D2,234003-1,"Repert. Spec. Nov. Regni Veg. 11: 303","","303","1912",gcc-133281
+gcc-153686,A,Compositae,,Myriactis,,"candelabrum",,"","(Leveille) Leveille",Synonym,,M,TICA,3FCC1372-19B1-483C-8FD1-B348ACA89BB6,,"Feddes Repen. 11: 303. 1912. ","","303","1912",gcc-87620
+gcc-13729,A,Compositae,,Myriactis,,"carnosa",,"","Wall.",Unresolved,,L,TICA,D42DEFBE-B334-4ABF-8232-198BCD23D126,,"Numer. List [Wallich] n. 3219","","3219","",
+gcc-42980,A,Compositae,,Myriactis,,"cuchumantanica",,"","(Beaman & De Jong) Cuatrec.",Synonym,,M,TICA,88ECD0DD-BB37-4E51-A62B-4F9B8D11EE06,942869-1,"","","422","1986",gcc-117216
+gcc-133308,A,Compositae,,Myriactis,,"delavayi",,"","Gagnep.",Accepted,,M,TICA,CE66B8EE-C6F3-40D6-B137-E53530CEB4DB,234005-1,"Bull. Soc. Bot. France 68: 122","","122","1921",
+gcc-33645,A,Compositae,,Myriactis,,"formoaana",,"","Kitam.",Synonym,,M,TICA,71939C03-627B-4975-889A-3E63C952E299,,"""Acta Phytotax. Geobot. 1934, iii. 135""","","","1934",gcc-35069
+tro-50048028,A,Compositae,,Myriactis,,"formosana",,"","Kitam.",Synonym,,M,TRO,50048028,234006-1,"Acta Phytotax. Geobot.","3(3): 135–136","135","1934",gcc-35069
+gcc-51248,A,Compositae,,Myriactis,,"glutinosa",,"","Schltdl.",Unresolved,,L,TICA,3B875970-D1D6-48ED-A40E-5F0972316256,234007-1,"Linnaea 25: 207. 1852","","207","1852",
+gcc-138578,A,Compositae,,Myriactis,,"gmelinii",,"","(Fisch. & C.A.Mey.) DC.",Synonym,,M,TICA,B303BF35-9A3D-4D36-8E16-F0E70485DF5A,,"","","308","1836",gcc-106089
+gcc-102024,A,Compositae,,Myriactis,,"gracilis",,"","Edgew.",Unresolved,,L,TICA,BF5EE153-CA80-4720-8D53-9E1F1214BDA3,234009-1,"Trans. Linn. Soc. London 20(1): 66","","66","1846",
+gcc-33156,A,Compositae,,Myriactis,,"humilis",,"","Merr.",Accepted,,M,TICA,32581B8B-DA49-458B-A356-3D7F16975BF2,,"","","","",
+gcc-155573,A,Compositae,,Myriactis,,"humilis",var.,"humilis","",Synonym,,L,TICA,23C9B492-5C11-4051-B804-DB262797149A,,"","","","",gcc-33156
+gcc-10280,A,Compositae,,Myriactis,,"japonensis",,"","Koidz.",Accepted,,M,TICA,0D9F7A7D-66A2-4605-A979-13333BDDAAB3,,"","","","1924",
+gcc-8410,A,Compositae,,Myriactis,,"javanica",,"","(Blume) DC.",Accepted,,M,TICA,F25DF125-AE19-49B8-B05A-0FA7AAF6EA6D,234012-1,"","","308","1836",
+gcc-21382,A,Compositae,,Myriactis,,"javanica",var.,"diengensis","Hochr.",Synonym,,L,TICA,5FE49D92-757B-45B7-B166-2781F23DFCD3,,"Candollea 5 (1934)","","302","1934",gcc-149527
+gcc-151265,A,Compositae,,Myriactis,,"javanica",var.,"javanica","",Synonym,,L,TICA,F567A256-E284-47B6-A780-8100C6B9E5D6,,"","","","",gcc-8410
+gcc-114522,A,Compositae,,Myriactis,,"longepedunculata",,"","Hayata",Accepted,,M,TICA,A203B8FF-F6D0-4389-B61F-BA0C62413720,,"""in Journ. Coll. Sc. Tokyo, xxx. Art. 1, 150 (1911).""","","","1911",
+gcc-17866,A,Compositae,,Myriactis,,"longepedunculata",var.,"bipinnatisecta","(Kitam.) Kitam.",Accepted,,L,TICA,5978AD0A-FEF2-4D79-9FEF-20F9280C9150,,"""Memoirs of the College of Science, Kyoto Imperial University. Series B. Biology 13:""","","387","1937",
+gcc-35069,A,Compositae,,Myriactis,,"longepedunculata",var.,"formosana","(Kitam.) Kitam.",Accepted,,L,TICA,960FCCCE-C29A-4096-A99A-41078D9B5C2E,,"""Memoirs of the College of Science, Kyoto Imperial University. Series B. Biology 13:""","","387","1937",
+gcc-20341,A,Compositae,,Myriactis,,"longepedunculata",var.,"longepedunculata","",Synonym,,L,TICA,77D3AA71-F0D6-4E89-A98F-259AA76E14DD,,"","","","",gcc-114522
+gcc-47038,A,Compositae,,Myriactis,,"mekongensis",,"","Hand.-Mazz.",Unresolved,,L,TICA,E27C47CC-D2A3-4576-A804-5726F3BBE1EC,,"Notizbl. Bot. Gart. Berlin-Dahlem xiii. 608 (1937).","","","1937",
+gcc-78991,A,Compositae,,Myriactis,,"mindanaensis",,"","Elmer",Synonym,,M,TICA,85FBFDCA-40AD-4AEF-8CF8-6A7B4715F963,234015-1,"","","2589","1915",gcc-33156
+gcc-131691,A,Compositae,,Myriactis,,"minuscula",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,3F5C700C-0D43-4D3F-97A8-E17AE24E5F70,942872-1,"","","422","1986",
+gcc-149527,A,Compositae,,Myriactis,,"nepalensis",,"","Less.",Accepted,,M,TICA,031DC609-E0EF-49F3-BBB9-5ACB046D8CC7,234016-1,"Linnaea 6","","128","1831",
+gcc-81360,A,Compositae,,Myriactis,,"oleosa",,"","Edgew.",Unresolved,,L,TICA,598ED20E-74B2-45EF-9819-6FA0E58DA6DB,234017-1,"Trans. Linn. Soc. London 20(1): 65","","65","1846",
+gcc-91107,A,Compositae,,Myriactis,,"panamensis",,"","(S.F.Blake) Cuatrec.",Accepted,,M,TICA,93CA8D1F-AC18-4E3F-B2AC-8594FF9989EA,942868-1,"","","422","1986",
+gcc-122870,A,Compositae,,Myriactis,,"paniculata",,"","(Miq.) Boerl.",Synonym,,M,TICA,4D25686B-EE18-40F6-8E73-CD00CD34183F,,"","","","1891",gcc-106522
+gcc-82679,A,Compositae,,Myriactis,,"pilosa",,"","(Blume) Blume ex DC.",Synonym,,M,TICA,6EFE6ADB-B5B5-4D1F-8B84-7295E04F245E,234019-1,"","","308","1836",gcc-106522
+gcc-87773,A,Compositae,,Myriactis,,"radicans",,"","F.Muell.",Unresolved,,L,TICA,1531B25F-E083-4C00-9828-7DFAF41CFD6B,,"""Trans. Roy. Soc. Victoria 1, 2 (1889)""","","13","1889",
+gcc-32718,A,Compositae,,Myriactis,,"rupestris",,"","J.Kost.",Accepted,,M,TICA,E809B298-ABAA-48E8-8AC6-3CABDF8CA14B,,"","","","1980",
+gcc-4312,A,Compositae,,Myriactis,,"sakirana",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,87539DCA-A23D-4378-884F-0805C3FB9068,942871-1,"","","422","1986",
+gcc-106089,A,Compositae,,Myriactis,,"wallichii",,"","Less.",Accepted,,M,TICA,F847DF77-582B-4131-BF5E-A703F7896CC2,234021-1,"Linnaea 6","","129","1831",
+gcc-48041,A,Compositae,,Myriactis,,"warburgii",,"","Diels ex Steenis",Unresolved,,L,TICA,C2CB9774-C8A7-4B53-B41E-590455FDAF98,234022-1,"","","189","1934",
+gcc-110240,A,Compositae,,Myriactis,,"westonii",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,FF556FDD-3F73-4EF4-A119-B06EA4326F47,942870-1,"","","422","1986",
+gcc-106522,A,Compositae,,Myriactis,,"wightii",,"","DC.",Accepted,,M,TICA,1DA9D1FB-3C50-4008-BF01-A7FE4F1093D1,234023-1,"","","10","1834",
+gcc-148030,A,Compositae,,Myriactis,,"wightii",var.,"wightii","",Synonym,,L,TICA,CA2B3A43-3BF6-415E-A28A-3A40CB4E92F3,,"""Wight, Contr. Bot. India 10. 1834""","","10","1834",gcc-106522
+gcc-141426,A,Compositae,,Myriactis,,"wollastonii",,"","S.Moore",Unresolved,,L,TICA,BF045CBA-80C5-4242-8DE2-F76515AEEF4F,234024-1,"","","81","1916",gcc-95376

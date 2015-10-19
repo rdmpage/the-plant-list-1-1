@@ -1,0 +1,57 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91217,A,Compositae,,Tetraneuris,,"acaulis",,"","(Pursh) Greene",Accepted,,L,TICA,9DC4E4B9-41C5-4A98-8CAF-85DEF5226810,251749-2,"","","265","1898",
+gcc-43918,A,Compositae,,Tetraneuris,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,48DBFF27-D735-46E3-8054-515E60588D47,,"","","","",gcc-91217
+gcc-69349,A,Compositae,,Tetraneuris,,"acaulis",var.,"argentea","",Unresolved,,L,TICA,A9A717F9-B178-4A28-86A7-E59E356516F4,,"","","","",
+gcc-54702,A,Compositae,,Tetraneuris,,"acaulis",var.,"arizonica","(Greene) K.F.Parker",Accepted,,L,TICA,1AF56A9C-6DE0-4225-AE87-70186528FC09,251750-2,"","","467","1980",
+gcc-57831,A,Compositae,,Tetraneuris,,"acaulis",var.,"caespitosa","A.Nelson",Accepted,,L,TICA,C49FC3C3-C5F0-402B-A65C-89A67425972E,251751-2,"Bot. Gaz. 28: 127. 1899","","127","1899",
+gcc-34336,A,Compositae,,Tetraneuris,,"acaulis",var.,"epunctata","(A.Nelson) Kartesz & Gandhi",Accepted,,L,TICA,EC7A9077-CFC8-44DD-A16F-3FA2529DBAC8,1108708-2,"","","2","1995",
+gcc-58821,A,Compositae,,Tetraneuris,,"acaulis",var.,"nana","(S.L.Welsh) Kartesz & Gandhi",Synonym,,L,TICA,C35CE29C-BEBC-478E-8FD2-91BBCA60D444,1012724-2,"","","2","1995",gcc-54702
+gcc-142587,A,Compositae,,Tetraneuris,,"angustata",,"","Greene",Synonym,,L,TICA,906A27DD-C27A-4799-A43E-F9ED8F3C4008,251752-2,"","","267","1898",gcc-109488
+gcc-136621,A,Compositae,,Tetraneuris,,"angustifolia",,"","Rydb.",Synonym,,L,TICA,AD1C606D-037A-49A3-9A32-ECA17C05F9F0,251753-2,"","","128","1905",gcc-109488
+gcc-144225,A,Compositae,,Tetraneuris,,"argentea",,"","(A.Gray) Greene",Accepted,,M,TICA,8D094EFE-0876-45D8-B233-FD9EEE3223F2,251754-2,"","","269","1898",
+gcc-137904,A,Compositae,,Tetraneuris,,"arizonica",,"","Greene",Synonym,,M,TICA,ED71AD08-6655-4F77-8AB3-EF7205176907,251755-2,"","","266","1898",gcc-54702
+gcc-128182,A,Compositae,,Tetraneuris,,"brandegeei",,"","(Porter ex A.Gray) K.F.Parker",Synonym,,M,TICA,8D545EE1-7FE6-43DE-8FEE-D96905BB1005,251756-2,"","","467","1980",gcc-39104
+gcc-31799,A,Compositae,,Tetraneuris,,"brevifolia",,"","Greene",Synonym,,M,TICA,A07EB5A5-D98C-43CF-8108-3AEBA7649A07,251757-2,"","","266","1898",gcc-57831
+gcc-128048,A,Compositae,,Tetraneuris,,"crandallii",,"","Rydb.",Synonym,,M,TICA,F8A1E494-1215-4AB4-90D3-D91707E8C3B8,255409-1,"","","","1905",gcc-34336
+gcc-75631,A,Compositae,,Tetraneuris,,"depressa",,"","(Torr. & A.Gray ex A.Gray) Greene",Synonym,,M,TICA,3B83BCFD-3308-4A47-A835-62DFC3138B25,251759-2,"","","266","1898",gcc-37756
+gcc-124344,A,Compositae,,Tetraneuris,,"dodgei",,"","(Cockerell) Rydb.",Unresolved,,L,TICA,ED841C66-1C8B-401E-8281-D07712534243,251760-2,"N. Amer. Fl. 34","","108","1915",gcc-50298
+gcc-50551,A,Compositae,,Tetraneuris,,"dodgei",,"","Auct.",Unresolved,,L,TICA,A1D6BC67-2532-44CB-97E0-5DB93916DB07,255411-1,"Proc. Biol. Soc. Wash. xvii. 185.","","185","",
+gcc-28563,A,Compositae,,Tetraneuris,,"epunctata",,"","A.Nelson",Synonym,,M,TICA,F58B886B-B3A3-4F71-A621-34C930964E26,310096-2,"Bot. Gaz. 37: 275. 1904","","275","1904",gcc-34336
+gcc-137048,A,Compositae,,Tetraneuris,,"eradiata",,"","A.Nelson",Synonym,,L,TICA,3330ED23-5067-4724-9E6C-ED91F038E3BA,251762-2,"","","275","1904",gcc-91217
+gcc-131376,A,Compositae,,Tetraneuris,,"fastigiata",,"","Greene",Synonym,,L,TICA,1212F9FC-66FD-40F5-964A-E0BB61B57F37,251763-2,"","","268","1898",gcc-109488
+gcc-138486,A,Compositae,,Tetraneuris,,"formosa",,"","Greene",Unresolved,,L,TICA,7851FBB4-FA40-42BC-80C6-F0B14FA7441A,251764-2,"Contr. U. S. Natl. Herb. 16: 192. 1913","","192","1913",
+gcc-44886,A,Compositae,,Tetraneuris,,"formosa",,"","Greene ex Wooton & Standl.",Synonym,,M,TICA,F3995C76-330D-4B3A-9AE9-532CE5A7392B,,"Contr. U.S. Natl. Herb. xvi. 192 (1913).","","","1913",gcc-144225
+gcc-9571,A,Compositae,,Tetraneuris,,"glabra",,"","(Nutt.) Greene",Synonym,,L,TICA,F3D14470-6FC4-4A5D-A7E4-11DD640F5EA9,251765-2,"","","268","1898",gcc-109488
+gcc-1594,A,Compositae,,Tetraneuris,,"glabriuscula",,"","Rydb.",Unresolved,,L,TICA,3733C8BA-1B98-4326-815E-02DF44B9AF23,251766-2,"","","155","1906",
+gcc-75923,A,Compositae,,Tetraneuris,,"grandiflora",,"","(Torr. & A.Gray ex Torr. & A.Gray) K.F.Parker",Synonym,,L,TICA,FDCBD866-98D8-497B-8613-6386C0B57061,251767-2,"","","467","1980",gcc-107445
+gcc-2105,A,Compositae,,Tetraneuris,,"herbacea",,"","Greene",Accepted,,L,TICA,2D9F619C-646B-4E10-AF92-03C6A26B2ED3,,"","","","1898",
+gcc-123310,A,Compositae,,Tetraneuris,,"incana",,"","A.Nelson",Synonym,,L,TICA,54E6B846-CB6B-48A8-BB61-CE027604B89C,251769-2,"","","128","1899",gcc-91217
+gcc-141634,A,Compositae,,Tetraneuris,,"intermedia",,"","Greene",Synonym,,M,TICA,2FA5DF07-8E65-4B25-86BF-F7D50C0ED8A5,251770-2,"","","29","1901",gcc-130422
+gcc-130422,A,Compositae,,Tetraneuris,,"ivesiana",,"","Greene",Accepted,,M,TICA,8EF45440-4B43-473A-A8DB-DE8652ECE405,309499-2,"Pittonia 3: 269. 1898","","269","1898",
+gcc-138645,A,Compositae,,Tetraneuris,,"lanata",,"","Greene",Synonym,,M,TICA,8001A634-F480-4BF0-A25B-F109C0039E79,251772-2,"","","265","1898",gcc-57831
+gcc-142502,A,Compositae,,Tetraneuris,,"lanigera",,"","Daniels",Synonym,,M,TICA,A16E6BBE-AE22-4CD4-BFD6-F9BF42C708BF,288428-2,"","","245","1911",gcc-57831
+gcc-108846,A,Compositae,,Tetraneuris,,"latior",,"","(Cockerell) Rydb.",Unresolved,,L,TICA,9B9DFCBE-EA21-46A2-A948-AD45518265C2,251773-2,"N. Amer. Fl. 34","","108","1915",gcc-50298
+gcc-92085,A,Compositae,,Tetraneuris,,"leptoclada",,"","(A.Gray) Greene",Synonym,,M,TICA,5DAB7DAA-A434-4A56-936F-87CEFAA8634A,251774-2,"","","269","1898",gcc-144225
+gcc-50298,A,Compositae,,Tetraneuris,,"linearifolia",,"","(Hook.) Greene",Accepted,,L,TICA,2D6068D8-CC59-4DD1-8637-5D470353F61B,251775-2,"","","269","1898",
+gcc-37006,A,Compositae,,Tetraneuris,,"linearifolia",subsp.,"dodgei","Cockerell",Synonym,,L,TICA,DB363303-323B-472C-9987-448DD611B37A,251776-2,"Proc. Biol. Soc. Wash. 17: 112. 1904","","112","1904",gcc-50298
+gcc-14664,A,Compositae,,Tetraneuris,,"linearifolia",var.,"latior","Cockerell",Synonym,,L,TICA,80F125FF-55EF-404C-9C63-1B341F4352AE,251777-2,"Proc. Biol. Soc. Wash. 17: 111. 1904","","111","1904",gcc-50298
+gcc-149327,A,Compositae,,Tetraneuris,,"linearifolia",subsp.,"linearifolia","",Synonym,,L,TICA,72A4FFB3-8F94-41FD-9DAB-5670B090C75C,,"","","","",gcc-50298
+gcc-692,A,Compositae,,Tetraneuris,,"linearifolia",var.,"linearifolia","",Synonym,,L,TICA,2C9E1293-EC13-4813-A5EC-014C33D0969E,,"","","","1896",gcc-50298
+gcc-7275,A,Compositae,,Tetraneuris,,"linearis",,"","(Nutt.) Greene",Synonym,,L,TICA,28244B59-28BD-40C4-B883-0D89F03B861E,251779-2,"","","267","1898",gcc-109488
+gcc-27270,A,Compositae,,Tetraneuris,,"mancosensis",,"","A.Nelson",Synonym,,M,TICA,59BE1527-13AA-4D37-A4CA-327035D29881,251780-2,"","","129","1899",gcc-130422
+gcc-42435,A,Compositae,,Tetraneuris,,"oblongifolia",,"","Greene",Synonym,,L,TICA,FE099C17-B882-4E4E-8F06-4E9898D79A51,,"","","","1898",gcc-50298
+gcc-106556,A,Compositae,,Tetraneuris,,"pilosa",,"","Cockerell",Synonym,,M,TICA,1186056B-9DDF-45F7-A03C-A81370BF3E1E,,"","","","",gcc-130422
+gcc-106793,A,Compositae,,Tetraneuris,,"pilosa",,"","Greene",Synonym,,M,TICA,9D309E47-C94F-4A1D-BE57-A8A06E39ABB0,,"""Fl. Colorado 378, 379. 1906""","","","1906",gcc-130422
+gcc-92802,A,Compositae,,Tetraneuris,,"pygmaea",,"","(A.Gray) Wooton & Standl.",Synonym,,L,TICA,D5DB32CB-2556-44A9-A76D-89685D6E0A1F,251783-2,"","","193","1913",gcc-91217
+gcc-109488,A,Compositae,,Tetraneuris,,"scaposa",,"","(DC.) Greene",Accepted,,L,TICA,699039D0-9CD3-4EC0-8AE4-AEC4DB5A46C5,251784-2,"","","266","1898",
+gcc-60547,A,Compositae,,Tetraneuris,,"scaposa",var.,"argyrocaulon","(K.F.Parker) K.F.Parker",Accepted,,L,TICA,7898A8E7-9F5E-417A-9D53-9F1D3D93D824,251785-2,"","","467","1980",
+gcc-63143,A,Compositae,,Tetraneuris,,"scaposa",var.,"linearis","(Nutt.) K.F.Parker",Synonym,,L,TICA,26AA4EE0-724C-4D0D-BECA-B477D44E2B32,251786-2,"","","467","1980",gcc-109488
+gcc-16356,A,Compositae,,Tetraneuris,,"scaposa",var.,"scaposa","",Synonym,,L,TICA,0EF5B4A4-C946-416D-91A7-1E3CF279C612,,"","","","1898",gcc-109488
+gcc-30423,A,Compositae,,Tetraneuris,,"scaposa",var.,"villosa","(Shinners) Shinners",Synonym,,L,TICA,F9F9D25D-6333-49F4-9594-3846D7C1C749,251787-2,"Spring Fl. Dallas-Fort Worth Area 410. 1958","","410","1958",gcc-109488
+gcc-1639,A,Compositae,,Tetraneuris,,"septentrionalis",,"","Rydb.",Synonym,,L,TICA,0655A817-476A-4524-878A-02F24DA19716,251788-2,"","","447","1910",gcc-91217
+gcc-5830,A,Compositae,,Tetraneuris,,"simplex",,"","A.Nelson",Synonym,,L,TICA,F7889234-E386-497B-8A91-0AD865B919B3,251789-2,"","","127","1899",gcc-91217
+gcc-103390,A,Compositae,,Tetraneuris,,"stenophylla",,"","Rydb.",Synonym,,L,TICA,43E1DDE9-760F-43B5-85DB-A12B4666005C,,"","","","",gcc-109488
+gcc-37756,A,Compositae,,Tetraneuris,,"torreyana",,"","(Nutt.) Greene",Accepted,,M,TICA,D4724EFD-7C1C-47B9-B98A-4603FB7FE366,251791-2,"Pittonia 3: 265. 1898","","265","1898",
+gcc-126855,A,Compositae,,Tetraneuris,,"trinervata",,"","Greene",Synonym,,M,TICA,BB403A4F-E9D4-4593-A8EF-D6418D309717,251792-2,"","","267","1898",gcc-144225
+gcc-1282,A,Compositae,,Tetraneuris,,"turneri",,"","(K.F.Parker) K.F.Parker",Accepted,,M,TICA,8719BC80-0BC2-407B-AE9C-02570D70488D,251793-2,"","","467","1980",
+gcc-111240,A,Compositae,,Tetraneuris,,"verdiensis",,"","R.A.Denham & B.L.Turner",Accepted,,M,TICA,53AD33F9-85DD-492E-B89B-B2AC3DEF4C6C,,"""Phytologia 81: 5, fig. 1996 1997""","","","1996",

@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-100519,A,Compositae,,Marasmodes,,"adenosolen",,"","Harv.",Synonym,,M,TICA,F18A5886-0A80-4A66-9B59-9ACF29572239,,"","","","",gcc-144032
+gcc-37337,A,Compositae,,Marasmodes,,"adenoxelon",,"","Harv.",Unresolved,,L,TICA,3ABDC2DE-B09E-4A7D-B4F0-452F991B611C,,"Fl. Cap. (Harvey) iii. 175","","175","",
+gcc-23588,A,Compositae,,Marasmodes,,"dummeri",,"","Bolus ex Hutch.",Accepted,,M,TICA,430E0C09-E692-432B-88BE-2B9E305A48E8,231710-1,"""Bull. Misc. Inform. Kew 1916, 172.""","","172","",
+gcc-34805,A,Compositae,,Marasmodes,,"oligocephalus",,"","DC.",Accepted,,M,TICA,2EE3FB07-3222-4C1F-B21E-4084686A266D,231711-1,"Prodr. (DC.) 6: 136","","136","1838",
+gcc-90830,A,Compositae,,Marasmodes,,"polycephala",,"","DC.",Accepted,,M,TICA,3E57C0DD-7569-4DC8-ABDB-85005C99093A,231712-1,"Prodr. (DC.) 6: 136","","136","1838",
+gcc-53653,A,Compositae,,Marasmodes,,"polycephala",var.,"oligocephalus","(DC.) Harv.",Synonym,,L,TICA,78CD6B43-FEB0-40F5-BE69-67DC5EAA87FE,,"","","","",gcc-34805
+gcc-156397,A,Compositae,,Marasmodes,,"polycephala",var.,"polycephala","",Synonym,,L,TICA,88117426-04B6-4549-B77C-EC5B1320DCB4,,"","","","",gcc-90830
+tro-2720586,A,Compositae,,Marasmodes,,"polycephalus",,"","DC.",Accepted,,M,TRO,2720586,,"","","","",
+gcc-99796,A,Compositae,,Marasmodes,,"undulata",,"","Compton",Accepted,,M,TICA,337AAFF6-3D33-444A-BDED-99235E4DEC94,231713-1,"J. S. African Bot. xii. 87 (1946).","","xii. 87","1946",

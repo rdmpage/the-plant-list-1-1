@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129651,A,Compositae,,Blepharispermum,,"arcuatum",,"","T.Erikss.",Accepted,,M,TICA,8F99C37D-7960-4AAA-8664-DCC1F619B2D2,,"","","189","1992",
+gcc-92704,A,Compositae,,Blepharispermum,,"brachycarphum",,"","Mattf.",Accepted,,M,TICA,164D08BF-979F-4C02-8ABE-89346CE84619,185459-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","293","1936",
+gcc-129602,A,Compositae,,Blepharispermum,,"canescens",,"","T.Erikss.",Accepted,,M,TICA,42EF6CB1-6E41-44A3-A61A-DCA0F721EC53,,"","","206","1992",
+gcc-16539,A,Compositae,,Blepharispermum,,"ellenbeckii",,"","Cufod.",Accepted,,M,TICA,8D10A4DE-831B-45EC-A219-1E910EF9795A,,"","","","1943",
+gcc-6131,A,Compositae,,Blepharispermum,,"fruticosum",,"","Klatt ex Schinz",Accepted,,M,TICA,621090A4-4B33-4AB9-8724-0B673A5FAD7F,,"","","","1895",
+gcc-153019,A,Compositae,,Blepharispermum,,"fruticosum",var.,"fruticosum","",Synonym,,L,TICA,1D28FE5D-DF6A-4B84-BCF5-A59420CD7038,,"","","","",gcc-6131
+gcc-60959,A,Compositae,,Blepharispermum,,"fruticosum",var.,"lanceolatum","(Chiov.) Chiov.",Synonym,,L,TICA,C82DF56C-9206-4382-B43E-A29ED6633A34,,"Fl. Somala: 200 (1929)","","200","1929",gcc-6131
+gcc-54065,A,Compositae,,Blepharispermum,,"fruticosum",var.,"lapathifolium","Chiov.",Synonym,,L,TICA,B7877D91-3866-41B9-828E-6B25ED0148D3,,"Fl. Somala: 200 (1929)","","200","1929",gcc-48315
+gcc-90665,A,Compositae,,Blepharispermum,,"hirtum",,"","Oliv.",Accepted,,M,TICA,38CAF906-1973-4C81-8DD5-8499C000BC61,185462-1,"","","t. 2435","1896",
+gcc-145089,A,Compositae,,Blepharispermum,,"lanceolatum",,"","Chiov.",Synonym,,M,TICA,A004736C-8B6D-489A-A48F-FFA355787984,,"","","","1916",gcc-6131
+gcc-140577,A,Compositae,,Blepharispermum,,"lobatum",,"","Klatt",Synonym,,M,TICA,FCAD471E-6416-4BD0-9953-F55E59FEEE31,,"","","","1895",gcc-123503
+gcc-96130,A,Compositae,,Blepharispermum,,"microphyllum",,"","Chiov.",Unresolved,,L,TICA,FD426D3B-C179-41C6-8C4C-90DAF3C7B565,185465-1,"""in Atti R. Accad. Ital., Mem. Cl. Sc. Fis. etc., xi. (Pl. Nov. Aethiop.) 39(1940), nomen.""","","""xi. (Pl. Nov. Aethiop.) 39(1940), nomen.""","",
+gcc-106968,A,Compositae,,Blepharispermum,,"minus",,"","S.Moore",Accepted,,M,TICA,88006F4E-67DE-48B1-8C19-A904B58661BF,185466-1,"","","340","1902",
+gcc-35396,A,Compositae,,Blepharispermum,,"obovatum",,"","Chiov.",Accepted,,M,TICA,3291454E-7964-4198-A679-419FC14CCE5E,,"","","","1940",
+gcc-136918,A,Compositae,,Blepharispermum,,"petiolare",,"","DC.",Accepted,,M,TICA,69E84706-01D7-4318-9428-ED54639D780B,185468-1,"","","12","1834",
+gcc-128527,A,Compositae,,Blepharispermum,,"pubescens",,"","S.Moore",Accepted,,M,TICA,B77680DE-F308-48E4-B7BB-DA36310FF14E,185469-1,"","","168","1905",
+gcc-86911,A,Compositae,,Blepharispermum,,"spinulosum",,"","Oliv. & Hiern",Accepted,,M,TICA,19ED2EC4-13D5-4FEC-BA6F-7C042F3EBB0E,185470-1,"","","335","1877",
+gcc-42984,A,Compositae,,Blepharispermum,,"subsessile",,"","DC.",Accepted,,M,TICA,9AB06B01-B9CA-4FE0-A482-4F9C57E39AB3,185471-1,"","","12","1834",
+gcc-48315,A,Compositae,,Blepharispermum,,"villosum",,"","O.Hoffm.",Accepted,,M,TICA,4D4FE872-07D1-4CE1-96DB-5988A734F7A1,,"","","","1906",
+gcc-124853,A,Compositae,,Blepharispermum,,"xerothamnum",,"","Mattf.",Accepted,,M,TICA,6997E256-FD3A-4829-BB55-D1AB2ECF6EA5,185473-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","295","1936",
+gcc-116342,A,Compositae,,Blepharispermum,,"yemense",,"","Deflers",Accepted,,M,TICA,9AAE39B2-EC4C-4A64-AE50-BE33B1844D2B,185474-1,"Bull. Soc. Bot. France 43","","105","1896",
+gcc-142495,A,Compositae,,Blepharispermum,,"zanguebaricum",,"","Oliv. & Hiern",Accepted,,M,TICA,E65EEB7D-5ECD-4658-BDE2-F9BBA9E5B1E3,185475-1,"","","336","1877",

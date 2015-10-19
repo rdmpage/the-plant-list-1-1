@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-156141,A,Compositae,,Rodigia,,"alliatae",,"","(Biv.) Loudon",Synonym,,M,TICA,F9BEFB2E-D148-400E-9D52-E73F7317E26F,241529-1,"""J.C. Loudon, Hort. Brit.. 1830""","","328","1830",gcc-86797
+gcc-9845,A,Compositae,,Rodigia,,"bulgarica",,"","Velen.",Synonym,,M,TICA,A0F5C185-B5A2-4928-8308-126496DD37FE,241530-1,"","","362","1891",gcc-96034
+gcc-45496,A,Compositae,,Rodigia,,"commutata",,"","Spreng.",Synonym,,M,TICA,CC29B60A-A304-4B40-BD47-5450198371FD,,"","","273","1820",gcc-96034
+gcc-151073,A,Compositae,,Rodigia,,"commutata",var.,"bulgarica","(Velen.) Stoj. & Stef.",Synonym,,L,TICA,705F6D6F-E6A1-4378-961D-7CD8A68E26B5,,"","","","",gcc-96034
+gcc-147210,A,Compositae,,Rodigia,,"commutata",var.,"commutata","",Synonym,,L,TICA,B5FDAB2C-36FD-41FE-9DDE-28A0A9B3EB27,,"","","","",gcc-96034
+gcc-12865,A,Compositae,,Rodigia,,"gracilis",,"","Freyn & Sint.",Synonym,,M,TICA,ADFA2405-E6A1-4985-919B-17FD1BC595BF,241532-1,"","","259","1894",gcc-96034
+gcc-43003,A,Compositae,,Rodigia,,"hirsutissima",,"","Arènes",Synonym,,M,TICA,176CD96D-EEE7-40A7-A2F7-4FA452004842,,"","","277","1948",gcc-96034
+gcc-95250,A,Compositae,,Rodigia,,"interrupta",,"","Sch.Bip.",Accepted,,M,TICA,4B8936DA-F6A0-46EB-9D2D-8EE1755084A9,241534-1,"Cich. Suppl. ii. 152.","","ii. 152","",
+gcc-14016,A,Compositae,,Rodigia,,"laevigata",,"","Spreng.",Accepted,,M,TICA,3DE0B6D3-B736-41FF-9189-1A054EA9F700,,"Neue Entdeck. i. 276.","","","1820",

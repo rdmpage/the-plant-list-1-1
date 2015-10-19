@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-304177,A,Asparagaceae,,Dichelostemma,,"californicum",,"","(Torr.) Alph.Wood",Synonym,,H,WCSP,304177,533873-1,"Proc. Acad. Nat. Sci. Philadelphia","1868: 173","","1868",kew-304189
+kew-304178,A,Asparagaceae,,Dichelostemma,,"capitatum",,"","(Benth.) Alph.Wood",Accepted,,H,WCSP,304178,1025266-2,"Proc. Acad. Nat. Sci. Philadelphia","20: 173","","1868",
+kew-311230,A,Asparagaceae,,Dichelostemma,,"capitatum",subsp.,"capitatum","",Synonym,,L,WCSP,311230,,"Unknown","","","",kew-304178
+kew-465867,A,Asparagaceae,,Dichelostemma,,"capitatum",subsp.,"lacuna-vernalis","(L.W.Lenz) D.W.Taylor",Accepted,,L,WCSP,465867,77112089-1,"Fl. Yosemite Sierra","373","","2010",
+kew-304179,A,Asparagaceae,,Dichelostemma,,"capitatum",subsp.,"pauciflorum","(Torr.) Keator",Accepted,,L,WCSP,304179,1171791-2,"Four Seasons","9: 30","","1992",
+kew-304180,A,Asparagaceae,,Dichelostemma,,"congestum",,"","(Sm.) Kunth",Accepted,,H,WCSP,304180,533875-1,"Enum. Pl.","4: 470","","1843",
+kew-304181,A,Asparagaceae,,Dichelostemma,,"ida-maia",,"","(Alph.Wood) Greene",Accepted,,H,WCSP,304181,79436-2,"Man. Bot. San Francisco","318","","1894",
+kew-304182,A,Asparagaceae,,Dichelostemma,,"insulare",,"","(Greene) Greene",Synonym,,H,WCSP,304182,533877-1,"Muhlenbergia","3: 74","","1907",kew-304178
+kew-304183,A,Asparagaceae,,Dichelostemma,,"lacuna-vernalis",,"","L.W.Lenz",Synonym,,H,WCSP,304183,79437-2,"Aliso","8: 129","","1974",kew-465867
+kew-304184,A,Asparagaceae,,Dichelostemma,,"multiflorum",,"","(Benth.) A.Heller",Accepted,,H,WCSP,304184,79439-2,"Muhlenbergia","2: 15","","1905",
+tro-50191207,A,Asparagaceae,,Dichelostemma,,"parviflorum",,"","(Torr. & A. Gray) Keator",Synonym,,M,TRO,50191207,,"","","","",kew-304184
+kew-304185,A,Asparagaceae,,Dichelostemma,,"pauciflorum",,"","(Torr.) Standl.",Synonym,,H,WCSP,304185,79440-2,"Contr. U. S. Natl. Herb.","13: 179","","1910",kew-304179
+kew-304186,A,Asparagaceae,,Dichelostemma,,"pulchellum",,"","(Salisb.) A.Heller",Synonym,,H,WCSP,304186,79441-2,"Muhlenbergia","1: 132","","1906",kew-304180
+kew-304187,A,Asparagaceae,,Dichelostemma,,"pulchellum",var.,"capitatum","(Benth.) Reveal",Synonym,,L,WCSP,304187,922053-1,"Taxon","32: 294","","1983",kew-304178
+kew-276566,A,Asparagaceae,,Dichelostemma,,"pulchellum",var.,"pauciflorum","(Torr.) Hoover",Synonym,,L,WCSP,276566,79443-2,"Amer. Midl. Naturalist","24: 471","","1940",kew-304179
+kew-304188,A,Asparagaceae,,Dichelostemma,×,"venustum",,"","(Greene) Hoover",Accepted,,H,WCSP,304188,79444-2,"Amer. Midl. Naturalist","24: 474","","1940",
+kew-304189,A,Asparagaceae,,Dichelostemma,,"volubile",,"","(Kellogg) A.Heller",Accepted,,H,WCSP,304189,,"Bull. S. Calif. Acad. Sci.","2: 65","","1903",

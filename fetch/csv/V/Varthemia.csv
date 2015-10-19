@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92232,A,Compositae,,Varthemia,,"arabica",,"","Thomson",Unresolved,,L,TICA,16178E9E-643A-4FB8-A207-8829FE701670,257196-1,"""in Speke, Journ. App. 638.""","","638","",gcc-106622
+gcc-99192,A,Compositae,,Varthemia,,"arabica",,"","Boiss.",Synonym,,L,TICA,E196ADB4-932D-474C-BFB6-97CFFDF4B349,,"""Diagn. Pl. Orient. ser. 1, 6: 74""","","74","1846",gcc-106622
+gcc-3983,A,Compositae,,Varthemia,,"asperella",,"","Rech.f. & Köie",Accepted,,M,TICA,04CEAF81-36D0-4F9D-91E1-0765D19ECD9C,257197-1,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. II.) 35(1955).""","","viii. No. 2 (Symb. Afghan. II.) 35","1955",
+gcc-35387,A,Compositae,,Varthemia,,"candicans",,"","(Delile) Boiss.",Synonym,,M,TICA,6ED96239-2E3A-4318-9C98-419C9EF789FA,257198-1,"","","212","1875",gcc-140257
+gcc-83995,A,Compositae,,Varthemia,,"conyzoides",,"","Boiss.",Unresolved,,L,TICA,84F1428A-E6F5-413F-B7E4-7586BD0049D5,,"""Diagn. Pl. Orient. ser. 2, 3: 10""","","10","1856",
+gcc-144914,A,Compositae,,Varthemia,,"corymbulosa",,"","Bornm.",Accepted,,M,TICA,E6BE7527-454C-47FB-AF55-FF3B8E0BB3CE,257200-1,"Repert. Spec. Nov. Regni Veg. Beih. 108: 64","","64","1938",
+gcc-78753,A,Compositae,,Varthemia,,"debeauxii",,"","Gand.",Unresolved,,L,TICA,66A270DC-B285-4116-AC31-69E246C4305C,257201-1,"Bull. Soc. Bot. France 65: 47","","47","1918",
+gcc-101894,A,Compositae,,Varthemia,,"hesperia",,"","(Maire & Wilczek) Dobignard",Unresolved,Invalid,L,TICA,DB009D65-414B-4FCD-BF0F-9DCE243282DB,,"","","","",
+gcc-33389,A,Compositae,,Varthemia,,"iphionoides",,"","Boiss. & Blanche",Synonym,,M,TICA,50BA375F-2635-4F85-A285-3DE6E4A1B6BF,,"","","9","1856",gcc-566
+gcc-3306,A,Compositae,,Varthemia,,"kotschyi",,"","Sch.Bip.",Unresolved,,L,TICA,04EC3CDB-F340-4AA1-8E43-061BFD61E366,257203-1,"""in Schweinf. Beitr. Fl. Aethiop. 161, 307.""","","""161, 307""","",
+gcc-37152,A,Compositae,,Varthemia,,"kotschyi",,"","Sch.Bip. ex Schweinf. & Asch.",Synonym,Invalid,M,TICA,929F91A3-5AAD-4C3E-8E4D-44D4708873E5,,"","","","",gcc-81583
+gcc-85914,A,Compositae,,Varthemia,,"montana",,"","(Vahl) Boiss.",Synonym,,M,TICA,EA23D0DC-D3FA-4001-83B1-79C0920FF919,257204-1,"","","212","1875",gcc-2263
+gcc-121370,A,Compositae,,Varthemia,,"persica",,"","DC.",Accepted,,M,TICA,02C0B48B-BA2A-482D-A950-C9A4E38E4F8C,257205-1,"","","473","1836",
+gcc-147547,A,Compositae,,Varthemia,,"persica",var.,"persica","",Synonym,,L,TICA,E62B4ACD-506F-40F0-AFC4-2FC12F802C78,,"","","","",gcc-121370
+gcc-53326,A,Compositae,,Varthemia,,"persica",var.,"squarrosula","Bornm. ex Rech.f.",Synonym,,L,TICA,98DF3ECB-490B-48DE-98E4-6561DAD6629B,878498-1,"""in Fl. Iran., 145: 108 (1980).""","","108","1980",gcc-121370
+gcc-72460,A,Compositae,,Varthemia,,"persica",var.,"stenocephala","Bornm.",Synonym,,L,TICA,BA50CD7C-AA4C-44B3-A650-FE149BBDE529,,"""Flora Iranica : Flora des Iranischen Hochlandes und der Umrahmenden Gebirge : Persien, Afghanistan, Teile von West-Pakistan, Nord-Iraq, (cont) 145:""","","108","1980",gcc-121370
+gcc-81449,A,Compositae,,Varthemia,,"platylepis",,"","Rech.f. & Köie",Unresolved,,L,TICA,392E6B1A-AF40-4FCC-81E0-6FD4030BA7C6,257206-1,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. II.) 37 (955).""","","viii. No. 2 (Symb. Afghan. II.) 37","",gcc-33698
+gcc-52773,A,Compositae,,Varthemia,,"sericea",,"","(Batt. & Trab.) Diels",Synonym,,M,TICA,B38DC949-517B-4697-94D9-61D80D30C6EE,,"","","","1917",gcc-123335
+gcc-68846,A,Compositae,,Varthemia,,"sericea",subsp.,"incanescens","Maire",Synonym,,L,TICA,77077117-8BCA-44E1-82E4-E1F697786E91,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 32. 1941.","","211","1941",gcc-123335
+gcc-68,A,Compositae,,Varthemia,,"sericea",subsp.,"virescens","Maire",Synonym,,L,TICA,61A8673B-C1AD-437D-91F4-0027C1C9D221,50426467-2,"","","211","1941",gcc-61528

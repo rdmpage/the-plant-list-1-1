@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91780,A,Compositae,,Hulsea,,"algida",,"","A.Gray",Accepted,,M,TICA,E02D6B0B-A8AE-4A32-9DBD-8723BCD7880F,,"Proc. Amer. Acad. Arts vi. (1864-65) 547.","","547","1865",
+gcc-111399,A,Compositae,,Hulsea,,"brevifolia",,"","A.Gray",Accepted,,M,TICA,7E89A358-5DCB-45FF-822E-B306C4F31CE7,225088-1,"Proc. Amer. Acad. Arts vii. (1868) 359.","","359","1868",
+gcc-129410,A,Compositae,,Hulsea,,"caespitosa",,"","A.Nelson & P.B.Kenn.",Synonym,,M,TICA,35E6C106-2ACA-417F-81A4-DC31CDB06D71,124428-2,"Proc. Biol. Soc. Wash. xix. 38 (1906).","","38","1906",gcc-91780
+gcc-20817,A,Compositae,,Hulsea,,"californica",,"","Torr. & A.Gray",Accepted,,M,TICA,CA4BDE0A-986D-41C1-9DD6-267F2204D353,,"in Pacif. Rail. Rep. vi. 77.","","","1857 [1858]",
+gcc-9425,A,Compositae,,Hulsea,,"californica",subsp.,"californica","",Synonym,,L,TICA,9D17EAC5-2A0B-4390-9CA4-119849CD8DFF,,"","","","",gcc-20817
+gcc-71151,A,Compositae,,Hulsea,,"californica",subsp.,"inyoensis","D.D.Keck",Synonym,,L,TICA,DA90703B-C323-4772-810A-F3F73BA4297F,124429-2,"Aliso 4: 101. 1958","","101","1958",gcc-5425
+gcc-123762,A,Compositae,,Hulsea,,"callicarpa",,"","S.Watson ex A.Gray",Unresolved,Invalid,L,TICA,A92E4016-2126-4275-9C30-CF1848A70200,225091-1,"Syn. Fl. N. Amer. 1(2): 342. 1884 [Jul 1884]","","342","1884",
+gcc-116106,A,Compositae,,Hulsea,,"callicarpha",,"","(H.M.Hall) S.Watson ex Rydb.",Synonym,,M,TICA,30577C7E-2576-424E-B6C5-BDB06612B054,1039051-2,"N. Amer. Fl. 34(1): 39. 1914 [31 Dec 1914]","","39","1914",gcc-31261
+gcc-49213,A,Compositae,,Hulsea,,"carnosa",,"","Rydb.",Synonym,,M,TICA,8334AFF8-4688-4E4D-9A19-5B243C27FBAC,124430-2,"","","423","1900",gcc-91780
+gcc-13336,A,Compositae,,Hulsea,,"heterochroma",,"","A.Gray",Accepted,,M,TICA,B9B37401-7F72-4357-93F8-18DC0E857910,,"Proc. Amer. Acad. Arts vii. (1868) 359.","","","1868",
+gcc-129577,A,Compositae,,Hulsea,,"inyoensis",,"","(D.D.Keck) Munz",Synonym,,M,TICA,13C5D861-D46F-4DDB-81E5-DC916E65DACA,124431-2,"","","151","1968",gcc-5425
+gcc-141834,A,Compositae,,Hulsea,,"larseni",,"","(A.Gray) Rydb.",Synonym,,M,TICA,DB1AD687-2426-4D7C-B2D9-F850E7306985,124432-2,"N. Amer. Fl. 34","","40","1914",gcc-78516
+gcc-32774,A,Compositae,,Hulsea,,"mexicana",,"","Rydb.",Accepted,,M,TICA,39D8294B-706F-4A6D-8305-3CC8EF3E9C78,124433-2,"N. Amer. Fl. 34","","41","1914",
+gcc-78516,A,Compositae,,Hulsea,,"nana",,"","A.Gray",Accepted,,M,TICA,0F6952F3-2083-4F8F-8EB5-69559F9C5B44,,"in Pacif. Rail. Rep. vi. 76. t. 13.","","","1857 [1858]",
+gcc-56342,A,Compositae,,Hulsea,,"nana",var.,"larsenii","A.Gray",Synonym,,L,TICA,01304716-94DD-4433-999F-7DABAAA3E4F8,124434-2,"Bot. California 1: 387. 1876","","387","1876",gcc-78516
+gcc-69546,A,Compositae,,Hulsea,,"nana",var.,"nana","",Synonym,,L,TICA,35FC570E-B6B1-4B8B-B1A9-E73A4287A5F4,,"","","","",gcc-78516
+gcc-21782,A,Compositae,,Hulsea,,"nevadensis",,"","Gand.",Synonym,,M,TICA,72D7F779-207A-4052-98AE-284E3E734CCF,124435-2,"Bull. Soc. Bot. France 65","","44","1918",gcc-91780
+gcc-37936,A,Compositae,,Hulsea,,"parryi",,"","A.Gray",Synonym,,M,TICA,8023AC3E-2984-4C8F-81FA-465B627BC4F1,,"","","59","",gcc-61367
+gcc-130208,A,Compositae,,Hulsea,,"vestita",,"","A.Gray",Accepted,,M,TICA,8C268602-423E-4556-B693-DE062F90362A,30045969-2,"","","547","1865",
+gcc-31261,A,Compositae,,Hulsea,,"vestita",subsp.,"callicarpha","(H.M.Hall) Wilken",Accepted,,L,TICA,2FF50659-E245-49C6-9884-39E2D4AE705C,124438-2,"","","413","1972",
+gcc-67468,A,Compositae,,Hulsea,,"vestita",var.,"callicarpha","H.M.Hall",Synonym,,L,TICA,CE104DDE-696A-437D-80FE-D77416DC3AF6,124437-2,"Univ. Calif. Publ. Bot. 1(1): 129. 1902 [7 Jun 1902]","","129","1902",gcc-31261
+gcc-5425,A,Compositae,,Hulsea,,"vestita",subsp.,"inyoensis","(D.D.Keck) Wilken",Accepted,,L,TICA,A9C280E0-E292-409E-B054-0A1D795CF7F3,124440-2,"","","413","1972",
+gcc-61367,A,Compositae,,Hulsea,,"vestita",subsp.,"parryi","(A.Gray) Wilken",Accepted,,L,TICA,E0226141-8284-4877-A3D6-A5FCF3E9E9F3,124441-2,"","","413","1972",
+gcc-52608,A,Compositae,,Hulsea,,"vestita",subsp.,"pygmaea","(A.Gray) Wilken",Accepted,,L,TICA,6EFC8C58-AB15-43EE-A784-61864682F574,124443-2,"","","413","1972",
+gcc-64636,A,Compositae,,Hulsea,,"vestita",var.,"pygmaea","A.Gray",Synonym,,L,TICA,E331BC56-9DA3-44A4-8558-C009873FF950,124442-2,"Syn. Fl. N. Amer. 1(2): 343. 1884","","343","1884",gcc-52608
+gcc-12691,A,Compositae,,Hulsea,,"vestita",subsp.,"vestita","",Synonym,,L,TICA,6CEBC214-18B6-4988-BA2F-17A63D72864B,,"","","","1972",gcc-130208
+gcc-54775,A,Compositae,,Hulsea,,"vestita",var.,"vestita","",Synonym,,L,TICA,1AAAFFEE-9471-408C-B3E3-70BC6C5EA1DE,,"","","","",gcc-130208
+gcc-10359,A,Compositae,,Hulsea,,"vulcanica",,"","Gand.",Synonym,,M,TICA,EDEFF288-9D88-47AF-915F-135CB9186A51,124444-2,"Bull. Soc. Bot. France 65","","45","1918",gcc-78516

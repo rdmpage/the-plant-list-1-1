@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11718,A,Compositae,,Arnaldoa,,"argentea",,"","""C.Ulloa, P.Jørg. & M.O.Dillon""",Accepted,,M,TICA,59CD3374-2EAB-4A2F-8119-15D46573510A,20008833-1,"Novon 12(3)","","415","2002",
+gcc-37803,A,Compositae,,Arnaldoa,,"coccinosantha",,"","(Muschl.) Ferreyra",Synonym,,M,TICA,E16457A8-6E91-4BD5-A61A-461BEA5BC30F,,"","","","",gcc-83635
+gcc-27920,A,Compositae,,Arnaldoa,,"macbrideana",,"","Ferreyra",Accepted,,M,TICA,E4BB6FD8-A1A3-4C57-AF06-3396761D2514,178867-1,"""in Publ. Mus. Hist. Nat. Favier Prado', Lima, Ser. B. Bot. No. 19, 6 (1965)""","","6","1965",
+gcc-79821,A,Compositae,,Arnaldoa,,"magnifica",,"","Cabrera",Synonym,,M,TICA,86336610-CFAB-4204-8BD7-6C3FBD7EE186,19838-2,"Bol. Soc. Argent. Bot. 10","","39","1962",gcc-83635
+gcc-34366,A,Compositae,,Arnaldoa,,"peruviana",,"","Lopez & Sagást.",Synonym,,M,TICA,60C4560F-45EA-48B0-8F2B-3FB0561FA54D,19839-2," 1(1):","","12","1964",gcc-83635
+gcc-96509,A,Compositae,,Arnaldoa,,"peruviana",,"","Lopez Miranda & Sogdstegui Alva",Unresolved,,L,TICA,BEDA0F87-5EBB-49CD-9474-91BFF8741C21,178869-1,"""in Revist. Fac. Cienc. Biol. Univ. Nac. Trujillo, i. 12 (1964); cf. Gray Herb.Card Cat.""","","i. 12","1964",
+gcc-83635,A,Compositae,,Arnaldoa,,"weberbaueri",,"","(Muschl.) Ferreyra",Accepted,,M,TICA,EB5BEF45-2285-4E2E-9542-74BA77413602,,"","","2","",

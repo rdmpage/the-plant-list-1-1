@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17036,A,Compositae,,Pseudobahia,,"bahiifolia",,"","(Benth.) Rydb.",Accepted,,L,TICA,AAF41D6B-BD10-48F0-8E41-1F7D13479D6B,211211-2,"N. Amer. Fl. 34","","83","1915",
+gcc-148851,A,Compositae,,Pseudobahia,,"bahiifolia",var.,"bahiifolia","",Synonym,,L,TICA,FF454D1C-D6AB-4034-A47F-4C19CA731633,,"","","","",gcc-17036
+gcc-60907,A,Compositae,,Pseudobahia,,"bahiifolia",var.,"pinnatifida","A.Gray",Synonym,,L,TICA,4F50C7BB-CB61-4212-AB8F-A242B11F5327,,"","","","",gcc-51627
+gcc-51627,A,Compositae,,Pseudobahia,,"heermannii",,"","(Durand) Rydb.",Accepted,,M,TICA,FAB528D1-CA64-4152-87BD-5FBA3F9AC4BC,211212-2,"N. Amer. Fl. 34","","83","1915",
+gcc-115197,A,Compositae,,Pseudobahia,,"peirsonii",,"","Munz",Accepted,,M,TICA,740AB93D-27E5-4091-A9C4-BB9A14705041,,"","","","1949",

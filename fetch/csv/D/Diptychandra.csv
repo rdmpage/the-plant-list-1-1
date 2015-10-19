@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-16820,A,Leguminosae,,Diptychandra,,"aurantiaca",,"","Tul.",Accepted,,H,ILDIS,16820,,"","","","",
+ild-25948,A,Leguminosae,,Diptychandra,,"aurantiaca",subsp.,"aurantiaca","",Synonym,,L,ILDIS,25948,,"","","","",ild-16820
+ild-25947,A,Leguminosae,,Diptychandra,,"aurantiaca",subsp.,"epunctata","(Tul.) G.P.Lewis",Accepted,,L,ILDIS,25947,,"","","","",
+ild-27997,A,Leguminosae,,Diptychandra,,"epunctata",,"","Tul.",Synonym,,H,ILDIS,27997,,"","","","",ild-25947
+tro-13000492,A,Leguminosae,,Diptychandra,,"epunctata",subsp.,"rojasii","Hassl.",Synonym,,L,TRO,13000492,82098-2,"Repert. Spec. Nov. Regni Veg.","8: 131–132","131","1910",ild-16820
+tro-13018745,A,Leguminosae,,Diptychandra,,"glabra",,"","Benth.",Accepted,,M,TRO,13018745,492787-1,"Fl. Bras.","15(2): 52","52","1870",

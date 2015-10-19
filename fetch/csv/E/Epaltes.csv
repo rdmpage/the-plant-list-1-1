@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-52155,A,Compositae,,Epaltes,,"alata",,"","(Sond.) Steetz",Synonym,,M,TICA,F7DE123B-90E7-40D1-ABB0-60C1534AF324,203241-1,"","","452","1864",gcc-18949
+gcc-78111,A,Compositae,,Epaltes,,"australis",,"","Less.",Accepted,,M,TICA,090FBFFB-B445-41F6-BAA4-685DE2615E93,203243-1,"Linnaea 5:148 (1830)","","148","1830",
+gcc-96434,A,Compositae,,Epaltes,,"australis",,"","DC.",Unresolved,,L,TICA,48ADBCFC-A289-4B21-947D-918CB3005C1D,,"Prodr. (DC.) 5: 462","","462","1836",
+gcc-50177,A,Compositae,,Epaltes,,"brasiliensis",,"","(Link) DC.",Synonym,,L,TICA,0B550C0E-9E6B-4322-8399-5D03C4508360,203244-1,"Prodr. 5","","461","1836",gcc-116884
+gcc-3069,A,Compositae,,Epaltes,,"cunninghamii",,"","(Hook.) Benth.",Accepted,,M,TICA,88304D35-D975-4C9D-A1FD-05AEDCAD3864,203245-1,"Fl. Austral. 3","","530","1867",
+gcc-141598,A,Compositae,,Epaltes,,"divaricata",,"","(L.) Cass.",Accepted,,M,TICA,C4901150-15A0-48CB-BB4D-F7BDE6FF64DA,203246-1,"","","139","1818",
+gcc-37085,A,Compositae,,Epaltes,,"gariepina",,"","(DC.) Steetz",Synonym,,M,TICA,311F28FE-252B-484A-85F2-44B73A1C58AA,,"","","","1864",gcc-18949
+gcc-119428,A,Compositae,,Epaltes,,"harrisii",,"","F.Muell.",Accepted,,M,TICA,AD57D388-31A2-4F97-B7C7-C52C609EA70B,,"","","101","",
+gcc-35016,A,Compositae,,Epaltes,,"hirsuta",,"","Less.",Synonym,,M,TICA,9444930E-8C32-48F7-BDBC-40ED8452DBEE,203249-1,"","","206","1832",gcc-78111
+gcc-5260,A,Compositae,,Epaltes,,"linearifolia",,"","DC.",Synonym,,M,TICA,6F00AEE2-0DE5-455D-9BB6-09D3E1239379,203250-1,"","","461","1836",gcc-141598
+gcc-100265,A,Compositae,,Epaltes,,"littoralis",,"","(Retz.) Less.",Synonym,,M,TICA,A6276D39-24E4-4A07-814E-9A39BA8FE0AC,203251-1,"Linnaea 6","","151","1831",gcc-78111
+gcc-32005,A,Compositae,,Epaltes,,"madagascariensis",,"","Humbert",Accepted,,M,TICA,C976161D-2116-486D-A895-3B4871AE1DC7,,"","","","1923",
+gcc-42282,A,Compositae,,Epaltes,,"mattfeldii",,"","Urb.",Accepted,,M,TICA,BEC801D2-6539-46F2-B5AC-4E5331F8684F,91099-2,"Repert. Spec. Nov. Regni Veg. 26: 105. 1929","","105","1929",
+gcc-4870,A,Compositae,,Epaltes,,"mexicana",,"","Less.",Accepted,,M,TICA,BE6AAA61-70B3-4FB4-A6E8-090FEB843496,,"Linnaea 5","","","1830",
+gcc-83703,A,Compositae,,Epaltes,,"pleiochaeta",,"","F.Muell.",Accepted,,M,TICA,6EEFA70D-9ACA-466B-B23F-74DC8B276691,203255-1,"","","100","1877",
+gcc-135955,A,Compositae,,Epaltes,,"pygmaea",,"","DC.",Accepted,,M,TICA,8CA9AFD6-ABFF-4214-9E2F-EB0EF6E000FB,203256-1,"","","461","1836",
+gcc-35916,A,Compositae,,Epaltes,,"scabra",,"","(Harv.) Burtt Davy",Synonym,,M,TICA,D6FABC0C-CFCB-400F-A57D-429AB8F5E787,203257-1,"","","122","1912",gcc-18949
+gcc-99349,A,Compositae,,Epaltes,,"tatei",,"","F.Muell.",Synonym,,M,TICA,42FE8DC2-A4D9-4BD9-83FE-982E2263CD4B,113384-3,"","","","1883",gcc-42642
+gcc-84462,A,Compositae,,Epaltes,,"umbelliformis",,"","Steetz",Synonym,,M,TICA,00FA8AF4-187A-4BF8-8AE5-76A06E642B62,,"","","","1864",gcc-18949
+gcc-70272,A,Compositae,,Epaltes,,"umbelliformis",var.,"serratifolia","Steetz",Synonym,,L,TICA,A572E4E8-9020-4F3F-AC9E-ECC7826A48CA,,"Naturw. Reise Mossambique 6: 454 (1864)","","454","1864",gcc-18949
+gcc-155166,A,Compositae,,Epaltes,,"umbelliformis",var.,"umbelliformis","",Synonym,,L,TICA,31D07418-75BA-44DD-9CEE-D26CD8F88D24,,"","","","",gcc-18949

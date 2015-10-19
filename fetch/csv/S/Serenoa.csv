@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-190786,A,Arecaceae,,Serenoa,,"arborescens",,"","Sarg.",Synonym,,H,WCSP,190786,234748-2,"Bot. Gaz.","27: 90","","1899",kew-2153
+kew-190787,A,Arecaceae,,Serenoa,,"repens",,"","(W.Bartram) Small",Accepted,,H,WCSP,190787,941782-1,"J. New York Bot. Gard.","27: 193","","1926",
+kew-338610,A,Arecaceae,,Serenoa,,"repens",f.,"glauca","Moldenke",Synonym,,L,WCSP,338610,234750-2,"Phytologia","14: 326","","1967",kew-190787
+kew-190788,A,Arecaceae,,Serenoa,,"serrulata",,"","(Michx.) Hook.f. ex B.D.Jacks.",Synonym,,H,WCSP,190788,,"Index Kew.","2: 884","","1895",kew-190787
+tro-2401926,A,Arecaceae,,Serenoa,,"serrulata",,"","(Michx.) G. Nicholson",Synonym,,M,TRO,2401926,,"","","","",kew-190787

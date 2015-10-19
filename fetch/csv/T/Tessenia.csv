@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-29157,A,Compositae,,Tessenia,,"abruptorum",,"","(Lunell) Lunell",Unresolved,,L,TICA,1537EC87-82A2-466F-ABF8-35E5C21AB8E7,251526-2,"","","58","1917",
+gcc-10198,A,Compositae,,Tessenia,,"alpina",,"","Bubani",Unresolved,,L,TICA,B9E12E91-221A-4A70-8141-13115EF2F2BC,255301-1,"Fl. Pyren. (Bubani) ii. 264.","","ii. 264","",
+gcc-27954,A,Compositae,,Tessenia,,"anodonta",,"","(Lunell) Lunell",Unresolved,,L,TICA,FBFFC789-2964-495B-A7BA-33A6B0061B6F,251527-2,"","","59","1917",
+gcc-120366,A,Compositae,,Tessenia,,"aspera",,"","(Nutt.) Lunell",Unresolved,,L,TICA,1A9B5A9B-2C50-406C-95E1-C75E1F07235F,251528-2,"","","58","1917",
+gcc-68578,A,Compositae,,Tessenia,,"aspera",var.,"aspera","",Synonym,,L,TICA,89139EA3-F020-47E2-91F8-DFD71F058EC6,,"","","","",gcc-120366
+gcc-114306,A,Compositae,,Tessenia,,"canadensis",,"","Bubani",Unresolved,,L,TICA,D1063934-37B7-402B-9D79-B98918AB7FFB,255304-1,"Fl. Pyren. (Bubani) ii. 267.","","ii. 267","",
+gcc-127430,A,Compositae,,Tessenia,,"glabella",,"","(Nutt.) Lunell",Unresolved,,L,TICA,4F56C7A5-0AA0-4C32-84EC-D7A2BFE2BEE7,251531-2,"","","59","1917",
+gcc-3706,A,Compositae,,Tessenia,,"glabella",var.,"glabella","",Synonym,,L,TICA,B3BFCC6C-10D3-44CE-A909-06E078795C18,,"","","","1917",gcc-127430
+gcc-79680,A,Compositae,,Tessenia,,"glabrata",,"","Bubani",Unresolved,,L,TICA,885AA4CC-7E14-472E-837B-6BECF951B6A4,255306-1,"Fl. Pyren. (Bubani) ii. 265.","","ii. 265","",
+gcc-117690,A,Compositae,,Tessenia,,"linifolia",,"","Bubani",Unresolved,,L,TICA,BDE8997C-751B-4C75-8E42-C13C1FE19E50,255307-1,"Fl. Pyren. (Bubani) ii. 266.","","ii. 266","",
+gcc-125667,A,Compositae,,Tessenia,,"multicolor",,"","(Lunell) Lunell",Unresolved,,L,TICA,28DDF0B3-2C7A-4AAC-83B3-D38F9BC90663,251533-2,"","","58","1917",
+gcc-28559,A,Compositae,,Tessenia,,"muralis",,"","Bubani",Unresolved,,L,TICA,77F9AC89-3F39-486F-8252-34C8383347A9,255309-1,"in Nuov. Giorn. Bot. Ital. v. (1873) 318.","","v.  318","1873",
+gcc-320,A,Compositae,,Tessenia,,"obscura",,"","(Lunell) Lunell",Unresolved,,L,TICA,FB20783B-09D2-4610-975A-009287B94A2D,251534-2,"","","59","1917",
+gcc-44290,A,Compositae,,Tessenia,,"oligodonta",,"","(Lunell) Lunell",Unresolved,,L,TICA,851C5EBC-27DA-4755-AD9D-5208E7AC7856,255311-1,"","","58","1917",
+gcc-54412,A,Compositae,,Tessenia,,"oligodonta",var.,"acuminata","(Lunell) Lunell",Unresolved,,L,TICA,902331C9-45C6-4491-8DC5-6DD53387DCD2,251536-2,"Amer. Midl. Naturalist 5: 58. 1917","","58","1917",
+gcc-35072,A,Compositae,,Tessenia,,"oligodonta",var.,"oligodonta","",Synonym,,L,TICA,ADE18605-02DD-490E-BC77-410826E5E9AE,,"","","","",gcc-44290
+gcc-84202,A,Compositae,,Tessenia,,"oxyodonta",,"","(Lunell) Lunell",Unresolved,,L,TICA,4A84F730-AE3D-41A5-BE9F-7605C567F7F1,251538-2,"","","58","1917",gcc-90201
+gcc-107937,A,Compositae,,Tessenia,,"philadelphica",,"","(L.) Lunell",Unresolved,,L,TICA,2BE90710-8F9C-43E2-8405-AB3A1AE203AC,255313-1,"","","59","1917",
+gcc-138979,A,Compositae,,Tessenia,,"procera",,"","(Lunell) Lunell",Unresolved,,L,TICA,F3194244-E782-43D0-933C-F1C1317066CE,251541-2,"","","59","1917",
+gcc-52384,A,Compositae,,Tessenia,,"pumila",,"","(Nutt.) Lunell",Unresolved,,L,TICA,F1E8B0AE-30BD-4444-96E5-6120E7BE5FA8,251542-2,"","","59","1917",gcc-37754
+gcc-34344,A,Compositae,,Tessenia,,"racemosa",,"","(Nutt.) Lunell",Unresolved,,L,TICA,18433567-21BA-43C9-9072-3FA825E1C830,251543-2,"","","60","1917",
+gcc-71148,A,Compositae,,Tessenia,,"racemosa",var.,"racemosa","",Synonym,,L,TICA,6CD5F4DB-076D-4E6E-BE70-F3ED115FA19B,,"","","","",gcc-34344
+gcc-127850,A,Compositae,,Tessenia,,"ramosa",,"","(Walter) Lunell",Unresolved,,L,TICA,F6E63F6F-C5AF-4507-B116-D8AB1C38DD6A,251546-2,"","","59","1917",gcc-8586
+gcc-95560,A,Compositae,,Tessenia,,"subcostata",,"","(Lunell) Lunell",Unresolved,,L,TICA,42FA260F-DCC0-45BC-8601-8F9EF1F1EC31,251547-2,"","","59","1917",
+gcc-79489,A,Compositae,,Tessenia,,"tarda",,"","(Lunell) Lunell",Unresolved,,L,TICA,6EC0634B-737A-49CA-841B-6B8D3904DD4C,251548-2,"","","59","1917",
+gcc-9876,A,Compositae,,Tessenia,,"vulgaris",,"","Bubani",Unresolved,,L,TICA,66EEF6FA-671B-4B76-8E94-12725B29B693,255320-1,"Fl. Pyren. (Bubani) ii. 266.","","ii. 266","",

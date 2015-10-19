@@ -1,0 +1,199 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123832,A,Compositae,,Andryala,,"aestivalis",,"","Pomel",Accepted,,M,TICA,1BE933E9-88C4-4364-A723-CF503FE18BD6,176599-1,"","","259","",
+gcc-116453,A,Compositae,,Andryala,,"agardhii",,"","Haens. ex DC.",Accepted,,M,TICA,311E9DF3-FEB9-4051-927D-BE70CB8E09D6,176600-1,"","","244","1838",
+gcc-33733,A,Compositae,,Andryala,,"allochroa",,"","Hoffmanns. & Link",Synonym,,M,TICA,441F4822-09A9-4B64-8EE3-3E85006A58A3,,"","","154","",gcc-143897
+gcc-153439,A,Compositae,,Andryala,,"ampelusia",,"","Maire",Accepted,,M,TICA,CBBDF102-2711-46A7-9D5C-AE97F49C606D,176602-1,"","","120","1926",
+gcc-81280,A,Compositae,,Andryala,,"antonii",,"","Maire",Synonym,,M,TICA,AD599453-1380-4B9D-BF13-6F71E22E3A29,176603-1,"in Mem. Soc. Sc. Not. Maroc","","47","1926",gcc-61701
+gcc-113488,A,Compositae,,Andryala,,"arenaria",,"","(Guss. ex DC.) Boiss. & Reut.",Accepted,,M,TICA,B18F1501-608A-4C7D-A8A3-B7BAEC004895,176605-1,"","","71","1852",
+gcc-145771,A,Compositae,,Andryala,,"arenaria",var.,"arenaria","",Synonym,,L,TICA,9D9BC6FD-D39C-4A07-8066-0A9223397F84,,"","","","",gcc-113488
+gcc-148236,A,Compositae,,Andryala,,"arenaria",subsp.,"arenaria","",Synonym,,L,TICA,D6AC8644-1411-4EFC-9228-3E5686F4FE5E,,"","","","",gcc-113488
+gcc-66839,A,Compositae,,Andryala,,"arenaria",subsp.,"mariana","Rivas Goday & Bellot",Synonym,,L,TICA,AA476D5A-5225-463A-A56D-D21F6177E7BC,,"","","64","1942",gcc-9667
+gcc-18352,A,Compositae,,Andryala,,"arenaria",var.,"pinnatifida","Lange",Synonym,,L,TICA,5B4AF4B9-8AA9-4AD4-984B-21E6E0EDA78C,,"","","","",gcc-113488
+gcc-92377,A,Compositae,,Andryala,,"atlanticola",,"","H.Lindb.",Accepted,,M,TICA,A5C2327E-A999-4650-8AAB-88740C17E829,,"","","151","1932",
+gcc-80042,A,Compositae,,Andryala,,"aurea",,"","(L.) Scop.",Synonym,,M,TICA,2F558DBC-CBC6-4819-A464-6CBBE10C5F9E,176607-1,"","","58","1769",gcc-122367
+gcc-103881,A,Compositae,,Andryala,,"bourgeaui",,"","Sch.Bip.",Synonym,,M,TICA,D631B1A3-2FBB-4859-BD54-A23D5348F158,,"","","417","1849",gcc-125285
+gcc-83238,A,Compositae,,Andryala,,"bourgeauii",,"","Sch.Bip. ex Webb & Berthel.",Unresolved,,L,TICA,862CC3FB-F813-4C06-A079-73DDDBBA887F,176608-1,"","","417","1849",gcc-125285
+gcc-140292,A,Compositae,,Andryala,,"brievaensis",,"","García Adá",Accepted,,M,TICA,6444820B-F3E4-4B85-9DCC-F4A8F9474BFC,968863-1,"","","259","1992",
+gcc-110156,A,Compositae,,Andryala,,"caballeroi",,"","Font Quer",Accepted,,M,TICA,F5CCB632-5914-4AE9-8C59-B03AA66BFE08,176609-1,"","","83","1935",
+gcc-145844,A,Compositae,,Andryala,,"calendula",,"","Doum.",Synonym,,M,TICA,D6CF0C88-7AC1-4E7D-8740-0BF04BABF0FD,,"Doum. in Bull. Trimestriel Géogr. Archéol. 41. 1921","","135","1921",gcc-91273
+gcc-89397,A,Compositae,,Andryala,,"calendula",,"","Doumergue",Synonym,,M,TICA,2372105D-9D80-4CFB-A973-819C1195025C,,"Doumergue in Bull. Trimestriel Soc. Géogr. Archéol. Oran 41. 1921.","","xxx","1921",gcc-91273
+gcc-122089,A,Compositae,,Andryala,,"canariensis",,"","Lowe",Synonym,,M,TICA,A684E12B-876F-4D58-93B9-CB3B657C503A,176610-1,"","","564","1868",gcc-125285
+gcc-29632,A,Compositae,,Andryala,,"canariensis",subsp.,"antonii","(Maire) Maire",Synonym,,L,TICA,20500341-289C-4B92-A7FA-36C6012DB6D7,,"","","840","1934",gcc-61701
+gcc-153100,A,Compositae,,Andryala,,"canariensis",subsp.,"canariensis","",Synonym,,L,TICA,7FB10C39-8F23-4085-946C-A73910F32B7C,,"","","","",gcc-125285
+gcc-157154,A,Compositae,,Andryala,,"canariensis",var.,"canariensis","",Synonym,,L,TICA,FF1F6172-03E1-48FC-A2C5-FC17899A0A56,,"","","","",gcc-125285
+gcc-43358,A,Compositae,,Andryala,,"canariensis",subsp.,"ducellieri","(Batt.) Maire",Synonym,,L,TICA,D0C322F0-6F54-4D14-A1B9-5055AECD41EE,,"","","840","1934",gcc-65008
+gcc-4405,A,Compositae,,Andryala,,"canariensis",subsp.,"jahandiezii","(Maire) Maire",Synonym,,L,TICA,990C8C23-5B3A-424F-981A-0833ED48F772,,"","","840","1934",gcc-72315
+gcc-62799,A,Compositae,,Andryala,,"canariensis",subsp.,"maroccana","Maire",Synonym,,L,TICA,BF23765C-2E71-427B-99B4-B1AF5FB161B7,50426398-2,"Bull. Soc. Hist. Nat. Afrique N. 19","","58","1928",gcc-35643
+gcc-37007,A,Compositae,,Andryala,,"canariensis",var.,"microcarpa","Maire",Synonym,,L,TICA,D1C682D2-B151-41DE-AABA-448E1304F989,,"","","","",gcc-131063
+gcc-60287,A,Compositae,,Andryala,,"canariensis",subsp.,"mogadorensis","(Coss. ex Hook.f.) Maire",Synonym,,L,TICA,88A12E52-B3C7-49B9-BD76-9D30373EA682,,"","","59","1928",gcc-68944
+gcc-23062,A,Compositae,,Andryala,,"candidissima",,"","Desf.",Synonym,,M,TICA,6C729A4C-84F1-4345-AB99-2AB1D51FA584,176611-1,"","","399","1829",gcc-18511
+gcc-152477,A,Compositae,,Andryala,,"cedretorum",,"","Maire",Accepted,,M,TICA,F747C313-62AC-4C86-81E4-9A1591BB5B5A,176612-1,"","","45","1926",
+gcc-184,A,Compositae,,Andryala,,"cheiranthifolia",,"","Link ex Steud.",Synonym,,M,TICA,3E1A0C6A-6BB2-43E0-8B7C-005524AB3B59,176614-1,"","","94","1840",gcc-125285
+gcc-50664,A,Compositae,,Andryala,,"cheiranthifolia",,"","L'Hér.",Synonym,,M,TICA,F3185494-E565-4084-8834-5DF055347004,176615-1,"","","35","",gcc-18511
+gcc-131063,A,Compositae,,Andryala,,"chevallieri",,"","Barratte ex L.Chevall.",Accepted,,M,TICA,2B01A616-1657-4295-96B9-DFFA7E501455,,"Mem. Herb. Boiss. 7. 10.","","10","1900",
+gcc-84044,A,Compositae,,Andryala,,"chondrilloides",,"","(Jacq.) Scop.",Synonym,,M,TICA,7B648EC7-9766-4156-8B4A-75A0B6E736EC,176617-1,"","","115","1772",gcc-116075
+gcc-1985,A,Compositae,,Andryala,,"christii",,"","G.Kunkel",Synonym,,M,TICA,69F6C1B3-12D8-4207-AD71-039532D4085D,176618-1,"","","345","1980",gcc-125285
+gcc-44621,A,Compositae,,Andryala,,"conyzoides",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,44079744-E793-494A-8EDE-52A7F3503D3B,176619-1,"""Index Linn. Herb. 34 (1912), nomen.""","","34","",
+gcc-43047,A,Compositae,,Andryala,,"coronopifolia",,"","Hoffmanns. & Link",Synonym,,M,TICA,4EE0D985-F077-4D7D-993C-4FB9807A3296,,"","","155","",gcc-125285
+gcc-43892,A,Compositae,,Andryala,,"corymbosa",,"","Lam.",Synonym,,M,TICA,C6463854-7743-493D-BDA8-5151CFBB5633,,"","","153","1783",gcc-143897
+gcc-9336,A,Compositae,,Andryala,,"corymbosa",,"","Brot.",Synonym,,M,TICA,212ACEEB-03F4-4BD8-BF78-116ADD418F00,,"","","","1804",gcc-1571
+gcc-127998,A,Compositae,,Andryala,,"cossyrensis",,"","Guss.",Accepted,,M,TICA,21AC200F-D530-471C-BD54-D8FE467685CD,176623-1,"","","407","1844",
+gcc-156372,A,Compositae,,Andryala,,"cossyrensis",var.,"cossyrensis","",Synonym,,L,TICA,72C8C1FC-43D0-475B-A6AF-EBE710CF531F,,"","","","",gcc-127998
+gcc-46435,A,Compositae,,Andryala,,"cossyrensis",var.,"oligadena","Maire & Weiller",Synonym,,L,TICA,79B8E4C0-B9CC-416C-9C6D-56109307B53A,,"","","","",gcc-127998
+gcc-46915,A,Compositae,,Andryala,,"crithmifolia",,"","Aiton",Accepted,,M,TICA,5CFC82C2-F74B-48B4-9B98-56F2361D03B5,,"","","129","1789",
+gcc-126053,A,Compositae,,Andryala,,"dentata",,"","Sibth. & Sm.",Accepted,,M,TICA,496C97B0-933C-4810-ADA0-D47425B929F5,176625-1,"Fl. Graec. t. 811.","","t. 811","",
+gcc-85337,A,Compositae,,Andryala,,"dentata",,"","Sm.",Unresolved,,L,TICA,A1A23FD2-0681-4C51-9695-7879DB16747F,,"","","140","1813",
+gcc-61145,A,Compositae,,Andryala,,"dentata",subsp.,"arenaria","(DC.) Nyman",Synonym,,L,TICA,B37F3762-7CF8-4B95-A9AB-A438C5574F70,,"""Nyman, Consp. Fl. Eur. 1879.""","","438","1879",gcc-113488
+gcc-62937,A,Compositae,,Andryala,,"dentata",var.,"arenaria","(Boiss. & Reut.) Batt.",Synonym,,L,TICA,77907A92-7D90-4288-82E2-B2D63B9C526D,,"","","","",gcc-113488
+gcc-151360,A,Compositae,,Andryala,,"dentata",subsp.,"dentata","",Synonym,,L,TICA,F4B09409-72E8-4492-A9F5-82DD0527F0D0,,"","","","",gcc-126053
+gcc-157113,A,Compositae,,Andryala,,"dentata",var.,"dentata","",Synonym,,L,TICA,D11945EC-CBD5-4483-8223-FB1FDEA6EED3,,"","","","",gcc-126053
+gcc-85946,A,Compositae,,Andryala,,"denudata",,"","Sol. ex Lowe",Synonym,,M,TICA,802CD0BE-19E6-4FEA-BB13-79D01A478B68,,"","","563","1868",gcc-18511
+gcc-51253,A,Compositae,,Andryala,,"dichroa",,"","Maire",Accepted,,M,TICA,998F5DE5-ED0A-4780-97CD-5F0C3D6C1298,176627-1,"","","364","1937",
+gcc-117373,A,Compositae,,Andryala,,"diffusa",,"","DC.",Synonym,Invalid,M,TICA,0F0F92DA-0799-4437-89AA-C08589487E5F,176628-1,"","","246","1838",gcc-143897
+gcc-29333,A,Compositae,,Andryala,,"dissecta",,"","Hoffmanns. & Link",Synonym,,M,TICA,62E25817-0388-4584-A973-3632A78F1955,,"","","153","",gcc-143897
+gcc-129179,A,Compositae,,Andryala,,"ducellieri",,"","Batt.",Synonym,,M,TICA,FEF7A807-2874-4F17-B5BB-DBB37C9340D3,176630-1,"","","120","1918",gcc-65008
+gcc-108134,A,Compositae,,Andryala,,"faurei",,"","Maire ex Faure",Synonym,,M,TICA,AE3451CC-1FD0-4EC7-82F9-ABA7A79C0D5E,176631-1,"","","263","1923",gcc-24740
+gcc-42946,A,Compositae,,Andryala,,"faurei",,"","Maire",Accepted,,M,TICA,042870DD-7A20-4364-9953-4F89EDCAA6E0,176632-1,"","","121","1926",
+gcc-50351,A,Compositae,,Andryala,,"ficalheana",,"","Daveau",Synonym,,M,TICA,DB452EBC-76E7-4576-B33A-5D5C9C0B54BC,176633-1,"Bol. Soc. Brot. 1","","42","1883",gcc-113488
+gcc-99238,A,Compositae,,Andryala,,"floccosa",,"","Pomel",Accepted,,M,TICA,E5599C22-20D4-4AC4-85FD-97E94C8EE8CB,,"","","4","1874",
+gcc-13937,A,Compositae,,Andryala,,"glandulosa",,"","Lam.",Accepted,,M,TICA,4491F680-772C-41AD-A835-19E34066F6CD,176635-1,"","","154","1783",
+gcc-18511,A,Compositae,,Andryala,,"glandulosa",subsp.,"cheiranthifolia","Greuter",Accepted,,L,TICA,134DEA1F-2D11-4550-A72C-2231D30A7F21,,"","","232","2003",
+gcc-2457,A,Compositae,,Andryala,,"glandulosa",subsp.,"glandulosa","",Synonym,,L,TICA,49402EA3-985B-4E63-9D67-0478CCAB3DEA,,"","","","",gcc-13937
+gcc-113016,A,Compositae,,Andryala,,"gomeraea",,"","Sch.Bip. ex Webb & Berthel.",Synonym,,M,TICA,2D0076E7-D2A4-49B7-A7DF-B6B55ADE486F,,"","","417","1849",gcc-125285
+gcc-103130,A,Compositae,,Andryala,,"gracilis",,"","Caball.",Synonym,,M,TICA,AA0EFF05-960E-40F8-B234-A09981D68AE7,,"","","","",gcc-127998
+gcc-79769,A,Compositae,,Andryala,,"gracilis",,"","Pau",Synonym,,M,TICA,D00FABCF-0A0C-4579-9BF2-6C22253F8BCC,176637-1,"","","130","1918",gcc-143897
+gcc-130789,A,Compositae,,Andryala,,"humilis",,"","Pau",Synonym,,M,TICA,1A1BEF00-BA3E-46D6-8725-DF5E5DE99E3D,,"","","","1928",gcc-143897
+gcc-82532,A,Compositae,,Andryala,,"humilis",,"","Font Quer",Unresolved,,L,TICA,85FB7070-AE19-47FD-8358-7245DFD507E4,,"""Cavanillesia i. 47 (1928), nomen.""","","47","",
+gcc-80623,A,Compositae,,Andryala,,"incana",,"","DC.",Synonym,,M,TICA,63254F80-5176-4F1A-B3FB-6DF8971968E7,176640-1,"","","445","1815",gcc-117388
+gcc-143897,A,Compositae,,Andryala,,"integrifolia",,"","L.",Accepted,,M,TICA,192444A3-DAD9-410E-B80F-FCE575F4FBCD,176642-1,"","","808","1753",
+gcc-49583,A,Compositae,,Andryala,,"integrifolia",,"","Guss.",Synonym,Illegitimate,M,TICA,EABA10C0-1D69-48BD-9472-5BE65E425178,,"","","","1844",gcc-24740
+gcc-60856,A,Compositae,,Andryala,,"integrifolia",subsp.,"ampelusia","(Maire) Maire",Synonym,,L,TICA,61320BC9-94A9-45A4-8F67-A1CA1F2BEE58,,"","","841","1934",gcc-153439
+gcc-56042,A,Compositae,,Andryala,,"integrifolia",var.,"angustifolia","DC.",Synonym,,L,TICA,B3B1C6E9-77B5-4B5B-846E-7B3E88AFB733,,"Prodr. 7: 246 (1838)","","246","1838",gcc-143897
+gcc-67241,A,Compositae,,Andryala,,"integrifolia",var.,"arenaria","(Boiss. & Reut.) Ball",Synonym,,L,TICA,C4925AE6-C29C-4CD4-9C5A-D592DB25ADE3,,"","","","",gcc-113488
+gcc-56562,A,Compositae,,Andryala,,"integrifolia",subsp.,"cedretorum","(Maire) Sauvage",Synonym,,L,TICA,7A72CE5D-7272-4EDC-BB5F-7F83E5AEC7DE,,"","","203","1966",gcc-152477
+gcc-41770,A,Compositae,,Andryala,,"integrifolia",var.,"corymbosa","(Lam.) Willd.",Synonym,,L,TICA,F313A892-66CD-4603-8F60-4D5BCE9A502F,,"","","","",gcc-143897
+gcc-52333,A,Compositae,,Andryala,,"integrifolia",var.,"diffusa","DC.",Synonym,,L,TICA,A7688FE1-BA8A-40D6-896A-610BA5982152,,"Prodr. 7: 246 (1838)","","246","1838",gcc-24740
+gcc-12469,A,Compositae,,Andryala,,"integrifolia",var.,"floccosa","Svent.",Synonym,,L,TICA,BF3209F3-195B-4497-8FBA-1740B1BB3E60,,"Index Seminum (Hort. Acclim. Pl. Arautap.) 1968: 50 (1969)","","50","1969",gcc-143897
+gcc-63257,A,Compositae,,Andryala,,"integrifolia",var.,"gracilis","(Pau) Maire",Synonym,,L,TICA,2CC96B10-0792-4824-BEF0-B56EA3BD9272,,"","","","",gcc-143897
+gcc-150620,A,Compositae,,Andryala,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,4DD62C24-9FF2-4658-A115-72BB87A4860D,,"","","","",gcc-143897
+gcc-33489,A,Compositae,,Andryala,,"integrifolia",subsp.,"integrifolia","",Synonym,,L,TICA,4E42C641-C22E-4868-B608-3E19CF36DD6E,,"","","","",gcc-143897
+gcc-67320,A,Compositae,,Andryala,,"integrifolia",var.,"nigricans","(Poir.) Baratte",Synonym,,L,TICA,D6A1EAD0-0C4A-4FA4-A249-D646909F0BC0,,"","","","",gcc-143897
+gcc-64105,A,Compositae,,Andryala,,"integrifolia",var.,"sinuata","(L.) Willk.",Synonym,,L,TICA,643487FE-A275-4CA0-8E4E-BBED94FD820D,,"","","","",gcc-143897
+gcc-53324,A,Compositae,,Andryala,,"integrifolia",var.,"tenuifolia","(DC.) Baratte",Synonym,,L,TICA,5EECAA43-D082-4C99-B009-6557771344A9,,"","","","",gcc-127998
+gcc-15275,A,Compositae,,Andryala,,"integrifolia",var.,"undulata","(J.Presl & C.Presl) DC.",Synonym,,L,TICA,B48AE7F0-1A6D-4077-B24A-1C464454C893,,"Prodr. 7: 246 (1838)","","246","1838",gcc-24740
+gcc-67961,A,Compositae,,Andryala,,"integrifolia",var.,"vulgaris","DC.",Synonym,,L,TICA,864BD401-087B-47B7-B08F-DB35C8F96A6E,,"Prodr. 7: 246 (1838)","","246","1838",gcc-24740
+gcc-137733,A,Compositae,,Andryala,,"jahandiezii",,"","Maire",Synonym,,M,TICA,CD100992-A9AE-4398-BF59-EF17BF4CB7C4,176643-1,"in Mem. Soc. Sc. Not. Maroc","","46","1926",gcc-72315
+gcc-149792,A,Compositae,,Andryala,,"jahandiezii",var.,"jahandiezii","",Synonym,,L,TICA,E11AFC68-D874-4F0F-96C7-605C8F923598,,"","","","",gcc-72315
+gcc-66563,A,Compositae,,Andryala,,"jahandiezii",var.,"microphylla","Maire",Synonym,,L,TICA,E06BC1B7-D0D7-4A84-9DCD-CFC55A29B59D,,"Mém. Soc. Sci. Nat. Maroc 15: 46 (1926)","","46","1926",gcc-131063
+gcc-106240,A,Compositae,,Andryala,,"laciniata",,"","Lam.",Synonym,,M,TICA,7B36743C-CFEC-4B58-BC6D-A754F6383165,176645-1,"","","153","1783",gcc-117388
+gcc-3558,A,Compositae,,Andryala,,"laevitomentosa",,"","(Nyár. ex Sennikov) P.D.Sell ex Greuter",Accepted,,M,TICA,FE797DF7-342E-40F8-A316-068F32B73F31,,"","","232","2003",
+gcc-113525,A,Compositae,,Andryala,,"lanata",,"","Habl.",Unresolved,,L,TICA,D7631CD8-581D-4985-8479-B7CFD3AB1E8C,,"Taur. 155.","","155","",
+gcc-135025,A,Compositae,,Andryala,,"lanata",,"","Sibth. & Sm.",Unresolved,,L,TICA,D5B608BE-8C75-4D18-B94C-E90CB95AC7B4,176647-1,"Prod. ii. 141.","","ii. 141","",
+gcc-142873,A,Compositae,,Andryala,,"lanata",,"","Vill.",Synonym,,M,TICA,52458014-C433-495C-8904-FAA3FD35CF2F,176648-1,"","","65","1788",gcc-24740
+gcc-83020,A,Compositae,,Andryala,,"lanata",,"","L.",Synonym,,M,TICA,20EFF9CA-0FD8-46F9-BCBC-735E61CC54FA,,"","","","1755",gcc-63415
+gcc-94156,A,Compositae,,Andryala,,"lanata",,"","Sm.",Synonym,,M,TICA,B28B2EC6-8527-4018-A6C6-8C57CF8C47F9,176647-1,"Fl. Graec. Prodr. 2: 141 (1813)","","141","1813",gcc-88988
+gcc-9667,A,Compositae,,Andryala,,"laxiflora",,"","DC.",Accepted,,M,TICA,6A2FEFDB-C3B8-4B26-8EBF-120D02CFE0E8,176650-1,"","","246","1838",
+gcc-33407,A,Compositae,,Andryala,,"laxiflora",var.,"candicans","Maire",Synonym,,L,TICA,E8C5E10B-F5F1-4CE3-B134-3DF060CEA19B,,"","","","",gcc-9667
+gcc-149800,A,Compositae,,Andryala,,"laxiflora",var.,"laxiflora","",Synonym,,L,TICA,FEA48868-371F-4AEF-9CC3-6071FF025DCC,,"","","","",gcc-9667
+gcc-110828,A,Compositae,,Andryala,,"levitomentosa",,"","(Nyár.) P.D.Sell",Synonym,Invalid,M,TICA,8016D407-2E9B-4227-AD38-B1C4A773EEC8,176651-1,"Bot. J. Linn. Soc. 71 (4): 256 (1975 publ. 1976).","","256","1976",gcc-3558
+gcc-47390,A,Compositae,,Andryala,,"lyrata",,"","Pourr.",Synonym,,M,TICA,7BA9738B-C657-4C1C-9BCB-57C50F7FFB3F,176652-1,"","","308","1788",gcc-117388
+gcc-148794,A,Compositae,,Andryala,,"lyrata",var.,"incana","(DC.) DC.",Synonym,,L,TICA,6599FCC3-7A21-41F7-99C2-4ADC4836736E,,"""A.P. de Candolle, Prodr. 7. 1838""","","244","1838",gcc-117388
+gcc-147573,A,Compositae,,Andryala,,"lyrata",var.,"lyrata","",Synonym,,L,TICA,B4DCBEAA-8262-4549-A654-3051EBCD4604,,"","","","",gcc-117388
+gcc-153760,A,Compositae,,Andryala,,"lyrata",var.,"minor","Lange",Synonym,,L,TICA,89491BD0-4668-429F-BD5E-B4B8DD5A7D4C,,"Lange in Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 3. 1861","","103","1861",gcc-117388
+gcc-105284,A,Compositae,,Andryala,,"macrocephala",,"","Boiss. ex DC.",Synonym,,M,TICA,FDD54CA2-59CC-4FDE-8810-A544ABD8EF5C,176653-1,"","","244","1838",gcc-117388
+gcc-36463,A,Compositae,,Andryala,,"malacitana",,"","Haens. ex Willk.",Synonym,,M,TICA,23C01C6F-D680-41B7-9B66-439C1A8391EF,,"","","272","1865",gcc-9667
+gcc-79144,A,Compositae,,Andryala,,"maroccana",,"","Pau ex Caball.",Unresolved,,L,TICA,6AA9ABE8-3C4E-4DF5-A7CB-6ACD6C46F7C8,176655-1,"""Trab. Mus. Nac. Ci. Nat., Ser. Bot. No. 11, 37 (1917), in syn.""","","""No. 11, 37 , in syn.""","1917",
+gcc-91273,A,Compositae,,Andryala,,"maroccana",,"","(Caball.) Pau ex Maire",Accepted,,M,TICA,455A698F-C4F9-45A6-94FF-8600AA9A8A9C,,"","","218","1922",
+gcc-71118,A,Compositae,,Andryala,,"maroccana",var.,"calendula","(Doumergue) Maire",Synonym,,L,TICA,2C4C1616-1776-49F4-A734-F38DBAB4C9FF,,"","","","",gcc-91273
+gcc-150399,A,Compositae,,Andryala,,"maroccana",var.,"maroccana","",Synonym,,L,TICA,4C9863FD-336A-4CBC-A1AC-6DA16DAE6090,,"","","","",gcc-91273
+gcc-84826,A,Compositae,,Andryala,,"minuta",,"","Lojac.",Synonym,,M,TICA,4641D6CD-A636-4DBF-B811-775BE7757C6C,176656-1,"","","223","1903",gcc-143897
+gcc-23792,A,Compositae,,Andryala,,"mogadorensis",,"","Coss. ex Hook.f.",Synonym,,M,TICA,217A0D03-DA47-4148-B2AE-2BF97917ACC9,,"Bot. Mag. 99","","","1873",gcc-68944
+gcc-138244,A,Compositae,,Andryala,,"mollis",,"","Asso",Synonym,,M,TICA,B300AA42-FB27-4A62-9204-F02EAD503DC8,176658-1,"","","175","1779",gcc-143897
+gcc-139663,A,Compositae,,Andryala,,"nemausensis",,"","Vill.",Synonym,,M,TICA,9FC6BCD1-E23D-489D-A9DC-F33C3E5380B6,176659-1,"","","37","1779",gcc-110581
+gcc-1571,A,Compositae,,Andryala,,"nigricans",,"","Poir.",Accepted,,M,TICA,807F4EA7-03D7-4210-9960-02D7A7446B49,176660-1,"","","228","1789",
+gcc-63723,A,Compositae,,Andryala,,"nigricans",var.,"boitardii","Litard. & Maire",Synonym,,L,TICA,1D2AC7EE-5D2B-4252-99CC-B8F1EB4062B2,,"","","","",gcc-1571
+gcc-146130,A,Compositae,,Andryala,,"nigricans",var.,"nigricans","",Synonym,,L,TICA,108BB018-C0C5-48D3-B58B-12051F46E450,,"","","","",gcc-1571
+gcc-84922,A,Compositae,,Andryala,,"nudicaulis",,"","Lam.",Synonym,,M,TICA,67AD3BD6-8DB4-486D-BECC-778819B424DE,176661-1,"","","154","1783",gcc-110581
+gcc-141297,A,Compositae,,Andryala,,"oestivalis",,"","not_stated",Unresolved,,L,TICA,76B44755-1601-4E9C-A18E-F7102B62ABB3,,"not _stated.","","_stated","",
+gcc-88551,A,Compositae,,Andryala,,"parviflora",,"","Lam.",Synonym,,M,TICA,57D4C2D4-F11E-4C85-8366-7FAEA944A1B5,,"","","117","",gcc-143897
+gcc-156622,A,Compositae,,Andryala,,"parviflora",var.,"latifolia","Boiss.",Synonym,,L,TICA,ABA4FC27-E55E-41A1-A93A-F119613655BD,,"""P.E. Boissier, Voy. Bot. Espagne 2. 1841""","","393","1841",gcc-143897
+gcc-156801,A,Compositae,,Andryala,,"parviflora",var.,"parviflora","",Synonym,,L,TICA,D525A739-EE43-4CC9-859D-F4844698B796,,"","","","",gcc-143897
+gcc-125285,A,Compositae,,Andryala,,"pinnatifida",,"","Aiton",Accepted,,M,TICA,5E4A4A2D-9807-4903-9C19-D2B2F8D2E30F,176664-1,"","","129","1789",
+gcc-61701,A,Compositae,,Andryala,,"pinnatifida",subsp.,"antonii","(Maire) Dobignard",Accepted,,L,TICA,27173FDB-A5AE-4A3D-87CA-A8CD4767A87A,77083825-1,"","","140","2007",
+gcc-145311,A,Compositae,,Andryala,,"pinnatifida",f.,"buchiana","Sch.Bip.",Synonym,,L,TICA,99C82144-40A8-444C-90F1-01947AB916CA,,"""C.H. Schultz - in Webb & Berthelot, Hist. Nat. Iles Canaries 3(2,2). 1849-1850""","","415","",gcc-152821
+gcc-152821,A,Compositae,,Andryala,,"pinnatifida",subsp.,"buchiana","(Sch.Bip.) Reyes-Bet. & A.Santos",Accepted,,L,TICA,8B048FA5-21C9-4606-9A7F-A1332EB30324,77103768-1,"Reyes-Bet. & A. Santos in Willdenowia 39. 2010","","328","2010",
+gcc-65008,A,Compositae,,Andryala,,"pinnatifida",subsp.,"ducellieri","(Batt.) Greuter",Accepted,,L,TICA,F413565F-FB43-4B7D-8AAD-C30F37F3F3D4,,"","","232","2003",
+gcc-72315,A,Compositae,,Andryala,,"pinnatifida",subsp.,"jahandiezii","(Maire) Greuter",Accepted,,L,TICA,C546A24B-ECE1-4967-91B8-FCFB2B99866B,,"","","232","2003",
+gcc-35643,A,Compositae,,Andryala,,"pinnatifida",subsp.,"maroccana","(Maire) Greuter",Accepted,,L,TICA,14483307-3DCF-45DC-8EA6-4219E15B1DDA,,"","","232","2003",
+gcc-68944,A,Compositae,,Andryala,,"pinnatifida",subsp.,"mogadorensis","(Coss. ex Hook.f.) Greuter",Accepted,,L,TICA,94E75B8F-6F18-47BB-B781-E29344654004,,"","","232","2003",
+gcc-150161,A,Compositae,,Andryala,,"pinnatifida",f.,"pinnatifida","",Synonym,,L,TICA,3FB3ACFD-2423-43F9-8B1B-6890959BE5EA,,"","","","",gcc-125285
+gcc-19851,A,Compositae,,Andryala,,"pinnatifida",subsp.,"pinnatifida","",Synonym,,L,TICA,2E97BF9C-DE5A-49ED-8CE6-24B8E5281836,,"","","","",gcc-125285
+gcc-58068,A,Compositae,,Andryala,,"pinnatifida",var.,"pinnatifida","",Synonym,,L,TICA,57142097-45D9-451B-9DF2-8B8D8723217F,,"","","","",gcc-125285
+gcc-55650,A,Compositae,,Andryala,,"pinnatifida",subsp.,"preauxiana","(Sch.Bip.) G.Kunkel",Accepted,,L,TICA,D0B01387-19E3-4603-9F7F-77B7954F54A8,876423-1,"","","54","1972",
+gcc-74493,A,Compositae,,Andryala,,"pinnatifida",f.,"preauxiana","Sch.Bip.",Synonym,,L,TICA,73F9DD0F-85EE-4A45-8AE7-41B27C2A9570,,"""Sch. Bip. in Webb & Berthel., Hist. Nat. Iles Canaries 3(2,2). 1850.""","","415","1850",gcc-55650
+gcc-123106,A,Compositae,,Andryala,,"pinnatifida",f.,"sprengeliana","Sch.Bip.",Synonym,,L,TICA,C2FC3ED5-B534-4366-A6DB-CD8C6EAE43F9,,"Hist. Nat. Iles Canaries 2(2): 415 (1849)","","415","1849",gcc-125285
+gcc-72571,A,Compositae,,Andryala,,"pinnatifida",var.,"sprengeliana","(Sch.Bip.) G.Kunkel",Synonym,,L,TICA,818D4BE3-5472-4883-9539-FF0A38717F75,876424-1,"","","344","1980",gcc-125285
+gcc-55201,A,Compositae,,Andryala,,"pinnatifida",var.,"teydea","Webb",Synonym,,L,TICA,6CDC683D-960B-4F26-A6A1-741D9157809D,,"","","","",gcc-125285
+gcc-54734,A,Compositae,,Andryala,,"pinnatifida",subsp.,"teydensis","(Sch.Bip.) Rivas Mart. & al.",Accepted,,L,TICA,C8479361-94B2-41BD-B670-706A509D85B2,971784-1,"","","350","1993",
+gcc-73939,A,Compositae,,Andryala,,"pinnatifida",f.,"teydensis","Sch.Bip.",Synonym,,L,TICA,87959F7D-ADF3-4689-A5BC-2CD8205FBE9F,,"""Sch. Bip. in Webb & Berthel., Hist. Nat. Iles Canaries 3(2,2). 1850.""","","416","1850",gcc-54734
+gcc-65854,A,Compositae,,Andryala,,"pinnatifida",var.,"tolpicifolia","Kunkel",Synonym,,L,TICA,D67D7A28-EE82-41CA-AD1C-CA1858308AA6,,"","","","",gcc-125285
+gcc-2452,A,Compositae,,Andryala,,"pinnatifida",subsp.,"webbii","(Sch.Bip. ex Christ) G.Kunkel",Accepted,,L,TICA,72912B20-1B4A-4541-983F-0477693B6082,876426-1,"","","27","1975",
+gcc-66222,A,Compositae,,Andryala,,"pinnatifida",var.,"webbii","Sch.Bip. ex Christ",Synonym,,L,TICA,C4F5F987-0BBC-44F2-8EA4-CD05A3D860A3,,"Bot. Jahrb. Syst. 9: 150 (1889)","","150","1889",gcc-2452
+gcc-74892,A,Compositae,,Andryala,,"pinnatifida",f.,"webbii","Christ",Synonym,,L,TICA,AD94DCEA-3F19-4548-AEF0-51661ED20815,,"","","150","1889",gcc-2452
+gcc-90694,A,Compositae,,Andryala,,"pontana",,"","(L.) Vill.",Synonym,,M,TICA,40AECA63-8193-4882-A547-84AD781D5432,176665-1,"","","37","1779",gcc-124715
+gcc-117388,A,Compositae,,Andryala,,"ragusina",,"","L.",Accepted,,M,TICA,A13562DB-B890-47DB-9648-C08E7763937D,176666-1,"","","1136","1763",
+gcc-26628,A,Compositae,,Andryala,,"ragusina",var.,"incana","(DC.) DC.",Synonym,,L,TICA,0DE7418D-B56E-4BCC-B71E-31324EE1A756,,"Prodr. 7: 244 (1838)","","244","1838",gcc-117388
+gcc-59686,A,Compositae,,Andryala,,"ragusina",var.,"lyrata","(Pourr.) DC.",Synonym,,L,TICA,A2B36EF6-F8D4-442D-835D-986F57C67EA4,,"Prodr. 7: 244 (1838)","","244","1838",gcc-117388
+gcc-148706,A,Compositae,,Andryala,,"ragusina",var.,"ragusina","",Synonym,,L,TICA,DA7D1C53-8A54-4FF0-8445-48D7A2FD8FA5,,"","","","",gcc-117388
+gcc-156951,A,Compositae,,Andryala,,"ragusina",subsp.,"ragusina","",Synonym,,L,TICA,92A0D5F7-E13B-464B-83D2-F779C6671E0F,,"","","","",gcc-117388
+gcc-155307,A,Compositae,,Andryala,,"ragusina",subsp.,"spartioides","Batt.",Synonym,,L,TICA,C4D561E0-82D2-49EB-8B01-D5499AEFD5A8,,"""J.A. Battandier - in Battandier & Trabut, Fl. Algérie, Dicot.. 1889""","","566","1889",gcc-152919
+gcc-65316,A,Compositae,,Andryala,,"ragusina",subsp.,"spartioides","Pomel",Synonym,,L,TICA,28324B1E-7B7E-484B-882B-C5DED7E95D7B,,"","","","",gcc-124029
+gcc-21162,A,Compositae,,Andryala,,"ramosissima",,"","(DC.) Boiss.",Synonym,,M,TICA,77B1FC73-1D3F-4803-991F-27183F88FC6F,176667-1,"","","63","",gcc-117388
+gcc-104803,A,Compositae,,Andryala,,"reboudiana",,"","Pomel",Synonym,,M,TICA,F32252F6-0B3A-4E1A-B3B6-A43DBCB2CB43,,"","","259","1875",gcc-143897
+gcc-48129,A,Compositae,,Andryala,,"robusta",,"","Lowe",Accepted,,M,TICA,31FCACCE-1A42-4ACF-8DCD-5931BB4F61CE,,"","","","1838",
+gcc-76373,A,Compositae,,Andryala,,"rosea",,"","Steud.",Synonym,Invalid,L,TICA,AD9CB61D-9FF0-4527-898F-648B59EB6DF0,176670-1,"","","779","1841",gcc-35114
+gcc-25756,A,Compositae,,Andryala,,"rothia",,"","Sm.",Accepted,,M,TICA,0FD6A704-0526-4522-A563-2F9651242739,,"","","","",
+gcc-35114,A,Compositae,,Andryala,,"rothia",,"","Pers.",Unresolved,,L,TICA,ADA99FF9-1CFB-41E0-9474-411E10420E6A,176671-1,"","","378","1807",
+gcc-72263,A,Compositae,,Andryala,,"rothia",subsp.,"arenaria","(DC.) Maire",Synonym,,L,TICA,4C5F0201-E140-4195-9E47-FC9FA249792C,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1941.""","","1167","1941",gcc-113488
+gcc-55749,A,Compositae,,Andryala,,"rothia",subsp.,"cosyrensis","(Guss.) Maire",Synonym,,L,TICA,68BD9FE1-E40A-4BF6-8AC1-7891945B43F2,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1941.""","","1167","1941",gcc-127998
+gcc-15540,A,Compositae,,Andryala,,"rothia",subsp.,"dentata","(Sm.) Pignatti",Synonym,,L,TICA,EB67E054-B65D-4171-BF12-1CC252E1A94F,,"","","57","1977",gcc-85337
+gcc-54382,A,Compositae,,Andryala,,"rothia",var.,"pinnatifida","(Lange) Maire",Synonym,,L,TICA,860800C8-968C-4DF9-9D28-6D90FF0E8AA4,,"","","","",gcc-113488
+gcc-150467,A,Compositae,,Andryala,,"rothia",subsp.,"rothia","",Synonym,,L,TICA,CACECDEC-B80C-4F9E-A61D-6F4C9CEF1216,,"","","","",gcc-35114
+gcc-152529,A,Compositae,,Andryala,,"rothia",var.,"rothia","",Synonym,,L,TICA,79981424-42A8-492C-99E3-9B7271DD261A,,"","","","",gcc-35114
+gcc-132501,A,Compositae,,Andryala,,"runcinata",,"","Pers.",Synonym,,M,TICA,C2813EC0-2815-48E2-B299-E3660D5BC5D5,176672-1,"","","378","1807",gcc-143897
+gcc-121584,A,Compositae,,Andryala,,"serotina",,"","Porta",Accepted,,M,TICA,4368A6A4-0248-4A6D-BCC5-CA19153CD8B6,176673-1,"","","263","1879",
+gcc-121467,A,Compositae,,Andryala,,"sinuata",,"","Rchb.",Unresolved,,L,TICA,1FAC7660-014B-4936-A212-C9DDBAE3E5F9,,"Ic. Fl. Germ. xiv. 1436.","","xiv. 1436","",
+gcc-30454,A,Compositae,,Andryala,,"sinuata",,"","Willk. & Lange",Synonym,,M,TICA,5168CD96-60FF-4E70-A43F-3856D44FC6C9,,"","","","1865",gcc-117388
+gcc-76003,A,Compositae,,Andryala,,"sinuata",,"","L.",Synonym,,M,TICA,9C7FEBC9-8CCB-42E1-87FA-63B2AE3C9CE7,176675-1,"","","808","1753",gcc-143897
+gcc-5183,A,Compositae,,Andryala,,"sinuata",var.,"intermedia","DC.",Synonym,,L,TICA,EFDA5172-D384-4C79-A077-09AD7159089E,,"Prodr. 7: 246 (1838)","","246","1838",gcc-24740
+gcc-63683,A,Compositae,,Andryala,,"sinuata",subsp.,"laxiflora","(DC.) Nyman",Synonym,,L,TICA,18FDA0AA-0999-44B5-B074-B8B379B48D19,,"""Nyman, Consp. Fl. Eur. 1879.""","","438","1879",gcc-9667
+gcc-148719,A,Compositae,,Andryala,,"sinuata",var.,"sinuata","",Synonym,,L,TICA,AA5AD8E9-6365-4F7F-9B56-4922FC273B76,,"","","","",gcc-143897
+gcc-152306,A,Compositae,,Andryala,,"sinuata",subsp.,"sinuata","",Synonym,,L,TICA,8A2659D1-56A2-497F-843F-96DE14A37B9C,,"","","","",gcc-143897
+gcc-124029,A,Compositae,,Andryala,,"spartioides",,"","Pomel ex Batt. & Trab.",Accepted,,M,TICA,65A09949-A760-48F1-827B-CFC4EC79D258,,"","","566","1889",
+gcc-152919,A,Compositae,,Andryala,,"spartioides",,"","(Batt.) Bonnet & Barratte",Unresolved,,L,TICA,18D06DCF-BCAF-427E-9FF1-A32A429547BE,,"""E. Bonnet, J.F.G. Barratte, Expl. Sci. Tunisie, Cat. Pl.. 1896""","","269","1896",
+gcc-145410,A,Compositae,,Andryala,,"tenuifolia",,"","(Tineo) DC.",Accepted,,M,TICA,E832FC70-23B2-4921-A4CF-0391A5CEFE8B,,"","","244","1838",
+gcc-26319,A,Compositae,,Andryala,,"tenuifolia",,"","Ten.",Synonym,,M,TICA,E7F6FFC8-0E7B-4195-A228-30A2E307F845,,"","","","1842",gcc-24740
+gcc-44824,A,Compositae,,Andryala,,"tenuifolia",var.,"arenaria","Guss. ex DC.",Synonym,,L,TICA,DC909105-F565-4AE4-A095-530752139489,,"Prodr. 7: 245 (1838)","","245","1838",gcc-113488
+gcc-59945,A,Compositae,,Andryala,,"tenuifolia",var.,"lyrata","Guss. ex DC.",Synonym,,L,TICA,2B606D88-7428-4E5C-9880-9A83389E98D3,,"Prodr. 7: 245 (1838)","","245","1838",gcc-24740
+gcc-156413,A,Compositae,,Andryala,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,FE97DC27-5722-4A7B-9A65-ECAE118B3465,,"","","","",gcc-145410
+gcc-112083,A,Compositae,,Andryala,,"tomentosa",,"","Salisb.",Synonym,,M,TICA,FF2C2C24-4DAC-4715-9129-B49CB728C476,176680-1,"""R.A. Salisbury, Prodr. Stirp. Chap. Allerton. 1796""","","182","1796",gcc-117388
+gcc-157320,A,Compositae,,Andryala,,"tomentosa",,"","Delarbre",Accepted,,M,TICA,F777252D-CF6B-47FF-9326-FF6AC73D0E0B,,"""Delarbre, Fl. Auvergne, ed. 2 1. 1836""","","185","1836",
+gcc-21419,A,Compositae,,Andryala,,"tomentosa",,"","Scop.",Unresolved,,L,TICA,7D55B288-D08F-49EC-84DC-27942EC90DED,176681-1,"","","12","1787",
+gcc-86051,A,Compositae,,Andryala,,"tomentosa",,"","Chaix",Unresolved,,L,TICA,F69F15DE-9CBE-4313-8F8F-7A11E94AC252,176682-1,"","","366","1786",
+gcc-127442,A,Compositae,,Andryala,,"undulata",,"","J.Presl & C.Presl",Synonym,,M,TICA,F586ADA0-9523-489A-BB50-D7AAEBBB5588,176683-1,"","","113","1822",gcc-143897
+gcc-147770,A,Compositae,,Andryala,,"undulata",,"","C.Presl",Synonym,,M,TICA,745AD6E8-8526-4A85-84EE-35008D766CEF,176683-1,"""C. Presl - in C. Presl & J. Presl, Delic. Prag.. 1822""","","113","1822",gcc-143897
+gcc-100995,A,Compositae,,Andryala,,"uniflora",,"","Schrank",Synonym,,M,TICA,F7E40293-BDEF-4996-BF95-9BDB81F07D57,,"","","343","1789",gcc-143897
+gcc-102988,A,Compositae,,Andryala,,"varia",,"","Lowe ex DC.",Synonym,Illegitimate,M,TICA,1F688B4D-6DB9-44B7-AF49-A04FC9E1DA5F,176685-1,"","","245","1838",gcc-18511
+gcc-64438,A,Compositae,,Andryala,,"varia",subsp.,"congesta","Lowe",Synonym,,L,TICA,E6491CBF-9EB7-415D-B472-BE83577E5E7F,,"Man. Fl. Madeira 1: 561 (1868)","","561","1868",gcc-18511
+gcc-81012,A,Compositae,,Andryala,,"varia",f.,"coronopifolia","Lowe",Synonym,,L,TICA,258CE2D9-28D1-4694-8B06-6EE24C9FCDD8,,"","","","",gcc-18511
+gcc-90553,A,Compositae,,Andryala,,"varia",f.,"integrifolia","Lowe",Synonym,,L,TICA,05178B5B-40BE-41D8-A2E1-84521559DB29,,"","","","",gcc-18511
+gcc-127488,A,Compositae,,Andryala,,"varia",f.,"latifolia","Lowe",Synonym,,L,TICA,05955F61-2B39-4668-B1E6-D7C2DA316EB5,,"","","","",gcc-18511
+gcc-142205,A,Compositae,,Andryala,,"varia",f.,"roncinata","Lowe",Synonym,,L,TICA,848EE517-0CD0-4553-8473-F92482128330,,"","","","",gcc-18511
+gcc-53787,A,Compositae,,Andryala,,"varia",subsp.,"sparsiflora","Lowe",Synonym,,L,TICA,BFE455E9-661E-4431-8811-68D84A23DD9A,,"Man. Fl. Madeira 1: 563 (1868)","","563","1868",gcc-18511
+gcc-55785,A,Compositae,,Andryala,,"varia",subsp.,"sparsiflora","Menezes",Synonym,,L,TICA,09A0EEF2-6A90-42C8-A4BD-78CF4F38C7D1,,"","","101","1914",gcc-18511
+gcc-149522,A,Compositae,,Andryala,,"varia",f.,"varia","",Synonym,,L,TICA,C2CE5783-E1F5-4622-83BC-5A992A62ADB8,,"","","","",gcc-18511
+gcc-156640,A,Compositae,,Andryala,,"varia",subsp.,"varia","",Synonym,,L,TICA,1A7272BB-18B7-47A7-A7F6-F1607E9516E3,,"","","","",gcc-18511
+gcc-149456,A,Compositae,,Andryala,,"variifolia",,"","Lagr.-Foss.",Synonym,Invalid,M,TICA,9CB09E99-896C-4CCC-84D4-592AF182A9C9,,"""Lagr.-Foss., Fl. Tarn Garonne. 1847""","","231","1847",gcc-143897
+gcc-127457,A,Compositae,,Andryala,,"webbiana",,"","Sch.Bip. ex Webb & Berthel.",Unresolved,,L,TICA,CF7E9FDC-BEFD-487A-9279-D7B48BD4A2CF,176686-1,"","","417","1849",gcc-2452
+gcc-79486,A,Compositae,,Andryala,,"webbii",,"","Christ",Accepted,,M,TICA,49F8FC6E-76F9-4177-8D40-6B8C89883EA6,,"","","","",
+gcc-98459,A,Compositae,,Andryala,,"webbii",,"","(Christ) A.Santos",Synonym,,M,TICA,925DCD1A-0EE5-4764-BC98-963203BD87B1,,"","","275","1983",gcc-2452

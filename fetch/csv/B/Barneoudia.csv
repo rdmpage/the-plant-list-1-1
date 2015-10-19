@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2670315,A,Ranunculaceae,,Barneoudia,,"balliana",,"","Britton",Accepted,,M,WCSP (in review),,29617-2,"Mem. New York Acad. Sci.","6: 236","","1892",
+kew-2670316,A,Ranunculaceae,,Barneoudia,,"chilensis",,"","Gay",Accepted,,M,WCSP (in review),,709112-1,"Fl. Chil.","1: 29","","1845",
+kew-2670317,A,Ranunculaceae,,Barneoudia,,"chilensis",var.,"major","(Phil.) Kurtz",Synonym,,L,WCSP (in review),,29619-2,"Bol. Acad. Nac. Ci.","13: 200","","1893",kew-2670321
+kew-2670318,A,Ranunculaceae,,Barneoudia,,"chilensis",var.,"patagonica","Skottsb.",Unresolved,,L,WCSP (in review),,29620-2,"Kongl. Svenska Vetensk. Acad. Handl.","n.s., 56: 219","","1916",
+kew-2670319,A,Ranunculaceae,,Barneoudia,,"cyanoleuca",,"","Leyb.",Synonym,,M,WCSP (in review),,,"Anales Univ. Chile","1858: 159","","1858",kew-2670316
+kew-2670320,A,Ranunculaceae,,Barneoudia,,"domeykoana",,"","Leyb.",Synonym,,M,WCSP (in review),,,"Anales Univ. Chile","1858: 159","","1858",kew-2670316
+kew-2670321,A,Ranunculaceae,,Barneoudia,,"major",,"","Phil.",Accepted,,M,WCSP (in review),,709114-1,"Linnaea","28: 609","","1856",
+tro-27101432,A,Ranunculaceae,,Barneoudia,,"major",var.,"major","",Synonym,,L,TRO,27101432,,"","","","",kew-2670321
+kew-2670322,A,Ranunculaceae,,Barneoudia,,"major",var.,"patagonica","(Skottsb.) Lourteig",Synonym,,L,WCSP (in review),,29623-2,"Darwiniana","9: 591","","1951",kew-2670318

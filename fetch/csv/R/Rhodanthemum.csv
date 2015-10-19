@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-19912,A,Compositae,,Rhodanthemum,,"arundanum",,"","(Boiss.) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,A7E85311-06F9-44DE-A810-24D26567966F,975144-1,"","","142","1993",
+gcc-145474,A,Compositae,,Rhodanthemum,,"arundanum",var.,"arundanum","",Synonym,,L,TICA,F9DD4C4B-A7FE-4736-9D42-04B29FBED23C,,"","","","",gcc-19912
+gcc-136756,A,Compositae,,Rhodanthemum,,"atlanticum",,"","(Ball) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,CD0386F2-EEF5-407C-B8D4-ECED07D8EA9B,975145-1,"","","142","1993",
+gcc-70351,A,Compositae,,Rhodanthemum,,"atlanticum",subsp.,"atlanticum","",Synonym,,L,TICA,0E5C97C1-4B6E-402B-9B40-ED6840BE75A5,,"","","","",gcc-136756
+gcc-68582,A,Compositae,,Rhodanthemum,,"atlanticum",subsp.,"gelidum","(Maire) Dobignard",Accepted,,L,TICA,29B09CE2-C976-4596-9A1A-DFDAAE6FD61A,77086113-1,"Dobignard in Willdenowia 37. 2007.","","182","2007",
+gcc-102098,A,Compositae,,Rhodanthemum,,"briquetii",,"","(Maire) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,4105EB2A-03FA-416A-892E-9E49847B564C,975146-1,"","","142","1993",
+gcc-117118,A,Compositae,,Rhodanthemum,,"catananche",,"","(Ball) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,35FF8F68-432A-4F56-A39E-BFEE138589D3,975147-1,"","","142","1993",
+gcc-81983,A,Compositae,,Rhodanthemum,,"depressum",,"","(Ball) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,CB445457-50EF-407D-9159-71062AAF21E3,975148-1,"","","142","1993",
+gcc-143437,A,Compositae,,Rhodanthemum,,"floccosa",,"","Pomel",Synonym,,M,TICA,B2D5AD76-F561-4587-8F1D-FBE4A94D2E86,,"","","","",gcc-9667
+gcc-19871,A,Compositae,,Rhodanthemum,,"gayanum",,"","(Coss. & Durieu) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,CC8CB49A-9803-4334-848E-24BF96E220DD,975149-1,"","","142","1993",
+gcc-47695,A,Compositae,,Rhodanthemum,,"gayanum",subsp.,"antiatlanticum","(Emb. & Maire) Vogt & Greuter",Accepted,,L,TICA,B41CD8CF-E2AC-42F1-8FE8-5860169DAFE8,70029014-1,"","","43","2003",
+gcc-11937,A,Compositae,,Rhodanthemum,,"gayanum",subsp.,"demnatense","(Murb.) Vogt",Accepted,,L,TICA,ECF603A4-CA84-4DCF-B33D-164102CA5747,996745-1,"","","304","1996",
+gcc-60414,A,Compositae,,Rhodanthemum,,"gayanum",subsp.,"fallax","(Maire & Weiller) Vogt",Accepted,,L,TICA,CE132FDF-0A19-4F61-862B-9E246E1235E2,77066918-1,"Taxon 54(2): 482. 2005 [17 Jun 2005]","","482","2005",
+gcc-146694,A,Compositae,,Rhodanthemum,,"gayanum",var.,"gayanum","",Synonym,,L,TICA,42D85381-65B8-4E0F-83AF-1DFF4F65400D,,"","","","",gcc-19871
+gcc-58595,A,Compositae,,Rhodanthemum,,"gayanum",subsp.,"gayanum","",Synonym,,L,TICA,FD46F0CC-3D8F-4A9B-907D-9007041B1403,,"","","","",gcc-19871
+gcc-42862,A,Compositae,,Rhodanthemum,,"hosmariense",,"","(Ball) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,AB91F809-9181-4265-8C8F-4F65C453235E,975150-1,"","","142","1993",
+gcc-43023,A,Compositae,,Rhodanthemum,,"ifniense",,"","(Font Quer) M.Ibn Tattou",Accepted,,L,TICA,DFF3C2FE-CCE6-48CB-93D3-4FAFB21A1A50,,"","","49","1998",
+gcc-80689,A,Compositae,,Rhodanthemum,,"kesticum",,"","Gómiz",Accepted,,M,TICA,D09E01B3-8A95-41EB-8851-6E1F1F7B5C04,,"","","364","2001",
+gcc-144205,A,Compositae,,Rhodanthemum,,"laouense",,"","Vogt",Accepted,,M,TICA,8FFFF5ED-BCA0-4A2E-8898-FD92AADC21FD,,"","","91","1994",
+gcc-107508,A,Compositae,,Rhodanthemum,,"maresii",,"","(Coss.) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,2E1F381E-AD03-4DD9-9B0B-AA30EFB97B6E,975151-1,"","","142","1993",
+gcc-92695,A,Compositae,,Rhodanthemum,,"maroccanum",,"","(Batt.) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,AD9EBEA0-E332-40B9-93BC-892C9B7F1698,975152-1,"","","142","1993",
+gcc-132431,A,Compositae,,Rhodanthemum,,"mesatlanticum",,"","(Emb. & Maire) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,E1675612-746D-4D66-B2F6-E3414DCCC9C0,975153-1,"","","142","1993",
+gcc-104744,A,Compositae,,Rhodanthemum,,"pseudocatananche",,"","(Maire) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,AC4896CE-A200-4759-AD30-A422B8232CD3,975154-1,"","","142","1993",
+gcc-83743,A,Compositae,,Rhodanthemum,,"redieri",,"","(Maire) ""B.H.Wilcox, K.Bremer & Humphries""",Accepted,,M,TICA,8C8E3080-6183-490B-8E93-74F20F685124,975155-1,"","","142","1993",
+gcc-71627,A,Compositae,,Rhodanthemum,,"redieri",subsp.,"humbertii","Gómiz",Synonym,,L,TICA,8312F5FB-F643-4A29-AE1E-F790968D1ACE,1016436-1,"","","200","2000",gcc-83743
+gcc-63250,A,Compositae,,Rhodanthemum,,"redieri",subsp.,"redieri","",Synonym,,L,TICA,5C47971F-A8B1-42F3-95B7-B562F7AB62F8,,"","","","",gcc-83743

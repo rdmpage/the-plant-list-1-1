@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-47026,A,Compositae,,Pacourina,,"cirsiifolia",,"","Kunth",Synonym,,M,TICA,E8851398-8A2D-42AE-B163-5723BC20D3C1,,"","","24","1820 [1818]",gcc-128942
+gcc-128942,A,Compositae,,Pacourina,,"edulis",,"","Aubl.",Accepted,,M,TICA,52A4A0FE-9606-45BE-B875-DB2AC814AE36,236351-1,"Hist. Pl. Guiane 2","","800","1775",
+gcc-152504,A,Compositae,,Pacourina,,"edulis",var.,"edulis","",Synonym,,L,TICA,92D86785-6F43-40D5-ACE2-9AC21902E189,,"","","","",gcc-128942
+gcc-58089,A,Compositae,,Pacourina,,"edulis",var.,"spinosissima","Britton",Synonym,,L,TICA,21030DF6-8AD1-4B1F-B657-8BB9171A0993,180027-2,"Ann. New York Acad. Sci. 7","","132","1893",gcc-128942

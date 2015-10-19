@@ -1,0 +1,67 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120234,A,Compositae,,Madia,,"anomala",,"","Greene",Accepted,,M,TICA,F4FEFBE7-946B-4831-AB63-C70686E15E21,,"in Bull. Calif. Acad. i. III. (1885) 91 (Hemizoniae sp.).","","","1885",
+gcc-12343,A,Compositae,,Madia,,"bolanderi",,"","(A.Gray) A.Gray",Synonym,,M,TICA,B3DED430-0EEE-4166-B935-1703A1F407F6,1214375-2,"","","391","1872",gcc-124878
+gcc-120810,A,Compositae,,Madia,,"capitata",,"","Nutt.",Synonym,,M,TICA,26048347-4F1F-4D56-9710-C8611AB74E8C,,"","","386","1841",gcc-120995
+gcc-145537,A,Compositae,,Madia,,"capitata",var.,"capitata","",Synonym,,L,TICA,71981100-45CA-4A5D-A404-0615A7A7A4B3,,"","","","",gcc-120995
+gcc-122257,A,Compositae,,Madia,,"chilensis",,"","(Nutt.) Reiche",Accepted,,M,TICA,8B6764D4-F313-4299-B243-CBA03211CE72,149161-2,"","","156","1903",
+gcc-112865,A,Compositae,,Madia,,"citrigracilis",,"","D.D.Keck",Accepted,,M,TICA,C5947793-A47D-4E63-8F18-B666ABA8893A,149162-2,"","","44","1945",
+gcc-137032,A,Compositae,,Madia,,"citriodora",,"","Greene",Accepted,,L,TICA,B459B704-F443-4CAE-BEE0-ED878C9F5816,,"Bull. Torrey Bot. Club ix. (1882) 63.","","","1882",
+gcc-100117,A,Compositae,,Madia,,"congesta",,"","Nutt. ex Torr. & A.Gray",Unresolved,,L,TICA,1190BCF0-A455-4022-ACB4-99DBF8E1154B,1086882-2,"","","","",
+gcc-28679,A,Compositae,,Madia,,"corymbosa",,"","(DC.) Greene",Unresolved,,L,TICA,218937C6-9E7A-4D21-A175-3502BA045DFB,149163-2,"","","218","1891",
+gcc-20922,A,Compositae,,Madia,,"densifolia",,"","Greene",Synonym,,M,TICA,BF1CB38B-2BF2-4ABE-B58E-26B0E293CD0B,149164-2,"","","167","1897",gcc-54211
+gcc-115275,A,Compositae,,Madia,,"dissitiflora",,"","(Nutt.) Torr. & A.Gray",Synonym,,L,TICA,A6F23C7E-5448-42D9-A079-BBC80E2FF314,231605-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 405","","405","1843",gcc-31722
+gcc-156498,A,Compositae,,Madia,,"dissitiflora",var.,"dissitiflora","",Synonym,,L,TICA,A23A99F3-28F5-4980-90AC-EE3169604F6A,,"","","","",gcc-31722
+gcc-41233,A,Compositae,,Madia,,"doris-nilesiae",,"","T.W.Nelson & J.P.Nelson",Synonym,,M,TICA,96E8873C-F24C-49B8-B4AD-4C6720D402EE,,"","","","1985",gcc-112775
+gcc-103340,A,Compositae,,Madia,,"elegans",,"","D.Don ex Lindl.",Accepted,,M,TICA,5187559D-1485-4C0C-8860-A1118C085D1E,,"Lindl. in Edwards’s Bot. Reg. 1831.","","","1831",
+gcc-121053,A,Compositae,,Madia,,"elegans",,"","D.Don",Unresolved,,L,TICA,DDC6ED9D-9696-4560-B1D9-C8F0BF17D611,,"Lindl. Bot. Reg. t. 1458.","","t. 1458","",
+gcc-54211,A,Compositae,,Madia,,"elegans",var.,"densiflora","(Greene) D.D.Keck",Accepted,,L,TICA,1CDE6CDE-B0D8-4F74-9B45-6C5127CB589F,,"","","","1935",
+gcc-12264,A,Compositae,,Madia,,"elegans",subsp.,"densifolia","(Greene) D.D.Keck",Synonym,,L,TICA,D0AB62F8-3B3C-42E4-B340-16DE912A7AE8,149166-2,"Madroño 3: 4. 1935","","4","1935",gcc-103340
+gcc-64966,A,Compositae,,Madia,,"elegans",var.,"densifolia","(Greene) Jeps.",Synonym,,L,TICA,31D32D97-63F3-4A28-993B-C2B123467D53,149167-2,"Fl. W. Calif. 528. 1901","","528","1901",gcc-103340
+gcc-21064,A,Compositae,,Madia,,"elegans",var.,"elegans","",Synonym,,L,TICA,D3CAED84-1743-4B7F-A7E3-26EA5BDE11AD,,"","","","1831",gcc-103340
+gcc-66528,A,Compositae,,Madia,,"elegans",subsp.,"elegans","",Synonym,,L,TICA,DF404B67-D774-4FC2-A370-CF72A0DA61FD,,"","","","",gcc-103340
+gcc-58408,A,Compositae,,Madia,,"elegans",subsp.,"vernalis","D.D.Keck",Synonym,,L,TICA,45C56860-2B21-4FCD-B757-8E7D45C0187B,149170-2,"Aliso 4: 108. 1958","","108","1958",gcc-103340
+gcc-30096,A,Compositae,,Madia,,"elegans",subsp.,"wheeleri","(A.Gray) D.D.Keck",Synonym,,L,TICA,98252B5C-C4AF-441D-9E6E-37B472819139,149171-2,"Aliso 4: 108. 1958","","108","1958",gcc-103340
+gcc-5035,A,Compositae,,Madia,,"exigua",,"","(Sm.) A.Gray",Accepted,,L,TICA,B6400182-04F9-4BCD-98CA-09679E0C6B93,149172-2,"","","391","1872",
+gcc-78899,A,Compositae,,Madia,,"exigua",,"","(Sm.) Greene",Unresolved,Illegitimate,L,TICA,A76EC81D-26A2-4CB0-8086-6A38B7479953,,"""Erythea, i. (1893) 99; et Man. Bot. San Franc. Bay (1894) 193.""","","","1893",gcc-5035
+gcc-147358,A,Compositae,,Madia,,"exigua",subsp.,"exigua","",Synonym,,L,TICA,9D7D0E43-E78B-43E7-9601-2BE51054191E,,"","","","",gcc-5035
+gcc-12925,A,Compositae,,Madia,,"filipes",,"","A.Gray",Accepted,,M,TICA,C93732F4-24D0-4C97-AC22-1819355D4D82,,"Proc. Amer. Acad. Arts viii. (1873) 391.","","391","",
+gcc-156490,A,Compositae,,Madia,,"filipes",var.,"filipes","",Synonym,,L,TICA,B363C84E-E54E-486E-86F0-EDFDC4214D16,,"","","","",gcc-12925
+gcc-138125,A,Compositae,,Madia,,"glomerata",,"","Hook.",Accepted,,M,TICA,97F97849-44FB-4B38-A12D-EFE8A7C856EC,,"","","24","1834",
+gcc-154297,A,Compositae,,Madia,,"glomerata",var.,"glomerata","",Synonym,,L,TICA,EE0DF875-0131-4140-BF2F-C0BAFB929A5B,,"","","","",gcc-138125
+gcc-31722,A,Compositae,,Madia,,"gracilis",,"","(Sm. ex Sm.) D.D.Keck",Accepted,,L,TICA,DA61A643-E37B-408A-8EA1-3AC987E2921F,149177-2,"Madroño 5: 169. 1940","","169","1940",
+gcc-98290,A,Compositae,,Madia,,"gracilis",,"","(Sm.) D.D.Keck & J.C.Clausen ex Applegate",Unresolved,,L,TICA,91508E78-59A9-478A-B297-95C1C6F2E7A9,,"""Amer. Midl. Naturalist xix. 364(1938); Keck in Madrono, v. 169 (1940)""","","169","1940",
+gcc-60406,A,Compositae,,Madia,,"gracilis",subsp.,"collina","D.D.Keck",Synonym,,L,TICA,4C9FDDBB-7CBF-443E-AA88-9E0CC47A5242,149178-2,"Aliso 4(1):","","108","1958",gcc-31722
+gcc-17207,A,Compositae,,Madia,,"gracilis",subsp.,"gracilis","",Synonym,,L,TICA,7E5B4ADA-C12D-4C7E-A92E-1FCDED9987D2,,"","","","",gcc-31722
+gcc-37682,A,Compositae,,Madia,,"gracilis",subsp.,"pilosa","D.D.Keck",Synonym,,L,TICA,45F0E490-16AE-4CAC-B75F-45E03C74E0C0,149179-2,"Aliso 4(1):","","108-109","1958",gcc-31722
+gcc-106225,A,Compositae,,Madia,,"hallii",,"","D.D.Keck",Synonym,,M,TICA,CC26A217-15CB-4909-BAEA-A74AD0FD10E9,149180-2,"","","5","1935",gcc-130800
+gcc-127108,A,Compositae,,Madia,,"hirsuta",,"","Meyen",Unresolved,,L,TICA,DA63D379-8C73-4B10-B368-D6DB20B5E80E,231612-1,"Reise Erde 1: 311","","311","1834",
+gcc-131977,A,Compositae,,Madia,,"hispida",,"","(DC.) Greene",Unresolved,,L,TICA,839CCFB8-8F0E-4BA3-8889-E22C8C40F90C,149181-2,"","","217","1891",
+gcc-120689,A,Compositae,,Madia,,"madioides",,"","(Nutt.) Greene",Synonym,,M,TICA,9E2A343A-A54C-4944-A1F2-C8214411210F,149182-2,"","","193","1894",gcc-46679
+gcc-28423,A,Compositae,,Madia,,"madioidss",,"","Piper",Unresolved,,L,TICA,E837E9D9-1824-417C-A69F-3482F4D32070,231615-1,"Contr. U. S. Natl. Herb. xi. 517 (1906).","","xi. 517","1906",
+gcc-12638,A,Compositae,,Madia,,"mellita",,"","J.F.Gmel.",Unresolved,,L,TICA,9F2ADF9E-7CFB-4286-9C9A-178F99DABD2B,231616-1,"""Syst. Nat., ed. 13[bis]. 2(2): 1249""","","1249","1792",
+gcc-87146,A,Compositae,,Madia,,"mellosa",,"","Molina",Unresolved,,L,TICA,82BDB656-4E5E-4082-82AE-7C985D35AF95,231617-1,"Sag. Stor. Nat. Chili 137","","137","1782",
+gcc-136126,A,Compositae,,Madia,,"minima",,"","(A.Gray) D.D.Keck",Synonym,,L,TICA,D00458EE-3B7E-48A9-A658-EB7F6D24B763,149183-2,"","","22","1949",gcc-42920
+gcc-135064,A,Compositae,,Madia,,"nutans",,"","(Greene) D.D.Keck",Synonym,,M,TICA,AC4BB70F-3587-49C8-80E8-E924596FA85B,231619-1,"","","5","1935",gcc-50026
+gcc-116082,A,Compositae,,Madia,,"nuttallii",,"","A.Gray",Unresolved,,L,TICA,C8B37621-CE43-4468-B2C5-BD9FCE78B152,,"Proc. Amer. Acad. Arts viii. (1873) 391.","","391","",
+gcc-126783,A,Compositae,,Madia,,"polycarpaea",,"","E.H.L.Krause",Unresolved,,L,TICA,0EAF8074-D937-4214-B28C-D61878459978,,"","","","1914",
+gcc-30548,A,Compositae,,Madia,,"polycarpha",,"","Greene",Unresolved,,L,TICA,C274B6D1-26FA-4716-962F-388ACF57332F,,"","","","1897",
+gcc-79006,A,Compositae,,Madia,,"pumila",,"","D.D.Keck",Unresolved,,L,TICA,A58B82AF-0C45-4945-9ED4-6A82A04B3543,149188-2,"""Bot. Gaz. 95: 204, fig. 1933 Chromosomes""","","""204, fig""","1933",
+gcc-91071,A,Compositae,,Madia,,"racemosa",,"","(Nutt.) Torr. & A.Gray",Unresolved,,L,TICA,6CB3BBB5-BD73-464E-BE5E-8582087FD7FE,231623-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 405","","405","1843",
+gcc-84265,A,Compositae,,Madia,,"radiata",,"","Kellogg",Accepted,,M,TICA,5B22EE99-843D-4851-8A9C-7626B36DBDD5,149189-2,"Proc. Calif. Acad. Sci. 4","","190","1870",
+gcc-115988,A,Compositae,,Madia,,"rammii",,"","Greene",Synonym,,M,TICA,6441FE08-95E2-4DEE-82D1-BD6A61B42A71,,"","","","1885",gcc-94723
+gcc-111376,A,Compositae,,Madia,,"ramosa",,"","Piper",Unresolved,,L,TICA,35D1F65C-FB50-4CFC-B996-B2F918DC237F,149191-2,"","","222","1902",
+gcc-120995,A,Compositae,,Madia,,"sativa",,"","Molina",Accepted,,M,TICA,5E4B4DF8-172D-4E36-810F-C8CF39C7676C,231627-1,"Sag. Stor. Nat. Chili 136 (1782)","","136","1782",
+gcc-21204,A,Compositae,,Madia,,"sativa",subsp.,"capitata","(Nutt.) Piper",Synonym,,L,TICA,F8483B04-4411-4F25-930D-272A013936B9,149192-2,"Contr. U. S. Natl. Herb. 11: 576. 1906","","576","1906",gcc-120995
+gcc-32320,A,Compositae,,Madia,,"sativa",var.,"congesta","Torr. & A.Gray",Synonym,,L,TICA,12C4813A-6047-4D28-BCE9-3BE68813CDE5,149193-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 404. 1843 [Feb 1843] In synon","","404","1843",gcc-120995
+gcc-152351,A,Compositae,,Madia,,"sativa",subsp.,"sativa","",Synonym,,L,TICA,E808A2C8-FA9F-479E-A45B-9788C4240B74,,"","","","",gcc-120995
+gcc-59179,A,Compositae,,Madia,,"sativa",var.,"sativa","",Synonym,,L,TICA,42F76DDE-2567-4158-A96F-9471F3CBD307,,"","","","",gcc-120995
+gcc-126981,A,Compositae,,Madia,,"stebbinsii",,"","T.W.Nelson & J.P.Nelson",Synonym,,M,TICA,D859409A-1E41-47D2-86D5-D68B8919D29F,,"","","","1980",gcc-91902
+gcc-114790,A,Compositae,,Madia,,"stellata",,"","Fisch. & C.A.Mey.",Unresolved,,L,TICA,92A0BD31-3C12-45AB-A489-BAAE2321D672,231630-1,"","","","1836",
+gcc-99003,A,Compositae,,Madia,,"subspicata",,"","D.D.Keck",Accepted,,M,TICA,3FE320A5-6BC4-407A-9532-97645B116361,149201-2,"","","45","1945",
+gcc-40228,A,Compositae,,Madia,,"tenella",,"","Greene",Unresolved,,L,TICA,57BEAFB9-1D3B-4F56-A5DA-4A9794966E4E,149202-2,"","","167","1897",
+gcc-107806,A,Compositae,,Madia,,"valida",,"","Brandegee",Synonym,,M,TICA,ADA1672D-B4EF-4ED1-8304-AAF202DF0A35,149203-2,"","","206","1893",gcc-139976
+gcc-44571,A,Compositae,,Madia,,"villosa",,"","Eastw.",Unresolved,,L,TICA,A428B8F9-20F9-4160-A269-5293181C4A79,,"","","293","1902",
+gcc-29885,A,Compositae,,Madia,,"viscosa",,"","Cav.",Synonym,,M,TICA,86042672-BAA8-4BA6-BEAD-374183665EBA,,"Ic. iii. 50.","","","",gcc-120995
+gcc-91094,A,Compositae,,Madia,,"wheeleri",,"","(A.Gray) D.D.Keck",Unresolved,,L,TICA,5A1EF107-5FC6-423B-8F0B-859010E0B3BC,231636-1,"","","4","1935",
+gcc-131928,A,Compositae,,Madia,,"yosemitana",,"","Parry",Unresolved,,L,TICA,1339DBA8-028E-45E7-B2CC-E20F256DB4DC,1058591-2,"","","","",
+gcc-33687,A,Compositae,,Madia,,"yosemitana",,"","Parry ex A.Gray",Synonym,,M,TICA,1E0282B8-D329-4A1C-9C9A-3E71D156AAA9,149206-2,"","","219","1882",gcc-34073

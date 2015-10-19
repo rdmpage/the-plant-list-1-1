@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-426498,A,Poaceae,,Oreochloa,,"blanka",,"","Deyl",Accepted,,H,WCSP,426498,409949-1,"Opera Bot. Cech.","3: 244","","1946",
+kew-426499,A,Poaceae,,Oreochloa,,"confusa",,"","(Coincy) Rouy",Accepted,,H,WCSP,426499,409950-1,"Fl. France","14: 168","","1913",
+kew-426500,A,Poaceae,,Oreochloa,,"disticha",,"","(Wulfen) Link",Accepted,,H,WCSP,426500,409951-1,"Hort. Berol.","1: 44","","1827",
+kew-426501,A,Poaceae,,Oreochloa,,"disticha",subsp.,"blanka","(Deyl) Kupfer",Synonym,,L,WCSP,426501,,"Boissiera","23: 54","","1974",kew-426498
+tro-100377613,A,Poaceae,,Oreochloa,,"disticha",subsp.,"pedemontana","(Reut.) Douin",Synonym,,L,TRO,100377613,,"Bonn. Fl. Compl.","11: 124","124","",kew-426504
+kew-426502,A,Poaceae,,Oreochloa,,"elegans",,"","Sennen",Synonym,Invalid,H,WCSP,426502,409952-1,"Bull. Soc. Bot. France","74: 406","","1927",kew-426498
+kew-426503,A,Poaceae,,Oreochloa,,"pedemontana",,"","Reut.",Synonym,,H,WCSP,426503,409953-1,"Pugill. Pl. Afr. Bor. Hispan.","126","","1852",kew-426504
+kew-426504,A,Poaceae,,Oreochloa,,"seslerioides",,"","(All.) K.Richt.",Accepted,,H,WCSP,426504,409954-1,"Pl. Eur.","1: 78","","1890",
+tro-100377614,A,Poaceae,,Oreochloa,,"seslerioides",subsp.,"confusa","(Coincy) Sennen & Pau",Synonym,,L,TRO,100377614,,"Bull. Acad. Int. Géogr. Bot.","18: 468","468","1908",kew-426499

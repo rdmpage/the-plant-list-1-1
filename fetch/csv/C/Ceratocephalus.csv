@@ -1,0 +1,56 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92229,A,Compositae,,Ceratocephalus,,"acmella",,"","(L.) Kuntze",Synonym,,L,TICA,46F2CEFE-C144-48D0-A10C-8827A1AC7701,52468-2,"Revis. Gen. Pl. 1","","326","1891",gcc-96938
+gcc-156536,A,Compositae,,Ceratocephalus,,"acmella",var.,"acmella","",Synonym,,L,TICA,99ACD7FE-1779-4D05-8E3E-EF265D971531,,"","","","",gcc-96938
+gcc-25780,A,Compositae,,Ceratocephalus,,"acmella",var.,"depauperata","Kuntze",Synonym,,L,TICA,F3DFEA7B-169F-4CE2-B708-2FA0AE44D1F9,52469-2,"Revis. Gen. Pl. 1: 326. 1891.","","326","1891",gcc-9379
+gcc-60150,A,Compositae,,Ceratocephalus,,"acmella",var.,"uliginosa","(Sw.) Kuntze",Synonym,,L,TICA,CFF8BC67-C754-4001-85D1-9C06DA6B8442,52470-2,"Revis. Gen. Pl. 1","","326","1891",gcc-9379
+gcc-125891,A,Compositae,,Ceratocephalus,,"americanus",,"","(L.f.) Kuntze",Synonym,Illegitimate,M,TICA,562AA5E0-0E12-4B99-A4EF-D41A37DCC6D5,52471-2,"Revis. Gen. Pl. 1","","326","1891",gcc-116244
+gcc-104851,A,Compositae,,Ceratocephalus,,"anactinus",,"","(F.Muell.) Kuntze",Synonym,,M,TICA,195F39BC-CFC1-464C-AE4A-A4599BBFE49C,192125-1,"Revis. Gen. Pl. 1","","326","1891",gcc-27605
+gcc-78669,A,Compositae,,Ceratocephalus,,"arnicodes",,"","(DC.) Kuntze",Synonym,,M,TICA,BE987D74-2C6C-4F5C-90D4-69A755A4334F,52472-2,"Revis. Gen. Pl. 1","","326","1891",gcc-3280
+gcc-137679,A,Compositae,,Ceratocephalus,,"beccabunga",,"","(DC.) Kuntze",Synonym,,M,TICA,4CB0B4B0-3892-45B2-982D-EEFD749E223E,52473-2,"Revis. Gen. Pl. 1","","326","1891",gcc-34410
+gcc-104783,A,Compositae,,Ceratocephalus,,"bicolor",,"","Kuntze",Synonym,,M,TICA,9CEEDD06-FBC2-44A4-8FAA-A433E0EA0653,52474-2,"Revis. Gen. Pl. 1","","326","1891",gcc-112061
+gcc-147120,A,Compositae,,Ceratocephalus,,"caespitosa",,"","(DC.) Kuntze",Synonym,,M,TICA,BFFDB65D-6B28-407D-AD7D-26F0A015D40B,,"","","","",gcc-40685
+gcc-77295,A,Compositae,,Ceratocephalus,,"caespitosus",,"","(DC.) Kuntze",Synonym,,M,TICA,D7742603-EFAA-47D8-8B83-668F8F2F1CB6,52475-2,"Revis. Gen. Pl. 1","","326","1891",gcc-40685
+gcc-123628,A,Compositae,,Ceratocephalus,,"ciliatus",,"","(Kunth) Kuntze",Synonym,,M,TICA,B732EDFF-5CC2-40EF-9C95-CEC7E255AE38,52476-2,"Revis. Gen. Pl. 1","","326","1891",gcc-134628
+gcc-137847,A,Compositae,,Ceratocephalus,,"commutatus",,"","(K.Koch) Kuntze",Synonym,,M,TICA,716CF845-C4AB-4E7D-9E6A-EF55079F1B56,52477-2,"Revis. Gen. Pl. 1","","326","1891",gcc-137757
+gcc-136244,A,Compositae,,Ceratocephalus,,"debilis",,"","(Kunth) Kuntze",Synonym,,M,TICA,4D06E1E1-E7F3-4A1D-80F2-EBC4F816FE62,52478-2,"Revis. Gen. Pl. 1","","326","1891",gcc-30342
+gcc-13488,A,Compositae,,Ceratocephalus,,"decumbens",,"","(Sm.) Kuntze",Synonym,,M,TICA,87016B19-2342-4BE7-99A3-191C880C6528,52479-2,"Revis. Gen. Pl. 1","","326","1891",gcc-121488
+gcc-155778,A,Compositae,,Ceratocephalus,,"decumbens",var.,"decumbens","",Synonym,,L,TICA,4ECDD3A6-5211-4E75-A147-DFB807684AE0,,"","","","",gcc-121488
+gcc-69818,A,Compositae,,Ceratocephalus,,"decumbens",var.,"doronicoides","(DC.) Kuntze",Synonym,,L,TICA,E0F15ABE-27FC-48FA-AC18-E953F01872E1,52480-2,"","","140","1898",gcc-3280
+gcc-17222,A,Compositae,,Ceratocephalus,,"decumbens",var.,"macropodus","(DC.) Kuntze",Synonym,,L,TICA,D3E74D11-9AE8-4EFB-A42C-1FD4AC42F518,,"","","140","",gcc-121488
+gcc-43513,A,Compositae,,Ceratocephalus,,"diffusus",,"","(Poepp.) Kuntze",Synonym,,M,TICA,2072D506-2934-427C-9D7B-50AD4B987409,52481-2,"Revis. Gen. Pl. 1","","326","1891",gcc-34410
+gcc-7961,A,Compositae,,Ceratocephalus,,"ecliptodes",,"","(Gardner) Kuntze",Synonym,,M,TICA,7A8B9CC2-BF2D-44C6-AB58-0ECF1552A268,52482-2,"Revis. Gen. Pl. 1","","326","1891",gcc-115950
+gcc-117958,A,Compositae,,Ceratocephalus,,"exasperatus",,"","(Jacq.) Kuntze",Synonym,,M,TICA,D1851AEE-8038-403E-996C-C1D166DCF20B,52483-2,"Revis. Gen. Pl. 1","","326","1891",gcc-34111
+tro-27103016,A,Ranunculaceae,,Ceratocephalus,,"falcata",,"","Pers.",Unresolved,,L,TRO,27103016,,"Syn.",": 341","341","1805",
+gcc-126940,A,Ranunculaceae,,Ceratocephalus,,"falcatus",,"","(L.) Pers.",Accepted,,M,TICA,3F5AB0D8-D632-428E-9210-D677D22D0D0D,,"","","","",
+gcc-151355,A,Ranunculaceae,,Ceratocephalus,,"falcatus",var.,"falcatus","",Synonym,,L,TICA,9F475125-9910-45A6-8C16-82C465AE0133,,"","","","",gcc-126940
+gcc-24697,A,Ranunculaceae,,Ceratocephalus,,"falcatus",subsp.,"falcatus","",Synonym,,L,TICA,CCD38056-4D31-4E60-9CA4-2D9CEEB1A5EF,,"","","","",gcc-126940
+gcc-51128,A,Ranunculaceae,,Ceratocephalus,,"falcatus",subsp.,"incurvus","(Steven) Chrtek & Chrtková",Accepted,,L,TICA,EF2B782F-0A9D-4D33-9AC2-5ED93559ADD8,,"","","","",
+gcc-28309,A,Ranunculaceae,,Ceratocephalus,,"falcatus",var.,"orthoceras","(DC.) Batt. & Trab.",Synonym,,L,TICA,0A24943C-767C-4072-B240-344BA0A952FA,,"","","","",gcc-87871
+gcc-14889,A,Compositae,,Ceratocephalus,,"fimbriatus",,"","(Kunth) Kuntze",Synonym,,M,TICA,EAFFB791-D1E7-44B4-9716-1B94D31E7AEA,52484-2,"Revis. Gen. Pl. 1","","326","1891",gcc-134628
+gcc-126954,A,Ranunculaceae,,Ceratocephalus,,"furfuraceus",,"","Pomel",Synonym,,M,TICA,091972F3-A6AC-4F27-AB17-D67C9225FBA9,,"","","","",gcc-51128
+tro-50042060,A,Ranunculaceae,,Ceratocephalus,,"glaber",,"","Janisch.",Unresolved,,L,TRO,50042060,,"","6","6","1926",
+gcc-93682,A,Compositae,,Ceratocephalus,,"grandiflora",,"","(Turcz.) Kuntze",Synonym,,M,TICA,606A8124-121A-44A2-B4FD-8B385EEFBDD1,192138-1,"Revis. Gen. Pl. 1","","326","1891",gcc-75418
+gcc-117536,A,Ranunculaceae,,Ceratocephalus,,"incurvus",,"","Steven",Synonym,,M,TICA,ECE01F68-81D2-489E-9E6C-C0E80CFEE2A3,,"","","","",gcc-51128
+gcc-138419,A,Compositae,,Ceratocephalus,,"insipidus",,"","(Jacq.) Kuntze",Synonym,,M,TICA,2A1C7376-1E17-40B1-ACD4-F0880870ED6F,52485-2,"Revis. Gen. Pl. 1","","326","1891",gcc-114824
+gcc-123553,A,Compositae,,Ceratocephalus,,"javanicus",,"","(Sch.Bip. ex Miq.) Kuntze",Synonym,,M,TICA,AAB4CBB8-5C5A-4A92-A9B8-CE992F6C83DF,192140-1,"Revis. Gen. Pl. 1","","326","1891",gcc-144670
+tro-50123237,A,Ranunculaceae,,Ceratocephalus,,"karvinskianus",,"","(DC.) Kuntze",Accepted,,M,TRO,50123237,,"Revis. Gen. Pl.","1: 326","326","1891",
+gcc-22047,A,Compositae,,Ceratocephalus,,"karwinskianus",,"","(DC.) Kuntze",Synonym,,M,TICA,46083976-DB1C-4EB5-A645-28C7323AD3EB,52486-2,"Revis. Gen. Pl. 1","","326","1891",gcc-115950
+gcc-16137,A,Compositae,,Ceratocephalus,,"leiocarpus",,"","(DC.) Kuntze",Synonym,,M,TICA,ACC77EB9-0F56-4C52-B853-1DDBAE8D9710,52487-2,"Revis. Gen. Pl. 1","","326","1891",gcc-45345
+gcc-78048,A,Compositae,,Ceratocephalus,,"leucanthus",,"","(Kunth) Kuntze",Synonym,,M,TICA,E772B674-C97A-4F69-B6CF-683852D3227F,52488-2,"Revis. Gen. Pl. 1","","326","1891",gcc-123004
+gcc-25983,A,Compositae,,Ceratocephalus,,"macropodus",,"","Kuntze",Synonym,,M,TICA,98FE516F-1792-4BBA-B3E6-30051FA568C9,52489-2,"Revis. Gen. Pl. 1","","326","1891",gcc-121488
+gcc-114817,A,Compositae,,Ceratocephalus,,"nitidus",,"","(La Llave) Kuntze",Synonym,,M,TICA,0A834DB6-0C2B-4CE6-A0DB-BABAEDB9A878,52490-2,"Revis. Gen. Pl. 1","","326","1891",gcc-135340
+gcc-18939,A,Ranunculaceae,,Ceratocephalus,,"orthoceras",,"","DC.",Synonym,,M,TICA,18EC521E-8B4A-417B-9A26-22F5C46D7AAA,,"","","","",gcc-87871
+gcc-129742,A,Compositae,,Ceratocephalus,,"papposus",,"","(Hemsl.) Kuntze",Synonym,,M,TICA,9DC3D9CD-2D07-473A-A80F-DCFA21784B3E,52491-2,"Revis. Gen. Pl. 1","","326","1891",gcc-109621
+gcc-52728,A,Compositae,,Ceratocephalus,,"parvifolius",,"","(Benth.) Kuntze",Synonym,,M,TICA,1AD1D9E3-1CCE-41F6-B6FE-61C283445B11,52492-2,"Revis. Gen. Pl. 1","","326","1891",gcc-24901
+gcc-134010,A,Compositae,,Ceratocephalus,,"pilosus",,"","Rich. ex Cass.",Synonym,,M,TICA,11D86385-9C55-4CFE-B272-E6DC136D7B0D,,"","","","1817",gcc-77369
+gcc-134437,A,Compositae,,Ceratocephalus,,"poeppigii",,"","(DC.) Kuntze",Synonym,,M,TICA,E9AADD6C-B075-4880-89DF-E7D1D40FFEA8,52493-2,"Revis. Gen. Pl. 1","","326","1891",gcc-134628
+gcc-98611,A,Compositae,,Ceratocephalus,,"ramosus",,"","(Hemsl.) Kuntze",Synonym,,M,TICA,FDAE037C-72CC-4E1B-AB13-9680DDABC880,52494-2,"Revis. Gen. Pl. 1","","326","1891",gcc-92520
+gcc-114965,A,Compositae,,Ceratocephalus,,"repens",,"","(Walter) Kuntze",Synonym,,M,TICA,4FCB69EC-B856-46BF-AF10-BB137E277CF2,52495-2,"Revis. Gen. Pl. 1","","326","1891",gcc-34410
+gcc-81826,A,Compositae,,Ceratocephalus,,"salivaria",,"","(Murray) Kuntze",Synonym,,M,TICA,85F907F0-B174-427E-A801-70A8ADF1CE14,52496-2,"Revis. Gen. Pl. 1","","326","1891",gcc-32473
+gcc-13516,A,Compositae,,Ceratocephalus,,"sessilifolius",,"","(Hemsl.) Kuntze",Synonym,,M,TICA,293A7CFB-B124-4661-9952-1927F8ABD1F9,52497-2,"Revis. Gen. Pl. 1","","326","1891",gcc-115950
+gcc-3960,A,Compositae,,Ceratocephalus,,"sessilis",,"","(Poepp. & Endl.) Kuntze",Synonym,,M,TICA,E0DD1982-C9B9-43DD-A4C0-07581A88BE71,52498-2,"Revis. Gen. Pl. 1","","326","1891",gcc-29986
+gcc-110711,A,Compositae,,Ceratocephalus,,"subhirsutus",,"","(DC.) Kuntze",Synonym,,M,TICA,506021EA-E077-42C5-8C38-B1884A1EC4DB,52499-2,"Revis. Gen. Pl. 1","","326","1891",gcc-34410
+gcc-4426,A,Compositae,,Ceratocephalus,,"tenellus",,"","(Kunth) Kuntze",Synonym,,M,TICA,4104F729-8575-4E7B-9134-083AAC0DB069,52500-2,"Revis. Gen. Pl. 1","","326","1891",gcc-30342
+gcc-87871,A,Ranunculaceae,,Ceratocephalus,,"testiculatus",,"","(Crantz) Roth",Accepted,,M,TICA,60285116-0832-4DA2-A726-7E35D7652BBF,,"","","","",
+gcc-29379,A,Compositae,,Ceratocephalus,,"urens",,"","(Jacq.) Kuntze",Synonym,,M,TICA,FCA4BA05-DF77-4DEF-B2D5-3647A1515DBC,52501-2,"Revis. Gen. Pl. 1","","326","1891",gcc-137611
+gcc-124233,A,Ranunculaceae,,Ceratocephalus,,"wedeliodes",,"","(Hook. & Arn.) Kuntze",Unresolved,,L,TICA,BF5F852F-002E-49AD-A49D-D03454FA5014,52502-2,"Revis. Gen. Pl. 1","","326","1891",

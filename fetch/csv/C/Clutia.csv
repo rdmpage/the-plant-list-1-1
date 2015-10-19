@@ -1,0 +1,230 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-43853,A,Peraceae,,Clutia,,"abyssinica",,"","Jaub. & Spach",Accepted,,H,WCSP,43853,341499-1,"Ill. Pl. Orient.","5: 77","","1855",
+kew-43854,A,Peraceae,,Clutia,,"abyssinica",var.,"abyssinica","",Synonym,,L,WCSP,43854,,"Unknown","","","",kew-43853
+kew-43855,A,Peraceae,,Clutia,,"abyssinica",var.,"calvescens","Pax & K.Hoffm.",Synonym,,L,WCSP,43855,,"Pflanzenr.","IV, 147, III: 57","","1911",kew-43853
+kew-43856,A,Peraceae,,Clutia,,"abyssinica",var.,"deserticola","Volkens",Synonym,,L,WCSP,43856,,"Bot. Jahrb. Syst.","23: 531","","1897",kew-43853
+kew-43857,A,Peraceae,,Clutia,,"abyssinica",var.,"firma","Pax & K.Hoffm.",Synonym,,L,WCSP,43857,,"Pflanzenr.","IV, 147, III: 57","","1911",kew-43853
+kew-43858,A,Peraceae,,Clutia,,"abyssinica",var.,"glabra","Pax",Synonym,,L,WCSP,43858,,"Pflanzenr.","IV, 147, III: 57","","1911",kew-43853
+kew-43859,A,Peraceae,,Clutia,,"abyssinica",var.,"ovalifolia","Pax & K.Hoffm.",Synonym,,L,WCSP,43859,,"Pflanzenr.","IV, 147, III: 57","","1911",kew-43861
+kew-43860,A,Peraceae,,Clutia,,"abyssinica",var.,"pedicellaris","(Pax) Pax",Accepted,,L,WCSP,43860,,"Pflanzenr.","IV, 147, III: 57","","1911",
+kew-43861,A,Peraceae,,Clutia,,"abyssinica",var.,"usambarica","Pax & K.Hoffm.",Accepted,,L,WCSP,43861,,"Pflanzenr.","IV, 147, III: 57","","1911",
+kew-43863,A,Peraceae,,Clutia,,"acuminata",,"","E.Mey. ex Sond.",Synonym,Illegitimate,H,WCSP,43863,341502-1,"Linnaea","23: 125","","1850",kew-44001
+kew-43862,A,Phyllanthaceae,,Clutia,,"acuminata",,"","Thunb.",Synonym,Illegitimate,H,WCSP,43862,341501-1,"Prodr. Pl. Cap.","53","","1794",kew-106757
+kew-43864,A,Phyllanthaceae,,Clutia,,"acuminata",,"","L.f.",Synonym,,H,WCSP,43864,341500-1,"Suppl. Pl.","432","","1782",kew-106757
+kew-43865,A,Peraceae,,Clutia,,"affinis",,"","Sond.",Accepted,,H,WCSP,43865,341503-1,"Linnaea","23: 126","","1850",
+kew-43867,A,Peraceae,,Clutia,,"affinis",var.,"phyllanthifolia","(Baill.) Müll.Arg.",Synonym,,L,WCSP,43867,,"Prodr.","15(2): 1051","","1866",kew-43865
+kew-43868,A,Peraceae,,Clutia,,"africana",,"","Poir.",Accepted,,H,WCSP,43868,341504-1,"Encycl.","Suppl. 2: 302","","1811",
+kew-43869,A,Peraceae,,Clutia,,"alaternoides",,"","L.",Accepted,,H,WCSP,43869,341505-1,"Sp. Pl.","1042","","1753",
+tro-12803054,A,Peraceae,,Clutia,,"alaternoides",var.,"alaternoides","",Synonym,,L,TRO,12803054,,"","","","",kew-43869
+kew-43871,A,Peraceae,,Clutia,,"alaternoides",var.,"angustifolia","Müll.Arg.",Synonym,,L,WCSP,43871,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43872,A,Peraceae,,Clutia,,"alaternoides",f.,"brachyphylla","Müll.Arg.",Synonym,,L,WCSP,43872,,"Prodr.","15(2): 1048","","1866",kew-44054
+kew-43873,A,Peraceae,,Clutia,,"alaternoides",f.,"brevifolia","Müll.Arg.",Synonym,,L,WCSP,43873,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43875,A,Peraceae,,Clutia,,"alaternoides",f.,"elliptica","Müll.Arg.",Synonym,,L,WCSP,43875,,"Prodr.","15(2): 1048","","1866",kew-44051
+kew-43878,A,Peraceae,,Clutia,,"alaternoides",f.,"glauca","(Pax ex Zahlbr.) Pax",Synonym,,L,WCSP,43878,,"Pflanzenr.","IV, 147, III: 70","","1911",kew-43869
+kew-43879,A,Peraceae,,Clutia,,"alaternoides",f.,"grandifolia","(Krauss) Pax",Synonym,,L,WCSP,43879,,"Pflanzenr.","IV, 147, III: 68","","1911",kew-44051
+kew-43880,A,Peraceae,,Clutia,,"alaternoides",f.,"imbricata","Müll.Arg.",Synonym,,L,WCSP,43880,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43881,A,Peraceae,,Clutia,,"alaternoides",var.,"lanceolata","(Sond.) Müll.Arg.",Synonym,,L,WCSP,43881,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43882,A,Peraceae,,Clutia,,"alaternoides",f.,"lanceolata","Sond.",Synonym,,L,WCSP,43882,,"Linnaea","23: 128","","1850",kew-43869
+kew-43883,A,Peraceae,,Clutia,,"alaternoides",var.,"latifolia","Sond.",Synonym,,L,WCSP,43883,,"Linnaea","23: 127","","1850",kew-43868
+kew-43884,A,Peraceae,,Clutia,,"alaternoides",f.,"leptophylla","Müll.Arg.",Synonym,,L,WCSP,43884,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43885,A,Peraceae,,Clutia,,"alaternoides",f.,"longifolia","Müll.Arg.",Synonym,,L,WCSP,43885,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43886,A,Peraceae,,Clutia,,"alaternoides",var.,"major","Krauss",Synonym,,L,WCSP,43886,,"Flora","28: 82","","1845",kew-43868
+kew-43887,A,Peraceae,,Clutia,,"alaternoides",var.,"microphylla","Müll.Arg.",Synonym,,L,WCSP,43887,,"Prodr.","15(2): 1048","","1866",kew-44052
+kew-43888,A,Peraceae,,Clutia,,"alaternoides",f.,"oblongata","Müll.Arg.",Synonym,,L,WCSP,43888,,"Prodr.","15(2): 1048","","1866",kew-44051
+kew-43889,A,Peraceae,,Clutia,,"alaternoides",f.,"obovata","Müll.Arg.",Synonym,,L,WCSP,43889,,"Prodr.","15(2): 1048","","1866",kew-43869
+kew-43891,A,Peraceae,,Clutia,,"alaternoides",f.,"revoluta","Sond.",Synonym,,L,WCSP,43891,,"Linnaea","23: 128","","1850",kew-44016
+kew-43893,A,Peraceae,,Clutia,,"alpina",,"","Prain",Accepted,,H,WCSP,43893,341506-1,"Bull. Misc. Inform. Kew","1913: 403","","1913",
+kew-43894,A,Peraceae,,Clutia,,"ambigua",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,43894,,"Pflanzenr.","IV, 147, III: 82","","1911",kew-43930
+kew-43895,A,Phyllanthaceae,,Clutia,,"androgyna",,"","L.",Synonym,,H,WCSP,43895,341508-1,"Mant. Pl.","1: 128","","1767",kew-186394
+kew-43896,A,Peraceae,,Clutia,,"angulata",,"","Burch. ex Prain",Synonym,,H,WCSP,43896,341509-1,"Bull. Misc. Inform. Kew","1913: 396","","1913",kew-43869
+kew-43897,A,Peraceae,,Clutia,,"angustifolia",,"","Knauf",Accepted,,H,WCSP,43897,,"Bot. Jahrb. Syst.","30: 340","","1901",
+kew-43898,A,Peraceae,,Clutia,,"anomala",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,43898,,"Pflanzenr.","IV, 147, VII: 405","","1914",kew-43853
+kew-43899,A,Peraceae,,Clutia,,"benguelensis",,"","Müll.Arg.",Accepted,,H,WCSP,43899,341512-1,"J. Bot.","2: 337","","1864",
+kew-43900,A,Phyllanthaceae,,Clutia,,"berberifolia",,"","Pax",Synonym,,H,WCSP,43900,,"Pflanzenr.","IV, 147, III: 83","","1911",kew-153515
+kew-43901,A,Euphorbiaceae,,Clutia,,"berteroana",,"","Sieber ex Pax",Synonym,,H,WCSP,43901,,"Pflanzenr.","IV, 147, III: 83","","1911",kew-63327
+kew-43902,A,Peraceae,,Clutia,,"brachyadenia",,"","Volkens ex Pax",Synonym,,H,WCSP,43902,,"Pflanzenr.","IV, 147, III: 61","","1911",kew-43963
+kew-43903,A,Peraceae,,Clutia,,"brassii",,"","Brenan",Accepted,,H,WCSP,43903,341495-1,"Mem. New York Bot. Gard.","9: 71","","1954",
+kew-43904,A,Peraceae,,Clutia,,"brevifolia",,"","Sond.",Accepted,,H,WCSP,43904,341516-1,"Linnaea","23: 125","","1850",
+kew-43905,A,Euphorbiaceae,,Clutia,,"cascarilla",,"","L.",Synonym,,H,WCSP,43905,341517-1,"Sp. Pl.","1042","","1753",kew-49852
+kew-43906,A,Peraceae,,Clutia,,"cinerea",,"","Burm. ex Prain",Synonym,Illegitimate,H,WCSP,43906,341518-1,"Bull. Misc. Inform. Kew","1913: 412","","1913",kew-43914
+kew-43907,A,Phyllanthaceae,,Clutia,,"collina",,"","Roxb.",Synonym,,H,WCSP,43907,341519-1,"Pl. Coromandel","2: 37","","1802",kew-42040
+kew-43908,A,Peraceae,,Clutia,,"conferta",,"","Hutch.",Accepted,,H,WCSP,43908,341520-1,"Fl. Trop. Afr.","6(1): 805","","1912",
+kew-43909,A,Peraceae,,Clutia,,"cordata",,"","Bernh. ex Krauss",Accepted,,H,WCSP,43909,,"Flora","28: 81","","1845",
+kew-43910,A,Peraceae,,Clutia,,"cotinifolia",,"","Salisb.",Synonym,,H,WCSP,43910,341522-1,"Prodr. Stirp. Chap. Allerton","390","","1796",kew-44024
+kew-43911,A,Peraceae,,Clutia,,"crassifolia",,"","Pax",Synonym,,H,WCSP,43911,341523-1,"Bull. Herb. Boissier","6: 736","","1898",kew-44077
+kew-43912,A,Peraceae,,Clutia,,"curvata",,"","E.Mey. ex Sond.",Synonym,,H,WCSP,43912,341524-1,"Linnaea","23: 121","","1850",kew-44050
+kew-43913,A,Peraceae,,Clutia,,"daphnoides",,"","Eckl. & Zeyh. ex Müll.Arg.",Synonym,Invalid,H,WCSP,43913,341526-1,"Prodr.","15(2): 1054","","1866",kew-44009
+kew-43914,A,Peraceae,,Clutia,,"daphnoides",,"","Lam.",Accepted,,H,WCSP,43914,341525-1,"Encycl.","2: 54","","1786",
+kew-43916,A,Peraceae,,Clutia,,"daphnoides",var.,"glabrata","Müll.Arg.",Synonym,,L,WCSP,43916,,"Prodr.","15(2): 1050","","1866",kew-43914
+kew-43917,A,Peraceae,,Clutia,,"daphnoides",var.,"incana","Sond.",Synonym,,L,WCSP,43917,,"Linnaea","23: 126","","1850",kew-43914
+kew-43918,A,Peraceae,,Clutia,,"daphnoides",var.,"thunbergii","(Sond.) Müll.Arg.",Synonym,,L,WCSP,43918,,"Prodr.","15(2): 1050","","1866",kew-44077
+kew-43919,A,Euphorbiaceae,,Clutia,,"decandra",,"","Crantz",Synonym,,H,WCSP,43919,341527-1,"Inst. Rei Herb.","1: 201","","1766",kew-49852
+kew-43920,A,Peraceae,,Clutia,,"densifolia",,"","Gilli",Synonym,,H,WCSP,43920,341496-1,"Ann. Naturhist. Mus. Wien","74: 437","","1970 publ. 1971",kew-44091
+kew-43921,A,Peraceae,,Clutia,,"diosmoides",,"","Sond.",Synonym,,H,WCSP,43921,341528-1,"Linnaea","23: 122","","1850",kew-44009
+kew-43922,A,Peraceae,,Clutia,,"disceptata",,"","Prain",Accepted,,H,WCSP,43922,341529-1,"Bull. Misc. Inform. Kew","1913: 410","","1913",
+kew-43923,A,Phyllanthaceae,,Clutia,,"diversifolia",,"","Roxb.",Synonym,,H,WCSP,43923,341530-1,"Fl. Ind. ed. 1832","3: 731","","1832",kew-42055
+kew-43924,A,Peraceae,,Clutia,,"dregeana",,"","Scheele",Accepted,,H,WCSP,43924,341531-1,"Linnaea","25: 583","","1853",
+kew-43925,A,Peraceae,,Clutia,,"dumosa",,"","Cooper ex Pax",Synonym,Invalid,H,WCSP,43925,,"Pflanzenr.","IV, 147, III: 66","","1911",kew-43944
+kew-43926,A,Peraceae,,Clutia,,"dumosa",,"","Harv. ex Prain",Synonym,Invalid,H,WCSP,43926,341532-1,"Bull. Misc. Inform. Kew","1913: 411","","1913",kew-43944
+kew-43927,A,Peraceae,,Clutia,,"eckloniana",,"","Müll.Arg.",Accepted,,H,WCSP,43927,341534-1,"Prodr.","15(2): 1054","","1866",
+kew-43928,A,Euphorbiaceae,,Clutia,,"eluteria",,"","L.",Synonym,,H,WCSP,43928,341535-1,"Sp. Pl.","1042","","1753",kew-49852
+kew-43929,A,Peraceae,,Clutia,,"ericoides",,"","Krebs",Synonym,Illegitimate,H,WCSP,43929,341536-1,"Flora","28: 82","","1845",kew-44009
+kew-43930,A,Peraceae,,Clutia,,"ericoides",,"","Thunb.",Accepted,,H,WCSP,43930,341537-1,"Prodr. Pl. Cap.","53","","1794",
+kew-43931,A,Peraceae,,Clutia,,"ericoides",var.,"minor","Krauss",Synonym,,L,WCSP,43931,,"Flora","28: 82","","1845",kew-43930
+kew-43932,A,Peraceae,,Clutia,,"ericoides",var.,"tenuis","Sond.",Synonym,,L,WCSP,43932,,"Linnaea","23: 122","","1850",kew-43930
+kew-43933,A,Peraceae,,Clutia,,"fallacina",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,43933,,"Pflanzenr.","IV, 147, III: 80","","1911",kew-44022
+kew-43934,A,Peraceae,,Clutia,,"floribunda",,"","Baill.",Synonym,,H,WCSP,43934,341539-1,"Étude Euphorb.","Atlas: 30","","1858",kew-43869
+kew-43935,A,Peraceae,,Clutia,,"galpinii",,"","Pax",Accepted,,H,WCSP,43935,341540-1,"Bull. Herb. Boissier","6: 736","","1898",
+kew-43936,A,Peraceae,,Clutia,,"glabrata",,"","(Sond.) Pax",Synonym,,H,WCSP,43936,,"Pflanzenr.","IV, 147, III: 80","","1911",kew-44022
+kew-43937,A,Peraceae,,Clutia,,"glabrescens",,"","Knauf",Synonym,,H,WCSP,43937,,"Bot. Jahrb. Syst.","30: 340","","1901",kew-43853
+kew-43938,A,Peraceae,,Clutia,,"glauca",,"","Pax ex Zahlbr.",Synonym,,H,WCSP,43938,341543-1,"Ann. K. K. Naturhist. Hofmus.","15: 50","","1900 publ. 1901",kew-43869
+kew-43939,A,Peraceae,,Clutia,,"gnidioides",,"","Willd. ex Prain",Synonym,Invalid,H,WCSP,43939,341545-1,"Bull. Misc. Inform. Kew","1913: 400","","1913",kew-44052
+kew-43940,A,Peraceae,,Clutia,,"govaertsii",,"","Radcl.-Sm.",Accepted,,H,WCSP,43940,995987-1,"Kew Bull.","52: 478","","1997",
+kew-43941,A,Peraceae,,Clutia,,"gracilis",,"","Baill.",Synonym,,H,WCSP,43941,341546-1,"Adansonia","3: 151","","1863",kew-43930
+kew-43942,A,Peraceae,,Clutia,,"gracilis",,"","Hutch.",Synonym,Illegitimate,H,WCSP,43942,341547-1,"Fl. Trop. Afr.","6(1): 809","","1912",kew-43995
+kew-43943,A,Peraceae,,Clutia,,"heterophylla",,"","Sond.",Synonym,Illegitimate,H,WCSP,43943,341549-1,"Linnaea","23: 128","","1850",kew-43909
+kew-43944,A,Peraceae,,Clutia,,"heterophylla",,"","Thunb.",Accepted,,H,WCSP,43944,341548-1,"Prodr. Pl. Cap.","53","","1794",
+kew-43945,A,Peraceae,,Clutia,,"heterophylla",var.,"hirsuta","Sond.",Synonym,,L,WCSP,43945,,"Linnaea","23: 129","","1850",kew-43946
+kew-43946,A,Peraceae,,Clutia,,"hirsuta",,"","(Sond.) Müll.Arg.",Accepted,,H,WCSP,43946,341551-1,"Prodr.","15(2): 1046","","1866",
+kew-43947,A,Peraceae,,Clutia,,"hirsuta",,"","Eckl. & Zeyh. ex Sond.",Synonym,Illegitimate,H,WCSP,43947,341550-1,"Linnaea","23: 126","","1850",kew-43865
+kew-43948,A,Peraceae,,Clutia,,"hirsuta",var.,"hirsuta","",Synonym,,L,WCSP,43948,,"Unknown","","","",kew-43946
+kew-43950,A,Phyllanthaceae,,Clutia,,"hirta",,"","Vahl",Synonym,Illegitimate,H,WCSP,43950,341552-1,"Symb. Bot.","2: 101","","1791",kew-106757
+kew-43951,A,Phyllanthaceae,,Clutia,,"hirta",,"","L.f.",Synonym,,H,WCSP,43951,341553-1,"Suppl. Pl.","432","","1782",kew-106757
+kew-43952,A,Peraceae,,Clutia,,"humilis",,"","Bernh.",Synonym,,H,WCSP,43952,341554-1,"Flora","28: 81","","1845",kew-44022
+kew-43953,A,Peraceae,,Clutia,×,"hybrida",,"","Pax & K.Hoffm.",Accepted,,H,WCSP,43953,,"Pflanzenr.","IV, 147, III: 60","","1911",
+kew-43954,A,Peraceae,,Clutia,,"imbricata",,"","E.Mey. ex Prain",Accepted,,H,WCSP,43954,,"Bull. Misc. Inform. Kew","1913: 398","","1913",
+kew-43955,A,Peraceae,,Clutia,,"impedita",,"","Prain",Accepted,,H,WCSP,43955,341557-1,"Bull. Misc. Inform. Kew","1913: 402","","1913",
+kew-43956,A,Peraceae,,Clutia,,"incanescens",,"","Prain",Synonym,Illegitimate,H,WCSP,43956,341558-1,"Bull. Misc. Inform. Kew","1913: 388","","1913",kew-43975
+kew-43957,A,Peraceae,,Clutia,,"intertexta",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,43957,,"Pflanzenr.","IV, 147, III: 80","","1911",kew-44022
+kew-43958,A,Peraceae,,Clutia,,"inyangensis",,"","Hutch.",Synonym,,H,WCSP,43958,341560-1,"Fl. Trop. Afr.","6(1): 804","","1912",kew-43946
+kew-43959,A,Peraceae,,Clutia,,"jaubertiana",,"","Müll.Arg.",Accepted,,H,WCSP,43959,341561-1,"Prodr.","15(2): 1044","","1866",
+kew-43960,A,Peraceae,,Clutia,,"kamerunica",,"","Pax",Accepted,,H,WCSP,43960,341562-1,"Bot. Jahrb. Syst.","45: 238","","1910",
+kew-43961,A,Peraceae,,Clutia,,"karreensis",,"","Schltr. ex Pax",Synonym,Invalid,H,WCSP,43961,,"Pflanzenr.","IV, 147, III: 76","","1911",kew-44077
+kew-43962,A,Peraceae,,Clutia,,"katharinae",,"","Pax",Accepted,,H,WCSP,43962,,"Pflanzenr.","IV, 147, III: 58","","1911",
+kew-43963,A,Peraceae,,Clutia,,"kilimandscharica",,"","Engl.",Accepted,,H,WCSP,43963,341565-1,"Rudolph-Stephanie-See","App.: 5","","1892",
+kew-43964,A,Peraceae,,Clutia,,"krookii",,"","Pax",Synonym,,H,WCSP,43964,341566-1,"Ann. K. K. Naturhist. Hofmus.","15: 49","","1900 publ. 1901",kew-43946
+kew-43965,A,Peraceae,,Clutia,,"lanceolata",,"","Jaub. & Spach",Synonym,Illegitimate,H,WCSP,43965,341569-1,"Ill. Pl. Orient.","5: 467","","1855",kew-43959
+kew-43966,A,Peraceae,,Clutia,,"lanceolata",,"","Forssk.",Accepted,,H,WCSP,43966,341568-1,"Fl. Aegypt.-Arab.","170","","1775",
+kew-43967,A,Peraceae,,Clutia,,"lanceolata",var.,"angustifolia","A.Rich.",Synonym,,L,WCSP,43967,,"Tent. Fl. Abyss.","2: 253","","1850",kew-43984
+kew-43968,A,Peraceae,,Clutia,,"lanceolata",var.,"glabra","A.Rich.",Synonym,,L,WCSP,43968,,"Tent. Fl. Abyss.","2: 253","","1850",kew-43853
+kew-43969,A,Peraceae,,Clutia,,"lanceolata",var.,"pubescens","A.Rich.",Synonym,,L,WCSP,43969,,"Tent. Fl. Abyss.","2: 253","","1850",kew-44039
+kew-43970,A,Peraceae,,Clutia,,"lanceolata",subsp.,"robusta","(Pax) M.G.Gilbert",Synonym,,L,WCSP,43970,970231-1,"Nordic J. Bot.","12: 401","","1992",kew-43963
+kew-43971,A,Peraceae,,Clutia,,"lasiococca",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,43971,,"Pflanzenr.","IV, 147, VII: 405","","1914",kew-43897
+kew-43972,A,Peraceae,,Clutia,,"lavandulifolia",,"","Rchb. ex Pax",Synonym,Illegitimate,H,WCSP,43972,,"Pflanzenr.","IV, 147, III: 78","","1911",kew-44016
+kew-43973,A,Peraceae,,Clutia,,"laxa",,"","Eckl. ex Sond.",Accepted,,H,WCSP,43973,,"Linnaea","23: 128","","1850",
+kew-43974,A,Peraceae,,Clutia,,"leuconeura",,"","Pax",Synonym,,H,WCSP,43974,341573-1,"Bot. Jahrb. Syst.","19: 112","","1894",kew-43861
+kew-43975,A,Peraceae,,Clutia,,"marginata",,"","E.Mey. ex Sond.",Accepted,,H,WCSP,43975,341574-1,"Linnaea","23: 130","","1850",
+kew-43976,A,Peraceae,,Clutia,,"meyeriana",,"","Müll.Arg.",Synonym,,H,WCSP,43976,341575-1,"Prodr.","15(2): 1055","","1866",kew-44001
+kew-43977,A,Peraceae,,Clutia,,"microphylla",,"","Burch. ex Prain",Synonym,Invalid,H,WCSP,43977,341576-1,"Bull. Misc. Inform. Kew","1913: 400","","1913",kew-44052
+kew-43978,A,Peraceae,,Clutia,,"mollis",,"","Pax",Synonym,,H,WCSP,43978,341577-1,"Bot. Jahrb. Syst.","19: 112","","1894",kew-43861
+kew-43979,A,Phyllanthaceae,,Clutia,,"monoica",,"","Lour.",Synonym,,H,WCSP,43979,341578-1,"Fl. Cochinch.","638","","1790",kew-42133
+kew-43980,A,Phyllanthaceae,,Clutia,,"montana",,"","Roxb.",Synonym,,H,WCSP,43980,,"Pl. Coromandel","2: 38","","1802",kew-24576
+kew-43981,A,Peraceae,,Clutia,,"monticola",,"","S.Moore",Accepted,,H,WCSP,43981,341580-1,"J. Linn. Soc., Bot.","40: 197","","1911",
+kew-43982,A,Peraceae,,Clutia,,"monticola",var.,"monticola","",Synonym,,L,WCSP,43982,,"Unknown","","","",kew-43981
+kew-43983,A,Peraceae,,Clutia,,"monticola",var.,"stelleroides","(S.Moore) Radcl.-Sm.",Accepted,,L,WCSP,43983,967404-1,"Kew Bull.","47: 114","","1992",
+kew-43984,A,Peraceae,,Clutia,,"myricoides",,"","Jaub. & Spach",Accepted,,H,WCSP,43984,,"Ill. Pl. Orient.","5: 73","","1855",
+kew-43985,A,Peraceae,,Clutia,,"myrtifolia",,"","Burch. ex Prain",Synonym,Illegitimate,H,WCSP,43985,341582-1,"Bull. Misc. Inform. Kew","1913: 396","","1913",kew-43869
+kew-43986,A,Peraceae,,Clutia,,"nana",,"","Prain",Accepted,,H,WCSP,43986,341583-1,"Bull. Misc. Inform. Kew","1913: 386","","1913",
+kew-43987,A,Peraceae,,Clutia,,"natalensis",,"","Bernh.",Accepted,,H,WCSP,43987,341584-1,"Flora","28: 81","","1845",
+kew-43989,A,Peraceae,,Clutia,,"natalensis",var.,"glabrata","Sond.",Synonym,,L,WCSP,43989,,"Linnaea","23: 127","","1850",kew-43987
+kew-43990,A,Phyllanthaceae,,Clutia,,"oblongifolia",,"","Roxb.",Synonym,,H,WCSP,43990,341586-1,"Fl. Ind. ed. 1832","3: 730","","1832",kew-42148
+kew-43992,A,Peraceae,,Clutia,,"ovalis",,"","Sond.",Accepted,,H,WCSP,43992,341588-1,"Linnaea","23: 129","","1850",
+kew-43991,A,Phyllanthaceae,,Clutia,,"ovalis",,"","(E.Mey. ex Sond.) Scheele",Synonym,,H,WCSP,43991,341587-1,"Linnaea","25: 583","","1853",kew-373894
+tro-12802832,A,Phyllanthaceae,,Clutia,,"ovalis",,"","Scheele, as Cluytia ovalis, non Clutia ovalis Sond.",Synonym,,M,TRO,12802832,,"","","","",kew-373894
+kew-43993,A,Peraceae,,Clutia,,"pachyphylla",,"","Spreng. ex Prain",Synonym,Illegitimate,H,WCSP,43993,341589-1,"Bull. Misc. Inform. Kew","1913: 385","","1913",kew-43930
+kew-43994,A,Phyllanthaceae,,Clutia,,"patula",,"","Roxb.",Synonym,,H,WCSP,43994,341591-1,"Pl. Coromandel","2: 37","","1802",kew-42160
+kew-43995,A,Peraceae,,Clutia,,"paxii",,"","Knauf",Accepted,,H,WCSP,43995,,"Bot. Jahrb. Syst.","30: 341","","1901",
+kew-43996,A,Peraceae,,Clutia,,"pedicellaris",,"","(Pax) Hutch.",Synonym,,H,WCSP,43996,341593-1,"Fl. Trop. Afr.","6(1): 806","","1912",kew-43860
+kew-43997,A,Peraceae,,Clutia,,"pentheriana",,"","Gand.",Accepted,,H,WCSP,43997,341594-1,"Bull. Soc. Bot. France","66: 286","","1919 publ. 1920",
+kew-43998,A,Peraceae,,Clutia,,"phyllanthifolia",,"","Baill.",Synonym,,H,WCSP,43998,341595-1,"Adansonia","3: 153","","1863",kew-43865
+kew-43999,A,Peraceae,,Clutia,,"phyllanthoides",,"","S.Moore",Synonym,,H,WCSP,43999,341596-1,"J. Linn. Soc., Bot.","40: 198","","1911",kew-43995
+kew-44000,A,Peraceae,,Clutia,,"platyphylla",,"","Pax & K.Hoffm.",Accepted,,H,WCSP,44000,,"Pflanzenr.","IV, 147, III: 74","","1911",
+kew-44001,A,Peraceae,,Clutia,,"polifolia",,"","Jacq.",Accepted,,H,WCSP,44001,341598-1,"Pl. Hort. Schoenbr.","2: 67","","1797",
+kew-44002,A,Peraceae,,Clutia,,"polifolia",,"","Sond.",Synonym,Illegitimate,H,WCSP,44002,341599-1,"Linnaea","23: 124","","1850",kew-44016
+kew-44003,A,Peraceae,,Clutia,,"polifolia",var.,"brevifolia","(Sond.) Müll.Arg.",Synonym,,L,WCSP,44003,,"Prodr.","15(2): 1049","","1866",kew-43904
+kew-44004,A,Peraceae,,Clutia,,"polifolia",var.,"cinerascens","Müll.Arg.",Synonym,,L,WCSP,44004,,"Prodr.","15(2): 1049","","1866",kew-44001
+kew-44006,A,Peraceae,,Clutia,,"polifolia",var.,"teretifolia","(Sond.) Müll.Arg.",Synonym,,L,WCSP,44006,,"Prodr.","15(2): 1049","","1866",kew-44001
+kew-44007,A,Peraceae,,Clutia,,"polyadenia",,"","Pax",Accepted,,H,WCSP,44007,341600-1,"Bot. Jahrb. Syst.","43: 84","","1909",
+kew-44008,A,Peraceae,,Clutia,,"polygalifolia",,"","Salisb.",Synonym,,H,WCSP,44008,341601-1,"Prodr. Stirp. Chap. Allerton","390","","1796",kew-43869
+kew-44009,A,Peraceae,,Clutia,,"polygonoides",,"","L.",Accepted,,H,WCSP,44009,341604-1,"Sp. Pl. ed. 2","1475","","1763",
+kew-44010,A,Peraceae,,Clutia,,"polygonoides",,"","Thunb.",Synonym,Illegitimate,H,WCSP,44010,341602-1,"Prodr. Pl. Cap.","53","","1794",kew-43914
+kew-44011,A,Peraceae,,Clutia,,"polygonoides",,"","Willd.",Synonym,Illegitimate,H,WCSP,44011,,"Hort. Berol.","51","","1816",kew-44050
+kew-273845,A,Peraceae,,Clutia,,"polygonoides",var.,"angustifolia","Krauss",Synonym,,L,WCSP,273845,,"Flora","28: 82","","1845",kew-44016
+kew-44012,A,Peraceae,,Clutia,,"polygonoides",var.,"curvata","(E.Mey. ex Sond.) Sond.",Synonym,,L,WCSP,44012,,"Linnaea","23: 123","","1850",kew-44050
+kew-44014,A,Peraceae,,Clutia,,"polygonoides",var.,"grandifolia","Krauss",Synonym,,L,WCSP,44014,,"Flora","28: 82","","1845",kew-44051
+kew-44015,A,Peraceae,,Clutia,,"polygonoides",var.,"heterophylla","Krauss",Synonym,,L,WCSP,44015,,"Flora","28: 82","","1845",kew-44016
+kew-44016,A,Peraceae,,Clutia,,"pterogona",,"","Müll.Arg.",Accepted,,H,WCSP,44016,341606-1,"Prodr.","15(2): 1048","","1866",
+kew-44017,A,Peraceae,,Clutia,,"pterogona",var.,"angustifolia","(Krauss) Pax",Synonym,,L,WCSP,44017,,"Pflanzenr.","IV, 147, III: 78","","1911",kew-44016
+kew-44018,A,Peraceae,,Clutia,,"pterogona",var.,"heterophylla","(Krauss) Müll.Arg.",Synonym,,L,WCSP,44018,,"Prodr.","15(2): 1049","","1866",kew-44016
+kew-44019,A,Peraceae,,Clutia,,"pterogona",var.,"revoluta","(Sond.) Müll.Arg.",Synonym,,L,WCSP,44019,,"Prodr.","15(2): 1049","","1866",kew-44016
+kew-44020,A,Peraceae,,Clutia,,"pubescens",,"","Willd.",Synonym,Illegitimate,H,WCSP,44020,341608-1,"Sp. Pl.","4: 881","","1806",kew-44077
+kew-44021,A,Peraceae,,Clutia,,"pubescens",,"","Eckl. & Zeyh. ex Sond.",Synonym,Illegitimate,H,WCSP,44021,341607-1,"Linnaea","23: 126","","1850",kew-43865
+kew-44022,A,Peraceae,,Clutia,,"pubescens",,"","Thunb.",Accepted,,H,WCSP,44022,341609-1,"Prodr. Pl. Cap.","53","","1794",
+kew-44023,A,Peraceae,,Clutia,,"pubescens",var.,"glabrata","Sond.",Synonym,,L,WCSP,44023,,"Linnaea","23: 124","","1850",kew-44022
+kew-44024,A,Peraceae,,Clutia,,"pulchella",,"","L.",Accepted,,H,WCSP,44024,341610-1,"Sp. Pl.","1042","","1753",
+kew-44026,A,Peraceae,,Clutia,,"pulchella",var.,"genuina","Müll.Arg.",Synonym,Invalid,L,WCSP,44026,,"Prodr.","15(2): 1045","","1866",kew-44024
+kew-44028,A,Peraceae,,Clutia,,"pulchella",f.,"macrophylla","Müll.Arg.",Synonym,,L,WCSP,44028,,"Prodr.","15(2): 1045","","1866",kew-44031
+kew-44029,A,Peraceae,,Clutia,,"pulchella",f.,"microphylla","Pax",Synonym,,L,WCSP,44029,,"Ann. K. K. Naturhist. Hofmus.","15: 49","","1900",kew-44031
+kew-44030,A,Peraceae,,Clutia,,"pulchella",f.,"obtusata","Sond.",Synonym,,L,WCSP,44030,,"Linnaea","23: 129","","1850",kew-44031
+kew-44031,A,Peraceae,,Clutia,,"pulchella",var.,"obtusata","(Sond.) Müll.Arg.",Accepted,,L,WCSP,44031,,"Prodr.","15(2): 1046","","1866",
+kew-44032,A,Peraceae,,Clutia,,"pulchella",var.,"ovalis","Müll.Arg.",Synonym,,L,WCSP,44032,,"Prodr.","15(2): 1046","","1866",kew-43935
+kew-44033,A,Peraceae,,Clutia,,"pulchella",f.,"ovalis","(Müll.Arg.) Pax",Synonym,,L,WCSP,44033,,"Pflanzenr.","IV, 147, III: 55","","1911",kew-43935
+kew-44034,A,Peraceae,,Clutia,,"pulchella",var.,"pulchella","",Synonym,,L,WCSP,44034,,"Unknown","","","",kew-44024
+kew-44035,A,Peraceae,,Clutia,,"punctata",,"","Wild",Accepted,,H,WCSP,44035,341497-1,"Kirkia","4: 142","","1964",
+kew-44036,A,Phyllanthaceae,,Clutia,,"retusa",,"","L.",Synonym,,H,WCSP,44036,,"Sp. Pl.","1475","","1753",kew-24616
+kew-44037,A,Peraceae,,Clutia,,"richardiana",,"","Müll.Arg.",Accepted,,H,WCSP,44037,341615-1,"Prodr.","15(2): 1044","","1866",
+kew-44038,A,Peraceae,,Clutia,,"richardiana",var.,"pedicellaris","Pax",Synonym,,L,WCSP,44038,,"Bot. Jahrb. Syst.","23: 531","","1897",kew-43860
+kew-44039,A,Peraceae,,Clutia,,"richardiana",var.,"pubescens","(A.Rich.) Müll.Arg.",Accepted,,L,WCSP,44039,,"Prodr.","15(2): 1044","","1866",
+kew-44040,A,Peraceae,,Clutia,,"richardiana",var.,"richardiana","",Synonym,,L,WCSP,44040,,"Unknown","","","",kew-44037
+kew-44041,A,Peraceae,,Clutia,,"richardiana",var.,"trichophora","Müll.Arg.",Synonym,,L,WCSP,44041,,"Prodr.","15(2): 1044","","1866",kew-43963
+kew-44042,A,Peraceae,,Clutia,,"robusta",,"","Pax",Synonym,,H,WCSP,44042,341616-1,"Pflanzenw. Ost-Afrikas","C: 241","","1895",kew-43963
+kew-44043,A,Peraceae,,Clutia,,"robusta",var.,"acutifolia","Pax",Synonym,,L,WCSP,44043,,"Pflanzenr.","IV, 147, III: 61","","1911",kew-43963
+kew-44045,A,Peraceae,,Clutia,,"robusta",var.,"kilimandscharica","(Engl.) Pax",Synonym,,L,WCSP,44045,,"Pflanzenr.","IV, 147, III: 61","","1911",kew-43963
+kew-44046,A,Peraceae,,Clutia,,"robusta",var.,"polyphylla","Pax",Synonym,,L,WCSP,44046,,"Pflanzenr.","IV, 147, III: 61","","1911",kew-43963
+kew-44047,A,Peraceae,,Clutia,,"robusta",var.,"rhododendroides","Pax",Synonym,,L,WCSP,44047,,"Bot. Jahrb. Syst.","43: 85","","1909",kew-43963
+kew-44048,A,Peraceae,,Clutia,,"robusta",var.,"salicifolia","Pax",Synonym,,L,WCSP,44048,,"Pflanzenr.","IV, 147, III: 61","","1911",kew-43963
+kew-44049,A,Peraceae,,Clutia,,"rotundifolia",,"","Pax",Synonym,,H,WCSP,44049,341617-1,"Bot. Jahrb. Syst.","43: 85","","1909",kew-43861
+kew-44050,A,Peraceae,,Clutia,,"rubricaulis",,"","Eckl. ex Sond.",Accepted,,H,WCSP,44050,341618-1,"Linnaea","23: 128","","1850",
+kew-44051,A,Peraceae,,Clutia,,"rubricaulis",var.,"grandifolia","(Krauss) Prain",Accepted,,L,WCSP,44051,,"Bull. Misc. Inform. Kew","1913: 400","","1913",
+kew-44052,A,Peraceae,,Clutia,,"rubricaulis",var.,"microphylla","(Müll.Arg.) Prain",Accepted,,L,WCSP,44052,,"Bull. Misc. Inform. Kew","1913: 400","","1913",
+kew-44053,A,Peraceae,,Clutia,,"rubricaulis",var.,"rubricaulis","",Synonym,,L,WCSP,44053,,"Unknown","","","",kew-44050
+kew-44054,A,Peraceae,,Clutia,,"rubricaulis",var.,"tenuifolia","Prain",Accepted,,L,WCSP,44054,,"Bull. Misc. Inform. Kew","1913: 400","","1913",
+kew-44055,A,Peraceae,,Clutia,,"rustii",,"","Knauf",Synonym,,H,WCSP,44055,,"Geogr. Verbr. Cluytia","49, 54","","1903",kew-44022
+kew-44056,A,Phyllanthaceae,,Clutia,,"scandens",,"","Roxb.",Synonym,,H,WCSP,44056,341619-1,"Pl. Coromandel","2: 39","","1802",kew-24660
+kew-44057,A,Peraceae,,Clutia,,"schlechteri",,"","Pax",Synonym,,H,WCSP,44057,341620-1,"Bot. Jahrb. Syst.","34: 373","","1904",kew-43946
+kew-44058,A,Euphorbiaceae,,Clutia,,"semperflorens",,"","Roxb.",Synonym,,H,WCSP,44058,60447107-2,"Fl. Ind. ed. 1832","3: 730","","1832",kew-208911
+kew-44059,A,Euphorbiaceae,,Clutia,,"sempervirens",,"","Müll.Arg.",Synonym,,H,WCSP,44059,341623-1,"Prodr.","15(2): 764","","1866",kew-208911
+kew-44060,A,Peraceae,,Clutia,,"sericea",,"","Müll.Arg.",Accepted,,H,WCSP,44060,341624-1,"Prodr.","15(2): 1053","","1866",
+kew-44061,A,Peraceae,,Clutia,,"sessilifolia",,"","Radcl.-Sm.",Accepted,,H,WCSP,44061,960837-1,"Kew Bull.","47: 115","","1992",
+kew-44062,A,Peraceae,,Clutia,,"similis",,"","Müll.Arg.",Synonym,,H,WCSP,44062,341625-1,"Prodr.","15(2): 1046","","1866",kew-43944
+kew-44063,A,Peraceae,,Clutia,,"sonderiana",,"","Müll.Arg.",Synonym,,H,WCSP,44063,341626-1,"Prodr.","15(2): 1051","","1866",kew-43924
+kew-44064,A,Peraceae,,Clutia,,"sonderiana",var.,"glabra","Müll.Arg.",Synonym,,L,WCSP,44064,,"Prodr.","15(2): 1051","","1866",kew-43924
+kew-44065,A,Peraceae,,Clutia,,"sonderiana",var.,"ovalifolia","Pax",Synonym,,L,WCSP,44065,,"Pflanzenr.","IV, 147, III: 73","","1911",kew-43924
+kew-44066,A,Peraceae,,Clutia,,"sonderiana",var.,"pubescens","Müll.Arg.",Synonym,,L,WCSP,44066,,"Prodr.","15(2): 1051","","1866",kew-43924
+kew-44067,A,Phyllanthaceae,,Clutia,,"spinosa",,"","Roxb.",Synonym,,H,WCSP,44067,341627-1,"Pl. Coromandel","2: 38","","1802",kew-24616
+kew-44068,A,Phyllanthaceae,,Clutia,,"squamosa",,"","Lam.",Synonym,,H,WCSP,44068,,"Encycl.","2: 54","","1786",kew-24616
+kew-44069,A,Peraceae,,Clutia,,"stelleroides",,"","S.Moore",Synonym,,H,WCSP,44069,341629-1,"J. Linn. Soc., Bot.","40: 198","","1911",kew-43983
+kew-44070,A,Peraceae,,Clutia,,"stenophylla",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,44070,,"Pflanzenr.","IV, 147, III: 63","","1911",kew-43963
+kew-44071,A,Phyllanthaceae,,Clutia,,"stipularis",,"","L.",Synonym,,H,WCSP,44071,,"Mant. Pl.","127","","1776",kew-24660
+kew-44072,A,Peraceae,,Clutia,,"stuhlmannii",,"","Pax",Accepted,,H,WCSP,44072,341632-1,"Bot. Jahrb. Syst.","19: 112","","1894",
+tro-50266827,A,Peraceae,,Clutia,,"supervirens",,"","Müll. Arg.",Unresolved,,L,TRO,50266827,,"Prodr.","15(2): 764","764","1866",
+kew-44073,A,Peraceae,,Clutia,,"swynnertonii",,"","S.Moore",Accepted,,H,WCSP,44073,341633-1,"J. Linn. Soc., Bot.","40: 197","","1911",
+kew-44074,A,Peraceae,,Clutia,,"tabularis",,"","Eckl. & Zeyh. ex Sond.",Synonym,,H,WCSP,44074,341634-1,"Linnaea","23: 122","","1850",kew-44009
+kew-44075,A,Peraceae,,Clutia,,"tenuifolia",,"","Willd.",Synonym,,H,WCSP,44075,341635-1,"Sp. Pl.","4: 880","","1806",kew-43930
+kew-44076,A,Peraceae,,Clutia,,"teretifolia",,"","Sond.",Synonym,,H,WCSP,44076,341636-1,"Linnaea","23: 124","","1850",kew-44001
+kew-44077,A,Peraceae,,Clutia,,"thunbergii",,"","Sond.",Accepted,,H,WCSP,44077,341637-1,"Linnaea","23: 130","","1850",
+kew-44078,A,Peraceae,,Clutia,,"thunbergii",var.,"canescens","Pax & K.Hoffm.",Synonym,,L,WCSP,44078,,"Pflanzenr.","IV, 147, III: 76","","1911",kew-44077
+kew-44079,A,Peraceae,,Clutia,,"thunbergii",var.,"vaccinioides","Pax & K.Hoffm.",Synonym,,L,WCSP,44079,,"Pflanzenr.","IV, 147, III: 76","","1911",kew-43940
+kew-44080,A,Peraceae,,Clutia,,"thymifolia",,"","Willd. ex Prain",Synonym,Invalid,H,WCSP,44080,341638-1,"Bull. Misc. Inform. Kew","1913: 400","","1913",kew-44054
+kew-44081,A,Peraceae,,Clutia,,"timpermaniana",,"","J.Léonard",Accepted,,H,WCSP,44081,341498-1,"Bull. Jard. Bot. État","31: 391","","1961",
+kew-44082,A,Peraceae,,Clutia,,"tomentosa",,"","L.",Accepted,,H,WCSP,44082,,"Mant. Pl.","299","","1767",
+kew-44083,A,Peraceae,,Clutia,,"tomentosa",,"","Thunb.",Synonym,Illegitimate,H,WCSP,44083,341639-1,"Fl. Cap.","ed. 2: 271","","1823",kew-43914
+kew-44084,A,Peraceae,,Clutia,,"tomentosa",var.,"elliptica","Müll.Arg.",Synonym,,L,WCSP,44084,,"Prodr.","15(2): 1053","","1866",kew-44082
+kew-44086,A,Peraceae,,Clutia,,"tomentosa",var.,"marginata","(E.Mey. ex Sond.) Müll.Arg.",Synonym,,L,WCSP,44086,,"Prodr.","15(2): 1053","","1866",kew-43975
+tro-12806709,A,Peraceae,,Clutia,,"usambarica",,"","Pax & K. Hoffm.",Unresolved,,L,TRO,12806709,,"Pflanzenr.","147,3(Heft 47): 57","57","1911",
+kew-44087,A,Peraceae,,Clutia,,"vaccinioides",,"","Müll.Arg.",Synonym,,H,WCSP,44087,341641-1,"Prodr.","15(2): 436","","1866",kew-43944
+kew-44088,A,Peraceae,,Clutia,,"vaccinioides",,"","(Pax & K.Hoffm.) Prain",Synonym,Illegitimate,H,WCSP,44088,341642-1,"Bull. Misc. Inform. Kew","1913: 413","","1913",kew-43940
+kew-44089,A,Peraceae,,Clutia,,"virgata",,"","Pax & K.Hoffm.",Accepted,,H,WCSP,44089,,"Pflanzenr.","IV, 147, III: 71","","1911",
+kew-44090,A,Peraceae,,Clutia,,"volubilis",,"","Hutch.",Synonym,,H,WCSP,44090,341644-1,"Fl. Trop. Afr.","6(1): 809","","1912",kew-43946
+kew-44091,A,Peraceae,,Clutia,,"whytei",,"","Hutch.",Accepted,,H,WCSP,44091,341645-1,"Fl. Trop. Afr.","6(1): 806","","1912",
+kew-44093,A,Peraceae,,Clutia,,"whytei",var.,"whytei","",Synonym,,L,WCSP,44093,,"Unknown","","","",kew-44091

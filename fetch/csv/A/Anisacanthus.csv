@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2640098,A,Acanthaceae,,Anisacanthus,,"abditus",,"","Brandegee",Unresolved,,L,WCSP (in review),,272145-2,"Zoe","3: 348","","1893",tro-103054
+kew-2640099,A,Acanthaceae,,Anisacanthus,,"andersonii",,"","T.F.Daniel",Accepted,,M,WCSP (in review),,13929-2,"Bull. Torrey Bot. Club","109: 148","","1982",
+kew-2640100,A,Acanthaceae,,Anisacanthus,,"boliviensis",,"","(Nees) Wassh.",Accepted,,M,WCSP (in review),,963936-1,"Novon","2: 149","","1992",
+kew-2640101,A,Acanthaceae,,Anisacanthus,,"brasiliensis",,"","Lindau",Accepted,,M,WCSP (in review),,13930-2,"Bull. Herb. Boissier","3: 371","","1895",
+kew-2640102,A,Acanthaceae,,Anisacanthus,,"caduciflorus",,"","(Griseb.) Lindau",Synonym,,M,WCSP (in review),,,"Bot. Jahrb. Syst.","19(48): 18","","1894",kew-2640100
+tro-101138,A,Acanthaceae,,Anisacanthus,,"caducifolius",,"","(Griseb.) Lindau",Synonym,,M,TRO,101138,13932-2,"Bot. Jahrb. Syst.","19(48): 18","18","1894",tro-100373694
+kew-2640103,A,Acanthaceae,,Anisacanthus,,"cauduciflorus",,"","(Griseb.) Ariza",Synonym,,M,WCSP (in review),,911755-1,"Bol. Soc. Argent. Bot.","22: 255","","1983",kew-2640100
+kew-2640104,A,Acanthaceae,,Anisacanthus,,"glaberrimus",,"","M.E.Jones",Unresolved,,L,WCSP (in review),,13933-2,"Contr. W. Bot.","15: 151","","1929",tro-102844
+kew-2640105,A,Acanthaceae,,Anisacanthus,,"gonzalezii",,"","Greenm.",Unresolved,,L,WCSP (in review),,272146-2,"Proc. Amer. Acad. Arts","39: 89","","1903",tro-50231438
+kew-2640106,A,Acanthaceae,,Anisacanthus,,"greggii",,"","(Torr.) A.Gray",Synonym,,M,WCSP (in review),,45248-1,"Syn. Fl. N. Amer.","2(1): 328","","1878",kew-2640116
+kew-2640107,A,Acanthaceae,,Anisacanthus,,"insignis",,"","Dayton",Synonym,,M,WCSP (in review),,,"Misc. Publ. U.S. Dept. Agric.","101: 145","","1931",kew-2640115
+tro-101416,A,Acanthaceae,,Anisacanthus,,"insignis",,"","A. Gray",Accepted,,M,TRO,101416,13935-2,"Syn. Fl. N. Amer. (ed. 2)","2(1): 457","457","1886",
+kew-2640108,A,Acanthaceae,,Anisacanthus,,"insignis",var.,"linearis","S.H.Hagen",Synonym,,L,WCSP (in review),,13936-2,"Ann. Missouri Bot. Gard.","28: 396","","1941",kew-2640110
+tro-50164971,A,Acanthaceae,,Anisacanthus,,"juncea",,"","(Torr.) Hemsl.",Synonym,,M,TRO,50164971,45250-1,"Biol. Cent.-Amer., Bot.","2(13): 522","522","1882",kew-2640120
+kew-2640109,A,Acanthaceae,,Anisacanthus,,"junceus",,"","(Torr.) Hemsl.",Synonym,,M,WCSP (in review),,,"Biol. Cent.-Amer., Bot.","2: 522","","1882",kew-2640120
+kew-2640110,A,Acanthaceae,,Anisacanthus,,"linearis",,"","(S.H.Hagen) Henrickson & E.J.Lott",Accepted,,M,WCSP (in review),,909990-1,"Brittonia","34: 175","","1982",
+kew-2640111,A,Acanthaceae,,Anisacanthus,,"malmei",,"","Lindau",Accepted,,M,WCSP (in review),,13938-2,"Bull. Herb. Boissier","5: 662","","1897",
+kew-2640112,A,Acanthaceae,,Anisacanthus,,"nicaraguensis",,"","Durkee",Accepted,,M,WCSP (in review),,1012697-1,"Novon","9: 503","","1999",
+kew-2640113,A,Acanthaceae,,Anisacanthus,,"ochoterenae",,"","Miranda",Unresolved,,L,WCSP (in review),,272147-2,"Anales Inst. Biol. Univ. Nac. México","12: 585, 606","","1941",tro-103368
+kew-2640114,A,Acanthaceae,,Anisacanthus,,"pohlii",,"","Lindau",Accepted,,M,WCSP (in review),,13940-2,"Bull. Herb. Boissier","5: 663","","1897",
+kew-2640115,A,Acanthaceae,,Anisacanthus,,"puberulus",,"","(Torr.) Henrickson & E.J.Lott",Accepted,,M,WCSP (in review),,909991-1,"Brittonia","34: 172","","1982",
+kew-2640116,A,Acanthaceae,,Anisacanthus,,"pumilus",,"","(Dietr.) Nees",Accepted,,M,WCSP (in review),,45254-1,"Prodr.","11: 445","","1847",
+kew-2640117,A,Acanthaceae,,Anisacanthus,,"quadrifidus",,"","(Vahl) Nees",Accepted,,M,WCSP (in review),,,"Linnaea","16: 307","","1842",
+kew-2640118,A,Acanthaceae,,Anisacanthus,,"quadrifidus",var.,"brevilobus","(S.H.Hagen) Henrickson",Synonym,,L,WCSP (in review),,952519-1,"Sida","11: 298","","1986",kew-2640117
+kew-2640120,A,Acanthaceae,,Anisacanthus,,"quadrifidus",var.,"wrightii","(Torr.) Henrickson",Accepted,,L,WCSP (in review),,952518-1,"Sida","11: 296","","1986",
+kew-2640121,A,Acanthaceae,,Anisacanthus,,"ramosissimus",,"","(Moric.) V.M.Baum",Accepted,,M,WCSP (in review),,909992-1,"Brittonia","34: 433","","1982",
+kew-2640122,A,Acanthaceae,,Anisacanthus,,"ruber",,"","Lindau",Unresolved,,L,WCSP (in review),,13944-2,"Bull. Herb. Boissier","3: 371","","1895",
+kew-2640123,A,Acanthaceae,,Anisacanthus,,"secundus",,"","Leonard",Accepted,,L,WCSP (in review),,13945-2,"Lloydia","2: 213","","1939",
+kew-2640124,A,Acanthaceae,,Anisacanthus,,"stramineus",,"","Barneby",Unresolved,,L,WCSP (in review),,13946-2,"Rhodora","72: 70","","1970",
+kew-2640125,A,Acanthaceae,,Anisacanthus,,"tetracaulis",,"","Leonard",Accepted,,M,WCSP (in review),,13947-2,"Ceiba","1: 108","","1950",
+kew-2640126,A,Acanthaceae,,Anisacanthus,,"thurberi",,"","(Torr.) A.Gray",Accepted,,M,WCSP (in review),,45260-1,"Syn. Fl. N. Amer.","2(1): 328","","1878",
+kew-2640127,A,Acanthaceae,,Anisacanthus,,"trilobus",,"","Lindau",Accepted,,M,WCSP (in review),,13948-2,"Notizbl. Königl. Bot. Gart. Berlin","6: 196","","1914",
+kew-2640128,A,Acanthaceae,,Anisacanthus,,"tulensis",,"","Greenm.",Accepted,,M,WCSP (in review),,13949-2,"Publ. Field Mus. Nat. Hist., Bot. Ser.","2: 343","","1912",
+kew-2640129,A,Acanthaceae,,Anisacanthus,,"virgularis",,"","(Salisb.) Nees",Synonym,,M,WCSP (in review),,45263-1,"Prodr.","11: 445","","1847",kew-2640117
+kew-2640130,A,Acanthaceae,,Anisacanthus,,"wrightii",,"","(Torr.) A.Gray",Synonym,,M,WCSP (in review),,45264-1,"Syn. Fl. N. Amer.","2(1): 328","","1878",kew-2640120
+kew-2640131,A,Acanthaceae,,Anisacanthus,,"wrightii",var.,"brevilobus","S.H.Hagen",Synonym,,L,WCSP (in review),,272151-2,"Ann. Missouri Bot. Gard.","29: 400","","1941",kew-2640117

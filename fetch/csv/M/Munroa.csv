@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-425339,A,Poaceae,,Munroa,,"andina",,"","Phil.",Accepted,,H,WCSP,425339,165033-2,"Anales Mus. Nac. Santiago de Chile","8: 89","","1891",
+tro-50172946,A,Poaceae,,Munroa,,"andina",var.,"andina","",Synonym,,L,TRO,50172946,,"","","","",kew-425339
+kew-425340,A,Poaceae,,Munroa,,"andina",var.,"breviseta","Hack.",Accepted,,L,WCSP,425340,165034-2,"Annuaire Conserv. Jard. Bot. Genève","17: 294","","1914",
+kew-425341,A,Poaceae,,Munroa,,"argentina",,"","Griseb.",Accepted,,H,WCSP,425341,409228-1,"Abh. Königl. Ges. Wiss. Göttingen","24: 300","","1879",
+kew-425342,A,Poaceae,,Munroa,,"benthamiana",,"","Hack.",Synonym,,H,WCSP,425342,409229-1,"Revis. Gen. Pl.","3(2): 357","","1898",kew-399241
+kew-425343,A,Poaceae,,Munroa,,"decumbens",,"","Phil.",Accepted,,H,WCSP,425343,165036-2,"Anales Mus. Nac. Santiago de Chile","8: 90","","1891",
+kew-425344,A,Poaceae,,Munroa,,"mendocina",,"","Phil.",Accepted,,H,WCSP,425344,409231-1,"Sert. Mend. Alt.","52","","1870",
+kew-425345,A,Poaceae,,Munroa,,"multiflora",,"","Phil.",Synonym,,H,WCSP,425345,165037-2,"Anales Mus. Nac. Santiago de Chile","8: 90","","1891",kew-425339
+kew-425346,A,Poaceae,,Munroa,,"squarrosa",,"","(Nutt.) Torr.",Accepted,,H,WCSP,425346,,"Pacif. Railr. Rep. Parke, Bot.","4(5; 4): 158","","1857",
+kew-425347,A,Poaceae,,Munroa,,"squarrosa",var.,"floccuosa","Vasey ex Beal",Synonym,,L,WCSP,425347,,"Grass. N. Amer.","2: 456","","1896",kew-425346
+tro-50113766,A,Poaceae,,Munroa,,"squarrosa",var.,"squarrosa","",Synonym,,L,TRO,50113766,,"","","","",kew-425346

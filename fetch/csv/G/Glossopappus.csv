@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136360,A,Compositae,,Glossopappus,,"chrysanthemoides",,"","Kunze",Synonym,,M,TICA,D2812C4A-505A-49D0-8CB3-EC125E9931A8,209030-1,"","","748","1846",gcc-121497
+gcc-121497,A,Compositae,,Glossopappus,,"macrotus",,"","(Durieu) Briq.",Accepted,,M,TICA,3F684A15-1D3D-4C32-BFE5-C9EC2960E511,,"","","77","1916",
+gcc-60789,A,Compositae,,Glossopappus,,"macrotus",subsp.,"chrysanthemoides","Maire",Synonym,,L,TICA,C179D8A2-6365-45B9-83E5-A136E92037B6,,"Bull. Soc. Hist. Nat. Afrique N. 19: 54 (1928)","","54","1928",gcc-121497
+gcc-66707,A,Compositae,,Glossopappus,,"macrotus",var.,"chrysanthemoides","(Kunze) Maire",Synonym,,L,TICA,A229353A-7D16-46D7-BF01-D0ED92FC4E6D,,"Bull. Soc. Hist. Nat. Afrique N. 19: 54 (1928)","","54","1928",gcc-121497
+gcc-55075,A,Compositae,,Glossopappus,,"macrotus",var.,"concolor","Maire",Synonym,,L,TICA,C804780C-2530-498A-9389-730D628F0C58,,"","","","",gcc-121497
+gcc-27881,A,Compositae,,Glossopappus,,"macrotus",var.,"discolor","Maire",Synonym,,L,TICA,B72399E4-99DF-47BB-B13B-3384D49B9427,,"","","","",gcc-121497
+gcc-63300,A,Compositae,,Glossopappus,,"macrotus",var.,"hesperius","Maire",Synonym,,L,TICA,B83B1DD6-AC6E-4746-B290-B5CC7E4F82A3,,"Bull. Soc. Hist. Nat. Afrique N. 19: 54 (1928)","","54","1928",gcc-66478
+gcc-66478,A,Compositae,,Glossopappus,,"macrotus",subsp.,"hesperius","(Maire) Jahand. & Maire",Accepted,,L,TICA,5A321CA3-0020-4639-B066-CF15D4FD37CB,,"","","778","1934",
+gcc-149032,A,Compositae,,Glossopappus,,"macrotus",var.,"macrotus","",Synonym,,L,TICA,B36DE087-BECE-4DD4-9E6F-501563D1D56B,,"","","","",gcc-121497
+gcc-61626,A,Compositae,,Glossopappus,,"macrotus",subsp.,"macrotus","",Synonym,,L,TICA,3C6120C4-5BE8-4737-8E0B-A817A803C0C6,,"","","","",gcc-121497

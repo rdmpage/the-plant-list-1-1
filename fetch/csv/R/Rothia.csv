@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-4348,A,Compositae,,Rothia,,"andryaloides",,"","Gaertn.",Synonym,,L,TICA,19AA1A98-1145-4E0A-82AF-08157BC0739F,,"","","371","1791",gcc-35114
+gcc-119484,_,,,Rothia,,"argentea",,"","Lapeyr.",Unresolved,,L,TICA,BB2F8ADC-6CFC-45F9-AFA8-C545A6D59C17,241630-1,"Hist. Pl. Pyrenées 485. 1813","","485","1813",
+gcc-154982,A,Compositae,,Rothia,,"argentea",,"","Lapeyr.",Synonym,,M,TICA,6A051C80-269C-4B5E-90A0-CEC1F3440108,241630-1,"""P.P. de Lapeyrouse, Hist. Pl. Pyrénées. 1813""","","485","1813",gcc-117388
+gcc-86233,_,,,Rothia,,"artemisiifolia",,"","(DC.) Kuntze",Unresolved,,L,TICA,9DE04A89-4414-4311-BFAF-7A78CBC76258,222546-2,"Revis. Gen. Pl. 1","","361","1891",gcc-19257
+gcc-9002,_,,,Rothia,,"carolinensis",,"","Lam.",Unresolved,,L,TICA,310DE327-6C5B-475C-9C03-10DB676932AC,,"Journ. Hist. Nat. i. (1792) 16. t. 1.","","","1792",gcc-103858
+gcc-107876,A,Compositae,,Rothia,,"cheiranthifolia",,"","Roth",Synonym,,M,TICA,BCF122FC-624D-40EE-8E89-AB198B5E1305,,"Catal. Bot fasc. i. 105.","","","1797",gcc-143897
+gcc-127996,_,,,Rothia,,"corymbosa",,"","(Torr. & A.Gray) Kuntze",Unresolved,,L,TICA,FF8E49A9-C6D3-417D-BBE6-D8FE2278D192,222547-2,"Revis. Gen. Pl. 1","","361","1891",gcc-72043
+gcc-112510,A,Compositae,,Rothia,,"degenerica",,"","Kuntze",Synonym,,M,TICA,888D8CEA-707C-4F98-AAF9-B59B22962235,222548-2,"Revis. Gen. Pl. 3[3]: 169","","169","1898",gcc-85692
+gcc-3184,_,,,Rothia,,"filifolia",,"","Kuntze",Unresolved,,L,TICA,26A32BDD-3AE6-4AF4-855B-05E3C3D278E0,222549-2,"Revis. Gen. Pl. 1","","361","1891",
+gcc-132321,_,,,Rothia,,"flavescens",,"","(A.Gray) Kuntze",Unresolved,,L,TICA,871E7E0F-F1F1-4B5F-9DBB-E2FD19459239,222550-2,"Revis. Gen. Pl. 1","","361","1891",gcc-45993
+gcc-97504,A,Compositae,,Rothia,,"floccosa",,"","Pomel",Synonym,,M,TICA,5E1D4B54-65CD-452F-8431-940426D18572,241638-1,"","","3","1874",gcc-99238
+ild-6222,A,Leguminosae,,Rothia,,"hirsuta",,"","(Guill. & Perr.) Baker",Accepted,,H,ILDIS,6222,,"","","","",
+ild-31140,A,Leguminosae,,Rothia,,"indica",,"","(L.) Druce",Accepted,,H,ILDIS,31140,,"","","","",
+gcc-124025,A,Compositae,,Rothia,,"intermedia",,"","Kuntze",Synonym,,M,TICA,DE834478-98B4-454C-B391-CFC275A8CEFC,222551-2,"Revis. Gen. Pl. 3[3]: 170","","170","1898",gcc-3245
+gcc-103265,A,Compositae,,Rothia,,"lanata",,"","Bubani",Synonym,,M,TICA,4303376A-D833-4493-B0F8-A0E30D1559BA,,"Fl. Pyren. (Bubani) ii. 80.","","","1899",gcc-143897
+gcc-34252,A,Compositae,,Rothia,,"laxiflora",,"","Salzm. ex DC.",Synonym,Invalid,M,TICA,85B0B39F-654F-42C8-BCD8-3F7D7EB29113,241641-1,"Prodr. (DC.) 7(1): 247","","247","1838",gcc-9667
+gcc-4835,_,,,Rothia,,"lyrata",,"","Bubani",Unresolved,,L,TICA,1DB99BB9-4EF5-485B-9820-08FFD800B7B7,241642-1,"Fl. Pyren. (Bubani) ii. 81.","","ii. 81","",
+gcc-153803,A,Compositae,,Rothia,,"lyrata",,"","Bubani",Synonym,,M,TICA,E7969EED-D411-4E90-977A-B589E98454D9,241642-1,"""P. Bubani, Fl. Pyren. 2. 1899""","","81","1899",gcc-117388
+gcc-99909,_,,,Rothia,,"mexicana",,"","Kuntze",Unresolved,,L,TICA,89450EBE-0899-4F07-94E6-996F418CEC78,222552-2,"Revis. Gen. Pl. 1","","361","1891",
+gcc-129327,A,Compositae,,Rothia,,"pinnata",,"","(Lam.) Kuntze",Synonym,,M,TICA,F2DBFC24-A4A2-4DCA-B2DF-DC05540D9452,222553-2,"Revis. Gen. Pl. 3[3]: 170","","170","1898",gcc-706
+gcc-48764,A,Compositae,,Rothia,,"pinnata",var.,"pallida","Kuntze",Synonym,,L,TICA,F4FBD195-69B2-4F71-B62C-5A5756C54036,222554-2,"","","170","1898",gcc-706
+gcc-146866,A,Compositae,,Rothia,,"pinnata",var.,"pinnata","",Synonym,,L,TICA,6EF15952-9813-4979-899C-2154B4945459,,"","","","",gcc-706
+gcc-20098,A,Compositae,,Rothia,,"pinnata",var.,"purpurascens","Kuntze",Synonym,,L,TICA,C51D5AE3-7060-4831-8C2A-2529038F3192,222555-2,"Revis. Gen. Pl. 3[3]: 170","","170","1898",gcc-706
+gcc-123197,A,Compositae,,Rothia,,"pusilla",,"","(Wedd.) Kuntze",Synonym,,M,TICA,181332AD-3583-45A5-8DDB-CDC5260EF08F,222556-2,"Revis. Gen. Pl. 3[3]: 170","","170","1898",gcc-3245
+gcc-34455,A,Compositae,,Rothia,,"runcinata",,"","Roth",Synonym,,M,TICA,52348F95-478A-417D-B4F3-3FDE8461C385,241646-1,"Catal. Bot fasc. i. 107.","","107","1797",gcc-143897
+gcc-108365,_,,,Rothia,,"tenuifolia",,"","Kuntze",Unresolved,,L,TICA,BD176A92-E43B-4247-8106-AC1F05925001,222557-2,"Revis. Gen. Pl. 1","","361","1891",
+gcc-133795,A,Compositae,,Rothia,,"tenuifolia",,"","Tineo",Synonym,,M,TICA,CE217E25-49E7-4965-87BF-E6508163BC95,241647-1,"","","280","1827",gcc-145410
+ild-31141,A,Leguminosae,,Rothia,,"trifoliata",,"","(Roth) Pers.",Synonym,,H,ILDIS,31141,,"","","","",ild-31140

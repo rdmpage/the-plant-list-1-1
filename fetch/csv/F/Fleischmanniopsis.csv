@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17406,A,Compositae,,Fleischmanniopsis,,"anomalochaeta",,"","R.M.King & H.Rob.",Accepted,,M,TICA,27C91CB1-3A3E-4D9C-AC1E-202B7775CEF5,105150-2,"","","195","1977",
+gcc-138411,A,Compositae,,Fleischmanniopsis,,"langmaniae",,"","R.M.King & H.Rob.",Accepted,,M,TICA,DDF2A03D-5A8F-4CAA-9AD9-F08235721E5F,105151-2,"Phytologia 36","","196","1977",
+gcc-101338,A,Compositae,,Fleischmanniopsis,,"leucocephala",,"","(Benth.) R.M.King & H.Rob.",Accepted,,M,TICA,38BCCDC9-9CF3-4EED-932C-9C93AD1BFA63,105152-2,"Phytologia 21","","403","1971",
+gcc-67593,A,Compositae,,Fleischmanniopsis,,"leucocephala",var.,"anodonta","(B.L.Rob.) R.M.King & H.Rob.",Synonym,,L,TICA,CA58277A-2732-419D-A83A-D8635BB48D0A,105153-2,"Phytologia 36","","197","1977",gcc-101338
+gcc-41406,A,Compositae,,Fleischmanniopsis,,"leucocephala",var.,"leucocephala","",Synonym,,L,TICA,6A557E28-FF1B-45E5-B8AE-4CAF6029A74C,,"","","","",gcc-101338
+gcc-109133,A,Compositae,,Fleischmanniopsis,,"mendax",,"","(Standl. & Steyerm.) R.M.King & H.Rob.",Accepted,,M,TICA,A11E5650-449E-4ED4-ADAB-ADF3C5D07604,105154-2,"Phytologia 21","","403","1971",
+gcc-6171,A,Compositae,,Fleischmanniopsis,,"nubigenoides",,"","(B.L.Rob.) R.M.King & H.Rob.",Accepted,,M,TICA,A0FA4930-21EB-484A-9A79-0B7A6C94E3F6,208122-1,"Phytologia 21: 404. 1971.","","404","1971",
+gcc-93120,A,Compositae,,Fleischmanniopsis,,"paneroi",,"","B.L.Turner",Unresolved,Illegitimate,L,TICA,9766019A-ACAA-44A1-9FA7-8A0E194C44CF,,"","","","",

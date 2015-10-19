@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-30709,A,Compositae,,Ischnea,,"brassii",,"","H.Rob. & Brettell",Accepted,,M,TICA,BD73EAA3-86EA-4D6D-AC17-38DEEE828E8A,226238-1,"","","157","1973",
+gcc-9694,A,Compositae,,Ischnea,,"capellana",,"","Swenson",Accepted,,M,TICA,1EEADEF6-05F7-44C5-A111-121C48ED047E,,"","","261","1994",
+gcc-48410,A,Compositae,,Ischnea,,"elachoglossa",,"","F.Muell.",Accepted,,M,TICA,46AC9D4E-ACB6-4414-A188-59B1829FC573,,"","","13","1889",
+gcc-133607,A,Compositae,,Ischnea,,"elachoglossa",f.,"elachoglossa","",Synonym,,L,TICA,7A639D3F-0C9B-4391-92AD-E5E247496A07,,"","","","",gcc-48410
+gcc-73070,A,Compositae,,Ischnea,,"elachoglossa",f.,"nana","J.Kost.",Synonym,,L,TICA,49915042-2081-4C45-9993-0C441CBB80BE,877502-1,"Blumea 22 (1975)","","212","1975",gcc-48410
+gcc-117819,A,Compositae,,Ischnea,,"keysseri",,"","Mattf.",Accepted,,M,TICA,C64C6E1B-C1BE-4395-B275-C183E8073919,226240-1,"","","""440, 498""","1929",
+gcc-47591,A,Compositae,,Ischnea,,"korythoglossa",,"","Mattf.",Accepted,,M,TICA,CB0BB71B-707D-47F2-97BF-582D0E5DBBD0,,"","","","",
+gcc-18427,A,Compositae,,Ischnea,,"latifolia",,"","Mattf.",Synonym,,M,TICA,F18868DD-B212-49D1-9442-220AD80BFA44,226242-1,"","","475","1940",gcc-94262
+gcc-134582,A,Compositae,,Ischnea,,"spathulata",,"","Mattf.",Synonym,,M,TICA,5884D6D5-A0E2-44BC-B369-E81D9A57F07B,226243-1,"","","267","1937",gcc-48410
+gcc-114869,A,Compositae,,Ischnea,,"spathulata",f.,"digitata","J.Kost.",Synonym,,L,TICA,9B14C50F-F0CC-4606-9D8A-BADC4CDE3517,877503-1,"Blumea 22 (1975)","","213","1975",gcc-30709
+gcc-74272,A,Compositae,,Ischnea,,"spathulata",f.,"f","pathulata",Synonym,,L,TICA,4D1E5501-6E5B-4265-ABF9-3A1A0CC2347C,,"","","","",gcc-48410
+gcc-124040,A,Compositae,,Ischnea,,"spathulata",f.,"spathulata","",Synonym,,L,TICA,CF515E35-FF24-48CD-983B-CFCC163E92DE,,"","","","",gcc-48410

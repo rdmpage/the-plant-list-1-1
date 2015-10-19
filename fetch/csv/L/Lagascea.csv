@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-97085,A,Compositae,,Lagascea,,"angustifolia",,"","DC.",Accepted,,M,TICA,A1957817-BA15-4FAE-9B36-9310BA428CE9,134782-2,"Prodr. (DC.) 5: 92","","92","1836",
+gcc-140004,A,Compositae,,Lagascea,,"aurea",,"","Stuessy",Accepted,,M,TICA,8FF340C2-304D-4F7D-96FC-F3FC3DECF65C,,"""Fieldiana, Bot. 38: 96 (-97), figs. 1978""","","","1978",
+gcc-102981,A,Compositae,,Lagascea,,"biflora",,"","Hemsl.",Accepted,,M,TICA,382D9029-97C8-417A-BCC9-A04B10ABCBDD,,"Diagn. Pl. Nov. Mexic.","","33","",
+gcc-122249,A,Compositae,,Lagascea,,"campestris",,"","Gardner",Synonym,,M,TICA,64EA0B30-9282-41E5-826A-CB98BA7F4179,228389-1,"London J. Bot. 5","","238","1846",gcc-24090
+gcc-98881,A,Compositae,,Lagascea,,"decipiens",,"","Hemsl.",Accepted,,M,TICA,C3082BAF-B76A-4848-8FF3-9717B451D31F,134785-2,"Diagn. Pl. Nov. Mexic.","","33","1879",
+gcc-63473,A,Compositae,,Lagascea,,"decipiens",var.,"decipiens","",Synonym,,L,TICA,B8E98686-84D3-42B7-B116-B71A36FF26F6,,"","","","",gcc-98881
+gcc-9596,A,Compositae,,Lagascea,,"decipiens",var.,"glandulosa","(Fernald) Stuessy",Accepted,,L,TICA,1000706C-F506-44B9-A54D-11EBD815C56E,134786-2,"""Fieldiana, Bot. 38: 126. 1978""","","126","1978",
+gcc-46141,A,Compositae,,Lagascea,,"glandulosa",,"","A.Nelson",Unresolved,,L,TICA,08285BF0-CFFB-4691-A752-55856989A2C3,,"","","","",
+gcc-95423,A,Compositae,,Lagascea,,"glandulosa",,"","Fernald",Synonym,,M,TICA,F1799BA8-7682-4537-8896-8F4AFACF670D,134787-2,"","","534","1895",gcc-9596
+gcc-29780,A,Compositae,,Lagascea,,"helianthifolia",,"","Kunth",Unresolved,Illegitimate,L,TICA,C09E229C-FA66-4008-B290-370EECEE4F01,,"","","","1820 [1818]",
+gcc-67600,A,Compositae,,Lagascea,,"helianthifolia",var.,"adenocaulis","B.L.Rob.",Synonym,,L,TICA,BE4EF0A0-924F-498E-A4F5-D874A472EFBE,134788-2,"","","38","1907",gcc-69495
+gcc-69495,A,Compositae,,Lagascea,,"helianthifolia",var.,"helianthifolia","",Unresolved,,L,TICA,08C747E1-0A0E-479C-8ED6-E6E4393A8EB0,,"","","","1820",
+gcc-42130,A,Compositae,,Lagascea,,"helianthifolia",var.,"levior","(B.L.Rob.) B.L.Rob.",Unresolved,,L,TICA,8C185363-D126-4400-8D49-4E0DB8281343,134789-2,"Proc. Amer. Acad. Arts 43: 38. 1907","","38","1907",
+gcc-89684,A,Compositae,,Lagascea,,"heteropappus",,"","Hemsl.",Accepted,,M,TICA,4444CA40-6B8A-4CB1-B26A-8241491A9EFD,134791-2,"Diagn. Pl. Nov. Mexic.","","33","1879",
+gcc-35342,A,Compositae,,Lagascea,,"kunthiana",,"","Gardner",Synonym,,M,TICA,D992882E-C777-450E-834D-4187D6844AB3,228394-1,"London J. Bot. 5","","238","1846",gcc-24090
+gcc-134597,A,Compositae,,Lagascea,,"latifolia",,"","(Cerv.) DC.",Synonym,,M,TICA,34FA82DC-52D2-4EE2-B290-E82521A99397,228395-1,"","","92","1836",gcc-69495
+gcc-100165,A,Compositae,,Lagascea,,"liebmannii",,"","A.Nelson",Unresolved,,L,TICA,34BDC7C4-E0C2-4DCF-AB5D-99F975806B3B,,"","","","",
+gcc-85121,A,Compositae,,Lagascea,,"liebmannii",,"","Sch.Bip. ex Klatt",Unresolved,,L,TICA,3385ACD8-7375-4351-AE2A-77F889B004A4,,"Leopoldina xx. (1884) 91.","","","1884",gcc-927
+gcc-94880,A,Compositae,,Lagascea,,"liebmannii",,"","Sch.Bip.",Unresolved,,L,TICA,18B27EB4-4F68-4127-A73D-8E095896433A,134792-2,"","","","",
+gcc-17069,A,Compositae,,Lagascea,,"macrophylla",,"","Steud.",Unresolved,,L,TICA,11294C0B-1138-4AAE-AFA8-1F91F31F5876,228397-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 4""","","4","1840",
+gcc-139789,A,Compositae,,Lagascea,,"media",,"","(S.F.Blake) Standl.",Unresolved,,L,TICA,61EFB8E6-1CBB-4661-B3F0-F38333780CE0,134793-2,"","","398","1931",
+gcc-94734,A,Compositae,,Lagascea,,"mocinniana",,"","DC.",Synonym,,M,TICA,8277C8F6-30DF-4BBC-8535-8DB8A150ECB8,134794-2,"Prodr. (DC.) 5: 92","","92","1836",gcc-69124
+gcc-132453,A,Compositae,,Lagascea,,"mollis",,"","Sch.Bip.",Unresolved,,L,TICA,33732F7F-1763-48D0-8E8E-E34DC7CDCF74,,"""in Seem. Bot. Voy. Herald, 298.""","","298","",
+gcc-24090,A,Compositae,,Lagascea,,"mollis",,"","Cav.",Accepted,,M,TICA,6B5812A8-B05C-4F22-A0BC-2C837BE61CD3,,"Anales Ci. Nat. 6","","","1803",
+gcc-5366,A,Compositae,,Lagascea,,"palmeri",,"","(B.L.Rob.) B.L.Rob.",Accepted,,M,TICA,7263ADAE-460A-4CCC-B5A4-0A0359384E4C,134796-2,"","","38","1907",
+gcc-76960,A,Compositae,,Lagascea,,"parvifolia",,"","Klatt",Synonym,,M,TICA,500CE8FA-947E-43C7-8298-65C93192A320,134797-2,"","","360","1894",gcc-24090
+gcc-48072,A,Compositae,,Lagascea,,"pringlei",,"","(B.L.Rob.) B.L.Rob.",Unresolved,,L,TICA,4E8E9900-BF21-4965-AA81-59127A237D86,134798-2,"","","38","1907",gcc-111451
+gcc-46388,A,Compositae,,Lagascea,,"pteropoda",,"","(S.F.Blake) Standl.",Synonym,,M,TICA,FD00012A-7FF4-4F40-9618-55F7EE2265D6,134799-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 8: 398""","","398","1931",gcc-69495
+gcc-117837,A,Compositae,,Lagascea,,"rigida",,"","(Cav.) Stuessy",Accepted,,L,TICA,B47CEBC6-48C4-4F82-A698-C18F664BBDBE,134800-2,"""Fieldiana, Bot. 38""","","107","1978",
+gcc-69124,A,Compositae,,Lagascea,,"rigida",var.,"mocinniana","(DC.) Stuessy",Accepted,,L,TICA,BCB97AFA-87C5-419C-BC09-E41C06228093,134801-2,"""Fieldiana, Bot. 38: 111. 1978""","","111","1978",
+gcc-69410,A,Compositae,,Lagascea,,"rigida",var.,"rigida","",Synonym,,L,TICA,D508F1F9-FDD4-4621-AC3B-E60F2177FDF9,,"","","","1978",gcc-117837
+gcc-120297,A,Compositae,,Lagascea,,"rubra",,"","A.Nelson",Unresolved,,L,TICA,D3346D26-1AE2-472E-92E1-C7296A678A0D,,"","","","",gcc-117837
+gcc-51383,A,Compositae,,Lagascea,,"rubra",,"","Kunth",Synonym,,L,TICA,468235ED-8E2D-41EB-8190-5F4CDB4DDA73,,"","","","1820 [1818]",gcc-117837
+gcc-39060,A,Compositae,,Lagascea,,"suaveolens",,"","Kunth",Synonym,,M,TICA,6AF8689E-92EF-4B5B-882E-4877C39CE674,,"","","20","1820 [1818]",gcc-69495
+gcc-5939,A,Compositae,,Lagascea,,"suaveolens",,"","A.Nelson",Unresolved,,L,TICA,8ADC5331-10D4-4CCE-8A18-0B0BF2A5D099,,"","","","",
+gcc-144763,A,Compositae,,Lagascea,,"tomentosa",,"","B.L.Rob. & Greenm.",Synonym,,M,TICA,F1691901-9BD6-4ECA-84CF-FEDBDB45E932,134804-2,"Proc. Amer. Acad. Arts 32","","43","1896",gcc-69495
+gcc-32850,A,Compositae,,Lagascea,,"tomentosa",,"","A.Nelson",Unresolved,,L,TICA,8D8FBE59-0347-4AA3-B1ED-3CED5D0AFBDB,,"","","","",

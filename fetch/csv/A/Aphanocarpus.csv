@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-12688,A,Rubiaceae,,Aphanocarpus,,"steyermarkii",,"","(Standl.) Steyerm.",Accepted,,H,WCSP,12688,15944-2,"Mem. New York Bot. Gard.","12(3): 264","","1965",
+kew-12689,A,Rubiaceae,,Aphanocarpus,,"steyermarkii",f.,"elongatus","Steyerm.",Synonym,,L,WCSP,12689,272424-2,"Ann. Missouri Bot. Gard.","71: 331","","1984",kew-12688
+kew-12690,A,Rubiaceae,,Aphanocarpus,,"steyermarkii",f.,"glabrior","Steyerm.",Synonym,,L,WCSP,12690,272425-2,"Ann. Missouri Bot. Gard.","71: 330","","1984",kew-12688
+tro-27907468,A,Rubiaceae,,Aphanocarpus,,"steyermarkii",f.,"steyermarkii","",Synonym,,L,TRO,27907468,,"","","","",kew-12688

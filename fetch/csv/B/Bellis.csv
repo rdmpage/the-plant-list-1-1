@@ -1,0 +1,133 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-134627,A,Compositae,,Bellis,,"aculeata",,"","Labill.",Synonym,,M,TICA,0BA850D7-0EBC-402B-8A27-E830C180BEFA,163417-3,"","","","1806",gcc-80635
+gcc-6779,A,Compositae,,Bellis,,"alpina",,"","Hegetschw.",Synonym,,M,TICA,BBCE1E5C-345A-4CAB-9C50-0C9432D5C0CD,,"","","821","1839",gcc-29324
+gcc-12881,A,Compositae,,Bellis,,"americana",,"","Mirb. ex Steud.",Synonym,,M,TICA,057D0336-B246-4633-BF51-18056ECBD161,184360-1,"","","195","1840",gcc-21173
+gcc-106887,A,Compositae,,Bellis,,"annua",,"","L.",Accepted,,M,TICA,723DE390-2FAD-4ED7-B668-A8DA9114C6B6,184361-1,"","","887","1753",
+gcc-36737,A,Compositae,,Bellis,,"annua",var.,"acutisquama","Pau ex Hunter",Synonym,,L,TICA,7921E481-BE35-487E-B3F9-441A749D36BF,,"","","","1906",gcc-106887
+gcc-156566,A,Compositae,,Bellis,,"annua",f.,"annua","",Synonym,,L,TICA,7C941E2C-C1ED-4762-815C-EFE51E71E40B,,"","","","",gcc-106887
+gcc-157095,A,Compositae,,Bellis,,"annua",var.,"annua","",Synonym,,L,TICA,07E332C9-A418-452C-B17E-FAA410147FD4,,"","","","",gcc-106887
+gcc-54813,A,Compositae,,Bellis,,"annua",subsp.,"annua","",Synonym,,L,TICA,2864DB22-513E-47BF-84E5-7114E4BDD6CA,,"","","","",gcc-106887
+gcc-74880,A,Compositae,,Bellis,,"annua",f.,"caerulea","Albo",Synonym,,L,TICA,4FA95E97-778C-4379-A179-511866ABC4B1,,"","","","1919",gcc-106887
+gcc-47585,A,Compositae,,Bellis,,"annua",var.,"dentata","(DC.) Rouy",Synonym,,L,TICA,2A0BDF06-D0E6-45F2-A8A4-582B961656D8,,"Fl. France 8: 139 (1903)","","139","1903",gcc-106887
+gcc-53121,A,Compositae,,Bellis,,"annua",subsp.,"majoricensis","(Gand.) Gand.",Synonym,,L,TICA,D1A023DF-F17C-4090-ABAF-63ABEEB960A1,,"""Gand., Nov. Consp. Fl. Eur. 1910.""","","281","1910",gcc-106887
+gcc-62307,A,Compositae,,Bellis,,"annua",subsp.,"microcephala","(Lange) Nyman",Synonym,,L,TICA,2724C516-243A-43D5-BB48-ADAE3A62B255,,"","","390","1879",gcc-93876
+gcc-2442,A,Compositae,,Bellis,,"annua",subsp.,"minuta","(DC.) Quézel & Santa",Synonym,,L,TICA,D2C8E713-BD6C-4A9C-A361-047285E8E846,,"","","","",gcc-93876
+gcc-57359,A,Compositae,,Bellis,,"annua",var.,"minuta","DC.",Synonym,,L,TICA,C7BB9FA4-2713-4756-A71C-85C721783F70,,"Prodr. 5: 304 (1836)","","304","1836",gcc-61668
+gcc-61668,A,Compositae,,Bellis,,"annua",subsp.,"minuta","(DC.) Meikle",Accepted,,L,TICA,FBB5C3B7-6F23-4BA6-865B-A880F6511ADC,924076-1,"","","""869, 1897""","1985",
+gcc-65010,A,Compositae,,Bellis,,"annua",var.,"minuta","(DC.) Ball",Synonym,,L,TICA,6206F276-09D8-4198-97E4-C3105AD1B6FB,,"","","","",gcc-93876
+gcc-73643,A,Compositae,,Bellis,,"annua",f.,"pubescens","Carano & Bamb.",Synonym,,L,TICA,41360336-1CEA-4B85-8A59-210DA7089993,,"","","","1923",gcc-106887
+gcc-66004,A,Compositae,,Bellis,,"annua",var.,"radicans","Coss.",Synonym,,L,TICA,61F84ED3-2C9A-444E-A8A2-CB4320505A02,,"","","","",gcc-93876
+gcc-50029,A,Compositae,,Bellis,,"annua",subsp.,"repens","(Lam.) Govaerts",Synonym,,L,TICA,DB2F81A4-5103-4B5B-83AF-5CC341B5C1E4,,"","","10","1996",gcc-106887
+gcc-61794,A,Compositae,,Bellis,,"annua",subsp.,"vandasii","(Velen. ex Velen.) D.A.Webb",Synonym,,L,TICA,505B1840-6034-4F41-B452-A97E387FB0DA,876646-1,"","","18","1975",gcc-106887
+gcc-63183,A,Compositae,,Bellis,,"annua",var.,"vergens","Pomel",Synonym,,L,TICA,71B3ECC5-85C9-4FB3-988C-B4BFB4B197B9,,"","","","",gcc-106887
+gcc-67807,A,Compositae,,Bellis,,"annua",var.,"vergens","(Pomel) Quézel & Santa",Synonym,,L,TICA,20ECC275-4168-4487-885F-DA3606AA655B,,"","","","",gcc-106887
+gcc-77375,A,Compositae,,Bellis,,"arabica",,"","Raeusch.",Unresolved,,L,TICA,D74E1E51-5668-4CBF-8C3D-66B9DD3E317F,,"""Nom. ed. III. 246, nomen.""","","246","",
+gcc-132532,A,Compositae,,Bellis,,"armena",,"","Boiss.",Synonym,,M,TICA,D6A63038-74EE-4EA7-962C-E37BA5CC2BDF,184363-1,"","","174","1875",gcc-29324
+gcc-140543,A,Compositae,,Bellis,,"atlantica",,"","Boiss. & Reut.",Synonym,,M,TICA,B7050D98-ED21-430B-A5B1-F546EAE0ADCD,184364-1,"","","54","1852",gcc-116743
+gcc-43100,A,Compositae,,Bellis,,"azorica",,"","Hochst.",Accepted,,M,TICA,F0E9BD86-85BF-412E-BB56-4FD7CAFF24F3,,"","","31","1844",
+gcc-3043,A,Compositae,,Bellis,,"bernardii",,"","Boiss. & Reut.",Accepted,,M,TICA,65A69A00-24E2-4CC3-8345-059FB42F0852,184366-1,"","","56","1852",
+gcc-113221,A,Compositae,,Bellis,,"caerulescens",,"","(Coss.) Coss. ex Ball",Accepted,,M,TICA,0E77C7D5-62EC-4794-B0CE-B725CFEC1555,,"""Ball in J. Linn. Soc., Bot. 16. 1878.""","","495","1878",
+gcc-1733,A,Compositae,,Bellis,,"caerulescens",,"","Coss. & Balansa",Unresolved,,L,TICA,02B49A9C-D1E5-47F0-BCA5-032130695B55,184367-1,"""Bull. Soc. Bot. France 22: 60, nomen""","","60","1875",
+gcc-96642,A,Compositae,,Bellis,,"campestris",,"","Vell.",Unresolved,,L,TICA,62CA5F28-46BC-4865-B56F-920DB2D4EF90,,"","","","1829",
+gcc-95207,A,Compositae,,Bellis,,"catalaunica",,"","Sennen",Unresolved,,L,TICA,0CCA188C-282E-42F4-AE96-8EC0CCF37EE0,184369-1,"""Bull. Soc. Bot. France 68: 406, nomen""","","406","1922",
+gcc-22332,A,Compositae,,Bellis,,"ciliaris",,"","Labill.",Synonym,,M,TICA,B97DF0BB-0840-45BE-8F6C-29540711DA84,163454-3,"","","","1806",gcc-116934
+gcc-131996,A,Compositae,,Bellis,,"ciliata",,"","Raf.",Synonym,,M,TICA,19060825-8919-49E9-B94A-E239C108679B,31091-2,"","","24","1837",gcc-108091
+gcc-68204,A,Compositae,,Bellis,,"ciliata",var.,"ciliata","",Synonym,,L,TICA,3B8DA5AC-587A-4B95-AD90-DD11FE9C6685,,"","","","",gcc-108091
+gcc-54484,A,Compositae,,Bellis,,"ciliata",var.,"triflora","Raf.",Synonym,,L,TICA,23564BB5-AAB8-4E12-BE3F-6E8711E114CB,31092-2,"","","25","1837",gcc-21173
+gcc-81379,A,Compositae,,Bellis,,"cordifolia",,"","(Kunze) Willk.",Accepted,,M,TICA,376BF77A-5A53-45A0-A2E8-6FAC714C8D6A,,"","","","",
+gcc-120868,A,Compositae,,Bellis,,"croatica",,"","Gand.",Synonym,,M,TICA,F097E743-2EB3-4C23-B11B-C884AED1A251,184373-1,"","","16","1883",gcc-29324
+gcc-12665,A,Compositae,,Bellis,,"decipiens",,"","Gand.",Unresolved,,L,TICA,8F70BD1C-02BE-441B-BD16-179C51020B26,998703-1,"","","4","1876",
+gcc-5357,A,Compositae,,Bellis,,"dentata",,"","(Viv.) DC.",Synonym,,M,TICA,9D992CCC-D2FD-40C8-AB5D-09FF9403F3A2,184374-1,"","","304","1836",gcc-106887
+gcc-104005,A,Compositae,,Bellis,,"droserifolia",,"","Gouan",Synonym,,M,TICA,BEE4BE04-D320-4F6D-810D-A28D9D774CF6,184375-1,"","","69","1773",gcc-101322
+gcc-92513,A,Compositae,,Bellis,,"dubia",,"","Spreng.",Accepted,,M,TICA,D78D74C8-1F20-400B-9DA0-88C59FC4F9DC,184376-1,"","","582","1826",
+gcc-4691,A,Compositae,,Bellis,,"garciae",,"","S.F.Blake",Synonym,,M,TICA,1470AFB2-AD6D-43DD-84F0-08B68CCA68B1,31093-2,"Contr. U. S. Natl. Herb. 22","","593","1924",gcc-79963
+gcc-132953,A,Compositae,,Bellis,,"geifolia",,"","Banks & Sol. ex Hook.",Unresolved,,L,TICA,B68EFCE7-0FD8-4F8A-A7A2-E46DBA0AEAE0,184378-1,"","","","1852",gcc-25858
+gcc-87363,A,Compositae,,Bellis,,"glandulosa",,"","Klatt",Synonym,,L,TICA,8C7ADEB8-B2C2-40DD-BE20-7D1E8926E4A2,,"","","","1883",gcc-119233
+gcc-88143,A,Compositae,,Bellis,,"graminea",,"","Labill.",Synonym,,M,TICA,5984B18B-A855-49A0-868E-7EC54F7A713F,163480-3,"","","","1806",gcc-104050
+gcc-22617,A,Compositae,,Bellis,,"helichrysoides",,"","Auct.",Unresolved,,L,TICA,7E765D15-6C28-4E95-8ACC-29DEB53D9ABB,,"Möller's Deutsche Gärtn.-Zeitung 47: 413 (1932)","","413","1932",
+gcc-30357,A,Compositae,,Bellis,,"helichrysoides",,"","Hort. ex Herb",Unresolved,,L,TICA,C2EEAA2D-63F6-4F9A-959E-3827EFD0D4E4,184381-1,"""in Mollers Deutsch. Gartner-Zeit. 1932, xlvii. 413.""","","xlvii. 413","1932",
+gcc-36956,A,Compositae,,Bellis,,"hirta",,"","Host",Synonym,,M,TICA,BB697907-3711-4565-AFDA-4476029775D5,,"","","","1831",gcc-116743
+gcc-115539,A,Compositae,,Bellis,,"hortensis",,"","Mill.",Synonym,,M,TICA,3E941519-8D9B-4A8E-961F-BC64EDF3DBBA,184383-1,"","","3","1768",gcc-29324
+gcc-51130,A,Compositae,,Bellis,,"hybrida",,"","Ten.",Synonym,,M,TICA,BDCCAF31-B059-4EF0-BCBF-5ED9D2F032C2,,"","","","",gcc-29324
+gcc-83488,A,Compositae,,Bellis,,"hyrcanica",,"","Woronow",Accepted,,M,TICA,7BB29E53-50CA-4462-B91E-746B8E39F0EC,184385-1,"","","70","1916",
+gcc-100799,A,Compositae,,Bellis,,"integrifolia",,"","Michx.",Synonym,,M,TICA,628BD670-BFB6-462E-AEA7-9B6EE613E98F,184387-1,"","","131","1803",gcc-21173
+gcc-119028,A,Compositae,,Bellis,,"integrifolia",,"","DC.",Synonym,,M,TICA,CBB9F56D-9F0B-47EA-B9A9-C455BE37666A,,"","","","1804",gcc-29324
+gcc-109417,A,Compositae,,Bellis,,"javanica",,"","Blume",Synonym,,M,TICA,4F175575-2102-4D26-933C-AE9B45B446AA,184388-1,"","","917","1826",gcc-8410
+gcc-12294,A,Compositae,,Bellis,,"latifolia",,"","Gand.",Unresolved,,L,TICA,8F5D79E7-4216-4174-9051-16EC61BBCAC0,998704-1,"","","4","1876",
+gcc-126607,A,Compositae,,Bellis,,"longifolia",,"","Orph. ex Nyman",Synonym,,M,TICA,9C037D7C-3BFF-49A4-9104-D5B3DD5830FC,,"","","890","1882",gcc-116743
+gcc-82625,A,Compositae,,Bellis,,"longifolia",,"","Boiss. & Heldr.",Accepted,,M,TICA,3F338A67-EC09-445F-90EC-727B7DC831B6,,"","","1","1849",
+gcc-36617,A,Compositae,,Bellis,,"magellanica",,"","DC.",Synonym,,L,TICA,FC02DC0A-1E2D-4B61-97DA-43E45E8AFBBC,,"","","7","1804",gcc-114392
+gcc-42267,A,Compositae,,Bellis,,"major",,"","Garsault",Synonym,Invalid,M,TICA,19017D8F-8E15-48C4-814F-4E4C8A71296E,,"","","t. 167","1764",gcc-135712
+gcc-139365,A,Compositae,,Bellis,,"majoricensis",,"","Gand.",Synonym,,M,TICA,835367ED-CEE3-47E8-81BA-F296DD3F11E4,184393-1,"Bull. Soc. Bot. France 47","","121","1900",gcc-106887
+gcc-17666,A,Compositae,,Bellis,,"margaritifolia",,"","Huter",Synonym,,M,TICA,3D548D10-9080-4826-AB3E-20994794E570,184394-1,"","","107","1899",gcc-29324
+gcc-46058,A,Compositae,,Bellis,,"mexicana",,"","A.Gray",Synonym,,M,TICA,BF4648D1-9C3D-4B06-A2BD-5561DC1B64E8,,"","","","1852",gcc-130748
+gcc-93876,A,Compositae,,Bellis,,"microcephala",,"","Lange",Accepted,,M,TICA,6F89EAF6-E4E8-4A38-9CA5-8BAF6C7A8930,184396-1,"","","66","1861",
+gcc-119355,A,Compositae,,Bellis,,"mima",,"","S.F.Blake",Synonym,,M,TICA,B2D706F8-3C8E-46E8-B848-C4F947FCC7F3,31095-2,"Contr. U. S. Natl. Herb. 22","","594","1924",gcc-80535
+gcc-113657,A,Compositae,,Bellis,,"minor",,"","Garsault",Synonym,Invalid,M,TICA,ACE300D5-AA18-4F99-ACDC-B8203B68A7CC,,"","","","1764",gcc-29324
+gcc-50942,A,Compositae,,Bellis,,"minor",,"","Gand.",Unresolved,,L,TICA,6292532F-EE10-4F7E-9A8E-5E7F957CAD31,998719-1,"""Dec. Pl. Nov., 2: 4 (1876)""","","4","1876",
+gcc-5290,A,Compositae,,Bellis,,"minuta",,"","(DC.) Bég.",Synonym,,M,TICA,E3594807-B4E0-4FFD-8094-09E00E03C6A3,,"","","","",gcc-93876
+gcc-95512,A,Compositae,,Bellis,,"mossambicensis",,"","Klatt",Synonym,,M,TICA,E5507C05-8B00-4257-8318-8F8C477CB241,,"","","","1883",gcc-12670
+gcc-139733,A,Compositae,,Bellis,,"natalis-jesu",,"","Sennen & Mauricio",Unresolved,,L,TICA,46A5CF68-4791-4BC1-BE77-F3664C0B4A1B,184400-1,"""Cat. Fl. Rif Or. 56 [1933], nomen.""","","""56 [1933], nomen.""","",
+gcc-5354,A,Compositae,,Bellis,,"nicolasi",,"","Sennen & Mauricio",Unresolved,,L,TICA,095A13C4-6183-4AA8-8B15-09FE4DB80304,184401-1,"""Cat. Fl. Rif Or. 55 [1933], nomen.""","","""55 [1933], nomen.""","",
+gcc-10972,A,Compositae,,Bellis,,"nutans",,"","Raf.",Unresolved,,L,TICA,6999919A-A7EA-4183-897D-1480DE9BAB22,,"","","23","1837",
+gcc-20538,A,Compositae,,Bellis,,"orthopoda",,"","B.L.Rob. & Fernald",Synonym,,M,TICA,63F89BA0-8F4D-4CA0-92DF-25FFEF7D3C2A,31096-2,"Proc. Amer. Acad. Arts 30","","117","1894",gcc-100526
+gcc-4246,A,Compositae,,Bellis,,"pappulosa",,"","Boiss. ex DC.",Accepted,,M,TICA,4B3E9594-4D8A-4957-9975-07E358F4635A,184404-1,"","","276","1838",
+gcc-77211,A,Compositae,,Bellis,,"pappulosa",,"","Boiss.",Synonym,,M,TICA,A54A1758-3F70-4486-9688-665B2E299BFC,,"","","","",gcc-116743
+gcc-83636,A,Compositae,,Bellis,,"parviflora",,"","Raf.",Unresolved,,L,TICA,1669F8AF-D50A-4804-81A9-74BADC835924,,"","","23","1837",
+gcc-96286,A,Compositae,,Bellis,,"paschalis",,"","Sennen & Mauricio",Synonym,,M,TICA,E742D3DA-1E58-4CF9-8164-913258ECBB21,184407-1,"","","234","1936",gcc-93876
+gcc-80394,A,Compositae,,Bellis,,"pedunculata",,"","Vell.",Unresolved,,L,TICA,B6711264-F221-433A-9551-6D82E336D94E,,"","","","1829",
+gcc-29324,A,Compositae,,Bellis,,"perennis",,"","L.",Accepted,,M,TICA,B92D99A7-DDB5-422F-A14C-362FBC207915,184409-1,"Sp. Pl.","","886","1753",
+gcc-34417,A,Compositae,,Bellis,,"perennis",var.,"bernardii","(Boiss. & Reut.) Fiori",Synonym,,L,TICA,E3DC341D-D3C7-40A9-9356-3FCBB3273AC9,,"Nuov. Fl. Italia 2: 607 (1827)","","607","1827",gcc-3043
+gcc-57036,A,Compositae,,Bellis,,"perennis",subsp.,"bernardii","(Boiss. & Reut.) Rouy",Synonym,,L,TICA,C8BA013A-2C2D-497F-B897-8320A515B109,,"","","140","1903",gcc-3043
+gcc-50271,A,Compositae,,Bellis,,"perennis",var.,"caulescens","Rochebr.",Synonym,,L,TICA,1D419C2C-05F8-45E1-BA5F-5D3A676BF20E,,"Cat. Pl. Phan. Charente: 107 (1860)","","107","1860",gcc-29324
+gcc-74931,A,Compositae,,Bellis,,"perennis",f.,"discoidea","D.C.McClint.",Synonym,,L,TICA,6604909B-B417-4059-A4BF-53093CCE157A,918284-1,"","","119","1984",gcc-29324
+gcc-4816,A,Compositae,,Bellis,,"perennis",var.,"fagetorum","Lac.",Synonym,,L,TICA,1522AAAC-0626-4E6B-82AD-08F68166AE96,,"","","","1911",gcc-29324
+gcc-63294,A,Compositae,,Bellis,,"perennis",var.,"hybrida","(Ten.) Fiori",Synonym,,L,TICA,585214E4-D1DC-48E3-AB79-B5BB934A6086,,"Nuov. Fl. Italia 2: 607 (1927)","","607","1927",gcc-29324
+gcc-63423,A,Compositae,,Bellis,,"perennis",subsp.,"hybrida","(Ten.) Nyman",Synonym,,L,TICA,C8AB0035-CAB5-4AD0-B14C-B6C8D5B2B10C,,"","","","",gcc-29324
+gcc-70687,A,Compositae,,Bellis,,"perennis",var.,"margaritifolia","(Huter) Fiori",Synonym,,L,TICA,3C26BE63-12AE-44A6-8589-F014A39C75D7,,"Nuov. Fl. Italia 2: 607 (1827)","","607","1827",gcc-29324
+gcc-46175,A,Compositae,,Bellis,,"perennis",var.,"microcephala","Boiss.",Synonym,,L,TICA,295658ED-9B2E-4EEC-8979-559753C998D4,,"Fl. Orient. 3: 174 (1875)","","174","1875",gcc-29324
+gcc-150496,A,Compositae,,Bellis,,"perennis",var.,"perennis","",Synonym,,L,TICA,E35BE92F-699E-4E65-B9BF-700E51F08E0B,,"","","","",gcc-29324
+gcc-153378,A,Compositae,,Bellis,,"perennis",f.,"perennis","",Synonym,,L,TICA,7E3DBCB9-E444-4B0A-BE53-AD0AAC930AAD,,"","","","",gcc-29324
+gcc-156825,A,Compositae,,Bellis,,"perennis",subsp.,"perennis","",Synonym,,L,TICA,49301E57-6DB9-4306-A9CB-F4E693AA1759,,"","","","",gcc-29324
+gcc-91941,A,Compositae,,Bellis,,"perennis",f.,"plena","Sacc.",Synonym,,L,TICA,55121CE6-8646-4C03-834A-8787521F7590,,"","","","1864",gcc-29324
+gcc-131576,A,Compositae,,Bellis,,"perennis",f.,"pumila","(Arv.-Touv. & Dupuy) Rouy",Synonym,,L,TICA,044B4173-E7BA-4A78-9F1C-E13890A85867,,"Fl. France 8: 140 (1903)","","140","1903",gcc-29324
+gcc-3139,A,Compositae,,Bellis,,"perennis",var.,"pusilla","N.Terracc.",Synonym,,L,TICA,802F1EE8-68F1-418F-841F-05CE09E61D2B,,"","","","1878",gcc-29324
+gcc-72801,A,Compositae,,Bellis,,"perennis",f.,"rhodoglossa","Sacc.",Synonym,,L,TICA,F4E4261F-F203-47EA-9E87-032395B6A432,,"","","","1917",gcc-29324
+gcc-54926,A,Compositae,,Bellis,,"perennis",var.,"strobliana","Bég.",Synonym,,L,TICA,697DE0AC-1B09-4FB7-8523-71F2C7BAF622,,"","","","1923",gcc-29324
+gcc-40686,A,Compositae,,Bellis,,"perennis",var.,"subcaulescens","Martrin-Donos",Synonym,,L,TICA,9871DF25-1857-455B-9BFB-4B65CD7247BF,,"Pl. Crit. Tarn: 25 (1862)","","25","1862",gcc-29324
+gcc-26322,A,Compositae,,Bellis,,"perennis",subsp.,"sylvestris","(Cirillo) Rouy",Synonym,,L,TICA,669BF077-2492-4893-B4CA-30A37F42A073,,"","","141","1903",gcc-116743
+gcc-60238,A,Compositae,,Bellis,,"perennis",var.,"tubulosa","F.J.Schultz",Synonym,,L,TICA,759E13F3-338D-46BC-8C0E-9CBD8F0948B1,,"""Herb. Norm., n.s. (1793)""","","","1793",gcc-29324
+gcc-74575,A,Compositae,,Bellis,,"perennis",f.,"tubulosa","A.Kern.",Synonym,,L,TICA,8C8BD176-8585-490A-9375-449473E8C3C5,,"","","","1901",gcc-29324
+gcc-115308,A,Compositae,,Bellis,,"pilosa",,"","Banks & Sol. ex Hook.f.",Synonym,,M,TICA,6B350D62-D56B-4C99-B2A6-BBDCFCC4A931,,"","","","1852",gcc-79111
+gcc-129535,A,Compositae,,Bellis,,"pilosa",,"","Blume",Synonym,,M,TICA,1905BABA-061A-4715-A952-DC7A48F11FCC,184411-1,"","","917","1826",gcc-8410
+gcc-101119,A,Compositae,,Bellis,,"prostrata",,"","Pomel",Synonym,,M,TICA,52D122B2-5636-449F-ADB6-9C1E45C13973,184412-1,"","","287","",gcc-106887
+gcc-122017,A,Compositae,,Bellis,,"pumila",,"","Arv.-Touv. & Dupuy",Synonym,,M,TICA,437988A4-2CF7-4677-B9B2-CB1225A9F5CE,,"","","","1882",gcc-29324
+gcc-95832,A,Compositae,,Bellis,,"purpurascens",,"","B.L.Rob.",Synonym,,M,TICA,4E7532E4-15C0-4317-8137-903F8782DF2B,,"Proc. Amer. Acad. Arts 27","","172","",gcc-112060
+gcc-126202,A,Compositae,,Bellis,,"pusilla",,"","(N.Terracc.) Pignatti",Accepted,,M,TICA,63C36CC0-0E73-45D6-B06C-D4CC02B47BAD,,"","","54","1977",
+gcc-129424,A,Compositae,,Bellis,,"racemosa",,"","Steud.",Synonym,,M,TICA,54717712-448C-4072-B252-DC39E1E49E5F,184416-1,"","","105","1821",gcc-6746
+gcc-13922,A,Compositae,,Bellis,,"radicans",,"","Coss. & Durieu ex Batt. & Trab.",Synonym,,M,TICA,B6B709D3-56F4-4CA9-A1A7-19DB43D364D2,184417-1,"","","422","1890",gcc-106887
+gcc-107055,A,Compositae,,Bellis,,"ramosa",,"","Lam.",Synonym,,M,TICA,24817059-D8D9-4F70-8220-A9394FF22988,,"","","","1779",gcc-106887
+gcc-81667,A,Compositae,,Bellis,,"ramosa",,"","Jacq.",Synonym,,M,TICA,95BC16BB-8FF2-40BC-9458-7059DFCA99BA,184418-1,"","","28","1760",gcc-6746
+gcc-10509,A,Compositae,,Bellis,,"repens",,"","Lam.",Synonym,,M,TICA,5A61B01C-0200-4469-BC9F-139DE2DB1A7F,184420-1,"","","122","1779",gcc-106887
+gcc-109272,A,Compositae,,Bellis,,"rotundifolia",,"","(Desf.) Boiss. & Reut.",Accepted,,M,TICA,5A3A1792-6ACB-4255-9D7D-AE48EC7C170B,184421-1,"","","55","1852",
+gcc-48845,A,Compositae,,Bellis,,"scandens",,"","Vell.",Unresolved,,L,TICA,9A9FE79C-4643-4C66-BB15-5A7AAC7A3974,,"","","","1829",
+gcc-2700,A,Compositae,,Bellis,,"scaposa",,"","Gilib.",Synonym,Invalid,M,TICA,377047DA-180A-4520-BD4C-04F04FAC041B,,"","","","1782",gcc-29324
+gcc-24113,A,Compositae,,Bellis,,"stipitata",,"","Labill.",Synonym,,M,TICA,A4820A4B-31BC-4B29-9A8E-2C8D1D66F5A5,184424-1,"Nov. Holl. Pl. 2","","55","1806",gcc-79111
+gcc-95103,A,Compositae,,Bellis,,"subserrata",,"","Gand.",Unresolved,,L,TICA,3EC29842-9079-4B66-815C-8E87357CD617,998701-1,"","","3","1876",
+gcc-116743,A,Compositae,,Bellis,,"sylvestris",,"","Cirillo",Accepted,,M,TICA,D50EF1A6-5308-4F5A-A5F2-BF20158EC5EC,,"","","","1792",
+gcc-124415,A,Compositae,,Bellis,,"sylvestris",,"","(L.) Cyr.",Unresolved,,L,TICA,EA64E4D7-FAD0-49D7-A358-D0A410F23D6F,,"","","","",
+gcc-59941,A,Compositae,,Bellis,,"sylvestris",var.,"atlantica","(Boiss. & Reut.) Batt.",Synonym,,L,TICA,6BFFF0E7-2BEC-4720-8FC2-9A78DD8A6872,,"","","","",gcc-116743
+gcc-35174,A,Compositae,,Bellis,,"sylvestris",var.,"cyrenaica","Bég.",Synonym,,L,TICA,91C71E7D-985A-457C-A8AB-413ACDD10616,,"","","","",gcc-116743
+gcc-57841,A,Compositae,,Bellis,,"sylvestris",var.,"major","Alleiz.",Synonym,,L,TICA,964FB71F-A2F5-4E24-B8BC-89C1A2F3A49B,,"","","","",gcc-116743
+gcc-67465,A,Compositae,,Bellis,,"sylvestris",subsp.,"maroccana","Sennen",Synonym,,L,TICA,1FE58F31-1A2C-469A-854C-D77020EA1F3D,,"","","","",gcc-116743
+gcc-67104,A,Compositae,,Bellis,,"sylvestris",subsp.,"natalis-Jesus","Sennen & Mauricio",Synonym,,L,TICA,08A63E66-EA2A-4BA4-ACF0-D435AA2C7F68,,"","","","",gcc-116743
+gcc-33662,A,Compositae,,Bellis,,"sylvestris",var.,"pappulosa","Lange",Synonym,,L,TICA,62FAFE01-6A77-432E-921C-3E6890FE9D8C,,"","","","",gcc-116743
+gcc-61653,A,Compositae,,Bellis,,"sylvestris",var.,"rotundifolia","(Boiss. & Reut.) Batt.",Synonym,,L,TICA,E110639F-D674-42C9-B2EC-A8674CA0B052,,"","","","",gcc-116743
+gcc-148732,A,Compositae,,Bellis,,"sylvestris",subsp.,"sylvestris","",Synonym,,L,TICA,C0C622AB-B2F6-4BDB-97F7-4969131C6F41,,"","","","",gcc-116743
+gcc-153678,A,Compositae,,Bellis,,"sylvestris",var.,"sylvestris","",Synonym,,L,TICA,98EF126A-0719-45B9-8576-B3247EF83C6A,,"","","","",gcc-116743
+gcc-113046,A,Compositae,,Bellis,,"validula",,"","Gand.",Synonym,,M,TICA,A4C1F4B8-AFF0-4F05-9661-B6C316946CE5,,"","","","",gcc-29324
+gcc-138126,A,Compositae,,Bellis,,"vandasii",,"","Velen. ex Nyman",Synonym,,M,TICA,E1A09AD2-5863-4B6D-9A34-EFE93350916F,,"","","","1889",gcc-106887
+gcc-98658,A,Compositae,,Bellis,,"vandasii",,"","Velen.",Synonym,,M,TICA,582E554D-2C21-467D-8E83-96938125EFA9,,"""Velen. in Sitzungsber. Königl. Böhm. Ges. Wiss. Prag, Math.-Naturwiss. Cl. 1888. 1889.""","","49","1889",gcc-106887
+gcc-120324,A,Compositae,,Bellis,,"velutina",,"","Pomel",Synonym,,M,TICA,471196CE-3C3D-4FCC-9BE5-C73B51F2BAC6,184428-1,"","","","1874",gcc-116743
+gcc-79315,A,Compositae,,Bellis,,"vergens",,"","(Pomel) Bég.",Synonym,,M,TICA,1CC14436-AC51-4A16-B5D9-6B2A4E417171,,"","","","",gcc-106887
+gcc-138823,A,Compositae,,Bellis,,"xanthocomoides",,"","(Less.) A.Gray ex Hemsl.",Synonym,,M,TICA,7F66FEC2-679E-42D1-B99A-F16E625EA2C5,1029957-2,"","","118","1881",gcc-117340

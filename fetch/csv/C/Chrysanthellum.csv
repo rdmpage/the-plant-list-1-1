@@ -1,0 +1,36 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49552,A,Compositae,,Chrysanthellum,,"abyssinicum",,"","Sch.Bip.",Synonym,,M,TICA,684DCB90-C34D-4FDD-8547-5BD6922546A5,193242-1,"","","440","1842",gcc-113717
+gcc-132866,A,Compositae,,Chrysanthellum,,"americanum",,"","(L.) Vatke",Accepted,,M,TICA,DF8E0B7F-B97C-439E-9A21-E44536E174A3,193243-1,"Abh. Naturwiss. Vereine Bremen 9: 122. 1885.","","122","1885",
+gcc-150531,A,Compositae,,Chrysanthellum,,"americanum",var.,"americanum","",Synonym,,L,TICA,ACB456F8-FE17-4331-84BC-70CF72A8B295,,"","","","",gcc-132866
+gcc-16803,A,Compositae,,Chrysanthellum,,"americanum",var.,"integrifolium","(Steetz ex Steetz) Alexander",Synonym,,L,TICA,9069AFC6-C214-4917-8AD5-1F0B4E8B05D6,,"","","148","1955",gcc-135040
+gcc-113146,A,Compositae,,Chrysanthellum,,"argentinum",,"","Ariza & Cerana",Synonym,,M,TICA,7BAAFD45-B80B-479A-BC4E-B6FCAC6D41A8,901709-1,"","","267","1983",gcc-142183
+tro-50334928,A,Compositae,,Chrysanthellum,,"argentinum",,"","Ariza Esp. & Cerana",Synonym,,M,TRO,50334928,,"Bol. Soc. Argent. Bot.","15: 117","117","1973",gcc-31439
+gcc-82906,A,Compositae,,Chrysanthellum,,"boliviense",,"","Sch.Bip.",Synonym,Invalid,M,TICA,8826069A-1D52-4B7D-942C-7318D4A1BAC6,193245-1,"Bull. Soc. Bot. France 12","","82","1865",gcc-142183
+gcc-144540,A,Compositae,,Chrysanthellum,,"erectum",,"","Andersson",Synonym,,M,TICA,CB4CF24F-4E84-470A-BD2E-FE56316A2432,193246-1,"","","188","1855",gcc-50291
+gcc-79400,A,Compositae,,Chrysanthellum,,"fagerlindii",,"","Eliasson",Synonym,,M,TICA,F38E7800-5129-4A4F-95A6-6B60AC9FD9DD,193247-1,"","","91","1967",gcc-50291
+gcc-121705,A,Compositae,,Chrysanthellum,,"filiforme",,"","McVaugh",Accepted,,M,TICA,46E3E51E-5C86-488E-9BB1-CA5F47268253,57543-2,"Contr. Univ. Michigan Herb. 9","","412","1972",
+gcc-142183,A,Compositae,,Chrysanthellum,,"indicum",,"","DC.",Accepted,,M,TICA,16C5CA78-DEE1-4ED9-B635-F91AB12E81A3,193249-1,"Prodr. 5","","631","1836",
+gcc-31439,A,Compositae,,Chrysanthellum,,"indicum",subsp.,"afroamericanum","B.L.Turner",Accepted,,L,TICA,4F8FD90B-A44C-4D9E-9677-3A407005F837,57544-2,"Phytologia 51","","291","1982",
+gcc-155393,A,Compositae,,Chrysanthellum,,"indicum",subsp.,"indicum","",Synonym,,L,TICA,341D5BC0-69BF-464F-AD10-D73CCF551B21,,"","","","",gcc-142183
+gcc-47201,A,Compositae,,Chrysanthellum,,"indicum",var.,"indicum","",Synonym,,L,TICA,67FECC0D-F6B5-454F-8EF8-576F7A848389,,"","","","1836",gcc-142183
+gcc-63850,A,Compositae,,Chrysanthellum,,"indicum",var.,"mexicanum","(Greenm.) B.L.Turner",Accepted,,L,TICA,E862537C-3457-4459-8C1D-B9F9C4CC4806,,"Phytologia 51","","291","1982",
+gcc-135040,A,Compositae,,Chrysanthellum,,"integrifolium",,"","Steetz ex Steetz",Accepted,,M,TICA,520FDC89-B5FF-4B69-B72D-E912475F0CA9,193250-1,"","","160","1854",
+gcc-29889,A,Compositae,,Chrysanthellum,,"involutum",,"","Paul G.Wilson",Accepted,,M,TICA,FE229594-BCFF-4CB9-A6F8-3742234F1C34,,"Hooker's Icon. Pl. 36","","","1962",
+gcc-5809,A,Compositae,,Chrysanthellum,,"keilii",,"","B.L.Turner",Accepted,,M,TICA,E8990BC9-7A0A-4BF2-86C3-0ACF782CC127,274572-2,"Phytologia 64","","437","1988",
+gcc-41790,A,Compositae,,Chrysanthellum,,"leschenaultii",,"","(Cass.) Backer",Synonym,,M,TICA,9B65C307-D132-4130-A771-4D65F9B3B7D2,,"","","","1953",gcc-8657
+gcc-131501,A,Compositae,,Chrysanthellum,,"mexicanum",,"","Greenm.",Synonym,,M,TICA,5BB355FE-502B-4C43-82E4-E10D6795A26F,57548-2,"Proc. Amer. Acad. Arts 39","","114","1903",gcc-63850
+gcc-2675,A,Compositae,,Chrysanthellum,,"michoacanum",,"","B.L.Turner",Accepted,,M,TICA,8C6041C3-9F19-4A4A-B9D1-04E6EBAE8830,57549-2,"Phytologia 51","","292","1982",
+gcc-36485,A,Compositae,,Chrysanthellum,,"perennans",,"","B.L.Turner",Accepted,,M,TICA,D0FB9631-E9C0-462B-A0C8-43A9F839855D,57550-2,"Phytologia 51","","293","1982",
+gcc-141677,A,Compositae,,Chrysanthellum,,"pilzii",,"","Strother",Accepted,,M,TICA,8DF33A77-93F4-4F2F-82CF-F7EE1B624A3C,57551-2,"Madroño 23","","358","1976",
+gcc-123087,A,Compositae,,Chrysanthellum,,"pinnatisectum",,"","Paul G.Wilson",Synonym,,M,TICA,65524DA6-124E-414E-9C56-CD807E189EE9,,"","","","1958",gcc-48345
+gcc-82895,A,Compositae,,Chrysanthellum,,"pinnatisectum",,"","(Paul G.Wilson) Veldkamp",Synonym,,M,TICA,8B33BFE2-6965-456C-AEC1-7311343A4384,962673-1,"Blumea 35","","479","1991",gcc-48345
+gcc-114046,A,Compositae,,Chrysanthellum,,"procumbens",,"","A.Rich.",Synonym,Illegitimate,M,TICA,EC381C3B-3767-4672-A605-B8F2166E159D,,"","","","1807",gcc-132866
+gcc-22648,A,Compositae,,Chrysanthellum,,"procumbens",,"","Rich. ex Pers.",Synonym,Illegitimate,M,TICA,99FBF552-6014-4269-84D6-29EB88BE9506,,"Syn. Pl. 2: 471. 1807.","","471","1807",gcc-132866
+gcc-50291,A,Compositae,,Chrysanthellum,,"pusillum",,"","Hook.f.",Accepted,,M,TICA,90232A8C-E038-46C5-84E7-5D44BB132D79,193257-1,"","","214","1847",
+gcc-116327,A,Compositae,,Chrysanthellum,,"rosei",,"","(Greenm.) Veldkamp",Synonym,,M,TICA,A722CF7B-C97D-4CE5-AAA3-BE287AB9B7D6,962672-1,"Blumea 35","","479","1991",gcc-95795
+gcc-120381,A,Compositae,,Chrysanthellum,,"senegalense",,"","DC.",Synonym,,M,TICA,0DE963F3-D1CB-48FA-B4E9-C767AE0AEA1F,193258-1,"","","631","1836",gcc-31439
+gcc-135600,A,Compositae,,Chrysanthellum,,"smithii",,"","Backer",Synonym,,L,TICA,DF1CBD1F-91E1-45B4-9684-EA5A76D1B421,,"","","39","1913",gcc-130769
+gcc-76778,A,Compositae,,Chrysanthellum,,"swartzii",,"","DC.",Synonym,,M,TICA,62304C73-963C-4ABE-BF98-656487BC5C5B,193260-1,"","","631","1836",gcc-132866
+gcc-3915,A,Compositae,,Chrysanthellum,,"tamaulipense",,"","B.L.Turner",Accepted,,M,TICA,E686B535-EDEB-4E03-BD2B-07451E18B377,57552-2,"Phytologia 51","","292","1982",
+gcc-4548,A,Compositae,,Chrysanthellum,,"tuberculatum",,"","(Hook. & Arn.) Cabrera",Synonym,,M,TICA,7FD60CE5-61F6-420A-8777-08721543BD51,57553-2,"Bol. Soc. Argent. Bot. 15","","117","1973",gcc-142183
+gcc-95450,A,Compositae,,Chrysanthellum,,"weberbaueri",,"","I.C.Chung",Synonym,,M,TICA,3157052B-E3C2-452A-86CE-8F6189D88C03,57554-2,"Phytologia 14","","321","1967",gcc-142183

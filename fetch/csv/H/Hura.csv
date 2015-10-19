@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-100850,A,Euphorbiaceae,,Hura,,"brasiliensis",,"","Willd.",Synonym,,H,WCSP,100850,350059-1,"Enum. Pl.","997","","1809",kew-100851
+kew-100851,A,Euphorbiaceae,,Hura,,"crepitans",,"","L.",Accepted,,H,WCSP,100851,350060-1,"Sp. Pl.","1008","","1753",
+kew-100853,A,Euphorbiaceae,,Hura,,"crepitans",var.,"membranacea","Müll.Arg.",Synonym,,L,WCSP,100853,124875-2,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-100854,A,Euphorbiaceae,,Hura,,"crepitans",f.,"oblongifolia","Müll.Arg.",Synonym,,L,WCSP,100854,,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-334543,A,Euphorbiaceae,,Hura,,"crepitans",var.,"oblongifolia","Müll.Arg.",Synonym,,L,WCSP,334543,288696-2,"Prodr.","15(2): 1230","","1866",kew-100851
+kew-100855,A,Euphorbiaceae,,Hura,,"crepitans",f.,"orbicularis","Müll.Arg.",Synonym,,L,WCSP,100855,,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-334544,A,Euphorbiaceae,,Hura,,"crepitans",var.,"orbicularis","Müll.Arg.",Synonym,,L,WCSP,334544,288697-2,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-100856,A,Euphorbiaceae,,Hura,,"crepitans",f.,"ovata","Müll.Arg.",Synonym,,L,WCSP,100856,,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-334545,A,Euphorbiaceae,,Hura,,"crepitans",var.,"ovata","Müll.Arg.",Synonym,,L,WCSP,334545,288698-2,"Prodr.","15(2): 1229","","1866",kew-100851
+kew-100858,A,Euphorbiaceae,,Hura,,"crepitans",var.,"senegalensis","(Baill.) Boiss.",Synonym,,L,WCSP,100858,,"Prodr.","15(2): 1230","","1866",kew-100851
+kew-100859,A,Euphorbiaceae,,Hura,,"crepitans",var.,"strepens","Müll.Arg.",Synonym,,L,WCSP,100859,,"Prodr.","15(2): 1230","","1866",kew-100851
+kew-100860,A,Zingiberaceae,,Hura,,"koenigii",,"","Roem. & Schult.",Synonym,,H,WCSP,100860,797077-1,"Syst. Veg.","1: 20","","1817",kew-247154
+kew-100861,A,Euphorbiaceae,,Hura,,"polyandra",,"","Baill.",Accepted,,H,WCSP,100861,350061-1,"Étude Euphorb.","543","","1858",
+kew-100862,A,Euphorbiaceae,,Hura,,"senegalensis",,"","Baill.",Synonym,,H,WCSP,100862,350062-1,"Recueil Observ. Bot.","1: 77","","1860",kew-100851
+kew-100863,A,Zingiberaceae,,Hura,,"siamensium",,"","J.Koenig",Synonym,,H,WCSP,100863,797078-1,"Observ. Bot.","3: 49","","1783",kew-247154
+kew-100864,A,Euphorbiaceae,,Hura,,"strepens",,"","Willd.",Synonym,,H,WCSP,100864,350063-1,"Enum. Pl.","997","","1809",kew-100851

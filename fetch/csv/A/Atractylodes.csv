@@ -1,0 +1,36 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123670,A,Compositae,,Atractylodes,,"amurensis",,"","(Freyn ex Kom.) H.S.Pak",Accepted,,L,TICA,F2B87396-85BB-4EA5-A2CE-CEE098C7E943,20010852-1,"Fl. Coreana 7","","54","1999",
+gcc-43211,A,Compositae,,Atractylodes,,"carlinoides",,"","(Hand.-Mazz.) Kitam.",Accepted,,M,TICA,95264578-9FF0-4EB2-9102-501320AAF8B1,,"","","119","1938",
+gcc-24471,A,Compositae,,Atractylodes,,"chinensis",,"","(Bunge) Koidz.",Synonym,,M,TICA,5836EE88-F098-4796-8A3F-2D2B7D213901,182972-1,"","","4","1930",gcc-9072
+gcc-145654,A,Compositae,,Atractylodes,,"chinensis",f.,"chinensis","",Synonym,,L,TICA,9191064D-2CA9-4D74-9129-0824B3A06BBE,,"","","","",gcc-9072
+gcc-152863,A,Compositae,,Atractylodes,,"chinensis",var.,"chinensis","",Synonym,,L,TICA,37F876E8-BD2B-4CA7-903A-A1FC29F64153,,"","","","",gcc-9072
+gcc-16396,A,Compositae,,Atractylodes,,"chinensis",var.,"liaotungensis","(Kitag.) Y.C.Chu",Unresolved,,L,TICA,1CA13993-C210-4376-A215-1E4D88A3CDC4,966246-1,"","","1139","1989",gcc-9072
+gcc-81113,A,Compositae,,Atractylodes,,"chinensis",f.,"quinqueloba","(Baranov & Skvortzov) Y.C.Chu",Unresolved,,L,TICA,86BB41D5-2A26-446C-8A3D-6F13428C7EDB,966245-1,"","","1139","1989",gcc-9072
+gcc-112868,A,Compositae,,Atractylodes,,"chinensis",f.,"simplicifolia","(Loes.) Y.C.Chu",Unresolved,,L,TICA,CC9788AB-D786-4AA4-859D-B668D1C083FC,966244-1,"","","1139","1989",gcc-9072
+gcc-59991,A,Compositae,,Atractylodes,,"chinensis",var.,"simplicifolia","(Loes.) Kitag.",Synonym,,L,TICA,9E790054-684E-4A6C-825F-9AD137F611DE,,"Report of the First Scientific Expedition to Manchoukou 4(4):","","94","1936",gcc-9072
+gcc-93080,A,Compositae,,Atractylodes,,"comosa",,"","D.P.Petit",Synonym,,M,TICA,DDF3AB91-9192-47AD-B7ED-89FD061E8AEF,944568-1,"""Bull. Soc. Bot. France, Lett. Bot. 134(2)""","","179","1987",gcc-81533
+gcc-29350,A,Compositae,,Atractylodes,,"cuneata",,"","(Boiss.) D.P.Petit",Synonym,,L,TICA,597FCBD9-8281-4A13-B69B-36399CDA6122,944569-1,"""Bull. Soc. Bot. France, Lett. Bot. 134(2)""","","179","1987",gcc-84726
+gcc-82818,A,Compositae,,Atractylodes,,"erosodentata",,"","Koidz.",Synonym,,M,TICA,0C3712B6-F2FD-45EC-AE7D-72E7921FD676,182973-1,"","","6","1930",gcc-9072
+tro-2701897,_,,,Atractylodes,,"japonica",,"","Koidz. ex Kitam.",Unresolved,,L,TRO,2701897,,"","","","",
+gcc-114498,A,Compositae,,Atractylodes,,"japonica",,"","Koidz. ex Kitam.",Accepted,,L,TICA,1ED87C40-660A-4B61-BBBE-BA00AE4A6542,182974-1,"Acta Phytotax. Geobot. 4: 178 (1935)","","178","1935",
+gcc-155574,A,Compositae,,Atractylodes,,"japonica",var.,"japonica","",Synonym,,L,TICA,51DD0DAD-2EDC-4044-8104-DB2B9991D697,,"","","","",gcc-114498
+kew-2900969,A,Compositae,,Atractylodes,,"japponica",var.,"coriacea","Konta & Katsuy.",Synonym,,L,WCSP (in review),,77075270-1,"Bull. Natl. Sci. Mus., Tokyo, B.","31(4): 142","","2005",gcc-9072
+gcc-110338,A,Compositae,,Atractylodes,,"koreana",,"","(Nakai) Kitam.",Accepted,,M,TICA,7B465D10-D8ED-470B-9BD5-B0A9E53F83F2,182975-1,"","","178","1935",
+gcc-9072,A,Compositae,,Atractylodes,,"lancea",,"","(Thunb.) DC.",Accepted,,M,TICA,1589A8FD-96E5-4B50-8C89-10F64243A071,182976-1,"","","48","1838",
+kew-2900952,A,Compositae,,Atractylodes,,"lancea",var.,"chinensis","(Bunge) Kitam.",Synonym,,L,WCSP (in review),,,"Trans. Sapporo Nat. Hist. Soc.","16: 63","","1940",gcc-9072
+gcc-154535,A,Compositae,,Atractylodes,,"lancea",var.,"lancea","",Synonym,,L,TICA,913DE84D-05AD-4807-BE1D-C5CF03FCB610,,"","","","",gcc-9072
+gcc-157052,A,Compositae,,Atractylodes,,"lancea",subsp.,"lancea","",Synonym,,L,TICA,8C501842-E525-4B4B-A5B7-F9ECBDC8E229,,"","","","",gcc-9072
+gcc-32181,A,Compositae,,Atractylodes,,"lancea",var.,"simplicifolia","(Loes.) Kitam.",Synonym,,L,TICA,8D45C033-9531-45BF-AD19-3B9C07BF43E9,,"Journal of Japanese Botany 20(4):","","195","1944",gcc-9072
+gcc-19992,A,Compositae,,Atractylodes,,"lyrata",,"","Siebold & Zucc.",Synonym,,M,TICA,AF85AD51-2CCA-48EE-9359-24F61D7B9C57,182977-1,"","","193","1846",gcc-9072
+gcc-149024,A,Compositae,,Atractylodes,,"lyrata",var.,"lyrata","",Synonym,,L,TICA,7B26605C-ED22-4015-8678-4FDD16EA3862,,"","","","",gcc-9072
+gcc-53722,A,Compositae,,Atractylodes,,"lyrata",var.,"ternata","(Kom.) Koidz.",Synonym,,L,TICA,38CE12D3-333C-4FD5-982D-685F456CCAF7,60454983-2,"Fl. Symb. Orient.-Asiat.: 5 (1930)","","5","1930",gcc-114498
+gcc-144897,A,Compositae,,Atractylodes,,"macrocephala",,"","Koidz.",Accepted,,M,TICA,D5F31EF5-A620-4FA5-BBDF-FF2DB1E36B59,182978-1,"","","5","1930",
+gcc-99094,A,Compositae,,Atractylodes,,"ovata",,"","(Thunb.) DC.",Accepted,,M,TICA,48D51300-7D02-4125-ADFB-979BB05F6B4A,182979-1,"Prodr. 7: 48 (1838)","","48","1838",
+gcc-144814,A,Compositae,,Atractylodes,,"ovata",f.,"amurensis","Freyn ex Kom.",Unresolved,,L,TICA,E12F4064-A2C1-4C30-8DA1-FEF71A28C4AD,,"","","","",gcc-123670
+gcc-51569,A,Compositae,,Atractylodes,,"ovata",var.,"amurensis","Freyn ex Kom.",Synonym,,L,TICA,87639B2D-5307-4162-AC12-5F9D101A549A,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 25: 716 (1907)","","716","1907",gcc-123670
+gcc-147369,A,Compositae,,Atractylodes,,"ovata",var.,"ovata","",Synonym,,L,TICA,F955301C-B772-49AB-8E57-2C2282AB2F20,,"","","","",gcc-99094
+gcc-152346,A,Compositae,,Atractylodes,,"ovata",f.,"ovata","",Synonym,,L,TICA,D47047D4-CFCA-4975-A228-977733F8E54C,,"","","","",gcc-99094
+gcc-12,A,Compositae,,Atractylodes,,"ovata",var.,"tenera","(Koidz.) Kom.",Synonym,,L,TICA,BF34F494-CA3A-4174-95AE-00050CB632EB,,"Key Pl. Far East. USSR 2: 1058 (1932)","","1058","1932",gcc-114498
+gcc-61968,A,Compositae,,Atractylodes,,"ovata",var.,"ternata","Kom.",Unresolved,,L,TICA,4BE6398A-F297-4869-B048-AAF9B64C4275,,"Key Pl. Far East. Reg. USSR 2:","","""1058, pl. 316""","1932",gcc-114498
+tro-100375504,A,Compositae,,Atractylodes,,"ovata",var.,"ternata","(Kom.) Koidz.",Synonym,,L,TRO,100375504,,"","","","",gcc-9072
+gcc-52168,A,Compositae,,Atractylodes,,"rubra",,"","Dekker",Accepted,,M,TICA,87C0B915-2FF9-4FBD-B359-60C78D5A8C45,,"","","","1906",

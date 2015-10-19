@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2730807,A,Cactaceae,,Coleocephalocereus,,"albicephalus",,"","(Buining & Brederoo) F.H.Brandt",Unresolved,Invalid,L,WCSP (in review),,908559-1,"Kakteen Orchid. Rundschau","1981(5): 124","","1981",tro-5108074
+kew-2730808,A,Cactaceae,,Coleocephalocereus,,"aureispinus",,"","Buining & Brederoo",Synonym,,M,WCSP (in review),,62962-2,"Kakteen And. Sukk.","25: 73","","1974",kew-2413448
+kew-2730809,A,Cactaceae,,Coleocephalocereus,,"aureus",,"","F.Ritter",Accepted,,M,WCSP (in review),,131085-1,"Kakteen And. Sukk.","19: 158","","1968",
+kew-2730810,A,Cactaceae,,Coleocephalocereus,,"aureus",subsp.,"brevicylindricus","(Buining) P.J.Braun",Accepted,,L,WCSP (in review),,966708-1,"Kakteen And. Sukk.","42(4) cppo: 60","","1991",
+kew-2730811,A,Cactaceae,,Coleocephalocereus,,"aureus",subsp.,"elongatus","(Buining) P.J.Braun",Accepted,,L,WCSP (in review),,966710-1,"Kakteen And. Sukk.","42(4) cppo: 60","","1991",
+kew-2730812,A,Cactaceae,,Coleocephalocereus,,"aureus",var.,"longispinus","(Buining) P.J.Braun",Accepted,,L,WCSP (in review),,966709-1,"Kakteen And. Sukk.","42(4) cppo: 60","","1991",
+kew-2730813,A,Cactaceae,,Coleocephalocereus,,"braunii",,"","Diers & Esteves",Accepted,,M,WCSP (in review),,905878-1,"Kakteen And. Sukk.","36: 34","","1985",
+kew-2730814,A,Cactaceae,,Coleocephalocereus,,"brevicylindricus",,"","(Buining) F.Ritter",Synonym,,M,WCSP (in review),,907950-1,"Kakteen Südamer.","1: 122","","1979",kew-2730810
+kew-2730815,A,Cactaceae,,Coleocephalocereus,,"brevicylindricus",var.,"elongatus","(Buining) F.Ritter",Synonym,,L,WCSP (in review),,919335-1,"Kakteen Südamer.","1: 122","","1979",kew-2730811
+kew-2730816,A,Cactaceae,,Coleocephalocereus,,"brevicylindricus",var.,"longispinus","(Buining) F.Ritter",Synonym,,L,WCSP (in review),,919336-1,"Kakteen Südamer.","1: 122","","1979",kew-2730812
+kew-2730817,A,Cactaceae,,Coleocephalocereus,,"buxbaumianus",,"","Buining",Accepted,,M,WCSP (in review),,62964-2,"Succulenta (Netherlands)","53: 28","","1974",
+tro-50175893,A,Cactaceae,,Coleocephalocereus,,"buxbaumianus",subsp.,"buxbaumianus","",Synonym,,L,TRO,50175893,,"","","","",kew-2730817
+kew-2730818,A,Cactaceae,,Coleocephalocereus,,"buxbaumianus",subsp.,"flavisetus","(F.Ritter) N.P.Taylor & Zappi",Accepted,,L,WCSP (in review),,1001143-1,"Cactaceae Consensus Init.","3: 7","","1997",
+kew-2730819,A,Cactaceae,,Coleocephalocereus,,"decumbens",,"","F.Ritter",Synonym,,M,WCSP (in review),,131087-1,"Kakteen And. Sukk.","19: 160","","1968",kew-2730828
+kew-2730820,A,Cactaceae,,Coleocephalocereus,,"diersianus",,"","P.J.Braun & Esteves",Accepted,,M,WCSP (in review),,274812-2,"Kakteen And. Sukk.","39: 53","","1988",
+kew-2730821,A,Cactaceae,,Coleocephalocereus,,"dybowskii",,"","(Gross) F.H.Brandt",Synonym,,L,WCSP (in review),,908560-1,"Kakteen Orchid. Rundschau","1981(5): 124","","1981",kew-2802441
+kew-2730822,A,Cactaceae,,Coleocephalocereus,,"elongatus",,"","(Buining) P.J.Braun",Synonym,,M,WCSP (in review),,945845-1,"Bradleya","6: 92","","1988",kew-2730811
+kew-2730823,A,Cactaceae,,Coleocephalocereus,,"estevesii",,"","Diers",Accepted,,M,WCSP (in review),,62965-2,"Kakteen And. Sukk.","29: 205","","1978",
+kew-2730824,A,Cactaceae,,Coleocephalocereus,,"flavisetus",,"","F.Ritter",Synonym,,M,WCSP (in review),,896214-1,"Kakteen Südamer.","1: 127","","1979",kew-2730818
+kew-2730825,A,Cactaceae,,Coleocephalocereus,,"fluminensis",,"","(Miq.) Backeb.",Accepted,,M,WCSP (in review),,131089-1,"Cactaceae (Berlin)","1941(2): 53","","1942",
+kew-2730826,A,Cactaceae,,Coleocephalocereus,,"fluminensis",var.,"braamhaarii","P.J.Braun",Accepted,,L,WCSP (in review),,62968-2,"Kakteen And. Sukk.","33: 121","","1982",
+kew-2730827,A,Cactaceae,,Coleocephalocereus,,"fluminensis",subsp.,"braamhaarii","(P.J.Braun) P.J.Braun & Esteves",Synonym,,L,WCSP (in review),,1136803-2,"Succulenta (Netherlands)","74: 84","","1995",kew-2730826
+kew-2730828,A,Cactaceae,,Coleocephalocereus,,"fluminensis",subsp.,"decumbens","(F.Ritter) N.P.Taylor & Zappi",Accepted,,L,WCSP (in review),,1001144-1,"Cactaceae Consensus Init.","3: 7","","1997",
+tro-50175894,A,Cactaceae,,Coleocephalocereus,,"fluminensis",subsp.,"fluminensis","",Synonym,,L,TRO,50175894,,"","","","",kew-2730825
+kew-2730829,A,Cactaceae,,Coleocephalocereus,,"fluminensis",var.,"paulensis","(F.Ritter) P.J.Braun",Synonym,,L,WCSP (in review),,966838-1,"Kakteen And. Sukk.","42(8) cppo: 130","","1991",kew-2730825
+kew-2730830,A,Cactaceae,,Coleocephalocereus,,"fluminensis",subsp.,"paulensis","(F.Ritter) P.J.Braun & Esteves",Synonym,,L,WCSP (in review),,1121194-2,"Succulenta (Netherlands)","74: 84","","1995",kew-2730825
+kew-2730831,A,Cactaceae,,Coleocephalocereus,,"goebelianus",,"","(Vaupel) Buining",Accepted,,M,WCSP (in review),,62969-2,"Kakteen And. Sukk.","21: 202","","1970",
+kew-2730832,A,Cactaceae,,Coleocephalocereus,,"lehmannianus",,"","(Werderm.) F.H.Brandt",Unresolved,Invalid,L,WCSP (in review),,908561-1,"Kakteen Orchid. Rundschau","1981(5): 124","","1981",
+kew-2730833,A,Cactaceae,,Coleocephalocereus,,"luetzelburgii",,"","(Vaupel) Buxb.",Unresolved,,L,WCSP (in review),,131091-1,"Kakteen","48-49: CIVb","","1972",
+kew-2730834,A,Cactaceae,,Coleocephalocereus,,"minensis",,"","(Werderm.) F.H.Brandt",Synonym,,M,WCSP (in review),,,"Succulenta (Netherlands)","60: 117","","1981",kew-2721765
+kew-2730835,A,Cactaceae,,Coleocephalocereus,,"pachystele",,"","F.Ritter",Synonym,,M,WCSP (in review),,131092-1,"Kakteen And. Sukk.","19: 157","","1968",kew-2730831
+kew-2730836,A,Cactaceae,,Coleocephalocereus,,"paulensis",,"","F.Ritter",Synonym,,M,WCSP (in review),,131093-1,"Kakteen And. Sukk.","19: 161","","1968",kew-2730825
+kew-2730837,A,Cactaceae,,Coleocephalocereus,,"pleurocarpus",,"","(F.Ritter) F.H.Brandt",Synonym,,M,WCSP (in review),,,"Succulenta (Netherlands)","60: 117","","1981",kew-2721767
+kew-2730838,A,Cactaceae,,Coleocephalocereus,,"pluricostatus",,"","Buining & Brederoo",Accepted,,M,WCSP (in review),,131094-1,"Kakteen","46-47: CIVb","","1971",
+kew-2730839,A,Cactaceae,,Coleocephalocereus,,"pluricostatus",subsp.,"uebelmanniorum","P.J.Braun & Esteves",Accepted,,L,WCSP (in review),,972323-1,"Kakteen And. Sukk.","44: 152","","1993",
+kew-2730840,A,Cactaceae,,Coleocephalocereus,,"purpureus",,"","(Buining & Brederoo) F.Ritter",Accepted,,M,WCSP (in review),,907951-1,"Kakteen Südamer.","1: 128","","1979",
+kew-2604022,A,Cactaceae,,Coleocephalocereus,,"uebelmanniorum",,"","(P.J.Braun & Esteves) P.J.Braun, Esteves & Hofacker",Synonym,,M,WCSP (in review),,77085716-1,"Kakteen And. Sukk.","58: 213","","2007",kew-2730839

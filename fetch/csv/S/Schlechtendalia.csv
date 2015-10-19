@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-82248,A,Compositae,,Schlechtendalia,,"cancellata",,"","(Cass.) Kuntze",Synonym,,M,TICA,E6F483D1-4BE7-4F8B-A68A-719E2CC2CE6A,229535-2,"Revis. Gen. Pl. 1","","361","1891",gcc-58315
+gcc-13970,A,Compositae,,Schlechtendalia,,"capillacea",,"","DC.",Synonym,Invalid,L,TICA,B76627EA-3951-433E-B589-19F05BEB38FA,242922-1,"Prodr. (DC.) 5: 638","","638","1836",gcc-111045
+gcc-140527,A,Compositae,,Schlechtendalia,,"glandulosa",,"","(Cav.) Willd.",Synonym,,L,TICA,FBA985D8-FB4A-4DD3-A5CB-F53E9E6F3445,,"Sp. Pl. iii. 2125.","","","1804",gcc-111045
+gcc-133122,A,Compositae,,Schlechtendalia,,"luzulaefolia",,"","Less.",Accepted,,M,TICA,B4D662C1-0F69-42FB-8B51-E4CB826D9EE8,242924-1,"Linnaea 5: 243. 1830","","243","1830",
+gcc-153880,A,Compositae,,Schlechtendalia,,"luzulaefolia",var.,"luzulaefolia","",Synonym,,L,TICA,FBB82998-393E-4E04-B541-B74091FE6F95,,"","","","",gcc-133122
+gcc-152209,A,Compositae,,Schlechtendalia,,"luzulifolia",,"","Less.",Accepted,,M,TICA,8EF4F53D-5479-4AFE-8039-94ECBB0E1F17,229536-2,"","","","",
+gcc-111378,A,Compositae,,Schlechtendalia,,"porophyllum",,"","Kuntze",Unresolved,,L,TICA,60A2B234-BAAA-49A1-BA99-B2F975A67A2A,229539-2,"Revis. Gen. Pl. 1","","361","1891",
+kew-2594655,A,Malvaceae,,Schlechtendalia,,"speciosa",,"","(Mart.) Spreng.",Synonym,,M,WCSP (in review),,835076-1,"Syst. Veg.","4(2): 296","","1827",kew-2507474
+gcc-119880,A,Compositae,,Schlechtendalia,,"wrightii",,"","(A.Gray) Kuntze",Unresolved,,L,TICA,81B1A301-A886-420A-A88E-C62D48310DE4,229540-2,"Revis. Gen. Pl. 1","","361","1891",

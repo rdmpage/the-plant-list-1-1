@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-46163,A,Compositae,,Dieteria,,"asteroides",,"","Torr.",Synonym,,M,TICA,0F27D1C6-0700-4320-979F-5591E7EC146D,201395-1,"","","141","1848",gcc-104443
+gcc-47044,A,Compositae,,Dieteria,,"asteroides",var.,"asteroides","",Unresolved,,L,TICA,8C91C524-2C22-44EC-8C54-572A66C71AEF,,"","","","",
+gcc-53325,A,Compositae,,Dieteria,,"asteroides",var.,"glandulosa","(B.L.Turner) D.R.Morgan & R.L.Hartm.",Unresolved,,L,TICA,FB77D1B2-1494-47C9-9C0C-655ECF28F538,1139849-2,"","","1393","2003",
+gcc-93412,A,Compositae,,Dieteria,,"bigelovii",,"","(A.Gray) D.R.Morgan & R.L.Hartm.",Accepted,,M,TICA,D736E238-C946-4D6D-A4CE-8AAC722BC7A3,1158807-2,"","","1394","2003",
+gcc-67777,A,Compositae,,Dieteria,,"bigelovii",var.,"bigelovii","",Synonym,,L,TICA,1C387551-1D13-481E-9BDC-D9EE3A84140C,,"","","","2003",gcc-93412
+gcc-69733,A,Compositae,,Dieteria,,"bigelovii",var.,"commixta","(Greene) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,C653763F-48E3-417B-9F47-E8A031C5E6F2,1009487-2,"","","1394","2003",
+gcc-43364,A,Compositae,,Dieteria,,"bigelovii",var.,"mucronata","(Greene) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,940E987F-7A74-4B71-9488-50573EADDEE9,1037358-2,"","","1394","2003",
+gcc-6155,A,Compositae,,Dieteria,,"canescens",,"","(Pursh) Nutt.",Accepted,,M,TICA,65C46C70-FF06-43B4-910D-0B73446CC7A4,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 300""","","300","1840",
+gcc-64967,A,Compositae,,Dieteria,,"canescens",var.,"ambigua","(B.L.Turner) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,809C39EB-BD56-4E84-88AD-C2B3801A0674,1067607-2,"","","1396","2003",
+gcc-63334,A,Compositae,,Dieteria,,"canescens",var.,"aristata","(Eastw.) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,FEFD39C2-8940-4F46-ACEE-B608C35CFAE1,1003231-2,"","","1397","2003",
+gcc-53611,A,Compositae,,Dieteria,,"canescens",var.,"canescens","",Synonym,,L,TICA,50E54C59-7233-44FB-AE5C-67873646321B,,"","","","",gcc-6155
+gcc-62837,A,Compositae,,Dieteria,,"canescens",subsp.,"canescens","",Synonym,,L,TICA,091A82A3-8CAE-4CD9-A8FB-B20AC6ABC5AF,,"","","","",gcc-6155
+gcc-64370,A,Compositae,,Dieteria,,"canescens",var.,"glabra","(A.Gray) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,F9CAD942-90D3-4FEE-B8E1-BDFD5F9FD568,,"","","1397","2003",
+gcc-66375,A,Compositae,,Dieteria,,"canescens",var.,"incana","(Lindl.) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,2D5AF961-569B-448D-B8FB-CE5F6F027196,1196840-2,"","","1396","2003",
+gcc-55592,A,Compositae,,Dieteria,,"canescens",var.,"leucanthemifolia","(Greene) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,4DEBF735-7693-4D9C-AD53-773C36981B37,1210542-2,"","","1396","2003",
+gcc-72638,A,Compositae,,Dieteria,,"canescens",var.,"nebraskana","(B.L.Turner) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,0521ED74-E0C1-4683-9CD2-FF8F187F0CBC,1062877-2,"","","1397","2003",
+gcc-42962,A,Compositae,,Dieteria,,"canescens",var.,"sessiliflora","(Nutt.) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,D64EFF5A-C74C-4732-AE36-4F92DFC56A96,1081095-2,"","","1396","2003",
+gcc-13133,A,Compositae,,Dieteria,,"canescens",var.,"shastensis","(A.Gray) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,D7AD7246-F750-4A91-AF5D-1877DFDAED39,1153948-2,"","","1396","2003",
+gcc-9856,A,Compositae,,Dieteria,,"canescens",var.,"ziegleri","(Munz) D.R.Morgan & R.L.Hartm.",Accepted,,L,TICA,2FF55016-0280-4E37-9C96-1265FE07E259,1031621-2,"","","1396","2003",
+gcc-109817,A,Compositae,,Dieteria,,"coronopifolia",,"","(Nutt.) Nutt.",Synonym,,M,TICA,A6C4B923-F3A0-4BEA-A5F8-AF86FAE79C68,,"","","302","1840",gcc-124497
+gcc-88921,A,Compositae,,Dieteria,,"divaricata",,"","Nutt.",Synonym,,M,TICA,4A7E343A-C8BF-43DE-9F41-8081D1D5C147,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","301","1840",gcc-6155
+gcc-29292,A,Compositae,,Dieteria,,"gracilis",,"","Nutt.",Synonym,,M,TICA,13DDC2C2-5418-4603-A7FA-36204CF4D6F2,80190-2,"Proc. Acad. Nat. Sci. Philadelphia 4","","22","1848",gcc-102439
+gcc-127869,A,Compositae,,Dieteria,,"incana",,"","(Lindl.) Torr. & A.Gray",Synonym,,M,TICA,F31A89AB-026F-4C72-BC3D-D8B5E2672028,1045955-2,"Fl. N. Amer. (Torr. & A. Gray) 2","","100","1841",gcc-66375
+gcc-95804,A,Compositae,,Dieteria,,"pinnata",,"","Nutt.",Unresolved,,L,TICA,92C26FA3-1916-4865-9E26-9030A2BABFCB,1013797-2,"Gen. N. Amer. Pl. [Nuttall] 2: 169. 1818","","169","1818",
+gcc-145146,A,Compositae,,Dieteria,,"pulverulenta",,"","Nutt.",Synonym,,M,TICA,74A6F8D6-0144-4438-A84F-FFC6B31C9F38,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 300""","","300","1840",gcc-6155
+gcc-11882,A,Compositae,,Dieteria,,"rubiginosa",,"","(Torr. & A.Gray) Nutt.",Synonym,,M,TICA,1E6DC50F-E0E3-4C28-81D5-162421E298D4,,"J. Acad. Nat. Sci. Philadelphia","","177","",gcc-84879
+gcc-128641,A,Compositae,,Dieteria,,"sessiliflora",,"","Nutt.",Synonym,,M,TICA,6B5F598F-9E99-4657-A46B-DA79EC8950A6,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 301""","","301","1840",gcc-42962
+gcc-1852,A,Compositae,,Dieteria,,"sessiliflora",,"","(Nutt.) Greene",Synonym,,M,TICA,928D1DBD-C2CF-48AA-8358-03541577E05B,,"","","","",gcc-42962
+gcc-104428,A,Compositae,,Dieteria,,"spinulosa",,"","(Pursh) Nutt.",Synonym,,M,TICA,DB240843-B915-4464-A888-A37AE2CDEDD0,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 301""","","301","1840",gcc-135337
+gcc-42561,A,Compositae,,Dieteria,,"viscosa",,"","Nutt.",Synonym,,M,TICA,A52EE43B-F67A-4EAE-A0FB-4ED43C3F1C0D,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 301""","","301","1840",gcc-6155

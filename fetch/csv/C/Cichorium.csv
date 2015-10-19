@@ -1,0 +1,93 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49595,A,Compositae,,Cichorium,,"alatum",,"","Hochst. & Steud.",Accepted,,M,TICA,BE252E10-5DB6-47ED-BE80-5BEC1FEA08C4,,"","","75","",
+gcc-90839,A,Compositae,,Cichorium,,"alatum",,"","Hochst. & Steud. ex DC.",Synonym,,M,TICA,8D554B70-63D1-45DF-ADDA-85056D1F62C1,194506-1,"","","75","1838",gcc-143024
+gcc-25317,A,Compositae,,Cichorium,,"ambiguum",,"","Schult.",Synonym,,M,TICA,ED7789F2-2725-4E91-978C-2EBA997F22E3,194507-1,"","","170","1809",gcc-1040
+gcc-88766,A,Compositae,,Cichorium,,"aposeris",,"","E.H.L.Krause",Synonym,Illegitimate,M,TICA,D7AA8CF0-BDA3-452D-966E-803542447CAA,194508-1,"","","179","1906",gcc-38276
+gcc-144454,A,Compositae,,Cichorium,,"arnoseris",,"","E.H.L.Krause",Synonym,Illegitimate,M,TICA,29735979-D585-4E75-B4FC-FE228720E93C,194509-1,"","","180","1906",gcc-127841
+gcc-52107,A,Compositae,,Cichorium,,"balearicum",,"","Porta",Synonym,,M,TICA,7A2262F4-FE43-4BCB-BD50-60AA03221F11,194510-1,"","","311","1887",gcc-37233
+gcc-1176,A,Compositae,,Cichorium,,"barbatum",,"","E.H.L.Krause",Synonym,,M,TICA,E8608747-0DBF-46EA-94BD-0226756FFD89,194511-1,"","","181","1906",gcc-48118
+gcc-36708,A,Compositae,,Cichorium,,"bottae",,"","Deflers",Accepted,,M,TICA,F8508973-6822-4767-8B8E-440E4D13F567,,"","","159","1899",
+gcc-114252,A,Compositae,,Cichorium,,"byzantinum",,"","Clem.",Synonym,,M,TICA,D0FF9E87-B189-4812-B80E-B968C7EE156E,,"","","285","1857",gcc-37233
+gcc-151539,A,Compositae,,Cichorium,,"byzantinum",,"","Clementi",Synonym,,M,TICA,458DEA1D-1A09-401C-B536-86D2E37C2741,,"""G.C. Clementi in Mem. Reale Accad. Sci. Torino, ser. 2 16. 1857""","","285","1857",gcc-37233
+gcc-81725,A,Compositae,,Cichorium,,"caeruleum",,"","Gilib.",Synonym,Invalid,M,TICA,EC8D326E-7435-4AEE-A40A-70750A4B83C8,194515-1,"","","224","1782",gcc-37233
+gcc-18232,A,Compositae,,Cichorium,,"callosum",,"","Pomel",Accepted,,M,TICA,6CF970AD-C00A-499C-8807-21B3EBC2AAFF,194516-1,"","","17","1874",
+gcc-126754,A,Compositae,,Cichorium,,"calvum",,"","Sch.Bip. ex Asch.",Accepted,,M,TICA,4BA49E66-4F45-4803-9A92-D603495F8CAA,,"","","143","1867",
+gcc-77691,A,Compositae,,Cichorium,,"calvum",,"","Sch.Bip.",Synonym,,M,TICA,F5DDE0FC-FA28-4418-9093-676F2AEA78C5,,"""in Ind. Sem. Hort. Berol. (1859) 7, nomen; Schweinf. Beitr. Fl. Aethiop. 143.""","","","1859",gcc-126754
+gcc-154634,A,Compositae,,Cichorium,,"casnia",,"","Wall.",Synonym,,M,TICA,D4726C08-1463-4D24-B0F4-C7A3D4D55F9D,,"""N. Wallich, Numer. List""","","3241","",gcc-82814
+gcc-45230,A,Compositae,,Cichorium,,"casnia",,"","C.B.Clarke",Synonym,,M,TICA,631845C0-951E-4E8D-87CB-53D1AAC9DF68,194518-1,"Comp. Ind.","","250","1876",gcc-82814
+gcc-5040,A,Compositae,,Cichorium,,"cicorea",,"","Dumort.",Synonym,,M,TICA,92E1F8E5-5F0B-4A6F-A657-096A3DAEC60A,194519-1,"","","64","1827",gcc-37233
+gcc-100172,A,Compositae,,Cichorium,,"commune",,"","Pall.",Synonym,,M,TICA,16129429-847E-48D0-B7B6-99FC4DC03F10,,"","","655","1776",gcc-37233
+gcc-104950,A,Compositae,,Cichorium,,"cosnia",,"","Buch.-Ham.",Synonym,Invalid,M,TICA,DB1A6DDA-5377-4635-A0C2-A4954AEC31DE,194521-1,"","","3241","1831",gcc-37233
+gcc-31226,A,Compositae,,Cichorium,,"crispum",,"","Mill.",Synonym,Illegitimate,M,TICA,909544F4-2D88-4098-A1B9-39D5ABD57D22,194522-1,"","","4","1768",gcc-82814
+gcc-104782,A,Compositae,,Cichorium,,"dichotomum",,"","Link",Synonym,,M,TICA,C860E917-8B0B-4D02-BBE3-A433DEF994D5,,"","","811","1829",gcc-1040
+gcc-111886,A,Compositae,,Cichorium,,"divaricatum",,"","Heldr. ex Nyman",Synonym,,M,TICA,30A857BB-256C-43A9-AE10-B42C25073621,194524-1,"","","472","1879",gcc-37233
+gcc-93720,A,Compositae,,Cichorium,,"divaricatum",,"","Schousb.",Synonym,,M,TICA,EED847F0-C54C-4EE1-B6E9-8B4B8C95B662,194525-1,"","","197","1800",gcc-1040
+gcc-44043,A,Compositae,,Cichorium,,"dubium",,"","E.H.L.Krause",Accepted,,M,TICA,CAACE1AF-9725-4498-9D4C-51911D7CCF10,194526-1,"","","184","1906",
+gcc-82814,A,Compositae,,Cichorium,,"endivia",,"","L.",Accepted,,M,TICA,462853FF-768F-45E9-97CB-72E4C7993AEC,194527-1,"Sp. Pl.","","813","1753",
+tro-100367534,A,Compositae,,Cichorium,,"endivia",var.,"crispum","(Mill.) Lam.",Synonym,,L,TRO,100367534,,"Encycl.","1: 732","732","1783",gcc-82814
+gcc-25669,A,Compositae,,Cichorium,,"endivia",subsp.,"divaricatum","(Schousb.) P.D.Sell",Synonym,,L,TICA,055212BF-BDF8-4730-9076-2F6B89F96F08,877045-1,"","","240","1976",gcc-1040
+gcc-38186,A,Compositae,,Cichorium,,"endivia",subsp.,"divaricatum","(Schousb.) Ball",Synonym,,L,TICA,6FE1586A-B182-4A19-BB4B-46D54C50B8BD,,"","","","",gcc-1040
+gcc-73809,A,Compositae,,Cichorium,,"endivia",f.,"divaricatum","(Schousb.) Webb",Synonym,,L,TICA,3C586050-4CAF-44A5-9CC4-2815DB6F97CB,,"Hist. Nat. Iles Canaries 2: 391 (1847)","","391","1847",gcc-82814
+gcc-146451,A,Compositae,,Cichorium,,"endivia",f.,"endivia","",Synonym,,L,TICA,0BD08509-20F9-4D6E-8991-18AF20FD2CD5,,"","","","",gcc-82814
+gcc-153935,A,Compositae,,Cichorium,,"endivia",var.,"endivia","",Synonym,,L,TICA,90D82391-BCAB-4E1C-B181-B86F24EE777B,,"","","","",gcc-82814
+gcc-61784,A,Compositae,,Cichorium,,"endivia",subsp.,"endivia","",Synonym,,L,TICA,3B2BB556-7F25-4800-ABB5-A9731178796E,,"Illustrierte Flora von Mittel-Europa 6(2):","","998","1929",gcc-82814
+tro-100367536,A,Compositae,,Cichorium,,"endivia",var.,"latifolium","Lam.",Synonym,,L,TRO,100367536,,"Encycl.","1: 732","732","1783",gcc-82814
+gcc-14093,A,Compositae,,Cichorium,,"endivia",subsp.,"pumilum","(Jacq.) Cout.",Synonym,,L,TICA,3C498CCD-802D-4529-951E-1A24CB060DD5,,"""Cout., Fl. Portugal 1953. 1913.""","","662","1913",gcc-1040
+gcc-38133,A,Compositae,,Cichorium,,"endivia",subsp.,"pumilum","(Jacq.) Hegi",Synonym,,L,TICA,42E17C5F-C169-4A88-8076-46BE0B4A3C33,,"Ill. Fl. Mitt.-Eur. 6(2): 998 (1928)","","998","1928",gcc-82814
+gcc-57611,A,Compositae,,Cichorium,,"endivia",var.,"pumilum","(Jacq.) Vis.",Synonym,,L,TICA,C67121B1-C912-4D98-B7E2-87B63295C009,,"Fl. Dalmat. 2: 97 (1847)","","97","1847",gcc-82814
+gcc-68050,A,Compositae,,Cichorium,,"endivia",subsp.,"sativum","Cout.",Synonym,,L,TICA,6F3EF014-8749-4EDC-A4A8-DBF009069DD4,,"""Cout., Fl. Portugal 1953. 1913.""","","662","1913",gcc-82814
+gcc-110252,A,Compositae,,Cichorium,,"esculentum",,"","Salisb.",Synonym,Illegitimate,M,TICA,4AAB7F37-9B0F-49D1-8E3C-B07306C5DF71,194528-1,"Prodr. Stirp. Chap. Allerton","","183","1796",gcc-82814
+gcc-105902,A,Compositae,,Cichorium,,"glabratum",,"","C.Presl",Synonym,,M,TICA,DE1914E7-BB38-473E-81F7-A69EE234D6D5,194529-1,"","","XXXII","1826",gcc-37233
+gcc-44278,A,Compositae,,Cichorium,,"glandulosum",,"","Boiss. & A.Huet",Synonym,,M,TICA,DE34FD7A-89F7-42DC-8AF3-52017145042E,,"","","87","1856",gcc-1040
+gcc-7049,A,Compositae,,Cichorium,,"glaucum",,"","Hoffmanns. & Link",Synonym,,M,TICA,B8BC2724-1A8D-4668-A87E-0D1D2A99FE89,,"","","178","",gcc-37233
+gcc-3468,A,Compositae,,Cichorium,,"hirsutum",,"","Gren.",Synonym,,M,TICA,5094D9DF-9616-4BE7-A564-065FD5E4AB71,194532-1,"","","137","1838",gcc-37233
+gcc-148628,A,Compositae,,Cichorium,,"hybridum",,"","Halácsy",Accepted,,M,TICA,28BDC16A-E1B1-432D-B6D3-46D205996C30,,"""E. von Halácsy, Consp. Fl. Graec. 2. 1902""","","179","1902",
+gcc-152608,A,Compositae,,Cichorium,,"illyricum",,"","borb.",Synonym,,M,TICA,D66644A1-CB9C-462B-80BB-9D1DE2E79829,,"","","","",gcc-37233
+gcc-37233,A,Compositae,,Cichorium,,"intybus",,"","L.",Accepted,,M,TICA,8A7FC6B7-EA76-4820-8ECD-44FC6DD416A8,194533-1,"Sp. Pl.","","813","1753",
+gcc-85156,A,Compositae,,Cichorium,,"intybus",f.,"alba","Farw.",Synonym,,L,TICA,3D01EE3C-508B-4765-BAD4-780F44B37AFC,58585-2,"Pap. Michigan Acad. Sci. 3","","108","1924",gcc-37233
+kew-2901613,A,Compositae,,Cichorium,,"intybus",subsp.,"balearica","(Porta) Gand.",Synonym,,L,WCSP (in review),,,"Nov. Consp. Fl. Eur.","314","","1910",gcc-37233
+gcc-59786,A,Compositae,,Cichorium,,"intybus",subsp.,"balearicum","(Porta) Gand.",Synonym,,L,TICA,4D9795B1-C222-47F3-AF9F-99435C2E2640,,"""Gand., Nov. Consp. Fl. Eur. 1910.""","","314","1910",gcc-37233
+gcc-53779,A,Compositae,,Cichorium,,"intybus",var.,"callosum","(Pomel) Maire",Synonym,,L,TICA,6F6C8874-95A9-4E4F-B373-68C91D7ABA29,,"Bull. Soc. Hist. Nat. Afrique N. 30: 288 (1939)","","288","1939",gcc-37233
+gcc-71450,A,Compositae,,Cichorium,,"intybus",var.,"callosum","(Pomel) Batt.",Synonym,,L,TICA,ED141B06-06DD-4786-A857-F6645B400259,,"","","","",gcc-1040
+gcc-73398,A,Compositae,,Cichorium,,"intybus",f.,"crispum","Makino",Synonym,,L,TICA,81F336B8-3CE9-4A07-9FB2-175B5B730F48,,"""Somoku-Dzusetsu, ed. 3, 3: 1015 (1912)""","","1015","1912",gcc-37233
+gcc-64197,A,Compositae,,Cichorium,,"intybus",subsp.,"divaricatum","(Schousb.) Bonnier & Layens",Synonym,,L,TICA,52782C48-1B07-44C9-AF8C-BC989F6532F2,,"Tabl. Syn. Pl. Vasc. France: 183 (1894)","","183","1894",gcc-1040
+gcc-68341,A,Compositae,,Cichorium,,"intybus",var.,"divaricatum","(Schousb.) DC.",Synonym,,L,TICA,B4CA88F7-C329-4B75-84C7-DE0D43882EE9,,"Prodr. 7: 84 (1838)","","84","1838",gcc-82814
+tro-100367795,A,Compositae,,Cichorium,,"intybus",var.,"eglandulosum","Freyn & Sint.",Synonym,,L,TRO,100367795,,"Oesterr. Bot. Z.","44: 259","259","1894",gcc-37233
+gcc-53822,A,Compositae,,Cichorium,,"intybus",var.,"endivia","(L.) C.B.Clarke",Synonym,,L,TICA,AD01AD19-8E99-4289-9746-690FB525C73C,,"Comp. Ind. (1876)","","250","1876",gcc-82814
+gcc-56923,A,Compositae,,Cichorium,,"intybus",subsp.,"foliosum","(Hegi) Janch.",Synonym,,L,TICA,9750EB9B-5C27-419B-B543-823598D446F1,,"Janch. in Phyton (Horn) 8. 1959.","","240","1959",gcc-37233
+gcc-7182,A,Compositae,,Cichorium,,"intybus",var.,"foliosum","Hegi",Synonym,,L,TICA,E5D94AE3-FF33-48EE-BCA1-0D5EA1D9E3A4,,"","","","",gcc-37233
+gcc-18920,A,Compositae,,Cichorium,,"intybus",subsp.,"glabratum","(C.Presl) Wagenitz & Bedarff",Synonym,,L,TICA,973BE9DD-CAE0-4D46-841A-22EBE7E933D6,955580-1,"","","12","1989",gcc-82814
+gcc-49507,A,Compositae,,Cichorium,,"intybus",var.,"glabratum","(C.Presl) Batt.",Synonym,,L,TICA,772E6FAE-C915-4E82-95A7-5BBFA115A6B3,,"","","","",gcc-37233
+gcc-54460,A,Compositae,,Cichorium,,"intybus",subsp.,"glabratum","(C.Presl) Arcang.",Synonym,,L,TICA,C83C2FA6-150E-457F-B580-6E4C7C20B31B,60454659-2,"","","413","1882",gcc-37233
+kew-2901603,A,Compositae,,Cichorium,,"intybus",var.,"glabratum","(C.Presl) Gren. & Godr.",Synonym,,L,WCSP (in review),,,"Fl. Franc.","2: 286","","1850",gcc-37233
+gcc-25842,A,Compositae,,Cichorium,,"intybus",var.,"glabrum","(C.Presl) Gren. & Godr.",Synonym,,L,TICA,AE12A3A2-99E6-44B1-853F-2FC0CBA33674,,"Fl. France 2: 286 (1850)","","286","1850",gcc-37233
+gcc-62140,A,Compositae,,Cichorium,,"intybus",subsp.,"glaucum","(Hoffmanns. & Link) Tzvelev",Synonym,,L,TICA,DB3698B3-C15A-462A-8E5E-AC502FBF47C0,,"""Tzvelev in Komarov, Fl. SSSR 29. 1964.""","","17","1964",gcc-37233
+gcc-153974,A,Compositae,,Cichorium,,"intybus",subsp.,"illyricum","(borb.) Jáv.",Synonym,,L,TICA,812BB887-33C0-434B-A022-B989A80E81AB,,"","","","",gcc-37233
+gcc-41060,A,Compositae,,Cichorium,,"intybus",subsp.,"intybus","",Synonym,,L,TICA,D319068F-FB0A-47F8-B1C2-4C1CAFFA0250,,"","","","",gcc-37233
+gcc-63521,A,Compositae,,Cichorium,,"intybus",var.,"intybus","",Synonym,,L,TICA,F519B7CD-7198-41B6-AD7E-B775CAA66EF1,,"","","","",gcc-37233
+gcc-98904,A,Compositae,,Cichorium,,"intybus",f.,"intybus","",Synonym,,L,TICA,34440558-DD5F-4FDC-9D27-9725774B1923,,"","","","",gcc-37233
+gcc-64710,A,Compositae,,Cichorium,,"intybus",var.,"longipes","Faure & Maire",Synonym,,L,TICA,F3E0073F-1575-43E5-877E-C0823FCC8734,,"","","","",gcc-37233
+gcc-51053,A,Compositae,,Cichorium,,"intybus",subsp.,"pumilum","(Jacq.) Ball",Synonym,,L,TICA,8440370C-0C80-4003-950F-5EB5EAF7A6A8,,"","","534","1878",gcc-1040
+gcc-71012,A,Compositae,,Cichorium,,"intybus",var.,"radicosum","Alef.",Synonym,,L,TICA,2447232D-4479-4939-8D93-F2AE5C623D76,,"","","","",gcc-37233
+gcc-87329,A,Compositae,,Cichorium,,"intybus",f.,"rubicunda","Farw.",Synonym,,L,TICA,888FB0B5-D7DD-4745-888B-7D075647AD7F,58586-2,"Pap. Michigan Acad. Sci. 3","","108","1924",gcc-37233
+gcc-130171,A,Compositae,,Cichorium,,"intybus",f.,"sativum","(DC.) Bisch.",Synonym,,L,TICA,0DCBCF5D-068E-4B18-9F02-DDED2B4D7526,,"""Bisch., Beitr. Fl. Deutschl. 1851.""","","26","1851",gcc-37233
+gcc-55472,A,Compositae,,Cichorium,,"intybus",subsp.,"sativum","(Bisch.) Janch.",Synonym,,L,TICA,2EDF77AD-DE28-4D31-8728-76389C8D49FE,,"Janch. in Phyton (Horn) 8. 1959.","","239","1959",gcc-37233
+gcc-61587,A,Compositae,,Cichorium,,"intybus",var.,"sativum","(Bisch.) Janch.",Synonym,,L,TICA,05CBAAF4-F089-4190-9F2B-A7DC20881766,,"","","","",gcc-37233
+gcc-149518,A,Compositae,,Cichorium,,"intybus",f.,"sylvestre","Bisch.",Synonym,,L,TICA,8977EFB4-084A-44D2-9EE1-5A7F8093EBFC,,"""G.W.T.G. Bischoff, Beitr. Fl. Deutschl.. 1851""","","25","1851",gcc-37233
+gcc-72324,A,Compositae,,Cichorium,,"intybus",subsp.,"sylvestre","(Bisch.) Janch.",Synonym,,L,TICA,19F7D798-B1AC-457E-A2A3-FD0BC58EF067,,"","","","",gcc-37233
+gcc-26968,A,Compositae,,Cichorium,,"minimum",,"","Port.",Synonym,,M,TICA,4A205BB7-D724-4227-B63F-31DB56B2403E,194534-1,"","","16","1824",gcc-1040
+gcc-141241,A,Compositae,,Cichorium,,"nanum",,"","Port. ex Nyman",Synonym,,M,TICA,06F8E128-BDDF-43FC-8373-F6F0EC4B0679,194535-1,"","","472","1879",gcc-1040
+gcc-79039,A,Compositae,,Cichorium,,"noeanum",,"","Boiss.",Synonym,,M,TICA,D19DD97D-7DF1-4EDD-B0AD-6A9485801EDB,194536-1,"","","717","1875",gcc-1040
+gcc-122379,A,Compositae,,Cichorium,,"officinale",,"","Gueldenst. ex Ledeb.",Synonym,,M,TICA,8229FA84-9E07-4420-981E-CBDEDE10EA38,,"","","774","1846",gcc-37233
+gcc-104439,A,Compositae,,Cichorium,,"perenne",,"","Stokes",Synonym,Illegitimate,M,TICA,9C3C453C-737C-4DA9-8F97-A3805A105147,194538-1,"Bot. Mat. Med.","","133","1812",gcc-37233
+gcc-137805,A,Compositae,,Cichorium,,"polystachyum",,"","Pomel",Synonym,,M,TICA,ADC26B09-DD1C-4FAC-81D4-EF39A781F6F4,194539-1,"","","18","1874",gcc-1040
+gcc-1040,A,Compositae,,Cichorium,,"pumilum",,"","Jacq.",Accepted,,M,TICA,A4368D66-D236-4C18-A5EC-01E8E4895E40,194540-1,"","","3","1771",
+gcc-58487,A,Compositae,,Cichorium,,"pumilum",var.,"polystachyum","(Pomel) Batt.",Synonym,,L,TICA,E2CB4ECF-0B0D-49C5-A3FF-8F18E79D5336,,"","","","",gcc-1040
+gcc-148429,A,Compositae,,Cichorium,,"pumilum",f.,"pumilum","",Synonym,,L,TICA,5848D551-21F2-43CA-A929-425B97BF382A,,"","","","",gcc-1040
+gcc-152613,A,Compositae,,Cichorium,,"pumilum",var.,"pumilum","",Synonym,,L,TICA,39A3EB52-76EF-4746-B3F3-9D32799E2CE6,,"","","","",gcc-1040
+gcc-74631,A,Compositae,,Cichorium,,"pumilum",f.,"rhizocephalum","Pamp.",Synonym,,L,TICA,98AF0E97-9796-4607-BB05-46A0297BA621,,"""Nuovo Giorn. Bot. Ital., n.s., 24: 157 (1917)""","","157","1917",gcc-82814
+gcc-19626,A,Compositae,,Cichorium,,"rhagadiolus",,"","E.H.L.Krause",Synonym,,M,TICA,CB1BB8B2-DD93-41AF-AA9B-2445712235AC,194541-1,"","","183","1906",gcc-118872
+gcc-136763,A,Compositae,,Cichorium,,"rigidum",,"","Salisb.",Synonym,Illegitimate,M,TICA,118B8A14-B57B-4C66-9ED6-ECF67DF2CC62,194542-1,"Prodr. Stirp. Chap. Allerton","","183","1796",gcc-37233
+gcc-37837,A,Compositae,,Cichorium,,"spinosum",,"","L.",Accepted,,M,TICA,DCC71F5F-7359-4C7F-8195-462DB7FA1385,194543-1,"","","813","1753",
+gcc-41410,A,Compositae,,Cichorium,,"sylvestre",,"","Garsault",Synonym,Illegitimate,M,TICA,54C2547D-18BA-44B8-858B-4CB19D637D46,,"","","t. 222","1764",gcc-37233
+gcc-97784,A,Compositae,,Cichorium,,"sylvestre",,"","(Tourn.) Lam.",Synonym,Illegitimate,M,TICA,F41FDF6F-F9AB-4C14-BFDC-94AE17A6EF83,194544-1,"","","120","1779",gcc-37233

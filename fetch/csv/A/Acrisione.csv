@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93237,A,Compositae,,Acrisione,,"cymosa",,"","(Remy) B.Nord.",Synonym,,M,TICA,50D2CBDB-FB66-4A18-8B47-8A4A1527FFF9,,"Bot. Jahrb. Syst. 107","","583","1985",gcc-79798
+gcc-51126,A,Compositae,,Acrisione,,"denticulata",,"","(Hook. & Arn.) B.Nord.",Accepted,,M,TICA,D79CA350-1776-44DA-93A9-5ED8A9C08007,,"Bot. Jahrb. Syst. 107","","586","1985",
+gcc-52837,A,Compositae,,Acrisione,,"denticulata",var.,"denticulata","",Synonym,,L,TICA,49AB3927-F1C1-4228-B3EA-61F901B4E88E,,"""Bot. Jahrb. Syst. 107: 586, f. 2 (1985)""","","""586, f. 2""","1985",gcc-51126
+gcc-65484,A,Compositae,,Acrisione,,"denticulata",var.,"pilota","(Phil.) B.Nord.",Synonym,,L,TICA,3008B859-D0AA-4387-8734-C72017357939,,"","","588","1985",gcc-111944

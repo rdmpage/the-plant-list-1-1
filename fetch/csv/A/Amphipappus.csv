@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10528,A,Compositae,,Amphipappus,,"fremontii",,"","Torr. & A.Gray ex A.Gray",Accepted,,M,TICA,84C349B8-46ED-466D-96C8-13A71BDF9718,30184960-2,"Boston J. Nat. Hist. 5","","108","1845",
+gcc-30788,A,Compositae,,Amphipappus,,"fremontii",var.,"fremontii","",Synonym,,L,TICA,44D73337-749D-468C-9CD0-38FE0DB1A218,,"","","","",gcc-10528
+gcc-57719,A,Compositae,,Amphipappus,,"fremontii",subsp.,"fremontii","",Synonym,,L,TICA,0506C563-B7A2-4423-A4BC-889A156B4C0C,,"","","","",gcc-10528
+gcc-29895,A,Compositae,,Amphipappus,,"fremontii",var.,"spinosus","(A.Nelson) Ced.Porter",Accepted,,L,TICA,AC0342F5-FE69-40C3-863C-3744D865FD5C,11601-2,"American Journal of Botany 30(7):","","483","1943",
+gcc-44616,A,Compositae,,Amphipappus,,"fremontii",subsp.,"spinosus","(A.Nelson) D.D.Keck",Synonym,,L,TICA,A6F39BDA-848C-4BF6-ABC8-52A5BE227CEB,11600-2,"Aliso 4","","102","1958",gcc-29895
+gcc-144487,A,Compositae,,Amphipappus,,"spinosus",,"","(A.Nelson) A.Nelson",Synonym,,M,TICA,6AD0959D-FE73-466C-B9AB-FE34126CC45C,1159105-2,"Amer. J. Bot. 21","","579","1934",gcc-29895

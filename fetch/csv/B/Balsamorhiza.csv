@@ -1,0 +1,49 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-97390,A,Compositae,,Balsamorhiza,,"balsamorhiza",,"","(Hook.) A.Heller",Synonym,Illegitimate,M,TICA,4673F32D-2712-44EC-9B18-93C2B154FF44,28817-2,"Catalogue of North American Plants North of Mexico","","","1898",gcc-29087
+gcc-124187,A,Compositae,,Balsamorhiza,,"bolanderi",,"","A.Gray",Synonym,,M,TICA,9FD0D4C1-E37C-4912-8778-D01B5D728001,28819-2,"Proc. Amer. Acad. Arts 7","","356","1868",gcc-92901
+gcc-17382,A,Compositae,,Balsamorhiza,×,"bonseri",,"","(St.John) H.St.John",Accepted,,M,TICA,F6FF1799-4919-4EBD-AD13-201F837D7322,28820-2,"","","429","1937",
+gcc-121946,A,Compositae,,Balsamorhiza,,"careyana",,"","A.Gray",Accepted,,M,TICA,A0A443F4-0FAC-4212-B4A4-CAE9C0D05D91,,"""Memoirs of the American Academy of Arts and Science, new series 4(1):""","","81-82","1849",
+gcc-66141,A,Compositae,,Balsamorhiza,,"careyana",var.,"careyana","",Synonym,,L,TICA,FEDA9886-6E14-4402-B8EE-CC5FFD10096A,,"","","","",gcc-121946
+gcc-62676,A,Compositae,,Balsamorhiza,,"careyana",var.,"intermedia","Cronquist",Synonym,,L,TICA,00FBF79F-BDF2-4C25-9048-B0BCAA664EA1,28821-2,"Vasc. Pl. Pacific NorthW. 5","","101","1955",gcc-121946
+gcc-41573,A,Compositae,,Balsamorhiza,,"deltoidea",,"","Nutt.",Accepted,,M,TICA,1B51A3D9-95B0-4B92-98B6-4CFC537176C2,,"""Transactions of the American Philosophical Society, new series, 7:""","","351","1840",
+gcc-151787,A,Compositae,,Balsamorhiza,,"deltoidea",var.,"deltoidea","",Synonym,,L,TICA,CC7635D0-E743-4CF6-AD74-8C2B6EBC60CF,,"","","","",gcc-41573
+gcc-66590,A,Compositae,,Balsamorhiza,,"deltoidea",var.,"glabrescens","(Benth.) A.Gray",Synonym,,L,TICA,77BAD73E-2A12-485E-BF5B-CFF0BEB2CC33,28822-2,"","","103","1857",gcc-41573
+gcc-14570,A,Compositae,,Balsamorhiza,,"floccosa",,"","Rydb.",Unresolved,,L,TICA,69E92BDD-D03A-4ACE-9B26-1B062822EED6,28818-2,"Bull. Torrey Bot. Club 27","","629-630","1900",
+gcc-85106,A,Compositae,,Balsamorhiza,,"glabrescens",,"","Benth.",Synonym,,M,TICA,FED983DA-AA5E-4842-BD6D-77ED95E1F863,184058-1,"Plantas Hartwegianas imprimis Mexicanas","","317","1849",gcc-41573
+gcc-112914,A,Compositae,,Balsamorhiza,,"helianthoides",,"","(Nutt.) Nutt.",Synonym,,M,TICA,3EF98E63-22F8-4772-B88D-B681F0145F6F,,"""Transactions of the American Philosophical Society, new series, 7:""","","351","1840",gcc-10566
+gcc-26785,A,Compositae,,Balsamorhiza,,"hirsuta",,"","Nutt.",Synonym,,M,TICA,F26567FE-1E18-4EAC-BE0B-317DAED35239,,"""Transactions of the American Philosophical Society, new series, 7:""","","349-350","1840",gcc-29087
+gcc-156743,A,Compositae,,Balsamorhiza,,"hirsuta",var.,"hirsuta","",Synonym,,L,TICA,0199BE73-946B-431A-B9D8-F36A398F0378,,"","","","",gcc-29087
+gcc-10326,A,Compositae,,Balsamorhiza,,"hirsuta",var.,"lagocephala","W.M.Sharp",Unresolved,,L,TICA,7FCC9FC4-7CCB-4E0E-895D-1349A53ACE3D,28825-2,"Ann. Missouri Bot. Gard. 22","","139","1935",gcc-29087
+gcc-72064,A,Compositae,,Balsamorhiza,,"hirsuta",var.,"neglecta","W.M.Sharp",Unresolved,,L,TICA,2F436F1D-9551-4223-B571-FB03620DE6D4,28826-2,"Ann. Missouri Bot. Gard. 22","","139","1935",gcc-29087
+gcc-35839,A,Compositae,,Balsamorhiza,,"hispidula",,"","W.M.Sharp",Accepted,,M,TICA,E8AD2F45-D2FD-4446-AB43-42741FC925DD,28827-2,"Ann. Missouri Bot. Gard. 22","","""137-138, pl. 5, f. 3""","1935",
+gcc-29087,A,Compositae,,Balsamorhiza,,"hookeri",,"","(Hook.) Nutt.",Accepted,,M,TICA,416F73D7-7FC1-463E-B35B-35C8955F7074,,"""Transactions of the American Philosophical Society, new series, 7:""","","349","1840",
+gcc-68786,A,Compositae,,Balsamorhiza,,"hookeri",var.,"hirsuta","(Nutt.) A.Nelson",Synonym,,L,TICA,D34755DF-1423-434C-AD88-E16E90ACBFA3,28828-2,"","","546","1909",gcc-29087
+gcc-64415,A,Compositae,,Balsamorhiza,,"hookeri",var.,"hispidula","Cronquist",Synonym,,L,TICA,FC45970D-074F-4E3B-AC9D-BE5D6E4EAD25,28829-2,"Vasc. Pl. Pacific NorthW. 5","","103","1955",gcc-35839
+gcc-44866,A,Compositae,,Balsamorhiza,,"hookeri",var.,"hookeri","",Synonym,,L,TICA,B6D0EC0D-6DCE-40CF-BBAB-531FD136E86B,,"","","","",gcc-29087
+gcc-47565,A,Compositae,,Balsamorhiza,,"hookeri",var.,"incana","(Nutt.) A.Gray",Synonym,,L,TICA,AC83D3F2-213F-4440-AD0E-58231801790B,28831-2,"","","266","1884",gcc-32983
+gcc-59558,A,Compositae,,Balsamorhiza,,"hookeri",var.,"lagocephala","Cronquist",Synonym,,L,TICA,70A46773-02E4-4320-B944-976FD167FA95,28832-2,"Vasc. Pl. Pacific NorthW. 5","","103","1955",gcc-29087
+gcc-63386,A,Compositae,,Balsamorhiza,,"hookeri",var.,"lanata","W.M.Sharp",Synonym,,L,TICA,6157504E-7B31-4055-A606-B675E4E9DD05,28833-2,"Ann. Missouri Bot. Gard. 22","","130","1935",gcc-127262
+gcc-72628,A,Compositae,,Balsamorhiza,,"hookeri",var.,"neglecta","Cronquist",Synonym,,L,TICA,A9DB2153-E8BB-4C18-8B16-FF75B4835FAA,28834-2,"Vasc. Pl. Pacific NorthW. 5","","103","1955",gcc-29087
+gcc-69440,A,Compositae,,Balsamorhiza,,"hookeri",var.,"platylepis","(W.M.Sharp) Cronquist",Synonym,,L,TICA,0DBA4856-75DB-470F-A5DA-E6542E9BBDE0,1030594-2,"","","20","1994",gcc-29087
+gcc-60185,A,Compositae,,Balsamorhiza,,"hookeri",var.,"rosea","(A.Nelson & J.F.Macbr.) W.M.Sharp",Synonym,,L,TICA,DC78A2DC-6E45-4082-A219-9C43808A2210,28835-2,"Ann. Missouri Bot. Gard. 22","","130","1935",gcc-86714
+gcc-32983,A,Compositae,,Balsamorhiza,,"incana",,"","Nutt.",Accepted,,M,TICA,90545BDE-6E8D-412D-A4D9-3D2B55D70CC3,,"""Transactions of the American Philosophical Society, new series, 7:""","","350","1840",
+gcc-113,A,Compositae,,Balsamorhiza,,"incana",var.,"incana","",Synonym,,L,TICA,77C80A9D-30A9-4B6B-B144-003B6EEA41E6,,"","","","1935",gcc-32983
+gcc-34979,A,Compositae,,Balsamorhiza,,"incana",var.,"tomentosa","(Rydb.) W.M.Sharp",Synonym,,L,TICA,96808B53-FB53-4D32-9672-40D7AAD40D3C,28837-2,"Ann. Missouri Bot. Gard. 22","","134","1935",gcc-88428
+gcc-136184,A,Compositae,,Balsamorhiza,,"invenusta",,"","(Greene) Coville",Synonym,,M,TICA,0A4F38B4-0F51-4C49-9FA3-EBA1B5138FF0,1219032-2,"Contr. U. S. Natl. Herb. 4","","130","1893",gcc-339
+gcc-127262,A,Compositae,,Balsamorhiza,,"lanata",,"","(W.M.Sharp) W.A.Weber",Accepted,,M,TICA,D125C8AF-A729-4900-93FB-D73987DDC9EE,20006630-1,"Phytologia 85(1)","","20","1999",
+gcc-106108,A,Compositae,,Balsamorhiza,,"macrolepis",,"","W.M.Sharp",Accepted,,M,TICA,A6F15C4C-1D17-4B0E-93C3-A70CED27AA36,28838-2,"Ann. Missouri Bot. Gard. 22","","132","1935",
+gcc-14001,A,Compositae,,Balsamorhiza,,"macrolepis",var.,"macrolepis","",Synonym,,L,TICA,DD4B22D4-8E1D-403D-BE8E-19FE9F02395A,,"","","","",gcc-106108
+gcc-71674,A,Compositae,,Balsamorhiza,,"macrolepis",var.,"platylepis","Ferris",Synonym,,L,TICA,15375106-2907-4D76-B1C5-F7F56DB14279,28839-2,"Contr. Dudley Herb. 5","","99","1958",gcc-29087
+gcc-85975,A,Compositae,,Balsamorhiza,,"macrophylla",,"","Nutt.",Accepted,,M,TICA,F9C30C20-E775-4AC4-81EB-79E34B596FF2,,"""Transactions of the American Philosophical Society, new series, 7:""","","350","1840",
+gcc-69865,A,Compositae,,Balsamorhiza,,"macrophylla",var.,"idahoensis","W.M.Sharp",Unresolved,,L,TICA,28602469-91FB-4508-A1A5-E9AF5A5120CA,28840-2,"Ann. Missouri Bot. Gard. 22","","136","1935",gcc-85975
+gcc-51161,A,Compositae,,Balsamorhiza,,"macrophylla",var.,"macrophylla","",Synonym,,L,TICA,4E27C1DC-9018-4139-9A9C-5EE5D9471BAB,,"","","","",gcc-85975
+gcc-44745,A,Compositae,,Balsamorhiza,,"macrophylla",var.,"terebinthacea","(Hook.) A.Nelson",Synonym,,L,TICA,F07B0667-7796-4672-A3BE-52DF877DA4D0,28841-2,"","","546","1909",gcc-106621
+gcc-103888,A,Compositae,,Balsamorhiza,,"platylepis",,"","W.M.Sharp",Synonym,,M,TICA,CF29ADF2-D1A3-4632-9BC5-A2411E8152E0,307939-2,"Ann. Missouri Bot. Gard. 22: 131. 1935","","131","1935",gcc-29087
+gcc-86714,A,Compositae,,Balsamorhiza,,"rosea",,"","A.Nelson & J.F.Macbr.",Accepted,,M,TICA,CF92B596-EDAA-4F42-A205-7B8BD2A7ECE7,28843-2,"Bot. Gaz. 56","","478-479","1913",
+gcc-10566,A,Compositae,,Balsamorhiza,,"sagittata",,"","(Pursh) Nutt.",Accepted,,M,TICA,02F1209D-895B-4E13-ADFE-13BB82A5D2D0,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 350""","","350","1840",
+gcc-39050,A,Compositae,,Balsamorhiza,,"sericea",,"","W.A.Weber",Accepted,,M,TICA,3CE0BFB6-C69C-402E-B536-4875A40BA3B7,28844-2,"Phytologia 50","","358","1982",
+gcc-51997,A,Compositae,,Balsamorhiza,,"serrata",,"","A.Nelson & J.F.Macbr.",Accepted,,M,TICA,2ADAC9D2-FF06-4462-AED7-6071833D6C1D,304746-2,"Botanical Gazette 56(6):","","479","1913",
+gcc-102845,A,Compositae,,Balsamorhiza,,"silphioides",,"","Geyer ex Hook.",Synonym,,M,TICA,B3B5DC7D-35A5-4D2C-90EF-A003ABCAACE5,,"","","","1847",gcc-50753
+gcc-106621,A,Compositae,,Balsamorhiza,,"terebinthacea",,"","(Hook.) Nutt.",Accepted,,M,TICA,4E8A3F24-FDC0-4708-86E4-A8399FD8900E,,"""Transactions of the American Philosophical Society, new series, 7:""","","349","1840",
+tro-2709556,A,Compositae,,Balsamorhiza,×,"terebinthacea",,"","(Hook.) Nutt.",Unresolved,,L,TRO,2709556,184070-1,"Trans. Amer. Philos. Soc., n.s.,","7: 349","349","1840",
+gcc-88428,A,Compositae,,Balsamorhiza,×,"tomentosa",,"","(Rydb.) Rydb.",Accepted,,M,TICA,EF398BEF-B80C-4FE0-A75D-7F63F83B8F51,28846-2,"Bull. Torrey Bot. Club 27","","628","1900",

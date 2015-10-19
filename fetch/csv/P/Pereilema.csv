@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-433258,A,Poaceae,,Pereilema,,"beyrichianum",,"","(Kunth) Hitchc.",Accepted,,H,WCSP,433258,190091-2,"Contr. U. S. Natl. Herb.","24: 385","","1927",
+kew-433259,A,Poaceae,,Pereilema,,"brasilianum",,"","Trin.",Synonym,,H,WCSP,433259,415468-1,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","6(2): 382","","1845",kew-433258
+kew-433260,A,Poaceae,,Pereilema,,"ciliatum",,"","E.Fourn.",Accepted,,L,WCSP,433260,30214717-2,"Mexic. Pl.","2: 93","","1886",
+kew-433261,A,Poaceae,,Pereilema,,"crinitum",,"","J.Presl",Accepted,,H,WCSP,433261,415470-1,"Reliq. Haenk.","1: 233","","1830",
+kew-433262,A,Poaceae,,Pereilema,,"crinitum",var.,"cirratum","E.Fourn.",Synonym,,L,WCSP,433262,,"Mexic. Pl.","2: 93","","1886",kew-433261
+tro-25526873,A,Poaceae,,Pereilema,,"crinitum",var.,"crinitum","",Synonym,,L,TRO,25526873,,"","","","",kew-463610
+kew-433263,A,Poaceae,,Pereilema,,"diandrum",,"","R.W.Pohl",Accepted,,L,WCSP,433263,303319-2,"Novon","2: 102","","1992",
+kew-433264,A,Poaceae,,Pereilema,,"setarioides",,"","E.Fourn.",Synonym,,H,WCSP,433264,,"Mexic. Pl.","2: 93","","1886",kew-433261

@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81814,A,Compositae,,Tripolium,,"andinum",,"","Phil.",Unresolved,,L,TICA,38F8CF51-E820-4334-A5B2-70A1A835539B,256546-1,"Linnaea 33: 129. 1864","","129","1864",
+gcc-49869,A,Compositae,,Tripolium,,"angustatum",,"","Lindl.",Unresolved,,L,TICA,D5C5D651-8F10-45F1-9521-5C740712B342,,"","","","",gcc-104669
+gcc-126630,A,Compositae,,Tripolium,,"angustum",,"","Lindl.",Synonym,,L,TICA,2650DFFB-6D78-4A33-9E9F-D5BDDE831684,258681-2,"","","15","1834",gcc-104669
+gcc-105087,A,Compositae,,Tripolium,,"caricifolium",,"","(Kunth) S.Schauer",Synonym,,M,TICA,17F12420-492B-41CF-9D2F-A4E0222DA90B,256548-1,"Linnaea 19: 721. 1847","","721","1847",gcc-11595
+gcc-105542,A,Compositae,,Tripolium,,"conspicuum",,"","Lindl. ex DC.",Synonym,,M,TICA,B7A9D49D-956F-4B7A-A291-A5CD0946C874,256549-1,"Prodr. (DC.) 5: 254","","254","1836",gcc-138398
+gcc-124916,A,Compositae,,Tripolium,,"conspicuum",,"","Remy en Gay",Synonym,Illegitimate,M,TICA,5F5EFE45-EE70-4D5B-A791-D1D167932F78,,"Flora Chilena 4:","","15","1849",gcc-148725
+gcc-6538,A,Compositae,,Tripolium,,"conspicuum",,"","Lindl.",Unresolved,,L,TICA,F6D84E9E-B614-4545-8699-0C220ABFEDB5,258682-2,"","","","",
+gcc-95360,A,Compositae,,Tripolium,,"conspicuum",,"","J.Rémy",Synonym,,M,TICA,7C40D90B-B781-4CA7-A54B-8F22A592B9C3,,"Fl. Chil. 4: 15 (1849)","","15","1849",gcc-138398
+gcc-115483,A,Compositae,,Tripolium,,"divaricatum",,"","Nutt.",Synonym,,M,TICA,CA1826D9-5B6F-4C4A-B4AA-BC400867BAC9,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 296""","","296","1840",gcc-54363
+gcc-28058,A,Compositae,,Tripolium,,"flexuosum",,"","Nutt.",Unresolved,,L,TICA,947069F6-5E09-44ED-AA53-33CF741064DB,,"""Transactions of the American Philosophical Society, new series, 7:""","","295","1840",
+gcc-29768,A,Compositae,,Tripolium,,"flexuosum",,"","Nees",Unresolved,,L,TICA,6812BD3E-DAF8-467E-9636-3707B888AC8B,256551-1,"Gen. Sp. Aster. 155","","155","1832",
+gcc-4403,A,Compositae,,Tripolium,,"frondosum",,"","Nutt.",Synonym,,M,TICA,5299DB2A-56D1-4F39-8520-0833C5211C27,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 296""","","296","1840",gcc-101443
+gcc-6957,A,Compositae,,Tripolium,,"humile",,"","Phil.",Synonym,,M,TICA,E3B587D5-AD6A-4DCB-A6C8-0CF0EF4CA8F2,258683-2,"","","404","1894",gcc-12153
+gcc-130321,A,Compositae,,Tripolium,,"imbricatum",,"","Nutt.",Unresolved,,L,TICA,E8AE9886-EF17-453B-887B-DE4277313859,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 297""","","297","",
+gcc-120813,A,Compositae,,Tripolium,,"longicaule",,"","Duf.",Unresolved,,L,TICA,88ACCE92-BBEC-447E-B6EA-C863930036F3,256555-1,"","","327","1860",gcc-106290
+gcc-87418,A,Compositae,,Tripolium,,"maritimum",,"","H.Lév.",Unresolved,,L,TICA,FCFB0424-5B15-46CD-A88A-7D3D2E5879E0,256556-1,"""in Demid. Voy. Russ. Mer. ii. 193, 236, 237.""","","""ii. 193, 236, 237""","",
+gcc-126867,A,Compositae,,Tripolium,,"moelleri",,"","Phil.",Synonym,,M,TICA,3D4B3D65-C937-469A-B31B-D649AD813CEF,258684-2,"","","403","1894",gcc-138398
+gcc-127761,A,Compositae,,Tripolium,,"occidentale",,"","Nutt.",Synonym,,M,TICA,E079B212-A0AE-4D4F-9817-D8772791664E,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 296""","","296","1840",gcc-114504
+gcc-133785,A,Compositae,,Tripolium,,"oliganthum",,"","Phil.",Synonym,,M,TICA,D6839F7E-CFB1-424A-8ABA-E64CD50A056B,258685-2,"","","403","1894",gcc-138398
+gcc-126486,A,Compositae,,Tripolium,,"oregonum",,"","Nutt.",Unresolved,,L,TICA,5BF5CC4A-A904-4C8F-97C7-D5702400233E,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 296""","","296","1840",
+gcc-17801,A,Compositae,,Tripolium,,"paludosum",,"","Nees",Unresolved,,L,TICA,059DD793-A2B8-4BE6-A9DC-20DB5B1F1861,256561-1,"Gen. Sp. Aster. 155","","155","",
+gcc-106290,A,Compositae,,Tripolium,,"pannonicum",,"","(Jacq.) Dobrocz.",Accepted,,M,TICA,D8D4FC67-3295-4B6D-B95A-A76C97BEEFFB,256563-1,"","","63","1962",
+gcc-30183,A,Compositae,,Tripolium,,"pannonicum",,"","(Jacq.) Schur",Synonym,,M,TICA,F8C3D538-E9A9-46CD-9551-37DEB86D55B4,256562-1,"Enum. Pl. Transsilv. 304. 1866 [Apr-Jun 1866]","","304","1866",gcc-106290
+gcc-24853,A,Compositae,,Tripolium,,"pannonicum",subsp.,"maritimum","Holub",Synonym,,L,TICA,90217351-DD1D-4132-A759-2DEE417CC0DB,878488-1,"","","177","1973",gcc-60091
+gcc-153339,A,Compositae,,Tripolium,,"pannonicum",subsp.,"pannonicum","",Synonym,,L,TICA,FCE4F6BF-9765-4CCA-9D62-AC464CB525B7,,"","","","",gcc-106290
+gcc-18925,A,Compositae,,Tripolium,,"pannonicum",subsp.,"pannonicum","",Synonym,,L,TICA,A36951CC-36EC-44E3-9212-22EEF2882BD3,,"","","","",gcc-106290
+gcc-60091,A,Compositae,,Tripolium,,"pannonicum",subsp.,"tripolium","(L.) Greuter",Accepted,,L,TICA,4E1711CB-9053-4DF3-BEE7-9B9E24A2B129,70029028-1,"","","47","2003",
+gcc-2634,A,Compositae,,Tripolium,,"pauciflorum",,"","(Nutt.) DC.",Synonym,,M,TICA,96419244-7D86-400E-AB41-04DAC62033BC,,"Gen. Sp. Aster. 157","","","1836",gcc-137367
+gcc-45794,A,Compositae,,Tripolium,,"sorrentinoi",,"","(Tod.) Raimondo & Greuter",Accepted,,M,TICA,72D5BA91-88F1-4B1F-9546-54E8E3CCA880,77067647-1,"","","59","2005",
+gcc-128089,A,Compositae,,Tripolium,,"subulatum",,"","(Michx.) DC.",Synonym,,M,TICA,039DA994-B96A-4604-846B-D935233604BD,,"","","","",gcc-78175
+gcc-97677,A,Compositae,,Tripolium,,"subulatum",,"","Nees",Unresolved,,L,TICA,0491F057-9963-4BBB-80BD-9471ACE07DFE,30234587-2,"Gen. Sp. Aster.","","156","1832",
+gcc-59950,A,Compositae,,Tripolium,,"subulatum",var.,"brasilianum","DC.",Synonym,,L,TICA,50A8B79B-5820-49B8-9400-9A93455345F4,286439-2,"Prodr. (DC.) 5: 254","","254","1836",gcc-148725
+gcc-35866,A,Compositae,,Tripolium,,"subulatum",var.,"cubensis","DC.",Synonym,,L,TICA,BEC9E935-5C27-4DDC-ACCF-427FF3F2909C,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","254","1836",gcc-136221
+gcc-66394,A,Compositae,,Tripolium,,"subulatum",var.,"parviflorum","Nees",Synonym,,L,TICA,1E6778AB-DC6E-403F-B15D-CE852D7B4796,,"Genera et Species Asterearum","","""157, 286""","1833",gcc-136221
+gcc-152972,A,Compositae,,Tripolium,,"subulatum",var.,"subulatum","",Synonym,,L,TICA,B3BD6ABE-5F1C-49B8-AF1E-A4A5F9EA0F21,,"","","","",gcc-78175
+gcc-42083,A,Compositae,,Tripolium,,"tenuifolium",,"","Phil.",Synonym,,M,TICA,80B5BCAF-4681-47DF-9424-4DF40C872CA2,258686-2,"","","404","1894",gcc-12153
+gcc-92234,A,Compositae,,Tripolium,,"uniflorum",,"","Phil.",Synonym,,M,TICA,BE9ABAD1-3D4C-41F5-BF01-882AB91B9214,256567-1,"Linnaea 33: 129. 1864","","129","1864",gcc-12153
+gcc-143533,A,Compositae,,Tripolium,,"vulgare",,"","Nees",Synonym,,M,TICA,798ED42F-C0C5-417B-9C03-FC1EEA85F8C4,256568-1,"Gen. Sp. Aster.","","153","",gcc-106290
+gcc-69796,A,Compositae,,Tripolium,,"vulgare",var.,"longicaule","DC.",Synonym,,L,TICA,F2C74087-50D0-406C-BAE9-E91A206881E3,,"""DC., Prodr. 5. 1836.""","","253","1836",gcc-106290
+gcc-154409,A,Compositae,,Tripolium,,"vulgare",var.,"vulgare","",Synonym,,L,TICA,AB43E1B2-DFCD-4E27-865C-C2EB42BC69A6,,"","","","",gcc-106290

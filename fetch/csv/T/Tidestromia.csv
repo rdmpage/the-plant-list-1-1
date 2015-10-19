@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50096054,A,Amaranthaceae,,Tidestromia,,"carnosa",,"","(Steyerm.) I.M. Johnst.",Accepted,,L,TRO,50096054,253343-2,"J. Arnold Arbor.","24(2): 232","232","1943",
+kew-2899117,A,Amaranthaceae,,Tidestromia,,"eliassoniana",,"","(Sánch.Pino & Flores Olv.) Sánch.Pino",Unresolved,,L,WCSP (in review),,77103931-1,"Taxon","59: 46","","2010",
+tro-1101110,A,Amaranthaceae,,Tidestromia,,"gemmata",,"","I.M. Johnst.",Synonym,,L,TRO,1101110,253344-2,"J. Arnold Arbor.","24(2): 233–234","233","1943",tro-1100472
+tro-1101049,A,Amaranthaceae,,Tidestromia,,"lanuginosa",,"","(Nutt.) Standl.",Accepted,,L,TRO,1101049,253345-2,"J. Wash. Acad. Sci.","6(3): 70","70","1916",
+tro-1101109,A,Amaranthaceae,,Tidestromia,,"lanuginosa",var.,"carnosa","(Steyerm.) Cory",Synonym,,L,TRO,1101109,253346-2,"Rhodora","38(455): 405","405","1936",tro-50096054
+tro-1101050,A,Amaranthaceae,,Tidestromia,,"lanuginosa",var.,"lanuginosa","",Synonym,,L,TRO,1101050,,"","","","",tro-1101049
+tro-50233903,A,Amaranthaceae,,Tidestromia,,"lanuginosa",subsp.,"lanuginosa","",Synonym,,L,TRO,50233903,,"","","","2002",tro-1101049
+tro-1100470,A,Amaranthaceae,,Tidestromia,,"oblongifolia",,"","(S. Watson) Standl.",Synonym,,L,TRO,1100470,253347-2,"J. Wash. Acad. Sci.","6(3): 70","70","1916",tro-50221908
+tro-1100471,A,Amaranthaceae,,Tidestromia,,"oblongifolia",subsp.,"cryptantha","(S. Watson) Wiggins",Synonym,,L,TRO,1100471,253348-2,"Contr. Dudley Herb.","4(2): 16","16","1950",tro-50221908
+tro-50090241,A,Amaranthaceae,,Tidestromia,,"rhizomatosa",,"","I.M. Johnst.",Accepted,,M,TRO,50090241,253349-2,"J. Arnold Arbor.","24(2): 233","233","1943",
+tro-1100472,A,Amaranthaceae,,Tidestromia,,"suffruticosa",,"","(Torr.) Standl.",Accepted,,L,TRO,1100472,253350-2,"J. Wash. Acad. Sci.","6(3): 70","70","1916",
+tro-50289888,A,Amaranthaceae,,Tidestromia,,"suffruticosa",var.,"coahuilana","I.M. Johnst.",Synonym,,L,TRO,50289888,,"","","","",tro-1100472
+tro-50221908,A,Amaranthaceae,,Tidestromia,,"suffruticosa",var.,"oblongifolia","(S. Watson) Sánchez-del Pino & Flores Olvera",Accepted,,L,TRO,50221908,,"Novon","12(3): 406","406","2002",
+tro-50233902,A,Amaranthaceae,,Tidestromia,,"suffruticosa",var.,"suffruticosa","",Synonym,,L,TRO,50233902,,"","","","2002",tro-1100472
+tro-50279903,A,Amaranthaceae,,Tidestromia,,"tenella",,"","I.M. Johnst.",Accepted,,M,TRO,50279903,,"J. Arnold Arbor.","20(2): 434","434","1939",
+tro-50221906,A,Amaranthaceae,,Tidestromia,,"valdesiana",,"","Sánchez-del Pino & Flores Olvera",Accepted,,M,TRO,50221906,,"Novon","12(3): 399–401, f. 1, 2A, 3A, 3C","399","2002",

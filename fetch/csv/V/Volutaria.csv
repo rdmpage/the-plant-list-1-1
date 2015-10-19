@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-133256,A,Compositae,,Volutaria,,"abyssinica",,"","(Sch.Bip. ex A.Rich.) C.Jeffrey ex Cufod.",Accepted,,M,TICA,C21350A7-2A3A-443F-8E2D-E5177B71458C,,"""in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl., 1176 (1967).""","","1176","1967",
+gcc-67043,A,Compositae,,Volutaria,,"abyssinica",subsp.,"abyssinica","",Synonym,,L,TICA,7B51A387-E649-4965-87BB-D3B1D0F856A6,,"","","","",gcc-133256
+gcc-69521,A,Compositae,,Volutaria,,"abyssinica",subsp.,"aylmeri","(Baker) Wagenitz",Accepted,,L,TICA,0011159F-3273-4BDC-B3CF-E710A24F99E6,,"Candollea 46(2): 407 (1991):.","","407","1991",
+gcc-141076,A,Compositae,,Volutaria,,"albicaulis",,"","(Deflers) Wagenitz",Unresolved,,L,TICA,0D33B627-C9A0-4A5F-8D31-F6831C1E0A25,,"Candollea 46(2): 408 (1991):.","","408","1991",gcc-35195
+gcc-15293,A,Compositae,,Volutaria,,"belouini",,"","(Humbert) Maire",Accepted,,M,TICA,3A495B85-130D-4960-884D-1C4FE9A90A45,260092-1,"","","818","1934",
+gcc-43799,A,Compositae,,Volutaria,,"bollei",,"","(Sch.Bip. ex Bolle) A.Hansen & G.Kunkel",Accepted,,L,TICA,718C6CB4-CCAB-47EB-8F6D-5128ADEDB4DE,260093-1,"","","12","1977",
+gcc-29863,A,Compositae,,Volutaria,,"boranensis",,"","(Cufod.) Wagenitz",Accepted,,M,TICA,DBADE242-8474-4632-8538-3738DAC04BCB,,"Candollea 46(2): 408 (1991):.","","408","1991",
+gcc-533,A,Compositae,,Volutaria,,"canariensis",,"","Wagenitz",Accepted,,M,TICA,C8777CDD-58FA-4784-A3CF-00FEFA9108DF,,"","","408","1991",
+gcc-134282,A,Compositae,,Volutaria,,"crupinoides",,"","(Desf.) Cass. ex Maire",Accepted,,M,TICA,EA15D428-2949-46E9-8130-E76D17333EF4,260094-1,"","","818","1934",
+gcc-149670,A,Compositae,,Volutaria,,"crupinoides",var.,"crupinoides","",Synonym,,L,TICA,1B0065FD-D95D-4E19-AC91-5DC22AE643B3,,"","","","",gcc-134282
+gcc-36459,A,Compositae,,Volutaria,,"crupinoides",subsp.,"crupinoides","",Synonym,,L,TICA,448EC62E-89E9-465D-BC17-439B3F1CB522,,"","","","",gcc-134282
+gcc-55164,A,Compositae,,Volutaria,,"crupinoides",var.,"libyca","(Viv.) Maire & Weiller",Synonym,,L,TICA,D2FA6EB4-69BA-4138-9FCA-73D093ECB159,,"","","","",gcc-134282
+gcc-52716,A,Compositae,,Volutaria,,"dhofarica",,"","Wagenitz",Accepted,,M,TICA,8CC69AB9-EB97-4EA0-83F6-61BBC51F3372,,"","","409","1991",
+gcc-3151,A,Compositae,,Volutaria,,"djiboutensis",,"","Wagenitz",Accepted,,M,TICA,6A24FB02-40DD-408F-A1C8-05D352381D9B,994528-1,"""in Ann. Naturhist. Mus. Wien, 98B(Suppl.): 178 (1996)""","","178","1996",
+gcc-32551,A,Compositae,,Volutaria,,"leucantha",,"","(Coss. ex Batt.) Maire",Synonym,,M,TICA,805AB1FF-717C-4AF3-B129-3C57C5BC62DD,,"","","817","1934",gcc-144245
+gcc-143813,A,Compositae,,Volutaria,,"lippii",,"","(L.) Cass. ex Maire",Accepted,,M,TICA,9E09AC92-72E4-438C-909B-FCB8885FCDC7,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","817","1934",
+gcc-43860,A,Compositae,,Volutaria,,"lippii",,"","Cass.",Unresolved,,L,TICA,9A6E1FF6-933A-47D9-947E-51441DAD279B,260096-1,"Bull. Sci. Soc. Philom. Paris (1816) 200","","200","",
+gcc-66568,A,Compositae,,Volutaria,,"lippii",var.,"atlantica","(Pit.) Maire",Synonym,,L,TICA,20CA58E9-1CF1-4CBF-83B7-CFCDE47AF9CA,,"","","","",gcc-143813
+gcc-145568,A,Compositae,,Volutaria,,"lippii",var.,"lippii","",Synonym,,L,TICA,89EEBEDF-163D-41B3-96AE-06BA561C57B6,,"","","","",gcc-143813
+gcc-25919,A,Compositae,,Volutaria,,"lippii",subsp.,"lippii","",Synonym,,L,TICA,F4670107-F84C-4F2B-A04D-2FE47D486739,,"","","","",gcc-143813
+gcc-59292,A,Compositae,,Volutaria,,"lippii",var.,"medians","(Maire) Maire",Synonym,,L,TICA,B727DA52-234B-42E4-9EA5-95460EEF458E,,"","","","",gcc-667
+gcc-667,A,Compositae,,Volutaria,,"lippii",subsp.,"medians","(Maire) Wagenitz",Accepted,,L,TICA,F454FB47-004B-4B59-85D9-01438656F13A,,"","","409","1991",
+gcc-53315,A,Compositae,,Volutaria,,"lippii",var.,"microcephala","Maire",Synonym,,L,TICA,3A92B4E6-D746-43BA-890E-6545F7C0814F,,"","","","",gcc-143813
+gcc-27855,A,Compositae,,Volutaria,,"lippii",var.,"ramosissima","(Pit.) Maire",Synonym,,L,TICA,04A2460B-F359-492B-8BB8-337B9B099D07,,"","","","",gcc-143813
+gcc-62276,A,Compositae,,Volutaria,,"lippii",subsp.,"tubuliflora","(Murb.) Maire",Synonym,,L,TICA,14780CA8-DB27-4EA3-A511-AD5A596D6649,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","818","1934",gcc-127193
+gcc-79829,A,Compositae,,Volutaria,,"maroccana",,"","(Barratte & Murb.) Maire",Accepted,,M,TICA,83E8B1DE-1705-461F-A958-6C438E3AA5D6,260097-1,"","","818","1934",
+gcc-115533,A,Compositae,,Volutaria,,"muricata",,"","(L.) Cass.",Unresolved,Illegitimate,L,TICA,FB8FB63F-7507-44DC-87C6-BC5FEF6BE150,,"","","","",
+gcc-80012,A,Compositae,,Volutaria,,"muricata",,"","(L.) Maire",Accepted,,M,TICA,FCB7D2E2-8998-44AA-847D-6CA60C8D1E55,260098-1,"","","817","1934",
+gcc-21906,A,Compositae,,Volutaria,,"muricata",var.,"eradiata","(Braun-Blanq. & Maire) Maire",Synonym,,L,TICA,7D75DAF2-16E1-41CB-BF80-2884A2CD2A4E,,"","","","",gcc-80012
+gcc-39245,A,Compositae,,Volutaria,,"muricata",var.,"micractis","(Boiss.) Maire",Synonym,,L,TICA,681F7A32-B51B-4A86-9289-48D45F8863FF,,"","","","",gcc-80012
+gcc-150727,A,Compositae,,Volutaria,,"muricata",var.,"muricata","",Synonym,,L,TICA,DA49542F-9EAE-4476-908A-75278A735D40,,"","","","",gcc-80012
+gcc-8079,A,Compositae,,Volutaria,,"omphalodes",,"","(Benth. & Hook.f.) Maire",Synonym,,M,TICA,C5F25356-0B35-4A3E-9651-0F08B3A5AF9C,,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1934, xxv. 16""","","","1934",gcc-25337
+gcc-76295,A,Compositae,,Volutaria,,"ramosissima",,"","(Pit.) Sennen",Unresolved,,L,TICA,83E939B8-5A39-42AB-A81F-646226C06BBA,260100-1,"""Campagn. Bot. Maroc Or. 1930-5, 148 (1936), in obs.""","","""1930-5, 148 , in obs.""","1936",
+gcc-10382,A,Compositae,,Volutaria,,"saharae",,"","(L.Chevall.) Wagenitz",Accepted,,M,TICA,C9451358-C940-48DB-834C-13669BBCF19A,70029206-1,"","","61","2003",
+gcc-110867,A,Compositae,,Volutaria,,"saharae",,"","Quézel & Santa",Synonym,,M,TICA,BA78DD27-61C7-410A-A4A3-B1DD2DAFE0C1,260101-1,"Nouv. Fl. Alger. ii. 1034 (1963).","","ii. 1034","1963",gcc-10382
+gcc-144245,A,Compositae,,Volutaria,,"sinaica",,"","(DC.) Wagenitz",Accepted,,M,TICA,B5F76C10-5B81-4BDF-8353-FDAA4E005DC0,,"","","409","1991",
+gcc-116008,A,Compositae,,Volutaria,,"somalensis",,"","(Oliv. & Hiern) C.Jeffrey ex Cuf.",Accepted,,M,TICA,4E26D85F-B351-4A82-AC91-BD76CABB7F9D,,"""Bulletin du Jardin Botanique National de Belgique 37, Suppl. (Enum, t. Aeth. Spermat.):""","","1177","1967",
+gcc-40328,A,Compositae,,Volutaria,,"somalensis",,"","(Oliv. & Hiern) C.Jeffrey",Synonym,,M,TICA,50758EEE-8C29-4E73-A520-4AC29C6FB2E5,260102-1,"in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl. 1177 (1967).","","xxxvii. Suppl. 1177","1967",gcc-133256
+gcc-140403,A,Compositae,,Volutaria,,"tubiflora",,"","Sennen",Accepted,,L,TICA,AD42E554-4F3F-4EE8-8A55-F4F03EFE2EA4,,"","","","",
+gcc-127193,A,Compositae,,Volutaria,,"tubuliflora",,"","(Murb.) Sennen",Accepted,,M,TICA,36A04B1E-F600-4C51-9177-D716BD78FF8A,,"","","","1936",

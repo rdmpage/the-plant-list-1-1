@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120955,A,Compositae,,Enceliopsis,,"argophylla",,"","(D.C.Eaton) A.Nelson",Accepted,,L,TICA,8AE15019-14C6-4A64-9D1D-C8B6316422BD,90626-2,"Bot. Gaz. 47","","433","1909",
+gcc-54369,A,Compositae,,Enceliopsis,,"argophylla",var.,"argophylla","",Synonym,,L,TICA,7A2E28E7-471A-4838-A01A-6D7908F399A7,,"","","","",gcc-120955
+gcc-62246,A,Compositae,,Enceliopsis,,"argophylla",var.,"grandiflora","(A.Nelson) Jeps.",Synonym,,L,TICA,9BD1257B-CA47-4CCB-8E28-AD18621A2D48,90627-2,"","","1081","1925",gcc-102994
+gcc-102994,A,Compositae,,Enceliopsis,,"covillei",,"","(A.Nelson) S.F.Blake",Accepted,,M,TICA,ED153E8A-4EEB-4755-8BF7-A0525DA5F056,90628-2,"J. Wash. Acad. Sci. 21","","334","1931",
+gcc-112133,A,Compositae,,Enceliopsis,,"grandiflora",,"","(M.E.Jones) A.Nelson",Synonym,,M,TICA,846E7ED4-467C-4BB7-8927-B4BA5E5D2730,90629-2,"Bot. Gaz. 47","","433","1909",gcc-102994
+gcc-89802,A,Compositae,,Enceliopsis,,"nudicaulis",,"","(A.Gray) A.Nelson",Accepted,,L,TICA,12E0FD7B-2537-4A1A-8013-8293FB2DDC19,90630-2,"Bot. Gaz. 47","","433","1909",
+gcc-70003,A,Compositae,,Enceliopsis,,"nudicaulis",var.,"bairdii","S.L.Welsh",Synonym,,L,TICA,CFA23AAD-39BD-4DD0-ADBB-EAB249878A16,60437312-2,"","","176-177","2003",gcc-89802
+gcc-26415,A,Compositae,,Enceliopsis,,"nudicaulis",var.,"corrugata","Cronquist",Synonym,,L,TICA,AEBE4CED-EC9B-41B2-A69D-30D091D1B297,90631-2,"Bull. Torrey Bot. Club 99","","246","1973",gcc-89802
+gcc-66407,A,Compositae,,Enceliopsis,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,57C90191-73DB-48B3-8EB7-CE945EEB10B1,,"","","","",gcc-89802
+gcc-100094,A,Compositae,,Enceliopsis,,"nutans",,"","(Eastw.) A.Nelson",Synonym,,M,TICA,6398F419-CA6C-4A8E-9F29-99D19B096D5E,90632-2,"Bot. Gaz. 47","","433","1909",gcc-139247
+gcc-86923,A,Compositae,,Enceliopsis,,"tuta",,"","A.Nelson",Synonym,,L,TICA,6FE25877-C3D9-4E57-BC37-7C0898DD1960,90633-2,"Bot. Gaz. 47","","433","1909",gcc-89802

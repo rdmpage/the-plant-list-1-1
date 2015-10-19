@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104824,A,Compositae,,Athroisma,,"boranense",,"","Cufod.",Accepted,,M,TICA,4710D823-96CC-4C95-98A3-A4485F461406,,"","","","1943",
+gcc-148363,A,Compositae,,Athroisma,,"boranense",var.,"boranense","",Synonym,,L,TICA,F89D06D6-A839-4E39-AD5F-40FBBDCBAB73,,"","","","",gcc-104824
+gcc-9761,A,Compositae,,Athroisma,,"boranense",var.,"hispidum","Cufod.",Synonym,,L,TICA,638501C9-3CA0-44B8-A280-123E1E209EC1,,"""Nuovo Giorn. Bot. Ital., n.s., 50: 109 (1943)""","","109","1943",gcc-104824
+gcc-126335,A,Compositae,,Athroisma,,"dentatum",,"","Griff.",Unresolved,,L,TICA,B277A7F9-6928-4227-B4F2-D51FCF1CBE1B,339560-1,"Not. Pl. Asiat. 4: 478 (1854)","","478","1854",
+gcc-22313,A,Compositae,,Athroisma,,"fanshawei",,"","Wild",Accepted,,M,TICA,C440106A-1AA3-4DBF-9F4F-294AB687BD8A,896365-1,"","","18","1980",
+gcc-90664,A,Compositae,,Athroisma,,"gracile",,"","(Oliv.) Mattf.",Accepted,,M,TICA,E22BFE90-1E72-4A07-81DC-849939323941,182884-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","302","1936",
+gcc-58132,A,Compositae,,Athroisma,,"gracile",subsp.,"gracile","",Synonym,,L,TICA,70C2B7AE-8273-4F41-AEE8-8C0A24B1F8B8,,"","","","",gcc-90664
+gcc-67186,A,Compositae,,Athroisma,,"gracile",subsp.,"psyllioides","(Oliv.) T.Erikss.",Accepted,,L,TICA,475D87D9-6083-4CA8-837F-D50755900647,,"","","170","1995",
+gcc-2527,A,Compositae,,Athroisma,,"haareri",,"","(Dandy) Mattf.",Synonym,,M,TICA,502EDDC6-9700-4534-9624-049A0777AB5E,182885-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","302","1936",gcc-67186
+gcc-143045,A,Compositae,,Athroisma,,"hastifolium",,"","Mattf.",Accepted,,M,TICA,CD0EFF5C-03B9-4270-A059-FB00B1582FF5,182886-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","298","1936",
+gcc-139356,A,Compositae,,Athroisma,,"inevitabile",,"","T.Erikss.",Accepted,,M,TICA,B736D7EB-F09E-47AE-943D-F292D4373831,985935-1,"","","178","1995",
+gcc-87305,A,Compositae,,Athroisma,,"laciniatum",,"","DC.",Unresolved,Invalid,L,TICA,3139E389-73FE-4FD7-B642-7CF907060182,60447714-2,"","","369","1836",
+gcc-123503,A,Compositae,,Athroisma,,"lobatum",,"","(Klatt) Mattf.",Accepted,,M,TICA,4D5BA429-B9F0-4B4D-A0EE-CE7C1BC84D3C,182888-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","301","1936",
+gcc-138305,A,Compositae,,Athroisma,,"pinnatifidum",,"","T.Erikss.",Accepted,,M,TICA,567BBC65-C16C-4568-99E2-F04B5E336049,985933-1,"","","161","1995",
+gcc-137550,A,Compositae,,Athroisma,,"proteiforme",,"","(Humbert) Mattf.",Accepted,,M,TICA,4B150C41-4529-4AD6-97F8-EEAE38FEE45A,182889-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","302","1936",
+gcc-125099,A,Compositae,,Athroisma,,"psilocarpum",,"","T.Erikss.",Accepted,,M,TICA,58A5E7CD-DAA4-4A56-B168-D248AE78CA7E,985931-1,"","","155","1995",
+gcc-100108,A,Compositae,,Athroisma,,"psyllioides",,"","(Oliv.) Mattf.",Synonym,,M,TICA,DACA5A72-BCCF-4A3F-B0CD-99D7DF33A825,182890-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","302","1936",gcc-67186
+gcc-84199,A,Compositae,,Athroisma,,"pusillum",,"","T.Erikss.",Accepted,,M,TICA,4BB716AE-0649-43FD-A558-76051A4762DB,985932-1,"","","157","1995",
+gcc-88768,A,Compositae,,Athroisma,,"serratum",,"","Griff.",Unresolved,,L,TICA,DBBE5F0B-86EE-47C5-A5AE-8035ACB971DA,339561-1,"Not. Pl. Asiat. 4: 477 (1854)","","477","1854",
+gcc-129941,A,Compositae,,Athroisma,,"stuhlmannii",,"","(O.Hoffm.) Mattf.",Accepted,,M,TICA,944DA649-67B0-461B-89E0-DD6BA495B297,182891-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","301","1936",
+gcc-106969,A,Compositae,,Athroisma,,"viscida",,"","Zoll. & Mor.",Synonym,,L,TICA,CF45CE30-DA32-4CFC-AC16-A905348786B3,,"","","232","1845",gcc-87305

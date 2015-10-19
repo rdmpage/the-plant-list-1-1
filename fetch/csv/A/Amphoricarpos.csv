@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129823,A,Compositae,,Amphoricarpos,,"autariatus",,"","Bjelčić & E.Mayer",Accepted,,M,TICA,764065EB-2646-4E76-B444-DD221E060BE2,,"","","155","1967",
+gcc-62779,A,Compositae,,Amphoricarpos,,"autariatus",subsp.,"autariatus","",Synonym,,L,TICA,80386567-3AA6-4B57-BEA4-B180C2165076,,"","","","",gcc-129823
+gcc-71735,A,Compositae,,Amphoricarpos,,"autariatus",subsp.,"bertisceus","",Unresolved,,L,TICA,0D36DCE0-5C9B-4939-8961-F877250B7B46,,"Blečić & E. Mayer in Phyton (Horn) 12. 1967.","","156","1967",
+gcc-5057,A,Compositae,,Amphoricarpos,,"elegans",,"","Albov",Accepted,,M,TICA,5A265BE6-0CDC-4505-ABB1-09738371060B,176274-1,"","","247","1894",
+gcc-27438,A,Compositae,,Amphoricarpos,,"exsul",,"","O.Schwarz",Accepted,,M,TICA,A44B8D9C-6630-4BB7-BE93-32BD23CB3576,,"","","","1970",
+gcc-27294,A,Compositae,,Amphoricarpos,,"neumayeri",,"","Vis.",Synonym,,M,TICA,F38AFDED-AB71-4F03-8AAE-327BC7016869,,"","","","",gcc-81886
+gcc-37490,A,Compositae,,Amphoricarpos,,"neumayeri",subsp.,"bertisceus","(Blečić & E.Mayer) O.Schwarz",Synonym,,L,TICA,AA33557A-B3CD-424D-8643-457ED73482F6,,"O. Schwarz in Phyton (Horn) 14. 1970.","","132","1970",gcc-71735
+gcc-50531,A,Compositae,,Amphoricarpos,,"neumayeri",subsp.,"murbeckii","Bosnjak",Synonym,,L,TICA,7AF0BBA9-CCB9-4CC7-89A0-5DAB6C287EAA,,"","","62","1936",gcc-129823
+gcc-148116,A,Compositae,,Amphoricarpos,,"neumayeri",subsp.,"neumayeri","",Synonym,,L,TICA,196A42B8-E70A-41B3-AF7C-3BEBAF210FCD,,"","","","",gcc-81886
+gcc-81886,A,Compositae,,Amphoricarpos,,"neumayerianus",,"","(Vis.) Greuter",Accepted,,M,TICA,8C2C7DC1-049C-4B02-8B4F-70CBC8BD4A85,70029029-1,"","","51","2003",
+gcc-110409,A,Compositae,,Amphoricarpos,,"praedictus",,"","Ayasligil & Grierson",Accepted,,M,TICA,718D0244-1981-4B14-8477-B0D242A4E274,903507-1,"","","70","1984",

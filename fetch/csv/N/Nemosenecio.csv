@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-142992,A,Compositae,,Nemosenecio,,"concinnus",,"","(Franch.) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,500F27E6-287F-48E6-BB32-FAE75163D4C0,,"Kew Bull. 39(2): 266 (1984):","","266","1984",
+gcc-100230,A,Compositae,,Nemosenecio,,"formosanus",,"","(Kitam.) B.Nord.",Accepted,,M,TICA,5D5123EB-DDFF-4F71-A6FD-9A269016C942,234275-1,"Opera Bot. 44: 46 (1978)","","46","1978",
+gcc-19923,A,Compositae,,Nemosenecio,,"incisifolius",,"","(Jeffrey) B.Nord.",Accepted,,M,TICA,AD255A55-D831-4FCC-959C-24D78776FBB1,234276-1,"Opera Bot. 44: 46 (1978).","","46","1978",
+gcc-119248,A,Compositae,,Nemosenecio,,"nikoensis",,"","(Miq.) B.Nord.",Accepted,,M,TICA,3B54952B-D510-4228-B651-C4BCA806F3AD,234277-1,"Opera Bot. 44: 46 (1978).","","46","1978",
+gcc-149689,A,Compositae,,Nemosenecio,,"nikoensis",f.,"nikoensis","",Synonym,,L,TICA,AE1874FF-590C-43B5-8887-5E291E9B1D6E,,"","","","",gcc-119248
+gcc-97824,A,Compositae,,Nemosenecio,,"solenoides",,"","(Dunn) B.Nord.",Accepted,,M,TICA,7BFE03AC-3F06-494E-BC97-94C107CD8B75,234278-1,"Opera Bot. 44: 46 (1978).","","46","1978",
+gcc-87544,A,Compositae,,Nemosenecio,,"yunnanensis",,"","B.Nord.",Accepted,,M,TICA,80FA1A33-7B0E-4C55-93AB-7D8894097711,,"Opera Bot. 44: 46 (1978).","","","1978",

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2730890,A,Nyctaginaceae,,Colignonia,,"acutifolia",,"","(Heimerl) Heimerl",Synonym,,M,WCSP (in review),,63108-2,"Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl.","70: 136","","1901",kew-2730899
+kew-2730891,A,Nyctaginaceae,,Colignonia,,"biumbellata",,"","Ball",Synonym,,M,WCSP (in review),,274814-2,"J. Linn. Soc., Bot.","22: 54","","1885",kew-2730901
+kew-2730892,A,Nyctaginaceae,,Colignonia,,"glomerata",,"","Griseb.",Accepted,,M,WCSP (in review),,604445-1,"Abh. Königl. Ges. Wiss. Göttingen","19: 87","","1874",
+kew-2730893,A,Nyctaginaceae,,Colignonia,,"glomerata",var.,"acutifolia","Heimerl",Synonym,,L,WCSP (in review),,274815-2,"Diagn. Pl. Nov. Peruv.","?","","1894",kew-2730899
+tro-22500770,A,Nyctaginaceae,,Colignonia,,"glomerata",var.,"glomerata","",Synonym,,L,TRO,22500770,,"","","","",kew-2730892
+kew-2730896,A,Nyctaginaceae,,Colignonia,,"microphylla",,"","Heimerl",Synonym,,M,WCSP (in review),,63112-2,"Bot. Jahrb. Syst.","54(117): 36","","1916",kew-2730897
+tro-22500050,A,Nyctaginaceae,,Colignonia,,"myriantha",,"","Heimerl",Unresolved,,L,TRO,22500050,,"","","","",
+kew-2730897,A,Nyctaginaceae,,Colignonia,,"ovalifolia",,"","Heimerl",Accepted,,M,WCSP (in review),,274816-2,"Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl.","70: 132","","1901",
+kew-2730898,A,Nyctaginaceae,,Colignonia,,"parviflora",,"","(Kunth) Choisy",Accepted,,M,WCSP (in review),,,"Prodr.","13(2): 439","","1849",
+kew-2730899,A,Nyctaginaceae,,Colignonia,,"parviflora",var.,"acutifolia","(Heimerl) J.E.Bohlin",Accepted,,L,WCSP (in review),,954467-1,"Nordic J. Bot.","8: 245","","1988",
+kew-2730900,A,Nyctaginaceae,,Colignonia,,"parviflora",var.,"biumbellata","(Ball) J.E.Bohlin",Synonym,,L,WCSP (in review),,954464-1,"Nordic J. Bot.","8: 244","","1988",kew-2730901
+kew-2730901,A,Nyctaginaceae,,Colignonia,,"parviflora",subsp.,"biumbellata","(Ball) J.E.Bohlin",Accepted,,L,WCSP (in review),,954463-1,"Nordic J. Bot.","8: 244","","1988",
+tro-22500768,A,Nyctaginaceae,,Colignonia,,"parviflora",subsp.,"parviflora","",Synonym,,L,TRO,22500768,,"","","","",kew-2730898
+kew-2730902,A,Nyctaginaceae,,Colignonia,,"pentoptera",,"","J.E.Bohlin",Accepted,,M,WCSP (in review),,274819-2,"Nordic J. Bot.","8: 247","","1988",
+kew-2730903,A,Nyctaginaceae,,Colignonia,,"pubigera",,"","Heimerl",Synonym,,M,WCSP (in review),,63114-2,"Bot. Jahrb. Syst.","42: 79","","1908",kew-2730901
+tro-22500053,A,Nyctaginaceae,,Colignonia,,"pubigers",,"","Heimerl",Unresolved,,L,TRO,22500053,,"","","","",
+kew-2730904,A,Nyctaginaceae,,Colignonia,,"rufopilosa",,"","Kuntze",Accepted,,M,WCSP (in review),,63115-2,"Revis. Gen. Pl.","3(2): 264","","1898",
+kew-2730905,A,Nyctaginaceae,,Colignonia,,"scandens",,"","Benth.",Accepted,,M,WCSP (in review),,604451-1,"Pl. Hartw.","148","","1845",
+kew-2730906,A,Nyctaginaceae,,Colignonia,,"weberbaueri",,"","Heimerl",Synonym,,M,WCSP (in review),,63116-2,"Bot. Jahrb. Syst.","42: 78","","1908",kew-2730901

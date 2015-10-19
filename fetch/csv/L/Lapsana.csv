@@ -1,0 +1,71 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-141562,A,Compositae,,Lapsana,,"adenophora",,"","Boiss.",Synonym,,M,TICA,9677ABB9-DB4F-42A2-8C90-F7ABA6CC536E,,"","","23","1844",gcc-44423
+gcc-92675,A,Compositae,,Lapsana,,"aipetriensis",,"","Vassilcz.",Synonym,,M,TICA,3ECF1E6D-52D0-42DF-A870-891DB0F29F59,228724-1,"","","727","1964",gcc-38592
+gcc-107188,A,Compositae,,Lapsana,,"alpina",,"","Boiss. & Balansa",Synonym,,M,TICA,1013911C-FD2B-4347-89C1-A984AC3DF595,,"","","117","1859",gcc-69458
+gcc-109474,A,Compositae,,Lapsana,,"apogonoides",,"","Maxim.",Synonym,,M,TICA,4FCBA07C-C8DF-480F-8C61-AEBD860625D4,228726-1,"","","288","1873",gcc-45681
+gcc-105863,A,Compositae,,Lapsana,,"cancellata",,"","Borbás",Synonym,,M,TICA,6893C97A-E47C-44E8-AF0C-A682362D06AC,228727-1,"","","69","1893",gcc-43300
+gcc-148663,A,Compositae,,Lapsana,,"cancellata",var.,"adenoclados","Borbás",Synonym,,L,TICA,4E227357-A1AA-4306-8A8E-47C5CF011539,,"V. von Borbás in Oesterr. Bot. Z. 43. 1893","","69","1893",gcc-38592
+gcc-156135,A,Compositae,,Lapsana,,"cancellata",var.,"cancellata","",Synonym,,L,TICA,73E8B8E3-D9D8-433A-9D55-E7107FCE642B,,"","","","",gcc-43300
+gcc-137831,A,Compositae,,Lapsana,,"capillaris",,"","L.",Synonym,,M,TICA,B0DBBE4F-4D6B-4D0F-82CE-EF4B9B8EAFFF,228728-1,"","","812","1753",gcc-129626
+gcc-18681,A,Compositae,,Lapsana,,"cappadocica",,"","Bornm.",Synonym,,M,TICA,3BCB30B7-5467-4627-B798-22820FF7E9DD,228729-1,"Repert. Spec. Nov. Regni Veg. Beih. 89: 392","","392","1944",gcc-43300
+gcc-4996,A,Compositae,,Lapsana,,"cassia",,"","Boiss.",Synonym,,M,TICA,9CB6DD2C-648B-416C-8D7C-095088DC8C82,,"","","33","1849",gcc-68463
+gcc-23682,A,Compositae,,Lapsana,,"chondrilloides",,"","L.",Accepted,,M,TICA,322DE64B-D4F8-449B-AEFB-2BC7F81944EC,228731-1,"Sp. Pl. 812.","","812","1753",
+gcc-43300,A,Compositae,,Lapsana,,"communis",,"","L.",Accepted,,M,TICA,98D19250-9F0A-4D1C-923D-503A90B7AB34,228732-1,"","","811","1753",
+gcc-44423,A,Compositae,,Lapsana,,"communis",subsp.,"adenophora","(Boiss.) Rech.f.",Accepted,,L,TICA,89E20BE4-8A89-45CA-AFF2-524F9C155225,,"""Rech. f. in Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr. 105(1). 1944.""","","673","1944",
+gcc-69458,A,Compositae,,Lapsana,,"communis",subsp.,"alpina","(Boiss. & Balansa) P.D.Sell",Accepted,,L,TICA,B23FAF06-DC05-4439-9B01-E68D6E5E7FF2,877549-1,"","","432","1975",
+gcc-60339,A,Compositae,,Lapsana,,"communis",subsp.,"communis","",Synonym,,L,TICA,26AB39A1-BC03-4586-9B8F-9D960A393199,,"","","811","1753",gcc-43300
+gcc-1823,A,Compositae,,Lapsana,,"communis",subsp.,"grandiflora","(M.Bieb.) P.D.Sell",Accepted,,L,TICA,A0C7A30B-4FC3-415D-86F4-0347E8152B2B,877550-1,"","","432","1975",
+gcc-38592,A,Compositae,,Lapsana,,"communis",subsp.,"intermedia","(M.Bieb.) Hayek",Accepted,,L,TICA,3837284C-3499-4CEA-A3FD-479DCE18D43A,,"","","803","1931",
+gcc-21827,A,Compositae,,Lapsana,,"communis",subsp.,"macrocarpa","(Coss.) Nyman",Accepted,,L,TICA,FF4B42E2-E637-4B48-B9A8-28623C6E3F63,,"""Nyman, Consp. Fl. Eur. 1879.""","","474","1879",
+gcc-64747,A,Compositae,,Lapsana,,"communis",subsp.,"pinnatisecta","(Sommier & Levier) Greuter",Accepted,,L,TICA,738266F7-C150-4045-83B9-C0DE518E99A8,77075599-1,"","","2006","2006",
+gcc-68463,A,Compositae,,Lapsana,,"communis",subsp.,"pisidica","(Boiss. & Heldr.) Rech.f.",Accepted,,L,TICA,D5A495F4-DAC4-4660-8E84-DF0E54C8F5FA,,"""Rech. f. in Akad. Wiss. Wien. Math.-Naturwiss. Kl., Denkschr. 105(1). 1944.""","","674","1944",
+gcc-40934,A,Compositae,,Lapsana,,"communis",subsp.,"pubescens","(Hornem.) Arcang.",Synonym,,L,TICA,93E1C935-78FE-4444-99EE-4BD8841E858B,,"Arcang.. 1882.","","411","1882",gcc-43300
+gcc-54545,A,Compositae,,Lapsana,,"communis",subsp.,"ramosissima","(Boiss.) Rech.f.",Synonym,,L,TICA,C01CE2AC-ECF5-442A-9FBB-6EEEDAF43A0C,,"""Rech. f. in Akad. Wiss. Wien. Math.-Naturwiss. Kl., Denkschr. 105(1). 1944.""","","674","1944",gcc-68463
+gcc-44230,A,Compositae,,Lapsana,,"crassifolia",,"","Vahl ex DC.",Accepted,,M,TICA,7144C39A-57EE-4D6B-AAB2-51E393B7DA98,228733-1,"Prodr. (DC.) 7(1): 73","","73","1838",
+gcc-127947,A,Compositae,,Lapsana,,"crispa",,"","Willd.",Synonym,,M,TICA,45EBDD25-E1B0-40F6-90B0-D8E11FD83EA2,,"Sp. Pl. iii. 1624.","","","1804",gcc-43300
+gcc-131156,A,Compositae,,Lapsana,,"erysimifolia",,"","(Willd.) Thell.",Synonym,,L,TICA,5A54616C-91FF-4A5A-85E8-E03B69B1D5D3,,"""Vierteljahrsschr. Naturf. Ges. Zürich lvi. 290 (1911), in adnot.""","","","1911",gcc-116089
+gcc-120828,A,Compositae,,Lapsana,,"foetida",,"","F.W.Schmidt",Unresolved,,L,TICA,DC0F828B-96AE-4B1C-8B54-C86A631E5A47,228736-1,"Samml. Phys. Aufs. i. (1795) 264.","","i.  264","1795",
+gcc-128137,A,Compositae,,Lapsana,,"foetida",,"","(L.) Scop.",Synonym,,M,TICA,B49E8F12-FAC1-4E6D-876D-D952FEFDA42B,228737-1,"""Fl. Carniol., ed. 2. 2: 118""","","118","1772",gcc-10458
+gcc-107996,A,Compositae,,Lapsana,,"freynii",,"","Borbás",Unresolved,,L,TICA,0BBECF63-D0DD-4BCC-937D-AB5DF83D7058,228738-1,"Oesterr. Bot. Z. 43: 69","","69","1893",
+gcc-131583,A,Compositae,,Lapsana,,"glandulifera",,"","Cass.",Synonym,,M,TICA,B7896E33-0C4A-403A-9D5B-E13C3DCD30A3,,"in Dict. Sc. Nat. xxv. 211.","","","1822",gcc-1823
+gcc-143330,A,Compositae,,Lapsana,,"glandulosa",,"","Freyn & Sint.",Unresolved,,L,TICA,AB999C89-CDDF-4E51-9770-FBA0E8D6F7DE,228740-1,"Oesterr. Bot. Z. 42: 266","","266","1892",
+gcc-3150,A,Compositae,,Lapsana,,"glandulosa",,"","(Freyn) Klokov",Synonym,,M,TICA,92346B0E-4F92-4A96-A2B5-05D1D81D9239,,"""Klokov, Viznačn. Rostlin URSR. 1950.""","","583","1950",gcc-43300
+gcc-22057,A,Compositae,,Lapsana,,"gracilis",,"","Lam.",Synonym,Illegitimate,M,TICA,E14C2B48-E0A5-4D0E-A01E-28CB705BE38B,,"Fl. Fr. ii. 102.","","","1779",gcc-127841
+gcc-76879,A,Compositae,,Lapsana,,"grandiflora",,"","M.Bieb.",Synonym,,M,TICA,FE631973-2BF2-4896-A750-659FBCBA6B08,228742-1,"","","261","1808",gcc-1823
+gcc-146446,A,Compositae,,Lapsana,,"grandiflora",var.,"grandiflora","",Synonym,,L,TICA,F9467202-8503-489C-8F6B-1878A88FA812,,"","","","",gcc-1823
+gcc-147876,A,Compositae,,Lapsana,,"grandiflora",f.,"grandiflora","",Synonym,,L,TICA,81C18E72-50EF-43F3-8057-3733936AC921,,"","","","",gcc-1823
+gcc-145316,A,Compositae,,Lapsana,,"grandiflora",var.,"intermedia","(M.Bieb.) Schmalh.",Synonym,,L,TICA,3DE44F31-2E3D-41BA-841D-01A8AFC5CF4D,,"""J.T. Schmalhausen, Fl. Ssredn. Jushn. Rossii 2. 1897""","","133","1897",gcc-38592
+gcc-94954,A,Compositae,,Lapsana,,"grandiflora",f.,"pinnatisecta","Sommier & Levier",Synonym,,L,TICA,589AFE57-FFF0-4719-B20A-8E32288BEEE1,77075598-1,"","","289","1900",gcc-64747
+gcc-88659,A,Compositae,,Lapsana,,"humilis",,"","(Thunb.) Makino",Synonym,,M,TICA,BEDDD1DD-8A34-417E-977F-7FED44618FB5,,"","","87","1903",gcc-32763
+gcc-75599,A,Compositae,,Lapsana,,"intermedia",,"","M.Bieb.",Synonym,,M,TICA,E77D3E9A-DDF5-47E8-9FC7-62CB0A2B73D4,228744-1,"","","540","1819",gcc-38592
+gcc-96332,A,Compositae,,Lapsana,,"japonica",,"","Burm.f.",Synonym,,M,TICA,79540E5C-5DEE-4DF6-A372-915095F7F7D1,228745-1,"Fl. Ind. 174.","","174","1768",gcc-1072
+gcc-127100,A,Compositae,,Lapsana,,"koelpinia",,"","L.f.",Synonym,,M,TICA,03D393D8-A649-4214-857A-D6D63AD0F192,,"","","348","1782",gcc-401
+gcc-136794,A,Compositae,,Lapsana,,"lampsanaefolia",,"","Mill.",Accepted,,M,TICA,CA27D7EF-B273-4388-8925-ED0A53D47094,228747-1,"""Gard. Dict., ed. 8. n. 3""","","3","1768",
+gcc-95758,A,Compositae,,Lapsana,,"leontodontoides",,"","Scop. ex DC.",Synonym,Invalid,M,TICA,64ACD065-6E25-45B2-B75A-9017EB4A6798,228748-1,"Prodr. (DC.) 7(1): 82","","82","1838",gcc-10458
+gcc-99589,A,Compositae,,Lapsana,,"lyrata",,"","Willd.",Synonym,,M,TICA,83D531ED-E803-4D24-8FCF-98B24D6FCB35,228749-1,"Enum. Hort. Berol. 832.","","832","1809",gcc-1823
+gcc-88359,A,Compositae,,Lapsana,,"macrocarpa",,"","Coss.",Synonym,,M,TICA,DD9AA8AE-95DE-4719-B361-7F424B5617AC,228750-1,"","","173","1862",gcc-21827
+gcc-144070,A,Compositae,,Lapsana,,"minima",,"","(L.) All.",Synonym,,M,TICA,165582FC-9E95-4363-8E78-FD4AFAB2A0B6,228751-1,"Fl. Pedem. i. 206","","206","1785",gcc-127841
+gcc-6246,A,Compositae,,Lapsana,,"musashiensis",,"","Hiyama",Synonym,,M,TICA,A0B5BD5A-BE16-4158-B1CF-0BA313958446,228752-1,"J. Jap. Bot. xxvi. 224 (1951).","","224","1951",gcc-32763
+gcc-145355,A,Compositae,,Lapsana,,"olympica",,"","Candargy",Synonym,,M,TICA,81BF9027-247E-4AEC-BC69-027428E7D0C9,228753-1,"Candargy in Bull. Soc. Bot. France 44. 1897","","147","1897",gcc-43300
+gcc-127852,A,Compositae,,Lapsana,,"parviflora",,"","A.Gray",Synonym,,M,TICA,F1E81826-71C7-40E8-A495-D8AC66DDF85D,,"""Mem. Amer. Acad. Arts n.s., vi. (1858-59) 396.""","","396","1858",gcc-32763
+gcc-20852,A,Compositae,,Lapsana,,"peduncularis",,"","Boiss.",Synonym,,M,TICA,06758483-2DD1-4648-864E-268E4A64C622,228755-1,"","","720","1875",gcc-68463
+gcc-18780,A,Compositae,,Lapsana,,"pinnatisecta",,"","(Sommier & Levier) Ter-Chatsch.",Synonym,,M,TICA,D1A6BE4E-1F71-41A2-9F8F-22ACF287B8D7,228756-1,"","","77","1949",gcc-64747
+gcc-133924,A,Compositae,,Lapsana,,"pisidica",,"","Boiss. & Heldr.",Synonym,,M,TICA,B1043DFF-D746-4984-AB2F-E6A1B6D33C69,,"","","33","1849",gcc-68463
+gcc-14637,A,Compositae,,Lapsana,,"pubescens",,"","Hornem.",Synonym,,M,TICA,8D064C1F-36E3-4EF9-AB19-1B27CB5ADC3C,228758-1,"","","91","1819",gcc-43300
+gcc-21387,A,Compositae,,Lapsana,,"pulchra",,"","(L.) Vill.",Synonym,,M,TICA,784DB33A-DD4E-4479-953D-278531EAFD0B,,"Hist. Pl. Dauphiné (Villars) 3(1): 163","","163","",gcc-8198
+gcc-120227,A,Compositae,,Lapsana,,"pusilla",,"","Willd.",Synonym,Illegitimate,M,TICA,D4285118-A645-429A-BBB2-C70366D3DA4B,,"","","","",gcc-127841
+gcc-18258,A,Compositae,,Lapsana,,"ramosissima",,"","Boiss.",Synonym,,M,TICA,9E1CB825-737A-4C16-9088-21BF1313899F,,"","","34","1849",gcc-68463
+gcc-98738,A,Compositae,,Lapsana,,"ramosissima",,"","Crantz",Unresolved,,L,TICA,7B0EEC32-3712-445E-923A-96C484EE59AD,228761-1,"Inst.","","i. 236","1766",
+gcc-82479,A,Compositae,,Lapsana,,"rhagadiolus",,"","L.",Synonym,,M,TICA,07811E27-37A3-4A5D-A2B0-722CCD26D9B4,228763-1,"","","812","1753",gcc-118872
+gcc-144424,A,Compositae,,Lapsana,,"silvatica",,"","Nyman",Unresolved,,L,TICA,030F5735-1473-4D9F-B92B-FE0E2FA8FDB6,,"Consp. 474.","","474","",
+gcc-88369,A,Compositae,,Lapsana,,"sonchifolia",,"","Gilib.",Synonym,Invalid,M,TICA,2B468379-54D9-4F06-84E3-7F47E915D5F9,,"Fl. Lit. Inch. i. 243. 1782","","","1782",gcc-43300
+gcc-117220,A,Compositae,,Lapsana,,"stellata",,"","L.",Synonym,,M,TICA,6D4F3BEE-B8A9-4805-8C76-C026750489E3,228766-1,"","","811","1753",gcc-115088
+gcc-119392,A,Compositae,,Lapsana,,"sylvatica",,"","Wallr.",Synonym,,M,TICA,C59E03FC-C20A-4C2C-A30B-C515BDF0CC19,,"Erst. Beitr. Fl. Hercyn. ii. 125; ex Sch. Bip. in Webb & Berth. Phyt. Canar. ii. 420","","420","1844",gcc-43300
+gcc-14111,A,Compositae,,Lapsana,,"takasei",,"","(Sasaki) Kitam.",Synonym,,M,TICA,71280D74-6077-4DFE-8E1C-1A2A7A4A8BE2,228768-1,"""Acta Phytotax. Geobot. 1934, iii. 100""","","100","1934",gcc-42048
+gcc-30539,A,Compositae,,Lapsana,,"taraxacoides",,"","Forssk.",Accepted,,M,TICA,EF7EB3AC-94CF-4C91-BD13-3886EC830856,228769-1,"Fl. Aegypt.-Arab. 145","","145","1775",
+gcc-137122,A,Compositae,,Lapsana,,"taraxaconoides",,"","J.F.Gmel.",Accepted,,M,TICA,C833DAA9-1666-4DD0-BB7D-EDC3FB135ABF,228770-1,"""Syst. Nat., ed. 13[bis]. 2(2): 1571""","","1571","1792",
+gcc-17693,A,Compositae,,Lapsana,,"uncinata",,"","Stebbins",Synonym,,M,TICA,6B5ABC5D-38BC-43D1-9FF7-20A735270E06,228771-1,"Madroño iv. 154 (1938).","","154","1938",gcc-100805
+gcc-104852,A,Compositae,,Lapsana,,"virgata",,"","Desf.",Synonym,Illegitimate,M,TICA,1C318D9F-2F26-451D-85F5-A459CD1D0331,,"Fl. Atlant. ii. 235.","","","",gcc-93918
+gcc-52692,A,Compositae,,Lapsana,,"vulgaris",,"","gromow ex Trautv.",Unresolved,,L,TICA,4F2E6309-49B6-4537-9E69-61AC86EC6C6A,,"""Act. Hort. Petrop. viii. (1883) 513, nomen""","","513","",
+gcc-36404,A,Compositae,,Lapsana,,"zacintha",,"","L.",Synonym,,L,TICA,81217D07-0610-43EF-B960-4386FDD1E612,228774-1,"","","811","1753",gcc-125940
+gcc-83312,A,Compositae,,Lapsana,,"zazyntha",,"","Steud.",Unresolved,,L,TICA,FF5A5769-5F8A-4BE3-868B-740029A6A63F,228775-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 9""","","9","1840",

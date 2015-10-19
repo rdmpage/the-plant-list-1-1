@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117367,A,Compositae,,Gymnocoronis,,"attenuata",,"","DC.",Synonym,,M,TICA,00B821C2-9871-4067-8C04-C08427FEC878,210928-1,"","","106","1836",gcc-39812
+gcc-49307,A,Compositae,,Gymnocoronis,,"latifolia",,"","Hook. & Arn.",Accepted,,M,TICA,54442885-D616-4FF1-BB75-5B5336A3693E,210929-1,"","","296","1838",
+gcc-85903,A,Compositae,,Gymnocoronis,,"matudae",,"","R.M.King & H.Rob.",Accepted,,M,TICA,E1AB3CDA-A9CF-458E-B9F6-79BC10418F6F,115532-2,"Phytologia 29","","10","1974",
+gcc-42434,A,Compositae,,Gymnocoronis,,"nutans",,"","(Greenm.) R.M.King & H.Rob.",Accepted,,M,TICA,D0DEC648-8769-4386-A75C-4E981A3B7BB0,115533-2,"Phytologia 29","","10","1974",
+gcc-123550,A,Compositae,,Gymnocoronis,,"sessilis",,"","S.F.Blake",Accepted,,M,TICA,4E9BAF03-452F-4049-B183-CE9858A35955,115534-2,"Proc. Biol. Soc. Wash. 36","","179","1923",
+gcc-39812,A,Compositae,,Gymnocoronis,,"spilanthoides",,"","(D.Don ex Hook. & Arn.) DC.",Accepted,,M,TICA,528DFBC5-6A35-455A-91C6-49DDD10AC21A,210933-1,"Prodr. 7: 266 (1838)","","266","1838",
+gcc-70262,A,Compositae,,Gymnocoronis,,"spilanthoides",var.,"attenuata","(DC.) Baker",Synonym,,L,TICA,F8571C19-C1E6-4315-88C7-ECB48FC8904D,115535-2,"","","183","1876",gcc-39812
+gcc-71034,A,Compositae,,Gymnocoronis,,"spilanthoides",var.,"spilanthoides","",Synonym,,L,TICA,0E7FD7AA-A391-4F2B-8BF1-F2E6AE0142FC,,"Prodr. 7: 266 (1838)","","266","1838",gcc-39812
+gcc-114159,A,Compositae,,Gymnocoronis,,"subcordata",,"","DC.",Synonym,,M,TICA,553EC6E9-890D-4043-BA73-B933DC96126F,210934-1,"","","106","1836",gcc-39812

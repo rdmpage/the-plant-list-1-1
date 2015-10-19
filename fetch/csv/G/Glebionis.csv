@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-50210,A,Compositae,,Glebionis,,"carinata",,"","(Schousb.) Tzvelev",Synonym,,M,TICA,885A705F-97BD-423A-9A7B-5D176DC52EED,1013479-1,"","","117","1999",gcc-128854
+gcc-28875,A,Compositae,,Glebionis,,"coronaria",,"","(L.) Cass. ex Spach",Accepted,,M,TICA,AFAB9221-9377-4718-8946-3562FE36E789,1031193-2,"Hist. Nat. Veg. (Spach) 10: 181. 1841","","181","1841",
+gcc-78041,A,Compositae,,Glebionis,,"coronaria",,"","(L.) Tzvelev",Synonym,,M,TICA,0949C5C9-B997-4B51-9389-6835374573F0,1013480-1,"","","117","1999",gcc-28875
+gcc-152614,A,Compositae,,Glebionis,,"coronaria",var.,"coronaria","",Synonym,,L,TICA,55E44281-9974-4102-BEC2-9D365BCFF8DB,,"","","","",gcc-28875
+gcc-4765,A,Compositae,,Glebionis,,"coronaria",var.,"discolor","(d'Urv.) Turland",Synonym,,L,TICA,7DE4F2F1-971F-40F6-A6D1-08DFFEF40F0E,77063314-1,"Taxon 53(4):","","1073","2004",gcc-28875
+gcc-120803,A,Compositae,,Glebionis,,"roxburghii",,"","Cass.",Unresolved,Invalid,L,TICA,E3DA3664-F0C0-455D-8695-C85EA8328198,209006-1,"Dict. Sci. Nat. 41: 41 (1826)","","41","1826",
+gcc-91679,A,Compositae,,Glebionis,,"roxburghii",,"","(Desf. ex Cass.) Tzvelev",Synonym,Illegitimate,M,TICA,A0433883-D42E-4438-9AE4-86E2AA643925,1013481-1,"","","117","1999",gcc-28875
+gcc-47672,A,Compositae,,Glebionis,,"segetum",,"","(L.) Fourr.",Accepted,,M,TICA,7CC81B20-7234-49BF-BC28-58560F513498,,"","","90","1869",

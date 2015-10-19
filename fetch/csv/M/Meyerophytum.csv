@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2364838,A,Aizoaceae,,Meyerophytum,,"globosum",,"","(L.Bolus) Ihlenf.",Unresolved,,L,WCSP (in review),,20004203-1,"Illustr. Handb. Succ. Pl.: Aizoaceae","F-Z: 170","","2002 publ. 2001",
+tro-702680,A,Aizoaceae,,Meyerophytum,,"meyeri",,"","(Schwantes) Schwantes",Accepted,,M,TRO,702680,363638-1,"Möller's Deutsche Gärtn.-Zeitung","42: 437","437","1927",
+tro-702683,A,Aizoaceae,,Meyerophytum,,"meyeri",var.,"meyeri","",Synonym,,L,TRO,702683,,"","","","",tro-702680
+tro-701603,A,Aizoaceae,,Meyerophytum,,"microstigma",,"","L. Bolus",Synonym,,M,TRO,701603,,"","","","",kew-2766945
+tro-701604,A,Aizoaceae,,Meyerophytum,,"primosii",,"","L. Bolus",Synonym,,M,TRO,701604,,"","","","",kew-2766945
+tro-702685,A,Aizoaceae,,Meyerophytum,,"tinctum",,"","Schwantes",Synonym,,M,TRO,702685,,"","","","",tro-702680

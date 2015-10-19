@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-21000007,A,Mitrastemonaceae,,Mitrastemon,,"cochinchinensis",,"","Nakai",Synonym,,M,TRO,21000007,581715-1,"Iconogr. Pl. As. Orient.","4(1): 306, pl. 104","306","1941",tro-21000002
+tro-21000001,A,Mitrastemonaceae,,Mitrastemon,,"kanehirai",,"","Yamam.",Synonym,,M,TRO,21000001,,"Bot. Mag. (Tokyo)","39(461): 142–145, f. 1–15","142","1925",tro-21000006
+tro-21000003,A,Mitrastemonaceae,,Mitrastemon,,"kawasasakii",,"","Hayata",Synonym,,M,TRO,21000003,581717-1,"Bot. Mag. (Tokyo)","26(304): 112–113","112","1912",tro-21000002
+kew-2509065,A,Mitrastemonaceae,,Mitrastemon,,"matudae",,"","Yamam.",Accepted,,M,WCSP (in review),,162902-2,"Bot. Mag. (Tokyo)","50: 539","","1936",
+tro-50255692,A,Mitrastemonaceae,,Mitrastemon,,"sumatranus",,"","Nakai",Synonym,,M,TRO,50255692,,"","","","",tro-21000002
+tro-21000002,A,Mitrastemonaceae,,Mitrastemon,,"yamamotoi",,"","Makino",Accepted,,M,TRO,21000002,707069-1,"Bot. Mag. (Tokyo)","23: 326","326","1909",
+tro-21000006,A,Mitrastemonaceae,,Mitrastemon,,"yamamotoi",var.,"kanehirai","(Yamam.) Makino",Accepted,,L,TRO,21000006,,"J. Jap. Bot.","5(4): 18","18","1928",
+tro-21000005,A,Mitrastemonaceae,,Mitrastemon,,"yamamotoi",f.,"kawasasakii","(Hayata) Makino",Synonym,,L,TRO,21000005,,"Bot. Mag. (Tokyo)","28(325): 20","20","1914",tro-21000002
+tro-50253260,A,Mitrastemonaceae,,Mitrastemon,,"yamamotoi",var.,"kawasasakii","(Hayata) Makino",Synonym,,L,TRO,50253260,,"","","","",tro-21000002
+tro-21000004,A,Mitrastemonaceae,,Mitrastemon,,"yamamotoi",var.,"yamamotoi","",Synonym,,L,TRO,21000004,,"","","","",tro-21000002

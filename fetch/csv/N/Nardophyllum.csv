@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17063,A,Compositae,,Nardophyllum,,"armatum",,"","(Wedd.) Reiche",Accepted,,M,TICA,159E920D-8FF7-4205-8BDB-1F8E0D620EBB,167108-2,"Anales Univ. Chile 109: 29. 1901 ; Fl. Chile 3: 279. 1902.","","29","1901",
+gcc-42297,A,Compositae,,Nardophyllum,,"bracteolatum",,"","Hauman",Synonym,,M,TICA,C8BFDCB2-3FD6-49FB-B85D-4E5C5B5079BF,167109-2,"","","324","1918",gcc-95890
+gcc-138651,A,Compositae,,Nardophyllum,,"bryoides",,"","(Lam.) Cabrera",Accepted,,M,TICA,0DC37DF0-04B7-49E5-AA8A-F10DBCDDC1FE,167110-2,"","","61","1954",
+gcc-95632,A,Compositae,,Nardophyllum,,"cabrerae",,"","Bonif.",Accepted,,M,TICA,7FEAEC01-371B-4DD8-B73B-8FCCE2D2B73B,,"Taxon 54(3): 688 (-690; figs. 1-3). 2005","","688-699","2005",
+gcc-101658,A,Compositae,,Nardophyllum,,"candollei",,"","F.Meigen",Synonym,Illegitimate,M,TICA,AEF4E80D-433E-40F9-BEB9-9D41D95CC1D9,234104-1,"","","432","1894",gcc-8551
+gcc-95890,A,Compositae,,Nardophyllum,,"chiliotrichoides",,"","A.Gray",Accepted,,M,TICA,AAEB6D1B-3402-4A8B-8F65-905F842E9DAA,,"Proc. Amer. Acad. Arts v. (1862) 123.","","123","",
+gcc-18485,A,Compositae,,Nardophyllum,,"darwinii",,"","(Hook.f.) A.Gray",Synonym,,M,TICA,7376A583-DF9A-4871-8A08-2221CA36A2CF,234106-1,"Proc. Amer. Acad. Arts v. (1862) 123","","123","1862",gcc-138651
+gcc-90128,A,Compositae,,Nardophyllum,,"deserticola",,"","(Cabrera) G.L.Nesom",Synonym,,M,TICA,B3BDB95A-BA1F-4478-A780-83437C42F204,,"","","362","",gcc-87603
+gcc-20564,A,Compositae,,Nardophyllum,,"genistoides",,"","(Phil.) A.Gray",Accepted,,M,TICA,3D2B1C68-6866-4938-834E-260EFD9CC5E9,234107-1,"Proc. Amer. Acad. Arts viii. (1873) 636.","","636","1873",
+gcc-139815,A,Compositae,,Nardophyllum,,"humile",,"","(Hook.f.) A.Gray",Synonym,,M,TICA,93BB1E55-E1A1-47C6-994F-F38EBC09F73A,234108-1,"Proc. Amer. Acad. Arts v. (1862) 123.","","123","1862",gcc-138651
+gcc-89487,A,Compositae,,Nardophyllum,,"kingii",,"","(Hook.f.) A.Gray",Synonym,,M,TICA,DEA86A34-F088-458A-96B1-81CF804A7730,234109-1,"Proc. Amer. Acad. Arts v. (1862) 123","","123","1862",gcc-9873
+gcc-8551,A,Compositae,,Nardophyllum,,"lanatum",,"","(Meyen) Cabrera",Accepted,,M,TICA,78A092CA-1AF8-4345-992B-0FF5DC75C5B8,167112-2,"","","63","1954",
+gcc-5995,A,Compositae,,Nardophyllum,,"nardophyllum",,"","(Kuntze) Macloskie",Synonym,Illegitimate,M,TICA,052619AC-1130-4DCB-BD72-0B295AA4E3AA,167113-2,"","","784","1905",gcc-9873
+gcc-9873,A,Compositae,,Nardophyllum,,"obtusifolium",,"","Hook. & Arn.",Accepted,,M,TICA,E02C42D6-9771-4DDA-8F69-126E4892228D,,"in Hook. Comp. Bot. Mag. ii. (1836) 144.","","44","1836",
+gcc-132503,A,Compositae,,Nardophyllum,,"paniculatum",,"","Phil.",Synonym,,M,TICA,1977B43D-1B7E-496B-9F42-E36653379930,,"","","","1894",gcc-77416
+gcc-44352,A,Compositae,,Nardophyllum,,"parvifolium",,"","Phil.",Synonym,,M,TICA,EE096699-2E95-4401-BC2A-5226F9B2F377,167114-2,"","","434","1894",gcc-9873
+gcc-16700,A,Compositae,,Nardophyllum,,"patagonicum",,"","(Cabrera) G.L.Nesom",Synonym,,M,TICA,BA723A35-AA8A-4E2A-847B-1EE1EEFFBDEB,,"Phytologia 75(5): 362 (1993 publ. 1994):.","","362","",gcc-92596
+gcc-100542,A,Compositae,,Nardophyllum,,"revolutum",,"","(D.Don ex Hook. & Arn.) Hook. & Arn.",Synonym,,M,TICA,F16020C6-4AE9-4E72-85BE-9AD7B879EE0F,,"in Hook. Comp. Bot. Mag. ii. (1836) 144.","","44","1836",gcc-8551
+gcc-112472,A,Compositae,,Nardophyllum,,"scoparium",,"","Phil.",Synonym,,M,TICA,A0A099B7-A53C-4E81-A1D1-B586DCE5B235,167115-2,"","","434","1894",gcc-138496
+gcc-133454,A,Compositae,,Nardophyllum,,"staehelinoides",,"","(DC.) Macloskie",Synonym,,M,TICA,897D56D7-480F-47B0-8F96-E5879B3BAA24,167116-2,"in Rep. Princeton Univ. Exped. Patag. viii. 784.","","784","1905",gcc-8551

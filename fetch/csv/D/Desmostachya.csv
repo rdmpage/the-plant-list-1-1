@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-407869,A,Poaceae,,Desmostachya,,"bipinnata",,"","(L.) Stapf",Accepted,,H,WCSP,407869,398084-1,"Fl. Cap.","7: 632","","1900",
+kew-407870,A,Poaceae,,Desmostachya,,"cynosuroides",,"","(Retz.) Stapf ex Massey",Synonym,,H,WCSP,407870,,"Publ. Dept. Agric. For., Bot. Ser.","1: 43","","1926",kew-407869
+tro-25559490,A,Poaceae,,Desmostachya,,"cynosuroides",,"","(Retz.) Haines",Synonym,,M,TRO,25559490,,"","","","",kew-407869
+kew-457127,A,Poaceae,,Desmostachya,,"pingalaiae",,"","Raole & R.J.Desai",Synonym,,H,WCSP,457127,,"Nordic J. Bot.","26: 196","","2008",kew-407869

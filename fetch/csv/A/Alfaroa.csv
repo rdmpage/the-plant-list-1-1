@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2628324,A,Juglandaceae,,Alfaroa,,"colombiana",,"","Lazano, J.Hern. & Espinal",Accepted,,M,WCSP (in review),,,"Mutisia","49: 2","","1981",
+kew-2628325,A,Juglandaceae,,Alfaroa,,"costaricensis",,"","Standl.",Accepted,,M,WCSP (in review),,8330-2,"J. Wash. Acad. Sci.","17: 78","","1927",
+tro-50218891,A,Juglandaceae,,Alfaroa,,"costaricensis",subsp.,"costaricensis","",Synonym,,L,TRO,50218891,,"","","","",kew-2628325
+kew-2628326,A,Juglandaceae,,Alfaroa,,"costaricensis",var.,"elongata","W.E.Manning",Synonym,,L,WCSP (in review),,8331-2,"Bull. Torrey Bot. Club","76: 203","","1949",kew-2628325
+kew-2628327,A,Juglandaceae,,Alfaroa,,"guanacastensis",,"","D.E.Stone",Accepted,,M,WCSP (in review),,442133-1,"Fieldiana, Bot.","40: 40","","1977",
+kew-2628328,A,Juglandaceae,,Alfaroa,,"guatemalensis",,"","(Standl.) L.O.Williams & A.R.Molina",Accepted,,M,WCSP (in review),,8332-2,"Fieldiana, Bot.","32: 208","","1970",
+kew-2628329,A,Juglandaceae,,Alfaroa,,"hondurensis",,"","L.O.Williams ex W.E.Manning",Accepted,,M,WCSP (in review),,,"Bull. Torrey Bot. Club","86: 194","","1959",
+kew-2628330,A,Juglandaceae,,Alfaroa,,"manningii",,"","J.León",Accepted,,M,WCSP (in review),,8334-2,"Ceiba","4: 44","","1953",
+kew-2628331,A,Juglandaceae,,Alfaroa,,"mexicana",,"","D.E.Stone",Accepted,,M,WCSP (in review),,8335-2,"Amer. J. Bot.","60: 477","","1968",
+kew-2628332,A,Juglandaceae,,Alfaroa,,"roxburghiana",,"","(Lindl. ex Wall.) Iljinsk.",Synonym,,M,WCSP (in review),,948126-1,"Bot. Zhurn. (Moscow & Leningrad)","75: 796","","1990",kew-2789177
+kew-2628333,A,Juglandaceae,,Alfaroa,,"williamsii",,"","Ant.Molina",Accepted,,M,WCSP (in review),,8336-2,"Fieldiana, Bot.","31: 357","","1968",
+kew-2628334,A,Juglandaceae,,Alfaroa,,"williamsii",subsp.,"tapantiensis","D.E.Stone",Synonym,,L,WCSP (in review),,883655-1,"Fieldiana, Bot.","40: 44","","1977",kew-2628333
+tro-16700123,A,Juglandaceae,,Alfaroa,,"williamsii",subsp.,"williamsii","",Synonym,,L,TRO,16700123,,"","","","",kew-2628333

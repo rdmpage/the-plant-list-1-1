@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-50039,A,Compositae,,Millotia,,"depauperata",,"","Stapf",Accepted,,M,TICA,8DE0B7AD-DB23-47A8-9538-5CC7BBE903E7,233361-1,"","","22","",
+gcc-121038,A,Compositae,,Millotia,,"dimorpha",,"","P.S.Short",Accepted,,M,TICA,4775FB6F-CBC9-4F41-B081-C8E70506CFF5,,"","","13","1995",
+gcc-129688,A,Compositae,,Millotia,,"eichleri",,"","P.S.Short",Accepted,,M,TICA,08509146-847B-4722-9708-DCD9B6AE6231,,"","","28","1995",
+gcc-134929,A,Compositae,,Millotia,,"falcata",,"","P.S.Short",Accepted,,M,TICA,468F13D2-E207-4D3B-B1EC-E8D01A7A5A46,,"","","19","1995",
+gcc-8633,A,Compositae,,Millotia,,"glabra",,"","Steetz",Synonym,,M,TICA,A7BB7DE0-A4A3-4C7D-A57F-101E59753E86,81206-3,"","","","1845",gcc-33781
+gcc-106251,A,Compositae,,Millotia,,"greevesii",,"","F.Muell.",Accepted,,M,TICA,3EF7DC41-08CC-4308-A6B5-A75C1237ECB3,81237-3,"","","","1862",
+gcc-43747,A,Compositae,,Millotia,,"greevesii",var.,"greevesii","",Synonym,,L,TICA,ADEA0E1A-7E87-4AA1-A48D-5111BCC37D0B,81343-3,"Transactions of the Royal Society of South Australia 87  1963","","87","1963",gcc-106251
+gcc-56432,A,Compositae,,Millotia,,"greevesii",subsp.,"greevesii","",Synonym,,L,TICA,5DE2C2CD-B159-4581-B964-7E7B674480B8,81260-3,"Proceedings of the Royal Society of Queensland 87  1976","","87","1976",gcc-106251
+gcc-48676,A,Compositae,,Millotia,,"greevesii",subsp.,"helmsii","(F.Muell. & Tate) P.S.Short",Accepted,,L,TICA,55E4E9E9-3902-4928-9C04-5A2FC57B69B1,,"","","27","1995",
+gcc-50303,A,Compositae,,Millotia,,"greevesii",subsp.,"kempei","(F.Muell.) Schodde",Synonym,,L,TICA,CC3D9C9E-2A17-4DF7-90DC-5D4966CE61FC,81372-3,"Transactions of the Royal Society of South Australia 87  1963","","87","1963",gcc-106251
+gcc-94824,A,Compositae,,Millotia,,"hispidula",,"","Gand.",Unresolved,,L,TICA,3B266B09-485A-4A71-94DE-8DE9BC5ACF22,233364-1,"","","45","1918",
+gcc-14598,A,Compositae,,Millotia,,"incurva",,"","(D.A.Cooke) P.S.Short",Accepted,,M,TICA,31C0564A-764D-4A1C-8D82-1B16615ADFA8,167752-3,"","","","1990",
+gcc-136115,A,Compositae,,Millotia,,"inopinata",,"","Schodde",Synonym,,M,TICA,ABA3C793-2D63-47AE-A01D-EB78331E9368,81414-3,"","","","1968",gcc-50039
+gcc-138260,A,Compositae,,Millotia,,"jacksonii",,"","P.S.Short",Accepted,,M,TICA,A71C0AFC-7A4C-4163-A355-F034D183CF0F,,"","","39","1995",
+gcc-15580,A,Compositae,,Millotia,,"kempei",,"","F.Muell.",Synonym,,M,TICA,4B73C41E-F124-49D3-BC5D-1CD3D69BF62C,233366-1,"","","ii.  2.","1882",gcc-106251
+gcc-63064,A,Compositae,,Millotia,,"kempei",var.,"helmsii","F.Muell. & Tate",Synonym,,L,TICA,80CCA25F-757E-4159-A322-B3D8332D3917,81474-3,"Transactions of the Royal Society of South Australia 16  1896","","16","1896",gcc-48676
+gcc-20611,A,Compositae,,Millotia,,"kempei",var.,"kempei","",Synonym,,L,TICA,CA3EB7DD-C9D2-4AEB-B6A8-2627E1DB2519,81493-3,"Transactions of the Royal Society of South Australia 16  1896","","16","1896",gcc-106251
+gcc-78843,A,Compositae,,Millotia,,"macrocarpa",,"","Schodde",Accepted,,M,TICA,4DC6EF89-4B51-43DB-9F2D-6A1C1D011C9E,81510-3,"","","","1963",
+gcc-100035,A,Compositae,,Millotia,,"major",,"","(Turcz.) P.S.Short",Accepted,,M,TICA,E5EF61C9-81E8-4428-8E1D-99B044B0FF23,167753-3,"","","","1990",
+gcc-143950,A,Compositae,,Millotia,,"muelleri",,"","(Sond.) P.S.Short",Accepted,,M,TICA,C72C0360-7798-4C87-B7F9-FD019AB1CDE8,947982-1,"","","246","1990",
+gcc-33781,A,Compositae,,Millotia,,"myosotidifolia",,"","(Benth.) Steetz",Accepted,,M,TICA,C200E19F-62B8-4077-A5D0-3EA04199B4F3,81539-3,"Pl. Preiss. i. 457.","","457","1845",
+gcc-55367,A,Compositae,,Millotia,,"myosotidifolia",var.,"myosotidifolia","",Synonym,,L,TICA,CA0B8DF1-F672-423A-BEC6-755F676C4BD4,81569-3,"Linnaea","","503","1853",gcc-33781
+gcc-117000,A,Compositae,,Millotia,,"newbeyi",,"","P.S.Short",Accepted,,M,TICA,1B1ADB3D-BEC4-460D-BBF2-BFADFBE2831B,,"","","20","1995",
+gcc-104358,A,Compositae,,Millotia,,"perpusilla",,"","(Turcz.) P.S.Short",Accepted,,M,TICA,25990FAB-A685-4959-B861-A35497F3D3F3,947983-1,"","","246","1990",
+gcc-119225,A,Compositae,,Millotia,,"pilosa",,"","P.S.Short",Accepted,,M,TICA,6936AFAE-7313-438A-BC77-C4B0C87A6799,,"","","21","1995",
+gcc-106226,A,Compositae,,Millotia,,"robusta",,"","Steetz",Synonym,,M,TICA,E11C9B5E-8BA9-4256-843A-A74B0596E5A2,81611-3,"","","","1845",gcc-33781
+gcc-135985,A,Compositae,,Millotia,,"steetziana",,"","P.S.Short",Accepted,,M,TICA,9CEC3A0C-DE59-4DF1-9157-EB20F5F3A106,168583-3,"","","","1990",
+gcc-51162,A,Compositae,,Millotia,,"tenuifolia",,"","Cass.",Accepted,,M,TICA,25ABA4DD-9340-4D80-8B8E-5EE5E696EE10,81641-3,"","","","1829",
+gcc-55909,A,Compositae,,Millotia,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,C457363F-C008-45C3-934D-7A075B638FB6,,"","","","",gcc-51162

@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112922,A,Compositae,,Oreostemma,,"alpigenum",,"","(Torr. & A.Gray) Greene",Accepted,,M,TICA,A9173FB8-3910-44E9-9DB6-B686F4CD380B,235566-1,"","","224","1900",
+gcc-52066,A,Compositae,,Oreostemma,,"alpigenum",subsp.,"alpigenum","",Synonym,,L,TICA,9B757E84-547E-4E6D-9BDE-609110DCBAA1,,"","","","2001",gcc-112922
+gcc-68631,A,Compositae,,Oreostemma,,"alpigenum",var.,"alpigenum","",Synonym,,L,TICA,04C07A1A-F819-4071-8D03-E03B9ABCF702,,"","","","",gcc-112922
+gcc-12927,A,Compositae,,Oreostemma,,"alpigenum",subsp.,"andersonii","(A.Gray) Semple",Synonym,,L,TICA,BAED275D-4F8B-43E7-A371-181A5422A711,,"","","","",gcc-6374
+gcc-6374,A,Compositae,,Oreostemma,,"alpigenum",var.,"andersonii","(A.Gray) G.L.Nesom",Accepted,,L,TICA,F3129D8D-F986-490D-80F2-0BDB06B6C220,1042594-2,"","","312","1993",
+gcc-55441,A,Compositae,,Oreostemma,,"alpigenum",subsp.,"haydenii","(Porter) Semple",Synonym,,L,TICA,33EBEF16-9039-421A-8309-7608CA22D576,20001196-1,"Rhodora 103(914): 204 (2001).","","204","2001",gcc-60331
+gcc-60331,A,Compositae,,Oreostemma,,"alpigenum",var.,"haydenii","(Porter) G.L.Nesom",Accepted,,L,TICA,B87261F0-27A6-44BD-8CDA-9D8509A893E7,971989-1,"","","313","1993",
+gcc-13407,A,Compositae,,Oreostemma,,"andersonii",,"","(A.Gray) Greene",Synonym,,M,TICA,7D162F55-131E-45BA-BE3F-1900C00F88C4,1143284-2,"Pittonia 4","","147","1900",gcc-6374
+gcc-134146,A,Compositae,,Oreostemma,,"elatum",,"","(Greene) Greene",Accepted,,M,TICA,A381EAAC-0D1B-4DB3-B877-E71B29EE085A,176277-2,"","","224","1900",
+gcc-85340,A,Compositae,,Oreostemma,,"haydeni",,"","(Porter) Greene",Synonym,,M,TICA,82F2C8C0-7C75-45E3-A725-787AADB5506A,1119849-2,"Pittonia 4: 224. 1900","","224","1900",gcc-60331
+gcc-19519,A,Compositae,,Oreostemma,,"peirsonii",,"","(Sharsm.) G.L.Nesom",Accepted,,M,TICA,8006AEF4-523A-4EB3-A77F-2414B321DFA9,1156216-2,"","","314","1993",

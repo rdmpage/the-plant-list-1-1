@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-208473,A,Lamiaceae,,Trichostema,,"arizonicum",,"","A.Gray",Accepted,,H,WCSP,208473,461846-1,"Proc. Amer. Acad. Arts","8: 371","","1872",
+kew-208474,A,Lamiaceae,,Trichostema,,"austromontanum",,"","H.F.Lewis",Accepted,,H,WCSP,208474,257649-2,"Brittonia","5: 284","","1945",
+kew-208475,A,Lamiaceae,,Trichostema,,"austromontanum",subsp.,"austromontanum","",Synonym,,L,WCSP,208475,,"Unknown","","","",kew-208474
+kew-208477,A,Lamiaceae,,Trichostema,,"brachiatum",,"","L.",Accepted,,H,WCSP,208477,461848-1,"Sp. Pl.","598","","1753",
+kew-208478,A,Lamiaceae,,Trichostema,,"dichotomum",,"","L.",Accepted,,H,WCSP,208478,286345-2,"Sp. Pl.","598","","1753",
+tro-17603201,A,Lamiaceae,,Trichostema,,"dichotomum",var.,"dichotomum","",Synonym,,L,TRO,17603201,,"","","","",kew-208478
+kew-208479,A,Lamiaceae,,Trichostema,,"dichotomum",var.,"lineare","(Walter) Pursh",Synonym,,L,WCSP,208479,257653-2,"Fl. Amer. Sept.","2: 414","","1813",kew-208497
+kew-208480,A,Lamiaceae,,Trichostema,,"dichotomum",var.,"puberulum","Fernald & Griscom",Synonym,,L,WCSP,208480,257654-2,"Rhodora","39: 445","","1937",kew-208478
+kew-208481,A,Lamiaceae,,Trichostema,,"lanatum",,"","Benth.",Accepted,,H,WCSP,208481,461853-1,"Labiat. Gen. Spec.","659","","1835",
+kew-208482,A,Lamiaceae,,Trichostema,,"lanatum",var.,"denudatum","A.Gray",Synonym,,L,WCSP,208482,257655-2,"Syn. Fl. N. Amer.","2(1): 459","","1886",kew-208481
+kew-208483,A,Lamiaceae,,Trichostema,,"lanceolatum",,"","Benth.",Accepted,,H,WCSP,208483,461854-1,"Labiat. Gen. Spec.","659","","1835",
+kew-208484,A,Lamiaceae,,Trichostema,,"laxum",,"","A.Gray",Accepted,,H,WCSP,208484,461855-1,"Proc. Amer. Acad. Arts","7: 387","","1868",
+kew-208485,A,Lamiaceae,,Trichostema,,"laxum",var.,"rubrisepalum","Jeps.",Synonym,,L,WCSP,208485,257656-2,"Man. Fl. Pl. Calif.","862","","1925",kew-208484
+kew-208486,A,Lamiaceae,,Trichostema,,"lineare",,"","Walter",Synonym,,H,WCSP,208486,461857-1,"Fl. Carol.","164","","1788",kew-208497
+kew-208487,A,Lamiaceae,,Trichostema,,"lineare",,"","Nutt.",Synonym,Illegitimate,H,WCSP,208487,461856-1,"Gen. N. Amer. Pl.","2: 39","","1818",kew-208497
+kew-208488,A,Lamiaceae,,Trichostema,,"linearifolium",,"","Bertol.",Synonym,,H,WCSP,208488,461858-1,"Misc. Bot.","13: 15","","1853",kew-208497
+kew-208489,A,Lamiaceae,,Trichostema,,"mexicanum",,"","Epling",Accepted,,H,WCSP,208489,257658-2,"Bull. Torrey Bot. Club","67: 509","","1940",
+kew-208490,A,Lamiaceae,,Trichostema,,"micranthum",,"","A.Gray",Accepted,,H,WCSP,208490,461860-1,"Syn. Fl. N. Amer.","2: 348","","1878",
+kew-208491,A,Lamiaceae,,Trichostema,,"oblongum",,"","Benth.",Accepted,,H,WCSP,208491,461861-1,"Labiat. Gen. Spec.","659","","1835",
+kew-208492,A,Lamiaceae,,Trichostema,,"ovatum",,"","Curran",Accepted,,H,WCSP,208492,461862-1,"Bull. Calif. Acad. Sci.","1(3): 154","","1885",
+tro-17602385,_,,,Trichostema,,"parishii",,"","Vasey",Unresolved,,L,TRO,17602385,,"","","","",
+kew-208493,A,Lamiaceae,,Trichostema,,"parishii",,"","Vasey",Accepted,,H,WCSP,208493,461863-1,"Bot. Gaz.","6: 173","","1881",
+kew-208494,A,Lamiaceae,,Trichostema,,"pilosum",,"","Roth",Synonym,,H,WCSP,208494,461864-1,"Nov. Pl. Sp.","280","","1821",kew-208478
+kew-208495,A,Lamiaceae,,Trichostema,,"purpusii",,"","Brandegee",Accepted,,H,WCSP,208495,257660-2,"Zoe","5: 254","","1908",
+kew-208496,A,Lamiaceae,,Trichostema,,"rubisepalum",,"","Elmer",Accepted,,H,WCSP,208496,257661-2,"Bot. Gaz.","41: 310","","1906",
+kew-348753,A,Lamiaceae,,Trichostema,,"ruygtii",,"","H.Lewis",Accepted,,H,WCSP,348753,,"Madroño","53: 282","","2006",
+kew-208497,A,Lamiaceae,,Trichostema,,"setaceum",,"","Houtt.",Accepted,,H,WCSP,208497,,"Nat. Hist.","9: 428","","1778",
+kew-208498,A,Lamiaceae,,Trichostema,,"simulatum",,"","Jeps.",Accepted,,H,WCSP,208498,257662-2,"Man. Fl. Pl. Calif.","862","","1925",
+kew-208499,A,Lamiaceae,,Trichostema,,"spirale",,"","Lour.",Synonym,,H,WCSP,208499,,"Fl. Cochinch.","371","","1790",kew-144294
+kew-208500,A,Lamiaceae,,Trichostema,,"suffrutescens",,"","Kearney",Accepted,,H,WCSP,208500,257663-2,"Bull. Torrey Bot. Club","21: 483","","1894",

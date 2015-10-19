@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-87978,A,Rubiaceae,,Galopina,,"aspera",,"","(Eckl. & Zeyh.) Walp.",Accepted,,H,WCSP,87978,,"Repert. Bot. Syst.","2: 462","","1843",
+kew-87979,A,Rubiaceae,,Galopina,,"circaeoides",,"","Thunb.",Accepted,,H,WCSP,87979,750873-1,"Nov. Gen. Pl.","1: 3","","1781",
+kew-87980,A,Rubiaceae,,Galopina,,"circaeoides",var.,"glabra","Kuntze",Synonym,,L,WCSP,87980,,"Revis. Gen. Pl.","3(2): 120","","1898",kew-87979
+kew-87981,A,Rubiaceae,,Galopina,,"circaeoides",var.,"pubescens","Kuntze",Synonym,,L,WCSP,87981,,"Revis. Gen. Pl.","3(2): 120","","1898",kew-87985
+kew-87982,A,Rubiaceae,,Galopina,,"crocyllioides",,"","Bär",Accepted,,H,WCSP,87982,750874-1,"Vierteljahrsschr. Naturf. Ges. Zürich","68: 437","","1923",
+tro-27904963,A,Rubiaceae,,Galopina,,"crocyllioides",,"","Baer ex Schinz",Unresolved,,L,TRO,27904963,,"","","","",
+kew-87983,A,Rubiaceae,,Galopina,,"hirsuta",,"","E.Mey. ex Harv. & Sond.",Synonym,,H,WCSP,87983,750875-1,"Fl. Cap.","3: 26","","1865",kew-87985
+tro-27904965,A,Rubiaceae,,Galopina,,"hirsuta",,"","E. Mey.",Synonym,,M,TRO,27904965,,"","","","",kew-87985
+kew-87984,A,Rubiaceae,,Galopina,,"oxyspermum",,"","Steud.",Synonym,,H,WCSP,87984,,"Nomencl. Bot.","ed. 2, 1: 662","","1840",kew-87978
+kew-87985,A,Rubiaceae,,Galopina,,"tomentosa",,"","Hochst.",Accepted,,H,WCSP,87985,750877-1,"Flora","27: 555","","1844",

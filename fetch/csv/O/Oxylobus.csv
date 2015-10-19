@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-25853,A,Compositae,,Oxylobus,,"adscendens",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,D11228E9-34C6-4DF7-9A56-2FC5952548D9,179215-2,"","","272","1905",
+gcc-77396,A,Compositae,,Oxylobus,,"arbutifolius",,"","(Kunth) A.Gray",Accepted,,M,TICA,7D68FBEF-59A3-488F-A700-66CD3D723465,,"","","26","1879",
+tro-50045118,A,Compositae,,Oxylobus,,"glandulifer",,"","A. Gray ex Klatt",Accepted,,M,TRO,50045118,1054802-2,"Leopoldina","20: 75","75","1884",
+gcc-127317,A,Compositae,,Oxylobus,,"glanduliferus",,"","(Sch.Bip. ex Benth. & Hook.f.) A.Gray",Accepted,,M,TICA,8FF1F978-9C59-473B-89FE-D75C2877E8DE,30178029-2,"","","26","1879",
+gcc-95130,A,Compositae,,Oxylobus,,"glanduliferus",,"","(Sch.Bip. ex Hemsl.) A.Gray ex Klatt",Synonym,Illegitimate,M,TICA,7103247A-B245-4073-997B-8E98ABCC31FC,,"Leopoldina 20:","","75","1884",gcc-127317
+gcc-155710,A,Compositae,,Oxylobus,,"glanduliferus",f.,"glanduliferus","",Synonym,,L,TICA,88CB0362-B4E6-44E2-8AA4-DE078A4781C6,,"","","","",gcc-127317
+gcc-12867,A,Compositae,,Oxylobus,,"macrocephalus",,"","Paray",Synonym,,M,TICA,6F5431B5-5CEC-41C5-A23C-17FD4F530102,179218-2,"","","1","1958",gcc-30249
+gcc-82045,A,Compositae,,Oxylobus,,"oaxacanus",,"","S.F.Blake",Accepted,,M,TICA,0CC59B05-8F88-4910-B41B-7129190A64E5,179219-2,"Proc. Biol. Soc. Wash. 55","","113","1942",
+gcc-83296,A,Compositae,,Oxylobus,,"preecei",,"","B.L.Turner",Accepted,,M,TICA,AA1DF746-08C9-41F8-BB1C-73F49EE20D0C,281890-2,"","","375","1988",
+gcc-51788,A,Compositae,,Oxylobus,,"subglabrus",,"","R.M.King & H.Rob.",Accepted,,M,TICA,5AA9AAC2-3911-4034-8EBB-600AA6A9DA83,179220-2,"Phytologia 27","","385","1974",
+gcc-126803,A,Compositae,,Oxylobus,,"trinervius",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,DEB054BF-4D23-4F0D-9E20-D6255EC93464,,"","","115","1836",gcc-75795
+gcc-88427,A,Compositae,,Oxylobus,,"trinervius",,"","ex DC.",Unresolved,,L,TICA,0880A113-3BCE-4FF7-8582-7F63D64AB009,,"Prodr. (DC.) 5: 115","","115","1836",

@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-119535,A,Compositae,,Wulffia,,"angustifolia",,"","(A.Rich.) M.Gómez",Synonym,,M,TICA,93886463-5EDE-4F5D-A23A-C55F0D58554F,269151-2,"Anales Soc. Esp. Hist. Nat. 19: 274. 1890","","274","1890",gcc-128253
+gcc-130239,A,Compositae,,Wulffia,,"baccata",,"","(L.) Kuntze",Synonym,Illegitimate,M,TICA,4FA8F6A6-9229-4264-91F9-DE1B4460F802,269152-2,"Revis. Gen. Pl. 1: 373. 1891.","","373","1891",gcc-31245
+gcc-67697,A,Compositae,,Wulffia,,"baccata",var.,"baccata","",Synonym,,L,TICA,A51CCD3A-CB58-4BD0-88B6-D9422AB53654,,"","","","",gcc-31245
+gcc-54070,A,Compositae,,Wulffia,,"baccata",var.,"discoidea","S.F.Blake",Synonym,Illegitimate,L,TICA,F0D16AB5-E843-4FC1-90CC-6B39335A486D,269153-2,"J. Wash. Acad. Sci. 28: 491. 1938","","491","1938",gcc-25749
+gcc-35935,A,Compositae,,Wulffia,,"baccata",var.,"vincentina","O.E.Schulz",Synonym,,L,TICA,835F93A6-C813-49B4-AE57-42A39586294F,,"Symb. Antill. 7","","93","1911-1913 [1911]",gcc-31245
+gcc-91292,A,Compositae,,Wulffia,,"blanchetii",,"","DC.",Unresolved,,L,TICA,BF391530-A547-42E9-AACA-860A9586C6C5,328471-2,"Prodr. (DC.) 5","","564","1836",
+gcc-142315,A,Compositae,,Wulffia,,"capitata",,"","(G.Mey.) Sch.Bip.",Synonym,,M,TICA,C7B186AB-FC38-4202-A91F-F958EE6EBB02,328470-2,"Linnaea 21: 246. 1848","","246","1848",gcc-31245
+gcc-11273,A,Compositae,,Wulffia,,"debilis",,"","Cabrera",Synonym,,M,TICA,E50696BD-2300-4D63-B769-15131DAE503B,269155-2,"","","""178, f. 2""","1937",gcc-98913
+gcc-94283,A,Compositae,,Wulffia,,"deltoidea",,"","(Michx.) M.Gómez",Unresolved,,L,TICA,CD3B92E2-FAF4-4CD3-B9AB-8CA0BFFB0039,269156-2,"","","26","1889",
+gcc-52660,A,Compositae,,Wulffia,,"elongata",,"","Miq.",Synonym,,M,TICA,B922D6E9-ABD4-402F-8798-619C91475AB0,328469-2,"Stirp. Surinam. Select.","","193","1851",gcc-31245
+gcc-140332,A,Compositae,,Wulffia,,"hastata",,"","M.Gómez",Unresolved,,L,TICA,937EA982-09B5-4439-846A-F4C078755314,269157-2,"Anales Soc. Esp. Hist. Nat. 19: 274. 1890","","274","1890",
+gcc-107918,A,Compositae,,Wulffia,,"havanensis",,"","DC.",Accepted,,M,TICA,37E51D3D-D822-4115-97D8-AB2E3E125ACF,328468-2,"Prodr. (DC.) 5","","563","1836",
+gcc-119792,A,Compositae,,Wulffia,,"longifolia",,"","Gardner",Unresolved,,L,TICA,4ADE84D6-B0BE-4746-BED5-C5F9E6252E1A,328467-2,"London J. Bot. 7","","293","1848",
+gcc-51006,A,Compositae,,Wulffia,,"macrocephala",,"","H.Rob.",Synonym,,M,TICA,CA1917F3-5DD5-4A09-9C78-5EA1E7083F45,287074-2,"","","259","1984",gcc-33620
+gcc-97174,A,Compositae,,Wulffia,,"maculata",,"","(Ker Gawl.) DC.",Synonym,Illegitimate,M,TICA,5B82223D-FF9E-48BB-ACB6-9342955C3999,1063458-2,"Prodr. (DC.) 5","","563","1836",gcc-31245
+gcc-148136,A,Compositae,,Wulffia,,"maculata",var.,"maculata","",Synonym,,L,TICA,956560BE-FBF7-498F-B80C-3C5537888D30,,"","","","",gcc-31245
+gcc-149044,A,Compositae,,Wulffia,,"membranifolia",,"","(Poir.) DC.",Synonym,,M,TICA,985B9F49-8232-42C3-9848-503C0993F745,,"","","","",gcc-31245
+gcc-27904,A,Compositae,,Wulffia,,"oblongifolia",,"","DC.",Unresolved,,L,TICA,A925320C-4426-46BA-BEFB-338E28B4351E,269159-2,"Prodr. (DC.) 5","","564","1836",
+gcc-27499,A,Compositae,,Wulffia,,"platyglossa",,"","(Cass.) DC.",Synonym,,M,TICA,10AE3228-9841-4EF5-9AF0-32D7E2582A7C,328465-2,"Prodr. (DC.) 5","","563","1836",gcc-31245
+gcc-80469,A,Compositae,,Wulffia,,"quitens",,"","Turcz.",Unresolved,,L,TICA,6DB41D76-8138-4D21-B35F-6DA8037FAAAA,,"Bull. Soc. Imp. Naturalistes Moscou 24(1): 182. 1851","","182","1851",
+gcc-12026,A,Compositae,,Wulffia,,"quitensis",,"","Turcz.",Accepted,,M,TICA,D8DB491F-A884-4AFE-AE01-166881FCDD6E,328464-2,"","","182","1851",
+gcc-136665,A,Compositae,,Wulffia,,"rubens",,"","Alexander",Accepted,,M,TICA,5752C4FD-F3F2-4941-AB7E-ECB77B48A307,269160-2,"","","217","1939",
+gcc-37094,A,Compositae,,Wulffia,,"salzmannii",,"","DC.",Unresolved,,L,TICA,4AD403DD-783F-460E-A200-44BB89501827,328463-2,"Prodr. (DC.) 5","","563","1836",
+gcc-99790,A,Compositae,,Wulffia,,"scandens",,"","DC.",Unresolved,Illegitimate,L,TICA,EAD10F61-64BA-47F5-A75F-992023AE6E19,328462-2,"Prodr. (DC.) 5","","564","1836",
+gcc-31507,A,Compositae,,Wulffia,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,6E1DC444-F0CD-4B6E-8FA4-3A677334EAEC,,"Bot. Jahrb. Syst. 29: 34. 1900","","","1900",gcc-17305
+gcc-3827,A,Compositae,,Wulffia,,"sodiroi",,"","Hieron. ex Sodiro",Accepted,,M,TICA,3184DA0B-F023-4228-AE90-071CCAE5C4EC,260734-1,"","","34","1900",
+gcc-112126,A,Compositae,,Wulffia,,"stenoglossa",,"","(Cass.) DC.",Synonym,,M,TICA,5C4BF440-CE43-4E11-9BE4-B4B69EBD964F,328459-2,"Prodr. (DC.) 5: 563","","563","1836",gcc-31245
+gcc-149045,A,Compositae,,Wulffia,,"stenoglossa",,"","(DC.) Huber",Synonym,,M,TICA,39FA7662-0E89-41A8-B73D-503D0612F113,,"","","","",gcc-31245
+gcc-17272,A,Compositae,,Wulffia,,"strigosa",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,A274F46D-877A-4BCE-8CA9-1FEFC26ABB3D,328460-2,"Fl. Bras. (Martius) 6(3)","","174","1884",
+gcc-101355,A,Compositae,,Wulffia,,"suffruticosa",,"","Gardner",Synonym,,M,TICA,BB973B7D-8194-4A31-9245-9C9BD58E1D3B,328466-2,"London J. Bot. 7","","292","1848",gcc-31245
+gcc-130063,A,Compositae,,Wulffia,,"trujilloi",,"","V.M.Badillo",Unresolved,,L,TICA,F404B94A-39FE-4166-8BEB-DDB3DAE328D8,,"","","127","1994",

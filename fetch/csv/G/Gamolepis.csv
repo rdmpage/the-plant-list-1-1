@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-121341,A,Compositae,,Gamolepis,,"annua",,"","Less.",Synonym,,M,TICA,75BE8625-7AD8-4EE1-A74B-C9981FFE7DC7,208614-1,"","","251","1832",gcc-20621
+gcc-131288,A,Compositae,,Gamolepis,,"brachypoda",,"","DC.",Synonym,,M,TICA,E717C4E1-DDD9-4750-B973-E08D45CFD00E,208615-1,"","","40","1838",gcc-90894
+gcc-148407,A,Compositae,,Gamolepis,,"brachypoda",var.,"brachypoda","",Synonym,,L,TICA,88043349-8455-455D-B342-41F5DEFE8242,,"","","","",gcc-90894
+gcc-63111,A,Compositae,,Gamolepis,,"brachypoda",var.,"integrifolia","Harv.",Synonym,,L,TICA,757CB4A9-EEDA-43F4-BDBC-B43221CA3440,,"","","","",gcc-90894
+gcc-55689,A,Compositae,,Gamolepis,,"brachypoda",var.,"tridens","Harv.",Synonym,,L,TICA,89DC0D6E-9B96-459B-8577-78096B342DB9,,"","","","",gcc-90894
+gcc-110725,A,Compositae,,Gamolepis,,"caudata",,"","Klatt ex Burtt Davy & R.Pott",Synonym,Invalid,M,TICA,AABDC7C1-9E15-40CD-8B98-B18EAA0E5EE2,,"","","","",gcc-56771
+gcc-122912,A,Compositae,,Gamolepis,,"caudata",,"","Klatt ex Burtt Davy & Pott-Leendertz",Synonym,,M,TICA,1B3C1BBF-2C56-43DE-9D81-CD199B9939BF,,"","","","",gcc-56771
+gcc-91462,A,Compositae,,Gamolepis,,"chrysanthemoides",,"","DC.",Synonym,,M,TICA,D0BBD7D1-EB1B-4267-8649-867191A884C8,208616-1,"","","40","1838",gcc-13619
+gcc-32960,A,Compositae,,Gamolepis,,"debilis",,"","Harv.",Synonym,,M,TICA,AF1853E2-AD9A-4C80-924D-3D1EAD696C00,208617-1,"","","157","1865",gcc-81635
+gcc-110644,A,Compositae,,Gamolepis,,"ericoides",,"","(L.f.) Less.",Synonym,,M,TICA,7361128A-A54E-4CC4-91CB-B15E2851E6C3,208618-1,"","","251","1832",gcc-117778
+gcc-52419,A,Compositae,,Gamolepis,,"ericoides",var.,"adpressifolius","(DC.) Harv.",Synonym,,L,TICA,FEABD602-4044-4515-BECF-612C23F18206,,"","","","",gcc-28789
+gcc-63394,A,Compositae,,Gamolepis,,"ericoides",var.,"ericoides","",Synonym,,L,TICA,FDCA3DCA-D7E1-4F55-8858-B6895A512D44,,"","","","",gcc-117778
+gcc-142372,A,Compositae,,Gamolepis,,"euryopoides",,"","DC.",Synonym,,M,TICA,44F1B419-D43D-4E20-84CD-F97209113048,208619-1,"","","41","1838",gcc-128679
+gcc-78875,A,Compositae,,Gamolepis,,"hebecarpa",,"","DC.",Synonym,,M,TICA,E3092B09-BE9C-4524-B004-6A2CEA5B089F,208620-1,"","","41","1838",gcc-19137
+gcc-3301,A,Compositae,,Gamolepis,,"intermedia",,"","Bolus",Synonym,,M,TICA,C17FD726-66F2-418B-9C4B-0619877D9613,208621-1,"","","392","1906",gcc-103299
+gcc-2427,A,Compositae,,Gamolepis,,"laxa",,"","Harv.",Synonym,,M,TICA,1CEE02A9-CD9F-4D7D-8CE7-046DBB805A3B,208622-1,"","","158","1865",gcc-81635
+gcc-78748,A,Compositae,,Gamolepis,,"leiocarpa",,"","(DC.) Harv.",Synonym,,M,TICA,C58170C3-BE13-45CE-9C14-69E12BE186AB,208623-1,"","","608","1865",gcc-13596
+gcc-95093,A,Compositae,,Gamolepis,,"munita",,"","(L.f.) Less.",Synonym,,M,TICA,EFA89888-A13F-4D2C-9390-8E82A8056F56,208624-1,"","","251","1832",gcc-91254
+gcc-50010,A,Compositae,,Gamolepis,,"pectinata",,"","Less.",Synonym,,M,TICA,B10209A3-2199-44AE-BBBB-5CBB598B559D,208625-1,"","","251","1832",gcc-98791
+gcc-54495,A,Compositae,,Gamolepis,,"pectinata",var.,"natalensis","Sch.Bip.",Synonym,,L,TICA,A4188DC4-A49B-4F71-871B-6E9D4D29F0DB,,"","","","",gcc-81635
+gcc-65662,A,Compositae,,Gamolepis,,"pectinata",var.,"pectinata","",Synonym,,L,TICA,910E281B-D13E-4F08-8F6B-C89658F54242,,"","","","",gcc-98791
+gcc-39073,A,Compositae,,Gamolepis,,"pinnatipartita",,"","(DC.) Harv.",Synonym,,M,TICA,39C0F249-CE13-4227-9864-487DB68F55BE,208626-1,"","","607","1865",gcc-98791
+gcc-28527,A,Compositae,,Gamolepis,,"polytrichoides",,"","Harv.",Synonym,,M,TICA,403CE577-019B-4A8B-B85A-34BCBC6608DD,208627-1,"","","607","1865",gcc-91653
+gcc-99322,A,Compositae,,Gamolepis,,"speciosa",,"","Pillans",Synonym,,M,TICA,5C8043F6-BF74-48AE-9D25-981D03C50BC0,208628-1,"","","50","1931",gcc-97383
+gcc-95308,A,Compositae,,Gamolepis,,"tagetes",,"","(L.) DC.",Synonym,,M,TICA,91CE7DC2-EBDB-48B4-9800-8F00FEC74039,208629-1,"","","40","1838",gcc-20621
+gcc-52324,A,Compositae,,Gamolepis,,"tagetis",,"","St.-Lag.",Unresolved,,L,TICA,84055615-2CFC-4D27-8715-6108384C9C31,,"Ann. Soc. Bot. Lyon vii. (1880) 126","","126","",
+gcc-44434,A,Compositae,,Gamolepis,,"trifurcata",,"","Less.",Synonym,,M,TICA,B056C314-713B-4826-8D67-5253B449FC60,208631-1,"","","251","1832",gcc-1800

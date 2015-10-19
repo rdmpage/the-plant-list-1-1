@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-47202,A,Coriariaceae,,Coriaria,,"angustissima",,"","Hook.f.",Accepted,,H,WCSP,47202,271350-1,"Handb. N. Zeal. Fl.","47","","1864",
+kew-47203,A,Coriariaceae,,Coriaria,,"arborea",,"","Linds.",Accepted,,H,WCSP,47203,271351-1,"Contr. New Zealand Bot.","84","","1868",
+kew-47204,A,Coriariaceae,,Coriaria,,"arborea",var.,"arborea","",Synonym,,L,WCSP,47204,,"Unknown","","","",kew-47203
+kew-47206,A,Coriariaceae,,Coriaria,,"atropurpurea",,"","Moc. & Sessé ex DC.",Synonym,,H,WCSP,47206,271352-1,"Prodr.","1: 740","","1824",kew-47228
+kew-47207,A,Actinidiaceae,,Coriaria,,"cuneifolia",,"","Sessé & Moc.",Synonym,,H,WCSP,47207,,"Pl. Nov. Hisp.","173","","1890",kew-2594456
+kew-457003,A,Coriariaceae,,Coriaria,,"duthiei",,"","D.K.Singh & Pusalkar",Accepted,,H,WCSP,457003,77099889-1,"Nordic J. Bot.","27: 203","","2009",
+kew-47208,A,Coriariaceae,,Coriaria,,"hermaphrodita",,"","Turra",Synonym,,H,WCSP,47208,271354-1,"Farsetia","13","","1765",kew-47220
+kew-47209,A,Coriariaceae,,Coriaria,,"intermedia",,"","Matsum.",Synonym,,H,WCSP,47209,271355-1,"Bot. Mag. (Tokyo)","12: 62","","1898",kew-47211
+kew-47210,A,Coriariaceae,,Coriaria,,"japonica",,"","A.Gray",Accepted,,H,WCSP,47210,,"Mem. Amer. Acad. Arts","n.s., 6: 383","","1859",
+kew-47211,A,Coriariaceae,,Coriaria,,"japonica",subsp.,"intermedia","(Matsum.) T.C.Huang",Accepted,,L,WCSP,47211,972261-1,"Taiwania","37: 134","","1992",
+kew-47212,A,Coriariaceae,,Coriaria,,"japonica",subsp.,"japonica","",Synonym,,L,WCSP,47212,,"Unknown","","","",kew-47210
+kew-47213,A,Coriariaceae,,Coriaria,,"kingiana",,"","Colenso",Accepted,,H,WCSP,47213,,"J. Bot.","3: 20","","1844",
+kew-47214,A,Coriariaceae,,Coriaria,,"kweichovensis",,"","Hu",Accepted,,H,WCSP,47214,271357-1,"Bull. Fan Mem. Inst. Biol.","7: 213","","1936",
+kew-47215,A,Coriariaceae,,Coriaria,,"luracparva",,"","Allan",Synonym,,H,WCSP,47215,271358-1,"Genetica","9: 154","","1927",kew-47216
+kew-47216,A,Coriariaceae,,Coriaria,,"lurida",,"","Kirk",Accepted,,H,WCSP,47216,271359-1,"Stud. Fl. New Zealand","98","","1899",
+kew-47217,A,Coriariaceae,,Coriaria,,"lurida",var.,"acuminata","Cockayne & Allan",Synonym,,L,WCSP,47217,,"Trans. & Proc. New Zealand Inst.","57: 51","","1926",kew-47226
+kew-47218,A,Coriariaceae,,Coriaria,,"lurida",var.,"parviflora","Cockayne & Allan",Synonym,,L,WCSP,47218,,"Trans. & Proc. New Zealand Inst.","57: 51","","1926",kew-47224
+kew-234429,A,Coriariaceae,,Coriaria,,"lurida",var.,"undulata","(Petrie) Allan",Synonym,,L,WCSP,234429,,"Rep. Meetings Australas. Assoc. Advancem. Sci.","20: 446","","1931",kew-47213
+kew-47219,A,Coriariaceae,,Coriaria,,"microphylla",,"","Poir.",Synonym,,H,WCSP,47219,66024-2,"Encycl.","6: 87","","1804",kew-47228
+kew-47220,A,Coriariaceae,,Coriaria,,"myrtifolia",,"","L.",Accepted,,H,WCSP,47220,271361-1,"Sp. Pl.","1037","","1753",
+kew-47221,A,Coriariaceae,,Coriaria,,"nepalensis",,"","Wall.",Accepted,,H,WCSP,47221,271362-1,"Pl. Asiat. Rar.","3: 67","","1832",
+kew-47222,A,Coriariaceae,,Coriaria,,"papuana",,"","Warb.",Synonym,,H,WCSP,47222,271363-1,"Bot. Jahrb. Syst.","16: 22","","1893",kew-47228
+kew-47223,A,Coriariaceae,,Coriaria,,"phylicifolia",,"","Humb. & Bonpl. ex Willd.",Synonym,,H,WCSP,47223,271364-1,"Sp. Pl.","4: 819","","1806",kew-47228
+kew-47224,A,Coriariaceae,,Coriaria,,"plumosa",,"","W.R.B.Oliv.",Accepted,,H,WCSP,47224,271365-1,"Rec. Domin. Mus.","1: 27","","1942",
+kew-47225,A,Coriariaceae,,Coriaria,,"pottsiana",,"","W.R.B.Oliv.",Accepted,,H,WCSP,47225,271366-1,"Rec. Domin. Mus.","1: 24","","1942",
+kew-47226,A,Coriariaceae,,Coriaria,,"pteridoides",,"","W.R.B.Oliv.",Accepted,,H,WCSP,47226,271368-1,"Rec. Domin. Mus.","1: 30","","1942",
+kew-47227,A,Coriariaceae,,Coriaria,,"ruscifolia",,"","L.",Accepted,,H,WCSP,47227,271369-1,"Sp. Pl.","1037","","1753",
+kew-47228,A,Coriariaceae,,Coriaria,,"ruscifolia",subsp.,"microphylla","(Poir.) J.E.Skog",Accepted,,L,WCSP,47228,66026-2,"Rhodora","74: 249","","1972",
+kew-47229,A,Coriariaceae,,Coriaria,,"ruscifolia",subsp.,"ruscifolia","",Synonym,,L,WCSP,47229,,"Unknown","","","",kew-47227
+kew-47230,A,Coriariaceae,,Coriaria,×,"sarlurida",,"","Cockayne & Allan",Accepted,,H,WCSP,47230,271370-1,"Trans. & Proc. New Zealand Inst.","57: 51","","1927",
+kew-47231,A,Coriariaceae,,Coriaria,×,"sarmangusta",,"","Allan",Accepted,,H,WCSP,47231,271371-1,"Genetica","9: 154","","1927",
+kew-47232,A,Coriariaceae,,Coriaria,,"sarmentosa",,"","G.Forst.",Synonym,,H,WCSP,47232,271372-1,"Fl. Ins. Austr.","71","","1786",kew-47227
+kew-47233,A,Coriariaceae,,Coriaria,,"sinica",,"","Maxim.",Synonym,,H,WCSP,47233,271373-1,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7","29(3): 9","","1881",kew-47221
+kew-47234,A,Coriariaceae,,Coriaria,,"summicola",,"","Hayata",Synonym,,H,WCSP,47234,271374-1,"Icon. Pl. Formosan.","5: 33","","1915",kew-47211
+kew-47235,A,Coriariaceae,,Coriaria,,"terminalis",,"","Hemsl.",Accepted,,H,WCSP,47235,271375-1,"Hooker's Icon. Pl.","24: t. 2220","","1892",
+kew-47236,A,Coriariaceae,,Coriaria,,"terminalis",var.,"terminalis","",Synonym,,L,WCSP,47236,,"Unknown","","","",kew-47235
+kew-47238,A,Coriariaceae,,Coriaria,,"thymifolia",,"","Humb. & Bonpl. ex Willd.",Synonym,,H,WCSP,47238,271376-1,"Sp. Pl.","4: 819","","1806",kew-47228
+kew-216264,A,Coriariaceae,,Coriaria,,"thymifolia",var.,"undulata","Petrie",Synonym,,L,WCSP,216264,,"Trans. & Proc. New Zealand Inst.","53: 368","","1921",kew-47213
+kew-47239,A,Coriariaceae,,Coriaria,,"tinctoria",,"","Dulac",Synonym,,H,WCSP,47239,271377-1,"Fl. Hautes-Pyrénées","243","","1867",kew-47220
+kew-47240,A,Coriariaceae,,Coriaria,,"tutu",,"","Linds.",Synonym,,H,WCSP,47240,271378-1,"Contr. New Zealand Bot.","84","","1868",kew-47227

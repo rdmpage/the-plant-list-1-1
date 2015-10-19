@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-128933,A,Compositae,,Diaspananthus,,"palmatus",,"","Miq.",Synonym,,M,TICA,0357F79F-9853-4267-9B36-DB25B6FBFF68,201261-1,"","","186","1865",gcc-37797
+gcc-37797,A,Compositae,,Diaspananthus,,"uniflorus",,"","(Sch.Bip.) Kitam.",Accepted,,M,TICA,C6A0A8BF-8A75-4D19-8168-4618CEAE1675,201262-1,"J. Jap. Bot. 14: 298 (1938)","","298","1938",
+gcc-155254,A,Compositae,,Diaspananthus,,"uniflorus",f.,"uniflorus","",Synonym,,L,TICA,D3858F7E-813A-4C64-A714-D423657E45D1,,"","","","",gcc-37797

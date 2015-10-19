@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2773537,A,Brassicaceae,,Dithyrea,,"californica",,"","Harv.",Accepted,,M,WCSP (in review),,30255887-2,"London J. Bot.","4: 77","","1845",
+tro-4102615,A,Brassicaceae,,Dithyrea,,"californica",var.,"californica","",Synonym,,L,TRO,4102615,,"","","","",kew-2773537
+kew-2773538,A,Brassicaceae,,Dithyrea,,"californica",var.,"clinata","(J.F.Macbr. & Payson) Wiggins",Synonym,,L,WCSP (in review),,82559-2,"Veg. Fl. Sonoran Des.","1: 552","","1964",kew-2773537
+kew-2773539,A,Brassicaceae,,Dithyrea,,"californica",var.,"maritima","Davidson",Synonym,,L,WCSP (in review),,82560-2,"Syn. Fl. N. Amer.","1(1): 123","","1895",kew-2773537
+kew-2773540,A,Brassicaceae,,Dithyrea,,"clinata",,"","J.F.Macbr. & Payson",Synonym,,M,WCSP (in review),,82561-2,"Ann. Missouri Bot. Gard.","5: 150","","1918",kew-2773537
+kew-2773541,A,Brassicaceae,,Dithyrea,,"griffithsii",,"","Wooton & Standl.",Synonym,,M,WCSP (in review),,82562-2,"Contr. U. S. Natl. Herb.","16: 124","","1913",kew-2768728
+kew-2773542,A,Brassicaceae,,Dithyrea,,"maritima",,"","Davidson",Accepted,,M,WCSP (in review),,82563-2,"Fl. S. Calif.","151","","1923",
+kew-2773543,A,Brassicaceae,,Dithyrea,,"membranacea",,"","Payson",Synonym,,M,WCSP (in review),,82564-2,"Ann. Missouri Bot. Gard.","5: 149","","1918",kew-2768725
+kew-2773544,A,Brassicaceae,,Dithyrea,,"wislizeni",,"","Engelm.",Synonym,,M,WCSP (in review),,321321-2,"Mem. Tour N. Mexico","95","","1848",kew-2768728
+kew-2773545,A,Brassicaceae,,Dithyrea,,"wislizeni",var.,"griffithsii","(Wooton & Standl.) Payson",Synonym,,L,WCSP (in review),,82565-2,"Ann. Missouri Bot. Gard.","5: 148","","1918",kew-2768728
+kew-2773546,A,Brassicaceae,,Dithyrea,,"wislizeni",var.,"palmeri","Payson",Synonym,,L,WCSP (in review),,82566-2,"Ann. Missouri Bot. Gard.","6: 148","","1918",kew-2768724

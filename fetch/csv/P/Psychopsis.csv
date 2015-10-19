@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-167056,A,Orchidaceae,,Psychopsis,,"krameriana",,"","(Rchb.f.) H.G.Jones",Accepted,,H,WCSP,167056,978192-1,"Novosti Sist. Vyssh. Rast.","12: 141","","1975",
+kew-167057,A,Orchidaceae,,Psychopsis,,"latourae",,"","(Broadway) H.G.Jones",Synonym,,H,WCSP,167057,1044001-2,"Bol. Soc. Portug. Ci. Nat.","16: 77","","1976",kew-167058
+kew-337660,A,Orchidaceae,,Psychopsis,,"limminghei",,"","(E.Morren ex Lindl.) M.W.Chase",Accepted,,H,WCSP,337660,77064965-1,"Bot. Mag.","22: 54","","2005",
+kew-167058,A,Orchidaceae,,Psychopsis,,"papilio",,"","(Lindl.) H.G.Jones",Accepted,,H,WCSP,167058,212379-2,"J. Barbados Mus. Hist. Soc.","35: 32","","1975",
+kew-167059,A,Orchidaceae,,Psychopsis,,"papilio",var.,"albiflora","(Rchb.f. ex Lindl.) Lückel & Jenny",Synonym,,L,WCSP,167059,1165948-2,"Orchidee (Hamburg)","50: 47","","1999",kew-167058
+kew-167060,A,Orchidaceae,,Psychopsis,,"papilio",var.,"latourae","(Broadway) Lückel & Braem",Synonym,,L,WCSP,167060,1182735-2,"Orchidee (Hamburg)","33: 6","","1982",kew-167058
+kew-167061,A,Orchidaceae,,Psychopsis,,"papilio",f.,"latourae","(Broadway) Lückel & Jenny",Synonym,,L,WCSP,167061,1195508-2,"Orchidee (Hamburg)","50: 47","","1999",kew-167058
+kew-167062,A,Orchidaceae,,Psychopsis,,"picta",,"","Raf.",Synonym,,H,WCSP,167062,655167-1,"Fl. Tellur.","4: 40","","1838",kew-167058
+kew-167063,A,Orchidaceae,,Psychopsis,,"sanderae",,"","(Rolfe) Lückel & Braem",Accepted,,H,WCSP,167063,911205-1,"Orchidee (Hamburg)","33: 6","","1982",
+kew-167064,A,Orchidaceae,,Psychopsis,,"versteegiana",,"","(Pulle) Lückel & Braem",Accepted,,H,WCSP,167064,,"Orchidee (Hamburg)","33: 6","","1982",
+tro-23524377,A,Orchidaceae,,Psychopsis,,"versteegiana",,"","(Pulle) Rolando & Christenson",Synonym,,M,TRO,23524377,,"","","","",kew-167064

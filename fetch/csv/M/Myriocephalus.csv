@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116502,A,Compositae,,Myriocephalus,,"appendiculatus",,"","Benth.",Accepted,,M,TICA,E6FCC4E7-F40F-45C2-9B58-BE8D2D6662BE,234026-1,"","","61","1837",
+gcc-130446,A,Compositae,,Myriocephalus,,"biflorus",,"","Paul G.Wilson",Accepted,,M,TICA,68CA3F8D-80D5-42E2-8FD4-DE913EDCC1EE,20006068-1,"","","439","2002",
+gcc-87360,A,Compositae,,Myriocephalus,,"cotuloides",,"","Turcz.",Unresolved,,L,TICA,F51DA8C4-173E-4E14-92D3-7D1D57BC61A6,151054-3,"","","","1851",
+gcc-119457,A,Compositae,,Myriocephalus,,"decazesii",,"","F.Muell.",Unresolved,,L,TICA,FAF43F2E-16A7-4653-8EA3-C53A4E4C6B61,151069-3,"","","72","1881",
+gcc-51414,A,Compositae,,Myriocephalus,,"dittrichii",,"","Muell.",Unresolved,,L,TICA,DC927B80-28B9-450A-B524-5F5B3131AB49,,"""in Wing, S. Sci. Rec. n.s., ii. (May 1886); et ex Bot. Centralbl. xxvii.(1886) 300""","","300","",
+gcc-84032,A,Compositae,,Myriocephalus,,"gascoynensis",,"","P.S.Short",Accepted,,M,TICA,1D48F6D2-92EC-413B-9253-759D8670C72C,1017153-1,"","","730","2000",
+gcc-37945,A,Compositae,,Myriocephalus,,"gracilis",,"","(A.Gray) Benth.",Synonym,,M,TICA,63DB26C8-41B6-4E81-BB5C-465F7012B495,151089-3,"","","","1867",gcc-87893
+gcc-95757,A,Compositae,,Myriocephalus,,"guerinae",,"","F.Muell.",Accepted,,M,TICA,1A3530D5-B701-422A-8321-9017D6F1D7D8,,"","","","1874",
+gcc-31356,A,Compositae,,Myriocephalus,,"helichrysoides",,"","A.Gray",Accepted,,M,TICA,4690E7B1-5F47-457D-9075-3A14DC1DEC61,234032-1,"","","175","1851",
+gcc-76847,A,Compositae,,Myriocephalus,,"isoetes",,"","Diels",Synonym,,L,TICA,25C102B2-B8D1-48AD-8030-658ED1524D6F,,"","","","",gcc-40087
+gcc-14617,A,Compositae,,Myriocephalus,,"morrisonianus",,"","Diels",Synonym,,M,TICA,EA7BDE75-DF6B-461A-98A3-1B20EB631508,151229-3,"","","","1904",gcc-42453
+gcc-78710,A,Compositae,,Myriocephalus,,"nudus",,"","A.Gray",Accepted,,M,TICA,B7064085-D1DE-4D35-BDAE-69C13F6CD3F9,234035-1,"","","174","1851",
+gcc-56053,A,Compositae,,Myriocephalus,,"nudus",var.,"nudus","",Synonym,,L,TICA,BC06D252-C08E-4E80-9D0A-7B5C6E1F73C8,151277-3,"Flora Australiensis 3  1867","","3","1867",gcc-78710
+gcc-40087,A,Compositae,,Myriocephalus,,"occidentalis",,"","(F.Muell.) P.S.Short",Accepted,,L,TICA,7230F52D-415E-4806-B6BE-4A5AB490DD11,979125-1,"","","470","1993",
+gcc-41654,A,Compositae,,Myriocephalus,,"oldfieldii",,"","(F.Muell.) Paul G.Wilson",Accepted,,L,TICA,D6F09C75-E289-422F-8A36-4D1E525485DA,20006069-1,"","","440","2002",
+gcc-7486,A,Compositae,,Myriocephalus,,"pluriflorus",,"","(J.M.Black) D.A.Cooke",Accepted,,M,TICA,46B1F78D-6C94-408E-928A-0DEB6AAD581D,151322-3,"","","","1986",
+gcc-18960,A,Compositae,,Myriocephalus,,"pygmaea",,"","(A.Gray) P.S.Short",Accepted,,M,TICA,3D74F78A-C930-4C36-8BA7-22FE06CAC4C5,979126-1,"","","471","1993",
+tro-50293075,A,Compositae,,Myriocephalus,,"pygmaeus",,"","P.S. Short",Unresolved,,L,TRO,50293075,,"","","","",
+gcc-8363,A,Compositae,,Myriocephalus,,"rhizocephalus",,"","(DC.) Benth.",Accepted,,M,TICA,F222A614-899A-456A-9F4E-0F8EAFD7211E,234036-1,"","","557","1867",
+gcc-9763,A,Compositae,,Myriocephalus,,"rhizocephalus",var.,"pluriflorus","J.M.Black",Synonym,,L,TICA,00877B75-ADB2-454E-81B9-123E80658014,151392-3,"Flora of South Australia","","643","1929",gcc-7486
+gcc-54530,A,Compositae,,Myriocephalus,,"rhizocephalus",var.,"rhizocephalus","",Synonym,,L,TICA,AEC4C63F-4F9E-4275-81E6-6EE30D61BDEB,151488-3,"Flora of South Australia 4  1929","","4","1929",gcc-8363
+gcc-3712,A,Compositae,,Myriocephalus,,"rudallii",,"","(F.Muell.) Benth.",Accepted,,M,TICA,1C22F414-AF3B-4D9E-B97C-06E2F1343DA0,151532-3,"","","","1867",
+gcc-132681,A,Compositae,,Myriocephalus,,"scalpellus",,"","Paul G.Wilson",Accepted,,M,TICA,195FF253-B425-4D1A-ADB6-E3CDFDB7433D,20006070-1,"","","442","2002",
+gcc-137036,A,Compositae,,Myriocephalus,,"squamatus",,"","Paul G.Wilson",Accepted,,M,TICA,DFAEE0C4-30A3-44EE-B3C1-ED8C2D4EA9CE,20006071-1,"Nuytsia 14(3): 443 (2002).","","443","2002",
+gcc-23278,A,Compositae,,Myriocephalus,,"stuartii",,"","Benth.",Synonym,,M,TICA,D1B0A609-1B7F-4D0A-ABDC-2B1580EA91EA,234038-1,"","","560","1867",gcc-76882
+gcc-115551,A,Compositae,,Myriocephalus,,"suffruticosus",,"","Benth.",Synonym,,M,TICA,A9A071CC-721E-4603-96B0-BC6AC3CBA194,151603-3,"","","","1867",gcc-10510
+gcc-26676,A,Compositae,,Myriocephalus,,"villosissimus",,"","Turcz.",Unresolved,,L,TICA,24DF0606-D75D-4C8F-9DCC-3147EE817BC5,151641-3,"","","","1851",
+gcc-24393,A,Compositae,,Myriocephalus,,"walcottii",,"","P.S.Short",Accepted,,M,TICA,8D281F77-465F-4661-A518-2D0F76CEF785,1017154-1,"","","731","2000",

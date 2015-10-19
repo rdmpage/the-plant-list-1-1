@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33650,A,Compositae,,Epallage,,"africana",,"","(Hook.f.) S.Moore",Synonym,,M,TICA,6D77BBA3-E350-4ADB-B1AF-3E64F14E6FF8,203222-1,"","","123","1917",gcc-55338
+gcc-112848,A,Compositae,,Epallage,,"alternifolia",,"","Steud.",Synonym,Invalid,M,TICA,4400BC6B-1C9F-43CD-B403-B65D11AAC094,203223-1,"","","102","1840",gcc-55338
+gcc-122235,A,Compositae,,Epallage,,"anemonifolia",,"","DC.",Synonym,,M,TICA,E3E63EB1-71BB-417A-8E79-CB919775A1F6,203224-1,"","","4","1838",gcc-121768
+gcc-66966,A,Compositae,,Epallage,,"anemonifolia",var.,"calva","(Humbert) Humbert",Unresolved,,L,TICA,DDE6FD33-6CC5-4F7E-903A-D31DC0964516,,"Flore de Madagascar et des Comores 189(2):","","610","1962",
+gcc-71761,A,Compositae,,Epallage,,"anemonifolia",var.,"confluens","Humbert",Synonym,,L,TICA,75961F3C-CF42-4087-87A3-F8A44FB31F85,,"Mém. Soc. Linn. Normandie 25: 110 (1923)","","","1923",gcc-121768
+gcc-116090,A,Compositae,,Epallage,,"boinensis",,"","Humbert",Synonym,,M,TICA,644F6147-1BFE-4820-849E-BDA51A11EBD7,,"","","","1923",gcc-126019
+gcc-3891,A,Compositae,,Epallage,,"buchwaldii",,"","(O.Hoffm.) Humbert",Synonym,,M,TICA,8411ECA0-1F1A-441F-9CF3-073B24BCE50A,203226-1,"","","108","1923",gcc-37300
+gcc-79391,A,Compositae,,Epallage,,"calva",,"","Humbert",Synonym,,M,TICA,D6373B31-C8FC-421E-9E55-6B5BA3364F19,,"","","","1923",gcc-66966
+gcc-106684,A,Compositae,,Epallage,,"dentata",,"","DC.",Synonym,,M,TICA,21FDB63F-B6E9-4A70-8A27-A860DE7A69BD,203228-1,"","","4","1838",gcc-38393
+gcc-66670,A,Compositae,,Epallage,,"dentata",var.,"alticola","Humbert",Synonym,,L,TICA,B0AC1475-0486-423B-8E3A-D0A1C3EDF91F,,"in Fl. Madag. 189: 606 (1962)","","606","1962",gcc-113571
+gcc-15428,A,Compositae,,Epallage,,"dentata",var.,"boinensis","(Humbert) Humbert",Synonym,,L,TICA,C0375132-3BC7-4194-B053-1C8F4BDDC6CA,,"Flore de Madagascar et des Comores 189(2):","","605","1962",gcc-126019
+gcc-10186,A,Compositae,,Epallage,,"dentata",var.,"dentata","",Unresolved,,L,TICA,E3E77F1C-9B1C-4967-A0A9-130C4A66E304,,"","","","",
+gcc-37514,A,Compositae,,Epallage,,"dentata",var.,"incisa","Humbert",Synonym,,L,TICA,E6F3659C-A0DF-4337-8B52-458570F811B7,,"Memoires de la Societe Linneenne de Normandie 25:","","109","1923",gcc-10186
+gcc-53135,A,Compositae,,Epallage,,"dentata",var.,"macrocephala","Humbert",Synonym,Illegitimate,L,TICA,DBAB8ACF-2611-4740-B3A2-63C3B609471E,,"in Fl. Madag. 189: 605 (1962)","","","1962",gcc-37300
+gcc-66179,A,Compositae,,Epallage,,"dentata",var.,"rupestris","(DC.) Humbert",Synonym,,L,TICA,DD85EC99-ACBC-408F-A812-CCAC3E8C445B,,"Memoires de la Societe Linneenne de Normandie 25:","","109","1923",gcc-10186
+gcc-8008,A,Compositae,,Epallage,,"dissitifolia",,"","Baker",Synonym,,M,TICA,74C4C8ED-D6B4-4284-9485-0EE7D637672A,,"","","494","",gcc-38393
+gcc-40574,A,Compositae,,Epallage,,"humifusa",,"","Baker",Synonym,,M,TICA,DAE1E034-FC98-4BB4-A97D-4B333C41BA39,203230-1,"","","189","1883",gcc-95087
+gcc-118545,A,Compositae,,Epallage,,"imbricata",,"","Humbert",Synonym,,M,TICA,56D29D66-6DE3-41E2-8B45-C332FC0191DF,,"","","","1923",gcc-88793
+gcc-95087,A,Compositae,,Epallage,,"longipes",,"","(Comm. ex Cass.) Humbert",Accepted,,M,TICA,59971C76-6ADD-4910-8CA5-8E7F7F30B6A5,,"","","610","1962",
+gcc-4042,A,Compositae,,Epallage,,"minima",,"","Baker",Synonym,,M,TICA,6C2B98FF-D506-425F-8D52-078393E55CAF,203233-1,"","","189","1883",gcc-10186
+gcc-105720,A,Compositae,,Epallage,,"nuda",,"","Humbert",Synonym,,M,TICA,50F91941-4384-43E0-B7CB-A627AE1FB8D4,,"","","","1923",gcc-10186
+gcc-117054,A,Compositae,,Epallage,,"orbicularis",,"","Humbert",Synonym,,M,TICA,F527C9AB-AD8C-4584-B400-BFCACAEA5FCE,,"","","","1923",gcc-88793
+gcc-121859,A,Compositae,,Epallage,,"pusilla",,"","(S.Moore) Humbert",Accepted,,M,TICA,056E03AD-CB04-4A8C-B1B6-CAB219915903,203236-1,"","","105","1923",
+gcc-135255,A,Compositae,,Epallage,,"rupestris",,"","DC.",Synonym,,M,TICA,54C19E88-6EC9-446E-8353-E9988A39A125,203237-1,"","","4","1838",gcc-38393
+gcc-14407,A,Compositae,,Epallage,,"salvifolia",,"","DC.",Accepted,,M,TICA,93EC7A67-0221-4F17-85E6-1ABDF183FCC9,203238-1,"","","3","1838",
+gcc-148283,A,Compositae,,Epallage,,"salvifolia",subsp.,"salvifolia","",Synonym,,L,TICA,FEC12287-1478-46EE-9F15-3F7D56F1BF58,,"","","","",gcc-117979
+gcc-113394,A,Compositae,,Epallage,,"scrophulariaefolia",,"","(Baker) Humbert",Synonym,,M,TICA,09AFE87D-0213-4E86-B209-B78ED2D79AB4,203239-1,"","","110","1923",gcc-132583
+gcc-28723,A,Compositae,,Epallage,,"sylvatica",,"","Humbert",Synonym,,M,TICA,6FA73608-0348-4D02-849F-351C50A7E939,,"","","","1923",gcc-130018

@@ -1,0 +1,96 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24156,A,Compositae,,Xeranthemum,,"angustifolium",,"","Lam.",Unresolved,,L,TICA,BDC26C42-165F-4A08-A231-2CA08AFA4173,260957-1,"Encycl. (Lamarck) 3(1): 241","","241","1789",
+gcc-119960,A,Compositae,,Xeranthemum,,"annettae",,"","Kalen.",Synonym,,M,TICA,228E71FE-E368-4E68-BFEB-C666787D71DD,260958-1,"","","","1834",gcc-49863
+gcc-18512,A,Compositae,,Xeranthemum,,"annuum",,"","Scop.",Unresolved,,L,TICA,8E9E1CDD-8B39-43C2-A439-2232160D00F7,260961-1,"""Fl. Carniol., ed. 2. 2: 180""","","180","1772",
+gcc-34004,A,Compositae,,Xeranthemum,,"annuum",,"","Asso",Unresolved,,L,TICA,D6BB4036-24F9-4C37-9618-3F12F7CCA454,260960-1,"Syn. Pl. Arag. 118.","","118","",
+gcc-49863,A,Compositae,,Xeranthemum,,"annuum",,"","L.",Accepted,,M,TICA,43BED185-4023-4F77-95D0-5C6F81BCAEE2,260959-1,"","","857","1753",
+gcc-63964,A,Compositae,,Xeranthemum,,"annuum",subsp.,"annettae","(Kalen.) Holmboe",Synonym,,L,TICA,74E82CAE-3B66-47AE-B427-BAF94616D629,,"""Holmboe in Bergens Mus. Skr., ser. 2 1. 1914.""","","184","1914",gcc-49863
+gcc-145768,A,Compositae,,Xeranthemum,,"annuum",var.,"annuum","",Synonym,,L,TICA,6A8CF0AF-B510-4E95-841B-0A8D78EACA44,,"","","","",gcc-49863
+gcc-155060,A,Compositae,,Xeranthemum,,"annuum",subsp.,"annuum","",Synonym,,L,TICA,A8EA15A9-7A5E-4320-8881-D03663BBBBF7,,"","","","",gcc-49863
+gcc-55225,A,Compositae,,Xeranthemum,,"annuum",var.,"inapterum","L.",Synonym,,L,TICA,7B7B459F-A6FE-4C7B-9BA6-745861DF0083,,"""L., Sp. Pl. 1753.""","","858","1753",gcc-9030
+gcc-60219,A,Compositae,,Xeranthemum,,"annuum",var.,"orientale","L.",Synonym,,L,TICA,1002BD1B-64C0-461D-9236-9C938EBA518E,60456494-2,"""L., Sp. Pl. 1753.""","","858","1753",gcc-11225
+gcc-101091,A,Compositae,,Xeranthemum,,"argenteum",,"","Thunb.",Synonym,,M,TICA,7E86FDA2-4F4C-4D46-A1C7-9C1025CA767F,260962-1,"Prodr. Pl. Cap. 152.","","152","",gcc-82869
+gcc-78671,A,Compositae,,Xeranthemum,,"australe",,"","Pomel",Synonym,,M,TICA,C6BDDA62-6B5C-44DB-9545-69A77F49895C,260963-1,"Nouv. Mat. Fl. Atl. 33.","","33","",gcc-9030
+gcc-9053,A,Compositae,,Xeranthemum,,"bellidioides",,"","G.Forst.",Synonym,,M,TICA,19D2BA37-7D65-442C-BFB1-10EFB3133531,260964-1,"","","55","1786",gcc-24724
+gcc-121773,A,Compositae,,Xeranthemum,,"bracteatum",,"","Vent.",Synonym,,M,TICA,08E56F38-36ED-4983-BE36-CA8194C6C167,52672-3,"Jardin de la Malmaison","","","1803",gcc-122284
+gcc-43250,A,Compositae,,Xeranthemum,,"caespitosum",,"","Thouars",Synonym,,M,TICA,B33CBF4B-BD0E-456C-B371-50258052A714,,"Fl. Tristan d'Acugn. 39. t 8 (cespitosum).","","","1811",gcc-120985
+gcc-38913,A,Compositae,,Xeranthemum,,"canescens",,"","L.",Synonym,,M,TICA,D2A78DC7-5D18-426A-A386-482E2F7D9C05,,"Pl. Afr. Rar. 20; Amoem Acad. vi. 100.","","","",gcc-120969
+gcc-115970,A,Compositae,,Xeranthemum,,"chinense",,"","Lour.",Unresolved,,L,TICA,8891482D-4EA9-464A-8A67-BD611780F1AC,,"Fl. Cochinch. 498.","","498","",
+gcc-2892,A,Compositae,,Xeranthemum,,"ciliatum",,"","L.",Synonym,,M,TICA,81293C71-6B90-4294-9BF4-055AED3D0477,,"Sp. Pl. 859.","","859","",gcc-89992
+gcc-81675,A,Compositae,,Xeranthemum,,"corymbosum",,"","Lam.",Unresolved,,L,TICA,C53B8D6E-B6FC-45B1-BA2F-70606F1CFCF1,260970-1,"Encycl. (Lamarck) 3(1): 242","","242","1789",
+gcc-20592,A,Compositae,,Xeranthemum,,"crucifolium",,"","Hill",Unresolved,,L,TICA,0374BFEB-0090-4435-83B2-261D73F0824C,260971-1,"""Veg. Sust. ii. 95, sphalm.""","","""ii. 95, sphalm.""","",
+gcc-121178,A,Compositae,,Xeranthemum,,"cylindraceum",,"","Colm.",Unresolved,,L,TICA,7880BDD6-C6C3-44C3-91F9-C937D1D9EB2A,,"Apunt. Fl. Castill. 85.","","85","",
+gcc-94767,A,Compositae,,Xeranthemum,,"cylindraceum",,"","Sm.",Accepted,,M,TICA,2DB5AF31-F119-4876-BBBF-8DCAF8E19B71,260972-1,"","","172","1813",
+gcc-92705,A,Compositae,,Xeranthemum,,"cylindricum",,"","Spreng.",Accepted,,M,TICA,89087F47-7069-4995-90B1-89347771B1D8,260974-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 485","","485","1826",
+gcc-124481,A,Compositae,,Xeranthemum,,"dealbatum",,"","(Labill.) Poir.",Unresolved,,L,TICA,82961141-5A76-4406-A2A2-D0CB71730E7D,52704-3,"Encyclopedie Methodique. Botanique Suppl. 3 1813","","","1813",gcc-83502
+gcc-109212,A,Compositae,,Xeranthemum,,"erectum",,"","C.Presl",Unresolved,,L,TICA,DA51BEED-0A92-417B-A765-AE23A714844B,260975-1,"","","106","1822",gcc-9030
+gcc-91743,A,Compositae,,Xeranthemum,,"ericoides",,"","Lam.",Synonym,,M,TICA,AEFAB1E8-861B-49EF-AC88-87072F3FD86E,260976-1,"Encycl. (Lamarck) 3(1): 240","","240","1789",gcc-38807
+gcc-14322,A,Compositae,,Xeranthemum,,"erucifolium",,"","L.",Synonym,,M,TICA,F82C4EE6-57F2-452B-B22F-1A98A7A9F7FD,260977-1,"","","858","1753",gcc-102555
+gcc-101272,A,Compositae,,Xeranthemum,,"fasciculatum",,"","Andrews",Synonym,,M,TICA,202D677A-DD0A-48A3-A9D0-9C6E3AFFF7DD,260978-1,"Bot. Rep. t. 242.","","t. 242","",gcc-87168
+gcc-20546,A,Compositae,,Xeranthemum,,"ferrugineum",,"","Lam.",Synonym,,M,TICA,78B42BA9-55E9-4601-AAA9-2604176814A5,260979-1,"Encycl. (Lamarck) 3(1): 237","","237","1789",gcc-84856
+gcc-46924,A,Compositae,,Xeranthemum,,"foetidum",,"","Moench",Synonym,,M,TICA,1F77B1AB-C02B-4CEC-A58A-56F801AE1218,260980-1,"","","582","1794",gcc-9030
+gcc-135400,A,Compositae,,Xeranthemum,,"fragrans",,"","Andrews",Unresolved,,L,TICA,529DCB31-C31A-4E63-908F-E9F3D32B89A9,260981-1,"Bot. Rep. t. 561.","","t. 561","",
+gcc-92768,A,Compositae,,Xeranthemum,,"frigidum",,"","Labill.",Synonym,,M,TICA,82AA81FB-A0D9-4BF1-BCA7-8953EA3585D4,,"","","9","1791",gcc-136614
+gcc-141308,A,Compositae,,Xeranthemum,,"fulgidum",,"","L.f.",Synonym,,M,TICA,B0359289-25B6-4386-B938-F715190B8688,260983-1,"Suppl. Pl. 365","","365","1782",gcc-106536
+gcc-38060,A,Compositae,,Xeranthemum,,"herbaceum",,"","Andrews",Synonym,,M,TICA,3627BB04-11F8-4A88-84E9-4698132C0A53,260984-1,"Bot. Rep. t. 487.","","t. 487","",gcc-122895
+gcc-121281,A,Compositae,,Xeranthemum,,"heterophyllum",,"","Lam.",Unresolved,,L,TICA,3D2B2677-53C5-4359-B8B3-C974593F2012,260985-1,"Encycl. (Lamarck) 3(1): 239","","239","1789",
+gcc-86386,A,Compositae,,Xeranthemum,,"humile",,"","Andrews",Synonym,,M,TICA,E7DE5F49-C669-49C6-B92C-7ACDEDCF2CE2,260986-1,"Bot. Rep. t. 652.","","t. 652","",gcc-123587
+gcc-130294,A,Compositae,,Xeranthemum,,"imbricatum",,"","Burm.f.",Unresolved,,L,TICA,7BBF9E38-E811-47CC-96F1-DE335E9AD58C,,"Fl. Cap. Prod. 25.","","25","",
+gcc-90887,A,Compositae,,Xeranthemum,,"imbricatum",,"","L.",Unresolved,,L,TICA,EAE54DCA-AD86-4A3B-B5D0-85196D9ADFD9,260988-1,"Pl. Rar. Afr. 20; Amoen. Acad. vi. 100.","","20","",
+gcc-9030,A,Compositae,,Xeranthemum,,"inapertum",,"","(L.) Mill.",Accepted,,M,TICA,60AE1B90-3B62-461E-8F81-10E6F1D9F7A0,,"","","","1768",
+gcc-91326,A,Compositae,,Xeranthemum,,"inapertum",,"","M.Bieb.",Unresolved,,L,TICA,F3A645AE-6DDD-486D-BF29-8621F175FA5D,260989-1,"Fl. Taur.-Caucas. ii. 302.","","ii. 302","",
+gcc-59746,A,Compositae,,Xeranthemum,,"inapertum",var.,"australe","(Pomel) Batt. & Trab.",Synonym,,L,TICA,95234921-AF40-4D34-8540-9901E9D793AE,,"","","","",gcc-9030
+gcc-155379,A,Compositae,,Xeranthemum,,"inapertum",var.,"inapertum","",Synonym,,L,TICA,0A1CB66D-DC37-4DB1-BE7D-D70C932CDF6F,,"","","","",gcc-9030
+gcc-53897,A,Compositae,,Xeranthemum,,"inapertum",var.,"reboudianum","Verl.",Synonym,,L,TICA,46917D29-BAC4-409A-8861-69A8461BEB21,,"","","","",gcc-9030
+gcc-103087,A,Compositae,,Xeranthemum,,"incanum",,"","Crantz",Unresolved,,L,TICA,9B3FF880-C03E-43A5-A41C-A084B06B5718,260991-1,"Inst. i 290.","","i 290","",
+gcc-11123,A,Compositae,,Xeranthemum,,"incomptum",,"","Cass.",Unresolved,,L,TICA,DA14891F-6A8F-4FF9-9399-14CAAFBE8FAA,260992-1,"in Dict. Sci. Nat. lix. 115.","","lix. 115","",
+gcc-135102,A,Compositae,,Xeranthemum,,"inodorum",,"","Moench",Unresolved,,L,TICA,15802C06-08F4-464B-9871-E93BC9AF4097,260993-1,"Methodus (Moench) 582. 1794 [4 May 1794]","","582","1794",
+gcc-123495,A,Compositae,,Xeranthemum,,"lancifolium",,"","Thunb.",Synonym,,M,TICA,5C2F0DD8-E18B-4ABA-AEAA-CE75684DAB95,260994-1,"Prodr. Pl. Cap. 152.","","152","",gcc-44778
+gcc-105131,A,Compositae,,Xeranthemum,,"leucanthemifolium",,"","Burm.f.",Unresolved,,L,TICA,174B35C5-0F2F-4CD7-97EF-A4F5B98DA477,,"Fl. Cap. Prod. 26.","","26","",
+gcc-141921,A,Compositae,,Xeranthemum,,"longepapposum",,"","Fisch. & C.A.Mey.",Accepted,,M,TICA,0DDF4EC3-C53A-4362-9537-F881B8E4F1F5,260996-1,"","","337","1835",
+gcc-15585,A,Compositae,,Xeranthemum,,"lucidum",,"","Maund",Unresolved,,L,TICA,140DA8AC-9BE5-4F53-A5B4-1CD7153F0C37,52742-3,"""The Botanic Garden ed. 3, 1 1878""","","","1878",
+gcc-26308,A,Compositae,,Xeranthemum,,"modestum",,"","Ball",Synonym,,M,TICA,F2A794D2-508F-4E8B-A2B4-309F760BB7CA,260997-1,"J. Bot. 11: 368","","368","1873",gcc-9030
+gcc-92575,A,Compositae,,Xeranthemum,,"moniliforme",,"","Houtt. ex DC.",Unresolved,,L,TICA,ADE9920C-A110-43FC-B17C-88E7AA7BB7D6,260998-1,"Prodr. (DC.) 6: 172","","172","1838",
+gcc-10000,A,Compositae,,Xeranthemum,,"neumayeri",,"","Baill.",Unresolved,,L,TICA,9D066543-7CD3-4AED-91AB-12B6E139CD3F,,"in Bull. Soc. Linn. Par. i. (1880) 266.","","266","",
+gcc-8825,A,Compositae,,Xeranthemum,,"nobile",,"","Grauer",Unresolved,,L,TICA,42401241-E1AA-405E-BAAC-1086BDD9D043,261000-1,"Dec. 16.","","16","",
+gcc-80943,A,Compositae,,Xeranthemum,,"oleifolium",,"","Cav.",Unresolved,,L,TICA,815930B3-FB3F-4C7C-A9A7-6EB8152B4444,261001-1,"""in Elench. Pl. Hort. Matrit. 40 (1803); cf. Rothm. in Fedde, Repert. xlix. 53(1940).""","","40","1803",
+gcc-52303,A,Compositae,,Xeranthemum,,"orientale",,"","(L.) Mill.",Synonym,,M,TICA,DF931E29-32C2-4CA5-83EE-6101B4B38235,,"","","","1768",gcc-11225
+gcc-99915,A,Compositae,,Xeranthemum,,"ornatum",,"","Cass.",Unresolved,,L,TICA,9EDA4931-EFEB-4642-A6DD-99714E1E0383,261003-1,"in Dict. Sci. Nat. lix. 114.","","lix. 114","",
+gcc-46433,A,Compositae,,Xeranthemum,,"paniculatum",,"","L.",Synonym,,M,TICA,C3A0CF85-E5C3-4E2E-BF44-560FF02E1802,,"Sp. Pl. 859.","","859","",gcc-27736
+gcc-144113,A,Compositae,,Xeranthemum,,"papillosum",,"","(Labill.) Poir.",Unresolved,,L,TICA,A0755967-2859-4B2F-B004-FD61C01FF206,52782-3,"Encyclopedie Methodique. Botanique Suppl. 3 1813","","","1813",gcc-75961
+gcc-36025,A,Compositae,,Xeranthemum,,"pinifolium",,"","Lam.",Synonym,,M,TICA,CED722D2-F3F8-4F83-B418-42CD538C24FA,261005-1,"Encycl. (Lamarck) 3(1): 240","","240","1789",gcc-123587
+gcc-14445,A,Compositae,,Xeranthemum,,"polyfolium",,"","Crantz",Unresolved,,L,TICA,E1979AE5-66D3-4C2A-87D7-1AD13DEE3FB4,261006-1,"Inst. i. 290.","","i. 290","",
+gcc-44597,A,Compositae,,Xeranthemum,,"proliferum",,"","L.",Synonym,,M,TICA,02531F6A-164D-4004-B3AC-529F378B91D6,,"Sp. Pl. 858.","","858","",gcc-2350
+gcc-117406,A,Compositae,,Xeranthemum,,"pungens",,"","Steud.",Unresolved,,L,TICA,536D045D-C30B-4B04-A254-C0980776A79F,261009-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 791""","","791","1841",
+gcc-16092,A,Compositae,,Xeranthemum,,"pungens",,"","Lam.",Synonym,,L,TICA,06A1BB7B-EF68-4A46-BD5E-1DC4244E8042,261008-1,"","","236","1789",gcc-88002
+gcc-96243,A,Compositae,,Xeranthemum,,"radiatum",,"","Lam.",Unresolved,,L,TICA,A878E4B2-6974-4C33-BEE2-9114E285C351,261010-1,"Fl. Fr. ii. 48.","","ii. 48","",
+gcc-4752,A,Compositae,,Xeranthemum,,"radicans",,"","Thunb.",Unresolved,,L,TICA,9816D0DD-5EC1-48E3-97F1-08D6B13AA79C,261011-1,"Prodr. Pl. Cap. 153.","","153","",
+gcc-104790,A,Compositae,,Xeranthemum,,"ramosum",,"","Burm.f.",Unresolved,,L,TICA,7522D1CC-F088-4D05-9754-A435A75DE6A2,,"Fl. Cap. Prod. 26 (Quid ?).","","26","",
+gcc-108569,A,Compositae,,Xeranthemum,,"recurvatum",,"","L.f.",Synonym,,M,TICA,26CEF16F-8894-41EB-9E00-AC95E09055A1,261013-1,"Suppl. Pl. 366","","366","1782",gcc-88382
+gcc-130157,A,Compositae,,Xeranthemum,,"regale",,"","Salisb.",Unresolved,,L,TICA,1CBFDFD0-3AE5-4BA9-B6AF-DDE502E75FB1,261014-1,"Prodr. Stirp. Chap. Allerton 193","","193","1796",
+gcc-45370,A,Compositae,,Xeranthemum,,"retortum",,"","Lour.",Unresolved,,L,TICA,5763A1EA-0892-4DC5-BD35-541457F53325,,"Fl. Cochinch. 498.","","498","",
+gcc-82408,A,Compositae,,Xeranthemum,,"retortum",,"","L.",Synonym,,M,TICA,A2D2BC42-6D51-4C31-84DE-720615C250F2,,"Sp. Pl. 858.","","858","",gcc-100495
+gcc-107893,A,Compositae,,Xeranthemum,,"rigidum",,"","Andrews",Unresolved,,L,TICA,5F0F4819-0A83-461B-BAAA-AB205A833A2F,261017-1,"Bot. Rep. i. 387.","","i. 387","",
+gcc-126041,A,Compositae,,Xeranthemum,,"scorpioides",,"","(Labill.) Poir.",Unresolved,,L,TICA,92AF3768-C4AD-4310-9723-D46F062B071E,52812-3,"Encyclopedie Methodique. Botanique Suppl. 3 1813","","","1813",gcc-111821
+gcc-117414,A,Compositae,,Xeranthemum,,"serpyllifolium",,"","Lam.",Unresolved,,L,TICA,1E255944-FEDC-432C-95D0-C09B08485F2F,261018-1,"Encycl. (Lamarck) 3(1): 238","","238","1789",gcc-106259
+gcc-114309,A,Compositae,,Xeranthemum,,"sesamoides",,"","L.",Synonym,,M,TICA,A0FB4603-D2E1-45ED-B529-B98AA7B83C1E,,"Sp. Pl. 859.","","859","",gcc-37585
+gcc-86323,A,Compositae,,Xeranthemum,,"sesamoides",,"","J.Gay ex Willk. & Lange",Unresolved,,L,TICA,29A3E513-3EA0-42F9-8CED-7AA66F7702EE,261019-1,"Prod. Fl. Hisp. ii. 128.","","ii. 128","",
+gcc-89899,A,Compositae,,Xeranthemum,,"speciosissimum",,"","L.",Synonym,,M,TICA,7C7D0FF7-E7AF-4967-A187-82CA1E756817,,"Sp. Pl. 858.","","858","",gcc-101998
+gcc-27249,A,Compositae,,Xeranthemum,,"speciosum",,"","Thunb.",Unresolved,,L,TICA,F95CE744-9116-47F5-831A-3264DE31E387,261023-1,"Prodr. Pl. Cap. 153.","","153","",
+gcc-92780,A,Compositae,,Xeranthemum,,"speciosum",,"","L'Hér. ex DC.",Unresolved,,L,TICA,5815A00B-7A4E-420F-B97C-895BD5667D99,261022-1,"Prodr. (DC.) 6: 530","","530","1838",
+gcc-117722,A,Compositae,,Xeranthemum,,"spinosum",,"","L.",Synonym,,M,TICA,17C8E7E5-A6C2-4CA2-88B2-C14FD514F8E3,,"Sp. Pl. 859.","","859","",gcc-132787
+gcc-27795,A,Compositae,,Xeranthemum,,"spirale",,"","Andrews",Unresolved,,L,TICA,6FB32965-2858-4021-B86B-335DFFAA8DB3,,"Bot. Reg. t. 262.","","t. 262","",
+gcc-13861,A,Compositae,,Xeranthemum,,"squamosum",,"","Thunb.",Unresolved,,L,TICA,9A3D282E-4FB2-4E54-9A73-19C511C6D322,261026-1,"Prodr. Pl. Cap. 152.","","152","",
+gcc-80359,A,Compositae,,Xeranthemum,,"squamosum",,"","Jacq.",Synonym,,M,TICA,04E68A0B-DF51-46F5-86B6-6D74FDA99E72,,"","","","",gcc-123587
+gcc-102067,A,Compositae,,Xeranthemum,,"squarrosum",,"","Boiss.",Accepted,,M,TICA,C1BA2F72-B294-46C5-AAD9-9E3659CC7DE9,,"","","101","1845",
+gcc-13591,A,Compositae,,Xeranthemum,,"squarrosum",,"","Lam.",Unresolved,,L,TICA,C41B686A-AF19-463B-8301-1948C11CFD2F,261028-1,"Encycl. (Lamarck) 3(1): 241","","241","1789",
+gcc-6143,A,Compositae,,Xeranthemum,,"staehelina",,"","L.",Synonym,,M,TICA,4C6477F0-2717-4A65-930F-0B6B22CDC9B6,,"Syst. ed. XII. 546; Thunb. Prod. Pl. Cap. 153.","","","1767",gcc-103946
+gcc-99001,A,Compositae,,Xeranthemum,,"staehelina",,"","DC.",Unresolved,,L,TICA,9E46DB0A-D1D0-4FDA-8F49-97643BD996BE,261029-1,"""Prodr. (DC.) 6: 212, sphalm.""","","212","1838",
+gcc-36169,A,Compositae,,Xeranthemum,,"stoloniferum",,"","L.f.",Synonym,,M,TICA,E891CECE-841E-4148-887F-4310C63F2D00,261031-1,"Suppl. Pl. 366","","366","1782",gcc-97313
+gcc-79126,A,Compositae,,Xeranthemum,,"striatum",,"","Thunb.",Synonym,,M,TICA,440F435D-BF4B-4A2D-8880-6AC5A816276E,261032-1,"Prodr. Pl. Cap. 152.","","152","",gcc-104701
+gcc-114267,A,Compositae,,Xeranthemum,,"tenuifolium",,"","Burm.f.",Unresolved,,L,TICA,9729319A-09AE-4A19-AEBA-B97396F2D070,,"Fl. Cap. Prod. 26.","","26","",
+gcc-107860,A,Compositae,,Xeranthemum,,"variegatum",,"","P.J.Bergius",Synonym,,M,TICA,955A11C0-6521-4712-8AE2-AB0FB8C466EF,261034-1,"Descr. Pl. Cap. 271. 1767","","271","1767",gcc-28165
+gcc-95256,A,Compositae,,Xeranthemum,,"vermiculatum",,"","Lam.",Unresolved,,L,TICA,6D8959BC-E89E-431E-AA93-8EE5A3584596,261035-1,"Encycl. (Lamarck) 3(1): 240","","240","1789",
+gcc-1387,A,Compositae,,Xeranthemum,,"vestitum",,"","Steud.",Unresolved,,L,TICA,4AFC137A-D4A7-48B2-87B7-027D3B6E42C4,261037-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 791""","","791","1841",
+gcc-42223,A,Compositae,,Xeranthemum,,"vestitum",,"","L.",Synonym,,M,TICA,E7784234-225A-49FD-8426-4E3B5F9303AD,,"Sp. Pl. 858.","","858","",gcc-13053
+gcc-137667,A,Compositae,,Xeranthemum,,"virgatum",,"","P.J.Bergius",Synonym,,M,TICA,2CE10A29-9DC3-435B-A1CD-EEF5EA775CA5,261038-1,"Descr. Pl. Cap. 275. 1767","","275","1767",gcc-88263

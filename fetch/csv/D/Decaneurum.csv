@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-89405,A,Compositae,,Decaneurum,,"amygdalinum",,"","DC.",Synonym,,M,TICA,DD738FE9-882C-4348-8495-81A017002E68,201082-1,"","","68","1836",gcc-2949
+gcc-50178,A,Compositae,,Decaneurum,,"angustifolium",,"","Hook.f. & Thomson ex C.B.Clarke",Synonym,,M,TICA,EE4AA7DC-1CEC-430B-A63E-5D03EF5CB20C,201083-1,"","","3","1876",gcc-24073
+gcc-143628,A,Compositae,,Decaneurum,,"courtallense",,"","Wight",Synonym,,M,TICA,90BC025B-77E1-4FA6-A248-FC4EF833A52E,,"","","","1846",gcc-24073
+gcc-6498,A,Compositae,,Decaneurum,,"dendigulense",,"","DC.",Synonym,,M,TICA,FC567DC8-247B-473E-9ED7-0C16FC7D8FF0,51023238-1,"","","7","1834",gcc-118349
+gcc-6526,A,Compositae,,Decaneurum,,"divergens",,"","(Roxb.) DC.",Accepted,,M,TICA,D32F4C9F-4D11-4E48-BFE3-0C1F3B2D2425,201086-1,"","","8","1834",
+gcc-1765,A,Compositae,,Decaneurum,,"epilejum",,"","DC.",Synonym,,M,TICA,17031F89-15BE-4CF7-8485-032EAEC7B9B3,201087-1,"","","7","1834",gcc-24073
+gcc-25228,A,Compositae,,Decaneurum,,"fimbrilliferum",,"","(Less.) DC.",Synonym,,M,TICA,DA7663F8-164C-40DF-A455-2E94B9A001B4,201088-1,"","","68","1836",gcc-8361
+gcc-7946,A,Compositae,,Decaneurum,,"frutescens",,"","DC.",Synonym,,M,TICA,EF70B416-E4B7-45CF-8696-0EC7DAC27CE2,201089-1,"Prodr. 5","","66","1836",gcc-138731
+gcc-152121,A,Compositae,,Decaneurum,,"frutescens",var.,"frutescens","",Synonym,,L,TICA,90535141-EE4B-4A47-B33A-92FD431DF9F6,,"","","","",gcc-138731
+gcc-145403,A,Compositae,,Decaneurum,,"frutescens",var.,"javanicum","(Miq.) Koster",Synonym,,L,TICA,7A6182D3-D4FF-48D6-A5E2-037AE42A6E53,,"Blumea 1: 379. 1935.","","379","1935",gcc-153106
+gcc-132290,A,Compositae,,Decaneurum,,"glabrum",,"","DC.",Synonym,,M,TICA,5AC97623-FECA-4EC6-AD87-E2E3640D7D42,201090-1,"","","67","1836",gcc-137164
+gcc-114857,A,Compositae,,Decaneurum,,"grande",,"","DC.",Synonym,,M,TICA,60B31919-4589-443E-8C47-BAD44CD33AF6,201091-1,"","","67","1836",gcc-153771
+gcc-21601,A,Compositae,,Decaneurum,,"javanicum",,"","Miq.",Synonym,,L,TICA,76DA58B2-5573-4B7C-820E-27ED21680BB4,,"Fl. Ned. Ind. 2","","20","1856",gcc-153106
+gcc-13794,A,Compositae,,Decaneurum,,"lilacinum",,"","Dalzell & A.Gibson",Synonym,,M,TICA,AE02EEA4-ACF2-48E7-99B5-19A48FB7DCB4,201093-1,"","","314","1861",gcc-94545
+gcc-104627,A,Compositae,,Decaneurum,,"microcephalum",,"","Dalzell",Synonym,,M,TICA,F87ABCA1-3019-48CD-9150-A3E227B19F4B,201094-1,"Hooker's J. Bot. Kew Gard. Misc. 3","","231","1851",gcc-108295
+gcc-154172,A,Compositae,,Decaneurum,,"molle",,"","dc",Synonym,,M,TICA,E0AD13F8-FFEB-4ABF-B46B-BDF9E61B39FD,,"Prodr. 5: 66. 1836.","","66","1836",gcc-24073
+gcc-45591,A,Compositae,,Decaneurum,,"molle",,"","(Wall.) DC.",Synonym,,M,TICA,AEA39CDB-D489-48CF-9BAE-548175E86C69,,"","","","",gcc-24073
+gcc-152691,A,Compositae,,Decaneurum,,"nummulariaefolium",,"","Klatt",Synonym,,M,TICA,837F0563-464A-4A3F-9657-9EDBF2E560A8,,"Ann. Sc. Nat. 5e sér. Bot. 18: 363. 1873","","363","1873",gcc-152730
+gcc-98388,A,Compositae,,Decaneurum,,"nummulariifolium",,"","Klatt",Synonym,,M,TICA,816F41D5-6752-4F0F-B9A4-95FDABCD6608,,"","","363","1873",gcc-105218
+gcc-98863,A,Compositae,,Decaneurum,,"obovatum",,"","(Gaudich.) DC.",Synonym,,M,TICA,A846D929-7C11-41ED-AA20-970D063872A2,201098-1,"Prodr. 5","","67","1836",gcc-148312
+gcc-21767,A,Compositae,,Decaneurum,,"phyllolaenum",,"","DC.",Synonym,,M,TICA,37AFEF15-44A6-4656-BCC5-2848B7846C09,201099-1,"Prodr. (DC.) 7(1): 264. 1839","","264","1838",gcc-24073
+gcc-80501,A,Compositae,,Decaneurum,,"platylepis",,"","Boivin ex Drake",Synonym,,M,TICA,47E30CB7-5DDC-4674-8F15-6DB79DE1CB75,,"Bull. Soc. Bot. France 46","","236","",gcc-155663
+gcc-81241,A,Compositae,,Decaneurum,,"reticulatum",,"","DC.",Unresolved,,L,TICA,C903DF14-033C-4133-B56D-6F5C47F64194,201101-1,"Contributions to the Botany of India 7:","","","1834",gcc-92876
+gcc-154953,A,Compositae,,Decaneurum,,"scabridum",,"","DC.",Synonym,,M,TICA,F1F167E8-324D-478E-A0BE-CE2C134AFB1C,201102-1,"","","7","1834",gcc-24073
+gcc-119310,A,Compositae,,Decaneurum,,"scariosum",,"","DC.",Synonym,,M,TICA,ECD82D09-74D1-4A5A-9990-C4E1D03A8AD2,201103-1,"","","264","1838",gcc-120280
+gcc-36395,A,Compositae,,Decaneurum,,"senegalense",,"","(Pers.) DC.",Synonym,,M,TICA,1A3D7768-7166-41B2-B8B4-4384A943F143,201104-1,"","","68","1836",gcc-153771
+gcc-115619,A,Compositae,,Decaneurum,,"serotinum",,"","(L.) Sch.Bip.",Synonym,,M,TICA,4FAB247D-CA8C-47DC-85B0-BC9BFA28D078,201105-1,"","","45","1844",gcc-130838
+gcc-27322,A,Compositae,,Decaneurum,,"silhetense",,"","Wight",Synonym,,M,TICA,A3DBA7E0-CB94-4B19-B0B9-3289E3271658,201106-1,"","","t. 1083","1846",gcc-154667
+gcc-52494,A,Compositae,,Decaneurum,,"silhetense",,"","DC.",Synonym,,M,TICA,728B9C42-2EDF-47A0-AC9B-614D869A6E49,201107-1,"","","67","1836",gcc-137164

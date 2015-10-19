@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-130132,A,Compositae,,Corethrogyne,,"brevicula",,"","Greene",Synonym,,M,TICA,70FF9C8F-A1CA-4358-9957-DDD4CA94EEBA,65955-2,"Leafl. Bot. Observ. Crit. 2","","26","1910",gcc-111977
+gcc-117697,A,Compositae,,Corethrogyne,,"caespitosa",,"","Greene",Synonym,,M,TICA,CEFD79B9-D99E-4F67-BD8E-C13E456C196E,65956-2,"Fl. Francisc.","","378","1897",gcc-111977
+gcc-142893,A,Compositae,,Corethrogyne,,"californica",,"","Greene",Accepted,,M,TICA,057B33CE-B51C-4A13-B72D-FAAEF035C90C,294906-2,"","","","",
+gcc-52095,A,Compositae,,Corethrogyne,,"californica",,"","DC.",Synonym,Illegitimate,M,TICA,DD9F4EE8-F2C0-4F64-9321-60A12BFC0CE4,309029-2,"Prodr. (DC.) 5: 215","","215","1836",gcc-111977
+gcc-157315,A,Compositae,,Corethrogyne,,"californica",var.,"californica","",Synonym,,L,TICA,8CEE2561-30BB-44FE-B0F8-FF5B393B823D,,"","","","",gcc-142893
+gcc-18523,A,Compositae,,Corethrogyne,,"californica",var.,"californica","",Synonym,,L,TICA,22202552-02A0-4779-9462-22359BA25F7E,,"","","","",gcc-111977
+gcc-71179,A,Compositae,,Corethrogyne,,"californica",var.,"filaginifolia","(Hook. & Arn.) Kuntze",Synonym,,L,TICA,92301E98-D285-47C8-B2FE-F42B3E635A6A,65957-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-28771,A,Compositae,,Corethrogyne,,"californica",var.,"incana","(Lindl.) Kuntze",Synonym,,L,TICA,E0789EB6-8376-46DD-A487-3531F81E4616,65958-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-46230,A,Compositae,,Corethrogyne,,"californica",var.,"leucophylla","(Lindl. ex DC.) Kuntze",Synonym,,L,TICA,8914521E-FE8D-45D9-A4C6-55B013AC2E9A,65959-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-3470,A,Compositae,,Corethrogyne,,"californica",var.,"lyonii","S.F.Blake",Synonym,,L,TICA,FD8A0031-117B-46ED-8B3C-0661096CA934,65960-2,"J. Wash. Acad. Sci. 33","","267","1943",gcc-111977
+gcc-11045,A,Compositae,,Corethrogyne,,"californica",var.,"obovata","(Benth.) Kuntze",Synonym,,L,TICA,E41D521F-D6F4-40DD-94C7-14A61A8B5659,65961-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-69216,A,Compositae,,Corethrogyne,,"californica",var.,"recurva","Kuntze",Synonym,,L,TICA,5463C8B7-77A2-417A-B3B4-E4C52800F886,65962-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-60003,A,Compositae,,Corethrogyne,,"californica",var.,"rigida","(Benth.) Kuntze",Synonym,,L,TICA,2AB5DE96-55B7-429B-A1A1-9AF70E709869,1207355-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-67225,A,Compositae,,Corethrogyne,,"californica",var.,"spathulata","(A.Gray) Kuntze",Synonym,,L,TICA,3AA0803E-923D-464C-A164-D56D9FB86EEC,,"Revis. Gen. Pl. 1: 330 (1891)","","330","1891",gcc-111977
+gcc-55822,A,Compositae,,Corethrogyne,,"californica",var.,"tomentella","(Hook. & Arn.) Kuntze",Synonym,,L,TICA,06CE21DD-156A-4EDB-823E-7937CA5EFBB9,65963-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-64907,A,Compositae,,Corethrogyne,,"californica",var.,"virgata","(Benth.) Kuntze",Synonym,,L,TICA,A02A93FD-0624-4957-9B05-C220C07D800E,65964-2,"Revis. Gen. Pl. 1","","330","1891",gcc-111977
+gcc-134846,A,Compositae,,Corethrogyne,,"cana",,"","(A.Gray) Greene",Synonym,,M,TICA,443B4582-58C1-49A6-BF0F-E8ABF9FDA633,,"Bull. Calif. Acad.","","223","",gcc-123152
+gcc-11,A,Compositae,,Corethrogyne,,"detonsa",,"","Greene",Synonym,,M,TICA,0828C6C6-41B7-401C-A99B-000503503D42,65965-2,"Bull. Torrey Bot. Club 10","","41","1883",gcc-139007
+gcc-111977,A,Compositae,,Corethrogyne,,"filaginifolia",,"","(Hook. & Arn.) Nutt.",Accepted,,M,TICA,FBA7AAEA-E9BB-438F-8DB4-B45B136A1521,,"","","290","1840",
+gcc-16133,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"bernardina","(Abrams) H.M.Hall",Synonym,,L,TICA,690B457F-BC8C-446F-BB78-1DDA50498506,65967-2,"Univ. Calif. Publ. Bot. 3","","71","1907",gcc-111977
+gcc-65699,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"brevicula","(Greene) Canby",Synonym,,L,TICA,3B3E6A22-355A-4F7E-99DA-C8DE6671EFF2,,"Bull. S. Calif. Acad. Sci. 26","","12","1927",gcc-111977
+gcc-8671,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"californica","(DC.) Saroyan",Synonym,,L,TICA,4B2736EA-8E01-419B-AF80-102FB686FBF6,1012927-2,"Madroño 47(2)","","95","2001",gcc-111977
+gcc-5205,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"filaginifolia","",Synonym,,L,TICA,4D5EEBF3-274A-4839-87A0-09B922FFCD1C,,"","","","",gcc-111977
+gcc-44701,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"glomerata","H.M.Hall",Synonym,,L,TICA,7134E0A9-8933-4BA5-8B9D-52CEB95762C9,65969-2,"Univ. Calif. Publ. Bot. 3","","72","1907",gcc-111977
+gcc-72238,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"hamiltonensis","D.D.Keck",Synonym,,L,TICA,E0B4944A-AE05-4E8E-ABA0-FC79A4FA7F8D,65970-2,"Aliso 4","","105","1958",gcc-111977
+gcc-17977,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"incana","(Lindl.) M.L.Canby",Unresolved,,L,TICA,39CF68C7-9B88-4CE3-86B0-21393FC1DEA4,65971-2,"Bull. S. Calif. Acad. Sci. 26","","14","1927",gcc-111977
+gcc-57242,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"incana","(Nutt.) Canby",Synonym,,L,TICA,6BA52098-683E-4CD9-8CB6-84D85D954DAC,,"","","","",gcc-111977
+gcc-7959,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"latifolia","H.M.Hall",Synonym,,L,TICA,DAEF0A54-BD92-4B34-A2DD-0ECEFD5C8A28,65972-2,"Univ. Calif. Publ. Bot. 3","","70","1907",gcc-111977
+gcc-46346,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"linifolia","H.M.Hall",Synonym,,L,TICA,950DB1EE-9FD3-4503-A686-55E6120521A4,65973-2,"Univ. Calif. Publ. Bot. 3","","71","1907",gcc-111977
+gcc-54529,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"pacifica","H.M.Hall",Synonym,,L,TICA,30723367-FD4C-4413-9053-6EE24752E669,65974-2,"Univ. Calif. Publ. Bot. 3","","73","1907",gcc-111977
+gcc-55399,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"peirsonii","Canby",Synonym,,L,TICA,765CB85A-8F66-49A0-AF19-75B6259ECB9F,,"Bull. S. Calif. Acad. Sci. 26","","14","1927",gcc-111977
+gcc-22965,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"pinetorum","I.M.Johnst.",Synonym,,L,TICA,43F948CF-1F7A-4170-9137-2A8371FF6D56,65976-2,"Bull. S. Calif. Acad. Sci. 18","","21","1919",gcc-111977
+gcc-52901,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"rigida","(Benth.) A.Gray",Synonym,,L,TICA,5B859E24-3C06-4D12-8876-621CC13557FB,1167512-2,"","","170","1884",gcc-111977
+gcc-44694,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"robusta","Greene",Synonym,,L,TICA,006C135F-3D6F-444B-A460-52CCEAF8499E,65977-2,"Pittonia 1","","89","1887",gcc-111977
+gcc-56695,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"sessilis","(Greene) Canby",Synonym,,L,TICA,2737739E-8FF9-468B-A8B9-8082F0CFDEA7,,"Bull. S. Calif. Acad. Sci. 26","","15","1927",gcc-111977
+gcc-57966,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"virgata","(Benth.) A.Gray",Synonym,,L,TICA,1A0BD216-9F91-41EE-B6A7-8AC9447C36C6,65980-2,"Bot. California 1","","321","1876",gcc-111977
+gcc-59364,A,Compositae,,Corethrogyne,,"filaginifolia",var.,"viscidula","(Greene) D.D.Keck",Synonym,,L,TICA,65BF76BE-23F1-4A1E-8B3C-95E0E3053FF5,65981-2,"Aliso 4","","105","1958",gcc-111977
+gcc-35654,A,Compositae,,Corethrogyne,,"flagellaris",,"","Greene",Synonym,,M,TICA,118C9D10-57FA-4189-9CB4-422017EAA2D4,65982-2,"Leafl. Bot. Observ. Crit. 2","","26","1910",gcc-111977
+gcc-116257,A,Compositae,,Corethrogyne,,"floccosa",,"","Greene",Synonym,,M,TICA,19A5DD96-E684-409E-B028-BE0379002B99,65983-2,"Leafl. Bot. Observ. Crit. 2","","25","1910",gcc-111977
+gcc-110275,A,Compositae,,Corethrogyne,,"incana",,"","(Lindl.) Nutt.",Synonym,,M,TICA,14EBDA9D-479A-4F3C-8292-B08015FD7167,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 290""","","290","1840",gcc-111977
+gcc-145565,A,Compositae,,Corethrogyne,,"incana",var.,"incana","",Synonym,,L,TICA,8B53C4F8-0DBC-4354-A280-06A968C1BA31,,"","","","",gcc-111977
+gcc-62287,A,Compositae,,Corethrogyne,,"incana",var.,"rigida","Benth.",Synonym,,L,TICA,DB8BDEB3-BEA0-41E3-8136-AD73D7E8A77A,320939-2,"","","316","1849",gcc-111977
+gcc-133858,A,Compositae,,Corethrogyne,,"lavandulacea",,"","Greene",Synonym,,M,TICA,0383AB9A-9439-424F-9ED6-E671CF02ADB5,65985-2,"Leafl. Bot. Observ. Crit. 2","","27","1910",gcc-111977
+gcc-105175,A,Compositae,,Corethrogyne,,"leucophylla",,"","(Lindl. ex DC.) Menzies ex Jeps.",Synonym,,M,TICA,3644AE8E-486C-4F4F-AF54-A50EA4C7FCAB,65987-2,"Man. Fl. Pl. Calif.","","1042","1925",gcc-111977
+gcc-115564,A,Compositae,,Corethrogyne,,"leucophylla",,"","(Lindl. ex DC.) M.L.Canby",Unresolved,,L,TICA,AF5728D9-FADE-4F88-BF7E-BC7663CF2D25,65986-2,"Bull. S. Calif. Acad. Sci. 26: 8. 1927","","8","1927",
+gcc-140470,A,Compositae,,Corethrogyne,,"linifolia",,"","(H.M.Hall) Ferris",Synonym,,M,TICA,AD791FEA-A44E-4E9D-B1BE-F51B13D65614,65988-2,"Contr. Dudley Herb. 5","","100","1958",gcc-111977
+gcc-138735,A,Compositae,,Corethrogyne,,"obovata",,"","Benth.",Synonym,,M,TICA,0B6481AB-3632-400F-A5EB-F1433EE639C9,65989-2,"Bot. Voy. Sulphur","","22","1844",gcc-111977
+gcc-33664,A,Compositae,,Corethrogyne,,"obovata",,"","A.Gray",Unresolved,,L,TICA,7B78F565-546F-4DC0-B004-3E691BF7DBF2,65990-2,"","","","",
+gcc-127649,A,Compositae,,Corethrogyne,,"racemosa",,"","Greene",Synonym,,M,TICA,4688DF5B-9AE3-4C66-83E3-D8256935A67B,65991-2,"Leafl. Bot. Observ. Crit. 2","","26","1910",gcc-111977
+gcc-88351,A,Compositae,,Corethrogyne,,"rigida",,"","(Benth.) A.Heller",Synonym,,M,TICA,4AC5B397-BD15-48AA-A2FA-7F3FFB1A2084,65992-2,"Muhlenbergia 2","","256","1906",gcc-111977
+gcc-43739,A,Compositae,,Corethrogyne,,"scabra",,"","Greene",Synonym,,M,TICA,E8747AC6-27BE-4574-A9B4-510C120EC58F,65993-2,"Leafl. Bot. Observ. Crit. 2","","25","1910",gcc-111977
+gcc-118915,A,Compositae,,Corethrogyne,,"sessilis",,"","Greene",Synonym,,M,TICA,DAF345A1-E577-4CC1-A2D2-C41682D36582,65994-2,"Leafl. Bot. Observ. Crit. 2","","25","1910",gcc-111977
+gcc-105331,A,Compositae,,Corethrogyne,,"spathulata",,"","A.Gray",Synonym,,M,TICA,1B00FF2E-97F0-498C-88E5-A55CCEDA919F,320941-2,"Proc. Amer. Acad. Arts 7","","351","1868",gcc-111977
+gcc-16352,A,Compositae,,Corethrogyne,,"tomentella",,"","(Hook. & Arn.) Torr. & A.Gray",Synonym,,M,TICA,A7AD12FB-D32E-4EDF-9F59-1E3BC022616C,1168227-2,"Fl. N. Amer. (Torr. & A. Gray) 2","","99","1841",gcc-111977
+gcc-23564,A,Compositae,,Corethrogyne,,"virgata",,"","Benth.",Synonym,,M,TICA,738AFA10-FDB2-4DFF-BE43-2B92C8C966C4,320938-2,"Bot. Voy. Sulphur","","23","1844",gcc-111977
+gcc-67312,A,Compositae,,Corethrogyne,,"virgata",var.,"bernardina","Abrams",Synonym,,L,TICA,A04F7BDE-85B6-4CF7-AEB3-D6327CF76970,65996-2,"","","401","1904",gcc-111977
+gcc-60707,A,Compositae,,Corethrogyne,,"virgata",var.,"virgata","",Synonym,,L,TICA,DB9DEC5B-056D-4C80-94CC-A06E9AA35CAD,,"","","","",gcc-111977
+gcc-90340,A,Compositae,,Corethrogyne,,"viscidula",,"","Greene",Synonym,,M,TICA,533D3A77-3E00-4CE0-A926-83BCEEA2342F,65997-2,"Fl. Francisc.","","378","1897",gcc-111977
+gcc-4654,A,Compositae,,Corethrogyne,,"viscidula",var.,"greenei","Jeps.",Synonym,,L,TICA,3B6878A1-6A65-4863-8DA9-08A8E7A1FDC7,65998-2,"","","564","1901",gcc-111977
+gcc-146487,A,Compositae,,Corethrogyne,,"viscidula",var.,"viscidula","",Synonym,,L,TICA,E7D6CBFE-A323-4A74-83B4-197E25D844F1,,"","","","",gcc-111977

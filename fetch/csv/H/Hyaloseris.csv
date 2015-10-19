@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-30020,A,Compositae,,Hyaloseris,,"andrade-limae",,"","Cristóbal & Cabrera",Accepted,,M,TICA,D67D559E-7907-417C-9F67-378D1A513F1A,124886-2,"Hickenia 1(48)","","255","1982",
+gcc-156345,A,Compositae,,Hyaloseris,,"boliviensis",,"","J. Koster",Synonym,,M,TICA,5EC6D072-D74F-42C8-890F-EB2D8223C3ED,,"","","","",gcc-88134
+gcc-641,A,Compositae,,Hyaloseris,,"boliviensis",,"","J.Kost.",Unresolved,,L,TICA,55DC8093-7FF4-48BC-98C5-01385E5CC7EC,,"","","","1945",
+gcc-7050,A,Compositae,,Hyaloseris,,"camataquiensis",,"","Hieron. ex Fiebrig",Accepted,,M,TICA,4FFD8885-0F42-494B-9CA0-0D1D968BD586,225137-1,"""Bot. Jahrb. Syst. xlv. 43 (1910), in obs., sphalm. catamaquiensis; videKoster in Blumea, v. 667 (1945), cum descr. ampl.""","","""xlv. 43 , in obs., sphalm. catamaquiensis""","1910",
+gcc-51824,A,Compositae,,Hyaloseris,,"catamaquiensis",,"","Hieron. ex Fiebrig",Unresolved,,L,TICA,A70A7962-B08B-4985-8D28-601B0A7DF847,124888-2,"","","43","1910",
+gcc-8163,A,Compositae,,Hyaloseris,,"catamaquiensis",,"","Kosterm.",Accepted,,M,TICA,96054226-32AA-4D22-BA94-0F30B9A8FE16,,"Blumea 5(3): 667 (1945)","","667","1945",
+gcc-76128,A,Compositae,,Hyaloseris,,"cinerea",,"","(Griseb.) Griseb.",Accepted,,L,TICA,D30C8B5C-21BC-4473-A250-63F8DDCB0239,,"in Goett. Abh. xxiv. (1879) 213.","","","1879",
+gcc-57615,A,Compositae,,Hyaloseris,,"cinerea",var.,"cinerea","",Synonym,,L,TICA,B6A71C60-AFF7-4C2C-A802-87BFB32B6151,,"Abh. Königl. Ges. Wiss. Göttingen 24: 213 (1879)","","213","1879",gcc-76128
+gcc-89442,A,Compositae,,Hyaloseris,,"longicephala",,"","B.L.Turner",Accepted,,M,TICA,63A0834E-F7F8-44DF-87F1-81B8D44E8A1C,278472-2,"","","317","1986",
+gcc-149979,A,Compositae,,Hyaloseris,,"quadriflora",,"","J. Koster",Accepted,,M,TICA,BA92F8B1-AFFF-48A5-9CDB-6468ACBA83B9,,"","","","",
+gcc-96637,A,Compositae,,Hyaloseris,,"quadriflora",,"","J.Kost.",Unresolved,,L,TICA,6A5011AD-EC1E-424F-AFF8-920ACA867EE0,,"Blumea v. 667 (1945).","","","1945",
+gcc-114447,A,Compositae,,Hyaloseris,,"rubicunda",,"","Griseb.",Accepted,,M,TICA,A964F0A7-8B34-4ED2-B63D-B9E03B1AE620,,"in Goett. Abh. xxiv. (1879) 212.","","213","1879",
+gcc-143786,A,Compositae,,Hyaloseris,,"salicifolia",,"","(Griseb.) Hieron.",Synonym,,M,TICA,23D6FDD4-C89F-4B9A-9787-FCA8701565FC,,"Ic. Pl. Argent. 35.","","","",gcc-88134
+gcc-93259,A,Compositae,,Hyaloseris,,"tomentella",,"","(Griseb.) Hieron.",Synonym,,L,TICA,AC8776EC-ED6C-4075-B917-8A59A8A9EDA9,225143-1,"Ic. Pl. Argent. 38.","","38","",gcc-76128

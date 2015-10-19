@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-29957,A,Compositae,,Dolomiaea,,"baltalensis",,"","Dar & Naqshi",Accepted,,M,TICA,9E66109B-C835-46A8-9CF0-3765AC0031B3,,"","","278","1990",
+gcc-43729,A,Compositae,,Dolomiaea,,"berardioidea",,"","(Franch.) C.Shih",Accepted,,M,TICA,530C7D9C-692F-4D89-A00E-510597A82974,943075-1,"","","294","1986",
+gcc-80061,A,Compositae,,Dolomiaea,,"calophylla",,"","Ling",Accepted,,M,TICA,79829985-D36C-4F43-879E-6CC6459D7ADB,,"","","","1965",
+gcc-81606,A,Compositae,,Dolomiaea,,"cooperi",,"","(Anthony) Ling",Synonym,,M,TICA,61DF46AF-9F76-4C8B-AE77-7034267D57C6,201920-1,"","","87","1965",gcc-19933
+gcc-78057,A,Compositae,,Dolomiaea,,"crispoundulata",,"","(C.C.Chang) Ling",Accepted,,M,TICA,826DB965-5925-4665-868B-683DF05B5712,,"","","89","1965",
+tro-50045037,A,Compositae,,Dolomiaea,,"crispoundulata",var.,"chienii","Y. Ling",Synonym,,L,TRO,50045037,,"Acta Phytotax. Sin.","10(1): 89","89","1965",gcc-78057
+gcc-67430,A,Compositae,,Dolomiaea,,"crispoundulata",var.,"cienii","Ling",Synonym,,L,TICA,801502BF-9333-44BF-AE95-D718D7DE96C1,,"Acta Phytotax. Sin. 10: 89 (1965)","","89","1965",gcc-78057
+gcc-151279,A,Compositae,,Dolomiaea,,"crispoundulata",var.,"crispoundulata","",Synonym,,L,TICA,A9133E8C-E7A9-42E6-9F48-8136F7939DF1,,"","","","",gcc-78057
+gcc-22458,A,Compositae,,Dolomiaea,,"denticulata",,"","(Ling) C.Shih",Accepted,,M,TICA,A5CF8534-0286-4DA3-BF3F-298D9522A47B,943058-1,"","","293","1986",
+gcc-135375,A,Compositae,,Dolomiaea,,"edulis",,"","(Franch.) C.Shih",Accepted,,M,TICA,41F14E87-AC55-410F-979E-E9E6438D0E14,943063-1,"","","294","1986",
+gcc-125307,A,Compositae,,Dolomiaea,,"forrestii",,"","(Diels) C.Shih",Accepted,,M,TICA,A17F3BF1-5E0C-4486-ADBC-D2BE12DD42E4,943059-1,"","","293","1986",
+gcc-36508,A,Compositae,,Dolomiaea,,"georgii",,"","(J.Anthony) C.Shih",Accepted,,M,TICA,2889D072-6AA9-43F8-B2C2-43B4FF3EE8CA,,"","","294","1986",
+gcc-130764,A,Compositae,,Dolomiaea,,"lateritia",,"","C.Shih",Accepted,,M,TICA,539F6117-6809-4C07-960F-DF5461819050,,"","","","1994",
+gcc-149494,A,Compositae,,Dolomiaea,,"macrocephala",,"","Royle",Synonym,,M,TICA,6C2B8E4B-ED91-44E8-B573-59F16ADADE4D,,"""Ill. Bot. Himal. Mts. 1: 251, t. 57. 1836""","","""251, t. 57.""","1836",gcc-127251
+gcc-47468,A,Compositae,,Dolomiaea,,"macrocephala",,"","DC.",Accepted,,L,TICA,B1F81548-B431-4BBF-9984-57F24DD238A2,,"","","","1833",
+gcc-129070,A,Compositae,,Dolomiaea,,"platylepis",,"","(Hand.-Mazz.) C.Shih",Accepted,,M,TICA,9C3F67D8-70C1-49FB-ACFB-DB70BDE5C3C8,943065-1,"","","295","1986",
+gcc-105880,A,Compositae,,Dolomiaea,,"salwinensis",,"","(Hand.-Mazz.) C.Shih",Accepted,,M,TICA,B674DB5C-1746-476C-A14C-A68FE0820855,943064-1,"","","295","1986",
+gcc-22636,A,Compositae,,Dolomiaea,,"saussureoides",,"","(Hand.-Mazz.) Y.L.Chen & C.Shih",Synonym,,M,TICA,A7CFDA40-6D97-4D13-AF45-29E58AB4655E,60437426-2,"Geol. Ecol. Studies Qinghai-Xizang Plateau 2","","1314","1981",gcc-104196
+gcc-127540,A,Compositae,,Dolomiaea,,"scabrida",,"","(C.Shih & S.Y.Jin) C.Shih",Accepted,,M,TICA,4E13BC79-6D7B-4437-AC3A-D7E08B1DC21F,943060-1,"","","293","1986",
+gcc-94295,A,Compositae,,Dolomiaea,,"souliei",,"","(Franch.) C.Shih",Accepted,,M,TICA,CADD3E54-079C-428B-8E04-8CA955673EEF,943061-1,"","","294","1986",
+gcc-54143,A,Compositae,,Dolomiaea,,"souliei",var.,"mirabilis","(J.Anthony) C.Shih",Accepted,,L,TICA,9AAD0AE2-25E3-4F34-A726-6BB4DED04E61,952729-1,"","","294","1986",
+gcc-55984,A,Compositae,,Dolomiaea,,"souliei",var.,"souliei","",Synonym,,L,TICA,C7FF21A5-F9F3-4D21-8D84-7AB69A911E4D,,"","","","",gcc-94295
+gcc-93252,A,Compositae,,Dolomiaea,,"wardii",,"","(Hand.-Mazz.) Ling",Accepted,,M,TICA,046A4AB4-1119-4232-B86D-8A550421BAD6,201923-1,"","","88","1965",

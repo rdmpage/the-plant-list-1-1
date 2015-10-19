@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-299129,A,Asparagaceae,,Androstephium,,"breviflorum",,"","S.Watson",Accepted,,H,WCSP,299129,530137-1,"Amer. Naturalist","7: 303","","1873",
+kew-299130,A,Asparagaceae,,Androstephium,,"caeruleum",,"","(Scheele) Greene",Accepted,,H,WCSP,299130,,"Pittonia","2: 57","","1890",
+kew-274824,A,Asparagaceae,,Androstephium,,"caeruleum",f.,"leucanthum","Benke",Synonym,,L,WCSP,274824,,"Rhodora","34: 10","","1932",kew-299130
+tro-50004039,A,Asparagaceae,,Androstephium,,"elegans",,"","Schult.",Unresolved,,L,TRO,50004039,,"","","","",
+kew-299131,A,Asparagaceae,,Androstephium,,"violaceum",,"","Torr.",Synonym,,H,WCSP,299131,,"Rep. U.S. Mex. Bound.","2(1): 219","","1858",kew-299130

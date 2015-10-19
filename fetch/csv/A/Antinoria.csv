@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-394087,A,Poaceae,,Antinoria,,"agrostidea",,"","(DC.) Parl.",Accepted,,H,WCSP,394087,389056-1,"Fl. Palerm.","1: 95","","1845",
+kew-394090,A,Poaceae,,Antinoria,,"agrostidea",var.,"algeriensis","Maire",Synonym,,L,WCSP,394090,,"Cat. Maroc.","569","","1929",kew-394087
+kew-394088,A,Poaceae,,Antinoria,,"agrostidea",subsp.,"annua","(Lange) P.Silva",Accepted,,L,WCSP,394088,881463-1,"Agron. Lusit.","40: 5","","1980",
+kew-394091,A,Poaceae,,Antinoria,,"agrostidea",var.,"annua","(Lange) P.C.Silva",Synonym,,L,WCSP,394091,,"Agron. Lusit.","8: 9","","1946",kew-394088
+tro-25506984,A,Poaceae,,Antinoria,,"agrostidea",f.,"annua","(Lange) P. Silva",Synonym,,L,TRO,25506984,,"Agron. Lusit.","8: 9","9","1946",kew-394088
+tro-25506986,A,Poaceae,,Antinoria,,"agrostidea",var.,"insularis","(Parl.) Maire",Synonym,,L,TRO,25506986,,"Bull. Soc. Hist. Nat. Afrique N.","20: 41","41","1929",kew-394092
+kew-394089,A,Poaceae,,Antinoria,,"agrostidea",subsp.,"natans","(Hack.) Rivas Mart.",Accepted,,L,WCSP,394089,,"Anales Inst. Bot. Cavanilles","21: 295","","1963",
+tro-25506987,A,Poaceae,,Antinoria,,"agrostidea",var.,"natans","(Hack.) K. Richt.",Synonym,,L,TRO,25506987,,"Pl. Eur.","1: 54","54","1890",kew-394089
+kew-394092,A,Poaceae,,Antinoria,,"insularis",,"","Parl.",Accepted,,H,WCSP,394092,389057-1,"Fl. Palerm.","1: 92","","1845",
+kew-394093,A,Poaceae,,Antinoria,,"natans",,"","(Hack.) Lojac.",Synonym,,H,WCSP,394093,389058-1,"Fl. Sicul.","3: 294","","1909",kew-394089

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-129692,A,Araceae,,Montrichardia,,"aculeatum",,"","(G.Mey.) Crueg.",Synonym,,H,WCSP,129692,87561-1,"Bot. Zeitung (Berlin)","12: 25","","1854",kew-129694
+kew-129693,A,Araceae,,Montrichardia,,"arborea",,"","(Kunth) Schott",Synonym,,H,WCSP,129693,87562-1,"Syn. Aroid.","72","","1856",kew-129694
+kew-129694,A,Araceae,,Montrichardia,,"arborescens",,"","(L.) Schott",Accepted,,H,WCSP,129694,,"Arac. Betreff.","1: 4","","1854",
+kew-129695,A,Araceae,,Montrichardia,,"arborescens",var.,"aculeata","(G.Mey.) Engl.",Synonym,,L,WCSP,129695,164170-2,"Fl. Bras.","3(2): 127","","1878",kew-129694
+kew-129696,A,Araceae,,Montrichardia,,"fendleri",,"","Schott",Synonym,,H,WCSP,129696,87564-1,"Gen. Aroid.","t. 49","","1858",kew-129694
+kew-129697,A,Araceae,,Montrichardia,,"linifera",,"","(Arruda) Schott",Accepted,,H,WCSP,129697,,"Arac. Betreff.","1: 5","","1854",
+kew-129698,A,Araceae,,Montrichardia,,"splitgerberi",,"","Schott",Synonym,,H,WCSP,129698,87566-1,"Bonplandia (Hannover)","7: 29","","1859",kew-129694

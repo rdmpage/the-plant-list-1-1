@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28794,A,Compositae,,Pachystegia,,"insignis",,"","(Hook.f.) Cheeseman",Accepted,,M,TICA,8A7C37F4-40E4-47BD-B93C-353D262D4F92,236333-1,"","","","1925",
+gcc-151817,A,Compositae,,Pachystegia,,"insignis",var.,"insignis","",Synonym,,L,TICA,11E3FFD6-3716-4C8D-B685-8CD2C3734E92,,"","","","",gcc-28794
+gcc-52932,A,Compositae,,Pachystegia,,"insignis",var.,"minor","Cheeseman",Synonym,,L,TICA,C8DA431E-EAAB-4887-B540-62302BB95A37,,"""Cheeseman, T. F. 1925: Manual of the New Zealand Flora.2 ed.  Wellington, N.Z., ""","","911","1925",gcc-14086
+gcc-14086,A,Compositae,,Pachystegia,,"minor",,"","(Cheeseman) Molloy",Accepted,,M,TICA,E2115215-57AB-4730-8298-1A2183CD7C8C,,"","","144","1987",
+gcc-36367,A,Compositae,,Pachystegia,,"rufa",,"","Molloy",Accepted,,M,TICA,3D2F3136-F842-4A7B-8C52-4375C6AEC04B,,"","","","1987",

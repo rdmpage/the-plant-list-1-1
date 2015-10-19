@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-28032,A,Lamiaceae,,Burchardia,,"americana",,"","(L.) Duhamel",Synonym,,H,WCSP,28032,,"Traité Arb. Arbust.","1: 111","","1755",kew-30660
+kew-28033,A,Myrtaceae,,Burchardia,,"aromatica",,"","(Aubl.) Raf.",Synonym,,H,WCSP,28033,,"Sylva Tellur.","106","","1828",kew-33119
+kew-301497,A,Colchicaceae,,Burchardia,,"bairdiae",,"","Keighery",Accepted,,H,WCSP,301497,932549-1,"in Fl. Australia","45: 470","","1987",
+kew-28034,A,Lamiaceae,,Burchardia,,"callicarpa",,"","Crantz",Synonym,,H,WCSP,28034,,"Inst. Rei Herb.","2: 360","","1766",kew-30660
+kew-301498,A,Colchicaceae,,Burchardia,,"congesta",,"","Lindl.",Accepted,,H,WCSP,301498,532308-1,"Sketch Veg. Swan R.","58","","1840",
+kew-28035,A,Myrtaceae,,Burchardia,,"grandiflora",,"","(Aubl.) Raf.",Synonym,,H,WCSP,28035,,"Sylva Tellur.","106","","1838",kew-33177
+kew-301499,A,Colchicaceae,,Burchardia,,"monantha",,"","Domin",Accepted,,H,WCSP,301499,532309-1,"J. Linn. Soc., Bot.","41: 260","","1912",
+kew-301500,A,Colchicaceae,,Burchardia,,"multiflora",,"","Lindl.",Accepted,,H,WCSP,301500,532310-1,"Sketch Veg. Swan R.","58","","1840",
+kew-301501,A,Colchicaceae,,Burchardia,,"rigida",,"","Gand.",Synonym,,H,WCSP,301501,532311-1,"Bull. Soc. Bot. France","66: 293","","1919 publ. 1920",kew-301503
+kew-301502,A,Colchicaceae,,Burchardia,,"rosea",,"","Keighery",Accepted,,H,WCSP,301502,932550-1,"in Fl. Australia","45: 471","","1987",
+kew-301503,A,Colchicaceae,,Burchardia,,"umbellata",,"","R.Br.",Accepted,,H,WCSP,301503,532312-1,"Prodr. Fl. Nov. Holl.","273","","1810",
+kew-301504,A,Colchicaceae,,Burchardia,,"umbellata",var.,"composita","Domin",Synonym,,L,WCSP,301504,,"J. Linn. Soc., Bot.","41: 260","","1912",kew-301502
+kew-301505,A,Colchicaceae,,Burchardia,,"umbellata",f.,"minor","Domin",Synonym,,L,WCSP,301505,,"J. Linn. Soc., Bot.","41: 260","","1912",kew-301503
+kew-301506,A,Colchicaceae,,Burchardia,,"umbellata",var.,"multiflora","(Lindl.) Domin",Synonym,,L,WCSP,301506,,"J. Linn. Soc., Bot.","41: 259","","1912",kew-301500
+kew-301507,A,Colchicaceae,,Burchardia,,"umbellata",var.,"ornithogaloides","Domin",Synonym,,L,WCSP,301507,,"J. Linn. Soc., Bot.","41: 259","","1912",kew-301500
+kew-301508,A,Colchicaceae,,Burchardia,,"umbellata",var.,"parviflora","Hook.",Synonym,,L,WCSP,301508,,"Fl. Tasman.","2: 46","","1858",kew-301503

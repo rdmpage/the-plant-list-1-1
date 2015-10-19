@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-18500002,A,Limnanthaceae,,Limnanthes,,"alba",,"","Hartw. ex Benth.",Accepted,,M,TRO,18500002,140188-2,"Pl. Hartw.","301–302","301","1848",
+tro-18500028,A,Limnanthaceae,,Limnanthes,,"alba",var.,"alba","",Synonym,,L,TRO,18500028,,"","","","",tro-18500002
+tro-50316856,A,Limnanthaceae,,Limnanthes,,"alba",subsp.,"alba","",Synonym,,L,TRO,50316856,,"","","","2007",tro-18500002
+tro-50316855,A,Limnanthaceae,,Limnanthes,,"alba",subsp.,"gracilis","(Howell) Morin",Accepted,,L,TRO,50316855,60450118-2,"J. Bot. Res. Inst. Texas","1(2): 1017","1017","2007",
+tro-50316857,A,Limnanthaceae,,Limnanthes,,"alba",subsp.,"parishii","(Jeps.) Morin",Accepted,,L,TRO,50316857,60450119-2,"J. Bot. Res. Inst. Texas","1(2): 1017","1017","2007",
+tro-18500003,A,Limnanthaceae,,Limnanthes,,"alba",var.,"versicolor","(Greene) C.T. Mason",Synonym,,L,TRO,18500003,140190-2,"Univ. Calif. Publ. Bot.","25(6): 497","497","1952",tro-50317525
+tro-50317525,A,Limnanthaceae,,Limnanthes,,"alba",subsp.,"versicolor","(Greene) C.T. Mason",Accepted,,L,TRO,50317525,279658-2,"Madroño","36(1): 51","51","1989",
+tro-18500004,A,Limnanthaceae,,Limnanthes,,"bakeri",,"","J.T. Howell",Accepted,,M,TRO,18500004,140191-2,"Leafl. W. Bot.","3(9): 206","206","1943",
+tro-50114780,A,Limnanthaceae,,Limnanthes,,"bellingeriana",,"","M. Peck",Synonym,,M,TRO,50114780,140192-2,"Proc. Biol. Soc. Wash.","50(24): 93–94","93","1937",tro-50317557
+tro-18500005,A,Limnanthaceae,,Limnanthes,,"douglasii",,"","R. Br.",Accepted,,M,TRO,18500005,30052665-2,"London Edinburgh Philos. Mag. & J. Sci.","3: 71","71","1833",
+tro-18500027,A,Limnanthaceae,,Limnanthes,,"douglasii",var.,"douglasii","",Synonym,,L,TRO,18500027,,"","","","",tro-18500005
+tro-50103079,A,Limnanthaceae,,Limnanthes,,"douglasii",subsp.,"douglasii","",Synonym,,L,TRO,50103079,,"","","","",tro-18500005
+tro-18500006,A,Limnanthaceae,,Limnanthes,,"douglasii",var.,"nivea","C.T. Mason",Synonym,,L,TRO,18500006,279663-2,"Univ. Calif. Publ. Bot.","25(6): 477, 480, f. 4 [map], 7, pl. 43, 45c","477","1952",tro-50317535
+tro-50317535,A,Limnanthaceae,,Limnanthes,,"douglasii",subsp.,"nivea","(C.T. Mason) C.T. Mason",Accepted,,L,TRO,50317535,279659-2,"Madroño","36(1): 50","50","1989",
+tro-18500007,A,Limnanthaceae,,Limnanthes,,"douglasii",var.,"rosea","(Hartw. ex Benth.) C.T. Mason",Synonym,,L,TRO,18500007,140194-2,"Univ. Calif. Publ. Bot.","25(6): 480","480","1952",tro-50317536
+tro-50317536,A,Limnanthaceae,,Limnanthes,,"douglasii",subsp.,"rosea","(Hartw. ex Benth.) C.T. Mason",Accepted,,L,TRO,50317536,279660-2,"Madroño","36(1): 50","50","1989",
+tro-50316854,A,Limnanthaceae,,Limnanthes,,"douglasii",subsp.,"striata","(Jeps.) Morin",Accepted,,L,TRO,50316854,60450120-2,"J. Bot. Res. Inst. Texas","1(2): 1017","1017","2007",
+tro-18500008,A,Limnanthaceae,,Limnanthes,,"douglasii",var.,"sulphurea","C.T. Mason",Synonym,,L,TRO,18500008,279662-2,"Univ. Calif. Publ. Bot.","25(6): 477, f. 4 [map], 6, pl. 43, 44, 45b","477","1952",tro-50317533
+tro-50317533,A,Limnanthaceae,,Limnanthes,,"douglasii",subsp.,"sulphurea","(C.T. Mason) C.T. Mason",Accepted,,L,TRO,50317533,279661-2,"Madroño","36(1): 50","50","1989",
+tro-18500009,A,Limnanthaceae,,Limnanthes,,"floccosa",,"","Howell",Accepted,,M,TRO,18500009,140196-2,"Fl. N.W. Amer.","1: 108–109","108","1897",
+tro-50317557,A,Limnanthaceae,,Limnanthes,,"floccosa",subsp.,"bellingeriana","(M. Peck) Arroyo",Accepted,,L,TRO,50317557,140197-2,"Brittonia","25(2): 187","187","1973",
+tro-50317558,A,Limnanthaceae,,Limnanthes,,"floccosa",subsp.,"floccosa","",Synonym,,L,TRO,50317558,,"","","","1973",tro-18500009
+tro-18500013,A,Limnanthaceae,,Limnanthes,,"floccosa",var.,"pumila","(Howell) C.T. Mason",Synonym,,L,TRO,18500013,140202-2,"Univ. Calif. Publ. Bot.","25(6): 501","501","1952",tro-50317559
+tro-50317559,A,Limnanthaceae,,Limnanthes,,"floccosa",subsp.,"pumila","(Howell) Arroyo",Accepted,,L,TRO,50317559,140201-2,"Brittonia","25(2): 187","187","1973",
+tro-18500014,A,Limnanthaceae,,Limnanthes,,"gracilis",,"","Howell",Synonym,,M,TRO,18500014,140203-2,"Fl. N.W. Amer.","1: 108","108","1897",tro-50316855
+tro-18500015,A,Limnanthaceae,,Limnanthes,,"gracilis",var.,"parishii","(Jeps.) C.T. Mason",Synonym,,L,TRO,18500015,140204-2,"Univ. Calif. Publ. Bot.","25(6): 490","490","1952",tro-50316857
+tro-18500026,A,Limnanthaceae,,Limnanthes,,"gracilis",subsp.,"parishii","(Jeps.) R.M. Beauch.",Synonym,,L,TRO,18500026,952475-1,"Phytologia","59(7): 440","440","1986",tro-50316857
+tro-18500022,A,Limnanthaceae,,Limnanthes,,"howelliana",,"","Abrams",Accepted,,M,TRO,18500022,140205-2,"Madroño","6(1): 27","27","1941",
+kew-2347351,A,Limnanthaceae,,Limnanthes,,"macounii",,"","Trel.",Accepted,,M,WCSP (in review),,140206-2,"Mem. Boston Soc. Nat. Hist.","4: 85","","1888",
+tro-18500016,A,Limnanthaceae,,Limnanthes,,"montana",,"","Jeps.",Accepted,,M,TRO,18500016,140207-2,"Fl. Calif.","2(4): 412","412","1936",
+kew-2350300,A,Limnanthaceae,,Limnanthes,,"nymphoides",,"","Stokes",Unresolved,,L,WCSP (in review),,369869-1,"Bot. Mat. Med.","1: 300","","1812",
+kew-2350301,A,Limnanthaceae,,Limnanthes,,"peltata",,"","Gray",Unresolved,,L,WCSP (in review),,369870-1,"Nat. Arr. Brit. Pl.","2: 340","","1821",
+tro-18500024,A,Limnanthaceae,,Limnanthes,,"pumila",,"","Howell",Synonym,,M,TRO,18500024,140208-2,"Fl. N.W. Amer.","1: 108","108","1897",tro-50317559
+tro-18500023,A,Limnanthaceae,,Limnanthes,,"rosea",,"","Hartw. ex Benth.",Synonym,,M,TRO,18500023,279666-2,"Pl. Hartw.","302","302","1848",tro-50317536
+tro-18500017,A,Limnanthaceae,,Limnanthes,,"striata",,"","Jeps.",Synonym,,M,TRO,18500017,140211-2,"Fl. Calif.","2(4): 411–412","411","1936",tro-50316854
+kew-2347348,A,Limnanthaceae,,Limnanthes,,"sulphurea",,"","Loudon",Unresolved,,L,WCSP (in review),,374480-1,"Encycl. Pl.","1543","","1829",
+tro-18500019,A,Limnanthaceae,,Limnanthes,,"versicolor",,"","(Greene) Rydb.",Synonym,,L,TRO,18500019,140212-2,"N. Amer. Fl.","25(2): 99","99","1910",tro-50317525
+tro-18500018,A,Limnanthaceae,,Limnanthes,,"vinculans",,"","Ornduff",Accepted,,M,TRO,18500018,140214-2,"Brittonia","21(1): 11–14, f. 1","11","1969",

@@ -1,0 +1,299 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-100405,A,Compositae,,Anaphalis,,"acutifolia",,"","Hand.-Mazz.",Accepted,,M,TICA,E0C6EF8B-F085-4D52-B387-9A85D4AED886,176362-1,"","","286","1938",
+gcc-83015,A,Compositae,,Anaphalis,,"adnata",,"","Wall. ex DC.",Accepted,,M,TICA,192BD363-D9A8-43F6-BF51-735B6CA1CDE0,176363-1,"Prodr. 6","","274","1838",
+gcc-152636,A,Compositae,,Anaphalis,,"adnata",var.,"adnata","",Synonym,,L,TICA,4D8B9ED4-9050-4D78-A52C-9DC3821C4DA7,,"","","","",gcc-83015
+gcc-49306,A,Compositae,,Anaphalis,,"aecidiocephala",,"","Grierson",Synonym,,M,TICA,DEE4DB53-AEB1-41CA-A933-5B531F32509A,315838-2,"Notes Roy. Bot. Gard. Edinburgh 31","","389","1972",gcc-90156
+gcc-107740,A,Compositae,,Anaphalis,,"alata",,"","Przew.",Unresolved,,L,TICA,F5433FAE-334F-4B26-BA2D-AAC61C08D328,,"","","","1880",
+gcc-116903,A,Compositae,,Anaphalis,,"alata",,"","Maxim.",Synonym,,M,TICA,D5E1809B-859E-40DA-9F85-BF7A71FF9D9D,176365-1,"","","478","1881",gcc-53558
+gcc-155833,A,Compositae,,Anaphalis,,"alata",var.,"alata","",Synonym,,L,TICA,B7AC002C-842C-4C12-B346-E0BD0425C69C,,"","","","",gcc-53558
+gcc-54055,A,Compositae,,Anaphalis,,"alata",var.,"viridis","Hand.-Mazz.",Synonym,,L,TICA,B07077F7-D734-49BC-B655-6B0A95DFE12D,,"Acta Horti Gothoburgensis 12(9):","","245","1938",gcc-20799
+gcc-76795,A,Compositae,,Anaphalis,,"alpicola",,"","Makino",Accepted,,M,TICA,CB679150-A582-4268-819C-656FD80A8C47,,"","","151","1903",
+gcc-133778,A,Compositae,,Anaphalis,,"angustifolia",,"","Rydb.",Synonym,,M,TICA,2EE91A30-F108-4B4B-AE86-E648F2921B6D,12378-2,"Bull. Torrey Bot. Club 37","","326","1910",gcc-48987
+tro-50109825,A,Compositae,,Anaphalis,,"apoensis",,"","H. Nakai",Synonym,,M,TRO,50109825,,"Veg. Mt. Apoi","30, photogr. 13","30","1930",gcc-112963
+gcc-26633,A,Compositae,,Anaphalis,,"apoiensis",,"","Nakai",Synonym,,M,TICA,473D7A9A-4C23-4154-ACCB-31353E2B07A2,,"","","","1930",gcc-112963
+gcc-100642,A,Compositae,,Anaphalis,,"araneosa",,"","DC.",Accepted,,M,TICA,1E7438EA-7D7B-4A1F-9B22-9B143C3A5F97,176369-1,"","","275","1838",
+gcc-47841,A,Compositae,,Anaphalis,,"araneosa",,"","Franch.",Unresolved,,L,TICA,FB233224-B193-4045-911D-58A1816D98F7,,"""Nouvelles archives du museum d'histoire naturelle, ser. 2 10:""","","75","1888",
+gcc-138802,A,Compositae,,Anaphalis,,"arenosa",,"","DC.",Synonym,,M,TICA,7629CB3C-09D8-42FB-980C-F1614D8E4835,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","275","1838",gcc-123464
+gcc-100520,A,Compositae,,Anaphalis,,"arfakensis",,"","Mattf.",Accepted,,M,TICA,00350C90-7C1A-4336-9319-9AD00D283A8B,176370-1,"Bot. Jahrb. Syst. 62","","429","1929",
+gcc-29027,A,Compositae,,Anaphalis,,"aristata",,"","(DC.) DC.",Accepted,,M,TICA,A1DECE94-7766-4E9E-B572-35A0784830E2,,"","","","",
+gcc-9820,A,Compositae,,Anaphalis,,"aureopunctata",,"","Lingelsh. & Borza",Accepted,,M,TICA,7C8C694E-FD33-417F-BC8D-1259894C695F,176372-1,"Repert. Spec. Nov. Regni Veg. 13","","392","1914",
+gcc-54067,A,Compositae,,Anaphalis,,"aureopunctata",var.,"atrata","(Hand.-Mazz.) Hand.-Mazz.",Accepted,,L,TICA,4CC64837-0023-40FC-9DC4-6B2CDCA1E745,,"Acta Horti Gothoburgensis 12(9):","","242","1938",
+gcc-151409,A,Compositae,,Anaphalis,,"aureopunctata",f.,"aureopunctata","",Synonym,,L,TICA,D91E504F-BB85-4F47-96FF-83E7CCAD0810,,"","","","",gcc-9820
+gcc-15811,A,Compositae,,Anaphalis,,"aureopunctata",var.,"aureopunctata","",Synonym,,L,TICA,9C3EB611-E7A0-496E-9003-1D47891A7C83,,"","","","",gcc-9820
+gcc-73749,A,Compositae,,Anaphalis,,"aureopunctata",f.,"calvescens","(Pamp.) Y.L.Chen",Synonym,,L,TICA,A6F541BE-A43E-452B-BDE2-25931F8BD906,,"Acta Phytotaxonomica Sinica 11(1):","","104","1966",gcc-9820
+gcc-53841,A,Compositae,,Anaphalis,,"aureopunctata",var.,"tomentosa","Hand.-Mazz.",Accepted,,L,TICA,15DF38D6-BF10-4C27-8BAF-69337C869D2D,,"Acta Horti Gothob. 12: 242 (1938)","","","1938",
+gcc-125254,A,Compositae,,Anaphalis,,"aurora",,"","Rech.f. & Edelb.",Synonym,,M,TICA,2B2FA58B-1382-4B37-90DF-D29F95D6E765,,"","","27","1955",gcc-41663
+gcc-41390,A,Compositae,,Anaphalis,,"barnesii",,"","C.E.C.Fisch.",Accepted,,M,TICA,A560C944-31DE-4950-89E7-4CA5ABC7649E,176374-1,"","","249","1939",
+gcc-122063,A,Compositae,,Anaphalis,,"batangensis",,"","Y.L.Chen",Accepted,,M,TICA,5E13E8AF-5F64-4B6C-A3A0-CB2CBFC9BC93,958407-1,"","","488","1990",
+gcc-16820,A,Compositae,,Anaphalis,,"beddomei",,"","Hook.f.",Accepted,,M,TICA,C73A277A-2216-45D5-9D63-1F0FFA473FF1,176375-1,"","","282","1881",
+gcc-82312,A,Compositae,,Anaphalis,,"bicolor",,"","(Franch.) C.C.Chang",Synonym,Illegitimate,M,TICA,1FA92003-0A71-413C-BF9F-71C23BB9E61F,176376-1,"","","548","1935",gcc-86561
+gcc-86561,A,Compositae,,Anaphalis,,"bicolor",,"","(Franch.) Diels",Accepted,,M,TICA,FFBEF6C0-F56E-4A06-B1B3-7B2E7613688E,,"""Notes from the Royal Botanic Garden, Edinburgh 7(35):""","","337","1912",
+gcc-32444,A,Compositae,,Anaphalis,,"bicolor",var.,"bicolor","",Synonym,,L,TICA,05FBEC72-781A-45F5-8F53-3C281B2EFA5C,,"","","","",gcc-86561
+gcc-19904,A,Compositae,,Anaphalis,,"bicolor",var.,"undulata","(Hand.-Mazz.) Ling",Accepted,,L,TICA,87FFDBE1-CE25-4F64-85D4-24CE2BA18BCB,,"Acta Phytotaxonomica Sinica 11(1):","","99","1966",
+gcc-120665,A,Compositae,,Anaphalis,,"bodinieri",,"","Franch.",Synonym,,M,TICA,59419D46-84C7-4D20-B5CD-C815E722A0C4,176377-1,"","","306","1890",gcc-115312
+gcc-83562,A,Compositae,,Anaphalis,,"boissieri",,"","Georgiadou",Accepted,,M,TICA,74C95CEF-42AA-4282-9BC6-74927DC8F249,176378-1,"Candollea 33","","137","1978",
+gcc-43811,A,Compositae,,Anaphalis,,"bournei",,"","Fyson",Synonym,,M,TICA,DF8A52E8-9F31-4243-969F-512CEFF3DD49,176379-1,"","","209","1914",gcc-12821
+gcc-12821,A,Compositae,,Anaphalis,,"brevifolia",,"","DC.",Accepted,,M,TICA,A6BF1D9D-1734-4851-B185-17E82F1CAAC9,176380-1,"","","273","1838",
+gcc-94092,A,Compositae,,Anaphalis,,"buisanensis",,"","Hayata",Synonym,,M,TICA,CC4BCB79-7E24-4B42-82CC-8C330BAFC392,176381-1,"Icon. Pl. Formosan. 8","","57","1919",gcc-33939
+gcc-104113,A,Compositae,,Anaphalis,,"bulleyana",,"","(Jeffrey) C.C.Chang",Accepted,,L,TICA,C6ABCA20-1A6E-4BDE-AD3D-A2CB6C5821B6,176383-1,"","","549","1935",
+gcc-115347,A,Compositae,,Anaphalis,,"bulleyana",,"","(Jeffrey) Hand.-Mazz.",Unresolved,Illegitimate,L,TICA,03952E1A-5EAE-4EEA-A902-BBF12568B43B,176382-1,"Symb. Sin. Pt. vii. 1102 (1936)","","1102","1936",gcc-104113
+gcc-123464,A,Compositae,,Anaphalis,,"busua",,"","(Buch.-Ham.) DC.",Accepted,,M,TICA,4089E6AF-2B9C-4F1F-81CB-CE64A49A6D62,176384-1,"","","275","1838",
+gcc-13850,A,Compositae,,Anaphalis,,"busua",,"","(Buch.-Ham.) Hand.-Mazz.",Synonym,Illegitimate,M,TICA,133D5C70-A50E-4262-A4B0-19C03F90C7CF,,"Symbolae Sinicae 7(4):","","1104","1936",gcc-123464
+gcc-43289,A,Compositae,,Anaphalis,,"candollei",,"","Georgiadou",Accepted,,M,TICA,31E63629-5772-4CE2-B430-50361A3FC795,176385-1,"Candollea 33","","136","1978",
+gcc-122396,A,Compositae,,Anaphalis,,"cavei",,"","Chatterjee",Accepted,,M,TICA,A85489A7-47A5-4514-8BF2-CBE8F186691C,,"Bull. Bot. Soc. Beng.","","","1949",
+gcc-89974,A,Compositae,,Anaphalis,,"chanetii",,"","(H.Lév.) H.Lév.",Synonym,,M,TICA,EFB2FC25-3C2D-44B2-95E9-82F0E913D864,176388-1,"Repert. Spec. Nov. Regni Veg. 12","","189","1913",gcc-53558
+gcc-19431,A,Compositae,,Anaphalis,,"chilensis",,"","Reiche",Accepted,,M,TICA,5C83D11F-7D90-4620-BED7-23E8B1BC768F,12379-2,"","","97","1903",
+gcc-5623,A,Compositae,,Anaphalis,,"chionantha",,"","DC.",Synonym,,M,TICA,C6A05FC4-2296-4B7B-A528-0A7DF1DC789B,176390-1,"","","273","1838",gcc-86621
+gcc-16638,A,Compositae,,Anaphalis,,"chitralensis",,"","Qaiser & Abid",Unresolved,,L,TICA,6B9E4589-8540-423A-BF6E-1EBE2B5CF7DC,,"Pakistan Journal of Botany 34:","","367","2002",
+gcc-39029,A,Compositae,,Anaphalis,,"chlamydophylla",,"","Diels",Accepted,,M,TICA,DE4CB344-A6A4-41C4-835C-4869C3DA19C7,176391-1,"Notes Roy. Bot. Gard. Edinburgh 5","","188","1912",
+gcc-141097,A,Compositae,,Anaphalis,,"chungtienensis",,"","Y.L.Chen",Accepted,,M,TICA,251A2B6D-1353-4939-B969-F691DDA7B240,,"","","102","1966",
+gcc-119919,A,Compositae,,Anaphalis,,"cinerascens",,"","Ling & W.Wang",Accepted,,M,TICA,FA275976-CD38-44EA-93FE-C6477E5A3405,,"","","","1966",
+gcc-54233,A,Compositae,,Anaphalis,,"cinerascens",var.,"cinerascens","",Synonym,,L,TICA,70A7F38D-76C4-4D98-ABB9-6C73EF8E3F7D,,"","","","",gcc-119919
+gcc-142705,A,Compositae,,Anaphalis,,"cinnamomea",,"","(DC.) C.B.Clarke",Synonym,,M,TICA,0E1EDDD5-5B6A-4179-8AD0-FA378D6BA58A,176394-1,"","","104","1876",gcc-48987
+gcc-43708,A,Compositae,,Anaphalis,,"cinnamomea",var.,"angustior","(Miq.) Nakai",Synonym,,L,TICA,E80C22DD-5642-45C2-BE87-50FE637901A0,,"Botanical Magazine 40:","","148","1926",gcc-71858
+gcc-155115,A,Compositae,,Anaphalis,,"cinnamomea",var.,"cinnamomea","",Synonym,,L,TICA,F3405A36-6D62-488C-96E9-D14B1C0337CB,,"","","","",gcc-48987
+gcc-137563,A,Compositae,,Anaphalis,,"concinna",,"","(A.Gray) Grierson",Synonym,,M,TICA,04FBE48A-D8B4-4DFB-80A9-EEB32337CEF0,12380-2,"Notes Roy. Bot. Gard. Edinburgh 31","","392","1972",gcc-31730
+gcc-143399,A,Compositae,,Anaphalis,,"conferta",,"","C.C.Chang",Synonym,,M,TICA,B76EF7B9-DC62-4468-94D8-FBCC10FFCCC7,176396-1,"","","543","1935",gcc-54067
+gcc-81704,A,Compositae,,Anaphalis,,"contorta",,"","(D.Don) Hook.f.",Accepted,,M,TICA,7C1D3BC4-58E9-4ADF-8868-706D78B57320,176397-1,"Fl. Brit. India 3","","284","1881",
+gcc-65138,A,Compositae,,Anaphalis,,"contorta",var.,"contorta","",Synonym,,L,TICA,82A5046F-85F6-4FAB-B802-C42ED5D4F2AB,,"","","","",gcc-81704
+gcc-64029,A,Compositae,,Anaphalis,,"contorta",var.,"morrisonicola","(Hayata) Yamam.",Synonym,,L,TICA,9D44403A-0E59-4B17-ACB9-BB5AF5764831,,"Journal of the Society of Tropical Agriculture 8:","","265","1936",gcc-33939
+gcc-64206,A,Compositae,,Anaphalis,,"contorta",var.,"pellucida","(Franch.) Y.Ling",Unresolved,,L,TICA,5DCBEEAD-2CF6-41C1-A0CD-BCA4F95564E7,876417-1,"","","159","1979",
+gcc-96510,A,Compositae,,Anaphalis,,"contortiformis",,"","Hand.-Mazz.",Accepted,,M,TICA,1FD11406-A240-4B5F-84D9-91C0D05DB36D,,"","","245","1938",
+gcc-86052,A,Compositae,,Anaphalis,,"cooperi",,"","Grierson & Spring.",Accepted,,M,TICA,E4B32541-F74A-42B2-BCEE-7A122C316547,1016738-1,"","","397","2000",
+gcc-119964,A,Compositae,,Anaphalis,,"corymbifera",,"","C.C.Chang",Accepted,,M,TICA,CE4BD271-4834-4E78-8C1B-C667DDCE70B2,176399-1,"","","545","1935",
+gcc-86018,A,Compositae,,Anaphalis,,"corymbosa",,"","(Bureau & Franch.) Diels",Synonym,,M,TICA,819754AD-01C3-4668-8712-7A0055D59978,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 505 (1922)","","505","1922",gcc-64794
+gcc-98756,A,Compositae,,Anaphalis,,"cuneifolia",,"","(DC.) Hook.f.",Accepted,,M,TICA,9EA252AC-64C7-49A0-9384-96CD30FEB22A,176400-1,"","","280","1881",
+gcc-84140,A,Compositae,,Anaphalis,,"cutchica",,"","C.B.Clarke",Accepted,,M,TICA,AD9912A6-136F-4B23-8DB7-75DF3391AE7A,176401-1,"","","","1876",
+gcc-79840,A,Compositae,,Anaphalis,,"darvasica",,"","Boriss.",Accepted,,M,TICA,C6866391-A47E-4B28-AF3C-6C47C2D3949C,176402-1,"Fl. URSS 25","","591","1959",
+gcc-111144,A,Compositae,,Anaphalis,,"delavayi",,"","(Franch.) Diels",Accepted,,M,TICA,9359B7C6-9A9E-43E7-8AC2-B278A495CC0C,,"""Notes from the Royal Botanic Garden, Edinburgh 7(35):""","","337","1912",
+gcc-96778,A,Compositae,,Anaphalis,,"depauperata",,"","Boriss.",Accepted,,M,TICA,2E2C32AB-0EF2-4F17-82C0-925A349275EA,176403-1,"","","590","1959",
+gcc-85295,A,Compositae,,Anaphalis,,"deserti",,"","J.R.Drumm.",Accepted,,M,TICA,D409997C-962F-461F-BC82-78647677909F,176404-1,"","","76","1910",
+gcc-138380,A,Compositae,,Anaphalis,,"elegans",,"","Ling",Accepted,,M,TICA,F4E68604-46F6-4519-8F67-F0735519CD1D,,"","","","1966",
+gcc-41906,A,Compositae,,Anaphalis,,"elliptica",,"","(DC.) DC.",Synonym,,M,TICA,229DF558-1D26-499D-BDD6-4D99DDA6EC91,176406-1,"","","274","1838",gcc-122738
+gcc-108843,A,Compositae,,Anaphalis,,"esquirolii",,"","(H.Lév.) H.Lév.",Synonym,,M,TICA,697A7212-45C2-4CE0-B7CD-AD444A4031E4,176407-1,"Repert. Spec. Nov. Regni Veg. 12","","189","1913",gcc-83015
+gcc-9186,A,Compositae,,Anaphalis,,"falconeri",,"","C.B.Clarke",Synonym,,M,TICA,7DBC54A3-972F-4AE9-BA42-112D944FAEEC,176408-1,"","","107","1876",gcc-81704
+gcc-24440,A,Compositae,,Anaphalis,,"flaccida",,"","Ling",Accepted,,M,TICA,A478E94A-C482-444F-B4B6-2D1F19B296DF,,"","","","1966",
+gcc-45685,A,Compositae,,Anaphalis,,"flavescens",,"","Hand.-Mazz.",Accepted,,M,TICA,57FE8E9E-A36D-4169-8DDF-54AD6884F3F7,,"","","","1936",
+gcc-37519,A,Compositae,,Anaphalis,,"flavescens",var.,"flavescens","",Synonym,,L,TICA,A0DDA030-7E97-446A-8F2F-45883433FBAF,,"","","","",gcc-45685
+gcc-136623,A,Compositae,,Anaphalis,,"franchetiana",,"","Diels",Synonym,,L,TICA,87D0A85D-253B-44D1-9027-ECA31F6EACDB,176411-1,"Notes Roy. Bot. Gard. Edinburgh 5","","189","1912",gcc-64206
+gcc-38120,A,Compositae,,Anaphalis,,"fruticosa",,"","Hook.f.",Accepted,,M,TICA,884718C5-2D9D-4558-A376-46B790EC76E3,,"","","","1881",
+gcc-115953,A,Compositae,,Anaphalis,,"garanica",,"","Boriss.",Accepted,,M,TICA,641B9DC8-64D4-432F-BE24-BD586CEE2017,176413-1,"","","591","1959",
+gcc-94525,A,Compositae,,Anaphalis,,"gracilis",,"","Hand.-Mazz.",Accepted,,M,TICA,0055BF05-96FB-49B1-BA3F-8D30D7F45D2B,,"","","1103","1936",
+gcc-55192,A,Compositae,,Anaphalis,,"gracilis",var.,"gracilis","",Synonym,,L,TICA,161879D6-9594-41C8-B7C7-7412D33FAC82,,"","","","",gcc-94525
+gcc-2174,A,Compositae,,Anaphalis,,"griffithii",,"","Hook.f.",Accepted,,M,TICA,41BAF577-1A88-4E4A-A96D-03E9DE3D483C,176415-1,"","","280","1881",
+gcc-115312,A,Compositae,,Anaphalis,,"hancockii",,"","Maxim.",Accepted,,M,TICA,BE91F59C-ADD4-493F-88A0-BBDDBCACD18E,,"","","","1881",
+gcc-133080,A,Compositae,,Anaphalis,,"hellwigii",,"","Warb.",Accepted,,M,TICA,7D7C1BF7-A86B-479A-BED9-E4B35F1F84B1,176417-1,"Bot. Jahrb. Syst. 16","","28","1893",
+gcc-3225,A,Compositae,,Anaphalis,,"himachalensis",,"","Aswal & Goel",Accepted,,M,TICA,98187814-65B0-4B1C-87FB-05F904EAB4EC,,"","","337","1988",
+gcc-96266,A,Compositae,,Anaphalis,,"hondae",,"","Kitam.",Accepted,,M,TICA,A2830C9C-B21A-47F8-B728-9124970FD5FA,176418-1,"","","78","1953",
+gcc-89128,A,Compositae,,Anaphalis,,"hookeri",,"","C.B.Clarke ex C.B.Clarke",Accepted,,M,TICA,BC000EC8-AA9B-45DE-AAB2-80FFFFDC8F6F,,"","","282","1881",
+gcc-51381,A,Compositae,,Anaphalis,,"horaimontana",,"","Masam.",Accepted,,M,TICA,200ABFD1-84CB-4451-8C5A-5F4C6C21D75C,176420-1,"","","57","1936",
+gcc-87947,A,Compositae,,Anaphalis,,"hymenolepis",,"","Ling",Unresolved,Illegitimate,L,TICA,CE011750-855B-483D-860E-7E55759F030D,,"","","","1966",
+gcc-102075,A,Compositae,,Anaphalis,,"intermedia",,"","(DC.) Duthie",Synonym,,M,TICA,42DB55E5-525D-4BDE-8051-9E3DFFDE6F31,,"Econ. Prodr.","","436","1886",gcc-125373
+gcc-82168,A,Compositae,,Anaphalis,,"japonica",,"","Maxim.",Synonym,,M,TICA,2918F888-6442-462D-81F8-716BA0DE77CF,176422-1,"","","480","1881",gcc-48987
+gcc-112957,A,Compositae,,Anaphalis,,"javanica",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,2DD3FBF1-BFF4-4916-88E6-B695C9FA9866,,"","","124","1854",
+gcc-141900,A,Compositae,,Anaphalis,,"javanica",,"","(Reinw. ex Blume) Reinw. ex Martelli",Synonym,,M,TICA,B5442AFE-0FF4-43F6-94A1-F876248305E7,,"Nouv. Giorn. Bot. Ital. 15 (1884)","","294","1884",gcc-112957
+gcc-102823,A,Compositae,,Anaphalis,,"javanica",f.,"junghuhniana","(Miq.) Boerl.",Accepted,,L,TICA,F9143180-F312-4294-8677-9FFA46FDCF53,,"Handl. Fl. Ned. Ind. 2 (1891)","","""193, 240""","1891",
+gcc-154387,A,Compositae,,Anaphalis,,"kashmiriana",,"","""P.C.Pant, R.R.Rao & G.Arti""",Accepted,,M,TICA,59BB5F3B-1A78-4EAD-8F54-C28AB5595490,,"","","258","1994",
+gcc-15099,A,Compositae,,Anaphalis,,"keriensis",,"","(A.Cunn.) C.J.Webb",Synonym,,M,TICA,E0FF6BDF-821C-4C71-9F5D-1BF436BBD76D,,"","","147","1987",gcc-38680
+gcc-82242,A,Compositae,,Anaphalis,,"kokonorica",,"","(Y.Ling) Grubov",Accepted,,M,TICA,08075469-302C-4731-A997-719738EE2747,1012263-1,"Novosti Sist. Vyssh. Rast. 31","","249","1998",
+gcc-112963,A,Compositae,,Anaphalis,,"lactea",,"","Maxim.",Accepted,,M,TICA,01F2B4C2-A907-4AB2-B72A-B69A9B532E45,176424-1,"","","479","1881",
+gcc-118521,A,Compositae,,Anaphalis,,"lanata",,"","(A.Nelson) Rydb.",Synonym,,M,TICA,BAB10EBC-686D-4FD8-8345-C32997B442F0,12381-2,"Fl. Rocky Mts.","","921","1917",gcc-48987
+gcc-44695,A,Compositae,,Anaphalis,,"lanata",,"","F.Muell.",Synonym,,M,TICA,141E76AB-8179-45DB-BA2E-52CD46386BE1,,"","","9","1889",gcc-43539
+gcc-115818,A,Compositae,,Anaphalis,,"larium",,"","Hand.-Mazz.",Accepted,,M,TICA,F2ED81F3-058C-4200-A771-BD0CCC03CEF0,,"","","","1936",
+gcc-80254,A,Compositae,,Anaphalis,,"latialata",,"","Ling & Y.L.Chen",Accepted,,M,TICA,CA57B8BD-DCF3-40FF-A8CB-6D3826984A93,,"","","","1966",
+gcc-6902,A,Compositae,,Anaphalis,,"latialata",var.,"latialata","",Synonym,,L,TICA,213EBD8A-9415-4CC7-A32A-0CD3BF73E7F1,,"","","","",gcc-80254
+gcc-20799,A,Compositae,,Anaphalis,,"latialata",var.,"viridis","(Hand.-Mazz.) Ling & Y.L.Chen",Accepted,,L,TICA,0CF3F795-B2AD-4F2C-8FEB-2675EAD54B59,,"Acta Phytotaxonomica Sinica 11(1):","","99","1966",
+gcc-37998,A,Compositae,,Anaphalis,,"latifolia",,"","Kinzik. & Vainberg",Accepted,,M,TICA,6C95FA24-E45F-4655-9CD7-4678D3292C78,,"","","","1988",
+gcc-96713,A,Compositae,,Anaphalis,,"lawii",,"","(Hook.f.) Gamble",Accepted,,M,TICA,D275B895-22C9-43C9-A33B-9239D5BD33D2,176429-1,"","","696","1921",
+gcc-133570,A,Compositae,,Anaphalis,,"leptophylla",,"","(DC.) DC.",Accepted,,M,TICA,6B854DE8-FD14-409F-A31A-E5C6BBF3BA13,176430-1,"","","273","1838",
+gcc-38877,A,Compositae,,Anaphalis,,"likiangensis",,"","(Franch.) Y.Ling",Accepted,,L,TICA,AE507A81-0508-47A7-868E-481FE1F88E08,,"","","168","1979",
+gcc-106179,A,Compositae,,Anaphalis,,"linearis",,"","DC.",Synonym,,M,TICA,7DC3254A-DC9E-4A49-80ED-A732E037F22C,176432-1,"","","274","1838",gcc-113156
+gcc-106046,A,Compositae,,Anaphalis,,"longifolia",,"","(Blume) Blume ex DC.",Accepted,,M,TICA,8F364182-A0DC-4F4A-A562-A6EC840C716D,176433-1,"Prodr. 6","","274","1838",
+gcc-151737,A,Compositae,,Anaphalis,,"longifolia",f.,"longifolia","",Synonym,,L,TICA,00443225-5971-4FD1-B242-8B40D8753C75,,"","","","",gcc-106046
+gcc-155959,A,Compositae,,Anaphalis,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,0A496604-F017-4C0E-8319-E38949ECB7D5,,"","","","",gcc-106046
+gcc-31073,A,Compositae,,Anaphalis,,"longifolia",var.,"sindoroensis","(Hochr.) J.Kost.",Accepted,,L,TICA,A8637429-9977-4F4A-B9FD-398A503FF6A1,,"Blumea 4 (1941)","","484","1941",
+gcc-20031,A,Compositae,,Anaphalis,,"lorentzii",,"","Lauterb.",Synonym,,M,TICA,BD45F0C5-5FA5-4D18-9231-2509BDA29EB1,,"Nova Guinea 8","","865","",gcc-133080
+gcc-108209,A,Compositae,,Anaphalis,,"lorentzii",f.,"angustifolia","J.Kost.",Synonym,,L,TICA,C789A4B1-4BD6-491B-81FE-ABCB736E0A8F,876418-1,"Blumea 20","","204","1972",gcc-133080
+gcc-74628,A,Compositae,,Anaphalis,,"lorentzii",f.,"lorentzii","",Synonym,,L,TICA,2E72C97C-ABF1-4DD3-A0D8-46863EBAF153,,"","","","",gcc-133080
+gcc-128980,A,Compositae,,Anaphalis,,"mairei",,"","H.Lév.",Synonym,,M,TICA,4E7B691A-711E-459A-896C-DB3D4B332CFE,176435-1,"","","13","1915",gcc-125373
+gcc-113156,A,Compositae,,Anaphalis,,"marcescens",,"","(Wight) C.B.Clarke",Accepted,,M,TICA,E7F5B098-8F90-4C98-B9D6-B7017811EDD1,,"","","286","",
+gcc-151213,A,Compositae,,Anaphalis,,"marcescens",var.,"marcescens","",Synonym,,L,TICA,3B244F2D-9E6A-47D2-BD12-8013618D5E52,,"","","","",gcc-113156
+gcc-63716,A,Compositae,,Anaphalis,,"marcescens",var.,"sulphurea","Trimen",Synonym,,L,TICA,3012B422-B420-4120-9A30-B8EA2D5D12E3,,"Handb. Fl. Ceylon 3: 31 (1895)","","31","1895",gcc-135818
+gcc-48987,A,Compositae,,Anaphalis,,"margaritacea",,"","(L.) Benth. & Hook.f.",Accepted,,M,TICA,2691E611-C806-45B1-AE74-5ABB79A0009A,30173179-2,"Gen. Pl. 2: 303 (1873)","","303","1873",
+gcc-87354,A,Compositae,,Anaphalis,,"margaritacea",,"","(L.) Benth. ex C.B.Clarke",Unresolved,Illegitimate,L,TICA,F51039FE-0176-4BDC-A175-7D1883BD100C,,"","","","",
+gcc-99785,A,Compositae,,Anaphalis,,"margaritacea",,"","(L.) A.Gray",Unresolved,,L,TICA,F7C95470-48D7-46EA-A66A-991F02A0D837,,"Gen. II. 303 (1873-1876)","","303","",
+gcc-55122,A,Compositae,,Anaphalis,,"margaritacea",subsp.,"angustior","(Miq.) Kitam.",Synonym,,L,TICA,459F82C2-5918-4E94-93A0-738DF4023F5A,,"""Memoirs of the College of Science, Kyoto Imperial University. Series B. Biology 13:""","","243","1937",gcc-71858
+gcc-71916,A,Compositae,,Anaphalis,,"margaritacea",var.,"angustior","(Miq.) Nakai",Synonym,,L,TICA,8F646BA4-51DB-4671-B9E1-F9DC34E124D9,,"","","","",gcc-48987
+gcc-31549,A,Compositae,,Anaphalis,,"margaritacea",var.,"cinnamomea","(DC.) Herder ex Maxim.",Accepted,,L,TICA,8AF4482B-0CE5-473B-ADBD-3A7A55EC9B1F,,"Bulletin de l'Academie Imperiale des Sciences de St-Petersbourg 27(4):","","480-481","1882",
+gcc-57441,A,Compositae,,Anaphalis,,"margaritacea",var.,"intercedens","H.Hara",Unresolved,,L,TICA,F0A51FE6-B48D-45F4-85A4-864F056D94EB,60457427-2,"Botanical Magazine 52(613):","","3","1938",gcc-48987
+gcc-63218,A,Compositae,,Anaphalis,,"margaritacea",subsp.,"japonica","(Maxim.) Kitam.",Accepted,,L,TICA,8E4E92EF-D08C-4DCA-80A6-B51C69C6D579,,"Acta Phytotax. Geobot. 5: 148 (1936)","","148","1936",
+gcc-63751,A,Compositae,,Anaphalis,,"margaritacea",var.,"japonica","(Sch.Bip.) Makino",Unresolved,,L,TICA,A38C4F90-D328-4EF0-9D89-B9389E5572DF,,"Bot. Mag. (Tokyo) 33: 26 (1908)","","","1908",
+gcc-150506,A,Compositae,,Anaphalis,,"margaritacea",f.,"margaritacea","",Synonym,,L,TICA,97488E50-975D-48C3-A331-703B82BC3448,,"","","","",gcc-48987
+gcc-71858,A,Compositae,,Anaphalis,,"margaritacea",var.,"margaritacea","",Accepted,,L,TICA,407FAE72-3A74-4511-BE7B-F95989F57A0B,,"","","","",
+gcc-62572,A,Compositae,,Anaphalis,,"margaritacea",subsp.,"morrisonicola","(Hayata) Kitam.",Synonym,,L,TICA,2D45AB2B-1640-45F2-A0AD-AFE0D9BA2B6D,,"Fauna & Flora Nep. Himal.","","244","1953",gcc-33939
+gcc-91643,A,Compositae,,Anaphalis,,"margaritacea",f.,"morrisonicola","Hayata",Synonym,,L,TICA,464AC067-3CB6-4F94-A6C8-86CFBA21B9BC,,"J. Coll. Agric. Imp. Univ. Tokyo 25(19): 129 (1908)","","129","1908",gcc-33939
+gcc-72905,A,Compositae,,Anaphalis,,"margaritacea",f.,"nana","Hayata",Synonym,,L,TICA,4F3F1491-36F5-4435-A277-06296A54BBFD,,"""Journal of the College of Agriculture, Imperial University of Tokyo 25(19):""","","128-129","1908",gcc-33939
+gcc-64518,A,Compositae,,Anaphalis,,"margaritacea",var.,"occidentalis","Greene",Synonym,,L,TICA,311C52D3-4FE9-497F-BFC2-BF32656A1EE0,12384-2,"","","399","1897",gcc-48987
+gcc-31469,A,Compositae,,Anaphalis,,"margaritacea",var.,"revoluta","Suksd.",Synonym,,L,TICA,44C84BEE-4EED-4D47-BBA1-3A5266F7F3AD,12385-2,"Allg. Bot. Z. Syst. 12","","7","1906",gcc-48987
+gcc-59987,A,Compositae,,Anaphalis,,"margaritacea",var.,"subalpina","(A.Gray) A.Gray",Synonym,,L,TICA,6533ED9E-3B0D-4611-AE75-9AC89A76372D,12386-2,"Syn. Fl. N. Amer. 1(2): 233. 1884 [Jul 1884]","","233","1884",gcc-48987
+gcc-62752,A,Compositae,,Anaphalis,,"margaritacea",var.,"tsoongiana","Ling",Synonym,,L,TICA,EB9CDCB8-9D12-410C-BC15-B132A54ACDB6,,"Contributions form the botanical survey of northwestern China 1(2):","","12","1939",gcc-63751
+gcc-64153,A,Compositae,,Anaphalis,,"margaritacea",var.,"yedoensis","(Franch. & Sav.) Ohwi",Accepted,,L,TICA,1ABE2359-05CC-4621-9DF0-BC3BF151B0B6,,"","","87","1953",
+gcc-113018,A,Compositae,,Anaphalis,,"margaritaceae",,"","L.",Accepted,,M,TICA,EB43CBAC-73FE-47FB-B406-B6B5A43C0651,,"","","","",
+gcc-66872,A,Compositae,,Anaphalis,,"margaritaceae",subsp.,"yedoensis","(Franch. & Sav.) Kitam.",Synonym,,L,TICA,A8E9ADF6-3D88-4842-B613-D261A60AEB9F,,"","","","",gcc-48987
+gcc-142394,A,Compositae,,Anaphalis,,"mariae",,"","F.Muell.",Synonym,,M,TICA,5D2C7880-1F3B-46E6-8CBA-F97E942323CE,,"","","8","1889",gcc-106635
+gcc-139988,A,Compositae,,Anaphalis,,"mariae",f.,"alba","J.Kost.",Synonym,,L,TICA,59A82CE0-2C59-48F4-BD30-F3F2F6EC39C7,876419-1,"Blumea 20","","203","1972",gcc-106635
+gcc-58908,A,Compositae,,Anaphalis,,"mariae",var.,"lanuginosa","Lauterb.",Synonym,,L,TICA,4EE86288-16E8-4F3E-9049-9249665905AB,,"Nova Guinea 8 (1912)","","865","1912",gcc-106635
+gcc-145741,A,Compositae,,Anaphalis,,"mariae",var.,"mariae","",Synonym,,L,TICA,B98D802F-1F51-4C74-BB85-09F689BEC0E7,,"","","","",gcc-106635
+gcc-74851,A,Compositae,,Anaphalis,,"mariae",f.,"mariae","",Synonym,,L,TICA,C98D2F64-4F06-4776-B8AF-4FF31FA0189C,,"","","","",gcc-106635
+gcc-77443,A,Compositae,,Anaphalis,,"maxima",,"","(Kuntze) Steenis",Accepted,,M,TICA,2F0C301F-4D94-4EC7-8007-66E8B0992FFB,,"","","185","1934",
+gcc-138068,A,Compositae,,Anaphalis,,"meeboldii",,"","W.W.Sm.",Accepted,,M,TICA,2473A2BD-A4A5-4602-8C5B-EFCB79C02B5F,176440-1,"","","284","1911",
+gcc-103929,A,Compositae,,Anaphalis,,"monocephala",,"","DC.",Synonym,,M,TICA,22882213-C055-4DF3-9349-A25CA7CF5295,176441-1,"","","272","1838",gcc-56477
+gcc-17429,A,Compositae,,Anaphalis,,"monocephala",,"","S.Moore",Synonym,Illegitimate,M,TICA,B3C74799-4918-478C-8E5A-203519C2D549,176442-1,"","","85","1916",gcc-98210
+gcc-106204,A,Compositae,,Anaphalis,,"morii",,"","Nakai",Synonym,,M,TICA,05096976-9299-456A-B2EE-A73E0ACC543A,176443-1,"","","326","1912",gcc-44106
+gcc-33939,A,Compositae,,Anaphalis,,"morrisonicola",,"","Hayata",Accepted,,M,TICA,5BB78CAE-B915-4F0A-AD28-3EF234095BF8,176444-1,"Icon. Pl. Formosan. 8","","56","1919",
+gcc-138555,A,Compositae,,Anaphalis,,"mucronata",,"","C.B.Clarke ex Hemsl.",Accepted,,M,TICA,331C36C6-BF97-4741-9C7B-F0D4F75DE832,176446-1,"","","136","1894",
+gcc-21114,A,Compositae,,Anaphalis,,"mucronata",,"","DC.",Synonym,,M,TICA,C5FA0DEB-A169-4B91-BA31-26FFB8DF9F75,176445-1,"","","272","1838",gcc-106926
+gcc-96366,A,Compositae,,Anaphalis,,"mucronata",,"","C.B.Clarke",Unresolved,,L,TICA,2C261B8D-D8BF-4164-A61E-91615B504B69,,"Compositae Indica","","106","1876",
+gcc-41269,A,Compositae,,Anaphalis,,"mucronata",var.,"monocephala","DC.",Synonym,,L,TICA,50AF8D9A-78EF-46FC-9D6B-4C7783BD3148,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","272","1837",gcc-56477
+gcc-152662,A,Compositae,,Anaphalis,,"mucronata",var.,"mucronata","",Synonym,,L,TICA,DACF86B9-D376-4322-8FB9-9E3E967CF6D1,,"","","","",gcc-106926
+gcc-15678,A,Compositae,,Anaphalis,,"mucronata",var.,"polycephala","DC.",Synonym,,L,TICA,2F630F1B-F836-4BA8-8313-1D0A77C3A864,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","272","1837",gcc-125373
+gcc-7473,A,Compositae,,Anaphalis,,"muliensis",,"","(Hand.-Mazz.) Hand.-Mazz.",Accepted,,M,TICA,1B245B24-4260-4D25-AF8F-0DE36FFC3B9E,176447-1,"","","631","1937",
+gcc-92483,A,Compositae,,Anaphalis,,"nagasawai",,"","Hayata",Accepted,,M,TICA,A76855AC-5A64-499A-9639-88B79CD3633E,176448-1,"","","15","1906",
+gcc-26916,A,Compositae,,Anaphalis,,"neelgerryana",,"","(DC.) DC.",Accepted,,M,TICA,19DF8523-852C-4AE2-AE26-31C6084CCC36,176449-1,"","","272","1838",
+gcc-125373,A,Compositae,,Anaphalis,,"nepalensis",,"","(Spreng.) Hand.-Mazz.",Accepted,,M,TICA,35946B51-5BE7-4625-AE63-D2E09D0E424B,60445736-2,"Symb. Sin. 7","","1099","1936",
+gcc-142568,A,Compositae,,Anaphalis,,"nepalensis",,"","Spreng.",Synonym,,M,TICA,38FFA59B-FC66-4F0F-81BA-F9E066E501CF,,"""Systema Vegetabilium, editio decima sexta 3:""","","477","1826",gcc-125373
+gcc-64794,A,Compositae,,Anaphalis,,"nepalensis",var.,"corymbosa","(Bureau & Franch.) Hand.-Mazz.",Accepted,,L,TICA,600F9B2B-13F3-495F-9824-C12F58B6ABCB,,"Acta Horti Gothoburgensis 12(9):","","239-240","1938",
+gcc-52831,A,Compositae,,Anaphalis,,"nepalensis",var.,"cuneifolia","(DC.) Aswal",Synonym,,L,TICA,FF80AA0E-42D9-450C-B2B3-61F660603EED,978068-1,"","","326","1994",gcc-125373
+gcc-56477,A,Compositae,,Anaphalis,,"nepalensis",var.,"monocephala","(DC.) Hand.-Mazz.",Accepted,,L,TICA,453FCEC3-4230-40AA-8D50-7EE5AEBD1AE6,,"Acta Horti Gothoburgensis 12(9):","","239","1938",
+gcc-54463,A,Compositae,,Anaphalis,,"nepalensis",var.,"nepalensis","",Synonym,,L,TICA,A381D111-DB89-4B54-9B4E-6E4FCE894969,,"","","","",gcc-125373
+gcc-34290,A,Compositae,,Anaphalis,,"nervosa",,"","Ling",Synonym,,M,TICA,4A3E16A7-857F-410F-AFDA-3F8D2B7C0D1B,,"","","","1966",gcc-38877
+gcc-100555,A,Compositae,,Anaphalis,,"notoniana",,"","(DC.) DC.",Accepted,,M,TICA,696826A3-D468-4730-A523-9AE34C73F979,176451-1,"","","273","1838",
+gcc-46258,A,Compositae,,Anaphalis,,"nouhuysii",,"","Lauterb.",Synonym,,M,TICA,4DB85A5A-01A0-48A6-88FB-55BA2543250D,176452-1,"Nova Guinea 8","","865","1912",gcc-106635
+gcc-106926,A,Compositae,,Anaphalis,,"nubigena",,"","DC.",Accepted,,M,TICA,745D8930-355B-4E0F-9E66-A8ED30A74955,176453-1,"Prodr. 6","","272","1838",
+gcc-28899,A,Compositae,,Anaphalis,,"nubigena",var.,"intermedia","(DC.) Hook.f.",Synonym,,L,TICA,2140A837-8820-42D9-A93B-356C131052C0,,"The Flora of British India 3(8):","","279-280","1881",gcc-125373
+gcc-61084,A,Compositae,,Anaphalis,,"nubigena",var.,"monocephala","(DC.) C.B.Clarke",Synonym,,L,TICA,5A5B1CBE-5BB6-4C88-9B7D-A3BCC81B2CF6,,"Compositae Indica","","106","1876",gcc-56477
+gcc-150210,A,Compositae,,Anaphalis,,"nubigena",f.,"nubigena","",Synonym,,L,TICA,7B0C83A4-28E6-42D7-9831-695FCDB11306,,"","","","",gcc-106926
+gcc-155962,A,Compositae,,Anaphalis,,"nubigena",var.,"nubigena","",Synonym,,L,TICA,7CEA1DAD-A845-4C88-A03C-E38FABC19660,,"Fl. Brit. Ind. (J. D. Hooker). 3(8): 281. 1881","","281","1881",gcc-63065
+gcc-56617,A,Compositae,,Anaphalis,,"nubigena",var.,"papuana","Lauterb.",Synonym,,L,TICA,28A1FAD1-9F71-4F80-88A9-7FEACE7BF675,,"Nova Guinea 8","","864","1914",gcc-98210
+gcc-51140,A,Compositae,,Anaphalis,,"nubigena",var.,"polycephala","(DC.) C.B.Clarke",Synonym,,L,TICA,4B7A9E90-B617-498F-968D-5EDFA5C60551,,"Compositae Indica","","106","1876",gcc-125373
+gcc-140610,A,Compositae,,Anaphalis,,"nubigena",f.,"reducta-nana","Diels ex H.Limpr.",Synonym,,L,TICA,FB0C385F-B985-4504-B0AF-F573466A0621,,"""Repertorium Specierum Novarum Regni Vegetabilis, Beihefte 12:""","","505","1922",gcc-56477
+gcc-133240,A,Compositae,,Anaphalis,,"oblonga",,"","DC.",Synonym,,M,TICA,C1C18EB6-BFCD-47A6-9D09-E50F53C52D8F,176454-1,"","","274","1838",gcc-122738
+gcc-148720,A,Compositae,,Anaphalis,,"oblonga",var.,"elliptica","(DC.) Hook.f.",Synonym,,L,TICA,D5D9214A-041F-4801-83B1-492395FF6BB5,,"Fl. Brit. Ind. (J. D. Hooker). 3(8): 283. 1881","","283","1881",gcc-122738
+gcc-71205,A,Compositae,,Anaphalis,,"oblonga",var.,"lawii","Hook.f.",Synonym,,L,TICA,ED37463E-21EB-40BB-BDC9-F45D6F439CDD,,"Fl. Brit. Ind. (J. D. Hooker). 3(8): 283. 1881","","283","1881",gcc-96713
+gcc-150798,A,Compositae,,Anaphalis,,"oblonga",var.,"oblonga","",Synonym,,L,TICA,4B6299F7-EF28-4502-A09B-7650288EB215,,"","","","",gcc-122738
+gcc-143754,A,Compositae,,Anaphalis,,"occidentalis",,"","(Greene) A.Heller",Synonym,,M,TICA,B86BA36D-BF41-49C4-A77D-FC99BFD2FD5F,176455-1,"Muhlenbergia 1","","46","",gcc-48987
+gcc-99086,A,Compositae,,Anaphalis,,"oligandra",,"","DC.",Synonym,,M,TICA,2B4FAF6D-9D53-4D63-B6ED-9795574EF5D4,176456-1,"","","275","1838",gcc-10547
+gcc-98409,A,Compositae,,Anaphalis,,"oxyphylla",,"","Ling & C.Shih",Accepted,,M,TICA,77C32DD0-6812-4163-8C37-960DAB4F3CF3,176457-1,"","","107","1966",
+gcc-97962,A,Compositae,,Anaphalis,,"pachylaena",,"","Y.L.Chen & Ling",Accepted,,M,TICA,59F34CD8-2398-43EB-9AC2-95109DD46AAC,176458-1,"","","106","1966",
+gcc-105324,A,Compositae,,Anaphalis,,"pannosa",,"","Hand.-Mazz.",Accepted,,M,TICA,636F02DF-1938-4676-A11D-A559B3CC064F,176459-1,"","","1100","1936",
+gcc-95186,A,Compositae,,Anaphalis,,"papuana",,"","(Lauterb.) J.Kost.",Synonym,,M,TICA,E00E7C6A-53DA-43F2-B179-8EB52115BAB1,176460-1,"""Koster, J.T. 1972: The Compositae of New Guinea III. Blumea 20: 193-226.""","","201","1972",gcc-98210
+gcc-78202,A,Compositae,,Anaphalis,,"patentifolia",,"","Rech.f.",Accepted,,M,TICA,5543766F-C8DA-4300-B33F-6896051D10F7,176461-1,"","","35","1980",
+gcc-121589,A,Compositae,,Anaphalis,,"pedicellatum",,"","T.Anderson",Accepted,,M,TICA,8032BE62-27B3-4E5B-A5AE-CA1C5BCA6AF6,,"""J. Proc. Linn. Soc., Bot. 5(Suppl. 1): 26 (1860)""","","26","1860",
+gcc-82315,A,Compositae,,Anaphalis,,"pelliculata",,"","Trimen",Accepted,,M,TICA,9B54F6C1-0C8D-4141-8AB0-71C3154577C0,,"","","28","1895",
+gcc-112929,A,Compositae,,Anaphalis,,"plicata",,"","Kitam.",Accepted,,M,TICA,09394DCB-1841-406C-A3B4-B6895A9F81DE,176463-1,"","","37","1953",
+gcc-103806,A,Compositae,,Anaphalis,,"polylepis",,"","DC.",Synonym,,M,TICA,BFD14380-EE20-41B4-9795-A210DF8023EF,176464-1,"","","272","1838",gcc-86621
+gcc-122334,A,Compositae,,Anaphalis,,"porphyrolepis",,"","Ling & Y.L.Chen",Accepted,,M,TICA,6734D516-07AE-4DBB-BF4B-CBC9B9F20A1D,,"","","","1966",
+gcc-139798,A,Compositae,,Anaphalis,,"possietica",,"","Kom.",Synonym,,M,TICA,872F66D5-2BF1-4C62-927A-F386A517E71B,,"","","218","1932",gcc-138391
+gcc-92233,A,Compositae,,Anaphalis,,"prostrata",,"","(Hook.f.) F.Muell.",Synonym,,M,TICA,07C21BC6-398B-4CC9-8837-882A02EC262C,,"","","9","1889",gcc-24724
+gcc-77003,A,Compositae,,Anaphalis,,"pseudocinnamomea",,"","Grierson",Accepted,,M,TICA,C9B181B9-7A90-4B3A-A324-65DF1F988857,176468-1,"","","19","1974",
+gcc-7865,A,Compositae,,Anaphalis,,"pterocaulon",,"","(Franch. & Sav.) Maxim.",Synonym,,M,TICA,DAA8084B-62E5-4A64-A660-0EA44C917C08,176469-1,"","","478","1881",gcc-138391
+gcc-57223,A,Compositae,,Anaphalis,,"pterocaulon",var.,"atrata","Hand.-Mazz.",Synonym,,L,TICA,594A92A9-37A6-430C-BA57-84BB4616B701,,"Symbolae Sinicae 7(4):","","1103","1936",gcc-54067
+gcc-65476,A,Compositae,,Anaphalis,,"pterocaulon",var.,"calvescens","Pamp.",Synonym,,L,TICA,254A18DE-B64E-4BC3-8281-C7114688798C,,"""Nuovo Giornale Botanico Italiano, new series 18(1):""","","80","1911",gcc-9820
+gcc-62099,A,Compositae,,Anaphalis,,"pterocaulon",var.,"intermedia","Pamp.",Synonym,,L,TICA,FE76B23B-2E21-4E23-AFEA-ABF6AAF86279,,"""Nuovo Giornale Botanico Italiano, new series 18(1):""","","80-81","1911",gcc-9820
+gcc-148049,A,Compositae,,Anaphalis,,"pterocaulon",f.,"pterocaulon","",Synonym,,L,TICA,7225E7A6-695C-4D71-BD2B-3A929D8CBB25,,"","","","",gcc-138391
+gcc-156893,A,Compositae,,Anaphalis,,"pterocaulon",var.,"pterocaulon","",Synonym,,L,TICA,D5061AD1-B3D2-40E3-8C60-F659B56AA943,,"","","","",gcc-138391
+gcc-18371,A,Compositae,,Anaphalis,,"pterocaulon",var.,"sinica","(Hance) Hand.-Mazz.",Synonym,,L,TICA,DCB2F2E0-8609-45E3-A03E-21EE047CA374,,"Acta Horti Gothoburgensis 12(9):","","241","1938",gcc-138391
+gcc-55175,A,Compositae,,Anaphalis,,"pterocaulon",var.,"surculosa","Hand.-Mazz.",Synonym,,L,TICA,4E0BC49A-4B30-4086-B6A3-73E76BF08FDB,,"Symb. Sin. 7: 1103 (1936)","","1103","1936",gcc-108690
+gcc-20919,A,Compositae,,Anaphalis,,"racemifera",,"","Franch.",Accepted,,M,TICA,2C588662-4C5A-466C-843D-26AEBFBC02D2,,"","","310","1883",
+gcc-77638,A,Compositae,,Anaphalis,,"rhododactyla",,"","W.W.Sm.",Accepted,,M,TICA,D9E2A8D0-DD59-41A1-898B-6752285A51BF,,"","","","1918",
+gcc-41663,A,Compositae,,Anaphalis,,"roseo-alba",,"","Krasch.",Accepted,,M,TICA,E1EE78DD-E985-46BC-BF23-4D25C0B2D529,176472-1,"","","152","1946",
+gcc-146300,A,Compositae,,Anaphalis,,"roseo-alba",var.,"roseo-alba","",Synonym,,L,TICA,1AB86176-62A5-4E8E-AE05-15CA95746FE1,,"","","","",gcc-41663
+gcc-70823,A,Compositae,,Anaphalis,,"roseo-alba",var.,"siomensis","Kinzik. & Vainberg",Synonym,,L,TICA,9C15CA10-AE8E-4127-BA10-F1249724A3EA,950868-1,"in Fl. Tadzhikskoi SSR 9: 527 (1988)","","527","1988",gcc-41663
+gcc-86621,A,Compositae,,Anaphalis,,"royleana",,"","DC.",Accepted,,M,TICA,0FEAD28C-1D6E-44F9-8957-7B55A12E28D8,176473-1,"","","272","1838",
+gcc-91674,A,Compositae,,Anaphalis,,"royleana",,"","C.B.Clarke",Synonym,Illegitimate,M,TICA,B650BC92-D24F-4D11-A94E-86E09A5CB5FE,176474-1,"","","104","1876",gcc-2174
+gcc-58393,A,Compositae,,Anaphalis,,"royleana",var.,"royleana","",Synonym,,L,TICA,DF3D9B85-1D17-4579-97E0-8E4E5D11FC5D,,"Prodr. (DC.) 6: 272. 1838","","272","1838",gcc-86621
+gcc-50483,A,Compositae,,Anaphalis,,"rupestris",,"","C.J.Webb",Synonym,,M,TICA,2FAC7F47-8085-42C0-A215-5D9671E2203A,,"","","147","1987",gcc-8884
+gcc-906,A,Compositae,,Anaphalis,,"sarawschanica",,"","(C.Winkl.) B.Fedtsch.",Accepted,,M,TICA,08632B86-5F50-4CCA-9A80-01AEE8CC8678,,"","","208","1887",
+gcc-146212,A,Compositae,,Anaphalis,,"sarawschanica",var.,"sarawschanica","",Synonym,,L,TICA,F58FA20C-FE85-4B02-950D-13F74E66B434,,"","","","",gcc-906
+gcc-143801,A,Compositae,,Anaphalis,,"saxatilis",,"","(DC.) Boerl.",Accepted,,M,TICA,F519B4C7-CFFC-4A1B-8191-FCB13706BB9C,176476-1,"Handl. Fl. Ned. Ind. 2","","240","1891",
+gcc-129268,A,Compositae,,Anaphalis,,"scopulosa",,"","Boriss.",Accepted,,M,TICA,4969A4DD-76F5-4E17-902B-DBE640F2CF0A,176477-1,"","","592","1959",
+gcc-105198,A,Compositae,,Anaphalis,,"semidecurrens",,"","Wall. ex C.B.Clarke",Synonym,,M,TICA,DA2DC160-31EC-4615-8D62-A51871FC3584,,"Comp. Ind. 109.","","109","1875",gcc-123464
+gcc-144311,A,Compositae,,Anaphalis,,"semidecurrens",,"","(Wall. ex DC.) DC.",Synonym,,M,TICA,B596558C-CD80-4422-94D8-FDCD66B02897,,"Prodr. 6: 271 (1838)","","271","1838",gcc-123464
+gcc-134647,A,Compositae,,Anaphalis,,"sericeo-albida",,"","(H.Lév. & Vaniot) H.Lév.",Synonym,,M,TICA,D9BCD0B9-4B77-4746-89B3-E83C6FC2E47B,176479-1,"Fl. Kouy-Tcheou 85 (1914-15).","","85","1914",gcc-83015
+gcc-76623,A,Compositae,,Anaphalis,,"sericeoalba",,"","(Vaniot) H.Lév.",Synonym,,M,TICA,E6139718-BAD5-4234-AD97-6519A90972E6,,"Fl. Kouy-Tchéou: 85 (1914)","","85","1914",gcc-83015
+gcc-88293,A,Compositae,,Anaphalis,,"sessiliflora",,"","Hook.f. ex J.R.Drumm.",Synonym,,M,TICA,6748D540-72C7-4A76-97B4-7F1EAE8C3229,176480-1,"","","77","1910",gcc-88890
+gcc-102471,A,Compositae,,Anaphalis,,"sierrae",,"","A.Heller",Synonym,,M,TICA,832E183F-0010-49DE-A51D-9F32B4D4D0EA,12388-2,"Muhlenbergia 1","","147","1906",gcc-48987
+gcc-138391,A,Compositae,,Anaphalis,,"sinica",,"","Hance",Accepted,,M,TICA,DF336167-AEEC-400B-8725-F07879E1D596,176482-1,"J. Bot. 12","","261","1874",
+gcc-57895,A,Compositae,,Anaphalis,,"sinica",var.,"atrata","(Hand.-Mazz.) Kitam.",Synonym,,L,TICA,D792FA7D-F022-4C0E-BB32-8A2A92893F8C,,"Acta Phytotaxonomica et Geobotanica 12(2):","","100","1943",gcc-54067
+gcc-64299,A,Compositae,,Anaphalis,,"sinica",var.,"calvescens","(Pamp.) S.Y.Hu",Synonym,,L,TICA,043DBF51-1AC4-4FF8-9897-BD78D35A0FC4,,"Quaterly Journal of the Taiwan Museum 18(1-2):","","113","1965",gcc-9820
+gcc-34078,A,Compositae,,Anaphalis,,"sinica",subsp.,"intermedia","(Pamp.) Kitam.",Synonym,,L,TICA,1764D58C-D002-40DD-99A6-3F2FA0E88DE5,,"Acta Phytotaxonomica et Geobotanica 12(2):","","100","1943",gcc-9820
+gcc-44106,A,Compositae,,Anaphalis,,"sinica",var.,"morii","(Nakai) Ohwi",Accepted,,L,TICA,BAC13289-9489-471F-BC2F-51AB3B1DA221,,"","","87","1953",
+gcc-66672,A,Compositae,,Anaphalis,,"sinica",var.,"pernivea","T.Shimizu",Accepted,,L,TICA,3F6210D2-EB68-4AA1-A01F-D0A768D11EF1,,"","","66","1963",
+gcc-53558,A,Compositae,,Anaphalis,,"sinica",var.,"remota","Ling",Accepted,,L,TICA,E98DA280-69A9-496A-8770-67302332D912,,"Acta Phytotax. Sin. 11: 103 (1966)","","103","1966",
+gcc-155616,A,Compositae,,Anaphalis,,"sinica",subsp.,"sinica","",Synonym,,L,TICA,FF2AFF0B-44CF-4F8F-A395-DBE5079ED7BF,,"","","","",gcc-138391
+gcc-21227,A,Compositae,,Anaphalis,,"sinica",var.,"sinica","",Synonym,,L,TICA,EBE445B0-4994-4895-8520-2736B54946B6,,"","","","",gcc-138391
+gcc-53758,A,Compositae,,Anaphalis,,"sinica",var.,"tomentosa","(Hand.-Mazz.) Kitam.",Synonym,,L,TICA,F711B1E2-A634-42B9-BCFB-68A754B6F7E2,,"Acta Phytotaxonomica et Geobotanica 12(2):","","100","1943",gcc-53841
+gcc-70461,A,Compositae,,Anaphalis,,"sinica",var.,"viscosissima","(Honda) Kitam.",Accepted,,L,TICA,9544415A-721D-45EE-B8EA-EE51D8B14E3E,,"Acta Phytotax. Geobot. 12: 100 (1943)","","100","1943",
+gcc-52177,A,Compositae,,Anaphalis,,"sinica",var.,"yakusimensis","(Masam.) Yahara",Synonym,,L,TICA,692EEC2E-0D5A-4303-9FB2-60CA272B5733,953602-1,"","","","1987",gcc-44106
+gcc-110942,A,Compositae,,Anaphalis,,"sordida",,"","(Sch.Bip.) Boerl.",Synonym,,M,TICA,D3D03C21-5EDE-4538-A584-B2029063980C,176483-1,"Handl. Fl. Ned. Ind. 2","","240","1891",gcc-95519
+gcc-134301,A,Compositae,,Anaphalis,,"souliei",,"","Diels",Accepted,,M,TICA,B53C95E0-54C2-4799-9FB8-E778A0942BC9,176484-1,"Repert. Spec. Nov. Regni Veg. Beih. 12","","505","1922",
+gcc-103166,A,Compositae,,Anaphalis,,"spodiophylla",,"","Ling & Y.L.Chen",Accepted,,M,TICA,80BE781E-FEEB-4CCE-A0AE-A0A7D04D5EA8,,"","","","1966",
+gcc-119766,A,Compositae,,Anaphalis,,"staintonii",,"","Georgiadou",Accepted,,M,TICA,0AEBE7C2-416E-4EA4-A8C6-C5EAD4774AC6,176486-1,"","","137","1978",
+gcc-94561,A,Compositae,,Anaphalis,,"stenocephala",,"","Ling & C.Shih",Accepted,,M,TICA,1EC9D961-49E2-4469-87F7-8D41028D60E2,,"","","","1966",
+gcc-113655,A,Compositae,,Anaphalis,,"stoliczkai",,"","C.B.Clarke",Synonym,,M,TICA,6E297F69-0112-4662-9553-B81F9B761CC3,176488-1,"","","108","1876",gcc-138595
+gcc-138352,A,Compositae,,Anaphalis,,"subalpina",,"","(A.Gray) Rydb.",Synonym,,M,TICA,2710E97F-71A9-4A50-8851-F063A7D920BB,12389-2,"Mem. New York Bot. Gard. 1","","415","1900",gcc-48987
+gcc-122738,A,Compositae,,Anaphalis,,"subdecurrens",,"","(DC.) Gamble",Accepted,,M,TICA,B18ECC1F-4159-48EB-85C4-CCAF8292B09A,176490-1,"","","695","1921",
+gcc-120167,A,Compositae,,Anaphalis,,"subrigida",,"","(Colenso) C.J.Webb",Synonym,,M,TICA,B7036BA2-F489-4368-B911-C6E00B47DA81,,"","","147","1987",gcc-120531
+gcc-28164,A,Compositae,,Anaphalis,,"subtilis",,"","Kinzik. & Vainberg",Accepted,,M,TICA,E8B6D53D-0EE1-403E-A858-34085B711582,,"","","","1988",
+gcc-104135,A,Compositae,,Anaphalis,,"subumbellata",,"","C.B.Clarke",Accepted,,M,TICA,A2F25354-5BFD-4DBC-983A-A2D697A42D93,176491-1,"","","","1876",
+gcc-138863,A,Compositae,,Anaphalis,,"suffruticosa",,"","Hand.-Mazz.",Accepted,,M,TICA,E938C157-31CE-46C7-8940-F183C15177A8,176492-1,"","","631","1937",
+gcc-135818,A,Compositae,,Anaphalis,,"sulphurea",,"","(Trimen) Grierson",Accepted,,M,TICA,42AC552A-018F-42C1-9EA2-EAC847DC7E11,176493-1,"","","18","1974",
+gcc-108690,A,Compositae,,Anaphalis,,"surculosa",,"","(Hand.-Mazz.) Hand.-Mazz.",Accepted,,M,TICA,DF0BDE6B-F0BB-4169-B98D-ACE3D407D381,,"","","243","1938",
+gcc-124284,A,Compositae,,Anaphalis,,"szechuanensis",,"","Ling & Y.L.Chen",Accepted,,M,TICA,71AB929C-7AAC-4379-A709-D053702C21D5,,"","","","1966",
+gcc-51083,A,Compositae,,Anaphalis,,"tenella",,"","DC.",Synonym,,M,TICA,4AFA833C-436B-497D-B378-5EC473511940,176496-1,"","","273","1838",gcc-81704
+gcc-114300,A,Compositae,,Anaphalis,,"tenuicaulis",,"","Boriss.",Accepted,,M,TICA,A405A430-CD28-44B5-9E4E-B9845A0A73EC,176497-1,"","","589","1959",
+gcc-110726,A,Compositae,,Anaphalis,,"tenuisissima",,"","C.C.Chang",Accepted,,M,TICA,600FEF48-337A-4AA7-8309-B18F2DD3F002,,"Sinensia 6:","","542","1935",
+gcc-99803,A,Compositae,,Anaphalis,,"thwaitesii",,"","C.B.Clarke",Accepted,,M,TICA,EF973883-393C-4994-8D7A-99284D0BF582,176499-1,"","","","1876",
+gcc-156710,A,Compositae,,Anaphalis,,"thwaitesii",var.,"thwaitesii","",Synonym,,L,TICA,6475BFC0-1F2C-4075-849C-F2A5A5FD79F5,,"","","","",gcc-99803
+gcc-123227,A,Compositae,,Anaphalis,,"tibetica",,"","Kitam.",Accepted,,M,TICA,7C6152B6-7396-43CC-A13A-CDD2D6F8B22D,176500-1,"","","38","1953",
+gcc-129919,A,Compositae,,Anaphalis,,"timmua",,"","D.Don",Synonym,,M,TICA,CE6715A9-AC6F-4FE0-8FEC-DD63D878BE97,,"Prodr. Fl. Nepal. 174","","174","1825",gcc-48987
+gcc-96123,A,Compositae,,Anaphalis,,"timmua",,"","(Buch.-Ham. ex D.Don) Hand.-Mazz.",Synonym,,M,TICA,26D36E7C-1669-43A1-B83D-90D7A82B81F9,176502-1,"","","1102","1936",gcc-48987
+gcc-126103,A,Compositae,,Anaphalis,,"todaiensis",,"","Honda",Synonym,,M,TICA,7881C693-2E94-43E2-A0CF-D48D07487562,176503-1,"","","373","1932",gcc-66672
+gcc-108625,A,Compositae,,Anaphalis,,"transnokoensis",,"","Sasaki",Accepted,,M,TICA,142D9038-6185-4077-98B6-ACB35E317C04,176504-1,"","","166","1930",
+gcc-122530,A,Compositae,,Anaphalis,,"travancorica",,"","W.W.Sm.",Accepted,,M,TICA,932F4D9B-6C31-4550-8DC2-CC37B3DE79E4,176505-1,"","","284","1911",
+gcc-109691,A,Compositae,,Anaphalis,,"trinervis",,"","(G.Forst.) F.Muell.",Synonym,,M,TICA,F04D4C30-15CA-4967-AFF3-AF3892B1CB15,,"","","9","1889",gcc-38680
+gcc-36780,A,Compositae,,Anaphalis,,"trinervis",var.,"lyallii","(Hook.f.) F.Muell.",Synonym,,L,TICA,785B91C9-EBEE-4E68-B50D-442EF0CC7A2C,,"""Mueller, F. 1889: Transactions of the Royal Society of Victoria 1(2)""","","08-Oct","1889",gcc-38680
+gcc-56992,A,Compositae,,Anaphalis,,"trinervis",var.,"trinervis","",Synonym,,L,TICA,F3691F12-31A7-4222-9DB3-82B92158005E,,"","","","1889",gcc-38680
+gcc-123710,A,Compositae,,Anaphalis,,"triplinervis",,"","Benth. ex Hance",Unresolved,Illegitimate,L,TICA,64A52840-32E9-4291-9CF1-CEF74DCE0EEA,176508-1,"J. Bot. 16","","12","1878",
+gcc-129104,A,Compositae,,Anaphalis,,"triplinervis",,"","(Sims) Sims ex C.B.Clarke",Accepted,,M,TICA,F13DADF9-BAF3-429B-B51F-DB846DAE6E75,176507-1,"","","105","1876",
+gcc-69275,A,Compositae,,Anaphalis,,"triplinervis",var.,"intermedia","(DC.) Airy Shaw",Synonym,,L,TICA,37BDD23B-3411-477E-A929-E520D04B5E97,,"","","","1935",gcc-125373
+gcc-63065,A,Compositae,,Anaphalis,,"triplinervis",var.,"monocephala","(DC.) Airy Shaw",Accepted,,L,TICA,BCA67D7F-2508-4BD6-BF45-B3D83AE89CF6,,"","","","1935",
+gcc-150001,A,Compositae,,Anaphalis,,"triplinervis",var.,"triplinervis","",Synonym,,L,TICA,815F359F-9833-419A-B526-650D724A7B8E,,"Compos. Ind. 105. 1876","","105","1876",gcc-129104
+gcc-79294,A,Compositae,,Anaphalis,,"undulata",,"","Hand.-Mazz.",Synonym,,M,TICA,7AC6A62D-5812-4EC5-ACA6-6B1DAA772BE5,176509-1,"","","1104","1936",gcc-19904
+gcc-43542,A,Compositae,,Anaphalis,,"velutina",,"","Krasch.",Accepted,,M,TICA,4E8361DF-6B5B-48E8-93A0-50BA52A92FB6,,"","","","1946",
+tro-2728675,A,Compositae,,Anaphalis,,"viargata",,"","Thoms.",Unresolved,,L,TRO,2728675,,"","","","",
+gcc-128114,A,Compositae,,Anaphalis,,"virens",,"","C.C.Chang",Accepted,,M,TICA,F408EA10-6895-4A6A-BF84-D93FF8DEE11B,176511-1,"","","546","1935",
+gcc-138595,A,Compositae,,Anaphalis,,"virgata",,"","Thomson",Accepted,,M,TICA,9A23C195-1861-4B09-BF20-F0EFE75FB628,176512-1,"Compositae Indica","","107","1876",
+gcc-149786,A,Compositae,,Anaphalis,,"virgata",var.,"virgata","",Synonym,,L,TICA,9E1A99B6-AB70-4E1D-BFEA-604A5F8EFB89,,"","","","",gcc-138595
+gcc-48371,A,Compositae,,Anaphalis,,"viridis",,"","Cummins",Accepted,,L,TICA,EBA94110-BD60-487F-B96F-599D7BCDCCC7,,"","","19","1908",
+gcc-59017,A,Compositae,,Anaphalis,,"viridis",var.,"viridis","",Synonym,,L,TICA,FC24F7EE-830B-4DC9-A794-9327E307AC97,,"","","","",gcc-48371
+gcc-95519,A,Compositae,,Anaphalis,,"viscida",,"","(Blume) DC.",Accepted,,M,TICA,433CEE57-067F-4BA9-B9CF-8F8F7DACF6EB,176514-1,"Prodr. 6","","274","1838",
+gcc-14958,A,Compositae,,Anaphalis,,"viscida",var.,"horsfieldii","(Miq.) J.Kost.",Synonym,,L,TICA,38130C27-1831-426D-AE56-1BB06E6E4505,,"""Backer & Bakh. f., Fl. Java 2 (1965)""","","""392, footnote""","1965",gcc-73381
+gcc-73381,A,Compositae,,Anaphalis,,"viscida",f.,"horsfieldii","(Miq.) J.Kost.",Accepted,,L,TICA,A07F58F5-2272-4788-B0E5-16B7F8C7FB81,,"Blumea 4 (1941)","","483","1941",
+gcc-149502,A,Compositae,,Anaphalis,,"viscida",f.,"viscida","",Synonym,,L,TICA,448F6B37-BEFE-466B-92C1-5A1303697359,,"","","","",gcc-95519
+gcc-156062,A,Compositae,,Anaphalis,,"viscida",var.,"viscida","",Synonym,,L,TICA,85F89A60-8129-480A-9774-E5CC8F507AEC,,"","","","",gcc-95519
+gcc-12484,A,Compositae,,Anaphalis,,"viscosissima",,"","Honda",Synonym,,M,TICA,F0AEF22D-871F-4851-93E5-174561C9652A,,"J. Jap. Bot. 9","","","1933",gcc-70461
+gcc-100723,A,Compositae,,Anaphalis,,"wightiana",,"","Thwaites",Synonym,,M,TICA,AA8AFDC1-3195-4F90-AE64-9B475FDD55E1,176516-1,"","","166","1860",gcc-42380
+gcc-41996,A,Compositae,,Anaphalis,,"wightiana",,"","(Wall ex DC.) DC.",Accepted,,M,TICA,A38F88B3-FBA5-44A2-BDE9-4DC21E64FD1C,176517-1,"","","273","1838",
+gcc-108408,A,Compositae,,Anaphalis,,"wightii",,"","DC.",Unresolved,,L,TICA,26FDF085-F85B-4177-8A1C-AC35273DEF94,,"","","","",
+gcc-86677,A,Compositae,,Anaphalis,,"xylorhiza",,"","Sch.Bip. ex Hook.f.",Accepted,,M,TICA,944854E8-B331-4D86-8E46-7B76C5956523,176518-1,"","","281","1881",
+gcc-128901,A,Compositae,,Anaphalis,,"yakusimensis",,"","Masam.",Synonym,,M,TICA,D9B653B3-985C-4343-836C-DB15D5DBA7D8,,"","","125","1929",gcc-44106
+gcc-114444,A,Compositae,,Anaphalis,,"yangii",,"","Y.L.Chen & Y.L.Lin",Accepted,,M,TICA,65BD4EDF-2877-4853-8293-B9DE35C91D4C,,"","","387","2003",
+gcc-24634,A,Compositae,,Anaphalis,,"yedoensis",,"","Maxim.",Synonym,,M,TICA,5574A0F0-72BE-41E9-B238-2D81728C6C01,,"","","","1881",gcc-48987
+gcc-78567,A,Compositae,,Anaphalis,,"yunnanensis",,"","(Franch.) Diels",Accepted,,M,TICA,7C846282-C2C3-46EC-8562-696D98F80DCB,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 505 (1922)","","","",
+gcc-66599,A,Compositae,,Anaphalis,,"yunnanensis",var.,"muliensis","Hand.-Mazz.",Synonym,,L,TICA,602B7067-2011-4C5F-8585-D002CD129066,,"""Akad. Wiss. Wien Sitzungsber., Math.-Naturwiss. Kl. 61: 203 (1924)""","","203","1924",gcc-7473
+gcc-150283,A,Compositae,,Anaphalis,,"yunnanensis",var.,"yunnanensis","",Synonym,,L,TICA,FDFE3F4C-8499-4DF4-8B51-6B07FBEC5193,,"","","","",gcc-78567
+gcc-42380,A,Compositae,,Anaphalis,,"zeylanica",,"","C.B.Clarke",Accepted,,M,TICA,CF06198B-C5E4-470B-9BDE-4E86178E22AB,,"","","","1881",
+gcc-4392,A,Compositae,,Anaphalis,,"zollingeri",,"","Turcz.",Synonym,,M,TICA,E64AC098-C9C9-474E-98C5-082AD55F9E4E,176522-1,"","","54","1851",gcc-106046
+gcc-125816,A,Compositae,,Anaphalis,,"zollingeriana",,"","Sch.Bip.",Synonym,,M,TICA,0DD21803-0DD6-4899-AE15-D3EFC7701B1B,,"","","124","1854",gcc-106046
+gcc-49726,A,Compositae,,Anaphalis,,"zollingeriana",,"","Sch.Bip. ex Zoll.",Unresolved,,L,TICA,5BD80DC4-64B3-48B1-89AB-5C2B985EE4EB,176523-1,"Syst. Verz. Ind. Archip. 124.","","124","",

@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-84065,A,Compositae,,Aronicum,,"altaicum",,"","(Pall.) DC.",Synonym,,M,TICA,6E68ABEF-92C5-40E8-AE64-75AAC90CFA7F,1030861-2,"Prodr. (DC.) 6","","320","1838",gcc-99553
+gcc-96977,A,Compositae,,Aronicum,,"ambiguum",,"","Rouy",Unresolved,,L,TICA,9883DCE5-EC71-4096-A8E1-92C9EBCC05C7,179113-1,"""in Rev. Bot. Syst. Geogr. Bot. i. 52 (1903), in syn.""","","""i. 52 , in syn.""","1903",
+gcc-121247,A,Compositae,,Aronicum,,"atlanticum",,"","Chabert",Synonym,,M,TICA,21060D24-F1AD-4ADF-AC41-C960A98B7E09,,"","","385","1891",gcc-5892
+gcc-6452,A,Compositae,,Aronicum,,"barcense",,"","Simonk.",Synonym,,M,TICA,80BE993A-6EB1-489C-9533-0C0374A35212,,"","","","",gcc-143816
+gcc-137350,A,Compositae,,Aronicum,,"bauhini",,"","Rchb.f.",Synonym,,M,TICA,1E8EE952-5E9A-4C5A-95B8-EE4683075EF0,,"","","","1854",gcc-30150
+gcc-80447,A,Compositae,,Aronicum,,"carpathicum",,"","(Griseb. & A.Schenk) Schur",Synonym,,M,TICA,32941229-7D3B-4C61-B242-6D9DFBBF5DBB,179117-1,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 10","","137","1859",gcc-51185
+gcc-138248,A,Compositae,,Aronicum,,"clusii",,"","(All.) W.D.J.Koch",Synonym,,M,TICA,181BFB8E-E79C-4A37-9624-F0303C36E962,1055707-2,"","","382","1837",gcc-30150
+gcc-130793,A,Compositae,,Aronicum,,"cordatum",,"","Schur.",Unresolved,,L,TICA,8199105E-BA00-4844-9D4B-DF5FBA58A721,179119-1,"","","","1853",gcc-144376
+gcc-44307,A,Compositae,,Aronicum,,"corsicum",,"","(Loisel.) DC.",Synonym,,M,TICA,E2F7EB79-E79D-451E-88C7-5211A1007306,179120-1,"","","319","1838",gcc-30912
+gcc-105522,A,Compositae,,Aronicum,,"doronicum",,"","(Jacq.) Rchb.",Synonym,,M,TICA,C0836412-A9E6-4571-B838-A5C282A5C60E,1109407-2,"","","233","1831",gcc-82210
+gcc-135868,A,Compositae,,Aronicum,,"glaciale",,"","Rchb.",Synonym,,M,TICA,4C80C04C-CB9A-49E4-9ECC-EAE5DF59F1D2,179122-1,"","","234","1831",gcc-82210
+gcc-2290,A,Compositae,,Aronicum,,"latifolium",,"","Rchb.",Synonym,,M,TICA,2D9E6AD9-06CC-42C3-A667-042766B3FAE3,179123-1,"","","234","1831",gcc-143816
+gcc-13779,A,Compositae,,Aronicum,,"scorpioides",,"","(Lam.) W.D.J.Koch",Synonym,,M,TICA,7686FB4D-110D-4D21-809D-199EAE83A55F,,"""W. D. J. Koch, Syn. Fl. Germ. Helv. 1837.""","","382","1837",gcc-143816
+gcc-143401,A,Compositae,,Aronicum,,"scorpioides",,"","(L.) Rchb.",Unresolved,,L,TICA,5B1CD472-5710-41B3-A6B9-FBCD1A139A01,1086011-2,"Fl. Germ. Excurs. 1: 233. 1831 [1831-32]","","233","1831",
+gcc-25304,A,Compositae,,Aronicum,,"scorpioides",,"","(L.) DC.",Synonym,,M,TICA,7ED4C427-1565-45C5-AF2C-2EB5D47B04DF,,"","","","1838",gcc-82210
+gcc-12698,A,Compositae,,Aronicum,,"scorpioides",var.,"carpaticum","Griseb. & Schenk",Synonym,,L,TICA,FAB92414-A9D3-49EF-BB7F-17A7DC428B8D,329148-2,"","","342","1852",gcc-51185
+gcc-67075,A,Compositae,,Aronicum,,"scorpioides",var.,"pyrenaicum","Godr.",Synonym,,L,TICA,0F0810C1-6364-4AA2-9FF6-D3F9455CA853,,"""Godr. in Grenier & Godron, Fl. France 2. 1850.""","","109","1850",gcc-143816
+gcc-151112,A,Compositae,,Aronicum,,"scorpioides",var.,"scorpioides","",Synonym,,L,TICA,FAB121C1-2641-417D-BAFD-7DD189239CB9,,"","","","",gcc-143816
+gcc-96456,A,Compositae,,Aronicum,,"scorpioideum",,"","St.-Lag.",Synonym,,M,TICA,CEB8B697-AE6E-4E38-98E0-9195E31BC6AA,179125-1,"","","119","1880",gcc-143816
+gcc-38495,A,Compositae,,Aronicum,,"viscosum",,"","Freyn & Gaut.",Synonym,,M,TICA,E8ABCEEE-667B-40C5-AF0A-476AF8AF567E,179126-1,"Bull. Soc. Bot. France 28","","50","1881",gcc-143816

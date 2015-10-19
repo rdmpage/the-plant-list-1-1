@@ -1,0 +1,237 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-105521,A,Compositae,,Liatris,,"acidota",,"","Engelm. & A.Gray",Accepted,,M,TICA,22AB6789-C8DC-4059-B60E-A5C25E3E5A56,,"Boston J. Nat. Hist. v. (1847) 218.","","218","1845",
+gcc-54670,A,Compositae,,Liatris,,"acidota",var.,"acidota","",Synonym,,L,TICA,A563006A-D35D-4744-8BFB-6FE5C8FD038E,,"","","","1845",gcc-105521
+gcc-65000,A,Compositae,,Liatris,,"acidota",var.,"vernalis","Engelm. & A.Gray",Synonym,,L,TICA,109E3E8D-087F-44E3-8429-C2F7806AD6A4,139542-2,"Boston J. Nat. Hist. 5: 219. 1845 Pl. Lindheim. 11.  1845","","219","1845",gcc-105521
+gcc-7709,A,Compositae,,Liatris,,"aestivalis",,"","G.L.Nesom & O'Kennon",Accepted,,M,TICA,BF10063C-A67C-4679-B845-0E5242AABA15,20005142-1,"Sida 19(4)","","","2001",
+gcc-149653,A,Compositae,,Liatris,,"alata",,"","(Nelson) Schumann",Unresolved,,L,TICA,6F27B552-F938-455B-981B-5D7E6F1DF7ED,,"Just's Bot. Jahresber. 29(1): 569. 1903. ","","569","1903",
+gcc-91205,A,Compositae,,Liatris,,"alata",,"","(A.Nelson) K.Schum.",Unresolved,,L,TICA,CF733C50-665D-4F70-A91E-85D5EFB1375E,139543-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",
+gcc-22311,A,Compositae,,Liatris,,"amplexicaulis",,"","Raf.",Synonym,,M,TICA,B44FFA18-0A8C-442F-83B7-294A6FB90561,,"New Fl. (Rafinesque) iv. 76 (Quid ?).","","76","1838",gcc-128318
+gcc-121823,A,Compositae,,Liatris,,"angustifolia",,"","(Bush) Gaiser",Accepted,,M,TICA,0B26610A-F8CB-4476-99EB-CA9B9A11A4BD,139544-2,"","","368","1946",
+gcc-119927,A,Compositae,,Liatris,,"aspera",,"","Michx.",Accepted,,L,TICA,D6B4F6CB-F438-43EE-AD22-C64E058296C3,230545-1,"Fl. Bor.-Amer. (Michaux) ii. 92","","92","1803",
+gcc-140794,A,Compositae,,Liatris,,"aspera",f.,"aspera","",Synonym,,L,TICA,C10E94F7-EC24-4739-BC71-F5E4C6A38519,,"","","","",gcc-119927
+gcc-61098,A,Compositae,,Liatris,,"aspera",var.,"aspera","",Synonym,,L,TICA,81152DEA-443D-43F7-BCB1-A3D4893F9C6E,,"","","","",gcc-119927
+gcc-53683,A,Compositae,,Liatris,,"aspera",var.,"intermedia","(Lunell) Gaiser",Synonym,,L,TICA,4B9B5EA7-4CC2-4C9F-AC57-68119AA7A7F4,139547-2,"Rhodora 48: 305. 1946","","305","1946",gcc-119927
+gcc-71136,A,Compositae,,Liatris,,"aspera",var.,"salutans","(Lunell) Shinners",Synonym,,L,TICA,84FCBB6A-A078-4116-988A-F3D6B5542641,139548-2,"Spring Fl. Dallas-Fort Worth Area 410. 1958","","410","1958",gcc-119927
+gcc-13026,A,Compositae,,Liatris,,"baicalensis",,"","Adams",Synonym,,M,TICA,B02CB44B-C128-4A2C-8757-1841E30CFFAD,230546-1,"in Mem. Soc. Nat. Mosc. v. (1817) 115.","","115","1817",gcc-32599
+gcc-11399,A,Compositae,,Liatris,,"bebbiana",,"","Rydb.",Synonym,,M,TICA,405FF68A-B4D5-455A-AF53-154ACA04D5C8,139550-2,"","","99","1931",gcc-25846
+tro-2715322,A,Compositae,,Liatris,×,"bebbiana",,"","Rydb.",Synonym,,M,TRO,2715322,139550-2,"Brittonia","1(2): 99","99","1931",gcc-25846
+gcc-151728,A,Compositae,,Liatris,,"bellidifolia",,"","Michaux",Synonym,,M,TICA,1961A38D-2B28-49AA-B032-8B1ACB16886F,,"Fl. Bor.-Amer. 2: 93. 1803. ","","93","1803",gcc-112461
+gcc-87520,A,Compositae,,Liatris,,"bellidifolia",,"","Michx.",Synonym,,M,TICA,8650C294-85A7-4306-8C4C-7D7892F7DEE9,,"Fl. Bor.-Amer. (Michaux) ii. 92","","","1803",gcc-112461
+gcc-139205,A,Compositae,,Liatris,,"borealis",,"","Nutt. ex J.McNab",Accepted,,L,TICA,D653058F-77E8-4A59-A95A-F23C97F6FFED,321907-2,"","","60","1835",
+gcc-39747,A,Compositae,,Liatris,,"borealis",,"","Nutt.",Synonym,Illegitimate,M,TICA,5E40C1D4-42F6-47A2-ACE6-49BE96C7638E,,"","","27","1838",gcc-139205
+gcc-89522,A,Compositae,,Liatris,,"borealis",,"","Paxton",Unresolved,,L,TICA,CB9450CE-324B-43B0-BAE1-81E33B7C50EF,324605-2,"Paxton's Mag. Bot. 5: t. 27. 1838","","t. 27","1838",
+gcc-72788,A,Compositae,,Liatris,,"borealis",f.,"borealis","",Synonym,,L,TICA,257D4FBC-249F-47EB-BAF4-02CE08F000B7,,"","","","",gcc-139205
+gcc-35013,A,Compositae,,Liatris,,"botrys",,"","Raf.",Unresolved,,L,TICA,C8F2E229-3019-40FE-9E00-40EC7302BD24,,"New Fl. (Rafinesque) iv. 76 (Quid ?).","","76","1838",
+gcc-19047,A,Compositae,,Liatris,×,"boykinii",,"","Torr. & A.Gray",Accepted,,M,TICA,6F8D4424-8E84-4364-918F-2328A9F5FAF5,230551-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 70","","70","1841",
+gcc-98553,A,Compositae,,Liatris,,"brachystachya",,"","Nutt.",Synonym,,L,TICA,00B6FB34-4505-4396-9209-96639AEE282E,230552-1,"in Journ. Acad. Philad. vii. (1834) 72.","","72","1834",gcc-156297
+gcc-131493,A,Compositae,,Liatris,,"bracteata",,"","Gaiser",Accepted,,M,TICA,0928EEBF-3B3B-4649-94B7-E1055291509A,139553-2,"","","371","1946",
+gcc-152842,A,Compositae,,Liatris,,"brasiliensis",,"","Gardner",Synonym,,M,TICA,0681F539-3306-493E-82E4-A19DC444031D,139554-2,"London J. Bot. 5: 461. 1846.","","461","1846",gcc-46782
+gcc-79343,A,Compositae,,Liatris,,"carinata",,"","(Small) Coker",Synonym,,M,TICA,3C1BC570-F93D-47ED-8498-6B3F746A9D24,139555-2,"""Pl. Life Hartsville, S.C. 108. 1912""","","108","1912",gcc-153299
+gcc-2464,A,Compositae,,Liatris,,"chapmanii",,"","Torr. & A.Gray",Accepted,,M,TICA,F469EAB5-0B67-4DFC-86D2-047B2C8FCBF5,230555-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 502","","502","1843",
+gcc-11740,A,Compositae,,Liatris,,"cokeri",,"","Pyne & Stucky",Accepted,,M,TICA,C5BA2F13-2D5D-4EBF-984F-15DC63FE5C18,,"","","","1990",
+gcc-76768,A,Compositae,,Liatris,,"compacta",,"","(Torr. & A.Gray) Rydb.",Synonym,,L,TICA,C895612F-1F81-4422-921A-655FB4F44B18,139557-2,"","","98","1931",gcc-23292
+gcc-100367,A,Compositae,,Liatris,,"cordata",,"","Royle ex C.B.Clarke",Synonym,,M,TICA,455F3222-BFF6-4F93-9C8E-9A7564A31BEF,230557-1,"Comp. Ind. 247.","","247","1876",gcc-83123
+gcc-84632,A,Compositae,,Liatris,,"corymbosa",,"","Nutt.",Synonym,,M,TICA,90FC4612-3715-4E3A-9B61-76F34DEBC2FA,230558-1,"Gen. Am. ii. 132","","132","1818",gcc-83668
+gcc-132188,A,Compositae,,Liatris,×,"creditonensis",,"","Gaiser",Accepted,,M,TICA,5ED3C0BE-458E-4032-8E00-E2A2D814D321,290212-2,"","","409","1946",
+gcc-149871,A,Compositae,,Liatris,,"cylindracea",,"","Michx.",Accepted,,M,TICA,553F585A-7C73-492B-9F49-62039B794923,230560-1,"Fl. Bor.-Amer. 2: 93. 1803.","","93","1803",
+gcc-141874,A,Compositae,,Liatris,,"cylindracea",f.,"cylindracea","",Synonym,,L,TICA,4D8EC55E-09E0-45A5-97D9-F864CF539F01,,"","","","",gcc-149871
+gcc-153866,A,Compositae,,Liatris,,"cylindracea",var.,"cylindracea","",Synonym,,L,TICA,07DE1781-0773-439A-AE31-B6EE20D9CC18,,"","","","",gcc-149871
+gcc-6237,A,Compositae,,Liatris,,"cylindrica",,"","Torr.",Synonym,,L,TICA,7D2B293E-CD47-4EA6-BFF6-0B9BEE76D864,230561-1,"Ann. Lyceum Nat. Hist. New York ii. (1828) 210","","210","1828",gcc-119226
+gcc-123680,A,Compositae,,Liatris,,"cymosa",,"","K.Schum.",Accepted,,M,TICA,58882CE3-D29D-4F3C-BE8F-CEE2E8A39765,139561-2,"""Bot. Jahresber. (Just) 27, pt. 1: 528. 1901""","","528","1901",
+gcc-156981,A,Compositae,,Liatris,,"cymosa",,"","(Nessel) Schumann",Unresolved,,L,TICA,07ABD03C-8CFD-4483-A2CB-F84EE806EDF4,,"Just's Bot. Jahresber. 27(1): 528. 1901.","","528","1901",
+gcc-151103,A,Compositae,,Liatris,×,"deamii",,"","(Lunell) Shinn.",Synonym,,L,TICA,C3815298-F6A5-49B2-8BCB-7DB4C835E4C3,,"Amer. Midl. Naturalist 29: 31. 1943. ","","31","1943",gcc-149219
+gcc-598,A,Compositae,,Liatris,×,"deamii",,"","(Lunell) Shinners",Unresolved,Illegitimate,L,TICA,07225DF8-4712-4204-AA30-012333DBA7EF,290211-2,"","","31","1943",
+gcc-1926,A,Compositae,,Liatris,,"densispicata",,"","(Bush) Gaiser",Accepted,,M,TICA,61815165-12A0-4154-BFAB-037AA8727A11,139563-2,"","","363","1946",
+gcc-62602,A,Compositae,,Liatris,,"densispicata",var.,"densispicata","",Synonym,,L,TICA,FEDB477A-F824-4CB3-BC37-B02491E6E7E2,,"","","","1946",gcc-119226
+gcc-129928,A,Compositae,,Liatris,,"dubia",,"","Barton",Synonym,,M,TICA,9CCBD958-E875-470C-86A7-DD662152F41F,,"Veg. Mat. Med. ii. 223. t. 49.","","","1818",gcc-81447
+gcc-148766,A,Compositae,,Liatris,,"earlei",,"","(Greene) Schumann",Synonym,,M,TICA,794EAC7C-0849-403B-B7AE-4A1B730FCDDA,,"Just's Bot. Jahresber. 29(1): 569. 1903.","","569","1903",gcc-157216
+gcc-94816,A,Compositae,,Liatris,,"earlei",,"","(Greene) K.Schum.",Synonym,,M,TICA,104E5A93-24EC-47FF-AE05-8DE74BC46D08,139564-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",gcc-157216
+gcc-149885,A,Compositae,,Liatris,,"elegans",,"","(Walter) Michx.",Accepted,,L,TICA,2652AC67-0C3F-4548-B08F-62518BFDCBDA,30103277-2,"Fl. Bor.-Amer. 2: 91. 1803.","","91","1803",
+gcc-24315,A,Compositae,,Liatris,,"elegans",,"","(Walter) Willd.",Synonym,Illegitimate,L,TICA,CABB719D-F311-43B4-87DB-2CE7EF7A16D0,230565-1,"","","1635","1803",gcc-149885
+gcc-150072,A,Compositae,,Liatris,,"elegans",f.,"elegans","",Synonym,,L,TICA,834E5C69-F86A-4ADD-907D-667DD5BC2EE8,,"","","","",gcc-149885
+gcc-65078,A,Compositae,,Liatris,,"elegans",var.,"elegans","",Synonym,,L,TICA,34A6CDDF-5F61-455B-85B0-C3AAF945ABA4,,"","","","",gcc-149885
+gcc-58733,A,Compositae,,Liatris,,"elegans",var.,"flabellata","(Small) Gaiser",Synonym,,L,TICA,D8290DC7-566E-40BD-B0F6-90EC02B79F82,139567-2,"Rhodora 48: 345. 1946","","345","1946",gcc-149885
+gcc-74922,A,Compositae,,Liatris,,"elegans",f.,"flabellata","(Small) Mayfield",Synonym,,L,TICA,959131AE-B1E5-48AF-B058-52BC2B193274,20010116-1,"Sida 20(2)","","603","2002",gcc-149885
+gcc-136736,A,Compositae,,Liatris,,"elegantula",,"","(Greene) K.Schum.",Accepted,,M,TICA,76BD19D7-4F29-43E6-BF26-ECE0ED52DD27,139569-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",
+gcc-152344,A,Compositae,,Liatris,,"elegantula",,"","(Greene) Schumann",Synonym,,M,TICA,F2C9B412-5BC0-46AF-A886-97741418689F,,"Just's Bot. Jahresber. 29(1): 569. 1903.","","569","1903",gcc-81447
+gcc-14423,A,Compositae,,Liatris,,"fallacior",,"","(Lunell) Rydb.",Accepted,,M,TICA,C68A21DB-72CC-4B8D-9628-1AC5130CAAEE,139570-2,"Flora of the Prairies and Plains of Central North America","","780","1932",
+gcc-154771,A,Compositae,,Liatris,,"flabellata",,"","(Small) Schumann",Synonym,,L,TICA,1CC0A6F6-DFFA-495F-A438-CAAA1119B1E5,,"Just's Bot. Jahresber. 26(1): 378. 1900.","","378","1900",gcc-149885
+gcc-6194,A,Compositae,,Liatris,,"flabellata",,"","(Small) K.Schum.",Unresolved,,L,TICA,03368885-6A7C-48A7-B555-0B8534B4DA9F,139571-2,"","","378","1900",gcc-149885
+gcc-129979,A,Compositae,,Liatris,,"flexuosa",,"","D.Thomas",Synonym,,M,TICA,9CD9D254-1E2D-470B-AF68-DD846413257F,230569-1,"","","338","1839",gcc-149871
+gcc-25976,A,Compositae,,Liatris,×,"freemaniana",,"","J.R.Allison",Accepted,,M,TICA,F53A84D6-AB4A-446E-9CAD-30024CBC39B5,,"","","","2001",
+gcc-41549,A,Compositae,,Liatris,×,"frostii",,"","Gaiser",Unresolved,Illegitimate,L,TICA,356AB50D-144B-41AF-A630-4CF138403714,290210-2,"","","245","1946",
+gcc-79931,A,Compositae,,Liatris,,"fruticosa",,"","Nutt.",Synonym,,M,TICA,7FC3D577-9E21-468C-B17D-6C6F6CB7FC03,,"in Am. Journ. Sc. v. (1822) 299.","","","1822",gcc-153822
+gcc-97097,A,Compositae,,Liatris,,"garberi",,"","A.Gray",Accepted,,M,TICA,3C3A61A4-525E-4F10-AD23-931905AC8176,230572-1,"","","48","1880",
+gcc-31080,A,Compositae,,Liatris,,"gholsonii",,"","L.C.Anderson",Accepted,,M,TICA,EF791870-C3E6-4722-B590-398BD28C689C,20010126-1,"Sida 20(1)","","","2002",
+gcc-3166,A,Compositae,,Liatris,,"glabrata",,"","Rydb.",Synonym,,L,TICA,33C8218F-16E4-40BB-BB0A-05DA284C6191,139573-2,"","","98","1931",gcc-23292
+gcc-57583,A,Compositae,,Liatris,,"glabrata",var.,"alabamensis","(Alexander ex Alexander) Shinners",Synonym,,L,TICA,2A40E9D8-D0B6-4FD0-9924-8780EE99DD3F,139574-2,"Field & Lab. 19: 76. 1951","","76","1951",gcc-44198
+gcc-28909,A,Compositae,,Liatris,,"glabrata",var.,"glabrata","",Synonym,,L,TICA,60A6757A-5536-430F-8F64-35710F2573BA,,"","","","",gcc-23292
+gcc-115384,A,Compositae,,Liatris,×,"gladewitzii",,"","(Farw.) Farw. ex Shinners",Unresolved,Illegitimate,L,TICA,03288503-2768-4F0A-B0F3-BC0657AD5FDB,290208-2,"","","37","1943",
+gcc-35521,A,Compositae,,Liatris,×,"gladewitzii",,"","(Farw.) Farw.",Unresolved,,L,TICA,348C6D78-846C-48B5-BE06-41D9FD358DFC,230574-1,"in Amer. Midl. Nat. xxix. 37 (1943)","","37","1943",
+gcc-124594,A,Compositae,,Liatris,,"glandulosa",,"","G.L.Nesom & O'Kennon",Accepted,,M,TICA,9A797128-D9FC-40F4-B9D7-D112F8AC8F4B,20005143-1,"Sida 19(4)","","","2001",
+gcc-147398,A,Compositae,,Liatris,,"gracilis",,"","Pursh.",Unresolved,,L,TICA,1AF5519B-C67D-4643-AA39-2CB34F0C9416,139575-2,"","","","",
+gcc-31713,A,Compositae,,Liatris,,"gracilis",,"","Pursh",Accepted,,L,TICA,52C0B55F-DAC7-4B7A-B6E9-3AC7241B254B,139575-2,"Fl. Am. Sept. ii. 508.","","","",
+gcc-102261,A,Compositae,,Liatris,,"graminifolia",,"","Pursh",Synonym,Illegitimate,M,TICA,A7FE22FF-4C50-421A-83FB-9EAC2DC65DF3,,"","","508","",gcc-81447
+gcc-33495,A,Compositae,,Liatris,,"graminifolia",,"","(Walter) Willd.",Synonym,,M,TICA,496E64A8-72E9-4B6A-AF81-3E1C4B145141,139576-2,"","","1636","1803",gcc-81447
+gcc-70567,A,Compositae,,Liatris,,"graminifolia",var.,"dubia","A.Gray",Synonym,,L,TICA,1FD92EA4-235C-4A43-95BA-EF09D001E71E,,"A Manual of the Botany of the Northern United States","","191","1848",gcc-81447
+gcc-28887,A,Compositae,,Liatris,,"graminifolia",var.,"elegantula","(Greene) Gaiser",Synonym,,L,TICA,DFC3DBCD-9CDB-4C4F-B139-3567EACCC75E,60439255-2,"Rhodora 48: 254. 1946 [Sep 1946]","","254","1946",gcc-136736
+gcc-48760,A,Compositae,,Liatris,,"graminifolia",var.,"elegantula","(Greene) K.Schum.",Synonym,,L,TICA,CED908EB-BFD2-48D0-A9F3-5A551CFB6785,,"","","","",gcc-136736
+gcc-58257,A,Compositae,,Liatris,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,C7BD9CA9-BBBC-4E87-B3E8-8D2D45FC76B9,,"","","","",gcc-81447
+gcc-55904,A,Compositae,,Liatris,,"graminifolia",var.,"lasia","Fernald & Griscom",Synonym,,L,TICA,B0DC770F-D54A-44E3-818F-79FBF85801F5,139578-2,"Rhodora 37: 183. 1935","","183","1935",gcc-81447
+gcc-66688,A,Compositae,,Liatris,,"graminifolia",var.,"racemosa","(DC.) Venard",Synonym,,L,TICA,B6C66922-2646-444F-8F16-D0C94979C611,139579-2,"Rhodora 51: 35. 1949","","35","1949",gcc-81447
+gcc-32720,A,Compositae,,Liatris,,"graminifolia",var.,"smallii","(Britton) Fernald & Griscom",Synonym,,L,TICA,2AD24A1A-5F5A-4CCA-9100-3CAD372E6D5F,139580-2,"Rhodora 37: 182. 1935","","182","1935",gcc-81447
+gcc-63653,A,Compositae,,Liatris,,"graminifolia",var.,"virgata","(Nutt.) Fernald",Synonym,,L,TICA,0BD2C288-8882-424F-82F7-B87F1BBC581B,139582-2,"Rhodora 51: 104. 1949","","104","1949",gcc-81447
+gcc-148135,A,Compositae,,Liatris,,"haled",,"","(Small) Schumann",Unresolved,,L,TICA,53502891-2608-4F97-8F54-3C52194CCBDB,,"Just's Bot. Jahresber. 28(1): 477. 1902. ","","477","1902",
+gcc-102602,A,Compositae,,Liatris,,"halei",,"","(Small) K.Schum.",Unresolved,,L,TICA,E8AA8411-BCF2-4A87-96D3-9F842052A489,139583-2,"","","477","1902",
+gcc-128687,A,Compositae,,Liatris,,"haywardii",,"","Rydb.",Synonym,,L,TICA,CF5DE0E0-2403-493A-9E23-DA98B7F345B6,139584-2,"","","99","1931",gcc-154306
+gcc-144508,A,Compositae,,Liatris,,"helleri",,"","(Porter) Porter",Accepted,,M,TICA,C4B56943-2098-4F15-99F6-FE405D6D1C78,139585-2,"","","147","1891",
+gcc-101786,A,Compositae,,Liatris,,"herrickii",,"","(Steele) Rydb.",Synonym,,L,TICA,48C9A2D8-2C2B-4C88-85F8-9D854FDEACF8,139586-2,"","","99","1931",gcc-154306
+gcc-124821,A,Compositae,,Liatris,,"heterophylla",,"","R.Br.",Unresolved,,L,TICA,3BAC3DE8-E9DD-4641-9B25-D195DC22D08C,,"""Hortus Kew. (W.T. Aiton), ed. 2. 4: 503""","","","1812",
+gcc-156956,A,Compositae,,Liatris,,"heterophylla",,"","R.Br.Aiton",Unresolved,,L,TICA,2A14C501-8D3C-44C5-94C7-F79D6A7E5174,230582-1,"Hort. Kew. 2. 4: 503. 1812.","","503","1812",
+gcc-49151,A,Compositae,,Liatris,,"hirsuta",,"","Rydb.",Synonym,,L,TICA,C71EE200-9ACF-427A-B4E3-5B076BC91BE6,,"Brittonia i. 98 (1931).","","","1931",gcc-23292
+gcc-80916,A,Compositae,,Liatris,,"hirsutiflora",,"","Kostel.",Synonym,,L,TICA,D0FC2A24-1F99-41DD-B62F-6EA9A1C3A88F,,"Allg. Med.-Pharm. Fl. ii. 651","","651","1833",gcc-23292
+gcc-156782,A,Compositae,,Liatris,,"hirsutissima",,"","Poiret ex steudel",Synonym,,L,TICA,03CF4281-6C33-42BE-A413-F43A26597A4B,,"Nomencl. Bot. 2: 40. 1841. ","","40","1841",gcc-156297
+gcc-45697,A,Compositae,,Liatris,,"hirsutissima",,"","Poir. ex Steud.",Unresolved,Illegitimate,L,TICA,7DA19CD9-6649-41DE-948F-54B48EE1E15F,,"""Nomencl. Bot., ed. 2 (Steudel) 2: 40""","","40","",
+gcc-105523,A,Compositae,,Liatris,,"intermedia",,"","Lindl.",Synonym,,M,TICA,DF18E5B6-543C-4319-B301-A5C313DA429C,,"Bot. Reg. t. 948.","","","1826",gcc-149871
+gcc-146663,A,Compositae,,Liatris,,"intermedia",,"","lindley",Synonym,,M,TICA,5F4B9107-4B98-4582-81E1-1D7A56DA29EE,,"Bot. Reg. 948. 1826. ","","948","1826",gcc-149871
+tro-100377493,A,Compositae,,Liatris,×,"johnsonii",,"","M. White",Unresolved,,L,TRO,100377493,,"Phytoneuron","2012–21: 1–4, f. 1 [center], 2","1","2012",
+gcc-125147,A,Compositae,,Liatris,,"kansana",,"","Britton",Synonym,,M,TICA,109A72C4-9730-4906-B441-D25EABF1E087,,"","","","",gcc-156198
+gcc-7960,A,Compositae,,Liatris,,"kansana",,"","(Britton) Rydb.",Synonym,,M,TICA,DFEDBAF2-D641-4FF0-A822-0ECF0DE5F61E,139588-2,"","","781","1932",gcc-156198
+gcc-52485,A,Compositae,,Liatris,,"laevigata",,"","(Nutt.) Nutt.",Accepted,,M,TICA,B5D8ECCF-F3B4-475E-AE45-614A2201DC3D,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 285""","","285","1840",
+gcc-137275,A,Compositae,,Liatris,,"lanata",,"","Spreng. ex DC.",Synonym,Invalid,M,TICA,D32F2816-F830-4ED5-B280-EE1A560EE6F9,230589-1,"","","540","1838",gcc-155338
+gcc-103084,A,Compositae,,Liatris,,"lanceolata",,"","Bertol.",Unresolved,,L,TICA,CC912EB7-3CED-43F1-A24B-A08379C38CCA,,"Misc. Bot. v. 11. t. 3.","","","1846",
+gcc-145587,A,Compositae,,Liatris,,"lanceolata",,"","Benol.",Synonym,,L,TICA,23B502F1-A404-4923-9DE5-07028872AA41,,"Misc. Bot.5: 11. 1846. ","","11","1846",gcc-31713
+gcc-156198,A,Compositae,,Liatris,,"lancifolia",,"","(Greene) Kittell",Accepted,,M,TICA,0CB46B5C-86D7-4CA8-8485-E8716BF776AB,139590-2,"Fl. Ariz. New Mex. 370. 1941.","","370","1941",
+gcc-3784,A,Compositae,,Liatris,,"langloisii",,"","(Greene) Cory",Synonym,,L,TICA,59D746F3-01F2-41E1-8E2D-070B85587C7F,139591-2,"","","407","1936",gcc-156297
+gcc-101109,A,Compositae,,Liatris,,"latifolia",,"","D.Don",Synonym,,L,TICA,1CE3F3B6-F7EB-4AA3-BA0C-9C1C6D4992D4,230593-1,"Prodr. Fl. Nepal.","","169","1825",gcc-90719
+gcc-152593,A,Compositae,,Liatris,,"laxa",,"","(Small) Schumann",Synonym,,L,TICA,EE93089C-CD91-4CC0-8BF0-9CCF2A417641,,"Just's Bot. Jahresber. 26(1): 378. 1900. ","","378","1900",gcc-31713
+gcc-50113,A,Compositae,,Liatris,,"laxa",,"","(Small) K.Schum.",Unresolved,,L,TICA,1B520559-2FC7-48CA-B8A6-5CE43E3A66A6,139592-2,"","","378","1900",gcc-31713
+gcc-139426,A,Compositae,,Liatris,,"ligulistylis",,"","(A.Nelson) Rydb.",Unresolved,Illegitimate,L,TICA,B6C5B9C4-33FB-4445-8AD0-F2B7CF8722EC,,"Brittonia i. 100 (1931).","","","1931",gcc-154306
+gcc-154306,A,Compositae,,Liatris,,"ligulistylis",,"","(A.Nelson) K.Schum.",Accepted,,L,TICA,2F8AD97B-5872-4E4F-93F5-C0F23EE77BA0,139593-2,"","","569","1903",
+gcc-75411,A,Compositae,,Liatris,,"ligulistylis",,"","A.Nelson",Unresolved,,L,TICA,7029BD75-E518-45B1-8D6F-625FB4BA85E2,230595-1,"New Man. Bot. Centr. Rocky Mts. 488 (1909).","","488","1909",
+gcc-77411,A,Compositae,,Liatris,,"ligulistylis",f.,"ligulistylis","",Synonym,,L,TICA,2217EAAE-6096-4E0D-95CA-66D6A9E2328E,,"","","","",gcc-154306
+gcc-100861,A,Compositae,,Liatris,,"linaria",,"","Raf.",Synonym,,L,TICA,1B897AE9-95E7-4A61-90EC-9B92F0A7BCD2,230597-1,"Fl. Ludov. 61.","","61","1817",gcc-156297
+gcc-116995,A,Compositae,,Liatris,,"lobelioides",,"","wallich ex C.B.Clarke",Synonym,Illegitimate,L,TICA,A96B91C8-7744-408B-A075-BFA517EC1FB0,230598-1,"Comp. Ind. 246.","","246","1876",gcc-90719
+gcc-135589,A,Compositae,,Liatris,×,"macdanieliana",,"","J.R.Allison",Accepted,,M,TICA,84E3ADC1-88BF-40AD-BADD-EA55237D0B86,,"","","180","2001",
+gcc-109645,A,Compositae,,Liatris,,"macrostachya",,"","Michx.",Unresolved,Illegitimate,L,TICA,10F2557D-7D4D-4C92-B1D2-AF1EE2D1DCAA,230599-1,"Fl. Bor.-Amer. (Michaux) ii. 91","","91","1803",
+gcc-154569,A,Compositae,,Liatris,,"macrostachya",,"","Michaux",Synonym,,M,TICA,44A3DED1-6222-4C80-91EC-C66E4B8BB746,,"Fl. Bor.-Amer. 2: 91. 1803. ","","91","1803",gcc-21976
+gcc-156226,A,Compositae,,Liatris,,"magnifica",,"","hon. ex Gardner",Synonym,,M,TICA,7C91D11E-7DCB-4B9F-B35A-E90BD714C032,,"Kew Herb. Pl. 263. 1895. ","","263","1895",gcc-21976
+gcc-77152,A,Compositae,,Liatris,,"magnifica",,"","Hort.",Unresolved,,L,TICA,67096B73-236F-42C2-9A23-663CAFC3E585,230600-1,"""ex Gard. Kew, Herb. Pl. (1895) 263.""","","263","1895",
+gcc-121583,A,Compositae,,Liatris,,"marginata",,"","Cass.",Synonym,,M,TICA,5A2EA828-B1D0-440F-B77D-CA18FF45E0D6,230601-1,"","","236","1823",gcc-149871
+gcc-113511,A,Compositae,,Liatris,,"microcephala",,"","(Small) K.Schum.",Accepted,,M,TICA,987005FA-3356-447D-9980-B7C5BFF5EB7A,139596-2,"","","378","1900",
+gcc-130162,A,Compositae,,Liatris,,"monocephala",,"","Cass.",Synonym,,M,TICA,53D2F62B-8D46-438A-8A24-DDE7E3B8D33F,230603-1,"","","237","1823",gcc-149871
+gcc-123100,A,Compositae,,Liatris,,"mucronata",,"","Torr. & A.Gray",Unresolved,,L,TICA,BC3F330B-6340-418F-AD74-CD89FE827A34,230605-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 70","","70","1841",
+gcc-82134,A,Compositae,,Liatris,,"mucronata",,"","DC.",Accepted,,M,TICA,5DCF8F99-5CF1-4EA0-928C-71565FACE702,327206-2,"Prodr. (DC.) 5: 129","","129","1836",
+gcc-70637,A,Compositae,,Liatris,,"mucronata",var.,"interrupta","Gaiser",Synonym,,L,TICA,138FBCEA-BFE9-4724-B397-EF8F01B94C8C,,"Rhodora 48(575):","","365-366","1948",gcc-119226
+gcc-152128,A,Compositae,,Liatris,,"mucronata",f.,"mucronata","",Synonym,,L,TICA,5405D34F-D659-4C64-A824-93168A20B3F7,,"","","","",gcc-82134
+gcc-60854,A,Compositae,,Liatris,,"mucronata",var.,"mucronata","",Synonym,,L,TICA,53FA01F2-C3F1-44BB-83DA-A1C38ECA8F81,,"","","","1836",gcc-82134
+gcc-146347,A,Compositae,,Liatris,,"nervata",,"","(Greene) Schumann",Synonym,,M,TICA,7C199C54-EA39-47FD-A2C7-16C63C07F802,,"Just's Bot. Jahresber. 29(1): 569. 1903.","","569","1903",gcc-149871
+gcc-49166,A,Compositae,,Liatris,,"nervata",,"","(Greene) K.Schum.",Unresolved,,L,TICA,EA597215-7787-47F2-8211-5B0BA455724A,139600-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",
+gcc-100164,A,Compositae,,Liatris,×,"nieuwlandii",,"","(Lunell) Gaiser",Unresolved,Illegitimate,L,TICA,41D2E6F7-970F-4814-827F-99F93679A66D,290206-2,"","","325","1946",
+gcc-155149,A,Compositae,,Liatris,,"novae-angliae",,"","(Lunell) Shinn.",Synonym,,M,TICA,94553619-78F4-4445-B5B3-D207A1504C6D,,"Amer. Midl. Naturalist 29: 29. 1943. ","","29","1943",gcc-139205
+gcc-35968,A,Compositae,,Liatris,,"novae-angliae",,"","(Lunell) Shinners",Synonym,,M,TICA,35CFF101-2535-4BB8-A1A1-42B1B797A3D3,139601-2,"","","29","1943",gcc-17777
+gcc-55559,A,Compositae,,Liatris,,"novae-angliae",var.,"nieuwlandii","(Lunell) Shinners",Synonym,,L,TICA,15D58FC7-8023-4171-A8F1-76F54DD16784,139603-2,"Amer. Midl. Naturalist 29: 31. 1943","","31","1943",gcc-100164
+gcc-145348,A,Compositae,,Liatris,,"novae-angliae",var.,"novae-angliae","",Synonym,,L,TICA,25C6A1B4-6988-41DD-B7A2-02583AE247FA,,"","","","",gcc-17777
+gcc-147062,A,Compositae,,Liatris,,"novae-angliae",f.,"novae-angliae","",Synonym,,L,TICA,2E9EDF2C-7E80-499D-93E3-25A051A6C40B,,"","","","",gcc-17777
+gcc-129849,A,Compositae,,Liatris,,"odoratissima",,"","(J.F.Gmel.) Willd.",Synonym,Illegitimate,M,TICA,45267D12-7A1D-43AC-A774-DD35AB426876,230608-1,"","","1637","1803",gcc-128318
+gcc-139983,A,Compositae,,Liatris,,"odoratissima",,"","(J.F.Gmel.) Michx.",Synonym,,M,TICA,AD0CDD22-C2F8-4311-945B-F3F059C30093,230609-1,"Flora Boreali-Americana 2:","","93","1803",gcc-128318
+gcc-140717,A,Compositae,,Liatris,,"ohlingerae",,"","(S.F.Blake) B.L.Rob.",Accepted,,M,TICA,E5877F19-64B3-4692-AB28-F5BB0C4E9C5C,230610-1,"Contr. Gray Herb. 104","","49","1934",
+gcc-38894,A,Compositae,,Liatris,,"oligocephala",,"","J.R.Allison",Accepted,,M,TICA,AAD16D6C-E338-4DEB-BFB2-4824B8E21805,,"","","","2001",
+gcc-23783,A,Compositae,,Liatris,,"oppositifolia",,"","Nutt.",Synonym,,M,TICA,D4F5C109-2FEC-4A34-8489-2BF4EB8C805C,230611-1,"in Am. Journ. Sc. v. (1822) 299.","","299","1822",gcc-155947
+tro-100377494,A,Compositae,,Liatris,×,"orzellii",,"","G.L. Nesom",Unresolved,,L,TRO,100377494,77118209-1,"Phytoneuron","2012–21: 5–6","5","2012",
+gcc-133503,A,Compositae,,Liatris,,"paniculata",,"","(J.F.Gmel.) Michx.",Synonym,,M,TICA,16571C43-B283-449E-8428-E5A12A3B13F6,60444109-2,"Fl. Bor.-Amer. (Michaux) 2: 93","","93","1803",gcc-78490
+gcc-155630,A,Compositae,,Liatris,,"paniculata",,"","(J.F.Gmelin) Michaux",Synonym,,M,TICA,86CF766A-CF5F-4311-A9F9-DC334107AF20,,"Fl. Bor.-Amer. 2: 93. 1803. ","","93","1803",gcc-41082
+gcc-94984,A,Compositae,,Liatris,,"paniculata",,"","(J.F.Gmel.) Willd.",Unresolved,,L,TICA,5CDDA1C5-428F-45D4-9EC9-8E46028916B5,230612-1,"""Sp. Pl., ed. 4. 3(3): 1637""","","1637","1803",
+gcc-30617,A,Compositae,,Liatris,,"patens",,"","G.L.Nesom & Kral",Accepted,,M,TICA,CAB8FD56-2BA2-4012-9DA9-38B001F554D1,329951-2,"Sida 20(4): 1579 (-1582; figs. 2-3). 2003 [22 Dec 2003]","","""1579-1582, f. 2, 3 [map]""","2003",
+gcc-155639,A,Compositae,,Liatris,,"pauciflora",,"","Pursh.",Unresolved,,L,TICA,0C77C7F7-0253-45D9-AEE1-DC71F7A7C35A,,"","","","",
+gcc-5096,A,Compositae,,Liatris,,"pauciflora",,"","Pursh",Accepted,,M,TICA,78382401-3C38-4703-9189-09847C2C509E,,"","","510","",
+gcc-53809,A,Compositae,,Liatris,,"pauciflora",var.,"pauciflora","",Synonym,,L,TICA,3F8F59D8-67DA-4978-AB72-690219EB7389,,"","","","2004",gcc-5096
+gcc-14908,A,Compositae,,Liatris,,"pauciflosculosa",,"","Nutt.",Synonym,,L,TICA,D12BA93B-6718-4E07-B71C-1B9B063999BE,,"in Journ. Acad. Philad. vii. (1834) 71.","","","1834",gcc-31713
+gcc-31535,A,Compositae,,Liatris,,"picta",,"","Barton ex DC.",Synonym,Illegitimate,M,TICA,5C741B02-2E43-42F1-982C-3A771C4AA413,230615-1,"Prodr. (DC.) 5: 130","","130","1836",gcc-21976
+gcc-39573,A,Compositae,,Liatris,,"pilosa",,"","[Ker-Gawl.]",Unresolved,Illegitimate,L,TICA,C9C76EE9-F010-4BB2-9D84-49712484451B,230616-1,"Bot. Reg. t. 595.","","595","1821",gcc-21976
+gcc-81447,A,Compositae,,Liatris,,"pilosa",,"","(Aiton) Willd.",Accepted,,M,TICA,94A24BD2-6CE3-44E1-B910-6FD2D2C36509,230617-1,"Sp. Pl. iii. 1636.","","1636","1803",
+gcc-60041,A,Compositae,,Liatris,,"pilosa",var.,"laevicaulis","DC.",Synonym,,L,TICA,A08C77F8-D98F-4ED1-A937-9B23F20630D8,139607-2,"Prodr. (DC.) 5: 131","","131","1836",gcc-81447
+gcc-55942,A,Compositae,,Liatris,,"pilosa",var.,"pilosa","",Synonym,,L,TICA,4678DB94-3603-4E2E-820D-7A595E466163,,"","","","",gcc-81447
+gcc-10529,A,Compositae,,Liatris,,"platylepis",,"","(Small) K.Schum.",Unresolved,,L,TICA,017B2658-13F3-4398-B5C2-13A74568F1F8,139608-2,"Just's botanischer Jahresbericht. 28(1):","","477","1902",gcc-149161
+gcc-149161,A,Compositae,,Liatris,×,"platylepis",,"","(Schumann) Small",Accepted,,L,TICA,02EFA813-3A3B-43E0-815B-52E5D94EA1AD,,"""Just's Bot. Jahresber, 28(1): 477. 1902.""","","477","1902",
+gcc-105031,A,Compositae,,Liatris,,"propinqua",,"","Hook.",Synonym,,M,TICA,659B04D8-F4B0-43C6-A9AE-A4C569DC9B81,,"Bot. Mag. 67: t. 3829","","3829","1841",gcc-81447
+gcc-122694,A,Compositae,,Liatris,,"provincialis",,"","R.K.Godfrey",Accepted,,M,TICA,E187E0DD-8ECA-4E57-B248-CC92A5E43773,,"","","","1961",
+gcc-36949,A,Compositae,,Liatris,,"pumila",,"","Lodd.",Synonym,,M,TICA,6DCFCDE4-B278-4C99-B512-447268545FE3,,"Bot. Cab. t. 147.","","","1818",gcc-21976
+gcc-119226,A,Compositae,,Liatris,,"punctata",,"","Hook.",Accepted,,L,TICA,F56F0C06-10F5-4BB0-8372-C4B27FB7E871,,"Fl. Bor.-Amer. (Hooker) i. 306. t. 105.","","","1833",
+gcc-58587,A,Compositae,,Liatris,,"punctata",var.,"coloradensis","(Gaiser) Waterf.",Synonym,,L,TICA,94F99B36-9A44-47EF-A2CC-8FFA090A4825,139614-2,"Rhodora 52: 175. 1950","","175","1950",gcc-119226
+gcc-74008,A,Compositae,,Liatris,,"punctata",f.,"coloradensis","Gaiser",Unresolved,,L,TICA,16CB6ADA-E0EE-4397-BEA2-2F103B5BF532,,"Rhodora 48: 351. 1946","","","1946",gcc-119226
+gcc-68437,A,Compositae,,Liatris,,"punctata",var.,"mexicana","Gaiser",Synonym,,L,TICA,470D2ED4-AB47-4E2A-8E49-DEDF0AE9641B,,"Rhodora 48: 354. 1946","","","1946",gcc-119226
+gcc-10051,A,Compositae,,Liatris,,"punctata",var.,"nebraskana","Gaiser",Synonym,,L,TICA,59C623CF-A1C2-4948-9DF1-12CD95546F33,,"Rhodora 48: 353. 1946","","","1946",gcc-119226
+gcc-101086,A,Compositae,,Liatris,,"punctata",f.,"punctata","",Synonym,,L,TICA,F7A5D178-4404-4BA0-9FF6-9C0CA790FD8E,,"","","","",gcc-119226
+gcc-68343,A,Compositae,,Liatris,,"punctata",var.,"punctata","",Synonym,,L,TICA,78C38F61-35AF-4BB7-B701-DE0F0A598D3F,,"","","","1833",gcc-119226
+gcc-129970,A,Compositae,,Liatris,,"pycnostachya",,"","Michx.",Accepted,,M,TICA,6C3E8856-B346-46F1-8154-DD7E0560617C,230623-1,"","","91","1803",
+gcc-156297,A,Compositae,,Liatris,,"pycnostachya",,"","Michaux",Unresolved,,L,TICA,345261BD-1D37-45C8-8CD6-EA52A7DDBDC6,,"Fl. Bor.-Amer. 2: 91. 1803.","","91","1803",
+gcc-1651,A,Compositae,,Liatris,,"pycnostachya",var.,"lasiophylla","Shinners",Accepted,,L,TICA,A8070FAF-0487-4871-86CC-02F7F5944EAF,,"Field & Lab. 19: 74. 1951","","","1951",
+gcc-141737,A,Compositae,,Liatris,,"pycnostachya",f.,"pycnostachya","",Synonym,,L,TICA,F5CAFAA8-D616-435F-B1A0-F80F86603B2E,,"","","","",gcc-129970
+gcc-25846,A,Compositae,,Liatris,,"pycnostachya",var.,"pycnostachya","",Accepted,,L,TICA,4DFEF71E-689B-4C77-87AD-2FC302C9B811,,"","","","",
+gcc-104386,A,Compositae,,Liatris,,"radians",,"","Bertol.",Synonym,,L,TICA,21F4AEC3-A2C4-4457-A694-A363EF88D825,,"","","9","1846",gcc-149885
+gcc-153299,A,Compositae,,Liatris,,"regimontis",,"","(Small) Schumann",Accepted,,M,TICA,1B6EC3B8-737A-4899-8C7B-AB63AF59E5A4,,"Just's Bot. Jahresber.26(1): 378. 1900.","","378","1900",
+gcc-87121,A,Compositae,,Liatris,,"regimontis",,"","(Small) K.Schum.",Synonym,,M,TICA,B03974A3-922C-4750-8E22-7C8AC5E6E14A,139622-2,"","","378","1900",gcc-81447
+gcc-124919,A,Compositae,,Liatris,,"resinosa",,"","DC.",Unresolved,,L,TICA,89EFB2B1-5C14-4F1A-BCBF-D1D2D126B46C,230627-1,"Prodr. (DC.) 5: 129","","129","1836",
+gcc-89249,A,Compositae,,Liatris,,"resinosa",,"","Nutt.",Synonym,,M,TICA,7F014358-B638-43D6-9879-814773A07060,230626-1,"Gen. Am. ii. 131","","131","1818",gcc-21976
+gcc-117518,A,Compositae,,Liatris,×,"ridgwayi",,"","Standl.",Accepted,,M,TICA,2CE27D84-972E-4C19-AF4F-C0E020DBDA8A,290204-2,"Rhodora 31:","","37","1929",
+gcc-99178,A,Compositae,,Liatris,,"rosendahlii",,"","Rydb.",Synonym,,L,TICA,E31C804A-3ADF-43EE-B362-97C5AC700446,139624-2,"","","100","1931",gcc-154306
+gcc-32702,A,Compositae,,Liatris,,"savannensis",,"","Kral & G.L.Nesom",Accepted,,M,TICA,461823BA-3FC2-4370-905F-3CA25F17618E,329950-2,"""Sida 20(4): 1574 (-1577, 1579; figs. 1-3). 2003 [22 Dec 2003]""","","""1574-1577, 1579, f. 1, 3 [map]""","2003",
+gcc-152120,A,Compositae,,Liatris,,"scabra",,"","(Greene) Schumann",Synonym,,M,TICA,F54E46D8-8DDA-4D67-BCE1-92F2E81DDE86,,"J ust's Bot. Jahresber. 29(1): 569. 1903. ","","569","1903",gcc-157216
+gcc-33618,A,Compositae,,Liatris,,"scabra",,"","(Greene) K.Schum.",Synonym,,M,TICA,EE9B2BAB-088D-4E0D-9AD2-3E57F066F2CF,139625-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",gcc-157216
+gcc-144731,A,Compositae,,Liatris,,"scariosa",,"","(L.) Willd.",Accepted,,M,TICA,19682425-F9C4-40EC-B815-FEC90E635E6D,230630-1,"""Sp. Pl., ed. 4. 3""","","1635","1803",
+gcc-29886,A,Compositae,,Liatris,,"scariosa",var.,"nieuwlandii","(Lunell) E.G.Voss",Synonym,,L,TICA,99F3DC75-2422-43D5-AAD3-3741CD1D6AA1,,"","","139","",gcc-100164
+gcc-17777,A,Compositae,,Liatris,,"scariosa",var.,"novae-angliae","Lunell",Accepted,,L,TICA,F5E26E70-C8C4-45C7-92DC-20D1CF0ACCD8,,"","","","",
+gcc-56490,A,Compositae,,Liatris,,"scariosa",var.,"novae-angliae","(Lunell) ""Gandhi, S.M.Young & P.Somers""",Synonym,,L,TICA,C3D31AA2-1E26-434E-AD37-7EF86AB225D3,1126765-2,"Taxon 52(2)","","316","2003",gcc-17777
+gcc-147992,A,Compositae,,Liatris,,"scariosa",f.,"scariosa","",Synonym,,L,TICA,2281CE7A-E275-4B31-B5EB-398CBBFB8DE2,,"","","","",gcc-144731
+gcc-71218,A,Compositae,,Liatris,,"scariosa",var.,"scariosa","",Synonym,,L,TICA,0CEB8158-5C75-433C-A687-F47A32995D2F,,"","","","",gcc-144731
+gcc-65383,A,Compositae,,Liatris,,"scariosa",var.,"squarrulosa","(Michx.) A.Gray",Synonym,,L,TICA,70987BE0-FC69-4E9F-8695-C65717C90805,139628-2,"""Syn. Fl. N. Amer. 1, pt. 2: 110. 1884""","","110","1884",gcc-157216
+gcc-70291,A,Compositae,,Liatris,,"scariosa",var.,"virginiana","(Lunell) Gaiser",Synonym,,L,TICA,29B7664D-8C6D-4E82-A071-ECEDC00E9159,139630-2,"Rhodora 48: 296. 1946","","296","1946",gcc-144731
+gcc-111725,A,Compositae,,Liatris,,"secunda",,"","Elliott",Synonym,,M,TICA,C0F1C44E-B14B-44DF-A2A7-B3C463DE192D,,"","","278","",gcc-5096
+gcc-145297,A,Compositae,,Liatris,×,"serotina",,"","(Greene) Schumann",Accepted,,M,TICA,22FA2388-C62B-4DC7-AE20-016652F81224,,"Just's Bot. Jahresber. 29(1): 569. 1903.","","569","1903",
+gcc-48969,A,Compositae,,Liatris,,"serotina",,"","(Greene) K.Schum.",Synonym,,M,TICA,D101B2D3-3932-40CB-9CB2-5AB24AA1B357,139632-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",gcc-1651
+gcc-131608,A,Compositae,,Liatris,,"sessiliflora",,"","Bertol.",Unresolved,,L,TICA,223D4576-6D18-445F-A1EF-E14AD4DFF697,,"Misc. Bot. v. 10. t. 2.","","","1846",
+gcc-150524,A,Compositae,,Liatris,,"sessiliflora",,"","Benol.",Synonym,,M,TICA,243AE9F4-1FAF-4BFD-9B1D-70A4D20947AD,,"Misc. Bot.5: 10. 1846. ","","10","1846",gcc-21976
+gcc-119130,A,Compositae,,Liatris,,"sphaeroides",,"","Michx.",Unresolved,,L,TICA,A0EA6BCB-6E0C-4928-A189-C4814042AF9E,,"Fl. Bor.-Amer. (Michaux) ii. 92","","92","",
+gcc-110045,A,Compositae,,Liatris,,"spheroidea",,"","Michx.",Accepted,,M,TICA,5C7535ED-2060-42F1-B10B-AFFE00E58CF2,,"Flora Boreali-Americana 2:","","92","1803",
+gcc-149219,A,Compositae,,Liatris,×,"spheroidea",,"","Michaux",Unresolved,,L,TICA,EE449A02-BD96-460E-93A8-542A626070A3,,"Fl. Bor.-Amer. 2: 92. 1803.","","92","1803",
+gcc-24599,A,Compositae,,Liatris,,"spheroidea",var.,"salutans","(Lunell) Shinners",Synonym,,L,TICA,4F34A43C-E326-4564-A587-2D6D206B1F18,139636-2,"Amer. Midl. Naturalist 29: 37. 1943","","37","1943",gcc-119927
+gcc-150661,A,Compositae,,Liatris,,"spheroidea",f.,"spheroidea","",Synonym,,L,TICA,6543F072-1EEF-4D86-81A1-737D6146CFA5,,"","","","",gcc-110045
+gcc-40737,A,Compositae,,Liatris,,"spheroidea",var.,"spheroidea","",Synonym,,L,TICA,64ACDD9C-76BA-4761-A439-4B7E72A27918,,"","","","",gcc-110045
+gcc-21976,A,Compositae,,Liatris,,"spicata",,"","(L.) Willd.",Accepted,,M,TICA,7640C680-94E3-4181-B56D-28A56A8963CF,,"","","","",
+gcc-37748,A,Compositae,,Liatris,,"spicata",var.,"racemosa","DC.",Synonym,,L,TICA,709CA676-B806-4AD0-B76D-460083864F49,139639-2,"Prodr. (DC.) 5: 130","","130","1836",gcc-81447
+gcc-130125,A,Compositae,,Liatris,,"spicata",f.,"spicata","",Synonym,,L,TICA,FD4765DE-CC92-4595-B501-DDD264F07D9D,,"","","","",gcc-21976
+gcc-70078,A,Compositae,,Liatris,,"spicata",var.,"spicata","",Synonym,,L,TICA,AEE477B3-D709-4338-A18B-EB514E0B1C75,,"","","","",gcc-21976
+gcc-22978,A,Compositae,,Liatris,,"squamosa",,"","Nutt.",Synonym,,M,TICA,B77528CF-C85C-4BE0-9F95-2A8AF16889C9,230635-1,"in Journ. Acad. Philad. vii. (1834) 73.","","73","1834",gcc-30593
+gcc-18345,A,Compositae,,Liatris,,"squarrosa",,"","(L.) Michx.",Accepted,,M,TICA,45B96E47-D14A-409E-B901-21E3C96E7486,,"Fl. Bor.-Amer. ii. 92 (1803).","","","1803",
+gcc-23292,A,Compositae,,Liatris,,"squarrosa",,"","(L.) Willd.",Unresolved,Illegitimate,L,TICA,B400A895-3B13-476E-9D8D-2B1AB0F40901,230636-1,"","","1634","1803",
+gcc-61066,A,Compositae,,Liatris,,"squarrosa",var.,"alabamensis","Gaiser",Synonym,,L,TICA,95CCDBD8-DBF4-4A7B-921B-A399C5585AD3,139642-2,"Rhodora 48: 398. 1946","","398","1946",gcc-44198
+gcc-62581,A,Compositae,,Liatris,,"squarrosa",var.,"compacta","Torr. & A.Gray",Synonym,,L,TICA,2622D440-FB84-47FA-A04F-AFFEDAC9E71E,139644-2,"","","68","1841",gcc-23292
+gcc-68850,A,Compositae,,Liatris,,"squarrosa",var.,"gracilenta","Gaiser",Synonym,,L,TICA,CA7DDDE5-F044-413B-8094-E1FC487D5B0D,,"","","","1946",gcc-44198
+gcc-541,A,Compositae,,Liatris,,"squarrosa",var.,"hirsuta","(Rydb.) Gaiser",Synonym,,L,TICA,05780C55-89ED-41D1-8F25-010487F03FB8,,"Rhodora 48(576):","","399","1946",gcc-23292
+gcc-27769,A,Compositae,,Liatris,,"squarrosa",var.,"intermedia","(Lindl.) DC.",Synonym,,L,TICA,56EF2A50-1F35-4CE8-BE36-33535C2CDDE3,139650-2,"Prodr. (DC.) 5: 129","","129","1836",gcc-149871
+gcc-150703,A,Compositae,,Liatris,,"squarrosa",f.,"squarrosa","",Synonym,,L,TICA,CE5E0D78-4B9A-4272-B4A6-74B345311D36,,"","","","",gcc-23292
+gcc-44198,A,Compositae,,Liatris,,"squarrosa",var.,"squarrosa","",Accepted,,L,TICA,CAC347A7-6951-45BD-868B-51DB2C7194E7,,"","","","",
+gcc-157216,A,Compositae,,Liatris,,"squarrulosa",,"","Michx.",Accepted,,M,TICA,E99D506D-FD0C-4ED1-BDFB-FD6E8AEFA4AF,230638-1,"Fl. Bor.-Amer. 2: 92. 1803.","","92","1803",
+gcc-26865,A,Compositae,,Liatris,×,"steelei",,"","Gaiser",Unresolved,Illegitimate,L,TICA,755D9163-487B-4FFA-A182-31AC6C5CDB9B,,"","","","1946",
+gcc-149405,A,Compositae,,Liatris,×,"stellei",,"","Gaiser",Accepted,,M,TICA,DFD1220C-E574-454F-817B-5804981277C1,290203-2,"Rhodora 48: 227. 1946.","","227","1946",
+gcc-156954,A,Compositae,,Liatris,,"striata",,"","Macnab",Synonym,,M,TICA,B1FC9896-D3EC-4EF6-BA13-F794181116D8,230640-1,"Edinburgh New Philos. J. 19: 60. 1835.","","60","1835",gcc-149871
+gcc-81772,A,Compositae,,Liatris,,"stricta",,"","Macnab",Unresolved,,L,TICA,9EE4601F-AEBC-45A9-BFBB-708E7B800C56,,"","","","1835",
+gcc-91435,A,Compositae,,Liatris,,"tenuifolia",,"","Nutt.",Accepted,,M,TICA,A3FEA237-5180-414E-ABB5-86659E308979,230641-1,"Gen. Am. ii. 131.","","131","1818",
+gcc-69976,A,Compositae,,Liatris,,"tenuifolia",var.,"laevigata","(Nutt.) B.L.Rob.",Synonym,,L,TICA,1392724F-5099-4819-9721-EA7B39F47760,139655-2,"Proc. Amer. Acad. Arts 47: 201. 1911","","201","1911",gcc-52485
+gcc-61020,A,Compositae,,Liatris,,"tenuifolia",var.,"quadriflora","Chapm.",Synonym,,L,TICA,FEFE80BE-BF08-4622-B51D-A3289B8BC03C,315443-2,"""Fl. South. U.S., ed. 2 626. 1883""","","626","1883",gcc-52485
+gcc-68095,A,Compositae,,Liatris,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,91B858F9-6527-4E9F-BC08-DC378CBE328C,,"","","","",gcc-91435
+gcc-145913,A,Compositae,,Liatris,,"tenuis",,"","Shinners",Accepted,,M,TICA,65152C9C-798F-4979-9429-0D6EE7C000C4,139656-2,"Southw. Naturalist 4: 208. 1959.","","208","1959",
+gcc-109498,A,Compositae,,Liatris,,"tomentosa",,"","Michx.",Synonym,,M,TICA,83E5341A-301B-43F0-A916-AEC8FC978FBD,230643-1,"Fl. Bor.-Amer. (Michaux) ii. 93","","93","1803",gcc-88226
+gcc-147408,A,Compositae,,Liatris,,"tomentosa",,"","Michaux",Synonym,,M,TICA,64D9F275-5D51-42DF-B3BE-2D0B44DE5219,,"Fl. Bor.-Amer. 2: 93. 1803. ","","93","1803",gcc-88226
+gcc-84697,A,Compositae,,Liatris,,"trichotoma",,"","Gardner",Synonym,,M,TICA,E661D8C3-DEF7-48BB-BCCB-771A28B2CE1F,230644-1,"London J. Bot. 6: 435 (1847).","","435","1847",gcc-33381
+gcc-142137,A,Compositae,,Liatris,,"turbinata",,"","Sweet",Synonym,Illegitimate,M,TICA,225FEE14-1290-41F0-B098-F8FE1A0BD9B6,,"""Hort. Brit. (Sweet) 220, nomen""","","220","1827",gcc-21976
+gcc-105447,A,Compositae,,Liatris,,"turgida",,"","Gaiser",Synonym,,M,TICA,C267F322-D6C8-4D02-83DF-A59B86947B19,139657-2,"","","261","1946",gcc-144508
+gcc-24597,A,Compositae,,Liatris,,"umbellata",,"","Bertol.",Synonym,,M,TICA,2FE26CA6-44E4-49EE-8C47-2D6CE9B411DB,,"","","13","1846",gcc-152903
+gcc-127021,A,Compositae,,Liatris,,"uniflora",,"","Raf.",Synonym,,L,TICA,F439C8E6-905E-4F05-BF16-D6A5C9B1195E,,"New Fl. (Rafinesque) iv. 76 (Quid ?).","","76","1838",gcc-23292
+gcc-82364,A,Compositae,,Liatris,,"varia",,"","Banks ex Pursh",Synonym,,M,TICA,4EF26D3F-7FF9-4906-855F-71E2A498B4BA,,"Fl. Am. Sept. ii. 508.","","508","",gcc-144731
+gcc-27622,A,Compositae,,Liatris,,"virgata",,"","Nutt.",Synonym,,M,TICA,1B11A213-3098-4392-A254-330FFCCC8136,230650-1,"in Journ. Acad. Philad. vii. (1834) 72.","","72","1834",gcc-81447
+gcc-151514,A,Compositae,,Liatris,,"vittata",,"","(Greene) Schumann",Synonym,,M,TICA,AABC7722-F3A6-4DBA-BED5-86417892C080,,"Just's Bot. Jahresber. 29(1): 569. 1903.","","569","1903",gcc-21976
+gcc-81560,A,Compositae,,Liatris,,"vittata",,"","(Greene) K.Schum.",Unresolved,,L,TICA,DC1A0AA8-683D-4B14-89E1-70195B26D41D,139659-2,"""Bot. Jahresber. (Just) 29, pt. 1: 569. 1903""","","569","1903",
+gcc-96038,A,Compositae,,Liatris,,"walteri",,"","Elliott",Synonym,,M,TICA,36F54803-4DC6-4BB8-AF8A-90B00F24259D,,"""Sketch, ii. 285""","","285","1822",gcc-88226
+gcc-145994,A,Compositae,,Liatris,×,"weaveri",,"","Shinners",Accepted,,M,TICA,454B0AFB-CC66-453C-98E8-0F647B539C5B,290200-2,"Amer. Midl. Naturalist 29: 38. 1943.","","38","1943",

@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-8586,A,Leguminosae,,Apios,,"americana",,"","Medik.",Accepted,,H,ILDIS,8586,,"","","","",
+tro-13070838,A,Leguminosae,,Apios,,"americana",f.,"americana","",Synonym,,L,TRO,13070838,,"","","","",ild-8586
+tro-13070839,A,Leguminosae,,Apios,,"americana",var.,"americana","",Synonym,,L,TRO,13070839,,"","","","",ild-8586
+ild-55752,A,Leguminosae,,Apios,,"americana",var.,"turrigera","Fernald",Synonym,,L,ILDIS,55752,,"","","","",ild-8586
+kew-2643967,A,Leguminosae,,Apios,,"apios",,"","(L.) MacMill.",Unresolved,,L,WCSP (in review),,16423-2,"Bull. Torrey Bot. Club","19: 15","","1892",
+kew-2643969,A,Leguminosae,,Apios,,"bodinieri",,"","H.Lév.",Unresolved,,L,WCSP (in review),,474878-1,"Fl. Kouy-Tchéou","225","","1914",
+ild-44465,A,Leguminosae,,Apios,,"carnea",,"","(Wall.) Benth.",Accepted,,H,ILDIS,44465,,"","","","",
+tro-13025221,A,Leguminosae,,Apios,,"carnea",,"","(Wall.) Benth. ex Baker",Unresolved,,L,TRO,13025221,474879-1,"Fl. Brit. India","2(4): 188","188","1876",
+ild-44460,A,Leguminosae,,Apios,,"cavaleriei",,"","H.Lev.",Synonym,,H,ILDIS,44460,,"","","","",ild-38893
+tro-13056939,A,Leguminosae,,Apios,,"cavaleriei",,"","H. Lév.",Synonym,,M,TRO,13056939,474880-1,"Fl. Kouy-Tchéou","225","225","1914",ild-38893
+tro-13025222,A,Leguminosae,,Apios,,"chinensis",,"","Spreng.",Unresolved,,L,TRO,13025222,474881-1,"Syst. Veg.","3: 310","310","1826",
+ild-44463,A,Leguminosae,,Apios,,"delavayi",,"","Franch.",Accepted,,H,ILDIS,44463,,"","","","",
+tro-13056940,A,Leguminosae,,Apios,,"esquirolii",,"","H. Lév.",Synonym,,M,TRO,13056940,474883-1,"Fl. Kouy-Tchéou","225","225","1914",ild-39840
+ild-38893,A,Leguminosae,,Apios,,"fortunei",,"","Maxim.",Accepted,,H,ILDIS,38893,,"","","","",
+tro-13025224,A,Leguminosae,,Apios,,"frutescens",,"","(L.) Pursh",Synonym,,M,TRO,13025224,,"Fl. Amer. Sept.","2: 474","474","1814",tro-13057458
+ild-44464,A,Leguminosae,,Apios,,"gracillima",,"","Dunn",Accepted,,H,ILDIS,44464,,"","","","",
+ild-44461,A,Leguminosae,,Apios,,"macrantha",,"","Oliv.",Accepted,,H,ILDIS,44461,,"","","","",
+tro-13056941,A,Leguminosae,,Apios,,"mairei",,"","H. Lév.",Unresolved,,L,TRO,13056941,474888-1,"Bull. Geogr. Bot. 1915","25: 50","50","",
+tro-13056942,A,Leguminosae,,Apios,,"martini",,"","H. Lév.",Synonym,,M,TRO,13056942,474889-1,"Fl. Kouy-Tchéou","225","225","1914",ild-2655
+kew-2643980,A,Leguminosae,,Apios,,"perennis",,"","Vahl ex Hornem.",Unresolved,,L,WCSP (in review),,927612-1,"Hort. Bot. Hafn.","2: 682","","1815",
+ild-15894,A,Leguminosae,,Apios,,"priceana",,"","Robinson",Accepted,,H,ILDIS,15894,,"","","","",
+tro-13015797,A,Leguminosae,,Apios,,"priceana",,"","B.L. Rob.",Unresolved,,L,TRO,13015797,,"Bot. Gaz.","25(6): 451–452, f. s.n. [p. 451]","451","1898",
+kew-2643982,A,Leguminosae,,Apios,,"sinensis",,"","(Sims) Spreng.",Unresolved,,L,WCSP (in review),,,"Syst. Veg.","3: 310","","1826",
+ild-44462,A,Leguminosae,,Apios,,"taiwaniana",,"","Hosok.",Accepted,,H,ILDIS,44462,,"","","","",
+ild-9613,A,Leguminosae,,Apios,,"tuberosa",,"","Moench",Synonym,,H,ILDIS,9613,,"","","","",ild-8586

@@ -1,0 +1,70 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-130019,A,Compositae,,Lucilia,,"acutifolia",,"","(Poir.) Cass.",Accepted,,M,TICA,71410B46-3F01-49A9-84DD-DD99E6D7FAE1,,"","","264","1823",
+gcc-7854,A,Compositae,,Lucilia,,"acutifolia",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,59201CDD-BAD3-452C-801F-0E9D9F55DC26,,"Fl. Bras. (Martius) 6(3): 114","","114","",
+gcc-146168,A,Compositae,,Lucilia,,"acutifolia",var.,"acutifolia","",Synonym,,L,TICA,580488D7-14EC-449C-B73E-12E6AB39D684,,"","","","",gcc-130019
+gcc-155097,A,Compositae,,Lucilia,,"acutifolia",f.,"acutifolia","",Synonym,,L,TICA,1A32C68D-F9D7-40AB-83A4-D0FA1ABADAD6,,"","","","",gcc-130019
+gcc-64180,A,Compositae,,Lucilia,,"acutifolia",var.,"nivea","(Less.) DC.",Synonym,,L,TICA,007F8B03-6054-4C59-827B-BC73AB2E18C7,144145-2,"Prodr. (DC.) 7(1): 46","","46","1838",gcc-130019
+gcc-73361,A,Compositae,,Lucilia,,"acutifolia",f.,"virescens","Less.",Synonym,,L,TICA,89AAE922-4ABF-4379-95C1-15D96BD6675E,144148-2,"Linnaea 5: 362 (1830)","","362","1830",gcc-130019
+gcc-10336,A,Compositae,,Lucilia,,"affinis",,"","Wedd.",Synonym,,M,TICA,58BCC611-9281-4354-B858-13502BC60450,,"Chlor. And. i. 230.","","230","",gcc-118061
+gcc-116126,A,Compositae,,Lucilia,,"alpina",,"","(Poepp. & Endl.) Cabrera",Synonym,,M,TICA,C3E4A2F1-A4C9-4D89-A4D3-BDBF4FD00176,144150-2,"","","361","1961",gcc-28056
+gcc-76269,A,Compositae,,Lucilia,,"araucana",,"","Phil.",Synonym,,M,TICA,1D86E73A-A75C-4ED1-AA80-64567DC9A44E,144151-2,"","","5","1895",gcc-94961
+gcc-125500,A,Compositae,,Lucilia,,"aretioides",,"","Wedd. ex Sch.Bip.",Unresolved,Illegitimate,L,TICA,CAAB6CD2-469F-4A67-B7BA-D32F8EAE1F51,,"""Linnaea 34: 532, nomina. 1866""","","","",
+gcc-116579,A,Compositae,,Lucilia,,"argentea",,"","Hook. & Arn.",Synonym,,M,TICA,C6917B88-2A9A-4B46-90CA-BEBB3764A748,144152-2,"in Hook. Comp. Bot. Mag. i. (1835) 102.","","","",gcc-134452
+gcc-101910,A,Compositae,,Lucilia,,"breweri",,"","V.M.Badillo",Synonym,,M,TICA,7830267F-E86E-4714-9E69-9DD5A19BB7B5,945847-1,"","","11","1988",gcc-79883
+gcc-105361,A,Compositae,,Lucilia,,"burkartii",,"","(Cabrera) S.E.Freire",Synonym,,M,TICA,BA592B86-3654-4901-97AF-A56B172E4CF7,943646-1,"Darwiniana 27(1–4): 465 (1986):.","","465","1986",gcc-131944
+gcc-129305,A,Compositae,,Lucilia,,"catamarcensis",,"","(Cabrera) S.E.Freire",Synonym,,M,TICA,30C19DE5-FAE7-4CDA-BE85-DBF8B83A1814,943647-1,"","","465","1986",gcc-44266
+gcc-2268,A,Compositae,,Lucilia,,"chilensis",,"","Hook. & Arn.",Synonym,,M,TICA,B05F4180-2B58-46CE-B93F-041EA88ACB04,231205-1,"in Hook. Comp. Bot. Mag. i. (1835) 102.","","102","1835",gcc-94961
+gcc-28949,A,Compositae,,Lucilia,,"chilensis",,"","Poepp. & Endl.",Synonym,Illegitimate,M,TICA,9C85423C-0BC1-45BB-835D-3587854964B0,,"","","","1845",gcc-94961
+gcc-126050,A,Compositae,,Lucilia,,"conoidea",,"","Wedd.",Synonym,,M,TICA,D8A846ED-9C47-49EF-95D5-D472F7C479A4,,"Chlor. And. i. 154. t. 26. f. C.","","154","",gcc-118061
+gcc-104205,A,Compositae,,Lucilia,,"dioica",,"","Phil.",Synonym,,M,TICA,55CCD35D-71DD-4F6B-A962-A300554106A4,144154-2,"","","6","1895",gcc-28917
+gcc-139046,A,Compositae,,Lucilia,,"erecta",,"","Benoist",Synonym,,L,TICA,722FCA6C-9AF1-4D17-A513-F1E2FC6F80AD,144155-2,"Bull. Soc. Bot. France 83: 806","","806","1937",gcc-12723
+gcc-42889,A,Compositae,,Lucilia,,"eriophora",,"","J.Rémy",Accepted,,M,TICA,3A78ADA4-B28F-4E85-8625-4F735CB65542,,"""in C. Gay, Fl. Chil. iii. 335.""","","335","",
+tro-2706790,A,Compositae,,Lucilia,,"eriophora",,"","Remy",Unresolved,,L,TRO,2706790,,"Fl. Chil.","3: 335","335","1847",
+gcc-661,A,Compositae,,Lucilia,,"erythractis",,"","Wedd. ex Sch.Bip.",Unresolved,Illegitimate,L,TICA,8DF9CC1D-C31F-4666-8F14-01426AF71BFF,,"""Linnaea 34: 532, nomina. 1866""","","","",
+gcc-15609,A,Compositae,,Lucilia,,"evacoides",,"","Sch.Bip.",Unresolved,,L,TICA,6345DAB8-93F4-4029-890A-1CE6E82A9D4E,,"","","","",
+gcc-48166,A,Compositae,,Lucilia,,"facelioides",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,31627495-5357-440D-8A72-5947DC05EDDD,,"""Linnaea 34: 532, nomen. 1866""","","","",
+gcc-121933,A,Compositae,,Lucilia,,"ferruginea",,"","Baker",Accepted,,M,TICA,A7611526-E984-4DF0-90D4-CAE2662D4305,279880-2,"Fl. Bras. (Martius) 6(3)","","114","1882",
+gcc-139500,A,Compositae,,Lucilia,,"flagelliformis",,"","Wedd.",Synonym,,M,TICA,0E151EE5-C434-4FB7-B244-F2DE19346B93,,"Chlor. And. i. 157. t. 26. f. D.","","157","",gcc-7576
+gcc-47285,A,Compositae,,Lucilia,,"frigida",,"","Reiche",Synonym,,M,TICA,BCCA3239-0542-4BF1-85A4-579243A8C5F4,,"","","191","1902",gcc-94961
+gcc-132110,A,Compositae,,Lucilia,,"glomerata",,"","Baker",Synonym,,M,TICA,0F076ECE-AE27-4C81-BE7D-E278549CA49B,,"","","114","1882",gcc-7576
+tro-50293263,A,Compositae,,Lucilia,,"glomeratum",,"","Baker",Unresolved,,L,TRO,50293263,,"Fl. Bras.","6(3): 114–115, pl. 37, f. 2","114","1882",
+gcc-84777,A,Compositae,,Lucilia,,"gnaphalioides",,"","Less.",Synonym,,M,TICA,169E9B84-23CA-4E77-9463-77455D23B1B2,,"Linnaea 5: 363. 1830","","365","1830",gcc-134452
+gcc-120644,A,Compositae,,Lucilia,,"hypoleuca",,"","Wedd. ex Sch.Bip.",Unresolved,Illegitimate,L,TICA,1BBE6DC8-49F4-489B-8462-C80A89F5B196,,"""Linnaea 34: 532, nomina. 1866""","","","",
+gcc-125410,A,Compositae,,Lucilia,,"jamesonii",,"","Baker",Synonym,,M,TICA,F40AE07F-564F-4DB8-9729-D2FBF484229C,279881-2,"Fl. Bras. (Martius) 6(3)","","113","1882",gcc-130019
+gcc-77940,A,Compositae,,Lucilia,,"kunthiana",,"","(DC.) Zardini",Synonym,,M,TICA,5D36F0EE-538E-4143-AE93-67FD8DC21BD8,,"Ann. Missouri Bot. Gard. 74(2): 431 (1987):.","","431","1987",gcc-118061
+gcc-87291,A,Compositae,,Lucilia,,"lehmannii",,"","Hieron.",Synonym,,M,TICA,81D83D1C-B5B6-4333-96DA-7CF1158941DA,279882-2,"Bot. Jahrb. Syst. 19: 51. 1894","","51","1894",gcc-118061
+gcc-4490,A,Compositae,,Lucilia,,"linearifolia",,"","Baker",Accepted,,M,TICA,4B9E976F-EEFA-4B59-9056-0859007473AD,,"Fl. Bras. (Martius) 6(3): 114","","114","1882",
+gcc-88802,A,Compositae,,Lucilia,,"longifolia",,"","Cuatrec. & Aristeg.",Synonym,,M,TICA,BB7DC2A3-B3EB-4500-8AFF-8048DBC9574A,144160-2,"","","367","1964",gcc-4247
+gcc-135795,A,Compositae,,Lucilia,,"lopezmirandae",,"","(Cabrera) S.E.Freire",Synonym,,M,TICA,3D66C9B8-5E6A-4863-B5E5-EABEB49AFB01,943648-1,"","","469","1986",gcc-127034
+gcc-39525,A,Compositae,,Lucilia,,"lundii",,"","Baker",Synonym,,M,TICA,BEAA4DAA-297C-47AA-BD7C-4959E04E936B,279885-2,"Fl. Bras. (Martius) 6(3)","","113","1882",gcc-130019
+gcc-7576,A,Compositae,,Lucilia,,"lycopodioides",,"","(Less.) S.E.Freire",Accepted,,M,TICA,46F5C5B8-1561-48E7-A02D-0E0FD5591945,,"Taxon 38(2): 298 (1989):.","","298","1989",
+gcc-82878,A,Compositae,,Lucilia,,"macrocephala",,"","Wedd. ex Sch.Bip.",Unresolved,Illegitimate,L,TICA,50796893-7137-443A-A64C-730687E54DD2,,"""Linnaea 34: 532, nomina. 1866""","","","",
+gcc-26632,A,Compositae,,Lucilia,,"microphylla",,"","Cass.",Synonym,,M,TICA,6B58F2D3-B595-47BC-B6BB-3134F05FEB1F,,"in Dict. Sc. Nat. xxvii. 64.","","264","1823",gcc-130019
+gcc-3563,A,Compositae,,Lucilia,,"nitens",,"","Less.",Accepted,,M,TICA,034C2D41-DAFB-4945-A453-0690FE1B9232,231225-1,"Linnaea 5: 363. 1830","","363","1830",
+gcc-95041,A,Compositae,,Lucilia,,"nitens",,"","Baker",Synonym,,M,TICA,B71D0684-F36E-4AB4-8A69-8E65F2DD3836,,"","","","",gcc-134452
+gcc-123198,A,Compositae,,Lucilia,,"nivalis",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,9B387CD2-4F1A-41F1-992A-CDC5EDC77B69,,"""Linnaea 34: 532, nomen. 1866""","","","",
+gcc-46835,A,Compositae,,Lucilia,,"nivea",,"","(Phil.) Cabrera",Synonym,,M,TICA,D47ADB60-FF52-4320-8475-56C7DC9BA5AF,144162-2,"","","118","1942",gcc-94961
+gcc-87289,A,Compositae,,Lucilia,,"paramora",,"","(S.F.Blake) V.M.Badillo",Synonym,,M,TICA,686E9E83-8D3E-4798-9084-7CF10A5B08CF,997681-1,"","","236","1997",gcc-76648
+gcc-1563,A,Compositae,,Lucilia,,"pedunculata",,"","Poepp. & Endl.",Unresolved,,L,TICA,7A5C3A9C-29EA-4D47-B454-02D3459B0862,231228-1,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) iii. 51.","","iii. 51.","",gcc-39597
+gcc-104026,A,Compositae,,Lucilia,,"perpusilla",,"","Wedd.",Unresolved,Illegitimate,L,TICA,FAC8415C-605B-4B26-BC60-A29BB623629B,,"Chlor. And. i. t. 26. f. A","","26","",
+gcc-30651,A,Compositae,,Lucilia,,"pickeringii",,"","A.Gray",Synonym,,M,TICA,356C1864-CF3A-4BF6-BEE3-38BE449C8EBD,279886-2,"","","138","1862",gcc-156205
+gcc-7374,A,Compositae,,Lucilia,,"pickeringii",var.,"minor","A.Gray",Synonym,,L,TICA,899EECE3-24B4-4614-A215-0DB5D0B2A6CC,,"","","138","",gcc-156205
+gcc-4525,A,Compositae,,Lucilia,,"piptolepis",,"","Wedd.",Synonym,Illegitimate,M,TICA,99BD6A24-AF9A-4387-93D8-0867F205880B,,"Chlor. And. i. t. 26. f. B","","","1855",gcc-26155
+gcc-97235,A,Compositae,,Lucilia,,"plicatifolia",,"","(Sagást. & M.O.Dillon) S.E.Freire",Synonym,,M,TICA,E1DEECF9-302F-40E4-B9A4-93637792A949,279888-2,"","","411","1988",gcc-101178
+gcc-38638,A,Compositae,,Lucilia,,"plumosa",,"","Wedd.",Synonym,,M,TICA,2D02B829-AE8E-4CD0-988E-47B350E9EDBF,,"Chlor. And. i. 155.","","155","",gcc-8764
+gcc-137535,A,Compositae,,Lucilia,,"pusilla",,"","(Kunth) Hieron.",Synonym,Illegitimate,M,TICA,75AD1364-F1E8-4F1A-BECC-EEA45AB754E9,144164-2,"Bot. Jahrb. Syst. 29: 29. 1900","","29","1900",gcc-118061
+gcc-89940,A,Compositae,,Lucilia,,"pusilla",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,45B927D3-B50A-4133-87C5-82DAE690BB20,,"Bot. Jahrb. Syst. xxix. 29","","29","",
+gcc-2170,A,Compositae,,Lucilia,,"radians",,"","(Benth.) Cuatrec.",Synonym,,M,TICA,1D91DCD5-5443-4DF0-9089-03E6BDCADEDA,144165-2,"","","138","1936",gcc-104645
+gcc-92288,A,Compositae,,Lucilia,,"radians",,"","(Benth.) Steyerm.",Unresolved,,L,TICA,DDA8C717-0002-4A45-87AB-88432508219B,231235-1,"""Fieldiana, Bot. xxviii. No. 3, 642 (1953)""","","642","1953",
+gcc-102638,A,Compositae,,Lucilia,,"recurva",,"","Wedd.",Accepted,,M,TICA,FFA01776-A01E-439C-98EF-9F949A9BDDED,279889-2,"","","156","1856",
+gcc-124087,A,Compositae,,Lucilia,,"santanica",,"","(Cabrera) S.E.Freire",Synonym,,M,TICA,6EC0974C-FA1B-466D-B8C4-CFE3A77499B2,943649-1,"","","473","1986",gcc-36939
+gcc-113432,A,Compositae,,Lucilia,,"saxatilis",,"","V.M.Badillo",Accepted,,M,TICA,56B87FE9-358F-4B67-B70F-B79ED878C8CF,,"","","","1988",
+gcc-32593,A,Compositae,,Lucilia,,"schultzii",,"","(Wedd.) A.Gray",Synonym,,M,TICA,819F453A-D99D-46C7-B3F3-3C65F2200B4F,,"","","138","",gcc-81296
+gcc-80481,A,Compositae,,Lucilia,,"schultzii",,"","Wedd. ex Sch.Bip.",Unresolved,Illegitimate,L,TICA,44A96C08-DC3D-47DA-8064-6DAD98552639,,"""Linnaea 34: 532, nomina. 1866""","","","",
+gcc-99789,A,Compositae,,Lucilia,,"squarrosa",,"","Baker",Synonym,,M,TICA,3D65A603-4770-4BD6-B775-991FE9D4F954,279892-2,"Fl. Bras. (Martius) 6(3)","","114","1882",gcc-113599
+gcc-104365,A,Compositae,,Lucilia,,"subspicata",,"","(Wedd.) Hieron.",Synonym,,M,TICA,235DF341-BC16-478D-B7A1-A358149A64BA,144166-2,"","","29","1900",gcc-40783
+gcc-156526,A,Compositae,,Lucilia,,"subspicata",var.,"subspicata","",Synonym,,L,TICA,5CD7C495-D9EF-4648-9F4D-EEED4DB89290,,"","","","",gcc-40783
+gcc-113599,A,Compositae,,Lucilia,,"tomentosa",,"","Wedd.",Accepted,,M,TICA,98FA7CC0-81BE-4F15-8988-B7F501FFDB9B,231240-1,"Chlor. And. i. 157.","","157","1855 [1856]",
+gcc-77408,A,Compositae,,Lucilia,,"tunariensis",,"","(Kuntze) K.Schum.",Synonym,,L,TICA,251208C3-0A00-44F2-9F54-66D3D0F994E8,,"","","378","1898",gcc-102020
+gcc-37318,A,Compositae,,Lucilia,,"venezuelensis",,"","Steyerm.",Synonym,,M,TICA,49E1FA12-E81E-43E9-A638-452774F69579,144169-2,"","","644","1953",gcc-118061
+gcc-115757,A,Compositae,,Lucilia,,"violacea",,"","Wedd.",Synonym,,M,TICA,5A2683ED-42BD-43DD-8585-BCEB4FFCE3EA,,"Chlor. And. i. 155.","","155","",gcc-118061

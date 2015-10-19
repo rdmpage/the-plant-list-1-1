@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-88134,A,Compositae,,Dinoseris,,"salicifolia",,"","Griseb.",Accepted,,M,TICA,1970F850-505A-494F-8082-7EC18DF2DA64,201495-1,"","","214","1879",
+gcc-65452,A,Compositae,,Dinoseris,,"salicifolia",var.,"araneosa","Kuntze",Synonym,,L,TICA,63770BAF-CB32-4BE7-977A-C6DD3F16A1C8,80469-2,"","","144","1898",gcc-88134
+gcc-72567,A,Compositae,,Dinoseris,,"salicifolia",var.,"normalis","Kuntze",Synonym,,L,TICA,81715928-D6FD-49E3-851E-FEFF97621921,80470-2,"","","144","1898",gcc-88134
+gcc-154631,A,Compositae,,Dinoseris,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,60B294AF-4EBC-4198-A58D-C78F32C7605D,,"","","","",gcc-88134

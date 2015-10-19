@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-157145,A,Compositae,,Synedrellopsis,,"grisebachii",,"","Hieron. & Kuntze ex O.Hoffm.",Accepted,,M,TICA,438943E7-E81C-45DD-8027-FBF2D259B620,,"","","","",
+gcc-79378,A,Compositae,,Synedrellopsis,,"grisebachii",,"","Hieron. & Kuntze",Unresolved,,L,TICA,FBA2E581-88FD-4EC9-9FA4-6B53F077769E,248084-2,"Revis. Gen. Pl. 3[3]: 180","","180","1898",
+gcc-153009,A,Compositae,,Synedrellopsis,,"grisebachii",f.,"grisebachii","",Synonym,,L,TICA,32C54DDC-457C-4017-93E7-A550506DE307,,"","","","",gcc-79378
+gcc-156842,A,Compositae,,Synedrellopsis,,"grisebachii",var.,"grisebachii","",Synonym,,L,TICA,C93D6700-A540-4F09-8517-F54647E72A21,,"","","","",gcc-79378
+gcc-151500,A,Compositae,,Synedrellopsis,,"grisebachii",var.,"inversa","Hassl.",Synonym,,L,TICA,FA350833-152E-4640-99A8-85D140109446,,"","","","",gcc-157145

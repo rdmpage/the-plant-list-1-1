@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-132508,A,Compositae,,Triptilion,,"achilleae",,"","DC.",Accepted,,M,TICA,41683B59-42E6-4D7B-9252-E369CC43A6BD,256640-1,"Prodr. (DC.) 7(1): 51","","51","1838",
+gcc-59790,A,Compositae,,Triptilion,,"achilleae",var.,"achilleae","",Synonym,,L,TICA,B55A11F3-01C3-49F6-8878-994F4E79D6C9,,"","","","",gcc-132508
+gcc-100573,A,Compositae,,Triptilion,,"andinum",,"","Phil.",Synonym,,M,TICA,77157F35-F873-4286-8F25-9AEE56C00FA0,256641-1,"Linnaea 33: 116. 1864","","116","1864",gcc-41682
+gcc-48585,A,Compositae,,Triptilion,,"axillare",,"","Lag. ex Spreng.",Synonym,,M,TICA,2598D3AD-DFDC-4AEA-B4DB-59FDB1FD9D71,,"""Systema Vegetabilium, editio decima sexta 3:""","","506","1826",gcc-132600
+gcc-96689,A,Compositae,,Triptilion,,"axillare",,"","Lag. ex Lindl.",Synonym,,M,TICA,261604B2-3542-4098-AC87-922B0B5694A1,,"Bot. Reg. sub t. 853.","","","1824",gcc-132600
+gcc-81602,A,Compositae,,Triptilion,,"benaventei",,"","J.Rémy",Accepted,,M,TICA,1074B1E4-DA51-470C-A493-70332497281E,,"""in C. Gay, Fl. Chil. iii. 357. t. 39.""","","","1848",
+gcc-23193,A,Compositae,,Triptilion,,"berteroi",,"","Phil.",Accepted,,M,TICA,7B1F598F-449C-47A8-850A-2AF0346A3FB1,258723-2,"","","91","1894",
+gcc-114354,A,Compositae,,Triptilion,,"bulbosum",,"","J.Rémy",Synonym,,M,TICA,777A6F1D-60FF-4C38-A5D0-B9A3728FCF66,,"""in C. Gay, Fl. Chil. iii. 358.""","","358","",gcc-139529
+gcc-41682,A,Compositae,,Triptilion,,"capillatum",,"","(D.Don) Hook. & Arn.",Accepted,,M,TICA,8A2F4DDC-5698-4AFF-ADF1-4D2F4936DF1A,,"in Hook. Comp. Bot. Mag. ii. (1836) 43; DC. Prod. vii. 51.","","","1836",
+gcc-5676,A,Compositae,,Triptilion,,"capillatum",,"","(D.Don) DC.",Unresolved,,L,TICA,9E254772-4B66-4242-AEC9-0A90645D154D,,"","","","",
+gcc-30310,A,Compositae,,Triptilion,,"capillatum",var.,"andinum","(Phil.) Reiche",Synonym,,L,TICA,0B78DF7C-5A6B-4887-B95B-38157968C79D,258724-2,"""Anales Univ. Chile 116: 176. 1905 Reiche, Flora de Chile, 4: 398.  1905""","","176","1905",gcc-41682
+gcc-7175,A,Compositae,,Triptilion,,"capillatum",var.,"capillatum","",Synonym,,L,TICA,2FE2156E-9F74-4D5A-9B62-0D5B16123FCE,,"","","","",gcc-5676
+gcc-13822,A,Compositae,,Triptilion,,"capillatum",var.,"laxum","(Phil.) Reiche",Synonym,,L,TICA,1A4E76E8-3328-4664-91B4-19B09B1A58AB,258725-2,"Anales Univ. Chile 116","","176","1905",gcc-41682
+gcc-125929,A,Compositae,,Triptilion,,"chilense",,"","Bertero ex DC.",Synonym,Illegitimate,M,TICA,0574649D-155E-4BE2-9E6D-D42C5732BED9,256647-1,"Prodr. (DC.) 7(1): 51","","51","1838",gcc-132508
+gcc-124492,A,Compositae,,Triptilion,,"compactum",,"","Phil.",Unresolved,,L,TICA,00D9C8F5-2ACE-4709-BE98-D0D1C7B6E715,258726-2,"","","95","1894",
+gcc-133946,A,Compositae,,Triptilion,,"cordifolium",,"","Lag. ex Lindl.",Accepted,,M,TICA,0744BCF2-9595-4B27-B2FE-E6B247CE23D4,,"Bot. Reg. 10: t. 853 (1824)","","t. 853","1824",
+gcc-36369,A,Compositae,,Triptilion,,"cordifolium",,"","Lag.",Unresolved,,L,TICA,26EB3128-C2C4-498B-9D93-43765B888434,,"Bot. Reg. t. 853.","","t. 853","",
+gcc-40860,A,Compositae,,Triptilion,,"diffusum",,"","D.Don",Synonym,,M,TICA,E9AFA2C6-C977-4DF1-99A6-4BBA0DAC143A,256650-1,"Trans. Linn. Soc. London 16(2): 221","","221","1830",gcc-139529
+gcc-91046,A,Compositae,,Triptilion,,"diffusum",,"","(D.Don) DC.",Unresolved,,L,TICA,189613F7-F66D-408F-A614-856FB27E05A9,,"","","","",
+gcc-83706,A,Compositae,,Triptilion,,"digitatum",,"","Phil.",Synonym,,M,TICA,D2D534B6-9FA7-4CF9-AC94-74DE312AFB6F,258728-2,"","","95","1894",gcc-139529
+gcc-985,A,Compositae,,Triptilion,,"dusenii",,"","O.Hoffm.",Synonym,,M,TICA,683923DB-9977-43E3-BC55-01D1AFC16181,,"","","","1906",gcc-132508
+gcc-80301,A,Compositae,,Triptilion,,"euphrasioides",,"","Bertero ex DC.",Synonym,,M,TICA,97807F76-EFD8-475D-8D4B-6D50CACE1695,256653-1,"Prodr. (DC.) 7(1): 51","","51","1838",gcc-132508
+gcc-105810,A,Compositae,,Triptilion,,"gibbosum",,"","J.Rémy",Accepted,,M,TICA,3F055E61-D3F8-4300-9440-A6610B3C9DD6,256654-1,"","","356","1848",
+gcc-93896,A,Compositae,,Triptilion,,"glomerulosum",,"","Lag. ex Lindl.",Synonym,,M,TICA,1C00460E-73F9-4D61-B4F9-8BBA2D0D107E,,"Bot. Reg. sub t. 853.","","","1824",gcc-36099
+gcc-121417,A,Compositae,,Triptilion,,"humile",,"","Phil.",Synonym,,M,TICA,6C7C2F17-C6BD-45D0-95D0-C9C2E9F5900A,,"","","","1894",gcc-139529
+gcc-32929,A,Compositae,,Triptilion,,"integrifolium",,"","Phil.",Synonym,,M,TICA,0C2A70DF-1D7A-443A-9B26-3D1391E08596,258731-2,"Anales Univ. Chile 87: 90. 1894","","90","1894",gcc-139529
+gcc-144179,A,Compositae,,Triptilion,,"laciniatum",,"","Willd.",Synonym,,M,TICA,4406E647-5F3D-452A-AE7B-FD890BBD4943,256657-1,"Sp. Pl. iii. 1626.","","iii. 1626","",gcc-139529
+gcc-133384,A,Compositae,,Triptilion,,"laxum",,"","Phil.",Synonym,,M,TICA,AED6C057-872F-4988-AABA-E564BBF0B5D4,256658-1,"Linnaea 33: 116. 1864","","116","1864",gcc-41682
+gcc-80514,A,Compositae,,Triptilion,,"maritimum",,"","Poepp. ex DC.",Synonym,Invalid,M,TICA,D9DB4184-F802-450F-8C5A-6DBEF6488F82,256659-1,"Prodr. (DC.) 7(1): 51","","51","1838",gcc-133946
+gcc-2235,A,Compositae,,Triptilion,,"millefolium",,"","Phil.",Synonym,,M,TICA,8683D6EB-C11C-42E1-8507-040B4E44234A,258733-2,"Anales Univ. Chile 87: 91. 1894","","91","1894",gcc-139529
+gcc-28568,A,Compositae,,Triptilion,,"pectinatum",,"","Phil.",Synonym,,M,TICA,AF71ADE5-716B-4F78-AAB6-34CBF7607453,,"Anales Univ. Chile","","","",gcc-139529
+gcc-24392,A,Compositae,,Triptilion,,"pectinatum",var.,"millefolium","(Phil.) Reiche",Synonym,,L,TICA,6ABF5C99-D8E4-4846-A3D9-2D0F100967AE,258734-2,"""Anales Univ. Chile 116: 173. 1905 Reiche, Flora de Chile, 4: 395.  1905""","","173","1905",gcc-139529
+gcc-48298,A,Compositae,,Triptilion,,"pectinatum",var.,"pectinatum","",Synonym,,L,TICA,76B16B09-8536-4475-8473-59815D0F005A,,"","","","",gcc-139529
+gcc-18765,A,Compositae,,Triptilion,,"pusillum",,"","Phil.",Unresolved,,L,TICA,85A2474B-F03A-446C-9AD1-22A7B5F97856,,"","","","1890",
+gcc-34520,A,Compositae,,Triptilion,,"ramulosum",,"","Phil.",Synonym,,M,TICA,FCC201EA-801C-4978-A551-3FF9900DDFAF,258735-2,"","","94","1894",gcc-139529
+gcc-93107,A,Compositae,,Triptilion,,"remyanum",,"","Phil.",Synonym,,M,TICA,A15733E5-AB84-450C-BAE1-8A08D59CDDD0,258736-2,"","","89","1894",gcc-139529
+gcc-139529,A,Compositae,,Triptilion,,"spinosum",,"","Ruiz & Pav.",Accepted,,M,TICA,707A4764-5931-4DA7-BC69-F2EF322C60E0,,"Syst. Veg. i. 185.","","","1798",
+gcc-7743,A,Compositae,,Triptilion,,"spinosum",var.,"eriochlaenum","DC.",Synonym,,L,TICA,F2FB4C5F-7088-4252-A991-0E63826C1F23,258738-2,"Prodr. (DC.) 7(1): 51","","51","1838",gcc-139529
+gcc-64939,A,Compositae,,Triptilion,,"spinosum",var.,"integrifolium","(Phil.) Reiche",Synonym,,L,TICA,E2584352-CBEA-4583-BA06-C25A4396ECCD,258739-2,"""Anales Univ. Chile 116: 172. 1905 Reiche, Flora de Chile, 4: 394.  1905""","","172","1905",gcc-139529
+gcc-31903,A,Compositae,,Triptilion,,"spinosum",var.,"remyanum","(Phil.) Reiche",Synonym,,L,TICA,B22BCACC-7517-48A0-BCEE-3B18F34F4B05,258740-2,"""Anales Univ. Chile 116: 172. 1905 Reiche, Flora de Chile, 4: 394.  1905""","","172","1905",gcc-139529
+gcc-22034,A,Compositae,,Triptilion,,"spinosum",var.,"spinosum","",Synonym,,L,TICA,3E55091E-49B4-430D-ACE1-28BF4ACB6BBA,,"","","","",gcc-139529
+gcc-447,A,Compositae,,Triptilion,,"tenuifolium",,"","Phil.",Synonym,,M,TICA,8F415C83-60D7-48F7-824A-00D5F828674D,,"Linnaea 33: 117. 1864","","","",gcc-132508

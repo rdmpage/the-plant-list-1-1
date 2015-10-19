@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-111031,A,Compositae,,Wollastonia,,"asperrima",,"","DC. ex Decne",Synonym,,M,TICA,E35D0208-81C0-47F6-990F-B23C43F2DBD3,260686-1,"""Nouv. Ann. Mus. Hist. Nat. III, 3 (1834) 414""","","414","1834",gcc-68979
+gcc-133016,A,Compositae,,Wollastonia,,"biflora",,"","Dalzell & A.Gibson",Synonym,,M,TICA,6E0D782D-6F8C-42BA-8AEC-E4933AEB8836,260688-1,"Bombay Fl. 128","","128","1861",gcc-146100
+gcc-146100,A,Compositae,,Wollastonia,,"biflora",,"","(L.) DC.",Accepted,,M,TICA,2A0B8B20-FF1B-4FF0-926E-1163A17217EA,260687-1,"","","546","1836",
+gcc-57586,A,Compositae,,Wollastonia,,"biflora",var.,"biflora","",Synonym,,L,TICA,F91A36F3-444D-4BC5-8C14-8783AB94D4EE,,"","","","",gcc-146100
+gcc-77973,A,Compositae,,Wollastonia,,"canescens",,"","DC.",Synonym,,M,TICA,9B96911F-840F-474D-A19C-680E57E62226,260689-1,"","","547","1836",gcc-114619
+gcc-82569,A,Compositae,,Wollastonia,,"ecliptoides",,"","F.Muell.",Synonym,,M,TICA,3A40DA5F-B9F4-4E72-95C0-7259C10C0215,149155-3,"","","","1863",gcc-728
+gcc-144374,A,Compositae,,Wollastonia,,"elongata",,"","DC.",Synonym,,M,TICA,DED37E22-1077-40B8-979C-FDEE1ADDFE51,260691-1,"Prodr. (DC.) 5: 548","","548","1836",gcc-122342
+gcc-84652,A,Compositae,,Wollastonia,,"forsteriana",,"","DC.",Unresolved,,L,TICA,1DE56508-A587-467A-A7E2-76FE7FF0830F,260692-1,"Prodr. (DC.) 5: 548","","548","1836",
+gcc-51410,A,Compositae,,Wollastonia,,"glabrata",,"","DC.",Synonym,,M,TICA,333412E0-B738-49E4-80F2-5F59C0329567,,"","","","",gcc-114619
+gcc-110116,A,Compositae,,Wollastonia,,"horsfieldiana",,"","Miq.",Synonym,,M,TICA,B7F19804-8DF7-4C05-9BB5-B01FD8C82955,,"","","72","1856",gcc-47906
+gcc-145179,A,Compositae,,Wollastonia,,"insularis",,"","DC.",Synonym,,M,TICA,CA2C0EF8-F522-4C06-9A62-FFD386B461B7,260695-1,"","","548","1836",gcc-114619
+gcc-106414,A,Compositae,,Wollastonia,,"javana",,"","Turcz.",Unresolved,,L,TICA,D84689EA-CF62-417F-A2EA-A7B94F964AD7,,"","","","1851",gcc-107992
+gcc-98539,A,Compositae,,Wollastonia,,"javanica",,"","Miq.",Unresolved,,L,TICA,BA3D6CAC-B048-4441-8A60-965D0EC4D921,,"","","1078","1856",
+gcc-17917,A,Compositae,,Wollastonia,,"junghuhniana",,"","Miq.",Unresolved,,L,TICA,F68928CE-1757-4180-9F6A-211BB2D8D0FA,,"Pl. Jungh.","","","1857",
+gcc-84816,A,Compositae,,Wollastonia,,"lantanoides",,"","DC.",Unresolved,,L,TICA,174F22FE-46EC-4DAF-A559-775378A9FCD8,260699-1,"Prodr. (DC.) 5: 548","","548","1836",
+gcc-6477,A,Compositae,,Wollastonia,,"lifuana",,"","(Hochr.) Fosberg",Unresolved,,L,TICA,64A1088B-A45C-442B-9E2A-0C0DCC5C8E9F,991684-1,"Allertonia 7(2): 80 (1993):.","","80","1993",
+gcc-124772,A,Compositae,,Wollastonia,,"moluccana",,"","(Blume) DC.",Synonym,,M,TICA,78DB0DEE-940B-4B81-B5CF-D1749E7EEA3D,260700-1,"","","547","1836",gcc-111104
+gcc-134641,A,Compositae,,Wollastonia,,"montana",,"","(Blume) DC.",Synonym,,M,TICA,07368266-65B6-4107-9A20-E83A34ED6820,1173407-2,"Prodr. (DC.) 5: 547","","547","1836",gcc-33215
+gcc-120103,A,Compositae,,Wollastonia,,"peduncularis",,"","Turcz.",Unresolved,,L,TICA,D0DBFF9F-D1E1-4856-AC5B-C6B914DDDFA5,,"","","","1851",
+gcc-10314,A,Compositae,,Wollastonia,,"procumbens",,"","DC.",Unresolved,,L,TICA,F1586FC2-9E9F-4882-B78A-13417A5D127A,149256-3,"","","","1836",gcc-44478
+gcc-18724,A,Compositae,,Wollastonia,,"prostrata",,"","Hook. & Arn.",Synonym,Illegitimate,M,TICA,DB9B6979-A234-4CB4-994C-2294D046C8CA,,"Bot. Beechey Voy.","","265","",gcc-89343
+gcc-31695,A,Compositae,,Wollastonia,,"prostrata",,"","DC.",Synonym,,M,TICA,937F3244-54D4-4C4B-923B-3ABCA3F89D82,260705-1,"Prodr. (DC.) 5: 549","","549","1836",gcc-79925
+gcc-121680,A,Compositae,,Wollastonia,,"repens",,"","fanch. ex Guillaumin",Unresolved,,L,TICA,BB6C470D-57F0-4FDB-AB44-CA50C7CF1CEF,,"""in Ann. Mus. Col. Marseille, 1911, Ser. II. ix. 178, nomen.""","","178","",
+gcc-117409,A,Compositae,,Wollastonia,,"scaberrima",,"","C.B.Clarke",Unresolved,,L,TICA,30C83C41-63AD-449A-8EB2-C0993DB506B6,260707-1,"Comp. Ind. 138.","","138","",
+gcc-117069,A,Compositae,,Wollastonia,,"scabriuscula",,"","DC. ex Decne.",Synonym,,M,TICA,16DD3B55-FDE5-4388-891A-BFD529223F71,,"","","","1834",gcc-114619
+gcc-49684,A,Compositae,,Wollastonia,,"scabriuscula",,"","Sch.Bip. ex Miq.",Unresolved,,L,TICA,1CA30BE1-1AFF-42B8-A58B-5C1D4ACE292B,260708-1,"Fl. Ned. Ind. ii. 70","","70","",
+gcc-153155,A,Compositae,,Wollastonia,,"scabriuscula",var.,"scabriuscula","",Synonym,,L,TICA,7EEF6561-E155-485E-A069-A834C858E013,,"","","","",gcc-114619
+gcc-46774,A,Compositae,,Wollastonia,,"serrulata",,"","Miq.",Unresolved,,L,TICA,F6C449AF-5AA7-42AF-8296-56ACAF30CCE9,,"","","74","1856",gcc-28091
+gcc-99529,A,Compositae,,Wollastonia,,"strigulosa",,"","DC. ex Decne.",Unresolved,,L,TICA,A5B49D25-0999-4FA0-BF0B-9887E7D02D1F,260711-1,"","","iii.  414","",gcc-114619
+gcc-46269,A,Compositae,,Wollastonia,,"urticifolia",,"","(Blume) Hassk.",Synonym,,M,TICA,99BA3F18-E4B4-46B4-A0BE-55C0977F5719,260712-1,"Cat. Hort. Bog. Alt.","","99","1844",gcc-51683
+gcc-805,A,Compositae,,Wollastonia,,"zanzibarensis",,"","DC.",Synonym,,M,TICA,DD96FA2D-C34C-49D3-9676-0181D7652B16,,"Prodr. (DC.) 5: 547","","","",gcc-114619
+gcc-88755,A,Compositae,,Wollastonia,,"zollingeriana",,"","Sch.Bip.",Unresolved,,L,TICA,46F043F4-EFC7-4D57-B94D-802FCACDEED7,260714-1,"","","123","1854",gcc-52456

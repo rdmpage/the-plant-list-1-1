@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-89464,A,Compositae,,Breea,,"arvensis",,"","(L.) Less.",Synonym,,M,TICA,79364A3E-7056-44B9-A1DA-81C419728B26,186181-1,"","","10","1832",gcc-106632
+gcc-1644,A,Compositae,,Breea,,"dioica",,"","(Cass.) Less.",Synonym,,M,TICA,BA446408-F138-4035-8ED6-02F3CFFA6FF0,186182-1,"","","10","1832",gcc-106632
+gcc-130986,A,Compositae,,Breea,,"ochrolepidia",,"","(Juz.) Soják",Synonym,,M,TICA,D654C6DF-DE1F-4E09-99F1-DFD0ACFCF96E,186183-1,"","","47","1962",gcc-106632
+gcc-12244,A,Compositae,,Breea,,"praealta",,"","Less.",Synonym,,M,TICA,48D6CE55-27F7-4B08-8AD2-16D76CDC0BA0,186184-1,"","","10","1832",gcc-106632
+gcc-133670,A,Compositae,,Breea,,"segeta",,"","(Bunge) Kitam.",Accepted,,M,TICA,C3761CCD-7FEC-4141-8A27-E6058BC61B9F,186185-1,"Acta Phytotax. Geobot. 18: 79 (1959)","","79","1959",
+gcc-75101,A,Compositae,,Breea,,"segeta",f.,"lactiflora","(Nakai) W.Lee",Synonym,,L,TICA,58F0AF7E-7260-4383-9D76-595D9EED9DBC,20007546-1,"","","1110","1996",gcc-133670
+gcc-153902,A,Compositae,,Breea,,"segeta",f.,"segeta","",Synonym,,L,TICA,5D13DF90-6B8C-42F3-8B15-B7A3B6D3DC7C,,"","","","",gcc-133670
+gcc-103648,A,Compositae,,Breea,,"setosa",,"","(M.Bieb.) Kitam.",Accepted,,M,TICA,804D9484-73F5-46EF-9852-A1BBEE995D49,186186-1,"Acta Phytotax. Geobot. 18: 79 (1959)","","79","1959",
+gcc-127000,A,Compositae,,Breea,,"setosa",,"","(Willd.) Soják",Synonym,,M,TICA,7E21CDEB-73ED-45E1-AAF4-D696C3052826,,"","","","",gcc-106632

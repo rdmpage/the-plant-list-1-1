@@ -1,0 +1,52 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-106963,A,Compositae,,Leuzea,,"acaulis",,"","(L.) Holub",Synonym,,M,TICA,08870B3C-FF20-41CC-AFC6-A902091F7337,230279-1,"","","391","1973",gcc-81996
+gcc-43075,A,Compositae,,Leuzea,,"altaica",,"","(Spreng.) Link",Synonym,,M,TICA,ED36AD75-8055-441D-8B14-4FC88B7F1680,230280-1,"","","356","1822",gcc-24995
+gcc-5072,A,Compositae,,Leuzea,,"altaica",,"","Fisch. ex Nees",Unresolved,,L,TICA,48E79E50-5B21-40F2-9112-0977F27EB669,230282-1,"Linnaea 10(Lit.): 117. 1836","","117","1836",
+gcc-77082,A,Compositae,,Leuzea,,"altaica",,"","Fisch. ex Schauer",Synonym,Illegitimate,M,TICA,6419C0B6-9657-46D1-B558-66120F64AF83,230281-1,"Cat. Sem. Hort. Vrat. (1834).","","","1834",gcc-147520
+gcc-52381,A,Compositae,,Leuzea,,"annae-bentiae",,"","(Rech.f.) Holub",Unresolved,,L,TICA,10F1005C-EF49-4E6D-8103-61200C92DC06,230283-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",
+gcc-26780,A,Compositae,,Leuzea,,"aulieatensis",,"","(Iljin) Holub",Synonym,,M,TICA,74F2553E-CB7C-43C2-B223-317AB0A3E0E4,230284-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-26769
+gcc-29550,A,Compositae,,Leuzea,,"australis",,"","Gaudich.",Unresolved,,L,TICA,9FAB5D93-AC07-4A40-9737-369E22BA6DF8,230285-1,"","","462. t. 92","1830",gcc-145124
+gcc-128672,A,Compositae,,Leuzea,,"berardioides",,"","Coss.",Unresolved,,L,TICA,64C6668E-FC55-4AD6-824F-DA8D44293E1B,,"","","","",
+gcc-16848,A,Compositae,,Leuzea,,"berardioides",,"","Batt.",Synonym,,L,TICA,46831133-B173-4977-8F6C-1F1FC372AF7C,230286-1,"","","55","1919",gcc-97168
+gcc-19068,A,Compositae,,Leuzea,,"carthamoides",,"","Willd.",Accepted,,M,TICA,E4ADFCB6-4688-47EB-9D82-233412C39974,,"","","","",
+gcc-95927,A,Compositae,,Leuzea,,"carthamoides",,"","(Willd.) DC.",Synonym,,M,TICA,5CEE01E1-5281-46B4-8675-90754813D0C1,,"Diss. Comp. 49. n. 2.","","205","1810",gcc-147520
+gcc-51782,A,Compositae,,Leuzea,,"carthamoides",subsp.,"orientalis","Serg.",Accepted,,L,TICA,F2087BAE-239D-402C-BB3B-600484E3A57F,,"","","","",
+gcc-104079,A,Compositae,,Leuzea,,"caulescens",,"","(Coss. & Balansa) Holub",Synonym,,M,TICA,B5B968F5-ADC5-4DE6-9DD6-A2BC41A2A791,230288-1,"","","391","1973",gcc-89531
+gcc-13810,A,Compositae,,Leuzea,,"centauroides",,"","(L.) Holub",Synonym,,M,TICA,5FCAC55E-4859-4E03-86A1-19A9BFCE1C70,230289-1,"","","391","1973",gcc-14010
+gcc-125098,A,Compositae,,Leuzea,,"conifera",,"","Spreng.",Unresolved,,L,TICA,E493521D-EDA8-48AD-B001-D24833281FF3,230291-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 382","","382","1826",
+gcc-135667,A,Compositae,,Leuzea,,"conifera",,"","(L.) DC.",Synonym,,M,TICA,F37E6C2F-750F-45AA-85BD-EA7937079216,,"","","","1805",gcc-4790
+gcc-116851,A,Compositae,,Leuzea,,"cynaroides",,"","Font Quer",Synonym,,L,TICA,BEF2C892-8235-4312-8D1C-BF5EFD885E76,,"""Font Quer in anon., Homen. Pardillo. 1956.""","","189","1956",gcc-1736
+gcc-134987,A,Compositae,,Leuzea,,"cynaroides",,"","(C.Sm.) Font Quer ex G.López",Unresolved,,L,TICA,E6ED3046-F717-442F-B2CB-E8F73D99A7E4,910829-1,"""in An. Jard. Bot. Madrid, 39(1): 154 (1982):.""","","154","1982",gcc-1736
+gcc-155020,A,Compositae,,Leuzea,,"cynaroides",var.,"cynaroides","",Synonym,,L,TICA,3BC4379B-4294-4DB3-BCCC-CF52C85B3156,,"","","","",gcc-14010
+gcc-55332,A,Compositae,,Leuzea,,"cynaroides",var.,"rhaponticoides","(Graells) Font Quer",Synonym,,L,TICA,D17DABFD-90EA-4B09-ACF8-752E5294D882,,"","","","",gcc-21401
+gcc-139187,A,Compositae,,Leuzea,,"dahurica",,"","Bunge",Synonym,,M,TICA,F2B634F3-0C69-4288-8B43-F22FC8CE3296,,"Enum. Pl. Chin. Bor. 37. 1833 [Mar 1833]","","","",gcc-85079
+gcc-40751,A,Compositae,,Leuzea,,"exaltata",,"","Cutanda ex Willk.",Synonym,,M,TICA,8E7901E5-195D-45FC-9C81-4B835A9ECF28,230293-1,"","","117","1859",gcc-21401
+gcc-7273,A,Compositae,,Leuzea,,"fontqueri",,"","Sauvage",Synonym,,L,TICA,3289C9F4-A657-434B-B292-0D8828B42D25,230294-1,"Sauvage in Collect. Bot. (Barcelona) 7. 1968.","","1100","1968",gcc-97168
+gcc-112290,A,Compositae,,Leuzea,,"froedinii",,"","(Rech.f.) Holub",Unresolved,,L,TICA,20A8F7EB-ADCE-4A53-866F-B50A65297E77,230295-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",
+gcc-37019,A,Compositae,,Leuzea,,"imatongensis",,"","(Philipson) Holub",Synonym,,L,TICA,75A7D2B0-0DB5-44B8-BA75-4495F9EEF5F4,230296-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-1073
+gcc-21009,A,Compositae,,Leuzea,,"insignis",,"","(Boiss.) Holub",Synonym,,M,TICA,03C5DE8C-9EEE-4912-8F90-26D394351D03,230297-1,"","","391","1973",gcc-118458
+gcc-134358,A,Compositae,,Leuzea,,"integrifolia",,"","Holub",Synonym,,M,TICA,235EC11D-B0CA-49A0-9E09-E7A44D56B5A3,230298-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-128959
+gcc-11058,A,Compositae,,Leuzea,,"karatavica",,"","(Regel & Schmalh.) Holub",Synonym,,M,TICA,438B589E-4A97-49B1-991B-14AE385107B8,230299-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-22771
+gcc-9883,A,Compositae,,Leuzea,,"longifolia",,"","Hoffmanns. & Link",Synonym,,M,TICA,95758C2D-89F3-4992-B43B-1275E01225EE,,"","","","1825",gcc-115886
+gcc-71743,A,Compositae,,Leuzea,,"longifolia",var.,"ericeticola","(Font Quer) Font Quer",Synonym,,L,TICA,847DA415-D879-4944-86F9-F8895381E21D,,"","","","",gcc-72500
+gcc-152470,A,Compositae,,Leuzea,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,8C973795-66C5-4305-B3E7-9A08246249E5,,"","","","",gcc-115886
+gcc-23085,A,Compositae,,Leuzea,,"lyrata",,"","(Winkler ex Iljin) Holub",Synonym,,L,TICA,0D15AAC1-9AB7-452A-B29D-2ABAEBF77A4A,230301-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-140903
+gcc-31807,A,Compositae,,Leuzea,,"namanganica",,"","(Iljin) Holub",Synonym,,M,TICA,CEA6A41F-4685-4262-8BAD-3AEF9BC779B6,230302-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-126393
+gcc-104065,A,Compositae,,Leuzea,,"nana",,"","(Lipsky) Holub",Synonym,,M,TICA,69662FFF-16CA-4FF8-B77E-A2B640E89081,230303-1,"Folia Geobot. Phytotax. 8(4): 391","","391","1973",gcc-100541
+gcc-86326,A,Compositae,,Leuzea,,"nitida",,"","(Fisch.) Holub",Synonym,,M,TICA,BB34310F-C862-4F57-ACF2-7AA93B7CC938,230304-1,"Folia Geobot. Phytotax. 8(4): 392","","392","1973",gcc-94666
+gcc-120365,A,Compositae,,Leuzea,,"palmeilana",,"","Welw. ex Benth. & Hook.f.",Unresolved,,L,TICA,02742160-8F05-44BA-9A7D-C75C972BD88A,230305-1,"Gen. ii. 477.","","ii. 477","",
+gcc-94154,A,Compositae,,Leuzea,,"pinnatifida",,"","DC.",Unresolved,,L,TICA,DE14486F-902E-47B1-A52A-8C5743EDE71F,230306-1,"Prodr. (DC.) 6: 666","","666","1838",
+gcc-83260,A,Compositae,,Leuzea,,"pinnatipartita",,"","Sennen",Unresolved,,L,TICA,F2BAF538-DE1D-4828-B5D7-73E4FCACD6C6,230307-1,"""Campagn. Bot. Maroc Or. 1930-5. 137 (1936), in obs., nomen.""","","""1930-5. 137 , in obs., nomen.""","1936",
+gcc-143542,A,Compositae,,Leuzea,,"pulchra",,"","(Fisch. & C.A.Mey.) Holub",Synonym,,M,TICA,09FD41D6-8D81-4AF1-A4CC-FC2350750CFD,230308-1,"Folia Geobot. Phytotax. 8(4): 392","","392","1973",gcc-136888
+gcc-96800,A,Compositae,,Leuzea,,"pumila",,"","Steud.",Unresolved,,L,TICA,8E216C01-57F1-4664-B22E-9264AC461D13,230309-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 39, sphalm.""","","39","1840",
+gcc-106175,A,Compositae,,Leuzea,,"pusilla",,"","Spreng.",Unresolved,,L,TICA,10F283F0-BFD4-461D-80BF-A732BD46D5F2,230310-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 382","","382","1826",
+gcc-43978,A,Compositae,,Leuzea,,"rhapontica",,"","(L.) Holub",Synonym,,M,TICA,3ABC1699-A76A-43A6-97AC-5178AA2022D2,230311-1,"","","392","1973",gcc-66012
+gcc-62633,A,Compositae,,Leuzea,,"rhapontica",subsp.,"bicknellii","(Briq.) Holub",Synonym,,L,TICA,33830249-A81B-4D87-AEA1-B0692449A207,877619-1,"","","392","1973",gcc-52548
+gcc-17356,A,Compositae,,Leuzea,,"rhapontica",subsp.,"heleniifolia","Holub",Synonym,,L,TICA,FB317C74-3988-4508-822B-2014FD0DE54E,877620-1,"","","392","1973",gcc-130884
+gcc-151650,A,Compositae,,Leuzea,,"rhapontica",subsp.,"rhapontica","",Synonym,,L,TICA,FA95F85E-B308-473E-A707-897243D8340D,,"","","","",gcc-66012
+gcc-83097,A,Compositae,,Leuzea,,"rhaponticoides",,"","Graells",Synonym,,M,TICA,02C54BF3-374C-48E5-B1E8-738EE4B4FB1D,,"","","","1859",gcc-21401
+gcc-47791,A,Compositae,,Leuzea,,"salina",,"","Spreng.",Synonym,,M,TICA,8341DEB7-B0BE-4C2E-A866-5887219E1B45,230313-1,"","","382","1826",gcc-24995
+gcc-96145,A,Compositae,,Leuzea,,"satzyperovii",,"","(Soskov) Holub",Synonym,,M,TICA,26603BAC-E1A6-41B2-B48D-90E2244769DC,230314-1,"Folia Geobot. Phytotax. 8(4): 392 (1973)","","392","1973",gcc-85079
+gcc-92051,A,Compositae,,Leuzea,,"sclerophylla",,"","Boiss. & Heldr.",Unresolved,,L,TICA,51B6C0A9-3621-46F3-B5D9-87BCE4E65736,,"""Diagn. Pl. Orient. ser. 1, 10: 97""","","97","1849",
+gcc-28648,A,Compositae,,Leuzea,,"serratuloides",,"","Fisch. & C.A.Mey. ex DC.",Synonym,,M,TICA,F68192F3-9105-4A75-B608-34F2A13DC884,230316-1,"","","666","1838",gcc-38056
+gcc-84824,A,Compositae,,Leuzea,,"uniflora",,"","(L.) Holub",Synonym,,M,TICA,0E0FF1D2-18D4-4628-BCAD-775A68547AB7,230317-1,"Folia Geobot. Phytotax. 8(4): 392","","392","1973",gcc-144154

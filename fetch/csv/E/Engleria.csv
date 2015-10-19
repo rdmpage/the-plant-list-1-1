@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-124589,A,Compositae,,Engleria,,"africana",,"","O.Hoffm.",Accepted,,M,TICA,7C4F6BF8-8844-4D2A-A762-D10F3EEB855A,,"","","","1889",
+gcc-151304,A,Compositae,,Engleria,,"africana",var.,"africana","",Synonym,,L,TICA,D5B7E7C1-5231-452C-AA79-81B489D41FAB,,"","","","",gcc-124589
+gcc-64485,A,Compositae,,Engleria,,"africana",var.,"radiata","Oliv.",Synonym,,L,TICA,D9E08BD7-4C4A-49B0-ACFE-BEF10E876865,,"Hooker's Icon. Pl. 23: t. 2205 (1892)","","t. 2205","1892",gcc-34746
+gcc-34746,A,Compositae,,Engleria,,"decumbens",,"","(Welw. ex Hiern) Hiern",Accepted,,M,TICA,48C495DD-6D84-4334-B5A5-406A0DD9C0DF,,"","","591","1898",

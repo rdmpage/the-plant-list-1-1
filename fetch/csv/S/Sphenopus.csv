@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-443897,A,Poaceae,,Sphenopus,,"divaricatus",,"","(Gouan) Rchb.",Accepted,,H,WCSP,443897,,"Fl. Germ. Excurs.","1: 45","","1830",
+kew-443901,A,Poaceae,,Sphenopus,,"divaricatus",var.,"ehrenbergii","(Hausskn.) E.A.Durand & Barratte",Synonym,,L,WCSP,443901,,"Fl. Libyc. Prodr.","265","","1910",kew-443902
+kew-443898,A,Poaceae,,Sphenopus,,"divaricatus",f.,"permicranthus","(Hausskn.) Täckh.",Synonym,,L,WCSP,443898,,"Bull. Fac. Sci. Egypt. Univ.","17: 175","","1941",kew-443897
+kew-443899,A,Poaceae,,Sphenopus,,"divaricatus",subsp.,"permicranthus","(Hausskn.) H.Scholz",Synonym,,L,WCSP,443899,956196-1,"Willdenowia","19: 410","","1990",kew-443897
+tro-25544007,A,Poaceae,,Sphenopus,,"divaricatus",var.,"permicranthus","(Hausskn.) Kneuck.",Synonym,,L,TRO,25544007,,"Allg. Bot. Z. Syst.","14: 94","94","1908",kew-443897
+kew-443900,A,Poaceae,,Sphenopus,,"divaricatus",subsp.,"syrticus","Murb.",Synonym,,L,WCSP,443900,,"Contr. Fl. Nord-Ouest Afrique","4: 19","","1890",kew-443902
+kew-443902,A,Poaceae,,Sphenopus,,"ehrenbergii",,"","Hausskn.",Accepted,,H,WCSP,443902,422504-1,"Mitth. Thüring. Bot. Vereins","n.f., 13: 57","","1899",
+kew-443903,A,Poaceae,,Sphenopus,,"gouanii",,"","Trin.",Synonym,Illegitimate,H,WCSP,443903,422505-1,"Fund. Agrost.","135","","1820",kew-443897
+tro-25555552,A,Poaceae,,Sphenopus,,"gouanii",var.,"conferta","Hausskn.",Synonym,,L,TRO,25555552,,"","","","",tro-25555550
+tro-25544005,A,Poaceae,,Sphenopus,,"gouanii",var.,"permicrantha","Hausskn.",Synonym,,L,TRO,25544005,,"Mitth. Thüring. Bot. Vereins, n.s.","13–14: 57","57","1899",kew-443897
+kew-443904,A,Poaceae,,Sphenopus,,"gouanii",var.,"permicranthus","Hausskn.",Synonym,,L,WCSP,443904,,"Mitth. Thüring. Bot. Vereins","n.f., 13-14: 57","","1899",kew-443897
+tro-25556958,A,Poaceae,,Sphenopus,,"syrticus",,"","(Murb.) Trab.",Synonym,,M,TRO,25556958,,"Fl. Syn.","377","377","1902",kew-443902

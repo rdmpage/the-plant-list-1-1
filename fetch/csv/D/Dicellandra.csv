@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-20303086,A,Melastomataceae,,Dicellandra,,"barteri",,"","Hook. f.",Accepted,,M,TRO,20303086,568176-1,"Gen. Pl.","1: 757","757","1867",
+tro-20303087,A,Melastomataceae,,Dicellandra,,"barteri",var.,"barteri","",Synonym,,L,TRO,20303087,,"","","","",tro-20303086
+tro-20303088,A,Melastomataceae,,Dicellandra,,"barteri",var.,"erecta","Jacq.-Fél.",Accepted,,L,TRO,20303088,,"","","","",
+tro-20303089,A,Melastomataceae,,Dicellandra,,"barteri",var.,"escherichii","Ja",Accepted,,L,TRO,20303089,,"","","","",
+tro-20303090,A,Melastomataceae,,Dicellandra,,"barteri",var.,"magnifica","Jacq.-Fél.",Accepted,,L,TRO,20303090,886677-1,"Adansonia, n.s.","14: 92, t. 6","92","1974",
+tro-20303091,A,Melastomataceae,,Dicellandra,,"descoingsii",,"","Jacq.-Fél.",Accepted,,M,TRO,20303091,,"","","","",
+tro-20303092,A,Melastomataceae,,Dicellandra,,"erecta",,"","Mildbr.",Synonym,,M,TRO,20303092,,"","","","",tro-20303088
+tro-20303093,A,Melastomataceae,,Dicellandra,,"escherichii",,"","Gilg ex Engl.",Synonym,,M,TRO,20303093,568179-1,"Veg. Erde","9: 760","760","1921",tro-20303089
+tro-20303094,A,Melastomataceae,,Dicellandra,,"glanduligera",,"","Jacq.",Accepted,,M,TRO,20303094,,"","","","",
+tro-20303085,A,Melastomataceae,,Dicellandra,,"gracilis",,"","A. Chev.",Unresolved,,L,TRO,20303085,568181-1,"Explor. Bot. Afrique Occ. Franc.","276","276","1920",
+tro-50048834,A,Melastomataceae,,Dicellandra,,"liberica",,"","Gilg",Synonym,,M,TRO,50048834,,"Monogr. Afrik. Pflanzen-Fam.","33","33","1898",tro-50048835
+tro-20303095,A,Melastomataceae,,Dicellandra,,"magnifica",,"","Mildbr.",Synonym,,M,TRO,20303095,,"","","","",tro-20303090
+tro-50048864,A,Melastomataceae,,Dicellandra,,"scandens",,"","Gilg ex Engl.",Unresolved,,L,TRO,50048864,568186-1,"Veg. Erde","3(2): 760","760","1921",
+tro-50048833,A,Melastomataceae,,Dicellandra,,"setosa",,"","Hook. f.",Synonym,,M,TRO,50048833,,"Fl. Trop. Afr.","2: 450","450","1871",tro-50048836

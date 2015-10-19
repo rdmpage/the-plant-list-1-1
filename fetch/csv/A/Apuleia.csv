@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-135031,A,Compositae,,Apuleia,,"asteroides",,"","Gaertn.",Synonym,,M,TICA,FC74469B-1C1D-48BB-856F-E90FB75B0213,178196-1,"","","439","1791",gcc-123001
+gcc-91849,A,Compositae,,Apuleia,,"atractyloides",,"","Less.",Synonym,,M,TICA,3692A570-6395-4F36-B0A7-8754B3172981,178197-1,"","","64","1832",gcc-125417
+tro-13049765,A,Leguminosae,,Apuleia,,"ferrea",,"","(Mart.) Baill.",Accepted,,M,TRO,13049765,474905-1,"Dict. Bot.","1: 440","440","1876",
+gcc-108663,A,Compositae,,Apuleia,,"fruticosa",,"","Bartl.",Synonym,,M,TICA,51B79677-DA12-4A7F-9617-ACD449764DC3,,"","","","1835",gcc-123001
+gcc-142508,A,Compositae,,Apuleia,,"fruticosa",,"","Gaertn.",Synonym,,M,TICA,C415B5AD-7D98-450A-B46E-F9C1BCC423FA,,"","","440","1791",gcc-81178
+tro-50163154,A,Leguminosae,,Apuleia,,"grazielana",,"","Afr. Fernandes",Accepted,,M,TRO,50163154,,"Bradea","6(33): 284","284","1994",
+gcc-102571,A,Compositae,,Apuleia,,"heterophylla",,"","Less.",Synonym,,M,TICA,918ECA26-EF20-452E-98AF-9F7160CCF5C0,178200-1,"","","65","1832",gcc-81964
+ild-33268,A,Leguminosae,,Apuleia,,"leiocarpa",,"","(Vogel) J.F.Macbr.",Accepted,,H,ILDIS,33268,,"","","","",
+tro-100290381,A,Leguminosae,,Apuleia,,"leiocarpa",var.,"molaris","(Spruce ex Benth.) Koeppen",Synonym,,L,TRO,100290381,,"Fl. Bras.","15(2): 177","177","1870",ild-33268
+tro-13015805,A,Leguminosae,,Apuleia,,"molaris",,"","Spruce ex Benth.",Synonym,,M,TRO,13015805,474907-1,"Fl. Bras.","15(2): 177","177","1870",ild-33268
+ild-33270,A,Leguminosae,,Apuleia,,"praecox",,"","C.Mart.",Synonym,,H,ILDIS,33270,,"","","","",ild-33268
+tro-13025225,A,Leguminosae,,Apuleia,,"praecox",,"","Mart.",Synonym,,M,TRO,13025225,,"Flora","20(2) Beibl.: 123","123","1837",ild-33268
+gcc-111199,A,Compositae,,Apuleia,,"rigida",,"","Gaertn.",Synonym,,M,TICA,1430044E-705E-4200-9EEC-B2982A607065,,"","","439","1791",gcc-35353
+gcc-121380,A,Compositae,,Apuleia,,"zeyheri",,"","Less.",Synonym,,M,TICA,B3D13DC0-7D7D-441D-810F-C9A93FE91E45,178202-1,"","","64","1832",gcc-85530

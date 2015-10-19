@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-141157,A,Compositae,,Cyanopis,,"decurrens",,"","Zoll. & Mor.",Unresolved,,L,TICA,DCFB0992-CD6C-483D-851B-F6B05346E27C,,"","","563","1845",
+gcc-23650,A,Compositae,,Cyanopis,,"erigeroides",,"","DC.",Synonym,,M,TICA,E76684AB-824D-4447-B8AE-2BBAE757FFF3,200734-1,"","","7","",gcc-149577
+gcc-146952,A,Compositae,,Cyanopis,,"erigeroides",var.,"erigeroides","",Synonym,,L,TICA,88264035-CC7A-4348-8710-2385D08172B2,,"","","","",gcc-149577
+gcc-125627,A,Compositae,,Cyanopis,,"hypoleuca",,"","Sch.Bip. ex Walp.",Synonym,,M,TICA,8AF11D66-1C45-41FC-86CC-D379E4CE09D2,,"","","98","1846",gcc-154066
+gcc-154096,A,Compositae,,Cyanopis,,"leopoldii",,"","Sch.Bip. ex Walp.",Synonym,,M,TICA,3E915033-85F7-46E2-9096-BC55C8B35B2A,,"","","949","1843",gcc-154066
+gcc-96995,A,Compositae,,Cyanopis,,"madagascariensis",,"","DC.",Synonym,,M,TICA,F848E8EA-3DEA-4BAA-B96F-92D10C874D0F,200737-1,"","","69","1836",gcc-115562
+gcc-86155,A,Compositae,,Cyanopis,,"microcephala",,"","Sch.Bip.",Synonym,,M,TICA,FDF334F5-8371-4FF5-90D9-7A495489378B,,"","","120","1854",gcc-32870
+gcc-108804,A,Compositae,,Cyanopis,,"moluccensis",,"","(Blume) DC.",Synonym,,M,TICA,92F30568-839C-47E7-A92F-AD2E6D5BD98A,200738-1,"Prodr. 5","","69","1836",gcc-32065
+gcc-76310,A,Compositae,,Cyanopis,,"pubescens",,"","(Blume) DC.",Synonym,,M,TICA,1B21BBBA-7790-4C11-B09A-64656B2347A5,200739-1,"Prodr. 5","","69","1836",gcc-67422
+gcc-117486,A,Compositae,,Cyanopis,,"villosa",,"","(Blume) DC.",Synonym,,M,TICA,70F830AD-B5F1-479A-BB66-C0C795CEA8C7,200740-1,"Prodr. 5","","69","1836",gcc-60374
+gcc-2157,A,Compositae,,Cyanopis,,"zollingeriana",,"","Sch.Bip.",Unresolved,,L,TICA,AE845989-DCC7-49F8-BEE7-03DD0F521B9F,,"","","120","1854",

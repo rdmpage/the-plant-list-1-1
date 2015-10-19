@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-251510,A,Eriocaulaceae,,Lachnocaulon,,"anceps",,"","(Walter) Morong",Accepted,,H,WCSP,251510,134320-2,"Bull. Torrey Bot. Club","18: 360","","1891",
+kew-251511,A,Eriocaulaceae,,Lachnocaulon,,"anceps",f.,"glabrescens","Moldenke",Synonym,,L,WCSP,251511,134321-2,"Phytologia","8: 160","","1962",kew-251510
+kew-251512,A,Eriocaulaceae,,Lachnocaulon,,"beyrichianum",,"","Sporl. ex Körn.",Accepted,,H,WCSP,251512,335876-1,"Linnaea","27: 567","","1856",
+kew-251513,A,Eriocaulaceae,,Lachnocaulon,,"cubense",,"","Ruhland",Accepted,,H,WCSP,251513,134322-2,"Repert. Spec. Nov. Regni Veg.","22: 34","","1925",
+kew-251514,A,Eriocaulaceae,,Lachnocaulon,,"diandrum",,"","Van Heurck & Müll.Arg.",Synonym,,H,WCSP,251514,335878-1,"Observ. Bot. Descript. Pl. Nov. Herb. Van Heurckiani","1: 108","","1870",kew-251515
+kew-251515,A,Eriocaulaceae,,Lachnocaulon,,"digynum",,"","Körn.",Accepted,,H,WCSP,251515,335879-1,"Linnaea","27: 570","","1856",
+kew-251516,A,Eriocaulaceae,,Lachnocaulon,,"eciliatum",,"","Small",Synonym,,H,WCSP,251516,134323-2,"Fl. S.E. U.S.","235","","1903",kew-251526
+kew-251517,A,Eriocaulaceae,,Lachnocaulon,,"ekmanii",,"","Ruhland",Accepted,,H,WCSP,251517,335881-1,"Repert. Spec. Nov. Regni Veg.","22: 34","","1925",
+kew-251518,A,Eriocaulaceae,,Lachnocaulon,,"engleri",,"","Ruhland",Accepted,,H,WCSP,251518,134325-2,"Pflanzenr.","IV, 30: 241","","1903",
+kew-251519,A,Eriocaulaceae,,Lachnocaulon,,"engleri",f.,"abludens","Moldenke",Synonym,,L,WCSP,251519,134326-2,"Phytologia","35: 111","","1977",kew-251518
+kew-251520,A,Eriocaulaceae,,Lachnocaulon,,"engleri",var.,"caulescens","Moldenke",Synonym,,L,WCSP,251520,134327-2,"Phytologia","25: 117","","1973",kew-251518
+kew-251521,A,Eriocaulaceae,,Lachnocaulon,,"floridanum",,"","Small",Synonym,,H,WCSP,251521,134328-2,"Fl. S.E. U.S.","235","","1903",kew-251510
+kew-251522,A,Eriocaulaceae,,Lachnocaulon,,"glabrum",,"","Körn.",Synonym,,H,WCSP,251522,335884-1,"Linnaea","27: 568","","1856",kew-251510
+kew-251523,A,Eriocaulaceae,,Lachnocaulon,,"maritimum",,"","Torr. ex Moldenke",Synonym,,H,WCSP,251523,335885-1,"Phytologia","1: 330","","1939",kew-251518
+kew-251524,A,Eriocaulaceae,,Lachnocaulon,,"michauxii",,"","Kunth",Synonym,,H,WCSP,251524,335886-1,"Enum. Pl.","3: 497","","1841",kew-251510
+kew-251525,A,Eriocaulaceae,,Lachnocaulon,,"michauxii",var.,"minus","Chapm.",Synonym,,L,WCSP,251525,,"Fl. South. U.S.","ed. 3: 531","","1897",kew-251526
+kew-251526,A,Eriocaulaceae,,Lachnocaulon,,"minus",,"","(Chapm.) Small",Accepted,,H,WCSP,251526,335887-1,"Fl. S.E. U.S.","235","","1903",

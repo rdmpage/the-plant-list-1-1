@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-404464,A,Poaceae,,Chasmanthium,,"curvifolium",,"","(Valdés-Reyna, Morden & S.L.Hatch) Wipff & S.D.Jones",Accepted,,H,WCSP,404464,274448-2,"Phytologia","69: 469","","1991",
+kew-404465,A,Poaceae,,Chasmanthium,,"gracile",,"","(Michx.) Link",Synonym,,H,WCSP,404465,1000568-2,"Hort. Berol.","1: 159","","1827",kew-404467
+kew-404466,A,Poaceae,,Chasmanthium,,"latifolium",,"","(Michx.) H.O.Yates",Accepted,,H,WCSP,404466,55649-2,"S. W. Naturalist","11: 416","","1966",
+kew-404467,A,Poaceae,,Chasmanthium,,"laxum",,"","(L.) H.O.Yates",Accepted,,H,WCSP,404467,55650-2,"S. W. Naturalist","11: 433","","1966",
+tro-25526650,A,Poaceae,,Chasmanthium,,"laxum",subsp.,"laxum","",Synonym,,L,TRO,25526650,,"","","","",kew-404467
+tro-50044599,A,Poaceae,,Chasmanthium,,"laxum",var.,"laxum","",Synonym,,L,TRO,50044599,,"","","","",kew-404467
+kew-404468,A,Poaceae,,Chasmanthium,,"laxum",subsp.,"sessiliflorum","(Poir.) L.G.Clark",Synonym,,L,WCSP,404468,956591-1,"Ann. Missouri Bot. Gard.","77: 601","","1990",kew-404467
+kew-404469,A,Poaceae,,Chasmanthium,,"laxum",var.,"sessiliflorum","(Poir.) Wipff & S.D.Jones",Synonym,,L,WCSP,404469,982718-1,"Phytologia","77: 456","","1994 publ. 1995",kew-404467
+kew-404470,A,Poaceae,,Chasmanthium,,"nitidum",,"","(Baldwin ex Elliott) H.O.Yates",Accepted,,H,WCSP,404470,55651-2,"S. W. Naturalist","11: 448","","1966",
+kew-404471,A,Poaceae,,Chasmanthium,,"ornithorhynchum",,"","Nees",Accepted,,H,WCSP,404471,,"Ann. Nat. Hist.","1: 284","","1838",
+kew-404472,A,Poaceae,,Chasmanthium,,"sessiliflorum",,"","(Poir.) Yates",Synonym,,H,WCSP,404472,395688-1,"S. W. Naturalist","11: 426","","1966",kew-404467

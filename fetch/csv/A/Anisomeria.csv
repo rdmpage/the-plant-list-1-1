@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2640259,A,Phytolaccaceae,,Anisomeria,,"chilensis",,"","(Miers) H.Walter",Accepted,,M,WCSP (in review),,14016-2,"Pflanzenr.","IV, 83: 33","","1909",
+kew-2640260,A,Phytolaccaceae,,Anisomeria,,"coriacea",,"","D.Don",Accepted,,M,WCSP (in review),,676185-1,"Edinburgh New Philos. J.","13: 238","","1832",
+kew-2640261,A,Phytolaccaceae,,Anisomeria,,"coriacea",var.,"lanceolata","J.Rémy",Synonym,,L,WCSP (in review),,14017-2,"Fl. Chil.","5: 257","","1851",kew-2640260
+kew-2640262,A,Phytolaccaceae,,Anisomeria,,"coriacea",var.,"petulifera","H.Walter",Synonym,,L,WCSP (in review),,14018-2,"Pflanzenr.","IV, 83: 32","","1909",kew-2640260
+kew-2640263,A,Phytolaccaceae,,Anisomeria,,"densiflora",,"","H.Walter",Accepted,,M,WCSP (in review),,14019-2,"Pflanzenr.","IV, 83: 32","","1909",
+kew-2640264,A,Phytolaccaceae,,Anisomeria,,"drastica",,"","(Bertero) Moq.",Synonym,,M,WCSP (in review),,676187-1,"Prodr.","13(2): 25","","1849",kew-2640260
+kew-2640265,A,Phytolaccaceae,,Anisomeria,,"fruticosa",,"","Phil.",Accepted,,M,WCSP (in review),,676188-1,"Linnaea","29: 38","","1857",
+kew-2640266,A,Phytolaccaceae,,Anisomeria,,"littoralis",,"","(Poepp. & Endl.) Moq.",Synonym,,M,WCSP (in review),,676189-1,"Prodr.","13(2): 25","","1849",kew-2640259

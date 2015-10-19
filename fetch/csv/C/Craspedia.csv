@@ -1,0 +1,60 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-134113,A,Compositae,,Craspedia,,"adenophora",,"","K.L.McDougall & N.G.Walsh",Accepted,,M,TICA,2EE53995-7A15-42EA-882F-E70DB24751A9,,"Muelleria 26:5 (2008)","","5","2008",
+gcc-93106,A,Compositae,,Craspedia,,"alba",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,6B4DA02E-2A1B-4273-9DC2-8A082A1A57A5,168754-3,"","","47","1992",
+gcc-95828,A,Compositae,,Craspedia,,"alpina",,"","Backh. ex Hook.f.",Accepted,,M,TICA,A62B691C-1676-4947-8F72-903DE89121AE,104839-3,"London J. Bot. 6: 119 (1847)","","119","1847",
+gcc-120754,A,Compositae,,Craspedia,,"aurantia",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,20782E52-AFCD-4203-914B-C84494A75CD6,168755-3,"","","49","1992",
+gcc-104537,A,Compositae,,Craspedia,,"canens",,"","J.Everett & Doust",Accepted,,M,TICA,6ED44E7D-9616-468B-B344-A3B8C4383EC2,168736-3,"","","37","1992",
+gcc-29474,A,Compositae,,Craspedia,,"chrysantha",,"","(Schldl.) Benth.",Synonym,,M,TICA,966F916D-AF21-4970-98D7-367A77D62DBD,199440-1,"Fl. Austral. 3","","580","1867",gcc-124785
+gcc-51155,A,Compositae,,Craspedia,,"coolaminica",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,A6A519FE-F7B3-48ED-8523-5EE3B7A48414,168757-3,"Telopea 5: 45 (1992)","","45","1992",
+gcc-128088,A,Compositae,,Craspedia,,"costiniana",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,998AAAB3-6640-4C13-A756-D934254D314E,968164-1,"","","50","1992",
+gcc-131709,A,Compositae,,Craspedia,,"crocata",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,A798D393-05AE-4E30-B13B-E187226B4A95,168760-3,"","","47","1992",
+gcc-126055,A,Compositae,,Craspedia,,"fimbriata",,"","Forst. ex Endl.",Unresolved,,L,TICA,05F82661-F42A-435E-AD82-D474696126AE,199442-1,"""in Ann. Wien. Mus. i. 169, No. 1012 (1836), nomen; DC. Prodr. vi. 152 (1837),descr.""","","""i. 169, No. 1012 , nomen""","1836",
+gcc-32827,A,Compositae,,Craspedia,,"fimbriata",,"","(G.Forst) J.R.Forst. ex DC.",Synonym,,M,TICA,99EDE44B-0A94-4242-97E0-3CE155B4D6AC,199441-1,"","","152","1838",gcc-42049
+gcc-153599,A,Compositae,,Craspedia,,"fimbriata",var.,"fimbriata","",Synonym,,L,TICA,14D45EF6-4DA2-450D-AF0C-B1A625DFB69B,,"","","","",gcc-42049
+gcc-46678,A,Compositae,,Craspedia,,"fimbriata",var.,"lanata","Hook.f.",Synonym,,L,TICA,DABBF4FB-EE09-4D0F-80E1-5686697DF86A,,"","","131","1853",gcc-8134
+gcc-25759,A,Compositae,,Craspedia,,"fimbriata",var.,"major","Hook.f.",Synonym,,L,TICA,7BCCE6FA-987C-45D1-9DAE-2F989F7C9976,,"","","131","1853",gcc-131438
+gcc-58468,A,Compositae,,Craspedia,,"fimbriata",var.,"marginata","Hook.f.",Synonym,,L,TICA,B7A41853-2B40-49A0-9240-8EEFCF8247BB,,"","","131","1853",gcc-42049
+gcc-11824,A,Compositae,,Craspedia,,"fimbriata",var.,"minor","Hook.f.",Synonym,,L,TICA,14ECB1BD-DC3A-4F4F-90A3-1607783910A1,,"","","131","1853",gcc-31327
+gcc-26113,A,Compositae,,Craspedia,,"fimbriata",var.,"robusta","Hook.f.",Synonym,,L,TICA,11E0964F-1DF3-4AEC-9E2A-30461FBCCC5A,,"","","131","1853",gcc-37112
+gcc-92640,A,Compositae,,Craspedia,,"glabrata",,"","(Hook.f.) Rozefelds",Accepted,,M,TICA,1F87E880-98F7-4974-8741-890A66584D67,,"Telopea 9(4)","","814","2002",
+gcc-132269,A,Compositae,,Craspedia,,"glauca",,"","(Labill.) Spreng.",Accepted,,M,TICA,E74C659C-DEA8-43CE-848E-E2D4FD02AD53,199443-1,"Syst. Veg. 3: 441 (1826)","","441","1826",
+gcc-66665,A,Compositae,,Craspedia,,"glauca",var.,"glauca","",Synonym,,L,TICA,D771E0A5-1387-45A6-BB08-D0994EC29BBB,104906-3,"The Student's Flora of Tasmania 2  1963","","2","1963",gcc-132269
+gcc-115881,A,Compositae,,Craspedia,,"globosa",,"","(F.L.Bauer ex Benth.) Benth.",Synonym,,M,TICA,2C10FB80-4CFB-410B-B86A-BD2F0B864DD6,199444-1,"Fl. Austral. 3","","580","1867",gcc-90412
+gcc-24334,A,Compositae,,Craspedia,,"gracilis",,"","Hook.",Synonym,,M,TICA,FC76D768-B2B1-49AA-9F71-2CF18075245D,199445-1,"","","118","1847",gcc-132269
+gcc-2455,A,Compositae,,Craspedia,,"haplorrhiza",,"","J.Everett & Doust",Accepted,,M,TICA,7616194E-E764-4BFB-84A0-0478B67D9998,168739-3,"","","37","1992",
+gcc-76182,A,Compositae,,Craspedia,,"incana",,"","Allan",Unresolved,Invalid,L,TICA,565973DA-E566-495C-B0CB-641B4AC549A4,,"","","","1961",
+gcc-107529,A,Compositae,,Craspedia,,"jamesii",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,4CC0C9DA-1C66-4D68-8BE4-AA3F32DA1495,168786-3,"","","48","1992",
+gcc-9088,A,Compositae,,Craspedia,,"lamicola",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,9F604730-F12E-4505-9750-10FD1F0D6BDB,968165-1,"","","50","1992",
+gcc-8134,A,Compositae,,Craspedia,,"lanata",,"","(Hook.f.) Allan",Accepted,,M,TICA,871868BF-D00F-4CA2-B182-0F201C4F426B,199448-1,"","","722","1961",
+gcc-70919,A,Compositae,,Craspedia,,"lanata",var.,"lanata","",Synonym,,L,TICA,C9798C5A-69C0-4AAB-AD6B-F1F6757E1B6B,,"","","","",gcc-8134
+gcc-119749,A,Compositae,,Craspedia,,"leucantha",,"","F.Muell.",Accepted,,M,TICA,F2BA7BF7-6B76-425F-927F-C5E08DCC05F2,105036-3,"","","","1855",
+gcc-28978,A,Compositae,,Craspedia,,"macrocephala",,"","Hook.",Synonym,,M,TICA,7946522E-8ED7-4591-918C-359030B22439,105051-3,"Bot. Mag. 62","","","1835",gcc-132269
+gcc-131438,A,Compositae,,Craspedia,,"major",,"","(Hook.f.) Allan",Accepted,,M,TICA,DE6BC805-9E6C-4A27-8046-E0E0E38063E7,199450-1,"","","725","1961",
+gcc-90903,A,Compositae,,Craspedia,,"maritima",,"","Cockayne & Allan",Synonym,,M,TICA,9AFDA85B-21F8-4EEE-BB3B-85223C2D899C,,"""Cockayne, L. 1928: The Vegetation of New Zealand - Die Vegetation der Erde XIV.2 ed.  Leipzig,  Engelmann Press. ""","","434","1928",gcc-65087
+gcc-80840,A,Compositae,,Craspedia,,"maxgrayi",,"","J.Everett & Joy Thomps.",Accepted,,M,TICA,184B53D0-1D5B-4A5B-8358-6E785F42585D,168787-3,"","","46","1992",
+gcc-31327,A,Compositae,,Craspedia,,"minor",,"","(Hook.f.) Allan",Accepted,,M,TICA,2DBFD994-2795-408A-9742-3A04D7DE96B7,199451-1,"","","724","1961",
+gcc-26129,A,Compositae,,Craspedia,,"minor",var.,"minor","",Synonym,,L,TICA,4275A31C-BF2D-4D29-8F94-30521BC783F1,,"","","","",gcc-31327
+gcc-66409,A,Compositae,,Craspedia,,"minor",var.,"viscosa","(Colenso) Allan",Unresolved,Illegitimate,L,TICA,90A8A17C-9F8E-4028-8425-CE9653440EA4,,"","","","1961",
+gcc-88536,A,Compositae,,Craspedia,,"paludicola",,"","J.Everett & Doust",Accepted,,M,TICA,747D5DD9-F120-4E32-BC7A-7FA5E158AB88,168741-3,"Telopea 5: 35 (1992)","","35","1992",
+gcc-116610,A,Compositae,,Craspedia,,"pilosa",,"","Spreng.",Accepted,,M,TICA,5E72EDE7-F028-4462-8699-BECB3A65447E,199452-1,"","","441","1826",
+gcc-101164,A,Compositae,,Craspedia,,"plebeia",,"","Steud.",Synonym,,M,TICA,014444D9-88AD-4FCE-AFA9-9C3BD6B4EBEE,199453-1,"","","430","1840",gcc-132269
+gcc-95748,A,Compositae,,Craspedia,,"pleiocephala",,"","F.Muell.",Synonym,,M,TICA,31D98013-BD3C-437A-9596-901121F7C354,199454-1,"","","404","1853",gcc-39955
+gcc-97034,A,Compositae,,Craspedia,,"preminghana",,"","Rozefelds",Accepted,,M,TICA,C83C1D3A-5B59-42BA-ADFA-92EEEE50A136,,"Telopea 9(4)","","816","2002",
+gcc-52248,A,Compositae,,Craspedia,,"richea",,"","Cass.",Unresolved,Illegitimate,L,TICA,2339678D-00D7-41DC-BC17-60E4858E827D,105131-3,"","","","1819",
+gcc-59930,A,Compositae,,Craspedia,,"richea",var.,"alpina","Benth.",Synonym,,L,TICA,C776CE5B-AE77-47E9-8EDF-9A63597F1ACC,105152-3,"","","","1867",gcc-95828
+gcc-71247,A,Compositae,,Craspedia,,"richea",var.,"glabrata","Hook.f.",Synonym,,L,TICA,B7F016AF-4901-4620-80C2-F4BD4F82C622,105163-3,"","","118","1847",gcc-92640
+gcc-71751,A,Compositae,,Craspedia,,"richea",var.,"gracilis","Hook.f.",Synonym,,L,TICA,40049726-D1C5-4E62-A683-F8996E1FCCB7,105188-3,"","","","1857",gcc-132269
+gcc-61955,A,Compositae,,Craspedia,,"richea",var.,"linearis","Hook.f.",Unresolved,,L,TICA,6EA5C565-11B1-4387-BD7D-AAE25EC791F7,105201-3,"","","188","1847",gcc-132269
+gcc-6686,A,Compositae,,Craspedia,,"richea",var.,"macrocephala","(Hook.) Benth.",Synonym,,L,TICA,EED4D41A-9488-414F-9E65-0C695713B7DA,105234-3,"","","","1867",gcc-132269
+gcc-50193,A,Compositae,,Craspedia,,"richea",var.,"richea","",Synonym,,L,TICA,44B91BF5-335A-4C68-BD1A-5D0CEACB4FD3,105247-3,"Hooker's London Journal of Botany 6 1847","","","1847",gcc-52248
+gcc-37112,A,Compositae,,Craspedia,,"robusta",,"","(Hook.f.) Cockayne",Accepted,,M,TICA,94ED8C57-E618-459E-A0F1-44C2ADD6DC51,1013996-1,"","","262","1913",
+gcc-10994,A,Compositae,,Craspedia,,"robusta",var.,"pedicellata","(Kirk) Allan",Accepted,,L,TICA,9D544E4F-BAB1-46A1-B91B-148D7FD84D93,,"","","","1961",
+gcc-19528,A,Compositae,,Craspedia,,"robusta",var.,"robusta","",Synonym,,L,TICA,9B247549-60EA-4F28-B10D-2418CC2DAEE6,,"","","","",gcc-37112
+gcc-144603,A,Compositae,,Craspedia,,"uniflora",,"","Labill.",Unresolved,,L,TICA,E85872AE-7AF1-4B89-8277-FE8024AD47EE,,"","","","",
+gcc-42049,A,Compositae,,Craspedia,,"uniflora",,"","G.Forst.",Accepted,,M,TICA,1084B479-0530-49A1-9FA3-4DE46E0F1F65,199456-1,"","","58","1786",
+gcc-65087,A,Compositae,,Craspedia,,"uniflora",var.,"maritima","Allan",Accepted,,L,TICA,57B61D6D-4FE0-4550-9884-C3C02DCD0916,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","""724, 970""","1961",
+gcc-69351,A,Compositae,,Craspedia,,"uniflora",var.,"pedicellata","Kirk",Synonym,,L,TICA,E2680B97-59FF-4D13-B6DA-E59FF5D0F77C,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","317","1899",gcc-10994
+gcc-60725,A,Compositae,,Craspedia,,"uniflora",var.,"uniflora","",Synonym,,L,TICA,A6D7F0F5-C8A8-4082-B3F4-A098E2967474,,"","","","1786",gcc-42049
+gcc-16388,A,Compositae,,Craspedia,,"uniflora",var.,"viscosa","(Colenso) Kirk",Synonym,,L,TICA,E4037353-DCB2-477D-8334-1E492BF263BC,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","990","1899",gcc-66409
+gcc-31745,A,Compositae,,Craspedia,,"variabilis",,"","J.Everett & Doust",Accepted,,M,TICA,8AF4D12B-9186-489C-BA32-3AD1DDC90E57,168743-3,"Telopea 5:36 (1992)","","36","1992",
+gcc-134440,A,Compositae,,Craspedia,,"viscosa",,"","Colenso",Synonym,,L,TICA,6CFA62E3-48B3-4517-A681-E7D2A4FF89D0,199457-1,"","","333","1884",gcc-66409

@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-180132,A,Arecaceae,,Roystonea,,"aitia",,"","O.F.Cook",Synonym,Invalid,H,WCSP,180132,669652-1,"Natl. Hort. Mag.","18: 106","","1939",kew-180134
+kew-180133,A,Arecaceae,,Roystonea,,"altissima",,"","(Mill.) H.E.Moore",Accepted,,H,WCSP,180133,222795-2,"Gentes Herb.","9: 239","","1963",
+kew-180134,A,Arecaceae,,Roystonea,,"borinquena",,"","O.F.Cook",Accepted,,H,WCSP,180134,222796-2,"Bull. Torrey Bot. Club","28: 552","","1901",
+kew-180135,A,Arecaceae,,Roystonea,,"caribaea",,"","(Spreng.) P.Wilson",Synonym,,H,WCSP,180135,222797-2,"Bull. New York Bot. Gard.","8: 385","","1917",kew-180144
+kew-180136,A,Arecaceae,,Roystonea,,"dunlapiana",,"","P.H.Allen",Accepted,,H,WCSP,180136,222798-2,"Ceiba","3: 15","","1952",
+kew-180137,A,Arecaceae,,Roystonea,,"elata",,"","(W.Bartram) F.Harper",Synonym,,H,WCSP,180137,222799-2,"Proc. Biol. Soc. Wash.","59: 29","","1946",kew-180149
+kew-180138,A,Arecaceae,,Roystonea,,"floridana",,"","O.F.Cook",Synonym,,H,WCSP,180138,298749-2,"Bull. Torrey Bot. Club","28: 554","","1901",kew-180149
+kew-180139,A,Arecaceae,,Roystonea,,"hispaniolana",,"","L.H.Bailey",Synonym,,H,WCSP,180139,669659-1,"Gentes Herb.","4: 268","","1939",kew-180134
+kew-338148,A,Arecaceae,,Roystonea,,"hispaniolana",f.,"altissima","Moscoso",Synonym,,L,WCSP,338148,,"Cat. Fl. Doming.","1: 63","","1943",kew-180134
+kew-180140,A,Arecaceae,,Roystonea,,"jamaicana",,"","L.H.Bailey",Synonym,,H,WCSP,180140,669660-1,"Gentes Herb.","3: 384","","1935",kew-180133
+kew-180141,A,Arecaceae,,Roystonea,,"jenmanii",,"","(C.H.Wright) Burret",Synonym,,H,WCSP,180141,222803-2,"Bot. Jahrb. Syst.","63: 76","","1929",kew-180149
+kew-180142,A,Arecaceae,,Roystonea,,"lenis",,"","León",Accepted,,H,WCSP,180142,669662-1,"Mem. Soc. Cub. Hist. Nat. ''Felipe Poey''","17: 8","","1943",
+kew-180143,A,Arecaceae,,Roystonea,,"maisiana",,"","(L.H.Bailey) Zona",Accepted,,H,WCSP,180143,995255-1,"Fl. Neotrop. Monogr.","71: 22","","1996",
+kew-180144,A,Arecaceae,,Roystonea,,"oleracea",,"","(Jacq.) O.F.Cook",Accepted,,H,WCSP,180144,222805-2,"Bull. Torrey Bot. Club","28: 554","","1901",
+kew-180146,A,Arecaceae,,Roystonea,,"oleracea",var.,"jenmanii","(Waby) Zona",Synonym,,L,WCSP,180146,1216596-2,"Fl. Neotrop. Monogr.","71: 24","","1996",kew-180144
+tro-50085674,A,Arecaceae,,Roystonea,,"oleracea",var.,"oleracea","",Synonym,,L,TRO,50085674,,"","","","",kew-180144
+kew-180147,A,Arecaceae,,Roystonea,,"peregrina",,"","L.H.Bailey",Synonym,,H,WCSP,180147,222807-2,"Gentes Herb.","8: 127","","1949",kew-180134
+kew-180148,A,Arecaceae,,Roystonea,,"princeps",,"","(Becc.) Burret",Accepted,,H,WCSP,180148,222808-2,"Bot. Jahrb. Syst.","63: 76","","1929",
+kew-180149,A,Arecaceae,,Roystonea,,"regia",,"","(Kunth) O.F.Cook",Accepted,,H,WCSP,180149,222809-2,"Science","II, 12: 479","","1900",
+kew-338149,A,Arecaceae,,Roystonea,,"regia",var.,"hondurensis","P.H.Allen",Synonym,,L,WCSP,338149,222810-2,"Ceiba","3: 17","","1952",kew-180149
+kew-180150,A,Arecaceae,,Roystonea,,"regia",var.,"maisiana","L.H.Bailey",Synonym,,L,WCSP,180150,,"Gentes Herb.","3: 376","","1935",kew-180143
+kew-180151,A,Arecaceae,,Roystonea,,"regia",var.,"pinguis","L.H.Bailey",Synonym,,L,WCSP,180151,222812-2,"Gentes Herb.","3: 378","","1935",kew-180142
+kew-180152,A,Arecaceae,,Roystonea,,"stellata",,"","León",Accepted,,H,WCSP,180152,669667-1,"Mem. Soc. Cub. Hist. Nat. ''Felipe Poey''","17: 11","","1943",
+kew-180153,A,Arecaceae,,Roystonea,,"venezuelana",,"","L.H.Bailey",Synonym,,H,WCSP,180153,222814-2,"Gentes Herb.","8: 124","","1949",kew-180144
+kew-180154,A,Arecaceae,,Roystonea,,"ventricosa",,"","(C.H.Wright) L.H.Bailey",Synonym,,H,WCSP,180154,222815-2,"Gentes Herb.","8: 113","","1949",kew-180149
+kew-180155,A,Arecaceae,,Roystonea,,"violacea",,"","León",Accepted,,H,WCSP,180155,669670-1,"Mem. Soc. Cub. Hist. Nat. ''Felipe Poey''","17: 10","","1943",

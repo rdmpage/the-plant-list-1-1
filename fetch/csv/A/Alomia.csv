@@ -1,0 +1,45 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-36372,A,Compositae,,Alomia,,"ageratoides",,"","Kunth",Accepted,,M,TICA,A89F5205-243A-4DFF-9B44-4377D0C9B456,,"","","","1818",
+gcc-125365,A,Compositae,,Alomia,,"alata",,"","Hemsl.",Accepted,,M,TICA,AFA2146B-7B1E-4B1B-BC68-D2DD11D64A8B,,"","","79","1881",
+gcc-30750,A,Compositae,,Alomia,,"angustata",,"","Benth. ex Baker",Synonym,,M,TICA,53AF6922-9C08-43D1-9411-38EE9CD1EAD4,,"","","190","1876",gcc-46811
+gcc-36337,A,Compositae,,Alomia,,"angustata",,"","(Gardner) Benth.",Unresolved,,L,TICA,53A69CAE-A71C-42FD-AB19-4361AC564CB2,,"Flora Brasiliensis 6(2):","","190","1876",
+gcc-150571,A,Compositae,,Alomia,,"armani",,"","(Balbis) Baker",Synonym,,L,TICA,B6F63325-5013-440E-A745-71A12C7E17B8,,"Fl. Bras. 6(2): 191. 1876.","","191","1876",gcc-156968
+gcc-119109,A,Compositae,,Alomia,,"armanii",,"","(Balb.) Baker",Synonym,,M,TICA,DFE14EE5-59A0-4D56-9058-C479081044E5,,"","","191","1876",gcc-32667
+gcc-155522,A,Compositae,,Alomia,,"ballotaefolia",,"","""Maguire, Steyerm. & Wurd.""",Synonym,,M,TICA,39957FD2-7668-4358-A670-DA143B48EB50,,"Mem. New York Bot. Gard. 9: 425. 1957.","","425","1957",gcc-151316
+gcc-31063,A,Compositae,,Alomia,,"ballotifolia",,"","""Maguire, Steyerm. & Wurdack""",Synonym,,M,TICA,291E9F6E-3313-43D5-89D9-39864A9C63E1,9484-2,"Mem. New York Bot. Gard. 9","","425","1957",gcc-86612
+gcc-49065,A,Compositae,,Alomia,,"callosa",,"","(S.Watson) B.L.Rob.",Accepted,,M,TICA,E9948BDF-C786-482B-9069-5AE444FD0E16,9485-2,"Proc. Amer. Acad. Arts 49","","443","1913",
+gcc-94198,A,Compositae,,Alomia,,"chiriquensis",,"","B.L.Rob.",Synonym,,M,TICA,FBE3AC2C-983A-4CEA-858C-8C721F8299F6,9486-2,"Contr. Gray Herb. 61","","4","1920",gcc-112415
+gcc-106249,A,Compositae,,Alomia,,"cinerea",,"","(Gardner) Benth. ex Baker",Synonym,,M,TICA,C8F0D616-C78E-4021-9770-A759B83175C5,9487-2,"Fl. Bras. (Martius) 6(2): 191","","191","1876",gcc-45495
+gcc-4513,A,Compositae,,Alomia,,"cinerea",,"","(Gardner) Benth.",Unresolved,,L,TICA,738AA9C5-422B-4598-9424-08632D8F854C,,"Flora Brasiliensis 6(2):","","191","1876",
+gcc-122461,A,Compositae,,Alomia,,"coelestina",,"","(Regel) B.L.Rob.",Synonym,,M,TICA,28D69DB5-8433-47E9-8720-CC144C938146,9488-2,"Contr. Gray Herb. 90: 4","","4","1930",gcc-151487
+gcc-103134,A,Compositae,,Alomia,,"cordata",,"","S.F.Blake",Synonym,,M,TICA,AA9DEB3C-4738-4577-9A75-A09AA8C05831,9489-2,"Proc. Biol. Soc. Wash. 60: 41. 1947.","","41","1947",gcc-87334
+gcc-136793,A,Compositae,,Alomia,,"dubia",,"","B.L.Rob.",Synonym,,M,TICA,EEF26B98-B10E-43ED-A740-ED08A2070AF0,9490-2,"Proc. Amer. Acad. Arts 42","","33","1906",gcc-139647
+gcc-122288,A,Compositae,,Alomia,,"echioides",,"","(Less.) B.L.Rob.",Synonym,,M,TICA,04D0C8F1-2FC2-4412-9152-CBAC185E631D,9491-2,"Proc. Amer. Acad. Arts 49: 449. 1913.","","449","1913",gcc-17668
+gcc-127971,A,Compositae,,Alomia,,"elata",,"","Hemsl.",Unresolved,,L,TICA,FD8E22AB-5AFA-46ED-9577-D8ECCB80524B,,"","","","",
+gcc-100279,A,Compositae,,Alomia,,"fastigiata",,"","Benth. ex Baker",Synonym,,M,TICA,59C0A8FD-9D23-4D9E-9F00-9A4267E37902,,"","","192","1876",gcc-122637
+gcc-76443,A,Compositae,,Alomia,,"fastigiata",,"","Benth.",Unresolved,,L,TICA,8FDC099E-7879-42C9-BB75-64B9D5293116,,"Flora Brasiliensis 6(2):","","192","1876",
+gcc-134573,A,Compositae,,Alomia,,"foliosa",,"","(Gardner) Benth. & Hook.f.",Synonym,,M,TICA,96C8CA17-0A6F-4328-B388-E8185B7FB777,175942-1,"","","240","1873",gcc-105851
+gcc-140534,A,Compositae,,Alomia,,"glutinosa",,"","Krasch.",Synonym,,M,TICA,96E5F3D6-596B-43A8-9F2C-F540B9EE58D3,9492-2,"Bot. Mater. Gerb. Glavn. Bot. Sada RSFSR 3","","161","1922",gcc-120551
+gcc-52462,A,Compositae,,Alomia,,"guatemalensis",,"","B.L.Rob.",Synonym,,M,TICA,8893B5DF-413C-49E2-B71F-613F7DF990B3,297210-2,"Proc. Amer. Acad. Arts 49: 448. 1913.","","448","1913",gcc-38879
+gcc-29217,A,Compositae,,Alomia,,"heterolepis",,"","(Baker) B.L.Rob.",Synonym,,M,TICA,837CC6FF-8BAB-4A55-A2F8-35FF8E4C14A7,9493-2,"Proc. Amer. Acad. Arts 49","","447","1913",gcc-9027
+gcc-96858,A,Compositae,,Alomia,,"hintonii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,B43A579C-73A4-4A42-BBA4-927D6E530CAF,9494-2,"Phytologia 24","","110","1972",
+gcc-105024,A,Compositae,,Alomia,,"isocarphoides",,"","(DC.) B.L.Rob.",Synonym,,M,TICA,BAC4682C-5BC9-4D4C-8302-A4C1EA8B0E83,175947-1,"Proc. Amer. Acad. Arts 49: 449. 1913.","","449","1913",gcc-144251
+gcc-10505,A,Compositae,,Alomia,,"longifolia",,"","(Gardner) B.L.Rob.",Synonym,,M,TICA,EEE9BD5A-EACC-4028-8CB5-139CBCBCE2A3,9496-2,"Proc. Amer. Acad. Arts 49","","447","1913",gcc-120551
+gcc-39257,A,Compositae,,Alomia,,"microcarpa",,"","(Benth. ex Benth.) B.L.Rob.",Synonym,,M,TICA,64DA3082-E6D5-4975-9C49-48DB47AC3C49,9497-2,"Proc. Amer. Acad. Arts 49: 452. 1913.","","452","1913",gcc-151487
+gcc-84321,A,Compositae,,Alomia,,"microcarpa",f.,"microcarpa","",Synonym,,L,TICA,96E65804-D1C1-4B70-935D-765552456DEC,,"","","","",gcc-151487
+gcc-139047,A,Compositae,,Alomia,,"microcarpa",f.,"torresii","Standl.",Synonym,,L,TICA,2E04116E-9F22-4AFF-A75C-F1E3874B5AA7,9498-2,"","","274","1936",gcc-114457
+gcc-136758,A,Compositae,,Alomia,,"microcephala",,"","(Hemsl.) B.L.Rob.",Synonym,,L,TICA,2BC1994D-6BE9-4739-BB26-ECF06883C9C7,9499-2,"Proc. Amer. Acad. Arts 49","","448","1913",gcc-148291
+gcc-137647,A,Compositae,,Alomia,,"myriadenia",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,AD54DE11-505E-4720-A540-EEE6A79B411E,9500-2,"Fl. Bras. (Martius) 6(2): 192","","192","1876",gcc-99877
+gcc-37541,A,Compositae,,Alomia,,"pinetorum",,"","L.O.Williams",Synonym,,M,TICA,9D321010-AE1A-44F8-896A-45951AA483D3,175952-1,"""Fieldiana, Bot. 31: 25""","","25","1964",gcc-155329
+gcc-113073,A,Compositae,,Alomia,,"platylepis",,"","B.L.Rob.",Synonym,,M,TICA,9BB14DE6-522A-45C0-B136-B6D5D52838E4,9502-2,"Proc. Amer. Acad. Arts 49","","448","1913",gcc-38879
+gcc-25442,A,Compositae,,Alomia,,"pohlii",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,5E86F033-F55F-48E7-B603-2EF6BF19BA8E,,"","","190","1876",gcc-112876
+gcc-51064,A,Compositae,,Alomia,,"polyphylla",,"","Baker",Synonym,,M,TICA,6F1FBCFE-8DB2-46B5-8A8F-5EB9C4C3BBB2,,"","","191","1876",gcc-122637
+gcc-20887,A,Compositae,,Alomia,,"regnellii",,"","Malme",Synonym,,M,TICA,A1BEA23B-F4E8-4AF1-AFEA-269F8687616E,,"","","32","1899",gcc-42843
+gcc-105949,A,Compositae,,Alomia,,"robinsoniana",,"","L.O.Williams",Synonym,,M,TICA,83F7B0A6-8AE9-4000-B698-A6B7678AEFF7,9505-2,"""Fieldiana, Bot. 31: 27""","","27","1964",gcc-153365
+gcc-150429,A,Compositae,,Alomia,,"spilanthoides",,"","D.Don ex Hook.",Synonym,,M,TICA,A199549B-385D-4319-87F3-6E5B9B692993,,"Companion Bot. Mag. 1: 238. 1835.","","238","1835",gcc-39812
+gcc-81630,A,Compositae,,Alomia,,"spilanthoides",,"","D.Don ex Hook. & Arn.",Synonym,,M,TICA,CDCDC8D7-12E9-458F-AD2D-704408B7C73F,,"","","238","1835",gcc-39812
+gcc-118600,A,Compositae,,Alomia,,"stachyofolium",,"","B.L.Rob.",Unresolved,,L,TICA,49591C16-A29E-4E17-A0D7-C35979AAC311,,"Proceedings of the American Academy of Arts and Sciences 36:","","476","1901",
+gcc-12877,A,Compositae,,Alomia,,"stenolepis",,"","S.F.Blake",Accepted,,M,TICA,B1F0CE77-B741-4356-8146-1803C470512A,9506-2,"J. Wash. Acad. Sci. 27","","375","1937",
+gcc-75867,A,Compositae,,Alomia,,"tenuifolia",,"","(Phil.) Benth. & Hook.f. ex Reiche",Synonym,,M,TICA,CA5D6723-EDCB-4778-BDC9-6368E8917201,,"","","","",gcc-89084
+gcc-43964,A,Compositae,,Alomia,,"tomentosum",,"","(Benth.) Hemsl.",Unresolved,,L,TICA,F7B3D065-0CAB-4B5A-BACE-51755CE0E66C,,"","","","",
+gcc-142925,A,Compositae,,Alomia,,"wendlandii",,"","B.L.Rob.",Synonym,,M,TICA,F236822E-7848-4346-A399-FAC20975BBAE,9507-2,"Proc. Amer. Acad. Arts 49: 452. 1913.","","452","1913",gcc-153365

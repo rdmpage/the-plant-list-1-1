@@ -1,0 +1,50 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-128968,A,Compositae,,Waitzia,,"acuminata",,"","Steetz",Accepted,,M,TICA,731E15A7-A9B1-4EA2-9985-DB36135DB781,115196-3,"","","","1845",
+gcc-38006,A,Compositae,,Waitzia,,"acuminata",var.,"acuminata","",Synonym,,L,TICA,BCA4CF38-60A1-4D0B-9257-467C7AD9D8CE,,"","","","",gcc-128968
+kew-325792,A,Iridaceae,,Waitzia,,"aequimaculata",,"","Heynh.",Unresolved,,L,iPlants,325792,441865-1,"Nom. Bot. Hort.","854","","1841",
+kew-325794,A,Iridaceae,,Waitzia,,"anigozanthiflora",,"","Heynh.",Unresolved,,L,iPlants,325794,441866-1,"Nom. Bot. Hort.","854","","1841",
+gcc-113601,A,Compositae,,Waitzia,,"aurea",,"","(Benth.) Steetz",Synonym,,L,TICA,2E9C0EBE-FFC1-425F-AFFC-B7F59591F3D2,115229-3,"","","","1845",gcc-50416
+gcc-106085,A,Compositae,,Waitzia,,"brachyrrhyncha",,"","F.Muell.",Unresolved,,L,TICA,145B84B2-5567-49F4-A3B6-A700CB53B93F,115257-3,"","","","1853",
+gcc-7379,A,Compositae,,Waitzia,,"brevirostris",,"","Steetz",Unresolved,,L,TICA,F6ADF8D1-D6ED-406A-9DA5-0DB83C4D63B0,115284-3,"","","","1845",
+kew-461986,A,Iridaceae,,Waitzia,,"capensis",,"","(Houtt.) Rchb.",Synonym,,H,iPlants,461986,77108710-1,"Index Seminum (DR)","1856: 6","","1856",kew-322850
+gcc-105650,A,Compositae,,Waitzia,,"citrea",,"","(Benth.) Steetz",Unresolved,,L,TICA,94E70D33-C534-4D82-9780-A609C7D7CA00,115312-3,"Plantae Preissianae","","454","1845",
+gcc-37328,A,Compositae,,Waitzia,,"citrina",,"","(Benth.) Steetz",Synonym,,L,TICA,A5801BF7-C581-4828-B943-452C3FD57B43,260111-1,"","","i. 451","1845",gcc-110105
+kew-325767,A,Iridaceae,,Waitzia,,"concolor",,"","Heynh.",Synonym,,H,iPlants,325767,441867-1,"Nom. Bot. Hort.","854","","1841",kew-322850
+gcc-44231,A,Compositae,,Waitzia,,"conica",,"","B.L.Turner",Synonym,,M,TICA,DE741CBC-86BF-4965-A964-51E3F0C34C03,260112-1,"Sida 2","","428","1966",gcc-33011
+gcc-136830,A,Compositae,,Waitzia,,"corymbosa",,"","J.C.Wendl.",Accepted,,M,TICA,1ACDC1DC-EA30-4159-AD03-ED20C2DE7650,260113-1,"","","ii. 13. t. 42.","1808",
+gcc-8286,A,Compositae,,Waitzia,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,E2189863-6D59-4179-A707-0F6BFC257C4C,,"Plantae Preissianae 1(4)  1845","","1(4)  1845","",gcc-136830
+kew-325762,A,Iridaceae,,Waitzia,,"crispa",,"","(L.f.) Kreysig",Synonym,,H,iPlants,325762,941453-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325613
+kew-325805,A,Iridaceae,,Waitzia,,"crocata",,"","(L.) Hoffm.",Synonym,,H,iPlants,325805,441869-1,"Verz. Pfl.-Kult.","Nachtr. 3: 14","","1824",kew-325451
+gcc-75906,A,Compositae,,Waitzia,,"dasycarpa",,"","Turcz.",Unresolved,,L,TICA,77EBE816-FB8C-4724-96A4-6380DF3AA198,115460-3,"","","","1851",
+kew-325761,A,Iridaceae,,Waitzia,,"deusta",,"","(Aiton) Kreysig",Synonym,,H,iPlants,325761,941454-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325450
+gcc-78978,A,Compositae,,Waitzia,,"discolor",,"","Turcz.",Unresolved,,L,TICA,F308F07C-BEC3-4163-893F-6A761EFE3801,115487-3,"","","","1851",
+kew-325760,A,Iridaceae,,Waitzia,,"fenestrata",,"","(Jacq.) Kreysig",Synonym,,H,iPlants,325760,941455-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325451
+kew-325759,A,Iridaceae,,Waitzia,,"flava",,"","(Aiton) Kreysig",Synonym,,H,iPlants,325759,941456-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325454
+kew-325801,A,Iridaceae,,Waitzia,,"fucata",,"","(Lindl.) Heynh.",Synonym,,H,iPlants,325801,441873-1,"Nom. Bot. Hort.","854","","1841",kew-327104
+gcc-42640,A,Compositae,,Waitzia,,"grandiflora",,"","Naudin",Unresolved,,L,TICA,0F2F3BD8-651E-4EC2-B3D1-4EFC25710D5F,260116-1,"","","185","",
+kew-325758,A,Iridaceae,,Waitzia,,"lineata",,"","(Salisb.) Kreysig",Synonym,,H,iPlants,325758,941457-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-348780
+kew-325757,A,Iridaceae,,Waitzia,,"longiflora",,"","(L.f.) Kreysig",Synonym,,H,iPlants,325757,941458-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325448
+kew-325756,A,Iridaceae,,Waitzia,,"miniata",,"","(Jacq.) Kreysig",Synonym,,H,iPlants,325756,941459-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325289
+gcc-50416,A,Compositae,,Waitzia,,"nitida",,"","(Lindl.) Paul G.Wilson",Accepted,,L,TICA,240DDC4E-2809-4579-AD06-5D7B55563464,169310-3,"","","","1992",
+gcc-130388,A,Compositae,,Waitzia,,"nivea",,"","Benth.",Unresolved,,L,TICA,9DE66C0A-5640-4A72-919A-DE705B2DCBCB,115566-3,"","","","1867",
+gcc-89805,A,Compositae,,Waitzia,,"odontolepis",,"","Turcz.",Unresolved,,L,TICA,89438C4D-E66D-4A3D-A253-8296882EEF9C,115599-3,"","","","1851",
+kew-325797,A,Iridaceae,,Waitzia,,"odorata",,"","Heynh.",Synonym,,H,iPlants,325797,441877-1,"Nom. Bot. Hort.","854","","1841",kew-328141
+kew-325765,A,Iridaceae,,Waitzia,,"pallida",,"","(Ker Gawl.) Heynh.",Synonym,,H,iPlants,325765,441878-1,"Nom. Bot. Hort.","855","","1841",kew-325415
+gcc-51287,A,Compositae,,Waitzia,,"paniculata",,"","(Steetz) F.Muell. ex Benth.",Synonym,,M,TICA,DDFBC3EF-9181-4D14-B127-5F1BE39072D4,115614-3,"","","","1867",gcc-43567
+kew-325789,A,Iridaceae,,Waitzia,,"pectinata",,"","(Vahl) Heynh.",Synonym,,H,iPlants,325789,441879-1,"Nom. Bot. Hort.","855","","1841",kew-325403
+gcc-113142,A,Compositae,,Waitzia,,"podolepis",,"","(Gaudich.) Benth.",Accepted,,M,TICA,AF9CEDFD-FA82-4F80-BDF7-B6FA53CDDE09,115643-3,"","","3","1867",
+gcc-29418,A,Compositae,,Waitzia,,"podolepis",,"","Steetz",Unresolved,,L,TICA,56312714-B4BF-4576-8A90-365FE4E005D0,260120-1,"Pl. Preiss. i. 450.","","i. 450.","",
+kew-325788,A,Iridaceae,,Waitzia,,"refracta",,"","(Jacq.) Heynh.",Synonym,,H,iPlants,325788,441880-1,"Nom. Bot. Hort.","855","","1841",kew-328141
+kew-325787,A,Iridaceae,,Waitzia,,"rochensis",,"","(Ker Gawl.) Heynh.",Synonym,,H,iPlants,325787,441881-1,"Nom. Bot. Hort.","855","","1841",kew-322808
+kew-325786,A,Iridaceae,,Waitzia,,"rosea",,"","(Jacq.) Heynh.",Synonym,,H,iPlants,325786,441882-1,"Nom. Bot. Hort.","855","","1841",kew-325268
+kew-325755,A,Iridaceae,,Waitzia,,"squalida",,"","(Aiton) Kreysig",Synonym,,H,iPlants,325755,941460-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-325583
+gcc-136569,A,Compositae,,Waitzia,,"steetziana",,"","Lehm.",Synonym,,L,TICA,B41ED27B-E9F8-4378-BE6B-EC8091F33859,115669-3,"Plantae Preissianae 1(4)  1845","","","1845",gcc-110105
+gcc-7270,A,Compositae,,Waitzia,,"steetziana",,"","Lehm. ex Steetz",Unresolved,,L,TICA,AEEAF12A-45F9-48EC-A954-0D8744CA5B27,260121-1,"Pl. Preiss. i. 454.","","i. 454.","",
+kew-325784,A,Iridaceae,,Waitzia,,"striata",,"","Heynh.",Synonym,Invalid,H,iPlants,325784,441884-1,"Nom. Bot. Hort.","855","","1841",kew-325433
+gcc-145074,A,Compositae,,Waitzia,,"suaveolens",,"","(Benth.) Druce",Accepted,,M,TICA,544AB6A5-8445-49BB-B9AD-FF9866A1B2E2,260122-1,"","","652","1917",
+gcc-64805,A,Compositae,,Waitzia,,"suaveolens",var.,"suaveolens","",Synonym,,L,TICA,376B5D87-720E-4EDC-BBCE-C146DE05D78F,,"Nuytsia 8(3)  1992","","8(3)  1992","",gcc-145074
+gcc-109705,A,Compositae,,Waitzia,,"sulphurea",,"","Steetz",Unresolved,,L,TICA,3366C38E-1E59-46A0-9296-AF3D9DAE1629,115703-3,"","","","1845",
+gcc-19345,A,Compositae,,Waitzia,,"tenella",,"","Hook.",Unresolved,,L,TICA,E1CAC226-66A0-4E1A-BDD2-23C216571EC4,260124-1,"","","5342","1862",gcc-110105
+kew-325783,A,Iridaceae,,Waitzia,,"tenuiflora",,"","(Ker Gawl.) Heynh.",Synonym,,H,iPlants,325783,441885-1,"Nom. Bot. Hort.","855","","1841",kew-322850
+kew-325754,A,Iridaceae,,Waitzia,,"viridis",,"","(Aiton) Kreysig",Synonym,,H,iPlants,325754,941461-1,"Verz. Warm. & Kalt. Hauspflanzen Gart. Dresden","52","","1829",kew-328148
+kew-325781,A,Iridaceae,,Waitzia,,"xanthospila",,"","(DC.) Heynh.",Synonym,,H,iPlants,325781,441887-1,"Nom. Bot. Hort.","855","","1841",kew-328117

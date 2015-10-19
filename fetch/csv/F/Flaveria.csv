@@ -1,0 +1,67 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-30266,A,Compositae,,Flaveria,,"angustifolia",,"","(Cav.) Pers.",Accepted,,M,TICA,58887D6D-415E-4915-AAD5-3802A0FCC8E3,207991-1,"","","489","1807",
+gcc-33971,A,Compositae,,Flaveria,,"angustifolia",,"","A.Gray",Synonym,Illegitimate,M,TICA,9E3B071D-FFBF-42A1-ABF3-3F01A90A1327,,"""Mem. Amer. Acad. Arts, n.s., 4: 88 (1849)""","","88","1849",gcc-81010
+gcc-13356,A,Compositae,,Flaveria,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,18CA24CE-8D39-4321-9955-18E5A2B337FF,,"","","","1807",gcc-30266
+gcc-70449,A,Compositae,,Flaveria,,"angustifolia",var.,"ramosissima","Klatt",Synonym,,L,TICA,59695479-6000-4C1F-9B6C-EE397CF85939,,"Leopoldina 23:","","146","1887",gcc-27134
+gcc-121756,A,Compositae,,Flaveria,,"anomala",,"","B.L.Rob.",Accepted,,M,TICA,C483D0DD-09C0-4665-9152-CA7B6AA08588,105041-2,"Proc. Amer. Acad. Arts 27","","178","1892",
+gcc-127098,A,Compositae,,Flaveria,,"australasica",,"","Hook.",Accepted,,M,TICA,3BFC796C-35CA-403B-BEF9-D6D5E6BB653B,207993-1,"","","118","1848",
+gcc-103513,A,Compositae,,Flaveria,,"bidentis",,"","B.L.Rob.",Unresolved,Illegitimate,L,TICA,95605F05-5CA5-4DC5-8AE5-A171390397A8,207995-1,"Proc. Amer. Acad. Arts xliii. 42 (1907)","","42","1907",gcc-136971
+gcc-103829,A,Compositae,,Flaveria,,"bidentis",,"","(L.) M.R.Almeida",Unresolved,,L,TICA,96B0B0A5-4FB6-4A2E-9561-A21E8F776D5A,20008460-1,"Fl. Maharashtra 3A: 105 (2001).","","105","2001",
+gcc-136971,A,Compositae,,Flaveria,,"bidentis",,"","(L.) Kuntze",Accepted,,M,TICA,9B09E404-0E24-4BDF-9C4E-ED6E1914B81E,207994-1,"Revis. Gen. Pl. 3[3]: 148","","148","1898",
+gcc-30498,A,Compositae,,Flaveria,,"bidentis",var.,"angustifolia","Kuntze",Synonym,,L,TICA,B13554B8-2EBD-434A-AA83-386D26B21E9B,105043-2,"","","148","1898",gcc-136971
+gcc-148959,A,Compositae,,Flaveria,,"bidentis",f.,"bidentis","",Synonym,,L,TICA,0C9A4223-EF09-46E2-9957-4E902AAF903C,,"","","","",gcc-136971
+gcc-58142,A,Compositae,,Flaveria,,"bidentis",var.,"bidentis","",Synonym,,L,TICA,59232403-3028-4CCD-BBFF-8C15F1B0DEF8,,"","","","",gcc-136971
+gcc-46364,A,Compositae,,Flaveria,,"bonariensis",,"","DC.",Synonym,,M,TICA,39482D67-F461-4E2F-B468-55EDE915A6F9,207996-1,"","","635","1836",gcc-136971
+gcc-85544,A,Compositae,,Flaveria,,"brownii",,"","A.M.Powell",Accepted,,M,TICA,E0670D87-470D-4CB9-869C-78E95C67D32D,,"Ann. Missouri Bot. Gard. 65","","611","",
+gcc-81010,A,Compositae,,Flaveria,,"campestris",,"","I.M.Johnst.",Accepted,,M,TICA,E9E45946-AAA7-4116-A4B3-6EE16DC9FB6A,,"Proc. Amer. Acad. Arts 39","","287","1903",
+gcc-119349,A,Compositae,,Flaveria,,"capitata",,"","Juss.",Synonym,,M,TICA,A1A0F900-8932-46B7-B954-C4F71E74D15C,,"","","","",gcc-136971
+gcc-1291,A,Compositae,,Flaveria,,"capitata",,"","Juss. ex Smith",Unresolved,,L,TICA,212CA475-304A-46BE-81F1-0259FAE31C1E,,"""The Cyclopaedia; or, universial dictionary of arts, . . . 14:""","","Flaveria no. 1","1810",
+gcc-129300,A,Compositae,,Flaveria,,"capitata",,"","Juss. ex Sm.",Synonym,,M,TICA,264C39F3-252F-4B91-8AD7-DBF682E73A2B,,"","","","1810",gcc-136971
+gcc-155783,A,Compositae,,Flaveria,,"chilensis",,"","Gmel.",Unresolved,,L,TICA,DC98B554-839A-4C02-BCBA-DFD6FF30CEAE,,"","","","",
+gcc-4935,A,Compositae,,Flaveria,,"chilensis",,"","Juss.",Synonym,,M,TICA,9B3F8649-E575-4814-9E06-0935F6D51E8F,,"","","","",gcc-136971
+gcc-6761,A,Compositae,,Flaveria,,"chilensis",,"","(Molina) J.F.Gmel.",Synonym,,M,TICA,9DAC22FD-EEFA-49F3-8AF6-0C8B976C9B66,208000-1,"","","1269","1792",gcc-136971
+gcc-89560,A,Compositae,,Flaveria,,"chlorifolia",,"","A.Gray",Accepted,,M,TICA,C51A7373-980F-4911-B409-81F94481BB16,208001-1,"","","88","1849",
+gcc-144590,A,Compositae,,Flaveria,,"contrayerba",,"","(Cav.) Pers.",Synonym,,M,TICA,7F50CE8C-D11A-4AAC-A782-FE79D293DE35,208002-1,"","","489","1807",gcc-136971
+gcc-80889,A,Compositae,,Flaveria,,"contrayerba",,"","Sch.Bip.",Unresolved,,L,TICA,3C45F1ED-C7CF-46D9-9DB7-6E97F1EC03E4,1109580-2,"","","","",
+gcc-152658,A,Compositae,,Flaveria,,"contrayerba",var.,"contrayerba","",Synonym,,L,TICA,2918B848-48D9-4AC9-8384-9E2F9087563D,,"","","","",gcc-136971
+gcc-121039,A,Compositae,,Flaveria,,"cronquistii",,"","A.M.Powell",Accepted,,M,TICA,55FF7AF1-40C8-4D82-B125-C8E70F7F0020,,"Ann. Missouri Bot. Gard. 65","","621","",
+gcc-88947,A,Compositae,,Flaveria,,"elata",,"","Klatt",Synonym,,M,TICA,9C784A0F-6D3D-43F2-A56A-8091321C3112,297886-2,"Leopoldina 23","","146","1887",gcc-30266
+gcc-3159,A,Compositae,,Flaveria,,"floridana",,"","J.R.Johnst.",Accepted,,M,TICA,A6E9A0FC-DEC7-4DCA-A559-05D709267EB0,105047-2,"Proc. Amer. Acad. Arts 39","","291","1903",
+gcc-122273,A,Compositae,,Flaveria,,"haumanii",,"","Dimitri & Orfila",Accepted,,M,TICA,0018316B-5424-4ABC-B149-CBA82351EBCC,,"Tratado de Morf. y Sist. Vegetal Apénd.: 466 (1985)","","466","1985",
+gcc-92381,A,Compositae,,Flaveria,,"humillima",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,394CB8F1-5126-4A1B-BBC7-8876FC00B4D9,,"""Linnaea 34: 529, nomen. 1866""","","","",
+gcc-106762,A,Compositae,,Flaveria,,"integrifolia",,"","Moc. & Sessé ex DC.",Synonym,,M,TICA,8FE76F89-F038-4F0F-B7F9-A88958BE61B9,208007-1,"","","685","1836",gcc-81010
+gcc-15821,A,Compositae,,Flaveria,,"integrifolia",,"","Moc. & Sessé",Synonym,Illegitimate,M,TICA,44A65FAD-08E1-4124-AA6E-1D4BF0B478C0,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","635","1836",gcc-30266
+gcc-134417,A,Compositae,,Flaveria,,"intermedia",,"","J.R.Johnst.",Synonym,,M,TICA,28F59048-BED2-43D8-8B0D-E7C50E82D0F2,105048-2,"","","288","1903",gcc-51482
+gcc-32082,A,Compositae,,Flaveria,,"intermedia",,"","I.M.Johnst.",Accepted,,M,TICA,82221612-34E1-4A0D-A8CF-3B69AB379732,,"Proc. Amer. Acad. Arts 39: 288 (1903)","","288","1903",
+gcc-79229,A,Compositae,,Flaveria,,"kochiana",,"","B.L.Turner",Accepted,,M,TICA,6BFD9CB3-7718-4AB0-ABC9-6AF7DC9FFB3B,300620-2,"Phytologia 78","","400","1995",
+gcc-107676,A,Compositae,,Flaveria,,"latifolia",,"","(J.R.Johnst.) Rydb.",Synonym,,M,TICA,FBF5B518-3FF8-432B-A1B0-AA9C616458DE,105049-2,"N. Amer. Fl. 34","","145","1915",gcc-131045
+gcc-96522,A,Compositae,,Flaveria,×,"latifolia",,"","(J.R.Johnst.) R.W.Long & Rhamstine",Synonym,,M,TICA,BA0BC9AA-E00E-4587-93A0-91C9B7946F1A,288216-2,"","","249","1968",gcc-131045
+gcc-131045,A,Compositae,,Flaveria,,"linearis",,"","Lag.",Accepted,,M,TICA,51370DCA-3DDD-4CF4-AFBC-DFF2A51256A7,,"Gen. Sp. Pl. 33. 1816.","","","1816",
+gcc-59334,A,Compositae,,Flaveria,,"linearis",var.,"linearis","",Synonym,,L,TICA,5CB81039-CD4D-48CD-9D0C-95A9E4D836BD,,"","","","",gcc-131045
+gcc-123632,A,Compositae,,Flaveria,,"longifolia",,"","A.Gray",Synonym,,M,TICA,D669BC86-BCA1-4396-ACB1-CEC8DADBBBB5,208012-1,"","","88","1849",gcc-119408
+gcc-154918,A,Compositae,,Flaveria,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,6B645690-DF37-497E-B77B-CD6DC294540D,,"","","","",gcc-119408
+gcc-59455,A,Compositae,,Flaveria,,"longifolia",var.,"subtomentosa","Greenm. & C.H.Thomps.",Synonym,,L,TICA,414839ED-8BE9-43D4-B2D3-967F0EF59CA4,105050-2,"Ann. Missouri Bot. Gard. 1","","413","1915",gcc-28504
+gcc-82331,A,Compositae,,Flaveria,,"maritima",,"","Kunth",Accepted,,M,TICA,A0E6E0DA-A137-43D4-80D6-71C89A36AD39,,"","","224","",
+gcc-116896,A,Compositae,,Flaveria,,"mcdougallii",,"","""Theroux, Pinkava & D.J.Keil""",Accepted,,M,TICA,03707E15-9B88-4608-AE36-BF76AB09F792,208014-1,"Madroño 24","","13","1977",
+gcc-119408,A,Compositae,,Flaveria,,"oppositifolia",,"","(DC.) Rydb.",Accepted,,M,TICA,F995CE1A-6F93-46E9-A3B9-C51FC4699FBE,105052-2,"N. Amer. Fl. 34","","146","1915",
+gcc-51482,A,Compositae,,Flaveria,,"palmeri",,"","J.R.Johnst.",Accepted,,M,TICA,9786E344-C166-4DF3-9D37-5F7C9AD7121C,105053-2,"Proc. Amer. Acad. Arts 39: 290 (1903)","","290","1903",
+gcc-129684,A,Compositae,,Flaveria,,"perfoliata",,"","Sch.Bip.",Unresolved,,L,TICA,22E69F53-E4F1-4A1A-99E2-DCD7C735F83B,105054-2,"Leopoldina 23: 146. 1887","","146","1887",
+gcc-78415,A,Compositae,,Flaveria,,"perfoliata",,"","(Benth.) Sch.Bip. ex Klatt",Synonym,,M,TICA,A3D46BF2-E81A-4F41-9876-6918D44D7C8D,307850-2,"Leopoldina 23","","146","1887",gcc-49192
+gcc-122389,A,Compositae,,Flaveria,,"peruviana",,"","J.F.Gmel.",Synonym,,M,TICA,A0076F7F-3C9F-453B-AD9C-CBE4D2667140,,"""Syst. Nat., ed. 13[bis]. 2(2)""","","","1792",gcc-142410
+gcc-148359,A,Compositae,,Flaveria,,"peruviana",,"","(Juss.) J.F.Gmelin",Synonym,,M,TICA,BA444B6F-6EA5-47B3-B8F3-40EF249A34AF,,"""Syst. Nat. ed. 10, 2: 1269. 1791.""","","1269","1791",gcc-142410
+gcc-19389,A,Compositae,,Flaveria,,"peruviana",,"","Juss.",Synonym,,M,TICA,F184A721-D568-403D-93F7-23D7AF0939E6,208018-1,"","","187","1789",gcc-142410
+gcc-120232,A,Compositae,,Flaveria,,"pinetorum",,"","S.F.Blake",Synonym,,M,TICA,399F26BF-CE34-484B-8AF1-C7044BFA4553,105056-2,"Bull. Torrey Bot. Club 50","","204","1923",gcc-3159
+gcc-134850,A,Compositae,,Flaveria,,"pringlei",,"","Gand.",Accepted,,M,TICA,F4D6BD81-AC19-4532-B4F9-E8AC7BBE4CBD,105057-2,"Bull. Soc. Bot. France 65","","42","1918",
+gcc-28504,A,Compositae,,Flaveria,,"pubescens",,"","Rydb.",Accepted,,M,TICA,56DE72E3-5543-4419-94AB-34B48095218B,105058-2,"N. Amer. Fl. 34","","145","1915",
+gcc-46816,A,Compositae,,Flaveria,,"pubescens",var.,"pubescens","",Synonym,,L,TICA,475F89DA-7A40-4B14-8035-56BDD41F6DA4,,"","","","1915",gcc-28504
+gcc-102948,A,Compositae,,Flaveria,,"radicans",,"","Moc. & Sessé ex DC.",Synonym,,M,TICA,01BC5DDB-E6A7-4D80-B0F4-A03CED12BB1E,208023-1,"","","635","1836",gcc-81010
+gcc-21372,A,Compositae,,Flaveria,,"radicans",,"","Moc. & Sessé",Synonym,Illegitimate,M,TICA,E799D224-B720-42BD-B64C-277D496EC602,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","635","1836",gcc-30266
+gcc-27134,A,Compositae,,Flaveria,,"ramosissima",,"","Klatt",Accepted,,M,TICA,DB63540C-3892-491F-97C0-322D2DD80F1D,208024-1,"","","146","1887",
+gcc-25234,A,Compositae,,Flaveria,,"repanda",,"","Lag.",Synonym,,M,TICA,8F961EBA-B8DD-48EE-ACF8-2E97801735D4,326932-2,"","","33","1816",gcc-155458
+gcc-41014,A,Compositae,,Flaveria,,"robusta",,"","Rose",Accepted,,M,TICA,ECC5EE57-CE4B-4E02-8913-4C052B1C8288,105059-2,"Contr. U. S. Natl. Herb. 1","","337","1895",
+gcc-96364,A,Compositae,,Flaveria,,"sonorensis",,"","A.M.Powell",Accepted,,M,TICA,47EE8FF4-348A-4F58-B8DC-9160E77C83EF,,"Ann. Missouri Bot. Gard. 65","","618","",
+gcc-47608,A,Compositae,,Flaveria,,"spicata",,"","Sm.",Synonym,,M,TICA,46682023-CC09-40DD-99C1-583580747AA1,,"","","","1810",gcc-142410
+gcc-108816,A,Compositae,,Flaveria,,"tenuifolia",,"","Nutt.",Synonym,,M,TICA,5C8208B6-0FFD-41A6-88D3-AD375FDB8BC5,208029-1,"","","81","1834",gcc-131045
+gcc-115554,A,Compositae,,Flaveria,,"trinervata",,"","(Willd.) Baill.",Synonym,,M,TICA,43C87562-F6EA-429B-803F-BC709AE1A3FD,326933-2,"Hist. Pl. (Baillon) 8","","55","1882",gcc-155458
+gcc-155458,A,Compositae,,Flaveria,,"trinervia",,"","(Spreng.) C.Mohr",Accepted,,M,TICA,26DA2514-F3AE-486E-8B8F-D8B2E30118DC,105061-2,"Contr. U. S. Natl. Herb. 6","","810","1901",
+gcc-105005,A,Compositae,,Flaveria,,"vaginata",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,8748F9D5-5663-49B8-8C68-A4B82579C752,105062-2,"Proc. Amer. Acad. Arts 32","","48","1896",

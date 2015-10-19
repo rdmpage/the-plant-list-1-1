@@ -1,0 +1,106 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-43158,A,Compositae,,Hymenoxys,,"acaulis",,"","(Pursh) K.F.Parker",Synonym,,L,TICA,885AB4E4-565B-43A9-9332-4FF5EBF3B22A,125964-2,"","","159","1950",gcc-91217
+gcc-65041,A,Compositae,,Hymenoxys,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,2CE27130-D537-4E8C-975A-C35221807B7D,,"","","","1950",gcc-91217
+gcc-46097,A,Compositae,,Hymenoxys,,"acaulis",var.,"arizonica","(Greene) K.F.Parker",Synonym,,L,TICA,9C0C2C02-0C9C-46CC-A88D-55736257B74A,125965-2,"Madroño 10: 159. 1950","","159","1950",gcc-54702
+gcc-69529,A,Compositae,,Hymenoxys,,"acaulis",var.,"caespitosa","(A.Nelson) K.F.Parker",Synonym,,L,TICA,FE3F28BF-8D34-4ECF-A684-E71B07A17CB7,125966-2,"Madroño 10: 159. 1950","","159","1950",gcc-57831
+gcc-55692,A,Compositae,,Hymenoxys,,"acaulis",var.,"epunctata","(A.Nelson) Cronquist",Synonym,,L,TICA,8689438F-52C6-404A-9E41-7810C7FF37EE,979374-1,"","","80","1994",gcc-34336
+gcc-63216,A,Compositae,,Hymenoxys,,"acaulis",var.,"glabra","(A.Gray) K.F.Parker",Synonym,,L,TICA,B5539EC6-58F0-45A8-8ACE-B5122A1FF40A,125967-2,"Madroño 10: 159. 1950","","159","1950",gcc-2105
+gcc-57390,A,Compositae,,Hymenoxys,,"acaulis",var.,"ivesiana","(Greene) K.F.Parker",Synonym,,L,TICA,64BEAB2F-321E-4120-9C9A-85FCCAD2A2CA,125968-2,"Madroño 10: 159. 1950","","159","1950",gcc-130422
+gcc-24547,A,Compositae,,Hymenoxys,,"acaulis",var.,"lanata","(Greene) Cronquist",Synonym,,L,TICA,999ABFA7-C520-44A1-8B95-2D56F18D37BD,,"","","","",gcc-57831
+gcc-60329,A,Compositae,,Hymenoxys,,"acaulis",var.,"nana","S.L.Welsh",Synonym,,L,TICA,20DCB46C-07BC-4623-A98A-9D841F676EEC,300162-2,"Rhodora 95","","398","1993",gcc-54702
+gcc-128022,A,Compositae,,Hymenoxys,,"ambigens",,"","(S.F.Blake) Bierner",Accepted,,M,TICA,85A3CCD9-D700-4385-9449-D90991BE5408,979221-1,"","","6","1994",
+gcc-69116,A,Compositae,,Hymenoxys,,"ambigens",var.,"ambigens","",Synonym,,L,TICA,E9423871-214B-4FCB-81CB-E3FECCD02DBE,,"","","","1999",gcc-128022
+gcc-7924,A,Compositae,,Hymenoxys,,"ambigens",var.,"floribunda","(A.Gray) W.L.Wagner",Accepted,,L,TICA,BE77263E-0269-4177-BFC6-0EC02550496B,1007296-1,"","","84","1999",
+gcc-43699,A,Compositae,,Hymenoxys,,"anthemoides",,"","(Juss.) Cass. ex DC.",Accepted,,L,TICA,65ED172D-92AD-47CB-8878-50F966B2B029,1000211-2,"Prodr. (DC.) 5: 661","","661","1836",
+gcc-98197,A,Compositae,,Hymenoxys,,"anthemoides",,"","(Juss.) Cass.",Synonym,Invalid,L,TICA,59D22C54-725B-496A-897E-958FC802CD1D,225286-1,"in Dict. Sci. Nat. lv. 278 (1828).","","278","1828",gcc-43699
+gcc-106236,A,Compositae,,Hymenoxys,,"argentea",,"","(A.Gray) K.F.Parker",Synonym,,M,TICA,DC8F2BF3-0260-4D46-B57F-A7516D266A9A,125969-2,"","","159","1950",gcc-144225
+gcc-147263,A,Compositae,,Hymenoxys,,"argentea",var.,"argentea","",Synonym,,L,TICA,BE8AEE04-E47D-46FE-AF76-29DDACC474EF,,"","","","",gcc-144225
+gcc-47542,A,Compositae,,Hymenoxys,,"argentea",var.,"ivesiana","(Greene) Cronquist",Synonym,,L,TICA,80F6436F-5F60-4756-BA67-581670F79B29,979373-1,"","","79","1994",gcc-130422
+gcc-134622,A,Compositae,,Hymenoxys,,"arizonica",,"","(Pursh) K.F.Parker",Unresolved,,L,TICA,45AA39F3-F856-4BDE-A0E3-E82E67B7D1D8,,"","","","",
+gcc-79750,A,Compositae,,Hymenoxys,,"biennis",,"","(A.Gray) H.M.Hall",Accepted,,L,TICA,93FB965D-9271-4CC4-912A-6C1A56682DC3,125970-2,"","","204","1907",
+gcc-80473,A,Compositae,,Hymenoxys,,"bigelovii",,"","(A.Gray) K.F.Parker",Accepted,,M,TICA,15B0819B-4527-4387-BFF1-6DAA9729C9A2,125971-2,"","","159","1950",
+gcc-106197,A,Compositae,,Hymenoxys,,"brachyactis",,"","Wooton & Standl.",Accepted,,M,TICA,F0135F1E-E8A2-49B5-A622-A738494E24F0,125972-2,"","","192","1913",
+gcc-39104,A,Compositae,,Hymenoxys,,"brandegeei",,"","(Porter ex A.Gray) Porter ex K.F.Parker",Accepted,,M,TICA,D3749EB8-A9C3-481C-83D3-488EF984A252,125973-2,"","","159","1950",
+gcc-128192,A,Compositae,,Hymenoxys,,"cabrerae",,"","K.L. Parker",Accepted,,M,TICA,FBA6F983-5D43-4907-9B54-D970B3565156,125974-2,"Leafl. W. Bot. 9(13-14): 206 (1962)","","206","1962",
+gcc-99295,A,Compositae,,Hymenoxys,,"californica",,"","Hook.",Accepted,,M,TICA,9FCBE470-237A-44B5-B51D-980DFBA0C805,,"Bot. Mag. 67: t. 3828","","","1840",
+gcc-148708,A,Compositae,,Hymenoxys,,"californica",var.,"californica","",Synonym,,L,TICA,CD579CE7-E5CC-4469-A2C4-48DE41361CCE,,"","","","",gcc-99295
+gcc-33700,A,Compositae,,Hymenoxys,,"calva",,"","Torr. & A.Gray",Unresolved,,L,TICA,BCA443FB-5C79-4902-88D0-3E768EBB1091,225294-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 381","","381","1842",
+gcc-88449,A,Compositae,,Hymenoxys,,"canescens",,"","Cockerell",Synonym,,L,TICA,FC18578F-CD19-4183-A7C4-7F71DE89E844,125977-2,"","","484","1904",gcc-98195
+gcc-146739,A,Compositae,,Hymenoxys,,"canescens",subsp.,"canescens","",Synonym,,L,TICA,ED60330A-5C1B-4A2B-8B80-1EFAA624072A,,"","","","",gcc-98195
+gcc-154915,A,Compositae,,Hymenoxys,,"canescens",var.,"canescens","",Synonym,,L,TICA,1D18BB81-C5EE-4ABB-B478-CD52BC7156F3,,"","","","",gcc-98195
+gcc-15119,A,Compositae,,Hymenoxys,,"chrysanthemoides",,"","(Kunth) DC.",Accepted,,M,TICA,309F921C-4003-4F4A-997C-1C0083810BBE,225296-1,"Prodr. (DC.) 5: 661","","661","1836",
+gcc-147574,A,Compositae,,Hymenoxys,,"chrysanthemoides",var.,"chrysanthemoides","",Synonym,,L,TICA,FC25FB64-94EC-4260-A177-305A27396474,,"","","","",gcc-15119
+gcc-155670,A,Compositae,,Hymenoxys,,"chrysanthemoides",subsp.,"chrysanthemoides","",Synonym,,L,TICA,ADAA4634-18D7-4F31-BEEF-DCFDB1B0701C,,"","","","",gcc-15119
+gcc-55138,A,Compositae,,Hymenoxys,,"chrysanthemoides",var.,"excurrens","Cockerell",Unresolved,,L,TICA,18832672-A366-4E39-9DC1-73A6771A1D0B,,"""Bull. Torrey Bot. Club 31: 501, pl. 22, fig. 3. 1904""","","","1904",gcc-94208
+gcc-65399,A,Compositae,,Hymenoxys,,"chrysanthemoides",subsp.,"mearnsii","Cockerell",Unresolved,,L,TICA,9C1748D3-6719-4C1F-8475-C67331B99BF3,,"""Bull. Torrey Bot. Club 31: 506, pl. 23, fig. 2. 1904""","","","1904",gcc-114333
+gcc-29257,A,Compositae,,Hymenoxys,,"cockerellii",,"","Wooton & Standl.",Unresolved,,L,TICA,D495552F-DEFF-4978-92D5-36134F32C295,125986-2,"","","192","1913",
+gcc-98195,A,Compositae,,Hymenoxys,,"cooperi",,"","(A.Gray) Cockerell",Accepted,,L,TICA,93379746-BFEE-47EB-A57C-958E6D9FE600,125987-2,"","","494","1904",
+gcc-54986,A,Compositae,,Hymenoxys,,"cooperi",var.,"canescens","(D.C.Eaton ex D.C.Eaton) K.F.Parker",Synonym,,L,TICA,7142B76C-4F50-49DE-9627-7267D689A422,125988-2,"Madroño 10: 159","","159","1950",gcc-98195
+gcc-147110,A,Compositae,,Hymenoxys,,"cooperi",subsp.,"cooperi","",Synonym,,L,TICA,BA36FE6F-9820-4C29-9097-26B64810B0F2,,"","","","",gcc-98195
+gcc-62026,A,Compositae,,Hymenoxys,,"cooperi",var.,"cooperi","",Synonym,,L,TICA,6621CAFD-2D99-4C2F-83CD-AB7A0B218919,,"","","","",gcc-98195
+gcc-4743,A,Compositae,,Hymenoxys,,"davidsonii",,"","(Greene) Cockerell",Unresolved,,L,TICA,8FAE6E61-A10B-4511-9CED-08D3812653A7,125991-2,"","","508","1904",
+gcc-82353,A,Compositae,,Hymenoxys,,"depressa",,"","(Torr. & Gray ex Gray) S.L.Welsh & N.D.Atwood",Unresolved,,L,TICA,C6A56D5C-831D-40DF-810E-71D5C4DDAE4E,225300-1,"""in Great Basin Nat., 35(4): 336 (1975).""","","336","1975",
+gcc-90436,A,Compositae,,Hymenoxys,,"depressa",,"","(Torr. & A.Gray ex A.Gray) S.L.Welsh & Reveal",Synonym,,M,TICA,DEEAD6F2-15CA-45DA-A9AC-83FE2EBAF765,,"Great Basin Naturalist 35(4): 336. 1976 [dt. '31 Dec 1975'; publ. 22 Mar 1976]","","336","",gcc-37756
+gcc-106257,A,Compositae,,Hymenoxys,,"earlei",,"","(Cockerell) Cockerell",Unresolved,,L,TICA,90A56F31-507D-4B86-94D2-A75D30C1496A,,"","","492","1904",
+gcc-94208,A,Compositae,,Hymenoxys,,"excurrens",,"","(Cockerell) Rydb.",Unresolved,,L,TICA,447E0DE4-19DC-4280-BE6C-8C764615ED8F,125994-2,"N. Amer. Fl. 34","","117","1915",
+gcc-28948,A,Compositae,,Hymenoxys,,"floribunda",,"","(A.Gray) Cockerell",Synonym,,M,TICA,3C329E87-B478-44B9-9D67-358746BF7758,125995-2,"","","485","1904",gcc-65948
+gcc-150844,A,Compositae,,Hymenoxys,,"floribunda",subsp.,"floribunda","",Synonym,,L,TICA,678340D1-52BE-4CD0-981F-77785F22B53B,,"","","","",gcc-65948
+gcc-19166,A,Compositae,,Hymenoxys,,"floribunda",var.,"floribunda","",Synonym,,L,TICA,45ADECB8-BE8C-49FC-8A4E-236A8AAC24FF,,"","","","",gcc-65948
+gcc-117804,A,Compositae,,Hymenoxys,,"glabra",,"","(Nutt.) Shinners",Synonym,,L,TICA,4D01B4A3-A400-4B2A-977F-C17C124DA7AE,125999-2,"","","80","1951",gcc-109488
+gcc-107445,A,Compositae,,Hymenoxys,,"grandiflora",,"","(Torr. & A.Gray ex Torr. & A.Gray) K.F.Parker",Accepted,,L,TICA,E09B4787-3E2B-4705-9C90-AA142DD6545B,126000-2,"","","159","1950",
+gcc-91133,A,Compositae,,Hymenoxys,,"greenei",,"","(Cockerell) Rydb.",Unresolved,,L,TICA,C1F8990C-6177-4171-8342-85A25BFA3768,126001-2,"","","448","1910",
+gcc-93041,A,Compositae,,Hymenoxys,,"haenkeana",,"","DC.",Synonym,,L,TICA,C335C9DA-EE7F-4CEB-90F4-89EAAE6C0346,225307-1,"Prodr. (DC.) 5: 661","","661","1836",gcc-43699
+gcc-8226,A,Compositae,,Hymenoxys,,"helenioides",,"","(Rydb.) Cockerell",Accepted,,M,TICA,E1A9AE2A-EC73-439F-8110-0F4C94A850AB,126003-2,"","","481","1904",
+gcc-29000,A,Compositae,,Hymenoxys,,"herbacea",,"","(Greene) Cusick",Synonym,,L,TICA,46B5DA98-EE60-4848-8029-3598E972DF06,,"Rhodora 93(875): 238 (2 Aug. 1991):","","238","1991",gcc-2105
+gcc-40719,A,Compositae,,Hymenoxys,,"herbacea",,"","(Greene) Cronquist",Synonym,,L,TICA,63527570-A168-467D-8CC8-4B7661B870DB,1075145-2,"","","864","1991",gcc-2105
+gcc-28424,A,Compositae,,Hymenoxys,,"hoopesii",,"","(A.Gray) Bierner",Accepted,,L,TICA,C25F0B60-1497-48B7-AE06-34830AC5C5F3,979217-1,"","","6","1994",
+gcc-139022,A,Compositae,,Hymenoxys,,"insignis",,"","(A.Gray ex S.Watson) Cockerell",Accepted,,M,TICA,45888E77-978C-4D89-943B-F1D5D8E56CAE,126004-2,"","","170","1904",
+gcc-76140,A,Compositae,,Hymenoxys,,"integrifolia",,"","(Kunth) Bierner",Synonym,,L,TICA,87F994F0-6B7E-4BED-AA07-63FED7F2AD39,979216-1,"Sida 16(1): 5","","5","1994",gcc-97302
+gcc-93810,A,Compositae,,Hymenoxys,,"integrifolia",,"","Kunth",Unresolved,,L,TICA,7E05DDDF-9B38-4CE0-9FEE-8B832A631871,,"Sida 16: 5. 1994","","5","1994",
+gcc-115733,A,Compositae,,Hymenoxys,,"ivesiana",,"","(Greene) K.F.Parker",Synonym,,M,TICA,3A487044-ECBF-4AF5-8E6F-BCDC85FD04F4,1112310-2,"","","92","1960",gcc-130422
+gcc-132610,A,Compositae,,Hymenoxys,,"jamesii",,"","Bierner",Accepted,,M,TICA,092B2FDD-83E2-4D66-9418-E3A1DF5DC7E2,302452-2,"","","43","1993",
+gcc-36696,A,Compositae,,Hymenoxys,,"lapidicola",,"","S.L.Welsh & Neese",Synonym,,M,TICA,5C1ED5DE-56E9-4CEA-BE47-44098414A9DD,126005-2,"","","373","1983",gcc-37756
+gcc-43095,A,Compositae,,Hymenoxys,,"latissima",,"","Cockerell",Unresolved,,L,TICA,C0257433-DFCF-436B-B646-4FD4A7F05A80,,"","","","1904",
+gcc-133970,A,Compositae,,Hymenoxys,,"lemmonii",,"","(Greene) Cockerell",Accepted,,M,TICA,F4473D6C-2545-41C9-8FB4-E6BF58C5174C,126007-2,"","","477","1904",
+gcc-60997,A,Compositae,,Hymenoxys,,"lemmonii",subsp.,"greenei","Cockerell",Unresolved,,L,TICA,F648EEF2-C328-4A0D-A40F-A2FC262EE6AE,126008-2,"Bulletin of the Torrey Botanical Club 31(9):","","479-480","1904",gcc-91133
+gcc-147353,A,Compositae,,Hymenoxys,,"lemmonii",subsp.,"lemmonii","",Synonym,,L,TICA,002E2F25-C243-4325-AC4A-2BCA38A0A4ED,,"","","","",gcc-133970
+gcc-44415,A,Compositae,,Hymenoxys,,"liguliflora",,"","(A.Nelson) Cockerell",Unresolved,,L,TICA,D6F25A12-4922-4D76-809C-524AC274A60A,126009-2,"Bull. Amer. Mus. Nat. Hist. 22: 422. 1906","","422","1906",
+gcc-23851,A,Compositae,,Hymenoxys,,"linearifolia",,"","Hook.",Synonym,,L,TICA,CB9539E1-02CE-40FB-B99F-2C15A2124066,,"Ic. Pl. t. 146.","","","1837",gcc-50298
+gcc-17601,A,Compositae,,Hymenoxys,,"macounii",,"","(Cockerell) Rydb.",Unresolved,,L,TICA,0E1815C8-AACB-492A-9693-208140E81B6D,126011-2,"","","447","1910",
+gcc-81483,A,Compositae,,Hymenoxys,,"macrantha",,"","(A.Nelson) Rydb.",Unresolved,,L,TICA,B28F00E6-719F-4F54-8AAE-6FED802AD882,126012-2,"","","156","1906",
+gcc-114333,A,Compositae,,Hymenoxys,,"mearnsii",,"","(Cockerell) Wooton & Standl.",Unresolved,,L,TICA,FE542E3F-1DAC-4F5C-864C-B9992A5D8B42,126013-2,"","","192","1913",
+gcc-111114,A,Compositae,,Hymenoxys,,"metcalfei",,"","Cockerell",Unresolved,,L,TICA,1750DB5F-29E3-48C6-8439-B2652406E258,,"","","","1904",
+gcc-77035,A,Compositae,,Hymenoxys,,"microcephala",,"","(A.Gray) Bierner",Synonym,,M,TICA,C0162902-FEC1-4B9F-8DA5-65F2CA56C201,979220-1,"","","6","1994",gcc-7924
+gcc-38631,A,Compositae,,Hymenoxys,,"multiflora",,"","(Buckley) Rydb.",Unresolved,,L,TICA,09FD405A-37A9-4C37-AD6F-47B0DECF41E0,126015-2,"","","157","1906",
+gcc-62544,A,Compositae,,Hymenoxys,,"multiflora",var.,"multiflora","",Synonym,,L,TICA,89766334-EC51-4EC1-8A07-AFAF653CC733,,"","","","1906",gcc-38631
+gcc-140402,A,Compositae,,Hymenoxys,,"mutica",,"","(Nutt.) Torr. & A.Gray",Accepted,,L,TICA,9AF62ACF-6110-43B3-85DE-F4F02583C0BA,225319-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 381","","381","1842",
+gcc-3762,A,Compositae,,Hymenoxys,,"odorata",,"","DC.",Accepted,,M,TICA,66844585-C222-4EDF-AE41-0700B703C084,,"in Deless. Ic. Sel. iv. t. 42.","","","1836",
+gcc-37642,A,Compositae,,Hymenoxys,,"olivacea",,"","Cockerell",Synonym,,M,TICA,96DAB634-112F-4F81-9FB1-45C8F186D91E,,"","","","1904",gcc-65948
+gcc-95569,A,Compositae,,Hymenoxys,,"parodii",,"","I.M.Johnst.",Synonym,,L,TICA,F1E0F171-4AA4-4C5C-94A9-8FA441FDEC20,126019-2,"Contr. Gray Herb. 81","","98","1928",gcc-43699
+gcc-112482,A,Compositae,,Hymenoxys,,"pinetorum",,"","(Standl.) Bierner",Unresolved,,L,TICA,F94D11FE-534E-4260-A74B-B58B6300445B,979218-1,"","","6","1994",gcc-108933
+gcc-139691,A,Compositae,,Hymenoxys,,"pumila",,"","(Greene) Rydb.",Unresolved,,L,TICA,784F2731-5FF7-47D2-8B68-F34C49B07458,126020-2,"","","156","1906",
+gcc-94678,A,Compositae,,Hymenoxys,,"pumila",,"","Lunell",Unresolved,,L,TICA,C30A7ECA-1958-4F4A-A851-8D92277F618D,,"""Amer. Midl. Naturalist 1917, v. 65""","","65","",
+gcc-95295,A,Compositae,,Hymenoxys,,"quinquesquamata",,"","Rydb.",Accepted,,M,TICA,ED9B5875-73EC-407C-B7C2-8EFBA6CF4347,126021-2,"N. Amer. Fl. 34","","114","1915",
+gcc-98281,A,Compositae,,Hymenoxys,,"richardsonii",,"","(Hook.) Cockerell",Accepted,,M,TICA,111784E7-D784-41C6-835A-95BD791611E2,126022-2,"","","468","1904",
+gcc-65948,A,Compositae,,Hymenoxys,,"richardsonii",var.,"floribunda","(A.Gray) K.F.Parker",Accepted,,L,TICA,06206C24-0826-461E-BFE2-CAE68EBBFE32,126023-2,"Madroño 10: 159. 1950","","159","1950",
+gcc-22393,A,Compositae,,Hymenoxys,,"richardsonii",var.,"macounii","Cockerell",Unresolved,,L,TICA,F6CFEBB7-FDBA-4A6E-9B63-297048DBB58F,126025-2,"Bull. Torrey Bot. Club 31: 474. 1904","","474","1904",gcc-17601
+gcc-14034,A,Compositae,,Hymenoxys,,"richardsonii",var.,"richardsonii","",Synonym,,L,TICA,F85F3CCA-E9E7-4984-AED7-1A08F6C4AC5D,,"","","","",gcc-98281
+gcc-147007,A,Compositae,,Hymenoxys,,"richardsonii",subsp.,"richardsonii","",Synonym,,L,TICA,42B07AFE-4C68-43E7-8F34-24C54CD65D8D,,"","","","",gcc-98281
+gcc-54980,A,Compositae,,Hymenoxys,,"richardsonii",var.,"utahensis","Cockerell",Synonym,,L,TICA,122A09AF-BAC7-41A1-B32D-7259D3414E31,126029-2,"Bull. Torrey Bot. Club 31: 477. 1904","","477","1904",gcc-65948
+gcc-87410,A,Compositae,,Hymenoxys,,"robusta",,"","(Rusby) K.F.Parker",Accepted,,M,TICA,64427CA5-C6BC-4E68-8B9E-7D3918744364,126030-2,"","","207","1962",
+gcc-110463,A,Compositae,,Hymenoxys,,"rusbyi",,"","(A.Gray) Cockerell",Accepted,,L,TICA,61D5D939-876C-42D7-9B4C-B0F0EEBF8582,126031-2,"","","496","1904",
+gcc-143663,A,Compositae,,Hymenoxys,,"scaposa",,"","(DC.) K.F.Parker",Synonym,,L,TICA,02996586-8919-482F-9FA2-FC647DE57C36,126032-2,"","","159","1950",gcc-109488
+gcc-2850,A,Compositae,,Hymenoxys,,"scaposa",var.,"argyrocaulon","K.F.Parker",Synonym,,L,TICA,45D885A1-D7B4-4BD9-BA75-05429F308C54,126033-2,"Phytologia 20: 192. 1970","","192","1970",gcc-60547
+gcc-67216,A,Compositae,,Hymenoxys,,"scaposa",var.,"glabra","(Nutt.) K.F.Parker",Synonym,,L,TICA,EA97A14D-E10B-4D33-A352-D54C7A84ACE2,,"","","","",gcc-109488
+gcc-59796,A,Compositae,,Hymenoxys,,"scaposa",var.,"linearis","(Nutt.) K.F.Parker",Synonym,,L,TICA,5E6F705A-FB59-45A5-BE5F-995B6C9D7B32,126034-2,"Madroño 10: 159. 1950","","159","1950",gcc-109488
+gcc-26062,A,Compositae,,Hymenoxys,,"scaposa",var.,"villosa","Shinners",Synonym,,L,TICA,70736054-5AD3-4A49-B957-3031F300DFE1,,"Field & Lab. 19: 79. 1951","","","1951",gcc-109488
+gcc-132535,A,Compositae,,Hymenoxys,,"schaffneri",,"","Sch.Bip.",Unresolved,,L,TICA,551DD57A-C4C1-4861-BF76-E37D669AA92C,126036-2,"Leopoldina 23: 146. 1887","","146","1887",
+gcc-2361,A,Compositae,,Hymenoxys,,"schaffneri",,"","Sch.Bip. ex Klatt",Unresolved,,L,TICA,BB6B3602-8F08-4F78-AA8D-044B96FA550F,225330-1,"""in Leopoldina, Heft xxiii. (1887) 146.""","","xxiii.  146.","1887",
+gcc-119070,A,Compositae,,Hymenoxys,,"subintegra",,"","Cockerell",Accepted,,M,TICA,10CDB03F-80A0-4704-89A7-C46674ABEDF7,,"","","","1904",
+gcc-86866,A,Compositae,,Hymenoxys,,"texana",,"","(J.M.Coult. & Rose) Cockerell",Accepted,,L,TICA,C2FE0EF7-F828-45E7-823F-7BE9E33FCCBD,126038-2,"","","499","1904",
+gcc-46409,A,Compositae,,Hymenoxys,,"torreyana",,"","(Nutt.) K.F.Parker",Synonym,,M,TICA,6C8CF1B3-073B-41DD-9AA7-5604DC7E2F82,126039-2,"","","159","1950",gcc-37756
+gcc-11695,A,Compositae,,Hymenoxys,,"turneri",,"","K.F.Parker",Synonym,,M,TICA,2666A198-62F9-44CF-89E7-15CBAA6AECB4,126040-2,"","","192","1970",gcc-1282
+gcc-37946,A,Compositae,,Hymenoxys,,"tweediei",,"","Hook. & Arn.",Accepted,,M,TICA,562EB1B2-BD82-4DB3-BDC2-465FA2DD5463,,"in Hook. Journ. Bot. iii. (1841) 323.","","","1841",
+gcc-18994,A,Compositae,,Hymenoxys,,"ursina",,"","(Standl.) B.L.Turner",Unresolved,,L,TICA,C1BF1106-AD4C-47B3-83EF-231023F8FD38,278538-2,"Phytologia 69(1)","","15","1990",gcc-50298
+gcc-94372,A,Compositae,,Hymenoxys,,"vaseyi",,"","(A.Gray) Cockerell",Accepted,,L,TICA,DFE3B3E5-4E5D-4397-BCE0-8CD3C286D5A1,126042-2,"","","493","1904",
+gcc-78892,A,Compositae,,Hymenoxys,,"virgata",,"","A.Nelson",Unresolved,,L,TICA,90FD801E-B979-4FF3-AFBC-6A35E0CFDBCF,126043-2,"","","439","1931",

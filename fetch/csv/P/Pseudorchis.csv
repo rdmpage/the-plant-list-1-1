@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-166513,A,Orchidaceae,,Pseudorchis,,"albida",,"","(L.) Á.Löve & D.Löve",Accepted,,H,WCSP,166513,211551-2,"Taxon","18: 312","","1969",
+kew-166514,A,Orchidaceae,,Pseudorchis,,"albida",subsp.,"albida","",Synonym,,L,WCSP,166514,,"Unknown","","","",kew-166513
+kew-166515,A,Orchidaceae,,Pseudorchis,,"albida",subsp.,"straminea","(Fernald) Á.Löve & D.Löve",Accepted,,L,WCSP,166515,211552-2,"Taxon","18: 312","","1969",
+kew-348065,A,Orchidaceae,,Pseudorchis,,"albida",f.,"straminea","(Fernald) O.Gruss & M.Wolff",Synonym,,L,WCSP,348065,77081275-1,"Orchid. Atlas","377","","2007",kew-166515
+kew-166516,A,Orchidaceae,,Pseudorchis,,"albida",subsp.,"tricuspis","(Beck) E.Klein",Accepted,,L,WCSP,166516,1015584-1,"Phyton (Horn)","40: 143","","2000",
+kew-337594,A,Orchidaceae,,Pseudorchis,,"albida",var.,"tricuspis","(Beck) Kreutz",Synonym,,L,WCSP,337594,77065280-1,"Kompend. Eur. Orchid.","135","","2004",kew-166516
+kew-166517,A,Orchidaceae,,Pseudorchis,,"alpina",,"","Ség.",Synonym,,H,WCSP,166517,655141-1,"Pl. Veron.","Suppl. 3: 254","","1754",kew-166513
+kew-166518,A,Orchidaceae,,Pseudorchis,,"frivaldii",,"","(Hampe ex Griseb.) P.F.Hunt",Synonym,,H,WCSP,166518,655143-1,"Orchid Rev.","79: 141","","1971",kew-93666
+tro-50010204,A,Orchidaceae,,Pseudorchis,,"frivaldii",,"","(Hampe ex Griseb.) Soják",Synonym,,M,TRO,50010204,655142-1,"Čas. Nár. Mus., Odd. PYír.","140(3): 127","127","1972",kew-93666
+kew-166519,A,Orchidaceae,,Pseudorchis,,"loeselii",,"","(L.) Gray",Synonym,,H,WCSP,166519,655144-1,"Nat. Arr. Brit. Pl.","2: 213","","1821",kew-112965
+kew-166520,A,Orchidaceae,,Pseudorchis,,"straminea",,"","(Fernald) Soják",Synonym,,H,WCSP,166520,655145-1,"Cas. Nár. Mus., Odd. Prír.","141: 63","","1972",kew-166515
+kew-467901,A,Orchidaceae,,Pseudorchis,,"tricuspis",,"","(Beck) Landolt",Synonym,,H,WCSP,467901,77114530-1,"Fl. Indicativa","269","","2010",kew-166516

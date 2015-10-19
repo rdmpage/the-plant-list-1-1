@@ -1,0 +1,365 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-5438,A,Compositae,,Olearia,,"adenocarpa",,"","Molloy & Heenan",Accepted,,M,TICA,8741B9BE-94F7-4EA1-B680-0A23FB6737AC,60433124-2,"","","22-24","2004",
+gcc-135701,A,Compositae,,Olearia,,"adenolasia",,"","F.Muell.",Unresolved,,L,TICA,5C8FA560-4DFB-4545-9904-EA8B634D2AE5,,"Fragm. (Mueller) v. 67.","","67","",
+gcc-84053,A,Compositae,,Olearia,,"adenolasia",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,B3BE7F1E-0757-41CC-9728-75A4F0242737,143275-3,"","","3","1867",
+gcc-102400,A,Compositae,,Olearia,,"adenophora",,"","(F.Muell.) Benth.",Accepted,,M,TICA,7A7002AA-6E92-4418-806E-9F0B245BB8A4,143335-3,"","","","1867",
+gcc-124014,A,Compositae,,Olearia,,"affinis",,"","Hook.f.",Unresolved,,L,TICA,45499EA6-052C-4DCA-9CE7-CFB9CDD9C5F3,234753-1,"","","vi.  109","1847",
+gcc-1867,A,Compositae,,Olearia,,"aggregata",,"","Colenso",Synonym,,M,TICA,FEEE0472-F279-45AE-A132-035B4E0EBE4F,,"","","","1895",gcc-142015
+gcc-116985,A,Compositae,,Olearia,,"aglossa",,"","(Maiden & Betche) Lander",Accepted,,M,TICA,23496022-6DAB-41F5-B165-BFA035ED035C,169146-3,"","","146","1991",
+gcc-36971,A,Compositae,,Olearia,,"albida",,"","(Hook.f.) Hook.f.",Accepted,,M,TICA,14800DC1-075A-4E82-9197-447CFF55FE14,234755-1,"","","128","1864",
+gcc-61753,A,Compositae,,Olearia,,"albida",var.,"albida","",Synonym,,L,TICA,A1EF1A9A-55A2-43F8-B0B8-A9459A3C4338,,"","","","1864",gcc-36971
+gcc-16551,A,Compositae,,Olearia,,"albida",var.,"angulata","(Kirk) Allan",Accepted,,L,TICA,1E22A2ED-5C7C-4D52-8039-1E963CF3979B,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","663","1961",
+gcc-27068,A,Compositae,,Olearia,,"algida",,"","N.A.Wakef.",Accepted,,M,TICA,E37FA901-1FCC-4C7F-B8AA-320A2845A36D,234756-1,"","","97","1956",
+gcc-117046,A,Compositae,,Olearia,,"allenderae",,"","J.H.Willis",Synonym,,M,TICA,030FD0E1-DCE1-4446-99BF-BFC50F74C55D,,"Muelleria","","156","",gcc-87404
+gcc-84197,A,Compositae,,Olearia,,"allomii",,"","Kirk",Accepted,,M,TICA,6C658B6B-D53F-4B5E-B7C4-7604482B51EB,,"","","","",
+gcc-103609,A,Compositae,,Olearia,,"alpicola",,"","F.Muell.",Unresolved,,L,TICA,22ED9644-C838-447D-ACBE-A1A863334C83,,"Fragm. (Mueller) v. 70.","","70","",
+gcc-75496,A,Compositae,,Olearia,,"alpicola",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,52FDE161-421A-4809-AF03-629251FACA54,143489-3,"","","","1867",
+tro-50203970,A,Compositae,,Olearia,,"alpicola",var.,"aglossa","Maiden & Betche",Synonym,,L,TRO,50203970,,"","","","",gcc-116985
+gcc-118506,A,Compositae,,Olearia,,"alpina",,"","Buchanan",Synonym,,M,TICA,C2E54BA7-BB06-4FF0-8E17-C320AA210B25,,"","","","",gcc-102916
+gcc-44919,A,Compositae,,Olearia,,"alpina",,"","(Hook.f.) W.M.Curtis",Synonym,Illegitimate,M,TICA,2F8C9BA4-2C7A-45F9-B4B5-533E1CA781CA,143571-3,"","","","1963",gcc-26010
+gcc-81657,A,Compositae,,Olearia,,"angulata",,"","Kirk",Synonym,,M,TICA,DA1F1F2D-2FE0-4C04-A023-7056115840FD,,"","","","1881",gcc-16551
+gcc-106707,A,Compositae,,Olearia,,"angustata",,"","J.B.Armstr.",Synonym,Illegitimate,L,TICA,8701256F-F21A-465D-95C5-A86DC7C1ABEF,,"","","337","",gcc-8688
+gcc-115896,A,Compositae,,Olearia,,"angustifolia",,"","Hook.f.",Accepted,,M,TICA,98D2AB3C-0F16-46A4-9E4B-BD3694500247,,"","","","1853",
+gcc-119435,A,Compositae,,Olearia,,"arborescens",,"","(G.Forst.) Druce",Unresolved,,L,TICA,A069445B-8D0D-4BF3-BB93-C52F1B7672A6,234766-1,"Bot. Soc. Exch. Club Brit. Isles 4: 638","","638","1917",
+gcc-14754,A,Compositae,,Olearia,,"arborescens",,"","(G.Forst.) Cockayne & Laing",Accepted,,L,TICA,419BA0E7-2CE1-42A5-AF72-1B600A2DBA60,234765-1,"","","367","1911",
+gcc-58514,A,Compositae,,Olearia,,"arborescens",var.,"angustifolia","Cheeseman",Synonym,,L,TICA,A6FCBACA-3927-4E2D-89C0-8F6E2E00246A,,"""Cheeseman, T. F. 1906: Manual of the New Zealand Flora. Wellington, N.Z.,  Government Printer. ""","","285","1906",gcc-42497
+gcc-60784,A,Compositae,,Olearia,,"arborescens",var.,"arborescens","",Synonym,,L,TICA,E82ABED7-141D-4297-9F75-A12D17C75C0C,,"","","","1911",gcc-14754
+gcc-59629,A,Compositae,,Olearia,,"arborescens",var.,"capillaris","(Buchanan) Kirk",Synonym,,L,TICA,E67B25E5-EE9D-4CA8-B9AF-97F43EF45A09,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","268","1899",gcc-127913
+gcc-11419,A,Compositae,,Olearia,,"arborescens",var.,"cordatifolia","Kirk",Synonym,,L,TICA,3D78BDF5-7B13-4AB5-85A4-155241D0A380,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","268","1899",gcc-14754
+gcc-75840,A,Compositae,,Olearia,,"archeri",,"","Lander",Accepted,,M,TICA,38D93404-7218-4605-A353-635882883A06,937393-1,"","","117","1989",
+gcc-26202,A,Compositae,,Olearia,,"argophylla",,"","(Labill.) F.Muell. ex Benth.",Accepted,,M,TICA,45094088-631A-48CB-8198-3074344F7149,143603-3,"","","470","1867",
+gcc-5834,A,Compositae,,Olearia,,"argophylla",,"","F.Muell.",Unresolved,,L,TICA,095D7446-5C2B-4B69-94F4-0ADB7A8063A5,,"Fragm. (Mueller) v. 68.","","68","",
+gcc-64826,A,Compositae,,Olearia,,"argophylla",var.,"argophylla","",Synonym,,L,TICA,03501DEC-A92F-4F76-A09B-C1702FE7CC59,143623-3,"Proceedings of the Royal Society of Queensland 47  1936","","47","1936",gcc-26202
+gcc-14772,A,Compositae,,Olearia,,"arguta",,"","(R.Br.) Benth.",Accepted,,L,TICA,8C282BA1-C0BB-411D-953F-1B671C7FD14F,143667-3,"","","","1867",
+gcc-53333,A,Compositae,,Olearia,,"arguta",var.,"arguta","",Synonym,,L,TICA,4F9C448D-FAF3-465A-A986-6568E3122E17,143688-3,"Flora Australiensis 3  1867","","3","1867",gcc-14772
+gcc-11278,A,Compositae,,Olearia,,"argyrophylla",,"","F.Muell.",Accepted,,M,TICA,56590E0F-0957-4D03-9533-15174E2F05DA,,"","","","",
+gcc-123095,A,Compositae,,Olearia,,"arida",,"","E.Pritz.",Accepted,,M,TICA,82EF6BF9-FF79-42E7-9B94-CD85BB77DC3A,143726-3,"","","","1918",
+gcc-124460,A,Compositae,,Olearia,,"aspera",,"","W.Fitzg.",Synonym,,M,TICA,AB4E44AC-AA59-48B1-BD14-D0BE35FB2D76,143755-3,"","","","1918",gcc-1309
+gcc-95689,A,Compositae,,Olearia,,"asterotricha",,"","F.Muell.",Unresolved,,L,TICA,04B484BC-5EF8-455C-BAC8-8FF0606D09DB,,"Fragm. (Mueller) v. 79.","","79","",
+gcc-96643,A,Compositae,,Olearia,,"asterotricha",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,20277A90-6D11-4A28-8C45-920E96AFD3E3,143792-3,"","","","1867",
+gcc-117835,A,Compositae,,Olearia,,"astroloba",,"","Lander & N.G.Walsh",Accepted,,M,TICA,0F796DAA-6976-431A-A4D4-C18C4CFABDB1,937394-1,"","","123","1989",
+tro-2717615,A,Compositae,,Olearia,,"avicenniaefolia",,"","Hook. f.",Unresolved,,L,TRO,2717615,,"","","","",
+gcc-97129,A,Compositae,,Olearia,,"avicenniifolia",,"","(Raoul) Hook.f.",Accepted,,M,TICA,C582C80E-2EF4-40D9-BCAB-932D656214C6,234772-1,"","","127","1864",
+gcc-115969,A,Compositae,,Olearia,,"axillaris",,"","(DC.) F.Muell. ex Benth.",Accepted,,M,TICA,8C397C18-F3E1-4518-86BD-BD5F62651CDC,143862-3,"","","475","1867",
+gcc-92135,A,Compositae,,Olearia,,"axillaris",,"","F.Muell.",Unresolved,,L,TICA,A2D944D6-DCC0-4A65-982E-87EF19B37BF5,,"Fragm. (Mueller) v. 64.","","64","",
+gcc-140503,A,Compositae,,Olearia,,"ballii",,"","(F.Muell.) F.Muell. ex Hemsl.",Accepted,,M,TICA,2446360D-CD1E-4747-B056-F533B6B69F50,234775-1,"","","239","1896",
+gcc-18651,A,Compositae,,Olearia,,"ballii",,"","F.Muell.",Unresolved,,L,TICA,444DBD3C-F386-41A4-82F7-2276A624445D,,"Fragm. (Mueller) viii. 143","","143","",
+gcc-105156,A,Compositae,,Olearia,,"boorabbinensis",,"","Hochr.",Unresolved,,L,TICA,49369D60-D967-494B-8414-A5053EDB8559,234776-1,"","","v. 305","1934",
+gcc-135915,A,Compositae,,Olearia,,"brachyphylla",,"","(F.Muell. ex Sond.) N.A.Wakef.",Accepted,,M,TICA,B93564D0-E47F-4A01-B141-EAFC91B1F791,,"","","","1956",
+gcc-143711,A,Compositae,,Olearia,,"brevipedunculata",,"","N.G.Walsh",Accepted,,M,TICA,8C840112-DC44-4100-8A1B-FC819C518E1B,,"","","96","2004",
+gcc-98190,A,Compositae,,Olearia,,"buchananii",,"","Kirk",Synonym,,L,TICA,DFBCF297-B937-4282-975B-958BFCA5ADE0,,"","","","1899",gcc-111683
+gcc-89301,A,Compositae,,Olearia,,"bullata",,"","H.D.Wilson & Garn.-Jones",Accepted,,M,TICA,0A743BDD-9698-48CE-B531-8164E7981D6F,961803-1,"","","365","1992",
+gcc-94068,A,Compositae,,Olearia,,"burgessii",,"","Lander",Accepted,,M,TICA,09D1447A-809D-4285-8A1F-8C20A940FCD9,169151-3,"","","149","1991",
+gcc-137551,A,Compositae,,Olearia,,"calcarea",,"","F.Muell. ex Benth.",Accepted,,M,TICA,36AE398F-96BC-4789-8C82-EEAF4B96C409,234779-1,"","","481","1867",
+gcc-44677,A,Compositae,,Olearia,,"canescens",,"","(Benth.) Hutch.",Accepted,,L,TICA,51815FCE-76D0-4474-8DA9-52C6B390FEDE,144165-3,"","","","1917",
+gcc-127913,A,Compositae,,Olearia,×,"capillaris",,"","Buchanan",Accepted,,M,TICA,E328F3BC-8F66-4980-AFC7-D8D0BA50F3CC,,"""Buchanan, J. 1871[1870] : On some New Species and Varieties of New Zealand Plants. Transactions and Proceedings of the Royal Society of New Zealand 3: 208-212.""","","212","1870",
+tro-50314003,A,Compositae,,Olearia,,"capillaris",,"","Buchanan",Unresolved,,L,TRO,50314003,,"","","","",
+gcc-135619,A,Compositae,,Olearia,,"cassiniae",,"","(F.Muell.) Benth.",Accepted,,M,TICA,43439409-3F9A-44BD-86F6-EA638ED00A8C,144198-3,"","","3","1867",
+gcc-51916,A,Compositae,,Olearia,,"cassiniae",,"","F.Muell.",Unresolved,,L,TICA,898A4D48-42CC-48C2-8D2A-6047C3762DF0,,"Fragm. (Mueller) v. 68.","","68","",
+gcc-84444,A,Compositae,,Olearia,,"chathamica",,"","Kirk",Accepted,,M,TICA,02CD76A7-75BC-436D-A261-76941B157A35,,"","","","1891",
+gcc-32540,A,Compositae,,Olearia,,"chathamica",var.,"chathamica","",Synonym,,L,TICA,74ACF07D-76B7-4B44-82E5-3C53C7337701,,"","","","",gcc-84444
+gcc-48063,A,Compositae,,Olearia,,"chathamica",var.,"dendyi","Cockayne",Synonym,,L,TICA,DF64A5BE-E77E-476F-8968-590E53762ADD,,"""Cockayne, L. 1902[1901] : A Short Account of the Plant-covering of Chatham Island. Transactions and Proceedings of the New Zealand Institute 34: 243-325.""","","320","1901",gcc-84444
+gcc-42497,A,Compositae,,Olearia,,"cheesemanii",,"","Cockayne & Allan",Accepted,,M,TICA,9F5D05D3-6D40-415E-ABEA-4EB3F9783BB4,,"","","","",
+gcc-13883,A,Compositae,,Olearia,,"chrysophylla",,"","(DC.) Benth.",Accepted,,L,TICA,53E40F56-C19C-4D3D-AB4B-19CE422BCBD2,144244-3,"","","","1867",
+gcc-86505,A,Compositae,,Olearia,,"ciliata",,"","F.Muell.",Unresolved,,L,TICA,0E26A3C2-1A3F-4888-A7D1-7B1000D959F6,,"Fragm. (Mueller) v. 79.","","79","",
+gcc-99855,A,Compositae,,Olearia,,"ciliata",,"","(Benth.) F.Muell. ex Benth.",Accepted,,L,TICA,E6EBC2DD-16B9-4195-BD46-994972B7F75A,144277-3,"","","","1867",
+gcc-47033,A,Compositae,,Olearia,,"ciliata",var.,"ciliata","",Synonym,,L,TICA,659C5294-18E2-4CA9-9A8B-5724CF9B1E24,,"","","","",gcc-99855
+gcc-123167,A,Compositae,,Olearia,,"cinerea",,"","Mattf.",Synonym,,M,TICA,70D1C7DB-6475-419A-820B-CDB2AF515EC5,,"","","","1940",gcc-71400
+gcc-105030,A,Compositae,,Olearia,,"clemensiae",,"","Mattf.",Synonym,,M,TICA,196629E4-7CD7-454F-9070-A4C4B66D32F0,,"","","","1938",gcc-142463
+gcc-150484,A,Compositae,,Olearia,,"clemensiae",var.,"clemensiae","",Synonym,,L,TICA,13D6AD34-7DD4-4395-A87D-6FD84A953275,,"","","","",gcc-142463
+gcc-68149,A,Compositae,,Olearia,,"clemensiae",var.,"pachychlaena","Mattf.",Synonym,,L,TICA,45F15488-2825-474A-8892-DC9AD9F8FF5A,,"Bot. Jahrb. Syst. 70 (1940)","","470","1940",gcc-142463
+gcc-46652,A,Compositae,,Olearia,,"colensoi",,"","Hook.f.",Accepted,,M,TICA,6E1A4D02-E8FD-446C-BCE3-567808A2E031,,"","","","1853",
+gcc-32688,A,Compositae,,Olearia,,"colensoi",var.,"argentea","Allan",Accepted,,L,TICA,E845B95E-BF96-4908-ADAA-3C99045A04A8,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","""660, 973""","1961",
+gcc-64994,A,Compositae,,Olearia,,"colensoi",var.,"colensoi","",Synonym,,L,TICA,80AE598A-3FC3-4118-8DFA-C2E7EA868100,,"","","","",gcc-46652
+gcc-70638,A,Compositae,,Olearia,,"colensoi",var.,"α","Hook.f.",Synonym,,L,TICA,2DEBBBE9-5D2F-439A-8052-EF8F8D0C86C6,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","116","1853",gcc-32688
+gcc-16093,A,Compositae,,Olearia,,"colorata",,"","Colenso",Synonym,,M,TICA,6D3F3331-AA8B-4EAE-94B5-1DC5053B6587,,"","","","1880",gcc-95196
+gcc-131549,A,Compositae,,Olearia,,"conocephala",,"","(F.Muell.) F.Muell. ex Benth.",Synonym,,M,TICA,F08C3B1C-B078-41CF-80A9-E1290CFCE285,144396-3,"Flora Australiensis 3  1867","","3","1867",gcc-114214
+gcc-1633,A,Compositae,,Olearia,,"conocephala",,"","F.Muell.",Accepted,,M,TICA,4B308579-50B9-4996-9AFA-02F074524CF1,,"Fragm. (Mueller) v. 79.","","79","",
+gcc-59222,A,Compositae,,Olearia,,"conocephala",var.,"conocephala","",Synonym,,L,TICA,16F84539-B686-45CD-89AD-94C011B7E3A5,144414-3,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 35  1904""","","35","1904",gcc-114214
+gcc-35814,A,Compositae,,Olearia,,"consimilis",,"","Colenso",Synonym,,M,TICA,238947DA-F8F3-4893-9E67-426658FFA8C1,,"","","","1895",gcc-12738
+gcc-134025,A,Compositae,,Olearia,,"cordata",,"","Lander",Accepted,,M,TICA,EBD27DA7-D3EC-43C6-A3A1-E6E6E9C883D6,144458-3,"","","","1975",
+gcc-144616,A,Compositae,,Olearia,,"coriacea",,"","Kirk",Accepted,,M,TICA,E5F043F6-7F56-421C-96B7-FE88BE787B4A,,"","","","1899",
+gcc-91782,A,Compositae,,Olearia,,"covenyi",,"","Lander",Accepted,,M,TICA,BEDBA131-7FEE-4AD3-A747-8724A7D16C79,169155-3,"","","152","1991",
+gcc-79087,A,Compositae,,Olearia,,"crebra",,"","E.K.Cameron & Heenan",Accepted,,M,TICA,131C1619-981C-40DF-B642-6AAD440B5680,,"","","","2002",
+gcc-12203,A,Compositae,,Olearia,,"crenifingens",,"","Mattf.",Synonym,,M,TICA,7161EB5E-2D9F-4B3B-B7EB-16C07B5764C1,,"","","","1937",gcc-45770
+gcc-82456,A,Compositae,,Olearia,,"crosby-smithiana",,"","Petrie",Accepted,,M,TICA,EAFC256C-7451-4453-B33F-721E5F3F5A19,,"","","","",
+gcc-141344,A,Compositae,,Olearia,,"cunninghamii",,"","(Hook.f.) Hook.f.",Synonym,,M,TICA,BF4F042B-2E82-47AD-AA6B-F72972F21793,234797-1,"","","126","1864",gcc-95196
+gcc-131993,A,Compositae,,Olearia,,"cyanodiscalis",,"","F.Muell.",Unresolved,,L,TICA,F65375BE-D832-4578-BC2F-E236E8BFBB70,144478-3,"","","","1865",
+gcc-134018,A,Compositae,,Olearia,,"cydoniifolia",,"","(DC.) Benth.",Accepted,,M,TICA,C99D4066-644F-4C57-A020-E6E182A47FEC,144501-3,"","","","1867",
+gcc-88810,A,Compositae,,Olearia,,"cymbifolia",,"","(Hook.f.) Cheeseman",Synonym,,M,TICA,25982C95-AD36-4826-80B3-804C12F66502,,"""Cheeseman, T. F. 1907[1906] : Contributions to a Fuller Knowledge of the Flora of New Zealand: No. 1. Transactions and Proceedings of the New Zealand Institute 39: 439-450.""","","445","1907",gcc-35412
+gcc-112222,A,Compositae,,Olearia,,"decurrens",,"","(DC.) Benth.",Accepted,,L,TICA,22BCF563-8A39-493F-8469-B4E53EF1C5F9,234800-1,"","","481","1867",
+gcc-101236,A,Compositae,,Olearia,,"dentata",,"","Hook.f.",Synonym,Illegitimate,M,TICA,DC3F80D2-31FB-4B08-B510-9C5DFA4715C7,234802-1,"","","126","1864",gcc-96594
+gcc-50951,A,Compositae,,Olearia,,"dentata",,"","Moench",Synonym,Illegitimate,L,TICA,538874E8-962D-4AED-A5B6-5E84A6E65A01,234801-1,"","","254","1802",gcc-48754
+gcc-52440,A,Compositae,,Olearia,,"divaricata",,"","Cockayne",Synonym,,M,TICA,FF4DB2A0-E275-4F81-B27E-61375012962F,234803-1,"","","44","1909",gcc-32592
+gcc-115728,A,Compositae,,Olearia,,"durifolia",,"","J.Kost.",Accepted,,M,TICA,7E106087-3214-4D5F-815A-BCD904C0CEEB,234804-1,"","","""540, t. 4 a--e""","1966",
+gcc-77272,A,Compositae,,Olearia,,"elaeophila",,"","(DC.) Benth.",Accepted,,M,TICA,E1514F28-8788-4654-B540-6685E7674801,,"Fl.Austral. 3:484 (1867)","","","1867",
+gcc-9130,A,Compositae,,Olearia,,"elliptica",,"","DC.",Accepted,,M,TICA,1B5A21FD-47B8-4C21-8070-1111FFE03C67,144612-3,"","","","1836",
+gcc-13814,A,Compositae,,Olearia,,"elliptica",subsp.,"elliptica","",Synonym,,L,TICA,7A8F1E6B-FF0D-4AE9-A321-19ACCDC86084,,"","","","",gcc-9130
+gcc-103259,A,Compositae,,Olearia,,"eremaea",,"","Lander",Accepted,,M,TICA,109FBC41-4D2A-4367-9588-A0DF4DE8340C,168528-3,"","","","1990",
+gcc-4595,A,Compositae,,Olearia,,"ericoides",,"","(Steetz) N.A.Wakef.",Accepted,,M,TICA,16F1E674-A4CE-4A51-B87A-088E4CEF8D68,234806-1,"","","97","1956",
+gcc-21856,A,Compositae,,Olearia,,"erubescens",,"","(Sieber ex DC.) Dippel",Accepted,,M,TICA,6ACD6B22-1A7E-4BF2-82F9-286C81CE4121,234807-1,"","","290","1889",
+gcc-32809,A,Compositae,,Olearia,,"erythropappa",,"","Colenso",Synonym,,L,TICA,7D3ECA79-A8AA-4B67-A187-3CDC0BEA3573,,"","","","",gcc-14754
+gcc-98323,A,Compositae,,Olearia,,"excorticata",,"","Buchanan",Accepted,,M,TICA,D6478390-ECBD-4849-9E0A-95D612EEDD87,,"","","","1874",
+gcc-85220,A,Compositae,,Olearia,,"exiguifolia",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,2FBCDAEF-EC1F-4894-856B-7836B6F9A939,144716-3,"","","3","1867",
+gcc-94216,A,Compositae,,Olearia,,"exiguifolia",,"","F.Muell.",Unresolved,,L,TICA,8247DDE4-08F3-40EB-8C03-8C7A450FAFE1,,"Fragm. (Mueller) v. 67.","","67","",
+gcc-15014,A,Compositae,,Olearia,,"exilifolia",,"","F.Muell.",Accepted,,M,TICA,740CC38D-75F6-40CF-8525-1BCE0D30241B,,"Fragm. (Mueller) v. 69.","","69","",
+gcc-28398,A,Compositae,,Olearia,,"exilifolia",,"","(F.Muell.) Benth.",Synonym,,M,TICA,6EA194BB-DCE3-45E8-B824-34763C69A9BA,144746-3,"Flora Australiensis 3  1867","","3","1867",gcc-135915
+gcc-49477,A,Compositae,,Olearia,,"exilis",,"","S.Moore",Accepted,,M,TICA,7FBEBD39-B4B0-4B49-A1A6-5BB3B41D2141,234812-1,"","","81","1916",
+gcc-26405,A,Compositae,,Olearia,,"exilis",var.,"exilis","",Synonym,,L,TICA,EAB320E4-996E-499B-8733-30CBFF45FCCF,,"","","","",gcc-49477
+gcc-102178,A,Compositae,,Olearia,,"fasciculifolia",,"","Colenso",Synonym,,M,TICA,EB222F5E-2428-4D4C-8F94-9E78347B38D1,,"","","","",gcc-12738
+gcc-124564,A,Compositae,,Olearia,,"ferresii",,"","F.Muell.",Unresolved,,L,TICA,B636FABF-CF53-4707-8C60-D1022991092E,,"Fragm. (Mueller) v. 75.","","75","",
+gcc-18254,A,Compositae,,Olearia,,"ferresii",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,D7906A7B-B446-42CE-9567-21BEC9781B50,144774-3,"","","3","1867",
+gcc-25086,A,Compositae,,Olearia,,"ferruginea",,"","Hort.",Unresolved,,L,TICA,609AD3A1-D372-4792-BD38-2E534B229D1D,234815-1,"","","""Ser. III. li., Suppl p. xix.""","1912",
+gcc-83924,A,Compositae,,Olearia,,"fimbriata",,"","Heads",Accepted,,M,TICA,5E43029D-5FA1-4689-955F-75595125DDE4,1002561-1,"","","","1998",
+gcc-40442,A,Compositae,,Olearia,,"flavescens",,"","Hutch.",Unresolved,,L,TICA,8085A801-7E2F-4009-AE2D-4AF24621815D,234816-1,"","","23","1917",
+gcc-84301,A,Compositae,,Olearia,,"floccosa",,"","J.Kost.",Accepted,,M,TICA,2A52071C-8528-4813-8E2D-7644CC834B89,234817-1,"","","""545, t. 5 g--m""","1966",
+gcc-135279,A,Compositae,,Olearia,,"flocktoniae",,"","Maiden & Betche",Accepted,,M,TICA,70E42721-DBB5-4154-988D-E9ADFDD97EE3,,"","","","",
+gcc-38955,A,Compositae,,Olearia,,"floribunda",,"","(Hook.f.) Benth.",Accepted,,L,TICA,8D3B1FD1-D82D-4FDB-BC1C-484565C8BA8B,234819-1,"Fl. Austral. 3","","477","1867",
+gcc-52158,A,Compositae,,Olearia,,"floribunda",var.,"floribunda","",Synonym,,L,TICA,1D5B63AF-0B33-4059-9538-60C32EDFA909,,"Muelleria 1(1)  1956","","1(1)  1956","",gcc-38955
+gcc-58162,A,Compositae,,Olearia,,"floribunda",var.,"lanuginosa","J.H.Willis",Synonym,,L,TICA,426FCAF2-AFE3-46EB-A629-8C434E6B4EF0,144959-3,"Muelleria","","29","1956",gcc-120862
+gcc-28462,A,Compositae,,Olearia,,"fluvialis",,"","Lander",Accepted,,M,TICA,C7D8EA6E-BC3E-4FA2-BE39-349B1B172812,168529-3,"","","","1990",
+gcc-50218,A,Compositae,,Olearia,,"forsteri",,"","(Hook.f.) Hook.f.",Synonym,,M,TICA,CAD7D767-F061-4DD8-A675-5D1E111E2C08,,"","","127","1867",gcc-45250
+gcc-139292,A,Compositae,,Olearia,,"fragrantissima",,"","Petrie",Accepted,,M,TICA,4B84DA50-4AEB-413B-B88D-F268489F7CE0,,"","","","",
+gcc-109059,A,Compositae,,Olearia,,"frostii",,"","(F.Muell.) J.H.Willis",Accepted,,M,TICA,2D33541D-69A7-4E55-A805-ADC598EED5C8,234823-1,"Muelleria","","31","1956",
+gcc-125553,A,Compositae,,Olearia,,"frostii",,"","F.Muell.",Unresolved,,L,TICA,446F0423-45A5-4179-B742-D35025CDC273,,"","","","",
+gcc-117397,A,Compositae,,Olearia,,"fulvida",,"","Archer ex Kuntze",Accepted,,M,TICA,D262ECE0-C2BD-4A73-A476-C092183021FF,234824-1,"""Revis. Gen. Pl. 1: 315, nomen""","","315","1891",
+gcc-127016,A,Compositae,,Olearia,,"furfuracea",,"","(A.Rich.) Hook.f.",Accepted,,M,TICA,7908F3A8-BC73-4CDA-A3E5-D6A206F7841F,234825-1,"","","125","1864",
+gcc-25001,A,Compositae,,Olearia,,"furfuracea",var.,"furfuracea","",Synonym,,L,TICA,BF669EC3-78C0-4C61-8949-2E30EDDFFEA4,,"","","","",gcc-127016
+gcc-135258,A,Compositae,,Olearia,,"gardneri",,"","Heads",Accepted,,M,TICA,C666AFE4-F014-4531-814D-E99BBAF4A832,1002560-1,"","","","1998",
+gcc-30490,A,Compositae,,Olearia,,"glabra",,"","C.T.White",Unresolved,,L,TICA,B5202B47-C24A-45AE-9F00-3867E7CD5BF8,145069-3,"","","","1944",
+gcc-12702,A,Compositae,,Olearia,,"glandulosa",,"","(Labill.) Benth.",Accepted,,L,TICA,B6C2BF95-3380-43B5-B9D1-17AA704AE308,234827-1,"Fl. Austral. 3","","483","1867",
+gcc-127873,A,Compositae,,Olearia,,"glutescens",,"","F.Muell.",Unresolved,,L,TICA,447CCDA7-2596-4121-88BB-D8B88A28FCD8,145123-3,"","","","1865",
+gcc-121624,A,Compositae,,Olearia,,"glutinosa",,"","(Lindl.) Benth.",Accepted,,L,TICA,70E27406-0785-490A-98DD-CA34ED844986,234829-1,"Fl. Austral. 3","","482","1867",
+gcc-109454,A,Compositae,,Olearia,,"gordonii",,"","Lander",Accepted,,M,TICA,932E56C1-3EA2-4376-A3CF-AEB2D18C8905,145153-3,"","","","1989",
+gcc-36242,A,Compositae,,Olearia,,"grandiflora",,"","Hook.",Accepted,,L,TICA,02B17AC1-DE45-47AF-95CB-4337AC763CDE,234830-1,"","","t. 862","1851",
+gcc-32911,A,Compositae,,Olearia,,"gravis",,"","F.Muell.",Unresolved,,L,TICA,E24C3BF4-F646-4BCE-B564-3D08BF3EEE2E,,"Fragm. (Mueller) v. 82.","","82","",
+gcc-391,A,Compositae,,Olearia,,"gravis",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,05E94186-E6B2-4E3B-91A7-00B8A7233949,145208-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-35807,A,Compositae,,Olearia,,"gunniana",,"","(DC.) Hook.f. ex Hook.",Accepted,,L,TICA,37651917-0F5A-4A7C-80AE-42641A9B6134,145252-3,"","","","1852",
+gcc-64095,A,Compositae,,Olearia,,"gunniana",var.,"brevipes","(Hook.f.) Hutch.",Accepted,,L,TICA,DD7824FC-DAC0-448C-A45A-BBDAFAB099BA,145367-3,"""The Gardener's Chronicle ser. 3, 61 1917""","","","1917",
+gcc-60319,A,Compositae,,Olearia,,"gunniana",var.,"gunniana","",Synonym,,L,TICA,EC79D7C8-8071-4BF6-B49E-9D735FED12E4,145416-3,"""The Gardener's Chronicle ser. 3, 61 1917""","","","1917",gcc-35807
+gcc-22221,A,Compositae,,Olearia,,"gunniana",var.,"salicifolia","(Hook.f.) Hutch.",Accepted,,L,TICA,9064A228-9CB6-49EB-BCAC-291B9B9A6000,145548-3,"""The Gardener's Chronicle ser. 3, 61 1917""","","","1917",
+gcc-52790,A,Compositae,,Olearia,,"haastii",,"","Hook.f.",Accepted,,M,TICA,DA146DAA-6579-4CD1-B63A-61E1A1C3B4F9,234833-1,"","","126","1864",
+gcc-123354,A,Compositae,,Olearia,,"hectorii",,"","Hook.f.",Accepted,,M,TICA,C17CCEE6-E358-44F7-966D-CE1AA5472484,234834-1,"","","128","1864",
+gcc-94704,A,Compositae,,Olearia,,"heleophila",,"","F.Muell.",Accepted,,L,TICA,A83B0A92-1151-4141-9E02-8DA799CE320D,,"Fragm. (Mueller) v. 66.","","66","",
+gcc-97428,A,Compositae,,Olearia,,"heliophila",,"","(DC.) Benth.",Accepted,,M,TICA,52F63525-11FB-4894-B961-93D55E3F437A,145627-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-63838,A,Compositae,,Olearia,,"heliophila",var.,"heliophila","",Synonym,,L,TICA,7E2FCCCF-C0BE-4FB3-99FD-B9E1222D0859,145647-3,"Flora Australiensis 3  1867","","3","1867",gcc-97428
+gcc-66380,A,Compositae,,Olearia,,"heliophila",var.,"major","Benth.",Accepted,,L,TICA,7ACB8736-56B8-4993-8644-CE71986BF425,145666-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-9063,A,Compositae,,Olearia,,"heterocarpa",,"","S.T.Blake",Accepted,,M,TICA,ED7022DB-A0A8-45A1-9F32-10F31CA2FF44,145711-3,"","","","1963",
+gcc-35761,A,Compositae,,Olearia,,"heterolepis",,"","Mattf.",Accepted,,M,TICA,FEAE3373-AD17-4021-8A93-424F6B8065DA,,"","","","1937",
+gcc-45770,A,Compositae,,Olearia,,"heterotricha",,"","Mattf.",Accepted,,M,TICA,2BD09B58-CA5D-4831-8AE3-54DF57322787,,"","","","1937",
+gcc-116055,A,Compositae,,Olearia,,"hillii",,"","Colenso",Synonym,,M,TICA,02F01C5C-FA19-49A4-9476-BD90ED864170,,"","","","",gcc-33062
+gcc-44279,A,Compositae,,Olearia,,"homolepis",,"","(F.Muell.) Benth.",Accepted,,M,TICA,912965BF-340F-4B60-88BF-52018E21A450,145743-3,"","","3","1867",
+gcc-46612,A,Compositae,,Olearia,,"homolepis",,"","F.Muell.",Unresolved,,L,TICA,C66BCF95-CA87-42F6-A750-5660CE4CA766,,"Fragm. (Mueller) v. 65.","","65","",
+gcc-10999,A,Compositae,,Olearia,,"hooglandii",,"","J.Kost.",Accepted,,M,TICA,7CD77CBC-25A1-4496-9109-1490E898572D,234841-1,"","","""542, t. 4 f.--j""","1966",
+gcc-130486,A,Compositae,,Olearia,,"hookeri",,"","(Sond.) Benth.",Accepted,,M,TICA,E76B9057-2C8E-4FF3-8D14-DEA4E70E4991,234842-1,"Fl. Austral. 3","","483","1867",
+gcc-36781,A,Compositae,,Olearia,,"hookeri",var.,"hookeri","",Synonym,,L,TICA,6C9958A3-EAEB-4834-81EE-442F5D9076A8,145854-3,"Flora Australiensis 3  1867","","3","1867",gcc-130486
+gcc-48539,A,Compositae,,Olearia,,"humilis",,"","Lander",Accepted,,M,TICA,CA93FB87-6161-446F-AC1B-59E7249CA8E5,145895-3,"","","","1989",
+gcc-87907,A,Compositae,,Olearia,,"hygrophila",,"","(DC.) Benth.",Accepted,,L,TICA,96DE9A67-A748-4A7E-87E4-7E44FA58C9AF,145916-3,"","","","1867",
+gcc-118388,A,Compositae,,Olearia,,"ilicifolia",,"","Hook.f.",Accepted,,M,TICA,D0E16A5D-0705-49C6-8BE6-C2D2AFB91E37,234844-1,"","","126","1864",
+gcc-153094,A,Compositae,,Olearia,,"ilicifolia",var.,"ilicifolia","",Synonym,,L,TICA,948C72B4-B2DD-4D9F-9016-A7268DC41781,,"","","","",gcc-118388
+gcc-6227,A,Compositae,,Olearia,,"ilicifolia",var.,"×mollis","Kirk",Accepted,,L,TICA,C5B68268-B6E0-4E9D-BE8A-0B95A5728D5A,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","269","1899",
+gcc-129819,A,Compositae,,Olearia,,"illita",,"","F.Muell.",Unresolved,,L,TICA,E362DD19-E2AF-444C-90E2-DD1FD411A577,145974-3,"","","","1865",
+gcc-10350,A,Compositae,,Olearia,,"imbricata",,"","(Turcz.) Benth.",Accepted,,L,TICA,407DE124-ED03-49FE-A069-135727659EB9,145992-3,"","","","1867",
+gcc-19397,A,Compositae,,Olearia,,"incana",,"","(D.A.Cooke) Lander",Accepted,,M,TICA,F4C840A2-9223-4745-B295-23D9D1604D24,,"","","","",
+gcc-23068,A,Compositae,,Olearia,,"incondita",,"","Lander",Accepted,,M,TICA,5D923D95-E393-4418-A127-2AB3F9CF23C8,168531-3,"","","","1990",
+gcc-87453,A,Compositae,,Olearia,,"insignis",,"","Hook.f.",Synonym,,M,TICA,4D9937A8-95B6-4D3E-A811-7D4F92DBD11E,,"","","","1855",gcc-28794
+gcc-153633,A,Compositae,,Olearia,,"insignis",var.,"insignis","",Synonym,,L,TICA,018F63E3-A7CF-4E16-883C-B2172B88EF80,,"","","","",gcc-28794
+gcc-22275,A,Compositae,,Olearia,,"insignis",var.,"minor","Cheeseman",Synonym,,L,TICA,128B9CE9-3E56-4D36-AFC7-29361470FFBF,,"""Cheeseman, T. F. 1916[1915] : New species of plants. Transactions and Proceedings of the Royal Society of New Zealand 48: 210-215.""","","210-211","1916",gcc-14086
+gcc-105761,A,Compositae,,Olearia,,"iodochroa",,"","F.Muell.",Unresolved,,L,TICA,FBCB33BC-4CB5-4398-A485-A63F40CD04A6,,"Fragm. (Mueller) v. 81.","","81","",
+gcc-22282,A,Compositae,,Olearia,,"iodochroa",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,C5531E4D-B480-4DB2-9070-29390FBCD5FB,145954-3,"","","","1867",
+gcc-111444,A,Compositae,,Olearia,,"kernotii",,"","(F.Muell.) Mattf.",Accepted,,M,TICA,FBF64A29-6DBC-4098-8E07-B31EF6CADAE0,,"Bot. Jahrb. Syst. 62 (1929)","","412","1929",
+gcc-8547,A,Compositae,,Olearia,,"kernotii",,"","Muell.",Unresolved,,L,TICA,88233D04-2FF6-42DF-971D-0FF4B37CDC50,,"""in Trans. Roy. Soc. Vict. New Ser. I, ii. (1889) 10, in syn.""","","10","",
+gcc-11339,A,Compositae,,Olearia,,"laciniifolia",,"","Lander",Accepted,,M,TICA,A7554811-21B9-4BD4-A12B-1534AE5C1ADC,168532-3,"","","","1990",
+gcc-102916,A,Compositae,,Olearia,,"lacunosa",,"","Hook.f.",Accepted,,M,TICA,4F4B8A2D-470D-4C7F-ADC5-A02CB6466589,234850-1,"","","732","1867",
+gcc-137893,A,Compositae,,Olearia,,"lanata",,"","J.Kost.",Accepted,,M,TICA,8F45919C-6BD8-4D73-8E14-EF6DC4626151,234851-1,"","","""536, t. j--p""","1966",
+gcc-11173,A,Compositae,,Olearia,,"lanceolata",,"","(Benth.) D.I.Morris",Synonym,,M,TICA,10A8EC0C-2E47-4A3C-96BC-14E52DFE9538,146046-3,"","","","1977",gcc-75840
+gcc-120862,A,Compositae,,Olearia,,"lanuginosa",,"","(J.H.Willis) N.A.Wakef.",Accepted,,M,TICA,DEA659B1-0FCF-45DB-8BD3-C882B17E3B9A,234853-1,"Victorian Naturalist 73:96 (1956)","","96","1956",
+gcc-80146,A,Compositae,,Olearia,,"lasiophylla",,"","Lander",Accepted,,M,TICA,C03F5EDE-D64D-4A4B-8539-6CFB69C07330,169157-3,"","","154","1991",
+gcc-32592,A,Compositae,,Olearia,,"laxiflora",,"","Kirk",Accepted,,M,TICA,4BDEA320-7E6C-4524-9F54-3C65CE56CBA7,,"","","","1899",
+gcc-10569,A,Compositae,,Olearia,,"ledifolia",,"","(DC.) Benth.",Accepted,,L,TICA,AB767533-77E5-428A-A4FE-13BCE8A113F2,234855-1,"Fl. Austral. 3","","472","1867",
+gcc-40021,A,Compositae,,Olearia,,"lehmanniana",,"","(Steetz) Lander",Accepted,,M,TICA,4B0E0FD0-C044-461E-A4AE-4A3EBF163428,,"","","","",
+gcc-88441,A,Compositae,,Olearia,,"lepidophylla",,"","(Pers.) Benth.",Accepted,,M,TICA,779BBBF7-8AC2-4DE1-A486-7F6B6C433CE5,234856-1,"Fl. Austral. 3","","477","1867",
+gcc-80571,A,Compositae,,Olearia,,"lepidota",,"","Mattf.",Accepted,,M,TICA,1EFBBB8F-3BA7-48F7-9907-6DDBF54F84B3,,"","","","",
+gcc-1581,A,Compositae,,Olearia,,"lepidota",var.,"lepidota","",Synonym,,L,TICA,4B4E2D8E-B786-4EF9-B05B-02D99251CE0C,,"","","","",gcc-80571
+gcc-64474,A,Compositae,,Olearia,,"lepidota",var.,"sarawaketensis","(Mattf.) J.Kost.",Accepted,,L,TICA,E38855CB-E1D7-430A-9944-BED8CB9B453A,,"""Nova Guinea, Bot. 24 (1966)""","","""552, t. 7 h""","1966",
+gcc-139198,A,Compositae,,Olearia,,"leptocephala",,"","J.Kost.",Accepted,,M,TICA,B6AC2224-E837-4EAB-BFBA-F236C8CF0686,234858-1,"","","""550, t. 7 a--f.""","1966",
+gcc-115442,A,Compositae,,Olearia,,"lineata",,"","Cockayne",Accepted,,M,TICA,106B438A-1BD1-4389-9FAE-BC258AE38F69,,"","","","",
+gcc-35372,A,Compositae,,Olearia,,"lirata",,"","(Sims) Hutch.",Accepted,,M,TICA,CF55F98F-F026-4122-B4F6-4197F02F44AD,146190-3,"","","","1917",
+gcc-38452,A,Compositae,,Olearia,,"lyallii",,"","Hook.f.",Accepted,,M,TICA,49E290F8-A672-455B-9B12-475665C4CA58,,"","","","1853",
+gcc-31720,A,Compositae,,Olearia,,"macdonnellensis",,"","D.A.Cooke",Accepted,,M,TICA,B6E3D8B0-2B73-418E-8152-3AC8B36F6A79,146209-3,"","","","1986",
+gcc-96594,A,Compositae,,Olearia,,"macrodonta",,"","Baker",Accepted,,M,TICA,CEC24989-21E4-4C43-B333-91E9AAA5D077,234862-1,"","","604","1884",
+gcc-83397,A,Compositae,,Olearia,,"magniflora",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,39F74D5B-9500-468E-A97D-74321C5B8F56,146236-3,"","","","1867",
+gcc-86322,A,Compositae,,Olearia,,"magniflora",,"","F.Muell.",Unresolved,,L,TICA,E0EF2062-E0C0-426B-90D6-7AA5C46228A8,,"Fragm. (Mueller) v. 80.","","80","",
+gcc-113624,A,Compositae,,Olearia,,"marginata",,"","Colenso",Synonym,,M,TICA,616E22D0-F6F7-493D-AE4D-B8078310BD68,,"","","","",gcc-28794
+gcc-119107,A,Compositae,,Olearia,×,"matthewsii",,"","Heenan",Accepted,,M,TICA,5B13F162-3481-4B69-BA67-C4788D86E0E4,,"","","13","1991",
+gcc-23473,A,Compositae,,Olearia,,"megalophylla",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,345CEA72-9FF6-4C1C-9B7B-2B6FA250E446,146282-3,"","","","1867",
+gcc-7391,A,Compositae,,Olearia,,"megalophylla",,"","F.Muell.",Unresolved,,L,TICA,25323B39-1606-4B04-A099-0DBB6E65A223,,"Fragm. (Mueller) v. 70.","","70","",
+gcc-80294,A,Compositae,,Olearia,,"microdisca",,"","J.M.Black",Accepted,,M,TICA,192CC0B8-B3FF-4C7A-B598-6D4D38F46636,146315-3,"","","","1928",
+gcc-124343,A,Compositae,,Olearia,,"microphylla",,"","Druce",Unresolved,,L,TICA,7D92EF64-4806-4AAF-8C45-D0750D2E1B66,,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916. 638 (1917).""","","638","",
+gcc-9001,A,Compositae,,Olearia,,"microphylla",,"","(Vent.) Maiden & Betche",Accepted,,M,TICA,92B17DD2-0E5E-4820-B96C-10DABE84DFE8,146355-3,"A Census of New South Wales Plants 1916","","","1916",
+gcc-109154,A,Compositae,,Olearia,,"minor",,"","(Benth.) Lander",Accepted,,M,TICA,5B2812C9-3893-430B-AD16-AE02261EE9C6,169158-3,"Telopea 4:156 (1991)","","156","1991",
+gcc-50895,A,Compositae,,Olearia,,"mollis",,"","(Kirk) Cockayne",Synonym,,M,TICA,B622C587-0DF9-454A-8C01-5E6A293F4EED,,"","","","1910",gcc-6227
+gcc-134355,A,Compositae,,Olearia,,"montana",,"","Lander",Accepted,,M,TICA,15AB6904-D9B4-4C4A-9140-E7A2BE0990A5,169160-3,"","","159","1991",
+gcc-142364,A,Compositae,,Olearia,,"monticola",,"","F.M.Bailey",Accepted,,M,TICA,BB49426B-532E-4D73-AE41-F9703F3985F8,,"","","","1895",
+gcc-34824,A,Compositae,,Olearia,,"monticola",var.,"monticola","",Synonym,,L,TICA,34839825-F1ED-41D1-8DBD-408F465590C0,,"","","","",gcc-142364
+gcc-77401,A,Compositae,,Olearia,,"mooneyi",,"","(F.Muell.) F.Muell. ex Hemsl.",Accepted,,M,TICA,34B0BD46-BBE4-4729-AA9C-66CF7AC191CB,234871-1,"","","239","1896",
+gcc-94623,A,Compositae,,Olearia,,"mooneyi",,"","F.Muell.",Unresolved,,L,TICA,2D346E2E-9A74-4FE7-81D6-8D6CA268F543,,"Fragm. (Mueller) viii. 144","","144","",
+gcc-119387,A,Compositae,,Olearia,,"moschata",,"","Hook.f.",Accepted,,M,TICA,C62ECA08-132B-4123-894B-C5118121BCFC,234872-1,"","","127","1864",
+gcc-11432,A,Compositae,,Olearia,,"mucronata",,"","Lander",Accepted,,M,TICA,4D042ACF-71FA-41AB-B171-1558E1185C8E,168533-3,"","","","1990",
+gcc-128420,A,Compositae,,Olearia,,"muelleri",,"","(Sond.) Benth.",Accepted,,M,TICA,3D718603-064A-48A5-AB8A-D9FA01F2CE9D,234873-1,"","","481","1867",
+gcc-113286,A,Compositae,,Olearia,,"multibracteolata",,"","Colenso",Synonym,,M,TICA,E9315DBF-95A6-4FCC-A206-B74A37013806,,"","","","",gcc-118388
+gcc-79702,A,Compositae,,Olearia,,"multiflora",,"","Colenso",Synonym,,L,TICA,FDFEE150-0421-4563-BA15-6BFAB51C5510,,"","","","1895",gcc-14754
+gcc-112526,A,Compositae,,Olearia,,"muricata",,"","(Steetz) Benth.",Accepted,,L,TICA,ACC278A7-D369-4B86-A7EE-B5A081118AC4,146529-3,"","","","1867",
+gcc-135299,A,Compositae,,Olearia,,"myrsinoides",,"","(Labill.) F.Muell. ex Benth.",Accepted,,L,TICA,F4368C22-0D7E-4ABB-89E8-E9BB1C9FC47C,146576-3,"","","470","1867",
+gcc-41250,A,Compositae,,Olearia,,"myrsinoides",,"","F.Muell.",Unresolved,,L,TICA,3EC442C9-559D-41E0-9A8C-4C708B19FC18,,"Fragm. (Mueller) v. 69.","","69","",
+gcc-23740,A,Compositae,,Olearia,,"nernstii",,"","F.Muell.",Unresolved,,L,TICA,ED5A85CD-08E9-4329-88F2-2BE231C2ECA6,,"Fragm. (Mueller) v. 81.","","81","",
+gcc-27389,A,Compositae,,Olearia,,"nernstii",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,E466C7B1-C281-46F9-88DD-32A985EE8190,146726-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-12544,A,Compositae,,Olearia,,"nitida",,"","(Hook.f.) Hook.f.",Synonym,,L,TICA,A82AB567-FC68-4FB5-9406-175D0FC3CD0B,234879-1,"","","125","1864",gcc-14754
+gcc-27885,A,Compositae,,Olearia,,"nitida",var.,"angustifolia","Cheeseman",Synonym,,L,TICA,35382574-39C6-43E0-ADB7-33856C542DCE,,"""Cheeseman, T. F. 1906: Manual of the New Zealand Flora. Wellington, N.Z.,  Government Printer. ""","","285","1906",gcc-42497
+gcc-58991,A,Compositae,,Olearia,,"nitida",var.,"capillaris","(Buchanan) Kirk",Synonym,,L,TICA,DED3B07B-6119-4FEE-A9DF-930346DB5B67,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","268","1899",gcc-127913
+gcc-154157,A,Compositae,,Olearia,,"nitida",var.,"nitida","",Synonym,,L,TICA,EC2019C1-B9EE-4036-82F1-BD8E94FC651B,,"","","","",gcc-14754
+tro-2717622,A,Compositae,,Olearia,,"nummularifolia",,"","Hook. f.",Unresolved,,L,TRO,2717622,,"","","","",
+gcc-33062,A,Compositae,,Olearia,,"nummulariifolia",,"","(Hook.f.) Hook.f.",Accepted,,M,TICA,05137168-AEA9-43A5-9E0C-3D4B7544BE5F,234880-1,"","","127","1864",
+gcc-35412,A,Compositae,,Olearia,,"nummulariifolia",var.,"cymbifolia","Hook.f.",Accepted,,L,TICA,5066979B-7930-4B17-9E48-41A739EF64CD,,"""Hooker, J. D. 1867: Handbook of the New Zealand Flora: a systematic description of the native plants of New Zealand and the Chatham, Kermadec's, Lord Auckland's, Campbell's, and Macquarie's Islands. Part II.  London,  Reeve. 798 p. ""","","732","1867",
+gcc-50036,A,Compositae,,Olearia,,"nummulariifolia",var.,"nummulariifolia","",Synonym,,L,TICA,AA322072-C44F-4C5C-884D-5CC63ED8FE62,,"","","","1864",gcc-33062
+gcc-24336,A,Compositae,,Olearia,,"obcordata",,"","(Hook.f.) Benth.",Accepted,,L,TICA,2C1B7914-8448-4B2A-ADE1-2CF2067F5EBC,234881-1,"Fl. Austral. 3","","471","1867",
+gcc-120125,A,Compositae,,Olearia,,"obovata",,"","Mattf.",Synonym,,M,TICA,1C0D8F0C-4D60-41CD-A025-C6C53D382F42,,"","","","",gcc-117530
+gcc-99924,A,Compositae,,Olearia,,"occidentissima",,"","Lander",Accepted,,M,TICA,98834856-6610-4DB8-9EC2-99754F6D3C1B,168534-3,"","","","1990",
+gcc-91765,A,Compositae,,Olearia,,"odorata",,"","Petrie",Accepted,,M,TICA,D1F102F3-4783-40B3-B773-8716EE17558F,,"","","","",
+gcc-8688,A,Compositae,,Olearia,,"oleifolia",,"","Kirk",Accepted,,L,TICA,405F873A-55F0-4001-9D3A-1039A75B6D81,234884-1,"","","xi.  463.","1879",
+gcc-139240,A,Compositae,,Olearia,,"oliganthema",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,9AF64F1F-FAFA-4C5B-9989-F250058F515C,146811-3,"","","","1867",
+gcc-41655,A,Compositae,,Olearia,,"oporina",,"","(G.Forst.) Hook.f.",Synonym,,M,TICA,02E9B6B4-15F5-4242-BAD3-4D1F18DBCB77,,"","","","",gcc-84444
+gcc-154451,A,Compositae,,Olearia,,"oporina",var.,"oporina","",Synonym,,L,TICA,384DBAB8-9D78-4AB4-8CB0-C3CE29433E55,,"","","","",gcc-84444
+gcc-11431,A,Compositae,,Olearia,,"oppositifolia",,"","(F.Muell.) Lander",Accepted,,M,TICA,F5167086-28D0-4568-AB57-15587CDE26C2,169162-3,"","","161","1991",
+gcc-34931,A,Compositae,,Olearia,,"oraria",,"","(F.Muell.) Maiden & Betche",Unresolved,,L,TICA,B1DEE508-6CF4-4DEA-9385-40C198A10665,146845-3,"A Census of New South Wales Plants 1916","","","1916",
+gcc-48170,A,Compositae,,Olearia,,"oraria",,"","F.Muell.",Unresolved,,L,TICA,049B5E6E-5C6D-47E8-A8FD-594835973AD0,,"Fragm. (Mueller) v. 78","","78","",
+gcc-27704,A,Compositae,,Olearia,,"pachycephala",,"","J.Kost.",Accepted,,M,TICA,00A2A5E3-94FF-437B-B58E-33346F33D30E,234888-1,"","","532","1966",
+gcc-8679,A,Compositae,,Olearia,,"pachyphylla",,"","Cheeseman",Accepted,,M,TICA,C6C71D85-BC99-4111-8797-1034D044D958,234890-1,"""in Trans. N. Z. Inst. 1909, xlii. 216 (1910).""","","xlii. 216 (1910).","1909",
+gcc-97446,A,Compositae,,Olearia,,"pallida",,"","J.Kost.",Accepted,,M,TICA,A8939CBE-7EE3-46BC-BA1A-93E0119B8B50,234891-1,"","","""537, t. 3 a--f""","1966",
+gcc-45250,A,Compositae,,Olearia,,"paniculata",,"","Druce",Accepted,,M,TICA,70D4F405-B888-49EB-AA14-53DDF3D3490D,234892-1,"","","638","1917",
+gcc-46789,A,Compositae,,Olearia,,"paniculata",var.,"elliptica","Kirk",Synonym,,L,TICA,7012B932-B2B8-4D65-A7D2-56B0CC14477D,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","277","1899",gcc-45250
+gcc-60013,A,Compositae,,Olearia,,"paniculata",var.,"obtusa","Kirk",Synonym,,L,TICA,04DC0D5C-8FD5-4368-9A09-9B01C2806F80,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","277","1899",gcc-45250
+gcc-151689,A,Compositae,,Olearia,,"paniculata",var.,"paniculata","",Synonym,,L,TICA,2030A58C-A619-4595-AD27-8A2B2D5DD94A,,"","","","",gcc-45250
+gcc-61499,A,Compositae,,Olearia,,"paniculata",var.,"viscosa","G.Simpson",Synonym,,L,TICA,68EC016D-8B83-42A3-933A-A7302B6F15E5,,"""Simpson, G. 1945: Notes on Some New Zealand Plants and Descriptions of New Species (No. 4). Transactions of the Royal Society of New Zealand 75: 187-202.""","","198","1945",gcc-45250
+gcc-81139,A,Compositae,,Olearia,,"pannosa",,"","Hook.",Accepted,,M,TICA,1848E9A9-5D1C-4CBE-BBB7-6F22D609DF4E,146878-3,"","","","1851",
+gcc-70138,A,Compositae,,Olearia,,"pannosa",subsp.,"cardiophylla","(F.Muell.) D.A.Cooke",Accepted,,L,TICA,DC409497-2552-4CA6-A39C-EBBFFDF23993,953046-1,"","","1483","1986",
+gcc-72566,A,Compositae,,Olearia,,"pannosa",subsp.,"pannosa","",Synonym,,L,TICA,57F972F3-CA5B-4207-A32F-FEFCE31428B8,146902-3,"Flora of South Australia 3  1986","","3","1986",gcc-81139
+gcc-83460,A,Compositae,,Olearia,,"parvifolia",,"","Colenso",Synonym,,M,TICA,FA2A31AA-9163-417C-AB7E-745C593D0817,,"","","","1895",gcc-142015
+gcc-141628,A,Compositae,,Olearia,,"passerinoides",,"","(Turcz.) Benth.",Accepted,,M,TICA,01F9F3A3-C824-4473-8FDD-F7D26D7E5C21,234895-1,"","","482","1867",
+gcc-68941,A,Compositae,,Olearia,,"passerinoides",subsp.,"glutescens","(Sond.) D.A.Cooke",Accepted,,L,TICA,B7DB3D93-7E3F-4CA4-ACD7-E290FC02EEDD,146942-3,"","","","1985",
+gcc-67558,A,Compositae,,Olearia,,"passerinoides",subsp.,"passerinoides","",Synonym,,L,TICA,55C1C555-AA2B-4F4D-93AF-D824E6355B6C,146951-3,"Journal of the Adelaide Botanic Gardens","","278","1985",gcc-141628
+gcc-1621,A,Compositae,,Olearia,,"paucidentata",,"","F.Muell.",Unresolved,,L,TICA,2270860E-7A7D-4AFD-8BE0-02EB146AB31D,,"Fragm. (Mueller) v. 66.","","66","",
+gcc-90843,A,Compositae,,Olearia,,"paucidentata",,"","(Steetz) Benth.",Accepted,,L,TICA,BCD75CF0-C43D-4411-9C8A-85073EC0B72D,146971-3,"","","485","1867",
+gcc-19015,A,Compositae,,Olearia,,"persoonioides",,"","(DC.) Benth.",Accepted,,L,TICA,9125F308-8EA5-477D-8690-231C5C2F6B99,234897-1,"Fl. Austral. 3","","471","1867",
+gcc-56716,A,Compositae,,Olearia,,"persoonioides",var.,"lanceolata","Benth.",Accepted,,L,TICA,7A1ED3B9-0F2D-4495-B8F2-80A44A2EBB55,147121-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-60294,A,Compositae,,Olearia,,"persoonioides",var.,"persoonioides","",Synonym,,L,TICA,6CB14157-1AAE-4CE3-97BF-9D3EA0B4CFF0,147141-3,"Flora Australiensis 3  1867","","3","1867",gcc-19015
+gcc-6207,A,Compositae,,Olearia,,"phlogopappa",,"","(Labill.) DC.",Accepted,,M,TICA,5E3EB9EC-62A9-4549-898E-0B8B7D9610EB,234898-1,"","","272","1836",
+gcc-56558,A,Compositae,,Olearia,,"phlogopappa",var.,"angustifolia","W.M.Curtis",Accepted,,L,TICA,3F251C0B-1AC9-4187-B9DD-7F7DCE663F8D,147204-3,"","","","1963",
+gcc-61644,A,Compositae,,Olearia,,"phlogopappa",var.,"microcephala","W.M.Curtis",Accepted,,L,TICA,76590499-E120-41A0-A62C-A847A1764F4E,147314-3,"","","","1963",
+gcc-64815,A,Compositae,,Olearia,,"phlogopappa",var.,"phlogopappa","",Synonym,,L,TICA,28F4780C-E968-47CD-833D-C15A4706E178,,"","","","1836",gcc-6207
+gcc-36378,A,Compositae,,Olearia,,"phlogopappa",var.,"salicifolia","W.M.Curtis",Accepted,,L,TICA,9AAC215C-2985-41E7-BA5B-437A57FD17BD,147389-3,"","","","1963",
+gcc-95755,A,Compositae,,Olearia,,"picridifolia",,"","(F.Muell.) Benth.",Accepted,,M,TICA,F4D975AF-613F-436C-B3FF-901542670138,234899-1,"","","487","1867",
+gcc-99921,A,Compositae,,Olearia,,"pimeleoides",,"","(DC.) Benth.",Accepted,,L,TICA,14AC09AF-DFB5-4E4D-8287-9973125F9013,234900-1,"","","479","1867",
+gcc-71821,A,Compositae,,Olearia,,"pimeleoides",subsp.,"incana","D.A.Cooke",Synonym,,L,TICA,CB84F515-7DA6-4FB4-AD31-F9089E4AA800,147533-3,"","","","1985",gcc-19397
+gcc-55351,A,Compositae,,Olearia,,"pimeleoides",var.,"pimeleoides","",Synonym,,L,TICA,871CC716-9CA0-430B-97E2-754BEBD67AA5,147605-3,"Flora Australiensis 3  1867","","3","1867",gcc-99921
+gcc-58838,A,Compositae,,Olearia,,"pimeleoides",subsp.,"pimeleoides","",Synonym,,L,TICA,57E6E30D-8390-466D-A7A7-91DC39D9E819,,"Journal of the Adelaide Botanic Gardens 7(1)  1985","","7(1)  1985","",gcc-99921
+gcc-31332,A,Compositae,,Olearia,,"pinifolia",,"","(Hook.f.) Benth.",Accepted,,M,TICA,C5DD9801-B498-469B-AA48-3A073204729C,234901-1,"Fl. Austral. 3","","471","1867",
+gcc-142463,A,Compositae,,Olearia,,"platyphylla",,"","Mattf.",Accepted,,M,TICA,808A00EF-C6E7-46A3-8095-F9AE97BE248D,,"","","","",
+gcc-71400,A,Compositae,,Olearia,,"platyphylla",var.,"cinerea","(Mattf.) J.Kost.",Accepted,,L,TICA,0E6D7317-00BA-4992-B4C9-F5E8C1AF4DAA,,"""Nova Guinea, Bot. 24 (1966)""","","554","1966",
+gcc-70130,A,Compositae,,Olearia,,"platyphylla",var.,"platyphylla","",Synonym,,L,TICA,AA06538A-40BB-47D5-9C92-EBB94587FA72,,"","","","",gcc-142463
+gcc-37745,A,Compositae,,Olearia,,"plucheacea",,"","Lander",Accepted,,M,TICA,E8079335-4FB2-43B1-B51B-45FF3986B0EA,168536-3,"","","","1990",
+gcc-117369,A,Compositae,,Olearia,,"polita",,"","H.D.Wilson & Garn.-Jones",Accepted,,M,TICA,D4173D37-E215-4838-B2B2-C0848A2AE805,961452-1,"","","366","1992",
+gcc-137637,A,Compositae,,Olearia,,"populifolia",,"","Colenso",Synonym,,L,TICA,93380C4B-CF95-4110-9469-EEDE30E3DFA8,,"","","","",gcc-14754
+gcc-23398,A,Compositae,,Olearia,,"propinqua",,"","S.Moore",Synonym,,L,TICA,E3823BAD-8BAA-4F56-BA2B-2B53FD4515A1,234904-1,"","","179","1920",gcc-99921
+gcc-27570,A,Compositae,,Olearia,,"quercifolia",,"","Sieber ex DC.",Accepted,,M,TICA,0A0FDD88-5B05-4980-AC85-32F6C7F7FE3E,147714-3,"","","","1836",
+gcc-92672,A,Compositae,,Olearia,,"quinquefida",,"","Colenso",Synonym,,M,TICA,73E678F8-E7C5-4790-ADE1-891CC10656C3,,"","","","1895",gcc-12738
+gcc-44829,A,Compositae,,Olearia,,"quinquevulnera",,"","Heenan",Accepted,,M,TICA,2C6229AE-44D0-4BAF-86E6-530AE34329A4,,"","","757-760","2005",
+gcc-40165,A,Compositae,,Olearia,,"racemosa",,"","Domin",Accepted,,M,TICA,B6B4562A-3105-45BB-A006-4A7B42ECACFC,,"","","","1929",
+gcc-81503,A,Compositae,,Olearia,,"ramosissima",,"","(DC.) Benth.",Accepted,,L,TICA,008979D0-EC50-4F50-99E0-6FF6062E116A,147792-3,"","","","1867",
+gcc-41983,A,Compositae,,Olearia,,"ramuliflora",,"","Colenso",Synonym,,M,TICA,C7DB6B38-C4C5-4BA5-9AE0-4DBCB31601F2,,"","","","",gcc-142015
+gcc-80564,A,Compositae,,Olearia,,"ramulosa",,"","(Labill.) Benth.",Accepted,,M,TICA,A666F8CB-CA31-4ABB-A2F0-6DD86C1B0393,234910-1,"Fl. Austral. 3","","476","1867",
+gcc-49733,A,Compositae,,Olearia,,"ramulosa",var.,"longisetosa","J.H.Willis",Synonym,,L,TICA,59894111-A2AE-4DE3-B6AB-5C2D98F79FA5,148128-3,"","","","1956",gcc-32130
+gcc-132941,A,Compositae,,Olearia,,"ramulosa",f.,"ramulosa","",Synonym,,L,TICA,9F1472DA-D51C-4CE0-96C2-E467A8422AA9,148324-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-80564
+gcc-61310,A,Compositae,,Olearia,,"ramulosa",var.,"ramulosa","",Synonym,,L,TICA,E9820C69-99D5-4C70-BA84-A5841B1C40C7,148321-3,"","","","1867",gcc-80564
+gcc-42955,A,Compositae,,Olearia,,"ramulosa",var.,"rigida","J.H.Willis",Synonym,,L,TICA,6C55758C-045E-4DCB-9EA9-4F8EE729AB61,148368-3,"","","","1956",gcc-32130
+gcc-32130,A,Compositae,,Olearia,,"ramulosa",var.,"stricta","(Benth.) J.H.Willis",Accepted,,L,TICA,1C4C5B7E-A9F9-4F83-ADA1-3B81E92CDAAF,148586-3,"","","","1956",
+gcc-95196,A,Compositae,,Olearia,,"rani",,"","(A.Cunn.) Druce",Accepted,,M,TICA,AB46D921-1B8C-419E-80FA-8EB9F7DFDD92,234911-1,"","","638","1917",
+gcc-8078,A,Compositae,,Olearia,,"rani",var.,"colorata","(Colenso) Kirk",Synonym,,L,TICA,3BBF6F4B-D35C-4C67-A65B-0F07FBBC8BFF,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","269","1899",gcc-95196
+gcc-64921,A,Compositae,,Olearia,,"rani",var.,"minuta","Kirk",Synonym,,L,TICA,5ECF7C46-F662-4450-B5D2-C239D7E54E48,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","270","1899",gcc-95196
+gcc-54405,A,Compositae,,Olearia,,"rani",var.,"rani","",Synonym,,L,TICA,F2A4E3FF-0135-42F6-8D22-6DC800E7C879,,"","","","",gcc-95196
+gcc-96429,A,Compositae,,Olearia,,"rapae",,"","F.Br.",Unresolved,,L,TICA,0752EE23-7D2E-4BF3-9A8F-9189FBFECAC0,234912-1,"""in Bull. Bishop Mus., Honolulu No. 130. 337 (1935).""","","No. 130. 337","1935",gcc-51470
+gcc-113161,A,Compositae,,Olearia,,"revoluta",,"","F.Muell. ex Benth.",Accepted,,M,TICA,95291787-362D-4153-B96F-B7059AF7C9DE,148743-3,"","","","1867",
+gcc-59689,A,Compositae,,Olearia,,"revoluta",var.,"revoluta","",Synonym,,L,TICA,F751F155-CBE2-4543-B124-987AF807E725,148818-3,"Flora Australiensis 3  1867","","3","1867",gcc-113161
+gcc-85438,A,Compositae,,Olearia,,"rhizomatica",,"","Lander",Accepted,,M,TICA,604E44C9-E4B9-4FB1-B398-78A8E7F98852,,"","","","",
+gcc-1243,A,Compositae,,Olearia,,"rigida",,"","Colenso",Unresolved,,L,TICA,F4EA7652-401E-4300-8432-02480FFE87DA,234914-1,"","","","",gcc-13615
+gcc-140455,A,Compositae,,Olearia,,"rosmarinifolia",,"","(DC.) Benth.",Accepted,,L,TICA,9699F466-38C1-422F-88F5-F50C05D27276,148844-3,"","","","1867",
+gcc-7077,A,Compositae,,Olearia,,"rotundifolia",,"","(Less.) DC.",Unresolved,,L,TICA,5DC7C792-0FE3-4CF0-B4A0-0D2C2A295F7A,148901-3,"","","","1836",
+gcc-127159,A,Compositae,,Olearia,,"rudis",,"","(Benth.) F.Muell. ex Benth.",Accepted,,L,TICA,7621A260-09C5-4786-B43B-D6FA6626993C,148962-3,"","","","1867",
+gcc-638,A,Compositae,,Olearia,,"rudis",,"","F.Muell.",Unresolved,,L,TICA,744B662D-6CCF-4786-9D89-01371158927B,,"Fragm. (Mueller) v. 75.","","75","",
+gcc-90188,A,Compositae,,Olearia,,"rufa",,"","J.Kost.",Accepted,,M,TICA,9E6C1B65-3E36-48EF-89B0-8365293CC656,234918-1,"","","""543, t. 5 a--f.""","1966",
+gcc-107380,A,Compositae,,Olearia,,"rugosa",,"","archer. ex Kuntze",Unresolved,,L,TICA,1CCEE121-DA28-40CE-83CF-A9F0053690D0,234919-1,"""Revis. Gen. Pl. 1: 315, nomen""","","315","1891",
+gcc-87404,A,Compositae,,Olearia,,"rugosa",,"","(F.Muell. ex W.Archer) Hutch.",Accepted,,M,TICA,E6D4474E-2299-4A51-B870-7D373C7C25B0,149183-3,"","","","1917",
+gcc-102502,A,Compositae,,Olearia,,"sarawaketensis",,"","Mattf.",Synonym,,M,TICA,80D2A99F-B8B4-40A7-88A4-9F46B324C3C5,,"","","","1938",gcc-64474
+gcc-137187,A,Compositae,,Olearia,,"semidentata",,"","Decne. ex Hook.",Unresolved,,L,TICA,57D8B093-00B7-401D-B7CC-EDE8FA605339,234922-1,"Fl. N. Zel. i. 115.","","i. 115.","",
+gcc-24327,A,Compositae,,Olearia,,"semidentata",,"","Decne.",Accepted,,M,TICA,E08CBFD1-3DBF-4097-B153-2CEE7A6803BE,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","115","1853",
+gcc-81209,A,Compositae,,Olearia,,"serpentina",,"","Cockayne & Allan",Unresolved,,L,TICA,5CC8D842-DBE4-4BC4-8D46-6F4A87F580F1,234923-1,"""Trans. & Proc. N. Z. Inst. lvi. 20 (1926), nomen.""","","""lvi. 20 , nomen.""","1926",
+gcc-9645,A,Compositae,,Olearia,,"serpentina",,"","G.Simpson",Synonym,,M,TICA,B98AF92D-C3E5-420A-B901-120404472A44,234924-1,"","","200","1945",gcc-142015
+gcc-91076,A,Compositae,,Olearia,,"siemssenii",,"","F.Muell.",Unresolved,,L,TICA,E63E7523-85C1-4A56-AF60-85843C5FB782,149195-3,"","","","1865",
+gcc-12738,A,Compositae,,Olearia,,"solandri",,"","(Hook.f.) Hook.f.",Accepted,,M,TICA,868638CA-1660-4A3E-9A57-17BD32F8E000,234926-1,"","","128","1864",
+gcc-128081,A,Compositae,,Olearia,,"speciosa",,"","Hutch.",Accepted,,M,TICA,57640099-8F89-4CAC-BB1F-D931096C1981,149211-3,"","","","1907",
+gcc-125173,A,Compositae,,Olearia,,"spectabilis",,"","J.Kost.",Accepted,,M,TICA,BEFBDAE8-6F6A-4391-BAA5-D26AEB861319,234928-1,"","","""546, t. 6 a--f.""","1966",
+gcc-10464,A,Compositae,,Olearia,,"steetzii",,"","F.Muell.",Unresolved,,L,TICA,2839DFD7-4B67-4728-89DD-1387688F1158,149230-3,"","","","1865",
+gcc-125384,A,Compositae,,Olearia,,"stellulata",,"","(Labill.) DC.",Accepted,,M,TICA,C5766FEC-7E6F-4E8C-BA30-D2ED016CF0E4,234930-1,"","","272","1836",
+gcc-10998,A,Compositae,,Olearia,,"stellulata",var.,"canescens","Benth.",Unresolved,,L,TICA,F3BACFDD-28D4-48B3-BAC6-148E7FC0C002,149281-3,"Flora Australiensis 3  1867","","3","1867",gcc-44677
+gcc-58214,A,Compositae,,Olearia,,"stellulata",var.,"stellulata","",Synonym,,L,TICA,6C6BCC45-6189-422F-9E00-8CB6C6C3BE2A,149479-3,"Flora Australiensis 3  1867","","3","1867",gcc-125384
+gcc-74038,A,Compositae,,Olearia,,"stellulata",f.,"stellulata","",Synonym,,L,TICA,F2101E09-423B-45EE-AD2D-307535869310,149483-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-125384
+gcc-116801,A,Compositae,,Olearia,,"stenophylla",,"","N.G.Walsh",Accepted,,M,TICA,E863B1A7-64E3-4A09-8A46-BF422C97A460,1012596-1,"Muelleria 12(2): 223 (1999)","","223","1999",
+gcc-37910,A,Compositae,,Olearia,,"stilwelliae",,"","Blakely",Accepted,,M,TICA,D302FA73-9A06-4EFD-A20F-4650117814D7,149504-3,"","","","1925",
+gcc-611,A,Compositae,,Olearia,,"stricta",,"","Benth.",Unresolved,,L,TICA,6680615D-A5FF-46A8-B896-0127B102A873,149549-3,"","","","1867",gcc-8170
+gcc-128962,A,Compositae,,Olearia,,"strigosa",,"","(Steetz) Benth.",Accepted,,L,TICA,EDAB2F1F-A9E7-42E7-B947-DB33355DBFE3,149589-3,"","","","1867",
+gcc-130535,A,Compositae,,Olearia,,"stuartii",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,972A47B1-B577-43D5-80B1-DEC0BF19F884,149635-3,"","","3","1867",
+gcc-140843,A,Compositae,,Olearia,,"stuartii",,"","F.Muell.",Unresolved,,L,TICA,187712F0-0FF4-498F-9F66-F5FBD03A1DE7,,"Fragm. (Mueller) v. 76.","","76","",
+gcc-132581,A,Compositae,,Olearia,,"suavis",,"","Cheeseman",Accepted,,M,TICA,AE5D0C99-B0C2-4032-BCE4-E3955D2A26D4,234935-1,"""Cheeseman, T. F. 1892[1891] : On some recent additions to the New Zealand flora. Transactions and Proceedings of the New Zealand Institute 24: 409-412.""","","xxiv. 1891  409.","1892",
+gcc-36908,A,Compositae,,Olearia,,"suborbiculata",,"","Colenso",Synonym,,L,TICA,64179512-5C91-43F5-B11C-4464F6E343D2,,"","","","",gcc-14754
+gcc-94508,A,Compositae,,Olearia,,"subrepanda",,"","(DC.) Hutch.",Accepted,,L,TICA,2124FA3A-B529-4F38-8ADA-8D27EA81B584,,"","","","",
+gcc-124401,A,Compositae,,Olearia,,"subspicata",,"","F.Muell.",Unresolved,,L,TICA,0B38DFCE-0144-4893-9054-D097885EBC34,,"Fragm. (Mueller) v. 78; Benth. Fl. Austral. iii 478.","","478","",
+gcc-16546,A,Compositae,,Olearia,,"subspicata",,"","(Hook.) Benth.",Accepted,,M,TICA,633ACA95-1E13-4C79-8DBD-1E9376751142,149732-3,"","","478","1867",
+gcc-32107,A,Compositae,,Olearia,,"suffruticosa",,"","D.A.Cooke",Accepted,,M,TICA,B92D2BAB-0739-4912-A368-3B7385D5E422,149757-3,"","","","1985",
+gcc-26010,A,Compositae,,Olearia,,"tasmanica",,"","W.M.Curtis",Accepted,,M,TICA,3AABCEDD-1ADC-4603-A907-3016232636BB,149785-3,"","","","1970",
+gcc-19342,A,Compositae,,Olearia,,"tenuifolia",,"","(DC.) Benth.",Accepted,,L,TICA,DEAD37DE-114F-4753-B753-23C0B8C687C4,234940-1,"","","486","1867",
+gcc-82113,A,Compositae,,Olearia,,"teretifolia",,"","(Sond.) F.Muell. ex Benth.",Accepted,,M,TICA,B7B77C5E-0EF5-41C0-A71B-714F14857704,149875-3,"Fragm. (Mueller) v. 77.","","","1867",
+gcc-120907,A,Compositae,,Olearia,,"thomsonii",,"","Cheeseman",Accepted,,M,TICA,A1D7C542-3F9E-472A-928A-C89AE1DAC7AD,234942-1,"","","","1925",
+gcc-1824,A,Compositae,,Olearia,,"tomentosa",,"","(J.C.Wendl.) Benth.",Accepted,,M,TICA,5CB2976F-E62D-42B4-89C5-0348C277CA04,,"","","","",
+gcc-48754,A,Compositae,,Olearia,,"tomentosa",,"","DC.",Unresolved,,L,TICA,7D5DE1AE-0C43-477E-A87F-5A51F609145B,234943-1,"","","252","1836",
+gcc-100934,A,Compositae,,Olearia,,"toppii",,"","Ewart & Jean White",Unresolved,,L,TICA,5CD4CBC5-7974-45A7-9DC5-9BB78D505332,234944-1,"","","","1909",
+gcc-15903,A,Compositae,,Olearia,,"townsonii",,"","Cheeseman",Accepted,,M,TICA,C61DBB93-00B5-49D0-BCF5-1D6B1829CB4D,234945-1,"","","","1925",
+gcc-132185,A,Compositae,,Olearia,,"traillii",,"","Kirk",Accepted,,M,TICA,D6AF59D7-C994-4C92-8E11-E2A0086605E6,,"","","","",
+gcc-105501,A,Compositae,,Olearia,,"traversii",,"","(F.Muell.) Hook.f.",Accepted,,M,TICA,03BF9CF6-7A4F-4CCB-8456-A5B74C857022,234948-1,"","","731","1867",
+gcc-81692,A,Compositae,,Olearia,,"traversii",,"","F.Muell. ex J.Buch.",Unresolved,,L,TICA,97FFDEBA-C172-413D-B25D-706A52FF0439,234947-1,"in Trans. N. Z Inst. vii. (1875) 337.","","vii.  337.","1875",
+gcc-16153,A,Compositae,,Olearia,,"tridens",,"","D.A.Cooke",Unresolved,,L,TICA,16F4DBEF-55E6-4D69-9EB3-1DE0A081E580,,"","","","1986",gcc-46689
+gcc-97523,A,Compositae,,Olearia,,"trifurcata",,"","Lander",Accepted,,M,TICA,FE4E4703-0E13-4A83-8087-9412B322FCE4,,"","","","",
+gcc-28956,A,Compositae,,Olearia,,"tubiflora",,"","Benth.",Unresolved,,L,TICA,8267F00C-F2F5-4A20-9E5F-35889BF5A1F4,150067-3,"Flora Australiensis 3  1867","","3","1867",
+gcc-99691,A,Compositae,,Olearia,,"tubuliflora",,"","Benth.",Accepted,,L,TICA,A7929EBD-4810-40D6-A156-98F23E22A45B,234949-1,"","","475","1867",
+gcc-143990,A,Compositae,,Olearia,,"turczaninovii",,"","F.Muell.",Unresolved,,L,TICA,0FF922B5-A006-44C6-9E45-FD1F1BDE9721,150088-3,"","","","1865",
+gcc-15006,A,Compositae,,Olearia,,"uniflora",,"","Colenso",Synonym,,M,TICA,C64DA81B-17FA-4461-9ED0-1BC8745716FD,,"","","","",gcc-45250
+gcc-13555,A,Compositae,,Olearia,,"velutina",,"","J.Kost.",Accepted,,M,TICA,B2F3BB60-ED1C-484A-98BC-193612F22921,234952-1,"","","""540, t. 3 j--p""","1966",
+gcc-86987,A,Compositae,,Olearia,,"vernicosa",,"","F.Muell.",Unresolved,,L,TICA,17FCC628-83C6-4709-A9A9-7C34B797DAA2,150102-3,"","","","1865",
+gcc-117530,A,Compositae,,Olearia,,"vernonioides",,"","C.T.White & W.D.Francis",Accepted,,L,TICA,A85670B9-B57F-4C4F-AABA-C0E6BA34BFB5,,"","","","1927",
+gcc-142015,A,Compositae,,Olearia,,"virgata",,"","(Hook.f.) Hook.f.",Accepted,,M,TICA,FE1BA544-A642-4091-95FC-F8B974E856ED,234955-1,"","","128","1864",
+gcc-65630,A,Compositae,,Olearia,,"virgata",subsp.,"centralis","Heads",Synonym,,L,TICA,56146FEA-D69E-4E8B-86A6-C853D2F43C12,1002564-1,"","","","1998",gcc-142015
+gcc-38800,A,Compositae,,Olearia,,"virgata",var.,"divaricata","(Cockayne) Allan",Synonym,,L,TICA,1A4EAB6B-F2C7-4EEC-A416-47F79CFD6900,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","671-672","1961",gcc-32592
+gcc-5141,A,Compositae,,Olearia,,"virgata",subsp.,"implicita","(G.Simpson) Heads",Synonym,,L,TICA,B1C47C3A-ABE2-4ABE-816E-09941D4EC03D,1002562-1,"","","","1998",gcc-142015
+gcc-71569,A,Compositae,,Olearia,,"virgata",var.,"laxiflora","(Kirk) Allan",Synonym,,L,TICA,27701E7E-31A0-4CA0-A866-F72D2F7FFB92,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","672","1961",gcc-32592
+gcc-66696,A,Compositae,,Olearia,,"virgata",var.,"lineata","Kirk",Synonym,,L,TICA,11643A41-AC04-47B4-90F0-D0D9F105481B,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","276","1899",gcc-115442
+gcc-62451,A,Compositae,,Olearia,,"virgata",var.,"ramuliflora","(Colenso) Kirk",Synonym,,L,TICA,41E30079-6E3C-4453-9338-AEDAEB67EB22,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","276","1899",gcc-142015
+gcc-53087,A,Compositae,,Olearia,,"virgata",var.,"serpentina","(G.Simpson) Allan",Synonym,,L,TICA,2EF9833A-6EBC-4560-84AF-63651BD876F8,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","671","1961",gcc-142015
+gcc-59118,A,Compositae,,Olearia,,"virgata",subsp.,"serpentina","(G.Simpson) Heads",Synonym,,L,TICA,C199ED6C-3D91-4F69-AA7A-93EC0DBF30A7,1002563-1,"","","","1998",gcc-142015
+gcc-67620,A,Compositae,,Olearia,,"virgata",subsp.,"virgata","",Synonym,,L,TICA,0CD4185E-89BB-4427-97D4-D8A1DFF5909B,,"","","","",gcc-142015
+gcc-72106,A,Compositae,,Olearia,,"virgata",var.,"virgata","",Synonym,,L,TICA,E60CB166-0932-42B8-AA69-FB628CF5D6F6,,"","","","",gcc-142015
+gcc-59659,A,Compositae,,Olearia,,"virgata",var.,"γ","Hook.f.",Synonym,,L,TICA,2E449C28-FF3B-4A97-8D14-983400FCD131,,"""Hooker, J. D. 1864: Handbook of the New Zealand Flora: a systematic description of the native plants of New Zealand and the Chatham, Kermadec's, Lord Auckland's, Campbell's and Macquarie's Islands. Part I.  London,  Reeve. 392 p. ""","","128","1864",gcc-115442
+gcc-136055,A,Compositae,,Olearia,,"viscidula",,"","(F.Muell.) Benth.",Accepted,,M,TICA,3D002211-C02A-4F6C-8EB9-EB48A917D5F8,150107-3,"","","","1867",
+gcc-111683,A,Compositae,,Olearia,,"viscosa",,"","(Labill.) Benth.",Accepted,,L,TICA,805996C6-1A93-4A7F-A8C0-B3A7B080DC62,234957-1,"Fl. Austral. 3","","468","1867",
+gcc-22843,A,Compositae,,Olearia,,"willcoxii",,"","Petrie",Synonym,,L,TICA,D80146FD-043C-4494-98F7-2A44E34050ED,,"","","","1912",gcc-8688
+gcc-93931,A,Compositae,,Olearia,,"xanthophylla",,"","Colenso",Synonym,,L,TICA,916EC3FB-1466-49B8-9655-8BCC40BCD534,,"","","","",gcc-140475
+gcc-78761,A,Compositae,,Olearia,,"xerophila",,"","(F.Muell.) F.Muell. ex Benth.",Accepted,,M,TICA,8B196FD2-C3B1-4EB8-81D1-69E59CAC1F30,150187-3,"","","3","1867",
+gcc-90596,A,Compositae,,Olearia,,"xerophila",,"","F.Muell.",Unresolved,,L,TICA,5BB6F03C-28A3-431E-AEDE-846B3E063223,,"Fragm. (Mueller) v. 76.","","76","",

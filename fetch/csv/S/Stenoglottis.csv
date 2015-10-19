@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-197138,A,Orchidaceae,,Stenoglottis,,"calcarata",,"","Rchb.f.",Synonym,,H,WCSP,197138,659245-1,"Flora","48: 180","","1865",kew-53514
+kew-197139,A,Orchidaceae,,Stenoglottis,,"fimbriata",,"","Lindl.",Accepted,,H,WCSP,197139,659246-1,"Companion Bot. Mag.","2: 210","","1837",
+kew-461701,A,Orchidaceae,,Stenoglottis,,"fimbriata",var.,"saxicola","Kraenzl.",Synonym,,L,WCSP,461701,77105136-1,"Orchid. Gen. Sp.","1: 567","","1898",kew-197139
+kew-461702,A,Orchidaceae,,Stenoglottis,,"fimbriata",subsp.,"saxicola","(Kraenzl.) G.McDonald",Synonym,,L,WCSP,461702,77105137-1,"Orchids S. Africa","39(2): 11","","2008",kew-197139
+kew-461700,A,Orchidaceae,,Stenoglottis,,"inandensis",,"","G.McDonald & D.G.A.Styles",Accepted,,H,WCSP,461700,77105135-1,"Orchids S. Africa","39(2): 10","","2008",
+kew-197140,A,Orchidaceae,,Stenoglottis,,"longifolia",,"","Hook.f.",Accepted,,H,WCSP,197140,659247-1,"Bot. Mag.","117: t. 7186","","1891",
+kew-197141,A,Orchidaceae,,Stenoglottis,,"macloughlinii",,"","(L.Bolus) G.McDonald",Synonym,Invalid,H,WCSP,197141,986991-1,"S. African Orchid J.","26: 117","","1995",kew-197142
+kew-267131,A,Orchidaceae,,Stenoglottis,,"macloughlinii",,"","(L.Bolus) G.McDonald ex J.M.H.Shaw",Synonym,,H,WCSP,267131,70029740-1,"Orchid Rev.","111: 79","","2003",kew-197142
+kew-468136,A,Orchidaceae,,Stenoglottis,,"modestus",,"","Truter & Joliffe",Accepted,,H,WCSP,468136,77112658-1,"Orchids S. Africa","42: 12","","2011",
+kew-374118,A,Orchidaceae,,Stenoglottis,,"molweniensis",,"","G.McDonald ex J.M.H.Shaw",Accepted,,H,WCSP,374118,77087296-1,"Orchid Rev.","115(1278, Suppl.): 24","","2007",
+kew-461651,A,Orchidaceae,,Stenoglottis,,"molweniensis",,"","G.McDonald",Synonym,Illegitimate,H,WCSP,461651,77105138-1,"Orchids S. Africa","39(2): 12","","2008",kew-374118
+kew-197142,A,Orchidaceae,,Stenoglottis,,"woodii",,"","Schltr.",Accepted,,H,WCSP,197142,659248-1,"Ann. Transvaal Mus.","10: 242","","1924",
+kew-374119,A,Orchidaceae,,Stenoglottis,,"woodii",f.,"galantha","J.M.H.Shaw",Synonym,,L,WCSP,374119,77087295-1,"Orchid Rev.","115(1278, Suppl.): 24","","2007",kew-197142
+kew-197143,A,Orchidaceae,,Stenoglottis,,"zambesiaca",,"","Rolfe",Accepted,,H,WCSP,197143,659249-1,"Fl. Trop. Afr.","7: 190","","1897",

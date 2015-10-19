@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23716,A,Compositae,,Eleutheranthera,,"areolata",,"","Klatt",Synonym,,M,TICA,23541CBC-553F-4DA7-A1F4-2BD75C8C6BF0,89936-2,"Leopoldina 25","","107","1889",gcc-33587
+gcc-10995,A,Compositae,,Eleutheranthera,,"discoidea",,"","(Less. ex Less.) M.Gómez",Synonym,,M,TICA,69BB344E-486D-4638-8054-148DC4B7EA5C,202979-1,"","","115","1889",gcc-33587
+gcc-137320,A,Compositae,,Eleutheranthera,,"divaricata",,"","(Rich.) Millsp.",Accepted,,M,TICA,AE2826B1-7149-4024-AC90-EE3553073C4D,89938-2,"""Publ. Field Columbian Mus., Bot. Ser. 1""","","53","1895",
+gcc-26618,A,Compositae,,Eleutheranthera,,"madagascariensis",,"","Humbert",Synonym,,M,TICA,09DF5CF2-DDE3-403F-B294-3130E4D9C962,,"","","","1923",gcc-79397
+gcc-108845,A,Compositae,,Eleutheranthera,,"ovalifolia",,"","Baill.",Synonym,,M,TICA,DFF9BA6F-5344-4383-9860-AD44DC69F667,,"","","","",gcc-33587
+gcc-27585,A,Compositae,,Eleutheranthera,,"ovata",,"","Poit. ex Steud.",Synonym,,M,TICA,B8FB6CC3-B65F-4125-ACC6-32FC5E782788,,"","","","1802",gcc-33587
+gcc-87812,A,Compositae,,Eleutheranthera,,"prostrata",,"","(L.) Sch.Bip.",Synonym,,M,TICA,FD56B2B9-22CB-40EC-907B-7E1384DFB425,202983-1,"","","239","1866",gcc-6746
+gcc-67123,A,Compositae,,Eleutheranthera,,"prostrata",var.,"leiocarpa","(Cass.) Hochr.",Synonym,,L,TICA,563F725D-8A28-4108-9F08-D460B8B6705D,,"Candollea 5 (1934)","","322","1934",gcc-33587
+gcc-62712,A,Compositae,,Eleutheranthera,,"prostrata",var.,"portoriccensis","(DC.) Hochr.",Synonym,,L,TICA,E97FAF00-AD66-4DDE-AA76-B0F0CAAC70EC,,"Candollea 5 (1934)","","322","1934",gcc-33587
+gcc-148281,A,Compositae,,Eleutheranthera,,"prostrata",var.,"prostrata","",Synonym,,L,TICA,E31E54F8-E687-40FA-A724-3F727D84767F,,"","","","",gcc-6746
+gcc-33587,A,Compositae,,Eleutheranthera,,"ruderalis",,"","(Sw.) Sch.Bip.",Accepted,,M,TICA,40B4EE41-5C14-4DC1-AF74-3E45A9AF663D,75097-3,"Bot. Zeitung (Berlin) 24","","165","1866",
+gcc-79358,A,Compositae,,Eleutheranthera,,"ruderalis",,"","Hitchc.",Unresolved,,L,TICA,C35AB7AE-5EB2-4027-976F-6B484C01F1EC,202985-1,"in Missouri Bot. Gard. Rep. iv (1893) 99.","","iv  99","1893",
+gcc-86344,A,Compositae,,Eleutheranthera,,"ruderalis",,"","Pirotta ex Bose",Unresolved,Illegitimate,L,TICA,89621A77-973A-4F02-82F9-7AB402830A97,,"","","","",
+gcc-57499,A,Compositae,,Eleutheranthera,,"ruderalis",var.,"radiata","Pruski",Synonym,,L,TICA,2836CC58-16C8-411E-8A67-86CCD24F9700,321888-2,"","","318","2001",gcc-33587
+gcc-51562,A,Compositae,,Eleutheranthera,,"ruderalis",var.,"ruderalis","",Synonym,,L,TICA,D1864FA7-C4AD-4D37-8FA0-5F9B5DC2012B,,"","","","",gcc-33587
+gcc-122622,A,Compositae,,Eleutheranthera,,"tenella",,"","(Kunth) H.Rob.",Accepted,,M,TICA,E480331C-4013-4ABD-91FA-CC6C43A38831,1073311-2,"Phytologia 72","","146","1992",

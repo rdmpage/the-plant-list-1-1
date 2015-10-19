@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79852,A,Compositae,,Gnephosis,,"acicularis",,"","Benth.",Accepted,,M,TICA,2FF28791-D16E-4092-8F9B-6C4CD40A6AA5,210253-1,"Fl. Austral. 3","","572","1867",
+gcc-131161,A,Compositae,,Gnephosis,,"angianthoides",,"","(Steetz) Anderb.",Accepted,,M,TICA,341E3DFB-ACAD-439B-810D-E03EF1E3C9A6,962986-1,"Opera Bot. 104","","130","1991",
+gcc-143074,A,Compositae,,Gnephosis,,"arachnoidea",,"","Turcz.",Accepted,,L,TICA,D488CA3E-D61D-41AA-9806-FB160AB9D709,165619-3,"","","","1851",
+gcc-59704,A,Compositae,,Gnephosis,,"arachnoidea",var.,"arachnoidea","",Synonym,,L,TICA,7AAB128E-C16F-459F-82EB-9893B2BEB0CF,165639-3,"Flora Australiensis","","572","1867",gcc-143074
+gcc-34340,A,Compositae,,Gnephosis,,"arachnoidea",var.,"foliata","(Sond.) Benth.",Synonym,,L,TICA,C5B837FE-BBF1-4D2C-9B0F-3FA4C6385188,165663-3,"","","","1867",gcc-143074
+gcc-104067,A,Compositae,,Gnephosis,,"baracchiana",,"","Ewart & Jean White",Synonym,,M,TICA,747E3C81-5BB4-4A5B-8CBC-A2B77F94FE21,210255-1,"","","542","1909",gcc-126276
+gcc-46092,A,Compositae,,Gnephosis,,"brevifolia",,"","(A.Gray) Benth.",Accepted,,M,TICA,A1F7ACC7-6428-4E9C-A729-5571EA4C46D3,210256-1,"Fl. Austral. 3","","572","1867",
+gcc-41264,A,Compositae,,Gnephosis,,"burkittii",,"","Benth.",Synonym,,M,TICA,CABD610C-AC18-49BE-B850-4C75592BF91C,210257-1,"Fl. Austral. 3","","570","1867",gcc-24262
+gcc-89984,A,Compositae,,Gnephosis,,"cassiniana",,"","P.S.Short",Accepted,,M,TICA,32BA2498-CDB3-4990-913B-82F786C610DB,939807-1,"","","242","1990",
+gcc-94917,A,Compositae,,Gnephosis,,"codonopappus",,"","F.Muell.",Synonym,Invalid,M,TICA,C6435B6A-1818-4582-A58F-8E20DD4E7200,165885-3,"","","","1875",gcc-43160
+gcc-36998,A,Compositae,,Gnephosis,,"cyathopappa",,"","Benth.",Synonym,,L,TICA,D4CB6432-2A53-4F45-AD4D-44885CCFF724,210259-1,"Fl. Austral. 3","","571","1867",gcc-143074
+gcc-85457,A,Compositae,,Gnephosis,,"drummondii",,"","(A.Gray) P.S.Short",Accepted,,M,TICA,67D748AF-B919-41D8-8F38-78B5228539A0,943921-1,"Muelleria 6:317 (1987)","","317","1987",
+gcc-13646,A,Compositae,,Gnephosis,,"eriocarpa",,"","(F.Muell.) Benth.",Accepted,,M,TICA,DA6513D3-4533-4F57-AB9E-19619394595F,210260-1,"Fl. Austral. 3","","570","1867",
+gcc-136858,A,Compositae,,Gnephosis,,"eriocephala",,"","(A.Gray) Benth.",Accepted,,M,TICA,AE1EE2C8-ABAD-449B-B3F9-ED306F6B3220,210261-1,"Fl. Austral. 3","","573","1867",
+gcc-13446,A,Compositae,,Gnephosis,,"exilis",,"","W.Fitzg.",Synonym,,M,TICA,CF665706-C8CC-4A94-AB1B-190CF7291AF1,166102-3,"in Journ. W. Austral. Nat. Hist. Soc. ii. 24.","","","1905",gcc-101102
+gcc-93740,A,Compositae,,Gnephosis,,"foliata",,"","(Sond.) H.Eichler",Synonym,,L,TICA,5CA5174C-7870-4E88-ABA2-8B5A7432D1ED,166163-3,"Taxon","","","1963",gcc-143074
+gcc-101671,A,Compositae,,Gnephosis,,"gnephosioides",,"","(F.Muell.) Druce",Synonym,,L,TICA,54909E92-F8DA-4F4A-BC35-9D4D8B9BAC5B,210264-1,"","","624","1917",gcc-143074
+gcc-27568,A,Compositae,,Gnephosis,,"gnephosoides",,"","Domin",Unresolved,,L,TICA,65A8C713-8B4B-4FC0-896C-32F673BC0DE2,,"""Mem. Soc. Sci. Boheme 1921-22, No. 2, 121 (1923).""","","121","",
+gcc-26453,A,Compositae,,Gnephosis,,"gynotricha",,"","Diels",Accepted,,M,TICA,3FE2941A-54AF-4F04-BE67-30E4426C131F,,"","","","1905",
+gcc-123820,A,Compositae,,Gnephosis,,"intonsa",,"","S.Moore",Accepted,,M,TICA,2CC5F70E-62D7-4193-A5F7-CF46702EC0E3,210267-1,"","","197","1899",
+gcc-30323,A,Compositae,,Gnephosis,,"leptoclada",,"","(F.Muell.) Benth.",Synonym,,L,TICA,7927847A-A7A7-47B0-8D76-3819BEBE6C0D,210268-1,"Fl. Austral. 3","","571","1867",gcc-143074
+gcc-77705,A,Compositae,,Gnephosis,,"macrocephala",,"","Turcz.",Accepted,,M,TICA,DC1DA8CA-6A9C-446B-A462-6776E8CB306A,166396-3,"","","","1851",
+gcc-11205,A,Compositae,,Gnephosis,,"multiflora",,"","(P.S.Short) P.S.Short",Accepted,,M,TICA,DAFF089E-8E60-4F35-BFEC-14F161687611,943922-1,"","","317","1987",
+gcc-12016,A,Compositae,,Gnephosis,,"pygmaea",,"","(A.Gray) Benth.",Synonym,,M,TICA,DAE99C16-0AF6-4B9A-B0EB-166378F261FF,210270-1,"Fl. Austral. 3","","572","1867",gcc-18960
+gcc-51494,A,Compositae,,Gnephosis,,"rotundifolia",,"","Diels",Synonym,,L,TICA,C9A1C22D-AB48-4815-B7DE-5F82518A1FE2,,"","","","",gcc-131805
+gcc-20466,A,Compositae,,Gnephosis,,"setifera",,"","P.S.Short",Accepted,,M,TICA,8C54BFE7-2FEE-4E25-931A-25D7362250E5,939808-1,"","","244","1990",
+gcc-2569,A,Compositae,,Gnephosis,,"skirrophora",,"","(Sond. & F.Muell. ex Sond.) Benth.",Synonym,,M,TICA,2FCE4227-BEC3-412E-919A-04B4A29B7EAA,210272-1,"Fl. Austral. 3","","570","1867",gcc-43160
+gcc-110791,A,Compositae,,Gnephosis,,"tenuissima",,"","Cass.",Accepted,,M,TICA,02150E27-BE39-4092-AF83-B1B6B70D9042,210273-1,"","","43","1820",
+gcc-142779,A,Compositae,,Gnephosis,,"tridens",,"","(P.S.Short) P.S.Short",Accepted,,M,TICA,0D4F5094-BDF9-412C-AE5F-FA69DBA8CD8F,943923-1,"","","318","1987",
+gcc-35058,A,Compositae,,Gnephosis,,"trifida",,"","(P.S.Short) P.S.Short",Accepted,,M,TICA,8D6909BA-6B34-4602-A64E-4103E8B5D51F,943924-1,"","","318","1987",
+gcc-110075,A,Compositae,,Gnephosis,,"uniflora",,"","(Turcz.) P.S.Short",Accepted,,M,TICA,23C763D5-576D-481D-BA72-B00B0D34E900,943925-1,"","","318","1987",

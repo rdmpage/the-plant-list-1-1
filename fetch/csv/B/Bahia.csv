@@ -1,0 +1,79 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-84339,A,Compositae,,Bahia,,"absinthifolia",,"","Benth.",Accepted,,L,TICA,53FA58C6-7BEF-4277-87C4-765D4C1E9AB0,183946-1,"Pl. Hartw. 18","","18","1839",
+gcc-47483,A,Compositae,,Bahia,,"absinthifolia",var.,"absinthifolia","",Synonym,,L,TICA,1FDBE936-78BC-45F8-B9E1-57FB5BBCDBBF,,"","","","",gcc-84339
+gcc-66201,A,Compositae,,Bahia,,"absinthifolia",var.,"dealbata","(A.Gray) A.Gray",Synonym,,L,TICA,9B7F60C5-9758-41A5-B7B5-CCD2DE0E034F,28695-2,"","","121","1852",gcc-84339
+gcc-91321,A,Compositae,,Bahia,,"achillioides",,"","DC.",Synonym,,L,TICA,08E2664E-17AC-49CF-9E72-861EEE5E9832,183947-1,"Prodr. (DC.) 5: 657","","657","1836",gcc-55809
+gcc-111787,A,Compositae,,Bahia,,"alternifolia",,"","Less. ex Kuntze",Unresolved,,L,TICA,02FDD33A-B1BD-4BC6-98EC-B3ED9ABD44A5,183948-1,"""Revis. Gen. Pl. 1: 336, in syn.""","","336","1891",
+gcc-2878,A,Compositae,,Bahia,,"alternifolia",,"","Less.",Accepted,,M,TICA,6F4ABCFF-A803-4CD7-8497-055183F3A63F,28697-2,"Revis. Gen. Pl. 1: 336. 1891","","336","1891",
+gcc-128535,A,Compositae,,Bahia,,"ambigua",,"","(A.Gray) A.Gray",Synonym,,M,TICA,5E524FDF-D499-4BDE-8105-DA38B1155928,,"","","382","1876",gcc-82609
+gcc-1405,A,Compositae,,Bahia,,"ambrosioides",,"","Lag.",Accepted,,M,TICA,007A7BD4-2CD6-4DA0-B5CA-02892E375077,183950-1,"","","30","1816",
+gcc-43768,A,Compositae,,Bahia,,"angustifolia",,"","(Spreng.) DC.",Synonym,,M,TICA,6EEEB560-4261-4FDD-B6A1-511D9649860B,183951-1,"","","656","1836",gcc-141779
+gcc-129266,A,Compositae,,Bahia,,"anthemoides",,"","(Kunth) A.Gray",Synonym,,M,TICA,9635F8F3-79E3-4D68-977C-DBE58F0F80A1,,"","","40","1879",gcc-84432
+gcc-43961,A,Compositae,,Bahia,,"arachnoidea",,"","Fisch. & Avé-Lall.",Synonym,,M,TICA,322BFD0A-228F-4EB6-A449-51741C106765,,"","","63","1842",gcc-24587
+gcc-125059,A,Compositae,,Bahia,,"aristata",,"","Rydb.",Accepted,,M,TICA,EA7D2BBB-1CC8-4730-BBC8-D234D5EF5B20,28700-2,"N. Amer. Fl. 34","","36","1914",
+gcc-141967,A,Compositae,,Bahia,,"artemisiifolia",,"","Less.",Synonym,,M,TICA,0C5D329E-970A-415E-ABFC-F89D87433C1E,183955-1,"","","160","1830",gcc-78784
+gcc-59925,A,Compositae,,Bahia,,"artemisiifolia",var.,"artemisiifolia","",Synonym,,L,TICA,04D7BE74-F969-4601-930B-9A5515E0B643,,"","","","",gcc-78784
+gcc-65431,A,Compositae,,Bahia,,"artemisiifolia",var.,"douglasii","DC.",Synonym,,L,TICA,9D5A07A8-8559-4A8C-9028-C6BFA25EAE94,28702-2,"","","657","1836",gcc-78784
+gcc-5655,A,Compositae,,Bahia,,"autumnalis",,"","Ellison",Accepted,,M,TICA,070AE899-7653-4A52-9977-0A89C3BB14C6,183956-1,"Rhodora 66","","199","1964",
+gcc-77346,A,Compositae,,Bahia,,"bigelovii",,"","A.Gray",Accepted,,M,TICA,3E6218CA-9BFA-4633-B7D2-66AA8AB6AD80,183957-1,"","","96","1859",
+gcc-145182,A,Compositae,,Bahia,,"biternata",,"","A.Gray",Accepted,,L,TICA,592A9133-615A-43C6-8A85-FFD60A2586E4,,"","","","1853",
+gcc-144829,A,Compositae,,Bahia,,"chrysanthemoides",,"","(A.Gray) A.Gray",Synonym,,L,TICA,829B1236-3908-4D2D-A916-FF01D8A3CD98,183959-1,"","","28","1883",gcc-51682
+gcc-88448,A,Compositae,,Bahia,,"confertiflora",,"","DC.",Synonym,,M,TICA,887CFA71-9AC3-4D86-8287-7F71D74FCB58,183960-1,"","","657","1836",gcc-94474
+gcc-66039,A,Compositae,,Bahia,,"confertiflora",var.,"confertiflora","",Synonym,,L,TICA,DB436E37-2A00-470F-90D7-CB93F67C791E,,"","","","",gcc-94474
+gcc-29609,A,Compositae,,Bahia,,"confertiflora",var.,"trifida","(Nutt.) A.Gray",Synonym,,L,TICA,0F0F01CE-34A6-4C5C-8264-36BB55B0BBF4,28707-2,"Bot. California 1","","380","1876",gcc-94474
+gcc-99955,A,Compositae,,Bahia,,"cuneata",,"","Kellogg",Synonym,,L,TICA,7A5C2371-FD69-4909-80A4-9984879D2813,28708-2,"Proc. Calif. Acad. Sci. 5","","49","1873",gcc-53719
+gcc-15039,A,Compositae,,Bahia,,"dealbata",,"","A.Gray",Synonym,,L,TICA,53912E4D-016C-4C65-BFD7-1BD8750564C8,183962-1,"","","99","1849",gcc-84339
+gcc-14471,A,Compositae,,Bahia,,"depauperata",,"","S.F.Blake",Accepted,,M,TICA,4BD41BA6-EC12-44C8-9C04-1ADB4493AD28,,"Brittonia 2","","","1937",
+gcc-83294,A,Compositae,,Bahia,,"depressa",,"","M.E.Jones",Synonym,,M,TICA,33CE94DB-79C2-4E69-9367-73F46A3B237B,28711-2,"Contr. W. Bot.","","31","1930",gcc-18124
+gcc-135780,A,Compositae,,Bahia,,"desertorum",,"","M.E.Jones",Synonym,,M,TICA,3F91AF64-359A-45EA-9B78-EAB86F89678E,309118-2,"Zoe 2: 249. 1891","","249","1891",gcc-111693
+gcc-96500,A,Compositae,,Bahia,,"dissecta",,"","(A.Gray) Britton",Synonym,,L,TICA,5CCF5256-6F49-47AC-9935-91B870B87FF6,28713-2,"Trans. New York Acad. Sci. 8","","68","1889",gcc-51682
+gcc-54581,A,Compositae,,Bahia,,"dissecta",var.,"anisopappa","S.F.Blake",Unresolved,,L,TICA,D6AE8E15-65A8-484D-8381-6F3166020AAE,28714-2,"","","319","1935",gcc-51682
+gcc-152219,A,Compositae,,Bahia,,"dissecta",var.,"dissecta","",Synonym,,L,TICA,52925DEA-4C31-4370-897C-95100826FA28,,"","","","",gcc-51682
+gcc-93281,A,Compositae,,Bahia,,"ehrenbergii",,"","Sch.Bip. ex Rydb.",Synonym,,M,TICA,A2D506DD-9088-4877-A41E-8A62CB56DA67,28715-2,"N. Amer. Fl. 34","","35","1914",gcc-139766
+gcc-144745,A,Compositae,,Bahia,,"gilliesii",,"","A.Gray",Synonym,,M,TICA,009A9413-5E02-405A-A042-FECF161A1399,183969-1,"","","28","1883",gcc-3245
+gcc-88778,A,Compositae,,Bahia,,"glandulosa",,"","Greenm.",Accepted,,M,TICA,A6D28791-0644-4968-B180-803A230EF245,28716-2,"Proc. Amer. Acad. Arts 39","","116","1903",
+gcc-137360,A,Compositae,,Bahia,,"gracilis",,"","Hook. & Arn.",Synonym,,L,TICA,26A10A68-0384-44D9-A4FB-EE4BF4EF22C3,183971-1,"","","353","",gcc-53719
+gcc-137487,A,Compositae,,Bahia,,"integrifolia",,"","(A.Gray) J.F.Macbr.",Synonym,Illegitimate,M,TICA,9C26302E-6665-44EE-8356-EE8E37819E61,28717-2,"Contr. Gray Herb. 56: 39","","39","1918",gcc-111693
+gcc-35493,A,Compositae,,Bahia,,"integrifolia",,"","(Hook.) DC.",Synonym,,L,TICA,5F76B975-4109-4A3D-8E57-41CD538D9014,183972-1,"","","656","1836",gcc-53719
+gcc-156044,A,Compositae,,Bahia,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,DFE8AE1E-B09D-46BC-AF5E-E565B5183B1B,,"","","","",gcc-53719
+gcc-68185,A,Compositae,,Bahia,,"integrifolia",var.,"ourolepis","(S.F.Blake) W.L.Ellison",Synonym,,L,TICA,F56A6E1F-27DD-43B6-AF6B-DCE8BE6E64C6,1091795-2,"Brittonia 23","","276","1971",gcc-115555
+gcc-84131,A,Compositae,,Bahia,,"lanata",,"","(Pursh) DC.",Synonym,,M,TICA,8D08437B-FF11-452E-95AE-75D7674A8BEB,30023737-2,"Prodr. (DC.) 5: 657","","657","1836",gcc-37799
+gcc-99710,A,Compositae,,Bahia,,"lanata",,"","(Pursh) Nutt.",Unresolved,,L,TICA,FA700016-868D-4936-B9FD-98FAC9194081,60440464-2,"""Trans. Amer. Philos. Soc. n.s., 7: 373. 1841 [2 Apr 1841]""","","373","1841",
+gcc-2597,A,Compositae,,Bahia,,"lanata",var.,"grandiflora","A.Gray",Synonym,,L,TICA,47F5ED08-E525-4B4B-9E57-04C5D5F9A13C,28719-2,"""Geological Survey of California, Botany 1:""","","381","1876",gcc-66332
+gcc-71893,A,Compositae,,Bahia,,"lanata",var.,"lanata","",Synonym,,L,TICA,9A426152-2854-4DC7-828F-F99C2ECE1C05,,"","","","",gcc-37799
+gcc-112377,A,Compositae,,Bahia,,"latifolia",,"","Lindl.",Synonym,Illegitimate,M,TICA,8CC07729-2845-4D10-839A-B549419A262F,,"","","","1853",gcc-24587
+gcc-27420,A,Compositae,,Bahia,,"latifolia",,"","Benth.",Synonym,,M,TICA,300F3A30-1E74-4CCF-93E7-32B570B6B22E,183975-1,"","","30","1844",gcc-37799
+gcc-111433,A,Compositae,,Bahia,,"leucophylla",,"","DC.",Synonym,,L,TICA,6CCD3C19-65A0-451E-A9EE-B318E384689B,28722-2,"Prodr. (DC.) 5: 657","","657","1836",gcc-56025
+gcc-88191,A,Compositae,,Bahia,,"leucophylla",,"","D.C.Eaton",Synonym,Illegitimate,L,TICA,F4FB0C70-23F9-433A-A864-7EE600CF09A7,183977-1,"","","17","1871",gcc-53719
+gcc-1895,A,Compositae,,Bahia,,"multiflora",,"","(Nutt.) Nutt.",Synonym,,L,TICA,5F043A55-A9E5-4395-84F7-036BABCFADF7,,"","","373","1841",gcc-53719
+gcc-46603,A,Compositae,,Bahia,,"neomexicana",,"","(A.Gray) A.Gray",Synonym,,M,TICA,3558B85F-96FC-4B84-9B73-565E14956BE6,183980-1,"","","27","1883",gcc-3245
+gcc-131212,A,Compositae,,Bahia,,"nepetifolia",,"","A.Gray",Synonym,,M,TICA,9E654A96-B222-4460-B03C-E05E0DE05600,183981-1,"Proc. Amer. Acad. Arts 5","","184","1861",gcc-140966
+gcc-27075,A,Compositae,,Bahia,,"nudicaulis",,"","A.Gray",Synonym,,M,TICA,BCEAC67C-ADA3-4BCC-9BBB-320D7C9B0F2E,183982-1,"","","27","1883",gcc-111693
+gcc-65714,A,Compositae,,Bahia,,"nudicaulis",var.,"desertorum","(M.E.Jones) Cronquist",Synonym,,L,TICA,6F2E97FA-11A4-4175-8F8E-C8F468D35EB2,979376-1,"","","114","1994",gcc-111693
+gcc-58956,A,Compositae,,Bahia,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,8C684393-650F-4516-8CFB-92A826798E37,,"","","","",gcc-111693
+gcc-4820,A,Compositae,,Bahia,,"nudicaulis",var.,"oblongifolia","(A.Gray) Cronquist",Synonym,,L,TICA,F5E655C3-12CC-44D4-9CC8-08F86DF1E297,979375-1,"","","113","1994",gcc-111693
+gcc-57584,A,Compositae,,Bahia,,"nudicaulis",var.,"ourolepis","(S.F.Blake) Cronquist",Synonym,,L,TICA,28DB76F3-9878-4138-87B8-87814628FF7B,979377-1,"","","114","1994",gcc-111693
+gcc-88948,A,Compositae,,Bahia,,"oblongifolia",,"","(A.Gray) A.Gray",Synonym,,M,TICA,670B97ED-6869-455D-B4C4-80918FAAC406,183983-1,"","","27","1883",gcc-111693
+gcc-111868,A,Compositae,,Bahia,,"oppositifolia",,"","(Nutt.) DC.",Synonym,,M,TICA,D0A0963E-B2FF-404C-9782-B41FAA8D158E,28726-2,"Prodr. (DC.) 5: 656","","656","1836",gcc-37674
+gcc-52329,A,Compositae,,Bahia,,"oppositifolia",,"","(Nutt.) A.Gray",Synonym,,M,TICA,57315102-FCB9-4EAE-920F-6109D0E0C7E0,,"","","","",gcc-37674
+gcc-96239,A,Compositae,,Bahia,,"oppositifolia",,"","Nutt.",Unresolved,,L,TICA,6A8EBDC1-591B-45BC-A74B-9113948DBB5B,,"","","","",gcc-138980
+gcc-114190,A,Compositae,,Bahia,,"ourolepis",,"","S.F.Blake",Synonym,,M,TICA,712D1E58-C78F-4BF2-B38B-B944988F4584,309670-2,"Proc. Biol. Soc. Wash. 35","","175","1922",gcc-111693
+gcc-106945,A,Compositae,,Bahia,,"palmeri",,"","S.Watson",Synonym,,M,TICA,4BB0A0E9-B070-432F-A1A5-A8F77FF69832,28728-2,"Proc. Amer. Acad. Arts 24","","83","1889",gcc-132707
+gcc-133049,A,Compositae,,Bahia,,"palmeri",,"","A.Gray",Unresolved,,L,TICA,DCD25A5C-A553-454D-B169-E4A1A10C360E,183986-1,"Syn. Fl. N. Am. ii. I. 452.","","ii. I. 452","",
+gcc-6921,A,Compositae,,Bahia,,"parviflora",,"","A.Gray",Synonym,,M,TICA,D4DF11A0-0337-47E8-B319-0CDD1DF6C8DA,,"","","382","1876",gcc-82609
+gcc-25112,A,Compositae,,Bahia,,"pedata",,"","A.Gray",Accepted,,M,TICA,48C5334D-E03C-4DEB-9BDC-2E5F0DBFCAF8,183989-1,"","","123","1852",
+gcc-87283,A,Compositae,,Bahia,,"pringlei",,"","Greenm.",Accepted,,M,TICA,85D7B4C0-5F7D-4B06-ADE6-7CEDFE661C8D,28731-2,"Proc. Amer. Acad. Arts 32","","309","1897",
+gcc-80129,A,Compositae,,Bahia,,"resinosa",,"","(Hook. & Arn.) DC.",Synonym,,L,TICA,B0FD3F59-AFEC-4C93-951D-6CEFB4F2C1FE,,"","","678","",gcc-125273
+gcc-15364,A,Compositae,,Bahia,,"rubella",,"","A.Gray",Synonym,,M,TICA,62218D13-D759-4FF2-9EF5-1C72F0913935,183992-1,"","","95","1859",gcc-114918
+gcc-119228,A,Compositae,,Bahia,,"schaffneri",,"","S.Watson",Accepted,,M,TICA,A1F1DCB8-9162-450C-9C0D-C4B3853B5721,28734-2,"Proc. Amer. Acad. Arts 26","","142","1891",
+gcc-156117,A,Compositae,,Bahia,,"schaffneri",var.,"schaffneri","",Synonym,,L,TICA,16C70590-72CC-43BE-AF05-E6BB356C22B5,,"","","","",gcc-119228
+gcc-131412,A,Compositae,,Bahia,,"schkuhrioides",,"","(Link & Otto) A.Gray",Synonym,,M,TICA,3DC327E7-03BE-4B42-ADFC-E0D49805252B,183994-1,"","","27","1883",gcc-101847
+gcc-120697,A,Compositae,,Bahia,,"sinuata",,"","Less.",Synonym,,M,TICA,3A8ECB71-1099-4296-B614-C82497AFAF82,183995-1,"Linnaea 5","","160","1830",gcc-140966
+gcc-30534,A,Compositae,,Bahia,,"staechadifolia",,"","(Lag.) DC.",Synonym,,M,TICA,F8C5BB9A-F2C8-480E-98E0-3884D39B98D2,183996-1,"","","656","1836",gcc-78784
+gcc-151821,A,Compositae,,Bahia,,"staechadifolia",var.,"staechadifolia","",Synonym,,L,TICA,BA94E5AA-A240-43AC-8325-8CE06DFFCEB1,,"","","","",gcc-78784
+gcc-91632,A,Compositae,,Bahia,,"tenuifolia",,"","DC.",Synonym,,M,TICA,65121779-F8E3-462A-99C7-86CA6B476E95,183997-1,"","","657","1836",gcc-94474
+gcc-40965,A,Compositae,,Bahia,,"trifida",,"","Nutt.",Synonym,,M,TICA,70019E35-C466-4FBF-81F3-4BEA1CEA0B9E,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 374""","","374","1841",gcc-20005
+gcc-93696,A,Compositae,,Bahia,,"trolliifolia",,"","(Lag.) DC.",Synonym,,M,TICA,A8E023CC-B3F5-4F63-AB44-8B3E1F6A6DBB,183999-1,"","","657","1836",gcc-24587
+gcc-92240,A,Compositae,,Bahia,,"wallacei",,"","A.Gray",Synonym,Illegitimate,M,TICA,FF2C3C0D-3059-4522-8708-882D1EA6244E,,"","","","1857",gcc-114918
+gcc-39530,A,Compositae,,Bahia,,"woodhousei",,"","(A.Gray) A.Gray",Synonym,,L,TICA,5BF6BE79-022C-44FF-9F36-495E32980331,,"","","28","",gcc-135542
+gcc-139766,A,Compositae,,Bahia,,"xylopoda",,"","Greenm.",Accepted,,M,TICA,6DC874B8-6C0F-43BF-BDF2-F3786B798C93,28742-2,"","","577","1899",

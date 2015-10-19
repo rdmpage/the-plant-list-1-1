@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-80729,A,Compositae,,Urospermum,,"asperum",,"","(L.) DC.",Synonym,,M,TICA,48F0EEC4-D940-4E8A-BF20-6E32DF17F968,257062-1,"","","63","1805",gcc-123903
+gcc-15315,A,Compositae,,Urospermum,,"capense",,"","(Jacq.) Spreng.",Synonym,,M,TICA,1A57E074-8815-4208-A685-1C5B84AAA7DF,257063-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 662","","662","1826",gcc-123903
+gcc-52923,A,Compositae,,Urospermum,,"dalechampii",,"","(L.) Scop.",Unresolved,,L,TICA,A854830C-18C1-40C7-96B2-622D7A05061F,,"","","","",
+gcc-97599,A,Compositae,,Urospermum,,"dalechampii",,"","(L.) Scop. ex F.W.Schmidt",Accepted,,M,TICA,7EFDF337-C640-4C93-A3CD-943EC765940B,257064-1,"","","276","1795",
+gcc-19092,A,Compositae,,Urospermum,,"echioides",,"","Fraas",Unresolved,,L,TICA,12214177-C21A-4D02-9EFC-2340EB6F1C07,257065-1,"""Syn. Pl. Fl. Class. 198, sphalm.""","","""198, sphalm.""","",
+gcc-109065,A,Compositae,,Urospermum,,"grandiflorum",,"","St.-Lag.",Synonym,,M,TICA,90C5042D-428A-457B-A57C-ADC98B3F88BF,,"""in Cariot, Etud. des fl. ed. 8 (1889) 527.""","","","1889",gcc-97599
+gcc-123903,A,Compositae,,Urospermum,,"picroides",,"","(L.) Scop. ex F.W.Schmidt",Accepted,,M,TICA,13C4B69F-B3EA-4936-8D08-CF7926CCF1E0,257067-1,"","","275","1795",
+gcc-148958,A,Compositae,,Urospermum,,"picroides",var.,"asperum","(L.) Duby",Synonym,,L,TICA,5D5862AB-F9C4-486E-921F-4E867096FA28,,"""J.É. Duby, Bot. Gall. 1. 1828""","","295","1828",gcc-123903
+gcc-60592,A,Compositae,,Urospermum,,"picroides",var.,"laeve","Maire",Synonym,,L,TICA,E8A5FB95-F3AC-45CA-961E-9F89C7DA5067,,"","","","",gcc-123903
+gcc-151403,A,Compositae,,Urospermum,,"picroides",var.,"picroides","",Synonym,,L,TICA,3DB82E52-118F-4D91-8F5E-83CEB9BB507E,,"","","","",gcc-123903

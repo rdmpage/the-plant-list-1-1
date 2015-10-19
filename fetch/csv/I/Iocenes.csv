@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32645,A,Compositae,,Iocenes,,"acanthifolius",,"","(Hombr. & Jacq.) B.Nord.",Accepted,,M,TICA,333BA56D-5FCE-470B-A9F5-3C7F7868E3BE,128875-2,"Opera Bot. 44","","59","1978",
+gcc-152749,A,Compositae,,Iocenes,,"acanthifolius",subsp.,"acanthifolius","",Synonym,,L,TICA,72B65FF2-F9CE-4544-B681-9FD81E9B567B,,"","","","",gcc-32645
+gcc-69479,A,Compositae,,Iocenes,,"acanthifolius",subsp.,"virens","(Phil.) B.Nord.",Unresolved,,L,TICA,C3BBAE4D-9D88-435A-BDD9-E6B4E0A454BB,877501-1,"Opera Bot. 44","","59","1978",gcc-138518

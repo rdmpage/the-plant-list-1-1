@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2513569,A,Primulaceae,,Trientalis,,"alsiniflora",,"","Gilib.",Synonym,Invalid,M,WCSP (in review),,702919-1,"Fl. Lit. Inch.","1: 31","","1782",kew-2896575
+kew-2513568,A,Primulaceae,,Trientalis,,"americana",,"","Pursh",Unresolved,,L,WCSP (in review),,257801-2,"Fl. Amer. Sept.","1: 252","","1813",
+tro-26400200,A,Primulaceae,,Trientalis,,"arctica",,"","Fisch. ex Hook.",Accepted,,M,TRO,26400200,257802-2,"Fl. Bor.-Amer.","2(9): 121–122","121","1838",
+kew-2513555,A,Primulaceae,,Trientalis,,"borealis",,"","Raf.",Accepted,,L,WCSP (in review),,702922-1,"Med. Repos.","II, 5: 354","","1808",
+tro-26400392,A,Primulaceae,,Trientalis,,"borealis",var.,"borealis","",Synonym,,L,TRO,26400392,,"","","","",kew-2513555
+tro-26400396,A,Primulaceae,,Trientalis,,"borealis",f.,"borealis","",Synonym,,L,TRO,26400396,,"","","","",kew-2513555
+tro-26400395,A,Primulaceae,,Trientalis,,"borealis",f.,"tenuifolia","(House) Lepage",Accepted,,L,TRO,26400395,257806-2,"Naturaliste Canad.","73: 15","15","1946",
+tro-50288338,A,Primulaceae,,Trientalis,,"borealis",var.,"tenuifolia","House",Synonym,,L,TRO,50288338,257807-2,"New York State Mus. Bull.","254: 561","561","1924",tro-26400395
+kew-2513565,A,Crassulaceae,,Trientalis,,"capensis",,"","L.",Unresolved,,L,WCSP (in review),,702923-1,"Sp. Pl.","344","","1753",kew-2741565
+kew-2513563,A,Primulaceae,,Trientalis,,"europaea",,"","L.",Synonym,,M,WCSP (in review),,30062206-2,"Sp. Pl.","344","","1753",kew-2896575
+tro-26400337,A,Primulaceae,,Trientalis,,"europaea",subsp.,"arctica","(Fisch. ex Hook.) Hultén",Unresolved,,L,TRO,26400337,257810-2,"Fl. Kamtchatka","4: 56","56","1930",
+tro-50108305,A,Primulaceae,,Trientalis,,"europaea",var.,"arctica","(Fisch. ex Hook.) Ledeb.",Synonym,,L,TRO,50108305,,"Fl. Ross.","3(8): 25","25","1847",tro-26400337
+tro-50288342,A,Primulaceae,,Trientalis,,"europaea",var.,"latifolia","(Hook.) Torr.",Synonym,,L,TRO,50288342,,"Pacif. Railr. Rep.","4(5): 118","118","1857",tro-50288343
+tro-50288343,A,Primulaceae,,Trientalis,,"europaea",subsp.,"latifolia","(Hook.) A.E. Murray",Unresolved,,L,TRO,50288343,921634-1,"Kalmia","12: 25","25","1982",
+kew-2513560,A,Crassulaceae,,Trientalis,,"heptagyna",,"","Crantz",Unresolved,,L,WCSP (in review),,702926-1,"Inst. Rei Herb.","2: 365","","1766",kew-2741565
+tro-26400203,A,Primulaceae,,Trientalis,,"latifolia",,"","Hook.",Accepted,,M,TRO,26400203,257816-2,"Fl. Bor.-Amer.","2(9): 121","121","1838",
+kew-2513558,A,Primulaceae,,Trientalis,,"ramosa",,"","Koidz.",Unresolved,,L,WCSP (in review),,702928-1,"Bot. Mag. (Tokyo)","43: 386","","1929",
+kew-2513557,A,Primulaceae,,Trientalis,,"reichelii",,"","Opiz ex R.Knuth",Unresolved,,L,WCSP (in review),,,"Pflanzenr.","IV, 237: 313","","1905",
+kew-2513576,A,Primulaceae,,Trientalis,,"stella",,"","Baudo",Unresolved,,L,WCSP (in review),,702930-1,"Ann. Sci. Nat., Bot.","II, 20: 346","","1843",

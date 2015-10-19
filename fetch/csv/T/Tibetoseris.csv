@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-145969,A,Compositae,,Tibetoseris,,"angustifolia",,"","Tzvelev",Synonym,,M,TICA,2C599D59-AD42-4FD5-A93F-0EB4C665D3A1,77089379-1,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1750","2007",gcc-151019
+gcc-145332,A,Compositae,,Tibetoseris,,"conjunctiva",,"","(Babc. & Stebbins) Sennikov",Synonym,,M,TICA,B0324BD3-B605-4D38-B8D6-02050D7AFEF6,77099958-1,"Sennikov in Komarovia 5. 2008","","91","2008",gcc-150450
+gcc-149386,A,Compositae,,Tibetoseris,,"cristata",,"","(C.Shih & C.Q.Cai) Sennikov",Synonym,,M,TICA,5260D5DF-B9DF-44E8-84CB-57A8D5C8E6C3,77099962-1,"Sennikov in Komarovia 5. 2008","","92","2008",gcc-151009
+gcc-147853,A,Compositae,,Tibetoseris,,"depressa",,"","(Hook.f. & Thomson) Sennikov",Accepted,,M,TICA,F53F37B7-8A2E-4EB4-868F-36A57302518E,77089378-1,"Sennikov in Bot. Zhurn. 92. 2007","","1750","2007",
+gcc-155301,A,Compositae,,Tibetoseris,,"depressa",var.,"depressa","",Synonym,,L,TICA,409CAF3F-0674-41B9-9437-D529E5607A15,,"","","","",gcc-147853
+gcc-155374,A,Compositae,,Tibetoseris,,"depressa",var.,"pseudoumbrella","(D.Maity & Maiti) D.Maity & Maiti",Synonym,,L,TICA,63EF0274-77F3-4A87-8AAB-D6E482BA68CA,77106391-1,"D. Maity & Maiti in Compositae Newslett. 48. 2010","","29","2010",gcc-147853
+gcc-145742,A,Compositae,,Tibetoseris,,"gracilipes",,"","(Hook.f.) Sennikov",Synonym,,M,TICA,C2D5BB07-8EC8-414A-B6AD-09FA55FC6168,77099961-1,"Sennikov in Komarovia 5. 2008","","92","2008",gcc-150656
+tro-100376708,A,Compositae,,Tibetoseris,,"gracilipes",subsp.,"duthiei","D. Maity & et al.",Synonym,,L,TRO,100376708,,"","","","",gcc-150656
+gcc-154942,A,Compositae,,Tibetoseris,,"ladyginii",,"","Tzvelev",Synonym,,M,TICA,E7AA2A94-2CBC-4FC8-BE7F-CDF46FE11560,,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1750","2007",gcc-150428
+gcc-146307,A,Compositae,,Tibetoseris,,"parva",,"","(Babc. & Stebbins) Sennikov",Synonym,,M,TICA,E51572FB-A3FC-4616-9042-15F3AC2C8477,77099957-1,"Sennikov in Komarovia 5. 2008","","91","2008",gcc-152754
+gcc-148897,A,Compositae,,Tibetoseris,,"sericea",,"","(C.Shih) Sennikov",Synonym,,M,TICA,A87D7FBE-DB70-46FA-9473-4D3CED84B0B2,77099978-1,"Sennikov in Komarovia 5. 2008","","92","2008",gcc-155543
+gcc-156470,A,Compositae,,Tibetoseris,,"simulatrix",,"","(Babc.) Sennikov",Synonym,,M,TICA,E85237CB-4FD7-4831-8A2F-ED886ECF9E2E,77099960-1,"Sennikov in Komarovia 5. 2008","","91","2008",gcc-150428
+gcc-145852,A,Compositae,,Tibetoseris,,"tianshanica",,"","(C.Shih) Tzvelev",Synonym,,M,TICA,58790F6F-8ED1-412D-B2A8-0C2580BB58B2,77089381-1,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1751","2007",gcc-146236

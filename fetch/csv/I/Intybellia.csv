@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-139320,A,Compositae,,Intybellia,,"callicephala",,"","Juz.",Synonym,,M,TICA,4D156D99-4A1E-4104-B9BC-F279CCDCC773,225713-1,"","","45","1951",gcc-87896
+gcc-148473,A,Compositae,,Intybellia,,"glareosa",,"","Boiss.",Synonym,,M,TICA,0DD56522-7FBE-43E7-88E3-4334DC7B8A9B,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","883","1875",gcc-41843
+gcc-97399,A,Compositae,,Intybellia,,"glareosa",,"","Schott & Kotschy",Unresolved,,L,TICA,A57DD3A2-03D8-4BA0-856C-93C6A39EFFA1,225714-1,"ex Boiss. Fl. Orient. [Boissier] 3: 883","","883","1875",
+gcc-145481,A,Compositae,,Intybellia,,"incarnata",,"","Monnier",Synonym,,M,TICA,8F7C2802-606A-4FDF-90EA-04D02586993E,225715-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","79","1829",gcc-37886
+gcc-150264,A,Compositae,,Intybellia,,"praemorsa",,"","(L.) Monnier",Synonym,,L,TICA,929E95CC-39A8-4F7E-95FF-6A798234809A,225716-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","79","1829",gcc-96411
+gcc-147091,A,Compositae,,Intybellia,,"pulchra",,"","(L.) Monnier",Synonym,,M,TICA,164464DD-74AB-42B4-ADA9-2647E090076D,225717-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","79","1829",gcc-8198
+gcc-123076,A,Compositae,,Intybellia,,"purpurea",,"","(Willd.) DC.",Synonym,,M,TICA,CA63E20B-2F87-4506-A7EF-CD7A5DC5DB8A,225718-1,"Prodr. (DC.) 7(1): 180","","180","1838",gcc-40454
+gcc-12220,A,Compositae,,Intybellia,,"rosea",,"","Cass.",Synonym,,M,TICA,7CFFAA26-4572-4F57-8FBF-16C6EC6BB92D,,"in Dict. Sc. Nat. xxiii. 548.","","","1821",gcc-40454
+gcc-81950,A,Compositae,,Intybellia,,"taurica",,"","Less.",Synonym,Illegitimate,M,TICA,1CD90AAB-A9B9-441F-9240-70EF39828CA4,225720-1,"","","144","1832",gcc-40454

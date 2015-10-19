@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76043,A,Compositae,,Acanthospermum,,"australe",,"","(Loefl.) Kuntze",Accepted,,M,TICA,AA8D7C9D-34FB-4D4A-920C-63C4FC9F5804,1692-2,"Revis. Gen. Pl. 1: 303 (1891)","","303","1891",
+gcc-32429,A,Compositae,,Acanthospermum,,"brachyceratum",,"","S.F.Blake",Synonym,,M,TICA,D2046AEE-4561-4332-8579-3C2077766E89,1693-2,"J. Wash. Acad. Sci. 12","","203","1922",gcc-103105
+gcc-296,A,Compositae,,Acanthospermum,,"brasilum",,"","Schrank",Synonym,,M,TICA,68414CA9-163E-4864-A7E1-0089E76B1CD4,,"Pl. Rar. Hort. Monac. 2","","53","1820",gcc-76043
+gcc-127695,A,Compositae,,Acanthospermum,,"consobrinum",,"","S.F.Blake",Accepted,,M,TICA,7D68BE4D-1F62-4806-9A8F-D84820A0DF7C,1694-2,"Contr. U. S. Natl. Herb. 20","","389","1921",
+gcc-99346,A,Compositae,,Acanthospermum,,"donii",,"","S.F.Blake",Synonym,,M,TICA,88408740-4D0F-4255-922A-9829FE1DD291,1695-2,"Contr. U. S. Natl. Herb. 20","","388","1921",gcc-23151
+gcc-140398,A,Compositae,,Acanthospermum,,"glabratum",,"","(DC.) Wild",Accepted,,M,TICA,6B48826A-26CB-456E-BD5E-F4EDD67F24CF,173716-1,"Kirkia 6","","6","1967",
+gcc-35099,A,Compositae,,Acanthospermum,,"hirsutum",,"","DC.",Synonym,,M,TICA,8FBC3813-894D-47FE-B2FD-4115C9DF36BB,173717-1,"","","522","1836",gcc-76043
+gcc-25407,A,Compositae,,Acanthospermum,,"hispidum",,"","DC.",Accepted,,M,TICA,F41740FD-6BFC-471C-9F41-2EE7C82EE17A,173718-1,"""Candolle, Augustin Pyramus de (1836) Prodromus Systematis Naturalis Regni Vegetabilis. Vol. 5. Treuttel et Würtz,  Parisiis.""","","522","1836",
+gcc-108961,A,Compositae,,Acanthospermum,,"humile",,"","(Sw.) DC.",Accepted,,M,TICA,56B2BEC3-7A78-42FD-AED5-AD9187AC4737,173719-1,"Prodr. 5","","522","1836",
+gcc-69079,A,Compositae,,Acanthospermum,,"humile",var.,"hispidum","(DC.) Kuntze",Synonym,,L,TICA,40BE0743-205D-4162-9A11-E3BC20C6D76D,,"Revis. Gen. Pl. 1","","303","1891",gcc-25407
+gcc-68016,A,Compositae,,Acanthospermum,,"humile",var.,"humile","",Synonym,,L,TICA,94F9FBE9-5E57-4FDC-B429-DBAEA8778344,,"","","","",gcc-108961
+gcc-98646,A,Compositae,,Acanthospermum,,"lecocarpoides",,"","B.L.Rob. & Greenm.",Synonym,,M,TICA,F5F9E7CF-3FA6-4DA3-A784-968ED392F65D,1697-2,"","","141","1895",gcc-103105
+gcc-2438,A,Compositae,,Acanthospermum,,"leptolobum",,"","S.F.Blake",Synonym,,M,TICA,44C6939B-D268-483A-9FA1-0470703EE22D,1698-2,"J. Wash. Acad. Sci. 12","","204","1922",gcc-103105
+gcc-23151,A,Compositae,,Acanthospermum,,"microcarpum",,"","B.L.Rob.",Accepted,,M,TICA,6FDB2CF0-0E67-4212-92AA-2AD93C9E7FD8,173722-1,"Proc. Amer. Acad. Arts 38","","208","1902",
+gcc-142356,A,Compositae,,Acanthospermum,,"simile",,"","S.F.Blake",Synonym,,M,TICA,EF3AA224-9939-45BA-BE4E-F96C7BE25CA7,,"""Contr. U. S. Natl. Herb. 20: 388, pl. 23e. 1921""","","","1921",gcc-23151
+gcc-114277,A,Compositae,,Acanthospermum,,"xanthioides",,"","(Kunth) DC.",Synonym,,M,TICA,8B028CBA-9019-4D3D-88F9-B977EED7BA2F,173723-1,"Prodr. 5","","521","1836",gcc-76043
+gcc-69043,A,Compositae,,Acanthospermum,,"xanthioides",var.,"glabratum","DC.",Synonym,,L,TICA,F9B8A870-A6FF-49F4-A5DE-E38135B31787,1702-2,"Prodr. 5","","522","1836",gcc-140398
+gcc-427,A,Compositae,,Acanthospermum,,"xanthioides",var.,"obtusifolium","DC.",Synonym,,L,TICA,08568BA2-4EE7-433A-90A9-00C8FBF0A4BE,1703-2,"Prodr. 5","","522","1836",gcc-76043
+gcc-150914,A,Compositae,,Acanthospermum,,"xanthioides",var.,"xanthioides","",Synonym,,L,TICA,3A0E908D-E625-4451-A41C-78EB30009EB4,,"","","","",gcc-76043

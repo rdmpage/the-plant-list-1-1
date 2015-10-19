@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87165,A,Compositae,,Didelta,,"annua",,"","Less.",Synonym,,M,TICA,900CEEEE-D576-426B-A105-7CA617CA7779,201387-1,"","","62","1832",gcc-58014
+gcc-107106,A,Compositae,,Didelta,,"capensis",,"","Lam.",Synonym,,M,TICA,5BE00A15-361A-4F55-AB5D-A95C1E0A690F,,"","","","",gcc-407
+gcc-81586,A,Compositae,,Didelta,,"capensis",,"","Lam. ex DC.",Synonym,,M,TICA,2431D588-C8D2-4B1C-8F1C-702A9B3CCD14,201388-1,"","","503","1838",gcc-407
+gcc-407,A,Compositae,,Didelta,,"carnosa",,"","(L.f.) Aiton",Accepted,,M,TICA,7A931BF5-7794-4B5E-A09A-00C0223A00F6,201389-1,"","","256","1789",
+gcc-53046,A,Compositae,,Didelta,,"carnosa",var.,"carnosa","",Synonym,,L,TICA,8E1E490C-9526-4362-A3DB-630D650FF58A,,"Hort. Kew. ed. I. iii. 256.","","","",gcc-407
+gcc-70626,A,Compositae,,Didelta,,"carnosa",var.,"tomentosa","(Less.) Roessler",Accepted,,L,TICA,5FE8D386-736B-40C6-B3B3-EF7CB809BB8B,,"Mitt. Bot. Staatssamml. München 3: 310 (1959)","","310","1959",
+gcc-12850,A,Compositae,,Didelta,,"carnosa",var.,"tomentosum","",Unresolved,,L,TICA,F3F0EC8E-5889-4D3B-B218-17F5ACBD7A19,,"","","","",
+gcc-77912,A,Compositae,,Didelta,,"cernua",,"","(L.f.) Less.",Synonym,,M,TICA,12C34AC2-9FD5-4F72-8776-67EEB7E9D99D,201390-1,"","","61","1832",gcc-48477
+gcc-100153,A,Compositae,,Didelta,,"obtusifolia",,"","Cass.",Synonym,,M,TICA,480AFF51-99FD-45A4-864C-99F0926F68D4,,"","","","1823",gcc-407
+gcc-26504,A,Compositae,,Didelta,,"spinosa",,"","(L.f.) Aiton",Accepted,,M,TICA,6F965E3D-0550-46CE-A596-30FBAC6252FB,201392-1,"","","256","1789",
+gcc-4087,A,Compositae,,Didelta,,"tetragoniifolia",,"","L'Hér.",Synonym,,M,TICA,2807A450-C05F-4FDA-A770-079A2A6F6390,,"","","","",gcc-407
+gcc-135605,A,Compositae,,Didelta,,"tomentosa",,"","Less.",Synonym,,M,TICA,B0D3E33D-FFF1-43DE-8FC2-EA5BE4034AF0,201394-1,"","","61","1832",gcc-70626

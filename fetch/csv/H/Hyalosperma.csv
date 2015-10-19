@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129813,A,Compositae,,Hyalosperma,,"cotula",,"","(Benth.) Paul G.Wilson",Accepted,,L,TICA,08B24307-ED43-4DA4-9937-DD1D2202CCCE,947141-1,"","","93","1989",
+gcc-82428,A,Compositae,,Hyalosperma,,"demissum",,"","(A.Gray) Paul G.Wilson",Accepted,,M,TICA,88E7818F-F40B-4C32-A8A7-720E7AADB944,947138-1,"Nuytsia 7: 85 (1989)","","85","1989",
+gcc-43178,A,Compositae,,Hyalosperma,,"glutinosum",,"","Steetz",Accepted,,M,TICA,70E8E11C-0CBF-4FE2-BDAA-50037FD77007,88307-3,"","","","1845",
+gcc-55489,A,Compositae,,Hyalosperma,,"glutinosum",subsp.,"glutinosum","",Synonym,,L,TICA,1FB8E9F3-66C9-4455-B0B4-765D88BE6524,,"","","","",gcc-43178
+gcc-53394,A,Compositae,,Hyalosperma,,"glutinosum",subsp.,"venustum","(S.Moore) Paul G.Wilson",Accepted,,L,TICA,0C5C79C1-B5FB-46F4-835F-65E643A05D1F,88317-3,"","","","1989",
+gcc-112258,A,Compositae,,Hyalosperma,,"praecox",,"","(F.Muell.) Paul G.Wilson",Accepted,,M,TICA,033E6052-4E30-465C-B11D-B4F8F9F1CC5C,947143-1,"","","96","1989",
+gcc-19315,A,Compositae,,Hyalosperma,,"pusillum",,"","(Turcz.) Paul G.Wilson",Accepted,,L,TICA,6FF251BB-76BE-4AAF-95B7-23B3CCB0C597,88321-3,"","","","1989",
+gcc-120032,A,Compositae,,Hyalosperma,,"semisterile",,"","(F.Muell.) Paul G.Wilson",Accepted,,M,TICA,B9B8A5BB-9E8F-4109-96D9-C688544B3354,947140-1,"","","92","1989",
+gcc-37774,A,Compositae,,Hyalosperma,,"simplex",,"","(Steetz) Paul G.Wilson",Accepted,,L,TICA,AEF0A47C-937D-4543-9C28-460D556F235F,88328-3,"","","","1989",
+gcc-60872,A,Compositae,,Hyalosperma,,"simplex",subsp.,"simplex","",Synonym,,L,TICA,AAA3F8CA-1E9A-40E8-8CF3-A1F6785F7CE7,88331-3,"Nuytsia","","95","1989",gcc-37774
+gcc-107866,A,Compositae,,Hyalosperma,,"stoveae",,"","(D.A.Cooke) Paul G.Wilson",Accepted,,M,TICA,321F6E05-EE28-404F-99D6-AB13B8CB0C6B,947139-1,"","","87","1989",
+tro-100367617,A,Compositae,,Hyalosperma,,"strictum",,"","Steetz",Unresolved,,L,TRO,100367617,225145-1,"Pl. Preiss.","i: 477","477","1845",
+gcc-79271,A,Compositae,,Hyalosperma,,"variabile",,"","Sond.",Synonym,,M,TICA,A4922A6D-14A7-46FB-B7E3-6B0F4E8E08AB,88368-3,"","","","1853",gcc-43178
+gcc-98604,A,Compositae,,Hyalosperma,,"zacchaeus",,"","(S.Moore) Paul G.Wilson",Accepted,,M,TICA,65CC26A0-00B8-4E20-89F7-967C5CBE4DFB,947137-1,"","","85","1989",

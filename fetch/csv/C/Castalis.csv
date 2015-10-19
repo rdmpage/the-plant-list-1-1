@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123995,A,Compositae,,Castalis,,"flaccida",,"","(Vent.) DC.",Unresolved,,L,TICA,1EC84D9C-4543-40C3-917F-CFB212C8EAE7,77083194-1,"Prodr. (DC.) 6: 455","","455","1838",
+gcc-15700,A,Compositae,,Castalis,,"nudicaulis",,"","(L.) Norl.",Synonym,,M,TICA,C1099EFB-4535-4BAE-BFAA-1D11C8C71584,189597-1,"","","89","1943",gcc-90377
+gcc-2935,A,Compositae,,Castalis,,"nudicaulis",var.,"graminifolia","(L.) Norl.",Synonym,,L,TICA,C70ED37D-8205-4EF8-9575-056FBD6BCF4E,,"Stud. Calend. 1: 89 (1943)","","89","1943",gcc-71482
+gcc-66962,A,Compositae,,Castalis,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,EEAF1693-C7E0-4827-9D2D-D31466F516A8,,"","","","",gcc-90377
+gcc-83557,A,Compositae,,Castalis,,"spectabilis",,"","(Schltr.) Norl.",Synonym,,M,TICA,A34D584F-B01F-45D6-B4C6-74918418F884,189598-1,"","","87","1943",gcc-108149
+gcc-86214,A,Compositae,,Castalis,,"tragus",,"","(Aiton) Norl.",Accepted,,M,TICA,964015BD-8988-43F8-AF79-7A6C24654423,,"","","82","1943",
+gcc-54505,A,Compositae,,Castalis,,"tragus",var.,"pinnatifida","Norl.",Synonym,,L,TICA,BCC43416-F681-4E22-A55C-6EADF024E590,,"","","","",gcc-79367
+gcc-23107,A,Compositae,,Castalis,,"tragus",var.,"tragus","",Synonym,,L,TICA,8A35F886-7D0F-4E1B-8E63-2AC82D52A694,,"","","","",gcc-79367
+gcc-120859,A,Compositae,,Castalis,,"ventenatii",,"","Cass.",Synonym,,M,TICA,E76E85B6-21A6-4DE4-AB26-C8821158485C,,"","","","1824",gcc-79367

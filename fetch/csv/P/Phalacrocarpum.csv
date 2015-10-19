@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-143793,A,Compositae,,Phalacrocarpum,,"anomalum",,"","(Lag.) Cout.",Synonym,,M,TICA,6B612342-D589-4F07-BAAD-FCAC830C5DA6,237624-1,"""Cout., Fl. Portugal 1953. 1913.""","","631","1913",gcc-59462
+gcc-91568,A,Compositae,,Phalacrocarpum,,"anomalum",,"","(Lag.) Rothm.",Unresolved,,L,TICA,3028BB12-2885-4C5A-A786-86A82D412652,237625-1,"""in Bol. Soc. Esp. Hist. Nat. 1934, xxxiv. 155.""","","xxxiv. 155","1934",
+gcc-122083,A,Compositae,,Phalacrocarpum,,"hoffmanseggii",,"","(Samp.) M.Laínz",Synonym,,M,TICA,1A5C06DC-ADF9-4CFC-890E-CB377698E023,,"","","34","1960",gcc-126645
+gcc-78554,A,Compositae,,Phalacrocarpum,,"oppositifolium",,"","(Brot.) Willk.",Accepted,,M,TICA,E587F7AF-C0A8-4270-81F6-696873BFC918,237627-1,"","","252","1864",
+gcc-59462,A,Compositae,,Phalacrocarpum,,"oppositifolium",subsp.,"anomalum","(Lag.) Vogt & Greuter",Accepted,,L,TICA,54FC9EE6-7AA7-4049-B482-968EABEFE6D4,70029009-1,"","","42","2003",
+gcc-34287,A,Compositae,,Phalacrocarpum,,"oppositifolium",subsp.,"hoffmannseggii","(Samp.) Nieto Fel.",Unresolved,,L,TICA,56686A7B-D7CE-404F-8C06-3F8AEC7C0D03,921265-1,"","","59","1982",gcc-126645
+gcc-30885,A,Compositae,,Phalacrocarpum,,"oppositifolium",subsp.,"oppositifolium","",Synonym,,L,TICA,CC664C43-9D0A-4616-A9AD-392EEC74E92B,,"","","","",gcc-78554
+gcc-57965,A,Compositae,,Phalacrocarpum,,"oppositifolium",var.,"oppositifolium","",Synonym,,L,TICA,5C516069-AC58-47BF-B5C7-8AC3B287E530,,"","","","",gcc-78554
+gcc-126645,A,Compositae,,Phalacrocarpum,,"sericeum",,"","Henriq.",Accepted,,M,TICA,F7F02327-8A6D-46E9-9418-D5C663CEFE5A,,"Henriq. in Bol. Soc. Brot. 1. 1883.","","141","1883",
+gcc-29129,A,Compositae,,Phalacrocarpum,,"victoriae",,"","Sennen & Elias",Accepted,,M,TICA,24616DD9-4FE0-43CE-9822-35D7A3CA70AC,,"""Ann. Soc. Linn. Lyon sér. 2, 73: 12, in syn.""","","12","1928",

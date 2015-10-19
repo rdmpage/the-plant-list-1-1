@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-5901,A,Droseraceae,,Aldrovanda,,"generalis",,"","E.H.L.Krause",Synonym,,H,WCSP,5901,,"Deutschl. Fl.","ed. 2, 4: 176","","1902",kew-5903
+kew-5902,A,Droseraceae,,Aldrovanda,,"verticillata",,"","Roxb.",Synonym,,H,WCSP,5902,321754-1,"Fl. Ind.","2: 113","","1824",kew-5903
+kew-5903,A,Droseraceae,,Aldrovanda,,"vesiculosa",,"","L.",Accepted,,H,WCSP,5903,321755-1,"Sp. Pl.","281","","1753",
+kew-5904,A,Droseraceae,,Aldrovanda,,"vesiculosa",var.,"australis","Darwin",Synonym,,L,WCSP,5904,100070-3,"Insectiv. Pl.","328","","1876",kew-5903
+kew-5905,A,Droseraceae,,Aldrovanda,,"vesiculosa",var.,"duriaei","Casp.",Synonym,,L,WCSP,5905,,"Bot. Zeitung (Berlin)","17: 142","","1859",kew-5903
+kew-5906,A,Droseraceae,,Aldrovanda,,"vesiculosa",var.,"verticillata","(Roxb.) Darwin",Synonym,,L,WCSP,5906,,"Insectiv. Pl.","329","","1876",kew-5903

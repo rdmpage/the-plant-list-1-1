@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-148186,A,Rubiaceae,,Pausinystalia,,"angolensis",,"","Wernham",Synonym,,H,WCSP,148186,759474-1,"J. Bot.","55: 78","","1917",kew-148195
+kew-148187,A,Rubiaceae,,Pausinystalia,,"bequaertii",,"","De Wild.",Synonym,,H,WCSP,148187,759475-1,"Ann. Soc. Sci. Bruxelles","42: 178","","1922",kew-148195
+tro-50109154,A,Rubiaceae,,Pausinystalia,,"brachythrysa",,"","Hutch. & Dalziel",Unresolved,,L,TRO,50109154,,"Fl. W. Trop. Afr.","2: 71","71","1931",
+kew-148188,A,Rubiaceae,,Pausinystalia,,"brachythyrsum",,"","(K.Schum.) W.Brandt",Accepted,,H,WCSP,148188,,"Arch. Pharm. (Berlin)","260: 66","","1922",
+tro-50145504,A,Rubiaceae,,Pausinystalia,,"brachythyrsus",,"","(K. Schum.) De Wild.",Synonym,,M,TRO,50145504,759476-1,"Ann. Soc. Sci. Bruxelles","42: 175 in obs.","175 in obs.","1922",kew-148188
+kew-148189,A,Rubiaceae,,Pausinystalia,,"gilgii",,"","W.Brandt",Synonym,,H,WCSP,148189,759477-1,"Arch. Pharm. (Berlin)","260: 71","","1922",kew-148202
+tro-27910069,A,Rubiaceae,,Pausinystalia,,"ituriense",,"","De Wild.",Synonym,,M,TRO,27910069,,"Ann. Soc. Sci. Bruxelles","42: 176","176","1922",kew-148193
+kew-148190,A,Rubiaceae,,Pausinystalia,,"ituriensis",,"","De Wild.",Synonym,,H,WCSP,148190,759478-1,"Ann. Soc. Sci. Bruxelles","42: 176","","1922",kew-148193
+kew-148191,A,Rubiaceae,,Pausinystalia,,"johimbe",,"","(K.Schum.) Pierre ex Beille",Accepted,,H,WCSP,148191,,"Actes Soc. Linn. Bordeaux","61: 130","","1906",
+kew-148192,A,Rubiaceae,,Pausinystalia,,"lane-poolei",,"","(Hutch.) Hutch. ex Lane-Poole",Accepted,,H,WCSP,148192,759479-1,"Trees Shrubs Sierra Leone","74","","1916",
+kew-148193,A,Rubiaceae,,Pausinystalia,,"lane-poolei",subsp.,"ituriense","(De Wild.) Stoff. & Robbr.",Accepted,,L,WCSP,148193,988902-1,"Bot. J. Linn. Soc.","120: 310","","1996",
+kew-148194,A,Rubiaceae,,Pausinystalia,,"lane-poolei",subsp.,"lane-poolei","",Synonym,,L,WCSP,148194,,"Unknown","","","",kew-148192
+kew-148195,A,Rubiaceae,,Pausinystalia,,"macroceras",,"","(K.Schum.) Pierre ex Beille",Accepted,,H,WCSP,148195,,"Actes Soc. Linn. Bordeaux","61: 130","","1906",
+kew-148197,A,Rubiaceae,,Pausinystalia,,"macroceras",f.,"brachythyrsum","(K.Schum.) N.Hallé",Synonym,,L,WCSP,148197,,"in Fl. Gabon","12: 71","","1966",kew-148188
+kew-148198,A,Rubiaceae,,Pausinystalia,,"mayumbensis",,"","R.D.Good",Synonym,,H,WCSP,148198,759482-1,"J. Bot.","64(Suppl. 2): 1","","1926 publ. 1929",kew-48186
+kew-148199,A,Rubiaceae,,Pausinystalia,,"pachyceras",,"","(K.Schum.) De Wild.",Synonym,,H,WCSP,148199,759483-1,"Ann. Soc. Sci. Bruxelles","42: 176","","1922",kew-48188
+kew-148200,A,Rubiaceae,,Pausinystalia,,"reticulata",,"","Hutch.",Synonym,Invalid,H,WCSP,148200,759485-1,"Fl. W. Trop. Afr.","2: 71","","1931",kew-148192
+kew-148201,A,Rubiaceae,,Pausinystalia,,"sankeyi",,"","Hutch. & Dalziel",Synonym,,H,WCSP,148201,759486-1,"Fl. W. Trop. Afr.","2: 71","","1931",kew-148202
+kew-148202,A,Rubiaceae,,Pausinystalia,,"talbotii",,"","Wernham",Accepted,,H,WCSP,148202,759487-1,"Cat. Pl. Oban","40","","1913",
+kew-148203,A,Rubiaceae,,Pausinystalia,,"trillesii",,"","Beille",Synonym,,H,WCSP,148203,,"Actes Soc. Linn. Bordeaux","61: 130","","1906",kew-148191
+tro-50302599,A,Rubiaceae,,Pausinystalia,,"yohimba",,"","Pierre ex Beille",Unresolved,,L,TRO,50302599,,"Actes Soc. Linn. Bordeaux","130","130","1906",
+kew-148204,A,Rubiaceae,,Pausinystalia,,"zenkeri",,"","W.Brandt",Synonym,,H,WCSP,148204,759490-1,"Arch. Pharm. (Berlin)","260: 67","","1922",kew-148191

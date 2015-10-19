@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-155813,A,Compositae,,Hymenonema,,"aspera",,"","(Desf.) DC.",Accepted,,M,TICA,1523BE84-488D-4618-8B22-E05A85AFE431,225199-1,"""A.P. de Candolle, Prodr. 7. 1838""","","117","1838",
+gcc-106043,A,Compositae,,Hymenonema,,"asperum",,"","DC.",Unresolved,,L,TICA,DA858F5C-9683-41ED-B6A7-A6EB86DF0BBC,225199-1,"Prodr. (DC.) 7(1): 117","","117","1838",
+gcc-7642,A,Compositae,,Hymenonema,,"bergeri",,"","Sch.Bip. ex Nyman",Synonym,,M,TICA,B959EDAD-C526-41A0-9C71-0E3309F1668D,225200-1,"Consp. 472.","","472","1879",gcc-155813
+gcc-140695,A,Compositae,,Hymenonema,,"fontanesii",,"","Cass.",Synonym,Illegitimate,M,TICA,0643A70D-744E-4EF1-9E51-F5AF9B2C8112,,"in Dict. Sc. Nat. xxii. 317.","","","",gcc-155813
+gcc-152279,A,Compositae,,Hymenonema,,"glauca",,"","Hook.",Synonym,,L,TICA,56E6570C-6A77-4F4B-81FE-9621516FE0B6,,"""Hook., Fl. Bor.-Amer. 1. 1833""","","300","1833",gcc-8875
+gcc-32639,A,Compositae,,Hymenonema,,"glaucum",,"","Hook.",Unresolved,,L,TICA,ED00ED37-FE67-4E5D-B56E-3C7C3ECC285E,,"Fl. Bor.-Amer. (Hooker) i. 300","","300","1833",gcc-8875
+gcc-120775,A,Compositae,,Hymenonema,,"graecum",,"","(L.) DC.",Accepted,,M,TICA,F437ED11-1E2E-488B-AB82-C85050E58EBD,225203-1,"","","116","1838",
+gcc-75842,A,Compositae,,Hymenonema,,"laciniata",,"","Hook.",Synonym,,L,TICA,DC9FAB1A-2A30-463B-A1D0-635A7465928E,,"Fl. Bor.-Amer. (Hooker) i. 301","","301","1833",gcc-8875
+tro-50245157,A,Compositae,,Hymenonema,,"laciniatum",,"","Hook.",Synonym,,L,TRO,50245157,,"Fl. Bor.-Amer.","1(6): 301","301","1833",gcc-8875
+gcc-8048,A,Compositae,,Hymenonema,,"laconicum",,"","Boiss. & Heldr. ex Boiss. & Heldr.",Accepted,,M,TICA,1CEDB330-0A1A-4886-B48C-0EF9DB92EBF6,225205-1,"","","715","1875",
+gcc-12678,A,Compositae,,Hymenonema,,"tournefortii",,"","Cass.",Synonym,Illegitimate,M,TICA,18C76113-D25C-4B9C-BDA5-17A2FCDB50AC,,"in Dict. Sc. Nat. xxii. 316.","","","",gcc-120775

@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-277917,A,Asparagaceae,,Hesperaloe,,"campanulata",,"","G.D.Starr",Accepted,,H,WCSP,277917,1000790-1,"Madroño","44: 285","","1997 publ. 1998",
+kew-277918,A,Asparagaceae,,Hesperaloe,,"chiangii",,"","(G.D.Starr) B.L.Turner",Accepted,,H,WCSP,277918,20010211-1,"Lundellia","5: 39","","2002",
+kew-277919,A,Asparagaceae,,Hesperaloe,,"davyi",,"","Baker f.",Synonym,,H,WCSP,277919,120783-2,"Bull. Misc. Inform. Kew","1898: 226","","1898",kew-277921
+kew-277920,A,Asparagaceae,,Hesperaloe,,"engelmannii",,"","Krauskopf ex Baker",Accepted,,H,WCSP,277920,536447-1,"J. Linn. Soc., Bot.","18: 231","","1880",
+kew-277921,A,Asparagaceae,,Hesperaloe,,"funifera",,"","(K.Koch) Trel.",Accepted,,H,WCSP,277921,120785-2,"Rep. (Annual) Missouri Bot. Gard.","13: 36","","1902",
+kew-277922,A,Asparagaceae,,Hesperaloe,,"funifera",subsp.,"chiangii","G.D.Starr",Synonym,,L,WCSP,277922,1000791-1,"Madroño","44: 289","","1997 publ. 1998",kew-277918
+tro-50191320,A,Asparagaceae,,Hesperaloe,,"funifera",subsp.,"funifera","",Synonym,,L,TRO,50191320,,"","","","1997",kew-277921
+kew-463273,A,Asparagaceae,,Hesperaloe,,"malacophylla",,"","Hochstätter & Mart.-Aval.",Accepted,,H,WCSP,463273,77104216-1,"Piante Grasse","30: 22","","2010",
+kew-277923,A,Asparagaceae,,Hesperaloe,,"nocturna",,"","Gentry",Accepted,,H,WCSP,277923,120786-2,"Madroño","19: 74","","1967",
+kew-277924,A,Asparagaceae,,Hesperaloe,,"parviflora",,"","(Torr.) J.M.Coult.",Accepted,,H,WCSP,277924,1213420-2,"Contr. U. S. Natl. Herb.","2: 436","","1894",
+kew-277925,A,Asparagaceae,,Hesperaloe,,"parviflora",var.,"engelmannii","(Krauskopf ex Baker) Trel.",Synonym,,L,WCSP,277925,120787-2,"Ann. Missouri Bot. Gard.","13: 33","","1902",kew-277920
+kew-459872,A,Asparagaceae,,Hesperaloe,,"parviflora",subsp.,"parviflora","",Synonym,,L,WCSP,459872,,"Unknown","","","",kew-277924
+kew-277926,A,Asparagaceae,,Hesperaloe,,"tenuifolia",,"","G.D.Starr",Accepted,,H,WCSP,277926,1000792-1,"Madroño","44: 293","","1997 publ. 1998",
+kew-277927,A,Asparagaceae,,Hesperaloe,,"yuccifolia",,"","(A.Gray) Engelm.",Synonym,,H,WCSP,277927,292492-2,"Botany [Fortieth Parallel]","497","","1871",kew-277924

@@ -1,0 +1,54 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-56202,A,Rubiaceae,,Damnacanthus,,"angustifolius",,"","Hayata",Accepted,,H,WCSP,56202,,"J. Coll. Sci. Imp. Univ. Tokyo","30: 113","","1908",
+kew-56203,A,Rubiaceae,,Damnacanthus,,"angustifolius",var.,"altimontanus","J.C.Liao",Synonym,,L,WCSP,56203,890222-1,"Bull. Exp. Forest Natl. Taiwan Univ.","117: 134","","1976",kew-56202
+kew-56208,A,Rubiaceae,,Damnacanthus,,"angustifolius",var.,"stenophyllus","(Koidz.) Masam.",Synonym,,L,WCSP,56208,,"Trans. Nat. Hist. Soc. Taiwan","28: 119","","1938",kew-56202
+kew-56209,A,Rubiaceae,,Damnacanthus,,"angustifolius",f.,"stenophyllus","(Koidz.) T.Yamaz.",Synonym,,L,WCSP,56209,954025-1,"J. Phytogeogr. Taxon.","35: 73","","1987",kew-56202
+kew-56210,A,Rubiaceae,,Damnacanthus,,"biflorus",,"","(Rehder) Masam.",Accepted,,H,WCSP,56210,,"Mem. Fac. Sci. Taihoku Imp. Univ.","4: 5","","1934",
+kew-56211,A,Rubiaceae,,Damnacanthus,,"biflorus",var.,"lutchuensis","(Koidz.) E.Walker",Synonym,,L,WCSP,56211,890225-1,"J. Jap. Bot.","46: 69","","1971",kew-56210
+kew-56212,A,Apocynaceae,,Damnacanthus,,"esquirolii",,"","H.Lév.",Synonym,,H,WCSP,56212,748103-1,"Repert. Spec. Nov. Regni Veg.","10: 435","","1912",kew-34226
+kew-56213,A,Rubiaceae,,Damnacanthus,,"formosanus",,"","(Nakai) Koidz.",Synonym,,H,WCSP,56213,748104-1,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56220
+kew-56214,A,Rubiaceae,,Damnacanthus,,"giganteus",,"","(Makino) Nakai",Accepted,,H,WCSP,56214,748105-1,"Trees Shrubs Japan","412","","1922",
+kew-56215,A,Rubiaceae,,Damnacanthus,,"guangxiensis",,"","Y.Z.Ruan",Accepted,,H,WCSP,56215,1016047-1,"in Fl. Reipubl. Popul. Sin.","71(2): 320","","1999",
+kew-56216,A,Rubiaceae,,Damnacanthus,,"hainanensis",,"","(H.S.Lo) Y.Z.Ruan",Accepted,,H,WCSP,56216,1016046-1,"in Fl. Reipubl. Popul. Sin.","71(2): 176","","1999",
+kew-56217,A,Rubiaceae,,Damnacanthus,,"henryi",,"","(H.Lév.) H.S.Lo",Accepted,,H,WCSP,56217,748106-1,"Acta Phytotax. Sin.","17: 108","","1979",
+kew-56218,A,Rubiaceae,,Damnacanthus,,"henryi",subsp.,"hainanensis","H.S.Lo",Synonym,,L,WCSP,56218,890226-1,"Acta Phytotax. Sin.","17: 108","","1979",kew-56216
+kew-56219,A,Rubiaceae,,Damnacanthus,,"henryi",subsp.,"henryi","",Synonym,,L,WCSP,56219,,"Unknown","","","",kew-56217
+kew-56220,A,Rubiaceae,,Damnacanthus,,"indicus",,"","C.F.Gaertn.",Accepted,,H,WCSP,56220,748107-1,"Suppl. Carp.","18","","1805",
+kew-56221,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"formosanus","Nakai",Synonym,,L,WCSP,56221,,"Trees Shrubs Japan","407","","1922",kew-56220
+kew-56222,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"giganteus","Makino",Synonym,,L,WCSP,56222,,"Bot. Mag. (Tokyo)","18: 33","","1904",kew-56214
+kew-56223,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"indicus","",Synonym,,L,WCSP,56223,,"Unknown","","","",kew-56220
+kew-56224,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"intermedius","Matsum.",Synonym,,L,WCSP,56224,,"Bot. Mag. (Tokyo)","15: 16","","1901",kew-56246
+kew-56225,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"lancifolius","Makino",Synonym,,L,WCSP,56225,,"Bot. Mag. (Tokyo)","18: 33","","1904",kew-56220
+kew-56226,A,Rubiaceae,,Damnacanthus,,"indicus",f.,"macrophyllus","(Siebold ex Miq.) Makino",Synonym,,L,WCSP,56226,,"Bot. Mag. (Tokyo)","18: 31","","1904",kew-56241
+kew-56227,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"macrophyllus","(Siebold ex Miq.) Makino",Synonym,,L,WCSP,56227,,"Bot. Mag. (Tokyo)","11: 279","","1897",kew-56241
+kew-56228,A,Rubiaceae,,Damnacanthus,,"indicus",f.,"major","(Siebold & Zucc.) Makino",Synonym,,L,WCSP,56228,,"Bot. Mag. (Tokyo)","18: 32","","1904",kew-56246
+kew-56229,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"major","(Siebold & Zucc.) Makino",Synonym,,L,WCSP,56229,,"Bot. Mag. (Tokyo)","11: 279","","1897",kew-56246
+kew-56230,A,Rubiaceae,,Damnacanthus,,"indicus",subsp.,"major","(Siebold & Zucc.) T.Yamaz.",Synonym,,L,WCSP,56230,954027-1,"J. Phytogeogr. Taxon.","35: 74","","1987",kew-56246
+kew-56231,A,Rubiaceae,,Damnacanthus,,"indicus",f.,"microphyllus","Makino",Synonym,,L,WCSP,56231,,"Bot. Mag. (Tokyo)","18: 31","","1904",kew-56232
+kew-56232,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"microphyllus","(Makino) Makino ex Nakai",Accepted,,L,WCSP,56232,,"Trees Shrubs Japan","ed. 2: 542","","1922",
+kew-56233,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"okinawensis","Hatus.",Synonym,,L,WCSP,56233,949432-1,"J. Phytogeogr. Taxon.","34: 9","","1986",kew-56256
+kew-56234,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"ovatus","Koidz.",Synonym,,L,WCSP,56234,,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56220
+kew-56235,A,Rubiaceae,,Damnacanthus,,"indicus",var.,"parvispinus","Koidz.",Synonym,,L,WCSP,56235,,"Pl. Nov. Amami-Ohsima","6","","1928",kew-56241
+kew-56237,A,Rubiaceae,,Damnacanthus,,"labordei",,"","(H.Lév.) H.S.Lo",Accepted,,H,WCSP,56237,748108-1,"Acta Phytotax. Sin.","17: 107","","1979",
+kew-56238,A,Rubiaceae,,Damnacanthus,,"lancifolius",,"","(Makino) Koidz.",Synonym,,H,WCSP,56238,748109-1,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56220
+kew-56239,A,Rubiaceae,,Damnacanthus,,"lancifolius",var.,"oblongus","Koidz.",Synonym,,L,WCSP,56239,,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56246
+kew-56240,A,Rubiaceae,,Damnacanthus,,"lutchuensis",,"","(Koidz.) Hatus.",Synonym,,H,WCSP,56240,748110-1,"J. Jap. Bot.","14: 237","","1938",kew-56210
+kew-56241,A,Rubiaceae,,Damnacanthus,,"macrophyllus",,"","Siebold ex Miq.",Accepted,,H,WCSP,56241,748111-1,"Ann. Mus. Bot. Lugduno-Batavi","3: 110","","1867",
+kew-56242,A,Rubiaceae,,Damnacanthus,,"macrophyllus",f.,"giganteus","(Makino) T.Yamaz.",Synonym,,L,WCSP,56242,954026-1,"J. Phytogeogr. Taxon.","35: 73","","1987",kew-56214
+kew-56243,A,Rubiaceae,,Damnacanthus,,"macrophyllus",var.,"giganteus","(Makino) Koidz.",Synonym,,L,WCSP,56243,,"Acta Phytotax. Geobot.","3: 159","","1934",kew-56214
+kew-56245,A,Rubiaceae,,Damnacanthus,,"macrophyllus",var.,"parvispinus","(Koidz.) Takahashi",Synonym,,L,WCSP,56245,,"Acta Phytotax. Geobot.","20: 100","","1962",kew-56241
+kew-56246,A,Rubiaceae,,Damnacanthus,,"major",,"","Siebold & Zucc.",Accepted,,H,WCSP,56246,748112-1,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.","4(3): 177","","1846",
+kew-56247,A,Rubiaceae,,Damnacanthus,,"major",var.,"lancifolius","(Makino) Ohwi",Synonym,,L,WCSP,56247,,"Fl. Jap.","","","1948",kew-56220
+kew-56248,A,Rubiaceae,,Damnacanthus,,"major",var.,"macrophyllus","(Siebold ex Miq.) Maxim.",Synonym,,L,WCSP,56248,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg","29: 171","","1883",kew-56241
+kew-56250,A,Rubiaceae,,Damnacanthus,,"major",var.,"parvifolius","Koidz.",Synonym,,L,WCSP,56250,,"Bot. Mag. (Tokyo)","39: 4","","1925",kew-56220
+kew-56251,A,Rubiaceae,,Damnacanthus,,"major",var.,"parvispinus","(Koidz.) Koidz.",Synonym,,L,WCSP,56251,,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56241
+kew-56252,A,Rubiaceae,,Damnacanthus,,"major",var.,"submitis","Maxim. ex Regel",Synonym,,L,WCSP,56252,,"Gartenflora","17: 35","","1868",kew-56241
+kew-56253,A,Rubiaceae,,Damnacanthus,,"minutispinus",,"","Koidz.",Synonym,,H,WCSP,56253,748113-1,"Acta Phytotax. Geobot.","4: 158","","1935",kew-56241
+kew-56254,A,Rubiaceae,,Damnacanthus,,"moniliformis",,"","Koidz.",Synonym,,H,WCSP,56254,748114-1,"Acta Phytotax. Geobot.","2: 225","","1933",kew-56241
+kew-56255,A,Rubiaceae,,Damnacanthus,,"officinarum",,"","C.C.Huang",Accepted,,H,WCSP,56255,748115-1,"Acta Phytotax. Sin.","17: 108","","1979",
+kew-56256,A,Rubiaceae,,Damnacanthus,×,"okinawensis",,"","Hatus.",Accepted,,H,WCSP,56256,930956-1,"J. Phytogeogr. Taxon.","34: 9","","1986",
+kew-56257,A,Rubiaceae,,Damnacanthus,,"shanii",,"","K.Yao & M.B.Deng",Synonym,,H,WCSP,56257,940547-1,"Bull. Bot. Res., Harbin","10(4): 1","","1990",kew-56241
+kew-56258,A,Rubiaceae,,Damnacanthus,,"stenophyllus",,"","(Koidz.) Masam.",Synonym,,H,WCSP,56258,748116-1,"Short Fl. Formosa","201","","1936",kew-56202
+kew-56259,A,Rubiaceae,,Damnacanthus,,"subspinosus",,"","Hand.-Mazz.",Synonym,,H,WCSP,56259,748117-1,"Symb. Sin.","7: 1026","","1936",kew-56214
+kew-56261,A,Rubiaceae,,Damnacanthus,,"tashiroi",,"","Hayata",Synonym,,H,WCSP,56261,748118-1,"Icon. Pl. Formosan.","9: 65","","1920",kew-56210
+kew-56262,A,Rubiaceae,,Damnacanthus,,"tsaii",,"","Hu",Accepted,,H,WCSP,56262,748119-1,"Bull. Fan Mem. Inst. Biol.","6: 178","","1935",

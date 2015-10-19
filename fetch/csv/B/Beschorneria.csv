@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-300551,A,Asparagaceae,,Beschorneria,,"albiflora",,"","Matuda",Accepted,,H,WCSP,300551,31841-2,"Anales Inst. Biol. Univ. Nac. Autón. México, Bot.","43: 52","","1972",
+kew-300552,A,Asparagaceae,,Beschorneria,,"argyrophylla",,"","W.Watson",Synonym,,H,WCSP,300552,,"Bull. Misc. Inform. Kew","1889: 302","","1889",kew-300571
+kew-300553,A,Asparagaceae,,Beschorneria,,"bracteata",,"","Jacobi ex Baker",Synonym,,H,WCSP,300553,,"Bot. Mag.","108: t. 6641","","1882",kew-300571
+tro-50193989,A,Asparagaceae,,Beschorneria,,"bracteata",,"","Jacobi",Synonym,,M,TRO,50193989,63193-1,"Index","12","12","",kew-300571
+kew-300554,A,Asparagaceae,,Beschorneria,,"calcicola",,"","García-Mend.",Accepted,,H,WCSP,300554,273243-2,"Herbertia","42: 28","","1986",
+kew-343076,A,Asparagaceae,,Beschorneria,,"chiapensis",,"","Matuda",Synonym,Invalid,H,WCSP,343076,,"List. Fl. Mexico","4: 215","","1986",kew-300551
+kew-300555,A,Asparagaceae,,Beschorneria,,"dekosteriana",,"","K.Koch",Synonym,,H,WCSP,300555,63195-1,"Wochenschr. Vereines Beförd. Gartenbaues Königl. Preuss. Staaten","7: 187","","1864",kew-300571
+kew-300556,A,Asparagaceae,,Beschorneria,,"dubia",,"","Carrière",Accepted,,H,WCSP,300556,63196-1,"Rev. Hort.","1877: 155","","1877",
+kew-300557,A,Asparagaceae,,Beschorneria,,"floribunda",,"","K.Koch",Synonym,,H,WCSP,300557,63197-1,"Wochenschr. Vereines Beförd. Gartenbaues Königl. Preuss. Staaten","5: 199","","1862",kew-307075
+kew-300558,A,Asparagaceae,,Beschorneria,,"glauca",,"","W.Watson",Unresolved,,L,WCSP,300558,,"Bull. Misc. Inform. Kew","1889: 302","","1889",
+kew-300559,A,Asparagaceae,,Beschorneria,,"hidalgorupicola",,"","Matuda",Synonym,,H,WCSP,300559,31838-2,"Anales Inst. Biol. Univ. Nac. México","37: 79","","1967",kew-300570
+kew-300560,A,Asparagaceae,,Beschorneria,,"multiflora",,"","K.Koch",Synonym,,H,WCSP,300560,63200-1,"Wochenschr. Vereines Beförd. Gartenbaues Königl. Preuss. Staaten","3: 63","","1860",kew-307075
+kew-300561,A,Asparagaceae,,Beschorneria,,"parmentieri",,"","(Roezl) Jacobi",Synonym,,H,WCSP,300561,63201-1,"Hamburg. Garten- Blumenzeitung","20: 503","","1864",kew-307075
+kew-300562,A,Asparagaceae,,Beschorneria,,"pubescens",,"","Berger",Synonym,,H,WCSP,300562,31842-2,"Gard. Chron.","III, 40: 350","","1906",kew-300569
+kew-300563,A,Asparagaceae,,Beschorneria,,"rigida",,"","Rose",Accepted,,H,WCSP,300563,31843-2,"Contr. U. S. Natl. Herb.","12: 262","","1909",
+kew-309945,A,Asparagaceae,,Beschorneria,,"roseana",,"","Ploem",Synonym,,H,WCSP,309945,,"Succulenta (Netherlands)","5: 118","","1923",kew-300563
+kew-300564,A,Asparagaceae,,Beschorneria,,"septentrionalis",,"","García-Mend.",Accepted,,H,WCSP,300564,936091-1,"Cact. Suc. Mex.","33: 3","","1988",
+kew-300565,A,Asparagaceae,,Beschorneria,,"superba",,"","Baker",Unresolved,,L,WCSP,300565,,"Handb. Amaryll.","162","","1888",
+kew-300566,A,Asparagaceae,,Beschorneria,,"tonelii",,"","Jacobi ex Hook.f.",Synonym,,H,WCSP,300566,57069-1,"Bot. Mag.","100: t. 6091","","1874",kew-300567
+kew-300567,A,Asparagaceae,,Beschorneria,,"tubiflora",,"","(Kunth & C.D.Bouché) Kunth",Accepted,,H,WCSP,300567,63209-1,"Enum. Pl.","5: 844","","1850",
+tro-50194002,A,Asparagaceae,,Beschorneria,,"verlindeniana",,"","Jacobi",Unresolved,,L,TRO,50194002,63210-1,"Index","12","12","",
+kew-300568,A,Asparagaceae,,Beschorneria,,"viridiflora",,"","Baker",Synonym,,H,WCSP,300568,,"Bull. Misc. Inform. Kew","1892: 7","","1892",kew-300571
+kew-300569,A,Asparagaceae,,Beschorneria,,"wrightii",,"","Hook.f.",Accepted,,H,WCSP,300569,31844-2,"Bot. Mag.","127: t. 7779","","1901",
+kew-300570,A,Asparagaceae,,Beschorneria,,"yuccoides",,"","K.Koch",Accepted,,H,WCSP,300570,,"Wochenschr. Gärtnerei Pflanzenk.","2: 337","","1859",
+kew-300571,A,Asparagaceae,,Beschorneria,,"yuccoides",subsp.,"dekosteriana","(K.Koch) García-Mend.",Accepted,,L,WCSP,300571,976018-1,"Monocot. Mexicanas Sinopsis Florística","30","","1993",
+kew-311207,A,Asparagaceae,,Beschorneria,,"yuccoides",subsp.,"yuccoides","",Synonym,,L,WCSP,311207,,"Unknown","","","",kew-300570

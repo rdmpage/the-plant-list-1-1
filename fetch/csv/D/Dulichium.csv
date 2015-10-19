@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-241527,A,Cyperaceae,,Dulichium,,"arundinaceum",,"","(L.) Britton",Accepted,,H,WCSP,241527,85782-2,"Bull. Torrey Bot. Club","21: 29","","1894",
+kew-241528,A,Cyperaceae,,Dulichium,,"arundinaceum",var.,"arundinaceum","",Synonym,,L,WCSP,241528,,"Unknown","","","",kew-241527
+kew-241530,A,Cyperaceae,,Dulichium,,"canadense",,"","Rich. ex Pers.",Synonym,,H,WCSP,241530,306597-1,"Syn. Pl.","1: 65","","1805",kew-241527
+kew-241531,A,Cyperaceae,,Dulichium,,"confervoides",,"","(Poir.) Alston",Synonym,,H,WCSP,241531,306598-1,"Handb. Fl. Ceylon","6(Suppl.): 310","","1931",kew-242405
+kew-241532,A,Cyperaceae,,Dulichium,,"spathaceum",,"","(L.) Rich. ex Pers.",Synonym,,H,WCSP,241532,,"Syn. Pl.","1: 65","","1805",kew-241527
+kew-332696,A,Cyperaceae,,Dulichium,,"spathaceum",var.,"humilius","Hook.",Synonym,,L,WCSP,332696,85785-2,"Fl. Bor.-Amer.","2: 232","","1839",kew-241527

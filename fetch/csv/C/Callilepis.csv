@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-90663,A,Compositae,,Callilepis,,"caerulea",,"","(Hutch.) Leins",Accepted,,M,TICA,D08271F1-0288-419F-9DB9-8498A4E065BE,187999-1,"Mitt. Bot. Staatssamml. München 9: 108 (1971)","","108","1971",
+gcc-108413,A,Compositae,,Callilepis,,"glabra",,"","DC.",Synonym,,M,TICA,4709BFEC-3C47-4066-9018-AC36E77D34E5,188000-1,"","","671","1836",gcc-48543
+gcc-975,A,Compositae,,Callilepis,,"hispida",,"","DC.",Synonym,,M,TICA,4462A8FB-4EBE-47A3-84F4-01CCCC014E13,188001-1,"","","671","1836",gcc-48543
+gcc-8676,A,Compositae,,Callilepis,,"lancifolia",,"","Burtt Davy",Accepted,,M,TICA,B6E7ED57-7851-4E5C-826B-1032A2626F08,188002-1,"","","84","1936",
+gcc-48543,A,Compositae,,Callilepis,,"laureola",,"","DC.",Accepted,,M,TICA,1983AC66-7465-469B-B588-59E9CE9A5EA3,188003-1,"","","671","1836",
+gcc-68251,A,Compositae,,Callilepis,,"laureola",var.,"glabra","(DC.) Harv.",Synonym,,L,TICA,E49615B7-0124-46E7-8879-DD6EE094F58C,,"","","","",gcc-48543
+gcc-66275,A,Compositae,,Callilepis,,"laureola",var.,"hispida","(DC.) Harv.",Synonym,,L,TICA,FFF3F65F-986E-498C-92C4-CD74067F7654,,"","","","",gcc-48543
+gcc-148441,A,Compositae,,Callilepis,,"laureola",var.,"laureola","",Synonym,,L,TICA,197F6043-BDC1-4EB3-A719-428623DE4513,,"","","","",gcc-48543
+gcc-114844,A,Compositae,,Callilepis,,"leptophylla",,"","Harv.",Accepted,,M,TICA,D8F5A186-DF95-4993-A37C-BACE18B95873,188004-1,"","","136","1865",
+gcc-77398,A,Compositae,,Callilepis,,"salicifolia",,"","Oliv.",Accepted,,M,TICA,797976A1-1AEF-4FA8-B59F-66CE12908704,,"","","t. 1482","1883",

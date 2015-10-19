@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-150264,A,Myrtaceae,,Pericalymma,,"crassipes",,"","(Lehm.) Schauer",Accepted,,H,WCSP,150264,600469-1,"Pl. Preiss.","1: 120","","1844",
+kew-150265,A,Myrtaceae,,Pericalymma,,"ellipticum",,"","(Endl.) Schauer",Accepted,,H,WCSP,150265,600470-1,"Pl. Preiss.","1: 120","","1844",
+kew-150266,A,Myrtaceae,,Pericalymma,,"ellipticum",var.,"ellipticum","",Synonym,,L,WCSP,150266,,"Unknown","","","",kew-150265
+kew-150267,A,Myrtaceae,,Pericalymma,,"ellipticum",var.,"floridum","(Schauer) Cranfield",Accepted,,L,WCSP,150267,1011710-1,"Nuytsia","13: 15","","1999",
+tro-100001405,A,Myrtaceae,,Pericalymma,,"floridanum",,"","Schauer",Unresolved,,L,TRO,100001405,,"Pl. Preiss.","1(1): 121","121","1844",
+kew-150268,A,Myrtaceae,,Pericalymma,,"floridum",,"","Schauer",Synonym,,H,WCSP,150268,600471-1,"Pl. Preiss.","1: 121","","1844",kew-150267
+kew-150269,A,Myrtaceae,,Pericalymma,,"megaphyllum",,"","Cranfield",Accepted,,H,WCSP,150269,1011711-1,"Nuytsia","13: 18","","1999",
+kew-150270,A,Myrtaceae,,Pericalymma,×,"roseum",,"","Turcz.",Synonym,,H,WCSP,150270,600472-1,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg","10: 334","","1852",kew-106585
+kew-150271,A,Myrtaceae,,Pericalymma,,"spongiocaule",,"","Cranfield",Accepted,,H,WCSP,150271,1011712-1,"Nuytsia","13: 20","","1999",
+kew-150272,A,Myrtaceae,,Pericalymma,,"teretifolium",,"","Turcz.",Synonym,,H,WCSP,150272,600473-1,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg","10: 334","","1852",kew-106569

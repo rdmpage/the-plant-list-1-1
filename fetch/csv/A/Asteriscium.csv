@@ -1,0 +1,52 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-95963,A,Compositae,,Asteriscium,,"aemocarpon",,"","Clos",Accepted,,M,TICA,428B956F-FC30-47F3-9CF7-908496DB1A16,24304-2,"Fl. Chil. 3: 101 (1848)","","101","1848",
+gcc-133477,A,Apiaceae,,Asteriscium,,"amplexicaule",,"","H.Wolff",Synonym,,M,TICA,7BF8321E-6021-4436-A0B1-E592493981EF,24305-2,"Bot. Jahrb. Syst. 40: 289 (1908)","","289","1908",gcc-94010
+tro-1700592,A,Apiaceae,,Asteriscium,,"amplexicaulis",,"","H. Wolff",Synonym,,M,TRO,1700592,,"Bot. Jahrb. Syst.","40: 289","289","1908",gcc-94010
+gcc-25149,A,Apiaceae,,Asteriscium,,"anethoides",,"","Turcz.",Synonym,,M,TICA,9D3238A4-31F4-4280-BB14-2E6D3B37B43E,838279-1,"Bull. Soc. Imp. Naturalistes Moscou 20(1): 170 (1847)","","170","1847",gcc-5301
+tro-35179034,B,Pottiaceae,,Asteriscium,,"angustulum",,"","(Herzog) Hilp.",Synonym,,M,TRO,35179034,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",tro-35168658
+gcc-86663,A,Compositae,,Asteriscium,,"argentinum",,"","Chodat & Wilczek",Accepted,,M,TICA,22EF3BD7-7499-4C89-AF8F-7B6BF590C152,,"""Bull. Herb. Boissier, II, 2: 526 (1902)""","","526","1902",
+tro-35179035,B,Pottiaceae,,Asteriscium,,"australasiae",,"","(Hook. & Grev.) Hilp.",Synonym,,M,TRO,35179035,,"Beih. Bot. Centralbl., Abt. 2","50(2): 618","618","1933",tro-35140524
+gcc-78561,A,Compositae,,Asteriscium,,"chilense",,"","Cham. & Schltdl.",Accepted,,M,TICA,5AB8B579-A2FA-4C3F-B5CE-696AE8B8BF6F,,"Linnaea 1: 254 (1826)","","354","1826",
+gcc-151746,A,Compositae,,Asteriscium,,"chilense",var.,"chilense","",Synonym,,L,TICA,389A8720-FBEF-4A3F-94A3-8B659B035405,,"","","","",gcc-78561
+gcc-68097,A,Compositae,,Asteriscium,,"chilense",var.,"haenkei","DC.",Synonym,,L,TICA,A3DE2DBD-0569-49CD-B4C8-DC38FDA8BE37,24309-2,"Prodr. 4: 82 (1830)","","82","1830",gcc-78561
+gcc-90525,A,Compositae,,Asteriscium,,"closii",,"","(Kuntze) Mathias & Constance",Accepted,,M,TICA,36BD49FD-DD48-473A-9373-843950739A88,24310-2,"Univ. Calif. Publ. Bot. 33: 125 (1962)","","125","1962",
+gcc-116802,A,Compositae,,Asteriscium,,"crambe",,"","H.Wolff",Synonym,,M,TICA,9FD03774-77F9-4864-8070-BF42CF8BB81A,24311-2,"Bot. Jahrb. Syst. 40: 290 (1908)","","290","1908",gcc-86663
+tro-35179036,B,Pottiaceae,,Asteriscium,,"curvipes",,"","(Müll. Hal.) Hilp.",Synonym,,M,TRO,35179036,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",tro-35141389
+tro-35179037,B,Pottiaceae,,Asteriscium,,"deciduum",,"","Hilp.",Synonym,,M,TRO,35179037,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",tro-35111596
+tro-35179038,B,Pottiaceae,,Asteriscium,,"decolorans",,"","(Hampe) Hilp.",Accepted,,M,TRO,35179038,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",
+gcc-139118,A,Apiaceae,,Asteriscium,,"dipterygia",,"","(DC.) Drude",Synonym,,M,TICA,EF07B891-1CC5-4833-9603-F2058C31C6F9,24312-2,"Nat. Pflanzenfam. 3(8): 135 (1897)","","135","1897",gcc-5301
+tro-35179040,B,Pottiaceae,,Asteriscium,,"ecuadoriense",,"","(Broth.) Hilp.",Accepted,,M,TRO,35179040,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",
+gcc-126561,A,Compositae,,Asteriscium,,"famatinense",,"","Hieron. & H.Wolff",Accepted,,M,TICA,EBD1A2C4-76F1-44AF-9710-D59C446814E6,24313-2,"Bot. Jahrb. Syst. 40: 290 (1908)","","290","1908",
+gcc-106306,A,Compositae,,Asteriscium,,"fimbriatum",,"","Speg.",Accepted,,M,TICA,359AB218-76A0-4D90-AA52-A77AFE563E1F,838286-1,"Revista Fac. Agron. Univ. Nac. La Plata: 523 (1897)","","523","1897",
+tro-35179041,B,Pottiaceae,,Asteriscium,,"flavisetum",,"","Herzog",Synonym,,M,TRO,35179041,,"Repert. Spec. Nov. Regni Veg.","55: 18. 11","18","1952",tro-35140559
+gcc-88292,A,Apiaceae,,Asteriscium,,"flexuosum",,"","(Clos) Hemsl.",Synonym,,M,TICA,4A3E0673-D401-466F-BCE8-7F1D6F0BE6FC,838287-1,"Diagn. Pl. Nov. Mexic.: 16 (1878)","","16","1878",gcc-144866
+tro-1700597,A,Apiaceae,,Asteriscium,,"flexuosum",,"","Clos",Synonym,,M,TRO,1700597,,"","","","",gcc-144866
+tro-1700598,A,Apiaceae,,Asteriscium,,"foliosum",,"","Phil.",Unresolved,,L,TRO,1700598,,"","","","",
+tro-1700599,A,Apiaceae,,Asteriscium,,"fruticosum",,"","Phil.",Unresolved,,L,TRO,1700599,,"","","","",
+tro-35179042,B,Pottiaceae,,Asteriscium,,"geniculatum",,"","(Mont.) Herzog",Accepted,,M,TRO,35179042,,"Arch. Esc. Fárm. Fac. Ci. Méd. Córdoba","7: 41","41","1939",
+gcc-41632,A,Compositae,,Asteriscium,,"glaucum",,"","Hieron. & H.Wolff",Accepted,,M,TICA,8389370D-30B0-4D14-A544-4D1793746252,,"Bot. Jahrb. Syst. 40: 290 (1908)","","290","1908",
+tro-35179043,B,Pottiaceae,,Asteriscium,,"graminicolor",,"","(Müll. Hal.) Hilp.",Accepted,,M,TRO,35179043,,"Beih. Bot. Centralbl., Abt. 2","50(2): 519","519","1933",
+tro-1700601,A,Apiaceae,,Asteriscium,,"haematocarpum",,"","Clos",Unresolved,,L,TRO,1700601,,"","","","",
+tro-1700602,A,Apiaceae,,Asteriscium,,"isatichicarpum",,"","Hook.",Unresolved,,L,TRO,1700602,,"","","","",
+gcc-124313,A,Apiaceae,,Asteriscium,,"isatidicarpum",,"","(DC.) Hook. & Arn.",Synonym,,L,TICA,B9973144-0BB1-461F-BA7C-D0605AD844F6,838289-1,"Bot. Misc. 3: 349 (1833)","","349","1833",gcc-110916
+gcc-7604,A,Apiaceae,,Asteriscium,,"longirameum",,"","H.Wolff",Synonym,,M,TICA,65F33625-8C1C-474F-B735-0E1D690B0656,24316-2,"Bot. Jahrb. Syst. 40: 292 (1908)","","292","1908",gcc-26106
+kew-2656497,A,Apiaceae,,Asteriscium,,"novarae",,"","Constance & Charpin",Accepted,,M,WCSP (in review),,77063613-1,"Candollea","59: 256","","2004",
+gcc-91490,A,Compositae,,Asteriscium,,"oemocarpum",,"","Walp.",Synonym,,M,TICA,415166CD-64AF-47A6-B5D2-867F7681CF41,838291-1,"Ann. Bot. Syst. 1: 978 (1849)","","978","1849",gcc-95963
+tro-35179044,B,Pottiaceae,,Asteriscium,,"poeppigianum",,"","(Müll. Hal.) Hilp.",Accepted,,M,TRO,35179044,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",
+gcc-83469,A,Compositae,,Asteriscium,,"poeppigii",,"","DC.",Synonym,,M,TICA,02B21807-34B9-49A3-8420-74617DBC3B0D,838292-1,"Prodr. 4: 82 (1830)","","82","1830",gcc-78561
+gcc-106708,A,Apiaceae,,Asteriscium,,"polycephalum",,"","Gillies & Hook.",Synonym,,M,TICA,340AB586-260E-4A98-8567-A86DDA41F37C,838294-1,"Bot. Misc. 1: 332 (1830)","","332","1830",gcc-5301
+gcc-119856,A,Apiaceae,,Asteriscium,,"polycephalum",,"","Hieron. ex H.Wolff",Synonym,Illegitimate,M,TICA,95B3B36F-F33D-4B81-A3F4-C62018139A26,838293-1,"Repert. Spec. Nov. Regni Veg. 17: 439 (1921)","","439","1921",gcc-5301
+gcc-134899,A,Compositae,,Asteriscium,,"pozoides",,"","Clos",Synonym,,M,TICA,0FBB8187-7E53-4C29-A659-E8C28CC54D89,24319-2,"Fl. Chil. 3: 100 (1848)","","100","1848",gcc-78561
+gcc-18667,A,Compositae,,Asteriscium,,"pungens",,"","Drude",Synonym,,M,TICA,732E46DF-2B97-49A0-8552-227CACD4B81D,24320-2,"Nat. Pflanzenfam. 3(8): 134 (1897)","","134","1897",gcc-90525
+gcc-47053,A,Compositae,,Asteriscium,,"ramosissimum",,"","Phil.",Synonym,,M,TICA,D7AD72B1-588B-4836-B8B8-572EABF62269,838297-1,"Linnaea 33: 90 (1864)","","90","1864",gcc-95963
+tro-35179045,B,Pottiaceae,,Asteriscium,,"riparium",,"","(Müll. Hal.) Hilp.",Accepted,,M,TRO,35179045,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",
+gcc-78674,A,Apiaceae,,Asteriscium,,"robustum",,"","(Clos) Baill.",Synonym,,M,TICA,F4F75D48-4DEF-4138-ADDE-69AA88AD69BF,838298-1,"Hist. Pl. 7: 145 (1879)","","145","1879",gcc-83057
+gcc-125673,A,Apiaceae,,Asteriscium,,"spinescens",,"","(Phil.) Drude",Synonym,,L,TICA,42347791-FCFC-4F31-AB6E-D392ECDED910,24322-2,"Nat. Pflanzenfam. 3(8): 135 (1897)","","135","1897",gcc-110916
+gcc-21085,A,Apiaceae,,Asteriscium,,"spinosissimum",,"","(Phil.) Drude",Synonym,,L,TICA,FF4B7648-76B7-4EFD-BF95-26F22B8CF4A6,24323-2,"Nat. Pflanzenfam. 3(8): 135 (1897)","","135","1897",gcc-134889
+tro-35179046,B,Pottiaceae,,Asteriscium,,"subtophaceum",,"","(R.S. Williams) Hilp.",Accepted,,M,TRO,35179046,,"Beih. Bot. Centralbl., Abt. 2","50(2): 618","618","1933",
+tro-35179047,B,Pottiaceae,,Asteriscium,,"torquescens",,"","(Cardot) Hilp.",Accepted,,M,TRO,35179047,,"Beih. Bot. Centralbl., Abt. 2","50(2): 620","620","1933",
+tro-35179048,B,Pottiaceae,,Asteriscium,,"trichostomaceum",,"","(Müll. Hal.) Hilp.",Accepted,,M,TRO,35179048,,"Beih. Bot. Centralbl., Abt. 2","50(2): 619","619","1933",
+gcc-12939,A,Apiaceae,,Asteriscium,,"tripartitum",,"","H.Wolff",Synonym,,M,TICA,710888C9-6393-48A0-92E8-181F0C82A22F,24324-2,"Bot. Jahrb. Syst. 40: 293 (1908)","","293","1908",gcc-130158
+gcc-116767,A,Apiaceae,,Asteriscium,,"triradiatum",,"","H.Wolff",Synonym,,M,TICA,6EDF7440-07CA-484B-AA36-BF2BDCC8EFFE,24325-2,"Bot. Jahrb. Syst. 40: 292 (1908)","","292","1908",gcc-92717
+gcc-130159,A,Compositae,,Asteriscium,,"verrucosum",,"","Meyen",Synonym,,M,TICA,AF52DCD6-497B-4199-9B39-DDE67D6FC145,838303-1,"Observ. Bot. 1: 315 (1834)","","315","1834",gcc-95963
+gcc-112179,A,Compositae,,Asteriscium,,"vidalii",,"","Phil.",Accepted,,M,TICA,E60BAFAF-6ED0-499C-B59E-B4CEF4E656F8,838304-1,"Anales Univ. Chile 85: 711 (1894)","","711","1894",

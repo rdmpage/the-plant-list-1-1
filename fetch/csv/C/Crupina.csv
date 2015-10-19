@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117454,A,Compositae,,Crupina,,"acuta",,"","(Lam.) Fritsch ex Janch.",Synonym,,M,TICA,3C2C3A76-28ED-4452-BA17-C0B51E615283,200604-1,"","","111","1907",gcc-3691
+gcc-121843,A,Compositae,,Crupina,,"alpestris",,"","Arv.-Touv.",Synonym,,M,TICA,41912432-0E0F-488A-9F55-CAA7B55031A1,200605-1,"Bull. Soc. Bot. France 26(Bibl.): 39 (1879)","","39","1879",gcc-3691
+gcc-37450,A,Compositae,,Crupina,,"brachypappa",,"","Jord. & Fourr.",Synonym,,M,TICA,9AB8EF37-30FF-42C0-9988-456A11A1D613,200606-1,"","","84","1868",gcc-3691
+gcc-1899,A,Compositae,,Crupina,,"crupina",,"","(L.) H.Karst.",Synonym,Illegitimate,M,TICA,E657DBCA-257B-4664-BD7A-036C8AC4EDC1,200607-1,"","","1126","1883",gcc-3691
+gcc-117552,A,Compositae,,Crupina,,"crupinastrum",,"","(Moris) Vis.",Accepted,,M,TICA,BDD0B300-6A43-46C0-B4DB-C0EFB653400B,200608-1,"","","42","1847",
+gcc-64538,A,Compositae,,Crupina,,"crupinastrum",subsp.,"brachypappa","(Jord. & Fourr.) Beauverd",Synonym,,L,TICA,367A1B69-C8F5-439D-94C3-BF4686BFE1E9,,"Beauverd in Bull. Soc. Bot. Genève 4. 1912.","","410","1912",gcc-3691
+gcc-148705,A,Compositae,,Crupina,,"crupinastrum",var.,"crupinastrum","",Synonym,,L,TICA,56B3DB85-BC81-41E9-89EB-48D7A13F1479,,"","","","",gcc-117552
+gcc-155859,A,Compositae,,Crupina,,"crupinastrum",subsp.,"crupinastrum","",Synonym,,L,TICA,15162160-71BD-437A-90E0-E14608AED48D,,"","","","",gcc-117552
+gcc-71062,A,Compositae,,Crupina,,"crupinastrum",var.,"matae","(P.Palau) Font Quer ex O.Bolòs & Vigo",Synonym,,L,TICA,1EFDB585-BD38-47F8-AB6C-F3177D6F199D,954385-1,"","","93","1988",gcc-117552
+gcc-90306,A,Compositae,,Crupina,,"etrusca",,"","Gand.",Unresolved,,L,TICA,533F1397-143F-4E1C-AD26-83AC98A7AAFC,998552-1,"","","40","1875",
+gcc-104467,A,Compositae,,Crupina,,"insularis",,"","Gand.",Unresolved,,L,TICA,A1BC48AE-66B1-4EB4-BD3A-A390FFA7B1BE,998553-1,"","","40","1875",
+gcc-133846,A,Compositae,,Crupina,,"intermedia",,"","Briq. & Cavill.",Unresolved,,L,TICA,6E98F5E2-F9DD-469A-9A62-E669DD7307BE,,"","","","",
+gcc-134335,A,Compositae,,Crupina,,"intermedia",,"","(Mutel) Walp.",Accepted,,M,TICA,EF780C6A-043E-4EB6-8D62-E78F45D144DC,200609-1,"","","447","1849",
+gcc-98182,A,Compositae,,Crupina,,"matae",,"","P.Palau",Unresolved,,L,TICA,FEF2CD47-8CF2-44A9-B4CE-9586918868D7,200610-1,"","","365","1947",gcc-117552
+gcc-107692,A,Compositae,,Crupina,,"morisii",,"","Boreau",Synonym,,M,TICA,69641BE5-7613-46C1-8509-AAA8933356A8,200611-1,"","","292","1849",gcc-117552
+gcc-3403,A,Compositae,,Crupina,,"oligantha",,"","Tschern.",Synonym,,M,TICA,AAA90DC2-31F6-44FB-B05B-064953AD0BEE,,"","","","1962",gcc-3691
+gcc-109001,A,Compositae,,Crupina,,"pauciflora",,"","Hoffmanns. & Link",Synonym,,M,TICA,7FE0496B-6872-498B-BD39-ADA9FEDF8809,,"","","","1825",gcc-3691
+gcc-76498,A,Compositae,,Crupina,,"pauciflora",,"","Kar. & Kir.",Synonym,Illegitimate,M,TICA,08A4D849-99D2-455C-BAE9-64D86222F3D1,,"","","","1842",gcc-3691
+gcc-9687,A,Compositae,,Crupina,,"pseudo-crupina",,"","(Mutel) Walp.",Accepted,,L,TICA,A9758E3C-360B-4542-A894-1217851E5A38,,"","","","1849",
+gcc-27029,A,Compositae,,Crupina,,"strum",,"","(Moris) Vis.",Accepted,,M,TICA,A655A898-286E-4C27-BE0B-31F5621652F0,,"Fl. Dalmat. 2 : 42 (1847)","","42","1847",
+gcc-103445,A,Compositae,,Crupina,,"villosa",,"","Gand.",Unresolved,,L,TICA,113D7B74-5966-479C-ADF1-A147236B01B9,998554-1,"","","40","1875",
+gcc-3691,A,Compositae,,Crupina,,"vulgaris",,"","Pers. ex Cass.",Accepted,,M,TICA,13BA1023-6D0A-418E-A072-06D941EDC9EF,112003-3,"""Dict. Sci. Nat., ed. 2. 12: 68. 1818""","","68","1818",
+gcc-155649,A,Compositae,,Crupina,,"vulgaris",subsp.,"vulgaris","",Synonym,,L,TICA,AD9E033C-523E-4E85-AD41-DC9C7608F341,,"","","","",gcc-3691
+gcc-66146,A,Compositae,,Crupina,,"vulgaris",var.,"vulgaris","",Synonym,,L,TICA,86BA9AC1-5537-4E88-AD60-CC6653EAC6C6,,"","","","",gcc-3691
+gcc-34130,A,Compositae,,Crupina,,"zuccarinii",,"","Bunge ex Nyman",Synonym,,M,TICA,90A2E53B-5220-4ECD-AC32-3F4452115DF7,200617-1,"","","433","1879",gcc-117552

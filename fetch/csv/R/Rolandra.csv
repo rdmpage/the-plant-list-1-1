@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10840,A,Compositae,,Rolandra,,"argentea",,"","Rottb.",Synonym,,M,TICA,F64AF33D-2052-4F8A-9FFE-144D69B9ADEF,,"","","256","1775",gcc-113485
+gcc-82563,A,Compositae,,Rolandra,,"diacantha",,"","Cass.",Synonym,,M,TICA,D9CDAF8F-C509-4E32-A67A-725637C5C443,,"","","171","1827",gcc-113485
+gcc-104657,A,Compositae,,Rolandra,,"fruticosa",,"","Rottb.",Unresolved,,L,TICA,870158FE-CF64-4E60-8467-A3F07D766BD6,241564-1,"in Soc. Med. Havn. Collect. ii. (1775) 268.","","ii.  268","1775",
+gcc-113485,A,Compositae,,Rolandra,,"fruticosa",,"","(L.) Kuntze",Accepted,,M,TICA,3E21EBDF-511E-44B7-AEA9-B7B9413DB741,221674-2,"Revis. Gen. Pl. 1: 360. 1891.","","360","1891",
+gcc-31172,A,Compositae,,Rolandra,,"monacantha",,"","Cass.",Synonym,,M,TICA,FE5B363F-61A2-41BE-A514-39B65951D3F4,241566-1,"","","171","1827",gcc-113485
+gcc-149245,A,Compositae,,Rolandra,,"reptans",,"","Willd. ex Less.",Synonym,,M,TICA,E528BA99-390F-4E0A-9E8D-54D98CD37D38,,"","","","",gcc-35357
+gcc-23024,A,Compositae,,Rolandra,,"reptans",,"","Willd. ex DC.",Unresolved,,L,TICA,D9DCD563-1F77-45E8-B94D-2AA32E5A5682,241567-1,"Prodr. (DC.) 5: 91","","91","1836",
+gcc-49493,A,Compositae,,Rolandra,,"septans",,"","Willd. ex Less.",Synonym,Illegitimate,M,TICA,154493B6-46E8-4A0A-A476-5BBA6A58649B,,"Linnaea 4: 343. 1829.","","343","1829",gcc-35357
+gcc-79780,A,Compositae,,Rolandra,,"terminalis",,"","Spreng.",Synonym,,M,TICA,C0DD31F8-B86E-47A3-AF39-6C2A146863EC,241568-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 673","","673","1826",gcc-151934

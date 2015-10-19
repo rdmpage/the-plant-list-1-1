@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2692988,G,Cupressaceae,,Calocedrus,,"decurrens",,"","(Torr.) Florin",Accepted,,H,WCSP,382424,42548-2,"Taxon","5: 192","","1956",
+kew-2692989,G,Cupressaceae,,Calocedrus,,"formosana",,"","(Florin) Florin",Accepted,,H,WCSP,382425,294855-1,"Taxon","5: 192","","1956",
+kew-2692990,G,Cupressaceae,,Calocedrus,,"macrolepis",,"","Kurz",Accepted,,H,WCSP,382426,,"J. Bot.","11: 196","","1878",
+kew-2692991,G,Cupressaceae,,Calocedrus,,"macrolepis",var.,"formosana","(Florin) W.C.Cheng & L.K.Fu",Synonym,,L,WCSP,382427,879429-1,"in Fl. Reipubl. Popul. Sin.","7: 327","","1978",kew-2692989
+tro-9400427,G,Cupressaceae,,Calocedrus,,"macrolepis",var.,"macrolepis","",Synonym,,L,TRO,9400427,,"","","","",kew-2692990
+kew-2606508,G,Cupressaceae,,Calocedrus,,"rupestris",,"","Aver., T.H.Nguyên & P.K.Lôc",Accepted,,H,WCSP,381482,77086050-1,"Issues Basic Res. Life Sci.","41","","2004",

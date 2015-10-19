@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-262414,A,Orchidaceae,,Rhynchostylis,,"albiflora",,"","I.Barua & Bora",Synonym,,H,WCSP,262414,70029357-1,"J. Econ. Taxon. Bot.","26: 251","","2002",kew-178388
+kew-178378,A,Orchidaceae,,Rhynchostylis,,"coelestis",,"","(Rchb.f.) A.H.Kent",Accepted,,H,WCSP,178378,655693-1,"Man. Orchid. Pl.","7: 53","","1891",
+kew-178379,A,Orchidaceae,,Rhynchostylis,,"densiflora",,"","(Lindl.) L.O.Williams",Synonym,,H,WCSP,178379,655694-1,"Bot. Mus. Leafl.","5: 58","","1937",kew-179178
+kew-178380,A,Orchidaceae,,Rhynchostylis,,"garwalica",,"","(Lindl.) Rchb.f.",Synonym,,H,WCSP,178380,655696-1,"Ann. Bot. Syst.","6: 888","","1864",kew-178388
+kew-178381,A,Orchidaceae,,Rhynchostylis,,"gigantea",,"","(Lindl.) Ridl.",Accepted,,H,WCSP,178381,655695-1,"J. Linn. Soc., Bot.","32: 356","","1896",
+kew-178382,A,Orchidaceae,,Rhynchostylis,,"gigantea",subsp.,"gigantea","",Synonym,,L,WCSP,178382,,"Unknown","","","",kew-178381
+kew-348234,A,Orchidaceae,,Rhynchostylis,,"gigantea",f.,"harrisoniana","(Hook.) M.Wolff & O.Gruss",Synonym,,L,WCSP,348234,77081278-1,"Orchid. Atlas","391","","2007",kew-178381
+tro-100251714,A,Orchidaceae,,Rhynchostylis,,"gigantea",f.,"harrisoniana","(Hook. f.) Roeth",Synonym,,L,TRO,100251714,77087199-1,"Orchidee (Hamburg)","58(3): Orchideenkartei 1067","","2007",kew-178381
+kew-178383,A,Orchidaceae,,Rhynchostylis,,"gigantea",subsp.,"violacea","(Lindl.) Christenson",Accepted,,L,WCSP,178383,952192-1,"Indian Orchid J.","1: 154","","1985",
+kew-178384,A,Orchidaceae,,Rhynchostylis,,"guttata",,"","(Lindl.) Rchb.f.",Synonym,,H,WCSP,178384,655697-1,"Bonplandia (Hannover)","2: 93","","1854",kew-178388
+kew-2421916,A,Apiaceae,,Rhynchostylis,,"hirsutus",,"","Tausch",Unresolved,,L,WCSP (in review),,847764-1,"Flora","17: 343","","1834",kew-2714241
+kew-178385,A,Orchidaceae,,Rhynchostylis,,"latifolia",,"","C.E.C.Fisch.",Synonym,,H,WCSP,178385,655698-1,"Bull. Misc. Inform. Kew","1927: 358","","1927",kew-188268
+kew-178386,A,Orchidaceae,,Rhynchostylis,,"papillosa",,"","(Lindl.) Heynh.",Synonym,,H,WCSP,178386,655699-1,"Alph. Aufz. Gew.","594","","1847",kew-1426
+kew-178387,A,Orchidaceae,,Rhynchostylis,,"praemorsa",,"","(Willd.) Blume",Synonym,,H,WCSP,178387,655700-1,"Bijdr.","286","","1825",kew-178388
+kew-178388,A,Orchidaceae,,Rhynchostylis,,"retusa",,"","(L.) Blume",Accepted,,H,WCSP,178388,655701-1,"Bijdr.","286","","1825",
+kew-344695,A,Orchidaceae,,Rhynchostylis,,"retusa",f.,"albiflora","(I.Barua & Bora) Christenson",Synonym,,L,WCSP,344695,77073664-1,"J. Orchideenfr.","12: 344","","2005",kew-178388
+kew-178389,A,Orchidaceae,,Rhynchostylis,,"violacea",,"","(Lindl.) Rchb.f.",Synonym,,H,WCSP,178389,655702-1,"Bonplandia (Hannover)","2: 93","","1854",kew-178383

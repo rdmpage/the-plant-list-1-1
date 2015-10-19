@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32781,A,Compositae,,Millina,,"arabica",,"","Boiss.",Synonym,,M,TICA,E2B4C536-8F7B-4C47-AD0B-3CCB0086E346,,"","","38","1849",gcc-152363
+gcc-45111,A,Compositae,,Millina,,"chicoracea",,"","Pomel",Unresolved,,L,TICA,FE2EF577-8B79-45C9-875F-53A0C0CCF952,233356-1,"Nouv. Mat. Fl. Atl. 270.","","270","",
+gcc-79309,A,Compositae,,Millina,,"hispidula",,"","Boiss.",Accepted,,M,TICA,0F199E9F-8BD6-461C-9DA0-6B271B690AEB,,"""Diagn. Pl. Orient. ser. 1, 11: 38""","","38","1849",
+gcc-153594,A,Compositae,,Millina,,"hispidula",var.,"hispidula","",Synonym,,L,TICA,296A498C-BA6E-4DCB-AB30-B18CC367651E,,"","","","",gcc-79309
+gcc-155239,A,Compositae,,Millina,,"hispidula",var.,"tenuiloba","Boiss.",Synonym,,L,TICA,22A5BCA7-C387-4F5B-85D2-D3C27C39F3DF,,"""P.E. Boissier, Diagn. Pl. Orient. 11. 1849""","","38","1849",gcc-152363
+gcc-142920,A,Compositae,,Millina,,"hyoseroides",,"","DC.",Unresolved,,L,TICA,30335526-1288-471F-A986-FABF4824D398,233358-1,"Prodr. (DC.) 7(1): 110","","110","1838",
+gcc-89234,A,Compositae,,Millina,,"leontodontoides",,"","Cass.",Synonym,,M,TICA,FC503064-FFD5-458F-B459-814060F1ED73,,"in Dict. Sc. Nat. xxxi. 90.","","","",gcc-123952
+gcc-114505,A,Compositae,,Millina,,"persica",,"","Boiss.",Synonym,,M,TICA,B25D33D1-2B07-4988-AC07-BA044CEB9CBF,,"","","3","1846",gcc-152363
+gcc-153336,A,Compositae,,Millina,,"reboudiana",,"","Pomel",Synonym,,M,TICA,25B72D1E-430D-43FF-823A-AC31EC47B0DF,,"""A.N. Pomel, Nouv. Mat. Fl. Atl.. 1874""","","269","1874",gcc-68870

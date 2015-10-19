@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-2848,A,Compositae,,Iostephane,,"heterophylla",,"","(Cav.) Benth.",Accepted,,M,TICA,F18D8FF3-2CA5-47DC-9823-054232B3C877,,"Gen. Pl. (Bentham & Hooker f.) ii. 368 (1873).","","","1873",
+gcc-12908,A,Compositae,,Iostephane,,"heterophylla",var.,"dicksonii","W.M.Sharp",Unresolved,,L,TICA,30E03211-82B4-4E03-A3AB-180FD2A1CA1E,129080-2,"Ann. Missouri Bot. Gard. 22: 82. 1935","","82","1935",
+gcc-148117,A,Compositae,,Iostephane,,"heterophylla",var.,"heterophylla","",Synonym,,L,TICA,B8B9A686-6C40-4FEE-BA3D-3BEC2DFA7065,,"","","","",gcc-2848
+gcc-7052,A,Compositae,,Iostephane,,"madrensis",,"","(S.Watson) Strother",Accepted,,M,TICA,68F6155D-CA87-42A6-80E7-0D1DFF2F2750,912721-1,"","","36","1983",
+gcc-42652,A,Compositae,,Iostephane,,"papposa",,"","J.J.Fay",Accepted,,M,TICA,09CEBD32-B5C2-4BDD-9A0F-4EFF8EAEF5A7,,"","","","1973",
+gcc-103617,A,Compositae,,Iostephane,,"trilobata",,"","Hemsl.",Accepted,,M,TICA,13871B0D-3CE8-4397-9D7C-A1AB7598A0E2,,"","","169","1881",

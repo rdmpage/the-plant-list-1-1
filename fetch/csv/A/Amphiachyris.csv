@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-40317,A,Compositae,,Amphiachyris,,"amoena",,"","(Shinners) Solbrig",Accepted,,M,TICA,5BA93F7E-8A84-4B36-ADC5-4ABCC8E4F436,11514-2,"Rhodora 62","","52","1960",
+gcc-143484,A,Compositae,,Amphiachyris,,"dracunculoides",,"","(DC.) Nutt.",Accepted,,M,TICA,B604578C-A99E-4A57-A6A8-FC029A6E7909,,"","","313","1840",
+gcc-26533,A,Compositae,,Amphiachyris,,"fremontii",,"","(Torr. & A.Gray) A.Gray",Synonym,,M,TICA,F1BE8D65-3A0B-4386-B1FA-31083B41EF7A,30205390-2,"Proc. Amer. Acad. Arts 8","","633","1873",gcc-10528
+gcc-29675,A,Compositae,,Amphiachyris,,"fremontii",var.,"fremontii","",Synonym,,L,TICA,0A905076-28E3-41A8-AC6A-36D83F3D0364,,"","","","",gcc-10528
+gcc-47122,A,Compositae,,Amphiachyris,,"fremontii",var.,"spinosa","A.Nelson",Synonym,,L,TICA,FACCBC07-91FC-4A95-8E49-574EB3197454,11515-2,"Bot. Gaz. 47","","431","1909",gcc-29895
+gcc-9719,A,Compositae,,Amphiachyris,,"spinosa",,"","(A.Nelson) A.Nelson",Synonym,,M,TICA,AE86CDEB-4969-4248-8C00-1229925D04C4,176237-1,"","","579","1934",gcc-29895

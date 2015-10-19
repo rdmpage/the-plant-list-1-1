@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-121011,A,Compositae,,Cacaliopsis,,"glabrata",,"","(Piper) Rydb.",Synonym,,M,TICA,03197401-1DDB-4D96-ACA7-C8DB014D1D9E,39474-2,"N. Amer. Fl. 34","","316","1927",gcc-136769
+gcc-136769,A,Compositae,,Cacaliopsis,,"nardosmia",,"","(A.Gray) A.Gray",Accepted,,M,TICA,9A971C89-8174-4C7C-9A82-ECF8933F3D3F,1050878-2,"Proc. Amer. Acad. Arts 19","","50","1883",
+gcc-67143,A,Compositae,,Cacaliopsis,,"nardosmia",var.,"glabrata","Piper",Synonym,,L,TICA,4AB340D5-62A5-4D1D-B96D-D49B9A8CA3E0,39475-2,"Bull. Torrey Bot. Club 29","","222","1902",gcc-136769
+gcc-146242,A,Compositae,,Cacaliopsis,,"nardosmia",subsp.,"nardosmia","",Synonym,,L,TICA,55EEDCC2-7C04-4FFB-B291-148F73DB0572,,"","","","",gcc-136769
+gcc-61165,A,Compositae,,Cacaliopsis,,"nardosmia",var.,"nardosmia","",Synonym,,L,TICA,B6579C6D-4442-4B7B-AB15-A45CEE95358A,,"","","","",gcc-136769

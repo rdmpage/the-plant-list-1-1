@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-103204,A,Compositae,,Dittrichia,,"graveolens",,"","(L.) Greuter",Accepted,,M,TICA,63DA967F-D781-4662-AFF1-A0BB0CBF506F,201892-1,"","","71","1973",
+gcc-174,A,Compositae,,Dittrichia,,"maritima",,"","Brullo & De Marco",Synonym,,M,TICA,8574CC2F-F92F-422A-B0DA-00512B8E2743,20000793-1,"","","346","2000",gcc-32892
+gcc-90179,A,Compositae,,Dittrichia,,"orientalis",,"","Brullo & De Marco",Synonym,,M,TICA,6F324C2D-6160-46E1-AB57-8361FCC6A504,20000792-1,"","","345","2000",gcc-61190
+gcc-109439,A,Compositae,,Dittrichia,,"revoluta",,"","(Hoffmanns. & Link) Brullo & De Marco",Synonym,,M,TICA,902EC101-82A6-4594-8C1F-AEA997FCD073,20000791-1,"","","344","2000",gcc-66422
+gcc-16305,A,Compositae,,Dittrichia,,"viscosa",,"","(L.) Greuter",Accepted,,M,TICA,8D730EDD-ACFC-4BAB-8C84-1E28737D57A4,201893-1,"","","71","1973",
+gcc-61190,A,Compositae,,Dittrichia,,"viscosa",subsp.,"angustifolia","(Bég.) Greuter",Accepted,,L,TICA,99BA6DE7-C93F-4E9A-AECC-A48EFC71A651,,"","","242","2003",
+gcc-32892,A,Compositae,,Dittrichia,,"viscosa",subsp.,"maritima","(Brullo & De Marco) Greuter",Accepted,,L,TICA,6D6FFCF4-2519-4C0E-9CDF-3D00A1180737,,"","","242","2003",
+gcc-66422,A,Compositae,,Dittrichia,,"viscosa",subsp.,"revoluta","(Hoffmanns. & Link) P.Silva & Tutin",Accepted,,L,TICA,132A7B14-0D0B-443B-89F7-CEB4935A580C,877166-1,"","","282","1973",
+gcc-59001,A,Compositae,,Dittrichia,,"viscosa",subsp.,"viscosa","",Synonym,,L,TICA,FBAEAFDB-AB7C-448F-8CC6-93134976244E,,"","","","",gcc-16305

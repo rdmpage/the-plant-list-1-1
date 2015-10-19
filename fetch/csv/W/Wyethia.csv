@@ -1,0 +1,36 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33333,A,Compositae,,Wyethia,,"amplexicaulis",,"","(Nutt.) Nutt.",Accepted,,M,TICA,88233822-7539-4EA6-9253-3DC7E4F31A07,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 352""","","","1840",
+gcc-50463,A,Compositae,,Wyethia,,"amplexicaulis",subsp.,"amplexicaulis","",Synonym,,L,TICA,5B6D86C9-9BE8-4C10-BE5D-5D8CF7B856D8,,"","","","",gcc-33333
+gcc-60272,A,Compositae,,Wyethia,,"amplexicaulis",subsp.,"major","Piper",Synonym,,L,TICA,F04C139D-2397-4DE9-BA32-9D0C717237CE,269170-2,"Proc. Biol. Soc. Wash. 27: 98. 1914","","98","1914",gcc-33333
+gcc-65838,A,Compositae,,Wyethia,,"amplexicaulis",subsp.,"subresinosa","Piper",Synonym,,L,TICA,70F44339-D880-4B09-8C9D-CA02E849F3B2,269171-2,"Proc. Biol. Soc. Wash. 27: 98. 1914","","98","1914",gcc-33333
+gcc-34894,A,Compositae,,Wyethia,,"angustifolia",,"","(DC.) Nutt.",Accepted,,L,TICA,E09DA33F-91EB-4597-89DB-40B24E39A71B,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 352""","","352","1840",
+gcc-66822,A,Compositae,,Wyethia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,F3D512FC-D36A-4A16-B8CD-D20B9EEC8903,,"","","","",gcc-34894
+gcc-21185,A,Compositae,,Wyethia,,"angustifolia",var.,"foliosa","H.M.Hall",Synonym,,L,TICA,CCDC724C-5EA7-4549-84D4-2721B1F065B7,269172-2,"Univ. Calif. Publ. Bot. 4: 207. 1912","","207","1912",gcc-34894
+gcc-28790,A,Compositae,,Wyethia,,"arizonica",,"","A.Gray",Accepted,,M,TICA,21710A7D-A0B9-425C-863D-353BFCD0506D,260750-1,"Proc. Amer. Acad. Arts viii. (1873) 655.","","655","1873",
+gcc-19388,A,Compositae,,Wyethia,,"bolanderi",,"","(A.Gray) W.A.Weber",Synonym,,M,TICA,DE671979-286B-452D-AE9B-23D6FE4B7FD8,269174-2,"","","419","1946",gcc-92901
+gcc-31773,A,Compositae,,Wyethia,,"californica",,"","Nutt. ex Walp.",Unresolved,,L,TICA,54D4D69B-BAD2-4CEF-8256-3AE004A935C5,260752-1,"""Repert. Bot. Syst. (Walpers) ii. 608, nomen.""","","608","",
+gcc-31857,A,Compositae,,Wyethia,,"coriacea",,"","A.Gray",Synonym,,M,TICA,CF605B80-7CE8-40C7-8C0B-3B057F92F40F,260753-1,"Proc. Amer. Acad. Arts xi. (1876) 77.","","77","1876",gcc-141401
+gcc-142668,A,Compositae,,Wyethia,,"cusickii",,"","Piper",Accepted,,M,TICA,6B8E650C-41BD-4EFB-86EA-FA1D2CB651CE,269175-2,"","","98","1914",
+gcc-121025,A,Compositae,,Wyethia,,"elata",,"","H.M.Hall",Synonym,,M,TICA,DC9D95D0-C169-478C-919D-C8E0D8CA2802,269176-2,"","","208","1912",gcc-77678
+gcc-34916,A,Compositae,,Wyethia,,"foliosa",,"","Congdon",Unresolved,,L,TICA,B0E54381-3185-49A5-9FD9-40BB632F30A5,269177-2,"","","186","1900",gcc-34894
+gcc-136359,A,Compositae,,Wyethia,,"glabra",,"","A.Gray",Accepted,,M,TICA,60EC890F-0E63-4FEE-B946-EC121E8B1B13,,"Proc. Amer. Acad. Arts vi. (1865) 543.","","","1865",
+gcc-30077,A,Compositae,,Wyethia,,"helenioides",,"","(DC.) Nutt.",Accepted,,M,TICA,BC76E900-79A9-4BF7-B8AF-37AE1491C316,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 353""","","353","1840",
+gcc-112173,A,Compositae,,Wyethia,,"helianthoides",,"","Nutt.",Accepted,,M,TICA,AF5462B3-8F7F-4FC2-831E-B4CD67802F2E,,"in Journ.Acad. Philad. vii. (1834) 38.","","","1834",
+gcc-95968,A,Compositae,,Wyethia,,"invenusta",,"","(Greene) W.A.Weber",Synonym,,M,TICA,69B92CB1-17AE-4FB7-85FC-9088E9A56E3A,269178-2,"","","421","1946",gcc-339
+gcc-139312,A,Compositae,,Wyethia,,"lanceolata",,"","Howell",Synonym,,M,TICA,CC35B96D-4E0C-4179-89C5-F276C38D0C62,269179-2,"","","341","1900",gcc-33333
+gcc-81094,A,Compositae,,Wyethia,,"longicaulis",,"","A.Gray",Accepted,,M,TICA,58C2D9A0-3F55-470A-A60C-6F0BD21258FC,260762-1,"Proc. Amer. Acad. Arts xix. (1883) 4.","","4","1883",
+gcc-133505,A,Compositae,,Wyethia,×,"magna",,"","A.Nelson",Accepted,,M,TICA,8C5806E7-2826-450A-91A5-E5A24803F242,,"","","","",
+gcc-144779,A,Compositae,,Wyethia,×,"magna",,"","A.Nelson ex W.A.Weber",Unresolved,,L,TICA,3C60A83A-2812-404B-B79E-FEE0850C9C8D,,"""Phytologia 53(3): 190 (1983), without latin descr.""","","190","1983",
+gcc-10907,A,Compositae,,Wyethia,,"major",,"","Piper",Unresolved,Illegitimate,L,TICA,EAB177AF-6CDF-4AC1-8C6F-1466A284CBE9,,"Proc. Biol. Soc. Wash. 27: 234. 1914","","234","1914",
+gcc-27003,A,Compositae,,Wyethia,,"mexicana",,"","S.Watson",Synonym,,M,TICA,0427623A-DC8A-4A40-8BA0-31E8C9FD4D19,269181-2,"","","154","1890",gcc-26454
+gcc-2991,A,Compositae,,Wyethia,,"mollis",,"","A.Gray",Accepted,,M,TICA,11BD9F50-929D-40A7-8D4C-058CF7D321B5,260764-1,"Proc. Amer. Acad. Arts vi. (1865) 544.","","544","1865",
+gcc-112067,A,Compositae,,Wyethia,,"ovata",,"","Torr. & A.Gray ex Torr. & A.Gray",Synonym,,M,TICA,088005E6-86C9-4F9B-BB50-B48D5A807B72,318999-2,"","","143","1848",gcc-141401
+gcc-28061,A,Compositae,,Wyethia,,"ovata",,"","A.Gray",Unresolved,Illegitimate,L,TICA,EEC9E5C5-676F-465E-9657-33D0EAC8CC70,,"","","357","",
+gcc-149087,A,Compositae,,Wyethia,,"ovata",var.,"ovata","",Synonym,,L,TICA,A835021E-844C-43CB-B3C6-514279E6C324,,"","","","",gcc-141401
+gcc-138618,A,Compositae,,Wyethia,,"reticulata",,"","Greene",Synonym,,M,TICA,5436CCA3-B48F-4AE7-8D6E-F0FC6F9E39E0,319001-2,"","","9","1884",gcc-25736
+gcc-141136,A,Compositae,,Wyethia,,"robusta",,"","Nutt.",Accepted,,M,TICA,825C3EF3-8873-4720-B964-F6A6D27D7392,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 352""","","352","1840",
+gcc-106057,A,Compositae,,Wyethia,,"scabra",,"","Hook.",Synonym,,M,TICA,DF2842D9-E40F-495A-8CE5-A6F055072A46,,"","","","1847",gcc-89509
+gcc-50747,A,Compositae,,Wyethia,,"scabra",var.,"attenuata","W.A.Weber",Synonym,,L,TICA,BC306A1D-D9E2-4ED4-9AF0-5E1B7BBF6BDE,,"Amer. Midl. Naturalist 35: 425. 1946","","","1946",gcc-51359
+gcc-56883,A,Compositae,,Wyethia,,"scabra",var.,"canescens","W.A.Weber",Synonym,,L,TICA,FFB3BE60-CDEF-4A41-9B1F-81E7EE63CE2C,,"Amer. Midl. Naturalist 35: 425. 1946","","","1946",gcc-56233
+gcc-59124,A,Compositae,,Wyethia,,"scabra",var.,"scabra","",Synonym,,L,TICA,5EA69232-99D9-4126-8056-94037AB6598D,,"","","","",gcc-89509
+gcc-17983,A,Compositae,,Wyethia,,"subresinosa",,"","",Unresolved,,L,TICA,DDAEB142-536D-46B5-8EC5-213CCCAD3E80,1097488-2,"Proc. Biol. Soc. Wash. 27: 234. 1914","","234","1914",

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-62510,A,Orchidaceae,,Diploprora,,"bicaudata",,"","(Thwaites) Schltr.",Synonym,,H,WCSP,62510,629982-1,"Repert. Spec. Nov. Regni Veg. Beih.","4: 281","","1919",kew-62511
+tro-50013345,A,Orchidaceae,,Diploprora,,"championi",,"","(Lindl. ex Benth.) Hook. f. ex Schltr.",Synonym,,M,TRO,50013345,,"Repert. Spec. Nov. Regni Veg. Beih.","4: 281","281","1919",kew-62511
+kew-62511,A,Orchidaceae,,Diploprora,,"championii",,"","(Lindl.) Hook.f.",Accepted,,H,WCSP,62511,629983-1,"Fl. Brit. India","6: 26","","1890",
+kew-62512,A,Orchidaceae,,Diploprora,,"championii",var.,"uraiensis","(Hayata) S.S.Ying",Synonym,,L,WCSP,62512,992210-1,"Mem. Coll. Agric. Natl. Taiwan Univ.","28: 36","","1988",kew-62511
+kew-62513,A,Orchidaceae,,Diploprora,,"kusukusensis",,"","Hayata",Synonym,,H,WCSP,62513,629985-1,"Icon. Pl. Formosan.","4: 86","","1914",kew-62511
+kew-62514,A,Orchidaceae,,Diploprora,,"truncata",,"","Rolfe ex Downie",Accepted,,H,WCSP,62514,629986-1,"Bull. Misc. Inform. Kew","1925: 385","","1925",
+kew-62515,A,Orchidaceae,,Diploprora,,"uraiensis",,"","Hayata",Synonym,,H,WCSP,62515,629987-1,"Icon. Pl. Formosan.","4: 87","","1914",kew-62511

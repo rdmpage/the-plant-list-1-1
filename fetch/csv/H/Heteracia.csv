@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11156,A,Compositae,,Heteracia,,"epapposa",,"","(Regel & Schmalh.) Popov",Synonym,,M,TICA,B4B6161F-5A5D-459E-8DBB-14DCF3AAB0AB,,"","","","1941",gcc-84015
+gcc-84015,A,Compositae,,Heteracia,,"szovitsii",,"","Fisch. & C.A.Mey.",Accepted,,M,TICA,7A8E37C3-CA07-4283-AF11-75936EE39D9E,,"","","","1835",
+gcc-70199,A,Compositae,,Heteracia,,"szovitsii",var.,"epapposa","Regel & Schmalh.",Synonym,,L,TICA,F8E126FE-980A-42FF-8A00-EC2F9A477753,,"""Eduard August von  Regel & Johannes Theodor  Schmalhausen, in Trudy Imp. S.-Peterburgsk. Bot. Sada 6. 1878""","","329","1878",gcc-84015
+gcc-156149,A,Compositae,,Heteracia,,"szovitsii",var.,"szovitsii","",Synonym,,L,TICA,1923D9EF-4DB5-4009-9A5D-E779FA0BBE44,,"","","","",gcc-84015

@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-22502,A,Compositae,,Glossogyne,,"bidens",,"","(Retz.) Alston",Synonym,,M,TICA,9FBF7782-0AA4-4F68-A7F8-299E25F82530,209016-1,"","","168","1931",gcc-94833
+gcc-95744,A,Compositae,,Glossogyne,,"bidentidea",,"","F.Muell.",Synonym,,M,TICA,206A22BF-019C-485F-BCF2-900FA2E37314,,"Linnaea 25","","402","",gcc-94833
+gcc-131914,A,Compositae,,Glossogyne,,"brasiliensis",,"","Gardner",Synonym,,M,TICA,CC6CC421-054D-4C4B-BFF8-E209EBD62017,209018-1,"London J. Bot. 7","","408","1848",gcc-105424
+gcc-97869,A,Compositae,,Glossogyne,,"chinensis",,"","Less.",Synonym,,M,TICA,5CC981D4-F15C-470C-A1C9-94D5C0FD954C,209019-1,"","","212","1832",gcc-77369
+gcc-110199,A,Compositae,,Glossogyne,,"condorensis",,"","Gagnep.",Accepted,,M,TICA,BD0DFE6F-3311-4F77-9272-B0517FFB1CFF,209020-1,"Bull. Soc. Bot. France 68","","118","1921",
+gcc-36428,A,Compositae,,Glossogyne,,"filifolia",,"","(F.Muell.) F.Muell. ex Benth.",Synonym,,M,TICA,A9470BEE-0CB8-423E-8C1D-438F19B20A95,209021-1,"Fl. Austral. 3","","544","1867",gcc-120299
+gcc-83784,A,Compositae,,Glossogyne,,"hennedyi",,"","R.Br.bis",Unresolved,,L,TICA,26CE34DC-C80A-4114-8D99-750693C308FD,209023-1,"Trans. & Proc. New Zealand Inst. 15: 259 (1882 publ. 1883)","","259","1883",
+gcc-45447,A,Compositae,,Glossogyne,,"integrifolia",,"","Gagnep.",Accepted,,M,TICA,A251ADA1-6201-4F74-A2D4-54390896A5DF,209022-1,"Bull. Soc. Bot. France 68","","119","1921",
+gcc-43588,A,Compositae,,Glossogyne,,"kennedyi",,"","R.Br.ter.",Unresolved,,L,TICA,24F9298B-24C5-4FEC-BF52-50CD6F6059F6,,"","","","1883",
+gcc-78579,A,Compositae,,Glossogyne,,"orthochaeta",,"","F.Muell.",Synonym,,M,TICA,9394D7D4-03CA-4F55-83AF-6972E2DC434F,127348-3,"","","","1891",gcc-41649
+gcc-127330,A,Compositae,,Glossogyne,,"pedunculosa",,"","DC.",Synonym,,M,TICA,DF9001DE-A4A0-4872-88A2-D766D9E50FD0,209025-1,"","","632","1836",gcc-94833
+gcc-123347,A,Compositae,,Glossogyne,,"pinnatifida",,"","DC.",Synonym,,M,TICA,22AEAA59-35B7-4FD2-9086-CE1867745F38,209026-1,"","","19","1834",gcc-94833
+gcc-45959,A,Compositae,,Glossogyne,,"pinnatifida",,"","DC. ex Wight",Synonym,Illegitimate,M,TICA,B2561B3C-C36D-4143-B0BA-5530F329DC9C,,"Contributions to the Botany of India","","19","1834",gcc-94833
+gcc-96739,A,Compositae,,Glossogyne,,"retroflexa",,"","F.Muell.",Synonym,,M,TICA,C3DE1103-204A-4457-AC7A-9249A7BA6000,209027-1,"","","51","1858",gcc-31437
+gcc-30491,A,Compositae,,Glossogyne,,"tannensis",,"","(Spreng.) Garn.-Jones",Synonym,,M,TICA,F566A82B-4EA8-4312-910C-3867F8FB78FC,169662-3,"Taxon 35(1):","","125","1986",gcc-94833
+gcc-114495,A,Compositae,,Glossogyne,,"tenuifolia",,"","(Labill.) Cass. ex Cass.",Synonym,Invalid,M,TICA,D4E28FE8-A3CC-4122-BD74-B9FE77C15DCB,209028-1,"Dict. Sci. Nat. 51: 475 (1827)","","475","1827",gcc-94833
+gcc-129707,A,Compositae,,Glossogyne,,"tenuifolia",,"","(Labill.) Cass. ex Less.",Synonym,,M,TICA,083D0572-8841-498A-9643-DCE673049DD1,60451755-2,"","","","1832",gcc-94833
+gcc-146599,A,Compositae,,Glossogyne,,"tenuifolia",var.,"divaricata","Domin",Synonym,,L,TICA,AC757511-81C3-4914-BEDA-1C2E6E6CD961,,"","","","1930",gcc-94833
+gcc-147242,A,Compositae,,Glossogyne,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,CC28E8AA-9012-43DA-910E-295CE1B69154,,"","","","",gcc-94833
+gcc-108571,A,Compositae,,Glossogyne,,"tridentata",,"","(Turcz.) Benth. ex Benth. & Hook.f.",Synonym,,M,TICA,3691A2ED-1D56-4E5F-89BD-AC9640291F52,,"","","","",gcc-94833

@@ -1,0 +1,102 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-443751,A,Poaceae,,Spartina,,"alterniflora",,"","Loisel.",Accepted,,H,WCSP,443751,,"Fl. Gall.","719","","1807",
+tro-25517806,A,Poaceae,,Spartina,,"alterniflora",var.,"alterniflora","",Synonym,,L,TRO,25517806,,"","","","",kew-443751
+kew-443752,A,Poaceae,,Spartina,,"alterniflora",var.,"glabra","(Muhl.) Fernald",Synonym,,L,WCSP,443752,241099-2,"Rhodora","18: 178","","1916",kew-443751
+kew-443753,A,Poaceae,,Spartina,,"alterniflora",var.,"pilosa","(Merr.) Fernald",Synonym,,L,WCSP,443753,241100-2,"Rhodora","18: 179","","1916",kew-443751
+kew-443754,A,Poaceae,,Spartina,,"americana",,"","Roth ex Trin.",Synonym,Invalid,H,WCSP,443754,,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","4(1): 109","","1840",kew-443813
+kew-443755,A,Poaceae,,Spartina,,"anglica",,"","C.E.Hubb.",Accepted,,H,WCSP,443755,422426-1,"Bot. J. Linn. Soc.","76: 364","","1978",
+kew-443756,A,Poaceae,,Spartina,,"argentinensis",,"","Parodi",Synonym,Illegitimate,H,WCSP,443756,422427-1,"Revista Fac. Agron. Veterin.","2: 30","","1919",kew-443829
+kew-443757,A,Poaceae,,Spartina,,"arundinacea",,"","(Thouars) Carmich.",Accepted,,H,WCSP,443757,422428-1,"Trans. Linn. Soc. London","12: 504","","1819",
+kew-443758,A,Poaceae,,Spartina,,"bahiensis",,"","Steud.",Synonym,Invalid,H,WCSP,443758,,"Nomencl. Bot.","ed. 2, 2: 474","","1841",kew-443751
+kew-443759,A,Poaceae,,Spartina,,"bakeri",,"","Merr.",Accepted,,H,WCSP,443759,241102-2,"Bull. Bur. Pl. Industr. U.S.D.A.","9: 14","","1902",
+kew-443760,A,Poaceae,,Spartina,,"brasiliensis",,"","Raddi",Synonym,,H,WCSP,443760,422431-1,"Agrostogr. Bras.","21","","1823",kew-443751
+kew-443761,A,Poaceae,,Spartina,,"caespitosa",,"","Eaton",Accepted,,H,WCSP,443761,422432-1,"Bull. Torrey Bot. Club","25: 338","","1898",
+tro-25512524,A,Poaceae,,Spartina,×,"caespitosa",,"","A.A. Eaton",Unresolved,,L,TRO,25512524,241104-2,"Bull. Torrey Bot. Club","25(6): 338–339","338","1898",
+kew-443762,A,Poaceae,,Spartina,,"capensis",,"","Nees",Synonym,,H,WCSP,443762,422434-1,"Fl. Afr. Austral. Ill.","260","","1841",kew-443799
+tro-25515237,A,Poaceae,,Spartina,,"capensis",,"","Nees ex Trin.",Synonym,,M,TRO,25515237,,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","6,4(1–2): 111","111","1840",kew-443799
+kew-443763,A,Poaceae,,Spartina,,"ciliata",,"","Brongn.",Accepted,,H,WCSP,443763,,"Voy. Monde","Phan.: 15","","1829",
+kew-443764,A,Poaceae,,Spartina,,"coarctata",,"","Trin.",Synonym,,H,WCSP,443764,422436-1,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","5(2): 110","","1840",kew-443763
+kew-443765,A,Poaceae,,Spartina,,"cynosuroides",,"","(L.) Roth",Accepted,,H,WCSP,443765,1217139-2,"Catal. Bot.","3: 10","","1806",
+kew-443767,A,Poaceae,,Spartina,,"cynosuroides",var.,"aureomarginata","W.Irving",Synonym,,L,WCSP,443767,,"Gard. Chron.","III, 38: 372","","1905",kew-443817
+tro-25518219,A,Poaceae,,Spartina,,"cynosuroides",var.,"cynosuroides","",Synonym,,L,TRO,25518219,,"","","","",kew-443765
+kew-443766,A,Poaceae,,Spartina,,"cynosuroides",f.,"major","St.-Yves",Synonym,,L,WCSP,443766,292061-2,"Candollea","5: 61","","1932",kew-443817
+kew-443768,A,Poaceae,,Spartina,,"cynosuroides",var.,"michauxiana","(Hitchc.) St.-Yves",Synonym,,L,WCSP,443768,241106-2,"Candollea","5: 58","","1932",kew-443817
+kew-443769,A,Poaceae,,Spartina,,"cynosuroides",var.,"polystachya","(Michx.) Beal",Synonym,,L,WCSP,443769,1150215-2,"Grass. N. Amer.","2: 698","","1896",kew-443765
+tro-25539734,A,Poaceae,,Spartina,,"cynosuroides x gracilis",,"","St.-Yves",Synonym,,M,TRO,25539734,,"Candollea","5: 66, t. 4, f. b10","66","1932",kew-443765
+kew-443770,A,Poaceae,,Spartina,,"densiflora",,"","Brongn.",Accepted,,H,WCSP,443770,,"Voy. Monde","Phan.: 14","","1829",
+kew-443771,A,Poaceae,,Spartina,,"densiflora",f.,"acuta","St.-Yves",Synonym,,L,WCSP,443771,292059-2,"Candollea","5: 76","","1932",kew-443779
+kew-443774,A,Poaceae,,Spartina,,"densiflora",var.,"junciformis","(Engelm. & A.Gray) St.-Yves",Synonym,,L,WCSP,443774,241107-2,"Candollea","5: 26","","1932",kew-443829
+kew-443775,A,Poaceae,,Spartina,,"densiflora",var.,"obtusa","Hack.",Synonym,,L,WCSP,443775,241108-2,"Repert. Spec. Nov. Regni Veg.","6: 345","","1909",kew-443829
+kew-443776,A,Poaceae,,Spartina,,"dissitiflora",,"","Steud.",Synonym,,H,WCSP,443776,422439-1,"Syn. Pl. Glumac.","1: 215","","1854",kew-443751
+kew-443777,A,Poaceae,,Spartina,,"durieui",,"","Parl.",Synonym,,H,WCSP,443777,,"Fl. Ital.","1: 230","","1850",kew-443835
+kew-443778,A,Poaceae,,Spartina,,"fasciculata",,"","P.Beauv.",Synonym,,H,WCSP,443778,422441-1,"Ess. Agrostogr.","25","","1812",kew-443751
+kew-443779,A,Poaceae,,Spartina,,"foliosa",,"","Trin.",Accepted,,H,WCSP,443779,422442-1,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","5(2): 114","","1840",
+kew-443780,A,Poaceae,,Spartina,,"geniculata",,"","(Burm.f.) P.Beauv.",Unresolved,,L,WCSP,443780,422443-1,"Ess. Agrostogr.","25","","1812",kew-406637
+kew-443781,A,Poaceae,,Spartina,,"glabra",,"","Muhl. ex Elliott",Synonym,,H,WCSP,443781,,"Sketch Bot. S. Carolina","1: 95","","1816",kew-443751
+kew-443782,A,Poaceae,,Spartina,,"glabra",var.,"alterniflora","(Loisel.) Merr.",Synonym,,L,WCSP,443782,241112-2,"Bull. Bur. Pl. Industr. U.S.D.A.","9: 9","","1902",kew-443751
+kew-443783,A,Poaceae,,Spartina,,"glabra",var.,"pilosa","Merr.",Synonym,,L,WCSP,443783,241113-2,"Bull. Bur. Pl. Industr. U.S.D.A.","9: 9","","1902",kew-443751
+kew-443784,A,Poaceae,,Spartina,,"glabriuscula",,"","Hassk.",Synonym,Invalid,H,WCSP,443784,422445-1,"Cat. Hort. Bot. Bogor.","18","","1844",kew-409334
+kew-443785,A,Poaceae,,Spartina,,"gouinii",,"","E.Fourn.",Synonym,,H,WCSP,443785,422447-1,"Mexic. Pl.","2: 135","","1886",kew-443829
+kew-443786,A,Poaceae,,Spartina,,"gracilis",,"","Trin.",Accepted,,H,WCSP,443786,,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","5(2): 119","","1840",
+kew-443787,A,Poaceae,,Spartina,,"humilis",,"","Link",Synonym,,H,WCSP,443787,422450-1,"Jahrb. Gewächsk.","1(3): 93","","1820",kew-399416
+kew-443788,A,Poaceae,,Spartina,,"intermedia",,"","Bosc ex St.-Yves",Synonym,Invalid,H,WCSP,443788,422451-1,"Candollea","5: 50","","1932",kew-443799
+kew-443789,A,Poaceae,,Spartina,,"juncea",,"","(Michx.) Willd.",Synonym,,H,WCSP,443789,1047227-2,"Enum. Pl.","81","","1809",kew-443813
+kew-443791,A,Poaceae,,Spartina,,"juncea",var.,"bakeri","(Merr.) St.-Yves",Synonym,,L,WCSP,443791,241115-2,"Candollea","5: 27","","1932",kew-443759
+tro-50197671,A,Poaceae,,Spartina,,"juncea",var.,"juncea","",Synonym,,L,TRO,50197671,,"","","","",kew-443813
+kew-443792,A,Poaceae,,Spartina,,"juncea",var.,"laxiflora","St.-Yves",Synonym,,L,WCSP,443792,241117-2,"Candollea","5: 88","","1932",kew-443770
+tro-25528233,A,Poaceae,,Spartina,,"juncea",var.,"montevidense","(Arechav.) St.-Yves",Synonym,,L,TRO,25528233,,"Candollea","5: 89","89","1932",kew-443770
+kew-443793,A,Poaceae,,Spartina,,"juncea",var.,"montevidensis","(Arechav.) St.-Yves",Synonym,,L,WCSP,443793,241118-2,"Candollea","5: 89","","1932",kew-443770
+kew-443794,A,Poaceae,,Spartina,,"juncea",var.,"patens","(Aiton.) St.-Yves",Synonym,,L,WCSP,443794,241119-2,"Candollea","5: 27, 86","","1931",kew-443813
+kew-443795,A,Poaceae,,Spartina,,"junciformis",,"","Engelm. & A.Gray",Synonym,,H,WCSP,443795,241120-2,"Boston J. Nat. Hist.","5: 238","","1845",kew-443829
+kew-443796,A,Poaceae,,Spartina,,"laevigata",,"","Bosc ex Link",Synonym,,H,WCSP,443796,422454-1,"Jahrb. Gewächsk.","1(3): 92","","1820",kew-443751
+kew-443797,A,Poaceae,,Spartina,,"leiantha",,"","Benth.",Synonym,,H,WCSP,443797,422455-1,"Bot. Voy. Sulphur","56","","1844",kew-443779
+kew-443798,A,Poaceae,,Spartina,,"longispica",,"","Hauman & Parodi ex St.-Yves",Accepted,,H,WCSP,443798,422456-1,"Candollea","5: 27, 92","","1932",
+kew-443799,A,Poaceae,,Spartina,,"maritima",,"","(Curtis) Fernald",Accepted,,H,WCSP,443799,241121-2,"Rhodora","18: 180","","1916",
+kew-443803,A,Poaceae,,Spartina,,"maritima",var.,"alterniflora","(Loisel.) St.-Yves",Synonym,,L,WCSP,443803,292054-2,"Candollea","5: 25, 53","","1932",kew-443751
+kew-443804,A,Poaceae,,Spartina,,"maritima",var.,"brasiliensis","(Raddi) St.-Yves",Synonym,,L,WCSP,443804,292052-2,"Candollea","5: 56","","1932",kew-443751
+kew-443805,A,Poaceae,,Spartina,,"maritima",var.,"glabra","(Muhl.) St.-Yves",Synonym,,L,WCSP,443805,292049-2,"Candollea","5: 24, 49","","1932",kew-443751
+tro-50196036,A,Poaceae,,Spartina,,"maritima",subsp.,"glabra","(Muhl. ex Elliott) St.-Yves",Synonym,,L,TRO,50196036,241122-2,"Candollea","5: 48","48","1932",kew-443751
+tro-50196037,A,Poaceae,,Spartina,,"maritima",f.,"gracilis","St.-Yves",Synonym,,L,TRO,50196037,292053-2,"Candollea","5: 54","54","1932",kew-443751
+kew-443800,A,Poaceae,,Spartina,,"maritima",subsp.,"stricta","(Aiton) St.-Yves",Synonym,,L,WCSP,443800,,"Candollea","5: 45","","1931",kew-443799
+kew-443806,A,Poaceae,,Spartina,,"merrillii",,"","Chev.",Synonym,,H,WCSP,443806,,"Bull. Soc. Bot. France","80: 787","","1933",kew-443751
+tro-50196039,A,Poaceae,,Spartina,×,"merrillii",,"","A. Chev.",Synonym,,M,TRO,50196039,,"Bull. Soc. Bot. France","80: 787","787","1933",kew-443751
+kew-443807,A,Poaceae,,Spartina,,"michauxiana",,"","Hitchc.",Synonym,,H,WCSP,443807,241123-2,"Contr. U. S. Natl. Herb.","12: 153","","1908",kew-443817
+kew-443808,A,Poaceae,,Spartina,,"michauxiana",var.,"suttiei","Farw.",Synonym,,L,WCSP,443808,241124-2,"Rep. (Annual) Michigan Acad. Sci.","20: 352","","1920",kew-443817
+kew-443809,A,Poaceae,,Spartina,,"michauxiana",var.,"tenuior","Farw.",Synonym,,L,WCSP,443809,241125-2,"Rep. (Annual) Michigan Acad. Sci.","20: 352","","1920",kew-443817
+kew-443810,A,Poaceae,,Spartina,,"montevidensis",,"","Arechav.",Synonym,,H,WCSP,443810,241126-2,"Anales Mus. Nac. Montevideo","1: 378","","1896",kew-443770
+kew-443811,A,Poaceae,,Spartina,,"multiflora",,"","Beal",Synonym,Invalid,H,WCSP,443811,,"Grass. N. Amer.","2: 400","","1896",kew-443829
+kew-443749,A,Poaceae,,Spartina,×,"neyrautii",,"","Foucaud",Accepted,,H,WCSP,443749,,"Bull. Soc. Sci. Nat. Char. Infer.","1893: 8","","1894",
+kew-443812,A,Poaceae,,Spartina,,"patagonica",,"","Speg.",Synonym,,H,WCSP,443812,241127-2,"Revista Fac. Agron. Univ. Nac. La Plata","3: 579","","1897",kew-443770
+kew-443813,A,Poaceae,,Spartina,,"patens",,"","(Aiton.) Muhl.",Accepted,,H,WCSP,443813,422462-1,"Descr. Gram.","55","","1817",
+kew-443814,A,Poaceae,,Spartina,,"patens",var.,"caespitosa","(Eaton) Hitchc.",Synonym,,L,WCSP,443814,241128-2,"Rhodora","8: 210","","1906",kew-443761
+kew-443815,A,Poaceae,,Spartina,,"patens",var.,"juncea","(Michx.) Hitchc.",Synonym,,L,WCSP,443815,241129-2,"Rhodora","8: 210","","1906",kew-443813
+kew-443816,A,Poaceae,,Spartina,,"patens",var.,"monogyna","(Curtis) Fernald",Synonym,,L,WCSP,443816,241130-2,"Rhodora","49: 114","","1947",kew-443813
+tro-25517773,A,Poaceae,,Spartina,,"patens",var.,"patens","",Synonym,,L,TRO,25517773,,"","","","",kew-443813
+kew-443817,A,Poaceae,,Spartina,,"pectinata",,"","Bosc ex Link",Accepted,,H,WCSP,443817,422463-1,"Jahrb. Gewächsk.","1(3): 92","","1820",
+tro-25517774,A,Poaceae,,Spartina,,"pectinata",var.,"pectinata","",Synonym,,L,TRO,25517774,,"","","","",kew-443817
+tro-25517776,A,Poaceae,,Spartina,,"pectinata",f.,"pectinata","",Synonym,,L,TRO,25517776,,"","","","",kew-443817
+kew-443819,A,Poaceae,,Spartina,,"pectinata",var.,"suttiei","(Farw.) Fernald",Synonym,,L,WCSP,443819,241131-2,"Rhodora","35: 260","","1933",kew-443817
+kew-443818,A,Poaceae,,Spartina,,"pectinata",f.,"variegata","Vict.",Synonym,,L,WCSP,443818,241132-2,"Naturaliste Canad.","71: 209","","1944",kew-443817
+kew-443820,A,Poaceae,,Spartina,,"phleoides",,"","(L.) Roth",Synonym,,H,WCSP,443820,422464-1,"Neue Beytr. Bot.","1: 101","","1802",kew-405983
+kew-443821,A,Poaceae,,Spartina,,"pittieri",,"","Hack.",Synonym,,H,WCSP,443821,241133-2,"Oesterr. Bot. Z.","52: 237","","1902",kew-443829
+kew-443822,A,Poaceae,,Spartina,,"platensis",,"","Mez ex St.-Yves",Synonym,Invalid,H,WCSP,443822,422466-1,"Candollea","5: 86","","1932",kew-443813
+kew-443823,A,Poaceae,,Spartina,,"polystachya",,"","(Michx.) Willd.",Synonym,,H,WCSP,443823,422467-1,"Enum. Pl.","81","","1809",kew-443765
+tro-25539628,A,Poaceae,,Spartina,,"polystachya",,"","(Michx.) P. Beauv.",Synonym,,M,TRO,25539628,1205273-2,"Ess. Agrostogr.","25, 178, 179","25","1812",kew-443765
+tro-50199384,A,Poaceae,,Spartina,,"polystachya",var.,"cynosuroides","(L.) Kuntze",Synonym,,L,TRO,50199384,241134-2,"Revis. Gen. Pl.","793","793","1891",kew-443765
+kew-443824,A,Poaceae,,Spartina,,"pubera",,"","Hassk.",Synonym,Invalid,H,WCSP,443824,422468-1,"Cat. Hort. Bot. Bogor.","18","","1844",kew-408848
+kew-443825,A,Poaceae,,Spartina,,"pumila",,"","Roth",Synonym,,H,WCSP,443825,422469-1,"Catal. Bot.","3: 10","","1806",kew-443813
+kew-443826,A,Poaceae,,Spartina,,"pungens",,"","(Rich.) P.Beauv.",Synonym,,H,WCSP,443826,422470-1,"Ess. Agrostogr.","25","","1812",kew-443799
+kew-443827,A,Poaceae,,Spartina,,"schoenoides",,"","(L.) Roth",Synonym,,H,WCSP,443827,,"Neue Beytr. Bot.","1: 102","","1802",kew-405983
+kew-443828,A,Poaceae,,Spartina,,"schreberi",,"","J.F.Gmel.",Synonym,,H,WCSP,443828,422471-1,"Syst. Nat.","123","","1791",kew-443799
+kew-443829,A,Poaceae,,Spartina,,"spartinae",,"","(Trin.) Merr.",Accepted,,H,WCSP,443829,,"Bull. Bur. Pl. Industr. U.S.D.A.","9: 11","","1902",
+tro-25512530,A,Poaceae,,Spartina,,"spartinae",,"","(Trin.) Merr. ex Hitchc.",Synonym,,M,TRO,25512530,1218233-2,"Contr. U.S. Natl. Herb.","17(3): 329","329","1913",kew-443829
+kew-443830,A,Poaceae,,Spartina,,"stricta",,"","(Aiton) Roth",Synonym,,H,WCSP,443830,422472-1,"Neue Beytr. Bot.","1: 101","","1802",kew-443799
+kew-443831,A,Poaceae,,Spartina,,"stricta",var.,"alterniflora","(Loisel.) A.Gray",Synonym,,L,WCSP,443831,241136-2,"Manual","ed. 2: 552","","1856",kew-443751
+tro-50199385,A,Poaceae,,Spartina,,"stricta",var.,"foliosa","(Trin.) Thurb.",Synonym,,L,TRO,50199385,241137-2,"U.S. Expl. Exped.","17(2): 487","487","1874",kew-443779
+kew-443832,A,Poaceae,,Spartina,,"stricta",var.,"glabra","(Muhl.) A.Gray",Synonym,,L,WCSP,443832,,"Manual","ed. 2: 552","","1856",kew-443751
+kew-443833,A,Poaceae,,Spartina,,"stricta",var.,"maritima","Scribn.",Synonym,,L,WCSP,443833,,"Mem. Torrey Bot. Club","5: 45","","1894",kew-443751
+tro-50196035,A,Poaceae,,Spartina,,"stricta",var.,"maritima","Britton, Sterns & Poggenb.",Synonym,,L,TRO,50196035,241138-2,"Prelim. Cat.",", pl. 66","","1888",kew-443751
+kew-443750,A,Poaceae,,Spartina,×,"townsendii",,"","H.Groves & J.Groves",Accepted,,H,WCSP,443750,422473-1,"Rep. Bot. Exch. Club Brit. Isles","1880: 37","","1881",
+kew-443834,A,Poaceae,,Spartina,×,"townsendii",var.,"anglica","(C.E.Hubb.) Lambinon & Maquet",Synonym,,L,WCSP,443834,978907-1,"Nouv. Fl. Belg.","ed. 3: 923","","1983",kew-443755
+tro-50094282,A,Poaceae,,Spartina,,"townsendii",var.,"anglica","(C.E. Hubb.) Lambinon & Maquet",Synonym,,L,TRO,50094282,978907-1,"Nouv. Fl. Belgique, Luxembourg, N. France (ed. 3)","923","923","1983",kew-443755
+kew-443835,A,Poaceae,,Spartina,,"versicolor",,"","Fabre",Accepted,,H,WCSP,443835,422474-1,"Ann. Sci. Nat., Bot.","III, 13: 123","","1849",

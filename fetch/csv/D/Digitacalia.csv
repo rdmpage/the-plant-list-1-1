@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-96457,A,Compositae,,Digitacalia,,"chiapensis",,"","(Hemsl.) Pippen",Accepted,,M,TICA,DC341A52-D8A6-4D0B-A16D-9196A8FB98C5,80195-2,"","","379","1968",
+gcc-83229,A,Compositae,,Digitacalia,,"crypta",,"","B.L.Turner",Accepted,,M,TICA,642ED212-8335-47DC-99F7-73D8E40C4B61,275849-2,"Phytologia 69","","152","1990",
+gcc-93215,A,Compositae,,Digitacalia,,"heteroidea",,"","(Klatt) Pippen",Synonym,,M,TICA,B959B68A-6A9B-41D6-9CBA-8A40D3CE45E2,80196-2,"","","380","1968",gcc-125727
+gcc-26528,A,Compositae,,Digitacalia,,"hintoniorum",,"","B.L.Turner",Accepted,,M,TICA,52198B92-AB73-4832-B273-3105E93BD0C2,275850-2,"Phytologia 69","","155","1990",
+gcc-48228,A,Compositae,,Digitacalia,,"jatrophoides",,"","(Kunth) Pippen",Accepted,,L,TICA,EFE3575E-C1FE-4FD8-9212-5965C345B914,80197-2,"","","381","1968",
+gcc-55166,A,Compositae,,Digitacalia,,"jatrophoides",var.,"jatrophoides","",Synonym,,L,TICA,7C24834A-A46D-4736-9E62-73D3CFB6A407,,"","","","1968",gcc-48228
+gcc-1425,A,Compositae,,Digitacalia,,"napeifolia",,"","(DC.) Pippen",Accepted,,M,TICA,CC19BE3F-B72B-435B-9657-0291F66324DA,80198-2,"","","382","1968",
+gcc-136040,A,Compositae,,Digitacalia,,"tridactylitis",,"","(B.L.Rob. & Greenm.) Pippen",Synonym,,M,TICA,6F97B06B-D4F7-4E5C-8E75-EB40CCF52636,80199-2,"","","383","1968",gcc-1425

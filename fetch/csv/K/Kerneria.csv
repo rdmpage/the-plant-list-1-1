@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-8298,A,Compositae,,Kerneria,,"bipinnata",,"","(L.) Gren. & Godr.",Synonym,,M,TICA,148555C2-F847-4AD1-A2B4-0F712803ABD9,227273-1,"","","169","1850",gcc-127817
+gcc-80048,A,Compositae,,Kerneria,,"coreopsoides",,"","Cass.",Unresolved,,L,TICA,8DC48E12-7DA7-48EF-BF62-6CBD28A805CB,227274-1,"in Dict. Sci. Nat. lix. 328.","","lix. 328","",
+gcc-105878,A,Compositae,,Kerneria,,"dubia",,"","Cass.",Synonym,,M,TICA,09B33A84-36D3-484B-97D5-A68E1D8CCC84,227275-1,"","","398","1822",gcc-77369
+gcc-15057,A,Compositae,,Kerneria,,"ferulaefolia",,"","(Jacq.) Cass.",Synonym,,M,TICA,D64F5C9F-3207-4C49-9FE7-1BDF59FC59DA,,"in Dict. Sci. Nat. li. 43.","","","1827",gcc-113238
+gcc-100441,A,Compositae,,Kerneria,,"helianthoides",,"","(Kunth) Cass.",Unresolved,,L,TICA,41377B1F-F7FD-4C69-89B9-9AA40D45A5D7,,"in Dict. Sc. Nat. xxiv. 399.","","","1822",gcc-108264
+gcc-2688,A,Compositae,,Kerneria,,"leucantha",,"","Cass.",Synonym,,M,TICA,22988DED-6107-4AF1-BAE6-04EB58E2A5C8,227278-1,"","","398","1822",gcc-60407
+gcc-43993,A,Compositae,,Kerneria,,"pilosa",,"","(L.) Lowe",Synonym,,M,TICA,7CE8530B-E8A9-4B59-BAA9-517E6D71C261,,"","","474","1860-1862",gcc-77369
+gcc-146538,A,Compositae,,Kerneria,,"pilosa",var.,"pilosa","",Synonym,,L,TICA,44EA1CEC-72F6-46F6-AFCF-1A99766D2013,,"","","","",gcc-77369
+gcc-70562,A,Compositae,,Kerneria,,"pilosa",var.,"radiata","(Sch.Bip.) Lowe",Synonym,,L,TICA,B04B5AC3-8CF8-43F0-8AD8-EEFD821A96F7,,"Man. Fl. Madeira 1: 474. 1868","","474","",gcc-77369
+gcc-106612,A,Compositae,,Kerneria,,"rubifolia",,"","Cass.",Unresolved,,L,TICA,AC076803-4C20-4387-9FAB-A8343D7CE3C9,227280-1,"in Dict. Sc. Nat. xxiv. 399.","","xxiv. 399","",
+gcc-116748,A,Compositae,,Kerneria,,"serrulata",,"","Cass.",Unresolved,,L,TICA,EF56F74A-8377-44D2-8577-BF2220A6BC1E,227281-1,"in Dict. Sci. Nat. li. 474.","","li. 474","",
+gcc-82245,A,Compositae,,Kerneria,,"tetragona",,"","Moench",Synonym,Illegitimate,M,TICA,AFBF4E15-5695-4F49-B095-719BD1F807CA,227282-1,"","","595","1794",gcc-77369

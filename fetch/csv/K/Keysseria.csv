@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-101200,A,Compositae,,Keysseria,,"bellidiformis",,"","(F.Muell.) Mattf.",Unresolved,,L,TICA,3C662B77-8B27-4AA9-9C38-9C4FEA524E89,,"","","","1937",
+gcc-6448,A,Compositae,,Keysseria,,"erici",,"","(C.N.Forbes) Cabrera",Accepted,,M,TICA,EA2BAA08-E712-448C-A80D-0C0082E268EB,227284-1,"Blumea xiv. 307 (1967).","","xiv. 307","1967",
+gcc-77134,A,Compositae,,Keysseria,,"extensa",,"","J.Kost.",Unresolved,,L,TICA,D066601F-F28E-4A77-B5D5-6630BC8B18D9,227285-1,"","","""607, t. 16 n--q""","1966",
+gcc-4822,A,Compositae,,Keysseria,,"fasciculata",,"","J.Kost.",Unresolved,,L,TICA,60B00488-94FD-4AB1-A31A-08FACBC97701,227286-1,"","","""602, t. 15 j--m""","1966",
+gcc-94792,A,Compositae,,Keysseria,,"gibbsiae",,"","(Merr.) Cabrera ex Van Steenis",Synonym,,M,TICA,58428CAF-703C-451A-8022-8DD7EF57A3EA,,"Proc. Roy. Soc. B 161 (1964)","","27","1964",gcc-102418
+gcc-43037,A,Compositae,,Keysseria,,"helenae",,"","(C.N.Forbes & Lydgate) Cabrera",Accepted,,M,TICA,58FB2607-EFE4-4F01-94CE-4FB5C3EE781A,227287-1,"Blumea xiv. 307 (1967)","","307","1967",
+gcc-140392,A,Compositae,,Keysseria,,"lavandula",,"","H.St.John",Synonym,,M,TICA,BF257362-0F70-485E-A139-F4EA6F558873,227288-1,"""in Pac. Sci., 25(1): 73 (1971).""","","73","1971",gcc-105301
+gcc-105301,A,Compositae,,Keysseria,,"maviensis",,"","(H.Mann) Cabrera",Accepted,,M,TICA,16DCD6F8-E42C-41C4-B159-A54D016005D0,227289-1,"Blumea xiv. 307 (1967).","","xiv. 307","1967",
+gcc-148354,A,Compositae,,Keysseria,,"maviensis",f.,"maviensis","",Synonym,,L,TICA,78870E55-AA51-45C3-8C0D-40D5066B4A10,,"","","","",gcc-105301
+gcc-804,A,Compositae,,Keysseria,,"papuana",,"","Lauterb.",Unresolved,,L,TICA,2995F197-3F6F-47CE-8608-0180DFA50F23,227290-1,"","","241","1914",gcc-11577
+gcc-143846,A,Compositae,,Keysseria,,"pickeringii",,"","(A.Gray) Cabrera",Accepted,,M,TICA,5C8D540C-CACA-49C2-92F2-FCCBCAE86F29,,"","","","",
+gcc-9492,A,Compositae,,Keysseria,,"pinguiculiformis",,"","J.Kost.",Accepted,,M,TICA,A40863DA-9895-40AF-8820-11B7A1E382A4,227292-1,"","","""606, t. 16 j--m""","1966",
+gcc-121027,A,Compositae,,Keysseria,,"pinguiculiformis",f.,"nana","J.Kost.",Unresolved,,L,TICA,73CC29EC-E02F-4127-A2A3-C8E1322B592D,877528-1,"Blumea 22 (1975)","","208","1975",gcc-42471
+gcc-78917,A,Compositae,,Keysseria,,"pinguiculiformis",f.,"pinguiculiformis","",Synonym,,L,TICA,6996AA15-2126-4997-AD43-6A4648DEA44E,,"","","","",gcc-9492
+gcc-103256,A,Compositae,,Keysseria,,"radicans",,"","(F.Muell.) Mattf.",Unresolved,,L,TICA,7B885DAA-33A8-410F-9F51-A0DCDE000FD1,227293-1,"Bot. Jahrb. Syst. lxviii. 251 (1937).","","lxviii. 251","1937",
+gcc-128863,A,Compositae,,Keysseria,,"radicans",,"","(F.Muell.) F.Muell. ex Hemsl.",Unresolved,,L,TICA,F6F8E490-E864-4BC8-B0F3-DB03CAF27948,,"Bull. Misc. Inform. (1899)","","102","1899",
+gcc-47825,A,Compositae,,Keysseria,,"radicans",subsp.,"radicans","",Synonym,,L,TICA,9B1B66CA-1382-4BF3-9742-589C860A7E4F,,"","","","",gcc-128863
+gcc-45048,A,Compositae,,Keysseria,,"rosulans",,"","J.Kost.",Unresolved,,L,TICA,3F726B2B-971B-4603-847C-537B5F3AEF86,,"","","""603, t. 16 a--d""","1966",
+gcc-79688,A,Compositae,,Keysseria,,"tomentella",,"","Mattf.",Unresolved,,L,TICA,5A48735F-DF49-401C-896C-6BF17E74D92F,,"","","","1937",
+gcc-139103,A,Compositae,,Keysseria,,"trachyphylla",,"","(Mattf.) Mattf.",Unresolved,,L,TICA,B45F7C52-A78C-4076-A8AC-F1FD43BDEACD,,"","","","1937",
+gcc-95376,A,Compositae,,Keysseria,,"wollastonii",,"","(S.Moore) Mattf.",Unresolved,,L,TICA,81E89A05-6627-4BE3-9671-8F2C2830E50D,,"","","","1937",

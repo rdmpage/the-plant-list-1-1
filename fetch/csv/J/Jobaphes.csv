@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116750,A,Compositae,,Jobaphes,,"virgatus",,"","Phil.",Accepted,,M,TICA,920A2434-B198-4506-8FA0-BF236D95E5A0,226766-1,"Fl. Atacam. 27. t. 28 (1860).","","27","1860",
+gcc-43162,A,Compositae,,Jobaphes,,"virgatus",var.,"calvus","Phil.",Synonym,,L,TICA,843E1B70-EC87-46C4-96A9-4FF867A290EE,131671-2,"","","32","",gcc-100976
+gcc-148093,A,Compositae,,Jobaphes,,"virgatus",var.,"virgatus","",Synonym,,L,TICA,22769962-2FC4-484D-A19D-3B7D81D5441C,,"","","","",gcc-116750

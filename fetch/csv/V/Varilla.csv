@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87656,A,Compositae,,Varilla,,"mexicana",,"","A.Gray",Accepted,,M,TICA,033FF966-E339-4220-B724-7DC0BF8F18CF,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 106""","","106","1849",
+gcc-4227,A,Compositae,,Varilla,,"mexicana",var.,"mexicana","",Synonym,,L,TICA,66C245C0-B1B4-4649-A6FA-07D937B98D17,,"","","","",gcc-87656
+gcc-127775,A,Compositae,,Varilla,,"texana",,"","A.Gray",Accepted,,M,TICA,5096E5D4-667F-4342-8556-D87D1EBD32EA,,"Pl. Wright. i. 123.","","","",

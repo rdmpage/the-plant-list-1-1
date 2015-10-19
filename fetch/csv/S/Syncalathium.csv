@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-95511,A,Compositae,,Syncalathium,,"chrysocephala",,"","(C.Shih) S.W.Liu",Unresolved,,L,TICA,DE8B83F5-8BBF-4D98-93ED-8F8AFD6E854E,1002806-1,"""in Fl. Qinghaiica, 3: 498 (1996):.""","","498","1996",
+gcc-149956,A,Compositae,,Syncalathium,,"chrysocephalum",,"","(C.Shih) S.W.Liu",Accepted,,M,TICA,F2D07964-AB27-46D5-9A71-63CF0B2F7597,1002806-1,"""S. W. Liu, Fl. Qinghaiica 3. 1996""","","498","1996",
+gcc-35689,A,Compositae,,Syncalathium,,"chrysocephalum",,"","(C.Shih) C.Shih",Unresolved,,L,TICA,1A48EC33-8EF0-4269-8024-4230BF9862DD,,"Fl. Reipubl. Popularis Sin. 80(1): 204 (1997):","","204","1997",
+gcc-105520,A,Compositae,,Syncalathium,,"disciforme",,"","(Mattf.) Ling",Accepted,,M,TICA,DD563D56-59E7-49A7-9F30-A5C236FF34B8,,"Acta Phytotax. Sin. x. 286 (1965).","","","1965",
+gcc-145554,A,Compositae,,Syncalathium,,"kawaguchii",,"","(Kitam.) Ling",Accepted,,M,TICA,2D4D94DE-C841-4093-8AAB-06564736F681,251997-1,"Y. Ling in Acta Phytotax. Sin. 10. 1965","","287","1965",
+gcc-97357,A,Compositae,,Syncalathium,,"orbiculariforme",,"","C.Shih",Synonym,,M,TICA,CBE98662-D225-431E-ABC0-93ACE816090B,974876-1,"","","442","1993",gcc-147183
+gcc-20342,A,Compositae,,Syncalathium,,"pilosum",,"","(Ling) C.Shih",Synonym,,M,TICA,A2DEE11B-732F-487E-8206-259B043BD7AF,974877-1,"","","444","1993",gcc-145554
+gcc-33656,A,Compositae,,Syncalathium,,"porphyreum",,"","(C.Marquand & Airy Shaw) Ling",Accepted,,L,TICA,78D8F039-B212-45AE-B301-3E67B02A53C5,251998-1,"","","287","1965",
+gcc-104916,A,Compositae,,Syncalathium,,"qinghaiense",,"","(C.Shih) C.Shih",Synonym,,M,TICA,63F4E8A8-1AA0-4035-994C-A484007E5AA4,,"","","204","1997",gcc-105520
+gcc-112281,A,Compositae,,Syncalathium,,"roseum",,"","Ling",Accepted,,M,TICA,BF9F14E5-0887-4243-B52C-B506270A302E,,"Acta Phytotax. Sin. x. 287 (1965).","","","1965",
+gcc-34700,A,Compositae,,Syncalathium,,"souliei",,"","(Franch.) Ling",Accepted,,M,TICA,8EDBD27F-C324-494A-A330-4055BFC71871,252000-1,"Acta Phytotax. Sin. x. 286 (1965)","","286","1965",
+gcc-115279,A,Compositae,,Syncalathium,,"sukaczevii",,"","Lipsch.",Synonym,,M,TICA,CB7C9A29-1CB4-448D-A72B-BBC9944EBE0E,252001-1,"","","360","1956",gcc-145554
+gcc-152274,A,Compositae,,Syncalathium,,"sukaczevii",var.,"pilosum","Y.Ling",Synonym,,L,TICA,1306E6E8-08FF-4416-BF0E-95FA69A08F5A,,"Y. Ling in Acta Phytotax. Sin. 10. 1965","","287","1965",gcc-145554
+gcc-64042,A,Compositae,,Syncalathium,,"sukaczevii",var.,"pilosum","Ling",Synonym,,L,TICA,F74A8B92-6C98-420B-854A-BB798D406D1C,,"Acta Phytotaxonomica Sinica 10(3):","","287","1965",gcc-145554
+gcc-154436,A,Compositae,,Syncalathium,,"sukaczevii",var.,"sukaczevii","",Synonym,,L,TICA,EFE20CFE-4455-42B4-9483-C37D8A465C21,,"","","","",gcc-145554

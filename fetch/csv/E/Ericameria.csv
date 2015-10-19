@@ -1,0 +1,138 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76854,A,Compositae,,Ericameria,,"albida",,"","(M.E.Jones ex A.Gray) L.C.Anderson",Accepted,,M,TICA,6F1FC681-5506-4B92-B97B-6590CAA4BD3E,981044-1,"Great Basin Naturalist 55","","86","1995",
+gcc-93709,A,Compositae,,Ericameria,,"arborescens",,"","(A.Gray) Greene",Accepted,,M,TICA,F8150997-72E4-4F05-9FED-8B44D360069D,93486-2,"","","175","1894",
+gcc-54150,A,Compositae,,Ericameria,,"arborescens",subsp.,"arborescens","",Synonym,,L,TICA,82FC5C28-F0E6-472C-931B-6BBBFDA374E3,,"","","","",gcc-93709
+gcc-112947,A,Compositae,,Ericameria,,"arizonica",,"","""R.P.Roberts, Urbatsch & J.Anderson""",Accepted,,L,TICA,CBEB486C-C45C-4AC4-978A-B69230DB501E,,"","","","2005",
+gcc-113337,A,Compositae,,Ericameria,,"austrotexana",,"","M.C.Johnst.",Synonym,,M,TICA,44150440-6F3B-4143-A60E-B76E3B6430FB,93487-2,"","","106","1967",gcc-4750
+gcc-137752,A,Compositae,,Ericameria,,"bloomeri",,"","(A.Gray) J.F.Macbr.",Accepted,,M,TICA,915BA557-ABAF-4D6B-83E6-EF2016BCE0B6,93488-2,"Contr. Gray Herb. 56: 36","","36","1918",
+gcc-126168,A,Compositae,,Ericameria,×,"bolanderi",,"","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,M,TICA,EC9387C6-26D3-4C69-ABC4-D4B3CCE06ED3,973810-1,"Phytologia 75","","89","1993",
+gcc-46814,A,Compositae,,Ericameria,,"brachylepis",,"","(A.Gray) H.M.Hall",Accepted,,M,TICA,A45D2230-A126-4C38-875A-56BC598636B1,93489-2,"Univ. Calif. Publ. Bot. 3","","56","1907",
+gcc-18793,A,Compositae,,Ericameria,,"cervina",,"","(S.Watson) Rydb.",Synonym,,M,TICA,65034C58-BB76-4572-B095-22B3060C6073,93490-2,"Fl. Rocky Mts.","","853","1917",gcc-131117
+gcc-9851,A,Compositae,,Ericameria,,"compacta",,"","(H.M.Hall) G.L.Nesom",Accepted,,M,TICA,BC7BC4BA-C17C-4D68-A83A-1265854CC051,1098335-2,"","","152","1990",
+gcc-11524,A,Compositae,,Ericameria,,"cooperi",,"","(A.Gray) H.M.Hall",Accepted,,M,TICA,2810CC36-F65E-4984-81B5-157E54D5736E,93491-2,"Univ. Calif. Publ. Bot. 3","","56","1907",
+gcc-22338,A,Compositae,,Ericameria,,"cooperi",var.,"bajacalifornica","(Urbatsch & Wussow) Urbatsch",Accepted,,L,TICA,A13135FF-4BE0-44E7-8DD6-29580F78D07E,,"","","109","1989",
+gcc-60899,A,Compositae,,Ericameria,,"cooperi",subsp.,"bajacalifornica","Urbatsch & Wussow",Synonym,,L,TICA,827E1321-2FBA-4FA7-80AC-A2285BEC9C7E,93492-2,"Brittonia 31","","274","1979",gcc-22338
+gcc-3726,A,Compositae,,Ericameria,,"cooperi",var.,"cooperi","",Synonym,,L,TICA,AA476261-9D09-4549-A0D6-06EB0852F1A2,,"","","","",gcc-11524
+gcc-68832,A,Compositae,,Ericameria,,"cooperi",subsp.,"cooperi","",Synonym,,L,TICA,DA71E121-3393-4C12-91D9-E1CCDE7F4B1B,,"","","","",gcc-11524
+gcc-78187,A,Compositae,,Ericameria,,"crispa",,"","(L.C.Anderson) G.L.Nesom",Accepted,,M,TICA,6FAADBB0-2167-4CBA-8858-688BA57AE895,1034426-2,"Phytologia 68","","152","1990",
+gcc-94195,A,Compositae,,Ericameria,,"cuneata",,"","(A.Gray) McClatchie",Accepted,,M,TICA,03E99BD8-7A7B-464D-BBF2-8C6F5FD6A5FA,93493-2,"Erythea 2","","124","1894",
+gcc-58271,A,Compositae,,Ericameria,,"cuneata",var.,"cuneata","",Synonym,,L,TICA,F879604A-04D1-49BA-8112-8D4981A49E35,,"","","","",gcc-94195
+gcc-68038,A,Compositae,,Ericameria,,"cuneata",var.,"spathulata","(A.Gray) H.M.Hall",Accepted,,L,TICA,FDB6A60A-E714-4928-AD66-DBD90783A531,93495-2,"Univ. Calif. Publ. Bot. 3","","52","1907",
+gcc-49787,A,Compositae,,Ericameria,,"depressa",,"","Nutt.",Unresolved,,L,TICA,FF7D6C8E-78CD-4A05-AEDD-5C4BBACB1844,1008639-2,"Great Basin Naturalist 55: 86. 1995","","86","1995",
+gcc-83468,A,Compositae,,Ericameria,,"depressa",,"","(Nutt.) L.C.Anderson",Synonym,,L,TICA,1A31B6E1-0119-4296-9067-7461673BAAF1,981045-1,"","","86","1995",gcc-143637
+gcc-37277,A,Compositae,,Ericameria,,"diffusa",,"","Benth.",Synonym,,M,TICA,BABFEAD6-0994-4418-8CB8-4510699DA875,1084650-2,"","","23","1844",gcc-106408
+gcc-79269,A,Compositae,,Ericameria,,"discoidea",,"","(Nutt.) G.L.Nesom",Accepted,,L,TICA,9E751525-C413-48FF-A111-6B0CE54B3C57,30473909-2,"Phytologia 68(2)","","153","1990",
+gcc-99432,A,Compositae,,Ericameria,,"discoidea",,"","Dorn & Delmatier",Unresolved,,L,TICA,56F0C80A-F69A-45D7-8036-9858FA9EF9F5,,"","","","",
+gcc-51913,A,Compositae,,Ericameria,,"discoidea",var.,"discoidea","",Synonym,,L,TICA,DA675696-E29F-4475-A8CF-604617E41514,,"","","","",gcc-79269
+gcc-20926,A,Compositae,,Ericameria,,"discoidea",var.,"linearis","(Rydb.) G.L.Nesom",Synonym,,L,TICA,1A363DFA-F5F7-466C-903F-26B303A81B4A,1191390-2,"","","153","1990",gcc-101700
+gcc-61918,A,Compositae,,Ericameria,,"discoidea",var.,"winwardii","Dorn & Delmatier",Synonym,,L,TICA,C7D93D8D-0C2A-4336-974C-AA88F32CC6F6,,"","","","2005",gcc-81764
+gcc-30413,A,Compositae,,Ericameria,,"erecta",,"","Klatt",Synonym,,M,TICA,FE42341F-469E-4645-8253-38434F75022F,203442-1,"Abh. Naturf. Ges. Halle 15","","326","1882",gcc-137752
+gcc-23535,A,Compositae,,Ericameria,,"eremobia",,"","(L.C.Anderson) L.C.Anderson",Synonym,,M,TICA,1468E304-1466-479F-8608-2B8825733A16,981046-1,"Great Basin Naturalist 55","","86","1995",gcc-24539
+gcc-122624,A,Compositae,,Ericameria,,"ericoides",,"","(Less.) Nutt. ex Jeps.",Accepted,,M,TICA,5F1E43AA-EA20-4541-BC58-CC6E7A4CD6DD,93496-2,"","","559","1901",
+gcc-74213,A,Compositae,,Ericameria,,"ericoides",f.,"blakei","(C.B.Wolf) Hoover",Synonym,,L,TICA,98C5F7CB-CF26-4E60-94BB-378014B8C4C2,1145911-2,"","","297","1970",gcc-122624
+gcc-153762,A,Compositae,,Ericameria,,"ericoides",f.,"ericoides","",Synonym,,L,TICA,29024AFB-C8CA-487B-8292-B4C1EE15202D,,"","","","",gcc-122624
+gcc-60821,A,Compositae,,Ericameria,,"ericoides",var.,"ericoides","",Synonym,,L,TICA,64EFB0B8-C640-4FBA-A343-A18046A4F2A8,,"","","","",gcc-122624
+gcc-62660,A,Compositae,,Ericameria,,"ericoides",var.,"pachylepis","(H.M.Hall) Hoover",Synonym,,L,TICA,CD71DD5C-D9C1-4F0D-AAAF-B0A038A37992,1057362-2,"","","297","1970",gcc-4436
+gcc-31769,A,Compositae,,Ericameria,,"fasciculata",,"","(Eastw.) J.F.Macbr.",Accepted,,M,TICA,EDBD6BE8-E152-48DC-80D6-3ADBFD0E3A7F,93497-2,"Contr. Gray Herb. 56: 36","","36","1918",
+gcc-87381,A,Compositae,,Ericameria,,"filifolia",,"","(Rydb.) L.C.Anderson",Synonym,,M,TICA,3FCCF97A-365C-43BD-ACBC-7D292CA47663,981048-1,"Great Basin Naturalist 55","","86","1995",gcc-102503
+gcc-131632,A,Compositae,,Ericameria,,"gilmanii",,"","(S.F.Blake) G.L.Nesom",Accepted,,M,TICA,147F080A-990B-4E0D-8508-E15965367F3F,1194363-2,"Phytologia 68","","153","1990",
+gcc-86293,A,Compositae,,Ericameria,,"graminea",,"","(H.M.Hall) L.C.Anderson",Synonym,,M,TICA,819AD56B-9116-4591-A7B7-7A99013AE556,981047-1,"Great Basin Naturalist 55","","86","1995",gcc-138202
+gcc-45878,A,Compositae,,Ericameria,,"greenei",,"","(A.Gray) G.L.Nesom",Accepted,,L,TICA,CC866C22-77C6-4987-A0B2-550A17BD67C5,1215241-2,"","","153","1990",
+gcc-92403,A,Compositae,,Ericameria,,"greenei",,"","A.Gray",Unresolved,,L,TICA,2CD650E8-C0F9-47CF-B911-888546E99BB5,,"Phytologia 68: 153. 1990","","153","1990",
+gcc-44140,A,Compositae,,Ericameria,,"humilis",,"","(Greene) L.C.Anderson",Synonym,,M,TICA,DC5A7392-4543-4EBB-A19E-51BB1B1B7527,981049-1,"Great Basin Naturalist 55","","86","1995",gcc-121978
+gcc-31548,A,Compositae,,Ericameria,,"juarezensis",,"","(Moran) Urbatsch",Accepted,,M,TICA,F94BC840-B2A1-4862-A317-3A799FD37B6E,1020228-2,"Phytologia 67","","109","1989",
+gcc-132325,A,Compositae,,Ericameria,,"laricifolia",,"","(A.Gray) Shinners",Accepted,,L,TICA,A0624596-1A04-4807-9ACF-E2FFCA051140,93498-2,"Field & Lab. 18","","27","1950",
+gcc-91325,A,Compositae,,Ericameria,,"lignumviridis",,"","(S.L.Welsh) G.L.Nesom",Accepted,,M,TICA,A1D30FA5-5350-406C-B6BE-8621E4A59324,1188257-2,"Phytologia 78","","64","1995",
+gcc-134531,A,Compositae,,Ericameria,,"linearifolia",,"","(DC.) Urbatsch & Wussow",Accepted,,L,TICA,F44435F3-82FE-4F9C-B3F6-E804AE3323CF,93499-2,"Brittonia 31","","273","1979",
+gcc-101700,A,Compositae,,Ericameria,,"linearis",,"","(Rydb.) R.P.Roberts & Urbatsch",Accepted,,M,TICA,9808FF17-EB83-466E-A5E6-9D5880845536,60439640-2,"","","1560","2005",
+gcc-141886,A,Compositae,,Ericameria,,"linifolia",,"","(Greene) L.C.Anderson",Synonym,,L,TICA,BF3442EE-92D4-4A0E-8827-F86DA6C65E06,981050-1,"Great Basin Naturalist 55","","86","1995",gcc-34088
+gcc-32048,A,Compositae,,Ericameria,,"martirensis",,"","Wiggins",Accepted,,M,TICA,94C206CC-042D-4AC4-8AB2-3B5AF138D20B,203447-1,"Contr. Dudley Herb. 1","","177","1933",
+gcc-33292,A,Compositae,,Ericameria,,"microcephala",,"","(Cronquist) Kartesz & Gandhi",Unresolved,,L,TICA,0EEC5382-E302-47EA-9F2C-3DBA0C5D20F2,1031800-2,"""Syn. Checkl. Vasc. Fl. U.S., ed. 2 93. 1994""","","93","1994",
+gcc-11492,A,Compositae,,Ericameria,,"microphylla",,"","Nutt.",Synonym,Illegitimate,M,TICA,10E4E407-8F3F-492A-8433-1570C0A6848C,,"","","319","1840",gcc-122624
+gcc-98576,A,Compositae,,Ericameria,,"molesta",,"","(S.F.Blake) L.C.Anderson",Synonym,,M,TICA,CA51177B-FC1D-4824-A683-966FA6FA39D1,981051-1,"Great Basin Naturalist 55","","86","1995",gcc-119804
+gcc-619,A,Compositae,,Ericameria,,"monactis",,"","(A.Gray) McClatchie",Synonym,,M,TICA,03DD5255-8B56-4B21-BE7C-012AD351CF13,93501-2,"Erythea 2","","124","1894",gcc-11524
+gcc-131117,A,Compositae,,Ericameria,,"nana",,"","Nutt.",Accepted,,M,TICA,2976841A-3585-4AC6-8FFF-E025A76EE9A6,,"","","319","1840",
+gcc-51707,A,Compositae,,Ericameria,,"nauseosa",,"","(Pall. ex Pursh) G.L.Nesom & G.I.Baird",Accepted,,M,TICA,2C4E33C6-9F4C-4188-BF85-5FE1312FD147,973775-1,"Phytologia 75","","84","1993",
+gcc-38794,A,Compositae,,Ericameria,,"nauseosa",var.,"ammophila","L.C.Anderson",Accepted,,L,TICA,E51905FD-7607-4D40-AD6B-47F54B0F62FB,60445238-2,"Sida 22(2): 868 (867-872; figs. 1-2)","","868 (867-872; figs. 1-2)","2006",
+gcc-66827,A,Compositae,,Ericameria,,"nauseosa",var.,"arenaria","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,CE95F758-DEBC-497F-A9EE-D2108EE76398,973778-1,"Phytologia 75","","85","1993",
+gcc-47831,A,Compositae,,Ericameria,,"nauseosa",var.,"arta","(A.Nelson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,340AFE4D-5BE9-4053-8F70-589EDED9F5D5,973777-1,"Phytologia 75","","85","1993",
+gcc-22728,A,Compositae,,Ericameria,,"nauseosa",var.,"bernardina","(H.M.Hall) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,5109EEDA-3948-4E23-826C-2A106F868CA2,973779-1,"Phytologia 75","","85","1993",
+gcc-65689,A,Compositae,,Ericameria,,"nauseosa",var.,"bigelovii","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,A27243DD-5CB0-4A87-8390-C8C6B65A8A01,973780-1,"Phytologia 75","","85","1993",
+gcc-22882,A,Compositae,,Ericameria,,"nauseosa",var.,"ceruminosa","(Durand & Hilg.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,387D9DE6-B052-498C-B88E-2A5BE47B566E,973781-1,"Phytologia 75","","85","1993",
+gcc-69673,A,Compositae,,Ericameria,,"nauseosa",subsp.,"consimilis","(Greene) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,4985EF34-D410-433C-AFAB-E82CA826C9C4,973776-1,"Phytologia 75","","85","1993",
+gcc-51893,A,Compositae,,Ericameria,,"nauseosa",var.,"glabrata","(A.Gray) G.L.Nesom & G.I.Baird",Synonym,,L,TICA,C8C0DD8C-72B8-4D3E-A581-603D17951659,973782-1,"Phytologia 75","","86","1993",gcc-60662
+gcc-56913,A,Compositae,,Ericameria,,"nauseosa",var.,"glareosa","(M.E.Jones) G.L.Nesom & G.I.Baird",Synonym,,L,TICA,B8E4AF1E-7AAD-4D1D-BD7B-821F025B1724,973783-1,"Phytologia 75","","86","1993",gcc-59944
+gcc-60662,A,Compositae,,Ericameria,,"nauseosa",var.,"graveolens","(Nutt.) Reveal & Schuyler",Accepted,,L,TICA,72C9A923-877F-4986-8762-A00993BB06EA,1090556-2,"Proc. Acad. Nat. Sci. Philadelphia 149","","20","1999",
+gcc-45925,A,Compositae,,Ericameria,,"nauseosa",var.,"hololeuca","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,9F5A93C7-9133-4F0E-99CD-551FB59A0090,973784-1,"Phytologia 75","","86","1993",
+gcc-62048,A,Compositae,,Ericameria,,"nauseosa",var.,"iridis","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,CC0644D9-076E-4CC2-9E1C-ABA601251724,973785-1,"Phytologia 75","","86","1993",
+gcc-29933,A,Compositae,,Ericameria,,"nauseosa",var.,"juncea","(Greene) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,C91AF0AA-15FB-40CC-A83E-375A640AB032,973786-1,"Phytologia 75","","86","1993",
+gcc-72685,A,Compositae,,Ericameria,,"nauseosa",var.,"latisquamea","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,489AEE73-05FF-4E8F-B51F-FFF251F71F6D,973787-1,"Phytologia 75","","86","1993",
+gcc-59312,A,Compositae,,Ericameria,,"nauseosa",var.,"leiosperma","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,749D549F-88D7-44CC-8C1A-95616828E5AC,973788-1,"Phytologia 75","","86","1993",
+gcc-39699,A,Compositae,,Ericameria,,"nauseosa",var.,"mohavensis","(Greene) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,399C6C29-307C-41A5-A261-49A8427883FC,973789-1,"Phytologia 75","","87","1993",
+gcc-29479,A,Compositae,,Ericameria,,"nauseosa",var.,"nana","(Cronquist) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,AD36CFF1-BA6F-4A86-9810-367D6B6E33CD,973790-1,"Phytologia 75","","87","1993",
+gcc-59595,A,Compositae,,Ericameria,,"nauseosa",var.,"nauseosa","",Accepted,,L,TICA,64324151-FDC7-439B-959D-97BD4E935E66,,"","","","",
+gcc-61184,A,Compositae,,Ericameria,,"nauseosa",subsp.,"nauseosa","",Synonym,,L,TICA,40AD1350-8B57-469E-97E5-A484E2FC63A7,,"","","","1993",gcc-51707
+gcc-15025,A,Compositae,,Ericameria,,"nauseosa",var.,"nitida","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,823960CF-1556-4140-9AAA-1BD15441AF97,973791-1,"Phytologia 75","","87","1993",
+gcc-16251,A,Compositae,,Ericameria,,"nauseosa",var.,"oreophila","(A.Nelson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,A865F177-A132-4E11-8DAF-1E0F08737668,1210008-2,"Phytologia 78","","64","1995",
+gcc-59944,A,Compositae,,Ericameria,,"nauseosa",var.,"psilocarpa","(S.F.Blake) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,669A27D7-5DA4-4E4B-982F-9A7F7A6B6813,973792-1,"Phytologia 75","","87","1993",
+gcc-15557,A,Compositae,,Ericameria,,"nauseosa",var.,"salicifolia","(Rydb.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,641F38F2-7901-4A67-B88E-1CC9443E44A8,973793-1,"Phytologia 75","","87","1993",
+gcc-68294,A,Compositae,,Ericameria,,"nauseosa",var.,"speciosa","(Nutt.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,8DB8D99F-D55E-4718-9F12-DDC0F049B2AA,973794-1,"Phytologia 75","","87","1993",
+gcc-61936,A,Compositae,,Ericameria,,"nauseosa",var.,"texensis","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,6A66782C-51A7-4AD0-9551-AAAE3A3D64E8,973795-1,"Phytologia 75","","88","1993",
+gcc-25700,A,Compositae,,Ericameria,,"nauseosa",var.,"turbinata","(M.E.Jones) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,C1E1A1E5-E2D2-453F-85E5-2F7ABB25A148,973796-1,"Phytologia 75","","88","1993",
+gcc-68626,A,Compositae,,Ericameria,,"nauseosa",var.,"washoensis","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,EF8C6F2D-803E-4E0A-AD5A-E029CFAA49A9,973797-1,"Phytologia 75","","88","1993",
+gcc-140808,A,Compositae,,Ericameria,,"nelsonii",,"","(Fernald) S.F.Blake",Synonym,,L,TICA,A82CB4C3-4834-47B1-B7D6-F5EB6B015E78,93502-2,"Contr. Gray Herb. 52","","26","1917",gcc-132325
+gcc-16421,A,Compositae,,Ericameria,,"obovata",,"","(Rydb.) G.L.Nesom",Accepted,,M,TICA,DC1AF900-CF6A-429A-A438-1E56AD2E580F,,"","","152","1990",
+gcc-98436,A,Compositae,,Ericameria,,"ophitidis",,"","(J.T.Howell) G.L.Nesom",Accepted,,M,TICA,9D19DCA1-F09C-4EC1-81E4-9620D48956E2,1179977-2,"","","153","1990",
+gcc-121382,A,Compositae,,Ericameria,,"palmeri",,"","(A.Gray) H.M.Hall",Accepted,,M,TICA,A53FDAEE-623D-4029-99FB-C9AAED32C81E,93503-2,"Univ. Calif. Publ. Bot. 3","","53","1907",
+gcc-4436,A,Compositae,,Ericameria,,"palmeri",var.,"pachylepis","(H.M.Hall) G.L.Nesom",Accepted,,L,TICA,E8AC4904-29F0-4AAD-834D-0840C34248A2,1167163-2,"Phytologia 67","","104","1989",
+gcc-17592,A,Compositae,,Ericameria,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,A6214B89-03B0-4E12-885A-207D064292A0,,"","","","",gcc-121382
+gcc-35973,A,Compositae,,Ericameria,,"paniculata",,"","(A.Gray) A.Gray ex Rydb.",Accepted,,M,TICA,D3B7A2E4-1E3B-4F63-AA2F-42B34E92AC52,203453-1,"Fl. Rocky Mts.","","1066","1917",
+gcc-109516,A,Compositae,,Ericameria,,"parishii",,"","(Greene) H.M.Hall",Accepted,,M,TICA,BF45F566-D6E4-4E74-932F-AED55A4E56D3,93505-2,"Univ. Calif. Publ. Bot. 3","","55","1907",
+gcc-16662,A,Compositae,,Ericameria,,"parishii",var.,"parishii","",Synonym,,L,TICA,039BF68D-B1AB-4215-BFE6-1ECB30276C8F,,"","","","",gcc-109516
+gcc-28122,A,Compositae,,Ericameria,,"parishii",var.,"peninsularis","(Moran) G.L.Nesom",Accepted,,L,TICA,EBA7D3DA-114F-4CB2-B17B-33EFB12701D7,1076611-2,"Phytologia 67","","104","1989",
+gcc-98975,A,Compositae,,Ericameria,,"parrasana",,"","S.F.Blake",Synonym,,M,TICA,DF4DB1BB-028C-44E0-9246-9750C1A7909C,93506-2,"Contr. Gray Herb. 52","","26","1917",gcc-50776
+gcc-96555,A,Compositae,,Ericameria,,"parryi",,"","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,M,TICA,007653A0-86FE-49AC-8648-91D76D068393,973798-1,"Phytologia 75","","88","1993",
+gcc-63080,A,Compositae,,Ericameria,,"parryi",var.,"affinis","(A.Nelson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,1CF309BF-9D3C-4760-B2E7-B3FF172F235D,973799-1,"Phytologia 75","","88","1993",
+gcc-68974,A,Compositae,,Ericameria,,"parryi",var.,"aspera","(Greene) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,1C690EC2-86B4-4C95-B257-E2C847F93346,1113563-2,"Phytologia 75","","88","1993",
+gcc-12524,A,Compositae,,Ericameria,,"parryi",var.,"attenuata","(M.E.Jones) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,90651C78-F7C1-4EC2-A7BC-175522D30069,973801-1,"Phytologia 75","","88","1993",
+gcc-68319,A,Compositae,,Ericameria,,"parryi",var.,"howardii","(Parry ex A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,FA3EF54D-E358-4950-B95D-DDE43A706433,973802-1,"","","88","1993",
+gcc-71538,A,Compositae,,Ericameria,,"parryi",subsp.,"howardii","(Parry ex A.Gray) G.L.Nesom & G.I.Baird",Synonym,,L,TICA,9EBFE5A7-DFFB-4704-B472-F6FC681B0C98,1190930-2,"Phytologia 75","","88","1993",gcc-68319
+gcc-63267,A,Compositae,,Ericameria,,"parryi",var.,"imula","(H.M.Hall & Clem.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,42DE4CE2-C13D-46A0-99F5-B585A34DEB6E,1166782-2,"Phytologia 75","","89","1993",
+gcc-66239,A,Compositae,,Ericameria,,"parryi",var.,"latior","(H.M.Hall & Clem.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,6FC37E20-D72E-4552-8032-CD2F56FE34B4,1218576-2,"Phytologia 75","","89","1993",
+gcc-53695,A,Compositae,,Ericameria,,"parryi",var.,"monocephala","(A.Nelson & P.B.Kenn.) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,92C797F4-4A11-4897-9CD3-682F126FCA90,973805-1,"Phytologia 75","","89","1993",
+gcc-50652,A,Compositae,,Ericameria,,"parryi",var.,"montana","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,40EBF373-BC74-41BC-AB5F-5DE9C512B5FE,973806-1,"Phytologia 75","","89","1993",
+gcc-72652,A,Compositae,,Ericameria,,"parryi",var.,"nevadensis","(A.Gray) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,FB4D804A-70BE-4B12-8F67-FFACAA8E9B87,973807-1,"Phytologia 75","","89","1993",
+gcc-145915,A,Compositae,,Ericameria,,"parryi",subsp.,"parryi","",Synonym,,L,TICA,114E73FB-2296-4F25-BB23-0D7909BA65CE,,"","","","",gcc-96555
+gcc-51767,A,Compositae,,Ericameria,,"parryi",var.,"parryi","",Synonym,,L,TICA,F76C11FB-9E4A-4E67-95D9-5FFEDC655B7F,,"","","","1993",gcc-96555
+gcc-68258,A,Compositae,,Ericameria,,"parryi",var.,"salmonensis","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,39DDD52F-6EEC-4385-BE6F-DD7AC0BF86EF,973808-1,"Phytologia 75","","89","1993",
+gcc-53246,A,Compositae,,Ericameria,,"parryi",var.,"vulcanica","(Greene) G.L.Nesom & G.I.Baird",Accepted,,L,TICA,31EC05D8-6DB1-4FE4-9B95-64CFCEB9E3DB,973809-1,"Phytologia 75","","89","1993",
+gcc-25018,A,Compositae,,Ericameria,,"pinifolia",,"","(A.Gray) H.M.Hall",Accepted,,M,TICA,C438C7F7-5489-4C60-8DA2-2E387D3749AF,93507-2,"Univ. Calif. Publ. Bot. 3","","54","1907",
+gcc-108298,A,Compositae,,Ericameria,,"pseudobaccharis",,"","(S.F.Blake) Urbatsch",Synonym,,M,TICA,81287A88-BF24-43E9-8057-ABFCD3CC3488,93508-2,"Sida 7","","299","1978",gcc-51343
+gcc-119674,A,Compositae,,Ericameria,,"pulchella",,"","(A.Gray) L.C.Anderson",Synonym,,M,TICA,871629DA-3E1B-4A09-8C99-C5B585C4E482,981052-1,"Great Basin Naturalist 55","","86","1995",gcc-715
+gcc-63215,A,Compositae,,Ericameria,,"pulchella",subsp.,"baileyi","(Wooton & Standl.) L.C.Anderson",Synonym,,L,TICA,6AE6D066-4ACB-4943-98FC-B51041CC4FC8,981053-1,"Great Basin Naturalist 55","","86","1995",gcc-114740
+gcc-5011,A,Compositae,,Ericameria,,"pulchella",var.,"elatior","(Standl.) L.C.Anderson",Synonym,,L,TICA,1C955265-B051-4F8B-A1E8-0958C16B6FED,981054-1,"Great Basin Naturalist 55","","86","1995",gcc-715
+gcc-36281,A,Compositae,,Ericameria,,"pulchella",var.,"pulchella","",Synonym,,L,TICA,C294723A-CFFC-4728-BE30-434755AE746A,,"","","","1995",gcc-715
+gcc-38410,A,Compositae,,Ericameria,,"pulchella",subsp.,"pulchella","",Synonym,,L,TICA,884C24C7-94F0-418D-922E-4744BDA8D62E,,"","","","1995",gcc-715
+gcc-132442,A,Compositae,,Ericameria,,"purpusii",,"","Brandegee",Synonym,,M,TICA,BBC2424E-DF32-42BF-852A-E346D2520020,93509-2,"Univ. Calif. Publ. Bot. 4","","191","1911",gcc-82617
+gcc-141359,A,Compositae,,Ericameria,,"resinosa",,"","Nutt.",Accepted,,M,TICA,32C94248-4FFC-4470-9BEA-F733A9094712,,"","","319","1840",
+gcc-82789,A,Compositae,,Ericameria,,"riskindii",,"","B.L.Turner & G.Langford",Synonym,,M,TICA,F9B739A9-C615-4BA0-8194-72D28D5079F7,899816-1,"","","234","1982",gcc-2941
+gcc-88179,A,Compositae,,Ericameria,,"sonorensis",,"","B.L.Turner",Accepted,,M,TICA,4508208E-74F4-4D16-A20E-7EE0E7585209,,"","","","ine",
+gcc-25762,A,Compositae,,Ericameria,,"spathulata",,"","(L.C.Anderson) L.C.Anderson",Synonym,,M,TICA,3898C415-549F-406B-81E0-2F9B0B377584,981055-1,"Great Basin Naturalist 55","","86","1995",gcc-82484
+gcc-143400,A,Compositae,,Ericameria,,"suffruticosa",,"","(Nutt.) G.L.Nesom",Accepted,,M,TICA,920F9AC0-8C8F-4BA0-9949-FBCC8954A57B,1174958-2,"","","153","1990",
+gcc-115722,A,Compositae,,Ericameria,,"teretifolia",,"","(Durand & Hilg.) Jeps.",Accepted,,M,TICA,CF5984DB-1490-482A-97ED-BCD523AA0C2A,93511-2,"Man. Fl. Pl. Calif.","","1024","1925",
+gcc-26433,A,Compositae,,Ericameria,,"triantha",,"","(S.F.Blake) Shinners",Synonym,,M,TICA,F2B736F2-7211-49B3-99B6-30D7D50CF247,93512-2,"Field & Lab. 19","","133","1951",gcc-142937
+gcc-97473,A,Compositae,,Ericameria,×,"uintahensis",,"","(L.C.Anderson) G.L.Nesom & G.I.Baird",Accepted,,M,TICA,4D95AFB4-58C6-4DE7-93FC-93F5AA817BD4,973812-1,"Phytologia 75","","90","1993",
+gcc-134122,A,Compositae,,Ericameria,,"vaseyi",,"","(A.Gray) L.C.Anderson",Synonym,,M,TICA,582BAAA2-1ACF-4C9D-B390-E7125655DD04,981056-1,"Great Basin Naturalist 55","","86","1995",gcc-38992
+gcc-78219,A,Compositae,,Ericameria,,"viscidiflora",,"","(Hook.) L.C.Anderson",Synonym,,M,TICA,E429ACAC-7EC0-4DA7-826A-68A4629F435C,981057-1,"Great Basin Naturalist 55","","86","1995",gcc-1983
+gcc-60603,A,Compositae,,Ericameria,,"viscidiflora",subsp.,"axillaris","(D.D.Keck) L.C.Anderson",Synonym,,L,TICA,C5068B38-A679-4280-9194-9F97CC814249,981060-1,"Great Basin Naturalist 55","","87","1995",gcc-12525
+gcc-68957,A,Compositae,,Ericameria,,"viscidiflora",subsp.,"lanceolata","(Nutt.) L.C.Anderson",Synonym,,L,TICA,58D528D5-6870-4763-B21D-E2B002C64B8F,981061-1,"Great Basin Naturalist 55","","87","1995",gcc-10090
+gcc-27328,A,Compositae,,Ericameria,,"viscidiflora",var.,"latifolia","(D.C.Eaton) L.C.Anderson",Synonym,,L,TICA,2EA8DC0A-7998-4728-B41D-328D110AA69F,,"Great Basin Naturalist 55","","","1995",gcc-1983
+gcc-15427,A,Compositae,,Ericameria,,"viscidiflora",subsp.,"planifolia","(L.C.Anderson) L.C.Anderson",Synonym,,L,TICA,001C61E4-13C8-4E3D-8B32-1C8F40BDAB62,981062-1,"Great Basin Naturalist 55","","87","1995",gcc-71333
+gcc-70693,A,Compositae,,Ericameria,,"viscidiflora",subsp.,"puberula","(D.C.Eaton) L.C.Anderson",Synonym,,L,TICA,A41E900F-D097-4E2B-9355-F02288C17709,981063-1,"Great Basin Naturalist 55","","87","1995",gcc-6272
+gcc-781,A,Compositae,,Ericameria,,"viscidiflora",var.,"stenophylla","(A.Gray) L.C.Anderson",Synonym,,L,TICA,E791942E-8E3E-49A5-BEB2-017643E09FDF,981059-1,"Great Basin Naturalist 55","","87","1995",gcc-1983
+gcc-152532,A,Compositae,,Ericameria,,"viscidiflora",var.,"viscidiflora","",Synonym,,L,TICA,74BEEC31-078A-4910-99DE-9B8A5CAE766E,,"","","","",gcc-1983
+gcc-38589,A,Compositae,,Ericameria,,"viscidiflora",subsp.,"viscidiflora","",Synonym,,L,TICA,9C0C3DA2-811E-49D2-B631-479C776FB140,,"","","","1995",gcc-1983
+gcc-5321,A,Compositae,,Ericameria,×,"viscosa",,"","(D.D.Keck) G.L.Nesom & G.I.Baird",Accepted,,M,TICA,846C5438-2125-452D-B565-09EEC1A397A8,973811-1,"Phytologia 75(1): 90 (1993):","","90","1993",
+gcc-46406,A,Compositae,,Ericameria,,"watsonii",,"","(A.Gray) G.L.Nesom",Accepted,,M,TICA,A34E1FB3-8A33-427B-AE4A-560456A34DB0,947800-1,"Phytologia 68","","152","1990",
+gcc-81764,A,Compositae,,Ericameria,,"winwardii",,"","(Dorn & Delmatier) R.P.Roberts & Urbatsch",Accepted,,M,TICA,8B112AE8-57D8-41C9-AE68-708BAE7215CE,60439641-2,"","","1562","2005",
+gcc-76469,A,Compositae,,Ericameria,,"zionis",,"","(L.C.Anderson) G.L.Nesom",Accepted,,M,TICA,98D66231-B537-4040-A54A-64C4F804A30B,1134166-2,"Phytologia 68","","153","1990",

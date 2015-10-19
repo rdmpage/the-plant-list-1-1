@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-14056,A,Compositae,,Cancrinia,,"angrenica",,"","Krasch.",Accepted,,M,TICA,D446FBAA-9324-47CC-B2A8-1A1222F58777,188244-1,"Repert. Spec. Nov. Regni Veg. 26","","29","1929",
+gcc-106588,A,Compositae,,Cancrinia,,"botschantzevii",,"","(Kovalevsk.) Tzvelev",Synonym,,L,TICA,7175A6D4-AFB5-4226-83E4-A824F60B2B77,,"","","","1961",gcc-135613
+gcc-141635,A,Compositae,,Cancrinia,,"brachypappus",,"","C.Winkl.",Synonym,,L,TICA,51604D55-F0CC-4357-8F56-F7D52460CCCD,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 12: 29 (1892)","","29","1892",gcc-89891
+gcc-88911,A,Compositae,,Cancrinia,,"chrysocephala",,"","Kar. & Kir.",Accepted,,M,TICA,1533AD71-95D4-40C7-AE65-807A3DCFF9C9,188247-1,"","","125","1842",
+gcc-156129,A,Compositae,,Cancrinia,,"chrysocephala",subsp.,"chrysocephala","",Synonym,,L,TICA,3958D801-6722-459B-8136-E6E41B8EB105,,"","","","",gcc-88911
+gcc-64694,A,Compositae,,Cancrinia,,"chrysocephala",subsp.,"tianschanica","Krasch.",Synonym,,L,TICA,034EE1EC-486D-48ED-92EA-C06607ADB13B,,"Bot. Mater. Gerb. Glavn. Bot. Sada RSFSR 2: 81 (1922)","","81","1922",gcc-142959
+gcc-89891,A,Compositae,,Cancrinia,,"discoidea",,"","(Ledeb.) Poljakov ex Tzvelev",Accepted,,L,TICA,67F0AF8E-3810-410B-8870-82C44799AC04,188248-1,"Flora URSS 26:","","313","1961",
+gcc-16075,A,Compositae,,Cancrinia,,"eriobasis",,"","(Rech.f.) Tzvelev",Synonym,,M,TICA,1CAD695B-33B6-4EDE-B075-1DBB78B784C8,188249-1,"","","308","1961",gcc-37911
+gcc-11679,A,Compositae,,Cancrinia,,"ferganensis",,"","(Kovalevsk.) Tzvelev",Synonym,,M,TICA,9DD61B02-7DB7-488C-94F8-15C60345F937,188250-1,"","","304","1961",gcc-9451
+gcc-136778,A,Compositae,,Cancrinia,,"goloskokovii",,"","Tzvelev",Synonym,,L,TICA,5C8573C3-B7C0-41C4-A0D0-ECFE329C2059,188251-1,"","","301","1961",gcc-13966
+gcc-86813,A,Compositae,,Cancrinia,,"handeliiformis",,"","Kovalevsk.",Unresolved,,L,TICA,8993A430-2C29-4F11-87CE-7BC50E102CD6,,"","","","",
+gcc-30026,A,Compositae,,Cancrinia,,"karatavica",,"","Tzvelev",Synonym,,M,TICA,8FE9D50E-0316-42EE-A954-378FB106C96F,,"","","","1961",gcc-103359
+gcc-134187,A,Compositae,,Cancrinia,,"karataviensis",,"","(Regel & Schmalh.) Poljakov",Accepted,,M,TICA,DA9EE2C3-B11D-4FF2-B47A-E73572FA88DD,,"","","","1959",
+gcc-100928,A,Compositae,,Cancrinia,,"krascheninnikovii",,"","(Rubtzov) Poljakov",Synonym,,M,TICA,9FDFCB4D-D29A-4DAB-A37B-9BB2F85255E5,,"","","","1959",gcc-109790
+gcc-78334,A,Compositae,,Cancrinia,,"krasnoborovii",,"","Khanm.",Accepted,,M,TICA,BA429D7D-C9FA-43E9-8058-68E749670711,901655-1,"","","402","1983",
+gcc-85204,A,Compositae,,Cancrinia,,"lasiantha",,"","C.Winkl.",Synonym,,M,TICA,81086956-9ED0-448A-AC8C-78298A8E70FF,188255-1,"","","235","1894",gcc-134187
+gcc-9597,A,Compositae,,Cancrinia,,"lasiocarpa",,"","C.Winkl.",Accepted,,M,TICA,486E920F-D003-488D-9343-11EBF48C9B60,188256-1,"","","30","1892",
+gcc-38281,A,Compositae,,Cancrinia,,"litwinowii",,"","Krasch.",Accepted,,L,TICA,7F5FC870-1FD7-4363-A5B7-4701701D9C2D,188257-1,"","","81","1922",
+gcc-12601,A,Compositae,,Cancrinia,,"maximowiczi",,"","C.Winkl.",Accepted,,L,TICA,1015B90E-4FE0-45CB-BDE0-177E635A5736,188258-1,"","","29","1892",
+gcc-18495,A,Compositae,,Cancrinia,,"mucronata",,"","(Regel & Schmalh.) Tzvelev",Synonym,,M,TICA,876B6FE1-C175-48E1-B32B-22278B5AC92A,,"","","","1961",gcc-15793
+gcc-17810,A,Compositae,,Cancrinia,,"nevskii",,"","Tzvelev",Synonym,,L,TICA,FF15460D-C023-4126-AB53-20E1F6F81584,,"","","","1961",gcc-75817
+gcc-15146,A,Compositae,,Cancrinia,,"pamiralaica",,"","(Kovalevsk.) Tzvelev",Synonym,,L,TICA,A806294D-7D30-4F9D-AD56-1C0E80105C19,,"","","","1961",gcc-468
+gcc-36143,A,Compositae,,Cancrinia,,"pamirica",,"","(O.Hoffm.) P.Poliakov",Accepted,,L,TICA,6BF3FECC-80EC-41A3-B0AB-43056699060A,,"","","","1959",
+gcc-35139,A,Compositae,,Cancrinia,,"paradoxa",,"","C.Winkl.",Synonym,,M,TICA,4397C5BB-3CA4-416C-B2AE-412A202FD82E,188263-1,"","","371","1891",gcc-140414
+gcc-106206,A,Compositae,,Cancrinia,,"paropamisica",,"","(Krasch.) Tzvelev",Synonym,,M,TICA,3E29A120-9F30-4561-A057-A73EC98B01F5,,"","","","1961",gcc-121724
+gcc-3993,A,Compositae,,Cancrinia,,"paropamisica",,"","Krasch.",Synonym,,M,TICA,EE17F588-44C3-484F-B05F-076A391397F5,,"","","","",gcc-75939
+gcc-142178,A,Compositae,,Cancrinia,,"paucicephala",,"","Ling",Synonym,,L,TICA,9E95011F-FB97-4F25-964A-F91967ADF404,188265-1,"Contr. Inst. Bot. Natl. Acad. Peiping 2","","503","1934",gcc-12601
+gcc-10398,A,Compositae,,Cancrinia,,"pjataevae",,"","(Kovalevsk.) Tzvelev",Synonym,,M,TICA,BEEA9191-7B73-4C19-A44A-136C1DACBC65,,"","","","1961",gcc-113428
+gcc-28240,A,Compositae,,Cancrinia,,"platyrachis",,"","(Boiss.) Tzvelev",Synonym,,M,TICA,60014B5A-C4AF-4283-AA09-342C234F17A7,,"","","","1961",gcc-121724
+gcc-131112,A,Compositae,,Cancrinia,,"rupestris",,"","(Popov ex Nevski) Poljakov",Accepted,,M,TICA,D9929FAC-E7A0-4FDC-AF5E-E0218439C8C6,188268-1,"","","104","1960",
+gcc-126818,A,Compositae,,Cancrinia,,"santoana",,"","(""Krasch., Popov & Vved."") Poljakov",Synonym,,L,TICA,C116387C-D537-4FA8-BDA1-D62B35F7C706,,"","","","1959",gcc-93774
+gcc-43566,A,Compositae,,Cancrinia,,"setacea",,"","(Regel & Schmalh.) Tzvelev",Synonym,,L,TICA,6D6DD1C0-DA5D-454E-9C0D-50C3649C5C69,,"","","","1961",gcc-108475
+gcc-117519,A,Compositae,,Cancrinia,,"submarginata",,"","(Kovalevsk.) Tzvelev",Synonym,,M,TICA,E2DC098E-D7E4-46A7-B7B4-C0E1DC6B4A69,,"","","","1961",gcc-40566
+gcc-40782,A,Compositae,,Cancrinia,,"subsimilis",,"","(Rech.f.) Tzvelev",Synonym,,M,TICA,9B972A40-42B5-4357-BB5A-4B93DEA15238,188272-1,"","","302","1961",gcc-37654
+gcc-108568,A,Compositae,,Cancrinia,,"tadshikorum",,"","(Kudr.) Tzvelev",Synonym,,M,TICA,79240AD0-D3C9-4280-BC83-AC9486F125D2,,"","","","1961",gcc-2004
+gcc-142959,A,Compositae,,Cancrinia,,"tianschanica",,"","(Krasch.) Tzvelev",Accepted,,M,TICA,00217B1B-9306-487C-940D-FAD3797E192A,188274-1,"","","315","1961",
+gcc-88597,A,Compositae,,Cancrinia,,"tripinnatifida",,"","(Oliv.) Tzvelev",Accepted,,M,TICA,11C31319-EA54-421D-9F2B-7FC990ACA902,,"","","","1961",
+gcc-140987,A,Compositae,,Cancrinia,,"urgutensis",,"","Tzvelev",Synonym,,L,TICA,E185E931-66E9-4BE4-9E18-F6584772E5BC,,"","","","1961",gcc-106625

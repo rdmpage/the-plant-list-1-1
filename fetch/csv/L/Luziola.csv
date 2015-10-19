@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-423146,A,Poaceae,,Luziola,,"alabamensis",,"","Chapm.",Synonym,,H,WCSP,423146,146127-2,"Fl. South. U.S.","584","","1860",kew-423147
+kew-423147,A,Poaceae,,Luziola,,"bahiensis",,"","(Steud.) Hitchc.",Accepted,,H,WCSP,423147,146128-2,"Contr. U. S. Natl. Herb.","12: 234","","1909",
+kew-423148,A,Poaceae,,Luziola,,"bahiensis",var.,"alabamensis","(Chapm.) Prodán",Synonym,,L,WCSP,423148,,"Bot. Arch.","1: 242","","1922",kew-423147
+tro-25537170,A,Poaceae,,Luziola,,"bahiensis",var.,"bahiensis","",Synonym,,L,TRO,25537170,,"","","","",kew-423147
+kew-423149,A,Poaceae,,Luziola,,"brasiliana",,"","Moric.",Accepted,,H,WCSP,423149,316791-2,"Pl. Nouv. Amér.","94","","1840",
+kew-423150,A,Poaceae,,Luziola,,"brasiliensis",,"","(Trin.) Swallen",Accepted,,H,WCSP,423150,407690-1,"Ann. Missouri Bot. Gard.","52: 473","","1965",
+tro-25551365,A,Poaceae,,Luziola,,"brasiliensis",,"","(Trin.) Pilg.",Synonym,,M,TRO,25551365,407689-1,"Nat. Pflanzenfam. (ed. 2)","14d: 157","157","1956",kew-423150
+kew-423151,A,Poaceae,,Luziola,,"caespitosa",,"","Swallen",Accepted,,H,WCSP,423151,146131-2,"Ann. Missouri Bot. Gard.","52: 473","","1965",
+kew-423152,A,Poaceae,,Luziola,,"carolinensis",,"","(P.Beauv.) Raspail",Synonym,,H,WCSP,423152,407692-1,"Ann. Sci. Nat. (Paris)","5: 304","","1825",kew-423158
+kew-423153,A,Poaceae,,Luziola,,"caroliniana",,"","Trin. ex Steud.",Synonym,Illegitimate,H,WCSP,423153,316792-2,"Nomencl. Bot.","ed. 2, 2: 79","","1841",kew-423158
+kew-423155,A,Poaceae,,Luziola,,"contracta",,"","Hack.",Synonym,,H,WCSP,423155,146132-2,"Oesterr. Bot. Z.","52: 8","","1902",kew-423147
+kew-423156,A,Poaceae,,Luziola,,"divergens",,"","Swallen",Accepted,,H,WCSP,423156,146133-2,"Ann. Missouri Bot. Gard.","52: 475","","1965",
+kew-423157,A,Poaceae,,Luziola,,"doelliana",,"","Prodoehl",Synonym,,H,WCSP,423157,289901-2,"Bot. Arch.","1: 240","","1922",kew-423149
+kew-423158,A,Poaceae,,Luziola,,"fluitans",,"","(Michx.) Terrell & H.Rob.",Accepted,,H,WCSP,423158,146134-2,"Bull. Torrey Bot. Club","101: 244","","1974",
+tro-50090465,A,Poaceae,,Luziola,,"fluitans",var.,"fluitans","",Synonym,,L,TRO,50090465,,"","","","",kew-423158
+kew-423159,A,Poaceae,,Luziola,,"fluitans",var.,"oconneri","(R.Guzmán) G.C.Tucker",Synonym,,L,WCSP,423159,,"J. Arnold Arbor.","69: 272","","1988",kew-423158
+kew-423160,A,Poaceae,,Luziola,,"fragilis",,"","Swallen",Accepted,,H,WCSP,423160,146135-2,"Ann. Missouri Bot. Gard.","52: 474","","1965",
+kew-423161,A,Poaceae,,Luziola,,"gracillima",,"","Prodoehl",Accepted,,H,WCSP,423161,146136-2,"Bot. Arch.","1: 241","","1922",
+kew-423162,A,Poaceae,,Luziola,,"leiocarpa",,"","Lindm.",Synonym,,H,WCSP,423162,146137-2,"Kongl. Svenska Vetensk. Acad. Handl.","n.s., 34(6): 12","","1900",kew-423167
+kew-423163,A,Poaceae,,Luziola,,"longivalvis",,"","Benth. & Hook.f.",Synonym,Spelling variant,H,WCSP,423163,,"Gen. Pl.","3: 1106","","1883",kew-423147
+kew-423164,A,Poaceae,,Luziola,,"longivalvula",,"","Döll",Synonym,Illegitimate,H,WCSP,423164,1078147-2,"Fl. Bras.","2(2): 47","","1871",kew-423147
+kew-423165,A,Poaceae,,Luziola,,"mexicana",,"","Kunth",Synonym,Invalid,H,WCSP,423165,407703-1,"Nov. Gen. Sp.","1: 199","","1816",kew-423167
+kew-423166,A,Poaceae,,Luziola,,"micrantha",,"","(Schrad.) Benth.",Synonym,Illegitimate,H,WCSP,423166,407704-1,"J. Linn. Soc., Bot.","19: 55","","1881",kew-423150
+kew-423167,A,Poaceae,,Luziola,,"peruviana",,"","J.F.Gmel.",Accepted,,H,WCSP,423167,289770-2,"Syst. Nat.","637","","1791",
+kew-423168,A,Poaceae,,Luziola,,"peruviana",,"","G.Mey. ex Benth.",Synonym,Invalid,H,WCSP,423168,407705-1,"J. Linn. Soc., Bot.","19: 55","","1881",kew-423172
+kew-423169,A,Poaceae,,Luziola,,"pittieri",,"","Luces",Synonym,,H,WCSP,423169,146138-2,"J. Wash. Acad. Sci.","32: 159","","1942",kew-423149
+kew-423170,A,Poaceae,,Luziola,,"pusilla",,"","S.Moore",Synonym,,H,WCSP,423170,407708-1,"Trans. Linn. Soc. London, Bot.","4: 507","","1895",kew-423147
+tro-25529957,A,Poaceae,,Luziola,,"spiciformis",,"","Andersson ex Balansa & Poit.",Synonym,,M,TRO,25529957,,"Bull. Soc. Hist. Nat. Toulouse","12: 232, t. 5","232","1878",kew-423172
+kew-423171,A,Poaceae,,Luziola,,"spiriformis",,"","Andersson ex Balansa & Poitr.",Synonym,,H,WCSP,423171,,"Bull. Soc. Hist. Nat. Toulouse","12: 232","","1878",kew-423172
+kew-423172,A,Poaceae,,Luziola,,"spruceana",,"","Benth. ex Döll",Accepted,,H,WCSP,423172,,"Fl. Bras.","2(1): 18","","1871",
+kew-423173,A,Poaceae,,Luziola,,"striata",,"","Balansa & Poitr.",Synonym,,H,WCSP,423173,,"Bull. Soc. Hist. Nat. Toulouse","12: 231","","1878",kew-423147
+kew-423174,A,Poaceae,,Luziola,,"subintegra",,"","Swallen",Accepted,,H,WCSP,423174,146140-2,"Ann. Missouri Bot. Gard.","30: 165","","1943",

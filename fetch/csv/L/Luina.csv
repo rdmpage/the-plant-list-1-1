@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117963,A,Compositae,,Luina,,"californica",,"","(A.Gray) Rydb.",Unresolved,,L,TICA,56ECC34B-7BE9-4295-8A2C-C1D542BD7B2F,144506-2,"","","316","1927",
+gcc-109440,A,Compositae,,Luina,,"hypoleuca",,"","Benth.",Accepted,,M,TICA,F6EB87C9-AC6C-490E-A048-AEA9AC922E44,,"Hook. Ic. Pl. t. 1139 (1873).","","","",
+gcc-67653,A,Compositae,,Luina,,"hypoleuca",var.,"californica","A.Gray",Unresolved,,L,TICA,FF52D19D-2971-4B83-9374-D8EA66306BE2,,"Proc. Amer. Acad. Arts 9: 206. 1874","","","1874",gcc-117963
+gcc-60552,A,Compositae,,Luina,,"hypoleuca",var.,"hypoleuca","",Synonym,,L,TICA,1EF83914-70E4-4892-8D81-9F22B7EDA776,,"","","","",gcc-109440
+gcc-91692,A,Compositae,,Luina,,"nardosmia",,"","(A.Gray) Cronquist",Synonym,,M,TICA,CDEA9CDA-30DB-46BD-95F3-86E9212917F9,144509-2,"","","257","1955",gcc-136769
+gcc-55094,A,Compositae,,Luina,,"nardosmia",var.,"glabrata","(Piper) Cronquist",Synonym,,L,TICA,88A6B00C-4F99-48CB-B7EF-732C31B63B8E,144511-2,"Vasc. Pl. Pacific NorthW. 5: 257. 1955","","257","1955",gcc-136769
+gcc-51982,A,Compositae,,Luina,,"nardosmia",subsp.,"nardosmia","",Synonym,,L,TICA,2BB208F8-BCE8-47DB-91F8-606C777DE68C,,"","","","1978",gcc-136769
+gcc-55631,A,Compositae,,Luina,,"nardosmia",var.,"nardosmia","",Synonym,,L,TICA,8705D349-89C2-406E-81BF-778C159772A8,,"","","","",gcc-136769
+gcc-127785,A,Compositae,,Luina,,"piperi",,"","B.L.Rob.",Unresolved,,L,TICA,81970EC2-08B4-4C59-97C0-D882208B2B50,,"","","","1891",
+gcc-143517,A,Compositae,,Luina,,"serpentina",,"","Cronquist",Accepted,,M,TICA,BB8A8F7F-41D8-434C-93C0-FC1647C1E8C2,,"","","","1955",
+gcc-107457,A,Compositae,,Luina,,"stricta",,"","(Greene) B.L.Rob.",Synonym,,M,TICA,B3698D56-1684-4842-A5E4-AA193DC01451,144514-2,"","","514","1913",gcc-87723

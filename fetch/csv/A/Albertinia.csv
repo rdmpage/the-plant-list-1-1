@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-78831,A,Compositae,,Albertinia,,"arborea",,"","Gardner",Synonym,,M,TICA,BD803E3E-D76A-4FAE-9A28-6A142573A00F,271908-2,"London J. Bot. 5","","236","1846",gcc-96061
+gcc-102719,A,Compositae,,Albertinia,,"bardanoides",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,EC307BA6-0AFD-4A5A-A3BE-9FC38F5695F3,,"","","25","1873",gcc-2746
+gcc-116592,A,Compositae,,Albertinia,,"bardanoides",,"","Mart.",Unresolved,,L,TICA,68E5C22C-BC72-4EA4-9489-BEC1C5518E87,175832-1,"Prodr. (DC.) 5: 81","","81","1836",
+gcc-129653,A,Compositae,,Albertinia,,"bardanoides",,"","Mart. ex DC.",Synonym,,M,TICA,47813D91-31A3-4C55-AE9A-DCC2EAAD67CD,,"Prodr. 5: 81 (1836)","","81","1836",gcc-2746
+gcc-26337,A,Compositae,,Albertinia,,"bicolor",,"","DC.",Synonym,,M,TICA,CF2D4607-07F3-4FCB-A909-30AC0822DBF2,8001-2,"Prodr. (DC.) 5: 81","","81","1836",gcc-76006
+gcc-51830,A,Compositae,,Albertinia,,"bicolor",,"","Gardner",Synonym,Illegitimate,M,TICA,7CF433D6-92D9-46F3-9F29-601DF6B02BD8,175833-1,"London J. Bot. 5","","236","1846",gcc-32382
+gcc-94924,A,Compositae,,Albertinia,,"brasiliensis",,"","Spreng.",Accepted,,M,TICA,95FAA73B-E7D8-49E5-B68F-8E24CCD7F8E5,,"","","341","1826",
+gcc-21746,A,Compositae,,Albertinia,,"candolleana",,"","Gardner",Synonym,,L,TICA,48E0DCC7-4006-489F-9100-283FEEB16656,175836-1,"London J. Bot. 5","","235","1846",gcc-101735
+gcc-47360,A,Compositae,,Albertinia,,"capitata",,"","(Spreng.) DC.",Synonym,,M,TICA,660E3A46-719B-47D4-9BF0-57B4997DFFE0,175837-1,"","","82","1836",gcc-41259
+gcc-121210,A,Compositae,,Albertinia,,"claussenii",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,L,TICA,C714CB54-8F59-41D9-B5FA-C9501A031C35,,"","","15","1873",gcc-101735
+gcc-84467,A,Compositae,,Albertinia,,"crotonoides",,"","DC.",Synonym,,M,TICA,7105C4B7-F640-4F5E-916B-76A2B8B4955F,175839-1,"","","81","1836",gcc-2746
+tro-50159227,A,Compositae,,Albertinia,,"elaeagna",,"","Mart. ex DC.",Synonym,,M,TRO,50159227,175840-1,"Prodr.","5: 81","81","1836",gcc-12644
+gcc-39034,A,Compositae,,Albertinia,,"elaeagnus",,"","Mart. ex DC.",Synonym,,M,TICA,9AC6DD00-4D1F-49DA-ABF5-486B05F5B86F,175840-1,"","","81","1836",gcc-12644
+gcc-116734,A,Compositae,,Albertinia,,"erythropappa",,"","DC.",Synonym,,L,TICA,4E0FEFF0-CF8F-4677-83C6-BF19C733B564,271909-2,"","","82","1836",gcc-101735
+gcc-98114,A,Compositae,,Albertinia,,"erythropappa",,"","Gardner",Unresolved,,L,TICA,497AAE75-0A4D-4733-8F70-9562BDF59F4D,,"London J. Bot. 5: 236 (1846).","","236","1846",
+gcc-125669,A,Compositae,,Albertinia,,"glomerulata",,"","(Less.) DC.",Synonym,,M,TICA,3864DC1F-1FF4-4515-9D14-D392475162D9,175843-1,"","","82","1836",gcc-35708
+gcc-32875,A,Compositae,,Albertinia,,"gonoclados",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,E0B79AE5-BD82-4F71-B2E0-3CF6F7601B84,,"","","144","1873",gcc-94835
+gcc-132459,A,Compositae,,Albertinia,,"goyazensis",,"","Gardner",Synonym,,M,TICA,83DC93AD-41D5-40E0-B780-E35067481CDD,175845-1,"London J. Bot. 6","","425","1847",gcc-91921
+gcc-144072,A,Compositae,,Albertinia,,"incana",,"","Less.",Synonym,,M,TICA,2E777D88-63F1-49B3-A319-FD4BDD5F9D1C,271910-2,"Linnaea 4: 342. 1829","","342","1829",gcc-32382
+gcc-118075,A,Compositae,,Albertinia,,"incanescens",,"","Mart. ex Baker",Synonym,Illegitimate,L,TICA,5A9D85C0-0C77-44B6-AE0E-C2177250D763,,"","","15","1873",gcc-101735
+gcc-133602,A,Compositae,,Albertinia,,"incanescens",,"","Mart.",Unresolved,,L,TICA,827C25EB-AB7D-4A29-9F88-E5DD248F9BD7,175848-1,"""ex Colla, Herb. Pedem. iii. 290 (1834).""","","iii. 290","1834",
+gcc-31189,A,Compositae,,Albertinia,,"incanescens",,"","Mart. ex Colla",Synonym,,L,TICA,E6EA1E69-85D6-4A7D-B79E-39C013FCEF4C,,"Herb. Pedem. 3: 290 (1834)","","290","1834",gcc-101735
+gcc-47849,A,Compositae,,Albertinia,,"martii",,"","Colla",Unresolved,,L,TICA,409D18EF-F1DB-4E1E-B86B-58A61F6B23D2,,"","","","1834",
+gcc-84033,A,Compositae,,Albertinia,,"mollis",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,A091681B-1B5D-41E1-833C-759E4C033D54,,"","","164","1873",gcc-20489
+gcc-144038,A,Compositae,,Albertinia,,"monticola",,"","Mart. ex Baker",Unresolved,Illegitimate,L,TICA,90FDD52F-81D4-4115-804F-FD38FC24AD0C,,"","","145","1873",
+gcc-23638,A,Compositae,,Albertinia,,"multiflora",,"","Mart. ex DC.",Synonym,,M,TICA,9C65EFC1-D37F-4245-8BEB-2BB6340C0665,,"Prodr. 5: 82 (1836)","","82","1836",gcc-79264
+gcc-49647,A,Compositae,,Albertinia,,"multiflora",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,ABA0D4FD-4EB1-43DB-8F91-5C0865C13DED,,"","","14","1873",gcc-79264
+gcc-95745,A,Compositae,,Albertinia,,"multiflora",,"","Mart.",Unresolved,,L,TICA,AE102CCB-51C2-4C5F-8F8A-90102FA5F6C6,175851-1,"Prodr. (DC.) 5: 82","","82","1836",
+gcc-103812,A,Compositae,,Albertinia,,"obtusata",,"","Mart.",Unresolved,,L,TICA,0C36768D-8357-4021-ADF6-A212BA897147,175852-1,"Prodr. (DC.) 5: 81","","81","1836",
+gcc-108381,A,Compositae,,Albertinia,,"obtusata",,"","Mart. ex DC.",Synonym,Illegitimate,M,TICA,075BAFD9-91FF-4CFB-A085-AC280673A0B7,,"Prodr. 5: 81 (1836)","","81","1836",gcc-35708
+gcc-127360,A,Compositae,,Albertinia,,"oleaster",,"","Mart. ex Baker",Synonym,,M,TICA,11F59DBA-7EF7-4CF3-991E-D77A9912392A,,"","","145","1873",gcc-45321
+gcc-139535,A,Compositae,,Albertinia,,"oleaster",,"","Mart. ex DC.",Synonym,Illegitimate,M,TICA,E2F707EF-5E13-48E7-A5AE-F2F252C83515,,"","","17","1836",gcc-45321
+gcc-76919,A,Compositae,,Albertinia,,"pallidiseta",,"","DC.",Synonym,,M,TICA,0344A6BC-3B28-4698-82DB-65B465FD1DE6,175854-1,"","","81","1836",gcc-35708
+gcc-154007,A,Compositae,,Albertinia,,"polycephala",,"","DC.",Synonym,,M,TICA,D81A6B96-1C37-4A23-86D9-BA5097EA3658,271911-2,"Prodr. (DC.) 5","","82","1836",gcc-79264
+gcc-95693,A,Compositae,,Albertinia,,"rufiseta",,"","DC.",Synonym,,M,TICA,92155153-1995-4ACA-A224-8FF3574CA467,175856-1,"","","81","1836",gcc-35708
+gcc-8478,A,Compositae,,Albertinia,,"saligna",,"","Mart. ex DC.",Synonym,,M,TICA,DBF7D198-7BB9-4EE7-BAFC-0FCBA39E61FA,,"Prodr. 5: 82 (1836)","","82","1836",gcc-79264
+gcc-87924,A,Compositae,,Albertinia,,"saligna",,"","Mart.",Unresolved,,L,TICA,2529224D-726B-46B6-9861-7E4B0E708218,175857-1,"Prodr. (DC.) 5: 82","","82","1836",
+gcc-52354,A,Compositae,,Albertinia,,"schaefferioides",,"","Sessé & Moc.",Unresolved,,L,TICA,2A653FD3-6305-4D02-A301-6113DB3E4D1B,,"","","","",
+gcc-96315,A,Compositae,,Albertinia,,"stellata",,"","Gardner",Synonym,,M,TICA,49A73955-CD8C-4DA9-805A-9145411127D7,175858-1,"London J. Bot. 5","","235","1846",gcc-35708
+gcc-52145,A,Compositae,,Albertinia,,"subalternifolia",,"","DC.",Unresolved,,L,TICA,89952DC6-66CC-4ACE-AAC9-60BA0FC64708,,"","","","",
+gcc-12933,A,Compositae,,Albertinia,,"verbascifolia",,"","Mart. ex DC.",Synonym,,M,TICA,4CADED78-BC14-421B-B1A0-181CC367F2A1,,"Prodr. 5: 81 (1836)","","25","1836",gcc-2746
+gcc-99584,A,Compositae,,Albertinia,,"verbascifolia",,"","Mart.",Unresolved,,L,TICA,FC5F9AA5-D0EF-48C0-9539-98AE65B45A07,175859-1,"Prodr. (DC.) 5: 81","","81","1836",

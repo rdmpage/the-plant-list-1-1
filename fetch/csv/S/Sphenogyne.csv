@@ -1,0 +1,89 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-39371,A,Compositae,,Sphenogyne,,"abrotanifolia",,"","R.Br.",Synonym,,M,TICA,2C2386C2-AD7B-4C92-9CB3-4912AA11AAA5,250680-1,"""Hortus Kew. (W.T. Aiton), ed. 2. 5: 143""","","143","1813",gcc-112892
+gcc-120672,A,Compositae,,Sphenogyne,,"adonidifolia",,"","DC.",Synonym,,M,TICA,E8EC6299-68F9-45EB-A22B-C81A38B00351,250681-1,"Prodr. (DC.) 5: 682","","682","1836",gcc-98771
+gcc-25295,A,Compositae,,Sphenogyne,,"anethifolia",,"","Less.",Synonym,,M,TICA,B94AE27E-7D0D-48CF-8814-2EB10B821C01,250682-1,"Syn. Gen. Compos. 243.","","243","",gcc-94034
+gcc-87816,A,Compositae,,Sphenogyne,,"anethoides",,"","DC.",Synonym,,M,TICA,69846199-D7A9-4D99-9EA9-7E14BFB41804,250683-1,"Prodr. (DC.) 5: 685","","685","1836",gcc-6858
+gcc-155927,A,Compositae,,Sphenogyne,,"anethoides",var.,"anethoides","",Synonym,,L,TICA,54DA4534-AC3F-4739-9D10-E2A704C6AFCA,,"","","","",gcc-6858
+gcc-54037,A,Compositae,,Sphenogyne,,"anethoides",var.,"brachyglossa","DC.",Synonym,,L,TICA,8134E654-93B6-446D-BA36-6AD74ECF4549,,"","","","",gcc-100177
+gcc-15182,A,Compositae,,Sphenogyne,,"anethoides",var.,"ramossima","DC.",Synonym,,L,TICA,76F53386-7ECC-488E-8246-1C1BD1E1B829,,"","","","",gcc-100177
+gcc-139219,A,Compositae,,Sphenogyne,,"anthemoides",,"","(L.) R.Br.",Synonym,,M,TICA,57A31C09-824E-40C2-AE24-F243A8614CEB,250685-1,"","","142","1813",gcc-98771
+gcc-20210,A,Compositae,,Sphenogyne,,"anthemoides",,"","E.Mey. ex DC.",Unresolved,,L,TICA,DB17D0A3-CAB7-43BD-B757-255A269A3632,250684-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-149264,A,Compositae,,Sphenogyne,,"anthemoides",var.,"anthemoides","",Synonym,,L,TICA,44468648-97CC-4495-8D2B-5559BDCD2415,,"","","","",gcc-98771
+gcc-62761,A,Compositae,,Sphenogyne,,"anthemoides",var.,"versicolor","(DC.) Harv.",Synonym,,L,TICA,46362C16-DDC5-499E-B825-B148CE487952,,"","","","",gcc-7932
+gcc-49089,A,Compositae,,Sphenogyne,,"brachyloba",,"","Kunze",Synonym,,L,TICA,DF5F04ED-26E4-4676-8BCA-5AEDDF559C9A,250686-1,"Linnaea 20: 21. 1847","","21","1847",gcc-91688
+gcc-98198,A,Compositae,,Sphenogyne,,"brachypoda",,"","Harv.",Synonym,,M,TICA,7C5C09F1-B220-4D5F-A45C-958FCACB36A4,,"Fl. Cap. (Harvey) iii. 140","","140","",gcc-75606
+gcc-111235,A,Compositae,,Sphenogyne,,"brevifolia",,"","DC.",Synonym,,M,TICA,DF13FB00-F1CD-4339-93E4-B2AB288034A5,250688-1,"Prodr. (DC.) 5: 685","","685","1836",gcc-81763
+gcc-34763,A,Compositae,,Sphenogyne,,"calendulacea",,"","Hort.",Unresolved,,L,TICA,3F54C8E5-3430-4DAE-B218-407238CFFBE2,250689-1,"""Vilm. Blumengärtn., ed. 3. 1: 541, in syn.""","","541","1894",
+gcc-139495,A,Compositae,,Sphenogyne,,"calendulaeflora",,"","DC.",Synonym,,M,TICA,09EBCB36-D571-4388-83DD-F2DC6C68CDBD,250690-1,"Prodr. (DC.) 5: 682","","682","1836",gcc-90216
+gcc-31338,A,Compositae,,Sphenogyne,,"chamaemeloides",,"","DC.",Unresolved,,L,TICA,37A8CAFB-0969-4A4C-A78F-3A0B9C98B673,250691-1,"Prodr. (DC.) 5: 685","","685","1836",
+gcc-80448,A,Compositae,,Sphenogyne,,"chamomillaefolia",,"","DC.",Synonym,,M,TICA,A4040D3A-E920-4342-A563-6D9E6971C76F,250692-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-101051
+gcc-155730,A,Compositae,,Sphenogyne,,"chamomillaefolia",var.,"chamomillaefolia","",Synonym,,L,TICA,AD06EB10-2C45-4ED4-8BCE-DE9D4DBFAB75,,"","","","",gcc-101051
+gcc-41904,A,Compositae,,Sphenogyne,,"chamomillaefolia",var.,"elongata","Harv.",Synonym,,L,TICA,4417F1A9-FD7E-4F9C-B247-4D97920B22BD,,"","","","",gcc-101051
+gcc-10261,A,Compositae,,Sphenogyne,,"chrysanthemoides",,"","Less.",Synonym,,M,TICA,8E40740A-D9A4-441A-91FE-132CBE482FAA,250693-1,"Syn. Gen. Compos. 242","","242","",gcc-9659
+gcc-142209,A,Compositae,,Sphenogyne,,"ciliaris",,"","DC.",Synonym,,M,TICA,06719A72-0BF6-4153-9196-F925511FF565,250694-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-23258
+gcc-35758,A,Compositae,,Sphenogyne,,"concolor",,"","Harv.",Synonym,,M,TICA,C16DFDEB-8711-4D78-B9C9-424F4ADE8738,,"Fl. Cap. (Harvey) iii. 142","","142","",gcc-100177
+gcc-139232,A,Compositae,,Sphenogyne,,"coronopifolia",,"","Less.",Synonym,,M,TICA,608FE2BB-1924-40B6-8575-F249C8B9F666,250696-1,"Syn. Gen. Compos. 244.","","244","",gcc-142908
+gcc-97555,A,Compositae,,Sphenogyne,,"crithmifolia",,"","R.Br.",Synonym,,M,TICA,1620DEC8-6FBF-4C04-8FCD-9425312FDEA6,250697-1,"""Hortus Kew. (W.T. Aiton), ed. 2. 5: 142""","","142","1813",gcc-94034
+gcc-146755,A,Compositae,,Sphenogyne,,"crithmifolia",var.,"crithmifolia","",Synonym,,L,TICA,95A3244F-EC1A-4636-BCCA-1F2D62E2929F,,"","","","",gcc-94034
+gcc-56249,A,Compositae,,Sphenogyne,,"crithmifolia",var.,"grandiflora","Harv.",Synonym,,L,TICA,03A49D09-5E24-48B7-B6D5-7CEB10522042,,"","","","",gcc-94034
+gcc-64937,A,Compositae,,Sphenogyne,,"crithmifolia",var.,"trifurcata","DC.",Synonym,,L,TICA,37E854AA-EAF6-4BB3-843A-C257E0E26B96,,"","","","",gcc-94034
+gcc-115018,A,Compositae,,Sphenogyne,,"crocea",,"","Hort. ex Vilm.",Unresolved,,L,TICA,EF5497D9-3E5E-4BEE-BE89-BB2F86EC1C5F,250698-1,"Fl. Pleine Terre (ed. 3) 1090","","1090","1870",
+gcc-101143,A,Compositae,,Sphenogyne,,"dentata",,"","(L.) R.Br.",Synonym,,M,TICA,8A91941A-43D3-4049-A535-9C2C9CAE96F6,250699-1,"""Hortus Kew. (W.T. Aiton), ed. 2. 5: 143""","","143","1813",gcc-35153
+gcc-155786,A,Compositae,,Sphenogyne,,"dentata",var.,"dentata","",Synonym,,L,TICA,7916FD79-BBD9-4447-B809-DFE2CC1BB625,,"","","","",gcc-35153
+gcc-53383,A,Compositae,,Sphenogyne,,"dentata",var.,"setigera","(DC.) Harv.",Synonym,,L,TICA,518C504E-DAF4-4374-A3F9-65D068C3E431,,"","","","",gcc-35153
+gcc-128108,A,Compositae,,Sphenogyne,,"discolor",,"","Less.",Synonym,,M,TICA,1FC4FE24-0676-43B8-A416-D93D1A55F84C,250700-1,"Syn. Gen. Compos. 243.","","243","",gcc-81763
+gcc-144204,A,Compositae,,Sphenogyne,,"dregeana",,"","DC.",Synonym,,M,TICA,3BDF1B50-8742-4E68-AF20-FD912ADC52ED,250701-1,"Prodr. (DC.) 5: 683","","683","1836",gcc-90194
+gcc-82862,A,Compositae,,Sphenogyne,,"eckloniana",,"","Sond.",Synonym,,M,TICA,C571A020-1859-4697-868F-73009E60CE9C,250702-1,"Linnaea 23: 64. 1850","","64","1850",gcc-1449
+gcc-40336,A,Compositae,,Sphenogyne,,"elegans",,"","Hort. ex Vilm.",Unresolved,,L,TICA,EBF758F3-C9DE-4EB8-9D8F-4AC5AE9F94C2,250703-1,"Fl. Pleine Terre (ed. 3) 1090","","1090","1870",
+gcc-123233,A,Compositae,,Sphenogyne,,"filipes",,"","E.Mey. ex DC.",Synonym,,M,TICA,CA13B0D9-776B-4424-AC55-CDD59716F8A6,,"""Prodr. (DC.) 5: 687; et in Drege, Zwei Pfl. Docum. 223""","","223","1836",gcc-40123
+gcc-124409,A,Compositae,,Sphenogyne,,"foeniculacea",,"","Sweet",Unresolved,,L,TICA,010593DA-EC7E-403E-9F29-D09E1529C820,250705-1,"Hort. Brit. (Sweet) 238","","238","1826",
+gcc-79918,A,Compositae,,Sphenogyne,,"foeniculacea",,"","(Jacq.) Less.",Synonym,,M,TICA,631D4EA8-6E17-4F3A-8B35-6C6A45350D10,,"","","","",gcc-98771
+gcc-105587,A,Compositae,,Sphenogyne,,"gracilis",,"","DC.",Synonym,,M,TICA,8151FFC4-6EEF-4548-96A6-A5E8B150062E,250706-1,"Prodr. (DC.) 5: 685","","685","1836",gcc-100177
+gcc-44117,A,Compositae,,Sphenogyne,,"grandiflora",,"","DC.",Synonym,,M,TICA,71FE7D3C-4672-49CB-B177-51AF87398D83,250707-1,"Prodr. (DC.) 5: 685","","685","1836",gcc-94034
+gcc-118454,A,Compositae,,Sphenogyne,,"heterodonta",,"","DC.",Synonym,,M,TICA,3E0C94AF-2504-4361-BD4B-C2FB03FBB9DA,250708-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-23157
+gcc-31155,A,Compositae,,Sphenogyne,,"hispida",,"","DC.",Synonym,,M,TICA,089F9279-6478-49DE-AAE7-39AEFD52F541,250709-1,"Prodr. (DC.) 5: 683","","683","1836",gcc-75606
+gcc-77107,A,Compositae,,Sphenogyne,,"incisa",,"","DC.",Synonym,,M,TICA,2CCE0F8F-02B2-4A90-A1C1-661FCB1E8FE0,250710-1,"Prodr. (DC.) 5: 688","","688","1836",gcc-93356
+gcc-98428,A,Compositae,,Sphenogyne,,"kraussii",,"","Sch.Bip.",Unresolved,,L,TICA,B7D74865-B35D-49DB-8514-961C6DC988F2,250711-1,"""in Flora, xxvii. (1844) 674.""","","xxvii.  674","1844",
+gcc-47056,A,Compositae,,Sphenogyne,,"leptoglossa",,"","DC.",Synonym,,M,TICA,4CE46981-162F-4F40-BC5A-5731CA4CB4F3,250712-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-72904
+gcc-15056,A,Compositae,,Sphenogyne,,"leucanthemoides",,"","Sweet",Unresolved,,L,TICA,06E9041F-C6C0-4D72-ADBE-1BDE404D55B7,250713-1,"Hort. Brit. (Sweet) 238","","238","1826",
+gcc-126494,A,Compositae,,Sphenogyne,,"macropoda",,"","DC.",Synonym,,M,TICA,75CA5069-264D-44B6-B313-D5735B32FFED,250714-1,"Prodr. (DC.) 5: 683","","683","1836",gcc-3694
+gcc-24734,A,Compositae,,Sphenogyne,,"microcephala",,"","DC.",Synonym,,M,TICA,948EE845-97C0-4DB2-9879-2DB05B8FB18C,250715-1,"Prodr. (DC.) 5: 682","","682","1836",gcc-98771
+gcc-36347,A,Compositae,,Sphenogyne,,"natalensis",,"","Sch.Bip.",Synonym,,M,TICA,A41D0489-3B6F-450E-9447-436836A79E12,250716-1,"""in Flora, xxvii. (1844) 674.""","","xxvii.  674","1844",gcc-94546
+gcc-134946,A,Compositae,,Sphenogyne,,"nudicaulis",,"","(Thunb.) Less.",Synonym,,M,TICA,636C00D0-F3B7-416B-A58E-E8DF8B64817E,250717-1,"Syn. Gen. Compos. 243.","","243","",gcc-101051
+gcc-12912,A,Compositae,,Sphenogyne,,"nudicaulis",var.,"alpina","Harv.",Synonym,,L,TICA,B577C7FD-4393-4690-A6BD-181225020481,,"","","","",gcc-101051
+gcc-58245,A,Compositae,,Sphenogyne,,"nudicaulis",var.,"gracilior","Harv.",Synonym,,L,TICA,401217A3-FB3B-4E34-80C9-8CFDA5D5E860,,"","","","",gcc-101051
+gcc-148951,A,Compositae,,Sphenogyne,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,092320FC-5B84-4BF0-9BA9-4E60F1E6776D,,"","","","",gcc-101051
+gcc-104830,A,Compositae,,Sphenogyne,,"odorata",,"","R.Br.",Unresolved,,L,TICA,937BF6CA-7D1D-4471-B3C4-A44AABD9BB5A,250718-1,"""Hortus Kew. (W.T. Aiton), ed. 2. 5: 142""","","142","1813",
+gcc-6953,A,Compositae,,Sphenogyne,,"paleacea",,"","(Thunb.) Less.",Synonym,,M,TICA,70B7058C-BD48-4F16-90D0-0CEF1CFAB92B,250719-1,"Syn. Gen. Compos. 244","","244","",gcc-142033
+gcc-86277,A,Compositae,,Sphenogyne,,"pallida",,"","DC.",Synonym,,M,TICA,AB6D51B2-18E7-4432-97C8-7A90F5B7E435,250720-1,"Prodr. (DC.) 5: 682","","682","1836",gcc-105239
+gcc-55504,A,Compositae,,Sphenogyne,,"pallida",var.,"immarginata","DC.",Synonym,,L,TICA,2751B874-92BF-4FE8-8D90-7680C35288B2,,"","","","",gcc-105239
+gcc-148800,A,Compositae,,Sphenogyne,,"pallida",var.,"pallida","",Synonym,,L,TICA,E3C7BD77-4EF2-40A7-B528-4B0358B01EB4,,"","","","",gcc-105239
+gcc-47532,A,Compositae,,Sphenogyne,,"pauciloba",,"","DC.",Synonym,,M,TICA,51A455E4-5235-433F-8758-58140119006E,250721-1,"Prodr. (DC.) 5: 686","","686","1836",gcc-100177
+gcc-95989,A,Compositae,,Sphenogyne,,"peduncularis",,"","E.Mey. ex DC.",Unresolved,,L,TICA,BCF32195-8CBE-4AAD-9027-9097221053C8,250722-1,"Prodr. (DC.) 5: 683","","683","1836",
+gcc-107679,A,Compositae,,Sphenogyne,,"pilifera",,"","DC.",Synonym,,L,TICA,28D11F25-300C-45CF-8181-AAA128B33AD3,,"Prodr. 5: 688 (1836).","","","",gcc-156843
+gcc-5062,A,Compositae,,Sphenogyne,,"pilifera",,"","Ker Gawl.",Unresolved,,L,TICA,398D428F-0DA6-4029-9877-0974F1BE9524,,"Bot. Reg. t. 604; Less. Syn. Comp. 244.","","t. 604","",
+gcc-127715,A,Compositae,,Sphenogyne,,"pinnata",,"","Less.",Unresolved,,L,TICA,552E0317-04C4-442F-B553-D854C675E640,,"Bot. Reg. t. 604; Less. Syn. Comp. 243.","","t. 604","",
+gcc-124293,A,Compositae,,Sphenogyne,,"punctata",,"","Less.",Unresolved,,L,TICA,BA35CD86-046F-46F8-BC46-D057F5F91395,,"Bot. Reg. t. 604; Less. Syn. Comp. 243.","","t. 604","",
+gcc-26278,A,Compositae,,Sphenogyne,,"pusilla",,"","DC.",Synonym,,M,TICA,8BDC2A40-D59C-4597-9ABC-3096C0BEA393,250726-1,"Prodr. (DC.) 5: 682","","682","1836",gcc-98771
+gcc-7205,A,Compositae,,Sphenogyne,,"quinquepartita",,"","DC.",Synonym,,M,TICA,ACBE82FC-A265-4E31-B8B7-0D686D1588ED,250727-1,"Prodr. (DC.) 5: 686","","686","1836",gcc-142276
+gcc-8238,A,Compositae,,Sphenogyne,,"rigidula",,"","DC.",Synonym,,M,TICA,5AE4EBBF-533D-4A0A-9450-0F5546BE12CD,250728-1,"Prodr. (DC.) 5: 685","","685","1836",gcc-20897
+gcc-82021,A,Compositae,,Sphenogyne,,"scapiformis",,"","DC.",Synonym,,M,TICA,8682ABCB-2D3F-4872-8E60-711A370BCECB,250729-1,"Prodr. (DC.) 5: 684","","684","1836",gcc-101051
+gcc-24637,A,Compositae,,Sphenogyne,,"scariosa",,"","R.Br.",Synonym,,M,TICA,A0506B75-6F77-4C6D-B1B0-2D81DDB006DA,250730-1,"""Hortus Kew. (W.T. Aiton), ed. 2. 5: 142""","","142","1813",gcc-111326
+gcc-117113,A,Compositae,,Sphenogyne,,"sericea",,"","(Thunb.) Less.",Synonym,,M,TICA,F9215F3E-7DB3-44B1-87BE-BFEC602EF478,250731-1,"Syn. Gen. Compos. 243.","","243","",gcc-29833
+gcc-9078,A,Compositae,,Sphenogyne,,"serrata",,"","(L.f.) DC.",Synonym,,M,TICA,164686F5-6DA2-4702-A21F-10F83D485A90,250732-1,"Prodr. (DC.) 5: 688","","688","1836",gcc-93356
+gcc-126777,A,Compositae,,Sphenogyne,,"setigera",,"","DC.",Synonym,,M,TICA,85FB9C02-2700-43B8-8209-D6136D9FF51D,250733-1,"Prodr. (DC.) 5: 684","","684","1836",gcc-35153
+gcc-18329,A,Compositae,,Sphenogyne,,"sonneratii",,"","Cass.",Unresolved,,L,TICA,6AAC61F1-2FA0-4843-81AC-21DCD5903119,250734-1,"in Dict. Sci. Nat. l. 205.","","l. 205","",
+gcc-103615,A,Compositae,,Sphenogyne,,"speciosa",,"","Hort. ex Knowles & Westc.",Synonym,,M,TICA,C3EBFA1D-E235-4A99-BFBA-A1A91C2A53E6,250735-1,"Flor. Cab. ii. (1838) 131.","","ii.  131","1838",gcc-98771
+gcc-85491,A,Compositae,,Sphenogyne,,"subflosculosa",,"","E.Mey. ex DC.",Synonym,,M,TICA,C7FC15C0-D275-4876-BDC7-78CB61B4EF3C,,"""Prodr. (DC.) 5: 686; et in Drege, Zwei Pfl. Docum. 223""","","223","1836",gcc-142033
+gcc-24386,A,Compositae,,Sphenogyne,,"subhirsuta",,"","DC.",Synonym,,M,TICA,2AEF7CE4-3A56-4D51-A4E3-2D0D65E03048,250737-1,"Prodr. (DC.) 5: 683","","683","1836",gcc-54885
+gcc-94933,A,Compositae,,Sphenogyne,,"tenuifolia",,"","(L.) DC.",Synonym,,M,TICA,CC1A6B2C-2E90-49C6-B3C2-8E28CDFE90E6,250738-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-11983
+gcc-3234,A,Compositae,,Sphenogyne,,"tenuifolia",var.,"heterochroma","Harv.",Synonym,,L,TICA,D1CC64B5-7C6F-4CB3-9EC4-05FCF2AAB4F7,,"","","","",gcc-11983
+gcc-156837,A,Compositae,,Sphenogyne,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,9A82444E-3E35-469D-ABD4-F52A1654D742,,"","","","",gcc-11983
+gcc-87399,A,Compositae,,Sphenogyne,,"tridentata",,"","Harv.",Unresolved,,L,TICA,2F3EA8B3-62E1-4B5C-9CD1-7D340DD42D34,,"Fl. Cap. (Harvey) iii. 149","","149","",
+gcc-136635,A,Compositae,,Sphenogyne,,"trifida",,"","(Thunb.) Less.",Synonym,,M,TICA,3E3C6E26-FED3-42AD-BD85-ECA9757B4A96,250740-1,"Syn. Gen. Compos. 244.","","244","",gcc-72904
+gcc-131031,A,Compositae,,Sphenogyne,,"trifurca",,"","Harv.",Synonym,,M,TICA,5460CE0C-FC08-4C6F-B9E7-DFEAEB69B175,,"Fl. Cap. (Harvey) iii. 147","","147","",gcc-23258
+gcc-110760,A,Compositae,,Sphenogyne,,"triloba",,"","DC.",Synonym,,M,TICA,14898D7F-5916-40D4-8031-B1A58010E901,250742-1,"Prodr. (DC.) 5: 687","","687","1836",gcc-72904
+gcc-122168,A,Compositae,,Sphenogyne,,"tripartita",,"","DC.",Synonym,,M,TICA,D169BA73-3830-4D2C-86E3-CB6C068C7D6E,250743-1,"Prodr. (DC.) 5: 686","","686","1836",gcc-142276
+tro-2721938,A,Compositae,,Sphenogyne,,"verisolor",,"","DC.",Synonym,,M,TRO,2721938,,"","","","",gcc-14900
+gcc-132287,A,Compositae,,Sphenogyne,,"versicolor",,"","DC.",Synonym,,L,TICA,6C2FFE63-69DE-4AE3-9695-E2E1B865CD97,250745-1,"Prodr. (DC.) 5: 681","","681","1836",gcc-7932
+gcc-97706,A,Compositae,,Sphenogyne,,"versicolor",,"","Hort. ex Vilm.",Unresolved,,L,TICA,E249B9A2-2099-4F28-AA76-9482DC59DD8A,250744-1,"Fl. Pleine Terre (ed. 3) 1090","","1090","1870",

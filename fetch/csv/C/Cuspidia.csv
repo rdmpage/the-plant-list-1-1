@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129168,A,Compositae,,Cuspidia,,"araneosa",,"","(Meerb.) Gaertn.",Synonym,,M,TICA,9E5361B4-B27E-4FBA-B60E-DBADAD06DB19,200731-1,"","","454","1791",gcc-48477
+gcc-139618,A,Compositae,,Cuspidia,,"castrata",,"","Cass.",Synonym,,M,TICA,C5236F2E-6B33-4622-840B-F31CA0FAC368,,"","","","1819",gcc-48477
+gcc-48477,A,Compositae,,Cuspidia,,"cernua",,"","(L.f.) B.L.Burtt",Accepted,,M,TICA,44CBC724-5625-4FE5-9515-59C91AD99037,200733-1,"","","73","1948",
+gcc-58014,A,Compositae,,Cuspidia,,"cernua",subsp.,"annua","(Less.) Roessler",Accepted,,L,TICA,5EB087CA-1EB0-4B8F-A092-8B34E0AA217B,,"","","","",
+gcc-7075,A,Compositae,,Cuspidia,,"cernua",subsp.,"cernua","",Synonym,,L,TICA,84FC52B3-4B29-443F-905E-0D2BEDA44982,,"","","","",gcc-48477

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-391622,A,Poaceae,,Ammophila,,"arenaria",,"","(L.) Link",Accepted,,H,WCSP,391622,1141132-2,"Hort. Berol.","1: 105","","1827",
+tro-50089733,A,Poaceae,,Ammophila,,"arenaria",subsp.,"arenaria","",Synonym,,L,TRO,50089733,,"","","","",kew-391622
+kew-391625,A,Poaceae,,Ammophila,,"arenaria",var.,"arundinacea","(Host) Husn.",Synonym,,L,WCSP,391625,,"Graminées","19","","1896",kew-391622
+kew-391624,A,Poaceae,,Ammophila,,"arenaria",subsp.,"australis","(Mabille) M.Laínz",Accepted,,L,WCSP,391624,881444-1,"Comun. I. N. I. A., Sér. Recurs. Nat.","2: 22","","1974",
+kew-391626,A,Poaceae,,Ammophila,,"arenaria",var.,"australis","(Mabille) E.A.Durand & Barratte",Synonym,,L,WCSP,391626,,"Fl. Libyc. Prodr.","255","","1910",kew-391624
+kew-391627,A,Poaceae,,Ammophila,,"arenaria",var.,"breviligulata","(Fernald) S.G.Archer & C.E.Bunch",Synonym,,L,WCSP,391627,,"American Grass Book","186","","1953",kew-391632
+kew-391629,A,Poaceae,,Ammophila,,"arundinaceae",,"","Host",Synonym,,H,WCSP,391629,387242-1,"Icon. Descr. Gram. Austriac.","4: 24","","1809",kew-391622
+kew-391630,A,Poaceae,,Ammophila,,"australis",,"","(Mabille) Porta & Rigo",Synonym,,H,WCSP,391630,,"Exsicc. (Itin. Ital.)","2: 286","","1875",kew-391624
+kew-391631,A,Poaceae,,Ammophila,×,"baltica",,"","(Schrad.) Link",Synonym,,H,WCSP,391631,387243-1,"Hort. Berol.","1: 105","","1827",kew-387008
+kew-391632,A,Poaceae,,Ammophila,,"breviligulata",,"","Fernald",Accepted,,H,WCSP,391632,11361-2,"Rhodora","22: 71","","1920",
+tro-50301433,A,Poaceae,,Ammophila,,"breviligulata",subsp.,"breviligulata","",Synonym,,L,TRO,50301433,,"","","","",kew-391632
+tro-50301432,A,Poaceae,,Ammophila,,"breviligulata",subsp.,"champlainensis","(F. Seym.) P.J. Walker, C.A. Paris & Barrington ex Barkworth",Synonym,,L,TRO,50301432,60443110-2,"Sida","22(1): 496","496","2006",kew-391634
+kew-391633,A,Poaceae,,Ammophila,,"brevipilis",,"","(Torr.) Benth. ex Vasey",Synonym,,H,WCSP,391633,387245-1,"Grass. U.S.","52","","1883",kew-403564
+kew-391634,A,Poaceae,,Ammophila,,"champlainensis",,"","F.Seym.",Accepted,,H,WCSP,391634,11362-2,"Sida","2: 349","","1966",
+kew-391635,A,Poaceae,,Ammophila,,"curtissii",,"","Vasey",Synonym,,H,WCSP,391635,387247-1,"Bull. Torrey Bot. Club","11: 7","","1884",kew-403568
+kew-391636,A,Poaceae,,Ammophila,,"littoralis",,"","(P.Beauv.) Rothm.",Synonym,,H,WCSP,391636,387248-1,"Feddes Repert. Spec. Nov. Regni Veg.","52: 269","","1943",kew-391622
+kew-391637,A,Poaceae,,Ammophila,,"longifolia",,"","(Hook.) Benth. ex Vasey",Synonym,,H,WCSP,391637,387249-1,"Agric. Grass. U.S.","71","","1884",kew-403570
+kew-391638,A,Poaceae,,Ammophila,,"pallida",,"","(C.Presl) Fritsch",Synonym,,H,WCSP,391638,387251-1,"Excursionsfl. Oesterreich","ed. 2: 55","","1909",kew-391622
+kew-391639,A,Poaceae,,Ammophila,,"villosa",,"","(Trin.) Hand.-Mazz.",Synonym,,H,WCSP,391639,387252-1,"Oesterr. Bot. Z.","85: 227","","1936",kew-438216

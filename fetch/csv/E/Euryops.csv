@@ -1,0 +1,190 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115108,A,Compositae,,Euryops,,"abrotanifolius",,"","(L.) DC.",Accepted,,M,TICA,336C83AC-5750-485A-BBD8-BB5E297B20D4,207374-1,"Prodr. 6: 443 (1838)","","443","1838",
+gcc-155394,A,Compositae,,Euryops,,"abrotanifolius",var.,"abrotanifolius","",Synonym,,L,TICA,BBB7B667-2D89-49BF-BCD6-D73F7453C5B0,,"","","","",gcc-115108
+gcc-58883,A,Compositae,,Euryops,,"abrotanifolius",var.,"brachypus","Harv.",Synonym,,L,TICA,50EBCDA9-0B3B-4662-91BF-9222B2610BBF,,"","","","",gcc-115108
+gcc-1798,A,Compositae,,Euryops,,"abrotanifolius",var.,"crassilobus","DC.",Synonym,,L,TICA,6D2E0170-CB07-4BBA-8B22-033AFEB4DFD9,,"","","","",gcc-115108
+gcc-54629,A,Compositae,,Euryops,,"abrotanifolius",var.,"glabratus","DC.",Synonym,,L,TICA,937ECA97-DF5B-4748-8444-6F8AE0BDB53D,,"","","","",gcc-115108
+gcc-1496,A,Compositae,,Euryops,,"acraeus",,"","M.D.Hend.",Accepted,,M,TICA,9FFFA746-369C-4990-A21E-02B1B7EF6DF0,207375-1,"","","110","1961",
+gcc-79577,A,Compositae,,Euryops,,"agrianthoides",,"","Mattf.",Synonym,,M,TICA,6251A1DB-3F25-42F8-8E16-6BBECB6E5124,,"","","","1924",gcc-7661
+gcc-144459,A,Compositae,,Euryops,,"algoensis",,"","DC.",Accepted,,M,TICA,8BACF423-E9C3-4B1F-9531-FE240739A752,207377-1,"","","445","1838",
+gcc-136786,A,Compositae,,Euryops,,"annae",,"","E.Phillips",Accepted,,M,TICA,ECBE1CF5-5D12-4D61-B9FD-ED0514F186AA,207378-1,"","","158","1917",
+gcc-76616,A,Compositae,,Euryops,,"annuus",,"","Compton",Accepted,,M,TICA,7A0684B9-3EB0-484B-BCD9-65165266E0A5,207379-1,"","","195","1941",
+gcc-1800,A,Compositae,,Euryops,,"anthemoides",,"","B.Nord.",Accepted,,M,TICA,94177953-C4FC-488E-B45E-033B41CE0257,,"","","","1968",
+gcc-37817,A,Compositae,,Euryops,,"anthemoides",subsp.,"anthemoides","",Synonym,,L,TICA,3C587CB2-A75E-43F4-ADBD-4621E94A19CA,,"","","","",gcc-1800
+gcc-32874,A,Compositae,,Euryops,,"antinorii",,"","(Avetta) S.Moore",Accepted,,M,TICA,0DF7B3FD-9957-4CC4-A0D2-3CF6786554B3,207381-1,"","","362","1902",
+gcc-51228,A,Compositae,,Euryops,,"arabicus",,"","Steud. ex Jaub. & Spach",Accepted,,M,TICA,11ACE6D2-66BF-4C71-B4EA-5EFEB4437C92,,"Ill. Pl. Orient. 4","","","1852",
+gcc-155529,A,Compositae,,Euryops,,"asparagoides",,"","(Licht. ex Less.) DC.",Accepted,,M,TICA,B1F9249B-701C-4E2B-B744-DA3151E128E2,207384-1,"","","446","1838",
+gcc-92244,A,Compositae,,Euryops,,"asparagoides",,"","Less.",Unresolved,,L,TICA,43DD1DAD-600B-4E59-A069-882EDB851A84,207383-1,"Syn. Gen. Compos. 394.","","394","",
+gcc-100286,A,Compositae,,Euryops,,"athanasiae",,"","(L.f.) Less.",Synonym,,M,TICA,ED81B5F4-7B69-4554-ACCD-9A4690FF6843,207385-1,"Syn. Gen. Compos. 394.","","394","1832",gcc-117468
+gcc-107138,A,Compositae,,Euryops,,"athanasiae",,"","(L.f.) Harv.",Synonym,Illegitimate,M,TICA,EBA5BDFA-6E26-40A4-AFD1-A969BC27BEAB,,"Fl. Cap.: 410 (1865)","","410","1865",gcc-117468
+gcc-127764,A,Compositae,,Euryops,,"athanasiae",,"","DC.",Synonym,,M,TICA,79E9525D-A561-4B24-9504-D879A55040CD,207386-1,"","","444","1838",gcc-115108
+gcc-103299,A,Compositae,,Euryops,,"bolusii",,"","B.Nord.",Accepted,,M,TICA,8A3FB46D-07FE-4AE5-BE6E-A0F86ECFF7F6,207387-1,"","","332","1968",
+gcc-90894,A,Compositae,,Euryops,,"brachypodus",,"","(DC.) B.Nord.",Accepted,,M,TICA,5474BC31-D73E-4F6F-95E3-851D62AB2053,207388-1,"","","375","1968",
+gcc-142325,A,Compositae,,Euryops,,"brevilobus",,"","Compton",Accepted,,M,TICA,5BE4C6B4-F64F-456B-A91D-F95FE9A0BC17,207389-1,"","","84","1946",
+gcc-106153,A,Compositae,,Euryops,,"brevipapposus",,"","M.D.Hend.",Accepted,,M,TICA,58126B43-A208-4EE4-8535-A725336B47D0,207390-1,"","","111","1961",
+gcc-84872,A,Compositae,,Euryops,,"brevipes",,"","B.Nord.",Accepted,,M,TICA,2C792A4A-E514-4ACE-B907-7770E19A3820,207391-1,"","","81","1961",
+gcc-7661,A,Compositae,,Euryops,,"brownei",,"","S.Moore",Accepted,,M,TICA,BF60863E-26BE-4EDA-B7BE-0E3BE6267592,207392-1,"","","284","1916",
+gcc-62138,A,Compositae,,Euryops,,"brownei",subsp.,"aberdarica","R.E.Fr.",Synonym,,L,TICA,9CE7BAA6-F051-4DA4-B3EE-AC4C6B8D1D40,,"Acta Horti Berg. 9: 158 (1928)","","158","1928",gcc-7661
+gcc-154726,A,Compositae,,Euryops,,"brownei",subsp.,"brownei","",Synonym,,L,TICA,D34B53EF-5684-46A6-B4FE-C9A4A001D094,,"","","","",gcc-7661
+gcc-119398,A,Compositae,,Euryops,,"caespitosus",,"","Markötter",Synonym,,M,TICA,600C0308-C09B-4166-B942-C51AD2A6B707,207393-1,"","","44","1930",gcc-56771
+gcc-88779,A,Compositae,,Euryops,,"calvescens",,"","DC.",Accepted,,M,TICA,343D0655-3510-4000-B3AF-803AB62E3862,207394-1,"","","445","1838",
+gcc-33654,A,Compositae,,Euryops,,"candollei",,"","Harv.",Accepted,,M,TICA,9C8152FF-06D6-433B-8BE7-3E66A8778715,207395-1,"","","412","1865",
+gcc-41324,A,Compositae,,Euryops,,"carnosus",,"","Cass.",Synonym,Illegitimate,M,TICA,DAD4014E-BE4E-4A39-8F10-4C8D8561A74E,207396-1,"","","52","1820",gcc-58653
+gcc-13619,A,Compositae,,Euryops,,"chrysanthemoides",,"","(DC.) B.Nord.",Accepted,,M,TICA,A3CBB56F-B8BF-42C8-87C5-19580760FC0A,207397-1,"","","365","1968",
+gcc-117453,A,Compositae,,Euryops,,"ciliatus",,"","B.Nord.",Accepted,,M,TICA,1687EF60-D3D3-4866-A5CD-C0B4C58FAF52,207398-1,"","","65","1961",
+gcc-129793,A,Compositae,,Euryops,,"ciliatus",,"","Harv.",Synonym,,M,TICA,5C3C9112-D1C0-4787-9EE1-DD1330B53DAC,,"","","","",gcc-32760
+gcc-115743,A,Compositae,,Euryops,,"comosus",,"","Cass.",Synonym,,M,TICA,876653AE-A17F-48E5-96FD-BCE39F9DAD80,,"","","","1820",gcc-115108
+gcc-141232,A,Compositae,,Euryops,,"comptonii",,"","Hutch.",Synonym,,M,TICA,7B540378-417B-42D7-A914-F6EA8A75006B,207400-1,"","","187","1946",gcc-115108
+gcc-22180,A,Compositae,,Euryops,,"cuneatus",,"","B.Nord.",Accepted,,M,TICA,F3CB2A0F-969A-4C63-9FCD-290714121767,207401-1,"","","188","1968",
+gcc-23737,A,Compositae,,Euryops,,"dacrydioides",,"","Oliv.",Accepted,,M,TICA,82EBBED6-A917-4565-88B1-2BE15B32A384,,"","","","1886",
+gcc-78583,A,Compositae,,Euryops,,"decipiens",,"","Schltr.",Accepted,,M,TICA,D4168CB5-9C5E-4B4A-ADC3-697433841F1B,,"","","212","1899",
+gcc-131665,A,Compositae,,Euryops,,"decumbens",,"","B.Nord.",Accepted,,M,TICA,7041D431-5649-4242-898D-E16B2BE7FE0E,207404-1,"","","79","1961",
+gcc-123029,A,Compositae,,Euryops,,"densifolius",,"","Sond.",Synonym,Invalid,M,TICA,2A6BC1B2-4265-4384-9447-CD5E70844BA4,207405-1,"","","416","1865",gcc-32760
+gcc-138525,A,Compositae,,Euryops,,"dentatus",,"","B.Nord.",Accepted,,M,TICA,030885F3-555F-4C7F-A26D-F0C6C581728F,207406-1,"","","69","1961",
+gcc-92733,A,Compositae,,Euryops,,"dieterleniae",,"","J.M.Wood",Synonym,,M,TICA,783E6ACE-C387-4922-9EF2-89419D1D025A,,"Bulletin of Miscellaneous Information Kew 1914:","","335","1914",gcc-17991
+gcc-44331,A,Compositae,,Euryops,,"dieterlenii",,"","J.M.Wood",Synonym,,M,TICA,28E86CC7-F4D9-40A4-8E57-521C125C8452,207407-1,"","","335","1914",gcc-17991
+gcc-134764,A,Compositae,,Euryops,,"discoideus",,"","Burtt Davy",Accepted,,M,TICA,C4B3CF65-B3D5-484F-A75C-E87FCA738C72,207408-1,"","","105","1935",
+gcc-78990,A,Compositae,,Euryops,,"diversifolius",,"","Harv.",Synonym,,M,TICA,5FE354DD-CE96-4826-9038-6A7AA07C6D95,,"","","415","1865",gcc-115108
+gcc-64568,A,Compositae,,Euryops,,"diversifolius",var.,"diversifolius","",Synonym,,L,TICA,C92DDAC5-29C8-4522-8FDB-BF76F5C9CD42,,"","","","",gcc-115108
+gcc-85926,A,Compositae,,Euryops,,"dregeanus",,"","Sch.Bip.",Accepted,,M,TICA,14B7F812-C91D-4431-A117-79C9C5D212F3,207410-1,"","","51","1845",
+gcc-88760,A,Compositae,,Euryops,,"dyeri",,"","Hutch.",Accepted,,M,TICA,EC314A4D-37C5-4486-B9E3-8033B1A0042B,207411-1,"","","256","1946",
+gcc-104219,A,Compositae,,Euryops,,"elgonensis",,"","Mattf.",Accepted,,M,TICA,B960664A-BA2F-4DBB-A538-A308F0284659,,"","","42","1924",
+gcc-32760,A,Compositae,,Euryops,,"empetrifolius",,"","DC.",Accepted,,M,TICA,D2707B0B-3AF8-48AA-A290-3CBE830F5127,207413-1,"","","446","1838",
+gcc-28720,A,Compositae,,Euryops,,"empetrifolius",subsp.,"empetrifolius","",Synonym,,L,TICA,D71A7347-6B44-4BB2-99FB-351BB33C566E,,"","","","",gcc-32760
+gcc-127558,A,Compositae,,Euryops,,"erectus",,"","(Compton) B.Nord.",Accepted,,M,TICA,BF13EE0B-2838-4C9F-AA10-D7ED7C7597FA,,"","","","1968",
+gcc-28789,A,Compositae,,Euryops,,"ericifolius",,"","(Bél.) B.Nord.",Accepted,,M,TICA,63FB3159-CD6E-4947-856F-353BE37E9E57,207415-1,"","","348","1968",
+gcc-117778,A,Compositae,,Euryops,,"ericoides",,"","(L.f.) B.Nord.",Accepted,,M,TICA,B8849CB4-74E8-44BA-AE9E-C16D3A2DDC4D,207416-1,"","","345","1968",
+gcc-128679,A,Compositae,,Euryops,,"euryopoides",,"","(DC.) B.Nord.",Accepted,,M,TICA,6CA22CB0-7FE2-43F2-85F8-DA92A5F13BD7,,"","","","1968",
+gcc-17991,A,Compositae,,Euryops,,"evansii",,"","Schltr.",Accepted,,M,TICA,8910ADD7-4F2A-4C1A-9FF0-213F1454641A,207418-1,"","","501","1896",
+gcc-51881,A,Compositae,,Euryops,,"evansii",subsp.,"evansii","",Synonym,,L,TICA,1F54905D-B3B6-4FC1-9DAB-603377D97FD5,,"","","","",gcc-17991
+tro-100352062,A,Compositae,,Euryops,,"exudans",,"","B. Nord. & V.R. Clark",Unresolved,,L,TRO,100352062,77095350-1,"S. African J. Bot.","75(1): 147–149, 146, 1–2; plate 1C","147","2009",
+gcc-143463,A,Compositae,,Euryops,,"flabelliformis",,"","Cass.",Synonym,Illegitimate,M,TICA,89AC7EEE-E623-47D2-89B2-FBF7C1AFDAA7,,"","","31","1817",gcc-87189
+gcc-109623,A,Compositae,,Euryops,,"floribundus",,"","N.E.Br.",Accepted,,M,TICA,6933BA39-DF59-4AA4-A3D8-AF15D7F2D221,207420-1,"","","125","1901",
+gcc-1157,A,Compositae,,Euryops,,"fruticulosa",,"","R.E.Fr.",Synonym,,M,TICA,528F554D-C822-4F05-914E-021F4C366E6C,207421-1,"","","157","1928",gcc-22914
+gcc-106477,A,Compositae,,Euryops,,"galpinii",,"","Bolus",Accepted,,M,TICA,2AC3D97A-6222-4788-963B-A7E138D49497,207422-1,"","","390","1906",
+gcc-137332,A,Compositae,,Euryops,,"galpinii",,"","E.Phillips",Unresolved,Illegitimate,L,TICA,05E3BAC4-ACA1-4EA4-AF6B-EE3C9F913FD0,207423-1,"","","159","1917",gcc-33654
+gcc-114813,A,Compositae,,Euryops,,"gilfillanii",,"","Bolus",Accepted,,M,TICA,6905D465-9CF1-4BE2-8890-BAB84BF17334,207424-1,"","","389","1906",
+gcc-79581,A,Compositae,,Euryops,,"glutinosus",,"","B.Nord.",Accepted,,M,TICA,4D4F02A5-4450-4EC7-BE5D-6BBFC2106D34,207425-1,"","","85","1961",
+gcc-18635,A,Compositae,,Euryops,,"gracilipes",,"","B.Nord.",Accepted,,M,TICA,B9394A31-7E55-41C8-A12F-226E844CF099,207426-1,"","","64","1968",
+gcc-19137,A,Compositae,,Euryops,,"hebecarpus",,"","(DC.) B.Nord.",Accepted,,M,TICA,0AD82AD5-FA5F-4180-85D4-235B2DB55FD9,207427-1,"","","327","1968",
+gcc-16860,A,Compositae,,Euryops,,"hildebrandtii",,"","Mattf.",Synonym,,M,TICA,22ADF7CE-8625-4F46-A439-1F2486C89501,,"","","","1924",gcc-51228
+gcc-102505,A,Compositae,,Euryops,,"hypnoides",,"","B.Nord.",Accepted,,M,TICA,F77828AE-5CA8-4AC9-9D4F-9F487DDBE449,207429-1,"","","358","1968",
+gcc-32088,A,Compositae,,Euryops,,"imbricatus",,"","(Thunb.) DC.",Accepted,,M,TICA,43C19D20-CAAC-4441-94FB-3B6D3071015B,,"Syn. Gen. Compos. 394","","","1838",
+gcc-40274,A,Compositae,,Euryops,,"indecorus",,"","B.Nord.",Accepted,,M,TICA,0E0C27F2-140F-4267-85F6-4AAA27A81F7A,207432-1,"","","83","1961",
+gcc-19759,A,Compositae,,Euryops,,"inops",,"","B.Nord.",Accepted,,M,TICA,0EFA1FF6-60BD-47CF-A349-248D8CB29EF9,207433-1,"","","72","1961",
+gcc-134094,A,Compositae,,Euryops,,"integrifolius",,"","B.Nord.",Accepted,,M,TICA,F6B8008D-430D-4D15-9660-E702C1BBEFBD,,"","","","1968",
+gcc-94708,A,Compositae,,Euryops,,"intermedius",,"","DC.",Synonym,,M,TICA,964923D5-6E4C-44CC-B0BB-8DA946A59E84,207435-1,"","","444","1838",gcc-115108
+gcc-3067,A,Compositae,,Euryops,,"jaberiana",,"","Abedin & Chaudhary",Accepted,,M,TICA,82BA83BA-C906-4598-BF25-05AE92072B85,1020069-1,"","","418","2000",
+gcc-22914,A,Compositae,,Euryops,,"jacksonii",,"","S.Moore",Accepted,,M,TICA,A94D73EC-58EE-4EAD-B9F8-2A6A12C36360,207436-1,"","","361","1902",
+gcc-123677,A,Compositae,,Euryops,,"khamiesbergensis",,"","Hutch.",Synonym,,M,TICA,8BA5281A-5392-44AB-9970-CEE232EC20BD,207437-1,"","","405","1917",gcc-58653
+gcc-119149,A,Compositae,,Euryops,,"krookii",,"","Gand.",Synonym,,M,TICA,980173D2-F998-490E-9C41-C489E9C39F21,207438-1,"Bull. Soc. Bot. France 65","","41","1918",gcc-37841
+gcc-143007,A,Compositae,,Euryops,,"lasiocladus",,"","(DC.) B.Nord.",Accepted,,M,TICA,E0F12DB4-346C-4C93-BE0A-FAEC658F5FCE,207439-1,"","","65","1968",
+gcc-79873,A,Compositae,,Euryops,,"lateriflorus",,"","(L.f.) DC.",Accepted,,M,TICA,170CEE6C-5090-4ADC-AF1E-6C56E69EC733,,"","","394","",
+tro-2721342,A,Compositae,,Euryops,,"lateriflorus",,"","(L. f.) Less.",Unresolved,,L,TRO,2721342,207440-1,"Syn. Gen. Compos.","394","394","1832",
+gcc-56548,A,Compositae,,Euryops,,"lateriflorus",var.,"imbricatus","(Thunb.) Harv.",Synonym,,L,TICA,C3B72B7F-34CF-4399-BD0F-7F704E538D5A,,"Flora Capensis 3:","","415-416","1865",gcc-32088
+gcc-146176,A,Compositae,,Euryops,,"lateriflorus",var.,"lateriflorus","",Synonym,,L,TICA,FCF721F7-D10F-4068-A909-130627A8D0DD,,"","","","",gcc-79873
+gcc-28447,A,Compositae,,Euryops,,"lateriflorus",var.,"oblongifolia","O.Hoffm.",Synonym,,L,TICA,3EF62CB3-EF92-4A69-880B-348E77C696A4,,"","","","",gcc-37841
+gcc-81353,A,Compositae,,Euryops,,"latifolius",,"","B.Nord.",Accepted,,M,TICA,43E69921-F03A-4207-8966-6F9DBFA48678,,"","","","1961",
+gcc-81635,A,Compositae,,Euryops,,"laxus",,"","(Harv.) Burtt Davy",Accepted,,M,TICA,5BA1B9E8-7248-448E-BC31-704761B7671B,207442-1,"","","569","1935",
+gcc-13596,A,Compositae,,Euryops,,"leiocarpus",,"","(DC.) B.Nord.",Accepted,,M,TICA,C3B369A5-411B-41D5-8518-194CBFE1F483,207443-1,"","","360","1968",
+gcc-15398,A,Compositae,,Euryops,,"linearis",,"","Harv.",Accepted,,M,TICA,5AA1F919-FA1E-4514-96EE-1C8498724BC3,,"","","34","1863",
+gcc-122329,A,Compositae,,Euryops,,"linifolia",,"","DC.",Accepted,,L,TICA,691AA7A4-38BB-469C-A8C5-CBC89F43C5F6,,"","","","",
+gcc-18790,A,Compositae,,Euryops,,"linifolius",,"","(L.) DC.",Accepted,,M,TICA,52B5EB23-A62B-4028-A45F-22B23FFFA6AE,207445-1,"","","446","1838",
+gcc-113648,A,Compositae,,Euryops,,"longifolius",,"","Cass.",Synonym,,M,TICA,58F1E9E8-610F-4322-A0D3-B8198A90C074,,"Dict. Sci. Nat.: 52 (1820)","","52","1820",gcc-58653
+gcc-51651,A,Compositae,,Euryops,,"longipes",,"","DC.",Accepted,,M,TICA,41F1533E-B9DD-46FA-B903-5FC7B5DC02F9,207446-1,"","","445","1838",
+gcc-59958,A,Compositae,,Euryops,,"longipes",var.,"integrifolius","Harv.",Synonym,,L,TICA,326952BA-DFC8-4607-A145-9A9DFFB70458,,"Flora Capensis 3:","","413","1865",gcc-1675
+gcc-59754,A,Compositae,,Euryops,,"longipes",var.,"lasiocladus","DC.",Synonym,,L,TICA,C68850A1-2F33-4A4F-9A47-990DA512BBA2,,"Prodr. 6: 445 (1837)","","445","",gcc-143007
+gcc-59471,A,Compositae,,Euryops,,"longipes",var.,"longipes","",Synonym,,L,TICA,19164FC3-5F20-4766-ACBE-969E9DD949CF,,"","","","",gcc-51651
+gcc-38423,A,Compositae,,Euryops,,"marlothii",,"","B.Nord.",Accepted,,M,TICA,448858DC-F459-42A2-8ED9-474B0D6E857E,207447-1,"","","71","1961",
+gcc-123027,A,Compositae,,Euryops,,"megalanthus",,"","Gand.",Synonym,,M,TICA,5B90F876-D4DB-48D2-A0B9-CD5D42AC492D,207448-1,"Bull. Soc. Bot. France 65","","41","1918",gcc-117468
+gcc-139521,A,Compositae,,Euryops,,"microphyllus",,"","(Compton) B.Nord.",Accepted,,M,TICA,DD243F41-A3FE-4BB6-B7A9-F2E9597AFC3B,207449-1,"","","175","1968",
+gcc-35715,A,Compositae,,Euryops,,"mirus",,"","B.Nord.",Accepted,,M,TICA,23DD91D7-E6E0-4D80-BB7D-423AF190433A,207450-1,"","","75","1961",
+gcc-51552,A,Compositae,,Euryops,,"montanus",,"","Schltr.",Accepted,,M,TICA,1354BCCF-D690-497B-AEC1-5F96C2F10830,207451-1,"","","316","1898",
+gcc-104726,A,Compositae,,Euryops,,"mucosus",,"","B.Nord.",Accepted,,M,TICA,E9ACF098-B503-4699-96CC-A417F42B72A9,,"","","","1966",
+gcc-137558,A,Compositae,,Euryops,,"muirii",,"","C.A.Sm.",Accepted,,M,TICA,1C68FD66-4927-4672-94CC-EEB15B2937DE,207453-1,"","","360","1927",
+gcc-105233,A,Compositae,,Euryops,,"multifidus",,"","(Thunb.) DC.",Accepted,,M,TICA,EBC7EF8E-9828-4AB3-959D-A5299E3DD202,207454-1,"","","444","1838",
+gcc-9353,A,Compositae,,Euryops,,"multifidus",var.,"multifidus","",Synonym,,L,TICA,5157673A-172F-40E0-9CFB-11737F5999B2,,"","","","",gcc-105233
+gcc-64343,A,Compositae,,Euryops,,"multifidus",var.,"namibensis","Merxm.",Synonym,,L,TICA,1049F616-52FD-4059-97E5-BDCBE724F9AF,,"Prodr. Fl. Sudwestafr. 20: 65 (1967)","","","",gcc-1105
+gcc-16329,A,Compositae,,Euryops,,"multinervis",,"","N.E.Br. ex S.Moore",Synonym,,M,TICA,5DD91F10-11F0-475F-AF0D-1E34A4A3DCD2,207455-1,"","","135","1903",gcc-124999
+gcc-96182,A,Compositae,,Euryops,,"multinervis",,"","N.E.Br.",Synonym,,M,TICA,03D8536A-69A6-4D41-B692-90F785C72942,,"","","","",gcc-124999
+gcc-91254,A,Compositae,,Euryops,,"munitus",,"","(L.f.) B.Nord.",Accepted,,M,TICA,93A1F729-0471-400D-8B22-85F49ADA1133,207456-1,"","","340","1968",
+gcc-137694,A,Compositae,,Euryops,,"namaquensis",,"","Schltr.",Accepted,,M,TICA,F00A20EC-4563-4ADD-A158-EF050F157370,,"","","212","1899",
+gcc-1105,A,Compositae,,Euryops,,"namibensis",,"","(Merxm.) B.Nord.",Accepted,,M,TICA,D6D2E22D-CF96-4F6A-9980-0206EAC6433B,207458-1,"","","481","1966",
+gcc-128741,A,Compositae,,Euryops,,"neptunicus",,"","S.Moore",Synonym,,M,TICA,38CEA5E7-616F-451B-89A1-DAB773BEC59F,207459-1,"","","230","1921",gcc-56771
+gcc-23777,A,Compositae,,Euryops,,"nodosus",,"","B.Nord.",Accepted,,M,TICA,265AC673-CD74-4E2D-937F-2BF00E32710A,207460-1,"","","109","1968",
+gcc-92506,A,Compositae,,Euryops,,"oligoglossus",,"","DC.",Synonym,,M,TICA,082FCB52-93D7-4A5A-B0B2-88C01D8CE27E,207461-1,"","","446","1838",gcc-136786
+gcc-69650,A,Compositae,,Euryops,,"oligoglossus",subsp.,"oligoglossus","",Unresolved,,L,TICA,997F7F2D-81B1-47B1-B1D9-E7EECE6DC6BC,,"Prodr. (DC.) vi. 446.","","","",
+gcc-18083,A,Compositae,,Euryops,,"oligoglossus",subsp.,"racemosus","(DC.) B.Nord.",Unresolved,,L,TICA,DB26318E-27A3-437A-84E4-2168F8CBD19A,,"Opera Bot. 20: 208 (1968)","","208","1968",
+gcc-23960,A,Compositae,,Euryops,,"osteospermum",,"","S.Moore",Synonym,,M,TICA,9C8EE52F-CFD5-4AC2-B14B-2C48D5A3B5C9,,"","","","1899",gcc-92070
+gcc-11755,A,Compositae,,Euryops,,"othonnoides",,"","(DC.) B.Nord.",Accepted,,M,TICA,445C05CD-F066-4173-A2EE-15E38E144EC9,207464-1,"","","228","1968",
+gcc-44272,A,Compositae,,Euryops,,"pearsonii",,"","E.Phillips",Unresolved,,L,TICA,ACB708C2-607B-405D-854D-51FAD8A26243,207465-1,"","","346","1917",gcc-79873
+gcc-86422,A,Compositae,,Euryops,,"pectinatus",,"","(L.) Cass.",Accepted,,M,TICA,A59AD40C-7A8E-41ED-85CA-7AE30485C9AA,207466-1,"","","51","1820",
+gcc-49580,A,Compositae,,Euryops,,"pectinatus",var.,"discoideus","DC.",Synonym,,L,TICA,0980BF89-3701-415D-9014-5BE513D5230F,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","443","1838",gcc-86422
+gcc-147818,A,Compositae,,Euryops,,"pectinatus",var.,"pectinatus","",Synonym,,L,TICA,00A9A865-96F9-40AE-82EF-35DCAD95E01D,,"","","","",gcc-86422
+gcc-62671,A,Compositae,,Euryops,,"pectinatus",subsp.,"pectinatus","",Synonym,,L,TICA,4E775816-27AD-4D14-A1C7-B0B2913C054F,,"","","","",gcc-86422
+gcc-144902,A,Compositae,,Euryops,,"pedunculatus",,"","N.E.Br.",Accepted,,M,TICA,7FEED9E5-702C-4239-B1C9-FF33069A79B7,207467-1,"","","147","1895",
+gcc-26363,A,Compositae,,Euryops,,"petraeus",,"","B.Nord.",Accepted,,M,TICA,6E56C015-02C7-4DA0-83D4-30BA653CB453,207468-1,"","","115","1968",
+gcc-29641,A,Compositae,,Euryops,,"pinifolius",,"","A.Rich.",Accepted,,M,TICA,938E739C-CF51-48CB-8BB9-36C8D51DAA9A,,"","","","1848",
+gcc-98791,A,Compositae,,Euryops,,"pinnatipartitus",,"","(DC.) B.Nord.",Accepted,,M,TICA,6AE10ECA-A150-47B4-A35B-96E0922C4EA2,207470-1,"","","335","1968",
+gcc-30444,A,Compositae,,Euryops,,"pleiodontus",,"","B.Nord.",Accepted,,M,TICA,02F762CC-ECD7-49F9-BF96-3851FC4D61E5,207471-1,"","","185","1968",
+gcc-91653,A,Compositae,,Euryops,,"polytrichoides",,"","(Harv.) B.Nord.",Accepted,,M,TICA,4E4B9A0C-396D-4618-BADA-86D6E68E6BE2,207472-1,"","","356","1968",
+gcc-80109,A,Compositae,,Euryops,,"prostratus",,"","B.Nord.",Accepted,,M,TICA,FD36942B-BB21-445A-8E62-6CE3593F9DC1,,"","","","1961",
+tro-100352061,A,Compositae,,Euryops,,"proteoides",,"","B. Nord. & Clark, V. R.",Unresolved,,L,TRO,100352061,77095351-1,"S. African J. Bot.","75(1): 149–150, 147, 3; plate 1A–B","149","2009",
+gcc-132753,A,Compositae,,Euryops,,"pulcher",,"","Muschl. ex Dinter",Synonym,Invalid,M,TICA,7B6240EE-7954-44C3-8E6B-E3F5DA71A9E0,,"","","","",gcc-105233
+gcc-14520,A,Compositae,,Euryops,,"punctatus",,"","DC.",Synonym,,M,TICA,8C4FDAD0-1583-439A-8D6C-1AEEE0F04A1D,207474-1,"","","445","1838",gcc-125899
+gcc-86373,A,Compositae,,Euryops,,"racemosus",,"","DC.",Synonym,,M,TICA,4200C56A-25FA-414B-9239-7AC33C60516D,207475-1,"","","446","1838",gcc-18083
+gcc-39648,A,Compositae,,Euryops,,"rehmannii",,"","Compton",Accepted,,M,TICA,A5DD315C-7CFA-4D27-BE2B-49923F2497E0,207476-1,"","","32","1931",
+gcc-83343,A,Compositae,,Euryops,,"rogersii",,"","Burtt Davy",Synonym,,M,TICA,A2EDDFC5-B62C-4FA5-8E65-740F078AC147,207477-1,"","","105","1935",gcc-144902
+gcc-75588,A,Compositae,,Euryops,,"rosulatus",,"","B.Nord.",Accepted,,M,TICA,E6AA9C50-4011-42CA-8810-62C456A6DC5D,207478-1,"","","78","1961",
+gcc-89881,A,Compositae,,Euryops,,"rupestris",,"","Schltr.",Accepted,,M,TICA,A12CFA8E-5AD5-4C3B-96AC-82C0B3CFCB21,,"","","213","1899",
+gcc-67560,A,Compositae,,Euryops,,"rupestris",var.,"rupestris","",Synonym,,L,TICA,6656E7BD-4B05-4A79-826A-D8256AEDAEB8,,"","","","",gcc-89881
+gcc-129703,A,Compositae,,Euryops,,"schenckii",,"","O.Hoffm.",Synonym,,M,TICA,235EC17B-0B98-4B79-8E59-DCE2A874EFF1,207480-1,"","","88","1893",gcc-47661
+gcc-111811,A,Compositae,,Euryops,,"serra",,"","DC.",Accepted,,M,TICA,F3A222D6-E491-4487-A484-B3FC473358BE,207481-1,"","","444","1838",
+gcc-114630,A,Compositae,,Euryops,,"setilobus",,"","N.E.Br.",Synonym,,M,TICA,43E32CD3-BD17-4756-B754-BA4BA9C0E2C0,207482-1,"","","22","1906",gcc-56771
+gcc-82075,A,Compositae,,Euryops,,"socotranus",,"","Balf.f.",Synonym,,M,TICA,26046ECA-45DE-416D-BA1C-7137A01BB109,,"","","","1882",gcc-51228
+gcc-4140,A,Compositae,,Euryops,,"somalensis",,"","S.Moore",Synonym,,M,TICA,877E2745-ABA2-4022-A309-07B55D28DD3A,,"","","362","1900",gcc-104241
+gcc-3407,A,Compositae,,Euryops,,"sparsiflorus",,"","S.Moore",Synonym,,M,TICA,B16FDCFE-E4F1-4252-9579-064AACA5949C,,"","","1023","1904",gcc-107981
+gcc-32997,A,Compositae,,Euryops,,"spathaceus",,"","DC.",Accepted,,M,TICA,800EE449-0010-4045-BE53-3D329355B23C,207487-1,"","","446","1838",
+gcc-4067,A,Compositae,,Euryops,,"spathaceus",var.,"campanulatus","Sch.Bip.",Synonym,,L,TICA,D4C766E9-34B1-4172-B26D-078FA142C4E8,,"","","","",gcc-32997
+gcc-33689,A,Compositae,,Euryops,,"spathaceus",var.,"dodecaglossa","DC.",Synonym,,L,TICA,DED39966-47B7-402D-B442-3E725B00212E,,"","","","",gcc-32997
+gcc-150091,A,Compositae,,Euryops,,"spathaceus",var.,"spathaceus","",Synonym,,L,TICA,FBF9CE0D-0E69-44E4-B63F-66FB021AE924,,"","","","",gcc-32997
+gcc-117468,A,Compositae,,Euryops,,"speciosissimus",,"","DC.",Accepted,,M,TICA,B849A808-2F6C-47E7-9DA4-C0BFAA4A354A,207488-1,"","","444","1838",
+gcc-37088,A,Compositae,,Euryops,,"speciosus",,"","Hutch.",Synonym,,M,TICA,392590AB-1D47-47D7-9918-44B95988513D,207489-1,"","","108","1946",gcc-115108
+gcc-82810,A,Compositae,,Euryops,,"striatus",,"","N.E.Br.",Synonym,,M,TICA,2C346534-FF6F-454C-B506-72E1EE277214,207490-1,"","","23","1906",gcc-56771
+gcc-101195,A,Compositae,,Euryops,,"strictus",,"","DC.",Synonym,,M,TICA,743B0126-3302-4159-ACDD-9C4DFB44CC70,207491-1,"","","447","1838",gcc-58653
+gcc-125899,A,Compositae,,Euryops,,"subcarnosus",,"","DC.",Accepted,,M,TICA,8FDF13FE-0394-4EFD-8C55-D41E18991BD1,207492-1,"","","445","1838",
+gcc-61238,A,Compositae,,Euryops,,"subcarnosus",var.,"indivisus","DC.",Synonym,,L,TICA,3735EAD4-3463-4DB2-8D84-A4D6C5375C3A,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","445","1838",gcc-125899
+gcc-155519,A,Compositae,,Euryops,,"subcarnosus",var.,"subcarnosus","",Synonym,,L,TICA,FE51EC9B-F2F7-4B80-AFF5-D9FB80881FE5,,"","","","",gcc-125899
+gcc-46216,A,Compositae,,Euryops,,"subcarnosus",subsp.,"subcarnosus","",Synonym,,L,TICA,349CCD2C-8B16-49D5-B625-55AC09921995,,"","","","",gcc-125899
+gcc-33106,A,Compositae,,Euryops,,"subcarnosus",subsp.,"vulgaris","B.Nord.",Synonym,,L,TICA,55CD1062-7E30-43AD-8D54-3D6590911304,,"Opera Bot. 20","","200","1968",gcc-105233
+gcc-95048,A,Compositae,,Euryops,,"subsessilis",,"","Sch.Bip.",Synonym,,M,TICA,F4C05280-7089-4CEB-B2BC-8E685ECCA52C,207493-1,"","","52","1845",gcc-79873
+gcc-119138,A,Compositae,,Euryops,,"sulcatus",,"","(Thunb.) Less. ex Harv.",Unresolved,Illegitimate,L,TICA,37EAA588-0560-4062-9F7A-C4852FEEAB17,,"Fl. Cap. 3: 416 (1865)","","416","1865",
+gcc-47481,A,Compositae,,Euryops,,"sulcatus",,"","Less.",Synonym,,M,TICA,5645055E-702A-4D80-A8EE-57F88B4D43AA,,"Syn. Gen. Compos. 394; Harv. in Harv. & Sond. Fl. Cap. iii. 416.","","","1832",gcc-32760
+gcc-58417,A,Compositae,,Euryops,,"sulcatus",var.,"densifolius","Sond. ex Harv.",Synonym,,L,TICA,620AB6B5-D56F-40C3-B2D0-8E8B9DE752DB,,"","","416","1865",gcc-32760
+gcc-9103,A,Compositae,,Euryops,,"sulcatus",var.,"sulcatus","",Synonym,,L,TICA,C66F5C23-77EB-471E-B269-1106DD9C7B9E,,"","","","",gcc-32760
+gcc-99977,A,Compositae,,Euryops,,"tagetoides",,"","(DC.) B.Nord.",Accepted,,M,TICA,116EB827-6462-48E5-A2CF-99900F200645,207495-1,"","","232","1968",
+gcc-142206,A,Compositae,,Euryops,,"tenuilobus",,"","(DC.) B.Nord.",Accepted,,M,TICA,5F07E214-CD17-4E0F-ADAB-F924860D7BEE,207496-1,"","","330","1968",
+gcc-106661,A,Compositae,,Euryops,,"tenuissimus",,"","Less.",Synonym,,M,TICA,54B2D011-28FB-4EB5-B6CC-A85335263B60,207497-1,"Syn. Gen. Compos. 394.","","394","1832",gcc-39648
+gcc-50102,A,Compositae,,Euryops,,"tenuissimus",,"","(L.) DC.",Unresolved,Illegitimate,L,TICA,EC3FAE00-5AE9-41A4-B6A6-5CDF478B5ED1,,"Prodr. 6: 446 (1837)","","446","",
+gcc-58653,A,Compositae,,Euryops,,"tenuissimus",subsp.,"tenuissimus","",Unresolved,,L,TICA,031873FD-9C99-48F2-952E-906300960BE1,,"","","","",
+gcc-63278,A,Compositae,,Euryops,,"tenuissimus",subsp.,"trifurcatus","(L.f.) B.Nord.",Unresolved,,L,TICA,203D30ED-570F-4D0E-98ED-B598A2AE4967,,"Opera Bot. 20: 82 (1968)","","82","1968",
+gcc-35068,A,Compositae,,Euryops,,"thunbergii",,"","B.Nord.",Accepted,,M,TICA,6A08B0D8-6794-4161-A82F-41076D939B36,207498-1,"","","96","1968",
+gcc-124999,A,Compositae,,Euryops,,"transvaalensis",,"","Klatt",Accepted,,M,TICA,6D60348A-8996-4894-97B8-D20F85541F99,,"","","843","1896",
+gcc-56771,A,Compositae,,Euryops,,"transvaalensis",subsp.,"setilobus","(N.E.Br.) B.Nord.",Accepted,,L,TICA,B2E62260-A5D3-48AF-9510-810978BD2F77,,"Opera Bot. 20: 304 (1968)","","304","1968",
+gcc-57699,A,Compositae,,Euryops,,"transvaalensis",subsp.,"transvaalensis","",Synonym,,L,TICA,C968F35E-000B-42F4-99E4-88689A417715,,"","","","",gcc-124999
+gcc-25848,A,Compositae,,Euryops,,"trifidus",,"","(L.f.) DC.",Accepted,,M,TICA,47129935-5DCC-4B69-B31D-2FC40671C49B,,"Prodr. 6: 444 (1837)","","394","",
+tro-2721457,A,Compositae,,Euryops,,"trifidus",,"","Less.",Unresolved,,L,TRO,2721457,207500-1,"Syn. Gen. Compos.","394","394","1832",
+gcc-34855,A,Compositae,,Euryops,,"trifurcatus",,"","(L.f.) Cass.",Synonym,,M,TICA,D18789CF-FD3B-4F8A-8B96-409DE40F6714,207501-1,"","","52","1820",gcc-63278
+gcc-92686,A,Compositae,,Euryops,,"trilobus",,"","Harv.",Accepted,,M,TICA,2BDAFFD4-56D1-41AE-A3E1-892848A001F8,,"","","411","",
+gcc-93724,A,Compositae,,Euryops,,"triqueter",,"","Less. ex Harv.",Synonym,Illegitimate,M,TICA,ADBC5CAE-260A-4D51-814F-8B4DEDDB3C96,,"","","414","",gcc-69650
+gcc-37841,A,Compositae,,Euryops,,"tysonii",,"","E.Phillips",Accepted,,M,TICA,9588E76C-0E77-4E18-9901-462F962A8EC0,207504-1,"","","161","1917",
+gcc-67595,A,Compositae,,Euryops,,"tysonii",var.,"dieterleniae","E.Phillips",Synonym,,L,TICA,1A10DA9E-9DB7-4E00-B3E6-D86E388BC394,,"","","","",gcc-37841
+gcc-152934,A,Compositae,,Euryops,,"tysonii",var.,"tysonii","",Synonym,,L,TICA,FFFD68E4-3039-4609-8405-A38058E40484,,"","","","",gcc-37841
+gcc-100176,A,Compositae,,Euryops,,"ursinoides",,"","B.Nord.",Accepted,,M,TICA,846D6DE2-3142-4DE3-882F-9A0438B9C1BD,207505-1,"","","338","1968",
+gcc-43593,A,Compositae,,Euryops,,"vimineus",,"","(L.f.) DC.",Accepted,,M,TICA,F73BF1F9-1060-43EC-8F6A-50D02B48AFC9,,"","","","",
+gcc-143296,A,Compositae,,Euryops,,"virgatus",,"","B.Nord.",Accepted,,M,TICA,D50EEA7E-DC11-4FC7-8D33-FB90F6713AB8,207506-1,"","","74","1961",
+gcc-1303,A,Compositae,,Euryops,,"virgineus",,"","Less.",Unresolved,,L,TICA,269113C8-F72D-4701-91CF-025EFF1C8BE8,,"Syn. Gen. Compos. 394; DC. Prod. vi. 445.","","","1832",
+gcc-87189,A,Compositae,,Euryops,,"virgineus",,"","(L.f.) DC.",Accepted,,M,TICA,B3D09862-C714-46BE-AB4F-7CB5B4F5A1A4,,"Prodr. 6: 445 (1838)","","445","1838",
+gcc-136712,A,Compositae,,Euryops,,"wageneri",,"","Compton",Accepted,,M,TICA,4A22E39B-2C9F-4228-80E9-ECD10F1144D7,207508-1,"","","85","1946",
+gcc-80901,A,Compositae,,Euryops,,"walterorum",,"","Merxm.",Accepted,,M,TICA,FB4F8520-8EBD-4C94-A172-6E9DA92B89E5,207509-1,"","","75","1955",
+gcc-1675,A,Compositae,,Euryops,,"zeyheri",,"","B.Nord.",Accepted,,M,TICA,D01F7321-6DD2-4001-BD5B-03023410DB67,207510-1,"","","284","1968",

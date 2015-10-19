@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-128357,A,Orchidaceae,,Miltoniopsis,,"bismarckii",,"","Dodson & D.E.Benn.",Accepted,,H,WCSP,128357,938748-1,"Icon. Pl. Trop.","II, 2: t. 110","","1989",
+kew-128358,A,Orchidaceae,,Miltoniopsis,×,"bleui",,"","(God.-Leb.) God.-Leb.",Unresolved,,L,WCSP,128358,,"Orchidophile (Argenteuil)","9: 145","","1889",
+kew-454761,A,Orchidaceae,,Miltoniopsis,×,"bleui",var.,"rosea","J.Fraser",Synonym,,L,WCSP,454761,,"Gard. World","11: 184","","1894",kew-128358
+kew-128359,A,Orchidaceae,,Miltoniopsis,,"phalaenopsis",,"","(Linden & Rchb.f.) Garay & Dunst.",Accepted,,H,WCSP,128359,644786-1,"Venez. Orchids Ill.","6: 278","","1976",
+kew-128360,A,Orchidaceae,,Miltoniopsis,,"roezlii",,"","(Rchb.f.) God.-Leb.",Accepted,,H,WCSP,128360,161451-2,"Orchidophile (Argenteuil)","9: 148","","1889",
+kew-128361,A,Orchidaceae,,Miltoniopsis,,"roezlii",var.,"alba","(W.Bull ex W.G.Sm.) Lückel",Synonym,,L,WCSP,128361,983420-1,"Orchidee (Hamburg)","46: A119","","1995",kew-128360
+kew-128362,A,Orchidaceae,,Miltoniopsis,,"santanae",,"","Garay & Dunst.",Synonym,,H,WCSP,128362,161452-2,"Venez. Orchids Ill.","6: 276","","1976",kew-128360
+kew-128363,A,Orchidaceae,,Miltoniopsis,,"vexillaria",,"","(Rchb.f.) God.-Leb.",Accepted,,H,WCSP,128363,161453-2,"Orchidophile (Argenteuil)","9: 63","","1889",
+tro-23503675,A,Orchidaceae,,Miltoniopsis,,"warscewiczii",,"","(Rchb. f.) Garay & Dunst.",Synonym,,M,TRO,23503675,644788-1,"Venez. Orchid. Ill.","6: 278","278","1976",kew-128364
+kew-128364,A,Orchidaceae,,Miltoniopsis,,"warszewiczii",,"","(Rchb.f.) Garay & Dunst.",Accepted,,H,WCSP,128364,161454-2,"Venez. Orchids Ill.","6: 278","","1976",

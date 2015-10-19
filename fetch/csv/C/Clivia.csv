@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-302700,A,Amaryllidaceae,,Clivia,,"caulescens",,"","R.A.Dyer",Accepted,,H,WCSP,302700,63629-1,"Fl. Pl. South Africa","23: t. 891","","1943",
+kew-302701,A,Amaryllidaceae,,Clivia,×,"cyrtanthiflora",,"","(Lindl. ex K.Koch & Fintelm) T.Moore",Unresolved,,L,WCSP,302701,,"Treas. Bot.","1: 300","","1866",
+tro-1201614,A,Amaryllidaceae,,Clivia,,"cyrtantiflora",,"","Wittm.",Unresolved,,L,TRO,1201614,,"","","","",
+kew-302702,A,Amaryllidaceae,,Clivia,,"gardenii",,"","Hook.",Accepted,,H,WCSP,302702,,"Bot. Mag.","81: t. 4895","","1855",
+kew-331572,A,Amaryllidaceae,,Clivia,,"gardenii",var.,"citrina","Swanev., A.E.van Wyk & Truter",Synonym,,L,WCSP,331572,77067017-1,"Bothalia","35: 68","","2005",kew-302702
+kew-302703,A,Amaryllidaceae,,Clivia,,"miniata",,"","(Lindl.) Bosse",Accepted,,H,WCSP,302703,994513-1,"Vollst. Handb. Blumengart.","ed. 3, 1: 768","","1859",
+tro-1201292,A,Amaryllidaceae,,Clivia,,"miniata",,"","Regel",Unresolved,,L,TRO,1201292,,"Gartenflora","13: , pl. 434","","1864",
+tro-1200883,A,Amaryllidaceae,,Clivia,,"miniata",var.,"citrina","S. Watson",Accepted,,L,TRO,1200883,,"","","","",
+kew-342338,A,Amaryllidaceae,,Clivia,,"miniata",var.,"flava","E.Phillips",Synonym,,L,WCSP,342338,,"Fl. Pl. S. Africa","11: t. 411","","1931",kew-302703
+tro-1200885,A,Amaryllidaceae,,Clivia,,"miniata",var.,"flava","Müll. Hal.",Synonym,,L,TRO,1200885,,"","","","",tro-1200883
+kew-302705,A,Amaryllidaceae,,Clivia,,"mirabilis",,"","Rourke",Accepted,,H,WCSP,302705,20006731-1,"Bothalia","32: 1","","2000",
+kew-346448,A,Amaryllidaceae,,Clivia,×,"nimbicola",,"","Swanev., Truter & A.E.van Wyk",Accepted,,H,WCSP,346448,,"Bothalia","36: 78","","2006",
+kew-302706,A,Amaryllidaceae,,Clivia,,"nobilis",,"","Lindl.",Accepted,,H,WCSP,302706,63634-1,"Bot. Reg.","14: t. 1182","","1828",
+kew-309396,A,Amaryllidaceae,,Clivia,,"robusta",,"","B.G.Murray & al.",Accepted,,H,WCSP,309396,,"Bot. J. Linn. Soc.","146: 370","","2004",
+kew-346449,A,Amaryllidaceae,,Clivia,,"robusta",var.,"citrina","Swanev., Forb.-Hard., Truter & A.E.van Wyk",Synonym,,L,WCSP,346449,77079443-1,"Bothalia","36: 67","","2006",kew-309396
+kew-302707,A,Amaryllidaceae,,Clivia,,"sulphurea",,"","Laing",Synonym,,H,WCSP,302707,,"Wiener Ill. Gart.-Zeitung","2: 275","","1858",kew-302703

@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-149823,A,Apocynaceae,,Pentalinon,,"andrieuxii",,"","(Müll.Arg.) B.F.Hansen & Wunderlin",Accepted,,H,WCSP,149823,942488-1,"Taxon","35: 168","","1986",
+kew-149824,A,Apocynaceae,,Pentalinon,,"luteum",,"","(L.) B.F.Hansen & Wunderlin",Accepted,,H,WCSP,149824,942487-1,"Taxon","35: 167","","1986",
+kew-149825,A,Apocynaceae,,Pentalinon,,"luteum",var.,"sericeum","(R.W.Long) D.B.Ward",Synonym,,L,WCSP,149825,20001533-1,"Novon","11: 361","","2001",kew-149824
+kew-149826,A,Apocynaceae,,Pentalinon,,"suberectum",,"","(Jacq.) Voigt",Synonym,,H,WCSP,149826,81037-1,"Hort. Suburb. Calcutt.","523","","1845",kew-149824

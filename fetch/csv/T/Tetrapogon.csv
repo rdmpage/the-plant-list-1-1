@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-446297,A,Poaceae,,Tetrapogon,,"bidentatus",,"","Pilg.",Accepted,,H,WCSP,446297,424113-1,"Bot. Jahrb. Syst.","34: 129","","1904",
+kew-446298,A,Poaceae,,Tetrapogon,,"cenchriformis",,"","(A.Rich.) Clayton",Accepted,,H,WCSP,446298,424115-1,"Kew Bull.","16: 250","","1962",
+kew-446299,A,Poaceae,,Tetrapogon,,"cymbiferus",,"","Peter",Synonym,,H,WCSP,446299,424116-1,"Repert. Spec. Nov. Regni Veg. Beih.","40(1 Anh.): 76","","1930",kew-446298
+kew-446300,A,Poaceae,,Tetrapogon,,"ferrugineus",,"","(Renvoize) S.M.Phillips",Accepted,,H,WCSP,446300,943907-1,"Kew Bull.","42: 478","","1987",
+kew-446301,A,Poaceae,,Tetrapogon,,"flabellatus",,"","Hack.",Synonym,,H,WCSP,446301,424117-1,"Bull. Herb. Boissier","4: 810","","1896",kew-404782
+kew-446302,A,Poaceae,,Tetrapogon,,"geminatus",,"","(Hochst.) Chiov.",Synonym,,H,WCSP,446302,,"Annuario Reale Ist. Bot. Roma","6: 171","","1896",kew-446298
+kew-446303,A,Poaceae,,Tetrapogon,,"macranthus",,"","(Desv.) Benth.",Synonym,,H,WCSP,446303,424118-1,"J. Linn. Soc., Bot.","19: 106","","1881",kew-446311
+kew-446304,A,Poaceae,,Tetrapogon,,"macranthus",f.,"geminatus","(Hochst.) Chiov.",Synonym,,L,WCSP,446304,,"Annuario Reale Ist. Bot. Roma","8: 352","","1908",kew-446298
+tro-50184768,A,Poaceae,,Tetrapogon,,"macranthus",var.,"geminatus","(Hochst.) Chiov.",Synonym,,L,TRO,50184768,,"Annuario Reale Ist. Bot. Roma","8(3): 353–354","353","1908",kew-446298
+kew-446305,A,Poaceae,,Tetrapogon,,"macranthus",f.,"monostachyus","Chiov.",Synonym,,L,WCSP,446305,,"Annuario Reale Ist. Bot. Roma","8: 352","","1908",kew-446298
+kew-446306,A,Poaceae,,Tetrapogon,,"macranthus",f.,"spathaceus","(Hochst. ex Steud.) Chiov.",Synonym,,L,WCSP,446306,,"Annuario Reale Ist. Bot. Roma","8: 352","","1908",kew-446298
+tro-50184767,A,Poaceae,,Tetrapogon,,"macranthus",var.,"spathaceus","(Hochst. ex Steud.) Chiov.",Synonym,,L,TRO,50184767,,"Annuario Reale Ist. Bot. Roma","8(3): 352","352","1908",kew-446298
+kew-446307,A,Poaceae,,Tetrapogon,,"monostachyus",,"","Peter",Synonym,,H,WCSP,446307,424120-1,"Repert. Spec. Nov. Regni Veg. Beih.","40(1 Anh.): 77","","1930",kew-446298
+kew-446308,A,Poaceae,,Tetrapogon,,"mossambicensis",,"","(K.Schum.) Chippind.",Synonym,,H,WCSP,446308,424121-1,"Grass. Past. S. Africa","198","","1955",kew-404843
+kew-446309,A,Poaceae,,Tetrapogon,,"spathaceus",,"","(Hochst. ex Steud.) Hack. ex T.Durand & Schinz",Synonym,,H,WCSP,446309,424122-1,"Consp. Fl. Afric.","5: 864","","1894",kew-446298
+kew-446310,A,Poaceae,,Tetrapogon,,"spathaceus",,"","(Benth.) Macloskie",Synonym,Illegitimate,H,WCSP,446310,,"Rep. Princeton Univ. Exped. Patagonia, Botany","8: 211","","1900",kew-446298
+kew-446311,A,Poaceae,,Tetrapogon,,"tenellus",,"","(Roxb.) Chiov.",Accepted,,H,WCSP,446311,424124-1,"Annuario Reale Ist. Bot. Roma","8: 352","","1908",
+kew-446312,A,Poaceae,,Tetrapogon,,"tetrastachys",,"","Hack. ex Duthie",Synonym,Invalid,H,WCSP,446312,424126-1,"Fodder Grasses N. India","89","","1888",kew-404839
+kew-446313,A,Poaceae,,Tetrapogon,,"triangularis",,"","Hochst. ex Hook.f.",Synonym,Invalid,H,WCSP,446313,424127-1,"Fl. Brit. India","7: 291","","1896",kew-446311
+tro-50143473,A,Poaceae,,Tetrapogon,,"triangularis",,"","(Hochst. ex A. Rich.) Hochst.",Synonym,,M,TRO,50143473,,"Pl. Arab. Schweinf. (exiccatae)","no. 967","","",kew-446311
+kew-446314,A,Poaceae,,Tetrapogon,,"triangulatus",,"","(A.Rich.) Schweinf.",Synonym,,H,WCSP,446314,,"Bull. Herb. Boissier","2(App. 2): 34","","1894",kew-446311
+kew-446316,A,Poaceae,,Tetrapogon,,"triangulatus",var.,"sericatus","Chiov.",Synonym,,L,WCSP,446316,,"Annuario Reale Ist. Bot. Roma","6: 171","","1896",kew-446311
+kew-446317,A,Poaceae,,Tetrapogon,,"villosus",,"","Desf.",Accepted,,H,WCSP,446317,424129-1,"Fl. Atlant.","2: 388","","1799",
+kew-446318,A,Poaceae,,Tetrapogon,,"villosus",var.,"monostachyus","Batt. & Trab.",Synonym,,L,WCSP,446318,,"Bull. Soc. Hist. Nat. Afrique N.","9: 17","","1918",kew-446317

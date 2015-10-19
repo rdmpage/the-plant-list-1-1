@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2706075,A,Berberidaceae,,Caulophyllum,,"giganteum",,"","(Farw.) H.Loconte & W.H.Blackw.",Accepted,,M,WCSP (in review),,50363-2,"Phytologia","49: 483","","1981",
+kew-2706076,A,Berberidaceae,,Caulophyllum,,"gracile",,"","Douglas ex Hook.",Unresolved,,L,WCSP (in review),,107231-1,"Fl. Bor.-Amer.","1: 30","","1829",
+kew-2706077,A,Berberidaceae,,Caulophyllum,,"robustum",,"","Maxim.",Accepted,,M,WCSP (in review),,107232-1,"Prim. Fl. Amur.","33","","1859",
+kew-2706078,A,Berberidaceae,,Caulophyllum,,"thalictroides",,"","(L.) Michx.",Accepted,,M,WCSP (in review),,1056122-2,"Fl. Bor.-Amer.","1: 205","","1803",
+kew-2706079,A,Berberidaceae,,Caulophyllum,,"thalictroides",,"","Regel",Synonym,Illegitimate,M,WCSP (in review),,107234-1,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg","15: 223","","1857",kew-2706077
+kew-2706080,A,Berberidaceae,,Caulophyllum,,"thalictroides",var.,"giganteum","Farw.",Synonym,,L,WCSP (in review),,50364-2,"Rep. (Annual) Michigan Acad. Sci.","20: 178","","1918",kew-2706075
+kew-2706081,A,Berberidaceae,,Caulophyllum,,"thalictroides",subsp.,"robustum","(Maxim.) Kitam.",Synonym,,L,WCSP (in review),,,"Acta Phytotax. Geobot.","20: 202","","1962",kew-2706077
+tro-100307526,A,Berberidaceae,,Caulophyllum,,"thalictroides",subsp.,"robustum","(Maxim.) M. Hiroe",Synonym,,L,TRO,100307526,874717-1,"Pl. Basho's & Buson's Hokku Lit.","8: 337","337","1973",kew-2706077
+tro-3500276,A,Berberidaceae,,Caulophyllum,,"thalictroides",var.,"thalictroides","",Synonym,,L,TRO,3500276,,"","","","",kew-2706078

@@ -1,0 +1,57 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-108612,A,Compositae,,Argyranthemum,,"adauctum",,"","(Link) Humphries",Accepted,,M,TICA,E0531680-6622-417C-9689-ACA8B9B634FA,178732-1,"","","227","1976",
+gcc-53293,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"adauctum","",Synonym,,L,TICA,58603E33-931E-40E2-A4A5-651A816B52DA,,"","","","",gcc-108612
+gcc-21759,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"canariense","Humphries",Accepted,,L,TICA,928333F7-B9C8-49FF-858A-28458179798A,876508-1,"","","230","1976",
+gcc-68593,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"dugourii","(Bolle) Humphries",Accepted,,L,TICA,C4D0A49F-C039-45D4-9A5F-DFEF0CE5A466,876509-1,"","","233","1976",
+gcc-36259,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"erythrocarpon","(Svent.) Humphries",Accepted,,L,TICA,5D64AAAF-0CB8-4109-9E54-433D4A15BF35,876510-1,"","","234","1976",
+gcc-63662,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"gracile","(Sch.Bip.) Humphries",Accepted,,L,TICA,1640E5BA-4E37-4CFC-A501-B88F8FFC29E7,876511-1,"","","231","1976",
+gcc-18649,A,Compositae,,Argyranthemum,,"adauctum",subsp.,"jacobiifolium","(Sch.Bip.) Humphries",Accepted,,L,TICA,DD7045B7-923D-4629-90DA-227607A2D0DC,876512-1,"","","232","1976",
+gcc-125360,A,Compositae,,Argyranthemum,,"anethifolium",,"","(Brouss. ex Willd.) Webb",Synonym,,M,TICA,E74B9760-05A3-4453-A2D2-D2DB6C4B7A8D,,"","","265","1844",gcc-44328
+gcc-11803,A,Compositae,,Argyranthemum,,"broussonetii",,"","(Pers.) Humphries",Accepted,,M,TICA,B563D6E6-33AF-4664-AD8A-15F9FBED2FE3,178734-1,"","","214","1976",
+gcc-14458,A,Compositae,,Argyranthemum,,"broussonetii",subsp.,"broussonetii","",Synonym,,L,TICA,A854036F-B483-4CBC-9B0C-1AD6BF947F22,,"","","","",gcc-11803
+gcc-90796,A,Compositae,,Argyranthemum,,"callichrysum",,"","(Svent.) Humphries",Accepted,,M,TICA,A2B35A09-62C5-4417-BCAB-84EAA560C2F2,178736-1,"","","210","1976",
+gcc-97884,A,Compositae,,Argyranthemum,,"canariense",,"","Humphries",Synonym,Invalid,M,TICA,D307B8F1-AC5D-4DD2-B274-94DF4393C783,178737-1,"","","380","1971",gcc-21759
+gcc-120786,A,Compositae,,Argyranthemum,,"coronopifolium",,"","(Willd.) Humphries",Accepted,,M,TICA,097D9856-1860-4128-9F22-C8579661E574,178739-1,"","","213","1976",
+gcc-129418,A,Compositae,,Argyranthemum,,"crithmifolium",,"","Bolle",Synonym,,M,TICA,330ADFDB-B0DD-46AB-83D0-DC36129DB9BE,178740-1,"Ind. Sem. Hort. Berol. App.","","5","1861",gcc-44328
+gcc-42486,A,Compositae,,Argyranthemum,,"dissectum",,"","(Lowe) Lowe",Accepted,,M,TICA,9DDD94A1-D631-4568-9CCE-4EAE5D54B5B3,,"","","464","1868",
+gcc-78670,A,Compositae,,Argyranthemum,,"escarrei",,"","(Svent.) Humphries",Accepted,,M,TICA,6C8B2AAC-C887-4598-9E1C-69A75DF94731,178742-1,"","","226","1976",
+gcc-125708,A,Compositae,,Argyranthemum,,"filifolium",,"","(Sch.Bip.) Humphries",Accepted,,M,TICA,4055B23A-2471-4391-AC87-D3A4A56AF78A,178743-1,"","","225","1976",
+gcc-110163,A,Compositae,,Argyranthemum,,"foeniculaceum",,"","(Willd.) Webb",Synonym,,M,TICA,B8FC5BD9-3B85-46B6-8873-B03D86BD870B,,"","","","",gcc-44328
+gcc-98466,A,Compositae,,Argyranthemum,,"foeniculaceum",,"","(Willd.) Webb ex Sch.Bip.",Accepted,,M,TICA,E84C887E-50C8-4E42-9105-963379B6F46B,,"","","262","1844",
+gcc-44328,A,Compositae,,Argyranthemum,,"foeniculum",,"","(Willd.) Sch.Bip.",Accepted,,M,TICA,CE71425C-7512-4CF5-BA58-5219FD53A4E7,,"","","","",
+gcc-38385,A,Compositae,,Argyranthemum,,"frutescens",,"","(L.) Sch.Bip.",Accepted,,M,TICA,E0952FE9-6770-4126-B6E7-473A678180DC,,"""Webb & Berth., Hist. Nat. Iles Canaries 2, 2""","","264","1844",
+gcc-34093,A,Compositae,,Argyranthemum,,"frutescens",subsp.,"canariae","(Christ) Humphries",Accepted,,L,TICA,F94B33E9-293A-4F5D-9350-3F346FA1F220,876514-1,"","","188","1976",
+gcc-19892,A,Compositae,,Argyranthemum,,"frutescens",var.,"crithmifolium","Link ex Pit. & Proust",Synonym,,L,TICA,7D89C70B-FC46-4812-A365-24C8B5DC20BA,,"""Iles Canaries (1909) 230 (refer to Link as author of this, i.e. L. Buch)""","","230","1909",gcc-44328
+gcc-62703,A,Compositae,,Argyranthemum,,"frutescens",var.,"foeniculaceum","Pit. & Proust",Synonym,,L,TICA,371B4674-F59C-4C81-9422-B0E4097C9110,,"Plantae Canariensis","","230","1908",gcc-70338
+gcc-70338,A,Compositae,,Argyranthemum,,"frutescens",subsp.,"foeniculaceum","(Pit. & Proust) Humphries",Accepted,,L,TICA,65142F32-FA7A-40E0-BFFE-ED4E7E21AE5B,876515-1,"","","187","1976",
+gcc-151661,A,Compositae,,Argyranthemum,,"frutescens",var.,"frutescens","",Synonym,,L,TICA,ABA0E198-3E7C-4641-9E1D-899D09A1D7CF,,"","","","",gcc-38385
+gcc-61937,A,Compositae,,Argyranthemum,,"frutescens",subsp.,"frutescens","",Synonym,,L,TICA,06FAFC61-1303-43B4-940C-AAAEF3256F30,,"","","264","1844",gcc-38385
+gcc-56837,A,Compositae,,Argyranthemum,,"frutescens",subsp.,"gracilescens","(Christ) Humphries",Accepted,,L,TICA,A2B7EB72-F17C-4738-9F18-8194F870B24B,876517-1,"","","185","1976",
+gcc-72073,A,Compositae,,Argyranthemum,,"frutescens",subsp.,"pumilum","Humphries",Accepted,,L,TICA,52EC5BE1-50B7-46B7-9B92-FB15A9FA8D9B,876519-1,"","","189","1976",
+gcc-87790,A,Compositae,,Argyranthemum,,"gracile",,"","Webb ex Sch.Bip.",Accepted,,M,TICA,82D1E00E-9A48-48DE-8917-7E056337725E,,"","","261","1844",
+gcc-100648,A,Compositae,,Argyranthemum,,"grandiflorum",,"","(Willd.) Humphries",Unresolved,,L,TICA,027BECEE-0153-4946-AE90-9B179ED9A89F,,"""Bot. Not. 124 (3): 380 (1971), without basionym ref.""","","","",
+gcc-27558,A,Compositae,,Argyranthemum,,"haematomma",,"","(Lowe) Lowe",Accepted,,M,TICA,B92C699A-C4DD-4479-B519-32F395E6D005,,"","","463","1868",
+gcc-15578,A,Compositae,,Argyranthemum,,"haouarytheum",,"","Humphries & Bramwell",Accepted,,M,TICA,5632AF8D-23D5-496E-8BF6-1CD3C7EF6843,,"","","","",
+gcc-41595,A,Compositae,,Argyranthemum,,"hierrense",,"","Humphries",Accepted,,M,TICA,761454DF-4434-4022-98AB-4D05341285B8,178751-1,"","","218","1976",
+gcc-22277,A,Compositae,,Argyranthemum,,"jacobaeifolium",,"","Webb",Unresolved,,L,TICA,BC40C1BB-47FF-416D-9348-29370B7BE388,178752-1,"""Hist. Nat. Iles Canaries (Phytogr.). 3(2.2, livr. 44). t. 90""","","""3(2.2, livr. 44). t. 90""","1839",gcc-18649
+gcc-22724,A,Compositae,,Argyranthemum,,"jacobiifolium",,"","(Sch.Bip.) G.Kunkel",Synonym,,M,TICA,36112FD1-2488-431C-956A-2A0D3B9F58D0,178753-1,"","","89","1976",gcc-18649
+gcc-26858,A,Compositae,,Argyranthemum,,"jacobiifolium",,"","(Sch.Bip.) Webb",Synonym,,M,TICA,8E147F02-88CD-43E9-91EF-31A9F7F7FD3D,,"Hist. Nat. Iles Canaries 2(2): 251 (1844)","","251","1844",gcc-18649
+gcc-144168,A,Compositae,,Argyranthemum,,"lemsii",,"","Humphries",Accepted,,M,TICA,35DBE76E-B80F-49E7-B76A-FD84032CF950,178754-1,"","","190","1976",
+gcc-43869,A,Compositae,,Argyranthemum,,"lidii",,"","Humphries",Accepted,,M,TICA,35736356-EFA4-4444-8999-514705FD3E39,178755-1,"","","205","1976",
+gcc-22153,A,Compositae,,Argyranthemum,,"maderense",,"","(D.Don) Humphries",Accepted,,L,TICA,8AEB5CA3-15BF-4C0E-80FC-28FAA07FDA36,178756-1,"","","202","1976",
+gcc-46529,A,Compositae,,Argyranthemum,,"ochroleucum",,"","Webb",Synonym,,L,TICA,AD83B929-A8BB-4FBB-85B9-56357590E341,,"","","","",gcc-22153
+gcc-79802,A,Compositae,,Argyranthemum,,"ochroleucum",,"","Sch.Bip.",Synonym,,L,TICA,9A4753A5-E8C6-4585-938A-6C36BBAC6F27,,"""Sch. Bip. in Webb & Berthelot, Hist. Nat. Iles Canaries 3(2,2). 1844.""","","259","1844",gcc-22153
+gcc-2064,A,Compositae,,Argyranthemum,,"pinnatifidum",,"","(L.f.) Lowe",Accepted,,M,TICA,60C3908B-D926-4080-AA6E-03B6A9DA15AE,991680-1,"","","460","1868",
+gcc-150621,A,Compositae,,Argyranthemum,,"pinnatifidum",var.,"pinnatifidum","",Synonym,,L,TICA,C983D872-5B0F-4E46-8AD8-72BE4AC8566D,,"","","","",gcc-2064
+gcc-60480,A,Compositae,,Argyranthemum,,"pinnatifidum",subsp.,"pinnatifidum","",Synonym,,L,TICA,AA3DBB6A-5C3B-4D9A-B92E-9E8F17BECD9C,,"","","","",gcc-2064
+gcc-18991,A,Compositae,,Argyranthemum,,"pinnatifidum",var.,"succulentum","Lowe",Synonym,,L,TICA,E7A1C490-3603-4027-84C5-230C9AECC926,,"Man. Fl. Madeira 1: 462 (1868)","","462","1868",gcc-62662
+gcc-62662,A,Compositae,,Argyranthemum,,"pinnatifidum",subsp.,"succulentum","(Lowe) Humphries",Accepted,,L,TICA,B5037DF3-A84F-4501-A072-B0A20671481B,876521-1,"","","224","1976",
+gcc-4098,A,Compositae,,Argyranthemum,,"pumilum",,"","(Humphries) G.Kunkel",Synonym,,M,TICA,6EC2FCEA-79DD-42C6-B8E7-079FA15FAB74,,"","","345","1980",gcc-72073
+gcc-27051,A,Compositae,,Argyranthemum,,"sundingeri",,"","L.Borgen",Unresolved,,L,TICA,906BB8BB-7FC0-41CC-8715-3201F182797F,,"Norwegian Journal of Botany 27(3):","","163","1980",
+gcc-15062,A,Compositae,,Argyranthemum,,"sundingii",,"","L.Borgen",Accepted,,M,TICA,8FF06AE9-628F-4B7D-88A1-1BE165EF3CD0,178760-1,"","","163","1980",
+gcc-85520,A,Compositae,,Argyranthemum,,"sventenii",,"","Humphries & Aldridge",Accepted,,M,TICA,CE690102-19D2-44C8-82B3-78DDC63B0788,178761-1,"","","211","1976",
+gcc-20448,A,Compositae,,Argyranthemum,,"tenerifae",,"","Humphries",Accepted,,M,TICA,C83DFE67-ABA5-4AEC-89BF-25CEFD7ABB81,178762-1,"","","200","1976",
+gcc-104368,A,Compositae,,Argyranthemum,,"thalassophilum",,"","(Svent.) Humphries",Accepted,,M,TICA,73CB9125-9787-4734-AE05-A359CFD53246,178763-1,"","","209","1976",
+tro-50317439,A,Compositae,,Argyranthemum,,"vincentii",,"","Santos & Feria",Unresolved,,L,TRO,50317439,,"","","","",
+gcc-128322,A,Compositae,,Argyranthemum,,"webbii",,"","Sch.Bip.",Accepted,,M,TICA,968EB28E-BC3D-42B3-8683-D9C2686D3CA3,,"","","269","1844",
+gcc-80668,A,Compositae,,Argyranthemum,,"winteri",,"","(Svent.) Humphries",Accepted,,M,TICA,26926F32-DE91-4123-8643-6E14AA1FD515,178765-1,"","","204","1976",

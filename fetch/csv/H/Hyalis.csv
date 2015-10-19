@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-26810,A,Compositae,,Hyalis,,"argentea",,"","D.Don ex Hook. & Arn.",Accepted,,M,TICA,EA36924C-239A-4B5F-B8DC-318B3CD4B8E2,,"in Hook. Comp. Bot. Mag. i. (1835) 108.","","","1835",
+gcc-47185,A,Compositae,,Hyalis,,"argentea",var.,"argentea","",Synonym,,L,TICA,316D2DA6-B177-494B-82FE-5769DD74C1B7,,"Comp. Bot. Mag. 1: 108 (1835)","","108","1835",gcc-26810
+kew-321474,A,Iridaceae,,Hyalis,,"aulica",,"","(Aiton) Salisb.",Synonym,,H,iPlants,321474,438281-1,"Trans. Hort. Soc. London","1: 318","","1812",kew-322796
+kew-321475,A,Iridaceae,,Hyalis,,"gracilis",,"","Salisb.",Synonym,Illegitimate,H,iPlants,321475,438282-1,"Trans. Hort. Soc. London","1: 317","","1812",kew-322672
+gcc-97538,A,Compositae,,Hyalis,,"lancifolia",,"","Baker",Accepted,,M,TICA,B1738ABF-99FC-4264-8905-9419E451D1F0,,"Fl. Bras. (Martius) 6(3): 368","","368","",
+kew-321477,A,Iridaceae,,Hyalis,,"latifolia",,"","(D.Delaroche) Salisb.",Synonym,,H,iPlants,321477,438284-1,"Trans. Hort. Soc. London","1: 317","","1812",kew-322796
+kew-321478,A,Iridaceae,,Hyalis,,"longiflora",,"","(L.f.) Salisb.",Synonym,,H,iPlants,321478,438285-1,"Trans. Hort. Soc. London","1: 318","","1812",kew-325448
+kew-321479,A,Compositae,,Hyalis,,"lorentzii",,"","Hieron.",Synonym,,H,WCSP,321479,438286-1,"Icon. Descr. Pl.","32","","1885",gcc-97538
+kew-321480,A,Iridaceae,,Hyalis,,"marginifolia",,"","Salisb.",Synonym,Invalid,H,iPlants,321480,438287-1,"Trans. Hort. Soc. London","1: 318","","1812",kew-322816
+gcc-112008,A,Compositae,,Hyalis,,"spartioides",,"","(Wedd.) Benth. & Hook.f. ex Griseb.",Synonym,,M,TICA,41220A3F-DF33-492E-BB9E-B46A79DE60A8,,"Abhandlungen der Koniglichen Gesellschaft der Wissenschaften zu Gottingen 24:","","211","1879",gcc-90136
+gcc-123068,A,Compositae,,Hyalis,,"spartioides",,"","Benth. & Hook.f. ex Hieron.",Synonym,,M,TICA,E70AC80D-9D66-4D14-9AFD-CD776B67F5D5,225131-1,"Pl. Diaph. 164.","","164","",gcc-90136

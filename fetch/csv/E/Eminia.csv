@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-2656,A,Leguminosae,,Eminia,,"antennulifera",,"","(Baker) Taub.",Accepted,,H,ILDIS,2656,,"","","","",
+ild-2658,A,Leguminosae,,Eminia,,"benguellensis",,"","Torre",Accepted,,H,ILDIS,2658,,"","","","",
+ild-33799,A,Leguminosae,,Eminia,,"benguellensis",var.,"huillensis","Torre",Synonym,,L,ILDIS,33799,,"","","","",ild-2658
+ild-33797,A,Leguminosae,,Eminia,,"eminens",,"","Taub.",Synonym,,H,ILDIS,33797,,"","","","",ild-2656
+ild-2659,A,Leguminosae,,Eminia,,"harmsiana",,"","De Wild.",Accepted,,H,ILDIS,2659,,"","","","",
+ild-2660,A,Leguminosae,,Eminia,,"holubii",,"","(Hemsl.) Taub.",Accepted,,H,ILDIS,2660,,"","","","",
+ild-2657,A,Leguminosae,,Eminia,,"major",,"","Harms",Synonym,,H,ILDIS,2657,,"","","","",ild-2656
+ild-2661,A,Leguminosae,,Eminia,,"noldeana",,"","Harms",Synonym,,H,ILDIS,2661,,"","","","",ild-2660
+ild-2662,A,Leguminosae,,Eminia,,"polyadenia",,"","Hauman",Synonym,,H,ILDIS,2662,,"","","","",ild-2660
+ild-33801,A,Leguminosae,,Eminia,,"polyadenia",var.,"intermedia","Hauman",Synonym,,L,ILDIS,33801,,"","","","",ild-2660

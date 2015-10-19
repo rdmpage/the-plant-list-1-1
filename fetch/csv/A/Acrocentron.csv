@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11266,A,Compositae,,Acrocentron,,"alpestre",,"","(Hegetschw.) S. & D.Löve",Unresolved,,L,TICA,C6D9A973-7073-4176-8CE2-151093286BC8,,"in Bot. Notiser cxiv. 44 (1961).","","cxiv. 44","1961",
+gcc-52617,A,Compositae,,Acrocentron,,"alpestre",,"","(Hegetschw.) Á.Löve & D.Löve",Synonym,,M,TICA,CF201275-40ED-474A-8D4D-6188D7F48640,174772-1,"Bot. Not. 114: 44 (1961)","","44","1961",gcc-55128
+gcc-131227,A,Compositae,,Acrocentron,,"boissieri",,"","Webb",Synonym,,M,TICA,5222EDE7-0DCD-47D3-8660-E0688D42BDC8,174773-1,"","","32","1838",gcc-136791
+gcc-109729,A,Compositae,,Acrocentron,,"collinum",,"","Cass.",Synonym,Invalid,M,TICA,A1F51AC1-6911-435F-9A54-AF51092BEC97,,"","","","1827",gcc-19534
+gcc-5568,A,Compositae,,Acrocentron,,"granatense",,"","Webb",Synonym,,M,TICA,DDF1B2AE-BEA1-454D-BF97-0A635A352AEA,174775-1,"Iter Hisp.","","32","1838",gcc-9239
+gcc-34068,A,Compositae,,Acrocentron,,"kotschyanum",,"","(Heuff.) Á.Löve & D.Löve",Synonym,,M,TICA,53589E76-87AA-4711-8AA2-3F2C1BC37D87,,"","","","1961",gcc-115801
+gcc-111011,A,Compositae,,Acrocentron,,"orientale",,"","(L.) Á.Löve & D.Löve",Synonym,,M,TICA,F39A2FF3-C4A8-459E-ADB1-B22EE39B34F0,,"","","","1961",gcc-94649
+gcc-129167,A,Compositae,,Acrocentron,,"ornatum",,"","Webb",Synonym,,M,TICA,9B896249-51ED-486C-9B1E-DBADA10E7C41,174778-1,"","","32","1838",gcc-117064
+gcc-17654,A,Compositae,,Acrocentron,,"salonitanum",,"","(Vis.) Á.Löve & D.Löve",Synonym,,M,TICA,54051D55-6B78-49B4-8081-2094483548EA,,"","","","1961",gcc-108994
+gcc-112446,A,Compositae,,Acrocentron,,"scabiosa",,"","(L.) A",Synonym,,M,TICA,3B65CF71-5AF2-46E9-ACCF-B5778DC5C7CF,,"Bot. Not. (Lund) 114 : 44 (1961)","","44","1961",gcc-113526
+gcc-13751,A,Compositae,,Acrocentron,,"scabiosa",,"","(L.) Á.Löve & D.Löve",Synonym,,M,TICA,E50331B1-015A-414F-B0B7-19957C65D974,,"","","","1961",gcc-113526
+gcc-29703,A,Compositae,,Acrocentron,,"tenuifolium",,"","Cass.",Synonym,,M,TICA,877CC739-3FE7-4828-AAD1-36E8A4E74447,,"","","","1827",gcc-15101

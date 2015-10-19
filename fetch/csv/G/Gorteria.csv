@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-1961,A,Compositae,,Gorteria,,"acaulis",,"","Hort.",Unresolved,,L,TICA,F8D94FA2-1F3C-4BAD-B355-0386B8343430,210418-1,"Cf. Gard. Chron. (1883) I. 78.",""," I. 78","1883",
+gcc-3416,A,Compositae,,Gorteria,,"affinis",,"","DC.",Synonym,,M,TICA,970181DB-7AA3-4AB3-8544-064CE14510C8,210419-1,"","","501","1838",gcc-31594
+gcc-19846,A,Compositae,,Gorteria,,"arachnoidea",,"","Hort.Angl. ex Steud.",Unresolved,,L,TICA,4741D88F-313E-4940-964A-24B5678B08BF,210420-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 702""","","702","1840",
+gcc-5337,A,Compositae,,Gorteria,,"araneosa",,"","Meerb.",Synonym,,M,TICA,D927EA28-59D4-436A-85D5-09F6CDD3944A,210421-1,"Afbeel. Gew.","","t. 40","1777",gcc-48477
+gcc-127083,A,Compositae,,Gorteria,,"asteroidea",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,A80A722B-524E-41DC-82A3-D6CDC5A9A0DB,210422-1,"""Index Linn. Herb. 82 (1912), nomen.""","","82","",
+gcc-38424,A,Compositae,,Gorteria,,"asteroides",,"","L.f.",Synonym,,M,TICA,9874A80D-AFB2-465D-91F9-474B3E9F3479,210423-1,"","","381","1782",gcc-123001
+gcc-94169,A,Compositae,,Gorteria,,"asteroites",,"","Steud.",Unresolved,,L,TICA,979E1514-3895-4B30-93A7-8C5ECCE0D720,210424-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 702""","","702","1840",
+gcc-1934,A,Compositae,,Gorteria,,"barbata",,"","L.f.",Synonym,,M,TICA,C8E935D0-42DA-47C7-940C-037DFF1A77BC,210425-1,"","","382","1782",gcc-81178
+gcc-15234,A,Compositae,,Gorteria,,"calendulacea",,"","DC.",Synonym,,M,TICA,A79834CF-5501-444E-8A3B-1C34A799BE80,210426-1,"","","501","1838",gcc-67417
+gcc-102936,A,Compositae,,Gorteria,,"carthamoides",,"","Lam.",Synonym,,M,TICA,E267FF18-5FB8-4D64-94B9-A0390B286D6B,210427-1,"","","3","1789",gcc-81178
+gcc-25676,A,Compositae,,Gorteria,,"cernua",,"","L.f.",Synonym,,M,TICA,7D7D140D-E54C-4DB4-9F4D-2F6F7A0A918B,210428-1,"","","383","1782",gcc-48477
+gcc-118320,A,Compositae,,Gorteria,,"ciliaris",,"","L.",Synonym,,M,TICA,5BCEEF2F-C0A0-44C8-9E00-C2AB4D1DE708,210429-1,"","","1284","1763",gcc-25897
+gcc-105309,A,Compositae,,Gorteria,,"ciliata",,"","Thunb.",Synonym,,M,TICA,3DCF2247-C6E5-4040-8FF0-A5507CCFA217,210430-1,"","","163","1800",gcc-25679
+gcc-2775,A,Compositae,,Gorteria,,"corymbosa",,"","DC.",Accepted,,M,TICA,A0E9EFA6-5AEF-4177-9538-051A0EF88BDA,210431-1,"","","501","1838",
+gcc-89469,A,Compositae,,Gorteria,,"cruciata",,"","Houtt.",Synonym,,M,TICA,84925B30-8308-4A13-8D2A-81C7400FB1F4,,"","","","",gcc-138357
+gcc-31594,A,Compositae,,Gorteria,,"diffusa",,"","Thunb.",Accepted,,M,TICA,80FF6BA5-AF65-4AAF-BF58-3A8EE5461062,,"","","","",
+gcc-47937,A,Compositae,,Gorteria,,"diffusa",var.,"calendulacea","(DC.) Roessler",Synonym,,L,TICA,289BA41A-7CCF-4229-BE99-58CAFCD6D82D,,"Mitt. Bot. Staatssamml. München 3: 327 (1959)","","327","1959",gcc-67417
+gcc-67417,A,Compositae,,Gorteria,,"diffusa",subsp.,"calendulacea","(DC.) Roessler",Accepted,,L,TICA,07117D63-E7D1-466E-96D3-D703038BE612,877312-1,"Mitt. Bot. Staatssamml. München 11: 93 (1973)","","93","1973",
+gcc-151322,A,Compositae,,Gorteria,,"diffusa",var.,"diffusa","",Synonym,,L,TICA,047F24ED-6F0E-48FA-9FC4-8220A29A0D54,,"","","","",gcc-31594
+gcc-67722,A,Compositae,,Gorteria,,"diffusa",subsp.,"diffusa","",Synonym,,L,TICA,B34058B2-53CB-4C55-84E1-D97998548FA4,,"","","","",gcc-31594
+gcc-8590,A,Compositae,,Gorteria,,"echinata",,"","Dryand.",Synonym,,M,TICA,9FC0A45F-9415-4C80-8724-1008E4FBCCF5,,"","","","1789",gcc-48477
+gcc-75722,A,Compositae,,Gorteria,,"fruticosa",,"","L.",Synonym,,M,TICA,90B154A6-DED7-4CC2-ABB3-631AD7D37E60,210435-1,"","","1284","1763",gcc-81178
+gcc-130897,A,Compositae,,Gorteria,,"herbacea",,"","L.f.",Synonym,,M,TICA,1E185D04-1328-433A-9375-DF99827ADB5C,210436-1,"","","381","1782",gcc-37031
+gcc-132260,A,Compositae,,Gorteria,,"heterophylla",,"","Willd.",Synonym,,M,TICA,2B8CEF88-A2AA-419A-9A2D-E2CCF3C957DC,,"","","","1809",gcc-43626
+gcc-138249,A,Compositae,,Gorteria,,"hispida",,"","L.f.",Synonym,,M,TICA,0526ADAE-FE21-40C6-9811-F03081EAEFFD,210438-1,"Suppl. Pl.: 382 (1782)","","382","1782",gcc-16509
+gcc-32203,A,Compositae,,Gorteria,,"hispida",,"","Linn.f",Unresolved,,L,TICA,6ECE0A97-E441-4BD9-B3FB-3BA7A7AE1364,,"Suppl. 382.","","382","",
+gcc-464,A,Compositae,,Gorteria,,"hispida",,"","Less.",Synonym,,M,TICA,C50C0940-87EB-490B-AB9D-00DE734993E9,210439-1,"","","55","1832",gcc-25294
+gcc-117066,A,Compositae,,Gorteria,,"ictinus",,"","Cass.",Synonym,,M,TICA,39F85543-D2A3-4B68-80E5-BFD34FD36C82,,"","","","1824",gcc-31594
+gcc-16544,A,Compositae,,Gorteria,,"ilicifolia",,"","Lam.",Synonym,,M,TICA,73CFDC3F-709B-4323-9362-1E9241A5DDEA,210441-1,"","","3","1789",gcc-123001
+gcc-100156,A,Compositae,,Gorteria,,"incisa",,"","Thunb.",Synonym,,M,TICA,DA857019-76F9-498C-A813-99F1B2D47E0A,210442-1,"","","162","1800",gcc-42970
+gcc-39909,A,Compositae,,Gorteria,,"integrifolia",,"","Thunb.",Synonym,,M,TICA,B1788FDC-D453-4DF3-BC59-4A1487E64CBB,210443-1,"","","163","1800",gcc-41161
+gcc-25690,A,Compositae,,Gorteria,,"linearis",,"","Thunb.",Synonym,,M,TICA,0C857162-7230-41AA-9D7D-2F75B4E7AC09,210444-1,"","","162","1800",gcc-85578
+gcc-139738,A,Compositae,,Gorteria,,"loureiroana",,"","DC.",Synonym,,L,TICA,79B0BFCF-0E1C-4F7B-9CCA-F369E863D600,210445-1,"","","501","1838",gcc-129270
+gcc-136239,A,Compositae,,Gorteria,,"lyrato-pinnatifida",,"","Poir.",Synonym,,M,TICA,69522D59-9B66-4D14-B468-EBC22A194AEE,210446-1,"","","819","1812",gcc-42970
+gcc-106318,A,Compositae,,Gorteria,,"mitis",,"","Burm.f.",Unresolved,,L,TICA,26AB003F-36EE-4C3C-99A4-A783027056B8,210447-1,"","","28","1768",gcc-114634
+gcc-126477,A,Compositae,,Gorteria,,"oppositifolia",,"","Lam.",Synonym,,M,TICA,3B147337-AF4F-4ACA-83E3-D56CC282E6AA,210448-1,"","","4","1789",gcc-16060
+gcc-107345,A,Compositae,,Gorteria,,"othonnites",,"","Thunb.",Synonym,,M,TICA,2E3655B8-8AE9-42D4-99AD-A9DFF6DCAC0F,210449-1,"","","163","",gcc-132460
+gcc-112817,A,Compositae,,Gorteria,,"ovata",,"","Vahl ex Less.",Synonym,,M,TICA,89D2EF5B-E79E-416B-8075-B64B3D339B91,210450-1,"","","375","1832",gcc-48548
+gcc-117664,A,Compositae,,Gorteria,,"pavonia",,"","Andrews",Synonym,,M,TICA,D900060A-D808-4081-9080-C12F688E724B,210451-1,"","","t. 523","1808",gcc-43626
+gcc-81217,A,Compositae,,Gorteria,,"pectinata",,"","Thunb.",Synonym,,M,TICA,80820D24-5DA2-4062-BB91-6F4E4F778089,210452-1,"","","162","",gcc-42970
+gcc-143375,A,Compositae,,Gorteria,,"personata",,"","Hill",Unresolved,,L,TICA,1038DAF0-0C80-45B8-A987-FBB8125F758B,210455-1,"Veg. Syst. ii. 81.","","ii. 81","",
+gcc-17101,A,Compositae,,Gorteria,,"personata",,"","E.Mey. ex DC.",Unresolved,,L,TICA,E978499A-0EB1-4289-9C28-1F9C7EEB9194,210453-1,"Prodr. (DC.) 7(1): 36","","36","1838",
+gcc-51316,A,Compositae,,Gorteria,,"personata",,"","L.",Accepted,,M,TICA,AA6E7F00-B54B-4F1E-8BB1-5F2E9FD78364,210454-1,"","","1229","1759",
+gcc-70451,A,Compositae,,Gorteria,,"personata",subsp.,"personata","",Synonym,,L,TICA,02A137B5-278A-4736-BB97-EE414246F82F,,"","","","",gcc-51316
+gcc-118616,A,Compositae,,Gorteria,,"pinnata",,"","Lam.",Unresolved,,L,TICA,353C7CC4-F6BA-497E-9CA6-C36188F0B12C,210457-1,"Encycl. (Lamarck) 3(1): 1","","1","1789",
+gcc-3693,A,Compositae,,Gorteria,,"pinnata",,"","Thunb.",Synonym,,M,TICA,E9CBD331-328D-4B4F-BD14-06D9FB0BA6B3,210456-1,"","","162","1800",gcc-42970
+gcc-113740,A,Compositae,,Gorteria,,"rigens",,"","(L.) L.",Synonym,,M,TICA,72E3A65C-6F94-4AEB-B7BE-B84D71564394,,"","","","1763",gcc-43626
+gcc-133902,A,Compositae,,Gorteria,,"rigens",,"","Thunb.",Synonym,,M,TICA,CE313CD9-74A5-4994-8EB7-E6960765F47B,210458-1,"","","698","1823",gcc-43626
+gcc-118203,A,Compositae,,Gorteria,,"rigida",,"","Banks ex DC.",Unresolved,,L,TICA,7FFBB2DC-FDB5-45B3-966E-C265A8C8A553,210460-1,"Prodr. (DC.) 6: 522","","522","1838",
+gcc-26300,A,Compositae,,Gorteria,,"rigida",,"","Banks ex Gaertn.",Synonym,,M,TICA,40E508D4-DF6C-48C4-9B55-309D7FEE2490,,"Fruct. Sem. Pl. 2: 439 (1791)","","439","1791",gcc-35353
+gcc-124198,A,Compositae,,Gorteria,,"setosa",,"","Lour.",Synonym,Illegitimate,L,TICA,BF478F70-B10B-45CB-BB0E-D0203582892F,210461-1,"","","507","1790",gcc-129270
+gcc-88631,A,Compositae,,Gorteria,,"setosa",,"","L.",Synonym,,M,TICA,2A5EC499-6D8C-408D-98D4-7FDACC0998DF,210462-1,"","","","1771",gcc-115341
+gcc-144630,A,Compositae,,Gorteria,,"speciosa",,"","(Willd.) Poir.",Synonym,,M,TICA,D002E968-047D-4EE7-8720-FE91C260B4AD,210463-1,"","","818","1812",gcc-42970
+gcc-107693,A,Compositae,,Gorteria,,"spectabilis",,"","Salisb.",Synonym,,M,TICA,CF8E4F78-8FAA-45F1-A66C-AAA92744E524,210464-1,"","","207","1796",gcc-43626
+gcc-4773,A,Compositae,,Gorteria,,"spinosa",,"","Jacq.",Synonym,,M,TICA,07DD0461-6014-4A8C-ABF1-08E2BB8A0BA1,,"","","","1798",gcc-13650
+gcc-86219,A,Compositae,,Gorteria,,"spinosa",,"","L.f.",Synonym,,M,TICA,C53E36E4-EA56-40C5-B8B7-7A713550ECCC,210466-1,"","","381","1782",gcc-116086
+gcc-21098,A,Compositae,,Gorteria,,"squarrosa",,"","P.J.Bergius",Synonym,,M,TICA,B8C2F0DB-3F5A-4522-9313-26F7266701D8,210468-1,"","","301","1767",gcc-137565
+gcc-4420,A,Compositae,,Gorteria,,"squarrosa",,"","L.",Synonym,,M,TICA,01BA990E-137B-4FB4-B11A-0838A13FEE19,210467-1,"","","23","1760",gcc-137565
+gcc-1912,A,Compositae,,Gorteria,,"tenuifolia",,"","Licht. ex Less.",Synonym,Illegitimate,M,TICA,BEBE1523-1739-42A5-993C-0372F577B78B,,"","","50","1832",gcc-135241
+gcc-111020,A,Compositae,,Gorteria,,"uniflora",,"","L.f.",Synonym,,M,TICA,CC8918E1-F3FB-4C17-A039-B2354EC09266,210469-1,"","","382","",gcc-43626

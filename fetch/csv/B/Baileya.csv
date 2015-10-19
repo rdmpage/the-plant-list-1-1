@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-110405,A,Compositae,,Baileya,,"australis",,"","Rydb.",Synonym,,M,TICA,CE617D23-751D-4D3F-AF25-B0CAB4808B1F,28744-2,"N. Amer. Fl. 34","","11","1914",gcc-7551
+gcc-7551,A,Compositae,,Baileya,,"multiradiata",,"","Harv. & A.Gray ex Torr.",Accepted,,M,TICA,05C6A2C2-1BE2-4792-B5ED-0E0316C41ECB,184007-1,"","","144","1848",
+tro-2700281,A,Compositae,,Baileya,,"multiradiata",,"","Harv. & A. Gray",Unresolved,,L,TRO,2700281,,"Mem. Amer. Acad. Arts, n.s.","4(1): 106","106","1849",
+gcc-27981,A,Compositae,,Baileya,,"multiradiata",var.,"multiradiata","",Synonym,,L,TICA,79E9AEEF-B933-49F2-B799-33B07B70063F,,"","","","",gcc-7551
+gcc-66101,A,Compositae,,Baileya,,"multiradiata",var.,"nudicaulis","A.Gray",Synonym,,L,TICA,4E374472-CE7C-4EA0-91E2-CC0154DACC78,311941-2,"","","318","1884",gcc-7551
+gcc-65121,A,Compositae,,Baileya,,"multiradiata",var.,"perennis","(A.Nelson) Kittell",Synonym,,L,TICA,77EF0369-EB74-4259-90A3-C40C00E0E6E8,28747-2,"","","457","1941",gcc-88949
+gcc-56526,A,Compositae,,Baileya,,"multiradiata",var.,"pleniradiata","Coville",Synonym,,L,TICA,B4699F2F-C540-4181-8BBE-7F4CA3BA60D2,1209370-2,"Contr. U. S. Natl. Herb. 4: 133. 1893","","133","1893",gcc-88949
+gcc-34260,A,Compositae,,Baileya,,"multiradiata",var.,"thurberi","(Rydb.) Kittell",Synonym,,L,TICA,A1427C5D-9387-4599-B264-3F81F6C71D70,28749-2,"","","457","1941",gcc-7551
+gcc-102732,A,Compositae,,Baileya,,"nervosa",,"","M.E.Jones",Synonym,,M,TICA,7A79B009-AD17-4DC0-8E35-9FCC2F9B7739,,"","","","1898",gcc-88949
+gcc-123935,A,Compositae,,Baileya,,"pauciradiata",,"","A.Gray",Accepted,,M,TICA,93E444B2-90B7-455F-8B86-CF8B525711A9,184009-1,"","","105","1849",
+gcc-128720,A,Compositae,,Baileya,,"perennis",,"","(A.Nelson) Rydb.",Synonym,,M,TICA,05331249-E8A1-4B43-85E1-DAAD1FC08A25,28751-2,"N. Amer. Fl. 34","","10","1914",gcc-88949
+gcc-27175,A,Compositae,,Baileya,,"pleniradiata",,"","(Harv. & A.Gray ex Torr.) Kearney",Unresolved,,L,TICA,B4C211F5-B855-4D2B-AE76-324353018565,,"","","","",
+gcc-88949,A,Compositae,,Baileya,,"pleniradiata",,"","Harv. & A.Gray ex A.Gray",Accepted,,L,TICA,941C6692-7416-4B93-B6D8-80919BB85D0E,,"","","105","1849",
+gcc-65695,A,Compositae,,Baileya,,"pleniradiata",var.,"perennis","A.Nelson",Synonym,,L,TICA,345B2A94-67DB-44A0-8D46-C8D5F2BD30C2,28754-2,"Bot. Gaz. 47","","431","1909",gcc-88949
+gcc-146807,A,Compositae,,Baileya,,"pleniradiata",var.,"pleniradiata","",Synonym,,L,TICA,5357E62E-DE98-475C-B7DC-20327902FCB3,,"","","","",gcc-88949
+gcc-148521,A,Compositae,,Baileya,,"pleniradiata",var.,"thurberi","Rydb.",Synonym,,L,TICA,EFC406FF-1D90-4D9C-B98E-44521ADE567D,28755-2,"N. Amer. Fl. 34","","10","1914",gcc-88949
+gcc-34537,A,Compositae,,Baileya,,"thurberi",,"","Rydb.",Synonym,,M,TICA,39498F72-CEF5-457E-AEEA-40043CEBA744,184012-1,"N. Amer. Fl. 34","","10","1914",gcc-7551

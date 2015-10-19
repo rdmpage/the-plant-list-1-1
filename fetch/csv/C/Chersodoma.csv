@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-125278,A,Compositae,,Chersodoma,,"antennaria",,"","(Wedd.) Cabrera",Accepted,,M,TICA,0E800D2A-2B49-4341-8E03-D2AC7EAC861D,192748-1,"""Revista Mus. La Plata, Secc. Bot. 6""","","352","1946",
+gcc-154050,A,Compositae,,Chersodoma,,"antennaria",var.,"antennaria","",Synonym,,L,TICA,0D69B9EA-5C33-4FAB-885D-BB3D704A60E6,,"","","","",gcc-125278
+gcc-14298,A,Compositae,,Chersodoma,,"antennaria",var.,"caulescens","(Wedd.) Cabrera",Synonym,,L,TICA,5C38F32E-CC60-486F-A7A4-1A873F4CF400,56278-2,"""Revista Mus. La Plata, Secc. Bot. 6: 352. 1947""","","352","1947",gcc-125278
+gcc-131430,A,Compositae,,Chersodoma,,"arequipensis",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,5D5FBDE9-9132-4DCF-A946-E0DAF4A92D15,56279-2,"Brittonia 12","","185","1960",
+gcc-122702,A,Compositae,,Chersodoma,,"argentina",,"","Cabrera",Accepted,,M,TICA,9004114E-F34B-45F4-9F5B-CC957008E7F1,,"""Revista Mus. La Plata, Secc. Bot. 6""","","","1946",
+gcc-101872,A,Compositae,,Chersodoma,,"candida",,"","Phil.",Accepted,,M,TICA,88ABB8A2-4CDB-4D46-AF03-9DBFD08D22D7,,"","","33","1891",
+gcc-106917,A,Compositae,,Chersodoma,,"deltoidea",,"","Sagást. & M.O.Dillon",Accepted,,L,TICA,97B35EAD-A24D-40CB-9D4D-A8E700BF5026,,"Brittonia 48","","598","1996",
+gcc-16364,A,Compositae,,Chersodoma,,"diclina",,"","(Wedd.) Cabrera",Synonym,,M,TICA,2ED4FE61-0F98-42A8-9EFA-1E3F621291D1,,"""Revista Mus. La Plata, Secc. Bot. 6""","","","1946",gcc-125278
+gcc-53027,A,Compositae,,Chersodoma,,"diclina",var.,"diclina","",Synonym,,L,TICA,FE2BFC91-2E5F-4AD6-8F72-62E97F575EB3,,"","","","",gcc-125278
+gcc-16644,A,Compositae,,Chersodoma,,"diclina",var.,"glabriuscula","(Cabrera) Cabrera",Synonym,,L,TICA,D572AF78-1B41-464C-BD5A-1EC0368A5CB2,,"""Revista Mus. La Plata, Secc. Bot. 6""","","355","1946",gcc-1406
+gcc-1406,A,Compositae,,Chersodoma,,"glabriuscula",,"","(Cabrera) M.O.Dillon & Sagást.",Accepted,,M,TICA,F1F7B9DF-DCDB-4408-B5AC-028942D62ACF,1200651-2,"Brittonia 48","","600","1996",
+gcc-102769,A,Compositae,,Chersodoma,,"jodopappa",,"","Cabrera",Accepted,,M,TICA,5B23AB63-D70A-4F93-87F4-9FE39736E040,192753-1,"""Revista Mus. La Plata, Secc. Bot. 6""","","350","1946",
+gcc-109176,A,Compositae,,Chersodoma,,"juanisernii",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,DD273675-2657-4A92-B23A-AE0CC997D21B,56285-2,"Brittonia 12","","183","1960",
+gcc-47650,A,Compositae,,Chersodoma,,"longipedicellata",,"","Ricardi & Martic.",Synonym,,M,TICA,723E85A5-8BB8-4BFC-B4E5-584B07490829,306987-2,"""Gayana, Bot. 11""","","3","1964",gcc-131430
+gcc-104289,A,Compositae,,Chersodoma,,"ovopedata",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,42156856-FBF6-4F8F-8A4A-A32D06544255,56286-2,"Brittonia 12","","185","1960",

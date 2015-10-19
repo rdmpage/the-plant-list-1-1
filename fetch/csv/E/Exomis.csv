@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2806306,A,Amaranthaceae,,Exomis,,"albicans",,"","Moq.",Unresolved,,L,WCSP (in review),,165602-1,"Prodr.","13(2): 89","","1849",
+tro-7200460,A,Amaranthaceae,,Exomis,,"atriplecoides",,"","Moq.",Synonym,,M,TRO,7200460,,"","","","",tro-7200457
+kew-2806307,A,Amaranthaceae,,Exomis,,"atriplicioides",,"","Moq.",Unresolved,,L,WCSP (in review),,165603-1,"Chenop. Monogr. Enum.","49","","1840",
+kew-2806308,A,Amaranthaceae,,Exomis,,"axyrioides",,"","Fenzl ex Moq.",Synonym,,M,WCSP (in review),,165604-1,"Chenop. Monogr. Enum.","49","","1840",kew-2806310
+tro-7200418,A,Amaranthaceae,,Exomis,,"axyrioides",,"","Drège",Synonym,,M,TRO,7200418,,"","","","",kew-2806310
+kew-2806309,A,Amaranthaceae,,Exomis,,"microphylla",,"","(Thunb.) Aellen",Accepted,,L,WCSP (in review),,165605-1,"Bot. Jahrb. Syst.","70: 375","","1939",
+kew-2806310,A,Amaranthaceae,,Exomis,,"microphylla",var.,"axyrioides","(Fenzl ex Moq.) Aellen",Accepted,,L,WCSP (in review),,,"Bot. Jahrb. Syst.","70: 375","","1939",
+tro-7200414,A,Amaranthaceae,,Exomis,,"microphylla",var.,"microphylla","",Synonym,,L,TRO,7200414,,"","","","",kew-2806309

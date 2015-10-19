@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-14201,A,Compositae,,Facelis,,"apiculata",,"","Cass.",Synonym,,L,TICA,90B03214-5D93-4D11-803B-1A57643EE90F,207621-1,"","","104","1820",gcc-116407
+gcc-12123,A,Compositae,,Facelis,,"brachyantha",,"","Macloskie",Unresolved,,L,TICA,BF5067C1-3041-42C0-AE45-169AEA1B89AB,102933-2,"""Rep. Princeton Univ. Exp. Patagonia, Botany 8: 813. 1906""","","813","1906",
+gcc-101806,A,Compositae,,Facelis,,"capillaris",,"","Rusby",Synonym,,L,TICA,8A051123-AA7E-41D0-B079-9D96BEAEF89F,102934-2,"Mem. Torrey Bot. Club 6","","62","1896",gcc-12723
+gcc-12723,A,Compositae,,Facelis,,"lasiocarpa",,"","(Griseb.) Cabrera",Unresolved,Illegitimate,L,TICA,EF6418F3-ED6A-4E8D-9A46-17B800707C68,102935-2,"","","280","1931",
+gcc-8764,A,Compositae,,Facelis,,"plumosa",,"","(Wedd.) Sch.Bip.",Accepted,,M,TICA,EEB9C26A-5F76-4902-BC09-10651590A07B,207624-1,"Linnaea 34","","532","1866",
+gcc-116407,A,Compositae,,Facelis,,"retusa",,"","(Lam.) Sch.Bip.",Accepted,,L,TICA,CAA6438A-5263-4BC6-BA49-BE5789B116A5,207625-1,"Linnaea 34: 532 (1866)","","532","1866",
+gcc-68311,A,Compositae,,Facelis,,"retusa",var.,"andicola","(Nees) Beauverd",Synonym,,L,TICA,420E1A18-C0E0-49E6-9539-DDD58681CEAF,,"","","214","1913",gcc-116407
+gcc-24527,A,Compositae,,Facelis,,"retusa",var.,"candelabrum","Beauverd",Synonym,,L,TICA,A4593D2F-48A7-4A75-9311-2D48EBBB8EEA,,"","","215","1913",gcc-116407
+gcc-154990,A,Compositae,,Facelis,,"retusa",var.,"chilensis","(Fisch. & Meyer) Baker",Synonym,,L,TICA,113D3663-67B4-4B89-84AF-CEDA11664324,,"","","","",gcc-116407
+gcc-73756,A,Compositae,,Facelis,,"retusa",f.,"congesta","Beauverd",Synonym,,L,TICA,1A489155-9E7F-4E45-BED3-25DD25EC6FE9,,"","","215","1913",gcc-116407
+gcc-74149,A,Compositae,,Facelis,,"retusa",f.,"gigantea","Beauverd",Synonym,,L,TICA,41FDEA1D-13EC-4874-9917-35A192DF8C7F,,"","","214","1913",gcc-116407
+gcc-104126,A,Compositae,,Facelis,,"retusa",f.,"laxa","Beauverd",Synonym,,L,TICA,55D250A4-3E43-491D-A388-A2D293235417,,"","","215","1913",gcc-116407
+gcc-86308,A,Compositae,,Facelis,,"retusa",f.,"nana","Beauverd",Synonym,,L,TICA,62B8ED0A-4B45-4347-862D-7AA067DD9F97,,"""Bull. Soc. Bot. Genève Ser. 2, 5""","","214","1913",gcc-116407
+gcc-3334,A,Compositae,,Facelis,,"retusa",subsp.,"patula","Beauverd",Synonym,,L,TICA,F42DF5EF-301F-4E52-9F33-0628F5E57363,,"","","216","1913",gcc-116407
+gcc-57528,A,Compositae,,Facelis,,"retusa",var.,"patula","Beauverd",Synonym,,L,TICA,9FBD0318-C59D-49A4-9EFF-8707D5E9500E,,"","","216","1913",gcc-116407
+gcc-118959,A,Compositae,,Facelis,,"retusa",f.,"planifolia","Beauverd",Synonym,,L,TICA,65C51750-2371-4564-B1B3-C429B25ED10E,,"","","216","1913",gcc-116407
+gcc-151822,A,Compositae,,Facelis,,"retusa",f.,"retusa","",Synonym,,L,TICA,982EB561-B609-4ED0-990C-8CE3E837BEE3,,"","","","",gcc-116407
+gcc-49847,A,Compositae,,Facelis,,"retusa",var.,"retusa","",Synonym,,L,TICA,F873D1C7-334E-45A6-ADA6-5C68E2463ACC,,"","","","",gcc-116407
+gcc-82246,A,Compositae,,Facelis,,"schultziana",,"","Beauverd",Synonym,,L,TICA,17BA6109-4444-4730-8D86-719C6CD5BD31,207626-1,"","","219","1913",gcc-12723
+gcc-154249,A,Compositae,,Facelis,,"schultziana",f.,"basilaria","Beauverd",Synonym,,L,TICA,3D4F9CEB-A691-4E0C-A4AA-BFA16DE2022A,,"","","219","1913",gcc-12723
+gcc-153371,A,Compositae,,Facelis,,"schultziana",f.,"caulina","Beauverd",Synonym,,L,TICA,DF138E61-DFD3-46B3-A200-ACDBE3A69329,,"","","219","1913",gcc-12723
+gcc-150511,A,Compositae,,Facelis,,"schultziana",f.,"schultziana","",Synonym,,L,TICA,52FBBEE2-9BD4-419E-9E87-705E6625FD64,,"","","","",gcc-12723
+gcc-152004,A,Compositae,,Facelis,,"schultziana",f.,"superiora","Beauverd",Synonym,,L,TICA,DCBC757C-CEE4-439F-B2CF-904F77A5665E,,"","","219","1913",gcc-12723
+gcc-125846,A,Compositae,,Facelis,,"weddelliana",,"","Beauverd",Synonym,Illegitimate,M,TICA,4FD39D3D-C5A4-48B4-9FA3-D402EDFBC8D1,207627-1,"","","217","1913",gcc-8764

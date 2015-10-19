@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-20166,A,Compositae,,Aplotaxis,,"albescens",,"","DC.",Synonym,,M,TICA,87F6FF9E-4E07-4001-B4CF-2544F46DA18D,178144-1,"","","540","1838",gcc-119948
+gcc-78431,A,Compositae,,Aplotaxis,,"andryaloides",,"","DC.",Synonym,,M,TICA,866A21F0-BE09-4ED4-B352-6921F2314DD8,178145-1,"","","542","1838",gcc-28570
+gcc-143606,A,Compositae,,Aplotaxis,,"approximata",,"","Schischk. & Serg.",Synonym,,M,TICA,737D5BCA-B743-406D-B5D2-FC4787D35215,,"","","","1944",gcc-23208
+gcc-133453,A,Compositae,,Aplotaxis,,"auriculata",,"","DC.",Unresolved,,L,TICA,EF089B17-E895-4A32-A712-E58754DA2A44,178147-1,"","","541","1838",
+gcc-8817,A,Compositae,,Aplotaxis,,"australasica",,"","F.Muell.",Synonym,,M,TICA,EC393171-8780-456B-B2D6-1083E34D3D5E,178148-1,"","","36","1858",gcc-90929
+gcc-10450,A,Compositae,,Aplotaxis,,"bungei",,"","Less. ex Ledeb.",Synonym,,M,TICA,A882CD0D-CB6D-4013-974E-137C545411E1,,"","","","1846",gcc-24995
+gcc-137645,A,Compositae,,Aplotaxis,,"bungei",,"","DC.",Synonym,,M,TICA,64F31D4F-9CC9-4C98-A1D8-EEE1BC3CC5EF,178150-1,"","","539","1838",gcc-141277
+gcc-125847,A,Compositae,,Aplotaxis,,"caespitosa",,"","DC.",Synonym,,M,TICA,C5902C46-90DB-4D82-A1D6-D40365241E48,178151-1,"","","539","1838",gcc-124483
+gcc-93224,A,Compositae,,Aplotaxis,,"candicans",,"","DC.",Synonym,,M,TICA,C27517E5-8DF6-48BB-B8C7-8A44ABFC8DE7,178152-1,"","","540","1838",gcc-124019
+gcc-3914,A,Compositae,,Aplotaxis,,"candolleana",,"","DC.",Synonym,,M,TICA,F60B8F35-C7DE-4915-B9A5-07451D6D00F6,178153-1,"","","541","1838",gcc-80260
+gcc-747,A,Compositae,,Aplotaxis,,"carthamoides",,"","Ham.",Unresolved,,L,TICA,1E30B28E-FC84-432A-943E-01656F57AF8E,178154-1,"Prodr. (DC.) 6: 540","","540","1838",
+gcc-83492,A,Compositae,,Aplotaxis,,"carthamoides",,"","Ham. ex DC.",Synonym,,M,TICA,2EA6EE82-D981-405F-93BC-746D27F9AE68,,"Prodr. 6: 540 (1838)","","540","",gcc-141277
+tro-50045012,A,Compositae,,Aplotaxis,,"circioides",,"","DC.",Synonym,,M,TRO,50045012,,"Prodr.","6: 540","540","1837",tro-100376145
+gcc-142384,A,Compositae,,Aplotaxis,,"cirsoides",,"","DC.",Synonym,,M,TICA,306FE631-1FBB-4D60-AD33-F97A27713C1F,178155-1,"","","540","1838",gcc-132795
+gcc-20617,A,Compositae,,Aplotaxis,,"deltoidea",,"","DC.",Synonym,,M,TICA,2009D6D8-CED4-44E6-B36A-262988B67DED,178156-1,"","","541","1838",gcc-133334
+gcc-82681,A,Compositae,,Aplotaxis,,"denticulata",,"","(Wall. ex C.B.Clarke) DC.",Synonym,,M,TICA,270339CA-5D50-4190-BD01-7296B4C10D94,178157-1,"","","539","1838",gcc-102279
+gcc-149685,A,Compositae,,Aplotaxis,,"denticulata",var.,"denticulata","",Synonym,,L,TICA,F1C5D427-E68F-4BE1-8369-5E1A5C882FD8,,"","","","",gcc-102279
+gcc-60600,A,Compositae,,Aplotaxis,,"denticulata",var.,"glabrata","DC.",Synonym,,L,TICA,9F6BDF1D-AA17-407B-9F31-9F95CF3B4BE7,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","540","1838",gcc-79649
+gcc-17685,A,Compositae,,Aplotaxis,,"denticulata",var.,"hypoleuca","DC.",Synonym,,L,TICA,6C135C84-6D4B-47E3-BC74-20A3AD241F3A,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","540","1838",gcc-102279
+gcc-30918,A,Compositae,,Aplotaxis,,"discolor",,"","DC.",Synonym,,M,TICA,573F5B2E-9B1B-44FA-8EBB-393DD8138079,178158-1,"","","541","1838",gcc-99697
+gcc-77374,A,Compositae,,Aplotaxis,,"fastuosa",,"","Decne.",Synonym,,M,TICA,6CC1FA58-4935-46AC-91D6-66B9BB697384,,"","","","1844",gcc-102279
+gcc-119216,A,Compositae,,Aplotaxis,,"foliosa",,"","Edgew.",Synonym,,M,TICA,8A7B7CB6-F394-420D-843A-C4AB70F342B3,178160-1,"","","77","1846",gcc-77510
+gcc-99883,A,Compositae,,Aplotaxis,,"frolovii",,"","(Ledeb.) DC.",Synonym,,M,TICA,9B394A84-0176-49D6-A809-995AB94D0E7A,178161-1,"","","538","1838",gcc-117532
+gcc-139258,A,Compositae,,Aplotaxis,,"gnaphalodes",,"","Royle",Synonym,,M,TICA,CE53E802-8781-4480-B55A-F259611B2AFB,,"","","251","1835",gcc-84711
+gcc-149961,A,Compositae,,Aplotaxis,,"gnaphalodes",,"","Royle ex DC.",Synonym,,M,TICA,6F02A2E0-9BDA-4CE4-90F1-6406C8429903,,"Prodr. (DC.) 6: 542. 1838","","542","1838",gcc-84711
+gcc-131971,A,Compositae,,Aplotaxis,,"gossypina",,"","DC.",Synonym,,M,TICA,9851DC5C-61B4-4548-9C37-E228034F84D7,178163-1,"","","541","1838",gcc-101254
+gcc-153454,A,Compositae,,Aplotaxis,,"gossypina",var.,"gossypina","",Synonym,,L,TICA,0A40F89B-AE29-432D-B4FA-AED423B18A8A,,"","","","",gcc-101254
+gcc-65256,A,Compositae,,Aplotaxis,,"gossypina",var.,"minor","DC.",Synonym,,L,TICA,0E86BEAF-1B50-4C0A-BD7F-C54FB0948C02,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","542","1838",gcc-81165
+gcc-80118,A,Compositae,,Aplotaxis,,"involucrata",,"","Kar. & Kir.",Synonym,,L,TICA,616AC451-1F8F-4145-942A-6CEA8EB598CF,178164-1,"","","389","1842",gcc-17806
+gcc-25202,A,Compositae,,Aplotaxis,,"jacea",,"","Klotzsch",Synonym,,M,TICA,1DA09887-C33E-4A34-A346-2E88CE37B32E,,"","","","1862",gcc-28390
+gcc-98341,A,Compositae,,Aplotaxis,,"lappa",,"","Decne.",Synonym,,M,TICA,F7ABE2B8-D4EA-4638-A8A9-95E0D465027A,,"","","","1843",gcc-142953
+gcc-131123,A,Compositae,,Aplotaxis,,"leontodontoides",,"","DC.",Synonym,,M,TICA,940E58AF-2A96-4553-A645-E02A148545C1,,"","","539","1838",gcc-78312
+gcc-87257,A,Compositae,,Aplotaxis,,"multicaulis",,"","DC.",Synonym,,M,TICA,0988C507-3336-471E-9AA3-7CE02AAF18D6,,"","","","1840",gcc-90929
+gcc-90733,A,Compositae,,Aplotaxis,,"nepalensis",,"","(Spreng.) DC.",Synonym,,L,TICA,CC28E3AE-7F37-48F7-BDCD-84C67A2CD7A0,,"","","539","1838",gcc-17600
+gcc-18105,A,Compositae,,Aplotaxis,,"nivea",,"","Wall. ex DC.",Synonym,,M,TICA,D0388051-1D93-4867-A285-216F3E397E5C,178170-1,"","","541","1838",gcc-51477
+gcc-110800,A,Compositae,,Aplotaxis,,"obvallata",,"","DC.",Synonym,,M,TICA,9DC3D769-7CA1-481E-B304-B1BA015BD5B9,,"","","541","1838",gcc-108044
+gcc-136247,A,Compositae,,Aplotaxis,,"pungens",,"","DC.",Synonym,,M,TICA,54D13742-19A2-4474-AD0E-EBC8A41FE08A,178172-1,"","","539","1838",gcc-31659
+gcc-139640,A,Compositae,,Aplotaxis,,"roylei",,"","DC.",Synonym,,M,TICA,BD945171-240E-40A3-BF2C-F32BB1D516E0,178173-1,"","","538","1838",gcc-115272
+gcc-94931,A,Compositae,,Aplotaxis,,"scaposa",,"","Edgew.",Synonym,,M,TICA,A75E0690-FDA2-43FD-BC5F-8E2740131D0F,178174-1,"","","76","1846",gcc-124019
+gcc-36616,A,Compositae,,Aplotaxis,,"simpsoniana",,"","Fielding & Gardner",Synonym,,M,TICA,EF5E91BF-43A2-4748-A2A9-43E3CF255134,178175-1,"","","t. 26","1844",gcc-81165
+gcc-107260,A,Compositae,,Aplotaxis,,"sorocephala",,"","Schrenk",Synonym,,M,TICA,17F97504-E902-4BC2-A5AA-A9ABFDB9AAA1,178176-1,"","","43","1841",gcc-84711
+gcc-3278,A,Compositae,,Aplotaxis,,"taraxacifolia",,"","DC.",Synonym,,M,TICA,18A44F56-0BA9-4AC9-BEFF-060D045B3C6C,178177-1,"","","532","1838",gcc-124483
+gcc-114680,A,Compositae,,Aplotaxis,,"uniflora",,"","DC.",Synonym,,M,TICA,6C947E20-80B8-46CB-B32C-BA6B79747887,178178-1,"","","539","1838",gcc-141373

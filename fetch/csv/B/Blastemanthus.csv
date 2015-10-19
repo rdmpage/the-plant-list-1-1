@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2677147,A,Ochnaceae,,Blastemanthus,,"densiflorus",,"","Hallier f.",Synonym,,M,WCSP (in review),,33467-2,"Recueil Trav. Bot. Néerl.","10: 354","","1913",kew-2873147
+kew-2677148,A,Ochnaceae,,Blastemanthus,,"gemmiflorus",,"","(Mart.) Planch.",Accepted,,M,WCSP (in review),,605802-1,"London J. Bot.","5: 645","","1846",
+tro-50336532,A,Ochnaceae,,Blastemanthus,,"gemmiflorus",subsp.,"gemmiflorus","",Synonym,,L,TRO,50336532,,"","","","",kew-2677148
+kew-2873147,A,Ochnaceae,,Blastemanthus,,"gemmiflorus",subsp.,"sprucei","(Tiegh.) Sastre",Accepted,,L,WCSP (in review),,,"Mém. Soc. Biogéogr.","IV, 3: 7","","1994",
+kew-2677149,A,Ochnaceae,,Blastemanthus,,"grandiflorus",,"","Spruce ex Engl.",Accepted,,M,WCSP (in review),,605803-1,"Fl. Bras.","12(2): 355","","1876",
+tro-22800004,A,Ochnaceae,,Blastemanthus,,"grandiflorus",,"","Spruce",Unresolved,,L,TRO,22800004,,"","","","",
+kew-2677150,A,Ochnaceae,,Blastemanthus,,"paniculatus",,"","Tiegh.",Synonym,,M,WCSP (in review),,33468-2,"Ann. Sci. Nat., Bot.","VIII, 19: 68","","1904",kew-2677148
+kew-2677151,A,Ochnaceae,,Blastemanthus,,"sprucei",,"","Tiegh.",Synonym,,M,WCSP (in review),,33469-2,"Ann. Sci. Nat., Bot.","VIII, 19: 68","","1904",kew-2873147

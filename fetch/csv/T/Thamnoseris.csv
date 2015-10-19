@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-148926,A,Compositae,,Thamnoseris,,"lacerata",,"","(Phil.) F.Phil.",Accepted,,M,TICA,29E4EDED-2058-4BD9-87C3-4DF61844256F,255457-1,"Anales Univ. Chile (1875) 191","","191","1875",
+gcc-85176,A,Compositae,,Thamnoseris,,"lacerata",f.,"lacerata","",Synonym,,L,TICA,CFB8798D-7335-4B49-A062-781BF5A6ABEC,,"Anales Univ. Chile 47: 190 (1875)","","190","1875",gcc-148926
+gcc-140135,A,Compositae,,Thamnoseris,,"lobata",,"","I.M.Johnst.",Synonym,,M,TICA,99F2BA7D-9780-445F-BC54-F44ACE3B9FE2,250905-2,"","","445","1935",gcc-148926

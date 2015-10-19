@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-31659,A,Leguminosae,,Parochetus,,"africanus",,"","Polhill",Accepted,,H,ILDIS,31659,,"","","","",
+ild-8010,A,Leguminosae,,Parochetus,,"communis",,"","D.Don",Accepted,,H,ILDIS,8010,,"","","","",
+ild-8011,A,Leguminosae,,Parochetus,,"communis",var.,"grossecrenatus","Cufod.",Synonym,,L,ILDIS,8011,,"","","","",ild-31659
+ild-47117,A,Leguminosae,,Parochetus,,"maculata",,"","R.Br.",Synonym,,H,ILDIS,47117,,"","","","",ild-8010
+tro-13054225,A,Leguminosae,,Parochetus,,"maculata",,"","Bennett",Synonym,,M,TRO,13054225,,"Pl. Jav. Rar.","1: 162","162","1840",ild-8010
+ild-8012,A,Leguminosae,,Parochetus,,"major",,"","D.Don",Synonym,,H,ILDIS,8012,,"","","","",ild-8010
+ild-45627,A,Leguminosae,,Parochetus,,"oxalidifolius",,"","Royle",Synonym,,H,ILDIS,45627,,"","","","",ild-8010

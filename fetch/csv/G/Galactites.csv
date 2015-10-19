@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-131400,A,Compositae,,Galactites,,"australis",,"","Sweet ex Steud.",Unresolved,,L,TICA,532AAD91-FD29-4DD1-9FC3-E0CBC9619464,59399-3,"","","","1840",
+gcc-109757,A,Compositae,,Galactites,,"duriaei",,"","Spach ex Durieu",Accepted,,M,TICA,21D0EC5A-5D2B-4277-9614-AF668EA07CFA,,"in Duch. Rev. Bot. i. (1845) 363.","","363","1845",
+gcc-100107,A,Compositae,,Galactites,,"elegans",,"","Nyman",Unresolved,,L,TICA,11ED4176-ECEE-40D9-9B84-99D7CA11DAF3,,"Consp. 411.","","411","",
+gcc-131160,A,Compositae,,Galactites,,"elegans",,"","(All.) Nyman ex Soldano",Synonym,,M,TICA,198A37E2-BD22-4143-B21A-E03EE77AF41A,962787-1,"","","249","1991",gcc-10499
+gcc-23242,A,Compositae,,Galactites,,"flavospinosa",,"","Klatt",Unresolved,,L,TICA,81E25ACA-AC91-46AA-B928-2B035485642A,,"","","","1889",
+gcc-8721,A,Compositae,,Galactites,,"galactites",,"","(L.) Druce",Synonym,Illegitimate,M,TICA,EE71F198-EEA5-4899-8EF1-104D2D7801EE,208404-1,"","","917","1929",gcc-10499
+gcc-133053,A,Compositae,,Galactites,,"ludovicae",,"","Bertrand",Unresolved,,L,TICA,776EABAB-5A40-4346-9CA4-E4A47CFF51B5,,"","","","1911",
+gcc-38208,A,Compositae,,Galactites,×,"ludoviciae",,"","Bertram",Unresolved,,L,TICA,7F29E666-0F83-4B89-A80B-46DFA769A977,,"","","","",gcc-140361
+gcc-34764,A,Compositae,,Galactites,,"mutabilis",,"","Durieu",Accepted,,M,TICA,BD6A51A6-B48C-4D04-918D-407301564B9F,,"","","362","",
+gcc-77385,A,Compositae,,Galactites,,"pumilus",,"","Porta",Synonym,,M,TICA,58392753-E029-4826-9964-66C51C527668,,"","","39","1892",gcc-10499
+gcc-30101,A,Compositae,,Galactites,,"pyracantha",,"","Durieu ex Willk. & Lange",Synonym,,M,TICA,5084C4AD-8E6F-4452-B338-37B8D85BE869,208408-1,"","","200","1865",gcc-109757
+gcc-38980,A,Compositae,,Galactites,,"pyracantha",,"","Durieu",Synonym,,M,TICA,3D3EDB77-4B1A-4114-B234-48516588E18B,,"","","","",gcc-109757
+gcc-41624,A,Compositae,,Galactites,,"rigualii",,"","""Figuerola, Stübing & Peris""",Accepted,,M,TICA,1A2256E5-9522-49F4-A39E-4D12FB436C4A,958426-1,"Anales Jard. Bot. Madrid 47: 252 (1989 publ. 1990)","","252","1990",
+gcc-145028,A,Compositae,,Galactites,,"souliei",,"","Sennen & Pau",Unresolved,,L,TICA,94ECE8CF-470D-4E2C-84DA-FF7E0790371D,,"","","","1911",
+gcc-10499,A,Compositae,,Galactites,,"tomentosa",,"","Moench",Accepted,,M,TICA,24523667-C9B3-49B3-86E2-13987279129C,,"","","558","1794",
+gcc-54303,A,Compositae,,Galactites,,"tomentosa",var.,"elegans","(All.) DC.",Synonym,,L,TICA,E0AE2601-1BD1-4A0F-B3F5-6CEF14037D8D,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","616-617","1838",gcc-10499
+gcc-73085,A,Compositae,,Galactites,,"tomentosa",f.,"rosea","Briq. & Cavill.",Synonym,,L,TICA,8EA182D3-3BD4-45D2-83AA-0CB7570FC530,,"Fl. Alpes Marit. 7: 5 (1931)","","5","1931",gcc-10499
+gcc-146801,A,Compositae,,Galactites,,"tomentosa",f.,"tomentosa","",Synonym,,L,TICA,036F9824-096E-4393-AFE4-200F6A8433CD,,"","","","",gcc-10499
+gcc-42137,A,Compositae,,Galactites,,"tomentosa",var.,"tomentosa","",Synonym,,L,TICA,8C939E93-3C24-43C4-9D53-4E1069A4A97D,,"","","","",gcc-10499

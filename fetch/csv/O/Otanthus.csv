@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115035,A,Compositae,,Otanthus,,"maritimum",,"","L.",Unresolved,,L,TICA,0328E9E1-B04C-45C9-97F8-BB37B6B9C715,,"","","","",
+gcc-49688,A,Compositae,,Otanthus,,"maritimus",,"","(L.) Hoffmanns. & Link",Accepted,,L,TICA,795F4F40-A41A-4C95-A914-5C1E39B1D3A5,235927-1,"Fl. Port. ii. 865 (1809).","","","1809",
+gcc-55992,A,Compositae,,Otanthus,,"maritimus",subsp.,"atlanticus","Chrtek & B.Slavík",Synonym,,L,TICA,6AA6F8E7-D62C-4C88-B3E3-7AC8102D83DD,973612-1,"","","244","1993",gcc-59186
+gcc-146948,A,Compositae,,Otanthus,,"maritimus",subsp.,"maritimus","",Synonym,,L,TICA,E9BBD3B9-2A82-4B63-B6E6-2352957BE31A,,"","","","",gcc-49688

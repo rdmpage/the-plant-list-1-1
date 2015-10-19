@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-8335,A,Leguminosae,,Calicotome,,"fontanesii",,"","Rothm.",Synonym,,H,ILDIS,8335,,"","","","",ild-8334
+tro-13075745,A,Leguminosae,,Calicotome,,"hispanica",,"","Rouy",Synonym,,M,TRO,13075745,,"Bull. Soc. Bot. France","37: 162","162","1890",tro-13075746
+ild-8329,A,Leguminosae,,Calicotome,,"infesta",,"","(C.Presl) Guss.",Accepted,,H,ILDIS,8329,,"","","","",
+ild-8330,A,Leguminosae,,Calicotome,,"infesta",subsp.,"infesta","",Synonym,,L,ILDIS,8330,,"","","","",ild-8329
+ild-8331,A,Leguminosae,,Calicotome,,"infesta",subsp.,"intermedia","(C.Presl) Greuter",Accepted,,L,ILDIS,8331,,"","","","",
+tro-13075701,A,Leguminosae,,Calicotome,,"intermedia",,"","C. Presl",Synonym,,M,TRO,13075701,,"Abh. Königl. Böhm. Ges. Wiss.","3: 481","481","1845",ild-8331
+tro-13075732,A,Leguminosae,,Calicotome,,"ligustica",,"","(Burnat) Fiori",Accepted,,M,TRO,13075732,,"Fl. Italia","exsicc. no. 583","","1907",
+ild-31723,A,Leguminosae,,Calicotome,,"rigida",,"","(Viv.) Maire & Weiller",Accepted,,H,ILDIS,31723,,"","","","",
+ild-8334,A,Leguminosae,,Calicotome,,"spinosa",,"","(L.) Link",Accepted,,H,ILDIS,8334,,"","","","",
+tro-13075746,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"hispanica","(Rouy) Rouy",Accepted,,L,TRO,13075746,,"Fl. France","4: 248","248","1897",
+tro-13075741,A,Leguminosae,,Calicotome,,"spinosa",var.,"infesta","(C. Presl) Arcang.",Synonym,,L,TRO,13075741,,"Comp. Fl. Ital.","148","148","1882",tro-13075742
+tro-13075742,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"infesta","(C. Presl) Rouy",Accepted,,L,TRO,13075742,,"Fl. France","4: 248","248","1897",
+ild-31706,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"ligustica","Burnat",Accepted,,L,ILDIS,31706,,"","","","",
+ild-32059,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"lingustica","Burnat",Synonym,Spelling variant,L,ILDIS,32059,,"","","","",ild-31706
+ild-31724,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"rigida","(Viv.) Maire",Synonym,,L,ILDIS,31724,,"","","","",ild-31723
+ild-9177,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"spinosa","",Synonym,,L,ILDIS,9177,,"","","","",ild-8334
+tro-13075735,A,Leguminosae,,Calicotome,,"spinosa",subsp.,"villosa","(Poir.) Rouy",Synonym,,L,TRO,13075735,,"Fl. France","4: 249","249","1897",tro-13075736
+tro-13075736,A,Leguminosae,,Calicotome,,"spinosa",var.,"villosa","(Poir.) Fiori & Paoletti",Accepted,,L,TRO,13075736,,"Fl. Italia","2: 23","23","1900",
+ild-8336,A,Leguminosae,,Calicotome,,"villosa",,"","(Poir.) Link",Accepted,,H,ILDIS,8336,,"","","","",
+tro-13075738,A,Leguminosae,,Calicotome,,"villosa",var.,"cretica","Rothm.",Accepted,,L,TRO,13075738,,"Bot. Jahrb. Syst.","72: 284","284","1949",
+ild-8332,A,Leguminosae,,Calicotome,,"villosa",subsp.,"intermedia","(C.Presl) Quezel & Santa",Synonym,,L,ILDIS,8332,,"","","","",ild-8331
+ild-8333,A,Leguminosae,,Calicotome,,"villosa",var.,"intermedia","(C.Presl) Ball",Synonym,,L,ILDIS,8333,,"","","","",ild-8331
+ild-31726,A,Leguminosae,,Calicotome,,"villosa",var.,"rigida","(Viv.) Beg. & A.Vacc.",Synonym,,L,ILDIS,31726,,"","","","",ild-31723
+tro-13075743,A,Leguminosae,,Calicotome,,"villosa",var.,"rigida","(Viv.) Beguinot & Vaccari",Synonym,,L,TRO,13075743,,"Contr. Fl. Libia, Minist. Aff. Est. Monogr. Rapp. Col.","16: 47","47","1912",ild-31723

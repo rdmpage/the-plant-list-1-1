@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-46209,A,Compositae,,Solenogyne,,"bellidioides",,"","Cass.",Unresolved,,L,TICA,5AAD9725-DCC8-4A41-81D1-55A784DA2C6B,,"in Dict. Sci. Nat. lvi. 175 (1828).","","lvi. 175","1828",
+gcc-117879,A,Compositae,,Solenogyne,,"bellioides",,"","Cass.",Accepted,,M,TICA,055BA0DC-AAB0-451F-AB84-C1A3DB335948,249369-1,"Dictionnaire des Sciences Naturelles 56 1828","","56","1828",
+gcc-135221,A,Compositae,,Solenogyne,,"bellioides",,"","Sond.",Unresolved,,L,TICA,2D2E71CA-43B1-4F8C-B82A-E9800DA1D18B,249370-1,"Linnaea 25: 480. 1853","","480","1853",
+gcc-151302,A,Compositae,,Solenogyne,,"bellioides",var.,"bellioides","",Synonym,,L,TICA,554DA926-F79E-499D-A33A-81AE114A8973,,"","","","",gcc-117879
+gcc-5613,A,Compositae,,Solenogyne,,"bellioides",var.,"gunnii","(Hook.f.) G.L.Davis",Unresolved,,L,TICA,B9B36B99-DE72-4677-839B-0A7A98D6532B,82261-3,"","","","",gcc-129062
+gcc-40874,A,Compositae,,Solenogyne,,"brachycomoides",,"","F.Muell.",Unresolved,,L,TICA,5D13BEAE-CC00-42A2-B626-4BC0C9FB5191,82314-3,"","","","1865",
+gcc-22261,A,Compositae,,Solenogyne,,"dominii",,"","L.G.Adams",Accepted,,M,TICA,68BA3824-CD3F-43AF-81DB-292DB1D8A5ED,249372-1,"","","58","1979",
+gcc-10923,A,Compositae,,Solenogyne,,"emphysopus",,"","(Hook.f.) F.Muell.",Unresolved,,L,TICA,12E0F5D3-6251-4365-A77F-146D4D274FFB,82340-3,"","","","1888",
+gcc-5672,A,Compositae,,Solenogyne,,"emphysopus",,"","Tate",Synonym,,M,TICA,0116498A-50AB-470A-B3CD-0A8F119E3E23,,"","","","",gcc-22261
+gcc-129062,A,Compositae,,Solenogyne,,"gunnii",,"","(Hook.f.) Cabrera",Accepted,,M,TICA,37AB56B7-2B1A-49A3-98B3-DB6DA35791C2,82367-3,"Blumea","","307","1966",
+gcc-1509,A,Compositae,,Solenogyne,,"japonensis",,"","Masam.",Unresolved,,L,TICA,9D578DFF-9EC1-4E23-B30D-02BAC7D7E969,,"""Prelim. Rep. Veg. Yakus. 129 (1929); Masamune in Mem. Fac. Sc. & Agric. TaihokuImp. Univ. xi., Bot. No. 4, 441 (1934), in syn.""","","129","1929",
+gcc-36335,A,Compositae,,Solenogyne,,"mikadoi",,"","(Koidz.) Koidz.",Synonym,,M,TICA,422C3808-3CD5-4EB3-A007-43614FF9AE84,249376-1,"","","17","1928",gcc-19944

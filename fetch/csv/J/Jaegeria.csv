@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-77586,A,Compositae,,Jaegeria,,"abyssinica",,"","(L.f.) Spreng.",Synonym,,L,TICA,30B9E6A8-6375-47B6-A4D4-67332832401D,226684-1,"","","590","1826",gcc-51338
+gcc-125641,A,Compositae,,Jaegeria,,"axillaris",,"","S.F.Blake",Accepted,,M,TICA,F59C288F-65D8-42BD-A98F-D380B50E13A0,131288-2,"","","215","1926",
+gcc-48420,A,Compositae,,Jaegeria,,"bellidiflora",,"","(Moc. & Sessé ex DC.) A.M.Torres & Beaman",Accepted,,M,TICA,08191E5F-BA4E-4966-BFB7-59B512360FED,131289-2,"","","156","1964",
+gcc-7735,A,Compositae,,Jaegeria,,"bellidioides",,"","Spreng.",Synonym,,M,TICA,40FFCF14-CF11-4524-B112-0E5D1DE43BBD,226687-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 591","","591","1826",gcc-115950
+gcc-118585,A,Compositae,,Jaegeria,,"calendulacea",,"","(L.) Spreng.",Synonym,,M,TICA,2A031462-BD15-4AB4-ACD8-C35018C361B2,,"","","590","1826",gcc-29252
+gcc-36261,A,Compositae,,Jaegeria,,"crassa",,"","A.M.Torres",Synonym,,M,TICA,09152199-8912-4581-A9F1-433DF303EEA9,,"","","","1968",gcc-78006
+gcc-80334,A,Compositae,,Jaegeria,,"discoidea",,"","Klatt",Synonym,,M,TICA,C0DA8C50-9EB2-4E8E-A3B9-6D6A27A1360A,131293-2,"","","126","1893",gcc-115950
+gcc-84366,A,Compositae,,Jaegeria,,"glabra",,"","(S.Watson) B.L.Rob.",Accepted,,M,TICA,8B04C8A9-E195-4BEB-BD67-766BBC2E6E68,131294-2,"","","620","1909",
+gcc-72307,A,Compositae,,Jaegeria,,"glabra",var.,"glabra","",Synonym,,L,TICA,54DA1AD4-1551-441B-B356-FCE95338F1DD,,"","","","1909",gcc-84366
+gcc-78006,A,Compositae,,Jaegeria,,"gracilis",,"","Hook.f.",Accepted,,M,TICA,F903D050-D362-406D-9393-6820CE445B91,317741-2,"","","213","1847",
+gcc-115950,A,Compositae,,Jaegeria,,"hirta",,"","(Lag.) Less.",Accepted,,M,TICA,0E4E3B3F-3311-4241-8468-BD57A138ECAB,226693-1,"","","223","1832",
+gcc-60410,A,Compositae,,Jaegeria,,"hirta",var.,"glabra","Baker",Synonym,,L,TICA,631D4EEF-BDA0-4CAF-9F83-9E1D9A293A81,131297-2,"","","167","1884",gcc-115950
+gcc-39960,A,Compositae,,Jaegeria,,"hirta",var.,"hirta","",Synonym,,L,TICA,88E92698-36B3-4611-AF4D-4A29E64B4E23,,"","","","",gcc-115950
+gcc-107409,A,Compositae,,Jaegeria,,"macrocephala",,"","Less.",Accepted,,M,TICA,9D54F623-0C78-44CF-AB6E-AA005F767C99,,"""Syn. Gen. Compos. 223; et in Linnaea, ix. (1834) 270.""","","","1832",
+gcc-613,A,Compositae,,Jaegeria,,"mnioides",,"","Kunth",Synonym,,M,TICA,D24B27BB-A4D7-43E6-84D3-012804F59343,,"","","","1820 [1818]",gcc-115950
+gcc-44169,A,Compositae,,Jaegeria,,"parviflora",,"","DC.",Synonym,,M,TICA,E23570D3-5A9C-4D63-83E6-51CBAE3BF312,226696-1,"","","544","1836",gcc-115950
+gcc-138138,A,Compositae,,Jaegeria,,"pedunculata",,"","Hook. & Arn.",Accepted,,M,TICA,FBCAC4B9-1A3B-4971-A1F8-EFEE2A471665,226697-1,"Bot. Beechey Voy. 299.","","299","",
+gcc-134958,A,Compositae,,Jaegeria,,"petiolaris",,"","B.L.Rob.",Unresolved,,L,TICA,8F3B1B0C-5EDE-4583-B0F4-E8E838162107,288544-2,"","","316","1900",
+gcc-36271,A,Compositae,,Jaegeria,,"prorepens",,"","Hook.f.",Synonym,,M,TICA,40C181E0-6A73-465C-86A0-4343C150A377,226699-1,"","","214","1847",gcc-78006
+gcc-21395,A,Compositae,,Jaegeria,,"purpurascens",,"","B.L.Rob.",Accepted,,M,TICA,F75F308F-4AF9-4D7D-951C-2789459BD7B4,131298-2,"","","316","1900",
+gcc-32046,A,Compositae,,Jaegeria,,"repens",,"","DC.",Synonym,,M,TICA,88261C1A-CBBE-4C12-BD5E-3B59E569E133,226701-1,"","","544","1836",gcc-115950
+gcc-81910,A,Compositae,,Jaegeria,,"standleyi",,"","(Steyerm.) B.L.Turner",Accepted,,M,TICA,2193A742-4850-4684-8A65-70D9D158AEAE,908087-1,"","","44","1980",
+gcc-29805,A,Compositae,,Jaegeria,,"sterilis",,"","McVaugh",Accepted,,M,TICA,99566069-9D75-44DF-997D-371C3A8E264F,,"","","","1972",
+gcc-9329,A,Compositae,,Jaegeria,,"uliginosa",,"","(Sw.) Spreng.",Accepted,,M,TICA,EAC7035C-F4F2-4C8B-8E0D-1168843C8B1B,226703-1,"","","590","1826",
+gcc-135567,A,Compositae,,Jaegeria,,"urticaefolia",,"","(Kunth) Spreng.",Synonym,,M,TICA,BBE58530-894F-4AC8-A9B4-EA486C233BDB,226704-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 590","","590","1826",gcc-76162
+gcc-146075,A,Compositae,,Jaegeria,,"urticifolia",,"","(Kunth) Spreng.",Synonym,,M,TICA,9808BDFE-F33B-428B-A7B6-10EB9286329A,,"","","","",gcc-76162

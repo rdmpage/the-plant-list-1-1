@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50082238,A,Amaranthaceae,,Nitrophila,,"atacamensis",,"","(Phil.) Ulbr.",Accepted,,L,TRO,50082238,,"","","","",
+kew-2380655,A,Amaranthaceae,,Nitrophila,,"australis",,"","Chodat & Wilczek",Unresolved,,L,WCSP (in review),,170112-2,"Bull. Herb. Boissier","II, 2: 535","","1902",
+tro-50082235,A,Amaranthaceae,,Nitrophila,,"australis",var.,"kuntzei","(Ulbr.) A. Soriano",Unresolved,,L,TRO,50082235,,"","","","",
+tro-50082237,A,Amaranthaceae,,Nitrophila,,"densiflora",,"","(Phil.) Ulbr.",Synonym,,L,TRO,50082237,1023599-2,"","","","",tro-50082235
+tro-50082234,A,Amaranthaceae,,Nitrophila,,"kuntzei",,"","Ulbr.",Synonym,,L,TRO,50082234,,"","","","",tro-50082235
+kew-2377545,A,Amaranthaceae,,Nitrophila,,"mexicana",,"","Ulbr.",Unresolved,,L,WCSP (in review),,166186-1,"Nat. Pflanzenfam. ed. 2","16c: 455","","1934",
+tro-7200267,A,Amaranthaceae,,Nitrophila,,"mohavensis",,"","Munz & J.C. Roos",Accepted,,M,TRO,7200267,170116-2,"Aliso","3(2): 112–114, f. 1–3","112","1955",
+tro-50083797,A,Amaranthaceae,,Nitrophila,,"mucronata",,"","(Phil.) Ulbr.",Synonym,,L,TRO,50083797,1104041-2,"","","","",tro-50082235
+tro-7200268,A,Amaranthaceae,,Nitrophila,,"occidentalis",,"","(Moq.) S. Watson",Accepted,,L,TRO,7200268,166189-1,"Botany (Fortieth Parallel)","297","297","1871",

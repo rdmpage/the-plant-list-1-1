@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49176,A,Compositae,,Chiliadenus,,"antiatlanticus",,"","(Emb. & Maire) Gómiz",Accepted,,M,TICA,E50947BA-063C-428D-8630-5B0FE375DB8D,1016435-1,"","","199","2000",
+gcc-112578,A,Compositae,,Chiliadenus,,"bocconei",,"","Brullo",Accepted,,M,TICA,6D4A6C75-45B5-46F6-AECE-B5BE887A60C9,192772-1,"","","298","1979",
+gcc-126072,A,Compositae,,Chiliadenus,,"camphoratus",,"","Cass.",Synonym,,M,TICA,03341047-ACB5-4C00-A0C9-D47CF1D3DDAB,,"","","","1825",gcc-136446
+gcc-140257,A,Compositae,,Chiliadenus,,"candicans",,"","(Delile) Brullo",Accepted,,M,TICA,7D9A8803-EE3A-40E9-92E2-F4991868A69A,192774-1,"","","301","1979",
+gcc-136446,A,Compositae,,Chiliadenus,,"glutinosus",,"","(L.) Fourr.",Accepted,,M,TICA,F0068EEC-ACD1-49C1-9EC2-EC3D6538E2DE,,"","","93","1869",
+gcc-114526,A,Compositae,,Chiliadenus,,"hesperius",,"","(Maire & Wilczek) Brullo",Accepted,,M,TICA,7DFA885D-1121-4D67-BD2A-BA0D55745F49,192776-1,"","","303","1979",
+gcc-566,A,Compositae,,Chiliadenus,,"iphionoides",,"","(Boiss. & Blanche) Brullo",Accepted,,M,TICA,86E9CCF5-6FDA-4076-9383-01119CDBABB2,192777-1,"","","301","1979",
+gcc-131359,A,Compositae,,Chiliadenus,,"lopadusanus",,"","Brullo",Accepted,,M,TICA,F0EDA129-4767-4583-8A80-E0B5A53E3714,192778-1,"","","301","1979",
+gcc-2263,A,Compositae,,Chiliadenus,,"montanus",,"","(Vahl) Brullo",Accepted,,M,TICA,223CF936-8F70-47FD-8A86-041B43ADDEB5,192779-1,"","","301","1979",
+gcc-116888,A,Compositae,,Chiliadenus,,"rupestris",,"","(Pomel) Brullo",Accepted,,M,TICA,C25824F9-BDEE-49C6-BB72-BF715741D85D,192780-1,"","","302","1979",
+gcc-107414,A,Compositae,,Chiliadenus,,"saxatilis",,"","(Lam.) Brullo",Synonym,,M,TICA,61066B83-DB1B-4D85-860B-AA01B4ABD4F7,192781-1,"","","298","1979",gcc-136446
+gcc-123335,A,Compositae,,Chiliadenus,,"sericeus",,"","(Batt. & Trab.) Brullo",Accepted,,M,TICA,63353E38-A853-47B7-9D5F-CE0EF1AAC2C5,192782-1,"","","303","1979",
+gcc-2940,A,Compositae,,Chiliadenus,,"sericeus",subsp.,"sericeus","",Synonym,,L,TICA,E2B363FA-7990-4072-BB1D-0573F0A280F3,,"","","","",gcc-123335
+gcc-61528,A,Compositae,,Chiliadenus,,"sericeus",subsp.,"virescens","(Maire) Greuter",Accepted,,L,TICA,55013BAD-0228-4D2D-8203-A75C26AAC26D,,"","","242","2003",

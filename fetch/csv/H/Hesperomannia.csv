@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24953,A,Compositae,,Hesperomannia,,"arborescens",,"","A.Gray",Accepted,,M,TICA,F70F5316-FA1C-4DF8-8FEF-2E1A42944B31,,"Proc. Amer. Acad. Arts vi. (1864-65) 554","","554","",
+gcc-148472,A,Compositae,,Hesperomannia,,"arborescens",var.,"arborescens","",Synonym,,L,TICA,1802A028-AB00-49B7-B291-4330BF34E110,,"","","","",gcc-24953
+gcc-150698,A,Compositae,,Hesperomannia,,"arborescens",subsp.,"arborescens","",Synonym,,L,TICA,20B3758A-CF6C-43E6-9F7D-748BC9BAEEB9,,"","","","",gcc-24953
+gcc-7289,A,Compositae,,Hesperomannia,,"arborescens",var.,"bushiana","(O.Deg.) Carlq.",Synonym,,L,TICA,2F3DF634-A76B-4ABB-8C5F-0D8F8F4213FA,,"","","","",gcc-24953
+gcc-42666,A,Compositae,,Hesperomannia,,"arborescens",var.,"swezeyi","(O.Deg.) Carlq.",Synonym,,L,TICA,B678900A-27C4-4C56-AF05-4F073314FAF3,,"","","","",gcc-24953
+gcc-17434,A,Compositae,,Hesperomannia,,"arbuscula",,"","Hillebr.",Accepted,,M,TICA,11B1705D-E271-4739-BB6A-2038506651DA,213885-1,"Fl. Haw. Isl. (1888) 232.","","","1888",
+gcc-150808,A,Compositae,,Hesperomannia,,"arbuscula",var.,"arbuscula","",Synonym,,L,TICA,49F0F4F7-3CB0-45AD-8208-76800D717761,,"","","","",gcc-17434
+gcc-154681,A,Compositae,,Hesperomannia,,"arbuscula",subsp.,"arbuscula","",Synonym,,L,TICA,EE89BD83-33F5-44B5-BB95-C8EF7258BD27,,"","","","",gcc-17434
+gcc-59929,A,Compositae,,Hesperomannia,,"arbuscula",var.,"pearsallii","H.St.John",Synonym,,L,TICA,3A485861-6E6B-49C9-AA58-9A6249645A59,877388-1,"Phytologia 40(3): 242 (1978).","","242","1978",gcc-17434
+gcc-17476,A,Compositae,,Hesperomannia,,"bushiana",,"","O.Deg.",Unresolved,,L,TICA,94C092BF-AEF3-4126-ABD1-204B786F16E3,,"Fl. Hawaiiensis Fam. 344 (1935).","","344","",
+gcc-137095,A,Compositae,,Hesperomannia,,"lydgatei",,"","C.N.Forbes",Accepted,,M,TICA,42D5CEEB-DC26-43EB-986A-EDAD17295C8B,,"Occas. Pap. Bernice Pauahi Bishop Mus. iv. 220 (1909).","","220","",
+gcc-78133,A,Compositae,,Hesperomannia,,"mauiensis",,"","H.St.John",Synonym,,M,TICA,58511582-5A00-47B5-8925-686D271D1590,,"Ann. Missouri Bot. Gard. 70(1): 198 (1983)","","198","1983",gcc-17434
+gcc-140911,A,Compositae,,Hesperomannia,,"oahuensis",,"","(Hillebr.) O.Deg.",Unresolved,,L,TICA,8CEFFA6E-1464-434B-934F-F62A2249790A,213888-1,"Fl. Hawaiiensis Fam. 344 (1938)","","344","1938",
+gcc-40476,A,Compositae,,Hesperomannia,,"swezeyi",,"","O.Deg.",Unresolved,,L,TICA,925D0246-9D61-46D6-9AA6-4B0331592F55,213889-1,"Fl. Hawaiiensis","","344","1935",

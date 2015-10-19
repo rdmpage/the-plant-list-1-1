@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81612,A,Compositae,,Faujasia,,"ambavilloides",,"","Cordem.",Synonym,,L,TICA,883A95C6-B00F-4017-9183-703917394D3C,207638-1,"","","545","1895",gcc-81468
+gcc-95073,A,Compositae,,Faujasia,,"cadetiana",,"","C.Jeffrey",Accepted,,M,TICA,B2329E79-FA2C-473E-872B-8E792C060BE1,960828-1,"","","78","1992",
+gcc-100852,A,Compositae,,Faujasia,,"flexuosa",,"","Benth. & Hook.f.",Unresolved,,L,TICA,057D4E46-6DDB-4379-8C98-9B9089961755,207639-1,"Gen. ii. 443.","","ii. 443.","",
+gcc-4134,A,Compositae,,Faujasia,,"flexuosa",,"","(Lam.) Baker",Synonym,,M,TICA,D597F744-63AF-40D9-9C33-07B3D0C61AA8,,"Fl. Mauritius: 175 (1877)","","175","1877",gcc-7819
+gcc-89167,A,Compositae,,Faujasia,,"flexuosa",,"","(Lam.) Benth. & Hook.f. ex Hook.f. & B.D.Jacks.",Unresolved,Illegitimate,L,TICA,F88AEE0A-7A2C-43F7-B7BB-811764CAA1CD,,"Index Kewensis","","","1895",
+gcc-156475,A,Compositae,,Faujasia,,"flexuosa",var.,"flexuosa","",Synonym,,L,TICA,7E1C59F2-7BCA-43F1-B85E-EDA13C6309CF,,"","","","",gcc-89167
+gcc-61099,A,Compositae,,Faujasia,,"flexuosa",var.,"lancifolia","Baker",Synonym,,L,TICA,8C15F5FB-128C-4E77-A3FE-A3D58F8E57F0,,"Fl. Mauritius: 175 (1877)","","175","1877",gcc-10248
+gcc-65106,A,Compositae,,Faujasia,,"flexuosa",var.,"subcordata","Cordem.",Synonym,,L,TICA,BEFFC849-CB1C-49F9-8FB0-C3FBC0AB97A8,,"Fl. Réunion: 545 (1895)","","545","1895",gcc-57164
+gcc-50897,A,Compositae,,Faujasia,,"fontinalis",,"","Cordem.",Synonym,,M,TICA,B507B120-4BDB-4FB1-B10C-5E6B544B2C75,207640-1,"","","544","1895",gcc-114032
+gcc-14200,A,Compositae,,Faujasia,,"gracilis",,"","C.Jeffrey",Synonym,,L,TICA,649590D1-1C75-44D5-B1BA-1A570FBE18D0,960829-1,"","","78","1992",gcc-46591
+gcc-46591,A,Compositae,,Faujasia,,"pinifolia",,"","(Bory) Cass.",Accepted,,L,TICA,6471C034-7753-43C4-ABE3-565376CD187F,207641-1,"","","80","1819",
+gcc-101401,A,Compositae,,Faujasia,,"reticulata",,"","(Vahl) Baker",Synonym,,M,TICA,038D50C6-DDFF-44CE-A5D4-9CB2C8216E94,,"Fl. Mauritius: 175 (1877)","","175","1877",gcc-46370
+gcc-135378,A,Compositae,,Faujasia,,"reticulata",,"","Benth. & Hook.f.",Unresolved,,L,TICA,ED2ACEED-7F1C-4861-A8EB-E9E6D6F0649F,207642-1,"Gen. ii. 443.","","ii. 443.","",
+gcc-128780,A,Compositae,,Faujasia,,"salicifolia",,"","(Pers.) C.Jeffrey",Accepted,,M,TICA,526751D1-931D-42A0-A168-DACB3831773C,963629-1,"","","78","1992",
+gcc-28920,A,Compositae,,Faujasia,,"squamosa",,"","(Bory) C.Jeffrey",Accepted,,M,TICA,08A02436-06F0-4424-9205-35756903D179,963630-1,"","","78","1992",

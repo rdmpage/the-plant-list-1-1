@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-138882,A,Compositae,,Cladanthus,,"arabicus",,"","(L.) Cass.",Accepted,,M,TICA,1891F1FE-2609-4A4F-BB94-F18B13B9E55A,,"","","","",
+gcc-92212,A,Compositae,,Cladanthus,,"canescens",,"","Sweet",Unresolved,,L,TICA,55C52A49-0C24-4422-99A8-881C48671C3B,196235-1,"","","366","1839",
+gcc-4391,A,Compositae,,Cladanthus,,"eriolepis",,"","(Coss. ex Maire) Oberpr. & Vogt",Accepted,,M,TICA,0A53CD31-55DC-4719-8C96-082AB572FD19,,"","","197","2002",
+gcc-15088,A,Compositae,,Cladanthus,,"flahaultii",,"","(Emb.) Oberpr. & Vogt",Accepted,,M,TICA,2303A2E0-4D6C-4C9A-96FF-1BEDC349E801,,"","","197","2002",
+gcc-129679,A,Compositae,,Cladanthus,,"geslinii",,"","Coss. & Durieu",Synonym,,M,TICA,8C2BAEAB-8DE4-4526-B17C-DCD3C328CDB4,,"Bull. Soc. Bot. France 4","","397","1857",gcc-133129
+gcc-15194,A,Compositae,,Cladanthus,,"halimifolius",,"","(Munby) Coss. & Durieu",Synonym,,M,TICA,914DC20D-1A79-4B79-B689-1C1FAAC0474C,196237-1,"Bull. Soc. Bot. France 4","","397","1857",gcc-133129
+gcc-24564,A,Compositae,,Cladanthus,,"ifniensis",,"","Caball.",Synonym,,M,TICA,6010CA03-25C8-44BA-A0F9-2D5E4EC6CA60,,"","","","1935",gcc-138882
+gcc-101370,A,Compositae,,Cladanthus,,"maroccanus",,"","Gand.",Synonym,,M,TICA,9D999B6B-6B32-43D4-BE3A-9CA0EF5587BE,196239-1,"Bull. Soc. Bot. France 60","","23","1913",gcc-138882
+gcc-114900,A,Compositae,,Cladanthus,,"mixtus",,"","(L.) Oberpr. & Vogt",Accepted,,M,TICA,2E5F9AF0-2ED3-4DCB-8064-BAEE44EE9612,,"Willdenowia 32(2): 197 (2002).","","197","2002",
+gcc-83722,A,Compositae,,Cladanthus,,"mixtus",,"","(L.) Chevall.",Unresolved,,L,TICA,E64A06F2-A917-441D-9F74-74E4A59DDFA8,196240-1,"","","576","1836",
+gcc-19562,A,Compositae,,Cladanthus,,"peduncularis",,"","Benth. & Hook.f.",Unresolved,,L,TICA,045D1CB7-381B-43D2-9D7F-242CB1C6E230,196241-1,"""Gen. ii. 422, err. typ.""","","""ii. 422, err. typ.""","",
+gcc-25312,A,Compositae,,Cladanthus,,"pedunculatus",,"","Coss. & Durieu",Synonym,,M,TICA,73097DDF-2214-4D7F-977A-2EB8C3CBAF93,196242-1,"","","14","1857",gcc-130427
+gcc-95697,A,Compositae,,Cladanthus,,"pedunculatus",,"","Durand",Synonym,,M,TICA,F5B91663-5B32-402B-A883-8FF6C4448844,,"Bull. Soc. Bot. France 4: 14 (1857)","","14","1857",gcc-89861
+gcc-47867,A,Compositae,,Cladanthus,,"proliferus",,"","(Moench) DC.",Synonym,,M,TICA,902776C9-33FB-4840-9AB0-58AE233818E3,196243-1,"","","18","1838",gcc-138882
+gcc-49600,A,Compositae,,Cladanthus,,"scariosus",,"","(Ball) Oberpr. & Vogt",Accepted,,M,TICA,A852EDA4-3CD0-460D-B569-5BED71E4EA7C,,"","","197","2002",

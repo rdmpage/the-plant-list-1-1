@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-32200552,A,Malvaceae,,Sparrmannia,,"africana",,"","L. f.",Accepted,,M,TRO,32200552,,"Suppl. Pl.","41","41","1781",
+tro-32200453,A,Malvaceae,,Sparrmannia,,"discolor",,"","Baker",Accepted,,M,TRO,32200453,,"J. Linn. Soc., Bot.","20: 102","102","1883",
+tro-32200554,A,Malvaceae,,Sparrmannia,,"discolor",var.,"discolor","",Synonym,,L,TRO,32200554,,"","","","",tro-32200453
+tro-32200556,A,Malvaceae,,Sparrmannia,,"discolor",var.,"subpalmata","(Baker) Weim.",Synonym,,L,TRO,32200556,,"Svensk Bot. Tidskr.","27: 405","405","1933",tro-32200557
+tro-50219737,A,Malvaceae,,Sparrmannia,,"macrocarpa",,"","Ulbr.",Synonym,,M,TRO,50219737,,"Bot. Jahrb. Syst.","51: 431","431","1914",tro-50219738
+tro-50219738,A,Malvaceae,,Sparrmannia,,"ricinocarpa",var.,"macrocarpa","(Ulbr.) Weim.",Unresolved,,L,TRO,50219738,,"Svensk Bot. Tidskr.","27: 405, f. 1/g","405","1933",
+tro-32200725,A,Malvaceae,,Sparrmannia,,"ricinocarpa",subsp.,"micrantha","Weim.",Synonym,,L,TRO,32200725,,"Svensk Bot. Tidskr.","27: 404, 408","404","1933",tro-50214115
+tro-50214115,A,Malvaceae,,Sparrmannia,,"ricinocarpa",var.,"ricinocarpa","",Unresolved,,L,TRO,50214115,,"","","","",
+tro-32200557,A,Malvaceae,,Sparrmannia,,"ricinocarpa",subsp.,"subpalmata","(Baker) Capuron",Unresolved,,L,TRO,32200557,,"Adansonia, n.s.","3: 103","103","1963",
+tro-32200454,A,Malvaceae,,Sparrmannia,,"subpalmata",,"","Baker",Synonym,,M,TRO,32200454,,"J. Linn. Soc., Bot.","20: 101–102","101","1883",tro-32200557

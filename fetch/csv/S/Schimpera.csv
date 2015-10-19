@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2475837,A,Brassicaceae,,Schimpera,,"arabica",,"","Hochst. & Steud.",Accepted,,M,WCSP (in review),,288837-1,"Nomencl. Bot.","ed. 2, 2: 530","","1841",
+tro-100357945,A,Brassicaceae,,Schimpera,,"arabica",var.,"arabica","",Synonym,,L,TRO,100357945,,"","","","",kew-2475837
+tro-100359574,A,Brassicaceae,,Schimpera,,"arabica",subsp.,"arabica","",Synonym,,L,TRO,100359574,,"","","","",kew-2475837
+kew-2475829,A,Brassicaceae,,Schimpera,,"arabica",subsp.,"persica","(Boiss.) Hadač & Chrtek",Synonym,,L,WCSP (in review),,879354-1,"Acta Univ. Carol., Biol.","1971: 262","","1971 publ. 1973",kew-2475837
+kew-2475823,A,Brassicaceae,,Schimpera,,"persica",,"","Boiss.",Synonym,,M,WCSP (in review),,288838-1,"Diagn. Pl. Orient.","6: 18","","1846",kew-2475837

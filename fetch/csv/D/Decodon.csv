@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2758744,A,Lythraceae,,Decodon,,"aquaticus",,"","J.F.Gmel.",Unresolved,,L,WCSP (in review),,553318-1,"Syst. Nat.","677","","1791",
+kew-2758745,A,Lythraceae,,Decodon,,"myrtifolius",,"","(Desf.) Kuntze",Synonym,,L,WCSP (in review),,77164-2,"Revis. Gen. Pl.","1: 249","","1891",kew-2384057
+kew-2758746,A,Lythraceae,,Decodon,,"salicifolius",,"","(Kunth) Kuntze",Synonym,,M,WCSP (in review),,77165-2,"Revis. Gen. Pl.","1: 249","","1891",kew-2841927
+kew-2758747,A,Lythraceae,,Decodon,,"verticillatus",,"","(L.) Elliott",Accepted,,M,WCSP (in review),,553321-1,"Sketch Bot. S. Carolina","1: 543","","1821",
+kew-2758748,A,Lythraceae,,Decodon,,"verticillatus",var.,"laevigatus","Torr. & A.Gray",Synonym,,L,WCSP (in review),,77166-2,"Fl. N. Amer.","1: 483","","1840",kew-2758747
+kew-2758749,A,Lythraceae,,Decodon,,"verticillatus",var.,"pubescens","Torr. & A.Gray",Synonym,,L,WCSP (in review),,77167-2,"Fl. N. Amer.","1: 483","","1840",kew-2758747
+tro-19200451,A,Lythraceae,,Decodon,,"verticillatus",var.,"verticillatus","",Synonym,,L,TRO,19200451,,"","","","",kew-2758747

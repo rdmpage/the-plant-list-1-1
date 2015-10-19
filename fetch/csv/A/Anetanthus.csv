@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2638915,A,Gesneriaceae,,Anetanthus,,"alatus",,"","(Cham. & Schltdl.) Benth. ex B.D.Jacks.",Unresolved,,L,WCSP (in review),,,"Index Kew.","1: 113","","1893",
+kew-2638916,A,Gesneriaceae,,Anetanthus,,"gracilis",,"","Hiern",Accepted,,M,WCSP (in review),,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","1877-1878: 93","","1878",
+tro-50068433,A,Gesneriaceae,,Anetanthus,,"hilarianus",,"","Baill.",Synonym,,M,TRO,50068433,13635-2,"Hist. Pl.","10: 101","101","1888",kew-2638916
+kew-2638918,A,Plantaginaceae,,Anetanthus,,"parviflora",,"","(Hook. & Arn.) Benth. ex B.D.Jacks.",Synonym,,M,WCSP (in review),,,"Index Kew.","1: 113","","1893",kew-2586995
+tro-50206659,A,Gesneriaceae,,Anetanthus,,"parviflorus",,"","(Hook. & Arn.) Benth. & Hook.",Synonym,,M,TRO,50206659,378043-1,"Gen. Pl.","2: 1025","1025","1873",kew-2586995
+kew-2638919,A,Gesneriaceae,,Anetanthus,,"pusillus",,"","Glaz.",Synonym,Invalid,M,WCSP (in review),,13636-2,"Bull. Soc. Bot. France","58(3): 515","","1911",kew-2638916
+kew-2638920,A,Gesneriaceae,,Anetanthus,,"rubra",,"","L.E.Skog",Accepted,,M,WCSP (in review),,13637-2,"Selbyana","7: 94","","1982",
+kew-2638921,A,Gesneriaceae,,Anetanthus,,"villosa",,"","(Gardner) Benth. ex B.D.Jacks.",Synonym,,L,WCSP (in review),,,"Index Kew.","1: 113","","1893",kew-2442677
+tro-14000110,A,Gesneriaceae,,Anetanthus,,"villosus",,"","(Gardner) Hieron.",Synonym,,L,TRO,14000110,,"Index Kew.","1: 113","113","1893",kew-2827145

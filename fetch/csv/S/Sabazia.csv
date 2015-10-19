@@ -1,0 +1,55 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-75321,A,Compositae,,Sabazia,,"acoma",,"","(S.F.Blake) Longpre",Accepted,,M,TICA,65ABDCC2-770C-423C-99B8-62346FE63739,224895-2,"","","344","1970",
+gcc-5695,A,Compositae,,Sabazia,,"annua",,"","(S.F.Blake) B.L.Turner",Synonym,,M,TICA,03818D09-8F79-4EC0-A4BE-0A9C7CD95DC5,224896-2,"Wrightia 5(8)","","304","1976",gcc-78310
+gcc-5740,A,Compositae,,Sabazia,,"anomala",,"","Greenm.",Unresolved,,L,TICA,DB95F748-8293-488D-8799-0AAF22E58130,224897-2,"","","262","1905",
+gcc-89723,A,Compositae,,Sabazia,,"breedlovei",,"","B.L.Turner",Synonym,Illegitimate,M,TICA,7BD9FBFF-22FB-4C07-AE9B-825B6E7257F7,284489-2,"Wrightia 5(8)","","303","1976",gcc-105964
+gcc-44372,A,Compositae,,Sabazia,,"brevilingulata",,"","B.L.Turner",Synonym,,M,TICA,536619C9-91A9-4238-819B-52349B94B2B5,224899-2,"Wrightia 5(8)","","304","1976",gcc-78310
+gcc-39457,A,Compositae,,Sabazia,,"densa",,"","Longpre",Accepted,,M,TICA,8CB86D3A-6F94-4FB8-A2B4-4939CF1AC499,241845-1,"""Publ. Mus. Michigan State Univ., Biol. Ser. 4(8)""","","348","1970",
+gcc-106406,A,Compositae,,Sabazia,,"durangensis",,"","(Longpre) Urbatsch & B.L.Turner",Accepted,,M,TICA,8820C3F6-313B-4BF2-82F0-A7B3ECF87680,,"","","351","",
+gcc-135123,A,Compositae,,Sabazia,,"elata",,"","(Canne) B.L.Turner",Accepted,,M,TICA,CB7916E8-5CEA-4D9E-8CB3-E947F381C78D,284490-2,"","","495","1989",
+gcc-127983,A,Compositae,,Sabazia,,"glabra",,"","S.Watson",Synonym,,M,TICA,905E3081-1E6D-47C3-B3D9-D8F2F1AE635A,224902-2,"Proc. Amer. Acad. Arts 23: 277. 1888","","277","1888",gcc-84366
+gcc-130303,A,Compositae,,Sabazia,,"glandulosa",,"","(Canne) B.L.Turner",Accepted,,M,TICA,5D6AC13B-A76F-4E36-AE9D-DE37945D009F,284491-2,"","","495","1989",
+gcc-135965,A,Compositae,,Sabazia,,"gonzaleziae",,"","B.L.Turner",Synonym,,M,TICA,17DE5B2A-1ECC-4490-9701-EB1596F85E8F,284492-2,"","","307","1987",gcc-84887
+gcc-30501,A,Compositae,,Sabazia,,"humilis",,"","(Kunth) Cass.",Accepted,,M,TICA,2394C204-870F-4072-8FF4-386E4F10A769,241848-1,"","","481","1827",
+gcc-118334,A,Compositae,,Sabazia,,"lapsensis",,"","B.L.Turner",Unresolved,,L,TICA,ACDF80DD-3FF9-4944-8010-C2B3397EF5BC,315784-2,"","","34","1997",
+gcc-107602,A,Compositae,,Sabazia,,"leavenworthii",,"","Longpre",Accepted,,M,TICA,3492F67D-5B9E-4AB3-8F73-AA7077C7FEF7,,"","","","1970",
+gcc-29312,A,Compositae,,Sabazia,,"leiachaenia",,"","S.F.Blake",Unresolved,,L,TICA,8AF9FF47-420E-4F30-9830-362A5E19100E,,"","","","1924",
+gcc-42628,A,Compositae,,Sabazia,,"liebmannii",,"","Sch.Bip. ex Klatt",Synonym,,M,TICA,DEA14F4A-5398-4EA2-AD69-4EF7B0EE1EAD,224905-2,"Leopoldina 23: 90. 1887","","90","1887",gcc-58330
+gcc-148418,A,Compositae,,Sabazia,,"liebmannii",var.,"liebmannii","",Synonym,,L,TICA,3387AB72-8659-4EAD-833F-4232D5420978,,"","","","",gcc-58330
+gcc-127773,A,Compositae,,Sabazia,,"longiradiata",,"","Urbatsch & B.L.Turner",Synonym,,M,TICA,753FAFE2-0D0F-458A-85DB-D87CDF0060D1,284493-2,"Brittonia 27: 353 (-354). 1976 1975","","353 (-354)","1976",gcc-97246
+gcc-23618,A,Compositae,,Sabazia,,"macdonaldii",,"","B.L.Turner",Accepted,,M,TICA,595A8237-4B5B-4072-9CA3-2BA9BF19E51B,,"","","","1990",
+gcc-27030,A,Compositae,,Sabazia,,"michoacana",,"","B.L.Rob.",Synonym,,M,TICA,CABD01FC-9ECC-49D8-ADA0-31F705BAD548,284495-2,"Proc. Amer. Acad. Arts 27: 173. 1892","","173","1892",gcc-90795
+gcc-96401,A,Compositae,,Sabazia,,"microglossa",,"","DC.",Synonym,,M,TICA,06790EB5-80BE-4D3E-A0F1-91781E88DE3B,241854-1,"Prodr. (DC.) 5: 497","","497","1836",gcc-96478
+gcc-156613,A,Compositae,,Sabazia,,"microglossa",var.,"microglossa","",Synonym,,L,TICA,C0D0210B-FF7F-49EF-89E9-F0EFCBC59200,,"","","","",gcc-96478
+gcc-53205,A,Compositae,,Sabazia,,"microglossa",var.,"puberula","DC.",Synonym,,L,TICA,581FED52-EFF6-4830-806B-64654E764084,224912-2,"Prodr. (DC.) 5: 497","","497","1836",gcc-96478
+gcc-91680,A,Compositae,,Sabazia,,"microspermoides",,"","Longpre",Accepted,,M,TICA,99030986-CD31-41AA-8197-86E3337DE7AE,,"","","","1970",
+gcc-117517,A,Compositae,,Sabazia,,"mullerae",,"","S.F.Blake",Accepted,,M,TICA,356A924E-2580-42F7-B4F2-C0E011F46310,224914-2,"","","149","1942",
+gcc-51002,A,Compositae,,Sabazia,,"multiradiata",,"","(Seaton) Longpre",Accepted,,M,TICA,CF6E91D3-77FF-4F16-B228-5EA10608D1E0,224915-2,"","","323","1970",
+gcc-34624,A,Compositae,,Sabazia,,"obtusata",,"","S.F.Blake",Synonym,,M,TICA,98B31C46-2F71-458F-9CF5-4032211A13DD,224916-2,"","","346-347","1937",gcc-127048
+gcc-25820,A,Compositae,,Sabazia,,"occidentalis",,"","DC.",Unresolved,,L,TICA,FE53BA4B-D33A-4818-9B6A-2FB46A7F5A83,241859-1,"""Prodr. (DC.) 5: 497, sphalm.""","","497","1836",
+gcc-21541,A,Compositae,,Sabazia,,"palmeri",,"","(S.Watson ex A.Gray) Urbatsch & B.L.Turner",Accepted,,M,TICA,D4D1A742-8DB6-4B8B-8AA6-27D1875F92C4,,"","","352","1975",
+gcc-65880,A,Compositae,,Sabazia,,"palmeri",var.,"lancifolia","Urbatsch & B.L.Turner",Synonym,,L,TICA,9FF98886-88F8-489B-95CA-CA5F74D91C9B,,"Brittonia 27: 353. 1976 1975","","353","",gcc-59200
+tro-50155063,A,Compositae,,Sabazia,,"palmeri",var.,"lancifolia","Urbatsch & Turner",Synonym,,L,TRO,50155063,878208-1,"Brittonia","27: 353","353","1975",gcc-59200
+gcc-153108,A,Compositae,,Sabazia,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,4A94AD12-531E-4383-AF4B-A7556A46A9A5,,"","","","",gcc-21541
+gcc-19452,A,Compositae,,Sabazia,,"pinetorum",,"","S.F.Blake",Accepted,,M,TICA,888B8023-3B53-44A1-957E-23F2171D4A80,224919-2,"","","347-348","1937",
+gcc-64561,A,Compositae,,Sabazia,,"pinetorum",var.,"dispar","S.F.Blake",Synonym,,L,TICA,CBF70D98-2246-4DAC-B8BA-BF665A293319,224920-2,"","","348-349","1937",gcc-19452
+gcc-72531,A,Compositae,,Sabazia,,"pinetorum",var.,"pinetorum","",Synonym,,L,TICA,14C39E3C-67A2-45AE-9194-FEBAAD001845,,"","","","",gcc-19452
+gcc-141516,A,Compositae,,Sabazia,,"portoriccensis",,"","DC.",Unresolved,,L,TICA,1A88D314-8FF0-439B-918A-F7960801EEC4,241862-1,"""Prodr. (DC.) 5: 497, sphalm.""","","497","1836",
+gcc-131131,A,Compositae,,Sabazia,,"purpusii",,"","Brandegee",Accepted,,L,TICA,CD347B24-AAE2-4BF3-9299-E02EC1FD55C9,224921-2,"","","162","1903",
+gcc-50138,A,Compositae,,Sabazia,,"radicans",,"","S.F.Blake",Synonym,,M,TICA,F6A7F86C-7768-4758-956C-5CF16DE0080D,224922-2,"","","615","1924",gcc-27378
+gcc-27378,A,Compositae,,Sabazia,,"sarmentosa",,"","Less.",Accepted,,M,TICA,B7553643-EFB8-430F-81BC-32A3B2A16CE1,241865-1,"Linnaea 5","","148","1830",
+gcc-66516,A,Compositae,,Sabazia,,"sarmentosa",var.,"papposa","(S.F.Blake) Longpre",Accepted,,L,TICA,7C5DFC60-5F8A-49AF-8AAE-CF6006B6B718,,"","","","",
+gcc-58553,A,Compositae,,Sabazia,,"sarmentosa",var.,"sarmentosa","",Synonym,,L,TICA,78FCF50F-3D60-4990-9CA2-8FA48082640B,,"","","","",gcc-27378
+gcc-121911,A,Compositae,,Sabazia,,"sodiroi",,"","(Hieron.) B.L.Turner",Synonym,,M,TICA,00C87174-0192-40B9-9C88-CAD3F8B2A3D9,224926-2,"Wrightia 5(8)","","305","1976",gcc-140271
+gcc-93361,A,Compositae,,Sabazia,,"subnuda",,"","B.L.Rob. & Seaton",Unresolved,,L,TICA,994732F3-08DD-4A80-9A59-8A91423FB48B,241867-1,"Proc. Amer. Acad. Arts xxviii. (1893) 108.","","108","1893",
+gcc-138543,A,Compositae,,Sabazia,,"trianae",,"","(Hieron.) Longpre",Accepted,,M,TICA,A533D1C7-DFF3-4C92-9103-F0CDA4323C18,224928-2,"","","328","1970",
+gcc-107523,A,Compositae,,Sabazia,,"triangularis",,"","S.F.Blake",Synonym,,M,TICA,336C1E58-15B8-4ABC-BAD9-AA3935B92A34,224929-2,"","","615-616","1924",gcc-27378
+gcc-67170,A,Compositae,,Sabazia,,"triangularis",var.,"papposa","S.F.Blake",Synonym,,L,TICA,8EA424C7-ADB4-428A-A974-D4D859284CF6,224930-2,"","","317","1939",gcc-66516
+gcc-154733,A,Compositae,,Sabazia,,"triangularis",var.,"triangularis","",Synonym,,L,TICA,21C05D17-D2DF-4017-9E4A-C9CBE22E653B,,"","","","",gcc-27378
+gcc-1140,A,Compositae,,Sabazia,,"tridacoides",,"","Urbatsch & B.L.Turner",Synonym,,M,TICA,42D0CC5C-7623-4770-9BA3-0218D4558900,284497-2,"","","351","1976",gcc-23868
+tro-50155056,A,Compositae,,Sabazia,,"tridacoides",,"","Urbatsch & Turner",Synonym,,M,TRO,50155056,241870-1,"Brittonia","27: 351","351","1975",gcc-23868
+gcc-58046,A,Compositae,,Sabazia,,"tridacoides",var.,"tridacoides","",Synonym,,L,TICA,077BF015-2697-499B-B080-8B6F0B15349D,,"","","","",gcc-23868
+gcc-104913,A,Compositae,,Sabazia,,"trifida",,"","J.J.Fay",Synonym,,M,TICA,DDE381D2-64C1-47D3-B1A5-A481C97D547C,,"","","","1973",gcc-16314
+gcc-34826,A,Compositae,,Sabazia,,"urticifolia",,"","(Kunth) DC.",Synonym,,M,TICA,F34882E6-CA20-4796-AC05-40909906FB3D,241872-1,"","","497","1836",gcc-76162
+gcc-150609,A,Compositae,,Sabazia,,"urticifolia",var.,"urticifolia","",Synonym,,L,TICA,1FA6CAA3-E95A-4E3B-973D-7269398A9EDB,,"","","","",gcc-76162
+gcc-59921,A,Compositae,,Sabazia,,"urticifolia",var.,"venezuelensis","Steyerm.",Synonym,,L,TICA,510B2AC5-17DB-47DF-9675-9A4E2FB7A5D2,,"""Fieldiana, Botany 28:""","","672","1953",gcc-76162

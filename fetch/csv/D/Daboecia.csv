@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2755018,A,Ericaceae,,Daboecia,,"azorica",,"","Tutin & E.F.Warb.",Accepted,,M,WCSP (in review),,327712-1,"J. Bot.","70: 12","","1932",
+kew-2755019,A,Ericaceae,,Daboecia,,"azorica",f.,"albiflora","D.C.McClint.",Synonym,,L,WCSP (in review),,918363-1,"Plantsman","6: 191","","1984",kew-2755018
+kew-2755020,A,Ericaceae,,Daboecia,,"cantabrica",,"","(Huds.) K.Koch",Accepted,,M,WCSP (in review),,,"Dendrologie","2(2): 13","","1873",
+kew-2755021,A,Ericaceae,,Daboecia,,"cantabrica",f.,"alba","(Sweet) D.C.McClint.",Synonym,,L,WCSP (in review),,923175-1,"Plantsman","6: 191","","1984",kew-2755020
+kew-2755022,A,Ericaceae,,Daboecia,,"cantabrica",f.,"albiflora","(D.C.McClint.) E.C.Nelson",Synonym,,L,WCSP (in review),,989003-1,"New Plantsman","3: 85","","1996",kew-2755018
+kew-2755023,A,Ericaceae,,Daboecia,,"cantabrica",subsp.,"azorica","(Tutin & E.F.Warb.) D.C.McClint.",Synonym,,L,WCSP (in review),,955634-1,"Bot. J. Linn. Soc.","101: 280","","1989",kew-2755018
+kew-2604126,A,Ericaceae,,Daboecia,,"cantabrica",f.,"blumii","D.C.McClint.",Synonym,,L,WCSP (in review),,77077928-1,"Year Book Heather Soc.","3: 47","","1984",kew-2755020
+kew-2755024,A,Ericaceae,,Daboecia,,"cantabrica",f.,"eburnea","E.C.Nelson",Synonym,,L,WCSP (in review),,989004-1,"New Plantsman","3: 85","","1996",kew-2755029
+kew-2755026,A,Ericaceae,,Daboecia,,"daboecia",,"","(L.) Dörfl.",Synonym,Invalid,M,WCSP (in review),,327715-1,"Exsicc. (Herb. Norm.)","1898: 3432","","1898",kew-2755020
+kew-2755027,A,Ericaceae,,Daboecia,,"polifolia",,"","D.Don",Synonym,,M,WCSP (in review),,327716-1,"Edinburgh New Philos. J.","17: 160","","1834",kew-2755020
+kew-2755028,A,Ericaceae,,Daboecia,,"polifolia",var.,"alba","Sweet",Synonym,,L,WCSP (in review),,,"","","","",kew-2755020
+kew-2755029,A,Ericaceae,,Daboecia,×,"scotica",,"","D.C.McClint.",Unresolved,,L,WCSP (in review),,327717-1,"Garden (London 1975+)","103: 116","","1978",
+kew-2755030,A,Ericaceae,,Daboecia,,"scotica",f.,"albiflora","D.C.McClint.",Synonym,,L,WCSP (in review),,918364-1,"Plantsman","6: 191","","1984",kew-2755029

@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-42208,A,Compositae,,Tylloma,,"albiflorum",,"","Phil.",Synonym,,M,TICA,A84C5E26-A315-40D0-B89B-4E334E23C4EC,,"","","","1894",gcc-99201
+gcc-7710,A,Compositae,,Tylloma,,"brachylepis",,"","Phil.",Synonym,,M,TICA,FFA66509-830D-4634-A632-0E52959B9B8D,259236-2,"","","842","1894",gcc-93075
+gcc-101917,A,Compositae,,Tylloma,,"ciliatum",,"","Phil.",Synonym,,M,TICA,CD6C1877-C4BD-4ACC-BE53-9DD7F9C5F43D,259237-2,"","","841","1894",gcc-95612
+gcc-133730,A,Compositae,,Tylloma,,"euphrasioides",,"","(DC.) Wedd.",Unresolved,,L,TICA,0C0B74B8-D5ED-42F4-A3E2-E62B922AA3DD,,"Chloris Andina 1(1):","","28","1855",gcc-124199
+gcc-83826,A,Compositae,,Tylloma,,"euphrasioides",,"","(DC.) F.Meigen",Synonym,,L,TICA,435C76D5-5BA9-400C-83EA-751CBD8F663A,,"","","","",gcc-124199
+gcc-93013,A,Compositae,,Tylloma,,"eurylepis",,"","Phil.",Synonym,,M,TICA,0798552B-DEE3-4DD7-8E32-89D924251CDF,259238-2,"","","840","1894",gcc-95612
+gcc-41926,A,Compositae,,Tylloma,,"glabratum",,"","DC.",Synonym,,M,TICA,5D165CEE-830B-479B-B8F8-4DA0968B5DBD,256969-1,"Prodr. (DC.) 7(1): 32","","32","1838",gcc-93075
+gcc-63934,A,Compositae,,Tylloma,,"glabratum",var.,"brachylepis","(Phil.) Reiche",Synonym,,L,TICA,69574C72-5704-4647-AD17-BAB8EA50F06A,259240-2,"""Anales Univ. Chile 115: 328. 1904 Reiche, Flora de Chile, 4: 347.  1905""","","328","1904",gcc-93075
+gcc-65301,A,Compositae,,Tylloma,,"glabratum",var.,"eurylepis","(Phil.) Reiche",Synonym,,L,TICA,8289502D-F9B4-45CB-A884-C5C2FE6BE42A,259241-2,"""Anales Univ. Chile 115: 328. 1904 Reiche, Flora de Chile, 4: 347.  1905""","","328","1904",gcc-95612
+gcc-154185,A,Compositae,,Tylloma,,"glabratum",var.,"glabratum","",Synonym,,L,TICA,657AE60F-1171-4A68-811E-BE455EB5A822,,"","","","",gcc-93075
+gcc-4108,A,Compositae,,Tylloma,,"glabratum",var.,"microphyllum","Phil.",Synonym,,L,TICA,4707BBB0-F406-4478-91BB-07A688B3056C,259242-2,"Anales Univ. Chile 85: 842. 1894","","842","1894",gcc-93075
+gcc-68629,A,Compositae,,Tylloma,,"glabratum",var.,"rotundifolium","(Phil.) Reiche",Synonym,,L,TICA,26606BFA-54EA-4CBE-B66A-E035FB3BB790,259243-2,"""Anales Univ. Chile 115: 328. 1904 Reiche, Flora de Chile, 4: 347.  1905""","","328","1904",gcc-93075
+gcc-15168,A,Compositae,,Tylloma,,"glabratum",var.,"stolpi","(Phil.) Reiche",Synonym,,L,TICA,D254E9E1-3FA9-46A9-A162-1C17C9A8766F,259244-2,"""Anales Univ. Chile 115: 328. 1904 Reiche, Flora de Chile, 4: 347.  1905""","","328","1904",gcc-93075
+gcc-7748,A,Compositae,,Tylloma,,"glabratum",var.,"strictum","(Phil.) Reiche",Synonym,,L,TICA,7EDA5E43-E86A-4D80-A4C1-0E653C0CB454,259245-2,"""Anales Univ. Chile 115: 327. 1904 Reiche, Flora de Chile, 4: 347.  1905""","","327","1904",gcc-93075
+gcc-8974,A,Compositae,,Tylloma,,"gnaphalioides",,"","Phil.",Synonym,,M,TICA,E15DCE0A-6DC4-459F-B2DE-10CC87818BB9,259246-2,"","","843","1894",gcc-131096
+gcc-19629,A,Compositae,,Tylloma,,"involucratum",,"","Reiche",Unresolved,,L,TICA,D857C415-6D71-4DF9-8982-24469C22B343,,"","","","1904",
+gcc-35120,A,Compositae,,Tylloma,,"involucratum",,"","Phil.",Synonym,,M,TICA,DD342840-00DA-41B4-AEBA-41204947B01A,,"","","","",gcc-37811
+gcc-115299,A,Compositae,,Tylloma,,"lanatum",,"","Phil.",Synonym,,M,TICA,E56AE682-6D84-452D-B0C9-BBD6E19B9750,256972-1,"Linnaea 33: 112. 1864","","112","1864",gcc-37811
+gcc-116976,A,Compositae,,Tylloma,,"limbatum",,"","D.Don",Synonym,,M,TICA,E1F47139-0D31-41C3-9BE0-BF9CB58620FA,,"""Trans. Linn. Soc. London 16(2): 236, 301""","","","1830",gcc-95612
+gcc-116000,A,Compositae,,Tylloma,,"minutum",,"","Phil.",Synonym,,M,TICA,4CD3844C-CA04-4E26-843D-BD72E93DA842,256974-1,"","","","1891",gcc-131096
+gcc-111896,A,Compositae,,Tylloma,,"pusillum",,"","D.Don",Synonym,,M,TICA,5E95FA01-90BA-4644-A5D3-B43182C62403,256975-1,"in Phil. Mag. (1832) 391.","","391","1832",gcc-77754
+gcc-48160,A,Compositae,,Tylloma,,"renifolium",,"","(J.Rémy) Wedd.",Synonym,,M,TICA,D566F66C-BB45-4C9D-965A-5943AA0DB529,,"Chlor. And. i. 28. t. 8 A.","","28","",gcc-103762
+gcc-112140,A,Compositae,,Tylloma,,"rotundifolium",,"","Phil.",Synonym,,M,TICA,83CF04E0-8555-4E61-B360-B4BD4D08D696,259250-2,"","","843","1894",gcc-93075
+gcc-143499,A,Compositae,,Tylloma,,"splendens",,"","(J.Rémy) Wedd.",Synonym,,M,TICA,709D6583-0000-418C-A05D-FC0E25D28AF9,,"Chlor. And. i. 27.","","27","",gcc-125507
+gcc-10332,A,Compositae,,Tylloma,,"stolpi",,"","Phil.",Synonym,,M,TICA,6B8C1D8C-EF67-4042-8A6F-134E1F93BA57,259251-2,"","","841","1894",gcc-93075
+gcc-116191,A,Compositae,,Tylloma,,"strictum",,"","Phil.",Synonym,,M,TICA,98AD4844-6DC4-47AD-8CEA-BDDDBAC9B105,259252-2,"","","840","1894",gcc-93075

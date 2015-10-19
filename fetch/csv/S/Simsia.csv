@@ -1,0 +1,83 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2600604,A,Proteaceae,,Simsia,,"abrotanoides",,"","F.Muell.",Unresolved,,L,WCSP (in review),,706609-1,"Syst. Census Austral. Pl.","66","","1882",kew-2600835
+gcc-7749,A,Compositae,,Simsia,,"adenophora",,"","(Greenm.) S.F.Blake",Synonym,,M,TICA,6576A8AF-250C-4980-9A62-0E660FFA99CD,236605-2,"Proc. Amer. Acad. Arts 49","","388","1913",gcc-79196
+gcc-95931,A,Compositae,,Simsia,,"amplexicaulis",,"","(Cav.) Pers.",Accepted,,M,TICA,0EE12D1A-83F9-43D2-91F0-90777AD983F6,249217-1,"","","478","1807",
+gcc-58463,A,Compositae,,Simsia,,"amplexicaulis",var.,"amplexicaulis","",Synonym,,L,TICA,F22A12AF-C5F5-4570-8361-8EE335017E2C,,"","","","",gcc-95931
+gcc-41519,A,Compositae,,Simsia,,"amplexicaulis",var.,"decipiens","(S.F.Blake) S.F.Blake",Synonym,,L,TICA,F819A131-6EC8-442B-898E-4CE3D2D1928E,236606-2,"Contr. Gray Herb. 52","","46","1917",gcc-95931
+kew-2600603,A,Proteaceae,,Simsia,,"anethifolia",,"","R.Br.",Unresolved,,L,WCSP (in review),,706610-1,"Trans. Linn. Soc. London","10: 153","","1810",kew-2600797
+gcc-93804,A,Compositae,,Simsia,,"annectens",,"","S.F.Blake",Accepted,,M,TICA,DC2184BE-FC8C-4085-9E0B-8B7CC07253CA,236608-2,"Contr. Gray Herb. 52","","43","1917",
+gcc-37706,A,Compositae,,Simsia,,"annectens",var.,"annectens","",Synonym,,L,TICA,64B0BEF1-1332-4EFB-8538-45EB942F1EFB,,"","","","1917",gcc-93804
+gcc-13571,A,Compositae,,Simsia,,"annectens",var.,"grayi","(Sch.Bip. ex S.F.Blake) D.M.Spooner",Accepted,,L,TICA,26019C84-923E-4CB4-B855-193EF0869A4A,966337-1,"Syst. Bot. Monogr. 30","","39","1990",
+gcc-21582,A,Compositae,,Simsia,,"auriculata",,"","DC.",Synonym,,M,TICA,E3E7E197-DEE2-4D4B-B146-27E562DD57FD,285042-2,"Prodr. (DC.) 5: 577","","577","1836",gcc-95931
+gcc-86106,A,Compositae,,Simsia,,"calva",,"","A.Gray",Accepted,,M,TICA,A995EC3A-782F-48D0-BD1B-7A30A1AA40B0,249220-1,"Boston J. Nat. Hist. vi. (1850) 228","","228","1850",
+gcc-149891,A,Compositae,,Simsia,,"calva",var.,"calva","",Synonym,,L,TICA,D85483B8-9003-4DF3-9018-625F3A742B40,,"","","","",gcc-86106
+gcc-57654,A,Compositae,,Simsia,,"calva",var.,"subaristata","(A.Gray) S.F.Blake",Unresolved,,L,TICA,21848189-4282-4350-83E7-8814F525C4CD,236609-2,"Proc. Amer. Acad. Arts 49: 379. 1913","","379","1913",
+gcc-49704,A,Compositae,,Simsia,,"canescens",,"","(Torr. & A.Gray) A.Gray",Synonym,,M,TICA,27C5471B-A74F-4D71-99E3-5C23F0D09E37,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 85""","","85","1849",gcc-79545
+gcc-125185,A,Compositae,,Simsia,,"caucana",,"","Cuatrec.",Accepted,,M,TICA,1C2607F8-1BCE-4F4E-A671-D278E4ED87DB,236610-2,"","","244","1954",
+gcc-15941,A,Compositae,,Simsia,,"chaseae",,"","(Millspaugh) S.F.Blake",Accepted,,M,TICA,612CBD72-1B44-4A5B-A9A2-1D7B503D3E27,236611-2,"","","385","1913",
+gcc-90239,A,Compositae,,Simsia,,"cordata",,"","(Kunth) Cass.",Synonym,,M,TICA,318A92FD-74A8-412E-85A5-83885D533CA3,249224-1,"","","137","1829",gcc-95931
+gcc-40435,A,Compositae,,Simsia,,"cronquistii",,"","H.Rob. & Brettell",Unresolved,,L,TICA,1BB516FE-B3BA-449E-B0CC-4AEF847532EC,236612-2,"","","370","1972",
+gcc-5550,A,Compositae,,Simsia,,"dombeyana",,"","DC.",Accepted,,M,TICA,F834EE3F-76B6-4E7D-BFD3-0A575A0AF65F,249226-1,"Prodr. (DC.) 5: 578","","578","1836",
+gcc-111824,A,Compositae,,Simsia,,"erythranthema",,"","Sch.Bip. ex A.Gray",Synonym,Illegitimate,M,TICA,F4B2BB04-F3C6-4DC4-88F7-B4076F7C9B47,,"Proc. Amer. Acad. Arts 19: 9. 1883.","","9","1883",gcc-49578
+gcc-8944,A,Compositae,,Simsia,,"eurylepis",,"","S.F.Blake",Accepted,,M,TICA,401959FA-F585-463D-A46E-10BCE38CC53D,236613-2,"","","382","1913",
+gcc-118663,A,Compositae,,Simsia,,"exaristata",,"","A.Gray",Synonym,,L,TICA,0F2A1988-B924-413C-8EF0-C379651B59D1,,"","","87-88","1853",gcc-13955
+gcc-149096,A,Compositae,,Simsia,,"exaristata",var.,"exaristata","",Synonym,,L,TICA,19C0FFE4-1C0E-41EB-94CA-517E6CEDC349,,"","","","",gcc-13955
+gcc-53880,A,Compositae,,Simsia,,"exaristata",var.,"perplexa","S.F.Blake",Synonym,,L,TICA,F044ABCE-217F-471D-B386-69872DB6B53D,236616-2,"Contr. Gray Herb. 52: 45. 1917","","45","1917",gcc-13955
+gcc-123589,A,Compositae,,Simsia,,"ficifolia",,"","Pers.",Synonym,Illegitimate,M,TICA,F9C0DF2E-B404-4DB8-AC97-CEAF6C3AFB49,249229-1,"","","478","1807",gcc-79196
+gcc-79196,A,Compositae,,Simsia,,"foetida",,"","(Cav.) S.F.Blake",Accepted,,M,TICA,1228C7C5-9073-4164-BFF0-6AE694E2A038,249230-1,"Proc. Amer. Acad. Arts 49","","385","1913",
+gcc-48112,A,Compositae,,Simsia,,"foetida",var.,"decipiens","S.F.Blake",Synonym,,L,TICA,D976A929-1391-4204-91E9-5928F047ADB7,236618-2,"","","387-388","1913",gcc-95931
+gcc-30485,A,Compositae,,Simsia,,"foetida",var.,"foetida","",Synonym,,L,TICA,2A8F1A08-A622-413E-91A0-3864D0F576EF,,"","","","1913",gcc-79196
+gcc-6528,A,Compositae,,Simsia,,"foetida",var.,"megacephala","(Sch.Bip. ex S.F.Blake) D.M.Spooner",Accepted,,L,TICA,B8D3A6D8-7AF9-4E16-8AC0-0C1F6E26A49A,966339-1,"","","69","1990",
+gcc-41046,A,Compositae,,Simsia,,"foetida",var.,"panamensis","(H.Rob. & Brettell) D.M.Spooner",Accepted,,L,TICA,4E06047E-7A49-4ED0-A0F5-4C171D48FE32,966341-1,"Syst. Bot. Monogr. 30","","72","1990",
+gcc-103817,A,Compositae,,Simsia,,"frutescens",,"","A.Gray",Synonym,,M,TICA,D810AA8D-D01A-43E5-881B-A216FE9ACD60,285047-2,"""Rep. U.S. Mex. Bound., Bot. 89. 1858 [Jul-Dec 1858]""","","89","",gcc-6796
+gcc-127218,A,Compositae,,Simsia,,"fruticulosa",,"","(Spreng.) S.F.Blake",Accepted,,M,TICA,A5150BF4-C62E-4F78-AD40-D7225954DF0E,236619-2,"","","200","1915",
+gcc-40319,A,Compositae,,Simsia,,"ghiesbreghtii",,"","(A.Gray) S.F.Blake",Accepted,,M,TICA,790115A9-7C73-41C7-BA80-4ABEE3C2A416,236620-2,"Proc. Amer. Acad. Arts 49","","392","1913",
+gcc-79863,A,Compositae,,Simsia,,"grandiflora",,"","Benth. ex Oerst.",Accepted,,M,TICA,552013B8-E411-4A2F-B81F-6C5187D5B925,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn (1852) 92","","92","",
+gcc-97312,A,Compositae,,Simsia,,"grandiflora",,"","Benth.",Synonym,,M,TICA,0E59C3D4-FCBC-4C7F-8DCE-938DBB80A3F4,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 92-93. 1853.","","92-93","1853",gcc-79196
+gcc-100858,A,Compositae,,Simsia,,"grayi",,"","Sch.Bip. ex S.F.Blake",Synonym,,M,TICA,76B271FC-4B50-4349-96EA-9B9237B04BF9,285048-2,"J. Wash. Acad. Sci. 18: 26. 1928","","26","1928",gcc-13571
+gcc-108235,A,Compositae,,Simsia,,"grisea",,"","S.F.Blake",Synonym,,M,TICA,DD616535-367B-4748-96AF-ABD4DCC2A86D,236622-2,"","","53","1918",gcc-127218
+gcc-19055,A,Compositae,,Simsia,,"guatemalensis",,"","H.Rob. & Brettell",Accepted,,M,TICA,8E40BD6F-4564-48D7-A9FC-232F8A591DD6,236623-2,"Phytologia 24","","372","1972",
+gcc-8335,A,Compositae,,Simsia,,"heterophylla",,"","(Kunth) DC.",Synonym,Illegitimate,M,TICA,03BA352D-E00E-4E40-9920-0F83A5E20384,249239-1,"","","577","1836",gcc-95931
+gcc-918,A,Compositae,,Simsia,,"heterophylla",,"","Pers.",Unresolved,,L,TICA,93B6A16F-07EE-45A2-B4D5-01B22ADFC444,249238-1,"Syn. Pl. (Persoon) 2(2): 478","","478","1807",
+gcc-114701,A,Compositae,,Simsia,,"hintonii",,"","H.Rob. & Brettell",Unresolved,,L,TICA,23686A67-9A2C-419D-AC4F-BA78482E74A8,236624-2,"","","368","1972",
+gcc-82734,A,Compositae,,Simsia,,"hirsuta",,"","(Kuntze) S.F.Blake",Synonym,,M,TICA,46D0C95D-1D7F-4E56-A5C6-72B53D0F93D3,236625-2,"","","389","1913",gcc-5550
+gcc-84093,A,Compositae,,Simsia,,"hispida",,"","(Kunth) Cass.",Accepted,,M,TICA,9375961C-2914-4803-AB6D-75C1E29CA8C4,,"in Dict. Sci. Nat. lix. 137.","","","1829",
+gcc-38314,A,Compositae,,Simsia,,"holwayi",,"","S.F.Blake",Accepted,,M,TICA,178C66EB-53AC-4607-BD22-471202DBF0F0,236626-2,"Contr. Gray Herb. 52","","46","1917",
+gcc-88972,A,Compositae,,Simsia,,"jamaicensis",,"","S.F.Blake",Accepted,,M,TICA,67E9BE66-EF16-4FD9-82F5-809DE3687B3D,285049-2,"Proc. Amer. Acad. Arts 49: 388. 1913","","388","1913",
+gcc-100602,A,Compositae,,Simsia,,"kunthiana",,"","Cass.",Synonym,,M,TICA,A06E8650-29E8-4046-8218-9B0542F3E39D,249245-1,"","","137","1829",gcc-95931
+gcc-13955,A,Compositae,,Simsia,,"lagascaeformis",,"","DC.",Unresolved,Illegitimate,L,TICA,AB4AB704-1F2F-44A8-8F33-19E8972D0436,249247-1,"","","577","1836",
+gcc-88655,A,Compositae,,Simsia,,"lagascaeformis",,"","A.Gray",Unresolved,,L,TICA,B6CC4A28-6C04-433E-8B51-7FEAD1409751,,"Pl. Wright. i. 107.","","i. 107","",
+kew-2600602,A,Proteaceae,,Simsia,,"latifolia",,"","R.Br.",Unresolved,,L,WCSP (in review),,706611-1,"Suppl. Prodr. Fl. Nov. Holl.","9","","1830",kew-2600792
+gcc-46389,A,Compositae,,Simsia,,"megacephala",,"","Sch.Bip. ex S.F.Blake",Synonym,,M,TICA,7DF03888-3229-4686-9C85-55F86E72C5CD,285050-2,"Proc. Amer. Acad. Arts 49: 391. 1913","","391","1913",gcc-6528
+gcc-46189,A,Compositae,,Simsia,,"molinae",,"","H.Rob. & Brettell",Accepted,,M,TICA,56E47B53-0BDA-44DE-8937-559C62CCC7DB,236629-2,"Phytologia 24(5)","","375","1972",
+gcc-112913,A,Compositae,,Simsia,,"panamensis",,"","H.Rob. & Brettell",Synonym,,M,TICA,615D6ED9-C3CC-4A10-ADBC-B68149A872C4,285051-2,"Phytologia 24: 372. 1972","","372","1972",gcc-41046
+gcc-101473,A,Compositae,,Simsia,,"pastoensis",,"","Triana",Accepted,,M,TICA,B27FC8F1-4422-49FB-9C03-9CDFDA468620,,"","","40","1858",
+gcc-39147,A,Compositae,,Simsia,,"polycephala",,"","Benth.",Synonym,,M,TICA,D7501A99-C26C-4175-80D8-48A1FE469EA5,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 93. 1853.","","93","1853",gcc-79196
+gcc-50305,A,Compositae,,Simsia,,"polycephala",,"","Benth. ex Oerst.",Unresolved,,L,TICA,7CFD27C3-2283-46D1-9E95-5D4B1477C0BD,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn (1852) 93","","93","",
+gcc-14677,A,Compositae,,Simsia,,"pubescens",,"","Triana",Synonym,,M,TICA,40D47883-B4AD-43E1-9752-1B3A74BE6327,,"""Ann. Sci. Nat., Bot. sér. 4, 9: 40""","","40","1858",gcc-127218
+gcc-49578,A,Compositae,,Simsia,,"sanguinea",,"","A.Gray",Accepted,,M,TICA,A6526F70-134F-4E27-97E7-5BE3F8B57C43,249254-1,"","","107","1852",
+gcc-31078,A,Compositae,,Simsia,,"sanguinea",subsp.,"albida","S.F.Blake",Synonym,,L,TICA,4C56BEAC-DF08-46F8-BACF-398BA5AE2B22,236632-2,"","","630","1924",gcc-49578
+gcc-66509,A,Compositae,,Simsia,,"sanguinea",var.,"palmeri","(A.Gray) S.F.Blake",Synonym,,L,TICA,3406C8EA-2CD5-43E1-A5CD-CF566A037A0B,236633-2,"Proc. Amer. Acad. Arts 49","","395","1913",gcc-49578
+gcc-145866,A,Compositae,,Simsia,,"sanguinea",subsp.,"sanguinea","",Synonym,,L,TICA,6FE24C85-7874-409A-B0EB-0C7C29EA92CB,,"","","","",gcc-49578
+gcc-156216,A,Compositae,,Simsia,,"sanguinea",f.,"sanguinea","",Synonym,,L,TICA,CA4AA53A-CEDC-413D-A128-E8D196090494,,"","","","",gcc-49578
+gcc-58545,A,Compositae,,Simsia,,"sanguinea",var.,"sanguinea","",Synonym,,L,TICA,8FA215AD-AFA5-4EE5-AA7C-8F9F10F2AF27,,"","","","1852",gcc-49578
+gcc-62390,A,Compositae,,Simsia,,"sanguinea",var.,"triloba","(S.F.Blake) D.M.Spooner",Accepted,,L,TICA,C2E4BCCC-53E9-472C-9563-AE6EBF4E01FC,,"","","","ine.",
+gcc-42817,A,Compositae,,Simsia,,"santarosensis",,"","D.M.Spooner",Accepted,,M,TICA,EFEC62AE-E953-4979-ACDF-4F49FA8EBE23,285053-2,"","","29","1990",
+gcc-37655,A,Compositae,,Simsia,,"scaposa",,"","A.Gray",Synonym,,M,TICA,46133CF2-82C7-4147-9442-45CE668F09AC,,"Pl. Wright. ii. 88.","","","1853",gcc-92972
+gcc-95940,A,Compositae,,Simsia,,"schaffneri",,"","Sch.Bip. ex A.Gray",Synonym,Illegitimate,M,TICA,61DE5A33-4704-4D93-8073-907BF0F4FFED,,"Proc. Amer. Acad. Arts 19: 8. 1883.","","8","1883",gcc-95931
+gcc-92463,A,Compositae,,Simsia,,"sericea",,"","(Hemsl.) S.F.Blake",Synonym,,M,TICA,87D03BA8-E346-4F7E-AABF-88A98A2DD041,236634-2,"Proc. Amer. Acad. Arts 49","","393","1913",gcc-40319
+gcc-99607,A,Compositae,,Simsia,,"setosa",,"","S.F.Blake",Accepted,,M,TICA,E73E1738-82C1-4CA0-B0DC-98BF71B59D9A,236635-2,"","","379","1913",
+kew-2600601,A,Proteaceae,,Simsia,,"simplex",,"","F.Muell.",Unresolved,,L,WCSP (in review),,706612-1,"Syst. Census Austral. Pl.","66","","1882",kew-2600798
+gcc-136521,A,Compositae,,Simsia,,"sodiroi",,"","(Hieron.) S.F.Blake",Synonym,,M,TICA,BF6D38DC-FBB7-4F73-B481-EC692B74C99D,236636-2,"","","383","1913",gcc-127218
+gcc-34581,A,Compositae,,Simsia,,"spooneri",,"","Panero & E.E.Schill.",Synonym,,M,TICA,4118E37E-7CCB-4FDA-BB72-4018512CF92B,300791-2,"","","387","1992",gcc-27932
+gcc-143763,A,Compositae,,Simsia,,"steyermarkii",,"","H.Rob. & Brettell",Accepted,,M,TICA,2E09374B-51B6-4963-99AE-FC9E53073360,236637-2,"Phytologia 24","","375","1972",
+tro-50145201,A,Compositae,,Simsia,,"subarista",,"","A. Gray",Synonym,,L,TRO,50145201,,"Mem. Amer. Acad. Arts, n.s.","4: 84–85","84","1849",gcc-57654
+gcc-40950,A,Compositae,,Simsia,,"subaristata",,"","A.Gray",Accepted,,M,TICA,25EDF18E-FBCD-4D55-A95C-4BE0829D18B6,,"","","","1849",
+gcc-78257,A,Compositae,,Simsia,,"submollicoma",,"","S.F.Blake",Unresolved,,L,TICA,370AAE71-FA7C-481B-8FD8-68B953DEE895,236639-2,"","","381","1913",
+gcc-41540,A,Compositae,,Simsia,,"subsetosa",,"","H.Rob. & Brettell",Unresolved,,L,TICA,086CEBDC-DFBE-4F2F-AD85-4CEEAEEB8BD8,236640-2,"","","376","1972",
+gcc-99558,A,Compositae,,Simsia,,"sylvicola",,"","Panero & E.E.Schill.",Unresolved,,L,TICA,B68DA522-BC49-48D9-8FBA-98989C4945E2,,"","","","1992",
+kew-2600600,A,Proteaceae,,Simsia,,"tenuifolia",,"","R.Br.",Unresolved,,L,WCSP (in review),,706613-1,"Trans. Linn. Soc. London","10: 152","","1810",kew-2600797
+gcc-16100,A,Compositae,,Simsia,,"tenuis",,"","(Fernald) S.F.Blake",Accepted,,M,TICA,5C9157CE-A480-4873-93B4-1DC8799D805F,236641-2,"","","380","1913",
+kew-2600599,A,Proteaceae,,Simsia,,"teretifolia",,"","F.Muell.",Unresolved,,L,WCSP (in review),,706614-1,"Syst. Census Austral. Pl.","66","","1882",kew-2600796
+gcc-78265,A,Compositae,,Simsia,,"triloba",,"","S.F.Blake",Synonym,,M,TICA,BCE4FE0C-24F3-44AE-9960-68BF619691F1,,"","","","1913",gcc-62390
+gcc-117181,A,Compositae,,Simsia,,"villasenorii",,"","D.M.Spooner",Accepted,,M,TICA,0D0E47F0-63E1-4538-A1B1-C00FCE9BE4A7,285054-2,"Syst. Bot. Monogr. 30","","""41-42, f. 16""","1990",

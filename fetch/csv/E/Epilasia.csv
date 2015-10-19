@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-150226,A,Compositae,,Epilasia,,"acrolasia",,"","(Bunge) Lipsch.",Accepted,,M,TICA,5D4BAA29-919D-4EDA-BE8A-69A294D29CD0,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","29","1939",
+gcc-34595,A,Compositae,,Epilasia,,"acrolasia",,"","(Bunge) Soják",Synonym,,L,TICA,D0A338A1-5FC0-4CF6-BAD2-40207DFD7BD6,203264-1,"","","49","1962",gcc-79728
+gcc-79728,A,Compositae,,Epilasia,,"acrolasia",,"","(Bunge) C.B.Clarke",Unresolved,,L,TICA,2E3E96B5-7E9E-4E6C-A4DA-6C0BF6809F42,203263-1,"Compositae Indica","","279","1876",
+gcc-137328,A,Compositae,,Epilasia,,"ammophila",,"","(Bunge) C.B.Clarke",Synonym,Invalid,M,TICA,46F6584C-4BAE-40F3-B830-EE3A731AE160,203265-1,"","","279","1876",gcc-150226
+gcc-154740,A,Compositae,,Epilasia,,"ammophila",,"","(Bunge) Tzvelev",Synonym,,M,TICA,9D8AB40B-3B4F-49AD-A71B-CA0C5DB60049,,"""N.N. Tzvelev, Rast. Tsentral. Azii 14b""","","125","",gcc-150226
+gcc-32727,A,Compositae,,Epilasia,,"bungeana",,"","C.B.Clarke",Synonym,,M,TICA,D9CD0575-7582-42DC-AD0E-3CAE7816A37D,,"Compositae Indica","","279","1876",gcc-116914
+gcc-35559,A,Compositae,,Epilasia,,"bungei",,"","C.B.Clarke",Synonym,Illegitimate,M,TICA,24BEA301-DADE-4F5C-9A63-41EE9B88FBAC,203266-1,"","","279","1876",gcc-116914
+gcc-125338,A,Compositae,,Epilasia,,"cenopleura",,"","(Bunge) C.B.Clarke",Synonym,Invalid,M,TICA,3F72EAB2-BCA6-4309-BAD9-D2CBDDEE0882,203267-1,"Comp. Ind. 279.","","279","1876",gcc-116914
+gcc-46154,A,Compositae,,Epilasia,,"cenopleura",,"","(Bunge) Soják",Synonym,,M,TICA,81426781-6EB2-49EB-BAE8-558E625726AC,203268-1,"","","49","1962",gcc-116914
+gcc-116914,A,Compositae,,Epilasia,,"hemilasia",,"","(Bunge) C.B.Clarke",Accepted,,M,TICA,86D42AC3-9820-4023-AC70-BF8137907027,203269-1,"Compositae Indica","","279","1876",
+tro-100376382,A,Compositae,,Epilasia,,"hemilasia",,"","(Bunge) C.B. Clarke ex Kuntze",Unresolved,,L,TRO,100376382,203270-1,"Trudy Imp. S.-Peterburgsk. Bot. Sada","10: 202","202","1887",
+gcc-25474,A,Compositae,,Epilasia,,"hemilasia",var.,"ammophila","(Bunge) Kuntze",Synonym,,L,TICA,9ED7D302-8139-47A0-B778-2F08A4DAB248,,"Trudy Imp. S.-Peterburgsk Bot. Sada 10: 202 (1887)","","202","1887",gcc-79728
+gcc-145341,A,Compositae,,Epilasia,,"hemilasia",var.,"cenopleura","(Bunge) Lipsch.",Synonym,,L,TICA,C45C8DFE-C628-402C-8CEF-0240727087E8,,"""S.J. Lipschitz, Fragm. Monogr. Scorzonera 2. 1939""","","33","1939",gcc-116914
+gcc-148921,A,Compositae,,Epilasia,,"hemilasia",f.,"hemilasia","",Synonym,,L,TICA,C5FDF6F8-B92D-45C6-9D62-4DDEDA706B58,,"","","","",gcc-116914
+gcc-156997,A,Compositae,,Epilasia,,"hemilasia",var.,"hemilasia","",Synonym,,L,TICA,722D2101-9A3B-446F-AFCA-F8A090014330,,"","","","",gcc-116914
+gcc-73873,A,Compositae,,Epilasia,,"hemilasia",f.,"latifolia","Kuntze",Synonym,,L,TICA,016CFE17-0173-4CD9-9B99-2A5043C85DF0,,"Trudy Imp. S.-Peterburgsk Bot. Sada 10: 203 (1887)","","203","1887",gcc-116914
+gcc-99551,A,Compositae,,Epilasia,,"hemilasia",f.,"linearifolia","Kuntze",Synonym,,L,TICA,A6F4A4EC-D80D-4934-B611-98956A1FFE79,,"Trudy Imp. S.-Peterburgsk Bot. Sada 10: 203 (1887)","","203","1887",gcc-116914
+gcc-62264,A,Compositae,,Epilasia,,"hemilasia",var.,"multicostata","Kuntze",Synonym,,L,TICA,D37BFDA0-CBAA-4F00-871B-AD44F5918A9F,,"Trudy Imp. S.-Peterburgsk Bot. Sada 10: 202 (1887)","","202","1887",gcc-116914
+gcc-64252,A,Compositae,,Epilasia,,"hemilasia",var.,"nana","(Boiss. & Buhse) Kuntze",Synonym,,L,TICA,DEE8F04C-EFDD-4A62-A65A-BCF6A2ED8AC1,,"Trudy Imp. S.-Peterburgsk Bot. Sada 10: 202 (1887)","","202","1887",gcc-116914
+gcc-157192,A,Compositae,,Epilasia,,"hemilasia",var.,"subglabra","C.Winkl.",Synonym,,L,TICA,523FB116-4F6E-41E5-AA0A-FCE0BBA7E9F0,,"","","","",gcc-116914
+gcc-12213,A,Compositae,,Epilasia,,"intermedia",,"","(Bunge) Soják",Synonym,,M,TICA,430A6090-2366-4231-B52C-16C450F3A2C6,203273-1,"","","49","1962",gcc-116914
+gcc-94026,A,Compositae,,Epilasia,,"intermedia",,"","(Bunge) C.B.Clarke",Synonym,Invalid,M,TICA,F1147A6E-5174-4CF7-A0E9-8C08B5DC6F83,203272-1,"Comp. Ind. 279.","","279","1876",gcc-116914
+gcc-102723,A,Compositae,,Epilasia,,"mirabilis",,"","Lipsch.",Accepted,,M,TICA,66F8F657-D5D6-4666-98FA-9FC72E6ACFA8,203274-1,"","","176","1940",
+gcc-112982,A,Compositae,,Epilasia,,"nana",,"","(Boiss. & Buhse) Grossh.",Synonym,,M,TICA,FFF2B1DA-3553-4E67-A423-B6A2D2BE9E05,,"","","56","1932",gcc-116914
+gcc-52182,A,Compositae,,Epilasia,,"prostrata",,"","Gilli",Synonym,,M,TICA,254BC850-440C-49CA-848A-60CC238FD757,203278-1,"Feddes Repert. Spec. Nov. Regni Veg. 68","","99","1963",gcc-150226

@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-80725,A,Compositae,,Callistephus,,"biennis",,"","(Ledeb.) Lindl. ex DC.",Synonym,,M,TICA,ABD096DF-BB5B-49BF-A86B-6E30B2542EF1,188022-1,"","","275","1836",gcc-12454
+gcc-14090,A,Compositae,,Callistephus,,"chinensis",,"","(L.) Benth.",Unresolved,,L,TICA,29F3E3D2-FE3B-4228-91DC-1A229B997A37,,"","","","",
+gcc-7371,A,Compositae,,Callistephus,,"chinensis",,"","(L.) Nees",Accepted,,M,TICA,915552BE-2129-4035-98DD-0DB52F1E310C,188023-1,"","","222","1832",
+gcc-103118,A,Compositae,,Callistephus,,"concolor",,"","Dalzell",Synonym,,M,TICA,D793EB09-E40A-4CFD-B376-A09579E50B1D,188024-1,"Hooker's J. Bot. Kew Gard. Misc. 2","","344","1850",gcc-142731
+gcc-44999,A,Compositae,,Callistephus,,"cuneatus",,"","Dalzell ex Cooke",Unresolved,,L,TICA,F2BB8C82-2BCD-4486-B6E4-535F005F9A3B,188025-1,"","","","1904",gcc-10682
+gcc-102144,A,Compositae,,Callistephus,,"heyneanus",,"","DC.",Synonym,,M,TICA,EFB136FB-C97B-403D-8674-9E67D77381AF,188026-1,"","","275","1836",gcc-111795
+gcc-134585,A,Compositae,,Callistephus,,"hortensis",,"","(Cass.) Cass.",Synonym,,M,TICA,0638697D-3470-4D7A-A5E1-E81ECBC2EC14,188027-1,"","","491","1825",gcc-7371
+gcc-29573,A,Compositae,,Callistephus,,"indicus",,"","(L.) DC.",Synonym,,M,TICA,C5F7C3A0-A4DA-4B49-8DD3-36AB40E054AF,188028-1,"Prodr. 5","","275","1836",gcc-140038
+gcc-14773,A,Compositae,,Callistephus,,"lacinians",,"","Borbás",Synonym,,M,TICA,98C7FF6E-5287-40A5-B793-1B6733C81FFF,,"","","","1904",gcc-7371
+gcc-100036,A,Compositae,,Callistephus,×,"sinensis",,"","Bergmans",Accepted,,M,TICA,7F6F5C5F-D621-4A25-9063-99B15A29513B,188030-1,"","","","1924",
+gcc-107755,A,Compositae,,Callistephus,,"wightianus",,"","DC.",Synonym,,M,TICA,E60E1763-32A4-4F5E-BCF1-AACED122533D,188031-1,"","","275","1836",gcc-111795

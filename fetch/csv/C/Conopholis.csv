@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2734704,A,Orobanchaceae,,Conopholis,,"alpina",,"","Liebm.",Accepted,,M,WCSP (in review),,329940-2,"Förh. Skand. Naturf. Möte","1844: 184","","1847",
+tro-23600074,A,Orobanchaceae,,Conopholis,,"alpina",var.,"alpina","",Synonym,,L,TRO,23600074,,"","","","1969",kew-2734704
+kew-2734705,A,Orobanchaceae,,Conopholis,,"alpina",var.,"mexicana","(A.Gray ex S.Watson) R.R.Haynes",Synonym,,L,WCSP (in review),,,"Sida","4: 255","","1971",kew-2734704
+kew-2734707,A,Orobanchaceae,,Conopholis,,"americana",,"","Endl.",Synonym,,M,WCSP (in review),,,"Iconogr. Gen. Pl.","t. 81","","1839",kew-2734704
+tro-23600073,A,Orobanchaceae,,Conopholis,,"americana",,"","(L.) Wallr.",Accepted,,M,TRO,23600073,661990-1,"Orobanches Gen. Diask.","78–79","78","1825",
+kew-2734708,A,Orobanchaceae,,Conopholis,,"ludoviciana",,"","(Walp.) A.Wood",Unresolved,,L,WCSP (in review),,,"Class-book Bot.","ed. 2b: 512","","1861",
+kew-2734709,A,Orobanchaceae,,Conopholis,,"mexicana",,"","A.Gray ex S.Watson",Synonym,,M,WCSP (in review),,661992-1,"Proc. Amer. Acad. Arts","18: 131","","1882",kew-2734704
+kew-2734710,A,Orobanchaceae,,Conopholis,,"panamensis",,"","Woodson",Synonym,,M,WCSP (in review),,64337-2,"Ann. Missouri Bot. Gard.","25: 835","","1938",kew-2734704
+kew-2734711,A,Orobanchaceae,,Conopholis,,"sylvatica",,"","Liebm.",Synonym,,M,WCSP (in review),,329941-2,"Förh. Skand. Naturf. Möte","1844: 185","","1847",kew-2734704

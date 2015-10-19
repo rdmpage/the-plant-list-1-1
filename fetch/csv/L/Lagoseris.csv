@@ -1,0 +1,48 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10701,A,Compositae,,Lagoseris,,"alata",,"","Nyman",Synonym,,M,TICA,329ED400-D5A2-4291-9ED2-1403D2C31137,228506-1,"Syll. Fl. Eur.","","50","1855",gcc-110581
+gcc-33409,A,Compositae,,Lagoseris,,"apargioides",,"","Link",Synonym,Illegitimate,M,TICA,62727B8F-976B-4CCF-83AC-3DF24B7C754B,228509-1,"Handb.","","i. 798","1829",gcc-40237
+gcc-99606,A,Compositae,,Lagoseris,,"aralensis",,"","(Bunge) Boiss.",Synonym,,M,TICA,9970C8B5-B59B-46F2-9DD3-98BED814CD8B,228511-1,"Fl. Orient. [Boissier] 3: 882","","882","1875",gcc-110581
+gcc-23039,A,Compositae,,Lagoseris,,"bifida",,"","W.D.J.Koch",Unresolved,,L,TICA,DB97905E-ABFD-499D-A0FF-2AA7010756BB,228512-1,"Syn. Fl. Germ. Helv. (Koch) 1(2): 435","","435","1837",gcc-110581
+gcc-109579,A,Compositae,,Lagoseris,,"bursifolia",,"","Link",Unresolved,,L,TICA,90368532-AFDB-4BDE-BFA1-AEF8E1933283,228515-1,"Enum. Hort. Berol.","","ii. 289","1822",
+gcc-147129,A,Compositae,,Lagoseris,,"bursifolia",,"","(L.) Rchb.",Synonym,,M,TICA,B02B89C9-3845-45F4-BED0-270F831199E9,,"""L. Reichenbach, Iconogr. Bot. Pl. Crit. 1. 1823""","","29","1823",gcc-45555
+gcc-115468,A,Compositae,,Lagoseris,,"callicephala",,"","Juz.",Synonym,,M,TICA,52AA599A-3797-46DA-A451-BC363C80AF84,,"Juz. in Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk SSSR 14. 1951.","","45","1951",gcc-87896
+gcc-94,A,Compositae,,Lagoseris,,"calycina",,"","Hoffmanns. & Link",Synonym,,M,TICA,059B38D6-2DA9-494B-AE8A-0031E92F5CAC,228517-1,"Fl. Port.","","150","1820",gcc-138253
+gcc-148376,A,Compositae,,Lagoseris,,"caspica",,"","Pacz.",Synonym,,M,TICA,0A40C7BE-76FA-4A6D-A983-412BED97913D,,"Pacz. in Zap. Kievsk. Obshch. Estestvoisp. 12. 1892","","138","1892",gcc-110581
+gcc-77533,A,Compositae,,Lagoseris,,"caspica",,"","Paczosky",Unresolved,,L,TICA,295EAFAE-FF8C-422E-BD83-67156DA02D3B,228518-1,"","","","1892",
+gcc-75596,A,Compositae,,Lagoseris,,"cernua",,"","(Spreng.) Link",Synonym,,M,TICA,B5EDA337-D141-4ED5-A0F1-62C98FB95897,228521-1,"Enum. Hort. Berol.","","ii. 289","1822",gcc-41571
+gcc-116736,A,Compositae,,Lagoseris,,"crepoides",,"","M.Bieb.",Synonym,Illegitimate,M,TICA,A5A5FEE9-FB0B-414E-BC68-BF1A143B57F1,228523-1,"","","t. 30","1810",gcc-40454
+gcc-76077,A,Compositae,,Lagoseris,,"elbrusensis",,"","(Boiss.) Czerep.",Unresolved,,L,TICA,08034A42-5B7B-4467-8764-63D2599B2E8D,228524-1,"""Fl. URSS xxix. 704 (1964), in obs.""","","""xxix. 704 , in obs.""","1964",
+gcc-76809,A,Compositae,,Lagoseris,,"frigida",,"","(Boiss. & Balansa) Boiss.",Synonym,,M,TICA,F5A5B715-B7F1-4A0F-8EB6-6576BF69DD10,228526-1,"Fl. Orient. [Boissier] 3: 882","","882","1875",gcc-41843
+gcc-148321,A,Compositae,,Lagoseris,,"frigida",var.,"bourgaei","Boiss.",Synonym,,L,TICA,C4FA95B5-CB7B-41A2-AAA3-403F1454AFEE,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","883","1875",gcc-41843
+gcc-155503,A,Compositae,,Lagoseris,,"frigida",var.,"frigida","",Synonym,,L,TICA,10DDDFB9-7A5C-4841-9BB4-D989358D292A,,"","","","",gcc-41843
+gcc-97597,A,Compositae,,Lagoseris,,"glaucescens",,"","(K.Koch) Sosn.",Synonym,,M,TICA,54E19A94-618F-4DB3-8177-943E3C86EC5E,,"","","248","1928",gcc-57155
+gcc-149661,A,Compositae,,Lagoseris,,"hieracioides",,"","Boiss. & Hausskn.",Synonym,,M,TICA,77A3A8C1-4AB3-4D7D-9F18-5D953D85D607,,"""P.E. Boissier, H.C. Haussknecht - in P.E. Boissier, Fl. Orient. 3. 1875""","","883","",gcc-95020
+gcc-19352,A,Compositae,,Lagoseris,,"hieracioides",,"","Boiss. & Hausskn. ex Boiss.",Unresolved,,L,TICA,FAD38D4E-D9EC-466A-AA1A-23C5AFE913B5,228529-1,"Fl. Orient. [Boissier] 3: 883","","883","1875",
+gcc-11883,A,Compositae,,Lagoseris,,"intybacea",,"","(Brot.) Hoffmanns. & Link",Synonym,,M,TICA,03232AEC-8055-4E38-8D88-1624A42E4854,228531-1,"Fl. Port.","","ii. 149","1820",gcc-63363
+gcc-44985,A,Compositae,,Lagoseris,,"leontodontoides",,"","(All.) Link",Synonym,,M,TICA,8B68BDBC-6161-422E-BF05-5359F7985B6B,228533-1,"Enum. Hort. Berol.","","ii. 289","1822",gcc-110489
+gcc-113989,A,Compositae,,Lagoseris,,"macrantha",,"","(Bunge) Iljin",Synonym,,M,TICA,F2C309C4-8F98-44B1-9A2D-B8D0DFDD15B7,,"","","416","1927",gcc-57155
+gcc-117234,A,Compositae,,Lagoseris,,"marschalliana",,"","(Rchb.) Thell.",Synonym,,M,TICA,613E56DF-6C9F-4D6C-BA78-C02DCCAD358C,228536-1,"","","576","1912",gcc-57155
+gcc-1689,A,Compositae,,Lagoseris,,"nemausensis",,"","M.Bieb.",Synonym,,M,TICA,8226229A-0141-4C0F-BDF9-030C6E81D0D0,228538-1,"","","538","1819",gcc-110581
+gcc-85647,A,Compositae,,Lagoseris,,"nemausensis",,"","Gouan",Unresolved,,L,TICA,E491F1A5-F71B-47D6-B1CC-79241F563887,,"","","","1773",
+gcc-87940,A,Compositae,,Lagoseris,,"nemausensis",,"","K.Malý",Synonym,,M,TICA,8BA9D01B-DDD1-4ECD-9805-7E51D06F9A21,,"""K. Malý in Schultz & al., Herb. Norm., ser. [3] 51-52. 1910.""","","37","1910",gcc-62282
+gcc-17863,A,Compositae,,Lagoseris,,"obovata",,"","(Boiss. & Noë) Bornm.",Synonym,,M,TICA,380ECFDF-ACF8-4D14-84C1-20F7DE6131CB,,"","","176","1906",gcc-57155
+gcc-15878,A,Compositae,,Lagoseris,,"orientalis",,"","Boiss.",Synonym,,M,TICA,22E557F5-85CC-4953-9BE5-1D6235AEFD73,228541-1,"Fl. Orient. [Boissier] 3: 882","","882","1875",gcc-110581
+gcc-118235,A,Compositae,,Lagoseris,,"ovata",,"","(Boiss. & Noë) Bornm.",Accepted,,M,TICA,D27F4F59-F56D-4989-B6FA-C275351F77CA,,"""Beih. Bot. Centralbl. 20, 2: 176 (1906)""","","176","1906",
+gcc-106501,A,Compositae,,Lagoseris,,"purpurea",,"","(Willd.) Boiss.",Synonym,,M,TICA,450B63C4-510B-4490-8A73-A7F2E43DF1CB,,"""Boiss., Fl. Orient. 3. 1875.""","","883","1875",gcc-40454
+gcc-32214,A,Compositae,,Lagoseris,,"purpurea",,"","Steven ex DC.",Accepted,,M,TICA,E9016D81-2FD2-4E24-8E41-3BAEAB267F44,228542-1,"Prodr. (DC.) 7(1)","","883","1838",
+gcc-128810,A,Compositae,,Lagoseris,,"raphanifolia",,"","(Willd.) Link",Synonym,,M,TICA,AEE0C405-B2F6-4CFA-8832-DADD0EB38801,228545-1,"Enum. Hort. Berol.","","ii. 289","1822",gcc-14248
+gcc-1017,A,Compositae,,Lagoseris,,"robusta",,"","Czerep.",Synonym,,M,TICA,29C4128A-BD0D-4F12-85D4-01DCEDA516E7,228546-1,"","","759","1964",gcc-40454
+gcc-152766,A,Compositae,,Lagoseris,,"rueppellii",,"","Sch.Bip.",Synonym,,M,TICA,B29E3945-53DB-4B08-A8A9-A00A59388294,,"C.H. Schultz in Flora 22. 1839","","19","1839",gcc-110581
+gcc-127090,A,Compositae,,Lagoseris,,"runcinata",,"","(Trautv.) Boiss.",Synonym,,M,TICA,2455E90B-D41C-424D-B63B-D6D0D8F55337,228548-1,"Fl. Orient. [Boissier] Suppl. 329","","329","1888",gcc-137280
+gcc-106986,A,Compositae,,Lagoseris,,"ruppelii",,"","Sch.Bip.",Unresolved,,L,TICA,F8C99806-8522-47E0-94A0-A9114A6D785E,,"""Flora,""","","","1839",
+gcc-92719,A,Compositae,,Lagoseris,,"sahendi",,"","(Boiss. & Buhse) Czerep.",Synonym,,M,TICA,B6892FAA-FC5F-4A66-AC9D-893969BC816C,228551-1,"","","707","1964",gcc-137280
+gcc-82519,A,Compositae,,Lagoseris,,"sancta",,"","(L.) K.Malý",Synonym,,M,TICA,7ECFFEBD-FF59-4C4B-B28F-723D6498CABB,,"","","","1908",gcc-110581
+gcc-92766,A,Compositae,,Lagoseris,,"sancta",,"","Grande",Unresolved,,L,TICA,B07DE2C1-E121-48D4-BAC0-89528B32DC14,228552-1,"""in Bull. Ort. Bot. Napoli, v. 221 (1918).""","","v. 221","1918",
+gcc-129732,A,Compositae,,Lagoseris,,"taraxacifolia",,"","Rchb.",Unresolved,,L,TICA,5DC221E2-E86F-4FFF-B260-DCF189A1BE0A,228554-1,"Ic. Fl. Germ. i. 28.","","i. 28","",
+gcc-154247,A,Compositae,,Lagoseris,,"taraxacifolia",,"","(Thuill.) Steud.",Synonym,,M,TICA,72F7EEF1-23B4-4B4A-B623-BF92983A813C,,"""E.G. von Steudel, Nomencl. Bot., ed. 2 2. 1841""","","5","1841",gcc-63363
+gcc-58,A,Compositae,,Lagoseris,,"taraxacoides",,"","Link",Unresolved,,L,TICA,2B5A5463-9345-43F7-84F8-00251E33018A,228556-1,"Handb. i. 797.","","i. 797","",
+gcc-8981,A,Compositae,,Lagoseris,,"taraxacoides",,"","Rchb.",Synonym,,M,TICA,1FC248B9-C251-4282-B7DA-10CE78BA3E7F,,"Ic. Bot. i. 28 (1823).","","","1823",gcc-14248
+gcc-139427,A,Compositae,,Lagoseris,,"taurica",,"","M.Bieb.",Synonym,,M,TICA,A87698B3-7BD8-4D26-BEB0-F2B7DBC4126B,228559-1,"","","539","1819",gcc-40454
+gcc-44465,A,Compositae,,Lagoseris,,"taurinensis",,"","(Willd.) Link",Synonym,,M,TICA,5A5956AF-B093-4271-96B3-52647422F3B9,228561-1,"Enum. Hort. Berol.","","ii. 289","1822",gcc-63363
+gcc-4943,A,Compositae,,Lagoseris,,"tenuifolia",,"","(Willd.) Rchb.",Synonym,,M,TICA,9942AA06-9ABA-4045-B3E5-093922375086,228563-1,"","","i. 11","1823",gcc-149062
+gcc-113965,A,Compositae,,Lagoseris,,"versicolor",,"","Fisch. ex Link",Synonym,,M,TICA,90D816B4-8DF7-4771-882F-B8C46D74881F,,"Enum. Hort. Berol.","","","1822",gcc-13707

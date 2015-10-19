@@ -1,0 +1,69 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120469,A,Compositae,,Tetramolopium,,"alinae",,"","(F.Muell.) Mattf.",Accepted,,M,TICA,E49CF0EE-BAD1-4829-B7F9-C79CF7EAE85D,,"","","","1929",
+gcc-92248,A,Compositae,,Tetramolopium,,"arbusculum",,"","(A.Gray) Sherff",Synonym,,M,TICA,190A8889-EEF3-44FB-8D05-883004C9BEDE,255364-1,"Bot. Gaz. xcv. 502 (1934)","","502","1934",gcc-60468
+gcc-41539,A,Compositae,,Tetramolopium,,"arenarium",,"","(A.Gray) Hillebr.",Accepted,,M,TICA,A9675F3B-5F7C-4684-A015-4CEDC7610514,255365-1,"Fl. Haw. Isl. (1888) 199.","","199","1888",
+gcc-54057,A,Compositae,,Tetramolopium,,"arenarium",subsp.,"arenarium","",Synonym,,L,TICA,4548EB48-C655-4569-8234-6B10708FF7A1,,"","","","",gcc-41539
+gcc-67879,A,Compositae,,Tetramolopium,,"arenarium",var.,"dentatum","Hillebr.",Synonym,,L,TICA,2CAC54BE-D183-4143-88BF-DABC88CCECE3,,"","","","",gcc-54337
+gcc-54337,A,Compositae,,Tetramolopium,,"arenarium",subsp.,"laxum","Lowrey",Accepted,,L,TICA,8956A11E-D2AB-4040-B094-6D39896352E7,,"Allertonia 4(4): 259 (1986)","","259","1986",
+gcc-136151,A,Compositae,,Tetramolopium,,"bennettii",,"","Sherff",Unresolved,,L,TICA,C44461DF-191B-495E-B19B-EB904A1D67FA,255366-1,"Bot. Gaz. xcv. 498 (1934)","","498","1934",
+gcc-22482,A,Compositae,,Tetramolopium,,"bicolor",,"","J.Kost.",Accepted,,M,TICA,A67C1020-AE91-48B7-A82F-2997F7BE1BA2,255367-1,"","","""582, t. 12 e--h""","1966",
+gcc-25340,A,Compositae,,Tetramolopium,,"calcisabulorum",,"","(H.St.John) H.St.John",Synonym,,M,TICA,6FB4A401-6E1E-42B5-B488-2EC423115E4C,,"","","","",gcc-67829
+gcc-138600,A,Compositae,,Tetramolopium,,"capellaense",,"","P.Royen",Accepted,,M,TICA,44D26973-5A68-4BA9-B77F-F0F37E393B2D,,"","","","1983",
+gcc-126521,A,Compositae,,Tetramolopium,,"capillare",,"","(Gaudich.) H.St.John",Accepted,,M,TICA,2A3F0D8E-D763-472F-AED4-D58262BEBBC6,255368-1,"Ann. Missouri Bot. Gard. lii. 432 (1965).","","lii. 432","1965",
+gcc-49729,A,Compositae,,Tetramolopium,,"carstenszense",,"","P.Royen",Accepted,,M,TICA,E96D6438-BE3C-401D-BE14-5C2C4C079B0B,,"","","","1983",
+gcc-125357,A,Compositae,,Tetramolopium,,"chamissonis",,"","Hillebr.",Unresolved,,L,TICA,23FD92A1-05F4-4CDA-9C40-D2DA3576F875,255369-1,"Fl. Haw. Isl. (1888) 199.","","199","1888",
+gcc-22747,A,Compositae,,Tetramolopium,,"ciliatum",,"","Mattf.",Accepted,,M,TICA,71142251-5AB6-4144-85E8-2A167B82C89A,,"","","","1940",
+gcc-144397,A,Compositae,,Tetramolopium,,"cinereum",,"","J.Kost.",Accepted,,M,TICA,84E5D653-A02B-48EA-AD10-FDFBA8567992,255371-1,"","","""577, t. 11 a--e""","1966",
+gcc-100840,A,Compositae,,Tetramolopium,,"consanguineum",,"","(A.Gray) Hillebr.",Accepted,,M,TICA,76D90CA4-335F-49C2-941E-9B8AB266F2EC,255372-1,"Fl. Haw. Isl. (1888) 199.","","199","1888",
+gcc-153271,A,Compositae,,Tetramolopium,,"consanguineum",var.,"consanguineum","",Synonym,,L,TICA,E88FC55B-8162-48A0-8F4A-AAE3F7096CAB,,"","","","",gcc-100840
+gcc-6309,A,Compositae,,Tetramolopium,,"consanguineum",subsp.,"consanguineum","",Synonym,,L,TICA,1275A537-0917-4BA1-9FF0-0BBD87DD74BD,,"","","","",gcc-100840
+gcc-24691,A,Compositae,,Tetramolopium,,"consanguineum",var.,"kauense","Lowrey",Synonym,,L,TICA,3330CE0C-B46B-43B9-B5D0-2D9BC4D8D807,,"Allertonia 4(4): 262 (1986)","","262","1986",gcc-9430
+gcc-58437,A,Compositae,,Tetramolopium,,"consanguineum",var.,"leptophyllum","Sherff",Synonym,,L,TICA,D2075973-690B-4BFC-AEA2-8EAEBD2A0EDA,,"","","","",gcc-9430
+gcc-9430,A,Compositae,,Tetramolopium,,"consanguineum",subsp.,"leptophyllum","(Sherff) Lowrey",Accepted,,L,TICA,3DFF3F01-AE62-4F5B-9B51-119ACE4767DD,,"Allertonia 4(4): 260 (1986):.","","260","1986",
+gcc-120614,A,Compositae,,Tetramolopium,,"conyzoides",,"","(A.Gray) Hillebr.",Accepted,,M,TICA,BF852952-82A4-4AF8-88B3-C7F73D1693F9,255373-1,"Fl. Haw. Isl. (1888) 200.","","200","1888",
+gcc-151056,A,Compositae,,Tetramolopium,,"conyzoides",var.,"conyzoides","",Synonym,,L,TICA,AD9468D5-3852-4AED-A47E-7C613B45E38B,,"","","","",gcc-120614
+gcc-12383,A,Compositae,,Tetramolopium,,"conyzoides",var.,"dentatum","Sherff",Synonym,,L,TICA,296DF0C7-2640-47BD-83AF-1716A920B01D,,"","","","",gcc-120614
+gcc-89991,A,Compositae,,Tetramolopium,,"corallioides",,"","J.Kost.",Accepted,,M,TICA,BAF0D7DE-47FB-4B69-A500-82FD2B7AC5C3,255374-1,"","","""567, t. 8 f.--j""","1966",
+gcc-117391,A,Compositae,,Tetramolopium,,"crepatutarum",,"","P.Royen",Accepted,,M,TICA,C455B4C7-1B88-4D05-900A-C09039CAE21F,,"","","","1983",
+gcc-43352,A,Compositae,,Tetramolopium,,"distichum",,"","(S.Moore) Mattf.",Accepted,,M,TICA,D913D0BC-58C5-47CF-9BBA-5052F3DFF5C6,,"","","","1929",
+gcc-204,A,Compositae,,Tetramolopium,,"ericoides",,"","Mattf.",Accepted,,M,TICA,5798C4B6-A426-4DE3-937A-005E8188D34E,,"","","","",
+gcc-35437,A,Compositae,,Tetramolopium,,"fasciculatum",,"","J.Kost.",Accepted,,M,TICA,FF9D3A29-8535-48D8-8666-41AF5C14F72C,255377-1,"","","574","1966",
+gcc-87413,A,Compositae,,Tetramolopium,,"filiforme",,"","Sherff",Accepted,,M,TICA,ABA669B8-4E8C-42A0-859C-7D3B2DFF5ACD,255378-1,"Bot. Gaz. xcv. 498 (1934)","","498","1934",
+gcc-32804,A,Compositae,,Tetramolopium,,"filiforme",var.,"filiforme","",Synonym,,L,TICA,1BB772A2-7AF4-4094-8E5E-3CD964007339,,"","","","",gcc-87413
+gcc-35239,A,Compositae,,Tetramolopium,,"filiforme",var.,"polyphyllum","(Sherff) Lowrey",Accepted,,L,TICA,E59E851F-5BFF-4D44-8773-41542ACECD32,,"Allertonia 4(4): 247 (1986):.","","247","1986",
+gcc-119334,A,Compositae,,Tetramolopium,,"flaccidum",,"","Mattf.",Accepted,,M,TICA,A6B66758-EB5B-4F7B-8440-C4F1CE3B9E5D,,"","","","1937",
+gcc-117983,A,Compositae,,Tetramolopium,,"gracile",,"","J.Kost.",Synonym,,M,TICA,6C9B9E2E-1B90-4AC5-B05D-C1E141973B12,,"","","""580, t. 12 a--d""","1966",gcc-204
+gcc-1251,A,Compositae,,Tetramolopium,,"humile",,"","(A.Gray) Hillebr.",Accepted,,M,TICA,E64881C4-C70D-4377-8609-024BA627ED1A,255381-1,"Fl. Haw. Isl. (1888) 198.","","198","1888",
+gcc-42601,A,Compositae,,Tetramolopium,,"humile",subsp.,"humile","",Synonym,,L,TICA,2B145FC9-408F-4F8D-8AC2-4EE5F6334E8B,,"","","","",gcc-1251
+gcc-8720,A,Compositae,,Tetramolopium,,"humile",var.,"humile","",Synonym,,L,TICA,F695AF10-6653-4E08-837D-104CAE6443E4,,"","","","",gcc-1251
+gcc-38773,A,Compositae,,Tetramolopium,,"klossii",,"","(S.Moore) Mattf.",Accepted,,M,TICA,2BB5449E-7EDF-404A-B9CF-47EC184BA5EF,,"","","","",
+gcc-95716,A,Compositae,,Tetramolopium,,"klossii",f.,"klossii","",Synonym,,L,TICA,7BE85927-99D3-46BE-8EF9-90008A3A8DE6,,"","","","",gcc-38773
+gcc-109238,A,Compositae,,Tetramolopium,,"lanatum",,"","J.Kost.",Accepted,,M,TICA,99BABC0A-F22F-4101-A07E-AE3629A3A872,255383-1,"","","""579, t. 11 f.--j""","1966",
+gcc-97027,A,Compositae,,Tetramolopium,,"lepidotum",,"","(Less.) Sherff",Accepted,,M,TICA,2BEF4FC2-4073-4D9E-88C9-92E75F098F78,255384-1,"Bot. Gaz. xcv. 500 (1934)","","500","1934",
+gcc-60468,A,Compositae,,Tetramolopium,,"lepidotum",subsp.,"arbusculum","(A.Gray) Lowrey",Accepted,,L,TICA,73F1C9F6-4044-4726-8603-9E7C397C3E77,,"Allertonia 4(4): 256 (1986):.","","256","1986",
+gcc-147313,A,Compositae,,Tetramolopium,,"lepidotum",var.,"lepidotum","",Synonym,,L,TICA,EAE31B58-18BD-42ED-B001-2B1035905506,,"","","","",gcc-97027
+gcc-71978,A,Compositae,,Tetramolopium,,"lepidotum",subsp.,"lepidotum","",Synonym,,L,TICA,691A829B-F4CB-4AD0-A7B1-FA5B72B8E2F7,,"","","","",gcc-97027
+gcc-31314,A,Compositae,,Tetramolopium,,"lepidotum",var.,"luxurians","(Hillebr.) Sherff",Synonym,,L,TICA,632328D8-D160-4C6F-B58A-39FF250C558C,,"","","","",gcc-97027
+gcc-45816,A,Compositae,,Tetramolopium,,"macrum",,"","(F.Muell.) Mattf.",Accepted,,M,TICA,622A6CED-90C8-45E7-8311-54EFD3B0187A,,"","","","",
+gcc-44910,A,Compositae,,Tetramolopium,,"macrum",var.,"macrum","",Synonym,,L,TICA,BE688BE3-9332-4A66-A30D-533AAA0AF1F7,,"","","","",gcc-45816
+gcc-18061,A,Compositae,,Tetramolopium,,"mitiaroense",,"","""Lowrey, Whitkus & Sykes""",Accepted,,M,TICA,5F2EEA73-BC10-45CB-AC40-215F6A6F5A78,,"","","","2005",
+gcc-140201,A,Compositae,,Tetramolopium,,"ochraceum",,"","(Kunth) DC.",Synonym,Illegitimate,M,TICA,C81A797F-4DB2-4E4A-BD00-F47B067BA55E,255386-1,"","","262","1836",gcc-25046
+gcc-127240,A,Compositae,,Tetramolopium,,"phylicoides",,"","DC.",Synonym,Illegitimate,M,TICA,2A02675A-251E-42FD-97C7-D72B9AB424DD,255387-1,"","","262","1836",gcc-85416
+gcc-51563,A,Compositae,,Tetramolopium,,"piloso-villosum",,"","(S.Moore) Mattf.",Accepted,,M,TICA,A94553DD-626F-43B1-9729-5F9BC601A60C,,"","","","1929",
+gcc-140407,A,Compositae,,Tetramolopium,,"pioraense",,"","P.Royen",Accepted,,M,TICA,974B8723-ED97-4060-97BC-F4F175EA54A1,,"","","","1983",
+gcc-131525,A,Compositae,,Tetramolopium,,"polyphyllum",,"","Sherff",Synonym,,M,TICA,DA60F9CE-13A4-4D6E-A283-E11B4D1731C7,255389-1,"Bot. Gaz. xcv. 499 (1934)","","499","1934",gcc-35239
+gcc-19009,A,Compositae,,Tetramolopium,,"procumbens",,"","J.Kost.",Accepted,,M,TICA,50E2E34B-94CA-4C20-B3DE-23186EC8A7DE,,"","","""574, t. 9 l--p""","1966",
+gcc-5978,A,Compositae,,Tetramolopium,,"prostratum",,"","Mattf.",Accepted,,M,TICA,F1C2D378-AE2B-4BAE-9F46-0B21E6F1A776,,"","","","",
+gcc-88996,A,Compositae,,Tetramolopium,,"pumilum",,"","Mattf.",Accepted,,M,TICA,792626D4-0127-46CE-9D31-80A86A053B96,,"","","","1937",
+gcc-50994,A,Compositae,,Tetramolopium,,"remyi",,"","(A.Gray) Hillebr.",Accepted,,M,TICA,2A882F57-B594-4268-9143-5E9DE04BD753,,"","","","",
+gcc-10756,A,Compositae,,Tetramolopium,,"rockii",,"","Sherff",Accepted,,M,TICA,BBB30946-62BF-4BA5-B549-141F7D961147,255393-1,"Bot. Gaz. xcv. 500 (1934)","","500","1934",
+gcc-67829,A,Compositae,,Tetramolopium,,"rockii",var.,"calcisabulorum","(H.St.John) Lowrey",Accepted,,L,TICA,CF1537F2-3804-4903-89A0-DA63B18CA3F6,,"Allertonia 4(4): 250 (1986):.","","250","1986",
+gcc-53511,A,Compositae,,Tetramolopium,,"rockii",var.,"rockii","",Synonym,,L,TICA,8370A088-0803-4EB9-B5AA-66D53C54A41E,,"","","","",gcc-10756
+gcc-5343,A,Compositae,,Tetramolopium,,"rupestre",,"","Nees",Synonym,Illegitimate,M,TICA,34F1B930-56B5-4942-9DEA-09F79EB94F29,255394-1,"","","203","1832",gcc-127735
+gcc-20192,A,Compositae,,Tetramolopium,,"spathulatum",,"","Mattf.",Accepted,,M,TICA,2C5A2A9D-D2E6-4755-AC68-254ED84059F4,,"","","","1938",
+gcc-142657,A,Compositae,,Tetramolopium,,"sylvae",,"","Lowrey",Accepted,,M,TICA,A1D75105-E28B-4534-B9F0-FA15F7039927,,"Allertonia 4(4): 252 (1986)","","252","1986",
+gcc-116655,A,Compositae,,Tetramolopium,,"tenerrimum",,"","(Less.) Nees",Accepted,,M,TICA,C64A4EDD-ED09-4134-91BA-BEEB69C3861D,255396-1,"Gen. Sp. Aster. 203.","","203","",
+gcc-2513,A,Compositae,,Tetramolopium,,"tenue",,"","J.Kost.",Accepted,,M,TICA,FA4FE95A-88FA-4EA4-83C2-0492C5FEC413,,"","","""575, t. 10 a--d""","1966",
+gcc-29937,A,Compositae,,Tetramolopium,,"vagans",,"","Pedley",Accepted,,M,TICA,2E29AF7A-5646-4133-98E7-375D31C1FC07,169980-3,"","","","1993",
+gcc-13225,A,Compositae,,Tetramolopium,,"virgatum",,"","Mattf.",Accepted,,M,TICA,71392926-AE14-418C-8295-18A5242D8861,,"","","","",
+gcc-111390,A,Compositae,,Tetramolopium,,"wilhelminae",,"","J.Kost.",Accepted,,M,TICA,7316B552-09F4-432A-BFBF-B2FE846FDE54,255399-1,"","","""577, t. 10 e--h""","1966",

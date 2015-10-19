@@ -1,0 +1,47 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-369123,A,Campanulaceae,,Downingia,,"bacigalupii",,"","Weiler",Accepted,,H,WCSP,369123,83333-2,"Madroño","16: 256","","1962",
+kew-369124,A,Campanulaceae,,Downingia,,"bella",,"","Hoover",Accepted,,H,WCSP,369124,83334-2,"Leafl. W. Bot.","2: 2","","1937",
+kew-369125,A,Campanulaceae,,Downingia,,"bicornuta",,"","A.Gray",Accepted,,H,WCSP,369125,83335-2,"Syn. Fl. N. Amer.","1(1 Suppl.): 395","","1886",
+tro-5503732,A,Campanulaceae,,Downingia,,"bicornuta",var.,"bicornuta","",Synonym,,L,TRO,5503732,,"","","","",kew-369125
+kew-369126,A,Campanulaceae,,Downingia,,"bicornuta",var.,"montana","(Greene) Jeps.",Synonym,,L,WCSP,369126,83337-2,"Madroño","1: 102","","1922",kew-369147
+kew-369127,A,Campanulaceae,,Downingia,,"bicornuta",var.,"picta","Hoover",Synonym,,L,WCSP,369127,83338-2,"Leafl. W. Bot.","2: 4","","1937",kew-369125
+kew-369128,A,Campanulaceae,,Downingia,,"brachyantha",,"","(Rydb.) A.Nelson & J.F.Macbr.",Synonym,,H,WCSP,369128,83339-2,"Bot. Gaz.","55: 382","","1913",kew-369144
+kew-369129,A,Campanulaceae,,Downingia,,"brachypetala",,"","Gand.",Synonym,,H,WCSP,369129,83340-2,"Bull. Soc. Bot. France","65: 55","","1918",kew-369137
+kew-369130,A,Campanulaceae,,Downingia,,"concolor",,"","Greene",Accepted,,H,WCSP,369130,83341-2,"Bull. Calif. Acad. Sci.","2(6): 153","","1886",
+kew-369131,A,Campanulaceae,,Downingia,,"concolor",var.,"bella","(Hoover) E.Wimm.",Synonym,,L,WCSP,369131,83342-2,"Pflanzenr.","IV, 276b(107): 741","","1953",kew-369124
+kew-369132,A,Campanulaceae,,Downingia,,"concolor",var.,"brevior","McVaugh",Synonym,,L,WCSP,369132,276037-2,"Mem. Torrey Bot. Club","19(4): 20","","1941",kew-369133
+kew-369133,A,Campanulaceae,,Downingia,,"concolor",subsp.,"brevior","(McVaugh) R.M.Beauch.",Accepted,,L,WCSP,369133,952467-1,"Phytologia","59: 438","","1986",
+kew-376117,A,Campanulaceae,,Downingia,,"concolor",subsp.,"concolor","",Synonym,,L,WCSP,376117,,"Unknown","","","",kew-369130
+tro-5503728,A,Campanulaceae,,Downingia,,"concolor",var.,"concolor","",Synonym,,L,TRO,5503728,,"","","","",kew-369130
+kew-369134,A,Campanulaceae,,Downingia,,"concolor",var.,"tricolor","(Greene) Jeps.",Synonym,,L,WCSP,369134,83344-2,"Fl. W. Calif.","ed. 2: 402","","1911",kew-369130
+kew-369135,A,Campanulaceae,,Downingia,,"corymbosa",,"","(A.DC.) A.Nelson & J.F.Macbr.",Synonym,,H,WCSP,369135,83345-2,"Bot. Gaz.","55: 382","","1913",kew-369137
+kew-369136,A,Campanulaceae,,Downingia,,"cuspidata",,"","(Greene) Rattan",Accepted,,H,WCSP,369136,,"W. Coast Bot.","48","","1898",
+tro-5502359,A,Campanulaceae,,Downingia,,"cuspidata",,"","Greene ex Jeps.",Unresolved,,L,TRO,5502359,,"Fl. W. Calif. (ed. 2)","403","403","1911",
+kew-369137,A,Campanulaceae,,Downingia,,"elegans",,"","(Douglas ex Lindl.) Torr.",Accepted,,H,WCSP,369137,,"U.S. Expl. Exped., Phan.","2: 375","","1857",
+kew-369138,A,Campanulaceae,,Downingia,,"elegans",var.,"brachypetala","(Gand.) McVaugh",Synonym,,L,WCSP,369138,83347-2,"Mem. Torrey Bot. Club","19(4): 55","","1941",kew-369137
+kew-369139,A,Campanulaceae,,Downingia,,"elegans",var.,"corymbosa","(A.DC.) A.Gray",Synonym,,L,WCSP,369139,83348-2,"Proc. Amer. Acad. Arts","8: 393","","1872",kew-369137
+tro-5503704,A,Campanulaceae,,Downingia,,"elegans",var.,"elegans","",Synonym,,L,TRO,5503704,,"","","","",kew-369137
+kew-369140,A,Campanulaceae,,Downingia,,"elegans",f.,"rosea","H.St.John",Synonym,,L,WCSP,369140,83350-2,"Res. Stud. State Coll. Wash.","1: 105","","1929",kew-369137
+kew-369141,A,Campanulaceae,,Downingia,,"humilis",,"","(Greene) Rattan",Synonym,,H,WCSP,369141,,"W. Coast Bot.","47","","1898",kew-358777
+kew-369142,A,Campanulaceae,,Downingia,,"immaculata",,"","Munz & I.M.Johnst.",Synonym,,H,WCSP,369142,83352-2,"Bull. Torrey Bot. Club","51: 300","","1924",kew-369136
+kew-369143,A,Campanulaceae,,Downingia,,"insignis",,"","Greene",Accepted,,H,WCSP,369143,83353-2,"Pittonia","2: 80","","1890",
+kew-369144,A,Campanulaceae,,Downingia,,"laeta",,"","(Greene) Greene",Accepted,,H,WCSP,369144,83354-2,"Leafl. Bot. Observ. Crit.","2: 45","","1910",
+kew-369145,A,Campanulaceae,,Downingia,,"mirabilis",,"","J.T.Howell",Synonym,,H,WCSP,369145,83355-2,"Leafl. W. Bot.","1: 221","","1936",kew-369148
+kew-369146,A,Campanulaceae,,Downingia,,"mirabilis",var.,"eximia","Hoover",Synonym,,L,WCSP,369146,83356-2,"Leafl. W. Bot.","2: 6","","1937",kew-369148
+kew-369147,A,Campanulaceae,,Downingia,,"montana",,"","Greene",Accepted,,H,WCSP,369147,83357-2,"Pittonia","2: 104","","1890",
+kew-369148,A,Campanulaceae,,Downingia,,"ornatissima",,"","Greene",Accepted,,H,WCSP,369148,83358-2,"Pittonia","2: 80","","1890",
+kew-369149,A,Campanulaceae,,Downingia,,"ornatissima",var.,"eximia","(Hoover) McVaugh",Synonym,,L,WCSP,369149,83359-2,"Mem. Torrey Bot. Club","19(4): 24","","1941",kew-369148
+tro-5503730,A,Campanulaceae,,Downingia,,"ornatissima",var.,"ornatissima","",Synonym,,L,TRO,5503730,,"","","","",kew-369148
+kew-369150,A,Campanulaceae,,Downingia,,"pallida",,"","Hoover",Synonym,,H,WCSP,369150,83361-2,"Leafl. W. Bot.","2: 1","","1937",kew-369136
+kew-369151,A,Campanulaceae,,Downingia,,"pulchella",,"","(Lindl.) Torr.",Accepted,,H,WCSP,369151,142443-1,"Pacif. Railr. Rep. Parke, Bot.","4: 116","","1857",
+kew-369152,A,Campanulaceae,,Downingia,,"pulchella",var.,"arcana","Jeps.",Synonym,,L,WCSP,369152,83363-2,"Madroño","1: 100","","1922",kew-369136
+kew-369153,A,Campanulaceae,,Downingia,,"pulcherrima",,"","M.Peck",Synonym,,H,WCSP,369153,83364-2,"Proc. Biol. Soc. Wash.","50: 94","","1937",kew-369158
+kew-369154,A,Campanulaceae,,Downingia,,"pusilla",,"","(G.Don ex A.DC.) Torr.",Accepted,,H,WCSP,369154,,"U.S. Expl. Exped., Phan.","2: 375","","1857",
+kew-358777,A,Campanulaceae,,Downingia,,"pusilla",subsp.,"humilis","(Greene) Lammers",Accepted,,L,WCSP,358777,60442694-2,"Novon","16: 70","","2006",
+kew-376118,A,Campanulaceae,,Downingia,,"pusilla",subsp.,"pusilla","",Synonym,,L,WCSP,376118,,"Unknown","","","",kew-369154
+kew-369155,A,Campanulaceae,,Downingia,,"sikota",,"","Applegate",Synonym,,H,WCSP,369155,83365-2,"Contr. Dudley Herb.","1: 97","","1929",kew-369125
+kew-369156,A,Campanulaceae,,Downingia,,"tricolor",,"","Greene",Synonym,,H,WCSP,369156,83366-2,"Pittonia","2: 79","","1890",kew-369130
+kew-369157,A,Campanulaceae,,Downingia,,"willamettensis",,"","M.Peck",Synonym,,H,WCSP,369157,83367-2,"Proc. Biol. Soc. Wash.","47: 187","","1934",kew-369158
+kew-369158,A,Campanulaceae,,Downingia,,"yina",,"","Applegate",Accepted,,H,WCSP,369158,83368-2,"Contr. Dudley Herb.","1: 97","","1929",
+kew-369159,A,Campanulaceae,,Downingia,,"yina",var.,"major","McVaugh",Synonym,,L,WCSP,369159,83369-2,"N. Amer. Fl.","32A: 24","","1943",kew-369158
+tro-5503733,A,Campanulaceae,,Downingia,,"yina",var.,"yina","",Synonym,,L,TRO,5503733,,"","","","",kew-369158

@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-43398,A,Compositae,,Heterosperma,,"achaetum",,"","S.F.Blake",Accepted,,M,TICA,117BD069-E70E-4245-9B89-5068AF918DF3,,"","","","1915",
+gcc-83331,A,Compositae,,Heterosperma,,"brandegeei",,"","Sherff",Unresolved,,L,TICA,216D558F-93FF-4EF9-9099-740A4868EEB3,121379-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 22""","","569","1942",
+gcc-127553,A,Compositae,,Heterosperma,,"coreocarpoides",,"","(Sherff) Sherff",Unresolved,,L,TICA,213668FD-1E02-4E24-8539-D7EB22639650,214007-1,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 22""","","567","1942",
+gcc-113225,A,Compositae,,Heterosperma,,"depressum",,"","Griseb.",Synonym,,L,TICA,CA50DA53-4541-42AF-959E-B728A7A4306B,,"in Goett. Abh. xix. (1874) 186.","","187","1874",gcc-129516
+gcc-44683,A,Compositae,,Heterosperma,,"dicranocarpum",,"","A.Gray",Synonym,,M,TICA,43B058EF-831D-43D5-9425-52C9546D77F9,,"Pl. Wright. i. 109.","","","1852",gcc-105467
+gcc-129516,A,Compositae,,Heterosperma,,"diversifolium",,"","Kunth",Unresolved,Illegitimate,L,TICA,753973E0-0A47-4FD2-944B-DC6DE89C8EB9,214016-1,"","","193","1818",
+gcc-151083,A,Compositae,,Heterosperma,,"diversifolium",var.,"diversifolium","",Synonym,,L,TICA,8931CDD4-B7EC-4827-BB56-7D1A228292CB,,"","","","",gcc-129516
+gcc-14636,A,Compositae,,Heterosperma,,"diversifolium",var.,"tenuisectum","Griseb.",Synonym,,L,TICA,33F2CAB1-C16C-4795-9260-1B27AF7C525E,121384-2,"Abh. Königl. Ges. Wiss. Göttingen 24: 198. 1879 Symb. Fl. Argent. 198. 1879.","","198","1879",gcc-52719
+gcc-143004,A,Compositae,,Heterosperma,,"ferreyrii",,"","H.Rob.",Unresolved,,L,TICA,83648F06-D385-476C-AFD2-FAEC0B9898E1,,"Wrightia 6","","","1979",
+gcc-10938,A,Compositae,,Heterosperma,,"involucratum",,"","(Phil.) Reiche",Synonym,,M,TICA,96E69B92-18D8-41F6-A804-14715FD22012,121386-2,"","","150","1903",gcc-97705
+gcc-112771,A,Compositae,,Heterosperma,,"maritimum",,"","Kunth",Synonym,,M,TICA,05DF5F4E-EB95-4E4E-AE17-B63305F3A769,121387-2,"Nov. Gen. Sp. [H.B.K.] iv. 245.","","","",gcc-4328
+gcc-153012,A,Compositae,,Heterosperma,,"maritimum",var.,"maritimum","",Synonym,,L,TICA,6F764B3B-9351-44B5-8461-A5666195648F,,"","","","",gcc-4328
+gcc-97705,A,Compositae,,Heterosperma,,"nanum",,"","(Nutt.) Sherff",Accepted,,M,TICA,237B9AAC-FD1F-412C-9A98-948211416389,121390-2,"","","312","1931",
+gcc-41995,A,Compositae,,Heterosperma,,"ovale",,"","S.F.Blake",Unresolved,,L,TICA,D5CFEC04-BCF4-48D2-97C1-4DC2061252F5,,"","","","1915",
+gcc-4328,A,Compositae,,Heterosperma,,"ovatifolium",,"","Cav.",Accepted,,M,TICA,7855226B-0986-40B3-980C-080CC665B438,214019-1,"Desc. 204.","","204","1802",
+gcc-133013,A,Compositae,,Heterosperma,,"ovatum",,"","Willd.",Synonym,,M,TICA,6B5E7437-0A44-404B-B13A-E491629F4BF1,,"Sp. Pl. iii. 2129.","","2129","1804",gcc-4328
+gcc-112399,A,Compositae,,Heterosperma,,"pinnatum",,"","Cav.",Accepted,,M,TICA,0E3DB4D6-A522-4B85-A218-B557E559E9B3,,"","","""34, pl. 267""","1794 [1795-1796]",
+gcc-49739,A,Compositae,,Heterosperma,,"pinnatum",var.,"biternatum","Kuntze",Synonym,,L,TICA,E0CB46CD-0092-4CC9-89CD-5C30E1CCD998,121393-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-52719
+gcc-31703,A,Compositae,,Heterosperma,,"pinnatum",var.,"depressum","(Griseb.) Kuntze",Synonym,,L,TICA,99A90AA2-0A43-41FD-B33C-3AC177259076,121394-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-129516
+gcc-59271,A,Compositae,,Heterosperma,,"pinnatum",var.,"diversifolium","(Kunth) Kuntze",Synonym,,L,TICA,7A1B75B0-77BB-47F1-A358-95151598EABD,121395-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-129516
+gcc-51633,A,Compositae,,Heterosperma,,"pinnatum",var.,"involucratum","(Phil.) Kuntze",Synonym,,L,TICA,8E1755E5-45EC-422D-8727-5FBDBF19336A,121396-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-97705
+gcc-65518,A,Compositae,,Heterosperma,,"pinnatum",var.,"maritimum","(Kunth) Kuntze",Synonym,,L,TICA,7FDA3E57-0D45-480F-BD95-C75EBCB34E52,121397-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-4328
+gcc-7639,A,Compositae,,Heterosperma,,"pinnatum",var.,"ovatifolium","(Cav.) Kuntze",Synonym,,L,TICA,23027AF3-4F64-4A05-ACB7-0E311FDA291A,121398-2,"Revis. Gen. Pl. 3[3]: 158","","158","1898",gcc-4328
+gcc-149302,A,Compositae,,Heterosperma,,"pinnatum",var.,"pinnatum","",Synonym,,L,TICA,F6E46A3D-86CD-4CDF-B797-560A061A5530,,"","","","",gcc-112399
+gcc-37937,A,Compositae,,Heterosperma,,"rhombifolium",,"","(Sch.Bip.) Griseb.",Synonym,,M,TICA,E9AF7787-A14F-48DC-BB34-465BE1DF0EC5,214022-1,"in Goett. Abh. xix. (1874) 187.","","186-187","1874",gcc-4328
+gcc-4545,A,Compositae,,Heterosperma,,"spathulatum",,"","S.F.Blake",Synonym,,L,TICA,375D0C76-6D98-450B-9AFD-086FA40E7775,121400-2,"","","323","1915",gcc-129516
+gcc-79504,A,Compositae,,Heterosperma,,"tagetinum",,"","A.Gray",Synonym,,M,TICA,46BE001D-C87D-45FC-A14A-6B9458FC228C,214023-1,"","","87","1849",gcc-112399
+gcc-52719,A,Compositae,,Heterosperma,,"tenuisectum",,"","(Griseb.) Cabrera",Accepted,,M,TICA,9A7C04C7-52AA-47F8-8798-61BC14EA3A9F,121401-2,"","","404","1978",
+gcc-101315,A,Compositae,,Heterosperma,,"trilobum",,"","S.F.Blake",Unresolved,,L,TICA,EBA5A06F-71D2-4EB8-8F24-9C82D28DA7B1,,"","","","1915",
+gcc-124450,A,Compositae,,Heterosperma,,"xanti",,"","A.Gray",Accepted,,M,TICA,EA8B02AE-95DD-4D20-87E6-D0BA2EE2D564,214024-1,"Proc. Amer. Acad. Arts v. (1861) 162.","","162","1861",
+gcc-154884,A,Compositae,,Heterosperma,,"xanti",var.,"xanti","",Synonym,,L,TICA,CA17B3C8-A1C4-4D16-8C47-CCABB3EC961B,,"","","","",gcc-124450

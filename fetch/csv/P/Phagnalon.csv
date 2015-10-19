@@ -1,0 +1,150 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23329,A,Compositae,,Phagnalon,,"abyssinicum",,"","Sch.Bip. ex Hochst.",Unresolved,,L,TICA,5CD90527-3B84-4127-9B6F-2B2A19D48182,237526-1,"""in Flora, xxiv. (1841) I. Intell. 26, nomen.""","","""xxiv.  I. Intell. 26, nomen.""","1841",
+gcc-3702,A,Compositae,,Phagnalon,,"abyssinicum",,"","A.Rich.",Accepted,,M,TICA,5B9F1076-DD3C-434D-B796-06DF6762D1C8,,"Tentamen Florae Abyssinicae . . . 1:","","396","1848",
+gcc-105436,A,Compositae,,Phagnalon,,"acuminatum",,"","Boiss.",Accepted,,M,TICA,88EAFF17-96BF-4D77-A64A-A5925DF0C924,237527-1,"","","222","1875",
+gcc-114489,A,Compositae,,Phagnalon,,"acuminatum",,"","Aitch.",Unresolved,,L,TICA,48E2070D-D2DA-4B49-8EAB-B9FB998609CD,,"""J. Linn. Soc., Bot. xix. (1882) 169""","","169","",
+gcc-114404,A,Compositae,,Phagnalon,,"aegyptiacum",,"","Boiss.",Synonym,,M,TICA,816F4142-C5EF-4331-BB05-B9C3FA54041D,,"","","","1888",gcc-45280
+gcc-115037,A,Compositae,,Phagnalon,,"affine",,"","Boiss.",Unresolved,,L,TICA,A686E1C3-DD2F-4F77-A40B-BB38A81E642F,,"""Diagn. Pl. Orient. ser. 1, 6: 34""","","34","1846",
+gcc-86497,A,Compositae,,Phagnalon,,"androssovii",,"","B.Fedtsch.",Synonym,,M,TICA,93F7FFF4-51B7-4885-95CA-7B0C4A0B3677,237531-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 185 (1946).""","","185","1946",gcc-69966
+gcc-93030,A,Compositae,,Phagnalon,,"annoticum",,"","Burnat",Synonym,,M,TICA,D94AADCA-18AF-4F51-A3F6-89E7386B89C2,,"""Burnat in Bull. Soc. Dauphin. Echange Pl., ser. 2 2. 1891.""","","56","1891",gcc-17182
+gcc-119977,A,Compositae,,Phagnalon,,"arabicum",,"","(Boiss.) Boiss.",Synonym,,L,TICA,7AFAE775-65BB-496C-96DC-C66F90CE2AD9,,"""Diagn. Pl. Orient. ser. 1, 6: 34""","","34","",gcc-106622
+gcc-26578,A,Compositae,,Phagnalon,,"atlanticum",,"","Ball",Synonym,,M,TICA,F62BB92B-5041-4660-9874-311C824CB260,,"","","","",gcc-111426
+gcc-145683,A,Compositae,,Phagnalon,,"atlanticum",var.,"atlanticum","",Synonym,,L,TICA,70551CEC-89A8-46DB-8BBB-08B412516EF6,,"","","","",gcc-111426
+gcc-11145,A,Compositae,,Phagnalon,,"atlanticum",var.,"rehamnarum","Maire",Synonym,,L,TICA,E7C9718D-7F52-4B92-A79C-14D82C52C00B,,"","","","",gcc-111426
+gcc-45280,A,Compositae,,Phagnalon,,"barbeyanum",,"","Asch. & Schweinf.",Accepted,,M,TICA,F8338759-5318-44D1-88B6-53E8A6B23335,237534-1,"","","87","1887",
+gcc-111211,A,Compositae,,Phagnalon,,"baui",,"","Sennen",Unresolved,,L,TICA,96A89D10-0ECA-4EDE-A3D1-B29CEDA59AAE,237535-1,"""in Bol. Soc. Iber. 1929, xxviii. 43.""","","xxviii. 43.","1929",
+gcc-103598,A,Compositae,,Phagnalon,,"bennettii",,"","Lowe ex DC.",Synonym,,M,TICA,72AD44E8-024E-483B-861D-A1A0DAF7DF94,237536-1,"Prodr. (DC.) 5: 397","","397","1836",gcc-27942
+gcc-111426,A,Compositae,,Phagnalon,,"bicolor",,"","Ball",Accepted,,M,TICA,3F9FDDF7-ED3F-4A8B-B881-B314F1BCE4F0,237537-1,"","","364","1873",
+gcc-122356,A,Compositae,,Phagnalon,,"borianianum",,"","Sch.Bip.",Unresolved,,L,TICA,7F4BB071-72BA-4389-B79D-CBD24AD0B804,237538-1,"""in Schweinf. Beitr. Fl. Aethiop. 286, nomen.""","","""286, nomen.""","",
+gcc-47919,A,Compositae,,Phagnalon,,"borianum",,"","Oliv.",Unresolved,,L,TICA,A9A87966-797B-4609-832E-58C32C6FF617,237539-1,"Fl. Trop. Afr. [Oliver et al.] 3: 338","","338","1877",
+gcc-75741,A,Compositae,,Phagnalon,,"burnatii",,"","Briq. & Cavill.",Unresolved,,L,TICA,F6A78A9F-A3D5-4D8B-B70F-63213FE7B522,237540-1,"""in Burnat, Fl. Alpes Marit. v. 280 (1915), hybr.""","","""v. 280 , hybr.""","1915",
+gcc-24102,A,Compositae,,Phagnalon,,"calycinum",,"","(Cav.) DC.",Accepted,,M,TICA,0B00FDC3-B728-427E-9BA9-2C8A0C3D4F41,237541-1,"","","397","1836",
+gcc-61431,A,Compositae,,Phagnalon,,"calycinum",subsp.,"calycinum","",Synonym,,L,TICA,3A63A1AE-EF0D-479B-99F1-A685B5C647A3,,"","","","",gcc-24102
+gcc-38242,A,Compositae,,Phagnalon,,"calycinum",subsp.,"caroli-paui","(Font Quer) Emb. & Maire",Accepted,,L,TICA,8854A350-B681-47AE-B17C-46EFF283685F,,"Emb. & Maire in Mém. Soc. Sci. Nat. Maroc 21-22. 1929.","","37","1929",
+gcc-71665,A,Compositae,,Phagnalon,,"calycinum",subsp.,"spathulatum","(H.Lindb.) Maire",Accepted,,L,TICA,C53C13FC-EB93-4E65-8F97-F7E53B1EABE5,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","749","1934",
+gcc-29935,A,Compositae,,Phagnalon,,"candollei",,"","Sennen",Unresolved,,L,TICA,83915FAA-BE15-4542-BA7C-375B7659ADBD,237542-1,"""in Bol. Soc. Iber. 1929, xxviii. 40, in syn.""","","""xxviii. 40, in syn.""","1929",
+gcc-131044,A,Compositae,,Phagnalon,,"caroli",,"","Pau",Unresolved,,L,TICA,EE8C5369-A141-401D-AF43-DFF25619F43A,,"""in Bol. Soc. Esp. Hist. Nat. 1916, xvi. 144, hybr.""","","""xvi. 144, hybr.""","1916",
+gcc-137861,A,Compositae,,Phagnalon,,"carolipaui",,"","Font Quer",Synonym,,M,TICA,A0E17F13-F005-40E1-8746-EF5F9B0BB406,,"","","","",gcc-38242
+gcc-11562,A,Compositae,,Phagnalon,,"catalaunicum",,"","Sennen",Unresolved,,L,TICA,4577B619-694A-4A30-B4D0-15910A9BA185,237546-1,"""in Bol. Soc. Arag. 1912, xi. 193, hybr.""","","""xi. 193, hybr.""","1912",
+gcc-44221,A,Compositae,,Phagnalon,,"corsicum",,"","Rouy",Unresolved,,L,TICA,2AA74F01-081B-42DA-8BBE-51E1969B8BE8,237547-1,"Fl. France (Rouy) 8: 163","","163","1903",
+gcc-114320,A,Compositae,,Phagnalon,,"darvazicum",,"","Krasch.",Accepted,,M,TICA,DAD2343B-D6AD-4B87-BD44-B991BECEE38E,,"","","343","1936",
+gcc-52454,A,Compositae,,Phagnalon,,"denticulatum",,"","Decne. ex C.B.Clarke",Synonym,,M,TICA,48981F5E-E5DE-4F14-81DB-613CC3023813,237549-1,"Comp. Ind. 113.","","113","1876",gcc-125017
+gcc-82525,A,Compositae,,Phagnalon,,"dertosense",,"","Sennen",Unresolved,,L,TICA,C138CDC1-6078-41FA-9F31-724146193FAA,237550-1,"""in Bol. Soc. Iber. 1929, xxviii. 42, hybr.""","","""xxviii. 42, hybr.""","1929",
+gcc-1241,A,Compositae,,Phagnalon,,"domingoi",,"","Sennen",Unresolved,,L,TICA,CFCE6A70-7283-48BF-A9F9-0247FD11DAD0,237551-1,"""in Bol. Soc. Arag. 1911, x. 140, hybr.""","","""x. 140, hybr.""","1911",
+gcc-89617,A,Compositae,,Phagnalon,,"embergeri",,"","Humbert & Maire",Synonym,,M,TICA,20899357-7FDE-4423-A1BA-821B25076183,237552-1,"","","52","1928",gcc-107603
+gcc-148607,A,Compositae,,Phagnalon,,"embergeri",subsp.,"embergeri","",Synonym,,L,TICA,78B90518-306F-4C91-AA64-4632113A64AD,,"","","","",gcc-107603
+gcc-155163,A,Compositae,,Phagnalon,,"embergeri",var.,"embergeri","",Synonym,,L,TICA,2E83F45A-0B2B-4A0E-BD47-D25491A9C929,,"","","","",gcc-107603
+gcc-5977,A,Compositae,,Phagnalon,,"embergeri",var.,"lepineyi","(Emb.) Maire",Synonym,,L,TICA,82818AA0-AAFD-4C08-926B-0B20CFF1D1A0,,"","","","",gcc-107603
+gcc-114022,A,Compositae,,Phagnalon,,"garamantum",,"","Maire",Accepted,,M,TICA,56B63CAF-1679-49C9-9498-B8E5A245B68F,237553-1,"","","185","1929",
+gcc-143098,A,Compositae,,Phagnalon,,"geminiflorum",,"","Nyman",Unresolved,,L,TICA,C4D8392D-CA35-452B-A879-FB2142BAE631,,"Consp. 385.","","385","",
+gcc-93006,A,Compositae,,Phagnalon,,"geminiflorum",,"","(Ten.) P.Fourn.",Synonym,,M,TICA,FEA03136-6C70-47FE-81CA-89D48FFC6C5E,,"P. Fourn.. 1939.","","950","1939",gcc-17182
+gcc-36017,A,Compositae,,Phagnalon,,"glabrifolium",,"","Rech.f.",Synonym,,M,TICA,E332CD30-1284-46EB-BB31-42C997EE8622,237555-1,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. 11.)34(1955).""","","34","1955",gcc-114320
+gcc-98322,A,Compositae,,Phagnalon,,"graecum",,"","Boiss. & Heldr.",Synonym,,M,TICA,D1C743E6-93B2-4959-96B2-95D5930AB41C,,"","","6","1849",gcc-61379
+gcc-58930,A,Compositae,,Phagnalon,,"graecum",subsp.,"ginzbergeri","Pignatti",Synonym,,L,TICA,77298FB9-96A8-42B3-B7C2-92789152FB04,,"Pignatti in Giorn. Bot. Ital. 103. 1969.","","298","1969",gcc-61379
+gcc-156095,A,Compositae,,Phagnalon,,"graecum",subsp.,"graecum","",Synonym,,L,TICA,D6C45C13-BCEB-4908-8C39-E65809AB9D45,,"","","","",gcc-61379
+gcc-137304,A,Compositae,,Phagnalon,,"hansenii",,"","Qaiser & Lack",Synonym,,M,TICA,07DE9B56-B9BA-4CEC-99A0-EE2E4E82B4B3,,"","","","",gcc-27942
+gcc-125484,A,Compositae,,Phagnalon,,"harazianum",,"","Deflers",Unresolved,,L,TICA,21253DD0-FF7D-4068-9D4B-D3254F8DEC99,237558-1,"","","","1889",
+gcc-124108,A,Compositae,,Phagnalon,,"helichrysoides",,"","(Ball) Coss.",Synonym,,M,TICA,695098B6-B3B2-473B-B36B-CFF14F8EE20D,,"","","","",gcc-107603
+gcc-3717,A,Compositae,,Phagnalon,,"helichrysoides",,"","(Ball) Coss. ex Maire",Synonym,,M,TICA,403FE0AE-4C9C-4DB6-A85F-06E52F95FB71,237559-1,"","","51","1928",gcc-107603
+gcc-68820,A,Compositae,,Phagnalon,,"helichrysoides",var.,"nitidum","Emb.",Synonym,,L,TICA,E2DCF509-C6F6-4234-A1FD-E1AE8AFC664A,,"","","","",gcc-70236
+gcc-137754,A,Compositae,,Phagnalon,,"hypoleucum",,"","Sch.Bip. ex A.Rich.",Unresolved,,L,TICA,CDC8C69C-FAB1-43D3-8961-EF203FE472FB,237560-1,"Tent. Fl. Abyss. i. 396.","","i. 396","",
+gcc-82094,A,Compositae,,Phagnalon,,"hypoleucum",,"","Sch.Bip. ex Oliv. & Hiern",Synonym,,M,TICA,8A5A2E25-0D45-4E79-A931-7144DD332910,,"","","","",gcc-3702
+gcc-21222,A,Compositae,,Phagnalon,,"iminouakense",,"","Emb.",Synonym,,M,TICA,FD46A6D4-96D5-4AFA-97F0-273258B3B598,,"","","","1932",gcc-140490
+gcc-14892,A,Compositae,,Phagnalon,,"intermedium",,"","(Leg.) Rivas Goday",Synonym,,M,TICA,AA7C326D-B3EC-44B3-800D-1B95E343349D,237565-1,"""in An. Real Acad. Farm., 38(3): 462 (1972).""","","462","1972",gcc-27942
+gcc-31891,A,Compositae,,Phagnalon,,"intermedium",,"","(Lag.) Pau",Synonym,,M,TICA,CC0D7CCC-5087-428E-8143-3B12BB4868B0,237564-1,"","","51","1931",gcc-27942
+gcc-99341,A,Compositae,,Phagnalon,,"intermedium",,"","DC. ex Boiss. & Heldr.",Unresolved,,L,TICA,D24ABD96-E879-43F9-985C-9827331EBD73,,"""Diagn. Pl. Orient. ser. 1, 11: 7, in obs.""","","7","1849",
+gcc-120863,A,Compositae,,Phagnalon,,"kotschyi",,"","Sch.Bip. ex Boiss.",Accepted,,M,TICA,F37EE2BA-926A-45E1-8AC3-C883007A7907,237566-1,"","","221","1875",
+gcc-45362,A,Compositae,,Phagnalon,,"lagascae",,"","Cass.",Synonym,,M,TICA,AE6913E4-E11E-4F15-9C7E-540FA4080C55,,"","","","1826",gcc-27942
+gcc-18358,A,Compositae,,Phagnalon,,"latifolium",,"","Maire",Accepted,,M,TICA,54C3EB24-5797-44EE-BAB1-21E94834113F,,"""in Bull. Soc. Hist. Nat. Afr. Nord,""","","134","1928",
+gcc-136661,A,Compositae,,Phagnalon,,"lavranosii",,"","Qaiser & Lack",Accepted,,M,TICA,3974F937-EE3B-4A88-8F73-ECB3D33F87BE,929425-1,"Willdenowia 15(2): 442","","442","1986",
+gcc-87367,A,Compositae,,Phagnalon,,"lepidotum",,"","Pomel",Synonym,,M,TICA,9A80A88C-2DB0-42E7-B832-7D21398E5D1A,237570-1,"Nouv. Mat. Fl. Atl. 34.","","34","",gcc-27942
+gcc-1080,A,Compositae,,Phagnalon,,"lepineyi",,"","Emb.",Synonym,,M,TICA,239508D7-0511-413B-A7E9-01FA51D74497,237571-1,"""in Bull. Soc. Sc. Nat. Maroc, 1935, xv. 224.""","","xv. 224.","1935",gcc-107603
+gcc-30178,A,Compositae,,Phagnalon,,"linifolium",,"","Post",Unresolved,,L,TICA,18FD5A28-5DB3-4C06-BE81-37DCAB6F064F,,"","","","1891",
+gcc-10784,A,Compositae,,Phagnalon,,"linnaeanum",,"","Sennen",Unresolved,,L,TICA,72680E0E-715B-439B-B674-142B8F371F38,237573-1,"""in Bol. Soc. Iber. 1929, xxviii. 40.""","","xxviii. 40.","1929",
+gcc-129713,A,Compositae,,Phagnalon,,"lowei",,"","DC. ex Lowe",Unresolved,,L,TICA,7C554D22-7226-4F5A-98B8-DCE8F02DBB61,237574-1,"Man. Fl. Mad. i. 443.","","i. 443","",
+gcc-45107,A,Compositae,,Phagnalon,,"luridum",,"","Webb",Synonym,,M,TICA,32514AC4-0210-4625-817F-539DC19386DA,237575-1,"in Hook. Niger Fl. 136.","","136","",gcc-76157
+gcc-76157,A,Compositae,,Phagnalon,,"melanoleucum",,"","Webb",Accepted,,M,TICA,B03FB86C-671E-4F8B-AFD0-6407EDD3744E,237576-1,"in Hook. Niger Fl. 135. t. 9.","","135. t. 9.","",
+gcc-62835,A,Compositae,,Phagnalon,,"melanoleucum",var.,"luridum","(Webb) A.Chev.",Synonym,,L,TICA,860C83DD-8F4A-4984-8AC1-B2074E599A9C,,"Rev. Bot. Appl. 15: 877 (1935).","","","",gcc-76157
+gcc-150390,A,Compositae,,Phagnalon,,"melanoleucum",var.,"melanoleucum","",Synonym,,L,TICA,62FEA486-5ED2-4E8F-88E2-6D6F2A8CA5ED,,"","","","",gcc-76157
+gcc-34640,A,Compositae,,Phagnalon,,"methanaeum",,"","Hausskn.",Synonym,,M,TICA,E4BB4899-4DE5-40CA-BEE5-403797B163AE,,"","","","1887",gcc-27942
+gcc-79768,A,Compositae,,Phagnalon,,"metlesicsii",,"","Pignatti",Synonym,,M,TICA,83BAD306-2725-4566-BCC0-6C2215E8A46A,,"","","","1969",gcc-17182
+gcc-143889,A,Compositae,,Phagnalon,,"montserratense",,"","Sennen",Unresolved,,L,TICA,5673CB25-38AA-4AD6-BDAE-FCE168F6F1EE,237579-1,"""in Bol. Soc. Iber. 1929, xxviii. 41, hybr.""","","""xxviii. 41, hybr.""","1929",
+gcc-143328,A,Compositae,,Phagnalon,,"murbeckii",,"","Faure",Unresolved,,L,TICA,C0E7AE4F-053C-4166-BF32-FB9FEB4FB24F,237580-1,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1923, xiv. 256; et in Bull. Soc. Hist. Nat.Afr. Nord, 1924, xv. 322, hybr.""","","xiv. 256","1923",
+gcc-6108,A,Compositae,,Phagnalon,,"nitidum",,"","Fresen.",Accepted,,M,TICA,5769F832-CE09-4E19-AC6F-0B5CBC838E34,,"","","81","1839",
+gcc-125017,A,Compositae,,Phagnalon,,"niveum",,"","Edgew.",Accepted,,M,TICA,D2E886DF-584E-412F-9871-D21B81838F8A,237582-1,"","","68","1846",
+gcc-126407,A,Compositae,,Phagnalon,,"paschale",,"","Sennen",Unresolved,,L,TICA,0E3213C2-971E-48E0-A915-D54254E20F9D,237583-1,"""in Bol. Soc. Iber. 1929, xxviii. 43, hybr.""","","""xxviii. 43, hybr.""","1929",
+gcc-96781,A,Compositae,,Phagnalon,,"paui",,"","Sennen",Unresolved,,L,TICA,A8C9CFCE-5BD6-422A-9D08-925C500B3368,237584-1,"""in Bol. Soc. Arag. viii. 145 (1909), nomen.""","","""viii. 145 , nomen.""","1909",
+gcc-127687,A,Compositae,,Phagnalon,,"persicum",,"","Boiss.",Accepted,,M,TICA,64404E2B-9D60-4D5F-B207-D84421A455CE,,"""Diagn. Pl. Orient. ser. 1, 6: 74""","","74","1846",
+gcc-83413,A,Compositae,,Phagnalon,,"phagnaloides",,"","(Sch.Bip. ex A.Rich.) Cufod.",Accepted,,M,TICA,1D5E411F-8A25-4582-9BE4-743A90725D44,,"""in Bull. Jard. Bot. Brux. xxxvi. Suppl., 1105 (1966).""","","","1966",
+gcc-111236,A,Compositae,,Phagnalon,,"platyphyllum",,"","(Maire) Maire",Synonym,,M,TICA,9F9C5861-3D83-4302-B010-B2AB923CBB79,237587-1,"","","52","1928",gcc-46162
+gcc-51388,A,Compositae,,Phagnalon,,"pomeli",,"","Faure",Unresolved,,L,TICA,E0C3E3EB-DA18-4D8D-9C90-5F4DEA12DD24,237588-1,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1923, xiv. 257; et in Bull. Soc. Hist. Nat.Afr. Nord, 1924, xv. 325, hybr.""","","xiv. 257","1923",
+gcc-19608,A,Compositae,,Phagnalon,,"pumilum",,"","(Sibth. & Sm.) DC.",Synonym,,M,TICA,CCCCED90-66AD-466F-8479-243F9A442468,237589-1,"","","397","1836",gcc-2059
+gcc-10898,A,Compositae,,Phagnalon,,"pumilum",subsp.,"glabrum","(Boiss.) Hayek",Synonym,,L,TICA,8D983FB0-67BE-4B49-AAF8-1462F98F663F,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","601","1931",gcc-2059
+gcc-59071,A,Compositae,,Phagnalon,,"pumilum",var.,"glabrum","Boiss.",Synonym,,L,TICA,BD8CA0E4-6AAC-435D-93C0-938CFA32A7A5,,"""Boiss., Fl. Orient. 3. 1875.""","","222","1875",gcc-2059
+gcc-147937,A,Compositae,,Phagnalon,,"pumilum",subsp.,"pumilum","",Synonym,,L,TICA,917D9781-D79D-4953-B5D5-3885CCC31DE2,,"","","","",gcc-2059
+gcc-152173,A,Compositae,,Phagnalon,,"pumilum",var.,"pumilum","",Synonym,,L,TICA,178519DF-3CF0-4C2F-A90E-941EA3F70C8B,,"","","","",gcc-2059
+gcc-21840,A,Compositae,,Phagnalon,,"pumilum",subsp.,"tomentosum","(Halácsy) Hayek",Synonym,,L,TICA,DEB936E3-AD05-42F8-9B14-2867E4CEBF32,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","601","1931",gcc-2059
+gcc-122994,A,Compositae,,Phagnalon,,"purpurascens",,"","Sch.Bip.",Accepted,,M,TICA,5EE90666-570B-4BFC-9371-CD505522F3AD,,"","","","1844",
+gcc-144698,A,Compositae,,Phagnalon,,"pycnophyllon",,"","Rech.f.",Accepted,,M,TICA,D0C094C1-621E-419A-A318-FEB42DC7727C,,"in Anz. Osterr. Akad. Wiss. Mat.-Naturwiss. 109: 173 (1973).","","173","",
+gcc-2059,A,Compositae,,Phagnalon,,"pygmaeum",,"","(Sieber) Greuter",Accepted,,M,TICA,99F4935F-3587-460C-B033-03B4C780F467,,"""Greuter, Colloque OPTIMA Crète, Guide Excurs. 1975.""","","23","1975",
+gcc-3765,A,Compositae,,Phagnalon,,"quartinianum",,"","A.Rich.",Accepted,,M,TICA,6DCEB1C2-3A90-4170-A2FB-07041E2BB270,237592-1,"Tent. Fl. Abyss. i. 396.","","i. 396.","",
+gcc-141816,A,Compositae,,Phagnalon,,"rechingeri",,"","Lack & Qaiser",Unresolved,,L,TICA,A405DD45-8CC3-4A6C-B461-F8447EBAB464,,"""in Pl. Syst. Evol., 155(1–4): 45 (1987)""","","45","1987",
+gcc-77827,A,Compositae,,Phagnalon,,"retecta",,"","Qaiser & Lack",Unresolved,,L,TICA,A4B841B9-33B7-4089-97F0-67BE8A9BC86A,906833-1,"Willdenowia 15(1): 8","","8","1985",
+gcc-8855,A,Compositae,,Phagnalon,,"rupestre",,"","(L.) DC.",Accepted,,M,TICA,21776283-2889-4694-8C68-1094B6C8C130,237593-1,"","","396","1836",
+gcc-2465,A,Compositae,,Phagnalon,,"rupestre",var.,"annoticum","(Burnat) Briq.",Synonym,,L,TICA,A6C58003-4A34-4893-8705-047C06805FC1,,"","","","",gcc-17182
+gcc-47382,A,Compositae,,Phagnalon,,"rupestre",subsp.,"annoticum","Pignatti",Synonym,,L,TICA,AB7749B3-E3E1-4780-AD9A-57C2066224C0,,"Pignatti in Giorn. Bot. Ital. 103. 1969.","","297","1969",gcc-17182
+gcc-60108,A,Compositae,,Phagnalon,,"rupestre",var.,"calycinum","(Cav.) Ball",Synonym,,L,TICA,29A490DF-7848-41A4-B393-9BC0FDFACAA4,,"","","","",gcc-24102
+gcc-60065,A,Compositae,,Phagnalon,,"rupestre",var.,"graecum","(Boiss.) Fiori",Synonym,,L,TICA,DB048DFA-974D-4A5E-8508-9B588644892E,,"","","","",gcc-61379
+gcc-61379,A,Compositae,,Phagnalon,,"rupestre",subsp.,"graecum","Batt.",Accepted,,L,TICA,8B65B1AB-F118-46A7-AC7A-A60EDB86B1AF,,"""Batt. in Battandier & Trabut, Fl. Algérie, Dicot. 1889.""","","444","1889",
+gcc-17182,A,Compositae,,Phagnalon,,"rupestre",subsp.,"illyricum","(H.Lindb.) Ginzb.",Accepted,,L,TICA,EB0FA774-134D-4984-8C37-1FC406257C58,,"Ginzb. in Österr. Bot. Z. 70. 1921.","","198","1921",
+gcc-33968,A,Compositae,,Phagnalon,,"rupestre",var.,"linnaei","(Rouy) Maire",Synonym,,L,TICA,85639480-955D-424E-A5C3-3F003E6DDFEF,,"","","","",gcc-17182
+gcc-152301,A,Compositae,,Phagnalon,,"rupestre",var.,"rupestre","",Synonym,,L,TICA,EEA08050-00D0-430E-8C7A-96B872545DBB,,"","","","",gcc-8855
+gcc-9951,A,Compositae,,Phagnalon,,"rupestre",subsp.,"rupestre","",Synonym,,L,TICA,8F112A09-2640-4F7B-B2F8-12983D6820FC,,"","","","",gcc-8855
+gcc-9988,A,Compositae,,Phagnalon,,"rupestre",var.,"tenorei","(Spreng.) Fiori",Synonym,,L,TICA,695D0DB9-E122-4964-885E-12AF2D9D00F3,,"","","","",gcc-17182
+gcc-27942,A,Compositae,,Phagnalon,,"saxatile",,"","(L.) Cass.",Accepted,,M,TICA,980DB197-6FA0-45D5-B0EB-339FB0BC3F4A,237594-1,"","","174","1819",
+gcc-63276,A,Compositae,,Phagnalon,,"saxatile",var.,"denudatum","(Welw.) Mariz",Synonym,,L,TICA,BC71AE7C-8ADE-4F93-B537-B5935BB6D0DD,,"","","","",gcc-27942
+gcc-64354,A,Compositae,,Phagnalon,,"saxatile",var.,"intermedium","(Lag.) DC.",Synonym,,L,TICA,9552CCDA-7B65-433D-BB39-BDDC699FBDC8,,"","","","",gcc-27942
+gcc-26080,A,Compositae,,Phagnalon,,"saxatile",var.,"lepidotum","(Pomel) Batt.",Synonym,,L,TICA,3B11BEB1-AE08-4FA1-A3CB-3038A7E1F0BB,,"","","","",gcc-27942
+gcc-57829,A,Compositae,,Phagnalon,,"saxatile",var.,"perez-mendezi","Pau",Synonym,,L,TICA,0D73CEE8-4F64-4566-B660-899F0BE49737,,"","","","",gcc-27942
+gcc-16915,A,Compositae,,Phagnalon,,"saxatile",subsp.,"purpurascens","(Sch.Bip.) Batt.",Synonym,,L,TICA,DD364793-1FB4-44F5-8291-1F3E835EF80F,,"""Batt. in Battandier & Trabut, Fl. Algérie, Dicot. 1889.""","","444","1889",gcc-122994
+gcc-58511,A,Compositae,,Phagnalon,,"saxatile",subsp.,"saxatile","",Synonym,,L,TICA,8DA6656C-06BF-4060-94D5-8F5D808B8A71,,"","","","",gcc-27942
+gcc-63570,A,Compositae,,Phagnalon,,"saxatile",var.,"saxatile","",Synonym,,L,TICA,FDB27BBC-E85B-499A-B7E0-B7E0DCF42551,,"","","","",gcc-27942
+gcc-54893,A,Compositae,,Phagnalon,,"saxatile",subsp.,"spathulata","H.Lindb.",Synonym,,L,TICA,74731E4A-F783-4B35-AE09-71A5FEF1EB40,,"""H. Lindb. in Acta Soc. Sci. Fenn., Ser. B, Opera Biol. 1(2). 1932.""","","166","1932",gcc-71665
+gcc-70226,A,Compositae,,Phagnalon,,"saxatile",subsp.,"tenorei","(Spreng.) Bonnier",Synonym,,L,TICA,1C018A1A-1501-4BD0-9B0B-EC72A8E29592,,"Bonnier. 1922.","","71","1922",gcc-17182
+gcc-219,A,Compositae,,Phagnalon,,"saxatiliforme",,"","Sennen",Unresolved,,L,TICA,82EAA4B7-FFC4-4330-A50A-00647A86EEA1,237595-1,"""in Bol. Soc. Iber. 1929, xxviii. 44, hybr.""","","""xxviii. 44, hybr.""","1929",
+gcc-49343,A,Compositae,,Phagnalon,,"scalarum",,"","Schweinf. ex Schwartz",Synonym,,M,TICA,1BF17735-A01A-4141-A2DF-5B67E9C5DCBE,,"","","","",gcc-117790
+gcc-92661,A,Compositae,,Phagnalon,,"scalarum",,"","Schweinf. ex Blatt.",Unresolved,,L,TICA,BA71406E-7AB9-4EEA-BFCE-8914583718F6,,"""Rec. Bot. Surv. India viii. 239 (1921), nomen; Schwartz in Mitt. Inst. Bot.Hamburg, x. 278 (1939), descr.""","","278","",
+gcc-70629,A,Compositae,,Phagnalon,,"scalarum",subsp.,"glabrum","Miré & Quézel",Synonym,,L,TICA,B08D5192-3242-44D8-9FEC-EF843DDF7364,,"","","","",gcc-117790
+gcc-66580,A,Compositae,,Phagnalon,,"scalarum",var.,"meridionale","(Quézel) Wickens",Synonym,,L,TICA,AD071F27-770C-460C-B81E-CFE4D470EA67,,"""Kew Bull. 26(3): 564 (1972), 'as meridonale'""","","564","",gcc-117790
+gcc-147784,A,Compositae,,Phagnalon,,"scalarum",subsp.,"scalarum","",Synonym,,L,TICA,168B1071-9FA9-4695-818C-353649252FCA,,"","","","",gcc-117790
+gcc-149582,A,Compositae,,Phagnalon,,"scalarum",var.,"scalarum","",Synonym,,L,TICA,016716D2-8775-4EC7-A091-5C3283FDFB3F,,"","","","",gcc-117790
+gcc-25652,A,Compositae,,Phagnalon,,"scariosum",,"","DC. ex Lowe",Unresolved,,L,TICA,442BD4D4-36F6-4061-90E3-2F61F0139353,237597-1,"Man. Fl. Mad. i. 443.","","i. 443.","",
+gcc-9583,A,Compositae,,Phagnalon,,"schweinfurthii",,"","Sch.Bip. ex Schweinf.",Accepted,,M,TICA,03126DF8-DC9E-4D25-95C1-11E85F68BE8B,237598-1,"","","685","1868",
+gcc-69966,A,Compositae,,Phagnalon,,"schweinfurthii",var.,"androssovii","(B.Fedtsch.) Qaiser & Lack",Accepted,,L,TICA,45CB35C0-15D0-4375-91FF-EA6BDB1F0915,924395-1,"Willdenowia 15(1): 13","","13","1985",
+gcc-64424,A,Compositae,,Phagnalon,,"schweinfurthii",var.,"schweinfurthii","",Synonym,,L,TICA,1F260EDF-91D6-4D3F-AC25-BE71059E88DB,,"","","","",gcc-9583
+gcc-16420,A,Compositae,,Phagnalon,,"scoparium",,"","Sch.Bip. ex Oliv. & Hiern",Synonym,Illegitimate,M,TICA,E3CA2878-0A6F-453C-851A-1E564B7EA1A5,,"","","","",gcc-83413
+gcc-79374,A,Compositae,,Phagnalon,,"scoparium",,"","Sch.Bip. ex Schweinf.",Unresolved,,L,TICA,927065B2-6BF2-4708-98AC-6B52626CAA06,237599-1,"""Beitr. Fl. Aethiop. 153, nomen. 1867""","","""153, nomen.""","1867",
+gcc-39578,A,Compositae,,Phagnalon,,"sinaicum",,"","Bornm. & Kneuck.",Accepted,,M,TICA,04B4099F-5837-4EFA-AE5A-497344E5C9AC,237600-1,"","","69","1906",
+gcc-77789,A,Compositae,,Phagnalon,,"sordidum",,"","(L.) Rchb.",Accepted,,M,TICA,5B2532C9-3BBF-44F6-B046-67A876C10242,,"","","224","1831",
+gcc-152391,A,Compositae,,Phagnalon,,"sordidum",var.,"sordidum","",Synonym,,L,TICA,0E86BBE1-6EDC-44AC-9A40-98B8AC5F1AAC,,"","","","",gcc-77789
+gcc-105266,A,Compositae,,Phagnalon,,"spathulatum",,"","H.Lindb.",Unresolved,,L,TICA,4FA8F8E9-E492-4F81-AFF1-A53BED83B51F,,"""Itin. Mediterr. (Act. Soc. Sc. Fenn. n. s. B, i. No. 2) 166 (1932)""","","166","1932",
+gcc-122111,A,Compositae,,Phagnalon,,"spathulatum",,"","Cass.",Synonym,,M,TICA,37ADF71A-D0D4-4FD3-8973-CB4A3B929B73,,"","","","1826",gcc-8855
+gcc-117790,A,Compositae,,Phagnalon,,"stenolepis",,"","Chiov.",Accepted,,M,TICA,280AB87F-DC0F-46EC-9A0B-C17709B570A6,237604-1,"""in Ann. Bot., Roma, 1911, ix. 71.""","","ix. 71.","1911",
+gcc-153586,A,Compositae,,Phagnalon,,"stenolepis",subsp.,"stenolepis","",Synonym,,L,TICA,50832734-9FAB-4027-87C4-B15CA9E20A47,,"","","","",gcc-117790
+gcc-7074,A,Compositae,,Phagnalon,,"subdentatum",,"","Cass.",Unresolved,,L,TICA,64A3B25A-EA3C-4AED-BB8B-0D2AC0AB2505,237605-1,"in Dict. Sc. Nat. xxxix. 400.","","xxxix. 400","",
+gcc-112164,A,Compositae,,Phagnalon,,"tarraconense",,"","Sennen",Unresolved,,L,TICA,67A90F86-855C-4269-A5D9-B4C9DFCE461A,237606-1,"""in Bol. Soc. Iber. 1929, xxviii. 43, hybr.""","","""xxviii. 43, hybr.""","1929",
+gcc-111208,A,Compositae,,Phagnalon,,"telonense",,"","Jord. & Fourr.",Synonym,,M,TICA,DDA17F41-7D8E-49C2-A35B-B29B23ADEAAF,,"","","","1868",gcc-27942
+gcc-132363,A,Compositae,,Phagnalon,,"tenorei",,"","(Spreng.) C.Presl",Synonym,,M,TICA,5F347AF5-EBD9-4436-BC4B-E3186F948805,,"","","","1826",gcc-17182
+gcc-34142,A,Compositae,,Phagnalon,,"tibesticum",,"","Chevass. & Quézel",Unresolved,,L,TICA,3373CF67-A631-4007-937C-3F47484A1A25,237609-1,"""in Bull. Off. Nat. Anti-Acrid. No. 7: 16 (1956); cf. Quezel, Miss. Bot. Tibesti(Mem. Univ. Alger Inst. Recherch. Sahar., No. 4) 184 (1958).""","","16","1956",gcc-117790
+gcc-70893,A,Compositae,,Phagnalon,,"tibesticum",subsp.,"meridionale","Quézel",Synonym,,L,TICA,A958F16E-0764-49DC-872F-F1C71252A16E,,"","","","",gcc-117790
+gcc-155497,A,Compositae,,Phagnalon,,"tibesticum",subsp.,"tibesticum","",Synonym,,L,TICA,5666DA1E-E0E8-4FC4-9046-D96A36D87237,,"","","","",gcc-117790
+gcc-47253,A,Compositae,,Phagnalon,,"tricephalum",,"","Cass.",Synonym,,M,TICA,555D7F48-CEEE-41A9-8C24-5786DD3A6D7B,,"","","","1826",gcc-77789
+gcc-43904,A,Compositae,,Phagnalon,,"umbelliforme",,"","DC.",Accepted,,M,TICA,5B80A1A0-36B5-4CF8-B359-5157E558BE54,237611-1,"","","396","1836",
+gcc-78808,A,Compositae,,Phagnalon,,"vacciniifolium",,"","Krasch.",Unresolved,,L,TICA,0E845B7C-5584-4961-96A1-6A0487207230,237612-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 3: 344 (1937)""","","344","1937",
+gcc-45909,A,Compositae,,Phagnalon,,"viride",,"","R.Uechtr.",Unresolved,,L,TICA,626BF828-7BA4-4C26-8FAD-551974D5FA65,237613-1,"","","134","1874",gcc-27942
+gcc-113081,A,Compositae,,Phagnalon,,"viridifolium",,"","Decne.",Accepted,,M,TICA,E1746486-5565-478B-8D8B-B6DAB4430C70,,"","","","",
+gcc-137330,A,Compositae,,Phagnalon,,"viridifolium",,"","Decne. ex Boiss.",Synonym,,M,TICA,5CA4D8DA-8F89-4C1E-892E-EE3BAD3224F8,237614-1,"Fl. Orient. [Boissier] 3: 220","","220","1875",gcc-9583
+gcc-57536,A,Compositae,,Phagnalon,,"viridifolium",var.,"omanense","Qaiser & Lack",Synonym,,L,TICA,246FF542-D8ED-4E8F-9CC2-8719CB9BDDC0,919060-1,"Willdenowia 15(1): 12","","12","1985",gcc-9583
+gcc-154141,A,Compositae,,Phagnalon,,"viridifolium",var.,"viridifolium","",Synonym,,L,TICA,89C705D3-8CDC-4AF4-AD04-BD389D4CCF8D,,"","","","",gcc-113081
+gcc-31176,A,Compositae,,Phagnalon,,"woodii",,"","Qaiser & Lack",Unresolved,,L,TICA,9B9E51D9-EA60-4440-B3E5-39B7B33112D9,906834-1,"Willdenowia 15(1): 6","","6","1985",
+gcc-7054,A,Compositae,,Phagnalon,,"yerrimense",,"","Qaiser & Lack",Unresolved,,L,TICA,E067FA38-40B8-477F-B6D8-0D1F42ADE367,906835-1,"Willdenowia 15(1): 17","","17","1985",

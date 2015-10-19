@@ -1,0 +1,40 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-13012004,A,Leguminosae,,Peltophorum,,"acutifolium",,"","(J. R. Johnston) J. R. Johnston",Accepted,,M,TRO,13012004,187022-2,"Proc. Boston Soc. Nat. Hist.","34: 221","221","1909",
+ild-14686,A,Leguminosae,,Peltophorum,,"adnatum",,"","Griseb.",Accepted,,H,ILDIS,14686,187023-2,"","","","",
+ild-41493,A,Leguminosae,,Peltophorum,,"africanum",,"","Sond.",Accepted,,H,ILDIS,41493,,"","","","",
+tro-13012006,A,Leguminosae,,Peltophorum,,"berteroanum",,"","Urb.",Synonym,,M,TRO,13012006,187024-2,"Symb. Antill.","2(2): 286","286","1900",tro-50071988
+ild-13283,A,Leguminosae,,Peltophorum,,"brasiliense",,"","(L.) Urb.",Synonym,,H,ILDIS,13283,1053698-2,"","","","",ild-11076
+ild-33208,A,Leguminosae,,Peltophorum,,"brasiliense",,"","sensu Fawc. & Rendle",Misapplied,,H,ILDIS,33208,,"","","","",ild-13284
+ild-49726,A,Leguminosae,,Peltophorum,,"brasiliense",,"","auct. non Urb.",Misapplied,,H,ILDIS,49726,,"","","","",ild-951
+ild-41494,A,Leguminosae,,Peltophorum,,"dasyrhachis",,"","(Miq.) Baker",Synonym,,H,ILDIS,41494,,"","","","",ild-45917
+ild-41577,A,Leguminosae,,Peltophorum,,"dasyrhachis",var.,"dasyrhachis","",Synonym,,L,ILDIS,41577,,"","","","",ild-45917
+ild-41495,A,Leguminosae,,Peltophorum,,"dasyrhachis",var.,"tonkinense","(Pierre) K.Larsen & S.S.Larsen",Synonym,Spelling variant,L,ILDIS,41495,,"","","","",ild-41676
+ild-45917,A,Leguminosae,,Peltophorum,,"dasyrrhachis",,"","(Miq.) Kurz",Accepted,,H,ILDIS,45917,,"","","","",
+ild-45918,A,Leguminosae,,Peltophorum,,"dasyrrhachis",var.,"dasyrrhachis","",Synonym,,L,ILDIS,45918,,"","","","",ild-45917
+ild-41676,A,Leguminosae,,Peltophorum,,"dasyrrhachis",var.,"tonkinense","(Pierre) K.Larsen & S.S.Larsen",Accepted,,L,ILDIS,41676,,"","","","",
+ild-45919,A,Leguminosae,,Peltophorum,,"dasyrrhachis",var.,"tonkinensis","(Pierre) K.Larsen & S.S.Larsen",Synonym,Spelling variant,L,ILDIS,45919,,"","","","",ild-41676
+ild-14687,A,Leguminosae,,Peltophorum,,"dubium",,"","(Spreng.) Taub.",Accepted,,H,ILDIS,14687,1160567-2,"","","","",
+tro-50071986,A,Leguminosae,,Peltophorum,,"dubium",var.,"adnatum","(Griseb.) Barneby",Accepted,,L,TRO,50071986,989990-1,"Brittonia","48(2): 180","180","1996",
+tro-50071988,A,Leguminosae,,Peltophorum,,"dubium",var.,"berteroanum","(Urb.) Barneby",Accepted,,L,TRO,50071988,989991-1,"Brittonia","48(2): 180","180","1996",
+tro-50071987,A,Leguminosae,,Peltophorum,,"dubium",var.,"dubium","",Synonym,,L,TRO,50071987,,"","","","1996",ild-14687
+ild-41673,A,Leguminosae,,Peltophorum,,"ferrugineum",,"","(Decne.) Benth.",Synonym,,H,ILDIS,41673,,"","","","",ild-24832
+ild-51833,A,Leguminosae,,Peltophorum,,"grande",,"","Prain",Accepted,,H,ILDIS,51833,,"","","","",
+ild-41674,A,Leguminosae,,Peltophorum,,"inerme",,"","(Roxb.) Naves",Synonym,,H,ILDIS,41674,,"","","","",ild-24832
+ild-13284,A,Leguminosae,,Peltophorum,,"linnaei",,"","Griseb.",Accepted,,H,ILDIS,13284,,"","","","",
+ild-49727,A,Leguminosae,,Peltophorum,,"linnaei",,"","auct. non Benth.",Misapplied,,H,ILDIS,49727,,"","","","",ild-951
+ild-55631,A,Leguminosae,,Peltophorum,,"linnaei",,"","Benth.",Synonym,,H,ILDIS,55631,,"","","","",ild-11076
+tro-13051834,A,Leguminosae,,Peltophorum,,"massaiense",,"","Taub.",Synonym,,M,TRO,13051834,513020-1,"Pflanzenw. Ost-Afrikas","C 202","C","1895",ild-921
+ild-24832,A,Leguminosae,,Peltophorum,,"pterocarpum",,"","(DC.) K.Heyne",Accepted,,H,ILDIS,24832,,"","","","",
+ild-43498,A,Leguminosae,,Peltophorum,,"pterocarpum",,"","auct. non K.Heyne",Misapplied,,H,ILDIS,43498,,"","","","",ild-41676
+ild-51836,A,Leguminosae,,Peltophorum,,"racemosum",,"","Merr.",Accepted,,H,ILDIS,51836,,"","","","",
+ild-41675,A,Leguminosae,,Peltophorum,,"roxburghii",,"","(G.Don) Degener",Synonym,,H,ILDIS,41675,,"","","","",ild-24832
+kew-2538337,A,Leguminosae,,Peltophorum,,"rufum",,"","Pierre",Unresolved,,L,WCSP (in review),,513024-1,"Fl. Forest. Cochinch.","t. 388","","1899",kew-2670652
+tro-13051840,A,Leguminosae,,Peltophorum,,"scioanum",,"","(Chiov.) Chiov. ex Baker f.",Synonym,,M,TRO,13051840,513025-1,"Legum. Trop. Africa","3: 612","612","1930",ild-1653
+kew-2538335,A,Leguminosae,,Peltophorum,,"suringari",,"","Urb.",Unresolved,,L,WCSP (in review),,,"Symb. Antill.","5: 363","","1908",
+ild-41677,A,Leguminosae,,Peltophorum,,"tonkinense",,"","(Pierre) Gagnep.",Synonym,,H,ILDIS,41677,,"","","","",ild-41676
+ild-25838,A,Leguminosae,,Peltophorum,,"venezuelense",,"","L.Cardenas & al.",Accepted,,H,ILDIS,25838,,"","","","",
+tro-13068700,A,Leguminosae,,Peltophorum,,"venezuelense",,"","L. Cardenas, H. Rodriguez & A. Varela de Vega",Unresolved,,L,TRO,13068700,,"Ernstia","41: 1–4, f., 1–2","1","1986",
+ild-17439,A,Leguminosae,,Peltophorum,,"vogelianum",,"","Benth.",Synonym,,H,ILDIS,17439,187029-2,"","","","",ild-14687
+tro-13012012,A,Leguminosae,,Peltophorum,,"vogelianum",f.,"ferruginea","Chodat & Hassl.",Synonym,,L,TRO,13012012,187030-2,"Bull. Herb. Boissier, sér. 2,","4: 829","829","1904",ild-14687
+tro-13012013,A,Leguminosae,,Peltophorum,,"vogelianum",f.,"glabrata","Chodat & Hassl.",Synonym,,L,TRO,13012013,187031-2,"Bull. Herb. Boissier, sér. 2,","4: 829","829","1904",ild-14687
+tro-13012014,A,Leguminosae,,Peltophorum,,"vogelianum",f.,"intermedia","Chodat & Hassl.",Synonym,,L,TRO,13012014,187032-2,"Bull. Herb. Boissier, sér. 2,","4: 829","829","1904",ild-14687

@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-412111,A,Poaceae,,Eragrostiella,,"bifaria",,"","(Vahl) Bor",Accepted,,H,WCSP,412111,400741-1,"Indian Forester","66: 270","","1940",
+kew-412112,A,Poaceae,,Eragrostiella,,"bifaria",var.,"australiana","F.M.Bailey",Synonym,,L,WCSP,412112,,"Queensl. Fl.","6: 1908","","1902",kew-412111
+tro-25526348,A,Poaceae,,Eragrostiella,,"bifaria",var.,"bifaria","",Synonym,,L,TRO,25526348,,"","","","",kew-412111
+kew-412113,A,Poaceae,,Eragrostiella,,"bifaria",var.,"secunda","(Nees ex Steud.) Lazarides",Accepted,,L,WCSP,412113,882080-1,"Contr. Herb. Austral.","22: 6","","1976",
+kew-412114,A,Poaceae,,Eragrostiella,,"bifaria",var.,"walkeri","(Stapf) Lazarides",Accepted,,L,WCSP,412114,882081-1,"Contr. Herb. Austral.","22: 7","","1976",
+kew-412115,A,Poaceae,,Eragrostiella,,"brachyphylla",,"","(Stapf) Bor",Accepted,,H,WCSP,412115,400742-1,"Indian Forester","66: 270","","1940",
+kew-412116,A,Poaceae,,Eragrostiella,,"collettii",,"","(Stapf) Bor",Accepted,,H,WCSP,412116,400743-1,"Indian Forester","66: 270","","1940",
+kew-412117,A,Poaceae,,Eragrostiella,,"coromandeliana",,"","(K.D.Koenig ex Rottler) Keng f. & L.Liou",Synonym,,H,WCSP,412117,400744-1,"Acta Bot. Sin.","9: 50","","1960",kew-412111
+kew-412118,A,Poaceae,,Eragrostiella,,"leioptera",,"","(Stapf) Bor",Accepted,,H,WCSP,412118,400745-1,"Indian Forester","66: 270","","1940",
+kew-412119,A,Poaceae,,Eragrostiella,,"lolioides",,"","(Hand.-Mazz.) Keng f.",Accepted,,H,WCSP,412119,400746-1,"Acta Bot. Sin.","9: 51","","1960",
+kew-412120,A,Poaceae,,Eragrostiella,,"nardoides",,"","(Trin.) Bor",Accepted,,H,WCSP,412120,400747-1,"Indian Forester","66: 270","","1940",
+kew-412121,A,Poaceae,,Eragrostiella,,"secunda",,"","(Nees ex Steud.) Bor",Synonym,,H,WCSP,412121,400748-1,"Indian Forester","66: 270","","1940",kew-412113
+kew-412122,A,Poaceae,,Eragrostiella,,"walkeri",,"","(Stapf) Bor",Synonym,,H,WCSP,412122,400749-1,"Indian Forester","66: 270","","1940",kew-412114

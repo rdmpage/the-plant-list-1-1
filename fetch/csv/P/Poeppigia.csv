@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-279507,A,Tecophilaeaceae,,Poeppigia,,"chilensis",,"","Kunze ex Steud.",Synonym,Invalid,H,WCSP,279507,429826-1,"Nomencl. Bot.","ed. 2, 2: 366","","1841",kew-279568
+kew-2535921,A,Leguminosae,,Poeppigia,,"cyanea",,"","Bertero ex Moldenke",Unresolved,,L,WCSP (in review),,515469-1,"Repert. Spec. Nov. Regni Veg.","42: 69","","1937",
+kew-161875,_,,,Poeppigia,,"cyanocarpa",,"","Bertero ex Hook. & Arn.",Unresolved,,L,WCSP (in review),,864162-1,"Bot. Beechey Voy.","58","","1832",
+kew-2535920,A,Leguminosae,,Poeppigia,,"densiflora",,"","Tul.",Unresolved,,L,WCSP (in review),,515470-1,"Arch. Mus. Hist. Nat.","4: 122","","1844",
+ild-22801,A,Leguminosae,,Poeppigia,,"excelsa",,"","A.Rich.",Synonym,,H,ILDIS,22801,,"","","","",ild-20352
+kew-2535953,A,Leguminosae,,Poeppigia,,"ferruginea",,"","Tul.",Unresolved,,L,WCSP (in review),,515472-1,"Arch. Mus. Hist. Nat.","4: 120","","1844",
+ild-20352,A,Leguminosae,,Poeppigia,,"procera",,"","C.Presl",Accepted,,H,ILDIS,20352,,"","","","",
+tro-13068350,A,Leguminosae,,Poeppigia,,"procera",var.,"conferta","Benth.",Synonym,,L,TRO,13068350,204712-2,"Fl. Bras.","15(2): 54","54","1870",ild-30580
+tro-13068351,A,Leguminosae,,Poeppigia,,"procera",var.,"procera","",Synonym,,L,TRO,13068351,,"","","","",ild-20352

@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24675,A,Compositae,,Corymbium,,"africanum",,"","L.",Accepted,,M,TICA,1A7B437A-05C0-4482-95FA-2D95F8813BA7,198275-1,"","","928","1753",
+gcc-40333,A,Compositae,,Corymbium,,"africanum",subsp.,"africanum","",Synonym,,L,TICA,CC6DEB0F-2069-48F5-9F15-4AC4570CA601,,"","","","",gcc-24675
+gcc-40913,A,Compositae,,Corymbium,,"africanum",var.,"africanum","",Synonym,,L,TICA,1CC3A40A-8319-43FD-9748-4BCC8DA712CC,,"","","","",gcc-24675
+gcc-54616,A,Compositae,,Corymbium,,"africanum",var.,"fourcadei","(Hutch.) Weitz",Accepted,,L,TICA,5AD21350-51A8-417D-9D72-6F71876F1EA9,956536-1,"","","637","1990",
+gcc-55910,A,Compositae,,Corymbium,,"africanum",var.,"gramineum","(Burm.f.) Weitz",Accepted,,L,TICA,BF0FC251-FC97-4C2C-8624-7A08FE0D2A52,956535-1,"","","637","1990",
+gcc-12099,A,Compositae,,Corymbium,,"africanum",subsp.,"scabridum","(P.J.Bergius) Weitz",Accepted,,L,TICA,607466F7-CB1D-48DE-A379-1690C7D52512,956534-1,"","","637","1990",
+gcc-66158,A,Compositae,,Corymbium,,"africanum",var.,"scabridum","(P.J.Bergius) Weitz",Unresolved,,L,TICA,5B465476-470B-4C36-BF70-CC7E78638582,1000942-1,"","","605","1989",
+gcc-15141,A,Compositae,,Corymbium,,"congestum",,"","E.Mey. ex Steud.",Accepted,,L,TICA,88CEAB2C-A188-4656-9CD0-1C07A30EEBEC,198276-1,"","","425","1840",
+gcc-29162,A,Compositae,,Corymbium,,"congestum",,"","E.Mey.",Unresolved,,L,TICA,036A6C11-C325-4EB1-8A76-35E79091DE0B,,"","","","",
+gcc-7027,A,Compositae,,Corymbium,,"cymosum",,"","E.Mey. ex DC.",Accepted,,M,TICA,5E0FB521-9AF4-43B1-9B7B-0D11CF415901,,"","","425","1840",
+gcc-127931,A,Compositae,,Corymbium,,"elsiae",,"","Weitz",Accepted,,M,TICA,3F015FAF-5965-4987-8056-D8DAAE2319A4,940189-1,"","","640","1990",
+gcc-31897,A,Compositae,,Corymbium,,"enerve",,"","Markötter",Accepted,,M,TICA,830ED367-AEC0-4E97-8873-3B17271C1CE6,,"","","","1939",
+gcc-79697,A,Compositae,,Corymbium,,"filiforme",,"","L.f.",Synonym,,M,TICA,A9D29932-83E0-4998-993B-6BF7C82D7D5D,198279-1,"","","392","1782",gcc-55910
+gcc-76711,A,Compositae,,Corymbium,,"fourcadei",,"","Hutch.",Synonym,,M,TICA,B758F23D-9F68-44B9-9D43-654288FA25C0,198280-1,"","","510","1932",gcc-54616
+gcc-134238,A,Compositae,,Corymbium,,"glabrum",,"","L.",Accepted,,M,TICA,4BB27A4C-55C1-496A-AF9B-E7515645A4F6,,"","","","1767",
+gcc-47159,A,Compositae,,Corymbium,,"glabrum",,"","Thunb.",Unresolved,,L,TICA,80569482-CB67-4E79-965B-575D964C0094,198282-1,"Prodr. Pl. Cap. 170.","","170","",
+gcc-60118,A,Compositae,,Corymbium,,"glabrum",var.,"glabrum","",Synonym,,L,TICA,2511EF2A-240D-482B-BBA7-9BCA47E18A5D,,"","","","",gcc-134238
+gcc-62869,A,Compositae,,Corymbium,,"glabrum",var.,"rogersii","(Markötter) Weitz",Accepted,,L,TICA,6D36FB6C-AA05-43DB-85B2-B24A4508D08D,1000945-1,"""S. Afr. J. Bot. 55: 618, 629 (1989)""","","""618, 629""","1989",
+gcc-126372,A,Compositae,,Corymbium,,"gramineum",,"","Burm.f.",Synonym,,M,TICA,DA79870A-0C1F-4600-9753-D531534EA0CC,198283-1,"","","29","1768",gcc-55910
+gcc-39115,A,Compositae,,Corymbium,,"gramineum",,"","Lam.",Unresolved,,L,TICA,D95D1347-1B42-45D1-A778-4893BAC6ABB2,198284-1,"","","129","1786",
+gcc-87662,A,Compositae,,Corymbium,,"harveyanum",,"","Markötter",Synonym,,M,TICA,A3C3381A-CC56-460A-A837-7DC270AAAECA,,"","","","1939",gcc-134238
+gcc-30334,A,Compositae,,Corymbium,,"hirsutum",,"","Eckl. ex DC.",Synonym,Invalid,M,TICA,06170346-E5FC-4B11-BB02-381ED95F3E91,198287-1,"","","89","1836",gcc-123785
+gcc-49235,A,Compositae,,Corymbium,,"hirsutum",,"","Thunb.",Synonym,,M,TICA,3AA872DA-1EB5-4CB4-BA16-5B34F1D92F13,,"","","","1823",gcc-123785
+gcc-27967,A,Compositae,,Corymbium,,"hirtum",,"","Thunb.",Synonym,,M,TICA,1D3FECF1-73AA-473C-82A4-33AD4A5D040A,198288-1,"","","","1800",gcc-123785
+gcc-110667,A,Compositae,,Corymbium,,"latifolium",,"","Harv.",Synonym,,M,TICA,C858EC58-3A66-4531-87F2-B16EBECF3F68,198289-1,"","","55","1865",gcc-134238
+gcc-118148,A,Compositae,,Corymbium,,"laxum",,"","Compton",Accepted,,M,TICA,5A2B2D37-C808-4D7A-B3AD-C2421FE87B88,,"","","","1936",
+gcc-53189,A,Compositae,,Corymbium,,"laxum",subsp.,"laxum","",Synonym,,L,TICA,D7DBC981-2884-4556-B193-64373CD55DD6,,"","","","",gcc-118148
+gcc-108457,A,Compositae,,Corymbium,,"luteum",,"","E.Mey. ex Steud.",Synonym,,M,TICA,34865339-8FCF-4872-B900-AC542467EF00,198291-1,"","","425","1840",gcc-55910
+gcc-125675,A,Compositae,,Corymbium,,"luteum",,"","E.Mey. ex DC.",Synonym,,M,TICA,EE1736E2-56FA-44C2-8810-D3945678E074,,"","","","",gcc-55910
+gcc-98821,A,Compositae,,Corymbium,,"nervosum",,"","Thunb.",Synonym,,M,TICA,D14765AC-54C4-476E-B323-96F479288C52,198292-1,"","","","1800",gcc-134238
+gcc-150979,A,Compositae,,Corymbium,,"nervosum",var.,"nervosum","",Synonym,,L,TICA,15F88B0C-425E-4930-9ED8-7A53E1636248,,"","","","",gcc-134238
+gcc-56559,A,Compositae,,Corymbium,,"nervosum",var.,"subulifolium","Harv.",Synonym,,L,TICA,829DB570-E170-4C4D-A155-7F8027716731,,"","","","",gcc-134238
+gcc-8701,A,Compositae,,Corymbium,,"rogersii",,"","Markötter",Synonym,,M,TICA,E0CB3E84-4143-48BB-BE1F-104207AE57A6,198293-1,"","","371","1939",gcc-62869
+gcc-100363,A,Compositae,,Corymbium,,"salteri",,"","Markötter",Synonym,,M,TICA,9F877FE8-FCEE-494D-B91A-9A730D30D96C,,"","","","1939",gcc-134238
+gcc-26314,A,Compositae,,Corymbium,,"scabridum",,"","P.J.Bergius",Synonym,,L,TICA,81F76B06-912D-458A-A1D3-30A0BA4CA85D,198295-1,"","","341","1767",gcc-66158
+gcc-3919,A,Compositae,,Corymbium,,"scabrum",,"","L.",Synonym,,M,TICA,0F2B581A-620B-4F28-BBCB-0748A28865FC,198296-1,"","","","1767",gcc-12099
+gcc-30813,A,Compositae,,Corymbium,,"scabrum",var.,"filiforme","(L.f.) Thunb.",Synonym,,L,TICA,01CCE06F-C967-4390-AFFA-390C6B95EACB,,"","","","",gcc-55910
+gcc-19018,A,Compositae,,Corymbium,,"scabrum",var.,"scabrum","",Synonym,,L,TICA,128A2C1A-F311-43F4-B592-231E457809E3,,"","","","",gcc-66158
+gcc-119121,A,Compositae,,Corymbium,,"theileri",,"","S.Moore",Unresolved,,L,TICA,FFB37FEA-6ED8-4D56-8F3F-C47EDF9E5400,,"""Journal of Botany, British and Foreign 59:""","","231","1921",
+gcc-87673,A,Compositae,,Corymbium,,"theileri",,"","Markötter",Accepted,,M,TICA,CD119F7E-D4FA-4215-9A63-7DC8510DB563,,"","","","1939",
+gcc-123785,A,Compositae,,Corymbium,,"villosum",,"","L.f.",Accepted,,M,TICA,F6BFF02D-9D0A-4416-98FB-CF2B40A47E00,198298-1,"","","392","1782",
+gcc-47676,A,Compositae,,Corymbium,,"villosum",,"","Less.",Unresolved,,L,TICA,52BF2278-E691-47CB-98DC-5857D8CA0FB8,,"","","","",

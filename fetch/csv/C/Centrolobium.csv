@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-40252,A,Leguminosae,,Centrolobium,,"microchaete",,"","(Benth.) H.C.Lima",Accepted,,H,ILDIS,40252,,"","","","",
+ild-20147,A,Leguminosae,,Centrolobium,,"minus",,"","C.Presl",Synonym,,H,ILDIS,20147,,"","","","",ild-20148
+ild-40244,A,Leguminosae,,Centrolobium,,"minus",,"","sensu Rudd",Misapplied,,H,ILDIS,40244,,"","","","",ild-40252
+tro-100308261,A,Leguminosae,,Centrolobium,,"minus",var.,"longostipitata","N.F. Mattos",Synonym,,L,TRO,100308261,917664-1,"Loefgrenia","78: 6","6","1983",ild-20148
+ild-11974,A,Leguminosae,,Centrolobium,,"ochroxylum",,"","Rudd",Accepted,,H,ILDIS,11974,,"","","","",
+ild-14026,A,Leguminosae,,Centrolobium,,"orenocense",,"","(Benth.) Pittier",Synonym,,H,ILDIS,14026,,"","","","",ild-11975
+ild-1789,A,Leguminosae,,Centrolobium,,"paraense",,"","Tul.",Accepted,,H,ILDIS,1789,,"","","","",
+ild-11975,A,Leguminosae,,Centrolobium,,"paraense",var.,"orenocense","Benth.",Accepted,,L,ILDIS,11975,,"","","","",
+ild-25673,A,Leguminosae,,Centrolobium,,"paraense",var.,"paraense","",Synonym,,L,ILDIS,25673,,"","","","",ild-1789
+ild-14027,A,Leguminosae,,Centrolobium,,"patinense",,"","Pittier",Synonym,,H,ILDIS,14027,,"","","","",ild-11975
+ild-20148,A,Leguminosae,,Centrolobium,,"robustum",,"","(Vell.) Benth.",Accepted,,H,ILDIS,20148,,"","","","",
+ild-22485,A,Leguminosae,,Centrolobium,,"robustum",var.,"macrochaete","Benth.",Synonym,,L,ILDIS,22485,,"","","","",ild-20148
+ild-22483,A,Leguminosae,,Centrolobium,,"robustum",var.,"microchaete","Benth.",Synonym,,L,ILDIS,22483,,"","","","",ild-40252
+ild-33219,A,Leguminosae,,Centrolobium,,"sclerophyllum",,"","H.C.Lima",Accepted,,H,ILDIS,33219,,"","","","",
+ild-20149,A,Leguminosae,,Centrolobium,,"tomentosum",,"","Benth.",Accepted,,H,ILDIS,20149,,"","","","",
+ild-11976,A,Leguminosae,,Centrolobium,,"yavizanum",,"","Pittier",Accepted,,H,ILDIS,11976,,"","","","",

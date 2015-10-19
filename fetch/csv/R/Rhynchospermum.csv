@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-340793,A,Apocynaceae,,Rhynchospermum,,"ellipticum",,"","A.DC.",Synonym,,H,WCSP,340793,808887-1,"Prodr.","8: 431","","1844",kew-39757
+gcc-35704,A,Compositae,,Rhynchospermum,,"formosanum",,"","Yamam.",Unresolved,,L,TICA,39A4414A-A1FC-47B5-9E5D-4237BDEC8333,241461-1,"Suppl. Ic. Pl. Formos. iv. 25 (1928).","","","1928",gcc-148041
+kew-178354,A,Apocynaceae,,Rhynchospermum,,"jasminoides",,"","Lindl.",Synonym,,H,WCSP,178354,81746-1,"J. Hort. Soc. London","1: 74","","1846",kew-207106
+gcc-9575,A,Compositae,,Rhynchospermum,,"subsessile",,"","(Oliv. ex Miq.) Nakai",Unresolved,,L,TICA,87B50B93-2AF5-4CCC-8DAD-11DFF0D9C081,,"""in Bull. Nat. Sci. Mus., Tokyo No. 31, 118 (1952):""","","118","",
+gcc-80757,A,Compositae,,Rhynchospermum,,"taquetii",,"","H.Lév.",Unresolved,,L,TICA,CD0D117A-5ED0-4C5C-90EC-6E4493A2E356,241463-1,"Repert. Spec. Nov. Regni Veg. 12: 99","","99","1913",
+gcc-148041,A,Compositae,,Rhynchospermum,,"verticillatum",,"","Reinw. ex Reinw.",Accepted,,M,TICA,B1987E8F-1E40-4634-8B6C-3A66DD34DBB9,,"Syll. Pl. Nov. 2: 8. 1828 [1825]","","8","1825",
+gcc-53167,A,Compositae,,Rhynchospermum,,"verticillatum",var.,"subsessilis","Oliv. ex Miq.",Synonym,,L,TICA,9F225353-9300-4218-A8E7-6400D0CC2D61,,"Annales Museum Botanicum Lugduno-Batavi 3:","","198","1867",gcc-148041
+gcc-156067,A,Compositae,,Rhynchospermum,,"verticillatum",var.,"verticillatum","",Synonym,,L,TICA,F6EE15C2-BC06-41B1-9DD1-E5DAE5179A79,,"","","","",gcc-148041
+kew-464911,A,Apocynaceae,,Rhynchospermum,,"wallichii",,"","A.DC.",Synonym,,H,WCSP,464911,808888-1,"Prodr.","8: 431","","1844",kew-39757

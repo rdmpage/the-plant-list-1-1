@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113732,A,Compositae,,Rigiopappus,,"leptocladus",,"","A.Gray",Accepted,,M,TICA,EACB3DD5-F553-424B-82C0-B8492B8EEFFE,241498-1,"Proc. Amer. Acad. Arts vi. (1865) 548","","548","1865",
+gcc-56402,A,Compositae,,Rigiopappus,,"leptocladus",var.,"leptocladus","",Synonym,,L,TICA,1193785A-A903-492A-84B2-7E2242AE4032,,"","","","",gcc-113732
+gcc-57598,A,Compositae,,Rigiopappus,,"leptocladus",var.,"longiaristatus","A.Gray",Unresolved,,L,TICA,9097651C-9C7B-42D0-8FC7-8795BEBED075,221384-2,"""Syn. Fl. N. Amer. 1, pt. 2: 339. 1884""","","339","1884",gcc-97556
+gcc-97556,A,Compositae,,Rigiopappus,,"longiaristatus",,"","(A.Gray) Rydb.",Unresolved,,L,TICA,286FA647-B4E8-4762-AB1D-9425A7E5E0B8,221385-2,"N. Amer. Fl. 34","","64","1914",

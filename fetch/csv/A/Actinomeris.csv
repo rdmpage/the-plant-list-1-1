@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-3494,A,Compositae,,Actinomeris,,"alata",,"","Nutt.",Synonym,,M,TICA,90B3FB9B-C201-4D0E-9FD7-066B0837B109,174912-1,"","","181","1818",gcc-88434
+gcc-21921,A,Compositae,,Actinomeris,,"alba",,"","(Michx.) Torr. & A.Gray",Synonym,,M,TICA,989D9BFF-9D91-4BDA-A0DD-288BF57A2A27,174913-1,"","","335","1842",gcc-87938
+gcc-95938,A,Compositae,,Actinomeris,,"alternifolia",,"","(L.) DC.",Synonym,,M,TICA,1080EA7C-9655-4747-86A9-907B5BB80D35,,"","","","1836",gcc-111241
+gcc-61253,A,Compositae,,Actinomeris,,"alternifolia",var.,"alba","(Michx.) DC.",Synonym,,L,TICA,ED93F646-4102-43CE-96EA-A4FF001F7056,4020-2,"","","575","1836",gcc-112580
+gcc-148173,A,Compositae,,Actinomeris,,"alternifolia",var.,"alternifolia","",Synonym,,L,TICA,85E57A7F-6A98-4B21-AE52-3CCA07F94E1B,,"","","","",gcc-111241
+gcc-111220,A,Compositae,,Actinomeris,,"elliotii",,"","Raf.",Unresolved,,L,TICA,543901DB-61C2-4F32-A72C-B2A2A062CAAE,,"","","61","1836",
+gcc-15438,A,Compositae,,Actinomeris,,"helianthoides",,"","(Michx.) Nutt.",Synonym,,M,TICA,BF3839A5-3B9E-466F-84F1-1C9238A446A4,174916-1,"","","181","1818",gcc-28329
+gcc-12430,A,Compositae,,Actinomeris,,"helianthoides",var.,"elliotii","DC.",Synonym,,L,TICA,FB2F500D-7C34-4931-89FD-172C3922CC3E,4021-2,"","","290","1838",gcc-28329
+gcc-154256,A,Compositae,,Actinomeris,,"helianthoides",var.,"helianthoides","",Synonym,,L,TICA,04FF5DAF-F93D-452E-842F-BFD9DE8A362F,,"","","","",gcc-28329
+gcc-4218,A,Compositae,,Actinomeris,,"helianthoides",var.,"nuttallii","DC.",Synonym,,L,TICA,B5244268-E7B0-4FC7-A754-07D5320DF90E,4022-2,"","","290","1838",gcc-28329
+gcc-139371,A,Compositae,,Actinomeris,,"heterophylla",,"","Chapm.",Synonym,,M,TICA,9BD407D6-6078-482A-B65A-F29BBF0520D4,174917-1,"","","6","1878",gcc-105053
+gcc-46583,A,Compositae,,Actinomeris,,"longifolia",,"","A.Gray",Synonym,,M,TICA,8B1B2FB6-5BFC-401D-B782-564F275ECEA3,,"","","","1853",gcc-106105
+gcc-116875,A,Compositae,,Actinomeris,,"nudicaulis",,"","Nutt.",Synonym,Illegitimate,M,TICA,6CF00FCA-03F7-496B-9755-BF692E997658,,"","","364","1841",gcc-90762
+gcc-102609,A,Compositae,,Actinomeris,,"oppositifolia",,"","DC.",Synonym,,M,TICA,9A8B37C2-4BBB-44A5-9C83-9F8775896F9C,174920-1,"","","575","1836",gcc-28329
+gcc-23534,A,Compositae,,Actinomeris,,"oppositifolia",,"","Fresen.",Synonym,,L,TICA,0E8369CA-BAAF-43EF-AFEB-2B87D4C959E3,174921-1,"","","","1836",gcc-112580
+gcc-128215,A,Compositae,,Actinomeris,,"ovata",,"","(Cav.) Nutt.",Synonym,,M,TICA,EB44ACA8-9B22-47D4-923A-D97F88447C9E,,"","","181","",gcc-1296
+gcc-110289,A,Compositae,,Actinomeris,,"pachyphylla",,"","Sch.Bip. ex Klatt",Unresolved,Illegitimate,L,TICA,CAA3FBE9-61EE-480E-8BB3-B08BA09CA62C,4025-2,"Leopoldina 23: 143. 1887 In synon","","143","1887",
+gcc-5629,A,Compositae,,Actinomeris,,"paniculata",,"","(Walter) Small",Synonym,,M,TICA,4E5CB435-2D15-4CDD-9D9F-0A7F7501C5AD,174923-1,"","","","1903",gcc-87938
+gcc-128870,A,Compositae,,Actinomeris,,"pauciflora",,"","Nutt.",Synonym,,M,TICA,403F1255-FBA6-414C-A95E-DB0603B8876B,174924-1,"","","301","1822",gcc-105053
+gcc-80017,A,Compositae,,Actinomeris,,"pedunculosa",,"","DC.",Synonym,,M,TICA,D67A2174-E32E-4BC7-8322-6CAACE32B841,174925-1,"","","576","1836",gcc-15781
+gcc-9805,A,Compositae,,Actinomeris,,"procera",,"","Steud.",Unresolved,,L,TICA,3852E923-3430-4CEB-A2C1-12529149E3A0,174926-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 23""","","23","1840",
+gcc-28711,A,Compositae,,Actinomeris,,"squaeosa",,"","Nutt.",Unresolved,,L,TICA,CA64EE56-50A6-47CA-AB76-3518F845728F,,"Gen. Am. ii. 181.","","181","",
+gcc-43984,A,Compositae,,Actinomeris,,"squarrosa",,"","Nutt.",Synonym,Illegitimate,L,TICA,83728189-77AE-434D-A94D-517B2C109E12,,"Gen. N. Amer. Pl. 2: 181 (1818)","","181","1818",gcc-112580
+gcc-40674,A,Compositae,,Actinomeris,,"squarrosa",var.,"alba","(Michx.) Nutt.",Synonym,,L,TICA,D893EAA1-0FC6-4E17-9155-4B6366D59A3D,4028-2,"","","181","1818",gcc-112580
+gcc-61750,A,Compositae,,Actinomeris,,"squarrosa",var.,"alternifolia","(L.) Torr. & A.Gray",Synonym,,L,TICA,93084E28-DD06-466C-B001-A93B7A2FD859,4029-2,"","","335","1842",gcc-112580
+gcc-62387,A,Compositae,,Actinomeris,,"squarrosa",var.,"flava","Elliott",Synonym,,L,TICA,59AA86B3-CB80-4E3B-99E2-AE6606330479,4030-2,"Sketch Bot. S. Carolina 2","","413","1823",gcc-112580
+gcc-59293,A,Compositae,,Actinomeris,,"squarrosa",var.,"oppositifolia","(Fresen.) Torr. & A.Gray",Synonym,,L,TICA,7ED56C87-4304-4701-8B57-9546D727DC94,4031-2,"","","335","1842",gcc-112580
+gcc-147443,A,Compositae,,Actinomeris,,"squarrosa",var.,"squarrosa","",Synonym,,L,TICA,0DA61839-5B1B-45AA-A74D-2DC3CE5112B9,,"","","","",gcc-112580
+gcc-24567,A,Compositae,,Actinomeris,,"stricta",,"","Hemsl.",Synonym,,M,TICA,BFA0AF0C-F13B-41CA-B6EF-2D6011439AAA,323103-2,"""Biol. Cent.-Amer., Bot. 2""","","186","1881",gcc-27067
+gcc-38028,A,Compositae,,Actinomeris,,"tetragona",,"","DC.",Synonym,,L,TICA,D55B5C77-F6FD-4960-A782-4686A0A4BE36,174929-1,"","","576","1836",gcc-76234
+gcc-113542,A,Compositae,,Actinomeris,,"tetraptera",,"","(Ortega) DC.",Unresolved,,L,TICA,9B87BF72-4341-4989-8883-B7D82BE9C061,174930-1,"Prodr. (DC.) 5: 575","","575","1836",gcc-76234
+gcc-112001,A,Compositae,,Actinomeris,,"wrightii",,"","A.Gray",Unresolved,,L,TICA,19AD9F51-F027-46F2-85B4-B4691106E5A6,174931-1,"","","85","1849",

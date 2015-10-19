@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-16837,A,Compositae,,Anaxeton,,"angustifolium",,"","Lundgren",Accepted,,M,TICA,1ADA23FD-CE10-48AD-883E-1F1984811CF8,176560-1,"Opera Bot. 31","","45","1972",
+gcc-102001,A,Compositae,,Anaxeton,,"arborescens",,"","(L.) Less.",Accepted,,M,TICA,15E2E5BA-EB27-474D-9192-9E0FBA310099,176561-1,"","","354","1832",
+gcc-47612,A,Compositae,,Anaxeton,,"arboreum",,"","(L.) Gaertn.",Synonym,,M,TICA,B06302FC-1767-42AE-9F33-583826A389C8,,"Fruct. ii. 407.","","407","1791",gcc-102001
+gcc-107154,A,Compositae,,Anaxeton,,"asperum",,"","(Thunb.) DC.",Accepted,,M,TICA,89E20724-59B5-410D-AA7C-A970B4D1B05C,176563-1,"","","268","1838",
+gcc-23655,A,Compositae,,Anaxeton,,"asperum",subsp.,"asperum","",Synonym,,L,TICA,A3A07243-E1DB-47F1-9863-2BBD08F3EC70,,"","","","",gcc-107154
+gcc-67695,A,Compositae,,Anaxeton,,"asperum",var.,"asperum","",Synonym,,L,TICA,75384E2B-5A6B-4401-922A-D93F57F3C42C,,"","","","",gcc-107154
+gcc-11335,A,Compositae,,Anaxeton,,"asperum",var.,"laeve","Harv.",Synonym,,L,TICA,784A8716-78C7-4E93-ADE5-1532D2531904,,"Fl. Cap. 3: 290 (1865)","","290","1865",gcc-94457
+gcc-45584,A,Compositae,,Anaxeton,,"brevipes",,"","Lundgren",Accepted,,M,TICA,11BC6CDF-DF67-4219-AB84-547D82241C80,176564-1,"Opera Bot. 31","","50","1972",
+gcc-121284,A,Compositae,,Anaxeton,,"canescens",,"","(DC.) Benth. & Hook. ex B.D.Jacks.",Synonym,,M,TICA,BB27B642-74E8-42CC-A64D-C9763CDBDB6A,,"","","","",gcc-108056
+gcc-46051,A,Compositae,,Anaxeton,,"crispum",,"","(L.) Gaertn.",Synonym,,M,TICA,44C0DE61-3CB7-410B-BDBC-555DC10FF86B,,"","","407","1791",gcc-138939
+gcc-5089,A,Compositae,,Anaxeton,,"ellipticum",,"","Lundgren",Accepted,,M,TICA,991EF819-5E62-42C2-9FCB-09819DFFDAAF,176566-1,"Opera Bot. 31","","53","1972",
+gcc-76545,A,Compositae,,Anaxeton,,"eximium",,"","Schrank",Synonym,,M,TICA,E9406012-4ACB-44E5-8A68-64F1712F9151,,"","","","1824",gcc-126627
+gcc-127903,A,Compositae,,Anaxeton,,"floridum",,"","Poir.",Synonym,,M,TICA,36612810-4FF5-4C53-AC72-D8CC973C7403,,"","","","",gcc-102001
+gcc-132171,A,Compositae,,Anaxeton,,"floridum",,"","Lam.",Synonym,,M,TICA,58C7F94B-420D-4310-9560-E2982687E98A,,"","","269","1823",gcc-102001
+gcc-35940,A,Compositae,,Anaxeton,,"foetidum",,"","(L.) Gaertn.",Synonym,,L,TICA,6B15C4E1-C0DC-4BEB-9578-42A6AFBFFA26,,"","","406","1791",gcc-111184
+gcc-93512,A,Compositae,,Anaxeton,,"hirsutum",,"","(Thunb.) Less.",Accepted,,M,TICA,AFDA9694-EC2C-42E7-B38F-8AE3F5E38EDA,176570-1,"","","356","1832",
+gcc-94457,A,Compositae,,Anaxeton,,"laeve",,"","(Harv.) Lundgren",Accepted,,M,TICA,9AEC988B-AFC9-4906-80EB-8CFED2388162,176571-1,"Opera Bot. 31","","23","1972",
+gcc-9118,A,Compositae,,Anaxeton,,"lundgrenii",,"","B.Nord.",Accepted,,M,TICA,F0FE78C8-7483-4C7F-A257-110E9FD919A1,936109-1,"""S. Afr. J. Bot., 54(6): 631 (1988)""","","631","1988",
+gcc-115817,A,Compositae,,Anaxeton,,"nudifolium",,"","(L.) Gaertn.",Synonym,,L,TICA,DFB79A49-8929-40B9-9777-BD0CC4C02896,,"De Fructibus et Seminibus Plantarum.  . . . 2:","","407","1791",gcc-111227
+gcc-140902,A,Compositae,,Anaxeton,,"nycthemerum",,"","Less.",Accepted,,M,TICA,DB878BF2-C681-4E44-99E6-F620BC05610E,176573-1,"","","355","1832",
+gcc-107048,A,Compositae,,Anaxeton,,"racemosum",,"","Schrank",Synonym,,M,TICA,21716DF7-3884-40FB-AFB9-A932ECE343F7,,"","","","1824",gcc-112849
+gcc-116850,A,Compositae,,Anaxeton,,"recurvum",,"","(Lam.) DC.",Synonym,,M,TICA,FF1DF2DA-88CB-4266-8BA8-BF5EFBEEB4BF,,"","","368","1838",gcc-102001
+tro-50332273,A,Compositae,,Anaxeton,,"septentrionale",,"","Vatke",Unresolved,,L,TRO,50332273,,"","","","",
+gcc-24040,A,Compositae,,Anaxeton,,"septentrionalis",,"","Vatke",Synonym,,M,TICA,43FA26FC-D229-4824-8790-2C6CD12ABD08,176576-1,"Oesterr. Bot. Z. 27","","194","1877",gcc-130306
+gcc-117977,A,Compositae,,Anaxeton,,"virgatum",,"","DC.",Accepted,,M,TICA,3D4A8CF9-1B75-4F5C-976D-C1DE7CF38286,176577-1,"","","268","1838",

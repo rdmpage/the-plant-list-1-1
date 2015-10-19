@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-90137,A,Compositae,,Balduina,,"angustifolia",,"","(Pursh) B.L.Rob.",Accepted,,M,TICA,200B8023-8CDC-4715-A929-834768C77912,28805-2,"Proc. Amer. Acad. Arts 47","","215","1911",
+gcc-126498,A,Compositae,,Balduina,,"atropurpurea",,"","R.M.Harper",Accepted,,M,TICA,24DC04AA-A507-4F56-A063-D5774C4715DF,28807-2,"Bulletin of the Torrey Botanical Club 28(8):","","483-484","1901",
+gcc-7702,A,Compositae,,Balduina,,"bicolor",,"","Raf.",Unresolved,,L,TICA,07E08CD6-F10F-4EF2-AF08-0E4F8A51690B,,"","","73","1838",
+gcc-113543,A,Compositae,,Balduina,,"lutea",,"","Raf.",Synonym,Illegitimate,M,TICA,EBC542EE-C78E-4B9C-95F3-B7DA20A7953A,184034-1,"","","73","",gcc-96999
+gcc-118752,A,Compositae,,Balduina,,"multiflora",,"","Nutt.",Synonym,,M,TICA,59B883A3-5E5F-4146-9C01-C3A905CD71B5,184035-1,"","","175","1818",gcc-90137
+gcc-96999,A,Compositae,,Balduina,,"uniflora",,"","Nutt.",Accepted,,M,TICA,799F47AE-3F3C-4FA4-ADEA-92D3CC7CBE1D,184036-1,"The Genera of North American Plants 2:","","175-176","1818",
+gcc-152516,A,Compositae,,Balduina,,"uniflora",var.,"uniflora","",Synonym,,L,TICA,59C7014C-45F2-4453-B7D6-9B16875E90BA,,"","","","",gcc-96999

@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50325559,A,Koeberliniaceae,,Koeberlinia,,"holacantha",,"","W.C. Holmes, K. L. Yip & Rushing",Accepted,,M,TRO,50325559,77094268-1,"Brittonia","60(2): 173–175, f. 1A [map], 2A, 3","173","2008",
+tro-17100001,A,Koeberliniaceae,,Koeberlinia,,"spinosa",,"","Zucc.",Accepted,,M,TRO,17100001,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.","1: 359","359","1832",
+tro-17100003,A,Koeberliniaceae,,Koeberlinia,,"spinosa",var.,"spinosa","",Synonym,,L,TRO,17100003,,"","","","",tro-17100001
+tro-17100002,A,Koeberliniaceae,,Koeberlinia,,"spinosa",var.,"tenuispina","Kearney & Peebles",Accepted,,L,TRO,17100002,133662-2,"J. Wash. Acad. Sci.","29(11): 486–487","486","1939",
+tro-50326227,A,Koeberliniaceae,,Koeberlinia,,"spinosa",subsp.,"tenuispina","(Kearney & Peebles) A.E. Murray",Synonym,,L,TRO,50326227,921064-1,"Kalmia","12: 21","21","1982",tro-17100002
+tro-50326225,A,Koeberliniaceae,,Koeberlinia,,"spinosa",var.,"verniflora","Bogusch",Synonym,,L,TRO,50326225,133663-2,"Torreya","31: 74, f. 1","74","1931",tro-17100001

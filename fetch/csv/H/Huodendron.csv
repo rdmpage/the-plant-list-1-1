@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-30800167,A,Styracaceae,,Huodendron,,"biaristatum",,"","(W.W. Sm.) Rehder",Accepted,,M,TRO,30800167,826548-1,"J. Arnold Arbor.","16(3): 344","344","1936",
+tro-30800169,A,Styracaceae,,Huodendron,,"biaristatum",var.,"biaristatum","",Synonym,,L,TRO,30800169,,"","","","",tro-30800167
+tro-30800170,A,Styracaceae,,Huodendron,,"biaristatum",var.,"parviflorum","(Merr.) Rehder",Accepted,,L,TRO,30800170,,"J. Arnold Arbor.","16(3): 346","346","1935",
+tro-30800171,A,Styracaceae,,Huodendron,,"biaristatum",subsp.,"parviflorum","(Merr.) Y. C. Tang",Synonym,,L,TRO,30800171,,"Icon. Cormophyt. Sin.","3: 335","335","1974",tro-30800170
+tro-30800168,A,Styracaceae,,Huodendron,,"chunianum",,"","Hu",Synonym,,M,TRO,30800168,826549-1,"Sunyatsenia","3(1): 36–37, f. 7","36","1935",tro-30800167
+kew-2855062,A,Styracaceae,,Huodendron,,"decorticatum",,"","C.Y.Wu",Unresolved,,L,WCSP (in review),,928644-1,"in Fl. Yunnanica","3: 418","","1983",
+kew-2855063,A,Styracaceae,,Huodendron,,"parvifolium",,"","H.L.Li",Unresolved,,L,WCSP (in review),,826550-1,"J. Arnold Arbor.","24: 370","","1943",
+kew-2855064,A,Styracaceae,,Huodendron,,"siamicum",,"","H.R.Fletcher",Unresolved,,L,WCSP (in review),,826551-1,"Bull. Misc. Inform. Kew","1937: 380","","1937",
+tro-30800166,A,Styracaceae,,Huodendron,,"tibeticum",,"","(J. Anthony) Rehder",Accepted,,M,TRO,30800166,826552-1,"J. Arnold Arbor.","16(3): 342","342","1935",
+tro-30800172,A,Styracaceae,,Huodendron,,"tomentosum",,"","Y.C. Tang & S.M. Hwang",Accepted,,M,TRO,30800172,826553-1,"Acta Phytotax. Sin.","18(2): 164–165, pl. 4","164","1980",
+tro-30800173,A,Styracaceae,,Huodendron,,"tomentosum",var.,"tomentosum","",Synonym,,L,TRO,30800173,,"","","","",tro-30800172
+kew-2855069,A,Styracaceae,,Huodendron,,"yunnanense",,"","Hu",Unresolved,,L,WCSP (in review),,826554-1,"J. Roy. Hort. Soc.","63: 388","","1938",

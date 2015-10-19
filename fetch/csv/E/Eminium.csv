@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-66872,A,Araceae,,Eminium,,"albertii",,"","(Regel) Engl.",Accepted,,H,WCSP,66872,,"Pflanzenr.","IV, 23F: 131","","1920",
+kew-66873,A,Araceae,,Eminium,,"carsaamii",,"","(Kunth) Schott",Synonym,Illegitimate,H,WCSP,66873,86994-1,"Syn. Aroid.","17","","1856",kew-21949
+kew-66874,A,Araceae,,Eminium,,"heterophyllum",,"","(Blume) Schott",Accepted,,H,WCSP,66874,86995-1,"Syn. Aroid.","17","","1856",
+kew-66875,A,Araceae,,Eminium,,"intortum",,"","(Banks & Sol.) Kuntze",Accepted,,H,WCSP,66875,86996-1,"Revis. Gen. Pl.","2: 741","","1891",
+kew-66876,A,Araceae,,Eminium,,"intortum",subsp.,"heterophyllum","(Blume) Riedl",Synonym,,L,WCSP,66876,924220-1,"in Fl. Iraq","8: 199","","1985",kew-66874
+kew-66877,A,Araceae,,Eminium,,"intortum",var.,"kotschyi","(Schott) Engl.",Synonym,,L,WCSP,66877,,"Pflanzenr.","IV, 23F: 130","","1920",kew-66883
+kew-66878,A,Araceae,,Eminium,,"intortum",subsp.,"kotschyi","(Schott) Riedl",Synonym,,L,WCSP,66878,,"Ann. Naturhist. Mus. Wien","73: 111F: 130","","1969",kew-66883
+kew-372813,A,Araceae,,Eminium,,"jaegeri",,"","Bogner & P.C.Boyce",Accepted,,H,WCSP,372813,,"Willdenowia","38: 149","","2008",
+kew-66879,A,Araceae,,Eminium,,"koenenianum",,"","Lobin & P.C.Boyce",Accepted,,H,WCSP,66879,960524-1,"Willdenowia","20: 43","","1991",
+kew-66880,A,Araceae,,Eminium,,"ledebourii",,"","Schott",Synonym,,H,WCSP,66880,86997-1,"Syn. Aroid.","17","","1856",kew-66881
+kew-66881,A,Araceae,,Eminium,,"lehmannii",,"","(Bunge) Kuntze",Accepted,,H,WCSP,66881,86998-1,"Revis. Gen. Pl.","2: 741","","1891",
+kew-66882,A,Araceae,,Eminium,,"rauwolffii",,"","(Blume) Schott",Accepted,,H,WCSP,66882,86999-1,"Syn. Aroid.","17","","1856",
+kew-66883,A,Araceae,,Eminium,,"rauwolffii",var.,"kotschyi","(Schott) Riedl",Accepted,,L,WCSP,66883,874458-1,"Aroideana","3: 23","","1980",
+kew-66884,A,Araceae,,Eminium,,"rauwolffii",var.,"rauwolffii","",Synonym,,L,WCSP,66884,,"Unknown","","","",kew-66882
+kew-66885,A,Araceae,,Eminium,,"regelii",,"","Vved.",Accepted,,H,WCSP,66885,87000-1,"Fl. Uzbekist.","1: 540","","1941",
+kew-66886,A,Araceae,,Eminium,,"spiculatum",,"","(Blume) Schott",Accepted,,H,WCSP,66886,87002-1,"Syn. Aroid.","17","","1856",
+kew-342314,A,Araceae,,Eminium,,"spiculatum",var.,"albovirens","Engl.",Synonym,,L,WCSP,342314,,"Pflanzenr.","IV, 23F: 130","","1920",kew-66886
+kew-66887,A,Araceae,,Eminium,,"spiculatum",subsp.,"negevense","Koach & Feinbrun",Synonym,,L,WCSP,66887,949147-1,"in Fl. Palaestina","4: 397","","1986",kew-66886
+kew-66889,A,Araceae,,Eminium,,"spiculatum",var.,"tigrinum","(Engl.) Engl.",Synonym,,L,WCSP,66889,,"Pflanzenr.","IV, 23F: 130","","1920",kew-66886

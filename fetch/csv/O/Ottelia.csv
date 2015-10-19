@@ -1,0 +1,79 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-308353,A,Hydrocharitaceae,,Ottelia,,"abyssinica",,"","(Ridl.) Gürke",Synonym,,H,WCSP,308353,431847-1,"Festschr. Aschers.","540","","1904",kew-308418
+kew-308354,A,Hydrocharitaceae,,Ottelia,,"acuminata",,"","(Gagnep.) Dandy",Accepted,,H,WCSP,308354,431848-1,"J. Bot.","72: 137","","1934",
+kew-311703,A,Hydrocharitaceae,,Ottelia,,"acuminata",var.,"acuminata","",Synonym,,L,WCSP,311703,,"Unknown","","","",kew-308354
+kew-308355,A,Hydrocharitaceae,,Ottelia,,"acuminata",var.,"crispa","(Hand.-Mazz.) H.Li",Accepted,,L,WCSP,308355,920178-1,"Acta Phytotax. Sin.","19: 36","","1981",
+kew-308358,A,Hydrocharitaceae,,Ottelia,,"acuminata",var.,"tonhaiensis","H.Li",Synonym,,L,WCSP,308358,916505-1,"Acta Phytotax. Sin.","19: 36","","1981",kew-308354
+kew-308359,A,Hydrocharitaceae,,Ottelia,,"alata",,"","(Gagnep.) H.Li",Synonym,,H,WCSP,308359,909298-1,"Acta Phytotax. Sin.","19: 31","","1981",kew-308360
+kew-308360,A,Hydrocharitaceae,,Ottelia,,"alismoides",,"","(L.) Pers.",Accepted,,H,WCSP,308360,1080475-2,"Syn. Pl.","1: 400","","1805",
+kew-293400,A,Hydrocharitaceae,,Ottelia,,"alismoides",var.,"cordifolia","Kuntze",Synonym,,L,WCSP,293400,,"Revis. Gen. Pl.","2: 645","","1891",kew-308360
+kew-308361,A,Hydrocharitaceae,,Ottelia,,"alismoides",var.,"lacustris","(Kom.) Kitag.",Synonym,,L,WCSP,308361,883404-1,"Neo-Lineam. Fl. Manshur.","63","","1979",kew-308360
+kew-311704,A,Hydrocharitaceae,,Ottelia,,"alismoides",f.,"lacustris","Kom.",Synonym,,L,WCSP,311704,,"Izv. Imp. Bot. Sada Petra Velikago","10: 122","","1910",kew-308360
+kew-293404,A,Hydrocharitaceae,,Ottelia,,"alismoides",var.,"lanceolata","Kuntze",Synonym,,L,WCSP,293404,,"Revis. Gen. Pl.","2: 644","","1891",kew-308360
+kew-308362,A,Hydrocharitaceae,,Ottelia,,"alismoides",var.,"oryzetorum","(Kom.) Kitag.",Synonym,,L,WCSP,308362,883405-1,"Neo-Lineam. Fl. Manshur.","63","","1979",kew-308360
+kew-310299,A,Hydrocharitaceae,,Ottelia,,"alismoides",f.,"oryzetorum","Kom.",Synonym,,L,WCSP,310299,,"Izv. Imp. S.-Peterburgsk. Bot. Sada","10: 122","","1910",kew-308360
+kew-308363,A,Hydrocharitaceae,,Ottelia,,"australis",,"","Bremek.",Synonym,,H,WCSP,308363,431850-1,"Ann. Transvaal Mus.","15: 235","","1933",kew-308418
+kew-308364,A,Hydrocharitaceae,,Ottelia,,"balansae",,"","(Gagnep.) Dandy",Accepted,,H,WCSP,308364,431851-1,"J. Bot.","72: 137","","1934",
+kew-308365,A,Hydrocharitaceae,,Ottelia,,"baumii",,"","Gürke",Synonym,,H,WCSP,308365,431852-1,"Kunene-Sambesi Exped.","171","","1903",kew-308418
+kew-308366,A,Hydrocharitaceae,,Ottelia,,"benguellensis",,"","Gürke",Synonym,,H,WCSP,308366,431853-1,"Kunene-Sambesi Exped.","172","","1903",kew-308418
+kew-308367,A,Hydrocharitaceae,,Ottelia,,"bodinieri",,"","(H.Lév. & Vaniot) Dandy",Synonym,,H,WCSP,308367,431854-1,"J. Bot.","72: 138","","1934",kew-308360
+kew-308368,A,Hydrocharitaceae,,Ottelia,,"bongoensis",,"","Gürke",Unresolved,,L,WCSP,308368,431855-1,"Festschr. Aschers.","543","","1904",
+kew-308369,A,Hydrocharitaceae,,Ottelia,,"brachyphylla",,"","(Gürke) Dandy",Accepted,,H,WCSP,308369,431856-1,"J. Bot.","72: 138","","1934",
+kew-308370,A,Hydrocharitaceae,,Ottelia,,"brasiliensis",,"","(Planch.) Walp.",Accepted,,H,WCSP,308370,431857-1,"Ann. Bot. Syst.","3: 510","","1852",
+kew-308371,A,Hydrocharitaceae,,Ottelia,,"brevifolia",,"","Gürke",Unresolved,,L,WCSP,308371,431858-1,"Festschr. Aschers.","543","","1904",
+kew-308372,A,Hydrocharitaceae,,Ottelia,,"buchneri",,"","Gürke",Synonym,,H,WCSP,308372,431859-1,"Festschr. Aschers.","545","","1904",kew-308418
+kew-308373,A,Hydrocharitaceae,,Ottelia,,"cavaleriei",,"","Dandy",Synonym,,H,WCSP,308373,431860-1,"J. Bot.","73: 215","","1935",kew-308354
+kew-308374,A,Hydrocharitaceae,,Ottelia,,"chevalieri",,"","De Wild.",Synonym,,H,WCSP,308374,431861-1,"Pl. Bequaert.","1: 453","","1922",kew-308128
+kew-308375,A,Hydrocharitaceae,,Ottelia,,"condorensis",,"","Gagnep.",Synonym,,H,WCSP,308375,431862-1,"Bull. Soc. Bot. France","54: 543","","1907",kew-308360
+kew-308376,A,Hydrocharitaceae,,Ottelia,,"cordata",,"","(Wall.) Dandy",Accepted,,H,WCSP,308376,431863-1,"J. Bot.","72: 137","","1934",
+kew-308377,A,Hydrocharitaceae,,Ottelia,,"crassifolia",,"","(Ridl.) Welw. ex Rendle",Synonym,,H,WCSP,308377,431864-1,"Cat. Afr. Pl.","2: 2","","1899",kew-308418
+kew-308378,A,Hydrocharitaceae,,Ottelia,,"crispa",,"","(Hand.-Mazz.) Dandy",Synonym,,H,WCSP,308378,431865-1,"J. Bot.","73: 216","","1935",kew-308355
+kew-308379,A,Hydrocharitaceae,,Ottelia,,"cygnorum",,"","(Planch.) Walp.",Synonym,,H,WCSP,308379,431866-1,"Ann. Bot. Syst.","3: 510","","1852",kew-308405
+kew-308380,A,Hydrocharitaceae,,Ottelia,,"cylindrica",,"","(T.C.E.Fr.) Dandy",Accepted,,H,WCSP,308380,431867-1,"J. Bot.","72: 137","","1934",
+kew-308381,A,Hydrocharitaceae,,Ottelia,,"demersa",,"","H.Li & C.X.You",Synonym,,H,WCSP,308381,906783-1,"Acta Phytotax. Sin.","23: 394","","1985",kew-308364
+kew-308382,A,Hydrocharitaceae,,Ottelia,,"dioecia",,"","S.Z.Yan",Synonym,,H,WCSP,308382,900443-1,"J. Sci. Med. Jinan Univ.","6: 162","","1982",kew-308360
+kew-308383,A,Hydrocharitaceae,,Ottelia,,"emersa",,"","Z.C.Zhao & R.L.Luo",Accepted,,H,WCSP,308383,933502-1,"J. Wuhan Bot. Res.","5: 339","","1987",
+kew-308384,A,Hydrocharitaceae,,Ottelia,,"ensiformis",,"","Blanco",Synonym,,H,WCSP,308384,431868-1,"Fl. Filip.","460","","1837",kew-308360
+kew-308385,A,Hydrocharitaceae,,Ottelia,,"esquirolii",,"","(H.Lév. & Vaniot) Dandy",Synonym,,H,WCSP,308385,431869-1,"J. Bot.","72: 137","","1934",kew-308354
+kew-308386,A,Hydrocharitaceae,,Ottelia,,"exserta",,"","(Ridl.) Dandy",Accepted,,H,WCSP,308386,431870-1,"J. Bot.","72: 137","","1934",
+kew-308387,A,Hydrocharitaceae,,Ottelia,,"fischeri",,"","(Gürke) Dandy",Accepted,,H,WCSP,308387,431871-1,"J. Bot.","72: 137","","1934",
+kew-308388,A,Hydrocharitaceae,,Ottelia,,"gigas",,"","T.C.E.Fr.",Synonym,,H,WCSP,308388,,"Wiss. Erg. Schwed. Rhod.-Kongo Exped.","1: 191","","1916",kew-308419
+kew-308389,A,Hydrocharitaceae,,Ottelia,,"halogena",,"","De Wild. & T.Durand",Synonym,,H,WCSP,308389,431873-1,"Bull. Soc. Roy. Bot. Belgique","Compt. Rend. 38: 56","","1899",kew-308418
+kew-308390,A,Hydrocharitaceae,,Ottelia,,"heterophylla",,"","(Merr. & F.P.Metcalf) T.L.Wu",Synonym,,H,WCSP,308390,431874-1,"in Fl. Hainan.","4: 532","","1977",kew-308376
+kew-308391,A,Hydrocharitaceae,,Ottelia,,"hoffmeisteri",,"","Klotzsch",Synonym,,H,WCSP,308391,431875-1,"Bot. Ergebn. Reise Waldemar","41","","1862",kew-308360
+kew-308392,A,Hydrocharitaceae,,Ottelia,,"indica",,"","(Willd.) Planch. ex Dalzell & A.Gibson",Synonym,Illegitimate,H,WCSP,308392,431876-1,"Bombay Fl.","278","","1861",kew-308360
+kew-308393,A,Hydrocharitaceae,,Ottelia,,"japonica",,"","Miq.",Synonym,,H,WCSP,308393,,"Ann. Mus. Bot. Lugduno-Batavi","2: 271","","1866",kew-308360
+kew-308394,A,Hydrocharitaceae,,Ottelia,,"javanica",,"","(Blume) Voigt",Synonym,,H,WCSP,308394,1004452-1,"Hort. Suburb. Calcutt.","618","","1845",kew-308360
+kew-308395,A,Hydrocharitaceae,,Ottelia,,"kunenensis",,"","(Gürke) Dandy",Accepted,,H,WCSP,308395,431879-1,"J. Bot.","72: 137","","1934",
+kew-308396,A,Hydrocharitaceae,,Ottelia,,"lactucifolia",,"","(Planch.) Walp.",Synonym,,H,WCSP,308396,431880-1,"Ann. Bot. Syst.","3: 510","","1852",kew-308360
+kew-308397,A,Hydrocharitaceae,,Ottelia,,"lanceolata",,"","(Gagnep.) Dandy",Synonym,,H,WCSP,308397,431882-1,"J. Bot.","72: 138","","1934",kew-308360
+kew-308398,A,Hydrocharitaceae,,Ottelia,,"lancifolia",,"","A.Rich.",Synonym,,H,WCSP,308398,431883-1,"Tent. Fl. Abyss.","2: 280","","1850",kew-308418
+kew-375969,A,Hydrocharitaceae,,Ottelia,,"lancifolia",var.,"fluitans","Ridl.",Synonym,,L,WCSP,375969,,"J. Linn. Soc., Bot.","22: 238","","1886",kew-308418
+kew-308399,A,Hydrocharitaceae,,Ottelia,,"latifolia",,"","De Wild.",Synonym,,H,WCSP,308399,431884-1,"Pl. Nov. Hort. Then.","t. 33","","1905",kew-308418
+kew-458869,A,Hydrocharitaceae,,Ottelia,,"lisowskii",,"","Symoens",Accepted,,H,WCSP,458869,77099825-1,"in Fl. Zambes.","12(2): 38","","2009",
+kew-458870,A,Hydrocharitaceae,,Ottelia,,"luapulana",,"","Symoens",Accepted,,H,WCSP,458870,77099822-1,"in Fl. Zambes.","12(2): 36","","2009",
+kew-308400,A,Hydrocharitaceae,,Ottelia,,"macrantha",,"","(C.H.Wright) Dandy",Synonym,,H,WCSP,308400,431885-1,"J. Bot.","72: 138","","1934",kew-308386
+kew-308401,A,Hydrocharitaceae,,Ottelia,,"massaiensis",,"","Gürke",Synonym,,H,WCSP,308401,431886-1,"Festschr. Aschers.","544","","1904",kew-308418
+kew-308402,A,Hydrocharitaceae,,Ottelia,,"mesenterium",,"","(Hallier f.) Hartog",Accepted,,H,WCSP,308402,431887-1,"in Fl. Males.","5: 401","","1957",
+kew-308403,A,Hydrocharitaceae,,Ottelia,,"muricata",,"","(C.H.Wright) Dandy",Accepted,,H,WCSP,308403,431888-1,"J. Bot.","72: 138","","1934",
+kew-308404,A,Hydrocharitaceae,,Ottelia,,"obtusifolia",,"","T.C.E.Fr.",Synonym,,H,WCSP,308404,,"Wiss. Erg. Schwed. Rhod.-Kongo Exped.","1: 190","","1916",kew-308418
+kew-308405,A,Hydrocharitaceae,,Ottelia,,"ovalifolia",,"","(R.Br.) Rich.",Accepted,,H,WCSP,308405,,"Mém. Cl. Sci. Math. Inst. Natl. France","12(2): 27","","1814",
+kew-311707,A,Hydrocharitaceae,,Ottelia,,"ovalifolia",subsp.,"ovalifolia","",Synonym,,L,WCSP,311707,,"Unknown","","","",kew-308405
+kew-308407,A,Hydrocharitaceae,,Ottelia,,"philippinensis",,"","Ostenf.",Synonym,,H,WCSP,308407,431891-1,"Philipp. J. Sci., C","9: 259","","1914",kew-308360
+kew-308408,A,Hydrocharitaceae,,Ottelia,,"plantaginea",,"","Welw. ex Ridl.",Synonym,,H,WCSP,308408,431892-1,"J. Linn. Soc., Bot.","22: 238","","1886",kew-308418
+kew-308409,A,Hydrocharitaceae,,Ottelia,,"polygonifolia",,"","(Gagnep.) Dandy",Synonym,,H,WCSP,308409,431893-1,"J. Bot.","73: 214","","1935",kew-308354
+kew-308410,A,Hydrocharitaceae,,Ottelia,,"rohrbachiana",,"","(Asch. & Gürke) Gürke",Synonym,,H,WCSP,308410,431894-1,"Festschr. Aschers.","541","","1904",kew-308418
+kew-308411,A,Hydrocharitaceae,,Ottelia,,"scabra",,"","Baker",Accepted,,H,WCSP,308411,431896-1,"Trans. Linn. Soc. London","29: 151","","1875",
+kew-308412,A,Hydrocharitaceae,,Ottelia,,"schinziana",,"","(Asch. & Gürke) Dandy",Synonym,,H,WCSP,308412,431897-1,"J. Bot.","72: 138","","1934",kew-308386
+kew-308413,A,Hydrocharitaceae,,Ottelia,,"schweinfurthii",,"","Gürke",Synonym,,H,WCSP,308413,431898-1,"Festschr. Aschers.","543","","1904",kew-308418
+kew-311657,A,Hydrocharitaceae,,Ottelia,,"sinensis",,"","(H.Lév. & Vaniot) H.Lév. ex Dandy",Synonym,,H,WCSP,311657,,"J. Bot.","72: 137","","1934",kew-308364
+kew-308414,A,Hydrocharitaceae,,Ottelia,,"somalensis",,"","Chiov.",Synonym,,H,WCSP,308414,431900-1,"Fl. Somala","2: 413","","1932",kew-308386
+kew-308415,A,Hydrocharitaceae,,Ottelia,,"stratiotes",,"","(T.C.E.Fr.) Dandy",Synonym,,H,WCSP,308415,431901-1,"J. Bot.","72: 138","","1934",kew-308380
+kew-308416,A,Hydrocharitaceae,,Ottelia,,"tenera",,"","Benth.",Synonym,,H,WCSP,308416,431902-1,"Fl. Austral.","6: 257","","1873",kew-308405
+kew-308417,A,Hydrocharitaceae,,Ottelia,,"thorelii",,"","(Gagnep.) Dandy",Synonym,,H,WCSP,308417,431903-1,"J. Bot.","72: 139","","1934",kew-308360
+kew-308418,A,Hydrocharitaceae,,Ottelia,,"ulvifolia",,"","(Planch.) Walp.",Accepted,,H,WCSP,308418,431904-1,"Ann. Bot. Syst.","3: 510","","1852",
+kew-308419,A,Hydrocharitaceae,,Ottelia,,"verdickii",,"","Gürke ex De Wild.",Accepted,,H,WCSP,308419,,"Ann. Mus. Congo Belge, Bot.","IV, 1: 171","","1902",
+kew-453840,A,Hydrocharitaceae,,Ottelia,,"verdickii",var.,"elanga","De Wild.",Synonym,,L,WCSP,453840,,"Pl. Bequaert.","1: 455","","1922",kew-308419
+kew-308420,A,Hydrocharitaceae,,Ottelia,,"vernayi",,"","Bremek. & Oberm.",Synonym,,H,WCSP,308420,431906-1,"Ann. Transvaal Mus.","16: 401","","1935",kew-308418
+kew-308421,A,Hydrocharitaceae,,Ottelia,,"vesiculata",,"","Ridl.",Synonym,,H,WCSP,308421,431907-1,"J. Linn. Soc., Bot.","22: 237","","1886",kew-308418
+kew-308422,A,Hydrocharitaceae,,Ottelia,,"yunnanensis",,"","(Gagnep.) Dandy",Synonym,,H,WCSP,308422,431908-1,"J. Bot.","72: 138","","1934",kew-308354

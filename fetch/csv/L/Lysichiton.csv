@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-116107,A,Araceae,,Lysichiton,,"album",,"","Makino",Synonym,,H,WCSP,116107,,"J. Jap. Bot.","7: 15","","1931",kew-116109
+kew-116108,A,Araceae,,Lysichiton,,"americanus",,"","Hultén & H.St.John",Accepted,,H,WCSP,116108,,"Svensk Bot. Tidskr.","25: 455","","1931 publ. 1932",
+tro-2105372,A,Araceae,,Lysichiton,,"camtschatcense",,"","(L.) Schott",Synonym,,M,TRO,2105372,,"Oesterr. Bot. Wochenbl.","7: 62","62","1857",kew-116109
+kew-116109,A,Araceae,,Lysichiton,,"camtschatcensis",,"","(L.) Schott",Accepted,,H,WCSP,116109,60450477-2,"Oesterr. Bot. Wochenbl.","7: 62","","1857",
+kew-116110,A,Araceae,,Lysichiton,,"camtschaticus",,"","Schott",Synonym,Spelling variant,H,WCSP,116110,,"Gen. Aroid.","t. 91","","1858",kew-116109
+kew-466421,A,Araceae,,Lysichiton,×,"hortensis",,"","J.D.Arm. & B.W.Phillips",Unresolved,,L,WCSP,466421,77113958-1,"Plantsman","n.s., 10: 157","","2011",
+kew-116111,A,Araceae,,Lysichiton,,"japonicus",,"","(A.Gray) Schott ex Miq.",Synonym,,H,WCSP,116111,,"Cat. Mus. Bot. Lugd.-Bat.","96","","1870",kew-116109

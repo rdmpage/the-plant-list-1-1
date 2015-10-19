@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117626,A,Compositae,,Ammoseris,,"aspleniifolia",,"","(Willd.) D.Dietr.",Synonym,,M,TICA,699ABBF1-6382-4531-AC15-C11BBEAEC2D2,,"","","1319","1847",gcc-110388
+gcc-144907,A,Compositae,,Ammoseris,,"bellidifolia",,"","(Cass.) D.Dietr.",Synonym,,M,TICA,8141CFA7-1765-47AD-B869-FF384F2955E0,,"Syn. Pl. 4","","1320","1847",gcc-103503
+gcc-80834,A,Compositae,,Ammoseris,,"dregeana",,"","(DC.) D.Dietr.",Synonym,,M,TICA,64312D06-8545-476C-9A6D-6E7644686EAD,,"","","1320","1847",gcc-103503
+gcc-41813,A,Compositae,,Ammoseris,,"nudicaulis",,"","(L.) D.Dietr.",Synonym,,M,TICA,22063530-F64B-487C-87D9-4D7116E85C75,,"","","1319","1847",gcc-125560
+gcc-46243,A,Compositae,,Ammoseris,,"patens",,"","(DC.) D.Dietr.",Synonym,,L,TICA,6BC32D69-440B-45A7-B7BF-55B3C97496C8,,"","","1319","1847",gcc-126043
+gcc-155332,A,Compositae,,Ammoseris,,"sarmentosa",,"","(Willd.) D.Dietr.",Synonym,,M,TICA,12BD5056-DAAF-4766-9EB7-D5F7E02AD142,,"""D. Dietr., Syn. Pl. 4. 1847""","","1319","1847",gcc-103503
+gcc-146498,A,Compositae,,Ammoseris,,"sarmentosa",var.,"javanica","Backer",Synonym,,L,TICA,ABFDCB1F-F680-40DA-8082-19BD26578133,,"Trop. Nat. 7 (1918)","","""59, t. 11""","1918",gcc-103503
+gcc-147284,A,Compositae,,Ammoseris,,"sarmentosa",var.,"sarmentosa","",Synonym,,L,TICA,98FFDB11-938F-4A3C-AAD8-2A44623F1EA7,,"","","","",gcc-103503
+gcc-124011,A,Compositae,,Ammoseris,,"sarmentosus",,"","(Willd.) D.Dietr.",Synonym,,M,TICA,7917C0CC-7173-4B6C-8428-CFB8C5D584F2,,"Syn. Pl. 4","","1319","1847",gcc-103503
+gcc-123889,A,Compositae,,Ammoseris,,"surinamensis",,"","D.Dietr.",Unresolved,,L,TICA,33F7B537-52A7-4838-BFCD-CF6E48A59547,,"","","","1847",

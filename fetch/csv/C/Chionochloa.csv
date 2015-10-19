@@ -1,0 +1,42 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-404614,A,Poaceae,,Chionochloa,,"acicularis",,"","Zotov",Accepted,,H,WCSP,404614,395754-1,"New Zealand J. Bot.","1: 101","","1963",
+kew-404615,A,Poaceae,,Chionochloa,,"antarctica",,"","(Hook.f.) Zotov",Accepted,,H,WCSP,404615,395755-1,"New Zealand J. Bot.","1: 99","","1963",
+kew-404616,A,Poaceae,,Chionochloa,,"archboldii",,"","(Hitchc.) Conert",Synonym,,L,WCSP,404616,395756-1,"Senckenberg. Biol.","56: 156","","1975",kew-405776
+kew-404617,A,Poaceae,,Chionochloa,,"australis",,"","(Buchanan) Zotov",Accepted,,H,WCSP,404617,395757-1,"New Zealand J. Bot.","1: 103","","1963",
+kew-404618,A,Poaceae,,Chionochloa,,"beddiei",,"","Zotov",Accepted,,H,WCSP,404618,395758-1,"New Zealand J. Bot.","1: 90","","1963",
+kew-404619,A,Poaceae,,Chionochloa,,"bromoides",,"","(Hook.f.) Zotov",Accepted,,H,WCSP,404619,395759-1,"New Zealand J. Bot.","1: 90","","1963",
+kew-404620,A,Poaceae,,Chionochloa,,"cheesemanii",,"","(Hack. ex Cheeseman) Zotov",Accepted,,H,WCSP,404620,395760-1,"New Zealand J. Bot.","1: 95","","1963",
+kew-404621,A,Poaceae,,Chionochloa,,"conspicua",,"","(G.Forst.) Zotov",Accepted,,H,WCSP,404621,395761-1,"New Zealand J. Bot.","1: 92","","1963",
+tro-25522481,A,Poaceae,,Chionochloa,,"conspicua",subsp.,"conspicua","",Synonym,,L,TRO,25522481,,"","","","",kew-404621
+kew-404622,A,Poaceae,,Chionochloa,,"conspicua",subsp.,"cunninghamii","(Hook.f.) Zotov",Accepted,,L,WCSP,404622,,"New Zealand J. Bot.","1: 94","","1963",
+kew-404623,A,Poaceae,,Chionochloa,,"crassiuscula",,"","(Kirk) Zotov",Accepted,,H,WCSP,404623,395762-1,"New Zealand J. Bot.","1: 103","","1963",
+tro-25556616,A,Poaceae,,Chionochloa,,"crassiuscula",subsp.,"crassiuscula","",Synonym,,L,TRO,25556616,,"","","","",kew-404623
+kew-404626,A,Poaceae,,Chionochloa,,"defracta",,"","Connor",Accepted,,H,WCSP,404626,933511-1,"New Zealand J. Bot.","25: 164","","1987",
+kew-404627,A,Poaceae,,Chionochloa,,"elata",,"","(Petrie) Connor",Synonym,,H,WCSP,404627,,"New Zealand J. Bot.","19: 166","","1981",kew-404641
+tro-25557420,A,Poaceae,,Chionochloa,×,"elata",,"","(Petrie) Connor",Synonym,,M,TRO,25557420,,"New Zealand J. Bot.","29: 272","272","1991",kew-404641
+kew-404628,A,Poaceae,,Chionochloa,,"flavescens",,"","Zotov",Accepted,,H,WCSP,404628,395763-1,"New Zealand J. Bot.","1: 97","","1963",
+tro-25556709,A,Poaceae,,Chionochloa,,"flavescens",subsp.,"flavescens","",Synonym,,L,TRO,25556709,,"","","","",kew-404628
+kew-404632,A,Poaceae,,Chionochloa,,"flavicans",,"","Zotov",Accepted,,H,WCSP,404632,395764-1,"New Zealand J. Bot.","1: 91","","1963",
+tro-25556717,A,Poaceae,,Chionochloa,,"flavicans",f.,"flavicans","",Synonym,,L,TRO,25556717,,"","","","",kew-404632
+kew-404633,A,Poaceae,,Chionochloa,,"flavicans",f.,"temata","Connor",Synonym,,L,WCSP,404633,965437-1,"New Zealand J. Bot.","29: 245","","1991",kew-404632
+kew-404634,A,Poaceae,,Chionochloa,,"frigida",,"","(Vickery) Conert",Accepted,,H,WCSP,404634,395765-1,"Senckenberg. Biol.","56: 154","","1975",
+kew-404635,A,Poaceae,,Chionochloa,,"howensis",,"","S.W.L.Jacobs",Accepted,,H,WCSP,404635,935331-1,"Telopea","3: 281","","1988",
+kew-404636,A,Poaceae,,Chionochloa,,"juncea",,"","Zotov",Accepted,,H,WCSP,404636,395766-1,"New Zealand J. Bot.","1: 101","","1963",
+kew-404637,A,Poaceae,,Chionochloa,,"lanea",,"","Connor",Accepted,,H,WCSP,404637,933512-1,"New Zealand J. Bot.","25: 165","","1987",
+kew-404638,A,Poaceae,,Chionochloa,,"macra",,"","Zotov",Accepted,,H,WCSP,404638,395767-1,"New Zealand J. Bot.","8: 91","","1970",
+kew-404639,A,Poaceae,,Chionochloa,,"nivifera",,"","Connor & K.M.Lloyd",Accepted,,H,WCSP,404639,77062368-1,"New Zealand J. Bot.","42: 531","","2004",
+kew-404640,A,Poaceae,,Chionochloa,,"oreophila",,"","(Petrie) Zotov",Accepted,,H,WCSP,404640,395768-1,"New Zealand J. Bot.","1: 104","","1963",
+kew-404641,A,Poaceae,,Chionochloa,,"oreophila",var.,"elata","(Petrie) Zotov",Accepted,,L,WCSP,404641,,"New Zealand J. Bot.","1: 104","","1963",
+kew-404642,A,Poaceae,,Chionochloa,,"ovata",,"","(Buchanan) Zotov",Accepted,,H,WCSP,404642,395769-1,"New Zealand J. Bot.","1: 104","","1963",
+kew-404643,A,Poaceae,,Chionochloa,,"pallens",,"","Zotov",Accepted,,H,WCSP,404643,395770-1,"New Zealand J. Bot.","1: 99","","1963",
+tro-25556719,A,Poaceae,,Chionochloa,,"pallens",subsp.,"pallens","",Synonym,,L,TRO,25556719,,"","","","",kew-404643
+kew-404646,A,Poaceae,,Chionochloa,,"pallida",,"","(R.Br.) S.W.L.Jacobs",Synonym,,H,WCSP,404646,910405-1,"Taxon","31: 742","","1982",kew-468046
+kew-404647,A,Poaceae,,Chionochloa,,"pungens",,"","(Cheeseman) Zotov",Synonym,,H,WCSP,404647,395771-1,"New Zealand J. Bot.","1: 103","","1963",kew-404623
+kew-404648,A,Poaceae,,Chionochloa,,"rigida",,"","(Raoul) Zotov",Accepted,,H,WCSP,404648,395772-1,"New Zealand J. Bot.","1: 96","","1963",
+tro-25556723,A,Poaceae,,Chionochloa,,"rigida",subsp.,"rigida","",Synonym,,L,TRO,25556723,,"","","","",kew-404648
+kew-404650,A,Poaceae,,Chionochloa,,"rubra",,"","Zotov",Accepted,,H,WCSP,404650,395773-1,"New Zealand J. Bot.","1: 96","","1963",
+tro-25556725,A,Poaceae,,Chionochloa,,"rubra",var.,"rubra","",Synonym,,L,TRO,25556725,,"","","","",kew-404650
+tro-25557414,A,Poaceae,,Chionochloa,,"rubra",subsp.,"rubra","",Synonym,,L,TRO,25557414,,"","","","",kew-404650
+kew-404654,A,Poaceae,,Chionochloa,,"spiralis",,"","Zotov",Accepted,,H,WCSP,404654,395774-1,"New Zealand J. Bot.","1: 100","","1963",
+kew-404655,A,Poaceae,,Chionochloa,,"teretifolia",,"","(Petrie) Zotov",Accepted,,H,WCSP,404655,395775-1,"New Zealand J. Bot.","1: 100","","1963",
+kew-404656,A,Poaceae,,Chionochloa,,"vireta",,"","Connor",Accepted,,H,WCSP,404656,959669-1,"New Zealand J. Bot.","29: 261","","1991",

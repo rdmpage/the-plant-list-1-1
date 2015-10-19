@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-177114,A,Arecaceae,,Reinhardtia,,"elegans",,"","Liebm.",Accepted,,H,WCSP,177114,669560-1,"Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider","1845: 9","","1846",
+kew-177115,A,Arecaceae,,Reinhardtia,,"gracilior",,"","Burret",Synonym,,H,WCSP,177115,218453-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 555","","1943",kew-177117
+kew-177116,A,Arecaceae,,Reinhardtia,,"gracilis",,"","(H.Wendl.) Burret",Accepted,,H,WCSP,177116,669562-1,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 554","","1932",
+tro-50148690,A,Arecaceae,,Reinhardtia,,"gracilis",,"","(H. Wendl.) Drude ex Dammer",Synonym,,M,TRO,50148690,,"Palmenzucht","90","90","1897",kew-177116
+kew-177117,A,Arecaceae,,Reinhardtia,,"gracilis",var.,"gracilior","(Burret) H.E.Moore",Accepted,,L,WCSP,177117,218455-2,"Principes","1: 140","","1957",
+kew-177118,A,Arecaceae,,Reinhardtia,,"gracilis",var.,"gracilis","",Synonym,,L,WCSP,177118,,"Unknown","","","",kew-177116
+kew-177119,A,Arecaceae,,Reinhardtia,,"gracilis",var.,"rostrata","(Burret) H.E.Moore",Accepted,,L,WCSP,177119,218456-2,"Principes","1: 140","","1957",
+kew-177121,A,Arecaceae,,Reinhardtia,,"koschnyana",,"","(H.Wendl. & Dammer) Burret",Accepted,,H,WCSP,177121,669563-1,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 554","","1932",
+kew-177122,A,Arecaceae,,Reinhardtia,,"latisecta",,"","(H.Wendl.) Burret",Accepted,,H,WCSP,177122,669564-1,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 554","","1932",
+kew-177123,A,Arecaceae,,Reinhardtia,,"paiewonskiana",,"","Read, Zanoni & M.M.Mejía",Accepted,,H,WCSP,177123,284177-2,"Brittonia","39: 20","","1987",
+kew-177124,A,Arecaceae,,Reinhardtia,,"rostrata",,"","Burret",Synonym,,H,WCSP,177124,218460-2,"Ann. Naturhist. Mus. Wien","46: 228","","1933",kew-177119
+kew-177125,A,Arecaceae,,Reinhardtia,,"simplex",,"","(H.Wendl.) Burret",Accepted,,H,WCSP,177125,669566-1,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 554","","1932",
+tro-50148689,A,Arecaceae,,Reinhardtia,,"simplex",,"","(H. Wendl.) Drude ex Dammer",Synonym,,M,TRO,50148689,,"Palmenzucht","91","91","1897",kew-177125
+kew-177126,A,Arecaceae,,Reinhardtia,,"spinigera",,"","L.H.Bailey",Synonym,,H,WCSP,177126,218462-2,"Gentes Herb.","8: 191","","1949",kew-177114

@@ -1,0 +1,364 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-103985,A,Compositae,,Hypochaeris,,"acaulis",,"","Britton",Unresolved,Illegitimate,L,TICA,1C6B8AC5-2891-428C-AFD3-A2817694D808,126411-2,"","","371","1892",
+gcc-143740,A,Compositae,,Hypochaeris,,"achyrophorus",,"","L.",Accepted,,M,TICA,4119DE02-232E-4BC0-9308-FC9176C88FD5,225446-1,"","","810","1753",
+gcc-106065,A,Compositae,,Hypochaeris,,"aethnensis",,"","L.",Synonym,,M,TICA,CA99A74F-11AF-411A-A001-A6F4E0B4DC76,,"","","","",gcc-143740
+gcc-137012,A,Compositae,,Hypochaeris,,"aethnensis",,"","Ball",Synonym,,M,TICA,A9020CD6-0031-4013-AAAF-ED7CD29001DF,225448-1,"","","542","1878",gcc-143740
+gcc-124908,A,Compositae,,Hypochaeris,,"aetnensis",,"","Benth. & Hook.f.",Unresolved,,L,TICA,BBC6C9EF-C8B3-417B-B616-D1CAC589F988,225449-1,"Gen. ii. 520; Ces. Passer. & Gib. Comp. Fl. Ital. 465.","","ii. 520","",
+gcc-17283,A,Compositae,,Hypochaeris,,"alba",,"","Cabrera",Accepted,,M,TICA,0EE5DCD8-FE64-4896-A96A-1FF4C6AF49BA,126412-2,"","","196","1937",
+gcc-10015,A,Compositae,,Hypochaeris,,"albicans",,"","Ucria",Synonym,,M,TICA,18CDBA84-C00C-44FE-99E7-12BC4D050A83,225452-1,"","","255","1793",gcc-86797
+gcc-110538,A,Compositae,,Hypochaeris,,"albiflora",,"","(Kuntze) Azevêdo-Gonç. & Matzenb.",Accepted,,M,TICA,635D1790-8624-4106-A480-B11C46A176BE,77068545-1,"","","3","2005",
+gcc-88268,A,Compositae,,Hypochaeris,,"alliatae",,"","(Biv.) A.Galán & al.",Synonym,,M,TICA,4508636F-B271-429B-89B2-7F0AF38EB4BB,,"","","588","1999",gcc-86797
+gcc-17882,A,Compositae,,Hypochaeris,,"alpestris",,"","facch. ex Ambrosi",Synonym,,M,TICA,F02C3DCB-8A22-4A92-B2CE-2107BA7FC25F,,"Fl. Tir. Austr. ii. 559.","","","1857",gcc-87881
+gcc-96149,A,Compositae,,Hypochaeris,,"alpicola",,"","Schur",Synonym,Invalid,M,TICA,289BF7B0-BA84-4459-9A46-90E512C1A90D,225454-1,"""Enum. Pl. Transsilv. 927, Index. 1866 [Apr-Jun 1866]""","","","1866",gcc-117067
+gcc-103280,A,Compositae,,Hypochaeris,,"alpina",,"","Nyman",Unresolved,,L,TICA,B4E6D5FD-2CC6-4E2C-8124-A0ECE4744AD1,,"""Consp. 470, in syn.""","","""470, in syn.""","",
+gcc-35295,A,Compositae,,Hypochaeris,,"amplexicaulis",,"","(S.G.Gmel.) Bobrov",Unresolved,,L,TICA,0861ED95-8359-41A5-896F-417082807567,,"","","","",
+gcc-3512,A,Compositae,,Hypochaeris,,"andina",,"","(DC.) Reiche",Unresolved,,L,TICA,BDB243D5-42A3-48BF-A8AF-0676C2165B07,,"","","","",
+gcc-87124,A,Compositae,,Hypochaeris,,"andina",,"","(DC.) Benth. & Hook. ex Griseb.",Synonym,,L,TICA,320E2FCB-5CF2-429D-8154-7C8B64E404C6,225456-1,"in Goett. Abh. xix. (1874) 198.","","198","1874",gcc-118876
+gcc-30095,A,Compositae,,Hypochaeris,,"angustifolia",,"","(Litard. & Maire) Maire",Accepted,,M,TICA,07F93DAA-B918-4E28-9DF3-37B3BF33B34B,,"","","44","1926",
+gcc-99,A,Compositae,,Hypochaeris,,"anwandteri",,"","Phil.",Unresolved,,L,TICA,F1E68811-D4C4-487F-A273-0032EE27B8FC,,"","","","",
+gcc-13802,A,Compositae,,Hypochaeris,,"apargioides",,"","Hook. & Arn.",Accepted,,M,TICA,DEA5BDAB-9C13-4A3F-A021-19A8CBC9AB7B,225458-1,"Bot. Beechey Voy. 28.","","28","",
+gcc-5536,A,Compositae,,Hypochaeris,,"arachnites",,"","Link",Synonym,Illegitimate,M,TICA,CDB3D66F-2F52-4B41-BC88-0A5125A591AE,,"Handb. i. 792.","","","1829",gcc-105693
+gcc-20343,A,Compositae,,Hypochaeris,,"arachnoidea",,"","DC.",Unresolved,,L,TICA,9C205770-273D-4ED8-A0EE-259B0C4BFD3B,225460-1,"Prodr. (DC.) 7(1): 90","","90","1838",
+gcc-143975,A,Compositae,,Hypochaeris,,"arachnoides",,"","Poir.",Accepted,,M,TICA,A30B15EE-8D80-481D-8C63-FD0F41201905,225461-1,"","","572","1804",
+gcc-146222,A,Compositae,,Hypochaeris,,"arachnoides",subsp.,"arachnoides","",Synonym,,L,TICA,857FDB46-0D79-4F98-A759-14236E32A690,,"","","","",gcc-143975
+gcc-150583,A,Compositae,,Hypochaeris,,"arachnoides",subsp.,"heterocarpa","Fennane",Synonym,,L,TICA,515DD4FE-981D-4832-97B9-71D1CA755B39,,"""Fennane in Trav. Inst. Sci. Univ. Mohammed V, Sér. Bot. 39. 2009""","","","2009",gcc-2310
+gcc-118876,A,Compositae,,Hypochaeris,,"arenaria",,"","Gaudich.",Accepted,,L,TICA,20E2879A-FEE2-4C7D-B54D-C40310D776BC,225462-1,"","","103","1825",
+gcc-147055,A,Compositae,,Hypochaeris,,"arenaria",,"","Bertero",Synonym,,L,TICA,67152172-0D18-4768-BCA2-25851E3D93A2,,"","","","",gcc-118876
+gcc-40892,A,Compositae,,Hypochaeris,,"arenaria",var.,"arenaria","",Synonym,,L,TICA,344E6838-6DD8-407F-9AE4-4BC4E748D43C,,"","","","",gcc-118876
+gcc-45621,A,Compositae,,Hypochaeris,,"arenaria",var.,"coronopifolia","(Sch.Bip.) Speg.",Synonym,,L,TICA,0F78DA5C-DC27-47ED-85F7-548D321BBCFA,126415-2,"Revista Argent. Bot. 1: 223","","223","1926",gcc-125378
+gcc-15669,A,Compositae,,Hypochaeris,,"arenaria",var.,"integrifolia","(Sch.Bip. ex Sch.Bip.) Speg.",Synonym,,L,TICA,CF62235E-7F2D-44D6-AD43-1D062E217969,126416-2,"Revista Argent. Bot. 1: 223","","223","1926",gcc-125378
+gcc-12807,A,Compositae,,Hypochaeris,,"ascendens",,"","Walp.",Unresolved,,L,TICA,AB1B0AAA-B7CE-4EB3-8EAE-17E06D65661E,225464-1,"Repert. Bot. Syst. (Walpers) vi. 340","","340","",
+gcc-156871,A,Compositae,,Hypochaeris,,"ascendens",,"","Brot.",Synonym,,M,TICA,D43E213F-4574-437C-9646-F5FEFD37A3EF,,"","","","",gcc-105693
+gcc-85062,A,Compositae,,Hypochaeris,,"atlantica",,"","Sennen & Mauricio",Accepted,,M,TICA,B4FC5B89-2B59-4F69-A0A3-77D579F5F75C,225465-1,"""Sennen, Diagn. Nouv. Pl. Espagne & Maroc 1928-35 294 (1936).""","","294","1936",
+gcc-101132,A,Compositae,,Hypochaeris,,"aurantiaca",,"","Turcz. ex DC.",Synonym,Invalid,L,TICA,C7CC452B-38DF-4037-B5E4-9C25F19949DC,225466-1,"Prodr. (DC.) 7(1): 94","","94","1838",gcc-137722
+gcc-104514,A,Compositae,,Hypochaeris,,"balbisii",,"","Rchb.",Synonym,,M,TICA,778EF377-BEE7-4CAE-9829-A3A96DED3938,225467-1,"Fl. Germ. Excurs. 268","","268","",gcc-105693
+gcc-106956,A,Compositae,,Hypochaeris,,"balbisii",,"","Mauri",Unresolved,,L,TICA,7ED925DD-356F-4FAC-9459-A8FE66EF426D,225468-1,"Cent. Pl. Rom. xiii. 38; Loisel. Not. 124.","","xiii. 38","",
+gcc-152589,A,Compositae,,Hypochaeris,,"balbisii",,"","Willd.",Synonym,,M,TICA,C0E00883-B8BE-48A6-9507-9CB4474C8E38,,"""C.L. von Willdenow, Enum. Pl., Suppl.. 1814""","","56","1814",gcc-105693
+gcc-40158,A,Compositae,,Hypochaeris,,"balbisii",,"","Loisel.",Synonym,,M,TICA,9BAC9F54-6CFC-4899-A111-4A78F863E8DA,,"Loisel.. 1810.","","124","1810",gcc-105693
+gcc-132520,A,Compositae,,Hypochaeris,,"barbata",,"","(Sch.Bip.) Reiche",Synonym,,L,TICA,5C0D9D36-02DC-42BA-BA80-E371A2A54F74,,"","","589","",gcc-107840
+gcc-43907,A,Compositae,,Hypochaeris,,"bartholdii",,"","Willd. ex Sch.Bip.",Synonym,Invalid,M,TICA,A15743C2-0898-4145-9D7C-51593185F6F6,,"in Nov. Act. Nat. Cur. xxi. I. (1845) 142.","","","1845",gcc-105693
+gcc-137082,A,Compositae,,Hypochaeris,,"berteroi",,"","Colla",Synonym,,M,TICA,6F1C94B0-AC6B-4A86-8164-EDA2AF6C1D13,,"in Mem. Acc. Tor. xxxviii. (1835) 40. t. 33.","","","1835",gcc-13802
+gcc-139076,A,Compositae,,Hypochaeris,,"boscoi",,"","Sennen",Unresolved,,L,TICA,933510CE-F16F-45D4-8A3B-F1EE54EC2CBA,,"""Treb. Mus. Ci. Nat. Barcelona xv. Ser. Bot. No. 1, 24 (1931), in obs.,nomen.""","","24","",
+gcc-82713,A,Compositae,,Hypochaeris,,"brasiliensis",,"","(Less.) Griseb.",Synonym,Illegitimate,M,TICA,338A5144-EF72-4158-8C50-72AB9E40B6E0,1164719-2,"","","217","1879",gcc-43125
+gcc-39631,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"albiflora","Kuntze",Synonym,,L,TICA,62FEF13C-8165-4B1C-ACEC-498C34AA8E00,126421-2,"Revis. Gen. Pl. 3[3]: 159","","159","1898",gcc-110538
+gcc-70095,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"brasiliensis","",Synonym,,L,TICA,DEC794A2-7CCD-4684-A8F4-EB759778B07B,,"","","","",gcc-43125
+gcc-63782,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"chacoensis","Hassl.",Synonym,,L,TICA,C0D39F68-086A-400B-B3EE-B97095F5F085,126422-2,"Repert. Spec. Nov. Regni Veg. 12: 371","","371","1913",gcc-95147
+gcc-70837,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"microcephala","(Sch.Bip.) Baker",Synonym,,L,TICA,B9425942-68BA-45DF-B9B9-F14987C0C150,126423-2,"","","334","1884",gcc-26914
+gcc-23803,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"sulfurea","Kuntze",Synonym,,L,TICA,D8EA4BE5-85D3-4239-9919-2C00C0173FA9,126424-2,"","","159","1898",gcc-95147
+gcc-72537,A,Compositae,,Hypochaeris,,"brasiliensis",var.,"tweediei","(Hook. & Arn.) Baker",Synonym,,L,TICA,7B2B82BC-8C52-4FEB-AD19-FECA645E4D41,126425-2,"","","334","1884",gcc-95147
+gcc-111657,A,Compositae,,Hypochaeris,,"brevicaulis",,"","Phil.",Unresolved,,L,TICA,8046C4DD-B19D-46A4-9FDE-B39A5758528D,,"","","","",
+gcc-26347,A,Compositae,,Hypochaeris,,"caespitosa",,"","Cabrera",Accepted,,M,TICA,CDC51C34-CDB5-4624-A7DE-30B278D15716,126426-2,"","","376","1951",
+gcc-88486,A,Compositae,,Hypochaeris,,"candollei",,"","Regel",Synonym,,M,TICA,6F04D39E-447D-4768-A3AF-7F85833B0F00,225476-1,"Linnaea 16: 64. 1842","","64","1842",gcc-105693
+gcc-16365,A,Compositae,,Hypochaeris,,"canescens",,"","Steven",Synonym,,M,TICA,DFCB5534-AED0-4EC8-987A-1E3F96026151,,"","","","1813",gcc-21172
+gcc-26718,A,Compositae,,Hypochaeris,,"capensis",,"","Less.",Synonym,Illegitimate,M,TICA,C0D4AF5B-CE69-46F2-93FF-315D1337FB42,225478-1,"Syn. Gen. Compos. 139.","","","1832",gcc-105693
+gcc-113216,A,Compositae,,Hypochaeris,,"carpathica",,"","Pax",Synonym,,M,TICA,EF0B057C-EFE8-48F3-8FFC-B72249D63E93,225419-1,"","","26","1895",gcc-117067
+gcc-113550,A,Compositae,,Hypochaeris,,"catharinensis",,"","Cabrera",Accepted,,M,TICA,3E840057-5721-40CD-AF89-B7DC632BA681,126427-2,"","","169","1963",
+gcc-43125,A,Compositae,,Hypochaeris,,"chillensis",,"","(Kunth) Hieron.",Accepted,,M,TICA,242434C7-1B7A-4099-886E-4FE18F4BBBC4,126429-2,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 28:""","","658","1901",
+gcc-95147,A,Compositae,,Hypochaeris,,"chillensis",,"","(Kunth) Britton",Unresolved,Illegitimate,L,TICA,E730595F-6363-4EF4-AB86-8E9FB6DB874F,126428-2,"Bull. Torrey Bot. Club xix. (1892) 371.","","371","1892",
+gcc-89016,A,Compositae,,Hypochaeris,,"chondrilloides",,"","(A.Gray) Cabrera",Accepted,,M,TICA,AAEBC501-651A-4194-A897-80B3A7D55D5E,126430-2,"","","259","1944",
+gcc-100950,A,Compositae,,Hypochaeris,,"chrysantha",,"","(DC.) ex B.D.Jacks.",Unresolved,,L,TICA,74FD791B-CD52-49B7-BB4C-9BC2998F9B08,126431-2,"Index Kew. 1: 27","","27","1893",
+gcc-79235,A,Compositae,,Hypochaeris,,"chrysantha",,"","Poepp. ex DC.",Synonym,Illegitimate,M,TICA,D2C33C23-F6EA-41EA-B9BD-6AFB334717BB,225482-1,"Prodr. (DC.) 7(1): 94","","94","1838",gcc-93505
+gcc-137871,A,Compositae,,Hypochaeris,,"chubutensis",,"","Bortiri",Accepted,,M,TICA,D203284E-8F21-41E8-A84C-EF646DFFFF5E,997210-1,"","","223","1997",
+gcc-137722,A,Compositae,,Hypochaeris,,"ciliata",,"","(Thunb.) Makino",Accepted,,L,TICA,4DDFD433-0BBA-4FCE-A61E-EF136CC3CAD0,225483-1,"Bot. Mag. (Tokyo) xxii. 37 (1908).","","37","1908",
+gcc-115563,A,Compositae,,Hypochaeris,,"clarionoides",,"","(J.Rémy) Reiche",Accepted,,M,TICA,6E6D6F37-CA3F-475E-84B3-BC75537B4049,126432-2,"","","590","1905",
+gcc-66055,A,Compositae,,Hypochaeris,,"clarionoides",var.,"clarionoides","",Synonym,,L,TICA,9540FFBF-93F8-4ABD-8C45-CBB2B9FFC339,,"","","","",gcc-115563
+gcc-50767,A,Compositae,,Hypochaeris,,"clarionoides",var.,"microphylla","(J.Rémy) Cabrera",Synonym,,L,TICA,64BCA260-64E5-4DC0-ABB3-5E2878ACC2FB,126433-2,"","","173","1963",gcc-115563
+gcc-114051,A,Compositae,,Hypochaeris,,"claryi",,"","Batt.",Accepted,,M,TICA,FC7854E3-9A36-437F-B77B-B8F3F566A168,,"","","222","1889",
+gcc-104320,A,Compositae,,Hypochaeris,×,"confusa",,"","Azevêdo-Gonç. & Matzenb.",Unresolved,,L,TICA,DEE94F98-C56B-4D35-8B59-A34131C843DB,77077123-1,"Hoehnea 32(3): 364 (-366; figs. 9-16)","","364 (-366; figs. 9-16)","2005",
+gcc-149514,A,Compositae,,Hypochaeris,,"confusa",,"","Azevêdo-Gonç. & Matzenb.",Accepted,,M,TICA,FBF8EAFD-84F0-4D15-90B8-5A777A534231,,"Azevêdo-Gonç. & Matzenb. in Hoehnea 32. 2005","","364","2005",
+gcc-91250,A,Compositae,,Hypochaeris,,"contexta",,"","Wallr.",Synonym,,M,TICA,D154B919-60EE-4A62-9F00-85F20EA2A7D6,225485-1,"Linnaea 14: 663 (1841); et Beitr. Fl. Hercyn. 293.","","663","1841",gcc-105693
+gcc-123591,A,Compositae,,Hypochaeris,,"coronopifolius",,"","(Sch.Bip.) Franch.",Synonym,,L,TICA,F58AB720-2E3E-41E3-B3C4-CEB0C13D4613,126434-2,"","","350","1889",gcc-125378
+gcc-51236,A,Compositae,,Hypochaeris,,"corsica",,"","Tausch",Synonym,,M,TICA,F669B228-F320-4604-9FB4-5F015D0A4E1C,,"""in Flora, xii. (1829) I. Erg. 36.""","","","1829",gcc-101451
+gcc-81545,A,Compositae,,Hypochaeris,,"crepidioides",,"","(Miyabe & Kudô) Tatew. & Kitam.",Accepted,,M,TICA,F6B13F61-E8C1-4EAE-9772-700F2BAE76BE,,"","","100","1934",
+gcc-101451,A,Compositae,,Hypochaeris,,"cretensis",,"","(L.) Bory & Chaub.",Accepted,,M,TICA,A77078AD-E601-4C18-89D7-9CCEA0F24F24,60454833-2,"","","237","1832",
+gcc-157328,A,Compositae,,Hypochaeris,,"cretensis",subsp.,"cretensis","",Synonym,,L,TICA,DBA68350-3D01-49B5-B94D-FF8D57612747,,"","","","",gcc-101451
+gcc-14839,A,Compositae,,Hypochaeris,,"cretensis",subsp.,"pinnatifida","(Ten.) P.Fourn.",Synonym,,L,TICA,D9EE2690-9CD1-49E8-81D1-1B807E303017,,"","","1030","1940",gcc-101451
+gcc-15201,A,Compositae,,Hypochaeris,,"cryptocephala",,"","(Sch.Bip.) Domke",Synonym,,M,TICA,01CE9F5E-5477-4AAA-9D1F-1C237FE5C26E,225489-1,"","","251","1936",gcc-111592
+gcc-88340,A,Compositae,,Hypochaeris,,"cupressorum",,"","F.Phil.",Accepted,,L,TICA,A8FAF432-416E-4360-895C-7F38943EDA40,126435-2,"","","313","1894",
+gcc-110042,A,Compositae,,Hypochaeris,,"davurica",,"","Pall. ex Herder",Synonym,Invalid,L,TICA,56C79EA3-EB43-439D-AA1E-AFFD3B612A69,225490-1,"in Bull. Soc. Nat. Mosc. xliii. (1870) I. 99","","99","1870",gcc-137722
+gcc-138607,A,Compositae,,Hypochaeris,,"deserticola",,"","Phil.",Accepted,,M,TICA,FB22E677-3DC8-481E-9B54-F0F7D7F8DD0C,,"","","313","",
+gcc-40651,A,Compositae,,Hypochaeris,,"dimorpha",,"","Brot.",Synonym,,M,TICA,ED736F27-2F1D-411D-B9BB-4B581DD1CC53,,"Fl. Lusit. i. 332.","","","1804",gcc-105693
+gcc-77576,A,Compositae,,Hypochaeris,,"dimorpha",,"","Ten.",Unresolved,,L,TICA,AD9FF372-D4FC-4940-9B58-6730D4F95244,225492-1,"Fl. Nap. v. 201.","","v. 201","",
+gcc-147203,A,Compositae,,Hypochaeris,,"dolosa",,"","Azevêdo-Gonç. & Matzenb.",Accepted,,M,TICA,B518EC88-FBD7-4EF8-8E8C-288BB5A2A110,,"Azevêdo-Gonç. & Matzenb. in Hoehnea 32. 2005","","366","2005",
+gcc-20152,A,Compositae,,Hypochaeris,×,"dolosa",,"","Azevêdo-Gonç. & Matzenb.",Unresolved,,L,TICA,238BD65C-095F-4F4C-A30B-253F7EEA6616,77077124-1,"Hoehnea 32(3): 366 (-368; figs. 17-23)","","366 (-368; figs. 17-23)","2005",
+gcc-141767,A,Compositae,,Hypochaeris,,"dubia",,"","Mart.",Accepted,,M,TICA,8AD3FD66-C584-44F9-B180-F827CD3AA02E,225493-1,"Cat. Hort. Erlang. (1812).","","","1812",
+gcc-96075,A,Compositae,,Hypochaeris,,"echegarayi",,"","Hieron.",Accepted,,M,TICA,13FA4AF6-AC84-401B-8C22-90C498C69854,225494-1,"""in Bol. Acad. Nac. Cordova, iv. (1881) 51.""","","51","1881",
+gcc-142656,A,Compositae,,Hypochaeris,,"elata",,"","(Wedd.) Benth. & Hook.f. ex Griseb.",Accepted,,M,TICA,37A65563-CE76-4C44-833B-FA15A37576F7,,"in Goett. Abh. xix. (1874) 198.","","199","1874",
+gcc-27895,A,Compositae,,Hypochaeris,,"erccta",,"","Larrañaga",Unresolved,,L,TICA,7E574325-AAF2-426E-9CE8-3389E596B4AE,,"""Escritos Damaso Antonio Larranaga ii. 242 (1923) [Pub. Inst. Hist. Geog. Urug.]; cf.Gray Herb. Card Cat., Issue 117.""","","117","",
+gcc-147608,A,Compositae,,Hypochaeris,,"erecta",,"","Larrañaga",Accepted,,M,TICA,4E46A74D-F58D-4F91-A0BD-311941306A99,126438-2,"""Larrañaga, Escritos Damaso Antonio Larrañaga 2. 1923""","","242","1923",
+gcc-99858,A,Compositae,,Hypochaeris,,"eremophila",,"","Cabrera",Accepted,,M,TICA,26BA77A0-9709-405C-A324-994B3EA689B8,289253-2,"","","22","1948",
+gcc-111592,A,Compositae,,Hypochaeris,,"eriolaena",,"","(Sch.Bip.) Reiche",Accepted,,M,TICA,9288A553-5375-4BBC-BD28-B37167435A95,126439-2,"","","589","1905",
+gcc-153882,A,Compositae,,Hypochaeris,,"eriolaena",var.,"eriolaena","",Synonym,,L,TICA,CFA798BA-02ED-4C5A-BB2B-B75B14160253,,"","","","",gcc-111592
+gcc-126326,A,Compositae,,Hypochaeris,,"eurylepis",,"","Phil.",Synonym,,L,TICA,2A59F90A-73DF-47A7-BC50-D51A0E798566,126440-2,"","","317","1894",gcc-123492
+gcc-122165,A,Compositae,,Hypochaeris,,"facchiniana",,"","Ambrosi",Synonym,,M,TICA,E793A21C-5CFF-4FCF-8C7E-CB68E18D9233,225499-1,"","","558","1857",gcc-87881
+gcc-137133,A,Compositae,,Hypochaeris,,"foliosa",,"","Vill.",Synonym,,M,TICA,71B9EF18-2163-4A19-A2A4-EDCB4D750384,225500-1,"Fl. Delph. 88.","","88","",gcc-87881
+gcc-3085,A,Compositae,,Hypochaeris,,"foliosa",,"","(Phil.) Reiche",Unresolved,Illegitimate,L,TICA,75B68599-3E59-48AE-874D-05B4C3AECA56,126441-2,"","","602","1905",
+gcc-141724,A,Compositae,,Hypochaeris,,"gardneri",,"","(Sch.Bip.) Baker",Synonym,,M,TICA,2BA9F490-3F29-487F-877F-F809C5E8D9A4,,"Fl. Bras. (Martius) 6(3): 331","","331","1884",gcc-14413
+gcc-52327,A,Compositae,,Hypochaeris,,"gayana",,"","(DC.) Cabrera",Accepted,,M,TICA,8DB49B74-4787-4104-958B-6108ECBA1426,126442-2,"","","173","1963",
+gcc-105693,A,Compositae,,Hypochaeris,,"glabra",,"","L.",Accepted,,M,TICA,988550E0-560A-4BB5-8396-A61DE4B129C0,135241-3,"Species Plantarum 2:","","811","1753",
+gcc-81206,A,Compositae,,Hypochaeris,,"glabra",,"","E.Mey. ex DC.",Unresolved,Illegitimate,L,TICA,350BCAA4-3C69-46E1-BCBD-6F493FEFEE98,225505-1,"Prodr. (DC.) 7(1): 91","","91","1838",
+gcc-72497,A,Compositae,,Hypochaeris,,"glabra",subsp.,"arachnoides","(Poir.) Nyman",Synonym,,L,TICA,88B76420-1133-45A6-815B-FE5E434EDC38,,"""Nyman, Consp. Fl. Eur. 1879.""","","471","1879",gcc-143975
+gcc-55947,A,Compositae,,Hypochaeris,,"glabra",var.,"arrhyncha","Maire",Synonym,,L,TICA,1B6D82B9-AAB9-45E1-9B0E-7A61505CA6D2,,"","","","",gcc-51591
+gcc-15100,A,Compositae,,Hypochaeris,,"glabra",var.,"dimorpha","(Salzm.) Maire",Synonym,,L,TICA,157FC16A-12DC-47C8-A2F6-1BF46ABB6BE0,,"","","","",gcc-51591
+gcc-71721,A,Compositae,,Hypochaeris,,"glabra",var.,"erostris","Coss. & Germain",Synonym,,L,TICA,13DAE67A-6FA0-4606-800D-F85D299576D9,,"","","","",gcc-105693
+gcc-1049,A,Compositae,,Hypochaeris,,"glabra",subsp.,"glabra","",Synonym,,L,TICA,5C9A397C-CFE8-4812-ADDE-01EC0DE91F59,,"","","","",gcc-105693
+gcc-1345,A,Compositae,,Hypochaeris,,"glabra",var.,"glabra","",Synonym,,L,TICA,DB0D0798-F454-4029-AA3C-02715F0ABE47,,"","","","",gcc-105693
+gcc-26419,A,Compositae,,Hypochaeris,,"glabra",var.,"hispidula","Peterm.",Synonym,,L,TICA,23BB87ED-8561-45D6-ABBA-30D239671708,,"","","","",gcc-105693
+gcc-2629,A,Compositae,,Hypochaeris,,"glabra",var.,"loiseleuriana","Godr.",Synonym,,L,TICA,6A0A674D-2A9E-404D-ADB7-04D8B001668B,,"","","","",gcc-105693
+gcc-35094,A,Compositae,,Hypochaeris,,"glabra",subsp.,"minima","(Cirillo) Arcang.",Synonym,,L,TICA,897097A1-C181-43ED-BA56-41132A4ECDC3,,"Arcang.. 1882.","","414","1882",gcc-105693
+gcc-15611,A,Compositae,,Hypochaeris,,"glabra",var.,"salzmanniana","(DC.) Coss.",Synonym,,L,TICA,6D996B09-6AC2-4878-A347-1CE8343E6D49,,"","","","",gcc-51591
+gcc-9574,A,Compositae,,Hypochaeris,,"glabra",subsp.,"salzmanniana","(DC.) Maire",Synonym,,L,TICA,3C3B5F5A-F6F9-45F9-A89E-11DF92F80998,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","831","1934",gcc-51591
+gcc-105115,A,Compositae,,Hypochaeris,,"glabrata",,"","(Phil.) Phil.",Accepted,,M,TICA,E33C8677-157C-4A24-A00D-A4ECB7CECD4A,126443-2,"","","315","1894",
+gcc-136684,A,Compositae,,Hypochaeris,,"glacialis",,"","Werdermann",Unresolved,,L,TICA,00C0F8CB-FCD6-4349-82AE-ECC2C5E1F7AA,,"","","","",
+gcc-151670,A,Compositae,,Hypochaeris,,"glauca",,"","C.Presl",Synonym,,M,TICA,F5A30416-70AC-4080-8B4D-89B3EDA25D5E,225506-1,"""C. Presl - in C. Presl & J. Presl, Delic. Prag.. 1822""","","114","1822",gcc-86797
+gcc-45428,A,Compositae,,Hypochaeris,,"glauca",,"","(Phil.) Reiche",Synonym,,M,TICA,0DAA6499-5F6B-4E7A-9619-542C8D503265,,"","","601","1905",gcc-89016
+gcc-154511,A,Compositae,,Hypochaeris,,"glauca",f.,"glauca","",Synonym,,L,TICA,80816CC1-078F-4EDE-85F6-C513A39701A5,,"","","","",gcc-89016
+gcc-156578,A,Compositae,,Hypochaeris,,"glauca",var.,"glauca","",Synonym,,L,TICA,1FD1D9ED-4AEF-4731-9696-F036379D7445,,"","","","",gcc-89016
+gcc-73861,A,Compositae,,Hypochaeris,,"glauca",f.,"halophila","Hauman",Synonym,,L,TICA,D15562D9-07C2-4B99-9EAD-29B91B6A72AB,126445-2,"Anales Mus. Nac. Hist. Nat. Buenos Aires 24: 439","","439","1913",gcc-89016
+gcc-21347,A,Compositae,,Hypochaeris,,"glauxus",,"","Phil.",Unresolved,,L,TICA,3DE72AAE-A2EB-43FD-9896-2771983886C7,,"","","","",
+gcc-94370,A,Compositae,,Hypochaeris,,"graminea",,"","Hieron.",Accepted,,M,TICA,56A8411C-8364-4979-AC59-8CD2A0FDED3F,126447-2,"","","374","1896",
+gcc-125579,A,Compositae,,Hypochaeris,,"graminifolia",,"","Phil.",Synonym,,L,TICA,467D1B9E-5AF7-4E45-84D5-D360C6E7DE45,126448-2,"","","320","1894",gcc-123492
+gcc-36767,A,Compositae,,Hypochaeris,,"graminifolia",,"","Hieron.",Unresolved,Illegitimate,L,TICA,06C696EC-E963-4582-830C-442ADCC86614,,"","","","",
+gcc-119379,A,Compositae,,Hypochaeris,,"grandidentata",,"","(Phil.) Reiche",Accepted,,M,TICA,4AB6536B-3E23-433A-942B-C5087B14460E,126449-2,"","","601","1905",
+gcc-104251,A,Compositae,,Hypochaeris,,"grandiflora",,"","Ledeb.",Synonym,,L,TICA,611BA31D-464B-4855-829B-A316A193C25A,,"Fl. Alt. iv. 164.","","","1833",gcc-137722
+gcc-107368,A,Compositae,,Hypochaeris,,"grandiflora",,"","Gilib.",Accepted,,L,TICA,5A7C04DC-EFF4-4E04-8644-A9E88547EC1F,225511-1,"","","","",
+gcc-1485,A,Compositae,,Hypochaeris,,"grandiflora",,"","F.Phil. ex Phil.",Synonym,Illegitimate,M,TICA,ADDF12A6-D5B9-4A9A-9BD6-02ADC72D588F,126450-2,"","","313","1894",gcc-144680
+gcc-35464,A,Compositae,,Hypochaeris,,"grandiflora",,"","Sennen & Mauricio",Synonym,,M,TICA,5768B145-8647-4749-A7FE-41C0230DC67E,225512-1,"""Sennen & Mauricio - in frère Sennen, Diagn. Nouv.. 1936""","","236","1936",gcc-143975
+gcc-136897,A,Compositae,,Hypochaeris,,"grisebachii",,"","Cabrera",Accepted,,M,TICA,A6336E8C-1F98-46BB-9E26-ED44165E250C,126451-2,"""Notas del Museo de la Plata, Botanica 2:""","","194","1937",
+gcc-18935,A,Compositae,,Hypochaeris,,"halophila",,"","(Hauman) Cabrera",Synonym,,M,TICA,E1140D94-ACF6-4FE3-A237-22F3FA4BC7DB,126452-2,"","","397","1941",gcc-89016
+gcc-154182,A,Compositae,,Hypochaeris,,"helvetica",,"","Jacq.",Synonym,,M,TICA,600C2E2B-1B19-4A95-9629-BE2A837CAEA3,,"""N.J. von Jacquin, Misc. Austriac. 2. 1781""","","25","1781",gcc-87881
+gcc-81451,A,Compositae,,Hypochaeris,,"helvetica",,"","Wulfen",Accepted,,M,TICA,68D389B9-5585-4343-9341-6FD6A279613E,225515-1,"in Jacq. Misc. ii. 25.","","ii. 25","",
+gcc-80544,A,Compositae,,Hypochaeris,,"heterosperma",,"","Schult. ex Sch.Bip.",Synonym,Invalid,M,TICA,773485C4-0A71-4198-9DE5-6DCE879334CB,,"in Nov. Act. Nat. Cur. xxi. I. (1845) 142.","","","1845",gcc-105693
+gcc-51594,A,Compositae,,Hypochaeris,,"hirsuta",,"","DC.",Unresolved,,L,TICA,F88496FC-9191-4416-BA1F-5FAA82DCEC5A,225517-1,"Prodr. (DC.) 7(1): 90","","90","1838",
+gcc-113769,A,Compositae,,Hypochaeris,,"hirta",,"","Ucria",Synonym,,M,TICA,F0D5C70F-C543-4BEA-A445-B85EB3B44F3F,225520-1,"","","254","1793",gcc-31506
+gcc-50984,A,Compositae,,Hypochaeris,,"hirta",,"","Cyr. ex Colla",Accepted,,M,TICA,121C29E3-3AE0-4946-87F9-5E9B6EE9822B,225519-1,"""Colla, Herb. Pedem. 3. 1834""","","563","1834",
+gcc-83969,A,Compositae,,Hypochaeris,,"hirta",,"","Gaertn.",Unresolved,,L,TICA,5E96D048-FFCD-461C-AF38-7575FBB181C8,,"","","","1791",
+gcc-91353,A,Compositae,,Hypochaeris,,"hirta",,"","Phil.",Synonym,,M,TICA,8794F59E-938F-463B-9AF4-86316D340395,126453-2,"","","319","1894",gcc-46456
+gcc-135932,A,Compositae,,Hypochaeris,,"hispida",,"","Roth",Synonym,,M,TICA,0F52B8F2-1F00-42B2-92A4-EB04E213F048,,"","","","1795",gcc-105693
+gcc-141723,A,Compositae,,Hypochaeris,,"hispida",,"","Willd.",Synonym,,M,TICA,06D3BAD8-C031-4C12-A659-F8090B00F1E9,,"","","","1804",gcc-101451
+gcc-47969,A,Compositae,,Hypochaeris,,"hispidula",,"","Phil.",Accepted,,M,TICA,BF38C33A-113C-46DE-8D16-58DB32DE0C2C,126454-2,"","","316","1894",
+gcc-3401,A,Compositae,,Hypochaeris,,"hohenackeri",,"","(Sch.Bip.) Domke",Accepted,,M,TICA,384607AD-136F-49E0-B0F6-0647CCD5CE1B,225523-1,"","","251","1936",
+gcc-144116,A,Compositae,,Hypochaeris,,"hookeri",,"","Phil.",Synonym,,L,TICA,9B1C7BD3-2C6B-40F6-A134-FD646F2CE1DB,126455-2,"","","314","1894",gcc-121037
+gcc-26917,A,Compositae,,Hypochaeris,,"humilis",,"","(Phil.) Reiche",Synonym,,L,TICA,E49FBC41-0C21-4915-B245-31C68D092033,126456-2,"","","591","1905",gcc-118876
+gcc-84174,A,Compositae,,Hypochaeris,,"ibari",,"","Phil.",Synonym,,L,TICA,9BD99AF6-487C-4621-A0EF-75F4CD25452C,126457-2,"","","320","1894",gcc-125378
+gcc-146435,A,Compositae,,Hypochaeris,,"illyrica",,"","K.Malý",Synonym,,M,TICA,A66475CC-0A82-4839-BEA6-184476B8473D,,"""K. Malý, in Glasn. Zemaljsk. Muz. Bosni Hercegovini 18. 1906""","","447","1906",gcc-66608
+gcc-36729,A,Compositae,,Hypochaeris,,"illyrica",,"","Maly",Synonym,,M,TICA,ABFD56BC-9A26-44A3-A4FB-441853F7C5F9,,"K. Malý in Glasn. Zemaljsk. Muz. Bosni Hercegovini 18. 1906.","","","1906",gcc-66608
+gcc-125378,A,Compositae,,Hypochaeris,,"incana",,"","(Hook. & Arn.) Macloskie",Unresolved,Illegitimate,L,TICA,B47CFE44-1ED6-49CF-A09A-D2E68B85CB61,,"""Rep. Princeton Univ. Exp. Patagonia, Botany 8(2.5): 899""","","899","1906",
+gcc-61265,A,Compositae,,Hypochaeris,,"incana",var.,"integrifolia","(Sch.Bip. ex Sch.Bip.) Cabrera",Synonym,,L,TICA,EF5BBEE4-D815-4137-A14E-A50DA35F19E0,,"Bol. Soc. Argent. Bot. 10: 178","","","1963",gcc-125378
+gcc-64569,A,Compositae,,Hypochaeris,,"incana",var.,"leucantha","(Speg.) Cabrera",Synonym,,L,TICA,D3CA5A8F-1FF4-426B-A3A4-BF7B206D223D,126459-2,"Bol. Soc. Argent. Bot. 10: 180","","180","1963",gcc-125378
+gcc-131302,A,Compositae,,Hypochaeris,,"infesta",,"","Salisb.",Synonym,Illegitimate,L,TICA,ED024335-048A-4DA3-9F4A-E0976A9AAE2E,225526-1,"Prodr. Stirp. Chap. Allerton 182","","182","1796",gcc-31523
+gcc-10603,A,Compositae,,Hypochaeris,,"intermedia",,"","Richt. ex Rchb.",Synonym,Invalid,M,TICA,410C6181-71EF-48E1-88A9-13D0A8DBFD95,225527-1,"Fl. Germ. Excurs. 268","","268","",gcc-105693
+gcc-130920,A,Compositae,,Hypochaeris,,"intertexta",,"","Peterm.",Synonym,,M,TICA,96778ECC-74CC-4E0C-9237-DFAAF5967A85,,"""in Flora, xxvii. (1844) 481.""","","","1844",gcc-105693
+gcc-91618,A,Compositae,,Hypochaeris,,"jussieui",,"","(Sch.Bip.) Reiche",Accepted,,M,TICA,14DF1D9E-28D5-4EF8-9D35-86C3695FE577,126460-2,"","","597","1905",
+gcc-124750,A,Compositae,,Hypochaeris,,"laciniosa",,"","Phil.",Accepted,,M,TICA,17524325-C13B-495A-AD54-D1645807BDED,126461-2,"","","319","1894",
+gcc-141954,A,Compositae,,Hypochaeris,,"laevigata",,"","Benth. & Hook.f.",Synonym,,M,TICA,3263E698-B1EF-440F-98EA-F8936E08CF54,,"Gen. ii. 520; Ces. Passer. & Gib. Comp. Fl. Ital. 465.","","","1873",gcc-143740
+gcc-86797,A,Compositae,,Hypochaeris,,"laevigata",,"","(L.) Ces. & al.",Accepted,,M,TICA,5B8343AC-4AC8-475B-B111-7BBD61251678,,"","","465","1878",
+gcc-50666,A,Compositae,,Hypochaeris,,"laevigata",subsp.,"angustifolia","Litard. & Maire",Synonym,,L,TICA,B1432B4E-1BAD-43B1-8C43-5DF0AF817E90,,"","","","",gcc-30095
+gcc-14077,A,Compositae,,Hypochaeris,,"laevigata",var.,"hipponensis","Maire",Synonym,,L,TICA,EB312935-77AA-447F-8E99-1A1C5B9AE128,,"","","","",gcc-86797
+gcc-154344,A,Compositae,,Hypochaeris,,"laevigata",subsp.,"leontodontoides","(Ball) Litard. & Maire",Synonym,,L,TICA,C07B6BB7-2E22-4B5E-B72D-C1B5E4CEC174,,"Litard. & Maire in Mém. Soc. Sci. Nat. Maroc. 7. 1924","","210","1924",gcc-31677
+gcc-64097,A,Compositae,,Hypochaeris,,"laevigata",var.,"pinnatifida","Doumergue",Synonym,,L,TICA,E65990EC-A768-46C0-A594-BBDE8100903C,,"","","","",gcc-86797
+gcc-72273,A,Compositae,,Hypochaeris,,"laevigata",var.,"platyphylla","Maire",Synonym,,L,TICA,B8386562-932D-43BD-AA40-FCB3E2DAC371,,"","","","",gcc-30095
+gcc-136577,A,Compositae,,Hypochaeris,,"lanata",,"","Dusén",Synonym,,L,TICA,AF8869BE-3754-4FDC-9B55-EC85692F1C02,225531-1,"","","48","1907",gcc-125378
+gcc-4940,A,Compositae,,Hypochaeris,,"lasiophylla",,"","K.Koch ex Nyman",Synonym,Invalid,L,TICA,FA525500-8587-4360-A53B-0937B0608ADA,225532-1,"Consp. 470.","","470","1879",gcc-31523
+gcc-126444,A,Compositae,,Hypochaeris,,"lechleri",,"","Ball",Synonym,Invalid,L,TICA,0A02FC84-BBCB-4168-A14D-D55958C304F7,126463-2,"""J. Linn. Soc., Bot. 22: 165""","","165","1886",gcc-138186
+gcc-87901,A,Compositae,,Hypochaeris,,"lechleri",,"","Phil.",Unresolved,,L,TICA,3793814C-8295-49F6-8B13-7E438E29D682,,"","","","",
+gcc-31677,A,Compositae,,Hypochaeris,,"leontodontoides",,"","Ball",Accepted,,M,TICA,FECB04A4-08C3-44F4-82C8-3AB4A72D244B,225533-1,"","","371","1873",
+gcc-67205,A,Compositae,,Hypochaeris,,"leontodontoides",var.,"atlantica","A.Galán, E.Castro & Vicente Orell.",Unresolved,,L,TICA,2917C725-4D57-4C65-AE1B-D52EA749CA33,1012090-1,"Nordic J. Bot. 19(5): 591 (1999)","","591","1999",gcc-31677
+gcc-49852,A,Compositae,,Hypochaeris,,"leontodontoides",var.,"leontodontoides","",Synonym,,L,TICA,19219E7C-535A-48CE-82BC-5C6C1C3C283C,,"","","","",gcc-31677
+gcc-40514,A,Compositae,,Hypochaeris,,"leontodontoides",var.,"villosa","Maire",Synonym,,L,TICA,F826EC43-720E-4237-80FB-4B11E281F73B,,"","","45","1926",gcc-31677
+gcc-79436,A,Compositae,,Hypochaeris,,"lessingii",,"","(Sch.Bip.) Reiche",Accepted,,M,TICA,1DEC638C-CEFA-4250-BCC6-6B747696E37D,126464-2,"","","597","1905",
+gcc-105820,A,Compositae,,Hypochaeris,,"leucantha",,"","(Speg.) Speg.",Synonym,,L,TICA,8CB27CBD-0F71-4D6E-AF03-A6690E4FA497,126465-2,"Revista Fac. Agron. Univ. Nac. La Plata 3: 618","","618","1897",gcc-125378
+gcc-130338,A,Compositae,,Hypochaeris,,"leucantha",,"","Macloskie",Unresolved,,L,TICA,9E15A704-EF7F-435D-A350-DE4959533502,,"""in Scott, Rep. Princeton Univ. Exped. Patag. viii. 899 (1906).""","","899","",
+gcc-5123,A,Compositae,,Hypochaeris,,"linearifolia",,"","Moris",Accepted,,M,TICA,ACA91245-1659-4C61-8CFF-098D14E589A3,,"""Mem. Reale Accad. Sci. Torino Ser. II, ii. (1840) 303.""","","303","1840",
+gcc-14413,A,Compositae,,Hypochaeris,,"lutea",,"","(Vell.) Britton",Accepted,,M,TICA,127B28F9-6DDC-4703-9080-1AC2EE474A42,126466-2,"","","153","1893",
+gcc-72067,A,Compositae,,Hypochaeris,,"lutea",var.,"lutea","",Synonym,,L,TICA,87E8585E-62F5-41B0-B188-FB0DF84A4028,,"","","","",gcc-14413
+gcc-54043,A,Compositae,,Hypochaeris,,"lutea",var.,"trichocephala","(Sch.Bip.) Cabrera",Synonym,,L,TICA,40B5FFC3-6AAE-4B0E-A2E7-6AE8E6CCA9B9,126467-2,"","","182","1963",gcc-14413
+gcc-5129,A,Compositae,,Hypochaeris,,"macedonica",,"","Formánek",Synonym,,M,TICA,4DC0B346-7902-4C90-BDBD-098EAA8AA258,,"","","159","1899",gcc-66608
+gcc-10155,A,Compositae,,Hypochaeris,,"macrorhiza",,"","guenth. ex Spreng.",Synonym,,M,TICA,47E31860-0D4C-4E7F-A922-12FCC6309313,225538-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 669","","669","1826",gcc-101451
+gcc-117067,A,Compositae,,Hypochaeris,,"maculata",,"","L.",Accepted,,M,TICA,E867B696-274E-4F9B-B05B-BFD4717AB698,225539-1,"","","810","1753",
+gcc-151680,A,Compositae,,Hypochaeris,,"maculata",subsp.,"carpathica","(Pax) Soó",Synonym,,L,TICA,7995AFDD-A4D6-4E27-B04C-89F6C15895B6,,"K.R. Soó von Bere in Acta Geobot. Hung. 2. 1938-1939","","256","",gcc-117067
+gcc-57094,A,Compositae,,Hypochaeris,,"maculata",subsp.,"maculata","",Synonym,,L,TICA,8AF24BF4-5704-4B8A-9F22-839359E2FBE3,,"","","","",gcc-117067
+gcc-66608,A,Compositae,,Hypochaeris,,"maculata",subsp.,"pelivanovicii","(Velen.) Hayek",Accepted,,L,TICA,1661F3F0-B2A2-48DA-8826-D016C19DD409,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","809","1931",
+gcc-102947,A,Compositae,,Hypochaeris,,"magellanica",,"","(Sch.Bip.) Baker",Unresolved,,L,TICA,EC4992C1-CECF-41B2-A7FE-A03CE3FEFE80,,"","","","",
+gcc-36496,A,Compositae,,Hypochaeris,,"magellanica",,"","(Sch.Bip.) Macloskie",Accepted,,M,TICA,15CBF967-84D9-4057-A811-43AEA5E1D6B9,126468-2,"","","899","1906",
+gcc-485,A,Compositae,,Hypochaeris,,"mairei",,"","H.Lév.",Synonym,,M,TICA,DD694968-1AED-44A0-9CF3-00E9C94AA968,225541-1,"""in Bull. Geogr. Bot. 1914, xxiv. 290.""","","290","1914",gcc-113228
+gcc-97131,A,Compositae,,Hypochaeris,,"megapotamica",,"","Cabrera",Accepted,,M,TICA,D2DF50B3-5365-4F99-8597-932E4DDC151D,126469-2,"","","192","1937",
+gcc-111843,A,Compositae,,Hypochaeris,,"melanolepis",,"","Phil.",Accepted,,M,TICA,B0EB9344-7E36-4645-AB54-B41488FB4F0A,126470-2,"","","321","1894",
+gcc-16550,A,Compositae,,Hypochaeris,,"meyeniana",,"","(Walp.) Benth. & Hook.f. ex Griseb.",Unresolved,Illegitimate,L,TICA,211541E8-8B4E-4F38-A8D2-1E9619B80733,,"Abhandlungen der Koniglichen Gesellschaft der Wissenschaften zu Gottingen 19:","","199","1874",
+gcc-20843,A,Compositae,,Hypochaeris,,"meyeniana",var.,"brachylepis","Cabrera",Synonym,,L,TICA,C75A6444-FC8D-4CD6-8449-268AC8A7D774,126471-2,"Flora de la provincia de Jujuy 10:","","677","1978",gcc-16550
+gcc-18435,A,Compositae,,Hypochaeris,,"meyeniana",var.,"ciliata","(Wedd.) Perkins",Synonym,,L,TICA,A17D4071-A088-4FF3-A2EA-220FF1C5C920,126472-2,"","","232","1913",gcc-16550
+gcc-64913,A,Compositae,,Hypochaeris,,"meyeniana",var.,"eriolaenoides","Cabrera",Synonym,,L,TICA,A86A48C7-7390-421D-BDC3-C234B7CD2A76,126473-2,"","","410","1958",gcc-16550
+gcc-56900,A,Compositae,,Hypochaeris,,"meyeniana",var.,"leucantha","Cabrera",Synonym,,L,TICA,CDE04C1A-B5B4-4E6C-BE9F-81FD96CC9E40,126474-2,"Revista Invest. Agric. 11: 410","","410","1958",gcc-96075
+gcc-17762,A,Compositae,,Hypochaeris,,"meyeniana",var.,"meyeniana","",Synonym,,L,TICA,87B340D8-9E62-4DE8-9EE2-20CA832C87BD,,"","","","",gcc-16550
+gcc-26914,A,Compositae,,Hypochaeris,,"microcephala",,"","(Sch.Bip.) Cabrera",Accepted,,M,TICA,A86026AD-203F-423F-8569-31C4E357883D,126475-2,"","","200","1937",
+gcc-91164,A,Compositae,,Hypochaeris,×,"microcephala",,"","(Sch.Bip.) Azevêdo-Gonç. & Matzenb.",Unresolved,,L,TICA,309639E0-D329-471A-9F92-85BBE29DF440,77077122-1,"Hoehnea 32(3): 362","","362","2005",
+gcc-27103,A,Compositae,,Hypochaeris,,"microcephala",var.,"albiflora","(Kuntze) Cabrera",Synonym,,L,TICA,DFD5A8A2-E620-4BD2-96D1-321D30483DDA,126476-2,"","","201","1937",gcc-110538
+gcc-55419,A,Compositae,,Hypochaeris,,"microcephala",var.,"microcephala","",Synonym,,L,TICA,75B9AFAD-9FA4-43D0-9603-75E27F1DE2C6,,"","","","",gcc-26914
+gcc-101310,A,Compositae,,Hypochaeris,,"microphylla",,"","(J.Rémy) Reiche",Synonym,,M,TICA,867CD6F5-F8A2-4B78-B6D4-9C817E967660,,"","","591","",gcc-115563
+gcc-102033,A,Compositae,,Hypochaeris,,"minima",,"","Desf.",Synonym,,M,TICA,22E68DCB-DD3A-4D64-8ACE-9E23E93B3EFB,,"Desf. in Méd. Eclairée Sci. Phys. 3. 1792.","","162","1792",gcc-143975
+gcc-113395,A,Compositae,,Hypochaeris,,"minima",,"","Willd. ex d'Urv.",Synonym,,M,TICA,A3ACCA7B-099A-4551-8414-B78F84078743,,"","","","",gcc-105693
+gcc-13927,A,Compositae,,Hypochaeris,,"minima",,"","Cirillo",Synonym,,M,TICA,99FB8CB4-A8BE-41B1-B093-19DD96AC0C19,,"","","29","1788",gcc-105693
+gcc-121037,A,Compositae,,Hypochaeris,,"montana",,"","(Phil.) Reiche",Unresolved,Illegitimate,L,TICA,DCB44F7E-9F65-4DE4-9D53-C8E6F3687579,126478-2,"","","592","1905",
+gcc-79924,A,Compositae,,Hypochaeris,,"montana",,"","Hill",Accepted,,M,TICA,CF75B075-7F06-4BEE-94C1-6C6CB8850360,,"Veg. Syst. iii. 153.","","","1761",
+gcc-69343,A,Compositae,,Hypochaeris,,"montana",var.,"montana","",Synonym,,L,TICA,CE776696-72A0-4178-A10B-E59176819B1D,,"Anales Univ. Chile 116: 592 (1905)","","592","1905",gcc-79924
+gcc-124348,A,Compositae,,Hypochaeris,,"mucida",,"","Domke",Accepted,,M,TICA,0411B33E-6A06-434D-9466-D0791182A6CC,126479-2,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 250","","250","1936",
+gcc-62902,A,Compositae,,Hypochaeris,,"mucida",var.,"integrifolia","Cuatrec.",Synonym,,L,TICA,123576E1-2023-47FF-8E84-B2932DC2BD3C,126480-2,"Proc. Biol. Soc. Wash. 77: 156","","156","1964",gcc-124348
+gcc-53036,A,Compositae,,Hypochaeris,,"mucida",var.,"mucida","",Synonym,,L,TICA,F4D7D777-A87A-4B18-836B-62FB90F63C79,,"","","","",gcc-124348
+gcc-123099,A,Compositae,,Hypochaeris,,"multicaulis",,"","Sennen & Mauricio",Synonym,,M,TICA,41C34008-BB26-424E-A4E7-CD89DECA1982,225550-1,"","","236","1936",gcc-143975
+tro-2723157,A,Compositae,,Hypochaeris,,"nahuelbutae",,"","Phil.",Accepted,,M,TRO,2723157,,"","","","",
+gcc-131953,A,Compositae,,Hypochaeris,,"nahuelvutae",,"","Phil.",Accepted,,M,TICA,0EFE3037-EC11-4DA8-AFA9-E222B3C10975,126481-2,"","","315","1894",
+gcc-137495,A,Compositae,,Hypochaeris,,"nana",,"","Phil.",Synonym,,M,TICA,46483D72-3578-427C-AC5B-EE915A47C139,126482-2,"","","323","1894",gcc-115563
+gcc-22209,A,Compositae,,Hypochaeris,,"neapolitana",,"","DC.",Synonym,,L,TICA,35468591-BB05-4814-8E2B-291731B73A16,225551-1,"","","91","1838",gcc-31523
+gcc-93919,A,Compositae,,Hypochaeris,,"neopinnatifida",,"","Azevêdo-Gonç. & Matzenb.",Accepted,,L,TICA,3A0EE0DB-87CA-42C9-8C50-8BC57E7F9671,77098248-1,"","","158","2006",
+gcc-122206,A,Compositae,,Hypochaeris,,"odorata",,"","(Poepp. & Endl.) Benth. & Hook.f.",Synonym,,L,TICA,1FA83616-F79F-4F55-AB88-CB830D643EE0,225552-1,"Gen. ii. 519.","","519","1873",gcc-123492
+gcc-124946,A,Compositae,,Hypochaeris,,"odorata",,"","(Poepp. & Endl.) Benth. & Hook. ex Jacks.",Synonym,,L,TICA,19C61C57-C3C9-4972-853F-D1E6667D1A50,,"Gen. Pl. 2(1): 519 (1873)","","519","1873",gcc-123492
+gcc-64532,A,Compositae,,Hypochaeris,,"odorata",var.,"eurylepis","(Phil.) Reiche",Synonym,,L,TICA,005B993C-6DF4-487A-9329-BF3FD6B7F0A3,,"Fl. Chil. 5: 26 (1910)","","26","1910",gcc-123492
+gcc-148553,A,Compositae,,Hypochaeris,,"odorata",var.,"odorata","",Synonym,,L,TICA,95F5F7A1-5AD5-4304-853B-454E6D0A050B,,"","","","",gcc-123492
+gcc-92997,A,Compositae,,Hypochaeris,,"oligocephala",,"","(Svent. & Bramwell) Lack",Accepted,,M,TICA,652BCCA0-217C-401F-BF60-89CEB50094A2,,"","","331","1978",
+gcc-142858,A,Compositae,,Hypochaeris,,"ornata",,"","J.Kost.",Synonym,,M,TICA,4B22EEB7-6F1F-4606-A71B-FA9A45F5BD6F,,"","","","1945",gcc-96075
+gcc-149253,A,Compositae,,Hypochaeris,,"ornata",,"","J. Koster",Synonym,,M,TICA,5C878E20-7185-493B-B9F8-551F8D2E4EE9,,"","","","",gcc-96075
+gcc-100803,A,Compositae,,Hypochaeris,,"pallescens",,"","Dahlst.",Unresolved,,L,TICA,69F62373-2993-4201-A159-9B70F9A951FC,,"","","","",
+gcc-114225,A,Compositae,,Hypochaeris,,"palustris",,"","Macloskie",Unresolved,,L,TICA,B59D6A1C-E7C6-4CCC-BE6A-B9569B2DAE13,,"""in Scott, Rep. Princeton Univ. Exped. Patag. viii. 899 (1906).""","","899","",
+gcc-140777,A,Compositae,,Hypochaeris,,"palustris",,"","(Phil.) Reiche",Accepted,,M,TICA,073D8B64-B1F9-440C-BB16-F5DC01A7FE1E,,"","","","",
+gcc-9896,A,Compositae,,Hypochaeris,,"palustris",,"","(Phil.) De Wild.",Unresolved,,L,TICA,B9A8BFB2-486A-4095-8F96-127C27031405,126485-2,"","","180","1905",
+gcc-40977,A,Compositae,,Hypochaeris,,"pampasica",,"","Cabrera",Accepted,,M,TICA,7DDF8DBE-73EA-4261-AFF0-4BF1518117D3,126486-2,"","","395","1941",
+gcc-140170,A,Compositae,,Hypochaeris,,"parodii",,"","Cabrera",Synonym,,L,TICA,5CE85210-0CDB-4BE2-BC47-F466ECF0BC0A,126487-2,"Boletin de la Sociedad Argentina de Botanica 10:","","183","1963",gcc-95147
+gcc-146372,A,Compositae,,Hypochaeris,,"parvifolia",,"","J. Koster",Accepted,,M,TICA,577303B3-CCEE-4AE5-B56F-17334E12F26E,,"","","","",
+gcc-52915,A,Compositae,,Hypochaeris,,"parvifolia",,"","J.Kost.",Synonym,,M,TICA,FCD715BE-11BD-4986-9AC3-6227AB460C99,126488-2,"","","661","1945",gcc-3401
+gcc-143083,A,Compositae,,Hypochaeris,,"patagonica",,"","Cabrera",Accepted,,M,TICA,76080059-72D5-44EF-A67B-FB1AF4D45BFD,126489-2,"Boletin de la Sociedad Argentina de Botanica 11:","","289","1969",
+gcc-13946,A,Compositae,,Hypochaeris,,"pelivanovicii",,"","Velen.",Synonym,,M,TICA,65AE337F-5CBD-436F-9C0E-19E68ECF7564,225438-1,"","","361","1891",gcc-66608
+gcc-7180,A,Compositae,,Hypochaeris,,"petiolaris",,"","(Hook. & Arn.) Griseb.",Accepted,,M,TICA,24CC7DC5-9726-478C-BDE8-0D5D8146365D,225561-1,"in Goett. Abh. xxiv. (1879) 218.","","218","1879",
+gcc-99699,A,Compositae,,Hypochaeris,,"philippii",,"","Kuntze",Synonym,,M,TICA,1273FED2-9142-4AD5-94DB-98F627D295CA,289252-2,"Revis. Gen. Pl. 3[3]: 159","","159","1898",gcc-144680
+gcc-66847,A,Compositae,,Hypochaeris,,"philippii",var.,"glabrescens","Kuntze",Synonym,,L,TICA,AF4AD608-4D36-48E1-A832-D23926279D1E,126490-2,"Revis. Gen. Pl. 3[3]: 160","","160","1898",gcc-52327
+gcc-29403,A,Compositae,,Hypochaeris,,"philippii",var.,"philippii","",Synonym,,L,TICA,D5E633A0-0095-41E9-B48C-36566115A387,,"","","","",gcc-144680
+gcc-116929,A,Compositae,,Hypochaeris,,"picroides",,"","Griseb.",Synonym,,M,TICA,6612AED7-A87F-4FF6-8F5D-BF87BE44100E,,"in Goett. Abh. xxiv. (1879) 217.","","","1879",gcc-13802
+gcc-46456,A,Compositae,,Hypochaeris,,"pilosa",,"","Reiche",Accepted,,M,TICA,EA9B97B2-FEF2-444A-835A-561878217442,126491-2,"","","603","1905",
+gcc-132121,A,Compositae,,Hypochaeris,,"pinnatifida",,"","Aucher ex DC.",Unresolved,,L,TICA,6FD0543D-049E-4004-B141-E27EEF2A56D7,,"Prodr. (DC.) 7(1): 97","","97","1838",
+gcc-28579,A,Compositae,,Hypochaeris,,"pinnatifida",,"","Cirillo ex Ten.",Synonym,,M,TICA,C9562E4E-30AF-490B-B9D7-34D2DE75668C,,"","","323","1811",gcc-101451
+gcc-83389,A,Compositae,,Hypochaeris,,"pinnatifida",,"","(Speg.) Azevêdo-Gonç. & Matzenb.",Synonym,Illegitimate,L,TICA,15C6D413-70CC-4A27-8812-742BD21A1F3A,77068544-1,"Compositae Newslett. 42: 2. 2005 [17 Jun 2005]","","2","2005",gcc-93919
+gcc-125679,A,Compositae,,Hypochaeris,,"platylepis",,"","Boiss.",Synonym,,M,TICA,2C718CBF-8F7F-4F0C-8019-D395A861EAD6,,"","","376","1841",gcc-65133
+gcc-102025,A,Compositae,,Hypochaeris,,"poeppigii",,"","(DC.) Dusén",Synonym,,M,TICA,AD462066-388B-4034-8D98-9E20141838EC,,"","","","",gcc-7179
+gcc-143200,A,Compositae,,Hypochaeris,,"pontana",,"","L.",Synonym,,M,TICA,4A9049E3-9E19-4BC8-BE5D-FB5DEB67165A,225569-1,"","","810","1753",gcc-124715
+gcc-103639,A,Compositae,,Hypochaeris,,"procumbens",,"","Larrañaga",Accepted,,M,TICA,CB887BD8-BEB8-46DF-AB30-A1B8438B2B23,,"""Escritos Damaso Antonio Larranaga ii. 242 (1923) [Pub. Inst. Hist. Geog. Urug.]; cf.Gray Herb. Card Cat., Issue 117.""","","","1923",
+gcc-138292,A,Compositae,,Hypochaeris,,"psychrophila",,"","(Wedd.) Reiche",Synonym,,L,TICA,94D9A23C-D4D6-4AEF-A616-F045DCAB6661,126492-2,"","","596","1905",gcc-118876
+gcc-17964,A,Compositae,,Hypochaeris,,"pumila",,"","Phil.",Synonym,,M,TICA,38FD0FC4-EBD8-4183-AB74-213378F5F9AA,126493-2,"","","322","1894",gcc-105693
+gcc-108002,A,Compositae,,Hypochaeris,,"pusilla",,"","Poir.",Synonym,,M,TICA,60943D70-9506-40D4-BB04-AB60EBBDE730,225572-1,"Encycl. (Lamarck) Suppl. 4. 530","","530","1816",gcc-105693
+gcc-102381,A,Compositae,,Hypochaeris,,"pygmaea",,"","Phil.",Synonym,,L,TICA,63444A68-D635-4319-A1C0-9EFE77AD3CDF,126494-2,"","","321","1894",gcc-118876
+gcc-148266,A,Compositae,,Hypochaeris,,"pyrenaea",,"","Sennen",Synonym,,M,TICA,8F53B579-3F89-4E85-9B5D-3F1979975A33,,"frère Sennen in Bull. Soc. Bot. France 73. 1927","","656","1927",gcc-117067
+gcc-18478,A,Compositae,,Hypochaeris,,"pyrenaica",,"","Sennen",Unresolved,,L,TICA,13A4BEA6-DB9A-489F-9DDC-221EB8225616,,"Bull. Soc. Bot. France 73: 656","","171","1927",
+gcc-88383,A,Compositae,,Hypochaeris,,"quitensis",,"","Sch.Bip.",Unresolved,,L,TICA,1859DC6E-92AD-4267-B8D9-7F4AFF120C6A,,"","","","",
+gcc-99330,A,Compositae,,Hypochaeris,,"radiata",,"","Falk",Accepted,,M,TICA,EC0D522C-7877-4B46-AE09-98220487D742,225574-1,"""Beitr. ii. 234, sphalm.""","","""ii. 234, sphalm.""","",
+gcc-157212,A,Compositae,,Hypochaeris,,"radiata",subsp.,"radiata","",Synonym,,L,TICA,3DBF19E4-7425-48CE-9459-FD5CC99A9EB8,,"","","","",gcc-99330
+gcc-31523,A,Compositae,,Hypochaeris,,"radicata",,"","L.",Unresolved,Illegitimate,L,TICA,2F82D54F-2716-4207-80B5-3A7105AD17A0,135432-3,"Sp. Pl. 2: 811. 1753.","","811","1753",
+gcc-69272,A,Compositae,,Hypochaeris,,"radicata",subsp.,"ericetorum","Soest",Synonym,,L,TICA,AE148DBB-28CF-4F43-9454-E51D0C869D07,,"Soest in Ned. Kruidk. Arch. 57. 1950.","","242","1950",gcc-2280
+gcc-53873,A,Compositae,,Hypochaeris,,"radicata",var.,"erostris","Emb. & Maire",Synonym,,L,TICA,28AABD92-755F-4CE0-BDA7-6979FB3C525A,,"","","","",gcc-31523
+gcc-53472,A,Compositae,,Hypochaeris,,"radicata",subsp.,"glabra","(L.) Mateo & Figuerola",Synonym,,L,TICA,432B7DE0-91E8-4F7C-ACE4-66775BB0E01F,970068-1,"Fl. Analit. Prov. Valencia (IAM Investig. 14): 369 (1987):.","","369","1987",gcc-105693
+gcc-148950,A,Compositae,,Hypochaeris,,"radicata",subsp.,"heterocarpa","(Moris) Arcang.",Synonym,,L,TICA,A9096FC5-4CB9-4FE5-BD9F-4E5FC731C5A3,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","414","1882",gcc-65133
+gcc-54049,A,Compositae,,Hypochaeris,,"radicata",subsp.,"heterocarpa","(Moris) Maire",Synonym,,L,TICA,22615735-E58B-421E-AAC1-6AF4571DC00E,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 27. 1936.","","241","1936",gcc-65133
+gcc-68235,A,Compositae,,Hypochaeris,,"radicata",var.,"heterocarpa","(Moris) Pamp.",Synonym,,L,TICA,3FA9890C-5BF0-48FC-BE02-DD4DA3A0AAD5,,"","","","",gcc-65133
+gcc-56346,A,Compositae,,Hypochaeris,,"radicata",var.,"neapolitana","DC.",Synonym,,L,TICA,91FDC485-D2E6-4CC8-A391-7DAEEB59D4D6,,"","","","",gcc-65133
+gcc-66801,A,Compositae,,Hypochaeris,,"radicata",subsp.,"neapolitana","(DC.) Nyman",Synonym,,L,TICA,CAF79E46-41DC-4AA5-AAA6-D1D7C30731B3,,"""Nyman, Consp. Fl. Eur. 1879.""","","470","1879",gcc-31523
+gcc-65133,A,Compositae,,Hypochaeris,,"radicata",subsp.,"platylepis","(Boiss.) Jahand. & Maire",Unresolved,,L,TICA,A0ACD0C7-BFBB-4DBC-9A81-C424BB1AB271,,"""Jahand. & Maire, Cat. Pl. Maroc. 1934.""","","831","1934",
+gcc-145353,A,Compositae,,Hypochaeris,,"radicata",f.,"radicata","",Synonym,,L,TICA,68E19CF6-55CA-4B05-ABE8-0267DA4AB01C,,"","","","",gcc-31523
+gcc-152077,A,Compositae,,Hypochaeris,,"radicata",var.,"radicata","",Synonym,,L,TICA,368169C5-1366-4EE3-8261-92086412C718,,"","","","",gcc-31523
+gcc-2280,A,Compositae,,Hypochaeris,,"radicata",subsp.,"radicata","",Unresolved,,L,TICA,DD61979C-FF1C-4A03-BF12-0423F40A16EE,,"","","","",
+gcc-56212,A,Compositae,,Hypochaeris,,"radicata",var.,"rostrata","Moris",Synonym,,L,TICA,79550DD0-9980-484B-88C2-7C9B997BE38A,,"","","","",gcc-31523
+gcc-58392,A,Compositae,,Hypochaeris,,"radicata",var.,"setulosa","Maire & Sennen",Synonym,,L,TICA,CBFFEE7B-AEED-4485-B053-8E4D41CADD87,,"","","","",gcc-143975
+gcc-139726,A,Compositae,,Hypochaeris,,"robertia",,"","(Sch.Bip.) Fiori",Accepted,,M,TICA,B4D4F53D-61A3-44CF-A943-F361B8E93292,,"","","655","1910",
+gcc-124106,A,Compositae,,Hypochaeris,,"rosengurttii",,"","Cabrera",Synonym,Illegitimate,M,TICA,A11CF551-B123-4314-896A-CFF052996F9B,225577-1,"","","150","1938",gcc-14413
+gcc-65230,A,Compositae,,Hypochaeris,,"rosengurttii",var.,"pinnatifida","(Speg.) Cabrera",Synonym,,L,TICA,B40A5EF4-3456-41A0-915A-C4F02158B255,126496-2,"""Revista Mus. La Plata, Secc. Bot. 4: 393""","","393","1941",gcc-93919
+gcc-157152,A,Compositae,,Hypochaeris,,"rosengurttii",var.,"rosengurttii","",Synonym,,L,TICA,807B01D3-D79D-4C6B-BE4B-FC07BF1DFEC5,,"","","","",gcc-14413
+gcc-92582,A,Compositae,,Hypochaeris,,"runcinata",,"","Gilib.",Synonym,Invalid,M,TICA,8916AB5F-418D-4861-A646-88EA9E464542,,"Fl. Lit. Inch. i. 226. 1782","","","1782",gcc-2280
+gcc-76089,A,Compositae,,Hypochaeris,,"rupestris",,"","Poepp. ex Sch.Bip.",Synonym,Invalid,M,TICA,A6D60FCC-6939-4C31-8B9B-63DC2F87D60A,,"in Nov. Act. Nat. Cur. xxi. I. (1845) 124.","","","1845",gcc-13802
+gcc-157040,A,Compositae,,Hypochaeris,,"rutea",,"","Talavera",Accepted,,M,TICA,E1C54B58-3CC1-4658-A08F-F9B48C60B6ED,225580-1,"""S. Talavera, in Lagascalia 9. 1980""","","234","1980",
+gcc-31707,A,Compositae,,Hypochaeris,,"rutea",,"","Talavera",Unresolved,,L,TICA,BA147A99-3CE9-47C3-A60D-3AC35F80662B,225580-1,"","","234","1980",
+gcc-3947,A,Compositae,,Hypochaeris,,"sagittata",,"","Phil.",Unresolved,,L,TICA,801D149A-1CE6-47B8-B369-0752CF75FE23,,"","","","",
+gcc-107292,A,Compositae,,Hypochaeris,,"saldensis",,"","Batt.",Accepted,,M,TICA,5202146C-0BD8-4736-BF08-A9C01F915595,225581-1,"","","423","1912",
+gcc-89271,A,Compositae,,Hypochaeris,,"salina",,"","Gren.",Synonym,,L,TICA,CBCDCBC5-6CE0-48BF-A4E2-8151DB23F561,225582-1,"","","456","1869",gcc-31523
+gcc-51591,A,Compositae,,Hypochaeris,,"salzmanniana",,"","DC.",Accepted,,M,TICA,4E05735D-609A-4339-80D4-5FA864B6C6B3,225583-1,"","","91","1838",
+gcc-2310,A,Compositae,,Hypochaeris,,"salzmanniana",subsp.,"maroccana","Förther & Podlech",Accepted,,L,TICA,ABC9CCDD-BF15-4ACF-B1EB-04348AD6119C,20010368-1,"","","41","2002",
+gcc-1071,A,Compositae,,Hypochaeris,,"salzmanniana",subsp.,"salzmanniana","",Synonym,,L,TICA,9EF5427F-6759-441F-BA3B-01F4FA451F4C,,"","","","",gcc-51591
+gcc-106856,A,Compositae,,Hypochaeris,,"sardoa",,"","Bacchetta & al.",Synonym,,M,TICA,7BAD26E7-3C28-4338-A801-A8C8E11F829C,,"Bacchetta & al. in Willdenowia 33. 2003.","","72","2003",gcc-101451
+gcc-114133,A,Compositae,,Hypochaeris,,"sardoa",,"","Bacch., Brullo & Terrasi",Unresolved,,L,TICA,4C6F3F0D-FEFC-43F0-B120-B929A45B4FFB,70029216-1,"Willdenowia 33(1): 72 (2003).","","72","2003",gcc-101451
+gcc-85879,A,Compositae,,Hypochaeris,,"schischkinii",,"","Gorschk.",Unresolved,,L,TICA,C5D43E96-EA3E-4978-AF50-79A9284179AF,,"","","","",
+gcc-22272,A,Compositae,,Hypochaeris,,"schizoglossa",,"","Cabrera",Accepted,,M,TICA,FFD67635-6899-4073-A3BD-29334E01BE05,126497-2,"","","44","1962",
+gcc-102567,A,Compositae,,Hypochaeris,,"schmalhausenii",,"","C.Winkl.",Unresolved,,L,TICA,241A71C7-B3D8-4404-8148-9F6EC89F20B7,,"","","","",
+gcc-93505,A,Compositae,,Hypochaeris,,"scorzonerae",,"","(DC.) F.Muell.",Accepted,,M,TICA,939F66AF-E6F2-472C-B9DA-8AE1DD16FB57,,"Sel. Pl. Indust. Cult. 107.","","","1872",
+gcc-69464,A,Compositae,,Hypochaeris,,"scorzonerae",var.,"glabrata","(DC.) Reiche",Synonym,,L,TICA,DAC491F1-137B-48A2-B458-E69B413A7BB9,,"Anales Univ. Chile 116: 601 (1905)","","601","1905",gcc-93505
+gcc-70431,A,Compositae,,Hypochaeris,,"scorzonerae",var.,"ramosa","(DC.) Reiche",Synonym,,L,TICA,FEF662CE-B6F3-454F-98AC-EE0E735953E3,,"","","","",gcc-93505
+gcc-68023,A,Compositae,,Hypochaeris,,"scorzonerae",var.,"scorzonerae","",Synonym,,L,TICA,63F303BD-F59A-486D-B7A5-DBC453BC56D2,,"""Select. Pl., ed. 4 163 (1881)""","","163","1881",gcc-93505
+gcc-127815,A,Compositae,,Hypochaeris,,"selloi",,"","Sch.Bip.",Unresolved,,L,TICA,FDA67A26-57FC-44FB-BE1D-D896876CD602,,"","","","",
+gcc-143362,A,Compositae,,Hypochaeris,,"sellowii",,"","(Sch.Bip.) Cabrera",Synonym,,L,TICA,E88B1695-22CD-4281-8CA0-FBB3000F0445,126498-2,"","","186","1963",gcc-95147
+gcc-141618,A,Compositae,,Hypochaeris,,"serioloides",,"","Bertol.",Accepted,,M,TICA,684F80E7-2F3D-4690-AA42-F7CC2051DE75,,"Misc. Bot. ii. 236.","","","1844",
+gcc-107840,A,Compositae,,Hypochaeris,,"sessiliflora",,"","Kunth",Unresolved,Illegitimate,L,TICA,0040EAC2-2BC7-413E-A842-AB0585643885,317594-2,"","","2","1820",
+gcc-156263,A,Compositae,,Hypochaeris,,"sessiliflora",f.,"sessiliflora","",Synonym,,L,TICA,D063AA00-210B-404B-A1D0-E9B43AADD7BF,,"","","","",gcc-107840
+gcc-65642,A,Compositae,,Hypochaeris,,"sessiliflora",var.,"sessiliflora","",Synonym,,L,TICA,051FD6A9-749B-46F7-8507-C86800EB6164,,"","","","",gcc-107840
+gcc-85164,A,Compositae,,Hypochaeris,,"setigera",,"","Sennen",Unresolved,,L,TICA,F13DDBD2-2B47-4C47-976C-7815A135E6E3,225589-1,"""Bull. Soc. Bot. France 74: 386, nomen""","","386","1927",
+gcc-116800,A,Compositae,,Hypochaeris,,"setosa",,"","(Wedd.) Rusby",Synonym,Illegitimate,M,TICA,F8BFCFB6-105D-4C58-864B-BF41A554596C,126501-2,"Bulletin of the New York Botanical Garden 4:","","402","1907",gcc-96075
+gcc-135423,A,Compositae,,Hypochaeris,,"setosa",,"","Formánek",Accepted,,M,TICA,75433EE2-193D-4A3F-8299-E9FADD9CB79D,,"""in Verh. Naturf. Ver. Brunn, xxxv. 164; et in Deutsch. Bot. Monatsschr. xv.(1897) 197.""","","164","1897",
+gcc-123674,A,Compositae,,Hypochaeris,,"shermanum",,"","Phil.",Accepted,,M,TICA,950FDBE9-D62A-4A4B-BF01-CEE19EC7796A,225441-1,"Anales Univ. Chile lxxxvii. (1894) 323","","323","1894",
+gcc-122978,A,Compositae,,Hypochaeris,,"sichorioides",,"","Larrañaga",Accepted,,M,TICA,A5519FDA-2EFC-45ED-AAB1-CD43986AC0B6,126502-2,"","","241","1923",
+gcc-89668,A,Compositae,,Hypochaeris,,"sicula",,"","Ucria",Synonym,,M,TICA,CF4AD6AD-AB44-4880-B69D-82371E59F793,225594-1,"","","254","1793",gcc-101451
+gcc-9741,A,Compositae,,Hypochaeris,,"simplex",,"","Mérat",Synonym,,M,TICA,B124D134-9711-4707-B8C8-123483730A8D,225595-1,"","","310","1812",gcc-105693
+gcc-106170,A,Compositae,,Hypochaeris,,"sonchoides",,"","Bertero ex Sch.Bip.",Unresolved,,L,TICA,4991B497-E41A-437B-BD01-A72E3BA90C91,225596-1,"in Nov. Act. Nat. Cur. xxi. I. (1845) 117.","","xxi. I.  117","1845",
+gcc-93573,A,Compositae,,Hypochaeris,,"sonchoides",,"","Kunth",Synonym,,L,TICA,7FA340D6-A2A0-42DC-8D40-8B0368AF49B4,126503-2,"","","2","1820",gcc-107840
+gcc-146956,A,Compositae,,Hypochaeris,,"sonchoides",var.,"sonchoides","",Synonym,,L,TICA,C26DEFE7-9087-4007-8267-239A8E192CFD,,"","","","",gcc-107840
+gcc-79412,A,Compositae,,Hypochaeris,,"soratensis",,"","Hieron.",Accepted,,M,TICA,5E454648-56C4-4CB6-8F2F-6B67CDCCCF71,,"Bot. Jahrb. Syst. 28: 659","","659","1901",
+gcc-153343,A,Compositae,,Hypochaeris,,"soratensis",var.,"soratensis","",Synonym,,L,TICA,7B28645A-25EE-45BD-BCF1-AC605760BE7F,,"","","","",gcc-79412
+gcc-135150,A,Compositae,,Hypochaeris,,"spathulata",,"","(J.Rémy) Reiche",Accepted,,M,TICA,68F984E1-48BD-4DD2-B141-E957A3A58B68,126508-2,"","","603","1905",
+gcc-66585,A,Compositae,,Hypochaeris,,"spathulata",var.,"chiloensis","(J.Rémy) Reiche",Synonym,,L,TICA,9316DA2C-745C-4D3B-91B8-CFE898DBB68F,,"Anales Univ. Chile 116: 604 (1905)","","604","1905",gcc-135150
+gcc-54295,A,Compositae,,Hypochaeris,,"spathulata",var.,"spathulata","",Synonym,,L,TICA,BB390F94-2C66-4E40-852F-6CDB90102AA2,,"Anales Univ. Chile 116: 603 (1905)","","603","1905",gcc-135150
+gcc-132297,A,Compositae,,Hypochaeris,,"spinneri",,"","Beauverd",Synonym,,M,TICA,8B58D78A-9079-46C4-BC66-E2E958C9D865,,"","","177","1923",gcc-111592
+gcc-145091,A,Compositae,,Hypochaeris,,"spinuligera",,"","(Phil.) Reiche",Synonym,,L,TICA,16061CA4-B1A0-4C84-BC9C-FFA40346C1E5,126510-2,"","","594","1905",gcc-123492
+gcc-127311,A,Compositae,,Hypochaeris,,"stellata",,"","Gaterau",Synonym,Illegitimate,M,TICA,5BE8094E-E59C-4109-8ADF-D756C138F3E2,225601-1,"Fl. Montaub. 140.","","140","1789",gcc-105693
+gcc-48689,A,Compositae,,Hypochaeris,,"stenocephala",,"","(A.Gray ex Wedd.) Kuntze",Synonym,Illegitimate,M,TICA,B4D6F1DC-41CD-4FCF-938F-5A3555AE0C4E,225602-1,"Revis. Gen. Pl. 3[3]: 160","","160","1898",gcc-8323
+gcc-63721,A,Compositae,,Hypochaeris,,"stenocephala",var.,"integrifolia","Kuntze",Synonym,,L,TICA,15D82DB2-37D0-4C20-A810-B8EDD2F81260,126512-2,"","","160","1898",gcc-8323
+gcc-145427,A,Compositae,,Hypochaeris,,"stenocephala",var.,"stenocephala","",Synonym,,L,TICA,404CE38D-3097-4E6D-8E98-03DA45FD6418,,"","","","",gcc-8323
+gcc-77074,A,Compositae,,Hypochaeris,,"stenophylla",,"","Dusén",Synonym,,L,TICA,64A3F56C-FD3F-487B-8C4E-660D7C2544FF,225603-1,"","","49","1907",gcc-121037
+gcc-65342,A,Compositae,,Hypochaeris,,"stenophylla",var.,"integrifolia","Kuntze",Synonym,,L,TICA,2DF9AD58-7180-48DF-93A1-C614018F1AB9,,"","","","",gcc-12318
+gcc-20925,A,Compositae,,Hypochaeris,,"stenophylla",var.,"laciniata","Hicken",Synonym,,L,TICA,850CFC09-45E4-4E3A-9F8D-26B2ED636C85,126515-2,"Darwiniana 1: 74","","74","1923",gcc-121037
+gcc-52675,A,Compositae,,Hypochaeris,,"stenophylla",var.,"stenophylla","",Synonym,,L,TICA,61E601F7-9BA8-411A-8397-61A315D2D430,,"","","","",gcc-121037
+gcc-1078,A,Compositae,,Hypochaeris,,"strigosa",,"","Sol. ex Lowe",Synonym,Invalid,M,TICA,1FBCA174-5209-4157-8E1A-01F8F0A416C0,,"Man. Fl. Mad. i. 537.","","","1868",gcc-32037
+gcc-139747,A,Compositae,,Hypochaeris,,"stuebelii",,"","Hieron.",Synonym,,L,TICA,529D44C8-6952-4777-BD4F-F36F87E0CB21,126516-2,"","","373","1896",gcc-107840
+gcc-42594,A,Compositae,,Hypochaeris,,"subalpina",,"","Schur",Synonym,,M,TICA,61A0518A-B2DE-4543-9D0C-4EE3E45DA81A,225606-1,"Enum. Pl. Transsilv. 365. 1866 [Apr-Jun 1866]","","365","1866",gcc-2280
+gcc-20315,A,Compositae,,Hypochaeris,,"taltalensis",,"","Reiche",Unresolved,,L,TICA,42B81DC7-3B61-43C7-8B47-258F7D2750C6,,"","","","",
+gcc-113998,A,Compositae,,Hypochaeris,,"taraxacifolia",,"","Loisel.",Synonym,Illegitimate,L,TICA,41BEC483-A2BE-470F-9880-B8D930EE1D69,,"in Mem. Soc. Linn. Par. vi. (1827) 425.","","","1827",gcc-31523
+gcc-137958,A,Compositae,,Hypochaeris,,"taraxacifolia",,"","(Sch.Bip.) Baker",Unresolved,,L,TICA,90920159-D32B-4D96-A957-EF8EF6AF67B2,,"","","","",
+gcc-6332,A,Compositae,,Hypochaeris,,"taraxacifolia",,"","Moench",Synonym,,M,TICA,E5880C63-2A6B-4ADC-9666-0BC9B38D55D6,225608-1,"Suppl. Meth. (Moench) 224. 1802 [2 May 1802]","","224","1802",gcc-97661
+gcc-11774,A,Compositae,,Hypochaeris,,"taraxacoides",,"","(Loisel.) O.Hoffm.",Synonym,,M,TICA,DDB2FCF8-C62E-428C-830B-15EB63BCADFC,,"""O. Hoffm. in Engler & Prantl, Nat. Pflanzenfam. 4(5). 1893.""","","363","1893",gcc-139726
+gcc-12318,A,Compositae,,Hypochaeris,,"taraxacoides",,"","(Walp.) Benth. & Hook.f.",Unresolved,Illegitimate,L,TICA,EE76823B-867B-4AC8-98E2-16F754569E75,225609-1,"Gen. ii. 519.","","519","1873",
+gcc-22326,A,Compositae,,Hypochaeris,,"taraxacoides",,"","Pourr. ex Steud.",Synonym,,M,TICA,E9229A00-2552-4940-B237-2950005E446C,225610-1,"""Nomencl. Bot. (Steudel) 422, 618""","","618","1821",gcc-97661
+gcc-8323,A,Compositae,,Hypochaeris,,"taraxacoides",,"","(Meyen & Walp.) Ball",Accepted,,M,TICA,6559D935-E23D-4546-AE7E-0F7DE58797FA,296211-2,"","","48","1885",
+gcc-146486,A,Compositae,,Hypochaeris,,"taraxicoides",,"","(Meyen & Walp.) Britton",Synonym,,M,TICA,A78CC9FB-8166-4323-88DF-197CCEE1E2FD,,"","","","",gcc-8323
+gcc-23521,A,Compositae,,Hypochaeris,,"taraxicoides",,"","Benth. & Hook.f. ex B.D.Jacks.",Unresolved,Illegitimate,L,TICA,9F67BBFB-CD01-43F0-AA9C-2B82509DC8CB,,"Index Kewensis 1:","","","1893",
+gcc-131692,A,Compositae,,Hypochaeris,,"tenerifolia",,"","Macloskie",Unresolved,,L,TICA,A5A7889F-6969-450B-AE8A-E17CDEAD7F73,,"""in Scott, Rep. Princeton Univ. Exped. Patag. viii. 900 (1906).""","","900","",
+gcc-138186,A,Compositae,,Hypochaeris,,"tenerifolia",,"","Dusén",Unresolved,Illegitimate,L,TICA,2FFB9A15-403A-4B0A-B9D1-F0129D4C1696,,"","","121","1901",
+gcc-96831,A,Compositae,,Hypochaeris,,"tenerifolia",,"","Reiche",Unresolved,,L,TICA,5236DDA5-A97E-44BB-B499-927298A7E1DB,225612-1,"""Fl. Chile, v. 31 (1910).""","","v. 31","1910",
+gcc-9838,A,Compositae,,Hypochaeris,,"tenerifolia",var.,"glabrescens","(Kuntze) Cabrera",Synonym,,L,TICA,57BE4CA9-B67F-45C6-B54A-1261932A9C3F,,"""Revista Mus. La Plata, Secc. Bot. 2: 368""","","368","1939",gcc-52327
+gcc-43548,A,Compositae,,Hypochaeris,,"tenerifolia",var.,"tenerifolia","",Synonym,,L,TICA,792290B4-E66E-4EB2-BC8B-50BC21CBAA4C,,"","","","",gcc-138186
+gcc-4979,A,Compositae,,Hypochaeris,,"tenerifolius",,"","O.Hoffm.",Unresolved,,L,TICA,C6FDBA06-FB42-4970-B088-0947E248336A,1089451-2,"","","","",
+gcc-118953,A,Compositae,,Hypochaeris,,"tenorii",,"","Guss.",Synonym,,L,TICA,C72E79CC-F40D-4294-AA81-C4265DBDE93F,,"Fl. Sicul. Syn. ii. 423.","","","1844",gcc-31523
+gcc-33144,A,Compositae,,Hypochaeris,,"tenuiflora",,"","(Boiss.) Boiss.",Accepted,,M,TICA,F879F54B-B2BB-4DE9-B318-3D7A070E10D6,225614-1,"","","785","1875",
+gcc-123492,A,Compositae,,Hypochaeris,,"tenuifolia",,"","(Hook. & Arn.) Trev. ex Griseb.",Unresolved,Invalid,L,TICA,DCADD260-38F9-4811-80AF-CE73696E570D,225616-1,"","","218","1879",
+gcc-57578,A,Compositae,,Hypochaeris,,"tenuifolia",var.,"clarionoides","(J.Rémy) Bortiri",Synonym,,L,TICA,B20CE28C-068C-402A-AD27-8777134919DF,997212-1,"","","229","1997",gcc-115563
+gcc-59278,A,Compositae,,Hypochaeris,,"tenuifolia",var.,"eurylepis","(Phil.) Cabrera",Synonym,,L,TICA,056333E5-0265-4886-A59E-952397156509,126518-2,"Bol. Soc. Argent. Bot. 10: 190","","190","1963",gcc-123492
+gcc-2922,A,Compositae,,Hypochaeris,,"tenuifolia",var.,"linearifolia","(DC.) Bortiri",Synonym,,L,TICA,7A91B83E-C1F8-4699-BA20-056C0E58EB43,997213-1,"","","230","1997",gcc-123492
+gcc-337,A,Compositae,,Hypochaeris,,"thermarum",,"","Phil.",Accepted,,M,TICA,D88EB048-0941-488D-AAB4-009B8C3460D5,126519-2,"","","323","1894",
+gcc-43002,A,Compositae,,Hypochaeris,,"thracica",,"","Steven ex DC.",Synonym,,M,TICA,0B43886C-B665-40AC-9CCE-4FA4505F0D59,225617-1,"Prodr. (DC.) 7(1): 90","","90","1838",gcc-105693
+gcc-102093,A,Compositae,,Hypochaeris,,"thrincioides",,"","(J.Rémy) Reiche",Accepted,,M,TICA,7E28E98A-93EE-4E1F-B7E2-9E44B4D84BF5,126520-2,"","","598","1905",
+gcc-144680,A,Compositae,,Hypochaeris,,"toltensis",,"","Reiche",Accepted,,M,TICA,A99EE81B-5D57-4AED-B488-FEAADB73B530,126521-2,"","","596","1905",
+gcc-51631,A,Compositae,,Hypochaeris,,"tropicalis",,"","Cabrera",Accepted,,M,TICA,1DEC1D3F-80BB-47A4-B5D6-5FBB4635C342,126522-2,"","","191","1963",
+gcc-54168,A,Compositae,,Hypochaeris,,"tropicalis",var.,"australis","Cabrera",Synonym,,L,TICA,98EFB89F-C0C6-42B4-8FC2-6BEF0480B286,126523-2,"""Bol. Soc. Argent. Bot. 10: 194, fig. 11""","","194","1963",gcc-51631
+gcc-44178,A,Compositae,,Hypochaeris,,"tropicalis",var.,"tropicalis","",Synonym,,L,TICA,E04E3E2C-E2FB-4A25-95F9-51D009B3F420,,"Bol. Soc. Argent. Bot. 10(2-3): 191 (1963)","","191","1963",gcc-51631
+gcc-28463,A,Compositae,,Hypochaeris,,"tweediei",,"","(Hook. & Arn.) Cabrera",Synonym,,L,TICA,6BBBFA63-D560-48B6-8EB7-349CAB5B65C1,126524-2,"""in Not. Mus. La Plata, Bot., ii. 203 (1937).""","","203","1937",gcc-95147
+gcc-4401,A,Compositae,,Hypochaeris,,"tweedyi",,"","Hook. & Arn.",Synonym,,L,TICA,6954A67F-F410-4B84-A918-08319D230ADC,,"","","","",gcc-95147
+gcc-11269,A,Compositae,,Hypochaeris,,"tyrolensis",,"","schiw. ex DC.",Synonym,,M,TICA,1132FB51-4564-41C9-A029-15118898B80E,225622-1,"Prodr. (DC.) 7(1): 93","","93","1838",gcc-117067
+gcc-87881,A,Compositae,,Hypochaeris,,"uniflora",,"","Vill.",Accepted,,M,TICA,E4893AAD-39DC-4DD4-837B-7E39AB1DEC28,225624-1,"","","37","1779",
+gcc-6646,A,Compositae,,Hypochaeris,,"uniflora",subsp.,"facchiniana","(Ambrosi) Nyman",Synonym,,L,TICA,CA1D0E59-4BC1-477F-AF2C-0C55CAF75024,,"""Nyman, Consp. Fl. Eur. 1879.""","","470","1879",gcc-87881
+gcc-148104,A,Compositae,,Hypochaeris,,"uniflora",subsp.,"uniflora","",Synonym,,L,TICA,CD40C7A3-A306-404E-8FA7-3BA8DDC79026,,"","","","",gcc-87881
+gcc-824,A,Compositae,,Hypochaeris,,"urens",,"","L.",Synonym,,M,TICA,14D5CD6F-3D0B-4DEF-8010-018E546E1E53,225626-1,"Sp. Pl. 810.","","810","1753",gcc-101451
+gcc-52425,A,Compositae,,Hypochaeris,,"ushuaiae",,"","Skottsb.",Synonym,,L,TICA,BC0604BC-98AC-47A8-AF50-612FAAC513D3,126525-2,"","","37","1906",gcc-118876
+gcc-130506,A,Compositae,,Hypochaeris,,"variegata",,"","(Lam.) Baker",Accepted,,M,TICA,3453D1CD-0CC8-4E90-A8CF-DEB16A6A248E,,"","","333","1884",
+gcc-70908,A,Compositae,,Hypochaeris,,"variegata",var.,"pinnatifida","Speg.",Unresolved,,L,TICA,6989B875-A683-40C0-8A7C-F1E98AE7151E,126529-2,"Contribucion al estudio de la flora de la Sierra ...","","40","1896",gcc-93919
+gcc-153083,A,Compositae,,Hypochaeris,,"variegata",var.,"variegata","",Synonym,,L,TICA,13878C64-5CBF-4628-B76A-A6CD3E260E4F,,"","","","",gcc-130506
+gcc-130632,A,Compositae,,Hypochaeris,,"volckmannii",,"","(Phil.) Phil.",Synonym,,L,TICA,3BB1348F-1154-4979-A4C8-DEFE938613FB,126531-2,"","","317","1894",gcc-123492

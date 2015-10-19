@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-33776,A,Leguminosae,,Shuteria,,"africana",,"","Hook.f.",Synonym,,H,ILDIS,33776,,"","","","",ild-2522
+tro-13060986,A,Leguminosae,,Shuteria,,"anabaptis",,"","(Kurz) C.Y. Wu",Synonym,,M,TRO,13060986,518560-1,"J. W. China Border Res. Soc.","16: 173","173","1946",ild-33792
+ild-44512,A,Leguminosae,,Shuteria,,"anabaptist",,"","(Kurz) C.Y.Wu",Synonym,,H,ILDIS,44512,,"","","","",ild-33792
+ild-33791,A,Leguminosae,,Shuteria,,"annamica",,"","Gagnep.",Accepted,,H,ILDIS,33791,,"","","","",
+ild-46850,A,Leguminosae,,Shuteria,,"anomala",,"","Pamp.",Synonym,,H,ILDIS,46850,,"","","","",ild-41415
+ild-46857,A,Leguminosae,,Shuteria,,"bracteosa",,"","Clarke",Synonym,,H,ILDIS,46857,,"","","","",ild-46855
+kew-2590864,A,Leguminosae,,Shuteria,,"cavaleriei",,"","H.Lév.",Unresolved,,L,WCSP (in review),,518563-1,"Cat. Pl. Yunnan","161","","1916",
+ild-46999,A,Leguminosae,,Shuteria,,"densiflora",,"","Benth.",Synonym,,H,ILDIS,46999,,"","","","",ild-44515
+ild-46997,A,Leguminosae,,Shuteria,,"ferruginea",,"","(Kurz) Baker",Synonym,,H,ILDIS,46997,,"","","","",ild-33792
+ild-46858,A,Leguminosae,,Shuteria,,"ferruginea",var.,"bracteosa","Prain",Synonym,,L,ILDIS,46858,,"","","","",ild-46855
+ild-44517,A,Leguminosae,,Shuteria,,"glabrata",,"","Wight & Arn.",Synonym,,H,ILDIS,44517,,"","","","",ild-44515
+ild-33792,A,Leguminosae,,Shuteria,,"hirsuta",,"","Baker",Accepted,,H,ILDIS,33792,,"","","","",
+ild-32630,A,Leguminosae,,Shuteria,,"involucrata",,"","(Wall.) Wight & Arn.",Accepted,,H,ILDIS,32630,,"","","","",
+ild-44515,A,Leguminosae,,Shuteria,,"involucrata",var.,"glabrata","(Wight & Arn.) H.Ohashi",Accepted,,L,ILDIS,44515,,"","","","",
+ild-44513,A,Leguminosae,,Shuteria,,"involucrata",var.,"involucrata","",Synonym,,L,ILDIS,44513,,"","","","",ild-32630
+ild-46998,A,Leguminosae,,Shuteria,,"involucrata",var.,"sinensis","(Hemsl.) Niyomdham",Synonym,,L,ILDIS,46998,,"","","","",ild-32630
+tro-50242087,A,Leguminosae,,Shuteria,,"lancangensis",,"","Y.Y. Qian",Accepted,,M,TRO,50242087,70029187-1,"Guihaia","23(4): 307–308, pl. 1, f. 1–3","307","2003",
+tro-13060979,A,Leguminosae,,Shuteria,,"longipes",,"","Franch.",Synonym,,M,TRO,13060979,518569-1,"Pl. Delavay.","179","179","1889",tro-50175447
+ild-33788,A,Leguminosae,,Shuteria,,"pampininiana",,"","Hand.-Mazz.",Synonym,,H,ILDIS,33788,,"","","","",ild-32630
+kew-2591040,A,Leguminosae,,Shuteria,,"rotundifolia",,"","Miq.",Unresolved,,L,WCSP (in review),,518571-1,"Fl. Ned. Ind.","1(1): 221","","1855",
+ild-46852,A,Leguminosae,,Shuteria,,"siamensis",,"","Craib",Synonym,,H,ILDIS,46852,,"","","","",ild-46851
+ild-33786,A,Leguminosae,,Shuteria,,"sinensis",,"","Hemsl.",Synonym,,H,ILDIS,33786,,"","","","",ild-32630
+ild-33789,A,Leguminosae,,Shuteria,,"suffulta",,"","Benth.",Accepted,,H,ILDIS,33789,,"","","","",
+ild-33783,A,Leguminosae,,Shuteria,,"trisperma",,"","Miq.",Synonym,,H,ILDIS,33783,,"","","","",ild-41415
+ild-2989,A,Leguminosae,,Shuteria,,"vestita",,"","Wight & Arn.",Synonym,,H,ILDIS,2989,,"","","","",ild-32630
+ild-53309,A,Leguminosae,,Shuteria,,"vestita",,"","""sensu Benth.,  non Wight & Arn""",Misapplied,,H,ILDIS,53309,,"","","","",ild-30391
+ild-47000,A,Leguminosae,,Shuteria,,"vestita",var.,"densiflora","(Benth.) Baker",Synonym,,L,ILDIS,47000,,"","","","",ild-44515
+ild-44518,A,Leguminosae,,Shuteria,,"vestita",var.,"glabrata","(Wight & Arn.) Baker",Synonym,,L,ILDIS,44518,,"","","","",ild-44515
+ild-33785,A,Leguminosae,,Shuteria,,"vestita",var.,"involucrata","Baker",Synonym,,L,ILDIS,33785,,"","","","",ild-32630
+ild-33787,A,Leguminosae,,Shuteria,,"vestita",var.,"villosa","Pamp.",Synonym,,L,ILDIS,33787,,"","","","",ild-32630

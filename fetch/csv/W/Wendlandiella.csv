@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-214564,A,Arecaceae,,Wendlandiella,,"gracilis",,"","Dammer",Accepted,,H,WCSP,214564,268368-2,"Bot. Jahrb. Syst.","36(80): 32","","1905",
+kew-214565,A,Arecaceae,,Wendlandiella,,"gracilis",var.,"gracilis","",Synonym,,L,WCSP,214565,,"Unknown","","","",kew-214564
+kew-214566,A,Arecaceae,,Wendlandiella,,"gracilis",var.,"polyclada","(Burret) A.J.Hend.",Accepted,,L,WCSP,214566,981483-1,"Palms Amazon","88","","1995",
+kew-214567,A,Arecaceae,,Wendlandiella,,"gracilis",var.,"simplicifrons","(Burret) A.J.Hend.",Accepted,,L,WCSP,214567,981484-1,"Palms Amazon","88","","1995",
+kew-214568,A,Arecaceae,,Wendlandiella,,"polyclada",,"","Burret",Synonym,,H,WCSP,214568,268369-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 203","","1931",kew-214566
+kew-214569,A,Arecaceae,,Wendlandiella,,"simplicifrons",,"","Burret",Synonym,,H,WCSP,214569,268370-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 316","","1932",kew-214567

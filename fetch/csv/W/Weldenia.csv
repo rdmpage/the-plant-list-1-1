@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-272263,A,Commelinaceae,,Weldenia,,"candida",,"","Schult.f.",Accepted,,H,WCSP,272263,173591-1,"Flora","12: 3","","1829",
+kew-272264,A,Commelinaceae,,Weldenia,,"candida",f.,"caerulea","Matuda",Synonym,,L,WCSP,272264,268342-2,"Anales Inst. Biol. Univ. Nac. México","30: 112","","1959 publ. 1960",kew-272263
+tro-50336954,A,Commelinaceae,,Weldenia,,"candida",f.,"candida","",Synonym,,L,TRO,50336954,,"","","","",kew-272263
+kew-272265,A,Commelinaceae,,Weldenia,,"schultesii",,"","Schltdl.",Synonym,,H,WCSP,272265,173592-1,"Hort. Hal.","14","","1841",kew-272263

@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92401,A,Compositae,,Psilostrophe,,"bakeri",,"","Greene",Accepted,,M,TICA,A128B3AF-8216-4E85-9B87-88839A1C99DB,,"","","","1901",
+gcc-138547,A,Compositae,,Psilostrophe,,"biennis",,"","Auct.",Unresolved,,L,TICA,3519BE32-C666-49E3-80F7-F0D0C14E8362,,"","","186","1903",
+gcc-87007,A,Compositae,,Psilostrophe,,"cerifera",,"","A.Nelson",Unresolved,,L,TICA,513E97E9-88A7-40C2-A022-7C44C5F2800F,212089-2,"","","21","1903",
+gcc-60812,A,Compositae,,Psilostrophe,,"cerifera",var.,"cerifera","",Synonym,,L,TICA,EA7BBCAA-DC94-4484-9174-A16EEC0554AE,1155126-2,"Proc. Biol. Soc. Wash. 16: 21. 1903","","21","1903",gcc-87007
+gcc-102682,A,Compositae,,Psilostrophe,,"cooperi",,"","(A.Gray) Greene",Accepted,,M,TICA,FE329C6D-85D1-440B-A83C-9FADD7D6235F,212091-2,"","","176","1891",
+gcc-122866,A,Compositae,,Psilostrophe,,"divaricata",,"","Rydb.",Unresolved,,L,TICA,EFD5AE38-BFD9-4E85-BBC8-CCFEC47F568E,212092-2,"N. Amer. Fl. 34","","8","1914",
+gcc-19572,A,Compositae,,Psilostrophe,,"gnaphalioides",,"","DC.",Accepted,,M,TICA,C8C7470B-5B36-46A6-A187-24306AA548A4,,"","","","",
+gcc-96887,A,Compositae,,Psilostrophe,,"gnaphalodes",,"","DC.",Accepted,,L,TICA,49F8DDD9-1E6C-46BD-86F6-928F194056D1,239999-1,"Prodr. (DC.) 7(1): 261","","261","1838",
+gcc-71209,A,Compositae,,Psilostrophe,,"gnaphalodes",var.,"gnaphalodes","",Synonym,,L,TICA,9964F284-9C1D-4340-952E-F461EFAF0F30,,"","","","",gcc-96887
+gcc-54338,A,Compositae,,Psilostrophe,,"gnaphalodes",var.,"mexicana","(R.C.Br.) B.L.Turner",Accepted,,L,TICA,0C76FB32-5FAC-4A90-9BF4-6D3A637450E3,283929-2,"","","234","1988",
+gcc-82181,A,Compositae,,Psilostrophe,,"grandiflora",,"","Rydb.",Unresolved,,L,TICA,2A02A137-A122-4EF9-888D-71752C37BFF8,212094-2,"N. Amer. Fl. 34","","8","1914",gcc-47087
+gcc-80494,A,Compositae,,Psilostrophe,,"hartmanii",,"","Rydb.",Unresolved,,L,TICA,C6277680-38C8-4C95-94A9-6DB3BE5AA552,212095-2,"N. Amer. Fl. 34","","8","1914",
+gcc-44069,A,Compositae,,Psilostrophe,,"lanata",,"","Auct.",Unresolved,,L,TICA,4BB737FC-1611-4B51-8EFE-5199639A1CCC,240002-1,"Proc. Biol. Soc. Wash. xvi. 186.","","186","",
+gcc-87599,A,Compositae,,Psilostrophe,,"lanata",,"","(A.Nelson) ""Hay, Mill. & White""",Unresolved,,L,TICA,91259708-3E63-4487-8F0E-7DA4068CF2E8,,"Proc. Biol. Soc. Wash. 16: 186. 1903","","186","1903",
+gcc-131462,A,Compositae,,Psilostrophe,,"mexicana",,"","R.C.Br.",Synonym,,M,TICA,CCFC54BF-4569-47CF-B704-E0ED369FE974,212096-2,"""Brittonia 26: 115, fig. 1974""","","""115, fig""","1974",gcc-54338
+gcc-115720,A,Compositae,,Psilostrophe,,"pumila",,"","(M.E.Jones) Jones ex A.Nelson",Unresolved,,L,TICA,B13AFAAC-14E8-45EB-907B-BCD4ECB10152,212097-2,"","","22","1903",
+gcc-30989,A,Compositae,,Psilostrophe,,"pumila",,"","M.E.Jones",Unresolved,,L,TICA,4AFA83B0-1BEB-4DAC-8CBB-396181AED13A,1147948-2,"","","","",
+gcc-117521,A,Compositae,,Psilostrophe,,"sparsiflora",,"","(A.Gray) A.Nelson",Accepted,,M,TICA,46F6EC94-A38D-44A3-B7B9-C0E2D776F41C,212098-2,"","","23","1903",
+gcc-47087,A,Compositae,,Psilostrophe,,"tagetina",,"","(Nutt.) Greene",Accepted,,L,TICA,5F64C3FB-1791-4C7F-881D-573DE4D9C051,212099-2,"","","176","1891",
+gcc-60060,A,Compositae,,Psilostrophe,,"tagetina",var.,"cerifera","(A.Nelson) B.L.Turner",Synonym,,L,TICA,D11E74F5-F66C-41D8-BBE8-9B4B0E7B2785,283931-2,"","","234","1988",gcc-8844
+gcc-62491,A,Compositae,,Psilostrophe,,"tagetina",var.,"grandiflora","(Rydb.) Heiser",Synonym,,L,TICA,5B77E6C6-E86D-444E-A839-AF1E916C28D8,296204-2,"Ann. Missouri Bot. Gard. 31: 292. 1944","","292","1944",gcc-47087
+gcc-61101,A,Compositae,,Psilostrophe,,"tagetina",var.,"lanata","A.Nelson",Synonym,,L,TICA,3B062216-1CE8-4BB9-BD4F-A3DEE96DCBDE,212100-2,"Proc. Biol. Soc. Wash. 16: 22. 1903","","22","1903",gcc-47087
+gcc-67341,A,Compositae,,Psilostrophe,,"tagetina",var.,"tagetina","",Synonym,,L,TICA,21A07262-DDC6-4B65-B99F-D66D52722736,,"","","","",gcc-47087
+gcc-119881,A,Compositae,,Psilostrophe,,"tagetinae",,"","(Nutt.) Kuntze",Unresolved,,L,TICA,93938D16-0683-4A36-8DA3-C62DA93B6C13,,"Revisio Generum Plantarum","","358","1891",gcc-47087
+gcc-8844,A,Compositae,,Psilostrophe,,"villosa",,"","Rydb. ex Britton",Accepted,,M,TICA,6247A056-EDE2-4C36-8A44-108EC722FE46,212102-2,"","","1006","1901",

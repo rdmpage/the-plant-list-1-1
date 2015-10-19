@@ -1,0 +1,84 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-44303,A,Compositae,,Lagenophora,,"andina",,"","V.M.Badillo",Synonym,,M,TICA,5C719F73-0D76-4FE5-84EB-520EEA64C1C7,,"","","","1947",gcc-85716
+gcc-138152,A,Compositae,,Lagenophora,,"barkeri",,"","Kirk",Accepted,,M,TICA,4B09556B-7863-4C8D-A17A-EFFA5C3AD1A7,228412-1,"","","257","1899",
+gcc-145611,A,Compositae,,Lagenophora,,"barkeri",var.,"barkeri","",Synonym,,L,TICA,71A841C0-6D67-4F1D-9199-074F362F2D56,,"","","","",gcc-138152
+gcc-1416,A,Compositae,,Lagenophora,,"barkeri",var.,"multidentata","G.Simpson & J.S.Thomson",Synonym,,L,TICA,78F182A6-25F7-4184-9CE4-028EBD0A1C58,,"""Simpson, G.; Thomson, J. S. 1943: Notes on Some New Zealand Plants and Descriptions of New Species. Transactions and Proceedings of the New Zealand Institute 73: 155-171.""","","167","1943",gcc-129771
+gcc-4628,A,Compositae,,Lagenophora,,"bellioides",,"","(Cass.) Druce",Unresolved,,L,TICA,C7CC8AF6-75E6-4B58-84EB-089E6AFD0D1E,,"""The Botanical Exchange Club and Society of the British Isles Report for 1916, Suppl. 2 1917""","","630","1917",
+gcc-97148,A,Compositae,,Lagenophora,,"billardieri",,"","Cass.",Synonym,,M,TICA,EE51E5CC-3006-481A-B499-93388B65CA42,228414-1,"""F. Cuvier, Dict. Sci. Nat., ed. 2, 25 (1822)""","","111","1822",gcc-122160
+gcc-151962,A,Compositae,,Lagenophora,,"billardieri",var.,"billardieri","",Synonym,,L,TICA,BE9E74B5-3522-422E-B5FE-8F8B19BAA3AD,,"","","","",gcc-122160
+gcc-58175,A,Compositae,,Lagenophora,,"billardieri",var.,"media","DC.",Synonym,,L,TICA,BB1AFD19-2D13-4D18-8083-8C610872318B,,"Prodr. 5 (1836)","","307","1836",gcc-79111
+gcc-61418,A,Compositae,,Lagenophora,,"billardieri",var.,"microcephala","Benth.",Synonym,,L,TICA,D353F345-9B99-4479-B83A-A661EF537E01,,"Fl. Austral. 3 (1866)","","507","1866",gcc-79111
+gcc-26121,A,Compositae,,Lagenophora,,"billardieri",var.,"normalis","Benth.",Synonym,Invalid,L,TICA,FDB24A59-F0C0-43DE-B27F-304D5E9504EE,,"","","507","1867",gcc-79111
+gcc-5602,A,Compositae,,Lagenophora,,"billardieri",var.,"pusilla","DC.",Synonym,,L,TICA,9DBE226C-7F01-4C64-9B75-0A736381B878,,"""de Candolle, A. P. 1836: Prodromus Systematis Naturalis Regni Vegetabilis. 5. ""","","307","1836",gcc-122160
+gcc-90009,A,Compositae,,Lagenophora,,"commersonii",,"","(Cass.) Cass.",Synonym,,L,TICA,80B2CA53-CBE3-46FA-99F0-83058959EC23,228415-1,"Dictionnaire des Sciences Naturelles [Second edition] 25:","","110","1822",gcc-114392
+gcc-155542,A,Compositae,,Lagenophora,,"commersonii",var.,"commersonii","",Synonym,,L,TICA,670420B7-4C00-4492-97B3-DA8684903B26,,"","","","",gcc-114392
+gcc-64882,A,Compositae,,Lagenophora,,"commersonii",var.,"hirsuta","(Poepp. ex Less.) Hook.f.",Synonym,,L,TICA,8F758B8F-0BDF-4378-9285-C1E7AA18C0C1,134916-2,"""Bot. Antarct. Voy., Vol. 1, Fl. Antarct. 2: 307. 1846""","","307","1846",gcc-134338
+gcc-104732,A,Compositae,,Lagenophora,,"crepidiodes",,"","Koidz.",Unresolved,,L,TICA,7F3A6383-F80C-4CC3-AE87-A41E75A6E84B,228416-1,"Pl. Nov. Amami-Ohsim. 3","","3","1928",
+gcc-117216,A,Compositae,,Lagenophora,,"cuchumatanica",,"","Beaman & De Jong",Accepted,,M,TICA,F52F98E7-F000-4792-B066-C024B2E93554,279303-2,"Rhodora 67: 36","","36","1965",
+gcc-47606,A,Compositae,,Lagenophora,,"cuneata",,"","Petrie",Accepted,,M,TICA,A604202D-E766-4B1C-A7A8-58336BCAB025,228417-1,"","","106","1919",
+gcc-34546,A,Compositae,,Lagenophora,,"emphysopus",,"","Hook.f.",Synonym,,M,TICA,1B7A3D41-6BF6-4198-B6EB-400900D51173,,"Fl. Tasm. i. 189.","","189","1860",gcc-129062
+gcc-125824,A,Compositae,,Lagenophora,,"erici",,"","C.N.Forbes",Synonym,,M,TICA,C4764721-0BDD-48D9-BB77-D3F5EC68D9B7,,"""Occas. Pap. Bernice Pauahi Bishop Mus. vi. No. 5, 60 (1918).""","","60","",gcc-6448
+gcc-103111,A,Compositae,,Lagenophora,,"forsteri",,"","A.Cunn.",Unresolved,,L,TICA,4B2B3A8B-064D-43FF-89E4-A09161C2E833,,"""in Ann. Nat. Hist. Ser. I, ii. (1839) 126""","","126","",
+gcc-141149,A,Compositae,,Lagenophora,,"forsteri",,"","DC.",Synonym,,M,TICA,231AD2A7-007E-415F-819A-F6AC0E0B62B5,228421-1,"","","307","1836",gcc-25858
+gcc-152111,A,Compositae,,Lagenophora,,"forsteri",var.,"forsteri","",Synonym,,L,TICA,22C0FD03-8924-448B-8FFC-92C2D0C17BB6,,"","","","",gcc-25858
+gcc-102418,A,Compositae,,Lagenophora,,"gibbsiae",,"","Merr.",Accepted,,M,TICA,F6C688DC-43C7-405B-A91C-9F15FEEF981B,,"","","","1917",
+gcc-73387,A,Compositae,,Lagenophora,,"gibbsiae",f.,"gibbsiae","",Synonym,,L,TICA,DDEBDC58-E635-4392-BE14-16DB1A479E24,,"","","","",gcc-102418
+gcc-99546,A,Compositae,,Lagenophora,,"gracilis",,"","Steetz",Synonym,,M,TICA,3F5E6378-C316-4C1B-99AE-98924600F1B8,228423-1,"","","431","1845",gcc-79111
+gcc-91922,A,Compositae,,Lagenophora,,"gunniana",,"","Steetz",Unresolved,,L,TICA,FDE675B1-311A-4B9D-B9BD-877C65DE4CEC,228424-1,"","","431","1845",
+gcc-84143,A,Compositae,,Lagenophora,,"gunnii",,"","(Hook.f.) J.M.Black",Synonym,,M,TICA,524FE3FC-AC30-43A1-9B58-75E2BF03EEF7,228425-1,"","","58","1927",gcc-129062
+gcc-55985,A,Compositae,,Lagenophora,,"gunnii",var.,"gunnii","",Synonym,,L,TICA,2C8F4F1E-CE1C-4450-AB3A-7ABA5CE5DCD3,,"Bibliotheca Botanica","","""1207,""","1928",gcc-129062
+gcc-21808,A,Compositae,,Lagenophora,,"hariotii",,"","(Franchet) Franch.",Unresolved,Illegitimate,L,TICA,DF7DD719-500A-454D-9B24-285BBB47907B,288114-2,"","","344","1889",
+gcc-42318,A,Compositae,,Lagenophora,,"hariotii",,"","(Franch.) T.R.Dudley",Synonym,,L,TICA,A8F96D78-DF2F-4434-9EF6-4E6459AFA9BF,909020-1,"Rhodora 83(836): 481 (1981):","","481","1981",gcc-21808
+gcc-124297,A,Compositae,,Lagenophora,,"harveyi",,"","Thwaites",Unresolved,,L,TICA,F76AC892-B32D-4012-80F7-D05A5149E20D,228427-1,"Enum. Pl. Zeyl. (Thwaites) 162.","","162","",
+gcc-22990,A,Compositae,,Lagenophora,,"helena",,"","C.N.Forbes & Lydgate",Unresolved,,L,TICA,88930021-96FB-42C2-BABB-2A91DEC99315,228428-1,"Occas. Pap. Bernice Pauahi Bishop Mus.","","62","",gcc-43037
+gcc-127915,A,Compositae,,Lagenophora,,"hirsuta",,"","(Poeppig ex Less.) Dudley",Accepted,,M,TICA,CB93DF6C-7614-4479-8040-D8D1A173B288,,"","","","",
+gcc-134338,A,Compositae,,Lagenophora,,"hirsuta",,"","Poepp. ex Less.",Unresolved,,L,TICA,BCD803C2-55CE-4BF9-88FA-E79301EE06B4,228429-1,"Linnaea 6: 131. 1831","","131","1831",
+gcc-141230,A,Compositae,,Lagenophora,,"hirsuta",,"","auct. non Less.",Synonym,,L,TICA,84CFD676-0880-489E-9147-F6E8C0231E0D,,"","","","",gcc-21808
+gcc-55594,A,Compositae,,Lagenophora,,"hirsuta",var.,"gracilis","Albov",Synonym,,L,TICA,F563F797-6CFF-45D4-B797-773E9D8C0273,134919-2,"""Revista del Museo de La Plata (Nueva Serie), Seccion Botanica 7:""","","379","1896",gcc-21808
+gcc-146252,A,Compositae,,Lagenophora,,"hirsuta",var.,"hirsuta","",Synonym,,L,TICA,74EF8949-C3F0-4D8B-A912-14B85197D807,,"","","","",gcc-127915
+gcc-41448,A,Compositae,,Lagenophora,,"huegelii",,"","Benth.",Accepted,,M,TICA,64C287D3-0BD0-429D-84DA-4CBFF86DA699,228430-1,"","","56","1837",
+gcc-128387,A,Compositae,,Lagenophora,,"javanica",,"","Blume ex DC.",Synonym,Invalid,M,TICA,816FAF17-0885-48CA-81D3-D9E8E0BDEA65,228431-1,"","","308","1836",gcc-8410
+gcc-79111,A,Compositae,,Lagenophora,,"lanata",,"","A.Cunn.",Accepted,,M,TICA,6AEC4097-9872-407C-8FA0-6ABA00BD4853,,"""Cunningham, A. 1839: Florae insularum Novae Zelandiae precursor; or a specimen of the botany of the islands of New Zealand. Annals of Natural History 2: 125-132.""","","126","1839",
+gcc-24696,A,Compositae,,Lagenophora,,"latifolia",,"","Hook.f.",Unresolved,,L,TICA,C8C2E401-5DD8-41BF-B195-2D9CB561F8D2,228433-1,"","","113","1847",
+gcc-31453,A,Compositae,,Lagenophora,,"lechleri",,"","(Wedd.) Sch.Bip. ex Sch.Bip.",Synonym,Illegitimate,M,TICA,D4DE2B92-93CA-4052-A3AC-3A49E651BA07,228434-1,"","","54","1856",gcc-140752
+gcc-115161,A,Compositae,,Lagenophora,,"linearis",,"","Petrie",Synonym,,M,TICA,BFA3D6E7-67A0-4784-A481-BB807860843D,228436-1,"","","271","1893",gcc-78451
+gcc-136831,A,Compositae,,Lagenophora,,"magellanica",,"","Cass.",Unresolved,,L,TICA,EAF8D123-ACED-4955-B021-ED214B2F5606,228410-1,"Bull. Sci. Soc. Philom. Paris (1815) 199","","199","",
+gcc-130870,A,Compositae,,Lagenophora,,"maviensis",,"","H.Mann",Synonym,,M,TICA,8733E97E-82F0-4345-A532-DF89F35FF9E1,,"Proc. Amer. Acad. Arts","","172","",gcc-105301
+gcc-126187,A,Compositae,,Lagenophora,,"mikadoi",,"","Koidz.",Synonym,,M,TICA,2E7C70FF-8DF4-420A-85A2-D4C02B0FC6A0,228438-1,"""Pl. Nov. Amami-Ohsim. 17 (1928), in syn.""","","""17 , in syn.""","1928",gcc-19944
+gcc-19944,A,Compositae,,Lagenophora,,"mikadoi",,"","(Koidz.) Koidz. ex H.Koyama",Accepted,,M,TICA,20EA5A54-757E-416F-B1F6-24E01A4AC3CD,,"","","","",
+gcc-32422,A,Compositae,,Lagenophora,,"mikadoi",,"","Koidz. ex Kitam.",Unresolved,,L,TICA,81C104BF-E2E8-403A-B3B9-3C199420AE1D,228439-1,"""in Mem. Coll. Sci., Kyoto Imp. Univ., Ser. B, xiii. (Compos. Jap. 1.) 391-(1937).""","","xiii. (Compos. Jap. 1.) 391-","1937",
+gcc-44137,A,Compositae,,Lagenophora,,"minuscula",,"","Cuatrec.",Accepted,,M,TICA,C03FF371-B110-4F3A-87EB-51B8A70E8612,134813-2,"Phytologia 52(3)","","172","1982",
+gcc-113546,A,Compositae,,Lagenophora,,"montana",,"","Hook.f.",Accepted,,M,TICA,624A4900-4841-4E08-8EF9-B7DAF1E32B14,228440-1,"","","113","1847",
+gcc-68124,A,Compositae,,Lagenophora,,"montana",var.,"montana","",Synonym,,L,TICA,5D1A807B-8EC5-43F9-B303-DC6A6B7C4566,,"Hooker's London Journal of Botany 6 1847","","","1847",gcc-113546
+gcc-81824,A,Compositae,,Lagenophora,,"muscicola",,"","(Wedd.) Sch.Bip. ex Hohen.",Synonym,Illegitimate,M,TICA,C5E1DB69-89E0-4CE4-8CBF-70A84F5EA9CC,,"Bonplandia 4:","","54","1856",gcc-100761
+gcc-11049,A,Compositae,,Lagenophora,,"neocaledonica",,"","S.Moore",Unresolved,,L,TICA,15D865A4-F93F-4E68-B1D8-14A7FAF0C1DF,228443-1,"""J. Linn. Soc., Bot. xlv. 345 (1921)""","","345","1921",
+gcc-114392,A,Compositae,,Lagenophora,,"nudicaulis",,"","(Comm. ex Lam.) Dusén",Unresolved,Illegitimate,L,TICA,F41B5FFA-C3B4-448D-BF2C-B9BF348C20D2,134920-2,"Wiss. Ergebn. Schwed. Magellans. 3(5):","","98","1900",
+gcc-95902,A,Compositae,,Lagenophora,,"nudicaulis",,"","Reiche",Unresolved,,L,TICA,141749C5-CE21-4A30-8D0B-9064C106AA0E,228445-1,"""Fl. Chile, iii. 331.""","","iii. 331","",
+gcc-99183,A,Compositae,,Lagenophora,,"nudicaulis",,"","(Comm. ex Lam.) T.R.Dudley",Synonym,,L,TICA,B6D6C07E-AFC4-4658-9CB8-97C8BBD29A61,,"","","482","1981",gcc-114392
+gcc-83990,A,Compositae,,Lagenophora,,"panamensis",,"","S.F.Blake",Accepted,,M,TICA,861F556B-0259-4AEF-AA25-75848527EB0C,279304-2,"","","""314-317, pl. 23""","1939",
+gcc-129771,A,Compositae,,Lagenophora,,"petiolata",,"","Hook.f.",Accepted,,M,TICA,29722578-E98D-4C52-B120-DD0A58FF52A3,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","125","1853",
+gcc-148404,A,Compositae,,Lagenophora,,"petiolata",var.,"petiolata","",Synonym,,L,TICA,A4FC9027-E869-4CD6-A3EC-41DC998C1781,,"","","","",gcc-129771
+gcc-23605,A,Compositae,,Lagenophora,,"petiolata",var.,"β","Hook.f.",Synonym,,L,TICA,A80DF5BC-ED59-47AE-AF5C-2BA2C9074881,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","125-126","1853",gcc-83766
+gcc-76937,A,Compositae,,Lagenophora,,"pickeringii",,"","A.Gray",Unresolved,,L,TICA,E826EB56-FDD5-4AFA-BB00-65BD863F85F0,,"Proc. Amer. Acad. Arts v. (1861) 121.","","121","",gcc-104578
+gcc-30511,A,Compositae,,Lagenophora,,"pilosa",,"","Blume ex DC.",Unresolved,,L,TICA,3BE0B976-E587-4990-AFB6-3874C9AEBE12,228449-1,"Prodr. (DC.) 5: 308","","308","1836",
+gcc-124652,A,Compositae,,Lagenophora,,"pinnatifida",,"","Hook.f.",Accepted,,M,TICA,8847F8C0-D681-4799-85B2-D136B48E4F57,,"","","126","1853",
+gcc-69492,A,Compositae,,Lagenophora,,"pinnatifida",var.,"hirsutissima","Cockayne",Synonym,,L,TICA,0C63C6BF-4442-4C31-929A-E6D7D3330F97,,"""Cockayne, L. 1916: Notes on New Zealand Floristic Botany, including Descriptions of New Species, etc. (No. 1). Transactions of the New Zealand Institute 48: 193-202.""","","197","1916",gcc-124652
+gcc-150528,A,Compositae,,Lagenophora,,"pinnatifida",var.,"pinnatifida","",Synonym,,L,TICA,1A648C72-C98F-41FF-94E6-70B2EEAE9E7C,,"","","","",gcc-124652
+gcc-25463,A,Compositae,,Lagenophora,,"pinnatifida",var.,"tenuifolia","Cockayne",Synonym,,L,TICA,E6DD7404-6EB5-4D7C-8F27-2F024157BDFF,,"""Cockayne, L. 1916: Notes on New Zealand Floristic Botany, including Descriptions of New Species, etc. (No. 1). Transactions of the New Zealand Institute 48: 193-202.""","","197","1916",gcc-122160
+gcc-25858,A,Compositae,,Lagenophora,,"pumila",,"","(G.Forst.) Cheeseman",Accepted,,M,TICA,50BE66A8-D0F2-4762-9786-2FC80231C872,228451-1,"""in Chilton, Subantarctic Isl. N. Z. ii. 412 (1909).""","","412","1909",
+gcc-53770,A,Compositae,,Lagenophora,,"pumila",var.,"barkeri","(Kirk) G.Simpson",Synonym,,L,TICA,3A372DF6-42A0-471F-B744-68B89BEC8E30,,"""Simpson, G. 1945: Notes on Some New Zealand Plants and Descriptions of New Species (No. 4). Transactions of the Royal Society of New Zealand 75: 187-202.""","","197","1945",gcc-138152
+gcc-67296,A,Compositae,,Lagenophora,,"pumila",var.,"multidentata","(G.Simpson & J.S.Thomson) G.Simpson",Synonym,,L,TICA,6EBF4F99-0AFC-45BD-ADDA-D6081A76B22C,,"""Simpson, G. 1945: Notes on Some New Zealand Plants and Descriptions of New Species (No. 4). Transactions of the Royal Society of New Zealand 75: 187-202.""","","197","1945",gcc-129771
+gcc-153330,A,Compositae,,Lagenophora,,"pumila",var.,"pumila","",Synonym,,L,TICA,C2397FDD-C5BC-4220-91AA-AC06809EC504,,"","","","",gcc-25858
+gcc-68515,A,Compositae,,Lagenophora,,"pumila",var.,"purpurea","(Kirk) G.Simpson",Synonym,,L,TICA,8808072C-ECBE-42EA-A364-DF6369EC50A9,,"""Simpson, G. 1945: Notes on Some New Zealand Plants and Descriptions of New Species (No. 4). Transactions of the Royal Society of New Zealand 75: 187-202.""","","196","1945",gcc-129771
+gcc-7560,A,Compositae,,Lagenophora,,"purpurascens",,"","Phil.",Synonym,,L,TICA,AF7C38A6-ADDC-4A63-94EC-0E081B26B908,228452-1,"Anales Univ. Chile (1873) 489.","","489","1873",gcc-114392
+gcc-118761,A,Compositae,,Lagenophora,,"purpurea",,"","Kirk",Synonym,,M,TICA,1336D8C5-3187-473A-A8A6-C3B0DFE3EA93,,"","","257-258","1899",gcc-129771
+gcc-119221,A,Compositae,,Lagenophora,,"sakirana",,"","Cuatrec.",Accepted,,M,TICA,83ACBB24-CA62-4512-932F-C4AE072E884E,279301-2,"Phytologia 52(3): 170. 1982.","","170","1982",
+gcc-107968,A,Compositae,,Lagenophora,,"solenogyne",,"","F.Muell.",Unresolved,,L,TICA,8FB73991-FEAE-40C6-B49E-AB4A839F6EC5,,"Fragm. (Mueller) v. 62.","","62","",
+gcc-8703,A,Compositae,,Lagenophora,,"solenogyne",,"","Benth.",Unresolved,,L,TICA,0DF9E6CF-8B2E-4EE5-80B4-1043135B0995,,"Flora Australiensis 3  1867","","3","1867",
+gcc-122160,A,Compositae,,Lagenophora,,"stipitata",,"","(Labill.) Druce",Accepted,,M,TICA,74DFD371-080B-441F-8C75-CB6466767680,228455-1,"""(Report,) Botanical Society and Exchange Club of the British Isles 4:""","","630","1917",
+gcc-47858,A,Compositae,,Lagenophora,,"stipitata",var.,"montana","(Hook.f.) Cabrera",Synonym,,L,TICA,3984104C-63C2-43D6-8810-58A9F308CC81,,"""Cabrera, A. L. 1966: The Genus <i>Lagenophora </i>(Compositae). Blumea 14: 285-307.""","","303","1966",gcc-113546
+gcc-71437,A,Compositae,,Lagenophora,,"stipitata",var.,"stipitata","",Synonym,,L,TICA,81482FE8-7481-49EA-8201-F645F9B58EFE,,"Bibliotheca Botanica 89(4)  1928 =  Bibliotheca Botanica Heft 89 (Feb. 1930) 653","","89(4)  1928 =   Heft 89 (Feb. 1930) 653","",gcc-122160
+gcc-83766,A,Compositae,,Lagenophora,,"strangulata",,"","Colenso",Accepted,,M,TICA,78788246-66FD-4150-AE57-74FC82A34DC5,228456-1,"","","471","1890",
+gcc-106223,A,Compositae,,Lagenophora,,"sundana",,"","Miq.",Synonym,,M,TICA,7218F1D0-D172-4782-AF88-A749FF04B188,,"","","32","1856",gcc-79111
+gcc-133765,A,Compositae,,Lagenophora,,"viridis",,"","H. St. John",Synonym,,M,TICA,39F9DFAB-5E16-4694-B883-E64212C2C1F9,228458-1,"""in Pac. Sci., 25(1): 76 (1972).""","","76","1972",gcc-105301
+gcc-143812,A,Compositae,,Lagenophora,,"westonii",,"","Cuatrec.",Accepted,,M,TICA,CE708F37-C364-4B6D-97B8-FCB7E8BDC9B5,279302-2,"Phytologia 52: 169 (-170). 1982","","169","1982",

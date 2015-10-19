@@ -1,0 +1,643 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-95375,A,Compositae,,Haplopappus,,"aberrans",,"","(A.Nelson) H.M.Hall",Synonym,,M,TICA,56C12D18-0962-4EBC-B679-8F2C281CF961,117390-2,"Publications of the Carnegie Institution of Washington 389:","","185","1928",gcc-129751
+gcc-7602,A,Compositae,,Haplopappus,,"acanthodon",,"","Phil.",Synonym,,M,TICA,CEA7F612-7B44-47D7-99BC-0E1C23956A35,117391-2,"","","603","1894",gcc-138985
+gcc-8886,A,Compositae,,Haplopappus,,"acaulis",,"","(Nutt.) A.Gray",Synonym,,M,TICA,190D8432-276F-4331-97AE-109F2DC92636,117392-2,"","","353","1868",gcc-115519
+gcc-67726,A,Compositae,,Haplopappus,,"acaulis",subsp.,"acaulis","",Synonym,,L,TICA,C1AAA83F-B71A-4997-9154-D981EE5F89EF,,"","","","",gcc-115519
+gcc-9491,A,Compositae,,Haplopappus,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,97626161-9BA6-468A-A5A8-11B75ECEFDBE,,"","","","",gcc-115519
+gcc-44442,A,Compositae,,Haplopappus,,"acaulis",var.,"atwoodii","S.L.Welsh",Synonym,,L,TICA,6BF56145-6BD2-4A74-BD3F-525990698456,60437316-2,"""Utah Fl., ed. 3 197. 2003""","","197","2003",gcc-115519
+gcc-48189,A,Compositae,,Haplopappus,,"acaulis",var.,"glabratus","D.C.Eaton",Synonym,,L,TICA,9487E8E4-8EA2-42EC-AE14-5950CA24216C,117394-2,"Botany [Fortieth Parallel]","","161","1871",gcc-115519
+gcc-59606,A,Compositae,,Haplopappus,,"acaulis",subsp.,"glabratus","(D.C.Eaton) H.M.Hall",Synonym,,L,TICA,6D3EBEF0-4092-4ECE-B279-97CDC5513418,117393-2,"Publ. Carnegie Inst. Wash. 389: 166. 1928","","166","1928",gcc-115519
+gcc-49211,A,Compositae,,Haplopappus,,"acaulis",subsp.,"typicus","H.M.Hall",Synonym,,L,TICA,B55ED840-F069-492C-B9A9-5B22469195FC,117395-2,"""Publ. Carnegie Inst. Wash. 389: 165, fig. 53. 1928""","","""165, fig. 53""","1928",gcc-115519
+gcc-1362,A,Compositae,,Haplopappus,,"acerosus",,"","(Bertero) Bertero ex Phil.",Unresolved,,L,TICA,8168EB31-9633-4271-86EF-0274D87149C3,177871-1,"Linnaea 28: 724. 1858","","724","1858",
+gcc-52503,A,Compositae,,Haplopappus,,"acerosus",,"","Bertero",Accepted,,M,TICA,3869D0E0-558E-4D96-A3E9-6150CAB752CA,117396-2,"","","","",
+gcc-143392,A,Compositae,,Haplopappus,,"acradenius",,"","(Greene) S.F.Blake",Synonym,,M,TICA,323FA167-16FE-413E-AB6A-FBC7241E0518,,"","","","1925",gcc-11643
+gcc-54713,A,Compositae,,Haplopappus,,"acradenius",subsp.,"acradenius","",Synonym,,L,TICA,23568E8B-EBDB-493E-AE35-7031A9B7EB31,,"","","","",gcc-11643
+gcc-58519,A,Compositae,,Haplopappus,,"acradenius",var.,"acradenius","",Synonym,,L,TICA,DE3C2908-C132-410A-B0E8-8F789D1C7A38,,"","","","",gcc-11643
+gcc-5063,A,Compositae,,Haplopappus,,"acradenius",var.,"bracteosus","(Greene) McMinn",Synonym,,L,TICA,C4C4CEBC-19DA-4441-9469-09750D49D357,117399-2,"Man. Calif. Shrubs 574. 1939","","574","1939",gcc-35926
+gcc-68474,A,Compositae,,Haplopappus,,"acradenius",subsp.,"bracteosus","(Greene) H.M.Hall",Synonym,,L,TICA,CB9E00CC-1C16-4A36-8C53-DF2500E6F207,1134635-2,"Publ. Carnegie Inst. Wash. 389: 233. 1928","","233","1928",gcc-35926
+gcc-64663,A,Compositae,,Haplopappus,,"acradenius",subsp.,"eremophilus","(Greene) H.M.Hall",Synonym,,L,TICA,6B1169A5-98AD-42A5-8F63-C03B204E2108,1037935-2,"Publ. Carnegie Inst. Wash. 389: 233. 1928","","233","1928",gcc-57299
+gcc-64879,A,Compositae,,Haplopappus,,"acradenius",var.,"eremophilus","(Greene) Munz",Synonym,,L,TICA,7ABBED7F-4258-40F2-875E-C1E4E36B8C54,117401-2,"Man. S. Calif. Bot. 523. 1935","","523","1935",gcc-57299
+gcc-6682,A,Compositae,,Haplopappus,,"acuminatus",,"","DC.",Synonym,,M,TICA,81057350-66BC-4D40-9386-0C67B1D342F1,16484-2,"Prodr. (DC.) 5: 348","","348","1836",gcc-88282
+gcc-140633,A,Compositae,,Haplopappus,,"albicans",,"","Benoist",Unresolved,,L,TICA,1445EB07-1E54-4E88-B19B-F583D1311E19,117404-2,"Bull. Soc. Bot. France 83: 805","","805","1937",
+gcc-103957,A,Compositae,,Haplopappus,,"alpigenus",,"","Torr. & A.Gray",Synonym,,M,TICA,1F43918F-D125-4B7C-9F02-A26CF8143F9E,,"Fl. N. Amer. (Torr. & A. Gray) 2: 241","","","1842",gcc-112922
+gcc-22818,A,Compositae,,Haplopappus,,"alpinus",,"","L.C.Anderson & Goodrich",Synonym,,M,TICA,5D1ADEE5-D804-4FEE-B3B5-2A37A09D1B0A,277920-2,"""Great Basin Naturalist 40: 73 (-74), fig. 1980""","","""73 (-74), fig""","1980",gcc-35923
+gcc-90059,A,Compositae,,Haplopappus,,"alternifolius",,"","Steud.",Unresolved,,L,TICA,920C866D-C347-49C8-A378-831DFA3EBAAD,177875-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 87, sphalm.""","","87","1840",
+gcc-8108,A,Compositae,,Haplopappus,,"ameghinoi",,"","Speg.",Unresolved,,L,TICA,24DC5D7E-AB5A-47AE-8E7E-0F153AE69607,117406-2,"","","180","1899",
+gcc-85970,A,Compositae,,Haplopappus,,"andersonii",,"","(Rydb.) Blank.",Unresolved,,L,TICA,561EA472-0D31-41BA-8262-79E04F7DAFA0,117407-2,"","","100","1905",
+gcc-124912,A,Compositae,,Haplopappus,,"anethifolius",,"","Phil.",Synonym,,M,TICA,4C773683-853A-4502-A373-D1CDAECD8F58,117408-2,"","","595","1894",gcc-125503
+gcc-107437,A,Compositae,,Haplopappus,,"angustifolius",,"","(DC.) Reiche",Accepted,,M,TICA,C1746745-3606-4E14-B488-AA0DF1859A91,117409-2,"","","36","1901",
+gcc-152884,A,Compositae,,Haplopappus,,"angustifolius",subsp.,"angustifolius","",Synonym,,L,TICA,F3436FDA-C28C-418F-BD8D-A26D89048A45,,"","","","",gcc-107437
+gcc-117476,A,Compositae,,Haplopappus,,"annuus",,"","(Rydb.) Cory",Synonym,,M,TICA,805358ED-1E99-4B50-AE17-C0C18B8CD1DF,117410-2,"","","407","1936",gcc-88569
+gcc-21224,A,Compositae,,Haplopappus,,"anthylloides",,"","Meyen & Walp.",Accepted,,M,TICA,0CABE9A6-4795-46C3-AA8E-273353C6C6F7,117411-2,"","","261","1843",
+gcc-1394,A,Compositae,,Haplopappus,,"apargioides",,"","A.Gray",Synonym,,M,TICA,B63E6F58-5B48-44F2-BACD-0281A93ECD7E,177880-1,"Proc. Amer. Acad. Arts vii. (1868) 354.","","354","1868",gcc-78309
+gcc-28308,A,Compositae,,Haplopappus,,"araucanus",,"","Phil.",Synonym,,M,TICA,15D83839-F667-40EB-84C2-344B872EEAD1,177881-1,"Anales Univ. Chile (1873) 491.","","491","1873",gcc-125503
+gcc-42417,A,Compositae,,Haplopappus,,"arborescens",,"","(A.Gray) H.M.Hall",Synonym,,M,TICA,5181EE24-74D8-4254-948C-4E936AFF9CAF,117414-2,"","","273","1919",gcc-93709
+gcc-155498,A,Compositae,,Haplopappus,,"arborescens",var.,"arborescens","",Synonym,,L,TICA,E46805B5-E96D-4829-A86E-D97A2BB30E3E,,"","","","",gcc-93709
+gcc-67932,A,Compositae,,Haplopappus,,"arborescens",subsp.,"arborescens","",Synonym,,L,TICA,9565A741-CA61-46B7-BBD2-DB0954DB6D00,,"","","","",gcc-93709
+gcc-46786,A,Compositae,,Haplopappus,,"arborescens",subsp.,"parishii","(Greene) Moran",Synonym,,L,TICA,CF6C8F3B-B54C-4A18-BA0A-56AFA7F7551B,,"""Trans. San Diego Soc. Nat. Hist. 15: 152, footnote. 1969""","","","1969",gcc-109516
+gcc-58687,A,Compositae,,Haplopappus,,"arborescens",subsp.,"peninsularis","Moran",Synonym,,L,TICA,A3A7EDA0-B772-409A-BBB7-909105F50A96,,"Trans. San Diego Soc. Nat. Hist. 15","","","1969",gcc-28122
+gcc-68571,A,Compositae,,Haplopappus,,"arborescens",var.,"peninsularis","Moran",Synonym,,L,TICA,BCAD475B-7F2A-44F9-B1EB-DFCB067194EB,,"","","","1969",gcc-28122
+gcc-34317,A,Compositae,,Haplopappus,,"arbutoides",,"","J.Rémy",Synonym,,M,TICA,46247EB4-5A39-4BF5-B020-3F9C1C4D20CA,117417-2,"","","53","1849",gcc-7637
+gcc-155114,A,Compositae,,Haplopappus,,"arbutoides",var.,"arbutoides","",Synonym,,L,TICA,B8D444FC-A5BB-4149-9003-D147E50CADF4,,"","","","",gcc-7637
+gcc-53438,A,Compositae,,Haplopappus,,"arbutoides",var.,"glabratus","(Phil.) Reiche",Synonym,,L,TICA,696F6144-C672-42CE-8F59-664014C5FEEC,1055049-2,"""Anales Univ. Chile 109: 64. 1901 Reiche, Flora de Chile, 3: 314.  1902""","","","",gcc-7637
+gcc-66506,A,Compositae,,Haplopappus,,"arbutoides",var.,"glandulosa","Hicken",Synonym,,L,TICA,6C5D7135-FE41-44D7-B4D5-CF50511ED45F,117419-2,"Darwiniana 1: 72 (1923)","","72","1923",gcc-21224
+gcc-103194,A,Compositae,,Haplopappus,,"arenarius",,"","Benth.",Synonym,,L,TICA,160858EA-DD5E-459D-9D26-A0B561278196,117420-2,"Bot. Voy. Sulphur","","24","1844",gcc-143058
+gcc-71304,A,Compositae,,Haplopappus,,"arenarius",var.,"arenarius","",Synonym,,L,TICA,EED432A3-C137-433C-9C07-F537D1C7595F,,"","","","",gcc-143058
+gcc-56573,A,Compositae,,Haplopappus,,"arenarius",var.,"incisifolius","I.M.Johnst.",Synonym,,L,TICA,AB671442-91FD-4E8A-98C7-7F96F8158146,,"""Proc. Calif. Acad. Sci. ser. 4, 12: 1190. 1924""","","1190","1924",gcc-133381
+gcc-85221,A,Compositae,,Haplopappus,,"argenteus",,"","Steud.",Synonym,,L,TICA,FEC968F9-26CC-4F99-975F-7838025639D1,177885-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 112""","","112","1840",gcc-89158
+gcc-141472,A,Compositae,,Haplopappus,,"armerioides",,"","(Nutt.) A.Gray",Synonym,,M,TICA,CA472095-3E06-4781-911B-F781D387DA4C,117423-2,"Color. Exp. Surv. Bot. (1860) 16.","","","",gcc-114116
+gcc-95213,A,Compositae,,Haplopappus,,"armerioides",,"","Phil.",Synonym,,M,TICA,6D298D5E-D6F6-48D0-ACDA-8EC552535DB9,117424-2,"","","597","1894",gcc-95202
+gcc-51267,A,Compositae,,Haplopappus,,"armerioides",var.,"armerioides","",Synonym,,L,TICA,E874D91B-EFCA-4A36-9400-5F1222BDD004,,"","","","",gcc-114116
+gcc-63067,A,Compositae,,Haplopappus,,"armerioides",var.,"gramineus","S.L.Welsh & F.J.Sm.",Synonym,,L,TICA,921C4868-0DF9-4420-AAE3-B3DB949C1986,117425-2,"Great Basin Naturalist 43","","371","1983",gcc-59802
+gcc-124146,A,Compositae,,Haplopappus,,"assuensis",,"","(Kunth) S.F.Blake",Synonym,,M,TICA,E1A7DA9B-DC45-4C44-A94E-CFFFE91E09AF,117426-2,"American Journal of Botany 14(3):","","109","1927",gcc-50067
+gcc-15705,A,Compositae,,Haplopappus,,"aureus",,"","A.Gray",Synonym,,M,TICA,99D1D326-9EBA-4F83-8952-1D13A7DAE68A,177888-1,"","","76","1849",gcc-16513
+gcc-25421,A,Compositae,,Haplopappus,,"australis",,"","Phil.",Synonym,,M,TICA,4AB4AC7C-945F-4633-8BBA-2EEC9CFB402E,117428-2,"","","598","1894",gcc-7637
+gcc-42231,A,Compositae,,Haplopappus,,"axilliflorus",,"","Phil.",Unresolved,,L,TICA,ED4B9B28-1337-4C18-960A-4E3E3E199412,117429-2,"","","611","1894",
+gcc-126617,A,Compositae,,Haplopappus,,"baccharidifolius",,"","Phil.",Synonym,,M,TICA,BB909A84-570A-4362-90AE-D5B71FE208DE,117430-2,"","","606","1894",gcc-48321
+gcc-105422,A,Compositae,,Haplopappus,,"baccharoides",,"","Benth.",Unresolved,,L,TICA,C9A2D00E-24DC-4B37-8A05-A58A19BC3054,177889-1,"Bot. Voy. Sulphur 24","","24","",
+gcc-14510,A,Compositae,,Haplopappus,,"bartlettii",,"","S.F.Blake",Synonym,Illegitimate,M,TICA,D3F2C531-D887-4AA5-B1D3-1AE9CEA8DBA3,117432-2,"Journal of the Washington Academy of Sciences 22(13):","","382-383","1932",gcc-144564
+gcc-143615,A,Compositae,,Haplopappus,,"baylahuen",,"","J.Rémy",Accepted,,M,TICA,D43E6449-8EBB-4940-9F28-FC4B4037E173,117433-2,"","","42","1849",
+gcc-155509,A,Compositae,,Haplopappus,,"baylahuen",subsp.,"baylahuen","",Synonym,,L,TICA,76D72B66-F0A0-4DF5-B42F-D9C0F80FD280,,"","","","",gcc-143615
+gcc-12168,A,Compositae,,Haplopappus,,"bellidifolius",,"","Phil.",Accepted,,M,TICA,A56DCB48-771C-4A0E-88BF-16AEFD1212CE,117434-2,"","","593","1894",
+gcc-153526,A,Compositae,,Haplopappus,,"bellidifolius",var.,"bellidifolius","",Synonym,,L,TICA,9517B0B0-D54C-40A9-96BD-B0305BEF6F50,,"","","","",gcc-12168
+gcc-58329,A,Compositae,,Haplopappus,,"bellidifolius",var.,"brachylepis","(Phil.) Reiche",Synonym,,L,TICA,B49B0B5A-0441-45E2-B994-8DC2D0231760,,"""Anales Univ. Chile 109: 51. 1901 Reiche, Flora de Chile, 3: 301.  1902""","","","",gcc-21224
+gcc-100513,A,Compositae,,Haplopappus,,"bellidioides",,"","Hook.f.",Unresolved,,L,TICA,16281E49-5C69-4B09-BBB8-9ACCE7B1E1A5,177892-1,"","","vi.  112","1847",
+gcc-78234,A,Compositae,,Haplopappus,,"berberidis",,"","A.Gray",Synonym,,M,TICA,933922FC-13E8-4BFC-B825-68AE7780CCF7,,"Syn. Fl. N. Am. i. II. 126.","","","1884",gcc-120666
+gcc-80742,A,Compositae,,Haplopappus,,"berteroi",,"","DC.",Accepted,,M,TICA,39B27597-8C3F-4122-95AF-6E3C9F0CD086,177894-1,"Prodr. (DC.) 5: 348","","348","1836",
+gcc-154874,A,Compositae,,Haplopappus,,"berteroi",var.,"berteroi","",Synonym,,L,TICA,25943177-C907-42D1-98C4-CC6A0992C0E2,,"","","","",gcc-80742
+gcc-52867,A,Compositae,,Haplopappus,,"berteroi",var.,"lanceolatus","DC.",Synonym,,L,TICA,38309D4D-44FE-487E-93A1-62084A4AFAFE,117438-2,"Prodr. (DC.) 5: 348","","348","1836",gcc-138985
+gcc-19024,A,Compositae,,Haplopappus,,"bezanillanus",,"","(J.Rémy) Reiche",Accepted,,M,TICA,913C551C-0254-4F80-8177-232028CD7DF1,117439-2,"","","39","1901",
+gcc-84888,A,Compositae,,Haplopappus,,"blephariphyllus",,"","A.Gray",Synonym,,M,TICA,F32A5CF0-30D3-4C60-9C98-77781807C372,117440-2,"","","97","1852",gcc-134908
+gcc-75575,A,Compositae,,Haplopappus,,"bloomeri",,"","A.Gray",Synonym,,M,TICA,2D992E6A-5490-48CB-B3B3-62B9E19D29E2,,"Proc. Amer. Acad. Arts vi. (1865) 41.","","","1865",gcc-137752
+gcc-54845,A,Compositae,,Haplopappus,,"bloomeri",var.,"angustatus","A.Gray",Synonym,,L,TICA,A44D4E46-A0A1-4FBB-AD5B-715376A17393,,"Proc. Amer. Acad. Arts 7: 354. 1868 as Aplopappus","","","1868",gcc-137752
+gcc-148036,A,Compositae,,Haplopappus,,"bloomeri",subsp.,"bloomeri","",Synonym,,L,TICA,0D4348B6-C795-4BCD-9D70-3A5CCAAFB53D,,"","","","",gcc-137752
+gcc-55143,A,Compositae,,Haplopappus,,"bloomeri",var.,"bloomeri","",Synonym,,L,TICA,488B06BE-7C84-46E0-96DA-73AF7BB91AF4,,"","","","",gcc-137752
+gcc-54203,A,Compositae,,Haplopappus,,"bloomeri",subsp.,"compactus","H.M.Hall",Synonym,,L,TICA,17A1FE51-7E18-464C-8365-6C365425EC5A,277923-2,"""Publ. Carnegie Inst. Wash. 389: 199, fig. 1928""","","""199, fig""","1928",gcc-9851
+gcc-58737,A,Compositae,,Haplopappus,,"bloomeri",var.,"compactus","(H.M.Hall) S.F.Blake",Synonym,,L,TICA,A983F3B3-FE13-4D7A-887A-90FA3E039FC5,117445-2,"""Univ. Calif. Publ. Bot. 24: 231. 1951 as Aplopappus; Clokey, Fl. Charleston Mts. Clark County, Nevada, 183.  1951""","","231","1951",gcc-9851
+gcc-63395,A,Compositae,,Haplopappus,,"bloomeri",var.,"greenei","(A.Gray) Cronquist",Synonym,,L,TICA,84B18046-AF00-4C09-8E43-B68B6B1F22BA,979383-1,"","","220","1994",gcc-45878
+gcc-63729,A,Compositae,,Haplopappus,,"bloomeri",var.,"ophitidis","J.T.Howell",Synonym,,L,TICA,AE7A52BD-9F89-44DE-8B60-B90615753E3A,277924-2,"Leafl. W. Bot. 6","","85","1950",gcc-98436
+gcc-23686,A,Compositae,,Haplopappus,,"bloomeri",var.,"sonnei","(A.Gray) Greene",Synonym,,L,TICA,54C9D8AA-C98E-410C-B4E8-2BCA1EFB1685,117448-2,"Pittonia 2: 17. 1889","","17","1889",gcc-137752
+gcc-30011,A,Compositae,,Haplopappus,,"bloomeri",subsp.,"sonnei","H.M.Hall",Synonym,,L,TICA,AA00B414-B678-41A5-9271-378489E8CE43,117447-2,"Publ. Carnegie Inst. Wash. 389: 199. 1928","","199","1928",gcc-137752
+gcc-82975,A,Compositae,,Haplopappus,,"boelckei",,"","""Tortosa, Adr.Bartoli""",Accepted,,L,TICA,9ADBCE98-26B5-4A6F-9495-7340A0B720FE,,"Brittonia 54(1)","","50","2002",
+gcc-91734,A,Compositae,,Haplopappus,,"bolivensis",,"","Cabrera",Unresolved,,L,TICA,CA846799-B8D7-48A7-BC2A-8701F5C99444,117450-2,"Blumea 7(1): 193. 1952","","193","1952",
+gcc-14690,A,Compositae,,Haplopappus,,"brachylepis",,"","(A.Gray) H.M.Hall",Synonym,Illegitimate,M,TICA,E14AF8E5-A3D7-4EC4-AE85-1B3F0BE46416,117451-2,"","","273","1919",gcc-46814
+gcc-85064,A,Compositae,,Haplopappus,,"brachylepis",,"","Phil.",Synonym,,M,TICA,FF9A9B41-9F78-4636-9066-77D65CF47049,117452-2,"","","594","1894",gcc-21224
+gcc-100445,A,Compositae,,Haplopappus,,"brandegeei",,"","A.Gray",Synonym,,L,TICA,78BC678D-27D3-49AC-B49A-9AA56BF03BC4,,"Syn. Fl. N. Am. i. II. 132.","","","1884",gcc-108359
+gcc-103198,A,Compositae,,Haplopappus,,"breviradiatus",,"","Reiche",Unresolved,,L,TICA,1D229239-28DD-4AFC-A158-A0B7B066D80E,,"","","","1901",
+gcc-48081,A,Compositae,,Haplopappus,,"brickellioides",,"","S.F.Blake",Synonym,,M,TICA,9BF56CE2-33CA-4225-89A0-59185472F798,117455-2,"","","173","1922",gcc-131483
+gcc-31020,A,Compositae,,Haplopappus,,"bustillosianus",,"","J.Rémy",Unresolved,,L,TICA,98344510-1721-4B5D-83E3-396F511D2958,177902-1,"","","49","1849",gcc-7637
+gcc-22187,A,Compositae,,Haplopappus,,"caespitosa",,"","Nutt.",Synonym,,M,TICA,3D67A20B-4931-4A6A-B535-290DA646D1CF,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","330","1840",gcc-120267
+gcc-137822,A,Compositae,,Haplopappus,,"calendulaceus",,"","Griseb.",Synonym,,M,TICA,02E78304-A4F2-49A0-891A-EF447902441A,177904-1,"in Goett. Abh. xxiv. (1879) 179.","","179","1879",gcc-88282
+gcc-35333,A,Compositae,,Haplopappus,,"candollei",,"","Phil.",Synonym,,M,TICA,B26976C5-4B52-4E12-9933-41824375D0B3,117458-2,"","","599","1894",gcc-28302
+gcc-40764,A,Compositae,,Haplopappus,,"canescens",,"","DC.",Synonym,,M,TICA,4062F1DB-CA79-4AF2-9C7A-4B8B920A2EA4,177905-1,"Prodr. (DC.) 5","","349","1836",gcc-86614
+gcc-89158,A,Compositae,,Haplopappus,,"canescens",,"","Reiche",Unresolved,Illegitimate,L,TICA,E4290CA8-9656-4A84-B540-8112C920B7A3,117459-2,"","","38","1901",
+gcc-148510,A,Compositae,,Haplopappus,,"canescens",var.,"canescens","",Synonym,,L,TICA,A1490439-DE2E-4242-B799-4425EA73A988,,"","","","",gcc-86614
+gcc-65193,A,Compositae,,Haplopappus,,"canescens",var.,"exserens","Reiche",Synonym,,L,TICA,26FEF3B4-4741-4DF0-9992-C496C4D310CC,117461-2,"""Anales Univ. Chile 109: 38. 1901 Reiche, Flora de Chile, 3: 288.  1902""","","38","1901",gcc-89158
+gcc-37571,A,Compositae,,Haplopappus,,"canus",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,F8EC2DED-D37B-432E-BEFF-45A7B1CD909C,117462-2,"","","86","1922",gcc-123152
+gcc-105869,A,Compositae,,Haplopappus,,"carthamoides",,"","(Hook.) A.Gray",Synonym,,M,TICA,94EFAFD4-E351-45A3-9D47-A6879BE010C4,,"in Proc. Acad. Sc. Philad. (1863) 65.","","","",gcc-119400
+gcc-28080,A,Compositae,,Haplopappus,,"carthamoides",var.,"carthamoides","",Synonym,,L,TICA,FE0254E0-95B0-455B-BFFF-33DA4B1C257F,,"","","","",gcc-119400
+gcc-6335,A,Compositae,,Haplopappus,,"carthamoides",subsp.,"carthamoides","",Synonym,,L,TICA,5753CEA4-44D5-4AC4-8728-0BCA40E7DEF7,,"","","","",gcc-119400
+gcc-16538,A,Compositae,,Haplopappus,,"carthamoides",subsp.,"cusickii","(A.Gray) H.M.Hall",Synonym,,L,TICA,34D407A0-7AAF-431B-9FA0-1E90CE493AC5,117463-2,"Publ. Carnegie Inst. Wash. 389: 104. 1928","","104","1928",gcc-22865
+gcc-54651,A,Compositae,,Haplopappus,,"carthamoides",var.,"cusickii","A.Gray",Synonym,,L,TICA,7CFE68BC-10C2-47BC-BE16-6FBB6DC0532F,310396-2,"","","126","1884",gcc-22865
+gcc-57730,A,Compositae,,Haplopappus,,"carthamoides",var.,"erythropappus","(Rydb.) H.St.John",Synonym,,L,TICA,516A2653-EFB8-44EE-B5F5-88BF51E375CB,117466-2,"Fl. S.-e. Washington (St. John) 455. 1937","","455","1937",gcc-119400
+gcc-51582,A,Compositae,,Haplopappus,,"carthamoides",var.,"maximus","A.Gray",Synonym,,L,TICA,A7145325-5331-489D-86F5-5FA477B46252,117468-2,"""Syn. Fl. N. Amer. 1, pt. 2: 126. 1884 as Aplopappus""","","126","1884",gcc-130961
+gcc-14887,A,Compositae,,Haplopappus,,"carthamoides",subsp.,"rigidus","(Rydb.) H.M.Hall",Synonym,,L,TICA,72E51B1E-2F2D-416F-9909-1B948D579673,117469-2,"Publ. Carnegie Inst. Wash. 389: 103. 1928","","103","1928",gcc-119400
+gcc-66619,A,Compositae,,Haplopappus,,"carthamoides",var.,"rigidus","(Rydb.) M.Peck",Synonym,,L,TICA,3E63BB0C-E759-4EF7-A247-D02EE88B360A,117470-2,"""Man. Pl. Oregon 712. 1941 as Aplopappus; Madrono, 6: 136.  1941 [as Aplopappus]""","","712","1941",gcc-119400
+gcc-72683,A,Compositae,,Haplopappus,,"carthamoides",var.,"subsquarrosus","(Greene) Dorn",Synonym,,L,TICA,C8CD07B5-A60D-4C2E-B1AB-FFEFB671C990,973405-1,"","","295","1988",gcc-66109
+gcc-67497,A,Compositae,,Haplopappus,,"carthamoides",var.,"typicus","(H.M.Hall) Cronquist",Synonym,,L,TICA,955587C3-33AE-486F-A83A-D7B5421EE5B3,,"","","","",gcc-119400
+gcc-116009,A,Compositae,,Haplopappus,,"caucanus",,"","S.F.Blake",Unresolved,,L,TICA,10A25F4F-0BEB-4332-ADB7-BD774292171F,117473-2,"Amer. J. Bot. 14: 113. 1927","","113","1927",gcc-108614
+gcc-111239,A,Compositae,,Haplopappus,,"cerberoanus",,"","(J.Rémy) Reiche",Accepted,,M,TICA,228023E7-5714-44C5-B419-B2AC261B363F,117474-2,"","","42","1901",
+gcc-147047,A,Compositae,,Haplopappus,,"cerberoanus",subsp.,"cerberoanus","",Synonym,,L,TICA,2E495638-173A-4457-8EA3-256353E91551,,"","","","",gcc-111239
+gcc-113916,A,Compositae,,Haplopappus,,"cervinus",,"","S.Watson",Synonym,,M,TICA,7D7408D7-E29E-4988-96F0-B8AACF0799DD,117475-2,"","","","",gcc-131117
+gcc-42100,A,Compositae,,Haplopappus,,"chamissonis",,"","(Less.) DC.",Synonym,,M,TICA,10B868F3-BC2C-4AD8-AB6C-4DFDE12AFB53,177913-1,"Prodr. (DC.) 5: 347","","347","1836",gcc-129578
+gcc-138985,A,Compositae,,Haplopappus,,"chrysanthemifolius",,"","(Less.) DC.",Accepted,,M,TICA,AD518AE2-1270-457D-8199-F1C40A836769,177914-1,"Prodr. (DC.) 5: 348","","348","1836",
+gcc-86064,A,Compositae,,Haplopappus,,"chryseus",,"","(Kuntze) Cabrera",Accepted,,M,TICA,95CB92AB-6292-4FBC-8E5B-7A18CFA2E39F,117476-2,"","","54","1971",
+gcc-88672,A,Compositae,,Haplopappus,,"chrysocephalus",,"","Reiche",Synonym,,M,TICA,C8436030-4B06-4E4E-85F3-7FF486EBD59B,117477-2,"","","37","1901",gcc-42535
+gcc-91993,A,Compositae,,Haplopappus,,"chrysocephalus",,"","Remy",Synonym,,M,TICA,DC6FED22-EBAF-43DF-9AF8-879FB3F3F56B,,"Anales de la Universidad de Chile 109:","","37","1901",gcc-86064
+gcc-106616,A,Compositae,,Haplopappus,,"ciliatus",,"","(Nutt.) DC.",Synonym,,M,TICA,107E2C05-325A-4C52-A898-A8371DF07ABF,177916-1,"Prodr. (DC.) 5: 346","","346","1836",gcc-25796
+gcc-156161,A,Compositae,,Haplopappus,,"cinierariifolius",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,BD49FD34-F001-4533-961C-E7CA0350F29A,,"","","","",gcc-17438
+gcc-32756,A,Compositae,,Haplopappus,,"clementis",,"","(Rydb.) S.F.Blake",Synonym,,M,TICA,36D8C8A2-E03D-4E3F-9448-3CBD11F58B41,,"","","","1925",gcc-78211
+gcc-33022,A,Compositae,,Haplopappus,,"coloradoensis",,"","(A.Gray) R.L.Hartm. ex Dorn",Synonym,,M,TICA,B83E29CA-B9DC-4C43-B39B-3D3AD4F7CAFE,973406-1,"","","295","1988",gcc-88786
+gcc-142116,A,Compositae,,Haplopappus,,"compactus",,"","(H.M.Hall) L.C.Anderson",Synonym,,M,TICA,40FCF275-A432-4704-A3C3-F8EE2B05F79B,942072-1,"","","358","1983",gcc-9851
+gcc-29202,A,Compositae,,Haplopappus,,"contractus",,"","H.M.Hall",Synonym,,M,TICA,324A7BCE-10C7-4BE9-BC40-35FABA13C85C,297074-2,"","","155","1928",gcc-139637
+gcc-16275,A,Compositae,,Haplopappus,,"cooperi",,"","(A.Gray) H.M.Hall",Synonym,,M,TICA,49433127-C004-4360-9152-1E1B065A8EA3,117479-2,"","","275","1928",gcc-11524
+gcc-21274,A,Compositae,,Haplopappus,,"coquimbensis",,"","(Hook. & Arn.) Klingenb.",Unresolved,,L,TICA,7157D4B5-BFD9-4E96-BBB5-2754CF5E9959,77080741-1,"Biblioth. Bot. 157: 292","","292","2007",
+gcc-137043,A,Compositae,,Haplopappus,,"corniculatus",,"","Phil.",Synonym,,M,TICA,23A6CFBC-887B-4D65-9208-ED904ADB8428,117480-2,"","","609","1894",gcc-14502
+gcc-43059,A,Compositae,,Haplopappus,,"coronopifolius",,"","(Less.) DC.",Synonym,,M,TICA,793CE7C4-BC5B-4361-8A72-4FC18AF7D50B,177920-1,"Prodr. (DC.) 5: 347","","347","1836",gcc-7637
+gcc-70925,A,Compositae,,Haplopappus,,"coronopifolius",var.,"coronopifolius","",Synonym,,L,TICA,30AA931E-C8DA-45BD-80AE-F2017C109B30,,"","","","",gcc-7637
+gcc-69717,A,Compositae,,Haplopappus,,"coronopifolius",var.,"laxus","Phil.",Synonym,,L,TICA,A540ACE4-3D27-4325-9846-E8845F9B4AFC,117482-2,"Linnaea 33: 140. 1864","","140","1864",gcc-7637
+gcc-84616,A,Compositae,,Haplopappus,,"corymbosus",,"","(Phil.) Reiche",Synonym,,M,TICA,1A051ED1-D647-4608-8539-76EA3F50BDA9,,"","","","1901",gcc-113642
+gcc-129464,A,Compositae,,Haplopappus,,"coulteri",,"","A.Gray",Synonym,,M,TICA,04C0BE9B-8373-4862-BF40-DC4F6CB9DA6A,177922-1,"Pl. Fendl. 75.","","75","1849",gcc-135337
+gcc-5450,A,Compositae,,Haplopappus,,"crevinus",,"","S.Watson",Synonym,,M,TICA,090E8B4C-F2FB-4961-AE9B-0A27B1BF556A,,"American Naturalist 7(5):","","301","1873",gcc-131117
+gcc-15764,A,Compositae,,Haplopappus,,"crispus",,"","L.C.Anderson",Synonym,,M,TICA,DA3BB303-62B7-4B9D-A232-1D304BD573CB,277928-2,"""Great Basin Naturalist 43: 359, fig. 1983""","","""359, fig""","1983",gcc-78187
+gcc-6919,A,Compositae,,Haplopappus,,"croceus",,"","A.Gray",Synonym,,M,TICA,02AA7355-23CB-4E12-AE55-0CDC69CE7D79,117485-2,"in Proc. Acad. Sc. Philad. '1863' (1864) 65.","","","",gcc-83967
+gcc-92441,A,Compositae,,Haplopappus,,"croceus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,6B1F8D55-8F07-430E-98AA-889CF3CCBF31,117486-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-45846,A,Compositae,,Haplopappus,,"croceus",var.,"croceus","",Synonym,,L,TICA,A9203E6C-96B4-40CC-89AB-54FEA97B3CC8,,"","","","",gcc-83967
+gcc-69909,A,Compositae,,Haplopappus,,"croceus",subsp.,"croceus","",Synonym,,L,TICA,3B309986-E400-4796-83B1-E9FC9CF2D26D,,"","","","1928",gcc-83967
+gcc-33392,A,Compositae,,Haplopappus,,"croceus",var.,"genuflexus","(Greene) S.F.Blake",Synonym,,L,TICA,42EE9926-6EB1-434E-94E3-3DE779393931,117488-2,"Journal of the Washington Academy of Sciences 30(11):","","467","1940",gcc-40109
+gcc-39264,A,Compositae,,Haplopappus,,"cruentus",,"","Greene",Unresolved,,L,TICA,DD775077-C0BC-45C7-8725-48DE3EE94609,117490-2,"","","17","1889",gcc-45012
+gcc-39320,A,Compositae,,Haplopappus,,"cuneatus",,"","A.Gray",Synonym,,M,TICA,22D6D24A-90E7-487B-9D16-48FBBBE650DD,117491-2,"","","635","1873",gcc-94195
+gcc-48440,A,Compositae,,Haplopappus,,"cuneatus",var.,"cuneatus","",Synonym,,L,TICA,FE646670-1EE7-4309-9E30-59BAFDA1F072,,"","","","",gcc-94195
+gcc-63104,A,Compositae,,Haplopappus,,"cuneatus",var.,"spathulatus","S.F.Blake",Unresolved,,L,TICA,8961084D-915B-42DC-844C-B425384E4898,117492-2,"","","1489","1926",gcc-68038
+gcc-98401,A,Compositae,,Haplopappus,,"cuneifolius",,"","Nutt.",Synonym,,M,TICA,C81DB7D2-D829-4EDD-9C03-96092F04AEF6,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","330","1840",gcc-6837
+gcc-40535,A,Compositae,,Haplopappus,,"decurrens",,"","J.Rémy",Accepted,,M,TICA,E1A20E8D-6439-4499-BB64-4B1B1B01B4A7,177927-1,"","","58","1849",
+gcc-109406,A,Compositae,,Haplopappus,,"densifolius",,"","J.Rémy",Synonym,,M,TICA,4BBA65C1-027E-4CCF-BFFA-AE949D7757D4,,"""in C. Gay, Fl. Chil. iv. 53.""","","53","",gcc-6837
+gcc-9277,A,Compositae,,Haplopappus,,"denticulatus",,"","(Phil.) Reiche",Synonym,,M,TICA,06A72A45-8C7A-41AF-BA2E-1152030A2FD4,177929-1,"""Fl. Chile, iii. 273.""","","iii. 273","",gcc-111239
+gcc-19048,A,Compositae,,Haplopappus,,"deserticola",,"","Phil.",Accepted,,M,TICA,3CB1299A-BEA1-445F-8639-2328CEBC725D,117497-2,"","","592","1894",
+gcc-10676,A,Compositae,,Haplopappus,,"detonsus",,"","(Greene) P.H.Raven",Synonym,,M,TICA,68C3765F-478A-4E97-9862-13F31920DD81,211472-1,"","","343","1963",gcc-139007
+tro-2738870,A,Compositae,,Haplopappus,,"diffusa",,"","DC.",Unresolved,,L,TRO,2738870,,"","","","1836",
+gcc-27276,A,Compositae,,Haplopappus,,"diffusus",,"","(Pers.) DC.",Synonym,,M,TICA,1C6437EB-CA7A-485E-9D73-327470919E0D,177930-1,"Prodr. (DC.) 5: 349","","349","1836",gcc-88662
+gcc-127070,A,Compositae,,Haplopappus,,"diplopappus",,"","J.Rémy",Accepted,,M,TICA,DBBA3567-E9F7-4BEB-8723-D6C53DFFC0C2,,"Fl. Chil. [Gay] 4: 53.","","","1849",
+gcc-151964,A,Compositae,,Haplopappus,,"diplopappus",subsp.,"diplopappus","",Synonym,,L,TICA,A7DDF6F6-0E8C-4D0A-A65D-8F92EAEFF10F,,"","","","",gcc-127070
+gcc-41242,A,Compositae,,Haplopappus,,"diplopappus",var.,"diplopappus","",Synonym,,L,TICA,C71F3601-7168-4E4F-AA06-4C6D2680C984,,"","","","",gcc-127070
+gcc-53860,A,Compositae,,Haplopappus,,"diplopappus",var.,"struthionum","(Speg.) Cabrera",Accepted,,L,TICA,835F257F-2863-4EE6-8601-6958A4B03308,117500-2,"","","58","1971",
+gcc-78621,A,Compositae,,Haplopappus,,"discoideus",,"","DC.",Synonym,,M,TICA,16032D1E-57C3-4A48-9361-698B7B81CA2A,277929-2,"Prodr. (DC.) 5: 350","","350","1836",gcc-32395
+gcc-82444,A,Compositae,,Haplopappus,,"discoideus",,"","A.Gray",Unresolved,,L,TICA,2243A572-6B97-40B8-A035-721702F727E3,1108029-2,"","","","",
+gcc-97822,A,Compositae,,Haplopappus,,"discoideus",,"","Frye & Rigg",Unresolved,,L,TICA,7592B557-90E1-4864-9762-94C083CD66A2,117501-2,"Northw. Fl. 381. 1912","","381","1912",
+gcc-46422,A,Compositae,,Haplopappus,,"divaricatus",,"","(Nutt.) A.Gray",Synonym,,M,TICA,E22F58D8-8B88-458B-9BF7-5607A4B42D02,,"","","","",gcc-127853
+gcc-148025,A,Compositae,,Haplopappus,,"divaricatus",var.,"divaricatus","",Synonym,,L,TICA,1D93B487-94AB-4690-97AE-3A2E5EE1443C,,"","","","",gcc-127853
+gcc-36576,A,Compositae,,Haplopappus,,"divaricatus",var.,"hookerianus","(Torr. & A.Gray) Waterf.",Synonym,,L,TICA,B3F0C9B9-54CC-41A8-B8D3-43D2BA731636,117502-2,"Rhodora 62: 321. 1960","","321","1960",gcc-38213
+gcc-7804,A,Compositae,,Haplopappus,,"doellianus",,"","Phil.",Synonym,,M,TICA,3F669A6E-3291-4FD2-B062-0E83CE4E7262,177934-1,"Anales Univ. Chile (1873) 489.","","489","",gcc-13274
+gcc-42451,A,Compositae,,Haplopappus,,"domeykoi",,"","Phil.",Synonym,,M,TICA,C62D2C8F-DB4A-4FFD-9105-4E9E6C1A5374,117504-2,"","","590","1894",gcc-143615
+gcc-128461,A,Compositae,,Haplopappus,,"donianus",,"","Sch.Bip.",Unresolved,,L,TICA,9EF54E2B-ED25-44E0-974B-DA0E51930AD3,117505-2,"""Anales Univ. Chile 109: 44. 1901 Reiche, Flora de Chile, 3: 294.  1902""","","44","1901",
+gcc-131540,A,Compositae,,Haplopappus,,"donianus",,"","(Hook. & Arn.) Schultz & Bip. ex Reiche",Accepted,,M,TICA,6668DEED-7626-4C82-A134-E124DD70D4D1,,"""Fl. Chile, iii. 294.""","","","1901",
+gcc-106291,A,Compositae,,Haplopappus,,"drummondii",,"","(Torr. & A.Gray) S.F.Blake",Synonym,,M,TICA,B424D462-F87C-4DAA-8445-A76D0EC3017D,117506-2,"","","1491","1926",gcc-105010
+gcc-118050,A,Compositae,,Haplopappus,,"durus",,"","Reiche",Synonym,,M,TICA,C2C0621F-16BD-46C6-B790-C206F55E5F47,,"","","","1901",gcc-107437
+gcc-15592,A,Compositae,,Haplopappus,,"eastwoodae",,"","H.M.Hall",Synonym,,M,TICA,94BA1C67-4F12-419C-8997-1CDA792BA66D,297076-2,"","","258","1928",gcc-31769
+gcc-6209,A,Compositae,,Haplopappus,,"elatus",,"","(Phil.) Reiche",Accepted,,M,TICA,6E413EBA-B1F0-4C0D-9A35-0B8BB7D04E9A,117508-2,"","","43","1901",
+gcc-122993,A,Compositae,,Haplopappus,,"engelmannii",,"","(A.Gray) H.M.Hall",Synonym,,M,TICA,EE88E23C-71FC-4BDB-83EA-CD4FB18C97EA,117509-2,"","","93","1928",gcc-114665
+gcc-9872,A,Compositae,,Haplopappus,,"enormidens",,"","Moran",Unresolved,,L,TICA,FEC241B2-5B20-487E-B21A-126E1A11B1A3,,"","","","1976",gcc-106850
+gcc-130267,A,Compositae,,Haplopappus,,"ericoides",,"","(Less.) Hook. & Arn.",Synonym,,M,TICA,57FCDFD6-C9D1-4B37-AE9D-DE265B5C239D,117511-2,"Bot. Beechey Voy. 146. 1833 [Oct 1833]","","146","1833",gcc-122624
+gcc-134058,A,Compositae,,Haplopappus,,"ericoides",,"","(Less.) DC.",Unresolved,Illegitimate,L,TICA,7E058718-4306-4C49-94EC-E6F86AA31C85,,"Prodr. (DC.) 5: 346","","","1836",
+gcc-23065,A,Compositae,,Haplopappus,,"ericoides",,"","Less.",Unresolved,,L,TICA,49801E23-23C5-4133-A92F-2AB3391D7E6D,,"","","","",
+gcc-38078,A,Compositae,,Haplopappus,,"ericoides",subsp.,"blakei","C.B.Wolf",Synonym,,L,TICA,7CA1BA67-00D3-49B1-9CE9-469F69879D73,,"Occasional Papers [Rancho Santa Ana Botanic Garden] 1:","","87","1938",gcc-122624
+gcc-59002,A,Compositae,,Haplopappus,,"ericoides",subsp.,"ericoides","",Synonym,,L,TICA,BB1879C8-714C-47D5-B4CE-9313A04080B5,,"","","","",gcc-122624
+gcc-25310,A,Compositae,,Haplopappus,,"eriopodus",,"","(Greene) S.F.Blake",Unresolved,,L,TICA,F2B08217-45DC-40BA-A1AB-2EB87AA65989,,"","","","1925",
+gcc-97452,A,Compositae,,Haplopappus,,"eximius",,"","H.M.Hall",Synonym,,M,TICA,C029648F-7873-40F0-BE70-93E6F231081F,,"","","","1915",gcc-112600
+gcc-64947,A,Compositae,,Haplopappus,,"eximius",subsp.,"eximius","",Synonym,,L,TICA,AF4408D7-3DB6-4D8D-A9EF-C27A5C016BEB,,"","","","1940",gcc-112600
+gcc-71643,A,Compositae,,Haplopappus,,"eximius",subsp.,"peirsonii","D.D.Keck",Synonym,,L,TICA,DE091D81-75EC-4C48-958C-F7AB6E0C1B98,277930-2,"Madroño 5: 169. 1940","","169","1940",gcc-18558
+gcc-15433,A,Compositae,,Haplopappus,,"falcatus",,"","(Rydb.) S.F.Blake",Unresolved,,L,TICA,4BB19871-08A5-4CAD-89A2-1C911BF8CCFF,,"","","","1925",
+gcc-137909,A,Compositae,,Haplopappus,,"fallax",,"","Reiche",Unresolved,,L,TICA,1747D669-3662-409D-BD2E-EF760DABC86A,,"","","","1901",
+gcc-37380,A,Compositae,,Haplopappus,,"fallax",,"","Phil.",Synonym,,M,TICA,72122EED-8567-4730-B75A-4546FE2C5CED,,"","","","",gcc-48321
+gcc-105944,A,Compositae,,Haplopappus,,"fasciculatus",,"","J.M.Coult. & Rose",Unresolved,,L,TICA,AB3E0FA5-90EF-469C-9ADB-A6B52BA104E2,177945-1,"in Proc. U. S. Nat. Mus. (1888) 530.","","530","",
+gcc-136107,A,Compositae,,Haplopappus,,"fasciculatus",,"","Vasey & Rose",Synonym,,M,TICA,0640BAF6-A547-48C6-8C17-EB73DF09F3C1,,"Proc. U. S. Natl. Mus. 1888. 11: 530. 1889","","530","",gcc-77882
+gcc-39130,A,Compositae,,Haplopappus,,"ferreyrae",,"","Cabrera",Unresolved,,L,TICA,0653DE39-4BB6-49DC-9E13-489969C320F0,,"","","","1962",
+gcc-107390,A,Compositae,,Haplopappus,,"ferrisiae",,"","S.F.Blake",Synonym,,M,TICA,E6C3D694-622D-4F1C-B3A3-A9F49A03BD26,117522-2,"","","171","1935",gcc-128554
+gcc-27376,A,Compositae,,Haplopappus,,"filifolius",,"","DC.",Unresolved,,L,TICA,95F5750A-5211-40B7-905F-32A36D7A1994,177947-1,"Prodr. (DC.) 7(1): 280","","280","1838",
+gcc-21425,A,Compositae,,Haplopappus,,"florifer",,"","(Hook.) Hook. & Arn.",Unresolved,,L,TICA,B2567EB9-D6B2-48C8-999F-27972A33C290,177948-1,"Bot. Beechey Voy. 351","","351","1839",gcc-98880
+gcc-89217,A,Compositae,,Haplopappus,,"fluehmannii",,"","Phil.",Synonym,,M,TICA,33642F55-3972-46B1-85A5-8131BD2066B4,117523-2,"","","590","1894",gcc-143615
+gcc-93951,A,Compositae,,Haplopappus,,"foliosus",,"","DC.",Accepted,,M,TICA,41DF5CC6-F5F9-4722-9ACC-8BD7D182D01C,177949-1,"Prodr. (DC.) 5: 346","","346","1836",
+gcc-153753,A,Compositae,,Haplopappus,,"foliosus",subsp.,"foliosus","",Synonym,,L,TICA,CA70AE49-FB35-4E4A-90DB-B48C2F3EE5BD,,"","","","",gcc-93951
+gcc-128455,A,Compositae,,Haplopappus,,"foncki",,"","Phil.",Synonym,,M,TICA,2E3095B1-7D20-4192-8A8D-DA09025F1793,117525-2,"","","606","1894",gcc-135716
+gcc-102228,A,Compositae,,Haplopappus,,"formosus",,"","Phil.",Synonym,,M,TICA,5B7EB722-EF60-4604-BA5F-9E977C21E571,117526-2,"","","601","1894",gcc-138985
+gcc-31756,A,Compositae,,Haplopappus,,"fremonti",,"","A.Gray",Accepted,,M,TICA,7DE3EB07-1546-477C-A4D6-3AD61317F9BA,117527-2,"","","","",
+gcc-61945,A,Compositae,,Haplopappus,,"fremontii",var.,"fremontii","",Synonym,,L,TICA,BF1EAAAA-94DF-43EC-9FB9-AABD826FEF0A,,"","","","1884",gcc-106889
+gcc-64348,A,Compositae,,Haplopappus,,"fremontii",subsp.,"fremontii","",Synonym,,L,TICA,80C66480-5008-49EA-A339-BDD4BA17400A,,"","","","1928",gcc-106889
+gcc-63532,A,Compositae,,Haplopappus,,"fremontii",subsp.,"monocephalus","(A.Nelson) H.M.Hall",Synonym,,L,TICA,508F6775-72A9-47D2-8675-B7851EFA381B,,"Publ. Carnegie Inst. Wash. 389: 87. 1928","","","1928",gcc-42329
+gcc-55066,A,Compositae,,Haplopappus,,"fremontii",subsp.,"wardii","(A.Gray) H.M.Hall",Synonym,,L,TICA,9233D9AE-7B4A-4C5F-85F1-730330830F89,117531-2,"Publ. Carnegie Inst. Wash. 389: 88. 1928","","88","1928",gcc-136939
+gcc-60167,A,Compositae,,Haplopappus,,"fremontii",var.,"wardii","A.Gray",Synonym,,L,TICA,27022FE9-56BC-4BB9-8696-9C25378A0CBC,117532-2,"Syn. Fl. N. Amer. 1(2): 128. 1884","","128","1884",gcc-136939
+gcc-43926,A,Compositae,,Haplopappus,,"fruticosus",,"","(Rose & Standl.) S.F.Blake",Synonym,,M,TICA,33E276A4-CB6D-43E1-B3DE-5160A49B1875,117533-2,"","","1493","1926",gcc-52257
+gcc-16110,A,Compositae,,Haplopappus,,"fuligineus",,"","(Kunth) S.F.Blake",Synonym,,L,TICA,08C71EEB-8D33-46F5-8825-1DCCCD139424,117534-2,"American Journal of Botany 14(3):","","110","1927",gcc-120902
+gcc-103378,A,Compositae,,Haplopappus,,"fuliginosus",,"","(Kunth) S.F.Blake ex Diels",Unresolved,,L,TICA,470C94DB-DFE4-4779-B225-A124D075D033,117535-2,"Biblioth. Bot. 116: 174. 1937","","174","1937",
+gcc-44953,A,Compositae,,Haplopappus,,"fuliginosus",,"","(Kunth) Blake ex Domke",Unresolved,,L,TICA,3AEE681F-FA52-4AF1-9692-534BC88AEB78,211480-1,"""Biblioth. Bot. xxix. Heft 116, 174 (1937)""","","174","1937",
+gcc-77378,A,Compositae,,Haplopappus,,"gilmanii",,"","S.F.Blake",Synonym,,M,TICA,24D1F18E-7EC8-4DF0-9716-66BE3436BAD3,277931-2,"Proc. Biol. Soc. Wash. 52","","97","1939",gcc-131632
+gcc-29603,A,Compositae,,Haplopappus,,"glabratus",,"","Phil.",Synonym,,M,TICA,75EC6813-BC67-44F7-A56A-36B8B0502BC9,177953-1,"Linnaea 28","","727","1858",gcc-7637
+gcc-7637,A,Compositae,,Haplopappus,,"glutinosus",,"","Cass.",Accepted,,M,TICA,FECE369B-AB9D-40CF-A8E5-0E307CA82213,324278-2,"""Dict. Sci. Nat., ed. 2. 56: 169. 1828""","","169","1828",
+gcc-98704,A,Compositae,,Haplopappus,,"glutinosus",,"","(Cass.) Cass. ex DC.",Synonym,Illegitimate,M,TICA,E839F930-914D-423E-B0BA-96B2565BB00B,177954-1,"Prodr. (DC.) 5: 347","","347","1836",gcc-7637
+gcc-149708,A,Compositae,,Haplopappus,,"glutinosus",var.,"glutinosus","",Synonym,,L,TICA,08571FEC-ABC9-4534-BB31-5E8AAD285370,,"","","","",gcc-7637
+gcc-74540,A,Compositae,,Haplopappus,,"glutinosus",f.,"glutinosus","",Synonym,,L,TICA,5EE9AFB0-BBEF-44EC-B950-4355EC9E4651,,"","","","",gcc-7637
+gcc-48881,A,Compositae,,Haplopappus,,"glutinosus",var.,"illinitus","(Phil.) Reiche",Synonym,,L,TICA,A49260BE-9FA6-490D-8262-5A89587D80B2,1164985-2,"","","","",gcc-48321
+gcc-102956,A,Compositae,,Haplopappus,,"glutinosus",f.,"patagonicus","(Phil.) Cabrera",Synonym,,L,TICA,9E1407CB-2BB3-423C-8DCB-A03FF48E0BD3,117539-2,"","","57","1971",gcc-7637
+gcc-96963,A,Compositae,,Haplopappus,,"glutinosus",f.,"spathulatus","Cabrera",Synonym,,L,TICA,0A0BF725-E164-418E-9F8A-92C1C6EDFD46,117540-2,"Fl. Patagonica 7: 58. 1971","","58","1971",gcc-7637
+gcc-142965,A,Compositae,,Haplopappus,,"gooddingii",,"","(A.Nelson) Munz & I.M.Johnst.",Synonym,,M,TICA,5EA7C0E0-9D3B-416E-A8E7-FAD7B1BB169F,117541-2,"Bull. Torrey Bot. Club 49: 44. 1922","","44","1922",gcc-65611
+gcc-110201,A,Compositae,,Haplopappus,,"gossypinus",,"","(Greene) H.M.Hall",Unresolved,,L,TICA,57235A45-CA2B-4AEE-9965-B052BB4DE7A4,211482-1,"","","49","1907",gcc-54116
+gcc-120909,A,Compositae,,Haplopappus,,"gracilis",,"","(Nutt.) A.Gray",Synonym,,M,TICA,401E4D18-7C72-4D68-820F-C89BFC247AE6,,"Pl. Fendl. 76.","","","1849",gcc-19802
+gcc-32204,A,Compositae,,Haplopappus,,"gracilis",,"","Brandegee",Unresolved,,L,TICA,18AB8DAA-82B3-4E16-82C7-3BA7AFBFA1D6,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 168""","","168","1889",
+gcc-104209,A,Compositae,,Haplopappus,,"gramineus",,"","Benth.",Synonym,,L,TICA,0DC1D01C-64BC-419A-86FF-A3025E81A8C3,,"","","65","1840",gcc-122128
+gcc-114303,A,Compositae,,Haplopappus,,"graniticus",,"","Tiehm & L.M.Shultz",Synonym,,M,TICA,D24DF5F6-7387-4EA3-BEF1-B985013016B6,,"Brittonia 37: 165. 1985","","165","1985",gcc-31471
+gcc-15107,A,Compositae,,Haplopappus,,"graveolens",,"","(Phil.) Reiche",Accepted,,M,TICA,D8E601EC-555E-4C84-8B00-1BFB0CAED171,,"","","","1901",
+gcc-77069,A,Compositae,,Haplopappus,,"graveolens",,"","Kuntze",Unresolved,,L,TICA,35E52CAD-BE6D-4CE2-886B-660ABF321B54,177960-1,"""Revis. Gen. Pl. 1: 313, sphalm.""","","313","1891",
+gcc-131812,A,Compositae,,Haplopappus,,"greenei",,"","A.Gray",Synonym,,L,TICA,C4DB8D25-053F-4C75-992B-E1CBFCD2CA9C,303381-2,"Proc. Amer. Acad. Arts 16: 80. 1880","","80","1880",gcc-45878
+gcc-22216,A,Compositae,,Haplopappus,,"greenei",subsp.,"greenei","",Synonym,,L,TICA,00B307E4-EB63-44AF-B7B2-2919CD739719,,"","","","",gcc-45878
+gcc-66320,A,Compositae,,Haplopappus,,"greenei",var.,"greenei","",Synonym,,L,TICA,4AF21E4A-0CB9-4E67-BEBE-CDE6B154C57C,,"","","","",gcc-45878
+gcc-48281,A,Compositae,,Haplopappus,,"greenei",subsp.,"mollis","(A.Gray) H.M.Hall",Synonym,,L,TICA,0CA0B329-0ABE-4F87-8A87-597959647B06,117545-2,"Publ. Carnegie Inst. Wash. 389: 195. 1928","","195","1928",gcc-45878
+gcc-63895,A,Compositae,,Haplopappus,,"greenei",var.,"mollis","(A.Gray) A.Gray",Synonym,,L,TICA,FAB34BF2-274B-4738-AC3B-BA65067767A5,117546-2,"Syn. Fl. N. Amer. 1(2)","","135","1884",gcc-45878
+gcc-4716,A,Compositae,,Haplopappus,,"grindelioides",,"","(Less.) DC.",Accepted,,M,TICA,84D66798-B174-42C7-9965-08C65846109D,177963-1,"Prodr. (DC.) 5: 348","","348","1836",
+gcc-80919,A,Compositae,,Haplopappus,,"gummiferus",,"","Gand.",Unresolved,,L,TICA,F67F9A04-EC58-43E3-BD2E-6EAB1BF8D30C,117548-2,"Bull. Soc. Bot. France 65","","38","1918",
+gcc-78803,A,Compositae,,Haplopappus,,"gunnii",,"","Hook.f.",Unresolved,,L,TICA,E2C9F802-92F0-4BCA-B000-69FEEA1ACF95,177965-1,"","","vi.  111.","1847",gcc-103387
+gcc-130186,A,Compositae,,Haplopappus,,"gymnocephalus",,"","DC.",Synonym,,M,TICA,BA0D90D8-FAC4-4158-8133-DDF9CF034046,,"Prodr. (DC.) 5: 346","","","1836",gcc-134908
+gcc-155036,A,Compositae,,Haplopappus,,"gymnocephalus",f.,"gymnocephalus","",Synonym,,L,TICA,DC3225A1-BB97-48AD-8AA6-CFB1B0D867B3,,"","","","",gcc-116817
+gcc-37058,A,Compositae,,Haplopappus,,"haenkei",,"","DC.",Unresolved,,L,TICA,4D2EAB5D-7132-47D9-8340-44AB82178079,177967-1,"Prodr. (DC.) 5: 349","","349","1836",
+gcc-112274,A,Compositae,,Haplopappus,,"hallii",,"","A.Gray",Synonym,,L,TICA,744F35D9-2E3F-4F6B-A488-B504E4581164,307957-2,"","","389","1872",gcc-10452
+gcc-77013,A,Compositae,,Haplopappus,,"hamatus",,"","Gand.",Unresolved,,L,TICA,42611099-5B27-41ED-8177-65E42E3DD899,117552-2,"Bull. Soc. Bot. France 65","","38","1918",
+gcc-105929,A,Compositae,,Haplopappus,,"hartwegii",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,0F15EA47-23AC-4656-A0E9-A6AA9B4FC16C,117553-2,"Contributions from the United States National Herbarium 23(5):","","1492-1493","1926",gcc-144392
+gcc-87611,A,Compositae,,Haplopappus,,"havardii",,"","Waterf.",Synonym,,M,TICA,8EA1EF35-68C6-4C90-8281-7DA9A5D3C675,,"","","","1943",gcc-128845
+gcc-131961,A,Compositae,,Haplopappus,,"heterocomus",,"","Phil.",Synonym,,M,TICA,8DED6170-3FBF-4130-9109-E2252BECFD73,117555-2,"","","608","1894",gcc-14502
+gcc-112047,A,Compositae,,Haplopappus,,"heterophyllus",,"","(A.Gray) S.F.Blake",Synonym,,L,TICA,41639DB2-D7D5-448E-9E87-B4842EC7E3AC,,"","","","1925",gcc-113741
+gcc-16849,A,Compositae,,Haplopappus,,"heterophysus",,"","Phil.",Synonym,,M,TICA,3F760B9D-E430-4E82-9DAD-1F1FEC3F7D5C,117557-2,"","","607","1894",gcc-14502
+gcc-111641,A,Compositae,,Haplopappus,,"hirsutus",,"","Phil.",Synonym,,M,TICA,55B3B337-1EA7-4C7B-972C-B38FDC76BB01,117558-2,"","","600","1894",gcc-138985
+gcc-9650,A,Compositae,,Haplopappus,,"hirtellus",,"","Phil.",Accepted,,M,TICA,B1018A29-966D-4F92-82C2-1205F954AA35,177972-1,"Linnaea 28: 726","","726","1858",
+gcc-55715,A,Compositae,,Haplopappus,,"hirtellus",var.,"hirsutus","(Phil.) Reiche",Synonym,,L,TICA,0F4015FE-0491-428B-8207-783B7C4DCDA8,117560-2,"""Anales Univ. Chile 109: 71. 1901 Reiche, Flora de Chile, 3: 321.  1902""","","71","1901",gcc-138985
+gcc-151874,A,Compositae,,Haplopappus,,"hirtellus",var.,"hirtellus","",Synonym,,L,TICA,F52573A6-E31A-4A12-AB9D-8DD826547EAF,,"","","","",gcc-9650
+gcc-66556,A,Compositae,,Haplopappus,,"hirtellus",var.,"limarensis","Reiche",Synonym,,L,TICA,80BC995E-3065-423F-BA0F-CFBDF18D872B,117561-2,"""Anales Univ. Chile 109: 71. 1901 Reiche, Flora de Chile, 3: 321.  1902""","","71","1901",gcc-9650
+gcc-12832,A,Compositae,,Haplopappus,,"hirtus",,"","A.Gray",Synonym,,L,TICA,2A40C71B-C4D3-4EF2-8088-17ED2EBA47B8,,"Syn. Fl. N. Am. i. II. 127.","","","1884",gcc-35104
+gcc-26856,A,Compositae,,Haplopappus,,"hirtus",var.,"hirtus","",Synonym,,L,TICA,6616C927-ADD3-4C61-A97A-31A8B8A6977B,,"","","","",gcc-35104
+gcc-34376,A,Compositae,,Haplopappus,,"hirtus",subsp.,"hirtus","",Synonym,,L,TICA,0AF2D715-094F-448E-9202-3FB50610C5E3,,"","","","",gcc-35104
+gcc-53232,A,Compositae,,Haplopappus,,"hirtus",var.,"lanulosus","(Greene) M.Peck",Synonym,,L,TICA,6700DDF4-5B9B-4BA0-A216-64AFB9E37D7E,117564-2,"""Man. Pl. Oregon 713. 1941 as Aplopappus; Madrono, 6: 136.  1941 [as Aplopappus]""","","713","1941",gcc-59855
+gcc-65576,A,Compositae,,Haplopappus,,"hirtus",subsp.,"lanulosus","(Greene) H.M.Hall",Synonym,,L,TICA,4DE06E50-4ED6-4AFD-81E1-C7DA1DCE225C,117563-2,"Publ. Carnegie Inst. Wash. 389: 125. 1928","","125","1928",gcc-59855
+gcc-67833,A,Compositae,,Haplopappus,,"hirtus",subsp.,"sonchifolius","(Greene) H.M.Hall",Synonym,,L,TICA,4208BDE2-4EDC-4F3B-B213-DA6736B7A3BC,117565-2,"Publ. Carnegie Inst. Wash. 389: 125. 1928","","125","1928",gcc-53830
+gcc-70432,A,Compositae,,Haplopappus,,"hirtus",var.,"sonchifolius","(Greene) M.Peck",Synonym,,L,TICA,821549ED-D0C0-4E76-915D-EE12ED6CD7C6,117566-2,"""Man. Pl. Oregon 713. 1941 as Aplopappus; Madrono, 6: 136.  1941 [as Aplopappus]""","","713","1941",gcc-53830
+gcc-16948,A,Compositae,,Haplopappus,,"hispidulus",,"","DC.",Synonym,,M,TICA,001A6398-A9B2-40B7-8963-1F50CB13EB9A,177974-1,"Prodr. (DC.) 5: 348","","348","1836",gcc-4520
+gcc-23311,A,Compositae,,Haplopappus,,"holiviensis",,"","Cabrera",Unresolved,,L,TICA,022C5868-00CA-4386-A947-2B23036E874B,,"Blumea vii. 193 (1952).","","","1952",gcc-132336
+gcc-102749,A,Compositae,,Haplopappus,,"hookerianus",,"","(Torr. & A.Gray) A.Gray",Accepted,,M,TICA,2A9EEA15-F5B8-4081-9706-9FD38878AD2C,1218607-2,"","","","",
+gcc-110694,A,Compositae,,Haplopappus,,"hookerianus",,"","DC.",Synonym,,M,TICA,0A2773B2-B9E3-4479-9303-B17F342EEA93,177977-1,"Prodr. (DC.) 7(1): 279","","279","1838",gcc-135716
+gcc-144203,A,Compositae,,Haplopappus,,"hoorebekia",,"","DC.",Synonym,Illegitimate,M,TICA,D8180C92-A64B-4123-B564-FD90E3ADFE40,177978-1,"Prodr. (DC.) 5: 346","","346","1836",gcc-128572
+gcc-133649,A,Compositae,,Haplopappus,,"howellii",,"","A.Gray",Unresolved,,L,TICA,24ACACD5-5DBD-4E1E-9E43-E5F73212E9CC,117570-2,"","","446","1886",
+gcc-141667,A,Compositae,,Haplopappus,,"humilis",,"","(Phil.) Reiche",Accepted,,M,TICA,460492F4-F99A-409B-8AAD-F7E7A5FB3425,117571-2,"","","78","1901",
+gcc-140858,A,Compositae,,Haplopappus,,"hypoleucus",,"","Turcz.",Synonym,,M,TICA,0B91ED64-9D9E-4F4F-AAF3-F6041B327D5B,16486-2,"Bulletin de la societe imperiale des naturalistses de Moscou 24(1):","","177","1851",gcc-66639
+gcc-80804,A,Compositae,,Haplopappus,,"ilicifolius",,"","J.Rémy",Synonym,,M,TICA,AB52BE8D-8817-47C1-8E44-6E66ED6D88FD,,"""in C. Gay, Fl. Chil. iv. 55.""","","55","",gcc-135716
+gcc-148933,A,Compositae,,Haplopappus,,"ilicifolius",var.,"ilicifolius","",Synonym,,L,TICA,E0F537D8-89E7-453B-8DE3-4E25AAD038BD,,"","","","",gcc-135716
+gcc-65047,A,Compositae,,Haplopappus,,"ilicifolius",var.,"platylepis","(Phil.) Reiche",Synonym,,L,TICA,951BDEFE-9404-4CB4-A2D6-C35B2D3779ED,117574-2,"""Anales Univ. Chile 109: 61. 1901 Reiche, Flora de Chile, 3: 311.  1902""","","61","1901",gcc-103849
+gcc-90760,A,Compositae,,Haplopappus,,"illini",,"","Speg.",Synonym,,M,TICA,2A3C71F1-CF98-4FF3-A9FC-84D73857EB0D,117575-2,"","","181","1899",gcc-134572
+gcc-22461,A,Compositae,,Haplopappus,,"illinitus",,"","Eastw.",Unresolved,,L,TICA,37EF9459-1621-42CF-A0C3-298E723F414B,,"""Proc. Calif. Acad. Sci. ser. 4, 20""","","","1931",
+gcc-28838,A,Compositae,,Haplopappus,,"illinitus",,"","Phil.",Synonym,,M,TICA,544EE799-569F-44BB-A7E4-354DC6234CB9,117576-2,"Linnaea 28","","727","1858",gcc-48321
+gcc-120504,A,Compositae,,Haplopappus,,"incisifolium",,"","I.M.Johnst.",Unresolved,,L,TICA,62C5B393-58D9-4769-9ADF-C7B296654570,1168839-2,"","","","",
+gcc-13534,A,Compositae,,Haplopappus,,"insecticruris",,"","L.F.Hend.",Synonym,,M,TICA,6E1E57A6-B0AF-4AFF-85D6-192E6BD9B588,177987-1,"","","","1900",gcc-50075
+gcc-84938,A,Compositae,,Haplopappus,,"insecticruris",,"","(L.F.Hend.) Heller",Synonym,,M,TICA,CCBF1158-245D-41BC-9766-7794433B87C4,,"","","","",gcc-50075
+gcc-129578,A,Compositae,,Haplopappus,,"integerrimus",,"","(Hook. & Arn.) H.M.Hall",Accepted,,M,TICA,56277DE5-A34F-4C40-ABF3-DC9310CED624,117578-2,"","","340","1928",
+gcc-4415,A,Compositae,,Haplopappus,,"integerrimus",var.,"integerrimus","",Synonym,,L,TICA,19C23B5A-C825-455F-BECC-08371701E7C8,,"""Publ. Carnegie Inst. Wash. 389: 340, t. 10, f. 1 (1928)""","","""340, t. 10, f. 1""","1928",gcc-129578
+gcc-134752,A,Compositae,,Haplopappus,,"integrifolius",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,113E075C-2ABF-4CB8-A47A-E87600AF28E3,117581-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-142071,A,Compositae,,Haplopappus,,"integrifolius",,"","Porter ex A.Gray",Synonym,,L,TICA,222BD7DF-02C6-4B4A-9DE4-F8D19301C2C5,,"Proc. Amer. Acad. Arts xvi. (1881) 79.","","","1884",gcc-142125
+gcc-69468,A,Compositae,,Haplopappus,,"integrifolius",subsp.,"insecticruris","(L.F.Hend.) H.M.Hall",Synonym,,L,TICA,B388FFBC-6818-48C1-BF20-E6A68BFC2D4F,117582-2,"Publ. Carnegie Inst. Wash. 389: 111. 1928","","111","1928",gcc-50075
+gcc-53902,A,Compositae,,Haplopappus,,"integrifolius",var.,"integrifolius","",Synonym,,L,TICA,EE77066B-FB97-4292-AEF3-69AE3406A1A2,,"","","","",gcc-142125
+gcc-65364,A,Compositae,,Haplopappus,,"integrifolius",subsp.,"integrifolius","",Synonym,,L,TICA,E01554A5-BE2A-4DAE-B6AF-C6397A522D53,,"","","","",gcc-142125
+gcc-67977,A,Compositae,,Haplopappus,,"integrifolius",subsp.,"liatriformis","(Greene) H.M.Hall",Synonym,,L,TICA,B061D990-85BD-4A83-ADC7-DB5CB2AC98AC,117583-2,"Publ. Carnegie Inst. Wash. 389: 111. 1928","","111","1928",gcc-114952
+gcc-65895,A,Compositae,,Haplopappus,,"integrifolius",subsp.,"scaberulus","(Greene) H.M.Hall",Synonym,,L,TICA,B45B28A6-885D-49FB-9FC8-CA865FFAE039,117585-2,"Publ. Carnegie Inst. Wash. 389: 111. 1928","","111","1928",gcc-114952
+gcc-40621,A,Compositae,,Haplopappus,,"interior",,"","Coville",Synonym,,L,TICA,80EB3E39-7EFA-4F03-B266-4B4C91B141E3,177990-1,"Proc. Biol. Soc. Wash. vii. (1892) 65.","","65-66","1892",gcc-134531
+gcc-102231,A,Compositae,,Haplopappus,,"inuloides",,"","(Nutt.) Torr. & A.Gray",Accepted,,L,TICA,6E4A6E7E-0141-45AA-8502-9E99224B7F85,177991-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 241","","241","1842",
+gcc-155840,A,Compositae,,Haplopappus,,"inuloides",var.,"inuloides","",Synonym,,L,TICA,4ADA4A92-3BBE-4F17-967F-E0E2C12EFAFF,,"","","","",gcc-102231
+gcc-29101,A,Compositae,,Haplopappus,,"involucratus",,"","Phil.",Synonym,,M,TICA,18F6C16A-00DA-4A02-B52B-35CA5A028009,117591-2,"","","593","1894",gcc-19048
+gcc-15974,A,Compositae,,Haplopappus,,"ischnos",,"","(Phil.) Reiche",Accepted,,M,TICA,9CCEA627-A76A-4E66-A0C8-1D8F8282089F,117592-2,"","","42","1901",
+gcc-103976,A,Compositae,,Haplopappus,,"johnstonii",,"","S.F.Blake",Synonym,,L,TICA,DE7F08E2-BCC3-4BBB-9DBC-A27B63F62838,117593-2,"","","18","1941",gcc-32458
+gcc-88053,A,Compositae,,Haplopappus,,"juarezensis",,"","Moran",Synonym,,M,TICA,4040FD52-DFDF-4181-8CE2-7E9424618DF8,,"Trans. San Diego Soc. Nat. Hist. 15","","","1969",gcc-31548
+gcc-117222,A,Compositae,,Haplopappus,,"junceus",,"","Greene",Synonym,,L,TICA,4F7B8968-FCC2-4305-B0D5-C027DE18EB2D,117595-2,"","","190","1885",gcc-84121
+gcc-3509,A,Compositae,,Haplopappus,,"kingi",,"","(Phil.) Reiche",Accepted,,M,TICA,CBD809C7-FA34-49BF-98CA-0672E36F64C2,117596-2,"","","41","1901",
+gcc-22234,A,Compositae,,Haplopappus,,"laceratus",,"","L.F.Hend.",Unresolved,,L,TICA,CCBF53BD-B019-461A-822B-2921A91FC49A,117597-2,"","","347","1900",
+gcc-93694,A,Compositae,,Haplopappus,,"lanatus",,"","Hook.f.",Accepted,,M,TICA,C4531E3D-8354-464C-8D23-8B3D61A1F370,177996-1,"Trans. Linn. Soc. London 20(2): 215","","215","1847",
+gcc-131300,A,Compositae,,Haplopappus,,"lanceolatus",,"","(Hook.) Torr. & A.Gray",Synonym,,M,TICA,F88B0F0E-9F8B-4566-B0FD-E096D7AA14A8,177997-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 241","","241","1842",gcc-135365
+gcc-142903,A,Compositae,,Haplopappus,,"lanceolatus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,27E045C5-A44F-4C0E-A936-FAB31D19DF3A,117600-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-5029,A,Compositae,,Haplopappus,,"lanceolatus",subsp.,"lanceolatus","",Synonym,,L,TICA,7638E0FE-AFD1-4901-80D8-09624A0445F7,,"","","","",gcc-135365
+gcc-67246,A,Compositae,,Haplopappus,,"lanceolatus",var.,"lanceolatus","",Synonym,,L,TICA,B81E87C0-B768-4AA1-9A8F-D59CF9E8751A,,"","","","",gcc-135365
+gcc-58472,A,Compositae,,Haplopappus,,"lanceolatus",subsp.,"solidagineus","(Greene) H.M.Hall",Synonym,,L,TICA,9B509D65-2FD8-4707-A30A-8EF415CB3779,117602-2,"Publications of the Carnegie Institution of Washington 389:","","118","1928",gcc-135365
+gcc-57682,A,Compositae,,Haplopappus,,"lanceolatus",var.,"sublanatus","Cody",Synonym,,L,TICA,CE37F909-75E8-434C-8DD5-884CE18CA274,117604-2,"The Canadian Field-Naturalist 70(3):","","126","1956 [1957]",gcc-135365
+gcc-59610,A,Compositae,,Haplopappus,,"lanceolatus",subsp.,"tenuicaulis","(D.C.Eaton) H.M.Hall",Synonym,,L,TICA,54822731-F4EB-4936-8859-97D62680EED6,117606-2,"Publications of the Carnegie Institution of Washington 389:","","118","1928",gcc-135365
+gcc-6186,A,Compositae,,Haplopappus,,"lanceolatus",var.,"tenuicaulis","(D.C.Eaton) A.Gray",Synonym,,L,TICA,908F4B63-B623-4759-8388-0B80FE17B77E,117607-2,"Synoptical Flora of North America 1(2):","","129","1884",gcc-135365
+gcc-3107,A,Compositae,,Haplopappus,,"lanceolatus",var.,"typicus","(H.M.Hall) Cronquist",Synonym,,L,TICA,A2E67B89-1795-4078-87F3-05BDC045826C,,"","","","",gcc-135365
+gcc-52746,A,Compositae,,Haplopappus,,"lanceolatus",var.,"vaseyi","Parry ex D.C.Eaton",Synonym,,L,TICA,14D61DD7-861D-449A-8D7F-61C95ADE6A45,,"United States Geological Expolration [sic] of the Fortieth Parallel. Botany","","160","1871",gcc-135365
+gcc-55948,A,Compositae,,Haplopappus,,"lanceolatus",subsp.,"vaseyi","(Parry ex D.C.Eaton) H.M.Hall",Synonym,,L,TICA,132A3AE0-A471-4102-AB00-7A64CF1C0D6A,117609-2,"Publications of the Carnegie Institution of Washington 389:","","117","1928",gcc-135365
+gcc-143277,A,Compositae,,Haplopappus,,"lanuginosus",,"","A.Gray",Synonym,,L,TICA,3D916800-C8A5-444A-805E-FB86A5ADA9C5,117611-2,"","","","",gcc-94354
+gcc-63858,A,Compositae,,Haplopappus,,"lanuginosus",var.,"andersonii","(Rydb.) Cronquist",Synonym,,L,TICA,E98A260E-0AB5-45E1-A177-BA04D5CF3563,117614-2,"Vasc. Pl. Pacific NorthW. 5: 219. 1955","","219","1955",gcc-7964
+gcc-7071,A,Compositae,,Haplopappus,,"lanuginosus",subsp.,"andersonii","(Rydb.) H.M.Hall",Synonym,,L,TICA,58C49264-29DF-4FEE-9168-0D28C2BE799F,117613-2,"Publ. Carnegie Inst. Wash. 389: 172. 1928","","172","1928",gcc-7964
+gcc-24482,A,Compositae,,Haplopappus,,"lanuginosus",var.,"lanuginosus","",Synonym,,L,TICA,9DEED8D3-C5FE-463D-B021-2D31AA7D6242,,"","","","",gcc-94354
+gcc-56471,A,Compositae,,Haplopappus,,"lanuginosus",subsp.,"lanuginosus","",Synonym,,L,TICA,2CA4431D-5036-461B-BBED-7ED3DEF43B0D,,"","","","",gcc-94354
+gcc-56591,A,Compositae,,Haplopappus,,"lanuginosus",subsp.,"typicus","H.M.Hall",Synonym,,L,TICA,2B345827-1F88-444D-BD34-7FC127F344F5,117615-2,"""Publ. Carnegie Inst. Wash. 389: 172, fig. 55. 1928""","","""172, fig. 55""","1928",gcc-94354
+gcc-132141,A,Compositae,,Haplopappus,,"lanulosus",,"","(Greene) M.Peck",Unresolved,Invalid,L,TICA,5CEDAC3A-515D-4363-B307-E2896B2BA999,,"","","","",
+gcc-98117,A,Compositae,,Haplopappus,,"laricifolius",,"","A.Gray",Synonym,,L,TICA,EFD9D598-9BAA-49E3-A6BF-956440EC702A,,"Pl. Wright. ii. 80.","","","1853",gcc-132325
+gcc-126078,A,Compositae,,Haplopappus,,"lastarrianus",,"","J.Rémy",Synonym,,M,TICA,E7727FED-91C1-4F5F-97B5-D47EE2E443FA,178000-1,"","","45","1849",gcc-143615
+gcc-95462,A,Compositae,,Haplopappus,,"latifolius",,"","(Phil.) Reiche",Accepted,,M,TICA,76335F9E-7D41-4A28-B397-8F6C232C5E88,,"","","","1901",
+gcc-77088,A,Compositae,,Haplopappus,,"ledifolius",,"","S.F.Blake",Synonym,,M,TICA,4141CF0E-8784-44D5-AE8D-661540D4E84A,16487-2,"Amer. J. Bot. 14: 112. 1927","","112","1927",gcc-39708
+gcc-34682,A,Compositae,,Haplopappus,,"lehmannii",,"","(Hieron.) S.F.Blake",Synonym,,L,TICA,5530BC4B-52E1-4DFF-9D74-404D11C53BA9,117620-2,"American Journal of Botany 14:","","113","1927",gcc-23802
+gcc-152945,A,Compositae,,Haplopappus,,"lehmannii",var.,"lehmannii","",Synonym,,L,TICA,76F6823F-4498-4472-986D-A3CDC539A3BF,,"","","","",gcc-58946
+gcc-17193,A,Compositae,,Haplopappus,,"lehmannii",var.,"subcalvus","S.F.Blake",Unresolved,,L,TICA,DA0C35E2-E701-44F0-B22A-1FC74C45F2F2,117621-2,"Proc. Biol. Soc. Wash. 48: 173. 1935","","173","1935",gcc-58946
+gcc-102479,A,Compositae,,Haplopappus,,"leucanthemifolius",,"","Phil.",Synonym,,M,TICA,1C17644A-6846-4031-A33E-9F3769EF646A,117622-2,"","","605","1894",gcc-138985
+gcc-108223,A,Compositae,,Haplopappus,,"leverichii",,"","Cronquist",Synonym,,M,TICA,A33A115B-837C-40E7-805C-ABCFA0E86CFE,979382-1,"","","212","1994",gcc-138209
+gcc-50273,A,Compositae,,Haplopappus,,"liatriformis",,"","(Greene) H.St.John",Synonym,,L,TICA,E618AD09-DBDB-4D8D-AA05-5D3AA47E67D4,117623-2,"","","455","1937",gcc-114952
+gcc-107074,A,Compositae,,Haplopappus,,"lignumviridis",,"","S.L.Welsh",Synonym,,M,TICA,40A0F0B3-9903-474C-B60E-A9475AEC9645,312442-2,"","","398","1993",gcc-91325
+gcc-102578,A,Compositae,,Haplopappus,,"limarensis",,"","Phil.",Synonym,,M,TICA,47A3FFBA-8908-4634-959E-9F7695B4FFFC,117624-2,"","","602","1894",gcc-9650
+gcc-117927,A,Compositae,,Haplopappus,,"linearifolius",,"","DC.",Synonym,,L,TICA,C0442CA3-4A91-483F-83D2-C1BEA525D547,117625-2,"Prodr. (DC.) 5: 347","","347","1836",gcc-134531
+gcc-60428,A,Compositae,,Haplopappus,,"linearifolius",subsp.,"interior","(Coville) H.M.Hall",Synonym,,L,TICA,A4457C0E-1FAA-43F2-9B21-9E3FACCF8401,117626-2,"Publ. Carnegie Inst. Wash. 389: 158. 1928","","158","1928",gcc-134531
+gcc-8774,A,Compositae,,Haplopappus,,"linearifolius",var.,"interior","(Coville) M.E.Jones",Synonym,,L,TICA,8341706F-D789-436C-8D90-1069AD00B3CF,,"""Proc. Calif. Acad. Sci. ser. 2, 5: 697. 1895""","","697","1895",gcc-134531
+gcc-152966,A,Compositae,,Haplopappus,,"linearifolius",subsp.,"linearifolius","",Synonym,,L,TICA,F9BB8F14-9A35-4AD4-BBF7-A4712CFBE657,,"","","","",gcc-134531
+gcc-153424,A,Compositae,,Haplopappus,,"linearifolius",var.,"linearifolius","",Synonym,,L,TICA,E7864EDF-FC69-4EA5-A577-AE525E606318,,"","","","",gcc-134531
+gcc-91892,A,Compositae,,Haplopappus,,"linearis",,"","(Rydb.) Dayton",Unresolved,,L,TICA,B8BCB9E5-B107-47F2-BF2E-876B649D9ED4,211495-1,"""in Misc. Publ. U. S. Dept. Agric. No. 101, 157 (1931), in obs.""","","""No. 101, 157 , in obs.""","1931",
+gcc-135376,A,Compositae,,Haplopappus,,"linifolius",,"","(Phil.) Reiche",Accepted,,M,TICA,74072487-2085-45A0-AA7D-E9E657EA3296,117629-2,"","","36","1901",
+gcc-79536,A,Compositae,,Haplopappus,,"litoralis",,"","Phil.",Synonym,,M,TICA,64DD0975-94DE-4908-B1B6-6BA584DEB13B,117630-2,"","","610","1894",gcc-103849
+gcc-7820,A,Compositae,,Haplopappus,,"longifolius",,"","(Greene) Jeps.",Unresolved,,L,TICA,5AA60D7B-329C-4090-8AC9-0E8B286EE4FB,117631-2,"Man. Fl. Pl. Calif.","","1027","1925",
+gcc-44141,A,Compositae,,Haplopappus,,"longipes",,"","(Phil.) Reiche",Synonym,,M,TICA,6D6C8919-E860-48CF-9895-51BB5B659476,,"","","","1901",gcc-48321
+gcc-104044,A,Compositae,,Haplopappus,,"longiscapus",,"","Phil.",Synonym,,M,TICA,EF17B9AC-B74B-4DC9-B150-A2AC2C01F039,,"Anales Univ. Chile 87: 620 (1894)","","620","1894",gcc-48321
+gcc-27845,A,Compositae,,Haplopappus,,"lucidulus",,"","S.F.Blake",Synonym,Illegitimate,L,TICA,472649DB-19D9-41DF-A091-337857D4E3CB,117633-2,"","","114","1927",gcc-123119
+gcc-1125,A,Compositae,,Haplopappus,,"lucidus",,"","(D.D.Keck) D.D.Keck",Synonym,,M,TICA,0F02C4F7-83E7-4C44-9E4B-021301FE2FD6,117634-2,"","","103","1958",gcc-96374
+gcc-109399,A,Compositae,,Haplopappus,,"lyallii",,"","A.Gray",Synonym,,L,TICA,4AE0D96B-FF4D-438D-AF92-AE8FCEF35CFB,117635-2,"","","","",gcc-139132
+gcc-157182,A,Compositae,,Haplopappus,,"lyallii",var.,"lyallii","",Synonym,,L,TICA,CB6DDF78-07BE-4C07-B891-FCBE0B4429EE,,"","","","",gcc-139132
+gcc-134986,A,Compositae,,Haplopappus,,"macleanii",,"","Brandegee",Synonym,,L,TICA,CFE6EBA3-1EEE-4982-9192-E8F6E64425CF,178011-1,"","","448","1899",gcc-129652
+gcc-133950,A,Compositae,,Haplopappus,,"macraeanus",,"","A.Gray",Unresolved,,L,TICA,C231D049-6640-49C5-ADFC-E6B3DAE3D513,,"Proc. Amer. Acad. Arts v. (1861) 122.","","122","",
+gcc-75844,A,Compositae,,Haplopappus,,"macraeanus",,"","(J.Rémy) Reiche",Accepted,,M,TICA,6D0577D0-ABCB-43F0-988B-635B947A6BC0,117638-2,"","","46","1901",
+gcc-120267,A,Compositae,,Haplopappus,,"macrocephalus",,"","(Poepp. ex Less.) DC.",Accepted,,M,TICA,6C97B8A7-0CC2-4273-A4C9-C718F5276FB9,178014-1,"Prodr. (DC.) 5: 348","","348","1836",
+gcc-123444,A,Compositae,,Haplopappus,,"macronema",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,182AD9C6-94F6-4C1C-AFC7-CE56F8A9FC16,117640-2,"Rocky Mt. Flowers 277. 1914","","277","1914",
+gcc-39127,A,Compositae,,Haplopappus,,"macronema",,"","(Nutt.) A.Gray",Synonym,,L,TICA,B7D1D0CD-F961-48BD-8E0A-48982411F6D1,,"Proc. Amer. Acad. Arts vi. (1864) 542.","","542","1865",gcc-79269
+gcc-56035,A,Compositae,,Haplopappus,,"macronema",var.,"canescens","(A.Nelson) Cronquist",Synonym,,L,TICA,3EE96BD7-C638-44EC-8BBB-7B2FB780EFF4,117641-2,"Vascular Plants of the Pacific Northwest 5:","","220","1955",gcc-101700
+gcc-51314,A,Compositae,,Haplopappus,,"macronema",var.,"linearis","(Rydb.) Dorn",Synonym,,L,TICA,7D6354F5-9677-4C40-84C0-5F2E0453A424,973407-1,"Vascular Plants of Wyoming","","295","1988",gcc-101700
+gcc-7493,A,Compositae,,Haplopappus,,"macronema",subsp.,"linearis","(Rydb.) H.M.Hall",Synonym,,L,TICA,9DAE9BC9-93DC-44B4-9B91-0DEDF86DCE4D,117642-2,"Publications of the Carnegie Institution of Washington 389:","","206","1928",gcc-101700
+gcc-13265,A,Compositae,,Haplopappus,,"macronema",var.,"macronema","",Synonym,,L,TICA,4AC61D61-D299-4806-9ACD-18B7BDC22597,,"","","","",gcc-79269
+gcc-71198,A,Compositae,,Haplopappus,,"macronema",subsp.,"macronema","",Synonym,,L,TICA,7B1D1361-65D5-4692-9E88-F44D86558725,,"","","","",gcc-79269
+gcc-56463,A,Compositae,,Haplopappus,,"macronema",var.,"typicus","H.M.Hall",Synonym,,L,TICA,1D1769D9-DC20-4A69-BE51-7ECA2D8D6D84,,"","","","",gcc-79269
+gcc-14502,A,Compositae,,Haplopappus,,"marginalis",,"","Phil.",Accepted,,M,TICA,0486A3D1-2AAE-4726-83B0-1AE6F7747422,117644-2,"","","63","1861",
+gcc-62426,A,Compositae,,Haplopappus,,"marginalis",var.,"heterophysus","(Phil.) Reiche",Synonym,,L,TICA,683E05EC-5737-42C4-BB30-AEAB5ABFC7BA,117645-2,"""Anales Univ. Chile 109: 73. 1901 Reiche, Flora de Chile, 3: 323.  1902""","","73","1901",gcc-14502
+gcc-68018,A,Compositae,,Haplopappus,,"marginalis",var.,"marginalis","",Synonym,,L,TICA,64CB60ED-7272-46CE-866C-DBB5D7B9BF64,,"","","","",gcc-14502
+gcc-16682,A,Compositae,,Haplopappus,,"marginatus",,"","Griseb.",Accepted,,M,TICA,49D18731-2670-4A2F-BBF4-1ED7C0ACA6EE,307331-2,"Cat. Pl. Cub.","","149","1866",
+gcc-109723,A,Compositae,,Haplopappus,,"martirensis",,"","(Wiggins) S.F.Blake",Synonym,,M,TICA,85FEF9F6-69E1-4115-8ECD-AF4B0C69541F,117647-2,"","","173","1935",gcc-32048
+gcc-83615,A,Compositae,,Haplopappus,,"maulinus",,"","Klingenb.",Unresolved,,L,TICA,DA8DAEBE-4970-4C7F-AEB3-74B149CE1B54,77080739-1,"Biblioth. Bot. 157: 274 (figs. 193-195)","","274 (figs. 193-195)","2007",
+gcc-116719,A,Compositae,,Haplopappus,,"medicinalis",,"","Phil.",Synonym,,M,TICA,B18D5BF6-92BF-44E1-8904-BF1036C7C8ED,178019-1,"Linnaea 28: 729. 1858","","729","1858",gcc-143615
+gcc-108802,A,Compositae,,Haplopappus,,"megacephalus",,"","(Nash) Hitchc.",Unresolved,,L,TICA,DA4F2C75-A50C-473E-AED1-AD2E57481C18,117649-2,"Transactions of the Kansas Academy of Science 16:","","131","1899",
+gcc-139502,A,Compositae,,Haplopappus,,"mendocinus",,"","""Tortosa, Adr.Bartoli""",Accepted,,L,TICA,E40B326D-B002-4A07-B333-F2DE67F589D3,,"Brittonia 54(1)","","51","2002",
+gcc-141246,A,Compositae,,Haplopappus,,"menziesii",,"","(Hook. & Arn.) Torr. & A.Gray",Synonym,,M,TICA,E9804C96-5609-4F4A-BCA0-F6F445A632D2,,"Fl. N. Amer. (Torr. & A. Gray) 2: 241","","","1842",gcc-77882
+gcc-109447,A,Compositae,,Haplopappus,,"meyenii",,"","(Walp. × H. cerberoanus Remy) Reiche",Unresolved,,L,TICA,A644BEA5-BCEC-4D4E-AC28-AEAEEC94768A,,"","","","",
+gcc-36180,A,Compositae,,Haplopappus,,"meyenii",,"","Walp.",Accepted,,M,TICA,5193E3A7-6BD0-4CA4-80A8-4317B9C3271A,178022-1,"in Nov. Act. Cur. xix. Suppl. i. (1843) 261","","261","1843",
+gcc-4478,A,Compositae,,Haplopappus,,"microcephalus",,"","Cronquist",Synonym,,M,TICA,F20C37E9-2333-4AD0-BCA1-0853DD34FADD,277936-2,"Madroño 11: 186. 1951","","186","1951",gcc-101875
+gcc-135713,A,Compositae,,Haplopappus,,"mollis",,"","A.Gray",Unresolved,,L,TICA,B6D1827F-B8B3-4440-A276-EA90E34D3793,301144-2,"","","80","1880",gcc-45878
+gcc-105954,A,Compositae,,Haplopappus,,"monactis",,"","A.Gray",Synonym,,M,TICA,B262A339-7E1C-479F-BB44-A6B816E18998,178024-1,"Proc. Amer. Acad. Arts xix. (1883) 1.","","1","1883",gcc-11524
+gcc-44671,A,Compositae,,Haplopappus,,"moyanoi",,"","Speg.",Synonym,,M,TICA,DA50325F-D2DB-4C04-8177-52C350DB0F24,117654-2,"""in Rev. Agron. La Plata, 1897, 609.""","","609","1897",gcc-125503
+gcc-135716,A,Compositae,,Haplopappus,,"mucronatus",,"","(Hook. & Arn.) Hook. & Arn. ex B.D.Jacks.",Accepted,,M,TICA,F32B8662-F064-4354-8070-EA928E3E2D6D,,"Index Kew. 1: 162 (1895)","","162","1895",
+gcc-81320,A,Compositae,,Haplopappus,,"mucronatus",,"","Hook. & Arn.",Unresolved,,L,TICA,5A06B9EE-C60E-4743-B327-6F8C3F4066D3,178026-1,"Bot. Beechey Voy. 147.","","147","",
+gcc-124487,A,Compositae,,Haplopappus,,"multicaulis",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,1D2E56EE-21A5-48A1-929D-D0CFA796BFFD,117656-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-36170,A,Compositae,,Haplopappus,,"multicaulis",,"","(Nutt.) A.Gray",Synonym,,M,TICA,F3AE03AE-DB11-44E2-8168-4311F6A0DD56,178027-1,"Amer. Naturalist viii. (1874) 213.","","213","1874",gcc-79543
+gcc-15362,A,Compositae,,Haplopappus,,"multifolius",,"","Phil.",Unresolved,,L,TICA,07FE8479-31A8-4F9F-BF9E-1C722EB0444F,1210620-2,"","","","",
+gcc-15981,A,Compositae,,Haplopappus,,"multifolius",,"","Phil. ex Reiche",Accepted,,M,TICA,16779B68-1DF5-4CD8-8227-1D92774261F6,,"""Fl. Chile, iii. 291""","","","1901",
+gcc-41847,A,Compositae,,Haplopappus,,"mustersi",,"","Speg.",Synonym,,M,TICA,5C845A5E-1AFC-48CC-95CA-4D7EDAC35D01,117657-2,"","","183","1899",gcc-42535
+gcc-141698,A,Compositae,,Haplopappus,,"nahuelbutae",,"","Klingenb.",Accepted,,M,TICA,88784A22-4F75-4D35-950E-F7FA47E02441,,"Sendtnera 4","","","1997",
+gcc-12587,A,Compositae,,Haplopappus,,"nanus",,"","(Nutt.) Eaton",Synonym,,M,TICA,A0AB81A7-40E1-4A3F-B4AB-17779E036C69,,"""in Bot. King, Exped. 159.""","","","1871",gcc-131117
+gcc-8592,A,Compositae,,Haplopappus,,"nanus",var.,"nanus","",Synonym,,L,TICA,83074D6C-3BE2-4062-8621-1009D1CBE81D,,"","","","",gcc-131117
+gcc-99025,A,Compositae,,Haplopappus,,"navarri",,"","Phil.",Unresolved,,L,TICA,B20E8CA0-314E-4C86-84EC-976F9C2B69B5,,"","","","",
+gcc-108738,A,Compositae,,Haplopappus,,"nealleyi",,"","J.M.Coult.",Unresolved,,L,TICA,E3C0E065-221D-4395-AF30-AD05CFA38D81,117660-2,"","","40","1890",
+gcc-40154,A,Compositae,,Haplopappus,,"nelsonii",,"","S.F.Blake",Unresolved,,L,TICA,5B2B9EF1-5C5A-4072-B2E2-4A770FD7BC2B,,"","","","1925",
+gcc-131062,A,Compositae,,Haplopappus,,"nevadensis",,"","Kellogg",Unresolved,,L,TICA,A29A1A9B-B984-4EEF-B47D-DFF9A3A69F1E,,"Proc. Calif. Acad. Sci. 3: 9","","","1863",
+gcc-41918,A,Compositae,,Haplopappus,,"niveus",,"","S.Watson",Synonym,,M,TICA,F541EF92-CC48-4D97-83FE-4D9D620240D8,309238-2,"Proc. Amer. Acad. Arts 23","","277","1888",gcc-135392
+gcc-28554,A,Compositae,,Haplopappus,,"nuttallii",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,B74A353E-449E-4D13-BB9B-34C60BF7E042,117664-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-77162,A,Compositae,,Haplopappus,,"nuttallii",,"","Torr. & A.Gray",Synonym,,L,TICA,8AF043D0-A365-41BC-BE20-664357A7D4D7,117663-2,"Fl. N. Amer. (Torr. & A. Gray) 2","","242","1842",gcc-1184
+gcc-57968,A,Compositae,,Haplopappus,,"nuttallii",var.,"depressus","Maguire",Synonym,,L,TICA,9F0BDC06-97A0-4133-9744-8AD45F4DBE43,117665-2,"American Midland Naturalist 37(1):","","144-145","1947",gcc-12746
+gcc-56451,A,Compositae,,Haplopappus,,"nuttallii",var.,"nuttallii","",Synonym,,L,TICA,C4C398DF-FE1C-4703-84C3-7EADDF3559CA,,"","","","1947",gcc-1184
+gcc-138859,A,Compositae,,Haplopappus,,"obovatus",,"","Phil.",Unresolved,,L,TICA,EB747867-7510-475C-A37D-F181D09B45EE,117667-2,"","","604","1894",
+gcc-28641,A,Compositae,,Haplopappus,,"obovatus",,"","Reiche",Unresolved,,L,TICA,8E70A56F-3D2A-44C7-BCD7-34F05E6CB3C6,,"","","","1894",
+gcc-76445,A,Compositae,,Haplopappus,,"occidentalis",,"","H.M.Hall",Synonym,,M,TICA,4E742880-ECE9-4E0D-9754-64BC7FDD022F,,"","","""214, fig. 72, tab. 1, fig. 1""","1928",gcc-142998
+gcc-17941,A,Compositae,,Haplopappus,,"ochagavianus",,"","Phil.",Accepted,,M,TICA,2A9A947C-2CB2-44AF-A9C0-2127CE480F9D,178037-1,"Linnaea 28: 725. 1858","","725","1858",
+gcc-11011,A,Compositae,,Haplopappus,,"ochagaviensis",,"","Phil.",Unresolved,,L,TICA,47D260C6-8844-4A3C-8B8E-1496813EB334,117669-2,"","","","",
+gcc-11863,A,Compositae,,Haplopappus,,"odontolepis",,"","Moran",Unresolved,,L,TICA,6EACC701-A26C-43BF-88B4-1618F2875626,,"","","","1969",gcc-135639
+gcc-134281,A,Compositae,,Haplopappus,,"ophitidis",,"","(J.T.Howell) D.D.Keck",Synonym,,M,TICA,9A58C5B4-C92A-4AE4-B350-E76CD1945DB0,117671-2,"","","103","1958",gcc-98436
+gcc-21031,A,Compositae,,Haplopappus,,"oppositifolius",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,1F2E7793-5A7D-4BEC-9FCA-26DBD60F6C78,117672-2,"Contributions from the United States National Herbarium 23(5):","","1489","1926",gcc-117434
+gcc-35578,A,Compositae,,Haplopappus,,"orcuttii",,"","A.Gray",Synonym,,M,TICA,3F75ADAE-D9AE-4DD4-8193-41F79ABCCBD4,178039-1,"Proc. Amer. Acad. Arts xx. (1885) 297.","","297","1885",gcc-134695
+gcc-894,A,Compositae,,Haplopappus,,"pallidus",,"","Phil.",Synonym,,M,TICA,CCF22EB6-D533-4DC5-A648-01AB3B76C6DD,117674-2,"","","596","1894",gcc-127070
+gcc-96628,A,Compositae,,Haplopappus,,"palmeri",,"","A.Gray",Synonym,,M,TICA,B5918F47-B310-46E5-B37C-920530B07D08,178040-1,"Proc. Amer. Acad. Arts xi. (1876) 74.","","74","1876",gcc-121382
+gcc-36276,A,Compositae,,Haplopappus,,"palmeri",subsp.,"pachylepis","H.M.Hall",Synonym,,L,TICA,09BCA53C-2302-447E-A2D8-4346309EA855,117676-2,"","","""267, fig. 96""","1928",gcc-4436
+gcc-62890,A,Compositae,,Haplopappus,,"palmeri",var.,"pachylepis","(H.M.Hall) Munz",Synonym,,L,TICA,A513D278-613C-4BB8-8BC8-B26D597E237D,117677-2,"Man. S. Calif. Bot. 522. 1935","","522","1935",gcc-4436
+gcc-56215,A,Compositae,,Haplopappus,,"palmeri",subsp.,"palmeri","",Synonym,,L,TICA,19504100-B86B-415C-A9D0-7CAFDFC19AA5,,"","","","",gcc-121382
+gcc-61637,A,Compositae,,Haplopappus,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,886A4029-FCAF-44ED-BED7-A833A398186E,,"","","","",gcc-121382
+gcc-13578,A,Compositae,,Haplopappus,,"paniculatus",,"","(Nutt.) A.Gray",Synonym,,L,TICA,E96F9636-133E-4FE6-B40B-194265A1A1BF,1099906-2,"","","354","1868",gcc-60761
+gcc-39535,A,Compositae,,Haplopappus,,"paniculatus",,"","Phil.",Synonym,,M,TICA,F01D95E0-6B89-4F46-A7C9-49600C442A53,178041-1,"Anales Univ. Chile (1873) 490.","","490","",gcc-116757
+gcc-148685,A,Compositae,,Haplopappus,,"paniculatus",var.,"paniculatus","",Synonym,,L,TICA,2D87AB31-1E25-495D-8135-484C8E9F2B58,,"","","","",gcc-60761
+gcc-66404,A,Compositae,,Haplopappus,,"paniculatus",var.,"virgatus","A.Gray",Synonym,,L,TICA,48719D21-CFD0-4C99-822E-CE92369ABA7F,117681-2,"Proc. Amer. Acad. Arts 7: 354. 1868 as Aplopappus","","354","1868",gcc-60761
+gcc-95222,A,Compositae,,Haplopappus,,"pappocroma",,"","(Labill.) Hook.f.",Unresolved,,L,TICA,AC4D98B1-56FA-4865-ADE7-8ECAC4A029AE,178043-1,"","","vi.  111","1847",
+gcc-124464,A,Compositae,,Haplopappus,,"parishii",,"","(Greene) S.F.Blake",Synonym,,M,TICA,914FD72A-CC97-471E-A7EB-D0C052B42AE3,,"Contr. U. S. Natl. Herb. xxiii. 1491 (1926).","","","1926",gcc-109516
+gcc-102767,A,Compositae,,Haplopappus,,"parrasanus",,"","(S.F.Blake) S.F.Blake",Synonym,,M,TICA,4DB09D6F-5AA3-4617-9FD7-9FE0962D1441,117682-2,"","","1490","1926",gcc-50776
+gcc-17201,A,Compositae,,Haplopappus,,"parryi",,"","A.Gray",Synonym,Illegitimate,L,TICA,42270512-6177-4C81-A100-1FCAEE87D026,,"","","239","1862",gcc-130958
+gcc-60066,A,Compositae,,Haplopappus,,"parryi",var.,"minor","A.Gray",Unresolved,,L,TICA,A28478A0-8DF4-46F7-A2BA-9B58DD4937D0,,"Synoptical Flora of North America 1(2):","","131","1884",gcc-130958
+gcc-67522,A,Compositae,,Haplopappus,,"parryi",var.,"parryi","",Synonym,,L,TICA,EE32C50B-96B1-4549-ABA2-D7E10C41408C,,"","","","",gcc-130958
+gcc-28337,A,Compositae,,Haplopappus,,"parvifolius",,"","(DC.) Gay",Accepted,,M,TICA,9CA1D28C-0B5B-4360-B79E-3455DD85ADEB,,"","","","",
+gcc-40064,A,Compositae,,Haplopappus,,"parvifolius",,"","Reiche",Unresolved,,L,TICA,002E478B-0A8F-4FA4-B51E-4A516BCABC08,,"","","","1901",
+gcc-4946,A,Compositae,,Haplopappus,,"parvifolius",,"","(DC.) A.Gray",Unresolved,,L,TICA,C29FF8FE-38C6-4E22-89ED-093AEB438D16,,"Proc. Amer. Acad. Arts v. (1861) 122.","","122","",
+gcc-118141,A,Compositae,,Haplopappus,,"patagonicus",,"","Phil.",Synonym,,M,TICA,08920028-6902-4B0E-8718-C23D48586AC8,117687-2,"Linnaea 28","","726","1856",gcc-7637
+gcc-82349,A,Compositae,,Haplopappus,,"patagonicus",,"","Speg.",Synonym,,M,TICA,E2A2ADE3-E8FB-4A5C-A2C8-71D2599A7B97,297079-2,"""in Rev. Agron. La Plata, 1897, 528.""","","528","1897",gcc-19107
+gcc-105722,A,Compositae,,Haplopappus,,"paucidentatus",,"","Phil.",Synonym,,M,TICA,83C08D66-D057-4967-8F40-A629226BB0F3,117688-2,"","","492","1873",gcc-7637
+gcc-32799,A,Compositae,,Haplopappus,,"pectinatus",,"","Phil.",Synonym,,M,TICA,1183143D-3D7E-4E54-8869-3CD7564862EA,178052-1,"Linnaea 33: 140. 1864","","381","1862",gcc-125503
+gcc-9171,A,Compositae,,Haplopappus,,"pectinatus",var.,"anethifolius","(Phil.) Reiche",Synonym,,L,TICA,62EFF884-83CF-4D7D-9FCE-11273F66309E,117690-2,"""Anales Univ. Chile 109: 48. 1901 Reiche, Flora de Chile, 3: 298.  1902""","","48","1901",gcc-125503
+gcc-152164,A,Compositae,,Haplopappus,,"pectinatus",var.,"pectinatus","",Synonym,,L,TICA,59220B09-E76A-41B1-A27D-93DF887781A4,,"","","","",gcc-125503
+gcc-113642,A,Compositae,,Haplopappus,,"pedunculosus",,"","J.Rémy",Accepted,,M,TICA,8B20184F-7CD2-4728-AA2A-B81500CD351A,178053-1,"Fl. Chil. [Gay] 4: 51.","","51","1849",
+tro-2700844,A,Compositae,,Haplopappus,,"pedunculosus",,"","Remy",Unresolved,,L,TRO,2700844,,"Fl. Chil.","4: 51","51","",
+gcc-117842,A,Compositae,,Haplopappus,,"peirsonii",,"","(D.D.Keck) J.T.Howell",Synonym,,M,TICA,D27E45BD-A606-4E23-8DB2-C192634BABB9,117692-2,"","","86","1950",gcc-18558
+gcc-87665,A,Compositae,,Haplopappus,,"peteroanus",,"","Phil.",Synonym,,M,TICA,AD36DD74-79FC-40F4-A575-7DC33BE10D68,117693-2,"","","609","1894",gcc-127070
+gcc-116757,A,Compositae,,Haplopappus,,"philippii",,"","(Kuntze) H.M.Hall",Accepted,,M,TICA,C7339834-6E79-4AD8-8F3A-BF2762AA2354,117694-2,"","","325","1928",
+gcc-92127,A,Compositae,,Haplopappus,,"phyllocephalus",,"","DC.",Synonym,Illegitimate,M,TICA,E6E4E760-B907-4ECE-AE76-87EB22CD3F5F,304090-2,"Prodr. (DC.) 5: 347","","347","1836",gcc-49487
+gcc-34215,A,Compositae,,Haplopappus,,"phyllocephalus",subsp.,"annuus","(Rydb.) H.M.Hall",Synonym,,L,TICA,20AE1C9D-ED13-4F4A-8BB3-3F6B69EC10B9,117696-2,"Publications of the Carnegie Institution of Washington 389:","","58","1928",gcc-88569
+gcc-71353,A,Compositae,,Haplopappus,,"phyllocephalus",var.,"annuus","(Rydb.) Waterf.",Synonym,,L,TICA,34F8A714-78E5-4FF0-B32F-F593AC9827A9,,"Rhodora 62(743):","","321","1960",gcc-88569
+gcc-62329,A,Compositae,,Haplopappus,,"phyllocephalus",var.,"megacephalus","(Nash) Waterf.",Synonym,,L,TICA,74456AE1-E494-4693-8EF8-ADE221496343,117699-2,"Rhodora 62(743):","","321","1960",gcc-49487
+gcc-56945,A,Compositae,,Haplopappus,,"phyllocephalus",var.,"phyllocephalus","",Synonym,,L,TICA,EDA5F0C7-BB25-44C8-B100-8261D21C4A69,,"","","","",gcc-49487
+gcc-69186,A,Compositae,,Haplopappus,,"phyllocephalus",subsp.,"phyllocephalus","",Synonym,,L,TICA,7996CDF2-BD45-4007-88C1-E48DE6795871,,"","","","",gcc-49487
+gcc-12673,A,Compositae,,Haplopappus,,"phyllophorus",,"","Reiche",Accepted,,M,TICA,F7F37091-735F-48C5-83B5-17A1DB7EF656,117703-2,"","","41","1901",
+gcc-31873,A,Compositae,,Haplopappus,,"pinea",,"","(Phil.) Reiche",Accepted,,M,TICA,5CF5EF51-1B3B-474B-8DA6-3B0AF69D8321,117704-2,"","","35","1901",
+gcc-37626,A,Compositae,,Haplopappus,,"pinifolius",,"","A.Gray",Synonym,,M,TICA,8B166816-2ED2-4D00-85A1-45BDEADAE5F5,178058-1,"Proc. Amer. Acad. Arts viii. (1873) 636.","","636","1873",gcc-25018
+gcc-135222,A,Compositae,,Haplopappus,,"pinnatifidus",,"","Nutt.",Accepted,,M,TICA,5CE1957C-28B4-4966-A047-E981AF777D29,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 330""","","330","",
+gcc-103849,A,Compositae,,Haplopappus,,"platylepis",,"","Phil.",Accepted,,M,TICA,49B9610F-26D1-4F42-A957-A228DDD5A972,117706-2,"","","591","1894",
+gcc-52857,A,Compositae,,Haplopappus,,"pluriflorus",,"","(Torr. & A.Gray) H.M.Hall",Synonym,,L,TICA,03464865-9988-4C34-9A2B-620216BE1CC0,117707-2,"","","237","1928",gcc-113741
+gcc-46393,A,Compositae,,Haplopappus,,"poeppigianus",,"","(Hook. & Arn.) A.Gray",Accepted,,M,TICA,67A56066-3385-4E76-A0E0-55FB64A44047,,"Proc. Amer. Acad. Arts v. (1862) 121.","","121","1861",
+gcc-149988,A,Compositae,,Haplopappus,,"poeppigianus",var.,"poeppigianus","",Synonym,,L,TICA,2A797FE7-BE8B-4A2C-A25F-64B307CFF844,,"","","","",gcc-46393
+gcc-54800,A,Compositae,,Haplopappus,,"poeppigianus",var.,"radiatus","A.Gray",Synonym,,L,TICA,867CFE7F-1A51-4CBD-834F-70F8EEC12F0A,117708-2,"Proc. Amer. Acad. Arts 5: 121. 1861 As Aplopappus","","121","1861",gcc-95202
+gcc-89052,A,Compositae,,Haplopappus,,"polycladus",,"","Phil.",Synonym,,L,TICA,40745CD1-BC8C-4298-B047-80D017D9C5F0,,"","","","",gcc-89158
+gcc-132542,A,Compositae,,Haplopappus,,"polyphyllus",,"","Phil.",Synonym,,M,TICA,26DBD4CB-20F3-42BF-AB5A-E3802B33CE55,178062-1,"Linnaea 30: 192 (1859-61).","","192","1859",gcc-93951
+gcc-111388,A,Compositae,,Haplopappus,,"prinophyllus",,"","Phil.",Synonym,,M,TICA,C2F2795F-8994-4D42-8D46-B2FDE08E9342,,"","","","",gcc-105511
+gcc-16234,A,Compositae,,Haplopappus,,"pristiphyllus",,"","(J.Rémy) H.M.Hall",Accepted,,M,TICA,EC9E35AF-D4EA-4B0A-895C-1E0872E43F34,117710-2,"","","351","1928",
+gcc-33871,A,Compositae,,Haplopappus,,"propinquus",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,08BC0091-1A65-47ED-8F66-3ECF0170EC8A,117711-2,"","","1490","1926",gcc-46814
+gcc-105429,A,Compositae,,Haplopappus,,"prostratus",,"","Phil.",Unresolved,,L,TICA,AADFD965-82FD-43D1-8764-A58E793D3FAE,,"","","","1901",
+gcc-134572,A,Compositae,,Haplopappus,,"prunelloides",,"","(Poepp. ex Less.) Poepp. ex DC.",Accepted,,M,TICA,219427FE-44BC-47BF-A2E1-E8182FF6D740,1210507-2,"Prodr. (DC.) 5: 346","","346","1836",
+gcc-53074,A,Compositae,,Haplopappus,,"prunelloides",var.,"lanatus","Cabrera",Synonym,,L,TICA,B1D504CA-950C-419B-8091-634B0650E72C,117713-2,"","","56","1971",gcc-42535
+gcc-64347,A,Compositae,,Haplopappus,,"prunelloides",var.,"mustersii","(Speg.) Cabrera",Synonym,,L,TICA,A211BA51-93C9-4A17-AB85-BDD450F9C4BB,117714-2,"","","56","1971",gcc-42535
+gcc-58747,A,Compositae,,Haplopappus,,"prunelloides",var.,"prunelloides","",Synonym,,L,TICA,56D189E5-D346-4C90-B708-9110444F4198,,"","","","",gcc-134572
+gcc-24667,A,Compositae,,Haplopappus,,"prunelloides",var.,"sphaerocephalus","Reiche",Synonym,,L,TICA,10D8320B-BCD3-4556-B433-2D917164A73A,,"""Anales Univ. Chile 109: 50. 1901 Reiche, Flora de Chile, 3: 300.  1902""","","","",gcc-42535
+gcc-11940,A,Compositae,,Haplopappus,,"pseudobaccharis",,"","S.F.Blake",Synonym,,M,TICA,4AE4CEB5-1C80-4EA8-B089-164132E849C0,277938-2,"J. Wash. Acad. Sci. 40: 47. 1950","","47","1950",gcc-51343
+gcc-89882,A,Compositae,,Haplopappus,,"pucidulus",,"","S.F.Blake",Unresolved,,L,TICA,C5E09027-BB42-47F5-83A8-82C0FCE56DA0,16488-2,"Amer. J. Bot. 14: 114. 1927","","114","1927",
+gcc-39775,A,Compositae,,Haplopappus,,"pulchellus",,"","(Bertero) DC.",Accepted,,M,TICA,EE10E7BA-A0B8-47A4-86AF-49CBC224CC65,178067-1,"Prodr. (DC.) 5: 347","","347","1836",
+gcc-47101,A,Compositae,,Haplopappus,,"pulchellus",var.,"elongaus","J.Rémy",Synonym,,L,TICA,595BE9EE-E62C-40F2-8080-5743E6CE2267,,"","","","",gcc-129578
+gcc-147053,A,Compositae,,Haplopappus,,"pulchellus",var.,"pulchellus","",Synonym,,L,TICA,44BE23DC-595C-411A-ADB9-257B45349159,,"","","","",gcc-39775
+gcc-129574,A,Compositae,,Haplopappus,,"pulvinatus",,"","Moran",Synonym,,M,TICA,ADF93D78-B00F-4B7D-B281-DC90E8DD46FB,,"Trans. San Diego Soc. Nat. Hist. 15","","","1969",gcc-111090
+gcc-52240,A,Compositae,,Haplopappus,,"punctatus",,"","(Willd.) H.M.Hall",Synonym,,M,TICA,4ACEDDCE-CE8B-4CED-885B-60E1501848ED,117719-2,"","","339","1928",gcc-129578
+gcc-88442,A,Compositae,,Haplopappus,,"purpusii",,"","(Brandegee) S.F.Blake",Synonym,,M,TICA,C9AFC25F-663A-48DE-9043-7F6D95AB728F,117720-2,"","","1491","1926",gcc-82617
+gcc-85551,A,Compositae,,Haplopappus,,"pusillus",,"","Klingenb.",Unresolved,,L,TICA,7D77FF1B-0D9A-4999-BE93-78EC31418A17,77080738-1,"Biblioth. Bot. 157: 252","","252","2007",
+gcc-114443,A,Compositae,,Haplopappus,,"pygmaeus",,"","(Torr. & A.Gray) A.Gray",Synonym,,L,TICA,ABAF4F28-5388-45A7-9084-B9DD9DF55A5B,,"""in Amer. J. Sci. Ser. II, xxxiii. (1862) 239.""","","239","1862",gcc-92439
+gcc-128133,A,Compositae,,Haplopappus,,"pygmaeus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,FDBD84DE-6D8F-4D64-9C1F-D951BD1C4F90,117722-2,"Rocky Mt. Flowers 277. 1914","","277","1914",
+gcc-45827,A,Compositae,,Haplopappus,,"pyramidatus",,"","(B.L.Rob. & Greenm.) S.F.Blake",Synonym,,M,TICA,8F7C0F45-08F8-49E1-8F0C-54F410B2497B,1122045-2,"Contr. U. S. Natl. Herb. 23: 1491. 1926","","1491","1926",gcc-136755
+gcc-112493,A,Compositae,,Haplopappus,,"racemiger",,"","Klingenb.",Unresolved,,L,TICA,32292E74-4863-46E8-8B99-B59257AEC956,77080733-1,"Biblioth. Bot. 157: 183 (figs. 118-120)","","183 (figs. 118-120)","2007",
+gcc-89225,A,Compositae,,Haplopappus,,"racemosus",,"","(Nutt.) Torr.",Synonym,,L,TICA,C23D5019-8044-4120-951C-8138E6873B07,,"""in Sitgreave, Rep. 162.""","","","1853",gcc-143340
+gcc-59848,A,Compositae,,Haplopappus,,"racemosus",subsp.,"brachycephalus","(A.Nelson) H.M.Hall",Synonym,,L,TICA,FC595AE5-8B56-47D2-814B-99BC583E4271,117724-2,"Publ. Carnegie Inst. Wash. 389: 134. 1928","","134","1928",gcc-60761
+gcc-65149,A,Compositae,,Haplopappus,,"racemosus",subsp.,"congestus","(Greene) H.M.Hall",Synonym,,L,TICA,24E20B07-77CF-45D5-BED5-C440AEBE3669,117726-2,"Publ. Carnegie Inst. Wash. 389: 128. 1928","","128","1928",gcc-59741
+gcc-63060,A,Compositae,,Haplopappus,,"racemosus",subsp.,"duriusculus","(Greene) H.M.Hall",Synonym,,L,TICA,A69C6B5E-BFFF-40B9-B007-B3CD6E61AC10,117728-2,"Publ. Carnegie Inst. Wash. 389","","129","1928",gcc-60761
+gcc-64156,A,Compositae,,Haplopappus,,"racemosus",subsp.,"glomeratus","(Nutt.) H.M.Hall",Synonym,,L,TICA,B3497E44-E7EC-4CA6-8C28-BC3EA11DC2A3,,"Publ. Carnegie Inst. Wash. 389: 132. 1928","","","1928",gcc-60761
+gcc-60652,A,Compositae,,Haplopappus,,"racemosus",var.,"glomerellus","(Nutt.) A.Gray",Synonym,,L,TICA,15151F0D-7011-4712-B4CC-9FFA11758363,117732-2,"""Syn. Fl. N. Amer. 1, pt. 2: 127. 1884 as Aplopappus""","","127","1884",gcc-60761
+gcc-67964,A,Compositae,,Haplopappus,,"racemosus",subsp.,"halophilus","(Greene) H.M.Hall",Synonym,,L,TICA,060B26AF-6144-4C1E-BCAB-DB4335981EA2,117733-2,"Publ. Carnegie Inst. Wash. 389: 136. 1928","","136","1928",gcc-60761
+gcc-16511,A,Compositae,,Haplopappus,,"racemosus",subsp.,"liatriformis","(Greene) D.D.Keck",Synonym,,L,TICA,A267FAA8-7264-408B-A957-1E87968ACBE1,117735-2,"Aliso 4: 103. 1958","","103","1958",gcc-114952
+gcc-56170,A,Compositae,,Haplopappus,,"racemosus",subsp.,"lucidus","D.D.Keck",Synonym,,L,TICA,E774381E-2C80-4BD2-86BD-7C51F5E63545,309246-2,"Madroño 5","","167","1940",gcc-96374
+gcc-66062,A,Compositae,,Haplopappus,,"racemosus",var.,"paniculatus","(Nutt.) Cronquist",Synonym,,L,TICA,4A634572-C214-4A97-A254-CBC3920A8327,979379-1,"","","210","1994",gcc-60761
+gcc-41786,A,Compositae,,Haplopappus,,"racemosus",subsp.,"pinetorum","D.D.Keck",Synonym,,L,TICA,99B2BD41-BFC4-40D5-89EB-4D64E5656F71,308233-2,"Madroño 5","","166","1940",gcc-19165
+gcc-22404,A,Compositae,,Haplopappus,,"racemosus",subsp.,"prionophyllus","(Greene) H.M.Hall",Synonym,,L,TICA,F87BABAE-2C9D-4CA1-A539-2975A395C2F3,117741-2,"Publ. Carnegie Inst. Wash. 389: 131. 1928","","131","1928",gcc-60761
+gcc-42270,A,Compositae,,Haplopappus,,"racemosus",var.,"prionophyllus","(Greene) S.L.Welsh",Synonym,,L,TICA,7821351C-863E-4FEA-826D-4E4DF36FEEC6,951972-1,"","","294","1983",gcc-60761
+gcc-46008,A,Compositae,,Haplopappus,,"racemosus",var.,"racemosus","",Synonym,,L,TICA,00FBCAD4-6516-4B7F-BE77-5549331B048A,,"","","","",gcc-143340
+gcc-67657,A,Compositae,,Haplopappus,,"racemosus",subsp.,"racemosus","",Synonym,,L,TICA,94FA9A5A-55AA-4A10-9FBC-D8EFBEBFFC2D,,"","","","",gcc-143340
+gcc-50682,A,Compositae,,Haplopappus,,"racemosus",subsp.,"sessiliflorus","(Greene) H.M.Hall",Synonym,,L,TICA,A8EAEA02-99B2-42C6-92AE-5DFEB3549542,117742-2,"Publ. Carnegie Inst. Wash. 389: 136. 1928","","136","1928",gcc-57620
+gcc-62573,A,Compositae,,Haplopappus,,"racemosus",var.,"sessiliflorus","(Greene) S.L.Welsh",Synonym,,L,TICA,4DC86B10-E54A-4C9B-B3B2-AFE53C4EA9AD,951971-1,"","","294","1983",gcc-57620
+gcc-121992,A,Compositae,,Haplopappus,,"radiatus",,"","(Nutt.) Cronquist",Synonym,,M,TICA,1C088A23-1327-46B7-B20E-CB05ED788ACF,117746-2,"","","223","1955",gcc-130961
+gcc-107894,A,Compositae,,Haplopappus,,"radicans",,"","J.Rémy",Synonym,,M,TICA,95C53DCF-CD47-47C7-9273-AB20B1EB1026,117747-2,"","","45","1849",gcc-21224
+gcc-20072,A,Compositae,,Haplopappus,,"ramulosus",,"","DC.",Unresolved,,L,TICA,FCEEE277-528F-4CB9-A736-251CA2D23469,178074-1,"Prodr. (DC.) 5: 350","","350","1836",gcc-143446
+gcc-83481,A,Compositae,,Haplopappus,,"ravenii",,"","R.C.Jacks.",Synonym,,M,TICA,CF66A140-91D8-4500-98C4-74698F90B4C4,117748-2,"","","123","1962",gcc-19802
+gcc-86126,A,Compositae,,Haplopappus,,"reflexus",,"","Phil.",Synonym,,M,TICA,0C58EA81-78D6-4DEB-9D49-7A37DE0718A4,178075-1,"Linnaea 28: 728. 1858","","728","1858",gcc-4716
+gcc-41077,A,Compositae,,Haplopappus,,"reicheanus",,"","H.M.Hall",Accepted,,M,TICA,5EF82DAA-839F-4C8D-9747-4C2338470D69,297114-2,"","","324","1928",
+gcc-105511,A,Compositae,,Haplopappus,,"remyanus",,"","Wedd.",Accepted,,M,TICA,1935A349-47E5-4399-94AB-A5BD6974A693,,"Chlor. And. i. 210.","","210","",
+gcc-138938,A,Compositae,,Haplopappus,,"rengifoanus",,"","J.Rémy",Accepted,,M,TICA,97B5E21E-6E4A-4F6B-A854-F1A7E4880320,178078-1,"","","43","1849",
+gcc-30082,A,Compositae,,Haplopappus,,"resinosus",,"","(Nutt.) A.Gray",Synonym,,M,TICA,3CF54E23-3834-4021-ADDC-37AF2F452E21,,"Bot. U. St. Expl. Exped. ii. 346.","","","1876",gcc-141359
+gcc-35157,A,Compositae,,Haplopappus,,"reticulatus",,"","(Phil.) Reiche",Unresolved,,L,TICA,A7992D85-1FC7-457C-B610-4133D7CEFECA,,"","","","1901",
+gcc-87297,A,Compositae,,Haplopappus,,"reticulatus",,"","Phil.",Synonym,,M,TICA,E9782C3C-1210-45E6-9BDC-7CF37E3890CD,178080-1,"Linnaea 28: 725. 1858","","725","1858",gcc-127070
+gcc-136780,A,Compositae,,Haplopappus,,"retinervius",,"","(Kuntze) Klingenb.",Unresolved,,L,TICA,90310854-A1C2-459D-9A08-ED005BC90502,77080731-1,"Biblioth. Bot. 157: 175","","175","2007",
+gcc-104425,A,Compositae,,Haplopappus,,"rhizomatus",,"","M.C.Johnst.",Unresolved,,L,TICA,A7434D87-C688-4F69-898B-A379DBB15DF8,117754-2,"","","177","1961",gcc-140431
+gcc-45871,A,Compositae,,Haplopappus,,"rigidifolius",,"","E.B.Sm.",Synonym,,M,TICA,42FB8A8B-F7B9-4FB6-BE62-55079846D066,297115-2,"","","229","1965",gcc-3552
+gcc-13274,A,Compositae,,Haplopappus,,"rigidus",,"","Phil.",Accepted,,M,TICA,B7F86FBA-42A2-4A2B-9B94-18BE048B36D1,117756-2,"Fl. Atacam.","","","1860",
+gcc-24294,A,Compositae,,Haplopappus,,"rigidus",,"","(Rydb.) Blank.",Unresolved,Illegitimate,L,TICA,B3123593-6179-495C-B913-2CDDD3A0563E,117755-2,"","","100","1905",
+gcc-76008,A,Compositae,,Haplopappus,,"rosaricus",,"","Moran",Synonym,,M,TICA,96E1BA9B-8C1B-468C-8925-63B474BE2B5C,,"","","","1969",gcc-36258
+gcc-23312,A,Compositae,,Haplopappus,,"rosmarinifolius",,"","Reiche",Synonym,,M,TICA,3290ED0C-4CF7-4B08-BC5A-2B2375DB7EB1,,"","","","1901",gcc-113642
+gcc-78946,A,Compositae,,Haplopappus,,"rosulatus",,"","H.M.Hall",Accepted,,M,TICA,0941784A-7051-4EB4-9E1F-6A5D8FD6AE94,,"","","","1928",
+gcc-23302,A,Compositae,,Haplopappus,,"rotundifolius",,"","H.M.Hall",Accepted,,M,TICA,8E65A735-560F-46A1-8A78-2B202E94D0F8,297118-2,"","","347","1928",
+gcc-84879,A,Compositae,,Haplopappus,,"rubiginosus",,"","Torr. & A.Gray",Accepted,,M,TICA,3BCEAF22-0180-4384-B5EB-7773B1330C22,117760-2,"Fl. N. Amer. (Torr. & A. Gray) 2","","240","1842",
+gcc-63134,A,Compositae,,Haplopappus,,"rubiginosus",var.,"rubiginosus","",Synonym,,L,TICA,E28CBC70-060F-4F20-A8DB-B4637B0B370F,,"","","","",gcc-84879
+gcc-39096,A,Compositae,,Haplopappus,,"rufescens",,"","S.F.Blake",Synonym,,M,TICA,CA8234A0-4374-4606-AE32-488A281CE9AF,16489-2,"Amer. J. Bot. 14: 111. 1927","","111","1927",gcc-7206
+gcc-105860,A,Compositae,,Haplopappus,,"rusbyi",,"","(Greene) Cronquist",Synonym,,M,TICA,495DC915-0323-40B4-9D9A-A68163D31CE8,979381-1,"","","212","1994",gcc-116776
+gcc-118562,A,Compositae,,Haplopappus,,"rydbergii",,"","S.F.Blake",Synonym,,M,TICA,CA1C80F7-4705-4E56-BCF6-C33C8FF75DD9,,"","","","1925",gcc-16421
+gcc-12549,A,Compositae,,Haplopappus,,"salicinus",,"","S.F.Blake",Synonym,,M,TICA,B5ED5C1E-2201-4D8F-8BAB-176059AA7105,310435-2,"Proc. Biol. Soc. Wash. 48: 171. 1935","","171","1935",gcc-87215
+gcc-141445,A,Compositae,,Haplopappus,,"saxatilis",,"","(J.Rémy) Reiche",Accepted,,M,TICA,AFA6D012-942D-4E83-BE85-F771FF06E87D,117765-2,"","","39","1901",
+gcc-118226,A,Compositae,,Haplopappus,,"scaposus",,"","DC.",Synonym,,M,TICA,3B0D74F0-FC05-4D99-A84F-C270B07DAF1F,178093-1,"Prodr. (DC.) 5: 350","","350","1836",gcc-22586
+gcc-94813,A,Compositae,,Haplopappus,,"scaposus",,"","J.Rémy",Accepted,,M,TICA,0A1F9117-08F9-4F01-B543-8DE514B15034,178092-1,"","","50","1849",
+gcc-86699,A,Compositae,,Haplopappus,,"scariosus",,"","DC.",Unresolved,,L,TICA,0396E1E8-D470-45EA-A572-7B8114D7E144,,"","","","",
+gcc-95202,A,Compositae,,Haplopappus,,"schumannii",,"","(Kuntze) G.K.Br. & W.D.Clark",Accepted,,M,TICA,761236CA-D6D7-4CCB-AC54-8EBE70802B73,910732-1,"","","208","1982",
+gcc-26512,A,Compositae,,Haplopappus,,"scopulorum",,"","(M.E.Jones) S.F.Blake",Synonym,,L,TICA,C03269F0-FBE5-4082-9F8B-310034142A00,117768-2,"Contr. U.S. Natl. Herb. 25","","""542, 546""","1925",gcc-89424
+gcc-64031,A,Compositae,,Haplopappus,,"scopulorum",var.,"hirtellus","S.F.Blake",Synonym,,L,TICA,FD2F0C48-ACBA-4914-9D38-BB5CC05BB2FC,,"Proc. Biol. Soc. Wash. 48: 170. 1935","","","1935",gcc-89424
+tro-2704502,A,Compositae,,Haplopappus,,"scorbiculatus",,"","(Nees) DC.",Synonym,,M,TRO,2704502,,"Prodr.","5: 348","348","1836",gcc-6837
+gcc-46429,A,Compositae,,Haplopappus,,"scottii",,"","Phil.",Unresolved,,L,TICA,83D7CDEF-326F-487F-9DB6-560D27DD22FA,,"","","","",
+gcc-6837,A,Compositae,,Haplopappus,,"scrobiculatus",,"","(Nees) DC.",Accepted,,M,TICA,32AC15E3-1CF7-43C2-8899-0CB68E71FDDC,178095-1,"Prodr. (DC.) 5: 348","","348","1836",
+gcc-123542,A,Compositae,,Haplopappus,,"sericeus",,"","Phil.",Synonym,,M,TICA,F2A13788-135E-4D01-BCFE-CE954A9DEEB5,178096-1,"Linnaea 28: 724. 1858","","724","1858",gcc-95202
+gcc-38379,A,Compositae,,Haplopappus,,"sericeus",,"","(Less.) DC.",Synonym,Illegitimate,M,TICA,58E4EE7F-21ED-4A89-A417-4738066C14AC,178097-1,"Prodr. (DC.) 5: 349","","349","1836",gcc-130880
+gcc-37217,A,Compositae,,Haplopappus,,"serrulatus",,"","Reiche",Accepted,,M,TICA,E55CC1C9-F048-497E-81D2-44F1FA811BFD,,"","","","1901",
+tro-2706448,A,Compositae,,Haplopappus,,"setigera",,"","Phil.",Unresolved,,L,TRO,2706448,,"","","","",
+gcc-119396,A,Compositae,,Haplopappus,,"setigerus",,"","(Phil.) F.Meigen",Synonym,,M,TICA,34950FFD-A0CD-4A2A-BA9A-C518F0A4A112,,"Bot. Jahrb. Syst.","","","1893",gcc-135222
+gcc-81159,A,Compositae,,Haplopappus,,"setulosus",,"","Klingenb.",Unresolved,,L,TICA,9A9D096C-7BA1-47E9-B2AA-6F2EA851270A,77080736-1,"Biblioth. Bot. 157: 213 (figs. 143-145)","","213 (figs. 143-145)","2007",
+gcc-116223,A,Compositae,,Haplopappus,,"sonoriensis",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,C8C4FE8D-2DB9-4D92-AABF-BDF683DDA422,117771-2,"","","1490","1926",gcc-106408
+gcc-22041,A,Compositae,,Haplopappus,,"soratensis",,"","S.F.Blake",Synonym,,M,TICA,C7E8CD5A-1BE9-4436-860C-28C40CA4E78C,16490-2,"Amer. J. Bot. 14: 109. 1927","","109","1927",gcc-34392
+gcc-2652,A,Compositae,,Haplopappus,,"sphacelatus",,"","(Phil.) Reiche",Synonym,,M,TICA,F3DFBA3F-2543-4B6C-B1E9-04DF6960CDB7,,"","","","1901",gcc-141445
+gcc-87526,A,Compositae,,Haplopappus,,"sphaerocephalus",,"","Harv. & A.Gray",Synonym,,M,TICA,DCC4DF5E-FB45-4AE6-91D9-7D7B71B946AF,,"""Mem. Amer. Acad. Arts n.s., 4: 76. 1849 ; (alt. title): Pl. Fendl. 76. 1849""","","","1849",gcc-88276
+gcc-155234,A,Compositae,,Haplopappus,,"spinulosus",,"","Philippi",Unresolved,,L,TICA,C7726765-72C9-4704-8CFF-D3AB12E0D1ED,1025631-2,"","","","",
+gcc-1809,A,Compositae,,Haplopappus,,"spinulosus",,"","Brandegee",Unresolved,,L,TICA,67415153-B3C0-4773-B4DC-033D69AF6228,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 168""","","168","1889",
+gcc-6396,A,Compositae,,Haplopappus,,"spinulosus",,"","(Pursh) DC.",Synonym,,M,TICA,D53ED29A-4D16-4293-9066-0BE2AFC347D3,1134676-2,"Prodr. (DC.) 5: 347","","347","1836",gcc-135337
+gcc-79588,A,Compositae,,Haplopappus,,"spinulosus",,"","Phil.",Synonym,,M,TICA,AD005BD3-6041-4C63-9F0C-6BC43A6922BD,178104-1,"Anales Univ. Chile (1873) 490.","","490","",gcc-37217
+gcc-93016,A,Compositae,,Haplopappus,,"spinulosus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,49E0202E-AC45-48F5-A24F-89DBB1DF758D,117776-2,"Rocky Mt. Flowers 277. 1914","","277","1914",
+gcc-9009,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"australis","(Greene) H.M.Hall",Synonym,,L,TICA,92BCBE30-29AA-4FCD-850A-10DCED6D7743,117777-2,"Publ. Carnegie Inst. Wash. 389: 77. 1928","","77","1928",gcc-135337
+gcc-34425,A,Compositae,,Haplopappus,,"spinulosus",var.,"canescens","A.Gray",Synonym,,L,TICA,E808BB1C-5424-47B1-9346-3FD0009C5491,,"""Mem. Amer. Acad. Arts n.s., 4: 75 (-76). 1849""","","","1849",gcc-135337
+gcc-59192,A,Compositae,,Haplopappus,,"spinulosus",var.,"chihuahuanus","(B.L.Turner & R.L.Hartm.) Gandhi",Synonym,,L,TICA,A83C1649-0BEE-4281-9AF7-94862A4766C6,277942-2,"Phytologia 69: 276. 1990","","276","1990",gcc-53329
+gcc-29570,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"cotula","(Small) H.M.Hall",Synonym,,L,TICA,3623E485-CF43-4380-A992-36A7A4A340B5,117779-2,"","","77","1928",gcc-135337
+gcc-60014,A,Compositae,,Haplopappus,,"spinulosus",var.,"glaber","A.Gray",Synonym,,L,TICA,4128F5D8-C40D-45E1-A6F7-9B0617670C59,,"","","","1852",gcc-135337
+gcc-52135,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"glaberrimus","(Rydb.) H.M.Hall",Synonym,,L,TICA,0941FB99-EC74-4A66-81A0-60B600779EC3,117781-2,"Publ. Carnegie Inst. Wash. 389: 77. 1928","","77","1928",gcc-42754
+gcc-70197,A,Compositae,,Haplopappus,,"spinulosus",var.,"glaberrimus","(Rydb.) S.F.Blake",Synonym,,L,TICA,6F772D3C-E3AB-4696-A8F4-EC2C4C0B7232,117783-2,"Contr. Gray Herb. 52: 24. 1917","","24","1917",gcc-42754
+gcc-66356,A,Compositae,,Haplopappus,,"spinulosus",var.,"gooddingii","(A.Nelson) S.F.Blake",Synonym,,L,TICA,77C52162-2C68-46A4-AC97-CE326ACBCC30,117784-2,"Contr. U. S. Natl. Herb. 25","","543","1925",gcc-65611
+gcc-24253,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"goodingii","(A.Nelson) H.M.Hall",Synonym,,L,TICA,3A623515-8B10-4EFE-9BC7-2CC9DC6EEC3B,117785-2,"Publ. Carnegie Inst. Wash. 389: 75. 1928","","75","1928",gcc-65611
+gcc-29877,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"laevis","(Wooton & Standl.) H.M.Hall",Synonym,,L,TICA,AE0FEEA3-B9E8-4076-862C-373D90082CF7,117787-2,"Publ. Carnegie Inst. Wash. 389: 78. 1928","","78","1928",gcc-135337
+gcc-4441,A,Compositae,,Haplopappus,,"spinulosus",var.,"paradoxus","(B.L.Turner & R.L.Hartm.) Cronquist",Synonym,,L,TICA,9A3CC9E1-C88F-4EFC-8E5A-0842DE821CEB,979380-1,"","","199-200","1994",gcc-2576
+gcc-57893,A,Compositae,,Haplopappus,,"spinulosus",var.,"scabrellus","(Greene) S.F.Blake",Synonym,,L,TICA,4417EC93-E383-4BBB-8D76-8A232B52B64F,117789-2,"Contr. Gray Herb. 52: 24. 1917","","24","1917",gcc-38794
+gcc-63889,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"scabrellus","(Greene) H.M.Hall",Synonym,,L,TICA,749E7284-BD43-4BC0-BCD6-BA4EEFE07104,117788-2,"Publ. Carnegie Inst. Wash. 389: 74. 1928","","74","1928",gcc-38794
+gcc-64088,A,Compositae,,Haplopappus,,"spinulosus",var.,"spinulosus","",Synonym,,L,TICA,F35CE1FB-0218-4129-A4E2-BBCB9F20D897,,"","","","",gcc-135337
+gcc-68746,A,Compositae,,Haplopappus,,"spinulosus",subsp.,"spinulosus","",Synonym,,L,TICA,DD98059B-BE43-44D4-B426-E125F6FD4E80,,"","","","",gcc-135337
+gcc-69508,A,Compositae,,Haplopappus,,"spinulosus",var.,"turbinellus","(Rydb.) S.F.Blake",Synonym,,L,TICA,0A1192C0-3D12-45F3-97C4-E6F7EC779187,117790-2,"Contr. Gray Herb. 52: 23. 1917","","23","1917",gcc-135337
+gcc-119571,A,Compositae,,Haplopappus,,"squarrosus",,"","Hook. & Arn.",Synonym,,L,TICA,F0CB10A6-15CF-41CE-846B-C5767D3B9B48,178107-1,"Bot. Beechey Voy. 146.","","146","1833",gcc-20347
+gcc-54948,A,Compositae,,Haplopappus,,"squarrosus",subsp.,"grindelioides","(DC.) D.D.Keck",Synonym,,L,TICA,D773DA17-1260-410D-86D0-721E031EE3D6,117793-2,"Aliso 4: 103. 1958","","103","1958",gcc-13305
+gcc-65473,A,Compositae,,Haplopappus,,"squarrosus",subsp.,"obtusus","(Greene) H.M.Hall",Synonym,,L,TICA,3DE2713E-DBFF-4E54-91EE-C705A517DF54,117794-2,"Publ. Carnegie Inst. Wash. 389: 253. 1928","","253","1928",gcc-63568
+gcc-146496,A,Compositae,,Haplopappus,,"squarrosus",var.,"squarrosus","",Synonym,,L,TICA,896CFBE9-E30D-4816-90BC-19B60B6282CB,,"","","","",gcc-20347
+gcc-59832,A,Compositae,,Haplopappus,,"squarrosus",subsp.,"squarrosus","",Synonym,,L,TICA,3E2F3F48-83C4-4571-90B8-99A39C181C48,,"","","","",gcc-20347
+gcc-52899,A,Compositae,,Haplopappus,,"squarrosus",subsp.,"stenolepis","H.M.Hall",Synonym,,L,TICA,F8529E31-DE86-441B-81B3-621C60C25837,,"""Publ. Carnegie Inst. Wash. 389: 253, fig. 89. 1928""","","","1928",gcc-94499
+gcc-37631,A,Compositae,,Haplopappus,,"stellatus",,"","Hook.f.",Unresolved,,L,TICA,C0C3AABE-2917-435E-B096-45C39E03A253,178108-1,"","","112","1847",gcc-129046
+gcc-51339,A,Compositae,,Haplopappus,,"stelliger",,"","J.Rémy",Accepted,,M,TICA,B57FA042-EE77-4A8B-9174-5F37D575D617,178109-1,"""in C. Gay, Fl. Chil. iv. 52.""","","52","1849",
+gcc-116103,A,Compositae,,Haplopappus,,"stenolepis",,"","(H.M.Hall) Hoover",Unresolved,,L,TICA,42EA4FB7-7ABF-4AC0-AF6B-BDAE35F12D7F,1193344-2,"""Vasc. Pl. San Luis Obispo Co., Calif. 296. 1970""","","296","1970",
+gcc-29362,A,Compositae,,Haplopappus,,"stenolobus",,"","(Greene) H.M.Hall",Unresolved,,L,TICA,B3C9C6B0-FC3D-4455-90E3-36427B4CD754,117800-2,"","","65","1928",gcc-89244
+gcc-133148,A,Compositae,,Haplopappus,,"stenophyllus",,"","A.Gray",Synonym,,L,TICA,BF25A5C3-83B3-4EB6-B8D9-E4D7CF09CE98,,"","","","1874",gcc-82597
+gcc-25673,A,Compositae,,Haplopappus,,"stenophyllus",,"","Phil.",Synonym,,M,TICA,8732FBF0-4119-490E-9D72-2F6DE6AB7A68,117802-2,"Anales Univ. Chile","","604","1894",gcc-48321
+tro-2726174,A,Compositae,,Haplopappus,,"stolonifer",,"","DC.",Synonym,,M,TRO,2726174,117803-2,"Prodr.","5: 349","349","1836",gcc-92912
+tro-2744759,A,Compositae,,Haplopappus,,"stolonifer",var.,"glabratus","J.M. Coult.",Synonym,,L,TRO,2744759,117805-2,"Bot. Gaz.","16(4): 98","98","1891",gcc-92912
+tro-2744765,A,Compositae,,Haplopappus,,"stolonifer",var.,"heleniastrum","(Greene) S.F. Blake",Synonym,,L,TRO,2744765,,"Contr. Gray Herb.","52: 37","37","1917",gcc-92912
+tro-50319135,A,Compositae,,Haplopappus,,"stolonifer",var.,"puber","DC.",Synonym,,L,TRO,50319135,117807-2,"Prodr.","5: 350","350","1836",gcc-92912
+gcc-91385,A,Compositae,,Haplopappus,,"stoloniferus",,"","DC.",Synonym,Illegitimate,M,TICA,7F78C6A6-C39B-4A2B-A127-8648549BEB09,117803-2,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","349","1836",gcc-92912
+gcc-64284,A,Compositae,,Haplopappus,,"stoloniferus",var.,"glabratus","J.M.Coult.",Synonym,,L,TICA,CED6F98D-E840-40C3-B5E9-BD54DB10D194,117805-2,"","","98","1891",gcc-92912
+gcc-24218,A,Compositae,,Haplopappus,,"stoloniferus",var.,"heleniastrum","S.F.Blake",Synonym,,L,TICA,3EAF496B-27F4-4194-9EF2-2CB9937AFAC1,,"Contr. Gray Herb. 52: 25. 1917","","","1917",gcc-92912
+gcc-80600,A,Compositae,,Haplopappus,,"stolpii",,"","Phil.",Accepted,,M,TICA,EC7469B2-BF66-4742-A464-6DEDE8695B67,117808-2,"","","595","1894",
+gcc-139336,A,Compositae,,Haplopappus,,"struthionum",,"","Speg.",Synonym,,M,TICA,972CD864-34EB-40B3-B807-F282363A11B1,117809-2,"""in Rev. Agron. La Plata, 1897, 529.""","","529","1897",gcc-53860
+gcc-44723,A,Compositae,,Haplopappus,,"subandinus",,"","Phil.",Synonym,,M,TICA,266B2F89-4BEC-4967-B4A9-52D970B13755,117810-2,"","","598","1894",gcc-48321
+gcc-129491,A,Compositae,,Haplopappus,,"subcanescens",,"","Bernh.",Unresolved,,L,TICA,0DB7DCCA-1276-4659-BABC-DC5E62CF6DAB,,"","","","",
+gcc-22358,A,Compositae,,Haplopappus,,"subviscosus",,"","(Greene) S.F.Blake",Synonym,,M,TICA,87A9F55E-5B22-47C0-911D-295DA618D8CA,,"","","","1925",gcc-60074
+gcc-141255,A,Compositae,,Haplopappus,,"suffruticosus",,"","Eaton",Unresolved,,L,TICA,24903C6C-3438-4940-8915-F6FADF879FFA,,"""in Bot. King, Exped. 159.""","","159","",
+gcc-14974,A,Compositae,,Haplopappus,,"suffruticosus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,853AF4C2-951A-4347-A960-1BB94E8A1037,117812-2,"Rocky Mt. Flowers 277. 1914","","277","1914",
+gcc-42469,A,Compositae,,Haplopappus,,"suffruticosus",,"","(Nutt.) A.Gray",Synonym,,M,TICA,08643395-C7E2-4409-869E-4EA5BE752430,1020391-2,"","","542","1865",gcc-143400
+gcc-148710,A,Compositae,,Haplopappus,,"suffruticosus",var.,"suffruticosus","",Synonym,,L,TICA,2C94534D-67C4-4A7E-A87C-48E0FEFA7C9E,,"","","","",gcc-143400
+gcc-155300,A,Compositae,,Haplopappus,,"suffruticosus",subsp.,"suffruticosus","",Synonym,,L,TICA,AA9F9E1B-E29C-478C-9068-D529A88F3B4A,,"","","","",gcc-143400
+gcc-45357,A,Compositae,,Haplopappus,,"taeda",,"","Reiche",Accepted,,M,TICA,B683C3A8-C6E7-4ED5-A288-540E73A508D3,117816-2,"","","45","1901",
+gcc-100666,A,Compositae,,Haplopappus,,"tasmanicus",,"","Hook.f.",Unresolved,,L,TICA,D8C33C6E-198F-44FD-985A-9B2347AC2573,178119-1,"","","110","1847",gcc-134024
+gcc-99224,A,Compositae,,Haplopappus,,"tehuelches",,"","Speg.",Synonym,Illegitimate,M,TICA,C8F70981-3A31-4DF7-88B7-97E0C8B4A2B6,297224-2,"","","184","1899",gcc-19107
+gcc-79159,A,Compositae,,Haplopappus,,"tenuicaulis",,"","D.C.Eaton",Unresolved,,L,TICA,40BF72B3-9934-4934-A3A0-6AD49D3E8F47,178121-1,"""in Bot. King, Exped. 160.""","","160","1871",gcc-131433
+gcc-121975,A,Compositae,,Haplopappus,,"tenuilobus",,"","A.Gray",Unresolved,,L,TICA,C3F2FB9B-26B1-43F4-9C75-CAF9BEAF1558,,"","","","1886",
+gcc-119034,A,Compositae,,Haplopappus,,"tenuisectus",,"","(Greene) S.F.Blake ex L.D.Benson",Accepted,,M,TICA,610D4655-90EC-4EFF-A0ED-C4574C8D1931,117819-2,"Amer. J. Bot. 27: 188. 1940 as Aplopappus","","188","1940",
+gcc-30176,A,Compositae,,Haplopappus,,"tenuisectus",,"","(Greene) S.F.Blake",Synonym,,M,TICA,BBFB77DF-5DD7-4CB0-A632-37D9CE41E6AD,,"""Amer. J. Bot. 1940, xxvii. 188""","","188","",gcc-52257
+gcc-110146,A,Compositae,,Haplopappus,,"texanus",,"","J.M.Coult.",Synonym,,M,TICA,B2FC3A66-4AA5-4050-958C-B0330565B848,117820-2,"","","40","1890",gcc-68770
+gcc-114765,A,Compositae,,Haplopappus,,"texensis",,"","R.C.Jacks.",Synonym,,M,TICA,0A8BDA55-661A-4283-9A14-BA9ED2EDE2A2,,"","","","1962",gcc-135337
+gcc-97170,A,Compositae,,Haplopappus,,"thiniicola",,"","Rzed. & E.Ezcurra",Unresolved,,L,TICA,AE1FCB71-03AF-4175-B3A9-9340A7516B7B,930908-1,"","","16","1986",gcc-54052
+gcc-120708,A,Compositae,,Haplopappus,,"tiltilensis",,"","Phil.",Unresolved,,L,TICA,4F7E4559-0A2D-42AB-9269-C82C39CBB82D,117822-2,"Anales Univ. Chile 109: 72","","72","1901",
+gcc-133756,A,Compositae,,Haplopappus,,"tiltilensis",,"","(Phil.) Phil. ex Reiche",Synonym,,M,TICA,CA1E640F-5ABF-48E3-BD8C-E63D89B0223B,178124-1,"""Fl. Chile, iii. 322.""","","322","",gcc-4716
+gcc-41640,A,Compositae,,Haplopappus,,"tortifolius",,"","Torr. & A.Gray",Synonym,,M,TICA,9211DDAA-3EAE-4F2F-AF70-4D1A58872427,297225-2,"","","109","1845",gcc-7324
+gcc-19432,A,Compositae,,Haplopappus,,"traskae",,"","Eastw.",Unresolved,,L,TICA,F34E2AE2-2F11-4B09-B3A8-23E8B8116930,,"""Proc. Calif. Acad. Sci. ser. 4, 20: 156""","","","1931",
+gcc-94470,A,Compositae,,Haplopappus,,"trianthus",,"","S.F.Blake",Synonym,,M,TICA,A36AEB5D-6E16-4E4E-89C6-8D0560CBF033,,"","","","1938",gcc-22433
+gcc-93036,A,Compositae,,Haplopappus,,"tridentatus",,"","(Greene) S.F.Blake",Synonym,,M,TICA,2E7EBE7B-CF25-4C63-AD6A-89E93E7FCFAC,117824-2,"","","1493","1926",gcc-27840
+gcc-143772,A,Compositae,,Haplopappus,,"tweediei",,"","(Hook. & Arn.) Malme",Synonym,,M,TICA,24E32FFE-7275-4E6A-9A21-FCA1D53B9311,117825-2,"","","42","1931",gcc-17438
+gcc-155209,A,Compositae,,Haplopappus,,"tweediei",var.,"tweediei","",Synonym,,L,TICA,1906B510-D5B4-4D70-A910-D339958ADC3A,,"","","","",gcc-17438
+gcc-28302,A,Compositae,,Haplopappus,,"uncinatus",,"","Phil.",Accepted,,M,TICA,93BC15D3-9F70-4042-9E4D-344A0D882BAC,178129-1,"Linnaea 28: 728","","728","1858",
+gcc-66241,A,Compositae,,Haplopappus,,"uncinatus",var.,"candolei","(Phil.) Reiche",Synonym,,L,TICA,126FD94E-E416-45CF-922A-CD328F8AA98C,117828-2,"""Anales Univ. Chile 109: 66, 67. 1901 Reiche, Flora de Chile, 3: 317.  1902""","","""66, 67""","1901",gcc-28302
+gcc-155977,A,Compositae,,Haplopappus,,"uncinatus",var.,"uncinatus","",Synonym,,L,TICA,AD1DECF7-E747-4BA1-8040-E3CBEFC33FAF,,"","","","",gcc-28302
+gcc-7009,A,Compositae,,Haplopappus,,"undulatus",,"","Klingenb.",Unresolved,,L,TICA,F3D00F94-719B-4784-ABC8-0D09E3630323,77080735-1,"Biblioth. Bot. 157: 193 (figs. 126-128)","","193 (figs. 126-128)","2007",
+gcc-142961,A,Compositae,,Haplopappus,,"uniflorus",,"","Clem. & E.G.Clem.",Unresolved,,L,TICA,B60FE9DC-4242-4C7B-AD83-FAD5A541F26F,117829-2,"Rocky Mt. Flowers 276. 1914","","276","1914",
+gcc-87823,A,Compositae,,Haplopappus,,"uniflorus",,"","(Hook.) Torr. & A.Gray",Synonym,,M,TICA,809F9FDB-E49C-4585-86DB-7E1778E8D972,30049923-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 241","","241","1842",gcc-139637
+gcc-58750,A,Compositae,,Haplopappus,,"uniflorus",subsp.,"gossypinus","(Greene) H.M.Hall",Synonym,,L,TICA,14E1938F-E50B-4476-A8BE-9111AA832858,117830-2,"Publications of the Carnegie Institution of Washington 389:","","150-151","1928",gcc-54116
+gcc-46686,A,Compositae,,Haplopappus,,"uniflorus",var.,"howellii","(A.Gray) M.Peck",Synonym,,L,TICA,30F3CC7F-A06C-4F7B-8442-56899D3E5BB5,117832-2,"A Manual of the Higher Plants of Oregon . . .","","713","1941",gcc-139637
+gcc-53456,A,Compositae,,Haplopappus,,"uniflorus",subsp.,"howellii","(A.Gray) H.M.Hall",Synonym,,L,TICA,3AB53162-BDE0-4831-9636-665DCDAD90F7,117831-2,"Publications of the Carnegie Institution of Washington 389:","","150","1928",gcc-139637
+gcc-33562,A,Compositae,,Haplopappus,,"uniflorus",subsp.,"linearis","D.D.Keck",Synonym,,L,TICA,E123F810-43B3-4116-9283-3E3B7C780724,309822-2,"Aliso 4(1):","","103","1958",gcc-47541
+gcc-51040,A,Compositae,,Haplopappus,,"uniflorus",subsp.,"typicus","H.M.Hall",Synonym,,L,TICA,53A5E0F2-3190-4E4E-BC74-5EAEFE43E17E,,"","","","",gcc-139637
+gcc-16160,A,Compositae,,Haplopappus,,"uniflorus",var.,"uniflorus","",Synonym,,L,TICA,5D1916F4-709B-4D2C-BF50-1DE297A15F48,,"","","","",gcc-139637
+gcc-4755,A,Compositae,,Haplopappus,,"uniflorus",subsp.,"uniflorus","",Synonym,,L,TICA,828B1A3C-8B20-460A-923B-08D8CE145303,,"","","","",gcc-139637
+gcc-45641,A,Compositae,,Haplopappus,,"validus",,"","(Rydb.) Cory",Synonym,,M,TICA,DFA43DDD-F9FD-4118-B2E4-5493AB55242A,117835-2,"","","407","1936",gcc-40891
+gcc-45579,A,Compositae,,Haplopappus,,"validus",subsp.,"graniticus","E.B.Sm.",Synonym,,L,TICA,7A6A0184-8BCA-44C0-9423-547B272BB836,,"Rhodora 67: 236. 1965","","","1965",gcc-63298
+gcc-60962,A,Compositae,,Haplopappus,,"validus",subsp.,"torreyi","E.B.Sm.",Synonym,,L,TICA,50239A6C-FFDB-45ED-BFB4-A2A3BF6C36DC,,"Rhodora 67(771):","","235","1965",gcc-38213
+gcc-54568,A,Compositae,,Haplopappus,,"validus",subsp.,"validus","",Synonym,,L,TICA,78B4B408-50FE-4E7C-8A64-6F1466A267A4,,"","","","",gcc-40891
+gcc-108078,A,Compositae,,Haplopappus,,"valparadisiacus",,"","Klingenb.",Unresolved,,L,TICA,16F8D5F5-65FA-4825-B140-AB8D451C58D7,77080742-1,"Biblioth. Bot. 157: 315","","315","2007",
+gcc-48321,A,Compositae,,Haplopappus,,"velutinus",,"","J.Rémy",Accepted,,M,TICA,4DAAB197-8200-485E-BB76-598ABFCE24B3,117837-2,"","","57","1849",
+gcc-155448,A,Compositae,,Haplopappus,,"velutinus",subsp.,"velutinus","",Synonym,,L,TICA,1B4BC296-1118-4A5F-BC74-D88CEB754CF6,,"","","","",gcc-48321
+gcc-130728,A,Compositae,,Haplopappus,,"venetus",,"","(Kunth) S.F.Blake",Synonym,,M,TICA,6FCB1BC1-4090-4A18-A0A8-DF3A52EBD6F0,117838-2,"","","1492","1926",gcc-32395
+gcc-6530,A,Compositae,,Haplopappus,,"venetus",var.,"argutus","(Greene) D.D.Keck",Synonym,,L,TICA,49578491-37F0-41A9-87A5-0C1FFA4C9B7F,117839-2,"Aliso 4: 103. 1958","","103","1958",gcc-102963
+gcc-61973,A,Compositae,,Haplopappus,,"venetus",var.,"decumbens","(Greene) Munz",Synonym,,L,TICA,1215D4CD-2400-4355-AAA1-AAFFA1AC0911,117840-2,"Man. S. Calif. Bot. 522. 1935","","522","1935",gcc-54684
+gcc-52806,A,Compositae,,Haplopappus,,"venetus",var.,"furfuraceus","(Greene) Munz",Synonym,,L,TICA,EB7975C4-C3D5-40B7-93F4-61EC0DE1CD4E,117842-2,"Man. S. Calif. Bot. 523. 1935","","523","1935",gcc-54684
+gcc-69411,A,Compositae,,Haplopappus,,"venetus",subsp.,"furfuraceus","(Greene) H.M.Hall",Synonym,,L,TICA,B29BBEE5-1415-42D9-943F-E61181FD8C94,117841-2,"Publ. Carnegie Inst. Wash. 389: 226. 1928","","226","1928",gcc-54684
+gcc-65761,A,Compositae,,Haplopappus,,"venetus",var.,"hartwegii","(A.Gray) McVaugh",Synonym,,L,TICA,901822F7-4F77-41EC-8D5C-C961FAB0BC9F,117843-2,"Contr. Univ. Michigan Herb. 9(4)","","364","1972",gcc-144392
+gcc-62215,A,Compositae,,Haplopappus,,"venetus",subsp.,"oxyphyllus","(Greene) H.M.Hall",Synonym,,L,TICA,C4286D42-CB3A-4BA3-8EDB-ACD84BC88344,1169539-2,"Publ. Carnegie Inst. Wash. 389: 225. 1928","","225","1928",gcc-77882
+gcc-71666,A,Compositae,,Haplopappus,,"venetus",var.,"oxyphyllus","(Greene) Munz",Synonym,,L,TICA,42B1A8BB-8338-4F22-9FB4-F7E61C5FE977,117845-2,"Man. S. Calif. Bot. 523. 1935","","523","1935",gcc-77882
+gcc-54423,A,Compositae,,Haplopappus,,"venetus",var.,"sedoides","(Greene) Munz",Synonym,,L,TICA,5FD09859-8C8F-4957-937D-6DF9350D5346,,"""Man. S. Calif. Bot. 522, 601. 1935""","","","1935",gcc-32823
+gcc-64007,A,Compositae,,Haplopappus,,"venetus",subsp.,"tridentatus","(Greene) H.M.Hall",Synonym,,L,TICA,6BBED37F-C457-4358-9757-BB35CD9F3978,117847-2,"Publ. Carnegie Inst. Wash. 389: 225. 1928","","225","1928",gcc-27840
+gcc-65023,A,Compositae,,Haplopappus,,"venetus",subsp.,"venetus","",Synonym,,L,TICA,1574BD5E-944E-4D79-AD6D-C32FF00D5487,,"","","","",gcc-32395
+gcc-72337,A,Compositae,,Haplopappus,,"venetus",var.,"venetus","",Synonym,,L,TICA,6FF289F7-BC33-4493-8CB3-FD3030F8D578,,"","","","",gcc-32395
+gcc-56439,A,Compositae,,Haplopappus,,"venetus",subsp.,"vernonioides","(Nutt.) H.M.Hall",Synonym,,L,TICA,2B709D14-F28F-4AC3-9752-7E8A1B6801F0,,"Publ. Carnegie Inst. Wash. 389: 224. 1928","","","1928",gcc-18688
+gcc-111070,A,Compositae,,Haplopappus,,"vernicosus",,"","Phil. ex Reiche",Synonym,,M,TICA,8FC9BE13-3F2B-4733-9647-B252EF2BAE9A,178134-1,"Fl. Chile [Reiche] 3: 312.","","312","1902",gcc-41077
+gcc-118180,A,Compositae,,Haplopappus,,"vernicosus",,"","Phil.",Unresolved,,L,TICA,58E7427D-BEEA-4FBC-B884-C256F5A43005,1058208-2,"","","","",
+gcc-87173,A,Compositae,,Haplopappus,,"vernicosus",,"","Brandegee",Synonym,,M,TICA,4EDEAD78-9F7E-4383-A823-7CAAC4D2E37D,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 168. 1889""","","168","1889",gcc-27130
+gcc-125236,A,Compositae,,Haplopappus,,"vicuniensis",,"","Klingenb.",Unresolved,,L,TICA,0ADC1C0A-5C38-4F55-B437-D29580C7455A,77080729-1,"Biblioth. Bot. 157: 146 (figs. 87-90)","","146 (figs. 87-90)","2007",
+gcc-42779,A,Compositae,,Haplopappus,,"vidali",,"","Phil.",Synonym,,M,TICA,B0398E8A-CE4F-4A83-A492-4F3B6C72AAA4,117853-2,"","","601","1894",gcc-9650
+tro-2702602,A,Compositae,,Haplopappus,,"villaneuvae",,"","Phil.",Accepted,,M,TRO,2702602,,"","","","",
+gcc-128713,A,Compositae,,Haplopappus,,"villanuevae",,"","Phil.",Synonym,,M,TICA,F53FFC8F-9D79-4D22-A5A0-DAA804408D24,117854-2,"","","592","1894",gcc-13274
+gcc-23376,A,Compositae,,Haplopappus,,"villosus",,"","Phil.",Synonym,,M,TICA,009BD6A0-205A-4838-951B-2B49654CEE03,117855-2,"Linnaea 28","","725","1858",gcc-21224
+gcc-92310,A,Compositae,,Haplopappus,,"virgatus",,"","Phil.",Synonym,,M,TICA,A7FC0BB0-7E8B-42EE-A3F3-884EDBD4E917,117856-2,"","","491","1873",gcc-48321
+gcc-83919,A,Compositae,,Haplopappus,,"viridialbus",,"","Cuatrec.",Unresolved,,L,TICA,E34C995B-EF8B-4024-849B-7554A0BDDBEC,,"""in An. Esc. Nac. Clenc. Biol., 18(1-4): 12 (1970).""","","12","",
+gcc-95075,A,Compositae,,Haplopappus,,"viscidus",,"","(Wooton & Standl.) S.F.Blake",Synonym,,M,TICA,514495AB-CDF4-4353-819B-8E79A8CAB5E6,117857-2,"","","486","1938",gcc-128845
+gcc-78817,A,Compositae,,Haplopappus,,"wardii",,"","(A.Gray) Dorn",Synonym,,M,TICA,6CDF028E-E8B5-4167-806F-6A0AED8B3BA8,973395-1,"""Man. Vasc. Pl. Wyoming, 1: 396 (1977):.""","","396","1977",gcc-136939
+gcc-8643,A,Compositae,,Haplopappus,,"watsonii",,"","A.Gray",Synonym,,M,TICA,A5D2D1FC-1F9A-4840-806B-10248CE8E574,,"","","79","",gcc-46406
+gcc-9623,A,Compositae,,Haplopappus,,"watsonii",var.,"rydbergii","(S.F.Blake) S.L.Welsh",Synonym,,L,TICA,F5D377E9-E8A5-4272-A4B8-11F6C146E3C4,951973-1,"""in Great Basin Nat., 43(2): 295 (1983):.""","","295","1983",gcc-16421
+gcc-23245,A,Compositae,,Haplopappus,,"watsonii",var.,"watsonii","",Synonym,,L,TICA,5CCBC75A-8A32-420B-A9B4-2B053F103C7B,,"","","","",gcc-46406
+gcc-8675,A,Compositae,,Haplopappus,,"whitneyi",,"","A.Gray",Synonym,,M,TICA,DA33BFEB-55FF-48CC-BA11-10328EDB957C,,"Proc. Amer. Acad. Arts vii. (1868) 353.","","","1868",gcc-88110
+gcc-44262,A,Compositae,,Haplopappus,,"whitneyi",var.,"discoideus","J.T.Howell",Synonym,,L,TICA,A44E54A7-2C72-4D9B-A27A-51F5CB177B15,,"Leafl. W. Bot. 6: 84. 1950","","","1950",gcc-6461
+gcc-71316,A,Compositae,,Haplopappus,,"whitneyi",subsp.,"discoideus","(J.T.Howell) D.D.Keck",Synonym,,L,TICA,56CA381A-2426-4167-99B5-F553D24483B9,117860-2,"Aliso 4: 103. 1958","","103","1958",gcc-6461
+gcc-15783,A,Compositae,,Haplopappus,,"whitneyi",subsp.,"whitneyi","",Synonym,,L,TICA,FB809D58-835B-473C-B06C-1D3BD07EB557,,"","","","",gcc-88110
+gcc-59990,A,Compositae,,Haplopappus,,"whitneyi",var.,"whitneyi","",Synonym,,L,TICA,7C31D370-BC34-48A7-A693-9ACF32B91157,,"","","","1950",gcc-88110
+gcc-10031,A,Compositae,,Haplopappus,,"wigginsii",,"","S.F.Blake",Synonym,,L,TICA,42CEA4FB-528A-451C-A5F9-12C5347EB84C,277945-2,"Proc. Biol. Soc. Wash. 48: 169. 1935","","169","1935",gcc-110831
+gcc-6231,A,Compositae,,Haplopappus,,"zanartui",,"","(Phil.) Reiche",Synonym,,M,TICA,0963952F-2A4E-4EB8-8A15-0B976AF602AF,,"","","","1901",gcc-48321
+gcc-93537,A,Compositae,,Haplopappus,,"zionis",,"","L.C.Anderson",Synonym,,M,TICA,171584AE-24CA-46D8-9822-8AF06FED2A4F,277946-2,"""Great Basin Naturalist 43: 360, fig. 1983""","","""360, fig""","1983",gcc-76469

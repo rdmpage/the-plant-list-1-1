@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9333,A,Compositae,,Schoenia,,"ayersii",,"","(F.Muell.) J.M.Black",Accepted,,M,TICA,B1EA3F56-AA1B-42E1-9297-11699203CFD4,150866-3,"","","840","1915",
+gcc-97385,A,Compositae,,Schoenia,,"cassiniana",,"","(Gaudich.) Steetz",Accepted,,L,TICA,927E9A50-F659-4147-B12D-93BEB8A753E6,150904-3,"","","","1845",
+gcc-9630,A,Compositae,,Schoenia,,"chlorocephala",,"","Turcz.",Synonym,,M,TICA,CC3E7314-F7F6-403D-8EF9-11FC66B8AE8A,150948-3,"","","","1851",gcc-81567
+gcc-145592,A,Compositae,,Schoenia,,"chlorocephala",var.,"chlorocephala","",Synonym,,L,TICA,7E504B6C-9AD8-4AFA-B67E-070BEE99750F,,"","","","",gcc-81567
+gcc-70888,A,Compositae,,Schoenia,,"chlorocephala",var.,"patens","Ewart",Synonym,,L,TICA,29F40020-96C0-4D67-8C26-F1C237760C0C,,"","","","",gcc-118170
+gcc-23991,A,Compositae,,Schoenia,,"filifolia",,"","(Turcz.) Paul G.Wilson",Accepted,,M,TICA,5A2F1040-0EE2-4F12-89C8-2C56FC9AF067,,"","","373","1992",
+gcc-66117,A,Compositae,,Schoenia,,"filifolia",subsp.,"filifolia","",Synonym,,L,TICA,26B0688F-2B7E-4C69-BC82-CC2179487CE3,169073-3,"Nuytsia","","375","1992",gcc-23991
+gcc-38892,A,Compositae,,Schoenia,,"filifolia",subsp.,"subulifolia","(F.Muell.) Paul G.Wilson",Accepted,,L,TICA,57259346-7E18-4BDB-864A-48243968E85C,169075-3,"","","","1992",
+gcc-16991,A,Compositae,,Schoenia,,"humboldtiana",,"","(Gaudich.) Steetz ex Walp.",Unresolved,,L,TICA,A3DB343C-22DB-484D-96B9-1F689E508A5F,151011-3,"","","244","1847",
+gcc-118583,A,Compositae,,Schoenia,,"macivorii",,"","(F.Muell.) Paul G.Wilson",Accepted,,M,TICA,4AC0543A-B3C7-427E-BDFC-C34F66232F31,169079-3,"","","","1992",
+gcc-118859,A,Compositae,,Schoenia,,"oppositifolia",,"","Steetz",Unresolved,,L,TICA,24878AA1-F856-40DD-8EDD-C3F6AF34E3A3,151046-3,"","","","1845",
+gcc-47463,A,Compositae,,Schoenia,,"ramosissima",,"","(F.Muell.) Paul G.Wilson",Accepted,,M,TICA,880A3805-E3C0-4BB6-B297-57EFA1671869,169082-3,"","","","1992",

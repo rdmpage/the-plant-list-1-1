@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-26884,A,Compositae,,Picradenia,,"acaulis",,"","(Pursh) Britton",Unresolved,,L,TICA,39EB37F7-4C80-4951-B5BA-31B447A0998C,195918-2,"","","449","1898",gcc-91217
+gcc-105008,A,Compositae,,Picradenia,,"biennis",,"","(A.Gray) Greene",Unresolved,,L,TICA,BFFA3B0D-E6A5-4C61-9FE8-A4BA2B528605,195919-2,"","","272","1898",gcc-79750
+gcc-41836,A,Compositae,,Picradenia,,"canescens",,"","Greene",Unresolved,,L,TICA,C5F0A2D9-3973-472A-BF05-4D79BFFD2106,195920-2,"","","271","1898",gcc-98195
+gcc-116631,A,Compositae,,Picradenia,,"cooperi",,"","(A.Gray) Greene",Unresolved,,L,TICA,B93361BC-2950-4E71-BDA2-BED66A7828E4,195921-2,"","","272","1898",gcc-98195
+gcc-101911,A,Compositae,,Picradenia,,"davidsonii",,"","Greene",Unresolved,,L,TICA,B25D1C12-34A0-4D45-84AF-9DD63CB3AF37,195922-2,"","","240","1901",gcc-4743
+gcc-119984,A,Compositae,,Picradenia,,"earlei",,"","Cockerell",Unresolved,,L,TICA,33EA0136-4F01-4ADB-969A-C6717FC91E42,195923-2,"","","1","1903",gcc-106257
+gcc-83548,A,Compositae,,Picradenia,,"floribunda",,"","(A.Gray) Greene",Accepted,,M,TICA,DE566A01-ECA6-47DA-911A-748C84D00378,,"","","","1898",
+gcc-153665,A,Compositae,,Picradenia,,"floribunda",subsp.,"floribunda","",Synonym,,L,TICA,72490237-AB86-4271-B1AF-B2E83185D5BE,,"","","","",gcc-83548
+gcc-120738,A,Compositae,,Picradenia,,"helenioides",,"","Rydb.",Synonym,,M,TICA,0C796909-73AA-418E-A8B1-C83D1CDEF3EF,195926-2,"","","21","1901",gcc-8226
+gcc-5245,A,Compositae,,Picradenia,,"intermedia",,"","A.Heller",Unresolved,,L,TICA,303EA71F-E9D4-4479-830F-09C9E3480361,195927-2,"Bull. Torrey Bot. Club 31: 492. 1904","","492","1904",
+gcc-87014,A,Compositae,,Picradenia,,"lemmonii",,"","Greene",Synonym,,M,TICA,943E7274-5DD7-4968-9557-7C490FE5AB3C,195928-2,"","","272","1898",gcc-133970
+gcc-116754,A,Compositae,,Picradenia,,"liguliflora",,"","(A.Nelson) A.Nelson",Unresolved,,L,TICA,AAA130BC-0332-4B06-BC30-BF266A55B406,195929-2,"","","378","1898",
+gcc-136416,A,Compositae,,Picradenia,,"linearifolia",,"","(Hook.) Britton",Unresolved,,L,TICA,A5733CA7-044C-4573-B10F-EC2E26812E58,195930-2,"","","448","1898",gcc-50298
+gcc-723,A,Compositae,,Picradenia,,"macrantha",,"","A.Nelson",Unresolved,,L,TICA,107FECE0-585E-4538-A78B-015B7F41FD19,195931-2,"","","130","1899",gcc-81483
+gcc-24615,A,Compositae,,Picradenia,,"multiflora",,"","(Buckley) Greene",Unresolved,,L,TICA,AFB6B5F8-C2C8-4359-967C-2D7753A6436C,,"Pittonia iii. 273.","","","1898",
+gcc-112128,A,Compositae,,Picradenia,,"nudiflora",,"","K.Schum.",Unresolved,,L,TICA,3373E0FE-2A50-4055-B3F2-B4B8AAF9B359,237730-1,"""in Just. Jahresb. xxvi. I. 379, sphalm.""","","""xxvi. I. 379, sphalm.""","",
+gcc-109599,A,Compositae,,Picradenia,,"odorata",,"","(DC.) Britton",Synonym,,M,TICA,DAE070D2-4E65-4DC8-8A0F-AF043B6A057A,195933-2,"","","449","1898",gcc-3762
+gcc-1476,A,Compositae,,Picradenia,,"odorata",var.,"odorata","",Synonym,,L,TICA,8A882F15-69D6-48A3-B374-02A9A6BB5081,,"","","","",gcc-3762
+gcc-154439,A,Compositae,,Picradenia,,"odorata",subsp.,"odorata","",Synonym,,L,TICA,A16F0D6D-0092-4045-901F-C39073BA287F,,"","","","",gcc-3762
+gcc-95945,A,Compositae,,Picradenia,,"pumila",,"","Greene",Unresolved,,L,TICA,C0F41956-444A-45F2-BE57-907E8E2EC1B5,195935-2,"","","271","1898",gcc-139691
+gcc-101350,A,Compositae,,Picradenia,,"richardsonii",,"","Hook.",Synonym,,M,TICA,24B729D7-AE56-4C96-AE1A-9C98C94A77E1,,"","","","1833",gcc-98281
+gcc-59098,A,Compositae,,Picradenia,,"richardsonii",var.,"floribunda","(A.Gray) W.A.Weber",Synonym,,L,TICA,734628E2-C84A-4999-85E6-93BC62D3F26C,,"","","","",gcc-65948
+gcc-148097,A,Compositae,,Picradenia,,"richardsonii",subsp.,"richardsonii","",Synonym,,L,TICA,BE8B348B-4F28-42DC-8C2F-3B8A57AF56DC,,"","","","",gcc-98281
+gcc-154547,A,Compositae,,Picradenia,,"richardsonii",var.,"richardsonii","",Synonym,,L,TICA,6E4061B3-4FAD-488B-8688-C5FE80CFDC19,,"","","","",gcc-98281
+gcc-107899,A,Compositae,,Picradenia,,"rusbyi",,"","(A.Gray) Greene",Unresolved,,L,TICA,11FBBB5F-18E2-4216-BBB3-AB233C852B00,195937-2,"","","271","1898",gcc-110463
+gcc-109480,A,Compositae,,Picradenia,,"scaposa",,"","(DC.) Britton",Unresolved,,L,TICA,A276D349-79D7-4E51-8BF4-AEC12D27AE3A,195938-2,"","","449","1898",gcc-109488
+gcc-80955,A,Compositae,,Picradenia,,"texana",,"","(J.M.Coult. & Rose) Greene",Unresolved,,L,TICA,0F957172-FD17-459B-B95C-6EC0342AB74E,195939-2,"","","273","1898",gcc-86866
+gcc-125591,A,Compositae,,Picradenia,,"vaseyi",,"","(A.Gray) Greene",Unresolved,,L,TICA,A74A4E83-2BE2-4A52-89BB-D368AA518A42,195940-2,"","","271","1898",gcc-94372

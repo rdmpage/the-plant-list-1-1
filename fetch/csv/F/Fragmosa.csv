@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41465,A,Compositae,,Fragmosa,,"alpina",,"","Raf.",Unresolved,,L,TICA,DE2828FF-3FA3-4021-894E-4CC92DACB944,208222-1,"Fl. Tellur. ii. 50 (1836).","","ii. 50","1836",
+gcc-50711,A,Compositae,,Fragmosa,,"alpina",,"","(L.) Raf. ex B.D.Jacks.",Synonym,,M,TICA,15BE7FC7-6481-46D3-A652-5E0E2245E388,,"Index Kew. 1: 974 (1893)","","974","1893",gcc-108753
+gcc-134279,A,Compositae,,Fragmosa,,"aspera",,"","(Nutt.) Raf. ex B.D.Jacks.",Synonym,,M,TICA,4DF32A75-A7AD-4083-B89F-E76CB0FA5D18,,"Index Kew. 1: 974 (1893)","","974","1893",gcc-122149
+gcc-94410,A,Compositae,,Fragmosa,,"aspera",,"","Raf.",Unresolved,,L,TICA,4BB2B793-DC3D-4942-A20D-8CE3D3FCAFED,208223-1,"Fl. Tellur. ii. 50 (1836).","","ii. 50","1836",
+gcc-133428,A,Compositae,,Fragmosa,,"glabella",,"","(Nutt.) Raf. ex B.D.Jacks.",Synonym,,M,TICA,B3948456-5BC8-4655-A6AD-E57B093FF54C,,"Index Kew. 1: 974 (1893)","","974","1893",gcc-122149
+gcc-138053,A,Compositae,,Fragmosa,,"glabella",,"","Raf.",Unresolved,,L,TICA,03EFBA4F-9F5F-4AEF-9CB6-EFC22BB060A2,208224-1,"Fl. Tellur. ii. 50 (1836).","","ii. 50","1836",
+gcc-105509,A,Compositae,,Fragmosa,,"nudicaulis",,"","(Michx.) Raf. ex B.D.Jacks.",Synonym,,L,TICA,42B54268-8465-4520-97A0-A5BC963577FE,,"Index Kew. 1: 974 (1893)","","974","1893",gcc-143911
+gcc-106277,A,Compositae,,Fragmosa,,"nudicaulis",,"","Raf.",Unresolved,,L,TICA,6BF34B73-470F-4DA3-8DD4-A7695829F091,208225-1,"Fl. Tellur. ii. 50 (1836).","","ii. 50","1836",
+gcc-34679,A,Compositae,,Fragmosa,,"pumila",,"","(Nutt.) Raf.",Synonym,Invalid,L,TICA,F2FC2448-6DC5-4395-BA11-404C7529AE38,,"","","","",gcc-37754
+gcc-26127,A,Compositae,,Fragmosa,,"uniflora",,"","(L.) Raf.",Synonym,Invalid,M,TICA,98AD4DA9-85B9-4F08-BB81-30516AEE044C,,"","","","",gcc-108753

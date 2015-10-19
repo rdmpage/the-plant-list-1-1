@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49951,A,Compositae,,Piptocoma,,"acevedoi",,"","Pruski",Accepted,,M,TICA,C47C5AA6-F047-459D-92DB-5C9AE3F5E613,303914-2,"Novon 6: 98. 1996","","98","1996",
+gcc-97208,A,Compositae,,Piptocoma,,"acuminata",,"","(Kunth) Pruski",Synonym,,M,TICA,F335F2E8-5C5E-4C38-B3D4-9352384E0EBB,1010086-2,"","","98","1996",gcc-148112
+gcc-11728,A,Compositae,,Piptocoma,,"antillana",,"","Urb.",Accepted,,M,TICA,BC63D7AD-5EF8-4325-B6F6-15D8B5AAA5B2,199852-2,"Ark. Bot. 23A(11)","","50","1931",
+gcc-145601,A,Compositae,,Piptocoma,,"antillana",,"","Urban",Unresolved,,L,TICA,BCD55D8F-2BB9-4D26-94D9-072D61DF81C7,,"Ark. Bot. 23A(11): 50-51. 1931","","","1931",
+gcc-3019,A,Compositae,,Piptocoma,,"areolata",,"","(Wurdack) Pruski",Accepted,,M,TICA,F8F55E03-5143-4E53-A4D6-0596B0CE5FA8,988445-1,"","","100","1996",
+gcc-127486,A,Compositae,,Piptocoma,,"barinensis",,"","(Aristeg.) Pruski",Accepted,,M,TICA,C8C1AB62-356C-418C-A8BA-D7C159EF24C6,988440-1,"","","98","1996",
+gcc-104964,A,Compositae,,Piptocoma,,"dentata",,"","Liogier",Synonym,,M,TICA,A7504708-B7DB-4CC9-B476-A4A240CA8C6A,,"","","153","1971",gcc-105625
+gcc-39632,A,Compositae,,Piptocoma,,"dentata",,"","Alain",Accepted,,M,TICA,08CEAA80-FCF7-45CD-BC94-498C7616A695,238501-1,"","","153","1971",
+gcc-138317,A,Compositae,,Piptocoma,,"discolor",,"","(Kunth) Pruski",Accepted,,M,TICA,D67CE7A5-8AB8-42FE-9CCB-F0536002C896,1066325-2,"Novon 6(1)","","97","1996",
+gcc-49171,A,Compositae,,Piptocoma,,"ekmanii",,"","Alain",Accepted,,M,TICA,69D029D0-1140-4F75-96C0-5B0D2D297250,238502-1,"","","153","1971",
+gcc-80933,A,Compositae,,Piptocoma,,"ekmanii",,"","Liogier",Synonym,,M,TICA,79F6157D-16DC-49DE-803E-6EB1C1E9FBEB,,"","","153","1971",gcc-26985
+gcc-20406,A,Compositae,,Piptocoma,,"hypochlora",,"","(S.F.Blake) Pruski",Accepted,,M,TICA,E459A7D9-0FF8-4B39-95AF-25C0178A5519,988441-1,"","","98","1996",
+gcc-140595,A,Compositae,,Piptocoma,,"lychnophoroides",,"","Less.",Synonym,Illegitimate,M,TICA,34A51327-BC43-4DE8-96D7-F56B676746DF,238503-1,"Linnaea 4: 315. 1829","","315","1829",gcc-146459
+gcc-21102,A,Compositae,,Piptocoma,,"macrophylla",,"","(Sch.Bip.) Pruski",Accepted,,M,TICA,60CB1560-BB1E-46EF-9CF7-26F918F6B24F,988446-1,"","","100","1996",
+gcc-137299,A,Compositae,,Piptocoma,,"milleri",,"","(J.R.Johnst.) Pruski",Accepted,,M,TICA,B026CD9E-1924-4641-BA90-EE2739BF91FB,988447-1,"","","100","1996",
+gcc-27297,A,Compositae,,Piptocoma,,"neglecta",,"","Stutts",Unresolved,,L,TICA,62D878F5-CE70-42C2-86B5-327C4E5D83B8,1167826-2,"Novon 6: 101. 1996","","101","1996",
+gcc-36758,A,Compositae,,Piptocoma,,"neglecta",,"","(Stutts) Pruski",Accepted,,M,TICA,5491BB03-5DB8-4D00-8B75-442788181020,988448-1,"Novon 6(1): 101 (1996):.","","101","1996",
+gcc-23964,A,Compositae,,Piptocoma,,"niceforoi",,"","(Cuatrec.) Pruski",Accepted,,M,TICA,E23589A1-A8DC-4017-A3CD-2C4B26A00DB8,988449-1,"","","101","1996",
+gcc-11004,A,Compositae,,Piptocoma,,"roraimensis",,"","(Steyerm.) Pruski",Accepted,,M,TICA,6F9577C3-C44F-462E-BCE8-149300C31602,988450-1,"","","101","1996",
+gcc-26985,A,Compositae,,Piptocoma,,"rufescens",,"","Cass.",Accepted,,M,TICA,F40B8A9F-66ED-45E3-A054-31E1F539247A,,"Bull. Sci. Soc. Philom. Paris","","10","1817",
+gcc-30237,A,Compositae,,Piptocoma,,"rufescens",var.,"latifolia","Gleason",Synonym,,L,TICA,F1444EAF-F74E-4702-A24B-37F8014A468B,199855-2,"Bull. Torrey Bot. Club 46: 251. 1919","","251","1919",gcc-145601
+gcc-150022,A,Compositae,,Piptocoma,,"rufescens",var.,"rufescens","",Synonym,,L,TICA,B3E3C633-1E99-49C4-845F-65AEA516C6DF,,"","","","",gcc-26985
+gcc-105625,A,Compositae,,Piptocoma,,"samanensis",,"","Alain",Accepted,,M,TICA,0330D6FE-2F19-452A-9D5F-A5FCD3EA61C1,199856-2,"Brittonia 20","","153","1968",
+gcc-153001,A,Compositae,,Piptocoma,,"samanensis",,"","Liogier",Unresolved,,L,TICA,468E3374-46E3-4B62-A854-A531FDB4A46B,,"","","","",
+gcc-138251,A,Compositae,,Piptocoma,,"schomburgkii",,"","(Sch.Bip.) Pruski",Accepted,,M,TICA,002687C3-A734-4C2D-A6D0-F03160C46498,988451-1,"","","101","1996",
+gcc-118776,A,Compositae,,Piptocoma,,"spruceana",,"","(Benth.) Pruski",Accepted,,M,TICA,5AB51855-7298-4877-B4D5-C3BA7C984D1F,988452-1,"","","101","1996",
+gcc-169,A,Compositae,,Piptocoma,,"subscandens",,"","Stutts",Synonym,Illegitimate,M,TICA,C3ADB7D1-7319-4578-8782-004E0796BE03,," 83:","","82","1981",gcc-105625
+gcc-1353,A,Compositae,,Piptocoma,,"trujillensis",,"","(Aristeg.) Pruski",Accepted,,M,TICA,3587F00C-47FE-466B-B2AB-027346EAE19A,988442-1,"","","98","1996",
+gcc-116753,A,Compositae,,Piptocoma,,"vernonioides",,"","(Kunth) Pruski",Accepted,,M,TICA,D332BDC5-A4C3-44C0-8302-BF25C62AB270,1159719-2,"","","101","1996",

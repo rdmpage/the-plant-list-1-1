@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-408714,A,Poaceae,,Dielsiochloa,,"floribunda",,"","(Pilg.) Pilg.",Accepted,,H,WCSP,408714,398610-1,"Bot. Jahrb. Syst.","73: 99","","1943",
+tro-25551079,A,Poaceae,,Dielsiochloa,,"floribunda",var.,"floribunda","",Synonym,,L,TRO,25551079,,"","","","",kew-408714
+kew-408715,A,Poaceae,,Dielsiochloa,,"floribunda",var.,"major","Pilg.",Synonym,,L,WCSP,408715,,"Bot. Jahrb. Syst.","77: 101","","1947",kew-408714
+tro-25551081,A,Poaceae,,Dielsiochloa,,"floribunda",var.,"majus","Pilg.",Synonym,,L,TRO,25551081,,"Bot. Jahrb. Syst.","73: 101","101","1943",kew-408714
+kew-408716,A,Poaceae,,Dielsiochloa,,"floribunda",var.,"weberbaueri","(Pilg.) Pilg.",Synonym,,L,WCSP,408716,,"Bot. Jahrb. Syst.","77: 101","","1947",kew-408714

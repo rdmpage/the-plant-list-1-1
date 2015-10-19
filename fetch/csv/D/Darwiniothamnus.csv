@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113097,A,Compositae,,Darwiniothamnus,,"alternifolius",,"","Lawesson & Adsersen",Accepted,,M,TICA,D7A118C8-5F03-4A09-9A28-B6E4161424CB,275671-2,"Opera Bot. 92: 10 (1987)","","10","1987",
+gcc-82073,A,Compositae,,Darwiniothamnus,,"lancifolius",,"","(Hook.f.) Harling",Accepted,,M,TICA,D5670F35-B113-4D56-B1B0-713610EDF6A9,76776-2,"","","115","1962",
+gcc-68080,A,Compositae,,Darwiniothamnus,,"lancifolius",subsp.,"glabriusculus","(Stewart) Lawesson & Adsersen",Accepted,,L,TICA,55A63B1A-4AF9-4AB9-B1C6-DC1B7335508E,275672-2,"Opera Bot. 92","","13","1987",
+gcc-67690,A,Compositae,,Darwiniothamnus,,"lancifolius",subsp.,"glandulosus","Harling",Accepted,,L,TICA,E0B8D831-AC87-407D-A9FC-D935FA74E016,,"","","117","1962",
+gcc-65786,A,Compositae,,Darwiniothamnus,,"lancifolius",subsp.,"lancifolius","",Synonym,,L,TICA,AA7D4F76-9395-4520-8205-C99715221A7D,,"","","","",gcc-82073
+gcc-144563,A,Compositae,,Darwiniothamnus,,"tenuifolius",,"","(Hook.f.) Harling",Accepted,,M,TICA,A9D7B155-7305-4A99-9617-FE6174EC4F63,,"","","","1962",
+gcc-64500,A,Compositae,,Darwiniothamnus,,"tenuifolius",var.,"glabriusculus","(Stewart) Cronquist",Synonym,,L,TICA,F18F226F-1B94-467A-8A03-BF1417A99207,76779-2,"Madrono; Journal of the California Botanical Society 20:","","255","1970",gcc-68080
+gcc-55062,A,Compositae,,Darwiniothamnus,,"tenuifolius",var.,"glandulosus","(Harling) Cronquist",Synonym,,L,TICA,47A32DFB-FB18-4D2C-B412-72F5D9817FB9,76780-2,"Madroño 20","","255","1970",gcc-67690
+gcc-51755,A,Compositae,,Darwiniothamnus,,"tenuifolius",subsp.,"santacruzensis","Harling",Synonym,,L,TICA,B2FECC26-2E1C-49CC-A306-5FF7880C268C,,"Acta Horti Berg. 20(3)","","113","1962",gcc-144563
+gcc-148918,A,Compositae,,Darwiniothamnus,,"tenuifolius",subsp.,"tenuifolius","",Synonym,,L,TICA,18AE53D4-0768-4E99-9486-4DC437EED7FC,,"","","","",gcc-144563
+gcc-37478,A,Compositae,,Darwiniothamnus,,"tenuifolius",var.,"tenuifolius","",Synonym,,L,TICA,FE92547C-E94E-491C-BA7C-45780EB2F269,,"","","","",gcc-144563

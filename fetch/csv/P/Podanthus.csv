@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-111651,A,Compositae,,Podanthus,,"gratus",,"","D.Don ex Sweet",Unresolved,,L,TICA,C6C500F4-A4E2-4079-954F-B3967801AA8B,238926-1,"""Hort. Brit. (Sweet), ed. 2. 353""","","353","1830",
+gcc-131420,A,Compositae,,Podanthus,,"mitiqui",,"","Lindl.",Accepted,,M,TICA,6C268D3B-CB7A-43EB-BAB4-E0D823170A00,238927-1,"in Loud. Hort. Brit. 488.","","","1830",
+gcc-148821,A,Compositae,,Podanthus,,"mitiqui",var.,"mitiqui","",Synonym,,L,TICA,D42B8132-5FBB-4B4E-B5B4-4B834C65CB96,,"","","","",gcc-131420
+gcc-31612,A,Compositae,,Podanthus,,"ovatifolius",,"","Lag.",Accepted,,M,TICA,E7C5B3C7-64A6-41B6-AB8E-3A973C4D2999,238928-1,"Gen. et Sp. Nov. 24.","","24","",

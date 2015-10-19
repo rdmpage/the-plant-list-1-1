@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2647463,A,Ericaceae,,Arctous,,"alpina",,"","(L.) Nied.",Accepted,,M,WCSP (in review),,326697-1,"Nat. Pflanzenfam.","4(1): 48","","1889",
+tro-12304253,A,Ericaceae,,Arctous,,"alpina",var.,"alpina","",Synonym,,L,TRO,12304253,,"","","","",kew-2647463
+kew-2879570,A,Ericaceae,,Arctous,,"alpina",var.,"japonica","(Nakai) Ohwi",Synonym,,L,WCSP (in review),,,"Fl. Jap.","905","","1953",kew-2647463
+kew-2647465,A,Ericaceae,,Arctous,,"alpina",var.,"rubra","Rehder & E.H.Wilson",Synonym,,L,WCSP (in review),,17977-2,"Pl. Wilson.","1: 556","","1913",kew-2647469
+tro-12300010,A,Ericaceae,,Arctous,,"alpina",subsp.,"rubra","(Rehder & E.H. Wilson) Hultén",Synonym,,L,TRO,12300010,,"","","","",kew-2647463
+kew-2647466,A,Ericaceae,,Arctous,,"erythrocarpa",,"","Small",Synonym,,M,WCSP (in review),,17978-2,"N. Amer. Fl.","29: 102","","1914",kew-2647463
+kew-2647467,A,Ericaceae,,Arctous,,"japonica",,"","Nakai",Synonym,,M,WCSP (in review),,326699-1,"Bot. Mag. (Tokyo)","35: 134","","1921",kew-2647463
+kew-2647468,A,Ericaceae,,Arctous,,"microphylla",,"","C.Y.Wu",Accepted,,M,WCSP (in review),,895855-1,"Rep. Yunnan Trop. Subtrop. Fl. Res. Inst.","1: 5","","1965",
+kew-2647469,A,Ericaceae,,Arctous,,"rubra",,"","(Rehder & E.H.Wilson) Nakai",Accepted,,M,WCSP (in review),,17979-2,"Trees Shrubs Japan","156","","1922",

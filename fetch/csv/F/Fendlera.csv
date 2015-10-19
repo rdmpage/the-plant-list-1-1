@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2808065,A,Hydrangeaceae,,Fendlera,,"cymosa",,"","Greene",Synonym,,M,WCSP (in review),,791162-1,"Bull. Torrey Bot. Club","8: 26","","1881",kew-2808083
+kew-2808066,A,Hydrangeaceae,,Fendlera,,"falcata",,"","Thornber",Accepted,,M,WCSP (in review),,103530-2,"Contr. U. S. Natl. Herb.","16: 129","","1913",
+kew-2808067,A,Hydrangeaceae,,Fendlera,,"linearis",,"","Rehder",Accepted,,M,WCSP (in review),,103531-2,"J. Arnold Arbor.","1: 205","","1920",
+kew-2808068,A,Hydrangeaceae,,Fendlera,,"rigida",,"","I.M.Johnst.",Synonym,,M,WCSP (in review),,103532-2,"J. Arnold Arbor.","22: 112","","1941",kew-2808067
+kew-2808069,A,Hydrangeaceae,,Fendlera,,"rupicola",,"","A.Gray",Accepted,,M,WCSP (in review),,315095-2,"Smithsonian Contr. Knowl.","3: 77","","1852",
+kew-2808070,A,Hydrangeaceae,,Fendlera,,"rupicola",var.,"falcata","(Thornber) Rehder",Synonym,,L,WCSP (in review),,103533-2,"J. Arnold Arbor.","1: 204","","1920",kew-2808066
+kew-2808071,A,Hydrangeaceae,,Fendlera,,"rupicola",var.,"lindheimeri","A.Gray",Synonym,,L,WCSP (in review),,,"Pl. Wright.","1: 77","","1852",kew-2808069
+kew-2808072,A,Hydrangeaceae,,Fendlera,,"rupicola",var.,"tomentella","(Thornber) Kearney & Peebles",Synonym,,L,WCSP (in review),,103535-2,"J. Wash. Acad. Sci.","29: 480","","1939",kew-2808077
+kew-2808073,A,Hydrangeaceae,,Fendlera,,"rupicola",var.,"wrightii","Engelm. & A.Gray",Synonym,,L,WCSP (in review),,,"Pl. Wright.","1: 77","","1852",kew-2808077
+kew-2808074,A,Hydrangeaceae,,Fendlera,,"tamaulipana",,"","B.L.Turner",Accepted,,M,WCSP (in review),,322089-2,"Lundellia","4: 10","","2001",
+kew-2808075,A,Hydrangeaceae,,Fendlera,,"tomentella",,"","Thornber",Synonym,,M,WCSP (in review),,103536-2,"Contr. U. S. Natl. Herb.","16: 129","","1913",kew-2808077
+kew-2808076,A,Hydrangeaceae,,Fendlera,,"utahensis",,"","(S.Watson) Greene",Synonym,,M,WCSP (in review),,791168-1,"Bull. Torrey Bot. Club","8: 25","","1881",kew-2808082
+kew-2808077,A,Hydrangeaceae,,Fendlera,,"wrightii",,"","(Engelm. & A.Gray) A.Heller",Accepted,,M,WCSP (in review),,103537-2,"Bull. Torrey Bot. Club","24: 537","","1897",

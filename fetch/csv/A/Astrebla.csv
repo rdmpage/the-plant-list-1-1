@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-396880,A,Poaceae,,Astrebla,,"elymoides",,"","F.Muell. ex F.M.Bailey",Accepted,,H,WCSP,396880,,"Ill. Monogr. Grass. Queensl.","1: t. 8","","1879",
+kew-396881,A,Poaceae,,Astrebla,,"lappacea",,"","(Lindl.) Domin",Accepted,,H,WCSP,396881,391053-1,"Biblioth. Bot.","20: 372","","1915",
+kew-396882,A,Poaceae,,Astrebla,,"pectinata",,"","(Lindl.) F.Muell. ex Benth.",Accepted,,H,WCSP,396882,391054-1,"Fl. Austral.","7: 602","","1878",
+kew-396883,A,Poaceae,,Astrebla,,"pectinata",var.,"curvifolia","F.M.Bailey",Synonym,,L,WCSP,396883,,"Bot. Bull. Dept. Agric., Queensland","13: 15","","1896",kew-396881
+kew-396884,A,Poaceae,,Astrebla,,"pectinata",var.,"elymoides","(Bailey) F.M.Bailey",Synonym,,L,WCSP,396884,,"Bot. Bull. Dept. Agric., Queensland","13: 15","","1896",kew-396880
+kew-396885,A,Poaceae,,Astrebla,,"squarrosa",,"","C.E.Hubb.",Accepted,,H,WCSP,396885,391055-1,"Bull. Misc. Inform. Kew","1928: 259","","1928",
+kew-396886,A,Poaceae,,Astrebla,,"triticoides",,"","(Lindl.) F.Muell. ex Benth.",Synonym,,H,WCSP,396886,,"Fl. Austral.","7: 602","","1878",kew-396881
+kew-396887,A,Poaceae,,Astrebla,,"triticoides",var.,"lappacea","(Lindl.) Benth.",Synonym,,L,WCSP,396887,,"Fl. Austral.","7: 603","","1878",kew-396881

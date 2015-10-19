@@ -1,0 +1,48 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81879,A,Compositae,,Lappa,,"ambigua",,"","Celak",Unresolved,,L,TICA,B59480DD-F6DA-49C9-8099-70C84F88CDB5,,"","","","",
+gcc-120724,A,Compositae,,Lappa,,"amplissima",,"","Kotschy",Unresolved,,L,TICA,5C794F70-8B3D-4FF4-8EB3-C835EF34B539,228683-1,"Reise Taur. 412.","","412","",
+gcc-26046,A,Compositae,,Lappa,,"amplissima",,"","Boiss.",Unresolved,,L,TICA,DB6D187F-F2A6-4B17-8E9B-302A77313CF0,,"""Diagn. Pl. Orient. ser. 1, 6: 108""","","108","1846",gcc-80384
+gcc-89956,A,Compositae,,Lappa,,"arctium",,"","Hill",Unresolved,,L,TICA,98886873-ACEC-4A4B-B651-82E323352A9E,228685-1,"Veg. Syst. iv. 28.","","iv. 28","",
+gcc-15765,A,Compositae,,Lappa,,"atlantica",,"","Pomel",Synonym,,M,TICA,6AD9034B-EE75-4F4B-B031-1D3082B5286B,228686-1,"","","","1875",gcc-47432
+gcc-94242,A,Compositae,,Lappa,,"bardana",,"","Moench",Accepted,,M,TICA,5D05986B-B3C6-4A5E-BCF6-8C8C22861DA8,228687-1,"Methodus (Moench) 552. 1794 [4 May 1794]","","552","1794",
+gcc-145293,A,Compositae,,Lappa,,"bardana",var.,"bardana","",Synonym,,L,TICA,B2930DB6-D8D0-49AB-967E-0143938F4B10,,"","","","",gcc-94242
+gcc-90603,A,Compositae,,Lappa,,"bretoni",,"","Rouy",Unresolved,,L,TICA,3624DB24-CB7A-415E-9112-847194D4D353,228688-1,"""Fl. France (Rouy) 13: 517, in syn.""","","517","1912",
+gcc-119368,A,Compositae,,Lappa,,"carduelis",,"","Lam.",Unresolved,,L,TICA,167E1911-6F41-4ED8-A75C-C500EB01692F,228689-1,"Encycl. (Lamarck) 1(2): 378","","378","1785",
+gcc-119576,A,Compositae,,Lappa,×,"cimbrica",,"","E.H.L.Krause",Unresolved,,L,TICA,24DA9F94-FBFF-4047-8857-C577B7537846,,"","","","",gcc-121160
+gcc-84046,A,Compositae,,Lappa,,"conglomerata",,"","Schur",Unresolved,,L,TICA,5B8B296C-D518-4B3C-9B05-75A0DB4FBC51,228690-1,"in Verh. Siebenb. Ver. Naturw. x. (1859) 79.","","x.  79","1859",
+gcc-45165,A,Compositae,,Lappa,,"crispa",,"","J.Wolff ex Borza",Unresolved,,L,TICA,7A256650-D23E-4D3C-84F5-53B8BC2EEEF8,,"""Bul. Grad. & Muz. Bot. Univ. Cluj 1921, i. 40, in obs., nomen; Cretz. inActa Faun. Fl. Univ., Bucuresti, Ser. II. Bot., i. Nos. 7-8, 1 (1933), in syn.""","","""i. 40, in obs., nomen""","1921",
+gcc-90429,A,Compositae,,Lappa,,"degeni",,"","chab.herv. ex H.Lindb.",Unresolved,,L,TICA,B07FC742-BBA4-49EA-B252-83F69CD0C9C9,,"""Itin. Mediterr. (Act. Soc. Sc. Fenn. n. s. B, i. No. 2) 153 (1932), in syn.""","","153","",
+gcc-3897,A,Compositae,,Lappa,,"edulis",,"","Siebold ex Miq.",Accepted,,M,TICA,61C064F1-2619-45E9-83DE-073E0ED793EB,228693-1,"Ann. Mus. Bot. Lugduno-Batavi ii. 185","","185","",
+gcc-119852,A,Compositae,,Lappa,,"glabra",,"","Lam.",Synonym,,M,TICA,2E9FCB41-427A-45C3-AA4E-C61CAE77FFAF,,"","","37","",gcc-52146
+gcc-143556,A,Compositae,,Lappa,,"intermedia",,"","Rchb.f.",Accepted,,M,TICA,34CD9A67-35A5-48B2-BD95-FC2DE26FF3D7,228695-1,"Ic. Fl. Germ. xv. 54. t. 812.","","xv. 54. t. 812","",
+gcc-3269,A,Compositae,,Lappa,×,"intermedia",,"","Simonk.",Unresolved,,L,TICA,6A6786EA-EB7C-4311-9939-060B15F936CE,,"""in Termesz. Fuzetek, ii. (1878) 145.""","","ii.  145.","1878",
+gcc-147143,A,Compositae,,Lappa,,"intermedia",var.,"intermedia","",Synonym,,L,TICA,43BF0B04-417F-41A6-9177-275D9FC7B4BA,,"","","","",gcc-143556
+gcc-141167,A,Compositae,,Lappa,,"janczewskii",,"","Dybowski",Unresolved,,L,TICA,6FC81674-A825-4047-812F-F6B75F6B1334,,"""Wszechświat 1904, 731; cf. Bot. Centralbl. xcix. 73.""","","73","",
+gcc-126282,A,Compositae,,Lappa,,"kotschyi",,"","hort.vind. ex Boiss.",Unresolved,,L,TICA,2D4A43F8-3CDA-46AE-AB3B-D4FB5A5DD647,228698-1,"Fl. Orient. [Boissier] 3: 458","","458","1875",
+gcc-50560,A,Compositae,,Lappa,,"lappa",,"","(L.) H.Karst.",Unresolved,Illegitimate,L,TICA,6FBB9ED5-650D-4178-A3EE-5DBCA57B2BF6,228699-1,"Deut. Fl. (Karsten) 1121","","1121","1883",
+gcc-85794,A,Compositae,,Lappa,×,"maassii",,"","M.Schultze",Unresolved,,L,TICA,926090A0-279B-485F-8213-7971006C3CE4,,"","","","",
+gcc-4556,A,Compositae,,Lappa,,"macrosperma",,"","Wallr.",Unresolved,,L,TICA,DE5FC2DA-57C4-4977-A657-0874A02EBEB2,228700-1,"Linnaea 14: 639 (1841); et Beitr. Fl. Hercyn. 269.","","639","1841",
+gcc-94305,A,Compositae,,Lappa,,"major",,"","Gaertn.",Synonym,,M,TICA,E1CE417D-86E8-4DE9-9B19-8CAD4E8BBCE3,,"","","379","1791",gcc-52146
+gcc-82476,A,Compositae,,Lappa,,"minor",,"","Hill",Synonym,,M,TICA,5AD83706-1483-4571-A120-722A9909FC2E,330050-2,"","","28","1762",gcc-3683
+gcc-152342,A,Compositae,,Lappa,,"minor",var.,"minor","",Synonym,,L,TICA,4315A74F-716D-4CF4-A349-976EC892EA99,,"","","","",gcc-3683
+gcc-19291,A,Compositae,,Lappa,,"nemorosa",,"","(Lej.) Körn. ex Griewank",Synonym,,M,TICA,B825E59C-4AD0-4D8C-A400-23A80A18C1C0,,"","","","1864",gcc-52146
+gcc-79968,A,Compositae,,Lappa,,"neumani",,"","Rouy",Unresolved,,L,TICA,E032BF76-FEB5-4D96-9698-6C8C76F38553,228704-1,"Fl. France (Rouy) 9","","98","1905",gcc-136103
+gcc-85526,A,Compositae,,Lappa,×,"notha",,"","Ruhmer",Accepted,,M,TICA,30596617-3BC0-4857-8508-78E2059B692B,,"in Eichl. Jahrb. Berl. (1881) 238.","","","1881",
+gcc-41385,A,Compositae,,Lappa,,"officinalis",,"","All.",Synonym,,M,TICA,FF884B6C-BF66-482C-BA0F-4CA25085F7E2,228706-1,"","","145","1785",gcc-52146
+gcc-141104,A,Compositae,,Lappa,,"palladini",,"","Marcow.",Synonym,,M,TICA,1BC7DDAB-781B-4E55-947F-F695F5434B3C,228707-1,"","","","1900",gcc-121837
+gcc-139393,A,Compositae,,Lappa,,"personata",,"","Lam.",Unresolved,,L,TICA,D5C7EC71-1E1D-4EB9-86E1-F2A635622AA0,228709-1,"Encycl. (Lamarck) 1(2): 378","","378","1785",
+gcc-47319,A,Compositae,,Lappa,,"platylepis",,"","Boiss. & Balansa ex Boiss. & Balansa",Synonym,,M,TICA,9F639988-D376-4188-8EA9-579F619DDBEA,228710-1,"","","458","1875",gcc-68856
+gcc-77465,A,Compositae,,Lappa,,"pubens",,"","(Bab.) Boreau",Synonym,,M,TICA,14BC9020-C743-42A1-A4C6-66F042DAA8C1,,"""Boreau, Fl. Centre France, ed. 3, 2. 1857.""","","758","1857",gcc-3683
+gcc-101796,A,Compositae,,Lappa,,"puberis",,"","Boreau",Unresolved,,L,TICA,0160DA23-8DE4-4F81-9486-9D8CB7A4AD0D,228711-1,"Fl. Centre France ed. 3 2: 758","","758","1857",
+gcc-142618,A,Compositae,,Lappa,,"rehmannii",,"","Dybowski",Accepted,,L,TICA,81DF2950-EB6A-46AD-A402-F9FC8C33548A,,"""Wszechświat 1904, 732; cf. Bot. Centralbl. xcix. 73.""","","73","",
+gcc-107268,A,Compositae,,Lappa,,"repens",,"","DC. ex Kar.",Unresolved,,L,TICA,F3C93313-9B92-487D-88CE-A9AFF6008081,228713-1,"""in Bull. Soc. Nat. Mosc. (1839) 160, nomen.""","",""" 160, nomen.""","1839",
+gcc-41179,A,Compositae,,Lappa,×,"ritschliana",,"","Asch.",Unresolved,,L,TICA,83A7279B-5E79-48B3-9E30-4C4EDAF00A89,,"in Ber. Deutsch. bot. Ges. ix. (1891) [99].","","99","",
+gcc-33183,A,Compositae,,Lappa,,"rosacea",,"","Wallr.",Unresolved,,L,TICA,C40C9EF7-8309-4E22-8225-3D8C68AA2EFE,228715-1,"Erst. Beitr. Fl. Hercyn. 270","","270","1840",
+gcc-46929,A,Compositae,,Lappa,,"scanica",,"","Rouy",Unresolved,,L,TICA,4F33C07D-FCCA-4408-BBE1-56FA6025C4A4,228716-1,"""Fl. France (Rouy) 9: 98, in syn.""","","98","1905",gcc-79272
+gcc-90028,A,Compositae,,Lappa,×,"subracemosa",,"","Simonk.",Unresolved,,L,TICA,F5D38D75-E487-4B4A-8FAE-830D6BE580B1,,"Enum. Fl. Transs. (1886) 340.","","340","1886",
+gcc-43832,A,Compositae,,Lappa,,"sylvestris",,"","Pomel",Unresolved,,L,TICA,945F6BC4-B1A9-4A76-8EF6-513456C316A3,228718-1,"Nouv. Mat. Fl. Atl. 284.","","284","",
+gcc-18677,A,Compositae,,Lappa,,"tenella",,"","Fisch. & Mey.",Unresolved,,L,TICA,3CD63E97-E9A7-483E-8299-2280DC3C88B1,228719-1,"Prodr. (DC.) 6: 662","","662","1838",
+gcc-35389,A,Compositae,,Lappa,,"tomentosa",,"","(Mill.) Lam.",Synonym,,M,TICA,EC5017A0-6060-4960-BE4C-419D7237188F,,"","","37","",gcc-91826
+gcc-17975,A,Compositae,,Lappa,,"vulgaris",,"","Hill",Synonym,,M,TICA,D703F73C-A1BD-4309-BAAE-2138C01DEC84,,"","","28","1762",gcc-52146
+gcc-157348,A,Compositae,,Lappa,,"vulgaris",var.,"vulgaris","",Synonym,,L,TICA,E096A771-DE87-4A3A-BD4E-FFED2D000E28,,"","","","",gcc-52146
+gcc-22874,A,Compositae,,Lappa,,"zalewski",,"","Dybowski.",Accepted,,L,TICA,6BBAADA8-0416-4A6C-93AE-2A5957F3A4AD,,"Wszechświat","","73","",

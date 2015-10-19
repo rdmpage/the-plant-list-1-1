@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2442364,A,Hypericaceae,,Thymopsis,,"aspera",,"","Jaub. & Spach",Synonym,,M,WCSP (in review),,434075-1,"Ill. Pl. Orient.","1: 72","","1843",kew-2859066
+gcc-107526,A,Compositae,,Thymopsis,,"brittonii",,"","Greenm.",Accepted,,M,TICA,2CF2971F-ED30-45FF-9291-AA3D4C622C17,252883-2,"Bull. New York Bot. Gard. 3","","453","1905",
+gcc-1728,A,Compositae,,Thymopsis,,"thymoides",,"","(Britton & Millsp.) Alain",Unresolved,,L,TICA,7BAA976B-E298-4748-B938-031DC7E986F9,255705-1,"Candollea xvii. 120 (1960).","","120","1960",
+gcc-82332,A,Compositae,,Thymopsis,,"thymoides",,"","(Griseb.) Urb.",Accepted,,L,TICA,08B32C0C-620A-4AF1-84CD-71C99B46CD32,,"Symb. Antill. 5: 254. 1907","","254","",
+gcc-69968,A,Compositae,,Thymopsis,,"thymoides",var.,"glabrescens","(Urb.) Alain",Accepted,,L,TICA,E33061DE-902D-41CB-82CC-EA6FE24010E4,252886-2,"Candollea 17: 120. 1960","","120","1960",
+gcc-70063,A,Compositae,,Thymopsis,,"thymoides",subsp.,"glabrescens","(Urb.) Borhidi & O.Muñiz",Synonym,,L,TICA,6A141284-7CDE-4C32-9E0F-EB2911D73F4C,252885-2,"Bot. Kozlem. 58(3): 177. 1971.","","177","1971",gcc-69968
+gcc-15331,A,Compositae,,Thymopsis,,"thymoides",var.,"polyantha","(Urb.) Alain",Accepted,,L,TICA,5B80D88A-4A92-4630-9439-1C6406A96D92,252888-2,"Candollea 17: 120. 1960","","120","1960",
+gcc-53386,A,Compositae,,Thymopsis,,"thymoides",subsp.,"polyantha","(Urb.) Borhidi & O.Muñiz",Synonym,,L,TICA,7E0B96B7-9F52-42E4-BF50-65D7784876AA,252887-2,"Bot. Kozlem. 58(3): 177. 1971.","","177","1971",gcc-15331
+gcc-150823,A,Compositae,,Thymopsis,,"thymoides",subsp.,"thymoides","",Synonym,,L,TICA,1982CB58-836B-4897-ACA9-76C9F04A14F2,,"","","","",gcc-82332
+gcc-31973,A,Compositae,,Thymopsis,,"thymoides",var.,"thymoides","",Synonym,,L,TICA,BE959F18-6866-45AB-A280-3B38DD4D6D18,,"Candollea 17: 120. 1960","","120","1960",gcc-82332
+gcc-108980,A,Compositae,,Thymopsis,,"wrightii",,"","Benth.",Unresolved,Illegitimate,L,TICA,20FD2B7E-9C3D-457D-862B-AD9E78EA1602,,"Gen. Pl. (Bentham & Hooker f.) ii. 407 (1873).","","","1873",

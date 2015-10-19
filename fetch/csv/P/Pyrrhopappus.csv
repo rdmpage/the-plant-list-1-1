@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-94178,A,Compositae,,Pyrrhopappus,,"carolinianus",,"","(Walter) DC.",Accepted,,M,TICA,C9524D4C-16E9-48B6-9472-8C6623000826,241012-1,"Prodr. (DC.) 7(1): 144","","144","1838",
+gcc-68712,A,Compositae,,Pyrrhopappus,,"carolinianus",var.,"carolinianus","",Synonym,,L,TICA,6AC7D9E7-E252-48E5-8C19-E0E73B2916C3,,"","","","",gcc-94178
+gcc-71454,A,Compositae,,Pyrrhopappus,,"carolinianus",var.,"georgianus","(Shinners) H.E.Ahles",Synonym,,L,TICA,011D93AE-61E0-465E-A206-F6681159B8C4,215148-2,"J. Elisha Mitchell Sci. Soc. 80: 173","","173","1964",gcc-94178
+gcc-67254,A,Compositae,,Pyrrhopappus,,"carolinianus",var.,"maximus","Nutt.",Synonym,,L,TICA,3FF7AAB6-903C-431A-87CF-D5ACE4E97071,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 430""","","430","1841",gcc-94178
+gcc-105390,A,Compositae,,Pyrrhopappus,,"geiseri",,"","Shinners",Synonym,,M,TICA,3E5E8B76-4FEB-4AA9-9F8A-A57840E31E66,215150-2,"","","81","1951",gcc-46809
+gcc-28708,A,Compositae,,Pyrrhopappus,,"georgianus",,"","Shinners",Synonym,,M,TICA,4A8D1061-0B1D-4DBF-9AE0-35139F9BF0CC,215151-2,"","","93","1953",gcc-94178
+gcc-50287,A,Compositae,,Pyrrhopappus,,"grandiflorus",,"","(Nutt.) Nutt.",Accepted,,M,TICA,6EB16ABE-C6F6-4A33-815A-5D4250B99515,,"","","430","1841",
+gcc-29631,A,Compositae,,Pyrrhopappus,,"hochstetteri",,"","A.Rich.",Synonym,,M,TICA,798DFE07-BD2B-4032-AEDC-36C5A2253B28,241016-1,"Tent. Fl. Abyss. i. 463 (1847).","","463","1848",gcc-85069
+gcc-87299,A,Compositae,,Pyrrhopappus,,"humilis",,"","A.Rich.",Synonym,,M,TICA,9E369DDC-3408-47E6-9DE7-7CF3CCC62B76,241017-1,"Tent. Fl. Abyss. i. 463 (1847).","","463","1848",gcc-85069
+gcc-108334,A,Compositae,,Pyrrhopappus,,"multicaulis",,"","DC.",Synonym,,M,TICA,88431F12-99C4-4058-97C1-AC0E8FC1ED57,241019-1,"","","144","1838",gcc-46809
+gcc-134789,A,Compositae,,Pyrrhopappus,,"multicaulis",,"","Curtiss ex A.Gray",Unresolved,,L,TICA,BA3D9F8A-124F-48DD-A810-E88A42F71129,241018-1,"Syn. Fl. N. Am. i. II. 441.","","i. II. 441","",
+gcc-61780,A,Compositae,,Pyrrhopappus,,"multicaulis",var.,"geiseri","(Shinners) Northington",Unresolved,,L,TICA,D1265C68-E636-4C63-BA49-A96B48558BBA,878195-1,"The Southwestern Naturalist 18(3):","","343","1973",gcc-46809
+gcc-156202,A,Compositae,,Pyrrhopappus,,"multicaulis",var.,"multicaulis","",Synonym,,L,TICA,7D7F909A-1669-4863-8CA2-E886E68DC219,,"","","","",gcc-46809
+gcc-46809,A,Compositae,,Pyrrhopappus,,"pauciflorus",,"","(D.Don) DC.",Accepted,,M,TICA,1202FF16-7BA5-4AFF-8B12-56BA8891D6AC,241020-1,"","","144","1838",
+gcc-23367,A,Compositae,,Pyrrhopappus,,"rothrockii",,"","A.Gray",Accepted,,M,TICA,CD7586F0-5C45-416E-A545-2B441A92A030,241021-1,"Proc. Amer. Acad. Arts xi. (1876) 80.","","80","1876",
+gcc-90060,A,Compositae,,Pyrrhopappus,,"scaposus",,"","DC.",Synonym,,M,TICA,EE99FD23-3BA4-4F46-92D0-831ED5AFA982,241022-1,"Prodr. (DC.) 7(1): 144","","144","1838",gcc-50287
+gcc-84103,A,Compositae,,Pyrrhopappus,,"sessaeanus",,"","(D.Don) DC.",Synonym,,M,TICA,4DED6A3F-4CCD-4BDD-938C-75C785A2BBF1,241023-1,"","","144","1838",gcc-46809
+gcc-121353,A,Compositae,,Pyrrhopappus,,"taraxacoides",,"","DC.",Accepted,,M,TICA,CEAA1B21-EB02-4C01-AB06-C99CA3FBDEB6,241024-1,"""A.P. de Candolle, Prodr. 7. 1838""","","145","1838",

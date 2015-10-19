@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-21452,A,Compositae,,Spiracantha,,"cornifera",,"","Steud.",Unresolved,,L,TICA,E20D4112-2D71-4225-A840-27A3F5E6874F,250893-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 623, sphalm.""","","623","1841",
+gcc-129238,A,Compositae,,Spiracantha,,"cornifolia",,"","Kunth",Accepted,,M,TICA,945E60AD-A06A-487D-974B-DBD3BB362A01,,"","","","",
+gcc-92745,A,Compositae,,Spiracantha,,"denticulata",,"","Ernst",Synonym,,M,TICA,B185942C-2FC9-4B88-903C-894A31DF9E51,250895-1,"","","213","1874",gcc-129238

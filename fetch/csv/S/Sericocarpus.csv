@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-108640,A,Compositae,,Sericocarpus,,"acutisquamosus",,"","(Nash) Small",Synonym,,L,TICA,1005E4A8-050B-436A-8578-ACC2C0B59100,234754-2,"","","1206","1903",gcc-98496
+gcc-114063,A,Compositae,,Sericocarpus,,"asterodes",,"","Kuntze",Unresolved,,L,TICA,0FAF969C-7AA1-4010-BE8A-B8FBB8E85CA9,234756-2,"Revis. Gen. Pl. 1","","364","1891",
+gcc-113897,A,Compositae,,Sericocarpus,,"asteroides",,"","(L.) Nees",Accepted,,M,TICA,C7F8FA74-B1FC-4C7C-932C-B8A1EC07652D,,"Genera et Species Asterearum","","150","1832",
+gcc-90349,A,Compositae,,Sericocarpus,,"asteroides",,"","(L.) ""Britton, Sterns & Poggenb.""",Unresolved,,L,TICA,9E083BAA-C93F-4916-A002-83C264109603,234755-2,"","","26","1888",
+gcc-99890,A,Compositae,,Sericocarpus,,"bifoliatus",,"","(Walter) Porter",Synonym,,L,TICA,C5A7CCED-440A-4E54-9FA7-9961408C25B7,248340-1,"Mem. Torrey Bot. Club v. (1894) 322","","322","1894",gcc-98496
+gcc-53871,A,Compositae,,Sericocarpus,,"bifoliatus",var.,"acutisquamosus","Nash",Unresolved,,L,TICA,5ABF3BE9-C30C-4321-B9E5-6972B224F17D,234759-2,"","","","",gcc-98496
+gcc-145254,A,Compositae,,Sericocarpus,,"bifoliatus",var.,"bifoliatus","",Synonym,,L,TICA,F3200457-9D7A-4E43-803A-0055887E106B,,"","","","",gcc-98496
+gcc-137677,A,Compositae,,Sericocarpus,,"californicus",,"","Durand",Synonym,,M,TICA,FF0AF3E1-FE03-493E-84CC-EEF9CB820819,311834-2,"","","90","1855",gcc-62164
+gcc-12363,A,Compositae,,Sericocarpus,,"collinsii",,"","(Nutt.) Nutt.",Synonym,,L,TICA,C4C9F729-212A-413A-8EC9-170D808D7F28,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 302""","","302","1840",gcc-98496
+gcc-136168,A,Compositae,,Sericocarpus,,"conyzoides",,"","Nees",Accepted,,M,TICA,22BEF576-14BF-4661-AF50-EB9B22506A88,248343-1,"Gen. Sp. Aster. 150.","","150","",
+gcc-146287,A,Compositae,,Sericocarpus,,"conyzoides",var.,"conyzoides","",Synonym,,L,TICA,511C6E27-9264-480C-93EF-1596DD4338B9,,"","","","",gcc-136168
+gcc-98054,A,Compositae,,Sericocarpus,,"linifolius",,"","(L.) ""Britton, Sterns & Poggenb.""",Accepted,,M,TICA,D5C30B67-BF5E-4758-931F-9541A820BD75,234764-2,"","","26","1888",
+gcc-139057,A,Compositae,,Sericocarpus,,"oregonensis",,"","Nutt.",Accepted,,M,TICA,70158450-D012-4CB9-ABEC-F1E75D8D14B4,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 302""","","302","1840",
+gcc-58277,A,Compositae,,Sericocarpus,,"oregonensis",var.,"californicus","(Durand) G.L.Nesom",Synonym,,L,TICA,AACE1CC2-0FE0-43BA-81EB-8D5323EEB950,1018554-2,"","","51","1993",gcc-62164
+gcc-62164,A,Compositae,,Sericocarpus,,"oregonensis",subsp.,"californicus","(Durand) Ferris",Accepted,,L,TICA,423F3A17-1FC3-4A89-9605-AC7FDB1715DD,1173350-2,"Contr. Dudley Herb. 5","","100","1958",
+gcc-61872,A,Compositae,,Sericocarpus,,"oregonensis",subsp.,"oregonensis","",Synonym,,L,TICA,B8A17F86-9B32-4DE1-8A02-AA10A3642B5B,,"","","","",gcc-139057
+gcc-70795,A,Compositae,,Sericocarpus,,"oregonensis",var.,"oregonensis","",Synonym,,L,TICA,D3C4AA9E-8A82-424A-886C-F0DA59C90F8A,,"","","","",gcc-139057
+gcc-3011,A,Compositae,,Sericocarpus,,"rigidus",,"","Lindl.",Accepted,,M,TICA,5FAC20A1-66FC-4DBD-8079-05947070437B,234767-2,"Fl. Bor.-Amer. (Hooker) 2","","14 (-15)","1834",
+gcc-60025,A,Compositae,,Sericocarpus,,"rigidus",var.,"rigidus","",Synonym,,L,TICA,3275D7A1-43CA-4451-BAD0-9B164C586AD1,,"","","","",gcc-3011
+gcc-100929,A,Compositae,,Sericocarpus,,"sipei",,"","L.F.Hend.",Unresolved,,L,TICA,1829AE09-4857-4D46-B038-9BB32E514C88,234769-2,"","","105","1933",
+gcc-27014,A,Compositae,,Sericocarpus,,"solidagineus",,"","(Michx.) Nees",Synonym,,M,TICA,52ED8B4B-04B1-49FD-BF36-31EB7CA784CD,248348-1,"Gon. et Sp. Aster. 149.","","","1832",gcc-98054
+gcc-144890,A,Compositae,,Sericocarpus,,"tomentellus",,"","Greene",Synonym,,M,TICA,4A0C1382-C35E-438C-893F-FF2805D556E4,234770-2,"","","283","1889",gcc-37046
+gcc-98496,A,Compositae,,Sericocarpus,,"tortifolius",,"","(Michx.) Nees",Accepted,,L,TICA,1121F512-CB62-4088-A0A3-964813C495B5,248350-1,"Gon. et Sp. Aster. 151.","","","1832",
+gcc-146223,A,Compositae,,Sericocarpus,,"tortifolius",var.,"tortifolius","",Synonym,,L,TICA,9A8AA989-17FD-47A7-B468-1426C5A368A5,,"","","","",gcc-98496
+gcc-126375,A,Compositae,,Sericocarpus,,"woodhousei",,"","Buckley",Unresolved,,L,TICA,6A75E32E-8A20-4B25-BE06-D531D8386F84,,"in Proc. Acad. Sc. Philad. 1861 (1862) 457.","","","",

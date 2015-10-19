@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120961,A,Compositae,,Alloispermum,,"caracasanum",,"","(Kunth) H.Rob.",Accepted,,M,TICA,88FA3EB7-6F96-4253-9FEA-C8BBEFDC9DDB,9082-2,"Phytologia 38","","411","1978",
+gcc-88524,A,Compositae,,Alloispermum,,"colimense",,"","(McVaugh) H.Rob.",Accepted,,M,TICA,38AEBD9B-E2A8-4F3F-8988-7FA148638027,9083-2,"Phytologia 41","","33","1978",
+gcc-149173,A,Compositae,,Alloispermum,,"colimense",var.,"colimense","",Synonym,,L,TICA,8818CE00-298C-404C-B8EF-531EF49C87C5,,"","","","",gcc-88524
+gcc-20786,A,Compositae,,Alloispermum,,"divaricatum",,"","Willd.",Synonym,,M,TICA,73F8D709-E32A-4481-8D94-2672DCDAFB10,,"","","","1807",gcc-120961
+gcc-39528,A,Compositae,,Alloispermum,,"divaricatum",,"","Willd. ex DC.",Synonym,Illegitimate,M,TICA,A0C5B519-986F-4B52-856D-495C7D8CC3B9,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","676","1836",gcc-120961
+gcc-84887,A,Compositae,,Alloispermum,,"gonzaleziae",,"","(B.L.Turner) B.L.Turner",Accepted,,M,TICA,0AFFCFF4-DB5E-4BC2-9A13-777791596BAE,271946-2,"Phytologia 68","","135","1990",
+gcc-100664,A,Compositae,,Alloispermum,,"guerreroanum",,"","B.L.Turner",Unresolved,,L,TICA,41FAD21C-EC6E-440D-B576-9B21CCB0CEA0,77084931-1,"Phytologia 89(2): 151 (-152)","","151 (-152)","2007",
+gcc-124207,A,Compositae,,Alloispermum,,"insuetum",,"","""C.F.Fernández, Urbatsch & G.Sullivan""",Accepted,,L,TICA,8DCDF868-0E0B-4512-8149-D026D39AACFA,,"Madroño 34","","162","1987",
+gcc-115946,A,Compositae,,Alloispermum,,"integrifolium",,"","(DC.) H.Rob.",Accepted,,M,TICA,ECBB87A1-657A-4FEE-8ADB-BD54DA5BC952,9084-2,"","","411","1978",
+gcc-49835,A,Compositae,,Alloispermum,,"integrifolius",,"","DC.",Synonym,,M,TICA,0A5BAD85-756E-405B-83DC-5C63F3DE4795,,"","","","1836",gcc-115946
+gcc-94275,A,Compositae,,Alloispermum,,"lehmannii",,"","H.Rob.",Synonym,,M,TICA,60CABE32-9F2A-4C32-B0CA-8C9CA7D9D27A,9085-2,"Phytologia 44","","426","1979",gcc-140271
+gcc-13060,A,Compositae,,Alloispermum,,"liebmannii",,"","(Sch.Bip. ex Klatt) H.Rob.",Synonym,,L,TICA,89865853-F4C7-4A34-9CE9-1853C4DB1AD0,9086-2,"","","412","1978",gcc-147778
+gcc-18312,A,Compositae,,Alloispermum,,"lindenii",,"","(Sch.Bip. ex Wedd.) H.Rob.",Accepted,,M,TICA,3D61B91B-C521-4161-8ED3-21D45D3B6328,9087-2,"Phytologia 38","","412","1978",
+gcc-97246,A,Compositae,,Alloispermum,,"longiradiatum",,"","(Urbatsch & B.L.Turner) B.L.Turner",Accepted,,M,TICA,0CE1D697-1A30-494F-9342-93680B0A2363,271948-2,"Phytologia 68","","135","1990",
+gcc-90795,A,Compositae,,Alloispermum,,"michoacanum",,"","(B.L.Rob.) B.L.Turner",Accepted,,M,TICA,78489E15-3B19-4A24-A09A-84EA276CDF5B,271949-2,"Phytologia 68","","135","1990",
+gcc-58330,A,Compositae,,Alloispermum,,"michoacanum",var.,"liebmannii","(Sch.Bip. ex Klatt) B.L.Turner",Accepted,,L,TICA,CED5DC63-5501-4B00-9D6A-8DC9AC1F95FA,271950-2,"Phytologia 68","","135","1990",
+gcc-55425,A,Compositae,,Alloispermum,,"michoacanum",var.,"michoacanum","",Synonym,,L,TICA,B0703EB1-5E1F-41D9-91FC-75ED6C0EBC98,,"","","","1990",gcc-90795
+gcc-138326,A,Compositae,,Alloispermum,,"pachensis",,"","(Hieron.) H.Rob.",Accepted,,M,TICA,3C7286F1-01DF-4F0B-A793-F0570CE47733,9088-2,"Phytologia 38","","412","1978",
+gcc-105548,A,Compositae,,Alloispermum,,"palmeri",,"","(A.Gray) C.Fernandez & L.Urbatsch",Accepted,,L,TICA,8EC02923-0DE5-4511-BFD7-A5D05D2D1D7D,,"Phytologia 68","","136","1990",
+tro-50336473,A,Compositae,,Alloispermum,,"palmeri",,"","(A. Gray) C.F. Fernández & Urbatsch",Synonym,,M,TRO,50336473,271951-2,"Phytologia","68: 136","136","1990",gcc-105548
+gcc-59200,A,Compositae,,Alloispermum,,"palmeri",var.,"lancifolium","(Urbatsch & B.L.Turner) C.Fernandez & L.Urbatsch",Unresolved,,L,TICA,6FE4F7DA-F872-44A9-8754-949748356A26,956200-1,"Phytologia 68","","136","1990",
+gcc-72376,A,Compositae,,Alloispermum,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,B92755D9-5B8E-48C0-8831-FD6D0ABD470D,,"","","","1990",gcc-105548
+gcc-25979,A,Compositae,,Alloispermum,,"scabrifolium",,"","(Hook. & Arn.) H.Rob.",Accepted,,L,TICA,BC3AA684-8EEF-43DD-A98F-300325A28BD7,9089-2,"Phytologia 38","","412","1978",
+gcc-123928,A,Compositae,,Alloispermum,,"scabrum",,"","(Lag.) H.Rob.",Accepted,,M,TICA,F79339D0-FFB0-4B25-BB4D-CF861AB5D529,9090-2,"","","412","1978",
+gcc-62944,A,Compositae,,Alloispermum,,"scabrum",var.,"scabrum","",Synonym,,L,TICA,5FE4CB32-0C04-4111-AA43-B2DC795BAE90,,"","","","1978",gcc-123928
+gcc-140271,A,Compositae,,Alloispermum,,"sodiroi",,"","(Hieron.) H.Rob.",Accepted,,M,TICA,9DEA1CD2-A265-4901-99FE-F49F72F8D82A,9091-2,"Phytologia 44","","426","1979",
+gcc-44762,A,Compositae,,Alloispermum,,"steyermarkii",,"","H.Rob.",Accepted,,M,TICA,D23663AB-3E66-4269-8EAE-52E55610CB82,9092-2,"Phytologia 41","","33","1978",
+gcc-23868,A,Compositae,,Alloispermum,,"tridacoides",,"","(Urbatsch & B.L.Turner) C.Fernandez & Urbatsch",Accepted,,M,TICA,446FF5FE-7694-4C41-AAE3-2C1C061FAE2F,,"Phytologia 68","","136","1990",
+gcc-87939,A,Compositae,,Alloispermum,,"weberbaueri",,"","H.Rob.",Accepted,,M,TICA,CBE49532-9A68-4170-A599-7E51AF7340DF,9093-2,"Phytologia 44","","427","1979",

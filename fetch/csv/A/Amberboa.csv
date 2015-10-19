@@ -1,0 +1,73 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-45869,A,Compositae,,Amberboa,,"abyssinica",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,FA2B4D56-867A-493F-AFFC-55059FEC4878,175974-1,"","","453","1848",gcc-133256
+gcc-122455,A,Compositae,,Amberboa,,"amberboi",,"","(L.) Tzvelev",Accepted,,M,TICA,4B95AF03-347C-4E6B-8ABA-CC1073A3C50F,175975-1,"","","331","1963",
+gcc-105411,A,Compositae,,Amberboa,,"atlantica",,"","Pit.",Synonym,,M,TICA,12BB0317-5566-4715-A290-A581E9752E49,175976-1,"","","61","1912",gcc-127193
+gcc-126946,A,Compositae,,Amberboa,,"aylmeri",,"","(Baker) Soják",Synonym,,M,TICA,F5438010-45EB-47D5-877E-D6798607E4ED,175977-1,"","","47","1962",gcc-69521
+gcc-143749,A,Compositae,,Amberboa,,"belouinii",,"","(Humbert) Soják",Synonym,,M,TICA,4FE80461-D964-4240-9474-FC969499C0EE,,"","","","1962",gcc-15293
+gcc-139295,A,Compositae,,Amberboa,,"biennis",,"","Iljin",Synonym,,M,TICA,8E82ABB1-AF08-403B-9EE5-F268E6137C08,,"","","","",gcc-102337
+gcc-44454,A,Compositae,,Amberboa,,"biennis",,"","(Iljin) Grossh.",Synonym,,M,TICA,9D4AE50B-D3B2-4AF6-BEB5-525F67B08174,,"""Grossh., Fl. Kavk. 4. 1934.""","","196","1934",gcc-102337
+gcc-107795,A,Compositae,,Amberboa,,"bollei",,"","Sch.Bip.",Unresolved,,L,TICA,266F9860-530F-41AA-861E-AAE9B3E1D745,,"","","","",gcc-43799
+gcc-121221,A,Compositae,,Amberboa,,"bollei",,"","Sch.Bip. ex Bolle",Synonym,,L,TICA,25021822-8E56-478E-88AA-C955B874F690,175980-1,"","","297","1859",gcc-43799
+gcc-8375,A,Compositae,,Amberboa,,"bucharica",,"","Iljin",Accepted,,M,TICA,6139910E-B589-463B-9CF6-0F95B9FBC187,175981-1,"","","108","1932",
+gcc-104373,A,Compositae,,Amberboa,,"carthamoides",,"","DC.",Synonym,,M,TICA,C787335E-1F0C-4F51-BFD8-A35D0F4F0CDB,175982-1,"","","561","1838",gcc-86062
+gcc-97688,A,Compositae,,Amberboa,,"crupina",,"","Coss. ex Maire",Synonym,,M,TICA,FE2462B3-02D8-4CAC-A269-947B5DB0655A,175983-1,"","","110","1931",gcc-79829
+gcc-34808,A,Compositae,,Amberboa,,"crupinoides",,"","(Desf.) DC.",Synonym,,M,TICA,C3EB4A15-84ED-47EC-AFD8-4086E2485871,175984-1,"","","559","1838",gcc-134282
+gcc-152686,A,Compositae,,Amberboa,,"crupinoides",var.,"crupinoides","",Synonym,,L,TICA,5410EF8F-DA36-4950-9643-9EACF45B8933,,"","","","",gcc-134282
+gcc-55187,A,Compositae,,Amberboa,,"crupinoides",var.,"immarginata","Feinbrun",Synonym,,L,TICA,44A72389-BCB8-4469-B270-74087728F2ED,,"","","83","1976",gcc-100897
+gcc-55932,A,Compositae,,Amberboa,,"crupinoides",var.,"libyca","(Viv.) Pamp.",Synonym,,L,TICA,0F730315-220C-4391-B3C0-7A424F53BCF5,,"","","","",gcc-134282
+gcc-119607,A,Compositae,,Amberboa,,"decurrens",,"","DC.",Synonym,,M,TICA,4AC82211-71CC-4609-991B-C58AD73FE491,175985-1,"","","560","1838",gcc-93322
+gcc-126601,A,Compositae,,Amberboa,,"discolor",,"","Lojac.",Unresolved,,L,TICA,929272E6-133A-45D9-A470-D5B057419A4B,175986-1,"","","133","1885",
+gcc-86291,A,Compositae,,Amberboa,,"erucifolia",,"","(L.) DC.",Synonym,,M,TICA,82012FFE-0718-4E86-A9E3-7A98977A670E,175987-1,"","","559","1838",gcc-3830
+gcc-102337,A,Compositae,,Amberboa,,"glauca",,"","(Puschk. ex Willd.) Muss.Puschk. ex Grossh.",Accepted,,M,TICA,A45E37D1-D304-4438-A833-9EE30708FA0E,175990-1,"""Trud. Geobot. Obsl. Pastb. S. S. R. Azerb., Baku""","","105","1931",
+gcc-16997,A,Compositae,,Amberboa,,"glauca",,"","Less.",Synonym,Illegitimate,M,TICA,BB714C5C-9EE7-4FFC-AED0-1F6B49C670B6,175988-1,"Syn. Gen. Compos. 8","","8","",gcc-102337
+gcc-23827,A,Compositae,,Amberboa,,"glauca",,"","(Willd.) Iljin",Synonym,Illegitimate,M,TICA,1EB28D24-41A6-4966-9D70-2C0CA9B6FBAE,175989-1,"""in Bull. Jard. Bot. Acad. Sc. URSS, 1931, xxx. 112 (1932)""","","112","1932",gcc-102337
+gcc-32630,A,Compositae,,Amberboa,,"glauca",subsp.,"biennis","Iljin",Synonym,,L,TICA,8DE38E3A-18D4-4C68-9CB0-3C786FBAC2B3,,"","","113","1932",gcc-102337
+gcc-148038,A,Compositae,,Amberboa,,"glauca",subsp.,"glauca","",Synonym,,L,TICA,33E7488A-BF5B-40A2-8D2E-3A5F04AA44CE,,"","","","",gcc-102337
+gcc-130909,A,Compositae,,Amberboa,,"goniocaulon",,"","DC.",Synonym,,M,TICA,810547A4-8ADF-4DC7-9E35-DFA2C5B926E9,175991-1,"","","558","1838",gcc-29340
+gcc-105662,A,Compositae,,Amberboa,,"hochstetteri",,"","(Oliv. & Hiern) buching. ex Soják",Synonym,,M,TICA,F80302F7-7686-491C-980C-A60FEDEF83C2,175993-1,"","","47","1962",gcc-133256
+gcc-29862,A,Compositae,,Amberboa,,"iljiniana",,"","Grossh.",Synonym,,M,TICA,7F37E311-037C-466B-A339-37384D61B2AC,175994-1,"","","28","1950",gcc-43665
+gcc-79539,A,Compositae,,Amberboa,,"incanescens",,"","Fisch. & C.A.Mey. ex DC.",Synonym,,L,TICA,307B6A2A-417B-4C97-A12D-6BA847C9FAD8,175995-1,"","","561","1838",gcc-103529
+gcc-145979,A,Compositae,,Amberboa,,"indica",,"","(Klein ex Willd.) DC.",Synonym,,M,TICA,3C9FF135-227A-44C9-90ED-0F11AC1689A2,175996-1,"Prodr. (DC.) 6: 558. 1838","","558","1838",gcc-105443
+gcc-84837,A,Compositae,,Amberboa,,"lancifolia",,"","(Sieber ex Spreng.) DC.",Synonym,,M,TICA,A839100E-0345-4D23-839F-775FB017212E,175997-1,"","","661","1838",gcc-33280
+gcc-125497,A,Compositae,,Amberboa,,"leucantha",,"","Coss. ex Batt.",Synonym,,M,TICA,3857B044-70FE-4CFD-AC08-D32D1A73800F,,"","","774","1903",gcc-144245
+gcc-25283,A,Compositae,,Amberboa,,"libyca",,"","(Viv.) Alavi",Synonym,,M,TICA,51758E98-834A-47BD-B0A1-2EAC19E29CF4,941988-1,"","","267","1983",gcc-134282
+gcc-132489,A,Compositae,,Amberboa,,"lippii",,"","(L.) DC.",Synonym,,M,TICA,1E530381-5335-4B93-B32A-E35FD1710609,176001-1,"","","559","1838",gcc-143813
+gcc-145334,A,Compositae,,Amberboa,,"lippii",var.,"lippii","",Synonym,,L,TICA,2BB7C101-FF7D-4949-8072-0211A5ECBE3B,,"","","","",gcc-143813
+gcc-72341,A,Compositae,,Amberboa,,"lippii",subsp.,"lippii","",Synonym,,L,TICA,6D35C486-656D-4753-965D-FD3C03D8D901,,"","","","",gcc-143813
+gcc-49616,A,Compositae,,Amberboa,,"lippii",var.,"medians","Maire",Synonym,,L,TICA,3D6D690B-0BFA-45BB-BCD8-5BF675CFBDC0,,"","","","",gcc-667
+gcc-33256,A,Compositae,,Amberboa,,"lippii",var.,"microcephala","Maire",Synonym,,L,TICA,E7F3BA33-D4A7-4A98-BF67-3DAC2AAB0777,,"","","","",gcc-143813
+gcc-8033,A,Compositae,,Amberboa,,"lippii",var.,"subdiscolor","Lojac.",Synonym,,L,TICA,04A7E19E-9920-4C77-8D1D-0EF51620593F,,"","","","",gcc-140403
+gcc-72410,A,Compositae,,Amberboa,,"lippii",subsp.,"tubuliflora","(Murb.) Murb.",Synonym,,L,TICA,13A9D0AD-3E80-4352-8899-FDCAC119AE37,,"""Murb. in Acta Univ. Lund., ser. 2, sect. 2 19(1). 1923.""","","61","1923",gcc-127193
+gcc-75808,A,Compositae,,Amberboa,,"maroccana",,"","Barratte & Murb.",Synonym,,M,TICA,3A4B740E-3AC8-4290-BB7E-6349DA1E9804,,"","","56","1905",gcc-79829
+gcc-122487,A,Compositae,,Amberboa,,"micractis",,"","Boiss. & Reut.",Synonym,,M,TICA,E4070220-0159-471E-96DC-CC23DA9C5F3B,,"","","62","1856",gcc-80012
+gcc-143691,A,Compositae,,Amberboa,,"moschata",,"","Less.",Unresolved,Invalid,L,TICA,92981238-7F25-4C72-AD3D-FC7875C504E6,176004-1,"Syn. Gen. Compos. 8","","8","",
+gcc-75547,A,Compositae,,Amberboa,,"moschata",,"","(L.) DC.",Accepted,,M,TICA,F3BC201A-932A-4ED1-B756-62AB862C20DA,20008631-1,"","","560","1838",
+gcc-149571,A,Compositae,,Amberboa,,"moschata",subsp.,"moschata","",Synonym,,L,TICA,822AB4B4-FFB2-458A-AE2C-5BDD595047DC,,"","","","",gcc-75547
+gcc-59857,A,Compositae,,Amberboa,,"moschata",subsp.,"sosnovskyi","(Iljin) Takht.",Synonym,,L,TICA,052EDFCA-BB8F-4A90-9A53-99D37B90A408,876404-1,"","","298","1972",gcc-139184
+gcc-39376,A,Compositae,,Amberboa,,"muricata",,"","(L.) DC.",Synonym,,M,TICA,B8354264-098D-47A0-BEBD-4914A4341AE0,176005-1,"","","559","1838",gcc-80012
+gcc-16659,A,Compositae,,Amberboa,,"muricata",subsp.,"micractis","Boiss.",Synonym,,L,TICA,744C5DE6-DE7B-4CB3-9BC1-1EC932B8A8D6,,"","","","",gcc-80012
+gcc-65120,A,Compositae,,Amberboa,,"muricata",var.,"micractis","(Boiss.) Batt.",Synonym,,L,TICA,BD94CE96-F7B5-4ADC-A91F-C40ACE8C3B46,,"","","","",gcc-80012
+gcc-147487,A,Compositae,,Amberboa,,"muricata",subsp.,"muricata","",Synonym,,L,TICA,59B744AD-170C-42A5-A1F2-2EB55C51BEAB,,"","","","",gcc-80012
+gcc-157017,A,Compositae,,Amberboa,,"muricata",var.,"muricata","",Synonym,,L,TICA,75B2A02E-5A32-49E1-8F32-F900D618C155,,"","","","",gcc-80012
+gcc-43665,A,Compositae,,Amberboa,,"nana",,"","(Boiss.) Iljin",Accepted,,M,TICA,BA1DEE24-AEAC-4C15-8916-50EA34C25527,176006-1,"","","113","1932",
+gcc-82910,A,Compositae,,Amberboa,,"odorata",,"","(Cass.) DC.",Accepted,,M,TICA,C0A8D5C3-8D30-4153-8177-731AC90B3E8B,176007-1,"","","559","1838",
+gcc-72243,A,Compositae,,Amberboa,,"odorata",var.,"flava","Trautv.",Synonym,,L,TICA,537C23D3-B7B3-4008-836D-FC81825DD5A5,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 1(2): 275 (1872)","","275","1872",gcc-120475
+gcc-68427,A,Compositae,,Amberboa,,"odorata",var.,"glauca","(Muss.Puschk. ex Willd.) DC.",Synonym,,L,TICA,E453E77B-AA20-40C7-A056-DEC3DC0DAA2F,,"Prodr. 6: 560 (1837)","","560","1837",gcc-75547
+gcc-152296,A,Compositae,,Amberboa,,"odorata",var.,"odorata","",Synonym,,L,TICA,FC909DBA-167E-4D4D-A21E-9688685F2863,,"","","","",gcc-82910
+gcc-112010,A,Compositae,,Amberboa,,"omphalodes",,"","(Benth. & Hook.f.) Batt.",Synonym,,M,TICA,6F664344-EC88-4F37-85E3-B46B06AD1435,176008-1,"Bull. Soc. Bot. France 42","","294","1895",gcc-25337
+gcc-97204,A,Compositae,,Amberboa,,"perralderiana",,"","Coss.",Unresolved,,L,TICA,CEA90C37-41E7-402B-AD23-934FBDF8300A,176009-1,"""Bull. Soc. Bot. France 22: 62, nomen""","","62","1875",
+gcc-37262,A,Compositae,,Amberboa,,"phaeopappa",,"","DC.",Synonym,,M,TICA,0A612D8E-774D-49A5-AC41-4508A189DCB1,176010-1,"","","560","1838",gcc-56829
+gcc-156427,A,Compositae,,Amberboa,,"ramosa",,"","(Roxb.) Jafri",Accepted,,M,TICA,110C9136-5180-4061-860B-ECEE01877727,176011-1,"Scientist (Karachi) 3: 29. 1959","","29","1959",
+gcc-109112,A,Compositae,,Amberboa,,"ramosissima",,"","Pit.",Synonym,,M,TICA,0A306802-9CA0-4997-8823-ADE866F70E36,176012-1,"","","62","1912",gcc-127193
+gcc-38498,A,Compositae,,Amberboa,,"saharae",,"","L.Chevall.",Synonym,,M,TICA,708B6195-7E66-4C48-B015-476DABDFC34C,,"","","442","",gcc-10382
+gcc-80401,A,Compositae,,Amberboa,,"saltii",,"","(Philipson) Soják",Synonym,,M,TICA,A1F8A9CE-A180-4273-BA13-6D86CAC8D1ED,176014-1,"","","47","1962",gcc-133256
+gcc-125777,A,Compositae,,Amberboa,,"sinaica",,"","DC.",Synonym,,M,TICA,EB6531CB-7F9E-4A36-A2C3-D3CF9F2D111A,176015-1,"","","559","1838",gcc-144245
+gcc-132697,A,Compositae,,Amberboa,,"somalensis",,"","(Oliv. & Hiern) Soják",Synonym,,M,TICA,3FBFC660-7D12-4B80-81C1-E3D6219189EB,176016-1,"","","47","1962",gcc-133256
+gcc-139184,A,Compositae,,Amberboa,,"sosnovskyi",,"","Iljin",Accepted,,M,TICA,37B18208-5773-4014-97DE-F22D1761101B,176017-1,"","","114","1932",
+gcc-139614,A,Compositae,,Amberboa,,"spectabilis",,"","DC.",Synonym,,M,TICA,EE94273C-DF72-47BE-9C17-F318C8EFEB62,176018-1,"","","561","1838",gcc-129493
+gcc-107879,A,Compositae,,Amberboa,,"suaveolens",,"","(Willd.) Iljin",Synonym,,M,TICA,3160A13B-F56A-413A-A76D-AB1B3B7118C5,176019-1,"","","107","1932",gcc-122455
+gcc-32853,A,Compositae,,Amberboa,,"subdiscolor",,"","(Lojac.) Pamp.",Synonym,,M,TICA,7F13D043-DB2E-4BFB-A6BD-3CEDB4FE7B91,176020-1,"","","19","1914",gcc-127193
+gcc-27872,A,Compositae,,Amberboa,,"tubuliflora",,"","Murb.",Synonym,,M,TICA,5E2920FC-4B5A-4E62-B383-338154DCD819,176021-1,"","","105","1897",gcc-127193
+gcc-120475,A,Compositae,,Amberboa,,"turanica",,"","Iljin",Accepted,,M,TICA,2FBAB934-528E-41C4-BA01-C7A06CC21F56,176022-1,"","","110","1932",
+gcc-120978,A,Compositae,,Amberboa,,"wallichiana",,"","(Less.) DC.",Synonym,,M,TICA,F5948F1D-0D53-4146-85BE-C8C55981BF38,176023-1,"","","558","1838",gcc-134152
+gcc-130815,A,Compositae,,Amberboa,,"xanthocephala",,"","DC.",Synonym,,M,TICA,85913B6C-F137-4D8D-88E7-DF6BF9EAB85F,176024-1,"","","561","1838",gcc-135070

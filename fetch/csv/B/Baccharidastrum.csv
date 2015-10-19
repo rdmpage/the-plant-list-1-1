@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-45687,A,Compositae,,Baccharidastrum,,"argentum",,"","(Less.) Cabrera",Accepted,,M,TICA,8E226158-03A0-4C68-BBC5-54ADE97F3218,27786-2,"""Notas Mus. La Plata, Bot. 2: 177. 1937""","","177","1937",
+gcc-152000,A,Compositae,,Baccharidastrum,,"argentum",var.,"argentum","",Synonym,,L,TICA,1D03353B-4901-47BE-9426-9035F49938D1,,"","","","",gcc-45687
+gcc-128734,A,Compositae,,Baccharidastrum,,"argutum",,"","(Less.) Cabrera",Synonym,,M,TICA,F3462407-4222-4759-A976-DAB4A534FE8C,183063-1,"","","177","1937",gcc-144975
+gcc-150756,A,Compositae,,Baccharidastrum,,"argutum",var.,"argutum","",Synonym,,L,TICA,5395EC9C-8C2F-40B7-9A12-75995D469B8A,,"","","","",gcc-144975
+gcc-62088,A,Compositae,,Baccharidastrum,,"argutum",var.,"colombianum","Cuatrec.",Synonym,,L,TICA,A5A7E430-227B-480D-AC29-ABDE1E2C5750,273016-2,"Webbia 24","","232","1969",gcc-144975
+gcc-75453,A,Compositae,,Baccharidastrum,,"myriocephala",,"","Baker",Unresolved,Illegitimate,L,TICA,C9A89730-0B07-4FC7-91DF-6276CFBC83EE,,"Fl. Bras. 6(3): 93 (1882)","","93","1882",
+gcc-86530,A,Compositae,,Baccharidastrum,,"notobellidastrum",,"","Griseb.",Unresolved,,L,TICA,970DD5B4-68CE-4229-A4CB-7B1EDBD1018B,1035586-2,"","","","",
+gcc-48212,A,Compositae,,Baccharidastrum,,"notobellidiastrum",,"","(Griseb.) Herter",Synonym,,M,TICA,8FA3AA64-E375-4F92-9EE2-595CA7A9C9DF,183064-1,"","","104","1939",gcc-81425
+gcc-95621,A,Compositae,,Baccharidastrum,,"rivulare",,"","(Gardner) Herter",Synonym,,M,TICA,FF99F7E8-2EB2-44E1-BE24-8FC460AF2D6A,183065-1,"","","104","1939",gcc-15219
+gcc-44712,A,Compositae,,Baccharidastrum,,"triplinervium",,"","(Less.) Cabrera",Synonym,,M,TICA,FA9E5DA4-DDA3-446A-B003-52D3D69AFC73,27787-2,"""Notas Mus. La Plata, Bot. 2""","","177","1937",gcc-19317

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-146930,A,Lamiaceae,,Panzerina,,"canescens",,"","(Bunge) Soják",Accepted,,H,WCSP,146930,911022-1,"Cas. Nár. Mus., Odd. Prír.","150: 216","","1981 publ. 1982",
+tro-50193268,A,Lamiaceae,,Panzerina,,"kansuensis",,"","C.Y. Wu & H.W. Li",Unresolved,,L,TRO,50193268,,"","","","",
+kew-146931,A,Lamiaceae,,Panzerina,,"lanata",,"","(L.) Soják",Accepted,,H,WCSP,146931,911023-1,"Cas. Nár. Mus., Odd. Prír.","150: 216","","1981 publ. 1982",
+kew-146932,A,Lamiaceae,,Panzerina,,"lanata",f.,"alaschanica","(Kuprian.) Krestovsk.",Synonym,,L,WCSP,146932,977762-1,"Bot. Zhurn. (Moscow & Leningrad)","79(3): 115","","1994",kew-146931
+kew-146933,A,Lamiaceae,,Panzerina,,"lanata",var.,"alaschanica","(Kuprian.) H.W.Li",Synonym,,L,WCSP,146933,973290-1,"Novon","3: 264","","1993",kew-146931
+kew-146934,A,Lamiaceae,,Panzerina,,"lanata",var.,"albescens","(Kuprian.) H.W.Li",Synonym,,L,WCSP,146934,973291-1,"Novon","3: 264","","1993",kew-146931
+kew-146935,A,Lamiaceae,,Panzerina,,"lanata",subsp.,"argyracea","(Kuprian.) Krestovsk.",Synonym,,L,WCSP,146935,1017981-1,"in Fl. Sibir.","11: 196","","1997",kew-146931
+kew-146936,A,Lamiaceae,,Panzerina,,"lanata",var.,"argyracea","(Kuprian.) H.W.Li",Synonym,,L,WCSP,146936,973292-1,"Novon","3: 264","","1993",kew-146931
+kew-146937,A,Lamiaceae,,Panzerina,,"lanata",f.,"kansuensis","(C.Y.Wu & H.W.Li) Krestovsk.",Synonym,,L,WCSP,146937,977763-1,"Bot. Zhurn. (Moscow & Leningrad)","79(3): 115","","1994",kew-146931
+tro-17606388,A,Lamiaceae,,Panzerina,,"lanata",var.,"lanata","",Synonym,,L,TRO,17606388,,"","","","",kew-146931
+kew-146938,A,Lamiaceae,,Panzerina,,"lanata",var.,"parviflora","(C.Y.Wu & H.W.Li) H.W.Li",Synonym,,L,WCSP,146938,973293-1,"Novon","3: 264","","1993",kew-146931
+tro-50131178,A,Lamiaceae,,Panzerina,,"parviflora",,"","(C.Y. Wu & H.W. Li) Y.Z. Zhao",Synonym,,M,TRO,50131178,1003294-1,"Acta Phytotax. Sin.","36(3): 204–205","204","1998",kew-146931

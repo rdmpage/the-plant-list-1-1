@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50199065,A,Compositae,,Mauranthemum,,"decepiens",,"","(Pomel) Vogt & Oberprieler",Accepted,,M,TRO,50199065,,"Taxon","44(3): 377","377","1995",
+gcc-33979,A,Compositae,,Mauranthemum,,"decipiens",,"","(Pomel) Vogt & Oberpr.",Accepted,,M,TICA,30E01813-DFE7-4E9C-8E7B-3F090702BBFC,,"","","377","1995",
+gcc-125232,A,Compositae,,Mauranthemum,,"gaetulum",,"","(Batt.) Vogt & Oberpr.",Accepted,,M,TICA,4314CDE9-271A-442D-8FAE-D2934060F8D6,,"","","377","1995",
+gcc-36886,A,Compositae,,Mauranthemum,,"geslinii",,"","(Coss.) Benth. & Hook.f.",Synonym,,M,TICA,327EF528-FF0E-46FE-9086-445A95A129CE,,"","","","",gcc-133129
+gcc-100825,A,Compositae,,Mauranthemum,,"paludosum",,"","(Poir.) Vogt & Oberpr.",Accepted,,M,TICA,598DF248-A95F-4595-BAA1-9B843438E4D0,,"Taxon 44(3):","","377","1995",
+gcc-26184,A,Compositae,,Mauranthemum,,"paludosum",subsp.,"ebusitanum","(Vogt) Vogt & Oberpr.",Accepted,,L,TICA,BEB5CD31-4B5D-45B7-8368-306C505FD3DA,,"","","377","1995",
+gcc-60190,A,Compositae,,Mauranthemum,,"paludosum",subsp.,"paludosum","",Synonym,,L,TICA,998C5274-66A0-401A-867A-9C4AEAC85395,,"","","","",gcc-100825
+gcc-138359,A,Compositae,,Mauranthemum,,"reboudianum",,"","(Pomel) Vogt & Oberpr.",Accepted,,M,TICA,D80C7529-88E8-43AF-A5E4-F067C1484A45,,"","","377","1995",

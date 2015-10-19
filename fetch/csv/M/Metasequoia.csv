@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-31300026,G,Cupressaceae,,Metasequoia,,"disticha",,"","(Heer) Miki",Accepted,,M,TRO,31300026,,"Jap. J. Bot.","11: 261","261","1941",
+kew-2508478,G,Cupressaceae,,Metasequoia,,"glyptostroboides",,"","Hu & W.C.Cheng",Accepted,,H,WCSP,379270,828387-1,"Bull. Fan Mem. Inst. Biol.","n.s., 1: 154","","1948",
+kew-2508489,G,Cupressaceae,,Metasequoia,,"glyptostroboides",var.,"caespitosa","Y.H.Long & Y.Wu",Synonym,,L,WCSP,379272,918530-1,"Bull. Bot. Res., Harbin","4(1): 149","","1984",kew-2508478
+kew-467552,G,Cupressaceae,,Metasequoia,,"glyptostroboides",subsp.,"caespitosa","(Y.H.Long & Y.Wu) Silba",Synonym,,L,WCSP,467552,77109828-1,"J. Int. Conifer Preserv. Soc.","17: 25","","2010",kew-2508478
+kew-467526,G,Cupressaceae,,Metasequoia,,"glyptostroboides",subsp.,"neopangaea","(Silba) Silba",Synonym,,L,WCSP,467526,77109829-1,"J. Int. Conifer Preserv. Soc.","17: 25","","2010",kew-2508478
+kew-2508476,G,Cupressaceae,,Metasequoia,,"honshuenensis",,"","Silba & Callahan",Synonym,,H,WCSP,379269,1012940-1,"J. Int. Conifer Preserv. Soc.","7: 2","","2000",kew-2508478
+kew-2508475,G,Cupressaceae,,Metasequoia,,"neopangaea",,"","Silba",Synonym,,H,WCSP,379268,20003995-1,"J. Int. Conifer Preserv. Soc.","9: 9","","2002",kew-2508478

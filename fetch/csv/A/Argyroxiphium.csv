@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-2704511,A,Compositae,,Argyroxiphium,,"caligini",,"","Forbes,C.",Unresolved,,L,TRO,2704511,,"","","","",
+gcc-93242,A,Compositae,,Argyroxiphium,,"caliginis",,"","C.N.Forbes",Accepted,,M,TICA,6B99BE94-95CD-4813-8080-8A4F2193F70B,178833-1,"","","38","1920",
+gcc-145667,A,Compositae,,Argyroxiphium,,"caliginis",var.,"caliginis","",Synonym,,L,TICA,8AF010C1-B9DD-4D63-905D-0877CA1C9669,,"","","","",gcc-93242
+gcc-90336,A,Compositae,,Argyroxiphium,,"forbesii",,"","H.St.John",Synonym,,M,TICA,4844D2F0-393F-42E0-A495-83BADF78D3E0,178834-1,"","","68","1971",gcc-14157
+gcc-132720,A,Compositae,,Argyroxiphium,,"grayanum",,"","(Hillebr.) O.Deg.",Accepted,,M,TICA,180A8E1C-0C07-4C4A-A12D-E3E252E1F2B4,,"","","","1936",
+gcc-104228,A,Compositae,,Argyroxiphium,,"gymnoxiphium",,"","(A.Gray) D.D.Keck",Unresolved,,L,TICA,FD53218E-422A-4A94-8CA9-A30B1A8716BC,178836-1,"","","23","1936",gcc-91346
+gcc-138494,A,Compositae,,Argyroxiphium,×,"kai",,"","D.D.Keck",Accepted,,M,TICA,299FAC33-790F-45C7-B410-F0B489FA8079,178837-1,"""Occas. Pap. Bernice Pauahi Bishop Mus. xi. No. 19, p. 21 (1936)""","","21","1936",
+gcc-18952,A,Compositae,,Argyroxiphium,,"kai",,"","(C.N.Forbes) D.D.Keck",Unresolved,,L,TICA,051EA658-8765-422C-9773-22FB9618B135,178838-1,"""in Degener, Fl. Hawaiiensis Fam. 344 (1957), in obs.""","","344","",
+gcc-6905,A,Compositae,,Argyroxiphium,,"kai",,"","(C.N.Forbes) Keck",Unresolved,,L,TICA,3C70F35B-DA3C-41B3-86A6-0CD443A8D984,,"Occas. Pap. Bernice Pauahi Bishop Mus. 11(19): 21 (1936)","","21","1936",
+gcc-37928,A,Compositae,,Argyroxiphium,,"kauense",,"","(Rock & Neal) O.Deg. & I.Deg.",Accepted,,M,TICA,F94BA79B-ED9B-4CA3-8C56-465833F0AAC4,,"","","","1957",
+gcc-75514,A,Compositae,,Argyroxiphium,,"macrocephalum",,"","A.Gray",Synonym,,L,TICA,5B9198B2-DC30-47F5-B975-629BC2EB03A9,178840-1,"","","160","1852",gcc-62588
+gcc-40313,A,Compositae,,Argyroxiphium,,"sandwicense",,"","DC.",Accepted,,M,TICA,99B112F0-A487-4BD2-B016-4ABBBC9E1DD2,178841-1,"","","668","1836",
+gcc-11808,A,Compositae,,Argyroxiphium,,"sandwicense",var.,"macrocephalum","(A.Gray) Hillebr.",Unresolved,,L,TICA,0D8B0CD7-DA8B-4EAC-9E38-15FCD4377971,,"Fl. Hawaiian Isl.: 219 (1888)","","219","1888",gcc-62588
+gcc-62588,A,Compositae,,Argyroxiphium,,"sandwicense",subsp.,"macrocephalum","(A.Gray) Meyrat",Accepted,,L,TICA,CF256D9F-2368-4A47-9850-B00EF815C915,922969-1,"","","224","1984",
+gcc-150411,A,Compositae,,Argyroxiphium,,"sandwicense",var.,"sandwicense","",Synonym,,L,TICA,EEE55918-14E7-4127-AC14-6DDF4B875E92,,"","","","",gcc-40313
+gcc-57496,A,Compositae,,Argyroxiphium,,"sandwicense",subsp.,"sandwicense","",Synonym,,L,TICA,EB7D076B-8FFB-4660-A5E4-86C40E253B9A,,"","","","",gcc-40313
+gcc-14157,A,Compositae,,Argyroxiphium,,"virescens",,"","Hillebr.",Accepted,,M,TICA,5AF9CB21-8D81-4575-9E26-1A3F267AEDFF,178842-1,"","","","1888",
+gcc-147124,A,Compositae,,Argyroxiphium,,"virescens",var.,"virescens","",Synonym,,L,TICA,32700FDE-AF74-4BC0-898D-270274099C1D,,"","","","",gcc-14157

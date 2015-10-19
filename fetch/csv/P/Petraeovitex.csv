@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-150838,A,Lamiaceae,,Petraeovitex,,"bambusetorum",,"","King & Gamble",Accepted,,H,WCSP,150838,864008-1,"Bull. Misc. Inform. Kew","1908: 113","","1908",
+kew-150839,A,Lamiaceae,,Petraeovitex,,"bambusetorum",f.,"simplicifolia","Munir",Synonym,,L,WCSP,150839,,"Gard. Bull. Singapore","21: 233","","1965",kew-150838
+kew-150840,A,Lamiaceae,,Petraeovitex,,"elmeri",,"","Merr.",Synonym,,H,WCSP,150840,864009-1,"Univ. Calif. Publ. Bot.","15: 267","","1929",kew-150851
+kew-150841,A,Lamiaceae,,Petraeovitex,,"kinabaluensis",,"","Munir",Accepted,,H,WCSP,150841,864010-1,"Gard. Bull. Singapore","21: 234","","1965",
+kew-150842,A,Lamiaceae,,Petraeovitex,,"kinabaluensis",var.,"agrestis","Munir",Synonym,,L,WCSP,150842,,"Gard. Bull. Singapore","21: 235","","1965",kew-150841
+kew-150843,A,Lamiaceae,,Petraeovitex,,"membranacea",,"","Merr.",Accepted,,H,WCSP,150843,864011-1,"J. Malayan Branch Roy. Asiat. Soc.","1: 30","","1923",
+kew-150844,A,Lamiaceae,,Petraeovitex,,"membranacea",var.,"malesiana","Munir",Synonym,,L,WCSP,150844,,"Gard. Bull. Singapore","21: 231","","1965",kew-150843
+kew-150845,A,Lamiaceae,,Petraeovitex,,"multiflora",,"","(Sm.) Merr.",Accepted,,H,WCSP,150845,864012-1,"Interpr. Herb. Amboin.","453","","1917",
+kew-150846,A,Lamiaceae,,Petraeovitex,,"multiflora",var.,"pubescens","(Warb.) Munir",Synonym,,L,WCSP,150846,,"Gard. Bull. Singapore","21: 242","","1965",kew-150845
+kew-150847,A,Lamiaceae,,Petraeovitex,,"pubescens",,"","Warb.",Synonym,,H,WCSP,150847,864013-1,"Bot. Jahrb. Syst.","13: 427","","1891",kew-150845
+kew-150848,A,Lamiaceae,,Petraeovitex,,"riedelii",,"","Oliv.",Synonym,,H,WCSP,150848,864014-1,"Hooker's Icon. Pl.","15: 16","","1883",kew-150845
+kew-150849,A,Lamiaceae,,Petraeovitex,,"riedelii",,"","F.Muell.",Synonym,Illegitimate,H,WCSP,150849,864015-1,"Bot. Centralbl.","50: 195","","1892",kew-150845
+kew-150850,A,Lamiaceae,,Petraeovitex,,"scortechinii",,"","King & Gamble",Accepted,,H,WCSP,150850,864016-1,"Bull. Misc. Inform. Kew","1908: 113","","1908",
+kew-150851,A,Lamiaceae,,Petraeovitex,,"sumatrana",,"","H.J.Lam",Accepted,,H,WCSP,150851,864017-1,"Bull. Jard. Bot. Buitenzorg","III, 3: 98","","1921",
+kew-150852,A,Lamiaceae,,Petraeovitex,,"ternata",,"","Hallier f.",Synonym,,H,WCSP,150852,864018-1,"Meded. Rijks-Herb.","37: 85","","1918",kew-150853
+kew-340916,A,Lamiaceae,,Petraeovitex,,"ternata",var.,"glabrior","H.J.Lam",Synonym,,L,WCSP,340916,,"Bull. Jard. Bot. Buitenzorg","III, 3: 98","","1921",kew-150853
+kew-150853,A,Lamiaceae,,Petraeovitex,,"trifoliata",,"","Merr.",Accepted,,H,WCSP,150853,864019-1,"Philipp. J. Sci., C","2: 425","","1907",
+kew-150854,A,Lamiaceae,,Petraeovitex,,"wolfei",,"","J.Sinclair",Accepted,,H,WCSP,150854,864020-1,"Gard. Bull. Singapore","15: 18","","1956",

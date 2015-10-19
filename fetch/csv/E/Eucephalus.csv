@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87402,A,Compositae,,Eucephalus,,"albus",,"","(Nutt.) Nutt.",Synonym,,L,TICA,78E34C96-102F-4647-B4F1-7D368ED73444,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","299","1840",gcc-33632
+gcc-14456,A,Compositae,,Eucephalus,,"bicolor",,"","Eastw.",Synonym,,M,TICA,9BECBFFC-A8BA-482B-99C5-1AD63E2EE7AD,,"""Proc. Calif. Acad. Sci. ser. 4, 20""","","157","1931",gcc-37046
+gcc-133977,A,Compositae,,Eucephalus,,"breweri",,"","(A.Gray) G.L.Nesom",Accepted,,M,TICA,A5ECEE1D-AF61-4F8A-96A5-E6C3CDB12D12,981707-1,"Phytologia 77","","254","1995",
+gcc-91639,A,Compositae,,Eucephalus,,"brickellioides",,"","(Greene) G.L.Nesom",Synonym,,M,TICA,245DDF80-9BA5-4185-8705-86CDE7881513,981708-1,"Phytologia 77","","254","1995",gcc-37046
+gcc-115576,A,Compositae,,Eucephalus,,"covillei",,"","Greene",Synonym,,M,TICA,506253C7-02EA-4B20-9D6B-BC7DCE357BC3,97872-2,"Pittonia 3","","162","1897",gcc-69363
+gcc-117127,A,Compositae,,Eucephalus,,"elegans",,"","Nutt.",Accepted,,M,TICA,B2CB456C-681F-42BD-A673-BFF4A12AF15A,,"","","298","1840",
+gcc-142891,A,Compositae,,Eucephalus,,"engelmannii",,"","(D.C.Eaton) Greene",Accepted,,M,TICA,B090DFEE-31FF-4E3A-9781-FAAEBEC3EE11,205275-1,"Pittonia 3","","54","1896",
+gcc-31930,A,Compositae,,Eucephalus,,"ericoides",,"","(L.) Nutt.",Synonym,,M,TICA,D2B19A88-5D1D-47C0-B05F-3B253420BF43,,"","","299","1840",gcc-21986
+gcc-40219,A,Compositae,,Eucephalus,,"formosus",,"","Greene",Synonym,,M,TICA,DA402977-7FC9-4C34-9092-4A94FF0127C2,97874-2,"Pittonia 4","","156","1900",gcc-122093
+gcc-1833,A,Compositae,,Eucephalus,,"frigidus",,"","Gand.",Synonym,,M,TICA,C8AB2BFF-D825-4D0F-B568-034CFACD0492,97875-2,"Bull. Soc. Bot. France 65","","40","1918",gcc-117127
+gcc-23224,A,Compositae,,Eucephalus,,"glabratus",,"","(Greene) Greene",Accepted,,M,TICA,3CA2814A-E6EC-4A8F-86A8-2AFEF80C9F84,97876-2,"Pittonia 3","","56","1896",
+gcc-48407,A,Compositae,,Eucephalus,,"glandulosus",,"","Eastw.",Synonym,,M,TICA,EFB4FCCD-9C0E-4967-9334-59AF72ACE695,,"""Proc. Calif. Acad. Sci. ser. 4, 20""","","157","1931",gcc-23224
+gcc-36452,A,Compositae,,Eucephalus,,"glaucescens",,"","(A.Gray) Greene",Accepted,,M,TICA,94B05C92-84A1-4AD3-9FF5-4399A8912F65,97878-2,"Pittonia 3","","56","1896",
+gcc-24216,A,Compositae,,Eucephalus,,"glaucophyllus",,"","Piper",Synonym,,M,TICA,D1047BEB-450E-4D10-B941-2CB8B5B46D9D,97879-2,"Contr. U. S. Natl. Herb. 11","","570","1906",gcc-36452
+gcc-15221,A,Compositae,,Eucephalus,,"glaucus",,"","Nutt.",Synonym,,M,TICA,1446EF56-FDC6-4143-BECF-1C2E66CF7B2B,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 299""","","299","1840",gcc-122093
+gcc-78649,A,Compositae,,Eucephalus,,"gormanii",,"","Piper",Accepted,,M,TICA,8D68FE5F-D0B5-4A5A-A47B-699C1C763793,97881-2,"Proc. Biol. Soc. Wash. 29","","101","1916",
+gcc-136232,A,Compositae,,Eucephalus,,"ledophyllus",,"","(A.Gray) Greene",Accepted,,M,TICA,F904980D-7F6D-453C-9535-EBBE0162EDF6,205285-1,"Pittonia 3","","55","1896",
+gcc-69363,A,Compositae,,Eucephalus,,"ledophyllus",var.,"covillei","(Greene) G.L.Nesom",Accepted,,L,TICA,E8CE040C-E9B2-4CD5-841F-E5B8FAA258BC,981709-1,"Phytologia 77","","255","1995",
+gcc-61060,A,Compositae,,Eucephalus,,"ledophyllus",var.,"ledophyllus","",Synonym,,L,TICA,9D8936B3-B40E-45D4-B2CF-A390F745B1B7,,"","","","",gcc-136232
+gcc-38311,A,Compositae,,Eucephalus,,"macounii",,"","Greene",Synonym,,M,TICA,BC57B795-6C33-4F58-B4B5-470FE9A85D41,97883-2,"Pittonia 4","","70","1899",gcc-36452
+gcc-110883,A,Compositae,,Eucephalus,,"nemoralis",,"","(dryand ex Aiton) Greene",Synonym,,M,TICA,52B4415F-6380-4D2A-A9C2-B1E5FC200DB2,97884-2,"Pittonia 3","","57","1896",gcc-29598
+gcc-22721,A,Compositae,,Eucephalus,,"nemoralis",,"","Sol. ex Aiton",Unresolved,,L,TICA,5CB03939-054B-4F3F-AC76-2A0ACC27E395,1094933-2,"Pittonia 3: 57. 1896","","57","1896",
+gcc-1376,A,Compositae,,Eucephalus,,"paucicapitatus",,"","(B.L.Rob.) Greene",Accepted,,M,TICA,DB99BD2A-BA71-44B5-898C-02785AA0741A,97885-2,"Pittonia 3","","56","1896",
+gcc-130968,A,Compositae,,Eucephalus,,"perelegans",,"","(A.Nelson & J.F.Macbr.) W.A.Weber",Synonym,,M,TICA,CF312630-7EAA-4EF4-BFD0-DFC9792D0D30,97886-2,"Phytologia 51","","374","1982",gcc-117127
+gcc-33951,A,Compositae,,Eucephalus,,"scaber",,"","Gand.",Synonym,,M,TICA,824E75F0-5E93-49CA-83B5-3EF70FD30D52,97887-2,"Bull. Soc. Bot. France 65","","40","1918",gcc-117127
+gcc-125427,A,Compositae,,Eucephalus,,"serrulatus",,"","Greene",Synonym,,M,TICA,855B9DEF-CEC4-4188-B4B2-D307651248C1,97888-2,"Pittonia 3","","55","1896",gcc-36452
+gcc-37046,A,Compositae,,Eucephalus,,"tomentellus",,"","(Greene) Greene",Accepted,,M,TICA,B58A28FA-4778-44C4-974D-44A6D0E1B00C,97889-2,"Pittonia 3","","55","1896",
+gcc-47136,A,Compositae,,Eucephalus,,"vialis",,"","Bradshaw",Accepted,,M,TICA,198184E8-2B15-40FB-B250-5754E959C41B,97890-2,"Torreya 20","","122","1921",
+gcc-123959,A,Compositae,,Eucephalus,,"wasatchensis",,"","Hanst.",Unresolved,,L,TICA,45A91875-14AC-44BB-B9B4-CF9B29319FB9,1009196-2,"","","","",
+gcc-124936,A,Compositae,,Eucephalus,,"wasatchensis",,"","(Benth. ex Hook.f.) H.Rob.",Unresolved,,L,TICA,DFDD8057-F69E-4142-9199-D1DFCDDC8BF8,1010427-2,"","","","",
+gcc-77835,A,Compositae,,Eucephalus,,"wasatchensis",,"","(M.E.Jones) Rydb.",Synonym,,M,TICA,207307C5-7E1A-4459-B197-67C013BF3E07,97891-2,"Fl. Rocky Mts.","","878","1917",gcc-126894
+gcc-90027,A,Compositae,,Eucephalus,,"wasatchensis",,"","(Urb.) Borhidi & M.Fernández",Unresolved,,L,TICA,6AB7543E-0C18-4030-AA37-830D145612BB,1125633-2,"","","","",

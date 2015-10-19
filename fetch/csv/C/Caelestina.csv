@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-133768,A,Compositae,,Caelestina,,"ageratoides",,"","(Kunth) Kunth",Synonym,Illegitimate,M,TICA,11778211-7D83-4F81-8BFD-E642B3678EC3,,"Nova Genera et Species Plantarum (folio ed.) 4:","","118","1820 [1818]",gcc-155329
+gcc-56828,A,Compositae,,Caelestina,,"ageratoides",var.,"latifolia","DC.",Synonym,,L,TICA,1B3205B8-69A2-464B-89E8-817FC4F30391,,"Prodr. 5: 108. 1836.","","108","1836",gcc-155329
+gcc-135572,A,Compositae,,Caelestina,,"albida",,"","DC.",Synonym,Illegitimate,M,TICA,5567C945-514E-4A8A-ADBC-EA4CA887AF1F,187409-1,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","107","1836",gcc-146431
+gcc-101273,A,Compositae,,Caelestina,,"caerulea",,"","Cass.",Synonym,Illegitimate,M,TICA,08A2BE97-322E-4423-BD89-9C6E443C5812,325509-2,"","","8","1817",gcc-155329
+gcc-143565,A,Compositae,,Caelestina,,"cordata",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,CE4911B2-4B33-4FB1-BD45-FC339E3CC19E,,"","","345","1876",gcc-41947
+gcc-136127,A,Compositae,,Caelestina,,"corymbosa",,"","Benth.",Unresolved,,L,TICA,343CC3DF-87A0-4362-AB75-EB7F779C0C99,187413-1,"Bot. Voy. Sulphur 111","","111","",
+gcc-78611,A,Compositae,,Caelestina,,"corymbosa",,"","(Zuccagni) DC.",Synonym,Illegitimate,M,TICA,9AD9A9F6-54BD-41C7-8038-698722E2E62F,187412-1,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","108","1836",gcc-155329
+gcc-26103,A,Compositae,,Caelestina,,"hartwegii",,"","(Benth.) Walp.",Synonym,,M,TICA,D720A2DF-DBAD-4DD9-AE7F-304350728598,,"","","545","1843",gcc-16055
+gcc-31108,A,Compositae,,Caelestina,,"hastata",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,05AA162F-3079-4DB2-96AB-39981C9FFD17,,"","","363","1876",gcc-146573
+gcc-134114,A,Compositae,,Caelestina,,"isocarphoides",,"","DC.",Synonym,Illegitimate,M,TICA,9791EB03-F6EC-47C9-8508-E70DD3AB1F2F,187416-1,"Prodr. 5: 107. 1836.","","107","1836",gcc-144251
+gcc-7872,A,Compositae,,Caelestina,,"isocarphoides",var.,"dentata","DC.",Synonym,,L,TICA,59889A04-3C6E-4A8E-AC6D-0EAA6CA8A95A,,"","","107","1836",gcc-144251
+gcc-59182,A,Compositae,,Caelestina,,"isocarphoides",var.,"isocarphoides","",Synonym,,L,TICA,92247D54-A774-4110-9E9A-94766B65BA9D,,"","","","",gcc-144251
+gcc-122433,A,Compositae,,Caelestina,,"latifolia",,"","(Cav.) Benth. ex Oerst.",Synonym,,M,TICA,F6F28E10-F322-4115-B27C-CC0053704795,,"","","71","1852",gcc-114457
+gcc-148863,A,Compositae,,Caelestina,,"latifolia",,"","Benth. ex Oersted",Synonym,,M,TICA,BA7FE777-EB3E-4ED7-BC80-4C6CD7BE630B,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 71. 1852. ","","71","1852",gcc-49657
+gcc-29389,A,Compositae,,Caelestina,,"latifolia",,"","Benth.",Synonym,Illegitimate,M,TICA,C07A1F19-5FE6-41C1-B14D-3650AFA1ED26,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 71-72. 1853.","","71-72","1853",gcc-92308
+gcc-19678,A,Compositae,,Caelestina,,"lessingiana",,"","Klotzsch ex Walp.",Synonym,Illegitimate,M,TICA,D693B554-E93D-49CA-B095-2462BB1C94B8,,"Repertorium Botanices Systematicae. 2:","","545","1843",gcc-155329
+gcc-91984,A,Compositae,,Caelestina,,"linearifolia",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,81C978F0-ABCE-4410-8714-8799F9B7CB2A,,"","","191","1876",gcc-122637
+gcc-106459,A,Compositae,,Caelestina,,"longifolia",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,DBF7595C-1DD6-40F1-8B9E-A7D96E875F46,,"","","361","1876",gcc-17308
+gcc-79806,A,Compositae,,Caelestina,,"maritima",,"","(Kunth) Torr. & A.Gray",Synonym,Illegitimate,L,TICA,B0AEC40E-AAD5-451C-9379-6C39A0CE3685,187421-1,"A Flora of North America: containing . . . 2:","","64","1841",gcc-6342
+gcc-23202,A,Compositae,,Caelestina,,"micrantha",,"","(Lag.) Spreng.",Synonym,,M,TICA,BECAFF38-2B92-42B4-AC8E-2AF553AE3E56,187422-1,"","","446","1826",gcc-155329
+gcc-106219,A,Compositae,,Caelestina,,"microcarpa",,"","Benth. ex Benth.",Synonym,Illegitimate,M,TICA,B3C9179D-60B0-4C7C-89FD-A74856945A8E,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 72. 1853.","","72","1853",gcc-114457
+gcc-127911,A,Compositae,,Caelestina,,"microcarpa",,"","Benth. ex Oerst.",Synonym,,M,TICA,AD8592B8-C3AD-4DF9-A349-D8CF922E54DF,,"","","72","1852",gcc-114457
+gcc-157193,A,Compositae,,Caelestina,,"microcarpa",,"","Benth. ex Oersted",Synonym,,M,TICA,0DCC3D96-8677-456D-8CFC-FCE1DC91DA33,,"Vidensk. MeddeL Dansk Naturhist. Foren. Kjobenhavn 72. 1852. ","","72","1852",gcc-151487
+gcc-1026,A,Compositae,,Caelestina,,"paleacea",,"","Gay ex DC.",Synonym,Illegitimate,L,TICA,A063A5EB-14F0-4346-AFE5-01E020F1AE01,187424-1,"Prodr. 5: 107. 1836.","","107","1836",gcc-157124
+gcc-95678,A,Compositae,,Caelestina,,"paleaceum",,"","Gay",Unresolved,,L,TICA,9718E6BF-2F6C-4EC7-99EA-8FE89A0F6CCA,,"","","","",
+gcc-84673,A,Compositae,,Caelestina,,"parvifolia",,"","DC.",Unresolved,,L,TICA,573ECB36-2F2E-4A4D-BBFD-7706C03E2CCA,187425-1,"","","108","1836",
+gcc-126734,A,Compositae,,Caelestina,,"petiolata",,"","Hook. & Arn.",Synonym,,M,TICA,D546866E-26D2-4C9F-951A-D5F85A4A1AEA,187426-1,"","","433","1841",gcc-102685
+gcc-126610,A,Compositae,,Caelestina,,"pohlii",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,A363BFAD-3751-4FD7-936C-D5B5A14B960B,,"","","190","1876",gcc-112876
+gcc-88345,A,Compositae,,Caelestina,,"repanda",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,087B3B53-D2A4-4D64-B083-7F3AF7260510,,"","","309","1876",gcc-21023
+gcc-109522,A,Compositae,,Caelestina,,"repens",,"","Sch.Bip. ex Schomb.",Unresolved,Illegitimate,L,TICA,A91B7414-0935-4DA8-A997-AEDC55033020,,"Faun. Fl. Brit.-Guian. 1134. 1849.","","1134","1849",
+gcc-85034,A,Compositae,,Caelestina,,"repens",,"","Sch.Bip.",Unresolved,,L,TICA,360D8261-E360-41D8-8463-77C76B4141D0,,"","","","1849",
+gcc-103833,A,Compositae,,Caelestina,,"scabriuscula",,"","Benth.",Synonym,Illegitimate,M,TICA,358FFC84-64C0-4C7F-BCA9-A2206B9C4B75,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 72-73. 1853.","","72-73","1853",gcc-102685
+gcc-145728,A,Compositae,,Caelestina,,"scabriuscula",,"","Benth. ex Oersted",Synonym,,M,TICA,7BD52CF9-5754-4405-A83D-09947A0499FF,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 72. 1852. ","","72","1852",gcc-102685
+gcc-43923,A,Compositae,,Caelestina,,"scabriuscula",,"","Benth. ex Oerst.",Synonym,,M,TICA,C875BC76-45A7-4A51-B176-515FEF178BB5,,"","","72","1852",gcc-102685
+gcc-154423,A,Compositae,,Caelestina,,"sclerophylla",,"","Wooton & Standl.",Synonym,,M,TICA,8252B8BB-49B5-431C-B852-C336DDA50248,,"Contr. U.S. Natl. Herb. 16: 176. 1913. ","","176","1913",gcc-155329
+gcc-140962,A,Compositae,,Caelestina,,"suffruticosa",,"","Sweet",Synonym,Illegitimate,M,TICA,8D08DF37-6593-4603-9B86-F64BCEE0479A,187431-1,"Hortus Britannicus","","229","1826",gcc-114457
+gcc-49772,A,Compositae,,Caelestina,,"superbiens",,"","Huber",Unresolved,,L,TICA,F9D06B78-21D0-48B5-8F91-5C41ADD6CC20,,"","","","1880",
+gcc-117757,A,Compositae,,Caelestina,,"tomentosa",,"","Benth. ex Oerst.",Synonym,,L,TICA,19261A91-752B-4662-9320-C16273704E26,,"","","71","1852",gcc-42615
+gcc-149367,A,Compositae,,Caelestina,,"tomentosa",,"","Benth. ex Oersted",Synonym,,M,TICA,68135701-A621-476F-A012-573C48D6464C,,"Vidensk. Meddel Dansk Naturhist. Foren. Kjobenhavn 71. 1852. ","","71","1852",gcc-153338
+gcc-28098,A,Compositae,,Caelestina,,"tomentosa",,"","Benth.",Synonym,,L,TICA,53115C31-CE65-4187-AC3C-33E4CF858A30,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 71. 1853.","","71","1853",gcc-42615
+gcc-149414,A,Compositae,,Caelestina,,"urticaefolia",,"","Pohl ex Baker",Synonym,Invalid,M,TICA,4C068D84-6DA6-4120-973F-583050D9C3F6,,"Fl. Bras. 6(2): 362. 1876.","","362","1876",gcc-146573
+gcc-17708,A,Compositae,,Caelestina,,"urticifolia",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,1735EA0F-2A24-4A39-8F79-20AD01C68A1A,,"","","362","1876",gcc-146573
+gcc-46198,A,Compositae,,Caelestina,,"viscosa",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,1A142458-9DD8-4216-8921-55A16447580D,,"","","362","1876",gcc-97499

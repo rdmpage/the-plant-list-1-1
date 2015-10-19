@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98897,A,Compositae,,Printzia,,"aromatica",,"","(L.) Less.",Accepted,,M,TICA,5D0AEF35-E6F5-4BF9-BA66-9721F9E135EF,239626-1,"Linnaea 5: 275. 1830","","275","1830",
+gcc-136562,A,Compositae,,Printzia,,"asteroides",,"","Schltr. ex Bews",Synonym,Invalid,M,TICA,7BF92E64-CE29-40CB-A930-EC7C878C0A9B,,"Fl. Nat. & Zul. 219 (1921).","","","",gcc-35204
+gcc-118791,A,Compositae,,Printzia,,"auriculata",,"","Harv.",Accepted,,M,TICA,BB835B09-32CE-4B9D-BB4B-C3C4FAD70BDB,,"Fl. Cap. (Harvey) iii. 514","","514","",
+gcc-2980,A,Compositae,,Printzia,,"bergii",,"","Cass.",Synonym,Illegitimate,M,TICA,FA916E5D-1B3E-4E86-BD50-0586E57B219A,239628-1,"in Dict. Sci. Nat. xliii. 324.","","xliii. 324","",gcc-132344
+gcc-114695,A,Compositae,,Printzia,,"cernua",,"","(P.J.Bergius) Druce",Synonym,,M,TICA,C9266CF6-CFD5-4C46-8AB7-BA76B3C976EA,239629-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 642 (1917)""","","642","1917",gcc-132344
+gcc-28986,A,Compositae,,Printzia,,"densifolia",,"","J.M.Wood & M.S.Evans",Synonym,,M,TICA,3C9D7100-1A2F-4930-9CA8-3594D18FC209,239630-1,"Journ. Bot.","","488","1897",gcc-118791
+gcc-93176,A,Compositae,,Printzia,,"huttoni",,"","Harv.",Accepted,,M,TICA,3EF07BE8-E07F-4FFF-BC97-8A2DB5893D7D,239631-1,"Thes. Cap. ii. 37.","","37","",
+gcc-132253,A,Compositae,,Printzia,,"laxa",,"","N.E.Br.",Synonym,,M,TICA,02B3FBDB-526C-44FE-B781-E2C98018ECD7,239632-1,"Bull. Misc. Inform. Kew (1895) 26.","","26","",gcc-118791
+gcc-27081,A,Compositae,,Printzia,,"nutans",,"","(Bolus) Leins",Accepted,,M,TICA,DC4320B9-B19D-4F0D-B900-3210B0D8886A,239633-1,"Mitt. Bot. Staatssamml. München 9: 108 (1971)","","108","1971",
+gcc-132344,A,Compositae,,Printzia,,"polifolia",,"","(L.) Hutch.",Accepted,,M,TICA,307CB65E-59F3-4A4D-893B-E30E1FC21A32,,"""Botanist S. Afr. 91 (1946), in obs.; Bullock in Kew Bull. 1948, 54 (1948)""","","54","1948",
+gcc-101134,A,Compositae,,Printzia,,"pyrifolia",,"","Less.",Accepted,,M,TICA,1AFF189B-01DF-4310-B1A2-9C272431BD57,239635-1,"Syn. Gen. Compos. 108.","","108","",

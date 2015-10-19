@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50298202,A,Ranunculaceae,,Trautvetteria,,"applanta",,"","Greene",Unresolved,,L,TRO,50298202,256510-2,"Leafl. Bot. Observ. Crit.","2(9): 191","191","1912",
+tro-27100859,A,Ranunculaceae,,Trautvetteria,,"caroliniensis",,"","(Walter) Vail",Accepted,,M,TRO,27100859,256511-2,"Mem. Torrey Bot. Club","2(2): 42","42","1890",
+tro-50002967,A,Ranunculaceae,,Trautvetteria,,"caroliniensis",var.,"borealis","(H. Hara) T. Shimizu",Accepted,,L,TRO,50002967,920374-1,"Hikobia, Suppl.","1: 451","451","1981",
+tro-27101671,A,Ranunculaceae,,Trautvetteria,,"caroliniensis",var.,"caroliniensis","",Synonym,,L,TRO,27101671,,"","","","",tro-27100859
+tro-100362446,A,Ranunculaceae,,Trautvetteria,,"caroliniensis",var.,"japonica","(Siebold & Zucc.) T. Shimizu",Accepted,,L,TRO,100362446,920375-1,"Hikobia, Suppl.","1: 451","451","1981",
+tro-27100860,A,Ranunculaceae,,Trautvetteria,,"caroliniensis",var.,"occidentalis","C.L. Hitchc.",Accepted,,L,TRO,27100860,256513-2,"Vasc. Pl. Pacific N.W.","2: 411","411","1964",
+kew-2514505,A,Ranunculaceae,,Trautvetteria,,"fimbriata",,"","Greene",Unresolved,,L,WCSP (in review),,256514-2,"Leafl. Bot. Observ. Crit.","2: 190","","1912",
+tro-27101712,A,Ranunculaceae,,Trautvetteria,,"grandis",,"","Nutt.",Synonym,,M,TRO,27101712,715030-1,"Fl. N. Amer.","1: 37","37","",tro-27100860
+tro-27101998,A,Ranunculaceae,,Trautvetteria,,"japonica",,"","Siebold & Zucc.",Synonym,,M,TRO,27101998,,"","","","",tro-100362446
+tro-50326448,A,Ranunculaceae,,Trautvetteria,,"japonica",var.,"borealis","H. Hara",Synonym,,L,TRO,50326448,50917362-1,"Bot. Mag. (Tokyo)","49(577): 15","15","1935",tro-50002967
+kew-2514530,A,Ranunculaceae,,Trautvetteria,,"media",,"","Greene",Unresolved,,L,WCSP (in review),,256516-2,"Leafl. Bot. Observ. Crit.","2: 192","","1912",
+kew-2514509,A,Ranunculaceae,,Trautvetteria,,"nervata",,"","Greene",Unresolved,,L,WCSP (in review),,256517-2,"Leafl. Bot. Observ. Crit.","2: 190","","1912",
+kew-2514511,A,Ranunculaceae,,Trautvetteria,,"palmata",,"","(Michx.) Fisch. & C.A.Mey.",Accepted,,M,WCSP (in review),,715034-1,"Index Seminum (LE)","1: 22","","1835",
+kew-2514536,A,Ranunculaceae,,Trautvetteria,,"rotundata",,"","Greene",Unresolved,,L,WCSP (in review),,256521-2,"Leafl. Bot. Observ. Crit.","2: 191","","1912",
+kew-2514535,A,Ranunculaceae,,Trautvetteria,,"saniculifolia",,"","Greene",Unresolved,,L,WCSP (in review),,256522-2,"Leafl. Bot. Observ. Crit.","2: 192","","1912",

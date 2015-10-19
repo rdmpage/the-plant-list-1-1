@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2607013,A,Brassicaceae,,Dryopetalon,,"breedlovei",,"","(Rollins) Al-Shehbaz",Accepted,,M,WCSP (in review),,77089932-1,"Novon","17: 400","","2007",
+kew-2607014,A,Brassicaceae,,Dryopetalon,,"byei",,"","(Rollins) Al-Shehbaz",Accepted,,M,WCSP (in review),,77089933-1,"Novon","17: 400","","2007",
+kew-2778768,A,Brassicaceae,,Dryopetalon,,"crenatum",,"","(Brandegee) Rollins",Accepted,,M,WCSP (in review),,84472-2,"Contr. Dudley Herb.","3: 202","","1941",
+tro-100361632,A,Brassicaceae,,Dryopetalon,,"crenatum",var.,"crenatum","",Synonym,,L,TRO,100361632,,"","","","",kew-2778768
+kew-2778769,A,Brassicaceae,,Dryopetalon,,"crenatum",var.,"racemosum","Rollins",Synonym,,L,WCSP (in review),,84473-2,"Contr. Dudley Herb.","3: 203","","1941",kew-2778768
+kew-2778770,A,Brassicaceae,,Dryopetalon,,"membranifolium",,"","Rollins",Accepted,,M,WCSP (in review),,84474-2,"Contr. Gray Herb.","214: 21","","1984",
+kew-2778771,A,Brassicaceae,,Dryopetalon,,"palmeri",,"","(S.Watson) O.E.Schulz",Accepted,,M,WCSP (in review),,84475-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 561","","1929",
+kew-2607015,A,Brassicaceae,,Dryopetalon,,"paysonii",,"","(Rollins) Al-Shehbaz",Accepted,,M,WCSP (in review),,77089934-1,"Novon","17: 401","","2007",
+kew-2778772,A,Brassicaceae,,Dryopetalon,,"purpureum",,"","Rollins",Synonym,,M,WCSP (in review),,84476-2,"Contr. Dudley Herb.","3: 204","","1941",kew-2778771
+kew-2778773,A,Brassicaceae,,Dryopetalon,,"runcinatum",,"","A.Gray",Accepted,,M,WCSP (in review),,30220416-2,"Smithsonian Contr. Knowl.","5: 11","","1853",
+kew-2778774,A,Brassicaceae,,Dryopetalon,,"runcinatum",var.,"laxiflorum","Rollins",Synonym,,L,WCSP (in review),,84477-2,"Contr. Dudley Herb.","3: 201","","1941",kew-2778773
+tro-4100148,A,Brassicaceae,,Dryopetalon,,"runcinatum",var.,"runcinatum","",Synonym,,L,TRO,4100148,,"","","","",kew-2778773
+kew-2607016,A,Brassicaceae,,Dryopetalon,,"viereckii",,"","(O.E.Schulz) Al-Shehbaz",Accepted,,M,WCSP (in review),,77089935-1,"Novon","17: 401","","2007",

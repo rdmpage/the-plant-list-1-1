@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-259420,A,Commelinaceae,,Polyspatha,,"eckloniana",,"","Hassk. ex C.B.Clarke.",Synonym,,H,WCSP,259420,173039-1,"Monogr. Phan.","3: 174","","1881",kew-233862
+kew-259421,A,Commelinaceae,,Polyspatha,,"glaucescens",,"","(C.B.Clarke) Hutch.",Synonym,,H,WCSP,259421,173040-1,"Fl. W. Trop. Afr.","2: 320","","1936",kew-259424
+kew-259422,A,Commelinaceae,,Polyspatha,,"hirsuta",,"","Mildbr.",Accepted,,H,WCSP,259422,173041-1,"Notizbl. Bot. Gart. Berlin-Dahlem","9: 256","","1925",
+kew-259423,A,Commelinaceae,,Polyspatha,,"hirsuta",var.,"togoensis","Mildbr.",Synonym,,L,WCSP,259423,,"Notizbl. Bot. Gart. Berlin-Dahlem","9: 257","","1925",kew-259422
+kew-466556,A,Commelinaceae,,Polyspatha,,"oligospatha",,"","Faden",Accepted,,H,WCSP,466556,,"PhytoKeys","3: 10","","2011",
+kew-259424,A,Commelinaceae,,Polyspatha,,"paniculata",,"","Benth.",Accepted,,H,WCSP,259424,173042-1,"Niger Fl.","543","","1849",
+kew-259425,A,Commelinaceae,,Polyspatha,,"paniculata",var.,"glaucescens","C.B.Clarke",Synonym,,L,WCSP,259425,,"Monogr. Phan.","3: 195","","1881",kew-259424

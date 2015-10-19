@@ -1,0 +1,89 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91320,A,Compositae,,Achyrocline,,"adoensis",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,3924441D-B299-415E-9989-861E9572A3C1,,"","","","1848",gcc-6510
+gcc-116868,A,Compositae,,Achyrocline,,"alata",,"","(Kunth) DC.",Accepted,,M,TICA,F518E6EF-634E-4CB4-BCAC-BF66BA44F147,174368-1,"","","221","1838",
+gcc-145328,A,Compositae,,Achyrocline,,"alata",var.,"alata","",Synonym,,L,TICA,830E9C1A-E04E-4421-A0F0-01F277AEC3E6,,"","","","",gcc-116868
+gcc-63288,A,Compositae,,Achyrocline,,"alata",var.,"vauthieriana","(DC.) Baker",Synonym,,L,TICA,4DA74952-D988-4D5C-9439-B5B472781B19,2545-2,"","","117","1882",gcc-116868
+gcc-144224,A,Compositae,,Achyrocline,,"albicans",,"","Griseb.",Accepted,,M,TICA,17D0D57E-D104-48D9-8CAC-FD9E2314D12C,,"","","","1879",
+gcc-141461,A,Compositae,,Achyrocline,,"anabelae",,"","Deble",Accepted,,M,TICA,CB5F3982-CAE8-4D11-A064-F77BBA537CDE,,"Balduinia 3: 6 (2005)","","6","2005",
+gcc-100732,A,Compositae,,Achyrocline,,"argentina",,"","O.Hoffm.",Synonym,,M,TICA,ECD7D3E7-48B8-4BC3-AF4E-9B4F47F2DFB9,,"Linnaea 43","","","1881",gcc-116868
+gcc-119087,A,Compositae,,Achyrocline,,"arrojadoana",,"","Mattf.",Accepted,,M,TICA,8C808101-04F6-4668-B2C7-C46F9145EAD3,2547-2,"Notizbl. Bot. Gart. Berlin-Dahlem 9","","382","1925",
+gcc-96711,A,Compositae,,Achyrocline,,"batocana",,"","Oliv. & Hiern",Synonym,,M,TICA,B851BC2A-632A-4DD6-A647-92398FE024BD,174372-1,"","","339","1877",gcc-90754
+gcc-131776,A,Compositae,,Achyrocline,,"bogotensis",,"","(Kunth) DC.",Accepted,,M,TICA,1BA32194-CCB0-473F-BFD9-E1B39D137A3C,174373-1,"Prodr. 6","","221","1838",
+gcc-126858,A,Compositae,,Achyrocline,,"brittoniana",,"","Deble & Marchiori",Accepted,,M,TICA,1281234C-1070-445A-AD5E-D6428139C6AF,60446795-2,"Balduinia 3: 13 (2005)","","13","2005",
+gcc-128427,A,Compositae,,Achyrocline,,"candicans",,"","(Kunth) DC.",Accepted,,M,TICA,E3C88134-0775-4973-97DF-D9FEF8E829C9,174374-1,"","","221","1838",
+gcc-90476,A,Compositae,,Achyrocline,,"capitata",,"","Baker",Synonym,,L,TICA,0C4AD600-2C5B-4AEB-97E0-841DF28FFF33,309291-2,"","","117","1882",gcc-113144
+gcc-88660,A,Compositae,,Achyrocline,,"celosioides",,"","(Kunth) DC.",Accepted,,M,TICA,F129E561-511E-4544-8AC0-7FEDA6737E60,174376-1,"","","221","1838",
+gcc-76647,A,Compositae,,Achyrocline,,"citrina",,"","Griseb.",Synonym,,M,TICA,77080B4A-D353-4662-9D2D-65240CFA72EE,174377-1,"","","187","1879",gcc-13239
+gcc-83429,A,Compositae,,Achyrocline,,"coquimbense",,"","Klatt",Accepted,,M,TICA,4E42B748-553D-4523-AFD3-744831EBBDC2,,"Linnaea 42","","112","",
+gcc-120795,A,Compositae,,Achyrocline,,"crassiceps",,"","S.F.Blake",Accepted,,M,TICA,C0E401BF-6D6E-471F-B641-C85B55091229,2550-2,"Contr. U. S. Natl. Herb. 22","","""596, pl. 57""","1924",
+gcc-117213,A,Compositae,,Achyrocline,,"crassiuscula",,"","(Malme) Deble & Marchiori",Accepted,,M,TICA,1166CB94-9DD8-4962-931F-C0233AD04823,60446794-2,"Balduinia 5: 11 (2005)","","11","2005",
+gcc-29691,A,Compositae,,Achyrocline,,"deflexa",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,E204D656-C27C-4FCC-8BAE-36E145931FCD,2551-2,"in Amer. J. Sci. Ser. III. l. (1895) 153.","","153","1895",
+gcc-79636,A,Compositae,,Achyrocline,,"disjuncta",,"","Hemsl.",Accepted,,M,TICA,36AECA9B-6467-434C-9A59-6BDA9AB3A3F2,,"","","128","1884",
+gcc-13239,A,Compositae,,Achyrocline,,"flaccida",,"","(Weinm.) DC.",Accepted,,M,TICA,B6B55B1C-3D75-4814-A4B6-18ABCD83DE46,1067587-2,"Prodr. (DC.) 6","","220","1838",
+gcc-289,A,Compositae,,Achyrocline,,"flavescens",,"","Griseb.",Synonym,,M,TICA,AC3BFCCD-1E14-4A15-97DD-0087746A4843,174383-1,"","","181","1874",gcc-116868
+gcc-94893,A,Compositae,,Achyrocline,,"flavida",,"","S.F.Blake",Accepted,,M,TICA,E19F03C2-FE7E-4258-9B24-8E1340F9C40B,2552-2,"Contr. U. S. Natl. Herb. 20","","535","1924",
+gcc-18975,A,Compositae,,Achyrocline,,"gardnerii",,"","(Baker) Deble & Marchiori",Accepted,,M,TICA,91B5F204-3E58-4B61-8F7F-2305B730D9C0,,"","","","",
+gcc-11280,A,Compositae,,Achyrocline,,"gaudens",,"","V.M.Badillo & Gonz.Sánchez",Accepted,,M,TICA,F196DDAE-9BE0-4634-805F-1518D7823E44,,"","","3","1998",
+gcc-122849,A,Compositae,,Achyrocline,,"gertiana",,"","Deble & Marchiori",Accepted,,M,TICA,07E1080D-68C6-4129-8AC6-CCF57E15D2F4,,"Balduinia 3: 10 (2005)","","10","2005",
+gcc-145154,A,Compositae,,Achyrocline,,"glandulosa",,"","S.F.Blake",Accepted,,M,TICA,CF3F4FA7-7786-42A9-AE42-FFC9039813E4,2553-2,"Bot. Gaz. 74","","414","1922",
+gcc-5065,A,Compositae,,Achyrocline,,"glumacea",,"","(DC.) Oliv. & Hiern",Synonym,,M,TICA,7E0D4352-8573-4B3D-98D6-097580048FB7,174386-1,"","","340","1877",gcc-79244
+gcc-91774,A,Compositae,,Achyrocline,,"guerreroana",,"","G.L.Nesom",Accepted,,M,TICA,5B7E38F6-8B4C-42DE-BB43-8720428B1ACD,271520-2,"Phytologia 68","","363","1990",
+gcc-76313,A,Compositae,,Achyrocline,,"hallii",,"","Hieron.",Accepted,,M,TICA,6001C3CC-EA8A-4098-BBA6-6468461D3D7E,2554-2,"Bot. Jahrb. Syst. 28","","594","1901",
+gcc-18317,A,Compositae,,Achyrocline,,"hirta",,"","Klatt",Accepted,,M,TICA,B3D2DF0B-12EC-4AE8-B735-21D5B9782EE1,174388-1,"Linnaea 42","","113","1878",
+gcc-124245,A,Compositae,,Achyrocline,,"hochstetteri",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,7F8563FA-701E-4014-9F61-D03D81DBB14D,,"","","","",gcc-99815
+gcc-145221,A,Compositae,,Achyrocline,,"hyperchlora",,"","S.F.Blake",Accepted,,M,TICA,A1D26F31-7364-409E-A196-FFF292FD2B6F,2555-2,"Bot. Gaz. 74","","415","1922",
+gcc-21376,A,Compositae,,Achyrocline,,"insularis",,"","Humbert",Synonym,,M,TICA,96453FB5-7D35-4C30-B502-277EAA77DAB0,,"","","","1923",gcc-87768
+gcc-139428,A,Compositae,,Achyrocline,,"latifolia",,"","Wedd.",Accepted,,M,TICA,B1B3737E-6B45-4ECC-9974-F2B8A1ED512A,,"","","148","",
+gcc-100429,A,Compositae,,Achyrocline,,"lehmannii",,"","Hieron.",Accepted,,M,TICA,98F8AE07-BAD0-4893-ACB8-9A9B8C6A91F4,2556-2,"Bot. Jahrb. Syst. 28","","595","1901",
+gcc-13384,A,Compositae,,Achyrocline,,"leptocephala",,"","DC.",Synonym,,M,TICA,FDBAD01D-D4AC-4BFC-A49D-18F6BBE99F62,174394-1,"","","220","1838",gcc-52747
+gcc-31620,A,Compositae,,Achyrocline,,"luisiana",,"","Deble",Accepted,,M,TICA,04C128A0-4AA0-45B1-9232-3A9CCF962186,,"Balduinia 4: 1 (2005)","","1","2005",
+gcc-142366,A,Compositae,,Achyrocline,,"luzuloides",,"","Sch.Bip. ex Vatke",Synonym,,M,TICA,44D86A68-98CF-4791-BC33-F9707FFC20D0,174395-1,"Linnaea 39","","489","1875",gcc-79244
+gcc-5119,A,Compositae,,Achyrocline,,"luzuloides",var.,"alpina","Mattei",Synonym,,L,TICA,048324D6-938D-4801-B97F-098BB198E30C,,"","","","",gcc-79244
+gcc-149808,A,Compositae,,Achyrocline,,"luzuloides",var.,"luzuloides","",Synonym,,L,TICA,0A562955-1893-48FF-B23A-609C2AC4F2E0,,"","","","",gcc-79244
+gcc-88014,A,Compositae,,Achyrocline,,"macella",,"","Deble & Marchiori",Accepted,,M,TICA,A779B899-A1E7-4AD7-8414-7E7F5EFBD6F2,,"Balduinia 6: 25 (2006)","","25","2006",
+gcc-79230,A,Compositae,,Achyrocline,,"madioides",,"","Meyen & Walp.",Synonym,,M,TICA,E8BFCD0C-6013-48B5-AB79-6AF915CCEF14,174396-1,"","","275","1843",gcc-116868
+gcc-123511,A,Compositae,,Achyrocline,,"marchiorii",,"","Deble",Accepted,,M,TICA,5B0D20E7-30AF-4261-B469-CE81553DD0B4,,"Balduinia 3: 5 (2005)","","5","2005",
+gcc-40004,A,Compositae,,Achyrocline,,"mathiolifolia",,"","DC.",Accepted,,M,TICA,C31260EF-8112-4274-B2BF-4A3993F22168,174397-1,"","","221","1838",
+gcc-43046,A,Compositae,,Achyrocline,,"mollis",,"","Benth.",Accepted,,M,TICA,C371204B-3138-40B3-ABED-4FB96EFB4333,174398-1,"","","207","1845",
+tro-2743226,A,Compositae,,Achyrocline,,"moritzianum",,"","Klatt",Accepted,,M,TRO,2743226,314028-2,"Linnaea","42(1): 112","112","1878-1879",
+gcc-20569,A,Compositae,,Achyrocline,,"oaxacana",,"","G.L.Nesom",Accepted,,M,TICA,1574F997-676B-4F64-A1FB-261057DA932E,271521-2,"Phytologia 68","","364","1990",
+gcc-86548,A,Compositae,,Achyrocline,,"peruviana",,"","M.O.Dillon & Sagást.",Accepted,,M,TICA,9B0A1F65-7AE0-43AA-8976-7B2593A64790,271522-2,"Phytologia 60","","107","1986",
+gcc-121650,A,Compositae,,Achyrocline,,"polycephala",,"","Rusby",Synonym,,M,TICA,7AE4CA4F-6924-4FA1-A96B-CA42F34A1122,2559-2,"Bull. New York Bot. Gard. 4","","388","1907",gcc-85786
+gcc-136105,A,Compositae,,Achyrocline,,"pterocaula",,"","DC.",Synonym,,M,TICA,F93DE4D9-AB61-49AE-B462-EB734651218D,174401-1,"","","221","1838",gcc-116868
+gcc-88859,A,Compositae,,Achyrocline,,"pumila",,"","Schinz ex Klatt",Synonym,,M,TICA,223D87C3-F562-42D6-B8E3-8060564FC80B,,"","","","1895",gcc-27875
+gcc-117712,A,Compositae,,Achyrocline,,"ramosissima",,"","Britton ex Rusby",Synonym,Illegitimate,M,TICA,9AF268E7-BBEF-455F-B7CF-C148E9FFA6DD,,"","","57","1893",gcc-29199
+gcc-29199,A,Compositae,,Achyrocline,,"ramosissima",,"","Britton",Accepted,,M,TICA,DDC7ADAE-3AFA-428B-9D1B-35F8F24880AD,2560-2,"Bull. Torrey Bot. Club 19","","148","1892",
+gcc-156608,A,Compositae,,Achyrocline,,"ribasiana",,"","Deble & Marchiori",Accepted,,M,TICA,9CB1E37A-EDC0-4F23-A96E-F0C99013ADA1,,"","","","",
+gcc-13507,A,Compositae,,Achyrocline,,"rufescens",,"","(Kunth) DC.",Synonym,Illegitimate,M,TICA,B1566040-E67E-4B27-8E19-1924C40BDC91,174404-1,"","","220","1838",gcc-116868
+gcc-117020,A,Compositae,,Achyrocline,,"rugosa",,"","Gardner",Synonym,,M,TICA,6938D3F8-7C97-4EB7-A51A-BFB7DD8717AC,301571-2,"London J. Bot. 7","","419","1848",gcc-45304
+gcc-95228,A,Compositae,,Achyrocline,,"rupestris",,"","Cabrera",Accepted,,M,TICA,87B6E9C7-5694-48B6-B5B0-8ECD17911B8E,2561-2,"Darwiniana 9","","43","1949",
+gcc-13716,A,Compositae,,Achyrocline,,"satureioides",,"","(Lam.) DC.",Accepted,,M,TICA,6D5D9A7A-FE5A-4FA6-9E64-1984E56CAE1F,30187325-2,"","","220","1838",
+gcc-49043,A,Compositae,,Achyrocline,,"satureioides",,"","Gardner",Synonym,Illegitimate,M,TICA,89B7E1F1-5BAE-490A-B75D-5ADAA2E9DF79,174408-1,"London J. Bot. 7","","424","1848",gcc-18975
+gcc-65249,A,Compositae,,Achyrocline,,"satureioides",var.,"albicans","(Griseb.) Baker",Synonym,,L,TICA,1A8021E6-7FBD-4580-93ED-C536941DC40D,2563-2,"","","116","1882",gcc-18975
+gcc-69049,A,Compositae,,Achyrocline,,"satureioides",var.,"albicans","Griseb.",Synonym,,L,TICA,C38DAA2C-6B1B-4B74-A932-E38D75276345,2562-2,"Abh. Königl. Ges. Wiss. Göttingen 24: 187. 1879 Symb. Fl. argent","","187","1879",gcc-13239
+gcc-19155,A,Compositae,,Achyrocline,,"satureioides",var.,"candicans","(DC.) Baker",Synonym,,L,TICA,595A83A5-1238-4299-9BC7-23647882E683,2564-2,"","","116","1882",gcc-18975
+gcc-17608,A,Compositae,,Achyrocline,,"satureioides",var.,"crassiuscula","Malme",Synonym,,L,TICA,8EF1E5C5-0EB8-455F-8090-208470462625,2565-2,"","","62","1931",gcc-117213
+gcc-27661,A,Compositae,,Achyrocline,,"satureioides",var.,"densa","Wedd.",Synonym,,L,TICA,BCDF0570-53FF-4F30-A59A-331CFB9E6AB0,2566-2,"","","148","1856",gcc-18975
+gcc-53433,A,Compositae,,Achyrocline,,"satureioides",var.,"lanosa","Wawra",Synonym,,L,TICA,A2A943CA-D8C8-4B5D-9CE1-6637C3C9B146,2567-2,"Itin. Princ. S. Coburgi 2","","33","1888",gcc-18975
+gcc-68911,A,Compositae,,Achyrocline,,"satureioides",var.,"longifolia","Wedd.",Synonym,,L,TICA,D0C44F3F-290C-4CD2-895B-E259D737CA9A,2568-2,"","","148","1856",gcc-18975
+gcc-25856,A,Compositae,,Achyrocline,,"satureioides",var.,"remotifolia","DC.",Synonym,,L,TICA,3466FEFD-0B32-45D5-885D-2FC6CA627EBC,2569-2,"","","220","1838",gcc-18975
+gcc-152728,A,Compositae,,Achyrocline,,"satureioides",var.,"satureioides","",Synonym,,L,TICA,F3208EE8-63CC-4AF5-A5B5-9F88C405E50E,,"","","","",gcc-13716
+gcc-60551,A,Compositae,,Achyrocline,,"satureioides",var.,"vargasiana","(DC.) Baker",Synonym,,L,TICA,65B6A9EB-1FE4-4920-8A5E-9F21DC8A8199,2570-2,"Flora Brasiliensis 6(3):","","116","1882",gcc-13716
+gcc-3674,A,Compositae,,Achyrocline,,"scandens",,"","V.M.Badillo",Accepted,,M,TICA,870C2A1F-2F3A-4A8D-B248-06CCF0FC4E15,968347-1,"","","25","1992",
+gcc-82842,A,Compositae,,Achyrocline,,"schimperi",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,550CDBA0-9DBD-4B65-94C2-72F3978A156C,174409-1,"","","428","1848",gcc-6510
+gcc-105489,A,Compositae,,Achyrocline,,"sclerochlaena",,"","Vatke",Synonym,,M,TICA,1BB6D5BD-168A-4BA1-9C0F-A5B1192783E6,,"""Oliver, Fl. Trop. Afr. iii. 341. ""","","","",gcc-132549
+gcc-39204,A,Compositae,,Achyrocline,,"sclerochlaena",,"","Sch.Bip. ex Oliv. & Hiern",Synonym,,M,TICA,41B6E9FB-7E37-42AF-92AD-48BC28FB750E,174410-1,"","","341","1877",gcc-132549
+gcc-125908,A,Compositae,,Achyrocline,,"steetzii",,"","Vatke",Synonym,,M,TICA,AE649F86-4A5B-40B5-AACF-D421347C4776,174411-1,"Oesterr. Bot. Z. 27","","194","1877",gcc-90754
+gcc-126768,A,Compositae,,Achyrocline,,"stenoptera",,"","(DC.) Hilliard & B.L.Burtt",Synonym,,M,TICA,6E944A76-AE10-485A-AC25-D60E8101BBEC,,"","","202","1981",gcc-99815
+gcc-107172,A,Compositae,,Achyrocline,,"tamariscina",,"","Schrank",Synonym,,M,TICA,EF1A6194-AF35-4569-ACF5-A97D19F4D3C0,,"","","170","1822",gcc-44945
+gcc-148381,A,Compositae,,Achyrocline,,"tombadorensis",,"","Deble & Marchiori",Accepted,,M,TICA,3B74326F-1ACB-4F8E-AA5C-41426247A9F7,,"","","","",
+gcc-85786,A,Compositae,,Achyrocline,,"tomentosa",,"","Rusby",Accepted,,M,TICA,06020354-8E02-474A-9A95-796F9C168B03,2571-2,"Bull. New York Bot. Gard. 4","","388","1907",
+gcc-79025,A,Compositae,,Achyrocline,,"trianae",,"","Klatt",Accepted,,M,TICA,D1E58515-15FB-40D7-BDE9-6A8E9F507401,174414-1,"Linnaea 42","","113","1878",
+gcc-1408,A,Compositae,,Achyrocline,,"turneri",,"","G.L.Nesom",Accepted,,M,TICA,CD396622-153C-4B50-9690-0289CA74D861,271523-2,"","","183","1990",
+gcc-26017,A,Compositae,,Achyrocline,,"vargasiana",,"","DC.",Synonym,,M,TICA,1471561E-EABE-4E20-A203-3019496DF1D3,174415-1,"","","220","1838",gcc-13716
+gcc-89266,A,Compositae,,Achyrocline,,"vauthieriana",,"","DC.",Synonym,,M,TICA,48B817D9-C7DF-4B12-B4FD-81503F3438E8,,"","","220","",gcc-116868
+gcc-6476,A,Compositae,,Achyrocline,,"venosa",,"","Rusby",Accepted,,M,TICA,A0F94271-1328-4229-AC94-0C0D6CCB2E0D,2574-2,"","","57","1893",
+gcc-117579,A,Compositae,,Achyrocline,,"ventosa",,"","Klatt",Accepted,,M,TICA,5015E770-1B5D-4512-8A61-C0FF97918B3F,174418-1,"Linnaea 42","","112","1878",
+gcc-14212,A,Compositae,,Achyrocline,,"virescens",,"","Klatt",Accepted,,M,TICA,A6A7CE9F-D45B-4C36-9BF5-1A5C463704C4,,"Bot. Jahrb. Syst. 8","","40","",
+gcc-14806,A,Compositae,,Achyrocline,,"yunckeri",,"","S.F.Blake ex Yunck.",Unresolved,,L,TICA,3DFBBBC6-9AFF-4E59-BE50-1B73DB217E6F,2576-2,"""Field Mus. Nat. Hist., Bot. Ser. 17: 399, pl. 16. 1938""","","""399, pl. 16""","1938",
+gcc-44643,A,Compositae,,Achyrocline,,"yunckeri",,"","S.F.Blake",Synonym,,M,TICA,B2256485-5176-403D-8BC4-52B74F94ACC4,,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 17""","","","1938",gcc-29691

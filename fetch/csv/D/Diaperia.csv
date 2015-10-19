@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33284,A,Compositae,,Diaperia,,"candida",,"","(Torr. & A.Gray) Benth. & Hook.f.",Accepted,,L,TICA,FD2507B1-39BE-4841-8288-3DB5C059EEA3,,"","","298","1873",
+gcc-93833,A,Compositae,,Diaperia,,"drummondii",,"","(Torr. & A.Gray) Benth.",Synonym,,M,TICA,8948140B-64D6-4664-893A-8B91D82A2A1E,,"Gen. Pl. 2: 298 (1873)","","298","1873",gcc-72274
+gcc-127881,A,Compositae,,Diaperia,,"multicaulis",,"","(DC.) Nutt.",Synonym,,M,TICA,B062CBCF-8367-45BE-9AC9-D8C0CCAE9488,,"","","337","1840",gcc-128053
+gcc-89798,A,Compositae,,Diaperia,,"multicaulis",,"","Benth. & Hook.f.",Unresolved,Illegitimate,L,TICA,7C2C9A7B-D601-42A2-B0DC-8290D8DCC7CB,,"Genera Plantarum 2:","","298","1873",
+gcc-16653,A,Compositae,,Diaperia,,"prolifera",,"","(Nutt. ex DC.) Nutt.",Accepted,,M,TICA,4BF5C915-4097-40E4-AD27-1EC46686CBEB,,"","","337","1840",
+gcc-61270,A,Compositae,,Diaperia,,"prolifera",var.,"prolifera","",Synonym,,L,TICA,AB1062D3-94B9-4DA1-9B48-A51CF705FE6F,,"","","","",gcc-16653
+gcc-128053,A,Compositae,,Diaperia,,"verna",,"","(Raf.) Morefield",Accepted,,M,TICA,BC00F623-BC9D-4FB0-A2D0-D9186A8EB9B0,60437968-2,"","","468","2004",
+gcc-72274,A,Compositae,,Diaperia,,"verna",var.,"drummondii","(Torr. & A.Gray) Morefield",Accepted,,L,TICA,4CE190C4-7B99-41C3-8DED-FCB44CAD4D1E,60437969-2,"","","469","2004",
+gcc-62923,A,Compositae,,Diaperia,,"verna",var.,"verna","",Synonym,,L,TICA,2B52257A-9DFE-4246-A1F3-B2BEEA222540,,"","","","2004",gcc-128053

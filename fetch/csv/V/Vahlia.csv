@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-29100719,A,Vahliaceae,,Vahlia,,"capensis",,"","(L. f.) Thunb.",Accepted,,M,TRO,29100719,794914-1,"Nov. Gen. Pl.","2: 36","36","1782",
+tro-29100720,A,Vahliaceae,,Vahlia,,"capensis",subsp.,"capensis","",Synonym,,L,TRO,29100720,,"","","","",tro-29100719
+kew-2462308,A,Vahliaceae,,Vahlia,,"capensis",subsp.,"vulgaris","Bridson",Accepted,,L,WCSP (in review),,892261-1,"Kew Bull.","30: 173","","1975",
+tro-29101162,A,Vahliaceae,,Vahlia,,"cordofana",,"","Hochst.",Synonym,,M,TRO,29101162,,"","","","",kew-2454424
+tro-29100729,A,Vahliaceae,,Vahlia,,"cynodonteti",,"","Dinter",Unresolved,,L,TRO,29100729,,"","","","",
+kew-2454424,A,Vahliaceae,,Vahlia,,"dichotoma",,"","(Murray) Kuntze",Accepted,,M,WCSP (in review),,794917-1,"Revis. Gen. Pl.","1: 227","","1891",
+kew-2454434,A,Vahliaceae,,Vahlia,,"digyna",,"","(Retz.) Kuntze",Accepted,,L,WCSP (in review),,794918-1,"Revis. Gen. Pl.","1: 227","","1891",
+kew-2462483,A,Vahliaceae,,Vahlia,,"fastuosa",,"","Dahl",Unresolved,,L,WCSP (in review),,825708-1,"Observ. Bot.","21","","1787",
+kew-2462307,A,Vahliaceae,,Vahlia,,"geminiflora",,"","(Caill. & Delile) Bridson",Accepted,,M,WCSP (in review),,859197-1,"Kew Bull.","30: 179","","1975",
+tro-29100722,A,Vahliaceae,,Vahlia,,"glandulosa",,"","Schltr. ex Engl.",Synonym,,M,TRO,29100722,,"Nat. Pflanzenfam.","ed. 2, xviii","","",tro-29100719
+kew-2454426,A,Vahliaceae,,Vahlia,,"goddingii",,"","E.A.Bruce",Unresolved,,L,WCSP (in review),,794919-1,"Bull. Misc. Inform. Kew","1940: 49","","1940",
+tro-29100733,A,Vahliaceae,,Vahlia,,"longifolia",,"","Gand.",Synonym,,M,TRO,29100733,,"","","","",kew-2462308
+kew-2454428,A,Vahliaceae,,Vahlia,,"macrantha",,"","Klotzsch",Unresolved,,L,WCSP (in review),,794921-1,"Naturw. Reise Mossambique","175","","1861",
+tro-29100737,A,Vahliaceae,,Vahlia,,"menyharthii",,"","Schinz",Synonym,,L,TRO,29100737,,"","","","",kew-2454434
+tro-29101160,A,Vahliaceae,,Vahlia,,"oldenlandiae",,"","DC.",Synonym,,M,TRO,29101160,794923-1,"Prodr.","4: 54","54","",kew-2454424
+kew-2454431,A,Vahliaceae,,Vahlia,,"oldenlandioides",,"","Roxb.",Synonym,,M,WCSP (in review),,794924-1,"Fl. Ind. ed. 1832","2: 89","","1832",kew-2454424
+tro-29101449,A,Vahliaceae,,Vahlia,,"pentandra",,"","(Schumach. & Thonn.) C.E.C. Fischer",Synonym,,M,TRO,29101449,,"","","","",kew-2454424
+kew-2454533,A,Vahliaceae,,Vahlia,,"ramosissima",,"","A.DC. ex DC.",Synonym,,L,WCSP (in review),,794926-1,"Prodr.","4: 54","","1830",kew-2454434
+tro-29100739,A,Vahliaceae,,Vahlia,,"sessiliflora",,"","DC.",Synonym,,L,TRO,29100739,,"","","","",kew-2454434
+kew-2454515,A,Vahliaceae,,Vahlia,,"silenoides",,"","A.DC. ex DC.",Synonym,,M,WCSP (in review),,794928-1,"Prodr.","4: 54","","1830",kew-2454424
+tro-29101523,A,Vahliaceae,,Vahlia,,"somalensis",,"","Chiov.",Accepted,,M,TRO,29101523,794929-1,"Fl. Somala","1: 170","170","1929",
+tro-29101524,A,Vahliaceae,,Vahlia,,"somalensis",subsp.,"somalensis","",Synonym,,L,TRO,29101524,,"","","","",tro-29101523
+kew-2454598,A,Vahliaceae,,Vahlia,,"tomentosa",,"","A.DC. ex DC.",Synonym,,M,WCSP (in review),,794930-1,"Prodr.","4: 54","","1830",kew-2454424
+kew-2454599,A,Vahliaceae,,Vahlia,,"verbasciflora",,"","Welw. ex Oliv.",Unresolved,,L,WCSP (in review),,794931-1,"Fl. Trop. Afr.","2: 384","","1871",
+kew-2454600,A,Vahliaceae,,Vahlia,,"verbasciflora",,"","(Oliv.) Mendes",Unresolved,,L,WCSP (in review),,794932-1,"Mem. Junta Invest. Ultramar, 2 Ser.","19: 12","","1960",
+kew-2454601,A,Vahliaceae,,Vahlia,,"viscosa",,"","Roxb.",Synonym,,L,WCSP (in review),,794933-1,"Fl. Ind. ed. 1832","2: 89","","1832",kew-2454434
+kew-2454602,A,Vahliaceae,,Vahlia,,"weddenii",,"","Rchb.",Synonym,,M,WCSP (in review),,794934-1,"Iconogr. Bot. Exot.","1: 62","","1827",kew-2462307

@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-7231,A,Compositae,,Monenteles,,"forsteri",,"","Endl.",Unresolved,,L,TICA,981FC384-939B-4076-9D05-0D728B4A870F,233488-1,"""in Ann. Wien. Mus. i. 168, No. 981 (1836).""","","""i. 168, No. 981""","1836",
+gcc-79718,A,Compositae,,Monenteles,,"glandulosus",,"","F.Muell. ex Benth.",Synonym,,M,TICA,252D206D-439F-419D-B26C-6C053FC20510,132649-3,"","","","1867",gcc-31547
+gcc-111495,A,Compositae,,Monenteles,,"globiferus",,"","DC.",Unresolved,,L,TICA,FF1220E3-6C55-41AD-9C41-B33A5303E875,132692-3,"","","","1836",
+gcc-128705,A,Compositae,,Monenteles,,"intermedius",,"","DC.",Unresolved,,L,TICA,2DD1449F-2A56-4110-A271-DAA49E84BCF7,132734-3,"","","","1836",
+gcc-117137,A,Compositae,,Monenteles,,"pterocaulon",,"","DC.",Synonym,,M,TICA,48119AAC-5F35-4DBC-840A-BFF7F3B9EBC7,233492-1,"Prodr. (DC.) 5: 455","","455","1836",gcc-141862
+gcc-139343,A,Compositae,,Monenteles,,"redolens",,"","(G.Forst. ex Willd.) Labill.",Synonym,,M,TICA,E9434947-CE86-46AE-909D-F28D3835DAED,,"Sert. Austro-Caledon. (1825)","","""43, t. 43""","1825",gcc-117303
+gcc-15308,A,Compositae,,Monenteles,,"redolens",,"","(Willd.) DC.",Synonym,,M,TICA,4095212B-E755-46A1-917C-1C5723034313,233493-1,"","","455","1836",gcc-117303
+gcc-101909,A,Compositae,,Monenteles,,"serrulatus",,"","Montrouz.",Synonym,,M,TICA,3FDBCAC6-1C2A-4E58-B645-9DD58932E576,233494-1,"""in Mem. Acad. Lyon, x. (1860) 225.""","","x.  225.","1860",gcc-31547
+gcc-125057,A,Compositae,,Monenteles,,"sphacelatus",,"","Labill.",Synonym,,M,TICA,50A359C8-4419-4955-AFB0-D233E3863B43,132840-3,"","","","1825",gcc-18705
+gcc-116315,A,Compositae,,Monenteles,,"sphaeranthoides",,"","DC.",Unresolved,,L,TICA,41AE4ABF-5287-4630-A79F-BE219007D2C6,132886-3,"","","","1836",
+gcc-37833,A,Compositae,,Monenteles,,"spicatus",,"","Labill.",Synonym,,M,TICA,30434E09-603B-44C6-BB8D-462B48D3C59C,132936-3,"","","","1825",gcc-117303
+gcc-13387,A,Compositae,,Monenteles,,"tomentosus",,"","Sch.Bip.",Unresolved,,L,TICA,428EF41E-F02C-4C51-8CEC-18F7C387C68C,233498-1,"""Syst. Verz. (Zollinger) 122, nomen.""","","122","",
+gcc-50774,A,Compositae,,Monenteles,,"tomentosus",,"","Sch.Bip. ex Miq.",Synonym,,M,TICA,1EFA08D8-4CA0-4FD3-86B3-5E2BE9567EC8,,"Fl. Ned. Ind. 2 (1856)","","61","1856",gcc-18705
+gcc-144704,A,Compositae,,Monenteles,,"verbascifolius",,"","F.Muell. ex Benth.",Unresolved,,L,TICA,3950EDE6-DC14-4657-B9BA-FEB6F3EEDDAF,132975-3,"","","","1867",

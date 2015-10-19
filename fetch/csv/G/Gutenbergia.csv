@@ -1,0 +1,64 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-31941,A,Compositae,,Gutenbergia,,"abyssinica",,"","Sch.Bip.",Unresolved,Invalid,L,TICA,31DC4D53-8064-4C30-A09A-3B2790E048DD,,"","","808","1849",
+gcc-133244,A,Compositae,,Gutenbergia,,"adenocarpa",,"","Wech.",Accepted,,M,TICA,ED064E64-2014-4EAC-BAEE-E5108A1A1B9F,,"","","106","1981",
+gcc-52531,A,Compositae,,Gutenbergia,,"araneosa",,"","S.Moore",Synonym,,M,TICA,72483A35-68B0-4B9C-B46E-615FBDFF0668,210773-1,"","","153","1900",gcc-99947
+gcc-99211,A,Compositae,,Gutenbergia,,"arenarioides",,"","Muschl.",Synonym,,M,TICA,0FF57A58-E5B0-45D9-995F-97D95AED0030,,"","","55","1911",gcc-142708
+gcc-90084,A,Compositae,,Gutenbergia,,"babatiensis",,"","C.Jeffrey",Accepted,,M,TICA,A3140DE6-6A94-4DD2-8621-8329F53CC27D,,"","","253","1988",
+gcc-10554,A,Compositae,,Gutenbergia,,"benguelensis",,"","Muschl.",Accepted,,M,TICA,CC11BF7C-30C3-4F2B-AADE-13B3DB498331,,"","","54","1911",
+gcc-139771,A,Compositae,,Gutenbergia,,"boranensis",,"","(S.Moore) M.G.Gilbert",Accepted,,M,TICA,DCB387EE-BD9A-457D-88FE-F37B8B1A771D,908819-1,"","","594","1981",
+gcc-153546,A,Compositae,,Gutenbergia,,"boranensis",var.,"boranensis","",Synonym,,L,TICA,6C0774CB-A288-4B73-AD16-B09772064213,,"","","","",gcc-139771
+gcc-49696,A,Compositae,,Gutenbergia,,"boranensis",var.,"major","Lanza",Synonym,,L,TICA,2BD822DB-730C-47AC-9714-5C1FD9667996,,"""Miss. Biol. Borana, Racc. Bot., Angiosp.-Gymnosp.: 244 (1939)""","","244","1939",gcc-139771
+gcc-152428,A,Compositae,,Gutenbergia,,"cordifolia",,"","Benth.",Unresolved,,L,TICA,86F4F2F3-8733-4003-B877-9963D3A04B82,,"","","","",
+gcc-99947,A,Compositae,,Gutenbergia,,"cordifolia",,"","Benth. ex Oliv.",Accepted,,M,TICA,4C41F04B-AD39-485C-B64A-997FEBEF93F7,,"Trans. Linn. Soc. London 29","","","1873",
+gcc-38575,A,Compositae,,Gutenbergia,,"cordifolia",var.,"cordifolia","",Synonym,,L,TICA,17FC600C-0AB5-4A75-9F85-4796A0DC94C6,,"","","","",gcc-99947
+gcc-38363,A,Compositae,,Gutenbergia,,"cordifolia",var.,"depauperata","(S.Moore) C.Jeffrey",Synonym,,L,TICA,C2895155-DB39-4CAB-A567-472D8D1CDFA3,,"","","252","1988",gcc-99947
+gcc-71279,A,Compositae,,Gutenbergia,,"cordifolia",var.,"fimbriata","O.Hoffm. & Muschl.",Synonym,,L,TICA,7E426B9F-BA78-4AA5-A1D0-F4F7CF803340,,"Bot. Jahrb. Syst. 46: 65 (1911)","","65","1911",gcc-139771
+gcc-68313,A,Compositae,,Gutenbergia,,"cordifolia",var.,"glanduliflora","(Wech.) C.Jeffrey",Accepted,,L,TICA,F8E5AA99-2025-4D8C-8B2B-DDD9BA7D4E4F,,"","","252","1988",
+gcc-65641,A,Compositae,,Gutenbergia,,"cordifolia",var.,"humilis","Cufod.",Synonym,,L,TICA,03CFEE8E-A788-4EC2-A4C8-C865C2C194AC,,"""Nuovo Giorn. Bot. Ital., n.s., 50: 101 (1943)""","","101","1943",gcc-139771
+gcc-57807,A,Compositae,,Gutenbergia,,"cordifolia",var.,"marginata","(O.Hoffm.) C.Jeffrey",Accepted,,L,TICA,287F3DD6-1F57-4370-B1E2-896907EBE333,,"","","252","1988",
+gcc-65440,A,Compositae,,Gutenbergia,,"cordifolia",var.,"pulchra","(B.L.Burtt) C.Jeffrey",Accepted,,L,TICA,966C6ECA-3B5F-4932-9727-C6C8C00ABC7A,,"","","253","1988",
+gcc-128909,A,Compositae,,Gutenbergia,,"cupricola",,"","Robyns",Synonym,,M,TICA,2A94E2B7-A055-4C72-AC22-DB19B3A25EBE,,"Natuurk. Tijdschr. Ned.-Indië 14(Congr. Num.): 102 (1932)","","102","1932",gcc-129255
+gcc-138182,A,Compositae,,Gutenbergia,,"cuprophila",,"","P.A.Duvign.",Synonym,,M,TICA,8B4A12D7-9E5F-4943-8BDB-F00DA2E7E066,210777-1,"","","116","1963",gcc-129255
+gcc-31898,A,Compositae,,Gutenbergia,,"elgonensis",,"","R.E.Fr.",Synonym,,M,TICA,626DE1A9-51CF-4052-B83D-3B17442CA285,,"","","111","1929",gcc-142708
+gcc-126440,A,Compositae,,Gutenbergia,,"eylesii",,"","(S.Moore) Wild & G.V.Pope",Accepted,,M,TICA,A35F1BF3-817F-4485-8930-D554C576CF48,210779-1,"","","314","1977",
+gcc-66547,A,Compositae,,Gutenbergia,,"eylesii",subsp.,"eylesii","",Synonym,,L,TICA,43BDF75B-70AD-44C0-A8F2-CF9E64AAAC0C,,"","","","",gcc-126440
+gcc-135433,A,Compositae,,Gutenbergia,,"filifolia",,"","(R.E.Fr.) C.Jeffrey",Synonym,,M,TICA,7015CA7D-EA2F-43E9-85B4-E9FFEFC34198,,"","","254","1988",gcc-111272
+gcc-110634,A,Compositae,,Gutenbergia,,"fischeri",,"","R.E.Fr.",Synonym,,M,TICA,472DEEEE-474F-4EDE-B211-B154248962CA,,"","","111","1929",gcc-54408
+gcc-83322,A,Compositae,,Gutenbergia,,"foliosa",,"","O.Hoffm.",Synonym,,M,TICA,0DB37CC7-78C3-4C18-90C7-7403DE62295A,210781-1,"","","462","1897",gcc-81941
+gcc-94617,A,Compositae,,Gutenbergia,,"fruticosa",,"","(O.Hoffm.) C.Jeffrey",Accepted,,M,TICA,470EE0D7-D6E8-478D-8C16-8D6A1DAF51D0,,"","","251","1988",
+gcc-142565,A,Compositae,,Gutenbergia,,"gilbertii",,"","C.Jeffrey",Accepted,,M,TICA,A716FAC0-4C29-4D4D-AED2-F9DFCB8B5FBE,,"","","251","1988",
+gcc-100811,A,Compositae,,Gutenbergia,,"glanduliflora",,"","Wech.",Synonym,,M,TICA,AEE4CE15-603F-49EB-AA42-9B79D6D9191E,,"","","108","1981",gcc-68313
+gcc-1795,A,Compositae,,Gutenbergia,,"gossweileri",,"","S.Moore",Accepted,,M,TICA,84E0866D-1291-4030-A4CD-033A116E9809,210782-1,"","","257","1925",
+gcc-131155,A,Compositae,,Gutenbergia,,"gracilis",,"","Muschl. ex S.Moore",Synonym,,M,TICA,F4D409F3-B09E-4F65-BF91-E03B0CBA1203,210784-1,"","","204","1918",gcc-37331
+gcc-110048,A,Compositae,,Gutenbergia,,"kassneri",,"","S.Moore",Accepted,,M,TICA,1A5B2400-C99B-4B55-813F-AFFFBA214F87,,"","","","1918",
+gcc-49912,A,Compositae,,Gutenbergia,,"kassneri",var.,"kassneri","",Synonym,,L,TICA,52D10C29-BE9E-485C-8C44-5C869FA37A69,,"","","","",gcc-110048
+gcc-37331,A,Compositae,,Gutenbergia,,"leiocarpa",,"","O.Hoffm.",Accepted,,M,TICA,AE47979F-17D3-406C-B30D-452E06137C48,210786-1,"","","402","1895",
+gcc-149887,A,Compositae,,Gutenbergia,,"leiocarpa",var.,"leiocarpa","",Synonym,,L,TICA,B3EEBB00-097A-45E4-BDA6-62522CF02ABD,,"","","","",gcc-37331
+gcc-26918,A,Compositae,,Gutenbergia,,"leiocarpa",var.,"longipedicellata","Wech.",Synonym,,L,TICA,C8BDD9D5-41DB-4F0E-849E-31C698F04567,,"","","109","1981",gcc-37331
+gcc-57907,A,Compositae,,Gutenbergia,,"leiocarpa",var.,"microcarpa","Wech.",Synonym,,L,TICA,D9899A46-CF1A-42DF-9D44-8A4210A9580A,,"","","110","1981",gcc-37331
+gcc-107573,A,Compositae,,Gutenbergia,,"longipedicellata",,"","Wech.",Accepted,,M,TICA,DFC1B859-70BC-4533-BA7F-AA5CF478D095,,"Bull. Jard. Bot. Nat. Belg. 51: ???? 1981.","","","1981",
+gcc-133052,A,Compositae,,Gutenbergia,,"longipes",,"","Steetz",Synonym,,M,TICA,B52F7409-129C-4D58-A810-E4A330337D3D,210787-1,"","","349","1864",gcc-23664
+gcc-149579,A,Compositae,,Gutenbergia,,"longipes",var.,"longipes","",Synonym,,L,TICA,F4A82D3E-E5B6-4433-9F3E-5C1A205E4791,,"","","","",gcc-23664
+gcc-22955,A,Compositae,,Gutenbergia,,"longipes",var.,"membranifolia","Steetz",Synonym,,L,TICA,B9216BB3-8EB3-4102-AC14-2A7E994964F1,,"","","","",gcc-23664
+gcc-94869,A,Compositae,,Gutenbergia,,"macrocephala",,"","Oliv. & Hiern",Synonym,,M,TICA,EAB3EACD-71B2-452B-A47B-8E03F7EDD5C7,210788-1,"","","264","1877",gcc-79971
+gcc-32957,A,Compositae,,Gutenbergia,,"marginata",,"","(O.Hoffm.) Wild & G.V.Pope",Synonym,,M,TICA,AFEDC285-C805-4929-B95D-3D1D3D20D390,,"","","","1977",gcc-99947
+gcc-113014,A,Compositae,,Gutenbergia,,"mweroensis",,"","Wild & G.V.Pope",Accepted,,M,TICA,CCCC7DEC-3A54-448F-B15B-B6B3DE7DB2B5,210790-1,"","","312","1977",
+gcc-10560,A,Compositae,,Gutenbergia,,"nigritiana",,"","(Benth.) Oliv. & Hiern",Synonym,,M,TICA,5C11617D-1136-41AC-92AB-13B9638A0445,210791-1,"","","264","1877",gcc-34464
+gcc-4770,A,Compositae,,Gutenbergia,,"nivea",,"","Hutch. & B.L.Burtt",Accepted,,M,TICA,7741607C-30C6-413C-B74E-08E0FD29E4A3,,"Rev. Zool. Bot. Africaines 23: 36 (1932)","","36","1932",
+gcc-44900,A,Compositae,,Gutenbergia,,"oppositifolia",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,259D558D-2FAF-4109-BC3F-53365A2A54AC,,"","","56","1911",
+gcc-118317,A,Compositae,,Gutenbergia,,"pembensis",,"","S.Moore",Accepted,,M,TICA,F90BF5FD-8CE7-4BAD-A489-C2A9EDF4B335,210793-1,"","","339","1902",
+gcc-124151,A,Compositae,,Gutenbergia,,"petersii",,"","Steetz",Accepted,,M,TICA,37DD459F-0F94-49A2-8E14-D003293B13D7,210794-1,"","","348","1864",
+gcc-132074,A,Compositae,,Gutenbergia,,"polycephala",,"","Oliv. & Hiern",Accepted,,M,TICA,6012C21A-0F70-4C34-9943-E26AB55C0374,210795-1,"","","95","1876",
+gcc-6738,A,Compositae,,Gutenbergia,,"polytrichomata",,"","Wech.",Accepted,,M,TICA,28007B7C-6035-4A94-AF79-0C7FD0DE049E,,"","","107","1981",
+gcc-115699,A,Compositae,,Gutenbergia,,"polytrichotoma",,"","Wech.",Accepted,,M,TICA,F7E7F05E-F420-4077-92DC-BCC96C424F51,,"","","107","1981",
+gcc-129255,A,Compositae,,Gutenbergia,,"pubescens",,"","(S.Moore) C.Jeffrey",Accepted,,M,TICA,B37A70BF-7093-4D41-AEC1-DBE17E5CF856,,"","","255","1988",
+gcc-95198,A,Compositae,,Gutenbergia,,"pumila",,"","Chiov.",Accepted,,M,TICA,6E5A231D-07B3-4FED-85F3-8EBA87B011C0,,"","","","1916",
+gcc-25691,A,Compositae,,Gutenbergia,,"rangei",,"","Muschl. ex Dinter",Synonym,Invalid,M,TICA,20BC896D-C8EB-473A-BBD0-2F75C7444C58,,"","","","",gcc-43514
+gcc-142708,A,Compositae,,Gutenbergia,,"rueppellii",,"","Sch.Bip.",Accepted,,M,TICA,ABD19F5E-94A6-4491-A919-FA3A476E792F,,"","","","1840",
+gcc-54408,A,Compositae,,Gutenbergia,,"rueppellii",var.,"fischeri","(R.E.Fr.) C.Jeffrey",Accepted,,L,TICA,E97C25AE-A202-412D-B8C1-6DCF4D2C06CB,,"","","254","1988",
+gcc-4164,A,Compositae,,Gutenbergia,,"rueppellii",var.,"rueppellii","",Synonym,,L,TICA,7DE19E7D-1C40-4532-BE3C-07BEBEB3A0D8,,"","","","",gcc-142708
+gcc-108574,A,Compositae,,Gutenbergia,,"somalensis",,"","(O.Hoffm.) M.G.Gilbert",Accepted,,M,TICA,BF86DD51-D32F-4EA4-B170-AC97D60F20AA,908820-1,"","","595","1981",
+gcc-12532,A,Compositae,,Gutenbergia,,"spermacoceoides",,"","Wild & G.V.Pope",Accepted,,M,TICA,239BA142-1F86-4C5C-AF7B-17589FC4EE08,210798-1,"","","312","1977",
+gcc-75375,A,Compositae,,Gutenbergia,,"tenuis",,"","S.Moore",Synonym,,M,TICA,899B479F-1D1C-48EB-8998-624C75A931A0,210799-1,"","","258","1925",gcc-37331
+gcc-15479,A,Compositae,,Gutenbergia,,"trifolia",,"","Wild & G.V.Pope",Accepted,,M,TICA,35FCA7E3-4062-4B3B-B6B3-1CAA3AD63D43,210800-1,"","","313","1977",
+gcc-102446,A,Compositae,,Gutenbergia,,"westii",,"","(Wild) Wild & G.V.Pope",Accepted,,M,TICA,8CCE9E20-4575-4C90-A35A-9F25624F24EE,210801-1,"","","314","1977",

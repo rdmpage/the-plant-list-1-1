@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2807611,G,Podocarpaceae,,Falcatifolium,,"angustum",,"","de Laub.",Accepted,,H,WCSP,385367,687975-1,"J. Arnold Arbor.","50: 312","","1969",
+tro-25600163,G,Podocarpaceae,,Falcatifolium,,"falcatum",,"","de Laub.",Unresolved,,L,TRO,25600163,,"","","","",
+kew-2807612,G,Podocarpaceae,,Falcatifolium,,"falciforme",,"","(Parl.) de Laub.",Accepted,,H,WCSP,385368,687976-1,"J. Arnold Arbor.","50: 309","","1969",
+kew-2807613,G,Podocarpaceae,,Falcatifolium,,"falciforme",var.,"kinabaluensis","Silba",Synonym,,L,WCSP,385369,,"J. Int. Conifer Preserv. Soc.","7: 24","","2000",kew-2807612
+kew-2807614,G,Podocarpaceae,,Falcatifolium,,"falciforme",var.,"usan-apuensis","de Laub. & Silba",Synonym,,L,WCSP,385370,951444-1,"Phytologia","68: 32","","1990",kew-2807612
+kew-2807615,G,Podocarpaceae,,Falcatifolium,,"gruezoi",,"","de Laub.",Accepted,,H,WCSP,385371,935584-1,"in Fl. Males.","10: 373","","1988",
+kew-2807616,G,Podocarpaceae,,Falcatifolium,,"papuanum",,"","de Laub.",Accepted,,H,WCSP,385372,687977-1,"J. Arnold Arbor.","50: 312","","1969",
+kew-2807617,G,Podocarpaceae,,Falcatifolium,,"sleumeri",,"","de Laub. & Silba",Accepted,,H,WCSP,385373,936128-1,"Phytologia","65: 329","","1988",
+kew-2807618,G,Podocarpaceae,,Falcatifolium,,"taxoides",,"","(Brongn. & Gris) de Laub.",Accepted,,H,WCSP,385374,687978-1,"J. Arnold Arbor.","50: 310","","1969",
+kew-2807619,G,Podocarpaceae,,Falcatifolium,,"usan-apuensis",,"","(de Laub. & Silba) de Laub. & Silba",Synonym,Invalid,H,WCSP,385375,948178-1,"Phytologia","68: 512","","1990",kew-2807612

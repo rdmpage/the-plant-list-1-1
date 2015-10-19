@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9011,A,Compositae,,Glossarion,,"bilabiatum",,"","(Maguire) Pruski",Accepted,,M,TICA,A51891F8-2DD8-4683-8A71-10DE626C77D0,277558-2,"Brittonia 41","","39","1989",
+gcc-23676,A,Compositae,,Glossarion,,"rhodanthum",,"","Maguire & Wurdack",Accepted,,M,TICA,5FA760F4-9E68-415B-ABC5-2BC5AC4FA567,110898-2,"Mem. New York Bot. Gard. 9","","390","1957",
+gcc-11214,A,Compositae,,Glossarion,,"rhodanthum",var.,"bracteatum","Maguire",Synonym,,L,TICA,81D4D4E4-B809-4D0C-B716-14F4C66794B8,110899-2,"","","439","1967",gcc-23676
+gcc-151132,A,Compositae,,Glossarion,,"rhodanthum",var.,"rhodanthum","",Synonym,,L,TICA,CFDC2563-B6F3-47C4-B703-7E79C88D622A,,"","","","",gcc-23676

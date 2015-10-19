@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117801,A,Compositae,,Petradoria,,"discoidea",,"","L.C.Anderson",Synonym,,M,TICA,4CE5C87A-F10D-4C38-8920-C17B07546DFF,,"in Trans. Kansas Acad. Sci. lxvi. 676 (1964).","","","1964",gcc-138202
+gcc-79906,A,Compositae,,Petradoria,,"graminea",,"","Wooton & Standl.",Synonym,,L,TICA,B8CD5DF3-214A-4CBD-B745-6C63AA05EEDD,191193-2,"","","183","1913",gcc-11334
+gcc-36439,A,Compositae,,Petradoria,,"pumila",,"","(Nutt.) Greene",Accepted,,M,TICA,3BA8933F-8819-4B63-B6C2-439384D3B1C1,191194-2,"","","13","1895",
+gcc-11334,A,Compositae,,Petradoria,,"pumila",var.,"graminea","(Wooton & Standl.) S.L.Welsh",Accepted,,L,TICA,B14FC52D-14E8-445F-B1C5-1530D6B6C2E1,951980-1,"Great Basin Naturalist 43(2):","","324","1983",
+gcc-17682,A,Compositae,,Petradoria,,"pumila",subsp.,"graminea","L.C.Anderson",Synonym,,L,TICA,221EC3C3-5570-49A8-95C9-20A32FE7587D,,"Transactions of the Kansas Academy of Science 66:","","682","1964",gcc-11334
+gcc-31371,A,Compositae,,Petradoria,,"pumila",subsp.,"pumila","",Synonym,,L,TICA,6D076399-15BE-4DE6-B384-3A1A94AC86A4,,"","","","",gcc-36439
+gcc-70353,A,Compositae,,Petradoria,,"pumila",var.,"pumila","",Synonym,,L,TICA,A590B1EB-B7AA-4EDD-8620-ED70917A0F25,,"","","","",gcc-36439

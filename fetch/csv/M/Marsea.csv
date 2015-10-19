@@ -1,0 +1,36 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115247,A,Compositae,,Marsea,,"aegyptiaca",,"","(L.) Hiern",Synonym,,M,TICA,38E68D1C-730C-48A6-AB54-BBB611C2547E,231726-1,"Cat. Afr. Pl. (Hiern) i. 550","","550","",gcc-128932
+gcc-143826,A,Compositae,,Marsea,,"artemisiaefolia",,"","(Meyen & Walp.) Kuntze",Synonym,,L,TICA,BB675E24-258E-4BBA-9758-FCBD83E539B6,231727-1,"","","546","1898",gcc-100486
+gcc-42118,A,Compositae,,Marsea,,"bonariensis",,"","(L.) V.M.Badillo",Synonym,,M,TICA,B70BB666-E1AA-481E-940A-4E07D76F1664,,"Bol. Soc. Venez. Ci. Nat. 10","","260","1946",gcc-32032
+gcc-146353,A,Compositae,,Marsea,,"bonariensis",var.,"bonariensis","",Synonym,,L,TICA,6A505A73-BD5C-448F-A8BD-16E3054CD228,,"","","","",gcc-32032
+gcc-20729,A,Compositae,,Marsea,,"bonariensis",var.,"leiotheca","(S.F.Blake) V.M.Badillo",Synonym,,L,TICA,CF76B04E-0E9B-4A73-AC3F-2656A67F296D,153629-2,"Bol. Soc. Venez. Ci. Nat. 10","","256","1946",gcc-120553
+gcc-368,A,Compositae,,Marsea,,"boranensis",,"","S.Moore",Synonym,,M,TICA,0935126E-5B39-482A-A8B1-00A81463208B,231729-1,"""J. Linn. Soc., Bot. xxxv. 328.""","","328","1902",gcc-128162
+gcc-142825,A,Compositae,,Marsea,,"canadensis",,"","(L.) V.M.Badillo",Synonym,,M,TICA,46054DD5-BD39-47B6-B5DB-FA84F3060259,153630-2,"Bol. Soc. Venez. Ci. Nat. 10","","256","1946",gcc-115400
+gcc-103042,A,Compositae,,Marsea,,"capillipes",,"","S.Moore",Unresolved,,L,TICA,1BABC41E-6EDB-4C78-9E87-A06AF91D2664,231731-1,"""in Journ. Bot. 1904, 37.""","","37","1904",
+gcc-133042,A,Compositae,,Marsea,,"celebris",,"","S.Moore",Synonym,,M,TICA,5FEE64D4-98F6-41D9-A761-E49EA0C79DE4,,"""J. Linn. Soc., Bot. xxxv. 329.""","","329","",gcc-114666
+gcc-2590,A,Compositae,,Marsea,,"chilensis",,"","(Spreng.) Kuntze",Synonym,,M,TICA,9EB3F980-66A3-4C0E-A811-04BF3E420717,231733-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",gcc-12546
+gcc-94253,A,Compositae,,Marsea,,"chilensis",,"","(Spreng.) V.M.Badillo",Synonym,Illegitimate,M,TICA,A0F03DAB-607D-44B7-9C9C-8C9028EC8F28,153631-2,"Bol. Soc. Venez. Ci. Nat. 10","","257","1946",gcc-12546
+gcc-98527,A,Compositae,,Marsea,,"cordata",,"","Kuntze",Unresolved,,L,TICA,92FBDC72-46C7-44C2-B89B-9658C343BD38,231735-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-110591,A,Compositae,,Marsea,,"gnaphaliodes",,"","Kuntze",Unresolved,,L,TICA,ECE8AE5D-4046-44F3-9459-B13EFA474532,231736-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-17121,A,Compositae,,Marsea,,"gnaphalioides",,"","(Kunth) V.M.Badillo",Synonym,,M,TICA,76EBAD61-A209-4324-892C-1FA2E1113A70,,"","","","1946",gcc-140692
+gcc-39633,A,Compositae,,Marsea,,"gouanii",,"","Hiern",Unresolved,,L,TICA,0872A672-8EB4-41E6-A2B6-498D5C4B11EA,231738-1,"Cat. Afr. Pl. (Hiern) i. 552","","552","",
+gcc-27599,A,Compositae,,Marsea,,"ivifolia",,"","Kuntze",Unresolved,,L,TICA,09BB38B4-9789-4AB5-8B16-33023D0DCCDA,231739-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-100202,A,Compositae,,Marsea,,"lyrata",,"","Kuntze",Unresolved,,L,TICA,6C04C713-D2C3-4254-A248-9A11F3BEAEB7,231740-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-107135,A,Compositae,,Marsea,,"mima",,"","(S.F.Blake) V.M.Badillo",Unresolved,,L,TICA,1AA82105-A370-41EA-96F6-A9686DC2B4FB,,"","","","1946",
+gcc-4684,A,Compositae,,Marsea,,"notobellidiastrum",,"","(Griseb.) Kuntze",Synonym,,M,TICA,B79B144B-FCA1-446F-B065-08B2F8B028A2,231742-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",gcc-81425
+gcc-130027,A,Compositae,,Marsea,,"obscura",,"","Kuntze",Unresolved,,L,TICA,47450608-AE87-432D-AA32-DD9DF38327D8,231743-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-89808,A,Compositae,,Marsea,,"persicifolia",,"","Hiern",Unresolved,,L,TICA,2FB8FD76-2E74-45A9-8AC1-8296BB089636,231744-1,"Cat. Afr. Pl. (Hiern) i. 550","","550","",
+gcc-115102,A,Compositae,,Marsea,,"pinnata",,"","Kuntze",Unresolved,,L,TICA,9885476F-6503-435F-899D-BB5B68EED688,231745-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-39085,A,Compositae,,Marsea,,"podocephala",,"","Kuntze",Unresolved,,L,TICA,BD2E7D7C-EF40-478C-8A12-4885C00F9869,231746-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-89103,A,Compositae,,Marsea,,"pyrrhopappa",,"","(Sch.Bip. ex A.Rich.) Hiern",Synonym,,L,TICA,D0CB7245-61C0-4386-A917-80F1506299F9,,"Cat. Afr. Pl. (Hiern) i. 552","","552","1898",gcc-112229
+gcc-39154,A,Compositae,,Marsea,,"ruwenzoriensis",,"","S.Moore",Synonym,,M,TICA,7F906E80-691F-474D-AE76-48A4D3358279,231748-1,"""J. Linn. Soc., Bot. xxxv. 327.""","","327","1902",gcc-119289
+gcc-12794,A,Compositae,,Marsea,,"sophiaefolia",,"","(Kunth) Kuntze",Synonym,,M,TICA,912573B0-3CFC-4015-9E59-17D61BFDE394,231749-1,"","","546","1898",gcc-33833
+gcc-84230,A,Compositae,,Marsea,,"sophiaefolia",,"","(Kunth) V.M.Badillo",Synonym,Illegitimate,M,TICA,221EC298-78F3-4F1D-8068-7612900D3A45,153634-2,"Bol. Soc. Venez. Ci. Nat. 10","","256","1946",gcc-33833
+gcc-157273,A,Compositae,,Marsea,,"sophiifolia",,"","(Kunth) V.M.Badillo",Synonym,,M,TICA,A7F28B5A-D059-40A8-B4D9-FE7A71F5B518,1201343-2,"","","","",gcc-33833
+gcc-84750,A,Compositae,,Marsea,,"spartioides",,"","(O.Hoffm.) Hiern",Synonym,,M,TICA,81C84615-D006-419F-81F4-773675BF98C9,231751-1,"Cat. Afr. Pl. (Hiern) i. 551","","551","",gcc-90928
+gcc-42333,A,Compositae,,Marsea,,"spathulata",,"","(Vahl ex Vahl) V.M.Badillo",Synonym,,L,TICA,AE23FF20-34C5-44C7-B272-4E6A9DA33B34,231752-1,"","","257","1946",gcc-114491
+gcc-142962,A,Compositae,,Marsea,,"stricta",,"","(Willd.) Hiern",Synonym,,M,TICA,1ED8F199-20E7-4C8D-AE3A-FAD5FA4521D4,,"Cat. Afr. Pl. (Hiern) i. 552","","552","1898",gcc-25980
+gcc-89041,A,Compositae,,Marsea,,"ulmifolia",,"","Kuntze",Unresolved,,L,TICA,F5E68ED8-A5AF-4120-8C94-80C5A7295C80,231754-1,"Revis. Gen. Pl. 3[3]: 546","","546","1898",
+gcc-39352,A,Compositae,,Marsea,,"variegata",,"","(Sch.Bip. ex A.Rich.) S.Moore",Synonym,,M,TICA,395BFE7A-F6CA-4D54-ACCC-490B8132BB18,,"","","","",gcc-15330
+gcc-132788,A,Compositae,,Marsea,,"viscosa",,"","Britten",Unresolved,,L,TICA,76683051-AD6B-4348-892D-E40D860EC92E,231755-1,"""in Journ. Bot. 1898, xxxvi. 53, in adnot.;.""","","""xxxvi. 53, in adnot.""","1898",
+gcc-122148,A,Compositae,,Marsea,,"volkensii",,"","S.Moore",Unresolved,,L,TICA,F736037B-CC4A-4F03-8A8D-CB5FB4D65A6A,231756-1,"""in Journ. Bot. 1903, 156.""","","156","1903",

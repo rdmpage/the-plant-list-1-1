@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33002,A,Compositae,,Herderia,,"filifolia",,"","R.E.Fr.",Synonym,,M,TICA,75A43C22-DC1E-4554-8FA6-3D33BB1D1C1A,213851-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 327 (1916)","","327","1916",gcc-111272
+gcc-125536,A,Compositae,,Herderia,,"lancifolia",,"","O.Hoffm.",Synonym,,M,TICA,406EE884-F602-414B-A69D-D346CF8C1CE8,,"","","","",gcc-48417
+gcc-77046,A,Compositae,,Herderia,,"lancifolia",,"","O.Hoffm. ex T.Durand & De Wild.",Unresolved,,L,TICA,6F3CA109-2C1C-457F-9EAB-65FA0ECD1D29,213852-1,"in Bull. Soc. Bot. Belg. xl. 22.","","xl. 22","",
+gcc-112818,A,Compositae,,Herderia,,"nyiroensis",,"","Buscal. & Muschl.",Synonym,,M,TICA,3296BE20-5553-4542-8B3F-B64C139C5A9A,213853-1,"Bot. Jahrb. Syst. xlix. 513 (1913).","","xlix. 513","1913",gcc-108574
+gcc-19020,A,Compositae,,Herderia,,"somalensis",,"","O.Hoffm.",Synonym,,M,TICA,2DF18CDF-925B-4D73-BF18-231EC03261BD,,"Bot. Jahrb. Syst. xxxviii. 199 (1906).","","","1906",gcc-108574
+gcc-37920,A,Compositae,,Herderia,,"stellulifera",,"","Benth.",Synonym,,M,TICA,6511163F-1915-4E99-AC03-4654C8D89720,213855-1,"in Hook. Niger Fl. 425.","","425","1849",gcc-12462
+gcc-102568,A,Compositae,,Herderia,,"truncata",,"","Cass.",Accepted,,M,TICA,BE853754-34F2-4A39-B5F0-9F6F412C9CBC,,"in Dict. Sci. Nat. lx. 586.","","","1830",
+gcc-66569,A,Compositae,,Herderia,,"truncata",var.,"chevalieri","O.Hoffm.",Synonym,,L,TICA,17D600EA-7105-4817-A75F-CFD025216A30,,"","","","1908",gcc-102568
+gcc-146954,A,Compositae,,Herderia,,"truncata",var.,"truncata","",Synonym,,L,TICA,B738F13C-B630-44B8-9B14-238ED76604A0,,"","","","",gcc-102568

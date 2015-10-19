@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9625,A,Compositae,,Jurinella,,"absinthifolia",,"","Jaub. & Spach",Unresolved,,L,TICA,1320CBE7-BD52-4833-9EC1-11F74859C7F3,227148-1,"Illustr. ii. 103. t. 185 (1846).","","ii. 103. t. 185","1846",
+gcc-78491,A,Compositae,,Jurinella,,"aucheri",,"","Jaub. & Spach",Unresolved,,L,TICA,1F2FA3D6-CD15-4294-BF21-694BADA771B0,227149-1,"Illustr. ii. 101. t. 183 (1846).","","ii. 101. t. 183","1846",
+gcc-22008,A,Compositae,,Jurinella,,"chamaecynara",,"","Jaub. & Spach",Unresolved,,L,TICA,696D2334-4FFD-41D7-82E4-28B621112CAF,227150-1,"Illustr. ii. 102. t. 184 (1846).","","ii. 102. t. 184","1846",
+gcc-129460,A,Compositae,,Jurinella,,"frigida",,"","(Boiss.) Wagenitz",Accepted,,M,TICA,B6FB0B0D-27D0-4674-BFA9-DC4E58EDE2BE,227151-1,"""in Fl.Iran., 139a: 214 (1979).""","","214","1979",
+gcc-133397,A,Compositae,,Jurinella,,"macrocephala",,"","(Royle) Aswal & Goel",Unresolved,,L,TICA,1146D3F1-F86A-4BD3-A12B-E56A904404C3,946610-1,"""in Indian J. Forest., 11(4): 339 (1988 publ. 1989):""","","339","1989",gcc-47468
+gcc-98981,A,Compositae,,Jurinella,,"microcephala",,"","(Boiss.) Wagenitz",Synonym,,M,TICA,56785110-6E8D-4909-8E26-975609485D5E,227152-1,"""in Fl. Iran., 139a: 213(1979).""","","213","1979",gcc-79118
+gcc-118555,A,Compositae,,Jurinella,,"moschus",,"","(Habl.) Bobrov",Synonym,,M,TICA,4CEA9F46-9DB8-4FB4-B991-C3397E8F1FEC,,"","","580","1962",gcc-22374
+gcc-153209,A,Compositae,,Jurinella,,"moschus",subsp.,"moschus","",Synonym,,L,TICA,07332D30-4721-4D68-A540-A988CA51F009,,"","","","",gcc-22374
+gcc-68452,A,Compositae,,Jurinella,,"moschus",subsp.,"pinnatisecta","(Boiss.) Danin & P.H.Davis",Synonym,,L,TICA,22A96FC5-2D99-49F5-9704-DEF4AC0A93F0,877519-1,"","","432","1975",gcc-26790
+gcc-131222,A,Compositae,,Jurinella,,"squarrosa",,"","(Fisch. & C.A.Mey.) Iljin",Synonym,,M,TICA,46B1A11D-7764-4A59-8FFE-E064B1E9FF6F,227154-1,"","","707","1962",gcc-1572
+gcc-78308,A,Compositae,,Jurinella,,"subacaulis",,"","(Fisch. & C.A.Mey.) Iljin",Synonym,,M,TICA,E5533D9C-DCE2-4904-BD5F-68D8E80BF4FE,227155-1,"","","706","1962",gcc-26790

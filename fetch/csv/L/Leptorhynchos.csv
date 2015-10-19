@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113139,A,Compositae,,Leptorhynchos,,"ambiguus",,"","(Turcz.) Benth.",Synonym,,M,TICA,EEB1B9A0-F785-42D0-8A12-B6F9C3D8C15A,229828-1,"","","609","1867",gcc-142135
+gcc-151294,A,Compositae,,Leptorhynchos,,"ambiguus",var.,"ambiguus","",Synonym,,L,TICA,0F67622F-861D-4B2F-ACEB-817D6C43DF3E,,"","","","",gcc-142135
+gcc-55116,A,Compositae,,Leptorhynchos,,"ambiguus",var.,"semicalvus","(F.Muell.) Benth.",Synonym,,L,TICA,16A78977-9957-436A-8E72-737FCAE5F09A,63918-3,"Flora Australiensis 3  1867","","3","1867",gcc-142135
+gcc-111418,A,Compositae,,Leptorhynchos,,"aureus",,"","Benth.",Unresolved,,L,TICA,E2C529EC-1CF3-454E-8EA8-B310824AD475,229829-1,"","","64","1837",
+gcc-5888,A,Compositae,,Leptorhynchos,,"baileyi",,"","F.Muell.",Accepted,,M,TICA,21EACB8A-0A6F-4412-8F2F-0AF482BAEC60,63961-3,"Fragmenta Phytographiae Australiae 10  1877","","101","1877",
+gcc-17191,A,Compositae,,Leptorhynchos,,"citrinus",,"","Benth.",Synonym,,L,TICA,EF22E031-C056-460A-A307-1FC70A72584B,229831-1,"","","64","1837",gcc-110105
+gcc-99442,A,Compositae,,Leptorhynchos,,"elongatus",,"","DC.",Accepted,,M,TICA,8FAD4136-224A-46C3-8536-985F8FBCB8AE,229832-1,"","","160","1838",
+gcc-68419,A,Compositae,,Leptorhynchos,,"elongatus",var.,"elongatus","",Synonym,,L,TICA,274A5E8F-9135-4959-9263-DEB3FF0E3344,64042-3,"Linnaea 25  1853","","25","1853",gcc-99442
+gcc-66136,A,Compositae,,Leptorhynchos,,"elongatus",var.,"peduncularis","Benth.",Synonym,,L,TICA,410C4CA5-6FDC-48A9-8C87-CC54E18FAB53,64053-3,"Flora Australiensis 3  1867","","3","1867",gcc-12028
+gcc-127266,A,Compositae,,Leptorhynchos,,"gatesii",,"","J.H.Willis",Synonym,,M,TICA,42BDA348-9A4E-44C6-A763-D73C28CB1403,229833-1,"","","200","1957",gcc-137954
+gcc-5229,A,Compositae,,Leptorhynchos,,"gracilis",,"","Walp.",Unresolved,,L,TICA,1DDE2475-BAF8-4144-8C68-09C2ECCCDA27,229834-1,"Linnaea 14","","317","1840",
+gcc-32835,A,Compositae,,Leptorhynchos,,"hemisphaericus",,"","DC.",Unresolved,,L,TICA,B11F57A6-CE33-4B55-9489-3CE600A702B3,64200-3,"","","","1838",
+gcc-18133,A,Compositae,,Leptorhynchos,,"lhotskyanus",,"","Walp.",Unresolved,,L,TICA,DD1A773C-34B1-49EA-B65F-217DF2A6A84B,229836-1,"Linnaea 14","","317","1840",
+gcc-122927,A,Compositae,,Leptorhynchos,,"linearis",,"","Less.",Synonym,,M,TICA,9BA15158-162E-4279-8DC7-CD21C54BDBE2,229837-1,"","","273","1832",gcc-115061
+gcc-26608,A,Compositae,,Leptorhynchos,,"medius",,"","A.Cunn.",Unresolved,,L,TICA,AC3CEA18-4150-4A74-B48D-312C07D73086,229838-1,"Prodr. (DC.) 6: 160","","160","1838",
+gcc-49557,A,Compositae,,Leptorhynchos,,"medius",,"","A.Cunn. ex DC.",Synonym,,M,TICA,2018B4D3-3CE6-4106-BA1A-5BDC65DAF461,64274-3,"Prodromus 6  1838","","6","1838",gcc-12028
+gcc-96980,A,Compositae,,Leptorhynchos,,"melanocarpus",,"","Paul G.Wilson",Accepted,,M,TICA,0BE927FA-C62D-4517-8FF8-92CA923410C1,1018722-1,"Nuytsia 13(3): 608 (2001)","","608","2001",
+gcc-115061,A,Compositae,,Leptorhynchos,,"nitidulus",,"","DC.",Accepted,,M,TICA,73CE224F-F8AC-4E12-A9FC-BB444C23A05C,229839-1,"","","160","1838",
+gcc-62796,A,Compositae,,Leptorhynchos,,"nitidulus",var.,"nitidulus","",Synonym,,L,TICA,93AA3938-367E-491F-8FAF-B1A6F2C02536,64348-3,"Prodromus 6  1838","","6","1838",gcc-115061
+gcc-131444,A,Compositae,,Leptorhynchos,,"orientalis",,"","Paul G.Wilson",Accepted,,M,TICA,6C146EEE-FF6D-4119-AEB4-E0E3CAE77DA8,1018723-1,"","","609","2001",
+gcc-118668,A,Compositae,,Leptorhynchos,,"panaetioides",,"","(DC.) Benth.",Synonym,,L,TICA,8EDB72E1-A8A2-4DBD-9A9D-C37BD476A163,64357-3,"","","","1867",gcc-90107
+gcc-76154,A,Compositae,,Leptorhynchos,,"podolepis",,"","(Gaudich.) DC.",Unresolved,,L,TICA,EA1FC72E-38BC-4696-8276-64069B94F2EE,64389-3,"","","","1838",
+gcc-18097,A,Compositae,,Leptorhynchos,,"pulchellus",,"","F.Muell.",Unresolved,,L,TICA,A9584C52-B174-478C-BCC3-216DCB2827D2,,"Fragm. (Mueller) i. 53.","","53","",
+gcc-82827,A,Compositae,,Leptorhynchos,,"pulchellus",,"","F.Muell. ex Sond.",Synonym,,L,TICA,C1B99ADE-CBCE-4239-B34D-72EC1D64EF1C,64410-3,"Linnaea 25  1853","","25","1853",gcc-116355
+gcc-102412,A,Compositae,,Leptorhynchos,,"rhytidanthe",,"","DC.",Synonym,,M,TICA,3440760B-FE7D-4635-84C1-9F1323860BD6,64434-3,"Prodromus 6  1838","","6","1838",gcc-12028
+gcc-37072,A,Compositae,,Leptorhynchos,,"rhytidanthe",,"","Benth.",Unresolved,,L,TICA,61ECEF5D-BF0E-4262-BAAC-44B113DC325D,229843-1,"Prodr. (DC.) 6: 679","","679","1838",
+gcc-12028,A,Compositae,,Leptorhynchos,,"scaber",,"","(Benth.) Haegi",Accepted,,M,TICA,F6A18684-BA84-46A4-9BFE-1669CB73C84B,943502-1,"","","1558","1986",
+gcc-16306,A,Compositae,,Leptorhynchos,,"scabrus",,"","(Benth.) Haegi",Synonym,,M,TICA,122C2E01-BD07-48E9-9046-1E296B5EB770,,"","","","1986",gcc-12028
+gcc-135374,A,Compositae,,Leptorhynchos,,"squamatus",,"","(Labill.) Less.",Accepted,,M,TICA,42B496C2-B155-4972-A6F2-E9E615142055,229844-1,"","","273","1832",
+gcc-59698,A,Compositae,,Leptorhynchos,,"squamatus",subsp.,"squamatus","",Synonym,,L,TICA,77F50678-F8B2-469C-9774-98802B923AEC,,"","","","",gcc-135374
+gcc-10455,A,Compositae,,Leptorhynchos,,"suaveolens",,"","Benth.",Unresolved,,L,TICA,FA765696-E0D8-4D09-B4CC-1381C57D28D5,229845-1,"","","64","1837",
+gcc-99280,A,Compositae,,Leptorhynchos,,"tenuifolius",,"","F.Muell.",Accepted,,M,TICA,6ECAD1DF-0643-416E-9334-9808C8ED0ED5,229846-1,"","","52","1858",
+gcc-116355,A,Compositae,,Leptorhynchos,,"tetrachaetus",,"","(Schltdl.) J.M.Black",Accepted,,L,TICA,2BBB7BE6-A017-4423-97C1-BE392BCBF516,64543-3,"","","","1921",
+gcc-61607,A,Compositae,,Leptorhynchos,,"tetrachaetus",var.,"penicillatus","J.M.Black",Synonym,,L,TICA,016DF869-EEA9-4E55-B0FC-A7F689ED0F97,64567-3,"Transactions and Proceedings of the Royal Society of South Australia","","19","1921",gcc-5888
+gcc-10391,A,Compositae,,Leptorhynchos,,"tetrachaetus",var.,"tetrachaetus","",Synonym,,L,TICA,102D2DF3-0003-4502-A0B0-1368B5B913E5,64583-3,"Transactions and Proceedings of the Royal Society of South Australia","","19","1921",gcc-116355
+gcc-133426,A,Compositae,,Leptorhynchos,,"waitzia",,"","Sond.",Accepted,,M,TICA,396ABAC8-93DC-41BD-875C-E57A2C63D22E,229848-1,"","","501","1853",

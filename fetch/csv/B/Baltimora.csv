@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-36761,A,Compositae,,Baltimora,,"alata",,"","Meerb.",Unresolved,,L,TICA,8635C825-682B-4166-9CC6-4427FC4F4166,,"Afb.","","","",
+gcc-87772,A,Compositae,,Baltimora,,"alba",,"","Pers.",Synonym,,M,TICA,89E2D1A5-D6C3-4B64-B025-7DFAAA80A7EE,184077-1,"Syn. Pl. 2","","489","1807",gcc-134951
+gcc-24967,A,Compositae,,Baltimora,,"erecta",,"","Less.",Unresolved,Illegitimate,L,TICA,A5F36B3A-3A04-4C5A-B792-2E21E5B2005B,,"","","220","1832",
+gcc-85105,A,Compositae,,Baltimora,,"geminata",,"","(Brandegee) Stuessy",Accepted,,M,TICA,27C8CA21-7E95-474E-850F-77ED91964180,28847-2,"""Fieldiana, Bot. 36(5)""","","42","1973",
+gcc-37883,A,Compositae,,Baltimora,,"monocephala",,"","Klatt",Synonym,,M,TICA,AB328EF1-2B54-43B0-99B9-4643C8109B33,28848-2,"","","360","1894",gcc-23616
+gcc-99088,A,Compositae,,Baltimora,,"ovata",,"","Rusby",Synonym,,M,TICA,1B4ADA92-F4AE-43CE-BED5-9797032A3E57,28849-2,"","","151","1920",gcc-85105
+gcc-134951,A,Compositae,,Baltimora,,"recta",,"","L.",Accepted,,M,TICA,15C7FD9B-1FA7-492B-B32C-E8E589477FB6,28850-2,"Mant. Pl. 2","","288","1771",
+gcc-62400,A,Compositae,,Baltimora,,"recta",var.,"genuina","Hassl.",Synonym,,L,TICA,7644CE74-EEDD-4701-BD8F-AE7D5994525B,28851-2,"Repert. Spec. Nov. Regni Veg. 12","","370","1913",gcc-134951
+gcc-53402,A,Compositae,,Baltimora,,"recta",var.,"recta","",Synonym,,L,TICA,71A31836-AD06-4477-B6BC-65F123F4826E,,"","","","",gcc-134951
+gcc-62549,A,Compositae,,Baltimora,,"recta",var.,"scolospermum","(Steetz) Hass.",Synonym,,L,TICA,74F34808-0FE0-4006-AE15-AFB9D50322D3,,"Repert. Spec. Nov. Regni Veg. 12","","370","1913",gcc-134951
+gcc-44878,A,Compositae,,Baltimora,,"scabra",,"","Pohl ex Baker",Synonym,Illegitimate,M,TICA,BD8D7F25-68B7-4070-9C21-5326D53ABB90,,"","","258","1884",gcc-116652
+tro-50301998,A,Compositae,,Baltimora,,"sclopospermum",,"","Steetz",Unresolved,,L,TRO,50301998,,"Bot. Voy. Herald","154","154","",
+gcc-120222,A,Compositae,,Baltimora,,"scolopospermum",,"","Steetz ex Hemsl.",Unresolved,Illegitimate,L,TICA,EA31D76E-3209-4CD4-80E8-C6FE3F42A442,,"Biologia Centrali-Americana; . . . Botany . . . 2:","","144","1881",
+gcc-141002,A,Compositae,,Baltimora,,"scolospermum",,"","Steetz",Synonym,Illegitimate,M,TICA,8BE9209E-1286-4AEB-A149-F65E11B58936,184083-1,"The Botany of the Voyage of H.M.S. ~Herald~","","154","1854",gcc-134951
+gcc-43107,A,Compositae,,Baltimora,,"scolospermum",var.,"panamensis","Steetz",Synonym,,L,TICA,9FDA26D2-F5FF-47DE-93A5-4FDAB6914F0D,28854-2,"","","154","1854",gcc-134951
+gcc-152570,A,Compositae,,Baltimora,,"scolospermum",var.,"scolospermum","",Synonym,,L,TICA,E553E32C-C822-4EE1-894E-9C3F884BD998,,"","","","",gcc-134951
+gcc-118167,A,Compositae,,Baltimora,,"trinervata",,"","Moench",Synonym,Illegitimate,M,TICA,15ECB9AA-C4FE-45B7-B428-C24E0015D41C,184084-1,"","","592","1794",gcc-134951

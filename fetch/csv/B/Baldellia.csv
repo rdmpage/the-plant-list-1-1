@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-900312,A,Alismataceae,,Baldellia,,"alisma ranunculoides",,"","L.",Unresolved,,L,TRO,900312,,"","","","",
+tro-900313,A,Alismataceae,,Baldellia,,"echinodorus ranunculoides",,"","Engelm. ex Asch.",Unresolved,,L,TRO,900313,,"","","","",
+kew-300115,A,Alismataceae,,Baldellia,,"alpestris",,"","(Coss.) Laínz",Accepted,,H,WCSP,300115,58274-1,"Bol. Inst. Estud. Asturianos, Supl. Ci.","1: 35","","1960",
+kew-300116,A,Alismataceae,,Baldellia,,"ranunculoides",,"","(L.) Parl.",Accepted,,H,WCSP,300116,58276-1,"Nuov. Gen. Sp. Monocot.","58","","1854",
+kew-300117,A,Alismataceae,,Baldellia,,"ranunculoides",subsp.,"cavanillesii","Molina Abril, A.Galán, J.M.Pizarro & Sard.Rosc.",Synonym,,L,WCSP,300117,978690-1,"Anales Jard. Bot. Madrid","52: 120","","1994",kew-460646
+kew-300118,A,Alismataceae,,Baldellia,,"ranunculoides",var.,"repens","(Lam.) Gray",Synonym,,L,WCSP,300118,,"Nat. Arr. Brit. Pl.","2: 217","","1821",kew-300121
+kew-300119,A,Alismataceae,,Baldellia,,"ranunculoides",subsp.,"repens","(Lam.) Á.Löve & D.Löve",Synonym,,L,WCSP,300119,77083901-1,"Bot. Not.","114: 49","","1961",kew-300121
+kew-300120,A,Alismataceae,,Baldellia,,"ranunculoides",f.,"repens","(Lam.) Markgr.",Synonym,,L,WCSP,300120,921814-1,"Ill. Fl. Mitt.-Eur.","ed. 3, 1(2): 162","","1981",kew-300121
+kew-300121,A,Alismataceae,,Baldellia,,"repens",,"","(Lam.) Ooststr.",Accepted,,H,WCSP,300121,77108639-1,"Bull. Jard. Bot. État","29: 7","","1959",
+kew-460646,A,Alismataceae,,Baldellia,,"repens",subsp.,"cavanillesii","(Molina Abril, A.Galán, J.M.Pizarro & Sard.Rosc.) Talavera",Accepted,,L,WCSP,460646,77108640-1,"Acta Bot. Malac.","33: 313","","2008",
+kew-460644,A,Alismataceae,,Baldellia,,"repens",subsp.,"repens","",Synonym,,L,WCSP,460644,,"Unknown","","","",kew-300121

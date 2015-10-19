@@ -1,0 +1,47 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112393,A,Compositae,,Euthamia,,"bracteata",,"","(Bush) Bush",Unresolved,,L,TICA,14475E5C-7753-4601-AB96-B55362B0924C,102418-2,"Amer. Midl. Naturalist 5","","172","1918",
+gcc-130960,A,Compositae,,Euthamia,,"californica",,"","Gand.",Synonym,,M,TICA,79FA70D4-6A2E-40D0-AD0C-DFC61B0B5EEE,102419-2,"Bull. Soc. Bot. France 65","","41","1918",gcc-18863
+gcc-130566,A,Compositae,,Euthamia,,"camporum",,"","Greene",Synonym,,M,TICA,D76ADC2A-70CB-4104-8600-DEDB2B10CBB7,102420-2,"Pittonia 5","","74","1902",gcc-121400
+gcc-4737,A,Compositae,,Euthamia,,"camporum",var.,"camporum","",Synonym,,L,TICA,1D88A0C4-3631-4A77-97D9-08D21CEC73EE,,"","","","",gcc-121400
+gcc-58744,A,Compositae,,Euthamia,,"camporum",var.,"tricostata","Lunell",Synonym,,L,TICA,1F223EFE-E6BC-4F2A-88AC-910AFB176B62,102421-2,"Amer. Midl. Naturalist 2","","59","1911",gcc-121400
+gcc-102196,A,Compositae,,Euthamia,,"caroliniana",,"","(L.) Greene ex Porter & Britton",Synonym,,M,TICA,09AF3EFD-F5AF-4E42-900B-9E8539CDF82F,102422-2,"Mem. Torrey Bot. Club 5: 321. 1894","","321","1894",gcc-118014
+gcc-16255,A,Compositae,,Euthamia,,"caroliniana",,"","(L.) Greene",Synonym,,M,TICA,F8A234F0-B0BB-451A-8F06-1E10F919374D,207516-1,"","","321","1894",gcc-118014
+gcc-50031,A,Compositae,,Euthamia,,"chrysothamnoides",,"","Greene",Synonym,,M,TICA,D4CE0FDA-5AFF-429A-BE42-5CC3DB88A3FE,102423-2,"Pittonia 5","","76","1902",gcc-121400
+gcc-103652,A,Compositae,,Euthamia,,"fastigiata",,"","Bush",Synonym,,M,TICA,9C22605A-CCF0-418D-A125-A1BD7346BD22,102424-2,"Amer. Midl. Naturalist 5","","164","1918",gcc-118014
+gcc-109809,A,Compositae,,Euthamia,,"floribunda",,"","Greene",Synonym,,M,TICA,88ADAE54-AFEC-48C5-B507-AF8210039FE3,102425-2,"Pittonia 5","","74","1902",gcc-118014
+gcc-91248,A,Compositae,,Euthamia,,"galetorum",,"","Greene",Synonym,,M,TICA,3EBC015C-F241-482E-BC17-85F03C299206,102426-2,"Leafl. Bot. Observ. Crit. 2","","152","1911",gcc-118014
+gcc-136631,A,Compositae,,Euthamia,,"glutinosa",,"","Rydb.",Synonym,,M,TICA,EE6F7446-4F84-4058-BFD9-ECA7F3AA2CBC,102427-2,"Brittonia 1","","102","1931",gcc-121400
+gcc-117481,A,Compositae,,Euthamia,,"graminifolia",,"","Elliott",Unresolved,Invalid,L,TICA,ABFDC71B-4052-4774-A3AA-C0C5AC2F65C3,207522-1,"Sketch Bot. S. Carolina 2: 391. 1823","","391","1823",
+gcc-118014,A,Compositae,,Euthamia,,"graminifolia",,"","(L.) Nutt.",Accepted,,M,TICA,12EE212B-DCC8-4BE4-B219-C1F7256F7C6A,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","325","1840",
+gcc-61635,A,Compositae,,Euthamia,,"graminifolia",var.,"galetorum","(Greene) Friesner",Synonym,,L,TICA,D03FD384-C71F-41D3-9E11-A83218AE9DF6,1066819-2,"","","","",gcc-118014
+gcc-34823,A,Compositae,,Euthamia,,"graminifolia",subsp.,"graminifolia","",Synonym,,L,TICA,3BDD4F36-CD53-41A0-9E3E-408D974A6021,,"","","","",gcc-118014
+gcc-9578,A,Compositae,,Euthamia,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,C55390BE-AEE9-47F8-9B1F-11E326320A25,,"","","","",gcc-118014
+gcc-70101,A,Compositae,,Euthamia,,"graminifolia",var.,"hirtipes","(Fernald) C.E.S.Taylor & R.J.Taylor",Synonym,,L,TICA,B037C2B7-C8EE-4423-8957-EB82851B9E65,922116-1,"Sida 10: 176 (1983)","","176","1983",gcc-118014
+gcc-72454,A,Compositae,,Euthamia,,"graminifolia",var.,"major","(Michx.) Moldenke",Synonym,,L,TICA,D710582B-887A-4F5E-ACCB-FE1160647F15,102428-2,"Phytologia 12","","478","1966",gcc-118014
+gcc-36647,A,Compositae,,Euthamia,,"graminifolia",subsp.,"nuttallii","(Greene) W.Stone",Synonym,,L,TICA,7D5186D0-2090-40A8-8A7F-43F2886E506B,102429-2,"","","752","1912",gcc-118014
+gcc-61910,A,Compositae,,Euthamia,,"graminifolia",var.,"nuttallii","(Greene) W.Stone",Synonym,,L,TICA,A4A1D8FC-78EA-46EA-A1B8-AA76AA61F21C,,"","","","",gcc-118014
+gcc-67273,A,Compositae,,Euthamia,,"graminifolia",var.,"nuttallii","(Greene) Sieren",Synonym,,L,TICA,7C63901E-B1B3-4E71-8103-D5D2349BF7E6,60439004-2,"Rhodora 83","","564","1981",gcc-118014
+gcc-53818,A,Compositae,,Euthamia,,"graminifolia",var.,"polycephala","(Fernald) Moldenke",Synonym,,L,TICA,F0257C85-9BDE-4CB5-A2DC-690902B55008,102430-2,"Revista Sudamer. Bot. 6","","29","1939",gcc-118014
+gcc-121400,A,Compositae,,Euthamia,,"gymnospermoides",,"","Greene",Accepted,,M,TICA,A419A78C-B79F-4F0A-A9D3-C9B34F2458E5,102431-2,"Pittonia 5","","75","1902",
+gcc-92448,A,Compositae,,Euthamia,,"hirtella",,"","Greene",Synonym,,M,TICA,FA86D87C-B35F-4866-8AFC-889FF518A1DA,102432-2,"Leafl. Bot. Observ. Crit. 1","","180","1906",gcc-118014
+gcc-78019,A,Compositae,,Euthamia,,"hirtipes",,"","(Fernald) Sieren",Synonym,,M,TICA,0A75FF9D-6B9C-4D8B-83AD-6826E9B18547,288220-2,"","","304","1972",gcc-118014
+gcc-20340,A,Compositae,,Euthamia,,"leptocephala",,"","(Torr. & A.Gray) Greene ex Porter & Britton",Accepted,,M,TICA,3CE7F83F-293A-4173-BB49-259A0DC20022,102433-2,"Mem. Torrey Bot. Club 5","","321","1894",
+gcc-52491,A,Compositae,,Euthamia,,"linarifolia",,"","Gand.",Synonym,,M,TICA,955DC026-0DE2-44AE-B9B0-614C0438BF26,102434-2,"Bull. Soc. Bot. France 65","","41","1918",gcc-18863
+gcc-30508,A,Compositae,,Euthamia,,"media",,"","Greene",Synonym,,M,TICA,02CA0EE2-37B9-4405-AC2F-387352200269,102435-2,"Pittonia 5","","74","1902",gcc-118014
+gcc-1678,A,Compositae,,Euthamia,,"microcephala",,"","(Nutt.) Greene",Synonym,,M,TICA,517FF0B3-8051-4D61-9200-0302DE4E2302,102436-2,"Pittonia 5","","79","1902",gcc-118014
+gcc-84308,A,Compositae,,Euthamia,,"microphylla",,"","Greene",Synonym,,M,TICA,0443F056-DC4D-4EBF-BD73-764B1354EC41,102437-2,"Pittonia 5","","79","1902",gcc-118014
+gcc-25682,A,Compositae,,Euthamia,,"minor",,"","(Michx.) Greene",Synonym,,M,TICA,5F3D0A06-3E25-49DD-9D5C-2F71C4A6E413,102438-2,"Pittonia 5","","78","1902",gcc-118014
+gcc-88176,A,Compositae,,Euthamia,,"moseleyi",,"","(Fernald) Bush",Unresolved,,L,TICA,84EEA846-26D3-4AB5-A144-7EDF6BD75FB2,,"American Midland Naturalist 5:","","166","1918",
+gcc-31719,A,Compositae,,Euthamia,,"nuttallii",,"","Greene",Synonym,,M,TICA,4CFE034E-C5BB-4A13-8D06-3AC8ABAE4098,102439-2,"Pittonia 5","","73","1902",gcc-118014
+gcc-18863,A,Compositae,,Euthamia,,"occidentalis",,"","Nutt.",Accepted,,M,TICA,F7D7D3AD-79E6-444E-A070-22D2BEC521FB,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 326""","","326","1840",
+gcc-91053,A,Compositae,,Euthamia,,"polycephala",,"","(Fernald) Moldenke",Unresolved,,L,TICA,27204328-129D-47B2-8E71-85760832ED62,1106022-2,"","","","",
+gcc-119144,A,Compositae,,Euthamia,,"pulverulenta",,"","Greene",Synonym,,M,TICA,8B92E860-21B5-4CB4-B8F3-C48729092E6F,102440-2,"Pittonia 5","","75","1902",gcc-121400
+gcc-9441,A,Compositae,,Euthamia,,"remota",,"","Greene",Synonym,,M,TICA,0C8B2257-4D39-493B-B6BF-119F9F3DA2F6,102441-2,"Pittonia 5","","78","1902",gcc-118014
+gcc-100978,A,Compositae,,Euthamia,,"scabra",,"","Greene",Unresolved,,L,TICA,1418A7A4-CD6F-42F1-AAF7-9BD4A4F8974F,102442-2,"Pittonia 5","","80","1902",gcc-30659
+gcc-380,A,Compositae,,Euthamia,,"tenuifolia",,"","(Pursh) Elliott",Synonym,Invalid,M,TICA,4FB71D36-8A15-4A82-81F7-00B033135AC0,207537-1,"Sketch Bot. S. Carolina 2","","392","1823",gcc-118014
+gcc-44678,A,Compositae,,Euthamia,,"tenuifolia",,"","(Pursh) Nutt.",Synonym,,M,TICA,FE640647-3F8D-487B-BD7D-52C6D61575B3,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 326""","","","",gcc-118014
+gcc-46152,A,Compositae,,Euthamia,,"tenuifolia",,"","(Pursh) Greene",Synonym,Illegitimate,M,TICA,1187337C-9417-449D-9BC6-558DBBFC66DA,,"Pittonia 5(26C):","","77","1902",gcc-118014
+gcc-20312,A,Compositae,,Euthamia,,"tenuifolia",var.,"microcephala","Nutt.",Synonym,,L,TICA,4D908CA2-115D-4484-8E89-258DFE3E3503,,"""Trans. Amer. Philos. Soc., n.s., 7: 326 (1840)""","","326","1840",gcc-118014
+gcc-54880,A,Compositae,,Euthamia,,"tenuifolia",var.,"pycnocephala","(Fernald) C.E.S.Taylor & R.J.Taylor",Synonym,,L,TICA,E1EE2880-CD5C-4019-A31B-718D8AA41A6E,,"","","","",gcc-118014
+gcc-59584,A,Compositae,,Euthamia,,"tenuifolia",var.,"pycnocephala","(Fernald) C.E.S.Taylor & R.John Taylor",Unresolved,,L,TICA,18944FA5-52C2-46D5-97DA-97ADED3DD3C2,922117-1,"Sida 10","","177","1983",gcc-118014
+gcc-72164,A,Compositae,,Euthamia,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,A49A6555-5088-4567-BBDE-FBDDFBA02039,,"","","","",gcc-118014

@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-109340,A,Compositae,,Centipeda,,"aotearoana",,"","N.G.Walsh",Accepted,,M,TICA,C6810908-8718-4157-A26F-AE6DBDBF28B4,20000842-1,"Muelleria 15","","55","2001",
+gcc-144762,A,Compositae,,Centipeda,,"borealis",,"","N.G.Walsh",Accepted,,M,TICA,FC6312A1-D530-4051-8467-FEDB62883636,20000839-1,"Muelleria 15","","49","2001",
+gcc-52259,A,Compositae,,Centipeda,,"capensis",,"","Less.",Synonym,,M,TICA,14C089D8-8EAF-4804-82FD-60EBB988A168,191965-1,"","","201","1832",gcc-88645
+gcc-99545,A,Compositae,,Centipeda,,"crateriformis",,"","N.G.Walsh",Accepted,,M,TICA,8836A0D5-33C6-4EC5-A36B-9892057E791A,20000843-1,"Muelleria 15","","58","2001",
+gcc-68210,A,Compositae,,Centipeda,,"crateriformis",subsp.,"crateriformis","",Synonym,,L,TICA,E495B764-4BA3-4D20-8130-DD1E7AF9020E,,"Muelleria 15:58 (2001)","","58","2001",gcc-99545
+gcc-131755,A,Compositae,,Centipeda,,"cunninghamii",,"","(DC.) A.Braun & Asch.",Accepted,,M,TICA,D8C93949-2513-4467-B342-E1A7B03CC300,191966-1,"Ind. Sem. Hort. Berol. App.6 (1867)","","6","1867",
+gcc-76774,A,Compositae,,Centipeda,,"elatinoides",,"","(Less.) Benth. & Hook.f. ex O.Hoffm.",Accepted,,M,TICA,C4C6B32B-281D-4544-B594-656291420247,57558-3,"Nat. Pflanzenfam. 4(5)","","280","1892",
+gcc-143974,A,Compositae,,Centipeda,,"latifolia",,"","Cass.",Synonym,,M,TICA,78206609-2DE0-4B14-ACFF-FD0D8448139C,,"""F. Cuvier, Dict. Sci. Nat., ed. 2, 50 (1827)""","","211","1827",gcc-88645
+tro-100374255,A,Compositae,,Centipeda,,"latifolia",,"","Cass. ex Less.",Synonym,,M,TRO,100374255,,"Syn. Gen. Compos.","201","201","1832",gcc-88645
+gcc-75376,A,Compositae,,Centipeda,,"minima",,"","(L.) A.Braun & Asch.",Accepted,,M,TICA,687073D3-4DEF-4EF5-97DB-624D116F84AD,191968-1,"","","6","1867",
+gcc-56918,A,Compositae,,Centipeda,,"minima",var.,"lanuginosa","(DC.) Domin",Synonym,,L,TICA,0895CCE6-82E8-43C8-A1AB-8229A5028C0C,,"","","","1930",gcc-75376
+gcc-156559,A,Compositae,,Centipeda,,"minima",var.,"minima","",Synonym,,L,TICA,D685391A-2B26-45F9-881F-EFD75F28FB2E,,"","","","",gcc-75376
+gcc-53259,A,Compositae,,Centipeda,,"minima",subsp.,"minima","",Synonym,,L,TICA,5151FDBE-CDC6-4E69-BEFF-64E5AE665A90,,"","","46","2001",gcc-75376
+gcc-105448,A,Compositae,,Centipeda,,"minuta",,"","Matsum. & Koidzumi",Unresolved,,L,TICA,C488FCAF-C4E1-49E8-BE39-A59B90C01AA3,,"Bot. Mag. (Tokyo) xxiv. 121 (1910)","","121","1910",
+gcc-22732,A,Compositae,,Centipeda,,"minuta",,"","(Less.) C.B.Clarke",Synonym,,M,TICA,13D2C7B0-879A-43DB-8806-2A11FA835CB2,191970-1,"","","151","1876",gcc-75376
+gcc-79197,A,Compositae,,Centipeda,,"minuta",,"","Drake",Unresolved,,L,TICA,C9B090DA-DBA6-4469-A915-6AE8C50E3FAA,191971-1,"""Fl. Polyn. Franc. (1892) 110 (an Centipeda minuta, C. B. Clarke?).""","","110","1892",
+gcc-88116,A,Compositae,,Centipeda,,"minuta",,"","(G.Forst.) Benth.",Synonym,,M,TICA,0AB8CA41-AF57-4E5E-BC96-7EB5BE6A3E3F,,"""Benth. & Hook. f., Gen. Pl. 2 (1873)""","","430","1873",gcc-75376
+gcc-45469,A,Compositae,,Centipeda,,"nidiformis",,"","N.G.Walsh",Accepted,,M,TICA,0CC7C2AB-1E40-43A6-A33B-5441BE845624,20000840-1,"Muelleria 15","","51","2001",
+gcc-127556,A,Compositae,,Centipeda,,"orbicularis",,"","Lour.",Synonym,Illegitimate,M,TICA,5A1ECDA0-4D65-43B2-8F1A-D7EC754CC48C,191973-1,"Fl. Cochinch.","","493","1790",gcc-75376
+gcc-84407,A,Compositae,,Centipeda,,"orbicularis",,"","C.B.Clarke",Accepted,,M,TICA,8A2B615C-D91E-4D1E-B455-767F0CF17629,191974-1,"","","151","1876",
+gcc-45690,A,Compositae,,Centipeda,,"orbicularis",var.,"lanuginosa","(DC.) F.M.Bailey",Synonym,,L,TICA,8A7D0FAF-217E-4F9F-AD28-54AE88CB44CD,57631-3,"","","869","1900",gcc-75376
+gcc-64221,A,Compositae,,Centipeda,,"orbicularis",var.,"minuta","(G.Forst.) F.M.Bailey",Synonym,,L,TICA,DCBCDA5B-853D-4E68-B0E0-BCC6925F6F23,57651-3,"","","","1900",gcc-75376
+gcc-148406,A,Compositae,,Centipeda,,"orbicularis",var.,"orbicularis","",Synonym,,L,TICA,058B2023-1B94-42F2-B19F-41E492B5231B,,"","","","",gcc-75376
+gcc-69745,A,Compositae,,Centipeda,,"orbicularis",var.,"sternutatoria","(Roxb.) F.M.Bailey",Synonym,,L,TICA,AE694612-1CD8-4C76-B4F1-E8B2C6273828,57658-3,"","","","1900",gcc-76774
+gcc-99530,A,Compositae,,Centipeda,,"pleiocephala",,"","N.G.Walsh",Accepted,,M,TICA,740C959C-6970-4170-ABBF-98889B09CB75,20000841-1,"Muelleria 15","","54","2001",
+gcc-19446,A,Compositae,,Centipeda,,"racemosa",,"","F.Muell.",Accepted,,L,TICA,B5650940-C113-4B55-8741-23F087B3C061,57675-3,"","","","1883",
+gcc-70473,A,Compositae,,Centipeda,,"racemosa",var.,"lanata","F.M.Bailey",Synonym,,L,TICA,ADD54770-73C9-49A1-9030-EE6B9CCE7C59,57689-3,"","","","1912",gcc-19446
+gcc-67180,A,Compositae,,Centipeda,,"racemosa",var.,"racemosa","",Synonym,,L,TICA,A3D3B05A-6E06-4073-B9CC-D4F915413FC3,57692-3,"Queensland Agricultural Journal 28  1912","","28","1912",gcc-19446
+gcc-30259,A,Compositae,,Centipeda,,"russelliana",,"","(DC.) F.Muell.",Unresolved,,L,TICA,641E692B-E15E-4E90-A1F5-380001102347,57709-3,"Fragmenta Phytographiae Australiae 8  1874","","8","1874",
+gcc-40545,A,Compositae,,Centipeda,,"thespidioides",,"","F.Muell.",Accepted,,M,TICA,BEFBD427-8635-4056-A5EC-4B20540F4D9A,191976-1,"Fragm. 8:143 (1874)","","143","1874",

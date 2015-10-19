@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-83498,A,Compositae,,Pittocaulon,,"bombycophole",,"","(Bullock) H.Rob. & Brettell",Unresolved,,L,TICA,2D00EC74-9857-40B8-8748-746EEF3AC468,200874-2,"","","452","1973",gcc-105884
+gcc-27867,A,Compositae,,Pittocaulon,,"calzadanum",,"","B.L.Turner",Synonym,,M,TICA,3C3B660E-5DBD-4DE5-87D1-3380828EE195,301180-2,"","","43","1996",gcc-37616
+gcc-131022,A,Compositae,,Pittocaulon,,"filare",,"","(McVaugh) H.Rob. & Brettell",Unresolved,,L,TICA,818494D2-BCAB-409D-8479-DFE5A585E9AC,200875-2,"","","452","1973",gcc-86753
+gcc-117658,A,Compositae,,Pittocaulon,,"hintonii",,"","H.Rob. & Brettell",Accepted,,M,TICA,34CDA27E-ECA6-4C2D-AFA5-C12BB8112614,200876-2,"","","452","1973",
+gcc-155600,A,Compositae,,Pittocaulon,,"hintonii",var.,"hintonii","",Synonym,,L,TICA,8F313169-E932-4745-910A-DB9BCF0795E5,,"","","","",gcc-117658
+gcc-79672,A,Compositae,,Pittocaulon,,"praecox",,"","(Cav.) H.Rob. & Brettell",Synonym,,M,TICA,B423F9F0-EE3A-48C8-9800-6BEAC63F5D86,200877-2,"","","453","1973",gcc-11705
+gcc-3895,A,Compositae,,Pittocaulon,,"praecox",var.,"tzimolensis","(T.M.Barkley) B.L.Clark",Unresolved,,L,TICA,275D359F-45DD-4D69-8D00-073D123A472B,,"","","","2000",
+gcc-135330,A,Compositae,,Pittocaulon,,"velatum",,"","(Greenm.) H.Rob. & Brettell",Accepted,,L,TICA,20D74BB1-AE79-4503-B834-E9D0A63C3586,200878-2,"","","453","1973",
+gcc-3066,A,Compositae,,Pittocaulon,,"velatum",var.,"tzimolensis","(T.M.Barkley) B.L.Clark",Synonym,,L,TICA,8DE46142-E782-42D4-8544-05AD0B98D50C,1018915-1,"Sida 19(2)","","235","2000",gcc-3895
+gcc-147033,A,Compositae,,Pittocaulon,,"velatum",var.,"velatum","",Synonym,,L,TICA,4B385180-488F-422E-B517-2523C591CE70,,"","","","",gcc-135330

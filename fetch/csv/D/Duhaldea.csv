@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-7323,A,Compositae,,Duhaldea,,"cappa",,"","(Buch.-Ham. ex D.Don) Pruski & Anderb.",Unresolved,Illegitimate,L,TICA,23AD7E5E-F09F-4A77-981C-0DA0A6C25284,70029926-1,"Comp. Newsl. 40","","44","2003",
+gcc-1351,A,Compositae,,Duhaldea,,"chinensis",,"","(Lour.) DC.",Synonym,,M,TICA,E86277F5-855C-4A16-9E12-02733DB46128,202240-1,"","","366","1836",gcc-2823
+gcc-6059,A,Compositae,,Duhaldea,,"chinensis",var.,"oblonga","Steetz",Synonym,,L,TICA,1F1FDC80-BE68-4656-9916-0B461748AF36,,"Bonplandia (Hannover) 5: 308 (1857)","","308","1857",gcc-7323
+gcc-42370,A,Compositae,,Duhaldea,,"cuspidata",,"","(Wall. ex DC.) Anderb.",Accepted,,M,TICA,B2AE0D98-CFC2-4B6F-A3FB-4E81E061DE5B,,"","","104","1991",
+gcc-76576,A,Compositae,,Duhaldea,,"eriophora",,"","(DC.) Steetz",Synonym,,L,TICA,169BD920-2196-4AD1-A4BF-6506237DF9EC,202241-1,"","","308","1857",gcc-7323
+gcc-118474,A,Compositae,,Duhaldea,,"eupatorioides",,"","(Wall. ex DC.) Steetz",Synonym,,M,TICA,7B62C869-8231-466E-A938-C30B880348C5,202242-1,"","","308","1857",gcc-80349
+gcc-97966,A,Compositae,,Duhaldea,,"eupatorioides",,"","(Wall. ex DC.) Anderb.",Unresolved,Illegitimate,L,TICA,B4CFD8EF-21F4-430C-9200-9511A9DF140A,,"""in Pl. Syst. Evol., 176(1–2): 104 (1991):.""","","104","1991",
+gcc-7836,A,Compositae,,Duhaldea,,"forrestii",,"","(Anthony) Anderb.",Accepted,,M,TICA,F5E5B648-7329-4B17-8252-0E95CE129AE0,,"","","104","1991",
+gcc-129512,A,Compositae,,Duhaldea,,"griffithii",,"","(C.B.Clarke) Anderb.",Accepted,,L,TICA,DB96E751-B8D5-4502-91B7-DC6AF849B129,,"","","104","1991",
+gcc-52007,A,Compositae,,Duhaldea,,"lanuginosa",,"","(C.C.Chang) Anderb.",Accepted,,M,TICA,4FF03E55-9E66-424D-B85C-607775387AD7,,"","","104","1991",
+gcc-108468,A,Compositae,,Duhaldea,,"latifolia",,"","(DC.) Dawar & Qaiser",Accepted,,M,TICA,DF67D20D-1EFA-435F-A1F3-AC59F67D0146,,"","","326","1999",
+gcc-140480,A,Compositae,,Duhaldea,,"macrophylla",,"","(Sch.Bip.) Steetz",Synonym,,M,TICA,7F98C06D-FBEC-457A-8D2F-F522E6420E0A,202243-1,"","","308","1857",gcc-2574
+gcc-75955,A,Compositae,,Duhaldea,,"nervosa",,"","(Wall. ex DC.) Anderb.",Accepted,,M,TICA,2933222C-A335-4D38-A8FF-639448569ABF,,"","","104","1991",
+gcc-89526,A,Compositae,,Duhaldea,,"pterocaula",,"","(Franch.) Anderb.",Accepted,,M,TICA,584D8E8F-01D7-417D-BCFF-81E685775168,,"","","104","1991",
+gcc-91117,A,Compositae,,Duhaldea,,"revoluta",,"","Anderb.",Accepted,,L,TICA,4890E8DF-2320-464A-BEDF-8598BEC65A10,,"","","104","1991",
+gcc-79947,A,Compositae,,Duhaldea,,"rubricaulis",,"","(Wall. ex DC.) Anderb.",Synonym,,L,TICA,D643BA18-3DA0-4E73-9F68-6C7B467D0536,,"","","104","1991",gcc-155208
+gcc-34240,A,Compositae,,Duhaldea,,"simmonsii",,"","(C.B.Clarke) Anderb.",Accepted,,L,TICA,70BCBE7D-FB8F-4C94-880D-3F77914B9763,,"","","104","1991",
+gcc-115233,A,Compositae,,Duhaldea,,"stuhlmannii",,"","(O.Hoffm.) Anderb.",Synonym,,M,TICA,75F93B0D-02A4-4279-A3F4-BBB1109E32C5,,"","","104","1991",gcc-103255
+gcc-121827,A,Compositae,,Duhaldea,,"wissmanniana",,"","(Hand.-Mazz.) Anderb.",Accepted,,M,TICA,34A45997-1026-4C9C-A7E2-CA9E26A11FAE,,"","","104","1991",

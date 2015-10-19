@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2768792,A,Aizoaceae,,Dinteranthus,,"inexpectatus",,"","(Dinter) Schwantes",Accepted,,L,WCSP (in review),,361611-1,"Z. Sukkulentenk.","2: 184","","1926",
+tro-701612,A,Aizoaceae,,Dinteranthus,,"inexpectatus",,"","Jacobsen",Unresolved,,L,TRO,701612,,"","","","",
+kew-2768793,A,Aizoaceae,,Dinteranthus,,"margaretae",,"","(Schwantes) Schwantes",Unresolved,,L,WCSP (in review),,361612-1,"Z. Sukkulentenk.","2: 184","","1926",
+kew-2768794,A,Aizoaceae,,Dinteranthus,,"microspermus",,"","(Dinter & Derenb.) Schwantes",Accepted,,M,WCSP (in review),,361613-1,"Z. Sukkulentenk.","2: 184","","1926",
+kew-2768795,A,Aizoaceae,,Dinteranthus,,"microspermus",var.,"acutipetalus","L.Bolus",Synonym,,L,WCSP (in review),,,"Handb. Succ. Pl.","3: 1110","","1960",kew-2768796
+tro-701618,A,Aizoaceae,,Dinteranthus,,"microspermus",var.,"microspermus","",Synonym,,L,TRO,701618,,"","","","",kew-2768794
+kew-2768796,A,Aizoaceae,,Dinteranthus,,"microspermus",subsp.,"puberulus","(N.E.Br.) N.Sauer",Accepted,,L,WCSP (in review),,874020-1,"Fl. Pl. South Africa","45: t. 1779B","","1978",
+kew-2768797,A,Aizoaceae,,Dinteranthus,,"pole-evansii",,"","(N.E.Br.) Schwantes",Accepted,,M,WCSP (in review),,361614-1,"Z. Sukkulentenk.","2: 184","","1926",
+kew-2768798,A,Aizoaceae,,Dinteranthus,,"puberulus",,"","N.E.Br.",Synonym,,M,WCSP (in review),,361615-1,"Gard. Chron.","III, 84: 472","","1928",kew-2768796
+kew-2768799,A,Aizoaceae,,Dinteranthus,,"punctatus",,"","L.Bolus",Synonym,,M,WCSP (in review),,361616-1,"Notes Mesembryanthemum","2: 67","","1929",kew-2768796
+tro-701627,A,Aizoaceae,,Dinteranthus,,"vanzijlii",var.,"vanzijlii","",Unresolved,,L,TRO,701627,,"","","","",
+kew-2768800,A,Aizoaceae,,Dinteranthus,,"vanzylii",,"","(L.Bolus) Schwantes",Accepted,,L,WCSP (in review),,361617-1,"Natl. Cact. Succ. J.","6: 2","","1951",
+kew-2768801,A,Aizoaceae,,Dinteranthus,,"vanzylii",f.,"lineatus","H.Jacobsen",Synonym,,L,WCSP (in review),,,"Natl. Cact. Succ. J.","10: 81","","1955",kew-2768800
+kew-2768802,A,Aizoaceae,,Dinteranthus,,"wilmotianus",,"","L.Bolus",Accepted,,M,WCSP (in review),,361618-1,"Notes Mesembryanthemum","3: 153","","1939",
+tro-701632,A,Aizoaceae,,Dinteranthus,,"wilmotianus",subsp.,"wilmotianus","",Synonym,,L,TRO,701632,,"","","","",kew-2768802

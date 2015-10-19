@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-133430,A,Euphorbiaceae,,Necepsia,,"afzelii",,"","Prain",Accepted,,H,WCSP,133430,352463-1,"Bull. Misc. Inform. Kew","1910: 343","","1910",
+kew-133431,A,Euphorbiaceae,,Necepsia,,"afzelii",subsp.,"afzelii","",Synonym,,L,WCSP,133431,,"Unknown","","","",kew-133430
+tro-12804565,A,Euphorbiaceae,,Necepsia,,"afzelii",var.,"afzelii","",Synonym,,L,TRO,12804565,,"","","","",kew-133430
+kew-133434,A,Euphorbiaceae,,Necepsia,,"castaneifolia",,"","(Baill.) Bouchat & J.Léonard",Accepted,,H,WCSP,133434,942888-1,"Bull. Jard. Bot. Natl. Belg.","56: 191","","1986",
+kew-133436,A,Euphorbiaceae,,Necepsia,,"castaneifolia",subsp.,"castaneifolia","",Synonym,,L,WCSP,133436,,"Unknown","","","",kew-133434
+kew-133437,A,Euphorbiaceae,,Necepsia,,"castaneifolia",subsp.,"chirindica","(Radcl.-Sm.) Bouchat & J.Léonard",Accepted,,L,WCSP,133437,952603-1,"Bull. Jard. Bot. Natl. Belg.","56: 194","","1986",
+kew-133438,A,Euphorbiaceae,,Necepsia,,"castaneifolia",subsp.,"kimbozensis","(Radcl.-Sm.) Bouchat & J.Léonard",Accepted,,L,WCSP,133438,952602-1,"Bull. Jard. Bot. Natl. Belg.","56: 193","","1986",
+kew-133439,A,Euphorbiaceae,,Necepsia,,"zairensis",,"","Bouchat & J.Léonard",Accepted,,H,WCSP,133439,930152-1,"Bull. Jard. Bot. Natl. Belg.","56: 187","","1986",
+kew-133441,A,Euphorbiaceae,,Necepsia,,"zairensis",var.,"zairensis","",Synonym,,L,WCSP,133441,,"Unknown","","","",kew-133439

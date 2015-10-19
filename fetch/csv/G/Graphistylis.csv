@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24267,A,Compositae,,Graphistylis,,"argyrotricha",,"","(Dusén) B.Nord.",Accepted,,L,TICA,10E01425-C97B-4BCB-A524-2CCE8723BFF5,113290-2,"Opera Bot. 44: 58 (1978)","","58","1978",
+gcc-92658,A,Compositae,,Graphistylis,,"cuneifolia",,"","(Gardner) B.Nord.",Accepted,,M,TICA,70466526-A177-4A07-8F69-89128BEB25EB,113291-2,"Opera Bot. 44","","58","1978",
+gcc-22320,A,Compositae,,Graphistylis,,"dichroa",,"","Bong.",Unresolved,,L,TICA,A67199CF-0096-40B2-9457-294E00E49BCA,,"Kew Bull. 48: 285. 1993","","285","1993",
+gcc-46861,A,Compositae,,Graphistylis,,"dichroa",,"","(Bong.) B.Nord.",Unresolved,,L,TICA,753C20E5-C665-470D-9ECF-56D8B8439324,,"","","","1994",
+gcc-9089,A,Compositae,,Graphistylis,,"dichroa",,"","(Bong.) D.J.N.Hind",Accepted,,M,TICA,8A7DAE70-17DA-470F-A654-110071EFAA4D,972572-1,"","","285","1993",
+gcc-30852,A,Compositae,,Graphistylis,,"itatiaiae",,"","(Dusén) B.Nord.",Accepted,,L,TICA,A20BB06D-1EDD-4B34-AEAA-3920766B6F58,113292-2,"Opera Bot. 44: 58 (1978)","","58","1978",
+gcc-87941,A,Compositae,,Graphistylis,,"oreophila",,"","(Dusén) B.Nord.",Accepted,,M,TICA,3B2CD851-D81A-4D20-92F5-7E51D9B11EE4,113293-2,"Opera Bot. 44: 58 (1978)","","58","1978",
+gcc-104931,A,Compositae,,Graphistylis,,"organensis",,"","(Casar.) B.Nord.",Accepted,,M,TICA,483DB81B-14FA-43A5-93E2-A48BB625DC20,113294-2,"Opera Bot. 44","","58","1978",
+gcc-128249,A,Compositae,,Graphistylis,,"organensis",f.,"albiflora","(Cabrera) B.Nord.",Synonym,,L,TICA,26410087-2D4C-40B1-AD0F-D994879EDED0,113295-2,"Opera Bot. 44","","58","1978",gcc-104931
+gcc-146831,A,Compositae,,Graphistylis,,"organensis",f.,"organensis","",Synonym,,L,TICA,8904CA8C-0AB0-4A92-908F-20909DFF2131,,"","","","",gcc-104931
+gcc-151740,A,Compositae,,Graphistylis,,"riopretensis",,"","A.M.Teles & B.Nord.",Accepted,,M,TICA,9A939074-AE29-484D-AFCA-8B499875ED13,,"","","","",
+gcc-141102,A,Compositae,,Graphistylis,,"serrana",,"","Zardini",Unresolved,,L,TICA,E2614891-3CAF-47B9-B0DB-F6946982004F,1207724-2,"Compositae Newslett. 24: 51. 1994","","51","1994",
+gcc-20373,A,Compositae,,Graphistylis,,"serrana",,"","(Zardini) D.J.N.Hind",Synonym,,M,TICA,CE03297D-11AD-4AFA-A142-25AB0A569C64,980072-1,"","","823","1994",gcc-42108
+gcc-47298,A,Compositae,,Graphistylis,,"serrana",,"","(Zardini) B.Nord.",Accepted,,M,TICA,26B5C80A-FF37-46C2-8288-579709533086,978081-1,"","","51","1994",
+gcc-144767,A,Compositae,,Graphistylis,,"toledoi",,"","(Cabrera) B.Nord.",Accepted,,L,TICA,6C14010A-573A-45E3-84D6-FEDCB3D62C07,113296-2,"Opera Bot. 44","","58","1978",

@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-291939,A,Zosteraceae,,Zostera,,"americana",,"","Hartog",Synonym,,H,WCSP,291939,873079-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","59(1): 74","","1970",kew-291822
+kew-309031,A,Zosteraceae,,Zostera,,"angustifolia",,"","(Hornem.) Rchb.",Accepted,,H,WCSP,309031,603610-1,"Icon. Fl. Germ. Helv.","7: 3","","1845",
+kew-309032,A,Zosteraceae,,Zostera,,"angustifolia",,"","Loser",Misapplied,,H,WCSP,309032,603609-1,"Oesterr. Bot. Z.","13: 383","","1863",kew-309045
+kew-291821,A,Zosteraceae,,Zostera,,"asiatica",,"","Miki",Accepted,,H,WCSP,291821,699873-1,"Bot. Mag. (Tokyo)","46: 776","","1932",
+kew-309033,A,Hydrocharitaceae,,Zostera,,"bullata",,"","Delile",Synonym,,H,WCSP,309033,,"Descr. Egypte, Hist. Nat.","289","","1813",kew-308091
+kew-291818,A,Zosteraceae,,Zostera,,"caespitosa",,"","Miki",Accepted,,H,WCSP,291818,699874-1,"Bot. Mag. (Tokyo)","46: 780","","1932",
+kew-291817,A,Zosteraceae,,Zostera,,"capensis",,"","Setch.",Accepted,,H,WCSP,291817,699875-1,"Proc. Natl. Acad. U.S.A.","19: 815","","1933",
+kew-293422,A,Zosteraceae,,Zostera,,"capensis",f.,"elatior","Setch.",Synonym,,L,WCSP,293422,,"Proc. Natl. Acad. U.S.A.","19: 810","","1933",kew-291817
+kew-291938,A,Zosteraceae,,Zostera,,"capricorni",,"","Asch.",Accepted,,H,WCSP,291938,873080-1,"Sitzungsber. Ges. Naturf. Freunde Berlin","1876: 11","","1876",
+kew-291816,A,Zosteraceae,,Zostera,,"caulescens",,"","Miki",Accepted,,H,WCSP,291816,699876-1,"Bot. Mag. (Tokyo)","46: 779","","1932",
+kew-459766,A,Zosteraceae,,Zostera,,"chilensis",,"","(J.Kuo) S.W.L.Jacobs & Les",Accepted,,H,WCSP,459766,77102393-1,"Telopea","12: 422","","2009",
+kew-309034,A,Cymodoceaceae,,Zostera,,"ciliata",,"","Forssk.",Synonym,,H,WCSP,309034,603612-1,"Fl. Aegypt.-Arab.","157","","1775",kew-293259
+kew-291815,A,Zosteraceae,,Zostera,,"dubia",,"","E.H.L.Krause",Unresolved,,L,WCSP,291815,699877-1,"Deutschl. Fl.","ed. 2, 4: 70","","1905",
+kew-309035,A,Zosteraceae,,Zostera,,"emarginata",,"","Ehrenb. & Hempr. ex Asch.",Synonym,,H,WCSP,309035,603613-1,"Linnaea","35: 167","","1867",kew-309045
+tro-50245263,A,Zosteraceae,,Zostera,,"geojeensis",,"","H. Shin, Cho & Y.S. Oh",Unresolved,,L,TRO,50245263,,"Algae","17(2): 71–74, f.1, pl. 1","71","2002",
+kew-291812,A,Zosteraceae,,Zostera,,"hornemanniana",,"","Tutin",Synonym,,H,WCSP,291812,699879-1,"J. Bot.","74: 227","","1936",kew-309031
+kew-291814,A,Zosteraceae,,Zostera,,"hornemannii",,"","Rouy",Synonym,Illegitimate,H,WCSP,291814,699878-1,"Fl. France","13: 290","","1912",kew-309031
+kew-291822,A,Zosteraceae,,Zostera,,"japonica",,"","Asch. & Graebn.",Accepted,,H,WCSP,291822,,"Pflanzenr.","IV, 11: 32","","1907",
+kew-309036,A,Zosteraceae,,Zostera,,"latifolia",,"","(Morong) Morong",Synonym,,H,WCSP,309036,271338-2,"Mem. Torrey Bot. Club","3(2): 63","","1893",kew-309037
+kew-309037,A,Zosteraceae,,Zostera,,"marina",,"","L.",Accepted,,H,WCSP,309037,603618-1,"Sp. Pl.","968","","1753",
+kew-310566,A,Zosteraceae,,Zostera,,"marina",var.,"angustifolia","Hornem.",Synonym,,L,WCSP,310566,,"Fl. Dan.","9(3): t. 1501","","1807",kew-309031
+kew-291873,A,Zosteraceae,,Zostera,,"marina",var.,"atam","T.W.H.Backman",Synonym,,L,WCSP,291873,965389-1,"Canad. J. Bot.","69: 1368","","1991",kew-309037
+tro-26300436,A,Zosteraceae,,Zostera,,"marina",subsp.,"hornemanniana","(Tutin) Lemke",Synonym,,L,TRO,26300436,,"","","","",kew-309031
+kew-291865,A,Zosteraceae,,Zostera,,"marina",var.,"izembekensis","T.W.H.Backman",Synonym,,L,WCSP,291865,965388-1,"Canad. J. Bot.","69: 1368","","1991",kew-309037
+kew-293143,A,Zosteraceae,,Zostera,,"marina",var.,"latifolia","Morong",Synonym,,L,WCSP,293143,271340-2,"Bull. Torrey Bot. Club","13: 160","","1886",kew-309037
+kew-293151,A,Zosteraceae,,Zostera,,"marina",f.,"latifolia","(Morong) Setch.",Synonym,,L,WCSP,293151,271339-2,"Bull. Torrey Bot. Club","54: 3","","1927",kew-309037
+tro-26300312,A,Zosteraceae,,Zostera,,"marina",var.,"marina","",Synonym,,L,TRO,26300312,,"","","","",kew-309037
+kew-291857,A,Zosteraceae,,Zostera,,"marina",var.,"phillipsii","T.W.H.Backman",Synonym,,L,WCSP,291857,965387-1,"Canad. J. Bot.","69: 1368","","1991",kew-309037
+kew-293149,A,Zosteraceae,,Zostera,,"marina",var.,"stenophylla","(Raf.) Asch. & Graebn.",Synonym,,L,WCSP,293149,271341-2,"Syn. Mitteleur. Fl.","1: 297","","1897",kew-309037
+kew-293150,A,Zosteraceae,,Zostera,,"marina",f.,"sulcatifolia","Setch.",Synonym,,L,WCSP,293150,271342-2,"Proc. Natl. Acad. U.S.A.","19: 813","","1933",kew-309037
+kew-309038,A,Zosteraceae,,Zostera,,"maritima",,"","Gaertn.",Synonym,,H,WCSP,309038,603619-1,"Fruct. Sem. Pl.","1: 76","","1788",kew-309037
+kew-309039,A,Cymodoceaceae,,Zostera,,"mediterranea",,"","DC.",Synonym,,H,WCSP,309039,603620-1,"Fl. Franç.","ed. 3, 3: 154","","1805",kew-303788
+kew-309040,A,Zosteraceae,,Zostera,,"minor",,"","Nolte ex Rchb.",Synonym,,H,WCSP,309040,603621-1,"Icon. Fl. Germ. Helv.","7: 2","","1845",kew-309045
+kew-291937,A,Zosteraceae,,Zostera,,"mucronata",,"","Hartog",Accepted,,H,WCSP,291937,873081-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","59(1): 91","","1970",
+kew-309041,A,Zosteraceae,,Zostera,,"muelleri",,"","Irmisch ex Asch.",Accepted,,H,WCSP,309041,603622-1,"Linnaea","35: 168","","1867",
+kew-348839,A,Zosteraceae,,Zostera,,"muelleri",subsp.,"capricorni","(Asch.) S.W.L.Jacobs",Synonym,,L,WCSP,348839,77079789-1,"Telopea","11: 128","","2006",kew-291938
+kew-348840,A,Zosteraceae,,Zostera,,"muelleri",subsp.,"mucronata","(Hartog) S.W.L.Jacobs",Synonym,,L,WCSP,348840,77079790-1,"Telopea","11: 128","","2006",kew-291937
+kew-348841,A,Zosteraceae,,Zostera,,"muelleri",subsp.,"novazelandica","(Setch.) S.W.L.Jacobs",Synonym,,L,WCSP,348841,77079791-1,"Telopea","11: 128","","2006",kew-291827
+kew-309042,A,Zosteraceae,,Zostera,,"nana",,"","Roth",Synonym,Illegitimate,H,WCSP,309042,603623-1,"Enum. Pl. Phaen. Germ.","1: 8","","1827",kew-309045
+kew-312342,A,Zosteraceae,,Zostera,,"nana",var.,"latifolia","Harmsen",Synonym,,L,WCSP,312342,,"Ned. Kruidk. Arch.","46: 871","","1936",kew-309045
+kew-376531,A,Zosteraceae,,Zostera,,"nana",var.,"muelleri","(Irmisch ex Asch.) Kirk",Synonym,,L,WCSP,376531,,"Trans. & Proc. New Zealand Inst.","10: 392","","1878",kew-309041
+kew-459767,A,Zosteraceae,,Zostera,,"nigricaulis",,"","(J.Kuo) S.W.L.Jacobs & Les",Accepted,,H,WCSP,459767,77102394-1,"Telopea","12: 422","","2009",
+kew-309043,A,Cymodoceaceae,,Zostera,,"nodosa",,"","Ucria",Synonym,,H,WCSP,309043,873082-1,"Nuova Racc. Opusc. Aut. Sicil.","6: 256","","1793",kew-303788
+kew-309044,A,Zosteraceae,,Zostera,,"nodosa",,"","Guss.",Synonym,Illegitimate,H,WCSP,309044,603625-1,"Fl. Sicul. Syn.","2: 565","","1844",kew-309045
+kew-309045,A,Zosteraceae,,Zostera,,"noltii",,"","Hornem.",Accepted,,H,WCSP,309045,,"Fl. Dan.","12(35): 1, t. 2041","","1832",
+kew-291827,A,Zosteraceae,,Zostera,,"novazelandica",,"","Setch.",Accepted,,H,WCSP,291827,699881-1,"Proc. Natl. Acad. U.S.A.","19: 816","","1933",
+kew-309046,A,Posidoniaceae,,Zostera,,"oceanica",,"","L.",Synonym,,H,WCSP,309046,,"Mant. Pl.","123","","1770",kew-308468
+kew-293148,A,Zosteraceae,,Zostera,,"oregana",,"","S.Watson",Synonym,,H,WCSP,293148,271344-2,"Proc. Amer. Acad. Arts","26: 131","","1891",kew-309037
+kew-309047,A,Zosteraceae,,Zostera,,"pacifica",,"","S.Watson",Synonym,,H,WCSP,309047,271345-2,"Proc. Amer. Acad. Arts","26: 131","","1891",kew-309037
+kew-459768,A,Zosteraceae,,Zostera,,"polychlamys",,"","(J.Kuo) S.W.L.Jacobs & Les",Accepted,,H,WCSP,459768,77102395-1,"Telopea","12: 423","","2009",
+kew-309048,A,Zosteraceae,,Zostera,,"pumila",,"","Le Gall",Synonym,,H,WCSP,309048,603631-1,"Congr. Sci. France","16(1): 96","","1850",kew-309045
+kew-309049,A,Cymodoceaceae,,Zostera,,"serrulata",,"","(R.Br.) Targ.Tozz.",Synonym,,H,WCSP,309049,,"Cat. Veg. Mar.","90","","1826",kew-303791
+kew-309051,A,Zosteraceae,,Zostera,,"stenophylla",,"","Raf.",Synonym,,H,WCSP,309051,603634-1,"Amer. Monthly Mag. & Crit. Rev.","2: 175","","1818",kew-309037
+kew-309052,A,Hydrocharitaceae,,Zostera,,"stipulacea",,"","Forssk.",Synonym,,H,WCSP,309052,603635-1,"Fl. Aegypt.-Arab.","158","","1775",kew-308091
+kew-309053,A,Zosteraceae,,Zostera,,"tasmanica",,"","M.Martens ex Asch.",Accepted,,H,WCSP,309053,271346-2,"Sitzungsber. Ges. Naturf. Freunde Berlin","1867: 15","","1867",
+kew-309054,A,Cymodoceaceae,,Zostera,,"tridentata",,"","Solms",Synonym,,H,WCSP,309054,603637-1,"Beitr. Fl. Aethiop.","196","","1867",kew-308064
+tro-26300150,A,Cymodoceaceae,,Zostera,,"tridentata",,"","Ehrenberg & Hemprich",Synonym,,M,TRO,26300150,,"Symb. Phys.","19","19","",kew-308064
+kew-309055,A,Zosteraceae,,Zostera,,"trinervis",,"","Stokes",Synonym,Illegitimate,H,WCSP,309055,603638-1,"Bot. Mat. Med.","4: 319","","1812",kew-309045
+kew-309056,A,Cymodoceaceae,,Zostera,,"uninervis",,"","Forssk.",Synonym,,H,WCSP,309056,603639-1,"Fl. Aegypt.-Arab.","157","","1775",kew-308064
+kew-309057,A,Zosteraceae,,Zostera,,"uninervis",,"","Vahl ex Rchb.",Synonym,Illegitimate,H,WCSP,309057,603640-1,"Fl. Germ. Excurs.","137","","1831",kew-309045

@@ -1,0 +1,131 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76205,A,Compositae,,Melanthera,,"abyssinica",,"","(Sch.Bip. ex A.Rich.) Vatke",Accepted,,M,TICA,0AEF1FEE-2459-4054-9160-642EC5E968D9,1004897-2,"Linnaea 39: 496. 1875","","496","1875",
+gcc-78862,A,Compositae,,Melanthera,,"abyssinica",,"","(Sch.Bip. ex A.Rich.) Benth. & Hook.",Unresolved,,L,TICA,427A6A4C-978E-4B4B-971A-6A25873D0D10,,"Gen. Pl. (Bentham & Hooker f.) 2: 377. 1873","","377","1873",
+gcc-92563,A,Compositae,,Melanthera,,"abyssinica",,"","(Sch.Bip. ex A.Rich.) Oliv. & Hiern",Synonym,,M,TICA,EF7F5DD7-BE99-4BFB-AD1A-88DFE3CE83B3,,"Flora of Tropical Africa 3:","","382","1877",gcc-76205
+gcc-43630,A,Compositae,,Melanthera,,"acuminata",,"","S.Moore",Synonym,,M,TICA,209FD379-BE80-4A5A-BE7B-50DE2E920285,322758-2,"","","344","1902",gcc-41569
+gcc-91093,A,Compositae,,Melanthera,,"albinervia",,"","O.Hoffm.",Synonym,,M,TICA,690BF7EA-D8D8-48EE-A924-85900095DC69,232175-1,"Bol. Soc. Brot. 13: 30","","30","1896",gcc-50554
+gcc-46171,A,Compositae,,Melanthera,,"albinervia",subsp.,"acuminata","(S.Moore) Wild",Synonym,,L,TICA,D17282BE-10EC-47C0-8443-55968491178D,1191209-2,"Kirkia 5: 12. 1965","","12","1965",gcc-41569
+gcc-27734,A,Compositae,,Melanthera,,"albinervia",subsp.,"caudata","Wild",Synonym,,L,TICA,39D26779-E34B-42E2-BB64-3343A497F5B0,,"Kirkia 5:","","12","1965",gcc-67655
+gcc-24984,A,Compositae,,Melanthera,,"amellus",,"","(L.) D'Arcy",Synonym,,M,TICA,CC6C00C2-C0BF-44A1-B1DD-2E28BD7F6482,232176-1,"Phytologia 30(1): 6 (1975).","","6","1975",gcc-135340
+gcc-154842,A,Compositae,,Melanthera,,"amellus",var.,"amellus","",Synonym,,L,TICA,519C4AAC-0D5E-4DC3-A2F7-CBE9933CB0C1,,"","","","",gcc-135340
+gcc-46939,A,Compositae,,Melanthera,,"amellus",var.,"subhastata","(O.E.Schulz) D'Arcy",Synonym,,L,TICA,DB793C88-1BFF-4748-9339-56FF0CE71383,877649-1,"","","6","1975",gcc-69082
+gcc-29674,A,Compositae,,Melanthera,,"amethystina",,"","O.E.Schulz",Synonym,,M,TICA,FEA68F88-CFA8-4678-BCA7-36D83C6748F4,156294-2,"","","127","1911",gcc-58351
+gcc-128253,A,Compositae,,Melanthera,,"angustifolia",,"","A.Rich.",Accepted,,M,TICA,D3D7B93F-D103-488F-9D97-D99645898E5A,156295-2,"""Hist. Fis. Cuba, Bot. 11: 54. 1850""","","54","1850",
+gcc-23577,A,Compositae,,Melanthera,,"angustifolia",,"","Gilli",Unresolved,Illegitimate,L,TICA,08952B54-CD15-421F-9142-2B98E9F0213B,,"in Ann. Naturhist. Mus. Wien 78: 158 (1974).","","158","",
+gcc-147619,A,Compositae,,Melanthera,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,2666995A-79FE-4BE5-B668-315263F9386A,,"","","","",gcc-128253
+gcc-46696,A,Compositae,,Melanthera,,"angustifolia",var.,"subhastata","O.E.Schulz",Synonym,,L,TICA,06195FE4-BE62-4A47-B0C3-568CA3800D28,156296-2,"Repert. Spec. Nov. Regni Veg. 26: 109. 1929.","","109","1929",gcc-69082
+gcc-24413,A,Compositae,,Melanthera,,"aspera",,"","(Jacq.) Small",Synonym,,M,TICA,72B3F930-76E5-4B30-9A2A-2D13EA8F793E,1053311-2,"Bull. Torrey Bot. Club 36","","164","1909",gcc-137177
+gcc-58351,A,Compositae,,Melanthera,,"aspera",var.,"aspera","",Unresolved,,L,TICA,3612DF0A-6EA4-4957-9EBE-8DF85F90A026,,"Bull. Torrey Bot. Club 36: 164. 1909","","164","1909",
+gcc-57130,A,Compositae,,Melanthera,,"aspera",var.,"glabriuscula","(Kuntze) J.C.Parks",Synonym,,L,TICA,AA86DB59-519E-4C9F-8A90-83F1E70B275A,156298-2,"Rhodora 75: 194. 1973","","194","1973",gcc-137177
+gcc-69082,A,Compositae,,Melanthera,,"aspera",var.,"subhastata","(O.E.Schulz) D'Arcy",Unresolved,,L,TICA,25BEE605-C60C-467A-9E3D-E3BF814B7722,,"Ann. Missouri Bot. Gard. 62: 1119. 1975.","","1119","1975",
+gcc-36183,A,Compositae,,Melanthera,,"baumii",,"","O.Hoffm.",Synonym,,M,TICA,4B4B241F-9BD4-4891-B482-4318999241E1,232183-1,"in Warb. Kunene-Sambesi Exped. 418.","","418","1903",gcc-108404
+gcc-114619,A,Compositae,,Melanthera,,"biflora",,"","(L.) Wild",Accepted,,M,TICA,139D3BEE-EF82-4C59-A02C-BA46DD9AB6EB,1046536-2,"Kirkia 5: 4. 1965","","4","1965",
+gcc-135890,A,Compositae,,Melanthera,,"brevifolia",,"","O.E.Schulz",Synonym,,M,TICA,643964BC-A6CF-450B-9A9A-EAF0A7B39B0D,156300-2,"","","123","1911",gcc-137177
+gcc-141936,A,Compositae,,Melanthera,,"brownei",,"","(DC.) Sch.Bip.",Synonym,,M,TICA,F48C243F-6610-4418-B76A-F8889A8322EE,,"""in Flora, xxvii. (1844) 673.""","","","1844",gcc-39068
+gcc-86610,A,Compositae,,Melanthera,,"bryanii",,"","(Sherff) W.L.Wagner & H.Rob.",Accepted,,M,TICA,91583EE5-92C1-4464-9C04-7B4C8A632D07,,"Brittonia 53(4)","","552","",
+gcc-147753,A,Compositae,,Melanthera,,"buchii",,"","Urban",Synonym,,M,TICA,71E72626-0186-4179-BF72-349D63B11062,,"","","","",gcc-137177
+gcc-43032,A,Compositae,,Melanthera,,"buchii",,"","Urb.",Accepted,,M,TICA,9DDC1958-B709-44A8-B03B-4FB3895CB732,156301-2,"Symb. Antill. 3: 411. 1903","","411","1903",
+gcc-119267,A,Compositae,,Melanthera,,"calcicola",,"","Britton",Synonym,,M,TICA,71FCB517-EF60-4322-A6C4-C4C77D7E7672,156302-2,"","","309","1925",gcc-137177
+gcc-84357,A,Compositae,,Melanthera,,"canescens",,"","(Kuntze) O.E.Schulz",Synonym,,M,TICA,2A48A850-9E9E-41BC-8483-76679367A6FE,156303-2,"","","116","1911",gcc-137177
+gcc-148146,A,Compositae,,Melanthera,,"canescens",f.,"canescens","",Synonym,,L,TICA,1A234277-8B24-4491-8FD1-3C75D49ED934,,"","","","",gcc-137177
+gcc-106125,A,Compositae,,Melanthera,,"carpenteri",,"","Small",Synonym,,M,TICA,7F81E3B3-9DE7-40F5-8DFD-A714B33DEDD8,156304-2,"","","""1251, 1340""","1903",gcc-137177
+gcc-20658,A,Compositae,,Melanthera,,"chevalieri",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,70BF53F1-F289-48BA-A7C2-2639130454EF,,"Bull. Soc. Bot. France 57(Mém. 8c): 117","","","1910",gcc-34854
+gcc-136319,A,Compositae,,Melanthera,,"cinerea",,"","Schweinf. ex Schweinf.",Accepted,,M,TICA,5912F977-8922-4DDD-8480-EBF38E77F769,232193-1,"""in v. Hoehnel, Reise Rudolfsee, 862 (1892), descr.""","","862","1892",
+gcc-91021,A,Compositae,,Melanthera,,"cinerea",,"","Schweinf. ex Engl.",Unresolved,,L,TICA,93495FE9-8CE0-4BC0-8AC7-855DEACC7E66,,"""Abh. Preuss. Akad. Wiss. 1891 (1892) 434, nomen""","","434","",
+gcc-43741,A,Compositae,,Melanthera,,"confusa",,"","Britton",Synonym,,M,TICA,64BE7C63-40E6-4F43-8B45-510CC79CD7B3,156305-2,"","","309","1925",gcc-137177
+gcc-34582,A,Compositae,,Melanthera,,"corymbosa",,"","Spreng.",Synonym,,M,TICA,87C3D117-797B-4F88-9704-4018BAAC0878,,"Neue Entdeck. ii. 135; iii. 40.","","ii. 135","",gcc-137177
+gcc-131902,A,Compositae,,Melanthera,,"crenata",,"","O.E.Schulz",Synonym,,M,TICA,207C6A4D-D692-4901-8633-E2044AFC58AE,156306-2,"","","123","1911",gcc-137177
+gcc-22463,A,Compositae,,Melanthera,,"cuanzensis",,"","Hiern",Synonym,,L,TICA,21441C58-6524-40E3-96A6-298F3643116B,,"Cat. Afr. Pl. (Hiern) i. 583.","","583","1898",gcc-27220
+gcc-65060,A,Compositae,,Melanthera,,"cuanzensis",var.,"altior","Hiern",Synonym,,L,TICA,3A8A4F76-380B-4C13-9D3F-C37D32FC2527,,"""Catalogue of the African Plants collected by Dr. F. Welwitsch in 1853--61 1, 3:""","","584","1898",gcc-27220
+gcc-154422,A,Compositae,,Melanthera,,"cuanzensis",var.,"cuanzensis","",Synonym,,L,TICA,FDBFBC33-E16D-442B-A8F4-C31ED05A8234,,"","","","",gcc-27220
+gcc-121249,A,Compositae,,Melanthera,,"decora",,"","""Poepp. ex S.S.Renner, Balslev & Holm-Niels.""",Unresolved,Illegitimate,L,TICA,E9328EB6-931A-4B52-86ED-C963680FBFCB,,"AAU Reports 24:","","63","1990",
+gcc-35677,A,Compositae,,Melanthera,,"deltoidea",,"","Michx.",Synonym,Illegitimate,M,TICA,DDADE7D5-92CC-4125-93E6-422E6DC25DE6,,"Fl. Bor.-Amer. 2","","","1803",gcc-137177
+gcc-134566,A,Compositae,,Melanthera,,"discoidea",,"","S.F.Blake",Accepted,,L,TICA,2FE5BEAE-2C41-41BF-89A7-E814AA735B7C,,"Contr. U. S. Natl. Herb. 26: 254. 1930","","254","1930",
+gcc-12831,A,Compositae,,Melanthera,,"djalonensis",,"","A.Chev.",Synonym,Illegitimate,M,TICA,D86BF7DC-EE63-46D2-BBDF-17EC2C42CB7F,232200-1,"""Explor. Bot. Afrique Occ. Franc. i. 372 (1920), nomen.""","","372","1920",gcc-76205
+gcc-101060,A,Compositae,,Melanthera,,"elegans",,"","C.D.Adams",Synonym,,M,TICA,678539FF-E0C1-4C27-85A4-9BFD005D476C,232201-1,"in Journ. W. Afr. Sci. Assoc. viii. 135 (1964).","","135","1964",gcc-27489
+gcc-112230,A,Compositae,,Melanthera,,"elliptica",,"","Hutch. & Dalziel",Unresolved,,L,TICA,B4A072E0-0B58-4A64-BAAD-B4EB0F7F238B,,"953+ed. 1+ 2:","","146","1931",
+gcc-34854,A,Compositae,,Melanthera,,"elliptica",,"","O.Hoffm.",Accepted,,M,TICA,24E0EBDB-F2F5-46B1-8B84-409DE2F35218,,"Bot. Jahrb. Syst. xxiv. 474.","","","1898",
+gcc-115172,A,Compositae,,Melanthera,,"fauriei",,"","(H.Lév.) W.L.Wagner & H.Rob.",Accepted,,L,TICA,3D27B60C-AF9E-4066-8CCA-BB89714BA05E,,"Brittonia 53(4)","","552","",
+gcc-103246,A,Compositae,,Melanthera,,"felicis",,"","C.D.Adams",Accepted,,M,TICA,ECAA6035-8D2E-4587-B327-A0D3F3AAB0E5,232203-1,"in Journ. W. Afr. Sci. Assoc. viii. 135 (1964)","","135","1964",
+gcc-98126,A,Compositae,,Melanthera,,"fruticosa",,"","Brandegee",Synonym,,M,TICA,1E02101C-3DD9-4F31-9D94-956C167B3490,156309-2,"","","421","1924",gcc-133377
+gcc-37813,A,Compositae,,Melanthera,,"gambica",,"","Hutch. & Dalziel",Accepted,,M,TICA,F3D11CE7-EFD2-47C1-9B11-461F8A2A5D38,232205-1,"Fl. W. Trop. Afr. ii. 146 (1931).","","146","1931",
+gcc-82041,A,Compositae,,Melanthera,,"glandulosa",,"","Wall. ex DC.",Unresolved,,L,TICA,67E3964F-217A-42BA-9510-7123E8254A34,232206-1,"Prodr. (DC.) 5: 547","","547","1836",
+gcc-139962,A,Compositae,,Melanthera,,"gossweileri",,"","S.Moore",Synonym,,M,TICA,B2CB17AD-24D9-465A-888C-F3E688A629EE,,"""in Journ. Bot. 1927, lxv. Suppl. 2, 58.""","","","1927",gcc-50554
+gcc-118914,A,Compositae,,Melanthera,,"hastata",,"","(Walt.) Rich.",Accepted,,M,TICA,3DEC292C-6026-42E7-9620-C416315A38A0,,"","","","",
+gcc-26246,A,Compositae,,Melanthera,,"hastata",,"","Michx.",Synonym,Illegitimate,M,TICA,4D9ED979-8018-4414-B805-3088F4251F55,,"Fl. Bor.-Amer. 2","","","1803",gcc-137177
+gcc-156322,A,Compositae,,Melanthera,,"hastata",var.,"cubensis","O.E.Schulz",Synonym,,L,TICA,6B3D6E37-02F5-462F-BFB4-EABAC58D59BA,1104457-2,"","","","",gcc-137177
+gcc-152659,A,Compositae,,Melanthera,,"hastata",var.,"hastata","",Synonym,,L,TICA,81BD1CF2-CD55-4075-BCBB-9E30EC20556B,,"","","","",gcc-118914
+gcc-157310,A,Compositae,,Melanthera,,"hastata",subsp.,"hastata","",Synonym,,L,TICA,94C71616-D7C1-49A5-8BB5-FF27B217EBA0,,"","","","",gcc-118914
+gcc-146208,A,Compositae,,Melanthera,,"hastata",var.,"lobata","(Pursh) O.E.Schulz",Synonym,,L,TICA,75DF550E-4D53-45FF-992A-13E3D51E058E,,"","","","",gcc-137177
+gcc-147109,A,Compositae,,Melanthera,,"hastata",var.,"lobata","Pursh",Synonym,,L,TICA,D9CB14E4-EB10-44D2-AD94-26B535EC724C,,"","","","",gcc-137177
+gcc-156186,A,Compositae,,Melanthera,,"hastata",var.,"pandurata","Pursh",Synonym,,L,TICA,23AED422-553E-4CD3-8E2E-E8377BC831BF,,"","","","",gcc-137177
+gcc-35898,A,Compositae,,Melanthera,,"hastifolia",,"","S.F.Blake",Synonym,,M,TICA,6FB543B6-44F0-4BFC-93F9-4292DE695F1B,156317-2,"","","""29, f. 3""","1922",gcc-137177
+gcc-31775,A,Compositae,,Melanthera,,"integrifolia",,"","(Nutt.) W.L.Wagner & H.Rob.",Accepted,,L,TICA,EEDAF150-CDF6-4E73-B124-3AE04CECDF02,,"Brittonia 53(4)","","552","",
+gcc-28325,A,Compositae,,Melanthera,,"kamolensis",,"","(O.Deg. & Sherff) W.L.Wagner & H.Rob.",Accepted,,M,TICA,9D074933-F409-4BE4-A715-345218FDA80F,,"Brittonia 53(4)","","552","",
+gcc-136010,A,Compositae,,Melanthera,,"lanceolata",,"","Benth. ex Oerst.",Unresolved,,L,TICA,316A2BEE-42C6-4854-A1AD-EB2E38A49C8E,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn (1852) 88.","","88","",
+gcc-142261,A,Compositae,,Melanthera,,"lanceolata",,"","Benth.",Synonym,,M,TICA,224B7C10-6F7D-4133-80FC-F93DDEC97EF4,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 88. 1853.","","88","1853",gcc-128253
+gcc-92027,A,Compositae,,Melanthera,,"latifolia",,"","(Gardner) Cabrera",Accepted,,M,TICA,E51DCC9E-BC08-48B0-9625-87B097DFCCC7,,"","","411","1970",
+gcc-84369,A,Compositae,,Melanthera,,"lavarum",,"","(Gaudich.) W.L.Wagner & H.Rob.",Accepted,,L,TICA,0AB1CE98-6193-41BF-B1EE-766CB6FB3A0E,,"Brittonia 53(4)","","553","",
+gcc-109187,A,Compositae,,Melanthera,,"letestui",,"","Philipson",Synonym,,M,TICA,F9384B3E-F059-4489-A0E8-AE139071C82B,,"""in Journ. Bot., Lond. 1939, lxxvii. 87.""","","","1939",gcc-41569
+gcc-17956,A,Compositae,,Melanthera,,"lifuana",,"","(Hochr.) W.L.Wagner & H.Rob.",Unresolved,,L,TICA,70AFD4BE-1E5C-47FC-9A72-2130AC83F343,,"Brittonia 53(4)","","553","",gcc-6477
+gcc-36038,A,Compositae,,Melanthera,,"ligulata",,"","Small",Synonym,,M,TICA,AA09B6CB-EAF8-4C98-A42B-42D6F74A84C5,156320-2,"","","439","1905",gcc-137177
+gcc-81757,A,Compositae,,Melanthera,,"linearis",,"","S.F.Blake",Synonym,,M,TICA,52982EEE-3ACD-43B2-9519-7087B4F2F526,156321-2,"","","""30, f. 4""","1922",gcc-128253
+gcc-107447,A,Compositae,,Melanthera,,"linnaei",,"","Kunth",Synonym,Illegitimate,M,TICA,97B21696-91E8-42F2-A08F-AA159B07961C,,"","","156","1820 [1818]",gcc-137177
+gcc-117170,A,Compositae,,Melanthera,,"lobata",,"","Small",Synonym,,M,TICA,C273B3EC-D602-4A56-8F9B-C009A448B898,232216-1,"","","","1903",gcc-137177
+gcc-90482,A,Compositae,,Melanthera,,"longipes",,"","Rusby",Unresolved,,L,TICA,10998747-74B9-4CFD-BCE8-842229FDFAE6,156323-2,"","","153","1920",
+gcc-141098,A,Compositae,,Melanthera,,"madagascariensis",,"","Baker",Synonym,,L,TICA,01FBBE03-A84E-4904-AB55-F6929E96447E,232218-1,"""J. Linn. Soc., Bot. xxi. (1885) 418.""","","418","1885",gcc-27220
+gcc-6038,A,Compositae,,Melanthera,,"marlothiana",,"","O.Hoffm.",Synonym,,M,TICA,8292F5B4-7E96-4BD1-824D-0B3BA0D73AD6,,"Bot. Jahrb. Syst. x. (1889) 277.","","","1889",gcc-108404
+gcc-117605,A,Compositae,,Melanthera,,"micrantha",,"","(Nutt.) W.L.Wagner & H.Rob.",Accepted,,L,TICA,BA09D11C-75CC-4500-9090-C10D01D46EAB,,"Brittonia 53(4)","","553","",
+gcc-62647,A,Compositae,,Melanthera,,"micrantha",subsp.,"exigua","(O.Deg. & Sherff) W.L.Wagner & H.Rob.",Accepted,,L,TICA,85722C6E-91F8-4F2C-B6F0-B080D51DB7F7,20005384-1,"Brittonia 53(4): 554 (2001 publ. 2002).","","554","2002",
+gcc-59163,A,Compositae,,Melanthera,,"micrantha",subsp.,"micrantha","",Synonym,,L,TICA,5D42B0F9-A9CB-4A8F-9A15-945C94E15687,,"","","","",gcc-117605
+gcc-26365,A,Compositae,,Melanthera,,"microphylla",,"","Steetz",Synonym,,M,TICA,10D85393-BE9E-4FDE-BFFA-30BB69E464DD,232220-1,"","","156","1854",gcc-128253
+gcc-123096,A,Compositae,,Melanthera,,"molliuscula",,"","O.E.Schulz",Synonym,,M,TICA,2B04D21A-CFA9-47D7-8514-CD85C76466F3,156325-2,"","","121","1911",gcc-58351
+gcc-2601,A,Compositae,,Melanthera,,"monochaeta",,"","Hiern",Synonym,,M,TICA,AFAA7F6A-D70C-4540-A081-04C7B19CB58D,,"Cat. Afr. Pl. (Hiern) i. 581.","","581","1898",gcc-108404
+gcc-38915,A,Compositae,,Melanthera,,"montana",,"","O.E.Schulz",Synonym,,M,TICA,C424CCBC-73AD-4772-865D-482FC47BC92D,156326-2,"","","121","1911",gcc-137177
+gcc-137177,A,Compositae,,Melanthera,,"nivea",,"","(L.) Small",Accepted,,M,TICA,008E774C-C8C7-4B70-94B3-EDE4D0B362F9,156327-2,"""Fl. S.E. U.S. 1251, 1340. 1903 [22 Jul 1903]""","","""1251, 1340""","1903",
+gcc-99379,A,Compositae,,Melanthera,,"nivea",,"","O.E.Schulz",Unresolved,,L,TICA,9424DD89-D7DF-4B9B-9FA7-983C16732D2B,232225-1,"Symb. Antill. (Urban). vii. 118 (1911)","","118","1911",
+gcc-99741,A,Compositae,,Melanthera,,"orientalis",,"","Spreng. ex DC.",Unresolved,,L,TICA,F6B14656-746B-4532-B2A1-99094230C812,232226-1,"Prodr. (DC.) 5: 483","","483","1836",
+gcc-21555,A,Compositae,,Melanthera,,"oxycarpha",,"","S.F.Blake",Accepted,,M,TICA,453DFDBA-7ED9-428F-8A19-27D6983446D8,156328-2,"","","628-629","1924",
+gcc-120885,A,Compositae,,Melanthera,,"oxylepis",,"","DC.",Accepted,,M,TICA,E4C9639C-37AE-45AF-AAE3-C88DD314DE3C,232228-1,"","","545","1836",
+gcc-133497,A,Compositae,,Melanthera,,"panduriformis",,"","Cass.",Synonym,,M,TICA,7AF3D801-90D6-49B7-8362-E59D45A99B91,,"in Dict. Sc. Nat. xxix. 485.","","","",gcc-137177
+gcc-103470,A,Compositae,,Melanthera,,"parviceps",,"","S.F.Blake",Synonym,,M,TICA,EDD48235-3C05-4377-A522-A15C4146F058,156330-2,"","","384-385","1932",gcc-137177
+gcc-30746,A,Compositae,,Melanthera,,"parvifolia",,"","Small",Accepted,,M,TICA,75803D39-B4D4-42EB-920C-38ED36CA2EAA,232231-1,"","","","1903",
+gcc-22525,A,Compositae,,Melanthera,,"perdita",,"","(Sherff) W.L.Wagner & H.Rob.",Accepted,,L,TICA,AFC73736-72E2-4FBD-9C99-29AB51DF134E,,"Brittonia 53(4)","","554","",
+gcc-96489,A,Compositae,,Melanthera,,"populifolia",,"","(Sherff) W.L.Wagner & H.Rob.",Accepted,,M,TICA,110392D0-5820-45F0-B854-91AEC10ADC42,,"Brittonia 53(4)","","554","",
+gcc-140082,A,Compositae,,Melanthera,,"prostrata",,"","(Hemsl.) W.L.Wagner & H.Rob.",Accepted,,M,TICA,A6535492-8A00-45AE-89C0-F42A3415039A,,"","","557","",
+gcc-41569,A,Compositae,,Melanthera,,"pungens",,"","Oliv. & Hiern",Accepted,,M,TICA,96C443F9-68B1-4A7B-8425-4CFAA24765FE,232232-1,"Fl. Trop. Afr. [Oliver et al.] 3: 382","","382","1877",
+gcc-50554,A,Compositae,,Melanthera,,"pungens",var.,"albinervia","(O.Hoffm.) Beentje",Accepted,,L,TICA,67A360DE-C90F-480F-A390-5DBAA1A79298,77066312-1,"""Fl. Trop. E. Africa, Compos. (Part 3) 742. 2005 [May 2005]""","","742","2005",
+gcc-67655,A,Compositae,,Melanthera,,"pungens",var.,"caudata","",Unresolved,Invalid,L,TICA,110C13F4-D651-434B-A76C-D8EBA3DACD3E,,"","","","",
+gcc-15485,A,Compositae,,Melanthera,,"pungens",var.,"pungens","",Synonym,,L,TICA,0C95441E-A947-4F79-8570-1CAB8E4C3DC2,,"Fl. Trop. Afr. 3: 382 (1877)","","","",gcc-41569
+gcc-102195,A,Compositae,,Melanthera,,"purpurascens",,"","S.F.Blake",Synonym,,M,TICA,C5435A21-8924-44AF-A446-9E84E7EE4FAD,156332-2,"","","629","1924",gcc-128253
+gcc-27907,A,Compositae,,Melanthera,,"radiata",,"","Small",Synonym,,M,TICA,3CA753C1-B6C1-40CD-BCE9-338FFD702C8C,156333-2,"","","163","1909",gcc-30746
+gcc-128007,A,Compositae,,Melanthera,,"remyi",,"","(A.Gray) W.L.Wagner & H.Rob.",Accepted,,M,TICA,E732AA3F-130C-48C9-9C1D-D9010DE80FA7,,"Brittonia 53(4)","","554","",
+gcc-142338,A,Compositae,,Melanthera,,"rhombifolia",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,75F942EA-A529-4E70-8E77-F964D1A3C119,232235-1,"Bull. Soc. Bot. France 57(Mém. 8c): 117","","117","1910",
+gcc-88177,A,Compositae,,Melanthera,,"richardsae",,"","Wild",Accepted,,M,TICA,E7890BB8-7E6D-4769-9648-7EE02476619F,232236-1,"Kirkia v. 9 (1965).","","9","1965",
+gcc-142034,A,Compositae,,Melanthera,,"rivicola",,"","Muschl. ex Dinter",Synonym,Invalid,M,TICA,EC895994-634E-437B-B1AE-F8BFF1879CC5,,"Feddes Rep. 19: 96 (1923) (dans une liste dressée par Dinter)","","","",gcc-108404
+gcc-40480,A,Compositae,,Melanthera,,"robinsonii",,"","Wild",Accepted,,M,TICA,A29B06C0-E204-4BF5-BD54-4B0501CF41EF,232237-1,"Kirkia v. 15 (1965).","","15","1965",
+tro-100357013,A,Compositae,,Melanthera,,"robusta",,"","(Makino) K. Ohashi & H. Ohashi",Accepted,,M,TRO,100357013,77104718-1,"J. Jap. Bot.","85: 59","59","2010",
+gcc-1113,A,Compositae,,Melanthera,,"scaberrima",,"","Hiern",Accepted,,M,TICA,32E05DF0-F34B-4B8A-B2DD-020C26F65AC8,,"Cat. Afr. Pl. (Hiern) i. 582.","","582","1898",
+gcc-72467,A,Compositae,,Melanthera,,"scaberrima",var.,"angustifolia","S.Moore",Synonym,,L,TICA,5DFA2739-B64F-46FE-A10E-FE25FE4DBE0E,,"""Journal of the Linnean Society, Botany 40:""","","115","1911",gcc-27220
+gcc-148379,A,Compositae,,Melanthera,,"scaberrima",var.,"scaberrima","",Synonym,,L,TICA,40CEEEE9-0C98-44D4-A27C-4138FB2A182E,,"","","","",gcc-1113
+gcc-39068,A,Compositae,,Melanthera,,"scandens",,"","(Schumach. & Thonn.) Roberty",Accepted,,M,TICA,B27C9499-3B83-4542-A3BE-48791EBEC0E0,,"","","68","Jan. 1954",
+gcc-45940,A,Compositae,,Melanthera,,"scandens",,"","(""Schu, nach. & Thonn."") Brenan",Unresolved,,L,TICA,1E1561D4-1F85-4DDC-B1D9-55298D4919CA,232239-1,"""Mem. New York Bot. Gard. viii. 480 (1954); Roberty in Bull. Inst. Franc. Afr.Noire, Ser. A, xvi. 68 (1954).""","","viii. 480","1954",
+gcc-66063,A,Compositae,,Melanthera,,"scandens",subsp.,"dregei","(DC.) Wild",Accepted,,L,TICA,D77C8DC9-D37D-4151-9BE1-CBC46174538B,,"Kirkia 5:","","8","1965",
+gcc-27220,A,Compositae,,Melanthera,,"scandens",subsp.,"madagascariensis","(Baker) Wild",Accepted,,L,TICA,ED6DD2F8-EFFB-4F3B-BCED-325B0DF0D076,,"","","7","1965",
+gcc-27198,A,Compositae,,Melanthera,,"scandens",subsp.,"scandens","",Synonym,,L,TICA,151609A8-AEF2-48A0-AD39-324E4490CEE8,,"","","","",gcc-39068
+gcc-27849,A,Compositae,,Melanthera,,"schinziana",,"","S.Moore",Synonym,,M,TICA,EF9BF799-1B81-41D9-A40F-337A61B74CBA,,"Bull. Herb. Boissier Ser. II. iv. 1018.","","1018","1904",gcc-108404
+gcc-111306,A,Compositae,,Melanthera,,"seineri",,"","Muschl. ex Dinter",Synonym,Invalid,M,TICA,92B1FB60-3E15-496E-B462-B2D226508B4C,,"Feddes Rep. 19: 96 (1923) (dans une liste dressée par Dinter)","","","",gcc-108404
+gcc-29059,A,Compositae,,Melanthera,,"sokodensis",,"","Muschl. ex Hutch. & Dalziel",Synonym,,M,TICA,7365A48F-D67F-4767-ADA5-35B6AC67C4B5,232241-1,"Fl. W. Trop. Afr. ii. 146 (1931).","","146","1931",gcc-76205
+gcc-30535,A,Compositae,,Melanthera,,"subcordata",,"","(A.Gray) W.L.Wagner & H.Rob.",Accepted,,M,TICA,3809D694-D33A-429C-B9F9-3884F30E0811,,"Brittonia 53(4)","","554","",
+gcc-28627,A,Compositae,,Melanthera,,"swynnertonii",,"","S.Moore",Synonym,,L,TICA,B98976C6-004C-40F8-93B0-34E9BF19F56C,232242-1,"""J. Linn. Soc., Bot. xl. 115 (1911)""","","115","1911",gcc-27220
+gcc-77946,A,Compositae,,Melanthera,,"tenuifolia",,"","(A.Gray) W.L.Wagner & H.Rob.",Accepted,,M,TICA,B2C436A3-8E51-4CF3-84EE-6802092713C0,,"Brittonia 53(4)","","554","",
+gcc-126383,A,Compositae,,Melanthera,,"tenuis",,"","(O.Deg. & Sherff) W.L.Wagner & H.Rob.",Accepted,,M,TICA,D1EF56D2-DC83-40EA-89F3-D534DFB00D42,,"Brittonia 53(4)","","555","",
+gcc-32432,A,Compositae,,Melanthera,,"tithonioides",,"","Aké Assi",Synonym,,M,TICA,208F33A0-0A3F-4899-93DA-3C20DD019349,,"""in Adansonia, n. s., iv. 338 (1964).""","","338","1964",gcc-66063
+gcc-277,A,Compositae,,Melanthera,,"trilobata",,"","Cass.",Synonym,,M,TICA,0799CEEC-CA26-45C4-9A0F-0083A32EF88E,232244-1,"in Dict. Sc. Nat. xxix. 485.","","xxix. 485","",gcc-137177
+gcc-108404,A,Compositae,,Melanthera,,"triternata",,"","(Klatt) Wild",Accepted,,M,TICA,94D9FD42-7911-47B0-87E6-AC32FCAD9489,232245-1,"Kirkia v. 9 (1965)","","9","1965",
+gcc-75669,A,Compositae,,Melanthera,,"ugandensis",,"","S.Moore",Synonym,,M,TICA,35C6EC14-6885-4B69-85DE-62F848DB94F4,,"""in Journ. Bot. 1916, liv. 256.""","","","1916",gcc-41569
+gcc-118493,A,Compositae,,Melanthera,,"urticaefolia",,"","Cass.",Unresolved,,L,TICA,3C9D8D52-63BD-474F-9E29-C31941228091,232247-1,"in Dict. Sc. Nat. xxix. 484","","484","1823",
+gcc-152591,A,Compositae,,Melanthera,,"urticifolia",,"","Cass.",Synonym,,M,TICA,5D528D4F-05AA-4F29-A784-9CC2B7829C97,,"","","","",gcc-137177
+gcc-143617,A,Compositae,,Melanthera,,"varians",,"","Hiern",Synonym,,M,TICA,22221A3E-5225-4C4D-8C31-FC4B9C10A493,,"Cat. Afr. Pl. (Hiern) i. 580.","","580","1898",gcc-108404
+gcc-129274,A,Compositae,,Melanthera,,"venosa",,"","(Sherff) W.L.Wagner & H.Rob.",Accepted,,M,TICA,52F6A6F1-2F9B-4C09-99BB-DBE9CF4FFEA6,,"Brittonia 53(4)","","555","",
+gcc-132864,A,Compositae,,Melanthera,,"waimeaensis",,"","(H.St.John) W.L.Wagner & H.Rob.",Accepted,,M,TICA,61565516-9C60-40DF-A9FE-E444C6D1A5A7,,"Brittonia 53(4)","","555","",

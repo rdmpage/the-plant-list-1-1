@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115288,A,Compositae,,Rhagadiolus,,"angulosus",,"","(Jaub. & Spach) Kupicha",Synonym,,L,TICA,94B8DDE3-B582-4A9F-8A7F-BBD1E5DF344E,241345-1,"","","433","1975",gcc-32867
+gcc-131280,A,Compositae,,Rhagadiolus,,"arenarius",,"","Benth. & Hook.f.",Unresolved,,L,TICA,AC41CE84-BF44-4714-B089-E08A0D6766C3,241346-1,"Gen. ii. 510.","","ii. 510.","",
+gcc-134425,A,Compositae,,Rhagadiolus,,"arenarius",,"","(Schousb.) B.D.Jacks.",Synonym,,M,TICA,1C3436F7-63CB-48E6-8830-E7CA0194EF45,,"B. D. Jacks. in Index Kew. 1. 1893.","","""1103, 1190""","1893",gcc-128335
+gcc-39421,A,Compositae,,Rhagadiolus,,"arenarius",,"","(Schousb.) Ball",Synonym,,M,TICA,9B7784EA-18AC-4C7B-AF60-492530075713,,"","","","",gcc-128335
+gcc-12127,A,Compositae,,Rhagadiolus,,"creticus",,"","(L.) All.",Synonym,,M,TICA,2A507B39-1C0E-447B-84C8-169C580F7864,241347-1,"Fl. Pedem. i. 226","","226","1785",gcc-93296
+gcc-118872,A,Compositae,,Rhagadiolus,,"edulis",,"","Gaertn.",Accepted,,M,TICA,25C94EF0-200E-44DF-B950-C40039DF6381,,"","","354","1791",
+gcc-149078,A,Compositae,,Rhagadiolus,,"edulis",var.,"integrifolius","Bisch.",Synonym,,L,TICA,C9BED8CE-B8F2-4AA2-AC36-50F14F8459B0,,"""G.W.T.G. Bischoff, Beitr. Fl. Deutschl.. 1851""","","18","1851",gcc-118872
+gcc-43090,A,Compositae,,Rhagadiolus,,"hamosus",,"","(Boiss. & Hausskn.) Kupicha",Synonym,,M,TICA,32E2FBF1-0383-4F5E-8256-4FD0B3B6141B,241349-1,"","","433","1975",gcc-123194
+gcc-122313,A,Compositae,,Rhagadiolus,,"hebelaenus",,"","(DC.) Vassilcz.",Synonym,,M,TICA,98DFBA68-FD60-420C-BB22-CBBC3558C8D6,241350-1,"""Vassilcz. in Komarov, Fl. SSSR 29. 1964.""","","234","1964",gcc-115088
+gcc-127300,A,Compositae,,Rhagadiolus,,"hebelaenus",,"","(DC.) Vassiliev",Unresolved,,L,TICA,4C0A527B-73AA-40B4-8CBD-D74F94D9431A,,"Fl. URSS xxix. 234 (1964).","","xxix. 234","1964",
+gcc-130666,A,Compositae,,Rhagadiolus,,"hedypnois",,"","Fisch. & C.A.Mey.",Synonym,,L,TICA,41B14B3C-39E6-4D13-ABEA-DF191E305FD9,,"""Fisch. & C. A. Mey. in Fischer & al., Index Sem. Hort. Petrop. 4. 1838.""","","46","1838",gcc-32867
+gcc-5682,A,Compositae,,Rhagadiolus,,"hedypnois",,"","Fisch. & C.A.Mey. ex Fisch.Mey. & Trautv.",Unresolved,,L,TICA,3D7B8375-8F1E-4C0D-80E5-0A934D5F0FC4,,"Index Seminum Hort. Petrop. iv. 46.","","46","",gcc-32867
+gcc-7619,A,Compositae,,Rhagadiolus,,"hedypnois",,"","(L.) All.",Synonym,,M,TICA,8C5BA5CD-C395-408B-9BD2-0E25E068E9B1,241352-1,"","","226","1785",gcc-93296
+gcc-28001,A,Compositae,,Rhagadiolus,,"intermedius",,"","Ten.",Synonym,,M,TICA,D7647BD5-1FCC-4632-BDAD-33B65D0C6161,,"","","25","1823",gcc-118872
+gcc-108072,A,Compositae,,Rhagadiolus,,"koelpinia",,"","F.W.Schmidt",Synonym,,M,TICA,377FA746-A0BC-463F-AA22-AB8A01CA3462,,"Samml. Phys. Aufs. i. (1795) 265.","","","1795",gcc-401
+gcc-85893,A,Compositae,,Rhagadiolus,,"koelpinia",,"","Willd.",Synonym,,M,TICA,56C36ABE-357E-4F20-9099-79B2B6EAA31B,,"Species Plantarum. Editio quarta 3:","","1626","1803",gcc-401
+gcc-130402,A,Compositae,,Rhagadiolus,,"kolpinia",,"","Lam.",Unresolved,,L,TICA,4041F308-6B16-4084-88DE-DE782F4C98C3,241355-1,"Tabl. Encycl. iii. 234","","234","",
+gcc-124739,A,Compositae,,Rhagadiolus,,"lampsanaefolius",,"","Mirb.",Synonym,,M,TICA,74B88925-1FE8-4BD5-BA17-D15D99982541,,"Hist. Nat. Pl. xi. [1805] 328.","","","1805",gcc-118872
+gcc-91072,A,Compositae,,Rhagadiolus,,"lampsanoides",,"","Desf.",Synonym,,M,TICA,DD0B9BF5-A5B7-4A11-A6DA-85829011F5F5,,"Fl. Atlant. ii. 234.","","","1799",gcc-118872
+gcc-117901,A,Compositae,,Rhagadiolus,,"leiocarpus",,"","(DC.) A.W.Hill",Synonym,,M,TICA,AFC20DF1-BC26-4636-A4EF-C1AFD2F7E2F0,,"""A. W. Hill, Index Kew., Suppl. 9. 1938.""","","233","1938",gcc-115088
+gcc-137919,A,Compositae,,Rhagadiolus,,"leiocarpus",,"","(DC.) Bonnier",Unresolved,,L,TICA,85B65D68-7B0C-404A-8075-EF79EB750104,241358-1,"""Fl. Compl. France, Suisse & Belg. vi. 62 [1923].""","","vi. 62 [1923]","",
+gcc-38833,A,Compositae,,Rhagadiolus,,"lyratus",,"","Lam.",Synonym,,M,TICA,EF843408-FB21-4B87-8564-480AF0CE4737,,"Tabl. Encycl. iii. 234","","234","1823",gcc-118872
+gcc-19960,A,Compositae,,Rhagadiolus,,"papposus",,"","(Boiss. & Buhse) Kuntze",Synonym,,M,TICA,3C05601C-F16F-4273-82BC-24E820DB25BC,241360-1,"","","205","1887",gcc-39563
+gcc-154184,A,Compositae,,Rhagadiolus,,"pendulus",,"","(Willd.) Benth.",Synonym,,M,TICA,E0D2F1C2-F273-4C54-B2BF-BE44F032C9E2,,"""G. Bentham - in Bentham & Hooker, Gen. Pl. 2. 1873""","","510","1873",gcc-93296
+gcc-15638,A,Compositae,,Rhagadiolus,,"pendulus",,"","Benth. & Hook.f.",Synonym,,M,TICA,55D96057-1C0A-48A5-B963-1CF5C2C69CF7,241361-1,"Gen. ii. 510.","","ii. 510.","",gcc-93296
+gcc-146780,A,Compositae,,Rhagadiolus,,"radiatus",,"","(L.) All.",Synonym,,M,TICA,C7469320-4BCD-4ED2-AFA7-1FC0C180EF98,241362-1,"""C. Allioni, Fl. Pedem. 1. 1785""","","227","1785",gcc-94972
+gcc-88831,A,Compositae,,Rhagadiolus,,"rhagadiolus",,"","Dörfl.",Synonym,Invalid,M,TICA,8A28CD4C-EB7B-4704-BA88-8054DFA7E88C,241363-1,"in Herb. norm. Sched. ad cent. xxxi. (1894) 19","","19","1894",gcc-118872
+gcc-93249,A,Compositae,,Rhagadiolus,,"rigidus",,"","Pomel",Synonym,,M,TICA,15972D1C-2D63-4D0F-83B7-8A536166769C,241364-1,"Nouv. Mat. Fl. Atl. 17.","","17","1874",gcc-118872
+gcc-150456,A,Compositae,,Rhagadiolus,,"scaber",,"","(L.) All.",Synonym,,M,TICA,CCA7A052-4AD7-4DE1-A5EE-6EFD55F24F5E,241365-1,"""C. Allioni, Fl. Pedem. 1. 1785""","","226","1785",gcc-5827
+gcc-104547,A,Compositae,,Rhagadiolus,,"stellatus",,"","DC.",Unresolved,Illegitimate,L,TICA,86B1FF89-C259-4B61-9ED8-A3BE6DD143FF,241366-1,"""Prodr. (DC.) 7(1): 80, in syn.""","","80","1838",
+gcc-115088,A,Compositae,,Rhagadiolus,,"stellatus",,"","(L.) Gaertn.",Accepted,,M,TICA,44F547AA-7F8A-40B7-AC31-BB5331DF29E1,,"","","354","1791",
+gcc-53522,A,Compositae,,Rhagadiolus,,"stellatus",subsp.,"edulis","(Gaertn.) Arcang.",Synonym,,L,TICA,F2C22674-7092-4EB0-999A-66E6485177FF,,"Arcang.. 1894.","","731","1894",gcc-118872
+gcc-55794,A,Compositae,,Rhagadiolus,,"stellatus",var.,"eriocarpus","Faure & Maire",Synonym,,L,TICA,966DEA2A-E7FE-4223-9C58-78E49898D9E1,,"","","","",gcc-115088
+gcc-65406,A,Compositae,,Rhagadiolus,,"stellatus",var.,"eriophyllus","Faure & Maire",Synonym,,L,TICA,38D08420-A192-46D3-86BC-C6841892CD97,,"","","","",gcc-115088
+gcc-61080,A,Compositae,,Rhagadiolus,,"stellatus",var.,"hebelaenus","DC.",Synonym,,L,TICA,139BF070-BC53-477B-BAE2-A3B2C25DA7D5,,"","","","",gcc-115088
+gcc-14109,A,Compositae,,Rhagadiolus,,"stellatus",var.,"intermedius","(Ten.) DC.",Synonym,,L,TICA,DEBAC58A-EF76-47C1-986B-1A298851384B,,"","","","",gcc-115088
+gcc-70076,A,Compositae,,Rhagadiolus,,"stellatus",var.,"leiocarpus","DC.",Synonym,,L,TICA,112B2E93-C31A-4AF2-90E8-EB4B195DA6E9,,"","","","",gcc-115088
+gcc-152819,A,Compositae,,Rhagadiolus,,"stellatus",subsp.,"stellatus","",Synonym,,L,TICA,33E45C60-D3F6-4522-9A64-A12D4DAABD7C,,"","","","",gcc-115088
+gcc-155439,A,Compositae,,Rhagadiolus,,"stellatus",var.,"stellatus","",Synonym,,L,TICA,878C5E88-F315-4100-B8B4-D86A989DC456,,"","","","",gcc-115088
+gcc-106780,A,Compositae,,Rhagadiolus,,"taraxacoides",,"","(Vill.) All.",Synonym,,M,TICA,E2E3FEBA-C3B3-4ECB-9CAF-A89A43111CC1,241368-1,"Fl. Pedem. i. 227","","227","1785",gcc-142545
+gcc-101467,A,Compositae,,Rhagadiolus,,"zacintha",,"","(L.) All.",Synonym,,L,TICA,6F614DA8-1310-4C81-BF3D-9CDA2A8DAE30,241369-1,"Fl. Pedem. 1: 227. 1785","","227","1785",gcc-125940
+gcc-95627,A,Compositae,,Rhagadiolus,,"zacintha",,"","(L.) Desf.",Synonym,,M,TICA,C4DF68F9-AA24-41C4-8B83-8FCA9A1D6C5A,,"","","","",gcc-10921

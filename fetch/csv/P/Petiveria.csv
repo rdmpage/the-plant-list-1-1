@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2562647,A,Phytolaccaceae,,Petiveria,,"alliacea",,"","L.",Accepted,,M,WCSP (in review),,323288-2,"Sp. Pl.","342","","1753",
+tro-50082908,A,Phytolaccaceae,,Petiveria,,"alliacea",var.,"alliacea","",Synonym,,L,TRO,50082908,,"","","","",kew-2562647
+tro-24800096,A,Phytolaccaceae,,Petiveria,,"alliacea",var.,"grandifolia","Moq.",Synonym,,L,TRO,24800096,191184-2,"Prodr.","13(2): 9","9","1849",kew-2562647
+tro-24800097,A,Phytolaccaceae,,Petiveria,,"alliacea",var.,"octandra","(L.) Moq.",Synonym,,L,TRO,24800097,191185-2,"Prodr.","13(2): 9","9","1849",kew-2562647
+kew-2575547,A,Phytolaccaceae,,Petiveria,,"alliacea",var.,"tetrandra","(Ortega) Hauman",Accepted,,L,WCSP (in review),,191186-2,"Anales Mus. Nac. Hist. Nat. Buenos Aires","24: 501","","1913",
+kew-2562792,A,Phytolaccaceae,,Petiveria,,"corrientina",,"","Rojas",Synonym,,M,WCSP (in review),,191187-2,"Bull. Acad. Int. Géogr. Bot.","28: 163","","1918",kew-2562647
+tro-50082910,A,Phytolaccaceae,,Petiveria,,"corrientina",,"","Rojas Acosta",Synonym,,M,TRO,50082910,,"","","","",kew-2562647
+kew-2562793,A,Phytolaccaceae,,Petiveria,,"foetida",,"","Salisb.",Synonym,Illegitimate,M,WCSP (in review),,676317-1,"Prodr. Stirp. Chap. Allerton","214","","1796",kew-2562647
+kew-2562794,A,Phytolaccaceae,,Petiveria,,"graveolens",,"","(Vell.) Stellfeld",Unresolved,,L,WCSP (in review),,191188-2,"Tribuna Farm.","12: 114","","1944",
+kew-2562795,A,Phytolaccaceae,,Petiveria,,"hexaglochin",,"","Fisch. & C.A.Mey.",Synonym,,M,WCSP (in review),,676319-1,"Index Seminum (LE)","1: 35","","1835",kew-2575547
+tro-24800098,A,Phytolaccaceae,,Petiveria,,"hexandria",,"","Sessé & Moc.",Synonym,,M,TRO,24800098,,"Fl. Mexic.","98","98","1894",kew-2562647
+tro-24800020,A,Phytolaccaceae,,Petiveria,,"ochroleuca",,"","Moq.",Synonym,,M,TRO,24800020,676322-1,"Prodr.","13(2): 9","9","1849",kew-2562647
+tro-24800099,A,Phytolaccaceae,,Petiveria,,"octandra",,"","L.",Synonym,,M,TRO,24800099,676323-1,"Sp. Pl. (ed. 2)","486","486","1762",kew-2562647
+kew-2562800,A,Phytolaccaceae,,Petiveria,,"paraguayensis",,"","D.Parodi",Synonym,,M,WCSP (in review),,676324-1,"Anales Soc. Ci. Argent.","5: 160","","1878",kew-2562647
+kew-2562801,A,Phytolaccaceae,,Petiveria,,"tetrandra",,"","Ortega",Synonym,,M,WCSP (in review),,,"Obs. Med. Bot. Pl. Bras.","13","","1803",kew-2575547
+tro-50082911,A,Phytolaccaceae,,Petiveria,,"tetrandra",,"","B.A. Gomes",Synonym,,M,TRO,50082911,,"","","","",kew-2575547

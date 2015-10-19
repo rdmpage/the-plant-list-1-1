@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-29068,A,Compositae,,Enydra,,"affinis",,"","Didrichs.",Unresolved,,L,TICA,F78F241C-B576-4B82-9095-35BFE2EC02BC,203203-1,"","","","1849",gcc-132022
+gcc-83485,A,Compositae,,Enydra,,"anagallis",,"","Gardner",Accepted,,M,TICA,727D9349-E96D-44D4-A884-746A3502EB82,203204-1,"London J. Bot. 7","","409","1848",
+gcc-107220,A,Compositae,,Enydra,,"caesulioides",,"","Cass.",Synonym,,M,TICA,A6A1594F-6C57-4EF8-B297-A99835C649C1,203220-1,"","","196","1817",gcc-41899
+gcc-109012,A,Compositae,,Enydra,,"fluctuans",,"","DC.",Accepted,,M,TICA,AF02946A-542B-4D32-9900-ADAF124F18D5,,"","","","",
+gcc-134747,A,Compositae,,Enydra,,"fluctuans",,"","Lour.",Unresolved,,L,TICA,5897E6B2-71AB-4247-8BD8-E871EFD50DB0,163780-3,"Fl. Cochinch.","","511","1790",
+gcc-41227,A,Compositae,,Enydra,,"heloncha",,"","DC.",Synonym,,L,TICA,850DDEB7-8999-4D07-BC8C-4C6348853E99,203206-1,"","","637","1836",gcc-134747
+gcc-140196,A,Compositae,,Enydra,,"hingcha",,"","Voigt",Synonym,Illegitimate,L,TICA,38123FA9-351D-4678-831C-F477B75F698A,20008164-1,"","","416","1845",gcc-134747
+gcc-26176,A,Compositae,,Enydra,,"integrifolia",,"","Gardner",Synonym,,M,TICA,7817DFBC-00AD-4559-A64A-3066AF0B642D,203208-1,"London J. Bot. 7","","410","1848",gcc-132022
+gcc-111190,A,Compositae,,Enydra,,"linifolia",,"","DC. ex Sch.Bip.",Synonym,,L,TICA,ABEDED1E-14CF-47DD-AA12-B291B428F499,,"""Zoll., Syst. Verz. (1854)""","","124","1854",gcc-134747
+gcc-26251,A,Compositae,,Enydra,,"longifolia",,"","DC.",Synonym,,L,TICA,03044123-6D5F-47F5-801B-308C00DD29DA,203209-1,"Prodr. 5","","637","1836",gcc-134747
+gcc-123893,A,Compositae,,Enydra,,"maritima",,"","(Kunth) Less.",Synonym,,M,TICA,4C18F2F6-89E2-4890-BBED-CF7050FC8A5C,,"Linnaea 6","","159","1831",gcc-132022
+gcc-82557,A,Compositae,,Enydra,,"maritima",,"","(Kunth) DC.",Accepted,,M,TICA,84B7AC63-AA24-4876-8CC6-72518DA6695A,,"","","","",
+gcc-84134,A,Compositae,,Enydra,,"oblonga",,"","(Ruiz & Pav.) DC.",Synonym,,M,TICA,3D6680CD-F01D-43AE-AD7A-75DC8C693FE4,203212-1,"Prodr. 5","","637","1836",gcc-132022
+gcc-50379,A,Compositae,,Enydra,,"paludosa",,"","(Reinw. ex Reinw.) DC.",Synonym,,L,TICA,4E7B2D3F-B00C-4FDB-A0B8-5D6F526B787D,203213-1,"Prodr. 5","","637","1836",gcc-134747
+gcc-41899,A,Compositae,,Enydra,,"radicans",,"","(Willd.) Lack",Accepted,,M,TICA,007F64FD-67BB-4A26-B8F1-4D94216AD298,203221-1,"Willdenowia 10","","6","1980",
+gcc-45220,A,Compositae,,Enydra,,"rivularis",,"","Gardner",Synonym,,M,TICA,BDEF3313-DE03-445C-8A3A-53CDC931AD56,203214-1,"London J. Bot. 7","","410","1848",gcc-132022
+gcc-132022,A,Compositae,,Enydra,,"sessilifolia",,"","(Ruiz & Pav.) Cabrera",Accepted,,M,TICA,B3EC884A-3B1E-4B99-8463-E24CED50561E,91046-2,"Bol. Soc. Argent. Bot. 8","","206","1960",
+gcc-89139,A,Compositae,,Enydra,,"sessilis",,"","(Sw.) DC.",Accepted,,L,TICA,54221AF8-4CD9-40E1-87AB-8107D590496B,203216-1,"Prodr. 5","","637","1836",
+gcc-125645,A,Compositae,,Enydra,,"sobreyra",,"","DC.",Synonym,,M,TICA,C98B8C86-3603-4389-96A1-D383C71A8B56,203217-1,"","","637","1836",gcc-132022
+gcc-105841,A,Compositae,,Enydra,,"subcuneata",,"","DC.",Synonym,,M,TICA,510D27FF-C2BA-453A-9AAD-A67A640E0B8E,203218-1,"","","637","1836",gcc-132022
+gcc-18197,A,Compositae,,Enydra,,"woollsii",,"","F.Muell.",Synonym,,L,TICA,07335FB8-9585-404C-8874-21A6E255D270,,"","","139","",gcc-134747

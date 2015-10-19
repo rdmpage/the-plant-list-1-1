@@ -1,0 +1,558 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-107864,A,Verbenaceae,,Lantana,,"abyssinica",,"","Otto & A.Dietr.",Synonym,,H,WCSP,107864,863192-1,"Allg. Gartenzeitung","9: 378","","1841",kew-113304
+kew-107865,A,Verbenaceae,,Lantana,,"achyranthifolia",,"","Desf.",Accepted,,H,WCSP,107865,324301-2,"Tabl. École Bot.","ed. 3: 392","","1829",
+kew-107866,A,Verbenaceae,,Lantana,,"achyranthifolia",f.,"grandifolia","Moldenke",Synonym,,L,WCSP,107866,135053-2,"Phytologia","18: 210","","1969",kew-107865
+kew-107867,A,Verbenaceae,,Lantana,,"achyranthifolia",f.,"lilacina","Moldenke",Synonym,,L,WCSP,107867,135054-2,"Phytologia","27: 65","","1973",kew-107865
+kew-107868,A,Verbenaceae,,Lantana,×,"aculeata",,"","L.",Accepted,,H,WCSP,107868,135055-2,"Sp. Pl.","627","","1753",
+tro-100364579,A,Verbenaceae,,Lantana,,"aculeata",f.,"aculeata","",Synonym,,L,TRO,100364579,,"","","","",kew-107868
+kew-251843,A,Verbenaceae,,Lantana,×,"aculeata",f.,"alba","(Moldenke) I.E.Méndez",Synonym,,L,WCSP,251843,20009861-1,"Willdenowia","32: 289","","2002",kew-107868
+kew-107869,A,Verbenaceae,,Lantana,×,"aculeata",f.,"crocea","(Jacq.) Voss",Synonym,,L,WCSP,107869,290786-2,"Vilm. Blumengärtn. ed. 3","1: 823","","1894",kew-107934
+kew-107870,A,Verbenaceae,,Lantana,×,"aculeata",f.,"mista","(L.) Voss",Synonym,,L,WCSP,107870,290787-2,"Vilm. Blumengärtn. ed. 3","1: 823","","1894",kew-108173
+kew-107871,A,Verbenaceae,,Lantana,×,"aculeata",f.,"nivea","(Vent.) Voss",Synonym,,L,WCSP,107871,290788-2,"Vilm. Blumengärtn. ed. 3","1: 823","","1894",kew-108192
+kew-251846,A,Verbenaceae,,Lantana,×,"aculeata",f.,"rubella","(Moldenke) I.E.Méndez",Synonym,,L,WCSP,251846,20009866-1,"Willdenowia","32: 290","","2002",kew-347186
+kew-107872,A,Verbenaceae,,Lantana,×,"aculeata",var.,"subinermis","(Kuntze) Voss",Synonym,,L,WCSP,107872,135056-2,"Vilm. Blumengärtn. ed. 3","1: 823","","1894",kew-107934
+kew-107873,A,Verbenaceae,,Lantana,,"africana",,"","L.",Unresolved,,L,WCSP,107873,863195-1,"Sp. Pl.","628","","1753",tro-21600015
+kew-107874,A,Verbenaceae,,Lantana,,"alainii",,"","Moldenke",Accepted,,H,WCSP,107874,135057-2,"Phytologia","18: 500","","1969",
+kew-107875,A,Verbenaceae,,Lantana,,"alatipes",,"","Urb. & Ekman",Synonym,,H,WCSP,107875,135058-2,"Ark. Bot.","22A(17): 102","","1929",kew-108026
+kew-107876,A,Verbenaceae,,Lantana,,"alba",,"","Mill.",Synonym,,H,WCSP,107876,135059-2,"Gard. Dict. ed. 8","8","","1768",kew-113316
+kew-107877,A,Verbenaceae,,Lantana,,"alba",,"","Mill. ex Link",Synonym,Illegitimate,H,WCSP,107877,,"Unknown","","","1828",kew-108255
+kew-341311,A,Verbenaceae,,Lantana,,"alba",f.,"rubella","Moldenke",Synonym,,L,WCSP,341311,,"Phytologia","5: 12","","1954",kew-113316
+kew-107878,A,Verbenaceae,,Lantana,×,"albopurpurea",,"","Desf.",Synonym,,L,WCSP,107878,863200-1,"Tabl. École Bot.","ed. 3: 392","","1829",kew-108173
+tro-33701595,A,Verbenaceae,,Lantana,,"albopurpurea",,"","Desf.",Synonym,,M,TRO,33701595,863200-1,"Tabl. École Bot. (ed. 3)","392","392","1829",kew-108312
+kew-107879,A,Verbenaceae,,Lantana,×,"amethystina",,"","Otto & A.Dietr.",Synonym,,H,WCSP,107879,863201-1,"Allg. Gartenzeitung","9: 370","","1841",kew-107868
+kew-107880,A,Verbenaceae,,Lantana,,"amoena",,"","Ridl.",Accepted,,H,WCSP,107880,135060-2,"J. Linn. Soc., Bot.","27: 52","","1890",
+kew-107881,A,Verbenaceae,,Lantana,,"angolensis",,"","Moldenke",Accepted,,H,WCSP,107881,863203-1,"Phytologia","3: 37","","1948",
+kew-107882,A,Verbenaceae,,Lantana,,"angustibracteata",,"","Hayek",Accepted,,H,WCSP,107882,135061-2,"Bot. Jahrb. Syst.","42: 168","","1908",
+kew-107883,A,Verbenaceae,,Lantana,,"angustifolia",,"","Mill.",Accepted,,H,WCSP,107883,330565-2,"Gard. Dict. ed. 8","10","","1768",
+kew-107884,A,Verbenaceae,,Lantana,,"annua",,"","L.",Synonym,,H,WCSP,107884,863206-1,"Sp. Pl.","627","","1753",kew-108312
+kew-107885,A,Verbenaceae,,Lantana,,"annua",,"","C.B.Clarke",Synonym,Invalid,H,WCSP,107885,863207-1,"Fl. Brit. India","4: 563","","1885",kew-107934
+kew-107886,A,Verbenaceae,,Lantana,×,"antidotalis",,"","Schumach. & Thonn.",Unresolved,,L,WCSP,107886,863208-1,"Beskr. Guin. Pl.","276","","1827",
+tro-33703331,A,Verbenaceae,,Lantana,,"antidotalis",,"","Schum. & Thonn.",Synonym,,L,TRO,33703331,,"Beskr. Guin. Pl.","276","276","1827",kew-107886
+kew-107887,A,Verbenaceae,,Lantana,,"antillana",,"","Raf.",Synonym,,H,WCSP,107887,863209-1,"Sylva Tellur.","82","","1838",kew-107934
+kew-107888,A,Verbenaceae,,Lantana,,"arida",,"","Britton",Synonym,,H,WCSP,107888,135062-2,"Bull. Torrey Bot. Club","37: 357","","1910",kew-108080
+kew-107889,A,Verbenaceae,,Lantana,,"arida",var.,"portoricensis","Moldenke",Synonym,,L,WCSP,107889,135063-2,"Phytologia","50: 214","","1982",kew-107934
+kew-107890,A,Verbenaceae,,Lantana,,"arida",var.,"sargentii","Moldenke",Synonym,,L,WCSP,107890,135064-2,"Phytologia","50: 214","","1982",kew-107934
+kew-251847,A,Verbenaceae,,Lantana,,"arida",f.,"zanonii","(R.W.Sanders) I.E.Méndez",Synonym,,L,WCSP,251847,20009867-1,"Willdenowia","32: 291","","2002",kew-108080
+kew-107891,A,Verbenaceae,,Lantana,,"aristata",,"","(Schauer) Briq.",Synonym,,H,WCSP,107891,135065-2,"Ark. Bot.","2(10): 17","","1904",kew-113337
+kew-107892,A,Verbenaceae,,Lantana,,"aristata",var.,"angustifolia","Moldenke",Synonym,,L,WCSP,107892,135066-2,"Phytologia","1: 170","","1935",kew-113337
+kew-107893,A,Verbenaceae,,Lantana,,"aristata",var.,"brachypoda","Briq.",Synonym,,L,WCSP,107893,135067-2,"Bull. Herb. Boissier","II, 4: 1065","","1904",kew-113337
+kew-107894,A,Verbenaceae,,Lantana,,"aristata",f.,"brachypoda","(Briq.) Briq.",Synonym,,L,WCSP,107894,,"Ark. Bot.","2(10): 17","","1904",kew-113337
+kew-107895,A,Verbenaceae,,Lantana,,"aristata",var.,"cabrerae","Moldenke",Synonym,,L,WCSP,107895,135068-2,"Lilloa","5: 404","","1940",kew-107968
+kew-107897,A,Verbenaceae,,Lantana,,"aristata",var.,"hoehnei","Moldenke",Synonym,,L,WCSP,107897,135071-2,"Phytologia","3: 112","","1949",kew-113337
+kew-107898,A,Verbenaceae,,Lantana,,"aristata",var.,"latiuscula","Briq.",Synonym,,L,WCSP,107898,135072-2,"Ark. Bot.","2(10): 17","","1904",kew-113337
+kew-107899,A,Verbenaceae,,Lantana,,"aristata",var.,"longipedunculata","Moldenke",Synonym,,L,WCSP,107899,135073-2,"Phytologia","35: 276","","1977",kew-113337
+kew-107900,A,Verbenaceae,,Lantana,,"aristata",var.,"pluripedunculata","Moldenke",Synonym,,L,WCSP,107900,135074-2,"Phytologia","1: 170","","1935",kew-113337
+kew-107901,A,Verbenaceae,,Lantana,,"aristata",var.,"subsessilis","Moldenke",Synonym,,L,WCSP,107901,135075-2,"Phytologia","2: 410","","1948",kew-113337
+kew-107902,A,Verbenaceae,,Lantana,,"aristeguietae",,"","Moldenke",Accepted,,H,WCSP,107902,135076-2,"Phytologia","19: 199","","1969",
+kew-107903,A,Verbenaceae,,Lantana,,"armata",,"","Schauer",Synonym,,H,WCSP,107903,,"Linnaea","20: 480","","1847",kew-108071
+kew-107904,A,Verbenaceae,,Lantana,,"armata",var.,"guianensis","Moldenke",Synonym,,L,WCSP,107904,135070-2,"Phytologia","51: 244","","1982",kew-108071
+kew-107905,A,Verbenaceae,,Lantana,,"armata",f.,"ternifolia","Moldenke",Synonym,,L,WCSP,107905,892427-1,"Phytologia","47: 223","","1980",kew-108071
+kew-107906,A,Verbenaceae,,Lantana,,"armata",var.,"velutina","Moldenke",Synonym,,L,WCSP,107906,135077-2,"Phytologia","23: 180","","1972",kew-108071
+kew-107907,A,Verbenaceae,,Lantana,,"arubensis",,"","Moldenke",Synonym,,H,WCSP,107907,135078-2,"Caribbean Forester","2: 15","","1940",kew-108098
+kew-107908,A,Verbenaceae,,Lantana,,"asperata",,"","Vis.",Synonym,,H,WCSP,107908,863216-1,"Orto Bot. Padova","142","","1842",kew-107934
+kew-107909,A,Verbenaceae,,Lantana,×,"bahamensis",,"","Britton",Accepted,,H,WCSP,107909,135079-2,"Bull. New York Bot. Gard.","3: 450","","1905",
+kew-107911,A,Verbenaceae,,Lantana,×,"bahamensis",f.,"canescens","Moldenke",Synonym,,L,WCSP,107911,135081-2,"Phytologia","31: 26","","1975",kew-107868
+kew-107913,A,Verbenaceae,,Lantana,×,"bahiensis",,"","Turcz.",Synonym,,H,WCSP,107913,863218-1,"Bull. Soc. Imp. Naturalistes Moscou","36(2): 206","","1863",kew-108189
+tro-100002100,A,Verbenaceae,,Lantana,,"bahiensis",,"","Turcz.",Unresolved,,L,TRO,100002100,,"Bull. Soc. Imp. Naturalistes Moscou","36: 206","206","",
+kew-107914,A,Verbenaceae,,Lantana,,"balansae",,"","Briq.",Accepted,,H,WCSP,107914,135083-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 300","","1904",
+kew-107915,A,Verbenaceae,,Lantana,,"balansae",f.,"albiflora","Osten ex Moldenke",Synonym,,L,WCSP,107915,135084-2,"Phytologia","3: 310","","1950",kew-107914
+kew-107916,A,Verbenaceae,,Lantana,,"balansae",var.,"hatschbachii","Moldenke",Synonym,,L,WCSP,107916,135085-2,"Phytologia","47: 88","","1980",kew-107914
+kew-107917,A,Verbenaceae,,Lantana,,"balansae",var.,"peduncularis","Briq.",Synonym,,L,WCSP,107917,135086-2,"Bull. Herb. Boissier","II, 4: 1063","","1904",kew-107914
+kew-107918,A,Verbenaceae,,Lantana,,"balsamifera",,"","Britton",Accepted,,H,WCSP,107918,135087-2,"Bull. New York Bot. Gard.","4: 123","","1906",
+kew-107919,A,Verbenaceae,,Lantana,,"bartramii",,"","Baldwin",Synonym,,H,WCSP,107919,,"Reliq. Baldw.","247","","1843",kew-108034
+kew-107920,A,Verbenaceae,,Lantana,,"bazeiana",,"","(H.Pearson) Prain",Synonym,,H,WCSP,107920,,"Index Kew.","Suppl. 3: 100","","1908",kew-113705
+kew-107921,A,Verbenaceae,,Lantana,,"bernardinensis",,"","Briq.",Synonym,,H,WCSP,107921,135088-2,"Bull. Herb. Boissier","II, 4: 1066","","1904",kew-107865
+kew-107922,A,Verbenaceae,,Lantana,,"bipinnatifida",,"","Sessé & Moc.",Synonym,,H,WCSP,107922,135089-2,"Fl. Mexic.","ed. 2: 141","","1894",kew-108312
+kew-463416,A,Verbenaceae,,Lantana,,"bocainiensis",,"","(Glaz.) Tronc. ex Rotman & Múlgura",Unresolved,,L,WCSP,463416,77108670-1,"Darwiniana","48: 97","","2010",
+kew-107923,A,Verbenaceae,,Lantana,,"boyacana",,"","Moldenke",Synonym,,H,WCSP,107923,135090-2,"Bull. Torrey Bot. Club","68: 505","","1941",kew-108257
+kew-107924,A,Verbenaceae,,Lantana,,"brachypoda",,"","Hayek",Synonym,,H,WCSP,107924,135091-2,"Bot. Jahrb. Syst.","42: 167","","1908",kew-113372
+kew-107925,A,Verbenaceae,,Lantana,,"bracteosa",,"","M.Martens & Galeotti",Synonym,,H,WCSP,107925,135092-2,"Bull. Acad. Roy. Sci. Bruxelles","11(2): 326","","1845",kew-113374
+kew-107926,A,Verbenaceae,,Lantana,,"brasiliensis",,"","Link",Synonym,,H,WCSP,107926,135093-2,"Enum. Hort. Berol. Alt.","2: 126","","1822",kew-252612
+kew-107927,A,Verbenaceae,,Lantana,,"brasiliensis",var.,"septentrionalis","Moldenke",Synonym,,L,WCSP,107927,135094-2,"Phytologia","6: 327","","1958",kew-252612
+kew-107928,A,Verbenaceae,,Lantana,,"brittonii",,"","Moldenke",Synonym,,H,WCSP,107928,135095-2,"Phytologia","2: 52","","1941",kew-108277
+kew-107929,A,Verbenaceae,,Lantana,,"bruchii",,"","(Moldenke) Tronc.",Synonym,,H,WCSP,107929,,"Unknown","","","",kew-107914
+kew-107930,A,Verbenaceae,,Lantana,,"buchii",,"","Urb.",Accepted,,H,WCSP,107930,135096-2,"Symb. Antill.","7: 351","","1912",
+kew-107931,A,Boraginaceae,,Lantana,,"bullata",,"","L.",Synonym,,H,WCSP,107931,863232-1,"Sp. Pl.","627","","1753",kew-2736699
+kew-107932,A,Verbenaceae,,Lantana,,"caatingensis",,"","Moldenke",Accepted,,H,WCSP,107932,135098-2,"Phytologia","24: 298","","1972",
+kew-107933,A,Verbenaceae,,Lantana,,"cabrerae",,"","Moldenke",Synonym,,H,WCSP,107933,135099-2,"Lilloa","5: 406","","1940",kew-107865
+kew-107934,A,Verbenaceae,,Lantana,,"camara",,"","L.",Accepted,,H,WCSP,107934,325686-2,"Sp. Pl.","627","","1753",
+kew-107935,A,Verbenaceae,,Lantana,,"camara",var.,"aculeata","(L.) Moldenke",Synonym,,L,WCSP,107935,135100-2,"Torreya","34: 9","","1934",kew-107868
+kew-347184,A,Verbenaceae,,Lantana,,"camara",subsp.,"aculeata","(L.) R.W.Sanders",Synonym,,L,WCSP,347184,60444378-2,"Sida","22: 394","","2006",kew-107868
+kew-107936,A,Verbenaceae,,Lantana,,"camara",f.,"aculeifera","Moldenke",Synonym,,L,WCSP,107936,135101-2,"Phytologia","52: 129","","1982",kew-107868
+kew-107937,A,Verbenaceae,,Lantana,,"camara",f.,"alba","(Moldenke) Moldenke",Synonym,,L,WCSP,107937,892433-1,"Phytologia","45: 296","","1980",kew-107868
+kew-107938,A,Verbenaceae,,Lantana,,"camara",var.,"alba","Moldenke",Synonym,,L,WCSP,107938,325685-2,"Phytologia","5: 132","","1955",kew-107868
+kew-107939,A,Verbenaceae,,Lantana,,"camara",f.,"albiflora","Moldenke",Synonym,,L,WCSP,107939,135102-2,"Phytologia","47: 223","","1980",kew-107934
+kew-251848,A,Verbenaceae,,Lantana,,"camara",f.,"caffertyi","I.E.Méndez",Synonym,,L,WCSP,251848,325689-2,"Willdenowia","32: 294","","2002",kew-107934
+tro-100364577,A,Verbenaceae,,Lantana,,"camara",f.,"camara","",Synonym,,L,TRO,100364577,,"","","","",kew-107934
+tro-50143898,A,Verbenaceae,,Lantana,,"camara",var.,"camara","",Synonym,,L,TRO,50143898,,"","","","",kew-107934
+kew-107940,A,Verbenaceae,,Lantana,,"camara",var.,"crocea","L.H.Bailey",Synonym,,L,WCSP,107940,135103-2,"Cycl. Amer. Hort.","884","","1900",kew-107934
+kew-107941,A,Verbenaceae,,Lantana,,"camara",f.,"flava","(Medik.) Moldenke",Synonym,,L,WCSP,107941,1033721-2,"Phytologia","45: 296","","1980",kew-108033
+kew-455988,A,Verbenaceae,,Lantana,,"camara",var.,"flava","(Medik.) Moldenke",Synonym,,L,WCSP,455988,,"Known Geogr. Distr. Verbenac. Avicenn.","77","","1942",kew-108033
+kew-107942,A,Verbenaceae,,Lantana,,"camara",f.,"glandulosa","R.Fern.",Synonym,,L,WCSP,107942,950827-1,"Bol. Soc. Brot.","II, 61: 132","","1988",kew-347186
+kew-107943,A,Verbenaceae,,Lantana,,"camara",f.,"macrantha","(Loes.) Moldenke",Synonym,,L,WCSP,107943,135104-2,"Phytologia","45: 296","","1980",kew-107934
+kew-107944,A,Verbenaceae,,Lantana,,"camara",var.,"macrantha","Loes.",Synonym,,L,WCSP,107944,135105-2,"Verh. Bot. Vereins Prov. Brandenburg","53: 76","","1912",kew-107934
+kew-107945,A,Verbenaceae,,Lantana,,"camara",f.,"mista","(L.) Moldenke",Synonym,,L,WCSP,107945,135106-2,"Phytologia","45: 296","","1980",kew-108173
+kew-107946,A,Verbenaceae,,Lantana,,"camara",var.,"mista","(L.) L.H.Bailey",Synonym,,L,WCSP,107946,,"Cycl. Amer. Hort.","883","","1900",kew-108173
+kew-107947,A,Verbenaceae,,Lantana,,"camara",var.,"moritziana","(Otto & A.Dietr.) López-Pal.",Synonym,,L,WCSP,107947,135126-2,"Rev. Fac. Farm. Univ. Andes","14: 21","","1974",kew-107934
+tro-100363509,A,Verbenaceae,,Lantana,,"camara",subsp.,"moritziana","(Otto & A. Dietr.) R.W. Sanders",Synonym,,L,TRO,100363509,,"","","","",kew-107934
+kew-107948,A,Verbenaceae,,Lantana,,"camara",f.,"multiflora","(Otto & A.Dietr.) Moldenke",Synonym,,L,WCSP,107948,892439-1,"Phytologia","45: 296","","1980",kew-107934
+kew-107949,A,Verbenaceae,,Lantana,,"camara",var.,"multiflora","Otto & A.Dietr.",Synonym,,L,WCSP,107949,,"Allg. Gartenzeitung","9: 370","","1841",kew-107934
+kew-107950,A,Verbenaceae,,Lantana,,"camara",f.,"mutabilis","(Hook.) Moldenke",Synonym,,L,WCSP,107950,135109-2,"Phytologia","45: 296","","1980",kew-107868
+kew-334919,A,Verbenaceae,,Lantana,,"camara",var.,"mutabilis","(Hook.) L.H.Bailey",Synonym,,L,WCSP,334919,135110-2,"Cycl. Amer. Hort.","1: 884","","1900",kew-107868
+kew-107951,A,Verbenaceae,,Lantana,,"camara",var.,"nana","Moldenke",Synonym,,L,WCSP,107951,892441-1,"Phytologia","28: 402","","1974",kew-107934
+kew-107952,A,Verbenaceae,,Lantana,,"camara",f.,"nana","(Moldenke) Moldenke",Synonym,,L,WCSP,107952,135111-2,"Phytologia","45: 296","","1980",kew-107934
+kew-107953,A,Verbenaceae,,Lantana,,"camara",var.,"nivea","(Vent.) L.H.Bailey",Synonym,,L,WCSP,107953,135113-2,"Cycl. Amer. Hort.","883","","1900",kew-108192
+kew-107955,A,Verbenaceae,,Lantana,,"camara",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,107955,,"Phytologia","2: 467","","1948",kew-107868
+kew-251849,A,Verbenaceae,,Lantana,,"camara",f.,"portoricensis","(Moldenke) I.E.Méndez",Synonym,,L,WCSP,251849,20009869-1,"Willdenowia","32: 294","","2002",kew-107934
+kew-107956,A,Verbenaceae,,Lantana,,"camara",f.,"rosea","(Mosty ex Mattoon) Moldenke",Synonym,,L,WCSP,107956,892444-1,"Phytologia","45: 296","","1980",kew-107934
+kew-107957,A,Verbenaceae,,Lantana,,"camara",var.,"rosea","Mosty ex Mattoon",Synonym,,L,WCSP,107957,,"Pl. Buyers Guide","ed. 6: 167","","1958",kew-107934
+kew-107958,A,Verbenaceae,,Lantana,,"camara",f.,"rubella","(Moldenke) Moldenke",Synonym,,L,WCSP,107958,135116-2,"Phytologia","45: 296","","1980",kew-347186
+kew-107959,A,Verbenaceae,,Lantana,,"camara",var.,"rubella","Moldenke",Synonym,,L,WCSP,107959,135117-2,"Phytologia","3: 61","","1949",kew-347186
+kew-107960,A,Verbenaceae,,Lantana,,"camara",f.,"rubelloflavescens","Moldenke",Synonym,,L,WCSP,107960,135118-2,"Phytologia","50: 309","","1982",kew-107934
+kew-107961,A,Verbenaceae,,Lantana,,"camara",f.,"rubra","(Mosty ex Mattoon) Moldenke",Synonym,,L,WCSP,107961,892446-1,"Phytologia","45: 296","","1980",kew-107934
+kew-107962,A,Verbenaceae,,Lantana,,"camara",var.,"rubra","Mosty ex Mattoon",Synonym,,L,WCSP,107962,,"Pl. Buyers Guide","ed. 6: 167","","1958",kew-107934
+kew-107963,A,Verbenaceae,,Lantana,,"camara",f.,"sanguinea","(Medik.) Moldenke",Synonym,,L,WCSP,107963,135119-2,"Phytologia","45: 296","","1980",kew-107934
+kew-334920,A,Verbenaceae,,Lantana,,"camara",var.,"sanguinea","(Medik.) L.H.Bailey",Synonym,,L,WCSP,334920,135120-2,"Cycl. Amer. Hort.","1: 884","","1900",kew-107934
+kew-107964,A,Verbenaceae,,Lantana,,"camara",var.,"splendens","(Medik.) Moldenke",Synonym,,L,WCSP,107964,892449-1,"Phytologia","33: 130","","1976",kew-108292
+kew-107965,A,Verbenaceae,,Lantana,,"camara",f.,"splendens","(Medik.) Moldenke",Synonym,,L,WCSP,107965,892448-1,"Phytologia","45: 296","","1980",kew-108292
+kew-107966,A,Verbenaceae,,Lantana,,"camara",f.,"ternata","(Moldenke) Moldenke",Synonym,,L,WCSP,107966,135121-2,"Phytologia","45: 296","","1980",kew-107934
+kew-251850,A,Verbenaceae,,Lantana,,"camara",var.,"ternata","Moldenke",Synonym,,L,WCSP,251850,135122-2,"Phytologia","8: 160","","1962",kew-107934
+kew-251851,A,Verbenaceae,,Lantana,,"camara",f.,"urticifolia","(Mill.) I.E.Méndez",Synonym,,L,WCSP,251851,20009871-1,"Willdenowia","32: 295","","2002",kew-107934
+kew-107967,A,Verbenaceae,,Lantana,,"camara",f.,"varia","(Kuntze) Moldenke",Synonym,,L,WCSP,107967,892451-1,"Phytologia","45: 296","","1980",kew-107934
+kew-107968,A,Verbenaceae,,Lantana,,"canescens",,"","Kunth",Accepted,,H,WCSP,107968,863236-1,"Nov. Gen. Sp.","2: 259","","1818",
+kew-107969,A,Verbenaceae,,Lantana,,"canescens",f.,"grandifolia","Moldenke",Synonym,,L,WCSP,107969,135124-2,"Phytologia","44: 215","","1979",kew-107968
+kew-107970,A,Verbenaceae,,Lantana,,"canescens",var.,"integrifolia","Moldenke",Synonym,,L,WCSP,107970,135125-2,"Bot. Gaz.","106: 163","","1944",kew-107968
+kew-107971,A,Verbenaceae,,Lantana,,"canescens",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,107971,135127-2,"Phytologia","52: 178","","1982",kew-107968
+kew-107972,A,Verbenaceae,,Lantana,,"canescens",f.,"pluripedunculata","Moldenke",Synonym,,L,WCSP,107972,135128-2,"Phytologia","52: 414","","1983",kew-107968
+kew-107973,A,Verbenaceae,,Lantana,,"capensis",,"","Thunb.",Unresolved,,L,WCSP,107973,863238-1,"Prodr. Pl. Cap.","98","","1800",
+kew-107974,A,Verbenaceae,,Lantana,,"caracasana",,"","Turcz.",Accepted,,H,WCSP,107974,863239-1,"Bull. Soc. Imp. Naturalistes Moscou","36(2): 206","","1863",
+kew-107975,A,Verbenaceae,,Lantana,,"celtidifolia",,"","Kunth",Synonym,,H,WCSP,107975,863240-1,"Nov. Gen. Sp.","2: 259","","1818",kew-108312
+kew-107976,A,Verbenaceae,,Lantana,,"chamaedrifolia",,"","Cham.",Synonym,,H,WCSP,107976,135129-2,"Linnaea","7: 127","","1832",kew-252620
+kew-107977,A,Verbenaceae,,Lantana,,"chamissonis",,"","Benth. ex B.D.Jacks.",Accepted,,H,WCSP,107977,,"Index Kew.","2(1): 28","","1894",
+kew-107978,A,Verbenaceae,,Lantana,,"chiapasensis",,"","Moldenke",Accepted,,H,WCSP,107978,135131-2,"Phytologia","14: 216","","1967",
+kew-107979,A,Verbenaceae,,Lantana,,"chiapasensis",var.,"parvifolia","Moldenke",Synonym,,L,WCSP,107979,135132-2,"Phytologia","38: 498","","1978",kew-107978
+kew-107980,A,Verbenaceae,,Lantana,,"ciferriana",,"","Ekman ex Moldenke",Accepted,,H,WCSP,107980,135133-2,"Phytologia","2: 410","","1948",
+kew-107981,A,Verbenaceae,,Lantana,,"cinerea",,"","Lam. ex Otto & Dietr.",Synonym,,H,WCSP,107981,863246-1,"Allg. Gartenzeitung","9: 378","","1841",kew-252612
+kew-107982,A,Verbenaceae,,Lantana,,"citrosa",,"","(Small) Moldenke",Synonym,,H,WCSP,107982,135134-2,"Publ. Carnegie Inst. Wash.","522: 158","","1940",kew-107968
+kew-107983,A,Verbenaceae,,Lantana,,"clarazii",,"","Ball",Synonym,,H,WCSP,107983,863248-1,"J. Linn. Soc., Bot.","21: 229","","1884",kew-105402
+kew-107984,A,Verbenaceae,,Lantana,,"coccinea",,"","Lodd. ex G.Don",Synonym,Invalid,H,WCSP,107984,863249-1,"Hort. Brit.","245","","1830",kew-107934
+kew-107985,A,Verbenaceae,,Lantana,,"coimbrensis",,"","S.Moore",Accepted,,H,WCSP,107985,135135-2,"Trans. Linn. Soc. London, Bot.","4: 435","","1895",
+kew-107986,A,Verbenaceae,,Lantana,,"collina",,"","Decne.",Synonym,,H,WCSP,107986,,"Voy. Inde","4: 136","","1841",kew-108095
+kew-107987,A,Verbenaceae,,Lantana,,"colombiana",,"","López-Pal.",Accepted,,H,WCSP,107987,863252-1,"Rev. Fac. Farm. Univ. Andes","17: 44","","1976",
+kew-107988,A,Verbenaceae,,Lantana,,"concinna",,"","Baker",Synonym,,H,WCSP,107988,863253-1,"Bull. Misc. Inform. Kew","1895: 223","","1895",kew-108361
+kew-107989,A,Verbenaceae,,Lantana,,"concinna",var.,"macrophylla","Chiov.",Synonym,,L,WCSP,107989,,"Unknown","","","1916",kew-108361
+kew-107990,A,Verbenaceae,,Lantana,,"cordatibracteata",,"","Moldenke",Accepted,,H,WCSP,107990,135137-2,"Phytologia","3: 167","","1949",
+kew-107991,A,Verbenaceae,,Lantana,,"cordobensis",,"","Moldenke",Synonym,Illegitimate,H,WCSP,107991,863255-1,"Phytologia","1: 279","","1938",kew-108059
+kew-107992,A,Verbenaceae,,Lantana,,"corymbosa",,"","L.",Unresolved,,L,WCSP,107992,135138-2,"Sp. Pl.","628","","1753",kew-2448047
+kew-107993,A,Verbenaceae,,Lantana,,"costaricensis",,"","Hayek",Accepted,,H,WCSP,107993,135139-2,"Repert. Spec. Nov. Regni Veg.","2: 162","","1906",
+kew-107994,A,Verbenaceae,,Lantana,,"costaricensis",var.,"pubescens","Moldenke",Synonym,,L,WCSP,107994,135140-2,"Phytologia","55: 288","","1984",kew-108345
+kew-107995,A,Verbenaceae,,Lantana,,"crenulata",,"","Otto & A.Dietr.",Synonym,,H,WCSP,107995,863258-1,"Allg. Gartenzeitung","9: 363","","1841",kew-108277
+kew-107996,A,Verbenaceae,,Lantana,,"crispa",,"","Thunb.",Unresolved,,L,WCSP,107996,863259-1,"Prodr. Pl. Cap.","98","","1800",
+kew-107997,A,Verbenaceae,,Lantana,,"crocea",,"","Jacq.",Synonym,,H,WCSP,107997,290785-2,"Pl. Hort. Schoenbr.","4: 473","","1804",kew-107934
+kew-107998,A,Verbenaceae,,Lantana,,"crocea",var.,"guatemalensis","Loes.",Synonym,,L,WCSP,107998,135141-2,"Verh. Bot. Vereins Prov. Brandenburg","53: 76","","1911",kew-107934
+kew-107999,A,Verbenaceae,,Lantana,,"cubensis",,"","Moldenke",Accepted,,H,WCSP,107999,135142-2,"Caribbean Forester","2: 16","","1940",
+kew-108000,A,Verbenaceae,,Lantana,,"cujabensis",,"","Schauer",Accepted,,H,WCSP,108000,324302-2,"Prodr.","11: 599","","1847",
+kew-108001,A,Verbenaceae,,Lantana,,"cujabensis",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108001,135143-2,"Phytologia","55: 115","","1984",kew-108000
+tro-33702761,A,Verbenaceae,,Lantana,,"cujabensis",var.,"cujabensis","",Synonym,,L,TRO,33702761,,"","","","",kew-108000
+kew-108002,A,Verbenaceae,,Lantana,,"cujabensis",var.,"hispida","Moldenke",Synonym,,L,WCSP,108002,135144-2,"Phytologia","46: 58","","1980",kew-108000
+kew-108003,A,Verbenaceae,,Lantana,,"cujabensis",var.,"paraensis","Moldenke",Synonym,,L,WCSP,108003,916415-1,"Phytologia","48: 290","","1981",kew-108000
+kew-108004,A,Verbenaceae,,Lantana,,"cujabensis",var.,"parvifolia","Moldenke",Synonym,,L,WCSP,108004,135146-2,"Phytologia","9: 186","","1963",kew-108000
+kew-108005,A,Verbenaceae,,Lantana,,"cujabensis",var.,"punctata","Moldenke",Synonym,,L,WCSP,108005,288162-2,"Phytologia","2: 411","","1948",kew-108137
+kew-108006,A,Verbenaceae,,Lantana,,"cujabensis",var.,"scabrifolia","Moldenke",Synonym,,L,WCSP,108006,892455-1,"Phytologia","46: 58","","1980",kew-108000
+kew-108007,A,Verbenaceae,,Lantana,,"cummingiana",,"","Hayek",Synonym,,H,WCSP,108007,135148-2,"Repert. Spec. Nov. Regni Veg.","2: 161","","1906",kew-108340
+kew-108008,A,Verbenaceae,,Lantana,,"cuneatifolia",,"","Klotzsch ex Walp.",Synonym,,H,WCSP,108008,863264-1,"Repert. Bot. Syst.","4: 45","","1845",kew-113316
+kew-108009,A,Verbenaceae,,Lantana,,"czermakii",,"","Briq.",Synonym,,H,WCSP,108009,135149-2,"Annuaire Conserv. Jard. Bot. Genève","3: 164","","1899",kew-108040
+kew-108010,A,Verbenaceae,,Lantana,,"dauensis",,"","Chiov.",Synonym,,H,WCSP,108010,863266-1,"Ann. Bot. (Rome)","10: 402","","1912",kew-113432
+kew-108011,A,Verbenaceae,,Lantana,,"decumbens",,"","Sellow ex A.DC.",Synonym,,H,WCSP,108011,863267-1,"Prodr.","11: 604","","1847",kew-108181
+kew-108012,A,Verbenaceae,,Lantana,,"delicatissima",,"","Poit.",Synonym,,H,WCSP,108012,863268-1,"Rev. Hort.","IV, 1: 461","","1852",kew-108181
+kew-108013,A,Verbenaceae,,Lantana,,"demutata",,"","Millsp.",Accepted,,H,WCSP,108013,135150-2,"Publ. Field Columb. Mus., Bot. Ser.","2: 175","","1906",
+kew-108014,A,Verbenaceae,,Lantana,,"depressa",,"","Small",Accepted,,H,WCSP,108014,135151-2,"Bull. New York Bot. Gard.","3: 436","","1905",
+kew-108015,A,Verbenaceae,,Lantana,,"depressa",var.,"depressa","",Synonym,,L,WCSP,108015,,"Unknown","","","",kew-108014
+kew-108016,A,Verbenaceae,,Lantana,,"depressa",var.,"floridana","(Moldenke) R.W.Sanders",Accepted,,L,WCSP,108016,953352-1,"Syst. Bot.","12: 55","","1987",
+kew-108018,A,Verbenaceae,,Lantana,,"dinteri",,"","Moldenke",Accepted,,H,WCSP,108018,863271-1,"Phytologia","2: 467","","1948",
+kew-375317,A,Verbenaceae,,Lantana,,"dinteri",var.,"punctata","Moldenke",Synonym,,L,WCSP,375317,,"Bol. Soc. Brot.","II, 39: 133","","1965",kew-108299
+kew-108019,A,Verbenaceae,,Lantana,,"dubia",,"","Wall. ex Walp.",Synonym,,H,WCSP,108019,863272-1,"Repert. Bot. Syst.","4: 63","","1845",kew-108312
+kew-108020,A,Verbenaceae,,Lantana,,"dubia",,"","Royle",Synonym,,H,WCSP,108020,,"Ill. Bot. Himal. Mts.","300","","1836",kew-108312
+kew-108021,A,Verbenaceae,,Lantana,,"dwyeriana",,"","Moldenke",Accepted,,H,WCSP,108021,135153-2,"Phytologia","52: 178","","1982",
+kew-108022,A,Verbenaceae,,Lantana,,"ebrenbergiana",,"","Moldenke",Accepted,,H,WCSP,108022,135152-2,"Phytologia","2: 312","","1947",
+tro-100371729,A,Verbenaceae,,Lantana,,"ehrenbergiana",,"","Moldenke",Unresolved,,L,TRO,100371729,,"","","","",
+kew-108023,A,Verbenaceae,,Lantana,,"eitenorum",,"","Moldenke",Synonym,,H,WCSP,108023,135154-2,"Phytologia","32: 333","","1975",kew-113337
+kew-108024,A,Verbenaceae,,Lantana,,"elenievskii",,"","I.E.Mendez",Accepted,,H,WCSP,108024,,"Kew Bull.","54: 487","","1999",
+kew-108025,A,Verbenaceae,,Lantana,×,"entrerriensis",,"","Tronc.",Accepted,,H,WCSP,108025,863276-1,"Darwiniana","19: 495","","1975",
+kew-108026,A,Verbenaceae,,Lantana,,"exarata",,"","Urb. & Ekman",Accepted,,H,WCSP,108026,135155-2,"Ark. Bot.","22A(17): 103","","1929",
+kew-108027,A,Verbenaceae,,Lantana,,"ferreyrae",,"","Moldenke",Accepted,,H,WCSP,108027,135156-2,"Amer. J. Bot.","38: 326","","1951",
+kew-108029,A,Verbenaceae,,Lantana,,"ferreyrae",var.,"ferreyrae","",Synonym,,L,WCSP,108029,,"Unknown","","","",kew-108027
+kew-108030,A,Verbenaceae,,Lantana,,"fiebrigii",,"","Hayek",Accepted,,H,WCSP,108030,135158-2,"Bot. Jahrb. Syst.","42: 169","","1908",
+kew-108031,A,Verbenaceae,,Lantana,,"fiebrigii",var.,"puberulenta","Moldenke",Synonym,,L,WCSP,108031,135159-2,"Phytologia","35: 277","","1977",kew-108030
+kew-108032,A,Verbenaceae,,Lantana,,"filiformis",,"","Dombey ex Schauer",Synonym,,H,WCSP,108032,863280-1,"Prodr.","11: 602","","1847",kew-108271
+kew-108033,A,Verbenaceae,,Lantana,×,"flava",,"","Medik.",Accepted,,H,WCSP,108033,325690-2,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat.","3: 225","","1775",
+tro-100364581,A,Verbenaceae,,Lantana,,"flava",f.,"flava","",Synonym,,L,TRO,100364581,,"","","","",kew-108033
+kew-251852,A,Verbenaceae,,Lantana,×,"flava",f.,"sandersii","I.E.Méndez",Synonym,,L,WCSP,251852,325691-2,"Willdenowia","32: 296","","2002",kew-347186
+kew-108034,A,Verbenaceae,,Lantana,×,"floridana",,"","Raf.",Accepted,,H,WCSP,108034,863282-1,"Atlantic J.","148","","1832",
+kew-108035,A,Verbenaceae,,Lantana,,"foetida",,"","Rusby",Synonym,,H,WCSP,108035,135160-2,"Bull. New York Bot. Gard.","4: 431","","1907",kew-108080
+kew-108036,A,Verbenaceae,,Lantana,,"frutilla",,"","Moldenke",Synonym,,H,WCSP,108036,135161-2,"Phytologia","1: 419","","1940",kew-108345
+kew-108037,A,Verbenaceae,,Lantana,,"frutilla",f.,"grossidentata","Moldenke",Synonym,,L,WCSP,108037,135162-2,"Phytologia","52: 130","","1982",kew-108345
+kew-108038,A,Verbenaceae,,Lantana,,"frutilla",var.,"longipes","Moldenke",Synonym,,L,WCSP,108038,135163-2,"Phytologia","18: 294","","1969",kew-108345
+kew-108039,A,Verbenaceae,,Lantana,,"frutilla",var.,"obtusifolia","Moldenke",Synonym,,L,WCSP,108039,135164-2,"Phytologia","14: 217","","1967",kew-108345
+kew-108040,A,Verbenaceae,,Lantana,,"fucata",,"","Lindl.",Accepted,,H,WCSP,108040,324303-2,"Bot. Reg.","10: t. 798","","1824",
+kew-108041,A,Verbenaceae,,Lantana,,"fucata",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108041,135165-2,"Phytologia","2: 468","","1948",kew-108040
+kew-108042,A,Verbenaceae,,Lantana,,"fucata",var.,"antillana","Moldenke",Synonym,,L,WCSP,108042,135166-2,"Phytologia","4: 128","","1952",kew-108040
+kew-108043,A,Verbenaceae,,Lantana,,"fucata",var.,"longipes","Moldenke",Synonym,,L,WCSP,108043,135167-2,"Phytologia","35: 277","","1977",kew-108040
+kew-108044,A,Verbenaceae,,Lantana,,"fuscata",,"","K.Koch",Synonym,,H,WCSP,108044,863287-1,"Wochenschr. Gärtnerei Pflanzenk.","1: 322","","1858",kew-108040
+kew-108045,A,Verbenaceae,,Lantana,,"galpiniana",,"","H.Pearson",Synonym,,H,WCSP,108045,863288-1,"Fl. Cap.","5: 189","","1901",kew-113550
+kew-108046,A,Verbenaceae,,Lantana,,"geminata",,"","(Kunth) Spreng.",Synonym,,H,WCSP,108046,863289-1,"Syst. Veg.","2: 763","","1825",kew-113316
+kew-108047,A,Verbenaceae,,Lantana,,"geroldiana",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108047,863290-1,"Allg. Gartenzeitung","9: 372","","1841",kew-108073
+kew-108048,A,Verbenaceae,,Lantana,,"glandulosissima",,"","Hayek",Synonym,,H,WCSP,108048,135168-2,"Repert. Spec. Nov. Regni Veg.","2: 161","","1906",kew-107934
+kew-108049,A,Verbenaceae,,Lantana,,"glandulosissima",f.,"aculeatissima","Hayek",Synonym,,L,WCSP,108049,,"Repert. Spec. Nov. Regni Veg.","2: 161","","1906",kew-107934
+kew-108050,A,Verbenaceae,,Lantana,,"glandulosissima",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108050,135170-2,"Phytologia","26: 177","","1973",kew-107934
+kew-108051,A,Verbenaceae,,Lantana,,"glandulosissima",f.,"flava","Moldenke",Synonym,,L,WCSP,108051,135171-2,"Phytologia","47: 223","","1980",kew-107934
+kew-108052,A,Verbenaceae,,Lantana,,"glandulosissima",var.,"grandis","Moldenke",Synonym,,L,WCSP,108052,135172-2,"Phytologia","52: 230","","1982",kew-107934
+kew-108053,A,Verbenaceae,,Lantana,,"glandulosissima",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,108053,135173-2,"Phytologia","49: 182","","1981",kew-107934
+kew-251853,A,Verbenaceae,,Lantana,,"glandulosissima",f.,"sargentii","(Moldenke) I.E.Méndez",Synonym,,L,WCSP,251853,20009873-1,"Willdenowia","32: 297","","2002",kew-107934
+kew-108054,A,Verbenaceae,,Lantana,,"glaziovii",,"","Moldenke",Accepted,,H,WCSP,108054,135174-2,"Phytologia","1: 462","","1940",
+kew-108055,A,Verbenaceae,,Lantana,,"glutinosa",,"","Poepp.",Synonym,,H,WCSP,108055,863293-1,"Allg. Gartenzeitung","10: 315","","1841",kew-108080
+kew-108056,A,Verbenaceae,,Lantana,,"glutinosa",var.,"orientalis","Moldenke",Synonym,,L,WCSP,108056,135175-2,"Phytologia","2: 411","","1948",kew-108080
+kew-108057,A,Verbenaceae,,Lantana,,"glutinosa",var.,"rugosa","Moldenke",Synonym,,L,WCSP,108057,135176-2,"Phytologia","46: 58","","1980",kew-108080
+kew-108058,A,Verbenaceae,,Lantana,,"gogchana",,"","Buch.-Ham. ex Voigt",Synonym,,H,WCSP,108058,863295-1,"Hort. Suburb. Calcutt.","472","","1845",kew-108312
+kew-251854,A,Verbenaceae,,Lantana,,"gracilis",,"","T.R.S.Silva",Accepted,,H,WCSP,251854,20011443-1,"Darwiniana","40: 59","","2002",
+kew-108059,A,Verbenaceae,,Lantana,,"grisebachii",,"","Stuck. ex Seckt",Accepted,,H,WCSP,108059,,"Rev. Univ. Nac. Cordoba","16-17: 417","","1930",
+kew-108060,A,Verbenaceae,,Lantana,,"grisebachii",var.,"brachyrachis","Tronc.",Synonym,,L,WCSP,108060,135178-2,"Darwiniana","19: 495","","1975",kew-108059
+tro-33703119,A,Verbenaceae,,Lantana,,"grisebachii",var.,"grisebachii","",Synonym,,L,TRO,33703119,,"","","","",kew-108059
+kew-108061,A,Verbenaceae,,Lantana,,"grisebachii",var.,"violacea","Tronc.",Synonym,,L,WCSP,108061,135180-2,"Darwiniana","19: 495","","1975",kew-108059
+kew-108062,A,Verbenaceae,,Lantana,,"grossiserrata",,"","Moldenke",Accepted,,H,WCSP,108062,863297-1,"Phytologia","1: 420","","1940",
+kew-108063,A,Verbenaceae,,Lantana,,"hassleri",,"","Briq.",Synonym,,H,WCSP,108063,135182-2,"Bull. Herb. Boissier","II, 4: 1064","","1904",kew-252620
+kew-108064,A,Verbenaceae,,Lantana,,"hatoensis",,"","Moldenke",Accepted,,H,WCSP,108064,279328-2,"Phytologia","57: 492","","1985",
+kew-108065,A,Verbenaceae,,Lantana,,"hatoensis",f.,"rubella","Moldenke",Synonym,,L,WCSP,108065,279329-2,"Phytologia","57: 492","","1985",kew-108064
+kew-108066,A,Verbenaceae,,Lantana,,"hatschbachii",,"","Moldenke",Accepted,,H,WCSP,108066,135183-2,"Phytologia","36: 164","","1977",
+kew-108067,A,Verbenaceae,,Lantana,,"haughtii",,"","Moldenke",Accepted,,H,WCSP,108067,135184-2,"Phytologia","1: 463","","1940",
+kew-108068,A,Verbenaceae,,Lantana,,"haughtii",var.,"obtusibracteata","Moldenke",Synonym,,L,WCSP,108068,135185-2,"Phytologia","2: 411","","1948",kew-108067
+kew-108069,A,Verbenaceae,,Lantana,,"haughtii",var.,"parvifolia","Moldenke",Synonym,,L,WCSP,108069,135186-2,"Phytologia","2: 412","","1948",kew-108067
+kew-108070,A,Verbenaceae,,Lantana,,"hintonii",,"","Moldenke",Synonym,,H,WCSP,108070,135187-2,"Phytologia","2: 137","","1946",kew-108073
+kew-108071,A,Verbenaceae,,Lantana,,"hirsuta",,"","M.Martens & Galeotti",Accepted,,H,WCSP,108071,30032194-2,"Bull. Acad. Roy. Sci. Bruxelles","11(2): 326","","1844",
+kew-108072,A,Verbenaceae,,Lantana,,"hirsuta",var.,"pubescens","Moldenke",Synonym,,L,WCSP,108072,,"Phytologia","20: 242","","1970",kew-108071
+tro-100363505,A,Verbenaceae,,Lantana,,"hirsuta",subsp.,"weberbaueri","(Hayek) R.W. Sanders",Synonym,,L,TRO,100363505,,"","","","",kew-108365
+kew-108073,A,Verbenaceae,,Lantana,,"hirta",,"","Graham",Accepted,,H,WCSP,108073,30105602-2,"Edinburgh New Philos. J.","1826(Oct.-Dec.): 186","","1826",
+kew-334921,A,Verbenaceae,,Lantana,,"hirta",f.,"caerulea","Moldenke",Synonym,,L,WCSP,334921,135189-2,"Phytologia","20: 338","","1970",kew-108073
+tro-100351353,A,Verbenaceae,,Lantana,,"hirta",var.,"pubescens","Moldenke",Synonym,,L,TRO,100351353,135188-2,"Phytologia","20(4): 242","242","1970",kew-108073
+kew-108074,A,Verbenaceae,,Lantana,,"hirta",f.,"ternata","Moldenke",Synonym,,L,WCSP,108074,135190-2,"Phytologia","8: 160","","1962",kew-108073
+kew-108075,A,Verbenaceae,,Lantana,,"hispida",,"","Kunth",Synonym,,H,WCSP,108075,863304-1,"Nov. Gen. Sp.","2: 260","","1818",kew-108080
+kew-108076,A,Verbenaceae,,Lantana,,"hispida",f.,"alba","Moldenke",Synonym,,L,WCSP,108076,135191-2,"Phytologia","9: 99","","1963",kew-108071
+kew-108077,A,Verbenaceae,,Lantana,,"hispida",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,108077,135192-2,"Phytologia","52: 130","","1982",kew-108071
+kew-108078,A,Verbenaceae,,Lantana,,"hispida",var.,"ternata","Moldenke",Synonym,,L,WCSP,108078,135193-2,"Phytologia","2: 225","","1947",kew-108071
+kew-108079,A,Verbenaceae,,Lantana,,"hodgei",,"","R.W.Sanders",Accepted,,H,WCSP,108079,279330-2,"J. Arnold Arbor.","68: 343","","1987",
+kew-108080,A,Verbenaceae,,Lantana,,"horrida",,"","Kunth",Accepted,,H,WCSP,108080,863305-1,"Nov. Gen. Sp.","2: 261","","1818",
+kew-108081,A,Verbenaceae,,Lantana,,"horrida",f.,"bracteosa","Moldenke",Synonym,,L,WCSP,108081,135194-2,"Phytologia","52: 231","","1982",kew-108080
+kew-108082,A,Verbenaceae,,Lantana,,"horrida",var.,"grandiflora","Schauer",Synonym,,L,WCSP,108082,135195-2,"Prodr.","11: 598","","1847",kew-108080
+kew-108083,A,Verbenaceae,,Lantana,,"horrida",f.,"inermis","Moldenke",Synonym,,L,WCSP,108083,135196-2,"Phytologia","52: 130","","1982",kew-108080
+kew-108084,A,Verbenaceae,,Lantana,,"horrida",f.,"latibracteata","Moldenke",Synonym,,L,WCSP,108084,135197-2,"Phytologia","38: 498","","1978",kew-108340
+kew-108085,A,Verbenaceae,,Lantana,,"horrida",f.,"microphylla","Moldenke",Synonym,,L,WCSP,108085,135198-2,"Phytologia","40: 260","","1978",kew-108080
+kew-108086,A,Verbenaceae,,Lantana,,"horrida",var.,"parviflora","Schauer",Synonym,,L,WCSP,108086,135199-2,"Prodr.","11: 598","","1847",kew-108080
+tro-100363503,A,Verbenaceae,,Lantana,,"horrida",subsp.,"tilifolia","(Cham.) R.W. Sanders",Synonym,,L,TRO,100363503,,"","","","",kew-108080
+tro-100363502,A,Verbenaceae,,Lantana,,"horrida",subsp.,"zanonii","(R.W. Sanders) R.W. Sanders",Synonym,,L,TRO,100363502,,"","","","",kew-108080
+kew-108087,A,Verbenaceae,,Lantana,,"humuliformis",,"","Verdc.",Accepted,,H,WCSP,108087,968462-1,"in Fl. Trop. E. Afr.","Verbanac.: 43","","1992",
+kew-108088,A,Verbenaceae,,Lantana,×,"hybrida",,"","auct.",Synonym,,H,WCSP,108088,,"Neubert's Deutsch. Gart.-Mag.","10: 98","","1857",kew-108033
+tro-100002098,A,Verbenaceae,,Lantana,,"hybrida",,"","Neubert",Unresolved,,L,TRO,100002098,,"Deutsch. Mag. Garten- Blumenk.","10: 98","98","",
+kew-108089,A,Verbenaceae,,Lantana,,"hypoleuca",,"","Briq.",Accepted,,H,WCSP,108089,135200-2,"Bull. Herb. Boissier","II, 4: 1064","","1904",
+kew-108090,A,Verbenaceae,,Lantana,,"hypoleuca",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108090,135201-2,"Phytologia","18: 294","","1969",kew-108089
+kew-108091,A,Lamiaceae,,Lantana,,"hyptoides",,"","Rusby",Synonym,,H,WCSP,108091,135202-2,"Bull. New York Bot. Gard.","4: 431","","1907",kew-102111
+kew-108092,A,Verbenaceae,,Lantana,,"incana",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108092,863309-1,"Allg. Gartenzeitung","9: 371","","1841",kew-108098
+kew-108093,A,Verbenaceae,,Lantana,×,"incarnata",,"","Raf.",Synonym,,H,WCSP,108093,863310-1,"Sylva Tellur.","83","","1838",kew-108189
+kew-108094,A,Verbenaceae,,Lantana,,"inconspicua",,"","Tausch",Synonym,,H,WCSP,108094,863311-1,"Flora","19: 391","","1836",kew-108040
+kew-108095,A,Verbenaceae,,Lantana,,"indica",,"","Roxb.",Accepted,,H,WCSP,108095,863312-1,"Fl. Ind. ed. 1832","3: 89","","1832",
+kew-251855,A,Verbenaceae,,Lantana,,"indica",var.,"albiflora","Wight ex C.B.Clarke",Synonym,,L,WCSP,251855,,"Fl. Brit. India","4: 562","","1885",kew-108354
+kew-108096,A,Boraginaceae,,Lantana,,"inermis",,"","Mill.",Synonym,,H,WCSP,108096,863314-1,"Gard. Dict. ed. 8","2","","1768",kew-2736886
+kew-108097,A,Verbenaceae,,Lantana,,"insularis",,"","Moldenke",Accepted,,H,WCSP,108097,135205-2,"Caribbean Forester","2: 16","","1940",
+kew-108098,A,Verbenaceae,,Lantana,,"involucrata",,"","L.",Accepted,,H,WCSP,108098,135206-2,"Cent. Pl. II","22","","1756",
+kew-108099,A,Verbenaceae,,Lantana,,"involucrata",,"","Forssk. ex Sw.",Synonym,Illegitimate,H,WCSP,108099,863317-1,"Fl. Ind. Occid.","2: 1055","","1800",kew-107883
+kew-455990,A,Verbenaceae,,Lantana,,"involucrata",var.,"berlandieri","Torr.",Synonym,,L,WCSP,455990,,"Rep. U.S. Mex. Bound.","2(1): 128","","1859",kew-108098
+kew-108100,A,Verbenaceae,,Lantana,,"involucrata",f.,"candida","Fosberg",Synonym,,L,WCSP,108100,892468-1,"Rhodora","78: 113","","1976",kew-108098
+kew-108101,A,Verbenaceae,,Lantana,,"involucrata",var.,"floridana","Chapm.",Synonym,,L,WCSP,108101,135207-2,"Fl. South. U.S.","308","","1860",kew-108098
+kew-108102,A,Verbenaceae,,Lantana,,"involucrata",var.,"kuhnholtziana","Stehlé",Synonym,,L,WCSP,108102,,"Ann. École Natl. Agric. Montpellier","29: 11","","1954",kew-108098
+kew-108103,A,Verbenaceae,,Lantana,,"involucrata",f.,"leucocarpa","Moldenke",Synonym,,L,WCSP,108103,135209-2,"Phytologia","39: 424","","1978",kew-108098
+kew-108104,A,Verbenaceae,,Lantana,,"involucrata",var.,"odorata","(L.) Moldenke",Synonym,,L,WCSP,108104,135210-2,"Phytologia","2: 53","","1941",kew-108098
+kew-108105,A,Verbenaceae,,Lantana,,"involucrata",f.,"rubella","Moldenke",Synonym,,L,WCSP,108105,135211-2,"Phytologia","14: 324","","1967",kew-108098
+kew-108106,A,Verbenaceae,,Lantana,,"involucrata",var.,"socorrensis","Moldenke",Synonym,,L,WCSP,108106,135212-2,"Phytologia","49: 431","","1981",kew-108098
+kew-108107,A,Verbenaceae,,Lantana,,"involucrata",var.,"velutina","Standl.",Synonym,,L,WCSP,108107,135213-2,"Publ. Field Mus. Nat. Hist., Bot. Ser.","11: 172","","1936",kew-108098
+kew-108108,A,Verbenaceae,,Lantana,,"jaliscana",,"","Moldenke",Accepted,,H,WCSP,108108,135214-2,"Phytologia","50: 12","","1981",
+kew-108109,A,Verbenaceae,,Lantana,,"jamaicensis",,"","Britton",Accepted,,H,WCSP,108109,135215-2,"Bull. Torrey Bot. Club","37: 356","","1910",
+kew-108110,A,Verbenaceae,,Lantana,,"jorgensenii",,"","Moldenke",Synonym,,H,WCSP,108110,135216-2,"Lilloa","5: 412","","1940",kew-113353
+kew-108111,A,Verbenaceae,,Lantana,,"junelliana",,"","Moldenke",Synonym,,H,WCSP,108111,135217-2,"Phytologia","1: 279","","1938",kew-113552
+tro-33700168,A,Verbenaceae,,Lantana,,"kerberi",,"","E. Fourn.",Unresolved,,L,TRO,33700168,,"","","","",
+kew-108112,A,Verbenaceae,,Lantana,,"kingii",,"","Moldenke",Accepted,,H,WCSP,108112,135218-2,"Phytologia","8: 161","","1962",
+kew-108113,A,Verbenaceae,,Lantana,,"kisi",,"","A.Rich.",Synonym,,H,WCSP,108113,863322-1,"Tent. Fl. Abyss.","2: 169","","1850",kew-108357
+kew-108114,A,Verbenaceae,,Lantana,,"lamiana",,"","Moldenke",Synonym,,H,WCSP,108114,135219-2,"Lilloa","5: 413","","1940",kew-113558
+kew-108115,A,Verbenaceae,,Lantana,,"lamiifolia",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108115,863324-1,"Allg. Gartenzeitung","9: 372","","1841",kew-107968
+kew-108116,A,Verbenaceae,,Lantana,,"langlassei",,"","Moldenke",Accepted,,H,WCSP,108116,135220-2,"Phytologia","1: 434","","1940",
+kew-108117,A,Verbenaceae,,Lantana,,"lanuginosa",,"","Mill.",Synonym,,H,WCSP,108117,863326-1,"Gard. Dict. ed. 8","3","","1768",kew-108098
+kew-108118,A,Verbenaceae,,Lantana,,"larranagae",,"","Moldenke",Synonym,,H,WCSP,108118,288159-2,"Known Geogr. Distr. Verbenac. Avicenn.","79","","1942",kew-153218
+kew-108119,A,Verbenaceae,,Lantana,,"latifolia",,"","Tausch",Synonym,,H,WCSP,108119,863328-1,"Flora","19: 391","","1836",kew-108095
+kew-108120,A,Verbenaceae,,Lantana,,"lavandulacea",,"","Willd.",Synonym,,H,WCSP,108120,863329-1,"Sp. Pl.","3: 319","","1800",kew-113550
+kew-108121,A,Verbenaceae,,Lantana,,"lehmannii",,"","Hayek",Synonym,,H,WCSP,108121,135221-2,"Bot. Jahrb. Syst.","42: 168","","1908",kew-108262
+kew-108122,A,Verbenaceae,,Lantana,,"leonardorum",,"","Moldenke",Accepted,,H,WCSP,108122,135222-2,"Caribbean Forester","2: 17","","1940",
+kew-108123,A,Verbenaceae,,Lantana,,"leprieuri",,"","Moldenke",Unresolved,,L,WCSP,108123,863332-1,"Phytologia","4: 55","","1952",
+kew-108124,A,Verbenaceae,,Lantana,,"leucantha",,"","Schauer",Synonym,,H,WCSP,108124,863333-1,"Prodr.","11: 606","","1847",kew-108255
+kew-108125,A,Verbenaceae,,Lantana,,"leucocarpa",,"","Urb. & Ekman ex Moldenke",Accepted,,H,WCSP,108125,863334-1,"Phytologia","2: 412","","1948",
+kew-108126,A,Verbenaceae,,Lantana,,"leucocarpa",f.,"anomala","Moldenke",Synonym,,L,WCSP,108126,892470-1,"Phytologia","34: 19","","1976",kew-108125
+kew-108127,A,Verbenaceae,,Lantana,,"lilacina",,"","Desf.",Synonym,,H,WCSP,108127,863335-1,"Tabl. École Bot.","ed. 3: 392","","1829",kew-108040
+kew-108128,A,Verbenaceae,,Lantana,,"lilacina",var.,"media","Briq.",Synonym,,L,WCSP,108128,135226-2,"Bull. Herb. Boissier","II, 4: 1063","","1904",kew-108040
+kew-108129,A,Verbenaceae,,Lantana,,"lilacina",var.,"mollis","Zahlbr.",Synonym,,L,WCSP,108129,135227-2,"Bot. Jahrb. Syst.","42: 168","","1908",kew-108040
+kew-108130,A,Verbenaceae,,Lantana,,"lilacina",var.,"parvifolia","(Kuntze) Briq.",Synonym,,L,WCSP,108130,135228-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 300","","1904",kew-108040
+kew-108131,A,Verbenaceae,,Lantana,,"limensis",,"","Hayek",Synonym,,H,WCSP,108131,135229-2,"Bot. Jahrb. Syst.","42: 166","","1908",kew-108274
+kew-108132,A,Verbenaceae,,Lantana,,"lindmanii",,"","Briq.",Accepted,,H,WCSP,108132,135230-2,"Ark. Bot.","2(10): 15","","1904",
+kew-108133,A,Verbenaceae,,Lantana,,"lippioides",,"","Spreng.",Synonym,,H,WCSP,108133,863339-1,"Syst. Veg.","2: 763","","1825",kew-107968
+kew-108134,A,Verbenaceae,,Lantana,,"lippioides",,"","Hook. & Arn.",Synonym,Illegitimate,H,WCSP,108134,330569-2,"Bot. Beechey Voy.","305","","1838",kew-113316
+kew-108135,A,Verbenaceae,,Lantana,,"lockhardtii",,"","D.Don ex Schauer",Accepted,,H,WCSP,108135,135231-2,"Fl. Bras.","9: 232","","1851",
+kew-108136,A,Verbenaceae,,Lantana,,"longifolia",,"","Mart. ex Colla",Synonym,,H,WCSP,108136,,"Herb. Pedem.","4: 497","","1835",kew-252612
+kew-108137,A,Verbenaceae,,Lantana,,"lopez-palacii",,"","Moldenke",Accepted,,H,WCSP,108137,287900-2,"Phytologia","27: 359","","1973",
+kew-108138,A,Verbenaceae,,Lantana,,"lucida",,"","Schauer",Accepted,,H,WCSP,108138,135232-2,"Prodr.","11: 602","","1847",
+kew-108139,A,Verbenaceae,,Lantana,,"lundiana",,"","Schauer",Accepted,,H,WCSP,108139,135233-2,"Prodr.","11: 605","","1847",
+kew-108140,A,Verbenaceae,,Lantana,,"lundiana",f.,"albida","Moldenke",Synonym,,L,WCSP,108140,135234-2,"Phytologia","45: 335","","1980",kew-108139
+kew-108141,A,Verbenaceae,,Lantana,,"machadoi",,"","R.Fern.",Accepted,,H,WCSP,108141,936465-1,"Bol. Soc. Brot.","II, 61: 142","","1988",
+kew-108142,A,Verbenaceae,,Lantana,,"macrophylla",,"","(Cham.) Schauer",Synonym,,H,WCSP,108142,863344-1,"Prodr.","11: 595","","1847",kew-113599
+kew-108143,A,Verbenaceae,,Lantana,,"macrophylla",var.,"grosseserrata","Moldenke",Synonym,,L,WCSP,108143,135236-2,"Phytologia","31: 229","","1975",kew-113599
+kew-108144,A,Verbenaceae,,Lantana,,"macropoda",,"","Torr.",Synonym,,H,WCSP,108144,,"Rep. U.S. Mex. Bound.","2(1): 127","","1858",kew-107865
+kew-108145,A,Verbenaceae,,Lantana,,"macropoda",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108145,135238-2,"Phytologia","9: 7","","1963",kew-107865
+kew-108146,A,Verbenaceae,,Lantana,,"macropoda",f.,"parvula","Moldenke",Synonym,,L,WCSP,108146,135239-2,"Phytologia","52: 18","","1982",kew-107865
+kew-108147,A,Verbenaceae,,Lantana,,"macropodioides",,"","Greenm.",Synonym,,H,WCSP,108147,135240-2,"Publ. Field Columb. Mus., Bot. Ser.","2: 339","","1912",kew-107865
+kew-108148,A,Verbenaceae,,Lantana,,"magnibracteata",,"","Tronc.",Accepted,,H,WCSP,108148,135241-2,"Hickenia","1(42): 227","","1980",
+kew-108149,A,Verbenaceae,,Lantana,,"malabarica",,"","Hayek",Synonym,,H,WCSP,108149,863348-1,"Repert. Spec. Nov. Regni Veg.","2: 163","","1906",kew-113316
+kew-108150,A,Verbenaceae,,Lantana,,"maxima",,"","Hayek",Synonym,,H,WCSP,108150,135242-2,"Repert. Spec. Nov. Regni Veg.","2: 164","","1906",kew-108312
+kew-108151,A,Verbenaceae,,Lantana,,"maxima",f.,"alba","Moldenke",Synonym,,L,WCSP,108151,892473-1,"Phytologia","45: 36","","1980",kew-108312
+kew-108152,A,Verbenaceae,,Lantana,,"maximiliani",,"","Schauer",Synonym,,H,WCSP,108152,135244-2,"Prodr.","11: 595","","1847",kew-252614
+kew-108153,A,Verbenaceae,,Lantana,,"mearnsii",,"","Moldenke",Synonym,,H,WCSP,108153,863351-1,"Phytologia","1: 421","","1940",kew-108312
+kew-108154,A,Verbenaceae,,Lantana,,"mearnsii",var.,"congolensis","Moldenke",Synonym,,L,WCSP,108154,,"Phytologia","2: 313","","1947",kew-108312
+kew-108155,A,Verbenaceae,,Lantana,,"mearnsii",var.,"latibracteolata","Moldenke",Synonym,,L,WCSP,108155,,"Phytologia","2: 313","","1947",kew-108330
+kew-274432,A,Verbenaceae,,Lantana,,"mearnsii",var.,"punctata","Moldenke",Synonym,,L,WCSP,274432,,"Phytologia","12: 428","","1965",kew-108312
+kew-108156,A,Verbenaceae,,Lantana,,"megapotamica",,"","(Spreng.) Tronc.",Accepted,,H,WCSP,108156,135245-2,"Darwiniana","18: 326","","1974",
+kew-108157,A,Verbenaceae,,Lantana,×,"melissifolia",,"","Aiton",Synonym,,H,WCSP,108157,,"Hort. Kew.","2: 352","","1789",kew-108033
+kew-108158,A,Verbenaceae,,Lantana,,"melissiodorifera",,"","Perr.",Accepted,,H,WCSP,108158,,"Mém. Soc. Linn. Paris","3: 124","","1825",
+tro-33701603,A,Verbenaceae,,Lantana,,"mexicana",,"","Turner",Synonym,,M,TRO,33701603,,"Flor. Kingd.","181","181","1876",kew-107934
+kew-108159,A,Verbenaceae,,Lantana,,"micrantha",,"","Briq.",Accepted,,H,WCSP,108159,135246-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 299","","1904",
+kew-108160,A,Verbenaceae,,Lantana,,"micrantha",var.,"armata","Moldenke",Synonym,,L,WCSP,108160,135247-2,"Phytologia","2: 468","","1948",kew-108159
+kew-108161,A,Verbenaceae,,Lantana,,"micrantha",var.,"beckii","Moldenke",Synonym,,L,WCSP,108161,135248-2,"Phytologia","50: 13","","1981",kew-108159
+kew-108162,A,Verbenaceae,,Lantana,,"micrantha",f.,"eitenorum","Moldenke",Synonym,,L,WCSP,108162,135249-2,"Phytologia","32: 334","","1975",kew-108159
+kew-108163,A,Verbenaceae,,Lantana,,"micrantha",f.,"violacea","Moldenke",Synonym,,L,WCSP,108163,135250-2,"Phytologia","2: 468","","1948",kew-108159
+kew-108164,A,Verbenaceae,,Lantana,,"microcarpa",,"","Urb.",Accepted,,H,WCSP,108164,135251-2,"Symb. Antill.","5: 484","","1908",
+kew-108165,A,Verbenaceae,,Lantana,,"microcephala",,"","A.Rich.",Synonym,,H,WCSP,108165,135252-2,"Hist. Fis. Cuba, Bot.","11: 141","","1850",kew-107968
+kew-108166,A,Verbenaceae,,Lantana,,"microphylla",,"","(Kunth) Mart.",Synonym,,H,WCSP,108166,863359-1,"Reise Bras.","2: 792","","1828",kew-89966
+kew-108167,A,Verbenaceae,,Lantana,,"microphylla",,"","Franch.",Synonym,Illegitimate,H,WCSP,108167,863358-1,"Sert. Somal.","49","","1882",kew-113398
+kew-108168,A,Verbenaceae,,Lantana,,"milne-redheadii",,"","Moldenke",Synonym,,H,WCSP,108168,863360-1,"Phytologia","3: 268","","1950",kew-108330
+kew-108169,A,Verbenaceae,,Lantana,,"minasensis",,"","Moldenke",Synonym,,H,WCSP,108169,135253-2,"Phytologia","2: 138","","1946",kew-108192
+kew-108170,A,Verbenaceae,,Lantana,,"minasensis",var.,"hispida","Moldenke",Synonym,,L,WCSP,108170,135254-2,"Phytologia","23: 454","","1972",kew-108192
+kew-108171,A,Verbenaceae,,Lantana,,"minasensis",var.,"longibracteolata","Moldenke",Synonym,,L,WCSP,108171,135255-2,"Phytologia","13: 242","","1966",kew-108192
+kew-108172,A,Verbenaceae,,Lantana,,"minasensis",var.,"puberulenta","Moldenke",Synonym,,L,WCSP,108172,135256-2,"Phytologia","25: 220","","1973",kew-108192
+kew-108173,A,Verbenaceae,,Lantana,×,"mista",,"","L.",Unresolved,,L,WCSP,108173,135257-2,"Syst. Nat. ed. 12","2: 417","","1767",
+kew-108174,A,Verbenaceae,,Lantana,,"mixta",,"","Medik.",Synonym,,H,WCSP,108174,863364-1,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat.","3: 227","","1775",kew-107934
+kew-108175,A,Verbenaceae,,Lantana,,"mixta",,"","Schauer",Synonym,,H,WCSP,108175,863363-1,"Prodr.","11: 598","","1847",kew-108080
+kew-108176,A,Verbenaceae,,Lantana,,"moldenkei",,"","R.Fern.",Accepted,,H,WCSP,108176,936466-1,"Bol. Soc. Brot.","II, 61: 147","","1988",
+kew-108177,A,Verbenaceae,,Lantana,,"mollis",,"","Moldenke",Synonym,Illegitimate,H,WCSP,108177,135258-2,"Lilloa","4: 414","","1940",kew-108089
+kew-108178,A,Verbenaceae,,Lantana,,"mollis",,"","Graham",Accepted,,H,WCSP,108178,863365-1,"Edinburgh New Philos. J.","1829(Apr.-Okt.): 184","","1829",
+kew-108179,A,Verbenaceae,,Lantana,,"mollis",,"","Colla",Unresolved,,L,WCSP,108179,863366-1,"Herb. Pedem.","4: 498","","1835",
+kew-108180,A,Verbenaceae,,Lantana,,"mollissima",,"","Desf.",Synonym,,H,WCSP,108180,863368-1,"Tabl. École Bot.","ed. 3: 393","","1829",kew-113316
+kew-108181,A,Verbenaceae,,Lantana,,"montevidensis",,"","(Spreng.) Briq.",Accepted,,H,WCSP,108181,135260-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 301","","1904",
+kew-108182,A,Verbenaceae,,Lantana,,"montevidensis",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108182,135261-2,"Phytologia","2: 365","","1947",kew-108181
+kew-108183,A,Verbenaceae,,Lantana,,"morii",,"","Moldenke",Synonym,,H,WCSP,108183,135262-2,"Phytologia","41: 449","","1979",kew-108192
+kew-108184,A,Verbenaceae,,Lantana,,"moritziana",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108184,135263-2,"Allg. Gartenzeitung","9: 369","","1841",kew-107934
+kew-108185,A,Verbenaceae,,Lantana,,"moritziana",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,108185,135264-2,"Phytologia","25: 117","","1973",kew-107934
+kew-108186,A,Verbenaceae,,Lantana,×,"multicolor",,"","Lem.",Synonym,,H,WCSP,108186,,"Fl. Serres Jard. Eur.","3: 329","","1847",kew-107868
+tro-50207210,A,Verbenaceae,,Lantana,,"multicolor",,"","Lem.",Unresolved,,L,TRO,50207210,863372-1,"Fl. Serres Jard. Eur.","3: 239, misc. no. 5","239","1847",
+kew-108187,A,Verbenaceae,,Lantana,×,"multiflora",,"","Otto & A.Dietr.",Unresolved,,L,WCSP,108187,135265-2,"Allg. Gartenzeitung","9: 370","","1841",
+kew-108188,A,Verbenaceae,,Lantana,,"mutabilis",,"","Lippold ex Otto & Dietr.",Synonym,,H,WCSP,108188,863374-1,"Allg. Gartenzeitung","10: 314","","1842",kew-347186
+kew-108189,A,Verbenaceae,,Lantana,×,"mutabilis",,"","Weigel",Accepted,,H,WCSP,108189,863375-1,"Physiogr. Sälsk. Handl.","1: 46","","1776",
+kew-108190,A,Verbenaceae,,Lantana,×,"mutabilis",,"","Salisb.",Synonym,Illegitimate,H,WCSP,108190,863376-1,"Prodr. Stirp. Chap. Allerton","107","","1796",kew-107868
+tro-33701736,A,Verbenaceae,,Lantana,,"namaensis",,"","Loesener ex Range",Synonym,,M,TRO,33701736,,"","","","",kew-108018
+kew-108191,A,Verbenaceae,,Lantana,,"nannocarpa",,"","Urb.",Synonym,,H,WCSP,108191,135266-2,"Ark. Bot.","22A(17): 104","","1929",kew-108164
+kew-108192,A,Verbenaceae,,Lantana,,"nivea",,"","Vent.",Accepted,,H,WCSP,108192,,"Jard. Malmaison","8","","1803",
+kew-108193,A,Verbenaceae,,Lantana,,"nivea",var.,"mutabilis","Hook.",Synonym,,L,WCSP,108193,,"Bot. Mag.","58: t. 3110","","1831",kew-107868
+kew-347185,A,Verbenaceae,,Lantana,,"nivea",subsp.,"mutabilis","(Hook.) R.W.Sanders",Synonym,,L,WCSP,347185,60444379-2,"Sida","22: 395","","2006",kew-107868
+kew-108194,A,Verbenaceae,,Lantana,,"notha",,"","Moldenke",Accepted,,H,WCSP,108194,135268-2,"Phytologia","1: 422","","1940",
+kew-108195,A,Verbenaceae,,Lantana,,"obtusata",,"","Briq.",Accepted,,H,WCSP,108195,135269-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 302","","1904",
+kew-108196,A,Verbenaceae,,Lantana,,"odorata",,"","L.",Synonym,,H,WCSP,108196,135270-2,"Syst. Nat. ed. 12","2: 418","","1767",kew-108098
+kew-108197,A,Verbenaceae,,Lantana,,"odorata",,"","(Pers.) Weigelt ex Cham.",Synonym,Illegitimate,H,WCSP,108197,863381-1,"Linnaea","7: 215","","1832",kew-113316
+kew-108198,A,Verbenaceae,,Lantana,,"odorata",var.,"berlandieri","Torr.",Synonym,,L,WCSP,108198,135271-2,"Rep. U.S. Mex. Bound.","2(1): 128","","1858",kew-108098
+kew-108199,A,Verbenaceae,,Lantana,,"origanoides",,"","M.Martens & Galeotti",Synonym,,H,WCSP,108199,863383-1,"Bull. Acad. Roy. Sci. Bruxelles","11(2): 327","","1844",kew-113498
+kew-108200,A,Verbenaceae,,Lantana,,"origanoides",var.,"sampaionis","Herter",Synonym,,L,WCSP,108200,135272-2,"Arq. Mus. Nac. Rio de Janeiro","18: 13","","1916",kew-113498
+kew-108201,A,Verbenaceae,,Lantana,,"ovata",,"","Hayek",Synonym,,H,WCSP,108201,135273-2,"Repert. Spec. Nov. Regni Veg.","2: 163","","1906",kew-113347
+kew-108202,A,Verbenaceae,,Lantana,,"ovata",var.,"pubescens","Moldenke",Synonym,,L,WCSP,108202,135274-2,"Phytologia","55: 42","","1984",kew-113347
+kew-108203,A,Verbenaceae,,Lantana,,"ovatifolia",,"","Britton",Accepted,,H,WCSP,108203,135275-2,"Bull. New York Bot. Gard.","4: 123","","1905",
+tro-33702445,A,Verbenaceae,,Lantana,,"ovatifolia",var.,"ovatifolia","",Synonym,,L,TRO,33702445,,"","","","",kew-108203
+kew-108204,A,Verbenaceae,,Lantana,,"ovatifolia",f.,"parvifolia","Moldenke",Synonym,,L,WCSP,108204,135276-2,"Phytologia","50: 309","","1982",kew-108016
+kew-108205,A,Verbenaceae,,Lantana,,"ovatifolia",var.,"reclinata","R.W.Long",Synonym,,L,WCSP,108205,135277-2,"Rhodora","72: 34","","1970",kew-108203
+kew-108206,A,Verbenaceae,,Lantana,,"paranensis",,"","Moldenke",Synonym,,H,WCSP,108206,135278-2,"Phytologia","2: 413","","1948",kew-252615
+kew-108207,A,Verbenaceae,,Lantana,,"parvifolia",,"","Desf.",Accepted,,H,WCSP,108207,330563-2,"Tabl. École Bot.","ed. 3: 392","","1829",
+kew-108208,A,Verbenaceae,,Lantana,,"parvifolia",,"","Salisb.",Synonym,,H,WCSP,108208,863388-1,"Prodr. Stirp. Chap. Allerton","107","","1796",kew-108098
+kew-108209,A,Verbenaceae,,Lantana,,"parvifolia",,"","Raf.",Synonym,,H,WCSP,108209,,"Herb. Raf.","21","","1833",kew-108098
+kew-108210,A,Verbenaceae,,Lantana,,"pastazensis",,"","Moldenke",Accepted,,H,WCSP,108210,135279-2,"Phytologia","50: 468","","1982",
+kew-108211,A,Verbenaceae,,Lantana,,"pauciflora",,"","Urb.",Accepted,,H,WCSP,108211,135280-2,"Ark. Bot.","22A(17): 104","","1929",
+kew-108212,A,Verbenaceae,,Lantana,,"pavonii",,"","Moldenke",Accepted,,H,WCSP,108212,135281-2,"Phytologia","1: 464","","1940",
+kew-108213,A,Verbenaceae,,Lantana,,"peduncularis",,"","Andersson",Accepted,,H,WCSP,108213,863392-1,"Kongl. Vetensk. Acad. Handl.","1853: 200","","1854",
+kew-108214,A,Verbenaceae,,Lantana,,"peduncularis",f.,"macrophylla","(Moldenke) Moldenke",Synonym,,L,WCSP,108214,135282-2,"Phytologia","44: 384","","1979",kew-108213
+kew-108215,A,Verbenaceae,,Lantana,,"peduncularis",var.,"macrophylla","Moldenke",Synonym,,L,WCSP,108215,135283-2,"Phytologia","14: 325","","1967",kew-108213
+tro-33703176,A,Verbenaceae,,Lantana,,"peduncularis",var.,"peduncularis","",Synonym,,L,TRO,33703176,,"","","","",kew-108213
+kew-108216,A,Verbenaceae,,Lantana,,"pernambucensis",,"","Moldenke",Synonym,,H,WCSP,108216,135284-2,"Phytologia","5: 340","","1956",kew-252612
+kew-108217,A,Verbenaceae,,Lantana,,"petitiana",,"","A.Rich.",Accepted,,H,WCSP,108217,863394-1,"Tent. Fl. Abyss.","2: 169","","1850",
+kew-108218,A,Verbenaceae,,Lantana,,"pilosa",,"","Kunth",Synonym,,H,WCSP,108218,863395-1,"Nov. Gen. Sp.","2: 260","","1818",kew-108312
+kew-108219,A,Verbenaceae,,Lantana,,"pittieri",,"","Moldenke",Synonym,,H,WCSP,108219,288158-2,"Phytologia","3: 269","","1950",kew-108312
+kew-108220,A,Verbenaceae,,Lantana,,"planifolia",,"","(Cham.) Briq.",Accepted,,H,WCSP,108220,135285-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 302","","1904",
+kew-108221,A,Verbenaceae,,Lantana,,"pohliana",,"","Schauer",Accepted,,H,WCSP,108221,863398-1,"Prodr.","11: 601","","1847",
+kew-108222,A,Verbenaceae,,Lantana,,"polyacantha",,"","Schauer",Synonym,,H,WCSP,108222,863399-1,"Prodr.","11: 597","","1847",kew-108080
+kew-108223,A,Verbenaceae,,Lantana,,"polycephala",,"","R.Br.",Synonym,Invalid,H,WCSP,108223,863400-1,"Voy. Abyss.","65","","1814",kew-113304
+kew-108224,A,Verbenaceae,,Lantana,,"pretoriensis",,"","(H.Pearson) Prain",Synonym,,H,WCSP,108224,,"Index Kew.","Suppl. 3: 100","","1908",kew-113705
+kew-108225,A,Verbenaceae,,Lantana,,"primulina",,"","Moldenke",Synonym,,H,WCSP,108225,863402-1,"Phytologia","28: 402","","1974",kew-113358
+kew-108226,A,Verbenaceae,,Lantana,,"procurrens",,"","Schauer",Synonym,,H,WCSP,108226,135288-2,"Prodr.","11: 596","","1847",kew-252618
+kew-108227,A,Verbenaceae,,Lantana,,"prostrata",,"","Larrañaga",Accepted,,H,WCSP,108227,863404-1,"Escritos D. A. Larrañaga","2: 188","","1923",
+kew-108228,A,Verbenaceae,,Lantana,,"pseudothea",,"","A.St.-Hil.",Synonym,,H,WCSP,108228,863405-1,"Pl. Usuel. Bras.","t. 70","","1828",kew-113692
+kew-108229,A,Verbenaceae,,Lantana,,"pulchra",,"","Larrañaga",Unresolved,,L,WCSP,108229,135289-2,"Escritos D. A. Larrañaga","1: 406","","1922",
+kew-108230,A,Verbenaceae,,Lantana,,"punctulata",,"","Moldenke",Accepted,,H,WCSP,108230,135290-2,"Phytologia","3: 418","","1951",
+kew-108231,A,Verbenaceae,,Lantana,×,"purpurea",,"","Hornem.",Unresolved,,L,WCSP,108231,863409-1,"Hort. Bot. Hafn.","2: 583","","1815",
+kew-108232,A,Verbenaceae,,Lantana,,"purpurea",,"","(J.Jacq.) Benth.",Synonym,Illegitimate,H,WCSP,108232,,"Gen. Pl.","2: 1142","","1876",kew-107865
+kew-108233,A,Lamiaceae,,Lantana,,"racemosa",,"","Lour.",Synonym,,H,WCSP,108233,863410-1,"Fl. Cochinch.","376","","1790",kew-91227
+tro-33700198,A,Verbenaceae,,Lantana,,"radicans",,"","Ruiz & Pav.",Unresolved,,L,TRO,33700198,,"","","","",
+kew-108234,A,Verbenaceae,,Lantana,,"radula",,"","Sw.",Accepted,,H,WCSP,108234,863411-1,"Prodr. Veg. Ind. Occ.","92","","1788",
+kew-108235,A,Verbenaceae,,Lantana,,"radula",subsp.,"glabrescens","Hayek",Synonym,,L,WCSP,108235,135292-2,"Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl.","79: 295","","1908",kew-108234
+kew-108236,A,Verbenaceae,,Lantana,,"recta",,"","Aiton",Synonym,,H,WCSP,108236,,"Hort. Kew.","2: 351","","1789",kew-108098
+kew-108237,A,Verbenaceae,,Lantana,,"recta",,"","Cham.",Synonym,Illegitimate,H,WCSP,108237,,"Linnaea","7: 125","","1832",kew-108040
+kew-108238,A,Verbenaceae,,Lantana,,"rehmannii",,"","(H.Pearson) Prain",Synonym,,H,WCSP,108238,,"Index Kew.","Suppl. 3: 100","","1908",kew-113705
+kew-108239,A,Verbenaceae,,Lantana,,"reineckii",,"","Briq.",Accepted,,H,WCSP,108239,135293-2,"Annuaire Conserv. Jard. Bot. Genève","3: 165","","1899",
+kew-108240,A,Verbenaceae,,Lantana,,"repens",,"","Sessé & Moc.",Synonym,,H,WCSP,108240,135294-2,"Fl. Mexic.","ed. 2: 142","","1894",kew-153218
+kew-108241,A,Verbenaceae,,Lantana,,"repens",,"","Larrañaga",Synonym,Illegitimate,H,WCSP,108241,863418-1,"Escritos D. A. Larrañaga","2: 188","","1923",kew-153218
+kew-108242,A,Verbenaceae,,Lantana,,"reptans",,"","Hayek",Accepted,,H,WCSP,108242,135296-2,"Bot. Jahrb. Syst.","42: 167","","1908",
+kew-108243,A,Verbenaceae,,Lantana,,"reticulata",,"","Pers.",Accepted,,H,WCSP,108243,330564-2,"Syn. Pl.","2: 141","","1806",
+kew-108244,A,Verbenaceae,,Lantana,,"reticulata",,"","Raf.",Synonym,Illegitimate,H,WCSP,108244,863421-1,"Sylva Tellur.","82","","1838",kew-108098
+kew-108245,A,Verbenaceae,,Lantana,,"reticulata",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108245,135297-2,"Phytologia","18: 71","","1969",kew-108243
+kew-108246,A,Verbenaceae,,Lantana,,"reticulata",var.,"strigosa","Griseb.",Synonym,,L,WCSP,108246,135298-2,"Cat. Pl. Cub.","216","","1866",kew-108295
+kew-108247,A,Verbenaceae,,Lantana,,"rhodesiensis",,"","Moldenke",Synonym,,H,WCSP,108247,863422-1,"Phytologia","3: 269","","1950",kew-108330
+kew-108248,A,Verbenaceae,,Lantana,,"riedeliana",,"","Schauer",Accepted,,H,WCSP,108248,863423-1,"Prodr.","11: 601","","1847",
+kew-108249,A,Verbenaceae,,Lantana,,"riedeliana",var.,"pubescens","Moldenke",Synonym,,L,WCSP,108249,135299-2,"Phytologia","19: 435","","1970",kew-252619
+kew-108250,A,Verbenaceae,,Lantana,,"robusta",,"","Schauer",Accepted,,H,WCSP,108250,324304-2,"Prodr.","11: 601","","1847",
+kew-108251,A,Verbenaceae,,Lantana,,"rosea",,"","Raf.",Synonym,,H,WCSP,108251,863425-1,"Sylva Tellur.","83","","1838",kew-108243
+kew-108252,A,Verbenaceae,,Lantana,,"rubella",,"","Moldenke",Synonym,,H,WCSP,108252,135300-2,"Phytologia","1: 464","","1940",kew-252621
+kew-108253,A,Verbenaceae,,Lantana,×,"rubra",,"","Berland.",Accepted,,H,WCSP,108253,,"Mem. Comis. Limites","15","","1832",
+kew-108254,A,Verbenaceae,,Lantana,,"rubra",,"","Perr.",Synonym,Invalid,H,WCSP,108254,,"Mém. Soc. Linn. Paris","3: 124","","1825",kew-108095
+tro-100002080,A,Verbenaceae,,Lantana,,"rubra",,"","Berland.",Synonym,,M,TRO,100002080,863428-1,"Mem. Comis. Limites","15","15","1832",kew-108253
+kew-108255,A,Verbenaceae,,Lantana,,"rugosa",,"","Thunb.",Accepted,,H,WCSP,108255,863429-1,"Prodr. Pl. Cap.","98","","1800",
+kew-108256,A,Verbenaceae,,Lantana,,"rugosa",,"","Willd. ex Schauer",Synonym,Invalid,H,WCSP,108256,863430-1,"Fl. Bras.","9: 263","","1851",kew-108234
+kew-274430,A,Verbenaceae,,Lantana,,"rugosa",var.,"tomentosa","Moldenke",Synonym,,L,WCSP,274430,,"Phytologia","3: 38","","1948",kew-108255
+kew-108257,A,Verbenaceae,,Lantana,,"rugulosa",,"","Kunth",Accepted,,H,WCSP,108257,863431-1,"Nov. Gen. Sp.","2: 261","","1818",
+kew-108258,A,Verbenaceae,,Lantana,,"rugulosa",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108258,135302-2,"Phytologia","3: 38","","1948",kew-108257
+kew-108259,A,Verbenaceae,,Lantana,,"rugulosa",var.,"parvipedunculata","Moldenke",Synonym,,L,WCSP,108259,135303-2,"Phytologia","14: 399","","1967",kew-108257
+tro-33702762,A,Verbenaceae,,Lantana,,"rugulosa",var.,"rugulosa","",Synonym,,L,TRO,33702762,,"","","","",kew-108257
+kew-108260,A,Verbenaceae,,Lantana,,"ruiz-teranii",,"","López-Pal. & Steyerm.",Accepted,,H,WCSP,108260,279331-2,"Acta Bot. Venez.","14: 163","","1983",
+kew-108261,A,Verbenaceae,,Lantana,,"rusbyana",,"","Moldenke",Accepted,,H,WCSP,108261,135304-2,"Known Geogr. Distr. Verbenac. Avicenn.","77","","1942",
+kew-108262,A,Verbenaceae,,Lantana,,"salicifolia",,"","Kunth",Accepted,,H,WCSP,108262,863433-1,"Nov. Gen. Sp.","2: 259","","1818",
+tro-50133779,A,Verbenaceae,,Lantana,,"salvifolia",,"","Baker & Stapf",Unresolved,,L,TRO,50133779,,"Fl. Trop. Afr.","5: 276","276","1900",
+kew-108263,A,Scrophulariaceae,,Lantana,,"salviifolia",,"","L.",Synonym,,H,WCSP,108263,863436-1,"Syst. Nat. ed. 10","2: 1116","","1759",kew-2685599
+kew-108264,A,Verbenaceae,,Lantana,,"salviifolia",,"","Jacq.",Synonym,Illegitimate,H,WCSP,108264,863435-1,"Pl. Hort. Schoenbr.","3: 18","","1798",kew-108255
+kew-108265,A,Verbenaceae,,Lantana,,"salviifolia",,"","Cham.",Misapplied,,H,WCSP,108265,863434-1,"Linnaea","7: 125","","1832",kew-108040
+kew-455994,A,Verbenaceae,,Lantana,,"salviifolia",var.,"ternata","Chiov.",Synonym,,L,WCSP,455994,,"Racc. Bot. Miss. Consol. Kenya","97","","1935",kew-108255
+kew-108266,A,Verbenaceae,,Lantana,,"salzmannii",,"","Schauer",Accepted,,H,WCSP,108266,135306-2,"Prodr.","11: 602","","1847",
+kew-108267,A,Verbenaceae,,Lantana,,"salzmannii",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108267,135307-2,"Phytologia","41: 449","","1979",kew-108266
+kew-108268,A,Verbenaceae,,Lantana,,"sanguinea",,"","Medik.",Synonym,,H,WCSP,108268,135308-2,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat.","3: 229","","1775",kew-107934
+kew-108269,A,Verbenaceae,,Lantana,,"santosii",,"","Moldenke",Accepted,,H,WCSP,108269,863439-1,"Bol. Soc. Brot.","II, 39: 134","","1965",
+kew-108270,A,Verbenaceae,,Lantana,,"sarmentosa",,"","Spreng. ex C.B.Clarke",Synonym,Spelling variant,H,WCSP,108270,863440-1,"Fl. Brit. India","4: 563","","1885",kew-153218
+kew-108271,A,Verbenaceae,,Lantana,,"scabiosiflora",,"","Kunth",Accepted,,H,WCSP,108271,30136466-2,"Nov. Gen. Sp.","2: 261","","1818",
+kew-108272,A,Verbenaceae,,Lantana,,"scabiosiflora",f.,"albida","Moldenke",Synonym,,L,WCSP,108272,135309-2,"Phytologia","3: 270","","1950",kew-108271
+kew-108274,A,Verbenaceae,,Lantana,,"scabiosiflora",var.,"limensis","(Hayek) Moldenke",Accepted,,L,WCSP,108274,135311-2,"Phytologia","36: 116","","1977",
+kew-108275,A,Verbenaceae,,Lantana,,"scabiosiflora",var.,"scabiosiflora","",Synonym,,L,WCSP,108275,,"Unknown","","","",kew-108271
+kew-108276,A,Verbenaceae,,Lantana,,"scabra",,"","Wall.",Synonym,Invalid,H,WCSP,108276,863442-1,"Numer. List","1822","","1829",kew-108095
+kew-108277,A,Verbenaceae,,Lantana,,"scabrida",,"","Aiton",Accepted,,H,WCSP,108277,325688-2,"Hort. Kew.","2: 352","","1789",
+kew-108278,A,Verbenaceae,,Lantana,,"scabrida",,"","S.Moore",Unresolved,,L,WCSP,108278,135312-2,"Trans. Linn. Soc. London, Bot.","4: 434","","1895",
+kew-108279,A,Verbenaceae,,Lantana,,"scabrifolia",,"","Moldenke",Synonym,,H,WCSP,108279,863445-1,"Phytologia","1: 422","","1940",kew-113555
+kew-108280,A,Verbenaceae,,Lantana,,"scandens",,"","Moldenke",Accepted,,H,WCSP,108280,135313-2,"Phytologia","2: 18","","1941",
+kew-108281,A,Verbenaceae,,Lantana,,"scorta",,"","Moldenke",Synonym,,H,WCSP,108281,135314-2,"Publ. Carnegie Inst. Wash.","522: 161","","1940",kew-108071
+kew-108282,A,Verbenaceae,,Lantana,,"selloi",,"","Steud.",Synonym,Spelling variant,H,WCSP,108282,,"Nomencl. Bot.","ed. 2, 2: 8","","1841",kew-108181
+kew-108283,A,Verbenaceae,,Lantana,,"sellowiana",,"","Link & Otto",Synonym,,H,WCSP,108283,135315-2,"Icon. Pl. Select.","107","","1826",kew-108181
+kew-108284,A,Verbenaceae,,Lantana,,"sellowiana",var.,"lanceolata","Hook.",Synonym,,L,WCSP,108284,135316-2,"Bot. Mag.","68: t. 3941","","1842",kew-108181
+kew-108285,A,Verbenaceae,,Lantana,,"sellowiana",f.,"planifolia","Cham.",Synonym,,L,WCSP,108285,135317-2,"Linnaea","7: 126","","1832",kew-108181
+kew-108286,A,Verbenaceae,,Lantana,,"sellowiana",f.,"rugosa","Cham.",Synonym,,L,WCSP,108286,135318-2,"Linnaea","7: 126","","1832",kew-108181
+kew-108287,A,Verbenaceae,,Lantana,,"soatensis",,"","Moldenke",Accepted,,H,WCSP,108287,135319-2,"Bull. Torrey Bot. Club","68: 506","","1941",
+kew-108288,A,Verbenaceae,,Lantana,,"somalensis",,"","(Vatke) Engl.",Synonym,,H,WCSP,108288,,"Unknown","","","1904",kew-113766
+kew-108289,A,Verbenaceae,,Lantana,,"spicata",,"","Vell.",Synonym,,H,WCSP,108289,324305-2,"Fl. Flumin.","6: t. 58, 254","","1829",kew-252612
+kew-108290,A,Verbenaceae,,Lantana,,"spicata",,"","(Griseb.) Benth. ex Kuntze.",Synonym,Illegitimate,H,WCSP,108290,863452-1,"Revis. Gen. Pl.","2: 504","","1891",kew-108059
+tro-33701611,A,Verbenaceae,,Lantana,,"spinosa",,"","L. ex Le Cointe",Synonym,,M,TRO,33701611,,"Amaz. Bras. III Arvor. & Pl. Uteis","83","83","1934",kew-107934
+kew-108291,A,Verbenaceae,,Lantana,,"spiraeastrum",,"","Mart. & Schauer",Synonym,,H,WCSP,108291,135320-2,"Prodr.","11: 596","","1847",kew-252622
+kew-108292,A,Verbenaceae,,Lantana,,"splendens",,"","Medik.",Accepted,,H,WCSP,108292,863454-1,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat.","3: 226","","1775",
+kew-108293,A,Verbenaceae,,Lantana,,"sprucei",,"","Hayek",Accepted,,H,WCSP,108293,135321-2,"Repert. Spec. Nov. Regni Veg.","2: 162","","1906",
+kew-108294,A,Verbenaceae,,Lantana,,"stricta",,"","Sw.",Synonym,,H,WCSP,108294,863456-1,"Prodr. Veg. Ind. Occ.","92","","1788",kew-107883
+kew-347186,A,Verbenaceae,,Lantana,×,"strigocamara",,"","R.W.Sanders",Accepted,,H,WCSP,347186,60444377-2,"Sida","22: 392","","2006",
+kew-108295,A,Verbenaceae,,Lantana,,"strigosa",,"","(Griseb.) Urb.",Accepted,,H,WCSP,108295,863457-1,"Symb. Antill.","7: 352","","1912",
+kew-108296,A,Verbenaceae,,Lantana,,"suaveolens",,"","Desf.",Synonym,Illegitimate,H,WCSP,108296,863458-1,"Tabl. École Bot.","ed. 3: 393","","1829",kew-107934
+kew-108297,A,Verbenaceae,,Lantana,,"suaveolens",,"","Poir. ex Spreng.",Synonym,,H,WCSP,108297,863459-1,"Syst. Veg.","2: 762","","1825",kew-107883
+kew-108298,A,Verbenaceae,,Lantana,,"subcordata",,"","Urb.",Accepted,,H,WCSP,108298,135324-2,"Symb. Antill.","7: 351","","1912",
+kew-108299,A,Verbenaceae,,Lantana,,"subtracta",,"","Hiern",Accepted,,H,WCSP,108299,863461-1,"Cat. Afr. Pl.","1: 828","","1900",
+kew-108300,A,Verbenaceae,,Lantana,,"svensonii",,"","Moldenke",Accepted,,H,WCSP,108300,135325-2,"Known Geogr. Distr. Verbenac. Avicenn.","78","","1942",
+kew-108301,A,Verbenaceae,,Lantana,,"svensonii",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108301,,"Known Geogr. Distr. Verbenac. Avicenn.","78","","1942",kew-108300
+tro-33702764,A,Verbenaceae,,Lantana,,"svensonii",f.,"svensonii","",Synonym,,L,TRO,33702764,,"","","","",kew-108300
+kew-108302,A,Verbenaceae,,Lantana,,"swynnertonii",,"","Moldenke",Accepted,,H,WCSP,108302,863463-1,"Phytologia","3: 270","","1950",
+kew-108303,A,Verbenaceae,,Lantana,,"tenuifolia",,"","Rusby",Synonym,,H,WCSP,108303,135327-2,"Phytologia","1: 74","","1934",kew-108000
+tro-33703332,A,Verbenaceae,,Lantana,,"tetragona",,"","(Forssk.) Schweinf.",Accepted,,M,TRO,33703332,,"Arab. Pflanzennamen","145","145","1912",
+kew-108304,A,Verbenaceae,,Lantana,,"teucriifolia",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108304,863465-1,"Allg. Gartenzeitung","9: 371","","1841",kew-108073
+kew-108305,A,Verbenaceae,,Lantana,,"tilcarensis",,"","Tronc.",Accepted,,H,WCSP,108305,135328-2,"Hickenia","1(42): 229","","1980",
+kew-108306,A,Verbenaceae,,Lantana,,"tiliifolia",,"","Cham.",Synonym,,H,WCSP,108306,324306-2,"Linnaea","7: 122","","1832",kew-108080
+kew-108307,A,Verbenaceae,,Lantana,,"tiliifolia",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108307,135329-2,"Phytologia","3: 311","","1950",kew-108080
+kew-108308,A,Verbenaceae,,Lantana,,"tiliifolia",f.,"glandulosa","(Schauer) R.Fern.",Synonym,,L,WCSP,108308,955031-1,"Bol. Soc. Brot.","II, 61: 179","","1988",kew-108080
+kew-108309,A,Verbenaceae,,Lantana,,"tiliifolia",var.,"glandulosa","Schauer",Synonym,,L,WCSP,108309,135330-2,"Fl. Bras.","9: 257","","1851",kew-108080
+kew-108311,A,Verbenaceae,,Lantana,,"tomasii",,"","Moldenke",Accepted,,H,WCSP,108311,135332-2,"Phytologia","1: 465","","1940",
+kew-108312,A,Verbenaceae,,Lantana,,"trifolia",,"","L.",Accepted,,H,WCSP,108312,135333-2,"Sp. Pl.","626","","1753",
+kew-108313,A,Verbenaceae,,Lantana,,"trifolia",f.,"albiflora","Moldenke",Synonym,,L,WCSP,108313,135334-2,"Phytologia","6: 327","","1958",kew-108312
+kew-108314,A,Verbenaceae,,Lantana,,"trifolia",f.,"brevipes","Moldenke",Synonym,,L,WCSP,108314,,"Phytologia","30: 13","","1975",kew-108312
+kew-108315,A,Verbenaceae,,Lantana,,"trifolia",f.,"congolensis","(Moldenke) R.Fern.",Synonym,,L,WCSP,108315,953163-1,"Bol. Soc. Brot.","II, 59: 254","","1986",kew-108312
+kew-108316,A,Verbenaceae,,Lantana,,"trifolia",var.,"geminata","Loes.",Synonym,,L,WCSP,108316,135335-2,"Verh. Bot. Vereins Prov. Brandenburg","53: 75","","1911",kew-108312
+kew-108317,A,Verbenaceae,,Lantana,,"trifolia",f.,"hirsuta","Moldenke",Synonym,,L,WCSP,108317,135336-2,"Phytologia","3: 113","","1949",kew-108312
+kew-274431,A,Verbenaceae,,Lantana,,"trifolia",f.,"oppositifolia","Moldenke",Synonym,,L,WCSP,274431,,"Phytologia","4: 179","","1953",kew-108312
+kew-108318,A,Verbenaceae,,Lantana,,"trifolia",f.,"pluripedunculata","Moldenke",Synonym,,L,WCSP,108318,135337-2,"Phytologia","47: 17","","1980",kew-108312
+kew-108319,A,Verbenaceae,,Lantana,,"trifolia",var.,"quadriverticillata","J.Jiménez Alm.",Synonym,,L,WCSP,108319,892484-1,"Anales Acad. Ci. Republ. Dominicana, Bot.","1: 127","","1975",kew-108312
+kew-108320,A,Verbenaceae,,Lantana,,"trifolia",var.,"rigidiuscula","Briq.",Synonym,,L,WCSP,108320,135338-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 303","","1904",kew-108312
+kew-108321,A,Verbenaceae,,Lantana,,"trifolia",f.,"rubierensis","Moldenke",Synonym,,L,WCSP,108321,135339-2,"Phytologia","9: 187","","1963",kew-108312
+tro-33702765,A,Verbenaceae,,Lantana,,"trifolia",var.,"trifolia","",Synonym,,L,TRO,33702765,,"","","","",kew-108312
+tro-50143594,A,Verbenaceae,,Lantana,,"trifolia",f.,"trifolia","",Synonym,,L,TRO,50143594,,"","","","",kew-108312
+kew-108322,A,Verbenaceae,,Lantana,,"trifolia",var.,"vulgata","Briq.",Synonym,,L,WCSP,108322,135340-2,"Annuaire Conserv. Jard. Bot. Genève","7-8: 303","","1904",kew-108312
+kew-108323,A,Verbenaceae,,Lantana,,"triplinervia",,"","Turcz.",Synonym,,H,WCSP,108323,863471-1,"Bull. Soc. Imp. Naturalistes Moscou","36(2): 205","","1863",kew-108192
+kew-108324,A,Verbenaceae,,Lantana,,"triplinervia",f.,"armata","Moldenke",Synonym,,L,WCSP,108324,135341-2,"Phytologia","36: 49","","1977",kew-108192
+kew-108325,A,Verbenaceae,,Lantana,,"triplinervia",var.,"hispida","(Moldenke) Moldenke",Synonym,,L,WCSP,108325,135342-2,"Phytologia","28: 402","","1974",kew-108192
+kew-108326,A,Verbenaceae,,Lantana,,"triplinervia",var.,"longibracteolata","(Moldenke) Moldenke",Synonym,,L,WCSP,108326,135343-2,"Phytologia","28: 403","","1974",kew-108192
+kew-108327,A,Verbenaceae,,Lantana,,"triplinervia",var.,"minasensis","(Moldenke) Moldenke",Synonym,,L,WCSP,108327,135344-2,"Phytologia","28: 403","","1974",kew-108192
+kew-108328,A,Verbenaceae,,Lantana,,"triplinervia",var.,"puberulenta","(Moldenke) Moldenke",Synonym,,L,WCSP,108328,135345-2,"Phytologia","28: 403","","1974",kew-108192
+kew-108329,A,Verbenaceae,,Lantana,,"tuxtlensis",,"","Sessé & Moc.",Synonym,,H,WCSP,108329,135348-2,"Fl. Mexic.","ed. 2: 142","","1894",kew-108071
+kew-108330,A,Verbenaceae,,Lantana,,"ukambensis",,"","(Vatke) Verdc.",Accepted,,H,WCSP,108330,969362-1,"in Fl. Trop. E. Afr.","Verbenac.: 43","","1992",
+kew-108331,A,Verbenaceae,,Lantana,,"undulata",,"","Schrank",Accepted,,H,WCSP,108331,863474-1,"Denkschr. Königl.-Baier. Bot. Ges. Regensburg","2: 56","","1822",
+kew-108332,A,Verbenaceae,,Lantana,,"undulata",,"","Raf.",Synonym,,H,WCSP,108332,863473-1,"Sylva Tellur.","82","","1838",kew-107934
+kew-108333,A,Verbenaceae,,Lantana,,"undulata",var.,"grandiflora","Schauer",Synonym,,L,WCSP,108333,135350-2,"Fl. Bras.","9: 264","","1851",kew-108331
+kew-108334,A,Verbenaceae,,Lantana,,"undulata",var.,"saltensis","Moldenke",Synonym,,L,WCSP,108334,135360-2,"Phytologia","18: 342","","1969",kew-108312
+kew-108335,A,Verbenaceae,,Lantana,,"urticifolia",,"","Mill.",Synonym,,H,WCSP,108335,325687-2,"Gard. Dict. ed. 8","5","","1768",kew-107934
+kew-108336,A,Verbenaceae,,Lantana,,"urticifolia",subsp.,"moldenkei","R.W.Sanders",Synonym,,L,WCSP,108336,279333-2,"Moscosoa","5: 202","","1989",kew-107934
+kew-108337,A,Verbenaceae,,Lantana,,"urticifolia",subsp.,"portoricensis","(Moldenke) R.W.Sanders",Synonym,,L,WCSP,108337,1210370-2,"Amer. J. Bot.","74: 915","","1987",kew-107934
+kew-108338,A,Verbenaceae,,Lantana,,"urticifolia",subsp.,"zanonii","R.W.Sanders",Synonym,,L,WCSP,108338,279332-2,"Moscosoa","5: 206","","1989",kew-108080
+kew-108339,A,Verbenaceae,,Lantana,,"urticiformis",,"","Huber",Unresolved,,L,WCSP,108339,928129-1,"Cat. Gen.","1871-1872: 4","","1871",
+kew-108340,A,Verbenaceae,,Lantana,,"urticoides",,"","Hayek",Accepted,,H,WCSP,108340,135351-2,"Repert. Spec. Nov. Regni Veg.","2: 162","","1906",
+kew-108341,A,Verbenaceae,,Lantana,,"urticoides",f.,"aculeata","Moldenke",Synonym,,L,WCSP,108341,135352-2,"Phytologia","49: 182","","1981",kew-108340
+kew-108342,A,Verbenaceae,,Lantana,,"urticoides",var.,"hispidula","Moldenke",Synonym,,L,WCSP,108342,135353-2,"Phytologia","39: 424","","1978",kew-108340
+kew-108343,A,Verbenaceae,,Lantana,,"urticoides",f.,"macrophylla","Moldenke",Synonym,,L,WCSP,108343,135354-2,"Phytologia","49: 431","","1981",kew-108340
+kew-108344,A,Verbenaceae,,Lantana,×,"variegata",,"","Otto & A.Dietr.",Synonym,,H,WCSP,108344,863477-1,"Allg. Gartenzeitung","10: 314","","1842",kew-107868
+kew-108345,A,Verbenaceae,,Lantana,,"velutina",,"","M.Martens & Galeotti",Accepted,,H,WCSP,108345,863478-1,"Bull. Acad. Roy. Sci. Bruxelles","11(2): 325","","1844",
+kew-108346,A,Verbenaceae,,Lantana,,"velutina",f.,"albifructa","Moldenke",Synonym,,L,WCSP,108346,135356-2,"Phytologia","9: 99","","1963",kew-108345
+kew-108347,A,Verbenaceae,,Lantana,,"velutina",f.,"flava","Moldenke",Synonym,,L,WCSP,108347,135357-2,"Phytologia","49: 182","","1981",kew-108345
+kew-108348,A,Verbenaceae,,Lantana,,"velutina",var.,"longifolia","Moldenke",Synonym,,L,WCSP,108348,135358-2,"Phytologia","15: 462","","1968",kew-108345
+kew-108349,A,Verbenaceae,,Lantana,,"velutina",f.,"macrophylla","Moldenke",Synonym,,L,WCSP,108349,135359-2,"Phytologia","23: 210","","1972",kew-108345
+kew-108350,A,Verbenaceae,,Lantana,,"velutina",f.,"violacea","Moldenke",Synonym,,L,WCSP,108350,135361-2,"Phytologia","8: 161","","1962",kew-108345
+kew-108351,A,Verbenaceae,,Lantana,,"velutinoides",,"","Moldenke",Synonym,,H,WCSP,108351,135362-2,"Phytologia","1: 466","","1940",kew-108089
+kew-108352,A,Verbenaceae,,Lantana,,"velutinoides",var.,"bruchii","Moldenke",Synonym,,L,WCSP,108352,135363-2,"Phytologia","1: 466","","1940",kew-107914
+kew-108353,A,Verbenaceae,,Lantana,,"venturii",,"","Moldenke",Synonym,,H,WCSP,108353,135364-2,"Phytologia","9: 184","","1963",kew-113372
+kew-108354,A,Verbenaceae,,Lantana,,"veronicifolia",,"","Hayek",Accepted,,H,WCSP,108354,863481-1,"Repert. Spec. Nov. Regni Veg.","2: 163","","1906",
+tro-50158091,A,Verbenaceae,,Lantana,,"verticillata",,"","Rusby",Unresolved,,L,TRO,50158091,,"","","","",
+kew-108355,A,Verbenaceae,,Lantana,,"viburnoides",,"","(Forssk.) Vahl",Accepted,,H,WCSP,108355,863482-1,"Symb. Bot.","1: 45","","1790",
+kew-108356,A,Verbenaceae,,Lantana,,"viburnoides",,"","Blanco",Synonym,Illegitimate,H,WCSP,108356,863483-1,"Fl. Filip., ed. 2","345","","1845",kew-107934
+kew-108357,A,Verbenaceae,,Lantana,,"viburnoides",var.,"kisi","(A.Rich.) Verdc.",Accepted,,L,WCSP,108357,970251-1,"in Fl. Trop. E. Afr.","Verbenac.: 41","","1992",
+kew-108359,A,Verbenaceae,,Lantana,,"viburnoides",subsp.,"richardii","R.Fern.",Synonym,,L,WCSP,108359,950828-1,"Bol. Soc. Brot.","II, 61: 200","","1988",kew-108361
+kew-108360,A,Verbenaceae,,Lantana,,"viburnoides",var.,"richardii","R.Fern.",Synonym,,L,WCSP,108360,950829-1,"Bol. Soc. Brot.","II, 61: 201","","1988",kew-108361
+kew-274433,A,Verbenaceae,,Lantana,,"viburnoides",var.,"velutina","Moldenke",Synonym,,L,WCSP,274433,,"Phytologia","3: 120","","1949",kew-108330
+kew-108361,A,Verbenaceae,,Lantana,,"viburnoides",subsp.,"viburnoides","",Accepted,,L,WCSP,108361,,"Unknown","","","",
+kew-108362,A,Verbenaceae,,Lantana,,"violacea",,"","Desf.",Synonym,,H,WCSP,108362,863484-1,"Tabl. École Bot.","ed. 3: 392","","1829",kew-108255
+kew-108363,A,Verbenaceae,,Lantana,,"virgata",,"","Larrañaga",Synonym,,H,WCSP,108363,135365-2,"Escritos D. A. Larrañaga","2: 188","","1923",kew-6904
+kew-108364,A,Verbenaceae,,Lantana,,"viscosa",,"","Pohl ex Schauer",Accepted,,H,WCSP,108364,135366-2,"Prodr.","11: 601","","1847",
+tro-100002095,A,Verbenaceae,,Lantana,,"vulgaris",,"","Benth.",Unresolved,,L,TRO,100002095,,"Bot. Voy. Sulphur","154","154","1844",
+kew-108365,A,Verbenaceae,,Lantana,,"weberbaueri",,"","Hayek",Accepted,,H,WCSP,108365,135367-2,"Bot. Jahrb. Syst.","42: 166","","1908",
+kew-251857,A,Verbenaceae,,Lantana,,"wightiana",,"","Wall. ex Gamble",Synonym,,H,WCSP,251857,,"Fl. Madras","1087","","1924",kew-108354
+kew-108366,A,Verbenaceae,,Lantana,,"wilmsii",,"","(H.Pearson) Prain",Synonym,,H,WCSP,108366,,"Index Kew.","Suppl. 3: 100","","1908",kew-113705
+kew-108367,A,Verbenaceae,,Lantana,,"xenica",,"","Moldenke",Accepted,,H,WCSP,108367,135368-2,"Lilloa","5: 417","","1940",
+kew-108368,A,Verbenaceae,,Lantana,,"zahlbruckneri",,"","Hayek",Accepted,,H,WCSP,108368,288157-2,"Bot. Jahrb. Syst.","42: 167","","1908",

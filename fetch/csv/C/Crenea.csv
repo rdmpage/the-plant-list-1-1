@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2742651,A,Lythraceae,,Crenea,,"maritima",,"","Aubl.",Accepted,,M,WCSP (in review),,552847-1,"Hist. Pl. Guiane","1: 523","","1775",
+kew-2742652,A,Lythraceae,,Crenea,,"patentinervis",,"","(Koehne) Standl.",Accepted,,M,WCSP (in review),,69306-2,"Publ. Field Mus. Nat. Hist., Bot. Ser.","23: 218","","1947",
+kew-2742653,A,Lythraceae,,Crenea,,"repens",,"","G.Mey.",Synonym,,M,WCSP (in review),,552849-1,"Prim. Fl. Esseq.","186","","1818",kew-2742651
+kew-2742654,A,Lythraceae,,Crenea,,"surinamensis",,"","(L.f.) Koehne",Synonym,,M,WCSP (in review),,552850-1,"Bot. Jahrb. Syst.","3: 320","","1882",kew-2742651
+kew-2742655,A,Lythraceae,,Crenea,,"surinamensis",subsp.,"patentinervis","(Koehne) Koehne",Synonym,,L,WCSP (in review),,69307-2,"Bot. Jahrb. Syst.","3: 321","","1882",kew-2742652

@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-99245,A,Compositae,,Pinaropappus,,"caespitosus",,"","Brandegee",Synonym,,M,TICA,B049F2A5-074F-4CE3-8450-97EC3BF08B4E,196836-2,"","","388","1913",gcc-102884
+gcc-133394,A,Compositae,,Pinaropappus,,"diguetii",,"","McVaugh",Accepted,,M,TICA,14803F99-0E45-48A3-9379-E568A46A2034,196838-2,"","","373","1972",
+gcc-120543,A,Compositae,,Pinaropappus,,"junceus",,"","A.Gray",Accepted,,M,TICA,8EF6DFD8-B28C-4BB5-B98C-C7C8C55509CA,196837-2,"","","307","1887",
+gcc-37160,A,Compositae,,Pinaropappus,,"mojadanus",,"","B.L.Turner",Accepted,,M,TICA,98C6D7BE-FCFC-4411-8369-44D9DD9220FB,303949-2,"","","100","1996",
+gcc-123981,A,Compositae,,Pinaropappus,,"multicaulis",,"","Brandegee",Accepted,,M,TICA,4412ABB7-6D5A-4090-899E-CFAA65EBF458,196839-2,"","","281","1912",
+gcc-131765,A,Compositae,,Pinaropappus,,"parvus",,"","S.F.Blake",Accepted,,M,TICA,41DEC638-64F2-4001-980D-E1ADCCD04788,196840-2,"","","655","1924",
+gcc-7587,A,Compositae,,Pinaropappus,,"parvus",var.,"parvus","",Synonym,,L,TICA,BCE71830-6CA1-49CD-A674-0E13635BDC78,,"","","","1924",gcc-131765
+gcc-51577,A,Compositae,,Pinaropappus,,"pattersonii",,"","B.L.Turner",Accepted,,M,TICA,5556B669-3ADA-4E66-BD5F-5FA26F18BB66,306342-2,"","","261","1992",
+gcc-100779,A,Compositae,,Pinaropappus,,"pooleanus",,"","B.L.Turner",Accepted,,M,TICA,E0F35D1D-5FC4-4B3B-AF21-9B648D1DF55C,305459-2,"","","262","1992",
+gcc-22386,A,Compositae,,Pinaropappus,,"powellii",,"","B.L.Turner",Accepted,,M,TICA,E4966748-9ACE-4F7B-BE74-296C6AD68F01,302424-2,"","","101","1996",
+gcc-80653,A,Compositae,,Pinaropappus,,"roseus",,"","(Less.) Less.",Accepted,,M,TICA,22E1CA6B-0BD1-48EA-9944-6E0BB9EB2D77,238407-1,"","","143","1832",
+gcc-66471,A,Compositae,,Pinaropappus,,"roseus",var.,"foliosus","(Heller) Shinners",Synonym,,L,TICA,0FCC89E7-6255-4DFA-A830-CF0413CE39E9,196842-2,"Field & Lab. 19: 48. 1951","","48","1951",gcc-80653
+gcc-157189,A,Compositae,,Pinaropappus,,"roseus",subsp.,"roseus","",Synonym,,L,TICA,BE035691-F128-4950-8DC6-FCD691C70C3B,,"","","","",gcc-80653
+gcc-45425,A,Compositae,,Pinaropappus,,"roseus",var.,"roseus","",Synonym,,L,TICA,FCD3F766-AB76-46B5-BDB1-542AE805E9B0,,"","","","1832",gcc-80653
+gcc-76597,A,Compositae,,Pinaropappus,,"scapiger",,"","Walp.",Synonym,,M,TICA,0E72BBC3-ACCD-41ED-AB37-650FF4437AF4,,"Linnaea 14: 508. 1841","","508","1840",gcc-80653
+gcc-102884,A,Compositae,,Pinaropappus,,"spathulatus",,"","Brandegee",Accepted,,M,TICA,1330C9B0-318A-42FE-A273-A01BDFA3ED89,196843-2,"Zoe 5","","241","1906",
+gcc-10328,A,Compositae,,Pinaropappus,,"spathulatus",var.,"chiapensis","McVaugh",Synonym,,L,TICA,3690F37F-E32E-403B-BAA1-134B76670672,196844-2,"Contr. Univ. Michigan Herb. 9(4)","","377","1972",gcc-102884
+gcc-63106,A,Compositae,,Pinaropappus,,"spathulatus",var.,"spathulatus","",Synonym,,L,TICA,5587545C-AEBD-4F95-AD97-B428107C3B0B,,"","","","",gcc-102884

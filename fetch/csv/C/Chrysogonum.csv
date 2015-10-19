@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-37638,A,Compositae,,Chrysogonum,,"album",,"","F.Br.",Synonym,,M,TICA,ACFD8158-27C0-4B6D-AA8B-45C7578632CE,,"","","","1935",gcc-105475
+tro-50101744,A,Compositae,,Chrysogonum,,"arnottiana",,"","C.B. Clarke",Unresolved,,L,TRO,50101744,,"","","","",
+gcc-6010,A,Compositae,,Chrysogonum,,"arnottianum",,"","(Wight) C.B.Clarke",Synonym,,M,TICA,5920EB40-3420-400F-8ECD-0B2DD983F3BC,194055-1,"","","132","1876",gcc-91246
+gcc-688,A,Compositae,,Chrysogonum,,"australe",,"","Alexander ex Small",Synonym,,M,TICA,35409FCD-A7D1-4F2A-A33A-0148C10D52B2,57667-2,"","","1415","1933",gcc-1815
+gcc-79878,A,Compositae,,Chrysogonum,,"australe",,"","Alexander",Unresolved,,L,TICA,C4298EE0-2EBF-44AE-9363-6C584F8E0EB7,194056-1,"""in Small, Man. Southeast. Fl. 1415 (1933).""","","1415","1933",
+gcc-137927,A,Compositae,,Chrysogonum,,"coriaceum",,"","F.Br.",Synonym,,M,TICA,4E7D33DF-3C46-46B1-838E-EF7DF4443DD1,,"","","","1935",gcc-118275
+gcc-4432,A,Compositae,,Chrysogonum,,"dichotomum",,"","Vahl",Unresolved,,L,TICA,687831F0-096A-4476-855A-083CDD4C47DB,,"","","","1793",
+gcc-132670,A,Compositae,,Chrysogonum,,"diotostephus",,"","DC.",Synonym,Illegitimate,M,TICA,60453A69-47F9-4136-94BB-E3C7DA7B8C2D,194059-1,"","","303","1793",gcc-3996
+gcc-117751,A,Compositae,,Chrysogonum,,"ecliptoides",,"","(F.Muell.) Benth. & Hook.f. ex F.Muell.",Synonym,,M,TICA,4FFAC5E6-9BD4-49E1-BAA9-C16074051CEB,75656-3,"","","","1883",gcc-7511
+gcc-30477,A,Compositae,,Chrysogonum,,"heterophyllum",,"","(Arn.) C.B.Clarke",Synonym,,M,TICA,D416F282-CBF5-40F7-9FD2-38601E60F9B3,194061-1,"","","132","1876",gcc-35991
+gcc-126882,A,Compositae,,Chrysogonum,,"leandrii",,"","Humbert",Unresolved,,L,TICA,D906ACDA-665C-40A8-B958-D653DE94A8C0,194062-1,"","","256","1958",
+gcc-83262,A,Compositae,,Chrysogonum,,"madagascariense",,"","Humbert",Unresolved,,L,TICA,0F6FB1F1-7B20-4B66-93A0-73E6578B6D82,,"","","","1958",
+gcc-30998,A,Compositae,,Chrysogonum,,"perrieri",,"","(Humbert) Humbert",Accepted,,M,TICA,42358920-9221-4461-AE53-39678C814422,194064-1,"","","633","1963",
+gcc-129400,A,Compositae,,Chrysogonum,,"peruvianum",,"","L.",Synonym,,L,TICA,04E0BD59-FE77-48B5-842D-DC2F2BB12EF0,194065-1,"Sp. Pl.","","920","1753",gcc-127354
+gcc-104475,A,Compositae,,Chrysogonum,,"philippinense",,"","Elmer",Synonym,,M,TICA,8ABA102F-E069-45BE-A790-A3962B175500,194066-1,"Leafl. Philipp. Bot. 1","","161","1906",gcc-139237
+gcc-11794,A,Compositae,,Chrysogonum,,"procumbens",,"","(DC.) Benth. & Hook.f. ex F.Muell.",Synonym,,L,TICA,B47A7AE4-7FFB-4DB2-A970-15F570100F3C,75676-3,"","","","1883",gcc-44478
+gcc-104937,A,Compositae,,Chrysogonum,,"rapense",,"","F.Br.",Synonym,,M,TICA,5BCE7BC2-C017-4D50-8B8B-A48DE4F99F9C,,"","","","1935",gcc-108227
+gcc-105637,A,Compositae,,Chrysogonum,,"stenocephalum",,"","Humbert",Unresolved,,L,TICA,B6D0EDC2-5A11-4130-AE6F-A60447090602,194069-1,"","","257","1958",
+gcc-92542,A,Compositae,,Chrysogonum,,"trichodesmoides",,"","Benth. & Hook.f.",Unresolved,,L,TICA,EAC4E3CE-A4D4-4156-8622-88D6CDC07B9F,194070-1,"""ex F. Muell. Census, 83.""","","83","",
+gcc-97008,A,Compositae,,Chrysogonum,,"trichodesmoides",,"","(F.Muell.) Benth. & Hook.f. ex F.Muell.",Synonym,,M,TICA,80DEEBBD-1A35-4FEF-98FA-92DDD651E19E,75703-3,"","","83","1883",gcc-118417
+gcc-91406,A,Compositae,,Chrysogonum,,"virginianum",,"","L.",Accepted,,M,TICA,2CF39A99-AB11-4C1C-8CA3-86512AC81C1B,274580-2,"Sp. Pl.","","920","1753",
+gcc-1815,A,Compositae,,Chrysogonum,,"virginianum",var.,"australe","(Alexander ex Small) H.E.Ahles",Accepted,,L,TICA,49E40C27-0079-4831-AAAA-03407ADAEB3A,57669-2,"","","173","1964",
+gcc-3996,A,Compositae,,Chrysogonum,,"virginianum",var.,"brevistolon","G.L.Nesom",Accepted,,L,TICA,13F03B39-C22B-4EDB-BA8B-076B80BC531F,20005149-1,"Sida 19(4)","","817","2001",
+gcc-66252,A,Compositae,,Chrysogonum,,"virginianum",var.,"dentatum","A.Gray",Synonym,,L,TICA,573DB41F-2DBA-4EC9-A966-CD4A1FEDA1BE,322165-2,"Bot. Gaz. 7","","31","1882",gcc-91406
+gcc-65122,A,Compositae,,Chrysogonum,,"virginianum",var.,"virginianum","",Synonym,,L,TICA,675DD82A-85E9-4F24-8BA2-C40DA0B01BD2,,"","","","",gcc-91406

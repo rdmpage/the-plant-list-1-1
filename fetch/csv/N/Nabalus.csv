@@ -1,0 +1,62 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123655,A,Compositae,,Nabalus,,"acerifolius",,"","Maxim.",Accepted,,M,TICA,7F8A844E-DA41-42B9-AD14-CED5F701F78D,234053-1,"","","376","1871",
+gcc-106858,A,Compositae,,Nabalus,,"alatus",,"","Hook.",Accepted,,L,TICA,255333A2-7644-4AA2-B924-A8C954B5C72D,,"Fl. Bor.-Amer. (Hooker) i. 294. t. 102","","294","1833",
+gcc-126682,A,Compositae,,Nabalus,,"albus",,"","(L.) Hook.",Accepted,,M,TICA,51B513BC-2DE0-44D7-BB79-D5D87E1DC1E3,30236599-2,"","","294","1833",
+gcc-21953,A,Compositae,,Nabalus,,"albus",,"","(L.) C.Shih",Unresolved,,L,TICA,0D80C524-4481-42BE-A3B2-289E1C28BAB7,944262-1,"Acta Phytotax. Sin. 25(3): 194 (1987):.","","194","1987",
+gcc-156092,A,Compositae,,Nabalus,,"albus",var.,"albus","",Synonym,,L,TICA,AF941222-40F6-42E4-AB35-E64154E94DBA,,"","","","",gcc-126682
+gcc-120814,A,Compositae,,Nabalus,,"altissimus",,"","(L.) Hook.",Accepted,,M,TICA,E401B7C4-5F4F-4360-ACEF-C863EDE0021C,30101102-2,"","","294","1833",
+gcc-153270,A,Compositae,,Nabalus,,"altissimus",var.,"altissimus","",Synonym,,L,TICA,12F4B0D0-397E-481A-B721-AAE35D0456BE,,"","","","",gcc-120814
+gcc-70497,A,Compositae,,Nabalus,,"altissimus",var.,"cordatus","Torr. & A.Gray",Synonym,,L,TICA,57E72D00-B126-4EFB-9CA3-EE9E5FAA5731,166867-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-120814
+gcc-54564,A,Compositae,,Nabalus,,"altissimus",var.,"deltoideus","Torr. & A.Gray",Synonym,,L,TICA,42E55A15-9CA5-4821-A0C1-6F0C89AB9F60,166868-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-120814
+gcc-57173,A,Compositae,,Nabalus,,"altissimus",var.,"dissectus","Torr. & A.Gray",Synonym,,L,TICA,1FC6AC4E-184D-4420-8EA6-845B98178828,166869-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-120814
+gcc-69448,A,Compositae,,Nabalus,,"altissimus",var.,"ovatus","Torr. & A.Gray",Synonym,,L,TICA,ED8F17E7-E35D-4018-9C0C-E6709B2FD07F,166870-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-120814
+gcc-135850,A,Compositae,,Nabalus,,"angustilobus",,"","(C.Shih) Sennikov",Accepted,,M,TICA,329E897B-D90A-4404-8CBA-EAD9785F354C,1014480-1,"","","180","2000",
+gcc-121668,A,Compositae,,Nabalus,,"asper",,"","(Michx.) Torr. & A.Gray",Accepted,,M,TICA,5EC85A4A-566A-487D-9AC6-CA4A13E30085,30313607-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 483","","483","1843",
+tro-100376081,A,Compositae,,Nabalus,,"autumnalis",,"","(Walter) Weakley",Accepted,,M,TRO,100376081,60458063-2,"J. Bot. Res. Inst. Texas","5(2): 439","439","2011",
+gcc-13165,A,Compositae,,Nabalus,,"barbatus",,"","(Torr. & A.Gray) A.Heller",Accepted,,M,TICA,385E15BA-0EAC-4E83-8536-1889ED210849,166872-2,"","","8","1900",
+gcc-149273,A,Compositae,,Nabalus,,"bootii",,"","DC.",Accepted,,M,TICA,41CCE091-D2B6-425D-90AF-558F54BD7FC6,234059-1,"""A.P. de Candolle, Prodr. 7. 1838""","","241","1838",
+gcc-121866,A,Compositae,,Nabalus,,"boottii",,"","DC.",Synonym,,L,TICA,3FD6BA0F-6146-4DB6-9694-CAB624E7A580,,"Prodr. (DC.) 7(1): 241","","","1838",gcc-99058
+tro-100376082,A,Compositae,,Nabalus,,"carrii",,"","(Singhurst, O'Kennon & W.C. Holmes) Weakley",Accepted,,M,TRO,100376082,60458064-2,"J. Bot. Res. Inst. Texas","5(2): 441","441","2011",
+gcc-21650,A,Compositae,,Nabalus,,"cordatus",,"","(Willd.) Hook.",Synonym,,M,TICA,AF1C5A40-2696-4F0B-AF5D-280BB5D3E193,,"Fl. Bor.-Amer. (Hooker) i. 294","","294","1833",gcc-120814
+gcc-18120,A,Compositae,,Nabalus,,"crepidineus",,"","(Michx.) DC.",Accepted,,M,TICA,D745440D-8FC6-40B1-A429-217704EC3B4F,234061-1,"Prodr. (DC.) 7(1): 242","","242","1838",
+gcc-23517,A,Compositae,,Nabalus,,"cylindricus",,"","Small",Synonym,,M,TICA,97619B9A-6C35-46CF-AE19-2B814FEA41FB,234062-1,"","","","1903",gcc-88966
+gcc-96795,A,Compositae,,Nabalus,,"deltoideus",,"","DC.",Synonym,,M,TICA,A300CEA8-46AA-4410-8711-926296726B69,234063-1,"Prodr. (DC.) 7(1): 242","","242","1838",gcc-120814
+gcc-131863,A,Compositae,,Nabalus,,"faberi",,"","(Hemsl.) Sennikov",Accepted,,M,TICA,CF920291-963D-4747-A671-E1EE7C391C89,1014481-1,"Novosti Sist. Vyssh. Rast. 32: 180 (2000):","","180","2000",
+gcc-76983,A,Compositae,,Nabalus,,"fraseri",,"","DC.",Synonym,,M,TICA,87944CB3-1A9C-4858-A847-65D39D39DC15,234064-1,"Prodr. (DC.) 7(1): 241","","241","1838",gcc-8081
+gcc-58085,A,Compositae,,Nabalus,,"fraseri",var.,"barbatus","Torr. & A.Gray",Synonym,,L,TICA,A3413793-E683-4172-84B6-8BAC4130BAF8,166874-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-13165
+gcc-53692,A,Compositae,,Nabalus,,"fraseri",var.,"fraseri","",Synonym,,L,TICA,0F5737F9-CBE3-45B3-A6D0-682055B425BD,,"","","","",gcc-8081
+gcc-56466,A,Compositae,,Nabalus,,"fraseri",var.,"integrifolius","(Cass.) Torr. & A.Gray",Synonym,,L,TICA,C3D5E010-89E6-46C7-9941-7ECD7675D393,166875-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 481. 1843 [Feb 1843]","","481","1843",gcc-8081
+gcc-117424,A,Compositae,,Nabalus,,"glaucus",,"","(Raf.) DC.",Accepted,,M,TICA,9FCED3D6-D348-466C-92C2-C09C1BBA3F4D,234065-1,"Prodr. (DC.) 7(1): 241","","241","1838",
+gcc-75734,A,Compositae,,Nabalus,,"hastatus",,"","(Less.) A.Heller",Synonym,,L,TICA,93DD4A1E-01DA-4CB7-8B12-631EE58E3761,166876-2,"","","8","1900",gcc-106858
+gcc-40588,A,Compositae,,Nabalus,,"illinoensis",,"","DC.",Synonym,Illegitimate,M,TICA,4263132A-3B77-4D79-87C4-4B39DE21C809,234067-1,"Prodr. (DC.) 7(1): 242","","242","1838",gcc-121668
+gcc-25339,A,Compositae,,Nabalus,,"integrifolius",,"","Cass.",Synonym,,M,TICA,6385F58A-CA6B-4D15-8AA9-2EC31B321FB1,234068-1,"in Dict. Sc. Nat. xxxiv. 96.","","96","1825",gcc-8081
+gcc-103404,A,Compositae,,Nabalus,,"leptanthus",,"","(C.Shih) Sennikov",Accepted,,M,TICA,39D9F436-BC49-4B14-A223-A13067E57380,1014482-1,"","","180","2000",
+gcc-29756,A,Compositae,,Nabalus,,"mainensis",,"","(A.Gray) A.Heller",Accepted,,M,TICA,D9D6A9BB-DD04-4173-8EB9-37010B4DED85,166878-2,"","","8","1900",
+gcc-92674,A,Compositae,,Nabalus,,"nanus",,"","(Bigelow) DC.",Synonym,,M,TICA,09C3E29C-C7F3-4880-BBC9-891D503D508A,234070-1,"Prodr. (DC.) 7(1): 241","","241","1838",gcc-102068
+gcc-93082,A,Compositae,,Nabalus,,"nipponicus",,"","Franch. & Sav.",Accepted,,M,TICA,D2B7C7EB-6C19-4BB6-9524-89FDBE81E83C,,"Enum. Pl. Jap. ii. 420.","","420","1878",
+gcc-44269,A,Compositae,,Nabalus,,"ochroleucus",,"","Maxim.",Accepted,,M,TICA,4E03FBC4-7B62-4AB4-97CF-51F8FFF62B61,234072-1,"in Bull. Acad. Petersb. xv. (1871) 376.","","376","1871",
+gcc-34436,A,Compositae,,Nabalus,,"pyramidalis",,"","(C.Shih) Sennikov",Accepted,,M,TICA,BC0A6524-5936-43D2-9DFB-3FD5A05DFF40,1014483-1,"","","180","2000",
+gcc-75868,A,Compositae,,Nabalus,,"quercifolius",,"","Bertol.",Accepted,,M,TICA,F717C52A-29DD-4F8A-ADE7-636A8227FD4E,,"Misc. Bot. iv. 11.","","","1844",
+gcc-19117,A,Compositae,,Nabalus,,"racemiformis",,"","(C.Shih) Sennikov",Accepted,,M,TICA,0AE996E4-EB33-4F68-A5AE-234B07C308C9,1014484-1,"","","180","2000",
+gcc-111684,A,Compositae,,Nabalus,,"racemosus",,"","(Michx.) DC.",Synonym,,M,TICA,D61B98A2-61DD-4D0F-A348-B3A7B8EBBD6B,,"","","","",gcc-19913
+gcc-19913,A,Compositae,,Nabalus,,"racemosus",,"","(Michx.) Hook.",Accepted,,M,TICA,F8D448B7-6BBD-4A74-9F0C-24D2A32FEE15,234074-1,"","","294","1833",
+gcc-148651,A,Compositae,,Nabalus,,"racemosus",var.,"racemosus","",Synonym,,L,TICA,3B4BAE81-296F-413C-AFB2-4779707393E4,,"","","","",gcc-19913
+gcc-102989,A,Compositae,,Nabalus,,"repens",,"","(L.) Ledeb.",Synonym,,M,TICA,2356C367-B14C-4EAE-AE2F-A04FF08FB245,,"Fl. Ross. ii. 840.","","840","1846",gcc-44704
+gcc-88966,A,Compositae,,Nabalus,,"roanensis",,"","Chick.",Accepted,,M,TICA,08C2744B-644B-4AB2-AB5A-809AE70B23BE,281149-2,"","","155","1880",
+gcc-35319,A,Compositae,,Nabalus,,"sagittatus",,"","(A.Gray) Rydb.",Accepted,,M,TICA,469E296B-DAE7-4BF2-8918-417BA96A84C6,166880-2,"","","463","1900",
+gcc-8081,A,Compositae,,Nabalus,,"serpentarius",,"","(Pursh) Hook.",Accepted,,M,TICA,B7337417-8C6E-4642-8899-0F09DB17F86A,30063245-2,"","","294","1833",
+gcc-67077,A,Compositae,,Nabalus,,"serpentarius",var.,"barbatus","(Torr. & A.Gray) C.Mohr",Synonym,,L,TICA,1C986642-66C3-4DFB-876A-D3FE756992E2,166881-2,"C. Mohr in Contr. U.S. Natl. Herb. 6. 1901","","755","1901",gcc-13165
+gcc-12412,A,Compositae,,Nabalus,,"serpentarius",var.,"integrifolius","(Cass.) Britton",Synonym,,L,TICA,B87E8938-548F-4D02-9EC9-17236D942281,166882-2,"Ill. Fl. N. U.S. 3: 289. 1898","","289","1898",gcc-8081
+gcc-54897,A,Compositae,,Nabalus,,"serpentarius",var.,"laevis","DC.",Synonym,,L,TICA,5369F9C5-94CB-40B9-A1C2-71B4B3ABE10E,166883-2,"Prodr. (DC.) 7(1): 241","","241","1838",gcc-8081
+gcc-151634,A,Compositae,,Nabalus,,"serpentarius",var.,"serpentarius","",Synonym,,L,TICA,9F394997-E6EF-483D-8F08-88F1B8177D9F,,"","","","",gcc-8081
+gcc-120996,A,Compositae,,Nabalus,,"suavis",,"","DC.",Synonym,Illegitimate,M,TICA,0BA05896-25CF-4B1F-94DF-C8D0FACBC7A4,234079-1,"Prodr. (DC.) 7(1): 241","","241","1838",gcc-126682
+gcc-6540,A,Compositae,,Nabalus,,"tatarinowii",,"","(Maxim.) Nakai",Accepted,,M,TICA,447D3A34-F2CA-4849-B74A-0C2330CD2EA5,234080-1,"","","116","1923",
+gcc-37241,A,Compositae,,Nabalus,,"tatarinowii",var.,"divisa","Nakai & Kitag.",Synonym,,L,TICA,7224D5A6-13E1-4C57-B311-450118065D29,,"","","61","1934",gcc-6540
+gcc-149520,A,Compositae,,Nabalus,,"tatarinowii",var.,"tatarinowii","",Synonym,,L,TICA,6A6EBE8F-965C-4DDF-B376-5A93D120EB21,,"","","","",gcc-6540
+tro-100377500,A,Compositae,,Nabalus,,"tatarinowii",subsp.,"tatarinowii","",Synonym,,L,TRO,100377500,,"","","","",gcc-6540
+gcc-102068,A,Compositae,,Nabalus,,"trifoliolatus",,"","Cass.",Accepted,,M,TICA,CEEF60D3-C114-40EF-A337-9E365F2D369F,166885-2,"","","95","1825",
+gcc-60947,A,Compositae,,Nabalus,,"trifoliolatus",var.,"dissectifolius","Peck",Synonym,,L,TICA,E723E728-0DF1-454B-B04D-A289E53E2A2A,166884-2,"Rep. (Annual) Regents Univ. State New York New York State Mus. 53: 851. 1900","","851","1900",gcc-102068
+gcc-48630,A,Compositae,,Nabalus,,"trifoliolatus",var.,"obovatus","Burnham",Synonym,,L,TICA,E8E325F9-09E3-4B0D-BBA0-5A1449B0B991,166886-2,"Torreya 21: 32. 1921","","32","1921",gcc-102068
+gcc-157186,A,Compositae,,Nabalus,,"trifoliolatus",var.,"trifoliolatus","",Synonym,,L,TICA,F8D7B3B7-E730-4A4F-94C2-FCCD14E28AF5,,"","","","",gcc-102068
+gcc-14870,A,Compositae,,Nabalus,,"trilobatus",,"","Cass.",Unresolved,,L,TICA,37C33F86-52B8-4041-8A01-1B8CD1691F74,234082-1,"in Dict. Sc. Nat. xxxiv. 95.","","xxxiv. 95","",
+gcc-91302,A,Compositae,,Nabalus,,"virgatus",,"","(Michx.) DC.",Synonym,Illegitimate,M,TICA,F9A50406-AE07-4DDF-8162-86133E4D7552,234083-1,"Prodr. (DC.) 7(1): 242. 1838 [Apr 1838]","","242","1838",gcc-2871

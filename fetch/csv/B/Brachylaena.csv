@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32127,A,Compositae,,Brachylaena,,"argentea",,"","Humbert",Synonym,,M,TICA,7B4BE4E5-448D-4656-B8CC-3B80021AE96A,186087-1,"","","","1923",gcc-7658
+gcc-77781,A,Compositae,,Brachylaena,,"coriifolia",,"","(Baker) Humbert",Synonym,,M,TICA,87141058-04CB-45DF-B3C3-67A6547C3602,186088-1,"","","55","1923",gcc-143825
+gcc-113118,A,Compositae,,Brachylaena,,"dentata",,"","(Thunb.) Harv.",Synonym,Illegitimate,M,TICA,CFEFD91B-21E4-4F25-95BC-B6EDAE7B5A72,,"Fl. Cap. 3: 116 (1865)","","116","1865",gcc-8195
+gcc-90526,A,Compositae,,Brachylaena,,"dentata",,"","(Thunb.) Less.",Synonym,,M,TICA,2B714CF4-359E-4003-B5BF-8439F88AC445,,"","","","",gcc-8195
+gcc-95154,A,Compositae,,Brachylaena,,"dentata",,"","DC.",Synonym,,M,TICA,64889E5B-B1DE-4518-A183-8EA459B66282,186089-1,"","","430","1836",gcc-87095
+gcc-149404,A,Compositae,,Brachylaena,,"dentata",var.,"dentata","",Synonym,,L,TICA,C0DD52C5-7AD9-470A-8597-5804380C5BA3,,"","","","",gcc-87095
+gcc-71048,A,Compositae,,Brachylaena,,"dentata",var.,"salicina","DC.",Synonym,,L,TICA,07DD2625-7065-4027-A4F7-F2FC6B3A9412,,"","","","",gcc-87095
+gcc-115815,A,Compositae,,Brachylaena,,"discolor",,"","DC.",Accepted,,M,TICA,E1C27F06-A4BC-4027-A7F0-BD0B3491227D,186090-1,"","","430","1836",
+gcc-15447,A,Compositae,,Brachylaena,,"discolor",var.,"discolor","",Synonym,,L,TICA,A613255F-AC63-4EDA-9BB1-1C9998CBA825,,"","","","",gcc-115815
+gcc-58000,A,Compositae,,Brachylaena,,"discolor",subsp.,"discolor","",Synonym,,L,TICA,AFA147BE-AB28-4BC4-A97B-8B0EDA7AEA81,,"","","","",gcc-115815
+gcc-20309,A,Compositae,,Brachylaena,,"discolor",var.,"mossambicensis","Paiva",Synonym,,L,TICA,CAD25BDA-33F3-4D7F-93DD-258C17685991,,"","","379","1972",gcc-115815
+gcc-63357,A,Compositae,,Brachylaena,,"discolor",subsp.,"transvaalensis","(Hutch. ex Phillips & Schweick.) Paiva",Synonym,,L,TICA,073356CD-1E7C-4A47-B846-B647205CDA58,,"","","380","1972",gcc-103753
+gcc-87095,A,Compositae,,Brachylaena,,"elliptica",,"","(Thunb.) Less.",Accepted,,M,TICA,B233986D-D66F-438A-9746-7C7D4D28FED8,186091-1,"","","208","1832",
+gcc-96271,A,Compositae,,Brachylaena,,"elliptica",,"","(Thunb.) DC.",Synonym,,M,TICA,334F2EB9-6309-4F53-A248-912917F9F626,,"","","","",gcc-87095
+gcc-148622,A,Compositae,,Brachylaena,,"elliptica",var.,"elliptica","",Synonym,,L,TICA,2BEC88F5-CF1F-41D6-AE9C-467C0EF6DC70,,"","","","",gcc-87095
+gcc-4689,A,Compositae,,Brachylaena,,"elliptica",var.,"salicina","(DC.) Harv.",Synonym,,L,TICA,ED6F42A6-881D-4D3C-82EA-08B58C909D2D,,"","","","",gcc-87095
+gcc-8195,A,Compositae,,Brachylaena,,"glabra",,"","(L.f.) Druce",Accepted,,M,TICA,FD087BF5-1D3D-47D0-8B00-0F3BE6B51587,186092-1,"","","611","1917",
+gcc-22452,A,Compositae,,Brachylaena,,"grandifolia",,"","DC.",Synonym,,M,TICA,3E10822A-DABB-4F8A-9D08-298B446219A9,186093-1,"","","430","1836",gcc-8195
+gcc-123422,A,Compositae,,Brachylaena,,"huillensis",,"","O.Hoffm.",Accepted,,M,TICA,882FBF29-BEC5-49B1-9810-CE48A6755908,186094-1,"","","149","1902",
+gcc-4934,A,Compositae,,Brachylaena,,"hutchinsii",,"","Hutch.",Synonym,,M,TICA,78CA722B-847B-418D-9F0D-09357D5436E2,186095-1,"","","126","1910",gcc-123422
+gcc-131797,A,Compositae,,Brachylaena,,"ilicifolia",,"","(Lam.) Phillips & Schweick.",Accepted,,L,TICA,8076CF41-EE97-4320-80FE-E1C1D767907B,,"","","","1937",
+gcc-143825,A,Compositae,,Brachylaena,,"merana",,"","(Baker) O.Hoffm.",Accepted,,M,TICA,52BC1A46-9428-473D-9118-FCBD81A3838C,,"Bot. Jahrb. Syst. 32: 149 (1902)","","149","1902",
+gcc-606,A,Compositae,,Brachylaena,,"merana",,"","(Baker) Humbert",Synonym,,M,TICA,01A265C3-0F92-467F-B143-0124FCD3CF8C,186097-1,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 55 (1923), in clavi.""","","","1923",gcc-143825
+gcc-28314,A,Compositae,,Brachylaena,,"microphylla",,"","Humbert",Accepted,,M,TICA,427A5857-1155-4F11-B529-344DA25AEE09,186098-1,"Bull. Soc. Bot. France 84","","206","1937",
+gcc-102324,A,Compositae,,Brachylaena,,"mullensis",,"","O.Hoffm.",Synonym,,M,TICA,C809342F-812B-442F-B753-9EDE311C39E6,186099-1,"Bot. Jahrb. Syst. xxxii. 149.","","xxxii. 149.","",gcc-123422
+gcc-7654,A,Compositae,,Brachylaena,,"natalensis",,"","Sch.Bip.",Synonym,,M,TICA,D1414E20-7FD6-4011-BA71-0E3929641FAD,,"Repertorium Botanices Systematicae. 2:","","972","1843",gcc-115815
+gcc-86278,A,Compositae,,Brachylaena,,"natalensis",,"","Sch.Bip. ex Walp.",Synonym,,M,TICA,4E73D1E1-5F59-4F0B-AE82-7A9128C402E3,,"","","972","1843",gcc-115815
+gcc-137833,A,Compositae,,Brachylaena,,"neriifolia",,"","(L.) R.Br.",Accepted,,M,TICA,12620B03-35CA-4289-A778-EF4CB7A0FBE2,186101-1,"","","115","",
+gcc-40316,A,Compositae,,Brachylaena,,"perrieri",,"","(Drake) Humbert",Accepted,,M,TICA,6C14FEDD-EFCF-4F51-8C9A-4ABC5652D0B3,186102-1,"","","55","1923",
+gcc-25050,A,Compositae,,Brachylaena,,"racemosa",,"","(Thunb.) DC.",Synonym,,M,TICA,30D0841B-627C-4540-842B-2E43FBCA8303,,"","","","",gcc-131797
+gcc-77168,A,Compositae,,Brachylaena,,"racemosa",,"","(Thunb.) Less.",Synonym,,M,TICA,DE228E3C-3292-47A9-AE97-664886933D27,186103-1,"","","208","1832",gcc-131797
+gcc-17770,A,Compositae,,Brachylaena,,"ramiflora",,"","(DC.) Humbert",Accepted,,M,TICA,D37DBA7E-D422-408A-9D56-20CD8F9479DE,186104-1,"","","54","1923",
+gcc-23008,A,Compositae,,Brachylaena,,"ramiflora",var.,"bernieri","(Baill.) Humbert",Accepted,,L,TICA,F9BC1A83-5BF1-4D7E-89F5-2A9C4C585E70,,"Mém. Soc. Linn. Normandie 25: 45 (1923)","","","1923",
+gcc-1130,A,Compositae,,Brachylaena,,"ramiflora",var.,"ramiflora","",Synonym,,L,TICA,FBA7C4EB-4995-4E44-A23A-0214B0BF1FBB,,"","","","",gcc-17770
+gcc-51713,A,Compositae,,Brachylaena,,"rhodesiana",,"","S.Moore",Synonym,,M,TICA,667DC30C-D973-418D-84ED-5FE29E66E410,186105-1,"","","448","1906",gcc-131727
+gcc-131727,A,Compositae,,Brachylaena,,"rotundata",,"","S.Moore",Accepted,,M,TICA,70B90427-2080-49CA-BA0B-E19838ABC6AF,186106-1,"","","131","1903",
+gcc-15044,A,Compositae,,Brachylaena,,"stellulifera",,"","Humbert",Accepted,,M,TICA,54DECBFF-A81F-4A63-BA75-1BDAF82A4DF5,,"","","","1923",
+gcc-103753,A,Compositae,,Brachylaena,,"transvaalensis",,"","Hutch. ex E.Phillips & Schweick.",Accepted,,M,TICA,0B5FB19E-2AA1-416A-B8A8-A1F7F41A2B26,186108-1,"","","214","1937",
+gcc-126036,A,Compositae,,Brachylaena,,"trinervia",,"","Sond.",Unresolved,,L,TICA,73EB6818-5A43-40E5-B513-D46AE7139D35,186109-1,"Linnaea 23","","63","1850",
+gcc-82794,A,Compositae,,Brachylaena,,"uniflora",,"","Harv.",Accepted,,M,TICA,60AE229A-8633-4E76-B16E-72D4A071A306,186110-1,"","","117","1865",

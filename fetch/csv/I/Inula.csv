@@ -1,0 +1,595 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-48391,A,Compositae,,Inula,,"acaulis",,"","Schott & Kotschy ex Tchich.",Unresolved,,L,TICA,6BC3C6FC-B96A-4406-8661-59A7C6CF87DF,225725-1,"""Asie Min., Bot. (P.A. Tchichatscheff) ii. 243.""","","243","1860",
+gcc-89540,A,Compositae,,Inula,,"acaulis",,"","Schott & Kotschy ex Boiss.",Accepted,,M,TICA,C9D428AD-D432-441F-8A69-81ED35764BB6,,"""Boiss., Fl. Orient. 3. 1875.""","","195","1875",
+gcc-132731,A,Compositae,,Inula,,"acervata",,"","S.Moore",Synonym,,M,TICA,E8245609-3503-4172-B6B8-E3EB2960ABAD,,"""J. Linn. Soc., Bot. xxxv. 340.""","","340","",gcc-48581
+gcc-9249,A,Compositae,,Inula,,"acinacifolia",,"","Gand.",Unresolved,,L,TICA,6E68A7C4-F064-4AC7-A8BD-11461A8AF95D,225727-1,"""Contrib. Fl. Terr. Slav. Merid., 1: 18(1883).""","","18","1883",
+gcc-120780,A,Compositae,,Inula,,"acris",,"","Bernh.",Unresolved,,L,TICA,B5F67E3F-52A9-4B4E-B471-C85259FC8969,225728-1,"Syst. Verz. (Bernhardi) 149","","149","1800",
+gcc-140311,A,Compositae,,Inula,,"acuminata",,"","Royle ex DC.",Accepted,,M,TICA,83003036-15BE-4B98-885F-F4B1B00657A6,225729-1,"Prodr. (DC.) 5: 471","","471","1836",
+gcc-20975,A,Compositae,,Inula,,"acutifolia",,"","Pasq.",Synonym,,M,TICA,428639AE-18C4-4168-B0F1-26C51BDD67F1,,"""Pasq. in Ann. Accad. Aspir. Naturalisti, ser. 3 1. 1861.""","","19","1861",gcc-53169
+gcc-14550,A,Compositae,,Inula,,"adenophylla",,"","Sennen & Pau",Unresolved,,L,TICA,97E2263C-FB56-41A8-B29B-1AFCB27DB73E,225730-1,"in Bol. Soc. Arag. vi. 26 (1907).","","vi. 26","1907",
+gcc-102570,A,Compositae,,Inula,×,"adriatica",,"","Borbás",Unresolved,,L,TICA,503C296A-6A23-4B45-9135-9F7152E650AC,225731-1,"Oesterr. Bot. Z. 27: 187","","187","1877",
+gcc-19158,A,Compositae,,Inula,,"aestuans",,"","L.",Unresolved,,L,TICA,54376C0E-F666-456F-AE52-23664955300B,225732-1,"""Sp. Pl., ed. 2. 2: 1236""","","1236","1763",
+gcc-37985,A,Compositae,,Inula,,"afghanica",,"","Rech.f. & Köie",Synonym,,M,TICA,C3368CF2-9A26-4562-B315-4672495E9143,,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. II.) 31(1955).""","","","1955",gcc-112216
+gcc-137947,A,Compositae,,Inula,,"africana",,"","Lam.",Unresolved,,L,TICA,D14A84A2-4B63-4577-A48D-EF8812342C97,225734-1,"Encycl. (Lamarck) 3(1): 256","","256","1789",
+gcc-107931,A,Compositae,,Inula,,"alba",,"","Nutt.",Synonym,,L,TICA,A96819BA-024F-4C3C-AFE6-AB373FB41786,128851-2,"Gen. N. Amer. Pl. [Nuttall] 2: 152. 1818 [14 Jul 1818]","","152","1818",gcc-33632
+gcc-50891,A,Compositae,,Inula,,"albertoregelia",,"","B.Fedtsch.",Unresolved,,L,TICA,0745CDB2-9637-4BBF-AF95-5E67417E1A8E,225735-1,"Rastit. Turkest. 731 (1915).","","731","1915",
+gcc-46293,A,Compositae,,Inula,,"alpina",,"","Adam",Unresolved,,L,TICA,6B6BF7EE-B3F6-4BC2-9EE4-55CEAAF3F447,,"Beitr. Naturk. (Weber & Mohr) i. 68.","","i. 68","",
+gcc-122497,A,Compositae,,Inula,,"altissima",,"","Camus",Unresolved,,L,TICA,DFB6B3AE-39AB-41A6-A210-CC2769EABCAC,,"Catal. pl. Fr. & Suisse (1888).","","","1888",
+gcc-90449,A,Compositae,,Inula,,"ambigua",,"","Schur",Unresolved,,L,TICA,6F20C713-62EB-4BF3-B9B3-840AC03D04A6,225738-1,"""in Verh. Naturf. Ver. Brunn, xxxvi. 160.""","","xxxvi. 160.","",
+gcc-131991,A,Compositae,,Inula,,"ammophila",,"","Bunge ex DC.",Synonym,,M,TICA,5BE3C4E0-9929-45C6-B6AB-E234DFFA8DF6,225739-1,"Prodr. (DC.) 5: 470","","470","1836",gcc-97873
+gcc-149268,A,Compositae,,Inula,,"ammophila",var.,"ammophila","",Synonym,,L,TICA,D12698A2-A831-4BA2-800A-55794CFF674F,,"","","","",gcc-97873
+gcc-19597,A,Compositae,,Inula,,"ammophila",var.,"salsoloides","(Turcz.) Turcz.",Synonym,,L,TICA,9D071FF2-E43C-4ABD-A731-243C5D91390D,,"Bulletin de la societe imperiale des naturalistses de Moscou 8:","","154","1837",gcc-97873
+gcc-102689,A,Compositae,,Inula,,"amygdalina",,"","(Lam.) Nutt.",Synonym,,M,TICA,80AD7E76-6C50-4491-B25D-9FB170D6A52D,60440232-2,"Gen. N. Amer. Pl. [Nuttall] 2: 153. 1818","","153","1818",gcc-82586
+gcc-5047,A,Compositae,,Inula,,"anatolica",,"","Boiss.",Unresolved,,L,TICA,AFE0356E-42B5-4477-839C-096DAAEDAE38,,"","","6","1849",
+gcc-33497,A,Compositae,,Inula,,"angustifolia",,"","Wender.",Unresolved,,L,TICA,88F178F5-8574-4DA6-A0CB-3E1D045A6B90,225742-1,"""in Flora, xii. (1829) I. Erg. 26.""","","xii.  I. Erg. 26","1829",
+gcc-76863,A,Compositae,,Inula,,"angustifolia",,"","DC.",Accepted,,M,TICA,C5871A4F-DAE2-4612-BC9B-6595A579F50A,225741-1,"Prodr. (DC.) 5: 285","","285","1836",
+gcc-20575,A,Compositae,,Inula,,"anthelmintica",,"","Salisb.",Unresolved,,L,TICA,31D4D546-FEA2-4DFF-A8F9-2612629E7A25,225743-1,"Prodr. Stirp. Chap. Allerton 201","","201","1796",
+gcc-128723,A,Compositae,,Inula,,"appendiculata",,"","Wall.",Synonym,Illegitimate,M,TICA,177BA63E-3E08-4CA7-B504-DAAE1FC6D04F,,"Numer. List [Wallich] n. 2966","","","1831",gcc-81583
+gcc-143900,A,Compositae,,Inula,,"apula",,"","Crantz",Unresolved,,L,TICA,D54B0D8C-E2DD-4344-AB4F-FCE70969B99C,225745-1,"Inst. i. 327.","","i. 327","",
+gcc-79151,A,Compositae,,Inula,,"aquatica",,"","E.H.L.Krause",Unresolved,,L,TICA,D2BEF02E-523F-4ACA-9FFB-6AD1F7146855,225746-1,"""in Sturm, Fl. Deutschland, ed. 2, xiii. 108 (1905).""","","""2, xiii. 108""","1905",
+gcc-117425,A,Compositae,,Inula,,"arabica",,"","L.",Synonym,,M,TICA,2DD054CB-3E6E-4D9F-BD98-C09C2D9FBCEB,225747-1,"","","114","1767",gcc-83211
+gcc-123757,A,Compositae,,Inula,,"arabica",,"","Bové ex DC.",Unresolved,,L,TICA,70535108-23E7-4B90-8B2A-CF17070D96D1,225748-1,"Prodr. (DC.) 5: 478","","478","1836",
+gcc-151049,A,Compositae,,Inula,,"arbuscula",,"","Del.",Accepted,,M,TICA,DB8C8D69-A4EB-4480-8AC0-7C219F0E2EA5,,"","","","",
+gcc-91881,A,Compositae,,Inula,,"arbuscula",,"","Delile",Unresolved,,L,TICA,45B917F4-C05A-4899-A045-8767A4151929,,"""Ann. Sci. Nat., Bot. sér. 2, 20: 93""","","93","1843",
+gcc-5560,A,Compositae,,Inula,,"arenaria",,"","K.Schum.",Unresolved,,L,TICA,8704EB4E-1E6D-4B69-8643-0A5CA170CA7C,225750-1,"""in Just. Jahresb. xxvii. I. 527, sphalm.""","","""xxvii. I. 527, sphalm.""","",
+gcc-118083,A,Compositae,,Inula,,"argentea",,"","Wall.",Unresolved,,L,TICA,748D81B5-794E-4465-BD71-C21CFEAF4AE1,,"A Numerical List of Dried Specimens","","n. 3014","1831",
+gcc-22329,A,Compositae,,Inula,,"argentea",,"","Pers.",Synonym,,M,TICA,D4BCE530-A7B4-4267-8D70-2951BA6CA950,225751-1,"","","452","1807",gcc-48710
+gcc-8890,A,Compositae,,Inula,,"argentea",,"","Gand.",Unresolved,,L,TICA,B6510DE1-B038-4E03-B708-10A04D2FCCEF,225752-1,"Fl. Lyonn. 125 (1875).","","125","1875",
+gcc-133228,A,Compositae,,Inula,,"armena",,"","Bords.",Unresolved,,L,TICA,BDA5171B-5234-4DA5-BBF5-E508061862C0,225753-1,"","","","1915",gcc-7249
+gcc-127922,A,Compositae,,Inula,,"aromatica",,"","L.",Synonym,,M,TICA,AF3BBEDD-B803-4BF5-A5D3-D8D4E1E83DB4,225754-1,"Pl. Afr. Rar. 22; Amoen. Acad. vi. 103.","","22","",gcc-98897
+gcc-84083,A,Compositae,,Inula,,"aromatica",,"","Freyn & Sint.",Unresolved,,L,TICA,5011F5B7-3ED7-4FEA-9734-75B583AA63E0,225755-1,"Bull. Herb. Boissier iii. (1895) 345.","","iii.  345.","1895",
+gcc-122503,A,Compositae,,Inula,,"aschersoniana",,"","Janka",Accepted,,M,TICA,A853344D-3F91-4FE8-BFC1-CC2AEE34B440,225756-1,"","","179","1872",
+gcc-46386,A,Compositae,,Inula,,"aspera",,"","Poir.",Accepted,,M,TICA,327840FF-6F76-478C-A285-55F72AEC259B,225757-1,"","","154","1813",
+gcc-103579,A,Compositae,,Inula,,"asperrima",,"","Edgew.",Synonym,,M,TICA,8E4AA698-9DA0-49A5-AFCB-A194CBA89CC4,,"Trans. Linn. Soc. London 20(1): 69","","","1846",gcc-121748
+gcc-19800,A,Compositae,,Inula,,"attica",,"","Halácsy",Synonym,,M,TICA,E38357CF-498D-45A8-8C2D-249F3C15FD06,225760-1,"","","713","",gcc-6084
+gcc-145262,A,Compositae,,Inula,,"attica",var.,"attica","",Synonym,,L,TICA,D251F1DC-E922-4205-8CAF-00891DE8EFD0,,"","","","",gcc-6084
+gcc-7249,A,Compositae,,Inula,,"aucheriana",,"","DC.",Accepted,,M,TICA,A5804CDC-1A47-4784-BC27-0D79A394BB16,225761-1,"","","284","1838",
+gcc-84257,A,Compositae,,Inula,,"aurantiaca",,"","(L.) Spreng.",Synonym,,M,TICA,F898D3B6-0B32-4681-BD09-7621FF863832,225762-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 524","","524","1826",gcc-94538
+gcc-93228,A,Compositae,,Inula,,"aurea",,"","Hassk.",Unresolved,,L,TICA,143C99DC-EE3A-4D68-828A-8A45EE55D53E,,"","","","1868",
+gcc-118047,A,Compositae,,Inula,,"auriculata",,"","Wall.",Synonym,Illegitimate,M,TICA,C5AFCE76-9D92-4888-91D3-C2065B62F5C3,,"Numer. List [Wallich] n. 2965","","","1831",gcc-81583
+gcc-141071,A,Compositae,,Inula,,"auriculata",,"","Schur",Unresolved,,L,TICA,75A9302D-B908-4AD2-AECD-F6820CB2AACA,225765-1,"in Verh. Siebenb. Ver. Naturw. x. (1859) 68.","","x.  68","1859",
+gcc-91519,A,Compositae,,Inula,,"auriculata",,"","Boiss. & Balansa",Accepted,,M,TICA,B3F2CA82-C5AC-441B-BB40-868CEAE1D21A,,"","","13","1856",
+gcc-90190,A,Compositae,,Inula,,"axillaris",,"","Hausskn. ex Beck",Unresolved,,L,TICA,D160457C-0691-4D1D-B65F-83674B02D96E,225767-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 325.""","","xliv.  325","1882",
+gcc-101339,A,Compositae,,Inula,,"bakeriana",,"","O.Hoffm.",Synonym,Invalid,M,TICA,0C70C1EE-8CBF-410B-B71D-9C94D69878E5,225768-1,"Pflanzenw. Ost-Afrikas C (1895) 411.","","C  411","1895",gcc-89461
+gcc-26837,A,Compositae,,Inula,,"barbata",,"","Wall.",Synonym,,M,TICA,5171F277-C5C9-401F-B803-319AC4AA6ED7,,"Numer. List [Wallich] n. 2961","","","1836",gcc-99265
+gcc-14461,A,Compositae,,Inula,,"barthiana",,"","Schur",Unresolved,,L,TICA,146F9C3F-3484-48AB-B6A9-1AD6FFF558DD,,"","","","1871",
+gcc-99617,A,Compositae,,Inula,,"bequaertii",,"","De Wild.",Synonym,,M,TICA,C7A8548B-7BB5-444A-8971-98C4E54D4F69,225772-1,"Pl. Bequaert. v. 81 (1929).","","v. 81","1929",gcc-2574
+gcc-99048,A,Compositae,,Inula,,"beugesiaca",,"","Gand.",Unresolved,,L,TICA,F2B037DE-025B-45E0-A9AC-9780423F7576,225773-1,"Fl. Lyonn. 125 (1875).","","125","1875",
+gcc-22628,A,Compositae,,Inula,,"bifrons",,"","L.",Accepted,,M,TICA,EA2B23F2-48F1-44AA-A4B7-29E27AD5C0AA,225774-1,"","","1236","1763",
+gcc-18876,A,Compositae,,Inula,,"blepharophylla",,"","Bornm. & Woronow",Unresolved,,L,TICA,F138D2D7-D0BD-4E19-9A26-22D7639D4005,225775-1,"Repert. Spec. Nov. Regni Veg. Beih. 89: 318","","318","1944",
+gcc-2397,A,Compositae,,Inula,,"bocconei",,"","Soldano",Synonym,,M,TICA,BC92AAA7-9377-4685-BB2A-045ACC8A6081,940910-1,"","","217","1986",gcc-122903
+gcc-8213,A,Compositae,,Inula,,"bourgaeana",,"","Gand.",Unresolved,,L,TICA,23172325-653D-4B0C-B74A-0F43D0D166C3,225776-1,"Bull. Soc. Bot. France 60: 23","","23","1913",
+gcc-83909,A,Compositae,,Inula,,"brahuica",,"","Boiss.",Synonym,,M,TICA,D522B100-7D33-4958-973F-754DE6102264,225777-1,"Fl. Orient. [Boissier] 3: 199","","199","1875",gcc-103204
+gcc-9276,A,Compositae,,Inula,,"britannica",,"","M.Bieb.",Unresolved,,L,TICA,922E2C7D-4508-4761-B554-1151A4AF6A7A,225779-1,"""Fl. Taur.-Caucas. ii. 317, partim.""","","""ii. 317, partim""","",
+gcc-9960,A,Compositae,,Inula,,"britannica",,"","L.",Accepted,,M,TICA,6AE44D12-E68E-41A7-8B98-129D8996ABFD,225778-1,"","","882","1753",
+gcc-149260,A,Compositae,,Inula,,"britannica",var.,"britannica","",Synonym,,L,TICA,C794884E-F6FD-46B7-8BE7-55495C12AA40,,"","","","",gcc-9960
+gcc-67614,A,Compositae,,Inula,,"britannica",subsp.,"britannica","",Synonym,,L,TICA,77555058-E29F-4241-B98F-D8938E010DBB,,"","","","",gcc-9960
+gcc-52222,A,Compositae,,Inula,,"britannica",subsp.,"hispanica","(Pau) O.Bolòs & Vigo",Accepted,,L,TICA,EC8B6729-52DE-4F9D-BFA6-60D754B81C06,954098-1,"","","9","1987",
+gcc-11319,A,Compositae,,Inula,,"britannica",var.,"japonica","(Thunb.) Franch. & Sav.",Synonym,,L,TICA,ACCD68CD-A200-4C75-96EF-152A4E3954FC,,"Enumeratio Plantarum in Japonia Sponte Crescentium ... 2(2):","","401","1878",gcc-119061
+gcc-13645,A,Compositae,,Inula,,"britannica",subsp.,"japonica","(Thunb.) Kitam.",Synonym,,L,TICA,D8D65648-4B83-4CA4-9F39-19615D211EB2,,"Mem. Coll. Sci. Kyoto Univ. ser. B. 13: 263 (1937)","","263","1937",gcc-119061
+gcc-65908,A,Compositae,,Inula,,"britannica",subsp.,"linariifolia","(Turcz.) Kitam.",Synonym,,L,TICA,EDC6C6EC-E2A0-4382-9253-CAA6BA32CC0F,,"Mem. Coll. Sci. Kyoto Univ. ser. B. 13: 265 (1937)","","265","1937",gcc-102607
+kew-2901751,A,Compositae,,Inula,,"britannica",subsp.,"linearifolia","(Turcz.) Kitam.",Synonym,,L,WCSP (in review),,,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol.","13: 265","","1937",gcc-102607
+gcc-1992,A,Compositae,,Inula,,"britannica",var.,"maximoviczii","Regel",Synonym,,L,TICA,EBF1D94A-DB11-4FBF-9BFB-0396A8D1E598,,"Memoires de l'academie imperiale des sciences de Saint Petersbourg. 4:","","85","1861",gcc-102607
+gcc-4234,A,Compositae,,Inula,,"britannica",var.,"tymiensis","Kudô",Synonym,,L,TICA,2F1B4F97-692C-4283-90CD-07DCF3003126,,"Contrib. Fl. North Sachal.","","58","1923",gcc-9960
+gcc-53980,A,Compositae,,Inula,,"britannica",var.,"vulgaris","Franch. & Sav.",Synonym,,L,TICA,659F2E0A-9F59-467C-A78B-6A55E618D5AB,,"Enumeratio Plantarum in Japonia Sponte Crescentium ... 2(2):","","400","1878",gcc-119061
+gcc-112719,A,Compositae,,Inula,,"bubonium",,"","Eichw.",Unresolved,,L,TICA,4D3AFC9B-9CFD-4F52-BCBC-B613286C0C1F,225780-1,"""Skizze, 147.""","","147","",
+gcc-126257,A,Compositae,,Inula,,"bubonium",,"","Jacq.",Unresolved,,L,TICA,5858D0C2-43E5-4FE5-8351-D4E97B3FE3E3,225781-1,"Fl. Austr. v. 36.","","v. 36","",
+gcc-77403,A,Compositae,,Inula,,"bubonium",,"","hort.prag. ex Tausch",Unresolved,,L,TICA,FD9FDB18-B0D5-481D-8061-66D15F4F4317,225782-1,"in Syll. Ratisb. ii. (1828) 253.","","ii.  253","1828",
+gcc-27919,A,Compositae,,Inula,,"buphthalmum",,"","E.H.L.Krause",Unresolved,,L,TICA,707C9161-D622-43E2-8976-339667FEC80C,225783-1,"""in Sturm. Fl. Deutschland, ed. 2, xiii. 109 (1905).""","","""2, xiii. 109""","1905",
+gcc-110373,A,Compositae,,Inula,,"caerulea",,"","L.",Unresolved,,L,TICA,F3222B62-1821-4A8B-AE8B-B0BBC76F953D,,"Mant. ii. 471.","","ii. 471","",
+gcc-137132,A,Compositae,,Inula,,"calycina",,"","(C.Presl) C.Presl",Synonym,,M,TICA,B1B2EFBE-668E-4A26-A6F3-EDCA305AC602,,"","","","1826",gcc-80411
+gcc-117826,A,Compositae,,Inula,,"campana",,"","Garsault",Unresolved,Invalid,L,TICA,1E213B3A-1DAD-4FC4-AE5E-C1878936B679,,"Fig. Pl. Anim. Med. I. 257 (1764); Descr. Pl. Anim. 165 (1767); Thell. in BullHerb. Boiss. Ser. II. viii. 790.","","I. 257","1764",
+gcc-122817,A,Compositae,,Inula,,"campestris",,"","Besser",Unresolved,,L,TICA,7F5638B5-2386-4599-944A-CCDE93EF6446,225787-1,"Enum. Pl. Volh. 108.","","108","",
+gcc-31476,A,Compositae,,Inula,,"canadensis",,"","Bernh.",Unresolved,,L,TICA,84F04C07-C576-41D5-8CE5-3A5592C4513B,225788-1,"Syst. Verz. (Bernhardi) 150","","150","1800",
+gcc-78725,A,Compositae,,Inula,,"canariensis",,"","Mill.",Unresolved,,L,TICA,8AE5EA36-770D-4527-84F1-69CDB5B89276,225789-1,"""Gard. Dict., ed. 8. n. 12""","","12","1768",
+gcc-15901,A,Compositae,,Inula,,"candida",,"","Ledeb.",Unresolved,,L,TICA,CEFB7600-03AA-4707-8135-1D6A35F88423,225790-1,"Fl. Ross. ii. 502.","","ii. 502","",
+gcc-98577,A,Compositae,,Inula,,"candida",,"","(L.) Cass.",Accepted,,M,TICA,22B5259F-442D-483B-A7B5-966FC5CA178D,,"","","554","",
+gcc-62936,A,Compositae,,Inula,,"candida",subsp.,"aschersoniana","(Janka) Hayek",Synonym,,L,TICA,B25E91C5-A513-4983-9690-B2D37C88CE60,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","605","1931",gcc-122503
+gcc-146955,A,Compositae,,Inula,,"candida",var.,"candida","",Synonym,,L,TICA,94F90080-2BE9-4A36-8644-2396BCEFC486,,"","","","",gcc-98577
+gcc-31500,A,Compositae,,Inula,,"candida",subsp.,"candida","",Synonym,,L,TICA,44DCE58D-04E4-4102-BBB1-3A64A364D594,,"","","","",gcc-98577
+gcc-23382,A,Compositae,,Inula,,"candida",var.,"decalvans","Halácsy",Synonym,,L,TICA,645499A7-2A1C-4DAD-9EF2-2B4E8D420CF6,,"""Halácsy, Consp. Fl. Graec., Suppl. 1. 1908.""","","54","1908",gcc-121758
+gcc-32612,A,Compositae,,Inula,,"candida",subsp.,"decalvans","(Halácsy) Tutin",Synonym,,L,TICA,CC2D749B-F006-4DE2-906F-3C6DD0A29728,877487-1,"","","282","1973",gcc-121758
+gcc-44609,A,Compositae,,Inula,,"candida",var.,"limonella","Halácsy",Synonym,,L,TICA,BAC8EFC3-E1C5-4759-8653-52A3E4B41A1D,,"Halácsy in Verh. K.K. Zool.-Bot. Ges. Wien 48. 1898.","","714","1898",gcc-139120
+gcc-68521,A,Compositae,,Inula,,"candida",subsp.,"limonella","(Heldr. ex Halácsy) Rech.f.",Synonym,,L,TICA,C84F956B-FE4A-4A35-8612-DF779DFDDD0E,,"Rech. f. in Beih. Bot. Centralbl. 54B. 1936.","","635","1936",gcc-139120
+gcc-41281,A,Compositae,,Inula,,"candida",subsp.,"limoniifolia","(Sm.) Hayek",Synonym,,L,TICA,8285C46F-32EB-4FAB-9676-4C7CE36027AD,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","606","1931",gcc-98577
+gcc-19756,A,Compositae,,Inula,,"candida",subsp.,"methanaea","(Hausskn.) Hayek",Synonym,,L,TICA,5F98FCDA-4D24-43CC-8617-248CC530674E,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","606","1931",gcc-6084
+gcc-14937,A,Compositae,,Inula,,"candida",var.,"rotundifolia","Halácsy",Synonym,,L,TICA,1DC7ACA2-9B7B-42DA-A72F-1BA86C5433F6,,"""Halácsy, Consp. Fl. Graec. 2. 1902.""","","23","1902",gcc-6303
+gcc-67817,A,Compositae,,Inula,,"candida",subsp.,"verbascifolia","(Willd.) Hayek",Synonym,,L,TICA,4B385EB6-B184-4C3E-A4C2-DA4DB656881F,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","606","1931",gcc-122903
+gcc-93628,A,Compositae,,Inula,,"capensis",,"","Spreng.",Synonym,,M,TICA,BA706645-408F-42CC-BB12-8B1BFC905B6E,,"Neue Entdeck. iii. 43.","","","",gcc-140836
+gcc-145812,A,Compositae,,Inula,,"cappa",,"","(Buch.-Ham. ex D.Don) DC.",Unresolved,Illegitimate,L,TICA,D2761519-AE21-4518-A56F-0B61C2AB6001,225793-1,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","469","1836",
+gcc-145518,A,Compositae,,Inula,,"cappa",f.,"cappa","",Synonym,,L,TICA,B56D6A8B-1BF4-48AE-B21C-059E7B6A5A11,,"","","","",gcc-145812
+gcc-18208,A,Compositae,,Inula,,"casaviellae",,"","Pau",Unresolved,,L,TICA,A8247530-9E7F-45CC-BD37-21A9BE72BE4A,,"""Not. Bot. vi. 62 (1895); Pau in Bull. Geogr. Bot. 1906, xvi. No. 206 (Decemb.)77, hybr.""","","vi. 62","1895",
+gcc-144570,A,Compositae,,Inula,,"caspica",,"","F.K.Blum ex Ledeb.",Accepted,,M,TICA,B349477C-E1AE-4838-AE6E-FE6870933E4C,225795-1,"","","10","1822",
+gcc-4867,A,Compositae,,Inula,,"caucasica",,"","Pers.",Unresolved,,L,TICA,F4B72A00-B180-4D6C-A70F-090F221A191D,225796-1,"Syn. Pl. (Persoon) 2(2): 450","","450","1807",
+gcc-133741,A,Compositae,,Inula,,"cernua",,"","P.J.Bergius",Synonym,,M,TICA,A4538087-AD52-41D9-8A90-E6320E55824E,225797-1,"Descr. Pl. Cap. 288. 1767","","288","1767",gcc-132344
+gcc-41365,A,Compositae,,Inula,,"cernua",,"","(Dalzell) R.R.Stewart",Unresolved,,L,TICA,527E9C61-B058-4844-8CF1-4C9D75D95651,225798-1,"Annot. Cat. Vasc. Pl. W. Pakistan & Kashmir 753 (1972).","","753","1972",
+gcc-122584,A,Compositae,,Inula,,"chinensis",,"","(Kom.) Kom.",Unresolved,,L,TICA,BAC43C21-D120-4118-875A-CC556C7ADA87,,"Komarov & Klob.-Alis. Key Pl. Far East. Reg. USSR ii. 1024 (1932)","","1024","1932",
+gcc-40810,A,Compositae,,Inula,,"chinensis",,"","Rupr. ex Maxim.",Unresolved,,L,TICA,BBD33E8A-5FA8-416D-8405-4BA2132E7AE2,225799-1,"Prim. Fl. Amur. 149","","149","",
+gcc-17914,A,Compositae,,Inula,,"chrysantha",,"","Diels",Synonym,,M,TICA,616CB488-2228-4EC1-B4BC-21185F5C08CB,,"Bot. Jahrb. Syst. xxix. 614.","","","1901",gcc-2217
+gcc-41499,A,Compositae,,Inula,,"chrysocomoides",,"","Poir.",Synonym,,M,TICA,0BCE92DF-3B2C-4082-91A9-4CDAF589FA1B,225802-1,"Voy. Barbarie ii. 239. 1789","","ii. 239","1789",gcc-82774
+gcc-109572,A,Compositae,,Inula,,"ciliaris",,"","(Miq.) Maxim.",Accepted,,M,TICA,7B879BCC-0190-4EA1-AACC-AEF4705A16B9,,"Bull. Soc. Nat. Moscou 65: 27 (1879)","","27","1879",
+gcc-34536,A,Compositae,,Inula,,"ciliaris",,"","Matsum.",Unresolved,,L,TICA,298A2ADF-22BE-41D0-86C9-4003E593601E,225803-1,"Index Pl. Jap. ii. II. 652 (1912).","","ii. II. 652","1912",
+gcc-147615,A,Compositae,,Inula,,"ciliaris",var.,"ciliaris","",Synonym,,L,TICA,2D84C872-76A2-43DF-8479-31486715559D,,"","","","",gcc-109572
+gcc-143177,A,Compositae,,Inula,,"cinerea",,"","Lam.",Unresolved,,L,TICA,22FA7814-B5AB-4886-94D1-FB4FAEEA5705,225804-1,"Encycl. (Lamarck) 3(1): 259","","259","1789",
+gcc-78733,A,Compositae,,Inula,,"cinerea",,"","Chaix",Synonym,,L,TICA,FED360FB-188B-433E-9B8F-69D5FF058EE5,,"","","","",gcc-77144
+gcc-99964,A,Compositae,,Inula,,"claessensii",,"","De Wild.",Synonym,,M,TICA,F74A333B-1A77-4385-88C8-998AAD61E7C4,,"Pl. Bequaert. v. 82 (1929).","","82","",gcc-48581
+gcc-78607,A,Compositae,,Inula,,"clarkei",,"","(Hook.f.) R.R.Stewart",Accepted,,M,TICA,5C0D8BF1-026B-4BEF-A643-69850C75D288,225807-1,"","","753","1972",
+gcc-107189,A,Compositae,,Inula,,"comosa",,"","Lam.",Unresolved,,L,TICA,C76C64FA-9FF1-46D2-BB8D-A984C9CBB35A,225808-1,"Fl. Fr. ii. 147.","","ii. 147","",
+gcc-138299,A,Compositae,,Inula,,"confertiflora",,"","A.Rich.",Accepted,,M,TICA,50E76D91-E811-4DCA-B4DB-F048C009E591,225809-1,"Tent. Fl. Abyss. i. 399.","","i. 399.","",
+gcc-87765,A,Compositae,,Inula,,"conyza",,"","(Griess.) DC.",Accepted,,M,TICA,AE1789A4-DA05-4FE1-ABF3-7DF58E2B5CE8,225811-1,"","","464","1836",
+gcc-147009,A,Compositae,,Inula,,"conyza",subsp.,"conyza","",Synonym,,L,TICA,09CD2982-1B2A-4AFF-AD5A-24C947A17127,,"","","","",gcc-87765
+gcc-117606,A,Compositae,,Inula,,"conyzae",,"","(Griess.) Meikle",Accepted,,M,TICA,0C4F3910-1F68-4EB5-BFD8-C10DCC0C8205,915087-1,"""Fl. Cyprus, 2: 890, 1897 (1985):.""","","""890, 1897""","1985",
+gcc-157332,A,Compositae,,Inula,,"conyzae",subsp.,"conyzae","",Synonym,,L,TICA,1C6CA39C-D075-4CBC-9BE9-FFA7258F0CE8,,"","","","",gcc-117606
+gcc-53454,A,Compositae,,Inula,,"conyzae",subsp.,"gutierrezii","(Pau) Galán Cela",Synonym,,L,TICA,B3034C2A-EBC1-4A71-AE00-6658E004A6E2,955720-1,"Galán Cela in Fontqueria 27. 1989.","","9","1989",gcc-88279
+gcc-133558,A,Compositae,,Inula,,"conyzaea",,"","Lam.",Unresolved,,L,TICA,F87F7D8B-6BD2-42D3-BD9E-E5BE97418AFD,225812-1,"Fl. Fr. ii. 149.","","ii. 149","",
+gcc-85486,A,Compositae,,Inula,,"conyzoides",,"","DC.",Unresolved,,L,TICA,8595BDC9-C200-43B3-8207-78CA91F0E705,225813-1,"Prodr. (DC.) 7(1): 283","","283","1838",
+gcc-86622,A,Compositae,,Inula,,"conyzoides",,"","Desf.",Unresolved,,L,TICA,CC182089-D957-4BFD-AF57-7B5661025A70,225810-1,"""Choix, 49.""","","49","",
+gcc-16523,A,Compositae,,Inula,,"cordata",,"","Boiss.",Synonym,,M,TICA,3A94A6F0-98AF-4EAB-BF61-1E8B55CCEFCC,,"","","3","1844",gcc-46386
+gcc-84618,A,Compositae,,Inula,,"cordata",,"","Freyn ex Nyman",Unresolved,,L,TICA,5CF00FB1-4485-4970-8983-76EB179C3A6F,,"Consp. 391.","","391","",
+gcc-108420,A,Compositae,,Inula,,"cordato-germanica",,"","Schur",Unresolved,,L,TICA,754B670C-84EC-45C4-959A-AC3C0BD9505E,225816-1,"Verh. Siebenb. Ver. Naturw. x. (1859) 64.","","x.  64","1859",
+gcc-116245,A,Compositae,,Inula,,"cordatofolia",,"","Gilib.",Unresolved,Invalid,L,TICA,56084ED4-CCE0-448F-AF03-BE0003C5DA18,225817-1,"Fl. Lit. Inch. i. 207. 1782","","i. 207","1782",
+gcc-116310,A,Compositae,,Inula,,"coriacea",,"","Schur",Unresolved,,L,TICA,AEB64594-5BE2-4FCB-8A9D-BE20D27F912E,225818-1,"Verh. Siebenb. Ver. Naturw. iv. (1853) 38.","","iv.  38","1853",
+gcc-14619,A,Compositae,,Inula,,"crassifolia",,"","Salisb.",Unresolved,,L,TICA,D986D4E4-2E45-4E72-A311-1B21BD4FD862,225819-1,"Prodr. Stirp. Chap. Allerton 201","","201","1796",
+gcc-33466,A,Compositae,,Inula,,"crassifolia",,"","Collett & Hemsl.",Unresolved,,L,TICA,ACB8DB98-051B-44B2-8FAB-3E109E3AFF1B,,"""J. Linn. Soc., Bot. xxviii. (1890) 72, t. 12.""","","72","",gcc-91117
+gcc-111417,A,Compositae,,Inula,,"crassinervis",,"","Borbás",Unresolved,,L,TICA,20ADC00A-EDB3-4565-941D-B310624729FD,,"""Oesterr. Bot. Z. 36: 104, nomen; et in Bot. Jahrb. viii. 228 (1887)""","","228","1886",
+gcc-80811,A,Compositae,,Inula,,"cretica",,"","Sch.Bip. ex Beck",Unresolved,,L,TICA,5FDD51A4-91C5-4A09-ACCC-6E699E4E0ABF,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 325""","","325","",
+gcc-144331,A,Compositae,,Inula,,"crispa",,"","(Forssk.) Pers.",Synonym,,M,TICA,DB667935-2A07-43AC-A6EF-FDD72CACFDF2,225824-1,"Syn. Pl. (Persoon) 2(2): 450","","450","1807",gcc-93372
+gcc-15642,A,Compositae,,Inula,,"crispa",,"","Sieber ex DC.",Unresolved,,L,TICA,ECFA6525-31DE-4898-A68B-1CF8C24BB43E,225823-1,"Prodr. (DC.) 5: 479","","479","1836",
+gcc-126275,A,Compositae,,Inula,,"crithmifolia",,"","L.",Accepted,,M,TICA,73613246-21FD-4494-B176-D4F591B04891,225825-1,"""Syst. Nat., ed. 10. 1219""","","1219","1759",
+gcc-76784,A,Compositae,,Inula,,"crithmifolia",,"","Willd.",Unresolved,,L,TICA,C7AA4912-067E-44F8-8F75-6568EA412F31,225826-1,"Sp. Pl. iii. 2101.","","iii. 2101","",
+gcc-43976,A,Compositae,,Inula,,"crithmoides",,"","Spreng.",Unresolved,,L,TICA,F26F517B-3117-4610-899C-517872F778ED,,"Syst. Veg. (ed. 16) [Sprengel] 3: 520","","250","1826",
+gcc-4569,A,Compositae,,Inula,,"crithmoides",,"","L.",Synonym,,M,TICA,214CB529-C75E-45CE-837A-087ABFE9955F,225828-1,"","","883","1753",gcc-81575
+gcc-152447,A,Compositae,,Inula,,"crithmoides",subsp.,"crithmoides","",Synonym,,L,TICA,95F5E055-D61F-455A-9B20-99992DFFDEA8,,"","","","",gcc-81575
+gcc-622,A,Compositae,,Inula,,"crithmoides",subsp.,"longifolia","Arcang.",Synonym,,L,TICA,6627BE93-038B-452A-A1ED-012D22903DA8,50426486-2,"","","371","1882",gcc-53169
+gcc-16706,A,Compositae,,Inula,,"crithmoides",subsp.,"mediterranea","Kerguélen",Synonym,,L,TICA,B2263DDF-7612-44EE-AA4D-1EE52FCCE6DB,969884-1,"","","5","1992",gcc-53169
+gcc-87384,A,Compositae,,Inula,,"crocea",,"","Krock",Unresolved,,L,TICA,E599A24B-BC3B-485D-B39C-7D29B27F2C6A,225829-1,"Fl. Siles. Suppl. ii. 313.","","ii. 313","",
+gcc-39504,A,Compositae,,Inula,,"csatoi",,"","Borbás",Unresolved,,L,TICA,CBF6CA95-63C6-445D-A941-494F153F2CEB,225830-1,"""in Magyar Novenyt. Lapok, vii. (1883) 41.""","","vii.  41.","1883",
+gcc-23938,A,Compositae,,Inula,,"cuanzensis",,"","(Welw.) Hiern",Accepted,,M,TICA,1B0A312F-BA48-4529-90AC-2C3E78CA4EAB,225831-1,"Cat. Afr. Pl. (Hiern) i. 568","","568","",
+gcc-121834,A,Compositae,,Inula,,"cuspidata",,"","(Wall. ex DC.) C.B.Clarke",Accepted,,M,TICA,79AE510F-D225-482D-A087-CAA32C9C0EC8,225832-1,"","","125","1876",
+gcc-148885,A,Compositae,,Inula,,"cuspidata",var.,"cuspidata","",Synonym,,L,TICA,8D65A693-50B8-415A-A181-4CE1D737ED5B,,"","","","",gcc-121834
+gcc-51067,A,Compositae,,Inula,,"cutchica",,"","C.B.Clarke",Synonym,,M,TICA,A1D7293C-0728-4A67-ADCB-5EBB4F544A44,225833-1,"Comp. Ind. 126.","","126","1876",gcc-116057
+gcc-44556,A,Compositae,,Inula,,"cylindrica",,"","With. ex DC.",Unresolved,,L,TICA,04DD727A-402B-4443-8A70-528BE0D4438B,225834-1,"Prodr. (DC.) 5: 478","","478","1836",
+gcc-115990,A,Compositae,,Inula,,"dalzellii",,"","Hand.-Mazz.",Synonym,,M,TICA,CE595D67-3344-45C8-91BE-BD6C3AF15700,225835-1,"Notizbl. Bot. Gart. Berlin-Dahlem xiii. 632 (1937)","","632","1937",gcc-108938
+gcc-95505,A,Compositae,,Inula,,"decipiens",,"","E.A.Bruce",Synonym,,M,TICA,167914FF-2F44-45D3-A0F3-8F889FEBBB72,225836-1,"""Kew Bull. 1947, 33 (1947)""","","33","1947",gcc-2574
+gcc-99895,A,Compositae,,Inula,,"decurrens",,"","Popov",Accepted,,M,TICA,0E53E362-5492-4E39-995C-9967401D3313,225837-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, viii. 76 (1940).""","","76","1940",
+gcc-35865,A,Compositae,,Inula,,"dentata",,"","Sibth. & Sm.",Unresolved,,L,TICA,BAE31677-AC8D-4C48-A17A-427F6B76E893,225838-1,"Fl. Graec. t. 874.","","t. 874","",
+gcc-84019,A,Compositae,,Inula,,"dentata",,"","Sm.",Synonym,,M,TICA,24A2F356-AD4D-4AE6-A019-75957B4E6943,,"Sm.. 1813.","","181","1813",gcc-59654
+gcc-81059,A,Compositae,,Inula,,"denticulata",,"","Borbás",Unresolved,,L,TICA,6CF3C0D4-5D22-4632-B2B1-6EF727AF5DCE,225839-1,"Oesterr. Bot. Z. 38: 325","","325","1888",
+gcc-42394,A,Compositae,,Inula,,"dichotoma",,"","Zuccagni",Synonym,,M,TICA,33B4E9FE-C429-4E47-A42B-4E8AAE694D66,,"","","154","1806",gcc-9960
+gcc-135585,A,Compositae,,Inula,,"discoidea",,"","Boiss.",Unresolved,,L,TICA,546237B0-FA94-4B42-AA98-EA54234877D9,225842-1,"","","239","1860",
+gcc-108383,A,Compositae,,Inula,,"disenterica",,"","Neck.",Unresolved,,L,TICA,DD3EA623-3E2B-4A71-8D57-AC28BDFDF094,225843-1,"Delic. Gallo-Belg. ii. 356","","356","",
+gcc-126319,A,Compositae,,Inula,,"divaricata",,"","Nutt.",Synonym,,M,TICA,C6D07FF9-ABD5-42DD-8E7D-D5143BDD58BD,57881-2,"","","152","1818",gcc-127853
+gcc-1950,A,Compositae,,Inula,,"divaricata",,"","B.Fedtsch.",Unresolved,,L,TICA,3C32E8A6-E368-4329-BDD4-0383E74FCE1F,225846-1,"Rastit. Turkest. 734 (1915.","","734 (1915","",
+gcc-98876,A,Compositae,,Inula,,"divaricata",,"","(Cass.) Boiss.",Synonym,,M,TICA,40AF28F6-0F5C-41C2-AD98-97145BE4CCFC,225845-1,"","","200","1875",gcc-123792
+gcc-136878,A,Compositae,,Inula,,"dubia",,"","Thunb.",Synonym,,L,TICA,348DAA1D-5466-46FB-9C4C-ED3833AEE1E8,225847-1,"Fl. Jap.","","318","1784",gcc-87678
+gcc-87657,A,Compositae,,Inula,,"dubia",,"","Pourr. ex Timb.",Unresolved,,L,TICA,EAB7CEA5-7398-4F98-B562-7DC0EF16FF0F,225848-1,"Precis Herbor. (1870) 176.","","176","1870",
+gcc-91281,A,Compositae,,Inula,,"dumetorum",,"","Salzm. ex DC.",Unresolved,,L,TICA,59870304-7458-4DE2-9489-86028F4ADF93,225849-1,"Prodr. (DC.) 5: 479","","479","1836",
+gcc-128766,A,Compositae,,Inula,,"dysenterica",,"","Georgi",Unresolved,,L,TICA,BEA15107-D61E-4C0F-9DB1-DAC38FE53F7E,,"""Reise, i. 230""","","230","",
+gcc-42772,A,Compositae,,Inula,,"dysenterica",,"","L.",Synonym,,L,TICA,3ED34DD8-6BD9-4203-876C-4F377AFA6CDB,225851-1,"","","882","1753",gcc-96180
+gcc-105673,A,Compositae,,Inula,,"eliasii",,"","Sennen & Pau",Unresolved,,L,TICA,10F50331-09EA-4D3E-B3CD-A61486198AA1,225852-1,"in Bol. Soc. Arag. vi. 26 (1907).","","vi. 26","1907",
+gcc-7901,A,Compositae,,Inula,,"eminii",,"","(O.Hoffm.) O.Hoffm.",Accepted,,M,TICA,FF47D673-0275-459F-A33D-0EB6FBBBC941,225853-1,"Bot. Jahrb. Syst. xxxviii 203 (1906).","","xxxviii 203","1906",
+gcc-314,A,Compositae,,Inula,,"encelioides",,"","Hornem. ex Ledeb.",Unresolved,,L,TICA,D61F833B-DE02-472C-A1C6-0090C10AA3A6,225854-1,"Fl. Ross. ii. 506.","","ii. 506","",
+gcc-125079,A,Compositae,,Inula,,"engleriana",,"","O.Hoffm.",Accepted,,M,TICA,FC3F98C4-BFF7-4449-88F2-D240385DE95F,225855-1,"Bot. Jahrb. Syst. xxiv. 472.","","xxiv. 472.","",
+gcc-30772,A,Compositae,,Inula,,"ensifolia",,"","L.",Accepted,,M,TICA,9AEEE2BE-C129-4271-BD7E-38F698623F20,225856-1,"","","883","1753",
+gcc-15997,A,Compositae,,Inula,,"ensiformis",,"","Gand.",Unresolved,,L,TICA,BB29A680-9E5A-46BE-8275-1D9C399EE894,225857-1,"Fl. Lyonn. 125 (1875).","","125","1875",
+gcc-137029,A,Compositae,,Inula,,"ericoides",,"","Torr.",Synonym,,M,TICA,24D4A300-9AD8-4DA6-A424-ED859E5DD3AC,,"","","212","1827",gcc-52637
+gcc-94817,A,Compositae,,Inula,,"eriophora",,"","DC.",Accepted,,M,TICA,2358C103-F2FB-4F82-825A-8DE816A02F1B,,"Prodr. (DC.) 5: 470","","","1836",
+gcc-95445,A,Compositae,,Inula,,"esquirolii",,"","H.Lév.",Synonym,,M,TICA,2E8E653C-2330-4860-A21F-8F5F6B83D8AD,225861-1,"Repert. Spec. Nov. Regni Veg. 11: 306","","306","1912",gcc-121748
+gcc-26961,A,Compositae,,Inula,,"etrusca",,"","Nyman",Unresolved,,L,TICA,E12C7153-1DA4-4507-9629-31D92146C537,,"""Consp. 391, sphalm.""","","""391, sphalm.""","",
+gcc-80349,A,Compositae,,Inula,,"eupatorioides",,"","Wall. ex DC.",Accepted,,M,TICA,8A43D9D0-19B1-4EAF-9109-6D700D7924E4,225863-1,"Prodr. (DC.) 5: 469","","469","1836",
+gcc-10523,A,Compositae,,Inula,,"euxina",,"","Sosn.",Unresolved,,L,TICA,C6D5FBC6-30BC-4F53-B82C-13A4D4424CEC,,"Zhurn. Russk. Bot. Obshch. 14(1): 81 (-82)","","108","1929",
+gcc-114875,A,Compositae,,Inula,,"euxina",,"","Grossh.",Synonym,,M,TICA,72BBA70F-CCB6-4D42-BE21-BADDFCE5B254,,"""Grossh., Fl. Kavk. 4. 1934.""","","108","1934",gcc-144570
+gcc-44926,A,Compositae,,Inula,,"exsiccata",,"","H.Lév.",Synonym,,L,TICA,81061794-AF79-484E-A034-53401AB3501D,225865-1,"Repert. Spec. Nov. Regni Veg. 11: 304","","304","1912",gcc-46093
+gcc-103596,A,Compositae,,Inula,,"falcata",,"","Pursh",Synonym,,M,TICA,F2541B0D-0995-43A1-A688-A1A000A6B963,,"","","532","",gcc-139695
+gcc-80677,A,Compositae,,Inula,,"falconeri",,"","Hook.f.",Accepted,,M,TICA,5BED85C0-6C94-4D5E-AE14-6E1AB78247DC,225867-1,"Fl. Brit. Ind. iii. 294.","","294","1881",
+gcc-139573,A,Compositae,,Inula,,"fasciculata",,"","Gilib.",Unresolved,Invalid,L,TICA,2357D322-CF20-4B98-9CD8-F302869E2C40,225868-1,"Fl. Lit. Inch. i. 209. 1782","","i. 209","1782",
+gcc-18800,A,Compositae,,Inula,,"flexuosa",,"","Boiss. & Hausskn. ex Boiss.",Unresolved,,L,TICA,9D5CAE48-AC2A-4A86-BED1-22B83ABBE630,225869-1,"Fl. Orient. [Boissier] 3: 200","","200","1875",
+gcc-129020,A,Compositae,,Inula,,"foetida",,"","Dulac",Unresolved,,L,TICA,D973D7BC-39BF-4A79-A5CA-DB5650D19276,225870-1,"Fl. Hautes-Pyr. 516 (1867).","","516","1867",
+gcc-24114,A,Compositae,,Inula,,"foetida",,"","L.",Synonym,,M,TICA,C47847F0-6BE4-4BF8-A01B-2C8D719601D0,225871-1,"""Syst. Nat., ed. 10. 1218""","","1218","1759",gcc-1580
+gcc-79941,A,Compositae,,Inula,,"foliosa",,"","Schrad. ex Nyman",Unresolved,,L,TICA,FA4B4DCA-BD28-433F-B5A6-6C750C945AD5,,"Consp. 392.","","392","",
+gcc-98952,A,Compositae,,Inula,,"forrestii",,"","J.Anthony",Accepted,,L,TICA,93F6568F-07CD-4BD6-BBCA-97420BFDEB39,,"Notes Roy. Bot. Gard. Edinburgh 18: 197","","197","1934",
+gcc-138373,A,Compositae,,Inula,,"fragilis",,"","Boiss. & Hausskn. ex Boiss.",Unresolved,,L,TICA,E2AD7440-AB23-4189-9452-F070A32893D9,225874-1,"","","197","1875",
+gcc-117669,A,Compositae,,Inula,,"fruticosa",,"","Sch.Bip. ex A.Rich.",Unresolved,,L,TICA,2FBF0E5D-B9B4-4372-851E-C132361D68A8,,"Tent. Fl. Abyss. i. 398.","","","",
+gcc-143494,A,Compositae,,Inula,,"fruticosa",,"","Sch.Bip.",Synonym,Invalid,L,TICA,9F5640B7-FDFC-421B-A2C3-FC0A715D178D,,"(in Schimp. Pl. Abyss. ii. n. 664) ex Engl. in Abh. Preuss. Akad. Wiss. 1891(1882) 432.","","432","1882",gcc-91881
+gcc-2489,A,Compositae,,Inula,,"fruticosa",,"","Mill.",Unresolved,,L,TICA,C359B994-CE46-4B30-9789-0488B2062606,225876-1,"""Gard. Dict., ed. 8. n. 15""","","15","1768",
+gcc-30372,A,Compositae,,Inula,,"fruticosa",,"","Sch.Bip. ex Delile",Unresolved,,L,TICA,B65EE8FC-CC9F-411E-A8AD-382FD0AC4380,,"""in Rochet, Sec. Voy. Choa, 341 (1846), nomen; A. Rich. Tent. Fl. Abyss. i. 398[1848], descr.""","","""341 , nomen""","1846",
+gcc-142889,A,Compositae,,Inula,,"germanica",,"","L.",Accepted,,M,TICA,257B42B8-B57C-4FE0-B8F2-FAAD0AFE7873,225879-1,"","","883","1753",
+gcc-75960,A,Compositae,,Inula,,"germanica",,"","Vill.",Unresolved,,L,TICA,504C6485-BF48-465E-B3E0-639722E898AE,,"Hist. Pl. Dauphiné (Villars) 3(1): 219","","258","1788",
+gcc-21919,A,Compositae,,Inula,,"gimbundensis",,"","S.Moore",Accepted,,M,TICA,5049D6BD-AF19-482D-A8C4-288AE33D9E6A,225881-1,"""J. Linn. Soc., Bot. xlvii. 272 (1925)""","","272","1925",
+gcc-99150,A,Compositae,,Inula,,"giraldii",,"","Diels",Unresolved,,L,TICA,9A6E7CB1-A065-44E7-9511-97B7E144BF2E,,"Bot. Jahrb. Syst. xxix. 613.","","","1901",
+gcc-106288,A,Compositae,,Inula,,"glabra",,"","Gilib.",Synonym,Invalid,M,TICA,501ADE43-42C9-4922-B59B-A76C5D02BA83,,"Fl. Lit. Inch. i. 205. 1782","","","1782",gcc-4252
+gcc-89858,A,Compositae,,Inula,,"glabra",,"","Besser",Unresolved,,L,TICA,4CED2F08-5654-489C-A99C-82B34377C979,,"Hort. Crem. ; ex DC. Prod. v. 465.","","","",
+gcc-6279,A,Compositae,,Inula,,"glanduligera",,"","Krasch.",Unresolved,,L,TICA,B24914FF-9EB5-4A44-9F82-0BB22FF8AC3D,,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 177 (1933), in syn.""","","177","",
+gcc-105757,A,Compositae,,Inula,,"glandulosa",,"","Lam.",Synonym,,M,TICA,356B6D98-BC4B-4042-BF33-A63D1FCEF9D8,225887-1,"","","259","1789",gcc-24013
+gcc-81357,A,Compositae,,Inula,,"glandulosa",,"","Puschk. ex Willd.",Synonym,,M,TICA,765AE6FF-0D60-4254-9AD8-6FA03BA4BF99,,"","","","1803",gcc-99265
+gcc-49560,A,Compositae,,Inula,,"glareosa",,"","E.M.Antipova",Unresolved,,L,TICA,3271C58D-B9DE-4CD3-A444-5BDCA6FD121C,,"Turczaninowia 4(4): 16 (2001).","","16","2001",
+gcc-116472,A,Compositae,,Inula,,"glauca",,"","Rojas",Unresolved,,L,TICA,CC715296-4321-46AC-85B5-BE7C502A2D75,225889-1,"Cat. Hist. Nat. Corrient. 69 (1897).","","69","1897",
+gcc-88932,A,Compositae,,Inula,,"glauca",,"","C.Winkl.",Accepted,,M,TICA,E74B6936-37A7-4741-989E-808659CFDE6C,225888-1,"Act. Hort. Petrop. xi. (1890) 276.","","276","1890",
+gcc-48581,A,Compositae,,Inula,,"glomerata",,"","Oliv. & Hiern",Accepted,,M,TICA,A8007F2A-6A13-4F85-8640-59FC5EF32800,225890-1,"Fl. Trop. Afr. [Oliver et al.] 3: 359","","359","1877",
+gcc-67469,A,Compositae,,Inula,,"glomerata",var.,"bullata","Mendonça",Synonym,,L,TICA,15C42F4F-902B-4D0C-B86E-D77491F7C540,,"","","","",gcc-48581
+gcc-147312,A,Compositae,,Inula,,"glomerata",var.,"glomerata","",Synonym,,L,TICA,13CBF718-5EFD-40F2-9A7B-2B0530CA9999,,"","","","",gcc-48581
+gcc-63173,A,Compositae,,Inula,,"glomerata",var.,"kirindaensis","De Wild.",Synonym,,L,TICA,363EA650-7FFE-4F79-ACBC-B4B2724147DA,,"","","","",gcc-48581
+gcc-105222,A,Compositae,,Inula,,"glomeriflora",,"","Lam.",Unresolved,,L,TICA,3B002C65-F467-4DBD-B1AA-A5225CF371D1,225891-1,"Fl. Fr. ii. 150.","","ii. 150","",
+gcc-16878,A,Compositae,,Inula,,"glutinosa",,"","Pers.",Unresolved,,L,TICA,198BFD01-E005-4E28-BD8B-1F2C1405F4B9,225892-1,"Syn. Pl. (Persoon) 2(2): 450","","450","1807",
+gcc-143903,A,Compositae,,Inula,,"gnaphalodes",,"","Vent.",Synonym,,M,TICA,C6797C46-AAA4-441E-9A10-FCE9212FC3AE,,"","","","1800",gcc-49158
+gcc-93076,A,Compositae,,Inula,,"gossweileri",,"","S.Moore",Accepted,,M,TICA,AE064161-3638-4B23-8298-89FAB3B81F4C,,"""J. Linn. Soc., Bot. xxxvii. 321 (1906).""","","321","",
+gcc-27796,A,Compositae,,Inula,,"gossypina",,"","Michx.",Synonym,,M,TICA,BBA3F536-DFAC-45CC-86ED-335E09C9FD50,225896-1,"Fl. Bor.-Amer. (Michaux) ii. 122","","122","1803",gcc-11612
+gcc-82374,A,Compositae,,Inula,,"gracilis",,"","Gilli",Synonym,,M,TICA,32E963FF-9779-4E87-A6C9-71EB7FBDECAB,225897-1,"Feddes Repert. Spec. Nov. Regni Veg. 68: 90","","90","1963",gcc-119882
+gcc-25876,A,Compositae,,Inula,,"graminifolia",,"","Michx.",Synonym,,L,TICA,3BCC596B-9A38-4CAE-B13D-2FCFE1775FA9,128864-2,"","","122","1803",gcc-122128
+gcc-7146,A,Compositae,,Inula,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,29CFA800-7FE4-4049-8E78-0D4B9D8507F0,,"","","","",gcc-122128
+gcc-68333,A,Compositae,,Inula,,"graminifolia",var.,"tenuifolia","Torr.",Synonym,,L,TICA,020345DC-AC88-48FE-B657-DDFF093CD5DE,128865-2,"Ann. Lyceum Nat. Hist. New York 2: 212. 1827","","212","1827",gcc-60275
+gcc-48834,A,Compositae,,Inula,,"grandiflora",,"","Gray",Unresolved,,L,TICA,92E0F96D-7E61-4C11-A7FC-5A75A255D905,225900-1,"Nat. Arr. Brit. Pl. ii. 463","","463","",
+gcc-80597,A,Compositae,,Inula,,"grandiflora",,"","Willd.",Synonym,,M,TICA,344452A8-D5B0-4998-99FF-6DEC517F45C0,225899-1,"","","2096","1803",gcc-99265
+gcc-87392,A,Compositae,,Inula,,"grandis",,"","Schrenk ex Fisch. & C.A.Mey.",Synonym,,M,TICA,4BFA1DD2-1788-4CC7-9A3D-7D3039337160,,"Enumeratio Plantarum Novarum 1:","","50","1841",gcc-99265
+gcc-97165,A,Compositae,,Inula,,"grandis",,"","Schrenk",Synonym,,M,TICA,30C4AE3F-35B7-4287-BD7D-933F0A60CF29,,"Enum. Pl. Nov. 50.","","","1841",gcc-99265
+gcc-10682,A,Compositae,,Inula,,"grantioides",,"","Boiss.",Accepted,,M,TICA,27393DCF-673D-479F-9FEB-13F85FDF9FFF,,"""Diagn. Pl. Orient. ser. 2, 3: 14""","","14","1856",
+gcc-88087,A,Compositae,,Inula,,"graveolens",,"","(L.) Desf.",Synonym,,M,TICA,56474007-3053-41FF-8443-7EA584BCAFED,225903-1,"","","275","1799",gcc-103204
+gcc-13135,A,Compositae,,Inula,,"griffithii",,"","C.B.Clarke",Unresolved,,L,TICA,F6D7CC8C-91A4-4821-8D19-187AE90AC93B,,"Comp. Ind. 126.","","","",gcc-129512
+gcc-120514,A,Compositae,,Inula,,"grombczewskii",,"","C.Winkl.",Accepted,,M,TICA,0BE38020-2269-48B5-8B62-C7B71E2DAE3D,225894-1,"Act. Hort. Petrop.","","149","1895",
+gcc-108603,A,Compositae,,Inula,,"gutierrezii",,"","Pau",Synonym,,M,TICA,BEAB442D-491D-4E58-B6A5-ACA6771630E1,,"","","","1904",gcc-88279
+gcc-7000,A,Compositae,,Inula,,"hakkiarica",,"","Nábělek",Unresolved,,L,TICA,3A27F2A5-76D6-40C9-B802-0D04F5DB7EC6,225907-1,"""in Publ. Fac. Sc. Univ. Masaryk, Brno No. 52, 5 (1925).""","","""No. 52, 5""","1925",
+gcc-126684,A,Compositae,,Inula,,"halleri",,"","Vill.",Synonym,,L,TICA,C988BB1C-5A31-41FC-89CD-D5DA95CB660E,,"","","","1786",gcc-77144
+gcc-85099,A,Compositae,,Inula,,"halleri",,"","dick. ex Beck",Unresolved,,L,TICA,B58C61B9-364C-4A2D-9570-77E98E11710F,225908-1,"""in Denkschr. Acad. Wien, Math. Nat. xliv. (1882) 295.""","","xliv.  295","1882",
+gcc-48900,A,Compositae,,Inula,,"haussknechtiana",,"","Bornm.",Unresolved,,L,TICA,9BFACEA4-715D-41E6-A26D-5A8EF8ECA4B9,225910-1,"""Beih. Bot. Centralbl. lx. B. 185, in obs., pro syn.""","","185","1939",
+gcc-21652,A,Compositae,,Inula,,"haussmanni",,"","Huter",Unresolved,,L,TICA,C24BB581-2C2B-477F-9098-280D563C0EFF,225911-1,"Oesterr. Bot. Z. 13: 136","","136","1863",
+gcc-129958,A,Compositae,,Inula,,"helenia",,"","St.-Lag.",Unresolved,,L,TICA,44A6F9A1-852C-46B7-AA53-DD7776B0F2BF,,"Ann. Soc. Bot. Lyon vii. (1880) 128","","128","",
+gcc-123352,A,Compositae,,Inula,,"helenioides",,"","DC.",Accepted,,M,TICA,91B106E1-502F-4448-BBB4-CE1A8665C9E5,,"","","","1815",
+gcc-148344,A,Compositae,,Inula,,"helenioides",f.,"helenioides","",Synonym,,L,TICA,197E2C8B-A15B-49E9-B3F9-40A94910A941,,"","","","",gcc-123352
+gcc-137996,A,Compositae,,Inula,,"helenioides",f.,"lutescens","Pau",Synonym,,L,TICA,FA49F2EB-FF3C-493E-907F-EFA427B9A3C6,,"Pau. 1888.","","29","1888",gcc-123352
+gcc-117274,A,Compositae,,Inula,,"helenium",,"","Asso",Unresolved,,L,TICA,44510F7D-2EF9-4667-956F-C04D4D2EEBA6,225915-1,"Syn. Stirp. Arag. 122.","","122","",
+gcc-51877,A,Compositae,,Inula,,"helenium",,"","Hook.f. & Thomson",Unresolved,,L,TICA,017FBFCB-A9E1-4ADA-AE40-603183DD70B7,225916-1,"ex Fl. Brit. Ind. iii. 292.","","iii. 292","",
+gcc-81480,A,Compositae,,Inula,,"helenium",,"","L.",Accepted,,M,TICA,6ED2B353-DB2A-4ECD-90EB-6FEBE2E3E1AE,225914-1,"","","881","1753",
+gcc-153102,A,Compositae,,Inula,,"helenium",subsp.,"helenium","",Synonym,,L,TICA,650446B3-3206-4FFC-A6DD-A73D427C2D02,,"","","","",gcc-81480
+gcc-26076,A,Compositae,,Inula,,"helenium",subsp.,"orgyalis","(Boiss.) Grierson",Accepted,,L,TICA,1E74A5B9-CD36-4CD1-9B2E-3035CAAF1748,877488-1,"","","249","1974",
+gcc-28639,A,Compositae,,Inula,,"helianthus-aquatilis",,"","C.Y.Wu",Unresolved,,L,TICA,F89F7AA5-E190-4CF9-BC13-34F01052EA56,225917-1,"Acta Phytotax. Sin. x. 178 (1965).","","x. 178","1965",
+gcc-129280,A,Compositae,,Inula,,"helianthusaquatilis",,"","C.Y.Wu ex Ling",Accepted,,M,TICA,70307DBC-E2E9-42DB-9EC0-DBEC46A776E0,,"Acta Phytotaxonomica Sinica 10(2):","","178","1965",
+gcc-145628,A,Compositae,,Inula,,"helianthusaquatilis",f.,"helianthusaquatilis","",Synonym,,L,TICA,89A7F27A-D62E-4DE6-848A-07A8E2ADADD9,,"","","","",gcc-129280
+gcc-146814,A,Compositae,,Inula,,"helianthusaquatilis",subsp.,"helianthusaquatilis","",Synonym,,L,TICA,5102CD6D-2223-40A1-BBBE-2046F6026DB5,,"","","","",gcc-129280
+gcc-29415,A,Compositae,,Inula,,"helianthusaquatilis",subsp.,"hupehensis","Ling",Synonym,,L,TICA,CF6664A6-7135-4D57-A57C-365ED3094B1A,,"Acta Phytotaxonomica Sinica 10(2):","","178-179","1965",gcc-41753
+gcc-123401,A,Compositae,,Inula,,"helvetica",,"","Grauer",Accepted,,M,TICA,0E6F5B94-EC62-42B3-BE13-CE360D9704A1,,"Dec. 17.","","","",
+gcc-77144,A,Compositae,,Inula,,"helvetica",,"","Weber",Unresolved,,L,TICA,5446FBB0-4442-4B93-B645-663AFF45227C,,"""Weber, Pl. Min. Cogn. Decuria. 1784.""","","17","1784",
+gcc-148389,A,Compositae,,Inula,,"helvetica",var.,"helvetica","",Synonym,,L,TICA,4A9FB161-B200-45CF-B7DE-4175431070BF,,"","","","",gcc-123401
+gcc-38425,A,Compositae,,Inula,,"hendersoniae",,"","S.Moore",Accepted,,M,TICA,C7AA40D5-C780-4C6D-9050-474B58449F2A,,"""J. Linn. Soc., Bot. xxxvii. 320 (1906).""","","320","",
+gcc-48858,A,Compositae,,Inula,,"heterolepis",,"","Boiss.",Accepted,,M,TICA,053178A6-44A0-4103-8DAB-5A80506BBAFD,,"","","12","1856",
+gcc-133550,A,Compositae,,Inula,,"heterotricha",,"","Krasch.",Unresolved,,L,TICA,96F56CBD-3853-4756-9BF8-E5BBF6AA100B,225921-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 155 (1946).""","","ix. 155","1946",
+gcc-20690,A,Compositae,,Inula,,"hetrusca",,"","Moretti",Unresolved,,L,TICA,0056CBC6-027A-477F-B496-264839E80F16,225922-1,"Pl. Bras. Dec. iv. 14.","","iv. 14","",
+gcc-6105,A,Compositae,,Inula,,"hirsuta",,"","Vitman",Unresolved,,L,TICA,0123B254-6353-4216-A8D2-0B5C6409D99D,225923-1,"""Summa, v. 84.""","","v. 84","",
+gcc-82054,A,Compositae,,Inula,,"hirsuta",,"","Gueldenst.",Unresolved,,L,TICA,3B693FF0-F711-41AE-9450-712CB06D8203,,"""Reise, ii. 72""","","72","",
+gcc-29409,A,Compositae,,Inula,,"hirta",,"","L.",Accepted,,M,TICA,DE9A0554-D006-4D2A-ACD0-365A414EC0FE,225925-1,"","","883","1753",
+gcc-81523,A,Compositae,,Inula,,"hirta",,"","Pollich",Unresolved,,L,TICA,9B7D22BB-36AB-4C7B-A5BA-7002BD0A9A74,225926-1,"Hist. Pl. Palat. 2: 467","","467","1777",
+gcc-16429,A,Compositae,,Inula,,"hispanica",,"","Pau",Synonym,,M,TICA,E9491684-ED76-4252-92AB-1E5B68F4DA19,,"""Pau, Not. Bot. Fl. Españ. 6. 1895.""","","62","1895",gcc-52222
+gcc-88595,A,Compositae,,Inula,,"hispida",,"","Schur",Unresolved,,L,TICA,FD3FCAE0-4BE9-440C-8C9C-7FC9202F4176,225927-1,"Enum. Pl. Transsilv. 314. 1866 [Apr-Jun 1866]","","314","1866",
+gcc-24226,A,Compositae,,Inula,,"hissarica",,"","R.M.Nabiev",Accepted,,L,TICA,24B6FD9E-5E37-438E-944A-2CBBD67AAD0C,,"","","40","1990",
+gcc-141446,A,Compositae,,Inula,,"homblei",,"","De Wild.",Synonym,,M,TICA,4316AD94-27D3-4A12-B04A-F772ACF65617,225928-1,"""Contrib. Fl. Katanga, Suppl. 3, 151 (1930). ""","","""3, 151""","1930",gcc-80387
+gcc-26141,A,Compositae,,Inula,,"hookeri",,"","C.B.Clarke",Accepted,,M,TICA,E33C125D-8717-47AC-AACC-3057084666C0,225929-1,"","","122","1876",
+gcc-96884,A,Compositae,,Inula,,"huberi",,"","Beauverd",Unresolved,,L,TICA,9986BA4B-86FE-4A50-A350-928BABF36EFB,225930-1,"Candollea vii. 272 (1937).","","vii. 272","1937",
+gcc-112314,A,Compositae,,Inula,,"huillensis",,"","Hiern",Accepted,,M,TICA,216BCCE6-47F8-4B4C-8484-B51F9FDEF390,225931-1,"Cat. Afr. Pl. (Hiern) i. 567.","","567","",
+gcc-41753,A,Compositae,,Inula,,"hupehensis",,"","(Ling) Ling",Accepted,,M,TICA,68D0B161-85BC-4288-A60D-4D52FC3A70F3,,"""Acta Phytotax. Sin. 16(3): 82 (1978); et in Fl. Reipubl. Popul. Sin., 75:260 (1979).""","","","",
+gcc-25855,A,Compositae,,Inula,,"hybrida",,"","Baumg.",Unresolved,,L,TICA,AEA77D70-26AE-417F-8842-2FC60AF24A7B,225933-1,"Enum. Stirp. Transs. iii. 132.","","iii. 132","",
+gcc-88805,A,Compositae,,Inula,,"incisa",,"","Lam.",Synonym,,M,TICA,68795ADC-2B06-4BAF-968A-8049ED071D65,225934-1,"","","256","1789",gcc-85494
+gcc-13640,A,Compositae,,Inula,,"indica",,"","russ. ex DC.",Unresolved,,L,TICA,C31D2029-C746-4ADB-9B29-195F2C953078,225936-1,"Prodr. (DC.) 5: 449","","449","1836",
+gcc-47821,A,Compositae,,Inula,,"indica",,"","L.",Synonym,,M,TICA,2EDB8406-BC9E-4D75-9B44-589B2A15C64E,,"","","","1763",gcc-81583
+gcc-75981,A,Compositae,,Inula,,"indica",,"","A.Chev.",Unresolved,Illegitimate,L,TICA,771F6FB4-C093-4FBA-92F9-63A3869654F3,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","366","1920",
+gcc-19612,A,Compositae,,Inula,,"indica",var.,"hypoleuca","Hand.-Mazz.",Synonym,,L,TICA,E5893B84-DA71-4D12-B0E9-244138873145,,"Symbolae Sinicae 7(4):","","1107","1936",gcc-37955
+gcc-149950,A,Compositae,,Inula,,"indica",var.,"indica","",Synonym,,L,TICA,6D540DF0-B858-4AFC-8DEF-63AC171AE99E,,"","","","",gcc-81583
+gcc-90215,A,Compositae,,Inula,,"intermedia",,"","Chang & Y.C.Tseng",Unresolved,,L,TICA,E228D6A0-8A9F-45EC-8CF1-83749492AE7A,225938-1,"""in Fl. Hainan., 3: 584 (1974).""","","","1974",
+gcc-97712,A,Compositae,,Inula,,"intermedia",,"","Steud.",Unresolved,,L,TICA,805B9244-87CB-431D-BD0C-9485CAD2F02C,225937-1,"Nomencl. Bot. (Steudel) 432","","432","1821",
+gcc-106168,A,Compositae,,Inula,,"intermixta",,"","Jos.Kern.",Unresolved,,L,TICA,B474338F-D1B5-4B92-93B5-A72D8BCBC44A,225939-1,"Oesterr. Bot. Z. 25: 382","","382","1875",
+gcc-46179,A,Compositae,,Inula,,"inuloides",,"","(Fenzl) Grierson",Accepted,,M,TICA,25CDF50E-1EDB-4DD4-B797-55988D460748,225940-1,"","","250","1974",
+gcc-121696,A,Compositae,,Inula,,"involucrata",,"","Miq.",Unresolved,,L,TICA,DC48D56D-2373-4284-83FC-CA59EB6915B1,225942-1,"Ann. Mus. Bot. Lugduno-Batavi ii. 171","","171","",
+gcc-44197,A,Compositae,,Inula,,"involucrata",,"","Kalenic.",Unresolved,,L,TICA,412C3CBB-DB42-4D45-9317-51DA2128A84B,225941-1,"in Bull. Soc. Nat. Mosc. xviii. (1845) I. 234.","","xviii.  I. 234","1845",
+gcc-34723,A,Compositae,,Inula,,"istriaca",,"","Gand.",Unresolved,,L,TICA,FD28AD66-BF19-4F83-8CC1-40625685C428,225943-1,"""Contrib. Fl. Terr. Slav. Merid., 1: 17 (1883).""","","17","1883",
+gcc-119061,A,Compositae,,Inula,,"japonica",,"","Thunb.",Accepted,,M,TICA,66AA464F-06BD-48F5-A696-C4640B2CB7E5,,"Fl. Jap.","","""35, 39""","1784",
+gcc-121070,A,Compositae,,Inula,,"japonica",,"","(Miq.) Kom.",Unresolved,,L,TICA,F3985D6D-E3C1-4CE2-B7D8-C8FCF4638F4C,,"Komarov & Klob.-Alis. Key Pl. Far East. Reg. USSR ii. 1024 (1932)","","1024","1932",
+gcc-157166,A,Compositae,,Inula,,"japonica",var.,"japonica","",Synonym,,L,TICA,6CA3B088-4EA6-4E6B-8886-FC55A80FFF0F,,"","","","",gcc-119061
+gcc-32519,A,Compositae,,Inula,,"kalapani",,"","C.B.Clarke",Accepted,,M,TICA,B6BD9905-959B-4DBD-A082-3C4962A15C16,225947-1,"Comp. Ind. 123.","","","1876",
+gcc-100341,A,Compositae,,Inula,,"kitamurana",,"","Tatew. ex Honda",Synonym,,M,TICA,54869BC8-E665-4AEC-873A-9A68A0D250E7,,"""Nomina Pl. Jap., ed. emend. : 360 (1939)""","","360","1939",gcc-4252
+gcc-135414,A,Compositae,,Inula,,"kitamurana",,"","Tatew. ex Kitam.",Unresolved,,L,TICA,19747F75-65E5-4642-9B20-E9F90CFBDE74,225948-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B. xiii. (Compos. Jap. 1.) 267 (1937), insyn.""","","267","1937",
+gcc-137371,A,Compositae,,Inula,,"klingii",,"","O.Hoffm.",Accepted,,M,TICA,8346187D-1C58-4365-B6C1-EE4F4FF90DDD,,"Bot. Jahrb. Syst. xxiv. 472.","","","1898",
+gcc-17,A,Compositae,,Inula,,"koelzii",,"","Dawar & Qaiser",Unresolved,,L,TICA,5243F99D-86E3-4097-B0DC-00063D64B3C9,,"Candollea 52(2): 283 (1997)","","","1997",
+gcc-14184,A,Compositae,,Inula,,"laciniata",,"","Lam.",Unresolved,,L,TICA,40B65658-B957-4E48-B088-1A4FCFECB62C,225950-1,"Fl. Fr. ii. 152.","","ii. 152","",
+gcc-92707,A,Compositae,,Inula,,"lanata",,"","Banks ex Pursh",Unresolved,,L,TICA,B8CE3399-59A2-4EF7-85B2-89355635A841,225951-1,"Fl. Am. Sept. ii. 532.","","ii. 532","",
+gcc-97419,A,Compositae,,Inula,,"lanceolata",,"","Burtt Davy",Unresolved,,L,TICA,184DAB5B-7F60-43C4-B6DC-93D09A3DEE33,225952-1,"Ann. Transvaal Mus. iii. 122 (1912).","","122","",gcc-103242
+gcc-133419,A,Compositae,,Inula,,"lancifolia",,"","Wender.",Unresolved,,L,TICA,F4152A97-58DD-423F-9A7F-E5774B262A31,225953-1,"""in Flora, xii. (1829) I. Erg. 26.""","","xii.  I. Erg. 26","1829",
+gcc-88279,A,Compositae,,Inula,,"langeana",,"","Beck",Accepted,,M,TICA,D872CFAF-1691-4BF0-8398-7F12B4CD52AF,,"","","","1882",
+gcc-136445,A,Compositae,,Inula,,"lanigera",,"","Burm.f.",Unresolved,,L,TICA,A094F6A2-7488-4F4B-BBA7-EC3C4EADB36B,,"Fl. Cap. Prod. 27 (Quid?).","","27","",
+gcc-144595,A,Compositae,,Inula,,"lanuginosa",,"","C.C.Chang",Synonym,,M,TICA,E3C91319-F5CB-48D1-8AED-FE7BCC39F1CF,,"""in Sinensia, iii. 202 (1933).""","","","1933",gcc-49376
+gcc-94763,A,Compositae,,Inula,,"lanuginosa",,"","Gilib.",Unresolved,,L,TICA,71CBF047-79B0-4E02-AB97-8DC802DF9419,225956-1,"Fl. Lit. Inch. i. 206. 1782","","i. 206","1782",
+gcc-2425,A,Compositae,,Inula,,"latifolia",,"","DC.",Synonym,,M,TICA,1F48EDF7-3A96-4827-81ED-046D510F0200,225958-1,"Prodr. (DC.) 5: 468","","468","1836",gcc-108468
+gcc-33920,A,Compositae,,Inula,,"leptoclada",,"","Webb",Synonym,,M,TICA,D53C0B12-4E4C-4A13-A2E2-3EE429F8C545,225959-1,"in Hook. Niger Fl. 137.","","137","1849",gcc-81583
+gcc-85619,A,Compositae,,Inula,,"lesbiaca",,"","P.Candargy",Synonym,,L,TICA,0BFB1B51-A0DD-4020-A47F-790ECF199F42,,"P. Candargy in Rev. Méd.-Pharm. 5. 1892.","","151","1892",gcc-85337
+gcc-45382,A,Compositae,,Inula,,"limonella",,"","(Heldr. ex Halácsy) Heldr. ex Rech.f.",Synonym,,M,TICA,FE1B49F9-B9C0-4214-BAC3-54193CB46D2B,225960-1,"","","97","1938",gcc-139120
+gcc-131473,A,Compositae,,Inula,,"limonifolia",,"","(Sm.) Boiss.",Synonym,,M,TICA,CC971541-ECEC-4DF9-8E4E-E0F7804B489B,,"","","","",gcc-98577
+gcc-148290,A,Compositae,,Inula,,"limonifolia",var.,"limonifolia","",Synonym,,L,TICA,727C3F73-F77E-4E11-B4C5-3F90E0262FDE,,"","","","",gcc-98577
+gcc-63292,A,Compositae,,Inula,,"limonifolia",var.,"pseudolimonella","Rech.f.",Synonym,,L,TICA,0CA8BE88-3668-407B-A8A9-B5B7E5BCB4CF,,"Rech. f. in Österr. Bot. Z. 87. 1938.","","96","1938",gcc-121758
+gcc-20250,A,Compositae,,Inula,,"limosa",,"","O.Hoffm.",Accepted,,M,TICA,0380B2D1-446E-4E03-9820-257150E110B1,225962-1,"in Warb. Kunene-Sambesi Exped. 414.","","414","",
+gcc-102607,A,Compositae,,Inula,,"linariifolia",,"","Turcz.",Accepted,,M,TICA,A1360942-4AAD-42F8-BF58-9F8655A535E7,225963-1,"","","154","1837",
+gcc-90200,A,Compositae,,Inula,,"lineata",,"","(Nyár.) Nyár.",Unresolved,,L,TICA,47C04C6A-C78C-400C-B275-836C9AAAF75E,225964-1,"""Bul. Grad. & Muz. Bot. Univ. Cluj 1934, xiv. 224 (1935), in obs.""","","""xiv. 224 (1935), in obs.""","1934",
+gcc-128757,A,Compositae,,Inula,,"linifolia",,"","Wender.",Unresolved,,L,TICA,D970DE6E-991F-425C-AF9C-DABF2842B703,225965-1,"""in Flora, xii. (1829) I. Erg. 26.""","","xii.  I. Erg. 26","1829",
+gcc-78939,A,Compositae,,Inula,,"litoralis",,"","Borbás ex Beck",Unresolved,,L,TICA,7EE2A06D-987D-43BA-9BF4-6A582F8E5CBB,225966-1,"""in Denkschr. Acad. Wien, Math. Nat. xliv. (1882) 311.""","","xliv.  311","1882",
+gcc-20748,A,Compositae,,Inula,,"lozanoi",,"","Caball.",Synonym,,M,TICA,27543735-0AFF-46CD-B7F6-265F7E4782DE,,"","","","1935",gcc-102339
+gcc-156100,A,Compositae,,Inula,,"lozanoi",var.,"lozanoi","",Synonym,,L,TICA,461B4BCE-9D0D-4697-B8D3-E66538B1AC44,,"","","","",gcc-102339
+gcc-1555,A,Compositae,,Inula,,"lozanoi",var.,"microcephala","Maire",Synonym,,L,TICA,7BD81483-761C-4724-8C6D-02D0D7652267,,"","","","",gcc-102339
+gcc-32083,A,Compositae,,Inula,,"lucens",,"","Dulac.",Unresolved,,L,TICA,18470641-694E-41B4-A745-3B6A3BB4ADB9,225968-1,"Fl. Hautes-Pyr. 516 (1867).","","516","1867",
+gcc-80796,A,Compositae,,Inula,,"lugdunensis",,"","Gand.",Unresolved,,L,TICA,B63E0D88-7B19-4D03-9B77-6E5D268C7221,225969-1,"Fl. Lyonn. 124 (1875).","","124","1875",
+gcc-118429,A,Compositae,,Inula,,"lutescens",,"","(Pau) Pau",Synonym,,M,TICA,496DFDB1-8813-4519-A03E-C2EA4D635C86,,"""Pau, Not. Bot. Fl. Españ. 6. 1895.""","","62","1895",gcc-123352
+gcc-13771,A,Compositae,,Inula,,"macedonica",,"","Hausskn.",Synonym,,M,TICA,F1790423-2E00-4602-B329-199C647D1CD8,,"","","","1895",gcc-122503
+gcc-89205,A,Compositae,,Inula,,"macrocephala",,"","Boiss. & Kotschy ex Boiss.",Unresolved,,L,TICA,41862B69-602C-4021-B639-8128EEA9DD3A,225971-1,"","","186","1875",
+gcc-40465,A,Compositae,,Inula,,"macrolepis",,"","Bunge",Accepted,,M,TICA,E3813F1D-1936-4777-AE24-4AFC9896A9E0,,"Beitr. Fl. Russl.","","154","",
+gcc-134640,A,Compositae,,Inula,,"macrophylla",,"","C.C.Gmel.",Unresolved,,L,TICA,A8DD35BD-B9D9-42A5-8409-E83953CCEFC5,927572-1,"","","","1811",
+gcc-142345,A,Compositae,,Inula,,"macrophylla",,"","Kar. & Kir.",Synonym,,M,TICA,E0787C8C-ECC4-4AF2-BF3E-F9680A678692,225974-1,"in Bull. Soc. Nat. Mosc. (1841) 438.","","438","1841",gcc-99265
+gcc-93752,A,Compositae,,Inula,,"macrophylla",,"","(Sch.Bip.) Sch.Bip.",Synonym,Illegitimate,M,TICA,A685F671-C754-4ABC-B5E6-8B617A5496B2,225973-1,"""Schweinf. & Aschers. Aufzaehl. 285, 307.""","","""285, 307""","1867",gcc-2574
+gcc-6804,A,Compositae,,Inula,,"macrosperma",,"","Hook.f.",Accepted,,M,TICA,6758AF17-0C19-4C90-91C4-0C9FEB11493F,,"Fl. Brit. Ind. iii. 292.","","","1881",
+gcc-79631,A,Compositae,,Inula,,"magnifica",,"","Lipsky",Accepted,,M,TICA,7344D727-FE7F-4F09-A2D8-6BD702F991F4,,"","","282","1897",
+gcc-107949,A,Compositae,,Inula,×,"magyarica",,"","J.Wagner",Unresolved,,L,TICA,7C1DAF1B-03E5-4D2B-A8E0-AB3E8AC289A1,225977-1,"""in Borbasia Nova No. 14, 1 (1943).""","","""No. 14, 1""","1943",
+gcc-5559,A,Compositae,,Inula,,"maletii",,"","Maire",Accepted,,M,TICA,CD49BEF1-4F83-4399-955A-0A5C9F6EC190,225978-1,"","","40","1922",
+gcc-149165,A,Compositae,,Inula,,"mannii",,"","(Hook.f.) Baker",Unresolved,,L,TICA,0B39C285-C5AB-4C72-9342-52F64ADF795A,,"","","","",
+gcc-93492,A,Compositae,,Inula,,"mannii",,"","(Hook.f.) Oliv. & Hiern",Accepted,,M,TICA,F1A443D4-9BC4-46EA-BE3A-8ADC01E94E91,225980-1,"Fl. Trop. Afr. [Oliver et al.] 3: 358","","358","1877",
+gcc-94751,A,Compositae,,Inula,,"mannii",,"","Benth. & Hook.f.",Unresolved,,L,TICA,43DF2690-49D5-4B1B-8CCF-8DC09E1194E9,225979-1,"Gen. ii. 331.","","ii. 331.","",
+gcc-127459,A,Compositae,,Inula,,"mariae",,"","Bordz.",Accepted,,M,TICA,46D6EE17-1699-40AE-8459-D7B5B349EF8F,,"","","115","1915",
+gcc-18461,A,Compositae,,Inula,,"mariana",,"","L.",Synonym,,M,TICA,C16A6C22-DE6E-476C-87D2-22185603F787,278824-2,"""Sp. Pl., ed. 2. 2""","","1240","1763",gcc-24013
+gcc-62626,A,Compositae,,Inula,,"mariana",var.,"falcata","(Pursh) Nutt.",Synonym,,L,TICA,AF14D987-972A-478F-A2C5-B05CDE4CF369,128867-2,"Gen. N. Amer. Pl. [Nuttall] 2: 151. 1818 [14 Jul 1818]","","151","1818",gcc-139695
+gcc-150813,A,Compositae,,Inula,,"mariana",var.,"mariana","",Synonym,,L,TICA,91E20C15-3BBE-4A04-9514-7688B6CBACCD,,"","","","",gcc-24013
+gcc-38752,A,Compositae,,Inula,,"media",,"","M.Bieb.",Unresolved,,L,TICA,3A325F5D-24F4-4CC2-AC0C-47DFD732A68A,225983-1,"Fl. Taur. Cauc. Suppl. 576.","","576","",
+gcc-29083,A,Compositae,,Inula,,"melanolepidea",,"","Kalenic.",Unresolved,,L,TICA,6D3789AC-3075-439C-9058-35C79CB51681,225984-1,"in Bull. Soc. Nat. Mosc. xviii. (1845) I. 235.","","xviii.  I. 235","1845",
+gcc-138828,A,Compositae,,Inula,×,"menesiensis",,"","Simonk.",Unresolved,,L,TICA,680B7921-FF50-46B4-B43C-F1710E13BED7,225985-1,"Oesterr. Bot. Z. 39: 13","","13","1889",
+gcc-6084,A,Compositae,,Inula,,"methanaea",,"","Hausskn.",Accepted,,M,TICA,068FFF55-AE9A-475C-82B3-0B539C831578,,"","","33","1889",
+tro-50250523,A,Compositae,,Inula,,"methanea",,"","Hauskn.",Synonym,,M,TRO,50250523,,"Consp. Fl. Eur.","1: 176","176","1889",gcc-6084
+gcc-38694,A,Compositae,,Inula,,"micrantha",,"","Poir.",Unresolved,,L,TICA,D0052B5A-D350-4B0B-BF3D-47C5DFB073AB,225987-1,"Encycl. (Lamarck) Suppl. 3. 153","","153","1813",
+gcc-51143,A,Compositae,,Inula,,"micranthos",,"","DC.",Unresolved,,L,TICA,4DBE93D8-8C66-473A-BBA7-5EE017AF35A6,225988-1,"Prodr. (DC.) 5: 467","","467","1836",
+gcc-96386,A,Compositae,,Inula,,"microcephala",,"","Borbás",Unresolved,,L,TICA,BEB22ECD-9A04-4C87-9059-916E102237FC,225989-1,"Bot. Jahrb. Syst. viii. (1887) 235.","","viii.  235.","1887",
+gcc-140088,A,Compositae,,Inula,,"mildbraedii",,"","Muschl.",Accepted,,M,TICA,AD348451-B1AB-49B2-8630-F42EA76BE83B,225990-1,"""in Wiss. Ergebn. Deutsch. Zentr.-Afr.-Exped. 1907-8, ii. 377 (1911).""","","""1907-8, ii. 377""","1911",
+gcc-18751,A,Compositae,,Inula,,"mollis",,"","Bernh. ex Link",Unresolved,,L,TICA,B8A85F7A-EAA2-405D-B7AE-22A13D1A1550,225991-1,"Enum. Hort. Berol. ii. 335.","","ii. 335","",
+gcc-104991,A,Compositae,,Inula,,"montana",,"","Lucé",Unresolved,,L,TICA,36192AD8-B062-4BE2-84A5-A4B236CED6BA,,"Fl. Osil. 279.","","279","",
+gcc-109849,A,Compositae,,Inula,,"montana",,"","M.Bieb.",Unresolved,,L,TICA,D5BFFB02-7C74-47B4-B07A-AF9D5B19FC3E,225995-1,"Fl. Taur.-Caucas. ii. 317.","","ii. 317","",
+gcc-122893,A,Compositae,,Inula,,"montana",,"","Biv.",Unresolved,,L,TICA,29687AE3-D73E-4BC5-88A6-CD0F1A7D64CB,225994-1,"Pl. Rar. Cent. i. 34.","","i. 34","",
+gcc-124875,A,Compositae,,Inula,,"montana",,"","Balansa & Bourg. ex Boiss.",Unresolved,,L,TICA,8BA40E9B-40AF-4502-910A-D1B758925806,225993-1,"Fl. Orient. [Boissier] 3: 192","","192","1875",
+gcc-1591,A,Compositae,,Inula,,"montana",,"","Pollich",Unresolved,,L,TICA,072D79ED-218D-4FD9-A0C5-02DCA6249DD2,225992-1,"Hist. Fl. Palat. ii. 469","","469","",
+gcc-80411,A,Compositae,,Inula,,"montana",,"","L.",Accepted,,M,TICA,C6103CE9-16CC-41CC-9545-6D8BD02ADA89,225997-1,"","","884","1753",
+gcc-36419,A,Compositae,,Inula,,"montana",var.,"calycina","(Presl) Batt.",Synonym,,L,TICA,EE6AA320-E541-4266-9A98-438B79BB4434,,"","","","",gcc-80411
+gcc-28512,A,Compositae,,Inula,,"montana",var.,"lanata","Font Quer & Pau",Synonym,,L,TICA,B4DD4E06-ECDB-41A9-85BC-34B8654E078C,,"","","","",gcc-80411
+gcc-145985,A,Compositae,,Inula,,"montana",var.,"montana","",Synonym,,L,TICA,C7CB1327-98EB-4117-92D3-0F3A2A60876F,,"","","","",gcc-80411
+gcc-42722,A,Compositae,,Inula,,"montbretiana",,"","DC.",Accepted,,M,TICA,6F5EA1CE-9297-4E10-8E8E-4F1FAE61689E,225998-1,"","","284","1838",
+gcc-112460,A,Compositae,,Inula,×,"mucheri",,"","Starm.",Unresolved,,L,TICA,98A1607B-AC28-4D05-B825-B581417CDE17,,"Carinthia II 195/115(2): 523","","523","2005",
+gcc-90648,A,Compositae,,Inula,,"multicaulis",,"","Fisch. & C.A.Mey.",Accepted,,L,TICA,B02B0F16-038D-4D31-BA7F-848F253ED667,,"","","30","",
+gcc-95437,A,Compositae,,Inula,,"myrtifolia",,"","L.",Unresolved,,L,TICA,61D6F2E7-5B82-4349-8144-8F5A67173587,226002-1,"""Syst. Nat., ed. 10. 1219""","","1219","1759",
+gcc-10149,A,Compositae,,Inula,,"neilreichii",,"","Beck ex Formánek",Unresolved,,L,TICA,53CFA311-95B9-4DD8-8291-12FA531AB3E6,226004-1,"""Kvetena, ii. (1892) 528; et Fl. Nied.-Oest. ii. (1893) 1182.""","","ii.  528","1892",
+gcc-124039,A,Compositae,,Inula,,"neilreichii",,"","A.Kern.",Unresolved,,L,TICA,C327874E-662D-4D6F-83E3-CFCBB3B65D2A,,"""Sched. Fl. Exsicc. i. 91; Beck, in Denkschr. Acad. Wien, Math.-Nat. xliv. (1882)315.""","","i. 91","",
+gcc-121748,A,Compositae,,Inula,,"nervosa",,"","Wall. ex DC.",Accepted,,M,TICA,ECAD6E80-B7FD-4A4C-8988-CA76DEE7FE80,,"","","","1836",
+gcc-134939,A,Compositae,,Inula,,"nervosa",,"","Wall.",Unresolved,,L,TICA,56DF8929-96D8-48E2-BABC-E8D7402DC714,,"Numer. List [Wallich] n. 2960","","2960","",
+gcc-51401,A,Compositae,,Inula,,"nitida",,"","Edgew.",Synonym,,M,TICA,7FCB4034-F7E8-4F1D-B6A3-5F55702697A2,,"Trans. Linn. Soc. London 20(1): 68","","","1846",gcc-121748
+gcc-84128,A,Compositae,,Inula,,"oblonga",,"","DC.",Synonym,,L,TICA,04DB0A2D-3F8D-4234-ADE7-75D490624D72,226007-1,"Prodr. (DC.) 5: 469","","469","1836",gcc-7323
+gcc-108790,A,Compositae,,Inula,,"obovata",,"","Nutt.",Unresolved,,L,TICA,599F6ED4-2CBF-4C4B-BF70-AD292A6ECEC1,,"","","","",
+gcc-44289,A,Compositae,,Inula,,"obovata",,"","Nutt. ex Spreng.",Unresolved,,L,TICA,6739A2FD-1C0F-4714-859C-52087320941A,226008-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 544","","544","1826",
+gcc-76100,A,Compositae,,Inula,,"obtusifolia",,"","A.Kerner",Accepted,,M,TICA,C219B27B-5958-4082-8733-63E3099515DF,,"","","111","1870",
+gcc-52479,A,Compositae,,Inula,,"obtusifolia",var.,"clarkei","Hook.f.",Synonym,,L,TICA,9E1F464B-C271-4FEA-967B-61474E0CA03A,,"","","294","1881",gcc-78607
+gcc-148544,A,Compositae,,Inula,,"obtusifolia",var.,"obtusifolia","",Synonym,,L,TICA,302E6FF1-5B24-40A0-9A49-452D65A77879,,"","","","",gcc-76100
+gcc-138958,A,Compositae,,Inula,,"obvallata",,"","Kit.",Unresolved,,L,TICA,092F509A-2CC7-4717-AA06-F1B3A7234F27,226010-1,"Linnaea 32: 377. 1864","","377","1864",
+gcc-132569,A,Compositae,,Inula,,"oculus",,"","Christi",Unresolved,,L,TICA,0C6F8B7E-126A-4A59-9D99-E38E8D1F95BE,,"Linn. Sp. Pl. 881.","","881","",
+gcc-37482,A,Compositae,,Inula,,"oculus",,"","Schrank",Unresolved,,L,TICA,514DF9FB-B508-49EA-B4A3-4579EFD0BAE0,226011-1,"Baier. Fl. ii. 394","","394","",
+gcc-112537,A,Compositae,,Inula,,"oculus-christi",,"","C.B.Clarke",Unresolved,,L,TICA,1C6FD6CE-3280-44A8-8A0F-B5A72CE97FF5,226013-1,"Comp. Ind. 120.","","120","",
+gcc-135684,A,Compositae,,Inula,,"oculus-christi",,"","L.",Accepted,,M,TICA,45966685-5A98-49D3-A644-EA839324B285,226012-1,"""L., Sp. Pl. 1753.""","","881","1753",
+gcc-144237,A,Compositae,,Inula,,"oculus-christi",,"","Lam.",Unresolved,,L,TICA,ADB8704A-3A1B-4F93-925D-FDA6F9694C3D,,"Encycl. (Lamarck) 3(1): 254","","522","1789",
+gcc-127277,A,Compositae,,Inula,,"odora",,"","Forssk.",Unresolved,,L,TICA,CAEB0EBD-7B56-4319-B2B5-D743FCB17C3A,226016-1,"Fl. Aegypt.-Arab. 150","","150","1775",
+gcc-135310,A,Compositae,,Inula,,"odora",,"","L.",Synonym,,M,TICA,9E97A26F-A323-4491-BEFF-E9C083510609,226017-1,"","","881","1753",gcc-42390
+gcc-97314,A,Compositae,,Inula,,"odora",,"","d'Urv.",Unresolved,,L,TICA,B5FBA96A-F9C9-47BC-A3B5-938FEE7C77BC,226015-1,"in Mem. Soc. Linn. Par. i. (1822) 367.","","i.  367","1822",
+gcc-99093,A,Compositae,,Inula,,"oetteliana",,"","Rchb.",Unresolved,,L,TICA,DCB85A3C-43C2-456D-84BD-979ACF6F17DC,226018-1,"in Moessl. Handb. ed. II. ii. 1506.","","ii. 1506","",
+gcc-121311,A,Compositae,,Inula,,"oligocephala",,"","S.Moore",Accepted,,M,TICA,1FDEF2B5-C0A1-4F54-894C-C9878C55A859,226019-1,"""J. Linn. Soc., Bot. xlvii. 272 (1925)""","","272","1925",
+gcc-143930,A,Compositae,,Inula,,"orgyalis",,"","Boiss.",Synonym,,M,TICA,A37849B4-CF76-4168-A8CC-FCF74861587A,226020-1,"","","291","1888",gcc-26076
+gcc-103593,A,Compositae,,Inula,,"orientalis",,"","Willd.",Unresolved,,L,TICA,0E0E973A-AE37-4BE9-96D1-A19D691B635D,226021-1,"Sp. Pl. iii. 2100.","","iii. 2100","",
+gcc-22968,A,Compositae,,Inula,,"orientalis",,"","d'Urv. ex Boiss.",Unresolved,,L,TICA,AE3AAE92-D6A5-492C-98F2-2A87AF030FCF,226023-1,"Fl. Orient. [Boissier] 3: 193","","193","1875",
+gcc-99265,A,Compositae,,Inula,,"orientalis",,"","Lam.",Accepted,,M,TICA,E5C9CB30-8DD1-4D2A-AD86-9800361E8DA4,226022-1,"","","255","1789",
+gcc-139120,A,Compositae,,Inula,,"oxylepis",,"","Hausskn.",Accepted,,M,TICA,9E1B4C72-9E08-4D75-9C43-F20780FA7A7B,,"Hausskn. in Mitth. Thüring. Bot. Vereins 7. 1895.","","35","1895",
+gcc-7477,A,Compositae,,Inula,,"oxylepis",,"","Sch.Bip. ex Beck",Unresolved,,L,TICA,B31A3841-19A8-409A-9F52-0DE59B0AAC2B,226024-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 325.""","","xliv.  325","1882",
+gcc-45420,A,Compositae,,Inula,×,"paiensis",,"","H.Koyama",Unresolved,,L,TICA,FAF0DAB5-F40D-4BF9-A036-542880DAAA81,,"Acta Phytotax. Geobot. 35(4–6): 121 (1984)","","121","1984",
+gcc-119942,A,Compositae,,Inula,,"paludosa",,"","(Link) Spreng.",Unresolved,,L,TICA,9F36677D-5E60-4A0F-BC03-C65B0012A772,1060249-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 522","","522","1826",
+gcc-39479,A,Compositae,,Inula,,"paludosa",,"","DC.",Unresolved,,L,TICA,74FBB419-7E27-49C7-A3BF-494328106F74,226025-1,"Prodr. (DC.) 5: 480","","480","1836",
+gcc-80387,A,Compositae,,Inula,,"paludosa",,"","O.Hoffm.",Accepted,,M,TICA,0C96A1FA-8C82-4360-8E31-6D7F76EC820C,226026-1,"in Warb. Kunene-Sambesi Exped. 414.","","414","1903",
+gcc-109538,A,Compositae,,Inula,,"palustris",,"","Link",Unresolved,,L,TICA,DB074E90-89E4-4373-84F4-AEE2A4382D63,226027-1,"Handb. i. 738.","","i. 738","",
+gcc-2574,A,Compositae,,Inula,,"paniculata",,"","(Klatt) Burtt Davy",Accepted,,M,TICA,6E3D8B0F-9747-4F10-9FA0-04B5EDB25BB1,226028-1,"""Bull. Misc. Inform. Kew 1935, 570""","","","1935",
+gcc-141810,A,Compositae,,Inula,,"parnassica",,"","Boiss. & Heldr.",Accepted,,M,TICA,021829C1-A5A4-4AA1-8648-F842D8D66BE6,,"","","11","1856",
+gcc-92747,A,Compositae,,Inula,,"parviflora",,"","Salisb.",Unresolved,,L,TICA,2D96AAA1-A0A7-4315-ACAE-894B4E8C70B4,226030-1,"Prodr. Stirp. Chap. Allerton 201","","201","1796",
+gcc-16789,A,Compositae,,Inula,,"peacockiana",,"","(Aitch. & Hemsl.) Korovin",Accepted,,M,TICA,0B98378C-62A7-4003-A547-1F046353D344,226031-1,"","","511","1962",
+gcc-127027,A,Compositae,,Inula,,"pentanema",,"","(Aitch. & Hemsl.) Kitam.",Synonym,,M,TICA,CFE7CE64-719E-42CA-A54A-D6A73630C47A,226032-1,"""Fl. Afghan. (Results Kyoto Univ. Sci. Exped. Karak. & Hinduk. 1955, ii.) 426(1960)""","","426","1960",gcc-123792
+gcc-28802,A,Compositae,,Inula,,"perrieri",,"","(Humbert) Mattf.",Accepted,,M,TICA,B743ACD6-D2F7-40FA-A15A-353FC510BE75,,"""Bot. Jahrb. Syst. lix. Beibl. 133, 19 (1924), in obs.""","","","1924",
+gcc-136356,A,Compositae,,Inula,,"persica",,"","Ghahrem.-Nejad & Narimisa",Unresolved,,L,TICA,D44208F3-AA47-43D1-A131-EC0EB2B2630D,,"Ann. Bot. Fenn. 42(3): 211 (-213; figs. 1-2 (map)). 2005 [29 Jun 2005]","","","",
+gcc-36587,A,Compositae,,Inula,,"petrosa",,"","Klatt ex Range",Synonym,,M,TICA,BB55E7F3-2EDA-424F-BF9B-43D819F64470,,"","","","",gcc-46130
+gcc-127726,A,Compositae,,Inula,,"phylicoides",,"","Willd. ex Spreng.",Unresolved,,L,TICA,412468FC-6A26-41AE-B55A-D85EEEA8002B,226034-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 526","","526","1826",
+gcc-96344,A,Compositae,,Inula,,"pinifolia",,"","L.",Synonym,,L,TICA,24A3DB42-35C9-42F1-A6A1-915472107A26,226035-1,"Pl. Afr. Rar. 22; Amoen. Acad. vi. 102.","","22","",gcc-33987
+gcc-108340,A,Compositae,,Inula,,"planifolia",,"","Link ex DC.",Unresolved,,L,TICA,978CD986-CEA7-4FEF-9D3A-AC10D963DBD7,226036-1,"Prodr. (DC.) 5: 479","","479","1836",
+gcc-76153,A,Compositae,,Inula,×,"pleiocephala",,"","Borbás",Unresolved,,L,TICA,D215826E-06A2-49CC-9283-6405926A473F,226037-1,"Bot. Jahrb. Syst. viii. (1887) 239.","","viii.  239.","1887",
+gcc-17979,A,Compositae,,Inula,,"poggeana",,"","O.Hoffm.",Accepted,,M,TICA,49227ED4-2813-4C75-8178-2139D37A79CC,226038-1,"Bot. Jahrb. Syst. xxiv. 471.","","xxiv. 471.","",
+gcc-27903,A,Compositae,,Inula,,"polycephala",,"","Klatt",Synonym,,M,TICA,AC0C10E9-C0BE-43FB-AEF0-338E253367EE,226039-1,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München (1878) 85","","85","1878",gcc-121834
+gcc-127979,A,Compositae,,Inula,,"polygonata",,"","DC.",Synonym,,M,TICA,06DFB29F-978E-4FE7-A867-D8F1645C1252,,"Prodr. (DC.) 5: 565","","565","",gcc-49020
+gcc-128247,A,Compositae,,Inula,,"portenschlagii",,"","Beck",Unresolved,,L,TICA,DC84306C-DE95-41FB-83F5-D9935AA4576C,226041-1,"""in Denkschr. Acad. Wien, Math. Nat. xliv. (1882) 326.""","","xliv.  326","1882",
+gcc-2451,A,Compositae,,Inula,,"praealta",,"","Dumort.",Unresolved,,L,TICA,3BE32239-B730-4FAF-A141-0477011C8C5F,226042-1,"Fl. Belg. (Dumortier) 68. 1827","","68","1827",
+gcc-130790,A,Compositae,,Inula,,"primulifolia",,"","Lam.",Synonym,,M,TICA,8B8F1312-FCDC-4006-85B6-DF5E93A22174,226043-1,"","","261","1789",gcc-12546
+gcc-118475,A,Compositae,,Inula,,"prostata",,"","Gilib.",Synonym,Invalid,M,TICA,173F5FB9-6D7A-4F7F-9018-C30D1B149683,,"Fl. Lit. Inch. i. 205. 1782","","","",gcc-93600
+gcc-147437,A,Compositae,,Inula,,"prostrata",,"","Gilib.",Synonym,,M,TICA,382CBD9B-FFB1-4CE1-909F-2D93BFC4DC0C,226044-1,"Fl. Lit. Inch. 1: 205. 1782","","205","1782",gcc-93600
+gcc-34178,A,Compositae,,Inula,,"prostrata",,"","Rothm.",Synonym,,M,TICA,34297F85-FC93-47D6-871D-3F5961081D34,,"","","282","1939",gcc-66422
+gcc-119316,A,Compositae,,Inula,,"provincialis",,"","L.",Synonym,,M,TICA,EE1B4D22-6F37-41CB-8B1B-C4E5890E1E1B,226046-1,"","","884","1753",gcc-11741
+gcc-46614,A,Compositae,,Inula,,"pseudo-bubonium",,"","Schur",Unresolved,,L,TICA,AD17A9C7-B0C0-4242-9F66-56630E1140E8,226047-1,"Enum. Pl. Transsilv. 313. 1866 [Apr-Jun 1866]","","313","1866",
+gcc-1009,A,Compositae,,Inula,,"pseudocappa",,"","DC.",Synonym,,L,TICA,C68F4134-9EE2-4962-9E25-01DA1105C694,226048-1,"Prodr. (DC.) 5: 469","","469","1836",gcc-7323
+gcc-126621,A,Compositae,,Inula,,"pseudoconyza",,"","Albov",Unresolved,,L,TICA,27E6FECF-BDE6-4119-A9DC-D5B9634ABBB9,226049-1,"Bull. Herb. Boissier ii. (1894) 453.","","ii.  453.","1894",
+gcc-106654,A,Compositae,,Inula,,"pseudoensiformis",,"","Borbás",Unresolved,,L,TICA,52647705-2E31-467F-BA71-A84E2FE8555E,226050-1,"Bot. Jahrb. Syst. viii. (1887) 232.","","viii.  232.","1887",
+gcc-135438,A,Compositae,,Inula,,"pseudoensiformis",,"","Beck",Unresolved,,L,TICA,0B7C7CD1-59F1-4EA9-B166-EA0395457127,226051-1,"Fl. Nied. Oest. ii. II. (1893) 1182.","","ii. II.  1182","1893",
+gcc-27212,A,Compositae,,Inula,,"pseudogermanica",,"","Beck",Unresolved,,L,TICA,AA2E2212-0673-45F4-9FDE-325819229A64,226052-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 299.""","","xliv.  299","1882",
+gcc-121758,A,Compositae,,Inula,,"pseudolimonella",,"","(Rech.f.) Rech.f.",Accepted,,M,TICA,96CFC31F-CA5C-41EF-967E-CA7C17E0B602,,"","","","",
+gcc-81629,A,Compositae,,Inula,,"pseudosalicina",,"","simkov. ex Beck",Unresolved,,L,TICA,05C9E2B3-502D-4F62-AFCB-7042A5608D7D,226054-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 303.""","","xliv.  303","1882",
+gcc-21138,A,Compositae,,Inula,,"pterocaula",,"","Franch.",Accepted,,M,TICA,40ECC37B-B50B-412F-A434-270D55BEF8E1,226055-1,"""in Journ. de Bot. 1896, 383.""","","383","1896",
+gcc-132725,A,Compositae,,Inula,,"pulicaria",,"","d'Urv.",Unresolved,,L,TICA,7F4F4280-13D3-4C78-9050-E3E79791851E,,"in Mem. Soc. Linn. Par. i. (1822) 367","","367","",
+gcc-13321,A,Compositae,,Inula,,"pulicaria",,"","Brot. ex DC.",Unresolved,,L,TICA,B44EFF10-AB70-4EE2-92BE-18D3DDA4F1CD,226056-1,"Prodr. (DC.) 5: 480","","480","1836",
+gcc-16847,A,Compositae,,Inula,,"pulicaria",,"","L.",Synonym,,M,TICA,C10739B3-6C86-4134-A078-1F1F073BB299,226058-1,"","","882","1753",gcc-93600
+gcc-19797,A,Compositae,,Inula,,"pulicariaeformis",,"","DC.",Unresolved,,L,TICA,642792BC-711F-4E54-ADC7-249E446CF0E5,226059-1,"Prodr. (DC.) 7(1): 284","","284","1838",
+gcc-5870,A,Compositae,,Inula,,"pulicaris",,"","Stokes",Unresolved,,L,TICA,C185C165-CAB2-4744-844D-0AEB3DF7E703,226060-1,"Bot. Mat. Med. iv. 222 (1812).","","iv. 222","1812",
+gcc-143703,A,Compositae,,Inula,,"punctata",,"","Muhl.",Unresolved,,L,TICA,B0DE2447-36A3-471F-BFD2-FC7E1555108F,226061-1,"Cat. 76.","","76","",
+gcc-30910,A,Compositae,,Inula,,"punctata",,"","Less.",Unresolved,,L,TICA,194A50C9-EF12-433C-B5DD-393A8D9C777A,226062-1,"Syn. Gen. Compos. 198","","198","",
+gcc-140955,A,Compositae,,Inula,,"pygmaea",,"","Gilli",Synonym,,M,TICA,5B2906EB-F169-425D-BC3A-F648EF9AA853,226063-1,"Feddes Repert. Spec. Nov. Regni Veg. 68: 91","","91","1963",gcc-36964
+gcc-117289,A,Compositae,,Inula,,"quadridentata",,"","Lag.",Synonym,,M,TICA,DCFDBD5A-04D3-4471-95D6-C05741549DB9,226064-1,"","","30","1816",gcc-103204
+gcc-125000,A,Compositae,,Inula,,"quadrifida",,"","Buch.-Ham.",Unresolved,,L,TICA,8B4D8611-D353-4125-87F8-D2105FEDC154,,"Numer. List [Wallich] n. 2963","","2963","",
+gcc-135245,A,Compositae,,Inula,,"racemosa",,"","Hook.f.",Accepted,,M,TICA,3790F88A-07C3-46FB-B989-E98DC8C18651,226066-1,"Fl. Brit. Ind. iii. 292.","","292","1881",
+gcc-144170,A,Compositae,,Inula,,"ramosissima",,"","Clairv.",Unresolved,,L,TICA,5EE5910B-909E-45AF-B710-FD847917C07E,226067-1,"Man. Herb. 244.","","244","",
+gcc-110534,A,Compositae,,Inula,,"rehmii",,"","Merxm.",Synonym,,M,TICA,F1A560AE-3D23-4513-9F78-B119E0744EFF,226068-1,"""in Mitt. Bot. Staatssamml. München, Heft 2, 43 (1950).""","","43","1950",gcc-13670
+gcc-138303,A,Compositae,,Inula,,"repanda",,"","Turcz.",Synonym,,M,TICA,79BFFBCE-2B0C-4255-9716-F04AA18405BA,,"in Bull. Soc. Nat. Mosc. (1837) n. VII. 154.","","","1837",gcc-119061
+gcc-81047,A,Compositae,,Inula,,"repens",,"","Fisch. ex Treviran.",Synonym,,M,TICA,6785A4B0-7D41-44D9-9C8E-6EF1DA0C0740,226070-1,"","","2","1819",gcc-59654
+gcc-24465,A,Compositae,,Inula,,"revoluta",,"","Hoffmanns. & Link",Synonym,,M,TICA,0192DF42-7507-43F5-B68C-2D297DFCC325,,"","","","1825",gcc-66422
+gcc-100053,A,Compositae,,Inula,,"rhizantha",,"","Tat.",Unresolved,,L,TICA,3A4CA281-AD7A-4493-98CD-99B89BF664B1,,"Baer & Helm. Beitr. Kenntn. Russ. Reich. xx. 251","","251","",
+gcc-96152,A,Compositae,,Inula,,"rhizocephala",,"","Schrenk",Accepted,,M,TICA,629AC288-DF69-4397-9226-90E6696E177C,226073-1,"","","51","1841",
+gcc-20254,A,Compositae,,Inula,,"rhizocephala",var.,"intermedia","Kitam.",Synonym,,L,TICA,928C785F-E292-4739-BBA7-257283BE698A,,"Fl. Pl. W. Pak. & Afgh.","","150","1964",gcc-96152
+gcc-153827,A,Compositae,,Inula,,"rhizocephala",var.,"rhizocephala","",Synonym,,L,TICA,0EA21EDF-3362-4381-9590-B615B25E7EDA,,"","","","",gcc-96152
+gcc-37223,A,Compositae,,Inula,,"rhizocephaliformis",,"","Kamelin & Turak.",Unresolved,,L,TICA,294D4457-5955-4B16-99C0-44F71F835A6F,986178-1,"Opred. Rast. Sred. Azii 10: 633 (1993)","","633","1993",
+gcc-19162,A,Compositae,,Inula,,"rhizocephaloides",,"","C.B.Clarke",Synonym,,M,TICA,6C98DAF5-9179-40FB-B1EA-236835DFF4D5,226074-1,"Comp. Ind. 124.","","124","1876",gcc-96152
+gcc-22630,A,Compositae,,Inula,,"rhodia",,"","Gand.",Unresolved,,L,TICA,EF31CAF2-056A-4470-AD1E-29E32AEB9B85,226075-1,"Bull. Soc. Bot. France 65: 45","","45","1918",
+gcc-127209,A,Compositae,,Inula,,"rhodostemma",,"","Boiss.",Unresolved,,L,TICA,512AFADB-C249-4980-BFCD-D71F8CDC0780,226076-1,"Fl. Orient. [Boissier] 3: 172","","172","1875",
+gcc-90282,A,Compositae,,Inula,,"rigida",,"","Doell",Unresolved,,L,TICA,2AEC63C0-55BB-46E7-BC89-839B7B73D075,,"Fl. Baden. iii. 1365.","","iii. 1365","",
+gcc-96704,A,Compositae,,Inula,,"rigida",,"","Vill.",Unresolved,,L,TICA,ADF43136-8D8C-4142-82DC-92354FE15F9E,226078-1,"Prosp. Hist. Pl. Dauphiné 32 (Quid ?)","","32","1779",
+gcc-49130,A,Compositae,,Inula,,"robynsii",,"","De Wild.",Accepted,,M,TICA,5F29F4EE-C1A0-4FEA-8273-5AFBB739F613,,"Pl. Bequaert. v. 86 (1929).","","","1929",
+gcc-6303,A,Compositae,,Inula,,"rotundifolia",,"","(Halácsy) Greuter",Accepted,,M,TICA,1991FC38-62EB-42ED-9C9E-0BBB9332DAAB,226080-1,"","","140","1967",
+gcc-46107,A,Compositae,,Inula,,"royleana",,"","C.B.Clarke",Synonym,Illegitimate,M,TICA,8B795C81-DA3C-4324-8080-5577209147C6,226082-1,"Comp. Ind. 118.","","118","1876",gcc-135245
+gcc-83563,A,Compositae,,Inula,,"royleana",,"","DC.",Accepted,,M,TICA,286136F7-DA49-4528-BAEF-749298D3E626,226081-1,"Prodr. (DC.) 5: 464","","464","1836",
+gcc-143172,A,Compositae,,Inula,,"rubricaulis",,"","(DC.) Benth. & Hook.f.",Accepted,,M,TICA,584BE785-C0D0-4BB5-BD5E-FB4CDBD6F664,,"Gen. ii. 331.","","","1873",
+gcc-155208,A,Compositae,,Inula,,"rubricaulis",,"","(DC.) C.B.Clarke",Unresolved,,L,TICA,D2E29E35-A1E1-490F-8322-D3307251EE4D,,"Compos. Ind. 126. 1876","","126","1876",
+gcc-125930,A,Compositae,,Inula,,"rubtzovii",,"","Gorschk.",Synonym,,M,TICA,C6D0E10E-F5D7-4A67-B3D6-D42C80B4F1BC,226084-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xvii. 399 (1955).""","","399","1955",gcc-5294
+gcc-20587,A,Compositae,,Inula,,"rungwensis",,"","Beentje",Accepted,,M,TICA,96EFFA7F-ADB7-4D32-8EBC-261B359F26B2,,"Kew Bull. 54(1): 100 (1999)","","100","1999",
+gcc-133466,A,Compositae,,Inula,,"rupestris",,"","Aitch. & Hemsl.",Synonym,,M,TICA,78F25ABC-DC98-4DFE-BEA8-E58EACF5862E,226085-1,"""J. Linn. Soc., Bot. xix. (1882) 169.""","","169","1882",gcc-121370
+gcc-102556,A,Compositae,,Inula,,"rupicola",,"","Krasch.",Unresolved,,L,TICA,9D0F2A1D-F37F-42D3-B7E1-9F66E78C2B0C,,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 3: 344 (1937), in syn.""","","344","",
+gcc-4855,A,Compositae,,Inula,,"sabuletorum",,"","Czern. ex Lavrenko",Accepted,,M,TICA,194921E7-F240-4FF5-BCE2-0908C9E1B7D4,,"","","7","1926",
+gcc-115854,A,Compositae,,Inula,,"salicifolia",,"","Gueldenst.",Accepted,,M,TICA,B2582CBE-7048-4926-A607-BD22856C4FA0,,"""Reise Russl. ii. 78, 144, 146, 207, 287.""","","287","",
+gcc-56963,A,Compositae,,Inula,,"salicifolia",var.,"denticulata","Borbás",Synonym,,L,TICA,C5CBA8E0-EC8C-4EF2-A0A5-8283EED27195,,"""Borbás, Budap. Körn. Növén. 1879.""","","33","1879",gcc-4855
+gcc-150690,A,Compositae,,Inula,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,C7990771-197D-47CF-9C11-7449C27CD27D,,"","","","",gcc-115854
+gcc-13592,A,Compositae,,Inula,,"salicina",,"","Bunge",Unresolved,,L,TICA,E3A95B89-2E33-4570-AE9F-1949D7181B8F,226090-1,"Enum. Pl. Chin. Bor. 39. n. 214. 1833 [Mar 1833]","","39. n. 214","1833",
+gcc-4252,A,Compositae,,Inula,,"salicina",,"","L.",Accepted,,M,TICA,B73B7F2C-BA01-4610-8895-07E4DCA1F8A8,,"","","","1753",
+gcc-51134,A,Compositae,,Inula,,"salicina",,"","C.B.Clarke",Unresolved,,L,TICA,27EC7030-B15F-4095-A20F-5EDC09880CF1,226091-1,"Comp. Ind. 123.","","123","",
+gcc-86602,A,Compositae,,Inula,,"salicina",,"","Pall.",Unresolved,,L,TICA,402ADA21-A147-446C-B553-7B45E521B272,,"Ind. Taur. [57]; ex Bieb. Fl. Taur.-Cauc. ii. 320.","","[57]","",
+gcc-70606,A,Compositae,,Inula,,"salicina",subsp.,"asiatica","(Kitam.) Kitag.",Synonym,,L,TICA,0FD10D05-2F65-4A11-B6FA-EF53F2EFF6AC,,"Lineamenta Florae Manshuricae","","253","1939",gcc-4252
+gcc-19982,A,Compositae,,Inula,,"salicina",subsp.,"aspera","(Poir.) Hayek",Synonym,,L,TICA,06EE396F-6F89-45E3-983B-24F0621EBB51,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","602","1931",gcc-46386
+gcc-45160,A,Compositae,,Inula,,"salicina",subsp.,"aspera","(Poir.) Jáv.",Synonym,,L,TICA,AF2BC5D5-BBED-41CA-82B4-53B77CD6D56D,,"","","","",gcc-46386
+gcc-65502,A,Compositae,,Inula,,"salicina",var.,"aspera","(Poir.) Beck",Synonym,,L,TICA,B40E7C61-8405-4336-B4DA-C73CCE9739F1,,"","","","",gcc-46386
+gcc-56941,A,Compositae,,Inula,,"salicina",subsp.,"denticulata","(Borbás) Soó",Synonym,,L,TICA,69677D10-DF7C-4C81-8C50-825638814D7B,877493-1,"","","173","1972",gcc-4855
+gcc-70293,A,Compositae,,Inula,,"salicina",subsp.,"sabuletorum","(Lavrenko) Soják",Synonym,,L,TICA,B549E73A-5957-40F8-9DD0-ECEEFC7B3129,,"","","131","1972",gcc-4855
+gcc-152065,A,Compositae,,Inula,,"salicina",subsp.,"salicina","",Synonym,,L,TICA,E34C539B-23E6-4CEB-A332-91D9459911EE,,"","","","",gcc-4252
+gcc-152367,A,Compositae,,Inula,,"salicina",var.,"salicina","",Synonym,,L,TICA,711BEC78-2CFE-4711-B2A3-9806B6EB428B,,"","","","",gcc-4252
+gcc-97873,A,Compositae,,Inula,,"salsoloides",,"","(Turcz.) Ostenf.",Accepted,,M,TICA,39BDFA89-9A10-4C74-B4EA-94D80F1A7220,226093-1,"""in Hedin, S. Tibet, vi. IIl. 39 (1922)""","","39","1922",
+gcc-45439,A,Compositae,,Inula,,"salviodora",,"","(Zoll. & Mor.) Sch.Bip.",Synonym,,L,TICA,A3C9D204-A740-48BC-AB82-5430CCBE3A15,226094-1,"","","122","1854",gcc-7323
+gcc-132097,A,Compositae,,Inula,,"sarana",,"","Boiss.",Unresolved,,L,TICA,D57EFFF9-BE6F-4219-AE05-E27495E38002,226095-1,"","","199","1875",
+gcc-109106,A,Compositae,,Inula,,"saturejae",,"","Spreng.",Unresolved,,L,TICA,29C6812C-AD88-49F4-B1EC-ADE209A18B67,226096-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 520","","520","1826",
+gcc-123512,A,Compositae,,Inula,,"saturejaoides",,"","Mill.",Synonym,,M,TICA,0D38C4BE-32D3-4E45-B3B2-CE82D40F483C,,"","","","1768",gcc-48631
+gcc-135909,A,Compositae,,Inula,,"savii",,"","Beck",Unresolved,,L,TICA,645173C7-C2D3-4654-85CB-EAFA476F187F,226098-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 306.""","","xliv.  306","1882",
+gcc-130993,A,Compositae,,Inula,,"saxatilis",,"","Lam.",Synonym,,M,TICA,7B262BAF-2A5C-4099-AB46-DFD78C7AF036,,"","","","1779",gcc-136446
+gcc-19826,A,Compositae,,Inula,,"saxatilis",,"","Formánek",Unresolved,,L,TICA,63749183-1CC9-4802-911F-24ADC51EB707,226100-1,"in Sitz. Bohm. Ges. Wiss. xxvii. 194.","","194","",
+gcc-112003,A,Compositae,,Inula,,"scaberrima",,"","Rohlena",Unresolved,,L,TICA,F0942E71-16F3-4CEA-A1AE-B46946493855,,"""Magyar Bot. Lapok iii. 321 (1905), pro var. L squarrosae, Linn.""","","321","",
+gcc-87272,A,Compositae,,Inula,,"scaberrima",,"","(Rohlena) A.W.Hill",Unresolved,,L,TICA,DCD7DC17-2AE6-49C1-92CE-7CE7B91BA9CB,941775-1,"""in Index Kewensis, Supp. 6: 107 (1916–1920 publ. 1926):.""","","107","1926",
+gcc-100436,A,Compositae,,Inula,,"scabra",,"","Pursh",Synonym,Illegitimate,M,TICA,43DE7F45-847B-49A4-8A28-9AA05C438A85,,"Fl. Amer. Sept. (Pursh) 2: 531. 1813 [dt. 1813; publ. Dec 1813]","","","",gcc-102470
+gcc-86063,A,Compositae,,Inula,,"scabra",,"","Wall. ex DC.",Unresolved,Invalid,L,TICA,56C3F61E-1B3C-4147-8977-7A189FC69832,226102-1,"Prodr. (DC.) 5: 474","","474","1836",
+gcc-18861,A,Compositae,,Inula,,"scabridula",,"","Formánek",Unresolved,,L,TICA,DD2061C8-9D50-41AC-972B-22D1E4B48665,226104-1,"in Verh. naturf. Ver. Brunn. xxx. (1892) 59.","","xxx.  59.","1892",
+gcc-5294,A,Compositae,,Inula,,"schischkinii",,"","Gorschk.",Accepted,,M,TICA,5BEF4B71-7366-464E-A021-09E0E76D4B5B,226105-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xvii. 400 (1955).""","","400","1955",
+gcc-90521,A,Compositae,,Inula,,"schizogyne",,"","Masf.",Synonym,,M,TICA,09660AFE-0DEA-45C3-940A-843898E0EECB,,"","","","1881",gcc-122026
+gcc-122062,A,Compositae,,Inula,,"schmalhausenii",,"","C.Winkl.",Accepted,,M,TICA,73386DF7-65D5-4712-82D6-CB2B6F32A59D,226107-1,"","","420","1886",
+gcc-43154,A,Compositae,,Inula,,"schugnanica",,"","Krasch.",Unresolved,,L,TICA,B35768BF-10E1-4CCC-A6D4-4FF4CBE833B6,226109-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 154 (1946).""","","ix. 154","1946",
+gcc-89160,A,Compositae,,Inula,,"schugnanica",,"","C.Winkl.",Synonym,,M,TICA,4BEF145D-97A6-4CF0-920D-8113A60060B4,,"Act. Hort. Petrop. xi. (1890) 276.","","276","1892",gcc-97873
+gcc-113598,A,Compositae,,Inula,,"sechmenii",,"","Hartvig & Strid",Unresolved,,L,TICA,F3F58B4B-DF95-4484-952B-B7F4B1304BF1,,"","","307","1987",
+gcc-97855,A,Compositae,,Inula,,"seidlitzii",,"","Boiss.",Synonym,,M,TICA,529323FF-7864-4AA3-9C5F-94D03463AA28,226110-1,"","","189","1875",gcc-7249
+gcc-27255,A,Compositae,,Inula,,"semiamplexicaulis",,"","Reut.",Unresolved,,L,TICA,EEE94981-811D-4E17-BE78-326857A2EA30,,"in Mem. Soc. Phys. Genev. vii. (1836) 169","","169","",
+gcc-87293,A,Compositae,,Inula,,"semicordata",,"","Borbás",Unresolved,,L,TICA,FAB6A88A-BC9E-4E52-AD6E-7CF16CD40A4C,226112-1,"cf. Oesterr. Bot. Z. 29: 410","","410","1879",
+gcc-102238,A,Compositae,,Inula,,"semihirta",,"","Borbás",Unresolved,,L,TICA,CF4C2D76-F9AD-4DC7-9DA3-9E9D1A469915,226113-1,"cf. Oesterr. Bot. Z. 29: 410","","410","1879",
+gcc-25483,A,Compositae,,Inula,,"sennenii",,"","Pau",Synonym,,M,TICA,D66193F0-155A-43B1-97C5-2F0CE9D7F185,,"","","","1907",gcc-88279
+gcc-115809,A,Compositae,,Inula,×,"sericata",,"","Beck",Unresolved,,L,TICA,B3E9EABA-1DFC-4A69-8F6F-BD079776954B,226115-1,"Fl. Nied. Oest. ii. I I. (1893) 1182.","","ii. I I.  1182","1893",
+gcc-81905,A,Compositae,,Inula,,"sericea",,"","Kit. ex Kanitz",Unresolved,,L,TICA,737CCFA9-37AB-42D7-B185-70D6E84B3A7C,,"""Verh. Zool.-Bot. Ges. Wien xiii. (1863) 523; St. Lag. in Ann. Soc. Bot.Lyon, vii. (1880) 128""","","128","",
+gcc-30317,A,Compositae,,Inula,,"sericeo-villosa",,"","Rech.f.",Accepted,,M,TICA,2DF73606-A9B3-4DB6-B8CA-3819265F0C92,226117-1,"""in Fl. Iran., 145: 88 (1980).""","","88","1980",
+gcc-98192,A,Compositae,,Inula,,"sericophylla",,"","Franch.",Accepted,,M,TICA,B5A864B1-25C0-48E7-9B5F-958CAC8C45EE,226118-1,"""in Journ. de Bot. 1896, 383.""","","","1896",
+gcc-20568,A,Compositae,,Inula,,"serpentinica",,"","Rech.f. & Goulimy",Unresolved,,L,TICA,8BACDEB4-3104-46AE-8812-261044EB911E,,"","","","1957",
+gcc-22083,A,Compositae,,Inula,,"serrata",,"","Bureau & Franch.",Synonym,Illegitimate,M,TICA,172C9BDC-CEB3-4148-9BE2-28D735F3FDE4,,"""in Morot,.Journ. de Bot. v. (1891) 50.""","","","1891",gcc-129280
+gcc-27808,A,Compositae,,Inula,,"serrata",,"","Gilib.",Synonym,,M,TICA,AEF25F6D-05EC-4DE3-8822-3364DBB9056F,,"Fl. Lit. Inch. i. 207. 1782","","","",gcc-9960
+gcc-7336,A,Compositae,,Inula,,"serrata",,"","Pers.",Unresolved,,L,TICA,A6446128-D8F9-4886-AA33-0DA6662BA186,226121-1,"Syn. Pl. (Persoon) 2(2): 450","","450","1807",
+gcc-128291,A,Compositae,,Inula,,"serratuloides",,"","(Gilli) Grierson",Accepted,,M,TICA,9656622D-0BF2-4C1C-AFC0-D9AE4A728791,226123-1,"Notes Roy. Bot. Gard. Edinburgh 33(2): 250","","250","1974",
+gcc-134135,A,Compositae,,Inula,,"setigera",,"","Beck.",Unresolved,,L,TICA,6CEDCC75-8C5A-41AE-9A98-E7182A0C8E75,226124-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. xliv. (1882) 331.""","","xliv.  331","1882",
+gcc-89461,A,Compositae,,Inula,,"shirensis",,"","Oliv.",Accepted,,M,TICA,899813A4-D261-4E8D-8260-81C2E2CB72A3,,"Hook. Ic. Pl. t. 1399.","","","1882",
+gcc-93794,A,Compositae,,Inula,,"sicula",,"","(L.) Bonnier & Layens",Synonym,,M,TICA,65A626B2-64D5-4FF0-94A1-8B7609801983,,"","","","1894",gcc-82774
+gcc-115837,A,Compositae,,Inula,,"simmonsii",,"","C.B.Clarke",Unresolved,,L,TICA,31949C11-378F-43AB-AA6C-BD191EC1628A,,"Comp. Ind. 121.","","","",gcc-34240
+gcc-16367,A,Compositae,,Inula,,"simonkaiana",,"","Zsák",Unresolved,,L,TICA,2A38F0FD-1A9A-4DBB-B2DD-1E418FF43BD6,226127-1,"""in Bot. Kozl. 1922, xx. 47 (1923), hybr.""","","""xx. 47 (1923), hybr.""","1922",
+gcc-148806,A,Compositae,,Inula,,"simonsii",,"","C.B.Clarke",Accepted,,M,TICA,AE70EA65-3AB3-47A2-AD43-4B24F1A286A7,226128-1,"Compos. Ind. 121. 1876","","121","1876",
+gcc-84,A,Compositae,,Inula,,"somalensis",,"","Vatke",Accepted,,M,TICA,3A3E081D-E4BF-4BB0-8DD9-002D4250B57A,226129-1,"Oesterr. Bot. Z. 25: 326","","326","1875",
+gcc-42072,A,Compositae,,Inula,,"sophiae",,"","Beauverd",Synonym,,M,TICA,1D49C3F0-B734-4E5F-9079-4DF090A360EB,,"","","","1937",gcc-139120
+gcc-3622,A,Compositae,,Inula,,"spathulata",,"","hort.par. ex Poir.",Unresolved,,L,TICA,0A477567-8056-4B90-8765-06B04768D2A6,226131-1,"Encycl. (Lamarck) Suppl. 3. 154","","154","1813",
+gcc-13768,A,Compositae,,Inula,,"speciosa",,"","(DC.) O.Hoffm.",Accepted,,M,TICA,62310916-91A8-44F2-B6C2-199B4472D079,,"Engl. & Prantl. Naturl. Pflanzenfam. iv. 5 (1890) 203.","","","1890",
+gcc-144146,A,Compositae,,Inula,,"spiraeifolia",,"","L.",Accepted,,M,TICA,1C1CD445-CFE9-4C0F-A1BB-FD70ADC55DA7,226134-1,"","","1219","1759",
+gcc-77837,A,Compositae,,Inula,,"spiraeifolia",,"","K.Koch ex Boiss.",Unresolved,,L,TICA,F8FD88DB-D05B-4056-9B9B-67C05A4B7EE2,226133-1,"Fl. Orient. [Boissier] 3: 188","","188","1875",
+gcc-33194,A,Compositae,,Inula,,"spuria",,"","Kern.",Unresolved,,L,TICA,E82B81D1-7457-40E7-9976-3D8F5AC17640,226135-1,"Oesterr. Bot. Z. 21: 60","","60","1871",
+gcc-105431,A,Compositae,,Inula,,"squarrosa",,"","Krock.",Unresolved,,L,TICA,102A5758-630B-4A5F-B75E-A58F2AF78B50,226137-1,"Fl. Siles. ii. II. 442.","","ii. II. 442","",
+gcc-115222,A,Compositae,,Inula,,"squarrosa",,"","(L.) Bernh.",Synonym,,M,TICA,94979809-6426-4D0C-B554-BBA7B1753BB8,,"Bernh.. 1800.","","148","1800",gcc-87765
+gcc-115655,A,Compositae,,Inula,,"squarrosa",,"","Bernh. ex DC.",Unresolved,,L,TICA,B8925F25-72F9-415B-BE4D-BCB086FBB371,226139-1,"Prodr. (DC.) 5: 464","","464","1836",
+gcc-127525,A,Compositae,,Inula,,"squarrosa",,"","L.",Synonym,,M,TICA,03CEAE98-5872-4386-8F12-D7D985A13F37,226138-1,"","","1240","1763",gcc-144146
+gcc-133936,A,Compositae,,Inula,,"squarrosa",,"","Griseb.",Unresolved,,L,TICA,A490441A-5789-4CF2-B827-E6AA602C36B7,226136-1,"""in Wiegm. Archiv, xviii. (1852) 337.""","","xviii.  337","1852",
+gcc-118373,A,Compositae,,Inula,,"stenocalathia",,"","(Rech.f.) Soldano",Accepted,,M,TICA,D09F0341-AEF5-41D3-83E7-C2CAE23E5945,1003045-1,"""in Compositae Newsl., 32: 19 (1998):.""","","19","1998",
+gcc-108547,A,Compositae,,Inula,,"stenophylla",,"","Sennen & Pau",Unresolved,,L,TICA,3B931ABB-A476-4AAD-915A-AC87FDC68738,226140-1,"""in Bol. Soc. Arag. vi. 26 (1907),.""","","""vi. 26 ,""","1907",
+gcc-105350,A,Compositae,,Inula,,"stewartii",,"","Abid & Qaiser",Unresolved,,L,TICA,E8C5DA43-F52B-4FF6-88E0-A5676F308786,,"Candollea 56(2): 319 (2002).","","","2002",
+gcc-21969,A,Compositae,,Inula,,"stoliczkai",,"","C.B.Clarke",Synonym,,M,TICA,F35A03DD-6B0D-446A-960F-28A2A53B7332,226141-1,"Comp. Ind. 118.","","118","1876",gcc-83563
+gcc-88785,A,Compositae,,Inula,,"stolonifera",,"","J.Gay ex DC.",Unresolved,,L,TICA,3068F58E-2B8F-47A8-9704-803E4D9D252B,226142-1,"Prodr. (DC.) 5: 349","","349","1836",
+gcc-136881,A,Compositae,,Inula,,"stolzii",,"","Mattf.",Accepted,,M,TICA,FE3E1AA2-CCE9-4FD4-AAEE-ED397433D754,,"""Bot. Jahrb. Syst. lix. Beibl. 133, 18 (1924).""","","","1924",
+gcc-143878,A,Compositae,,Inula,,"stricta",,"","Tausch",Unresolved,,L,TICA,522E10A8-1E54-4F7E-88F0-FCDB6009CC12,,"in Syll. Ratisb. ii. (1828) 253.","","","1828",
+gcc-103255,A,Compositae,,Inula,,"stuhlmannii",,"","O.Hoffm.",Accepted,,M,TICA,992A0103-6300-41BD-BD8F-A0DC7DA09651,,"Bot. Jahrb. Syst. xxiv. 472.","","","1898",
+gcc-100536,A,Compositae,,Inula,,"suaveolens",,"","Jacq.",Unresolved,,L,TICA,78015AD3-C4D6-4230-9663-9AD4DE8120D7,226147-1,"Hort. Vindob. iii. 29. t. 51.","","iii. 29. t. 51.","",
+gcc-128042,A,Compositae,,Inula,,"suaveolens",,"","Pall. ex M.Bieb.",Unresolved,,L,TICA,551879F5-9D6E-4F6F-A5C8-D913BF25F7A1,226146-1,"Fl. Taur.-Caucas. ii. 317.","","ii. 317","",
+gcc-142197,A,Compositae,,Inula,,"subauriculata",,"","Schur",Unresolved,,L,TICA,709A0FCE-80E2-48BB-A1C0-F922231E6E6F,226148-1,"""in Verh. Naturf. Ver. Brunn, xxxvi. 161.""","","xxxvi. 161.","",
+gcc-33293,A,Compositae,,Inula,,"subaxillaris",,"","Lam.",Synonym,,M,TICA,B0965508-C798-4003-B61F-3DBA4D1E1F70,226149-1,"","","259","1789",gcc-102470
+gcc-101209,A,Compositae,,Inula,,"subfloccosa",,"","Rech.f.",Unresolved,,L,TICA,F0A18298-A03D-41C2-97B7-9C5321D7555E,,"""Bot. Jahrb. Syst. lxxx. 413 (1961), descr. ampl.""","","","1956",
+gcc-9729,A,Compositae,,Inula,,"subscaposa",,"","S.Moore",Synonym,,M,TICA,ACE99AE1-98C2-47C4-B384-122EC2C1D772,226152-1,"""J. Linn. Soc., Bot. xxxv. 341.""","","341","1902",gcc-2574
+gcc-106710,A,Compositae,,Inula,,"subulata",,"","Baker",Unresolved,,L,TICA,A1126900-F448-46DD-9C24-A86F83F58E9A,226153-1,"Bull. Misc. Inform. Kew (1894) 333.","","333","",
+gcc-26495,A,Compositae,,Inula,,"taiwanensis",,"","S.S.Ying",Unresolved,,L,TICA,1A1AF88D-922C-4660-AA72-30F46BD2CCBF,985782-1,"""in Mem. Coll. Agric. Nation. Taiwan Univ., 29(1): 78 (1989)""","","78","1989",
+gcc-42702,A,Compositae,,Inula,,"taquetii",,"","H.Lév.",Unresolved,,L,TICA,85F99694-D585-4358-8846-4F18A56C0A0D,226154-1,"Repert. Spec. Nov. Regni Veg. 10: 351","","351","1912",
+gcc-88963,A,Compositae,,Inula,,"telekia",,"","E.H.L.Krause",Unresolved,,L,TICA,9D79FE0F-CBDD-4DD5-AE97-809A0D35E9A8,226155-1,"""in Sturm, Fl. Deutschland, ed. 2, xiii. 110 (1905).""","","""2, xiii. 110""","1905",
+gcc-106778,A,Compositae,,Inula,,"thapsoides",,"","(Willd.) Spreng.",Accepted,,M,TICA,779CB4D3-396D-4560-AEDA-A899D5E7D920,,"","","","1810",
+gcc-21536,A,Compositae,,Inula,,"thapsoides",,"","Boiss.",Unresolved,,L,TICA,0BD88218-88D6-4EE5-B093-27CFA535EF2E,226157-1,"Fl. Orient. [Boissier] 3: 190","","190","1875",
+gcc-156219,A,Compositae,,Inula,,"thapsoides",subsp.,"thapsoides","",Synonym,,L,TICA,DB9CEB80-0BBE-4053-9183-E8DA15FF452E,,"","","","",gcc-106778
+gcc-68802,A,Compositae,,Inula,,"thapsoides",subsp.,"urumoffii","(Degen) Hayek",Synonym,,L,TICA,1B052D3D-FF0B-465B-BE04-E1866FBB6AD0,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","605","1931",gcc-44992
+gcc-52602,A,Compositae,,Inula,,"thomsonii",,"","C.B.Clarke",Synonym,,M,TICA,6B9744B3-87D9-458B-9FD0-618089BE1F13,226158-1,"Comp. Ind. 120.","","120","1876",gcc-76100
+gcc-32919,A,Compositae,,Inula,,"tomentosa",,"","Sessé & Moc.",Unresolved,,L,TICA,37E49A9A-EB32-4A2B-9ABB-3D0F97D98617,,"","","","1890",
+gcc-89736,A,Compositae,,Inula,,"transsilvanica",,"","Schur",Unresolved,,L,TICA,46B4EA01-8957-464E-B662-82659DB1B507,226160-1,"Enum. Pl. Transsilv. 312. 1866 [Apr-Jun 1866]","","312","1866",
+gcc-100867,A,Compositae,,Inula,,"trichophylla",,"","Nutt.",Synonym,,M,TICA,0771AA29-DB0D-43D3-87CA-9B94D3C21313,,"","","","1818",gcc-11612
+gcc-82466,A,Compositae,,Inula,,"trixis",,"","L.",Synonym,,M,TICA,0CFC1749-6C8B-4923-9976-722495434CEE,226162-1,"","","1219","1759",gcc-120610
+gcc-48421,A,Compositae,,Inula,,"tuberosa",,"","Lam.",Unresolved,,L,TICA,AB6DC3A6-DA07-46DF-A96B-59B5291CA6F2,226163-1,"Encycl. (Lamarck) 3(1): 260","","260","1789",
+gcc-99936,A,Compositae,,Inula,,"turolensis",,"","Pau",Unresolved,,L,TICA,67596A5E-CA1A-43A5-B72F-997C0C60EB6D,226164-1,"""in Bull. Geogr. Bot. 1906, xvi. No. 206 (Decemb.) 77, hybr.""","","""xvi. No. 206 (Decemb.) 77, hybr.""","1906",
+gcc-98447,A,Compositae,,Inula,,"tymiensis",,"","Kudô",Synonym,Illegitimate,M,TICA,4CBD321A-4D53-4F83-8000-962B4BEE9E90,,"""in Journ. Col. Agric. Sapporo, xii. 58 (1923), in syn.""","","","1923",gcc-9960
+gcc-131366,A,Compositae,,Inula,,"uliginosa",,"","Sibth. ex Sm.",Unresolved,,L,TICA,A67050E8-A1C5-4C12-8638-E0B7D6020DB3,226166-1,"Fl. Brit. 892.","","892","",
+gcc-17898,A,Compositae,,Inula,,"uliginosa",,"","Sibth.",Unresolved,,L,TICA,FF1D9780-EFE5-4A94-AE66-2111417B5670,226167-1,"Fl. Oxon. 256 (1794).","","256","1794",
+gcc-95924,A,Compositae,,Inula,,"undulata",,"","L.",Synonym,,M,TICA,16BFDFF5-C4CB-458C-8CC9-90738DCDA998,226168-1,"","","115","1767",gcc-93372
+gcc-123240,A,Compositae,,Inula,,"uniflora",,"","Gilib.",Unresolved,,L,TICA,8F34CC30-D81D-4205-8072-CDD732BF37A7,226169-1,"Hist. Pl. Europ. ii. 247.","","ii. 247.","",
+gcc-44992,A,Compositae,,Inula,,"urumoffii",,"","Degen",Accepted,,M,TICA,42587D37-36BD-4D01-B156-535C0737AD16,,"","","","1912",
+gcc-125786,A,Compositae,,Inula,,"vaillantii",,"","Schur ex Nyman",Unresolved,,L,TICA,96232231-C8FD-43F2-8750-D3D63572878E,,"Consp. 393.","","393","",
+gcc-130154,A,Compositae,,Inula,,"vaillantii",,"","(All.) Vill.",Synonym,,L,TICA,F07F075E-8454-4EA1-9378-DDE37244D7D3,226171-1,"","","216","1788",gcc-77144
+gcc-156595,A,Compositae,,Inula,,"vaillantii",var.,"vaillantii","",Synonym,,L,TICA,64B98BA7-EAEA-4C60-AD17-F095885F25A3,,"","","","",gcc-77144
+gcc-79252,A,Compositae,,Inula,,"valiensis",,"","Tausch ex Beck",Unresolved,,L,TICA,4FD6FB31-DDA0-49DE-B1BB-6B037D47E77F,,"","","","",
+gcc-120413,A,Compositae,,Inula,,"venosa",,"","Hand.-Mazz.",Synonym,,M,TICA,460B7F3E-BC1A-466D-8F8B-C77BE2413CB8,,"Symbolae Sinicae 7:","","1107","1936",gcc-121748
+gcc-122903,A,Compositae,,Inula,,"verbascifolia",,"","(Willd.) Hausskn.",Accepted,,M,TICA,9E3CCE33-4F16-4D2B-B5B3-CD1667EBAD5F,226176-1,"","","32","1895",
+gcc-36383,A,Compositae,,Inula,,"verbascifolia",,"","Poir.",Unresolved,Illegitimate,L,TICA,7C944B77-F774-4BCA-8056-437E344D5C71,226175-1,"Encycl. (Lamarck) Suppl. 3. 154","","154","1813",
+gcc-53671,A,Compositae,,Inula,,"verbascifolia",subsp.,"aschersoniana","(Janka) Tutin",Synonym,,L,TICA,A20342C3-FE03-4FDA-846E-6804506EBF86,877496-1,"","","283","1973",gcc-122503
+gcc-69892,A,Compositae,,Inula,,"verbascifolia",subsp.,"heterolepis","(Boiss.) Tutin",Synonym,,L,TICA,754436C0-B1B6-40DE-9674-E9ED08FBF109,877497-1,"","","283","1973",gcc-48858
+gcc-48438,A,Compositae,,Inula,,"verbascifolia",subsp.,"methanaea","(Hausskn.) Tutin",Synonym,,L,TICA,BC06AE51-1406-4AED-A818-59BAA525C874,877498-1,"","","282","1973",gcc-6084
+gcc-48450,A,Compositae,,Inula,,"vernoniiformis",,"","H.Lév.",Synonym,,M,TICA,38D98E01-A120-4E95-A2CE-59BE2407FBFC,226177-1,"Repert. Spec. Nov. Regni Veg. 12: 535","","535","1913",gcc-28204
+gcc-13957,A,Compositae,,Inula,,"vernonioides",,"","O.Hoffm.",Accepted,,M,TICA,FDCA1095-03AF-4AB3-BB48-19E96545F5E0,226178-1,"Bot. Jahrb. Syst. xxiv. 473.","","xxiv. 473.","",
+gcc-134265,A,Compositae,,Inula,,"verrucosa",,"","Klatt",Accepted,,M,TICA,71195943-2D4B-4755-91DC-E76321A03FFE,226179-1,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München (1878) 86","","86","",
+gcc-116500,A,Compositae,,Inula,,"vestita",,"","Wall. ex DC.",Synonym,,M,TICA,F17EE46C-8A5C-43A7-B7D5-BE8B9E01CFEA,,"Prodr. (DC.) 5: 470","","","1836",gcc-147754
+gcc-134104,A,Compositae,,Inula,,"vestita",,"","Wall.",Unresolved,,L,TICA,AC774AE3-A688-4015-B651-E70814F25BE1,,"Numer. List [Wallich] n. 2962","","2962","",
+gcc-35608,A,Compositae,,Inula,,"villosa",,"","Spreng.",Unresolved,,L,TICA,DE54D7C2-F5DC-42B1-864B-4206F07D5DB9,,"Syst. Veg. (ed. 16) [Sprengel] 3: 523","","523","1826",
+gcc-82384,A,Compositae,,Inula,,"villosa",,"","L.",Unresolved,,L,TICA,92B4DAB7-BF51-4578-B662-71F3016CAD7A,226182-1,"""Syst. Nat., ed. 10. 2: 1219. 1759""","","1219","1759",
+gcc-96840,A,Compositae,,Inula,,"villosa",,"","(Pursh) Nutt.",Synonym,Illegitimate,M,TICA,E7241B50-AB6F-4FBF-85EE-927509D68DAA,1041515-2,"Gen. N. Amer. Pl. [Nuttall] 2: 151. 1818","","151","1818",gcc-91042
+gcc-96984,A,Compositae,,Inula,,"villosa",,"","Vahl ex Hornem.",Synonym,Illegitimate,M,TICA,9A9ED9F4-C527-4CC7-A337-92CD1A825CA7,226184-1,"Hort. Bot. Hafn. 2: 822. 1815","","822","1815",gcc-83211
+gcc-98157,A,Compositae,,Inula,×,"vindobonensis",,"","Beck.",Unresolved,,L,TICA,C75F3138-55F9-49F0-93BF-957A1AB09B60,226185-1,"Fl. Nied. Oest. ii. II. (1893) 1185.","","ii. II.  1185","1893",
+gcc-76403,A,Compositae,,Inula,,"viscidula",,"","Boiss. & Kotschy",Accepted,,M,TICA,38660678-B099-4ACB-B74D-649E27A104DF,226186-1,"","","188","1875",
+gcc-8540,A,Compositae,,Inula,,"viscosa",,"","(L.) Aiton",Synonym,,M,TICA,BC73FB64-9533-45A4-BA85-0FF0730D9D90,226187-1,"","","223","1789",gcc-16305
+gcc-69406,A,Compositae,,Inula,,"viscosa",var.,"angustifolia","Bég.",Synonym,,L,TICA,8B985573-3BE6-4319-BD05-E606329BAF29,50426469-2,"Boll. Soc. Bot. Ital. 1912: 222 (1912).","","222","1912",gcc-61190
+gcc-54624,A,Compositae,,Inula,,"viscosa",var.,"mideltiana","Batt.",Synonym,,L,TICA,93FE2E54-B37C-4890-ABA9-6F88439ACCEC,,"","","","",gcc-16305
+gcc-155728,A,Compositae,,Inula,,"viscosa",subsp.,"viscosa","",Synonym,,L,TICA,31993189-4B0D-451F-9F8E-DE9730883A36,,"","","","",gcc-16305
+gcc-155991,A,Compositae,,Inula,,"viscosa",var.,"viscosa","",Synonym,,L,TICA,892D5554-962A-4F2B-9E65-E44CF291C279,,"","","","",gcc-16305
+gcc-84676,A,Compositae,,Inula,,"visianii",,"","Rouy",Unresolved,,L,TICA,42D5B24E-B617-4ECE-AC8D-7708EB8030F2,226188-1,"""Fl. France (Rouy) 8: 202, in adnot.""","","202","1903",
+gcc-24394,A,Compositae,,Inula,,"vorossii",,"","Pénzes",Unresolved,,L,TICA,48F27022-B4C1-46F8-AD5B-2D0F7ED4CBD6,226189-1,"""in Ann. Hist.-Nat. Mus. Nat. Hungar., Bot. lvii. 175 (1965).""","","lvii. 175","1965",
+gcc-29924,A,Compositae,,Inula,,"vrabelyiana",,"","Kern.",Unresolved,,L,TICA,F76937CC-C29E-4046-ACAB-3756E99B8415,226190-1,"Oesterr. Bot. Z. 18: 297","","297","1868",
+gcc-76464,A,Compositae,,Inula,,"vulgaris",,"","(Lam.) Trevis.",Synonym,,M,TICA,80FE1CA7-A76F-402C-B0B4-64C33A390686,226191-1,"Prosp. Fl. Eugan.","","29","1842",gcc-87765
+gcc-96663,A,Compositae,,Inula,,"vulgaris",,"","Williams",Unresolved,,L,TICA,5428C732-E8CA-4C9C-998D-921A78D83080,226192-1,"Prodr. Fl. Brit. 14.","","14","",
+gcc-131562,A,Compositae,,Inula,,"wardii",,"","J.Anthony",Unresolved,,L,TICA,CA432AA2-ECCD-4BD3-A865-E130A97AC2C3,226193-1,"Notes Roy. Bot. Gard. Edinburgh 18: 197","","","1934",gcc-2217
+gcc-48686,A,Compositae,,Inula,×,"weberi",,"","Domin",Unresolved,,L,TICA,4A9021CD-B7BD-4D95-8689-5A34BC67AB0F,226194-1,"in Preslia xiii-xv. 228 (1935).","","xiii-xv. 228","1935",
+gcc-117016,A,Compositae,,Inula,,"welwitschii",,"","O.Hoffm.",Accepted,,M,TICA,2C031930-0D8F-4B20-9181-BFB48CC7D38F,226195-1,"in Bot. Soc. Broter. xiii. 25.","","xiii. 25.","",
+gcc-136638,A,Compositae,,Inula,,"wissmanniana",,"","Hand.-Mazz.",Accepted,,M,TICA,C34D7643-58D1-426E-ABC7-ECAAA8DD71EF,226196-1,"Oesterr. Bot. Z. 87: 127","","127","1938",
+gcc-157252,A,Compositae,,Inula,,"wissmanniana",f.,"wissmanniana","",Synonym,,L,TICA,B64A8B56-03A9-405B-8882-FE1F619DA74D,,"","","","",gcc-136638
+gcc-34849,A,Compositae,,Inula,,"yosezatoana",,"","Makino",Synonym,,M,TICA,48A02449-4644-43C3-B8FA-409C0EC0D4DC,,"""Ill. Fl. Jap. Suppl.: 1096, t. 3275 (1955)""","","""1096, t. 3275""","1955",gcc-119061
+gcc-87490,A,Compositae,,Inula,,"yunnanensis",,"","Anthony",Synonym,,M,TICA,0622A665-5294-42FF-92DC-7D685D6A7309,226197-1,"Notes Roy. Bot. Gard. Edinburgh 18: 198","","198","1934",gcc-139237

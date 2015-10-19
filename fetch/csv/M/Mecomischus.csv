@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116487,A,Compositae,,Mecomischus,,"geslini",,"","Coss. ex Benth. & Hook.f.",Unresolved,,L,TICA,46DA9941-CF4D-45FC-933C-BE82331420BA,,"Gen. ii. 418.","","418","",
+gcc-28567,A,Compositae,,Mecomischus,,"geslinii",,"","(Coss. & Durieu) B. D. Jackson",Synonym,,M,TICA,A535120D-8DD6-42C4-8879-34CB80E8D7A7,,"B. D. Jackson. 1894.","","182","1894",gcc-133129
+gcc-133129,A,Compositae,,Mecomischus,,"halimifolius",,"","(Munby) Hochr.",Accepted,,M,TICA,413FA2B6-3488-4F30-B81F-E4CE8481DF57,,"","","","1904",
+gcc-156223,A,Compositae,,Mecomischus,,"halimifolius",var.,"halimifolius","",Synonym,,L,TICA,441B05FC-E9B1-43BB-9AB2-E8E30EB74599,,"","","","",gcc-133129
+gcc-68901,A,Compositae,,Mecomischus,,"halimifolius",var.,"latifolius","Maire",Synonym,,L,TICA,F5FA9962-BA45-4BE6-A492-E24650578EED,,"","","","",gcc-133129
+gcc-130427,A,Compositae,,Mecomischus,,"pedunculatus",,"","(Coss. & Durieu) Coss. ex Oberpr. & Greuter",Accepted,,M,TICA,00587843-223E-47BF-A910-DE88B18FCB15,70029015-1,"","","42","2003",

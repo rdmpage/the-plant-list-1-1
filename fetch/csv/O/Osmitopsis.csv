@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6289,A,Compositae,,Osmitopsis,,"afra",,"","(L.) K.Bremer",Accepted,,M,TICA,5F066132-68A5-435C-9AE7-0BB6D8759705,,"","","","1972",
+gcc-118690,A,Compositae,,Osmitopsis,,"asteriscoides",,"","Less.",Accepted,,M,TICA,9EF7EAC6-A65B-436F-B4FC-C385B89DF2D0,987322-1,"","","386","1832",
+tro-2720115,A,Compositae,,Osmitopsis,,"asteriscoides",,"","Cass.",Synonym,,M,TRO,2720115,,"","","","",gcc-118690
+gcc-116542,A,Compositae,,Osmitopsis,,"calva",,"","Gand.",Synonym,,M,TICA,FA88CB13-DE2C-49F0-9ABC-BEA6609B847C,235745-1,"Bull. Soc. Bot. France 65: 46","","46","1918",gcc-118690
+gcc-139416,A,Compositae,,Osmitopsis,,"camphorina",,"","Less.",Unresolved,,L,TICA,44BB0A2C-C61F-4603-BACB-F2B322610AD7,235746-1,"Syn. Gen. Compos. 387","","387","",
+gcc-24688,A,Compositae,,Osmitopsis,,"dentata",,"","(Thunb.) K.Bremer",Accepted,,M,TICA,E0C07A0B-8AAB-44D7-92CF-2D9A26710331,235747-1,"in Bot. Notiser. 125(1): 33 (1972).","","33","1972",
+gcc-16304,A,Compositae,,Osmitopsis,,"glabra",,"","K.Bremer",Accepted,,M,TICA,EBC0828B-178A-414C-9604-1E2546F262FE,235748-1,"Bot. Not. 129(1): 22 (1976).","","22","1976",
+gcc-8516,A,Compositae,,Osmitopsis,,"nana",,"","Schltr.",Accepted,,M,TICA,6AD57B07-0C63-4A50-96E3-0FE1F5CA8013,,"Bot. Jahrb. Syst. xxvii. 207.","","xxvii. 207.","",
+gcc-28942,A,Compositae,,Osmitopsis,,"osmitoides",,"","(Less.) K.Bremer",Accepted,,M,TICA,57BE6E08-FB01-4207-A1D3-3583F698C4E4,235750-1,"in Bot. Notiser. 125(1): 26 (1972).","","26","1972",
+gcc-102102,A,Compositae,,Osmitopsis,,"parvifolia",,"","(DC.) Hofmeyr",Accepted,,M,TICA,380CD2EE-EF41-445D-8F0B-9E4A79409CF4,235751-1,"""Bull. Misc. Inform. Kew 1925, 364""","","364","",
+gcc-112533,A,Compositae,,Osmitopsis,,"pinnatifida",,"","(DC.) K.Bremer",Accepted,,M,TICA,72817F1E-D480-45FF-B1BA-B5A36751B12B,235752-1,"Bot. Not. 125(1): 24 (1972).","","24","1972",
+gcc-30978,A,Compositae,,Osmitopsis,,"pinnatifida",subsp.,"angustifolia","(DC.) K.Bremer",Accepted,,L,TICA,B7939093-A0F7-4D1B-B8FC-395E27814E7B,877672-1,"in Bot. Notiser. 125(1): 26 (1972).","","26","1972",
+gcc-65690,A,Compositae,,Osmitopsis,,"pinnatifida",subsp.,"pinnatifida","",Synonym,,L,TICA,C548BE39-7836-4CFD-A0B5-C8CC21D3F4F7,,"","","","",gcc-112533
+gcc-99297,A,Compositae,,Osmitopsis,,"tenuis",,"","K.Bremer",Accepted,,M,TICA,13D55963-8BC7-4350-843E-980EE8FECF6F,235753-1,"in Bot. Notiser. 125(1): 37 (1972).","","37","1972",

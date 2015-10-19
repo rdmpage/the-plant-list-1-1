@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-96030,A,Compositae,,Coreocarpus,,"alexandrae",,"","Sherff",Synonym,,M,TICA,B87B2803-62F6-49E3-9CED-90AB916B6027,65733-2,"","","5","1950",gcc-34739
+gcc-4891,A,Compositae,,Coreocarpus,,"arizonicus",,"","(A.Gray) S.F.Blake",Accepted,,M,TICA,BD84A4D4-EA4A-4410-96F0-091B925A03BC,65734-2,"Proc. Amer. Acad. Arts 49","","344","1913",
+gcc-68198,A,Compositae,,Coreocarpus,,"arizonicus",var.,"arizonicus","",Synonym,,L,TICA,14DE9E17-DEAD-4B6C-8069-DD0B8F04EB08,,"","","","1913",gcc-4891
+gcc-20627,A,Compositae,,Coreocarpus,,"arizonicus",var.,"filiformis","(Greenm.) S.F.Blake",Accepted,,L,TICA,AA512F41-E3BE-4D4D-BB37-262CC450507B,65735-2,"Proc. Amer. Acad. Arts 49","","344","1913",
+gcc-27137,A,Compositae,,Coreocarpus,,"arizonicus",var.,"macrophyllus","Sherff",Synonym,,L,TICA,C2EE692A-086B-45EF-A9E7-322E87417B22,65736-2,"Bot. Gaz. 97","","185","1935",gcc-4891
+gcc-72433,A,Compositae,,Coreocarpus,,"arizonicus",var.,"pubescens","(B.L.Rob. & Fernald) S.F.Blake",Accepted,,L,TICA,45CCE45D-E172-46A5-A16F-FDED1C3BC431,65737-2,"Proc. Amer. Acad. Arts 49: 344. 1913","","344","1913",
+gcc-3486,A,Compositae,,Coreocarpus,,"arizonicus",var.,"sanpedroensis","(E.B.Sm.) B.L.Turner",Accepted,,L,TICA,5FD5AAF1-CE8A-4DA1-82DE-066927D8806C,1061732-2,"Phytologia 80","","136","1996",
+gcc-94377,A,Compositae,,Coreocarpus,,"congregatus",,"","(S.F.Blake) E.B.Sm.",Accepted,,M,TICA,880F8044-89A7-4DA5-9974-8CD4EE795570,65739-2,"Brittonia 35","","148","1983",
+gcc-10068,A,Compositae,,Coreocarpus,,"cronquistii",,"","Sherff",Synonym,,M,TICA,038685EC-D855-4D3E-8725-12D616F15010,275108-2,"Brittonia 16: 433. 1964","","433","1964",gcc-38013
+gcc-94302,A,Compositae,,Coreocarpus,,"dissectus",,"","(Benth.) S.F.Blake",Accepted,,M,TICA,0C7B385E-F41E-4F57-975E-8CAC5323DD7E,65741-2,"Proc. Amer. Acad. Arts 49","","344","1913",
+gcc-156753,A,Compositae,,Coreocarpus,,"dissectus",var.,"dissectus","",Synonym,,L,TICA,19D8F0F7-0059-4CCB-842C-F38F4E39962F,,"","","","",gcc-94302
+gcc-61230,A,Compositae,,Coreocarpus,,"dissectus",var.,"longilobus","S.F.Blake",Synonym,,L,TICA,7246FF77-959A-47E2-AB9C-A4CFB935D44F,65742-2,"Proc. Amer. Acad. Arts 49","","345","1913",gcc-94302
+gcc-141329,A,Compositae,,Coreocarpus,,"ferulaefolia",,"","Jacq.",Synonym,,M,TICA,DF690E47-BC0D-440C-8158-F721B6DE1715,,"","","","1798",gcc-113238
+gcc-99049,A,Compositae,,Coreocarpus,,"heterocarpus",,"","A.Gray",Synonym,,M,TICA,BAE1F9AB-F264-4C3F-AD05-9781587C3E72,197887-1,"","","162","1861",gcc-34739
+gcc-104309,A,Compositae,,Coreocarpus,,"hintonii",,"","Sherff",Synonym,,M,TICA,4F23A5B5-B294-4628-AE1C-A33CD33754BA,275109-2,"Brittonia 16: 58. 1964","","58","1964",gcc-14261
+gcc-44318,A,Compositae,,Coreocarpus,,"insularis",,"","(Brandegee) E.B.Sm.",Accepted,,M,TICA,4C449C63-FC6D-42EA-A631-5216588C76DA,275110-2,"Brittonia 36","","274","1984",
+rjp-50524,A,Compositae,,Coreocarpus,,"involutus",,"","Greene",Unresolved,,L,RJP,50524,275111-2,"","; 1889","290","1889",
+gcc-34395,A,Compositae,,Coreocarpus,,"ixtapanus",,"","B.L.Turner",Synonym,,M,TICA,C6B84F36-A08B-45A2-800C-3FC04A4103EB,275112-2,"Phytologia 70","","42","1991",gcc-44318
+gcc-135199,A,Compositae,,Coreocarpus,,"johnstonii",,"","Sherff",Synonym,,M,TICA,64872567-38E7-41F1-8689-E972384DAB31,65746-2,"Bot. Gaz. 97","","604","1936",gcc-116691
+gcc-34739,A,Compositae,,Coreocarpus,,"parthenioides",,"","Benth.",Accepted,,M,TICA,3107EE89-D44D-461C-A798-4066CEF3D4C7,,"","","28","1844",
+gcc-54448,A,Compositae,,Coreocarpus,,"parthenioides",var.,"heterocarpus","(A.Gray) S.F.Blake",Synonym,,L,TICA,5CEE1600-DF6B-435B-9DAE-6E2D36A4EE82,65747-2,"Proc. Amer. Acad. Arts 49","","343","1913",gcc-34739
+gcc-59448,A,Compositae,,Coreocarpus,,"parthenioides",var.,"parthenioides","",Synonym,,L,TICA,1A050A7D-4FA7-4858-840E-96756223DA6C,,"","","","1844",gcc-34739
+gcc-100197,A,Compositae,,Coreocarpus,,"robustior",,"","Sherff",Synonym,,M,TICA,003164C6-C741-4134-B77B-9A0F19E57520,65748-2,"Bot. Gaz. 97","","187","1935",gcc-34739
+gcc-47644,A,Compositae,,Coreocarpus,,"sanpedroensis",,"","E.B.Sm.",Synonym,,M,TICA,3AA10CB3-30A9-4EA9-A64C-58477DE7DD81,275114-2,"Amer. J. Bot. 72","","626","1985",gcc-3486
+gcc-48737,A,Compositae,,Coreocarpus,,"shrevei",,"","Sherff",Synonym,,M,TICA,9CF318E9-3DE6-478E-B501-5A4AEC5BA670,65749-2,"Bot. Gaz. 97","","185","1935",gcc-34739
+gcc-59862,A,Compositae,,Coreocarpus,,"shrevei",var.,"latilobus","Sherff",Synonym,,L,TICA,668925A1-76B9-4D88-B7CC-99E22A7FE0EC,65750-2,"Bot. Gaz. 97","","187","1935",gcc-34739
+gcc-149116,A,Compositae,,Coreocarpus,,"shrevei",var.,"shrevei","",Synonym,,L,TICA,A98CB173-5613-4B63-8870-51AF589C3A67,,"","","","",gcc-34739
+gcc-116691,A,Compositae,,Coreocarpus,,"sonoranus",,"","Sherff",Accepted,,M,TICA,562574D7-5E15-4C59-9AEB-BEFE5019BF70,65752-2,"Bot. Gaz. 97","","604","1936",
+gcc-71054,A,Compositae,,Coreocarpus,,"sonoranus",var.,"libranus","B.L.Turner",Synonym,,L,TICA,F4795EFB-2801-45A5-A248-F307FCD243D5,,"Phytologia 80","","137","1996",gcc-116691
+gcc-68245,A,Compositae,,Coreocarpus,,"sonoranus",var.,"sonoranus","",Synonym,,L,TICA,C6964DAE-7E85-4763-A0F4-DD66E6ACF209,,"","","","1936",gcc-116691

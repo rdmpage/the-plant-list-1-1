@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123376,A,Compositae,,Zaluzania,,"angusta",,"","Benth. & Hook.f.",Unresolved,,L,TICA,697CE90C-2D21-4330-96E5-CE25D69CF72A,261179-1,"""Gen. ii. 362, sphalm.""","","""ii. 362, sphalm.""","",
+gcc-129040,A,Compositae,,Zaluzania,,"angusta",,"","(Lag.) Sch.Bip.",Accepted,,M,TICA,4FF3C9D1-7C4B-4CC8-9F5D-DB5EF4F2E99B,,"in Flora xliv. (1861) 562.","","","1861",
+gcc-70304,A,Compositae,,Zaluzania,,"angusta",var.,"angusta","",Synonym,,L,TICA,71573D1B-0BA1-4CB1-B303-ED044BDA309D,,"","","","",gcc-129040
+gcc-35452,A,Compositae,,Zaluzania,,"anthemidifolia",,"","B.L.Rob. & Greenm.",Unresolved,,L,TICA,D13E43CC-61D0-43FD-A8D9-41B70236A7D7,270472-2,"","","531","1899",gcc-117802
+gcc-47513,A,Compositae,,Zaluzania,,"asperrima",,"","Sch.Bip.",Unresolved,,L,TICA,AB6B9182-9A69-485B-A863-580815037BCC,,"in Flora xlvii. (1864) 218.","","","1864",
+gcc-70383,A,Compositae,,Zaluzania,,"asperrima",var.,"asperrima","",Synonym,,L,TICA,34F65372-1E85-4A6B-8BA2-EDADE978DABA,,"","","","",gcc-47513
+tro-2703492,A,Compositae,,Zaluzania,,"augusta",,"","(Lag.) Sch. Bip.",Accepted,,M,TRO,2703492,261182-1,"Flora","44: 562","562","1861",
+tro-2703493,A,Compositae,,Zaluzania,,"augusta",var.,"augusta","",Synonym,,L,TRO,2703493,,"","","","",tro-2703492
+gcc-41512,A,Compositae,,Zaluzania,,"cinerascens",,"","Sch.Bip.",Accepted,,M,TICA,1F8E53B3-7BD1-4587-9F58-4CE1389D561D,,"""in Flora xlvii. (1864) 218, 219.""","","","1864",
+gcc-122840,A,Compositae,,Zaluzania,,"coulteri",,"","Hemsl.",Unresolved,,L,TICA,111E22C1-5C1B-413B-B6F3-CCEEE75EA578,261184-1,"Diagn. Pl. Nov. Mexic. 2: 33","","33","1879",
+gcc-48270,A,Compositae,,Zaluzania,,"delgadoana",,"","B.L.Turner",Accepted,,M,TICA,67B92E37-31DE-4CC5-AA31-5975B5734D9C,287150-2,"","","228","1985",
+gcc-49711,A,Compositae,,Zaluzania,,"discoidea",,"","A.Gray",Accepted,,M,TICA,36F25A52-2756-42F1-80BA-5C269449816B,270474-2,"","","388","1886",
+gcc-105681,A,Compositae,,Zaluzania,,"eminens",,"","Hort. ex F.T.Hubb.",Unresolved,,L,TICA,ED22C918-2250-48F7-906E-A617955734AB,261186-1,"""in L. H. Bailey, Standard Cycl. Hortic. 2724 (1916), in syn.""","","2724","",
+gcc-104215,A,Compositae,,Zaluzania,,"ensifolia",,"","(Sch.Bip.) Sch.Bip.",Accepted,,L,TICA,9BCFBDAF-CCBE-43A1-B98B-A30493AD0FC1,,"in Flora xlvii. (1864) 216.","","","1864",
+gcc-131127,A,Compositae,,Zaluzania,,"globosa",,"","(Ortega) Sch.Bip.",Synonym,,M,TICA,BD8D9C2F-6450-4E18-B0BF-E02B3914B33D,,"in Flora xliv. (1861) 564.","","","1861",gcc-18531
+gcc-152594,A,Compositae,,Zaluzania,,"globosa",var.,"globosa","",Synonym,,L,TICA,8B36C40D-623A-4167-B9AE-9CDA5B628B71,,"","","","",gcc-18531
+gcc-131593,A,Compositae,,Zaluzania,,"grayana",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,EC00E1A9-FBAC-4BF1-98B9-E142BF4EF818,270476-2,"","","531","1899",
+gcc-123761,A,Compositae,,Zaluzania,,"indica",,"","Reinw. ex Blume",Unresolved,,L,TICA,82022B39-8CD4-4FA1-A6B5-CF182CBD4A26,,"Mus. Bot. i. 239.","","i. 239","",
+gcc-92430,A,Compositae,,Zaluzania,,"megacephala",,"","Sch.Bip.",Accepted,,M,TICA,19B930FA-6BE0-47E2-A0D0-88976F48F157,,"in Flora xliv. (1861) 563.","","","1861",
+gcc-39836,A,Compositae,,Zaluzania,,"megacephala",var.,"megacephala","",Synonym,,L,TICA,B178EB69-300E-4AA4-8A0E-49EFA2E3F7E8,,"","","","",gcc-92430
+gcc-88149,A,Compositae,,Zaluzania,,"mollissima",,"","A.Gray",Accepted,,M,TICA,E4622FC5-27C2-4C85-9B91-7ECC10FADB15,261192-1,"Proc. Amer. Acad. Arts xv. (1880) 35.","","35","1880",
+gcc-129332,A,Compositae,,Zaluzania,,"montagnifolia",,"","(Sch.Bip.) Sch.Bip.",Accepted,,M,TICA,C1FC8463-5325-4AEA-9808-DC065DF5E904,,"in Flora xliv. (1861) 563.","","","1861",
+gcc-129854,A,Compositae,,Zaluzania,,"myriophylla",,"","Sch.Bip.",Unresolved,,L,TICA,2E800171-C8D8-4DA7-A053-DD38578504CD,270480-2,"","","565","1861",
+gcc-112837,A,Compositae,,Zaluzania,,"nonensis",,"","Hieron.",Synonym,,M,TICA,020D7A30-3F1D-4039-A017-B658376FE227,270481-2,"Bot. Jahrb. Syst. 29: 36. 1900","","36","1900",gcc-107609
+gcc-44131,A,Compositae,,Zaluzania,,"nonensis",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,2D2FA562-6742-46F2-816A-51B61CA6CF4C,,"Bot. Jahrb. Syst. xxix. 36.","","36","",
+gcc-34786,A,Compositae,,Zaluzania,,"oppositifolia",,"","Sch.Bip.",Unresolved,,L,TICA,C9D829CE-1130-4FA8-B980-407BA3190681,,"in Flora xliv. (1861) 562.","","","1861",
+gcc-35976,A,Compositae,,Zaluzania,,"parthenioides",,"","(DC.) Rzed.",Accepted,,M,TICA,527D1D46-5C74-4223-9FD5-42B39D71688E,,"","","","1968",
+gcc-102224,A,Compositae,,Zaluzania,,"pinnatilobata",,"","Sch.Bip.",Synonym,,M,TICA,3ED69811-0C79-4CA3-8140-9E93D6590016,,"""in Flora xlvii. (1864) 218, 219.""","","","1864",gcc-128567
+gcc-9169,A,Compositae,,Zaluzania,,"pringlei",,"","Greenm.",Accepted,,M,TICA,166DD81A-666E-4425-BB34-11265EBFF92B,270484-2,"","","101","1903",
+gcc-124253,A,Compositae,,Zaluzania,,"quitensis",,"","Hieron.",Synonym,,M,TICA,3E35AF93-5085-43E2-BBE9-D04158F5E87A,270485-2,"","","37","1900",gcc-107609
+gcc-79330,A,Compositae,,Zaluzania,,"resinosa",,"","S.Watson",Synonym,,M,TICA,2A4C8D21-1010-4A99-B9E8-6B3602A7EB3B,,"Proc. Amer. Acad. Arts 25","","","1890",gcc-111855
+gcc-103780,A,Compositae,,Zaluzania,,"robinsonii",,"","W.M.Sharp",Unresolved,,L,TICA,5C72FFBD-5498-4D5D-8A6F-A206885A8BD6,,"","","","1935",
+gcc-40113,A,Compositae,,Zaluzania,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,82CB7C05-4C7B-40F1-82DC-4A63FAE72185,270488-2,"","","35","1900",gcc-107609
+gcc-96753,A,Compositae,,Zaluzania,,"squarrosa",,"","Sch.Bip.",Synonym,,M,TICA,35CC3419-1D76-420B-B745-925002A52D4E,,"""in Flora xlvii. (1864) 216, 217.""","","","1864",gcc-128257
+gcc-39783,A,Compositae,,Zaluzania,,"subcordata",,"","W.M.Sharp",Accepted,,M,TICA,100982D5-01B5-4838-BB1E-49CF43485486,,"","","","1935",
+gcc-78506,A,Compositae,,Zaluzania,,"triloba",,"","(Ortega) Pers.",Accepted,,M,TICA,4AB54A91-B4C1-4A2A-A508-6950DE8A6B07,261206-1,"Syn. Pl. (Persoon) 2(2): 473","","473","1807",
+gcc-123848,A,Compositae,,Zaluzania,,"trilobata",,"","Hoffmanns.",Unresolved,,L,TICA,4C78BCEE-7030-4FD9-97B2-CF582B2FD5B6,261207-1,"Verz. Pfl. Nachtr. II. 231.","","Nachtr. II. 231","",

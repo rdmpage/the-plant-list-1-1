@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-27935,A,Compositae,,Coleostephus,,"clausonis",,"","Pomel",Synonym,,L,TICA,4A870136-6876-4CB3-A90C-339C6FBACBA8,196893-1,"","","59","1874",gcc-139326
+gcc-137969,A,Compositae,,Coleostephus,,"hybridus",,"","(Guss.) Lange",Synonym,,L,TICA,7D3A8D66-DE59-471C-9528-EF9635D882F3,196894-1,"","","77","1861",gcc-17128
+gcc-52286,A,Compositae,,Coleostephus,,"macrotus",,"","Durieu",Synonym,,M,TICA,878B6FA8-4384-4252-B05E-60FAAC20F27F,,"","","363","1846",gcc-121497
+gcc-91982,A,Compositae,,Coleostephus,,"macrotus",,"","Durand",Synonym,,M,TICA,924D00B7-C444-44E0-BC35-87994CCD97D3,,"Rev. Bot. 1: 363 (1846)","","363","1846",gcc-121497
+gcc-31266,A,Compositae,,Coleostephus,,"multicaulis",,"","(Desf.) Durieu",Accepted,,M,TICA,8926AE56-EF3A-4379-878D-39E5D0307653,,"","","364","1846",
+gcc-94699,A,Compositae,,Coleostephus,,"multicaulis",,"","(Desf.) Durand",Synonym,,M,TICA,21334ADC-CB45-4C74-8A6C-8DA4E9342075,,"Rev. Bot. 1: 364 (1846)","","364","1846",gcc-106025
+gcc-106025,A,Compositae,,Coleostephus,,"myconis",,"","(L.) Cass.",Accepted,,M,TICA,7D5707FA-BE29-4986-9F03-A6E04D16F235,,"""Dict. Sci. Nat., ed. 2, 41: 43 (1826)""","","43","1826",
+gcc-17128,A,Compositae,,Coleostephus,,"myconis",,"","(L.) Rchb.f.",Unresolved,,L,TICA,AD2A6CB0-3D91-4B77-85D2-1FA77BA6DFDD,196897-1,"","","49","1853",
+gcc-139326,A,Compositae,,Coleostephus,,"paludosus",,"","(Durieu) Alavi",Accepted,,L,TICA,4CA651EC-738B-4E77-A203-F27CC62E456E,,"","","325","1976",

@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-82523,A,Compositae,,Dendroseris,,"berteroana",,"","(Decne.) Hook. & Arn.",Accepted,,M,TICA,947B4C99-E016-4F0B-B66E-723F3E788EE0,201198-1,"","","32","1835",
+gcc-126928,A,Compositae,,Dendroseris,,"gigantea",,"","Johow",Accepted,,M,TICA,7C309798-9413-451F-8271-D670FC2F3B7E,77839-2,"","","69","1896",
+gcc-120158,A,Compositae,,Dendroseris,,"lacerata",,"","(Phil.) Hemsl.",Synonym,,M,TICA,9A2ED7F4-7CB7-44AC-9740-C6DBF5012466,,"","","99","",gcc-148926
+gcc-48938,A,Compositae,,Dendroseris,,"litoralis",,"","Skottsb.",Accepted,,M,TICA,8E9F384D-6791-44CD-A828-5AA1FD398B00,201201-1,"","","204","1922",
+gcc-136307,A,Compositae,,Dendroseris,,"macrantha",,"","(Bertero ex Decne.) Skottsb.",Accepted,,M,TICA,C5936CF3-4C8D-44B8-BD18-EBEC74DD1245,201202-1,"","","202","1922",
+gcc-132123,A,Compositae,,Dendroseris,,"macrophylla",,"","D.Don",Accepted,,M,TICA,1F110D0E-6F17-43A3-A7B1-E27FBDCF5D5E,201203-1,"","","388","1832",
+gcc-151982,A,Compositae,,Dendroseris,,"macrophylla",var.,"macrophylla","",Synonym,,L,TICA,1569AF9D-DAC6-4E30-83D9-8FD11955A867,,"","","","",gcc-132123
+gcc-53565,A,Compositae,,Dendroseris,,"macrophylla",var.,"marginata","(Bertero ex Decne.) Johow",Synonym,,L,TICA,D9500A17-50BA-4D29-988E-67382E5CC604,,"","","","",gcc-26217
+gcc-26217,A,Compositae,,Dendroseris,,"marginata",,"","(Bertero ex Decne.) Hook. & Arn.",Accepted,,M,TICA,892356E6-2AC3-4D7B-8AB9-307BC10124DF,201204-1,"","","32","1835",
+gcc-45604,A,Compositae,,Dendroseris,,"micrantha",,"","(Bertero ex Decne.) Hook. & Arn.",Accepted,,M,TICA,1AC33BC4-41C8-43B5-820F-54877B404505,201205-1,"","","32","1835",
+gcc-150474,A,Compositae,,Dendroseris,,"micrantha",var.,"micrantha","",Synonym,,L,TICA,DBE721B4-76EF-45F8-8E33-6F99B5D5EB36,,"","","","",gcc-45604
+gcc-62338,A,Compositae,,Dendroseris,,"micrantha",var.,"pruinata","Johow",Synonym,,L,TICA,3A629384-CEE6-4D06-8B35-ADEA8D0C8221,77843-2,"","","","1896",gcc-139643
+gcc-20298,A,Compositae,,Dendroseris,,"mollis",,"","Hook. & Arn.",Accepted,,M,TICA,476BAE7F-227E-4F66-9BDC-2585EF8F7A5A,201206-1,"","","32","1835",
+gcc-111150,A,Compositae,,Dendroseris,,"neriifolia",,"","(Decne.) Hook. & Arn.",Accepted,,M,TICA,067E2E4B-DE1B-4A51-89C9-B27C566430A4,201207-1,"","","32","1835",
+gcc-46498,A,Compositae,,Dendroseris,,"pinnata",,"","(Bertero ex Decne.) Hook. & Arn.",Accepted,,M,TICA,699D03E8-76A7-47BE-B6F9-562479267A8E,201208-1,"","","32","1835",
+gcc-59451,A,Compositae,,Dendroseris,,"pinnata",var.,"insignis","Bertero ex Skottsb.",Synonym,,L,TICA,24A21538-31D0-406D-8FBE-967978C9BAE5,,"Nat. Hist. Juan Fernandez 2: 205 (1922)","","205","1922",gcc-82523
+gcc-71826,A,Compositae,,Dendroseris,,"pinnata",var.,"insignis","(Bertero) Johow",Synonym,,L,TICA,78431308-50BC-48A4-821F-F9176288CD9C,77844-2,"""Anales Univ. Chile 116: 579. 1905 Reiche, Fl. Chile, 5: 5.  1910""","","579","1905",gcc-82523
+gcc-154129,A,Compositae,,Dendroseris,,"pinnata",var.,"pinnata","",Synonym,,L,TICA,9B30C21C-BFC7-4EA7-8AB0-BD051F745A8B,,"","","","",gcc-46498
+gcc-139643,A,Compositae,,Dendroseris,,"pruinata",,"","(Johow) Skottsb.",Accepted,,M,TICA,36BE6F56-A5BD-481F-96E3-F32C8734CBC5,201209-1,"","","207","1922",
+gcc-140018,A,Compositae,,Dendroseris,,"regia",,"","Skottsb.",Accepted,,M,TICA,E795BED4-95A9-4103-A0FB-F40281C7D23D,77846-2,"","","205","1922",

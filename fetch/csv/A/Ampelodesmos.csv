@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-25544642,A,Poaceae,,Ampelodesmos,,"ampelodesmon",,"","(Cirillo) Kerguélen",Accepted,,M,TRO,25544642,387260-1,"Bull. Soc. Bot. France","123(5–6): 319","319","1976",
+kew-391655,A,Poaceae,,Ampelodesmos,,"ampelodesmos",,"","(Cirillo) Kerguélen",Synonym,Invalid,H,WCSP,391655,,"Bull. Soc. Bot. France","123: 319","","1976",kew-391660
+kew-391656,A,Poaceae,,Ampelodesmos,,"australis",,"","Brongn.",Synonym,,H,WCSP,391656,,"Voy. Monde","Phan.: 31","","1829",kew-405795
+kew-391657,A,Poaceae,,Ampelodesmos,,"bicolor",,"","(Poir.) Kunth",Synonym,,H,WCSP,391657,,"Révis. Gramin.","1: 79","","1829",kew-391660
+kew-391658,A,Poaceae,,Ampelodesmos,,"effusus",,"","Steud.",Synonym,,H,WCSP,391658,,"Syn. Pl. Glumac.","1: 195","","1854",kew-391660
+kew-391659,A,Poaceae,,Ampelodesmos,,"festucoides",,"","(Desf.) Steud.",Synonym,Invalid,H,WCSP,391659,328078-2,"Syn. Pl. Glumac.","1: 195","","1854",kew-391660
+kew-391660,A,Poaceae,,Ampelodesmos,,"mauritanicus",,"","(Poir.) T.Durand & Schinz",Accepted,,H,WCSP,391660,,"Consp. Fl. Afric.","5: 874","","1894",
+kew-391661,A,Poaceae,,Ampelodesmos,,"mauritanicus",var.,"bicolor","(Poir.) Fiori",Synonym,,L,WCSP,391661,,"Nuov. Fl. Italia","1: 101","","1923",kew-391660
+tro-25504562,A,Poaceae,,Ampelodesmos,,"mauritanicus",var.,"squarrosa","(Coss. & Durand) T. Durand & Schinz",Accepted,,L,TRO,25504562,,"Consp. Fl. Afr.","5: 874","874","1894",
+tro-50224842,A,Poaceae,,Ampelodesmos,,"mauriticanus",var.,"bicolor","(Poir.) T. Durand & Schinz",Synonym,,L,TRO,50224842,,"Consp. Fl. Afr.","5: 874","874","1895",kew-396709
+kew-391662,A,Poaceae,,Ampelodesmos,,"tenax",,"","(Vahl) Link",Synonym,,H,WCSP,391662,,"Hort. Berol.","1: 136","","1827",kew-391660
+tro-25504564,A,Poaceae,,Ampelodesmos,,"tenax",var.,"bicolor","(Poir.) Fiori",Synonym,,L,TRO,25504564,,"Fl. Italia","1: 66","66","1896",kew-396709
+tro-25504567,A,Poaceae,,Ampelodesmos,,"tenax",var.,"squarrosus","Coss. & Durand",Synonym,,L,TRO,25504567,,"Expl. Sci. Algérie","2: 127","127","1855",tro-25504562
+kew-391663,A,Poaceae,,Ampelodesmos,,"thouarii",,"","T.Durand & Schinz",Unresolved,,L,WCSP,391663,,"Consp. Fl. Afric.","5: 875","","1894",

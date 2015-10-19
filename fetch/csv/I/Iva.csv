@@ -1,0 +1,48 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-88136,A,Compositae,,Iva,,"acerosa",,"","(Nutt.) R.C.Jacks.",Synonym,,M,TICA,86A2EE72-CFFD-459F-9529-7EC1FD801911,130749-2,"","","828","1960",gcc-119366
+gcc-144004,A,Compositae,,Iva,,"ambrosiifolia",,"","(A.Gray) A.Gray",Synonym,,M,TICA,33F4615D-05A0-474E-9225-FD26D8942CF6,1073861-2,"","","246","1884",gcc-135668
+gcc-151177,A,Compositae,,Iva,,"ambrosiifolia",subsp.,"ambrosiifolia","",Synonym,,L,TICA,537ED76B-A2E8-409B-AC49-7F509BCDE0BA,,"","","","",gcc-135668
+gcc-32120,A,Compositae,,Iva,,"ambrosiifolia",var.,"lobata","(Rydb.) B.L.Turner",Unresolved,,L,TICA,FAE0066C-760A-4382-9334-3B7DA7661BE9,278951-2,"Phytologia 69(1)","","15","1990",
+gcc-70210,A,Compositae,,Iva,,"ambrosiifolia",subsp.,"lobata","(Rydb.) R.C.Jacks.",Synonym,,L,TICA,AD17B6A6-F552-4633-A743-EC4E7F53B6EA,130750-2,"Univ. Kansas Sci. Bull. 41(7): 838. 1960","","838","1960",gcc-135668
+gcc-76129,A,Compositae,,Iva,,"angustifolia",,"","Nutt. ex DC.",Accepted,,M,TICA,66B11C9B-63D9-4157-A3BD-63F8FBF48B4C,30361801-2,"Prodr. (DC.) 5: 529","","529","1836",
+gcc-65998,A,Compositae,,Iva,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,6B1BE81B-10B6-425D-BD35-CB3C36DEF1E6,,"","","","",gcc-76129
+gcc-55086,A,Compositae,,Iva,,"angustifolia",var.,"latior","Shinners",Synonym,,L,TICA,6D24AC22-78D4-4B1D-9DE3-7321FCE3DF86,130751-2,"Sida 1: 378. 1964","","378","1964",gcc-76129
+gcc-10540,A,Compositae,,Iva,,"annua",,"","L.",Accepted,,M,TICA,A42A0582-14F0-494E-94F1-13ABE93D4F37,,"","","","1753",
+gcc-11771,A,Compositae,,Iva,,"annua",,"","Michx.",Unresolved,,L,TICA,A05B6D1C-4F3B-4084-85C2-15E9AB595E09,,"Fl. Bor.-Amer. (Michaux) ii. 184","","184","",
+gcc-58004,A,Compositae,,Iva,,"annua",var.,"annua","",Synonym,,L,TICA,D9308EF6-C2B3-45AB-9A88-8B19998D13C6,,"","","","",gcc-10540
+gcc-72679,A,Compositae,,Iva,,"annua",var.,"caudata","(Small) R.C.Jacks.",Synonym,,L,TICA,64C0BB2A-DE6C-4D22-96EB-FFEB7A169AE0,130752-2,"Univ. Kansas Sci. Bull. 41(7): 812. 1960","","812","1960",gcc-10540
+gcc-62410,A,Compositae,,Iva,,"annua",var.,"macrocarpa","(S.F.Blake) R.C.Jacks.",Synonym,,L,TICA,416F1F3C-AD93-4ADD-9138-AE8F51BE7510,130753-2,"Univ. Kansas Sci. Bull. 41(7): 814. 1960","","814","1960",gcc-10540
+gcc-23994,A,Compositae,,Iva,,"asperifolia",,"","Less.",Accepted,,M,TICA,69F30B75-668D-49E7-878E-2C5854A9D38F,226341-1,"Linnaea 5: 151. 1830","","151","1830",
+gcc-113490,A,Compositae,,Iva,,"axillaris",,"","Pursh",Accepted,,M,TICA,CDB4C9AB-4A1A-4ADD-B5EE-B7BCA392E12E,,"","","","",
+gcc-153998,A,Compositae,,Iva,,"axillaris",var.,"axillaris","",Synonym,,L,TICA,4CDBD527-2799-4242-8738-BA2962817E88,,"","","","",gcc-113490
+gcc-64165,A,Compositae,,Iva,,"axillaris",subsp.,"axillaris","",Synonym,,L,TICA,CD07996D-F1E3-4965-8D7F-BC4CDE9D5AE0,,"","","","",gcc-113490
+gcc-71822,A,Compositae,,Iva,,"axillaris",var.,"robustior","Hook.",Synonym,,L,TICA,8B61EDC8-5398-4966-A516-F908A1B0DEA2,,"Fl. Bor.-Amer. (Hooker) 1: 309. 1834","","","",gcc-113490
+gcc-22436,A,Compositae,,Iva,,"caudata",,"","Small",Synonym,,M,TICA,63F7450E-BE03-4DDD-95CA-2980690D9FF4,130759-2,"","","290","1899",gcc-10540
+gcc-113176,A,Compositae,,Iva,,"cheiranthifolia",,"","Kunth",Accepted,,M,TICA,D7D55DD8-3C6C-4724-9B7C-B70BF2597DA6,,"","","","",
+gcc-38788,A,Compositae,,Iva,,"ciliata",,"","Willd.",Accepted,,M,TICA,2D3EFAAB-2C05-47DC-9486-47F2465DDDBB,,"Sp. Pl. iii. 2386.","","","1803",
+gcc-7354,A,Compositae,,Iva,,"ciliata",var.,"ciliata","",Synonym,,L,TICA,5FA348AB-6153-4EFF-8828-0DAC59514060,,"","","","",gcc-38788
+gcc-63539,A,Compositae,,Iva,,"ciliata",var.,"macrocarpa","S.F.Blake",Synonym,,L,TICA,222CD0FE-8789-4423-8445-B795DB2E1641,,"""Rhodora 41: 84, fig. 1a-f. 1939""","","","1939",gcc-10540
+gcc-100119,A,Compositae,,Iva,,"connata",,"","Sessé & Moc.",Unresolved,,L,TICA,AF79082D-3C09-45F1-9D10-99DC685DEEC4,,"","","","1890",
+gcc-111429,A,Compositae,,Iva,,"dealbata",,"","A.Gray",Accepted,,M,TICA,C6EB78D2-D93F-41D4-8B65-B3156AAB4C63,130763-2,"","","104","1852",
+gcc-75481,A,Compositae,,Iva,,"foliolosa",,"","Nutt.",Unresolved,,L,TICA,8B36CC51-2DC2-4AE8-93F4-6288BE62DD08,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 346""","","346","1840",
+gcc-107887,A,Compositae,,Iva,,"foliosa",,"","Nutt.",Unresolved,,L,TICA,F98892C8-9636-4488-A780-AB1E56D54784,,"""Transactions of the American Philosophical Society, new series, 7:""","","346","1840",
+gcc-143162,A,Compositae,,Iva,,"frutescens",,"","L.",Accepted,,L,TICA,F89796AE-B270-447F-AE42-FB48B5C167C7,329302-2,"","","989","1753",
+gcc-33040,A,Compositae,,Iva,,"frutescens",var.,"frutescens","",Synonym,,L,TICA,2CFCEA18-52F7-400F-A0DD-3D3FBAD821A6,,"","","","",gcc-143162
+gcc-72160,A,Compositae,,Iva,,"frutescens",subsp.,"frutescens","",Synonym,,L,TICA,A69C7E5F-F310-4D0A-BB06-FBD8595CB2FF,,"","","","1960",gcc-143162
+gcc-21011,A,Compositae,,Iva,,"frutescens",subsp.,"oraria","(Bartlett) R.C.Jacks.",Synonym,,L,TICA,E5A2CE0E-9EA9-4925-A7F2-26D408DDDA73,130764-2,"Univ. Kansas Sci. Bull. 41(7): 818. 1960","","818","1960",gcc-143162
+gcc-65757,A,Compositae,,Iva,,"frutescens",var.,"oraria","(Bartlett) Fernald & Griscom",Synonym,,L,TICA,5B3C0E9C-1053-45D3-AFA7-C956D2402BD9,130765-2,"Rhodora 37: 184. 1935","","184","1935",gcc-143162
+gcc-83040,A,Compositae,,Iva,,"hayesiana",,"","A.Gray",Accepted,,M,TICA,96761543-1A28-44EE-8CF3-736A2228CD3B,226350-1,"Proc. Amer. Acad. Arts xi. (1876) 78.","","78","1876",
+gcc-20770,A,Compositae,,Iva,,"imbricata",,"","Walter",Accepted,,M,TICA,F8C82AA1-8D84-4C73-88BF-266B950E7C0C,226351-1,"","","232","1788",
+gcc-136585,A,Compositae,,Iva,,"integrifolia",,"","Banks ex Pursh",Unresolved,,L,TICA,4F05E918-5E3B-46EE-9ED6-EC8C1E2B758E,,"Fl. Am. Sept. ii. 580.","","","1814 [1813]",
+gcc-36678,A,Compositae,,Iva,,"microcephala",,"","Nutt.",Accepted,,M,TICA,1EEC8EA4-1B3F-4171-A46F-440004BA7F5D,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 346""","","346","1840",
+gcc-1434,A,Compositae,,Iva,,"monophylla",,"","Walter",Synonym,,M,TICA,950A4821-7DCC-4A65-8B31-0296317D6767,226354-1,"Fl. Carol. 232","","232","1788",gcc-20460
+gcc-3838,A,Compositae,,Iva,,"nevadensis",,"","M.E.Jones",Synonym,,M,TICA,0D1ACB5D-9616-4391-BA00-072248B5DBB1,130767-2,"","","973","1883",gcc-39612
+gcc-31136,A,Compositae,,Iva,,"obovata",,"","Greene ex C.F.Baker",Unresolved,,L,TICA,64DB6590-6B9A-4453-87EA-39A79F84F507,,"West American Plants 1:","","18","1902",
+gcc-29659,A,Compositae,,Iva,,"oraria",,"","Bartlett",Unresolved,,L,TICA,1B819C1A-0E79-494B-B894-36D26998AFA3,130768-2,"","","26","1906",gcc-143162
+gcc-90575,A,Compositae,,Iva,,"paniculata",,"","Nutt.",Synonym,,M,TICA,94F14F88-7508-4A85-BB8F-845DA43A7911,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 347""","","347","1840",gcc-133252
+gcc-83427,A,Compositae,,Iva,,"pedicellata",,"","(Rydb.) Cory",Synonym,,M,TICA,77386B0E-2EA6-4282-B532-744621AA366B,130769-2,"","","407","1936",gcc-133252
+gcc-35583,A,Compositae,,Iva,,"texensis",,"","R.C.Jacks.",Synonym,,M,TICA,0CC82F01-8888-41CF-9366-41FC171CF3DE,,"","","","1960",gcc-76129
+gcc-133252,A,Compositae,,Iva,,"xanthiifolia",,"","Nutt.",Accepted,,M,TICA,ACD998BF-8BF5-4126-AF07-E515D7655C74,329301-2,"","","185","1818",
+gcc-8661,A,Compositae,,Iva,,"xanthiifolia",var.,"pedicellata","(Rydb.) Kittell",Synonym,,L,TICA,1621491C-A51D-48EC-BEDE-102B5B985785,130771-2,"Fl. Ariz. New Mex. 425. 1941","","425","1941",gcc-133252
+gcc-146017,A,Compositae,,Iva,,"xanthiifolia",f.,"xanthiifolia","",Synonym,,L,TICA,53C8E21A-8E14-40ED-8BA6-0FF102C88E28,,"","","","",gcc-133252
+gcc-47561,A,Compositae,,Iva,,"xanthiifolia",var.,"xanthiifolia","",Synonym,,L,TICA,55BD116C-ED47-484D-B9DA-5820674CB5DD,,"","","","",gcc-133252

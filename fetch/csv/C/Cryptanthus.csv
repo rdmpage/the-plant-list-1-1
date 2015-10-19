@@ -1,0 +1,110 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-235045,A,Bromeliaceae,,Cryptanthus,,"acaulis",,"","(Lindl.) Beer",Accepted,,H,WCSP,235045,122605-1,"Fam. Bromel.","75","","1856",
+tro-50098334,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"acaulis","",Synonym,,L,TRO,50098334,,"","","","",kew-235045
+kew-235046,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"argenteus","Beer",Synonym,,L,WCSP,235046,,"Fam. Bromel.","75","","1856",kew-235045
+kew-235047,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"bromelioides","(Otto & A.Dietr.) Mez",Synonym,,L,WCSP,235047,71629-2,"Monogr. Phan.","9: 55","","1896",kew-235061
+kew-235048,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"discolor","(Otto & A.Dietr.) Mez",Synonym,,L,WCSP,235048,71630-2,"Monogr. Phan.","9: 55","","1896",kew-235045
+kew-235049,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"diversifolius","(Beer) Mez",Synonym,,L,WCSP,235049,71631-2,"Monogr. Phan.","9: 55","","1896",kew-235061
+kew-235051,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"purpureus","Baker",Synonym,,L,WCSP,235051,71633-2,"Refug. Bot.","4: t. 287","","1871",kew-235045
+kew-235052,A,Bromeliaceae,,Cryptanthus,,"acaulis",var.,"ruber","Beer",Synonym,,L,WCSP,235052,,"Fam. Bromel.","76","","1856",kew-235045
+kew-235053,A,Bromeliaceae,,Cryptanthus,,"alagoanus",,"","Leme & J.A.Siqueira",Accepted,,H,WCSP,235053,322810-2,"Selbyana","22: 151","","2001",
+kew-235054,A,Bromeliaceae,,Cryptanthus,,"angustifolius",,"","Baker",Synonym,,H,WCSP,235054,71635-2,"Handb. Bromel.","15","","1889",kew-255110
+kew-235055,A,Bromeliaceae,,Cryptanthus,,"bahianus",,"","L.B.Sm.",Accepted,,H,WCSP,235055,71636-2,"Arq. Bot. Estado São Paulo","n.s., f.m., 1: 106","","1943",
+kew-235056,A,Bromeliaceae,,Cryptanthus,,"beuckeri",,"","E.Morren",Accepted,,H,WCSP,235056,317053-2,"Ann. Bot. Hort.","30: 241","","1880",
+kew-235057,A,Bromeliaceae,,Cryptanthus,,"bibarrensis",,"","Leme",Accepted,,H,WCSP,235057,20009408-1,"Cryptanthus Soc. J.","17: 86","","2002",
+kew-235058,A,Bromeliaceae,,Cryptanthus,,"bivittatus",,"","(Hook.) Regel",Accepted,,H,WCSP,235058,122611-1,"Index Seminum (LE)","1864: 15","","1864",
+kew-235059,A,Bromeliaceae,,Cryptanthus,,"bivittatus",var.,"atropurpureus","Mez",Synonym,,L,WCSP,235059,71637-2,"Pflanzenr.","IV, 32: 18","","1934",kew-235058
+tro-50098337,A,Bromeliaceae,,Cryptanthus,,"bivittatus",var.,"bivittatus","",Synonym,,L,TRO,50098337,,"","","","",kew-235058
+kew-235060,A,Bromeliaceae,,Cryptanthus,,"bivittatus",var.,"luddemannii","Baker",Synonym,,L,WCSP,235060,71638-2,"Handb. Bromel.","16","","1889",kew-235058
+kew-452551,A,Bromeliaceae,,Cryptanthus,,"bivittatus",var.,"moensis","auct.",Synonym,,L,WCSP,452551,,"Cat. Brom. Hort. Lugd. Bat.","?","","1894",kew-235058
+kew-2745797,A,Bromeliaceae,,Cryptanthus,,"blitoides",,"","Nutt. ex Benth.",Unresolved,,L,WCSP (in review),,,"Prodr.","13(2): 54","","1849",
+kew-462527,A,Bromeliaceae,,Cryptanthus,,"brevifolius",,"","Leme",Accepted,,H,WCSP,462527,77107802-1,"Cryptanthus Soc. J.","25: 79","","2010",
+kew-235061,A,Bromeliaceae,,Cryptanthus,,"bromelioides",,"","Otto & A.Dietr.",Accepted,,H,WCSP,235061,71639-2,"Allg. Gartenzeitung","4: 298","","1836",
+tro-50098335,A,Bromeliaceae,,Cryptanthus,,"bromelioides",var.,"bromelioides","",Synonym,,L,TRO,50098335,,"","","","",kew-235061
+kew-235062,A,Bromeliaceae,,Cryptanthus,,"bromelioides",var.,"tricolor","M.B.Foster",Synonym,,L,WCSP,235062,,"Bull. Bromeliad Soc.","3: 30","","1953",kew-235061
+kew-235063,A,Bromeliaceae,,Cryptanthus,,"burle-marxii",,"","Leme",Accepted,,H,WCSP,235063,983649-1,"Cryptanthus Soc. J.","5: 12","","1990",
+kew-235064,A,Bromeliaceae,,Cryptanthus,,"capitatus",,"","Leme",Accepted,,H,WCSP,235064,301030-2,"Cryptanthus Soc. J.","9(4): 6","","1994",
+kew-469006,A,Bromeliaceae,,Cryptanthus,,"capitellatus",,"","Leme & L.Kollmann",Accepted,,H,WCSP,469006,,"Rodriguésia","61: 29","","2010",
+kew-235065,A,Bromeliaceae,,Cryptanthus,,"caracensis",,"","Leme & E.Gross",Accepted,,H,WCSP,235065,317875-2,"Cryptanthus Soc. J.","7(4): 12","","1992",
+kew-235066,A,Bromeliaceae,,Cryptanthus,,"carnosus",,"","Mez",Synonym,,H,WCSP,235066,71640-2,"Repert. Spec. Nov. Regni Veg.","16: 2","","1919",kew-235061
+kew-235067,A,Bromeliaceae,,Cryptanthus,,"caulescens",,"","I.Ramírez",Accepted,,H,WCSP,235067,1006495-1,"Harvard Pap. Bot.","3: 216","","1998",
+kew-51875,A,Lamiaceae,,Cryptanthus,,"chinensis",,"","Osbeck",Synonym,,H,WCSP,51875,435565-1,"Dagb. Ostind. Resa","215","","1757",kew-42480
+kew-235068,A,Bromeliaceae,,Cryptanthus,×,"cochleatus",,"","E.Morren ex Baker",Unresolved,,L,WCSP,235068,122615-1,"Handb. Bromel.","17","","1889",
+kew-235069,A,Bromeliaceae,,Cryptanthus,,"colnagoi",,"","Rauh & Leme",Accepted,,H,WCSP,235069,275351-2,"J. Bromeliad Soc.","39: 258","","1989",
+kew-235070,A,Bromeliaceae,,Cryptanthus,,"coriaceus",,"","Leme",Accepted,,H,WCSP,235070,983651-1,"Cryptanthus Soc. J.","6(1): 14","","1991",
+kew-235072,A,Bromeliaceae,,Cryptanthus,,"correia-araujoi",,"","Leme",Accepted,,H,WCSP,235072,304901-2,"Bromélia","2(3): 7","","1995",
+kew-374598,A,Bromeliaceae,,Cryptanthus,,"crassifolius",,"","Leme",Accepted,,H,WCSP,374598,,"J. Bromeliad Soc.","58: 17","","2008",
+kew-235073,A,Bromeliaceae,,Cryptanthus,,"delicatus",,"","Leme",Accepted,,H,WCSP,235073,300538-2,"Selbyana","16: 115","","1995",
+kew-235074,A,Bromeliaceae,,Cryptanthus,,"diamantinensis",,"","Leme",Accepted,,H,WCSP,235074,1010093-1,"Harvard Pap. Bot.","4: 137","","1999",
+kew-235075,A,Bromeliaceae,,Cryptanthus,,"dianae",,"","Leme",Accepted,,H,WCSP,235075,983650-1,"Cryptanthus Soc. J.","5(2): 10","","1990",
+kew-235076,A,Bromeliaceae,,Cryptanthus,,"discolor",,"","Otto & A.Dietr.",Synonym,,H,WCSP,235076,122616-1,"Allg. Gartenzeitung","4: 299","","1836",kew-235045
+kew-235077,A,Bromeliaceae,,Cryptanthus,,"diversifolius",,"","Beer",Synonym,,H,WCSP,235077,122617-1,"Fam. Bromel.","76","","1856",kew-235061
+kew-235078,A,Bromeliaceae,,Cryptanthus,,"dorothyae",,"","Leme",Accepted,,H,WCSP,235078,305948-2,"Cryptanthus Soc. J.","11(1): 6","","1996",
+kew-235079,A,Bromeliaceae,,Cryptanthus,,"duartei",,"","L.B.Sm.",Synonym,,H,WCSP,235079,71644-2,"Smithsonian Misc. Collect.","126(1): 23","","1955",kew-466427
+kew-235080,A,Bromeliaceae,,Cryptanthus,,"emergens",,"","Lindm.",Synonym,,H,WCSP,235080,71645-2,"Kongl. Svenska Vetensk. Acad. Handl.","n.s., 24(8): 19","","1891",kew-255557
+kew-235081,A,Bromeliaceae,,Cryptanthus,,"exaltatus",,"","H.E.Luther",Accepted,,H,WCSP,235081,983798-1,"Cryptanthus Soc. J.","5(4): 16","","1990",
+kew-372336,A,Bromeliaceae,,Cryptanthus,,"felixii",,"","J.A.Siqueira & Leme",Accepted,,H,WCSP,372336,77089981-1,"Fragm. Atlantic Forest N. E. Brazil","285","","2007",
+kew-235082,A,Bromeliaceae,,Cryptanthus,,"fernseeoides",,"","Leme",Accepted,,H,WCSP,235082,300490-2,"Cryptanthus Soc. J.","11(3): 9","","1996",
+kew-462328,A,Bromeliaceae,,Cryptanthus,,"ferrarius",,"","Leme & C.C.Paula",Accepted,,H,WCSP,462328,,"J. Bromeliad Soc.","59: 104","","2009",
+kew-235083,A,Bromeliaceae,,Cryptanthus,,"fosterianus",,"","L.B.Sm.",Accepted,,H,WCSP,235083,71646-2,"Bull. Bromeliad Soc.","2: 63","","1952",
+kew-374588,A,Bromeliaceae,,Cryptanthus,,"giganteus",,"","Leme & A.P.Fontana",Accepted,,H,WCSP,374588,,"J. Bromeliad Soc.","58: 15","","2008",
+kew-235084,A,Bromeliaceae,,Cryptanthus,,"glaziovii",,"","Mez",Accepted,,H,WCSP,235084,71647-2,"Fl. Bras.","3(3): 202","","1891",
+kew-351423,A,Bromeliaceae,,Cryptanthus,,"grazielae",,"","H.Luther",Accepted,,H,WCSP,351423,317159-2,"Cryptanthus Soc. J.","13(2-4): 12","","1998",
+kew-235085,A,Bromeliaceae,,Cryptanthus,,"incrassatus",,"","L.B.Sm.",Accepted,,H,WCSP,235085,71648-2,"Arq. Bot. Estado São Paulo","n.s., f.m., 2: 119","","1950",
+kew-235086,A,Bromeliaceae,,Cryptanthus,,"lacerdae",,"","Antoine",Accepted,,H,WCSP,235086,317054-2,"Wiener Ill. Gart.-Zeitung","7: 254","","1883",
+kew-235087,A,Bromeliaceae,,Cryptanthus,,"latifolius",,"","Leme",Accepted,,H,WCSP,235087,1005942-1,"Cryptanthus Soc. J.","6(2): 14","","1991",
+kew-372393,A,Bromeliaceae,,Cryptanthus,,"lavrasensis",,"","Leme",Accepted,,H,WCSP,372393,,"J. Bromeliad Soc.","57: 260","","2007",
+tro-50009664,A,Bromeliaceae,,Cryptanthus,,"leopoido-horstiil",,"","Rauh",Unresolved,,L,TRO,50009664,,"Trop. Subtrop. Pflanzenwelt","65: 68–72","68","1988",
+kew-235088,A,Bromeliaceae,,Cryptanthus,,"leopoldo-horstii",,"","Rauh",Accepted,,H,WCSP,235088,936416-1,"Abh. Math.-Naturwiss. Kl. Akad. Wiss. Mainz","65: 68","","1988",
+kew-235089,A,Bromeliaceae,,Cryptanthus,,"leuzingerae",,"","Leme",Accepted,,H,WCSP,235089,1008916-1,"Bradea","8: 115","","1999",
+kew-235090,A,Bromeliaceae,,Cryptanthus,×,"lubbersianus",,"","E.Morren ex Baker",Unresolved,,L,WCSP,235090,122625-1,"Handb. Bromel.","17","","1889",
+kew-235091,A,Bromeliaceae,,Cryptanthus,,"lutherianus",,"","I.Ramírez",Accepted,,H,WCSP,235091,1006496-1,"Harvard Pap. Bot.","3: 218","","1998",
+kew-235092,A,Bromeliaceae,,Cryptanthus,,"lyman-smithii",,"","Leme",Accepted,,H,WCSP,235092,1010092-1,"Harvard Pap. Bot.","4: 135","","1999",
+kew-235093,A,Bromeliaceae,,Cryptanthus,×,"makoyanus",,"","Baker",Unresolved,,L,WCSP,235093,71650-2,"Handb. Bromel.","16","","1889",
+kew-235094,A,Bromeliaceae,,Cryptanthus,,"marginatus",,"","L.B.Sm.",Accepted,,H,WCSP,235094,71651-2,"Smithsonian Misc. Collect.","126(1): 24","","1955",
+kew-235095,A,Bromeliaceae,,Cryptanthus,,"maritimus",,"","L.B.Sm.",Accepted,,H,WCSP,235095,71652-2,"Arq. Bot. Estado São Paulo","n.s., f.m., 1: 106","","1943",
+kew-235096,A,Bromeliaceae,,Cryptanthus,,"microglazioui",,"","I.Ramírez",Accepted,,H,WCSP,235096,1006497-1,"Harvard Pap. Bot.","3: 219","","1998",
+kew-462814,A,Bromeliaceae,,Cryptanthus,,"micrus",,"","Louzada, Wand. & Versieux",Accepted,,H,WCSP,462814,77107910-1,"Phytotaxa","10: 13","","2010",
+kew-235097,A,Bromeliaceae,,Cryptanthus,,"minarum",,"","L.B.Sm.",Accepted,,H,WCSP,235097,71653-2,"Smithsonian Misc. Collect.","126(1): 24","","1955",
+kew-235098,A,Bromeliaceae,,Cryptanthus,×,"mirabilis",,"","Walter Richt.",Unresolved,,L,WCSP,235098,,"Unknown","","","1935",
+kew-235099,A,Bromeliaceae,,Cryptanthus,,"morrenianus",,"","Regel",Synonym,,H,WCSP,235099,71654-2,"Gartenflora","37: 157","","1888",kew-222121
+kew-235100,A,Bromeliaceae,,Cryptanthus,,"odoratissimus",,"","Leme",Accepted,,H,WCSP,235100,983652-1,"Cryptanthus Soc. J.","7(2): 10","","1992",
+kew-235101,A,Bromeliaceae,,Cryptanthus,,"osiris",,"","W.Weber",Accepted,,H,WCSP,235101,71655-2,"Feddes Repert.","93: 337","","1982",
+kew-235102,A,Bromeliaceae,,Cryptanthus,×,"osyanus",,"","Makoy ex E.Witte",Unresolved,,L,WCSP,235102,,"Unknown","","","1893",
+kew-235103,A,Bromeliaceae,,Cryptanthus,,"pickelii",,"","L.B.Sm.",Accepted,,H,WCSP,235103,71656-2,"Smithsonian Misc. Collect.","126(1): 25","","1955",
+kew-235104,A,Bromeliaceae,,Cryptanthus,,"praetextus",,"","E.Morren ex Baker",Accepted,,H,WCSP,235104,122633-1,"Handb. Bromel.","16","","1889",
+kew-235105,A,Bromeliaceae,,Cryptanthus,,"pseudoglaziovii",,"","Leme",Accepted,,H,WCSP,235105,972851-1,"Cryptanthus Soc. J.","6(4): 10","","1991",
+kew-235106,A,Bromeliaceae,,Cryptanthus,,"pseudopetiolatus",,"","Philcox",Accepted,,H,WCSP,235106,306129-2,"Kew Bull.","47: 265","","1992",
+kew-235107,A,Bromeliaceae,,Cryptanthus,,"pseudoscaposus",,"","L.B.Sm.",Accepted,,H,WCSP,235107,71658-2,"Smithsonian Misc. Collect.","126(1): 25","","1955",
+tro-50080967,A,Bromeliaceae,,Cryptanthus,,"pumilus",,"","hort. ex Gentil",Synonym,,M,TRO,50080967,,"Liste Pl. Cult. Serres Jard. Bot. Brux.","55","55","1907",kew-235045
+kew-372448,A,Bromeliaceae,,Cryptanthus,,"regius",,"","Leme",Accepted,,H,WCSP,372448,,"J. Bromeliad Soc.","57: 26","","2007",
+kew-235108,A,Bromeliaceae,,Cryptanthus,,"reisii",,"","Leme",Accepted,,H,WCSP,235108,20009409-1,"Cryptanthus Soc. J.","17: 87","","2002",
+kew-372324,A,Bromeliaceae,,Cryptanthus,,"reptans",,"","Leme & J.A.Siqueira",Accepted,,H,WCSP,372324,77089982-1,"Fragm. Atlantic Forest N. E. Brazil","287","","2007",
+kew-235109,A,Bromeliaceae,,Cryptanthus,,"roberto-kautskyi",,"","Leme",Accepted,,H,WCSP,235109,983820-1,"Cryptanthus Soc. J.","6(3): 12","","1991",
+kew-235110,A,Bromeliaceae,,Cryptanthus,,"ruthae",,"","Philcox",Synonym,,H,WCSP,235110,300656-2,"Kew Bull.","47: 268","","1992",kew-235106
+kew-374594,A,Bromeliaceae,,Cryptanthus,,"sanctaluciae",,"","Leme & L.Kollmann",Accepted,,H,WCSP,374594,,"J. Bromeliad Soc.","58: 12","","2008",
+kew-235111,A,Bromeliaceae,,Cryptanthus,,"scaposus",,"","E.Pereira",Accepted,,H,WCSP,235111,122637-1,"Bradea","2: 251","","1978",
+kew-235112,A,Bromeliaceae,,Cryptanthus,,"scaposus",var.,"kautskyanus","E.Pereira",Synonym,,L,WCSP,235112,874989-1,"Bradea","2: 252","","1978",kew-235111
+kew-235113,A,Bromeliaceae,,Cryptanthus,,"schwackeanus",,"","Mez",Accepted,,H,WCSP,235113,71659-2,"Fl. Bras.","3(3): 203","","1891",
+kew-235114,A,Bromeliaceae,,Cryptanthus,,"seidelianus",,"","W.Weber",Accepted,,H,WCSP,235114,275353-2,"Feddes Repert.","97: 119","","1986",
+kew-235115,A,Bromeliaceae,,Cryptanthus,,"sergipensis",,"","I.Ramírez",Accepted,,H,WCSP,235115,1006498-1,"Harvard Pap. Bot.","3: 219","","1998",
+kew-235116,A,Bromeliaceae,,Cryptanthus,,"sinuosus",,"","L.B.Sm.",Synonym,,H,WCSP,235116,71660-2,"Smithsonian Misc. Collect.","126(1): 26","","1955",kew-235045
+kew-235117,A,Bromeliaceae,,Cryptanthus,,"suaveolens",,"","E.Morren ex Baker",Unresolved,,L,WCSP,235117,122640-1,"Handb. Bromel.","16","","1889",
+kew-235118,A,Bromeliaceae,,Cryptanthus,,"teretifolius",,"","Leme",Accepted,,H,WCSP,235118,323168-2,"Cryptanthus Soc. J.","17: 15","","2002",
+kew-235119,A,Bromeliaceae,,Cryptanthus,,"testaceus",,"","E.Morren ex Baker",Synonym,,H,WCSP,235119,71662-2,"Handb. Bromel.","15","","1889",kew-235045
+kew-372449,A,Bromeliaceae,,Cryptanthus,,"tiradentesensis",,"","Leme",Accepted,,H,WCSP,372449,,"J. Bromeliad Soc.","57: 268","","2007",
+kew-235120,A,Bromeliaceae,,Cryptanthus,,"ubairensis",,"","I.Ramírez",Accepted,,H,WCSP,235120,1006499-1,"Harvard Pap. Bot.","3: 221","","1998",
+kew-235121,A,Bromeliaceae,,Cryptanthus,,"undulatus",,"","Otto & A.Dietr.",Synonym,Illegitimate,H,WCSP,235121,122642-1,"Allg. Gartenzeitung","4: 299","","1836",kew-235045
+kew-452553,A,Bromeliaceae,,Cryptanthus,,"undulatus",var.,"purpureus","(Baker) Baker",Synonym,,L,WCSP,452553,,"Handb. Bromel.","15","","1889",kew-235045
+kew-452552,A,Bromeliaceae,,Cryptanthus,,"undulatus",var.,"ruber","(Beer) Baker",Synonym,,L,WCSP,452552,,"Handb. Bromel.","15","","1889",kew-235045
+kew-469011,A,Bromeliaceae,,Cryptanthus,,"venecianus",,"","Leme & L.Kollmann",Accepted,,H,WCSP,469011,,"Rodriguésia","61: 31","","2010",
+kew-235122,A,Bromeliaceae,,Cryptanthus,,"vexatus",,"","Leme",Synonym,,H,WCSP,235122,306577-2,"Cryptanthus Soc. J.","10(4): 9","","1995",kew-235106
+kew-468999,A,Bromeliaceae,,Cryptanthus,,"viridovinosus",,"","Leme",Accepted,,H,WCSP,468999,,"Rodriguésia","61: 33","","2010",
+kew-235123,A,Bromeliaceae,,Cryptanthus,,"warasii",,"","E.Pereira",Accepted,,H,WCSP,235123,122643-1,"Bradea","2: 252","","1978",
+kew-235124,A,Bromeliaceae,,Cryptanthus,,"warren-loosei",,"","Leme",Accepted,,H,WCSP,235124,983822-1,"Cryptanthus Soc. J.","8(2-3): 17","","1993",
+kew-235125,A,Bromeliaceae,,Cryptanthus,,"whitmanii",,"","Leme",Accepted,,H,WCSP,235125,983823-1,"Cryptanthus Soc. J.","9(2): 14","","1994",
+kew-235126,A,Bromeliaceae,,Cryptanthus,,"zonatus",,"","(Vis.) Beer",Accepted,,H,WCSP,235126,122644-1,"Fam. Bromel.","76","","1856",
+kew-235127,A,Bromeliaceae,,Cryptanthus,,"zonatus",f.,"fuscus","(Vis.) Mez",Synonym,,L,WCSP,235127,,"Monogr. Phan.","9: 58","","1896",kew-235126
+kew-235128,A,Bromeliaceae,,Cryptanthus,,"zonatus",var.,"fuscus","(Vis.) Beer",Synonym,,L,WCSP,235128,,"Fam. Bromel.","76","","1856",kew-235126
+kew-235130,A,Bromeliaceae,,Cryptanthus,,"zonatus",var.,"viridis","Beer",Synonym,,L,WCSP,235130,,"Fam. Bromel.","76","","1856",kew-235126
+tro-50098336,A,Bromeliaceae,,Cryptanthus,,"zonatus",f.,"zonatus","",Synonym,,L,TRO,50098336,,"","","","",kew-235126

@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-138669,A,Compositae,,Stifftia,,"axillaris",,"","G.M.Barroso & Vinha",Synonym,,M,TICA,70892F87-30D1-4E67-B83C-F11C0D8822D6,251646-1,"""Loefgrenia No. 44, p. [1] (1970)""","","1","1970",gcc-15175
+gcc-118575,A,Compositae,,Stifftia,,"benthamiana",,"","(R.H.Schomb.) Baker",Synonym,,M,TICA,02C8C000-7ABA-4DC2-BB8E-C3481EA97E3C,,"Fl. Bras. (Martius) 6(3): 352","","352","1884",gcc-26819
+gcc-113949,A,Compositae,,Stifftia,,"cayennensis",,"","H.Rob. & B.Kahn",Accepted,,M,TICA,AD68AD04-6175-4C3F-9BDB-B8BC811084F4,285605-2,"","","248","1985",
+gcc-104731,A,Compositae,,Stifftia,,"chrysantha",,"","J.C.Mikan",Accepted,,M,TICA,EEF67F07-714B-4923-80F7-A41D8CCF59E8,,"","","","1820",
+gcc-146334,A,Compositae,,Stifftia,,"chrysantha",var.,"chrysantha","",Synonym,,L,TICA,4F0275E6-FFF4-41DA-B4E6-1675F649554E,,"","","","",gcc-104731
+gcc-155247,A,Compositae,,Stifftia,,"chrysantha",var.,"flavicans","Dedecca",Synonym,,L,TICA,2B8D211E-18AA-42BA-9BFD-D4042A0BADF6,,"","","","",gcc-104731
+gcc-76411,A,Compositae,,Stifftia,,"condensata",,"","Baker",Synonym,,M,TICA,87351E43-8E27-4282-B689-64A2F452945F,,"Fl. Bras. (Martius) 6(3): 351","","351","1884",gcc-3703
+gcc-92500,A,Compositae,,Stifftia,,"connellii",,"","N.E.Br.",Synonym,,M,TICA,FFD9EC27-A64A-4E98-8081-88BDC8A29DA5,251650-1,"","","40","1901",gcc-121147
+gcc-48418,A,Compositae,,Stifftia,,"fruticosa",,"","(Vell.) D.J.N.Hind & Semir",Accepted,,M,TICA,2CD96A36-2E20-4AF8-9C8B-59B4C35B538B,1004204-1,"","","618","1998",
+gcc-147815,A,Compositae,,Stifftia,,"fruticosa",var.,"fruticosa","",Synonym,,L,TICA,2F9F3B04-DE71-475A-9FD3-35C7509167E6,,"","","","",gcc-48418
+gcc-13798,A,Compositae,,Stifftia,,"grazielae",,"","Leitão",Synonym,Invalid,M,TICA,E25B6268-4A6E-43C6-8743-19A80AE97F4B,,"""in Bragantia, 29(16): 176 (1970), as 'grazieli', holotype not indicated.""","","","",gcc-48418
+gcc-140603,A,Compositae,,Stifftia,,"hatschbachii",,"","H.Rob.",Accepted,,M,TICA,3882AE02-E32A-4B94-9AAC-F570302E4A01,,"","","","1991",
+gcc-90848,A,Compositae,,Stifftia,,"insignis",,"","Regel",Unresolved,,L,TICA,BE44634F-8C11-4DDB-AFCE-850B3D2ED8D8,251652-1,"Cat. Pl. Hort. Aksakov. 135.","","135","",
+gcc-127320,A,Compositae,,Stifftia,,"martiana",,"","Baker",Synonym,,M,TICA,13C61B1A-107D-4456-AF1F-D75EB5C8A14A,,"Flora Brasiliensis 6(3):","","351","1884",gcc-44025
+gcc-50447,A,Compositae,,Stifftia,,"martima",,"","Baker",Unresolved,,L,TICA,5233DE43-52B5-4C8B-8984-5D895C94EEA1,,"Fl. Bras. (Martius) 6(3): 351","","351","",
+gcc-142673,A,Compositae,,Stifftia,,"parviflora",,"","(Leandro) D.Don",Accepted,,M,TICA,49DE3DB7-16F3-4A1E-AC13-FA1E44AA8767,251654-1,"Trans. Linn. Soc. London 16(2): 291","","291","1830",
+gcc-103489,A,Compositae,,Stifftia,,"racemosa",,"","H.Rob.",Synonym,,M,TICA,E8D761AD-3BD1-4974-AC19-A16686ABC7C8,,"","","","1991",gcc-142673
+gcc-34921,A,Compositae,,Stifftia,,"uniflora",,"","Ducke",Accepted,,M,TICA,13CA52BD-2FCC-4E33-94EF-40BC6FB82650,,"","","","1935",

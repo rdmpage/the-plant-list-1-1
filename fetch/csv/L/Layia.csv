@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113614,A,Compositae,,Layia,,"calliglossa",,"","A.Gray",Accepted,,M,TICA,78623B91-7948-4511-9EA2-B8009FA981CA,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 103.""","","103","",
+gcc-155957,A,Compositae,,Layia,,"calliglossa",var.,"calliglossa","",Synonym,,L,TICA,974DDE41-1552-41CB-9597-E37A4190DA7D,,"","","","",gcc-113614
+gcc-57032,A,Compositae,,Layia,,"calliglossa",var.,"oligochaeta","A.Gray",Unresolved,,L,TICA,4C4EA522-CC6A-4D08-AA96-83194F604D30,,"","","","",gcc-128605
+gcc-20723,A,Compositae,,Layia,,"carnosa",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,C6E51EC2-DABF-4438-B5DB-2655209E8C2F,229111-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 394","","394","1843",
+gcc-135168,A,Compositae,,Layia,,"chrysanthemoides",,"","(DC. ex DC.) A.Gray",Accepted,,M,TICA,0F11DC65-4A4E-4213-A899-E960287C8F17,229112-1,"","","360","1868",
+gcc-66700,A,Compositae,,Layia,,"chrysanthemoides",subsp.,"chrysanthemoides","",Synonym,,L,TICA,3733B567-8CC3-408E-8B4E-D0E5484568C9,,"","","","",gcc-135168
+gcc-72556,A,Compositae,,Layia,,"chrysanthemoides",subsp.,"maritima","D.D.Keck",Synonym,,L,TICA,07C986C0-D0F3-446C-8139-FEE8F32C3AA2,136434-2,"Aliso 4: 106. 1958","","106","1958",gcc-135168
+gcc-22415,A,Compositae,,Layia,,"discoidea",,"","D.D.Keck",Accepted,,M,TICA,D3C48CA6-5DCD-4376-A89A-2979D306D277,136435-2,"","","106","1958",
+gcc-128605,A,Compositae,,Layia,,"douglasii",,"","Hook. & Arn.",Accepted,,L,TICA,4596875E-4EB5-4901-A420-DA6522703C73,229114-1,"Bot. Beechey Voy. 358.","","358","1839",
+gcc-40935,A,Compositae,,Layia,,"elegans",,"","Torr. & A.Gray",Accepted,,M,TICA,00E189F6-5CE7-4DCC-8E71-4BD90C7E00E9,,"Fl. N. Amer. (Torr. & A. Gray) 2: 394","","","1843",
+ild-43706,A,Leguminosae,,Layia,,"emarginata",,"","Hook. & Arn.",Synonym,,H,ILDIS,43706,,"","","","",ild-31868
+gcc-121493,A,Compositae,,Layia,,"fremontii",,"","(Torr. & A.Gray) A.Gray",Accepted,,M,TICA,538DF194-6075-40B9-A5CB-C9E9D86BD789,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 103.""","","103","1849",
+gcc-135571,A,Compositae,,Layia,,"gaillardioides",,"","(Hook. & Arn.) DC.",Accepted,,L,TICA,441E3A38-7989-4678-AB08-EA4C1BCAB887,,"","","","1838",
+gcc-44026,A,Compositae,,Layia,,"galardioides",,"","(Hook. & Arn.) DC.",Unresolved,,L,TICA,95957134-C574-4A37-9C92-518D1B568BC7,229118-1,"Prodr. (DC.) 7(1): 294 (sphalm. gaillardioides)","","294","1838",
+gcc-86165,A,Compositae,,Layia,,"glandulosa",,"","(Hook.) Hook. & Arn.",Accepted,,M,TICA,8D1ECD6C-3A80-44B0-8252-7A4D30804FF9,,"Bot. Beechey Voy. Suppl. 358","","358","1838",
+gcc-2034,A,Compositae,,Layia,,"glandulosa",subsp.,"glandulosa","",Synonym,,L,TICA,CB90E5A5-095A-4303-8AFC-03AA69CA9B6B,,"","","","",gcc-86165
+gcc-44881,A,Compositae,,Layia,,"glandulosa",var.,"glandulosa","",Synonym,,L,TICA,305DE411-4791-43AE-803A-532AE93DAB79,,"","","","",gcc-86165
+gcc-31154,A,Compositae,,Layia,,"glandulosa",subsp.,"lutea","D.D.Keck",Synonym,,L,TICA,F1D98497-5D88-4F3B-83C8-39AEBBEBA3DD,136439-2,"Madroño 3: 18. 1935","","18","1935",gcc-86165
+gcc-71723,A,Compositae,,Layia,,"glandulosa",var.,"lutea","(Keck) Hoover",Synonym,,L,TICA,4B2D6405-4E10-4490-A424-F861A0472FA2,,"","","","",gcc-86165
+gcc-127990,A,Compositae,,Layia,,"graveolens",,"","Greene",Unresolved,,L,TICA,3E68D2EA-E96B-42EF-B781-D8F7DDAC4F21,,"in Bull. Calif. Acad. i. n. III. (1885) 92.","","","1885",
+gcc-125144,A,Compositae,,Layia,,"heterotricha",,"","(DC.) Hook. & Arn.",Accepted,,M,TICA,9662B1BB-23C5-4B84-841D-D25DEAB88043,,"Bot. Beechey Voy. Suppl. 358","","358","1838",
+gcc-155932,A,Compositae,,Layia,,"heterotricha",var.,"heterotricha","",Synonym,,L,TICA,0109773C-496F-4150-B575-E2BC0E4BA9B6,,"","","","",gcc-125144
+gcc-85093,A,Compositae,,Layia,,"hieracioides",,"","(DC.) Hook. & Arn.",Accepted,,M,TICA,3923C0F7-3397-493C-AB18-77E581818D86,,"Bot. Beechey Voy. Suppl. 358","","358","1838",
+gcc-89685,A,Compositae,,Layia,,"hispida",,"","Greene",Accepted,,M,TICA,A3201FE6-0F6E-4D45-B645-824188C79CDF,,"","","","1889",
+gcc-104505,A,Compositae,,Layia,,"jonesii",,"","A.Gray",Accepted,,M,TICA,E9C06C3B-A8CE-4BCB-800C-A3A5AB1EBB7E,229124-1,"Proc. Amer. Acad. Arts xix. (1883) 18.","","18","1883",
+gcc-44468,A,Compositae,,Layia,,"leucopappa",,"","D.D.Keck",Accepted,,M,TICA,FC588597-9577-42A3-8D0A-5264D8639510,136446-2,"","","17","1935",
+gcc-27427,A,Compositae,,Layia,,"munzii",,"","D.D.Keck",Accepted,,M,TICA,8537DCD3-C1E1-41D3-9E8E-32B7D5E1EDB6,136447-2,"","","16","1935",
+gcc-102569,A,Compositae,,Layia,,"nemorosa",,"","Jeps.",Accepted,,M,TICA,34F40414-11E3-4A53-9893-9F707D1B4B1F,136448-2,"","","","1911",
+gcc-121156,A,Compositae,,Layia,,"neo-mexicana",,"","A.Gray",Unresolved,,L,TICA,22A131E4-B86D-43B6-A024-C929FB14B894,,"Pl. Wright. ii. 98.","","","1853",
+gcc-4903,A,Compositae,,Layia,,"nutans",,"","(Greene) Jeps.",Synonym,,M,TICA,24C5BF5D-B0A5-4952-871C-0926B16F8A0D,136450-2,"","","","1911",gcc-50026
+gcc-88041,A,Compositae,,Layia,,"paniculata",,"","D.D.Keck",Synonym,,M,TICA,CC7A119D-FC5F-439A-B69F-7E8DEA08A5DC,136451-2,"","","107","1958",gcc-85093
+gcc-14054,A,Compositae,,Layia,,"pentachaeta",,"","A.Gray",Accepted,,M,TICA,F52B2472-0771-42A4-AF6A-1A101BF32179,,"in Pacif. Rail. Rep. iv. 108. t. 16.","","","1857",
+gcc-60908,A,Compositae,,Layia,,"pentachaeta",var.,"albida","(D.D.Keck) Hoover",Synonym,,L,TICA,D7C71137-4CEB-42D8-8E52-A244EB4092B4,1060247-2,"""Vasc. Pl. San Luis Obispo Co., Calif. 286. 1970""","","286","1970",gcc-62730
+gcc-62730,A,Compositae,,Layia,,"pentachaeta",subsp.,"albida","D.D.Keck",Accepted,,L,TICA,6ED806F8-207C-4819-B1F2-B1046D0B5996,136453-2,"Aliso 4: 107. 1958","","107","1958",
+gcc-150310,A,Compositae,,Layia,,"pentachaeta",var.,"pentachaeta","",Synonym,,L,TICA,693579AF-41FF-40DB-87D9-6B91BA35FBD3,,"","","","",gcc-14054
+gcc-40374,A,Compositae,,Layia,,"pentachaeta",subsp.,"pentachaeta","",Synonym,,L,TICA,4CD06DEC-91B2-40C2-A53A-4AD5C27C9FA4,,"","","","",gcc-14054
+gcc-35886,A,Compositae,,Layia,,"platyglossa",,"","(Fisch. & C.A.Mey.) A.Gray",Accepted,,M,TICA,43B47237-3AFB-4E54-9BF3-428BB2C7939B,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 103.""","","103","1849",
+gcc-48855,A,Compositae,,Layia,,"platyglossa",var.,"breviseta","A.Gray",Synonym,,L,TICA,0652AF05-6DEC-4742-98DD-5A7ED093DA7C,,"","","","",gcc-35886
+gcc-58906,A,Compositae,,Layia,,"platyglossa",subsp.,"campestris","D.D.Keck",Synonym,,L,TICA,875F5C56-A8C9-4605-8D58-9247B10BE16F,136455-2,"Aliso 4: 106. 1958","","106","1958",gcc-35886
+gcc-154101,A,Compositae,,Layia,,"platyglossa",var.,"platyglossa","",Synonym,,L,TICA,EBAB6561-A775-4496-8EA5-BC78658BC741,,"","","","",gcc-35886
+gcc-58853,A,Compositae,,Layia,,"platyglossa",subsp.,"platyglossa","",Synonym,,L,TICA,3D323813-42FE-440F-834A-91F42A78BF35,,"","","","",gcc-35886
+gcc-137494,A,Compositae,,Layia,,"septentrionalis",,"","D.D.Keck",Accepted,,M,TICA,3D232FFE-9C49-461E-93AD-EE9117B23907,136456-2,"","","106","1958",
+gcc-45430,A,Compositae,,Layia,,"ziegleri",,"","Munz",Synonym,,M,TICA,BEEC0FCC-61E0-4ABB-9644-542CD8D2291D,136457-2,"","","149","1968",gcc-35886

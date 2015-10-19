@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-4549,A,Rubiaceae,,Agathisanthemum,,"angolense",,"","Bremek.",Synonym,,H,WCSP,4549,742946-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 157","","1952",kew-4552
+kew-4550,A,Rubiaceae,,Agathisanthemum,,"assimile",,"","Bremek.",Accepted,,H,WCSP,4550,742947-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 158","","1952",
+kew-4551,A,Rubiaceae,,Agathisanthemum,,"bojeri",,"","Klotzsch",Accepted,,H,WCSP,4551,742948-1,"Naturw. Reise Mossambique","294","","1861",
+kew-4552,A,Rubiaceae,,Agathisanthemum,,"bojeri",subsp.,"angolense","(Bremek.) Verdc.",Accepted,,L,WCSP,4552,955218-1,"in Fl. Zambes.","5(1): 110","","1989",
+kew-4553,A,Rubiaceae,,Agathisanthemum,,"bojeri",subsp.,"australe","Bremek.",Synonym,,L,WCSP,4553,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 156","","1952",kew-4551
+kew-4554,A,Rubiaceae,,Agathisanthemum,,"bojeri",subsp.,"bojeri","",Synonym,,L,WCSP,4554,,"Unknown","","","",kew-4551
+kew-4558,A,Rubiaceae,,Agathisanthemum,,"chlorophyllum",,"","(Hochst.) Bremek.",Accepted,,H,WCSP,4558,742949-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 159","","1952",
+tro-27904593,A,Rubiaceae,,Agathisanthemum,,"chlorophyllum",var.,"chlorophyllum","",Synonym,,L,TRO,27904593,,"","","","",kew-4558
+kew-4559,A,Rubiaceae,,Agathisanthemum,,"chlorophyllum",var.,"pubescens","Bremek.",Synonym,,L,WCSP,4559,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 160","","1952",kew-4558
+kew-4560,A,Rubiaceae,,Agathisanthemum,,"globosum",,"","(Hochst. ex A.Rich.) Klotzsch",Accepted,,H,WCSP,4560,742950-1,"Naturw. Reise Mossambique","294","","1861",
+tro-27908872,A,Rubiaceae,,Agathisanthemum,,"globosum",,"","(Hochst. ex A. Rich.) Bremek.",Synonym,,M,TRO,27908872,742951-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect.","48(2): 161","161","1952",kew-4560
+kew-4561,A,Rubiaceae,,Agathisanthemum,,"globosum",var.,"subglobosum","Bremek.",Synonym,,L,WCSP,4561,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 163","","1952",kew-4560
+kew-4562,A,Rubiaceae,,Agathisanthemum,,"petersii",,"","Klotzsch",Synonym,,H,WCSP,4562,742952-1,"Naturw. Reise Mossambique","295","","1861",kew-4560
+kew-4563,A,Rubiaceae,,Agathisanthemum,,"quadricostatum",,"","Bremek.",Synonym,,H,WCSP,4563,742953-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 160","","1952",kew-4560
+kew-4564,A,Rubiaceae,,Agathisanthemum,,"quadricostatum",var.,"pubescens","Bremek.",Synonym,,L,WCSP,4564,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 161","","1952",kew-4552

@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-418647,A,Poaceae,,Henrardia,,"glabriglumis",,"","(Nevski) Tzvelev",Synonym,,H,WCSP,418647,404730-1,"Spisok Rast. Gerb. Fl. S.S.S.R. Bot. Inst. Vsesojuzn. Akad. Nauk","14: 83, 84","","1957",kew-418649
+kew-418648,A,Poaceae,,Henrardia,,"hirtella",,"","Nikif.",Synonym,,H,WCSP,418648,404731-1,"Opred. Rast. Sred. Azii","1: 165, 200","","1968",kew-418652
+kew-418649,A,Poaceae,,Henrardia,,"persica",,"","(Boiss.) C.E.Hubb.",Accepted,,H,WCSP,418649,404732-1,"Blumea, Suppl.","3: 17","","1946",
+tro-25560815,A,Poaceae,,Henrardia,,"persica",var.,"erecta","(Griseb.) C.E. Hubb.",Synonym,,L,TRO,25560815,,"Blumea, Suppl.","3: 18","18","1946",kew-418649
+kew-418651,A,Poaceae,,Henrardia,,"persica",var.,"glaberrima","(Hausskn. ex Bornm.) C.E.Hubb.",Synonym,,L,WCSP,418651,,"Blumea, Suppl.","3: 19","","1946",kew-418649
+kew-418650,A,Poaceae,,Henrardia,,"persica",subsp.,"glabriglumis","(Nevski) Czopanov",Synonym,,L,WCSP,418650,,"Opred. Zlak. Turkmenii","2: 34","","1973",kew-418649
+tro-25511150,A,Poaceae,,Henrardia,,"persica",var.,"persica","",Synonym,,L,TRO,25511150,,"","","","",kew-418649
+kew-418652,A,Poaceae,,Henrardia,,"pubescens",,"","(Bertol.) C.E.Hubb.",Accepted,,H,WCSP,418652,404733-1,"Blumea, Suppl.","3: 19","","1946",
+kew-418654,A,Poaceae,,Henrardia,,"pubescens",var.,"glabra","Bor",Synonym,,L,WCSP,418654,,"Taxon","16: 68","","1967",kew-418652
+kew-418653,A,Poaceae,,Henrardia,,"pubescens",subsp.,"hirtella","(Nikif.) Á.Löve",Synonym,,L,WCSP,418653,923393-1,"Feddes Repert.","95: 508","","1984",kew-418652

@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-83579,A,Compositae,,Chaetopappa,,"alsinoides",,"","(Greene) D.D.Keck",Synonym,,M,TICA,AC4249FF-36E5-4CA2-AED0-749FB8B98FC6,54220-2,"Aliso 4","","103","1958",gcc-35621
+gcc-117351,A,Compositae,,Chaetopappa,,"asteroides",,"","(Nutt.) Nutt. ex DC.",Accepted,,M,TICA,3B8620B2-9B2C-4DA8-9D9F-C07A94D72A10,30247667-2,"Prodr. (DC.) 5: 301","","301","1836",
+gcc-14991,A,Compositae,,Chaetopappa,,"asteroides",var.,"asteroides","",Synonym,,L,TICA,EF9694E9-71FF-4302-B7F8-1BC0C302546F,,"","","","",gcc-117351
+gcc-50591,A,Compositae,,Chaetopappa,,"asteroides",var.,"grandis","Shinners",Accepted,,L,TICA,F5E0CBC4-FC31-4FA9-A74B-5DCE9E734F13,54221-2,"Wrightia 1","","76","1946",
+gcc-69379,A,Compositae,,Chaetopappa,,"asteroides",var.,"imberbis","A.Gray",Synonym,,L,TICA,7C72D080-A029-45F0-8F85-E5D3E6AEC06B,274378-2,"Proc. Amer. Acad. Arts 16: 82. 1880","","82","1880",gcc-15988
+gcc-44681,A,Compositae,,Chaetopappa,,"aurea",,"","(Nutt.) D.D.Keck",Synonym,,M,TICA,F2A3D384-174E-4FE0-810E-52C7B4D71DD8,54223-2,"Aliso 4","","102","1958",gcc-24937
+gcc-142362,A,Compositae,,Chaetopappa,,"bellidiflora",,"","(Greene) D.D.Keck",Synonym,,M,TICA,FF5C25C6-CBB9-48FF-88F8-F96FC61A51B1,54224-2,"Aliso 4","","102","1958",gcc-50634
+gcc-116590,A,Compositae,,Chaetopappa,,"bellidifolia",,"","(A.Gray & Engelm. ex A.Gray & Engelm.) Shinners",Accepted,,M,TICA,BDCD1078-94C8-46A1-B9AB-BEC0AA1A183E,54225-2,"Wrightia 1","","71","1946",
+gcc-20811,A,Compositae,,Chaetopappa,,"bellioides",,"","(A.Gray) Shinners",Accepted,,M,TICA,A277145E-FFF7-4A69-9C67-267B5026686A,192397-1,"Wrightia 1","","77","1946",
+gcc-912,A,Compositae,,Chaetopappa,,"bellioides",var.,"bellioides","",Synonym,,L,TICA,40A35F4B-CE7F-4F9B-8C27-01B0B1C55922,,"","","","",gcc-20811
+gcc-70346,A,Compositae,,Chaetopappa,,"bellioides",var.,"hirticaulis","Shinners",Synonym,,L,TICA,6BB12B2B-4933-4232-9E0D-ED601CAEB7E7,54227-2,"Wrightia 1: 79 (1946)","","79","1946",gcc-20811
+gcc-109735,A,Compositae,,Chaetopappa,,"effusa",,"","(A.Gray) Shinners",Accepted,,M,TICA,C4FE3450-8C28-466D-9315-AF55474A53BD,54228-2,"Wrightia 1","","68","1946",
+gcc-11999,A,Compositae,,Chaetopappa,,"elegans",,"","Soreng & Spellenb.",Synonym,,M,TICA,E9815AC3-50C3-47FC-8165-165D3C8615EE,,"""Syst. Bot. 9: 1 (-4), fig. 1984""","","","1984",gcc-43368
+gcc-52637,A,Compositae,,Chaetopappa,,"ericoides",,"","(Torr.) G.L.Nesom",Accepted,,M,TICA,A5AD7A89-DAF9-49E1-A592-618F89F01868,274379-2,"Phytologia 64","","449","1988",
+gcc-26343,A,Compositae,,Chaetopappa,,"exilis",,"","(A.Gray) D.D.Keck",Synonym,,M,TICA,AD244DA1-5961-41BC-89F5-30AE06FB9DA4,54230-2,"Aliso 4","","103","1958",gcc-40576
+gcc-99676,A,Compositae,,Chaetopappa,,"fragilis",,"","(Brandegee) D.D.Keck",Synonym,,M,TICA,1F287557-43C9-4F4D-B1B6-98E8CE22465A,54231-2,"Aliso 4","","102","1958",gcc-99650
+gcc-133894,A,Compositae,,Chaetopappa,,"hersheyi",,"","S.F.Blake",Accepted,,M,TICA,9F16E15E-9DD4-4C91-8028-E68F463BE0BA,192401-1,"","","47","1946",
+gcc-15988,A,Compositae,,Chaetopappa,,"imberbis",,"","(A.Gray) G.L.Nesom",Accepted,,M,TICA,A564AF03-89DF-4939-B89C-1D9656D6762A,274380-2,"","","449","1988",
+gcc-114585,A,Compositae,,Chaetopappa,,"keerlioides",,"","Shinners",Accepted,,M,TICA,894466DB-40E2-4D41-8DEF-BA31AE7B67FF,54232-2,"Wrightia 1","","69","1946",
+gcc-132851,A,Compositae,,Chaetopappa,,"laxa",,"","Hook.f.",Unresolved,,L,TICA,7F5E89AE-944C-4D62-A1E1-E43C1453FC37,274381-2,"""Bot. Antarct. Voy., Vol. 1, Fl. Antarct. 2: 361 (-362). 1846""","","361 (-362)","1846",
+gcc-2748,A,Compositae,,Chaetopappa,,"lyonii",,"","(A.Gray) D.D.Keck",Synonym,,M,TICA,69155B85-7841-46FB-82B6-050CA7106604,54233-2,"Aliso 4","","102","1958",gcc-41673
+gcc-138596,A,Compositae,,Chaetopappa,,"modesta",,"","(DC.) A.Gray",Synonym,,M,TICA,BFD8B890-197A-4670-A1B0-F0F022CD5163,,"","","82","",gcc-50591
+gcc-111709,A,Compositae,,Chaetopappa,,"parryi",,"","A.Gray",Accepted,,M,TICA,FB7DE339-20BA-4499-9224-B3B670CC6E0A,,"","","82","1880",
+gcc-129947,A,Compositae,,Chaetopappa,,"plomoensis",,"","B.L.Turner",Accepted,,M,TICA,98EBC506-E3A2-473C-9662-DD6FF7D8E990,54235-2,"Sida 7","","22","1977",
+gcc-23284,A,Compositae,,Chaetopappa,,"pulchella",,"","Shinners",Accepted,,M,TICA,3860BA16-7DA7-467D-870B-2B186D2C884F,54236-2,"Wrightia 1","","79","1946",

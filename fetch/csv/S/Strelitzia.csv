@@ -1,0 +1,42 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-267239,A,Strelitziaceae,,Strelitzia,,"alba",,"","(L.f.) Skeels",Accepted,,H,WCSP,267239,585015-1,"Bull. Bur. Pl. Industr. U.S.D.A.","248: 57","","1912",
+kew-267240,A,Strelitziaceae,,Strelitzia,,"alba",subsp.,"augusta","(Thunb.) Maire & Weiller",Synonym,,L,WCSP,267240,,"in Fl. Afr. Nord","6: 217","","1959 publ. 1960",kew-267239
+kew-267241,A,Strelitziaceae,,Strelitzia,,"alba",subsp.,"nicolai","(Regel & K.Koch) Maire & Weiller",Synonym,,L,WCSP,267241,,"in Fl. Afr. Nord","6: 217","","1959 publ. 1960",kew-267253
+kew-267242,A,Strelitziaceae,,Strelitzia,,"angusta",,"","D.Dietr.",Synonym,Spelling variant,H,WCSP,267242,798174-1,"Syn. Pl.","1: 850","","1839",kew-267239
+kew-267243,A,Strelitziaceae,,Strelitzia,,"angustifolia",,"","W.T.Aiton",Synonym,,H,WCSP,267243,,"Hortus Kew.","2: 55","","1811",kew-267262
+kew-267244,A,Strelitziaceae,,Strelitzia,,"augusta",,"","Thunb.",Synonym,,H,WCSP,267244,798176-1,"Nov. Gen. Pl.","113","","1792",kew-267239
+kew-267245,A,Strelitziaceae,,Strelitzia,,"caudata",,"","R.A.Dyer",Accepted,,H,WCSP,267245,585016-1,"Fl. Pl. Africa","25: t. 997","","1946",
+kew-267246,A,Strelitziaceae,,Strelitzia,,"cucullata",,"","Volut",Synonym,,H,WCSP,267246,585019-1,"Rev. Hort.","n.s., 22: 85","","1930",kew-267262
+kew-267247,A,Strelitziaceae,,Strelitzia,,"farinosa",,"","W.T.Aiton",Synonym,,H,WCSP,267247,,"Hortus Kew.","2: 55","","1811",kew-267262
+kew-267248,A,Strelitziaceae,,Strelitzia,,"gigantea",,"","J.Kern.",Synonym,,H,WCSP,267248,798178-1,"Hort. Semperv.","t. 589","","1796",kew-267262
+kew-267249,A,Strelitziaceae,,Strelitzia,,"glauca",,"","A.Rich.",Synonym,,H,WCSP,267249,798179-1,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur.","15(Suppl.): 17","","1831",kew-267262
+kew-267250,A,Strelitziaceae,,Strelitzia,,"humilis",,"","Link",Synonym,,H,WCSP,267250,798180-1,"Enum. Hort. Berol. Alt.","1: 150","","1821",kew-267262
+kew-267251,A,Strelitziaceae,,Strelitzia,,"juncea",,"","(Ker Gawl.) Link",Accepted,,H,WCSP,267251,798181-1,"Enum. Hort. Berol. Alt.","1: 150","","1821",
+kew-267252,A,Strelitziaceae,,Strelitzia,×,"kewensis",,"","S.A.Skan",Unresolved,,L,WCSP,267252,,"Bull. Misc. Inform. Kew","1910: 65","","1910",
+kew-267253,A,Strelitziaceae,,Strelitzia,,"nicolai",,"","Regel & K.Koch",Accepted,,H,WCSP,267253,798185-1,"Gartenflora","7: 265","","1858",
+kew-267254,A,Strelitziaceae,,Strelitzia,,"ovata",,"","W.T.Aiton",Synonym,,H,WCSP,267254,,"Hortus Kew.","2: 55","","1811",kew-267262
+kew-267255,A,Strelitziaceae,,Strelitzia,,"parvifolia",,"","W.T.Aiton",Synonym,,H,WCSP,267255,,"Hortus Kew.","2: 56","","1811",kew-267262
+kew-267256,A,Strelitziaceae,,Strelitzia,,"parvifolia",var.,"juncea","Ker Gawl.",Synonym,,L,WCSP,267256,,"Bot. Reg.","6: t. 516","","1821",kew-267251
+kew-267257,A,Strelitziaceae,,Strelitzia,,"principis",,"","Andrews ex Spreng.",Synonym,,H,WCSP,267257,798189-1,"Syst. Veg.","1: 833","","1824",kew-267251
+kew-267258,A,Strelitziaceae,,Strelitzia,,"prolifera",,"","Carrière",Synonym,,H,WCSP,267258,798190-1,"Rev. Hort.","1869: 159","","1869",kew-267262
+kew-267259,A,Strelitziaceae,,Strelitzia,,"pumila",,"","Planch.",Synonym,,H,WCSP,267259,798191-1,"J. Gén. Hort.","11: 53","","1856",kew-267262
+kew-267260,A,Strelitziaceae,,Strelitzia,,"quensonii",,"","Lem.",Synonym,,H,WCSP,267260,798192-1,"Ill. Hort.","10(Misc.): 20","","1863",kew-267253
+kew-267261,A,Strelitziaceae,,Strelitzia,,"regalis",,"","Salisb.",Synonym,Illegitimate,H,WCSP,267261,798193-1,"Prodr. Stirp. Chap. Allerton","145","","1796",kew-267262
+kew-267262,A,Strelitziaceae,,Strelitzia,,"reginae",,"","Banks",Accepted,,H,WCSP,267262,798194-1,"Icon.","t. Strelitzia reginae","","1788",
+kew-267263,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"crinita","W.J.Richards",Synonym,,L,WCSP,267263,,"Gard. Chron.","III, 2: 816","","1887",kew-267262
+kew-267264,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"farinosa","(W.T.Aiton) Baker",Synonym,,L,WCSP,267264,,"Ann. Bot. (Oxford)","7: 201","","1893",kew-267262
+kew-267265,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"flava","Gouas",Synonym,,L,WCSP,267265,,"Rev. Hort.","29: 271","","1857",kew-267262
+kew-267266,A,Strelitziaceae,,Strelitzia,,"reginae",f.,"flava","(Gouas) Siebert & Voss",Synonym,,L,WCSP,267266,,"Vilm. Blumengärtn. ed. 3","1: 959","","1895",kew-267262
+kew-267267,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"glauca","(A.Rich.) Baker",Synonym,,L,WCSP,267267,,"Ann. Bot. (Oxford)","7: 201","","1893",kew-267262
+kew-267268,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"humilis","(Link) Baker",Synonym,,L,WCSP,267268,,"Ann. Bot. (Oxford)","7: 207","","1893",kew-267262
+kew-267269,A,Strelitziaceae,,Strelitzia,,"reginae",f.,"humilis","(Link) Siebert & Voss",Synonym,,L,WCSP,267269,,"Vilm. Blumengärtn. ed. 3","1: 959","","1895",kew-267262
+kew-267270,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"juncea","(Ker Gawl.) H.E.Moore",Synonym,,L,WCSP,267270,886872-1,"Baileya","19: 171","","1975",kew-267251
+kew-267271,A,Strelitziaceae,,Strelitzia,,"reginae",subsp.,"juncea","(Ker Gawl.) Sm.",Synonym,,L,WCSP,267271,,"Bot. Reg.","6: t. 516","","1821",kew-267251
+kew-267273,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"lemoinieri","Miellez ex Planch.",Synonym,,L,WCSP,267273,,"Ann. Gén. Hort.","23: t. 2370","","1880",kew-267262
+kew-267274,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"ovata","(W.T.Aiton) Baker",Synonym,,L,WCSP,267274,,"Ann. Bot. (Oxford)","7: 202","","1893",kew-267262
+kew-267275,A,Strelitziaceae,,Strelitzia,,"reginae",subsp.,"parvifolia","(W.T.Aiton) Maire & Weiller",Synonym,,L,WCSP,267275,,"in Fl. Afr. Nord","6: 215","","1959 publ. 1960",kew-267262
+kew-371779,A,Strelitziaceae,,Strelitzia,,"reginae",subsp.,"reginae","",Synonym,,L,WCSP,371779,,"Unknown","","","",kew-267262
+kew-267276,A,Strelitziaceae,,Strelitzia,,"reginae",var.,"rutilans","C.Morren",Synonym,,L,WCSP,267276,,"Ann. Soc. Roy. Agric. Gand","2: 53","","1846",kew-267262
+kew-267278,A,Strelitziaceae,,Strelitzia,,"rutilans",,"","C.Morren",Synonym,,H,WCSP,267278,,"Ann. Soc. Roy. Agric. Gand","2: t. 53","","1846",kew-267262
+kew-267279,A,Strelitziaceae,,Strelitzia,,"spathulata",,"","Volut",Synonym,,H,WCSP,267279,585022-1,"Rev. Hort.","n.s., 22: 85","","1930",kew-267262
+kew-267280,A,Strelitziaceae,,Strelitzia,,"teretifolia",,"","Barrow ex Steud.",Synonym,Invalid,H,WCSP,267280,,"Nomencl. Bot.","ed. 2, 2: 645","","1841",kew-267251

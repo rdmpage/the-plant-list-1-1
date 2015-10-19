@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-100289103,A,Saururaceae,,Anemopsis,,"berlanderi",,"","C. DC.",Unresolved,,L,TRO,100289103,677261-1,"Linnaea","37: 333","333","1872",
+kew-2638909,A,Saururaceae,,Anemopsis,,"bolanderi",,"","C.DC.",Synonym,,H,WCSP,382200,60445043-2,"Linnaea","37: 333","","1872",kew-2638910
+kew-2638910,A,Saururaceae,,Anemopsis,,"californica",,"","(Nutt.) Hook. & Arn.",Accepted,,H,WCSP,382201,1197862-2,"Bot. Beechey Voy.","390","","1840",
+kew-2638911,A,Saururaceae,,Anemopsis,,"californica",var.,"subglabra","Kelso",Synonym,,L,WCSP,382202,13632-2,"Amer. Midl. Naturalist","13: 112","","1932",kew-2638910
+kew-2638913,A,Saururaceae,,Anemopsis,,"ludovicisalvatoris",,"","Willk.",Synonym,,H,WCSP,382204,677263-1,"Gartenflora","26: 228","","1877",kew-2638910

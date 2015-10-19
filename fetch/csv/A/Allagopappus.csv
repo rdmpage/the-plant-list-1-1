@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-101476,A,Compositae,,Allagopappus,,"canariensis",,"","(Willd.) Greuter",Accepted,,M,TICA,22FADE91-E0D1-4817-BA59-9CE16B092E62,,"","","241","2003",
+gcc-26476,A,Compositae,,Allagopappus,,"chrysopsioides",,"","Sch.Bip.",Synonym,,M,TICA,540E6BA1-AC05-4DB5-AD7C-30EC4027DF8C,175896-1,"","","153","1867",gcc-87610
+gcc-83176,A,Compositae,,Allagopappus,,"dichotomus",,"","Cass.",Synonym,,M,TICA,D03768A9-8118-4C59-8447-73BDDC6555DA,175897-1,"""Cass. in Cuvier, Dict. Sci. Nat. 56. 1828.""","","22","1828",gcc-101476
+gcc-155908,A,Compositae,,Allagopappus,,"dichotomus",f.,"dichotomus","",Synonym,,L,TICA,DE34ABA1-1F98-4AAA-AFC9-E2318F40819A,,"","","","",gcc-101476
+gcc-57870,A,Compositae,,Allagopappus,,"dichotomus",subsp.,"dichotomus","",Synonym,,L,TICA,EE5C49F3-7D5C-49D7-BE70-89F18B61A9E5,,"","","","",gcc-101476
+gcc-72445,A,Compositae,,Allagopappus,,"dichotomus",subsp.,"latifolius","(Bolle) G.Kunkel",Synonym,,L,TICA,C96ED5B7-FB0E-4F76-8246-FDFC60494538,876402-1,"","","26","1975",gcc-101476
+gcc-73768,A,Compositae,,Allagopappus,,"dichotomus",f.,"latifolius","Bolle",Synonym,,L,TICA,EC5FF4D3-E593-4827-B698-263AD72872AC,,"Bolle in Bonplandia 7. 1859.","","294","1859",gcc-101476
+gcc-58915,A,Compositae,,Allagopappus,,"dichotomus",subsp.,"viscosissimus","(Bolle) Govaerts",Synonym,,L,TICA,755AF72C-5F88-459A-9186-9252CEC5118D,982676-1,"","","6","1995",gcc-100902
+gcc-100902,A,Compositae,,Allagopappus,,"viscosissimus",,"","Bolle",Accepted,,M,TICA,77CA7465-BB24-4F2D-8724-9BA45CE2FDB4,175898-1,"","","293","1859",

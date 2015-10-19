@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-39500,A,Compositae,,Polyachyrus,,"annuus",,"","I.M.Johnst.",Accepted,,M,TICA,2EC94381-47CD-4973-914E-494DBF4AA6ED,205195-2,"Contr. Gray Herb. 85","","134","1929",
+gcc-52102,A,Compositae,,Polyachyrus,,"auritus",,"","D.Don",Unresolved,,L,TICA,79E304CA-571A-447B-B514-60A649A40835,239108-1,"in Phil. Mag. (1832) 390; et in Guill. Arch. Bot. ii. (1833) 466.","","390","1832",
+gcc-42110,A,Compositae,,Polyachyrus,,"bridgesii",,"","Endl. ex Steud.",Unresolved,,L,TICA,39956A6E-E049-4EC9-9BC6-4E03E858F17B,239109-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 368""","","368","1841",
+gcc-99970,A,Compositae,,Polyachyrus,,"bridgesii",,"","Poepp. & Endl.",Synonym,,M,TICA,9CC69250-DD15-4D51-A038-998C8A2A90EF,,"","","","",gcc-37993
+gcc-48348,A,Compositae,,Polyachyrus,,"calderensis",,"","Phil.",Unresolved,,L,TICA,0DA1DFD5-FF89-4C4E-A1B6-5994AF097E2E,,"","","","",
+gcc-37437,A,Compositae,,Polyachyrus,,"carduoides",,"","Phil.",Accepted,,M,TICA,0842B03C-6A29-4878-9E1B-45623327AF19,239111-1,"Fl. Atacam. 28.","","28","1860",
+gcc-7221,A,Compositae,,Polyachyrus,,"cinereus",,"","Ricardi & Weldt",Accepted,,M,TICA,7C7F3107-AB10-41A0-B5C3-0D6F5FE8E553,205197-2,"","","26","1974",
+gcc-78720,A,Compositae,,Polyachyrus,,"decurrens",,"","Lag. ex DC.",Unresolved,,L,TICA,4C57633C-5B63-4327-B11F-69C9E17F3AFB,239113-1,"Prodr. (DC.) 7(1): 53","","53","1838",
+gcc-129419,A,Compositae,,Polyachyrus,,"echinopsoides",,"","Hook.",Synonym,,M,TICA,6EE71687-A1CF-4A03-A377-DC38C6E56E7B,,"","","","",gcc-37993
+gcc-78690,A,Compositae,,Polyachyrus,,"echinopsoides",,"","DC.",Unresolved,,L,TICA,7F29E057-65DC-436A-B825-69B1FBA95841,239114-1,"Prodr. (DC.) 7(1): 53","","53","1838",
+gcc-20233,A,Compositae,,Polyachyrus,,"foliosus",,"","Phil.",Synonym,,M,TICA,AC655D61-282A-4C65-B6B6-25690CC3B998,,"","","","",gcc-37437
+gcc-87353,A,Compositae,,Polyachyrus,,"fuscus",,"","(Meyen) Walp.",Accepted,,M,TICA,BA5B13B1-B321-4450-A436-7D18299F0B27,239116-1,"in Nov. Act. Nat. Cur. xix. Suppl. i. (1843) 288.","","288","1843",
+gcc-148167,A,Compositae,,Polyachyrus,,"fuscus",var.,"fuscus","",Synonym,,L,TICA,9A8F34D9-0FD0-422F-A000-3CB4BA060D29,,"","","","",gcc-87353
+gcc-54428,A,Compositae,,Polyachyrus,,"fuscus",var.,"roseus","(Phil.) Reiche",Synonym,,L,TICA,C3F41CFD-2AAD-4433-BAF0-6DFE9807E941,205199-2,"""Anales Univ. Chile 115: 352. 1904 Reiche, Flora de Chile, 4: 371.  1905""","","352","1904",gcc-87353
+gcc-130416,A,Compositae,,Polyachyrus,,"gayi",,"","J.Rémy",Accepted,,M,TICA,8FC5D4D3-D9F2-435B-8603-DE844442546A,,"","","372","",
+tro-2707454,A,Compositae,,Polyachyrus,,"gayi",,"","Remy",Unresolved,,L,TRO,2707454,,"Fl. Chil.","3: 372","372","1847",
+gcc-85581,A,Compositae,,Polyachyrus,,"glabratus",,"","Phil.",Synonym,,M,TICA,24AFBFDA-23F2-4C8E-AD04-78FBF1C5960C,,"","","","",gcc-37437
+gcc-96639,A,Compositae,,Polyachyrus,,"glandulosus",,"","Nutt.",Synonym,,M,TICA,AF69B10A-7B03-4535-A1AA-920B8D7E3108,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 423""","","423","1841",gcc-37993
+gcc-107973,A,Compositae,,Polyachyrus,,"latifolius",,"","Phil.",Synonym,,M,TICA,534D96AE-F073-409E-B501-AB4C0CDC2374,,"Anales Univ. Chile (1865) II. 348.","","348","",gcc-37437
+gcc-114991,A,Compositae,,Polyachyrus,,"litoralis",,"","Phil.",Unresolved,,L,TICA,1AA28107-816A-45A8-8E7F-BB2409A55453,239121-1,"Linnaea 28: 714. 1858","","714","1858",
+gcc-5335,A,Compositae,,Polyachyrus,,"macrotis",,"","Phil.",Unresolved,,L,TICA,3E67E329-F901-4E08-A186-09F57EC999B8,239122-1,"Linnaea 28: 713. 1858","","713","1858",
+gcc-10488,A,Compositae,,Polyachyrus,,"mollendoensis",,"","I.M.Johnst.",Synonym,,M,TICA,1FFB4C1A-F864-411F-91D1-13900D3276AA,205202-2,"Contr. Gray Herb. 85","","179","1929",gcc-39500
+gcc-81817,A,Compositae,,Polyachyrus,,"multifidus",,"","D.Don",Synonym,,M,TICA,94AE4348-0E99-4C21-A75B-70A2EEEE9D54,205203-2,"","","390","1832",gcc-32158
+gcc-36168,A,Compositae,,Polyachyrus,,"nesites",,"","I.M.Johnst.",Synonym,,M,TICA,E4EBA498-1DCB-44F8-AED8-4310A87DDFBD,,"Contr. Gray Herb. 95","","","1931",gcc-87353
+gcc-33422,A,Compositae,,Polyachyrus,,"nivalis",,"","Phil.",Unresolved,,L,TICA,66569443-1AF9-4507-97E0-3DF720BCA3E9,,"","","","",
+gcc-137166,A,Compositae,,Polyachyrus,,"nivens",,"","DC.",Unresolved,,L,TICA,A2BA35B9-48B9-481D-870F-EDDFFD27A72D,,"","","","",
+gcc-142540,A,Compositae,,Polyachyrus,,"niveus",,"","Lag. ex DC.",Unresolved,,L,TICA,F1DFF973-D3B5-4BF6-8A19-F9D39BDAF4C9,239127-1,"Prodr. (DC.) 7(1): 53","","53","1838",
+gcc-149102,A,Compositae,,Polyachyrus,,"oblongiflorus",,"","J. Koster",Accepted,,M,TICA,F3B237B2-B5D0-44AC-8EFE-5186B798E734,,"","","","",
+gcc-22918,A,Compositae,,Polyachyrus,,"oblongiflorus",,"","J.Kost.",Synonym,,M,TICA,6D4C5A65-0849-43BC-A9EA-2A6BC614EBC8,,"Blumea v. 675 (1945).","","","1945",gcc-32158
+gcc-127565,A,Compositae,,Polyachyrus,,"poeppigii",,"","Kunze ex Less.",Synonym,,M,TICA,A3D50A59-0983-41D2-AC47-D7F26FAA2E37,239129-1,"Linnaea 5: 5. 1830","","5","1830",gcc-32158
+gcc-62108,A,Compositae,,Polyachyrus,,"poeppigii",var.,"litoralis","(Phil.) Reiche",Synonym,,L,TICA,9DE84173-2494-4719-AAD5-AC1530FD78E0,205207-2,"""Anales Univ. Chile 115: 564. 1905 Reiche, Flora de Chile, 4: 372.  1905""","","564","1905",gcc-32158
+gcc-145950,A,Compositae,,Polyachyrus,,"poeppigii",var.,"poeppigii","",Synonym,,L,TICA,808F7512-F0D9-4BEE-96D4-0E45419EA9E7,,"","","","",gcc-32158
+gcc-32158,A,Compositae,,Polyachyrus,,"poeppigii",subsp.,"poeppigii","",Unresolved,,L,TICA,DC8A395E-9244-49A0-B5A6-3B92469064B3,,"""Linnaea 5: 5, t. 1, f. 6, 9 (1830)""","","""5, t. 1, f. 6, 9""","1830",
+gcc-21951,A,Compositae,,Polyachyrus,,"rigidus",,"","I.M.Johnst.",Synonym,,M,TICA,045FC72E-7585-42E7-916B-289CABC33652,205209-2,"Contr. Gray Herb. 85","","171","1929",gcc-37437
+gcc-76905,A,Compositae,,Polyachyrus,,"roseus",,"","Phil.",Synonym,,M,TICA,BFE97CBE-7418-4CDC-8CC2-65ACE0CF35EE,239131-1,"Fl. Atacam. 28.","","28","1860",gcc-87353
+gcc-118592,A,Compositae,,Polyachyrus,,"sanromanii",,"","Phil.",Synonym,,M,TICA,BF6311A2-1722-4A9C-8805-C3547354D17D,,"Bot. Jahrb. Syst. viii. (1887) 76.","","76","",gcc-32158
+gcc-140622,A,Compositae,,Polyachyrus,,"selinoides",,"","Reiche",Synonym,,M,TICA,7A4D79B7-3337-4A8D-BC78-F57B24A7A15C,,"","","","1905",gcc-32158
+gcc-37993,A,Compositae,,Polyachyrus,,"sphaerocephalus",,"","D.Don",Accepted,,M,TICA,E2AC902E-88B1-47D6-9153-467693D72225,,"Trans. Linn. Soc. London 16(2): 230","","","1830",
+gcc-81315,A,Compositae,,Polyachyrus,,"tarapacanus",,"","Phil.",Synonym,,M,TICA,C18685FC-D8B8-49AD-B61B-6F86C35E1D5A,,"","","","",gcc-37993
+gcc-93263,A,Compositae,,Polyachyrus,,"tenuifolius",,"","Phil.",Unresolved,,L,TICA,24B302A5-AA06-42BE-81A1-8A5B9DC13924,,"","","","",
+gcc-115195,A,Compositae,,Polyachyrus,,"uniflorus",,"","Sch.Bip.",Synonym,,M,TICA,8C8D321E-0658-4247-ACFA-BB962C46B7E7,239137-1,"in Pollichia xviii-xix. (1861) 186.","","xviii-xix.  186","1861",gcc-37993
+gcc-91714,A,Compositae,,Polyachyrus,,"villosus",,"","Wedd.",Synonym,,M,TICA,53A2F92E-962D-4551-ABFC-86F3A05A96A8,,"Chlor. And. i. 56. t. 13.","","","1855",gcc-37993
+gcc-113674,A,Compositae,,Polyachyrus,,"virgatus",,"","I.M.Johnst.",Unresolved,,L,TICA,339ACA9D-B8D4-4B1A-B9C5-B8293DEF5709,205215-2,"Contr. Gray Herb. 85","","132","1929",

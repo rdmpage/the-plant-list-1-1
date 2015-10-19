@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-300587,A,Blandfordiaceae,,Blandfordia,,"aurea",,"","Hook.f.",Synonym,,H,WCSP,300587,531907-1,"Bot. Mag.","95: t. 5809","","1869",kew-300594
+kew-300588,A,Blandfordiaceae,,Blandfordia,,"backhousii",,"","Lindl.",Synonym,,H,WCSP,300588,531908-1,"Edwards's Bot. Reg.","31: t. 18","","1845",kew-300605
+kew-2677134,A,Diapensiaceae,,Blandfordia,,"cordata",,"","Andrews",Synonym,,L,WCSP (in review),,,"Bot. Repos.","5: t. 343","","1804",kew-2816160
+kew-300589,A,Blandfordiaceae,,Blandfordia,,"cunninghamii",,"","Lindl.",Accepted,,H,WCSP,300589,531909-1,"Edwards's Bot. Reg.","31: t. 18","","1845",
+kew-454218,A,Blandfordiaceae,,Blandfordia,,"cunninghamii",var.,"splendens","W.Bull",Synonym,,L,WCSP,454218,,"Garden (London 1871-1927)","24: 366","","1883",kew-300589
+kew-300590,A,Blandfordiaceae,,Blandfordia,,"flammea",,"","Lindl. ex Paxton",Synonym,,H,WCSP,300590,,"Paxton's Mag. Bot.","16: 353","","1849",kew-300594
+kew-300591,A,Blandfordiaceae,,Blandfordia,,"flammea",var.,"aurea","(Hook.f.) Benth. ex Bailey",Synonym,,L,WCSP,300591,,"Queensl. Fl.","5: 1624","","1902",kew-300594
+kew-300592,A,Blandfordiaceae,,Blandfordia,,"flammea",var.,"princeps","(W.G.Sm.) Baker",Synonym,,L,WCSP,300592,,"Bot. Mag.","102: t. 6209","","1876",kew-300594
+kew-300593,A,Blandfordiaceae,,Blandfordia,×,"flammea-elegans",,"","W.G.Sm.",Unresolved,,L,WCSP,300593,,"Fl. Mag. (London)","n.s.: t. 134","","1874",
+kew-300594,A,Blandfordiaceae,,Blandfordia,,"grandiflora",,"","R.Br.",Accepted,,H,WCSP,300594,531912-1,"Prodr. Fl. Nov. Holl.","296","","1810",
+kew-300595,A,Blandfordiaceae,,Blandfordia,,"grandiflora",,"","Hook.f.",Synonym,Illegitimate,H,WCSP,300595,531913-1,"Fl. Tasman.","2: 49","","1858",kew-300605
+kew-300596,A,Blandfordiaceae,,Blandfordia,,"grandiflora",var.,"backhousii","(Lindl.) Hook.f.",Synonym,,L,WCSP,300596,,"Fl. Tasman.","2: 49","","1858",kew-300605
+kew-300597,A,Blandfordiaceae,,Blandfordia,,"grandiflora",var.,"elongata","Benth.",Synonym,,L,WCSP,300597,,"Fl. Austral.","7: 24","","1878",kew-300589
+kew-300598,A,Blandfordiaceae,,Blandfordia,,"grandiflora",var.,"intermedia","(Herb.) Baker",Synonym,,L,WCSP,300598,,"J. Linn. Soc., Bot.","11: 365","","1870",kew-300594
+kew-300599,A,Blandfordiaceae,,Blandfordia,,"grandiflora",var.,"marginata","(Herb.) Hook.f.",Synonym,,L,WCSP,300599,,"Fl. Tasman.","2: 49","","1858",kew-300605
+kew-300600,A,Blandfordiaceae,,Blandfordia,,"intermedia",,"","Herb.",Synonym,,H,WCSP,300600,531915-1,"Edwards's Bot. Reg.","31: t. 64","","1845",kew-300594
+kew-300601,A,Blandfordiaceae,,Blandfordia,,"marginata",,"","Herb.",Synonym,,H,WCSP,300601,531916-1,"Edwards's Bot. Reg.","28: t. 84","","1842",kew-300605
+kew-300602,A,Blandfordiaceae,,Blandfordia,,"nobilis",,"","Sm.",Accepted,,H,WCSP,300602,531917-1,"Exot. Bot.","1: 5","","1804",
+kew-300603,A,Blandfordiaceae,,Blandfordia,,"nobilis",var.,"imperialis","W.Mill. & N.Taylor",Synonym,,L,WCSP,300603,,"Stand. Cycl. Hort.","1: 513","","1914",kew-300602
+kew-300604,A,Blandfordiaceae,,Blandfordia,,"princeps",,"","W.G.Sm.",Synonym,,H,WCSP,300604,531918-1,"Florist's Mag.","n.s.: t. 170","","1875",kew-300594
+kew-300605,A,Blandfordiaceae,,Blandfordia,,"punicea",,"","(Labill.) Sweet",Accepted,,H,WCSP,300605,531919-1,"Hort. Brit.","ed. 2: 517","","1830",
+kew-300606,A,Blandfordiaceae,,Blandfordia,,"speciosa",,"","Link",Synonym,,H,WCSP,300606,531920-1,"Enum. Hort. Berol. Alt.","1: 330","","1821",kew-300594
+kew-300607,A,Asparagaceae,,Blandfordia,,"uniflora",,"","Willd. ex Kunth",Synonym,,H,WCSP,300607,531921-1,"Enum. Pl.","4: 478","","1843",kew-281445

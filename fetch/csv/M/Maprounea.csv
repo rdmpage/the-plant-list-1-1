@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-120517,A,Euphorbiaceae,,Maprounea,,"africana",,"","Müll.Arg.",Accepted,,H,WCSP,120517,352049-1,"Prodr.","15(2): 1191","","1866",
+kew-120518,A,Euphorbiaceae,,Maprounea,,"africana",var.,"africana","",Synonym,,L,WCSP,120518,,"Unknown","","","",kew-120517
+kew-120519,A,Euphorbiaceae,,Maprounea,,"africana",var.,"benguelensis","Pax & K.Hoffm.",Synonym,,L,WCSP,120519,,"Pflanzenr.","IV, 147, V: 180","","1912",kew-120517
+kew-120520,A,Euphorbiaceae,,Maprounea,,"africana",var.,"cinnamomea","Pax & K.Hoffm.",Synonym,,L,WCSP,120520,,"Pflanzenr.","IV, 147, V: 179","","1912",kew-120517
+kew-120521,A,Euphorbiaceae,,Maprounea,,"africana",var.,"gracilis","Pax & K.Hoffm.",Accepted,,L,WCSP,120521,,"Pflanzenr.","IV, 147, V: 179","","1912",
+kew-120522,A,Euphorbiaceae,,Maprounea,,"africana",var.,"leucosperma","Pax & K.Hoffm.",Synonym,,L,WCSP,120522,,"Pflanzenr.","IV, 147, V: 179","","1912",kew-120517
+kew-120523,A,Euphorbiaceae,,Maprounea,,"africana",var.,"obtusa","(Pax) Pax & K.Hoffm.",Synonym,,L,WCSP,120523,,"Pflanzenr.","IV, 147, V: 180","","1912",kew-120517
+kew-120524,A,Euphorbiaceae,,Maprounea,,"africana",var.,"orientalis","Pax & K.Hoffm.",Synonym,,L,WCSP,120524,,"Pflanzenr.","IV, 147, V: 179","","1912",kew-120517
+kew-120525,A,Euphorbiaceae,,Maprounea,,"amazonica",,"","Esser",Accepted,,H,WCSP,120525,1006649-1,"Novon","9: 32","","1999",
+kew-120526,A,Euphorbiaceae,,Maprounea,,"brasiliensis",,"","A.St.-Hil.",Accepted,,H,WCSP,120526,352050-1,"Pl. Usuel. Bras.","t. 65","","1828",
+kew-120527,A,Euphorbiaceae,,Maprounea,,"bridelioides",,"","Pierre ex Prain",Synonym,Illegitimate,H,WCSP,120527,352051-1,"Fl. Trop. Afr.","6(1): 1003","","1913",kew-120536
+kew-120528,A,Euphorbiaceae,,Maprounea,,"glauca",,"","Desv. ex Ham.",Synonym,,H,WCSP,120528,,"Prodr. Pl. Ind. Occid.","54","","1825",kew-116231
+kew-120529,A,Euphorbiaceae,,Maprounea,,"gracilis",,"","(Pax & K.Hoffm.) Dewèvre ex Prain",Synonym,,H,WCSP,120529,352053-1,"Fl. Trop. Afr.","6(1): 1003","","1913",kew-120521
+kew-120530,A,Euphorbiaceae,,Maprounea,,"guianensis",,"","Aubl.",Accepted,,H,WCSP,120530,352054-1,"Hist. Pl. Guiane","2: 895","","1775",
+tro-12806531,A,Euphorbiaceae,,Maprounea,,"guianensis",var.,"guianensis","",Synonym,,L,TRO,12806531,,"","","","",kew-120530
+kew-120532,A,Euphorbiaceae,,Maprounea,,"guianensis",var.,"nervosa","Müll.Arg.",Synonym,,L,WCSP,120532,152817-2,"Linnaea","32: 115","","1863",kew-120530
+kew-120533,A,Euphorbiaceae,,Maprounea,,"guianensis",var.,"obtusata","(Müll.Arg.) Müll.Arg.",Synonym,,L,WCSP,120533,1086767-2,"Fl. Bras.","11(2): 543","","1874",kew-120525
+kew-120534,A,Euphorbiaceae,,Maprounea,,"guianensis",f.,"obtusata","Müll.Arg.",Synonym,,L,WCSP,120534,,"Linnaea","32: 115","","1863",kew-120525
+kew-120535,A,Euphorbiaceae,,Maprounea,,"guianensis",var.,"undulata","Müll.Arg.",Synonym,,L,WCSP,120535,152820-2,"Fl. Bras.","11(2): 544","","1874",kew-120530
+kew-120536,A,Euphorbiaceae,,Maprounea,,"membranacea",,"","Pax & K.Hoffm.",Accepted,,H,WCSP,120536,,"Pflanzenr.","IV, 147, V: 178","","1912",
+kew-120537,A,Euphorbiaceae,,Maprounea,,"obtusa",,"","Pax",Synonym,,H,WCSP,120537,352056-1,"Bot. Jahrb. Syst.","19: 116","","1894",kew-120517
+tro-50295571,A,Euphorbiaceae,,Maprounea,,"obtusata",,"","(Müll. Arg.) Esser",Accepted,,M,TRO,50295571,,"","","","",
+kew-120538,A,Euphorbiaceae,,Maprounea,,"vaccinioides",,"","Pax",Synonym,,H,WCSP,120538,352057-1,"Bot. Jahrb. Syst.","19: 116","","1894",kew-120517

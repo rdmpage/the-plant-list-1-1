@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-418123,A,Poaceae,,Guaduella,,"densiflora",,"","Pilg.",Accepted,,H,WCSP,418123,,"Bot. Jahrb. Syst.","30: 123","","1902",
+kew-418124,A,Poaceae,,Guaduella,,"dichroa",,"","Cope",Accepted,,H,WCSP,418124,902117-1,"Kew Bull.","37: 660","","1983",
+kew-418125,A,Poaceae,,Guaduella,,"foliosa",,"","Pilg.",Synonym,,H,WCSP,418125,404334-1,"Bot. Jahrb. Syst.","45: 211","","1910",kew-418123
+kew-418126,A,Poaceae,,Guaduella,,"humilis",,"","Clayton",Accepted,,H,WCSP,418126,404335-1,"Kew Bull.","16: 248","","1962",
+kew-418127,A,Poaceae,,Guaduella,,"ledermannii",,"","Pilg.",Synonym,,H,WCSP,418127,404336-1,"Bot. Jahrb. Syst.","43: 387","","1909",kew-418123
+kew-418128,A,Poaceae,,Guaduella,,"longifolia",,"","E.G.Camus",Synonym,,H,WCSP,418128,404337-1,"Bambusées","114","","1913",kew-418130
+kew-418129,A,Poaceae,,Guaduella,,"macrostachys",,"","(K.Schum.) Pilg.",Accepted,,H,WCSP,418129,404338-1,"Wiss. Erg. Zweit. Deut. Zentr.-Afr. Exped., Bot.","93","","1922",
+kew-418130,A,Poaceae,,Guaduella,,"marantifolia",,"","Franch.",Accepted,,H,WCSP,418130,404290-1,"Bull. Mens. Soc. Linn. Paris","1: 676","","1887",
+kew-451596,A,Poaceae,,Guaduella,,"marantifolia",var.,"brevifolia","Franch.",Synonym,,L,WCSP,451596,,"Bull. Soc. Hist. Nat. Autun","8: 389","","1895",kew-418130
+kew-451595,A,Poaceae,,Guaduella,,"marantifolia",var.,"duparquetii","Franch.",Synonym,,L,WCSP,451595,,"Bull. Mens. Soc. Linn. Paris","1: 676","","1887",kew-418130
+tro-25516922,A,Poaceae,,Guaduella,,"marantifolia",var.,"marantifolia","",Synonym,,L,TRO,25516922,,"","","","",kew-418130
+tro-25551771,A,Poaceae,,Guaduella,,"milbreadii",,"","Pilg.",Accepted,,M,TRO,25551771,,"Bot. Jahrb. Syst.","51(3–4): 422","422","1914",
+kew-418131,A,Poaceae,,Guaduella,,"mildbraedii",,"","Pilg.",Synonym,,H,WCSP,418131,404339-1,"Bot. Jahrb. Syst.","51: 422","","1914",kew-418130
+kew-418132,A,Poaceae,,Guaduella,,"oblonga",,"","Hutch. ex Clayton",Accepted,,H,WCSP,418132,404341-1,"Kew Bull.","16: 247","","1962",
+kew-418133,A,Poaceae,,Guaduella,,"zenkeri",,"","Pilg.",Synonym,,H,WCSP,418133,,"Bot. Jahrb. Syst.","30: 123","","1902",kew-418129

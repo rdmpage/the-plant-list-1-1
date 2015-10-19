@@ -1,0 +1,92 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-151742,A,Compositae,,Hedypnois,,"annua",,"","Ferris",Synonym,,M,TICA,C3508161-A25B-4FB0-A1FE-8B531F9ACA43,,"","","","",gcc-93296
+gcc-28223,A,Compositae,,Hedypnois,,"annua",,"","Bubani",Synonym,,L,TICA,120913E4-7E88-453E-ACDD-3426D8C1A7A6,,"Fl. Pyren. (Bubani) ii. 49.","","","1899",gcc-32867
+gcc-128335,A,Compositae,,Hedypnois,,"arenaria",,"","(Schousb.) DC.",Accepted,,M,TICA,FFE3B4E1-3330-499B-9AC1-D9CF9510B59B,211655-1,"","","82","1838",
+gcc-146316,A,Compositae,,Hedypnois,,"arenaria",var.,"arenaria","",Synonym,,L,TICA,00B114D5-FE22-45AB-ACEC-16156C349783,,"","","","",gcc-128335
+gcc-60375,A,Compositae,,Hedypnois,,"arenaria",var.,"maximiliana","Sennen",Synonym,,L,TICA,64198AC8-81F4-427D-8EF3-9DD2656062E6,,"","","","",gcc-128335
+gcc-66021,A,Compositae,,Hedypnois,,"arenaria",var.,"scaberrima","Maire",Synonym,,L,TICA,638C88C6-753F-401E-998A-CB6D2A4F71CE,,"","","","",gcc-128335
+gcc-63383,A,Compositae,,Hedypnois,,"arenaria",var.,"setosa","Maire",Synonym,,L,TICA,9CF9C798-A3BF-4F8F-9DF8-B66CBE440D40,,"","","","",gcc-128335
+gcc-133724,A,Compositae,,Hedypnois,,"arenicola",,"","Sennen & Mauricio",Accepted,,M,TICA,49D26EE5-83C8-4ACE-9D8F-E628695B7877,211657-1,"","","236","1936",
+gcc-18404,A,Compositae,,Hedypnois,,"autumnalis",,"","(L.) Huds.",Synonym,,M,TICA,F1411C1F-906E-4C65-AE3A-21FF185FD883,211658-1,"""Fl. Angl. (Hudson), ed. 2. 2: 341""","","341","1778",gcc-121516
+gcc-98151,A,Compositae,,Hedypnois,,"biennis",,"","(L.) Huds.",Synonym,,L,TICA,4CDEAFF2-EB36-4D35-B76B-95774B1BD50E,,"""Fl. Angl. (Hudson), ed. 2. 2: 342""","","342","",gcc-6432
+gcc-120676,A,Compositae,,Hedypnois,,"caspica",,"","Hornem.",Accepted,,M,TICA,843AE507-241A-413D-90C0-C81AACB2351D,,"Hort. Hafn. Suppl. 91.","","","1819",
+gcc-37898,A,Compositae,,Hedypnois,,"coronopifolia",,"","Ten.",Synonym,,M,TICA,FF817F83-49A6-4711-93AB-464A803D5D4D,,"","","","1811",gcc-93296
+gcc-106932,A,Compositae,,Hedypnois,,"crassipes",,"","Albert",Unresolved,,L,TICA,799E402C-0894-4312-9F33-A8F01C2A0215,211662-1,"""Albert & Jahandiez, Cat. Pl. Vasc. Dep. Var 315 (1908).""","","315","1908",
+gcc-134255,A,Compositae,,Hedypnois,,"crepidiformis",,"","Rchb.",Synonym,,M,TICA,4BBFC5CE-2414-403F-92A1-E75F811CC674,211663-1,"","","250","1831",gcc-93296
+gcc-126001,A,Compositae,,Hedypnois,,"cretica",,"","(L.) Willd.",Unresolved,Illegitimate,L,TICA,C375968E-15A7-4754-B729-D4538A910532,,"","","","",
+gcc-136251,A,Compositae,,Hedypnois,,"cretica",,"","(L.) Dum.Cours.",Synonym,,M,TICA,62711FB8-D5EF-44A3-9390-EBCA23C46377,,"","","339","1802",gcc-93296
+gcc-21255,A,Compositae,,Hedypnois,,"cretica",var.,"crepidiformis","Rchb.",Synonym,,L,TICA,595BF7BB-CDE3-4D36-824D-2747F7748786,,"","","","",gcc-93296
+gcc-145738,A,Compositae,,Hedypnois,,"cretica",var.,"cretica","",Synonym,,L,TICA,C4F3A60A-02D5-4B8C-818F-09E3CF3A2748,,"","","","",gcc-93296
+gcc-156493,A,Compositae,,Hedypnois,,"cretica",subsp.,"cretica","",Synonym,,L,TICA,AC20CB66-F0BB-4206-A06D-EE148F7F3041,,"","","","",gcc-93296
+gcc-148056,A,Compositae,,Hedypnois,,"cretica",var.,"gracilior","Boiss.",Synonym,,L,TICA,479E844B-6B92-4503-A763-3AB5837F073F,,"""P.E. Boissier, Fl. Orient. 3. 1875""","","719","1875",gcc-93296
+gcc-69261,A,Compositae,,Hedypnois,,"cretica",var.,"gracilis","(Batt.) Maire",Synonym,,L,TICA,7AB9FD55-F061-4FA9-AFD2-E50B1AB9B552,,"","","","",gcc-93296
+gcc-60504,A,Compositae,,Hedypnois,,"cretica",var.,"hyoseris","(Rouy) Maire",Synonym,,L,TICA,1139FFBD-206E-49AD-8278-9EC20AD5185F,,"","","","",gcc-93296
+gcc-145579,A,Compositae,,Hedypnois,,"cretica",var.,"monspeliensis","Bisch.",Synonym,,L,TICA,0356229D-0E73-4972-B034-06EB9F78CE46,,"""G.W.T.G. Bischoff, Beitr. Fl. Deutschl.. 1851""","","37","1851",gcc-93296
+gcc-58211,A,Compositae,,Hedypnois,,"cretica",subsp.,"monspeliensis","Murb.",Synonym,,L,TICA,6D47C211-8775-475D-9F8C-8CB4D03C696B,,"""Murb. in Acta Univ. Lund., sect. 2 33(12). 1897.""","","110","1897",gcc-93296
+gcc-68650,A,Compositae,,Hedypnois,,"cretica",var.,"oasicola","Hochr.",Synonym,,L,TICA,0971B992-073D-411D-B014-E05ACABDF710,,"","","","",gcc-93296
+gcc-4223,A,Compositae,,Hedypnois,,"cretica",var.,"pendula","(Willd.) Fiori & Paol.",Synonym,,L,TICA,DB1CB945-EF5A-4F45-86C7-07D70ADA5FBB,,"","","","",gcc-93296
+gcc-65798,A,Compositae,,Hedypnois,,"cretica",var.,"persica","(Fisher) Cout.",Synonym,,L,TICA,95CAD93C-1CC4-4EF2-9ADD-C9B3B392C0AE,,"","","","",gcc-93296
+gcc-47621,A,Compositae,,Hedypnois,,"cretica",subsp.,"ramosa","Täckh. & Boulos",Synonym,,L,TICA,2680FB3B-7188-4A7B-969B-583BA0613BE6,,"Täckh. & Boulos in Publ. Cairo Univ. Herb. 5. 1974.","","29","1974",gcc-93296
+gcc-145886,A,Compositae,,Hedypnois,,"cretica",var.,"rhagadioloides","(L.) Bisch.",Synonym,,L,TICA,2CB09831-6457-4EF5-B52A-0CE3E081E86D,,"""G.W.T.G. Bischoff, Beitr. Fl. Deutschl.. 1851""","","37","1851",gcc-93296
+gcc-155800,A,Compositae,,Hedypnois,,"cretica",subsp.,"rhagadioloides","(L.) Arcang.",Synonym,,L,TICA,7AFC75D0-A5A0-4B2F-8666-E029F27A3959,,"""G. Arcangeli, Comp. Fl. Ital. ed. 2. 1894""","","732","1894",gcc-93296
+gcc-45470,A,Compositae,,Hedypnois,,"cretica",var.,"rhagadioloides","(L.) Rchb.",Synonym,,L,TICA,2C27C57D-7896-4277-8AF4-54422C423BA1,,"","","","",gcc-93296
+gcc-157156,A,Compositae,,Hedypnois,,"cretica",subsp.,"tubaeformis","(Ten.) Nyman",Synonym,,L,TICA,A1F0B065-15D8-46C0-8034-FC2169931D52,,"""C.F. Nyman, Consp. Fl. Eur.. 1879""","","473","1879",gcc-61178
+gcc-68926,A,Compositae,,Hedypnois,,"cretica",subsp.,"tubiformis","(Ten.) Nyman",Synonym,,L,TICA,11DBF929-EDDB-4CDA-95B8-E279927AD0C7,,"""Nyman, Consp. Fl. Eur. 1879.""","","473","1879",gcc-61178
+gcc-94046,A,Compositae,,Hedypnois,,"furfuracea",,"","Rchb.",Synonym,,M,TICA,054E214F-E8A2-48C6-A1C7-8C1321405472,211665-1,"","","250","1831",gcc-93296
+gcc-150893,A,Compositae,,Hedypnois,,"glabra",,"","(L.) F.W.Schmidt",Synonym,,M,TICA,4736BE53-BF90-4B64-A717-7880B3C951F3,211666-1,"""F. W. Schmidt, Samml. Phys.-Ökon. Aufs.. 1795""","","279","1795",gcc-105693
+gcc-140554,A,Compositae,,Hedypnois,,"globulifera",,"","Lam.",Synonym,,M,TICA,22D30A2B-0515-4A3B-B0EB-F55099EC007C,211667-1,"","","107","1779",gcc-93296
+gcc-60430,A,Compositae,,Hedypnois,,"globulifera",var.,"cretica","(L.) Fiori",Synonym,,L,TICA,64DAF5CD-2E40-40AE-8B95-9E43B00C4197,,"","","","",gcc-93296
+gcc-145440,A,Compositae,,Hedypnois,,"globulifera",var.,"globulifera","",Synonym,,L,TICA,3AFDFBD1-45AC-46B4-A3A5-0402CFEAE112,,"","","","",gcc-93296
+gcc-65545,A,Compositae,,Hedypnois,,"globulifera",var.,"rhagadioloides","(L.) Fiori",Synonym,,L,TICA,CF933A5B-CD52-4BAB-8E40-C798C7B63903,,"","","","",gcc-93296
+gcc-56320,A,Compositae,,Hedypnois,,"globulifera",var.,"tubaeformis","(Ten.) Fiori",Synonym,,L,TICA,16DEBBE1-8702-42F5-96D2-7D7F5605F7C8,,"","","","",gcc-93296
+gcc-87145,A,Compositae,,Hedypnois,,"hedypnois",,"","(L.) Linding.",Synonym,Invalid,M,TICA,6D7F0A16-4711-4F63-B89A-7C9818A7A8FC,211668-1,"""Abh. Auslandsk., Reihe C, Naturwiss. xxi., viii. (Beitr. Veg. u. Fl. Kanar. Ins.) 177""","","177","1926",gcc-93296
+gcc-5128,A,Compositae,,Hedypnois,,"hieracioides",,"","(L.) Huds.",Synonym,,L,TICA,7ED2CC88-E33F-446B-8765-098DDDD46B89,211669-1,"""Fl. Angl. (Hudson), ed. 2. 2: 340""","","340","1778",gcc-41781
+gcc-154661,A,Compositae,,Hedypnois,,"hirta",,"","(L.) Sm.",Synonym,,M,TICA,4F126DE9-31DC-43E1-A606-C8326F6FBC81,,"""J.E. Smith, Fl. Brit. 2. 1800""","","824","1800",gcc-115160
+gcc-131048,A,Compositae,,Hedypnois,,"hispida",,"","(L.) Huds.",Synonym,,M,TICA,5D8AECC5-1006-4535-8B98-DFF3D087F011,211672-1,"""Fl. Angl. (Hudson), ed. 2. 2: 342""","","342","1778",gcc-117551
+gcc-79198,A,Compositae,,Hedypnois,,"hispida",,"","Sm.",Unresolved,,L,TICA,D44EC107-526F-4626-88C9-6AE955226F53,211671-1,"Fl. Brit. ii. 823.","","ii. 823","",
+gcc-822,A,Compositae,,Hedypnois,,"laciniflora",,"","Viv.",Synonym,,L,TICA,5300CEB1-552B-4A52-A935-018DB6590EE9,,"Fl. Lib. Spec. 52. t. 17. f. 2.","","","1824",gcc-32867
+gcc-18547,A,Compositae,,Hedypnois,,"mauritanica",,"","Willd.",Synonym,,M,TICA,FE1A5D73-BD46-4D79-B85D-2245530B3173,,"""Willd., Sp. Pl. 3. 1803.""","","1616","1803",gcc-93296
+gcc-78065,A,Compositae,,Hedypnois,,"mauritanicus",,"","Schousb. ex Link",Unresolved,,L,TICA,FACCB10E-6DCF-4E73-BE0F-6844895F313E,211674-1,"Handb. i. 810.","","i. 810","",
+gcc-103071,A,Compositae,,Hedypnois,,"mauritiana",,"","Willd.",Unresolved,,L,TICA,329E5647-BB59-477F-84B1-A079BE47DF90,211675-1,"Sp. Pl. iii. 1616.","","iii. 1616","",
+gcc-48777,A,Compositae,,Hedypnois,,"minutissima",,"","Bunge",Synonym,,M,TICA,E76F1047-4A18-4422-963D-5A5D3D11E0E2,211676-1,"","","372","1847",gcc-30812
+gcc-117948,A,Compositae,,Hedypnois,,"monspeliensis",,"","Willd.",Synonym,,M,TICA,DF8DE231-BD11-4DDD-B487-C1C9C3DB40BF,211677-1,"","","1616","1803",gcc-93296
+gcc-84404,A,Compositae,,Hedypnois,,"paludosa",,"","Scop.",Synonym,,L,TICA,7B3526CF-F32C-4E2F-898F-767DF0537CB4,211678-1,"","","100","1772",gcc-150551
+gcc-102709,A,Compositae,,Hedypnois,,"pendula",,"","Willd.",Synonym,,M,TICA,50FA385D-6D6C-4F3E-B2DB-9FBA381C55A5,,"","","1618","1803",gcc-93296
+gcc-142330,A,Compositae,,Hedypnois,,"persica",,"","M.Bieb.",Synonym,,M,TICA,01275F73-844E-4841-87A7-F9630D5586A6,,"","","539","1819",gcc-93296
+gcc-86041,A,Compositae,,Hedypnois,,"persica",,"","Fisch.",Synonym,,M,TICA,CDDA2708-B87E-4046-81D8-7A0BA8F7ACBA,211680-1,"","","34","1812",gcc-93296
+gcc-27071,A,Compositae,,Hedypnois,,"polymorpha",,"","DC.",Synonym,,M,TICA,38FA4072-7402-47FC-8CF9-320C8C1E58D6,211681-1,"","","81","1838",gcc-93296
+gcc-72287,A,Compositae,,Hedypnois,,"polymorpha",var.,"crepidiformis","(Rchb.) Willk. & Lange",Synonym,,L,TICA,D0B16039-98CF-4B46-870D-FCCD1A848D38,,"","","","",gcc-93296
+gcc-13558,A,Compositae,,Hedypnois,,"polymorpha",var.,"cretica","(L.) Willd.",Synonym,,L,TICA,A75DE8B9-C2EA-40F5-A3E8-19380DF5EA45,,"","","","",gcc-93296
+gcc-155902,A,Compositae,,Hedypnois,,"polymorpha",subsp.,"cretica","(L.) Arcang.",Synonym,,L,TICA,2CC0DEA8-F347-436F-BBF7-E21A6C523DCA,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","412","1882",gcc-93296
+gcc-148889,A,Compositae,,Hedypnois,,"polymorpha",subsp.,"erecta","(Gren. & Godr.) Arcang.",Synonym,,L,TICA,325FFBF8-E186-418E-94AB-4CFF32651405,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","412","1882",gcc-93296
+gcc-64872,A,Compositae,,Hedypnois,,"polymorpha",var.,"gracilis","Batt.",Synonym,,L,TICA,B0627535-4CB2-4FFF-965A-C1D1C54EF459,,"","","","",gcc-93296
+gcc-153118,A,Compositae,,Hedypnois,,"polymorpha",subsp.,"monspeliensis","(Bisch.) Arcang.",Synonym,,L,TICA,8AF05FC9-B8BA-456C-BC62-A792BEB21551,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","412","1882",gcc-93296
+gcc-55154,A,Compositae,,Hedypnois,,"polymorpha",var.,"monspeliensis","(Willd.) Rouy",Synonym,,L,TICA,EF52A308-35F8-4F90-BA09-73B938304609,,"","","","",gcc-93296
+gcc-12177,A,Compositae,,Hedypnois,,"polymorpha",var.,"pinnatifida","(DC.) Willk. & Lange",Synonym,,L,TICA,ED0487DB-FE2D-4CC0-A9B1-16B221B5F1DB,,"","","","",gcc-93296
+gcc-145867,A,Compositae,,Hedypnois,,"polymorpha",subsp.,"polymorpha","",Synonym,,L,TICA,CEA2605B-690D-41A8-B821-0C818801B3D0,,"","","","",gcc-93296
+gcc-147521,A,Compositae,,Hedypnois,,"polymorpha",var.,"polymorpha","",Synonym,,L,TICA,0A813FFD-5225-49E6-8987-2F3A4CCFC3F2,,"","","","",gcc-93296
+gcc-156154,A,Compositae,,Hedypnois,,"polymorpha",subsp.,"rhagadioloides","(L.) Arcang.",Synonym,,L,TICA,C61896B7-F809-4F2C-AAEA-E795A57BDC64,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","412","1882",gcc-93296
+gcc-70256,A,Compositae,,Hedypnois,,"polymorpha",var.,"rhagadioloides","(L.) Willd.",Synonym,,L,TICA,FA91C544-2089-44A0-BA3E-ECA7F0C9D7E6,,"","","","",gcc-93296
+gcc-23817,A,Compositae,,Hedypnois,,"polymorpha",var.,"tubiformis","(Ten.) Batt.",Synonym,,L,TICA,9B268FF4-8130-42E4-90FF-2C0793B33EE9,,"","","","",gcc-93296
+gcc-5421,A,Compositae,,Hedypnois,,"pygmaea",,"","Willk.",Synonym,,M,TICA,DEE6BF3D-56CF-412B-A485-0A1C48540FED,,"","","208","1866",gcc-93296
+gcc-97379,A,Compositae,,Hedypnois,,"pyrenaica",,"","(Gouan) Vill.",Synonym,,M,TICA,9747EC97-F088-4DEB-A4E8-93BCE3ED61E3,211683-1,"Prosp. Hist. Pl. Dauphiné 33","","","1779",gcc-151734
+gcc-154503,A,Compositae,,Hedypnois,,"radiata",,"","(L.) Gaertn.",Synonym,,M,TICA,7D69B3C8-C692-4155-BDC1-C4E3644C4B79,,"""J. Gaertner, Fruct. Sem. Pl. 2. 1791""","","373","1791",gcc-94972
+gcc-21638,A,Compositae,,Hedypnois,,"radiata",,"","Albert",Unresolved,,L,TICA,BC98405C-BAFD-41CF-AEBF-2805D800C242,211685-1,"""Albert & Jaharediez, Cat. Pl. Vasc. Dep. Var 315 (1908).""","","315","1908",
+gcc-141038,A,Compositae,,Hedypnois,,"rhagadioloides",,"","(L.) Willd.",Unresolved,,L,TICA,0F49DC00-1948-46A9-9453-F674D01EB7CA,,"","","","",
+gcc-93296,A,Compositae,,Hedypnois,,"rhagadioloides",,"","(L.) F.W.Schmidt",Accepted,,M,TICA,ED1A5737-1504-4B53-A858-8A6A16B31F50,211686-1,"","","279","1795",
+gcc-67645,A,Compositae,,Hedypnois,,"rhagadioloides",subsp.,"cretica","(L.) Hayek",Synonym,,L,TICA,C4D713C5-0DA0-4F6F-A0F7-D8E152607938,,"","","807","1931",gcc-93296
+gcc-68885,A,Compositae,,Hedypnois,,"rhagadioloides",subsp.,"monspeliensis","Nyman",Synonym,,L,TICA,61CC511A-61BB-40BC-823F-E2339E29AB2E,,"""Nyman, Consp. Fl. Eur. 1879.""","","473","1879",gcc-93296
+gcc-151985,A,Compositae,,Hedypnois,,"rhagadioloides",var.,"rhagadioloides","",Synonym,,L,TICA,854E6C41-A893-4E00-B4CA-8FEBDAC97DF0,,"","","","",gcc-93296
+gcc-28601,A,Compositae,,Hedypnois,,"rhagadioloides",subsp.,"rhagadioloides","",Synonym,,L,TICA,2329EA77-4265-4EB8-BEF2-34DC40FC563F,,"Sammlung Physikalischökonomischer Aufsätze 1: 279 (1795)","","279","1795",gcc-93296
+gcc-61178,A,Compositae,,Hedypnois,,"rhagadioloides",subsp.,"tubaeformis","(Ten.) Hayek",Accepted,,L,TICA,AE502013-C301-4638-9EBB-A470AF03A1D4,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","807","1931",
+gcc-52778,A,Compositae,,Hedypnois,,"sabulorum",,"","Pomel",Synonym,,M,TICA,52E0A214-9E44-498E-8930-61DD2C1F83A0,211687-1,"Nouv. Mat. Fl. Atl. 17.","","","1874",gcc-93296
+gcc-23677,A,Compositae,,Hedypnois,,"scabra",,"","(L.) F.W.Schmidt",Synonym,,M,TICA,C0A54C38-3ADF-41EC-BE44-2BC622191296,,"Samml. Phys. Aufs. i. (1795) 279.","","","1795",gcc-5827
+gcc-78130,A,Compositae,,Hedypnois,,"sprengelii",,"","Schult. ex Steud.",Unresolved,,L,TICA,48F84DD3-E457-456A-9195-686BD214AFAF,211689-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 728""","","728","1840",
+gcc-151969,A,Compositae,,Hedypnois,,"taraxaci",,"","(L.) Vill.",Synonym,,M,TICA,075139BD-FF30-42DC-9899-8FA5B5ECE193,,"","","","",gcc-56160
+gcc-94369,A,Compositae,,Hedypnois,,"taraxaci",,"","Huds.",Unresolved,,L,TICA,F9D71080-B351-4008-8F56-8CD252335FD2,211690-1,"""Fl. Angl. (Hudson), ed. 2. 2: 341""","","341","1778",
+gcc-34531,A,Compositae,,Hedypnois,,"taraxacum",,"","Scop.",Unresolved,,L,TICA,4CC0974D-604B-4252-A5C8-3FFF682F5474,211691-1,"""Fl. Carniol., ed. 2. 2: 99""","","99","1772",
+gcc-38576,A,Compositae,,Hedypnois,,"tectorum",,"","(L.) Huds.",Synonym,,M,TICA,20C714F4-3ED4-499E-B121-4796FC213875,211692-1,"""Fl. Angl. (Hudson), ed. 2. 2: 341""","","341","1778",gcc-28767
+gcc-109775,A,Compositae,,Hedypnois,,"tournefortii",,"","Cass.",Synonym,,M,TICA,727FD78C-EF25-4219-B468-AF708C385EA0,,"in Dict. Sc. Nat. xx. 337.","","","",gcc-93296
+gcc-149939,A,Compositae,,Hedypnois,,"tubaeformis",,"","Ten.",Synonym,,M,TICA,63151DF0-8465-4D52-A697-636B544E5DFC,,"""M. Tenore, Fl. Napol. 1. 1811""","","","1811",gcc-61178
+gcc-96378,A,Compositae,,Hedypnois,,"tubiformis",,"","Ten.",Synonym,,M,TICA,04A319AD-01E9-4ECE-8B65-916973F9A7AC,,"","","","1811",gcc-61178
+gcc-114323,A,Compositae,,Hedypnois,,"zacintha",,"","(L.) Dum.Cours.",Unresolved,,L,TICA,12F1D62B-DF57-4284-B46F-B993AA7A1991,,"""Le Botaniste Cultivateur, . . . 2:""","","339","1801",

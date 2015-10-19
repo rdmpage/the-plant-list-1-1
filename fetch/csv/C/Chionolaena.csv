@@ -1,0 +1,36 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-90156,A,Compositae,,Chionolaena,,"aecidiocephala",,"","(Grierson) Anderb. & S.E.Freire",Accepted,,M,TICA,33A306E0-D3D7-4EB9-B7DC-8351455607CF,947191-1,"Notes Roy. Bot. Gard. Edinburgh 46(1): 40","","40","1989",
+gcc-43035,A,Compositae,,Chionolaena,,"arbuscula",,"","DC.",Accepted,,M,TICA,DF831E1F-CA13-4F5D-8E58-4FB5B4C619B8,302099-2,"Prodr. (DC.) 5: 397","","397","1836",
+gcc-149143,A,Compositae,,Chionolaena,,"arbuscula",var.,"arbuscula","",Synonym,,L,TICA,8CA3561B-F361-49C3-9C26-526F31C88574,,"","","","",gcc-43035
+gcc-41712,A,Compositae,,Chionolaena,,"arbuscula",var.,"hololeuca","Baker ex Glaz.",Synonym,,L,TICA,376CAA68-C849-4611-9A5B-4D3DD5894334,311997-2,"Bull. Soc. Bot. France 57(Mém. 3e): 406","","406","1910",gcc-113144
+gcc-28112,A,Compositae,,Chionolaena,,"breweri",,"","Steyerm. & Maguire",Synonym,,M,TICA,A203F6AF-401D-4C26-B828-33EAA7FE715D,928792-1,"Acta Bot. Venez. 14(3): 26 (1984)","","26","1984",gcc-79883
+gcc-113144,A,Compositae,,Chionolaena,,"capitata",,"","(Baker) S.E.Freire",Accepted,,L,TICA,C338F207-F1CA-46B1-841F-B6FB75C19F2F,,"Ann. Missouri Bot. Gard. 80","","410","1993",
+gcc-122822,A,Compositae,,Chionolaena,,"chrysocoma",,"","Wedd.",Unresolved,,L,TICA,750A3904-8A69-4B7A-BCEC-CCE13DC5F13F,,"Ann. Missouri Bot. Gard. 80: 415. 1993","","415","1993",
+gcc-93991,A,Compositae,,Chionolaena,,"chrysocoma",,"","(Wedd.) S.E.Freire",Accepted,,M,TICA,49039976-5B29-40E2-B0F9-8BF21CD5E921,1017979-2,"","","415","1993",
+gcc-80380,A,Compositae,,Chionolaena,,"columbiana",,"","S.F.Blake",Unresolved,,L,TICA,049A06F5-C335-4EF9-BB58-6D7B18F23E9E,56652-2,"J. Wash. Acad. Sci. 25: 312. 1935","","312","1935",
+gcc-31730,A,Compositae,,Chionolaena,,"concinna",,"","(A.Gray) Anderb. & S.E.Freire",Accepted,,M,TICA,2830FF5A-AE22-4B7E-9FD8-3ACC1D9725C8,947192-1,"Notes Roy. Bot. Gard. Edinburgh 46","","40","1989",
+gcc-24498,A,Compositae,,Chionolaena,,"corymbosa",,"","Hemsl.",Synonym,Illegitimate,M,TICA,86DDBA36-DC70-449E-BEB7-2D3A0535A46F,192818-1,"","","32","1879",gcc-50756
+gcc-45911,A,Compositae,,Chionolaena,,"costaricensis",,"","(G.L.Nesom) G.L.Nesom",Accepted,,M,TICA,A8AC68FC-42D4-41A6-B877-5519AAB65535,20005157-1,"Sida 19(4)","","850","2001",
+gcc-142060,A,Compositae,,Chionolaena,,"cryptocephala",,"","(G.L.Nesom) G.L.Nesom",Accepted,,M,TICA,85C726DE-5833-48BB-AF08-F8C9FD0044E2,20005158-1,"Sida 19(4)","","850","2001",
+gcc-130469,A,Compositae,,Chionolaena,,"durangensis",,"","(G.L.Nesom) G.L.Nesom",Accepted,,M,TICA,EA657542-BAFF-4B7C-BD87-DE9C2C58D0F3,20005159-1,"Sida 19(4)","","850","2001",
+gcc-10970,A,Compositae,,Chionolaena,,"eleagnoides",,"","Klatt",Accepted,,M,TICA,AAEBBCCF-2698-4F45-AE34-148030558259,56653-2,"Leopoldina 23: 88. 1887","","88","1887",
+gcc-135956,A,Compositae,,Chionolaena,,"glaziovii",,"","Baker",Synonym,,M,TICA,31512370-6A7D-40D9-8412-EB0F09610D8F,,"","","130","1882",gcc-104968
+gcc-17190,A,Compositae,,Chionolaena,,"glomerata",,"","Baker",Synonym,,M,TICA,F12A76DD-6A37-4D3F-802D-1FC6ED226C82,305584-2,"","","130","1882",gcc-79883
+gcc-97799,A,Compositae,,Chionolaena,,"innovans",,"","Wawra",Synonym,,M,TICA,719FCC15-A874-4D9B-A20B-94B411967D5C,56654-2,"Itin. Princ. S. Coburgi 2","","30","1888",gcc-104968
+gcc-104968,A,Compositae,,Chionolaena,,"isabellae",,"","Baker",Accepted,,M,TICA,266D5CB2-7788-4C83-B6E2-A4A601E52024,306671-2,"","","130","1882",
+gcc-98293,A,Compositae,,Chionolaena,,"jeffreyi",,"","H.Rob.",Accepted,,M,TICA,A54AEF73-787A-4322-894A-95C289498679,56655-2,"Phytologia 55","","121","1984",
+gcc-79883,A,Compositae,,Chionolaena,,"latifolia",,"","(Benth.) Baker",Accepted,,M,TICA,5049A42A-4B1D-4BC9-9D7B-6C59D8EB89D7,,"","","132","1882",
+gcc-122704,A,Compositae,,Chionolaena,,"lavandulaceum",,"","(DC.) Benth. & Hook.f. ex Hemsl.",Synonym,Illegitimate,M,TICA,19EDAA4E-95B3-44F1-AA43-CC96DCBC4EBA,1158152-2,"""Biol. Cent.-Amer., Bot. 2""","","134","1881",gcc-118692
+gcc-118692,A,Compositae,,Chionolaena,,"lavandulifolia",,"","(Kunth ex Kunth) Benth. & Hook.f. ex B.D.Jacks.",Accepted,,M,TICA,8F366449-D5B2-456C-BB91-C386671932DD,20006311-1,"Index Kew. 1","","516","1893",
+gcc-99061,A,Compositae,,Chionolaena,,"longifolia",,"","Baker",Unresolved,,L,TICA,C6BF2957-4E13-4461-B766-97886DD21921,,"","","131","1882",
+gcc-17827,A,Compositae,,Chionolaena,,"lychnophorioides",,"","Sch.Bip.",Accepted,,M,TICA,DED9E352-D432-4C23-A296-20E75EE49F59,306045-2,"","","391","1863",
+gcc-124615,A,Compositae,,Chionolaena,,"macdonaldii",,"","(G.L.Nesom) G.L.Nesom",Accepted,,M,TICA,DCCC84A7-EF3F-4B31-8196-D120283E96B1,20005160-1,"Sida 19(4)","","850","2001",
+gcc-91464,A,Compositae,,Chionolaena,,"mexicana",,"","S.E.Freire",Accepted,,M,TICA,CF1803F3-608B-41C9-9260-8671C92DF1C8,300299-2,"Ann. Missouri Bot. Gard. 80","","427","1993",
+gcc-135870,A,Compositae,,Chionolaena,,"phylicoides",,"","(Gardner) Baker",Accepted,,L,TICA,4F306D26-89B6-4B6D-93F7-EAE66A0D2ABC,1008472-2,"","","131","1882",
+gcc-34487,A,Compositae,,Chionolaena,,"phylicoides",,"","Gardner",Unresolved,,L,TICA,2B3DEF4B-F8E6-4387-8427-3FEA8E1D9037,,"Fl. Bras. (Martius) 6: 131. 1882","","131","1882",
+gcc-50756,A,Compositae,,Chionolaena,,"salicifolia",,"","(Bertol.) G.L.Nesom",Accepted,,M,TICA,1B35D862-0900-4AB6-B377-5E1FFC1046D3,20005161-1,"Sida 19(4)","","850","2001",
+gcc-42576,A,Compositae,,Chionolaena,,"sartorii",,"","Klatt",Accepted,,M,TICA,E41738F1-9853-401F-8DDA-4EDBC40EDE72,56657-2,"Leopoldina 23","","89","1887",
+gcc-133722,A,Compositae,,Chionolaena,,"seemannii",,"","(Sch.Bip.) S.E.Freire",Synonym,,M,TICA,05154D4F-A0D9-41B6-B660-E626F2A65052,1203677-2,"","","432","1993",gcc-50756
+gcc-9836,A,Compositae,,Chionolaena,,"seemannii",,"","Sch.Bip.",Unresolved,,L,TICA,DC1A7A2F-97C5-4C28-B96E-1260D9866A78,,"Ann. Missouri Bot. Gard. 80: 432. 1993","","432","1993",
+tro-100376716,A,Compositae,,Chionolaena,,"stolonata",,"","(S.F. Blake) Pruski",Accepted,,M,TRO,100376716,77116780-1,"Phytoneuron","2012–1: 4–5, fig. 2","4","2012",
+gcc-98,A,Compositae,,Chionolaena,,"wittigiana",,"","Baker",Accepted,,M,TICA,1F3E163B-80A6-4AC3-AC16-003278808CC4,303231-2,"","","129","1882",

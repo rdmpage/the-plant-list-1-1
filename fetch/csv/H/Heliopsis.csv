@@ -1,0 +1,53 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10092,A,Compositae,,Heliopsis,,"annua",,"","Hemsl.",Accepted,,M,TICA,42E05ECA-3C7F-40CD-B596-12E3B8B335E5,,"""Biol. Cent.-Amer., Bot. ii. 156.""","","156","1881",
+gcc-48386,A,Compositae,,Heliopsis,,"anomala",,"","(M.E.Jones) B.L.Turner",Accepted,,M,TICA,643F729A-18D4-4F6B-9AB3-59A6C3BE5169,1159582-2,"Phytologia 64: 338. 1988","","338","1988",
+gcc-123251,A,Compositae,,Heliopsis,,"balsamorhiza",,"","Hook.",Synonym,,M,TICA,35998B0A-1B21-428F-87B7-CDDCDA1A647D,,"Fl. Bor.-Amer. (Hooker) i. 310","","310","1833",gcc-29087
+gcc-126843,A,Compositae,,Heliopsis,,"brachactis",,"","Standl. ex T.R.Fisher",Unresolved,,L,TICA,0E86DE17-3000-4B41-A4EC-D63B73B8B573,,"","","","1957",
+tro-2702407,_,,,Heliopsis,,"buphthalmioides",,"","Dunal",Unresolved,,L,TRO,2702407,,"","","","",
+gcc-26552,A,Compositae,,Heliopsis,,"buphthalmoides",,"","Brandegee",Unresolved,,L,TICA,4E257836-187C-4D07-8F6C-311206857866,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 172""","","172","1889",
+gcc-7624,A,Compositae,,Heliopsis,,"buphthalmoides",,"","(Jacq.) Dunal",Accepted,,M,TICA,FC0816D0-BBCC-45E2-B888-0E295F845DC4,213524-1,"","","57","1819",
+gcc-124222,A,Compositae,,Heliopsis,,"bupthalmoides",,"","A.Gray",Unresolved,,L,TICA,D52BFA98-07DD-4750-BEED-D02F93D14046,213526-1,"Bot. Mex. Bound. 88.","","88","",
+gcc-1021,A,Compositae,,Heliopsis,,"canescens",,"","Don",Synonym,Illegitimate,M,TICA,C5677A19-E7C7-4665-9707-01DEA6DF010B,,"","","592","1821",gcc-125682
+gcc-125682,A,Compositae,,Heliopsis,,"canescens",,"","Kunth",Accepted,,M,TICA,90D21C57-17C1-4954-A067-D396151370C6,,"","","166","1820 [1818]",
+gcc-4889,A,Compositae,,Heliopsis,,"decumbens",,"","S.F.Blake",Accepted,,M,TICA,95872F3F-9590-4597-BE6C-091B3B3EF4ED,119677-2,"","","72","1940",
+gcc-49861,A,Compositae,,Heliopsis,,"dubia",,"","Dunal",Synonym,Illegitimate,M,TICA,0175B93A-AA8F-4459-B28B-5C6F11A046E6,213530-1,"","","58","1819",gcc-7624
+gcc-79822,A,Compositae,,Heliopsis,,"filifolia",,"","S.Watson",Accepted,,M,TICA,2A74F6FA-9F20-49CA-8901-6C405386E7A2,119678-2,"","","153","1890",
+gcc-86001,A,Compositae,,Heliopsis,,"gracilis",,"","Nutt.",Accepted,,M,TICA,6A7AB4BF-31CF-431B-A6F8-79F5E72E1448,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","353","1840",
+gcc-13198,A,Compositae,,Heliopsis,,"helianthodes",,"","Kuntze",Unresolved,,L,TICA,8D7FAEDF-C375-4168-B59A-1893C92600DE,213533-1,"Revis. Gen. Pl. 1: 343","","343","1891",
+gcc-110239,A,Compositae,,Heliopsis,,"helianthoides",,"","(L.) Sweet",Accepted,,L,TICA,B04635F2-41D3-491B-A510-B06DF90B1C93,213534-1,"","","487","1826",
+gcc-27591,A,Compositae,,Heliopsis,,"helianthoides",,"","""Britton, Sterns & Poggenb.""",Unresolved,,L,TICA,55955BDE-EDA9-42F8-A7A8-32FF43314146,,"Prelim. Catal. (1888) 28","","28","",
+gcc-59538,A,Compositae,,Heliopsis,,"helianthoides",var.,"gracilis","(Nutt.) Gandhi & R.D.Thomas",Synonym,,L,TICA,80FD4618-40F4-45A9-8BF2-973811DDF15D,956003-1,"","","106","1989",gcc-86001
+gcc-60135,A,Compositae,,Heliopsis,,"helianthoides",subsp.,"helianthoides","",Synonym,,L,TICA,51ED0BF9-D85C-4D10-B1F9-9BEB6CC839F6,,"","","","",gcc-110239
+gcc-6536,A,Compositae,,Heliopsis,,"helianthoides",var.,"helianthoides","",Synonym,,L,TICA,A3DE1DC2-540F-4821-8DB6-0C21E0B7A496,,"","","","",gcc-110239
+gcc-1247,A,Compositae,,Heliopsis,,"helianthoides",subsp.,"occidentalis","T.R.Fisher",Synonym,,L,TICA,A0120593-C23E-4A09-BD4D-0249E07F3D51,,"T. R. Fisher in Ohio J. Sci. 57. 1957.","","","1957",gcc-57395
+gcc-29798,A,Compositae,,Heliopsis,,"helianthoides",var.,"occidentalis","(T.R.Fisher) Steyerm.",Synonym,,L,TICA,280409AD-5766-4963-BD15-3718EAFBC3CA,119683-2,"Rhodora 62(737):","","131","1960",gcc-57395
+gcc-57395,A,Compositae,,Heliopsis,,"helianthoides",var.,"scabra","(Dunal) Fernald",Accepted,,L,TICA,592DB9D4-CC31-4207-941E-86053D3E17AF,119685-2,"Rhodora 44: 340. 1942","","340","1942",
+gcc-60727,A,Compositae,,Heliopsis,,"helianthoides",subsp.,"scabra","(Dunal) T.R.Fisher",Unresolved,,L,TICA,7B7A2CF0-1FBA-45B5-B953-A09FD9CDFD0D,119684-2,"T. R. Fisher in Ohio J. Sci. 57. 1957.","","190","1957",
+gcc-69602,A,Compositae,,Heliopsis,,"helianthoides",var.,"solidaginoides","(L.) Fernald",Synonym,,L,TICA,24E5114B-821D-47D2-8EDF-E7A2EB7C3558,119686-2,"Rhodora 39: 456. 1937","","456","1937",gcc-110239
+gcc-91752,A,Compositae,,Heliopsis,,"laevis",,"","(L.) Pers.",Synonym,,L,TICA,90301F17-EF4C-49FB-A12A-870FEA2E9DE2,119687-2,"Syn. Pl. (Persoon) 2(2): 473","","473","1807",gcc-108264
+gcc-147029,A,Compositae,,Heliopsis,,"laevis",var.,"laevis","",Synonym,,L,TICA,6515A512-3BCC-4716-94E9-2514D533BD00,,"","","","",gcc-108264
+gcc-71539,A,Compositae,,Heliopsis,,"laevis",var.,"minor","Hook.",Synonym,,L,TICA,719B1B67-5DCC-4383-9C67-F6FDF25946C3,,"Companion to the Botanical Magazine 1:","","98","1835",gcc-86001
+gcc-108116,A,Compositae,,Heliopsis,,"lanceolata",,"","S.F.Blake",Accepted,,M,TICA,F0DD06CF-4CB3-44DB-BE9F-AB9D782E8279,119691-2,"","","71","1940",
+gcc-152927,A,Compositae,,Heliopsis,,"lanceolata",var.,"lanceolata","",Synonym,,L,TICA,4DD7A12C-48BA-47FD-BD2E-A34A330CF38D,,"","","","",gcc-108116
+gcc-48308,A,Compositae,,Heliopsis,,"lilianthoides",,"","(L.) Sweet",Unresolved,,L,TICA,084CB213-4522-4F6C-BBED-5986E4BAB813,,"","","","",
+gcc-39118,A,Compositae,,Heliopsis,,"longipes",,"","(A.Gray) S.F.Blake",Accepted,,M,TICA,19746A87-6291-46E5-9A7C-4894AD42511E,,"","","","1924",
+gcc-105710,A,Compositae,,Heliopsis,,"minor",,"","(Hook.) C.Mohr",Synonym,,M,TICA,5A4F2BC1-C2D7-48C7-AB8D-A6244BAB2351,119694-2,"","","796","1901",gcc-57395
+gcc-28764,A,Compositae,,Heliopsis,,"mollis",,"","Wender.",Unresolved,,L,TICA,8D84F5CC-2CFF-4003-AEDE-352FF624142A,,"Ind. Sem. Hort. Marb. (1825); ex Steud. Nom. ed. II. i. 743.","","","1825",
+gcc-141998,A,Compositae,,Heliopsis,,"novogaliciana",,"","B.L.Turner",Accepted,,M,TICA,32797892-C809-4BF2-AB64-F8AF084B571E,278097-2,"","","1","1987",
+gcc-131260,A,Compositae,,Heliopsis,,"oppositifolia",,"","(L.) Druce",Synonym,,L,TICA,8AB9EF29-41D1-4EEF-889A-E07E7C9EAAA3,,"","","419","",gcc-110239
+gcc-91429,A,Compositae,,Heliopsis,,"oppositifolia",,"","(Lam.) S.Díaz",Synonym,,M,TICA,4A54D23B-9B68-464C-8514-86633EF50BD1,962398-1,"","","647","1990",gcc-7624
+gcc-47392,A,Compositae,,Heliopsis,,"padulapatula",,"","Wender",Unresolved,,L,TICA,394FA27B-72EB-446C-A9F3-57C57F6C7A24,,"Ind. Sem. Hort. Marb. (1825); ex Steud. Nom. ed. II. i. 743.","","","1825",
+gcc-48221,A,Compositae,,Heliopsis,,"parviceps",,"","S.F.Blake",Accepted,,M,TICA,729804F0-6619-4504-B1BA-59622630068D,119696-2,"","","268","1943",
+gcc-18687,A,Compositae,,Heliopsis,,"parvifolia",,"","A.Gray",Accepted,,M,TICA,B3FDD9D7-25AF-4A18-AA5C-2284D4CEBF75,,"Pl. Wright. ii. 86.","","","1853",
+gcc-62908,A,Compositae,,Heliopsis,,"parvifolia",var.,"parvifolia","",Synonym,,L,TICA,5AC60DC7-3EAE-43C7-8C44-B2A4AAA3BB32,,"","","","",gcc-18687
+gcc-34828,A,Compositae,,Heliopsis,,"platyglossa",,"","Cass.",Unresolved,,L,TICA,98CEDA92-30BF-443D-A0E9-4090FCB3CAB2,,"in Dict. Sc. Nat. xxiv. 332.","","","1821",
+gcc-138229,A,Compositae,,Heliopsis,,"procumbens",,"","Hemsl.",Accepted,,M,TICA,28DA4928-6274-4B04-A7B6-F0279DE1B82C,,"","","156","1881",
+gcc-80870,A,Compositae,,Heliopsis,,"pulchra",,"","T.R.Fisher",Synonym,,M,TICA,02DB47FC-AAA0-43C2-BBAA-6E8AEBB9ECF9,119698-2,"Ohio J. Sci. 61","","178","1961",gcc-7624
+gcc-131360,A,Compositae,,Heliopsis,,"purpurea",,"","Paul G.Wilson",Unresolved,,L,TICA,E5AD591A-A63D-4133-BD37-E0B5BD6624FF,119699-2,"","","164","1958",
+gcc-96542,A,Compositae,,Heliopsis,,"rubra",,"","T.R.Fisher",Unresolved,,L,TICA,E821CDD3-B340-4BE6-9883-91CF093E9916,,"","","","1954",
+gcc-32733,A,Compositae,,Heliopsis,,"rugosa",,"","Hort.Berol. ex DC.",Unresolved,,L,TICA,869250C6-1D5A-4BF7-BFB1-3CB167F7C8CC,213550-1,"Prodr. (DC.) 5: 551","","551","1836",
+gcc-104629,A,Compositae,,Heliopsis,,"scabra",,"","Dunal",Synonym,,L,TICA,8F6F4F1C-2C13-46E1-83DF-A3E37E573535,1010786-2,"Mém. Mus. Hist. Nat. 5: 56 (t. 8 ('4')). 1819","","56 (t. 8 ('4'))","1819",gcc-60727
+gcc-152110,A,Compositae,,Heliopsis,,"scabra",var.,"scabra","",Synonym,,L,TICA,BBB8BC0C-D82F-4167-9121-92BC532ACEF9,,"","","","",gcc-57395
+gcc-29617,A,Compositae,,Heliopsis,,"sinaloensis",,"","B.L.Turner",Accepted,,M,TICA,EDC7C6F7-EF17-4DA2-BE0D-36BF709DF0C4,278098-2,"","","2","1987",
+gcc-107719,A,Compositae,,Heliopsis,,"stricta",,"","Wender.",Unresolved,,L,TICA,175F7921-E681-44AE-9C29-AAB8C11B08A9,,"Ind. Sem. Hort. Mar. (1825); ex Steud. Nom. ed. II. i. 743.","","","1825",
+gcc-84429,A,Compositae,,Heliopsis,,"terebinthacea",,"","Hook.",Unresolved,,L,TICA,EA4A0E25-A85E-4AC3-9FBE-768B4E3E268C,,"Fl. Bor.-Amer. (Hooker) i. 310","","310","1833",

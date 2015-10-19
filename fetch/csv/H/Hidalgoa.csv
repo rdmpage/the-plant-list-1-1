@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-12161,A,Compositae,,Hidalgoa,,"breedlovei",,"","Sherff",Synonym,,M,TICA,03820E3E-1AF5-4CDE-ADC3-16ADE8FF3586,122131-2,"Sida 2","","261","1966",gcc-79444
+gcc-34818,A,Compositae,,Hidalgoa,,"lessingii",,"","DC.",Synonym,,M,TICA,4738EDB2-9C14-4FA1-B0B8-4089DEE5309B,214103-1,"","","511","1836",gcc-79444
+gcc-90174,A,Compositae,,Hidalgoa,,"pentamera",,"","Sherff",Synonym,,M,TICA,CBE84AE1-E2A2-43E3-9D84-835E18244E07,122132-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","334","1947",gcc-79444
+gcc-116018,A,Compositae,,Hidalgoa,,"steyermarkii",,"","Sherff",Synonym,,M,TICA,E2BF874B-A5D6-4B1F-896D-BD7BB3A8C323,122133-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","335","1947",gcc-79444
+gcc-79444,A,Compositae,,Hidalgoa,,"ternata",,"","La Llave",Accepted,,M,TICA,C5A1FECA-DFF6-4859-9617-6B77F1654E55,214106-1,"","","15","1824",
+gcc-126469,A,Compositae,,Hidalgoa,,"uspanapa",,"","B.L.Turner",Accepted,,M,TICA,67FA6F74-9D79-4CFA-AF30-D567C7330346,278200-2,"Phytologia 65(5):","","379","1988",
+gcc-12995,A,Compositae,,Hidalgoa,,"wercklei",,"","Hook.f.",Accepted,,M,TICA,0EB6E837-21CC-46CC-B87B-1835BE3C3F56,,"Bot. Mag. 125: t. 7684","","","1899",
+gcc-151909,A,Compositae,,Hidalgoa,,"wercklei",var.,"wercklei","",Synonym,,L,TICA,12CD44D6-8EBF-4BC7-B8A6-8E5D57D5AF3E,,"","","","",gcc-12995

@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2767125,A,Brassicaceae,,Didesmus,,"aegyptius",,"","(L.) Desv.",Accepted,,M,WCSP (in review),,,"J. Bot. Agric.","3: 160","","1814",
+tro-100361588,A,Brassicaceae,,Didesmus,,"aegyptius",var.,"oblongifolius","DC.",Synonym,,L,TRO,100361588,,"Reg. Veg. Syst. Nat.","2: 658.","658.","1821",kew-2767125
+tro-100361589,A,Brassicaceae,,Didesmus,,"aegyptius",var.,"pinnatus","Jaub. & Spach",Synonym,,L,TRO,100361589,,"Ill. Pll. Orient.","5: tab. 436.","tab. 436.","1854",kew-2767125
+kew-2767126,A,Brassicaceae,,Didesmus,,"aegyptius",var.,"tenuifolius","(Sm.) Heldr.",Synonym,,L,WCSP (in review),,,"Bull. Herb. Boissier","6: 234","","1898",kew-2767125
+tro-100361590,A,Brassicaceae,,Didesmus,,"aegyptius",var.,"tenuifolius","Heldr. ex Halácsy",Synonym,,L,TRO,100361590,,"Consp. Fl. Graec.","1: 121.","121.","1900",kew-2767125
+kew-2767127,A,Brassicaceae,,Didesmus,,"bipinnatus",,"","(Desf.) DC.",Accepted,,M,WCSP (in review),,282114-1,"Syst. Nat.","2: 659","","1821",
+tro-100361583,A,Brassicaceae,,Didesmus,,"bipinnatus",var.,"dissectus","Maire",Synonym,,L,TRO,100361583,,"Bull. Soc. Hist. Nat. Afrique N.","36: 89.","89.","1946",kew-2767127
+tro-100361584,A,Brassicaceae,,Didesmus,,"bipinnatus",var.,"intermedius","Maire & Weiller",Synonym,,L,TRO,100361584,,"Bull. Soc. Hist. Nat. Afrique N.","36: 89.","89.","1946",kew-2767127
+kew-2767128,A,Brassicaceae,,Didesmus,,"myagroides",,"","Desv.",Synonym,,M,WCSP (in review),,282115-1,"J. Bot. Agric.","3: 160","","1814",kew-2798786
+kew-2767129,A,Brassicaceae,,Didesmus,,"panduriformis",,"","Stocks",Unresolved,,L,WCSP (in review),,282116-1,"Proc. Linn. Soc. London","1: 367","","1848",
+kew-2767130,A,Brassicaceae,,Didesmus,,"pinnatus",,"","DC.",Synonym,,M,WCSP (in review),,282118-1,"Syst. Nat.","2: 659","","1821",kew-2798786
+kew-2767131,A,Brassicaceae,,Didesmus,,"rostratus",,"","Boiss.",Synonym,,M,WCSP (in review),,282119-1,"Fl. Orient.","1: 405","","1867",kew-2798804
+kew-2767132,A,Brassicaceae,,Didesmus,,"tenuifolius",,"","(Sm.) DC.",Synonym,,M,WCSP (in review),,282120-1,"Syst. Nat.","2: 659","","1821",kew-2767125

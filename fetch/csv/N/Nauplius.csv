@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32544,A,Compositae,,Nauplius,,"aquaticus",,"","(L.) Cass.",Synonym,,M,TICA,BB51CA31-A94E-4336-BB3E-3C5550ECA93C,,"","","","",gcc-114054
+gcc-141766,A,Compositae,,Nauplius,,"daltonii",,"","(Webb) Wiklund",Accepted,,M,TICA,F90A7446-0750-474C-9035-F824B93E2BF1,,"","","","1986",
+gcc-25104,A,Compositae,,Nauplius,,"daltonii",subsp.,"daltonii","",Synonym,,L,TICA,005B35DA-1A2A-44BD-B6D0-2E5C3BE849D8,,"","","","",gcc-141766
+gcc-60305,A,Compositae,,Nauplius,,"daltonii",subsp.,"vogelii","(Webb) Wiklund",Accepted,,L,TICA,06D34F43-5461-4CF1-96B0-9D5BF0D8BBDF,,"","","","1986",
+gcc-20890,A,Compositae,,Nauplius,,"graveolens",,"","(Forssk.) Wiklund",Synonym,,M,TICA,DC24EDA4-A09E-4C47-9833-26A30327A2DA,,"","","","1986",gcc-107756
+gcc-39516,A,Compositae,,Nauplius,,"graveolens",subsp.,"graveolens","",Synonym,,L,TICA,43315382-1866-4B8E-AF4E-495586841671,,"","","","",gcc-107756
+gcc-71159,A,Compositae,,Nauplius,,"graveolens",subsp.,"odorus","(Schousb.) Wiklund",Synonym,,L,TICA,6DF8259B-E591-4340-A7E7-F401B4C2DE4F,,"","","","1986",gcc-61248
+gcc-6280,A,Compositae,,Nauplius,,"graveolens",subsp.,"stenophyllus","(Link) Wiklund",Synonym,,L,TICA,8EFB87BE-66B7-4CB2-8C50-0BB327BCC607,,"","","","1986",gcc-70512
+gcc-88888,A,Compositae,,Nauplius,,"imbricatus",,"","(Cav.) Wiklund",Synonym,,M,TICA,E88E196B-23C3-4C74-8A0B-806D0C738768,,"","","","1986",gcc-9858
+gcc-83733,A,Compositae,,Nauplius,,"intermedius",,"","(DC.) Webb",Synonym,,M,TICA,3B15A23A-C76C-4CEB-B535-74E8137EF287,,"""Webb in Webb & Berthelot, Hist. Nat. Iles Canaries 3(2). 1843.""","","t. 86","1843",gcc-39416
+gcc-94378,A,Compositae,,Nauplius,,"intermedius",,"","Webb ex Sch.Bip.",Unresolved,,L,TICA,F9BD2601-7EFB-4210-B8D7-8CD53A177D7B,234246-1,"Webb & Berth. Phyt. Canar. ii. 236.","","ii. 236","",
+gcc-142899,A,Compositae,,Nauplius,,"maritimus",,"","Cass.",Unresolved,,L,TICA,64D3E41E-F19F-4E86-BFBD-FAB10CBA241B,,"in Dict. Sc. Nat. xxxiv. 274","","274","",
+gcc-4463,A,Compositae,,Nauplius,,"schultzii",,"","(Bolle) Wiklund",Synonym,,M,TICA,828E1188-7D2B-4BA6-88C4-084D40EF8C5B,,"","","","1986",gcc-85847
+gcc-121879,A,Compositae,,Nauplius,,"sericeus",,"","(L.f.) Cass.",Synonym,,M,TICA,6518EA78-42CA-429B-AA6A-CAC0A4FDE388,,"""Cass. in Cuvier, Dict. Sci. Nat. 34. 1825.""","","275","1825",gcc-46536
+gcc-14203,A,Compositae,,Nauplius,,"sericeus",,"","Cass. ex Sch.Bip.",Unresolved,,L,TICA,2D67C7A7-EBBB-45F9-A326-1A5883653602,234248-1,"Webb & Berth. Phyt. Canar. ii. 234","","234","",
+gcc-127449,A,Compositae,,Nauplius,,"smithii",,"","(Webb) Wiklund",Synonym,,M,TICA,E6CC3B5D-B9DD-45EF-8877-D7AF45DE875A,943406-1,"","","","1986",gcc-136346
+gcc-21718,A,Compositae,,Nauplius,,"stenophyllus",,"","(Link) Webb",Synonym,,L,TICA,96B8AF8C-11DD-4A37-8570-2831AD5615AF,,"","","","1839",gcc-70512

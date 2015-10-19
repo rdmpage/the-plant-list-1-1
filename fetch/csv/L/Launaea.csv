@@ -1,0 +1,175 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11697,A,Compositae,,Launaea,,"acanthoclada",,"","Maire",Synonym,,M,TICA,77D2E6A7-F11C-4FA0-8EFA-15CC1A815DE1,228984-1,"","","119","1926",gcc-96860
+gcc-156304,A,Compositae,,Launaea,,"acanthodes",,"","(Boiss.) Kuntze",Accepted,,M,TICA,34EFBE2E-4466-461E-A5FA-EA612142636C,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","350","1891",
+gcc-149098,A,Compositae,,Launaea,,"acanthodes",subsp.,"acanthodes","",Synonym,,L,TICA,33DD231A-3261-4351-9884-518263A7B246,,"","","","",gcc-156304
+gcc-150504,A,Compositae,,Launaea,,"acanthodes",f.,"acanthodes","",Synonym,,L,TICA,9EAADDCB-9CE4-4B65-AE3A-703978CDE338,,"","","","",gcc-156304
+gcc-147293,A,Compositae,,Launaea,,"acanthodes",f.,"pulverulenta","(Rech.f.) Parsa",Unresolved,,L,TICA,1ABE8D29-45A3-42A6-AB54-2A7AC22E53AF,971174-1,"Flore de l'Iran (Publ. Univ. Teheran 1777): 10","","204","1980",
+tro-50194563,A,Compositae,,Launaea,,"acanthodes",var.,"pulverulenta","Rech. f.",Synonym,,L,TRO,50194563,,"","","","",gcc-147293
+gcc-145713,A,Compositae,,Launaea,,"acanthodes",subsp.,"tomentella","(Rech.f.) N.Kilian",Accepted,,L,TICA,A84DFF61-7446-49E6-829D-09570E5D0A30,997828-1,"","","163","1997",
+gcc-51979,A,Compositae,,Launaea,,"acaulis",,"","(Roxb.) Babc. ex Kerr",Accepted,,M,TICA,F5BB1621-14BE-4022-986C-606C3BF15BBC,228985-1,"","","299","1936",
+gcc-120093,A,Compositae,,Launaea,,"almahrahensis",,"","N.Kilian",Accepted,,M,TICA,47542124-756F-48C6-9593-C6B11536BDFB,997837-1,"Englera 17","","339","1997",
+gcc-77109,A,Compositae,,Launaea,,"amal-aminiae",,"","N.Kilian",Accepted,,M,TICA,4F061FC1-3B1D-4B3A-A1E8-662080AA95D8,997839-1,"N. Kilian in Englera 17. 1997.","","346","1997",
+gcc-78134,A,Compositae,,Launaea,,"angolensis",,"","N.Kilian",Accepted,,M,TICA,CFF615E4-5B75-417D-AFD0-686D57DE7D10,997827-1,"Englera 17: 128 (1997)","","128","1997",
+gcc-1935,A,Compositae,,Launaea,,"angustifolia",,"","(Desf.) Kuntze",Accepted,,M,TICA,AD7E18EF-291C-4083-8988-037E4C8B3410,,"","","351","1891",
+gcc-82717,A,Compositae,,Launaea,,"angustifolia",,"","Muschl.",Unresolved,,L,TICA,EC9A4B8D-C214-4D2B-9F52-72ADD5F18477,228986-1,"""Man. Fl. Egypt, ii. 1059 (1912).""","","ii. 1059","1912",
+gcc-148994,A,Compositae,,Launaea,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,BF416DC8-18C9-4B4F-82F2-4F4E647505E5,,"","","","",gcc-1935
+gcc-68612,A,Compositae,,Launaea,,"angustifolia",subsp.,"angustifolia","",Synonym,,L,TICA,D11FA8A8-EA8F-479E-800E-E0086045EE4C,,"","","","",gcc-1935
+gcc-68838,A,Compositae,,Launaea,,"angustifolia",subsp.,"arabica","(Boiss.) N.Kilian",Accepted,,L,TICA,BDE6422B-C6AB-4F86-86A1-E1DECE73D5BE,983698-1,"N. Kilian in Willdenowia 25. 1995.","","274","1995",
+gcc-7470,A,Compositae,,Launaea,,"angustifolia",var.,"squarrosa","(Pomel) Batt.",Synonym,,L,TICA,D9A33E41-60F4-4202-B473-0DE1C0749C69,,"","","","",gcc-1935
+gcc-15553,A,Compositae,,Launaea,,"anomala",,"","(Batt.) Maire",Synonym,,M,TICA,E5378958-D197-437B-A9D6-1CC84EA8F96F,,"","","","",gcc-47896
+gcc-7526,A,Compositae,,Launaea,,"arabica",,"","(Boiss.) H.Lindb.",Synonym,,M,TICA,B27B858B-5BA6-4133-B84E-0DF92D0A6DCF,,"""Itin. Mediterr. (Act. Soc. Sc. Fenn. n. s. B, i. No. 2) 163 (1932)""","","163","1932",gcc-68838
+gcc-14764,A,Compositae,,Launaea,,"arborescens",,"","(Batt.) Murb.",Accepted,,M,TICA,A25C7636-6DC4-44B2-BE30-1B642A42B566,,"","","65","1923",
+gcc-110388,A,Compositae,,Launaea,,"aspleniifolia",,"","(Willd.) Hook.f.",Accepted,,M,TICA,D200D1BB-7BFA-4B26-87C0-B0C5442FA893,228989-1,"","","415","1881",
+gcc-77512,A,Compositae,,Launaea,,"asymmetrica",,"","R.E.Fr.",Unresolved,,L,TICA,BBEE9839-F6BE-4BEF-AA21-670CD44C3FBE,228990-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 126 (1914)","","126","1914",
+gcc-40495,A,Compositae,,Launaea,,"bellidifolia",,"","Cass.",Synonym,,M,TICA,E267446E-850B-4C29-BE2A-4B0B435B8AF8,228991-1,"","","321","1822",gcc-103503
+gcc-27370,A,Compositae,,Launaea,,"benadirensis",,"","Chiov.",Accepted,,M,TICA,F4E0A697-312B-496B-98E3-329F2F5C01C1,,"""Chiov., Fl. Somala 1. 1929""","","208","1929",
+gcc-156514,A,Compositae,,Launaea,,"benadirensis",var.,"benadirensis","",Synonym,,L,TICA,E7FB27AB-EBEE-4553-A5B9-EEAF5182B57E,,"","","","",gcc-27370
+gcc-43734,A,Compositae,,Launaea,,"benadirensis",var.,"caulescens","Chiov.",Synonym,,L,TICA,1F639448-E40B-45E8-A9BF-5108958305F6,,"","","208","1929",gcc-27370
+gcc-19479,A,Compositae,,Launaea,,"boranensis",,"","(Cufod.) Cufod.",Synonym,,M,TICA,EF67BE31-76FC-41C0-802C-23FF2BEF6A8D,,"""in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl., 1182 (1967).""","","","1967",gcc-93119
+gcc-30830,A,Compositae,,Launaea,,"bornmuelleri",,"","(Hausskn. ex Bornm.) Bornm.",Accepted,,M,TICA,F89727FF-79B1-41AB-9DA4-39144719D58F,228993-1,"","","226","1939",
+gcc-88560,A,Compositae,,Launaea,,"brunneri",,"","(Webb) Amin ex Boulos",Accepted,,M,TICA,DB19545F-A4A9-4D91-AA36-7FB28FF5A290,228994-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",
+gcc-129635,A,Compositae,,Launaea,,"cabrae",,"","(De Wild.) N.Kilian",Accepted,,M,TICA,E6CB9D81-C3A0-4671-9534-DCB585171444,997825-1,"Englera 17: 122 (1997):","","122","1997",
+gcc-56797,A,Compositae,,Launaea,,"cabrae",subsp.,"cabrae","",Synonym,,L,TICA,A320E0D1-E52E-44C8-B6F1-813DC6C85978,,"Englera 17: 122 (1997)","","","",gcc-129635
+gcc-60323,A,Compositae,,Launaea,,"cabrae",subsp.,"nanella","(R.E.Fr.) N.Kilian",Accepted,,L,TICA,AC7EFAF4-3316-4307-8945-9D7CC5BDF218,997826-1,"Englera 17: 127 (1997):","","127","1997",
+gcc-107567,A,Compositae,,Launaea,,"capitata",,"","(Spreng.) Dandy",Accepted,,M,TICA,4B068A49-CA5C-430D-B0FC-AA596625C4B0,228995-1,"","","40","1956",
+gcc-101773,A,Compositae,,Launaea,,"cassiniana",,"","(Jaub. & Spach) Muschl.",Synonym,,M,TICA,752675A7-1156-4EFC-8874-9D7BDA78BE8D,228997-1,"""Man. Fl. Egypt, ii. 1058 (1912).""","","ii. 1058","1912",gcc-55448
+gcc-157309,A,Compositae,,Launaea,,"cassiniana",,"","(Jaub. & Spach) Kuntze",Synonym,Illegitimate,M,TICA,91C8786C-8852-48B0-B80D-FF26C6F1F72E,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","351","1891",gcc-55448
+gcc-4451,A,Compositae,,Launaea,,"cassiniana",,"","(Jaub. & Spach) Burkill",Accepted,,M,TICA,9CAE08D2-9B90-4354-8A66-084686EC8BC0,228996-1,"""Fl. Pl. Baluchistan, 44 (1909).""","","44","1909",
+gcc-148554,A,Compositae,,Launaea,,"cassiniana",var.,"cassiniana","",Synonym,,L,TICA,A7496E50-BE84-4FD6-83F9-454F17B1C398,,"","","","",gcc-55448
+gcc-20603,A,Compositae,,Launaea,,"cassiniana",var.,"marginata","Maire",Synonym,,L,TICA,52A11B62-66FB-453F-A218-26246E9DA4C5,,"","","","",gcc-77109
+gcc-32008,A,Compositae,,Launaea,,"castanosperma",,"","F.G.Davies",Accepted,,M,TICA,F4A85A1A-6387-4110-BCE2-3B4A3CF4831A,,"","","294","1979",
+gcc-48516,A,Compositae,,Launaea,,"cervicornis",,"","(Boiss.) Font Quer & Rothm.",Accepted,,M,TICA,C42B6468-2BF2-4304-AA54-59DB62C4A5DE,,"","","","1934",
+gcc-44202,A,Compositae,,Launaea,,"chevalieri",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,71DBC2FD-9FE1-495A-AC5F-51DC105D785A,229000-1,"Bull. Soc. Bot. France 57(Mém. 8c): 118","","118","1910",gcc-88560
+gcc-24544,A,Compositae,,Launaea,,"chondrilloides",,"","Hook.f.",Synonym,,L,TICA,95FE034B-4432-40D6-B136-2D5676C4EFC9,229001-1,"","","415","1881",gcc-90729
+gcc-94507,A,Compositae,,Launaea,,"chondrilloides",,"","Desf.",Synonym,,L,TICA,64FD9D38-741B-428B-A972-8D271E01BBEA,,"","","","",gcc-90729
+gcc-34707,A,Compositae,,Launaea,,"cornuta",,"","(Hochst. ex Oliv. & Hiern) C.Jeffrey",Accepted,,M,TICA,948748EB-12EB-4BF3-8C8D-405C968C0591,229002-1,"Kew Bull. xviii. 468 (1966)","","468","1966",
+gcc-133367,A,Compositae,,Launaea,,"courtetiana",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,DAC29A2A-C333-4FAE-94C0-E55917D1ACD9,229003-1,"Bull. Soc. Bot. France 57(Mém. 8c): 119","","119","1910",gcc-34707
+gcc-77341,A,Compositae,,Launaea,,"crassifolia",,"","(Balf.f.) C.Jeffrey",Accepted,,M,TICA,37F334F9-551F-472F-989A-66A7C881BE79,229004-1,"","","477","1966",
+gcc-5895,A,Compositae,,Launaea,,"crepoides",,"","Balf.f.",Accepted,,M,TICA,981E49CC-D691-41D9-8ACA-0AF919047134,229005-1,"in Proc. Roy. Soc. Edinb. xi. (1882) 842.","","842","1882",
+gcc-133944,A,Compositae,,Launaea,,"cufodontii",,"","Lanza",Synonym,,M,TICA,6026C2F9-D9AF-4F2B-AC7E-E6B02C24FA77,229006-1,"""in Miss. Biol. Borana, Racc. Bot., Angiosp.-Gymnosp. 272 (1939).""","","272","1939",gcc-123676
+gcc-144452,A,Compositae,,Launaea,,"divaricata",,"","(Desf.) Andreanszky",Unresolved,,L,TICA,57C08D2E-5D30-4BFD-A4F1-FE22614D0A44,,"""in Ind. Hort. Bot. Univ. Budapest, 107 (1932), in obs.""","","""107 , in obs.""","1932",
+gcc-83595,A,Compositae,,Launaea,,"divaricata",,"","(Desf.) Vierh.",Synonym,,M,TICA,2A198225-494A-4CEE-89F3-74A935E57AAC,,"""Vierh. in Denkschr. Kaiserl. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 71. 1907.""","","486","1907",gcc-125560
+gcc-97924,A,Compositae,,Launaea,,"elliotiana",,"","(Hiern) Boulos",Synonym,Illegitimate,M,TICA,028D49C5-8ED2-4434-BD24-94F794E49C45,229008-1,"in Bot. Notiser cxv. 58 (1962).","","58","1962",gcc-141455
+gcc-129473,A,Compositae,,Launaea,,"exauriculata",,"","(Oliv. & Hiern) Amin ex Boulos",Synonym,,M,TICA,C2886E77-CEA6-4897-B80C-DC5521D40E5A,229009-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",gcc-34707
+gcc-103041,A,Compositae,,Launaea,,"fallax",,"","(Jaub. & Spach) Kuntze",Synonym,,L,TICA,A9FD43D1-9AA6-40E0-BC39-A069E73BEA41,,"","","","1891",gcc-126043
+gcc-4097,A,Compositae,,Launaea,,"fallax",,"","Muschl.",Unresolved,,L,TICA,B8DF5608-4250-4796-85D8-079F1FFE8F62,229010-1,"""Man. Fl. Egypt, ii. 1060 (1912).""","","ii. 1060","1912",
+gcc-131111,A,Compositae,,Launaea,,"farinentula",,"","Chiov.",Synonym,,M,TICA,F37A49D2-07F4-491C-A10B-E0201C692405,,"Atti della Societa dei Naturalisti de Modena 64:","","66","1933",gcc-34707
+gcc-86750,A,Compositae,,Launaea,,"farinulenta",,"","Chiov.",Synonym,,M,TICA,3B3EFB37-544D-4EFA-A958-7BA0B991C207,,"","","","",gcc-34707
+gcc-11951,A,Compositae,,Launaea,,"fischeri",,"","(O.Hoffm.) Boulos",Synonym,,M,TICA,A3F84366-3851-473D-A35B-16447559A397,229013-1,"","","58","1962",gcc-90134
+gcc-46167,A,Compositae,,Launaea,,"foxii",,"","(Post) Eig",Synonym,,M,TICA,A76F55A5-A783-4E98-A174-5594FE407B69,229014-1,"","","48","1931",gcc-68838
+gcc-90729,A,Compositae,,Launaea,,"fragilis",,"","(Asso) Pau",Accepted,,L,TICA,4759E436-F096-4B26-B71F-84C4094709F7,229015-1,"","","68","1917",
+gcc-146677,A,Compositae,,Launaea,,"fragilis",var.,"fragilis","",Synonym,,L,TICA,9C447991-E441-46A6-B6FE-1DB60B191277,,"","","","",gcc-90729
+gcc-60977,A,Compositae,,Launaea,,"fragilis",subsp.,"fragilis","",Synonym,,L,TICA,809466AB-F90B-43BA-B949-A2C1CC11FCE4,,"","","","",gcc-90729
+gcc-38260,A,Compositae,,Launaea,,"fragilis",subsp.,"pumila","(Cav.) O.Bolòs & al.",Synonym,,L,TICA,D8031120-DAF3-4576-8992-46FA3DA629BD,,"O. Bolòs & al. in Folia Bot. Misc.6. 1989.","","","",gcc-47896
+gcc-58958,A,Compositae,,Launaea,,"fragilis",subsp.,"pumila","(Cav.) O.Bolòs & Vigo",Synonym,,L,TICA,07601B64-B314-4492-AFD2-92B1E012FC19,955570-1,"""in Folia Bot. Misc., 6: 86 (1989):""","","86","1989",gcc-47896
+gcc-95493,A,Compositae,,Launaea,,"freyniana",,"","Pau",Synonym,,M,TICA,0D7E0A80-A19B-40D0-85D5-8F828FCC9F76,229016-1,"""in Font Quer, Iter Marocc. 1927, No. 729 [1928].""","","No. 729 [1928]","",gcc-14764
+gcc-109404,A,Compositae,,Launaea,,"glabra",,"","Franch.",Synonym,,M,TICA,9E116962-021F-4AB8-9974-AE94299200C1,,"","","42","1887",gcc-51979
+gcc-88018,A,Compositae,,Launaea,,"glomerata",,"","(Cass.) Hook.f.",Synonym,,M,TICA,226FFA94-8930-4A1A-87B1-7E81EC15DC9E,229018-1,"","","417","1881",gcc-107567
+gcc-83313,A,Compositae,,Launaea,,"goraeensis",,"","(Lam.) O.Hoffm.",Synonym,,M,TICA,D1F22DD8-205B-40B7-81CD-7401660C735C,229019-1,"","","370","1893",gcc-39706
+gcc-97537,A,Compositae,,Launaea,,"gorgadensis",,"","(Bolle) N.Kilian",Accepted,,M,TICA,27B4695F-8856-4C90-913C-9419AE91A88E,945372-1,"Willdenowia 18(1): 167","","167","1988",
+gcc-123676,A,Compositae,,Launaea,,"hafunensis",,"","Chiov.",Accepted,,M,TICA,93449A9D-61F3-4FB6-9AC2-CEE21D623ABB,229020-1,"Fl. Somala 1","","207","1929",
+gcc-127598,A,Compositae,,Launaea,,"integrifolia",,"","Hagerup",Synonym,,M,TICA,6EF28EB8-D802-4BC2-9641-D8087BDF7839,,"""in D. K. Danske Vidensk. Selsk., Biol. Medd. ix. Iv. 56 (1930).""","","","1930",gcc-88560
+gcc-39706,A,Compositae,,Launaea,,"intybacea",,"","(Jacq.) Beauverd",Accepted,,M,TICA,D45EF364-F861-4448-B2C8-49AC8F4B3C88,,"""Bull. Soc. Bot. Genève, ser. 2, 2: 114. 1910.""","","114","1910",
+gcc-118900,A,Compositae,,Launaea,,"jaumei",,"","Sennen",Unresolved,,L,TICA,AB02FCC5-9EBC-4D61-A6AC-C40DDEC83FBD,229023-1,"""in Bol. Soc. Iber. 1929, xxviii. 168 (1930), in syn.""","","""xxviii. 168 (1930), in syn.""","1929",
+gcc-150032,A,Compositae,,Launaea,,"korovinii",,"","(Popov) Pavlov",Accepted,,M,TICA,FE71AF96-B71E-41E3-90EA-65E78575D33E,,"""N.V. Pavlov, Fl. Centr. Kazakh. 3. 1938""","","360","1938",
+gcc-21628,A,Compositae,,Launaea,,"kossmatii",,"","Vierh.",Synonym,,M,TICA,C48473C8-9D82-4098-8BD4-27FE218D30E2,,"Oesterreichische Botanische Zeitschrift 56:","","303","1906",gcc-77341
+gcc-29605,A,Compositae,,Launaea,,"kuriensis",,"","Vierh.",Synonym,,M,TICA,F7F988F6-1308-48D3-B67C-36B9524A9280,229024-1,"Oesterr. Bot. Z. 56","","302","1906",gcc-147355
+gcc-86627,A,Compositae,,Launaea,,"lackii",,"","N.Kilian",Accepted,,M,TICA,65221B44-27E5-4678-B942-7B57A7727D0F,997836-1,"Englera 17: 337 (1997)","","337","1997",
+gcc-147051,A,Compositae,,Launaea,,"lactucoides",,"","(T.Anderson) E.H.L.Krause",Synonym,,M,TICA,99C68C5D-F121-41B8-B437-25735739D57A,,"E. H. L. Krause in Bot. Jahrb. Syst. 35. 1905","","734","1905",gcc-147355
+gcc-27990,A,Compositae,,Launaea,,"lampsanoides",,"","Franch.",Accepted,,M,TICA,6796B46C-79A0-4B89-AC38-33B419827B30,,"""Nouv. Arch. Mus. Hist. Nat. Ser. II, x. (1887-88) 42.""","","42","",
+gcc-96860,A,Compositae,,Launaea,,"lanifera",,"","Pau",Accepted,,M,TICA,E9ED493D-512E-4ADE-A64D-927DB6818C2A,229026-1,"","","23","1925",
+gcc-19495,A,Compositae,,Launaea,,"ledermannii",,"","(R.E.Fr.) Boulos",Synonym,,M,TICA,E56005AD-0700-4C9B-BD0D-2405A95799E6,229027-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",gcc-116710
+gcc-155937,A,Compositae,,Launaea,,"longiloba",,"","(Boiss. & Reut.) Maire",Synonym,,L,TICA,FD9B223D-B029-4F56-9DEB-E2EA5D57E2F8,229028-1,"Maire in Bull. Soc. Hist. Nat. Afrique N. 25. 1934","","308","1934",gcc-90729
+gcc-120882,A,Compositae,,Launaea,,"longiloha",,"","(Boiss. & Reut.) Maire",Synonym,,L,TICA,D22B08FD-DE92-4008-867B-C88B8B97BAED,,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1934, xxv. 308""","","308","",gcc-90729
+gcc-2122,A,Compositae,,Launaea,,"macer",,"","(S.Moore) Boulos",Synonym,,M,TICA,1A822BA6-8AB4-4F35-8429-03CBFDBF5590,,"Botaniska Notiser 115:","","58","1962",gcc-90134
+gcc-139479,A,Compositae,,Launaea,,"macra",,"","(S.Moore) Boulos",Synonym,,M,TICA,2C19CB5A-3159-4B21-B0C6-F2D346A6405E,,"in Bot. Notiser cxv. 58 (1962).","","","1962",gcc-90134
+gcc-151729,A,Compositae,,Launaea,,"massauensis",,"","(Fres.) Chiov.",Accepted,,M,TICA,C275C479-9E03-4205-BC6C-8B1BD85A6403,,"","","","",
+gcc-41620,A,Compositae,,Launaea,,"massauensis",,"","(Fresen.) Sch.Bip. ex Kuntze",Unresolved,,L,TICA,BE1CC3D3-0114-499D-879C-4D111161BC12,,"","","351","1891",
+gcc-147355,A,Compositae,,Launaea,,"massavensis",,"","(Fresen.) Kuntze",Accepted,,M,TICA,36F62B21-0F1B-42AB-92D8-2BD7E0A6A421,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","351","1891",
+gcc-78595,A,Compositae,,Launaea,,"massavensis",,"","Muschl.",Unresolved,,L,TICA,A6812FD9-481D-4FFD-A18F-697B8D6ACA7D,229030-1,"""Man. Fl. Egypt, ii. 1060 (1912).""","","ii. 1060","1912",
+gcc-100738,A,Compositae,,Launaea,,"melanostigma",,"","Pett.",Synonym,,M,TICA,1209578C-E8F4-4CB8-8E22-9B510E13E26F,,"","","60","1960",gcc-14764
+gcc-143114,A,Compositae,,Launaea,,"microcephala",,"","Hook.f.",Accepted,,M,TICA,01695AB9-04B3-4D03-9342-FB2950A442EF,229032-1,"","","415","1881",
+gcc-20141,A,Compositae,,Launaea,,"mucronata",,"","(Forssk.) Muschl.",Accepted,,M,TICA,2D6FEC52-6E87-4CED-94E2-253A6C2BF333,229033-1,"","","1057","1912",
+gcc-55448,A,Compositae,,Launaea,,"mucronata",subsp.,"cassiniana","(Jaub. & Spach) N.Kilian",Accepted,,L,TICA,A9ADAB78-1D13-4BDE-8F93-760EFA7EB312,,"","","277","1995",
+gcc-62125,A,Compositae,,Launaea,,"mucronata",subsp.,"mucronata","",Synonym,,L,TICA,1A87C499-4AC4-49F1-AF86-AC38CCE6BC18,,"","","","",gcc-20141
+gcc-141455,A,Compositae,,Launaea,,"nana",,"","(Baker) Chiov.",Accepted,,M,TICA,4E195A88-2BA2-46A4-82BF-F778F18598F3,,"","","108","1916",
+gcc-2394,A,Compositae,,Launaea,,"nanella",,"","(R.E.Fr.) Boulos",Synonym,,M,TICA,EDD8F471-AFF3-4C36-8F46-04596C099791,229034-1,"in Bot. Notiser cxv. 58 (1962).","","58","1962",gcc-60323
+gcc-23631,A,Compositae,,Launaea,,"nigricola",,"","C.Jeffrey",Synonym,,M,TICA,28D1B064-2FCF-4342-9F13-2BB288301B44,229035-1,"Kew Bull. xviii. 470 (1966).","","470","1966",gcc-17821
+gcc-122231,A,Compositae,,Launaea,,"nudicaulis",,"","Less.",Unresolved,Illegitimate,L,TICA,0297201A-F7AB-437C-AAB6-CB90D9B6F803,,"","","","",
+gcc-125560,A,Compositae,,Launaea,,"nudicaulis",,"","(L.) Hook.f.",Accepted,,M,TICA,8878DC1A-A9A3-4E3C-9E23-D354EFA8FD82,229036-1,"","","416","1881",
+gcc-68727,A,Compositae,,Launaea,,"nudicaulis",var.,"divaricata","(Desf.) Batt.",Synonym,,L,TICA,F751ADC7-75FA-42F9-990C-E103FBA8E7F3,,"","","","",gcc-125560
+gcc-48493,A,Compositae,,Launaea,,"nudicaulis",var.,"foliosa","Maire",Synonym,,L,TICA,0236088C-2A34-49E7-AC9E-59CF577BD85A,,"","","","",gcc-125560
+gcc-34795,A,Compositae,,Launaea,,"nudicaulis",var.,"intricata","Batt.",Synonym,,L,TICA,B69A5DE2-A791-4E31-8AD7-407E8863E63B,,"","","","",gcc-125560
+gcc-148834,A,Compositae,,Launaea,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,8B790640-7639-4938-A31C-4BBC843CEB9B,,"","","","",gcc-125560
+gcc-136131,A,Compositae,,Launaea,,"obtusus",,"","(DC.) Mundhe & Almeida",Unresolved,,L,TICA,E7F8EA83-618E-47E9-8324-EB823E8859EA,946815-1,"J. Bombay Nat. Hist. Soc. 85(3): 523 (1988 publ. 1989):","","523","1989",gcc-126043
+gcc-106263,A,Compositae,,Launaea,,"oligocephala",,"","(Bornm.) Bornm.",Accepted,,M,TICA,04AB6DC6-4FB2-4A08-8662-A7602637FF7C,229037-1,"","","236","1914",
+gcc-84787,A,Compositae,,Launaea,,"omanensis",,"","N.Kilian",Accepted,,M,TICA,159DD2EA-565A-4337-BE25-774791C3E731,997838-1,"Englera 17","","343","1997",
+gcc-142756,A,Compositae,,Launaea,,"pauciflora",,"","(Baker) Humbert & Boulos",Synonym,,M,TICA,3F5A70EA-02A6-4A97-9D32-FA5A40C4802E,229038-1,"""in Fl. Madag. Fam. 189, 880 (1963)""","","880","1963",gcc-90134
+gcc-23958,A,Compositae,,Launaea,,"paulayana",,"","Vierh.",Synonym,,M,TICA,ACB87945-6E6A-41D4-8A14-2C47BFFDB3BD,,"Oesterreichische Botanische Zeitschrift 56:","","304","1906",gcc-77341
+gcc-17821,A,Compositae,,Launaea,,"petitiana",,"","(A.Rich.) N.Kilian",Accepted,,M,TICA,FF68AD52-B58C-42A0-82D0-20E43E16E7E5,997832-1,"Englera 17: 231 (1997):","","231","1997",
+gcc-114305,A,Compositae,,Launaea,,"picridioides",,"","(Webb) B.L.Rob.",Accepted,,M,TICA,10C326B1-8E83-4387-A4F2-B988B5C1AF79,229039-1,"Proc. Amer. Acad. Arts xlix. 517 (1913)","","517","1913",
+gcc-146871,A,Compositae,,Launaea,,"picridioides",,"","(Webb) Engl.",Unresolved,,L,TICA,80C21F9A-6430-4485-883A-216F2A546C0C,,"""Engl., Veg. Erde 9(1). 1910""","","820","1910",
+gcc-115952,A,Compositae,,Launaea,,"piestocarpa",,"","(Boiss.) Rech.f.",Synonym,,M,TICA,3DD9A0C7-9C3B-4D11-9905-BD57D6DC0CD9,229040-1,"""in Fl. Iran., 122: 152 (1977).""","","152","1977",gcc-79103
+gcc-44158,A,Compositae,,Launaea,,"pinnatifida",,"","Cass.",Synonym,,M,TICA,2A6D72B5-56B7-47B2-85B6-51C4250BBFA1,229041-1,"","","85","1831",gcc-103503
+gcc-142604,A,Compositae,,Launaea,,"platyphylla",,"","Rech.f.",Accepted,,M,TICA,8A04D80E-4A86-451D-8862-F9F75272453C,229042-1,"","","157","1977",
+gcc-156295,A,Compositae,,Launaea,,"polyclada",,"","(Boiss.) Kuntze",Synonym,,M,TICA,4B55C324-2C08-4AC7-8FCE-EA4B4B181AA1,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","351","1891",gcc-79103
+gcc-22687,A,Compositae,,Launaea,,"polyclada",,"","(Boiss.) Burkill",Accepted,,M,TICA,F2C7D436-4939-4075-A89B-29FD937402C2,229043-1,"""Fl. Pl. Baluchistan, 44 (1909).""","","44","1909",
+gcc-115488,A,Compositae,,Launaea,,"polydichotoma",,"","(Ostenf.) Amin ex N.Kilian",Accepted,,M,TICA,D0057B81-A047-4F3F-B52D-BC4230F76B66,997829-1,"Englera 17: 166 (1997):","","166","1997",
+gcc-4107,A,Compositae,,Launaea,,"popovii",,"","Krasch.",Synonym,,M,TICA,30EB2EFA-53CF-45E1-8B30-07A63C549DA4,229044-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 180 (1933)""","","180","1933",gcc-108721
+gcc-126043,A,Compositae,,Launaea,,"procumbens",,"","(Roxb.) Ramayya & Rajagopal",Accepted,,L,TICA,5CD4706A-224F-417E-8238-D46FCA882420,229046-1,"Kew Bull. 23","","465","1969",
+gcc-5323,A,Compositae,,Launaea,,"procumbens",,"","(Roxb.) Amin",Synonym,Invalid,L,TICA,E7B92D36-34F6-4CCB-A0BA-09EF5BDF07C5,229045-1,"""in Tackh. Stud. Fl. Egypt, 84 (1956).""","","84","1956",gcc-126043
+gcc-93119,A,Compositae,,Launaea,,"pseudoabyssinica",,"","(Chiov.) N.Kilian",Accepted,,M,TICA,B1A8652E-F7BA-44E4-87E5-8A0D1835F29C,997833-1,"Englera 17: 259 (1997):","","259","1997",
+gcc-3750,A,Compositae,,Launaea,,"pulchra",,"","(L.) Pavlov",Synonym,,M,TICA,11AB28E6-D80F-4951-990E-06F6A0C71357,,"""Fl. Centr. Kazakhst. iii. 360 (1938); cf. Botsch. in Not. Syst. Herb. Inst. Bot.Acad. Sci. URSS, xix. 638 (1959).""","","","1938",gcc-8198
+gcc-47896,A,Compositae,,Launaea,,"pumila",,"","(Cav.) Kuntze",Accepted,,M,TICA,D69067E7-E1B2-47A3-A85F-58BA0866166A,,"","","351","1891",
+gcc-91245,A,Compositae,,Launaea,,"pumila",,"","Chiov.",Synonym,Illegitimate,M,TICA,30AB61B3-B0DE-4303-9FCF-85EE44B64E7F,229048-1,"Result. Sc. Miss. Stefan.-Paoli Somal. Ital. i. 107 (1916).","","107","1916",gcc-27370
+gcc-93129,A,Compositae,,Launaea,,"pycnocephala",,"","(R.E.Fr.) Boulos",Synonym,,M,TICA,044E8160-73BD-4462-B2AC-8A10C7E83160,229049-1,"in Bot. Notiser cxv. 58 (1962).","","58","1962",gcc-122688
+gcc-104582,A,Compositae,,Launaea,,"quercifolia",,"","(Desf.) Pamp.",Accepted,,M,TICA,A72A3369-1979-4156-AB28-A3CF03CE08F2,229050-1,"","","269","1914",
+gcc-52358,A,Compositae,,Launaea,,"quercifolia",var.,"pennatipartita","Le Houér.",Synonym,,L,TICA,B68ACF57-F5CD-4644-938D-611525B4F9B6,,"","","","",gcc-104582
+gcc-154979,A,Compositae,,Launaea,,"quercifolia",var.,"quercifolia","",Synonym,,L,TICA,97958F7B-2889-4D1D-828C-CEAEF3CA318F,,"","","","",gcc-104582
+gcc-31940,A,Compositae,,Launaea,,"quettaënsis",,"","N.Kilian",Accepted,,M,TICA,B030F91D-9140-4E22-8886-3B278A820F7C,997840-1,"Englera 17: 350 (1997)","","350","1997",
+gcc-90134,A,Compositae,,Launaea,,"rarifolia",,"","(Oliv. & Hiern) Boulos",Accepted,,M,TICA,778CBE8B-82B6-46B7-913C-83454E555025,229051-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",
+gcc-68032,A,Compositae,,Launaea,,"rarifolia",var.,"nanella","(R.E.Fr.) G.V.Pope",Synonym,,L,TICA,A1460F17-2C4B-421D-B29A-DBD05B2C57C5,970234-1,"""in Fl. Zambes., 6(1): 217 (1992):""","","217","1992",gcc-60323
+gcc-19080,A,Compositae,,Launaea,,"rarifolia",var.,"rarifolia","",Synonym,,L,TICA,CC695A8C-C953-407D-91DD-2339961A8EDD,,"","","","",gcc-90134
+gcc-16413,A,Compositae,,Launaea,,"remotiflora",,"","Amin ex Rech.f.",Synonym,,M,TICA,CFAFBC4A-51F7-4B48-B5DE-1E54A53C1083,229052-1,"","","148","1977",gcc-39706
+gcc-12775,A,Compositae,,Launaea,,"resedifolia",,"","Druce",Unresolved,,L,TICA,A2B0288C-823A-4A43-B742-17CBE62779F2,,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1913, iii. 420 (1914).""","","420","",
+gcc-42452,A,Compositae,,Launaea,,"resedifolia",,"","(L.) Kuntze",Synonym,,M,TICA,9A504DA2-DAE7-45DC-A9E2-4E9EEC617D55,,"","","","1891",gcc-53853
+gcc-52785,A,Compositae,,Launaea,,"resedifolia",subsp.,"cassiniana","(Jaub. & Spach) Le Houér.",Synonym,,L,TICA,9A70DDFE-4F64-49A1-8EAC-61DFCAAA1963,,"","","","",gcc-55448
+gcc-28479,A,Compositae,,Launaea,,"resedifolia",var.,"dichotoma","Pomel",Synonym,,L,TICA,736348E1-8512-42B0-8AB0-34A6BAD03E4C,,"","","","",gcc-90729
+gcc-57085,A,Compositae,,Launaea,,"resedifolia",subsp.,"longiloba","(Boiss. & Reut.) Maire",Synonym,,L,TICA,B01F488B-FBB2-4A55-8F10-836E76560634,,"","","","",gcc-90729
+gcc-59891,A,Compositae,,Launaea,,"resedifolia",subsp.,"mucronata","(Forssk.) Maire",Synonym,,L,TICA,D511546D-9E98-45C6-9FAA-9A1ADDBC22D4,,"","","","",gcc-20141
+gcc-29715,A,Compositae,,Launaea,,"resedifolia",var.,"pulchella","Pamp.",Synonym,,L,TICA,0A91C5E7-623F-4442-ADAA-36ED3A29B0EE,,"","","","",gcc-90729
+gcc-149168,A,Compositae,,Launaea,,"resedifolia",var.,"resedifolia","",Synonym,,L,TICA,4CB38680-6318-416D-8580-530CA87EEBA0,,"","","","",gcc-53853
+gcc-149678,A,Compositae,,Launaea,,"resedifolia",subsp.,"resedifolia","",Synonym,,L,TICA,506E614B-38E7-4BA2-8EFC-5DF6D2F1AB78,,"","","","",gcc-53853
+gcc-70040,A,Compositae,,Launaea,,"resedifolia",var.,"setacea","Batt.",Synonym,,L,TICA,218DF8C0-1C00-44E2-915B-EAF8D1C6969E,,"","","","",gcc-90729
+gcc-21167,A,Compositae,,Launaea,,"resedifolia",var.,"tenuiloba","Pomel",Synonym,,L,TICA,E6255EE5-2060-4907-8990-2719D02F6F4A,,"","","","",gcc-20141
+gcc-72459,A,Compositae,,Launaea,,"resedifolia",subsp.,"viminea","(Lange) Batt.",Synonym,,L,TICA,59934636-40ED-485E-8F12-FE14360F9CAF,,"","","","",gcc-128198
+gcc-154742,A,Compositae,,Launaea,,"rhynchocarpa",,"","(Balf.f.) Mies",Accepted,,M,TICA,9EA00870-8D32-4730-9846-CA13BDF4414A,1004420-1,"Mies in Senckenberg. Biol. 74. 1994","","231","1994",
+gcc-122688,A,Compositae,,Launaea,,"rogersii",,"","(Humbert) Humbert & Boulos",Accepted,,M,TICA,E2ABB128-6BFA-4599-B08C-CC8B220F8710,229054-1,"""in Fl. Madag. Fam. 189, 882(1963)""","","882","1963",
+gcc-9497,A,Compositae,,Launaea,,"rueppellii",,"","(Sch.Bip. ex Oliv. & Hiern) Amin ex Boulos",Accepted,,M,TICA,FDE90386-8686-4AD8-AAEB-11B9F2FD78FC,229055-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",
+gcc-106719,A,Compositae,,Launaea,,"salehensis",,"","Vierh.",Synonym,,M,TICA,264ECAEB-1BE1-4DC2-B369-A8720E151FD8,,"Oesterreichische Botanische Zeitschrift 56:","","305","1906",gcc-77341
+gcc-103503,A,Compositae,,Launaea,,"sarmentosa",,"","(Willd.) Sch.Bip. ex Kuntze",Accepted,,M,TICA,776D3115-0DA4-4AEB-AC62-A16C2A8F22A1,113642-3,"","","350","1891",
+gcc-107989,A,Compositae,,Launaea,,"sarmentosa",,"","(Willd.) Alston",Unresolved,,L,TICA,A2DD1B6C-1E0E-46E8-B40E-AB5B9EBD0B85,229056-1,"""in Trimen, Hand-Book Fl. Ceylon vi. Suppl., 173 (1931).""","","""vi. Suppl., 173""","1931",
+gcc-47440,A,Compositae,,Launaea,,"sarmentosa",,"","(Willd.) Merr.",Unresolved,Illegitimate,L,TICA,C64E52F0-CFAA-4D25-9D58-57E04508C8DE,,"Sunyatsenia 2(3-4):","","328","1935",
+gcc-57621,A,Compositae,,Launaea,,"sarmentosa",var.,"javanica","Back.",Synonym,,L,TICA,A4BE012F-F3BC-4567-AC2F-87CFC1DF1386,,"Trop. Nat. 7 (1918)","","""59, t. 11""","1918",gcc-103503
+gcc-149922,A,Compositae,,Launaea,,"sarmentosa",var.,"sarmentosa","",Synonym,,L,TICA,10F69AB2-A44A-4DF5-B8E3-6320E7E05311,,"","","","",gcc-103503
+gcc-440,A,Compositae,,Launaea,,"secunda",,"","(C.B.Clarke) Hook.f.",Accepted,,M,TICA,EF3BDEAD-7CDC-4D2B-A7AB-00D18FA59ECF,229057-1,"","","416","1881",
+gcc-143560,A,Compositae,,Launaea,,"socotrana",,"","N.Kilian",Accepted,,M,TICA,48B6737E-2EAC-4DDA-BC3B-FC320E0455F4,997834-1,"Englera 17: 265 (1997)","","265","1997",
+gcc-2931,A,Compositae,,Launaea,,"spinosa",,"","(Forssk.) Kuntze",Accepted,,M,TICA,A9AD34BF-05AD-4131-BFBA-056EDAD0D1F6,,"","","350","1891",
+gcc-152514,A,Compositae,,Launaea,,"spinosa",subsp.,"acanthoclada","(Maire) Ozenda",Synonym,,L,TICA,7C1E3D4D-2B44-4DB6-9E1D-9AFFED1E10EC,,"""Ozenda, Fl. Sahara. 1958""","","460","1958",gcc-96860
+gcc-151981,A,Compositae,,Launaea,,"spinosa",subsp.,"spinosa","",Synonym,,L,TICA,2D1980A0-0FBB-41C1-A047-8FCD9A00039B,,"","","","",gcc-2931
+gcc-154278,A,Compositae,,Launaea,,"stenocephala",,"","(Boiss.) Kuntze",Accepted,,M,TICA,2843EA2C-FD55-4056-8D67-C063B3B92B73,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","351","1891",
+gcc-91530,A,Compositae,,Launaea,,"stenocephala",,"","Burkill",Unresolved,,L,TICA,64EB5362-C3DD-4ABD-857B-8693DEB8653A,229059-1,"""Fl. Pl. Baluchistan, 44 (1909).""","","44","1909",
+gcc-149554,A,Compositae,,Launaea,,"stocksiana",,"","(Boiss.) Kuntze",Synonym,,M,TICA,C6692C56-A5B4-4A08-BF20-5B8361260070,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","351","1891",gcc-39706
+gcc-34171,A,Compositae,,Launaea,,"stocksiana",,"","Burkill",Unresolved,,L,TICA,960AAC1E-0B2F-4D97-A19B-3F55F85FB339,229060-1,"""Fl. Pl. Baluchistan, 44 (1909).""","","44","1909",
+gcc-152726,A,Compositae,,Launaea,,"tapetodes",,"","(Boiss.) R.R.Stewart",Synonym,,M,TICA,8CF69771-B9CC-4543-9C4F-9F8435235BE2,,"""Ralph Randles  Stewart - in Eugene Nasir & Syed Irtifaq Ali, Fl. W. Pakistan 1. 1972""","","764","1972",gcc-114223
+gcc-128628,A,Compositae,,Launaea,,"taraxacifolia",,"","(Willd.) Amin ex C.Jeffrey",Accepted,,M,TICA,90A9023C-CF9E-422B-97CD-DA72153306EF,229061-1,"Kew Bull. xviii. 474 (1966)","","474","1966",
+gcc-124790,A,Compositae,,Launaea,,"tenuiloba",,"","Muschl.",Unresolved,,L,TICA,66A4A91F-552E-4633-B677-D17DD71CB3D2,229062-1,"""Man. Fl. Egypt, ii. 1058 (1912).""","","ii. 1058","1912",
+gcc-9392,A,Compositae,,Launaea,,"tenuiloba",,"","(Boiss.) Kuntze",Synonym,,L,TICA,8D98403A-0269-42F8-94D2-118A8CA349FA,,"","","350","1891",gcc-90729
+gcc-120295,A,Compositae,,Launaea,,"thalassica",,"","""N.Kilian, Brochmann & Rustan""",Accepted,,L,TICA,D27AA81C-59A1-4660-AC6B-C728DB045F19,,"Willdenowia 16(2): 491","","491","1987",
+gcc-25949,A,Compositae,,Launaea,,"tomentella",,"","Rech.f.",Synonym,,M,TICA,BF07DF7F-A8A2-4BD6-A247-2FF38019A029,229063-1,"","","202","1955",gcc-145713
+gcc-84291,A,Compositae,,Launaea,,"tonkinensis",,"","(Gagnep.) Babc. ex Kerr",Synonym,,M,TICA,05E5D909-2AFB-4A0B-A683-763BEA7BC356,,"""in Craib, Fl. Siam. Enum. ii. 300 (1936).""","","","1936",gcc-51979
+gcc-31912,A,Compositae,,Launaea,,"verdickii",,"","(De Wild.) Boulos",Accepted,,M,TICA,9712B977-4248-4E4F-BE43-3B1DCFFF38C9,229065-1,"in Bot. Notiser cxv. 58 (1962).","","58","1962",
+gcc-127344,A,Compositae,,Launaea,,"viminea",,"","(Batt.) Maire",Unresolved,,L,TICA,A6D7FDB2-4C52-4A7F-9F86-D770B9BF4F3C,229066-1,"""Jahandiez & Maire, Cat. Pl. Maroc iii. 846 (1934)""","","846","1934",
+gcc-128198,A,Compositae,,Launaea,,"viminea",,"","(Batt.) Batt.",Accepted,,M,TICA,39643025-6726-4DEE-9744-D97375548380,,"""Batt., Contr. Fl. Atl. 1919.""","","58","1919",
+gcc-122988,A,Compositae,,Launaea,,"violacea",,"","(O.Hoffm.) Boulos",Accepted,,M,TICA,6F86FF29-3748-48A0-A729-CD499996672C,229067-1,"","","58","1962",
+gcc-113781,A,Compositae,,Launaea,,"virgata",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,C3840012-0535-462C-9F62-B86388529E09,229068-1,"Bull. Soc. Bot. France 57(Mém. 8c): 119","","119","1910",gcc-34707

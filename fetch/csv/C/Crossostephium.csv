@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-82478,A,Compositae,,Crossostephium,,"artemisioides",,"","Less. ex Cham. & Schltr.",Synonym,,M,TICA,08B5027D-5D60-426E-A867-722CC77CE192,,"Linnaea 6 (1831)","","220","1831",gcc-41848
+gcc-99632,A,Compositae,,Crossostephium,,"artemisioides",,"","Less.",Accepted,,M,TICA,6375A775-E830-4A1A-9FBE-98CEF30C9C23,200596-1,"Linnaea 6","","229","1831",
+gcc-16617,A,Compositae,,Crossostephium,,"californicum",,"","(Less.) Rydb.",Synonym,,M,TICA,67B6B1AB-E388-428A-9565-1EB4F42F0987,69705-2,"N. Amer. Fl. 34","","243","1916",gcc-12194
+gcc-144162,A,Compositae,,Crossostephium,,"chinense",,"","(L.) Merr.",Synonym,Illegitimate,M,TICA,6354C90D-999C-4795-99B8-FD7E5DBD9D5F,,"Philipp. Journ. Sci. 1919 xv. 260.","","260","",gcc-99632
+gcc-41848,A,Compositae,,Crossostephium,,"chinense",,"","(A.Gray ex L.) Makino",Accepted,,M,TICA,26A4CABC-0320-4B81-BE00-4D7F3F4F1CF9,200598-1,"Bot. Mag. (Tokyo) 20","","33","1906",
+tro-50244864,A,Compositae,,Crossostephium,,"foliosa",,"","(Nutt.) Rydb.",Accepted,,M,TRO,50244864,69706-2,"N. Amer. Fl.","34(3): 243","243","1916",
+gcc-26730,A,Compositae,,Crossostephium,,"insulare",,"","Rydb.",Synonym,,M,TICA,15CEF9F2-2380-4E59-87E8-31642F9B51AF,1186517-2,"","","244","1916",gcc-93298
+gcc-87588,A,Compositae,,Crossostephium,,"turkestanicum",,"","Regel & Schmalh.",Synonym,,M,TICA,5C241E6D-D434-4B08-BB75-7D9C17C75F40,,"","","","1882",gcc-133755

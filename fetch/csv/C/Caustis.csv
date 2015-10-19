@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-232533,A,Cyperaceae,,Caustis,,"blakei",,"","Kük. ex S.T.Blake",Accepted,,H,WCSP,232533,,"Proc. Roy. Soc. Queensland","54: 71","","1943",
+kew-232534,A,Cyperaceae,,Caustis,,"blakei",subsp.,"blakei","",Synonym,,L,WCSP,232534,,"Unknown","","","",kew-232533
+kew-232536,A,Cyperaceae,,Caustis,,"dioica",,"","R.Br.",Accepted,,H,WCSP,232536,303105-1,"Prodr. Fl. Nov. Holl.","239","","1810",
+kew-331286,A,Cyperaceae,,Caustis,,"dioica",var.,"eciliata","Kük.",Synonym,,L,WCSP,331286,,"Feddes Repert. Spec. Nov. Regni Veg.","53: 99","","1944",kew-232536
+kew-331287,A,Cyperaceae,,Caustis,,"dioica",f.,"multiandra","H.Pfeiff.",Synonym,,L,WCSP,331287,,"Repert. Spec. Nov. Regni Veg.","21: 365","","1925",kew-232536
+kew-232537,A,Cyperaceae,,Caustis,,"dioica",f.,"multiradiata","H.Pfeiff.",Synonym,,L,WCSP,232537,,"Repert. Spec. Nov. Regni Veg.","21: 365","","1925",kew-232536
+kew-232538,A,Restionaceae,,Caustis,,"erostris",,"","C.B.Clarke",Synonym,,H,WCSP,232538,303106-1,"Bull. Misc. Inform. Kew, Addit. Ser.","8: 49","","1908",kew-223681
+kew-232539,A,Cyperaceae,,Caustis,,"filifolia",,"","(C.Presl) H.Pfeiff.",Synonym,,H,WCSP,232539,303107-1,"Repert. Spec. Nov. Regni Veg.","21: 364","","1925",kew-246467
+kew-232540,A,Cyperaceae,,Caustis,,"flexuosa",,"","R.Br.",Accepted,,H,WCSP,232540,303108-1,"Prodr. Fl. Nov. Holl.","239","","1810",
+kew-232541,A,Cyperaceae,,Caustis,,"flexuosa",var.,"rectiramulosa","Kük.",Synonym,,L,WCSP,232541,,"Feddes Repert. Spec. Nov. Regni Veg.","53: 96","","1944",kew-232540
+kew-331288,A,Cyperaceae,,Caustis,,"flexuosa",var.,"tenuirama","(Gand.) Kük.",Synonym,,L,WCSP,331288,,"Feddes Repert. Spec. Nov. Regni Veg.","53: 96","","1944",kew-232540
+kew-232542,A,Cyperaceae,,Caustis,,"hexandra",,"","Nees",Synonym,,H,WCSP,232542,303109-1,"Pl. Preiss.","2: 88","","1846",kew-232536
+kew-232543,A,Cyperaceae,,Caustis,,"pentandra",,"","R.Br.",Accepted,,H,WCSP,232543,303110-1,"Prodr. Fl. Nov. Holl.","239","","1810",
+kew-232544,A,Cyperaceae,,Caustis,,"pilisepala",,"","(Steud.) H.Pfieff.",Synonym,,H,WCSP,232544,,"Repert. Spec. Nov. Regni Veg.","21: 366","","1925",kew-234538
+kew-232545,A,Cyperaceae,,Caustis,,"recurvata",,"","Spreng.",Accepted,,H,WCSP,232545,303112-1,"Syst. Veg.","4(2): 26","","1827",
+kew-232546,A,Cyperaceae,,Caustis,,"recurvata",var.,"foliosa","Kük.",Synonym,,L,WCSP,232546,,"Feddes Repert. Spec. Nov. Regni Veg.","53: 98","","1944",kew-232545
+kew-331289,A,Cyperaceae,,Caustis,,"recurvata",var.,"hirsuta","Kük.",Synonym,,L,WCSP,331289,,"Feddes Repert. Spec. Nov. Regni Veg.","53: 98","","1944",kew-232545
+kew-232547,A,Cyperaceae,,Caustis,,"restiacea",,"","F.Muell. ex Benth.",Synonym,,H,WCSP,232547,303113-1,"Fl. Austral.","7: 421","","1878",kew-232540
+kew-232548,A,Cyperaceae,,Caustis,,"sieberi",,"","(Schrad. ex Schult. & Schult.f.) Kunth",Synonym,,H,WCSP,232548,303114-1,"Enum. Pl.","2: 307","","1837",kew-246467
+kew-232549,A,Cyperaceae,,Caustis,,"squamellata",,"","C.B.Clarke",Synonym,,H,WCSP,232549,303115-1,"Bull. Misc. Inform. Kew, Addit. Ser.","8: 48","","1908",kew-232543
+kew-232550,A,Cyperaceae,,Caustis,,"tenuirama",,"","Gand.",Synonym,,H,WCSP,232550,303116-1,"Bull. Soc. Bot. France","66: 297","","1919 publ. 1920",kew-232540

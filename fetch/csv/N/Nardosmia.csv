@@ -1,0 +1,34 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-135663,A,Compositae,,Nardosmia,,"angulosa",,"","Kuprian.",Synonym,,L,TICA,4677D829-9248-4F0A-8D8A-EA76267D6D31,,"","","","",gcc-87800
+gcc-39248,A,Compositae,,Nardosmia,,"angulosa",,"","Cass.",Synonym,,L,TICA,FBB9E788-0510-4327-814B-48D70943E8A4,1164076-2,"","","188","1825",gcc-87800
+gcc-38413,A,Compositae,,Nardosmia,,"arctica",,"","(A.E.Porsild) Á.Löve & D.Löve",Synonym,,L,TICA,BE27DF39-C8C5-4692-A754-47471A01F650,,"","","519","",gcc-59815
+gcc-94111,A,Compositae,,Nardosmia,,"billingsiana",,"","Fisch. ex Herder",Unresolved,,L,TICA,3ADED6B7-3AAA-46D0-A5E9-8C3BE18607C4,,"in Bull. Soc. Nat. Mosc. xxxvi i. (1865) I. 370","","370","",
+gcc-30488,A,Compositae,,Nardosmia,,"corymbosa",,"","(R.Br.) Hook.",Unresolved,,L,TICA,3425EC53-845B-4D4D-BEAC-386686A75EC6,1132123-2,"","","307","1833",
+gcc-6292,A,Compositae,,Nardosmia,,"denticulata",,"","Cass.",Unresolved,,L,TICA,F156AF82-D920-44F6-98B8-0BB8127EFD6C,234122-1,"in Dict. Sc. Nat. xxxiv. 187.","","xxxiv. 187","",
+gcc-77632,A,Compositae,,Nardosmia,,"doerfleri",,"","(Hayek) J.Holub",Unresolved,,L,TICA,E9FA35C3-FE85-4E9D-888A-67504E83B979,234123-1,"Folia Geobot. Phytotax. 12(3): 308 (1977)","","308","1977",
+gcc-120827,A,Compositae,,Nardosmia,,"fominii",,"","(Bordz.) Kuprian.",Synonym,,M,TICA,3BC79271-A54A-40F2-AD8A-C86A0CCFB5B7,,"""Kuprian. in Komarov, Fl. SSSR 26. 1961.""","","","1961",gcc-86153
+gcc-115683,A,Compositae,,Nardosmia,,"fragrans",,"","(Vill.) Rchb.",Synonym,,M,TICA,6F4AB7E1-028B-430E-9220-BCC29A1B2FF7,,"","","","1831",gcc-88861
+gcc-121532,A,Compositae,,Nardosmia,,"frigida",,"","(L.) Hook.",Synonym,,L,TICA,CECF50A2-D9E5-48E3-89C9-C9FFA1D61DD8,1071769-2,"","","307","1833",gcc-87800
+gcc-145932,A,Compositae,,Nardosmia,,"frigida",var.,"frigida","",Synonym,,L,TICA,B9B404E2-ED75-48F0-93F7-0DDADEEEA3A2,,"","","","",gcc-87800
+gcc-8984,A,Compositae,,Nardosmia,,"glacialis",,"","Ledeb.",Synonym,,M,TICA,E03FF8E8-5CD7-46EB-9517-10CFDD9D4B3D,167118-2,"","","466","1845",gcc-117985
+gcc-21371,A,Compositae,,Nardosmia,,"gmelinii",,"","Turcz. ex DC.",Synonym,,M,TICA,80F98D17-AE05-4441-8BD3-277D44E40B72,167119-2,"Prodr. (DC.) 7(1): 271","","271","1838",gcc-35964
+gcc-3389,A,Compositae,,Nardosmia,,"himalaica",,"","(Kitam.) Kuprian.",Unresolved,,L,TICA,5DAFAE9C-4570-490B-BA66-064127E97B1F,234128-1,"""Fl. URSS xxvi. 653 (1961), in obs.""","","""xxvi. 653 , in obs.""","1961",
+gcc-89849,A,Compositae,,Nardosmia,,"hookeriana",,"","Nutt.",Unresolved,,L,TICA,3838F9BA-8D9C-41AA-A0B1-82AE3F73EF8F,,"","","288","1840",gcc-59815
+gcc-108942,A,Compositae,,Nardosmia,,"japonica",,"","Siebold & Zucc.",Synonym,,M,TICA,A5740F5C-7549-4ABF-A806-AD81BA25E090,329074-2,"","","181","1846",gcc-121974
+gcc-136673,A,Compositae,,Nardosmia,,"japonica",,"","Sieb ex Sieb ex Zucco",Synonym,,M,TICA,926CF3B5-0FB0-4850-A8F5-ECBB65C04672,,"","","","1846",gcc-121974
+gcc-146077,A,Compositae,,Nardosmia,,"japonica",subsp.,"japonica","",Synonym,,L,TICA,6B23F24C-5CA8-4E01-A8A7-10ED67F1938F,,"","","","",gcc-121974
+gcc-90393,A,Compositae,,Nardosmia,,"laevigata",,"","(Willd.) DC.",Synonym,,M,TICA,538A956B-4E30-491C-A6C9-83E2EF1FC99A,234131-1,"","","205","1836",gcc-130683
+gcc-148005,A,Compositae,,Nardosmia,,"laevigata",var.,"laevigata","",Synonym,,L,TICA,0F822436-3DC6-4BAE-8542-39C63FB92CBD,,"","","","",gcc-130683
+gcc-19611,A,Compositae,,Nardosmia,,"laevigata",var.,"subfaeminea","DC.",Synonym,,L,TICA,38387519-BE50-4DFC-B8B5-2440C8F9A5AC,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","205","1836",gcc-125184
+gcc-104264,A,Compositae,,Nardosmia,,"nivalis",,"","(B.D.Greene) Jurtzev",Synonym,,L,TICA,B4A32076-1688-490D-A51D-A31F9AD91687,,"","","","",gcc-87800
+gcc-110436,A,Compositae,,Nardosmia,,"palmata",,"","(Aiton) Hook.",Synonym,,L,TICA,FDBCF261-C32B-4C4B-B2AD-B0E5A19C07FD,1102650-2,"","","308","1833",gcc-59815
+gcc-80786,A,Compositae,,Nardosmia,,"populifolia",,"","(Sm.) Schischk.",Unresolved,,L,TICA,6C23BE90-B6D1-4434-A9F7-6E54D5B6239E,234133-1,"""in Krylov, Fl. Sibir. Occ., ed. 2, xi. 2826 (1949).""","","""2, xi. 2826""","1949",
+gcc-10665,A,Compositae,,Nardosmia,,"racemosa",,"","Pasq.",Unresolved,,L,TICA,54F27BBB-000F-4B57-B50B-13EFD20B9FD7,234134-1,"Cat. Orto Nap. 112.","","112","",
+gcc-51402,A,Compositae,,Nardosmia,,"radiata",,"","(J.F.Gmel.) Holub",Synonym,,M,TICA,F73F5CF1-18D6-49AD-AD00-5F5580F27D10,234135-1,"Folia Geobot. Phytotax. 12(3): 308 (1977)","","308","1977",gcc-130683
+gcc-7149,A,Compositae,,Nardosmia,,"sagittata",,"","(Banks ex Pursh) Hook.",Synonym,,M,TICA,1B91B070-E6F5-4394-B2DD-0D4D02577AF3,1094328-2,"","","307","1833",gcc-18590
+gcc-113814,A,Compositae,,Nardosmia,,"sahlbergii",,"","Scheutz",Unresolved,,L,TICA,3E5CD97F-CA32-4F80-9281-B877C2D0F87C,234137-1,"Pl. Vasc. Jeniss. (1888) 122.","","122","1888",
+gcc-143427,A,Compositae,,Nardosmia,,"saxatilis",,"","Turcz.",Synonym,,M,TICA,7118CFE1-D972-45A0-9838-FBDD4EF38017,234138-1,"in Bull. Soc. Nat. Mosc. xix. (1846) II. 138.","","138","1846",gcc-125184
+gcc-142550,A,Compositae,,Nardosmia,,"speciosa",,"","Nutt.",Unresolved,,L,TICA,EB90F969-B45B-4266-BE49-F9DA9FD074EC,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","","1840",gcc-59815
+gcc-136651,A,Compositae,,Nardosmia,,"spuria",,"","Less.",Unresolved,,L,TICA,6A2D6FC9-1E06-4072-986D-ECAE8E99F255,234140-1,"Linnaea 9: 156. 1834","","156","1834",
+gcc-131398,A,Compositae,,Nardosmia,,"straminea",,"","Cass.",Synonym,,M,TICA,1F9A90B3-B838-4189-8694-E0C959EC33F7,,"","","","1825",gcc-130683
+gcc-6694,A,Compositae,,Nardosmia,,"vitifolia",,"","(Greene) Á.Löve & D.Löve",Synonym,,L,TICA,2A5CC59A-D3F5-4EE6-9B66-0C6B2D766C65,167122-2,"","","519","1976",gcc-64787

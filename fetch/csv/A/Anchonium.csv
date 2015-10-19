@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2636419,A,Brassicaceae,,Anchonium,,"billardieri",,"","DC.",Accepted,,M,WCSP (in review),,277881-1,"Mém. Mus. Hist. Nat.","7: 242","","1821",
+kew-2636420,A,Brassicaceae,,Anchonium,,"brachycarpum",,"","(Trautv.) Vassilcz.",Synonym,,M,WCSP (in review),,277882-1,"Fl. URSS","8: 321","","1939",kew-2636421
+kew-2636421,A,Brassicaceae,,Anchonium,,"elichrysifolium",,"","(DC.) Boiss.",Accepted,,M,WCSP (in review),,277883-1,"Fl. Orient.","1: 240","","1867",
+kew-2636422,A,Brassicaceae,,Anchonium,,"elichrysifolium",var.,"brachycarpum","Trautv.",Synonym,,L,WCSP (in review),,,"Enum. Pl.","2: 503","","1875",kew-2636421
+kew-2636424,A,Brassicaceae,,Anchonium,,"elichrysifolium",subsp.,"canescens","(Bornm.) Cullen & Coode",Synonym,,L,WCSP (in review),,,"Notes Roy. Bot. Gard. Edinburgh","26: 193","","(1965",kew-2636425
+kew-2636425,A,Brassicaceae,,Anchonium,,"elichrysifolium",var.,"canescens","(Hausskn. ex Bornm.) Jacquemoud",Accepted,,L,WCSP (in review),,922942-1,"Candollea","39: 757","","1984",
+kew-2636427,A,Brassicaceae,,Anchonium,,"elichrysifolium",subsp.,"cilicicum","(Siehe ex Bornm.) Cullen & Coode",Synonym,,L,WCSP (in review),,,"Notes Roy. Bot. Gard. Edinburgh","26: 193","","1965",kew-2636421
+tro-100359264,A,Brassicaceae,,Anchonium,,"elichrysifolium",subsp.,"elichrysifolium","",Synonym,,L,TRO,100359264,,"","","","",kew-2636421
+kew-2636428,A,Brassicaceae,,Anchonium,,"elichrysifolium",subsp.,"glandulosum","Cullen & Coode",Synonym,,L,WCSP (in review),,,"Notes Roy. Bot. Gard. Edinburgh","26: 193","","1965",kew-2636421
+kew-2636429,A,Brassicaceae,,Anchonium,,"elichrysifolium",var.,"persicum","(DC.) Bornm.",Synonym,,L,WCSP (in review),,,"Repert. Spec. Nov. Regni Veg. Beih.","89(1): 39","","1936",kew-2636421
+kew-2636430,A,Brassicaceae,,Anchonium,,"elichrysifolium",subsp.,"persicum","(DC.) Cullen & Coode",Synonym,,L,WCSP (in review),,,"Notes Roy. Bot. Gard. Edinburgh","27: 193","","1965",kew-2636421
+kew-2636432,A,Brassicaceae,,Anchonium,,"persicum",,"","(DC.) Bornm.",Synonym,,M,WCSP (in review),,277884-1,"Bull. Herb. Boissier","II, 4: 1265","","1904",kew-2636421
+kew-2636433,A,Brassicaceae,,Anchonium,,"ramosissimum",,"","O.E.Schulz",Unresolved,,L,WCSP (in review),,,"Bot. Jahrb. Syst.","66: 97","","1933",
+kew-2636434,A,Brassicaceae,,Anchonium,,"sterigmoides",,"","Lipsky ex Vassilcz.",Unresolved,,L,WCSP (in review),,277886-1,"Fl. URSS","8: 473","","1939",
+tro-4103366,A,Brassicaceae,,Anchonium,,"sterigmoides",,"","Lipsky ex Vass.",Synonym,,M,TRO,4103366,,"","","","",tro-4104406
+kew-2636435,A,Brassicaceae,,Anchonium,,"tournefortii",,"","Boiss.",Synonym,,M,WCSP (in review),,277887-1,"Ann. Sci. Nat., Bot.","II, 17: 386","","1842",kew-2636421
+kew-2636436,A,Brassicaceae,,Anchonium,,"tournefortii",var.,"canescens","Hausskn. ex Bornm.",Synonym,,L,WCSP (in review),,,"","","","",kew-2636425

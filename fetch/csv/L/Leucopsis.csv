@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-5192,A,Compositae,,Leucopsis,,"acuminata",,"","(DC.) Malme",Synonym,,M,TICA,01D31F1A-E847-4695-9D5F-09B3FF9341F5,139208-2,"","","43","1931",gcc-88282
+gcc-108130,A,Compositae,,Leucopsis,,"calendulacea",,"","(Griseb.) Baker",Synonym,,M,TICA,715FF23F-19B2-4D91-AC1F-ABA5E50C9307,230256-1,"Fl. Bras. (Martius) 6(3): 9","","9","1882",gcc-88282
+gcc-1352,A,Compositae,,Leucopsis,,"calvata",,"","Baker",Synonym,,M,TICA,F57C7FEA-2321-430F-8C04-0273402A17E4,139210-2,"Fl. Bras. (Martius) 6(3)","","8","1882",gcc-80646
+gcc-39210,A,Compositae,,Leucopsis,,"diffusa",,"","(Pers.) Baker",Synonym,,M,TICA,DA9A84CA-FE68-4687-9C39-48BFD66CF462,230258-1,"Fl. Bras. (Martius) 6(3): 8","","8","1882",gcc-88662
+gcc-22751,A,Compositae,,Leucopsis,,"gnaphalioides",,"","Baker",Synonym,,M,TICA,9D8CD7F2-047C-43A0-8DF9-2A1BB811C7D0,230259-1,"Fl. Bras. (Martius) 6(3)","","8","1882",gcc-42759
+gcc-141173,A,Compositae,,Leucopsis,,"harveyi",,"","Baker",Synonym,,M,TICA,D745ACA4-EC5E-4CDD-815D-F6BB757EEFF9,230260-1,"""Fl. Bras. (Martius) 6(3): 7, in obs.""","","7","1882",gcc-85333
+gcc-28837,A,Compositae,,Leucopsis,,"macrocephala",,"","Baker",Synonym,,M,TICA,6FBDAB6D-EB2D-4C7D-B303-354D9128738F,139212-2,"Fl. Bras. (Martius) 6(3)","","7","1882",gcc-2453
+gcc-31637,A,Compositae,,Leucopsis,,"podocomoides",,"","Baker",Unresolved,,L,TICA,F50A8454-E85F-4385-A65C-3AA6AF8E6E1B,230262-1,"Fl. Bras. (Martius) 6(3): 6","","6","1882",
+gcc-42517,A,Compositae,,Leucopsis,,"psammophila",,"","Malme",Synonym,,M,TICA,D5242F8A-4FB5-4398-ADAD-4EBFD8A2D6D8,,"Ark. Bot. 24A(6)","","","",gcc-18739
+gcc-54647,A,Compositae,,Leucopsis,,"psammophila",var.,"calvescens","Malme",Synonym,,L,TICA,858B5913-CFA7-4E8D-8FAB-6FB4F1A2A080,139213-2,"""Ark. Bot. 24A, no. 6: 45. 1931""","","45","1931",gcc-18739
+gcc-155160,A,Compositae,,Leucopsis,,"psammophila",var.,"psammophila","",Synonym,,L,TICA,E9A89CE2-576E-48F4-9451-D23F21D2B8A0,,"","","","",gcc-18739
+gcc-98100,A,Compositae,,Leucopsis,,"scaposa",,"","(DC.) Baker",Synonym,,M,TICA,069E18E0-6629-4FAC-815D-9558407CB698,230264-1,"Fl. Bras. (Martius) 6(3): 6","","6","1882",gcc-22586
+gcc-120852,A,Compositae,,Leucopsis,,"sericea",,"","(Less.) Baker",Synonym,,M,TICA,278CF9ED-BDA8-4365-BDAC-C87BDE513BD3,230265-1,"Fl. Bras. (Martius) 6(3): 7","","7","1882",gcc-130880
+gcc-61001,A,Compositae,,Leucopsis,,"sericea",var.,"eriophora","Baker",Synonym,,L,TICA,1E4C9A14-4799-4592-B66C-A30782B40BFC,139214-2,"""Fl. Bras. (Martius) 6, pt. 3: 7""","","7","1882",gcc-85333
+gcc-151958,A,Compositae,,Leucopsis,,"sericea",var.,"sericea","",Synonym,,L,TICA,9C1BA116-B4D2-44F6-98FD-8F7056D87389,,"","","","",gcc-130880
+gcc-113808,A,Compositae,,Leucopsis,,"tweediei",,"","(Hook. & Arn.) Baker",Synonym,,M,TICA,78C8A053-3049-4137-80E4-B8731E1AE84C,1058237-2,"Fl. Bras. (Martius) 6(3)","","9","1882",gcc-17438
+gcc-47793,A,Compositae,,Leucopsis,,"tweediei",var.,"pilosa","Baker",Synonym,,L,TICA,EEF26C51-0CA2-491D-9613-5889722E71A6,139215-2,"""Fl. Bras. (Martius) 6, pt. 3: 7. 1882""","","7","1882",gcc-17438
+gcc-153277,A,Compositae,,Leucopsis,,"tweediei",var.,"tweediei","",Synonym,,L,TICA,E5FD2E56-C10A-4F4D-AE4E-AAFC6592C63D,,"","","","",gcc-17438

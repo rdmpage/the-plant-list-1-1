@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-4040,A,Compositae,,Salmea,,"angustifolia",,"","Benth.",Unresolved,,L,TICA,2ED3A298-52CB-406B-AA1E-0782C8F992AF,,"Bot. Voy Sulph. 117.","","","1845",gcc-105404
+gcc-84337,A,Compositae,,Salmea,,"caleoides",,"","Griseb.",Accepted,,M,TICA,2F592400-A9B2-4204-8BD3-765D483C92D9,241884-1,"","","","1866",
+gcc-100577,A,Compositae,,Salmea,,"curviflora",,"","R.Br.",Synonym,,L,TICA,14DB84A5-B3AA-4DD1-835B-9AF13A8FAE55,241885-1,"","","112","1817",gcc-22334
+gcc-154752,A,Compositae,,Salmea,,"curviflora",var.,"curviflora","",Synonym,,L,TICA,B967EC8B-94D9-4152-B8E5-CA46DA91E180,,"","","","",gcc-22334
+gcc-72179,A,Compositae,,Salmea,,"curviflora",var.,"glabrata","(J.M.Coult.) Greenm.",Synonym,,L,TICA,A072C4CD-2BEF-4B27-B290-FC05394A506A,226257-2,"""Publ. Field Columbian Mus., Bot. Ser. 3""","","124","1904",gcc-84152
+gcc-151269,A,Compositae,,Salmea,,"eupatoria",,"","DC.",Accepted,,M,TICA,71B1DBD5-9AD0-4389-977B-8119254DB39C,241886-1,"","","","1813",
+gcc-151176,A,Compositae,,Salmea,,"eupatoria",var.,"eupatoria","",Synonym,,L,TICA,EAEF5E0B-5A7A-4D21-ADDD-7F4CA505B463,,"","","","",gcc-151269
+gcc-65320,A,Compositae,,Salmea,,"eupatoria",var.,"intermedia","DC.",Synonym,,L,TICA,187D8BD5-36BB-479A-AFD7-C5E4036FBB7C,226258-2,"","","493","1836",gcc-135340
+gcc-33585,A,Compositae,,Salmea,,"fruticulosa",,"","Steud.",Unresolved,,L,TICA,08B7A10A-9595-46C5-91EE-3E45191B06FD,241887-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 775, in syn.""","","775","1840",
+gcc-142051,A,Compositae,,Salmea,,"gaumeri",,"","Greenm.",Synonym,,M,TICA,4DB936CD-FB06-4479-A624-F8C41D101435,,"""Publ. Field Columbian Mus., Bot. Ser. 3""","","","1904",gcc-137673
+gcc-6782,A,Compositae,,Salmea,,"gaumeri",,"","Greenm. ex Millsp. & Chase",Unresolved,,L,TICA,E4383CC8-5FBF-4CA7-AACA-0C95AF03E41F,241888-1,"in Field Columb. Mus. Bot. iii. 124.","","iii. 124.","",
+gcc-85282,A,Compositae,,Salmea,,"glaberrima",,"","Griseb.",Accepted,,M,TICA,8366BD78-D88C-4E38-AC69-785F2492BDCA,241889-1,"","","","1866",
+gcc-29720,A,Compositae,,Salmea,,"grandiceps",,"","Cass.",Synonym,,M,TICA,2F463CBA-6D73-48A2-86FF-36F139BC8B3B,241890-1,"","","88","1827",gcc-135340
+gcc-94058,A,Compositae,,Salmea,,"hirsuta",,"","(Sw.) DC.",Accepted,,M,TICA,C4A181A5-0625-4370-9585-8C1A0D82B30C,241891-1,"Cat. Hort. Monsp. 140.","","","1813",
+gcc-45301,A,Compositae,,Salmea,,"insipida",,"","(Jacq.) Bolick & R.K.Jansen",Accepted,,M,TICA,709FCB87-F7C7-4FE5-BCFF-53F2C7E0CF31,226260-2,"","","186","1981",
+gcc-110414,A,Compositae,,Salmea,,"laucheana",,"","Sander ex Mast.",Unresolved,,L,TICA,8E2C0830-FFEB-4F67-94BB-B0D9C9176F44,1146526-2,"","","","",
+gcc-139554,A,Compositae,,Salmea,,"mikanioides",,"","Britton",Synonym,,M,TICA,CD312797-F625-4455-8DDD-F2FB8995166C,284544-2,"Bull. Torrey Bot. Club 19: 150. 1892","","150","1892",gcc-85032
+gcc-2573,A,Compositae,,Salmea,,"montana",,"","(Britton & S.F.Blake) Bolick & R.K.Jansen",Synonym,,M,TICA,8D2B1E23-B430-4893-889B-04B5B85BDFE0,226262-2,"","","186","1981",gcc-45301
+gcc-113801,A,Compositae,,Salmea,,"nitida",,"","Sch.Bip.",Unresolved,,L,TICA,4CE6D5CA-0E19-4092-98F3-B8709F84952B,226263-2,"Leopoldina 23: 145. 1887","","145","1887",
+gcc-82361,A,Compositae,,Salmea,,"nitida",,"","(La Llave) Sch.Bip. ex Klatt",Synonym,Illegitimate,M,TICA,4A37DFBF-C4D1-4604-98F1-71E20C902B68,241893-1,"","","145","1887",gcc-135340
+gcc-143774,A,Compositae,,Salmea,,"oligocephala",,"","Hemsl.",Accepted,,M,TICA,165F1A9A-EC64-44D7-B908-FCA3CA957930,,"","","194","1881",
+gcc-137273,A,Compositae,,Salmea,,"oppositiceps",,"","Cass.",Synonym,,M,TICA,CBD4E665-2912-465F-8FDF-EE18D89A646B,241895-1,"","","89","1827",gcc-135340
+gcc-23408,A,Compositae,,Salmea,,"orthocephala",,"","Standl. & Steyerm.",Accepted,,M,TICA,32B3DB86-1969-4D0F-81CE-2B571B6F3171,226264-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","145","1944",
+gcc-109092,A,Compositae,,Salmea,,"palmeri",,"","S.Watson",Accepted,,M,TICA,8833E148-1BF2-4F69-A246-ADD984ABE67A,284545-2,"Proc. Amer. Acad. Arts 26: 141. 1891","","141","1891",
+gcc-12274,A,Compositae,,Salmea,,"parviceps",,"","Cass.",Synonym,,M,TICA,ADFBE712-E481-4A97-93E8-16E3D800F063,241898-1,"","","88","1827",gcc-135340
+gcc-34476,A,Compositae,,Salmea,,"pauciceps",,"","Griseb.",Accepted,,M,TICA,392DBAD9-E73E-4354-81BB-3FE6850DC1A6,241899-1,"Cat. Pl. Cub. 155.","","","1866",
+gcc-91382,A,Compositae,,Salmea,,"petrobioides",,"","Griseb.",Unresolved,,L,TICA,F4DC1E92-1B51-4D2C-977A-864617EA10C3,241900-1,"Flora of the British West Indian Islands","","375","1861",
+gcc-120677,A,Compositae,,Salmea,,"petrochioides",,"","Griseb.",Accepted,,M,TICA,DDCD71E6-FCD7-4068-8D36-C81AD566D76F,,"","","375","1861",
+gcc-106320,A,Compositae,,Salmea,,"pubescens",,"","(S.F.Blake) Standl. & Steyerm.",Synonym,,M,TICA,E7CAEFC3-42CC-49FC-93E0-A785452C3156,226267-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","146","1944",gcc-135340
+gcc-36553,A,Compositae,,Salmea,,"salicifolia",,"","Brongn.",Unresolved,,L,TICA,DB612534-226B-421E-A862-43C54512D11D,241902-1,"Rev. Hort. l: 87. 1847.","","87","1847",gcc-135340
+gcc-135340,A,Compositae,,Salmea,,"scandens",,"","(L.) DC.",Accepted,,M,TICA,9F6157B9-943B-461E-8B14-E9D36F5FCCEC,241903-1,"Cat. Pl. Horti Monsp. 141. 1813.","","140","1813",
+gcc-54147,A,Compositae,,Salmea,,"scandens",var.,"amellus","(L.) Kuntze",Synonym,,L,TICA,DB5E288E-E8A6-42CB-8556-6BB7221E5E01,226269-2,"Revis. Gen. Pl. 1","","361","1891",gcc-135340
+gcc-32202,A,Compositae,,Salmea,,"scandens",var.,"obtusata","S.F.Blake",Synonym,,L,TICA,15E0F767-1905-412C-8BF0-3BA729BEDBBE,226272-2,"","","197","1915",gcc-135340
+gcc-152075,A,Compositae,,Salmea,,"scandens",var.,"paraguariensis","Hassl.",Synonym,,L,TICA,9E70149B-0013-47EA-A822-92020E28F971,,"","","","",gcc-135340
+gcc-68229,A,Compositae,,Salmea,,"scandens",subsp.,"paraguariensis","Hassl.",Synonym,,L,TICA,CA621EA2-4438-41F6-A26F-DD472065507A,284546-2,"Repert. Spec. Nov. Regni Veg. 14: 174. 1915","","174","1915",gcc-135340
+gcc-59794,A,Compositae,,Salmea,,"scandens",var.,"pubescens","S.F.Blake",Synonym,,L,TICA,E81D93B7-083D-4E96-9940-9959F1E55230,226274-2,"","","351","1937",gcc-135340
+gcc-151912,A,Compositae,,Salmea,,"scandens",subsp.,"scandens","",Synonym,,L,TICA,E3832589-16FE-4405-A62B-8E654A9FC8DD,,"","","","",gcc-135340
+gcc-62939,A,Compositae,,Salmea,,"scandens",var.,"scandens","",Synonym,,L,TICA,748BCAC2-C5DF-4411-9F08-B2D856D1D0D9,,"","","","",gcc-135340
+gcc-90537,A,Compositae,,Salmea,,"sessilifolia",,"","Griseb.",Synonym,,M,TICA,A3A81361-F548-452E-8DAC-8442C0E93904,241904-1,"","","375","1861",gcc-135340
+gcc-141320,A,Compositae,,Salmea,,"tomentosa",,"","D.L.Nash",Synonym,,M,TICA,45AF7BD6-F389-46DD-BDB0-F71B809F47A6,,"","","","1975",gcc-135340
+gcc-114702,A,Compositae,,Salmea,,"umbratilis",,"","B.L.Rob.",Accepted,,M,TICA,4930E55F-1142-4529-8880-BA786454D091,226276-2,"Contr. Gray Herb. 77","","61","1926",
+gcc-39856,A,Compositae,,Salmea,,"verticillata",,"","(L.) Druce",Synonym,,M,TICA,60DA5C61-924E-4CEF-AEDD-49F750071B44,226277-2,"","","423","1914",gcc-35357

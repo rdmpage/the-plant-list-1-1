@@ -1,0 +1,79 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-122328,A,Compositae,,Acmella,,"affinis",,"","(Hook. & Arn.) R.K.Jansen",Unresolved,,L,TICA,D9E6E454-1767-4592-B58A-CBC85DFE5EB6,271527-2,"Syst. Bot. Monogr. 8: 82. 1985","","82","1985",
+gcc-32473,A,Compositae,,Acmella,,"alba",,"","(L'Hér.) R.K.Jansen",Accepted,,M,TICA,B0C9E60B-5F3D-4087-91D5-3C38DB4340D3,271528-2,"Syst. Bot. Monogr. 8","","62","1985",
+gcc-30652,A,Compositae,,Acmella,,"alba",var.,"alba","",Synonym,,L,TICA,47F0BCC6-40B5-4456-A41F-38BE557DC548,,"","","","",gcc-32473
+gcc-11234,A,Compositae,,Acmella,,"alpestris",,"","(Griseb.) R.K.Jansen",Accepted,,M,TICA,3DCBA164-8B41-4A2E-A95B-15024790CC37,914766-1,"Syst. Bot. Monogr. 8","","92","1985",
+gcc-3209,A,Compositae,,Acmella,,"alternifolia",,"","Baldwin ex Raf.",Unresolved,Illegitimate,L,TICA,FA2E2ED2-E47A-4314-8CF4-05EF9F63748F,,"New Flora and Botany of North America . . . 4:","","70","1836",
+gcc-3280,A,Compositae,,Acmella,,"bellidioides",,"","(Sm.) R.K.Jansen",Accepted,,M,TICA,83495F82-1BA0-497B-BC35-060F3B2B5903,914767-1,"Syst. Bot. Monogr. 8: 86. 1985","","86","1985",
+gcc-84956,A,Compositae,,Acmella,,"biflora",,"","(L.) Spreng.",Synonym,,M,TICA,53992423-F64F-43F3-B675-779E6CBC7949,174529-1,"Syst. Veg. 3","","591","1826",gcc-114619
+gcc-40685,A,Compositae,,Acmella,,"brachyglossa",,"","Cass.",Accepted,,M,TICA,BAE25B3B-5ECA-4C9D-9D8F-4B65A4D5C9CE,174530-1,"","","258-259","1827",
+gcc-99830,A,Compositae,,Acmella,,"brasiliensis",,"","Spreng.",Synonym,,M,TICA,A601B9A2-30CF-4389-8C69-993C09826A7F,1174134-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 592","","592","1826",gcc-5859
+gcc-15266,A,Compositae,,Acmella,,"buphthalmoides",,"","(Jacq.) Rich.",Synonym,,M,TICA,0A6C68B0-1F81-4B65-8FF7-1C41C9111199,,"Syn. Pl. 2: 473. 1807.","","473","1807",gcc-7624
+gcc-4890,A,Compositae,,Acmella,,"buphthalmoides",,"","Pers.",Synonym,,M,TICA,F6FCBCCF-0646-4616-A04B-091B89F61FC0,174532-1,"","","473","1807",gcc-7624
+gcc-144670,A,Compositae,,Acmella,,"calva",,"","(DC.) R.K.Jansen",Accepted,,M,TICA,F2038119-393F-47EA-A5A3-FEA6531EB772,914768-1,"Syst. Bot. Monogr. 8","","41","1985",
+gcc-10941,A,Compositae,,Acmella,,"caulirhiza",,"","Delile",Accepted,,M,TICA,0D665A26-7766-4A98-A747-147319F66EC5,,"Voy. Méroé 4: 335 (1826)","","335","1826",
+gcc-78215,A,Compositae,,Acmella,,"caulorrhiza",,"","Delile",Unresolved,,L,TICA,2B615A2D-80C1-42A4-B454-689F7F9415F0,,"Cent. Pl. Afr. Meroe 45. t. iii. f. 7.","","45. t. iii. f. 7","",
+gcc-134628,A,Compositae,,Acmella,,"ciliata",,"","(Kunth) Cass.",Accepted,,M,TICA,51381743-1A27-4F00-8275-E8314191DD87,174534-1,"","","331","1822",
+gcc-151988,A,Compositae,,Acmella,,"ciliata",var.,"ciliata","",Synonym,,L,TICA,87EECB36-FB4C-49C0-B96D-8FF2757CFFD0,,"","","","",gcc-134628
+gcc-95249,A,Compositae,,Acmella,,"darwinii",,"","(D.M.Porter) R.K.Jansen",Accepted,,M,TICA,9959B18F-0C14-4534-B1F5-8EDFE81F1F15,914769-1,"","","43","1985",
+gcc-82680,A,Compositae,,Acmella,,"debilis",,"","(Kunth) Cass.",Synonym,,M,TICA,1F5163B4-2C20-4999-B95B-7296036148E5,174535-1,"","","331","1822",gcc-30342
+gcc-121488,A,Compositae,,Acmella,,"decumbens",,"","(Sm.) R.K.Jansen",Accepted,,M,TICA,1D5C69F8-4E43-4D53-90D9-C9E86F47CE98,914770-1,"Syst. Bot. Monogr. 8","","80","1985",
+gcc-18548,A,Compositae,,Acmella,,"decumbens",var.,"affinis","(Hook. & Arn.) R.K.Jansen",Accepted,,L,TICA,0A2697EF-A962-4ED2-8155-2245E2A3F474,923993-1,"","","82","1985",
+gcc-66298,A,Compositae,,Acmella,,"decumbens",var.,"decumbens","",Synonym,,L,TICA,2AC01D20-BC38-472D-A91A-CDA6A7B1BD5C,,"Syst. Bot. Monogr. 8: 80 (1985)","","80","1985",gcc-121488
+gcc-85338,A,Compositae,,Acmella,,"filipes",,"","(Greenm.) R.K.Jansen",Accepted,,M,TICA,591F16BA-E389-4140-B17C-787A6526E5FC,914771-1,"Syst. Bot. Monogr. 8","","58","1985",
+gcc-58689,A,Compositae,,Acmella,,"filipes",var.,"filipes","",Synonym,,L,TICA,B11EC003-263A-4A9B-977D-909C7A269A99,,"","","","1985",gcc-85338
+gcc-24901,A,Compositae,,Acmella,,"filipes",var.,"parvifolia","(Benth.) R.K.Jansen",Accepted,,L,TICA,91B46AFD-1415-4941-8E61-2E01E62B5513,923994-1,"Syst. Bot. Monogr. 8","","59","1985",
+gcc-107300,A,Compositae,,Acmella,,"fimbriata",,"","(Kunth) Cass.",Synonym,,M,TICA,DC536A79-99D7-45B9-9258-A9C72D7B4D82,174536-1,"Dict. Sci. Nat. 24","","331","1822",gcc-134628
+gcc-142429,A,Compositae,,Acmella,,"flavicaulis",,"","Raf.",Synonym,,L,TICA,D863C57E-EDBB-4871-81DD-F99BCEA62A3F,,"","","52","1836",gcc-110239
+gcc-17753,A,Compositae,,Acmella,,"garcini",,"","Burm.f. ex Spreng.",Synonym,,M,TICA,B79BEA2F-AE67-4ED8-81FE-20C4C082F1EA,174538-1,"","","591","1826",gcc-79922
+gcc-132355,A,Compositae,,Acmella,,"glaberrima",,"","(Hassl.) R.K.Jansen",Accepted,,M,TICA,1393A43B-B05F-44ED-82CB-E3122BC4F010,914772-1,"Syst. Bot. Monogr. 8","","94","1985",
+gcc-41668,A,Compositae,,Acmella,,"globosa",,"","(Ortega) Spreng.",Synonym,,M,TICA,DE1EDB9B-08C7-425A-9AE6-4D2821272DC6,174539-1,"","","592","1826",gcc-18531
+gcc-75418,A,Compositae,,Acmella,,"grandiflora",,"","(Turcz.) R.K.Jansen",Accepted,,M,TICA,C1D7B557-826D-4917-86DE-6261E62983F9,914773-1,"","","75","1985",
+gcc-45480,A,Compositae,,Acmella,,"grandiflora",var.,"brachyglossa","(Benth.) R.K.Jansen",Accepted,,L,TICA,DEEB8FDE-1A51-4CEB-80C8-5447C2876A80,923995-1,"","","77","1985",
+gcc-62217,A,Compositae,,Acmella,,"grandiflora",var.,"grandiflora","",Synonym,,L,TICA,E4CE4C43-E9DE-4BCE-84FE-ACDFB1BB9E14,167462-3,"Systematic Botany Monographs 8","","77","1985",gcc-75418
+gcc-144769,A,Compositae,,Acmella,,"grisea",,"","(Chodat) R.K.Jansen",Accepted,,M,TICA,8D57939B-BC08-4089-91F6-FEDDA18493B9,271537-2,"Syst. Bot. Monogr. 8","","88","1985",
+gcc-144102,A,Compositae,,Acmella,,"hirta",,"","Lag.",Synonym,,M,TICA,EE009CAE-8946-4D6C-B50D-FD5CDE38CB15,3268-2,"","","","1816",gcc-115950
+gcc-106015,A,Compositae,,Acmella,,"intermedia",,"","Rich.",Synonym,,M,TICA,C5AAB2E6-E532-4CF4-9BD1-A6DBC3DEAF28,,"Syn. Pl. 2: 472 (1807)","","472","1807",gcc-7509
+gcc-13604,A,Compositae,,Acmella,,"intermedia",,"","Rich. ex Pers.",Unresolved,,L,TICA,C4C35AE8-9E23-470D-82C1-19518C5A2E35,174541-1,"Syn. Pl. (Persoon) 2(2): 472","","472","1807",
+gcc-76213,A,Compositae,,Acmella,,"iodiscaea",,"","(A.H.Moore) R.K.Jansen",Accepted,,M,TICA,7734775C-0D78-4718-A55C-64343C0A421A,914775-1,"Syst. Bot. Monogr. 8","","53","1985",
+gcc-104008,A,Compositae,,Acmella,,"lanceolata",,"","Raf.",Unresolved,Illegitimate,L,TICA,4244C10B-257D-44B7-B4BB-A28FFDD4A14B,174543-1,"","","52","1836",
+gcc-90746,A,Compositae,,Acmella,,"lanceolata",,"","Link ex Spreng.",Synonym,,M,TICA,6A3D088C-5098-4120-9D11-84CE9DBFBFBC,174542-1,"","","444","1826",gcc-6746
+gcc-49259,A,Compositae,,Acmella,,"leptophylla",,"","(DC.) R.K.Jansen",Accepted,,M,TICA,D7C7F963-B337-4398-BFD0-5B3B886DAD1B,914776-1,"Syst. Bot. Monogr. 8","","84","1985",
+gcc-123004,A,Compositae,,Acmella,,"leucantha",,"","(Kunth) R.K.Jansen",Accepted,,M,TICA,687A29E2-AB43-41EF-BE98-CD53C89472DF,914777-1,"","","67","1985",
+gcc-2604,A,Compositae,,Acmella,,"linnaei",,"","Cass.",Synonym,Illegitimate,M,TICA,42CE8D28-5CE7-4C93-BD52-04C847180693,174544-1,"","","330","1822",gcc-23377
+gcc-95251,A,Compositae,,Acmella,,"lundellii",,"","R.K.Jansen",Accepted,,M,TICA,CDE4CFB3-69E8-49E6-8A28-8EE17C689A97,271540-2,"Syst. Bot. Monogr. 8","","48","1985",
+gcc-32035,A,Compositae,,Acmella,,"mauritanica",,"","Rich. ex Pers.",Unresolved,,L,TICA,221450F0-8BE5-43B7-A5B2-3B5485695443,174545-1,"Syn. Pl. (Persoon) 2(2): 472","","472","1807",
+gcc-95889,A,Compositae,,Acmella,,"mauritanica",,"","Rich.",Synonym,,M,TICA,1D21368D-4A9F-4810-A3DB-905F5AE12203,,"Syn. Pl. 2: 472 (1807)","","472","1807",gcc-23377
+gcc-93927,A,Compositae,,Acmella,,"mutisii",,"","(Kunth) Cass.",Synonym,Illegitimate,M,TICA,D9063848-CC3B-4BE5-8B2C-8BCB70D79AFD,174546-1,"","","331","1822",gcc-116244
+gcc-22149,A,Compositae,,Acmella,,"nudicaulis",,"","Raf.",Synonym,,L,TICA,65EBAD4F-009A-4346-B75A-28F99BC3DC43,,"","","52","1836",gcc-110239
+gcc-104045,A,Compositae,,Acmella,,"nuttaliana",,"","Raf.",Synonym,,M,TICA,9228028B-E13E-4D25-BBAA-A2ACA3E1E5BA,,"New Fl. 1","","52","1836",gcc-34410
+gcc-108739,A,Compositae,,Acmella,,"occidentalis",,"","Rich. ex Pers.",Unresolved,,L,TICA,062008B7-779D-4C02-A301-AD065F8A7B2C,174549-1,"Syn. Pl. (Persoon) 2(2): 473","","473","1807",
+gcc-142725,A,Compositae,,Acmella,,"occidentalis",,"","Nutt.",Synonym,Illegitimate,M,TICA,EC839886-8846-413A-8F11-FA4339ED27B5,174550-1,"Gen. N. Amer. Pl. 2","","171","1818",gcc-34410
+gcc-144809,A,Compositae,,Acmella,,"occidentalis",,"","(Willd.) Willd. ex Rich.",Synonym,Illegitimate,M,TICA,6AF166A0-6625-43D5-AE42-FEF5884D1E35,,"Syn. Pl. 2","","473","1807",gcc-116244
+gcc-142218,A,Compositae,,Acmella,,"oleracea",,"","(L.) R.K.Jansen",Accepted,,M,TICA,1A0E66E1-2015-456F-A385-F929C9A448A9,914778-1,"Syst. Bot. Monogr. 8","","65","1985",
+gcc-116244,A,Compositae,,Acmella,,"oppositifolia",,"","(Lam.) R.K.Jansen",Accepted,,M,TICA,CA6AA551-404A-432A-8F0C-BDFFAADB07B5,914779-1,"Syst. Bot. Monogr. 8","","30","1985",
+gcc-52654,A,Compositae,,Acmella,,"oppositifolia",var.,"oppositifolia","",Synonym,,L,TICA,9A2E50B6-CD8E-4558-9063-619ACE3E809B,,"Syst. Bot. Monogr. 8: 30. 1985.","","30","1985",gcc-34410
+gcc-70709,A,Compositae,,Acmella,,"oppositifolia",var.,"repens","(Walter) R.K.Jansen",Synonym,,L,TICA,65BB51BE-B896-4549-A63C-F03A60947853,923996-1,"Syst. Bot. Monogr. 8","","34","1985",gcc-34410
+gcc-94803,A,Compositae,,Acmella,,"paniculata",,"","(Wall. ex DC.) R.K.Jansen",Accepted,,M,TICA,D7ED35E0-F3EE-45CD-84C0-8DDF089660EE,914780-1,"Syst. Bot. Monogr. 8","","67","1985",
+gcc-73445,A,Compositae,,Acmella,,"paniculata",f.,"calva","J.Kost.",Synonym,,L,TICA,9DAE0A9C-5DBF-48E2-8334-196CFC4C37AB,,"""if published, invalid because of priority. (1793)""","","","1793",gcc-94803
+gcc-154258,A,Compositae,,Acmella,,"paniculata",f.,"paniculata","",Synonym,,L,TICA,34FFAF07-893C-49F7-B017-BFF0B9CCE90B,,"","","","",gcc-94803
+gcc-109621,A,Compositae,,Acmella,,"papposa",,"","(Hemsl.) R.K.Jansen",Accepted,,M,TICA,B9F85EF4-FB87-478C-A14D-AF1398E1892F,,"Syst. Bot. Monogr. 8","","","1985",
+gcc-61594,A,Compositae,,Acmella,,"papposa",var.,"macrophylla","(Greenm.) R.K.Jansen",Accepted,,L,TICA,072439E1-7B19-4241-A87A-A7E013766CFA,923997-1,"Syst. Bot. Monogr. 8","","52","1985",
+gcc-31045,A,Compositae,,Acmella,,"papposa",var.,"papposa","",Synonym,,L,TICA,7E78FAC4-BD29-467A-9AD0-397B29E96C08,,"","","","",gcc-109621
+gcc-138878,A,Compositae,,Acmella,,"parvifolia",,"","Raf.",Synonym,,L,TICA,A388CB3F-5AA4-43A4-9884-F1898C1D7621,,"","","52","1836",gcc-110239
+gcc-38171,A,Compositae,,Acmella,,"pilosa",,"","R.K.Jansen",Accepted,,M,TICA,1462344E-E408-4E50-944D-46CD74AB3414,271544-2,"Syst. Bot. Monogr. 8","","27","1985",
+gcc-50947,A,Compositae,,Acmella,,"poliolepidica",,"","(A.H.Moore) R.K.Jansen",Accepted,,M,TICA,82F267BB-A2CB-480F-8D23-5E81FE2A581B,914782-1,"Syst. Bot. Monogr. 8","","25","1985",
+gcc-5885,A,Compositae,,Acmella,,"psilocarpa",,"","R.K.Jansen",Accepted,,M,TICA,D2402B91-E998-4E80-ABBC-0AF36EBB8661,271546-2,"Syst. Bot. Monogr. 8","","93","1985",
+gcc-5951,A,Compositae,,Acmella,,"pusilla",,"","(Hook. & Arn.) R.K.Jansen",Accepted,,M,TICA,EC9A6E37-A703-4CDB-9098-0B114D24E963,914783-1,"Syst. Bot. Monogr. 8","","46","1985",
+gcc-34111,A,Compositae,,Acmella,,"radicans",,"","(Jacq.) R.K.Jansen",Accepted,,M,TICA,4C2AB0B3-E9B5-45FA-BFDA-3F3B101E0471,914784-1,"Syst. Bot. Monogr. 8: 69. 1985.","","69","1985",
+gcc-30342,A,Compositae,,Acmella,,"radicans",var.,"debilis","(Kunth) R.K.Jansen",Accepted,,L,TICA,9BFB1BAC-66A5-4E04-B72E-38205E523B90,923998-1,"Syst. Bot. Monogr. 8: 72. 1985.","","72","1985",
+gcc-63952,A,Compositae,,Acmella,,"radicans",var.,"radicans","",Synonym,,L,TICA,CB9BA13A-8035-4629-A177-BADCF5DD125F,,"","","","",gcc-34111
+gcc-92520,A,Compositae,,Acmella,,"ramosa",,"","(Hemsl.) R.K.Jansen",Accepted,,M,TICA,9BFFD6F8-64B9-452A-90E1-88C8C2D96A88,914785-1,"Syst. Bot. Monogr. 8","","45","1985",
+gcc-34410,A,Compositae,,Acmella,,"repens",,"","(Walter) Rich. ex Pers.",Accepted,,M,TICA,F477F20A-0682-4CCD-AA87-3FC8E7E0D539,174552-1,"Syn. Pl. 2","","473","1807",
+gcc-152602,A,Compositae,,Acmella,,"repens",var.,"repens","",Synonym,,L,TICA,59C57DAB-DAFE-44D5-83F5-9D120BF828D6,,"","","","",gcc-34410
+gcc-97888,A,Compositae,,Acmella,,"serratifolia",,"","R.K.Jansen",Accepted,,M,TICA,13636717-C579-4765-95A2-94E2299C9FC6,271552-2,"Syst. Bot. Monogr. 8","","90","1985",
+gcc-43338,A,Compositae,,Acmella,,"sodiroi",,"","(Hieron.) R.K.Jansen",Accepted,,M,TICA,5EDB3CAB-2974-4EDD-9D5A-5048FEFA5477,914786-1,"Syst. Bot. Monogr. 8","","44","1985",
+gcc-123387,A,Compositae,,Acmella,,"spilanthoides",,"","Cass.",Synonym,,M,TICA,00BB52FA-98FE-4D2D-B5E8-CE2C37A3692C,174553-1,"","","329","1822",gcc-5859
+gcc-22839,A,Compositae,,Acmella,,"tenella",,"","(Kunth) Cass.",Synonym,,M,TICA,F1B48FC3-33A7-444C-9811-2A426A9CFB24,174554-1,"Dict. Sci. Nat. 24","","331","1822",gcc-30342
+gcc-129613,A,Compositae,,Acmella,,"trilobata",,"","Spreng.",Synonym,Illegitimate,M,TICA,A93476D0-1224-4413-AF63-DCA7A25A71FC,174555-1,"","","591","1826",gcc-78506
+gcc-9379,A,Compositae,,Acmella,,"uliginosa",,"","(Sw.) Cass.",Accepted,,M,TICA,0BD6DCE2-80C6-40EE-9ECB-1183B5EEE465,174556-1,"""Dict. Sci. Nat., ed. 2 24""","","331","1822",

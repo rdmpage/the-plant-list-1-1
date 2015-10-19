@@ -1,0 +1,94 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-83572,A,Compositae,,Gamochaeta,,"affinis",,"","(d'Urv.) Cabrera",Synonym,Illegitimate,M,TICA,08003045-340B-4B32-9BE2-749AEEDA4E4B,107348-2,"Bol. Soc. Argent. Bot. 9","","363","1961",gcc-83007
+gcc-150996,A,Compositae,,Gamochaeta,,"affinis",f.,"affinis","",Synonym,,L,TICA,8D0F942B-880F-4409-AE42-7ABE9063BD98,,"","","","",gcc-83007
+gcc-75195,A,Compositae,,Gamochaeta,,"affinis",f.,"pusillum","Speg.",Synonym,,L,TICA,247A8EC8-9690-4F0B-AA0E-5C9DC542591C,,"Anales Mus. Nac. Buenos Aires 5: 63 (1896)","","63","1896",gcc-21547
+gcc-37497,A,Compositae,,Gamochaeta,,"aliena",,"","(Hook. & Arn.) Cabrera",Accepted,,M,TICA,3085BB34-2082-4ECF-8952-457FCE2EF64A,107349-2,"Bol. Soc. Argent. Bot. 9","","363","1961",
+gcc-14588,A,Compositae,,Gamochaeta,,"ambatensis",,"","Ariza",Accepted,,M,TICA,70164968-B273-4159-BEBE-1B0F3E766C95,277306-2,"Kurtziana 20","","169","1989",
+gcc-67835,A,Compositae,,Gamochaeta,,"ambatensis",var.,"alatocarpa","Ariza",Synonym,,L,TICA,D94E0172-9CE3-47A5-937B-DA68CFC4EDEC,277307-2,"Kurtziana 20","","170","1989",gcc-14588
+gcc-150616,A,Compositae,,Gamochaeta,,"ambatensis",var.,"ambatensis","",Synonym,,L,TICA,89CFE05D-B9BC-4668-8758-7295FE0D8BFF,,"","","","",gcc-14588
+tro-50160330,A,Compositae,,Gamochaeta,,"ambatesis",,"","Ariza Esp.",Accepted,,M,TRO,50160330,,"","","","",
+gcc-86444,A,Compositae,,Gamochaeta,,"americana",,"","(Mill.) Wedd.",Synonym,,M,TICA,096DFF16-A3CA-49AF-8A7A-7AF3D668BE1C,1213296-2,"Chlor. Andina 1: 151 (1856)","","151","1856",gcc-91733
+gcc-41944,A,Compositae,,Gamochaeta,,"americana",var.,"alpina","Wedd.",Synonym,,L,TICA,098859E3-DF4A-49E0-B2A3-4DA73868D472,107350-2,"","","152","1856",gcc-91733
+gcc-53934,A,Compositae,,Gamochaeta,,"americana",var.,"americana","",Synonym,,L,TICA,9D5A40E0-9A55-4981-BA6E-69F80073B423,,"","","","",gcc-91733
+gcc-55377,A,Compositae,,Gamochaeta,,"americana",var.,"linearifolia","Wedd.",Synonym,,L,TICA,1138B590-CA2D-4BB4-9E70-757F68569ECD,107351-2,"","","152","1856",gcc-119384
+gcc-61838,A,Compositae,,Gamochaeta,,"americana",var.,"vulgaris","Wedd.",Synonym,,L,TICA,2172203E-CA3C-456B-A0CF-A9D937DDEF96,107352-2,"","","152","1856",gcc-91733
+gcc-139115,A,Compositae,,Gamochaeta,,"andina",,"","(Phil.) Cabrera",Accepted,,M,TICA,E6BCEE7D-E0DE-4C1A-8C99-F202DE288085,107354-2,"Bol. Soc. Argent. Bot. 9","","365","1961",
+gcc-25253,A,Compositae,,Gamochaeta,,"andinum",,"","Cabrera",Accepted,,L,TICA,702A3429-B8B5-4469-B628-2E9EF270FC17,,"","","","",
+gcc-142567,A,Compositae,,Gamochaeta,,"antarctica",,"","(Hook.f.) Cabrera",Accepted,,M,TICA,E16228E3-ABD9-4554-9542-F9E06317ED67,107355-2,"","","125","1971",
+gcc-4559,A,Compositae,,Gamochaeta,,"antillana",,"","(Urb.) Anderb.",Synonym,,M,TICA,CC05A409-B660-45A3-AF99-0875AC8DE065,963070-1,"Opera Bot. 104","","157","1991",gcc-47004
+gcc-132776,A,Compositae,,Gamochaeta,,"argentina",,"","Cabrera",Accepted,,M,TICA,856588AD-AEC3-4710-8230-E4056F388042,107356-2,"Bol. Soc. Argent. Bot. 9","","365","1961",
+gcc-132143,A,Compositae,,Gamochaeta,,"argyrinea",,"","G.L.Nesom",Accepted,,M,TICA,7785D8F4-F53F-4EDD-BB49-E28BA52304A1,,"","","","2004",
+gcc-23654,A,Compositae,,Gamochaeta,,"axillaris",,"","(J.Rémy) Cabrera",Accepted,,M,TICA,6DD77FAE-576D-4394-8132-2BBCEAA6703E,107357-2,"Bol. Soc. Argent. Bot. 9","","367","1961",
+gcc-23974,A,Compositae,,Gamochaeta,,"badillana",,"","(Aristeg.) Anderb.",Accepted,,M,TICA,D4BB169F-7129-4831-A273-2C513351F67F,963071-1,"Opera Bot. 104","","157","1991",
+gcc-109983,A,Compositae,,Gamochaeta,,"berteroana",,"","(DC.) Cabrera",Accepted,,M,TICA,6BB9AB0F-DCFF-4357-B0B9-AFDBFC613A10,107358-2,"Bol. Soc. Argent. Bot. 9","","367","1961",
+gcc-124246,A,Compositae,,Gamochaeta,,"boliviensis",,"","(Anderb. & S.E.Freire) M.O.Dillon & Sagást.",Accepted,,M,TICA,7B658349-A878-4CA5-8CE6-D03E145B8D95,50425585-2,"Arnaldoa 10(1)","","52","2003",
+gcc-99669,A,Compositae,,Gamochaeta,,"brasiliana",,"","Deble",Synonym,Illegitimate,L,TICA,D11D9126-34D1-4CAD-9CBC-98E4C060B6C2,60446805-2,"Balduinia 5: 16 (2005)","","16","2005",gcc-100722
+gcc-33342,A,Compositae,,Gamochaeta,,"cabrerae",,"","Anderb.",Synonym,Illegitimate,L,TICA,4070F8C2-264F-4CAD-8224-3DCD5D1C548E,961688-1,"Opera Bot. 104","","157","1991",gcc-123159
+gcc-135768,A,Compositae,,Gamochaeta,,"calviceps",,"","(Fernald) Cabrera",Synonym,,M,TICA,287466A2-FFCB-4756-BD07-EAB37F703799,107359-2,"Bol. Soc. Argent. Bot. 9: 368 (1961)","","368","1961",gcc-42735
+gcc-36572,A,Compositae,,Gamochaeta,,"camaquensis",,"","Deble",Accepted,,M,TICA,E8A2E0CD-F7D2-4DB0-BCE7-43D1DB1AD4C7,,"Balduinia 6: 14 (2006)","","14","2006",
+gcc-87992,A,Compositae,,Gamochaeta,,"capitata",,"","Wedd.",Synonym,Illegitimate,M,TICA,7EAC5EBB-9694-4A2B-A7A3-7E733CC97851,208582-1,"","","153","1856",gcc-117421
+gcc-16439,A,Compositae,,Gamochaeta,,"chamissonis",,"","(DC.) Cabrera",Accepted,,M,TICA,402F5E71-6573-4E74-A061-1E5FD0395F97,107361-2,"Bol. Soc. Argent. Bot. 9","","368","1961",
+gcc-90749,A,Compositae,,Gamochaeta,,"chilensis",,"","Deble",Accepted,,M,TICA,28592F22-D9E7-4F76-88EA-84D052993049,60446813-2,"Balduinia 6: 28 (2006)","","28","2006",
+gcc-119384,A,Compositae,,Gamochaeta,,"chionesthes",,"","G.L.Nesom",Accepted,,M,TICA,3689A63C-7380-41BD-BB66-C50B176B0226,,"","","","2004",
+gcc-88050,A,Compositae,,Gamochaeta,,"coarctata",,"","(Willd.) Kerguélen",Synonym,,M,TICA,7EE02A5E-94AF-4831-8315-7E93C8515B3D,943810-1,"Lejeunia 120: 104 (1987)","","104","1987",gcc-131674
+gcc-120758,A,Compositae,,Gamochaeta,,"depilata",,"","(Phil.) Cabrera",Accepted,,M,TICA,CE3207F1-F720-465B-A0DE-C8462A19FD8F,107362-2,"Bol. Soc. Argent. Bot. 9","","369","1961",
+gcc-89188,A,Compositae,,Gamochaeta,,"deserticola",,"","Cabrera",Accepted,,M,TICA,37517F6E-0F3D-477C-A7D0-812226BB4270,,"","","405","",
+gcc-76709,A,Compositae,,Gamochaeta,,"diffusa",,"","Deble & Marchiori",Accepted,,M,TICA,0A7B461B-94E1-4125-B704-65425B68CBB5,,"Balduinia 6: 15 (2006)","","15","2006",
+gcc-82763,A,Compositae,,Gamochaeta,,"erecta",,"","Deble",Accepted,,M,TICA,6DBA93F3-6B44-48B5-8982-72C31E2D8C8A,,"Balduinia 6: 17 (2006)","","17","2006",
+gcc-14279,A,Compositae,,Gamochaeta,,"erythractis",,"","(Wedd.) Cabrera",Synonym,,M,TICA,20EB52FD-3DBE-4B7A-AF85-1A7FBE68A83E,107365-2,"","","309","1978",gcc-29711
+gcc-46597,A,Compositae,,Gamochaeta,,"falcata",,"","(Lam.) Cabrera",Synonym,,M,TICA,DB60F357-70C9-49DD-8CB3-5656EA00BB07,107366-2,"Bol. Soc. Argent. Bot. 9","","370","1961",gcc-80820
+gcc-122935,A,Compositae,,Gamochaeta,,"fernandeziana",,"","(Phil.) Anderb.",Synonym,,M,TICA,F22C4A58-BE39-4887-A547-CD25D77AC732,1020387-2,"Opera Bot. 104","","157","1991",gcc-16439
+gcc-119114,A,Compositae,,Gamochaeta,,"filaginea",,"","(DC.) Cabrera",Synonym,,M,TICA,5C8AA7D2-78C2-42B8-BAB3-C47C7FE8B523,107367-2,"Bol. Soc. Argent. Bot. 9","","371","1961",gcc-12734
+gcc-92253,A,Compositae,,Gamochaeta,,"foliosa",,"","(Phil.) Anderb.",Synonym,Illegitimate,M,TICA,C2D07FAE-3E8C-4EA9-A3CE-8831061B2E56,1109989-2,"Opera Bot. 104","","157","1991",gcc-90749
+gcc-22170,A,Compositae,,Gamochaeta,,"girardiana",,"","Deble & A.S.Oliveira",Accepted,,L,TICA,C7406CAD-52C7-484C-9DA1-2902AA5F0F72,60446810-2,"Balduinia 6: 19 (2006)","","19","2006",
+gcc-148024,A,Compositae,,Gamochaeta,,"grazielae",,"","(Rizzini) Deble",Accepted,,M,TICA,903E0076-3A2E-4266-BE91-3A2E5AA12A9C,,"","","","",
+gcc-124435,A,Compositae,,Gamochaeta,,"guatemalensis",,"","(Gand.) Cabrera",Synonym,,M,TICA,820E9C6F-5909-4970-BCCD-D0B07CEFAB01,107368-2,"Bol. Soc. Argent. Bot. 9","","371","1961",gcc-91733
+gcc-100722,A,Compositae,,Gamochaeta,,"hiemalis",,"","(Rizzini) Cabrera",Unresolved,Illegitimate,L,TICA,D0EEA50D-C23A-482B-B18A-9B473C0AC88F,107369-2,"","","373","1961",
+gcc-120005,A,Compositae,,Gamochaeta,,"humilis",,"","Wedd.",Accepted,,M,TICA,817C0C3A-65BF-4AC0-BE7F-C67A2E814117,208591-1,"","","153","1856",
+gcc-92643,A,Compositae,,Gamochaeta,,"irazuensis",,"","G.L.Nesom",Accepted,,M,TICA,A3B6B367-F87E-4880-A9D3-890B8FFD1A84,277310-2,"Phytologia 68","","199","1990",
+gcc-1670,A,Compositae,,Gamochaeta,,"julietii",,"","(Phil.) Anderb.",Synonym,,M,TICA,E13199EC-3352-4964-85D5-03002B47E33F,1084413-2,"Opera Bot. 104","","157","1991",gcc-16439
+gcc-96257,A,Compositae,,Gamochaeta,,"longipedicellata",,"","Cabrera",Accepted,,M,TICA,623E7B65-886F-4122-A4F8-911FA107EF66,107371-2,"Bol. Soc. Argent. Bot. 15","","330","1974",
+gcc-146949,A,Compositae,,Gamochaeta,,"lulioana",,"","S.E.Freire & Iharl.",Accepted,,M,TICA,D38AE742-CF51-4836-8E70-237B24F22030,994842-1,"Novon 7","","32","1997",
+gcc-83007,A,Compositae,,Gamochaeta,,"malvinensis",,"","(H.Koyama) T.R.Dudley",Accepted,,M,TICA,A2606E06-EB75-4755-8FC2-735524854945,,"","","478","1981",
+gcc-46333,A,Compositae,,Gamochaeta,,"meridensis",,"","V.M.Badillo",Accepted,,M,TICA,304EC319-5818-4873-A5BB-55E150B55910,277311-2,"Ernstia 57","","8","1990",
+gcc-78103,A,Compositae,,Gamochaeta,,"monticola",,"","(Phil. ex Reiche) Cabrera",Accepted,,M,TICA,A0E4DFBC-1540-486D-A1B2-6857B8470894,208593-1,"Bol. Soc. Argent. Bot. 9","","374","1961",
+gcc-94595,A,Compositae,,Gamochaeta,,"monticola",,"","M.O.Dillon & Sagást.",Synonym,Illegitimate,L,TICA,370F95F4-E3DD-473B-80B3-8D5E84521A12,321610-2,"Phytologia 59(4)","","227","1986",gcc-123159
+gcc-125264,A,Compositae,,Gamochaeta,,"munnozii",,"","Cabrera",Synonym,Illegitimate,M,TICA,3E111108-A624-4F86-B28D-D2A60CBAE7A1,107373-2,"Bol. Soc. Argent. Bot. 9","","374","1961",gcc-110169
+gcc-111759,A,Compositae,,Gamochaeta,,"neuquensis",,"","Cabrera",Accepted,,M,TICA,64FA8874-1DC9-4107-8781-B3DAAE2FA2EA,107374-2,"Bol. Soc. Argent. Bot. 9","","372","1961",
+gcc-108319,A,Compositae,,Gamochaeta,,"nigrevestis",,"","Deble & Marchiori",Accepted,,M,TICA,A8DE6D26-B41B-4C61-8CD6-AC062B7ACF8F,,"Balduinia 6: 21 (2006)","","21","2006",
+gcc-21547,A,Compositae,,Gamochaeta,,"nivalis",,"","Cabrera",Accepted,,M,TICA,0E0F3671-A138-49E1-A451-27D493EB774D,296138-2,"Bol. Soc. Argent. Bot. 9","","374","1961",
+gcc-9004,A,Compositae,,Gamochaeta,,"norvegica",,"","(Gunnerus) Gren.",Synonym,,M,TICA,82991D96-4389-47C2-8F9C-10DBAF45DD22,,"Fl. Ch. Jurass.","","427","1869",gcc-94096
+gcc-94132,A,Compositae,,Gamochaeta,,"oligantha",,"","(Phil.) L.E.Navas",Accepted,,M,TICA,2AFEE7BF-A822-40DB-9FD9-8C4AD1D037BF,907957-1,"","","215","1979",
+gcc-123159,A,Compositae,,Gamochaeta,,"oreophila",,"","M.O.Dillon & Sagást.",Unresolved,Illegitimate,L,TICA,034B9A0F-6C90-4C58-B77E-CDAE81BF8892,961647-1,"""Fieldiana, Bot. 26""","","29","1991",
+gcc-76648,A,Compositae,,Gamochaeta,,"paramora",,"","(S.F.Blake) Anderb.",Accepted,,M,TICA,0FB9765D-C3C6-4D1A-B346-6524D428AE17,963075-1,"Opera Bot. 104","","157","1991",
+gcc-8964,A,Compositae,,Gamochaeta,,"pensylvanica",,"","(Willd.) Cabrera",Synonym,,M,TICA,CBDC8E41-F4EC-48FF-9CA0-10C54EB52605,107375-2,"Bol. Soc. Argent. Bot. 9","","375","1961",gcc-96082
+gcc-41464,A,Compositae,,Gamochaeta,,"peteroana",,"","(Phil.) Anderb.",Synonym,,M,TICA,5AA30AF8-AE31-46DE-B61E-4CC838EA45E6,963076-1,"Opera Bot. 104","","157","1991",gcc-88167
+gcc-124634,A,Compositae,,Gamochaeta,,"platensis",,"","(Cabrera) Cabrera",Accepted,,M,TICA,54CDC264-308A-4669-A013-D12BF1DEC36D,107376-2,"Bol. Soc. Argent. Bot. 9","","376","1961",
+gcc-86345,A,Compositae,,Gamochaeta,,"polybotrya",,"","(Phil.) Cabrera",Accepted,,M,TICA,54ED9DAC-2DFF-4BE0-BC3D-7AB4030331AA,107377-2,"","","127","1971",
+gcc-96381,A,Compositae,,Gamochaeta,,"procumbens",,"","(Phil.) Cabrera",Accepted,,M,TICA,45B5083D-0DD8-4DBD-96BE-916AE6B35CB2,107378-2,"Bol. Soc. Argent. Bot. 9","","376","1961",
+gcc-75495,A,Compositae,,Gamochaeta,,"purpurea",,"","(L.) Cabrera",Synonym,,M,TICA,158EFF2E-64DE-4244-8FBE-62912AD3570E,107379-2,"Bol. Soc. Argent. Bot. 9","","377","1961",gcc-46153
+gcc-125405,A,Compositae,,Gamochaeta,,"rizzinii",,"","Cabrera",Accepted,,M,TICA,55ABF721-CF26-45A5-B54E-D2F999787F32,107380-2,"Bol. Soc. Argent. Bot. 9","","377","1961",
+gcc-43166,A,Compositae,,Gamochaeta,,"rosacea",,"","(I.M.Johnst.) Anderb.",Synonym,,M,TICA,D5C24C58-500C-492A-80B0-4FFB352F3B66,963077-1,"Opera Bot. 104","","157","1991",gcc-46153
+gcc-110169,A,Compositae,,Gamochaeta,,"serpyllifolia",,"","(J.Rémy) Wedd.",Accepted,,M,TICA,3612901F-59D6-4375-9BC0-B040478973F7,208603-1,"","","152","1856",
+gcc-121228,A,Compositae,,Gamochaeta,,"serranoi",,"","(Phil.) Cabrera",Synonym,,M,TICA,56CC84EA-D970-4F6E-B328-C9589BD629F1,107381-2,"Bol. Soc. Argent. Bot. 9","","379","1961",gcc-16439
+gcc-145668,A,Compositae,,Gamochaeta,,"simplicaulis",,"","(Willd.) Cabrera",Accepted,,M,TICA,141929E6-FFBF-47CB-B02A-087DC5FAC3DB,,"","","","",
+gcc-104072,A,Compositae,,Gamochaeta,,"simplicicaulis",,"","(Willd. ex Spreng.) Cabrera",Accepted,,M,TICA,62A2C6FA-D169-4547-8B4E-A2B93852801A,107382-2,"Bol. Soc. Argent. Bot. 9","","379","1961",
+gcc-85222,A,Compositae,,Gamochaeta,,"sphacelata",,"","(Kunth) Cabrera",Synonym,,M,TICA,CA27AB6D-02F4-489F-B1AB-783905EF1268,107383-2,"Bol. Soc. Argent. Bot. 9","","380","1961",gcc-119384
+gcc-124049,A,Compositae,,Gamochaeta,,"spicata",,"","(Lam.) Cabrera",Synonym,Illegitimate,M,TICA,73D12201-DE27-4AEE-86EE-CFCEA842AEEA,107384-2,"Bol. Soc. Argent. Bot. 9","","380","1961",gcc-131674
+gcc-88167,A,Compositae,,Gamochaeta,,"spiciformis",,"","(Sch.Bip.) Cabrera",Accepted,,M,TICA,ABE2308A-B869-43E7-A206-7ED92DC4149B,107385-2,"Bol. Soc. Argent. Bot. 9","","381","1961",
+gcc-153681,A,Compositae,,Gamochaeta,,"spiciformis",var.,"spiciformis","",Synonym,,L,TICA,9A0518E0-D2DA-4056-A3B8-B33122A23C72,,"","","","",gcc-88167
+gcc-66566,A,Compositae,,Gamochaeta,,"spiciformis",var.,"subaffinis","Cabrera",Synonym,,L,TICA,CFE3F30B-7D7F-4FE1-A75D-CFC8B1955390,107386-2,"Bol. Soc. Argent. Bot. 9","","381","1961",gcc-21547
+gcc-132879,A,Compositae,,Gamochaeta,,"stachydifolia",,"","(Lam.) Cabrera",Accepted,,M,TICA,2DCC3E65-9ACB-41E0-8A03-E449C45922A2,107387-2,"Bol. Soc. Argent. Bot. 9","","382","1961",
+gcc-80820,A,Compositae,,Gamochaeta,,"stagnalis",,"","(I.M.Johnst.) Anderb.",Accepted,,M,TICA,8349F734-B118-4EE4-8E3B-6E6DA6397DD2,963078-1,"Opera Bot. 104","","157","1991",
+gcc-100632,A,Compositae,,Gamochaeta,,"standleyi",,"","(Steyerm.) G.L.Nesom",Synonym,,L,TICA,C71EFE5B-CC66-45A9-ABFB-9B107511665F,277312-2,"Phytologia 68","","199","1990",gcc-9598
+gcc-93306,A,Compositae,,Gamochaeta,,"standleyi",,"","(Steyerm.) Anderb.",Unresolved,Illegitimate,L,TICA,C9A97FF9-BC2E-4F13-87FE-8A6F51274D20,963079-1,"Opera Bot. 104: 157 (1991):.","","157","1991",gcc-9598
+gcc-142580,A,Compositae,,Gamochaeta,,"subfalcata",,"","(Cabrera) Cabrera",Synonym,,M,TICA,610F1F01-563F-4416-BE27-F9E792BD69C6,107388-2,"Bol. Soc. Argent. Bot. 9","","383","1961",gcc-47004
+gcc-118243,A,Compositae,,Gamochaeta,,"suffruticosa",,"","(Phil.) Anderb.",Accepted,,M,TICA,D45AD597-9D1E-41A5-9A9C-C2789E868FDE,963080-1,"Opera Bot. 104","","157","1991",
+gcc-122391,A,Compositae,,Gamochaeta,,"sylvatica",,"","(L.) E.Fourn.",Unresolved,,L,TICA,39F0B895-31B1-4F3F-B7E9-CBE68F8C8AB6,,"""Annales de la Societe Linneenne de Lyon, ser. 2 17:""","","93","1869",
+gcc-51814,A,Compositae,,Gamochaeta,,"sylvatica",,"","(L.) Fourr.",Synonym,,M,TICA,DC730440-296A-465B-B4C0-6017386064E7,,"","","93","1869",gcc-118271
+gcc-86535,A,Compositae,,Gamochaeta,,"thouarsii",,"","(Spreng.) Anderb.",Accepted,,M,TICA,54C3C92A-F9A1-46A7-BF6B-7B203A00126D,1168204-2,"Opera Bot. 104","","157","1991",
+gcc-20292,A,Compositae,,Gamochaeta,,"ustulata",,"","(Nutt.) Holub",Synonym,,M,TICA,E6A66E2C-F9DC-4C83-9A79-2582A6473460,107389-2,"Folia Geobot. Phytotax. 11","","83","1976",gcc-46153
+gcc-37456,A,Compositae,,Gamochaeta,,"ustulata",,"","(Nutt.) G.L.Nesom",Synonym,Illegitimate,M,TICA,0E838481-2129-45CA-A190-456E73ADA88F,277313-2,"","","196","1990",gcc-46153
+gcc-100040,A,Compositae,,Gamochaeta,,"valparadisea",,"","(Phil.) Anderb.",Accepted,,M,TICA,430DA712-E6A8-42E9-8B5E-99B302980829,963082-1,"Opera Bot. 104","","157","1991",
+gcc-117411,A,Compositae,,Gamochaeta,,"villarroelii",,"","(Phil.) Cabrera",Accepted,,M,TICA,295DA8D1-9960-49B4-8AAE-C09A77596352,208613-1,"Bol. Soc. Argent. Bot. 9","","383","1961",
+gcc-84079,A,Compositae,,Gamochaeta,,"weddelliana",,"","(Rusby) Anderb.",Synonym,Illegitimate,M,TICA,90A5D61C-DA89-4E21-B63A-75B3D6B6E6F5,1182290-2,"Opera Bot. 104","","157","1991",gcc-117421

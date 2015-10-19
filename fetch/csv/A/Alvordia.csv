@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-142043,A,Compositae,,Alvordia,,"angusta",,"","S.F.Blake",Synonym,,M,TICA,D166229F-60FA-45FD-8DC9-F8C24305BDDC,10513-2,"Contr. Gray Herb. 52","","42","1917",gcc-2888
+gcc-38210,A,Compositae,,Alvordia,,"brandegeei",,"","A.M.Carter",Accepted,,M,TICA,CEBAA475-8ECB-4C24-A89D-46E06670D9C9,,"","","163","1964",
+gcc-128515,A,Compositae,,Alvordia,,"congesta",,"","(Rose ex Hoffman) B.L.Turner",Accepted,,M,TICA,F4B1AC9E-2873-48E7-A422-DA30190679E6,,"","","210","1988",
+gcc-2888,A,Compositae,,Alvordia,,"fruticosa",,"","Brandegee",Accepted,,M,TICA,28E02DB2-81A5-4B84-A1B9-05569795246D,10515-2,"Erythea 7","","5","1899",
+gcc-65560,A,Compositae,,Alvordia,,"fruticosa",var.,"angusta","(S.F.Blake) Wiggins",Synonym,,L,TICA,77214C86-8652-4B9E-9701-C7B2387B80A0,10516-2,"Contr. Dudley Herb. 4","","26","1950",gcc-2888
+gcc-153147,A,Compositae,,Alvordia,,"fruticosa",var.,"fruticosa","",Synonym,,L,TICA,6275AC58-9AA5-414C-823C-A80E8B38464C,,"","","","",gcc-2888
+gcc-75698,A,Compositae,,Alvordia,,"glomerata",,"","Brandegee",Accepted,,M,TICA,52EA78F5-0856-4B91-BDAC-630EB8DEE150,,"""Proc. Calif. Acad. Sci. ser. 2, 2""","","174","1889",
+gcc-29184,A,Compositae,,Alvordia,,"glomerata",var.,"glomerata","",Synonym,,L,TICA,989B5FF8-5C68-4BB0-A1FF-35F24C5A2C22,,"","","","1889",gcc-75698

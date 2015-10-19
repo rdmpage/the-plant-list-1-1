@@ -1,0 +1,42 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-22445,A,Compositae,,Loricaria,,"anceps",,"","Sch.Bip.",Unresolved,,L,TICA,41F25BD9-7D0C-4D59-A581-2982E66BEFD4,231158-1,"Bonplandia 8: 259","","259","1860",
+gcc-136920,A,Compositae,,Loricaria,,"antisanensis",,"","Cuatrec.",Accepted,,M,TICA,34E7D3E8-D170-43F3-BBA8-ED54C1A1C424,143800-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","157","1954",
+gcc-41863,A,Compositae,,Loricaria,,"azuayensis",,"","Cuatrec.",Accepted,,M,TICA,E4D371FA-908A-4743-B77C-4D8490230192,143801-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","158","1954",
+gcc-4158,A,Compositae,,Loricaria,,"cinerea",,"","D.J.N.Hind",Accepted,,M,TICA,E9C36985-C346-48C3-8C4D-07BCE1C99234,,"","","","2004",
+gcc-100259,A,Compositae,,Loricaria,,"colombiana",,"","Cuatrec.",Accepted,,M,TICA,DA3C42B3-56D5-4FD3-85E7-9A36C129F25B,,"","","","1935",
+gcc-156543,A,Compositae,,Loricaria,,"colombiana",f.,"colombiana","",Synonym,,L,TICA,4862FCF1-BAC1-48DA-B803-EF634C708DDC,,"","","","",gcc-100259
+gcc-143850,A,Compositae,,Loricaria,,"complanata",,"","(Sch.Bip.) Wedd.",Accepted,,M,TICA,0DF18459-BE02-423B-9535-FCCD92EF0721,231162-1,"Chlor. And. i. 167.","","167","1855 [1856]",
+gcc-148101,A,Compositae,,Loricaria,,"complanata",var.,"complanata","",Synonym,,L,TICA,55E70E3B-C36E-4329-A6F7-3B9BEA921D5B,,"","","","",gcc-143850
+gcc-60719,A,Compositae,,Loricaria,,"complanata",subsp.,"complanata","",Synonym,,L,TICA,CA4882DD-41D1-4C43-BC6E-A088E16E1A51,,"","","","",gcc-143850
+gcc-7239,A,Compositae,,Loricaria,,"ferruginea",,"","(Ruiz & Pav.) Wedd.",Accepted,,M,TICA,215CA439-9EEE-411C-AF92-0D762051C4E3,231163-1,"Chlor. And. i. 166","","166","1855 [1856]",
+gcc-107875,A,Compositae,,Loricaria,,"graveolens",,"","(Sch.Bip.) Wedd.",Accepted,,M,TICA,7C10AE5F-6409-4B25-BF7E-AB18C29A361F,231164-1,"Chlor. And. i. 167.","","167","1855 [1856]",
+gcc-87748,A,Compositae,,Loricaria,,"ilinissae",,"","(Benth.) Cuatrec.",Accepted,,M,TICA,02937C7E-A506-4172-B9E0-7DEF8A490CA1,143805-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","162","1954",
+gcc-133523,A,Compositae,,Loricaria,,"lagunillensis",,"","Cuatrec.",Accepted,,M,TICA,59743BE1-AA19-4FDE-975B-E5AC4EFA0AA1,143806-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","162","1954",
+gcc-143989,A,Compositae,,Loricaria,,"leptothamna",,"","(Mattf.) Cuatrec.",Accepted,,M,TICA,B9A47E90-E528-4E68-BEE5-FD1E8CD70BAD,143807-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","163","1954",
+gcc-21561,A,Compositae,,Loricaria,,"lucida",,"","Cuatrec.",Unresolved,,L,TICA,37CDE3BF-C9ED-498D-94CD-27D9CDB05D49,143808-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","163","1954",
+gcc-86381,A,Compositae,,Loricaria,,"lycopodinea",,"","Cuatrec.",Accepted,,M,TICA,6FD93CED-2C14-4BB6-A9AC-7AC83176A205,143809-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","164","1954",
+gcc-4921,A,Compositae,,Loricaria,,"macbridei",,"","Cuatrec.",Accepted,,M,TICA,17F98652-16ED-4275-8D75-092EF375C0B2,143810-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","164","1954",
+gcc-16657,A,Compositae,,Loricaria,,"microphylla",,"","(Wedd.) Hieron.",Synonym,,M,TICA,8404D047-B713-4DA3-B4B0-1EC7744D6D3E,,"","","","1894",gcc-156388
+gcc-27292,A,Compositae,,Loricaria,,"ollgaardii",,"","M.O.Dillon & Sagást.",Accepted,,M,TICA,9BF6D530-B4D3-46E0-AF37-327B1B5EDB93,,"","","","1986",
+gcc-94313,A,Compositae,,Loricaria,,"pauciflora",,"","Cuatrec.",Accepted,,M,TICA,D11E57D4-08FC-4E43-81A0-8CB2F4548847,143812-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","165","1954",
+gcc-118552,A,Compositae,,Loricaria,,"puracensis",,"","Cuatrec.",Accepted,,M,TICA,81BFA565-E9E6-4AC2-AE86-C338F65E533C,143813-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","166","1954",
+gcc-101688,A,Compositae,,Loricaria,,"reticulosa",,"","Kuntze",Unresolved,,L,TICA,8C629C76-F407-4E18-B78D-9D5393C1DE5B,143814-2,"Revis. Gen. Pl. 1","","352","1891",
+gcc-115957,A,Compositae,,Loricaria,,"scolopendra",,"","(Hook.) Kuntze",Accepted,,M,TICA,11846301-8CE8-4D10-AF1C-BD59DC21ADD4,143815-2,"Revis. Gen. Pl. 1","","352","1891",
+gcc-95724,A,Compositae,,Loricaria,,"stenophylla",,"","Wedd.",Synonym,,M,TICA,B9612739-5F4A-4D29-937D-90054657AEFC,231176-1,"Chlor. And. i. 165.","","165","1855 [1856]",gcc-156388
+gcc-64237,A,Compositae,,Loricaria,,"stenophylla",var.,"microphylla","Wedd.",Synonym,,L,TICA,FBA2E62F-D59A-4C02-8E06-BCE325D713CF,,"Chlor. And. 1: 165. 1856","","165","",gcc-156388
+gcc-147642,A,Compositae,,Loricaria,,"stenophylla",var.,"stenophylla","",Synonym,,L,TICA,D8A77565-A212-4227-AE56-31A2A31A3098,,"","","","",gcc-156388
+gcc-32297,A,Compositae,,Loricaria,,"stuebelii",,"","Hieron.",Synonym,,M,TICA,EA9FDCDC-3AF1-4401-8C1F-3BD79D21C4C2,143819-2,"","","346","1895",gcc-156388
+gcc-34725,A,Compositae,,Loricaria,,"thujodes",,"","(Lam.) Kuntze",Synonym,,M,TICA,EAC899FC-1AA7-4442-9B29-406364C45CC1,143820-2,"Revis. Gen. Pl. 1","","352","1891",gcc-156388
+gcc-131564,A,Compositae,,Loricaria,,"thujoides",,"","(Lam.) Hieron.",Synonym,,M,TICA,EA517E67-B71E-4CB6-9438-E131A09EB946,,"","","","",gcc-156388
+gcc-156388,A,Compositae,,Loricaria,,"thujoides",,"","(Lam.) Sch.Bip.",Accepted,,M,TICA,87FFCEC1-65B1-4867-B654-EC38AE9C21DE,,"","","","",
+gcc-146636,A,Compositae,,Loricaria,,"thujoides",var.,"laxiflolia","Cuatrec.",Synonym,,L,TICA,A60F3E13-9502-43E5-BC21-1CF6376DE5A6,,"","","","",gcc-156388
+gcc-153788,A,Compositae,,Loricaria,,"thujoides",var.,"microphylla","(Wedd.) Cuatrec.",Synonym,,L,TICA,53F98B71-94D0-441E-A21B-B53A65F59B79,,"","","","",gcc-156388
+gcc-149760,A,Compositae,,Loricaria,,"thujoides",var.,"stuebelii","(Hieron.) Cuatrec.",Synonym,,L,TICA,C3D98432-A465-49D9-ADAA-5FACD132FB6B,,"","","","",gcc-156388
+gcc-147015,A,Compositae,,Loricaria,,"thujoides",var.,"thujoides","",Synonym,,L,TICA,D2CC6B07-6843-4192-94D3-24DA909E28EC,,"","","","",gcc-156388
+gcc-156451,A,Compositae,,Loricaria,,"thujoides",var.,"thyrsoidea","Cuatrec.",Synonym,,L,TICA,A52DBA88-F524-4392-87C5-ED4F84E56DA9,,"","","","",gcc-156388
+gcc-97828,A,Compositae,,Loricaria,,"thuyoides",,"","(Lam.) Sch.Bip.",Accepted,,M,TICA,94B543B6-BA73-46BB-A302-94C24DDD3BAC,231180-1,"Bonplandia 8: 258","","258","1860",
+gcc-150587,A,Compositae,,Loricaria,,"thuyoides",f.,"thuyoides","",Synonym,,L,TICA,2507BBD3-F1CE-4777-A828-71D9827D7790,,"","","","",gcc-97828
+gcc-64897,A,Compositae,,Loricaria,,"thuyoides",var.,"thuyoides","",Synonym,,L,TICA,F021A29F-8396-41B4-8AFE-C208E86B4CCC,,"","","","",gcc-97828
+gcc-16729,A,Compositae,,Loricaria,,"thuyoides",var.,"thyrsoidea","Cuatrec.",Synonym,,L,TICA,D47F9E00-6C4A-45CE-AF99-1EEC0D197305,279858-2,"Feddes Repert. Spec. Nov. Regni Veg. 56: 170. 1954","","170","1954",gcc-47422
+gcc-47422,A,Compositae,,Loricaria,,"thyrsoidea",,"","(Cuatrec.) M.O.Dillon & Sagást.",Accepted,,M,TICA,008D58C9-1541-4B26-B7D6-57D6CBAB2184,279859-2,"","","230","1986",
+gcc-132959,A,Compositae,,Loricaria,,"unduaviensis",,"","Cuatrec.",Accepted,,M,TICA,65EEE3E1-CD27-439F-B348-E4725AE05512,143826-2,"Feddes Repert. Spec. Nov. Regni Veg. 56","","170","1954",

@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115646,A,Compositae,,Heliocauta,,"atlantica",,"","(Litard. & Maire) Humphries",Accepted,,M,TICA,A49D2872-DFF7-4C9B-98E6-BCA96FBD64A2,213506-1,"","","156","1977",
+gcc-145501,A,Compositae,,Heliocauta,,"atlantica",var.,"atlantica","",Synonym,,L,TICA,31444D35-2455-4F19-AE30-055963DD44B2,,"","","","",gcc-115646
+gcc-2667,A,Compositae,,Heliocauta,,"atlantica",var.,"dasyphylla","Humphries",Synonym,,L,TICA,7522AE8B-0757-4368-9D37-04E45B719042,877386-1,"Bot. Not. 130(2): 156 (1977)","","156","1977",gcc-115646

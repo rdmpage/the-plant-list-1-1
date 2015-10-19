@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113384,A,Compositae,,Stylopappus,,"diphyllum",,"","Nutt.",Unresolved,,L,TICA,ACA737E7-4CCA-4D7C-AB41-B7878FB3D85B,1004187-2,"","","","",
+gcc-31489,A,Compositae,,Stylopappus,,"elatus",,"","Nutt.",Synonym,,M,TICA,868647D5-7DCB-416F-AC58-3A5DEF2641BE,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","433","1841",gcc-32085
+gcc-136254,A,Compositae,,Stylopappus,,"grandiflorus",,"","Nutt.",Synonym,,L,TICA,498D2D50-5CD2-4839-84B0-EBCC9FADF113,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 422""","","432","1841",gcc-136468
+gcc-20693,A,Compositae,,Stylopappus,,"laciniatus",,"","Nutt.",Synonym,,M,TICA,9C3DC971-6BCC-4422-81A3-2648A8065A7B,,"","","432","1841",gcc-32085
+gcc-68965,A,Compositae,,Stylopappus,,"laciniatus",var.,"laciniatus","",Synonym,,L,TICA,B6C84461-0546-4263-92E8-E2BB43FDECA3,,"","","","1841",gcc-32085
+gcc-66249,A,Compositae,,Stylopappus,,"laciniatus",var.,"longifolius","Nutt.",Synonym,,L,TICA,3A8BB428-FA87-4DDC-95AD-CD410F53F380,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 432. 1841 [2 Apr 1841]""","","432","1841",gcc-32085
+gcc-77218,A,Compositae,,Stylopappus,,"lessingii",,"","D.Dietr.",Synonym,Illegitimate,M,TICA,71ABD24A-4A97-4C64-BC9C-665F9C2AB654,,"Syn. Pl. (D. Dietrich) iv. 1322.","","","1847",gcc-112429
+gcc-47059,A,Compositae,,Stylopappus,,"pratense",,"","Froebel",Unresolved,,L,TICA,E09ABC9B-9C3F-402B-9A99-573207E5B9E7,,"""Pflanzenr. (Engler) 4, Fam. 104: 208. 1909""","","208","1909",
+gcc-42228,A,Compositae,,Stylopappus,,"pumilus",,"","D.Dietr.",Synonym,Illegitimate,M,TICA,F08FEF12-01F3-4260-A055-4E3DB973DF65,,"Syn. Pl. (D. Dietrich) iv. 1322.","","","1847",gcc-140203

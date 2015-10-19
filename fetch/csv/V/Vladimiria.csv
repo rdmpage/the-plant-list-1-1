@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-50896,A,Compositae,,Vladimiria,,"berardioidea",,"","(Franch.) Ling",Synonym,,M,TICA,47D3FBC4-C0AF-4DB3-992D-5E6A34F397A6,260057-1,"Acta Phytotax. Sin. x. 82 (1965)","","82","1965",gcc-43729
+gcc-107673,A,Compositae,,Vladimiria,,"crispo-undulata",,"","C.Shih & S.Y.Jin",Synonym,,M,TICA,866F91A0-424B-45E6-9506-AA9BA7A3B50A,,"Acta Phytotax. Sin. 21(1): 92 (1983):.","","","1983",gcc-78057
+gcc-12542,A,Compositae,,Vladimiria,,"denticulata",,"","Ling",Synonym,,M,TICA,6361F165-CBB5-4325-B5F0-175C3B3AD2FD,,"Acta Phytotax. Sin. x. 81 (1965).","","","1965",gcc-22458
+gcc-10378,A,Compositae,,Vladimiria,,"edulis",,"","(Franch.) Ling",Synonym,,M,TICA,AB437714-3AC0-4016-986E-1365D80933CB,260059-1,"Acta Phytotax. Sin. x. 82 (1965)","","82","1965",gcc-135375
+gcc-138916,A,Compositae,,Vladimiria,,"edulis",f.,"bracteata","Ling",Synonym,,L,TICA,250FC973-54C4-4B80-8CF8-F19A117ABEF9,,"Acta Phytotaxonomica Sinica 10(1):","","83","1965",gcc-135375
+gcc-117565,A,Compositae,,Vladimiria,,"edulis",f.,"caulescens","(Franch.) Ling",Synonym,,L,TICA,1BB79BAE-75A4-47D0-8371-C0FA46FFE665,,"Acta Phytotaxonomica Sinica 10(1):","","82","1965",gcc-135375
+gcc-154886,A,Compositae,,Vladimiria,,"edulis",f.,"edulis","",Synonym,,L,TICA,57D4BD0E-E4DE-4DF5-B11E-CCAF00D78D53,,"","","","",gcc-135375
+gcc-73786,A,Compositae,,Vladimiria,,"edulis",f.,"pinnatifida","Ling",Synonym,,L,TICA,FEA6F38F-3ABF-4442-8116-272C1FB698A7,,"Acta Phytotaxonomica Sinica 10(1):","","83","1965",gcc-135375
+gcc-123895,A,Compositae,,Vladimiria,,"forrestii",,"","(Diels) Ling",Synonym,,M,TICA,BFEAC037-406E-4272-8003-CF70EAE32429,,"Acta Phytotax. Sin. x. 80 (1965).","","","1965",gcc-125307
+gcc-80666,A,Compositae,,Vladimiria,,"georgii",,"","Ling",Synonym,,M,TICA,45BCB0CB-2035-4C3D-9117-6E12A63F2D80,,"Acta Phytotax. Sin. x. 83 (1965).","","","1965",gcc-36508
+gcc-39629,A,Compositae,,Vladimiria,,"mirabilis",,"","(Anthony) Ling",Unresolved,,L,TICA,BABED9BD-F441-4F64-877C-498AAE3A9FE8,260062-1,"Acta Phytotax. Sin. x. 80 (1965).","","x. 80","1965",
+gcc-137820,A,Compositae,,Vladimiria,,"muliensis",,"","(Hand.-Mazz.) Ling",Synonym,,M,TICA,B5B0B1C4-C939-48C2-8F42-EF4364F3D5F8,,"Acta Phytotax. Sin. x. 80 (1965).","","","1965",gcc-54143
+kew-2901778,A,Compositae,,Vladimiria,,"muliensis",,"","(Hand.-Mazz.) Y.Ling",Synonym,,M,WCSP (in review),,260063-1,"Acta Phytotax. Sin.","10: 80","","1965",gcc-54143
+gcc-2917,A,Compositae,,Vladimiria,,"platylepis",,"","(Hand.-Mazz.) Ling",Synonym,,M,TICA,EE8D25D0-AD4E-4083-BA87-056685FBDE82,,"Acta Phytotax. Sin. x. 82 (1965).","","","1965",gcc-129070
+gcc-128195,A,Compositae,,Vladimiria,,"salwinensis",,"","(Hand.-Mazz.) Iljin",Synonym,,M,TICA,971061E7-5DCD-4C83-98AA-D97161FAE5F4,,"""in Sovetsk. Bot. 1939, No. 8, 56.""","","","1939",gcc-105880
+gcc-19511,A,Compositae,,Vladimiria,,"scabrida",,"","C.Shih & S.Y.Jin",Synonym,,M,TICA,C3BD5C20-F42A-4B6F-94F0-241036CB05D5,,"Acta Phytotax. Sin. 21(1): 91 (1983)","","","1983",gcc-127540
+gcc-34141,A,Compositae,,Vladimiria,,"souliei",,"","(Franch.) Ling",Synonym,,M,TICA,95C2B649-9F81-479C-99EE-3F471833ADB9,260066-1,"""Acta Phytotax. Sin. x. 79 (1965), cum descr. ampl. et emend.""","","79","1965",gcc-94295
+kew-2901771,A,Compositae,,Vladimiria,,"souliei",,"","(C.Shih) Y.Ling",Synonym,,M,WCSP (in review),,260066-1,"Acta Phytotax. Sin.","10: 79","","1965",gcc-94295
+gcc-58644,A,Compositae,,Vladimiria,,"souliei",var.,"cinerea","Ling",Synonym,,L,TICA,9E93A9F6-ADB5-4F3F-8986-90548FBE1AB9,77093344-1,"Acta Phytotaxonomica Sinica 10(1):","","79-80","1965",gcc-54143
+gcc-152695,A,Compositae,,Vladimiria,,"souliei",var.,"souliei","",Synonym,,L,TICA,44CF6063-3BA9-4A57-AB62-9EFFF2CCEFF5,,"","","","",gcc-94295
+gcc-108463,A,Compositae,,Vladimiria,,"taraxacifolia",,"","(Anthony) Ling",Unresolved,,L,TICA,6492E744-32EB-4EFC-82A7-AC58A1586DD6,260067-1,"Acta Phytotax. Sin. x. 83 (1965).","","x. 83","1965",
+gcc-49356,A,Compositae,,Vladimiria,,"trachyloma",,"","(Hand.-Mazz.) Ling",Synonym,,M,TICA,5C8C28B9-ED64-4004-B3FD-5B6E7F53511D,,"Acta Phytotax. Sin. x. 80 (1965).","","","1965",gcc-54143
+kew-2901776,A,Compositae,,Vladimiria,,"trachytoma",,"","(Hand.-Mazz.) Y.Ling",Synonym,,M,WCSP (in review),,260068-1,"Acta Phytotax. Sin.","10: 80","","1965",gcc-54143

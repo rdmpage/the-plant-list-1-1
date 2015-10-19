@@ -1,0 +1,45 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-124557,A,Compositae,,Helianthella,,"aldersonii",,"","Greene",Unresolved,,L,TICA,D6117209-5E81-4079-BCC9-D0FC9BB97826,211938-1,"""in Erythea, i. (1893) 259.""","","i.  259.","1893",
+gcc-7430,A,Compositae,,Helianthella,,"anomalus",,"","S.F.Blake",Unresolved,,L,TICA,2FEC77AD-8889-409D-8122-0DCEAA72FC86,,"","","","",
+gcc-22341,A,Compositae,,Helianthella,,"argophylla",,"","(D.C.Eaton) A.Gray",Unresolved,,L,TICA,C563F1A6-8185-4565-A2ED-295895C56543,211939-1,"Proc. Amer. Acad. Arts 19: 9. 1883 [30 Oct 1883]","","9","1883",gcc-120955
+gcc-45850,A,Compositae,,Helianthella,,"argophylla",,"","(D.C.Eaton) Coville",Unresolved,Illegitimate,L,TICA,BE4EEDA9-606D-4739-8A3F-54FF74B4A8F0,,"Contributions from the United States National Herbarium 4:","","132","1893",gcc-120955
+gcc-121908,A,Compositae,,Helianthella,,"californica",,"","A.Gray",Accepted,,M,TICA,B90AD340-BE83-4D4A-A309-CAD29D8B72D1,,"in Pacif. Rail. Rep. iv. 103.","","","1857",
+gcc-27462,A,Compositae,,Helianthella,,"californica",subsp.,"californica","",Synonym,,L,TICA,C615946C-5621-4E2A-9889-32C86C585666,,"","","","1998 [1999]",gcc-121908
+gcc-63601,A,Compositae,,Helianthella,,"californica",var.,"californica","",Synonym,,L,TICA,2003808E-B817-468A-ADDD-B82BB17ED65D,,"","","","",gcc-121908
+gcc-36157,A,Compositae,,Helianthella,,"californica",var.,"nevadensis","(Greene) Jeps.",Synonym,,L,TICA,EC19AAAC-A26A-417A-AD2E-430C4D55F85E,118884-2,"Man. Fl. Pl. Calif. 1081. 1925","","1081","1925",gcc-62884
+gcc-62884,A,Compositae,,Helianthella,,"californica",subsp.,"nevadensis","(Greene) W.A.Weber",Accepted,,L,TICA,12CB4928-9B00-4A4D-BE79-B25C3A0B2A8A,,"Phytologia 85(1)","","20","",
+gcc-35352,A,Compositae,,Helianthella,,"californica",var.,"shastensis","W.A.Weber",Synonym,,L,TICA,6745A910-8EE6-4E56-9B4D-418C176B7A53,,"Amer. Midl. Naturalist 48: 30. 1952","","","1952",gcc-53442
+gcc-53442,A,Compositae,,Helianthella,,"californica",subsp.,"shastensis","(W.A.Weber) W.A.Weber",Accepted,,L,TICA,F106CBDD-F2CE-41F6-ABF8-664444C660AB,,"Phytologia 85(1)","","20","",
+gcc-103661,A,Compositae,,Helianthella,,"cannonae",,"","Eastw.",Unresolved,,L,TICA,A5443776-9C53-4E8B-938E-A1C2D3675E5F,118886-2,"","","82","1900",
+gcc-22994,A,Compositae,,Helianthella,,"castanea",,"","Greene",Accepted,,M,TICA,94591A2F-8FA4-412B-A004-2A93E90725B2,118887-2,"","","127","1893",
+gcc-155017,A,Compositae,,Helianthella,,"castanea",var.,"castanea","",Synonym,,L,TICA,C476074D-F3F8-405C-A6F1-CF4517F9143A,,"","","","",gcc-22994
+gcc-8963,A,Compositae,,Helianthella,,"ciliata",,"","S.F.Blake",Accepted,,M,TICA,5A310213-4044-407D-80EF-10C4CBB2CFEB,,"","","","1937",
+gcc-87903,A,Compositae,,Helianthella,,"covillei",,"","A.Nelson",Synonym,,M,TICA,CF2E133D-1962-4EBF-86A1-7E4415E49AD4,278030-2,"Bot. Gaz. 37: 273. 1904","","273","1904",gcc-102994
+gcc-120354,A,Compositae,,Helianthella,,"douglasii",,"","Torr. & A.Gray",Unresolved,,L,TICA,EF9EB7B3-20E3-4EB7-AA8D-C754FD3658DB,211945-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 334","","334","1842",gcc-39182
+gcc-85315,A,Compositae,,Helianthella,,"durangensis",,"","B.L.Turner",Accepted,,M,TICA,B3A96177-E5A7-43B6-A426-786D35BAF6ED,,"","","","1989",
+gcc-85076,A,Compositae,,Helianthella,,"grandiflora",,"","Torr. & A.Gray",Synonym,,M,TICA,B3F10B95-77AA-4522-9E9E-77DDD3734DFC,211946-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 333","","333","1842",gcc-139533
+gcc-49759,A,Compositae,,Helianthella,,"gypsophila",,"","B.L.Turner",Accepted,,M,TICA,B516AD68-CB6E-4BF1-95EB-5C3ABA37C443,297689-2,"","","554","1977",
+gcc-59827,A,Compositae,,Helianthella,,"gypsophila",var.,"gypsophila","",Synonym,,L,TICA,A3C2C85E-4B4F-4C73-92EC-9999FC717D7B,,"","","","1977",gcc-49759
+gcc-51828,A,Compositae,,Helianthella,,"iostephanoides",,"","Greenm.",Unresolved,,L,TICA,2B916D8D-C091-4D95-9EBE-601D8D36F277,118894-2,"","","41","1904",
+gcc-128499,A,Compositae,,Helianthella,,"lanceolata",,"","(Nutt.) Torr. & A.Gray",Unresolved,,L,TICA,86D3DE34-51C9-4B24-98AA-DA24519DD1F3,211949-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 334","","334","1842",
+gcc-95232,A,Compositae,,Helianthella,,"latifolia",,"","Scheele",Synonym,,M,TICA,A5C7BDF3-A731-4AF1-B447-8ED12A8061C1,211950-1,"Linnaea 22","","160","1849",gcc-112501
+gcc-49916,A,Compositae,,Helianthella,,"madrensis",,"","S.Watson",Synonym,,M,TICA,68E3185E-4C95-49CE-885B-5C87F589EAD7,118895-2,"","","278","1888",gcc-7052
+gcc-120981,A,Compositae,,Helianthella,,"majuscula",,"","Greene",Unresolved,,L,TICA,47FEEE67-233B-445B-9CEB-C8C64CB08745,118896-2,"","","148","1905",
+gcc-140229,A,Compositae,,Helianthella,,"mexicana",,"","A.Gray",Accepted,,M,TICA,EB6CC3A9-87D4-4273-9034-F48A21A3499F,,"Proc. Amer. Acad. Arts xv. (1880) 37.","","37","",
+gcc-36934,A,Compositae,,Helianthella,,"mexicana",var.,"latifolia","Weber",Synonym,,L,TICA,A3A4B500-3F72-42B0-AECD-446E5FBCC40C,,"Amer. Midl. Naturalist 48","","13","1952",gcc-49759
+gcc-147834,A,Compositae,,Helianthella,,"mexicana",var.,"mexicana","",Synonym,,L,TICA,9D6470A0-8B22-48BA-8E7E-363939DE8CFC,,"","","","",gcc-140229
+gcc-22987,A,Compositae,,Helianthella,,"microcephala",,"","(A.Gray) A.Gray",Accepted,,M,TICA,2A5210A6-C47D-4A98-A953-2A90DBB513F4,,"Proc. Amer. Acad. Arts xix. (1884) 10.","","10","1883",
+gcc-95237,A,Compositae,,Helianthella,,"multicaulis",,"","D.C.Eaton",Unresolved,,L,TICA,AEE71D82-886C-4D3E-B698-8ED500491993,211955-1,"Botany [Fortieth Parallel] 170","","170","1871",
+gcc-111987,A,Compositae,,Helianthella,,"nevadensis",,"","Greene",Synonym,,M,TICA,61C8757F-F99B-475D-A95F-B460516BFA90,118897-2,"Bull. Calif. Acad. Sci. 1(3)","","89","1885",gcc-62884
+gcc-91197,A,Compositae,,Helianthella,,"nudicaulis",,"","(A.Gray) A.Gray",Unresolved,,L,TICA,C8640C96-16FC-4685-8D22-85D0C6FB614C,,"Proc. Amer. Acad. Arts xix. (1884) 9.","","9","1883",gcc-89802
+gcc-123243,A,Compositae,,Helianthella,,"parryi",,"","A.Gray",Accepted,,M,TICA,363013A5-F187-460E-9E6D-CDD965D2B6C4,,"in Proc. Acad. Sc. Philad. 1863 (1864) 65.","","","",
+gcc-122718,A,Compositae,,Helianthella,,"pringlei",,"","A.Gray",Synonym,,M,TICA,B2347F1E-852E-4F59-BAAB-CCA28B0FE22E,118898-2,"Proc. Amer. Acad. Arts 21: 389. 1886","","389","1886",gcc-138282
+gcc-77846,A,Compositae,,Helianthella,,"pringlei",,"","S.Watson",Unresolved,,L,TICA,9EEC33E7-E474-405F-B5C9-67C4DA155539,,"Proc. Amer. Acad. Arts xxi. (1886) 389.","","389","",
+gcc-43145,A,Compositae,,Helianthella,,"quinquenervis",,"","(Hook.) A.Gray",Accepted,,M,TICA,75229E63-E25C-45AF-A5FF-4FEBAA89324B,,"Proc. Amer. Acad. Arts xix. (1884) 10.","","10","1883",
+gcc-155999,A,Compositae,,Helianthella,,"quinquenervis",var.,"quinquenervis","",Synonym,,L,TICA,903DD3B9-7809-4199-B3EC-E46DF44E666A,,"","","","",gcc-43145
+gcc-124545,A,Compositae,,Helianthella,,"scabra",,"","Payson",Unresolved,,L,TICA,2FC2A166-DE9A-4FAE-8C74-D0F2CA83E8A2,118900-2,"","","382","1915",
+gcc-127650,A,Compositae,,Helianthella,,"tenuifolia",,"","Torr. & A.Gray",Synonym,,M,TICA,C26E3278-B6CF-4864-88DE-D827DB095C28,,"Fl. N. Amer. (Torr. & A. Gray) 2: 333","","","1842",gcc-18444
+gcc-114461,A,Compositae,,Helianthella,,"uniflora",,"","A.Gray",Unresolved,,L,TICA,6E2B3494-309C-48EE-AAF5-B9E7DEBA138D,211964-1,"in Proc. Acad. Sc. Philad. 1863 (1864) 65.","","1863  65","1864",
+gcc-39182,A,Compositae,,Helianthella,,"uniflora",,"","(Nutt.) Torr. & A.Gray",Accepted,,L,TICA,86253034-6BA8-4ED8-8B57-48B144AEAF41,211963-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 334","","334","1842",
+gcc-54050,A,Compositae,,Helianthella,,"uniflora",var.,"douglasii","(Torr. & A.Gray) W.A.Weber",Synonym,,L,TICA,D82F10A2-A9D0-4E34-A6EF-6AFB2C390746,118902-2,"Madroño 9: 186. 1948","","186","1948",gcc-39182
+gcc-53273,A,Compositae,,Helianthella,,"uniflora",var.,"uniflora","",Synonym,,L,TICA,84C5F586-7194-49AC-9589-6502D299F050,,"","","","",gcc-39182

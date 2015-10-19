@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-241168,A,Cyperaceae,,Diplacrum,,"africanum",,"","(Benth.) C.B.Clarke",Accepted,,H,WCSP,241168,306569-1,"Consp. Fl. Afric.","5: 668","","1894",
+kew-241169,A,Cyperaceae,,Diplacrum,,"capitatum",,"","(Willd.) Boeckeler",Accepted,,H,WCSP,241169,306570-1,"Linnaea","38: 435","","1874",
+kew-241170,A,Cyperaceae,,Diplacrum,,"caricinum",,"","R.Br.",Accepted,,H,WCSP,241170,306571-1,"Prodr. Fl. Nov. Holl.","241","","1810",
+kew-241171,A,Cyperaceae,,Diplacrum,,"caricinum",var.,"sumatranum","Miq.",Synonym,,L,WCSP,241171,,"Fl. Ned. Ind., Eerste Bijv.","602","","1861",kew-241170
+kew-241172,A,Cyperaceae,,Diplacrum,,"exiguum",,"","(J.Kern) T.Koyama",Accepted,,H,WCSP,241172,306572-1,"Brittonia","31: 293","","1979",
+kew-241173,A,Cyperaceae,,Diplacrum,,"guianense",,"","(Nees) T.Koyama",Accepted,,H,WCSP,241173,81385-2,"Mem. New York Bot. Gard.","16: 51","","1967",
+tro-9903692,A,Cyperaceae,,Diplacrum,,"guianensis",,"","(Nees) T. Koyama",Synonym,,M,TRO,9903692,,"Mem. New York Bot. Gard.","16: 51","51","1967",kew-241173
+kew-241174,A,Cyperaceae,,Diplacrum,,"laevissimum",,"","(Kük.) Uittien",Synonym,,H,WCSP,241174,306574-1,"Meded. Afd. Handelsmus. Kolon. Inst.","30: 149","","1934",kew-241173
+kew-241175,A,Cyperaceae,,Diplacrum,,"longifolium",,"","(Griseb.) C.B.Clarke",Synonym,,H,WCSP,241175,306575-1,"Consp. Fl. Afric.","5: 669","","1894",kew-241169
+kew-241176,A,Cyperaceae,,Diplacrum,,"longifolium",var.,"angustifolium","Kük.",Synonym,,L,WCSP,241176,81387-2,"Bot. Jahrb. Syst.","56(125): 23","","1921",kew-241169
+kew-332598,A,Cyperaceae,,Diplacrum,,"longifolium",f.,"graciliores","H.Pfeiff.",Synonym,,L,WCSP,332598,81388-2,"Repert. Spec. Nov. Regni Veg.","28: 24","","1930",kew-241169
+kew-241177,A,Cyperaceae,,Diplacrum,,"longifolium",var.,"laevissimum","Kük.",Synonym,,L,WCSP,241177,81389-2,"Bot. Jahrb. Syst.","56(125): 23","","1921",kew-241173
+kew-241178,A,Cyperaceae,,Diplacrum,,"mitracarpoides",,"","(Standl. & L.O.Williams) C.D.Adams",Accepted,,H,WCSP,241178,962481-1,"Ann. Missouri Bot. Gard.","78: 254","","1991",
+kew-241179,A,Cyperaceae,,Diplacrum,,"monocephalum",,"","(Hochst. ex Steud.) H.Pfeiff.",Synonym,,H,WCSP,241179,81390-2,"Repert. Spec. Nov. Regni Veg.","18: 383","","1922",kew-223713
+kew-241180,A,Cyperaceae,,Diplacrum,,"notopterum",,"","C.B.Clarke",Synonym,,H,WCSP,241180,81391-2,"Bull. Misc. Inform. Kew, Addit. Ser.","8: 62","","1908",kew-241173
+kew-241181,A,Cyperaceae,,Diplacrum,,"pygmaeopsis",,"","(J.Kern) T.Koyama",Accepted,,H,WCSP,241181,306579-1,"Mem. New York Bot. Gard.","17(1): 33","","1967",
+kew-241182,A,Cyperaceae,,Diplacrum,,"pygmaeum",,"","(R.Br.) Nees ex Boeckeler",Accepted,,H,WCSP,241182,306581-1,"Linnaea","38: 434","","1874",
+kew-241183,A,Cyperaceae,,Diplacrum,,"reticulatum",,"","Holttum",Accepted,,H,WCSP,241183,306582-1,"Gard. Bull. Singapore","11: 295","","1947",
+kew-241184,A,Cyperaceae,,Diplacrum,,"tridentatum",,"","Brongn.",Synonym,,H,WCSP,241184,306583-1,"Voy. Monde","Phan.: 26","","1829",kew-241170
+kew-241185,A,Cyperaceae,,Diplacrum,,"zeylanicum",,"","Nees",Synonym,,H,WCSP,241185,306584-1,"Contr. Bot. India","119","","1834",kew-241170

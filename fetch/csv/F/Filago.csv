@@ -1,0 +1,275 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136214,A,Compositae,,Filago,,"aberrans",,"","Wagenitz",Synonym,,M,TICA,93D322F6-93D0-491A-BD2C-EBB36288C56A,207824-1,"","","26","1980",gcc-29473
+gcc-26735,A,Compositae,,Filago,,"abyssinica",,"","Sch.Bip.",Unresolved,,L,TICA,EA68A570-A120-4FE7-990E-3165C22DF0CD,,"Fl. Abyss. 1:","","432","1848",
+gcc-45900,A,Compositae,,Filago,,"abyssinica",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,226583CB-AC66-405B-95DD-5513F5BC01E8,,"Tent. Fl. Abyss. 1","","432","",
+gcc-110713,A,Compositae,,Filago,,"acaulis",,"","(Wahlenb.) Krock.",Synonym,,M,TICA,1B0FD9BF-48D8-4AD6-BD9E-B188E086E1BC,207826-1,"","","498","1790",gcc-105733
+gcc-25319,A,Compositae,,Filago,,"acaulis",,"","L.",Synonym,,M,TICA,C2E37C64-BE21-4CA0-AFCC-2EBAE57E3638,,"","","","1767",gcc-15004
+gcc-76512,A,Compositae,,Filago,,"aegaea",,"","Wagenitz",Accepted,,M,TICA,0D348B40-4046-49E6-9BE6-64E082DD3955,207828-1,"Willdenowia 6","","126","1970",
+gcc-68722,A,Compositae,,Filago,,"aegaea",subsp.,"aegaea","",Synonym,,L,TICA,0EB06AC7-1E3D-402A-A592-E0FB34DA5EB3,,"","","","",gcc-76512
+gcc-35284,A,Compositae,,Filago,,"aetnensis",,"","Tornab.",Unresolved,,L,TICA,CF2FCE4A-F6EE-4571-813B-416AF38257E2,207829-1,"","","","1887",
+gcc-19980,A,Compositae,,Filago,,"affinis",,"","Tineo ex Nyman",Unresolved,,L,TICA,E5DFF22F-711A-4489-80F8-24EEB6165B6F,207830-1,"","","384","1879",gcc-134407
+gcc-39109,A,Compositae,,Filago,,"alpestris",,"","J.Presl",Synonym,,M,TICA,20C2C32B-635C-4728-A67E-4891C0A42225,,"","","100","1822",gcc-86072
+gcc-7802,A,Compositae,,Filago,,"anatolica",,"","(Boiss. & Heldr.) Chrtek & Holub",Accepted,,M,TICA,87ED7E72-E8C2-4AE6-8830-0E82CCD92826,207832-1,"","","3","1963",
+gcc-143202,A,Compositae,,Filago,,"angustifolia",,"","(Pomel) Batt.",Synonym,,M,TICA,E7A4D8C5-4C05-417F-A5B0-FB5E4A4C73AF,,"","","","1889",gcc-23071
+gcc-32368,A,Compositae,,Filago,,"angustifolia",,"","Schur",Synonym,,M,TICA,EB2A383B-9C25-4DE5-89C5-3BFED835A657,207833-1,"","","","1866",gcc-86072
+gcc-125799,A,Compositae,,Filago,,"apiculata",,"","G.E.Sm. ex Bab.",Synonym,,L,TICA,25385448-0A1F-4E25-8DD7-D3E356869427,,"","","174","1851",gcc-75827
+gcc-97991,A,Compositae,,Filago,,"apiculata",,"","G.E.Sm.",Unresolved,,L,TICA,46A1C8BE-F19A-4A71-86A7-951E18FA8C46,207835-1,"in Phytolog. (1846) 575","","575","",gcc-75827
+gcc-33059,A,Compositae,,Filago,,"arenaria",,"","(Smoljan.) Chrtek & Holub",Accepted,,M,TICA,FED16215-A9DC-4970-BF64-3D49FEB5F0B8,207836-1,"Preslia 35","","3","1963",
+gcc-106571,A,Compositae,,Filago,,"argentea",,"","(Pomel) Chrtek & Holub",Accepted,,M,TICA,4652D9E0-6459-4E2B-A147-A81ACA3BC348,207837-1,"","","3","1963",
+gcc-12755,A,Compositae,,Filago,,"arizonica",,"","A.Gray",Accepted,,M,TICA,A8D63A57-FE33-4DC8-B98F-17C205F704A6,104778-2,"Proc. Amer. Acad. Arts 8","","652","1873",
+gcc-106535,A,Compositae,,Filago,,"arvensis",,"","Wahlenb.",Unresolved,,L,TICA,F5B1A11D-6575-4BA1-AE67-A8081DC5280E,207839-1,"Fl. Suec. 560.","","560","",
+gcc-86072,A,Compositae,,Filago,,"arvensis",,"","L.",Accepted,,M,TICA,5880277A-B963-4097-AA13-7A1C18B4BB2E,,"","","","1753",
+gcc-152235,A,Compositae,,Filago,,"arvensis",subsp.,"arvensis","",Synonym,,L,TICA,BFEDF894-A761-4228-AA49-9550973314A0,,"","","","",gcc-86072
+gcc-155744,A,Compositae,,Filago,,"arvensis",var.,"arvensis","",Synonym,,L,TICA,22852350-F322-412A-9B46-DEEDA1301FA1,,"","","","",gcc-86072
+gcc-65836,A,Compositae,,Filago,,"arvensis",subsp.,"lagopus","(Steph.) Nyman",Synonym,,L,TICA,36DE9C11-22D7-47AA-B8AF-CA001D533E3B,,"","","","",gcc-86072
+gcc-68337,A,Compositae,,Filago,,"arvensis",var.,"lagopus","DC.",Synonym,,L,TICA,55361C2F-2129-4937-A76B-DE06B5DFC4F5,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","249","1838",gcc-86072
+gcc-141169,A,Compositae,,Filago,,"asterisciflora",,"","(Lam.) Chrtek & Holub",Accepted,,M,TICA,21C859B0-75E0-44F0-9BB8-F6B9AE941CF0,207841-1,"Preslia xxxv. 3 (1963).","","xxxv. 3","1963",
+gcc-83347,A,Compositae,,Filago,,"asterisciflora",,"","(Lam.) Sweet",Unresolved,,L,TICA,624C67EF-9C87-461D-AD12-740FFDD6D53D,941483-1,"","","294","1830",
+gcc-80835,A,Compositae,,Filago,,"atlantica",,"","Ball",Synonym,,M,TICA,CBBADAB4-C7F5-439C-8594-6E76B28A8AFB,207842-1,"J. Bot. 11","","364","1873",gcc-92703
+gcc-134533,A,Compositae,,Filago,,"bianorii",,"","Sennen & Pau",Synonym,,M,TICA,544F6CEF-F9DA-4DA9-A54E-E8065B00FDF7,207843-1,"","","42","1913",gcc-23071
+gcc-132020,A,Compositae,,Filago,,"bolivarii",,"","Caball.",Synonym,,M,TICA,6B64FB04-7E73-4B1A-BB81-E24C582AF019,207844-1,"","","287","1915",gcc-23071
+gcc-118642,A,Compositae,,Filago,,"bornmuelleri",,"","Hausskn.",Unresolved,,L,TICA,BD71BF70-F15C-4781-8ACA-C36D1E6EFABC,,"","","","",
+gcc-95059,A,Compositae,,Filago,,"bornmuelleri",,"","Hausskn. ex Bornm.",Synonym,,M,TICA,7010B5EF-ECD1-4CD8-800A-8E6ECD011DD1,207845-1,"Repert. Spec. Nov. Regni Veg. 18","","40","1922",gcc-35397
+gcc-122010,A,Compositae,,Filago,,"caespitosa",,"","Raf. ex DC.",Synonym,,M,TICA,1D8915CA-A3DA-4A64-8C1B-CB0F02A61ACA,207846-1,"","","247","1838",gcc-134407
+gcc-104887,A,Compositae,,Filago,,"californica",,"","Nutt.",Accepted,,M,TICA,755CBEDC-13B5-4B82-BD3F-A46F6F319EE6,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 405""","","405","1841",
+gcc-154780,A,Compositae,,Filago,,"californica",var.,"californica","",Synonym,,L,TICA,BFE81D22-ECD4-4A9C-860B-CACCF0EF19CE,,"","","","",gcc-11367
+gcc-28770,A,Compositae,,Filago,,"californica",var.,"tomentosa","Nutt.",Synonym,,L,TICA,45CDB669-88CD-4F8E-A9A1-3531BB30C293,,"","","406","1841",gcc-11367
+gcc-82392,A,Compositae,,Filago,,"candida",,"","(Torr. & A.Gray) Shinners",Synonym,,M,TICA,D957D232-56B7-4315-9C55-71F798AA3323,104781-2,"Sida 1","","252","1964",gcc-33284
+gcc-25933,A,Compositae,,Filago,,"candolleana",,"","Parl.",Synonym,,M,TICA,0DBB5C83-D290-43BB-85EA-2FE90F0CCAA6,,"","","","1840",gcc-134407
+gcc-49500,A,Compositae,,Filago,,"canescens",,"","Jord.",Synonym,,M,TICA,5B4706F4-A632-458E-95B7-5BBCC84CC3E8,207850-1,"","","202","1846",gcc-134407
+gcc-132649,A,Compositae,,Filago,,"carpetana",,"","(Lange) Chrtek & Holub",Accepted,,M,TICA,62157BA3-FF97-40E9-A7FA-E3B7579D58BF,207851-1,"","","3","1963",
+gcc-74396,A,Compositae,,Filago,,"carpetana",f.,"acaulis","R.Fernandes & Nogueira",Unresolved,,L,TICA,FF536400-2404-49AB-A24F-3E3867B4A4D0,877288-1,"","","338","1971",gcc-132649
+gcc-147977,A,Compositae,,Filago,,"carpetana",f.,"carpetana","",Synonym,,L,TICA,1E19CDB2-6B26-49BF-973B-3949210ED430,,"","","","",gcc-132649
+gcc-153464,A,Compositae,,Filago,,"carpetana",subsp.,"carpetana","",Synonym,,L,TICA,56D46102-3842-4D8F-B485-AF04B3EFF3CA,,"","","","",gcc-132649
+gcc-155722,A,Compositae,,Filago,,"carpetana",var.,"carpetana","",Synonym,,L,TICA,AACFDDD4-36A8-4DDC-B4ED-DE705D5AC4C3,,"","","","",gcc-132649
+gcc-55345,A,Compositae,,Filago,,"carpetana",subsp.,"maroccana","(Braun-Blanq. & Maire) Dobignard",Accepted,,L,TICA,CEBC7982-03B7-4EA3-9102-754577A82758,77083832-1,"","","142","2007",
+gcc-69048,A,Compositae,,Filago,,"carpetana",var.,"pseudoasterisciflora","R.Fernandes & Nogueira",Unresolved,,L,TICA,1629D469-E33B-4DAF-A93F-E38CBEB30140,877289-1,"""Bol. Soc. Brot., II, 45: 337 (1971)""","","337","1971",gcc-132649
+gcc-118704,A,Compositae,,Filago,,"cavanillesii",,"","(Rouy) Chrtek & Holub",Synonym,,M,TICA,80FE52AD-7A2A-4FBC-8CBE-C38D62F36AD5,,"","","","1963",gcc-132649
+gcc-117912,A,Compositae,,Filago,,"cephaloidea",,"","Link ex Steud.",Synonym,,M,TICA,754D5D0C-B9E7-431F-A2FE-C1B7CF0D1489,207853-1,"","","638","1840",gcc-43539
+gcc-108486,A,Compositae,,Filago,,"clementei",,"","Willk.",Accepted,,M,TICA,2631931D-F95B-4209-AC3A-AC65AEA0D3C1,207854-1,"Bot. Zeitung (Berlin) 5","","859","1847",
+gcc-23071,A,Compositae,,Filago,,"congesta",,"","Guss. ex DC.",Accepted,,M,TICA,D4F30B43-EC39-4EF3-88C6-2AB493E5614A,207855-1,"","","248","1838",
+gcc-94212,A,Compositae,,Filago,,"conillana",,"","Sennen",Unresolved,,L,TICA,D36BF80C-3397-49F1-9958-8C78B659CD00,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-29897,A,Compositae,,Filago,,"contracta",,"","(Boiss.) Chrtek & Holub",Accepted,,M,TICA,F402B8B8-5366-4338-8CB3-3745CB74732D,207857-1,"","","3","1963",
+gcc-107540,A,Compositae,,Filago,,"cossyrensis",,"","Ten. ex Lojac.",Synonym,,M,TICA,840C15FF-CF60-4AA0-BDC6-AA472C19BA52,,"","","108","",gcc-134407
+gcc-44686,A,Compositae,,Filago,,"cossyrensis",,"","Tin.",Unresolved,,L,TICA,18106D7E-D9D8-4CBD-AF1B-52CA84FE0B70,,"in Lojac. Fl. Sic. ii. I. 110 (non Lojac.).","","ii. I. 110","",
+gcc-135342,A,Compositae,,Filago,,"costei",,"","Revol",Unresolved,,L,TICA,B3C270F0-5566-462D-9F4A-E9D5AD589322,207860-1,"","","165","1910",
+gcc-92947,A,Compositae,,Filago,,"cretensis",,"","Gand.",Accepted,,M,TICA,E27FCA71-CFC7-4290-AAFE-89B643FDB5CA,,"","","58","1916",
+gcc-69259,A,Compositae,,Filago,,"cretensis",subsp.,"cretensis","",Synonym,,L,TICA,024F68C0-FDFD-4FB2-9253-E503523D00FD,,"","","","",gcc-92947
+gcc-131350,A,Compositae,,Filago,,"crocidion",,"","(Pomel) Chrtek & Holub",Accepted,,M,TICA,B167C944-D674-4FE3-ABEF-E0B0CF73A364,207862-1,"","","3","1963",
+gcc-94308,A,Compositae,,Filago,,"cuneata",,"","Lojac.",Synonym,,M,TICA,F088002E-3A00-4C5B-A2DF-8CAE638CC34B,,"","","107","1903",gcc-134407
+gcc-98679,A,Compositae,,Filago,,"cupaniana",,"","(DC.) Parl.",Synonym,,M,TICA,5DE17EE2-9BC6-4B27-85C5-96A40BF495FD,207864-1,"","","182","1840",gcc-135097
+gcc-147374,A,Compositae,,Filago,,"cupaniana",subsp.,"cupaniana","",Synonym,,L,TICA,C1AC9AA5-05FF-4230-8D6E-2C2CD832CF38,,"","","","",gcc-135097
+gcc-57961,A,Compositae,,Filago,,"cupaniana",subsp.,"dichotoma","(Pomel) Batt. & Trab.",Synonym,,L,TICA,29CEAE7E-2CCA-4184-B2E8-8AC1CF8B46F2,,"","","","",gcc-108486
+gcc-51102,A,Compositae,,Filago,,"dasycarpa",,"","Griseb.",Synonym,,M,TICA,1979D938-C891-4867-9128-5ECC34608430,104782-2,"Abh. Königl. Ges. Wiss. Göttingen 24","","185","1879",gcc-88535
+gcc-85773,A,Compositae,,Filago,,"davisii",,"","(Holub ex Grierson) Feinbrun",Accepted,,M,TICA,D186D987-1037-486B-8684-796AE9EDC8AA,207866-1,"","","452","1978",
+gcc-78367,A,Compositae,,Filago,,"decumbens",,"","(Heldr.) Holmboe",Synonym,,M,TICA,7B155297-8D56-4154-A712-68FABFAD10F4,207867-1,"","","178","1914",gcc-134407
+gcc-77027,A,Compositae,,Filago,,"depressa",,"","A.Gray",Accepted,,M,TICA,ED88F42F-F974-48F6-B254-65ED065877FE,207868-1,"Proc. Amer. Acad. Arts 19","","3","1883",
+gcc-23186,A,Compositae,,Filago,,"desertorum",,"","Pomel",Accepted,,M,TICA,9D332155-9501-40DD-A5AD-2AEC7490A881,207869-1,"Bull. Soc. Sci. Phys. Algérie 11","","46","1874",
+gcc-2649,A,Compositae,,Filago,,"dichotoma",,"","Pomel",Synonym,,M,TICA,EC92B714-8B47-4411-BCBD-04DEFFC8C6F7,,"","","","",gcc-108486
+gcc-76873,A,Compositae,,Filago,,"dichotoma",,"","(Pomel) Pomel ex Batt. & Trab.",Synonym,Illegitimate,M,TICA,64ACA2DF-4980-43BD-AB86-659BA705AAAE,207871-1,"","","441","1889",gcc-135097
+gcc-9662,A,Compositae,,Filago,,"dichotoma",,"","Gilib.",Synonym,Invalid,M,TICA,2AE57453-8D38-46B0-B26E-120BD9ECC44D,,"","","","1782",gcc-86072
+gcc-130877,A,Compositae,,Filago,,"discolor",,"","Guss. ex DC.",Synonym,,M,TICA,0FE20267-64C7-4FDD-BBB4-DF8D8D53F874,,"Prodr. 5: 459 (1836)","","459","1836",gcc-92703
+gcc-50462,A,Compositae,,Filago,,"discolor",,"","Guss.",Unresolved,,L,TICA,64D00A57-0358-489D-AEF2-5D8BE33FD691,207872-1,"Prodr. (DC.) 5: 459","","459","1836",
+gcc-33275,A,Compositae,,Filago,,"duriaei",,"","Batt.",Accepted,,M,TICA,C9DE3822-4ED6-42BC-859A-3DB3363CFE56,,"","","","",
+gcc-39618,A,Compositae,,Filago,,"duriaei",,"","Coss. ex Lange",Unresolved,,L,TICA,1D231D84-B675-4621-AB09-4985978E19CA,207873-1,"","","70","1861",
+gcc-133114,A,Compositae,,Filago,,"erecta",,"","(L.) Myrzakulov",Unresolved,,L,TICA,CDFA5E10-AFBF-4A9D-93B4-E4C6B249F855,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. Kazachst. v. 41 (1968), in obs.,basionymo non cit.""","","""v. 41 , in obs.,basionymo non cit.""","1968",
+gcc-28371,A,Compositae,,Filago,,"eriocephala",,"","Guss.",Accepted,,M,TICA,E98D9339-F4E7-49F4-ADE6-3465D2BA8264,,"","","","1826",
+gcc-714,A,Compositae,,Filago,,"eriosphaera",,"","(Boiss. & Heldr.) Chrtek & Holub",Accepted,,M,TICA,CD365EE3-FFFD-4D73-A860-01589F1C04C5,207876-1,"","","3","1963",
+gcc-15156,A,Compositae,,Filago,,"evaciformis",,"","Maire & Sam.",Synonym,,L,TICA,F8308E0E-43CE-4A29-8451-1C143A91249E,207877-1,"","","29","1939",gcc-39618
+gcc-78054,A,Compositae,,Filago,,"evacoides",,"","Chiov.",Synonym,,M,TICA,464661FD-42EB-4E55-9C91-683D5C53735A,,"","","","1940",gcc-45900
+gcc-12432,A,Compositae,,Filago,,"exigua",,"","Sibth. & Sm.",Synonym,,M,TICA,D8390DCE-6AF0-45C3-A825-172C90315468,207879-1,"Fl. Graec. t. 922.","","t. 922","",gcc-23071
+gcc-144302,A,Compositae,,Filago,,"exigua",,"","Lindl.",Synonym,,M,TICA,76F7A49C-E567-46F9-8E7B-FDC8061D25C3,,"Fl. Graec.: t. 922 (1840)","","t. 922","1840",gcc-714
+gcc-72686,A,Compositae,,Filago,,"exigua",subsp.,"angustifolia","(Pomel) Batt.",Synonym,,L,TICA,9289AF00-EA61-4C9D-9B71-FFF2A442B816,,"","","","",gcc-23071
+gcc-152721,A,Compositae,,Filago,,"exigua",subsp.,"exigua","",Synonym,,L,TICA,784FB6C7-6A19-4925-B0A6-9F7550CFFA03,,"","","","",gcc-23071
+gcc-141484,A,Compositae,,Filago,,"faurei",,"","Maire",Synonym,,L,TICA,3963A4D6-69F9-4CDC-B95C-F788B831A1F3,207880-1,"","","184","1929",gcc-39618
+gcc-139725,A,Compositae,,Filago,,"filaginoides",,"","(Kar. & Kir.) Wagenitz",Accepted,,M,TICA,04F4D940-88F9-4769-B079-F36129C639FA,207881-1,"Willdenowia 5","","417","1969",
+gcc-128272,A,Compositae,,Filago,,"filiformis",,"","Lam.",Synonym,,M,TICA,F1968A5B-D0DA-431F-B89F-D9A2BCB72AA6,,"","","","1779",gcc-116641
+gcc-104697,A,Compositae,,Filago,,"floribunda",,"","Boiss.",Synonym,,M,TICA,399ABD57-850C-45CE-8F67-A406679F40E4,207883-1,"","","247","1875",gcc-133254
+gcc-81168,A,Compositae,,Filago,,"fuscescens",,"","Pomel",Accepted,,M,TICA,AB743D24-0609-4E72-B6C0-6F345E335133,207884-1,"","","44","1874",
+gcc-153992,A,Compositae,,Filago,,"fuscescens",var.,"fuscescens","",Synonym,,L,TICA,23750FE4-6493-4FDD-A048-BA1727E47FE3,,"","","","",gcc-81168
+gcc-4009,A,Compositae,,Filago,,"fuscescens",var.,"gracilis","Maire",Synonym,,L,TICA,E43B657B-A1EF-4BD8-B009-0773A9D35DB5,,"","","","",gcc-81168
+gcc-116641,A,Compositae,,Filago,,"gallica",,"","(L.) L.",Accepted,,M,TICA,25D63640-59BE-4EFA-886F-BEDD92AFB0EC,89944-3,"","","","1753",
+gcc-149903,A,Compositae,,Filago,,"gallica",subsp.,"gallica","",Synonym,,L,TICA,E4A8F524-EECE-4F13-BAD9-6294307AE383,,"","","","",gcc-116641
+gcc-156822,A,Compositae,,Filago,,"gallica",var.,"gallica","",Synonym,,L,TICA,094D3B66-DA87-4504-A16B-F4DFB6A93222,,"","","","",gcc-116641
+gcc-70319,A,Compositae,,Filago,,"gallica",var.,"longibracteata","Willk.",Accepted,,L,TICA,F5B7A7BF-1193-4254-AD5A-ED2793F52BDC,,"","","","",
+gcc-1873,A,Compositae,,Filago,,"gallica",subsp.,"tenuifolia","(C.Presl) Arcang.",Synonym,,L,TICA,1340C330-7D00-43E1-AAFD-035DBFB350AF,,"Arcang.. 1882.","","379","1882",gcc-116641
+gcc-54265,A,Compositae,,Filago,,"gallica",var.,"tenuifolia","(C.Presl) Rouy",Synonym,,L,TICA,E3B428A0-5277-4E2A-BCEC-6CA0D8A295E2,,"","","","",gcc-70319
+gcc-14632,A,Compositae,,Filago,,"germanica",,"","Hook.f.",Synonym,Illegitimate,M,TICA,BFAA89A2-9484-41FE-83D9-1B26017A575C,,"Fl. Brit. Ind. (J. D. Hooker). 3(8): 277. 1881","","277","1881",gcc-35397
+gcc-20670,A,Compositae,,Filago,,"germanica",,"","(L.) Huds.",Accepted,,M,TICA,F2C19AF5-1AA8-4148-986B-263D6FA774DE,,"Huds.. 1762.","","328","1762",
+gcc-24056,A,Compositae,,Filago,,"germanica",,"","(L.) L.",Synonym,Illegitimate,M,TICA,D55568BB-F262-4939-ADD1-2C74F6EDD99F,,"","","1235","1763",gcc-20670
+gcc-67418,A,Compositae,,Filago,,"germanica",var.,"abyssinica","(Sch.Bip. ex A.Rich.) Penz.",Synonym,,L,TICA,609D5AC4-2134-4C97-B60B-D7041266ADD7,,"","","","",gcc-45900
+gcc-57079,A,Compositae,,Filago,,"germanica",subsp.,"canescens","(Jord.) Nyman",Synonym,,L,TICA,39469FFE-83D0-4FF5-A805-8362726D91A3,,"""Nyman, Consp. Fl. Eur. 1879.""","","384","1879",gcc-134407
+gcc-31328,A,Compositae,,Filago,,"germanica",var.,"desertorum","(Pomel) Jahand. & Maire",Synonym,,L,TICA,257BC5CC-091F-449C-9888-3A052F635269,,"Catalogue des Plantes du Maroc 3:","","745","1934",gcc-23186
+gcc-34335,A,Compositae,,Filago,,"germanica",var.,"desertorum","(Pomel) Batt.",Synonym,,L,TICA,F98028E6-ADDF-4261-8649-3FA1DFEF0F25,,"","","","",gcc-23186
+gcc-70454,A,Compositae,,Filago,,"germanica",subsp.,"eriocephala","(Guss.) Arcang.",Synonym,,L,TICA,7EE2E8BC-65B4-40E0-84A3-EE4A1567AF8D,,"Arcang.. 1882.","","378","1882",gcc-28371
+gcc-38284,A,Compositae,,Filago,,"germanica",subsp.,"exigua","(Sibth.) Maire",Synonym,,L,TICA,4EA45219-098D-4CD2-BCFD-4702CB697867,,"","","","",gcc-23071
+gcc-62777,A,Compositae,,Filago,,"germanica",var.,"furcata","(Coss.) Maire",Synonym,,L,TICA,F405BF2E-B86D-4E9E-A18F-B17E56C8E021,,"","","","",gcc-20670
+gcc-16784,A,Compositae,,Filago,,"germanica",subsp.,"fuscescens","(Pomel) Maire",Synonym,,L,TICA,F08CB3DD-2D2B-4FD2-9153-1F02E937E6CD,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","745","1934",gcc-81168
+gcc-156604,A,Compositae,,Filago,,"germanica",var.,"germanica","",Synonym,,L,TICA,4133C35A-9FAA-41B6-990C-F0A52F238BCC,,"","","","",gcc-20670
+gcc-156799,A,Compositae,,Filago,,"germanica",subsp.,"germanica","",Synonym,,L,TICA,59D1A4F6-7A9A-404A-8B23-F472AFA7825D,,"","","","",gcc-20670
+gcc-33907,A,Compositae,,Filago,,"germanica",subsp.,"germanica","",Synonym,,L,TICA,435CA685-C9EC-46E5-A93A-3EDD4CEEB1CD,,"","","","",gcc-20670
+gcc-28432,A,Compositae,,Filago,,"germanica",subsp.,"lutescens","Masclans",Synonym,,L,TICA,FF0DA904-60D6-4F0B-BBD0-348832F8E362,877290-1,"","","135","1972",gcc-75827
+gcc-58043,A,Compositae,,Filago,,"germanica",subsp.,"lutescens","(Jord.) Nyman",Synonym,,L,TICA,2466963F-ACC6-4425-9795-8B6ACA0AEA6D,,"""Nyman, Consp. Fl. Eur. 1879.""","","384","1879",gcc-75827
+gcc-64175,A,Compositae,,Filago,,"germanica",var.,"micropodioides","(Lange) Maire",Synonym,,L,TICA,FA90924B-90F0-4822-9702-BC6AA29E5FD4,,"","","","",gcc-97502
+gcc-60607,A,Compositae,,Filago,,"germanica",var.,"numidica","(Pomel) Batt.",Synonym,,L,TICA,CBA304F5-C846-4E69-845A-9FA9453A511F,,"","","","",gcc-20670
+gcc-62924,A,Compositae,,Filago,,"germanica",subsp.,"numidica","(Pomel) Maire",Synonym,,L,TICA,31F20CA7-808C-4744-B1F0-B2BEF0062AF6,,"","","","",gcc-134407
+gcc-67942,A,Compositae,,Filago,,"germanica",subsp.,"numidica","(Pomel) Batt.",Synonym,,L,TICA,0A2D5A3B-3A7C-4D86-8E10-DB19D068D98B,,"""Batt. in Battandier & Trabut, Fl. Algérie, Dicot. 1889.""","","440","1889",gcc-134407
+gcc-26542,A,Compositae,,Filago,,"germanica",subsp.,"prolifera","(Pomel) Maire",Synonym,,L,TICA,9963E582-C852-4801-8878-310C1D949D62,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","746","1934",gcc-27349
+gcc-57003,A,Compositae,,Filago,,"germanica",subsp.,"prostrata","Arcang.",Synonym,,L,TICA,0A77F6E8-C5CF-4A5B-AA7E-82D450E0F142,,"Arcang.. 1882.","","378","1882",gcc-134407
+gcc-61505,A,Compositae,,Filago,,"germanica",var.,"prostrata","Fiori",Synonym,,L,TICA,05D579ED-04DC-4137-BDE3-A73D8168A521,,"Fl. Italia 3: 274 (1904)","","274","1904",gcc-134407
+gcc-9013,A,Compositae,,Filago,,"germanica",var.,"prostrata","Batt.",Synonym,,L,TICA,E3B74C8D-CE9F-4FD3-B7F3-10DFF3C22A67,,"","","","",gcc-20670
+gcc-149036,A,Compositae,,Filago,,"germanica",var.,"pyramidata","(L.) Gaud.",Synonym,,L,TICA,C49C7BF3-8421-455A-AACA-50263AA0D2F3,,"Fl. Helv. 5: 253. 1829 ","","253","1829",gcc-134407
+gcc-21223,A,Compositae,,Filago,,"germanica",subsp.,"pyramidata","(L.) Arcang.",Synonym,,L,TICA,A8707221-05DF-48E1-9231-2732D503549B,,"Arcang.. 1882.","","378","1882",gcc-134407
+gcc-24638,A,Compositae,,Filago,,"germanica",var.,"pyramidata","(L.) Gaudin",Synonym,,L,TICA,FDEC093B-B2BA-4A3C-AC4E-2D83BC1A1C8F,,"Flora Helvetica 5:","","253","1829",gcc-134407
+gcc-58743,A,Compositae,,Filago,,"germanica",var.,"robusta","(Pomel) Batt.",Synonym,,L,TICA,E7F8D091-EA31-45DB-BAC5-9109188C4AB1,,"","","","",gcc-134407
+gcc-1085,A,Compositae,,Filago,,"germanica",var.,"spathulata","(J.Presl) DC.",Synonym,,L,TICA,660E5531-7E80-4035-8BCD-01FC05625EA2,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","247","1837",gcc-134407
+gcc-68037,A,Compositae,,Filago,,"germanica",subsp.,"spathulata","Rouy",Synonym,,L,TICA,8DD9B0C4-4422-4D77-905A-DBD82B546967,,"Fl. France 8: 173 (1903)","","173","1903",gcc-134407
+gcc-70032,A,Compositae,,Filago,,"germanica",subsp.,"spathulata","(C.Presl) Arcang.",Synonym,,L,TICA,A451E32D-E912-4A8E-B95A-EADDAB9001C1,,"Arcang.. 1882.","","378","1882",gcc-134407
+gcc-72654,A,Compositae,,Filago,,"germanica",subsp.,"spathulata","(C.Presl) H.Lindb.",Synonym,,L,TICA,CE615E48-4DCA-46AA-BEA9-FFB04E20C282,,"","","","",gcc-134407
+gcc-69634,A,Compositae,,Filago,,"germanica",var.,"virescens","Wimm. & Grab.",Synonym,,L,TICA,2E5994DD-661B-4CDB-BFA6-E7DDD2C96D58,,"Fl. Siles. 2(2): 128 (1829)","","128","1829",gcc-75827
+gcc-118584,A,Compositae,,Filago,,"gussonei",,"","Lojac.",Synonym,,M,TICA,4F5339DA-E561-4728-8329-C34FC2BBC5AD,,"","","110","1903",gcc-134407
+gcc-131737,A,Compositae,,Filago,,"heldreichii",,"","(Parl.) Batt.",Synonym,,M,TICA,B54C59C1-265F-4BDE-93E6-E19EC2F66C85,,"","","","1889",gcc-92703
+gcc-135097,A,Compositae,,Filago,,"heterantha",,"","(Raf.) Guss.",Accepted,,M,TICA,923937B8-5194-4AE0-A750-E938E3F0AB66,,"Guss.. 1844.","","283","1844",
+gcc-96535,A,Compositae,,Filago,,"heterantha",,"","Raf.",Unresolved,,L,TICA,451E54E1-C3DC-4567-86D6-91CD3B8C745E,207890-1,"Giorn. ii. fasc. xii. 170; Guss. Fl. Sic. ii. 864.","","ii. fasc. xii. 170","",
+gcc-43445,A,Compositae,,Filago,,"heterantha",var.,"candidissima","Batt.",Synonym,,L,TICA,09BE9F4E-5232-4A30-9869-508AA9DC2DEA,,"","","","",gcc-135097
+gcc-53572,A,Compositae,,Filago,,"heterantha",subsp.,"cupaniana","Maire",Synonym,,L,TICA,F3BA3E0A-208D-429B-93D4-673F3880818A,,"","","","",gcc-135097
+gcc-62901,A,Compositae,,Filago,,"heterantha",subsp.,"dichotoma","(Pomel) Murb.",Synonym,,L,TICA,6EEECF15-2443-4933-8D0C-B29255E3FAF6,,"","","","",gcc-108486
+gcc-157239,A,Compositae,,Filago,,"heterantha",var.,"heterantha","",Synonym,,L,TICA,884F5CF8-1A29-41BC-95EC-FDE27DFC1B42,,"","","","",gcc-135097
+gcc-61358,A,Compositae,,Filago,,"heterantha",subsp.,"heterantha","",Synonym,,L,TICA,E69F87BB-1731-479F-8EE4-A5E80BD6AB63,,"","","","",gcc-135097
+gcc-93172,A,Compositae,,Filago,,"hispanica",,"","(Degen & Hervier) Chrtek & Holub",Accepted,,M,TICA,714D37C8-D65F-46EF-AEFE-8A2BA7659CAB,207891-1,"","","3","1963",
+gcc-35397,A,Compositae,,Filago,,"hurdwarica",,"","(Wall. ex DC.) Wagenitz",Accepted,,M,TICA,CEF95DBB-0454-4FB2-8854-41A06CD18353,207892-1,"Willdenowia 4","","291","1968",
+gcc-136743,A,Compositae,,Filago,,"huruarica",,"","Wagenitz",Accepted,,L,TICA,D5DC64D4-6F43-48C3-B4A6-ECE529D83DBC,,"","","","",
+gcc-124340,A,Compositae,,Filago,,"iberica",,"","(Willk.) Chrtek & Holub",Synonym,,M,TICA,D562B157-7645-431F-A7F4-D0738C1B6EAC,207893-1,"","","3","1963",gcc-119133
+gcc-145174,A,Compositae,,Filago,,"inexpectata",,"","Wagenitz",Accepted,,M,TICA,C46B8C3F-6301-47A0-9B8A-FFD064BAFBC9,207894-1,"Willdenowia 5","","414","1969",
+gcc-132704,A,Compositae,,Filago,×,"intermedia",,"","Hausskn.",Unresolved,,L,TICA,7F3B7B66-8A1F-40A8-8904-E3D91AA67A04,,"""in Nym. Consp Fl. Eur. Suppl. (1889) 173; et in Mitth. Bot. Ver. Jena, N. Folge,vii. (1895) 30.""","","173","1889",
+gcc-140029,A,Compositae,,Filago,,"intermedia",,"","Hausskn. ex Nyman",Unresolved,,L,TICA,3A09D4EC-143D-44B1-9BEC-F40CAFF3FAA7,,"""Consp. Fl. Eur., Suppl. 2: 173 (1889)""","","173","1889",
+gcc-111819,A,Compositae,,Filago,,"iodolepis",,"","Bréb.",Synonym,,L,TICA,F30421B9-F212-4BFB-85AD-B402F84F5646,207896-1,"","","163","1879",gcc-75827
+gcc-77631,A,Compositae,,Filago,,"jussiaei",,"","Coss. & Germ.",Synonym,,M,TICA,87728BFF-B755-4ED3-A339-674FC03C1349,,"","","284","1843",gcc-134407
+gcc-113580,A,Compositae,,Filago,,"kaitenbachii",,"","Sch.Bip. ex Nyman",Synonym,,M,TICA,3AB8DE05-C275-4239-8D1C-B7EE827685EE,207898-1,"","","384","1879",gcc-134407
+gcc-91401,A,Compositae,,Filago,,"krasensis",,"","Derganc",Synonym,,M,TICA,6829A56A-DBA1-453E-B501-86507B5144D7,207899-1,"","","112","1904",gcc-49185
+gcc-102245,A,Compositae,,Filago,,"lagopus",,"","Steph. ex Willd.",Unresolved,,L,TICA,3361690B-412C-4D4A-B824-9EA1D6C98573,207900-1,"Sp. Pl. iii. 1897.","","iii.","1897",
+gcc-22714,A,Compositae,,Filago,,"lagopus",,"","(Stephan ex Willd.) Parl.",Synonym,,M,TICA,D9CE05BE-BE90-4297-817A-2A069D0CF775,207901-1,"","","182","1841",gcc-86072
+gcc-39542,A,Compositae,,Filago,,"lamottei",,"","Le Grand",Unresolved,,L,TICA,CA41C223-BC09-4EB6-AC38-4960ED4AE9A1,207902-1,"","","","1903",
+gcc-95770,A,Compositae,,Filago,,"lanuginosa",,"","DC.",Synonym,,M,TICA,11ABE7BC-0404-4541-99C9-901FC8C02E72,207903-1,"","","247","1838",gcc-28371
+gcc-110908,A,Compositae,,Filago,,"lasiocarpa",,"","(Lange ex Willk. & Lange) Pau",Synonym,Illegitimate,L,TICA,0D891BD8-F2CC-4697-B5A5-B1EF30B90A5F,,"","","","1917",gcc-12723
+gcc-117816,A,Compositae,,Filago,,"lasiocarpa",,"","Griseb.",Synonym,,L,TICA,085BF3B6-C059-47FC-BDB9-C1812F5DF645,104784-2,"Abh. Königl. Ges. Wiss. Göttingen 19","","180","1874",gcc-12723
+gcc-77976,A,Compositae,,Filago,,"leontopodioides",,"","Willd.",Synonym,,M,TICA,7B773185-C268-4259-A9B4-680FDF61F149,207906-1,"","","12","1794",gcc-69548
+gcc-83418,A,Compositae,,Filago,,"leontopodioides",,"","E.H.L.Krause",Synonym,,M,TICA,ACD420B8-43D7-4E3B-9698-743F7BE7E986,,"","","","1905",gcc-125016
+gcc-86222,A,Compositae,,Filago,,"leontopodium",,"","Pall.",Unresolved,,L,TICA,2D834486-FDCC-457D-A4E1-7A730ED5229A,207909-1,"""Reise, iii. 265.""","","iii. 265","",
+gcc-89904,A,Compositae,,Filago,,"leontopodium",,"","L.",Synonym,,M,TICA,EB8735C8-37D3-45CC-A76E-82CC8956C4BB,,"","","1312","1753",gcc-49185
+gcc-31432,A,Compositae,,Filago,,"libyaca",,"","(Alavi) Greuter",Accepted,,L,TICA,6622FC52-9B4E-4103-BFCA-3A3DDDC80A65,,"","","242","2003",
+gcc-98222,A,Compositae,,Filago,,"linearifolia",,"","(Pomel) Chrtek & Holub",Accepted,,M,TICA,0C71BA6B-AE20-4D90-B304-959ED4F800A3,207910-1,"","","3","1963",
+gcc-122723,A,Compositae,,Filago,,"lojaconoi",,"","(Brullo) Greuter",Accepted,,M,TICA,9E1682F7-8CF1-45C2-9713-CCA459916FBE,,"","","242","2003",
+gcc-144186,A,Compositae,,Filago,,"longifolia",,"","(Boiss. & Reut.) Myrzakulov",Unresolved,,L,TICA,80952C1A-DD40-4CAD-88C6-FD8A524E0802,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. Kazachst. v. 41 (1968), in obs.,basionymo non cit.""","","41","",
+gcc-95861,A,Compositae,,Filago,,"longilanata",,"","(Maire & Wilczek) Greuter",Accepted,,M,TICA,DF7A7598-B634-4EC1-835D-9050BE06C6B6,,"","","242","2003",
+gcc-111143,A,Compositae,,Filago,,"lusitanica",,"","(Samp.) P.Silva",Accepted,,M,TICA,CD76CD72-07BA-4E9F-ABEC-B2769C7122D5,207912-1,"","","199","1964",
+gcc-75827,A,Compositae,,Filago,,"lutescens",,"","Jord.",Accepted,,L,TICA,89DCE852-D7EE-4F37-B45D-63537EC23778,207913-1,"","","201","1846",
+gcc-53895,A,Compositae,,Filago,,"lutescens",subsp.,"atlantica","Wagenitz",Accepted,,L,TICA,A9869C57-F263-4C07-9CBE-69A3DBEC9661,,"","","56","1968",
+gcc-43049,A,Compositae,,Filago,,"lutescens",subsp.,"lutescens","",Synonym,,L,TICA,CF1A5C8B-3B77-4FAC-9F2C-4FBB47E458EF,,"","","","",gcc-75827
+gcc-133254,A,Compositae,,Filago,,"mareotica",,"","Delile",Accepted,,M,TICA,6BB1EE85-427C-456E-AA24-E51627DA2343,207914-1,"","","274","1813",
+gcc-59655,A,Compositae,,Filago,,"mareotica",subsp.,"clementei","(Willk.) Maire",Synonym,,L,TICA,87C6ADC3-6DE3-4CCB-98AD-982B0438D745,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","747","1934",gcc-108486
+gcc-23267,A,Compositae,,Filago,,"mareotica",subsp.,"floribunda","(Pomel) Täckh.",Synonym,,L,TICA,9AC18ECC-33F8-4242-8C20-2B112EBA3BFB,,"""Täckh., Stud. Fl. Egypt, ed. 2. 1974.""","","556","1974",gcc-133254
+gcc-68613,A,Compositae,,Filago,,"mareotica",var.,"floribunda","(Pomel) Maire",Synonym,,L,TICA,9DB312A3-39DB-4BC5-82AA-E00D4502DC18,,"","","","",gcc-133254
+gcc-153295,A,Compositae,,Filago,,"mareotica",var.,"mareotica","",Synonym,,L,TICA,AE4F75B2-D1DA-49AF-97B0-AB5501F86C9B,,"","","","",gcc-133254
+gcc-155688,A,Compositae,,Filago,,"mareotica",subsp.,"mareotica","",Synonym,,L,TICA,058F2CFF-A674-4C6A-A79D-DD8C90A87FAA,,"","","","",gcc-133254
+gcc-46638,A,Compositae,,Filago,,"mareotica",var.,"murcica","Maire",Synonym,,L,TICA,4C1A59A8-3DF4-4BE2-BA03-567158CB2393,,"Bull. Soc. Hist. Nat. Afrique N. 26: 209 (1935)","","209","1935",gcc-133254
+gcc-109459,A,Compositae,,Filago,,"maritima",,"","L.",Synonym,,M,TICA,DD194D3A-A1F7-4D56-B5C7-AEB5AA222B82,207915-1,"","","927","1753",gcc-41334
+gcc-91781,A,Compositae,,Filago,,"maritima",,"","Hill",Unresolved,Illegitimate,L,TICA,23F6E9C3-49E7-46B9-9EE2-8723DCC47199,,"The Vegetable System 3:","","141","",
+gcc-77844,A,Compositae,,Filago,,"mauritanica",,"","(Pomel) Dobignard",Accepted,,M,TICA,DAFB2FD0-2846-4B03-83E2-67C39375E2EF,77083833-1,"","","142","2007",
+gcc-19614,A,Compositae,,Filago,,"maurorum",,"","Jahand. & Maire",Synonym,,M,TICA,F0D12101-33E5-4B13-9D02-24418393EED9,207916-1,"","","117","1926",gcc-94251
+gcc-129906,A,Compositae,,Filago,,"microcephala",,"","Pomel",Synonym,,M,TICA,C46268C9-1823-42C8-903D-DD5BD3AD65A9,207917-1,"","","","1874",gcc-97502
+gcc-97502,A,Compositae,,Filago,,"micropodioides",,"","Lange",Accepted,,M,TICA,07A01035-03AF-4033-AF86-9403FE8F7645,207918-1,"","","71","1861",
+gcc-7905,A,Compositae,,Filago,,"minima",,"","(Sm.) Pers.",Accepted,,M,TICA,EE4D1189-5193-4982-9CE9-0EBA5FE99716,,"""Pers., Syn. Pl. 2. 1807.""","","422","1807",
+gcc-86703,A,Compositae,,Filago,,"minima",,"","Fr.",Unresolved,,L,TICA,9B78AB14-7902-4D64-97B9-7B81ABB05CCA,207920-1,"","","","1828",gcc-17741
+gcc-84898,A,Compositae,,Filago,,"minor",,"","Bubani",Synonym,,M,TICA,E28F0278-A5F6-4DC0-962C-777BBABCD2F3,,"","","","1899",gcc-17741
+gcc-34458,A,Compositae,,Filago,,"mixta",,"","Holuby",Synonym,,M,TICA,99FC68ED-3C5F-467D-BFC2-3FDFE34B6FC1,207922-1,"Oesterr. Bot. Z. 21","","262","1871",gcc-128943
+gcc-37376,A,Compositae,,Filago,,"montana",,"","DC.",Synonym,Illegitimate,M,TICA,900A9021-B05E-439D-A338-4545C0933642,207924-1,"","","248","1838",gcc-17741
+gcc-52335,A,Compositae,,Filago,,"montana",,"","L.",Synonym,,M,TICA,57D735AC-FB15-4119-A16A-610C34423FB5,,"","","","1753",gcc-86072
+gcc-28088,A,Compositae,,Filago,,"mucronata",,"","(Pomel) Chrtek & Holub",Accepted,,M,TICA,A04562F1-2140-4A20-B095-33DF96B1449D,207925-1,"","","3","1963",
+gcc-126683,A,Compositae,,Filago,,"multicaulis",,"","Lam.",Synonym,,M,TICA,7F1E1A18-7DB6-4055-B696-D5DA8568FBC0,,"","","","",gcc-125016
+gcc-130745,A,Compositae,,Filago,,"multicaulis",,"","(DC.) A.Heller",Synonym,Illegitimate,M,TICA,8CDB4440-E9C4-44DA-852B-DF43EE06257A,,"","","","1895",gcc-123381
+gcc-36213,A,Compositae,,Filago,,"murcica",,"","Guirão ex Maire",Unresolved,,L,TICA,7244046B-64B2-4127-BEEF-4328889B2E37,,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1935, xxvi. 209, in syn.""","","209","",
+gcc-104679,A,Compositae,,Filago,,"neglecta",,"","(Soy.-Will.) DC.",Accepted,,M,TICA,1D8291BA-94C8-4039-A21E-A3FC089DA56C,207929-1,"","","248","1838",
+gcc-119133,A,Compositae,,Filago,,"nevadensis",,"","(Boiss.) Wagenitz & Greuter",Accepted,,M,TICA,28CFCEE6-697A-4B67-9B6C-C482BADE8342,,"","","242","2003",
+gcc-121942,A,Compositae,,Filago,,"nivea",,"","Small",Synonym,,M,TICA,2D26A2CC-6A6E-47D1-83BD-CAE7F85F112A,296217-2,"Bull. Torrey Bot. Club 24","","333","1897",gcc-128053
+gcc-137314,A,Compositae,,Filago,,"numidica",,"","Pomel",Synonym,,M,TICA,D299259F-14B7-4FBC-9D90-EE324FB7F989,207931-1,"Bull. Soc. Bot. France 35","","336","1888",gcc-134407
+gcc-141707,A,Compositae,,Filago,,"nuttallii",,"","Shinners",Synonym,,M,TICA,D028864A-AF67-475F-8FB2-F7FDD4B296B3,296216-2,"Sida 1","","253","1964",gcc-16653
+gcc-117597,A,Compositae,,Filago,,"obovata",,"","Pomel",Synonym,,M,TICA,AEEE13E0-12D1-468B-B568-C108091E801A,207933-1,"","","45","1874",gcc-134407
+gcc-84606,A,Compositae,,Filago,,"palaestina",,"","(Boiss.) Chrtek & Holub",Accepted,,M,TICA,ED74130E-A0AA-41AB-941B-76E694897896,207934-1,"","","3","1963",
+gcc-9849,A,Compositae,,Filago,,"paniculata",,"","Gilib.",Synonym,Invalid,M,TICA,C222B78A-0161-4477-A38A-1264DD0F1EC2,,"","","","1782",gcc-86072
+gcc-93734,A,Compositae,,Filago,,"paradoxa",,"","Wagenitz",Accepted,,M,TICA,9AB26098-45F9-49AE-8407-8B579137BC02,207936-1,"Willdenowia 5","","429","1969",
+gcc-104140,A,Compositae,,Filago,,"parvula",,"","Torr. & A.Gray",Synonym,Illegitimate,M,TICA,A26230DE-ECDF-4597-AB9E-A2D86FBB8CEE,207937-1,"","","432","1843",gcc-11367
+gcc-122475,A,Compositae,,Filago,,"perpusilla",,"","(Boiss. & Heldr.) Chrtek & Holub",Accepted,,M,TICA,08895C7B-C56C-4233-BA7E-CC1B7B1BC41F,207938-1,"","","3","1963",
+gcc-126525,A,Compositae,,Filago,,"pertomentosa",,"","Ghahrem.-Nejad & Akhundz.",Unresolved,,L,TICA,11EE34C9-7693-4DD2-9037-D5875419B478,77073361-1,"Ann. Bot. Fenn. 43(1): 74 (-76; figs. 1-2)","","74 (-76; figs. 1-2)","2006",
+gcc-103909,A,Compositae,,Filago,,"petro-ianii",,"","Rita & Dittrich",Accepted,,M,TICA,BA6D1F6B-540E-4D9D-AEE3-A252D97379D7,937978-1,"","","1","1989",
+gcc-7427,A,Compositae,,Filago,,"pilularis",,"","Link",Synonym,,M,TICA,D5974D08-9A78-48CE-A0D4-0DCD82783F27,,"","","","1829",gcc-32241
+gcc-106631,A,Compositae,,Filago,,"polycephala",,"","(Pomel) Wagenitz",Synonym,,M,TICA,7FEA6D3A-57C8-46B3-AC26-A83F725B911E,207940-1,"","","337","1966",gcc-23071
+gcc-2088,A,Compositae,,Filago,,"pomelii",,"","Batt.",Synonym,,M,TICA,16ABB995-ACEF-4D82-94A1-03C04F9B75CC,207941-1,"","","442","1889",gcc-97502
+gcc-125774,A,Compositae,,Filago,,"prolifera",,"","(Nutt. ex DC.) Britton",Synonym,Illegitimate,M,TICA,3BA7E46C-E870-48C5-88F7-D3CE637AC623,104786-2,"Mem. Torrey Bot. Club 5","","329","1894",gcc-16653
+gcc-27349,A,Compositae,,Filago,,"prolifera",,"","Pomel",Accepted,,M,TICA,CCA0BA53-B88D-45AA-BAC2-32949A639401,207942-1,"","","47","1874",
+gcc-138300,A,Compositae,,Filago,,"prostrata",,"","Parl.",Synonym,,M,TICA,4350B882-E726-4143-9C6D-F049548A3856,207944-1,"","","11","1842",gcc-134407
+gcc-8599,A,Compositae,,Filago,,"prostrata",,"","DC.",Synonym,,M,TICA,6FFD1045-8C7F-47A5-96AF-100CF3125A08,207945-1,"","","22","1834",gcc-18200
+gcc-104503,A,Compositae,,Filago,,"pseudo-evax",,"","Sennen",Synonym,Illegitimate,M,TICA,237BA899-0A07-46E9-8F27-A3A4625F1A90,,"","","","1929",gcc-23071
+gcc-142115,A,Compositae,,Filago,,"pseudoevax",,"","Rouy",Synonym,,M,TICA,6176BED3-A22C-4EE3-9EEC-F8EE26EE1A8A,,"","","233","1883",gcc-134407
+gcc-115267,A,Compositae,,Filago,,"psilantha",,"","(Pomel) Chrtek & Holub",Accepted,,M,TICA,A6C978E2-2FAF-4971-985E-BBC3A7F789C4,207948-1,"","","3","1963",
+gcc-15004,A,Compositae,,Filago,,"pygmaea",,"","L.",Accepted,,M,TICA,7B8FD5D0-51FD-40C4-BBA3-1BC746187317,207949-1,"","","927","1753",
+gcc-95618,A,Compositae,,Filago,,"pygmaea",,"","Cav.",Unresolved,,L,TICA,6A3C6DBC-7A88-43DA-8B85-8FC23D15F16F,207950-1,"Ic. i. 23. t. 36.","","i. 23. t. 36","",
+gcc-65005,A,Compositae,,Filago,,"pygmaea",subsp.,"gaditana","(Pau) Dobignard",Synonym,,L,TICA,F5F05F6B-D3D7-488B-B29D-C3002A955B84,77065633-1,"J. Bot. Soc. Bot. France 28","","11","2004",gcc-15004
+gcc-54751,A,Compositae,,Filago,,"pygmaea",subsp.,"pygmaea","",Synonym,,L,TICA,3347D1DD-48F4-42EE-97A0-709270087280,,"","","","",gcc-15004
+gcc-41574,A,Compositae,,Filago,,"pygmaea",subsp.,"ramosissima","(Mariz) R.Fern. & I.Nogueira",Accepted,,L,TICA,6F595B04-F83B-4A47-9324-4CFC60E2A91E,,"""R. Fern. & I. Nogueira in Bol. Soc. Brot., ser. 2 45. 1971.""","","323","1971",
+gcc-134407,A,Compositae,,Filago,,"pyramidata",,"","L.",Accepted,,M,TICA,394841AB-0857-4614-BDC7-E7BF9EE24565,207952-1,"Sp. Pl.","","1199","1753",
+gcc-17745,A,Compositae,,Filago,,"pyramidata",,"","C.A.Mey.",Unresolved,,L,TICA,10385738-2A28-4BBC-8732-20C133AC9671,207953-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 78","","78","1831",
+gcc-76962,A,Compositae,,Filago,,"pyramidata",,"","Vill.",Unresolved,,L,TICA,57A1A985-69D5-4D26-BB77-65C9CF6282F8,207951-1,"Hist. Pl. Dauphiné (Villars) 3(1): 194","","194","1788",
+gcc-13766,A,Compositae,,Filago,,"pyramidata",var.,"atlantica","(Wagenitz) O.Bolòs & Vigo",Synonym,,L,TICA,D8FC2519-62FE-43BE-B443-199AC5D3088E,922129-1,"","","103","1983",gcc-53895
+gcc-70580,A,Compositae,,Filago,,"pyramidata",subsp.,"canescens","O.Bolòs & Vigo",Synonym,,L,TICA,22258A5C-FBB6-4C4D-8579-EF2F0C18825C,922130-1,"","","103","1983",gcc-134407
+gcc-68855,A,Compositae,,Filago,,"pyramidata",subsp.,"eriocephala","O.Bolòs & Vigo",Synonym,,L,TICA,F4537BC7-870F-43D3-895B-E1FFC2A4E588,922131-1,"","","103","1983",gcc-28371
+gcc-7606,A,Compositae,,Filago,,"pyramidata",subsp.,"fuscescens","(Pomel) O.Bolòs & Vigo",Synonym,,L,TICA,4B16716C-EFAF-43AD-ACB9-0E1DBDADBA81,922132-1,"","","103","1983",gcc-81168
+gcc-34709,A,Compositae,,Filago,,"pyramidata",var.,"lutescens","O.Bolòs & Vigo",Synonym,,L,TICA,CDC564C5-AE00-46B0-93C4-405D031D136F,922134-1,"","","103","1983",gcc-75827
+gcc-4496,A,Compositae,,Filago,,"pyramidata",subsp.,"lutescens","(Jord.) O.Bolòs & Vigo",Synonym,,L,TICA,97E6B2D5-80C7-475D-97D7-085B566399C0,922133-1,"O. Bolòs & Vigo in Collect. Bot. (Barcelona) 14. 1983.","","103","1983",gcc-75827
+gcc-1925,A,Compositae,,Filago,,"pyramidata",var.,"obovata","(Pomel) Wagenitz",Synonym,,L,TICA,52D93970-26E2-48D4-B13D-03793E60CEF2,,"","","","",gcc-134407
+gcc-68953,A,Compositae,,Filago,,"pyramidata",var.,"prostrata","(Fiori) Wagenitz",Synonym,,L,TICA,BF140812-18E2-459A-9255-E2A6ACBC25EC,,"","","","",gcc-134407
+gcc-55091,A,Compositae,,Filago,,"pyramidata",var.,"pyramidata","",Synonym,,L,TICA,77B6A88C-57F2-4B1E-B5C4-7328ADB48DA9,,"","","","",gcc-134407
+gcc-70655,A,Compositae,,Filago,,"pyramidata",subsp.,"pyramidata","",Synonym,,L,TICA,361F5BF1-D377-4DE4-9693-EFC208ECBA63,,"","","","",gcc-134407
+gcc-94251,A,Compositae,,Filago,,"ramosissima",,"","Lange",Accepted,,M,TICA,52AB8A14-2A84-49C3-9085-8C8F8CC6DBE8,207954-1,"","","24","1855",
+gcc-14885,A,Compositae,,Filago,,"ramosissima",var.,"maurorum","(Jahand. & Maire) Maire",Synonym,,L,TICA,3B7A4708-0F2A-4856-A8ED-1B936EF5B149,,"","","","",gcc-94251
+gcc-152330,A,Compositae,,Filago,,"ramosissima",var.,"ramosissima","",Synonym,,L,TICA,F7ACB059-FBE8-4A53-AF50-9727519ABD54,,"","","","",gcc-94251
+gcc-122795,A,Compositae,,Filago,,"recta",,"","Link",Synonym,,M,TICA,2340A596-7D01-45C7-9068-CCD0A5EAA0D3,,"","","","1829",gcc-118271
+gcc-140929,A,Compositae,,Filago,,"repens",,"","Scheele",Accepted,,M,TICA,4F86FC12-7E00-4F9E-AE79-F6333EAABBE1,,"Linnaea 22","","","1849",
+gcc-144279,A,Compositae,,Filago,,"robusta",,"","Pomel",Synonym,,M,TICA,91E914EC-F266-4360-A4F7-FDBC936974BD,207957-1,"","","45","1874",gcc-134407
+gcc-46441,A,Compositae,,Filago,,"rotundata",,"","Moench",Synonym,,M,TICA,C5860781-3709-4EA6-B9FC-5612D23F8219,207958-1,"","","577","1794",gcc-134407
+gcc-23641,A,Compositae,,Filago,,"sahariensis",,"","Chrtek & Holub",Accepted,,M,TICA,145996F1-0DA3-4800-A57B-2BB70413003E,207959-1,"","","3","1963",
+gcc-133347,A,Compositae,,Filago,,"schultzeana",,"","P.Fourn.",Unresolved,,L,TICA,7F524A1B-B915-4E0D-A10F-E54D2DAE8994,207960-1,"","","","1928",
+gcc-134763,A,Compositae,,Filago,,"serrae",,"","Sennen",Unresolved,,L,TICA,092F9C08-7822-4F35-AC71-E87FC13A3ADC,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-16444,A,Compositae,,Filago,,"similata",,"","Hausskn.",Unresolved,,L,TICA,B3BE6447-FAF2-45A8-827C-1E62AF2D63DB,,"""Consp. Fl. Eur., Suppl.: 173 (1889)""","","","1889",
+gcc-93090,A,Compositae,,Filago,,"spathulata",,"","C.Presl",Synonym,,M,TICA,1BB8F67F-4269-4872-A255-8A0116A1493D,207963-1,"Delic. Prag.: 99 (1822)","","99","1822",gcc-134407
+gcc-45286,A,Compositae,,Filago,,"spathulata",var.,"alexandrina","Bornm.",Synonym,,L,TICA,237350B2-BB5B-4842-B76E-53EC11AB1FC8,,"Repert. Spec. Nov. Regni Veg. 18: 41 (1922)","","41","1922",gcc-23186
+gcc-57900,A,Compositae,,Filago,,"spathulata",var.,"desertorum","(Pomel) Batt.",Synonym,,L,TICA,6B3F4D96-AC71-47CB-95A7-8A3AF493EDE2,,"Flore d'Alger Dicot.:","","441","1889",gcc-23186
+gcc-67589,A,Compositae,,Filago,,"spathulata",var.,"erecta","Batt.",Synonym,,L,TICA,5DD6B41A-C78E-4DBE-A295-D85E09AF4479,,"","","","",gcc-134407
+gcc-71547,A,Compositae,,Filago,,"spathulata",var.,"microcephala","(Pomel) Batt.",Synonym,,L,TICA,2BF53184-03D5-432F-8E67-F709B0A7EB06,,"","","","",gcc-134407
+gcc-64659,A,Compositae,,Filago,,"spathulata",subsp.,"micropodioides","(Lange) Murb.",Synonym,,L,TICA,AEF2F968-363B-4AFC-9201-C031D0AD9633,,"""Murb. in Acta Univ. Lund., sect. 2 33(12). 1897.""","","95","1897",gcc-97502
+gcc-71820,A,Compositae,,Filago,,"spathulata",subsp.,"micropodioides","(Lange) Batt.",Synonym,,L,TICA,E90C3B3B-3065-420D-B313-F90733A6F799,,"","","","",gcc-97502
+gcc-9702,A,Compositae,,Filago,,"spathulata",var.,"micropodioides","(Lange) Murb.",Synonym,,L,TICA,54C618DC-6687-4E03-A473-12206E4E07E0,,"","","","",gcc-97502
+gcc-56568,A,Compositae,,Filago,,"spathulata",var.,"oasicola","Hochr.",Synonym,,L,TICA,980E1D03-CC32-4EF3-A1CD-7F8DF197B5B6,,"","","","",gcc-134407
+gcc-44602,A,Compositae,,Filago,,"spathulata",var.,"prostrata","Heldr.",Synonym,,L,TICA,4FCBE3D3-932F-457B-AE1E-52A173D80E30,,"","","","",gcc-134407
+gcc-69961,A,Compositae,,Filago,,"spathulata",var.,"prostrata","(Boiss.) Batt.",Synonym,,L,TICA,DE33F92D-89F3-4614-9743-EA5D76D85100,,"","","","",gcc-134407
+gcc-30848,A,Compositae,,Filago,,"spathulata",var.,"robusta","(Pomel) Batt.",Synonym,,L,TICA,A90C6A0D-9261-4530-A560-391E4BFDF9E4,,"","","","",gcc-134407
+gcc-63336,A,Compositae,,Filago,,"spathulata",var.,"siria","Halácsy",Synonym,,L,TICA,383A8226-0182-4EB4-867C-B60A680CC8E4,,"Consp. Fl. Graec. 2: 35 (1902)","","35","1902",gcc-92947
+gcc-146370,A,Compositae,,Filago,,"spathulata",subsp.,"spathulata","",Synonym,,L,TICA,3A1E0A32-3E75-4D62-BEEB-172B77B3CA92,,"","","","",gcc-134407
+gcc-156166,A,Compositae,,Filago,,"spathulata",var.,"spathulata","",Synonym,,L,TICA,4E58B6CB-54A4-4CA5-9955-E7DBD109C3F6,,"","","","",gcc-134407
+gcc-95422,A,Compositae,,Filago,,"stellata",,"","Lam.",Synonym,,M,TICA,C4345FC4-1186-4C65-8BB1-8F49F805DF94,,"","","","1779",gcc-49185
+gcc-26469,A,Compositae,,Filago,,"subspicata",,"","Boreau",Synonym,,M,TICA,0A7CA1B5-47ED-4C63-8DE2-30EA7F48FFFB,207965-1,"","","1057","1849",gcc-134407
+gcc-114467,A,Compositae,,Filago,,"supina",,"","(L.) Myrzakulov",Unresolved,,L,TICA,5A4F6CFC-45C9-40F9-824A-B9EAA53C9B57,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. Kazachst. v. 41 (1968), in obs.,basionymo non cit.""","","""v. 41 , in obs.,basionymo non cit.""","1968",
+gcc-82941,A,Compositae,,Filago,,"supina",,"","(L.) Lam.",Synonym,,M,TICA,7A84B73F-A2CA-4B00-A601-732FA5FE95BE,,"","","","1779",gcc-139014
+gcc-30656,A,Compositae,,Filago,,"sylvatica",,"","Link",Synonym,,M,TICA,70861AE8-57A1-4D2C-9AED-38C0AB5739EA,,"","","","1829",gcc-118271
+gcc-103036,A,Compositae,,Filago,,"tenuifolia",,"","C.Presl",Synonym,,M,TICA,E3816DB9-542F-494D-BDDB-A068FEC4D94A,207969-1,"","","101","1822",gcc-116641
+gcc-46683,A,Compositae,,Filago,,"texana",,"","Scheele",Accepted,,M,TICA,EA7B8E80-DE14-44DA-8DBC-5687E22719FB,,"Linnaea 22","","","1849",
+gcc-112801,A,Compositae,,Filago,,"tyrrhenica",,"","Chrtek & Holub",Accepted,,M,TICA,BF1BB6F3-AD62-47EE-830E-B642B78688B4,207971-1,"","","3","1963",
+gcc-79256,A,Compositae,,Filago,,"tyrrhenica",,"","Chrtek & Holub ex Soldano & F.Conti",Unresolved,Illegitimate,L,TICA,B72DB432-1234-434A-889B-6B077E56288F,77070249-1,"Annot. Checkl. Italian Vasc. Fl. 18. 2005 [May 2005]","","18","2005",
+gcc-126794,A,Compositae,,Filago,,"uliginosa",,"","Link",Synonym,,M,TICA,660DE979-FEAC-4BA1-B439-D6206D575D9A,,"","","","1829",gcc-118271
+gcc-116593,A,Compositae,,Filago,,"verna",,"","(Raf.) Shinners",Synonym,,M,TICA,271705A3-F4BC-4D85-909C-BEC1D476E4FE,104787-2,"Sida 1","","253","1964",gcc-128053
+gcc-1522,A,Compositae,,Filago,,"verna",var.,"drummondii","(Torr. & A.Gray) Shinners",Synonym,,L,TICA,2A61E262-8EBE-4ED9-9296-02C25CD918CA,104788-2,"Sida 1","","253","1964",gcc-72274
+gcc-157109,A,Compositae,,Filago,,"verna",var.,"verna","",Synonym,,L,TICA,01F5E0FE-4066-4AA7-971D-FB0C91C426A1,,"","","","",gcc-128053
+gcc-91028,A,Compositae,,Filago,,"vulgaris",,"","Lam.",Synonym,,M,TICA,0F119777-8BA8-4607-B193-8565210A0EDF,207974-1,"","","61","1779",gcc-20670
+gcc-48003,A,Compositae,,Filago,,"vulgaris",var.,"abyssinica","(Sch.Bip. ex A.Rich.) Cufod.",Synonym,,L,TICA,0CD42FCE-74E7-4BC4-9010-58F0624A93F1,,"","","","1966",gcc-45900
+gcc-148020,A,Compositae,,Filago,,"vulgaris",var.,"vulgaris","",Synonym,,L,TICA,4797CC9A-85B1-4A6D-B6A7-3A22FF7CC158,,"","","","",gcc-20670
+gcc-151830,A,Compositae,,Filago,,"vulgaris",subsp.,"vulgaris","",Synonym,,L,TICA,BA4D6115-58D7-4D4B-89D2-8D189C07D065,,"","","","",gcc-20670

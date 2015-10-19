@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-106636,A,Compositae,,Telanthophora,,"andrieuxii",,"","(DC.) H.Rob. & Brettell",Synonym,,M,TICA,C3B38864-1AC7-45BF-A2A5-A844333FCABC,250042-2,"Phytologia 27(6)","","426","1974",gcc-99781
+gcc-14236,A,Compositae,,Telanthophora,,"arborescens",,"","(Steetz) H.Rob. & Brettell",Accepted,,M,TICA,418294EA-100D-4BE3-9C03-1A690BFAE7BA,250043-2,"Phytologia 27(6)","","426","1974",
+gcc-143028,A,Compositae,,Telanthophora,,"bartlettii",,"","H.Rob. & Brettell",Accepted,,M,TICA,71B77E78-9842-49F5-BF2C-FAF7667174F4,288906-2,"Phytologia 27(6)","","426","1974",
+gcc-78419,A,Compositae,,Telanthophora,,"chicharrensis",,"","(Greenm.) H.Rob. & Brettell",Synonym,,M,TICA,9D309388-47D6-4BF0-99FE-691AF8E743A3,250044-2,"Phytologia 27(6)","","426","1974",gcc-14236
+gcc-102056,A,Compositae,,Telanthophora,,"cobanensis",,"","(J.M.Coult.) H.Rob. & Brettell",Synonym,,M,TICA,C67E7E98-A9D1-4C81-A8D4-9E30831FAC89,250045-2,"Phytologia 27(6)","","427","1974",gcc-24719
+gcc-50890,A,Compositae,,Telanthophora,,"cobanensis",var.,"molinae","(H.Rob. & Brettell) B.L.Clark",Synonym,,L,TICA,54B2B565-F6F8-4CA3-80F5-5E66FE0A877E,1018916-1,"Sida 19(2)","","236","2000",gcc-24719
+gcc-76160,A,Compositae,,Telanthophora,,"copeyensis",,"","(Greenm.) H.Rob. & Brettell",Unresolved,,L,TICA,DA317068-FA85-473F-A1B1-640A04D3FFFF,250046-2,"Phytologia 27(6)","","427","1974",gcc-111650
+gcc-11591,A,Compositae,,Telanthophora,,"grandifolia",,"","(Less.) H.Rob. & Brettell",Accepted,,M,TICA,D91A9996-3A0D-433B-9BA5-159BBDB8F783,250047-2,"Phytologia 27(6)","","427","1974",
+gcc-60900,A,Compositae,,Telanthophora,,"grandifolia",var.,"grandifolia","",Synonym,,L,TICA,12106399-E67E-4E1D-8809-A23391948959,,"","","","",gcc-11591
+gcc-1106,A,Compositae,,Telanthophora,,"guerkei",,"","(Hieron.) C.Jeffrey",Unresolved,,L,TICA,DFB44537-1CF8-48F4-AA11-02077FDD7D4B,963497-1,"Kew Bull. 47(1): 54 (1992):","","54","1992",gcc-126534
+gcc-19693,A,Compositae,,Telanthophora,,"guerkei",,"","Hieron.",Unresolved,,L,TICA,F4B57534-6492-4D2A-AE9C-246B631B5467,,"Kew Bull. 47: 54. 1992","","54","1992",
+gcc-83705,A,Compositae,,Telanthophora,,"jaliscana",,"","H.Rob. & Brettell",Unresolved,,L,TICA,742D350E-8247-401B-977F-74DDF859DD5F,250048-2,"","","427","1974",
+gcc-77076,A,Compositae,,Telanthophora,,"liebmannii",,"","(Buchinger ex Klatt) H.Rob. & Brettell",Unresolved,,L,TICA,0F2A6C0B-8201-49AD-AB95-660E55023BAE,250049-2,"","","427","1974",gcc-117076
+gcc-90104,A,Compositae,,Telanthophora,,"molinae",,"","H.Rob. & Brettell",Synonym,,M,TICA,08EE625A-2A6B-42B1-8BF6-8334650D6C27,250050-2,"Phytologia 27(6)","","428","1974",gcc-24719
+gcc-13909,A,Compositae,,Telanthophora,,"orcuttii",,"","(Greenm.) H.Rob. & Brettell",Synonym,,M,TICA,BE1D2252-DD9B-4E7D-BC78-19D76031D0BA,250051-2,"","","428","1974",gcc-26048
+gcc-84193,A,Compositae,,Telanthophora,,"serraquitchensis",,"","(Greenm.) H.Rob. & Brettell",Accepted,,M,TICA,C870D637-916C-488D-A58D-7600BF9CB5E6,250052-2,"Phytologia 27(6)","","428","1974",
+gcc-108613,A,Compositae,,Telanthophora,,"standleyi",,"","(Greenm.) H.Rob. & Brettell",Unresolved,,L,TICA,4AAE62E6-5071-4708-BD78-ACA933D22465,250053-2,"","","428","1974",gcc-24338
+gcc-121592,A,Compositae,,Telanthophora,,"sublaciniatus",,"","(Greenm.) B.L.Clark",Synonym,,M,TICA,A7E4D4C7-E2F2-4B55-AC9F-CA1FD463F40B,1018918-1,"Sida 19(2)","","236","2000",gcc-24719
+gcc-21943,A,Compositae,,Telanthophora,,"uspantanensis",,"","(J.M.Coult.) H.Rob. & Brettell",Synonym,,M,TICA,E419875D-8A3E-4A30-81BD-2898F6EC59DA,250054-2,"Phytologia 27(6)","","428","1974",gcc-108611

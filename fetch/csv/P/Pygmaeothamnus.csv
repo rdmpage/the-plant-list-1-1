@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-171246,A,Rubiaceae,,Pygmaeothamnus,,"chamaedendrum",,"","(Kuntze) Robyns",Accepted,,H,WCSP,171246,763884-1,"Bull. Jard. Bot. État","11: 35","","1928",
+kew-171247,A,Rubiaceae,,Pygmaeothamnus,,"chamaedendrum",var.,"chamaedendrum","",Synonym,,L,WCSP,171247,,"Unknown","","","",kew-171246
+kew-171248,A,Rubiaceae,,Pygmaeothamnus,,"chamaedendrum",var.,"setulosus","Robyns",Accepted,,L,WCSP,171248,,"Bull. Jard. Bot. État","11: 35","","1928",
+kew-171249,A,Rubiaceae,,Pygmaeothamnus,,"concrescens",,"","Bullock",Synonym,,H,WCSP,171249,,"Bull. Misc. Inform. Kew","1933: 471","","1933",kew-130261
+kew-171250,A,Rubiaceae,,Pygmaeothamnus,,"longipes",,"","Robyns",Synonym,,H,WCSP,171250,763886-1,"Bull. Jard. Bot. État","11: 37","","1928",kew-171248
+kew-171251,A,Rubiaceae,,Pygmaeothamnus,,"pilosus",,"","Robyns",Synonym,,H,WCSP,171251,763887-1,"Bull. Jard. Bot. État","11: 36","","1928",kew-171248
+kew-171252,A,Rubiaceae,,Pygmaeothamnus,,"zeyheri",,"","(Sond.) Robyns",Accepted,,H,WCSP,171252,,"Bull. Jard. Bot. État","11: 30","","1928",
+kew-171253,A,Rubiaceae,,Pygmaeothamnus,,"zeyheri",var.,"livingstonianus","(S.Moore) Robyns",Synonym,,L,WCSP,171253,,"Bull. Jard. Bot. État","11: 34","","1928",kew-171255
+kew-171254,A,Rubiaceae,,Pygmaeothamnus,,"zeyheri",var.,"oatesii","(Rolfe) Robyns",Synonym,,L,WCSP,171254,,"Bull. Jard. Bot. État","11: 31","","1928",kew-171252
+kew-171255,A,Rubiaceae,,Pygmaeothamnus,,"zeyheri",var.,"rogersii","Robyns",Accepted,,L,WCSP,171255,,"Bull. Jard. Bot. État","11: 34","","1928",
+kew-171256,A,Rubiaceae,,Pygmaeothamnus,,"zeyheri",var.,"zeyheri","",Synonym,,L,WCSP,171256,,"Unknown","","","",kew-171252

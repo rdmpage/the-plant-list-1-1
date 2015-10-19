@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-51740,A,Compositae,,Catananche,,"arenaria",,"","Coss. & Durieu",Accepted,,M,TICA,4801CE53-FA81-4DE8-8667-5FEB5FE9B539,189607-1,"Bull. Soc. Bot. France 2","","253","1855",
+gcc-146221,A,Compositae,,Catananche,,"arenaria",var.,"arenaria","",Synonym,,L,TICA,8EBAFF0B-E210-4284-AC94-14209A5E985C,,"","","","",gcc-51740
+gcc-66196,A,Compositae,,Catananche,,"arenaria",var.,"atricha","Murb.",Synonym,,L,TICA,D8FFE765-CC1A-4D4D-BE46-CCC87A96F7B6,,"","","","",gcc-51740
+gcc-57838,A,Compositae,,Catananche,,"arenaria",var.,"aurea","Maire",Synonym,,L,TICA,34A54B49-6180-45F3-8494-89AF5054DD71,,"","","","",gcc-51740
+gcc-31989,A,Compositae,,Catananche,,"arenaria",var.,"dimorpha","Dobignard",Synonym,,L,TICA,3F4C8122-9129-4182-99F8-3B3F8736BD6D,950904-1,"","","118","1989",gcc-51740
+gcc-13313,A,Compositae,,Catananche,,"bicolor",,"","Hort.",Unresolved,,L,TICA,D3336093-FAB8-4C17-95DA-18D19A1063CB,189608-1,"""Vilm. Blumengärtn., ed. 3. 1: 556, in syn.""","","556","1894",
+gcc-15386,A,Compositae,,Catananche,,"caerulea",,"","Georgi",Unresolved,,L,TICA,B7C4394E-F06D-4B26-8D24-1C7D4CE284ED,,"Beschr. Nation. Russ. Reich iii. IV. 1217","","1217","",
+gcc-9023,A,Compositae,,Catananche,,"caerulea",,"","L.",Accepted,,M,TICA,39DED212-B541-46D9-8A29-10E23D5C488E,189609-1,"Sp. Pl.","","812","1753",
+gcc-156503,A,Compositae,,Catananche,,"caerulea",var.,"caerulea","",Synonym,,L,TICA,35E371EA-E1B5-4979-885A-EE80B9C61EDC,,"","","","",gcc-9023
+gcc-55849,A,Compositae,,Catananche,,"caerulea",var.,"ochroleuca","Maire",Synonym,,L,TICA,F22E763A-7C65-4687-B435-797AEB982619,,"","","","",gcc-9023
+gcc-40166,A,Compositae,,Catananche,,"caerulea",var.,"propinqua","(Pomel) Hochr.",Synonym,,L,TICA,193C42B0-D102-4008-978E-4A7C8B74302F,,"","","","",gcc-9023
+gcc-65093,A,Compositae,,Catananche,,"caerulea",var.,"tenuis","Ball",Synonym,,L,TICA,B43D069A-37EC-4D79-9AA5-C3D684F60389,,"","","","",gcc-9023
+gcc-62475,A,Compositae,,Catananche,,"caerulea",var.,"tlemcenensis","Faure",Synonym,,L,TICA,0E76D270-D6E2-4B49-8150-AEFBF69A6A8E,,"","","","",gcc-9023
+gcc-125548,A,Compositae,,Catananche,,"caespitosa",,"","Desf.",Accepted,,M,TICA,9AB073A9-22F9-43B7-A824-D34D7E0DD711,189611-1,"","","238","1799",
+gcc-24011,A,Compositae,,Catananche,,"carpholepis",,"","Nyman",Unresolved,,L,TICA,C9E94EE4-9119-4225-9C2D-2C5DFFF90FAD,,"Consp. 472.","","472","",
+gcc-10417,A,Compositae,,Catananche,,"graeca",,"","Bory & Chaub.",Synonym,,M,TICA,2FFC1042-8FB5-4729-9A78-137279AD651B,189613-1,"","","55","1838",gcc-8048
+gcc-107539,A,Compositae,,Catananche,,"graeca",,"","L.",Synonym,,M,TICA,D559E46C-D0FA-4588-AE2E-AA45ED7DAB71,189614-1,"","","813","1753",gcc-120775
+gcc-11837,A,Compositae,,Catananche,,"lutea",,"","L.",Accepted,,M,TICA,8963C96B-060A-4E0D-A203-160E630AC47F,189615-1,"","","812","1753",
+gcc-64143,A,Compositae,,Catananche,,"lutea",subsp.,"carpholepis","(Sch.Bip.) Nyman",Synonym,,L,TICA,AF37A5AC-0CFA-496B-AB3A-BC32033965F9,,"","","472","1879",gcc-11837
+gcc-150649,A,Compositae,,Catananche,,"lutea",subsp.,"lutea","",Synonym,,L,TICA,51A22513-73E3-4B11-8ABD-733F8CCA8AAD,,"","","","",gcc-11837
+gcc-124172,A,Compositae,,Catananche,,"montana",,"","Coss. & Durieu",Accepted,,M,TICA,2A85ED9D-688A-4966-9240-D0122B11BF09,,"Bull. Soc. Bot. France 3","","743","1857",
+gcc-129045,A,Compositae,,Catananche,,"oporinoides",,"","Boiss. ex Froelich",Unresolved,,L,TICA,065334FD-427F-4D48-99E7-DB617F48C74D,,"","","","",
+gcc-11020,A,Compositae,,Catananche,,"propinqua",,"","Pomel",Synonym,,M,TICA,0C69A18B-94C0-4DB7-AA2C-149A0B287DB8,189617-1,"","","19","1874",gcc-9023
+gcc-29803,A,Compositae,,Catananche,,"webbii",,"","Sch.Bip.",Synonym,Invalid,M,TICA,13D3A57C-80C0-4939-9602-371BCD879905,189618-1,"","","369","1860",gcc-124172

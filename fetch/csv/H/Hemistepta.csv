@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23723,A,Compositae,,Hemistepta,,"bella",,"","Lipsch.",Unresolved,,L,TICA,4B76FD63-74BC-4651-8FAE-2BDBED7A5658,,"""in Bull. Soc. Nat. Mosc., Biol. n. s., lix. Livr. 6, 83""","","83","1954",
+gcc-141277,A,Compositae,,Hemistepta,,"lyrata",,"","(Bunge) Bunge",Accepted,,M,TICA,4AFE154C-67F6-432F-8317-F705B23FE1C8,,"in Dorp. Jahrb. Litt. i. (1833) 222.","","","1833",
+gcc-149380,A,Compositae,,Hemistepta,,"lyrata",f.,"lyrata","",Synonym,,L,TICA,3112E125-30EC-4219-8954-577C6C27668D,,"","","","",gcc-141277

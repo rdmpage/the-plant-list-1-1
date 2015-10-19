@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-96254,A,Lamiaceae,,Haplostachys,,"bryanii",,"","Sherff",Accepted,,H,WCSP,96254,447554-1,"Amer. J. Bot.","21: 698","","1934",
+kew-96255,A,Lamiaceae,,Haplostachys,,"bryanii",var.,"microdonta","Sherff",Synonym,,L,WCSP,96255,,"Amer. J. Bot.","21: 698","","1934",kew-96254
+kew-96256,A,Lamiaceae,,Haplostachys,,"bryanii",var.,"robusta","Sherff",Synonym,,L,WCSP,96256,,"Amer. J. Bot.","21: 698","","1934",kew-96254
+kew-96257,A,Lamiaceae,,Haplostachys,,"grayana",,"","Hillebr.",Synonym,Illegitimate,H,WCSP,96257,447555-1,"Fl. Hawaiian Isl.","346","","1888",kew-96260
+kew-96258,A,Lamiaceae,,Haplostachys,,"grayana",var.,"angustifolia","Sherff",Synonym,,L,WCSP,96258,,"Amer. J. Bot.","21: 698","","1934",kew-96260
+kew-96259,A,Lamiaceae,,Haplostachys,,"grayana",var.,"leptostachya","(A.Gray) Hillebr.",Synonym,,L,WCSP,96259,,"Fl. Hawaiian Isl.","347","","1888",kew-96260
+kew-96260,A,Lamiaceae,,Haplostachys,,"haplostachya",,"","(A.Gray) H.St.John",Accepted,,H,WCSP,96260,447556-1,"List & Summary Fl. Pl. Hawaiian Is.","292","","1973",
+kew-96261,A,Lamiaceae,,Haplostachys,,"haplostachya",var.,"angustifolia","(Sherff) H.St.John",Synonym,,L,WCSP,96261,883871-1,"List & Summary Fl. Pl. Hawaiian Is.","292","","1973",kew-96260
+kew-96262,A,Lamiaceae,,Haplostachys,,"haplostachya",var.,"leptostachya","(A.Gray) H.St.John",Synonym,,L,WCSP,96262,,"List & Summary Fl. Pl. Hawaiian Is.","292","","1973",kew-96260
+kew-96263,A,Lamiaceae,,Haplostachys,,"linearifolia",,"","(Drake) Sherff",Accepted,,H,WCSP,96263,447557-1,"Bot. Gaz.","96: 136","","1934",
+kew-96264,A,Lamiaceae,,Haplostachys,,"linearifolia",var.,"rosmarinifolia","(Hillebr.) Sherff",Synonym,,L,WCSP,96264,60455182-2,"Bot. Gaz.","96: 136","","1934",kew-96263
+kew-96265,A,Lamiaceae,,Haplostachys,,"munroi",,"","C.N.Forbes",Accepted,,H,WCSP,96265,447558-1,"Occas. Pap. Bernice Pauahi Bishop Mus.","6: 62","","1916",
+kew-96266,A,Lamiaceae,,Haplostachys,,"rosmarinifolia",,"","Hillebr.",Synonym,,H,WCSP,96266,447559-1,"Fl. Hawaiian Isl.","347","","1888",kew-96263
+kew-96267,A,Lamiaceae,,Haplostachys,,"truncata",,"","(A.Gray) Hillebr.",Accepted,,H,WCSP,96267,447560-1,"Fl. Hawaiian Isl.","347","","1888",

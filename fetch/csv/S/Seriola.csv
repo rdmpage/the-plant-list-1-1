@@ -1,0 +1,46 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-25278,A,Compositae,,Seriola,,"aethnensis",,"","L.",Synonym,,M,TICA,6261CE1D-420B-4C04-AAC5-2EA9D1C48415,248380-1,"","","1139","1763",gcc-143740
+gcc-155917,A,Compositae,,Seriola,,"aethnensis",var.,"aethnensis","",Synonym,,L,TICA,F1B01447-EE1E-4B72-B7E5-E26F8E2BD4F0,,"","","","",gcc-143740
+gcc-146348,A,Compositae,,Seriola,,"aethnensis",var.,"foliosa","Arcang.",Synonym,,L,TICA,79163670-2131-4F8B-BE8B-16CCBFEBBD7D,,"""G. Arcangeli, Index Seminum [Florence] 1877. 1877""","","","1877",gcc-143740
+gcc-69453,A,Compositae,,Seriola,,"aethnensis",var.,"hispida","Bég. & Vacc.",Synonym,,L,TICA,28061347-ECD0-4526-BDD1-E682C584997F,,"","","","",gcc-143740
+gcc-40190,A,Compositae,,Seriola,,"albicans",,"","Tineo",Synonym,,M,TICA,68759376-D67F-4DDE-A28E-4A888126EFB1,,"","","","1817",gcc-86797
+gcc-94404,A,Compositae,,Seriola,,"alliatae",,"","Biv.",Synonym,,M,TICA,0964BF91-43E6-4BA5-8E39-8CE0CB44E3A4,,"","","77","1807",gcc-86797
+gcc-19386,A,Compositae,,Seriola,,"andina",,"","Poepp. ex DC.",Synonym,Invalid,L,TICA,0F4790D6-5232-4E3D-844A-23D65B719E6F,248383-1,"Prodr. (DC.) 7(1): 92","","92","1838",gcc-118876
+gcc-118094,A,Compositae,,Seriola,,"apargioides",,"","(Less.) Less.",Synonym,,M,TICA,4E608F05-D291-45A6-913B-C22631AC602D,248384-1,"Syn. Gen. Compos. 131","","131","1832",gcc-79436
+gcc-151167,A,Compositae,,Seriola,,"apargioides",,"","Rchb.",Accepted,,M,TICA,4B4C8698-6A3B-4D72-8B6C-7F30083C7174,,"""L. Reichenbach, Index Seminum [Dresden] 1823. 1823""","","","1823",
+gcc-77045,A,Compositae,,Seriola,,"brasiliensis",,"","(Less.) Less.",Synonym,Illegitimate,M,TICA,8049323F-4314-4176-830A-65F943620EB2,248385-1,"Synopsis Generum Compositarum . . .","","131","1832",gcc-43125
+gcc-153364,A,Compositae,,Seriola,,"brasiliensis",var.,"brasiliensis","",Synonym,,L,TICA,B2717630-941C-41A6-9624-ACC46433C678,,"","","","",gcc-95147
+gcc-7019,A,Compositae,,Seriola,,"brasiliensis",var.,"parviflora","Hook. & Arn.",Synonym,,L,TICA,E1ADA15E-82A7-40E8-9C9D-0D0DD5CDE393,,"","","","",gcc-26914
+gcc-19810,A,Compositae,,Seriola,,"caespitosa",,"","Porta",Synonym,,L,TICA,76BC637C-5AC7-4556-A532-24A32F2B26B8,248386-1,"","","310","1887",gcc-31523
+gcc-24355,A,Compositae,,Seriola,,"commutata",,"","(Spreng.) Less.",Synonym,,M,TICA,0A2DFEB6-9E64-402F-A691-2CFDC7C47434,248387-1,"Syn. Gen. Compos. 131","","131","1832",gcc-96034
+gcc-109141,A,Compositae,,Seriola,,"cretensis",,"","L.",Synonym,,M,TICA,A11E3DF8-EC61-459A-9BDD-ADF9D9387003,248388-1,"","","1139","1763",gcc-101451
+gcc-46257,A,Compositae,,Seriola,,"depressa",,"","Viv.",Synonym,,M,TICA,8454EA12-A75E-4E85-9582-55B8BF3E1DAD,,"Fl. Cors. Prod. App. ii. 4.","","","1830",gcc-143740
+gcc-29561,A,Compositae,,Seriola,,"glauca",,"","Tineo",Synonym,,M,TICA,C2D480E5-5BCD-40B9-A66F-36A32ADFCD88,,"","","","1817",gcc-86797
+gcc-79410,A,Compositae,,Seriola,,"hieracioides",,"","Raeusch.",Unresolved,,L,TICA,FAE4A87F-00C2-47CC-91CD-6B66A18ED2CC,,"""Nom. ed. III. 228, nomen.""","","228","",
+gcc-98248,A,Compositae,,Seriola,,"hieracioides",,"","Desf.",Synonym,,M,TICA,909F894E-78CC-4964-8384-95AF752F6A12,,"","","162","1792",gcc-86797
+gcc-78423,A,Compositae,,Seriola,,"hispida",,"","Moench",Synonym,Illegitimate,M,TICA,37801751-1D8B-4B4C-8C9D-691CA43A76DA,248392-1,"Methodus (Moench) 543. 1794 [4 May 1794]","","543","1794",gcc-143740
+gcc-83440,A,Compositae,,Seriola,,"hyoseroides",,"","Nyman",Synonym,,M,TICA,F4B65974-2E8D-48F1-958C-744E74F5F7F8,248393-1,"Syll. Fl. Eur. 55. 1855","","55","",gcc-131362
+gcc-120180,A,Compositae,,Seriola,,"incana",,"","Hook. & Arn.",Synonym,,L,TICA,86E754E3-F862-4FE6-95B9-C6E853B90F26,248394-1,"in Hook. Comp. Bot. Mag. ii. (1836) 42.","","42","1836",gcc-125378
+gcc-141228,A,Compositae,,Seriola,,"laevigata",,"","L.",Synonym,,M,TICA,6D423A70-DF1D-4AFC-B839-F6E6076DB4E5,248395-1,"","","1139","1763",gcc-86797
+gcc-150556,A,Compositae,,Seriola,,"laevigata",var.,"grandiflora","Lojac.",Synonym,,L,TICA,22877F56-06D6-4E2F-8797-71548B53BF1C,,"""M. Lojacono, Fl. Sicul. 2(1). 1903""","","190","1903",gcc-86797
+gcc-153144,A,Compositae,,Seriola,,"laevigata",var.,"laevigata","",Synonym,,L,TICA,E1DB2061-18B1-4B62-A0C8-A804698BD7AF,,"","","","",gcc-86797
+gcc-149552,A,Compositae,,Seriola,,"laevigata",var.,"media","Lojac.",Synonym,,L,TICA,292E3B28-47CE-492D-A970-5B77665D0CEA,,"""M. Lojacono, Fl. Sicul. 2(1). 1903""","","191","1903",gcc-86797
+gcc-155771,A,Compositae,,Seriola,,"laevigata",var.,"montana","Lojac.",Synonym,,L,TICA,ED757DE7-1D9E-4754-9A55-DF91241D7CC6,,"""M. Lojacono, Fl. Sicul. 2(1). 1903""","","191","1903",gcc-86797
+gcc-9744,A,Compositae,,Seriola,,"petiolaris",,"","Hook. & Arn.",Synonym,,M,TICA,A4232EF8-ADB9-41F0-A621-1234F664D2FA,248396-1,"in Hook. Comp. Bot. Mag. i. (1835) 31.","","31","1835",gcc-7180
+gcc-32364,A,Compositae,,Seriola,,"pubescens",,"","Link",Unresolved,,L,TICA,800AEB02-1928-42F1-8DE3-3BFD15698AA4,248397-1,"""Handb. i. 794, sphalm.""","","""i. 794, sphalm.""","",
+gcc-22584,A,Compositae,,Seriola,,"rubescens",,"","Tineo",Synonym,,M,TICA,E4BD9024-98E9-46CB-9E2B-29CD63A7B48B,,"","","","1817",gcc-86797
+gcc-85539,A,Compositae,,Seriola,,"saldensis",,"","Batt.",Synonym,,M,TICA,03FB8A72-6EB9-43CB-B236-78E6F3449C20,,"""in Bull. Soc. Hist. Nat. Afr. Nord, 1912, iii. 23.""","","","1912",gcc-107292
+gcc-2046,A,Compositae,,Seriola,,"scabra",,"","Hort. ex Steud.",Unresolved,,L,TICA,65CDCF26-E21F-4BA0-BF03-03ADD0C9366E,248400-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 568, nomen.""","","568","1841",
+gcc-126600,A,Compositae,,Seriola,,"scapigera",,"","Sennen",Unresolved,,L,TICA,F63B9151-4092-4BEE-B074-D5AFF8552F5C,248401-1,"""Sennen & Mauricio, Cat. Fl. Rif or. 70 [1933], nomen.""","","""70 [1933], nomen.""","",
+gcc-38989,A,Compositae,,Seriola,,"taraxacifolia",,"","Salzm.",Synonym,,L,TICA,EC1C4E40-C9D6-4729-80F1-4855397CB806,,"""in Flora, iv. (1821) 111.""","","","1821",gcc-31523
+gcc-126821,A,Compositae,,Seriola,,"taraxacoides",,"","Loisel.",Synonym,,M,TICA,4DB46065-C1E2-4DA1-A7AD-D62CCB5342D3,,"","","530","1807 (Apr.-Dec.)",gcc-139726
+gcc-7174,A,Compositae,,Seriola,,"taraxacoides",,"","Hook. & Arn.",Synonym,Illegitimate,M,TICA,6BA0D949-84FC-4780-901B-0D5A21579D61,,"in Hook. Comp. Bot. Mag. i. (1835) 30.","","","1835",gcc-93505
+gcc-17709,A,Compositae,,Seriola,,"tenuiflora",,"","(Boiss.) Nyman",Synonym,,M,TICA,1D68B8E5-20E5-4832-B0E5-20B0DC2C5268,248405-1,"Syll. Fl. Eur. 55. 1855","","55","",gcc-33144
+gcc-133339,A,Compositae,,Seriola,,"tenuifolia",,"","Hook. & Arn.",Synonym,,L,TICA,4A7A8566-53BC-43DA-BD4C-E549A73DB05B,248406-1,"in Hook. Comp. Bot. Mag. i. (1835) 31.","","31","1835",gcc-123492
+gcc-85387,A,Compositae,,Seriola,,"tweediei",,"","Hook. & Arn.",Synonym,,L,TICA,2F0B833A-FE22-418D-87F9-789000AF0590,248407-1,"","","31","1835",gcc-95147
+gcc-94459,A,Compositae,,Seriola,,"uniflora",,"","Biv.",Synonym,,M,TICA,E3C348E2-5636-44DB-AF18-8D00566BB032,,"","","55","1807 (Dec.)",gcc-139726
+gcc-110443,A,Compositae,,Seriola,,"urens",,"","Lam.",Unresolved,,L,TICA,6FFB6AF9-E442-45FF-B376-B0E92ABBA403,248409-1,"Tabl. Encycl. iii. 235","","235","",
+gcc-19636,A,Compositae,,Seriola,,"urens",,"","All.",Unresolved,,L,TICA,F078932A-08F6-465F-9DCA-2449F77953FF,,"Fl. Pedem. i. 230. t. 29. f. 1","","230","1785",
+gcc-20490,A,Compositae,,Seriola,,"urens",,"","Viv.",Unresolved,,L,TICA,C1D77B82-DC92-4B3F-B7C1-25E3FA198996,248410-1,"Prod. Fl. Cors. 14.","","14","",
+gcc-25131,A,Compositae,,Seriola,,"urens",,"","L.",Synonym,,M,TICA,8B823ED7-34AA-4387-8DBF-2E6604F71DFF,248411-1,"""Sp. Pl., ed. 2. 2: 1139""","","1139","1763",gcc-101451
+gcc-76688,A,Compositae,,Seriola,,"warionis",,"","herb.coss. ex Batt. & Trab.",Synonym,Invalid,M,TICA,4E47C81E-2631-41D6-B42C-653A5E936F76,,"Fl. de l'Alger. [Dicot. (1889) 536. in obs.","","","1889",gcc-114051

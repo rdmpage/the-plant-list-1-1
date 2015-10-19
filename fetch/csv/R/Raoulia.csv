@@ -1,0 +1,48 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87303,A,Compositae,,Raoulia,,"albosericea",,"","Colenso",Accepted,,M,TICA,90F7D58D-3BA6-4E1A-B948-7CF6C0888925,,"","","","",
+gcc-14918,A,Compositae,,Raoulia,,"apicinigra",,"","Kirk",Accepted,,M,TICA,8B19900B-F7C9-4588-AB2F-1B9FB5BFBCEA,,"","","","1879",
+gcc-102679,A,Compositae,,Raoulia,,"australis",,"","Hook.f. ex Raoul",Accepted,,M,TICA,E84D2268-3271-4E34-A063-9FAB5E29C51F,,"","","","1846",
+gcc-66564,A,Compositae,,Raoulia,,"australis",var.,"albosericea","(Colenso) Kirk",Synonym,,L,TICA,8B7E8454-1379-4F69-89E6-CFC5E3980CBB,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","302","1899",gcc-87303
+gcc-16658,A,Compositae,,Raoulia,,"australis",var.,"apicinigra","(Kirk) Kirk",Synonym,,L,TICA,B8470C0F-07E9-417E-B553-1EC8AA669C05,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","302","1899",gcc-14918
+gcc-145586,A,Compositae,,Raoulia,,"australis",var.,"australis","",Synonym,,L,TICA,E2E4D6A8-9F7C-4333-8A70-07021A81E30E,,"","","","",gcc-102679
+gcc-21618,A,Compositae,,Raoulia,,"australis",var.,"lutescens","Kirk",Synonym,,L,TICA,1C922FE9-182D-453E-92ED-27F66B68703D,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","302","1899",gcc-102679
+gcc-130883,A,Compositae,,Raoulia,,"beauverdii",,"","Cockayne",Accepted,,M,TICA,BD8D7600-AA27-46DA-AEC5-DF9193E6C616,,"","","","",
+gcc-36926,A,Compositae,,Raoulia,,"brownii",,"","Kirk",Unresolved,,L,TICA,7E81AC25-AD59-4FEE-8D2E-446B84634093,,"","","","1899",
+gcc-8182,A,Compositae,,Raoulia,,"bryoides",,"","Hook.f.",Accepted,,M,TICA,39D35C2E-22DC-475E-9D59-0F389B394E36,,"","","","1855",
+gcc-102630,A,Compositae,,Raoulia,,"buchananii",,"","Kirk",Accepted,,M,TICA,71ABB67B-E04E-4AC2-9BA3-9F91194F8CE1,241169-1,"","","307","1899",
+gcc-52133,A,Compositae,,Raoulia,,"catipes",,"","(DC.) Hook.f.",Accepted,,M,TICA,B4321CAA-3977-46B8-A043-60B4799EF7A7,,"Flora Tasmaniae 1  1857 as <IT>R. tasmanica <RO>J.D.Hook.).","","","",
+gcc-90297,A,Compositae,,Raoulia,,"cheesemanii",,"","Beauverd",Synonym,,M,TICA,059981A8-393E-49D4-99B8-83A7FEE58437,,"","","","1912",gcc-101879
+gcc-133802,A,Compositae,,Raoulia,,"chiliastra",,"","Mattf.",Accepted,,M,TICA,72B5FB85-3D3B-4364-A54F-E6536FD2297F,,"","","","1940",
+gcc-4757,A,Compositae,,Raoulia,,"cinerea",,"","Petrie",Accepted,,M,TICA,B88CF5A2-154F-44AF-BCFB-08DA7DDEE48D,,"","","","1912",
+gcc-31921,A,Compositae,,Raoulia,,"eximia",,"","Hook.f.",Accepted,,M,TICA,61C5A467-FD92-4AD6-A4B1-3B222968D881,241174-1,"","","149","1864",
+gcc-153352,A,Compositae,,Raoulia,,"eximia",var.,"eximia","",Synonym,,L,TICA,63973800-8462-4871-A122-AC7E953EF7FD,,"","","","",gcc-31921
+gcc-15508,A,Compositae,,Raoulia,,"gibbsii",,"","Cheeseman",Unresolved,,L,TICA,72D7348C-293B-486D-A271-1CB229201371,241176-1,"""in Trans. N. Z. Inst. 1909, xlii. 216 (1910).""","","xlii. 216 (1910).","1909",
+gcc-35256,A,Compositae,,Raoulia,,"glabra",,"","Hook.f.",Accepted,,M,TICA,9CAFE9BC-1AB0-46B7-87C8-415C6270EC9A,,"","","","1853",
+gcc-46098,A,Compositae,,Raoulia,,"goyenii",,"","Kirk",Accepted,,M,TICA,9663E8D1-A1BD-4F7B-97FE-557393FAB123,,"","","","",
+gcc-8176,A,Compositae,,Raoulia,,"grandiflora",,"","Hook.f.",Accepted,,M,TICA,AA8F0FC7-1075-4005-92C0-0F34B1273FF7,,"","","","1853",
+gcc-32145,A,Compositae,,Raoulia,,"grandiflora",var.,"fasciculata","(Buchanan) Cheeseman",Accepted,,L,TICA,3022C3C3-A0AE-4C74-9EB2-3B8B3B6B879A,,"""Cheeseman, T. F. 1925: Manual of the New Zealand Flora.2 ed.  Wellington, N.Z., ""","","974","1925",
+gcc-151961,A,Compositae,,Raoulia,,"grandiflora",var.,"grandiflora","",Synonym,,L,TICA,29F6B029-3B42-4463-9798-8F86AB89299A,,"","","","",gcc-8176
+gcc-9936,A,Compositae,,Raoulia,,"haastii",,"","Hook.f.",Accepted,,M,TICA,BB753E05-07AE-4820-8EDB-128FCD05C3B6,241180-1,"","","148","1864",
+gcc-83214,A,Compositae,,Raoulia,,"hectorii",,"","Hook.f.",Accepted,,M,TICA,8358753E-6C4E-42DA-A4A7-73D191F337D1,241181-1,"","","149","1864",
+gcc-70281,A,Compositae,,Raoulia,,"hectorii",var.,"hectorii","",Synonym,,L,TICA,98F1BC21-850B-45D4-9015-ECDB1BAD9420,,"","","","1864",gcc-83214
+gcc-109721,A,Compositae,,Raoulia,,"hookeri",,"","Allan",Accepted,,M,TICA,EFA8C215-A0BD-4128-9A25-AF4A5A419121,,"","","","1961",
+gcc-61934,A,Compositae,,Raoulia,,"hookeri",var.,"albosericea","Allan",Synonym,,L,TICA,8CF95C53-DC1F-4679-AD01-AAA6DE491967,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","707","1961",gcc-87303
+gcc-58413,A,Compositae,,Raoulia,,"hookeri",var.,"apicinigra","(Kirk) Allan",Synonym,,L,TICA,30292F05-0B7B-424F-879A-8E8889DA15E1,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","705","1961",gcc-14918
+gcc-48697,A,Compositae,,Raoulia,,"hookeri",var.,"hookeri","",Synonym,,L,TICA,F99ABDAC-BA76-4CFE-8C4B-5A38A0A5884B,,"","","","",gcc-109721
+gcc-131384,A,Compositae,,Raoulia,,"loganii",,"","(Buchanan) Cheeseman",Unresolved,,L,TICA,89DEFF86-D282-4185-8F59-E0C136A8212A,241183-1,"","","","1925",
+gcc-139010,A,Compositae,,Raoulia,,"lutescens",,"","Beauverd",Synonym,,M,TICA,60E77214-0CF1-45F1-9E8D-F1D139B6A643,,"","","","1910",gcc-102679
+gcc-87502,A,Compositae,,Raoulia,,"mackayi",,"","Buchanan",Synonym,,M,TICA,B8705A4C-49CA-4A57-B1F9-7D70A57473B7,,"","","","",gcc-35145
+gcc-103004,A,Compositae,,Raoulia,,"mammillaris",,"","Hook.f.",Accepted,,M,TICA,A4300037-870F-4CB5-97B3-A0580F84B0EE,241186-1,"","","150","1864",
+gcc-101879,A,Compositae,,Raoulia,,"monroi",,"","Hook.f.",Accepted,,M,TICA,CA3548D2-BC0A-4BCC-8C86-9DC2B6F3B182,241187-1,"","","148","1864",
+gcc-112434,A,Compositae,,Raoulia,,"parkii",,"","Buchanan",Accepted,,M,TICA,DF0B5091-34F5-4297-AB8A-B5703AD7486C,,"","","","",
+gcc-81573,A,Compositae,,Raoulia,,"petriensis",,"","Kirk",Accepted,,M,TICA,BC4F7429-0302-4347-86F8-7023346D1B98,241189-1,"","","549","1877",
+gcc-46749,A,Compositae,,Raoulia,×,"petrimia",,"","Kit Tan & R.J.D.McBeath",Unresolved,,L,TICA,ED72FBBB-9E6A-4FA0-9886-56A2C80162C1,,"""in Quart. Bull. Alp. Gard. Soc., 56(4): 311 (1988)""","","311","1988",
+gcc-33840,A,Compositae,,Raoulia,,"planchonii",,"","(Hook.f.) Hook.f. ex Benth.",Accepted,,M,TICA,314D8E4C-E7A0-49E1-9A8F-3EC2093193EE,164224-3,"","","","1867",
+gcc-102995,A,Compositae,,Raoulia,,"rubra",,"","Buchanan",Accepted,,M,TICA,7646873A-8418-4207-9211-A0527E8F23AE,,"","","","",
+gcc-82867,A,Compositae,,Raoulia,,"subsericea",,"","Hook.f.",Accepted,,M,TICA,468E40C8-9271-43E9-B70E-730279BCC019,,"","","","1853",
+gcc-30003,A,Compositae,,Raoulia,,"subulata",,"","Hook.f.",Accepted,,M,TICA,8B79D104-BE35-4426-80A2-377ED1813D47,241193-1,"","","149","1864",
+gcc-31160,A,Compositae,,Raoulia,,"tasmanica",,"","Hook.f.",Unresolved,,L,TICA,B2AF3F9A-E449-4DC5-8E83-39B0E45B55DD,164262-3,"","","","1857",
+gcc-139980,A,Compositae,,Raoulia,,"tenuicaulis",,"","Hook.f.",Accepted,,M,TICA,17EE9D53-5500-4DCB-99FA-F3EFDED65D5D,,"","","","1853",
+gcc-28703,A,Compositae,,Raoulia,,"tenuicaulis",var.,"dimorpha","Allan",Synonym,,L,TICA,15C93DFF-4E36-4930-8FD8-350B687050BF,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","""707, 975""","1961",gcc-139980
+gcc-60166,A,Compositae,,Raoulia,,"tenuicaulis",var.,"tenuicaulis","",Synonym,,L,TICA,0C94275F-959B-4EBA-9C68-9C23CC98E8DE,,"","","","",gcc-139980
+gcc-106666,A,Compositae,,Raoulia,,"youngii",,"","(Hook.f.) Beauverd",Accepted,,M,TICA,CC6922AA-90CF-4AAF-8285-A85454636F78,,"""Beauverd, G. 1912: Contributions a l'étude des Composées: B) Nouvelles recherches sur le genre Raoulia. Bulletin de la Societie Botanique de Genève, sér. 2 4: 41-55.""","","419","1912",

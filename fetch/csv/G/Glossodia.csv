@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-91035,A,Orchidaceae,,Glossodia,,"brunonis",,"","Endl.",Synonym,,H,WCSP,91035,635807-1,"Nov. Stirp. Dec.","16","","1839",kew-66843
+kew-91036,A,Orchidaceae,,Glossodia,,"emarginata",,"","Lindl.",Synonym,,H,WCSP,91036,635808-1,"Gen. Sp. Orchid. Pl.","424","","1840",kew-66844
+kew-91037,A,Orchidaceae,,Glossodia,×,"intermedia",,"","Fitzg.",Synonym,,H,WCSP,91037,,"Gard. Chron.","n.s., 17: 462","","1882",kew-66845
+tro-50030492,A,Orchidaceae,,Glossodia,,"intermedia",,"","Fitzg.",Unresolved,,L,TRO,50030492,635809-1,"Gard. Chron.","1: 462","462","1882",
+kew-91038,A,Orchidaceae,,Glossodia,,"major",,"","R.Br.",Accepted,,H,WCSP,91038,635810-1,"Prodr. Fl. Nov. Holl.","326","","1810",
+kew-334066,A,Orchidaceae,,Glossodia,,"major",var.,"alba","McKibbin",Synonym,,L,WCSP,334066,,"S. Sci. Rec.","3: 102","","1883",kew-91038
+kew-91039,A,Orchidaceae,,Glossodia,,"minor",,"","R.Br.",Accepted,,H,WCSP,91039,635811-1,"Prodr. Fl. Nov. Holl.","326","","1810",
+kew-334067,A,Orchidaceae,,Glossodia,,"minor",var.,"alba","F.M.Bailey",Synonym,,L,WCSP,334067,,"Queensland Agric. J.","13: 346","","1903",kew-91039
+kew-91040,A,Orchidaceae,,Glossodia,,"orientalis",,"","F.Muell.",Synonym,,H,WCSP,91040,635812-1,"Fragm.","5: 97","","1865",kew-91039

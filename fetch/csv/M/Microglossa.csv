@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86333,A,Compositae,,Microglossa,,"afzelii",,"","O.Hoffm.",Accepted,,M,TICA,F47135E3-A7E4-4905-8A6E-7AAC213AC9E7,232484-1,"Bot. Jahrb. Syst. 34: 469. 1898","","469","1898",
+gcc-65501,A,Compositae,,Microglossa,,"afzelii",var.,"afzelii","",Synonym,,L,TICA,23A4320C-675C-4C3B-A40A-C738F3E76FF1,,"","","","",gcc-86333
+gcc-82363,A,Compositae,,Microglossa,,"albescens",,"","(DC.) Benth. ex C.B.Clarke",Synonym,,L,TICA,BEE02E9C-73A2-42AD-9E4E-71E282E39BC4,232485-1,"Comp. Ind. 59.","","59","1876",gcc-30558
+gcc-88099,A,Compositae,,Microglossa,,"altissima",,"","DC.",Synonym,,M,TICA,5005966A-A2D8-46DF-A9E6-7EAC58910304,,"Prodr. (DC.) 5: 320","","","1836",gcc-124482
+gcc-116779,A,Compositae,,Microglossa,,"angolensis",,"","Oliv. & Hiern",Synonym,,L,TICA,223FDFE7-FF61-4BE5-95C4-BF317041CE5F,232487-1,"Fl. Trop. Afr. [Oliver et al.] 3: 309","","309","1877",gcc-112229
+gcc-150185,A,Compositae,,Microglossa,,"angolensis",var.,"angolensis","",Synonym,,L,TICA,A68F04B7-8598-4C52-ABCD-68EFD0CE31EA,,"","","","",gcc-112229
+gcc-32753,A,Compositae,,Microglossa,,"angolensis",var.,"linearifolia","O.Hoffm.",Synonym,,L,TICA,4D11655D-4A3E-47ED-BCB3-3CBB2D7E5E6B,,"Boletim da Sociedade Broteriana 13:","","22","1896",gcc-111367
+gcc-84832,A,Compositae,,Microglossa,,"brevipetiolata",,"","Muschl.",Synonym,,M,TICA,40FDFCEB-1EB5-43A6-AE06-775EFA42A75D,,"in Wiss. Ergebn. Deutsch. Zentr.-Afr.-Exped. 1907-8 ii. 369 (1911).","","","",gcc-114426
+gcc-30776,A,Compositae,,Microglossa,,"cabulica",,"","(Lindl.) C.B.Clarke",Unresolved,,L,TICA,DD494781-C3B3-46EC-8F85-38F7616C3DAD,232489-1,"Comp. Ind. 57.","","57","1876",gcc-30558
+gcc-113572,A,Compositae,,Microglossa,,"caffrorum",,"","(Less.) Grau",Accepted,,M,TICA,2448ABCC-EF89-4475-AF6E-B7E9B31DADB3,232490-1,"Mitt. Bot. Staatssamml. München 12: 399 (1976)","","399","1976",
+gcc-5630,A,Compositae,,Microglossa,,"caudata",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,4E16CC66-BED6-403E-AD42-0A7FA6495DD9,232491-1,"Bull. Soc. Bot. France 57(Mém. 8c): 113","","113","1910",
+gcc-140479,A,Compositae,,Microglossa,,"densiflora",,"","Hook.f.",Accepted,,M,TICA,86B84584-EEA1-4865-B1F9-F521760E5A00,232492-1,"""J. Proc. Linn. Soc., Bot. 7: 200""","","200","1864",
+gcc-113202,A,Compositae,,Microglossa,,"elliotii",,"","S.Moore",Synonym,,M,TICA,250468A2-1ABA-4E64-BD63-B71A9899B8F0,232493-1,"""J. Linn. Soc., Bot. xxxv. 327""","","327","1902",gcc-11043
+gcc-50352,A,Compositae,,Microglossa,,"glutinosa",,"","Klata",Unresolved,,L,TICA,F424D2B7-B362-418E-AE4D-5D5C9D2FA6C1,,"Jahrb. Hamburg. Wiss. Anstalt. viii. (1891) 288","","288","",
+gcc-84389,A,Compositae,,Microglossa,,"griffithii",,"","C.B.Clarke",Unresolved,,L,TICA,F7898643-A921-4730-9637-7677A7E036ED,232495-1,"Comp. Ind. 58.","","","1876",
+gcc-11558,A,Compositae,,Microglossa,,"hildebrandtii",,"","O.Hoffm.",Unresolved,,L,TICA,478A8433-C169-4859-B3E2-158F93CEA2CD,,"Bot. Jahrb. Syst. xx. (1894) 222.","","","1894",
+gcc-16865,A,Compositae,,Microglossa,,"hispida",,"","DC.",Synonym,,M,TICA,8467C420-B093-4B08-AEE1-1F2736CFB1A0,232497-1,"Prodr. (DC.) 5: 321","","321","1836",gcc-108318
+gcc-9956,A,Compositae,,Microglossa,,"longiradiata",,"","Wild",Accepted,,M,TICA,E40138D0-BC7D-47B2-89CA-129B78008DDB,,"Kirkia 9(2): 293 (1974).","","293","",
+gcc-145085,A,Compositae,,Microglossa,,"mespilifolia",,"","(Less.) B.L.Rob.",Accepted,,M,TICA,AF29DF7B-34D9-4010-9543-FFA031C9FDFB,232499-1,"Proc. Amer. Acad. Arts xlvii. 206 (1911)","","206","1911",
+gcc-137874,A,Compositae,,Microglossa,,"mespiloides",,"","Benth. & Hook.f.",Unresolved,,L,TICA,952B40D2-571C-4605-9C97-EF6680EC4EC6,232500-1,"Gen. ii. 282.","","ii. 282.","",
+gcc-38381,A,Compositae,,Microglossa,,"mikanioides",,"","Baker",Synonym,,M,TICA,E03F3DE9-9A67-490E-A23D-473886D119CB,232501-1,"""J. Linn. Soc., Bot. xx. (1883) 182.""","","182","1883",gcc-42181
+gcc-144236,A,Compositae,,Microglossa,,"oblongifolia",,"","O.Hoffm. ex Engl.",Unresolved,,L,TICA,C94D95AC-F773-464A-AE9B-FDA6930130A4,,"Abh. Preuss. Akad. Wiss. (1894) 62; et in Bot. Jahrb. xx. (1894) 222.","","222","",
+gcc-31428,A,Compositae,,Microglossa,,"oblongifolia",,"","O.Hoffm.",Synonym,,L,TICA,BFDFB060-8216-48AB-83D0-3A3A7443ED3F,,"Abhandlungen der Preussischen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Klasse","","62","1894",gcc-112229
+gcc-15091,A,Compositae,,Microglossa,,"oehleri",,"","Muschl.",Unresolved,Invalid,L,TICA,8B7DE3AF-1355-4184-9CA0-1BEE6F5F0551,,"","","","",
+gcc-78606,A,Compositae,,Microglossa,,"oehleri",,"","Muschl. ex Jaeger",Unresolved,,L,TICA,C81AAAD5-2D0E-4E80-BBB5-698412C3923B,232503-1,"""in Mitteil. Deutsch. Schutzgeb. Erganz. iv. 90 (1911), nomen.""","","""iv. 90 , nomen.""","1911",
+gcc-47002,A,Compositae,,Microglossa,,"parvifolia",,"","O.Hoffm.",Synonym,,L,TICA,9A1A71A0-F791-4354-80A0-571A5EF02824,232504-1,"Bot. Jahrb. Syst. xx. (1894) 223.","","xx.  223.","1894",gcc-112229
+gcc-139484,A,Compositae,,Microglossa,,"petiolaris",,"","DC.",Synonym,,M,TICA,0C0965DB-5312-4A53-82B2-F2D62A5E5E65,232505-1,"Prodr. (DC.) 5: 321","","321","1836",gcc-26588
+gcc-3293,A,Compositae,,Microglossa,,"psiadioides",,"","Baker",Synonym,Illegitimate,M,TICA,2D221FA5-6648-49A4-AA75-061462EAF37A,,"""J. Linn. Soc., Bot.""","","","",gcc-99370
+gcc-26588,A,Compositae,,Microglossa,,"pyrifolia",,"","(Lam.) Kuntze",Accepted,,M,TICA,9DE2AF28-CE53-4748-992D-3120CA3EF098,232508-1,"","","353","1891",
+gcc-124895,A,Compositae,,Microglossa,,"pyrrhopappa",,"","(Sch.Bip. ex A.Rich.) Agnew",Unresolved,,L,TICA,CBC42711-69AD-4F60-8990-D1BE78C0E58F,983400-1,"""in A.D.Q. Agnew & S. Agnew, Upland Kenya Wild Flowers (ed. 2): 205 (1994):""","","205","1994",gcc-112229
+gcc-109581,A,Compositae,,Microglossa,,"salicifolia",,"","Diels",Unresolved,,L,TICA,2EFB7BEF-3C7D-4332-A78A-AEFCA66CD008,,"Bot. Jahrb. Syst. xxix. 612.","","","1901",
+gcc-83870,A,Compositae,,Microglossa,,"sessilifolia",,"","DC.",Synonym,,M,TICA,C81B4851-5D46-42F2-A1B0-753553021FA9,232510-1,"Prodr. (DC.) 5: 320","","320","1836",gcc-42181
+gcc-103451,A,Compositae,,Microglossa,,"volubilis",,"","DC.",Synonym,Illegitimate,M,TICA,69FE1DE7-ED00-4813-99E3-A14E9577EEE3,232511-1,"","","320","1836",gcc-26588
+gcc-26710,A,Compositae,,Microglossa,,"volubilis",var.,"madagascariensis","DC.",Synonym,,L,TICA,A29B29CB-512A-4E98-9AAD-31599CE649DA,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","320","1836",gcc-89488
+gcc-154741,A,Compositae,,Microglossa,,"volubilis",var.,"volubilis","",Synonym,,L,TICA,9AF1CF72-B44A-4EE8-9BC1-CA12B5E3685E,,"","","","",gcc-26588
+gcc-99631,A,Compositae,,Microglossa,,"zeylanica",,"","(Arn.) Benth. & Hook.f.",Accepted,,M,TICA,2BBAB09C-3E33-444D-82D1-98CEEEC98B45,,"","","","1873",
+gcc-146330,A,Compositae,,Microglossa,,"zeylanica",var.,"beddomei","Gamble",Synonym,,L,TICA,D582C07B-C5CA-4683-B971-166CAC09851A,,"Fl. Madras 2(4): 681. 1921","","681","1921",gcc-42516
+gcc-151735,A,Compositae,,Microglossa,,"zeylanica",var.,"zeylanica","",Synonym,,L,TICA,7AF6897A-657D-490B-81C4-8B32B163936A,,"","","","",gcc-148556

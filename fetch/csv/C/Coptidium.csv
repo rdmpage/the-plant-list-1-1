@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2736094,A,Ranunculaceae,,Coptidium,,"lapponicum",,"","(L.) Gand. ex Rydb.",Accepted,,M,WCSP (in review),,60453733-2,"Fl. Rocky Mts.","302","","1917",
+tro-27100079,A,Ranunculaceae,,Coptidium,,"lapponicum",,"","Gand.",Synonym,,M,TRO,27100079,,"","","","",kew-2736094
+kew-2736096,A,Ranunculaceae,,Coptidium,,"pallasii",,"","(Schltdl.) Tzvelev",Accepted,,M,WCSP (in review),,983087-1,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol.","n.s., 99(5): 64","","1994",
+tro-27100080,A,Ranunculaceae,,Coptidium,,"pallasii",,"","Á. Löve & D. Löve",Synonym,,M,TRO,27100080,,"","","","",kew-2736096
+kew-2604038,A,Ranunculaceae,,Coptidium,×,"spitsbergense",,"","(Hadač) Luferov & Prob.",Accepted,,M,WCSP (in review),,77079620-1,"Fl. Ross. Dal'nego Vostoka","48","","2006",

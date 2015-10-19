@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2641603,A,Amaranthaceae,,Anthochlamys,,"afghanica",,"","Podlech",Accepted,,M,WCSP (in review),,163523-1,"Mitt. Bot. Staatssamml. München","12: 357","","1976",
+kew-2641604,A,Amaranthaceae,,Anthochlamys,,"multinervis",,"","Rech.f.",Accepted,,M,WCSP (in review),,163524-1,"Repert. Spec. Nov. Regni Veg.","48: 165","","1940",
+kew-2641605,A,Amaranthaceae,,Anthochlamys,,"polygaloides",,"","(Fisch. & C.A.Mey.) Moq.",Accepted,,M,WCSP (in review),,163525-1,"Chenop. Monogr. Enum.","102","","1840",
+tro-7200938,A,Amaranthaceae,,Anthochlamys,,"polygaloides",,"","(Fisch. & C.A. Mey.) Fenzl",Synonym,,M,TRO,7200938,,"Gen. Pl.","300","300","1837",kew-2641605
+kew-2641606,A,Amaranthaceae,,Anthochlamys,,"polygaloides",var.,"turkestanica","M.Bieb.",Synonym,,L,WCSP (in review),,,"","","","",kew-2641610
+kew-2641607,A,Amaranthaceae,,Anthochlamys,,"rechingeri",,"","Aellen",Synonym,,M,WCSP (in review),,163526-1,"Verh. Naturf. Ges. Basel","61: 171","","1950",kew-2641605
+kew-2878272,A,Amaranthaceae,,Anthochlamys,,"rechingeri",var.,"denticulata","Aellen",Synonym,,L,WCSP (in review),,,"Verh. Naturf. Ges. Basel","61: 171","","1950",kew-2641605
+kew-2641608,A,Amaranthaceae,,Anthochlamys,,"tjanschanica",,"","Iljin ex Aellen",Accepted,,M,WCSP (in review),,163527-1,"Verh. Naturf. Ges. Basel","61: 170","","1950",
+kew-2641609,A,Amaranthaceae,,Anthochlamys,,"turcomanica",,"","Iljin",Accepted,,M,WCSP (in review),,163528-1,"Fl. URSS","6: 875","","1936",
+kew-2641610,A,Amaranthaceae,,Anthochlamys,,"turkestanica",,"","(M.Bieb.) Iljin",Accepted,,M,WCSP (in review),,163529-1,"Fl. URSS","6: 165","","1936",

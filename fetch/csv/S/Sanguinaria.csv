@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2602764,A,Papaveraceae,,Sanguinaria,,"acaulis",,"","Moench",Unresolved,,L,WCSP (in review),,673991-1,"Methodus","227","","1794",
+tro-24000856,A,Papaveraceae,,Sanguinaria,,"australis",,"","Greene",Synonym,,M,TRO,24000856,227353-2,"Pittonia","5: 307","307","1905",kew-2602762
+kew-2602762,A,Papaveraceae,,Sanguinaria,,"canadensis",,"","L.",Accepted,,M,WCSP (in review),,673993-1,"Sp. Pl.","505","","1753",
+tro-24000292,A,Papaveraceae,,Sanguinaria,,"canadensis",f.,"canadensis","",Synonym,,L,TRO,24000292,,"","","","",kew-2602762
+tro-24000317,A,Papaveraceae,,Sanguinaria,,"canadensis",var.,"canadensis","",Synonym,,L,TRO,24000317,,"","","","",kew-2602762
+tro-24000291,A,Papaveraceae,,Sanguinaria,,"canadensis",f.,"multiplex","(E.H. Wilson) Weath.",Accepted,,L,TRO,24000291,227360-2,"Connecticut State Geol. Surv. Bull.","48: 50","50","1931",
+tro-50325335,A,Papaveraceae,,Sanguinaria,,"canadensis",var.,"multiplex","E.H. Wilson",Synonym,,L,TRO,50325335,227361-2,"Gard. Chron., ser. 3","73: 283","283","1923",tro-24000291
+tro-24000152,A,Papaveraceae,,Sanguinaria,,"canadensis",var.,"rotundifolia","(Greene) Fedde",Synonym,,L,TRO,24000152,227362-2,"Pflanzenr.","4(Fam. 104): 205","205","1909",kew-2602762
+kew-440182,A,Poaceae,,Sanguinaria,,"ciliaris",,"","(Retz.) Bubani",Synonym,,H,WCSP,440182,420141-1,"Fl. Pyren.","4: 257","","1901",kew-408848
+tro-24000857,A,Papaveraceae,,Sanguinaria,,"dilleniana",,"","Greene",Synonym,,M,TRO,24000857,227364-2,"Pittonia","5: 307","307","1905",kew-2602762
+kew-2602760,A,Papaveraceae,,Sanguinaria,,"grandiflora",,"","M.Roscoe",Unresolved,,L,WCSP (in review),,673995-1,"Fl. Ill. Seasons","t. 8","","1829",
+kew-440183,A,Poaceae,,Sanguinaria,,"humifusa",,"","(Rich.) Bubani",Synonym,,H,WCSP,440183,420142-1,"Fl. Pyren.","4: 257","","1901",kew-409080
+kew-2602749,A,Papaveraceae,,Sanguinaria,,"mesochora",,"","Greene",Unresolved,,L,WCSP (in review),,227366-2,"Pittonia","5: 308","","1905",
+kew-440184,A,Poaceae,,Sanguinaria,,"nevenarae",,"","Bubani",Synonym,,H,WCSP,440184,420143-1,"Fl. Pyren.","4: 256","","1901",kew-409361
+tro-50325336,A,Papaveraceae,,Sanguinaria,,"rotundifolia",,"","Greene",Synonym,,M,TRO,50325336,227367-2,"Pittonia","5: 307","307","1905",kew-2602762
+kew-2602767,A,Papaveraceae,,Sanguinaria,,"stenopetala",,"","Steud.",Unresolved,,L,WCSP (in review),,,"Nomencl. Bot.","ed. 2, 2: 510","","1841",
+kew-440185,A,Poaceae,,Sanguinaria,,"vaginata",,"","(Sw.) Bubani",Synonym,,H,WCSP,440185,420144-1,"Fl. Pyren.","4: 258","","1901",kew-432445
+kew-2602756,A,Papaveraceae,,Sanguinaria,,"vernalis",,"","Salisb.",Unresolved,,L,WCSP (in review),,673999-1,"Prodr. Stirp. Chap. Allerton","376","","1796",
+kew-2602755,A,Papaveraceae,,Sanguinaria,,"virginiana",,"","Gaertn.",Unresolved,,L,WCSP (in review),,674000-1,"Fruct. Sem. Pl.","2: 479","","1791",

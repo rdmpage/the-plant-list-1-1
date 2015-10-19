@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17942,A,Compositae,,Ageratinastrum,,"fruticosum",,"","(O.Hoffm.) Mattf.",Synonym,,M,TICA,D489E3E4-C97D-45D6-AA38-21285E64D4DA,175444-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","412","1932",gcc-94617
+gcc-139767,A,Compositae,,Ageratinastrum,,"glomeratum",,"","Mattf.",Synonym,,M,TICA,F13AACD4-25E8-4DE8-A097-F3787733C9FE,175445-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","412","1932",gcc-134977
+gcc-31901,A,Compositae,,Ageratinastrum,,"goetzeanum",,"","(O.Hoffm.) Mattf.",Accepted,,M,TICA,296A689B-6905-4C70-B382-3B18159C4CAA,175446-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","412","1932",
+gcc-17916,A,Compositae,,Ageratinastrum,,"katangense",,"","Lisowski",Accepted,,M,TICA,99702D0E-8CDE-4D17-A822-211AAF02603B,,"","","352","1992",
+gcc-125844,A,Compositae,,Ageratinastrum,,"lejolyanum",,"","(Adamska & Lisowski) Kalanda",Accepted,,M,TICA,818D6ED2-F639-4126-9266-D401D900A09A,,"","","384","1986",
+gcc-122951,A,Compositae,,Ageratinastrum,,"palustre",,"","Wild & G.V.Pope",Accepted,,M,TICA,EC94AE43-1E48-42B7-8140-CD2F5C7C6F2E,175447-1,"","","326","1977",
+gcc-151685,A,Compositae,,Ageratinastrum,,"polyphyllum",,"","(Baker) Mattf.",Accepted,,M,TICA,04F7CB66-ECE5-4C1E-AA88-8A211C765125,175448-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","412","1932",
+gcc-62350,A,Compositae,,Ageratinastrum,,"polyphyllum",var.,"polyphyllum","",Synonym,,L,TICA,D718FF4E-39DD-4E25-BBB5-AE1BBC152A92,,"","","","",gcc-151685
+gcc-134098,A,Compositae,,Ageratinastrum,,"virgatum",,"","Mattf.",Synonym,,M,TICA,64D6A773-9C63-47B1-B087-E705D452F357,175449-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","413","1932",gcc-151685

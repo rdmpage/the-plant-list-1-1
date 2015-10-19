@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11685,A,Compositae,,Homoianthus,,"ambiguus",,"","Cass.",Unresolved,Illegitimate,L,TICA,3A0F8551-2603-46BF-85AF-15C8C43FA9B4,,"Opusc. ii. 167.","","","1826",
+gcc-15241,A,Compositae,,Homoianthus,,"bellidifolius",,"","Phil.",Synonym,,M,TICA,DBDD6105-9E4C-4A44-801F-1C362E600AF1,123748-2,"","","306","1894",gcc-17384
+gcc-142424,A,Compositae,,Homoianthus,,"bonplandii",,"","Cass.",Unresolved,,L,TICA,BBC6FAB4-2AD8-4CD4-8D6A-F99758BED0B2,,"Dictionnaire des Sciences Naturelles [Second edition] 21:","","444","1821",
+gcc-115530,A,Compositae,,Homoianthus,,"calophyllus",,"","Phil.",Synonym,,M,TICA,BE8C1249-BF42-4368-A0DC-BC5E87E03850,123750-2,"","","305","1894",gcc-20378
+gcc-79008,A,Compositae,,Homoianthus,,"capito",,"","Phil.",Synonym,,M,TICA,5549B979-693D-460F-86D4-6A8353DDAC29,123751-2,"","","309","1894",gcc-116933
+gcc-98174,A,Compositae,,Homoianthus,,"cubaetensis",,"","(Less.) Less. ex DC.",Unresolved,,L,TICA,1DE86F9A-01B7-4183-84B3-9580B20FDEAC,,"Prodromus Systematis Naturalis Regni Vegetabilis 7(1):","","64","1838",
+gcc-18878,A,Compositae,,Homoianthus,,"cubataensis",,"","(Less.) Less. ex DC.",Synonym,,M,TICA,69CA802A-3FE3-4709-9F32-22D8B53CDBCB,225022-1,"Prodr. (DC.) 7(1): 64","","64","1838",gcc-113369
+gcc-123083,A,Compositae,,Homoianthus,,"donianus",,"","(Less.) J.Rémy",Synonym,,L,TICA,3D35886D-027B-4A7A-BB73-CD7F3A53B49D,,"""in C. Gay, Fl. Chil. iii. 422""","","422","",gcc-88534
+gcc-127674,A,Compositae,,Homoianthus,,"echinulatus",,"","Cass.",Synonym,,L,TICA,A59391D9-F04F-4412-8FE4-D83AB3E282FD,,"in Dict. Sc. Nat. xxxviii. 458.","","","1825",gcc-88534
+gcc-132369,A,Compositae,,Homoianthus,,"gayanus",,"","J.Rémy",Synonym,,M,TICA,4F90FC15-6402-4B81-AA89-E31A90AD4DE1,,"""in C. Gay, Fl. Chil. iii. 419""","","419","",gcc-116933
+gcc-17363,A,Compositae,,Homoianthus,,"germaini",,"","Phil. ex Reiche",Unresolved,,L,TICA,C557E4B9-87DB-45D1-AD7E-20177D4F897E,123752-2,"""Anales Univ. Chile 116: 433. 1905 Reiche, Fl. de Chile, 4: 451.  1905.--Chile""","","433","1905",
+gcc-21136,A,Compositae,,Homoianthus,,"humilis",,"","Phil.",Synonym,,M,TICA,466FCB10-C0A7-4A68-ACE3-270D16393119,123753-2,"","","307","1894",gcc-80090
+gcc-101593,A,Compositae,,Homoianthus,,"inermis",,"","Meyen ex Walp.",Unresolved,Illegitimate,L,TICA,2D2825F7-942A-4263-A559-9D1F83CFDC17,225026-1,"Nov. Act. Nat. Cur.","","xix. Suppl. i.  290","1843",gcc-88534
+gcc-100647,A,Compositae,,Homoianthus,,"laevis",,"","(Less.) DC.",Synonym,,M,TICA,ABE2E8D4-2EF7-4839-B831-9B1743405D27,225027-1,"Prodr. (DC.) 7(1): 64","","64","1838",gcc-113369
+gcc-119893,A,Compositae,,Homoianthus,,"linearis",,"","(Less.) DC.",Synonym,,M,TICA,A1862EB5-6A6A-4663-81D1-C6362E21E93F,,"Prodr. (DC.) 7(1): 64","","","1838",gcc-4538
+gcc-16704,A,Compositae,,Homoianthus,,"lyratus",,"","J.Rémy",Synonym,,M,TICA,7622488E-B102-486A-BF51-1EE3A5453EAF,,"""in C. Gay, Fl. Chil. iii. 418""","","418","1849",gcc-116933
+gcc-89089,A,Compositae,,Homoianthus,,"magellanicus",,"","(Lam.) DC.",Accepted,,L,TICA,9ED632A4-4208-4D0A-B650-80EACA225C4D,225030-1,"Prodr. (DC.) 7(1): 65","","65","1838",
+gcc-61721,A,Compositae,,Homoianthus,,"magellanicus",var.,"lactucoides","(Vahl) Hook.f.",Synonym,,L,TICA,9953E06A-703D-482F-8494-A8FBF88F59F8,,"","","322","",gcc-18311
+gcc-149178,A,Compositae,,Homoianthus,,"magellanicus",var.,"magellanicus","",Synonym,,L,TICA,2D1074C3-6B26-4933-BA04-532B80916DE3,,"","","","",gcc-89089
+gcc-100863,A,Compositae,,Homoianthus,,"multiflorus",,"","D.Don",Unresolved,,L,TICA,3DE3CF10-E01F-41BB-8506-9B93D0E712CA,225031-1,"Trans. Linn. Soc. London 16(2): 211","","211","1830",
+gcc-1089,A,Compositae,,Homoianthus,,"multiflorus",,"","(Humb. & Bonpl.) DC.",Synonym,,M,TICA,76EADD4B-C20E-4631-9DA2-02011F98A8F5,,"","","","",gcc-81638
+gcc-138301,A,Compositae,,Homoianthus,,"multiflorus",,"","(Bonpl.) Spreng.",Synonym,,M,TICA,8BCD5FAB-0C3C-4DAA-9C54-F049E1943E2E,,"""Systema Vegetabilium, editio decima sexta 3:""","","503","1826",gcc-81638
+gcc-85817,A,Compositae,,Homoianthus,,"nivalis",,"","Phil.",Synonym,,M,TICA,29A4AAE4-18F3-45AB-B970-797F89EF3169,123755-2,"","","308","1894",gcc-12399
+gcc-108573,A,Compositae,,Homoianthus,,"palustris",,"","Phil.",Synonym,,M,TICA,4D44115A-A203-45DE-805E-AC97C248AFC3,225032-1,"Anales Univ. Chile (1865) II. 316.","","316","1865",gcc-18311
+gcc-81187,A,Compositae,,Homoianthus,,"patagonicus",,"","Gand.",Synonym,,L,TICA,D4ABB235-8652-49D7-AD37-6F3C8EE2D5D1,123757-2,"Bull. Soc. Bot. France 65","","45","1918",gcc-88534
+gcc-40612,A,Compositae,,Homoianthus,,"pectinatus",,"","Phil.",Synonym,,L,TICA,D8275ADA-7A40-43B2-9339-4B462AEE2AA0,,"""Anales Univ. Chile (1862) II. 336; et in Linnaea, xxxiii. (1864-65) 124.""","","","1862",gcc-88534
+gcc-139013,A,Compositae,,Homoianthus,,"pectinellus",,"","Gand.",Synonym,,M,TICA,B4AB5771-5628-473A-A067-F1D2A5634C6D,123759-2,"Bull. Soc. Bot. France 65","","45","1918",gcc-4538
+gcc-122823,A,Compositae,,Homoianthus,,"pinnatifidus",,"","(Bonpl.) Spreng.",Synonym,,M,TICA,FF028866-F69A-457C-A403-CCE1A22D2C27,,"""Systema Vegetabilium, editio decima sexta 3:""","","503","1826",gcc-126989
+gcc-5190,A,Compositae,,Homoianthus,,"pinnatifidus",,"","D.Don",Synonym,Illegitimate,M,TICA,8932F8DB-28BC-4021-8E4A-09B2462BAC99,225036-1,"Trans. Linn. Soc. London 16(2): 209","","209","1830",gcc-126989
+gcc-17657,A,Compositae,,Homoianthus,,"pristiphyllus",,"","J.Rémy",Synonym,,M,TICA,BF9D189C-BB36-4CF6-AE07-2095268FA4AF,,"""in C. Gay, Fl. Chil. iii. 419""","","419","",gcc-21970
+gcc-103507,A,Compositae,,Homoianthus,,"pungens",,"","DC.",Unresolved,,L,TICA,CED9EC0E-F8D5-44D6-9EB3-A16F420ADABD,225038-1,"Mem. Labiatifl. t. 3. f. 5.","","t. 3. f. 5","",
+gcc-4137,A,Compositae,,Homoianthus,,"pungens",,"","(Bonpl.) Spreng.",Synonym,,M,TICA,4E171C20-CF4D-4C39-88B4-07B40FA04251,,"""Systema Vegetabilium, editio decima sexta 3:""","","503","1826",gcc-91102
+gcc-124669,A,Compositae,,Homoianthus,,"remyanus",,"","Phil.",Synonym,,M,TICA,7998845A-4DF8-4DD8-A782-D13C22236407,123760-2,"","","310","1894",gcc-21970
+gcc-76849,A,Compositae,,Homoianthus,,"rigidus",,"","Phil.",Synonym,,M,TICA,234F9C97-5ADB-4D4B-B950-658FC4502F0B,225039-1,"Linnaea 28: 719. 1858","","719","1858",gcc-4538
+gcc-35265,A,Compositae,,Homoianthus,,"scaber",,"","Benth.",Synonym,,M,TICA,11905AFA-7909-4E6F-BEF2-4161B6AB3999,225040-1,"Pl. Hartw. 136.","","136","1844",gcc-91102
+gcc-32128,A,Compositae,,Homoianthus,,"squarrosus",,"","(Vahl) DC.",Unresolved,,L,TICA,A8AA18B1-524A-445F-98F9-3B809FA15578,225041-1,"Prodr. (DC.) 7(1): 64","","64","1838",
+gcc-83779,A,Compositae,,Homoianthus,,"tomentosus",,"","Poepp. ex DC.",Unresolved,,L,TICA,75B52D3E-F6CB-4BAD-B649-7503C59041C8,225042-1,"Prodr. (DC.) 7(1): 60","","60","1838",
+gcc-98296,A,Compositae,,Homoianthus,,"triceps",,"","Phil.",Synonym,,L,TICA,62784C96-26E5-40CF-A253-95C5F3083694,123761-2,"","","307","1894",gcc-88534
+gcc-23899,A,Compositae,,Homoianthus,,"variabilis",,"","Phil.",Synonym,,M,TICA,AD125FB1-029C-47CA-8721-2C2B9C2AECA1,123762-2,"","","306","1894",gcc-113735
+gcc-16096,A,Compositae,,Homoianthus,,"viscosus",,"","(Less.) DC.",Synonym,,M,TICA,FF4C79C6-0B6F-4B8A-BE07-1DC6958101FD,225043-1,"Prodr. (DC.) 7(1): 64","","64","1838",gcc-50856

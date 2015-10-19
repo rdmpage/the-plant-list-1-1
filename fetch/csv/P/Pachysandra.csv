@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-4900003,A,Buxaceae,,Pachysandra,,"axillaris",,"","Franch.",Accepted,,M,TRO,4900003,353204-1,"Pl. Delavay.","135, pl. 26","135","1889",
+tro-50007370,A,Buxaceae,,Pachysandra,,"axillaris",var.,"axillaris","",Synonym,,L,TRO,50007370,,"","","","",tro-4900003
+tro-50118479,A,Buxaceae,,Pachysandra,,"axillaris",var.,"glaberrima","(Hand.-Mazz.) C.Y. Wu",Accepted,,L,TRO,50118479,875047-1,"Fl. Yunnan.","1: 154","154","1977",
+tro-50007374,A,Buxaceae,,Pachysandra,,"axillaris",var.,"kouytchensis","H. Lév.",Synonym,,L,TRO,50007374,,"Fl. Kouy-Tchéou","166","166","1914",tro-50118478
+tro-50118474,A,Buxaceae,,Pachysandra,,"axillaris",subsp.,"stylosa","(Dunn) Boufford & Q.Y. Xiang",Accepted,,L,TRO,50118474,967767-1,"Bot. Bull. Acad. Sin.","33(2): 205–207","205","1992",
+tro-4900137,A,Buxaceae,,Pachysandra,,"axillaris",var.,"tricarpa","Hayata",Synonym,,L,TRO,4900137,,"Icon. Pl. Formosan.","2: 129–130","129","1912",tro-4900003
+kew-2414276,A,Buxaceae,,Pachysandra,,"bodinieri",,"","H.Lév.",Unresolved,,L,WCSP (in review),,128712-1,"Repert. Spec. Nov. Regni Veg.","12: 187","","1913",
+kew-2868086,A,Buxaceae,,Pachysandra,,"coriacea",,"","Hook.",Synonym,,L,WCSP (in review),,353205-1,"Exot. Fl.","2: t. 148","","1825",kew-2869348
+kew-2868087,A,Buxaceae,,Pachysandra,,"erecta",,"","Raf. ex Baill.",Unresolved,,L,WCSP (in review),,353206-1,"Monogr. Buxac.","56","","1859",
+tro-50007368,A,Buxaceae,,Pachysandra,,"mairei",,"","H. Lév.",Synonym,,M,TRO,50007368,128713-1,"Cat. Pl. Yun-Nan","97, f. 23","97","1916",tro-4900134
+tro-4900021,A,Buxaceae,,Pachysandra,,"procumbens",,"","Michx.",Accepted,,M,TRO,4900021,353207-1,"Fl. Bor.-Amer.","2: 178, pl. 45","178","1803",
+tro-4900141,A,Buxaceae,,Pachysandra,,"stylosa",,"","Dunn",Synonym,,M,TRO,4900141,128714-1,"J. Bot.","46(10): 326","326","1908",tro-50118474
+tro-50118476,A,Buxaceae,,Pachysandra,,"stylosa",var.,"glaberrima","Hand.-Mazz.",Synonym,,L,TRO,50118476,,"Symb. Sin.","7(2): 236","236","1931",tro-50118479
+tro-50118478,A,Buxaceae,,Pachysandra,,"stylosa",var.,"kouytchensis","(H. Lév.) Robbins",Unresolved,,L,TRO,50118478,,"Sida","3: 239","239","1968",
+kew-2868090,A,Buxaceae,,Pachysandra,,"terminalis",,"","Siebold & Zucc.",Accepted,,M,WCSP (in review),,353208-1,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.","4(2): 142","","1845",
+tro-50323884,A,Buxaceae,,Pachysandra,,"tricarpa",,"","(Hayata) S.S. Ying",Synonym,,M,TRO,50323884,946062-1,"Col. Ill. Fl. Taiwan","3: 118","118","1988",tro-4900003

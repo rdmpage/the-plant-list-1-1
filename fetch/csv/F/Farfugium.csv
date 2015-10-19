@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-130852,A,Compositae,,Farfugium,,"giganteum",,"","Dammann",Unresolved,,L,TICA,F3D2F6EE-5472-44E6-AA02-DF80CAF8D1A5,207629-1,"","","525","1892",gcc-95700
+gcc-92718,A,Compositae,,Farfugium,,"grande",,"","Lindl.",Synonym,,M,TICA,52076327-9D59-42CF-ABFB-8938F38F4474,207630-1,"","","4","1857",gcc-95700
+gcc-9796,A,Compositae,,Farfugium,,"hiberniflorum",,"","(Makino) Kitam.",Accepted,,M,TICA,D524F174-BDC9-4BE5-B7E2-124E9E441274,,"Acta Phytotax. Geobot. 8","","","1939",
+gcc-95700,A,Compositae,,Farfugium,,"japonicum",,"","(L.) Kitam.",Accepted,,M,TICA,5A318204-510A-415F-BCEC-8FF7F1770756,207632-1,"Acta Phytotax. Geobot. 8: 268 (1939)","","268","1939",
+gcc-55404,A,Compositae,,Farfugium,,"japonicum",var.,"giganteum","Kitam.",Accepted,,L,TICA,8E39739F-0BE0-49F4-8E70-75C10B276D78,,"Acta Phytotax. Geobot. 8: 78 (1939)","","78","1939",
+gcc-146671,A,Compositae,,Farfugium,,"japonicum",f.,"japonicum","",Synonym,,L,TICA,613EEC27-6366-407A-9F5F-1D9CD477F90B,,"","","","",gcc-95700
+gcc-152183,A,Compositae,,Farfugium,,"japonicum",var.,"japonicum","",Synonym,,L,TICA,9122C3B4-38C0-406C-BA95-9445F8D4D871,,"","","","",gcc-95700
+gcc-26802,A,Compositae,,Farfugium,,"japonicum",var.,"luchuense","(Masam.) Kitam.",Accepted,,L,TICA,1C308DCE-2B93-4714-A3A2-3188AEDCE9D1,,"","","182","1942",
+gcc-73670,A,Compositae,,Farfugium,,"japonicum",f.,"luteofuscus","Tawada",Synonym,,L,TICA,4D87B9DB-3E62-4908-A1DA-221928316762,877260-1,"","","56","1975",gcc-95700
+gcc-116825,A,Compositae,,Farfugium,,"kaempferi",,"","(Siebold & Zucc.) Benth.",Synonym,,M,TICA,D3589B19-A577-4A93-A362-BF4E911818D1,207633-1,"","","191","1861",gcc-95700
+gcc-76294,A,Compositae,,Farfugium,,"luchuense",,"","(Masam.) Kitam.",Synonym,,M,TICA,69A486BE-23F0-4532-96B8-6461E911E966,,"","","","1939",gcc-95700
+gcc-86391,A,Compositae,,Farfugium,,"tussilagineum",,"","(Burm.f.) Kitam.",Synonym,,M,TICA,732CE3D6-DD51-4ECC-99DB-7ACEB3DC6A36,207635-1,"","","73","1939",gcc-95700
+tro-100378130,A,Compositae,,Farfugium,,"tussilagineum",var.,"formosanum","(Hayata) Kitam.",Synonym,,L,TRO,100378130,,"","","","",gcc-95700

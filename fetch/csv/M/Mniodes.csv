@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-100443,A,Compositae,,Mniodes,,"andina",,"","A.Gray",Unresolved,,L,TICA,F0D8F868-3DCE-492F-AB27-9AA4EF80F7B7,233405-1,"in Herb. Kew.","","","",
+gcc-139857,A,Compositae,,Mniodes,,"andina",,"","(A.Gray) A.Gray ex Cuatrec.",Unresolved,,L,TICA,934B47B6-A4E5-4A26-9698-F3A3D9539718,,"","","","1954",
+gcc-27702,A,Compositae,,Mniodes,,"andina",,"","(A.Gray) A.Gray ex Hook.f. & A.B.Jacks.",Accepted,,M,TICA,CF6077FC-3BE5-47B0-B188-3333D46A5E40,,"Index Kewensis 2:","","250","1893",
+gcc-14791,A,Compositae,,Mniodes,,"aretioides",,"","(Sch.Bip.) Cuatrec.",Accepted,,M,TICA,CCF5B241-EA59-49CF-A414-1B6CD5F2C1DA,290844-2,"","","3","1954",
+gcc-2249,A,Compositae,,Mniodes,,"cerrateae",,"","Ferreyra",Unresolved,,L,TICA,FA0AA578-1997-4B68-A91B-04120C843094,280985-2,"""in Bol. Soc. Peruana Bot., 8(1–2): 80 (1980), as 'cerratei'""","","80","1980",
+gcc-135489,A,Compositae,,Mniodes,,"cerratei",,"","Ferreyra",Synonym,,M,TICA,78E57C8B-37F2-4857-B0B5-EA20B698DEE8,,"Bol. Soc. Peruana Bot. 8: 80. 1980","","80","1980",gcc-81296
+gcc-8889,A,Compositae,,Mniodes,,"coarctata",,"","Cuatrec.",Accepted,,M,TICA,412F6FFF-AFF8-4626-955B-10A03AD3A5CD,162929-2,"","","4","1954",
+gcc-32291,A,Compositae,,Mniodes,,"ferreyrae",,"","Cuatrec.",Synonym,,M,TICA,398319F8-7E8D-47F6-A6F6-3BD5187AA9CD,162930-2,"","","6","1954",gcc-24406
+gcc-24406,A,Compositae,,Mniodes,,"pulvinata",,"","Cuatrec.",Accepted,,M,TICA,5E7E1CDB-BC81-4254-A2B4-2D1209FA5527,,"Folia Biol. Andina 1:","","5","1954",
+gcc-105696,A,Compositae,,Mniodes,,"pulvinulata",,"","Cuatrec.",Unresolved,,L,TICA,8F0AFD49-609F-4086-9450-A61F8F7991FB,,"","","","1954",
+gcc-99579,A,Compositae,,Mniodes,,"tunariensis",,"","(Kuntze) Hieron. ex Weberb.",Synonym,,L,TICA,C5530E53-C498-435D-AFA4-98AA3302E85C,,"","","731","1945",gcc-102020

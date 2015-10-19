@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23363,A,Compositae,,Omalotheca,,"afghanica",,"","(Rech.fil. & Köie) J.Holub",Accepted,,M,TICA,AFFA211E-833A-45B7-BAD2-2B41F53E3AD6,235183-1,"Folia Geobot. Phytotax. 11(1): 81","","81","1976",
+gcc-39721,A,Compositae,,Omalotheca,,"alpigena",,"","(K.Koch) J.Holub",Unresolved,,L,TICA,27516E15-61C9-4EB2-9321-49B3EBF747E8,235184-1,"Folia Geobot. Phytotax. 11(1): 81","","81","1976",
+gcc-80900,A,Compositae,,Omalotheca,,"caucasica",,"","(Sommier & Levier) Czerep.",Synonym,,M,TICA,36BADD46-9D97-4483-897B-6E9D5043A18F,984674-1,"","","88","1981",gcc-118271
+gcc-125347,A,Compositae,,Omalotheca,,"einseleana",,"","(F.W.Schultz) F.W.Schultz",Unresolved,,L,TICA,6A03276B-6AB9-4878-B7A3-D2D1AB77A28A,235185-1,"Arch. Fl. 2: 311. 1861 [Apr 1861]","","311","1861",
+gcc-2245,A,Compositae,,Omalotheca,,"hoppeana",,"","(W.D.J.Koch) Sch.Bip. & F.W.Schultz",Synonym,,M,TICA,FBDB1ED4-4B23-4D0D-9D27-0411461A21BF,235186-1,"","","311","1861",gcc-76073
+gcc-146821,A,Compositae,,Omalotheca,,"hoppeana",subsp.,"hoppeana","",Synonym,,L,TICA,047086C7-0BD6-43E1-B210-2059B62D797C,,"","","","",gcc-76073
+gcc-25507,A,Compositae,,Omalotheca,,"leucopilina",,"","(Boiss.) Holub",Unresolved,,L,TICA,64A6FBB2-0C1D-4DD1-82F1-2F173CB03C75,235187-1,"","","81","1976",gcc-80898
+gcc-91533,A,Compositae,,Omalotheca,,"nanchuensis",,"","(Y.Ling & Y.Q.Tseng) J.Holub",Unresolved,,L,TICA,990B48E0-FC1D-4698-A3A1-86947B8CCBEF,,"Preslia 70(2): 108 (1998):.","","108","1998",
+gcc-81833,A,Compositae,,Omalotheca,,"norvegica",,"","(Gunnerus) Sch.Bip. & F.W.Schultz",Accepted,,M,TICA,D461B166-FF78-41EA-9D87-70AB95A04B98,235188-1,"","","311","1861",
+gcc-115140,A,Compositae,,Omalotheca,,"pichleri",,"","(Murb.) Holub",Unresolved,,L,TICA,6B39105A-DF7A-4864-8C73-BB71CFDCF1AC,235189-1,"","","271","1976",gcc-37531
+gcc-100099,A,Compositae,,Omalotheca,,"roeseri",,"","(Boiss. & Heldr.) Holub",Unresolved,,L,TICA,32F5EB37-FB27-43E8-9AAF-99D389E2CEF4,235190-1,"","","271","1976",gcc-30489
+gcc-14341,A,Compositae,,Omalotheca,,"stewartii",,"","(Clarke) J.Holub",Accepted,,L,TICA,4F3E758F-13F6-4D60-BEE6-1AA13CB47BB5,,"Folia Geobot. Phytotax. 12(4): 429","","429","1977",
+gcc-95459,A,Compositae,,Omalotheca,,"stewartii",,"","(C.B.Clarke) Holub",Synonym,,M,TICA,0A895B54-28ED-40B2-B5F4-8F6917A0F63C,235191-1,"Holub in Folia Geobot. Phytotax. 12. 1977.","","429","1977",gcc-6689
+gcc-15226,A,Compositae,,Omalotheca,,"supina",,"","(L.) Cass.",Synonym,,M,TICA,AE8FC17C-7747-4CD6-9396-1C31B812FD25,,"Dictionnaire des Sciences Naturelles [Second edition] 56:","","218","1828",gcc-105733
+gcc-4235,A,Compositae,,Omalotheca,,"supina",,"","(L.) DC.",Accepted,,M,TICA,5C2A2192-B31D-437E-B17B-07DD1B5A02F6,235192-1,"","","245","1838",
+gcc-29482,A,Compositae,,Omalotheca,,"sylvatica",,"","(L.) Sch.Bip. & F.W.Schultz",Synonym,,M,TICA,55F0C161-D1D0-4486-9121-367E06475C51,235193-1,"","","311","1861",gcc-118271
+gcc-65549,A,Compositae,,Omalotheca,,"sylvatica",subsp.,"carpetana","(Willk.) Rivas Mart.",Synonym,,L,TICA,5107AB40-DAB8-4B04-B9E9-C79E5D609089,919554-1,"","","328","1980",gcc-118271
+gcc-145819,A,Compositae,,Omalotheca,,"sylvatica",subsp.,"sylvatica","",Synonym,,L,TICA,9A83B1E3-4EA7-494B-96CC-0B731F827C0D,,"","","","",gcc-118271
+gcc-105214,A,Compositae,,Omalotheca,×,"traunsteineri",,"","(J.Murr.) Dostál",Unresolved,,L,TICA,D6FA21B1-3AE3-4251-BB5A-A51F8A3889D1,914310-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 12 (1984):.""","","12","1984",

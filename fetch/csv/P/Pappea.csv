@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2403456,A,Apiaceae,,Pappea,,"capensis",,"","Sond.",Synonym,Illegitimate,M,WCSP (in review),,845641-1,"Fl .Cap.","2: 562","","1862",kew-2719531
+kew-2543085,A,Sapindaceae,,Pappea,,"capensis",,"","Eckl. & Zeyh.",Accepted,,M,WCSP (in review),,784027-1,"Enum. Pl. Afric. Austral.","53","","1835",
+tro-28600824,A,Sapindaceae,,Pappea,,"capensis",var.,"radkloferi","Schinz",Synonym,,L,TRO,28600824,,"","","","",kew-2543085
+tro-28600825,A,Sapindaceae,,Pappea,,"fulva",,"","Conrath",Synonym,,M,TRO,28600825,784028-1,"Kew Bull.","1908, 221","1908","1908",kew-2543085
+kew-2543087,A,Sapindaceae,,Pappea,,"radlkoferi",,"","Schweinf. ex Penz.",Unresolved,,L,WCSP (in review),,784029-1,"Atti Congr. Int. Bot. Genova","336","","1893",
+kew-2543089,A,Sapindaceae,,Pappea,,"schumanniana",,"","Schinz",Unresolved,,L,WCSP (in review),,784031-1,"Verh. Bot. Vereins Prov. Brandenburg","30: 156","","1888",
+tro-28600826,A,Sapindaceae,,Pappea,,"ugandensis",,"","Baker f.",Synonym,,M,TRO,28600826,,"","","","",kew-2543085

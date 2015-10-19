@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98762,A,Compositae,,Schistocarpha,,"bicolor",,"","Less.",Accepted,,M,TICA,968D801B-4C95-4682-A58E-96CF2BAF4E8A,242837-1,"Linnaea 6","","409","1831",
+gcc-125784,A,Compositae,,Schistocarpha,,"calzadana",,"","B.L.Turner",Unresolved,,L,TICA,61417A8E-C372-4D56-AFD9-D3D5A81F0E31,20010110-1,"Sida 20(2)","","505","2002",
+gcc-18387,A,Compositae,,Schistocarpha,,"chiapensis",,"","H.Rob.",Synonym,,M,TICA,53783D46-E863-4FCD-9248-21F86EC49571,,"","","11","1979",gcc-98762
+gcc-88113,A,Compositae,,Schistocarpha,,"croatii",,"","H.Rob.",Accepted,,M,TICA,6F6A79D8-74A9-4A4B-B9DE-7EB4ACC7D24F,,"Phytologia 29(5)","","","1975",
+gcc-10599,A,Compositae,,Schistocarpha,,"eupatorioides",,"","Hieron.",Unresolved,Illegitimate,L,TICA,AE2D7A44-C3FC-4A79-B0CC-13CDFB6916B1,,"Bot. Jahrb. Syst. 29: 63. 1900","","63","",
+gcc-132373,A,Compositae,,Schistocarpha,,"eupatorioides",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,CBCE20CA-BC3A-436F-8827-E31FCBD040DB,,"Bot. Jahrb. Syst. xxix. 63.","","63","",
+gcc-9538,A,Compositae,,Schistocarpha,,"eupatorioides",,"","(Fenzl) Kuntze",Accepted,,M,TICA,3C0414CF-D1DB-4520-B653-11CEC08A54C6,987251-1,"","","170","1898",
+gcc-95495,A,Compositae,,Schistocarpha,,"hoffmannii",,"","Kuntze",Synonym,,M,TICA,6A32400E-054F-4129-9005-8F82E0B9A038,229262-2,"Revis. Gen. Pl. 3[3]: 170","","170","1898",gcc-9538
+gcc-18413,A,Compositae,,Schistocarpha,,"hondurensis",,"","Standl. & L.O.Williams",Accepted,,M,TICA,26EFE43D-2951-44FA-932B-2203CE690685,229263-2,"","","65","1952",
+gcc-109043,A,Compositae,,Schistocarpha,,"karwinskii",,"","Sch.Bip.",Unresolved,,L,TICA,D316E8B1-FB06-4793-BB23-ADBD0068C662,,"","","","",
+gcc-51183,A,Compositae,,Schistocarpha,,"kellermanii",,"","Rydb.",Accepted,,M,TICA,75F5DD30-BDF2-4BB8-8B70-5EEDE8B28930,229264-2,"N. Amer. Fl. 34","","306","1927",
+gcc-87640,A,Compositae,,Schistocarpha,,"liebmannii",,"","Klatt",Accepted,,M,TICA,C8A0A601-D3E2-4950-BE7C-7DBB6574EFE9,229265-2,"Leopoldina 23","","146","1887",
+gcc-153603,A,Compositae,,Schistocarpha,,"lindenii",,"","J. D. Smith",Synonym,,M,TICA,32C86422-4395-4502-88C7-B1B5752B92FA,,"","","","",gcc-9538
+gcc-41397,A,Compositae,,Schistocarpha,,"lindenii",,"","Sch.Bip. ex Donn.Sm.",Synonym,Illegitimate,M,TICA,43787978-F220-4BED-B278-4CAB30B26656,,"Enum. Pl. Guatem. 1","","24","1881",gcc-9538
+gcc-83756,A,Compositae,,Schistocarpha,,"longiligula",,"","Rydb.",Accepted,,M,TICA,0415C3E9-117A-4332-81A1-74F756DA5C66,229267-2,"N. Amer. Fl. 34","","305","1927",
+gcc-63405,A,Compositae,,Schistocarpha,,"longiligula",var.,"longiligula","",Synonym,,L,TICA,1B521143-A687-49D8-BE27-B69F35073B82,,"","","","1927",gcc-83756
+gcc-47719,A,Compositae,,Schistocarpha,,"longiligula",var.,"seleri","(Rydb.) B.L.Turner",Accepted,,L,TICA,F52EBD51-FBCA-42B0-B6FB-586961C8F4C0,284701-2,"","","280","1986",
+gcc-76075,A,Compositae,,Schistocarpha,,"margaritensis",,"","Cuatrec.",Synonym,,M,TICA,CAFB233F-6F3A-4700-8219-63D147BA4D14,229268-2,"Revista Acad. Colomb. Ci. Exact. 9","","244","1954",gcc-9538
+gcc-35676,A,Compositae,,Schistocarpha,,"matudae",,"","B.L.Rob.",Accepted,,M,TICA,904717A7-373C-413A-B063-422E3AB7EC3F,,"","","","1979",
+gcc-9479,A,Compositae,,Schistocarpha,,"matudae",,"","H.Rob.",Synonym,,M,TICA,F09D176A-A3FA-45DB-A4A6-11B1DD92353F,229269-2,"","","14","1979",gcc-98762
+gcc-41746,A,Compositae,,Schistocarpha,,"oppositifolia",,"","(Kuntze) Rydb.",Synonym,,M,TICA,2E04B81D-4A02-44E1-B96B-4D4F28401B30,229270-2,"N. Amer. Fl. 34","","306","1927",gcc-9538
+gcc-1655,A,Compositae,,Schistocarpha,,"paniculata",,"","Klatt ex T.Durand & Pitt.",Unresolved,,L,TICA,25175952-E14E-4B85-831E-02F8D31BA610,,"in Bull. Soc. Bot. Belg. xxxi. 1892 (1893) 210 [Schistocarpa]; et in Jahrb.Hamb. Wiss. Anstalt. ix. (1891) extr. 3.","","3","",
+gcc-93177,A,Compositae,,Schistocarpha,,"paniculata",,"","Klatt",Accepted,,M,TICA,92330960-B656-407F-8128-8A2E9339A564,229271-2,"","","210","1892",
+gcc-18302,A,Compositae,,Schistocarpha,,"pedicellata",,"","Klatt",Accepted,,M,TICA,36827272-7C6F-468E-977B-21D16E335C15,,"","","","1887",
+gcc-129335,A,Compositae,,Schistocarpha,,"platyphylla",,"","Greenm.",Accepted,,M,TICA,25079ADE-6EA0-4B1C-9C57-DC06FE3A55F1,,"""Publ. Field Columbian Mus., Bot. Ser. 2""","","","1907",
+gcc-45449,A,Compositae,,Schistocarpha,,"pseudoseleri",,"","H.Rob.",Synonym,,M,TICA,8609CB2C-5072-427D-A1CA-54396289F304,229274-2,"","","16(-17)","1979",gcc-98762
+gcc-47268,A,Compositae,,Schistocarpha,,"seleri",,"","Rydb.",Synonym,,M,TICA,83067A68-99F4-4360-8C03-578C5BF33543,284702-2,"N. Amer. Fl. 34: 305. 1927","","305","1927",gcc-47719
+gcc-139928,A,Compositae,,Schistocarpha,,"sinforosi",,"","Cuatrec.",Accepted,,M,TICA,A4C513FC-5E7C-4705-9E3A-F3CB394574BA,,"""Trab. Mus. Nac. Ci. Nat., Ser. Bot. No. 27, Cuadro 12 (1934), nomen; et in Trab. Mus. Cienc. Nat., Madrid,. Ser. Bot., No. 29, p. 43 (1935), descr.""","","","",
+gcc-82434,A,Compositae,,Schistocarpha,,"steyermarkiana",,"","H.Rob.",Accepted,,M,TICA,AB3D0D6D-FB04-4CE7-98BE-721227442A9F,229276-2,"Phytologia 29","","248","1974",
+gcc-93837,A,Compositae,,Schistocarpha,,"triangularis",,"","Rusby",Unresolved,,L,TICA,32BBD47E-EE56-4CEE-BF84-8B95C0C7A44B,229277-2,"","","392","1907",
+gcc-126811,A,Compositae,,Schistocarpha,,"velutina",,"","Rydb.",Synonym,,M,TICA,A92E42EA-A371-4C02-BDF7-D627B0FCF957,229278-2,"N. Amer. Fl. 34","","304","1927",gcc-98762
+gcc-79308,A,Compositae,,Schistocarpha,,"wilburii",,"","H.Rob.",Synonym,,M,TICA,CBACBE9F-4BAB-4CF7-B80C-6B25DB4CCA96,,"","","","1979",gcc-93177

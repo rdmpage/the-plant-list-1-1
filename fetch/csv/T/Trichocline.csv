@@ -1,0 +1,78 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86125,A,Compositae,,Trichocline,,"angustifolia",,"","(Gardner) Baker",Unresolved,,L,TICA,7C1011A0-1091-488F-B980-7A3718835226,1078532-2,"Fl. Bras. (Martius) 6(3)","","373","1884",
+gcc-154948,A,Compositae,,Trichocline,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,69D36015-130B-478B-B852-CE18AD72D4A0,,"","","","",gcc-897
+gcc-37564,A,Compositae,,Trichocline,,"araneosa",,"","Baker",Unresolved,,L,TICA,59D99436-49DD-4B8D-B529-45A4CBA63F6D,319448-2,"Fl. Bras. (Martius) 6(3)","","374","1884",
+gcc-114421,A,Compositae,,Trichocline,,"arenaria",,"","Baker ex Mart.",Unresolved,,L,TICA,77425573-9700-432E-946D-B9D1BA20965A,313039-2,"Fl. Bras. (Martius) 6(3): 374. 1884","","374","1884",
+gcc-98680,A,Compositae,,Trichocline,,"arenaria",,"","Baker",Synonym,,M,TICA,9EE7AFF3-03BA-43F1-A4D3-96A41DE9C673,,"Fl. Bras. (Martius) 6(3): 374","","374","1884",gcc-77075
+gcc-22793,A,Compositae,,Trichocline,,"argentea",,"","Griseb.",Synonym,,M,TICA,A6DA4E00-D222-4E6B-8E8F-2A2F769EDD30,256204-1,"in Goett. Abh. xxiv. (1879) 214.","","xxiv.  214.","1879",gcc-103015
+gcc-30258,A,Compositae,,Trichocline,,"aurea",,"","(D.Don) Reiche",Accepted,,M,TICA,CD34A19F-20F6-403A-823D-37FFDB48F0B2,257179-2,"","","343","1904",
+gcc-94130,A,Compositae,,Trichocline,,"auriculata",,"","(Wedd.) Hieron.",Accepted,,M,TICA,D8A9A152-F5DC-4E28-8CA1-8C4A34F1394A,257180-2,"Bot. Jahrb. Syst. 21: 369. 1896","","369","1896",
+gcc-51234,A,Compositae,,Trichocline,,"auriculata",var.,"auriculata","",Synonym,,L,TICA,C81A4ED1-DAB0-49A5-95ED-5F0148ACA594,,"Bot. Jahrb. Syst. 21: 369 (1896)","","369","1896",gcc-94130
+gcc-118161,A,Compositae,,Trichocline,,"beckerae",,"","H.Rob.",Unresolved,,L,TICA,D04B93B5-7D75-484E-BBD3-C24B214DDC83,286321-2,"""Phytologia 65(1): 47 (1988), as 'beckeri'""","","47","1988",
+gcc-100816,A,Compositae,,Trichocline,,"beckeri",,"","B.L.Rob.",Synonym,,M,TICA,058386A2-3C30-453A-A91D-9B7EDA3A763D,,"","","","",gcc-114664
+gcc-137549,A,Compositae,,Trichocline,,"beckeri",,"","H.Rob.",Synonym,,M,TICA,AEE3B6E7-3E4F-4D33-B641-EEACAB8AFFAD,,"""Phytologia 65: 47 (-48), fig. 1988""","","","1988",gcc-114664
+gcc-49255,A,Compositae,,Trichocline,,"boecheri",,"","Cabrera",Accepted,,M,TICA,1107F254-EC6D-4814-982A-5B3AAB10E4CE,257182-2,"","","122","1973",
+gcc-22749,A,Compositae,,Trichocline,,"calyculata",,"","Hieron.",Unresolved,,L,TICA,71369AD3-2D4A-4C05-A311-2A198569C60D,,"","","","",
+gcc-4907,A,Compositae,,Trichocline,,"catharinensis",,"","Cabrera",Accepted,,M,TICA,047ECF3D-76BF-4FB3-8F5A-0928B9D980AB,257183-2,"","","""44, f. 13, 14""","1973",
+gcc-5476,A,Compositae,,Trichocline,,"catharinensis",var.,"catharinensis","",Synonym,,L,TICA,529C5F69-6AFD-4A87-A6B0-0A3709755FA8,,"Fl. Il. Catarinense fasc. COMP: 44 (1973)","","44","1973",gcc-4907
+gcc-114693,A,Compositae,,Trichocline,,"caulescens",,"","Phil.",Accepted,,M,TICA,E44888A9-BDE6-4C9D-A827-BA74C2998CB6,257185-2,"","","31","1891",
+gcc-12045,A,Compositae,,Trichocline,,"caulescens",,"","Remy",Unresolved,,L,TICA,51271240-ABAF-4520-9534-1672482D2F20,,"","","","",
+tro-50259802,A,Compositae,,Trichocline,,"cinearea",var.,"pulvinata","(Kuntze) Hauman",Synonym,,L,TRO,50259802,,"Anales Soc. Ci. Argent.","86(5–6): 337","337","1918",gcc-28662
+gcc-81885,A,Compositae,,Trichocline,,"cineraria",,"","(D.Don) Hook. & Arn.",Accepted,,M,TICA,CBE39E12-8425-4E25-A7D8-70CBB255449B,,"in Hook. Comp. Bot. Mag. i. (1835) 103.","","","1835",
+gcc-156529,A,Compositae,,Trichocline,,"cineraria",var.,"cineraria","",Synonym,,L,TICA,D016FB27-F098-460A-BBBD-EF120C5CE3B3,,"","","","",gcc-81885
+gcc-61502,A,Compositae,,Trichocline,,"cineraria",var.,"pulvinata","(Kuntze) Hauman",Synonym,,L,TICA,BA93B6E6-3966-42E7-A6D9-A739C7742B5A,257187-2,"Anales Soc. Ci. Argent. 86: 337. 1918","","337","1918",gcc-28662
+gcc-82952,A,Compositae,,Trichocline,,"collina",,"","Baker",Synonym,,M,TICA,01B3E553-E8CD-4EC6-86D3-73339E7AD34A,,"Fl. Bras. (Martius) 6(3): 373","","373","",gcc-124307
+gcc-50833,A,Compositae,,Trichocline,,"contrayerba",,"","(Kurtz) Hauman",Synonym,,M,TICA,7E153CE8-1B7A-4D5A-8A58-5E49AE41C01A,,"","","","1918",gcc-81885
+gcc-119029,A,Compositae,,Trichocline,,"cordata",,"","Baker ex Glaz.",Unresolved,,L,TICA,F6BFAFA4-DC06-4B09-B45E-C455EB4D85E7,256212-1,"""Bull. Soc. Bot. France 57(Mém. 3e): 423, nomen""","","423","1910",
+gcc-42419,A,Compositae,,Trichocline,,"cordata",,"","Baker",Unresolved,,L,TICA,D6E7D1C8-0289-4439-BB55-4E9385DCFA4C,257189-2,"Bull. Soc. Bot. France 57(Mém. 3e): 423","","423","1910",
+gcc-122747,A,Compositae,,Trichocline,,"cordifolia",,"","Baker",Synonym,,M,TICA,087379FD-B39D-4D37-B985-CCB63757987A,256213-1,"","","197","",gcc-44541
+gcc-104093,A,Compositae,,Trichocline,,"crenata",,"","(J.Rémy) Hieron.",Unresolved,,L,TICA,4BE678F1-74CE-4F04-AA9C-A2C0B2CE3057,257191-2,"Bot. Jahrb. Syst. 21: 369. 1896","","369","1896",
+gcc-98908,A,Compositae,,Trichocline,,"crenata",,"","(J.Rémy) Reiche",Synonym,,M,TICA,373BD777-C3DA-4839-BB51-9726DB40D24E,256214-1,"""Fl. Chile, iv. 360.""","","iv. 360","",gcc-81885
+gcc-17081,A,Compositae,,Trichocline,,"crispa",,"","(Phil.) Cabrera",Unresolved,,L,TICA,CB91F233-DEBF-4283-894E-1F9558546374,257192-2,"","","200","1937",
+gcc-117349,A,Compositae,,Trichocline,,"crispata",,"","Cabrera",Accepted,,L,TICA,0FACAECD-12A3-451B-BBBF-C079F9636AAE,,"","","","",
+gcc-138701,A,Compositae,,Trichocline,,"dealbata",,"","(Hook. & Arn.) Hieron.",Unresolved,,L,TICA,ED91561F-0877-469A-9F17-F1325F12AFD6,256216-1,"Pl. Diaph. Fl. Argent. 165. 1882","","165","1882",gcc-28662
+gcc-28662,A,Compositae,,Trichocline,,"dealbata",,"","(Hook. & Arn.) Benth. & Hook.f. ex Griseb.",Accepted,,L,TICA,58BFCEA3-0A7A-42B0-9967-34FA37847FB2,77068699-1,"Symb. Fl. Argent. 215. 1879","","215","1879",
+gcc-81790,A,Compositae,,Trichocline,,"denticulata",,"","Baker",Unresolved,,L,TICA,EBEDBB8F-C0CF-4D93-A1BB-7095C9AF2193,257193-2,"Fl. Bras. (Martius) 6(3)","","375","1884",gcc-21571
+gcc-17119,A,Compositae,,Trichocline,,"deserticola",,"","Zardini",Accepted,,M,TICA,78D93644-CB0D-4697-918E-1FA2A7A46A4F,,"","","304","1976",
+gcc-2113,A,Compositae,,Trichocline,,"eriopus",,"","Baker",Accepted,,M,TICA,2FEF00FF-9108-4978-A3B0-03C8D255C66E,,"Fl. Bras. (Martius) 6(3): 376","","376","",
+gcc-4862,A,Compositae,,Trichocline,,"exscapa",,"","Griseb.",Accepted,,M,TICA,63A97FFA-E553-491C-AFC5-090D6131FFA6,256220-1,"in Goett. Abh. xix. (1874) 197.","","197","1874",
+gcc-105998,A,Compositae,,Trichocline,,"foliosa",,"","Hook. & Arn.",Synonym,,M,TICA,850F87F3-4D78-4E46-AE93-A6D0AAF6083B,256221-1,"in Hook. Comp. Bot. Mag. ii. (1836) 43.","","ii.  43.","1836",gcc-123722
+gcc-143919,A,Compositae,,Trichocline,,"gerberaefolia",,"","Hieron.",Unresolved,Illegitimate,L,TICA,07E15193-DEB3-4207-89F9-FCF15695717B,,"","","","",
+gcc-136161,A,Compositae,,Trichocline,,"heterophylla",,"","(Spreng.) Less.",Accepted,,M,TICA,868EBACF-8865-4268-BCD9-EB9689A529CE,256222-1,"Linnaea 5: 289. 1830","","289","1830",
+gcc-91551,A,Compositae,,Trichocline,,"heterophylla",,"","Griseb.",Synonym,Illegitimate,M,TICA,374BB6BD-9A60-417E-A241-869FE2D170CD,,"","","","",gcc-115526
+gcc-156005,A,Compositae,,Trichocline,,"heterophylla",var.,"heterophylla","",Synonym,,L,TICA,ED689CD4-DF10-4A91-91E5-E49011F8E5A2,,"","","","",gcc-136161
+gcc-58880,A,Compositae,,Trichocline,,"heterophylla",var.,"humilis","(Less.) Baker",Synonym,,L,TICA,630E59FB-73BE-4308-BD9E-921F9CA314DD,257194-2,"""Fl. Bras. (Martius) 6, pt. 3: 372. 1884""","","372","1884",gcc-77089
+gcc-114664,A,Compositae,,Trichocline,,"hieracioides",,"","(Kunth) Ferreyra",Accepted,,M,TICA,FB028329-D49D-4057-8ED2-BA61FD9442B3,257195-2,"","","394","1944",
+gcc-38440,A,Compositae,,Trichocline,,"hieracioides",,"","Baker",Unresolved,,L,TICA,04EC286C-FA7A-408F-A7AC-4750DA7114A8,,"Fl. Bras. (Martius) 6(3): 374","","374","",
+gcc-102848,A,Compositae,,Trichocline,,"humilis",,"","Hook. & Arn.",Unresolved,,L,TICA,79B42AC1-00D1-44C6-8265-A005095E5E0C,256226-1,"in Hook. Comp. Bot. Mag. i. (1835) 103.","","i.  103","1835",
+gcc-77089,A,Compositae,,Trichocline,,"humilis",,"","Less.",Accepted,,M,TICA,08A15C84-2510-4764-B530-661552E17D45,256225-1,"Linnaea 5: 288. 1830","","288","1830",
+gcc-142262,A,Compositae,,Trichocline,,"incana",,"","(Lam.) Cass.",Accepted,,M,TICA,66EBB7EA-40D9-4DD2-AEAD-F93E92DAF1D7,,"in Dict. Sci. Nat. lv. 216.","","216","",
+gcc-78909,A,Compositae,,Trichocline,,"linearifolia",,"","Malme",Accepted,,M,TICA,C5A98AE1-9BA4-4B06-A0BD-6A3ED76A2BED,,"","","","1933",
+gcc-123722,A,Compositae,,Trichocline,,"macrocephala",,"","Less.",Accepted,,M,TICA,4AC20467-43A8-4D3E-B329-CEFF64B190EB,256229-1,"Linnaea 5: 288. 1830","","288","1830",
+gcc-109974,A,Compositae,,Trichocline,,"macrorhiza",,"","Cabrera",Accepted,,M,TICA,05626534-A905-4C18-843C-AFD7FA75A39E,,"","","","1949",
+gcc-84384,A,Compositae,,Trichocline,,"martii",,"","Baker",Unresolved,,L,TICA,6EC03C48-43AA-4C49-B2BD-7675639F3E91,257201-2,"Fl. Bras. (Martius) 6(3)","","375","1884",gcc-7681
+gcc-86785,A,Compositae,,Trichocline,,"maxima",,"","Less.",Accepted,,M,TICA,602FC19A-5E41-43B7-9C97-7BB566FCD7C0,,"Linnaea 5: 290. 1830","","","1830",
+gcc-104981,A,Compositae,,Trichocline,,"nervosa",,"","Less.",Synonym,,M,TICA,7003D69E-8383-47C3-BDA8-A4AC621337D1,257202-2,"Syn. Gen. Compos.","","118","1832",gcc-145218
+gcc-126194,A,Compositae,,Trichocline,,"nivea",,"","Phil.",Synonym,,M,TICA,EF1F2C23-3E69-423D-BE14-D4C7C5A4499D,256234-1,"","","31","",gcc-114693
+gcc-91739,A,Compositae,,Trichocline,,"nivea",,"","Remy",Unresolved,,L,TICA,BB5456EA-5FCE-4E79-80B5-8704652CC226,,"","","","",
+gcc-48163,A,Compositae,,Trichocline,,"nummularia",,"","Baker",Unresolved,,L,TICA,279467A6-52F0-4D90-AC5E-5945DE39C267,,"Fl. Bras. (Martius) 6(3): 375","","375","",
+gcc-137653,A,Compositae,,Trichocline,,"oblonga",,"","(D.Don) Hieron. ex Burkart",Synonym,Illegitimate,L,TICA,4A80E835-9A61-406C-9215-EEE9D2473BC8,,"Darwiniana 6:","","592","1944",gcc-49747
+gcc-21396,A,Compositae,,Trichocline,,"oblonga",,"","Hieron.",Synonym,,L,TICA,F32CF8B9-CB08-4699-AFE4-2789A7655AB3,257204-2,"","","370","1896",gcc-49747
+gcc-3157,A,Compositae,,Trichocline,,"ovalis",,"","(D.Don) Hieron.",Synonym,,L,TICA,EED5A80F-55D2-43C2-901F-05D68C5D9BB5,257205-2,"Bot. Jahrb. Syst. 21: 370. 1896","","370","1896",gcc-49747
+gcc-108655,A,Compositae,,Trichocline,,"paraguayensis",,"","Baker",Synonym,,M,TICA,14B2A5AD-39E5-47F1-B797-ACCCA71A155D,257206-2,"","","198","1892",gcc-124307
+gcc-86330,A,Compositae,,Trichocline,,"pedicularifolia",,"","Walp.",Synonym,,M,TICA,02AB8F7E-6FAA-49ED-81B6-7AABBC785A66,256238-1,"Linnaea 14: 310. 1840","","310","1840",gcc-30258
+gcc-109275,A,Compositae,,Trichocline,,"peruviana",,"","Hieron.",Synonym,,M,TICA,B9A879B2-74DD-44EA-8CE9-AE4AE7B3386C,257207-2,"","","368","1895",gcc-114664
+gcc-103015,A,Compositae,,Trichocline,,"plicata",,"","Hook. & Arn.",Accepted,,M,TICA,611E423C-20A3-4FFA-8736-A05D0B097471,,"in Hook. Comp. Bot. Mag. i. (1835) 103.","","","1835",
+gcc-117514,A,Compositae,,Trichocline,,"polymorpha",,"","(Less.) Baker",Synonym,,M,TICA,9C084F7E-66FA-411F-9807-C0DE0D1BE452,1170321-2,"Fl. Bras. (Martius) 6(3)","","373","1884",gcc-144335
+gcc-51315,A,Compositae,,Trichocline,,"radiata",,"","(Vell.) S.F.Blake",Synonym,,L,TICA,0919920A-9E67-41CA-9FA3-5F2E84C33C9F,257209-2,"","","86","1925",gcc-121391
+gcc-102548,A,Compositae,,Trichocline,,"reptans",,"","(Wedd.) Hieron.",Accepted,,M,TICA,5B8DEE19-6329-48FC-992D-9F5EE6295D8C,,"Bot. Jahrb. Syst. 21: 369. 1896","","369","",
+gcc-91834,A,Compositae,,Trichocline,,"reptans",,"","(Wedd.) B.L.Rob.",Synonym,Illegitimate,M,TICA,1D9CE141-6E52-4C38-A61A-8748F2970DE2,256243-1,"Proc. Amer. Acad. Arts xlix. 515 (1913)","","515","1913",gcc-102548
+gcc-132903,A,Compositae,,Trichocline,,"scapigera",,"","(Benth.) F.Muell.",Unresolved,,L,TICA,8B5043CB-126B-4581-B3B5-E452BE44983D,123778-3,"","","85","1883",
+gcc-16496,A,Compositae,,Trichocline,,"sinuata",,"","(D.Don) Cabrera",Accepted,,M,TICA,A293E9DF-925F-4A34-835D-1E7EBF224916,257211-2,"","","531","1953",
+gcc-111734,A,Compositae,,Trichocline,,"spathulata",,"","(Phil.) Zardini",Synonym,Illegitimate,M,TICA,0A6820A7-0593-4835-A753-B3C97E1B51BE,1120048-2,"","","697","1975",gcc-17119
+gcc-120279,A,Compositae,,Trichocline,,"spathulata",,"","(A.Cunn. ex DC.) J.H.Willis",Accepted,,M,TICA,9D8736C3-684B-4B10-82A6-C71E313793A4,,"","","","1967",
+gcc-124307,A,Compositae,,Trichocline,,"speciosa",,"","Less.",Accepted,,M,TICA,0752ACAC-22FA-48A6-8007-D05F0229F172,256248-1,"Syn. Gen. Compos. 117.","","117","1832",
+gcc-140371,A,Compositae,,Trichocline,,"stuebelii",,"","Hieron.",Unresolved,,L,TICA,19C9EF6F-2228-45AF-B4C4-F4DDA7AEF9C6,,"","","","1896",
+gcc-81081,A,Compositae,,Trichocline,,"stuebelii",,"","Phil.",Synonym,,M,TICA,E92050AF-69CF-4B26-8AAE-6F05D4C4D29E,,"","","","",gcc-114693
+gcc-116944,A,Compositae,,Trichocline,,"tontalensis",,"","Hieron.",Synonym,,M,TICA,FBCF27C9-EAAF-4655-B73F-BF90A727BFF0,256250-1,"""in Bol. Acad. Nac. Cordova, iv. (1881) 49.""","","iv.  49.","1881",gcc-81885
+gcc-113259,A,Compositae,,Trichocline,,"tweediei",,"","DC. ex Steud.",Unresolved,,L,TICA,C998B57D-FFBC-4502-96AE-B73D7505831F,256251-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 701 (Tweedii).""","","701","1841",

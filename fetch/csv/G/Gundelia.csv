@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-151372,A,Compositae,,Gundelia,,"aragatsi",,"","Vitek & al.",Accepted,,M,TICA,61373324-7C8A-41FD-A4B7-8320EDFD386E,,"""Vitek & al. in Ann. Naturhist. Mus. Wien, B 111. 2010""","","92","2010",
+gcc-156718,A,Compositae,,Gundelia,,"aragatsi",subsp.,"aragatsi","",Synonym,,L,TICA,9371F0D7-B6CB-4385-9114-F2DAD1103E4E,,"","","","",gcc-151372
+gcc-10269,A,Compositae,,Gundelia,,"glabra",,"","Mill.",Synonym,,M,TICA,DC1787BE-A914-4748-8419-132EC71BBF3F,210755-1,"","","2","1768",gcc-134061
+gcc-41195,A,Compositae,,Gundelia,,"purpurascens",,"","Bornm.",Unresolved,,L,TICA,DEA863B8-39D2-468E-9A79-4C57250B534F,210756-1,"""Beih. Bot. Centralbl. lx. R. 197, in obs., pro syn.""","","197","1939",
+gcc-14196,A,Compositae,,Gundelia,,"rosea",,"","M.Hossain & Al-Taey",Synonym,,M,TICA,2B4FFE7D-7510-4858-B4F0-1A5500217061,904293-1,"Notes Roy. Bot. Gard. Edinburgh 42: 41 (1984)","","41","1984",gcc-134061
+gcc-127056,A,Compositae,,Gundelia,,"tenuisecta",,"","(Boiss.) Freyn & Sint.",Synonym,,M,TICA,74351E68-BF6D-4D5C-A605-D6BA21416475,210757-1,"Oesterr. Bot. Z. 42","","168","1892",gcc-134061
+gcc-134061,A,Compositae,,Gundelia,,"tournefortii",,"","L.",Accepted,,M,TICA,AF83BF34-0174-4736-B734-E6F911D8CA72,210758-1,"Sp. Pl.","","814","1753",
+gcc-33493,A,Compositae,,Gundelia,,"tournefortii",var.,"asperrima","Trautv.",Synonym,,L,TICA,C26EDC4E-D661-4B0F-95A8-3E1AC88B9881,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 4(1): 146 (1867)","","146","1867",gcc-134061
+gcc-65876,A,Compositae,,Gundelia,,"tournefortii",var.,"glabra","(Mill.) DC.",Synonym,,L,TICA,70B44DFC-A010-4D37-B88A-CA51F762EA9C,,"Prodr. 5: 88 (1836)","","88","1836",gcc-134061
+gcc-81860,A,Compositae,,Gundelia,,"tournefortii",f.,"purpurascens","Bornm.",Synonym,,L,TICA,65598357-ACC7-4258-A251-70BB943180F1,,"Beih. Bot. Centralbl. 60B: 197 (1939)","","197","1939",gcc-134061
+gcc-491,A,Compositae,,Gundelia,,"tournefortii",var.,"tenuisecta","Boiss.",Synonym,,L,TICA,96BAE834-6A90-4C0E-9700-00EB9B551911,,"""Boiss., Fl. Orient. 3. 1875.""","","421","1875",gcc-134061
+gcc-146296,A,Compositae,,Gundelia,,"tournefortii",var.,"tournefortii","",Synonym,,L,TICA,57CBF326-C347-48DC-8014-15C0C154D21C,,"","","","",gcc-134061
+gcc-153931,A,Compositae,,Gundelia,,"tournefortii",f.,"tournefortii","",Synonym,,L,TICA,D5B124F5-45C4-496E-962F-B86463254A71,,"","","","",gcc-134061

@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-413461,A,Poaceae,,Eremopoa,,"altaica",,"","(Trin.) Roshev.",Accepted,,H,WCSP,413461,401753-1,"Fl. URSS","2: 431","","1934",
+kew-413462,A,Poaceae,,Eremopoa,,"altaica",subsp.,"oxyglumis","(Boiss.) Tzvelev",Synonym,,L,WCSP,413462,,"Bot. Zhurn. (Moscow & Leningrad)","51: 1104","","1966",kew-413461
+kew-413463,A,Poaceae,,Eremopoa,,"altaica",subsp.,"songorica","(Schrenk) Tzvelev",Synonym,,L,WCSP,413463,,"Bot. Zhurn. (Moscow & Leningrad)","51: 1104","","1966",kew-413461
+kew-413464,A,Poaceae,,Eremopoa,,"attalica",,"","H.Scholz",Accepted,,H,WCSP,413464,401754-1,"Willdenowia","10: 33","","1980",
+kew-413465,A,Poaceae,,Eremopoa,,"bellula",,"","(Regel) Roshev.",Synonym,,H,WCSP,413465,401757-1,"Fl. URSS","2: 431","","1934",kew-413461
+kew-413466,A,Poaceae,,Eremopoa,,"capillaris",,"","R.R.Mill",Accepted,,H,WCSP,413466,906004-1,"Fl. Turkey","9: 624","","1985",
+kew-413467,A,Poaceae,,Eremopoa,,"glareosa",,"","Gamajun.",Synonym,,H,WCSP,413467,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Kazakhsk. S.S.R.","2: 11","","1964",kew-413461
+kew-413468,A,Poaceae,,Eremopoa,,"mardinensis",,"","R.R.Mill",Accepted,,H,WCSP,413468,906005-1,"Fl. Turkey","9: 624","","1985",
+kew-413469,A,Poaceae,,Eremopoa,,"medica",,"","H.Scholz",Synonym,,H,WCSP,413469,897686-1,"Willdenowia","11: 96","","1981",kew-413473
+kew-413470,A,Poaceae,,Eremopoa,,"multiradiata",,"","(Trautv.) Roshev.",Synonym,,H,WCSP,413470,401758-1,"Fl. URSS","2: 430","","1934",kew-413473
+kew-413471,A,Poaceae,,Eremopoa,,"nephelochloides",,"","Roshev.",Synonym,,H,WCSP,413471,401759-1,"Danish Sci. Invest. Iran","4: 50","","1945",kew-413473
+kew-413472,A,Poaceae,,Eremopoa,,"oxyglumis",,"","(Boiss.) Roshev.",Synonym,,H,WCSP,413472,401760-1,"Fl. URSS","2: 430","","1934",kew-413461
+kew-413473,A,Poaceae,,Eremopoa,,"persica",,"","(Trin.) Roshev.",Accepted,,H,WCSP,413473,401761-1,"Fl. URSS","2: 430","","1934",
+kew-413474,A,Poaceae,,Eremopoa,,"persica",subsp.,"multiradiata","(Trautv.) Tzvelev",Synonym,,L,WCSP,413474,882095-1,"Zlaki SSSR","479","","1976",kew-413473
+kew-413475,A,Poaceae,,Eremopoa,,"persica",var.,"oxyglumis","(Boiss.) Grossh.",Synonym,,L,WCSP,413475,,"Fl. Kavkaza","ed. 2, 1: 268","","1939",kew-413461
+kew-413476,A,Poaceae,,Eremopoa,,"persica",var.,"songarica","(Schrenk) Bor",Synonym,,L,WCSP,413476,,"Grass. Burma, Ceylon, India & Pakistan","532","","1960",kew-413461
+kew-413477,A,Poaceae,,Eremopoa,,"songarica",,"","(Schrenk) Roshev.",Synonym,,H,WCSP,413477,401762-1,"Fl. URSS","2: 431","","1934",kew-413461

@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-119993,A,Compositae,,Bethencourtia,,"hennosae",,"","(Pit.) G.Kunkel",Synonym,,L,TICA,A298B84F-7EE2-42F1-A9BF-C674CBFFEC2D,,"Cuad. Bot. Canaria 25: 28 (1975)","","28","1975",gcc-99258
+gcc-99258,A,Compositae,,Bethencourtia,,"hermosae",,"","(Pit.) G.Kunkel",Unresolved,Illegitimate,L,TICA,C3B62CEF-93A4-4DC5-90EB-97FCBD6B4A3B,184681-1,"Cuad. Bot. Canaria (1975) 25","","28","1975",
+gcc-26594,A,Compositae,,Bethencourtia,,"palmensis",,"","Choisy",Synonym,,L,TICA,0690A147-6E75-4EB0-90C4-31245088931B,,"Phys. Beschr. Canar. Ins.: 148 (1828)","","148","1828",gcc-83730
+gcc-83730,A,Compositae,,Bethencourtia,,"palmensis",,"","(Nees) Choisy ex Link",Unresolved,Illegitimate,L,TICA,1F8E5FF5-00E2-4FA4-B0A3-74E7147317C5,,"Phys. Beschr. Canar. Ins. 148. 1825","","148","1825",
+gcc-30751,A,Compositae,,Bethencourtia,,"rupicola",,"","(B.Nord.) B.Nord.",Accepted,,M,TICA,B81FEE76-BC27-4B38-ABC0-38EEE5F4A061,77075542-1,"","","709","2006",

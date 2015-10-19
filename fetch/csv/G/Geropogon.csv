@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-52037,A,Compositae,,Geropogon,,"australe",,"","Spreng.",Synonym,,M,TICA,8C686FC5-5E35-4AE2-A36C-60875F384EBE,,"","","663","1826",gcc-77575
+gcc-153206,A,Compositae,,Geropogon,,"australis",,"","Spreng.",Synonym,,M,TICA,DF5C2F5B-1207-4BBC-9942-A9810D9EF13C,208961-1,"""C.P.J. Sprengel, Syst. Veg. 3. 1826""","","663","1826",gcc-77575
+gcc-108677,A,Compositae,,Geropogon,,"calyculatum",,"","Jacq.",Synonym,,M,TICA,9E0DFA76-BE8A-46D5-8D6F-ACDCD95A9695,,"","","","1797",gcc-108947
+gcc-127942,A,Compositae,,Geropogon,,"glaber",,"","L.",Synonym,,M,TICA,66514747-C463-46B1-8EE1-D8DF86801140,208963-1,"""L., Sp. Pl., ed. 2. 1763.""","","1109","1763",gcc-77575
+gcc-99628,A,Compositae,,Geropogon,,"glabrum",,"","L.",Synonym,,M,TICA,851ED4D4-6724-497F-901B-98CE34799EF8,,"","","1109","1763",gcc-77575
+gcc-112866,A,Compositae,,Geropogon,,"hirsutum",,"","Georgi",Unresolved,,L,TICA,8A534801-DDAE-487F-925B-B667C489C460,208965-1,"Beschr. Russ. Reich. iv. 1202","","1202","",
+gcc-124281,A,Compositae,,Geropogon,,"hirsutum",,"","d'Urv.",Unresolved,,L,TICA,5B04A904-1ED0-4259-AF75-D0524824E6AE,208964-1,"in Mem. Soc. Linn. Par. i. (1822) 354.","","i.  354","1822",
+gcc-12731,A,Compositae,,Geropogon,,"hirsutum",,"","All. ex Sm.",Synonym,,M,TICA,751C482D-5B75-418B-8C63-17BA53611926,,"","","","1810",gcc-108947
+gcc-153007,A,Compositae,,Geropogon,,"hirsutus",,"","L.",Synonym,,M,TICA,AD89111A-1B85-4F20-B73A-A54ABCB0B354,208967-1,"""C. von Linnaeus, Sp. Pl. ed. 2. 1763""","","1109","1763",gcc-77575
+gcc-77575,A,Compositae,,Geropogon,,"hybridus",,"","(L.) Sch.Bip.",Accepted,,M,TICA,9266131E-71B1-473C-B12D-673029183768,,"","","472","1850",

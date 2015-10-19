@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-149479,A,Compositae,,Platypodanthera,,"melissaefolia",,"","(DC.) R.M.King & H.Rob.",Accepted,,M,TICA,C1ACEFD8-4E92-4E7C-9112-5990F180D3B0,201807-2,"Phytologia 24: 183. 1972.","","183","1972",
+gcc-154855,A,Compositae,,Platypodanthera,,"melissaefolia",subsp.,"melissaefolia","",Synonym,,L,TICA,CAA432E4-E26A-46CA-92D8-CC12FCED8DD8,,"","","","",gcc-149479
+gcc-108917,A,Compositae,,Platypodanthera,,"melissifolia",,"","(DC.) R.M.King & H.Rob.",Accepted,,M,TICA,C36DAFA1-E1A7-43C5-B3A4-AD72C2E1070F,201807-2,"","","183","1972",
+gcc-65792,A,Compositae,,Platypodanthera,,"melissifolia",subsp.,"melissifolia","",Synonym,,L,TICA,38DB9553-BC10-4798-ABFC-C9A0DBDF0198,,"","","","",gcc-108917

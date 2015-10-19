@@ -1,0 +1,40 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-450592,A,Poaceae,,Zizania,,"aquatica",,"","L.",Accepted,,H,WCSP,450592,271175-2,"Sp. Pl.","991","","1753",
+kew-450593,A,Poaceae,,Zizania,,"aquatica",subsp.,"angustifolia","(Hitchc.) Tzvelev",Synonym,,L,WCSP,450593,883311-1,"Novosti Sist. Vyssh. Rast.","8: 73","","1971",kew-450618
+kew-450596,A,Poaceae,,Zizania,,"aquatica",var.,"angustifolia","Hitchc.",Synonym,,L,WCSP,450596,271176-2,"Rhodora","8: 210","","1906",kew-450618
+tro-25517280,A,Poaceae,,Zizania,,"aquatica",var.,"aquatica","",Synonym,,L,TRO,25517280,,"","","","",kew-450592
+tro-25527392,A,Poaceae,,Zizania,,"aquatica",subsp.,"aquatica","",Synonym,,L,TRO,25527392,,"","","","",kew-450592
+kew-450594,A,Poaceae,,Zizania,,"aquatica",subsp.,"brevis","(Fassett) S.L.Chen",Synonym,,L,WCSP,450594,985011-1,"Proc. Int. Symp. Bot. Gard.","600","","1990",kew-450592
+kew-450597,A,Poaceae,,Zizania,,"aquatica",var.,"brevis","Fassett",Synonym,,L,WCSP,450597,271177-2,"Rhodora","26: 157","","1924",kew-450592
+kew-450595,A,Poaceae,,Zizania,,"aquatica",subsp.,"interior","(Fassett) S.L.Chen",Synonym,,L,WCSP,450595,,"Proc. Int. Symp. Bot. Gard.","600","","1990",kew-450598
+kew-450598,A,Poaceae,,Zizania,,"aquatica",var.,"interior","Fassett",Accepted,,L,WCSP,450598,271178-2,"Rhodora","26: 158","","1924",
+kew-450599,A,Poaceae,,Zizania,,"aquatica",var.,"latifolia","(Griseb.) Kom.",Synonym,,L,WCSP,450599,,"Trudy Imp. S.-Peterburgsk. Bot. Sada","20: 261","","1901",kew-450610
+kew-450600,A,Poaceae,,Zizania,,"aquatica",var.,"subbrevis","B.Boivin",Synonym,,L,WCSP,450600,271179-2,"Naturaliste Canad.","94: 471","","1967",kew-450592
+kew-450601,A,Poaceae,,Zizania,,"aristata",,"","(Retz.) Kunth",Synonym,,L,WCSP,450601,426957-1,"Révis. Gramin.","1: 8","","1829",kew-419653
+kew-450602,A,Poaceae,,Zizania,,"bonariensis",,"","Balansa & Poitr.",Synonym,,H,WCSP,450602,271180-2,"Bull. Soc. Hist. Nat. Toulouse","12: 228","","1878",kew-450625
+kew-450603,A,Poaceae,,Zizania,,"caduciflora",,"","Hand.-Mazz.",Synonym,Illegitimate,H,WCSP,450603,426959-1,"Symb. Sin.","7: 1278","","1936",kew-450610
+kew-450604,A,Poaceae,,Zizania,,"ciliata",,"","(Retz.) Spreng.",Synonym,,H,WCSP,450604,426960-1,"Syst. Veg.","2: 136","","1825",kew-422089
+kew-450605,A,Poaceae,,Zizania,,"clavulosa",,"","Michx.",Synonym,,H,WCSP,450605,325384-2,"Fl. Bor.-Amer.","1: 75","","1803",kew-450592
+kew-450606,A,Poaceae,,Zizania,,"dahurica",,"","Turcz. ex Steud.",Synonym,,H,WCSP,450606,426962-1,"Syn. Pl. Glumac.","1: 4","","1853",kew-450610
+kew-450607,A,Poaceae,,Zizania,,"effusa",,"","Munro",Synonym,Invalid,H,WCSP,450607,426963-1,"J. Proc. Linn. Soc., Bot.","6: 52","","1862",kew-450592
+kew-450608,A,Poaceae,,Zizania,,"fluitans",,"","Michx.",Synonym,,H,WCSP,450608,271181-2,"Fl. Bor.-Amer.","1: 75","","1803",kew-423158
+kew-450609,A,Poaceae,,Zizania,,"interior",,"","(Fassett) Rydb.",Synonym,,H,WCSP,450609,271182-2,"Brittonia","1: 82","","1931",kew-450598
+kew-450610,A,Poaceae,,Zizania,,"latifolia",,"","(Griseb.) Turcz. ex Stapf",Accepted,,H,WCSP,450610,426967-1,"Bull. Misc. Inform. Kew","1909: 385","","1909",
+kew-450611,A,Poaceae,,Zizania,,"lenticularis",,"","(Michx.) Steud.",Synonym,,H,WCSP,450611,426968-1,"Nomencl. Bot.","898","","1821",kew-422095
+kew-450612,A,Poaceae,,Zizania,,"mezii",,"","Prodoehl",Synonym,,H,WCSP,450612,426970-1,"Bot. Arch.","1: 245","","1922",kew-450610
+kew-450613,A,Poaceae,,Zizania,,"microstachya",,"","Nees ex Trin.",Synonym,,H,WCSP,450613,426971-1,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat.","5(2): 183","","1840",kew-450627
+kew-450614,A,Poaceae,,Zizania,,"miliacea",,"","Michx.",Synonym,,H,WCSP,450614,325386-2,"Fl. Bor.-Amer.","1: 74","","1803",kew-450628
+kew-450615,A,Poaceae,,Zizania,,"mutica",,"","Larrañaga",Unresolved,,L,WCSP,450615,426972-1,"Escritos D. A. Larrañaga","Atlas, 1: t. 2","","1927",
+kew-450616,A,Poaceae,,Zizania,,"natans",,"","P.Beauv.",Synonym,Invalid,H,WCSP,450616,,"Ess. Agrostogr.","136","","1812",kew-423158
+kew-450617,A,Poaceae,,Zizania,,"nutans",,"","Steud.",Synonym,Spelling variant,H,WCSP,450617,,"Nomencl. Bot.","ed. 2, 2: 799","","1841",kew-423158
+kew-450618,A,Poaceae,,Zizania,,"palustris",,"","L.",Accepted,,H,WCSP,450618,304686-2,"Mant. Pl.","2: 295","","1771",
+kew-450620,A,Poaceae,,Zizania,,"palustris",var.,"interior","(Fassett) Dore",Synonym,,L,WCSP,450620,,"Wild-rice","20","","1969",kew-450598
+tro-25527396,A,Poaceae,,Zizania,,"palustris",subsp.,"interior","(Fassett) S.L. Chen",Synonym,,L,TRO,25527396,985012-1,"Proc. Int. Symp. Bot. Gard.","600","600","1990",kew-450598
+tro-25527395,A,Poaceae,,Zizania,,"palustris",subsp.,"palustris","",Synonym,,L,TRO,25527395,,"","","","",kew-450618
+tro-25560647,A,Poaceae,,Zizania,,"palustris",var.,"palustris","",Synonym,,L,TRO,25560647,,"","","","",kew-450618
+tro-50105467,A,Poaceae,,Zizania,,"palustris",f.,"palustris","",Synonym,,L,TRO,50105467,,"","","","",kew-450618
+kew-450619,A,Poaceae,,Zizania,,"palustris",f.,"purpurea","Dore",Synonym,,L,WCSP,450619,300850-2,"Naturaliste Canad.","103: 565","","1976",kew-450618
+kew-450621,A,Poaceae,,Zizania,,"retzii",,"","Spreng.",Synonym,,L,WCSP,450621,426976-1,"Syst. Veg.","2: 136","","1825",kew-419653
+kew-450622,A,Poaceae,,Zizania,,"subtilis",,"","(Tratt.) Raspail",Synonym,,H,WCSP,450622,426977-1,"Ann. Sci. Nat. (Paris)","5: 452","","1825",kew-405667
+tro-25560818,A,Cyperaceae,,Zizania,,"terrestris",,"","L.",Synonym,,M,TRO,25560818,426978-1,"Sp. Pl.","2: 991","991","1753",kew-265755
+kew-450623,A,Poaceae,,Zizania,,"texana",,"","Hitchc.",Accepted,,H,WCSP,450623,271183-2,"J. Wash. Acad. Sci.","23: 454","","1933",

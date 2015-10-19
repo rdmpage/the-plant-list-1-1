@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113676,A,Compositae,,Gyptis,,"alternifolia",,"","(Sch.Bip. ex Baker) R.M.King & H.Rob.",Synonym,,M,TICA,45FF7E01-47BD-496A-9991-B82B634150B9,116037-2,"Phytologia 21","","23","1971",gcc-118325
+gcc-48875,A,Compositae,,Gyptis,,"artemisifolia",,"","(Griseb.) R.M.King & H.Rob.",Accepted,,M,TICA,F8A2C3A2-D9D9-4322-9D7B-5A87DF109E11,116038-2,"Phytologia 21","","23","1971",
+gcc-18964,A,Compositae,,Gyptis,,"baccharoides",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,C59634C2-4D3E-4D88-8845-230197170FDF,,"","","366","1876",gcc-107699
+gcc-27309,A,Compositae,,Gyptis,,"commersonii",,"","Cass.",Accepted,,M,TICA,9933EE0A-308D-4CAC-940F-3281D0EED40E,211352-1,"","","178","1821",
+gcc-118325,A,Compositae,,Gyptis,,"crassipes",,"","(Hieron.) R.M.King & H.Rob.",Accepted,,M,TICA,09CD43B3-8507-419A-B384-C2AE55073E92,116040-2,"Phytologia 37","","458","1977",
+gcc-37434,A,Compositae,,Gyptis,,"inornata",,"","R.M.King & H.Rob.",Accepted,,M,TICA,59F76D89-D532-4ABF-A608-456186FDAA5B,116041-2,"Phytologia 21","","24","1971",
+gcc-2589,A,Compositae,,Gyptis,,"lanigera",,"","(Hook. & Arn.) R.M.King & H.Rob.",Accepted,,M,TICA,20B2A045-6D83-4AE9-B479-04BE57267316,116042-2,"Phytologia 21","","24","1971",
+gcc-95966,A,Compositae,,Gyptis,,"oblongifolia",,"","(Spreng.) Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,7107B1A1-A10C-45FD-AFA3-9087A6F16569,,"","","333","1876",gcc-117219
+gcc-13675,A,Compositae,,Gyptis,,"peucedanifolia",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,L,TICA,D40D406E-5AF1-4782-A607-197274EAF723,,"","","315","1876",gcc-150619
+gcc-155282,A,Compositae,,Gyptis,,"pinnatifida",,"","Cass. ex R.M.King & H.Rob.",Accepted,,M,TICA,3B5DE93F-E6DE-4934-9CBB-D4C68C1A63CB,,"","","178","1821",
+gcc-2588,A,Compositae,,Gyptis,,"pinnatifida",var.,"canescens","Sch.Bip.",Synonym,,L,TICA,EA0D5CB6-3366-40F0-BDC8-04BE2B5A4E9F,,"Bot. Jahrb. Syst. 22","","771","1897",gcc-77687
+gcc-154641,A,Compositae,,Gyptis,,"pinnatifida",var.,"pinnatifida","",Synonym,,L,TICA,5B600FE2-DAFA-415F-AFB4-C7B550F90E7C,,"","","","",gcc-155282
+gcc-150619,A,Compositae,,Gyptis,,"pinnatifolia",,"","Cass.",Unresolved,,L,TICA,0AC32AC3-E390-482B-9DA9-72B1EDB62333,,"","","","",
+gcc-25342,A,Compositae,,Gyptis,,"vernoniopsis",,"","(Sch.Bip. ex Baker) R.M.King & H.Rob.",Accepted,,M,TICA,F580B733-3999-42C0-BC7A-2EC5E535DF64,116044-2,"Phytologia 21","","24","1971",

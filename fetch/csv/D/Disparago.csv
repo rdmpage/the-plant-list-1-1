@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104666,A,Compositae,,Disparago,,"anomala",,"","Schltr. ex Bolus & Wolley-Dod",Unresolved,,L,TICA,FF5B53DB-F392-44B6-A762-A3F54320FD43,,"""Trans. S. African Philos. Soc. xiv. 280 (1903), nomen; Levyns in Journ. S. Afr.Bot. 1936, ii. 101, descr.""","","101","",
+gcc-95620,A,Compositae,,Disparago,,"anomala",,"","Schltr. ex Levyns",Accepted,,M,TICA,EF6C065A-C8EA-4C63-AB5C-8FC45999E895,,"J. S. African Bot. 2: 101 (1936)","","101","1936",
+gcc-5839,A,Compositae,,Disparago,,"barbata",,"","Koek.",Synonym,,L,TICA,5D559E8F-704B-4EB8-AE24-0ADDE36E1388,,"Bothalia 21: 158 (1991)","","158","1991",gcc-128174
+gcc-128323,A,Compositae,,Disparago,,"ericoides",,"","(P.J.Bergius) Gaertn.",Accepted,,M,TICA,ACCD3C27-5F33-45DB-AE13-D9C2707B22C7,201842-1,"","","463","1791",
+gcc-19134,A,Compositae,,Disparago,,"gomphrenoides",,"","(O.Berg) Sch.Bip.",Synonym,,L,TICA,EC962284-7E79-4D6A-AE31-23598962BF23,,"","","","1861",gcc-144418
+gcc-49965,A,Compositae,,Disparago,,"gongylodes",,"","Koek.",Synonym,,L,TICA,823B4A8A-4920-4988-9B98-5C9FC4DBB524,,"Bothalia 21: 158 (1991)","","158","1991",gcc-45409
+gcc-78344,A,Compositae,,Disparago,,"hoffmanniana",,"","Schltr.",Synonym,,M,TICA,046E5EA9-6FAD-476F-98E7-68E9C9118D88,,"","","","1899",gcc-128323
+gcc-117166,A,Compositae,,Disparago,,"kolbei",,"","(Bolus) Hutch.",Synonym,,L,TICA,D33F1336-E23D-42A7-AE02-C0086F9F8A69,201845-1,"","","511","1932",gcc-32257
+gcc-90764,A,Compositae,,Disparago,,"kraussii",,"","Sch.Bip.",Accepted,,M,TICA,F9DF9226-E972-403F-9FDC-84DBF680327E,,"","","","1844",
+gcc-83308,A,Compositae,,Disparago,,"lasiocarpa",,"","Cass.",Synonym,,M,TICA,5AFFACD2-EF7E-4229-B487-73FC81193AE0,,"","","","1825",gcc-128323
+gcc-86570,A,Compositae,,Disparago,,"laxifolia",,"","DC.",Accepted,,M,TICA,11CD5E33-A8A6-4F86-9E70-7B32737C9957,201848-1,"","","257","1838",
+gcc-75719,A,Compositae,,Disparago,,"pilosa",,"","Koek.",Synonym,,L,TICA,F90127E5-9B99-402F-89D8-6318307A2E44,,"Bothalia 21: 159 (1991)","","159","1991",gcc-44476
+gcc-36619,A,Compositae,,Disparago,,"rosea",,"","Hutch.",Synonym,,L,TICA,AF00F9AA-62E1-44C9-9E2A-43E581A6DB7C,201849-1,"","","511","1932",gcc-32257
+gcc-9806,A,Compositae,,Disparago,,"seriphioides",,"","DC.",Synonym,,M,TICA,B337AED2-C09F-439C-8B78-12538BA9AC82,201850-1,"","","257","1838",gcc-128323
+gcc-25616,A,Compositae,,Disparago,,"tortilis",,"","(DC.) Sch.Bip.",Synonym,,L,TICA,58B04850-0A95-4255-8900-2F4EBA84AE3A,,"","","","1861",gcc-140809

@@ -1,0 +1,128 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-45418,A,Compositae,,Piptocarpha,,"angustifolia",,"","Dusén ex Malme",Accepted,,M,TICA,459ADBCC-6D97-4048-BD2E-54283CCF5249,199731-2,"","","27","1933",
+gcc-41586,A,Compositae,,Piptocarpha,,"asterotrichia",,"","(Poepp.) Baker",Accepted,,M,TICA,5EFB74CA-30DA-40F8-A9A7-4D01D81D0931,,"""Fl. Bras. (Martius) 6(2): 126, in obs.""","","126","1873",
+gcc-37453,A,Compositae,,Piptocarpha,,"atratoensis",,"","Cuatrec.",Accepted,,M,TICA,3A96BA4F-F078-40B5-A060-456C7713BCB3,199732-2,"","","159","1955",
+gcc-16014,A,Compositae,,Piptocarpha,,"auyantepuiensis",,"","Aristeg.",Accepted,,M,TICA,7ABA0EE6-CBC0-469B-BEB9-1DA425ABFE02,,"","","357","1967",
+gcc-51859,A,Compositae,,Piptocarpha,,"axillaris",,"","(Less.) Baker",Accepted,,M,TICA,088776C9-0001-4520-867F-602973F45273,238422-1,"Fl. Bras. (Martius) 6(2): 122","","122","1873",
+gcc-155502,A,Compositae,,Piptocarpha,,"axillaris",var.,"axillaris","",Synonym,,L,TICA,7724C565-D35E-4E8C-B6A3-D986DB9F3C9A,,"","","","",gcc-51859
+gcc-155865,A,Compositae,,Piptocarpha,,"axillaris",subsp.,"axillaris","",Synonym,,L,TICA,2CED2734-7BA1-42CA-9528-E165E5234E5D,,"","","","",gcc-51859
+gcc-155661,A,Compositae,,Piptocarpha,,"axillaris",subsp.,"graciellae","(Cabrera) G.Lom.Sm.",Accepted,,L,TICA,0D75B5DA-2A51-4C4A-8C05-DCD9C92A076C,77088707-1,"Flora Neotropica 99: 74. 2007","","74","2007",
+gcc-24961,A,Compositae,,Piptocarpha,,"axlllaris",,"","Baker",Accepted,,L,TICA,F8F9B31E-2850-4F9F-BDA8-2E1FCC5BBAB7,,"","","","",
+gcc-16240,A,Compositae,,Piptocarpha,,"bakeriana",,"","Glaz.",Synonym,Illegitimate,M,TICA,B0A8F71F-AD79-4F17-B509-1E0979FE39A0,199735-2,"Bull. Soc. Bot. France 56(Mém. 3d): 377","","377","1909",gcc-109573
+gcc-93240,A,Compositae,,Piptocarpha,,"bakeriana",,"","Glaz. ex Domke",Synonym,Invalid,M,TICA,E66EFE1F-AC01-4E95-A93A-8A4C4CA133F0,,"","","691","1935",gcc-109573
+gcc-96427,A,Compositae,,Piptocarpha,,"barrosoana",,"","G.Lom.Sm.",Accepted,,M,TICA,B99DE909-D2CA-49FC-9E24-9187A56395C3,,"Ann. Missouri Bot. Gard. 68(4): 664 (1981 publ. 1982)","","664","",
+tro-50313745,A,Compositae,,Piptocarpha,,"barrosoana",,"","G. Lom. Smith",Unresolved,,L,TRO,50313745,,"Ann. Missouri Bot. Gard.","68: 664–666, f. 3","664","1981",
+gcc-26475,A,Compositae,,Piptocarpha,,"boyacensis",,"","Cuatrec.",Accepted,,M,TICA,4352BCCD-DBE3-4567-81E4-30EC36766107,,"","","","1955",
+gcc-49901,A,Compositae,,Piptocarpha,,"brasiliana",,"","Cass.",Accepted,,M,TICA,A5F75A49-53D1-4A4B-83CA-5C816B3350F0,,"in Dict. Sci. Nat. xli. 109.","","","1826",
+gcc-114033,A,Compositae,,Piptocarpha,,"brownii",,"","DC.",Synonym,Illegitimate,M,TICA,F10FFC7C-8BDA-4349-BB0D-B8ED80F32BEA,238426-1,"Prodr. (DC.) 7(1): 261","","261","1838",gcc-49901
+gcc-101183,A,Compositae,,Piptocarpha,,"canescens",,"","Gleason",Accepted,,M,TICA,F6C954F1-38C2-4540-9648-9C478A573C05,199737-2,"","","373","1932",
+gcc-84547,A,Compositae,,Piptocarpha,,"carioca",,"","G.M.Barroso",Synonym,,M,TICA,2D960EA7-CD20-4155-82CC-76C84AD00D69,,"","","89","1959",gcc-6027
+gcc-13628,A,Compositae,,Piptocarpha,,"chontalensis",,"","Baker",Synonym,,M,TICA,833997A9-D616-4DA3-83D5-1959DD112506,199739-2,"Fl. Bras. (Martius) 6(2)","","132","1873",gcc-125925
+gcc-52739,A,Compositae,,Piptocarpha,,"cinerea",,"","(Sch.Bip.) Baker",Synonym,,M,TICA,84F0F700-37C6-4944-9F22-61C630737745,,"Fl. Bras. (Martius) 6(2): 129","","129","1873",gcc-137197
+gcc-125678,A,Compositae,,Piptocarpha,,"costaricensis",,"","Klatt",Synonym,,M,TICA,4814227D-B531-49D0-9B11-D395909D00D9,199740-2,"Bull. Soc. Roy. Bot. Belgique 31(1)","","184","1892",gcc-125925
+gcc-18251,A,Compositae,,Piptocarpha,,"costaricensis",,"","Klatt ex T.Durand & Pitt.",Unresolved,,L,TICA,63B2714A-D614-4C50-BF41-21BC9D7E348C,238431-1,"in Bull. Soc. Bot. Belg. xxxi. 1892 (1893) 184.","","xxxi. 1892  184.","1893",
+gcc-136564,A,Compositae,,Piptocarpha,,"cruegeri",,"","(Griseb.) Baker",Synonym,,M,TICA,5FB28B00-BA1D-4505-B5B3-EC7CF5147FA6,,"Fl. Bras. (Martius) 6(2): 132","","132","1873",gcc-157120
+gcc-33655,A,Compositae,,Piptocarpha,,"cuatrecasasiana",,"","(Aristeg.) V.M.Badillo",Synonym,,M,TICA,7D79394B-915B-4EBB-9813-3E677AB3D87D,199741-2,"","","14","1974",gcc-12758
+gcc-133716,A,Compositae,,Piptocarpha,,"densifolia",,"","Dusén ex G.Lom.Sm.",Accepted,,M,TICA,D4C0E9FA-88CC-49F9-8D40-E622A338340E,,"Brittonia 34(2)","","214-216","1982",
+gcc-146014,A,Compositae,,Piptocarpha,,"densifolia",,"","Dusén ex G.L.Smith",Unresolved,,L,TICA,B3C5400A-7954-436B-900A-0FDDB35E8F7B,,"Brittonia 34: 214-216. 1982","","","1982",
+gcc-104432,A,Compositae,,Piptocarpha,,"diacanthoides",,"","Hook. & Arn.",Synonym,,M,TICA,849CC01E-324F-43CA-8CCA-A37C47FD0812,238434-1,"in Hook. Comp. Bot. Mag. i. (1835) 110.","","110","1835",gcc-131556
+gcc-118201,A,Compositae,,Piptocarpha,,"elaeagnoides",,"","(Kunth) Baker",Synonym,,M,TICA,5E245AB2-8965-45C4-8F69-C264A58AE623,,"Fl. Bras. (Martius) 6(2): 126","","126","1873",gcc-97719
+gcc-40896,A,Compositae,,Piptocarpha,,"excelsa",,"","(D.Don) Hook. & Arn.",Synonym,,M,TICA,8C4F4C03-369F-4102-807A-4BC64C554486,,"in Hook. Comp. Bot. Mag. i. (1835) 110.","","","1835",gcc-9489
+gcc-47484,A,Compositae,,Piptocarpha,,"foliosa",,"","Cuatrec.",Accepted,,M,TICA,06C6E417-2403-459A-92C3-57FBA16E72D1,199743-2,"Brittonia 8","","161","1955",
+gcc-132367,A,Compositae,,Piptocarpha,,"geraldsmithii",,"","H.Rob.",Accepted,,M,TICA,3B610656-D03A-4A29-8E18-E319662176B2,,"Novon 12(3)","","","2002",
+gcc-137888,A,Compositae,,Piptocarpha,,"glaziouvii",,"","Hieron.",Unresolved,,L,TICA,CB879403-DB72-45AD-B4B4-EF6C0B710D7B,,"","","","",
+gcc-77233,A,Compositae,,Piptocarpha,,"graciellae",,"","Cabrera",Synonym,,M,TICA,19196869-9ACA-4616-BB36-666DA8C45459,238438-1,"","","71","1957",gcc-155661
+gcc-25786,A,Compositae,,Piptocarpha,,"gracilis",,"","Rusby",Synonym,,M,TICA,3D583CBA-A03E-458A-9166-2FA4565D9FE7,199744-2,"","","146","1920",gcc-24415
+gcc-156105,A,Compositae,,Piptocarpha,,"gustavo-valerioana",,"","G.Lom.Sm.",Accepted,,M,TICA,BC71CB76-3E00-466B-8D29-E67E0EE9911B,,"Fl. Neotropica 99: 67. 2007","","67","2007",
+gcc-127126,A,Compositae,,Piptocarpha,,"gutierrezii",,"","Cuatrec.",Accepted,,M,TICA,56D2A118-8173-4E41-BE33-D6E631535AB3,,"","","","1955",
+gcc-104379,A,Compositae,,Piptocarpha,,"insignis",,"","Gleason",Synonym,,M,TICA,AC0D6D1D-E583-4769-B65E-A35FFC3AC4AE,,"","","","1932",gcc-41586
+gcc-144498,A,Compositae,,Piptocarpha,,"isotrichia",,"","(DC.) Cabrera & Vittet",Synonym,,M,TICA,4B80613A-F452-466B-A87D-FE36713E6E72,199748-2,"","","148","1961",gcc-133639
+gcc-7732,A,Compositae,,Piptocarpha,,"jauaensis",,"","Aristeg. & Steyerm.",Accepted,,M,TICA,42679EC8-25F9-4A84-9557-0E5BFA99F81D,,"","","403","1976",
+gcc-141713,A,Compositae,,Piptocarpha,,"jonesiana",,"","G.Lom.Sm.",Accepted,,M,TICA,78C13166-DC4A-4BDA-A725-F8014AD8B558,,"Ann. Missouri Bot. Gard. 68(4): 661 (1981 publ. 1982)","","","1981",
+gcc-78737,A,Compositae,,Piptocarpha,,"kavanayensis",,"","V.M.Badillo",Synonym,,M,TICA,F96DD32D-649F-425F-913C-69DA1508B10A,199750-2,"","","280","1946",gcc-76475
+gcc-14567,A,Compositae,,Piptocarpha,,"klugii",,"","g. lom. smith ex H.Rob.",Accepted,,M,TICA,643ACFD8-03BB-4C21-B0F9-1B04BD63522D,,"Novon 12(3)","","394-395","2002",
+gcc-78193,A,Compositae,,Piptocarpha,,"laxa",,"","Rusby",Synonym,,M,TICA,57E9F671-FB32-425E-8F89-688FFB068BBA,199751-2,"","","123","1912",gcc-125925
+gcc-22438,A,Compositae,,Piptocarpha,,"lechleri",,"","(Sch.Bip.) Baker",Accepted,,M,TICA,60217A49-34FB-4D1C-8533-29810061CF64,238446-1,"""Fl. Bras. (Martius) 6(2): 127, in obs.""","","127","1873",
+gcc-27631,A,Compositae,,Piptocarpha,,"leprosa",,"","(Less.) Baker",Accepted,,M,TICA,1F176860-5315-4259-8046-3312AFE5C354,238447-1,"","","128","1873",
+gcc-126284,A,Compositae,,Piptocarpha,,"leubnitziae",,"","Kuntze",Synonym,,M,TICA,3733A00E-C824-4002-ADD4-D4FD045CBBA8,238448-1,"in Jahrb. Bot. Gart. Berl. iv. (1886) 265.","","265","1886",gcc-30529
+gcc-48452,A,Compositae,,Piptocarpha,,"longifolia",,"","Gleason",Synonym,,M,TICA,43217876-7D97-455F-9E1B-59BEB568EEAE,,"","","","1932",gcc-22438
+gcc-133639,A,Compositae,,Piptocarpha,,"lucida",,"","(Spreng.) Benn. ex Baker",Accepted,,M,TICA,DC2EEB8C-F7CF-44EB-BB19-E5F357B4D326,238450-1,"Fl. Bras. (Martius) 6(2): 121","","121","1873",
+gcc-99937,A,Compositae,,Piptocarpha,,"lucida",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,8244607E-91FE-4D2B-AECE-997C8BCA79EF,,"","","","",
+gcc-88773,A,Compositae,,Piptocarpha,,"lundiana",,"","(Less.) Baker",Accepted,,M,TICA,B2BBB21A-0637-44B1-BAAF-8037D64401D5,,"Fl. Bras. (Martius) 6(2): 130","","130","1873",
+gcc-153173,A,Compositae,,Piptocarpha,,"lundiana",var.,"lundiana","",Synonym,,L,TICA,6FAE2CAF-2735-43F8-BEBE-A8C392F785EF,,"","","","",gcc-88773
+tro-50313755,A,Compositae,,Piptocarpha,,"lundiana",var.,"schencklana","Hieron.",Synonym,,L,TRO,50313755,199753-2,"Bot. Jahrb. Syst.","22: 704","704","1897",gcc-88773
+gcc-38993,A,Compositae,,Piptocarpha,,"luschnathii",,"","Krasch.",Synonym,,M,TICA,5D437DBC-11A1-42FE-954A-4859EBC2CC28,199754-2,"","","158","1922",gcc-88773
+gcc-1940,A,Compositae,,Piptocarpha,,"macropoda",,"","(DC.) Baker",Accepted,,M,TICA,E740DD76-F205-48F5-9BA0-0380F6FD0FF8,1154720-2,"Fl. Bras. (Martius) 6(2)","","123","1873",
+tro-50313759,A,Compositae,,Piptocarpha,,"macropoda",var.,"acutifolia","Baker ex Glaz.",Synonym,,L,TRO,50313759,,"Bull. Soc. Bot. France","57(Mem. 3): 376","376","1910",gcc-1940
+gcc-36568,A,Compositae,,Piptocarpha,,"macropoda",var.,"crassifolia","Baker",Synonym,,L,TICA,F87292EE-A74B-4060-9D6D-43CF99C271F1,199756-2,"""Fl. Bras. (Martius) 6, pt. 2: 123. 1873""","","123","1873",gcc-1940
+gcc-149982,A,Compositae,,Piptocarpha,,"macropoda",var.,"macropoda","",Synonym,,L,TICA,1FEA5DC0-3C31-483F-970D-648D6D54EA65,,"","","","",gcc-1940
+gcc-153519,A,Compositae,,Piptocarpha,,"macropoda",subsp.,"macropoda","",Synonym,,L,TICA,E69FF3AA-CEA9-4573-B5DA-AFF872378B18,,"","","","",gcc-1940
+gcc-35449,A,Compositae,,Piptocarpha,,"matogrossensis",,"","H.Rob.",Accepted,,M,TICA,96692C42-4324-48D8-BBC2-41B62E6CF550,,"","","","1979",
+gcc-32124,A,Compositae,,Piptocarpha,,"megaphylla",,"","Cabrera",Synonym,,M,TICA,D37D506D-038F-43DB-94E1-3B7F2E17193B,199759-2,"","","72","1957",gcc-88773
+gcc-134845,A,Compositae,,Piptocarpha,,"nigropunctata",,"","Hieron.",Unresolved,,L,TICA,5D1EFCEF-CAFF-4EE7-92B5-E8ABD9DEECAD,,"","","","",
+gcc-13469,A,Compositae,,Piptocarpha,,"nitidula",,"","(Less.) Griseb.",Synonym,,M,TICA,78E7198C-E1B1-444A-82EC-1917285B8D14,,"","","73","1878",gcc-9890
+gcc-56629,A,Compositae,,Piptocarpha,,"nitidula",var.,"nitidula","",Synonym,,L,TICA,40CC2656-C74C-49BA-8795-7FFEF6B3534C,,"","","","",gcc-9890
+gcc-137197,A,Compositae,,Piptocarpha,,"notata",,"","(Less.) Baker",Accepted,,M,TICA,7FA03E07-1240-4164-A1B5-EDF0EEC79A91,,"Fl. Bras. (Martius) 6(2): 129","","129","1873",
+gcc-13221,A,Compositae,,Piptocarpha,,"oblonga",,"","(Gardner) Baker",Accepted,,M,TICA,AE0DA3DA-838F-4FFC-A09D-189FE2AB323D,238457-1,"Fl. Bras. (Martius) 6(2)","","121","1873",
+gcc-148265,A,Compositae,,Piptocarpha,,"oblonga",var.,"oblonga","",Synonym,,L,TICA,DC6257EC-7CAC-49E7-AE90-3F170DD5B131,,"","","","",gcc-13221
+gcc-54379,A,Compositae,,Piptocarpha,,"oblonga",subsp.,"oblonga","",Synonym,,L,TICA,53008B89-300F-437E-9C95-6D8CBB72424E,,"Fl. bras. 6(2): 121-122 (1873)","","121-122","1873",gcc-13221
+gcc-146899,A,Compositae,,Piptocarpha,,"obovata",,"","Leitão",Accepted,,M,TICA,022A19A4-457E-4931-9BC2-22016C54E088,,"Contribuicao ao Conhecimento Taxonomico da Tribo Vernonieae no Estado de Sao Paulo 64-65. 1972.","","","1972",
+gcc-136662,A,Compositae,,Piptocarpha,,"opaca",,"","(Benth.) Baker",Accepted,,M,TICA,AFB1091D-81E7-452F-947B-ECB3EDFD4947,,"Fl. Bras. (Martius) 6(2): 124","","124","1873",
+gcc-71015,A,Compositae,,Piptocarpha,,"opaca",var.,"latifolia","(Sch.Bip.) Baker",Synonym,,L,TICA,960F7110-BA7F-43B5-B66B-F2B2A84D19FC,199763-2,"""Fl. Bras. (Martius) 6, pt. 2: 124. 1873""","","124","1873",gcc-136662
+gcc-150866,A,Compositae,,Piptocarpha,,"opaca",var.,"opaca","",Synonym,,L,TICA,4AE3FEAE-324C-4D00-A362-77D6CD5841AB,,"","","","",gcc-136662
+gcc-57196,A,Compositae,,Piptocarpha,,"opaca",subsp.,"opaca","",Synonym,,L,TICA,0CE6BCEF-BA17-44AD-B2D0-8484894EAB8C,,"","","","",gcc-136662
+gcc-22129,A,Compositae,,Piptocarpha,,"opacs",,"","Baker",Accepted,,L,TICA,7C36CA99-995F-4DD9-9FD9-28EFB77CF167,,"","","","",
+gcc-140314,A,Compositae,,Piptocarpha,,"organensis",,"","Cabrera",Accepted,,M,TICA,36DD8670-0DF5-4212-BEF1-F4B3D2E7A854,,"","","","1957",
+gcc-33599,A,Compositae,,Piptocarpha,,"organensis",,"","Glaz.",Unresolved,Illegitimate,L,TICA,6A0C3B2B-4D4C-4A1C-B6BA-3E4F3572F6DE,199764-2,"Bull. Soc. Bot. France 56(Mém. 3d): 376","","376","1909",
+gcc-2680,A,Compositae,,Piptocarpha,,"oxyphylla",,"","(DC.) Baker",Synonym,,M,TICA,5036CC4A-B24A-48ED-BC1A-04E8778D93C9,,"Fl. Bras. (Martius) 6(2): 120","","120","1873",gcc-151149
+gcc-50214,A,Compositae,,Piptocarpha,,"pannosa",,"","Baker",Synonym,,M,TICA,CC697922-B550-46B1-851B-5D1A9C10EE50,238461-1,"J. Bot. 13: 203","","203","1875",gcc-1940
+gcc-111177,A,Compositae,,Piptocarpha,,"paradoxa",,"","(Sch.Bip.) Aristeg.",Synonym,,M,TICA,8EDC04EF-3BEE-40AF-B138-B28852C36ADD,199766-2,"","","54","1964",gcc-50277
+gcc-2078,A,Compositae,,Piptocarpha,,"paraensis",,"","Cabrera",Synonym,,M,TICA,E4DBD0F0-74CD-45FC-AA87-03BCBEF11346,199767-2,"Arch. Jard. Bot. Rio de Janeiro 15","","73","1957",gcc-125925
+gcc-44929,A,Compositae,,Piptocarpha,,"pellucida",,"","(Sch.Bip.) Baker",Accepted,,M,TICA,10ED8EE2-39C7-4918-AA7E-534196DBDC21,,"Fl. Bras. (Martius) 6(2): 127","","127","1873",
+gcc-125925,A,Compositae,,Piptocarpha,,"poeppigiana",,"","(DC.) Baker",Accepted,,M,TICA,23737565-1B04-4B80-9476-D4297CC5C28D,,"","","131","1873",
+gcc-76475,A,Compositae,,Piptocarpha,,"polycephala",,"","Baker",Accepted,,M,TICA,9596FE71-E015-4AEE-85C8-64C8C206696B,,"Fl. Bras. (Martius) 6(2): 125","","125","1873",
+gcc-153139,A,Compositae,,Piptocarpha,,"prancei",,"","G.L.Smith",Accepted,,M,TICA,B068F2C6-DCD7-4FA5-B720-A7F694B0EAAC,,"""Ann. Missouri Bot. Gard. 68: 666, fig. 4. 1981""","","","1981",
+gcc-41855,A,Compositae,,Piptocarpha,,"prancei",,"","G.Lom.Sm.",Unresolved,,L,TICA,8E5C88E3-5BB5-4B52-BBF2-4D80F713F147,,"Ann. Missouri Bot. Gard. 68(4): 666 (1981 publ. 1982)","","","",
+gcc-6027,A,Compositae,,Piptocarpha,,"pyrifolia",,"","(DC.) Baker",Accepted,,M,TICA,A51CB182-FAF0-4893-98A0-0B35C692F791,,"Fl. Bras. (Martius) 6(2): 120","","120","1873",
+gcc-109573,A,Compositae,,Piptocarpha,,"quadrangularis",,"","(Vell.) Baker",Accepted,,M,TICA,272830EF-91B2-4D14-8DDE-AEF500C2733F,1105720-2,"Fl. Bras. (Martius) 6(2)","","128","1873",
+gcc-16033,A,Compositae,,Piptocarpha,,"ramboi",,"","G.Lom.Sm.",Accepted,,M,TICA,3CF4F85C-C31F-480F-9F5A-1DADE1B91AD4,,"Brittonia 34(2)","","212","1982",
+gcc-125602,A,Compositae,,Piptocarpha,,"ramiflora",,"","(Spreng.) Baker",Accepted,,M,TICA,D39CA9D3-5CAE-439F-BD4B-D36D011F2640,238469-1,"Fl. Bras. (Martius) 6(2): 127","","127","1873",
+gcc-147096,A,Compositae,,Piptocarpha,,"ramiflora",var.,"ramiflora","",Synonym,,L,TICA,427E04D8-4C67-4111-BE81-2672FD9F7B60,,"","","","",gcc-125602
+gcc-97479,A,Compositae,,Piptocarpha,,"regnellii",,"","(Sch.Bip.) Cabrera",Accepted,,M,TICA,D5F99DC0-156B-41B8-B620-93F7E964C221,238470-1,"""Arch. Jard. Bot. Rio de Janeiro xv. 72 (1957), in obs.""","","72","1957",
+gcc-76609,A,Compositae,,Piptocarpha,,"reitziana",,"","Cabrera",Synonym,,M,TICA,AE75BC5D-4C8D-43A1-A068-65139A121FA3,199770-2,"","","73","1957",gcc-13221
+gcc-23119,A,Compositae,,Piptocarpha,,"richteri",,"","Cuatrec.",Accepted,,M,TICA,CC1CC7CD-61B2-4EA4-A5B0-2ACDEACB0942,,"","","","1955",
+gcc-145144,A,Compositae,,Piptocarpha,,"riedelii",,"","(Sch.Bip.) Baker",Accepted,,M,TICA,7B0D5DDA-8295-4073-ACA6-FFC66E33B6F6,,"Fl. Bras. (Martius) 6(2): 124","","124","1873",
+gcc-98116,A,Compositae,,Piptocarpha,,"riedelii",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,AF29151E-8802-46FF-BD10-95643CA76B2E,,"","","","",
+gcc-33324,A,Compositae,,Piptocarpha,,"robusta",,"","G.M.Barroso",Accepted,,M,TICA,661765B9-18FE-4250-8D59-3DC5235175F0,199774-2,"","","1","1969",
+gcc-16114,A,Compositae,,Piptocarpha,,"rotundifolia",,"","(Less.) Baker",Accepted,,M,TICA,B7F48ED9-5233-415F-9FF8-1DCE94A62A59,,"Fl. Bras. (Martius) 6(2): 125","","125","1873",
+gcc-149177,A,Compositae,,Piptocarpha,,"rotundifolia",subsp.,"rotundifolia","",Synonym,,L,TICA,BF7E073A-3C8F-4BD2-AD16-532758882510,,"","","","",gcc-16114
+tro-2703011,_,,,Piptocarpha,,"rotundifolius",,"","Baker",Unresolved,,L,TRO,2703011,,"","","","",
+gcc-8542,A,Compositae,,Piptocarpha,,"santosii",,"","H.Rob.",Synonym,,M,TICA,D38535FD-634A-4EAF-81D3-0FF156CFA6E1,199776-2,"","","301","1979",gcc-33324
+gcc-20674,A,Compositae,,Piptocarpha,,"sellowii",,"","(Sch.Bip.) Baker",Accepted,,M,TICA,37CEFD64-2123-4932-B04F-263E4C6638C2,238477-1,"Fl. Bras. (Martius) 6(2): 130","","130","1873",
+gcc-65956,A,Compositae,,Piptocarpha,,"sellowii",var.,"balansiana","Hieron.",Synonym,,L,TICA,F583E0CA-C51D-45BE-AE6E-CAF769AA15BA,,"Bot. Jahrb. Syst. 22: 704. 1897","","704","1897",gcc-20674
+gcc-145879,A,Compositae,,Piptocarpha,,"sellowii",var.,"sellowii","",Synonym,,L,TICA,86CA6783-A5BB-4864-A27C-0CC360D54723,,"","","","",gcc-20674
+gcc-155830,A,Compositae,,Piptocarpha,,"sellowii",f.,"sellowii","",Synonym,,L,TICA,6048B6BD-34FC-4D95-AB5E-E09EA088F58F,,"","","","",gcc-20674
+gcc-110476,A,Compositae,,Piptocarpha,,"senescens",,"","Baker",Synonym,,M,TICA,CDFF2ED7-01C9-46DB-A667-B0F8FEF276D4,,"Fl. Bras. (Martius) 6(2): 130","","130","1873",gcc-20674
+gcc-47269,A,Compositae,,Piptocarpha,,"sexangularis",,"","Klatt",Synonym,,M,TICA,8E923BA6-2494-458F-8CCC-578C62AF8FAC,199777-2,"","","1","1895",gcc-49212
+gcc-26759,A,Compositae,,Piptocarpha,,"sodiroi",,"","Hieron. ex Sodiro",Synonym,,M,TICA,44EF0AE1-A4F5-4DEB-A6E0-317098570B75,,"","","2","",gcc-15095
+gcc-89595,A,Compositae,,Piptocarpha,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,58E60947-C2FC-4BD6-B4B9-820E42EA013B,,"Bot. Jahrb. Syst. 29: 2. 1900","","","1900",gcc-15095
+gcc-101332,A,Compositae,,Piptocarpha,,"sprucei",,"","Baker",Synonym,,M,TICA,FE26FC6C-6913-47CC-9F50-9C8FFAB088EC,,"""Fl. Bras. (Martius) 6(2): 129, in obs.""","","129","1873",gcc-27631
+gcc-105589,A,Compositae,,Piptocarpha,,"steyermarkii",,"","Aristeg.",Accepted,,M,TICA,53D5F7A7-01B6-4716-ACB5-A5EA2B44D269,199780-2,"","","368","1963",
+gcc-15175,A,Compositae,,Piptocarpha,,"stifftioides",,"","H.Rob.",Accepted,,M,TICA,FE4EBF65-0836-4C8C-B153-1C19A6DDE228,299052-2,"","","302","1979",
+gcc-150131,A,Compositae,,Piptocarpha,,"subcorymbosa",,"","G.Lom.Sm.",Accepted,,M,TICA,F74E4DF6-324F-47BC-BE30-67FB75121CC9,,"Fl. Neotropica 99: 46. 2007.","","46","2007",
+gcc-52466,A,Compositae,,Piptocarpha,,"tereticaulis",,"","(DC.) Baker",Synonym,,M,TICA,42FEF761-344C-4046-A904-6140E49B0FDE,,"","","","1873",gcc-125925
+gcc-156086,A,Compositae,,Piptocarpha,,"tetrantha",,"","Urban",Accepted,,M,TICA,B70A5CE6-18F9-4DDF-B272-E623FD5B2F00,,"Sym. Antill. 1: 457. 1899","","457","1899",
+gcc-27061,A,Compositae,,Piptocarpha,,"tetrantha",,"","Urb.",Unresolved,,L,TICA,96EBDE72-8506-4319-9BE7-3207553B5065,199781-2,"Symb. Antill. 1: 457. 1899","","457","1899",
+gcc-110451,A,Compositae,,Piptocarpha,,"tomentosa",,"","Baker",Synonym,,M,TICA,6EE3AF84-FE72-4074-B3E4-B0EBC46D6D17,238486-1,"J. Bot. 13: 203","","203","1875",gcc-51859
+gcc-157120,A,Compositae,,Piptocarpha,,"triflora",,"","(Aubl.) Benn. ex Baker",Accepted,,M,TICA,2EDED286-558A-4931-808A-FB58632C0A5E,,"Fl. Bras. (Martius) 6(2): 132","","132","1873",
+gcc-48526,A,Compositae,,Piptocarpha,,"umbellulata",,"","Baker",Synonym,,M,TICA,9990D113-B9C3-4017-BC86-59E02AB77114,,"Fl. Bras. (Martius) 6(2): 126","","126","1873",gcc-125602
+gcc-125009,A,Compositae,,Piptocarpha,,"umbricola",,"","Cuatrec.",Synonym,,M,TICA,347C4972-4BE8-4FB6-9C8A-D214F335E73B,199782-2,"","","163","1955",gcc-127126
+gcc-25904,A,Compositae,,Piptocarpha,,"upatensis",,"","V.M.Badillo",Synonym,,M,TICA,05838578-4CA1-4947-9671-2FDF54EF9B27,199783-2,"","","279","1946",gcc-12765
+gcc-144638,A,Compositae,,Piptocarpha,,"vasquezii",,"","H.Rob.",Accepted,,M,TICA,0C0E05B6-4C48-4DEC-B042-FE967BFE5809,,"Novon 12(3)","","","2002",
+gcc-95440,A,Compositae,,Piptocarpha,,"vauthieriana",,"","(DC.) Baker",Synonym,,M,TICA,B6759F25-D162-49CF-8884-8F5CDF86973E,,"Fl. Bras. (Martius) 6(2): 126","","126","1873",gcc-129055
+gcc-79441,A,Compositae,,Piptocarpha,,"venezuelensis",,"","V.M.Badillo",Synonym,,M,TICA,6BBC4F94-2074-4A79-BB02-6B762B718B46,199784-2,"","","280","1946",gcc-50277
+gcc-140714,A,Compositae,,Piptocarpha,,"venulosa",,"","Baker",Unresolved,,L,TICA,5505E2D3-FCD0-40D4-A9AA-F5B90DDF0F3F,238493-1,"Fl. Bras. (Martius) 6(2): 131","","131","1873",
+gcc-151149,A,Compositae,,Piptocarpha,,"verticillata",,"","(Vell.Conc.) G.L.Smith",Accepted,,M,TICA,E295F7AC-2ED0-41DF-833B-7EE2E2B35D4C,,"Smithsonian Contrib. Bot. 89: 79. 1999.","","79","1999",
+gcc-28681,A,Compositae,,Piptocarpha,,"verticillata",,"","(Vell.) G.Lom.Sm. ex H.Rob.",Unresolved,,L,TICA,B47A5FD9-F948-4A13-85CA-35032E752C2A,1011535-1,"Smithsonian Contr. Bot. 89: 79 (1999):","","79","1999",
+gcc-156548,A,Compositae,,Piptocarpha,,"vismiaefolia",,"","Gleason",Synonym,,M,TICA,E0479A36-CC53-441B-B300-EF9EDFA5001A,199785-2,"Bull. Torrey Bot. Club 59: 372. 1932.","","372","1932",gcc-22438
+gcc-106342,A,Compositae,,Piptocarpha,,"vismiifolia",,"","Gleason",Synonym,,M,TICA,4BB6277A-0665-4E92-BD83-A7900660DA21,199785-2,"","","372","1932",gcc-22438

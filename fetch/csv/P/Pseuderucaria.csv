@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2412443,A,Brassicaceae,,Pseuderucaria,,"clavata",,"","(Boiss. & Reut.) O.E.Schulz",Accepted,,M,WCSP (in review),,288202-1,"Bot. Jahrb. Syst.","54(119): 54","","1916",
+tro-100359001,A,Brassicaceae,,Pseuderucaria,,"clavata",subsp.,"clavata","",Synonym,,L,TRO,100359001,,"","","","",kew-2412443
+tro-100359002,A,Brassicaceae,,Pseuderucaria,,"clavata",subsp.,"tourneuxii","(Coss.) Maire",Accepted,,L,TRO,100359002,,"","3: 110","110","1933",
+kew-2412442,A,Brassicaceae,,Pseuderucaria,,"teretifolia",,"","(Desf.) O.E.Schulz",Accepted,,M,WCSP (in review),,288203-1,"Bot. Jahrb. Syst.","54(119): 54","","1916",
+tro-100361395,A,Brassicaceae,,Pseuderucaria,,"teretifolia",var.,"genuina","Maire",Synonym,,L,TRO,100361395,,"Fl. Afrique N.","13: 49.","49.","1967",kew-2412442
+tro-100361396,A,Brassicaceae,,Pseuderucaria,,"teretifolia",var.,"grandiflora","O.E. Schulz",Synonym,,L,TRO,100361396,,"Pflanzenreich","IV–105(Heft 84): 80.","80.","1923",kew-2412442
+tro-100361397,A,Brassicaceae,,Pseuderucaria,,"teretifolia",var.,"parviflora","O.E. Schulz",Synonym,,L,TRO,100361397,,"Pflanzenreich","IV–105(Heft 84): 79.","79.","1923",kew-2412442
+tro-100359003,A,Brassicaceae,,Pseuderucaria,,"tourneuxii",,"","(Coss.) O.E. Schulz",Synonym,,M,TRO,100359003,288204-1,"Bot. Jahrb. Syst.","119: 54","54","1916",tro-100359002

@@ -1,0 +1,52 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136496,A,Compositae,,Pertya,,"aitchisonii",,"","C.B.Clarke",Accepted,,M,TICA,D9E699CB-449F-406B-9149-EC5A7FCE8CFA,,"""J. Linn. Soc., Bot. xviii. (1880) 72.""","","72","1881",
+gcc-112212,A,Compositae,,Pertya,,"angustifolia",,"","Y.Q.Tseng",Accepted,,M,TICA,B52182E6-633C-4972-940D-B4E27FD722A5,,"""in Guihaia, 5(4): 328 (1985)""","","","1985",
+gcc-105160,A,Compositae,,Pertya,,"berberidoides",,"","(Hand.-Mazz.) Y.Q.Tseng",Accepted,,M,TICA,C945D83A-CB27-4DDD-B074-A5074C6F5C91,942286-1,"""in Guihaia, 5(4): 328 (1985):.""","","328","1985",
+gcc-85357,A,Compositae,,Pertya,,"bodinieri",,"","Vaniot",Accepted,,M,TICA,D7B32046-C9C5-4828-A139-78824B19DC5A,,"in Bull. Acad. Geogr. Bot. xii. (1903) 116.","","","1903",
+gcc-68194,A,Compositae,,Pertya,,"bodinieri",var.,"berberidoides","Hand.-Mazz.",Synonym,,L,TICA,3F12A238-C261-4113-AC9A-DCF762C65CCD,,"Symbolae Sinicae 7(4):","","""1174, pl. 31, f. 8-9""","1936",gcc-105160
+gcc-155138,A,Compositae,,Pertya,,"bodinieri",var.,"bodinieri","",Synonym,,L,TICA,C05D09E6-412F-453D-B254-D1C68FEFC0CC,,"","","","",gcc-85357
+gcc-128217,A,Compositae,,Pertya,,"cordifolia",,"","Mattf.",Accepted,,M,TICA,EBD52113-1A10-4541-BD69-D981D372D16D,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 103","","","1931",
+gcc-147407,A,Compositae,,Pertya,,"cordifolia",var.,"cordifolia","",Synonym,,L,TICA,89F1A644-92F3-4E28-A61D-2D00DA37C36F,,"","","","",gcc-128217
+gcc-54345,A,Compositae,,Pertya,,"cordifolia",var.,"desmocephala","(Diels) Z.Wei & Y.B.Chang",Accepted,,L,TICA,FD25CC20-9EDB-40AD-85BB-6D454009C71F,955258-1,"""Bull. Bot. Res., Harbin 9(2): 37""","","37","1989",
+gcc-46635,A,Compositae,,Pertya,,"cordifolia",var.,"pubescens","Ling",Synonym,,L,TICA,AF852A54-2D9C-426C-BC3D-566FCA779D1C,,"Contributions form the botanical survey of northwestern China 1(2):","","41","1939",gcc-137520
+gcc-141109,A,Compositae,,Pertya,,"corymbosa",,"","Y.Q.Tseng",Accepted,,M,TICA,756C15B4-B7D5-497C-80CC-F698B8255022,,"""in Guihaia, 5(4): 332 (1985)""","","","1985",
+gcc-32146,A,Compositae,,Pertya,,"desmocephala",,"","Diels",Unresolved,,L,TICA,84EED55B-0798-4E1D-87D9-3B8B605975D1,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 1032","","","1926",gcc-54345
+gcc-30810,A,Compositae,,Pertya,,"discolor",,"","Rehder",Accepted,,M,TICA,1F910345-B541-4FF0-8B83-390BBDBC3069,,"""J. Arnold Arbor. 1929, x. 135.""","","","1929",
+gcc-66076,A,Compositae,,Pertya,,"discolor",var.,"discolor","",Synonym,,L,TICA,0D6A5F39-A519-4FE7-A5CD-CBD030460C63,,"","","","",gcc-30810
+gcc-4479,A,Compositae,,Pertya,,"esquirolii",,"","H.Lév.",Synonym,,M,TICA,B0221CDD-20E5-4382-9634-08543F65446F,237231-1,"""Bull. Geogr. Bot. 1914, xxiv. 251.""","","251","1914",gcc-43177
+gcc-91199,A,Compositae,,Pertya,,"fauriei",,"","Franch.",Unresolved,,L,TICA,6F35BA71-AF26-47E3-BFA2-85D23F3CFECB,,"""in Mem. Herb. Boiss. no. 14, 2""","","2","",
+gcc-121963,A,Compositae,,Pertya,,"glabrescens",,"","Sch.Bip.",Accepted,,M,TICA,2D929A59-A44F-4568-8ECB-CAF49A487734,237233-1,"Bonplandia 10","","""109, t. 10""","1862",
+gcc-147417,A,Compositae,,Pertya,,"glabrescens",var.,"glabrescens","",Synonym,,L,TICA,1560EBAC-6798-4B39-92A1-2D2ADBE91776,,"","","","",gcc-121963
+gcc-53921,A,Compositae,,Pertya,,"glabrescens",var.,"viridis","Nakai",Synonym,,L,TICA,3B9FD428-537F-4560-8F4C-69D408E9002C,,"Trees & Shrubs Indig. Jap. Prop. 1:","","rev. ed. 710","1927",gcc-121963
+gcc-23248,A,Compositae,,Pertya,,"henanensis",,"","Y.Q.Tseng",Accepted,,M,TICA,F157ECD8-4966-45E8-AFF0-2B06F566FE51,,"""in Guihaia, 5(4): 330 (1985)""","","","1985",
+gcc-104515,A,Compositae,,Pertya,,"hossei",,"","Craib ex Hosseus",Unresolved,,L,TICA,C012455A-EFA9-4333-86E0-A3A9B04BD10D,237234-1,"""Beih. Bot. Centralbl. xxviii. II. 456, 457 (1911); Craib in Kew Bull. 1911, 402.""","","""xxviii. II. 456, 457""","1911",
+gcc-138772,A,Compositae,,Pertya,,"hybrida",,"","Makino",Accepted,,M,TICA,6C806C58-E925-4270-81AD-F1561615121E,237235-1,"Bot. Mag. (Tokyo) xx. 28 (1906).","","144","",
+gcc-125999,A,Compositae,,Pertya,,"koribana",,"","(Nakai) Makino & Nemoto",Unresolved,,L,TICA,DA853129-AAFD-4D5A-A3F9-D452DA8B513B,237237-1,"""Fl. Jap. ed. 2, 1253 (1931).""","","""2, 1253""","1931",
+gcc-141259,A,Compositae,,Pertya,,"macroclinidium",,"","Makino",Unresolved,,L,TICA,5FBD8712-0009-4184-9C02-F6FC801A01B7,237238-1,"Bot. Mag. (Tokyo) xiv. 144","","144","",
+gcc-121809,A,Compositae,,Pertya,,"macrophylla",,"","Nakai",Unresolved,,L,TICA,B4CE72DE-705E-4DBE-8F98-CA95581FE61A,237239-1,"""in Ic. Pl. Koisikav. iv. 77, t. 251 (1920).""","","""iv. 77, t. 251""","1920",
+gcc-9342,A,Compositae,,Pertya,,"mattfeldii",,"","Bornm.",Accepted,,M,TICA,9FC44D42-1769-456D-82D7-116C554CAA88,237240-1,"Repert. Spec. Nov. Regni Veg. Beih. 108: 65","","65","1938",
+gcc-91413,A,Compositae,,Pertya,,"monocephala",,"","W.W.Sm.",Accepted,,M,TICA,4678C07E-486F-4CD2-B94F-8654512E0DFA,237241-1,"Notes Roy. Bot. Gard. Edinburgh 8: 212","","212","1914",
+gcc-10825,A,Compositae,,Pertya,,"ovata",,"","Maxim.",Synonym,,L,TICA,9F2733ED-C79F-4F21-9D20-1443D1321045,,"","","","1871",gcc-20331
+gcc-108769,A,Compositae,,Pertya,,"paradoxa",,"","(Sch.Bip. ex A.Rich.) Schweinf.",Synonym,,M,TICA,FF573137-A217-413F-B95C-AD1C38E14789,,"","","153","1867",gcc-20366
+gcc-27819,A,Compositae,,Pertya,,"paradoxa",,"","Sch.Bip.",Unresolved,,L,TICA,2D0EC7DA-7E34-480F-8532-3369F697866C,237243-1,"""in Schweinf. Beitr. Fl. Aethiop. 153, nomen.""","","""153, nomen""","",
+gcc-116074,A,Compositae,,Pertya,,"phylicoides",,"","Jeffrey",Accepted,,M,TICA,A2CBEDDB-D30B-480B-B056-BD9C6D8A2EE6,,"Notes Roy. Bot. Gard. Edinburgh 5: 200","","","1912",
+gcc-154174,A,Compositae,,Pertya,,"phylicoides",var.,"phylicoides","",Synonym,,L,TICA,C1736FE2-CBAA-4F63-A435-BE0BD6D61F8E,,"","","","",gcc-116074
+gcc-137520,A,Compositae,,Pertya,,"pubescens",,"","Ling",Accepted,,M,TICA,91D0E494-A664-4037-86F2-EE98D163CDE4,,"Contr. Inst. Bot. Natl. Acad. Peiping 6(1): 32","","32","",
+gcc-128102,A,Compositae,,Pertya,,"pungens",,"","Y.Q.Tseng",Accepted,,M,TICA,3C19276C-46F3-4B9D-BB18-D939E0741D50,,"""in Guihaia, 5(4): 334 (1985)""","","","1985",
+gcc-122082,A,Compositae,,Pertya,,"rigidula",,"","(Miq.) Makino",Accepted,,M,TICA,B8675270-CB81-40EF-94FC-CB375908BEB6,,"","","144","1900",
+gcc-13373,A,Compositae,,Pertya,,"robusta",,"","(Maxim.) Beauverd",Accepted,,M,TICA,42158604-CA95-4492-AE05-18ED1241E905,,"","","387","1909",
+gcc-145965,A,Compositae,,Pertya,,"robusta",var.,"robusta","",Synonym,,L,TICA,8F2CB005-901F-4952-AA52-0EA0CD3B1852,,"","","","",gcc-13373
+gcc-20331,A,Compositae,,Pertya,,"scandens",,"","(Thunb. ex Thunb.) Sch.Bip.",Accepted,,L,TICA,FA29E39A-FF1D-45A5-B49A-259596D48E2C,237247-1,"Bonplandia 10","","109","1862",
+gcc-153817,A,Compositae,,Pertya,,"scandens",var.,"scandens","",Synonym,,L,TICA,C10C4E29-3EDF-44F8-A5E3-B5D4EFA9E1E6,,"","","","",gcc-20331
+gcc-71057,A,Compositae,,Pertya,,"scandens",var.,"schultziana","Franch.",Synonym,,L,TICA,A30DBEE3-23D7-4052-89B0-F30CD0451D98,,"Memoires de l'Herbier Boissier 14:","","1","1900",gcc-121963
+tro-100375456,A,Compositae,,Pertya,,"scandens",f.,"schultziana","Franch.",Synonym,,L,TRO,100375456,,"","","","",gcc-20331
+gcc-64051,A,Compositae,,Pertya,,"scandens",var.,"shimozawai","(Masam.) Kitam.",Synonym,,L,TICA,28CC7C75-3364-4DA6-A558-BB8367E15303,,"Acta Phytotaxonomica et Geobotanica 12(2):","","104","1943",gcc-91266
+tro-100375457,A,Compositae,,Pertya,,"scandens",var.,"viridis","Nakai",Synonym,,L,TRO,100375457,,"","","","",gcc-20331
+gcc-91266,A,Compositae,,Pertya,,"simozawai",,"","Masam.",Accepted,,M,TICA,FFA5F2DF-7469-4886-9FC6-85FD5266AE12,,"""in Trans. Nat. Hist. Soc. Formosa, xxx. 37 (1940).""","","","1940",
+gcc-10720,A,Compositae,,Pertya,,"sinensis",,"","Oliv.",Accepted,,M,TICA,FF8A9FE7-7399-4824-B5C4-140C75DEFD7F,,"in Hook. Icon. pl. xxiii. (1892) t. 2214.","","","1892",
+gcc-109754,A,Compositae,,Pertya,,"suzukii",,"","Kitam.",Accepted,,M,TICA,E0481AF6-5A85-4AA3-BCB9-AF65ED30FEF7,,"","","","1938",
+gcc-115621,A,Compositae,,Pertya,,"triloba",,"","(Makino) Matsum.",Accepted,,M,TICA,4DB297C1-9DFE-4279-8853-BC9C4CD1D4AE,,"Bot. Mag. Tokyo 16: 18 (1902)","","18","1902",
+gcc-89430,A,Compositae,,Pertya,,"triloba",,"","(Makino) Makino",Unresolved,,L,TICA,A74E098D-34CC-4F70-A290-81B33F8BC5A5,,"Bot. Mag. (Tokyo) xiv. 144","","144","1900",
+gcc-51425,A,Compositae,,Pertya,,"tsoongiana",,"","Ling",Accepted,,M,TICA,732650F6-F33E-42F1-BB90-5F5F62D9BFE4,957736-1,"","","40","1939",
+gcc-121352,A,Compositae,,Pertya,,"uniflora",,"","(Maxim.) Mattf.",Accepted,,L,TICA,3335EDC4-5524-4646-897F-C99BFCB2ECE8,237252-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 105","","105","1931",
+gcc-120181,A,Compositae,,Pertya,,"yakushimensis",,"","H.Koyama & Nagam.",Accepted,,M,TICA,652CF145-C53B-46AE-86FB-C6E872336A3A,935362-1,"","","67","1988",

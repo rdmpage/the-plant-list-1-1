@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-16400101,A,Cardiopteridaceae,,Leptaulus,,"boiviniana",,"","Baill. ex H. Perrier",Synonym,,M,TRO,16400101,,"Mem. Mus.","18: 292","292","1944",kew-375143
+kew-375144,A,Cardiopteridaceae,,Leptaulus,,"boivinianus",,"","Baill. ex H.Perrier",Synonym,,H,WCSP,375144,,"Mém. Mus. Natl. Hist. Nat.","18: 292","","1944",kew-375143
+kew-375143,A,Cardiopteridaceae,,Leptaulus,,"citrioides",,"","Baill.",Accepted,,H,WCSP,375143,607985-1,"Adansonia","3: 375","","1863",
+kew-375146,A,Cardiopteridaceae,,Leptaulus,,"citrioides",f.,"boivinianus","(Baill. ex H.Perrier) H.Perrier",Synonym,,L,WCSP,375146,,"in Fl. Madag.","119: 14","","1952",kew-375143
+tro-16400102,A,Cardiopteridaceae,,Leptaulus,,"citroides",f.,"boiviniana","(Baill. ex H. Perrier) H. Perrier",Synonym,,L,TRO,16400102,,"Fl. Madagasc.","119: 14","14","1952",kew-375143
+kew-375145,A,Cardiopteridaceae,,Leptaulus,,"congolanus",,"","(Baill.) Lobr.-Callen & Villiers",Accepted,,H,WCSP,375145,434405-1,"Adansonia","n.s., 11: 138","","1971",
+kew-375147,A,Cardiopteridaceae,,Leptaulus,,"daphnoides",,"","Benth.",Accepted,,H,WCSP,375147,607986-1,"Gen. Pl.","1: 351","","1862",
+kew-375148,A,Cardiopteridaceae,,Leptaulus,,"daphnoides",var.,"macrophyllus","Oliv.",Synonym,,L,WCSP,375148,,"Hooker's Icon. Pl.","23: t. 2339","","1894",kew-375150
+kew-375149,A,Cardiopteridaceae,,Leptaulus,,"gossweileri",,"","Cavaco",Synonym,,L,WCSP,375149,434406-1,"Bull. Mus. Natl. Hist. Nat.","II, 29: 511","","1958",kew-375151
+kew-375150,A,Cardiopteridaceae,,Leptaulus,,"grandifolius",,"","Engl.",Accepted,,H,WCSP,375150,434407-1,"Bot. Jahrb. Syst.","43: 180","","1909",
+kew-375151,A,Cardiopteridaceae,,Leptaulus,,"holstii",,"","(Engl.) Engl.",Accepted,,L,WCSP,375151,434408-1,"Bot. Jahrb. Syst.","24: 481","","1898",
+kew-375152,A,Cardiopteridaceae,,Leptaulus,,"madagascariensis",,"","Villiers",Accepted,,H,WCSP,375152,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia","10: 369","","1988 publ. 1989",
+kew-375153,A,Cardiopteridaceae,,Leptaulus,,"oddonii",,"","(De Wild.) Engl.",Synonym,,L,WCSP,375153,434409-1,"Veg. Erde","9(III 2): 254","","1921",kew-375151
+kew-375154,A,Cardiopteridaceae,,Leptaulus,,"vilhenae",,"","Cavaco",Synonym,,H,WCSP,375154,434410-1,"Bull. Mus. Natl. Hist. Nat.","II, 29: 512","","1958",kew-375145
+kew-375155,A,Cardiopteridaceae,,Leptaulus,,"zenkeri",,"","Engl.",Synonym,,H,WCSP,375155,434411-1,"Bot. Jahrb. Syst.","43: 179","","1909",kew-375145
+kew-375156,A,Cardiopteridaceae,,Leptaulus,,"zenkeri",var.,"longipedicellata","Villiers",Synonym,,L,WCSP,375156,,"in Fl. Cameroun","15: 62","","1973",kew-375145

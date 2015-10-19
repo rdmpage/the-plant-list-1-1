@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-85179,A,Compositae,,Macronema,,"aberrans",,"","A.Nelson",Synonym,,M,TICA,D13142FE-68E9-4CF4-8DD0-781D87F4DA29,149017-2,"","","226","1912",gcc-129751
+gcc-119190,A,Compositae,,Macronema,,"bolandri",,"","(A.Gray) Greene",Unresolved,,L,TICA,E1F0926D-385F-46EF-8FAD-C49F7143DC99,,"Leafl. Bot. Observ. Crit. 1","","","1904",
+gcc-140561,A,Compositae,,Macronema,,"discoidea",,"","Nutt.",Synonym,,L,TICA,77E58863-3C24-4DF4-B344-F554A256D631,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 322""","","","1840",gcc-79269
+gcc-85896,A,Compositae,,Macronema,,"filiformis",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,00624740-BF69-455B-93A5-79B86B48DEAA,231524-1,"Bot. Gaz. 62: 148. 1916","","148","1916",
+gcc-144766,A,Compositae,,Macronema,,"glomerata",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,B2BB6FC9-9858-4577-8698-FEDC36360BF2,149021-2,"","","149","1916",
+gcc-145202,A,Compositae,,Macronema,,"greenei",,"","A.Gray",Unresolved,,L,TICA,5978F351-3DC0-4383-939E-FFE4A1CB90D6,1084082-2,"Erythea 2: 73. 1894","","73","1894",
+gcc-26412,A,Compositae,,Macronema,,"greenei",,"","(A.Gray) Greene",Synonym,,L,TICA,5066BC1B-9C98-4A09-87C1-30CE16E5BA4F,1180473-2,"Erythea 2: 73. 1894","","73","1894",gcc-45878
+gcc-151258,A,Compositae,,Macronema,,"greenei",var.,"greenei","",Synonym,,L,TICA,392E85A5-25B1-4175-997C-80EC0C6EF434,,"","","","",gcc-45878
+gcc-86023,A,Compositae,,Macronema,,"grindelifolium",,"","Rydb.",Unresolved,,L,TICA,33CD55D1-9B6B-485E-9FD3-7A048ABC48C9,149023-2,"","","384","1900",
+gcc-237,A,Compositae,,Macronema,,"grindelioides",,"","Rydb.",Unresolved,,L,TICA,04D156EF-8C4B-4A22-8E69-006FB8DBCED5,149024-2,"New Man. Bot. Centr. Rocky Mt. 502. 1909 Probably a clerical error for M. grindelifolium Rydb","","502","",
+gcc-144153,A,Compositae,,Macronema,,"imbricata",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,D09C6DD5-47DD-4D49-A6EA-FD744411252E,149025-2,"","","150","1916",
+gcc-564,A,Compositae,,Macronema,,"lineare",,"","Rydb.",Synonym,,M,TICA,E69BB77A-44BC-419D-8B88-0110DE132587,280252-2,"Mem. New York Bot. Gard. 1: 384. 1900","","384","1900",gcc-101700
+gcc-27632,A,Compositae,,Macronema,,"lineare",var.,"canescens","A.Nelson",Synonym,,L,TICA,53702ADF-EEE5-41F8-BF97-3312E73EF6C9,149027-2,"New Man. Bot. Centr. Rocky Mt. 502. 1909","","502","1909",gcc-101700
+gcc-33487,A,Compositae,,Macronema,,"lineare",var.,"lineare","",Synonym,,L,TICA,17DA7418-DA9E-4628-8BCF-3E18ED084A59,,"","","","",gcc-101700
+gcc-120787,A,Compositae,,Macronema,,"molle",,"","A.Gray",Unresolved,,L,TICA,10ECB359-C5A0-46A5-879F-C858688BA098,1023317-2,"Erythea 2: 73. 1894","","73","1894",
+gcc-133696,A,Compositae,,Macronema,,"molle",,"","(A.Gray) Greene",Unresolved,,L,TICA,C1C8427A-1EED-4470-8BA6-E61A09D01F9B,149028-2,"","","73","1894",gcc-45878
+gcc-97744,A,Compositae,,Macronema,,"obovatum",,"","Rydb.",Synonym,,M,TICA,F12102C2-0E58-4BF1-A6EB-9497AB722EA8,149029-2,"","","618","1900",gcc-16421
+gcc-112881,A,Compositae,,Macronema,,"obtusum",,"","Rydb.",Unresolved,,L,TICA,02ED0AE2-A8BF-4311-990D-B66FE5626C54,149030-2,"","","619","1900",
+gcc-14369,A,Compositae,,Macronema,,"pulvisculifera",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,F4D9A11C-D065-4D09-B8D5-1AAC890D5C82,149031-2,"","","150","1916",
+gcc-123155,A,Compositae,,Macronema,,"pygmaeum",,"","(Torr. & A.Gray) Greene",Unresolved,,L,TICA,CD1E5A85-CFB7-4003-934D-CDAA5DF5728B,149032-2,"","","73","1894",gcc-92439
+gcc-92083,A,Compositae,,Macronema,,"scoparia",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,99FB0412-4166-45B7-9CC3-87CDDF35EDC9,,"","","","1916",
+gcc-127308,A,Compositae,,Macronema,,"suffruticosa",,"","Nutt.",Synonym,,M,TICA,8A0DF586-22C8-4A6A-8A3F-D75551AB141E,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","322","1840",gcc-143400
+gcc-92393,A,Compositae,,Macronema,,"walpoliana",,"","A.Nelson & J.F.Macbr.",Unresolved,,L,TICA,7A50FC94-90D8-4481-A894-887C568B357A,149035-2,"","","149","1916",
+gcc-140589,A,Compositae,,Macronema,,"watsonii",,"","(A.Gray) Greene",Synonym,,M,TICA,01BBED18-E3BC-4588-B9DB-F5670AB9774C,149036-2,"","","74","1894",gcc-46406

@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-13493,A,Compositae,,Omalocline,,"granatensis",,"","(Willk.) Willk.",Synonym,,M,TICA,A1F64F8D-FF3D-4F2A-B7D6-191EEF6B1F23,,"","","147","1892",gcc-16651
+gcc-96331,A,Compositae,,Omalocline,,"montana",,"","(Jacq.) Sch.Bip.",Synonym,,M,TICA,E6C24F4B-002B-4C79-83D8-914FACB25490,,"in Pollichia xxii-xxiv. (1866) 321.","","","1866",gcc-124715
+gcc-84398,A,Compositae,,Omalocline,,"prunellaefolia",,"","Cass.",Unresolved,,L,TICA,B87F175F-619E-4309-81DC-767A71DB542D,235177-1,"in Dict. Sci. Nat. xlviii. 432.","","xlviii. 432","",
+gcc-152177,A,Compositae,,Omalocline,,"prunellifolium",,"","Cass.",Synonym,,M,TICA,CF8F7E19-96D3-4B17-91A2-942BFC9A5F6C,,"""A.H.G. de Cassini - in Cuvier, Dict. Sci. Nat. 48. 1824""","","431","1824",gcc-75455
+gcc-74,A,Compositae,,Omalocline,,"pygmaea",,"","(L.) Rchb.f.",Synonym,,M,TICA,385265A3-097B-420B-BD68-002AB8B096CA,,"","","51","1859",gcc-75455
+gcc-25392,A,Compositae,,Omalocline,,"pygmaea",var.,"granatensis","Willk.",Synonym,,L,TICA,1DFE2838-3327-4D5F-854D-2EE1277A9B80,,"","","245","1865",gcc-16651
+gcc-154813,A,Compositae,,Omalocline,,"pygmaea",var.,"pygmaea","",Synonym,,L,TICA,4EC6C691-AE54-4F4F-9A16-CB78A2367C8B,,"","","","",gcc-75455
+gcc-10256,A,Compositae,,Omalocline,,"schimperi",,"","(A.Rich.) Sch.Bip.",Synonym,,M,TICA,B67E9FE3-F922-47C8-A6E1-132B5B00BCB4,,"in Pollichia xxii-xxiv. (1866) 321.","","","1866",gcc-146711
+gcc-12970,A,Compositae,,Omalocline,,"succisaefolia",,"","Monn.",Unresolved,,L,TICA,FD823DB9-51D6-44AA-9632-182E5956484C,,"Ess. Hierac. 78.","","78","",
+gcc-150146,A,Compositae,,Omalocline,,"succisifolia",,"","(All.) Monnier",Synonym,,M,TICA,312DB9F5-6012-4490-822C-684B38FFA24D,235180-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","78","1829",gcc-57024
+gcc-124475,A,Compositae,,Omalocline,,"terglouensis",,"","(Hacq.) Sch.Bip.",Synonym,,M,TICA,8C2E05E8-06F0-4F6E-AF6F-D0C74DE2766A,,"in Pollichia xxii-xxiv. (1866) 321.","","","1866",gcc-25403

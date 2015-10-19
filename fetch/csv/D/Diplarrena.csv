@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-327954,A,Iridaceae,,Diplarrena,,"latifolia",,"","Benth.",Accepted,,H,iPlants,327954,,"Fl. Austral.","6: 400","","1873",
+kew-327955,A,Iridaceae,,Diplarrena,,"moraea",,"","Labill.",Accepted,,H,iPlants,327955,,"Voy. Rech. Pérouse","1: 157","","1800",
+kew-327956,A,Iridaceae,,Diplarrena,,"moraea",var.,"alpina","Hook.f.",Synonym,,L,iPlants,327956,,"Fl. Tasman.","2: 34","","1858",kew-327955
+kew-321157,A,Iridaceae,,Diplarrena,,"moraea",var.,"latifolia","(Benth.) Baker",Synonym,,L,iPlants,321157,66084-3,"Handb. Irid.","115","","1892",kew-327954

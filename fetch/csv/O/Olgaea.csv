@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-133703,A,Compositae,,Olgaea,,"altimurana",,"","(Rech.f.) Rech.f.",Accepted,,M,TICA,DE01C3AD-BB80-44AF-88D5-E61C2CCCA8FE,234961-1,"""Fl. Iran., 90: 318 (1972)""","","318","1972",
+gcc-97880,A,Compositae,,Olgaea,,"baldschuanica",,"","Iljin",Accepted,,M,TICA,F8170818-AC9D-46EE-A616-94DC5A849977,234962-1,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922).","","142","1922",
+gcc-30644,A,Compositae,,Olgaea,,"chodshamuminensis",,"","B.A.Sharipova",Accepted,,M,TICA,53879C57-DCCF-4B52-807D-38B9EB02DEDB,960199-1,"""in Fl. Tadzhikskoĭ SSR, 10: 461, 200 (1991)""","","""461, 200""","1991",
+gcc-152800,A,Compositae,,Olgaea,,"conglobata",,"","Ilijn",Synonym,,M,TICA,E0CE90CD-7F05-4BCC-9555-A0C61F5B2B0F,,"","","","",gcc-4299
+gcc-25099,A,Compositae,,Olgaea,,"conglobata",,"","Iljin",Unresolved,,L,TICA,91A25922-FD9B-4FAC-870E-2E589EF807EC,234963-1,"""in Bull. Soc. Nat. Mosc., Sect. Biol., n. s., xxxviii. 144 (1929).""","","xxxviii. 144","1929",
+gcc-140724,A,Compositae,,Olgaea,,"echinantha",,"","Ling",Synonym,,M,TICA,4F744D59-DE71-4793-B71F-F5BF29489D94,234964-1,"Contr. Inst. Bot. Natl. Acad. Peiping 3: 137","","137","1935",gcc-44077
+gcc-91574,A,Compositae,,Olgaea,,"eriocephala",,"","(C.Winkl.) Iljin",Accepted,,M,TICA,DAA9D6E5-9194-4D04-AC04-86AAECF16DD3,234965-1,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922).","","142","1922",
+gcc-132221,A,Compositae,,Olgaea,,"hsiaowutaishanensis",,"","(Chen) Ling",Synonym,,M,TICA,3B743FB6-F85F-4E76-AEBD-E2B925AFA077,234966-1,"Contr. Inst. Bot. Natl. Acad. Peiping 3: 136","","136","1935",gcc-111895
+tro-100376025,A,Compositae,,Olgaea,,"hsiaowutaishanensis",,"","(F.H. Chen) Y. Ling",Synonym,,M,TRO,100376025,,"","","","",gcc-111895
+gcc-147582,A,Compositae,,Olgaea,,"hsiaowutaishanensis",f.,"hsiaowutaishanensis","",Synonym,,L,TICA,CE0B88F1-F4E5-4992-96EB-309A0D85AA82,,"","","","",gcc-111895
+gcc-102915,A,Compositae,,Olgaea,,"hsiaowutaishanensis",f.,"humilis","Ling",Synonym,,L,TICA,9FE076B9-0486-40B6-A6D3-A02C9C31C477,,"""Contributions from the Institute of Botany, National Academy of Peiping 3:""","","137","1935",gcc-111895
+tro-50166293,A,Compositae,,Olgaea,,"laniceps",,"","(C. Winkl.) Iljin",Accepted,,M,TRO,50166293,234967-1,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R.","3: 143","143","1922",
+gcc-79243,A,Compositae,,Olgaea,,"lanipes",,"","(C.Winkl.) Iljin",Accepted,,M,TICA,1AE9E48C-AB5F-480F-A4CF-6AFF4A23C5F9,,"","","143","1922",
+gcc-4299,A,Compositae,,Olgaea,,"leucophylla",,"","(Turcz.) Iljin",Accepted,,M,TICA,4BE1896C-234F-41A4-BA80-07FC522C4E6B,234968-1,"Not. Syst. Herb. Hort. Petrop. iii. 145 (1922).","","145","1922",
+gcc-20128,A,Compositae,,Olgaea,,"leucophylla",var.,"aggregata","Ling",Synonym,,L,TICA,EF68EED9-1F29-40A3-9410-2535BDC29F24,,"""Contributions from the Institute of Botany, National Academy of Peiping 3:""","","139","1935",gcc-4299
+gcc-64381,A,Compositae,,Olgaea,,"leucophylla",var.,"albiflora","Y.B.Chang",Synonym,,L,TICA,5BBF780F-531D-4F16-A190-BE1A75A21D66,917891-1,"""Bull. Bot. Res., Harbin 3(2): 157""","","157","1983",gcc-4299
+gcc-58584,A,Compositae,,Olgaea,,"leucophylla",var.,"jucunda","Iljin",Synonym,,L,TICA,54ADE322-0591-4FF0-B03B-8FEDA1212DA2,,"Botanicheskie Materialy Gerbariia Glavnogo Botanicheskogo Sada S.S.S.R. 3(36-37):","","145-146","1922",gcc-4299
+gcc-145350,A,Compositae,,Olgaea,,"leucophylla",var.,"leucophylla","",Synonym,,L,TICA,EAC76C6E-8B00-456C-9F0D-0261BC01CD49,,"","","","",gcc-4299
+gcc-111895,A,Compositae,,Olgaea,,"lomonosowii",,"","(Trautv.) Iljin",Accepted,,M,TICA,9B1E5659-6871-4AE7-B429-B43182829198,234969-1,"Not. Syst. Herb. Hort. Petrop. iii. 144 (1922).","","144","1922",
+gcc-85369,A,Compositae,,Olgaea,,"longifolia",,"","Iljin",Accepted,,M,TICA,51ED7D82-F5DF-4301-922D-78851858DAA2,234970-1,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922).","","142","1922",
+gcc-125287,A,Compositae,,Olgaea,,"nidulans",,"","(Rupr.) Iljin",Accepted,,M,TICA,40959264-A80D-48DD-B7D0-D2B31CEC8FA2,234971-1,"Not. Syst. Herb. Hort. Petrop. iii. 143 (1922).","","143","1922",
+gcc-111646,A,Compositae,,Olgaea,,"nivea",,"","Iljin",Accepted,,M,TICA,FE25F120-6B35-4333-A162-B393E2648915,234972-1,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922).","","142","1922",
+gcc-40703,A,Compositae,,Olgaea,,"pectinata",,"","Iljin",Accepted,,M,TICA,F2568124-72EB-40FC-813B-4B6E7344409A,234973-1,"""in Bull. Jard. Bot. Rep. Russe, xxiii. 146 (1924).""","","146","1924",
+gcc-105800,A,Compositae,,Olgaea,,"petri-primi",,"","B.A.Sharipova",Accepted,,M,TICA,86053FB4-4C53-4937-BE2F-A65B10B75D17,960198-1,"","","""461, 200""","1991",
+gcc-90100,A,Compositae,,Olgaea,,"roborowskyi",,"","Iljin",Accepted,,M,TICA,7D744052-2D30-4FC2-B78F-8332B8C29DA7,,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922).","","","1922",
+gcc-46431,A,Compositae,,Olgaea,,"sinensis",,"","(S.Moore) Iljin",Synonym,,M,TICA,08F80514-BD4C-4371-9E1B-560EE2A020A3,,"""in Bull. Jard. Bot. Rep. Russe, xxiii. 149 (1924).""","","","1924",gcc-111895
+gcc-103595,A,Compositae,,Olgaea,,"spinifera",,"","Iljin",Accepted,,M,TICA,827331B4-716D-40C3-B3BB-A19F8B3CE739,,"""in Bull. Jard. Bot. Rep. Russe, xxiii. 145 (1924).""","","","1924",
+gcc-81273,A,Compositae,,Olgaea,,"talassica",,"","Iljin",Unresolved,,L,TICA,66F453D7-A7AC-48B2-9550-6F6BD7F3455D,234977-1,"""in Bull. Jard. Bot. Rep. Russe, xxiii. 136 (1924), in adnot.""","","""xxiii. 136 , in adnot.""","1924",
+gcc-44077,A,Compositae,,Olgaea,,"tangutica",,"","Iljin",Accepted,,M,TICA,2BC33225-CAE9-412F-AAC3-519EEE7359FA,,"Not. Syst. Herb. Hort. Petrop. iii. 144 (1922).","","","1922",
+gcc-102983,A,Compositae,,Olgaea,,"thomsonii",,"","(Hook.f.) Iljin",Accepted,,M,TICA,BDBE8762-2768-4924-8E3A-A04CA9E542A9,234979-1,"Not. Syst. Herb. Hort. Petrop. iii. 142 (1922)","","142","1922",
+gcc-37129,A,Compositae,,Olgaea,,"vvedenskyi",,"","Iljin",Accepted,,M,TICA,60E1073C-C18A-46A7-92EF-44CA12EE190E,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xx. 359 (1960).""","","","1960",

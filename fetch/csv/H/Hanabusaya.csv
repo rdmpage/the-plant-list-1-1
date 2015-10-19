@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-370509,A,Campanulaceae,,Hanabusaya,,"asiatica",,"","(Nakai) Nakai",Accepted,,H,WCSP,370509,142532-1,"J. Coll. Sci. Imp. Univ. Tokyo","31: 62","","1911",
+kew-370510,A,Campanulaceae,,Hanabusaya,,"asiatica",f.,"alba","T.B.Lee",Synonym,,L,WCSP,370510,948593-1,"J. Korean Pl. Taxon.","6: 17","","1975",kew-370509
+kew-370511,A,Campanulaceae,,Hanabusaya,,"asiatica",var.,"latisepala","(Nakai) W.Lee",Synonym,,L,WCSP,370511,20007545-1,"Lin. Fl. Koreae","1071","","1996",kew-370509
+kew-370512,A,Campanulaceae,,Hanabusaya,,"latisepala",,"","Nakai",Synonym,,H,WCSP,370512,142533-1,"Bot. Mag. (Tokyo)","35: 147","","1921",kew-370509

@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79265,A,Compositae,,Plagiocheilus,,"bogotensis",,"","(Kunth) Wedd.",Accepted,,M,TICA,9F3AC88D-338D-4DB1-8DC3-6B0B9F8F4C9B,238661-1,"Chlor. And. i. 62.","","62","1855 [1856]",
+gcc-142216,A,Compositae,,Plagiocheilus,,"ciliaris",,"","Wedd.",Accepted,,M,TICA,4B7D9EE5-9C17-48EC-A348-F92919D50A6E,238662-1,"Chlor. And. i. 227.","","227","1855 [1857]",
+gcc-91034,A,Compositae,,Plagiocheilus,,"erectus",,"","Rusby",Synonym,,M,TICA,6B00E67D-A1A7-428C-81E4-856B05A0321D,201141-2,"","","212","1895",gcc-142183
+gcc-107097,A,Compositae,,Plagiocheilus,,"frigidus",,"","Poepp.",Accepted,,M,TICA,A9C1D400-9E15-4528-8087-A953AD9A0E1B,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) iii. 48. t. 248.","","","1843",
+gcc-151521,A,Compositae,,Plagiocheilus,,"herzogii",,"","Beauverd ex Herzog",Unresolved,,L,TICA,5450EFE2-3895-431B-9812-86798B8FF6CE,,"","","","",
+gcc-126013,A,Compositae,,Plagiocheilus,,"peduncularis",,"","(Kunth) Wedd.",Accepted,,M,TICA,F9515B18-6DFF-43B6-8E12-D45A32A650E3,238665-1,"Chlor. And. i. 61.","","61","1855 [1856]",
+gcc-30894,A,Compositae,,Plagiocheilus,,"prostratus",,"","Benth.",Synonym,,M,TICA,5F2057C1-6BE4-4D58-B172-3932774C432A,,"Pl. Hartw. 136.","","","1844",gcc-79265
+gcc-92243,A,Compositae,,Plagiocheilus,,"solivaeformis",,"","DC.",Accepted,,M,TICA,EE68981D-C10B-42E1-B8F7-882E5D3D0435,,"Prodr. (DC.) 6: 142","","142","",
+gcc-157229,A,Compositae,,Plagiocheilus,,"solivaeformis",subsp.,"solivaeformis","",Synonym,,L,TICA,8D184C92-8AC1-4AB1-BAE6-FDB5CE6FE0F3,,"","","","",gcc-92243
+gcc-155077,A,Compositae,,Plagiocheilus,,"soliviformis",,"","DC.",Accepted,,M,TICA,9FAE7626-3A5C-4361-98C2-D0908C82A584,,"","","","",
+gcc-94294,A,Compositae,,Plagiocheilus,,"tanacetoides",,"","Haenke ex DC.",Accepted,,M,TICA,0FF93FAF-E28D-4030-BD58-8CA8C8E4E5E7,238668-1,"Prodr. (DC.) 6: 142","","142","1838",

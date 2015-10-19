@@ -1,0 +1,79 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6527,A,Compositae,,Franseria,,"acanthicarpa",,"","Druce",Unresolved,,L,TICA,4164EA7F-DCA3-4A37-BC9D-0C1F4230B3EE,,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1909, 415 (1910).""","","415","",
+gcc-96783,A,Compositae,,Franseria,,"acanthicarpa",,"","(Hook.) Coville",Synonym,,M,TICA,6F1A94EB-DCE6-40B9-A909-925D4C7C9EE3,105658-2,"Contr. U. S. Natl. Herb. 4","","129","1893",gcc-138532
+gcc-32800,A,Compositae,,Franseria,,"acerifolia",,"","M.E.Jones",Synonym,,M,TICA,842711BC-ADEE-49DF-8AEA-3CD82C3F9252,315637-2,"Contr. W. Bot. 18","","78","1933",gcc-38245
+gcc-110033,A,Compositae,,Franseria,,"acuminata",,"","Brandegee",Synonym,,M,TICA,350D7577-F94F-4187-AA3F-AFFA515E62F1,,"","","171","1889",gcc-96539
+gcc-124758,A,Compositae,,Franseria,,"albicaulis",,"","Torr.",Synonym,,M,TICA,B603D857-9344-4D51-9138-D16A41F528D7,208237-1,"","","16","1853",gcc-100971
+gcc-93679,A,Compositae,,Franseria,,"ambrosioides",,"","Cav.",Synonym,Illegitimate,M,TICA,1273B2C0-749C-483F-865D-8B37EFC863EC,,"","","","1793",gcc-82688
+gcc-132146,A,Compositae,,Franseria,,"andina",,"","Phil.",Unresolved,,L,TICA,6B6EC596-7A30-4816-BBBB-E28D5435635E,105661-2,"Anales Univ. Chile 90","","40","1895",
+gcc-88731,A,Compositae,,Franseria,,"arborescens",,"","Brandegee",Synonym,,M,TICA,1553D100-70F9-4F75-9180-801D16287482,105662-2,"Zoe 5","","162","1903",gcc-38245
+gcc-118463,A,Compositae,,Franseria,,"artemisioides",,"","Willd.",Accepted,,M,TICA,A5B6242C-A2EF-4DAF-943C-C3014EC6063C,,"","","","1805",
+gcc-121764,A,Compositae,,Franseria,,"artemisioides",,"","Meyen & Walp.",Unresolved,,L,TICA,4A0C8ED0-FE33-4A6B-8B27-CA7D3C1764C3,,"","","","",
+gcc-138742,A,Compositae,,Franseria,,"bipinnatifida",,"","A.Gray",Synonym,Illegitimate,L,TICA,DAC608D9-7625-440A-99E7-F146A37CA899,208243-1,"","","115","1876",gcc-48340
+gcc-97342,A,Compositae,,Franseria,,"bipinnatifida",,"","(Less.) Nutt.",Synonym,,M,TICA,4F6BB4B8-985C-4374-915B-93A25333EE55,,"","","344","1840",gcc-100748
+gcc-149028,A,Compositae,,Franseria,,"bipinnatifida",var.,"bipinnatifida","",Synonym,,L,TICA,C1364FFC-B06D-459C-A111-500494E42528,,"","","","",gcc-100748
+gcc-7911,A,Compositae,,Franseria,,"bipinnatifida",var.,"dubia","(A.Gray) Eastw.",Synonym,,L,TICA,2C8EC3A8-3B46-4CB8-BAEE-0EBD6B159048,,"","","117","1898",gcc-48340
+gcc-67745,A,Compositae,,Franseria,,"bipinnatifida",var.,"insularis","Reiche",Synonym,,L,TICA,7308B01E-85D2-4A63-B35C-D9AD12062D72,105666-2,"Anales Univ. Chile 112","","131","1903",gcc-100748
+gcc-12378,A,Compositae,,Franseria,,"bipinnatifida",var.,"villosa","(Rydb.) Eastw.",Synonym,,L,TICA,3109677A-3E49-4DAD-A455-17148D79AA15,105667-2,"N. Amer. Fl. 33","","26","1922",gcc-100748
+gcc-21775,A,Compositae,,Franseria,,"bryantii",,"","Curran",Synonym,,M,TICA,07CAAD2E-258C-4CD9-81A4-284AEADF6EED,,"""Proc. Calif. Acad. Sci. ser. 2, 1""","","232","1888",gcc-34288
+gcc-84350,A,Compositae,,Franseria,,"californica",,"","Gand.",Synonym,,M,TICA,E85F7B4B-676C-4423-BA90-766344319110,105669-2,"Bull. Soc. Bot. France 65","","54","1918",gcc-138532
+gcc-29868,A,Compositae,,Franseria,,"camphorata",,"","Greene",Synonym,,L,TICA,16DA89A2-EFBC-487D-B2E4-373AE8D509AF,208246-1,"","","192","1885",gcc-48340
+gcc-66765,A,Compositae,,Franseria,,"camphorata",var.,"camphorata","",Synonym,,L,TICA,6DE9B888-CE40-4455-B35F-D189C2034682,,"","","","",gcc-48340
+gcc-61678,A,Compositae,,Franseria,,"camphorata",var.,"leptophylla","A.Gray",Synonym,,L,TICA,96B9F3CA-4838-403A-8E9E-A8A5667A24A8,105671-2,"Proc. Amer. Acad. Arts 22","","309","1887",gcc-48340
+gcc-21625,A,Compositae,,Franseria,,"canescens",,"","(A.Gray) Rydb.",Synonym,,M,TICA,C06C0780-9CE5-427A-909B-27FD081AE48A,208247-1,"N. Amer. Fl. 33","","27","1922",gcc-26201
+gcc-27774,A,Compositae,,Franseria,,"carduacea",,"","Greene",Synonym,,M,TICA,6A31194E-4480-4F72-896C-33558FD413D2,105673-2,"Leafl. Bot. Observ. Crit. 2","","156","1911",gcc-38245
+gcc-104886,A,Compositae,,Franseria,,"caudata",,"","Rydb.",Synonym,,L,TICA,DFA2814B-A545-4D26-B95A-A46EEAF47735,105674-2,"N. Amer. Fl. 33","","29","1922",gcc-42004
+gcc-21633,A,Compositae,,Franseria,,"chamissonis",,"","Less.",Synonym,,M,TICA,5347C40D-4C61-44AD-A69C-28028AC6AF1E,208250-1,"Linnaea 6","","507","1831",gcc-100748
+gcc-109098,A,Compositae,,Franseria,,"chamissonis",f.,"bipinnatisecta","(Less.) Calder & Roy L.Taylor",Synonym,,L,TICA,B9179759-73E4-4092-B8B7-ADDCDB2FB6F1,105676-2,"Canad. J. Bot. 43","","1399","1965",gcc-100748
+gcc-5271,A,Compositae,,Franseria,,"chamissonis",var.,"bipinnatisecta","Less.",Synonym,,L,TICA,C52E539E-D656-4C50-93AC-09D79943617C,105678-2,"Linnaea 6","","508","1831",gcc-100748
+gcc-54755,A,Compositae,,Franseria,,"chamissonis",subsp.,"bipinnatisecta","(Less.) Wiggins & Stockw.",Synonym,,L,TICA,065EE358-899D-4392-9B2A-709E26501D2D,105677-2,"Madroño 4","","120","1937",gcc-100748
+gcc-153170,A,Compositae,,Franseria,,"chamissonis",f.,"chamissonis","",Synonym,,L,TICA,6C10D950-815C-47D8-9564-A8BE300899A2,,"","","","",gcc-100748
+gcc-59436,A,Compositae,,Franseria,,"chamissonis",var.,"chamissonis","",Synonym,,L,TICA,92842E2A-4EF3-4212-89A2-96687D448552,,"","","","",gcc-100748
+gcc-68867,A,Compositae,,Franseria,,"chamissonis",subsp.,"chamissonis","",Synonym,,L,TICA,D314F68B-017D-4CAF-97EC-E20FB11DFBF4,,"","","","",gcc-100748
+gcc-62903,A,Compositae,,Franseria,,"chamissonis",var.,"cuneifolia","(Nutt.) Torr. & A.Gray",Synonym,,L,TICA,9D19A28C-69DB-4A1B-8634-B2991F682E3E,105679-2,"","","293","1842",gcc-100748
+gcc-67715,A,Compositae,,Franseria,,"chamissonis",var.,"malvaefolia","Less.",Synonym,,L,TICA,164AE292-0297-4EA6-9F2E-D967678F3586,105680-2,"Linnaea 6","","507","1831",gcc-100748
+gcc-62725,A,Compositae,,Franseria,,"chamissonis",var.,"viscida","(A.Gray) Eastw.",Synonym,,L,TICA,EA8CCF3A-24CA-4183-B6AE-B0FE9418E513,,"","","117","1898",gcc-100748
+gcc-78769,A,Compositae,,Franseria,,"chenopodiifolia",,"","Benth.",Synonym,,L,TICA,6E021FAE-53FD-43F5-AE80-69EBCE57F808,208251-1,"","","26","1844",gcc-15511
+gcc-83157,A,Compositae,,Franseria,,"confertiflora",,"","(DC.) Rydb.",Synonym,,L,TICA,C0CD5519-30E9-4F66-AE80-73B226977032,105684-2,"N. Amer. Fl. 33","","28","1922",gcc-42004
+gcc-30740,A,Compositae,,Franseria,,"conwayi",,"","Rusby",Synonym,,M,TICA,1C1E61E9-CB0C-436D-841F-38EB44DF5E2B,105685-2,"Bull. New York Bot. Gard. 8","","130","1912",gcc-142156
+gcc-84752,A,Compositae,,Franseria,,"cordifolia",,"","A.Gray",Synonym,,M,TICA,20758FC4-330F-466F-B404-7738DD896661,208254-1,"","","445","1884",gcc-5166
+gcc-86058,A,Compositae,,Franseria,,"cuneifolia",,"","Nutt.",Synonym,,M,TICA,B29ABF7B-0FFA-4762-BE1F-7A16DDF5032D,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 345""","","345","1840",gcc-100748
+gcc-88898,A,Compositae,,Franseria,,"deltoidea",,"","Torr.",Synonym,,M,TICA,E40AA3D2-A552-4390-BEE7-807491E5A2C4,208256-1,"","","15","1853",gcc-12215
+gcc-10631,A,Compositae,,Franseria,,"dentata",,"","Cabrera",Synonym,,M,TICA,F682F61B-8C40-4929-98E8-13E12182E2BC,277243-2,"Bol. Soc. Argent. Bot. 10","","25","1962",gcc-139454
+gcc-107070,A,Compositae,,Franseria,,"discolor",,"","Nutt.",Synonym,,L,TICA,BCF41E11-6EF9-450C-8B8A-A9427D107F5B,,"","","345","1840",gcc-23358
+gcc-90011,A,Compositae,,Franseria,,"divaricata",,"","Brandegee",Synonym,,M,TICA,B02C8A8D-7C1C-4AB8-B843-83066A756B08,,"""Proc. Calif. Acad. Sci. ser. 2, 2""","","171","1889",gcc-2358
+gcc-138654,A,Compositae,,Franseria,,"dumosa",,"","A.Gray",Synonym,,M,TICA,BF450F21-1FE9-44D6-B268-F10E52697073,208260-1,"","","316","1845",gcc-100971
+gcc-149752,A,Compositae,,Franseria,,"dumosa",var.,"dumosa","",Synonym,,L,TICA,8D2EEB28-74EC-4DDD-A18E-5F8870774D00,,"","","","",gcc-100971
+gcc-122312,A,Compositae,,Franseria,,"eriocentra",,"","A.Gray",Synonym,,M,TICA,D014891A-547A-44CB-B55D-CBBB9E0C204C,208261-1,"","","355","1868",gcc-98093
+gcc-35884,A,Compositae,,Franseria,,"exigua",,"","Wawra",Synonym,,L,TICA,A2C8AA52-38C7-4976-B8E0-428A3C69DC3E,,"Itin. Princ. S. Coburgi 2","","","1888",gcc-23358
+gcc-99095,A,Compositae,,Franseria,,"flexuosa",,"","A.Gray",Synonym,,M,TICA,AD19ACCE-155F-4CC2-95F0-979CB8ADF2BF,208263-1,"","","298","1885",gcc-105736
+gcc-36415,A,Compositae,,Franseria,,"fruticosa",,"","Phil.",Synonym,,M,TICA,4C66A0C8-EBB8-4D79-85D1-438A221BA568,105696-2,"","","50","1891",gcc-30680
+gcc-140144,A,Compositae,,Franseria,,"grayi",,"","A.Nelson",Synonym,,M,TICA,1C6CEA8A-1E14-48D4-8F03-F452F5A4E60C,105697-2,"","","542","1909",gcc-43000
+gcc-101921,A,Compositae,,Franseria,,"hispida",,"","Benth.",Synonym,,L,TICA,47E4EC34-D2FC-41A8-996B-9DD914610C0D,208266-1,"","","25","1844",gcc-48340
+gcc-3079,A,Compositae,,Franseria,,"hispidissima",,"","Rydb.",Synonym,,L,TICA,FA43C086-C431-4977-A590-05B28ED2A272,105699-2,"N. Amer. Fl. 33","","29","1922",gcc-42004
+gcc-9417,A,Compositae,,Franseria,,"hookeriana",,"","Nutt.",Synonym,Illegitimate,M,TICA,AB3635AD-D665-492E-B105-1196C04C3A1F,,"","","345","1840",gcc-138532
+gcc-88398,A,Compositae,,Franseria,,"ilicifolia",,"","A.Gray",Synonym,,M,TICA,CB565A10-CAF2-4198-B526-7F55E9D35D79,208269-1,"","","77","1876",gcc-823
+gcc-31924,A,Compositae,,Franseria,,"incana",,"","Rydb.",Synonym,,L,TICA,632C85A0-694F-4E4A-9A5C-3B237E48A056,105702-2,"N. Amer. Fl. 33","","30","1922",gcc-42004
+gcc-112953,A,Compositae,,Franseria,,"intricata",,"","Rydb.",Synonym,,M,TICA,EF2D31CB-497F-44E9-84C2-B6943A248530,105703-2,"N. Amer. Fl. 33","","33","1922",gcc-41671
+gcc-18098,A,Compositae,,Franseria,,"lancifolia",,"","Rydb.",Synonym,,L,TICA,21B97650-98E1-4FF2-88DB-216DCEED6BF7,105704-2,"N. Amer. Fl. 33","","36","1922",gcc-15511
+gcc-143454,A,Compositae,,Franseria,,"leptophylla",,"","(A.Gray) Rydb.",Synonym,,L,TICA,951CDB4F-8A9F-4DBB-B8ED-FBF0ADC2426E,105705-2,"N. Amer. Fl. 33","","32","1922",gcc-48340
+gcc-126464,A,Compositae,,Franseria,,"lessingii",,"","Meyen & Walp.",Synonym,,M,TICA,DCD50B71-9068-4A47-8CA2-D5663E7CC036,,"","","","1843",gcc-100748
+gcc-3578,A,Compositae,,Franseria,,"linearis",,"","(Rydb.) Rydb.",Synonym,,M,TICA,09AF7197-D733-4F7F-97AB-069D048DB6FE,208275-1,"","","27","1922",gcc-13433
+gcc-125156,A,Compositae,,Franseria,,"magdalenae",,"","Brandegee",Synonym,,M,TICA,F7448A57-560E-4C24-A750-D260A4705EA7,,"","","170","1889",gcc-41671
+gcc-9758,A,Compositae,,Franseria,,"malvacea",,"","Rydb.",Synonym,,M,TICA,0FD0DE08-D13A-4AC1-B187-123AAD0184F0,,"N. Amer. Fl. 33","","","1922",gcc-5166
+gcc-139585,A,Compositae,,Franseria,,"meyeniana",,"","Sch.Bip.",Synonym,,M,TICA,988F638E-3B6C-48E8-A658-F307E151C677,208278-1,"","","54","1856",gcc-30680
+gcc-132455,A,Compositae,,Franseria,,"montana",,"","Nutt.",Synonym,,M,TICA,CEDA0EF4-49DB-4F1C-9C91-E34F2E3FF5C9,,"","","345","1840",gcc-138532
+gcc-11669,A,Compositae,,Franseria,,"nivea",,"","B.L.Rob. & Fernald",Synonym,,M,TICA,7EE596F9-8195-4324-8C65-15C0C7E8C577,105710-2,"Proc. Amer. Acad. Arts 30","","117","1895",gcc-104187
+gcc-20486,A,Compositae,,Franseria,,"palmeri",,"","Rydb.",Synonym,,M,TICA,72E3C1BF-9335-48AD-B96F-25E2715C316C,105711-2,"N. Amer. Fl. 33","","25","1922",gcc-138532
+gcc-79959,A,Compositae,,Franseria,,"pringlei",,"","Rydb.",Synonym,,L,TICA,1F11E75F-B29C-43EB-BB6A-6C888C55FF50,105712-2,"N. Amer. Fl. 33","","28","1922",gcc-42004
+gcc-4736,A,Compositae,,Franseria,,"pumila",,"","Nutt.",Synonym,,M,TICA,D11A41DD-FC50-4F49-B7FC-08CED34A0637,,"","","344","1840",gcc-136800
+gcc-81742,A,Compositae,,Franseria,,"recurva",,"","Rusby",Synonym,,M,TICA,47D0E5E3-E1F2-4635-9177-707ED8F4EE51,105713-2,"Bull. New York Bot. Gard. 8","","131","1912",gcc-142156
+tro-50144367,A,Compositae,,Franseria,,"santae-gertrudis",,"","Rydb.",Accepted,,M,TRO,50144367,105714-2,"N. Amer. Fl.","33(1): 35","35","1922",
+gcc-144299,A,Compositae,,Franseria,,"strigulosa",,"","Rydb.",Synonym,,L,TICA,EA50060A-9A7B-485F-BEEF-FDC6CC24C9C6,105715-2,"N. Amer. Fl. 33","","28","1922",gcc-42004
+gcc-94309,A,Compositae,,Franseria,,"tacorensis",,"","Meyen & Walp.",Synonym,,M,TICA,60547A44-FA25-48A5-AE72-8CB047E54803,208287-1,"","","268","1843",gcc-30680
+gcc-98843,A,Compositae,,Franseria,,"tenuifolia",,"","Harv. & A.Gray",Synonym,,L,TICA,78FE0C91-4229-4DB1-818B-97027EE92200,,"","","80","1849",gcc-42004
+gcc-148804,A,Compositae,,Franseria,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,2DB80B04-B514-4F37-B1BC-4B17DDCCC283,,"","","","",gcc-42004
+gcc-2327,A,Compositae,,Franseria,,"tenuifolia",var.,"tripinnatifida","A.Gray",Synonym,,L,TICA,E148CA69-2FAD-4700-8B41-043A488C4165,105717-2,"Boston J. Nat. Hist. 6","","227","1850",gcc-42004
+gcc-130801,A,Compositae,,Franseria,,"tomentosa",,"","A.Gray",Synonym,,M,TICA,1958B028-7DD8-417B-80A3-DF64B0D0DA23,208289-1,"","","80","1849",gcc-43000
+gcc-138782,A,Compositae,,Franseria,,"tomentosa",,"","(Nutt.) A.Nelson",Synonym,Illegitimate,L,TICA,F4780BF2-B489-40CE-976C-F159CB0E568B,105719-2,"","","542","1909",gcc-23358
+gcc-86371,A,Compositae,,Franseria,,"villosa",,"","Rydb.",Synonym,,M,TICA,ECB7560A-83BC-41BF-9E9B-7AC17D22DAAE,105720-2,"N. Amer. Fl. 33","","26","1922",gcc-100748

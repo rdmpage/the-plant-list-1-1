@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24360,A,Compositae,,Palafoxia,,"arenaria",,"","Brandegee",Unresolved,,L,TICA,DA1CD4D0-1DAE-4BF6-A222-2D008892445C,,"""Proc. Calif. Acad. Sci. ser. 2, 2""","","178","1889",
+gcc-97019,A,Compositae,,Palafoxia,,"arida",,"","B.L.Turner & M.I.Morris",Accepted,,M,TICA,6E5C4FC5-7064-44F0-B99E-92E2AB841F2F,180795-2,"","","79","1975",
+gcc-43875,A,Compositae,,Palafoxia,,"arida",var.,"arida","",Synonym,,L,TICA,4F9F7A5A-4A6E-455F-AC0E-5148B3147277,,"","","","1975",gcc-97019
+gcc-17912,A,Compositae,,Palafoxia,,"arida",var.,"gigantea","(M.E.Jones) B.L.Turner & M.I.Morris",Synonym,,L,TICA,E14AA98C-1FFC-4FC6-A357-2117839F3143,180796-2,"","","80","1975",gcc-97019
+gcc-120520,A,Compositae,,Palafoxia,,"bella",,"","Cory",Unresolved,,L,TICA,28990D1E-9676-4EC3-9C66-C7BB885C0D1B,180797-2,"","","62","1948",gcc-138316
+gcc-138316,A,Compositae,,Palafoxia,,"callosa",,"","(Nutt.) Torr. & A.Gray",Accepted,,L,TICA,3A4B002C-EDCC-4BC3-8D3E-F052C735A38A,236359-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 369","","369","1842",
+gcc-61159,A,Compositae,,Palafoxia,,"callosa",var.,"bella","(Cory) Shinners",Synonym,,L,TICA,8B24C5E4-AE29-4D24-AD20-A45486B2ADC6,180798-2,"Field & Lab. 20: 94. 1952","","94","1952",gcc-138316
+gcc-56677,A,Compositae,,Palafoxia,,"callosa",var.,"callosa","",Synonym,,L,TICA,2303BCC4-3754-4827-A1C4-8061848ECC10,,"","","","1952",gcc-138316
+gcc-36632,A,Compositae,,Palafoxia,,"cyanophylla",,"","Shinners",Unresolved,,L,TICA,97B050ED-DDF0-422B-B88F-43EA2D71221B,,"","","","1949",
+gcc-126279,A,Compositae,,Palafoxia,,"fastigiata",,"","Less.",Unresolved,,L,TICA,B0D76930-3EEE-4A1A-A152-D4F7DD05786D,236361-1,"Syn. Gen. Compos. 156","","156","",
+gcc-39173,A,Compositae,,Palafoxia,,"fastigiata",,"","DC.",Unresolved,,L,TICA,A0A807BD-A344-4AF1-A26E-48AD63C62FDB,236362-1,"Prodr. (DC.) 5: 125","","125","1836",
+gcc-116294,A,Compositae,,Palafoxia,,"feayi",,"","A.Gray",Accepted,,M,TICA,0CABEC7B-0484-4D48-B497-BE18361C15CB,236363-1,"Proc. Amer. Acad. Arts xii. (1877) 59.","","59","1877",
+gcc-35424,A,Compositae,,Palafoxia,,"hookeriana",,"","Torr. & A.Gray",Accepted,,M,TICA,056175AC-5787-4257-9A63-41AA11473F34,,"Fl. N. Amer. (Torr. & A. Gray) 2: 368","","","1842",
+gcc-21592,A,Compositae,,Palafoxia,,"hookeriana",var.,"hookeriana","",Synonym,,L,TICA,2F08D023-0F27-48DD-B089-27E966EB43A9,,"","","","",gcc-35424
+gcc-70307,A,Compositae,,Palafoxia,,"hookeriana",var.,"minor","Shinners",Synonym,,L,TICA,528B2290-C7D6-4769-921C-ED0FB293C3D6,,"Field & Lab. 20: 98. 1952","","","1952",gcc-35424
+gcc-43409,A,Compositae,,Palafoxia,,"integrifolia",,"","(Nutt.) Torr. & A.Gray",Accepted,,L,TICA,AA19E8FE-DE3A-404C-AF8D-506CED8F3443,236365-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 369","","369","1842",
+gcc-21016,A,Compositae,,Palafoxia,,"latifolia",,"","DC.",Synonym,,M,TICA,644D5703-7AED-498B-8A14-26D66BA6E2AA,236366-1,"","","125","1836",gcc-131886
+gcc-90808,A,Compositae,,Palafoxia,,"leucophylla",,"","A.Gray",Unresolved,,L,TICA,7820B0D3-4526-4CBE-BC2A-84F22F49AF21,180804-2,"in Proc.Am. Acad. viii (1870) 291.","","","",
+gcc-17488,A,Compositae,,Palafoxia,,"liebmannii",,"","(Sch.Bip. ex Greenm.) Shinners",Unresolved,,L,TICA,B71C7497-6A43-4EB5-94D9-204FB4AFE3E4,180805-2,"","","25","1949",
+gcc-136421,A,Compositae,,Palafoxia,,"lindenii",,"","A.Gray",Accepted,,L,TICA,20CB4907-0460-4D21-B889-EC3269BACCBF,,"Pl. Wright. i. 120.","","","1852",
+gcc-145865,A,Compositae,,Palafoxia,,"linearis",,"","(Cav.) Lag.",Accepted,,M,TICA,26AB0701-1D5B-4ECE-8EF1-0C78E2B186EA,,"","","","",
+gcc-62403,A,Compositae,,Palafoxia,,"linearis",var.,"gigantea","M.E.Jones",Synonym,,L,TICA,D4BDA360-ED0C-478B-9277-AE82BC605A5E,180807-2,"Contr. W. Bot. 18: 79. 1933","","79","1933",gcc-97019
+gcc-38271,A,Compositae,,Palafoxia,,"linearis",var.,"linearis","",Synonym,,L,TICA,E47096E6-7623-4005-9A1C-46FD13E0DB65,,"","","","1816",gcc-145865
+gcc-116429,A,Compositae,,Palafoxia,,"macrolepis",,"","(Rydb.) Cory",Synonym,,L,TICA,193F3471-BAE8-4393-A91B-BE64081B6930,180810-2,"","","86","1946",gcc-23528
+gcc-107395,A,Compositae,,Palafoxia,,"pedata",,"","(Cav.) Shinners",Synonym,,M,TICA,770CCEEE-BE3D-46B6-87FD-A9F7DBDA23E4,,"","","","1949",gcc-31739
+gcc-112659,A,Compositae,,Palafoxia,,"reverchonii",,"","(Bush) Cory",Accepted,,M,TICA,AC2E5FCC-3B2B-4C6F-84E3-B5EF6FCC6C65,180812-2,"","","86","1946",
+gcc-96599,A,Compositae,,Palafoxia,,"riograndensis",,"","Cory",Accepted,,M,TICA,0A80926A-C7A5-430F-84E3-91EEF300232A,180813-2,"","","84","1946",
+gcc-23528,A,Compositae,,Palafoxia,,"rosea",,"","(Bush) Cory",Accepted,,L,TICA,8ED05733-79D5-469A-A23A-2B85B886B619,180814-2,"","","86","1946",
+gcc-72066,A,Compositae,,Palafoxia,,"rosea",var.,"ambigua","Shinners",Synonym,,L,TICA,AD4A5352-DF9C-4410-AC0D-FB0D560E83E2,,"Field & Lab. 20: 95. 1952","","","1952",gcc-84967
+gcc-8550,A,Compositae,,Palafoxia,,"rosea",var.,"macrolepis","(Rydb.) B.L.Turner & M.I.Morris",Synonym,,L,TICA,D906C916-236E-4AC8-9F0C-0FF541CF705C,180816-2,"","","618","1976",gcc-23528
+gcc-57374,A,Compositae,,Palafoxia,,"rosea",var.,"papposa","Shinners",Synonym,,L,TICA,F6DB20ED-F51E-4899-85DD-85E543F4CE5E,,"Field & Lab. 20: 95. 1952","","","1952",gcc-84967
+gcc-70284,A,Compositae,,Palafoxia,,"rosea",var.,"rosea","",Synonym,,L,TICA,71893949-245F-46D3-88E7-ECDFD1A01245,,"","","","1946",gcc-23528
+gcc-98010,A,Compositae,,Palafoxia,,"sphacelata",,"","(Nutt. ex Torr.) Cory",Accepted,,M,TICA,E5288257-BF42-48CE-81AC-952A07C5AB05,180819-2,"","","86","1946",
+gcc-84967,A,Compositae,,Palafoxia,,"texana",,"","DC.",Accepted,,M,TICA,B07D601C-6257-4315-B090-77A39790D16F,236377-1,"Prodr. (DC.) 5: 125","","125","1836",
+gcc-92033,A,Compositae,,Palafoxia,,"texana",,"","Hook.",Unresolved,,L,TICA,2A026ED2-7B43-449D-BF46-87B3B6A2E7BB,,"Ic. Pl. t. 148.","","t. 148","",
+gcc-18027,A,Compositae,,Palafoxia,,"texana",var.,"ambigua","(Shinners) B.L.Turner & M.I.Morris",Unresolved,,L,TICA,364A9C26-8F6B-416C-91FE-214CCBC970CD,877679-1,"Rhodora 78(816):","","623","1976",gcc-84967
+gcc-63239,A,Compositae,,Palafoxia,,"texana",var.,"macrolepis","(Rydb.) Shinners",Synonym,,L,TICA,5D36157F-0650-42C0-9445-B54B26DC461A,180822-2,"Field & Laboratory 20(3):","","97","1952",gcc-23528
+gcc-53262,A,Compositae,,Palafoxia,,"texana",var.,"robusta","(Rydb.) B.L.Turner & M.I.Morris",Unresolved,,L,TICA,3CF4DE3B-6256-4803-83C2-64EB161EDC18,877680-1,"Rhodora 78(816):","","626","1976",
+gcc-61038,A,Compositae,,Palafoxia,,"texana",var.,"texana","",Synonym,,L,TICA,037BCFE5-3BEA-4C76-AC8F-A34E11EE1519,,"","","","1836",gcc-84967
+gcc-108928,A,Compositae,,Palafoxia,,"tripteris",,"","(DC.) Shinners",Synonym,,M,TICA,2701E115-670E-474A-B236-AD7BA3C682B3,180824-2,"","","24","1949",gcc-78083
+gcc-71793,A,Compositae,,Palafoxia,,"tripteris",var.,"brevis","Shinners",Synonym,,L,TICA,DA081F55-2C75-4B9C-92FA-F8DC525C9C9E,,"Field & Lab. 20: 94. 1952","","","1952",gcc-78083
+gcc-64860,A,Compositae,,Palafoxia,,"tripteris",var.,"tripteris","",Synonym,,L,TICA,C91BF7EF-FDF7-4A95-B9F6-C1B84DBF1DB1,,"","","","1952",gcc-78083

@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79035,A,Compositae,,Sparganophorus,,"africanus",,"","(P.Beauv.) Steud.",Synonym,,L,TICA,3ABCDB96-8C0F-4D21-BEC6-6A93041A3B6C,250456-1,"","","801","1821",gcc-141975
+gcc-153747,A,Compositae,,Sparganophorus,,"ageratoides",,"","Lag.",Synonym,,M,TICA,5B7BCB64-FB0B-4157-9B60-B467AA47016D,250457-1,"Gen. Sp. Pl. 25. 1816. ","","25","1816",gcc-155329
+gcc-130358,A,Compositae,,Sparganophorus,,"ethulia",,"","Crantz",Unresolved,,L,TICA,E7A3A64D-98EA-4F8C-9028-DE5DB0CC8B35,,"Inst. i. 261.","","","1764",
+gcc-112287,A,Compositae,,Sparganophorus,,"fasciatus",,"","Lam.",Unresolved,,L,TICA,FD1FF093-30E9-4216-A57D-B508EA2BCAF1,,"Tabl. Encycl. i. 670; Encyc. vii. 302","","302","",
+gcc-155383,A,Compositae,,Sparganophorus,,"fasciatus",,"","Lam. ex Poir.",Synonym,,M,TICA,C6521014-FA18-4BD3-AEDA-D71BB26D1118,,"Encycl. 7: 302. 1806.","","302","1806",gcc-120554
+gcc-126820,A,Compositae,,Sparganophorus,,"fasciculatus",,"","Steud.",Unresolved,Illegitimate,L,TICA,0E6FB84C-350B-45C6-93F1-D62CC61E37EA,250460-1,"","","801","1821",
+gcc-14706,A,Compositae,,Sparganophorus,,"fuscatus",,"","Steud.",Synonym,Illegitimate,M,TICA,F0829840-9D5C-420E-BECE-1B48D2E239D5,250461-1,"","","614","1841",gcc-120554
+gcc-130148,A,Compositae,,Sparganophorus,,"obtusifolius",,"","Lag.",Synonym,,M,TICA,99910EAE-E873-4C97-90BE-DDDF1B574D04,250462-1,"Gen. et Sp. Nov. 25.","","25","1816",gcc-114457
+gcc-127675,A,Compositae,,Sparganophorus,,"sonchifolius",,"","(Nees & Mart.) Spreng.",Unresolved,,L,TICA,A817910E-C5AD-4ED8-8A8F-D83AF2D4C11F,,"Syst. Veg. (ed. 16) [Sprengel] 3: 458","","458","",gcc-45293
+gcc-141975,A,Compositae,,Sparganophorus,,"sparganophora",,"","(L.) C.Jeffrey",Unresolved,Illegitimate,L,TICA,C680357D-8873-4075-A354-F8A292E73F9F,,"Kew Bull. 43(2)","","272","1988",
+gcc-153915,A,Compositae,,Sparganophorus,,"sparganophorus",,"","(L.) C.Jeffrey",Synonym,,M,TICA,B801DAA8-EBAD-4558-86F5-B7F4CEE9B634,,"","","","",gcc-120554
+gcc-156572,A,Compositae,,Sparganophorus,,"sparganophorus",,"","(L.) Jeffrey",Synonym,,M,TICA,C55086F0-EFCE-4A53-AE8F-F0183D43F9C4,,"Kew Bull. 43: 272. 1988","","272","1988",gcc-120554
+gcc-100612,A,Compositae,,Sparganophorus,,"struchium",,"","(Sw.) Poir.",Synonym,,M,TICA,ADC294DA-2286-42A1-8E08-9B07533CC17B,250464-1,"Encycl. 7","","302","1806",gcc-120554
+gcc-153690,A,Compositae,,Sparganophorus,,"struchium",,"","Per.",Synonym,,M,TICA,04E5EC13-DD70-4A90-B4FF-B3518799E828,,"Syn. 2: 398. 1807.","","398","1807",gcc-120554
+gcc-29055,A,Compositae,,Sparganophorus,,"struchium",,"","(Sw.) Pers.",Synonym,Illegitimate,M,TICA,51BD5EC0-A37A-403B-B042-35B4416A0BCC,,"Syn. Pl. 2: 398. 1807.","","398","1807",gcc-120554
+gcc-141120,A,Compositae,,Sparganophorus,,"vaillantii",,"","Crantz",Synonym,,M,TICA,3FB277AD-3C7E-499E-B80D-F69E6C99B4E0,250465-1,"","","261","1766",gcc-120554
+gcc-5833,A,Compositae,,Sparganophorus,,"vaillantii",,"","Gaertn.",Unresolved,Illegitimate,L,TICA,EF3A88CA-5F83-4D8E-9FFE-0ADA72EE1DC2,,"De Fructibus et Seminibus Plantarum.  . . . 2(3):","","""395, t. 165, f. 4""","1792 [1791]",
+gcc-59906,A,Compositae,,Sparganophorus,,"vaillantii",var.,"longifolius","Griseb.",Synonym,,L,TICA,86F57671-7788-4B9C-95D2-9A3A03B5BC4A,241096-2,"Cat. Pl. Cub. 143. 1866","","143","1866",gcc-120554
+gcc-147787,A,Compositae,,Sparganophorus,,"vaillantii",var.,"vaillantii","",Synonym,,L,TICA,6ACA9CEE-E097-4BDB-8750-354108088831,,"","","","",gcc-120554
+gcc-156255,A,Compositae,,Sparganophorus,,"verticillatus",,"","Michaux",Synonym,,L,TICA,2001AB9C-AE7B-44A9-A69E-E983F6673A29,,"Fl. Bor.-Amer. 2: 95. T. 42. 1803. ","","95. T. 42.","1803",gcc-133636
+gcc-79737,A,Compositae,,Sparganophorus,,"verticillatus",,"","Michx.",Unresolved,,L,TICA,635771CF-0F2F-46CF-BCB8-6C12B0CB3A89,,"Fl. Bor.-Amer. (Michaux) ii. 95","","","1803",gcc-133636

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2617400,A,Berberidaceae,,Achlys,,"californica",,"","Fukuda & H.Baker",Synonym,,M,WCSP (in review),,309374-2,"Taxon","19: 341","","1970",kew-2617403
+kew-2617401,A,Berberidaceae,,Achlys,,"japonica",,"","Maxim.",Accepted,,M,WCSP (in review),,106369-1,"Bull. Acad. Imp. Sci. Saint-Pétersbourg","III, 12: 61","","1868",
+kew-2617402,A,Berberidaceae,,Achlys,,"triphylla",,"","DC.",Accepted,,M,WCSP (in review),,106370-1,"Syst. Nat.","2: 35","","1821",
+kew-2617403,A,Berberidaceae,,Achlys,,"triphylla",subsp.,"californica","(Fukuda & H.Baker) Brayshaw",Accepted,,L,WCSP (in review),,,"Royal Brit. Columb. Mus. Mem.","1: 179","","1989",
+kew-2617404,A,Berberidaceae,,Achlys,,"triphylla",var.,"japonica","(Maxim.) T.Itô",Synonym,,L,WCSP (in review),,,"J. Linn. Soc., Bot.","22: 435","","1887",kew-2617401
+kew-2617405,A,Berberidaceae,,Achlys,,"triphylla",subsp.,"japonica","(Maxim.) Kitam.",Synonym,,L,WCSP (in review),,,"Acta Phytotax. Geobot.","20: 202","","1962",kew-2617401
+tro-3500409,A,Berberidaceae,,Achlys,,"triphylla",subsp.,"triphylla","",Synonym,,L,TRO,3500409,,"","","","",kew-2617402

@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-290200,A,Tofieldiaceae,,Triantha,,"glutinosa",,"","(Michx.) Baker",Accepted,,H,WCSP,290200,542441-1,"J. Linn. Soc., Bot.","17: 490","","1879",
+kew-454270,A,Tofieldiaceae,,Triantha,,"glutinosa",subsp.,"brevistyla","Hitchc.",Synonym,,L,WCSP,454270,,"Amer. Midl. Naturalist","31: 495","","1944",kew-290200
+kew-290210,A,Tofieldiaceae,,Triantha,,"intermedia",,"","(Rydb.) R.R.Gates",Synonym,,H,WCSP,290210,542442-1,"J. Linn. Soc., Bot.","44: 237","","1918",kew-290028
+kew-290198,A,Tofieldiaceae,,Triantha,,"japonica",,"","(Miq.) Baker",Accepted,,H,WCSP,290198,542443-1,"J. Linn. Soc., Bot.","17: 491","","1879",
+kew-290197,A,Tofieldiaceae,,Triantha,,"occidentalis",,"","(S.Watson) R.R.Gates",Accepted,,H,WCSP,290197,256642-2,"J. Linn. Soc., Bot.","44: 137","","1918",
+kew-290028,A,Tofieldiaceae,,Triantha,,"occidentalis",subsp.,"brevistyla","(C.L.Hitchc.) Packer",Accepted,,L,WCSP,290028,973304-1,"Novon","3: 279","","1993",
+kew-290029,A,Tofieldiaceae,,Triantha,,"occidentalis",subsp.,"montana","(C.L.Hitchc.) Packer",Accepted,,L,WCSP,290029,973305-1,"Novon","3: 279","","1993",
+kew-312171,A,Tofieldiaceae,,Triantha,,"occidentalis",subsp.,"occidentalis","",Synonym,,L,WCSP,312171,,"Unknown","","","",kew-290197
+kew-290196,A,Tofieldiaceae,,Triantha,,"pubens",,"","(Michx.) Baker",Synonym,,H,WCSP,290196,542445-1,"J. Linn. Soc., Bot.","17: 490","","1879",kew-290195
+kew-290195,A,Tofieldiaceae,,Triantha,,"racemosa",,"","(Walter) Small",Accepted,,H,WCSP,290195,256643-2,"Fl. S.E. U.S.","249","","1903",

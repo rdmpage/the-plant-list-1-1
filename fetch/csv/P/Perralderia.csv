@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93434,A,Compositae,,Perralderia,,"coronopifolia",,"","Coss.",Accepted,,M,TICA,5A70DFC8-B216-4F26-B6F5-8ABBB43673E9,,"","","","1859",
+gcc-148424,A,Compositae,,Perralderia,,"coronopifolia",f.,"coronopifolia","",Synonym,,L,TICA,28A2E129-435A-492D-BEB6-424A291E9C34,,"","","","",gcc-93434
+gcc-152566,A,Compositae,,Perralderia,,"coronopifolia",var.,"coronopifolia","",Synonym,,L,TICA,061C6864-7269-4AAA-A865-9C361E30BFA5,,"","","","",gcc-93434
+gcc-32472,A,Compositae,,Perralderia,,"coronopifolia",subsp.,"coronopifolia","",Synonym,,L,TICA,9D8D0E0C-1D77-4D48-99FB-3C38AA41C5F5,,"","","","",gcc-93434
+gcc-12590,A,Compositae,,Perralderia,,"coronopifolia",subsp.,"eu-coronopifolia","Maire",Synonym,,L,TICA,DA3CAB4E-8F19-46A2-8A1A-177967BCD5E7,,"","","","",gcc-93434
+gcc-68823,A,Compositae,,Perralderia,,"coronopifolia",subsp.,"purpurascens","(Coss. ex Batt.) Maire",Accepted,,L,TICA,A210C81B-E150-4DE4-B6FE-E1B2093799C7,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 24. 1933.","","216","1933",
+gcc-61683,A,Compositae,,Perralderia,,"coronopifolia",var.,"typica","Maire",Synonym,,L,TICA,70A72AE7-6EC6-427D-A4B5-A8B28E5FE989,,"","","","",gcc-93434
+gcc-132139,A,Compositae,,Perralderia,,"dessignyana",,"","Hochr.",Synonym,,M,TICA,2735310C-DD48-4B7C-80C3-E2883D144C06,,"","","","1904",gcc-68823
+gcc-50316,A,Compositae,,Perralderia,,"garamantum",,"","Asch.",Accepted,,M,TICA,3CA92724-937B-4C54-9094-5D4E220190BA,,"""Asch. in Rohlfs, Kufra. 1881.""","","431","1881",
+gcc-38620,A,Compositae,,Perralderia,,"paui",,"","Font Quer",Accepted,,M,TICA,6582D1CA-C13A-4192-BFCF-47ABFB54DCD6,,"","","","1929",
+gcc-10083,A,Compositae,,Perralderia,,"purpurascens",,"","Coss. ex Batt.",Synonym,,M,TICA,C9DDA3C8-2D73-4C14-A1E1-12DCE7890E78,,"","","430","1889",gcc-68823

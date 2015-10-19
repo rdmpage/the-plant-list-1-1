@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-177357,A,Rubiaceae,,Rennellia,,"amoena",,"","(Bremek.) J.T.Johanss.",Accepted,,H,WCSP,177357,946762-1,"Blumea","34: 11","","1989",
+kew-177358,A,Rubiaceae,,Rennellia,,"borneensis",,"","Baill.",Accepted,,H,WCSP,177358,,"Bull. Mens. Soc. Linn. Paris","1: 205","","1879",
+kew-177359,A,Rubiaceae,,Rennellia,,"elliptica",,"","Korth.",Accepted,,H,WCSP,177359,764603-1,"Ned. Kruidk. Arch.","2(2): 257","","1851",
+kew-177360,A,Rubiaceae,,Rennellia,,"elongata",,"","(King & Gamble) Ridl.",Accepted,,H,WCSP,177360,764604-1,"Bull. Misc. Inform. Kew","1939: 608","","1940",
+kew-177361,A,Rubiaceae,,Rennellia,,"microcephala",,"","(Ridl.) K.M.Wong",Accepted,,H,WCSP,177361,946923-1,"Tree Fl. Malaya","4: 405","","1989",
+kew-177362,A,Rubiaceae,,Rennellia,,"morindiformis",,"","(Korth.) Ridl.",Accepted,,H,WCSP,177362,764605-1,"Bull. Misc. Inform. Kew","1939: 609","","1940",
+kew-177363,A,Rubiaceae,,Rennellia,,"ovalis",,"","Korth.",Synonym,,H,WCSP,177363,764606-1,"Ned. Kruidk. Arch.","2(2): 257","","1851",kew-177359
+kew-177364,A,Rubiaceae,,Rennellia,,"paniculata",,"","King & Gamble",Accepted,,H,WCSP,177364,764607-1,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist.","73: 89","","1904",
+kew-349295,A,Rubiaceae,,Rennellia,,"paniculata",var.,"paniculata","",Synonym,,L,WCSP,349295,,"Unknown","","","",kew-177364
+kew-177366,A,Rubiaceae,,Rennellia,,"prismatomeriformis",,"","Merr.",Synonym,,H,WCSP,177366,764608-1,"Univ. Calif. Publ. Bot.","15: 296","","1929",kew-165448
+kew-177367,A,Rubiaceae,,Rennellia,,"speciosa",,"","(Wall. ex Kurz) Hook.f.",Accepted,,H,WCSP,177367,,"Fl. Brit. India","3: 158","","1880",
+kew-177368,A,Rubiaceae,,Rennellia,,"speciosa",var.,"angustifolia","Ridl.",Synonym,,L,WCSP,177368,,"Fl. Malay Penins.","2: 120","","1923",kew-177359
+kew-177369,A,Rubiaceae,,Rennellia,,"speciosa",var.,"elongata","King & Gamble",Synonym,,L,WCSP,177369,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist.","73: 90","","1904",kew-177360

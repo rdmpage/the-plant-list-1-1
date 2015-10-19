@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117030,A,Compositae,,Sclerolepis,,"kalmii",,"","Monn.",Unresolved,,L,TICA,F0A60195-5237-49A1-8997-BFBB8D5DF527,,"Ess. Hierac. 81 (1829).","","81","1829",
+gcc-133636,A,Compositae,,Sclerolepis,,"uniflora",,"","(Walter) ""Britton, Sterns & Poggenb.""",Accepted,,L,TICA,EC2EC013-9893-4BC3-BDCF-E5F10B023196,230799-2,"","","25","1888",
+gcc-148057,A,Compositae,,Sclerolepis,,"uniflora",,"","(Walter) Poiret",Synonym,,L,TICA,72E03A55-B3AD-47F5-A4C5-3AB5F52D7197,,"Mem. Torrey Bot. Club 5: 311. 1894. ","","311","1894",gcc-133636
+gcc-84070,A,Compositae,,Sclerolepis,,"uniflora",,"","(Walter) Porter",Unresolved,Illegitimate,L,TICA,56D77701-C2B7-49F6-A4FB-75ADE528BD29,,"Memoirs of the Torrey Botanical Club 5(20):","","311","1894",gcc-133636
+gcc-50167,A,Compositae,,Sclerolepis,,"verticillata",,"","Cass.",Synonym,,L,TICA,96238379-8AFD-4DFD-9282-5CFFF25C4A9B,,"in Dict. Sc. Nat. xxv. 365; xlviii. 155.","","155","1827",gcc-133636

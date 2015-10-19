@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-110573,A,Compositae,,Syneilesis,,"aconitifolia",,"","(Bunge) Maxim.",Accepted,,M,TICA,7DD0455E-26BB-4AF9-89CF-B131E7FE9682,252028-1,"Prim. Fl. Amur. 165 (1859).","","165","1859",
+gcc-150985,A,Compositae,,Syneilesis,,"aconitifolia",var.,"aconitifolia","",Synonym,,L,TICA,7A13ACCF-354F-482D-B8E8-7A7AA1548273,,"","","","",gcc-110573
+gcc-47413,A,Compositae,,Syneilesis,,"aconitifolia",var.,"tagawae","Kitam.",Unresolved,,L,TICA,741A4513-F1FF-4B26-B879-57D09764C404,,"Journal of Japanese Botany 10(11):","","701","1934",gcc-129447
+gcc-118267,A,Compositae,,Syneilesis,,"australis",,"","Ling",Accepted,,M,TICA,29BA5A57-057E-4597-A7A7-C2888EBDA124,252029-1,"Contr. Inst. Bot. Natl. Acad. Peiping 5: 5","","5","1937",
+gcc-126255,A,Compositae,,Syneilesis,,"hayatae",,"","Kitam.",Synonym,,M,TICA,32C13255-F026-4D6E-B901-D4E93C8F9D9B,,"""J. Jap. Bot. 1934, x. 702.""","","","1934",gcc-140079
+gcc-140079,A,Compositae,,Syneilesis,,"intermedia",,"","(Hayata) Kitam.",Accepted,,M,TICA,A21EEC10-18D0-41F2-8B1B-F4296B80B6D0,252031-1,"""Acta Phytotax. Geobot. 1937, vi. 244""","","244","1937",
+gcc-100093,A,Compositae,,Syneilesis,,"palmata",,"","(Thunb.) Maxim.",Accepted,,M,TICA,CEE946AD-5D29-4706-90C1-99D1679C1269,,"","","","1874",
+gcc-127875,A,Compositae,,Syneilesis,,"subglabrata",,"","(Yamam. & Sasaki) Kitam.",Accepted,,M,TICA,587FCDA9-E80E-41F7-98CD-D8B9C8466C6D,,"""J. Jap. Bot. 1934, x. 702.""","","","1934",
+gcc-129447,A,Compositae,,Syneilesis,,"tagawae",,"","(Kitam.) Kitam.",Accepted,,L,TICA,25C9CCAE-72A2-4F76-9EBF-DC47A6555D6B,252035-1,"","","171","1942",
+gcc-151495,A,Compositae,,Syneilesis,,"tagawae",var.,"tagawae","",Synonym,,L,TICA,567640E4-AD09-417C-9456-85AF5CE76530,,"","","","",gcc-129447

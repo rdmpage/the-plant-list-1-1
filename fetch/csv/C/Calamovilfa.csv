@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-403563,A,Poaceae,,Calamovilfa,,"arcuata",,"","K.E.Rogers",Accepted,,H,WCSP,403563,40678-2,"Rhodora","72: 72","","1970",
+kew-403564,A,Poaceae,,Calamovilfa,,"brevipilis",,"","(Torr.) Scribn.",Accepted,,H,WCSP,403564,40679-2,"True Grasses","113","","1890",
+tro-25518198,A,Poaceae,,Calamovilfa,,"brevipilis",var.,"brevipilis","",Synonym,,L,TRO,25518198,,"","","","",kew-403564
+kew-403565,A,Poaceae,,Calamovilfa,,"brevipilis",var.,"calvipes","Fernald",Synonym,,L,WCSP,403565,40680-2,"Rhodora","41: 501","","1939",kew-403564
+kew-403566,A,Poaceae,,Calamovilfa,,"brevipilis",var.,"heterolepis","Fernald",Synonym,,L,WCSP,403566,40681-2,"Rhodora","41: 502","","1939",kew-403564
+kew-403568,A,Poaceae,,Calamovilfa,,"curtissii",,"","(Vasey) Scribn.",Accepted,,H,WCSP,403568,40683-2,"Bull. Div. Agrostol. U.S.D.A.","17: 199","","1899",
+kew-403569,A,Poaceae,,Calamovilfa,,"gigantea",,"","(Nutt.) Scribn. & Merr.",Accepted,,H,WCSP,403569,40684-2,"Circ. Div. Agrostol. U.S.D.A.","35: 2","","1901",
+kew-403570,A,Poaceae,,Calamovilfa,,"longifolia",,"","(Hook.) Scribn.",Accepted,,H,WCSP,403570,,"Manual","ed. 6: 651","","1890",
+tro-25517242,A,Poaceae,,Calamovilfa,,"longifolia",var.,"longifolia","",Synonym,,L,TRO,25517242,,"","","","",kew-403570
+kew-403571,A,Poaceae,,Calamovilfa,,"longifolia",var.,"magna","Scribn. & Merr.",Synonym,,L,WCSP,403571,40686-2,"Circ. Div. Agrostol. U.S.D.A.","35: 3","","1901",kew-403570
+kew-403572,A,Poaceae,,Calamovilfa,,"poiformis",,"","(Kunth) M.E.Jones",Synonym,,L,WCSP,403572,40687-2,"Contr. W. Bot.","14: 9","","1912",kew-405427

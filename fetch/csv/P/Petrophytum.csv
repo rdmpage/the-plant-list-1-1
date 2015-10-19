@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+rjp-3644,A,Rosaceae,,Petrophytum,,"acuminatum",,"","Rydb.",Unresolved,,L,RJP,3644,,"North American Flora [Rosaceae]","North American Flora [Rosaceae]; 1908","253","1908",
+rjp-5830,A,Rosaceae,,Petrophytum,,"caespitosum",,"","(Nutt. ex Torr. & A.Gray) Rydb.",Accepted,,H,RJP,5830,,"","; 1900","206","1900",
+rjp-5835,A,Rosaceae,,Petrophytum,,"caespitosum",subsp.,"acuminatum","(Rydb.) Munz",Synonym,,L,RJP,5835,191243-2,"","; 1958","92","1958",rjp-3644
+rjp-5831,A,Rosaceae,,Petrophytum,,"caespitosum",var.,"caespitosum","",Synonym,,L,RJP,5831,,"","; ","","",rjp-5830
+tro-27803062,A,Rosaceae,,Petrophytum,,"caespitosum",subsp.,"caespitosum","",Synonym,,L,TRO,27803062,,"","","","",rjp-5830
+rjp-5832,A,Rosaceae,,Petrophytum,,"caespitosum",var.,"elatius","(S.Watson) Tidestr.",Accepted,,L,RJP,5832,191244-2,"","; 1935","39","1935",
+rjp-3645,A,Rosaceae,,Petrophytum,,"cinerascens",,"","(Piper) Rydb.",Unresolved,,L,RJP,3645,,"North American Flora [Rosaceae]","North American Flora [Rosaceae]; 1908","253","1908",
+rjp-6208,A,Rosaceae,,Petrophytum,,"elatius",,"","(S.Watson) A.Heller",Unresolved,,L,RJP,6208,1199750-2,"Catalogue of North American plants north of Mexico","Catalogue of North American plants north of Mexico; 1900","5","1900",
+rjp-1320,A,Rosaceae,,Petrophytum,,"hendersonii",,"","(Canby) Rydb.",Unresolved,,L,RJP,1320,,"North American Flora [Rosaceae]","North American Flora [Rosaceae]; 1908","253","1908",

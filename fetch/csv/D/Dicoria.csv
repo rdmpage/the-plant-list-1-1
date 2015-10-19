@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28799,A,Compositae,,Dicoria,,"argentea",,"","Strother",Accepted,,M,TICA,8D203C24-CD08-4D0D-85D4-353E74FC2B3D,79800-2,"Madroño 29","","101","1982",
+gcc-24654,A,Compositae,,Dicoria,,"brandegeei",,"","A.Gray",Synonym,Illegitimate,M,TICA,609142C8-468A-4109-B62D-2D8A8AC56C62,303780-2,"Proc. Amer. Acad. Arts 11","","76","1876",gcc-96009
+gcc-113304,A,Compositae,,Dicoria,,"calliptera",,"","Rose & Standl.",Accepted,,M,TICA,E8BC5554-0612-4471-9294-B753217B2B9C,79801-2,"Contr. U. S. Natl. Herb. 16","","18","1912",
+gcc-96009,A,Compositae,,Dicoria,,"canescens",,"","A.Gray",Accepted,,M,TICA,C808F7E0-C339-40B9-8DC6-909F56A60537,,"","","","1859",
+gcc-54324,A,Compositae,,Dicoria,,"canescens",subsp.,"brandegeei","(A.Gray) Cronquist",Synonym,,L,TICA,FFC56A21-F565-4EB4-AB1D-6D172483A472,979369-1,"""Intermountain Fl., Vasc. Pl. Intermountain West, U.S.A., 5: 57 (1994):""","","57","1994",gcc-96009
+gcc-55525,A,Compositae,,Dicoria,,"canescens",var.,"brandegeei","(A.Gray) Cronquist",Synonym,,L,TICA,CD2ACF72-BB65-4CC4-A5BC-76ACE2BCC734,979370-1,"","","57","1994",gcc-96009
+gcc-56535,A,Compositae,,Dicoria,,"canescens",subsp.,"brandegeei","(A.Gray) Kartesz",Synonym,,L,TICA,B7D5439C-8B9B-4496-8173-7F59863818D4,,"","","","1999",gcc-96009
+gcc-36028,A,Compositae,,Dicoria,,"canescens",subsp.,"canescens","",Synonym,,L,TICA,8D7C5AE6-739B-4935-AF28-42CEA64978D7,,"","","","",gcc-96009
+gcc-61155,A,Compositae,,Dicoria,,"canescens",var.,"canescens","",Synonym,,L,TICA,23231A8D-B20A-43E2-95E7-A446754404CE,,"","","","",gcc-96009
+gcc-70856,A,Compositae,,Dicoria,,"canescens",subsp.,"clarkiae","(P.B.Kenn.) D.D.Keck",Synonym,,L,TICA,12F295F9-BE3B-4197-B990-F175E2293413,79802-2,"Aliso 4","","101","1958",gcc-96009
+gcc-11143,A,Compositae,,Dicoria,,"canescens",subsp.,"hispidula","(Rydb.) D.D.Keck",Synonym,,L,TICA,C16C84B1-CF6B-4813-8B2D-14D769CA06F8,79803-2,"Aliso 4","","101","1958",gcc-96009
+gcc-59976,A,Compositae,,Dicoria,,"canescens",var.,"hispidula","(Rydb.) Cronquist",Synonym,,L,TICA,092FEB10-AF02-43B0-8422-9ABD10C7619D,979372-1,"","","57","1994",gcc-96009
+gcc-27700,A,Compositae,,Dicoria,,"canescens",var.,"wetherillii","(Eastw.) Cronquist",Synonym,,L,TICA,E9A7D597-D043-4718-BE1F-333291EA8538,979371-1,"","","57","1994",gcc-96009
+gcc-51218,A,Compositae,,Dicoria,,"clarkae",,"","Kennedy",Synonym,,M,TICA,2648B34D-79B8-4E05-9C8A-5EFB3CC525CF,,"Muhlenbergia iv. 2 (1908).","","2","",gcc-96009
+gcc-109101,A,Compositae,,Dicoria,,"clarkiae",,"","P.B.Kenn.",Synonym,,M,TICA,8D062909-8DF5-40AF-A875-ADDE6B72389F,79804-2,"Muhlenbergia 4","","2","1908",gcc-96009
+gcc-34126,A,Compositae,,Dicoria,,"clarkiae",,"","J.D.Kenn.",Unresolved,,L,TICA,08D3C5A0-0E66-4956-A6BB-3F42212F268A,,"","","","",
+gcc-122281,A,Compositae,,Dicoria,,"hispidula",,"","Rydb.",Synonym,,M,TICA,1F567BC8-0AC1-4A2D-B7F1-CBAA0BE1166E,309199-2,"N. Amer. Fl. 33: 12. 1922","","12","1922",gcc-96009
+gcc-12421,A,Compositae,,Dicoria,,"oblongifolia",,"","Rydb.",Synonym,,M,TICA,24EDD9F8-B687-4186-B0E1-1728435DC419,79806-2,"N. Amer. Fl. 33","","12","1922",gcc-96009
+gcc-114871,A,Compositae,,Dicoria,,"paniculata",,"","Eastw.",Synonym,,M,TICA,12017403-1308-4B3E-B3BF-BADCB669978E,,"""Proc. Calif. Acad. Sci. ser. 2, 6""","","298","1896",gcc-96009
+gcc-49634,A,Compositae,,Dicoria,,"wetherillii",,"","Eastw.",Synonym,,M,TICA,2481AA4E-9994-49D6-9A3E-5BFF7EA7E740,,"""Proc. Calif. Acad. Sci. ser. 2, 6""","","299","1896",gcc-96009

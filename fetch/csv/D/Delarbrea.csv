@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-332413,A,Myodocarpaceae,,Delarbrea,,"balansae",,"","(Baill.) Lowry & G.M.Plunkett",Accepted,,H,WCSP,332413,60437576-2,"Adansonia","III, 26: 254","","2004",
+kew-56903,A,Myodocarpaceae,,Delarbrea,,"collina",,"","Vieill.",Accepted,,H,WCSP,56903,90197-1,"Bull. Soc. Linn. Normandie","9: 342","","1865",
+kew-56904,A,Myodocarpaceae,,Delarbrea,,"harmsii",,"","R.Vig.",Accepted,,H,WCSP,56904,90199-1,"J. Bot. (Morot)","II, 3: 52","","1925",
+kew-56905,A,Myodocarpaceae,,Delarbrea,,"lauterbachii",,"","Harms",Synonym,,H,WCSP,56905,90200-1,"Fl. Schutzgeb. Südsee","485","","1900",kew-56912
+kew-56906,A,Myodocarpaceae,,Delarbrea,,"longicarpa",,"","R.Vig.",Accepted,,H,WCSP,56906,90201-1,"J. Bot. (Morot)","II, 3: 53","","1925",
+kew-56907,A,Myodocarpaceae,,Delarbrea,,"michieana",,"","(F.Muell.) F.Muell.",Accepted,,H,WCSP,56907,,"Syst. Census Austral. Pl.","2: 105","","1889",
+kew-56908,A,Myodocarpaceae,,Delarbrea,,"montana",,"","R.Vig.",Accepted,,H,WCSP,56908,90203-1,"J. Bot. (Morot)","II, 3: 53","","1925",
+kew-56909,A,Myodocarpaceae,,Delarbrea,,"montana",subsp.,"arborea","(R.Vig.) Lowry",Accepted,,L,WCSP,56909,952768-1,"Allertonia","4: 196","","1986",
+kew-56910,A,Myodocarpaceae,,Delarbrea,,"montana",var.,"arborea","R.Vig.",Synonym,,L,WCSP,56910,,"J. Bot. (Morot)","II, 3: 54","","1925",kew-56909
+kew-56911,A,Myodocarpaceae,,Delarbrea,,"montana",subsp.,"montana","",Synonym,,L,WCSP,56911,,"Unknown","","","",kew-56908
+kew-56912,A,Myodocarpaceae,,Delarbrea,,"paradoxa",,"","Vieill.",Accepted,,H,WCSP,56912,90205-1,"Bull. Soc. Linn. Normandie","9: 343","","1865",
+kew-56913,A,Myodocarpaceae,,Delarbrea,,"paradoxa",var.,"balansae","R.Vig.",Synonym,,L,WCSP,56913,,"J. Bot. (Morot)","II, 3: 55","","1925",kew-56912
+kew-56915,A,Myodocarpaceae,,Delarbrea,,"paradoxa",var.,"macrophylla","R.Vig.",Synonym,,L,WCSP,56915,,"J. Bot. (Morot)","II, 3: 55","","1925",kew-56912
+kew-56916,A,Myodocarpaceae,,Delarbrea,,"paradoxa",subsp.,"paradoxa","",Synonym,,L,WCSP,56916,,"Unknown","","","",kew-56912
+kew-56917,A,Myodocarpaceae,,Delarbrea,,"spectabilis",,"","Linden & André",Synonym,,H,WCSP,56917,90206-1,"Ill. Hort.","25: 76, t. 314","","1878",kew-56912

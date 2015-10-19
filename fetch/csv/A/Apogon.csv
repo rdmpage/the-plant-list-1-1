@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6132,A,Compositae,,Apogon,,"gracilis",,"","DC.",Synonym,,M,TICA,AE195F1F-D82A-4BC9-98FC-0B67569C3ECA,310589-2,"Prodr. (DC.) 7(1): 79","","79","1838",gcc-11299
+gcc-107103,A,Compositae,,Apogon,,"humilis",,"","Elliott",Synonym,,M,TICA,9CC66258-648B-4F47-AA5F-A959DD32524F,178189-1,"","","267","1823",gcc-11299
+gcc-80080,A,Compositae,,Apogon,,"humilis",,"","Nutt.",Accepted,,M,TICA,245CDBC2-A754-45FA-B50D-6CD19D442E12,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 424""","","424","1841",
+gcc-145777,A,Compositae,,Apogon,,"humilis",var.,"humilis","",Synonym,,L,TICA,F365696D-187F-424E-9600-0AAFBE4EDB54,,"","","","",gcc-80080
+gcc-69364,A,Compositae,,Apogon,,"humilis",var.,"lyratus","(Nutt.) Torr. & A.Gray",Synonym,,L,TICA,A93FE8FF-3436-44F8-B232-E5BA342260D6,16725-2,"","","467","1843",gcc-11299
+gcc-120765,A,Compositae,,Apogon,,"lyratum",,"","Nutt.",Synonym,,M,TICA,F76B1BE1-CFE9-45C0-8FF8-C8495EEC4946,178191-1,"","","71","1834",gcc-11299
+gcc-153836,A,Compositae,,Apogon,,"lyratus",,"","Nutt.",Synonym,,M,TICA,7FF2D2BE-00DC-4597-88CE-B648215A91B2,178191-1,"T. Nuttall in J. Acad. Nat. Sci. Philadelphia 7. 1834","","71","1834",gcc-11299
+gcc-94876,A,Compositae,,Apogon,,"wrightii",,"","A.Gray",Synonym,,M,TICA,648BBBEF-97A8-41C4-8E80-8E081A28B9CF,309818-2,"Syn. Fl. N. Amer. 1(2)","","411","1884",gcc-17726

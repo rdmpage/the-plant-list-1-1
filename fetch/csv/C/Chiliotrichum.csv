@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-20754,A,Compositae,,Chiliotrichum,,"amelloides",,"","DC.",Synonym,,M,TICA,CE5E88A5-9677-4E4C-BA27-26631A016657,192793-1,"","","216","1836",gcc-23364
+tro-2739008,A,Compositae,,Chiliotrichum,,"amelloides",,"","Cass.",Synonym,,M,TRO,2739008,192794-1,"Dict. Sci. Nat. (ed. 2)","8: 577","577","1817",gcc-23364
+gcc-149612,A,Compositae,,Chiliotrichum,,"amelloides",var.,"amelloides","",Synonym,,L,TICA,FA796839-0094-44A6-B447-5CCC30F0AFD8,,"","","","",gcc-23364
+gcc-61574,A,Compositae,,Chiliotrichum,,"amelloides",var.,"diffusum","(G.Forst.) Nees",Synonym,,L,TICA,1473E10F-E91E-4700-90C5-A7BFC423AE55,56341-2,"","","240","",gcc-23364
+tro-2742979,A,Compositae,,Chiliotrichum,,"amelloides",var.,"lanceolatum","T. Nees",Synonym,,L,TRO,2742979,,"Gen. Sp. Aster.","239","239","1832",gcc-23364
+tro-2742983,A,Compositae,,Chiliotrichum,,"amelloides",var.,"rosmarinifolium","T. Nees",Synonym,,L,TRO,2742983,56343-2,"Gen. Sp. Aster.","239","239","1832",gcc-130214
+gcc-111380,A,Compositae,,Chiliotrichum,,"amelloideum",,"","Cass.",Synonym,,M,TICA,1CF0747F-ECD6-4704-8EEC-B2FA10D55100,192794-1,"","","577","1817",gcc-23364
+gcc-146256,A,Compositae,,Chiliotrichum,,"amelloideum",var.,"amelloideum","",Synonym,,L,TICA,787B57BF-F0CB-41D6-8533-14C2512033AD,,"","","","",gcc-23364
+gcc-64809,A,Compositae,,Chiliotrichum,,"amelloideum",var.,"lanceolatum","Nees",Synonym,,L,TICA,50F5B295-B488-4A30-8D37-C1511FEB0A8E,56342-2,"","","","1832",gcc-23364
+gcc-35053,A,Compositae,,Chiliotrichum,,"amelloideum",var.,"rosmarinifolium","(Less. ex Less.) Nees",Synonym,,L,TICA,0CED6709-298D-4FA4-A611-40FEE7F5CF1E,,"","","239","1832",gcc-130214
+gcc-79073,A,Compositae,,Chiliotrichum,,"angustifolium",,"","Phil.",Accepted,,M,TICA,57C9D7A6-64D5-4C2E-BAC2-6AA5FDD004B5,56344-2,"Anales Univ. Chile 87","","401","1894",
+gcc-87892,A,Compositae,,Chiliotrichum,,"darwinii",,"","Hook.f.",Synonym,,M,TICA,5238A8E7-580F-4C92-9BD8-7E3F8960915E,274506-2,"","","305","1846",gcc-138651
+gcc-23364,A,Compositae,,Chiliotrichum,,"diffusum",,"","(G.Forst.) Kuntze",Accepted,,M,TICA,89AC47CE-ACC2-449E-A90B-2B42574761D6,56345-2,"Revis. Gen. Pl. 3[3]: 141","","141","1898",
+gcc-8474,A,Compositae,,Chiliotrichum,,"diffusum",,"","Dusén",Unresolved,,L,TICA,4901CE37-A53C-4B40-9FDC-0FC973A50D55,,"","","","",
+gcc-73417,A,Compositae,,Chiliotrichum,,"diffusum",f.,"angustifolia","Speg.",Synonym,,L,TICA,9484648E-6150-42E6-886A-1827A531EAF4,56346-2,"Anales de Sociedad Cientifica Argentina 48:","","186","1899",gcc-130214
+gcc-43159,A,Compositae,,Chiliotrichum,,"diffusum",var.,"angustifolium","Speg.",Synonym,,L,TICA,3EEF8208-C200-4CBA-8C36-4FF64C9444A0,,"Anales Soc. Ci. Argent. 48: 186 (1899)","","186","1899",gcc-130214
+gcc-157082,A,Compositae,,Chiliotrichum,,"diffusum",var.,"diffusum","",Synonym,,L,TICA,0AF1A4DA-0D54-42B6-B34B-FA7973E5E2DF,,"","","","",gcc-23364
+gcc-80960,A,Compositae,,Chiliotrichum,,"diffusum",f.,"diffusum","",Synonym,,L,TICA,83CB80BF-3F81-4EFF-89A8-6EC4E5C02F47,,"","","","",gcc-23364
+gcc-137481,A,Compositae,,Chiliotrichum,,"diffusum",f.,"media","Speg.",Synonym,,L,TICA,28303762-8AE8-417A-BEB8-EE8C0708B894,56347-2,"Anales de Sociedad Cientifica Argentina 48:","","186","1899",gcc-23364
+gcc-69340,A,Compositae,,Chiliotrichum,,"diffusum",var.,"media","Speg.",Synonym,,L,TICA,56A2DB50-4B06-4F67-A923-E5852BA676FB,,"Anales Soc. Ci. Argent. 48: 186 (1899)","","186","1899",gcc-23364
+gcc-27110,A,Compositae,,Chiliotrichum,,"feliciae",,"","Decne.",Synonym,,M,TICA,497AB1F3-E99F-4938-B736-322148E47E06,192800-1,"","","52","1845",gcc-23364
+gcc-96281,A,Compositae,,Chiliotrichum,,"humile",,"","Hook.f.",Synonym,,M,TICA,67675CA6-2E8D-487A-94B2-912E60D0DEA9,192801-1,"","","304","1846",gcc-138651
+gcc-108806,A,Compositae,,Chiliotrichum,,"kingii",,"","Hook.f.",Synonym,,M,TICA,1998E21D-B384-41C8-9E08-AD30EEA2EB6E,192802-1,"","","305","1846",gcc-138651
+gcc-122518,A,Compositae,,Chiliotrichum,,"longifolium",,"","Phil.",Synonym,,M,TICA,084EBE7A-23E4-4F6B-8021-CC3126DEC1D6,56349-2,"Anales Univ. Chile 87","","401","1894",gcc-130214
+gcc-113701,A,Compositae,,Chiliotrichum,,"ovatifolium",,"","Decne.",Unresolved,,L,TICA,06DBA560-EE86-4E31-8FF9-B838047556DA,,"","","","1848",
+gcc-130214,A,Compositae,,Chiliotrichum,,"rosmarinifolium",,"","Less.",Accepted,,M,TICA,B3F1CDF8-1F91-4DC7-85E9-DE09642522BE,192805-1,"Linnaea 6","","109","1831",
+gcc-53086,A,Compositae,,Chiliotrichum,,"rosmarinifolium",var.,"glabrescens","Phil.",Synonym,,L,TICA,9B2A6DCA-5400-46BC-BE66-6365044F09F0,56351-2,"Anales Univ. Chile 87","","401","1894",gcc-130214
+gcc-151479,A,Compositae,,Chiliotrichum,,"rosmarinifolium",var.,"rosmarinifolium","",Synonym,,L,TICA,7D518CA3-34C0-4C41-B1BA-854FB32B8EEC,,"","","","",gcc-130214
+gcc-75751,A,Compositae,,Chiliotrichum,,"tenue",,"","Phil.",Accepted,,M,TICA,D97F4709-4199-440F-BF43-632736D8E641,56352-2,"Anales Univ. Chile 87","","402","1894",
+gcc-120262,A,Compositae,,Chiliotrichum,,"virgatum",,"","Phil.",Synonym,,M,TICA,978F9E18-1E08-45A1-8511-C715C77966EF,192807-1,"","","485","1873",gcc-23364

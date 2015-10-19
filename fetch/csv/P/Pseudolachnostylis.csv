@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-166320,A,Phyllanthaceae,,Pseudolachnostylis,,"bussei",,"","Pax ex Hutch.",Synonym,,H,WCSP,166320,355076-1,"Fl. Trop. Afr.","6(1): 672","","1912",kew-166326
+kew-166321,A,Phyllanthaceae,,Pseudolachnostylis,,"dekindtii",,"","Pax",Synonym,,H,WCSP,166321,355077-1,"Bot. Jahrb. Syst.","28: 20","","1899",kew-166325
+kew-166322,A,Phyllanthaceae,,Pseudolachnostylis,,"dekindtii",var.,"glabra","Pax",Synonym,,L,WCSP,166322,,"Bot. Jahrb. Syst.","43: 75","","1909",kew-166326
+kew-166323,A,Phyllanthaceae,,Pseudolachnostylis,,"glauca",,"","(Hiern) Hutch.",Synonym,,H,WCSP,166323,355078-1,"Fl. Trop. Afr.","6(1): 671","","1912",kew-166326
+kew-166324,A,Phyllanthaceae,,Pseudolachnostylis,,"maprouneifolia",,"","Pax",Accepted,,H,WCSP,166324,355079-1,"Bot. Jahrb. Syst.","28: 20","","1899",
+kew-166325,A,Phyllanthaceae,,Pseudolachnostylis,,"maprouneifolia",var.,"dekindtii","(Pax) Radcl.-Sm.",Accepted,,L,WCSP,166325,880714-1,"Kew Bull.","33: 242","","1978",
+kew-166326,A,Phyllanthaceae,,Pseudolachnostylis,,"maprouneifolia",var.,"glabra","(Pax) Brenan",Accepted,,L,WCSP,166326,,"Mem. New York Bot. Gard.","9: 67","","1954",
+kew-166327,A,Phyllanthaceae,,Pseudolachnostylis,,"maprouneifolia",var.,"maprouneifolia","",Synonym,,L,WCSP,166327,,"Unknown","","","",kew-166324
+kew-166328,A,Phyllanthaceae,,Pseudolachnostylis,,"maprouneifolia",var.,"polygyna","(Pax & K.Hoffm.) Radcl.-Sm.",Accepted,,L,WCSP,166328,880715-1,"Kew Bull.","33: 242","","1978",
+kew-166329,A,Phyllanthaceae,,Pseudolachnostylis,,"polygyna",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,166329,355081-1,"Veg. Erde","9, III(2): 31","","1921",kew-166328
+kew-166330,A,Phyllanthaceae,,Pseudolachnostylis,,"verdickii",,"","De Wild.",Synonym,,H,WCSP,166330,355082-1,"Ann. Mus. Congo Belge, Bot.","IV, 1: 205","","1903",kew-166326

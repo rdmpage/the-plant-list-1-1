@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-31245,A,Compositae,,Tilesia,,"baccata",,"","(L.) Pruski",Accepted,,M,TICA,9CD9049B-EBEA-42ED-AD2B-39DB92BCAE5F,993359-1,"Novon 6(4)","","414","1996",
+gcc-61277,A,Compositae,,Tilesia,,"baccata",var.,"baccata","",Synonym,,L,TICA,96D5ACBA-CA12-4601-A1ED-A53AD2ABF48F,,"","","","",gcc-31245
+gcc-25749,A,Compositae,,Tilesia,,"baccata",var.,"discoidea","(S.F.Blake) Pruski",Accepted,,L,TICA,745E1F00-2D98-48FB-AB05-2F92E7775FAE,993360-1,"","","414","1996",
+gcc-127684,A,Compositae,,Tilesia,,"capitata",,"","G.Mey.",Synonym,,M,TICA,436234B7-83F9-4789-A61E-D840D94A0B68,255736-1,"","","254","1818",gcc-31245
+gcc-33620,A,Compositae,,Tilesia,,"macrocephala",,"","(H.Rob.) Pruski",Accepted,,M,TICA,5F869BD3-BA09-46C8-9509-3E5915BB3C76,993361-1,"","","414","1996",
+gcc-88290,A,Compositae,,Tilesia,,"rubens",,"","(Alexander) Pruski",Synonym,Illegitimate,M,TICA,73213CE3-9654-48AE-A2CE-7F1BC378BF8F,1155515-2,"","","414","1996",gcc-136665
+gcc-49392,A,Compositae,,Tilesia,,"spilanthoides",,"","Griseb.",Accepted,,M,TICA,8AA40F2A-0359-4681-87A1-5B830255A3AF,255737-1,"Cat. Pl. Cub. 154.","","154","",

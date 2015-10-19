@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-48738,A,Compositae,,Osmites,,"angustifolia",,"","DC.",Synonym,,M,TICA,E93F15C5-205D-40B8-BE8F-5A4B443B190F,235725-1,"Prodr. (DC.) 6: 291","","291","1838",gcc-30978
+gcc-13812,A,Compositae,,Osmites,,"anthemoides",,"","DC.",Synonym,,M,TICA,D5C13894-7D1B-4614-AA49-19AA9956FCD2,235726-1,"Prodr. (DC.) 6: 291","","291","1838",gcc-28942
+gcc-123766,A,Compositae,,Osmites,,"asteriscoides",,"","L. ex P.J.Bergius",Synonym,,M,TICA,D977351A-2DFA-4237-8EB4-CF1AC63B6B27,,"Descr. Pl. Cap.: 305 (1767).","","","1767",gcc-118690
+gcc-131477,A,Compositae,,Osmites,,"asteriscoides",,"","L.",Unresolved,,L,TICA,CEBC173D-7F04-4E86-95C4-E0F92E85E544,,"","","","1763",
+gcc-110554,A,Compositae,,Osmites,,"bellidiastrum",,"","Thunb.",Synonym,,M,TICA,A3C074CA-6EBD-45C3-AC7A-B123A34701F5,,"Flora Capensis","","701","",gcc-28942
+gcc-18273,A,Compositae,,Osmites,,"bellidiastrum",,"","L.",Unresolved,Illegitimate,L,TICA,32FD6F9C-587D-4CD9-B427-21C57D659256,,"Pl. Rar. Afr. 24; Amoen. Acad. vi. 105; Thunb. Fl. Cap. ed. Schult. 701.","","","1763",
+gcc-32741,A,Compositae,,Osmites,,"bellidiastrum",,"","DC.",Unresolved,,L,TICA,2E8BC8E2-2C93-442C-A2B6-3CB4722C2F7D,235728-1,"Prodr. (DC.) 6: 291 (excl. syn.)","","291","1838",
+gcc-136685,A,Compositae,,Osmites,,"calycina",,"","L.f.",Synonym,,M,TICA,57109D44-E1DB-4FD0-ABB3-ECC325FEC978,235730-1,"Suppl. Pl. 380","","380","1782",gcc-85957
+gcc-107501,A,Compositae,,Osmites,,"camphorata",,"","Thunb.",Unresolved,,L,TICA,D3823B32-55F5-44E4-897A-AA2C69574B4F,235731-1,"Prodr. Pl. Cap. 163.","","163","",
+gcc-102506,A,Compositae,,Osmites,,"camphorina",,"","Thunb.",Unresolved,,L,TICA,81738A59-F54A-40A6-8227-9F4978530510,235734-1,"""Fl. Cap. (Thunberg, ed. 2) 700""","","700","1823",
+gcc-41681,A,Compositae,,Osmites,,"camphorina",,"","L.",Unresolved,,L,TICA,6AA32823-F963-4DB0-A5A5-4D2ECC1C33AE,235733-1,"Pl. Rar. Afr. 24; Amoen. Acad. vi. 105.","","24","",
+gcc-93496,A,Compositae,,Osmites,,"camphorina",,"","Gaertn.",Unresolved,,L,TICA,C7275C68-A48F-49FD-A974-8ADDE301092A,,"Fruct. Sem. Pl. ii. 442. t. 74. f. 3","","442","",
+gcc-38417,A,Compositae,,Osmites,,"dentata",,"","Thunb.",Synonym,,M,TICA,F35589C4-B033-4509-9B6C-47481988CDB8,235735-1,"Prod. Fl. Cap. 163.","","163","",gcc-24688
+gcc-138519,A,Compositae,,Osmites,,"hirsuta",,"","Less.",Synonym,,M,TICA,0E092D24-8189-4D89-B26F-F0C4A4CA8D77,235736-1,"Syn. Gen. Compos. 385.","","385","",gcc-6289
+gcc-5874,A,Compositae,,Osmites,,"lancea",,"","Thunb. ex Harv. & Sond.",Unresolved,,L,TICA,7849F65B-C20B-426B-8815-0AEDA0365A44,,"Fl. Cap. iii. 304","","304","",
+gcc-4039,A,Compositae,,Osmites,,"leucantha",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,48B2FA99-EF95-4E92-A1A4-0782911F0767,235738-1,"""Index Linn. Herb. 111 (1912), nomen.""","","111","",
+gcc-94289,A,Compositae,,Osmites,,"leucantha",,"","(L.) Druce",Synonym,,M,TICA,2FCB4E00-BDDD-44A6-A390-8CA6D2C80E90,,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1913, iii. 422 (1914).""","","422","",gcc-6289
+gcc-31248,A,Compositae,,Osmites,,"parviflora",,"","DC.",Unresolved,,L,TICA,2895A67D-1CBD-4326-8CB2-39DC438387F6,235740-1,"Prodr. (DC.) 6: 291","","291","1838",
+gcc-110918,A,Compositae,,Osmites,,"parvifolia",,"","DC.",Synonym,,M,TICA,4404E540-EB61-47B0-BAAB-B1F50C8CC8C0,,"","","","",gcc-102102
+gcc-109660,A,Compositae,,Osmites,,"pinnatifida",,"","DC.",Synonym,,M,TICA,B9BADFA1-CCE1-4E47-BC51-AF26FA7AB4B5,235741-1,"Prodr. (DC.) 6: 291","","291","1838",gcc-112533

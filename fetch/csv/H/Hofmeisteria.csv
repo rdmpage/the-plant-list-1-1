@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41318,A,Compositae,,Hofmeisteria,,"anomalochaeta",,"","(R.M.King) B.L.Turner",Accepted,,M,TICA,BABFBF1B-6750-4634-B81F-4C8A7C12F47F,278227-2,"","","416","1987",
+gcc-128385,A,Compositae,,Hofmeisteria,,"crassifolia",,"","S.Watson",Accepted,,M,TICA,2AC7D407-061D-4BCB-8510-D9E857313536,123420-2,"","","53","1889",
+gcc-96033,A,Compositae,,Hofmeisteria,,"dissecta",,"","(Hook. & Arn.) R.M.King & H.Rob.",Accepted,,M,TICA,4F3F1EF3-27F6-4F5A-942E-90ACF41FD45A,123421-2,"","","466","1966",
+gcc-131140,A,Compositae,,Hofmeisteria,,"fasciculata",,"","(Benth.) Brandegee",Synonym,Illegitimate,M,TICA,DD717BEE-EA18-4473-A8D4-E031E9F56738,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 167""","","167","1889",gcc-35679
+gcc-35679,A,Compositae,,Hofmeisteria,,"fasciculata",,"","(Benth.) Walp.",Accepted,,M,TICA,DD2165E3-F87D-4784-BA64-422EE964B67A,,"Repert. Bot. Syst. (Walpers) vi. 106.","","106","1847",
+gcc-63056,A,Compositae,,Hofmeisteria,,"fasciculata",var.,"fasciculata","",Synonym,,L,TICA,96ECA26C-01CD-40C3-86A6-B3C44F88F2A4,,"","","","1847",gcc-35679
+gcc-71165,A,Compositae,,Hofmeisteria,,"fasciculata",var.,"grayi","Brandegee",Synonym,,L,TICA,81857C3B-94BB-439B-B397-F41338C25FCC,123422-2,"Zoe 5: 160. 1903","","160","1903",gcc-35679
+gcc-59469,A,Compositae,,Hofmeisteria,,"fasciculata",var.,"pubescens","(S.Watson) B.L.Rob.",Synonym,,L,TICA,FCFE354D-2A66-409D-BE94-9699C63D5E39,123423-2,"Proc. Amer. Acad. Arts 47: 192. 1911","","192","1911",gcc-35679
+gcc-52575,A,Compositae,,Hofmeisteria,,"fasciculata",var.,"xantii","A.Gray",Synonym,,L,TICA,683DF7CD-1DFE-40FD-99CF-61740D3B51C4,319489-2,"Bot. California 1: 299. 1876","","299","1876",gcc-35679
+gcc-153392,A,Compositae,,Hofmeisteria,,"filifolia",,"","I.M.Johnst.",Accepted,,M,TICA,22BA060B-C226-4B5C-8DAE-AD7036F62975,,"Proc. Calif Acad. Sci. Ser. 4. 12: 1185. 1924.","","1185","1924",
+gcc-98754,A,Compositae,,Hofmeisteria,,"gayleana",,"","B.L.Turner",Accepted,,M,TICA,CEB3D506-2DF8-489E-A1E0-96CB4C9EC203,,"","","","1992",
+gcc-103756,A,Compositae,,Hofmeisteria,,"gentryi",,"","Wiggins",Synonym,,M,TICA,06B760C1-AFDA-46AD-9853-A1F96124C772,123425-2,"","","25","1950",gcc-91090
+gcc-34521,A,Compositae,,Hofmeisteria,,"laphamioides",,"","Rose",Synonym,,M,TICA,4750FF07-67EA-4906-8F06-3FF9C5382CF0,123426-2,"Contr. U. S. Natl. Herb. 1: 79. 1890","","79","1890",gcc-125898
+gcc-68331,A,Compositae,,Hofmeisteria,,"laphamioides",var.,"laphamioides","",Synonym,,L,TICA,78830C13-035B-4605-8F37-DDFD991CB811,,"","","","",gcc-125898
+gcc-5529,A,Compositae,,Hofmeisteria,,"laphamioides",var.,"pauciseta","(I.M.Johnst.) S.F.Blake",Synonym,,L,TICA,FBAAE7CE-2A3B-4CCB-94D3-0A4CAE7CC6BF,123427-2,"Contr. U. S. Natl. Herb. 23: 1430. 1926","","1430","1926",gcc-125898
+gcc-99407,A,Compositae,,Hofmeisteria,,"malvaefolia",,"","(B.L.Rob. & Greenm.) B.L.Turner",Accepted,,M,TICA,8B30D775-D74F-4F10-B1FE-984C19A5AFA3,278228-2,"","","416","1987",
+gcc-32643,A,Compositae,,Hofmeisteria,,"mexiae",,"","(B.L.Rob.) B.L.Turner",Accepted,,M,TICA,7890997E-E040-4219-9810-3C7EE9FA9EE9,1049360-2,"","","21","1992",
+gcc-6750,A,Compositae,,Hofmeisteria,,"pluriseta",,"","A.Gray",Synonym,,M,TICA,BCE78169-F89D-4BAB-A5BB-0C85ABBEBF00,,"","","","1857",gcc-51827
+gcc-51875,A,Compositae,,Hofmeisteria,,"pluriseta",var.,"pauciseta","I.M.Johnst.",Synonym,,L,TICA,69E22A65-0B0B-49DB-B1D1-603106761865,,"Proc. Calif. Acad. Sci. (ser. 4) 12: 1187. 1924","","1187","1924",gcc-125898
+gcc-149359,A,Compositae,,Hofmeisteria,,"pluriseta",var.,"pluriseta","",Synonym,,L,TICA,D33FB90F-5C3D-43C3-AE51-5729A202C35B,,"","","","",gcc-51827
+gcc-119354,A,Compositae,,Hofmeisteria,,"pubescens",,"","S.Watson",Synonym,,M,TICA,72026190-FD67-4073-A9FE-C4F90E746318,123431-2,"","","54","1889",gcc-35679
+gcc-6620,A,Compositae,,Hofmeisteria,,"schaffneri",,"","(A.Gray) R.M.King & H.Rob.",Accepted,,M,TICA,1D9F4D12-4E44-4BE4-A09F-0C48ABF402E5,123432-2,"","","467","1966",
+gcc-155438,A,Compositae,,Hofmeisteria,,"sinaloensis",,"","Gentry",Accepted,,M,TICA,CFF36BA5-854E-44DF-B2A5-D865D47D6F73,123433-2,"Brittonia 6: 329. 1948.","","329","1948",
+gcc-131422,A,Compositae,,Hofmeisteria,,"standleyi",,"","(S.F.Blake) R.M.King & H.Rob.",Accepted,,M,TICA,8F6AE9E6-ED62-49A9-A56D-E0D897488255,123434-2,"","","467","1966",
+gcc-139998,A,Compositae,,Hofmeisteria,,"tenuis",,"","(S.Watson) I.M.Johnst.",Synonym,,M,TICA,A87A70F8-3A90-4617-B7E0-F3F764AE9CC0,,"""Proc. Calif. Acad. Sci. ser. 4, 12""","","1188","1924",gcc-131257
+gcc-127948,A,Compositae,,Hofmeisteria,,"urenifolia",,"","(Hook. & Arn.) Walp.",Accepted,,L,TICA,6FA9FF5A-D40A-4561-A50A-D8E134400107,,"","","106","1847",
+gcc-7766,A,Compositae,,Hofmeisteria,,"urenifolia",var.,"mexiae","(B.L.Rob.) McVaugh",Synonym,,L,TICA,BD60FD2D-E788-4A16-9175-0E701F0DE12A,123436-2,"","","402","1972",gcc-32643
+gcc-66026,A,Compositae,,Hofmeisteria,,"urenifolia",var.,"urenifolia","",Synonym,,L,TICA,420DFD39-AE11-4C88-BE34-CB8067533316,,"","","","1847",gcc-127948
+gcc-150290,A,Compositae,,Hofmeisteria,,"viscosa",,"","Nelson",Synonym,,M,TICA,BBE9F19C-4542-4EBC-B1E4-6B23436F1388,123437-2,"Bot. Gaz. (Crawfordsville) 37: 263. 1904. ","","263","1904",gcc-51827
+gcc-23979,A,Compositae,,Hofmeisteria,,"viscosa",,"","A.Nelson",Unresolved,,L,TICA,7AB461D1-08EA-41CB-85EB-2C52917210EE,123437-2,"","","263","1904",

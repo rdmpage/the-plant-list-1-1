@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2678555,A,Rutaceae,,Boenninghausenia,,"albiflora",,"","(Hook.) Rchb. ex Meisn.",Accepted,,M,WCSP (in review),,771536-1,"Pl. Vasc. Gen.","44","","1837",
+tro-50119061,A,Rutaceae,,Boenninghausenia,,"albiflora",var.,"albiflora","",Synonym,,L,TRO,50119061,,"","","","",kew-2678555
+kew-2891539,A,Rutaceae,,Boenninghausenia,,"albiflora",var.,"brevipes","Franch.",Synonym,,L,WCSP (in review),,,"Bull. Soc. Bot. France","33: 450","","1886",kew-2678555
+kew-2678556,A,Rutaceae,,Boenninghausenia,,"albiflora",var.,"japonica","(Nakai ex Makino & Nemoto) S.Suzuki ex H.Ohba",Accepted,,L,WCSP (in review),,1014274-1,"Fl. Jap.","2c: 33","","1999",
+kew-2678557,A,Rutaceae,,Boenninghausenia,,"albiflora",var.,"pilosa","Z.M.Tan",Synonym,,L,WCSP (in review),,950964-1,"Bull. Bot. Res., Harbin","9(2): 47","","1989",kew-2678555
+tro-50007485,A,Rutaceae,,Boenninghausenia,,"brevipes",,"","(Franch.) H. Lév.",Synonym,,M,TRO,50007485,,"Cat. Pl. Yun-Nan","249","249","1917",kew-2678555
+kew-2678558,A,Rutaceae,,Boenninghausenia,,"japonica",,"","Nakai ex Makino & Nemoto",Synonym,,M,WCSP (in review),,,"Fl. Jap.","ed. 2: 618","","1931",kew-2678556
+tro-50055088,A,Rutaceae,,Boenninghausenia,,"japonica",,"","(Siebold ex Miq.) Nakai",Accepted,,M,TRO,50055088,771538-1,"Bot. Mag. (Tokyo)","36: 25","25","1922",
+tro-50321705,A,Rutaceae,,Boenninghausenia,,"japonica",,"","Siebold ex Miq.",Synonym,,M,TRO,50321705,771537-1,"Ann. Mus. Bot. Lugduno-Batavi","3: 21","21","",kew-2678555
+kew-2678559,A,Rutaceae,,Boenninghausenia,,"schizocarpa",,"","S.Y.Hu",Synonym,,M,WCSP (in review),,771539-1,"J. Arnold Arbor.","32: 391","","1951",kew-2678555
+kew-2678560,A,Rutaceae,,Boenninghausenia,,"sessilicarpa",,"","H.Lév.",Synonym,,M,WCSP (in review),,771540-1,"Repert. Spec. Nov. Regni Veg.","12: 282","","1913",kew-2678555

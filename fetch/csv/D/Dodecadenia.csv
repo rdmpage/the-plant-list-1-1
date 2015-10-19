@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2773624,A,Lauraceae,,Dodecadenia,,"grandiflora",,"","Nees",Accepted,,M,WCSP (in review),,464341-1,"Pl. Asiat. Rar.","2: 63","","1831",
+tro-50041419,A,Lauraceae,,Dodecadenia,,"grandiflora",var.,"grandiflora","",Synonym,,L,TRO,50041419,,"","","","",kew-2773624
+kew-2773625,A,Lauraceae,,Dodecadenia,,"grandiflora",var.,"griffithii","(Hook.f.) D.G.Long",Accepted,,L,WCSP (in review),,923215-1,"Notes Roy. Bot. Gard. Edinburgh","41: 507","","1984",
+kew-2773626,A,Lauraceae,,Dodecadenia,,"griffithii",,"","Hook.f.",Synonym,,M,WCSP (in review),,464342-1,"Fl. Brit. India","5: 181","","1886",kew-2773625
+kew-2773627,A,Lauraceae,,Dodecadenia,,"paniculata",,"","Hook.f.",Synonym,,M,WCSP (in review),,464343-1,"Fl. Brit. India","5: 181","","1886",kew-2721074
+kew-2773628,A,Lauraceae,,Dodecadenia,,"robusta",,"","Zoll. & Moritzi",Synonym,,M,WCSP (in review),,,"Syst. Verz.","1: 71","","1854",kew-2352381

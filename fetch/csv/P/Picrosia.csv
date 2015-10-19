@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-125538,A,Compositae,,Picrosia,,"australis",,"","Decne.",Synonym,,M,TICA,C92FCCCB-322E-440A-A0AC-D347467D1CA4,,"","","","1847",gcc-114558
+gcc-83992,A,Compositae,,Picrosia,,"australis",,"","Orbign.",Unresolved,,L,TICA,69450D19-BBE6-44BB-BA43-75853C169BA1,237956-1,"Voy. Am. Merid. vii. I. t. 10.","","vii. I. t. 10","",
+gcc-30010,A,Compositae,,Picrosia,,"cabreriana",,"","A.G.Schulz",Accepted,,M,TICA,287B1526-6248-4009-8DC4-3783EE2A9A82,237957-1,"Darwiniana vi. 495 (1944).","","495","1944",
+gcc-114558,A,Compositae,,Picrosia,,"longifolia",,"","D.Don",Accepted,,M,TICA,7DE6FD7C-C0D4-463B-8D2F-BA24AF469F59,,"","","184","1830",
+gcc-40302,A,Compositae,,Picrosia,,"longifolia",var.,"angustissima","Kuntze",Synonym,,L,TICA,68C0E105-4349-4E1D-8DCF-4AB684FE1082,,"","","167","1898",gcc-114558
+gcc-151439,A,Compositae,,Picrosia,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,800EE8D8-0430-43A2-9BA0-84AD5C713E01,,"","","","",gcc-114558
+gcc-125735,A,Compositae,,Picrosia,,"runcinata",,"","Gill. ex Hook. & Arn.",Synonym,Invalid,M,TICA,42B012C2-5F2B-423A-8B8D-D3B71F94A085,,"in Hook. Comp. Bot. Mag. i. (1835) 32.","","","1835",gcc-114558

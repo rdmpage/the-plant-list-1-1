@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87150,A,Compositae,,Porphyrostemma,,"chevalieri",,"","(O.Hoffm.) Hutch. & Dalziel",Accepted,,M,TICA,E27DB149-FE97-4398-8770-7C9BAC5E184D,239381-1,"Fl. W. Trop. Afr. ii. 158 (1931)","","158","1931",
+gcc-100492,A,Compositae,,Porphyrostemma,,"cuanzensis",,"","(Welw.) O.Hoffm.",Synonym,,M,TICA,45F92A5A-64CA-4E96-A310-9AC07654F109,239382-1,"Bol. Soc. Brot. 10: 174","","174","1892",gcc-23938
+gcc-15378,A,Compositae,,Porphyrostemma,,"grantii",,"","Benth. ex Oliv.",Accepted,,M,TICA,2CBD9582-314A-404E-BB1D-1C79260450FE,239383-1,"Trans. Linn. Soc. London 29(2): 96","","96","1873",
+gcc-12722,A,Compositae,,Porphyrostemma,,"grantii",var.,"chevalieri","O.Hoffm.",Synonym,,L,TICA,3913D69C-09FD-4B39-86E0-17B7E0D81C47,,"""720+2,+ 8:""","","41","1908",gcc-87150
+gcc-151682,A,Compositae,,Porphyrostemma,,"grantii",var.,"grantii","",Synonym,,L,TICA,F8628A6E-A879-4212-A01D-8A11A878684A,,"","","","",gcc-15378
+gcc-69354,A,Compositae,,Porphyrostemma,,"grantii",var.,"semicalva","O.Hoffm.",Synonym,,L,TICA,5D6C7DDF-3F72-4FAC-B37E-E5A5F99E8EDC,,"","","","",gcc-15378
+gcc-79171,A,Compositae,,Porphyrostemma,,"monocephala",,"","(E.A.Bruce) Leins",Accepted,,M,TICA,CED6E5D6-A498-42F8-895D-6AD91749DF3E,239384-1,"Mitt. Bot. Staatssamml. München 9: 107 (1971)","","107","1971",

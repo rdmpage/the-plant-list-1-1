@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-4101413,A,Brassicaceae,,Phoenicaulis,,"cheiranthoides",,"","Nutt.",Accepted,,M,TRO,4101413,288099-1,"Fl. N. Amer.","1(1): 89","89","1838",
+tro-4102678,A,Brassicaceae,,Phoenicaulis,,"cheiranthoides",subsp.,"cheiranthoides","",Synonym,,L,TRO,4102678,,"","","","1944",tro-4101413
+tro-4101414,A,Brassicaceae,,Phoenicaulis,,"cheiranthoides",var.,"lanuginosa","(S. Watson) Rollins",Synonym,,L,TRO,4101414,193845-2,"Rhodora","43(513): 480","480","1941",tro-4101413
+tro-4102677,A,Brassicaceae,,Phoenicaulis,,"cheiranthoides",subsp.,"lanuginosa","(S. Watson) Abrams",Synonym,,L,TRO,4102677,193844-2,"Ill. Fl. Pacific States","2: 290","290","1944",tro-4101413
+tro-4102620,A,Brassicaceae,,Phoenicaulis,,"eurycarpa",,"","(A. Gray) Abrams",Synonym,,M,TRO,4102620,193846-2,"Ill. Fl. Pacific States","2: 290","290","1944",kew-2637938
+tro-50246057,A,Brassicaceae,,Phoenicaulis,,"huddelliana",,"","(A. Nelson) Rydb.",Synonym,,M,TRO,50246057,193847-2,"Fl. Rocky Mts.","1062","1062","1917",kew-2637938
+tro-50297951,A,Brassicaceae,,Phoenicaulis,,"menziesii",,"","Greene",Synonym,,M,TRO,50297951,192160-2,"Bull. Torrey Bot. Club","13: 143","143","1886",tro-4101413
+tro-50297952,A,Brassicaceae,,Phoenicaulis,,"menziesii",var.,"lanuginosa","(S. Watson) A. Heller",Synonym,,L,TRO,50297952,193848-2,"Cat. N. Amer. Pl. (ed. 2)","4","4","1900",tro-4101413
+tro-50129668,A,Brassicaceae,,Phoenicaulis,,"pedicellata",,"","(A. Nelson) A. Heller",Synonym,,M,TRO,50129668,193849-2,"Muhlenbergia","2(2A): 203","203","1906",tro-4101413

@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2502545,A,Papaveraceae,,Macleaya,,"cordata",,"","(Willd.) R.Br.",Accepted,,M,WCSP (in review),,673258-1,"Narr. Travels Africa","218","","1826",
+tro-50066567,A,Papaveraceae,,Macleaya,,"cordata",var.,"yedoensis","(André) Fedde",Synonym,,L,TRO,50066567,,"Pflanzenr.","217","217","1909",kew-2502545
+kew-2502543,A,Papaveraceae,,Macleaya,×,"kewensis",,"","Turrill",Unresolved,,L,WCSP (in review),,673259-1,"Bot. Mag.","172: t. 321","","1958",
+tro-24000391,A,Papaveraceae,,Macleaya,,"microcarpa",,"","(Maxim.) Fedde",Accepted,,L,TRO,24000391,673260-1,"Bot. Jahrb. Syst.","36(Beibl. 82): 45","45","1905",
+tro-50149441,A,Papaveraceae,,Macleaya,,"yedoensis",,"","André",Synonym,,M,TRO,50149441,673261-1,"Rev. Hort.","38: 369","369","1866",kew-2502545

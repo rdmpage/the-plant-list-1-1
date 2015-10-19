@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-35712,A,Apocynaceae,,Catharanthus,,"coriaceus",,"","Markgr.",Accepted,,H,WCSP,35712,77875-1,"Adansonia","n.s., 10: 23","","1970",
+kew-35713,A,Apocynaceae,,Catharanthus,,"lanceus",,"","(Bojer ex A.DC.) Pichon",Accepted,,H,WCSP,35713,77876-1,"Mém. Mus. Natl. Hist. Nat.","27: 237","","1948",
+kew-35714,A,Apocynaceae,,Catharanthus,,"longifolius",,"","(Pichon) Pichon",Accepted,,H,WCSP,35714,77877-1,"Mém. Mus. Natl. Hist. Nat.","27: 238","","1948",
+kew-35715,A,Apocynaceae,,Catharanthus,,"ovalis",,"","Markgr.",Accepted,,H,WCSP,35715,77878-1,"Adansonia","n.s., 10: 24","","1970",
+kew-35716,A,Apocynaceae,,Catharanthus,,"ovalis",subsp.,"grandiflorus","Markgr.",Synonym,,L,WCSP,35716,,"Adansonia","n.s., 10: 24","","1970",kew-35715
+tro-1803433,A,Apocynaceae,,Catharanthus,,"ovalis",subsp.,"ovalis","",Synonym,,L,TRO,1803433,,"","","","",kew-35715
+tro-1806320,A,Apocynaceae,,Catharanthus,,"ovalis",var.,"ovalis","",Synonym,,L,TRO,1806320,,"","","","",kew-35715
+kew-35717,A,Apocynaceae,,Catharanthus,,"ovalis",var.,"tomentellus","Markgr.",Synonym,,L,WCSP,35717,,"Adansonia","n.s., 10: 24","","1970",kew-35715
+kew-35718,A,Apocynaceae,,Catharanthus,,"pusillus",,"","(Murray) G.Don",Accepted,,H,WCSP,35718,77879-1,"Gen. Hist.","4: 95","","1837",
+kew-35719,A,Apocynaceae,,Catharanthus,,"roseus",,"","(L.) G.Don",Accepted,,H,WCSP,35719,77880-1,"Gen. Hist.","4: 95","","1837",
+tro-1805943,A,Apocynaceae,,Catharanthus,,"roseus",var.,"albus","G. Don",Synonym,,L,TRO,1805943,,"","","","",kew-35719
+kew-35720,A,Apocynaceae,,Catharanthus,,"roseus",var.,"angustus","(Steenis) Bakh.",Accepted,,L,WCSP,35720,,"Blumea","6: 384","","1950",
+kew-35721,A,Apocynaceae,,Catharanthus,,"roseus",var.,"nanus","Markgr.",Synonym,,L,WCSP,35721,874313-1,"Adansonia","n.s., 12: 222","","1972",kew-35720
+kew-35722,A,Apocynaceae,,Catharanthus,,"roseus",var.,"roseus","",Synonym,,L,WCSP,35722,,"Unknown","","","",kew-35719
+kew-35723,A,Apocynaceae,,Catharanthus,,"scitulus",,"","(Pichon) Pichon",Accepted,,H,WCSP,35723,77881-1,"Mém. Mus. Natl. Hist. Nat.","27: 238","","1948",
+kew-35724,A,Apocynaceae,,Catharanthus,,"trichophyllus",,"","(Baker) Pichon",Accepted,,H,WCSP,35724,77882-1,"Mém. Mus. Natl. Hist. Nat.","27: 238","","1948",

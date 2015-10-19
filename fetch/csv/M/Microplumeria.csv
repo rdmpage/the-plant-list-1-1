@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-127601,A,Apocynaceae,,Microplumeria,,"anomala",,"","(Müll.Arg.) Markgr.",Accepted,,H,WCSP,127601,80344-1,"Notizbl. Bot. Gart. Berlin-Dahlem","13: 458","","1937",
+tro-1804931,A,Apocynaceae,,Microplumeria,,"anomala",var.,"parvifolia","Monach.",Synonym,,L,TRO,1804931,160428-2,"Mem. New York Bot. Gard.","10(4): 63","63","1961",kew-127601
+kew-127602,A,Apocynaceae,,Microplumeria,,"sprucei",,"","Baill.",Synonym,,H,WCSP,127602,160429-2,"Bull. Mens. Soc. Linn. Paris","1: 749","","1889",kew-127601

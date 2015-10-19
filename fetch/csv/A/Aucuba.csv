@@ -1,0 +1,51 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-17862,A,Garryaceae,,Aucuba,,"albopunctifolia",,"","F.T.Wang",Accepted,,H,WCSP,17862,271444-1,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 203","","1949",
+kew-273525,A,Garryaceae,,Aucuba,,"albopunctifolia",var.,"albopunctifolia","",Synonym,,L,WCSP,273525,,"Unknown","","","",kew-17862
+kew-17863,A,Garryaceae,,Aucuba,,"albopunctifolia",var.,"angustifolia","(Rehder) F.T.Wang",Synonym,,L,WCSP,17863,,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 203","","1949",kew-17867
+kew-453831,A,Garryaceae,,Aucuba,,"albopunctifolia",var.,"obcordata","(Rehder) F.T.Wang",Synonym,,L,WCSP,453831,,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 203","","1949",kew-17894
+kew-17865,A,Garryaceae,,Aucuba,,"cavinervis",,"","C.Y.Wu ex Soong",Synonym,,H,WCSP,17865,20010604-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 69","","1982",kew-17877
+kew-17866,A,Garryaceae,,Aucuba,,"chinensis",,"","Benth.",Accepted,,H,WCSP,17866,271445-1,"Fl. Hongk.","138","","1861",
+kew-17867,A,Garryaceae,,Aucuba,,"chinensis",var.,"angusta","F.T.Wang",Accepted,,L,WCSP,17867,,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 201","","1949",
+kew-17868,A,Garryaceae,,Aucuba,,"chinensis",f.,"angustifolia","Rehder",Synonym,,L,WCSP,17868,,"Pl. Wilson.","2: 573","","1912",kew-17867
+kew-17869,A,Garryaceae,,Aucuba,,"chinensis",var.,"chinensis","",Synonym,,L,WCSP,17869,,"Unknown","","","",kew-17866
+tro-8700412,A,Garryaceae,,Aucuba,,"chinensis",subsp.,"chinensis","",Synonym,,L,TRO,8700412,,"","","","",kew-17866
+kew-17870,A,Garryaceae,,Aucuba,,"chinensis",var.,"fongfangshanensis","J.C.Liao & al.",Synonym,,L,WCSP,17870,,"Bull. Exp. Forest Natl. Taiwan Univ.","123: 171","","1979",kew-17894
+kew-17871,A,Garryaceae,,Aucuba,,"chinensis",f.,"obcordata","Rehder",Synonym,,L,WCSP,17871,,"Pl. Wilson.","2: 572","","1916",kew-17894
+kew-17872,A,Garryaceae,,Aucuba,,"chinensis",subsp.,"omeiensis","(W.P.Fang) W.P.Fang & Soong",Synonym,,L,WCSP,17872,919699-1,"in Fl. Sichuanica","1: 388","","1981",kew-17866
+kew-17873,A,Garryaceae,,Aucuba,,"chinensis",f.,"subintegra","H.L.Li",Synonym,,L,WCSP,17873,,"J. Arnold Arbor.","25: 310","","1944",kew-17876
+kew-453832,A,Garryaceae,,Aucuba,,"chinensis",var.,"variegata","Dombrain",Synonym,,L,WCSP,453832,,"Fl. Mag. (London)","5: t. 277","","1866",kew-17866
+kew-17874,A,Garryaceae,,Aucuba,,"chlorascens",,"","F.T.Wang",Accepted,,H,WCSP,17874,271446-1,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 201","","1949",
+kew-17875,A,Garryaceae,,Aucuba,,"confertiflora",,"","W.P.Fang & Soong",Accepted,,H,WCSP,17875,20010603-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 68","","1982",
+tro-50249518,A,Garryaceae,,Aucuba,,"crotonifolia",,"","Federer",Unresolved,,L,TRO,50249518,271447-1,"Möller's Deutsche Gärtn.-Zeitung","46: 266","266","1931",
+kew-17876,A,Garryaceae,,Aucuba,,"eriobotryifolia",,"","F.T.Wang",Accepted,,H,WCSP,17876,271448-1,"Contr. Inst. Bot. Natl. Acad. Peiping","6: 206","","1949",
+kew-17877,A,Garryaceae,,Aucuba,,"filicauda",,"","Chun & F.C.How",Accepted,,H,WCSP,17877,271449-1,"Acta Phytotax. Sin.","7: 70","","1958",
+kew-273523,A,Garryaceae,,Aucuba,,"filicauda",var.,"filicauda","",Synonym,,L,WCSP,273523,,"Unknown","","","",kew-17877
+kew-17879,A,Garryaceae,,Aucuba,,"grandiflora",,"","C.Y.Wu",Synonym,,H,WCSP,17879,959552-1,"in Fl. Yunnanica","5: 760","","1991",kew-17866
+kew-17880,A,Garryaceae,,Aucuba,,"himalaica",,"","Hook.f. & Thomson",Accepted,,H,WCSP,17880,,"Ill. Himal. Pl.","t. 12","","1855",
+kew-17881,A,Garryaceae,,Aucuba,,"himalaica",var.,"dolichophylla","W.P.Fang & Soong",Synonym,,L,WCSP,17881,916128-1,"in Fl. Sichuanica","1: 475","","1981",kew-17867
+kew-273524,A,Garryaceae,,Aucuba,,"himalaica",var.,"himalaica","",Synonym,,L,WCSP,273524,,"Unknown","","","",kew-17880
+kew-17882,A,Garryaceae,,Aucuba,,"himalaica",var.,"oblanceolata","W.P.Fang & Soong",Accepted,,L,WCSP,17882,916129-1,"in Fl. Sichuanica","1: 474","","1981",
+kew-17884,A,Garryaceae,,Aucuba,,"japonica",,"","Thunb.",Accepted,,H,WCSP,17884,271451-1,"Nov. Gen. Pl.","3: 61","","1783",
+kew-330100,A,Garryaceae,,Aucuba,,"japonica",f.,"albopunctata","Makino",Synonym,,L,WCSP,330100,,"Makinoa","3: 53","","1947",kew-17884
+kew-17885,A,Garryaceae,,Aucuba,,"japonica",var.,"australis","Hara & Kuros.",Synonym,,L,WCSP,17885,,"J. Jap. Bot.","46: 237","","1971",kew-17889
+kew-330101,A,Garryaceae,,Aucuba,,"japonica",f.,"castaneopedicellata","Makino",Synonym,,L,WCSP,330101,,"J. Jap. Bot.","1: 18","","1917",kew-17884
+kew-330102,A,Garryaceae,,Aucuba,,"japonica",f.,"castaneoviridescens","Makino",Synonym,,L,WCSP,330102,,"J. Jap. Bot.","1: 18","","1917",kew-17884
+kew-17887,A,Garryaceae,,Aucuba,,"japonica",var.,"japonica","",Synonym,,L,WCSP,17887,,"Unknown","","","",kew-17884
+kew-376475,A,Garryaceae,,Aucuba,,"japonica",var.,"latimaculata","Regel",Synonym,,L,WCSP,376475,,"Index Seminum (LE)","1866: 96","","1866",kew-17884
+kew-17888,A,Garryaceae,,Aucuba,,"japonica",var.,"longifolia","Nakai",Synonym,,L,WCSP,17888,,"Bot. Mag. (Tokyo)","23: 43","","1909",kew-17880
+kew-461932,A,Garryaceae,,Aucuba,,"japonica",var.,"luteopicta","W.Bull",Synonym,,L,WCSP,461932,60454968-2,"Gard. Chron.","n.s., 3: 619","","1875",kew-17884
+kew-376476,A,Garryaceae,,Aucuba,,"japonica",var.,"maculata","Regel",Synonym,,L,WCSP,376476,,"Index Seminum (LE)","1866: 96","","1866",kew-17884
+kew-17889,A,Garryaceae,,Aucuba,,"japonica",var.,"ovoidea","Koidz.",Accepted,,L,WCSP,17889,,"Fl. Austro-Higo.","43","","1931",
+kew-17890,A,Garryaceae,,Aucuba,,"japonica",f.,"rugosa","Sugim.",Synonym,,L,WCSP,17890,974697-1,"J. Geobot.","24: 62","","1977",kew-17884
+kew-17891,A,Garryaceae,,Aucuba,,"japonica",var.,"variegata","Dombrain",Synonym,,L,WCSP,17891,,"Fl. Mag. (London)","5: t. 277","","1866",kew-17884
+kew-330103,A,Garryaceae,,Aucuba,,"japonica",f.,"viridiflora","Makino",Synonym,,L,WCSP,330103,,"J. Jap. Bot.","1: 17","","1917",kew-17884
+kew-17892,A,Garryaceae,,Aucuba,,"luteocarpa",,"","Dombrain",Synonym,,H,WCSP,17892,271452-1,"Fl. Mag. (London)","1872: 12","","1872",kew-17884
+tro-50249522,A,Garryaceae,,Aucuba,,"macrodonta",,"","Federer",Unresolved,,L,TRO,50249522,271453-1,"Möller's Deutsche Gärtn.-Zeitung","46: 266","266","1931",
+kew-17893,A,Garryaceae,,Aucuba,,"mollifolia",,"","C.Y.Wu",Synonym,,H,WCSP,17893,959553-1,"in Fl. Yunnanica","5: 760","","1991",kew-17882
+kew-17894,A,Garryaceae,,Aucuba,,"obcordata",,"","(Rehder) K.T.Fu ex W.K.Hu & Soong",Accepted,,H,WCSP,17894,908368-1,"in Fl. Sichuanica","1: 395","","1981",
+kew-221088,A,Garryaceae,,Aucuba,,"oblanceolata",,"","(W.P.Fang & Soong) C.J.Qi",Synonym,,H,WCSP,221088,20007503-1,"Woody Fl. Hunan","550","","2000",kew-17882
+kew-17895,A,Garryaceae,,Aucuba,,"omeiensis",,"","W.P.Fang",Synonym,,H,WCSP,17895,271454-1,"Fang Commem.Vol.","23","","1947",kew-17866
+kew-17896,A,Garryaceae,,Aucuba,,"robusta",,"","W.P.Fang & Soong",Accepted,,H,WCSP,17896,20010606-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 70","","1982",
+tro-50249523,A,Garryaceae,,Aucuba,,"salicifolia",,"","Federer",Unresolved,,L,TRO,50249523,271455-1,"Möller's Deutsche Gärtn.-Zeitung","46: 266","266","1931",
+kew-17897,A,Garryaceae,,Aucuba,,"yunnanensis",,"","C.Y.Wu",Synonym,,H,WCSP,17897,959554-1,"in Fl. Yunnanica","5: 760","","1991",kew-17867
+kew-17898,A,Garryaceae,,Aucuba,,"yunnanensis",var.,"pubigera","C.Y.Wu & S.Y.Pao",Synonym,,L,WCSP,17898,965402-1,"in Fl. Yunnanica","5: 760","","1991",kew-17867

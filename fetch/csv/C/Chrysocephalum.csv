@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50169294,A,Compositae,,Chrysocephalum,,"adpesssum",,"","(Fitzg.) Anderb.",Accepted,,M,TRO,50169294,,"Opera Bot. Čech.","104: 119","119","1991",
+gcc-2319,A,Compositae,,Chrysocephalum,,"adpressum",,"","(Fitzg.) Anderb.",Synonym,Invalid,M,TICA,1E750527-AF42-4FF8-8B25-043720D998BF,962982-1,"Opera Bot. 104","","119","1991",gcc-17075
+gcc-110057,A,Compositae,,Chrysocephalum,,"ambiguum",,"","(Turcz.) Anderb.",Synonym,,M,TICA,9D1951A8-2694-418C-910D-B0020EC33F44,962983-1,"Opera Bot. 104","","119","1991",gcc-142135
+gcc-105622,A,Compositae,,Chrysocephalum,,"apiculatum",,"","(Labill.) Steetz",Accepted,,M,TICA,2708D9C5-05D2-4237-81A9-A5F9213DEEF6,74929-3,"Pl. Preiss. 1: 474 (1845)","","474","1845",
+gcc-141485,A,Compositae,,Chrysocephalum,,"asperum",,"","Steetz",Synonym,,M,TICA,6AFFC2E7-B583-4FEB-92C8-F789C6EE1D42,74945-3,"","","","1845",gcc-112380
+gcc-132152,A,Compositae,,Chrysocephalum,,"baxteri",,"","(A.Cunn. ex DC.) Anderb.",Accepted,,M,TICA,0A7C3D34-3D30-4CB1-91F7-E28F15FCA232,962454-1,"","","22","1991",
+gcc-103162,A,Compositae,,Chrysocephalum,,"behrianum",,"","Sond.",Synonym,Illegitimate,M,TICA,60D99DDD-FA30-4EDF-B5ED-A0A567ADF79D,193861-1,"Linnaea 25","","517","1853",gcc-132152
+gcc-139373,A,Compositae,,Chrysocephalum,,"brevicilium",,"","(DC.) Walp.",Synonym,,M,TICA,27B7C56C-0B2C-4551-8D4B-F29DD701BEE2,193862-1,"","","238","",gcc-132152
+gcc-139436,A,Compositae,,Chrysocephalum,,"canescens",,"","Turcz.",Synonym,,M,TICA,47A41E6A-C4F6-42A5-93F8-F2BBD18F57EB,75022-3,"","","","1851",gcc-105622
+gcc-13157,A,Compositae,,Chrysocephalum,,"ciliatum",,"","(DC.) Steetz",Synonym,,M,TICA,B499776D-9FD7-4630-908E-1886F9FAB85D,75043-3,"","","","1845",gcc-112380
+gcc-37016,A,Compositae,,Chrysocephalum,,"eremaeum",,"","(Haegi) Anderb.",Accepted,,M,TICA,10B0F0E9-8866-49EA-B251-449431F39756,962984-1,"Opera Bot. 104","","119","1991",
+gcc-132930,A,Compositae,,Chrysocephalum,,"flavispinum",,"","Walp.",Unresolved,,L,TICA,B016DF8D-55DF-4700-A470-E4624E50B22B,193865-1,"""Repert. Bot. Syst. (Walpers) i. 237, sphalm.""","","237","",
+gcc-111658,A,Compositae,,Chrysocephalum,,"flavissimum",,"","(Spreng.) Steetz",Synonym,,M,TICA,CB56D67C-C31A-4284-A200-B39AB5FFBEAC,75064-3,"","","","1845",gcc-105622
+gcc-92428,A,Compositae,,Chrysocephalum,,"glabratum",,"","Turcz.",Synonym,,M,TICA,947D7B95-5EAB-4C38-A5D4-88966941DF57,75081-3,"","","","1851",gcc-105622
+gcc-140151,A,Compositae,,Chrysocephalum,,"helichrysoides",,"","Walp.",Synonym,,M,TICA,E44EAF59-F480-4A3B-870D-F45837E8C5B0,75102-3,"Linnaea 14","","503","1840",gcc-105622
+gcc-48301,A,Compositae,,Chrysocephalum,,"odorum",,"","(DC.) Walp.",Synonym,,M,TICA,A7FD62B2-CFDA-4A0E-860C-5982721E8E32,193869-1,"","","238","",gcc-105622
+gcc-83254,A,Compositae,,Chrysocephalum,,"podolepidium",,"","(F.Muell.) Anderb.",Synonym,,M,TICA,D7D8513E-9597-42F7-BD27-73E31F3E9C03,169293-3,"Opera Bot. 104","","119","1991",gcc-11743
+gcc-96787,A,Compositae,,Chrysocephalum,,"pterochaetum",,"","F.Muell.",Accepted,,M,TICA,33E9D389-4FA5-4824-92B5-925F7196D092,,"Linnaea 25: 416 (1852)","","416","",
+gcc-17075,A,Compositae,,Chrysocephalum,,"puteale",,"","(S.Moore) Paul G.Wilson",Accepted,,M,TICA,F7946A6E-AF05-4044-87B9-1F939343EDA6,963911-1,"","","520","1992",
+gcc-91204,A,Compositae,,Chrysocephalum,,"semicalvum",,"","(F.Muell.) Paul G.Wilson",Synonym,,M,TICA,A1940017-6226-4A3E-B94E-85D4BB9AA3E9,963912-1,"","","520","1992",gcc-142135
+gcc-57683,A,Compositae,,Chrysocephalum,,"semicalvum",subsp.,"semicalvum","",Synonym,,L,TICA,BFD9D576-67C7-4CCD-8B6D-884D88D9B288,,"Muelleria 7(4)  1992","","7(4)  1992","",gcc-142135
+gcc-61261,A,Compositae,,Chrysocephalum,,"semicalvum",subsp.,"vinaceum","(Haegi) P.S.Short",Synonym,,L,TICA,6CA0B827-D066-4FEC-B36F-A506825D666F,967555-1,"","","520","1992",gcc-54822
+gcc-112380,A,Compositae,,Chrysocephalum,,"semipapposum",,"","(Labill.) Steetz",Accepted,,M,TICA,C8DDA364-7F06-4BC3-A6F6-B54BC253596C,75156-3,"Pl. Preiss. 1: 474 (1845)","","474","1845",
+gcc-3744,A,Compositae,,Chrysocephalum,,"sericeum",,"","Paul G.Wilson",Accepted,,M,TICA,3587CF3A-A8C0-494A-BD58-06F22D92824D,,"","","","",
+gcc-121533,A,Compositae,,Chrysocephalum,,"serpens",,"","J.Everett",Synonym,,M,TICA,8CAE9934-EDC4-4BC4-9C8F-CA00091D466F,,"","","311","1999",gcc-112893
+gcc-103608,A,Compositae,,Chrysocephalum,,"squarrulosum",,"","Sond.",Synonym,,M,TICA,46F0A1F0-4524-4F5C-8657-A1A82F207084,,"","","515","",gcc-112380
+gcc-123178,A,Compositae,,Chrysocephalum,,"squarrulosum",,"","(DC.) Steetz",Synonym,,M,TICA,71AB6ADF-1058-419A-A5DE-CDB719BD4E6B,75178-3,"","","","1845",gcc-105622
+gcc-14021,A,Compositae,,Chrysocephalum,,"squarrulosum",var.,"brevifolium","Sond.",Synonym,,L,TICA,C05F022C-2589-49E9-A223-1A069412C204,75191-3,"","","","1853",gcc-112380
+gcc-45525,A,Compositae,,Chrysocephalum,,"squarrulosum",var.,"capitulis","Sond.",Synonym,,L,TICA,E7D07A5C-11F9-48BD-BE9A-545F59F839A3,75213-3,"","","","1853",gcc-112380
+gcc-45384,A,Compositae,,Chrysocephalum,,"squarrulosum",var.,"squarrulosum","",Synonym,,L,TICA,02AE4727-0547-40C0-B8AF-5419EA3717C9,75219-3,"Linnaea","","515","1853",gcc-105622
+gcc-129003,A,Compositae,,Chrysocephalum,,"vitellinum",,"","Sond. & F.Muell.",Accepted,,L,TICA,E506A865-13FB-4D69-9C32-DB4A73C23182,193874-1,"Linnaea 25","","514","1853",

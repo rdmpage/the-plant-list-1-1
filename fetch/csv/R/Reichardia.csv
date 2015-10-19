@@ -1,0 +1,58 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-103107,A,Compositae,,Reichardia,,"arabica",,"","(Hochst. & Steud. ex DC.) Fiori",Synonym,,M,TICA,CE73C67F-7DC8-4931-A2A1-A090BBECB18E,241225-1,"","","393","1913",gcc-98531
+gcc-148986,A,Compositae,,Reichardia,,"baetica",,"","M.J.Gallego & Talavera",Accepted,,M,TICA,3FF8AE93-9F74-41EB-9C00-4F33921BE94F,241226-1,"M. J. Gallego & Talavera in Lagascalia 9. 1980","","210","1980",
+gcc-34671,A,Compositae,,Reichardia,×,"baetica",,"","M.J.Gallego & Talavera",Unresolved,,L,TICA,D767F22C-4767-4ACF-B4B1-404745AF592D,241226-1,"Lagascalia 9(2): 210 (1980)","","210","1980",
+gcc-17478,A,Compositae,,Reichardia,,"canariensis",,"","M.J.Gallego & Talavera",Accepted,,M,TICA,8400F440-F678-49C2-9D30-204BD4E75DDF,241227-1,"Lagascalia 9(2): 212 (1980)","","212","1980",
+gcc-100974,A,Compositae,,Reichardia,,"crystallina",,"","(Sch.Bip. ex Sch.Bip.) Bramwell",Accepted,,M,TICA,C993915B-BB65-48B9-B1FE-9BD178FBECAE,,"","","22","1970",
+ild-21719,A,Leguminosae,,Reichardia,,"decapetala",,"","Roth",Synonym,,H,ILDIS,21719,,"","","","",ild-934
+tro-13047888,A,Leguminosae,,Reichardia,,"decapetala",,"","Wight ex Steud.",Synonym,,M,TRO,13047888,517066-1,"Nomencl. Bot. (ed. 2)","2(11): 440","440","1841",ild-934
+gcc-30430,A,Compositae,,Reichardia,,"dichotoma",,"","(DC.) Freyn",Accepted,,M,TICA,443D8017-B80D-42E6-82DD-384BDF0E5DB6,241229-1,"","","267","1892",
+gcc-149831,A,Compositae,,Reichardia,,"dichotoma",var.,"dichotoma","",Synonym,,L,TICA,5B89D860-11E3-48D0-B505-61233CD364E6,,"","","","",gcc-30430
+gcc-150913,A,Compositae,,Reichardia,,"dichotoma",var.,"porphyrochrysa","Freyn & Sint.",Synonym,,L,TICA,BD40EB54-F426-4778-AA82-78E87015EECD,,"Freyn & Sint. in Österr. Bot. Z. 42. 1892","","267","1892",gcc-30430
+gcc-78876,A,Compositae,,Reichardia,,"discolor",,"","(Pomel) Sennen",Synonym,,M,TICA,2A702670-E547-4B58-86DB-6A2E047D9336,,"""Campagn. Bot. Maroc Or. 1930-5, 142 (1936), in obs.""","","","1936",gcc-98531
+gcc-127682,A,Compositae,,Reichardia,,"famarae",,"","Bramwell & G.Kunkel",Synonym,Invalid,M,TICA,A65B0648-C5E3-4B56-BC3D-D83EC4129060,241231-1,"","","49","1973",gcc-140852
+gcc-140852,A,Compositae,,Reichardia,,"famarae",,"","Bramwell & G.Kunkel ex M.J.Gallego & Talavera",Accepted,,M,TICA,A981E119-A4C7-4ECB-80EA-F6004826DE1E,241232-1,"","","201","1980",
+gcc-107662,A,Compositae,,Reichardia,,"gaditana",,"","(Willk.) Samp.",Accepted,,M,TICA,18F55B65-49E6-4362-BABF-AA94D84B5022,,"Samp. in Bol. Soc. Brot. 24. 1909.","","68","1909",
+gcc-16563,A,Compositae,,Reichardia,,"gaditana",,"","(Willk.) Cout.",Synonym,Illegitimate,M,TICA,3CEA4B73-1FEB-4013-BFF2-1E9C708567BC,241233-1,"Fl. Port. 676 (1913).","","676","1913",gcc-107662
+gcc-152912,A,Compositae,,Reichardia,,"gaditana",subsp.,"gaditana","",Synonym,,L,TICA,B1BF44EE-5AFD-43A9-8FF0-A2E25A7319E2,,"","","","",gcc-107662
+gcc-89618,A,Compositae,,Reichardia,,"glauca",,"","V.A.Matthews",Unresolved,,L,TICA,C5EA14B2-41C8-49C2-BCCD-821B797A7346,241234-1,"","","125","1975",gcc-30430
+kew-177070,A,Apocynaceae,,Reichardia,,"grandiflora",,"","Dennst.",Synonym,,H,WCSP,177070,81677-1,"Schlüssel Hortus Malab.","32","","1818",kew-200675
+ild-49742,A,Leguminosae,,Reichardia,,"hexapetala",,"","Roth",Synonym,,H,ILDIS,49742,,"","","","",ild-32853
+gcc-129091,A,Compositae,,Reichardia,,"integrifolia",,"","Moench",Synonym,,M,TICA,AD2E4CAA-25A1-4B4A-BFE1-DB7E43DA9E88,241235-1,"","","546","1794",gcc-31506
+gcc-113122,A,Compositae,,Reichardia,,"intermedia",,"","(Sch.Bip.) Samp.",Accepted,,M,TICA,4B5078F9-0CA7-480D-B666-B6F19288A727,,"","","68","1909",
+gcc-132060,A,Compositae,,Reichardia,,"intermedia",,"","(Sch.Bip.) Cout.",Synonym,Illegitimate,M,TICA,2A59B5C1-F4DF-4C46-8502-E260D53E732C,241236-1,"Fl. Port. 676 (1913).","","676","1913",gcc-113122
+gcc-48280,A,Compositae,,Reichardia,,"intermedia",,"","(Jan ex DC.) Dinsm.",Unresolved,,L,TICA,D849839D-A2EE-432E-98F0-597930CE8E09,241237-1,"Repert. Spec. Nov. Regni Veg. 33: 109","","109","1933",
+kew-177071,A,Apocynaceae,,Reichardia,,"jasminoides",,"","Dennst.",Synonym,,H,WCSP,177071,81678-1,"Schlüssel Hortus Malab.","32","","1818",kew-200675
+gcc-51224,A,Compositae,,Reichardia,,"laciniata",,"","Klatt",Synonym,,M,TICA,E1FE0F6A-759B-4B57-BDA7-5EFD554A2D1C,,"Bull. Herb. Boissier iv. 475.","","475","1896",gcc-75561
+gcc-102925,A,Compositae,,Reichardia,,"ligulata",,"","(Vent.) G.Kunkel & Sunding",Accepted,,M,TICA,9C8CD770-DEA9-4B90-BE8B-A034558E945F,241239-1,"","","80","1972",
+gcc-55464,A,Compositae,,Reichardia,,"ligulata",var.,"crispa","(Webb & Berthel.) Rivas Mart.",Synonym,,L,TICA,C45BC7EC-7009-4E9C-B47F-762B98AAB271,20009396-1,"Itinera Geobot. 15(2): 706 (2002).","","706","2002",gcc-102925
+gcc-154498,A,Compositae,,Reichardia,,"ligulata",var.,"ligulata","",Synonym,,L,TICA,CC4460D5-0041-4652-AC69-C4B32DEE4071,,"","","","",gcc-102925
+gcc-32090,A,Compositae,,Reichardia,,"macrophylla",,"","Vis. & Pančić",Unresolved,,L,TICA,65897974-1A71-404D-9019-3B6DFA679FCB,241241-1,"","","460","1874",gcc-30430
+gcc-115972,A,Compositae,,Reichardia,,"orientalis",,"","(L.) Hochr.",Synonym,,M,TICA,67AD8BFB-E8CB-4A61-857A-BD62AA2E796D,,"","","238","1904",gcc-98531
+ild-51841,A,Leguminosae,,Reichardia,,"pentapetala",,"","Blanco",Synonym,,H,ILDIS,51841,,"","","","",ild-51839
+gcc-31506,A,Compositae,,Reichardia,,"picroides",,"","(L.) Roth",Accepted,,M,TICA,3E5F5495-FFA0-48BC-89A1-3A67116DE17C,241243-1,"","","35","1787",
+gcc-61711,A,Compositae,,Reichardia,,"picroides",subsp.,"intermedia","(Sch.Bip.) Maire",Synonym,,L,TICA,E3AC020F-BF9C-48F5-8118-A8DBAA1B961F,,"","","850","1934",gcc-113122
+gcc-72662,A,Compositae,,Reichardia,,"picroides",subsp.,"intermedia","(Sch.Bip.) Batt.",Synonym,,L,TICA,0E958FBC-1393-4819-98EA-FFC7090E81B9,,"","","","",gcc-113122
+gcc-58007,A,Compositae,,Reichardia,,"picroides",var.,"intermedium","Hochr.",Synonym,,L,TICA,29E36F8D-2D34-45B6-BBE7-8B24DE6C7EDB,,"","","","",gcc-31506
+gcc-12312,A,Compositae,,Reichardia,,"picroides",var.,"maritima","(Batt.) Maire",Synonym,,L,TICA,DF01D3A1-F952-4339-A79B-16F5759C28D0,,"","","","",gcc-31506
+gcc-48380,A,Compositae,,Reichardia,,"picroides",subsp.,"picroides","",Synonym,,L,TICA,B9D11F9C-73B8-47DC-ACA6-59A0EBEC3844,,"","","","",gcc-31506
+gcc-59765,A,Compositae,,Reichardia,,"picroides",var.,"picroides","",Synonym,,L,TICA,882E1174-782C-48CA-8410-992066469F81,,"","","","",gcc-31506
+gcc-122693,A,Compositae,,Reichardia,,"runcinata",,"","Moench",Synonym,,M,TICA,DD51D466-33B5-416F-A186-CC9285724515,241244-1,"","","546","1794",gcc-98531
+gcc-142411,A,Compositae,,Reichardia,,"sarmentosa",,"","Backer ex Booberg",Unresolved,,L,TICA,876B5CD1-CF06-43BB-B8BA-F98D30F913AE,241245-1,"Bot. Jahrb. Syst. lxvi. 31 (1933). in syn.","","lxvi. 31 . in syn.","1933",
+gcc-12942,A,Compositae,,Reichardia,,"scandens",,"","(Cav.) Roth",Unresolved,,L,TICA,AB97E0C8-E0B4-4F21-B682-182064730BB2,808653-1,"Catalecta Botanica 2:","","65","1800",
+kew-2527168,A,Plantaginaceae,,Reichardia,,"scandens",,"","(Cav.) Roth",Synonym,,M,WCSP (in review),,808653-1,"Catal. Bot.","3: 65","","1800",kew-2507317
+gcc-39033,A,Compositae,,Reichardia,×,"sventenia",,"","M.J.Gallego & Talavera",Accepted,,M,TICA,5CA53D83-F418-4E58-AF2D-486A434F8E68,241246-1,"Lagascalia 9(2): 213 (1980)","","213","1980",
+gcc-3330,A,Compositae,,Reichardia,,"tingitana",,"","(L.) Pau",Synonym,Illegitimate,M,TICA,88477E34-404D-4C46-8DA2-0626C346FFD4,241248-1,"Cavanillesia iv. 51 (1931)","","51","1931",gcc-98531
+gcc-98531,A,Compositae,,Reichardia,,"tingitana",,"","(L.) Roth",Accepted,,M,TICA,A8F93CA2-81A8-411C-924C-965A4CF73FE5,241247-1,"Bot. Abh. Beobacht. 35 (1787)","","35","1787",
+gcc-9795,A,Compositae,,Reichardia,,"tingitana",var.,"arabica","(Hochst.) Asch. & Schweinf.",Synonym,,L,TICA,5C879388-EFA2-4227-9FD8-124CCF6F5272,,"","","","",gcc-98531
+gcc-48621,A,Compositae,,Reichardia,,"tingitana",subsp.,"discolor","(Pomel) Batt.",Accepted,,L,TICA,63BD4194-DD97-4B16-AD8D-5A0F50B64FAD,,"","","","",
+gcc-71021,A,Compositae,,Reichardia,,"tingitana",subsp.,"discolor","(Pomel) Maire",Synonym,,L,TICA,CD08FE94-CA7B-44D8-94EC-F2C74B37CFD5,,"""Maire in Jahandiez & Maire, Cat. Pl. Maroc. 1934.""","","850","1934",gcc-98531
+gcc-46509,A,Compositae,,Reichardia,,"tingitana",var.,"maritima","Ball",Synonym,,L,TICA,015FF2BF-75A3-40DB-8C96-562A24379817,,"","","","",gcc-107662
+gcc-60015,A,Compositae,,Reichardia,,"tingitana",var.,"mauritii","Sennen",Synonym,,L,TICA,871C5891-3EF7-434B-887B-9B063F806E2C,,"","","","",gcc-98531
+gcc-64700,A,Compositae,,Reichardia,,"tingitana",subsp.,"orientalis","(L.) Maire",Synonym,,L,TICA,2974CEE0-ADAD-4E67-8853-C0713EE126D7,,"Maire in Cavanillesia 2. 1930.","","174","1930",gcc-98531
+gcc-8842,A,Compositae,,Reichardia,,"tingitana",var.,"orientalis","(L.) Pamp.",Synonym,,L,TICA,E9297181-F2CD-4797-937C-108DB58A41A1,,"","","","",gcc-48621
+gcc-62664,A,Compositae,,Reichardia,,"tingitana",var.,"pinnatifida","(Lag.) Pau & Font Quer",Synonym,,L,TICA,11ECD264-C231-4773-B878-B0A915FE74EB,,"","","","",gcc-98531
+gcc-63893,A,Compositae,,Reichardia,,"tingitana",var.,"subintegra","Mamgain & R.R.Rao",Accepted,,L,TICA,3C3F79E6-50CD-4356-9408-BA5E83FEB05D,,"J. Bombay Nat. Hist. Soc. 86(2): 273 (1989):","","273","1989",
+gcc-68717,A,Compositae,,Reichardia,,"tingitana",var.,"subintegra","(Boiss.) Pamp.",Synonym,,L,TICA,E09CE3A9-F5FA-4901-915A-E0EFF950DC2A,,"","","","",gcc-98531
+gcc-148539,A,Compositae,,Reichardia,,"tingitana",var.,"tingitana","",Synonym,,L,TICA,87FF4564-36E7-4F7A-B0F0-44F56BA9B027,,"Bot. Abh. Beobacht. 35. 1787","","35","1787",gcc-98531
+gcc-56626,A,Compositae,,Reichardia,,"tingitana",subsp.,"tingitana","",Synonym,,L,TICA,D75D8FF0-5CEE-48D0-9CC5-7FF7D2F43FF4,,"","","","",gcc-98531

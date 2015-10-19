@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-46473,A,Compositae,,Lepidophyllum,,"abietinum",,"","(Phil.) Reiche",Synonym,,M,TICA,BB05C6E0-F842-46F3-80C5-561DBF3C8A42,138197-2,"","","26","1901",gcc-128974
+gcc-114480,A,Compositae,,Lepidophyllum,,"acaule",,"","Benth. & Hook.f. ex Hook.f. & A.B.Jacks.",Synonym,Illegitimate,M,TICA,E4CCAC80-73FD-4E9D-A1E4-B9F405071B5E,,"Index Kewensis 3:","","58","1894",gcc-78307
+gcc-144315,A,Compositae,,Lepidophyllum,,"acaule",,"","Benth. & Hook.f. ex B.D.Jacks.",Synonym,,L,TICA,7FA4477F-1636-4453-B84B-FDCF13565A6F,323786-2,"Index Kew. 2: 58. 1894 [27 Oct 1894]","","58","1894",gcc-102020
+gcc-85805,A,Compositae,,Lepidophyllum,,"acaule",,"","Benth. & Hook.f.",Unresolved,Illegitimate,L,TICA,9985EF9E-1A0C-4422-BF85-797791ABFBD5,,"Gen. ii. 259.","","","",
+gcc-7337,A,Compositae,,Lepidophyllum,,"cupressiforme",,"","(Lam.) Cass.",Accepted,,M,TICA,0F578B88-2F2D-4E04-B245-0DA6A533721A,,"in Dict. Sc. Nat. xxvi. 37.","","199","1816",
+gcc-128947,A,Compositae,,Lepidophyllum,,"cupressinum",,"","(Phil.) Kuntze",Synonym,,M,TICA,7B60E1F6-8551-4EDF-A5A0-DB2D79B19250,,"","","162","1898",gcc-79049
+gcc-17674,A,Compositae,,Lepidophyllum,,"lucidum",,"","(Meyen) Hieron.",Synonym,Illegitimate,M,TICA,AB26536A-E185-4253-8AD9-209E61F62A6A,,"Boletin de la Sociedad Argentina de Botanica 1:","","51","1945",gcc-128974
+gcc-99028,A,Compositae,,Lepidophyllum,,"lucidum",,"","(Meyen) Cabrera",Synonym,,M,TICA,CC239E97-99D7-46E0-8CCA-977039F740BC,138198-2,"","","51","1945",gcc-128974
+gcc-152708,A,Compositae,,Lepidophyllum,,"meyenii",,"","A.Gray",Synonym,,M,TICA,EFCA950A-F2FF-41DD-A0E1-9F3BA9CD473A,,"","","","",gcc-79049
+gcc-131056,A,Compositae,,Lepidophyllum,,"phylicaeforme",,"","(Meyen) Hieron.",Synonym,,M,TICA,2C27A904-3F1A-42EE-82FD-DFF6CC73927D,,"""Nova Acta Regiae Soc. Sci. Upsal. ser. 4, 1, no. 1: 77. 1905""","","77","1905",gcc-128974
+gcc-155416,A,Compositae,,Lepidophyllum,,"phylicaeforme",var.,"phylicaeforme","",Synonym,,L,TICA,AF5436B7-99FA-4B48-82CC-D7E0F3904CD1,,"","","","",gcc-128974
+gcc-155381,A,Compositae,,Lepidophyllum,,"phyliciforme",,"","(Meyen) Hieron. ex Fries",Synonym,,M,TICA,CCF751D7-5F96-461F-8F97-D7199EACE097,,"","","","",gcc-128974
+gcc-98733,A,Compositae,,Lepidophyllum,,"phyliciforme",,"","(Meyen) Hieron. ex R.E.Fr.",Synonym,,M,TICA,94517810-26D7-4B78-9731-96C1745F0E1C,,"""Nova Acta Regiae Soc. Sci. Upsal. ser. 4, 1(1): 77""","","77","1905",gcc-128974
+gcc-156791,A,Compositae,,Lepidophyllum,,"phyliciforme",var.,"phyliciforme","",Synonym,,L,TICA,5252C803-AF4C-4087-A638-F4509511080F,,"","","","",gcc-128974
+gcc-56916,A,Compositae,,Lepidophyllum,,"phyliciforme",var.,"resinosum","(Walp. ex Walp.) S.F.Blake",Synonym,,L,TICA,0D387764-A4DF-41CC-89E9-8224152B1C69,138200-2,"","","326","1931",gcc-128974
+gcc-7172,A,Compositae,,Lepidophyllum,,"quadrangulare",,"","(Meyen) Benth. & Hook.f.",Synonym,,M,TICA,4D0C689B-41A1-4084-9813-0D58BB504566,229735-1,"Gen. ii. 258.","","258","1873",gcc-79049
+gcc-134550,A,Compositae,,Lepidophyllum,,"rigidum",,"","(Wedd.) Benth. & Hook.f.",Synonym,,M,TICA,D1D6F552-E353-47B4-A23A-E80E74F77620,,"","","258","1873",gcc-128974
+gcc-26851,A,Compositae,,Lepidophyllum,,"rigidum",,"","A.Gray",Unresolved,,L,TICA,B2540BD0-9FAB-4DCC-9257-31A7CE2A7DB0,,"Proc. Amer. Acad. Arts v. (1862) 123.","","123","",
+tro-100358935,A,Brassicaceae,,Lepidophyllum,,"rupestre",,"","(Ten.) Trinajstic",Synonym,,M,TRO,100358935,,"","7: 11","11","1980",kew-2666581
+gcc-116632,A,Compositae,,Lepidophyllum,,"rupestre",,"","A.Gray",Unresolved,,L,TICA,CF479834-7789-4C2D-9707-BED6F0E9A3B8,,"Proc. Amer. Acad. Arts v. (1862) 123","","123","",
+gcc-109822,A,Compositae,,Lepidophyllum,,"teretiusculum",,"","Kuntze",Synonym,,M,TICA,13DAA9AF-B452-4361-93A4-AF89FDCE6E72,138201-2,"Revis. Gen. Pl. 3[3]: 162","","162","1898",gcc-102565
+gcc-14272,A,Compositae,,Lepidophyllum,,"tola",,"","Cabrera",Synonym,Illegitimate,M,TICA,E13BD872-B249-446A-82C4-1A7C4DD11791,138202-2,"","","56","1945",gcc-79049

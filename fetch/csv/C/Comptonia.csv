@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2733825,A,Myricaceae,,Comptonia,,"anderssonii",,"","Florin",Unresolved,,L,WCSP (in review),,585456-1,"Svensk Bot. Tidskr.","14: 240","","1920",
+tro-50149611,A,Myricaceae,,Comptonia,,"asplenifolia",,"","(L.) L'Hér. ex Aiton",Synonym,,M,TRO,50149611,,"Hort. Kew.","3: 334","334","1789",kew-2733828
+kew-2733826,A,Myricaceae,,Comptonia,,"aspleniifolia",,"","(L.) Banks ex Gaertn.",Synonym,,M,WCSP (in review),,,"Fruct. Sem. Pl.","2: 58","","1790",kew-2733828
+kew-2733827,A,Myricaceae,,Comptonia,,"ceterach",,"","Mirb.",Synonym,,M,WCSP (in review),,585459-1,"Traité Arbr. Arbust.","nouv. ed., 2: t. 11","","1804",kew-2733828
+kew-2733828,A,Myricaceae,,Comptonia,,"peregrina",,"","(L.) Coult.",Accepted,,M,WCSP (in review),,,"Mem. Torrey Bot. Club","5: 127","","1894",
+kew-2733829,A,Myricaceae,,Comptonia,,"peregrina",var.,"asplenifolia","(L.) Fernald",Synonym,,L,WCSP (in review),,64015-2,"Rhodora","40: 410","","1938",kew-2733828
+tro-21700074,A,Myricaceae,,Comptonia,,"peregrina",var.,"peregrina","",Synonym,,L,TRO,21700074,,"","","","",kew-2733828
+kew-2733830,A,Myricaceae,,Comptonia,,"peregrina",var.,"tomentosa","A.Chev.",Synonym,,L,WCSP (in review),,64016-2,"Mém. Soc. Sci. Nat. Cherbourg","32: 196","","1901",kew-2733828

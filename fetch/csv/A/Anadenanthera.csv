@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-15863,A,Leguminosae,,Anadenanthera,,"colubrina",,"","(Vell.) Brenan",Accepted,,H,ILDIS,15863,,"","","","",
+ild-33897,A,Leguminosae,,Anadenanthera,,"colubrina",var.,"cebil","(Griseb.) Altschul",Accepted,,L,ILDIS,33897,1147895-2,"","","","",
+ild-29048,A,Leguminosae,,Anadenanthera,,"colubrina",var.,"colubrina","",Synonym,,L,ILDIS,29048,,"","","","",ild-15863
+ild-27735,A,Leguminosae,,Anadenanthera,,"falcata",,"","(Benth.) Speg.",Synonym,,H,ILDIS,27735,1036865-2,"","","","",ild-33081
+ild-29358,A,Leguminosae,,Anadenanthera,,"macrocarpa",,"","(Benth.) Brenan",Synonym,,H,ILDIS,29358,,"","","","",ild-33897
+ild-15864,A,Leguminosae,,Anadenanthera,,"peregrina",,"","(L.) Speg.",Accepted,,H,ILDIS,15864,1079624-2,"","","","",
+ild-33081,A,Leguminosae,,Anadenanthera,,"peregrina",var.,"falcata","(Benth.) Altschul",Accepted,,L,ILDIS,33081,,"","","","",
+ild-25747,A,Leguminosae,,Anadenanthera,,"peregrina",var.,"peregrina","",Synonym,,L,ILDIS,25747,,"","","","",ild-15864

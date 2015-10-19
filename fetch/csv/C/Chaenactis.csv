@@ -1,0 +1,115 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-27540,A,Compositae,,Chaenactis,,"achilleifolia",,"","Hook. & Arn.",Synonym,,L,TICA,0AD3AA71-6A7A-4B0E-A929-32E9DA027335,53835-2,"Bot. Beechey Voy.","","354","1839",gcc-142027
+gcc-145993,A,Compositae,,Chaenactis,,"achilleifolia",var.,"achilleifolia","",Synonym,,L,TICA,E238290C-84A1-4450-888F-0F62A53B47E8,,"","","","",gcc-142027
+gcc-59943,A,Compositae,,Chaenactis,,"achilleifolia",var.,"douglasii","A.Gray",Synonym,,L,TICA,E78417AD-3799-458F-9131-9A7F7233AF20,,"Proc. Acad. Nat. Sci. Philadelphia 1863","","66","",gcc-142027
+gcc-110673,A,Compositae,,Chaenactis,,"alpigena",,"","Sharsm.",Accepted,,M,TICA,8FE0C4A2-2613-47E5-A493-B173C2582639,,"Contr. Dudley Herb. 4","","","1955",
+gcc-86657,A,Compositae,,Chaenactis,,"alpina",,"","(A.Gray) M.E.Jones",Synonym,,M,TICA,77D81D33-CCF2-4D2F-8DFB-7B685FFC7447,,"""Proc. Calif. Acad. Sci. ser. 2, 5""","","699","1895",gcc-55453
+gcc-54434,A,Compositae,,Chaenactis,,"alpina",var.,"alpina","",Synonym,,L,TICA,BC3E4AF9-D7DF-41EC-8C37-6E1421C14BDF,,"","","","1940",gcc-55453
+gcc-60289,A,Compositae,,Chaenactis,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,700E631A-9290-426A-9869-9D33CC058CDD,,"","","","1915",gcc-55453
+gcc-59678,A,Compositae,,Chaenactis,,"alpina",var.,"leucopsis","(Greene) Cockerell ex Stockw.",Synonym,,L,TICA,55FF4364-7766-4FE2-84A2-9861AC6B504B,,"Contributions from the Dudley Herbarium 3(4):","","114","1940",gcc-55453
+gcc-2045,A,Compositae,,Chaenactis,,"alpina",var.,"rubella","(Greene) Stockw.",Synonym,,L,TICA,08A2CDFE-4752-4A52-90C6-03AD363E2344,53840-2,"Contr. Dudley Herb. 3","","114","1940",gcc-55453
+gcc-114711,A,Compositae,,Chaenactis,,"angustifolia",,"","Greene",Synonym,,L,TICA,4E8CF882-FD82-4FE1-B3D2-BA7ED54F7643,53841-2,"Leafl. Bot. Observ. Crit. 2","","223","1912",gcc-142027
+gcc-90292,A,Compositae,,Chaenactis,,"artemisiifolia",,"","(Harv. & A.Gray ex A.Gray) A.Gray",Accepted,,M,TICA,F942BBF2-DD80-4E9B-A885-83A4F4DE7242,,"","","74","1874",
+gcc-123976,A,Compositae,,Chaenactis,,"attenuata",,"","A.Gray",Synonym,,M,TICA,0D956AA1-FA8D-48AF-A63F-CFA6CA706AE9,,"","","73","",gcc-103959
+gcc-109828,A,Compositae,,Chaenactis,,"aurea",,"","Greene ex Rydb.",Unresolved,,L,TICA,2514879F-1B2A-4D10-B64B-AF8C9BF3009E,192221-1,"N. Amer. Fl. 34","","68","1914",
+gcc-95031,A,Compositae,,Chaenactis,,"aurea",,"","Greene",Unresolved,,L,TICA,3C6D92D5-E131-4089-99F9-8E60E5B37855,53843-2,"N. Amer. Fl. 34: 68. 1914","","68","1914",
+gcc-42586,A,Compositae,,Chaenactis,,"brachiata",,"","Greene",Synonym,,L,TICA,017F2F4B-B7B5-4661-880C-4EDEB40D7203,53844-2,"Leafl. Bot. Observ. Crit. 2","","224","1912",gcc-142027
+gcc-55370,A,Compositae,,Chaenactis,,"brachiata",var.,"brachiata","",Synonym,,L,TICA,EBA93D60-D3B1-4DBF-93C8-75657B31C6AE,,"","","","1940",gcc-142027
+gcc-54859,A,Compositae,,Chaenactis,,"brachiata",var.,"stansburiana","Stockw.",Synonym,,L,TICA,5ACB518A-1E24-441B-8BAB-716B357ED3AB,53845-2,"Contr. Dudley Herb. 3","","111","1940",gcc-142027
+gcc-99304,A,Compositae,,Chaenactis,,"brachypappa",,"","A.Gray",Synonym,,M,TICA,78AA6DC6-7C4C-4F4E-844A-98128528D5D5,192223-1,"","","390","1872",gcc-17564
+gcc-103959,A,Compositae,,Chaenactis,,"carphoclinia",,"","A.Gray",Accepted,,M,TICA,892C2209-DC6F-45BA-9007-A26E142836A6,,"","","94","1858",
+gcc-64744,A,Compositae,,Chaenactis,,"carphoclinia",var.,"attenuata","(A.Gray) M.E.Jones",Synonym,,L,TICA,A7BB3A5C-D889-452D-985C-C0D4EBD10840,,"","","699","1895",gcc-103959
+gcc-55699,A,Compositae,,Chaenactis,,"carphoclinia",var.,"carphoclinia","",Synonym,,L,TICA,72311B8A-0B42-4E70-9709-781EFD6A863C,,"","","","",gcc-103959
+gcc-69643,A,Compositae,,Chaenactis,,"carphoclinia",var.,"peirsonii","(Jeps.) Munz",Accepted,,L,TICA,891E5505-2754-4A74-BE09-E7E7A5F6EFBA,53848-2,"","","568","1935",
+gcc-122346,A,Compositae,,Chaenactis,,"carphodilia",,"","A.Gray",Unresolved,,L,TICA,9E6838F2-4ED7-48F8-A62B-CBCF9FB96CF4,,"","","","",
+gcc-123683,A,Compositae,,Chaenactis,,"cheilanthoides",,"","Greene",Synonym,,L,TICA,0C1B4466-B6DF-4F89-9F07-CEE427DC4211,53849-2,"Leafl. Bot. Observ. Crit. 2","","225","1912",gcc-142027
+gcc-139842,A,Compositae,,Chaenactis,,"cinerea",,"","Stockw.",Synonym,,L,TICA,624FC27D-343F-408E-A4FD-F39D2806DCC4,,"","","","1940",gcc-142027
+gcc-109254,A,Compositae,,Chaenactis,,"cusickii",,"","A.Gray",Accepted,,M,TICA,D7DC2413-4A09-43D2-B6BB-AE3E24A2F7AB,,"","","452","",
+gcc-13930,A,Compositae,,Chaenactis,,"denudata",,"","Nutt.",Synonym,Illegitimate,M,TICA,184457D2-3BB7-45DC-82D3-19DED3D9C6AD,,"","","21","1848",gcc-26941
+gcc-142027,A,Compositae,,Chaenactis,,"douglasii",,"","(Hook.) Hook. & Arn.",Accepted,,L,TICA,756D903B-7AC3-4AA0-AEDF-F8BDD9EA335F,192230-1,"","","354","1839",
+gcc-55162,A,Compositae,,Chaenactis,,"douglasii",var.,"achilleifolia","(Hook. & Arn.) A.Gray",Synonym,,L,TICA,0B8A83F7-B281-4427-8047-73CA19A8EDD4,53853-2,"Rep. Colorado R. (Ives) pt. 4: 17. 1861","","17","1861",gcc-142027
+gcc-58101,A,Compositae,,Chaenactis,,"douglasii",var.,"achilleifolia","(Hook. & Arn.) A.Nelson",Synonym,,L,TICA,52F060A6-9BD6-4309-BD87-8BD22517F331,53852-2,"","","557","1909",gcc-142027
+gcc-55453,A,Compositae,,Chaenactis,,"douglasii",var.,"alpina","A.Gray",Accepted,,L,TICA,C478E273-0633-43CB-8438-7616EC7A3396,274368-2,"Syn. Fl. N. Amer. 1(2)","","341","1884",
+gcc-50371,A,Compositae,,Chaenactis,,"douglasii",var.,"douglasii","",Synonym,,L,TICA,B58B3EBA-3286-4838-B78C-5D69DD3ABBE8,,"","","","",gcc-142027
+gcc-66731,A,Compositae,,Chaenactis,,"douglasii",var.,"glandulosa","Cronquist",Synonym,,L,TICA,B92E0CDE-7D90-45E9-A1CB-D12C60368902,53855-2,"Vasc. Pl. Pacific NorthW. 5","","122","1955",gcc-142027
+gcc-67476,A,Compositae,,Chaenactis,,"douglasii",var.,"montana","M.E.Jones",Synonym,,L,TICA,68A077F5-1D3A-4052-B66C-D788B3AB3BE2,311694-2,"","","700","1895",gcc-142027
+gcc-61602,A,Compositae,,Chaenactis,,"douglasii",var.,"nana","Stockw.",Synonym,,L,TICA,75B35EA5-C44C-421E-9167-A7ED94C310D4,53857-2,"Contr. Dudley Herb. 3","","117","1940",gcc-142027
+gcc-64467,A,Compositae,,Chaenactis,,"douglasii",var.,"ramosa","Stockw.",Synonym,,L,TICA,B9DF7622-A8B6-425E-B7E1-BEC82835E75B,,"","","","",gcc-142027
+gcc-43031,A,Compositae,,Chaenactis,,"douglasii",var.,"ramosior","Cronquist",Synonym,,L,TICA,89B0559B-D770-444F-A811-4FB365D97C00,53858-2,"Madroño 7","","81","1943",gcc-142027
+gcc-33046,A,Compositae,,Chaenactis,,"evermannii",,"","Greene",Accepted,,M,TICA,6D7837DC-6425-466C-A6D1-3D427DC221DC,53860-2,"Leafl. Bot. Observ. Crit. 2","","224","1912",
+gcc-101794,A,Compositae,,Chaenactis,,"filifolia",,"","Harv.",Synonym,,M,TICA,C57BBB21-3115-4E9E-AD9F-9D89A75CD2AA,,"","","98","1849",gcc-116656
+gcc-103979,A,Compositae,,Chaenactis,,"floribunda",,"","Greene",Synonym,,M,TICA,87AA3981-0A63-4274-8344-A27DA8424B7F,,"Pittonia 3","","","1897",gcc-35436
+gcc-105314,A,Compositae,,Chaenactis,,"fremontii",,"","A.Gray",Accepted,,M,TICA,2C159884-B34B-4C5C-A3D1-A55265CB6B06,192234-1,"","","30","1883",
+gcc-141266,A,Compositae,,Chaenactis,,"furcata",,"","Stockw.",Accepted,,M,TICA,DB11B8BD-A86A-4764-8E22-F6FFA3C4F4C4,,"Contr. Dudley Herb. 3","","","1940",
+gcc-5194,A,Compositae,,Chaenactis,,"gillespiei",,"","Stockw.",Synonym,,M,TICA,4C85BE8D-83A4-41E9-AB67-09B454D34C48,,"Contr. Dudley Herb. 3","","","1940",gcc-17564
+gcc-116656,A,Compositae,,Chaenactis,,"glabriuscula",,"","DC.",Accepted,,M,TICA,75BFD3D4-BF07-49EF-A245-BEEC3B105B95,192237-1,"","","659","1836",
+gcc-37657,A,Compositae,,Chaenactis,,"glabriuscula",var.,"aurea","(Greene ex Greene) Stockw.",Synonym,,L,TICA,1DDF6A30-4FDC-4F4D-A838-45CF6438E1E5,53865-2,"Contr. Dudley Herb. 3","","131","1940",gcc-116656
+gcc-123166,A,Compositae,,Chaenactis,,"glabriuscula",f.,"curta","H.M.Hall",Synonym,,L,TICA,C4991341-E425-4A2B-B206-CDB2978E12EB,,"","","","",gcc-116656
+gcc-59602,A,Compositae,,Chaenactis,,"glabriuscula",var.,"curta","(A.Gray) Jeps.",Synonym,,L,TICA,3288A388-2663-453F-AD33-97C751236CE3,53866-2,"","","1124","1925",gcc-116656
+gcc-9920,A,Compositae,,Chaenactis,,"glabriuscula",var.,"denudata","(Nutt.) Munz",Synonym,,L,TICA,2ECC690F-6742-4BA0-8ABC-12887C44945F,53867-2,"","","567","1935",gcc-26941
+gcc-53764,A,Compositae,,Chaenactis,,"glabriuscula",var.,"filifolia","(Harv. & A.Gray) Jeps.",Synonym,,L,TICA,816E7913-42C4-4A30-BA3D-68B5607B9320,53868-2,"","","1124","1925",gcc-53355
+gcc-73783,A,Compositae,,Chaenactis,,"glabriuscula",f.,"filifolia","(A.Gray) H.M.Hall",Synonym,,L,TICA,C6022D83-23A8-4CFC-B2C0-26F8C0D6758B,293077-2,"","","191","1907",gcc-116656
+gcc-154894,A,Compositae,,Chaenactis,,"glabriuscula",f.,"glabriuscula","",Synonym,,L,TICA,C7FFBD2C-162C-4B72-858A-CCD6B4698060,,"","","","",gcc-116656
+gcc-47455,A,Compositae,,Chaenactis,,"glabriuscula",var.,"glabriuscula","",Synonym,,L,TICA,F5212DD5-2978-40FB-8345-57EB06399B30,,"","","","",gcc-116656
+gcc-41506,A,Compositae,,Chaenactis,,"glabriuscula",var.,"gracilenta","(Greene) D.D.Keck",Synonym,,L,TICA,7543E46B-A07C-4D93-9B78-4CDE35ACAE17,53869-2,"Aliso 4","","101","1958",gcc-53355
+gcc-53355,A,Compositae,,Chaenactis,,"glabriuscula",var.,"heterocarpha","(Torr. & A.Gray ex A.Gray) H.M.Hall",Accepted,,L,TICA,EFE28D9A-11A2-4A39-952B-659343FDE54C,53870-2,"","","190","1907",
+gcc-26941,A,Compositae,,Chaenactis,,"glabriuscula",var.,"lanosa","(DC.) H.M.Hall",Accepted,,L,TICA,EF376AA0-D1B1-41E9-8B3F-31D095624E9E,53871-2,"","","192","1907",
+gcc-8722,A,Compositae,,Chaenactis,,"glabriuscula",var.,"megacephala","A.Gray",Accepted,,L,TICA,EE9638CB-E325-4DB9-A7FA-104E0981A6CE,53872-2,"","","104","1857",
+gcc-66767,A,Compositae,,Chaenactis,,"glabriuscula",var.,"orcuttiana","(Greene) H.M.Hall",Accepted,,L,TICA,66F050FB-A9D3-42A0-8C91-D18F6A3DBBF3,53873-2,"","","192","1907",
+gcc-1196,A,Compositae,,Chaenactis,,"glabriuscula",var.,"tenuifolia","(Nutt.) H.M.Hall",Synonym,,L,TICA,7A9E70FB-F043-4652-99A9-022F069DD4D4,53874-2,"","","191","1907",gcc-116656
+gcc-142064,A,Compositae,,Chaenactis,,"gracilenta",,"","Greene",Synonym,,M,TICA,27DDEA95-E25A-4779-B902-F8CE84C13AF6,53875-2,"Fl. Francisc.","","447","1897",gcc-53355
+gcc-79088,A,Compositae,,Chaenactis,,"heterocarpha",,"","Torr. & A.Gray ex A.Gray",Synonym,,M,TICA,AFA39693-E15E-446C-AAA3-6AADFF8B5D52,192239-1,"","","98","1849",gcc-53355
+gcc-56641,A,Compositae,,Chaenactis,,"heterocarpha",var.,"curta","(H.M.Hall) A.Gray",Synonym,,L,TICA,9EB775DA-5BD5-4405-89C8-8010C37882F5,53877-2,"","","452","1886",gcc-116656
+gcc-64648,A,Compositae,,Chaenactis,,"heterocarpha",var.,"heterocarpha","",Synonym,,L,TICA,6428F61A-19D5-44A3-BFFC-C01D5FFD5614,,"","","","1940",gcc-53355
+gcc-51000,A,Compositae,,Chaenactis,,"heterocarpha",var.,"megacephala","(A.Gray) Stockw.",Synonym,,L,TICA,DCDBA4B4-86B8-442F-85C5-5EA09CE44B98,53878-2,"Contr. Dudley Herb. 3","","123","1940",gcc-8722
+gcc-3335,A,Compositae,,Chaenactis,,"heterocarpha",var.,"tanacetifolia","(A.Gray) A.Gray",Synonym,,L,TICA,958D34CF-94F5-4D35-ADCA-06295CA2B6C2,53879-2,"Proc. Amer. Acad. Arts 10","","73","1874",gcc-53355
+gcc-97071,A,Compositae,,Chaenactis,,"humilis",,"","Rydb.",Synonym,,L,TICA,36BD8260-A0B9-4944-81DF-9306AE8E52B1,53880-2,"N. Amer. Fl. 34","","72","1914",gcc-142027
+gcc-93874,A,Compositae,,Chaenactis,,"imbricata",,"","Greene",Synonym,,L,TICA,B450BC29-9620-41FB-B42C-8BAE762CB0AF,53881-2,"Leafl. Bot. Observ. Crit. 2","","222","1912",gcc-142027
+gcc-143571,A,Compositae,,Chaenactis,,"lacera",,"","Greene",Accepted,,M,TICA,80C518DF-7A26-4391-AF22-FC36DD64B350,53882-2,"Pittonia 1","","291","1889",
+gcc-14387,A,Compositae,,Chaenactis,,"lanosa",,"","DC.",Synonym,,M,TICA,11369491-DD2C-48B5-A484-1AB4877F2ADA,192243-1,"","","659","1836",gcc-26941
+gcc-24770,A,Compositae,,Chaenactis,,"lanosa",var.,"denudata","(Nutt.) Hoover",Synonym,,L,TICA,2D3DA776-C67F-4B07-924A-2DC4E578B3B5,1060833-2,"","","294","1970",gcc-26941
+gcc-147606,A,Compositae,,Chaenactis,,"lanosa",var.,"lanosa","",Synonym,,L,TICA,11BCA58C-163E-4410-B1DF-31036AD0AD53,,"","","","",gcc-26941
+gcc-4151,A,Compositae,,Chaenactis,,"latifolia",,"","Stockw.",Synonym,,M,TICA,35D9AFAE-B5CC-48BD-9E26-07B9491B4EFB,,"Contr. Dudley Herb. 3","","","1940",gcc-17564
+gcc-120190,A,Compositae,,Chaenactis,,"leucopsis",,"","Greene",Synonym,,M,TICA,17000784-F69B-411E-B3F2-C6EB1A35A558,53885-2,"Leafl. Bot. Observ. Crit. 2","","221","1912",gcc-55453
+gcc-106782,A,Compositae,,Chaenactis,,"macrantha",,"","Eaton",Accepted,,L,TICA,7A839C28-BCAA-4167-93AE-A89AA0938AC1,,"","","","1871",
+gcc-112628,A,Compositae,,Chaenactis,,"mainsiana",,"","A.Nelson & J.F.Macbr.",Synonym,,M,TICA,7F25F409-F00B-41AF-8413-B5DC10917935,53886-2,"Bot. Gaz. 56","","477","1913",gcc-33046
+gcc-40264,A,Compositae,,Chaenactis,,"mexicana",,"","Stockw.",Synonym,,M,TICA,98654B25-4878-440D-A4FD-4AA70D151432,,"Contr. Dudley Herb. 3","","","1940",gcc-17564
+gcc-20260,A,Compositae,,Chaenactis,,"minuscula",,"","Greene",Synonym,,M,TICA,58450B4A-F367-44B3-83A5-2574145FE807,53888-2,"Leafl. Bot. Observ. Crit. 2","","223","1912",gcc-55453
+gcc-101692,A,Compositae,,Chaenactis,,"nevadensis",,"","(Kellogg) A.Gray",Accepted,,M,TICA,AD9D7C3F-814E-4730-A43E-9D54DA60523E,,"","","391","1876",
+gcc-58835,A,Compositae,,Chaenactis,,"nevadensis",var.,"mainsiana","(A.Nelson & J.F.Macbr.) Stockw.",Synonym,,L,TICA,AE916F93-A767-4757-BCC0-91D9722A1ADA,53889-2,"Contr. Dudley Herb. 3","","112","1940",gcc-33046
+gcc-57435,A,Compositae,,Chaenactis,,"nevadensis",var.,"nevadensis","",Synonym,,L,TICA,C5860D6F-0112-4159-8930-864AC149FEBA,,"","","","1940",gcc-101692
+gcc-23246,A,Compositae,,Chaenactis,,"nevii",,"","A.Gray",Accepted,,M,TICA,BAF8DD2D-8971-426D-A520-2B05B6155C8E,192251-1,"","","30","1883",
+gcc-29006,A,Compositae,,Chaenactis,,"orcuttiana",,"","(Greene) Parish",Synonym,,M,TICA,C82D5505-EAC5-42D1-8D82-359B58EDE2FD,53890-2,"Erythea 6: 92. 1898","","92","1898",gcc-66767
+gcc-29105,A,Compositae,,Chaenactis,,"orcuttiana",,"","(Greene) Fernald",Synonym,,M,TICA,DA0E82FF-898D-467C-9B6E-35CCFC707E95,192252-1,"","","","1898",gcc-66767
+gcc-75945,A,Compositae,,Chaenactis,,"paleolifera",,"","A.Nelson",Synonym,,M,TICA,27FDA6F3-5087-4DFC-88EF-6390BC0FF812,53891-2,"Bot. Gaz. 47","","434","1909",gcc-103959
+gcc-98014,A,Compositae,,Chaenactis,,"panamintensis",,"","Stockw.",Synonym,,M,TICA,8F42A620-6B94-44D9-BE26-952C2E764784,,"Contr. Dudley Herb. 3","","","1940",gcc-55453
+gcc-122292,A,Compositae,,Chaenactis,,"parishii",,"","A.Gray",Accepted,,M,TICA,97C6C19A-1666-448B-BF3D-CBAF06F3ADBD,192255-1,"","","299","1885",
+gcc-45047,A,Compositae,,Chaenactis,,"pedicularia",,"","Greene",Synonym,,L,TICA,AB352FEB-A62B-4099-B959-537A52D4DDC3,53893-2,"Pittonia 4","","98","1899",gcc-142027
+gcc-23165,A,Compositae,,Chaenactis,,"peirsonii",,"","Jeps.",Synonym,,M,TICA,F23B986B-561F-4FF1-9C3E-2AE3DC699249,53894-2,"Madroño 1","","259","1929",gcc-69643
+gcc-119640,A,Compositae,,Chaenactis,,"pumila",,"","Greene",Synonym,,L,TICA,7A967614-F2F9-447B-AB36-C5A28091AA82,53895-2,"Leafl. Bot. Observ. Crit. 2","","221","1912",gcc-142027
+gcc-80747,A,Compositae,,Chaenactis,,"ramosa",,"","Stockw.",Synonym,,L,TICA,C27D2E96-073A-46BF-A8D5-6E3FBD34E3A5,,"Contr. Dudley Herb. 3","","","1940",gcc-142027
+gcc-84529,A,Compositae,,Chaenactis,,"rubella",,"","Greene",Synonym,,M,TICA,0130831C-DBBD-4888-AF18-76C0B370D586,53897-2,"Leafl. Bot. Observ. Crit. 2","","222","1912",gcc-55453
+gcc-75963,A,Compositae,,Chaenactis,,"rubricaulis",,"","Rydb.",Synonym,,L,TICA,EC5E65FB-FB12-4821-A07A-6398686BA785,53898-2,"N. Amer. Fl. 34","","72","1914",gcc-142027
+gcc-102191,A,Compositae,,Chaenactis,,"santolinoides",,"","Greene",Accepted,,M,TICA,2C518DAF-3CDD-4340-A18B-9E836D431ED3,192262-1,"","","17","1882",
+gcc-68889,A,Compositae,,Chaenactis,,"santolinoides",var.,"indurata","Stockw.",Synonym,,L,TICA,E94AA4A5-03D6-4ED7-8CB7-E239A9B68B4C,53899-2,"Contr. Dudley Herb. 3","","107","1940",gcc-102191
+gcc-66177,A,Compositae,,Chaenactis,,"santolinoides",var.,"santolinoides","",Synonym,,L,TICA,C47372DC-19EA-414D-8F49-CCA82D837C54,,"","","","1940",gcc-102191
+gcc-126869,A,Compositae,,Chaenactis,,"scaposa",,"","Eastw.",Synonym,,M,TICA,B26BFDE3-9968-4B0C-A05C-D64AB6F6B879,53900-2,"Zoe 2","","231","1891",gcc-122402
+gcc-17564,A,Compositae,,Chaenactis,,"stevioides",,"","Hook. & Arn.",Accepted,,M,TICA,BBA4AB8B-2520-48D6-A9F4-206B98D753CC,192264-1,"","","353","1839",
+gcc-24213,A,Compositae,,Chaenactis,,"stevioides",var.,"brachypappa","(A.Gray) H.M.Hall",Synonym,,L,TICA,17F2B223-0964-4F29-A32B-2CB7ED761A26,53901-2,"","","194","1907",gcc-17564
+gcc-16807,A,Compositae,,Chaenactis,,"stevioides",var.,"stevioides","",Synonym,,L,TICA,B44B9191-56D1-47D6-A765-1F0BC638CFD8,,"","","","",gcc-17564
+gcc-63424,A,Compositae,,Chaenactis,,"stevioides",var.,"thornberi","Stockw.",Synonym,,L,TICA,C187A1C8-F7FF-4A6D-81A5-B6C90968DCDF,53902-2,"Contr. Dudley Herb. 3","","128","1940",gcc-17564
+gcc-76278,A,Compositae,,Chaenactis,,"suffrutescens",,"","A.Gray",Accepted,,M,TICA,FEC860AE-0560-4C13-90AB-6459FE89252D,,"","","100","",
+gcc-67668,A,Compositae,,Chaenactis,,"suffrutescens",var.,"incana","Stockw.",Synonym,,L,TICA,5DC0CB8E-F86A-4424-B6F6-D9049560DFF9,53903-2,"Contr. Dudley Herb. 3","","108","1940",gcc-76278
+gcc-23599,A,Compositae,,Chaenactis,,"suffrutescens",var.,"suffrutescens","",Synonym,,L,TICA,11835DD7-6C61-4E16-98B2-2BA18CE22509,,"","","","",gcc-76278
+gcc-94615,A,Compositae,,Chaenactis,,"suksdorfii",,"","Stockw.",Synonym,,L,TICA,28EF5F03-F082-462C-9096-8D67F24261B3,,"Contr. Dudley Herb. 3","","","1940",gcc-142027
+gcc-133628,A,Compositae,,Chaenactis,,"tanacetifolia",,"","A.Gray",Synonym,,M,TICA,03245C88-40AA-45FB-8E9A-E5EE524ADFE8,,"","","545","1865",gcc-53355
+gcc-56286,A,Compositae,,Chaenactis,,"tanacetifolia",var.,"gracilenta","(Greene) Stockw.",Synonym,,L,TICA,260C76E7-9213-4182-9FDE-7D36A5DA8209,53906-2,"Contr. Dudley Herb. 3","","124","1940",gcc-53355
+gcc-60979,A,Compositae,,Chaenactis,,"tanacetifolia",var.,"tanacetifolia","",Synonym,,L,TICA,0E7EDFCA-942E-416D-BDAB-A2C6CEB667F9,,"","","","1940",gcc-53355
+gcc-118192,A,Compositae,,Chaenactis,,"tenuifolia",,"","Nutt.",Synonym,,M,TICA,E25EEA5E-AD63-45D2-8C28-C25F1C17C383,,"","","375","1841",gcc-116656
+gcc-62444,A,Compositae,,Chaenactis,,"tenuifolia",var.,"orcuttiana","Greene",Synonym,,L,TICA,AAB46947-BEBE-4426-8A23-AED064BCEF2D,53908-2,"W. Amer. Sci. 3","","157","1887",gcc-66767
+gcc-55777,A,Compositae,,Chaenactis,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,9EA7A42E-1455-4525-BFF8-78C3C755A0DE,,"","","","",gcc-116656
+gcc-103330,A,Compositae,,Chaenactis,,"thompsonii",,"","Cronquist",Accepted,,M,TICA,BCF67F90-5486-4F83-AC04-A1094525A8CC,53909-2,"","","123","1955",
+gcc-90519,A,Compositae,,Chaenactis,,"thysanocarpha",,"","A.Gray",Synonym,,M,TICA,71FD8482-9264-4664-8FEC-8437E7598DD2,192270-1,"","","30","1883",gcc-132707
+gcc-35436,A,Compositae,,Chaenactis,,"xantiana",,"","A.Gray",Accepted,,M,TICA,90FD1FEB-5D2D-4B3D-845E-41AE7B187D45,192271-1,"","","545","1865",
+gcc-70885,A,Compositae,,Chaenactis,,"xantiana",var.,"integrifolia","A.Gray",Synonym,,L,TICA,53E681E2-A477-490D-96E5-F1B8C79C57D0,53911-2,"Proc. Amer. Acad. Arts 6","","545","1865",gcc-35436
+gcc-153016,A,Compositae,,Chaenactis,,"xantiana",var.,"xantiana","",Synonym,,L,TICA,0C95557D-B3A3-4E1E-BF3A-A588CF2F900A,,"","","","",gcc-35436

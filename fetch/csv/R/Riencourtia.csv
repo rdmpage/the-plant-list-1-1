@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136992,A,Compositae,,Riencourtia,,"angustifolia",,"","Gardner",Synonym,,M,TICA,5920BEB5-29C3-4D47-B5D8-ED742A28781E,241486-1,"London J. Bot. 7: 287 (1848).","","287","1848",gcc-93790
+gcc-7939,A,Compositae,,Riencourtia,,"angustifolia",,"","Glaz.",Unresolved,,L,TICA,CC6FE926-1827-4566-82CA-0EC459A7A45C,221377-2,"Bull. Soc. Bot. France 57(Mém. 3e)","","408","1910",
+gcc-132519,A,Compositae,,Riencourtia,,"glomerata",,"","Cass.",Synonym,,M,TICA,439D8341-B916-4ED5-8568-E3711EB0DAC2,,"in Dict. Sci. Nat. xlv. 468.","","","1826",gcc-128526
+gcc-121017,A,Compositae,,Riencourtia,,"latifolia",,"","Gardner",Accepted,,M,TICA,D5FD5F55-3DA6-42E8-AF24-C8DD40804710,241489-1,"London J. Bot. 7: 286 (1848).","","286","1848",
+gcc-121526,A,Compositae,,Riencourtia,,"longifolia",,"","Baker",Accepted,,M,TICA,680B9FF6-61BC-4D81-AC4D-C9FC8663204B,,"Fl. Bras. (Martius) 6(3): 144","","144","",
+gcc-93790,A,Compositae,,Riencourtia,,"oblongifolia",,"","Gardner",Accepted,,M,TICA,9B23D21D-1572-4B46-8BB5-8B7400A54312,241491-1,"London J. Bot. 7: 287 (1848).","","287","1848",
+gcc-156750,A,Compositae,,Riencourtia,,"oblongifolia",var.,"oblongifolia","",Synonym,,L,TICA,A1759107-B3AA-4CD9-95DC-F387FB95BAC9,,"","","","",gcc-93790
+gcc-107256,A,Compositae,,Riencourtia,,"ovata",,"","S.F.Blake",Synonym,,M,TICA,18C33E34-62C3-4F06-982F-A9AA41353593,221379-2,"""Contr. U. S. Natl. Herb. 20: 535, pl. 44. 1924""","","""535, pl. 44""","1924",gcc-121017
+gcc-128526,A,Compositae,,Riencourtia,,"pedunculosa",,"","(Rich.) Pruski",Accepted,,M,TICA,D631F84B-D66C-40EA-AC98-DA3601475365,1123736-2,"","","478","1998",
+gcc-144398,A,Compositae,,Riencourtia,,"pittieri",,"","S.F.Blake",Synonym,,M,TICA,DCBE4E8B-5DB3-4BF0-B492-FDFBB92E2FF1,221380-2,"J. Wash. Acad. Sci. 14: 455. 1924","","455","1924",gcc-121017
+gcc-14825,A,Compositae,,Riencourtia,,"spiculifera",,"","Cass.",Unresolved,,L,TICA,F9908488-53F6-42A4-869D-1B7A8AFCE9F4,241494-1,"","","xlv. 467","",
+gcc-133757,A,Compositae,,Riencourtia,,"tenuifolia",,"","Sch.Bip. ex Gardner",Accepted,,M,TICA,F1343552-42BF-4415-9F0C-E63D91EBAEB8,,"","","","1848",
+gcc-156547,A,Compositae,,Riencourtia,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,F57F2CEF-1A18-451B-AC7E-EF90DDDDF61C,,"","","","",gcc-133757

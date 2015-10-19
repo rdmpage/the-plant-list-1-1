@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-413912,A,Poaceae,,Erioneuron,,"avenaceum",,"","(Humb., Bonpl. & Kunth) Tateoka",Accepted,,H,WCSP,413912,95643-2,"Amer. J. Bot.","48: 572","","1961",
+tro-25537162,A,Poaceae,,Erioneuron,,"avenaceum",var.,"avenaceum","",Synonym,,L,TRO,25537162,,"","","","",kew-413912
+kew-413913,A,Poaceae,,Erioneuron,,"avenaceum",var.,"cabrerae","(Caro) E.A.Sánchez",Synonym,,L,WCSP,413913,1218624-2,"Lilloa","36: 115","","1983",kew-413912
+kew-413914,A,Poaceae,,Erioneuron,,"avenaceum",var.,"grandiflorum","(Vasey) Gould",Accepted,,L,WCSP,413914,95644-2,"Brittonia","26: 60","","1974",
+kew-413915,A,Poaceae,,Erioneuron,,"avenaceum",var.,"kurtzianum","(Parodi) Anton",Synonym,,L,WCSP,413915,951798-1,"Kurtziana","10: 62","","1977",kew-413923
+kew-413916,A,Poaceae,,Erioneuron,,"avenaceum",var.,"longiaristatum","(Kurtz) Beetle",Synonym,,L,WCSP,413916,919894-1,"Phytologia","49: 39","","1981",kew-413923
+kew-413917,A,Poaceae,,Erioneuron,,"avenaceum",var.,"longiglume","(Parodi) Anton",Synonym,,L,WCSP,413917,951800-1,"Kurtziana","10: 65","","1977",kew-413923
+kew-413918,A,Poaceae,,Erioneuron,,"avenaceum",var.,"nealleyi","(Vasey) Gould",Accepted,,L,WCSP,413918,95648-2,"Brittonia","26: 60","","1974",
+kew-413919,A,Poaceae,,Erioneuron,,"avenaceum",var.,"pygmaeum","(Hack.) Anton",Synonym,,L,WCSP,413919,951799-1,"Kurtziana","10: 63","","1977",kew-413923
+kew-413920,A,Poaceae,,Erioneuron,,"grandiflorum",,"","(Vasey) Tateoka",Synonym,,H,WCSP,413920,95650-2,"Amer. J. Bot.","48: 572","","1961",kew-413914
+kew-413921,A,Poaceae,,Erioneuron,,"nealleyi",,"","(Vasey) Tateoka",Synonym,,H,WCSP,413921,95651-2,"Amer. J. Bot.","48: 572","","1961",kew-413918
+kew-413922,A,Poaceae,,Erioneuron,,"nealleyi",var.,"grandiflorum","(Vasey) Beetle",Synonym,,L,WCSP,413922,95652-2,"Phytologia","27: 442","","1974",kew-413914
+kew-413923,A,Poaceae,,Erioneuron,,"pilosum",,"","(Buckley) Nash",Accepted,,H,WCSP,413923,95653-2,"Fl. S.E. U.S.","144","","1903",
+kew-413924,A,Poaceae,,Erioneuron,,"pilosum",var.,"argentinum","(Kuntze) Nicora",Synonym,,L,WCSP,413924,95654-2,"Darwiniana","18: 104","","1973",kew-413923
+kew-413925,A,Poaceae,,Erioneuron,,"pilosum",var.,"aristiglume","(Caro) E.A.Sánchez",Synonym,,L,WCSP,413925,,"Lilloa","36: 135","","1983",kew-413923
+tro-25556815,A,Poaceae,,Erioneuron,,"pilosum",var.,"aristiglumis","(Caro) E.A. Sánchez",Synonym,,L,TRO,25556815,1146947-2,"Lilloa","36: 135","135","1983",kew-413923
+kew-413926,A,Poaceae,,Erioneuron,,"pilosum",var.,"longiaristatum","(Kurtz) Anton",Synonym,,L,WCSP,413926,95655-2,"Kurtziana","10: 58","","1977",kew-413923
+kew-413927,A,Poaceae,,Erioneuron,,"pilosum",var.,"mendocinum","(Parodi) Nicora",Synonym,,L,WCSP,413927,95656-2,"Darwiniana","18: 104","","1973",kew-413923
+kew-413928,A,Poaceae,,Erioneuron,,"pilosum",var.,"parodianum","E.A.Sánchez",Synonym,,L,WCSP,413928,95657-2,"Darwiniana","22: 171","","1979",kew-413923
+tro-50113353,A,Poaceae,,Erioneuron,,"pilosum",var.,"pilosum","",Synonym,,L,TRO,50113353,,"","","","",kew-413923
+kew-413929,A,Poaceae,,Erioneuron,,"pulchellum",,"","(Kunth) Tateoka",Accepted,,H,WCSP,413929,95658-2,"Amer. J. Bot.","48: 572","","1961",

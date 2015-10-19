@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-78716,A,Compositae,,Dubyaea,,"amoena",,"","(Hand.-Mazz.) Stebbins",Accepted,,M,TICA,03657AB1-183F-4B52-9D13-69C4B6E77C35,202218-1,"","","17","1937",
+gcc-144304,A,Compositae,,Dubyaea,,"atropurpurea",,"","(Franch.) Stebbins",Accepted,,M,TICA,BD420963-12F3-4550-880C-FDCAC5DEB3C1,202219-1,"","","51","1937",
+gcc-138364,A,Compositae,,Dubyaea,,"bhotanica",,"","(Hutch.) C.Shih",Synonym,,M,TICA,25967D1B-ED39-4844-8071-F06A87137615,974871-1,"","","436","1993",gcc-158
+tro-100377492,A,Compositae,,Dubyaea,,"blinii",,"","(H. Lév.) N. Kilian",Accepted,,M,TRO,100377492,77117969-1,"Fl. China","20–21: 336","336","2011",
+gcc-107948,A,Compositae,,Dubyaea,,"chimiliensis",,"","(W.W.Sm.) Stebbins",Accepted,,M,TICA,0E5358C2-5AE5-4021-B341-AB3E6A2775DC,202220-1,"","","22","1940",
+gcc-145220,A,Compositae,,Dubyaea,,"cristulata",,"","DC.",Accepted,,M,TICA,DC145F27-FA2B-4BA6-B317-FFF1DD346B1D,202221-1,"","","247","1838",
+gcc-143824,A,Compositae,,Dubyaea,,"cymiformis",,"","C.Shih",Accepted,,M,TICA,BF469631-F3E5-43CC-883A-FCBD7ED53E47,974874-1,"","","439","1993",
+gcc-136377,A,Compositae,,Dubyaea,,"emeiensis",,"","C.Shih",Accepted,,M,TICA,D6F3D26C-92CB-40D8-BD84-EC18EB625205,,"","","191","1995",
+gcc-153163,A,Compositae,,Dubyaea,,"forrestii",,"","Mamgain & R.R.Rao",Accepted,,M,TICA,96E0D657-B9E4-4C26-9164-A885D5183563,,"Mamgain & R. R. Rao in Edinburgh J. Bot. 65. 2008","","1","2008",
+gcc-126744,A,Compositae,,Dubyaea,,"glaucescens",,"","Stebbins",Accepted,,M,TICA,0AF4D629-30F4-4671-A0F3-D5FDEA76B5CE,202222-1,"","","16","1940",
+gcc-5437,A,Compositae,,Dubyaea,,"gombalana",,"","(Hand.-Mazz.) Stebbins",Accepted,,M,TICA,753BCE5A-7CA6-43BA-903C-0A22C3C21A88,202223-1,"","","17","1937",
+gcc-18252,A,Compositae,,Dubyaea,,"grandis",,"","Hand.-Mazz.",Synonym,,M,TICA,099F306C-37E1-4A96-92E3-21BDB4FFBFE6,202224-1,"Oesterr. Bot. Z. 90","","126","1941",gcc-126744
+gcc-158,A,Compositae,,Dubyaea,,"hispida",,"","(D.Don) DC.",Accepted,,M,TICA,8F4B7B77-8151-4456-8B2B-004A7EC2D54A,,"","","247","1838",
+gcc-137443,A,Compositae,,Dubyaea,,"jinyangensis",,"","C.Shih",Accepted,,M,TICA,5670F083-47EF-4D61-8B5A-EE79F210079A,974875-1,"","","441","1993",
+gcc-45194,A,Compositae,,Dubyaea,,"lanceolata",,"","C.Shih",Synonym,,M,TICA,60730BF1-439E-4FCE-A218-53C227582644,974870-1,"","","435","1993",gcc-158
+kew-2778853,A,Lythraceae,,Dubyaea,,"melastomoides",,"","DC.",Synonym,,M,WCSP (in review),,,"Prodr.","3: 94 f","","1828",kew-2771544
+gcc-114578,A,Compositae,,Dubyaea,,"muliensis",,"","C.Shih",Accepted,,M,TICA,5014F25E-1B85-4855-BBDE-BA2DBDF82F66,974872-1,"","","437","1993",
+gcc-84528,A,Compositae,,Dubyaea,,"oligocephala",,"","(Sch.Bip.) Stebbins",Accepted,,M,TICA,2ACA874D-CB95-45B4-ADBB-76C046E5F7AD,202226-1,"","","17","1937",
+gcc-146064,A,Compositae,,Dubyaea,,"oligocephala",var.,"oligocephala","",Synonym,,L,TICA,014677B8-CBE9-4369-BF3C-10B2A12A536B,,"","","","",gcc-84528
+gcc-146842,A,Compositae,,Dubyaea,,"oligocephala",subsp.,"oligocephala","",Synonym,,L,TICA,9ADAC8CD-FBAD-4EAC-8E74-20B430C4120A,,"J. Bot. 75: 17. 1937","","17","1937",gcc-84528
+gcc-98236,A,Compositae,,Dubyaea,,"omeiensis",,"","C.Shih",Unresolved,,L,TICA,649BA0A5-FF5B-4B2B-A2B7-95AA30A6CA47,,"Acta Phytotaxonomica Sinica 33:","","191","1995",
+gcc-79216,A,Compositae,,Dubyaea,,"panduriformis",,"","C.Shih",Accepted,,M,TICA,657E0A6F-6CE3-44BF-862F-6AF2147C9EE0,974873-1,"","","438","1993",
+gcc-115455,A,Compositae,,Dubyaea,,"pteropoda",,"","C.Shih",Synonym,,M,TICA,691155B6-2E7C-458E-AF9F-BC304E103E51,974869-1,"","","433","1993",gcc-158
+gcc-131579,A,Compositae,,Dubyaea,,"ramosissima",,"","Hance ex Walp.",Synonym,,M,TICA,57258F9E-283F-4DE2-B1EE-E13B4ADE2E59,,"","","","1852",gcc-30135
+gcc-138840,A,Compositae,,Dubyaea,,"rubra",,"","Stebbins",Accepted,,M,TICA,9F622316-040E-4FF1-BDB1-F177979205EA,202228-1,"","","17","1940",
+gcc-101804,A,Compositae,,Dubyaea,,"sonchoidea",,"","(D.Don) DC.",Synonym,,M,TICA,B2C0C733-DAE6-4367-A9D5-9D961DB6EB6E,202229-1,"","","247","1838",gcc-156418
+gcc-78872,A,Compositae,,Dubyaea,,"stebbinsii",,"","Ludlow",Accepted,,M,TICA,17595E16-F3C5-4701-AEAF-6A2BE68BDF10,202230-1,"","","74","1956",
+gcc-111283,A,Compositae,,Dubyaea,,"tsarongensis",,"","(W.W.Sm.) Stebbins",Accepted,,M,TICA,C97E8C2A-96F3-4086-AE16-B2C3170E167E,202231-1,"","","17","1937",
+gcc-22354,A,Compositae,,Dubyaea,,"tsarongensis",subsp.,"chimiliensis","(W.W.Sm.) Stebbins",Synonym,,L,TICA,282E1AA5-5E19-4083-A704-295D11F3A07B,,"","","18","1937",gcc-107948
+gcc-147962,A,Compositae,,Dubyaea,,"tsarongensis",subsp.,"tsarongensis","",Synonym,,L,TICA,2EB2BA25-2106-4658-88AC-3903D88BF076,,"","","","",gcc-111283

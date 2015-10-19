@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136009,A,Compositae,,Kentrophyllum,,"aegyptiacum",,"","Tausch",Unresolved,,L,TICA,7A82573E-2C23-4EEB-8860-EB2E1D3D5FB8,227240-1,"""in Flora, xii. (1829) 71, nomen.""","","""xii.  71, nomen.""","1829",
+gcc-41546,A,Compositae,,Kentrophyllum,,"album",,"","Cass.",Unresolved,,L,TICA,045702E1-BFBD-4CB7-9C77-4CEF48F2ABFC,,"in Dict. Sc. Nat. xxiv. 389.","","xxiv. 389","",
+gcc-46032,A,Compositae,,Kentrophyllum,,"alexandrinum",,"","Boiss. & Heldr.",Synonym,,M,TICA,06E454FF-44B7-4228-A566-5553B1B4A813,,"","","115","1859",gcc-47412
+gcc-124625,A,Compositae,,Kentrophyllum,,"anatolicum",,"","Boiss.",Synonym,,M,TICA,C8E130CD-11B0-4804-8D93-D1256E36750F,,"","","113","1846",gcc-11760
+gcc-26194,A,Compositae,,Kentrophyllum,,"arborescens",,"","(L.) Hook.",Synonym,,M,TICA,C7816F87-5268-4F9C-A3F7-30719DBCF7A8,,"","","","1834",gcc-114905
+gcc-117477,A,Compositae,,Kentrophyllum,,"aureum",,"","Boiss.",Unresolved,,L,TICA,1837E105-85CE-490B-BEC1-C0C38BB4B0A1,,"""Diagn. Pl. Orient. ser. 1, 10: 99""","","99","1849",
+gcc-111035,A,Compositae,,Kentrophyllum,,"baeticum",,"","Boiss. & Reut.",Synonym,,M,TICA,5AED89C0-7DB2-4D0F-888C-B23F41720D7E,227246-1,"","","65","1852",gcc-6503
+gcc-134802,A,Compositae,,Kentrophyllum,,"canescens",,"","K.Koch & Bouché",Unresolved,,L,TICA,EB049B34-47C9-4AFA-9456-E8920CB90891,227247-1,"Ind. Sem. Hort. Berol. (1855) 13.","","13","1855",
+gcc-119176,A,Compositae,,Kentrophyllum,,"coeruleum",,"","Gren. & Godr.",Unresolved,,L,TICA,8D47BF6D-CCFB-4FE1-8B19-C49B864005F8,227248-1,"""Godr. & Gren. in Grenier & Godron, Fl. France 2. 1850.""","","","1850",gcc-139701
+gcc-31010,A,Compositae,,Kentrophyllum,,"creticum",,"","Boiss.",Synonym,,M,TICA,98B199A9-2782-4B25-8113-396C34435F54,,"","","99","1849",gcc-82044
+gcc-86456,A,Compositae,,Kentrophyllum,,"creticum",,"","Tausch",Unresolved,,L,TICA,B212FE2C-63DA-44CD-927F-7AFA42E74B10,227250-1,"""Flora,""","","xii.  71","1829",
+gcc-9180,A,Compositae,,Kentrophyllum,,"dentatum",,"","DC.",Accepted,,M,TICA,591FBFCF-B77C-4283-8989-112B4E5C2B94,227251-1,"Prodr. (DC.) 6: 611","","611","1838",
+gcc-146354,A,Compositae,,Kentrophyllum,,"dentatum",var.,"dentatum","",Synonym,,L,TICA,AE5BC883-9AD7-450A-B354-16EDB93BBECB,,"","","","",gcc-9180
+gcc-101653,A,Compositae,,Kentrophyllum,,"elatum",,"","Gasp.",Synonym,,M,TICA,CC704D4F-9F97-4A16-88A1-9D40435915A9,,"","","","1842",gcc-77840
+gcc-43853,A,Compositae,,Kentrophyllum,,"flavescens",,"","Tausch",Unresolved,,L,TICA,FF923119-FF61-4001-8C8D-5140EBBA826D,,"""in Flora, xii. (1879) 71.""","","xii.  71","1879",
+gcc-110516,A,Compositae,,Kentrophyllum,,"foliosum",,"","Boiss.",Unresolved,,L,TICA,8165D7BA-9050-48F3-A425-B10DF02F2CCD,,"","","","",gcc-58844
+gcc-109608,A,Compositae,,Kentrophyllum,,"glaucum",,"","Tausch",Unresolved,,L,TICA,5D763A8A-B96B-4CE1-8A3C-AF089DDA229C,,"""in Flora, xii. (1879) 71.""","","xii.  71","1879",
+gcc-108903,A,Compositae,,Kentrophyllum,,"incanum",,"","Tausch",Unresolved,,L,TICA,EF63675C-B7B0-41B5-B69C-AD6A0747110F,,"""in Flora, xii. (1879) 71.""","","xii.  71","1879",
+gcc-111728,A,Compositae,,Kentrophyllum,,"lanatum",,"","(L.) DC.",Synonym,,M,TICA,D14BF8C8-D18E-4663-9A90-B3C5BB10ECD6,,"Aug. Pyrami de Candolle Botanicon Gallicum 1:","","193","1828",gcc-77840
+gcc-136366,A,Compositae,,Kentrophyllum,,"lanatum",,"","(L.) DC. ex Duby",Synonym,,M,TICA,9E492F44-5A95-4A08-930E-EC14273663F7,,"","","293","1828",gcc-77840
+gcc-53049,A,Compositae,,Kentrophyllum,,"lanatum",var.,"abyssinicum","A.Rich.",Synonym,,L,TICA,D9BA2948-51D3-4E61-8D56-630FD5ED85B4,,"","","","",gcc-77840
+gcc-151696,A,Compositae,,Kentrophyllum,,"lanatum",var.,"lanatum","",Synonym,,L,TICA,602C594D-C411-48E4-A84F-8A53E05714A3,,"","","","",gcc-77840
+gcc-156212,A,Compositae,,Kentrophyllum,,"lanatum",subsp.,"lanatum","",Synonym,,L,TICA,3F195DA6-948C-430C-BED2-E8B6E13914A0,,"","","","",gcc-77840
+gcc-59343,A,Compositae,,Kentrophyllum,,"lanatum",subsp.,"montanum","(Pomel) Batt.",Synonym,,L,TICA,7E8330AB-FEF1-4993-A8E4-95C013871746,,"","","","",gcc-8931
+gcc-27116,A,Compositae,,Kentrophyllum,,"leucocaulon",,"","DC.",Unresolved,,L,TICA,93C6CED6-CC8D-4E76-A83D-3225A3CAFC26,227257-1,"Prodr. (DC.) 6: 610","","610","1838",
+gcc-37202,A,Compositae,,Kentrophyllum,,"luteum",,"","Cass.",Unresolved,,L,TICA,6FD0E4C3-C758-4A16-B2F3-44EB09630D41,227258-1,"in Dict. Sc. Nat. xxiv. 381.","","xxiv. 381","",
+gcc-16173,A,Compositae,,Kentrophyllum,,"mareoticum",,"","DC.",Unresolved,,L,TICA,9CD0C41D-8B9F-4D67-B9CD-1DEB97309B57,227259-1,"Prodr. (DC.) 6: 611","","611","1838",
+gcc-97488,A,Compositae,,Kentrophyllum,,"monspeliensium",,"","Ces.Passer. & Gibelli",Unresolved,,L,TICA,69B3ED08-F0E3-4A62-8E95-93FECC31CB6C,,"Comp. Fl. Ital. ii. (1886) 499.","","ii.  499","1886",
+gcc-120395,A,Compositae,,Kentrophyllum,,"montanum",,"","Pomel",Synonym,,L,TICA,76893951-5C7C-41DB-9FE0-C771E75AAA8F,227261-1,"","","","1874",gcc-70640
+gcc-83555,A,Compositae,,Kentrophyllum,,"pinnatum",,"","""Ces., Passer. & Gibelli""",Unresolved,,L,TICA,F51D4F75-41EB-47B8-8E01-74907E20B978,,"Comp. Fl. Ital. ii. (1886) 499.","","ii.  499","1886",
+gcc-42369,A,Compositae,,Kentrophyllum,,"purpureum",,"","Tausch",Unresolved,,L,TICA,B20855B5-1237-4AE1-9029-4E808A94531C,227263-1,"""in Flora, xii. (1829) 71, nomen.""","","""xii.  71, nomen.""","1829",
+gcc-83309,A,Compositae,,Kentrophyllum,,"rhiphaeum",,"","Font Quer & Pau",Unresolved,,L,TICA,E9FE71BF-7C13-40DF-A6C5-73FF41149865,,"""Cavanillesia ii. 64 (1929), nomen.""","","64","",
+gcc-166,A,Compositae,,Kentrophyllum,,"riphaeum",,"","Font Quer & Pau ex Font Quer",Synonym,,M,TICA,1048B33F-0865-49F1-A1E3-004D710D6610,227265-1,"""Iter Marocc. 1927, No. 711 [1928], in syn.""","","""No. 711 [1928], in syn.""","1927",gcc-86695
+gcc-130941,A,Compositae,,Kentrophyllum,,"rubrum",,"","Link",Unresolved,,L,TICA,4B9E276D-CFD5-4DC1-A279-DFBA26BFB034,227266-1,"Linnaea 9: 580. 1835","","580","1835",
+gcc-122868,A,Compositae,,Kentrophyllum,,"syriacum",,"","Boiss.",Synonym,,M,TICA,066ABFF1-A1B2-4178-88CC-CD007C37FB6D,,"","","98","1849",gcc-92931
+gcc-121303,A,Compositae,,Kentrophyllum,,"tauricum",,"","(M.Bieb.) C.A.Mey.",Synonym,,M,TICA,8249FD15-0B00-412A-B4B1-C9830B79E22C,227268-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 66","","66","1831",gcc-77840
+gcc-121860,A,Compositae,,Kentrophyllum,,"tenue",,"","Boiss. & Blanche",Synonym,,M,TICA,99798830-BD8D-4A17-9339-CAB2C92BC830,,"","","","1856",gcc-32313
+gcc-44599,A,Compositae,,Kentrophyllum,,"tingitanum",,"","""Ces., Passer. & Gibelli""",Unresolved,,L,TICA,4EABEBDA-A142-45C0-85F2-529FE309CF5B,,"Comp. Fl. Ital. ii. (1886) 499.","","ii.  499","1886",
+gcc-94207,A,Compositae,,Kentrophyllum,,"trachycarpum",,"","Coss. & Durieu",Unresolved,,L,TICA,18237D62-60E9-404E-8E26-8C762F9A23C0,,"","","","",gcc-70640
+gcc-127559,A,Compositae,,Kentrophyllum,,"turbinatum",,"","Gasp. ex Guss.",Synonym,,M,TICA,06796521-1B39-424E-B46B-D7EFE513BA11,,"","","","1844",gcc-77840

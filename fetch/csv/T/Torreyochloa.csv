@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-446628,A,Poaceae,,Torreyochloa,,"californica",,"","(Beetle) Church",Synonym,,H,WCSP,446628,,"Amer. J. Bot.","36: 163","","1949",kew-446629
+kew-446629,A,Poaceae,,Torreyochloa,,"erecta",,"","(Hitchc.) Church",Accepted,,H,WCSP,446629,,"Amer. J. Bot.","36: 163","","1949",
+kew-446630,A,Poaceae,,Torreyochloa,,"fernaldii",,"","(Hitchc.) Church",Accepted,,H,WCSP,446630,,"Amer. J. Bot.","36: 164","","1949",
+kew-446631,A,Poaceae,,Torreyochloa,,"natans",,"","(Kom.) Church",Accepted,,H,WCSP,446631,,"Amer. J. Bot.","36: 164","","1949",
+kew-446632,A,Poaceae,,Torreyochloa,,"otisii",,"","(Hitchc.) Church",Synonym,,H,WCSP,446632,,"Amer. J. Bot.","36: 163","","1949",kew-446638
+kew-446633,A,Poaceae,,Torreyochloa,,"pallida",,"","(Torr.) Church",Accepted,,H,WCSP,446633,,"Amer. J. Bot.","36: 164","","1949",
+kew-446635,A,Poaceae,,Torreyochloa,,"pallida",var.,"fernaldii","(Hitchc.) T.Koyama & Kawano",Synonym,,L,WCSP,446635,,"Canad. J. Bot.","42: 874","","1964",kew-446630
+kew-446634,A,Poaceae,,Torreyochloa,,"pallida",subsp.,"natans","(Kom.) T.Koyama & Kawano",Synonym,,L,WCSP,446634,,"Canad. J. Bot.","42: 874","","1964",kew-446631
+kew-446636,A,Poaceae,,Torreyochloa,,"pallida",var.,"natans","(Kom.) B.Boivin",Synonym,,L,WCSP,446636,255178-2,"Phytologia","43: 106","","1979",kew-446631
+tro-25517783,A,Poaceae,,Torreyochloa,,"pallida",var.,"pallida","",Synonym,,L,TRO,25517783,,"","","","",kew-446633
+kew-446637,A,Poaceae,,Torreyochloa,,"pallida",var.,"pauciflora","(J.S.Presl) J.I.Davis",Synonym,,L,WCSP,446637,966858-1,"Phytologia","70: 364","","1991",kew-446638
+kew-446638,A,Poaceae,,Torreyochloa,,"pauciflora",,"","(J.Presl) Church",Accepted,,H,WCSP,446638,,"Amer. J. Bot.","36: 163","","1949",
+kew-446639,A,Poaceae,,Torreyochloa,,"pauciflora",var.,"holmii","(Beal) Roy L.Taylor & MacBryde",Synonym,,L,WCSP,446639,255181-2,"Canad. J. Bot.","56: 193","","1978",kew-446638
+kew-446640,A,Poaceae,,Torreyochloa,,"pauciflora",var.,"microtheca","(Buckley) Roy L.Taylor & MacBryde",Synonym,,L,WCSP,446640,255183-2,"Canad. J. Bot.","56: 193","","1978",kew-446638
+kew-446641,A,Poaceae,,Torreyochloa,,"viridis",,"","(Honda) Church",Synonym,,H,WCSP,446641,,"Amer. J. Bot.","36: 164","","1949",kew-446633

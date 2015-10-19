@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50145668,G,Cupressaceae,,Cunninghamia,,"chinensis",,"","de Vos",Synonym,,M,TRO,50145668,,"","","","",kew-2747422
+kew-2747418,G,Cupressaceae,,Cunninghamia,,"cupressoides",,"","Zucc.",Synonym,,H,WCSP,383006,261878-1,"Fl. Jap.","2: 9","","1842",kew-2664826
+kew-2747419,G,Cupressaceae,,Cunninghamia,,"jaculifolia",,"","(Salisb.) Druce",Synonym,Illegitimate,H,WCSP,383007,676722-1,"Rep. Bot. Soc. Exch. Club Brit. Isles","1916: 618","","1917",kew-2747422
+kew-2747420,G,Cupressaceae,,Cunninghamia,,"kawakamii",,"","Hayata",Synonym,,H,WCSP,383008,676723-1,"Icon. Pl. Formosan.","5: 207","","1915",kew-2747421
+kew-2747421,G,Cupressaceae,,Cunninghamia,,"konishii",,"","Hayata",Accepted,,H,WCSP,383009,676724-1,"Gard. Chron.","III, 43: 194","","1908",
+kew-2747422,G,Cupressaceae,,Cunninghamia,,"lanceolata",,"","(Lamb.) Hook.",Accepted,,H,WCSP,383010,676725-1,"Bot. Mag.","54: t. 2743","","1827",
+tro-50145669,G,Cupressaceae,,Cunninghamia,,"lanceolata",var.,"corticosa","Z.Y. Que & J.X. Li",Synonym,,L,TRO,50145669,,"","","","",kew-2747422
+kew-455900,G,Cupressaceae,,Cunninghamia,,"lanceolata",var.,"konishii","(Hayata) Fujita",Synonym,,L,WCSP,455900,,"Trans. Nat. Hist. Soc. Taiwan","22: 49, 476","","1932",kew-2747421
+tro-50145664,G,Cupressaceae,,Cunninghamia,,"lanceolata",var.,"lanceolata","",Synonym,,L,TRO,50145664,,"","","","",kew-2747422
+kew-2747423,G,Cupressaceae,,Cunninghamia,,"lanceolata",var.,"unicanaliculata","(D.Y.Wang & H.L.Liu) Silba",Synonym,,L,WCSP,383011,1012950-1,"J. Int. Conifer Preserv. Soc.","7: 23","","2000",kew-2747422
+kew-52346,A,Rubiaceae,,Cunninghamia,,"sarmentosa",,"","(Aubl.) Willd.",Synonym,,H,WCSP,52346,,"Sp. Pl.","1: 651","","1798",kew-118066
+kew-2747424,G,Cupressaceae,,Cunninghamia,,"selaginoides",,"","Zucc.",Synonym,,H,WCSP,383012,261880-1,"Fl. Jap.","2: 9","","1842",kew-2664833
+kew-2747425,G,Cupressaceae,,Cunninghamia,,"sinensis",,"","R.Br.",Synonym,Illegitimate,H,WCSP,383013,,"Comm. Bot. Conif. Cycad.","80","","1826",kew-2747422
+kew-455901,G,Cupressaceae,,Cunninghamia,,"sinensis",var.,"prolifera","Lemée & H.Lév.",Synonym,,L,WCSP,455901,,"Monde Pl.","2(16): 20","","1914",kew-2747422
+kew-2747426,G,Cupressaceae,,Cunninghamia,,"unicanaliculata",,"","D.Y.Wang & H.L.Liu",Synonym,,H,WCSP,383014,899661-1,"Acta Phytotax. Sin.","20: 230","","1982",kew-2747422
+kew-2747427,G,Cupressaceae,,Cunninghamia,,"unicanaliculata",var.,"pyramidalis","D.Y.Wang & H.L.Liu",Synonym,,L,WCSP,383015,916926-1,"Acta Phytotax. Sin.","20: 231","","1982",kew-2747422
+kew-52347,A,Rubiaceae,,Cunninghamia,,"verticillata",,"","Willd.",Synonym,,H,WCSP,52347,748042-1,"Sp. Pl.","1: 615","","1798",kew-56287

@@ -1,0 +1,66 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10932,A,Compositae,,Parthenium,,"alpinum",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,383D4925-9915-4126-92FD-147011CA6236,236492-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 285","","285","1842",
+gcc-149465,A,Compositae,,Parthenium,,"alpinum",subsp.,"alpinum","",Synonym,,L,TICA,9F6E536D-FFD3-4BB0-932F-594A9C7D32F0,,"","","","",gcc-10932
+gcc-70998,A,Compositae,,Parthenium,,"alpinum",var.,"alpinum","",Synonym,,L,TICA,EC3B86A0-4625-45A1-A64F-F29368F65941,,"","","","",gcc-10932
+gcc-67569,A,Compositae,,Parthenium,,"alpinum",var.,"ligulatum","M.E.Jones",Synonym,,L,TICA,E185651B-CD71-4F4B-BBD0-D82BFAC65B77,184029-2,"Contributions to Western Botany 13:","","16","1910",gcc-119238
+gcc-65209,A,Compositae,,Parthenium,,"alpinum",var.,"tetraneuris","(Barneby) Rollins",Synonym,,L,TICA,C983E19D-7807-4CD5-85D1-C4B2EE52B7E1,184030-2,"Contr. Gray Herb. 172: 69. 1950","","69","1950",gcc-10932
+gcc-51117,A,Compositae,,Parthenium,,"amplectens",,"","Raf.",Unresolved,,L,TICA,0CF0F9FB-E25D-4EFF-B63F-5ED2FC5CEF32,236493-1,"New Fl. (Rafinesque) ii. 26","","26","",
+gcc-37787,A,Compositae,,Parthenium,,"angustifolium",,"","Raf.",Unresolved,,L,TICA,429810C0-1915-4777-BFED-461471236643,236494-1,"New Fl. (Rafinesque) ii. 25 (Quid ?).","","25","",
+gcc-110527,A,Compositae,,Parthenium,,"annuum",,"","Crantz",Unresolved,,L,TICA,9FA0EDFF-D0CC-4559-9DF1-B1135C39E3B2,236495-1,"Inst. i. 345.","","i. 345","",
+gcc-32847,A,Compositae,,Parthenium,,"arctium",,"","Bartlett",Unresolved,,L,TICA,FFCC9233-98B3-45C1-8971-3CEC6E87A2B7,184032-2,"","","635","1909",
+gcc-52492,A,Compositae,,Parthenium,,"argentatum",,"","A.Gray",Accepted,,M,TICA,1552A066-F537-4D33-BF27-614D7CA9B1C9,236497-1,"","","86","1859",
+gcc-149757,A,Compositae,,Parthenium,,"argentatum",f.,"argentatum","",Synonym,,L,TICA,A272549E-BF54-45D7-9F9C-5FA1B5D54BFA,,"","","","",gcc-52492
+gcc-155327,A,Compositae,,Parthenium,,"argentatum",var.,"argentatum","",Synonym,,L,TICA,C5AAF67A-C480-4FAC-97AB-D5E60418C8FE,,"","","","",gcc-52492
+gcc-85216,A,Compositae,,Parthenium,,"auriculatum",,"","Britton",Synonym,,M,TICA,91DB7F5D-2BD0-4217-A1E9-78350AED5074,,"","","","1898",gcc-84783
+gcc-39008,A,Compositae,,Parthenium,,"bipinnatifidum",,"","(Ortega) Rollins",Accepted,,M,TICA,59613608-B7D3-4E8C-9932-485FE2E2C29A,184044-2,"Contr. Gray Herb. 172","","57","1950",
+gcc-11751,A,Compositae,,Parthenium,,"cineraceum",,"","Rollins",Accepted,,M,TICA,6D0D859E-59AC-4B66-BA2F-15E285D42117,,"Contr. Gray Herb. 172","","","1950",
+gcc-102384,A,Compositae,,Parthenium,,"confertum",,"","A.Gray",Accepted,,M,TICA,7B6C192D-1115-4057-87FB-9EFF6C21819D,,"Proc. Amer. Acad. Arts xvii. (1881-82) 216.","","216","1882",
+gcc-22912,A,Compositae,,Parthenium,,"confertum",var.,"confertum","",Synonym,,L,TICA,80750D8F-3600-4CF8-AC07-2A69F3A8854A,,"","","","1882",gcc-102384
+gcc-55301,A,Compositae,,Parthenium,,"confertum",var.,"divaricatum","Rollins",Synonym,,L,TICA,ADDF17FF-FA52-490A-95BA-74E9E6172FCD,184046-2,"Contr. Gray Herb. 172: 46. 1950","","46","1950",gcc-102384
+gcc-68814,A,Compositae,,Parthenium,,"confertum",var.,"lyratum","(A.Gray) Rollins",Synonym,,L,TICA,D2998473-707B-4A60-B019-E1A1AA9157A1,184047-2,"Contr. Gray Herb. 172: 46. 1950","","46","1950",gcc-102384
+gcc-20556,A,Compositae,,Parthenium,,"densipilum",,"","S.F.Blake",Unresolved,,L,TICA,64931710-7C7A-43EE-9506-260A161D7BF4,184050-2,"","","""607, pl. 58""","1924",
+gcc-90403,A,Compositae,,Parthenium,,"dillenianum",,"","Raf.",Unresolved,,L,TICA,E0DBAE09-DC2C-434A-80A8-83E69867EFD2,236503-1,"New Fl. (Rafinesque) ii. 26 (Quid ?).","","26","",
+gcc-31632,A,Compositae,,Parthenium,,"elliotanum",,"","Raf.",Unresolved,,L,TICA,B633F5F2-676F-46CD-9768-3AA4439DF0E0,236504-1,"New Fl. (Rafinesque) ii. 26 (Quid ?).","","26","",
+gcc-90154,A,Compositae,,Parthenium,,"frutescens",,"","Crantz",Unresolved,,L,TICA,35103A3D-8581-4C9C-B08A-834FC367CD0A,236505-1,"Inst. i. 345.","","i. 345","",
+gcc-126500,A,Compositae,,Parthenium,,"fruticosum",,"","Less. ex Schltdl. & Cham.",Accepted,,L,TICA,191C641B-F72A-454E-A428-D578BC24ADAC,,"Linnaea 5: 152. 1830.","","152","1830",
+gcc-58192,A,Compositae,,Parthenium,,"fruticosum",var.,"fruticosum","",Synonym,,L,TICA,8A35663D-3FF0-4F5F-B821-8C8D0FDAD6B2,,"","","","1830",gcc-126500
+gcc-141982,A,Compositae,,Parthenium,,"glomeratum",,"","Rollins",Synonym,,M,TICA,9938D4B5-F768-46CA-B0ED-F8A4D5365618,184053-2,"Contr. Gray Herb. 172","","59","1950",gcc-22084
+gcc-132267,A,Compositae,,Parthenium,,"hispidum",,"","Raf.",Synonym,,M,TICA,99B5C2F4-980F-410F-B602-E2D2AE43A6B8,,"","","","1837",gcc-84783
+gcc-66364,A,Compositae,,Parthenium,,"hispidum",var.,"auriculatum","(Britton ex Britton) Rollins",Synonym,,L,TICA,F3BA6DA3-C8AD-4F73-8BDE-CE448B857882,184055-2,"Contr. Gray Herb. 172: 61. 1950","","61","1950",gcc-84783
+gcc-20066,A,Compositae,,Parthenium,,"hispidum",var.,"hispidum","",Synonym,,L,TICA,741D7F4C-15FB-4E48-8465-251A04B015C9,,"","","","",gcc-84783
+gcc-129011,A,Compositae,,Parthenium,,"hysterophorus",,"","Adans.",Unresolved,Illegitimate,L,TICA,09D834BC-08AA-4D32-A3FC-DB53ACC71470,,"","","","",
+gcc-22084,A,Compositae,,Parthenium,,"hysterophorus",,"","L.",Accepted,,M,TICA,BCB56AEA-89DB-466A-B299-28D7591DC9C6,236510-1,"Sp. Pl.","","988","1753",
+gcc-153305,A,Compositae,,Parthenium,,"hysterophorus",var.,"hysterophorus","",Synonym,,L,TICA,C2439431-273B-4159-BEE2-AB8F92665FCA,,"","","","",gcc-22084
+gcc-61074,A,Compositae,,Parthenium,,"hysterophorus",var.,"lyratum","A.Gray",Synonym,,L,TICA,09689E43-66F2-4410-8ABF-A3A88CAC1B61,184057-2,"Proc. Amer. Acad. Arts 17: 216. 1882","","216","1882",gcc-102384
+gcc-109812,A,Compositae,,Parthenium,,"incanum",,"","Kunth",Accepted,,M,TICA,3E21C5E1-B0F5-4A1C-B17D-AF828353D153,,"Nov. Gen. Sp. [H.B.K.] iv. 260. t. 391.","","","",
+gcc-84783,A,Compositae,,Parthenium,,"integrifolium",,"","L.",Accepted,,M,TICA,69405CBB-FD85-4C06-8FCA-7746CED7A2E4,,"Sp. Pl. 988.","","","1753",
+gcc-18931,A,Compositae,,Parthenium,,"integrifolium",var.,"auriculatum","(Britton ex Britton) Cornelius ex Cronquist",Synonym,,L,TICA,EFFB5780-B6DE-4DAD-A0F8-22F0C8414B03,184058-2,"Rhodora 47: 399. 1945","","399","1945",gcc-84783
+gcc-57882,A,Compositae,,Parthenium,,"integrifolium",var.,"henryanum","Mears",Synonym,,L,TICA,69A96747-3178-4891-9271-8A0CB91EE44E,,"","","","1975",gcc-84783
+gcc-64522,A,Compositae,,Parthenium,,"integrifolium",var.,"hispidum","(Raf.) Mears",Synonym,,L,TICA,9278259D-2CAA-4DF8-A8C9-BF3582DED306,184060-2,"","","477","1975",gcc-84783
+gcc-150826,A,Compositae,,Parthenium,,"integrifolium",f.,"integrifolium","",Synonym,,L,TICA,4C1E89A0-A002-4C08-8DD4-76EA28CF3C15,,"","","","",gcc-84783
+gcc-58710,A,Compositae,,Parthenium,,"integrifolium",var.,"integrifolium","",Synonym,,L,TICA,FE8D56E0-68F5-4E49-8DC6-90C8D5AB042C,,"","","","",gcc-84783
+gcc-66865,A,Compositae,,Parthenium,,"integrifolium",var.,"integrifolium","",Synonym,,L,TICA,BB1822BA-2C26-44A3-ADAE-D2579E7EFB1D,184061-2,"Rhodora 47: 399. 1945","","399","1945",gcc-84783
+gcc-30002,A,Compositae,,Parthenium,,"integrifolium",var.,"mabryanum","Mears",Synonym,,L,TICA,24203E7D-2965-4D0D-8087-377ECEF1525B,,"","","","1975",gcc-84783
+gcc-119238,A,Compositae,,Parthenium,,"ligulatum",,"","(M.E.Jones) Barneby",Accepted,,M,TICA,B71EC0D6-9C23-4FF6-877F-C4B65CDB65E1,184064-2,"","","20","1947",
+gcc-104794,A,Compositae,,Parthenium,,"lloydii",,"","Bartlett",Unresolved,,L,TICA,D3DEEAAB-AC0A-40B0-A0BC-A43706DED1D1,184065-2,"","","46","1916",
+gcc-7575,A,Compositae,,Parthenium,,"lobatum",,"","Buckley",Synonym,,M,TICA,DCC0C019-3344-4C40-A533-0E0F1020C4F4,236514-1,"","","457","1862",gcc-22084
+gcc-80619,A,Compositae,,Parthenium,,"lozanianum",,"","Bartlett",Unresolved,,L,TICA,61B5D80E-EB2F-4B5D-A961-6DF857FCB3B6,184066-2,"","","636","1909",
+gcc-18936,A,Compositae,,Parthenium,,"luteum",,"","Spreng.",Unresolved,Illegitimate,L,TICA,D144773B-2FC9-4658-B010-22F45A18C20D,236516-1,"Nov. Prov. 31.","","31","1819",
+gcc-86849,A,Compositae,,Parthenium,,"lyratum",,"","(A.Gray) A.Gray",Synonym,,M,TICA,7A5FA32A-60EA-43D1-A3E4-7BE0C27ABC02,,"Syn. Fl. N. Am. i. II. 244.","","","1884",gcc-102384
+gcc-47093,A,Compositae,,Parthenium,,"matricaria",,"","Gueldenst.",Synonym,,L,TICA,42100194-5869-4453-9CF8-574173812404,236518-1,"","","25","1791",gcc-36373
+gcc-83421,A,Compositae,,Parthenium,,"matricaria",,"","gesn. ex Rupr.",Synonym,,L,TICA,A2F67421-C188-4CC7-8AD8-74431F5DADF6,,"Flora Ingrica 1:","","573","1860",gcc-36373
+gcc-124337,A,Compositae,,Parthenium,,"parviceps",,"","S.F.Blake",Accepted,,M,TICA,3BD46CEA-FBD5-44AC-AD81-D0706C67295F,184067-2,"","","607-608","1924",
+gcc-121466,A,Compositae,,Parthenium,,"pinnatifidum",,"","Stokes",Synonym,Illegitimate,M,TICA,C63EBAE3-E09F-4D47-8C6C-C9DCE6BA3E27,236520-1,"","","278","1812",gcc-22084
+gcc-33767,A,Compositae,,Parthenium,,"pumilum",,"","Raf.",Unresolved,,L,TICA,C10D3BD6-C17C-4C89-9F54-3E983C57E015,236521-1,"New Fl. (Rafinesque) ii. 25 (Quid ?).","","25","",
+gcc-145024,A,Compositae,,Parthenium,,"radfordii",,"","Mears",Synonym,,M,TICA,ABB87B10-B2BF-466A-A7FE-FF7BF6147C89,184068-2,"","","481","1975",gcc-84783
+gcc-76095,A,Compositae,,Parthenium,,"ramosissimum",,"","DC.",Unresolved,,L,TICA,C9580B41-DFD4-40CA-9150-63DEB9345650,236523-1,"Prodr. (DC.) 5: 532","","532","1836",
+gcc-44394,A,Compositae,,Parthenium,,"repens",,"","Eggert",Synonym,,M,TICA,209565C4-E7A7-4A86-840D-52445FBA3A5C,184069-2,"","","16","1891",gcc-84783
+gcc-35061,A,Compositae,,Parthenium,,"rollinsianum",,"","Rzed.",Accepted,,M,TICA,C3F4D9EF-3F7A-4AB9-993D-4104D065956F,,"","","","1959",
+gcc-116674,A,Compositae,,Parthenium,,"schottii",,"","Greenm. ex Millsp. & Chase",Accepted,,M,TICA,66CF46DB-AE2B-4493-8253-BEF4BB2258BD,,"","","","1904",
+gcc-128776,A,Compositae,,Parthenium,,"schottii",,"","Greenm.",Unresolved,,L,TICA,AA8931A6-C142-4025-84FF-DAC8BD5639FD,184071-2,"""Publ. Field Columbian Mus., Bot. Ser. 3: 109. 1904""","","109","1904",
+gcc-30619,A,Compositae,,Parthenium,,"sinuatum",,"","Raf.",Unresolved,,L,TICA,CE713021-17EF-4B09-96A1-38B10D996601,236527-1,"New Fl. (Rafinesque) ii. 25 (Quid ?).","","25","",
+gcc-16787,A,Compositae,,Parthenium,,"stramonium",,"","Greene",Synonym,,M,TICA,9E8E1A1A-83C5-4FDA-9FA5-1F03A6081B42,184072-2,"","","240","1901",gcc-10612
+gcc-18035,A,Compositae,,Parthenium,,"tetraneuris",,"","Barneby",Synonym,,M,TICA,2C087A82-8B48-418D-8159-214F8C03A0E1,184073-2,"","","19","1947",gcc-10932
+gcc-110777,A,Compositae,,Parthenium,,"tomentosum",,"","DC.",Accepted,,M,TICA,17AF6C3F-7019-4310-804A-B1AE803524F7,236530-1,"Prodr. (DC.) 5: 532","","532","1836",
+gcc-10612,A,Compositae,,Parthenium,,"tomentosum",var.,"stramonium","(Greene) Rollins",Accepted,,L,TICA,A06179EF-E0EC-42AC-8D70-13D836F7B07F,184074-2,"Contr. Gray Herb. 172: 28. 1950","","28","1950",
+gcc-10924,A,Compositae,,Parthenium,,"tomentosum",var.,"tomentosum","",Synonym,,L,TICA,7AEDC32E-2AD2-4C86-AAD2-146D58DFCBB1,,"","","","1836",gcc-110777

@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104454,A,Compositae,,Scorzonella,,"arguta",,"","Drew",Synonym,,L,TICA,C37FB606-BCCC-472A-91AD-A3895EBF69C1,230935-2,"","","152","1889",gcc-8875
+gcc-130680,A,Compositae,,Scorzonella,,"bolanderi",,"","(A.Gray) Greene",Synonym,,M,TICA,A3B208D2-6255-4C76-8992-DF21ABA9272A,230936-2,"","","52","1886",gcc-60424
+gcc-140648,A,Compositae,,Scorzonella,,"borealis",,"","(Bong.) Greene",Synonym,,M,TICA,C8F51B14-A77B-4723-B0AF-F58DB1478B9E,230937-2,"","","19","1889",gcc-128262
+gcc-78706,A,Compositae,,Scorzonella,,"glauca",,"","(Hook.) Nutt.",Synonym,,L,TICA,EFCE0B01-C055-41C7-B914-69BD6FD244D2,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 426""","","426","1841",gcc-8875
+gcc-42400,A,Compositae,,Scorzonella,,"gracililoba",,"","(Kellogg) Greene",Synonym,,L,TICA,E7AE18B8-6689-4FC0-946A-4E8D782E9B18,1041230-2,"","","","",gcc-20434
+gcc-19660,A,Compositae,,Scorzonella,,"howellii",,"","(A.Gray) Greene",Synonym,,M,TICA,36A6C686-1B7D-49AA-9B42-24589FFD3092,230938-2,"","","52","1886",gcc-113937
+gcc-104947,A,Compositae,,Scorzonella,,"laciniata",,"","(Hook.) Sch.Bip.",Synonym,,L,TICA,C6028A24-17F7-4731-A1D1-A4944BACC230,,"","","","",gcc-8875
+gcc-27097,A,Compositae,,Scorzonella,,"laciniata",,"","(Hook.) Nutt.",Synonym,,L,TICA,A2708308-5849-4142-B353-3218C426E97C,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 426""","","426","1841",gcc-8875
+gcc-62976,A,Compositae,,Scorzonella,,"laciniata",var.,"bolanderi","(A.Gray) Jeps.",Synonym,,L,TICA,91AE1F4A-61C3-4180-B213-B321E80D6575,230939-2,"Man. Fl. Pl. Calif.","","994","1925",gcc-60424
+gcc-145335,A,Compositae,,Scorzonella,,"laciniata",var.,"laciniata","",Synonym,,L,TICA,FEBD50CE-B4A2-45DA-89C4-02141182DDFE,,"","","","",gcc-8875
+gcc-56581,A,Compositae,,Scorzonella,,"laciniata",var.,"pratensis","(Greene) Jeps.",Synonym,,L,TICA,B7BCF5E2-7100-4E9A-A7BE-7FA71189787B,,"","","","",gcc-8875
+gcc-2515,A,Compositae,,Scorzonella,,"leachiana",,"","M.Peck",Synonym,,M,TICA,7EE7EC7B-25B1-4B2C-8F1E-0495266A6702,230940-2,"","","188","1934",gcc-60424
+gcc-22269,A,Compositae,,Scorzonella,,"lepidota",,"","A.Heller",Synonym,,M,TICA,B33E1BF4-DEB2-4E5B-B95C-2932B8BA575A,230941-2,"","","146","1906",gcc-133718
+gcc-83484,A,Compositae,,Scorzonella,,"leptosepala",,"","Nutt.",Synonym,,M,TICA,05BFD9AD-7127-484A-B0E5-746A104ABEBA,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 426""","","426","1841",gcc-60424
+gcc-122886,A,Compositae,,Scorzonella,,"maxima",,"","Bioletti",Synonym,,L,TICA,7A0608F5-B853-4566-A25A-CD09D5C1A718,230943-2,"Erythea 1: 69. 1893","","69","1893",gcc-8875
+gcc-141830,A,Compositae,,Scorzonella,,"maxima",,"","Bioletti ex Greene",Unresolved,,L,TICA,329AC6BF-AE7C-40FC-B4E4-F84CAF0521B5,243028-1,"""in Erythea, i. (1893) 69; et Man. Bot. San Franc. Bay (1894) 223.""","","i.  69","1893",
+gcc-12791,A,Compositae,,Scorzonella,,"megacephala",,"","Greene",Synonym,,L,TICA,C6C6BF0B-E5B1-49C9-951C-17D53E66D474,230944-2,"","","50","1886",gcc-8875
+gcc-97338,A,Compositae,,Scorzonella,,"montana",,"","Greene",Synonym,,M,TICA,A566DDA4-1603-41FD-B7D6-939E13224636,230945-2,"","","53","1886",gcc-133718
+gcc-12369,A,Compositae,,Scorzonella,,"nutans",,"","Hook.",Synonym,,L,TICA,3217E204-54B5-42A5-9632-17116EF6E8CC,,"Lond. Journ. Bot. vi. (1847) 253.","","","1847",gcc-20434
+gcc-7449,A,Compositae,,Scorzonella,,"nutans",var.,"laciniata","(A.Gray) Jeps.",Synonym,,L,TICA,702B8260-A6F1-4F08-846E-0DD8BCD21E2B,230946-2,"Man. Fl. Pl. Calif. 993. 1925","","993","1925",gcc-20434
+gcc-44737,A,Compositae,,Scorzonella,,"nutans",var.,"major","(A.Gray) M.Peck",Synonym,,L,TICA,BF3C1FDD-E4DF-43F6-A77F-52DE8B9D0913,,"","","","",gcc-20434
+gcc-4302,A,Compositae,,Scorzonella,,"nutans",var.,"nutans","",Synonym,,L,TICA,68B6B95D-7317-4E59-A33D-07FDE2EC15ED,,"","","","",gcc-20434
+gcc-12444,A,Compositae,,Scorzonella,,"paludosa",,"","Greene",Synonym,,M,TICA,C32723FF-F485-4B24-B986-1733CADF42DA,230947-2,"","","52","1886",gcc-22598
+gcc-38117,A,Compositae,,Scorzonella,,"paludosa",var.,"integrifolia","Jeps.",Synonym,,L,TICA,4CD709AA-5D30-4E42-96D2-46B49ADEB74F,230948-2,"Man. Fl. Pl. Calif. 994. 1925","","994","1925",gcc-22598
+gcc-154510,A,Compositae,,Scorzonella,,"paludosa",var.,"paludosa","",Synonym,,L,TICA,8BBB1815-43EA-42B1-AF62-C50CA2E38B87,,"","","","",gcc-22598
+gcc-85922,A,Compositae,,Scorzonella,,"pratensis",,"","Greene",Synonym,,L,TICA,02BBA1F0-45DE-4694-91FA-79C7410B4AE1,230949-2,"","","51","1886",gcc-8875
+gcc-130191,A,Compositae,,Scorzonella,,"procera",,"","(A.Gray) Greene",Synonym,,L,TICA,1446274E-98A1-40F1-93B6-DDFC18B352CE,230950-2,"","","50","1886",gcc-8875
+gcc-55656,A,Compositae,,Scorzonella,,"procera",var.,"pratensis","(Greene) Jeps.",Synonym,,L,TICA,948DBDA4-EE44-4E0D-8204-77BF86CE4416,230951-2,"Man. Fl. Pl. Calif. 994. 1925","","994","1925",gcc-8875
+gcc-146318,A,Compositae,,Scorzonella,,"procera",var.,"procera","",Synonym,,L,TICA,30D8061E-C534-4897-BA37-162152DBD679,,"","","","",gcc-8875
+gcc-126020,A,Compositae,,Scorzonella,,"scapigera",,"","(A.Cunn.) Greene",Synonym,,M,TICA,F9278FF9-4AB5-47DD-9314-D45F58A40608,243035-1,"in Bull. Calif. Acad. ii. v. (1886) 53.","","ii. v.  53","1886",gcc-122344
+gcc-83089,A,Compositae,,Scorzonella,,"sylvatica",,"","Benth.",Synonym,,M,TICA,64847C13-1EC0-4D39-BFE3-73874901FA8D,243036-1,"","","320","1849",gcc-133718
+gcc-20692,A,Compositae,,Scorzonella,,"sylvatica",var.,"stillmanii","(A.Gray) Jeps.",Synonym,,L,TICA,5E530373-F3F2-42F2-8793-26485C8C910E,230952-2,"Man. Fl. Pl. Calif. 994. 1925","","994","1925",gcc-22598
+gcc-152238,A,Compositae,,Scorzonella,,"sylvatica",var.,"sylvatica","",Synonym,,L,TICA,0C7674C4-D601-44FE-B993-955AD645F99B,,"","","","",gcc-133718
+gcc-3946,A,Compositae,,Scorzonella,,"troximoides",,"","(A.Gray) Jeps.",Synonym,,M,TICA,D483795E-AE14-4E5C-A057-07528E4753C0,230953-2,"Man. Fl. Pl. Calif.","","994","1925",gcc-127563

@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2476210,A,Brassicaceae,,Sisymbrella,,"aspera",,"","(L.) Spach",Accepted,,M,WCSP (in review),,1028647-2,"Hist. Nat. Vég.","6: 426","","1838",
+tro-100358920,A,Brassicaceae,,Sisymbrella,,"aspera",subsp.,"aspera","",Synonym,,L,TRO,100358920,,"","","","",kew-2476210
+kew-2871169,A,Brassicaceae,,Sisymbrella,,"aspera",subsp.,"boissieri","(Coss.) Heywood",Accepted,,L,WCSP (in review),,,"Bull. Brit. Mus. (Nat. Hist.) Bot.","1: 107","","1954",
+kew-2871166,A,Brassicaceae,,Sisymbrella,,"aspera",subsp.,"praeterita","Heywood",Unresolved,Invalid,L,WCSP (in review),,,"Feddes Repert. Spec. Nov. Regni Veg.","69: 143","","1964",
+kew-2871170,A,Brassicaceae,,Sisymbrella,,"aspera",subsp.,"pseudoboissieri","(Degen) Heywood",Accepted,,L,WCSP (in review),,,"Bull. Brit. Mus. (Nat. Hist.) Bot.","1: 108","","1954",
+tro-100357964,A,Brassicaceae,,Sisymbrella,,"boissieri",,"","O.E. Schulz",Synonym,,M,TRO,100357964,289110-1,"Opred. Viss. Rast. Baskirsk. ASSR","IV–105(86): 144","144","1924",kew-2476210
+kew-2476222,A,Brassicaceae,,Sisymbrella,,"dentata",,"","(L.) O.E.Schulz",Accepted,,M,WCSP (in review),,,"Pflanzenr.","IV, 105(86): 144","","1924",
+tro-100359045,A,Brassicaceae,,Sisymbrella,,"pseudoboissieri",,"","(Degen) O.E. Schulz",Synonym,,M,TRO,100359045,289112-1,"Opred. Viss. Rast. Baskirsk. ASSR","IV–105(86): 144","144","1924",kew-2476210

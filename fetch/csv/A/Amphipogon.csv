@@ -1,0 +1,34 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-391731,A,Poaceae,,Amphipogon,,"amphipogonoides",,"","(Steud.) Vickery",Accepted,,H,WCSP,391731,387319-1,"Contr. New South Wales Natl. Herb.","1: 286","","1950",
+kew-391732,A,Poaceae,,Amphipogon,,"avenaceus",,"","R.Br.",Accepted,,H,WCSP,391732,387320-1,"Prodr. Fl. Nov. Holl.","175","","1810",
+kew-391733,A,Poaceae,,Amphipogon,,"brownii",,"","F.Muell.",Synonym,Illegitimate,H,WCSP,391733,,"Fragm.","8: 201","","1873",kew-391734
+kew-391734,A,Poaceae,,Amphipogon,,"caricinus",,"","F.Muell.",Accepted,,H,WCSP,391734,387322-1,"Linnaea","25: 445","","1853",
+tro-25522910,A,Poaceae,,Amphipogon,,"caricinus",var.,"caricinus","",Synonym,,L,TRO,25522910,,"","","","",kew-391734
+kew-391735,A,Poaceae,,Amphipogon,,"caricinus",var.,"scaber","Vickery",Synonym,,L,WCSP,391735,,"Contr. New South Wales Natl. Herb.","1: 291","","1950",kew-391750
+kew-391736,A,Poaceae,,Amphipogon,,"caricinus",var.,"sericeus","Vickery",Synonym,,L,WCSP,391736,,"Contr. New South Wales Natl. Herb.","1: 290","","1950",kew-391750
+kew-391737,A,Poaceae,,Amphipogon,,"confusus",,"","Domin",Synonym,,H,WCSP,391737,387323-1,"J. Linn. Soc., Bot.","41: 276","","1912",kew-391731
+kew-391738,A,Poaceae,,Amphipogon,,"cygnorum",,"","Nees",Synonym,,H,WCSP,391738,387324-1,"Pl. Preiss.","2: 100","","1846",kew-391745
+kew-391739,A,Poaceae,,Amphipogon,,"debilis",,"","R.Br.",Accepted,,H,WCSP,391739,387325-1,"Prodr. Fl. Nov. Holl.","175","","1810",
+tro-25537111,A,Poaceae,,Amphipogon,,"debilis",var.,"debilis","",Synonym,,L,TRO,25537111,,"","","","",kew-391739
+kew-391740,A,Poaceae,,Amphipogon,,"debilis",var.,"fallax","Domin",Synonym,,L,WCSP,391740,,"J. Linn. Soc., Bot.","41: 275","","1912",kew-391739
+kew-391741,A,Poaceae,,Amphipogon,,"elatior",,"","Gand.",Synonym,,H,WCSP,391741,387326-1,"Bull. Soc. Bot. France","66: 298","","1919 publ. 1920",kew-391752
+kew-391742,A,Poaceae,,Amphipogon,,"gracilis",,"","Nees",Synonym,,H,WCSP,391742,387327-1,"Pl. Preiss.","2: 101","","1846",kew-391752
+kew-391743,A,Poaceae,,Amphipogon,,"humilis",,"","Buch.-Ham. ex Wall.",Synonym,Invalid,H,WCSP,391743,387328-1,"Numer. List","8905D","","1848",kew-423378
+kew-391744,A,Poaceae,,Amphipogon,,"imbricatus",,"","Gand.",Synonym,,H,WCSP,391744,387329-1,"Bull. Soc. Bot. France","66: 298","","1919 publ. 1920",kew-391752
+kew-391745,A,Poaceae,,Amphipogon,,"laguroides",,"","R.Br.",Accepted,,H,WCSP,391745,387330-1,"Prodr. Fl. Nov. Holl.","175","","1810",
+kew-391746,A,Poaceae,,Amphipogon,,"laguroides",subsp.,"havelii","T.D.Macfarl.",Synonym,,L,WCSP,391746,20010470-1,"in Fl. Australia","43: 374","","2002",kew-391745
+kew-391747,A,Poaceae,,Amphipogon,,"pentacraspedon",,"","Hack. ex Wawra",Synonym,Illegitimate,H,WCSP,391747,,"Itin. Princ. S. Coburgi","2: 102","","1888",kew-391731
+kew-391748,A,Poaceae,,Amphipogon,,"pinifolius",,"","Mez",Synonym,,H,WCSP,391748,387333-1,"Repert. Spec. Nov. Regni Veg.","17: 212","","1921",kew-391752
+kew-391749,A,Poaceae,,Amphipogon,,"restionaceus",,"","Pilg.",Synonym,,H,WCSP,391749,,"Bot. Jahrb. Syst.","35: 72","","1904",kew-391759
+kew-391750,A,Poaceae,,Amphipogon,,"sericeus",,"","(Vickery) T.D.Macfarl.",Accepted,,H,WCSP,391750,20010471-1,"in Fl. Australia","43: 375","","2002",
+kew-391751,A,Poaceae,,Amphipogon,,"setaceus",,"","(R.Br.) T.D.Macfarl.",Synonym,,H,WCSP,391751,20010469-1,"in Fl. Australia","43: 374","","2002",kew-409908
+kew-391752,A,Poaceae,,Amphipogon,,"strictus",,"","R.Br.",Accepted,,H,WCSP,391752,387335-1,"Prodr. Fl. Nov. Holl.","175","","1810",
+kew-391753,A,Poaceae,,Amphipogon,,"strictus",var.,"avenaceus","(R.Br.) Benth.",Synonym,,L,WCSP,391753,,"Fl. Austral.","7: 598","","1878",kew-391732
+kew-391754,A,Poaceae,,Amphipogon,,"strictus",var.,"brevisetus","Vickery",Synonym,,L,WCSP,391754,,"Contr. New South Wales Natl. Herb.","1: 294","","1950",kew-391752
+kew-391755,A,Poaceae,,Amphipogon,,"strictus",var.,"desertorum","Domin",Synonym,,L,WCSP,391755,,"J. Linn. Soc., Bot.","41: 276","","1912",kew-391734
+tro-25504644,A,Poaceae,,Amphipogon,,"strictus",var.,"gracilis","(Nees) Benth.",Synonym,,L,TRO,25504644,,"Fl. Austral.","7: 598","598","1878",kew-391752
+kew-391756,A,Poaceae,,Amphipogon,,"strictus",var.,"hirsutus","Vickery",Synonym,,L,WCSP,391756,,"Contr. New South Wales Natl. Herb.","1: 294","","1950",kew-391752
+kew-391757,A,Poaceae,,Amphipogon,,"strictus",var.,"occidentalis","Diels & E.Pritz.",Synonym,,L,WCSP,391757,,"Bot. Jahrb. Syst.","35: 71","","1904",kew-391734
+kew-391758,A,Poaceae,,Amphipogon,,"strictus",var.,"setifer","Benth.",Synonym,,L,WCSP,391758,,"Fl. Austral.","7: 558","","1878",kew-391752
+tro-25522911,A,Poaceae,,Amphipogon,,"strictus",var.,"strictus","",Synonym,,L,TRO,25522911,,"","","","",kew-391752
+kew-391759,A,Poaceae,,Amphipogon,,"turbinatus",,"","R.Br.",Accepted,,H,WCSP,391759,387336-1,"Prodr. Fl. Nov. Holl.","175","","1810",

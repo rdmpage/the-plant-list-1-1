@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98253,A,Compositae,,Acomis,,"acoma",,"","(F.Muell.) Druce",Accepted,,L,TICA,7B674BF1-D8A4-44E9-AB2E-95B12F5E6DE2,174558-1,"","","602","1917",
+gcc-99809,A,Compositae,,Acomis,,"bella",,"","A.E.Holland",Accepted,,M,TICA,A5A577F2-A066-4594-855B-992C352A8F2C,994170-1,"","","609","1997",
+gcc-132915,A,Compositae,,Acomis,,"kakadu",,"","Peter G.Wilson",Unresolved,,L,TICA,62BCBAC9-7113-4141-94D9-E4593261EF0F,169329-3,"Nuytsia 8(3):","","480","1992",
+gcc-23423,A,Compositae,,Acomis,,"kakadu",,"","Paul G.Wilson",Accepted,,M,TICA,7DF3A2EC-C38C-46DB-A1EF-2B5D21A44E75,169329-3,"","","480","1992",
+gcc-135703,A,Compositae,,Acomis,,"lesteri",,"","Burkill",Synonym,,L,TICA,43332ACD-F022-4192-9BD6-EA8DE7C92AEB,174559-1,"","","140","",gcc-98253
+gcc-78167,A,Compositae,,Acomis,,"macra",,"","F.Muell.",Accepted,,L,TICA,96F202BD-51A2-4AB2-A9B2-6884CEA4D453,174560-1,"","","145","1864",
+gcc-25782,A,Compositae,,Acomis,,"rutidosea",,"","F.Muell.",Unresolved,Invalid,L,TICA,8A22CDF4-7789-4E93-92F4-2FA1B1ED5286,,"Fragm. (Mueller) ii. 89 (1860).","","89","",
+gcc-115485,A,Compositae,,Acomis,,"rutidosis",,"","F.Muell. ex Benth.",Synonym,Illegitimate,L,TICA,55F293B5-15B5-4E11-9312-BC411DF9D1D8,86315-3,"""Benth., Fl. Austral. 3. 1867.""","","591","1867",gcc-98253

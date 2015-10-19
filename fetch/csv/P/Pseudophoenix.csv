@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-166472,A,Arecaceae,,Pseudophoenix,,"ekmanii",,"","Burret",Accepted,,H,WCSP,166472,211502-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 6(7): 19","","1929",
+kew-166473,A,Arecaceae,,Pseudophoenix,,"elata",,"","O.F.Cook ex Burret",Synonym,Invalid,H,WCSP,166473,211503-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 6(7): 21","","1929",kew-166476
+kew-166474,A,Arecaceae,,Pseudophoenix,,"gracilis",,"","Ekman ex Burret",Synonym,,H,WCSP,166474,211504-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 6(7): 28","","1929",kew-166480
+kew-166475,A,Arecaceae,,Pseudophoenix,,"insignis",,"","O.F.Cook",Synonym,,H,WCSP,166475,211505-2,"J. Wash. Acad. Sci.","13: 400","","1923",kew-166483
+kew-166476,A,Arecaceae,,Pseudophoenix,,"lediniana",,"","Read",Accepted,,H,WCSP,166476,669304-1,"Gentes Herb.","10: 189","","1968",
+kew-166477,A,Arecaceae,,Pseudophoenix,,"linearis",,"","O.F.Cook",Synonym,,H,WCSP,166477,211506-2,"J. Wash. Acad. Sci.","13: 407","","1923",kew-166480
+kew-166478,A,Arecaceae,,Pseudophoenix,,"navassana",,"","Ekman ex Burret",Synonym,,H,WCSP,166478,211507-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 6(7): 27","","1929",kew-166480
+kew-166479,A,Arecaceae,,Pseudophoenix,,"saonae",,"","O.F.Cook",Synonym,,H,WCSP,166479,211508-2,"J. Wash. Acad. Sci.","13: 406","","1923",kew-166480
+kew-166480,A,Arecaceae,,Pseudophoenix,,"sargentii",,"","H.Wendl. ex Sarg.",Accepted,,H,WCSP,166480,,"Bot. Gaz.","11: 314","","1886",
+kew-166481,A,Arecaceae,,Pseudophoenix,,"sargentii",var.,"navassana","(Ekman ex Burret) Read",Synonym,,L,WCSP,166481,,"Gentes Herb.","10: 211","","1968",kew-166480
+kew-166482,A,Arecaceae,,Pseudophoenix,,"sargentii",subsp.,"saonae","(O.F.Cook) Read",Synonym,,L,WCSP,166482,,"Gentes Herb.","10: 210","","1968",kew-166480
+tro-2400852,A,Arecaceae,,Pseudophoenix,,"sargentii",var.,"saonae","(O.F. Cook) Read",Synonym,,L,TRO,2400852,,"Gentes Herb.","10: 210","210","1968",kew-166480
+tro-2401955,A,Arecaceae,,Pseudophoenix,,"sargentii",subsp.,"sargentii","",Synonym,,L,TRO,2401955,,"","","","",kew-166480
+kew-166483,A,Arecaceae,,Pseudophoenix,,"vinifera",,"","(Mart.) Becc.",Accepted,,H,WCSP,166483,669309-1,"Pomona Coll. J. Econ. Bot.","2(2): 268","","1912",

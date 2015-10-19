@@ -1,0 +1,50 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-88722,A,Compositae,,Boltonia,,"apalachicolensis",,"","L.C.Anderson",Accepted,,M,TICA,9ECC9FD8-7F2A-476D-A50B-8015D358C75B,273358-2,"Syst. Bot. 12","","133","1987",
+gcc-128532,A,Compositae,,Boltonia,,"asteroides",,"","(L.) L'Hér.",Accepted,,M,TICA,8D00DDFB-B8FE-4432-AA24-DA3762A65B6E,185780-1,"","","27","1825",
+gcc-156874,A,Compositae,,Boltonia,,"asteroides",f.,"asteroides","",Synonym,,L,TICA,8C12214C-5EAC-402A-8E41-F60B460873CC,,"","","","",gcc-128532
+gcc-68793,A,Compositae,,Boltonia,,"asteroides",var.,"asteroides","",Accepted,,L,TICA,20F8DF03-EA5F-4229-B782-E1763D368B04,34361-2,"Bull. Torrey Bot. Club 74: 149. 1947","","149","1947",
+gcc-68825,A,Compositae,,Boltonia,,"asteroides",var.,"asteroides","",Unresolved,,L,TICA,62D1823E-22B5-4A1F-97DE-E1B625CAC4A7,,"","","","",
+gcc-24613,A,Compositae,,Boltonia,,"asteroides",var.,"decurrens","Engelm.",Synonym,,L,TICA,69201290-7E2A-4FA9-9652-2D751A30F2DA,34362-2,"","","166","1884",gcc-33957
+gcc-60433,A,Compositae,,Boltonia,,"asteroides",var.,"decurrens","(Torr. & A.Gray) Engelm. ex A.Gray",Synonym,,L,TICA,4D8AD27F-AB3E-46ED-9FB3-9E4AFAF9E1E5,,"Synoptical Flora of North America 1(2):","","166","1884",gcc-33957
+gcc-68570,A,Compositae,,Boltonia,,"asteroides",var.,"decurrens","(Torr. & A.Gray) Fernald",Synonym,,L,TICA,911B625E-CACC-4E17-87D9-DFCAFE956A11,,"","","","",gcc-33957
+gcc-69675,A,Compositae,,Boltonia,,"asteroides",var.,"glastifolia","(Hill) Fernald",Synonym,,L,TICA,C2BB66CB-A3BB-4584-B3AB-E82EB50CA55C,34363-2,"Rhodora 42","","486","1940",gcc-68825
+gcc-66014,A,Compositae,,Boltonia,,"asteroides",var.,"latisquama","(A.Gray) Cronquist",Accepted,,L,TICA,B505AC94-5CC5-420A-9288-CB5E763AF1E2,34364-2,"Bull. Torrey Bot. Club 74","","149","1947",
+gcc-39408,A,Compositae,,Boltonia,,"asteroides",var.,"recognita","(Fernald & Griscom) Cronquist",Accepted,,L,TICA,EE2B77FB-17F4-426B-9676-49214C6C29E6,34365-2,"Bull. Torrey Bot. Club 74","","149","1947",
+gcc-117600,A,Compositae,,Boltonia,,"asteroides",f.,"rosea","Benke",Synonym,,L,TICA,DFD6D00F-80F5-46A3-9878-C10B409317DB,34366-2,"Rhodora 34","","9","1932",gcc-128532
+gcc-16986,A,Compositae,,Boltonia,,"campestris",,"","(A.Gray) Benth. & Hook.f.",Unresolved,,L,TICA,BE295D67-2E98-4836-9F18-1F640B3955A0,,"Genera Plantarum 2(1):","","269","1873",gcc-16782
+gcc-95285,A,Compositae,,Boltonia,,"campestris",,"","(A.Gray) Hemsl.",Synonym,,L,TICA,B53DF14A-EFF2-4F1F-B30A-8EF381C6DD63,,"","","120","1881",gcc-16782
+gcc-93346,A,Compositae,,Boltonia,,"cantoniensis",,"","Franch. & Sav.",Synonym,,M,TICA,7DBC8C26-7A37-4744-ACD3-8A8B0536D219,,"","","398","1878",gcc-32353
+gcc-92526,A,Compositae,,Boltonia,,"caroliniana",,"","(Walter) Fernald",Accepted,,M,TICA,3762EED7-AFA2-4D21-86D8-88CDF5B670D5,34367-2,"Rhodora 42","","487","1940",
+gcc-33957,A,Compositae,,Boltonia,,"decurrens",,"","(Torr. & A.Gray) Alph.Wood",Accepted,,M,TICA,8E7AE86C-4FBF-43FA-B3A4-3EF862BB3D37,,"Amer. Bot. Flor.: 166 (1871)","","166","",
+gcc-102311,A,Compositae,,Boltonia,,"diffusa",,"","Elliott",Accepted,,M,TICA,15BB03E1-9667-49E3-8862-9ED3DE39418B,,"","","400","",
+gcc-67531,A,Compositae,,Boltonia,,"diffusa",var.,"diffusa","",Synonym,,L,TICA,66B22AA4-0E54-4D2B-9B16-D7EB1E6E16C3,,"","","","",gcc-102311
+gcc-45133,A,Compositae,,Boltonia,,"diffusa",var.,"interior","Fernald & Griscom",Accepted,,L,TICA,C255367F-3270-4F74-84E2-53AB3F5FC15D,,"Rhodora 42","","","1940",
+gcc-143701,A,Compositae,,Boltonia,,"glastifolia",,"","(Hill) L'Hér.",Synonym,,M,TICA,DA22AA30-33D1-4FE4-841B-FC7D12D4A2E2,185785-1,"","","27","",gcc-68793
+gcc-78894,A,Compositae,,Boltonia,,"glastifolia",,"","Michx.",Unresolved,Illegitimate,L,TICA,2FCA61F0-77A2-4D4D-9542-6A36BD1224B9,,"Flora Boreali-Americana 2:","","132","1803",
+gcc-69915,A,Compositae,,Boltonia,,"glastifolia",var.,"decurrens","Torr. & A.Gray",Synonym,,L,TICA,77C60E7F-3F80-47E4-B80A-EA041C710892,34369-2,"","","188","1842",gcc-33957
+gcc-48899,A,Compositae,,Boltonia,,"glastifolia",var.,"glastifolia","",Synonym,,L,TICA,F501DEFF-102D-47B7-99DE-5A8EF2ED8660,,"","","","",gcc-78894
+gcc-22627,A,Compositae,,Boltonia,,"incisa",,"","(Fisch.) Benth.",Synonym,Invalid,M,TICA,892A752E-922A-4C0B-A0DC-29E23C176B8D,185786-1,"Fl. Hongk.","","173","1861",gcc-102434
+gcc-9227,A,Compositae,,Boltonia,,"indica",,"","(L.) Benth.",Synonym,,M,TICA,530858F8-22A4-4EA6-9A04-113D13141470,185787-1,"Fl. Hongk.: 174 (1861)","","174","1861",gcc-140038
+gcc-147817,A,Compositae,,Boltonia,,"indica",var.,"indica","",Synonym,,L,TICA,017067B3-6901-470F-9E0C-35CD85196AC7,,"","","","",gcc-140038
+gcc-60444,A,Compositae,,Boltonia,,"indica",var.,"pinnatifida","Matsum.",Synonym,,L,TICA,50EAA4BA-A019-493C-90F7-9E5EB241541C,,"","","3","1886",gcc-27678
+gcc-15155,A,Compositae,,Boltonia,,"integrifolia",,"","(Turcz. ex DC.) Lauener",Synonym,,M,TICA,CA8F0AA7-B791-4A50-ADFA-1C137570DBAE,185789-1,"","","334","1976",gcc-140303
+gcc-95316,A,Compositae,,Boltonia,,"integrifolia",,"","(Turcz. ex DC.) Benth. & Hook.f.",Synonym,,M,TICA,94AC3AEF-CCC4-48EA-A3EB-8F04F477560F,,"Gen. ii. 269.","","","1873",gcc-140303
+gcc-98495,A,Compositae,,Boltonia,,"interior",,"","(Fernald & Griscom) G.N.Jones",Synonym,,M,TICA,BD544B3B-A3E3-495D-8FDD-9648107665E4,34370-2,"","","478","1955",gcc-45133
+gcc-127473,A,Compositae,,Boltonia,,"japonica",,"","Benth. & Hook.f.",Unresolved,,L,TICA,BDC2EB4C-4958-4253-BDF7-D7BE05559AA0,185791-1,"Gen. ii. 269.","","ii. 269","",
+gcc-5989,A,Compositae,,Boltonia,,"japonica",,"","(Miq.) Benth. & Hook.f. ex B.D.Jacks.",Synonym,,M,TICA,5062B6F2-7469-4453-AE91-0B26A64B1FC5,,"Index Kew.: 319 (1893)","","319","1893",gcc-114641
+gcc-37951,A,Compositae,,Boltonia,,"latisquama",,"","A.Gray",Synonym,,M,TICA,8BC26F34-0AB7-4280-A7B6-4661A70A0A61,,"","","238","1862",gcc-66014
+gcc-59682,A,Compositae,,Boltonia,,"latisquama",var.,"decurrens","(Torr. & A.Gray) Fernald & Griscom",Synonym,,L,TICA,422C50A8-F864-4BF8-8A5C-98674DE14DA1,34372-2,"Rhodora 42","","492","1940",gcc-33957
+gcc-19681,A,Compositae,,Boltonia,,"latisquama",var.,"latisquama","",Synonym,,L,TICA,B0AFF952-92DB-4D79-ACC2-2463EF20420A,,"","","","",gcc-66014
+gcc-4568,A,Compositae,,Boltonia,,"latisquama",var.,"microcephala","Fernald & Griscom",Synonym,,L,TICA,299EA426-829D-4AB6-8036-0879B1DCCDE2,,"Rhodora 42","","","1940",gcc-39408
+gcc-3111,A,Compositae,,Boltonia,,"latisquama",var.,"occidentalis","A.Gray",Synonym,,L,TICA,8606F03C-A5C4-4A72-A3D6-05BE3B6DDF09,34374-2,"","","166","1884",gcc-39408
+gcc-48836,A,Compositae,,Boltonia,,"latisquama",var.,"recognita","Fernald & Griscom",Synonym,,L,TICA,7694E7BA-7E65-408D-B218-5A76B93B4FC3,,"Rhodora 42","","","1940",gcc-39408
+gcc-27973,A,Compositae,,Boltonia,,"lautureana",,"","Debeaux",Accepted,,M,TICA,19606388-B415-4F5C-9FBB-33AE9DC1DEB8,185793-1,"","","215","1877",
+gcc-58008,A,Compositae,,Boltonia,,"lautureana",var.,"holophylla","Chen",Synonym,,L,TICA,A6588F15-4BBB-4A20-8E0F-8B28353E4232,,"Bulletin of the Fan Memorial Institute of Biology : <Botany> 5:","","41","1934",gcc-75399
+gcc-152167,A,Compositae,,Boltonia,,"lautureana",var.,"lautureana","",Synonym,,L,TICA,37BF2C08-BD19-4199-BD3E-93EABBB0CF51,,"","","","",gcc-27973
+gcc-31844,A,Compositae,,Boltonia,,"montana",,"","J.F.Towns. & Kar.-Castro",Unresolved,,L,TICA,E2D6F0D3-76D8-4AA9-B44D-3B013A68C463,60445228-2,"Sida 22(2): 874 (873-886; figs. 1-4)","","","2006",
+gcc-135425,A,Compositae,,Boltonia,,"occidentalis",,"","(A.Gray) Howell",Synonym,,M,TICA,03B1EEE7-B1E4-4789-9C92-E9FC9C8C1510,34376-2,"","","305","1900",gcc-39408
+gcc-96870,A,Compositae,,Boltonia,,"pekinensis",,"","(Hance) Hance",Synonym,,M,TICA,03F04F71-CDBD-4F6E-B364-9282E325E90E,185795-1,"J. Bot. 5","","370","1867",gcc-140303
+gcc-131021,A,Compositae,,Boltonia,,"ravenelii",,"","Fernald & Griscom",Synonym,,M,TICA,EC20735C-C033-4D69-B5CB-DFE58F8338EB,,"Rhodora 42","","","1940",gcc-92526
+gcc-98018,A,Compositae,,Boltonia,,"recognita",,"","(Fernald & Griscom) G.N.Jones",Synonym,,M,TICA,F30991FE-1AC1-448B-AF10-952F8BC4C23D,185797-1,"","","478","1955",gcc-39408
+gcc-126299,A,Compositae,,Boltonia,,"savatieri",,"","Makino",Synonym,,M,TICA,7EC74CBF-BE48-491E-9986-D505153D9DF8,,"","","174","1894",gcc-32353
+gcc-26085,A,Compositae,,Boltonia,,"seemannii",,"","Benth. & Hook.f.",Synonym,,L,TICA,7208B5C3-993B-438F-BAF4-303BC2168CA7,185798-1,"","","269","1873",gcc-22527

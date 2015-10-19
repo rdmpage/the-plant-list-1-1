@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17210,A,Compositae,,Cyathocline,,"birmanica",,"","Gand.",Synonym,,M,TICA,B8C3C419-465E-4C6B-BFF9-1FCF4AC8FA08,200832-1,"Bull. Soc. Bot. France 60","","22","1913",gcc-144794
+gcc-82536,A,Compositae,,Cyathocline,,"flava",,"","C.B.Clarke",Synonym,Illegitimate,M,TICA,988DF5D0-26DA-42D9-A962-72489B7EB252,200833-1,"","","37","1876",gcc-101628
+gcc-108788,A,Compositae,,Cyathocline,,"jacquemontii",,"","Gagnep.",Accepted,,M,TICA,4A618AF2-0448-4223-8067-AD28D63EF81E,200834-1,"Bull. Soc. Bot. France 68","","49","1921",
+gcc-79980,A,Compositae,,Cyathocline,,"lawii",,"","Wight",Unresolved,,L,TICA,8B9F95BC-9DB9-4EDA-83DC-6C960BE2AE27,,"","","","1861",
+gcc-101628,A,Compositae,,Cyathocline,,"lutea",,"","law ex Wight",Accepted,,M,TICA,16054973-6245-40AA-9092-9D3131F7A9B9,200837-1,"","","158","1847",
+gcc-13139,A,Compositae,,Cyathocline,,"lyrata",,"","Cass.",Synonym,,M,TICA,F39085B9-F4A8-4F7A-9118-187D8353F40C,200838-1,"Ann. Sci. Nat. (Paris) 17","","420","1829",gcc-144794
+gcc-49363,A,Compositae,,Cyathocline,,"manilaliana",,"","C.P.Raju & R.R.V.Raju",Accepted,,M,TICA,1C6E70E5-A09B-42B1-9BDF-5B727026231E,,"","","151","1999",
+gcc-144794,A,Compositae,,Cyathocline,,"purpurea",,"","(Buch.-Ham. ex D.Don) Kuntze",Accepted,,M,TICA,4B908B98-C107-4C59-A66E-FEEB1B43C6DB,200839-1,"Revis. Gen. Pl. 1","","333","1891",
+gcc-156625,A,Compositae,,Cyathocline,,"purpurea",var.,"purpurea","",Synonym,,L,TICA,45BD99F8-2EFC-4E36-8712-F124D0A44207,,"Revis. Gen. Pl. 1: 333. 1891","","333","1891",gcc-144794
+gcc-81696,A,Compositae,,Cyathocline,,"stricta",,"","DC.",Synonym,,M,TICA,9FC3996A-FAA5-4CD4-B552-706B50092607,200840-1,"","","374","1836",gcc-144794

@@ -1,0 +1,136 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-48131,A,Compositae,,Porophyllum,,"amplexicaule",,"","Engelm. ex A.Gray",Accepted,,M,TICA,5DA3B53B-51C5-4710-889F-593426BE0004,,"Pl. Wright. i. 120.","","","1852",
+gcc-110926,A,Compositae,,Porophyllum,,"angustissimum",,"","Gardner",Accepted,,M,TICA,1B4519AF-CEF1-4B3A-8DCD-B1F90D7B8924,239292-1,"London J. Bot. 7: 410 (1848).","","410","1848",
+gcc-140656,A,Compositae,,Porophyllum,,"angustissimum",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,58B59CF7-2A39-44CB-AF4C-F5937E37A057,,"","","","",
+gcc-85168,A,Compositae,,Porophyllum,,"arenosum",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,909C14F7-7D58-4298-AD65-7818D89D24C7,,"Fl. Bras. (Martius) 6(3): 285","","285","1884",gcc-110926
+gcc-119781,A,Compositae,,Porophyllum,,"aridicola",,"","V.M.Badillo",Unresolved,,L,TICA,F82B48FF-59D1-425C-937A-C5F5A131CDF1,898523-1,"","","10","1981",
+gcc-52732,A,Compositae,,Porophyllum,,"bahiense",,"","D.J.N.Hind",Accepted,,M,TICA,F6B7DD8C-83C2-4F5D-A49C-61C37B9D1724,,"Kew Bull. 57(3)","","","2002",
+gcc-112910,A,Compositae,,Porophyllum,,"brachypodum",,"","B.L.Rob.",Synonym,,M,TICA,6A48035F-3AF3-4FD2-B968-B6801936E830,208385-2,"","","341","1900",gcc-127350
+gcc-33581,A,Compositae,,Porophyllum,,"brevifolium",,"","(Hook. & Arn.) Malme",Unresolved,,L,TICA,0FED891F-0EE5-4855-96D1-3E424192B026,,"","","","1899",
+gcc-139627,A,Compositae,,Porophyllum,,"cabrerae",,"","D.J.N.Hind",Accepted,,M,TICA,651E24F4-3E88-43D6-8D4E-F3244D5160B2,,"","","388","2000",
+gcc-117361,A,Compositae,,Porophyllum,,"cacalioides",,"","(Less.) DC.",Accepted,,M,TICA,853F9106-503B-457B-880D-C080DC61F0BB,239296-1,"","","650","1836",
+gcc-36596,A,Compositae,,Porophyllum,,"caesium",,"","Casar.",Unresolved,,L,TICA,8D431958-FD91-463E-B1E0-43DB68197587,,"Nov. Stirp. Bras. Dec. 86.","","","",
+gcc-76750,A,Compositae,,Porophyllum,,"caesium",,"","Greene",Synonym,Illegitimate,M,TICA,8706C3D1-8E98-4784-81E6-65569D4CC5C5,208387-2,"","","155","1911",gcc-98514
+gcc-114462,A,Compositae,,Porophyllum,,"calcicola",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,A830B8AA-9A40-4216-BF8C-B9E84E3700FB,208388-2,"Proc. Amer. Acad. Arts 39: 116. 1903","","116","1903",
+gcc-101758,A,Compositae,,Porophyllum,,"cedrense",,"","Rose & Standl. ex Rydb.",Synonym,,M,TICA,F96AAC4B-D06F-4D54-BD54-9D75609E1C2B,239300-1,"N. Amer. Fl. xxxiv. 189 (1916).","","189","1916",gcc-98514
+gcc-128377,A,Compositae,,Porophyllum,,"cedrense",,"","Rose & Standl.",Unresolved,,L,TICA,C9CA7A09-1FF7-4C17-9C54-D9E493B3AE66,208389-2,"N. Amer. Fl. 34: 189. 1916","","189","1916",
+gcc-5451,A,Compositae,,Porophyllum,,"coloratum",,"","(Kunth) DC.",Accepted,,M,TICA,57678FD4-9CDD-4083-8B27-0A2822C8DB8E,239301-1,"Prodr. (DC.) 5: 650","","650","1836",
+gcc-66951,A,Compositae,,Porophyllum,,"coloratum",var.,"coloratum","",Synonym,,L,TICA,8136B869-C386-45BC-AD22-D2F8DC88892F,,"","","","1836",gcc-5451
+gcc-54359,A,Compositae,,Porophyllum,,"coloratum",var.,"obtusifolium","(DC.) McVaugh",Accepted,,L,TICA,C0D6EEB7-3E1D-4F95-8B30-6D636CBDC43C,208391-2,"","","442","1972",
+gcc-142100,A,Compositae,,Porophyllum,,"confertum",,"","Greene",Synonym,,M,TICA,5FFFC37C-588B-4CD7-8700-F8E880E24E3E,,"","","","1911",gcc-98514
+gcc-21835,A,Compositae,,Porophyllum,,"confertum",var.,"confertum","",Synonym,,L,TICA,7A9E650A-9962-47B7-BEF3-28663C69D7E8,,"","","","",gcc-98514
+gcc-70815,A,Compositae,,Porophyllum,,"confertum",var.,"ochroleucum","(Rydb.) I.M.Johnst.",Synonym,,L,TICA,514BA8D1-EDE9-42A8-8DD0-F10E8BD79948,,"""Proc. Calif. Acad. Sci. ser. 4, 12: 1209. 1924""","","1209","1924",gcc-98514
+gcc-112901,A,Compositae,,Porophyllum,,"crassifolium",,"","S.Watson",Accepted,,M,TICA,1C3C42AB-C590-438D-B1E8-B67B6CB5A00A,208393-2,"","","57","1889",
+gcc-82996,A,Compositae,,Porophyllum,,"curticeps",,"","Malme",Synonym,,M,TICA,D17D43DD-8FD7-46CE-98D2-734E05FB08B1,239304-1,"","","74","1932",gcc-105947
+gcc-130296,A,Compositae,,Porophyllum,,"cusimbua",,"","DC.",Unresolved,,L,TICA,24CAA65B-3A6C-4CEA-A4D9-DE342DE3ABB5,239305-1,"Prodr. (DC.) 5: 650","","650","1836",
+gcc-16628,A,Compositae,,Porophyllum,,"decumbens",,"","DC.",Unresolved,,L,TICA,DB348C60-883F-4978-95D8-1EB80C93D786,239306-1,"Prodr. (DC.) 5: 650","","650","1836",
+gcc-78222,A,Compositae,,Porophyllum,,"divaricatum",,"","Rydb.",Synonym,,M,TICA,9B53CE36-D7A2-4C8A-ABB6-68A61248D27A,208395-2,"","","186","1916",gcc-8075
+gcc-17387,A,Compositae,,Porophyllum,,"ellipticum",,"","(L.) Cass.",Synonym,,M,TICA,9C301AC7-72A3-4DDD-8B2C-20209F9B4936,1133163-2,"","","56","1826",gcc-116772
+gcc-6518,A,Compositae,,Porophyllum,,"ellipticum",var.,"ellipticum","",Synonym,,L,TICA,82A4B673-528E-4C1A-A5E5-0C1C82738285,,"","","","",gcc-116772
+gcc-18755,A,Compositae,,Porophyllum,,"ellipticum",var.,"intermedium","DC.",Synonym,,L,TICA,F5B7159C-3FB2-48E4-BDDF-22A2614B4E26,208397-2,"Prodr. (DC.) 5: 648","","648","1836",gcc-116772
+gcc-12235,A,Compositae,,Porophyllum,,"equisetiforme",,"","M.Gómez & Molinet",Unresolved,,L,TICA,AB674568-8566-4DEB-8760-16CFBD55F142,208399-2,"Anales Hist. Nat. 19: 277. 1890","","277","1890",
+gcc-91446,A,Compositae,,Porophyllum,,"eremophilum",,"","Cabrera",Synonym,,M,TICA,46DD441A-DE05-4822-A952-866BF846B9F6,,"","","","1949",gcc-40178
+gcc-12733,A,Compositae,,Porophyllum,,"ervendbergii",,"","A.Gray",Synonym,,M,TICA,A47A5150-A3C2-41E2-865B-17BAA554465E,239310-1,"","","35","1883",gcc-8075
+gcc-129586,A,Compositae,,Porophyllum,,"excertum",,"","Baker",Synonym,,M,TICA,D16FFFDD-22B1-4E40-9A20-DC992B2C7B55,,"Fl. Bras. (Martius) 6(3): 284","","284","",gcc-105947
+gcc-157188,A,Compositae,,Porophyllum,,"exsertum",,"","Baker",Synonym,,M,TICA,2B3390B3-EB3F-468B-9C4A-FCD0F418F274,,"","","","",gcc-105947
+gcc-119509,A,Compositae,,Porophyllum,,"filifolium",,"","A.Gray",Synonym,Illegitimate,M,TICA,242DD885-7A48-4766-AE1A-C5516EBDE95E,,"Proceedings of the American Academy of Arts and Sciences 18:","","107","1882",gcc-49829
+gcc-125393,A,Compositae,,Porophyllum,,"filifolium",,"","A.Gray ex S.Watson",Unresolved,,L,TICA,72CD1629-2188-4620-BDEA-D2F317B7B5D0,,"""Proc. Amer. Acad. Arts xviii. (1882-83) 107, nomen.""","","107","",
+gcc-20707,A,Compositae,,Porophyllum,,"filifolium",,"","(Spreng.) DC.",Synonym,,L,TICA,28CC13A7-56A7-4926-AF5B-264D9FE45C17,239313-1,"Prodr. (DC.) 5: 651","","651","1836",gcc-127906
+gcc-49829,A,Compositae,,Porophyllum,,"filiforme",,"","Rydb.",Accepted,,M,TICA,81104AE9-27F3-4D8F-95AE-5C60DAB4E1CA,208402-2,"","","190","1916",
+gcc-131959,A,Compositae,,Porophyllum,,"fruticulosum",,"","Rydb.",Synonym,,M,TICA,B175CDD9-9FC7-4F8B-B92D-E223C8F30477,208401-2,"","","193","1916",gcc-112100
+gcc-98514,A,Compositae,,Porophyllum,,"gracile",,"","Benth.",Accepted,,M,TICA,3662F301-3E13-4470-B127-9652026A6310,,"Bot. Voy. Sulphur 29.","","","1844",
+gcc-30456,A,Compositae,,Porophyllum,,"greggii",,"","A.Gray",Accepted,,M,TICA,FA2B1963-6AA2-468E-89E8-3857702796D2,,"Pl. Wright. i. 120.","","","1852",
+gcc-32401,A,Compositae,,Porophyllum,,"guatemalense",,"","Rydb.",Synonym,,M,TICA,F1929AB7-8B8C-43B9-9EF9-3C112AC02E83,208403-2,"","","190","1916",gcc-8075
+gcc-43291,A,Compositae,,Porophyllum,,"haenkei",,"","DC.",Synonym,,M,TICA,C5F97875-AA5E-46DC-B912-5037479470F1,239319-1,"Prodr. (DC.) 5: 649","","649","1836",gcc-40178
+gcc-47998,A,Compositae,,Porophyllum,,"hasslerianum",,"","Chodat",Accepted,,M,TICA,35C5A0DF-E61E-4862-9C7F-58EE887A414F,,"","","730","1903",
+gcc-88897,A,Compositae,,Porophyllum,,"hieracioides",,"","DC.",Unresolved,,L,TICA,72E0E353-A5C2-4591-A16E-8072C7F40660,239321-1,"Prodr. (DC.) 5: 650","","650","1836",
+gcc-99635,A,Compositae,,Porophyllum,,"holwayanum",,"","Greenm.",Synonym,,M,TICA,F1A86A29-574C-4193-8C29-98D099DC3FE2,208405-2,"","","48","1904",gcc-100977
+gcc-42476,A,Compositae,,Porophyllum,,"japonicum",,"","(Thunb.) DC.",Synonym,,L,TICA,70B9B47F-ED2F-422E-BC89-4EA86A207FB2,239323-1,"","","650","1836",gcc-110749
+gcc-136978,A,Compositae,,Porophyllum,,"jorullense",,"","(Kunth) Cass.",Synonym,,M,TICA,9EADA8D2-EF4C-4873-9561-ED6FB4C8193F,239324-1,"","","57","1826",gcc-8075
+gcc-98801,A,Compositae,,Porophyllum,,"junciforme",,"","Greene",Synonym,,M,TICA,74173A8D-F9D8-43A2-AF80-96E6331F0E17,208406-2,"","","154","1911",gcc-98514
+gcc-105947,A,Compositae,,Porophyllum,,"lanceolatum",,"","DC.",Accepted,,M,TICA,E76FEE69-7606-438C-B426-A6B6F6F58751,208407-2,"Prodr. (DC.) 5: 649","","649","1836",
+gcc-68120,A,Compositae,,Porophyllum,,"lanceolatum",var.,"angustius","Chodat",Synonym,,L,TICA,51933259-7287-429F-91D2-DC6117D65D37,,"""Bull. Herb. Boissier ser. 2, 3: 729. 1903""","","729","1903",gcc-105947
+gcc-62975,A,Compositae,,Porophyllum,,"lanceolatum",var.,"corymbosum","Chodat",Synonym,,L,TICA,CDA42037-D3B9-4A77-9753-B320D6DF264D,,"""Bull. Herb. Boissier ser. 2, 3: 730. 1903""","","730","1903",gcc-105947
+gcc-74227,A,Compositae,,Porophyllum,,"lanceolatum",f.,"depauperata","Chodat",Synonym,,L,TICA,B24BAE71-DFB1-41BC-A446-380B21161487,,"""Bull. Herb. Boissier ser. 2, 3: 730. 1903""","","730","1903",gcc-105947
+gcc-125019,A,Compositae,,Porophyllum,,"lanceolatum",f.,"foetens","Chodat",Synonym,,L,TICA,A03B5B9F-A094-4A7F-AD05-D21D33E2B71A,,"""Bull. Herb. Boissier ser. 2, 3: 729. 1903""","","729","1903",gcc-105947
+gcc-64876,A,Compositae,,Porophyllum,,"lanceolatum",var.,"genuinum","Hassl.",Synonym,,L,TICA,8099780E-AEC8-4A99-87E5-C1DAE85B99E3,208412-2,"Repert. Spec. Nov. Regni Veg. 16: 28. 1919","","28","1919",gcc-105947
+gcc-60401,A,Compositae,,Porophyllum,,"lanceolatum",var.,"glaucum","Hassl.",Synonym,,L,TICA,896CA615-28A5-49D3-A313-9DFDD156C563,208413-2,"Repert. Spec. Nov. Regni Veg. 16: 29. 1919","","29","1919",gcc-105947
+gcc-54275,A,Compositae,,Porophyllum,,"lanceolatum",var.,"induratum","Chodat",Synonym,,L,TICA,CEB048A7-468C-451A-BA45-6CB5DBE799D1,,"""Bull. Herb. Boissier ser. 2, 3: 730. 1903""","","730","1903",gcc-105947
+gcc-151039,A,Compositae,,Porophyllum,,"lanceolatum",var.,"lanceolatum","",Synonym,,L,TICA,C458564F-6AFD-4AF6-B14F-7BE801EFF35B,,"","","","",gcc-105947
+gcc-157155,A,Compositae,,Porophyllum,,"lanceolatum",f.,"lanceolatum","",Synonym,,L,TICA,DD04EE6C-4277-4299-875A-FC1FB22916C5,,"","","","",gcc-105947
+gcc-48224,A,Compositae,,Porophyllum,,"lanceolatum",var.,"lineare","Hassl.",Synonym,,L,TICA,BEEEFA14-E6EF-4A68-B883-5963E524433D,208415-2,"Repert. Spec. Nov. Regni Veg. 16: 29. 1919","","29","1919",gcc-105947
+gcc-42603,A,Compositae,,Porophyllum,,"latifolium",,"","Benth.",Synonym,,M,TICA,D225AE69-6677-41A5-887C-4EE716AABCD8,,"","","441","1840",gcc-26229
+gcc-143622,A,Compositae,,Porophyllum,,"leiocarpum",,"","(Urb.) Rydb.",Accepted,,M,TICA,95069574-AAA0-425E-981E-FC4D4953D319,208416-2,"N. Amer. Fl. 34: 184. 1916","","184","1916",
+gcc-45858,A,Compositae,,Porophyllum,,"leptophyllum",,"","I.M.Johnst.",Synonym,,M,TICA,0A47501F-E847-4373-8A9D-5501C9BB1DB8,,"""Proc. Calif. Acad. Sci. ser. 4, 12""","","1210","1924",gcc-112901
+gcc-19929,A,Compositae,,Porophyllum,,"leucospermum",,"","Greene",Synonym,,M,TICA,7B1B03F1-4674-4D7D-8D2B-24D888A1F29E,208418-2,"","","155","1911",gcc-98514
+gcc-84412,A,Compositae,,Porophyllum,,"linaria",,"","(Cav.) DC.",Accepted,,M,TICA,1B1A521F-FDAC-4F3C-A992-768249C63FC2,30183731-2,"Prodr. (DC.) 5: 649","","649","1836",
+gcc-91493,A,Compositae,,Porophyllum,,"linariifolium",,"","St.-Lag.",Synonym,,M,TICA,DEBFBF15-00DC-4A20-9C8F-8680057881B3,239332-1,"Ann. Soc. Bot. Lyon","","132","1880",gcc-84412
+gcc-145188,A,Compositae,,Porophyllum,,"lindenii",,"","Sch.Bip.",Accepted,,M,TICA,29882DEF-20BD-43FC-BEA4-FFDACB4B543B,,"""in Seem. Bot. Voy. Herald, 308.""","","","1856",
+gcc-37367,A,Compositae,,Porophyllum,,"lineare",,"","DC.",Synonym,,M,TICA,598ED47F-4306-4392-B065-45403C4E8B02,239335-1,"Prodr. (DC.) 5: 649","","649","1836",gcc-40178
+gcc-80261,A,Compositae,,Porophyllum,,"lineare",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,DC1AB897-E7CC-4948-B462-6D3A2DEBC570,,"Fl. Bras. (Martius) 6(3): 284","","284","",
+gcc-148632,A,Compositae,,Porophyllum,,"lineare",var.,"lineare","",Synonym,,L,TICA,6E7C4D66-7DFE-46C4-8B00-46E382453800,,"","","","",gcc-40178
+gcc-127906,A,Compositae,,Porophyllum,,"linifolium",,"","(Ard.) DC.",Unresolved,Illegitimate,L,TICA,B7AE5716-3400-4245-9C65-D8CDF6342460,239337-1,"Prodr. (DC.) 5: 649","","649","1836",
+gcc-155926,A,Compositae,,Porophyllum,,"linifolium",var.,"linifolium","",Synonym,,L,TICA,A1CDD027-E391-4872-A032-E29872ECAC51,,"","","","",gcc-127906
+gcc-82650,A,Compositae,,Porophyllum,,"macrocephalum",,"","DC.",Synonym,,M,TICA,018A00E8-53F2-4181-ADB8-72887EEB62C8,208423-2,"Prodr. (DC.) 5: 648","","648","1836",gcc-26229
+gcc-35777,A,Compositae,,Porophyllum,,"macrocephalum",var.,"leiocarpum","Urb.",Synonym,,L,TICA,A67C9744-B509-4F77-BC3A-42535A903FE6,,"Symb. Antill. 1: 466. 1899","","466","1900",gcc-143622
+gcc-54447,A,Compositae,,Porophyllum,,"macrocephalum",var.,"macrocephalum","",Synonym,,L,TICA,B4193D0B-D5D0-48B3-94DF-6E2C1A754415,,"","","","1836",gcc-116772
+gcc-37927,A,Compositae,,Porophyllum,,"macrolepidium",,"","Malme",Synonym,,M,TICA,46587F02-457D-4F7D-AD93-4657AAEDEA2E,208425-2,"","","69","1899",gcc-116772
+gcc-12195,A,Compositae,,Porophyllum,,"maritimum",,"","Brandegee",Accepted,,M,TICA,AF4F6A3F-0ECC-4CC9-A984-16BB2B4A19FC,208426-2,"","","162","1903",
+gcc-119667,A,Compositae,,Porophyllum,,"martii",,"","Baker",Synonym,,M,TICA,280E7766-F054-43A8-A439-C5B1A5797BE1,,"Fl. Bras. (Martius) 6(3): 284","","284","1884",gcc-105947
+gcc-107741,A,Compositae,,Porophyllum,,"millspaughii",,"","Robinson ex Millsp.",Unresolved,,L,TICA,72CE62DF-BA95-4B7D-BC69-AAC653A3DF76,239342-1,"in Field Columb. Mus. Bot. ii. 109.","","ii. 109.","",
+gcc-3370,A,Compositae,,Porophyllum,,"millspaughii",,"","B.L.Rob.",Synonym,,M,TICA,7680300A-7D5E-4C0B-9A2F-0637035D1EB6,208427-2,"","","109","1900",gcc-8075
+gcc-9620,A,Compositae,,Porophyllum,,"nelsonii",,"","B.L.Rob. & Greenm.",Synonym,,M,TICA,50D02BDC-3F71-476F-B233-11F64851D8F2,208428-2,"Proc. Amer. Acad. Arts","","32","1896",gcc-8075
+gcc-18589,A,Compositae,,Porophyllum,,"nodosum",,"","M.E.Jones",Synonym,,M,TICA,4D94D0E7-E2EB-4253-828F-225AE572C9B3,315645-2,"","","82","1933",gcc-98514
+gcc-105484,A,Compositae,,Porophyllum,,"nummularium",,"","DC.",Synonym,,M,TICA,EF9F4592-D3C8-4F75-8FA3-A5AE95F0E50C,239345-1,"","","649","1836",gcc-8075
+gcc-83973,A,Compositae,,Porophyllum,,"nutans",,"","B.L.Rob. & Greenm.",Synonym,,M,TICA,CBDCCE9D-353F-4EF2-84D6-7579D3205331,208429-2,"","","31","1896",gcc-100977
+gcc-88374,A,Compositae,,Porophyllum,,"oblanceolatum",,"","Rusby",Synonym,,M,TICA,CE24C44A-9776-4C30-B982-7F499C6B57F5,208430-2,"","","64","1896",gcc-40178
+gcc-9711,A,Compositae,,Porophyllum,,"oblongum",,"","Rydb.",Synonym,,M,TICA,1497E456-36CA-4A86-AC93-1225B3F913C0,208431-2,"","","186","1916",gcc-8075
+gcc-40178,A,Compositae,,Porophyllum,,"obscurum",,"","(Spreng.) DC.",Accepted,,M,TICA,22376F3B-7D84-4EB2-AFE3-4A81B362384E,239349-1,"Prodr. (DC.) 5: 651","","651","1836",
+gcc-106692,A,Compositae,,Porophyllum,,"obtusifolium",,"","DC.",Synonym,,M,TICA,A01FDFB4-8B5C-41BD-8F23-A865713071DB,208432-2,"Prodr. (DC.) 5: 650","","650","1836",gcc-54359
+gcc-48373,A,Compositae,,Porophyllum,,"ochroleucum",,"","Rydb.",Synonym,,M,TICA,1E35EC0C-91D9-46FD-9468-599E00320881,208433-2,"","","189","1916",gcc-98514
+gcc-80825,A,Compositae,,Porophyllum,,"oppositifolium",,"","Kuntze",Unresolved,Illegitimate,L,TICA,A3C5BCFD-5693-4F95-A1F8-6E71697FC324,208434-2,"Revis. Gen. Pl. 3[3]","","168","1898",
+gcc-92363,A,Compositae,,Porophyllum,,"oppositifolium",,"","(Poir.) DC.",Unresolved,,L,TICA,981D934E-B67F-435F-81F2-886C244E54AF,239352-1,"Prodr. (DC.) 5: 651","","651","1836",
+gcc-97121,A,Compositae,,Porophyllum,,"palmeri",,"","Rose",Synonym,,M,TICA,FBA72F10-986A-4833-AD65-93280378AA3A,208435-2,"","","""338, pl. 34""","1895",gcc-8075
+gcc-127350,A,Compositae,,Porophyllum,,"pausodynum",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,2CC85C18-7CB6-4A13-8E89-D77677C04CCC,208436-2,"","","32","1896",
+gcc-49934,A,Compositae,,Porophyllum,,"pinifolium",,"","Rydb.",Synonym,,M,TICA,A27CE071-7728-4275-9C4F-5C90B2DBDF39,208437-2,"","","192","1916",gcc-98514
+gcc-37100,A,Compositae,,Porophyllum,,"pittieri",,"","Rydb.",Synonym,,M,TICA,9E72F8A3-EA27-459F-815C-44BDA96470D1,208438-2,"","","188","1916",gcc-8075
+gcc-97070,A,Compositae,,Porophyllum,,"platyphyllum",,"","Chodat",Synonym,,L,TICA,9D74825F-EA71-4B41-9561-930681B35879,,"","","397","1902",gcc-80825
+gcc-82162,A,Compositae,,Porophyllum,,"porfyreum",,"","Rose & Standl.",Synonym,,M,TICA,0648A7F1-6E61-4D05-B5FC-716766F0DDB6,208440-2,"","","191","1916",gcc-12195
+gcc-122404,A,Compositae,,Porophyllum,,"porophyllum",,"","(L.) Kuntze",Synonym,Illegitimate,M,TICA,4835391E-685A-4F31-AD25-CBEB349F5E00,208441-2,"Revis. Gen. Pl. 3[3]: 168","","168","1898",gcc-116772
+gcc-49801,A,Compositae,,Porophyllum,,"prenanthoides",,"","DC.",Synonym,,M,TICA,FB67FE31-B881-442F-8A84-5C5363904804,239361-1,"Prodr. (DC.) 5: 649","","649","1836",gcc-105947
+gcc-29714,A,Compositae,,Porophyllum,,"pringlei",,"","B.L.Rob.",Accepted,,M,TICA,016548C7-3E86-4F36-9616-36EC4CBFDD58,208442-2,"Proc. Amer. Acad. Arts 27: 178. 1892","","178","1892",
+gcc-8075,A,Compositae,,Porophyllum,,"punctatum",,"","(Mill.) S.F.Blake",Accepted,,M,TICA,27D4C08A-FCFA-4B57-BA09-0F07A86BFB33,208443-2,"Contr. Gray Herb. 52","","58","1917",
+gcc-126766,A,Compositae,,Porophyllum,,"purpureum",,"","M.E.Jones",Synonym,,M,TICA,682E32A9-EE9C-46CF-AAC7-D60E4FC25833,315644-2,"","","81","1933",gcc-145188
+gcc-25145,A,Compositae,,Porophyllum,,"putidum",,"","A.Nelson",Synonym,,M,TICA,8082DC4C-0343-43DB-9F8E-2E6A8B8CBDAB,208444-2,"","","440","1931",gcc-98514
+gcc-88700,A,Compositae,,Porophyllum,,"pygmaeum",,"","D.J.Keil & Morefield",Accepted,,M,TICA,8F9A5BA6-BA94-44E8-B335-800B2755450D,,"","","","1989",
+gcc-95290,A,Compositae,,Porophyllum,,"quinqueflorum",,"","Brandegee",Synonym,,M,TICA,552CF72F-8DBC-47E7-8555-8EF817C69B3F,208445-2,"","","225","1905",gcc-29714
+gcc-7455,A,Compositae,,Porophyllum,,"riedelii",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,ED570809-EDBD-4070-A79B-0DDB330624F6,,"Fl. Bras. (Martius) 6(3): 284","","284","1884",gcc-110926
+gcc-106735,A,Compositae,,Porophyllum,,"rotundifolium",,"","M.E.Jones",Synonym,,M,TICA,59D980C3-B1FE-4423-BA72-A878E409ADF8,315643-2,"","","81","1933",gcc-145188
+gcc-112009,A,Compositae,,Porophyllum,,"ruderale",,"","M.Gómez",Unresolved,,L,TICA,F28AC27D-14EA-4936-8BAA-B46A938D8541,208447-2,"Anales Hist. Nat. 19: 277. 1890","","277","1890",
+gcc-116772,A,Compositae,,Porophyllum,,"ruderale",,"","(Jacq.) Cass.",Accepted,,M,TICA,D78AD427-6E4D-4C8C-8C6A-BF2EDC6EA06C,239369-1,"","","56","1826",
+gcc-145698,A,Compositae,,Porophyllum,,"ruderale",var.,"angustifolium","Hassl.",Synonym,,L,TICA,D941F72E-4489-4323-A23A-090A819BA421,,"","","","",gcc-116772
+gcc-146754,A,Compositae,,Porophyllum,,"ruderale",var.,"ellipticum","(Cass.) A.Gray ex B.L.Rob. & Greenm.",Synonym,,L,TICA,FF3D584F-E11A-4600-A0FB-1F2A268C9D9B,,"","","","",gcc-116772
+gcc-151454,A,Compositae,,Porophyllum,,"ruderale",var.,"glandulosum","Chodat & Hassl.",Synonym,,L,TICA,1B15DD29-D7AB-4C3D-A418-84E6255B90D9,,"","","","",gcc-116772
+gcc-43813,A,Compositae,,Porophyllum,,"ruderale",var.,"glandulosum","(Salisb.) Chodat",Synonym,,L,TICA,733885FB-D226-49E4-9BAA-512E37DF6792,,"""573+, ser. 2,+ 3(8):""","","729","1903",gcc-116772
+gcc-26229,A,Compositae,,Porophyllum,,"ruderale",subsp.,"macrocephalum","(DC.) R.R.Johnson",Accepted,,L,TICA,89EE62DE-CEF3-47E3-B586-3080DCDEBAA5,,"University of Kansas Science Bulletin 48(7):","","233","1969",
+gcc-66269,A,Compositae,,Porophyllum,,"ruderale",var.,"macrocephalum","(DC.) Cronquist",Synonym,,L,TICA,6A1A957C-2FF2-49E0-8D9E-CD6C0B903905,208450-2,"Madrono; Journal of the California Botanical Society 20(5):","","255","1970",gcc-26229
+gcc-65430,A,Compositae,,Porophyllum,,"ruderale",var.,"macrolepidium","(Malme) Chodat",Synonym,,L,TICA,42D2C5E8-5563-4FAF-BA20-C6BA9792D973,,"""573+, ser. 2,+ 3(8):""","","729","1903",gcc-116772
+gcc-151605,A,Compositae,,Porophyllum,,"ruderale",f.,"ruderale","",Synonym,,L,TICA,77F11329-4925-49BC-81D4-8868128CDD51,,"","","","",gcc-116772
+gcc-56275,A,Compositae,,Porophyllum,,"ruderale",var.,"ruderale","",Synonym,,L,TICA,4E53301B-5AE3-4269-A6EE-7D21A4C5510A,,"","","","",gcc-116772
+gcc-70666,A,Compositae,,Porophyllum,,"ruderale",subsp.,"ruderale","",Synonym,,L,TICA,0822810A-AC47-4090-BD6D-EFDD10343CF7,,"","","","",gcc-116772
+gcc-74654,A,Compositae,,Porophyllum,,"ruderale",f.,"suffruticosa","Chodat",Synonym,,L,TICA,FFD61E82-BBCF-4500-982A-47AEC70A4291,,"""573+, ser. 2,+ 3(8):""","","729","1903",gcc-116772
+gcc-112100,A,Compositae,,Porophyllum,,"scoparium",,"","A.Gray",Accepted,,M,TICA,88297256-3987-4211-BA1B-B4A534231DCE,,"Pl. Wright. i. 119.","","","1852",
+gcc-118222,A,Compositae,,Porophyllum,,"seemannii",,"","Sch.Bip.",Synonym,,M,TICA,9CB798C9-3E2F-4E71-9C49-C26FCB7A59B8,,"""in Seem. Bot. Voy. Herald, 308.""","","","1856",gcc-5451
+gcc-27271,A,Compositae,,Porophyllum,,"selloi",,"","DC.",Unresolved,,L,TICA,9811CDE9-6B0C-4AB4-826D-3270CFBA61BB,239372-1,"Prodr. (DC.) 5: 651","","651","1836",
+gcc-110098,A,Compositae,,Porophyllum,,"simplex",,"","M.E.Jones",Synonym,,M,TICA,F8FB9BD4-5A8E-4825-A114-B015CAD3DA39,208453-2,"","","46","1908",gcc-5451
+gcc-133657,A,Compositae,,Porophyllum,,"suffruticosum",,"","(L.) Cass.",Synonym,Illegitimate,L,TICA,8402C1E1-8E1C-4BA6-85C5-E5FC5437A2E5,239374-1,"in Dict. Sci. Nat. xliii. 57.","","57","1826",gcc-127906
+gcc-91840,A,Compositae,,Porophyllum,,"tagetoides",,"","(Kunth) DC.",Synonym,,M,TICA,2D63FF15-5AFE-4BF5-8D99-874E65DABD0D,239375-1,"Prodr. (DC.) 5: 650","","650","1836",gcc-84412
+gcc-124301,A,Compositae,,Porophyllum,,"tarapacanum",,"","Zöllner",Unresolved,,L,TICA,5F685C0E-5A8D-4EC1-803C-D05DB4289038,,"Anales Mus. Hist. Nat. Valparaiso 11: 38 (1978 publ. 1979).","","38","1979",
+gcc-43737,A,Compositae,,Porophyllum,,"tharpianum",,"","Steyerm.",Unresolved,Illegitimate,L,TICA,A5094524-0F31-4431-9ED8-5109F3B69639,,"","","","",
+gcc-32934,A,Compositae,,Porophyllum,,"tridentatum",,"","Benth.",Accepted,,M,TICA,8C5FDFFC-E009-4702-B26A-3D148C54CC90,326328-2,"Bot. Voy. Sulphur","","30","1844",
+gcc-65270,A,Compositae,,Porophyllum,,"tridentatum",var.,"crassifolium","(S.Watson) I.M.Johnst.",Synonym,,L,TICA,C8836036-3A0D-4665-B089-C56D7DA27A58,,"""Proc. Calif. Acad. Sci. ser. 4, 12: 1211. 1924""","","1211","1924",gcc-112901
+gcc-65891,A,Compositae,,Porophyllum,,"tridentatum",var.,"tridentatum","",Synonym,,L,TICA,818C2642-E39E-47E0-A272-CA7775F19E0C,,"","","","1844",gcc-32934
+gcc-109336,A,Compositae,,Porophyllum,,"vaseyi",,"","Greene",Synonym,,M,TICA,A828ED03-9267-4EE6-9465-AE6B9527F4CF,,"","","","1911",gcc-98514
+gcc-100977,A,Compositae,,Porophyllum,,"viridiflorum",,"","(Kunth) DC.",Accepted,,M,TICA,CAEA3230-7457-4C13-9E99-9BD2CCBDAF24,239379-1,"Prodr. (DC.) 5: 648","","648","1836",
+gcc-15841,A,Compositae,,Porophyllum,,"warnockii",,"","R.R.Johnson",Accepted,,M,TICA,F6B36C39-7C09-4166-8E60-1D53730E30D9,208456-2,"","","96","1966",
+gcc-91222,A,Compositae,,Porophyllum,,"zimapanum",,"","B.L.Turner",Accepted,,M,TICA,3E16EDE8-1AE3-43E1-88ED-85E189514843,208457-2,"","","119","1983",

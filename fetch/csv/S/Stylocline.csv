@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-85641,A,Compositae,,Stylocline,,"acaulis",,"","Keller",Unresolved,,L,TICA,5D12F28E-E243-447D-9AE3-791CEA7009C5,,"","","","",gcc-13659
+gcc-92030,A,Compositae,,Stylocline,,"acaulis",,"","Kellogg",Synonym,,L,TICA,CF1F7DC5-2530-42AA-8768-87B14B664A0E,311215-2,"Proc. Calif. Acad. Sci. 7: 112. 1877","","112","1877",gcc-13659
+gcc-138966,A,Compositae,,Stylocline,,"amphibola",,"","(A.Gray) J.T.Howell",Synonym,,M,TICA,DBBFE615-A648-458D-B8BF-F1B9ED81DCFC,247430-2,"","","91","1948",gcc-143120
+gcc-18825,A,Compositae,,Stylocline,,"amphiloba",,"","(A.Gray) J.T.Howell",Synonym,,M,TICA,F0904ABB-A9FA-4C65-BFC4-22C180EE2F84,,"","","","",gcc-143120
+gcc-130919,A,Compositae,,Stylocline,,"arizonica",,"","Coville",Unresolved,,L,TICA,5CB552BD-0A92-48F0-8EA7-DFAA18E13C9B,247431-2,"","","79","1892",
+gcc-102342,A,Compositae,,Stylocline,,"citroleum",,"","Morefield",Accepted,,M,TICA,7B7B8B8D-42E5-41CD-901C-9EE4A0250E83,,"","","","1992",
+gcc-118399,A,Compositae,,Stylocline,,"filaginea",,"","(A.Gray) A.Gray",Synonym,,M,TICA,638D6B73-6284-4014-8769-C2D8D1E25ACA,30331031-2,"","","652","1873",gcc-117860
+gcc-37076,A,Compositae,,Stylocline,,"filaginea",var.,"depressa","Jeps.",Synonym,,L,TICA,DED87D80-CA51-4036-9DC5-44B1F7DAED85,247432-2,"Man. Fl. Pl. Calif. 1063. 1925","","1063","1925",gcc-117860
+gcc-147697,A,Compositae,,Stylocline,,"filaginea",var.,"filaginea","",Synonym,,L,TICA,B11215FD-1257-4290-91F4-33393267BD50,,"","","","",gcc-117860
+gcc-138128,A,Compositae,,Stylocline,,"gnaphaloides",,"","Nutt.",Accepted,,M,TICA,DBEFB976-0438-4D84-A988-EFEB837A1248,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 338""","","","1840",
+gcc-145290,A,Compositae,,Stylocline,,"gnaphaloides",var.,"gnaphaloides","",Synonym,,L,TICA,EFD419F5-75FF-43B2-B7BA-013D9CC009CC,,"","","","",gcc-138128
+gcc-35303,A,Compositae,,Stylocline,,"griffithii",,"","A.Gray",Synonym,,M,TICA,82895D16-28E3-424A-B412-4176755E4AB2,251917-1,"","","652","1873",gcc-38306
+gcc-25734,A,Compositae,,Stylocline,,"heringeri",,"","H.Rob.",Synonym,,M,TICA,670330F1-6940-40B5-9D28-2F8A30A2F866,,"","","","1984",gcc-98867
+gcc-941,A,Compositae,,Stylocline,,"intertexta",,"","Morefield",Accepted,,M,TICA,8302CC11-63B5-475C-915E-01BD6CE27FC2,,"","","","1992",
+gcc-105788,A,Compositae,,Stylocline,,"masonii",,"","Morefield",Accepted,,M,TICA,4B0B877E-1A94-40E7-A0EE-A6526B44606D,,"","","","1992",
+gcc-101344,A,Compositae,,Stylocline,,"micropoides",,"","A.Gray",Accepted,,M,TICA,8889DDE5-5562-4CF0-A5E6-9C96CB07BEC7,,"Pl. Wright. ii. 84.","","","1853",
+gcc-93068,A,Compositae,,Stylocline,,"psilocarphoides",,"","M.Peck",Accepted,,M,TICA,14969945-24D2-4965-A72D-89F735F89F3D,247434-2,"","","185","1945",
+gcc-98867,A,Compositae,,Stylocline,,"sonorensis",,"","Wiggins",Accepted,,M,TICA,485A4934-7D49-481B-85F2-97109338BD34,247435-2,"","","26","1950",

@@ -1,2 +1,3 @@
-# the-plant-list-1-1
-The Plant List version 1.1
+# The Plant List version 1.1
+
+Taxonomic names from The Plant List version 1.1.

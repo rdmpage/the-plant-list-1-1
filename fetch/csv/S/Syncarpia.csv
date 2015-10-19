@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-198974,A,Myrtaceae,,Syncarpia,,"glomulifera",,"","(Sm.) Nied.",Accepted,,H,WCSP,198974,601357-1,"Nat. Pflanzenfam.","3(7): 88","","1893",
+kew-198975,A,Myrtaceae,,Syncarpia,,"glomulifera",subsp.,"glabra","(Benth.) A.R.Bean",Accepted,,L,WCSP,198975,984847-1,"Austrobaileya","4: 339","","1995",
+kew-198976,A,Myrtaceae,,Syncarpia,,"glomulifera",subsp.,"glomulifera","",Synonym,,L,WCSP,198976,,"Unknown","","","",kew-198974
+kew-198977,A,Myrtaceae,,Syncarpia,,"hillii",,"","F.M.Bailey",Accepted,,H,WCSP,198977,,"Proc. Roy. Soc. Queensland","1: 86","","1884",
+kew-198978,A,Myrtaceae,,Syncarpia,,"laurifolia",,"","Graeffer ex Ten.",Synonym,,H,WCSP,198978,,"Index Seminum (NAP)","1839(App.): 12","","1839",kew-198974
+kew-198979,A,Myrtaceae,,Syncarpia,,"laurifolia",var.,"glabra","Benth.",Synonym,,L,WCSP,198979,,"Fl. Austral.","3: 266","","1867",kew-198975
+kew-198980,A,Myrtaceae,,Syncarpia,,"leptopetala",,"","F.Muell.",Synonym,,H,WCSP,198980,,"Fragm.","1: 79","","1858",kew-39763
+kew-198981,A,Myrtaceae,,Syncarpia,,"procera",,"","(K.D.Koenig & Sims) Domin",Synonym,,H,WCSP,198981,601361-1,"Biblioth. Bot.","89: 472","","1928",kew-198974
+kew-198982,A,Myrtaceae,,Syncarpia,,"procera",var.,"glabra","(Benth.) Domin",Synonym,,L,WCSP,198982,,"Biblioth. Bot.","89: 1026","","1928",kew-198975
+kew-198983,A,Myrtaceae,,Syncarpia,,"subargentea",,"","C.T.White",Synonym,,H,WCSP,198983,601362-1,"Bot. Bull. Dept. Agric. Queensland","21: 8","","1919",kew-39764
+kew-198984,A,Myrtaceae,,Syncarpia,,"subargentea",var.,"latifolia","C.T.White",Synonym,,L,WCSP,198984,,"Bot. Bull. Dept. Agric. Queensland","21: 8","","1919",kew-39764
+kew-198985,A,Myrtaceae,,Syncarpia,,"verecunda",,"","A.R.Bean",Accepted,,H,WCSP,198985,984848-1,"Austrobaileya","4: 340","","1995",
+kew-198986,A,Myrtaceae,,Syncarpia,,"vertholenii",,"","Teijsm. & Binn.",Synonym,,H,WCSP,198986,601363-1,"Ned. Kruidk. Arch.","3: 411","","1855",kew-215250

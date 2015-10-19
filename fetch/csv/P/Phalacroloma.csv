@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93579,A,Compositae,,Phalacroloma,,"acutifolium",,"","Cass.",Unresolved,,L,TICA,10CC9B8E-D9CE-48E5-B515-8B04C168A3EB,237643-1,"in Dict. Sc. Nat. xxxix. 405 (1826).","","xxxix. 405","1826",
+gcc-4573,A,Compositae,,Phalacroloma,,"annuum",,"","(L.) Dumort.",Synonym,,L,TICA,EEF10F22-87BD-4C6B-BDF0-087D6A0EDEE5,237644-1,"","","67","1827",gcc-3267
+gcc-153551,A,Compositae,,Phalacroloma,,"annuum",subsp.,"annuum","",Synonym,,L,TICA,923B2890-5F6A-4C3A-8E5B-B0B678EBBC49,,"","","","",gcc-3267
+gcc-15055,A,Compositae,,Phalacroloma,,"annuum",subsp.,"septentrionale","(Fernald & Wiegand) Adema",Unresolved,,L,TICA,06063232-D562-4D33-BFAB-1BDE1638F48C,923659-1,"""in Gorteria, 12(3–4): 53 (1984):.""","","53","1984",gcc-61232
+gcc-53608,A,Compositae,,Phalacroloma,,"annuum",subsp.,"strigosum","(Muhl. ex Willd.) Adema",Unresolved,,L,TICA,0A3F05A8-F4E4-4382-AFCF-6780F62B5CCB,923660-1,"""in Gorteria, 12(3–4): 53 (1984):.""","","","1984",gcc-6755
+gcc-112324,A,Compositae,,Phalacroloma,,"beyrichii",,"","(Fisch. & C.A.Mey.) Fisch. & C.A.Mey.",Unresolved,,L,TICA,9745BFBD-E4AA-4D69-925F-B524B928D83B,,"Index Seminum Hort. Petrop. vi. 63","","63","1840",
+gcc-131987,A,Compositae,,Phalacroloma,,"obtusifolium",,"","Cass.",Unresolved,,L,TICA,C79844E3-4458-474B-887A-E2342499E751,237646-1,"in Dict. Sc. Nat. xxxix. 404.","","xxxix. 404","",
+gcc-44182,A,Compositae,,Phalacroloma,,"septentrionale",,"","(Fernald & Wiegand) Tzvelev",Synonym,,M,TICA,2286D43F-0353-40F0-A954-51D1BF0ABD54,969044-1,"","","148","1991",gcc-61232
+gcc-6755,A,Compositae,,Phalacroloma,,"strigosum",,"","(Muhl. ex Willd.) Tzvelev",Accepted,,M,TICA,FAC85138-644D-4512-9CD3-0C86FC1E85CE,969045-1,"Novosti Sist. Vyssh. Rast. 28: 148 (1991):","","148","1991",

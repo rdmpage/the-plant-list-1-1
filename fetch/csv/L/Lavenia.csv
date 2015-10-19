@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-155162,A,Compositae,,Lavenia,,"alba",,"","wallich",Synonym,,M,TICA,1B4344C9-C04C-4C05-B5A5-D2512C969923,,"Num. List Dr. Pl. 3220. 1831. ","","3220","1831",gcc-133281
+gcc-17720,A,Compositae,,Lavenia,,"alba",,"","Wall.",Unresolved,,L,TICA,BEDBA869-4EB3-4B8A-B4B0-20B6485FF8DB,229081-1,"Numer. List [Wallich] n. 3220","","3220","1831",
+gcc-125231,A,Compositae,,Lavenia,,"aquatica",,"","Spreng.",Synonym,,M,TICA,5D8F0852-8D90-4154-9864-D292ED694E3B,229082-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 445","","445","1826",gcc-133281
+gcc-155674,A,Compositae,,Lavenia,,"carnosa",,"","wallich",Synonym,,M,TICA,7B8A0657-AB82-48AC-BEBF-DD397FD350AD,,"Num. List Dr. Pl. 3219. 1831. ","","3219","1831",gcc-133281
+gcc-26018,A,Compositae,,Lavenia,,"carnosa",,"","Wall.",Unresolved,Illegitimate,L,TICA,E3F56E79-C712-492C-8A88-30199C821B1E,229083-1,"Numer. List [Wallich] n. 3219","","3219","1831",
+gcc-123734,A,Compositae,,Lavenia,,"decumbens",,"","Sw.",Synonym,,M,TICA,09FC19AD-A6A2-4D61-BCD5-CF067F4FB5EB,229085-1,"Prodr. (Swartz) 112","","112","1788",gcc-30559
+gcc-46616,A,Compositae,,Lavenia,,"decumbens",,"","Spreng.",Synonym,,M,TICA,A428E573-5B63-4211-A7BE-56646689D413,229084-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 445","","445","1826",gcc-151777
+gcc-100581,A,Compositae,,Lavenia,,"dentata",,"","Wall.",Unresolved,Illegitimate,L,TICA,94D6BA2A-4190-4053-926F-9AF454914A21,229086-1,"Numer. List [Wallich] n. 3216","","3216","1831",
+gcc-152396,A,Compositae,,Lavenia,,"dentata",,"","wallich",Synonym,,M,TICA,AFC2864F-AA40-4821-88B5-98CA76E45310,,"Num. List Dr.","","","",gcc-133281
+gcc-150772,A,Compositae,,Lavenia,,"divaricata",,"","Ham.DC.",Synonym,,M,TICA,65BD1A02-38F7-483F-A73F-75EDC1085FF1,229087-1,"Prodr. 5: 111. 1836. ","","111","1836",gcc-133281
+gcc-50785,A,Compositae,,Lavenia,,"divaricata",,"","Ham.",Unresolved,,L,TICA,D7BCB08D-073F-4D2A-9E16-5E34160A8085,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","111","1836",
+gcc-34140,A,Compositae,,Lavenia,,"elata",,"","Spreng.",Synonym,,M,TICA,6C427278-6F00-4677-BB96-3F4704FDD1C4,229088-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 445","","445","1826",gcc-133281
+gcc-125271,A,Compositae,,Lavenia,,"erecta",,"","Blume",Unresolved,,L,TICA,6C776B01-7330-4B60-B5A4-D2A899D6495F,,"Bijdr. 15 (1826)","","906","1826",
+gcc-134357,A,Compositae,,Lavenia,,"erecta",,"","Sw.",Synonym,,M,TICA,F94308BF-70B7-4ED5-9C27-E7A3E65BDD1A,229089-1,"Prodr. (Swartz) 112","","112","1788",gcc-133281
+gcc-105764,A,Compositae,,Lavenia,,"fastigiata",,"","Blume",Synonym,,M,TICA,BC7F1058-F0CE-4152-96FF-A640CB6DA385,229090-1,"","","905","1826",gcc-133281
+gcc-1915,A,Compositae,,Lavenia,,"glutinosa",,"","Gaudich.",Synonym,,M,TICA,671E4DDB-9CE0-4C01-BA02-03753063886B,229091-1,"in Freyc. Voy. Bot. 471.","","471","1830",gcc-46201
+gcc-94982,A,Compositae,,Lavenia,,"hirsuta",,"","Blume",Synonym,,M,TICA,FE7BD256-D429-4C2A-847F-8E4522B21CF5,229092-1,"","","905","1826",gcc-280
+gcc-140866,A,Compositae,,Lavenia,,"latifolia",,"","Spreng.",Synonym,,M,TICA,351906FA-E70F-46D5-AFA8-F6080C3D44E5,229093-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 445","","445","1826",gcc-133281
+gcc-36777,A,Compositae,,Lavenia,,"macrophylla",,"","Blume",Synonym,,M,TICA,71CADF06-7C76-44DD-899C-442D8B282293,229094-1,"","","905","1826",gcc-46201
+gcc-61257,A,Compositae,,Lavenia,,"macrophylla",var.,"repens","Blume",Synonym,,L,TICA,E3CCFD54-D0CE-480B-B044-A50427E50140,,"Bijdr. 15 (1826)","","905","1826",gcc-46201
+gcc-97810,A,Compositae,,Lavenia,,"montana",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,C7F20E46-3EF6-4533-8C36-94BA0B480EAA,,"Fl. Bras. (Martius) 6(2): 185","","185","1876",gcc-84846
+gcc-21786,A,Compositae,,Lavenia,,"nudiflora",,"","Hort. ex DC.",Synonym,Invalid,M,TICA,993B91B2-B6B4-41BE-98D2-2850481754F5,229096-1,"Prodr. (DC.) 5: 112","","112","1836",gcc-133281
+gcc-107857,A,Compositae,,Lavenia,,"parviflora",,"","Blume",Synonym,,M,TICA,402798CF-7D6B-4C7E-8EC2-AB0F5F4E372D,,"","","906","1826",gcc-46201
+gcc-156363,A,Compositae,,Lavenia,,"rigida",,"","wallich",Synonym,Invalid,M,TICA,AAB13AB8-0266-4CBF-A25D-EB8276DB5115,,"Num. List Dr. Pl. 3215. 1831. ","","3215","1831",gcc-148041
+gcc-39894,A,Compositae,,Lavenia,,"rigida",,"","Wall.",Unresolved,,L,TICA,5AA32A30-8A11-4BDC-98B3-4A08FE2BCACD,229098-1,"Numer. List [Wallich] n. 3215","","3215","1831",
+gcc-97548,A,Compositae,,Lavenia,,"rugosa",,"","Wight",Synonym,Invalid,M,TICA,17E5E481-F281-42F0-9608-94215BCF440B,229099-1,"Numer. List [Wallich] n. 3221","","3221","1831",gcc-133281
+gcc-27666,A,Compositae,,Lavenia,,"sphaerantha",,"","Wall.",Unresolved,Illegitimate,L,TICA,8D556362-CCB7-4BED-9EE7-331EB75B4687,229100-1,"Numer. List [Wallich] n. 3217","","3217","1831",
+gcc-157071,A,Compositae,,Lavenia,,"sphoerantha",,"","wallich",Synonym,,M,TICA,FD4DE1F3-4FBE-4D0D-BA06-FA57F189D879,,"Num. List Dr. Pl. 3217. 1831. ","","3217","1831",gcc-149527
+gcc-93211,A,Compositae,,Lavenia,,"viscida",,"","Buch.-Ham.",Synonym,,M,TICA,5D8BD589-4C2D-4C3C-8807-8A3E17040F4F,229101-1,"Numer. List [Wallich] n. 3222","","3222","1831",gcc-46201

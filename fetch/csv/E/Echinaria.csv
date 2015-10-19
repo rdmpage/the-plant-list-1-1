@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-410160,A,Poaceae,,Echinaria,,"capitata",,"","(L.) Desf.",Accepted,,H,WCSP,410160,399644-1,"Fl. Atlant.","2: 385","","1799",
+kew-410161,A,Poaceae,,Echinaria,,"capitata",var.,"pumila","(Willk.) Willk.",Synonym,,L,WCSP,410161,,"Prodr. Fl. Hispan.","1: 42","","1861",kew-410160
+tro-25553301,A,Poaceae,,Echinaria,,"capitata",f.,"pumila","(Willk.) Maire & Weiller",Synonym,,L,TRO,25553301,,"Fl. Afrique N.","3: 15","15","1955",kew-410160
+kew-410162,A,Poaceae,,Echinaria,,"capitata",var.,"todaroana","Ces.",Synonym,,L,WCSP,410162,,"Comp. Fl. Ital.","41","","1868",kew-410160
+kew-410163,A,Poaceae,,Echinaria,,"pumila",,"","Willk.",Synonym,,H,WCSP,410163,399645-1,"Bot. Zeitung (Berlin)","6: 415","","1848",kew-410160
+kew-410164,A,Poaceae,,Echinaria,,"spicata",,"","Debeaux",Synonym,,H,WCSP,410164,399646-1,"Rev. Bot. Bull. Mens.","8: 266","","1890",kew-410160
+kew-410165,A,Poaceae,,Echinaria,,"todaroana",,"","(Ces.) Cif. & Giacom.",Synonym,,H,WCSP,410165,399647-1,"Nomencl. Fl. Ital.","1: 46","","1950",kew-410160

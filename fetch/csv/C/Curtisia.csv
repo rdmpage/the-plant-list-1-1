@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-52408,A,Curtisiaceae,,Curtisia,,"dentata",,"","(Burm.f.) C.A.Sm.",Accepted,,H,WCSP,52408,271719-1,"J. S. African Forest. Assoc.","20: 34 50","","1951",
+tro-8700097,A,Curtisiaceae,,Curtisia,,"dentata",,"","(Burm. f.) C.A. Smith",Synonym,,M,TRO,8700097,,"","","","",kew-52408
+kew-52409,A,Curtisiaceae,,Curtisia,,"fagifolia",,"","Salisb.",Synonym,,H,WCSP,52409,271720-1,"Prodr. Stirp. Chap. Allerton","67","","1796",kew-52408
+kew-52410,A,Curtisiaceae,,Curtisia,,"faginea",,"","Aiton",Synonym,,H,WCSP,52410,271721-1,"Hort. Kew.","1: 162","","1789",kew-52408
+kew-2748882,A,Rutaceae,,Curtisia,,"schreberi",,"","J.F.Gmel.",Synonym,,M,WCSP (in review),,772298-1,"Syst. Nat.","498","","1791",kew-2902523

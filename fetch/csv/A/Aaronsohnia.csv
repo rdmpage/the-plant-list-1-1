@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-97400,A,Compositae,,Aaronsohnia,,"factorovskyi",,"","Warb. & Eig",Accepted,,M,TICA,2D3305B0-00A1-4394-B4E2-93C6C9AADDB6,173608-1,"Zionist Org. Inst. Agric. & Nat. Hist. Bull.","","40","1927",
+gcc-109362,A,Compositae,,Aaronsohnia,,"pubescens",,"","(Desf.) K.Bremer & Humphries",Accepted,,M,TICA,A3A71BEF-9E6A-441F-BC57-AE7CDE6BFF3B,975166-1,"","","157","1993",
+gcc-31433,A,Compositae,,Aaronsohnia,,"pubescens",subsp.,"maroccana","(Ball) Förther & Podlech",Accepted,,L,TICA,C765B5A4-08BB-456E-95F3-3A3DFA4B939E,20001078-1,"Sendtnera 7","","89","2001",
+gcc-58035,A,Compositae,,Aaronsohnia,,"pubescens",subsp.,"maroccana","(Ball) Fennane & Ibn Tattou",Unresolved,,L,TICA,EDFA6B7D-57C0-406F-BE67-8B5D7EF0C73C,,"Fennane & Ibn Tattou in Bocconea 8. 1998.","","18","1998",
+gcc-53350,A,Compositae,,Aaronsohnia,,"pubescens",subsp.,"pubescens","",Synonym,,L,TICA,F76A7DBB-7A02-4FD0-93C5-65866F533A3A,,"","","","",gcc-109362

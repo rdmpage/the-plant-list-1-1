@@ -1,0 +1,76 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-97020,A,Compositae,,Barnadesia,,"aculeata",,"","(Benth.) Chung",Accepted,,L,TICA,C89B47E9-B43D-403D-9684-92E368FF1A1D,,"","","53","1965",
+gcc-120155,A,Compositae,,Barnadesia,,"arborea",,"","Kunth",Accepted,,M,TICA,5D5396F6-DF17-48A9-B899-C6DB20A7CA67,273073-2,"""Humboldt, A; Bonpland, A.; Kunth, C. S. (eds) (1818) Nova genera et species plantarum. Vol. 4. Maze,  Paris.""","","13","1818",
+gcc-45702,A,Compositae,,Barnadesia,,"arborea",,"","Sch.Bip.",Unresolved,,L,TICA,0964F088-3414-47EA-9B77-54B6D64FBEC0,184214-1,"Linnaea 22","","569","1849",
+gcc-67711,A,Compositae,,Barnadesia,,"arborea",var.,"arborea","",Synonym,,L,TICA,862647DD-BAE2-4C7F-A81B-D95DEF08275E,,"","","","",gcc-120155
+gcc-41981,A,Compositae,,Barnadesia,,"arborea",var.,"vestita","(Benoist) I.C.Chung",Synonym,,L,TICA,77DD3219-8859-4AF3-AC42-4DBBA51E4ADF,29584-2,"Revision of #Barnadesia# (Compositae-Mutisieae)","","63","1965",gcc-120155
+gcc-51705,A,Compositae,,Barnadesia,,"berberoides",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,E8525685-D7EF-4146-B10E-5FDFF506D3B6,184215-1,"","","57","1857",gcc-12270
+gcc-107768,A,Compositae,,Barnadesia,,"blakeana",,"","Ferreyra",Accepted,,M,TICA,7EA8E4B2-F3DE-41B9-82D1-AAD6BDA72EC7,184216-1,"","","14","1964",
+gcc-82989,A,Compositae,,Barnadesia,,"caryophylla",,"","(Vell.) S.F.Blake",Accepted,,L,TICA,3160E778-660B-4FDD-8DEF-7349FA8A5A5B,29585-2,"Proc. Biol. Soc. Wash. 38","","86","1925",
+gcc-50649,A,Compositae,,Barnadesia,,"caryophylla",var.,"caryophylla","",Synonym,,L,TICA,8B775AF2-3C5A-4497-A624-5DE8D9A5DD17,,"","","","",gcc-82989
+gcc-139290,A,Compositae,,Barnadesia,,"chachapoyasensis",,"","Chung",Unresolved,,L,TICA,63BF0338-3A75-4F6F-95D6-F26609041E16,184218-1,"","","64","1965",gcc-120155
+gcc-100201,A,Compositae,,Barnadesia,,"ciliata",,"","(I.C.Chung) Harling",Accepted,,M,TICA,B4E779E0-5655-4EC4-B6CD-9A11DDBFC605,273074-2,"","","10","1991",
+gcc-91287,A,Compositae,,Barnadesia,,"coccinosantha",,"","Muschl.",Synonym,,M,TICA,6FBC88F8-A11F-4996-929D-86084A9B31F9,,"","","98","1913",gcc-83635
+gcc-23378,A,Compositae,,Barnadesia,,"corymbosa",,"","(Ruiz & Pav.) D.Don",Accepted,,M,TICA,F8079797-1DB2-44BF-A18B-2B4B2D50CBA0,184220-1,"","","278","1830",
+gcc-55847,A,Compositae,,Barnadesia,,"corymbosa",var.,"aculeata","Benth.",Synonym,,L,TICA,E7E29924-682F-4BFC-A6F2-79784B9D88F6,29588-2,"","","136","1844",gcc-97020
+gcc-149998,A,Compositae,,Barnadesia,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,7B8DFE18-4D88-4628-8019-64ED84018BBE,,"","","","",gcc-23378
+gcc-143222,A,Compositae,,Barnadesia,,"dianthiflora",,"","Mart. ex Baker",Synonym,,L,TICA,41F400FC-7513-4937-8B62-FB6B030A2306,,"","","365","1884",gcc-82989
+gcc-33826,A,Compositae,,Barnadesia,,"divaricata",,"","Griseb.",Synonym,,M,TICA,49F196CB-9C23-4780-9963-3EBBC888E318,184222-1,"","","209","1879",gcc-5639
+gcc-134707,A,Compositae,,Barnadesia,,"dombeyana",,"","Less.",Accepted,,M,TICA,3EC2F9AC-049A-45E0-AB40-E860145AE74E,317703-2,"Linnaea 5: 246. 1830","","246","1830",
+gcc-127227,A,Compositae,,Barnadesia,,"flavescens",,"","Meyen",Synonym,,M,TICA,37A9AEA2-A39D-405A-9D43-D727F45DF950,184224-1,"","","307","1834",gcc-5871
+gcc-116225,A,Compositae,,Barnadesia,,"glochidiata",,"","Mart. ex Baker",Unresolved,,L,TICA,2C0F8690-9821-49A1-813A-BDF808E097DD,,"","","361","1884",
+gcc-22081,A,Compositae,,Barnadesia,,"glomerata",,"","Kuntze",Accepted,,M,TICA,7F17D803-F2A3-459D-B4AB-28D6914DF70F,29590-2,"Revis. Gen. Pl. 3[3]: 135","","135","1898",
+gcc-47187,A,Compositae,,Barnadesia,,"glomerata",var.,"distincta","I.C.Chung",Synonym,,L,TICA,45E58394-70B1-4747-B758-576A5053974C,29591-2,"","","36","1965",gcc-143765
+gcc-12748,A,Compositae,,Barnadesia,,"glomerata",var.,"glomerata","",Synonym,,L,TICA,42010486-28FF-47DD-B83C-17BFAE48C6D6,,"","","","",gcc-22081
+gcc-85850,A,Compositae,,Barnadesia,,"hirsuta",,"","Sch.Bip.",Synonym,Illegitimate,L,TICA,611536B4-7258-485E-BFFA-7996F43C1B99,184227-1,"Linnaea 34","","527","1866",gcc-62522
+gcc-15367,A,Compositae,,Barnadesia,,"horrida",,"","Muschl.",Accepted,,M,TICA,912141D7-0B27-4772-9701-1C74CDAD2082,,"","","100","1913",
+gcc-95601,A,Compositae,,Barnadesia,,"hutchisoniana",,"","Ferreyra",Synonym,,M,TICA,FE6D6132-0D45-441F-95D3-8FB428EC3292,184229-1,"","","30","1964",gcc-22932
+gcc-106953,A,Compositae,,Barnadesia,,"inermis",,"","Rusby",Synonym,,M,TICA,46FED325-B3BE-45A5-A695-A8FDB3EE57AE,29594-2,"","","399","1907",gcc-45088
+gcc-95987,A,Compositae,,Barnadesia,,"jelskii",,"","Hieron.",Accepted,,M,TICA,B10D5CF4-B4FB-4C0D-A2CC-9096771929B2,29595-2,"Bot. Jahrb. Syst. 36","","511","1905",
+gcc-61647,A,Compositae,,Barnadesia,,"jelskii",var.,"acuta","I.C.Chung",Synonym,,L,TICA,10B61B0F-3212-42BC-855F-A8563D2E372E,29596-2,"","","56","1965",gcc-95987
+gcc-18179,A,Compositae,,Barnadesia,,"jelskii",var.,"jelskii","",Synonym,,L,TICA,F7E3E3AC-A17A-4FC5-AF62-219AD235EA4C,,"","","","",gcc-95987
+gcc-20363,A,Compositae,,Barnadesia,,"kingii",,"","H.Rob.",Synonym,,M,TICA,EFA08616-A530-4697-82D2-25A5861934EE,29597-2,"Phytologia 32","","414","1975",gcc-69163
+gcc-126353,A,Compositae,,Barnadesia,,"lanata",,"","Meyen",Synonym,,M,TICA,E7ED4186-DEE8-404E-A189-D52816086734,184233-1,"","","347","1834",gcc-8551
+gcc-2896,A,Compositae,,Barnadesia,,"lanceolata",,"","D.Don",Synonym,,M,TICA,B0161609-AED8-46AC-886B-055BB89E6C9A,184234-1,"","","277","1830",gcc-134707
+gcc-6393,A,Compositae,,Barnadesia,,"laurifolia",,"","Kuntze",Synonym,,M,TICA,22B5C46C-D093-4670-9978-0BE173D6799C,184235-1,"","","135","1898",gcc-78303
+gcc-9743,A,Compositae,,Barnadesia,,"laurifolia",,"","Hieron.",Synonym,,M,TICA,EDD7E08B-E030-41C6-9899-1234E3E10A27,,"","","","1901",gcc-78303
+gcc-12786,A,Compositae,,Barnadesia,,"laxa",,"","D.Don",Synonym,,L,TICA,5C41B175-BFC8-461C-8295-17D1C060113A,,"Trans. Linn. Soc. London 16","","280","",gcc-82989
+gcc-22932,A,Compositae,,Barnadesia,,"lehmannii",,"","Hieron. ex Hieron.",Accepted,,M,TICA,EA659DEF-6191-40A3-A198-2A73D2AD7149,273075-2,"Bot. Jahrb. Syst. 29: 77. 1900","","77","1900",
+gcc-150706,A,Compositae,,Barnadesia,,"lehmannii",var.,"angustifolia","Chung",Synonym,,L,TICA,104720C7-4292-41A2-B3B0-74B8D6A6DE27,,"Rev. Barnadesia: 50 (1965)","","50","1965",gcc-22932
+gcc-35903,A,Compositae,,Barnadesia,,"lehmannii",var.,"angustifolia","I.C.Chung",Synonym,,L,TICA,00F13E41-38DF-47EF-BD5C-42954A414F85,29600-2,"Revis. Barnadesia 50. 1965","","50","1965",gcc-22932
+gcc-11515,A,Compositae,,Barnadesia,,"lehmannii",var.,"ciliata","(ex Chung) I.C.Chung",Synonym,,L,TICA,E08B6FB0-B0D0-4C85-92BE-157B6A5FECC7,273076-2,"Revis. Barnadesia 50. 1965","","50","1965",gcc-100201
+gcc-56005,A,Compositae,,Barnadesia,,"lehmannii",var.,"lehmannii","",Synonym,,L,TICA,6708209F-1D39-4327-B8A2-7AE9E2575A78,,"","","","",gcc-22932
+gcc-69163,A,Compositae,,Barnadesia,,"lehmannii",var.,"villosa","(I.C.Chung) Urtubey",Accepted,,L,TICA,2F650BD8-53C2-4452-A56D-E46475BCB7E7,1007059-1,"","","94","1999",
+gcc-143765,A,Compositae,,Barnadesia,,"macbridei",,"","Ferreyra",Accepted,,M,TICA,FD24F41C-5BEB-4948-85AE-FC9FC1284274,184239-1,"","","23","1964",
+gcc-94441,A,Compositae,,Barnadesia,,"macrocephala",,"","Kuntze",Accepted,,M,TICA,2FB1AF57-5156-4A00-AE71-8CF5A8758AFA,29602-2,"Revis. Gen. Pl. 3[3]: 135","","135","1898",
+gcc-134365,A,Compositae,,Barnadesia,,"media",,"","D.Don",Synonym,,M,TICA,26D3464B-AB0F-4006-A1EA-E7A6EB87A4D1,,"","","276","",gcc-120155
+gcc-124101,A,Compositae,,Barnadesia,,"odorata",,"","Griseb.",Accepted,,M,TICA,EABA445A-9EC5-4A8B-B3B7-CFEAD5C7B1BC,317704-2,"Abh. Königl. Ges. Wiss. Göttingen 24","","210","1879",
+gcc-9215,A,Compositae,,Barnadesia,,"parviflora",,"","Spruce ex Benth. & Hook.f.",Accepted,,M,TICA,F495E04B-B3A1-428B-BE02-113A948FE65D,,"","","485","",
+gcc-113034,A,Compositae,,Barnadesia,,"polyacantha",,"","Wedd.",Accepted,,M,TICA,D53BD63D-4F13-4D2D-B334-B6BDCE0238DC,317705-2,"","","13","1855",
+gcc-65287,A,Compositae,,Barnadesia,,"polyacantha",var.,"attenuata","I.C.Chung",Synonym,,L,TICA,22B6922A-9892-4162-98DE-C59F6F88A8BA,29603-2,"","","47","1965",gcc-69163
+gcc-18564,A,Compositae,,Barnadesia,,"polyacantha",var.,"polyacantha","",Synonym,,L,TICA,D370D5A6-BD9E-4E31-8A4B-224E4F9CB34F,,"","","","",gcc-113034
+gcc-62522,A,Compositae,,Barnadesia,,"polyacantha",var.,"velutina","I.C.Chung",Unresolved,,L,TICA,5829B9AD-4483-4B1F-81EB-AF7555779E7C,29604-2,"","","46","1965",
+gcc-41980,A,Compositae,,Barnadesia,,"polyacantha",var.,"villosa","I.C.Chung",Synonym,,L,TICA,38AD054A-D5BB-4113-8E95-4DBB139470D7,29605-2,"","","46","1965",gcc-69163
+gcc-12270,A,Compositae,,Barnadesia,,"pycnophylla",,"","Muschl.",Accepted,,M,TICA,23522A56-7B57-449B-983F-16E2A0CDF87E,,"","","","1913",
+gcc-144530,A,Compositae,,Barnadesia,,"reticulata",,"","D.Don",Accepted,,M,TICA,050B7DC9-E6B6-40B2-887B-FE5208B7B156,184246-1,"","","277","1830",
+gcc-6462,A,Compositae,,Barnadesia,,"rosea",,"","Lindl.",Synonym,,L,TICA,2F8033B7-AFE8-4F44-A3B1-0C09E37CA2BF,,"","","","1843",gcc-82989
+gcc-57802,A,Compositae,,Barnadesia,,"rosea",var.,"macrospinosa","Loefgr.",Synonym,,L,TICA,31F1669B-6A45-4B24-A0C2-8957C649AF1B,,"Bol. Commiss. Geogr. Estado Sao Paulo 12","","","1897",gcc-82989
+gcc-152568,A,Compositae,,Barnadesia,,"rosea",var.,"rosea","",Synonym,,L,TICA,65C6593B-9925-4B52-A667-9C37AD94D223,,"","","","",gcc-82989
+gcc-29668,A,Compositae,,Barnadesia,,"seleriana",,"","Muschl.",Synonym,,M,TICA,7081ACD3-3099-48F2-B154-36D6D218A75F,,"","","99","1913",gcc-143693
+gcc-122583,A,Compositae,,Barnadesia,,"sodiroi",,"","Hieron. ex Sodiro",Synonym,,M,TICA,63B7982A-3930-4E29-996A-CC549BEB9C5F,,"","","78","1901",gcc-120155
+gcc-18104,A,Compositae,,Barnadesia,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,CA54C06F-1B93-4F71-9292-216F33677BE5,,"Bot. Jahrb. Syst. 29: 78. 1900","","78","",gcc-120155
+gcc-110082,A,Compositae,,Barnadesia,,"spinosa",,"","Less. ex Urtubey",Synonym,Illegitimate,L,TICA,DF3FC4AD-2DA1-45A4-9F54-B00D2C1EC14E,,"Annals of the Missouri Botanical Garden 86(1):","","81","1999",gcc-82989
+gcc-130711,A,Compositae,,Barnadesia,,"spinosa",,"","L.f.",Accepted,,M,TICA,0571B7CC-EA49-4ABB-851C-DF33E93B0B69,184250-1,"","","348","1782",
+gcc-150575,A,Compositae,,Barnadesia,,"spinosa",,"","Less.",Synonym,,L,TICA,BCD4F42B-6AEB-4CC7-AA28-71AF90A230FA,,"","","","",gcc-82989
+gcc-76164,A,Compositae,,Barnadesia,,"spinosa",,"","Willd. ex DC.",Synonym,,M,TICA,17BD7C8C-5CB7-4E59-96F2-640BCBED59D3,,"","","3","",gcc-120155
+gcc-8353,A,Compositae,,Barnadesia,,"spinosa",,"","Willd.",Unresolved,Illegitimate,L,TICA,8498CEB1-4E98-4375-AA1E-0F8A1866657B,,"Prodromus Systematis Naturalis Regni Vegetabilis 7:","","3","1838",
+gcc-57448,A,Compositae,,Barnadesia,,"spinosa",var.,"recurvata","I.C.Chung",Synonym,,L,TICA,50E568BE-0593-4D85-AC31-865FB671D78A,29610-2,"Revision of #Barnadesia# (Compositae-Mutisieae)","","70","1965",gcc-130711
+gcc-70614,A,Compositae,,Barnadesia,,"spinosa",var.,"spinosa","",Synonym,,L,TICA,5489AD9D-862D-4BBC-B627-EF6518B4FE05,,"","","","",gcc-130711
+gcc-114107,A,Compositae,,Barnadesia,,"trianae",,"","Hieron.",Synonym,,M,TICA,F55D1E32-75E3-4F08-8C94-B91A2F0AD53E,273077-2,"Bot. Jahrb. Syst. 19: 71. 1894","","71","1894",gcc-9215
+gcc-24144,A,Compositae,,Barnadesia,,"ulicina",,"","Hook. & Arn.",Unresolved,,L,TICA,E0FCA337-8137-4983-887F-2C99FA3E8B55,184253-1,"","","29","1830",
+gcc-5912,A,Compositae,,Barnadesia,,"venosa",,"","Rusby",Synonym,,M,TICA,BFE1D3B8-3F44-4D76-802A-0B01B2988853,29612-2,"Mem. Torrey Bot. Club 6","","69","1896",gcc-23378
+gcc-149590,A,Compositae,,Barnadesia,,"verpretorum",,"","Mart. ex Baker",Synonym,,L,TICA,7E7FC9E9-74A0-4194-9AB1-5C57AEDF6D90,,"","","","",gcc-82989
+gcc-127483,A,Compositae,,Barnadesia,,"vestita",,"","Benoist",Synonym,,M,TICA,68C6EE23-9D58-4DBF-9E46-D7C04BC3D28E,29613-2,"Bull. Soc. Bot. France 84","","634","1938",gcc-120155
+gcc-108799,A,Compositae,,Barnadesia,,"weberbaueri",,"","Muschl.",Synonym,,M,TICA,C0DCDCC3-5367-4CFD-99F7-AD2CD89B3DA4,,"","","97","1913",gcc-83635
+gcc-95366,A,Compositae,,Barnadesia,,"woodii",,"","D.J.N.Hind",Accepted,,M,TICA,B274DCFC-79EA-4589-8F4A-8F2696CB08BC,20001193-1,"Kew Bull. 56(3)","","705","2001",
+gcc-47465,A,Compositae,,Barnadesia,,"wurdackii",,"","Ferreyra",Synonym,,M,TICA,5FDFAAB4-45E3-4C43-91C2-57F0EBEB4204,325677-2,"","","16","1964",gcc-120155

@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79948,A,Compositae,,Waldheimia,,"glabra",,"","(Decne.) Regel",Accepted,,M,TICA,1DEE1F27-B832-45DA-A11D-6C7DAAE0F4B1,260128-1,"""Act. Hort. Petrop. vi. (1879) 308, 309""","","309","1879",
+gcc-137790,A,Compositae,,Waldheimia,,"huegelii",,"","(Sch.Bip.) Tzvelev",Accepted,,M,TICA,65CAE873-A331-447C-A31A-EF3426217B65,260125-1,"Flora URSS 26:","","271","1961",
+gcc-143104,A,Compositae,,Waldheimia,,"korolkowii",,"","Regel & Schmalh.",Synonym,,L,TICA,02F167FD-ED6D-4243-8E97-FB23734DC6C5,260129-1,"""Act. Hort. Petrop. vi. (1879) 308, 310.""","","310","1879",gcc-118564
+gcc-93583,A,Compositae,,Waldheimia,,"lasiocarpa",,"","G.X.Fu",Accepted,,M,TICA,B3BA0E1D-A729-462D-BA05-8B05033EC466,,"Acta Phytotax. Sin. 17(2): 113 (1979).","","","1979",
+gcc-90644,A,Compositae,,Waldheimia,,"nivea",,"","(Hook.f. & Thomson ex C.B.Clarke) Regel",Unresolved,,L,TICA,427CC220-95EB-4DE1-82FE-848CAE188C70,260131-1,"","","309","1879",
+gcc-118564,A,Compositae,,Waldheimia,,"stoliczkae",,"","(C.B.Clarke) Ostenf.",Unresolved,,L,TICA,B96E4A51-7D3A-464B-AB1A-C33E0B680A9B,260132-1,"","","38","1922",
+gcc-31081,A,Compositae,,Waldheimia,,"stracheyana",,"","Regel",Synonym,,M,TICA,72C752ED-9C2C-443E-8FF1-398D1E23EDA0,260133-1,"""Act. Hort. Petrop. vi. (1879) 308, 309""","","309","1879",gcc-137790
+gcc-134722,A,Compositae,,Waldheimia,,"tomentosa",,"","(Decne.) Regel",Synonym,,L,TICA,C6B893E7-7C16-460D-8649-E865D5D15139,,"""Act. Hort. Petrop. vi. (1879) 308, 310""","","310","1880",gcc-8683
+gcc-101919,A,Compositae,,Waldheimia,,"transalaica",,"","Tzvelev",Accepted,,M,TICA,1C42BB54-1DCF-427A-A34E-9DD865182FF9,,"""Fl. USSR, Addenda 25:834 (2000)""","","","2000",
+gcc-129925,A,Compositae,,Waldheimia,,"tridactylites",,"","Kar. & Kir.",Accepted,,M,TICA,4F6B334F-4BAF-44D8-9F0F-DD6543C0C31A,260135-1,"in Bull. Soc. Nat. Mosc. xv. (1842) 126.","","126","1842",
+gcc-62388,A,Compositae,,Waldheimia,,"tridactylites",subsp.,"glabra","(Decne.) Podlech",Synonym,,L,TICA,DA539DCC-358A-4BF9-AA82-AE6926A027C1,878536-1,"Mitt. Bot. Staatssamml. München 13: 497 (1977)","","497","1977",gcc-79948
+gcc-153873,A,Compositae,,Waldheimia,,"tridactylites",subsp.,"tridactylites","",Synonym,,L,TICA,C35F86F9-47DA-465D-B7A3-B70BF0D8A97C,,"","","","",gcc-129925
+gcc-46344,A,Compositae,,Waldheimia,,"vestita",,"","(Hook.f. & Thomson ex C.B.Clarke) Pamp.",Accepted,,M,TICA,BF8EE0FC-A882-436D-840F-55E51076FAAA,,"Fl. Caracorum 208. 1930","","208","1930",

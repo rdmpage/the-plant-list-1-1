@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-127963,A,Compositae,,Polyarrhena,,"imbricata",,"","(DC.) Grau",Accepted,,M,TICA,90DD86FF-2B58-45B9-8428-D8E9373AFA51,239146-1,"Mitt. Bot. Staatssamml. München vii. 364 (1970)","","364","1970",
+gcc-49128,A,Compositae,,Polyarrhena,,"prostrata",,"","Grau",Accepted,,M,TICA,754D2AB0-AA35-431A-91AF-5AFACBBB9F37,,"Mitt. Bot. Staatssamml. München vii. 361 (1970).","","361","",
+gcc-38595,A,Compositae,,Polyarrhena,,"prostrata",subsp.,"prostrata","",Synonym,,L,TICA,79145AF7-C4DF-4EA8-B153-479F198CE1BE,,"","","","",gcc-49128
+gcc-89992,A,Compositae,,Polyarrhena,,"reflexa",,"","(L.) Cass.",Accepted,,M,TICA,5C2E832F-12B1-4D65-BE38-82FDF91B795E,239148-1,"in Dict. Sci. Nat. lvi. 173 (1826).","","lvi. 173","1826",
+gcc-67659,A,Compositae,,Polyarrhena,,"reflexa",subsp.,"brachyphylla","(Sond. ex Harv.) Grau",Accepted,,L,TICA,1242EADD-687C-4249-8638-D8F2B7F941B2,,"","","","",
+gcc-50884,A,Compositae,,Polyarrhena,,"reflexa",subsp.,"reflexa","",Synonym,,L,TICA,FBCAA8D6-4B83-4417-B5FE-5E642D7E974B,,"","","","",gcc-89992
+gcc-122418,A,Compositae,,Polyarrhena,,"stricta",,"","Grau",Accepted,,M,TICA,6C4E967C-37F5-4B02-A3EA-CBF6EE159734,,"Mitt. Bot. Staatssamml. München vii. 358 (1970).","","358","",

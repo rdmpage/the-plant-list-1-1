@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-301531,A,Butomaceae,,Butomus,,"caesalpini",,"","Neck.",Synonym,,H,WCSP,301531,58285-1,"Delic. Gallo-Belg.","1: 189","","1768",kew-301538
+kew-301532,A,Butomaceae,,Butomus,,"floridus",,"","Gaertn.",Synonym,,H,WCSP,301532,,"Fruct. Sem. Pl.","1: 74","","1788",kew-301538
+kew-301533,A,Butomaceae,,Butomus,,"junceus",,"","Turcz.",Accepted,,H,WCSP,301533,,"Bull. Soc. Imp. Naturalistes Moscou","27(2): 60","","1854",
+kew-301534,A,Butomaceae,,Butomus,,"junceus",f.,"erectus","V.V.Petrovsky",Synonym,,L,WCSP,301534,,"Fl. Yakutii","","","",kew-301533
+kew-301535,A,Alismataceae,,Butomus,,"lanceolatus",,"","Roxb.",Synonym,,H,WCSP,301535,58288-1,"Fl. Ind. ed. 1832","2: 315","","1832",kew-301529
+kew-301536,A,Alismataceae,,Butomus,,"latifolius",,"","D.Don",Synonym,,H,WCSP,301536,58289-1,"Prodr. Fl. Nepal.","22","","1825",kew-301529
+kew-301537,A,Butomaceae,,Butomus,,"scutariensis",,"","Rohlena",Synonym,Invalid,H,WCSP,301537,128626-1,"Vestn. Král. Ceské Spolecn. Nauk, Tr. Mat.-Prír.","35: 6","","1931 publ. 1932",kew-301538
+kew-301538,A,Butomaceae,,Butomus,,"umbellatus",,"","L.",Accepted,,H,WCSP,301538,58290-1,"Sp. Pl.","372","","1753",
+kew-343096,A,Butomaceae,,Butomus,,"umbellatus",f.,"albiflorus","F.Fromm",Synonym,,L,WCSP,343096,,"Allg. Bot. Z. Syst.","11: 161","","1905",kew-301538
+kew-301539,A,Butomaceae,,Butomus,,"umbellatus",var.,"junceus","(Turcz.) Micheli",Synonym,,L,WCSP,301539,,"Monogr. Phan.","3: 85","","1881",kew-301533
+kew-301540,A,Butomaceae,,Butomus,,"umbellatus",var.,"minor","Ledeb.",Synonym,,L,WCSP,301540,,"Fl. Ross.","4: 44","","1852",kew-301538
+kew-301541,A,Butomaceae,,Butomus,,"umbellatus",f.,"natans","V.V.Petrovsky",Synonym,,L,WCSP,301541,,"Fl. Yakutii","","","",kew-301538
+kew-343095,A,Butomaceae,,Butomus,,"umbellatus",var.,"parviflorus","Buchenau",Synonym,,L,WCSP,343095,,"Gött. Gel. Anz.","1869: 237","","1869",kew-301538
+kew-301542,A,Butomaceae,,Butomus,,"umbellatus",var.,"scutariensis","Rohlena",Synonym,,L,WCSP,301542,,"Vestn. Král. Ceské Spolecn. Nauk, Tr. Mat.-Prír.","35: 6","","1931 publ. 1932",kew-301538
+kew-371169,A,Butomaceae,,Butomus,,"umbellatus",f.,"submersus","Glück",Synonym,,L,WCSP,371169,,"Süsswasserflora","15: 107","","1936",kew-301538
+kew-371170,A,Butomaceae,,Butomus,,"umbellatus",f.,"terrestris","Glück",Synonym,,L,WCSP,371170,,"Süsswasserflora","15: 107","","1936",kew-301538
+tro-4800014,A,Butomaceae,,Butomus,,"umbellatus",f.,"umbellatus","",Synonym,,L,TRO,4800014,,"","","","",kew-301538
+kew-301543,A,Butomaceae,,Butomus,,"umbellatus",var.,"vallisneriifolia","Sagorski",Synonym,,L,WCSP,301543,,"Syn. Mitteleur. Fl.","1: 396","","1897",kew-301538
+kew-301544,A,Butomaceae,,Butomus,,"vulgaris",,"","Gueldenst.",Synonym,,H,WCSP,301544,58291-1,"Reis. Russland","2: 22","","1791",kew-301538

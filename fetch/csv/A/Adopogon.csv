@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-78532,A,Compositae,,Adopogon,,"amplexicaule",,"","(Nutt.) Kuntze",Synonym,,L,TICA,29D2F0C5-A583-4A81-A53A-695F9BF93D95,,"Revis. Gen. Pl. 1","","304","1891",gcc-21406
+gcc-156026,A,Compositae,,Adopogon,,"amplexicaulis",,"","(Michx.) Kuntze",Synonym,,L,TICA,581F2093-8CDC-4701-A21E-E50A54E8834E,5315-2,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","304","1891",gcc-21406
+gcc-34856,A,Compositae,,Adopogon,,"carolinianum",,"","(Nutt.) Britton ex Small & Vail",Synonym,,M,TICA,68D53FF7-1245-4AD9-BAF2-409E171BF91B,,"","","","1893",gcc-15758
+tro-100376116,A,Compositae,,Adopogon,,"carolinianus",,"","(Walter) Britton",Accepted,,M,TRO,100376116,5316-2,"Mem. Torrey Bot. Club","5: 346","346","1894",
+gcc-93592,A,Compositae,,Adopogon,,"dandelion",,"","Kuntze",Synonym,,M,TICA,7E804415-4AB4-4A44-96C1-8B09BEA8BFA9,5317-2,"Revis. Gen. Pl. 1","","304","1891",gcc-138526
+gcc-154568,A,Compositae,,Adopogon,,"montanus",,"","(Michx.) Kuntze",Synonym,,M,TICA,E62974A0-DD78-42FA-80E1-C66E2CC8886F,5318-2,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","304","1891",gcc-124215
+gcc-30282,A,Compositae,,Adopogon,,"occidentale",,"","(Nutt.) Kuntze",Synonym,,M,TICA,9B732485-D136-417E-BE3C-380884B36B61,,"Revis. Gen. Pl. 1","","304","1891",gcc-29612
+gcc-17446,A,Compositae,,Adopogon,,"occidentale",var.,"mutica","(Torr. & A.Gray) A.Heller",Synonym,,L,TICA,1A7547A3-17C9-4A65-A028-203E17707628,,"","","","1895",gcc-29612
+gcc-146386,A,Compositae,,Adopogon,,"occidentale",var.,"occidentale","",Synonym,,L,TICA,C198E7F1-7E2F-4B1F-B047-1772AAC775F0,,"","","","",gcc-29612
+gcc-145331,A,Compositae,,Adopogon,,"occidentalis",,"","(Nutt.) Kuntze",Synonym,,M,TICA,E119D5D4-372D-4FD1-9B73-0205008C0B40,5319-2,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","304","1891",gcc-29612
+gcc-145658,A,Compositae,,Adopogon,,"occidentalis",var.,"occidentalis","",Synonym,,L,TICA,B872631E-D11F-4F5F-AF23-083BF66A64AD,,"","","","",gcc-29612
+gcc-31866,A,Compositae,,Adopogon,,"virginicum",,"","Shafer",Unresolved,,L,TICA,D94CFC8D-2C55-40B8-BA7B-3B088AAF0B3A,175083-1,"Ann. Carnegie Mus. i. 71","","71","",
+gcc-9420,A,Compositae,,Adopogon,,"virginicum",,"","Kuntze",Synonym,,L,TICA,104ACD23-BD47-4B66-A67F-1197267FD8DE,5321-2,"Revis. Gen. Pl. 1","","304","1891",gcc-21406
+gcc-54207,A,Compositae,,Adopogon,,"virginicum",var.,"acuminatum","Farw.",Synonym,,L,TICA,7F0063B7-4667-414F-9E4B-6C40273C3975,,"Amer. Midl. Naturalist 12","","","1930",gcc-15758
+gcc-57548,A,Compositae,,Adopogon,,"virginicum",var.,"elongatum","Farw.",Synonym,,L,TICA,91E47038-47D6-49E7-A046-873B62BD90E5,,"Amer. Midl. Naturalist 12","","","1930",gcc-15758
+gcc-67283,A,Compositae,,Adopogon,,"virginicum",var.,"glandulosum","Farw.",Synonym,,L,TICA,FC8D32CD-5086-4DCF-8B8E-D5EBDDB4C5E1,5324-2,"Amer. Midl. Naturalist 12","","76","1930",gcc-15758
+gcc-71184,A,Compositae,,Adopogon,,"virginicum",var.,"hispida","Farw.",Synonym,,L,TICA,073AEA88-FC2D-486C-A311-F434C87FE80F,5325-2,"Amer. Midl. Naturalist 12","","77","1930",gcc-15758
+gcc-57409,A,Compositae,,Adopogon,,"virginicum",var.,"integrifolium","Farw.",Synonym,,L,TICA,002B2016-DE8D-4D97-8EAA-8620783028F2,,"Amer. Midl. Naturalist 12","","","1930",gcc-15758
+gcc-151643,A,Compositae,,Adopogon,,"virginicum",var.,"virginicum","",Synonym,,L,TICA,701971E5-E806-4277-8882-8916498318D1,,"","","","",gcc-21406

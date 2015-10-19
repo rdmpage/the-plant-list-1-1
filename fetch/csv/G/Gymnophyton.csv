@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144866,A,Apiaceae,,Gymnophyton,,"flexuosum",,"","Clos",Accepted,,M,TICA,A9881E50-1DAC-420D-BB5F-FF1ADAFAF31B,,"","","","",
+kew-2835968,A,Apiaceae,,Gymnophyton,,"foliosum",,"","Phil.",Accepted,,M,WCSP (in review),,842820-1,"Fl. Atacam.","24","","1860",
+gcc-110916,A,Apiaceae,,Gymnophyton,,"isatidicarpum",,"","Mathias & Constance",Accepted,,L,TICA,BBC2A355-C46C-4206-AC57-B1F3FFE7DD9A,,"","","","",
+kew-2835970,A,Apiaceae,,Gymnophyton,,"kingii",,"","Phil.",Synonym,,M,WCSP (in review),,842822-1,"Anales Univ. Chile","41: 727","","1872",gcc-144866
+gcc-5301,A,Apiaceae,,Gymnophyton,,"polycephalum",,"","Clos",Accepted,,L,TICA,77BACA38-78F3-4053-861F-09E4022F77BD,,"","","","",
+gcc-83057,A,Apiaceae,,Gymnophyton,,"robustum",,"","Clos",Accepted,,M,TICA,54CCEB39-10C3-4FE7-9A09-7374BD75D12D,,"","","","",
+kew-2835973,A,Apiaceae,,Gymnophyton,,"robustum",var.,"kingii","(Phil.) Reiche",Synonym,,L,WCSP (in review),,115768-2,"Anales Univ. Chile","104: 810","","1899",gcc-144866
+gcc-5658,A,Apiaceae,,Gymnophyton,,"spinescens",,"","Phil.",Unresolved,,L,TICA,8439AEAD-9D17-4CD1-AFBE-0A8A1D5B52A6,115769-2,"","","","",gcc-110916
+gcc-134889,A,Apiaceae,,Gymnophyton,,"spinosissimum",,"","Phil.",Accepted,,L,TICA,AF9D218C-813D-4643-9BD1-E8BBE33CF47C,115770-2,"","","","",

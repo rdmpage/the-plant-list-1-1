@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33500,A,Compositae,,Alfredia,,"acantholepis",,"","Kar. & Kir.",Accepted,,M,TICA,B3961425-DA61-4A13-92B0-3E1ED8C4A0DC,175875-1,"","","394","1842",
+gcc-15179,A,Compositae,,Alfredia,,"aspera",,"","C.Shih",Accepted,,M,TICA,982FD52C-C523-49B8-9191-1C1AD65FB370,903494-1,"","","454","1984",
+gcc-137526,A,Compositae,,Alfredia,,"cernua",,"","(L.) Cass.",Accepted,,M,TICA,106B6BD6-423F-4774-85F6-EE9B0BC3B011,175876-1,"Bull. Soc. Philom. Paris : 175 (1815)","","175","1815",
+gcc-122614,A,Compositae,,Alfredia,,"fetissowii",,"","Iljin",Accepted,,M,TICA,CEECE4CD-1D74-4889-825A-CC695250716E,175877-1,"Botanicheskie Materialy Gerbariia Glavnogo Botanicheskogo Sada S.S.S.R. 4(5):","","38","1923",
+tro-2728655,A,Compositae,,Alfredia,,"fetsowii",,"","Iljin",Accepted,,M,TRO,2728655,,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R.","4(5): 38–39","38","1923",
+gcc-89003,A,Compositae,,Alfredia,,"integrifolia",,"","(Iljin) Tulyag.",Accepted,,M,TICA,E57603DE-6FF8-42C5-B166-80ABDC8668AB,943993-1,"","","827","1987",
+gcc-36920,A,Compositae,,Alfredia,,"japonica",,"","Miq.",Synonym,,M,TICA,C3C67E5E-A0A9-4E7E-B839-446A0A3D1F0A,,"","","185","1866",gcc-19621
+gcc-29223,A,Compositae,,Alfredia,,"karelinii",,"","Ledeb.",Synonym,,M,TICA,77FB380B-C10E-46D3-8546-360297D49173,,"","","754","",gcc-33500
+gcc-123363,A,Compositae,,Alfredia,,"nivea",,"","Kar. & Kir.",Accepted,,M,TICA,87CD73CC-9102-40ED-AE20-CE1EAFE99EF9,175880-1,"","","395","1842",
+gcc-98061,A,Compositae,,Alfredia,,"nivea",f.,"integrifolia","Iljin",Synonym,,L,TICA,171C225B-9DB6-4B47-9DC4-9544D4693B5F,,"Izv. Glavn. Bot. Sada SFRSF 23(2): 135 (1924)","","135","1924",gcc-89003
+gcc-149101,A,Compositae,,Alfredia,,"nivea",f.,"nivea","",Synonym,,L,TICA,DC0A3568-6166-437C-B8F7-5185D2222C00,,"","","","",gcc-123363
+gcc-81766,A,Compositae,,Alfredia,,"squarosa",,"","Tausch",Synonym,,M,TICA,5E8CF699-15E9-4853-9FCF-708C596E322A,,"Flora 19:","","396","1836",gcc-137526
+gcc-114561,A,Compositae,,Alfredia,,"squarrosa",,"","Kostel.",Synonym,,M,TICA,F20B6265-19A8-46F8-A4FB-BA25640B8445,175881-1,"","","s.p.","1838",gcc-137526
+gcc-33615,A,Compositae,,Alfredia,,"stenolepis",,"","Kar. & Kir.",Synonym,,M,TICA,A3C09C9C-1160-4C70-B2AE-3E56BC7AD607,175882-1,"","","452","1841",gcc-137526
+gcc-139226,A,Compositae,,Alfredia,,"suaveolens",,"","Rupr.",Synonym,,M,TICA,5B224A54-CB96-47DC-9D82-F247EA5119F7,175883-1,"","","56","1869",gcc-123363
+gcc-26595,A,Compositae,,Alfredia,,"talassica",,"","Korovin ex Iljin",Accepted,,M,TICA,DCEC6999-EE40-43A1-B88D-31258F987F12,,"","","","1924",
+gcc-124111,A,Compositae,,Alfredia,,"tianschanica",,"","Rupr.",Synonym,,M,TICA,17EAF0BB-7006-465D-8D27-CFF1C47A8A8B,175885-1,"","","56","1869",gcc-33500

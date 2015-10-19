@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-399260,A,Poaceae,,Bonia,,"amplexicaulis",,"","(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",Accepted,,H,WCSP,399260,990443-1,"Kew Bull.","51: 568","","1996",
+kew-399261,A,Poaceae,,Bonia,,"levigata",,"","(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",Accepted,,H,WCSP,399261,990442-1,"Kew Bull.","51: 568","","1996",
+kew-399262,A,Poaceae,,Bonia,,"parvifloscula",,"","(W.T.Lin) N.H.Xia",Accepted,,H,WCSP,399262,60440833-2,"Novon","15: 601","","2005",
+kew-399263,A,Poaceae,,Bonia,,"saxatilis",,"","(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",Accepted,,H,WCSP,399263,990440-1,"Kew Bull.","51: 567","","1996",
+tro-50171094,A,Poaceae,,Bonia,,"saxatilis",var.,"saxatilis","",Synonym,,L,TRO,50171094,,"","","","",kew-399263
+kew-399264,A,Poaceae,,Bonia,,"saxatilis",var.,"solida","(C.D.Chu & C.S.Chao) D.Z.Li",Synonym,,L,WCSP,399264,1013452-1,"Acta Bot. Yunnan.","22: 44","","2000",kew-399263
+kew-399265,A,Poaceae,,Bonia,,"solida",,"","(C.D.Chu & C.S.Chao) N.H.Xia",Synonym,,H,WCSP,399265,990441-1,"Kew Bull.","51: 568","","1996",kew-399263
+kew-399266,A,Poaceae,,Bonia,,"tonkinensis",,"","Balansa",Accepted,,H,WCSP,399266,392688-1,"J. Bot. (Morot)","4: 29","","1890",

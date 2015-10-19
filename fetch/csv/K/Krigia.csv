@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-133478,A,Compositae,,Krigia,,"amplexicaulis",,"","(Michx.) Nutt.",Synonym,,L,TICA,B0A162C5-F512-496A-9AB0-E592DB944A84,227636-1,"Gen. Am. ii. 127.","","127","1818",gcc-21406
+gcc-116713,A,Compositae,,Krigia,,"bellidioides",,"","Scheele",Synonym,,M,TICA,958BC7C8-F900-4841-BF8D-BF0E830E30F9,227637-1,"Linnaea 25: 257. 1853","","257","1853",gcc-29612
+gcc-21406,A,Compositae,,Krigia,,"biflora",,"","(Walter) S.F.Blake",Accepted,,L,TICA,F2B6A529-D580-430A-A7E9-279105C63BAF,133926-2,"","","135","1915",
+gcc-117598,A,Compositae,,Krigia,,"biflora",f.,"biflora","",Synonym,,L,TICA,1131BAEF-2DB7-43F7-A7E0-C109D80E3C96,,"","","","",gcc-21406
+gcc-150623,A,Compositae,,Krigia,,"biflora",subsp.,"biflora","",Synonym,,L,TICA,7982EBC6-7927-4565-9073-72C66ABB2AC8,,"","","","",gcc-21406
+gcc-54739,A,Compositae,,Krigia,,"biflora",var.,"biflora","",Synonym,,L,TICA,6547F647-3082-4B87-B14A-707DB94AF04E,,"","","","",gcc-21406
+gcc-29899,A,Compositae,,Krigia,,"biflora",subsp.,"glandulifera","(Fernald) Iltis",Synonym,,L,TICA,5F4A84F4-6FBE-4B67-856D-3745F6C11034,133928-2,"Trans. Wisconsin Acad. Sci. 52: 334. 1963","","334","1963",gcc-21406
+gcc-75143,A,Compositae,,Krigia,,"biflora",f.,"glandulifera","Fernald",Synonym,,L,TICA,0C1044D9-7741-4D09-B1BB-5AE6FA0A3C50,133927-2,"Rhodora 37: 337. 1935","","337","1935",gcc-21406
+gcc-30974,A,Compositae,,Krigia,,"biflora",var.,"viridis","(Standl.) K.J.Kim",Synonym,,L,TICA,6F17A7DE-4700-4F18-945A-395A193F02AD,1009917-2,"","","194","1992",gcc-21406
+gcc-10405,A,Compositae,,Krigia,,"caroliniana",,"","Nutt.",Synonym,,M,TICA,D2679422-D1F5-4035-9B92-136E60379988,227639-1,"Gen. Am. ii. 126","","126","1818",gcc-15758
+gcc-41405,A,Compositae,,Krigia,,"caroliniana",,"","Hook.",Accepted,,M,TICA,99015FF2-8749-4C73-8949-4CAF008E5DDE,227640-1,"Comp. Bot. Mag. i. (1835) 100.","","i.  100","1835",
+gcc-151404,A,Compositae,,Krigia,,"caroliniana",var.,"caroliniana","",Synonym,,L,TICA,BE2082E9-FABD-48BA-A178-83D39FD1977C,,"","","","",gcc-41405
+gcc-11299,A,Compositae,,Krigia,,"cespitosa",,"","(Raf.) K.L.Chambers",Accepted,,M,TICA,0FF68F65-89D4-4D54-A386-152321E975DE,133930-2,"","","52","1973",
+gcc-150041,A,Compositae,,Krigia,,"cespitosa",f.,"cespitosa","",Synonym,,L,TICA,3D88D9DD-79F3-41B1-9B0E-66089C5C23FE,,"","","","",gcc-11299
+gcc-5039,A,Compositae,,Krigia,,"cespitosa",var.,"cespitosa","",Synonym,,L,TICA,65E9B7A8-85F0-42E5-84A4-0968BC0C134C,,"","","","2004",gcc-11299
+gcc-106379,A,Compositae,,Krigia,,"cespitosa",f.,"gracilis","(DC.) K.J.Kim",Synonym,,L,TICA,5C5198A1-CEAB-4238-836D-A7A234F80B0D,1035543-2,"","","196","1992",gcc-11299
+gcc-60937,A,Compositae,,Krigia,,"cespitosa",var.,"gracilis","(DC.) K.L.Chambers",Synonym,,L,TICA,C02FAD07-7933-4AAB-BF43-A27E80BE7EC7,60436302-2,"Sida 21(1): 227. 2004 [20 Aug 2004]","","227","2004",gcc-11299
+gcc-25472,A,Compositae,,Krigia,,"chilensis",,"","Nees ex DC.",Unresolved,,L,TICA,09AC6DBE-77A3-49CA-8F63-2F0715C42646,227642-1,"Prodr. (DC.) 7(1): 89","","89","1838",
+gcc-31856,A,Compositae,,Krigia,,"chilensis",,"","Nees",Synonym,,M,TICA,F535DEF0-04F6-49EC-8DFD-3B04D655967A,,"","","","",gcc-10616
+gcc-83256,A,Compositae,,Krigia,,"chilensis",,"","Bertero",Synonym,,M,TICA,256A91D8-1D5C-4D42-8F1E-73E400F278A5,,"""Mercurio Chileno (1829); et in Bull. Ferussac, xx. (1830) 112.""","","","1829",gcc-102420
+gcc-138526,A,Compositae,,Krigia,,"dandelion",,"","(L.) Nutt.",Accepted,,M,TICA,E299EF88-D9C2-413D-82F9-F0C6DEB33988,227644-1,"Gen. Am. ii. 127.","","127","1818",
+gcc-33253,A,Compositae,,Krigia,,"dichotoma",,"","Nutt.",Synonym,Illegitimate,M,TICA,AD58D35B-41E5-4FBE-BEAB-3DA97B685398,227645-1,"Gen. Am. ii. 127","","127","1818",gcc-15758
+gcc-127285,A,Compositae,,Krigia,,"gracilis",,"","(DC.) Shinners",Synonym,,M,TICA,7F28272D-DAC8-47DB-931E-D747E7F5064A,133932-2,"","","205","1947",gcc-11299
+gcc-100041,A,Compositae,,Krigia,,"integrifolia",,"","Raf.",Accepted,,M,TICA,530961A4-F95F-4E72-A328-99B3BF20F6D8,227647-1,"New Fl. (Rafinesque) iv. 86 (Quid ?).","","86","",
+gcc-79593,A,Compositae,,Krigia,,"leptophylla",,"","DC.",Synonym,,M,TICA,24B276F5-175D-4FA0-9C80-6BC765DDDF44,227648-1,"Prodr. (DC.) 7(1): 88","","88","1838",gcc-15758
+gcc-124215,A,Compositae,,Krigia,,"montana",,"","(Michx.) Nutt.",Accepted,,M,TICA,7E3DCB0B-632E-48D1-9132-D02ABBCB5027,227649-1,"Gen. Am. ii. 127.","","127","1818",
+gcc-118772,A,Compositae,,Krigia,,"nervosa",,"","Hook.",Synonym,,M,TICA,697002AC-63CB-4F3A-B2F3-C3B75ABE3AE7,227650-1,"Ic. Pl. t. 237.","","t. 237","1839",gcc-29612
+gcc-29612,A,Compositae,,Krigia,,"occidentalis",,"","Nutt.",Accepted,,M,TICA,1627EC0F-0EA7-450C-83D2-36BCA2761326,227651-1,"","","104","1834",
+gcc-140089,A,Compositae,,Krigia,,"occidentalis",f.,"mutica","(Torr. & A.Gray) Shinners",Synonym,,L,TICA,C0538DB3-46AC-4367-8655-F42EB12343F6,133936-2,"","","200","1947",gcc-29612
+gcc-44079,A,Compositae,,Krigia,,"occidentalis",var.,"mutica","Torr. & A.Gray",Synonym,,L,TICA,1CB451DC-DBB2-4E52-A675-519FDEE4FFFA,133935-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 468. 1843 [Feb 1843]","","468","1843",gcc-29612
+gcc-156224,A,Compositae,,Krigia,,"occidentalis",var.,"occidentalis","",Synonym,,L,TICA,30037A2F-5B02-4122-9684-E8F9890BB1E8,,"","","","",gcc-29612
+gcc-157074,A,Compositae,,Krigia,,"occidentalis",f.,"occidentalis","",Synonym,,L,TICA,B7B88DDE-6B79-4BC3-86B4-FA6CBCD37677,,"","","","",gcc-29612
+gcc-111322,A,Compositae,,Krigia,,"oppositifolia",,"","Raf.",Synonym,Illegitimate,M,TICA,38780377-3670-4B6A-8A9D-B2DB0543DF56,133937-2,"Fl. Ludov.","","57","1817",gcc-11299
+gcc-91373,A,Compositae,,Krigia,,"petiolaris",,"","Raf.",Synonym,,M,TICA,1CFB4362-F3B1-480C-9D13-8640D9504CE6,,"New Fl. (Rafinesque) iv. 86 (Quid ?).","","86","1838",gcc-11299
+gcc-10293,A,Compositae,,Krigia,,"pinnatifida",,"","Bertero ex DC.",Synonym,,M,TICA,512303E3-05D1-43D5-8DC2-133843BF4215,227654-1,"Prodr. (DC.) 7(1): 89","","89","1838",gcc-10616
+gcc-28795,A,Compositae,,Krigia,,"pusilla",,"","DC.",Synonym,,M,TICA,30A323A3-CC2C-4FBC-BE09-353D756D9CC6,227655-1,"Prodr. (DC.) 7(1): 89","","89","1838",gcc-10616
+gcc-29399,A,Compositae,,Krigia,×,"shinnersiana",,"","K.L.Chambers",Unresolved,,L,TICA,28B10FBA-40C1-4D9F-8384-3654AE08B907,60436303-2,"Sida 21(1): 230 (-234; figs. 2-3). 2004 [20 Aug 2004]","","""230-234, f. 2, 3B""","2004",
+gcc-115709,A,Compositae,,Krigia,,"tenella",,"","Rchb.",Synonym,,M,TICA,EC3761FD-392B-4901-A22A-BCD01CE6C366,,"Ic. Fl. Germ. i. 72.","","","1823",gcc-15758
+gcc-15758,A,Compositae,,Krigia,,"virginica",,"","(L.) Willd.",Accepted,,M,TICA,2CC8A1CA-7B22-40EA-8718-1D2EB8942247,133939-2,"","","1618","1803",
+gcc-47301,A,Compositae,,Krigia,,"virginica",,"","(L.) A.Nelson",Synonym,,L,TICA,BAD785DB-3D38-4DEA-9635-57986EC634A0,133938-2,"New Man. Bot. Centr. Rocky Mt. 589. 1909","","589","1909",gcc-21406
+gcc-153619,A,Compositae,,Krigia,,"virginica",var.,"virginica","",Synonym,,L,TICA,ADC14C2C-23D7-48FB-9A2A-B1EFA86F570B,,"","","","",gcc-15758
+gcc-17726,A,Compositae,,Krigia,,"wrightii",,"","(A.Gray) K.L.Chambers ex K.J.Kim",Accepted,,M,TICA,63095C59-9570-41C1-8836-20B816DF5840,1031536-2,"","","195","1992",

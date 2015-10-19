@@ -1,0 +1,50 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-405773,A,Poaceae,,Cortaderia,,"araucana",,"","Stapf",Accepted,,H,WCSP,405773,66292-2,"Gard. Chron.","III, 22: 396","","1897",
+tro-25516373,A,Poaceae,,Cortaderia,,"araucana",var.,"araucana","",Synonym,,L,TRO,25516373,,"","","","",kew-405773
+kew-405774,A,Poaceae,,Cortaderia,,"araucana",var.,"fuenzalidae","Acev.-Rodr.",Synonym,,L,WCSP,405774,,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","27: 239","","1959",kew-405773
+kew-405775,A,Poaceae,,Cortaderia,,"araucana",var.,"skottsbergii","Acev.-Rodr.",Synonym,,L,WCSP,405775,,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","27: 240","","1959",kew-405773
+kew-405776,A,Poaceae,,Cortaderia,,"archboldii",,"","(Hitchc.) Connor & Edgar",Accepted,,L,WCSP,405776,396645-1,"Taxon","23: 596","","1974",
+kew-405777,A,Poaceae,,Cortaderia,,"argentea",,"","(Nees) Stapf",Synonym,,H,WCSP,405777,66295-2,"Gard. Chron.","III, 22: 396","","1897",kew-405805
+kew-405778,A,Poaceae,,Cortaderia,,"aristata",,"","Pilg.",Synonym,,H,WCSP,405778,66296-2,"Bot. Jahrb. Syst.","37: 375","","1906",kew-405780
+kew-405779,A,Poaceae,,Cortaderia,,"atacamensis",,"","(Phil.) Pilg.",Accepted,,H,WCSP,405779,66297-2,"Bot. Jahrb. Syst.","37: 374","","1906",
+kew-405780,A,Poaceae,,Cortaderia,,"bifida",,"","Pilg.",Accepted,,H,WCSP,405780,66298-2,"Bot. Jahrb. Syst.","37: 374","","1906",
+tro-25551259,A,Poaceae,,Cortaderia,,"bifida",var.,"bifida","",Synonym,,L,TRO,25551259,,"","","","",kew-405780
+kew-405781,A,Poaceae,,Cortaderia,,"bifida",var.,"grandiflora","Henrard",Synonym,,L,WCSP,405781,66299-2,"Meded. Rijks-Herb.","40: 67","","1921",kew-405782
+kew-405782,A,Poaceae,,Cortaderia,,"boliviensis",,"","M.Lyle",Accepted,,H,WCSP,405782,988429-1,"Novon","6: 72","","1996",
+kew-405783,A,Poaceae,,Cortaderia,,"columbiana",,"","(Pilg.) Pilg.",Accepted,,H,WCSP,405783,,"Bot. Jahrb. Syst.","37: 374","","1906",
+kew-405784,A,Poaceae,,Cortaderia,,"conspicua",,"","(E.Forst.) Stapf",Synonym,,H,WCSP,405784,,"Hand-List Herb. Pl.","ed. 2: 137","","1902",kew-404621
+tro-50224818,A,Poaceae,,Cortaderia,,"conspicua",,"","(G. Forst.) Conert",Synonym,,M,TRO,50224818,,"Syst. Anat. Arundineae","105–110","105","1961",kew-404621
+kew-405785,A,Poaceae,,Cortaderia,,"dioica",,"","Speg.",Synonym,Illegitimate,H,WCSP,405785,396651-1,"Anales Mus. Nac. Buenos Aires","7: 194","","1902",kew-405805
+tro-50171323,A,Poaceae,,Cortaderia,,"egmontiana",,"","(Roem. & Schult.) M. Lyle ex Connor",Synonym,,M,TRO,50171323,,"Darwiniana","49(1): 90","90","2011",kew-433921
+kew-405786,A,Poaceae,,Cortaderia,,"fulvida",,"","(Buchanan) Zotov",Accepted,,L,WCSP,405786,396652-1,"New Zealand J. Bot.","1: 84","","1963",
+kew-405787,A,Poaceae,,Cortaderia,,"hapalotricha",,"","(Pilg.) Conert",Accepted,,H,WCSP,405787,396653-1,"Syst. Anat. Arundin.","102","","1961",
+kew-468862,A,Poaceae,,Cortaderia,,"hieronymi",,"","(Kuntze) N.P.Barker & H.P.Linder",Unresolved,,L,WCSP,468862,77111675-1,"Ann. Missouri Bot. Gard.","97: 342","","2010",kew-421933
+kew-405788,A,Poaceae,,Cortaderia,,"jubata",,"","(Lemoine ex Carrière) Stapf",Accepted,,H,WCSP,405788,66302-2,"Bot. Mag.","124: t. 7607","","1898",
+kew-405789,A,Poaceae,,Cortaderia,,"longicauda",,"","Hack.",Synonym,,H,WCSP,405789,66304-2,"Repert. Spec. Nov. Regni Veg.","10: 169","","1911",kew-405773
+kew-405790,A,Poaceae,,Cortaderia,,"minima",,"","Conert",Synonym,,H,WCSP,405790,396656-1,"Syst. Anat. Arundin.","119","","1961",kew-405795
+kew-405791,A,Poaceae,,Cortaderia,,"modesta",,"","(Döll) Hack. ex Dusén",Accepted,,H,WCSP,405791,396657-1,"Ark. Bot.","9(5): 4","","1909",
+kew-405792,A,Poaceae,,Cortaderia,,"modesta",f.,"ramosa","Hack. ex Dusén",Synonym,,L,WCSP,405792,,"Ark. Bot.","9(5): 4","","1909",kew-405791
+kew-405793,A,Poaceae,,Cortaderia,,"nitida",,"","(Kunth) Pilg.",Accepted,,H,WCSP,405793,66306-2,"Bot. Jahrb. Syst.","37: 374","","1906",
+tro-50106686,A,Poaceae,,Cortaderia,,"nitida x sericantha",,"","Sibth. & Sm.",Accepted,,M,TRO,50106686,,"Fl. Ecuador","57: 28","28","1997",
+kew-405794,A,Poaceae,,Cortaderia,,"parviflora",,"","Swallen",Synonym,,H,WCSP,405794,396659-1,"Contr. U. S. Natl. Herb.","23: 253","","1948",kew-405783
+kew-468861,A,Poaceae,,Cortaderia,,"peruviana",,"","(Hitchc.) N.P.Barker & H.P.Linder",Unresolved,,L,WCSP,468861,77111676-1,"Ann. Missouri Bot. Gard.","97: 342","","2010",kew-421938
+kew-405795,A,Poaceae,,Cortaderia,,"pilosa",,"","(d'Urv.) Hack.",Accepted,,H,WCSP,405795,,"Ergebn. Schwed. Exp. Magell.","3(5): 222","","1900",
+kew-405796,A,Poaceae,,Cortaderia,,"pilosa",var.,"minima","(Conert) Nicora",Synonym,,L,WCSP,405796,66309-2,"Darwiniana","18: 80","","1973",kew-405795
+tro-25516377,A,Poaceae,,Cortaderia,,"pilosa",var.,"pilosa","",Synonym,,L,TRO,25516377,,"","","","",kew-433921
+kew-405797,A,Poaceae,,Cortaderia,,"planifolia",,"","Swallen",Accepted,,H,WCSP,405797,396661-1,"Contr. U. S. Natl. Herb.","23: 253","","1948",
+kew-405798,A,Poaceae,,Cortaderia,,"pungens",,"","Swallen",Accepted,,H,WCSP,405798,396662-1,"Contr. U. S. Natl. Herb.","23: 251","","1948",
+kew-405799,A,Poaceae,,Cortaderia,,"quila",,"","(Molina) Stapf",Unresolved,,L,WCSP,405799,66312-2,"Gard. Chron.","III, 22: 396","","1897",kew-396751
+kew-405800,A,Poaceae,,Cortaderia,,"quila",var.,"patagonica","Speg.",Synonym,,L,WCSP,405800,66313-2,"Anales Mus. Nac. Buenos Aires","7: 184","","1902",kew-405773
+kew-405801,A,Poaceae,,Cortaderia,,"richardii",,"","(Endl.) Zotov",Accepted,,L,WCSP,405801,396664-1,"New Zealand J. Bot.","1: 84","","1963",
+kew-405802,A,Poaceae,,Cortaderia,,"roraimensis",,"","(N.E.Br.) Pilg.",Accepted,,H,WCSP,405802,66314-2,"Notizbl. Königl. Bot. Gart. Berlin","6: 112","","1914",
+kew-405803,A,Poaceae,,Cortaderia,,"rudiuscula",,"","Stapf",Accepted,,H,WCSP,405803,66315-2,"Gard. Chron.","III, 22: 396","","1897",
+kew-405804,A,Poaceae,,Cortaderia,,"scabriflora",,"","Swallen",Synonym,,H,WCSP,405804,396667-1,"Contr. U. S. Natl. Herb.","23: 252","","1948",kew-405787
+kew-405805,A,Poaceae,,Cortaderia,,"selloana",,"","(Schult. & Schult.f.) Asch. & Graebn.",Accepted,,H,WCSP,405805,66317-2,"Syn. Mitteleur. Fl.","2(1): 325","","1900",
+kew-405806,A,Poaceae,,Cortaderia,,"sericantha",,"","(Steud.) Hitchc.",Accepted,,H,WCSP,405806,66318-2,"Contr. U. S. Natl. Herb.","24: 348","","1927",
+kew-405807,A,Poaceae,,Cortaderia,,"sodiroana",,"","Hack.",Synonym,,H,WCSP,405807,66319-2,"Oesterr. Bot. Z.","52: 238","","1902",kew-405793
+kew-405808,A,Poaceae,,Cortaderia,,"speciosa",,"","(Nees) Stapf",Accepted,,H,WCSP,405808,66320-2,"Gard. Chron.","III, 22: 396","","1897",
+kew-405809,A,Poaceae,,Cortaderia,,"splendens",,"","Connor",Accepted,,L,WCSP,405809,396672-1,"New Zealand J. Bot.","9: 519","","1971",
+kew-405810,A,Poaceae,,Cortaderia,,"toetoe",,"","Zotov",Accepted,,L,WCSP,405810,396673-1,"New Zealand J. Bot.","1: 85","","1963",
+kew-405811,A,Poaceae,,Cortaderia,,"trianae",,"","Stapf ex Conert",Synonym,,H,WCSP,405811,396674-1,"Syst. Anat. Arundin.","100","","1961",kew-405780
+kew-405812,A,Poaceae,,Cortaderia,,"turbaria",,"","Connor",Accepted,,L,WCSP,405812,933513-1,"New Zealand J. Bot.","25: 167","","1987",
+kew-405813,A,Poaceae,,Cortaderia,,"vaginata",,"","Swallen",Accepted,,H,WCSP,405813,66321-2,"Sellowia","7: 9","","1956",

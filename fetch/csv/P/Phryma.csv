@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-24700004,A,Phrymaceae,,Phryma,,"asiatica",,"","(H. Hara) O. Deg. & I. Deg.",Synonym,,M,TRO,24700004,,"","","","",kew-153196
+kew-153191,A,Verbenaceae,,Phryma,,"carolinensis",,"","Walter",Synonym,,H,WCSP,153191,864096-1,"Fl. Carol.","166","","1788",kew-212168
+kew-153192,A,Verbenaceae,,Phryma,,"dehiscens",,"","L.f.",Synonym,,H,WCSP,153192,864097-1,"Suppl. Pl.","277","","1782",kew-38391
+tro-50260339,A,Phrymaceae,,Phryma,,"esquirolii",,"","H. Lév.",Synonym,,M,TRO,50260339,676151-1,"Repert. Spec. Nov. Regni Veg.","12: 534","534","1913",kew-153196
+tro-100372903,A,Phrymaceae,,Phryma,,"humilis",,"","Koidz.",Synonym,,M,TRO,100372903,,"","","","",kew-153196
+kew-153193,A,Phrymaceae,,Phryma,,"leptostachya",,"","L.",Accepted,,H,WCSP,153193,864098-1,"Sp. Pl.","601","","1753",
+kew-153194,A,Phrymaceae,,Phryma,,"leptostachya",var.,"asiatica","H.Hara",Synonym,,L,WCSP,153194,,"Enum. Sperm. Jap.","1: 297","","1948",kew-153196
+kew-312889,A,Phrymaceae,,Phryma,,"leptostachya",subsp.,"asiatica","(H.Hara) Kitam.",Synonym,,L,WCSP,312889,,"Acta Phytotax. Geobot.","17: 7","","1957",kew-153196
+kew-153195,A,Phrymaceae,,Phryma,,"leptostachya",var.,"leptostachya","",Synonym,,L,WCSP,153195,,"Unknown","","","",kew-153193
+tro-100372907,A,Phrymaceae,,Phryma,,"leptostachya",var.,"nana","(Koidz.) H. Hara",Synonym,,L,TRO,100372907,,"","","","",kew-153196
+kew-153196,A,Phrymaceae,,Phryma,,"leptostachya",var.,"oblongifolia","(Koidz.) Honda",Accepted,,L,WCSP,153196,,"Bot. Mag. (Tokyo)","50: 608","","1936",
+kew-153197,A,Phrymaceae,,Phryma,,"media",,"","Raf.",Synonym,,H,WCSP,153197,864099-1,"New Fl.","2: 37","","1837",kew-153193
+tro-100372906,A,Phrymaceae,,Phryma,,"nana",,"","Koidz.",Synonym,,M,TRO,100372906,,"","","","",kew-153196
+kew-153198,A,Phrymaceae,,Phryma,,"oblongifolia",,"","Koidz.",Synonym,,H,WCSP,153198,676155-1,"Bot. Mag. (Tokyo)","43: 400","","1929",kew-153196
+kew-153199,A,Phrymaceae,,Phryma,,"parvifolia",,"","Raf.",Synonym,,H,WCSP,153199,864100-1,"New Fl.","2: 38","","1837",kew-153193
+kew-153200,A,Phrymaceae,,Phryma,,"pubescens",,"","Raf.",Synonym,,H,WCSP,153200,864101-1,"New Fl.","2: 38","","1837",kew-153193

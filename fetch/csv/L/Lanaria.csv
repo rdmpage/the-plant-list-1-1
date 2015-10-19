@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-251718,A,Lanariaceae,,Lanaria,,"lanata",,"","(L.) T.Durand & Schinz",Accepted,,H,WCSP,251718,60442450-2,"Consp. Fl. Afric.","5: 239","","1894",
+tro-1201658,A,Lanariaceae,,Lanaria,,"lanata",,"","(L.) Druce",Synonym,,M,TRO,1201658,,"","","","",kew-251718
+kew-251719,A,Lanariaceae,,Lanaria,,"plumosa",,"","Aiton",Synonym,,H,WCSP,251719,429752-1,"Hort. Kew.","1: 462","","1789",kew-251718

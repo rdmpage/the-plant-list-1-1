@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113641,A,Compositae,,Hispidella,,"barnardesii",,"","Cass.",Synonym,Illegitimate,M,TICA,ADFDF9E8-DE55-494F-A92B-B8148FDBAD23,,"in Dict. Sc. Nat. xxi. 248.","","","1821",gcc-108184
+gcc-108184,A,Compositae,,Hispidella,,"hispanica",,"","Lam.",Accepted,,M,TICA,CD1960BF-77BF-4472-8877-ABC249493843,224947-1,"","","134","1789",
+gcc-154040,A,Compositae,,Hispidella,,"hispanica",f.,"hispanica","",Synonym,,L,TICA,6DF33E05-F6C3-4445-A2AD-BB17F5AC1892,,"","","","",gcc-108184
+gcc-50810,A,Compositae,,Hispidella,,"welwitschii",,"","Rupr.",Synonym,,M,TICA,C7BF10F8-3929-4ADD-9858-5E3DF9C3B50D,224948-1,"in Bull. Phys.-Math. Acad. Petersb. xiv. (1856) 236","","236","1856",gcc-108184

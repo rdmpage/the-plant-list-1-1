@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-102741,A,Compositae,,Bombycilaena,,"bombycina",,"","(Lag.) Soják",Synonym,,M,TICA,B6A6D352-4777-4AC9-9437-9FCF88D6BCFB,,"""Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 50 (1962).""","","","1962",gcc-27592
+gcc-108438,A,Compositae,,Bombycilaena,,"bombycina",,"","(Lag.) Smoljan.",Synonym,,M,TICA,8B2CD838-EA94-4B91-86BE-AC4B4C7693A9,,"","","","1955",gcc-27592
+gcc-108560,A,Compositae,,Bombycilaena,,"californica",,"","(Fisch. & C.A.Mey.) J.Holub",Unresolved,,L,TICA,2351D0F8-1606-450B-9057-AC9078CEF06E,,"Preslia 70(2): 100 (1998):.","","100","1998",
+gcc-141224,A,Compositae,,Bombycilaena,,"californica",,"","(Fisch. & C.A.Mey.) Smoljan.",Synonym,,M,TICA,40BFDC59-480E-4CE4-826C-F6E3C34A7F2B,,"Bot. Mater. Gerb. Bot. Inst. Komar. Akad. Nauk SSSR 17:","","448","1955",gcc-118510
+gcc-99871,A,Compositae,,Bombycilaena,,"californica",,"","(Fisch. & C.A.Mey.) Holub",Unresolved,,L,TICA,0534F0AE-3DE4-4D56-9DED-9952F3FB72A9,,"Bot. Mater. Gerb. Bot. Inst. Komar. Akad. Nauk SSSR 17: 448 (1955)","","448","1955",
+gcc-60106,A,Compositae,,Bombycilaena,,"californica",var.,"californica","",Synonym,,L,TICA,5EF315E0-CA1B-407C-A33E-9BBE63E03DD8,,"","","","",gcc-118510
+gcc-27592,A,Compositae,,Bombycilaena,,"discolor",,"","(Pers.) M.Laínz",Accepted,,M,TICA,CBBC085B-F5A2-46F2-AF36-330026F11AEB,185801-1,"","","194","1973",
+gcc-125016,A,Compositae,,Bombycilaena,,"erecta",,"","(L.) Smoljan.",Accepted,,M,TICA,C7C5E520-F398-4BBE-8130-D21B7F920A26,185802-1,"","","450","1955",
+gcc-67226,A,Compositae,,Bombycilaena,,"erecta",subsp.,"discolor","(Pers.) Mateo & Figuerola",Synonym,,L,TICA,C634DB17-2208-4DD9-8A73-D56DDCD6FE8D,970067-1,"","","369","1987",gcc-27592
+gcc-156652,A,Compositae,,Bombycilaena,,"erecta",subsp.,"erecta","",Synonym,,L,TICA,5FDCBCE8-186B-476B-AEBA-F1979BB57D7D,,"","","","",gcc-125016

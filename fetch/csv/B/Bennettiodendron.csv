@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-4673155,A,Salicaceae,,Bennettiodendron,,"brevipes",,"","Merr.",Accepted,,M,WCSP (in review),,364985-1,"J. Arnold Arbor.","8: 10","","1927",
+tro-50171900,A,Salicaceae,,Bennettiodendron,,"brevipes",var.,"brevipes","",Synonym,,L,TRO,50171900,,"","","","",kew-4673155
+kew-4673156,A,Salicaceae,,Bennettiodendron,,"brevipes",var.,"margopatense","S.S.Lai",Synonym,,L,WCSP (in review),,978448-1,"Bull. Bot. Res., Harbin","14: 225","","1994",kew-4673155
+kew-4673157,A,Salicaceae,,Bennettiodendron,,"brevipes",var.,"shangsiense","(X.X.Chen & J.Y.Luo) S.S.Lai",Accepted,,L,WCSP (in review),,978449-1,"Bull. Bot. Res., Harbin","14: 225","","1994",
+kew-4673158,A,Salicaceae,,Bennettiodendron,,"cordatum",,"","Merr.",Accepted,,M,WCSP (in review),,364986-1,"J. Arnold Arbor.","20: 352","","1939",
+kew-4673159,A,Salicaceae,,Bennettiodendron,,"lanceolatum",,"","Li",Accepted,,M,WCSP (in review),,,"J. Arnold Arbor.","25: 309","","1944",
+kew-4673160,A,Salicaceae,,Bennettiodendron,,"leprosipes",,"","(Clos) Merr.",Accepted,,M,WCSP (in review),,364988-1,"J. Arnold Arbor.","8: 11","","1927",
+tro-50171903,A,Salicaceae,,Bennettiodendron,,"leprosipes",var.,"leprosipes","",Synonym,,L,TRO,50171903,,"","","","",kew-4673160
+kew-4673162,A,Salicaceae,,Bennettiodendron,,"leprosipes",var.,"pilosum","G.S.Fan & Y.C.Hsu",Synonym,,L,WCSP (in review),,951012-1,"Guihaia","9: 32","","1989",kew-4673167
+kew-4673164,A,Salicaceae,,Bennettiodendron,,"longipes",,"","(Oliv.) Merr.",Accepted,,M,WCSP (in review),,364989-1,"J. Arnold Arbor.","8: 11","","1927",
+kew-4673165,A,Salicaceae,,Bennettiodendron,,"macrophyllum",,"","C.Y. Wu ex S.S.Lai",Accepted,,M,WCSP (in review),,978452-1,"Bull. Bot. Res., Harbin","14: 226","","1994",
+tro-50104874,A,Salicaceae,,Bennettiodendron,,"macrophyllum",var.,"macrophyllum","",Synonym,,L,TRO,50104874,,"","","","",kew-4673165
+kew-4673167,A,Salicaceae,,Bennettiodendron,,"macrophyllum",var.,"pilosum","(G.S.Fan & Y.C.Hsu) S.S.Lai",Accepted,,L,WCSP (in review),,978454-1,"Bull. Bot. Res., Harbin","14: 227","","1994",
+kew-4673168,A,Euphorbiaceae,,Bennettiodendron,,"papuanum",,"","(Gilg) Merr.",Synonym,,M,WCSP (in review),,364990-1,"J. Arnold Arbor.","8: 11","","1927",kew-156115
+kew-4673169,A,Salicaceae,,Bennettiodendron,,"shangsiense",,"","X.X.Chen & J.Y.Luo",Synonym,,M,WCSP (in review),,929944-1,"Bull. Bot. Res., Harbin","6(1): 163","","1986",kew-4673157
+tro-50171898,A,Salicaceae,,Bennettiodendron,,"simaoense",,"","G.S. Fan",Synonym,,M,TRO,50171898,,"J. SouthW. Forest. Coll.","15(3): 26","26","1995",kew-4673160
+kew-4673170,A,Salicaceae,,Bennettiodendron,,"subracemosum",,"","C.Y.Wu",Accepted,,M,WCSP (in review),,364991-1,"Acta Phytotax. Sin.","6: 231","","1957",

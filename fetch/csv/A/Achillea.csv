@@ -1,0 +1,979 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-138599,A,Compositae,,Achillea,,"abrotanifolia",,"","Hort. ex Steud.",Unresolved,,L,TICA,BFDEE56D-9117-436F-A192-F0F13B658470,173778-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 12""","","12","1840",
+gcc-16249,A,Compositae,,Achillea,,"abrotanifolia",,"","L.",Synonym,,L,TICA,4652BAAC-EC33-455A-A54D-1E0E215FB4DB,173777-1,"","","897","1753",gcc-134827
+gcc-141926,A,Compositae,,Achillea,,"abrotanoides",,"","(Vis.) Vis.",Accepted,,M,TICA,0703EF53-B244-4307-A637-F8842B10792B,,"","","81","1847",
+gcc-48564,A,Compositae,,Achillea,,"abscondita",,"","Wein",Unresolved,,L,TICA,512FB472-F218-427D-B5BF-59F48141A349,173780-1,"Repert. Spec. Nov. Regni Veg. 11","","395","1912",
+gcc-126186,A,Compositae,,Achillea,,"absinthifolia",,"","(Clairv.) Clairv.",Synonym,,M,TICA,C449CCE4-0FF5-4A06-949E-D4BFC8A68C09,173781-1,"Man. Herbor. Suisse: 251 (1811)","","251","1811",gcc-105259
+gcc-50082,A,Compositae,,Achillea,,"absinthifolia",,"","Man.",Unresolved,,L,TICA,86259380-C64B-4B39-8764-5CD8B1CB6EFE,,"Herb. 251.","","251","",
+gcc-52299,A,Compositae,,Achillea,,"absinthifolia",,"","Boiss.",Unresolved,,L,TICA,8B246AC6-FD4C-4B33-A32D-61002801A3F8,,"","","","",gcc-2314
+gcc-49542,A,Compositae,,Achillea,,"absinthoides",,"","Halácsy",Accepted,,M,TICA,60370EE2-CD52-4DD0-A807-5BD38FB13C19,173782-1,"","","243","1894",
+gcc-129408,A,Compositae,,Achillea,,"acuminata",,"","(Ledeb.) Sch.Bip.",Accepted,,M,TICA,862DA8B5-1FA9-459C-936D-DC316041E3FC,173783-1,"","","15","1855",
+gcc-29245,A,Compositae,,Achillea,,"acuminata",,"","Freyn",Synonym,Illegitimate,M,TICA,C077519A-6525-41D7-91DC-360CE3694774,173784-1,"Oesterr. Bot. Z. 45","","344","1895",gcc-132682
+gcc-117197,A,Compositae,,Achillea,×,"adulterina",,"","Sünd.",Unresolved,,L,TICA,38AC5936-F131-4B5E-9F90-C0175BF57BA2,173786-1,"","","91","1906",
+gcc-3524,A,Compositae,,Achillea,,"adulterina",,"","Heimerl",Synonym,,M,TICA,42E9A9B4-3D5A-44F2-B056-067A982234C5,,"","","","1884",gcc-20372
+gcc-127593,A,Compositae,,Achillea,,"aegyptiaca",,"","S.G.Gmel.",Unresolved,,L,TICA,28C9A8D3-9B48-4FEC-B4BC-D80390537DCA,,"It. ii. 198","","198","",
+gcc-138912,A,Compositae,,Achillea,,"aegyptiaca",,"","Hort. ex Steud.",Unresolved,,L,TICA,8872176A-4B82-4006-8A8E-F197F28D594E,173787-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 12""","","12","1840",
+gcc-21258,A,Compositae,,Achillea,,"aegyptiaca",,"","L.",Accepted,,M,TICA,D8136844-17C9-443C-BDCA-274B581347F2,173789-1,"","","900","1753",
+gcc-30547,A,Compositae,,Achillea,,"aegyptiaca",,"","Sm.",Unresolved,,L,TICA,57D7FDA4-A25C-4DEC-91A6-388A1E40A46E,173788-1,"Fl. Graec. ix. 71.","","ix. 71","",
+gcc-146199,A,Compositae,,Achillea,,"aegyptiaca",subsp.,"aegyptiaca","",Synonym,,L,TICA,E23A5411-659B-4DAE-9294-13B050D143C9,,"","","","",gcc-21258
+gcc-39915,A,Compositae,,Achillea,,"aegyptiaca",var.,"aegyptiaca","",Synonym,,L,TICA,0BE1A79A-4068-44F6-B88F-4A15F0E42E92,,"","","","",gcc-21258
+gcc-31679,A,Compositae,,Achillea,,"aegyptiaca",subsp.,"taygetea","(Boiss. & Heldr.) Hayek",Synonym,,L,TICA,8FF8A262-73F0-40F6-9718-3AB5197A2813,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","643","1931",gcc-85180
+gcc-120320,A,Compositae,,Achillea,,"aegyptica",,"","Lindl.",Synonym,,M,TICA,4EE601B4-7E87-4CB3-835A-C7371A49505C,,"Fl. Graec. 9: 71 (1839)","","71","1839",gcc-85180
+gcc-121298,A,Compositae,,Achillea,,"ageratifolia",,"","(Sibth. & Sm.) Boiss.",Synonym,Illegitimate,M,TICA,FDFB1346-8F85-43D0-97B7-C97E961BC5A8,,"Fl. Orient. 3: 275 (1875)","","275","1875",gcc-85123
+gcc-85123,A,Compositae,,Achillea,,"ageratifolia",,"","(Sibth. & Sm.) Benth. & Hook.f.",Accepted,,M,TICA,F2A45C52-6509-48DC-9736-77FABDC085E5,173791-1,"","","420","1873",
+gcc-146288,A,Compositae,,Achillea,,"ageratifolia",var.,"ageratifolia","",Synonym,,L,TICA,1362EB78-A51F-43FC-9C5A-15974825E39F,,"","","","",gcc-85123
+gcc-156740,A,Compositae,,Achillea,,"ageratifolia",f.,"ageratifolia","",Synonym,,L,TICA,08BAE914-B604-485B-B93E-F355D1E13B39,,"","","","",gcc-85123
+gcc-51493,A,Compositae,,Achillea,,"ageratifolia",subsp.,"ageratifolia","",Synonym,,L,TICA,98638837-8A7C-4103-86A1-5F80536779C1,,"","","","",gcc-85123
+gcc-16020,A,Compositae,,Achillea,,"ageratifolia",subsp.,"aizoon","(Griseb.) Heimerl",Accepted,,L,TICA,B73650E8-F298-4D80-87D3-1DA6558EEB16,60439418-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","134","1884",
+gcc-51816,A,Compositae,,Achillea,,"ageratifolia",var.,"aizoon","(Griseb.) Boiss.",Synonym,,L,TICA,FFD219E7-DDEC-42EC-8A0D-60182FFEC827,,"","","","",gcc-16020
+gcc-82101,A,Compositae,,Achillea,,"ageratifolia",f.,"breviflora","Gajić",Synonym,,L,TICA,5C059FBF-5D75-49AA-8DB8-7148845F85B8,876349-1,"","","7","1974",gcc-85123
+gcc-138981,A,Compositae,,Achillea,,"ageratifolia",f.,"glomerata","Gajić",Synonym,,L,TICA,CEAA1CF9-3AFA-4E4E-A750-F1C21E3013D4,876350-1,"","","9","1974",gcc-85123
+gcc-144643,A,Compositae,,Achillea,,"ageratifolia",f.,"linearifolia","Gajić",Synonym,,L,TICA,F2312BF1-8E94-4347-801E-FE99798F43AA,876351-1,"","","9","1974",gcc-85123
+gcc-139939,A,Compositae,,Achillea,,"ageratifolia",f.,"misicii","Gajić",Synonym,,L,TICA,56217B12-3074-4F60-82EF-F3D36BB213E9,876352-1,"","","9","1974",gcc-85123
+gcc-74128,A,Compositae,,Achillea,,"ageratifolia",f.,"ramosa","Gajić",Synonym,,L,TICA,C451E8E8-9B62-41B1-8282-35162AF9E549,,"""Glasn. Prir. Mus. u Beogradu, Ser. B, Biol. Nauke 31: 13 (1976)""","","13","1976",gcc-85123
+gcc-54296,A,Compositae,,Achillea,,"ageratifolia",subsp.,"serbica","(Nyman) Heimerl",Accepted,,L,TICA,0EC61AF8-955B-494F-824E-6CE28ED8C082,,"","","134","1884",
+gcc-127798,A,Compositae,,Achillea,,"ageratum",,"","L.",Accepted,,M,TICA,C6E60D7E-EB89-4D29-A27E-D8864229F80B,173792-1,"","","897","1753",
+gcc-125607,A,Compositae,,Achillea,,"aizoon",,"","(Griseb.) Halácsy",Synonym,,M,TICA,65B672A7-0672-423A-9E31-D36E53669AA4,60454772-2,"""Halácsy, Consp. Fl. Graec. 2. 1902.""","","41","1902",gcc-16020
+gcc-137721,A,Compositae,,Achillea,,"albertiana",,"","Vacc",Unresolved,,L,TICA,73361DCD-3783-49AF-988C-EF1317209870,173793-1,"","","57","1914",gcc-12688
+gcc-129338,A,Compositae,,Achillea,,"albicans",,"","C.A.Mey.",Unresolved,,L,TICA,7FF32559-C1EE-42DA-88CC-DC08E4BCCB80,,"","","","",
+gcc-131900,A,Compositae,,Achillea,,"albicaulis",,"","C.A.Mey.",Synonym,,M,TICA,264C6DE4-C8C3-4133-82A8-E2041E4707AA,173794-1,"","","76","1831",gcc-93656
+gcc-75838,A,Compositae,,Achillea,,"albida",,"","Willd.",Synonym,,M,TICA,6CC6A9FC-B750-4755-93AD-6357D2C7363F,173795-1,"","","61","1814",gcc-140712
+gcc-143806,A,Compositae,,Achillea,×,"albinea",,"","Bjelčić & K.Malý",Accepted,,M,TICA,DD51EC15-4D07-4CE9-9577-FCB432844D3F,,"","","68","1971",
+gcc-40036,A,Compositae,,Achillea,,"aleppica",,"","DC.",Accepted,,M,TICA,13DDD60B-180A-42D4-B9BA-4A47DE9525A0,173796-1,"","","296","1838",
+gcc-153863,A,Compositae,,Achillea,,"aleppica",var.,"aleppica","",Synonym,,L,TICA,A78C55A6-D3A2-4865-B3C8-B6DCB0FB72BF,,"","","","",gcc-40036
+gcc-157337,A,Compositae,,Achillea,,"aleppica",f.,"aleppica","",Synonym,,L,TICA,0B8B542A-5EDB-4227-8862-FFC9E96F3743,,"","","","",gcc-40036
+gcc-54502,A,Compositae,,Achillea,,"aleppica",subsp.,"aleppica","",Synonym,,L,TICA,D49B361C-0E8B-408A-B563-6EAB7566C17F,,"","","","",gcc-40036
+gcc-56715,A,Compositae,,Achillea,,"aleppica",subsp.,"densa","(Blakelock) Hub.-Mor.",Accepted,,L,TICA,307A22A5-ACA9-4D55-B48D-80A203835CD0,,"","","","1975",
+gcc-75180,A,Compositae,,Achillea,,"aleppica",f.,"ramosa","(Bornm.) Bornm.",Synonym,,L,TICA,01138D19-C44A-4148-A639-5C16E5DE1D40,,"Beih. Bot. Centralbl. 60: 191 (1939)","","191","1939",gcc-78740
+gcc-8067,A,Compositae,,Achillea,,"aleppica",var.,"ramosa","Bornm.",Synonym,,L,TICA,F73B93D3-B057-409D-A355-0F04EE37BB65,,"Notizbl. Bot. Gart. Berlin-Dahlem 7: 154 (1917)","","154","1917",gcc-78740
+gcc-57805,A,Compositae,,Achillea,,"aleppica",subsp.,"zederbaueri","(Hayek) Hub.-Mor.",Accepted,,L,TICA,D176EDCE-CCBF-4533-AD7D-896014AB14D0,876354-1,"","","427","1975",
+gcc-65713,A,Compositae,,Achillea,,"aleppica",var.,"zederbaueri","(Hayek) Bornm.",Synonym,,L,TICA,DB9B8A9C-FF56-4E0D-B944-C8F35AA63FAF,,"Notizbl. Bot. Gart. Berlin-Dahlem 7: 157 (1917)","","157","1917",gcc-57805
+gcc-80344,A,Compositae,,Achillea,,"alexandri-borzae",,"","Prodan",Synonym,,M,TICA,B5880739-6C67-42A3-BE5B-6D6E830CFE03,173797-1,"","","26","1931",gcc-34553
+gcc-46495,A,Compositae,,Achillea,,"alexandri-regis",,"","Bornm. & Rudsky",Accepted,,M,TICA,91B9711D-2E5E-4D51-803A-56238CB2EA9F,,"","","198","1934",
+gcc-149198,A,Compositae,,Achillea,,"alexandri-regis",f.,"alexandri-regis","",Synonym,,L,TICA,58B276A9-4330-471F-A315-53B08CD34C7D,,"","","","",gcc-46495
+gcc-101124,A,Compositae,,Achillea,,"alexandri-regis",f.,"holosericiformis","""Diklić, Stevan. & Niketić""",Synonym,,L,TICA,7BD728CC-665D-4838-85AC-9C21AEA14636,965607-1,"","","733","1991",gcc-46495
+gcc-40735,A,Compositae,,Achillea,,"alpicola",,"","(Rydb.) Rydb.",Synonym,Illegitimate,M,TICA,07CA7D12-FB9F-4739-B8ED-4B7DD7BADF2C,2282-2,"Bull. Torrey Bot. Club 33","","157","1906",gcc-140712
+gcc-93085,A,Compositae,,Achillea,,"alpicola",,"","(Beck) Dalla Torre",Synonym,,M,TICA,CE5486D7-D97F-40BC-8FFC-89FFB8900363,173799-1,"","","224","1899",gcc-63590
+gcc-132612,A,Compositae,,Achillea,,"alpina",,"","L.",Accepted,,M,TICA,74557CC1-3A54-46E0-844F-E3A2DA0E4424,1031768-2,"Sp. Pl.: 899 (1753)","","899","1753",
+gcc-152069,A,Compositae,,Achillea,,"alpina",var.,"alpina","",Synonym,,L,TICA,5C8B41C7-2476-42D7-B485-91E40FB0A9FD,,"","","","",gcc-132612
+gcc-55287,A,Compositae,,Achillea,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,2F2154A5-A4FF-45E3-8BC6-74C9478D0EC5,,"","","","",gcc-132612
+gcc-9399,A,Compositae,,Achillea,,"alpina",subsp.,"camtschatica","(Heimerl) Kitam.",Accepted,,L,TICA,F3E7417B-36DB-4C3E-BAB9-118E61A556D3,,"Acta Phytotax. Geobot. 23: 3 (1968)","","3","1968",
+gcc-62728,A,Compositae,,Achillea,,"alpina",var.,"discoidea","(Regel) Kitam.",Accepted,,L,TICA,DFFE5FBA-2D58-4C2C-8C3B-B0FFE7AB2FB8,,"Acta Phytotax. Geobot. 23: 3 (1968)","","3","1968",
+gcc-39494,A,Compositae,,Achillea,,"alpina",subsp.,"japonica","(Heimerl) Kitam.",Accepted,,L,TICA,364723DA-BBDA-491F-B714-494BA3F8C506,,"Acta Phytotax. Geobot. 23: 4 (1968)","","4","1968",
+gcc-71776,A,Compositae,,Achillea,,"alpina",subsp.,"pulchra","(Koidz.) Kitam.",Accepted,,L,TICA,4B51DA8E-D374-416B-B760-F8BA43C5DBFD,,"Acta Phytotax. Geobot. 23: 4 (1968)","","4","1968",
+gcc-68624,A,Compositae,,Achillea,,"alpina",subsp.,"subcartilaginea","(Heimerl) Kitam.",Accepted,,L,TICA,E48A2BB2-3A3D-42E7-840C-E026FB9F9B2D,,"Acta Phytotax. Geobot. 23: 4 (1968)","","4","1968",
+gcc-27331,A,Compositae,,Achillea,,"amanica",,"","Rech.f.",Synonym,,M,TICA,738DC5BA-FF1D-47F5-87EC-328D6E1515C4,,"","","442","1960",gcc-14430
+gcc-120418,A,Compositae,,Achillea,×,"ambigua",,"","Sünd.",Unresolved,,L,TICA,8A2AC3A4-0C7B-4DB9-AA5C-C77E1B84FE8C,173805-1,"","","91","1906",
+gcc-134318,A,Compositae,,Achillea,,"ambigua",,"","Boiss.",Synonym,,M,TICA,F38E0827-85C6-42DD-906F-E78391908296,173804-1,"","","255","1875",gcc-140712
+gcc-27564,A,Compositae,,Achillea,,"ambigua",,"","Pollini",Synonym,,M,TICA,1D0F9CB1-28CD-4B32-8E41-32F544BDB303,173803-1,"","","117","1816",gcc-140712
+gcc-95974,A,Compositae,,Achillea,,"ambrosiaca",,"","(Boiss. & Heldr.) Boiss.",Accepted,,M,TICA,58219A98-765C-4475-A66B-908CA1B0F3B0,173806-1,"","","276","1875",
+gcc-143410,A,Compositae,,Achillea,,"amoena",,"","C.A.Mey.",Synonym,,M,TICA,DEBF563B-78B2-4D88-BDBF-FBD559FA6250,173807-1,"","","76","1831",gcc-39575
+gcc-90614,A,Compositae,,Achillea,,"anethifolia",,"","Fisch. ex Herder",Synonym,,M,TICA,7D166B1B-9E67-4331-BC0C-8478A0997FDD,173808-1,"","","404","1865",gcc-140712
+gcc-25101,A,Compositae,,Achillea,,"anglica",,"","G.Don",Synonym,,M,TICA,46927DC1-9002-4F77-AECF-2E59B2A9220E,173809-1,"","","355","1830",gcc-13262
+gcc-45147,A,Compositae,,Achillea,,"angustifolia",,"","Salisb.",Synonym,,M,TICA,CDC34666-1C73-4E46-8612-53AFA4990352,173810-1,"","","204","1796",gcc-132612
+gcc-52551,A,Compositae,,Achillea,,"angustissima",,"","Rydb.",Synonym,,M,TICA,1FB4E330-2F29-4447-A384-616BA6F16B1D,2283-2,"N. Amer. Fl. 34","","225","1916",gcc-140712
+gcc-31414,A,Compositae,,Achillea,,"anthemiformis",,"","Freyn & Sint.",Synonym,,M,TICA,7FBE4323-ACD9-4B8C-9731-3A3529ED0B14,,"","","626","1897",gcc-20389
+gcc-130998,A,Compositae,,Achillea,,"anthemoides",,"","Freyn & Sint.",Synonym,,M,TICA,58D21259-A728-40F7-BF80-DFDBB3771002,173814-1,"Bull. Herb. Boissier","","346","1895",gcc-20389
+gcc-39986,A,Compositae,,Achillea,,"anthemoides",,"","Willd.",Unresolved,,L,TICA,F4457782-DC28-4A59-A3D7-4A3232288A2D,,"","","","1803",
+gcc-87605,A,Compositae,,Achillea,,"apiculata",,"","N.I.Orlova",Accepted,,M,TICA,CF00ECC8-590B-4145-B83F-7DA6F59D8746,173816-1,"","","426","1966",
+gcc-96275,A,Compositae,,Achillea,,"arabica",,"","Kotschy",Accepted,,M,TICA,45EA742E-0DE9-4E47-AC01-912AEC635F19,173817-1,"","","255","1866",
+gcc-87549,A,Compositae,,Achillea,,"arborea",,"","Hornem.",Synonym,,M,TICA,BC30C2EB-E60C-40E8-8DD9-7D8BF62959C5,173818-1,"","","102","1813",gcc-51116
+gcc-105183,A,Compositae,,Achillea,,"arctica",,"","Serg.",Unresolved,,L,TICA,75EF43DB-8FA9-4103-900E-A51571125241,,"","","","",
+gcc-9533,A,Compositae,,Achillea,,"arenicola",,"","A.Heller",Synonym,,M,TICA,667D7476-44AD-4D4B-82CC-11CB0FA15A30,2284-2,"Muhlenbergia 1","","61","1904",gcc-140712
+gcc-142458,A,Compositae,,Achillea,,"argentea",,"","Lam.",Synonym,,L,TICA,6A6DD49B-144A-439D-94DE-F9ACF6B95357,173820-1,"","","29","1783",gcc-124048
+gcc-18769,A,Compositae,,Achillea,,"argentea",,"","Salisb.",Synonym,,M,TICA,748C53C8-AE77-4A37-8C11-22A8D7D5701A,173821-1,"","","204","1796",gcc-105259
+gcc-22520,A,Compositae,,Achillea,,"argentea",,"","Vis.",Synonym,,M,TICA,0E7FB3E6-A0E6-48A3-9B5F-29A66EDA6658,173822-1,"","","22","1829",gcc-105259
+gcc-98829,A,Compositae,,Achillea,,"argyrophylla",,"","Halácsy & gheorgh. ex Halácsy & Georgiev",Synonym,,M,TICA,989D8BCE-2F88-4A62-8257-96FA8CB7C981,173823-1,"Oesterr. Bot. Z. 41","","221","1891",gcc-87732
+gcc-14396,A,Compositae,,Achillea,,"armenorum",,"","Boiss. & Hausskn.",Accepted,,M,TICA,87FCB809-630B-403E-B5F7-1AB7E5152449,173824-1,"","","269","1875",
+gcc-18668,A,Compositae,,Achillea,,"aromatica",,"","Velen.",Synonym,,M,TICA,EB4E2E34-392A-4090-AC0D-227CAD1B5592,173825-1,"Oesterr. Bot. Z. 36","","355","1886",gcc-109561
+gcc-35273,A,Compositae,,Achillea,,"asiatica",,"","Serg.",Accepted,,M,TICA,7698E325-F664-499D-AB58-4164C8403F47,60452253-2,"","","6","1946",
+gcc-36045,A,Compositae,,Achillea,,"asiatica",var.,"alpina","Serg.",Synonym,,L,TICA,80ED9A9D-1A68-485E-A0E5-42DB4F49366C,,"Sist. Zametki Mater. Gerb. Krylova Tomsk. Gosud. Univ. Kuybysheva 72: 6 (1946)","","6","1946",gcc-134844
+gcc-148698,A,Compositae,,Achillea,,"asiatica",var.,"asiatica","",Synonym,,L,TICA,AF22379E-64E6-4AF0-8F39-48BC95A5088D,,"","","","",gcc-35273
+gcc-85603,A,Compositae,,Achillea,,"asperula",,"","Ces. & Pass. ex Nyman",Synonym,,L,TICA,983D6C3D-36A7-4B89-AB09-79085D17015F,173826-1,"","","362","1879",gcc-114429
+gcc-115184,A,Compositae,,Achillea,,"aspleniifolia",,"","Sch.Bip.",Synonym,,M,TICA,46FEEFB9-913E-4482-8C73-BB8EA08B9FA9,173828-1,"Oesterr. Bot. Wochenbl. 6","","301","1856",gcc-113456
+gcc-45689,A,Compositae,,Achillea,,"aspleniifolia",,"","Vent.",Accepted,,M,TICA,97778C72-CB8C-49AA-AFDF-54AE8002FD5C,,"","","","1803",
+gcc-149457,A,Compositae,,Achillea,,"aspleniifolia",var.,"aspleniifolia","",Synonym,,L,TICA,C11D0C6C-8002-4F29-ACB0-592C3E8C1715,,"","","","",gcc-45689
+gcc-58551,A,Compositae,,Achillea,,"aspleniifolia",var.,"luxurians","Dabrowska",Synonym,,L,TICA,A2BCD0C4-2DF6-4B63-9938-8FA2B66E755E,916731-1,"""Acta Univ. Wratislav., Prace Bot. 24: 167 (1982)""","","167","1982",gcc-45689
+gcc-14881,A,Compositae,,Achillea,,"atrata",,"","L.",Accepted,,M,TICA,D85CCF00-C5F2-417A-A066-1B919EF58D9A,173829-1,"","","899","1753",
+gcc-146966,A,Compositae,,Achillea,,"atrata",subsp.,"atrata","",Synonym,,L,TICA,BCFD3960-E211-4439-81E8-23DA9F8D2C3F,,"","","","",gcc-14881
+gcc-151065,A,Compositae,,Achillea,,"atrata",var.,"atrata","",Synonym,,L,TICA,CF824985-7985-4B92-83AB-7C945B2289F8,,"","","","",gcc-14881
+gcc-34121,A,Compositae,,Achillea,,"atrata",var.,"beckiana","Heimerl",Synonym,,L,TICA,FF0782C2-5A5F-4C7D-ABD6-3F3FBAB65E70,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-14881
+gcc-67956,A,Compositae,,Achillea,,"atrata",subsp.,"carvifolia","Dörfl. & Hayek",Synonym,,L,TICA,29F484C5-0D96-4F1F-8F1D-DB29971967B2,,"Dörfl. & Hayek in Österr. Bot. Z. 70. 1921.","","21","1921",gcc-141926
+gcc-71061,A,Compositae,,Achillea,,"atrata",subsp.,"clusiana","(Tausch) Heimerl",Synonym,,L,TICA,F14BDA41-FAC8-4497-A17B-F315F4304339,60439411-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","139","1884",gcc-45039
+gcc-65740,A,Compositae,,Achillea,,"atrata",subsp.,"halleri","(Crantz) P.Fourn.",Synonym,,L,TICA,FE1D5935-CB1C-420C-ABB9-C9214BB83F2C,,"P. Fourn.. 1939.","","969","1939",gcc-14881
+gcc-68708,A,Compositae,,Achillea,,"atrata",var.,"monocephala","Heimerl",Synonym,,L,TICA,33B9B1E5-31D1-4DDA-90B8-E0E62A810F1A,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-14881
+gcc-54843,A,Compositae,,Achillea,,"atrata",subsp.,"multifida","(DC.) Heimerl",Synonym,,L,TICA,561FE69D-F88A-4023-8620-7150DBF4E5FC,60439414-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","140","1884",gcc-13568
+gcc-66487,A,Compositae,,Achillea,,"atrata",var.,"multiflora","Heimerl",Synonym,,L,TICA,81BFB319-C77E-4B9A-AF2B-CF25E1191E0E,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-14881
+gcc-65183,A,Compositae,,Achillea,,"atrata",var.,"oligocephala","Heimerl",Synonym,,L,TICA,B0B40A65-E7A8-47B9-BC51-C479054F7FFE,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-14881
+gcc-11080,A,Compositae,,Achillea,,"atrata",var.,"vulgaris","Heimerl",Synonym,,L,TICA,F34D1DDF-0E9F-4DC6-9027-14BC8590DD02,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-14881
+gcc-84167,A,Compositae,,Achillea,,"aucheri",,"","Boiss.",Accepted,,M,TICA,766CC347-8EB2-42BF-BBF5-75EDA90F8185,,"","","87","",
+gcc-146444,A,Compositae,,Achillea,,"aucheri",subsp.,"aucheri","",Synonym,,L,TICA,61C3BEA0-6383-4D80-A5F0-18736B7E839C,,"","","","",gcc-84167
+gcc-31922,A,Compositae,,Achillea,,"aucheri",subsp.,"glabra","Hub.-Mor.",Synonym,,L,TICA,F4198F62-0203-4600-BBD5-3B22618073C8,949105-1,"","","57","1986",gcc-84167
+gcc-101639,A,Compositae,,Achillea,,"aurea",,"","Lam.",Synonym,,M,TICA,55D8994E-9914-4509-BD2D-9D37482CC848,173831-1,"","","26","1783",gcc-2298
+gcc-99550,A,Compositae,,Achillea,,"auriculata",,"","Willd.",Accepted,,M,TICA,B7353774-A35D-49DA-875B-98951349E697,,"","","","1803",
+gcc-123191,A,Compositae,,Achillea,,"baikalensis",,"","Fisch.",Accepted,,M,TICA,77684F79-591A-4387-8848-CDBF5DDFE6C0,173833-1,"","","41","1812",
+gcc-130286,A,Compositae,,Achillea,,"baldaccii",,"","Degen",Unresolved,,L,TICA,627A804E-3BE4-4A42-8060-DE2FE40E0728,173834-1,"","","25","1895",
+gcc-112871,A,Compositae,,Achillea,,"banatica",,"","Kit. ex DC.",Synonym,,M,TICA,06793D3C-A774-42D5-B450-B66AEA1F54E4,173836-1,"","","29","1838",gcc-87582
+gcc-24963,A,Compositae,,Achillea,,"bandana",,"","Buch.-Ham.",Synonym,Invalid,L,TICA,4790CE67-A354-4D0F-BC9A-2E207BC6B74C,173835-1,"","","3291","1831",gcc-139655
+gcc-133060,A,Compositae,,Achillea,,"barbeyana",,"","Heldr. & Heimerl",Accepted,,M,TICA,37E7DAC0-6A3A-42F4-B0E8-E4AAA709FDF1,173837-1,"","","161","1884",
+gcc-108937,A,Compositae,,Achillea,,"barrelieri",,"","(Ten.) Sch.Bip.",Accepted,,M,TICA,394A4939-138D-49AD-AD9C-AD8036855229,173839-1,"Flora 38","","15","1855",
+gcc-153713,A,Compositae,,Achillea,,"barrelieri",f.,"barrelieri","",Synonym,,L,TICA,670E1A2C-E330-4ABD-800E-B3E39EA7394D,,"","","","",gcc-108937
+gcc-44239,A,Compositae,,Achillea,,"barrelieri",subsp.,"barrelieri","",Synonym,,L,TICA,5499D1A8-2FF0-4D1D-9CEC-51EB833A6515,,"","","","",gcc-108937
+gcc-51097,A,Compositae,,Achillea,,"barrelieri",subsp.,"mucronulata","(Bertol.) Heimerl",Accepted,,L,TICA,531071A9-170A-4D0A-8A5A-5ECA7503003C,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",
+gcc-13538,A,Compositae,,Achillea,,"barrelieri",subsp.,"oxyloba","(DC.) F.Conti & Soldano",Synonym,,L,TICA,309C64E5-74EE-4C08-9A09-192EFC7760FB,77070224-1,"","","17","2005",gcc-40684
+gcc-103423,A,Compositae,,Achillea,,"barrelieri",f.,"schouwii","(DC.) Bazzich.",Synonym,,L,TICA,5FD37277-62D7-4005-A4F3-A138FEB8B90F,,"","","","1972",gcc-108937
+gcc-125161,A,Compositae,,Achillea,×,"barthiana",,"","Prodan",Unresolved,,L,TICA,E0B34D1D-B63F-4F9A-82E4-D263E0ED5F70,,"","","","1931",
+gcc-137182,A,Compositae,,Achillea,,"beckiana",,"","Dalla Torre",Synonym,,M,TICA,5E22FAC5-CE32-40E8-9D70-EDE73400694B,173841-1,"","","223","1899",gcc-45039
+tro-50105063,A,Compositae,,Achillea,,"beibersteinii",,"","Afan.",Unresolved,,L,TRO,50105063,,"","","","",
+gcc-51229,A,Compositae,,Achillea,,"berdana",,"","Buch.-Ham. ex DC.",Synonym,Invalid,L,TICA,0C8F4CE1-7AE1-4019-9840-5EFF07C00B2E,,"","","631","1836",gcc-139655
+gcc-112729,A,Compositae,,Achillea,,"biaristata",,"","Spreng.",Synonym,,M,TICA,A14AC42B-D2DD-453B-8BD1-B61B861E2731,173842-1,"","","303","1827",gcc-84867
+gcc-130323,A,Compositae,,Achillea,×,"bichigeani",,"","Prodan",Unresolved,,L,TICA,1DBA41C7-3B32-47A2-8B02-DE444F59BB2C,173843-1,"","","32","1931",
+gcc-77231,A,Compositae,,Achillea,,"bicolor",,"","Wender.",Synonym,,M,TICA,615491E3-C260-4DA2-899A-666B9CE422F3,,"","","","1829",gcc-140712
+gcc-129903,A,Compositae,,Achillea,,"biebersteinii",,"","Afan.",Synonym,Invalid,M,TICA,E796D585-3404-413C-BCBA-DD5952EF7DE4,,"","","361","1959",gcc-96275
+gcc-131516,A,Compositae,,Achillea,,"biebersteinii",,"","Hub.-Mor.",Synonym,,M,TICA,F81244C4-AB8A-4BC5-9600-E1171ECAD966,,"""Hub.-Mor. in Davis, Fl. Turkey 5. 1975.""","","250","1975",gcc-96275
+gcc-104129,A,Compositae,,Achillea,×,"bilekii",,"","Sünd.",Unresolved,,L,TICA,EB13484E-4057-45A5-9E2F-A2D39A058AAA,173846-1,"","","91","1906",
+gcc-11518,A,Compositae,,Achillea,,"bipinnata",,"","L.",Synonym,,M,TICA,1E06E7DB-B75C-4856-9B7F-157CB805BD6E,173847-1,"","","900","1753",gcc-72423
+gcc-85870,A,Compositae,,Achillea,,"birjuczensis",,"","Klokov",Synonym,,M,TICA,B3B9DCD5-146A-45B6-9A56-79A31F45AEA6,173848-1,"","","554","1962",gcc-156704
+gcc-19842,A,Compositae,,Achillea,,"biserrata",,"","M.Bieb.",Accepted,,M,TICA,90E946E1-1939-4F0D-B476-24B280AF0B13,173849-1,"","","334","1808",
+gcc-33738,A,Compositae,,Achillea,,"bocconii",,"","W.D.J.Koch",Unresolved,,L,TICA,EB89978D-A3D4-4821-95A3-3E865F12D67D,173850-1,"","","s.p.","1834",gcc-132612
+gcc-89256,A,Compositae,,Achillea,,"boissieri",,"","(Hausskn.) Hausskn. ex Boiss.",Accepted,,M,TICA,A0240A09-6C40-4E66-8AEE-814B67A3B71A,173851-1,"","","272","1875",
+gcc-119525,A,Compositae,,Achillea,,"boissieriana",,"","Heldr. ex Heimerl",Synonym,,M,TICA,825D3625-209A-43DC-94EE-C55A2F3608BD,,"","","","1884",gcc-133060
+gcc-144985,A,Compositae,,Achillea,,"borealis",,"","Bong.",Synonym,,M,TICA,8B8B6957-2AA7-4882-97EB-FF62925E1D4C,2286-2,"","","149","1832",gcc-140712
+gcc-62200,A,Compositae,,Achillea,,"borealis",var.,"arenicola","J.T.Howell",Synonym,,L,TICA,828E2064-344C-4D82-84E0-ACBEC733171E,2288-2,"Leaflets of Western Botany 5(6):","","107","1948",gcc-140712
+gcc-69447,A,Compositae,,Achillea,,"borealis",subsp.,"arenicola","(A.Heller) D.D.Keck",Synonym,,L,TICA,F3C9FF48-3575-4377-BE2D-E66FE81209AC,2287-2,"Publ. Carnegie Inst. Wash. 520","","299","1940",gcc-140712
+gcc-156281,A,Compositae,,Achillea,,"borealis",f.,"borealis","",Synonym,,L,TICA,966F4C8E-D6A0-470E-9F1E-EA04085E7D0F,,"","","","",gcc-140712
+gcc-54526,A,Compositae,,Achillea,,"borealis",subsp.,"borealis","",Synonym,,L,TICA,708B8F2D-5ED3-4D0C-9134-6EDC97CE8627,,"","","","",gcc-140712
+gcc-66682,A,Compositae,,Achillea,,"borealis",var.,"borealis","",Synonym,,L,TICA,DC7CA42A-136E-457C-BB4D-D0BF59A7AC90,,"","","","",gcc-140712
+gcc-60860,A,Compositae,,Achillea,,"borealis",subsp.,"californica","(Pollard) D.D.Keck",Synonym,,L,TICA,F9F7F560-45D0-4D20-82B0-A1D574B18B9B,2289-2,"Publ. Carnegie Inst. Wash. 520","","299","1940",gcc-140712
+gcc-67321,A,Compositae,,Achillea,,"borealis",var.,"californica","(Pollard) J.T.Howell",Synonym,,L,TICA,AD36727E-5D69-4CFC-95C5-D6469779E5B7,2290-2,"Leaflets of Western Botany 5(6):","","107","1948",gcc-140712
+gcc-136988,A,Compositae,,Achillea,,"borealis",f.,"fusca","(Rydb.) Hultén",Synonym,,L,TICA,C2A88848-DAC9-4453-AA84-ED72E6C2C5CC,,"","","1542","1950",gcc-140712
+gcc-26986,A,Compositae,,Achillea,×,"borzae",,"","Prodan",Unresolved,,L,TICA,E17A04C7-7574-4BC5-9A3A-31E2E9C19744,173854-1,"Bul. Acad. Stud. Agron. Cluj 2: 44 (1931)","","44","1931",
+gcc-119482,A,Compositae,,Achillea,,"borzana",,"","Prodan",Synonym,,M,TICA,70D03A78-A514-4E99-B1BA-C5436DB18FEF,173855-1,"","","9","1930",gcc-34553
+gcc-26499,A,Compositae,,Achillea,,"brachyphylla",,"","Boiss. & Hausskn.",Accepted,,M,TICA,6CFCBE2C-B654-43F9-A3E7-30F9E511F6F8,173856-1,"","","273","1875",
+gcc-51156,A,Compositae,,Achillea,,"breynina",,"","Dalla Torre",Unresolved,,L,TICA,44514AC4-0903-42FF-B27D-5EE3D05044FD,173857-1,"","","224","1899",
+gcc-15214,A,Compositae,,Achillea,,"briquetiana",,"","Chenev.",Unresolved,,L,TICA,4F90C2CC-C7E8-468B-BECA-1C2BB7229ACD,,"","","","1898",
+gcc-9785,A,Compositae,,Achillea,,"bucharica",,"","C.Winkl.",Accepted,,M,TICA,5F60D78E-0658-4C42-82C0-1247C11A8332,,"","","163","",
+gcc-112657,A,Compositae,,Achillea,,"buglossis",,"","Friv.",Synonym,,M,TICA,CFBB3278-CBD6-4FD1-8BF6-B5E908AEBD33,173860-1,"","","433","1836",gcc-3059
+gcc-101889,A,Compositae,,Achillea,×,"buiana",,"","Prodan & Nyár.",Unresolved,,L,TICA,55195A91-DDD4-4383-A518-9DCB711D1FF5,,"","","","1964",
+gcc-4148,A,Compositae,,Achillea,,"bulgarica",,"","(Degen & Urum.) Ujhelyi",Synonym,,M,TICA,1D39743C-D782-498D-90FB-07B8FD92B473,173862-1,"Ann. Hist.-Nat. Mus. Natl. Hung. 67","","45","1975",gcc-87582
+gcc-111871,A,Compositae,,Achillea,,"calcarea",,"","(""Huter, Porta & Rigo"") Porta",Unresolved,,L,TICA,AF399204-77D7-448F-B276-B4206185970D,173863-1,"Nuovo Giorn. Bot. Ital. 11","","272","1879",
+gcc-87273,A,Compositae,,Achillea,,"calcarea",,"","(Huter & al.) A.W.Hill",Synonym,,M,TICA,E3D17B01-BA50-4449-B5AC-7CE885E2B9ED,,"""A. W. Hill, Ind. Kew., Suppl. 8. 1933.""","","3","1933",gcc-42204
+gcc-137980,A,Compositae,,Achillea,,"californica",,"","Pollard",Synonym,,M,TICA,3BD47402-A10D-4145-AF5B-EF9A8C018AFA,173864-1,"Bull. Torrey Bot. Club 26","","","1899",gcc-140712
+gcc-42661,A,Compositae,,Achillea,,"callichroa",,"","Boiss.",Accepted,,M,TICA,759DEA15-B2F4-428D-AFBB-4F03F1130ED1,,"","","86","",
+gcc-30658,A,Compositae,,Achillea,,"camphorata",,"","Gilib.",Synonym,Invalid,M,TICA,B48CCEC2-02BF-4D26-B19D-38C148EC3E0C,173866-1,"","","217","1782",gcc-48678
+gcc-45807,A,Compositae,,Achillea,,"camtschatica",,"","(Rupr. ex Heimerl) Botsch.",Synonym,,M,TICA,B541FEBD-5DC8-400A-B2E0-54ED90409A78,,"Fl. URSS 26 : 122 (1961)","","122","1961",gcc-129222
+gcc-50721,A,Compositae,,Achillea,,"camtschatica",,"","Rupr. ex Heimerl",Synonym,Invalid,M,TICA,50ABBD74-0EE3-44B9-BCE9-5E11C0F89BF6,173867-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","189","1884",gcc-9399
+gcc-100806,A,Compositae,,Achillea,,"cancrinii",,"","Gruner",Unresolved,,L,TICA,F0391BD8-7A27-4B5E-8B2C-9B73C33BC87D,173868-1,"","","417","1868",
+gcc-93518,A,Compositae,,Achillea,,"canescens",,"","Formánek",Synonym,,M,TICA,8CF57321-E64D-41BF-8AFA-8AE62D62578A,173869-1,"","","157","1894",gcc-131019
+gcc-86157,A,Compositae,,Achillea,,"capillaris",,"","Poir.",Synonym,,M,TICA,7AEC0D5D-A1B8-41A6-97C7-7A4A4E1DA621,173870-1,"","","102","1810",gcc-109561
+gcc-104193,A,Compositae,,Achillea,,"capillata",,"","Lapeyr.",Synonym,,M,TICA,48EFEFA6-6F26-4D18-999F-A2FCD0E824AA,173871-1,"","","534","1813",gcc-126435
+gcc-2502,A,Compositae,,Achillea,,"capitata",,"","Willd.",Synonym,,M,TICA,1E254E9D-2FBE-472F-B97E-048D69FE3261,173872-1,"","","17","1789",gcc-105259
+gcc-10544,A,Compositae,,Achillea,,"cappadocica",,"","Hausskn. & Bornm.",Accepted,,M,TICA,977AB942-D0F5-4233-865F-13AE079B4BBF,173873-1,"","","18","1890",
+gcc-18213,A,Compositae,,Achillea,,"carinata",,"","Formánek",Unresolved,,L,TICA,8EBB067A-A55B-4618-B929-21AB67882B87,,"","","","1890",
+gcc-16268,A,Compositae,,Achillea,,"carpatica",,"","Błocki ex Dubovik",Accepted,,M,TICA,052AA8C6-AAA4-44A7-B522-1E17FF669C68,1004937-1,"","","93","1974",
+gcc-106074,A,Compositae,,Achillea,,"cartilaginea",,"","Sennen",Unresolved,,L,TICA,91E9B2B9-60E4-4AE5-A8DE-A6F83B59E945,173876-1,"""Bull. Soc. Bot. France 74: 376, nomen""","","376","1927",
+gcc-144689,A,Compositae,,Achillea,,"cartilaginea",,"","Ledeb. ex Rchb.",Synonym,,L,TICA,597E570B-97F7-4EC5-9D65-FEAEB5CCAA8B,77116320-1,"","","849","1832",gcc-133895
+gcc-43071,A,Compositae,,Achillea,,"cartilaginea",,"","Ledeb.",Unresolved,,L,TICA,0E2D0F7F-AA93-4A60-91BF-4FC6575FA8B4,173875-1,"Ind. Dorp. ex Boiss. Fl. Orient. iii. 274.","","iii. 274.","",gcc-133895
+gcc-14578,A,Compositae,,Achillea,,"castelnavi",,"","Sennen",Unresolved,,L,TICA,36B45493-468E-4ADA-9FFD-1B0A0317CBD1,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-116142,A,Compositae,,Achillea,,"ceretana",,"","Sennen",Unresolved,,L,TICA,F7858097-C27E-4A24-8AFE-BDC86CAE7EFC,173878-1,"""Bull. Soc. Bot. France 74: 376, nomen""","","376","1927",
+gcc-49731,A,Compositae,,Achillea,,"ceretanica",,"","Sennen",Synonym,,M,TICA,E35B56E7-A44F-46AC-AA5F-5C2D4A713BCD,,"","","","1916",gcc-140712
+gcc-105092,A,Compositae,,Achillea,,"chamaecyparissus",,"","Sch.Bip.",Accepted,,M,TICA,241FFFBB-70EC-4881-BA2E-A4E1C38F8630,,"","","","1855",
+gcc-148562,A,Compositae,,Achillea,,"chamaecyparissus",var.,"chamaecyparissus","",Synonym,,L,TICA,3D95CC80-7149-4C4B-88F5-457B2DC2BB14,,"","","","",gcc-105092
+gcc-29567,A,Compositae,,Achillea,,"chamaecyparyssus",,"","Rchb.f.",Synonym,,M,TICA,41234AFD-D3E2-41E8-ACBF-36A5EF12E004,,"","","","1853",gcc-105092
+gcc-126435,A,Compositae,,Achillea,,"chamaemelifolia",,"","Pourr.",Accepted,,M,TICA,BD1B5C05-887F-4F93-B15F-D55291E1A9CF,173882-1,"","","305","1788",
+gcc-20519,A,Compositae,,Achillea,,"cheilanthifolia",,"","Sommier & Levier",Accepted,,M,TICA,A21DC586-BD7D-4A84-BCEA-25F2E79B09A8,,"","","229","1897",
+gcc-128619,A,Compositae,,Achillea,,"chrysantha",,"","Griseb. ex Boiss.",Synonym,,M,TICA,4C0598DD-3821-4C21-B087-DA6BF91F91FF,173884-1,"","","265","1875",gcc-120400
+gcc-120400,A,Compositae,,Achillea,,"chrysocoma",,"","Friv.",Accepted,,M,TICA,2483705C-DA67-42D5-B657-C774472AE99E,173885-1,"","","336","1835",
+gcc-21323,A,Compositae,,Achillea,,"chypeolata",,"","Sibth. & Sm.",Unresolved,Illegitimate,L,TICA,4F1E4D6C-330E-4617-8269-27684B5C7DEA,173895-1,"Fl. Graec. t. 893.","","t. 893","",
+gcc-35313,A,Compositae,,Achillea,,"cilicica",,"","J.Gay ex Tchich.",Unresolved,,L,TICA,D1324C62-6698-4999-B68B-4179F3D0CB81,173886-1,"","","270","1860",
+gcc-107054,A,Compositae,,Achillea,,"cinerascens",,"","Sünd.",Unresolved,,L,TICA,8395018D-D0D4-48EA-907B-A937F94EE6E8,173888-1,"","","91","1906",
+gcc-1984,A,Compositae,,Achillea,,"cinerascens",,"","Heimerl",Unresolved,,L,TICA,9D3BC64E-B817-4743-AD14-03943E78E19F,173887-1,"Oesterr. Bot. Z. 75","","146","1926",
+gcc-12251,A,Compositae,,Achillea,,"claudiopolina",,"","Janka",Synonym,,M,TICA,3C0442FD-56EF-45AA-8918-16DA13F3021B,173890-1,"Oesterr. Bot. Wochenbl. 4","","403","1854",gcc-143679
+gcc-113669,A,Compositae,,Achillea,×,"claudiopolitana",,"","Soó",Unresolved,,L,TICA,D2735810-9253-48EB-A879-B8272FB5B4B2,173889-1,"","","132","1972",
+gcc-114754,A,Compositae,,Achillea,,"claudiopolitana",,"","Heimerl",Synonym,,M,TICA,AB455BEA-98A9-4BC3-8654-BA99244D4FF6,,"","","","1884",gcc-143679
+gcc-105259,A,Compositae,,Achillea,,"clavennae",,"","L.",Accepted,,M,TICA,D8A0CD51-7712-4364-9926-A538069E64EC,173892-1,"Species Plantarum","","898","1753",
+gcc-69801,A,Compositae,,Achillea,,"clavennae",var.,"capitata","(Willd.) Heimerl",Synonym,,L,TICA,B30EA816-C20C-464E-87C9-E9272D4A50E8,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-105259
+gcc-148531,A,Compositae,,Achillea,,"clavennae",var.,"clavennae","",Synonym,,L,TICA,A47971ED-B89A-49E0-A06D-44C64AF97EC8,,"","","","",gcc-105259
+gcc-155724,A,Compositae,,Achillea,,"clavennae",f.,"clavennae","",Synonym,,L,TICA,17F53E49-85DE-4A8D-A20E-DE81C06A8869,,"","","","",gcc-105259
+gcc-73628,A,Compositae,,Achillea,,"clavennae",f.,"corabensis","Heimerl",Synonym,,L,TICA,654A8141-4349-4CCC-ADF3-20769B8935B7,,"","","140","1926",gcc-51407
+gcc-51330,A,Compositae,,Achillea,,"clavennae",var.,"integrifolia","Halácsy",Synonym,,L,TICA,5BAA98C0-2A8F-4455-B4D7-5F34990A9266,,"","","243","1894",gcc-53612
+gcc-60018,A,Compositae,,Achillea,,"clavennae",var.,"intercedens","Heimerl",Synonym,,L,TICA,D263DD1B-97DB-444E-8AAE-9B07680EC0FA,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-105259
+gcc-129850,A,Compositae,,Achillea,,"clavennae",f.,"velebitica","Bjelčić",Synonym,,L,TICA,B2299C06-3234-4C90-AFAB-DD3638637690,1016791-1,"Acta Bot. Croat. 43: 76 (1984)","","76","1984",gcc-105259
+gcc-16508,A,Compositae,,Achillea,,"clavennae",var.,"visianii","Beck",Synonym,,L,TICA,38C0BB6F-E5A5-463F-9DD2-1E86DB64527F,,"","","","",gcc-105259
+gcc-134167,A,Compositae,,Achillea,,"clavennae",f.,"volujakensis","Bjelčić & E.Mayer",Synonym,,L,TICA,1D2C5315-0CE6-455F-8128-E72691527350,918165-1,"Acta Bot. Croat. 43: 76 (1984)","","76","1984",gcc-105259
+gcc-45039,A,Compositae,,Achillea,,"clusiana",,"","Tausch",Accepted,,M,TICA,F2B10C7A-758C-4F34-B53F-5375CEE8D8AA,173893-1,"","","551","1821",
+gcc-64192,A,Compositae,,Achillea,,"clusiana",var.,"beckiana","Heimerl",Synonym,,L,TICA,940899AD-0B8D-46C9-92A8-BC8D4C6348CA,,"","","","",gcc-45039
+gcc-155074,A,Compositae,,Achillea,,"clusiana",var.,"clusiana","",Synonym,,L,TICA,BAFB8BCD-F913-4D02-9952-D06C0353905E,,"","","","",gcc-45039
+gcc-103229,A,Compositae,,Achillea,,"clusii",,"","Saut.",Synonym,,M,TICA,5E5EEF62-9FD9-4C7B-ACFC-A0CAAC6C6818,,"","","","1824",gcc-45039
+gcc-34553,A,Compositae,,Achillea,,"clypeolata",,"","Sm.",Accepted,,M,TICA,D25AFA81-0680-4850-9E78-400B9B296D20,,"","","193","1813",
+gcc-134443,A,Compositae,,Achillea,,"coarctata",,"","Poir.",Accepted,,M,TICA,8F021C69-BB71-4D26-A31B-E7D3B6D1B9DB,173896-1,"""Encycl., Suppl. 1: 94 (1810)""","","94","1810",
+gcc-108562,A,Compositae,,Achillea,,"collina",,"","Becker ex Rchb.",Synonym,Illegitimate,L,TICA,1BF6FB18-B708-4E91-AFD9-AC929D011B3A,173897-1,"","","850","",gcc-27395
+gcc-123433,A,Compositae,,Achillea,,"collina",,"","Schur ex Nyman",Synonym,,M,TICA,BC8DC3F2-AD3D-4B06-9EA4-CE4D2BACF70B,173898-1,"","","367","1879",gcc-109561
+gcc-128753,A,Compositae,,Achillea,,"collina",,"","× A. millefolium",Unresolved,,L,TICA,7103DF85-93A0-4BC1-9943-DABD0FBC16C3,,"","","","",
+gcc-27395,A,Compositae,,Achillea,,"collina",,"","(Becker ex Rchb.f.) Heimerl",Accepted,,L,TICA,51BC773E-6287-4E76-B382-32AB5F684695,,"""Heimerl in Kerner, Sched. Fl. Exsicc. Austro-Hung. 3. 1883.""","","","1883",
+gcc-153093,A,Compositae,,Achillea,,"collina",var.,"collina","",Synonym,,L,TICA,1009A18F-F376-4D4C-B5D2-A70A8F56A6E5,,"","","","",gcc-27395
+gcc-156106,A,Compositae,,Achillea,,"collina",subsp.,"collina","",Synonym,,L,TICA,A68AB59A-8B2C-45B2-A346-E6801BF63C0D,,"","","","",gcc-27395
+tro-50298934,A,Compositae,,Achillea,,"collina",var.,"pannonica","(Scheele) Beck",Synonym,,L,TRO,50298934,,"Fl. Nieder-Österreich","2(2): 1200","1200","1893",gcc-74733
+gcc-10185,A,Compositae,,Achillea,,"commutata",,"","Heimerl",Unresolved,,L,TICA,CB6812F3-5E01-4719-ADA7-130C15D6BCF1,,"","","","1883",
+gcc-130832,A,Compositae,,Achillea,,"compacta",,"","Willd.",Synonym,,M,TICA,86A4A2AD-360B-40B1-98FD-DF7863913F13,173900-1,"","","2206","1803",gcc-134443
+gcc-46554,A,Compositae,,Achillea,,"compacta",,"","Lam.",Synonym,,M,TICA,33DE8289-D20B-4822-AC68-564171B246BA,173901-1,"","","27","1783",gcc-140712
+gcc-76155,A,Compositae,,Achillea,,"condensata",,"","Miq.",Accepted,,M,TICA,3E0F73A2-2F37-4090-A148-64072837627E,,"Fl. Ned. Ind. 2","","85","1856",
+gcc-142558,A,Compositae,,Achillea,,"conferta",,"","DC.",Accepted,,M,TICA,320FF287-0FF0-4830-B05E-F9DD59A6F7C7,173903-1,"","","32","1838",
+gcc-150586,A,Compositae,,Achillea,,"conferta",var.,"conferta","",Synonym,,L,TICA,C3AB6A1E-12C5-44C1-9988-71D96458733A,,"","","","",gcc-142558
+gcc-18127,A,Compositae,,Achillea,,"conferta",var.,"lycaonica","(Boiss. & Heldr.) Boiss.",Synonym,,L,TICA,132CA238-9023-46F0-B224-217B1211765E,,"Fl. Orient. 3: 270 (1875)","","270","1875",gcc-136106
+gcc-23955,A,Compositae,,Achillea,×,"confusa",,"","Sünd.",Unresolved,,L,TICA,BA86789D-5355-42B8-88DC-2C46D0C80AFF,173904-1,"","","91","1906",
+gcc-101920,A,Compositae,,Achillea,,"conrathii",,"","Fritsch",Unresolved,,L,TICA,FED2BCF3-6635-465D-86A1-9DD8FAF0344A,173905-1,"Oesterr. Bot. Z. 65","","241","1915",
+gcc-77206,A,Compositae,,Achillea,,"corabensis",,"","(Heimerl) Micevski",Synonym,,M,TICA,FA8476F6-43B1-4741-91AD-66589F03D68E,969028-1,"","","6","1984",gcc-51407
+gcc-153985,A,Compositae,,Achillea,,"corabensis",var.,"corabensis","",Synonym,,L,TICA,5D971D81-4957-4802-BC63-B9C7682F9EDB,,"","","","",gcc-51407
+gcc-21133,A,Compositae,,Achillea,,"corabensis",var.,"integrifolia","(Halácsy) Micevski",Synonym,,L,TICA,25C21BEA-ADF6-4004-A443-270C172AF55F,970043-1,"","","7","1984",gcc-53612
+gcc-80978,A,Compositae,,Achillea,,"coronopifolia",,"","Willd.",Synonym,,M,TICA,73A0A802-4F0B-4D48-8560-6ECF1B1B9FBA,,"","","","1789",gcc-140712
+gcc-458,A,Compositae,,Achillea,,"correvoniana",,"","Vacc.",Unresolved,,L,TICA,023C0900-E706-49E9-B592-00DC7DFAF24A,173907-1,"","","399","1904",
+gcc-135943,A,Compositae,,Achillea,,"corymbifera",,"","S.G.Gmel.",Synonym,,M,TICA,D3907975-3114-4C5E-873C-EB0B66A9BC4C,,"","","137","1773",gcc-48678
+gcc-41541,A,Compositae,,Achillea,×,"coziana",,"","Nyár.",Unresolved,,L,TICA,172E263F-D81C-4E74-9F5C-4CEEBDD6EF51,,"","","","1955",
+gcc-47425,A,Compositae,,Achillea,,"crassifolia",,"","Colla",Synonym,,M,TICA,995F7626-3105-49BE-88EE-57D82F8E24A9,173911-1,"","","463","1834",gcc-140712
+gcc-98385,A,Compositae,,Achillea,,"crassifolia",,"","Hort. ex Steud.",Unresolved,,L,TICA,A9A8478F-77BA-4937-9F37-95FACF8911F5,173910-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 13""","","13","1840",
+gcc-117699,A,Compositae,,Achillea,,"cretica",,"","L.",Accepted,,M,TICA,68BDFB66-C125-4F56-9DBC-C13E6CCDDAAC,173912-1,"","","899","1753",
+gcc-37483,A,Compositae,,Achillea,,"crispa",,"","Lam. ex DC.",Synonym,,M,TICA,56FFB2AE-81EF-4639-9BB6-457A17997DA1,173913-1,"","","26","1838",gcc-45689
+gcc-102552,A,Compositae,,Achillea,,"cristata",,"","Hort. ex DC.",Synonym,,M,TICA,BFF3B96F-E1CA-48F4-85FB-9F60C1ED0FA1,173916-1,"","","25","1838",gcc-140712
+gcc-79786,A,Compositae,,Achillea,,"cristata",,"","Willd.",Synonym,,M,TICA,63E2BD90-8666-4AB4-A95B-6C2C09D55062,,"","","","1789",gcc-132612
+gcc-85246,A,Compositae,,Achillea,,"cristata",,"","Retz.",Synonym,,M,TICA,9D9620D0-5224-4960-A614-784784064930,,"","","","1781",gcc-126435
+gcc-115490,A,Compositae,,Achillea,,"crithmifolia",,"","Hampe",Synonym,Illegitimate,M,TICA,B731C07E-8468-4C0E-B4F0-BC43FF760893,,"","","","1837",gcc-96275
+gcc-87582,A,Compositae,,Achillea,,"crithmifolia",,"","Waldst. & Kit.",Accepted,,M,TICA,A9371D00-EF31-40FF-BA38-7D988DD5E593,,"","","68","1801",
+gcc-660,A,Compositae,,Achillea,,"crithmifolia",var.,"bulgarica","Degen & Urum.",Synonym,,L,TICA,9C52554C-39DD-49F2-8F32-0141F2FC5F3F,,"Degen & Urum. in Spis. Balg. Akad. Nauk. 5. 1912.","","16","1912",gcc-87582
+gcc-151624,A,Compositae,,Achillea,,"crithmifolia",var.,"crithmifolia","",Synonym,,L,TICA,A956A254-7277-4F88-BB50-88BF491B9F68,,"","","","",gcc-87582
+gcc-61273,A,Compositae,,Achillea,,"crithmifolia",var.,"dorfleri","(Hayek) Gajić",Synonym,,L,TICA,22C4B1BA-091A-433C-8C35-A52118AE8EAE,876358-1,"","","104","1975",gcc-87582
+gcc-68271,A,Compositae,,Achillea,,"crithmifolia",var.,"gubinensis","Dabrowska",Synonym,,L,TICA,B850FF1A-2CBA-4632-B62C-DD99A152DFFF,916733-1,"""Acta Univ. Wratislav., Prace Bot. 24: 69 (1982)""","","69","1982",gcc-96275
+gcc-38948,A,Compositae,,Achillea,,"crithmifolia",var.,"tuzsonii","(Ujhelyi) Soó",Synonym,,L,TICA,F5776DBF-E545-4139-916E-4840E179B705,,"","","385","1978",gcc-42082
+gcc-110543,A,Compositae,,Achillea,,"croatica",,"","Hornem. ex Colla",Unresolved,,L,TICA,F21A77A1-0F74-4925-BB07-B11F74F1EEDE,173919-1,"","","463","1834",
+gcc-37386,A,Compositae,,Achillea,,"croatica",,"","hort.vindob. ex Hornem.",Unresolved,,L,TICA,C2352D95-8C41-449A-9CD2-454AE3953DE3,927609-1,"","","","1815",
+gcc-5169,A,Compositae,,Achillea,,"croatica",,"","Kit. ex Degen",Unresolved,,L,TICA,2F17BDA8-9EB9-4992-B77C-09A5C178A336,,"Fl. Veleb. 3: 142 (1938)","","142","1938",
+gcc-8955,A,Compositae,,Achillea,,"croatica",,"","Kit.apud Weinm.",Unresolved,,L,TICA,931D1AF4-62CF-4BB7-AB8C-10C1504BB39D,,"""Hort. Dorpat. 1810, 4, nomen; cf. Degen, Fl. Velebit. iii. 142 (1938), in obs.""","","""4, nomen""","1810",
+gcc-109567,A,Compositae,,Achillea,,"crustata",,"","Schur",Unresolved,,L,TICA,04E362E8-F46E-462F-B0E3-AEF3A155807F,173921-1,"","","","1866",
+gcc-112459,A,Compositae,,Achillea,,"crustata",,"","(Rochel) Rchb.",Synonym,Illegitimate,M,TICA,96D27181-A310-4693-B340-B580E197211F,,"Fl. Germ. Excurs.: 850 (1832)","","850","1832",gcc-45689
+gcc-103499,A,Compositae,,Achillea,,"cucullata",,"","Hausskn. ex Bornm.",Accepted,,M,TICA,845F7101-CFA6-4912-BE80-A16A647D1117,173922-1,"","","327","1944",
+gcc-141469,A,Compositae,,Achillea,,"cuneata",,"","Sch.Bip.",Synonym,,M,TICA,9FFD198C-5ACD-407C-8FD6-F7813F4DF024,,"Linnaea 19","","313","",gcc-141796
+gcc-27045,A,Compositae,,Achillea,,"cuneatiloba",,"","Boiss. & Buhse",Accepted,,M,TICA,4512F0A2-5AFA-4739-955A-31FEA7951543,,"","","117","1860",
+gcc-2544,A,Compositae,,Achillea,,"cuneifolia",,"","Lam.",Synonym,,M,TICA,5DA9EDDD-6D65-4212-A4A7-04A7F00D6617,173925-1,"","","28","1783",gcc-51344
+gcc-135940,A,Compositae,,Achillea,,"cuspidata",,"","Wall.",Synonym,Invalid,M,TICA,02F194A0-EDF6-456C-82C8-EB092FB343A9,173926-1,"","","3230","1831",gcc-140712
+gcc-12082,A,Compositae,,Achillea,,"cylindrica",,"","Poir.",Synonym,,M,TICA,D09BD4BD-EC73-4FC1-98CD-16866A8C335F,173927-1,"","","95","1810",gcc-48678
+gcc-116221,A,Compositae,,Achillea,,"dacica",,"","Simonk.",Synonym,,M,TICA,0B76E848-2247-48FF-B14A-BDF54EFB5E44,173928-1,"","","","1886",gcc-40684
+gcc-131329,A,Compositae,,Achillea,,"damascena",,"","DC.",Synonym,,M,TICA,6D6F1A2E-0F00-4C22-9E8A-E0A3A3FB9A58,173929-1,"","","296","1838",gcc-3698
+gcc-6216,A,Compositae,,Achillea,,"decipiens",,"","Vest",Synonym,,M,TICA,2B7FCEF5-BDDF-4CB6-BD07-0B913C64168F,,"","","","1829",gcc-48678
+gcc-13262,A,Compositae,,Achillea,,"decolorans",,"","Schrad. ex Willd.",Accepted,,M,TICA,C12CCEB1-CA85-49F8-BD4E-18B70F0BE3AB,,"Enum. Pl.: 913 (1809)","","913","1809",
+gcc-15108,A,Compositae,,Achillea,,"decolorans",,"","Schrad.",Unresolved,,L,TICA,AB1C7CD6-EC34-477D-BC65-1BFB426B5E1F,173931-1,"in Willd. Enum. Hort. Berol. 913.","","913","",
+gcc-114099,A,Compositae,,Achillea,,"decumbens",,"","Lam.",Accepted,,M,TICA,7B41956C-7BC4-449C-BD80-B915E4CA7965,173932-1,"","","27","1783",
+gcc-16942,A,Compositae,,Achillea,,"degenii",,"","Vilmos",Unresolved,,L,TICA,84F469A7-91DD-4D5C-BDE6-1F4D7C0C768E,,"","","","1909",
+gcc-136143,A,Compositae,,Achillea,,"densa",,"","Blakelock",Synonym,,M,TICA,4DE37C2A-F822-4E4D-9E59-EB8B5D6265E7,173934-1,"","","41","1949",gcc-56715
+gcc-132472,A,Compositae,,Achillea,,"densifolia",,"","Formánek",Unresolved,,L,TICA,6A3CD3D6-E86D-4A07-A1F3-E3589B5308A6,,"","","","1894",
+gcc-119469,A,Compositae,,Achillea,,"densissima",,"","Bässler",Synonym,,M,TICA,C89E7602-05AD-41AF-998E-C5403DE747DD,173936-1,"Feddes Repert. Spec. Nov. Regni Veg. 68","","151","1963",gcc-27032
+gcc-29965,A,Compositae,,Achillea,×,"dentatoserrata",,"","Heuff. ex Heimerl",Unresolved,,L,TICA,4B51CAA0-D2CE-4CE6-8914-37698127285B,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",
+gcc-29077,A,Compositae,,Achillea,,"denticulata",,"","Besser ex Heimerl",Synonym,Invalid,M,TICA,03435AA7-A929-4BA5-ABF4-35C3791D79F7,173938-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","188","1884",gcc-132612
+gcc-120580,A,Compositae,,Achillea,,"dentifera",,"","Rchb.",Synonym,,M,TICA,93FE05F2-DA34-4ECB-91E4-C7E4A12139E9,173940-1,"","","230","1831",gcc-140712
+gcc-9916,A,Compositae,,Achillea,,"dentifera",,"","DC.",Synonym,,M,TICA,76A3EFB3-D849-449E-BA88-1283CF716FD9,173939-1,"","","485","1815",gcc-67766
+gcc-133889,A,Compositae,,Achillea,,"depressa",,"","Janka",Synonym,,M,TICA,B1040E0F-A14B-4B3C-8CA0-E689A943EBB4,173942-1,"Oesterr. Bot. Z. 23","","204","1873",gcc-131093
+gcc-83334,A,Compositae,,Achillea,,"depressa",,"","Fisch. ex Herder",Synonym,,M,TICA,3221938A-7551-4FEB-B5B4-740C06AF3701,173941-1,"","","405","1865",gcc-132612
+gcc-93527,A,Compositae,,Achillea,,"distans",,"","Waldst. & Kit. ex Willd.",Accepted,,M,TICA,B638B8B6-82AA-4146-98A3-8AEAFCABDE57,173943-1,"Sp. Pl. 3: 2207 (1803)","","2207","1803",
+gcc-39216,A,Compositae,,Achillea,,"distans",subsp.,"alpina","(Rochel) Soó",Accepted,,L,TICA,923B947B-6BDD-400A-A956-48C1EA82392F,,"","","391","1978",
+gcc-93220,A,Compositae,,Achillea,,"distans",f.,"angustissima","Dabrowska",Synonym,,L,TICA,45C78865-B991-4A54-B5FA-8A42621463F3,916734-1,"""Acta Univ. Wratislav., Prace Bot. 24: 140 (1982)""","","140","1982",gcc-93527
+gcc-155123,A,Compositae,,Achillea,,"distans",f.,"distans","",Synonym,,L,TICA,3905FD9E-77AA-45BC-A8C5-D15FBF5437A9,,"","","","",gcc-93527
+gcc-36874,A,Compositae,,Achillea,,"distans",subsp.,"distans","",Synonym,,L,TICA,4219F1A2-2979-4F98-A8F6-4455086806A7,,"","","","",gcc-93527
+gcc-63590,A,Compositae,,Achillea,,"distans",subsp.,"stricta","Janch.",Accepted,,L,TICA,CC53CDBC-5A52-4EFE-9C20-B81313D8044C,,"Janch. in Österr. Bot. Z. 91. 1941.","","292","1941",
+gcc-63351,A,Compositae,,Achillea,,"distans",subsp.,"styriaca","Saukel & Langer",Synonym,,L,TICA,B12306D3-F33A-4B89-B27F-B62F1584CA10,,"","","","",gcc-105122
+gcc-67766,A,Compositae,,Achillea,,"distans",subsp.,"tanacetifolia","(All.) Janch.",Accepted,,L,TICA,8998FAF1-C1BC-4454-8C18-D9CD2020BEA4,84998-3,"","","292","1942",
+gcc-134762,A,Compositae,,Achillea,,"diversifolia",,"","Schur",Synonym,,M,TICA,3EC70603-2949-4548-997B-E87FBFA99F67,173944-1,"","","330","1866",gcc-96275
+gcc-93680,A,Compositae,,Achillea,,"djimilensis",,"","Boiss.",Synonym,,M,TICA,5CC90DF0-7932-4E3F-854D-8B381AE675FF,173945-1,"","","259","1875",gcc-22147
+gcc-41856,A,Compositae,,Achillea,,"dobrogensis",,"","Prodan",Unresolved,,L,TICA,4FD79D2F-428E-445E-86BD-4D81B6381174,,"","","","1916",
+gcc-87242,A,Compositae,,Achillea,,"doerfleri",,"","Hayek",Synonym,,M,TICA,9AEA42A6-CB4B-4A58-8C60-7CD58024F5D3,173947-1,"Oesterr. Bot. Z. 70","","21","1921",gcc-87582
+gcc-99774,A,Compositae,,Achillea,,"dolopica",,"","Freyn & Sint.",Synonym,,M,TICA,C10BD462-2299-46DC-B1C1-9919E2E6237E,,"Bull. Herb. Boissier 5: 625 (1897)","","625","1897",gcc-109561
+gcc-44006,A,Compositae,,Achillea,,"dracunculoides",,"","Desf.",Synonym,,M,TICA,BCA1CFF6-D3CB-4F55-AA3B-51834AE6792E,173948-1,"","","180","1829",gcc-132682
+gcc-139768,A,Compositae,,Achillea,,"dracunculus",,"","Hort. ex Steud.",Synonym,,M,TICA,62C45D6D-3385-46E4-9553-F379150DFCB5,,"","","","1840",gcc-35490
+gcc-4471,A,Compositae,,Achillea,×,"dragomanii",,"","Prodan",Unresolved,,L,TICA,46C2EE14-F98C-482B-803D-085016D29014,,"","","","1930",
+gcc-4902,A,Compositae,,Achillea,,"dshimilensis",,"","K.Koch",Synonym,,M,TICA,4574AE75-75B2-4398-B04A-0925E5866AAA,173951-1,"Linnaea 24","","324","1851",gcc-22147
+gcc-106995,A,Compositae,,Achillea,,"dubia",,"","Fisch. ex Steud.",Unresolved,,L,TICA,9FB8D15D-AE9E-46B2-B407-A915F0E4BBFA,173952-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 13""","","13","1840",
+gcc-23957,A,Compositae,,Achillea,,"dubia",,"","Fisch. ex Colla",Unresolved,,L,TICA,F86695D1-C022-4878-869E-2C4782FA3411,173953-1,"","","463","1834",
+gcc-113895,A,Compositae,,Achillea,,"duffourii",,"","Sennen",Unresolved,,L,TICA,02569C29-6B94-4D8D-A3FB-B89FF8DD3DFA,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-37271,A,Compositae,,Achillea,,"dumasiana",,"","Vatke",Unresolved,,L,TICA,352604E8-A9C4-4E88-811C-450C7AED5FB5,173955-1,"Oesterr. Bot. Z. 22","","374","1872",
+gcc-8624,A,Compositae,,Achillea,×,"dutoitii",,"","R.Wilczek",Unresolved,,L,TICA,797555CC-2B9F-4903-BE4C-101B68AD6BA2,173956-1,"Ber. Schweiz. Bot. Ges. 48: 79 (1938)","","79","1938",
+gcc-39430,A,Compositae,,Achillea,,"elegans",,"","Sch.Bip.",Unresolved,,L,TICA,A68B177F-EF5E-4C3D-AF26-492BEA02866A,,"","","","1855",
+gcc-29983,A,Compositae,,Achillea,,"eradiata",,"","Piper",Synonym,,M,TICA,F353B0E6-CD4A-421A-9236-3772EFF6B3EE,2308-2,"Proc. Biol. Soc. Wash. 33","","105","1920",gcc-140712
+gcc-141548,A,Compositae,,Achillea,,"erba-rota",,"","'Auct.'",Unresolved,,L,TICA,D8558142-F6DE-431A-A559-F7A47505D1F0,,"not _stated.","","_stated","",
+gcc-51344,A,Compositae,,Achillea,,"erba-rotta",,"","All.",Accepted,,M,TICA,B9FFA4BE-5660-41EB-A202-5F3B9B6C9DE8,50869252-1,"","","17","1773",
+gcc-48052,A,Compositae,,Achillea,,"erba-rotta",subsp.,"ambigua","(Heimerl) I.Richardson",Synonym,,L,TICA,67780A84-4DBA-4009-9D46-5908B3BBA1D9,876361-1,"","","272","1976",gcc-51344
+gcc-8026,A,Compositae,,Achillea,,"erba-rotta",var.,"ambigua","Heimerl",Synonym,,L,TICA,97A45E41-E38B-4F67-A732-0EF056AE57D8,60439400-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","148","1884",gcc-51344
+gcc-38411,A,Compositae,,Achillea,,"erba-rotta",subsp.,"calcarea","I.Richardson",Synonym,,L,TICA,F7EC9125-B5AD-4050-B5FD-47450CEC7E54,876362-1,"","","272","1976",gcc-42204
+gcc-154663,A,Compositae,,Achillea,,"erba-rotta",var.,"erba-rotta","",Synonym,,L,TICA,05BFB860-BADC-40AD-97CD-C84118BBAED7,,"","","","",gcc-51344
+gcc-33861,A,Compositae,,Achillea,,"erba-rotta",subsp.,"erba-rotta","",Synonym,,L,TICA,1FE7D3CC-9778-40F7-BB3C-3ECAB02760A5,,"","","","",gcc-51344
+gcc-50232,A,Compositae,,Achillea,,"erba-rotta",var.,"morisiana","(Rchb.) Heimerl",Synonym,,L,TICA,C84D0C3F-F7F9-4CD2-B125-5D26F279369C,60439401-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","148","1884",gcc-51344
+gcc-23438,A,Compositae,,Achillea,,"erba-rotta",subsp.,"moschata","(Wulfen) I.Richardson",Accepted,,L,TICA,398ABF4D-604F-43A2-A523-2B646FAE713B,876363-1,"","","271","1976",
+gcc-68181,A,Compositae,,Achillea,,"erba-rotta",subsp.,"moschata","(Wulfen) Vacc.",Synonym,,L,TICA,C2CBFB62-24E7-4139-97AE-DCDD459839DC,60454838-2,"Vacc.. 1909.","","391","1909",gcc-23438
+gcc-57885,A,Compositae,,Achillea,,"erba-rotta",subsp.,"olympica","(Heimerl) I.Richardson",Synonym,,L,TICA,F27619A9-3D44-4F8F-8778-8A14197A807C,876364-1,"","","271","1976",gcc-95974
+gcc-55375,A,Compositae,,Achillea,,"erba-rotta",subsp.,"rupestris","(Porta) I.Richardson",Accepted,,L,TICA,ECCC96E0-406E-4531-A034-757076B8FBB1,876365-1,"","","272","1976",
+gcc-67356,A,Compositae,,Achillea,,"erba-rotta",subsp.,"rupestris","(Huter & al.) Vacc.",Synonym,,L,TICA,0CE68E34-9E1D-4FC0-81E8-D6822A6A4AA0,,"Vacc.. 1909.","","386","1909",gcc-123506
+gcc-77495,A,Compositae,,Achillea,,"eridania",,"","Bertol.",Synonym,,M,TICA,02840664-B81F-43FC-9901-67056E9FEB01,,"","","407","1854",gcc-48678
+gcc-7559,A,Compositae,,Achillea,,"erioclada",,"","DC.",Synonym,,M,TICA,74A8810C-FF17-40F3-BDCA-0E05EBFFFD93,173961-1,"","","296","1838",gcc-117699
+gcc-83476,A,Compositae,,Achillea,,"eriophora",,"","DC.",Accepted,,M,TICA,75460098-EE3B-42FC-BC97-746507C15C36,173962-1,"","","31","1838",
+gcc-104988,A,Compositae,,Achillea,,"eupatorium",,"","M.Bieb.",Synonym,,M,TICA,E8FC9BE0-7CD3-4141-AC81-A4B051D0322C,,"","","119","1798",gcc-139741
+gcc-133300,A,Compositae,,Achillea,,"euxina",,"","Klokov",Accepted,,M,TICA,D47AAACC-ED6E-40AA-BACA-E533DB4F1F49,173964-1,"","","359","1954",
+gcc-32801,A,Compositae,,Achillea,,"eximia",,"","(err.typ.? exima) Formánek",Unresolved,,L,TICA,1DD87001-AE03-4B0E-883B-3CD9024FC2F4,,"","","","1894",
+gcc-3698,A,Compositae,,Achillea,,"falcata",,"","L.",Accepted,,M,TICA,1E8BAAD5-C067-4EB2-AC76-06DBB2D2577D,173966-1,"","","897","1753",
+gcc-77090,A,Compositae,,Achillea,,"falcata",,"","Lapeyr.",Synonym,Illegitimate,M,TICA,E14A96FF-6AEB-4AC6-99C6-6616897919B1,173967-1,"","","534","1813",gcc-126435
+gcc-68371,A,Compositae,,Achillea,,"falcata",var.,"breviradiata","Boiss.",Synonym,,L,TICA,4CD11CE9-2152-4423-8EDE-DE470361EBA2,,"""Boiss., Fl. Orient. 3. 1875.""","","267","1875",gcc-3698
+gcc-157301,A,Compositae,,Achillea,,"falcata",var.,"falcata","",Synonym,,L,TICA,CC320281-F164-4DF9-8CBA-FF090BF4F169,,"","","","",gcc-3698
+gcc-23876,A,Compositae,,Achillea,,"fasciculata",,"","Burm.f.",Synonym,,M,TICA,1D1EAEFB-08E1-4DB9-8ABB-2C1E6DFA099A,173968-1,"","","27","1768",gcc-51832
+gcc-98596,A,Compositae,,Achillea,×,"feliciana",,"","Brügger",Unresolved,,L,TICA,3EEE9586-3FA6-463D-A27B-967A8AFE3687,,"","","","1880",
+gcc-41114,A,Compositae,,Achillea,,"filicifolia",,"","M.Bieb.",Synonym,,M,TICA,61FE049F-3F88-4B59-8F6B-4C31C4C67FC5,173970-1,"","","338","1808",gcc-139741
+gcc-84703,A,Compositae,,Achillea,,"fililoba",,"","Freyn",Synonym,,M,TICA,8DA433FF-281F-43B2-A51C-771C8F8A8283,173971-1,"","","210","1881",gcc-109561
+gcc-139741,A,Compositae,,Achillea,,"filipendulina",,"","Lam.",Accepted,,M,TICA,1FC9B286-F684-4896-8D71-F36B262C3499,173972-1,"Encycl. 1: 27 (1783)","","27","1783",
+gcc-129636,A,Compositae,,Achillea,,"firma",,"","Loisel.",Unresolved,,L,TICA,266DB21B-38E6-4AC6-A674-DCB672CB236F,,"","","","1827",
+gcc-7244,A,Compositae,,Achillea,,"flabellifolia",,"","Boiss. & Heldr.",Synonym,,M,TICA,51AAC1D9-5A35-4065-88F5-0D78CE514D2E,,"","","27","1849",gcc-63368
+gcc-128386,A,Compositae,,Achillea,,"flabelliformis",,"","Sibth. & Sm.",Unresolved,,L,TICA,DC48FD6F-EE33-408F-9D35-D9E8D86B2317,173975-1,"Fl. Graec. ix. 72.","","ix. 72","",
+gcc-136364,A,Compositae,,Achillea,,"flabelliformis",,"","Lindl.",Synonym,,M,TICA,16F0D399-5D2F-4899-A277-EC12F14C6B3E,,"Fl. Graec. 9: 72 (1839)","","72","1839",gcc-1885
+gcc-76707,A,Compositae,,Achillea,,"flava",,"","Hort. ex Colla",Unresolved,,L,TICA,423727CB-B55A-4E8E-BB49-6542231A0C08,173977-1,"","","462","1834",
+gcc-89147,A,Compositae,,Achillea,,"flava",,"","Hort. ex Steud.",Unresolved,,L,TICA,46F7004F-4754-4DF2-BCDE-810BED09EC54,173976-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 13""","","13","1840",
+gcc-81085,A,Compositae,,Achillea,,"flosculosa",,"","Desf.",Unresolved,,L,TICA,8972EB51-8A90-47C7-895C-6F06B5259351,173978-1,"Tab. Hort. Par. 105 (nomen).","","105","",
+gcc-123289,A,Compositae,,Achillea,,"foeniculacea",,"","Sennen",Unresolved,,L,TICA,879538BB-F72C-4471-9529-CDF3836C7290,173979-1,"""Bull. Soc. Bot. France 74: 376, nomen""","","376","1927",
+gcc-94569,A,Compositae,,Achillea,,"foliosa",,"","Sennen",Unresolved,,L,TICA,9EF55B14-5786-45EB-BED0-8D45BB55411E,,"""Treb. Mus. Ci. Nat. Barcelona xv. Ser. Bot. No. 1, 21 (1931), in obs.,nomen.""","","21","",
+gcc-119873,A,Compositae,,Achillea,,"formosa",,"","(Boiss.) Sch.Bip.",Accepted,,M,TICA,C1F9EAAF-CA22-4E77-B99F-C62AFE538963,173981-1,"Flora 38","","13","1855",
+gcc-14430,A,Compositae,,Achillea,,"formosa",subsp.,"amanica","(Rech.f.) Ehrend. & Y.P.Guo",Accepted,,L,TICA,F2BB6525-DF4E-4981-8514-1AC68D0BBA49,77067624-1,"Willdenowia 35(1)","","51","2005",
+gcc-2024,A,Compositae,,Achillea,,"formosa",subsp.,"formosa","",Synonym,,L,TICA,BCB7CA30-412E-44B8-8E09-03A61A010E77,,"","","","",gcc-119873
+gcc-131019,A,Compositae,,Achillea,,"fraasii",,"","Sch.Bip.",Accepted,,M,TICA,4B444F3B-9A92-4052-8AF9-DFE53239C832,173982-1,"","","159","1842",
+gcc-145514,A,Compositae,,Achillea,,"fraasii",var.,"fraasii","",Synonym,,L,TICA,BE34FDDA-6D63-4FEF-BEEA-0586FDEEACDD,,"","","","",gcc-131019
+gcc-103837,A,Compositae,,Achillea,,"fragilis",,"","Balb. ex DC.",Synonym,,M,TICA,FA6D64F3-2B70-45D2-8C88-A2226A3608B2,173983-1,"","","23","1838",gcc-132682
+gcc-52604,A,Compositae,,Achillea,,"fragrantissima",,"","(Forssk.) Sch.Bip.",Accepted,,M,TICA,8E84F810-C016-4261-BFEC-6184C7B089C8,173984-1,"","","13","1855",
+gcc-85748,A,Compositae,,Achillea,×,"frivaldskyana",,"","Sünd.",Unresolved,,L,TICA,37D3984B-3D0A-400E-BFD6-795E9BE366BD,173985-1,"","","91","1906",
+gcc-97697,A,Compositae,,Achillea,,"fronmuelleri",,"","Sünd.",Unresolved,,L,TICA,D68814B1-5899-47F3-AB16-947F47193BC5,173986-1,"","","22","1925",
+gcc-121168,A,Compositae,,Achillea,,"fruticulosa",,"","Willd. ex Ledeb.",Synonym,,M,TICA,AFC53895-2085-4E01-82F1-C92EDD95D8F5,,"","","","1845",gcc-48678
+gcc-114795,A,Compositae,,Achillea,,"fusca",,"","Rydb.",Synonym,,M,TICA,F750F23A-BBA7-427F-A99E-BAB241F21B06,2307-2,"N. Amer. Fl. 34","","221","1916",gcc-140712
+gcc-122860,A,Compositae,,Achillea,,"genipi",,"","Murr.",Unresolved,,L,TICA,F78B3A2B-13DF-4377-BDA4-CCFBEFB055E8,173989-1,"App. Med. i. 168.","","i. 168","",
+gcc-49198,A,Compositae,,Achillea,,"gerberi",,"","M.Bieb.",Synonym,Illegitimate,M,TICA,73DF8C1B-3C99-44E3-A666-5B1887AA0852,,"","","","1808",gcc-48678
+gcc-5572,A,Compositae,,Achillea,,"gerberi",,"","Willd.",Synonym,,M,TICA,0462298F-EBD8-4A21-A29D-0A6584D31C50,173991-1,"","","2196","1803",gcc-156704
+gcc-56245,A,Compositae,,Achillea,,"gerberi",var.,"angustifolia","Dabrowska",Synonym,,L,TICA,F0FBD12F-B9BC-4857-A1F3-7CE167402289,,"""Acta Univ. Wratislav., Prace Bot. 24: 96 (1984)""","","96","",gcc-48678
+gcc-153285,A,Compositae,,Achillea,,"gerberi",var.,"gerberi","",Synonym,,L,TICA,3FDDF52F-4ADB-487C-8732-AB210A5BD6BE,,"","","","",gcc-156704
+gcc-128166,A,Compositae,,Achillea,,"getica",,"","Grecescu",Unresolved,,L,TICA,DA1BEFF5-2517-4155-B2E8-D960AC283D4E,173992-1,"","","310","1898",
+gcc-17328,A,Compositae,,Achillea,,"gigantea",,"","Pollard",Synonym,,M,TICA,D1B36EDE-B6C9-4D00-B036-200928A1AC0C,173993-1,"Bull. Torrey Bot. Club 26","","","1899",gcc-140712
+gcc-143021,A,Compositae,,Achillea,,"gilva",,"","Moench",Unresolved,,L,TICA,252898A5-7800-4C56-B9A4-FAF2D2A94DC5,173994-1,"","","","1802",
+gcc-103935,A,Compositae,,Achillea,,"girgioensis",,"","Nyár.",Unresolved,,L,TICA,054E042B-B85E-41E7-B190-A25FB6ADD70A,,"","","","",
+gcc-75387,A,Compositae,,Achillea,,"glaberrima",,"","Klokov",Accepted,,M,TICA,C359CC50-4B38-4BBD-8078-62533D5CD0A5,,"","","6","1925",
+gcc-8205,A,Compositae,,Achillea,,"glavennae",,"","(err.typ.) Schrank",Synonym,,M,TICA,1F02FDB8-0505-4FF5-BFA6-0F3F64C916FA,173997-1,"","","409","1789",gcc-105259
+gcc-101221,A,Compositae,,Achillea,,"glomerata",,"","M.Bieb.",Synonym,,M,TICA,4D04C174-74E8-4819-B891-9C5677221563,173998-1,"","","585","1819",gcc-134443
+gcc-96037,A,Compositae,,Achillea,,"goniocephala",,"","Boiss. & Balansa",Accepted,,M,TICA,05293B10-5646-4437-BDC0-90AFE3F6F62F,,"","","98","1859",
+gcc-90856,A,Compositae,,Achillea,,"gossypina",,"","Hand.-Mazz.",Synonym,,M,TICA,FF5D035A-C67C-47E7-ADD5-850F374DD082,,"","","","1913",gcc-129573
+gcc-84699,A,Compositae,,Achillea,,"gracilis",,"","E.P.Perrier",Unresolved,,L,TICA,4CEE9F7D-3797-457D-BF59-771A9F15B25F,,"""Cat. Pl. Vasc. Savoie i. (Mem. Acad. Sc. Savoie, Ser. V. iv.) 391""","","391","1917",
+gcc-89995,A,Compositae,,Achillea,,"gracilis",,"","Raf.",Synonym,,M,TICA,A20AD018-E34B-4191-8839-82FEAB14075F,,"Atlantic J. 1: 177 (1833)","","177","1833",gcc-140712
+gcc-110975,A,Compositae,,Achillea,×,"graja",,"","Beyer",Accepted,,M,TICA,0CC87BF7-F8C2-4F82-9BAF-B213C48B00BE,174003-1,"Verh. Bot. Vereins Prov. Brandenburg 31: 12 (1890)","","12","1890",
+gcc-12688,A,Compositae,,Achillea,×,"graja",var.,"albertina","Beauverd & Bonati",Accepted,,L,TICA,4D3E59CC-92CC-4AA0-A6E3-17A5766F4E10,,"","","","",
+gcc-48260,A,Compositae,,Achillea,,"grandiflora",,"","M.Bieb.",Synonym,,L,TICA,BEDB8AB1-71FF-4274-B1DA-5970DCC47531,,"","","","1808",gcc-133336
+gcc-141796,A,Compositae,,Achillea,,"grandifolia",,"","Friv.",Accepted,,M,TICA,EA230CF9-3FFB-4105-96B2-F839169A0E67,174006-1,"","","433","1836",
+gcc-22695,A,Compositae,,Achillea,,"grandifolia",,"","M.Bieb.",Unresolved,,L,TICA,F09300B6-33F4-4909-AB9D-2A0189DF76C2,174005-1,"Fl. Taur. Cauc. il. 444.","","il. 444","",
+gcc-87707,A,Compositae,,Achillea,,"grandis",,"","Fisch. ex Herd",Unresolved,,L,TICA,5D855198-D7FF-4B33-ACDC-7DD9FBC56DF7,174007-1,"","","","1865",gcc-132682
+gcc-101664,A,Compositae,,Achillea,,"grata",,"","Fenzl",Unresolved,,L,TICA,B0DDC7E3-7597-4A68-B87A-9D466D66D62D,174008-1,"""Asie Min., Bot. (P.A. Tchichatscheff) ii. 261""","","261","1860",
+gcc-127530,A,Compositae,,Achillea,,"grata",,"","Fenzl ex Tchich.",Synonym,,M,TICA,8B0B61BE-4B2F-4ECB-9AB0-D7DD9655E8CA,,"""Asie Min., Bot. 2: 261 (1860)""","","261","1860",gcc-48678
+gcc-9372,A,Compositae,,Achillea,×,"grisebachii",,"","Sünd.",Unresolved,,L,TICA,4753B121-1D9F-4355-9CDF-117DDCC29E23,174009-1,"","","91","1906",
+gcc-114446,A,Compositae,,Achillea,,"griseo-virens",,"","Albov",Synonym,,M,TICA,F7851E3F-8E89-4B03-A74D-B9DF91E7CDA0,174010-1,"","","133","1895",gcc-19842
+gcc-93301,A,Compositae,,Achillea,,"gussonii",,"","Ces. & Pass. ex Nyman",Synonym,Invalid,M,TICA,0C6F2891-AE17-4729-996E-8A6C260940B4,174011-1,"","","362","1879",gcc-43005
+gcc-115553,A,Compositae,,Achillea,,"gypsicola",,"","Hub.-Mor.",Accepted,,M,TICA,9E8B5973-4E81-4CB0-BE23-BC70605EE178,174012-1,"","","208","1974",
+gcc-115457,A,Compositae,,Achillea,,"haenkeana",,"","Tausch",Synonym,,M,TICA,8E53F930-215A-4722-ABF5-BC30D26DB65C,,"","","","1821",gcc-140712
+gcc-40706,A,Compositae,,Achillea,×,"haenkeana",,"","Sünd.",Unresolved,,L,TICA,20E35DDD-16E1-49AB-B75F-4B6FCCBAF5DE,174014-1,"","","91","1906",
+gcc-88406,A,Compositae,,Achillea,,"halleri",,"","Crantz",Synonym,,M,TICA,8A6394F5-DE01-4452-B7DC-7F58E8F956AB,174015-1,"","","303","1766",gcc-14881
+gcc-32677,A,Compositae,,Achillea,×,"hausmanniana",,"","Suend.",Unresolved,,L,TICA,7FCFBED0-A3DA-4242-B520-3C941ACA4459,174016-1,"","","32","1895",
+gcc-142841,A,Compositae,,Achillea,,"haussknechtiana",,"","Asch.",Synonym,,M,TICA,F8C6547B-32BF-4DF0-A3CD-FA8F3E6CB4A8,174017-1,"","","243","1873",gcc-51344
+gcc-13851,A,Compositae,,Achillea,,"haussknechtii",,"","Boiss.",Accepted,,M,TICA,F43778D0-D10E-4D32-A555-19C055FA5439,174018-1,"","","264","1875",
+gcc-97579,A,Compositae,,Achillea,,"hayekiana",,"","Heimerl",Synonym,,M,TICA,0BDEFE5E-6F57-4D1C-B739-9434999A75A6,174019-1,"Oesterr. Bot. Z. 75","","152","1926",gcc-131019
+gcc-119922,A,Compositae,,Achillea,×,"helvetica",,"","Pavar.",Unresolved,,L,TICA,B33C36AB-A6CC-4167-ABDA-C64AB361027E,,"","","","1928",
+gcc-141782,A,Compositae,,Achillea,,"helvetica",,"","Schleich. ex Gaudin",Unresolved,,L,TICA,F41B267A-C817-467D-85DD-F830163C11EC,174020-1,"","","368","1829",gcc-126758
+gcc-80533,A,Compositae,,Achillea,,"herba-rota",,"","All.",Synonym,,M,TICA,06E39CE7-AD25-41D4-BE22-6DC816E89645,174022-1,"","","180","1785",gcc-51344
+gcc-130633,A,Compositae,,Achillea,,"herba-rotta",,"","Vill.",Synonym,,M,TICA,5C86BE55-EAA6-40D1-B1B8-DEFEDB0DA552,174023-1,"","","32","1779",gcc-51344
+gcc-89112,A,Compositae,,Achillea,,"heterophylla",,"","Spreng.",Accepted,,M,TICA,0FCFFEED-B663-4EF5-97B2-80F8BFBCE479,,"","","","1801",
+gcc-11044,A,Compositae,,Achillea,,"hispanica",,"","Schrank",Synonym,,M,TICA,BE716146-B1AD-43C0-926E-14A5E494C67F,,"","","","1821",gcc-48678
+gcc-1885,A,Compositae,,Achillea,,"holosericea",,"","Sm.",Accepted,,M,TICA,D3A61D7A-0C25-4695-B931-03667AB5E827,,"","","194","1813",
+gcc-26539,A,Compositae,,Achillea,,"holosericea",,"","Sibth. & Sm.",Unresolved,,L,TICA,FC06B61C-3F24-43DD-86E1-310B076FD1B2,174026-1,"Fl. Graec. t. 894","","894","",
+gcc-45438,A,Compositae,,Achillea,,"horanszkyi",,"","Ujhelyi",Accepted,,M,TICA,B02A22F7-86D4-47AD-8B12-54305B73D274,174027-1,"Ann. Hist.-Nat. Mus. Natl. Hung. 67","","41","1975",
+gcc-105596,A,Compositae,,Achillea,,"huber-morathii",,"","Rech.f.",Accepted,,M,TICA,976DFDB5-471B-43DB-912E-A5EE89B52AD6,929860-1,"","","71","1986",
+gcc-138108,A,Compositae,,Achillea,×,"huteri",,"","Sünd.",Unresolved,,L,TICA,D7753C1B-4EBA-4FE7-9FC8-EFDCEC0204D9,174028-1,"","","91","1906",
+gcc-92044,A,Compositae,,Achillea,,"hybrida",,"","Gaud.",Unresolved,,L,TICA,76783356-33C8-4489-A8D2-87BA85291BA2,174029-1,"","","","1844",
+gcc-90501,A,Compositae,,Achillea,×,"illiczevski",,"","Tzvelev",Accepted,,M,TICA,12F446BD-0025-4902-A808-842DA62450ED,983360-1,"","","122","1994",
+gcc-128830,A,Compositae,,Achillea,,"imbricata",,"","Vent.",Synonym,,M,TICA,0B334383-8B32-4EE3-A890-DAE999288129,174030-1,"","","t. 54","1801",gcc-52144
+gcc-88465,A,Compositae,,Achillea,,"imbricata",,"","(Labill.) Aucher ex DC.",Synonym,,M,TICA,ABB5E5DB-0750-437D-8B6E-7F7E350E3BE6,,"","","","1838",gcc-52144
+gcc-143679,A,Compositae,,Achillea,,"impatiens",,"","L.",Accepted,,M,TICA,5159B4B3-6D09-43CA-A711-FC7151F0AB27,174032-1,"","","898","1753",
+gcc-56782,A,Compositae,,Achillea,,"impatiens",subsp.,"euimpatiens","Heimerl",Synonym,,L,TICA,B9D7DCE9-B4E9-4239-AD5E-81168F5A495C,,"""Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse, Denkschriften 48(2):""","","184","1884",gcc-143679
+gcc-149806,A,Compositae,,Achillea,,"impatiens",subsp.,"impatiens","",Synonym,,L,TICA,61FC82E6-55CD-4CD8-A61F-6094662F3109,,"","","","",gcc-143679
+gcc-61458,A,Compositae,,Achillea,,"impatiens",subsp.,"ledebourii","(Heimerl) Heimerl",Synonym,,L,TICA,C0150670-E98A-41D6-8761-A6B7D4B36737,60439356-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","186","1884",gcc-143679
+gcc-1745,A,Compositae,,Achillea,,"impunctata",,"","Vest",Synonym,,M,TICA,6C5FA900-9781-43A1-8D12-0325AFE231B0,,"","","","1820",gcc-23438
+gcc-77595,A,Compositae,,Achillea,,"incisa",,"","Man.",Unresolved,,L,TICA,C7CB7479-997D-44C1-8685-673996AAA1A8,,"Herb. 251.","","251","",
+gcc-91815,A,Compositae,,Achillea,,"incisa",,"","Clairv.",Unresolved,,L,TICA,79114AC5-67DC-4904-90FA-87388076852C,174034-1,"Man. Herbor. Suisse: 251 (1811)","","251","1811",
+gcc-39634,A,Compositae,,Achillea,,"incognita",,"","Danihelka",Accepted,,M,TICA,500EE517-2EB3-4E51-B66A-498E184C7356,,"","","244","2001",
+gcc-2377,A,Compositae,,Achillea,,"inodora",,"","L.",Synonym,,M,TICA,C1BE0D1C-5FC5-426F-BBD1-04532B80F29A,174035-1,"","","900","1753",gcc-22510
+gcc-30404,A,Compositae,,Achillea,,"intercedens",,"","Dalla Torre",Synonym,,M,TICA,56624DBE-5E1A-42B5-A802-383FCA53B703,174036-1,"","","224","1899",gcc-105259
+gcc-11037,A,Compositae,,Achillea,,"intermedia",,"","Freyn",Synonym,,M,TICA,1EF65133-E603-4D16-ABCA-14A2602AF09D,174038-1,"Oesterr. Bot. Z. 41","","10","1891",gcc-96275
+gcc-21017,A,Compositae,,Achillea,,"intermedia",,"","Heimerl",Unresolved,,L,TICA,C6D74610-65F4-404E-AAAE-26D6E5129005,,"","","","1884",
+gcc-26457,A,Compositae,,Achillea,,"intermedia",,"","Schleich.",Synonym,,M,TICA,01EFE701-BBB0-4F6F-AAB3-30E50172F2D8,174037-1,"","","5","1821",gcc-140712
+gcc-96601,A,Compositae,,Achillea,,"inundata",,"","Kondr.",Accepted,,M,TICA,4E7B052A-8767-4898-B48A-91EFC264B665,174039-1,"","","553","1962",
+gcc-132150,A,Compositae,,Achillea,,"ircutiana",,"","Sch.Bip.",Synonym,,M,TICA,F57A564A-A845-4B91-A820-E28E39347241,,"","","","1855",gcc-132682
+gcc-121912,A,Compositae,,Achillea,×,"jaborneggii",,"","Halácsy",Unresolved,,L,TICA,751B5858-B9E3-4AEF-9C9C-CAD43B3BB85C,174041-1,"Oesterr. Bot. Z. 27","","45","1877",
+gcc-36564,A,Compositae,,Achillea,,"jacea",,"","Griseb.",Synonym,,M,TICA,4B5F5EEC-7F1A-4DF5-8A35-43CD8DC84462,,"","","","1846",gcc-120400
+gcc-39795,A,Compositae,,Achillea,,"jankae",,"","Sch.Bip. ex Nyman",Unresolved,,L,TICA,3CCF90D2-336E-452C-ABE8-49D6D95F27D2,,"","","","1879",
+gcc-117659,A,Compositae,,Achillea,,"japonica",,"","Heimerl",Accepted,,M,TICA,FD3FF0C3-A220-416E-9BDF-C12C5C5671A1,,"""Denkschr. Kaiserl. Akad. Wiss., Math.- Naturwiss. Kl. 48 : 128 (1884)""","","128","1884",
+gcc-97288,A,Compositae,,Achillea,,"japonica",,"","Sch.Bip.",Unresolved,,L,TICA,C03A2C62-9238-4D09-9BBD-93828EBB6B5F,174044-1,"","","125","1855",
+gcc-87376,A,Compositae,,Achillea,,"jauchiana",,"","Guyot",Unresolved,,L,TICA,43DDADBA-E940-4CDE-8E9F-7D2729BEFC65,,"","","357","",
+gcc-16177,A,Compositae,,Achillea,,"javorkae",,"","Prodan",Unresolved,,L,TICA,50BFC8A2-2861-4398-9B8E-1DF026D8CEF8,,"","","","1916",
+gcc-21685,A,Compositae,,Achillea,×,"joannis",,"","Prodan",Unresolved,,L,TICA,B8448747-4C10-44C9-ABBB-281FE43F4C32,174048-1,"Bul. Acad. Stud. Agron. Cluj 2: 36 (1931)","","36","1931",
+gcc-135275,A,Compositae,,Achillea,,"joffrei",,"","Sennen",Unresolved,,L,TICA,6B368EA8-B8D3-420A-8A73-E9AAA421D1F0,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-3165,A,Compositae,,Achillea,,"karatavica",,"","Kamelin",Accepted,,M,TICA,3CEE208F-F130-4E23-9636-05D9BAB45A4F,986180-1,"Opred. Rast. Sred. Azii 10: 634 (1993)","","634","1993",
+gcc-25614,A,Compositae,,Achillea,,"kellalensis",,"","Boiss. & Hausskn.",Accepted,,M,TICA,822EAE41-C371-47DB-AFAD-2F4DD0C94FFC,174050-1,"","","263","1875",
+gcc-14320,A,Compositae,,Achillea,×,"kellereri",,"","Sünd.",Unresolved,,L,TICA,158085F4-35C7-4828-B8CD-1A97F5816348,174051-1,"","","91","1906",
+gcc-111870,A,Compositae,,Achillea,,"kermanica",,"","Gand.",Synonym,,M,TICA,A2FF11C3-12F8-4AEB-B74E-B41FF18CC017,174052-1,"Bull. Soc. Bot. France 65","","37","1918",gcc-46697
+gcc-121028,A,Compositae,,Achillea,×,"kerneri",,"","Halácsy",Unresolved,,L,TICA,93FE2B0C-8D9F-44DE-B205-C8E19EA681EE,174053-1,"","","243","1894",
+gcc-124098,A,Compositae,,Achillea,,"ketenoglui",,"","H.Duman",Accepted,,M,TICA,CEF96864-3867-42A5-99FD-CFE8F8B31661,1020700-1,"","","320","2001",
+gcc-91607,A,Compositae,,Achillea,,"khekiana",,"","Heimerl",Unresolved,,L,TICA,E980E876-420B-4CD5-9139-86BDF02D284F,174054-1,"Oesterr. Bot. Z. 75","","148","1926",
+gcc-111054,A,Compositae,,Achillea,,"kitaibelliana",,"","Soó",Synonym,,M,TICA,8696B6A0-241F-486A-A325-B24BEEA5DF30,,"Soó in Acta Geobot. Hung. 4. 1941.","","193","1941",gcc-95816
+gcc-118670,A,Compositae,,Achillea,×,"kolbiana",,"","Sünd.",Unresolved,,L,TICA,5FE43290-BF5F-4409-BB1B-C37CDD7D6A3D,174055-1,"","","91","1906",
+gcc-130217,A,Compositae,,Achillea,,"kotschyi",,"","Boiss.",Accepted,,M,TICA,9E94EFFE-EF6F-40DF-99A2-DE0C3D1D2AB0,,"","","19","1856",
+gcc-40701,A,Compositae,,Achillea,,"kotschyi",subsp.,"kotschyi","",Synonym,,L,TICA,99501D48-4FA7-48AF-BCA2-4B6DBDB09D74,,"","","","",gcc-130217
+gcc-58992,A,Compositae,,Achillea,,"kotschyi",subsp.,"lacmonica","(Hausskn.) Bässler",Synonym,,L,TICA,B3A7D5C7-1088-44E3-A1BD-930523336376,,"Bässler in Feddes Repert. Spec. Nov. Regni Veg. 68. 1963.","","160","1963",gcc-62283
+gcc-142898,A,Compositae,,Achillea,,"kraettliana",,"","Brügger ex Heimerl",Synonym,,M,TICA,0F24422B-4F05-45D8-A667-FAB0DD85EF9C,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-116347
+gcc-81495,A,Compositae,,Achillea,,"kraettliana",,"","Brügger",Unresolved,,L,TICA,F420AC3B-38A9-4DD8-BC80-6FF25F336211,,"","","","1880",
+gcc-79038,A,Compositae,,Achillea,,"krascheninnikovii",,"","Afan.",Synonym,,M,TICA,868A1165-7090-46A4-84B4-6A946CE3DECC,,"","","","1953",gcc-46697
+gcc-22653,A,Compositae,,Achillea,,"kummerleana",,"","Prodan",Synonym,,M,TICA,52985D09-A732-4988-96D0-29EC1B95C5A4,,"","","64","1916",gcc-109561
+gcc-6794,A,Compositae,,Achillea,,"laggeri",,"","Sch.Bip.",Accepted,,M,TICA,A92EF983-1BE3-489E-B2BA-0C9B4476D0BF,,"Oesterr. Bot. Wochenbl. 6","","","1856",
+gcc-110574,A,Compositae,,Achillea,,"lanata",,"","Lam.",Synonym,,M,TICA,16EA2825-658F-47F7-913C-B132AFCFEE52,,"","","","1779",gcc-140712
+gcc-128719,A,Compositae,,Achillea,,"lanata",,"","Spreng.",Unresolved,,L,TICA,AD14C82D-8D7E-4AA7-85ED-DAAC8E813C7A,174061-1,"Cat. Fl. Hal. ex Willd. Enum. Hort. Berol. 915.","","915","",
+gcc-75676,A,Compositae,,Achillea,,"lanata",,"","Spreng. ex Willd.",Synonym,,M,TICA,1A056CC3-E76C-497E-B725-62FD55C3CE82,,"","","915","1809",gcc-93527
+gcc-26727,A,Compositae,,Achillea,,"lanulosa",,"","Nutt.",Synonym,,M,TICA,BDCA5A7F-953B-40D7-B609-3162E0517944,2304-2,"J. Acad. Nat. Sci. Philadelphia 7: 36. 1834","","36","1834",gcc-140712
+gcc-56984,A,Compositae,,Achillea,,"lanulosa",subsp.,"alpicola","(Rydb.) D.D.Keck",Synonym,,L,TICA,630DE2FA-B2FC-475C-8DD7-82AEA8C16090,2303-2,"Publ. Carnegie Inst. Wash. 520","","300","1940",gcc-140712
+gcc-64245,A,Compositae,,Achillea,,"lanulosa",var.,"alpicola","(Rydb.) Rydb.",Synonym,,L,TICA,7B2A0906-904F-4DFA-AE85-BCED79AF86C0,2301-2,"Mem. New York Bot. Gard. 1","","426","1900",gcc-140712
+gcc-64190,A,Compositae,,Achillea,,"lanulosa",var.,"arachnoidea","Lunell",Synonym,,L,TICA,50141551-003C-47BF-8700-BC8B2125C5BC,2300-2,"American Midland Naturalist 1:","","235","1910",gcc-140712
+gcc-57160,A,Compositae,,Achillea,,"lanulosa",var.,"eradiata","(Piper) M.Peck",Synonym,,L,TICA,8504D437-F5FF-4833-B378-84396B3140BA,2299-2,"","","763","1941",gcc-140712
+gcc-147354,A,Compositae,,Achillea,,"lanulosa",var.,"lanulosa","",Synonym,,L,TICA,88B89FC7-356B-4A57-9037-2BD30913E68A,,"","","","",gcc-140712
+gcc-156642,A,Compositae,,Achillea,,"lanulosa",f.,"lanulosa","",Synonym,,L,TICA,745C9857-746E-4CD1-B85C-F1630BBF86D2,,"","","","",gcc-140712
+gcc-68015,A,Compositae,,Achillea,,"lanulosa",subsp.,"lanulosa","",Synonym,,L,TICA,51F5F2C9-8904-43B7-A464-DBABC3E81AD1,,"","","","",gcc-140712
+gcc-59948,A,Compositae,,Achillea,,"lanulosa",subsp.,"megacephala","(Raup) Argus",Synonym,,L,TICA,275794B6-8944-417A-8764-9A916209DEFE,,"","","","",gcc-140712
+gcc-99199,A,Compositae,,Achillea,,"lanulosa",f.,"peroutkyi","F.Seym.",Synonym,,L,TICA,526CBAE2-919D-4996-8C12-97D267028675,2298-2,"","","331","1960",gcc-140712
+gcc-73149,A,Compositae,,Achillea,,"lanulosa",f.,"rubicunda","Farw.",Synonym,,L,TICA,77F70584-BBBC-483E-9B82-0F70584261B9,292809-2,"Pap. Michigan Acad. Sci. 3","","107","1924",gcc-140712
+gcc-31786,A,Compositae,,Achillea,,"latifolia",,"","Salisb.",Synonym,,M,TICA,C0DFBB5D-726F-4CDC-85B3-3AE6F892D290,174064-1,"","","204","1796",gcc-124075
+gcc-22147,A,Compositae,,Achillea,,"latiloba",,"","Ledeb. ex Nordm.",Accepted,,M,TICA,DE47FB86-3D29-4F6E-BA53-28F8C3156D0C,174065-1,"Bull. Sci. Acad. Imp. Sci. Saint-Petersbourg 2 : 312 (1837)","","312","1837",
+gcc-133479,A,Compositae,,Achillea,,"laxiflora",,"","A.Nelson",Synonym,,M,TICA,D843EDDA-0A1E-40A2-AE73-E5931EF2D7CF,,"","","179","1902",gcc-140712
+gcc-83166,A,Compositae,,Achillea,,"laxiflora",,"","Pollard & Cockerell",Synonym,,M,TICA,426AD5C6-6955-466A-8BCF-73B90CF0A800,2296-2,"","","179","1902",gcc-140712
+gcc-94124,A,Compositae,,Achillea,,"ledebourii",,"","Heimerl",Accepted,,M,TICA,22A61754-7286-46E6-9213-8C47B2DBEB5C,174067-1,"Flora","","389","1883",
+gcc-8036,A,Compositae,,Achillea,,"lenensis",,"","Turcz. ex DC.",Synonym,,M,TICA,454D41F2-0D2A-484B-B05A-0EF5ECB0906E,174068-1,"","","295","1838",gcc-132682
+gcc-138697,A,Compositae,,Achillea,,"leptophylla",,"","K.Koch ex Nyman",Synonym,Invalid,M,TICA,F6608BBB-A6EF-4DCA-B3FB-F12E1D6F5310,174069-1,"Consp. Fl. Eur. (1879)","","367","1879",gcc-96275
+gcc-24987,A,Compositae,,Achillea,,"leptophylla",,"","M.Bieb.",Accepted,,M,TICA,E9707442-4814-428E-90A8-2E299597689F,174070-1,"","","335","1808",
+gcc-146474,A,Compositae,,Achillea,,"leptophylla",var.,"leptophylla","",Synonym,,L,TICA,3A713CCE-448E-4C5C-9380-194AD865F94B,,"","","","",gcc-24987
+gcc-147298,A,Compositae,,Achillea,,"leptophylla",f.,"leptophylla","",Synonym,,L,TICA,7668A7C7-D7CE-4D67-8C20-2A85DE63F439,,"","","","",gcc-24987
+gcc-150848,A,Compositae,,Achillea,,"leptophylla",subsp.,"leptophylla","",Synonym,,L,TICA,ADB4FDFC-2D3B-4B28-833F-779D37AA7D5C,,"","","","",gcc-24987
+gcc-61859,A,Compositae,,Achillea,,"leptophylla",var.,"major","(Batt.) Maire",Synonym,,L,TICA,7F769F6C-DC85-44B5-8E70-A9FC9D75C258,,"","","","",gcc-24987
+gcc-73731,A,Compositae,,Achillea,,"leptophylla",f.,"retezutensis","Prodan",Synonym,,L,TICA,639E800A-CBBF-4082-A390-24CB8147DB9D,,"Achill. Lam.: 11 (1931)","","11","1931",gcc-24987
+gcc-69212,A,Compositae,,Achillea,,"leptophylla",subsp.,"spithamaea","(Coss. & Durieu) Maire",Synonym,,L,TICA,651D6FD4-F918-4723-9833-E4BDAC82D039,,"","","","",gcc-24987
+gcc-121040,A,Compositae,,Achillea,×,"leptophylloides",,"","Tzvelev",Synonym,Illegitimate,M,TICA,56B4417B-A49C-414B-8387-C8E73DA574EA,983361-1,"","","122","1994",gcc-127522
+gcc-127522,A,Compositae,,Achillea,,"leptophylloides",,"","Prodan",Accepted,,M,TICA,388BBF71-F4EE-4595-A374-D7D710EB9ED9,174071-1,"","","8","1930",
+gcc-113456,A,Compositae,,Achillea,,"lereschei",,"","Sch.Bip.",Accepted,,M,TICA,C8202235-04DB-4AA3-8983-B7A9B52079D7,174072-1,"Oesterr. Bot. Wochenbl. 6","","301","1856",
+gcc-19439,A,Compositae,,Achillea,,"leucanthema",,"","Pers.",Synonym,,M,TICA,1D0D8812-8A4C-4FE7-8DC4-23EBD9C66159,174073-1,"","","467","1807",gcc-132682
+gcc-128044,A,Compositae,,Achillea,,"ligustica",,"","Vis. ex Nyman",Synonym,,M,TICA,A1146B9F-0AD4-4110-96A4-D913FE985AF2,174074-1,"","","367","1879",gcc-48678
+gcc-131521,A,Compositae,,Achillea,,"ligustica",,"","All.",Accepted,,M,TICA,FAA9BB14-EB85-4459-88CD-E1196454C278,174075-1,"","","17","1773",
+gcc-13025,A,Compositae,,Achillea,,"ligustica",var.,"foliosa","Ball",Synonym,,L,TICA,055F2469-A2B9-461E-9B89-1841BF10AE82,,"","","","",gcc-131521
+gcc-152793,A,Compositae,,Achillea,,"ligustica",var.,"ligustica","",Synonym,,L,TICA,D184B46C-090C-40B1-8FA2-A09E34A82BD9,,"","","","",gcc-131521
+gcc-136967,A,Compositae,,Achillea,,"linearis",,"","Steud.",Synonym,Invalid,M,TICA,4CA5A1B0-9E5B-4473-AF66-ED6BE501A2AC,174076-1,"","","13","1840",gcc-132682
+gcc-3059,A,Compositae,,Achillea,,"lingulata",,"","Waldst. & Kit.",Accepted,,M,TICA,4FC2E273-78D5-4C07-9E50-05A98679B039,,"","","2","1799",
+gcc-61496,A,Compositae,,Achillea,,"lingulata",var.,"acutifolia","Dabrowska",Synonym,,L,TICA,F6AAE1CA-FB7E-4319-ADAC-A729C613CA14,916736-1,"""Acta Univ. Wratislav., Prace Bot. 24: 24 (1982)""","","24","1982",gcc-3059
+gcc-27555,A,Compositae,,Achillea,,"lingulata",var.,"buglossis","(Friv.) Heimerl",Synonym,,L,TICA,81F836B4-1927-44CC-8CD5-32F2B4A81372,60439399-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","151","1884",gcc-3059
+gcc-156795,A,Compositae,,Achillea,,"lingulata",var.,"lingulata","",Synonym,,L,TICA,79E54A87-3043-4AD4-A2D6-F46259722F9A,,"","","","",gcc-3059
+gcc-88347,A,Compositae,,Achillea,,"livea",,"","Scop.",Synonym,,M,TICA,AD193B3B-7A5A-46BB-8407-7F3CF590BFA2,,"","","","1786",gcc-23438
+gcc-86436,A,Compositae,,Achillea,,"lobata",,"","Forssk.",Unresolved,,L,TICA,891C8C11-5DAD-42AE-8A68-7AEE05071272,174079-1,"","","218","1775",
+gcc-12176,A,Compositae,,Achillea,,"longirama",,"","O.Schwarz ex Bornm.",Synonym,,M,TICA,F1731BFF-C31B-4809-8196-16B1AD546A64,174080-1,"","","328","1944",gcc-610
+gcc-83810,A,Compositae,,Achillea,,"lucana",,"","Pignatti",Synonym,,M,TICA,5C2D7A92-50C7-43CC-B900-7515A5BC5643,,"","","366","1980",gcc-28276
+gcc-92918,A,Compositae,,Achillea,,"lucida",,"","Salisb.",Synonym,,M,TICA,8766EA84-92FF-43A0-A460-89A85D48F21F,174082-1,"","","204","1796",gcc-143679
+gcc-51863,A,Compositae,,Achillea,,"lundstroemii",,"","Fedde",Unresolved,,L,TICA,592BD801-197D-487F-A9C8-602B18A86CC5,,"","","","",
+gcc-136106,A,Compositae,,Achillea,,"lycaonica",,"","Boiss. & Heldr.",Accepted,,M,TICA,DE4D2971-0814-4BBB-AAA2-EB73AC81EDFD,,"","","17","1849",
+gcc-123842,A,Compositae,,Achillea,,"macedonica",,"","Rouy",Unresolved,,L,TICA,5AD04939-F919-4127-BB0F-CF562B12743A,174085-1,"","","t. 134","1896",
+gcc-30785,A,Compositae,,Achillea,,"macrocephala",,"","Rupr.",Accepted,,M,TICA,ED564BA4-E3B7-44D7-87CD-38FCF4ADF718,174086-1,"","","41","1845",
+gcc-48594,A,Compositae,,Achillea,,"macrocephala",var.,"macrocephala","",Synonym,,L,TICA,5E500E26-59E7-4492-B9A4-5A021E0FFB0B,,"","","","",gcc-30785
+gcc-28621,A,Compositae,,Achillea,,"macrophylla",,"","L.",Accepted,,M,TICA,27C4CA3A-D62B-4C8B-B101-34E5D6824775,174087-1,"","","898","1753",
+gcc-78037,A,Compositae,,Achillea,,"macrophylloides",,"","Nyman",Synonym,,M,TICA,1DF25BD4-91BB-42F0-A787-6832555664BF,174089-1,"","","366","1879",gcc-141796
+gcc-12231,A,Compositae,,Achillea,,"magna",,"","Sibth. & Sm.",Accepted,,M,TICA,0CC6DD76-5160-40CF-B04E-16CBE56D49AB,174092-1,"Fl. Graec. ii. 194.","","ii. 194","",
+gcc-128019,A,Compositae,,Achillea,,"magna",,"","All.",Synonym,Illegitimate,M,TICA,E75B05E8-7D46-4E00-A1E0-D9082E8F8F65,174093-1,"","","184","1785",gcc-140712
+gcc-20270,A,Compositae,,Achillea,,"magna",,"","L.",Synonym,,M,TICA,93F6E422-CE32-4196-B8FE-25775C0A59E5,174090-1,"","","1267","1763",gcc-140712
+gcc-43367,A,Compositae,,Achillea,,"magna",,"","Sm.",Synonym,Illegitimate,M,TICA,421DD522-7CCF-4677-AF57-50590020E038,,"Fl. Graec. Prodr. 2: 194 (1813)","","194","1813",gcc-131521
+gcc-95479,A,Compositae,,Achillea,,"magna",,"","Haenke",Synonym,Illegitimate,M,TICA,6F2B1599-B7C3-4D50-A0F1-8F7A8B1E07F0,174091-1,"","","103","1791",gcc-140712
+gcc-22247,A,Compositae,,Achillea,,"magna",var.,"alpina","Rochel",Synonym,,L,TICA,60882276-6494-48B4-BFD8-29270429F37D,,"Rochel. 1828.","","23","1828",gcc-39216
+gcc-61487,A,Compositae,,Achillea,,"magna",subsp.,"lanata","Nyman",Synonym,,L,TICA,7977CE19-C33D-4636-A428-A703BF600738,,"Nyman. 1879.","","366","1879",gcc-93527
+gcc-147618,A,Compositae,,Achillea,,"magna",var.,"magna","",Synonym,,L,TICA,5D002405-D137-4B27-9E6E-315117E24C11,,"","","","",gcc-140712
+gcc-156090,A,Compositae,,Achillea,,"magna",subsp.,"magna","",Synonym,,L,TICA,4F6174F2-EBF0-4391-8A9E-E63704FDC240,,"","","","",gcc-12231
+gcc-39471,A,Compositae,,Achillea,,"magnifica",,"","Heimerl ex Hub.-Mor.",Accepted,,M,TICA,17E3A1DA-E116-4AA1-82EB-49418D7D0F7D,174094-1,"","","208","1974",
+gcc-45363,A,Compositae,,Achillea,,"magnifolia",,"","Schur",Unresolved,,L,TICA,B72364A4-01C2-4743-B1B5-5411072EF27B,,"","","","1897",
+gcc-51534,A,Compositae,,Achillea,,"major",,"","Heimerl",Unresolved,,L,TICA,50A2A32A-98B8-4976-844A-5F905D60034A,,"","","","1884",
+gcc-17861,A,Compositae,,Achillea,,"marginata",,"","Turcz. ex Ledeb.",Synonym,,M,TICA,9260E402-5149-4F1E-AED6-20F747BE1815,,"","","","1845",gcc-140712
+gcc-41334,A,Compositae,,Achillea,,"maritima",,"","(L.) Ehrend. & Y.P.Guo",Accepted,,M,TICA,657288BD-9641-4213-8C1D-4C90E2DBB198,77067622-1,"","","50","2005",
+gcc-59186,A,Compositae,,Achillea,,"maritima",subsp.,"atlantica","(Chrtek & B.Slavík) Ehrend. & Y.P.Guo",Accepted,,L,TICA,2D33060B-FFE8-4C69-BF19-947D363242F6,77067623-1,"Willdenowia 35(1)","","50","2005",
+gcc-155085,A,Compositae,,Achillea,,"maritima",subsp.,"maritima","",Synonym,,L,TICA,9E924C9B-6D18-4458-BA3B-D0AC8AECAE16,,"","","","",gcc-41334
+gcc-129381,A,Compositae,,Achillea,,"maura",,"","Humbert",Accepted,,M,TICA,421D84F6-C04C-4362-A77D-DC20E2E506A0,174098-1,"","","150","1927",
+gcc-45375,A,Compositae,,Achillea,,"maxima",,"","Heimerl",Synonym,,M,TICA,0BEBB976-5B36-4A90-9EF7-5415C1239A28,174099-1,"","","xlviii","1884",gcc-132682
+gcc-135233,A,Compositae,,Achillea,,"megacephala",,"","Raup",Synonym,,M,TICA,B0746C24-1B7C-4E41-A72F-E9872CA376BC,,"J. Arnold Arbor. 17","","","1936",gcc-140712
+gcc-135033,A,Compositae,,Achillea,,"melanolepis",,"","Boiss.",Unresolved,,L,TICA,4BFD2CFD-7DE1-46B1-85E5-E91039801A06,174101-1,"","","297","1888",
+gcc-52144,A,Compositae,,Achillea,,"membranacea",,"","(Labill.) DC.",Accepted,,M,TICA,6477ACED-5572-48ED-8767-60BA0CBC6F42,174102-1,"","","32","1838",
+gcc-106772,A,Compositae,,Achillea,,"michelii",,"","Sch.Bip.",Unresolved,,L,TICA,E4068E54-8C13-4A20-9D29-A894BA6F373A,,"","","","1855",
+gcc-139802,A,Compositae,,Achillea,,"micrantha",,"","M.Bieb.",Synonym,,M,TICA,6063A275-796B-460A-BDFD-F3882FCD988C,174105-1,"","","336","1808",gcc-96275
+gcc-156704,A,Compositae,,Achillea,,"micrantha",,"","Willd.",Accepted,,M,TICA,F09F8446-6607-4D93-859E-F299355188D3,,"Willd.. 1789.","","33","1789",
+gcc-79911,A,Compositae,,Achillea,,"micranthoides",,"","Klokov",Accepted,,M,TICA,5537E82E-6A03-4C42-A05F-6C6741A6E5BE,174106-1,"","","360","1954",
+gcc-87068,A,Compositae,,Achillea,,"microloba",,"","DC.",Synonym,,M,TICA,0F9F5E36-2E86-4CB5-A476-7C6B3BAF19C6,174107-1,"","","32","1838",gcc-610
+gcc-133025,A,Compositae,,Achillea,,"microphylla",,"","Willd.",Synonym,,M,TICA,1D25B605-D491-4CBA-9619-E496A4FD6918,174108-1,"","","2210","1803",gcc-140659
+gcc-51371,A,Compositae,,Achillea,×,"mihalikii",,"","Prodan",Unresolved,,L,TICA,016911D2-C34B-4893-85E0-5F48ED1C5A77,174109-1,"","","386","1911",
+gcc-44469,A,Compositae,,Achillea,,"millefoliata",,"","Grecescu",Synonym,,M,TICA,73901EAF-4B9B-4DE2-AFF3-52652AE7453B,174110-1,"","","312","1898",gcc-124955
+gcc-95427,A,Compositae,,Achillea,,"millefolilium",,"","E.Mey.",Synonym,,M,TICA,A73945D4-5568-43C6-8A45-8F51407AB5B8,,": 65 (1830)","","65","1830",gcc-137335
+gcc-140712,A,Compositae,,Achillea,,"millefolium",,"","L.",Accepted,,M,TICA,40160FE1-53D5-4C15-9595-F5B87A104673,2294-2,"Sp. Pl. 2","","899","1753",
+gcc-73252,A,Compositae,,Achillea,,"millefolium",f.,"albiflora","Dabrowska",Synonym,,L,TICA,986E00C8-A7B5-4A48-985C-12498987CCD4,916737-1,"""Acta Univ. Wratislav., Prace Bot. 24: 131 (1982)""","","131","1982",gcc-140712
+gcc-57379,A,Compositae,,Achillea,,"millefolium",subsp.,"alpestris","(Wimm. & Grab.) Gremli",Accepted,,L,TICA,D7FBCBEA-BA03-4999-B83D-85EF160E929C,,"","","","",
+gcc-59868,A,Compositae,,Achillea,,"millefolium",subsp.,"alpestris","(Wimm. & al.) Murr",Synonym,,L,TICA,8D699314-E982-441C-B433-99F0F466F021,,"Murr. 1924.","","319","1924",gcc-50157
+gcc-67860,A,Compositae,,Achillea,,"millefolium",var.,"alpestris","Wimm. & Grab.",Synonym,,L,TICA,C304F7DB-2F8D-4331-80D2-DA92DC3DC61C,,"","","","",gcc-57379
+gcc-57739,A,Compositae,,Achillea,,"millefolium",var.,"alpicola","(Rydb.) Garrett",Synonym,,L,TICA,3AFDFE55-65B4-401B-B362-88CB61C9AF34,2309-2,"","","101","1911",gcc-140712
+gcc-48791,A,Compositae,,Achillea,,"millefolium",var.,"arenicola","(A.Heller) Nobs",Synonym,,L,TICA,0932A6BB-9F1F-4557-ACA2-5A615CD4446C,2310-2,"","","102","1958",gcc-140712
+gcc-64373,A,Compositae,,Achillea,,"millefolium",var.,"arenicola","(A.Heller) Ferris",Synonym,,L,TICA,8D08A3A9-EB54-449D-907A-BE06EDD7B038,,"Contr. Dudley Herb. 5: 102 (1958)","","102","1958",gcc-140712
+gcc-22157,A,Compositae,,Achillea,,"millefolium",var.,"asplenifolia","(Vent.) Farw.",Synonym,,L,TICA,C26ACF9E-80C0-438E-89DC-28FC289D78EA,2311-2,"Asa Gray Bull. 3","","21","1895",gcc-140712
+gcc-47381,A,Compositae,,Achillea,,"millefolium",subsp.,"asplenifolia","(Vent.) J.Weiss",Synonym,,L,TICA,DA200DEB-E553-49C0-9471-57C1F1E3210F,,"""Syn. Deut. Schweiz. Fl., ed. 3: 1403 (1895)""","","1403","1895",gcc-45689
+gcc-53730,A,Compositae,,Achillea,,"millefolium",subsp.,"atrotegula","B.Boivin",Synonym,,L,TICA,983DFE8F-6872-4319-A732-6867E2ACF3D1,2312-2,"Canad. Field-Naturalist 65","","10","1951",gcc-140712
+gcc-17498,A,Compositae,,Achillea,,"millefolium",subsp.,"balearica","Sennen",Synonym,,L,TICA,F114C5AC-F252-4826-A128-20529302BEF4,,"Sennen in Bol. Soc. Ibér. Ci. Nat. 27. 1928.","","215","1928",gcc-140712
+gcc-23061,A,Compositae,,Achillea,,"millefolium",subsp.,"borealis","(Bong.) Breitung",Synonym,,L,TICA,32D489E9-3B80-40E1-8092-2AB0ECED698B,2313-2,"Amer. Midl. Naturalist 58","","58","1957",gcc-140712
+gcc-59398,A,Compositae,,Achillea,,"millefolium",var.,"borealis","(Bong.) Farw.",Synonym,,L,TICA,D5751D2C-FF0B-4462-A6CE-96205FC465E2,2314-2,"Amer. Midl. Naturalist 11","","268","1929",gcc-140712
+gcc-71240,A,Compositae,,Achillea,,"millefolium",var.,"californica","(Pollard) Jeps.",Synonym,,L,TICA,F9AABFA4-EEE2-4877-B731-F4B42B74F7E6,2316-2,"","","1137","1925",gcc-140712
+gcc-74349,A,Compositae,,Achillea,,"millefolium",f.,"californica","(Pollard) H.M.Hall",Synonym,,L,TICA,35550978-969C-44D0-8806-3C6690982401,2315-2,"Univ. Calif. Publ. Bot. 3","","211","1907",gcc-140712
+gcc-60806,A,Compositae,,Achillea,,"millefolium",subsp.,"ceretanica","(Sennen) Sennen",Accepted,,L,TICA,F77016DA-978E-48AE-9E09-A15DA21A8AA4,,"Sennen in Bol. Soc. Ibér. Ci. Nat. 28. 1929.","","215","1929",
+gcc-2594,A,Compositae,,Achillea,,"millefolium",subsp.,"collina","(Becker ex Rchb.) Weiss",Synonym,,L,TICA,76F0052E-7FFA-42E8-8AD5-04C351309124,,"","","","",gcc-27395
+gcc-57644,A,Compositae,,Achillea,,"millefolium",subsp.,"collina","(Becker ex Rchb.f.) Oborny",Synonym,,L,TICA,565BB16D-E494-49D5-9F59-87FBBE66948D,,"""Oborny, Fl. Mähren. 1885.""","","657","1885",gcc-27395
+gcc-66882,A,Compositae,,Achillea,,"millefolium",var.,"collina","Becker ex Rchb.f.",Unresolved,,L,TICA,03E773A5-47CA-43E2-8394-D275A1AD478A,,"Icones florae germanicae et helveticae 16(1):","","69","1854",gcc-27395
+gcc-71576,A,Compositae,,Achillea,,"millefolium",var.,"colliniformis","Dabrowska",Synonym,,L,TICA,A566FCA8-4E93-4B70-9213-F73A5D7AA1FA,,"""Acta Univ. Wratislav., Prace Bot. 24: 118 (1982)""","","118","",gcc-140712
+gcc-58794,A,Compositae,,Achillea,,"millefolium",subsp.,"compacta","(Lam.) Bonnier & Layens",Synonym,,L,TICA,2F5ED7EC-A5D2-4A7F-8BED-91791C96D849,,"Bonnier & Layens. 1894.","","169","1894",gcc-140712
+gcc-70058,A,Compositae,,Achillea,,"millefolium",var.,"crustata","Rochel",Synonym,,L,TICA,4E3F8685-6FB2-43DC-AC17-EB22B3AFC638,,"Pl. Banat. Rar.: 71 (1828)","","71","1828",gcc-45689
+gcc-26123,A,Compositae,,Achillea,,"millefolium",var.,"dipetala","Dabrowska",Synonym,,L,TICA,84357686-B0E5-4D0E-9A23-304EFC5B3958,916738-1,"""Acta Univ. Wratislav., Prace Bot. 24: 119 (1982)""","","119","1982",gcc-140712
+gcc-74812,A,Compositae,,Achillea,,"millefolium",f.,"discolor","B.Boivin",Synonym,,L,TICA,6CACAE6A-F020-49D9-B0C7-4E117006E550,305801-2,"Canad. Field-Naturalist 65","","11","1951",gcc-140712
+gcc-69355,A,Compositae,,Achillea,,"millefolium",var.,"dissecta","Dabrowska",Synonym,,L,TICA,258E79D8-2469-48B1-BD1C-E5A6827D7A76,916739-1,"""Acta Univ. Wratislav., Prace Bot. 24: 131 (1982)""","","131","1982",gcc-140712
+gcc-55027,A,Compositae,,Achillea,,"millefolium",var.,"fulva","B.Boivin",Unresolved,,L,TICA,A7E655E8-8C4D-49BF-8354-72A936D36496,303844-2,"The Canadian Field-Naturalist 65(1):","","11-Dec","1951",gcc-140712
+gcc-54012,A,Compositae,,Achillea,,"millefolium",var.,"fusca","(Rydb.) G.N.Jones",Synonym,,L,TICA,E9A3A31A-75CD-439D-A6E3-6A9522C8A0CA,2317-2,"","","250","1936",gcc-140712
+gcc-3774,A,Compositae,,Achillea,,"millefolium",var.,"gigantea","(Pollard) Ferris",Synonym,,L,TICA,DE8E77C9-7016-48C8-BCC4-070838499121,,"Contr. Dudley Herb. 5: 102 (1958)","","102","1958",gcc-140712
+gcc-54291,A,Compositae,,Achillea,,"millefolium",var.,"gigantea","(Pollard) Nobs",Synonym,,L,TICA,A979451A-6711-4DBB-99A0-6CD02A4C713F,2318-2,"","","102","1958",gcc-140712
+gcc-144229,A,Compositae,,Achillea,,"millefolium",f.,"iserana","(Podp.) Hayek",Synonym,,L,TICA,7CEE29BF-4001-41BB-ABC7-FDA1B90FDBEA,,"Ill. Fl. Mitt.-Eur. 6(2): 571 (1928)","","571","1928",gcc-140712
+gcc-70416,A,Compositae,,Achillea,,"millefolium",var.,"iserana","Podp.",Synonym,,L,TICA,F4DC902B-24B3-4D8D-9B94-EDEA1F24C877,,"Verh. Zool.-Bot. Ges. Wien 54: 338 (1904)","","338","1904",gcc-140712
+gcc-67813,A,Compositae,,Achillea,,"millefolium",var.,"lanata","W.D.J.Koch",Synonym,,L,TICA,56D35DC2-C52A-4CC0-8E3C-DA47C41D0298,60454845-2,"Syn. Fl. Germ. Helv. 1: 373 (1837)","","373","1837",gcc-115065
+gcc-54589,A,Compositae,,Achillea,,"millefolium",var.,"lanulosa","(Nutt.) Piper",Synonym,,L,TICA,3175F28B-5D6F-4515-9CD3-6F383C03C2E9,2320-2,"Mazama 2","","97","1901",gcc-140712
+gcc-58206,A,Compositae,,Achillea,,"millefolium",subsp.,"lanulosa","(Nutt.) Piper",Synonym,,L,TICA,023859CC-0FCE-45C2-B7F9-8CAEC507A37C,,"Mazama 2: 97. 1901.","","97","1901",gcc-140712
+gcc-10234,A,Compositae,,Achillea,,"millefolium",var.,"litoralis","Ehrenb. ex Nobs",Synonym,,L,TICA,377E2FB4-327A-48EC-88AB-13222FA3F1B0,2321-2,"","","101","1958",gcc-140712
+gcc-61880,A,Compositae,,Achillea,,"millefolium",var.,"lobata","Dabrowska",Synonym,,L,TICA,C049FD51-8742-44D0-AA0D-AA1D1CFB3072,916740-1,"""Acta Univ. Wratislav., Prace Bot. 24: 120 (1982)""","","120","1982",gcc-140712
+gcc-26061,A,Compositae,,Achillea,,"millefolium",var.,"manshurica","Kitam.",Synonym,,L,TICA,93C235E1-23A2-4486-AE1D-302FF5657D7F,,"Acta Phytotaxonomica et Geobotanica 12(3):","","129-130","1943",gcc-35273
+gcc-70185,A,Compositae,,Achillea,,"millefolium",var.,"maritima","Jeps.",Synonym,,L,TICA,373DD232-23F6-438F-8DEC-EC19FD71E39C,2322-2,"A Manual of the Flowering Plants of California . . .","","1137","1925",gcc-140712
+gcc-53441,A,Compositae,,Achillea,,"millefolium",var.,"megacephala","(Raup) B.Boivin",Synonym,,L,TICA,59F80716-366C-46F7-A1FE-66432792B04E,301423-2,"Canad. Field-Naturalist 65","","10","1951",gcc-140712
+gcc-118505,A,Compositae,,Achillea,,"millefolium",f.,"millefolium","",Synonym,,L,TICA,B1EC9C3A-14FC-4754-BEB6-C31F7A27C1AF,,"","","","",gcc-140712
+gcc-26949,A,Compositae,,Achillea,,"millefolium",subsp.,"millefolium","",Synonym,,L,TICA,A80260C4-5618-4A59-B17E-31D57467AFF4,,"Sp. Pl.","","899","1753",gcc-140712
+gcc-72539,A,Compositae,,Achillea,,"millefolium",var.,"millefolium","",Synonym,,L,TICA,39B5AE62-BE8E-44D0-90AC-FECDBB0C0562,,"","","","1753",gcc-140712
+gcc-66894,A,Compositae,,Achillea,,"millefolium",var.,"nigrescens","E.Mey.",Synonym,,L,TICA,8067D843-A0A0-47DE-B88D-D28E9A38FA0C,2323-2,"","","65","1830",gcc-140712
+gcc-54900,A,Compositae,,Achillea,,"millefolium",subsp.,"occidentalis","(DC.) Hyl.",Synonym,,L,TICA,BEA6FA69-53A4-4A2E-8DFB-71B756F05BAA,2324-2,"Uppsala Universitets Arsskrift 1945(7):","","314","1945",gcc-140712
+gcc-57529,A,Compositae,,Achillea,,"millefolium",var.,"occidentalis","DC.",Synonym,,L,TICA,86E1CC15-56D7-441E-8799-8707E826C053,2325-2,"","","24","1838",gcc-140712
+gcc-14474,A,Compositae,,Achillea,,"millefolium",var.,"pacifica","(Rydb.) G.N.Jones",Synonym,,L,TICA,C4C4D58D-A71C-4AD2-992D-1ADCD135C465,2326-2,"Univ. Wash. Publ. Biol. 5","","250","1936",gcc-140712
+gcc-44267,A,Compositae,,Achillea,,"millefolium",subsp.,"pallidotegula","B.Boivin",Unresolved,,L,TICA,8B2553A4-FC9B-43A8-9273-51F83BF36670,2327-2,"Canad. Field-Naturalist 65","","9","1951",gcc-140712
+gcc-14717,A,Compositae,,Achillea,,"millefolium",subsp.,"pannonica","(Scheele) Hayek",Synonym,,L,TICA,8402C9ED-AECE-4CF5-89A1-1B4EEA5CB93C,,"Ill. Fl. Mitt.-Eur. 6(2): 571 (1928)","","571","1928",gcc-115065
+gcc-53334,A,Compositae,,Achillea,,"millefolium",subsp.,"pannonica","(Scheele) Oborny",Synonym,,L,TICA,82592C09-6383-437D-B038-656A4849CBC7,,"""Oborny, Fl. Mähren. 1885.""","","658","1885",gcc-115065
+gcc-74733,A,Compositae,,Achillea,,"millefolium",f.,"pannonica","(Scheele) J.Weiss",Unresolved,,L,TICA,DD16CB72-72A2-4F3A-8742-4B538FADD157,,"Synopsis der Deutschen und Schweizer Flora 2:","","1404","1895",
+gcc-5124,A,Compositae,,Achillea,,"millefolium",var.,"parviligula","B.Boivin",Unresolved,,L,TICA,3B2F4FF7-4D55-4C5D-BE43-098D18F85575,300435-2,"The Canadian Field-Naturalist 65(1):","","11","1951",gcc-140712
+gcc-62081,A,Compositae,,Achillea,,"millefolium",var.,"parvula","B.Boivin",Unresolved,,L,TICA,89563D14-053A-414C-89F9-ABD810C955BF,306059-2,"The Canadian Field-Naturalist 65(1):","","11","1951",gcc-140712
+gcc-34692,A,Compositae,,Achillea,,"millefolium",var.,"puberula","(Rydb.) Nobs",Synonym,,L,TICA,68C511E4-2D03-47C2-B04B-4050A6F906A3,2328-2,"","","102","1958",gcc-140712
+gcc-8646,A,Compositae,,Achillea,,"millefolium",var.,"puberula","(Rydb.) Ferris",Synonym,,L,TICA,7CDC95AC-6B00-48D8-ADAB-1025C2C87B2A,,"Contr. Dudley Herb. 5: 102 (1858)","","102","1858",gcc-140712
+gcc-143817,A,Compositae,,Achillea,,"millefolium",f.,"rhodantha","Lepage",Synonym,,L,TICA,F48E37ED-774C-472D-9493-FCBA3E1641AD,308581-2,"Naturaliste Canad. 81","","260","1954",gcc-140712
+gcc-123455,A,Compositae,,Achillea,,"millefolium",f.,"rosea","(Desf.) E.L.Rand & Redfield",Synonym,,L,TICA,7F6FD287-9329-4A19-8DA1-CE5F64C13319,2330-2,"","","118","1894",gcc-140712
+gcc-69554,A,Compositae,,Achillea,,"millefolium",var.,"rosea","(Desf.) Torr. & A.Gray",Synonym,,L,TICA,15A83835-7A8D-4829-835E-E74B1B949029,,"","","","",gcc-140712
+gcc-110491,A,Compositae,,Achillea,,"millefolium",f.,"roseiflora","B.Boivin",Synonym,,L,TICA,21EDAC65-7EBB-4422-BA7B-B0FFF81D07DE,303310-2,"Canad. Field-Naturalist 65","","12","1951",gcc-140712
+gcc-73984,A,Compositae,,Achillea,,"millefolium",f.,"roseoides","Breitung",Synonym,,L,TICA,29BBF88D-D6FF-4776-B535-2E555394B5F2,305800-2,"Amer. Midl. Naturalist 58","","59","1957",gcc-140712
+gcc-118655,A,Compositae,,Achillea,,"millefolium",f.,"rubicunda","(Farw.) Farw.",Synonym,,L,TICA,AA85F181-3DA2-418F-9837-C373FA2C1258,292808-2,"Amer. Midl. Naturalist 11","","268","1929",gcc-140712
+gcc-53432,A,Compositae,,Achillea,,"millefolium",var.,"rubra","Sadler",Synonym,,L,TICA,CDBD6ECA-FAC2-49C0-80B9-6636E7E00F87,,"Fl. Comit. Pest. 2: 286 (1826)","","286","1826",gcc-45689
+gcc-57022,A,Compositae,,Achillea,,"millefolium",var.,"russeolata","B.Boivin",Unresolved,,L,TICA,C11704C0-F869-4822-93EE-8307F8DE48B4,304095-2,"The Canadian Field-Naturalist 65(1):","","10","1951",gcc-140712
+gcc-100150,A,Compositae,,Achillea,,"millefolium",f.,"scabra","(Host) J.Weiss",Synonym,,L,TICA,D640C5F9-4417-4080-8815-99EED5230FEF,,"""Syn. Deut. Schweiz. Fl., ed. 3: 1403 (1895)""","","1403","1895",gcc-45689
+gcc-67871,A,Compositae,,Achillea,,"millefolium",subsp.,"serpentini","Coste & Soulié",Synonym,,L,TICA,96E65FF2-5606-4F9C-BCA5-DAA840E0DB64,,"Coste & Soulié in Bull. Soc. Bot. France 44. 1898.","","CIV","1898",gcc-50157
+gcc-53606,A,Compositae,,Achillea,,"millefolium",subsp.,"setacea","(Waldst. & Kit.) Čelak.",Synonym,,L,TICA,E32752F2-D714-453F-B1FE-677D603A61D0,,"","","130","1870",gcc-109561
+gcc-64063,A,Compositae,,Achillea,,"millefolium",var.,"setacea","(W.K.) W.D.J.Koch",Synonym,,L,TICA,A0FFDEAB-A643-4F75-B999-BB9455A668CB,60454847-2,"Syn. Fl. Germ. Helv. 1: 373 (1837)","","373","1837",gcc-109561
+gcc-34722,A,Compositae,,Achillea,,"millefolium",var.,"sordida","W.D.J.Koch",Synonym,,L,TICA,7E65FBA9-6B9C-41DC-98A3-406213028BA8,,"","","","",gcc-140712
+gcc-63000,A,Compositae,,Achillea,,"millefolium",var.,"spathulata","Dabrowska",Synonym,,L,TICA,E7346E66-9595-4FDB-8E01-B348BC1735E8,916742-1,"""Acta Univ. Wratislav., Prace Bot. 24: 120 (1982)""","","120","1982",gcc-140712
+tro-100372955,A,Compositae,,Achillea,,"millefolium",subsp.,"stricta","(Schleich. ex Heimerl) Hyl.",Accepted,,L,TRO,100372955,,"Uppsala Univ. Arsskr.","1945(7): 315","315","1945",
+gcc-50157,A,Compositae,,Achillea,,"millefolium",subsp.,"sudetica","(Opiz) Oborny",Accepted,,L,TICA,4BAC1992-8C0D-46F2-9967-5CF9FB3BE870,,"""Oborny, Fl. Mähren. 1885.""","","657","1885",
+gcc-56655,A,Compositae,,Achillea,,"millefolium",subsp.,"sudetica","(Opiz) Weiss",Synonym,,L,TICA,521E6046-9FDD-4328-B153-80265FC22C05,,"Syn. Deut. Schweiz. Fl. 3(2): 1404 (1895)","","1404","1895",gcc-57379
+gcc-66830,A,Compositae,,Achillea,,"millefolium",subsp.,"tanacetifolia","(Fiori) P.Fourn.",Synonym,,L,TICA,FA74F84A-11EB-4682-85DF-D21263EE77B0,,"P. Fourn.. 1939.","","968","1939",gcc-67766
+gcc-120694,A,Compositae,,Achillea,,"milliana",,"","H.Duman",Accepted,,M,TICA,44E53098-D9DB-457D-902D-C823247BF081,1020699-1,"","","319","2001",
+gcc-2560,A,Compositae,,Achillea,,"millii",,"","Heldr. ex Boiss.",Synonym,,M,TICA,ECDD5FDA-D3BD-4F68-A2B8-04B06BB61851,174113-1,"","","296","1888",gcc-105259
+gcc-50484,A,Compositae,,Achillea,,"mollis",,"","Andrz. ex Trautv.",Accepted,,M,TICA,8344B8B6-9766-4538-98AD-5D972DD29FC5,174114-1,"","","451","1883",
+gcc-146791,A,Compositae,,Achillea,,"mollis",var.,"mollis","",Synonym,,L,TICA,CB02709A-0593-4351-A6CA-1FE5F58A5A3B,,"","","","",gcc-50484
+gcc-1261,A,Compositae,,Achillea,,"mollis",var.,"virescens","Fenzl",Synonym,,L,TICA,ADE7A0AD-944E-447F-BAC4-024F6A5B7E10,,"","","","",gcc-84946
+gcc-79598,A,Compositae,,Achillea,,"mongolica",,"","Fisch. ex Spreng.",Synonym,,M,TICA,E5104925-EBE9-4106-A050-6BC8C63D1E96,174115-1,"","","3","1818",gcc-132612
+gcc-91918,A,Compositae,,Achillea,,"monocephala",,"","Boiss. & Balansa",Accepted,,M,TICA,5D3EEBB1-3188-46FC-87F5-877AA50A3956,,"","","110","1856",
+gcc-95522,A,Compositae,,Achillea,,"montana",,"","Schleich. ex DC.",Unresolved,,L,TICA,29BFF882-89B6-48FA-A98F-8F8FC7552BC2,174117-1,"","","21","1838",
+gcc-41636,A,Compositae,,Achillea,,"montenegrina",,"","Beck & Szyszył.",Unresolved,,L,TICA,F8F01789-AE53-49EC-9DD8-4D193CFF1948,174118-1,"Oesterr. Bot. Z. 39","","148","1889",gcc-141926
+gcc-94892,A,Compositae,,Achillea,,"monticola",,"","Martrin-Donos",Synonym,,M,TICA,CE8B9F0C-182A-4403-9A27-8E12DEC1D797,174119-1,"","","31","1862",gcc-60806
+gcc-79729,A,Compositae,,Achillea,,"morisiana",,"","Rchb.",Synonym,,M,TICA,18AFE7ED-070C-404B-A38C-6C0C0B5B13AB,,"","","","1853",gcc-51344
+gcc-103225,A,Compositae,,Achillea,,"moschata",,"","Jacq.",Synonym,,M,TICA,C07A9668-93FB-491B-B841-A0C83C0DDBFA,,"","","","1778",gcc-23438
+gcc-119854,A,Compositae,,Achillea,,"moschata",,"","Wulfen",Synonym,,M,TICA,68DE92F2-235E-4D31-9363-C61E142D0146,174121-1,"""Wulfen in Jacquin, Fl. Austriac. 5. 1778.""","","45","1778",gcc-23438
+gcc-45243,A,Compositae,,Achillea,,"mucronata",,"","Hort. ex Steud.",Synonym,Invalid,M,TICA,CB71D83B-EBB0-4837-A3E4-53D969E97132,174122-1,"","","13","1840",gcc-89112
+gcc-137693,A,Compositae,,Achillea,,"mucronulata",,"","Bertol.",Unresolved,,L,TICA,898A1A42-6BC8-470B-B6BD-EF03FE3A788B,,"","","","",
+gcc-31297,A,Compositae,,Achillea,,"mucronulata",,"","(Bertol.) Sch.Bip.",Synonym,,M,TICA,2FDDEF7E-9532-44C3-A1F8-39F7B2868AE2,174123-1,"","","15","1855",gcc-51097
+gcc-130168,A,Compositae,,Achillea,,"muenteriana",,"","Heldr. ex Boiss.",Unresolved,,L,TICA,EBA3ABBC-179F-44B6-B8D0-DDE9C061DA34,174124-1,"","","298","1888",
+gcc-13568,A,Compositae,,Achillea,,"multifida",,"","(DC.) Griseb.",Accepted,,M,TICA,6140174C-5C1F-4438-8541-193E0C7C7189,,"","","212","1846",
+gcc-84695,A,Compositae,,Achillea,,"multifida",,"","Sch.Bip.",Unresolved,,L,TICA,8206B2BD-0299-40A8-9FC5-7719433E65F9,174127-1,"""in Flora, xxxviii. (1855) 15.""","","xxxviii.  15.","1855",
+gcc-86581,A,Compositae,,Achillea,,"multifida",,"","Spruner ex Nyman",Synonym,,M,TICA,1BC7D896-8302-4E41-8C1C-7B389A84CBFA,174126-1,"","","367","1879",gcc-109561
+gcc-119635,A,Compositae,,Achillea,,"multiflora",,"","Hook.",Synonym,,M,TICA,0CC27A5A-6D9A-423D-8660-C59C1CDC66BB,30008865-2,"","","318","1833",gcc-132612
+gcc-21758,A,Compositae,,Achillea,,"multiplex",,"","P.Renault",Synonym,,M,TICA,5B44A286-7C1A-4B11-8ED9-284549FB7B91,,"Fl. Orne: 78 (1804)","","78","1804",gcc-132682
+gcc-39325,A,Compositae,,Achillea,,"multiplex",,"","Renard",Unresolved,,L,TICA,CD893AF2-0871-4BE6-9303-48FE4F84D249,,"Fl. Orn. 78.","","78","",
+tro-50230923,A,Compositae,,Achillea,,"multiplex",,"","Reyn.",Synonym,,L,TRO,50230923,,"Fl. Orn","78","78","",gcc-74650
+gcc-104933,A,Compositae,,Achillea,,"muricata",,"","Ces. & Pass. ex Nyman",Synonym,,M,TICA,714487A0-FD63-4A99-904D-A48C33B603E9,174130-1,"","","362","1879",gcc-111147
+gcc-89230,A,Compositae,,Achillea,,"muschensis",,"","K.Koch",Synonym,,M,TICA,B5DCC48E-A827-4B34-A42E-813DC0D017E7,174131-1,"","","329","1851",gcc-39575
+gcc-104940,A,Compositae,,Achillea,,"myriophylla",,"","Willd.",Synonym,,L,TICA,E9029260-A51B-4202-9A39-A48EEF6F1A84,174132-1,"","","916","1809",gcc-134827
+gcc-11077,A,Compositae,,Achillea,,"nabelekii",,"","Heimerl ex Nábělek",Unresolved,,L,TICA,B6C8FD0E-2A4B-457F-9BE7-14BA1534DE4F,174133-1,"""in Publ. Fac. Sc. Univ. Masaryk, Brno No. 52, 12 (1925).""","","""No. 52, 12""","1925",
+gcc-43777,A,Compositae,,Achillea,,"nabelekii",,"","Heimerl",Synonym,,M,TICA,F5A7C266-693D-446C-A556-5120D16C6993,,"","","12","1925",gcc-140712
+gcc-24761,A,Compositae,,Achillea,,"nana",,"","L.",Accepted,,M,TICA,26960393-4D8E-4E6C-A03B-2DBC84AE337E,174135-1,"","","899","1753",
+gcc-40071,A,Compositae,,Achillea,,"nana",,"","Lam.",Synonym,Illegitimate,M,TICA,7E4FFDFD-E139-4EF5-BFA0-4A549B9F9D82,,"","","","1779",gcc-51344
+gcc-57745,A,Compositae,,Achillea,,"nana",var.,"conferta","Heimerl",Synonym,,L,TICA,96EA3907-B39F-4A4C-9B9C-88D851B9980B,,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","","1884",gcc-24761
+gcc-56534,A,Compositae,,Achillea,,"nana",var.,"laxiuscula","Heimerl",Synonym,,L,TICA,FAF89B64-CD40-4920-B3EF-7F56038B6938,60439391-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","159","1884",gcc-24761
+gcc-153907,A,Compositae,,Achillea,,"nana",var.,"nana","",Synonym,,L,TICA,D8868747-88FC-4C1A-A332-B7C2B8D42262,,"","","","",gcc-24761
+gcc-108723,A,Compositae,,Achillea,,"neilreichii",,"","A.Kern.",Synonym,,M,TICA,D871EEDA-09A0-4321-89EC-ACF9DED66529,,"Oesterr. Bot. Z. 21","","141","1871",gcc-62283
+gcc-116804,A,Compositae,,Achillea,,"neumayeri",,"","Heldr. ex Heimerl",Synonym,,M,TICA,9E67E535-394C-4DA6-A2A2-BF43E28CF22E,,"","","","1884",gcc-131019
+gcc-137335,A,Compositae,,Achillea,,"nigrescens",,"","(E.Mey.) Rydb.",Accepted,,M,TICA,7C7CCF83-16B8-4C8B-AB10-EE3F4E41E77A,2331-2,"N. Amer. Fl. 34","","221","1916",
+gcc-77238,A,Compositae,,Achillea,×,"nitida",,"","Pers.",Synonym,,M,TICA,AA11BF11-48CA-4E9B-AB85-666FF064CB1E,174139-1,"","","467","1807",gcc-143679
+gcc-8939,A,Compositae,,Achillea,,"nivea",,"","Spruner ex Nyman",Unresolved,,L,TICA,F10BF385-5B1C-4043-B82B-10B9911B6D54,,"","","","1879",
+gcc-123642,A,Compositae,,Achillea,,"nobilis",,"","Roch. ex Nyman",Unresolved,,L,TICA,4D33310B-17CC-4FC6-8AD4-CECE45FA2DAC,,"Consp. 367.","","367","",
+gcc-48678,A,Compositae,,Achillea,,"nobilis",,"","L.",Accepted,,M,TICA,C757D4E2-E96E-40D3-A4C2-5A3039CAE062,2332-2,"Sp. Pl.","","899","1753",
+gcc-27032,A,Compositae,,Achillea,,"nobilis",subsp.,"densissima","(Bässler) Hub.-Mor.",Accepted,,L,TICA,ED1E28A9-E46F-4E8D-8468-31F74E42868D,876368-1,"Hub.-Mor. in Notes Roy. Bot. Gard. Edinburgh 33. 1975.","","427","1975",
+gcc-60459,A,Compositae,,Achillea,,"nobilis",subsp.,"ligustica","(All.) Bonnier",Synonym,,L,TICA,92781B51-5E0E-4DA0-A78A-9E7245C4E48D,,"Bonnier. 1922.","","106","1922",gcc-131521
+gcc-155012,A,Compositae,,Achillea,,"nobilis",subsp.,"neilreichii","(A.Kern.) Formánek",Synonym,,L,TICA,3610FC7D-4859-4B7D-A8FF-CF2EC9259C1C,,"","","","",gcc-62283
+gcc-57404,A,Compositae,,Achillea,,"nobilis",subsp.,"neilreichii","(A.Kern.) Takht.",Synonym,,L,TICA,CA7AF674-5682-444A-919E-8618A1C4FC7C,,"","","","",gcc-62283
+gcc-62283,A,Compositae,,Achillea,,"nobilis",subsp.,"neilreichii","(A.Kern.) Velen.",Accepted,,L,TICA,2BEE78A7-41C0-4072-8899-AD6E8F8014C4,,"","","263","1891",
+gcc-146396,A,Compositae,,Achillea,,"nobilis",var.,"nobilis","",Synonym,,L,TICA,BD842744-D541-42C0-BA76-17AAABDE1E36,,"","","","",gcc-48678
+gcc-67955,A,Compositae,,Achillea,,"nobilis",subsp.,"nobilis","",Synonym,,L,TICA,8FBCE21A-CFBA-4AF3-8D88-DB2869538D66,,"","","","",gcc-48678
+gcc-27606,A,Compositae,,Achillea,,"nobilis",var.,"ochloreuca","Boiss.",Synonym,,L,TICA,144429AA-53B5-4543-B0F6-330830B6C1DE,,"Fl. Orient. 3: 257 (1875)","","257","1875",gcc-62283
+gcc-69819,A,Compositae,,Achillea,,"nobilis",subsp.,"sipylea","(O.Schwarz)",Unresolved,,L,TICA,34C9B650-6460-4670-B179-E95524DE57E8,,"","","","",
+gcc-10290,A,Compositae,,Achillea,,"novae-graeciae",,"","Sch.Bip.",Unresolved,,L,TICA,02B1C179-6377-4B6C-9834-13377D943622,,"","","","1841",
+gcc-35948,A,Compositae,,Achillea,,"nyaradyana",,"","Prodan",Unresolved,,L,TICA,EEF45172-28DE-4091-BFE4-42A881C947DD,,"","","","1931",
+gcc-10900,A,Compositae,,Achillea,×,"obristii",,"","Sünd.",Unresolved,,L,TICA,8851FAAB-8DEC-48AF-8427-146371697903,174145-1,"","","91","1906",
+gcc-20372,A,Compositae,,Achillea,,"obscura",,"","Nees",Accepted,,M,TICA,EC962731-ECA7-47EF-883B-25AAEB6A736B,174146-1,"","","","1831",
+gcc-18488,A,Compositae,,Achillea,,"occidentalis",,"","Raf. ex DC.",Unresolved,,L,TICA,09463CB3-A21E-4F19-A7C1-2222D673A5BD,174147-1,"Prodr. (DC.) 6: 24","","24","1838",
+gcc-32848,A,Compositae,,Achillea,,"occidentalis",,"","(DC.) Raf. ex Rydb.",Synonym,,M,TICA,275B2A0E-5A34-48CA-992A-3CECBA0CC7A5,,"Bulletin of the Torrey Botanical Club 37:","","456","1910",gcc-140712
+gcc-126289,A,Compositae,,Achillea,,"occulta",,"","Constantin. & Kalpoutz.",Accepted,,M,TICA,C8A90874-F959-448C-9A03-D500CA3C6478,,"","","250","2005",
+gcc-137742,A,Compositae,,Achillea,,"ochroleuca",,"","Eichw.",Synonym,,M,TICA,28A01982-B4BF-49E7-836B-EF1C4ED5168C,174150-1,"","","149","1830",gcc-140712
+gcc-77949,A,Compositae,,Achillea,,"ochroleuca",,"","Waldst. & Kit.",Synonym,,M,TICA,AF09529D-FD49-421A-95B1-68029E738587,,"","","","1801",gcc-48678
+gcc-95816,A,Compositae,,Achillea,,"ochroleuca",,"","Ehrh.",Accepted,,M,TICA,A385D9DE-40EE-4E14-BA87-90385AFDAEFF,,"","","166","1792",
+gcc-151881,A,Compositae,,Achillea,,"ochroleuca",var.,"ochroleuca","",Synonym,,L,TICA,48FF35DD-B2A7-47F2-9329-8DEBD85CAB9C,,"","","","",gcc-95816
+gcc-72261,A,Compositae,,Achillea,,"ochroleuca",var.,"parviflora","Soó",Synonym,,L,TICA,DCF16477-7E27-46E6-9CF3-FC9D9DBB8199,,"","","385","1978",gcc-45438
+gcc-140659,A,Compositae,,Achillea,,"odorata",,"","L.",Accepted,,M,TICA,F4DEC293-29F5-40D7-B4C1-F597C867EB9E,174152-1,"","","1225","1759",
+gcc-39863,A,Compositae,,Achillea,,"odorata",,"","Wulfen",Synonym,Illegitimate,M,TICA,80DBC2AB-8194-4951-BD78-49FA4DC3F742,,"Collectanea 1: 259 (1786)","","259","1786",gcc-109561
+gcc-4582,A,Compositae,,Achillea,,"odorata",,"","Pall.",Synonym,Illegitimate,M,TICA,BE8837EC-9B64-47E2-9E5A-0886D625C772,,"""Pall., Reise Russ. Reich. 1. 1771.""","","379","1771",gcc-48678
+gcc-55999,A,Compositae,,Achillea,,"odorata",subsp.,"kotschyi","(Boiss.) Bornm.",Synonym,,L,TICA,0E49A78F-8305-4342-A951-7ADDF74BC6BD,,"Beih. Bot. Centralbl. 32: 227 (1914)","","227","1914",gcc-130217
+gcc-21766,A,Compositae,,Achillea,,"odorata",var.,"microphylla","(Willd.) Willk.",Synonym,,L,TICA,6890A858-89AF-4A3F-BED4-2848AFF5E8D4,,"","","","",gcc-140659
+gcc-147679,A,Compositae,,Achillea,,"odorata",var.,"odorata","",Synonym,,L,TICA,A96B1D5E-3533-4C95-A854-3284973B24B9,,"","","","",gcc-140659
+gcc-72100,A,Compositae,,Achillea,,"odorata",subsp.,"odorata","",Synonym,,L,TICA,7279DA51-5BCB-4983-8192-FB556EDB49B7,,"","","","",gcc-140659
+gcc-72424,A,Compositae,,Achillea,,"odorata",subsp.,"paucidentata","(Ambrosi) Briq.",Synonym,,L,TICA,A7F3BC8A-87B8-4AF0-AEC4-FDDDE1AF31C2,,"""Briq. in Burnat, Fl. Alpes Marit. 6. 1917.""","","194","1917",gcc-84946
+gcc-68468,A,Compositae,,Achillea,,"odorata",subsp.,"pectinata","(Lam.) Briq.",Synonym,,L,TICA,B290BCE5-9C65-4442-A90E-DF14760C5914,,"","","","",gcc-140659
+gcc-129573,A,Compositae,,Achillea,,"oligocephala",,"","DC.",Accepted,,M,TICA,0DBA7E61-681D-4B26-B817-DC90E78D10BD,174154-1,"","","32","1838",
+gcc-112078,A,Compositae,,Achillea,,"olympica",,"","(Heimerl) Halácsy",Synonym,,M,TICA,DA4BBE1C-BEDD-42C7-BE4C-B49751396DB0,,"","","44","1902",gcc-95974
+gcc-143588,A,Compositae,,Achillea,,"oravicensis",,"","Kit. & Kanitz",Unresolved,,L,TICA,5C2D6724-F209-4056-A640-FC3DB48721CF,,"","","","",
+gcc-125292,A,Compositae,,Achillea,,"ossica",,"","K.Koch",Synonym,,M,TICA,8DCC3611-6112-4282-8169-D2B4D9FC1287,174156-1,"Linnaea 24","","323","1851",gcc-140712
+gcc-2575,A,Compositae,,Achillea,,"oxylepis",,"","Boiss. & Hausskn.",Synonym,,M,TICA,4FB0EC7A-9E2E-4149-9AFA-04B60E13AC08,174157-1,"","","271","1875",gcc-58507
+gcc-138220,A,Compositae,,Achillea,,"oxyloba",,"","DC.",Unresolved,,L,TICA,C95EF28B-3697-44B0-942D-F0249AE7D13D,,"Prodr. (DC.) 6: 20","","20","1838",
+gcc-40684,A,Compositae,,Achillea,,"oxyloba",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,1C6C82E2-A211-4CC3-BABA-4B658BD6C38F,174158-1,"Flora 38","","15","1855",
+gcc-66711,A,Compositae,,Achillea,,"oxyloba",subsp.,"barrelieri","(Ten.) F.Conti",Synonym,,L,TICA,5685ECCE-DC69-4644-80E6-D0FA63068C82,1007540-1,"Bocconea 10","","172","1998",gcc-108937
+gcc-30766,A,Compositae,,Achillea,,"oxyloba",subsp.,"mucronulata","(Bertol.) I.Richardson",Synonym,,L,TICA,4F22CD12-4CF2-459E-8E2A-38F47BDB8EF4,876372-1,"I. Richardson in Bot. J. Linn. Soc. 71. 1976.","","271","1976",gcc-51097
+gcc-65163,A,Compositae,,Achillea,,"oxyloba",subsp.,"oxyloba","",Synonym,,L,TICA,E66AF67C-3D72-475A-88CE-C45DA868EF0E,,"","","","",gcc-40684
+gcc-71970,A,Compositae,,Achillea,,"oxyloba",subsp.,"schurii","(Sch.Bip.) Heimerl",Accepted,,L,TICA,51944DA1-0CA0-4E90-98A8-FA44EB3C1179,60439416-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","137","1884",
+gcc-25419,A,Compositae,,Achillea,,"oxyodonta",,"","Boiss.",Accepted,,M,TICA,6360F9F4-2EF9-4C9B-9EF2-2EEB637E1A4F,,"","","15","1849",
+gcc-127019,A,Compositae,,Achillea,,"pachycephala",,"","Rech.f.",Accepted,,M,TICA,B5395FD9-09D5-421D-A361-D6A5720BF0BE,174161-1,"Repert. Spec. Nov. Regni Veg. 48","","129","1940",
+gcc-115584,A,Compositae,,Achillea,,"pacifica",,"","Rydb.",Synonym,,M,TICA,60E4AB52-0870-4958-91D0-BC817D60E9AF,2333-2,"N. Amer. Fl. 34","","222","1916",gcc-140712
+gcc-114227,A,Compositae,,Achillea,,"pallescens",,"","L.",Unresolved,,L,TICA,A7776978-F3CD-48BB-B40F-B956C9B10556,174163-1,"","","1225","1759",
+gcc-48772,A,Compositae,,Achillea,,"pallescens",,"","DC.",Synonym,,M,TICA,82BF9C24-D918-493C-B2A0-5A5B42253659,174164-1,"","","296","1838",gcc-141796
+gcc-132831,A,Compositae,,Achillea,,"pallida",,"","Salisb.",Synonym,,M,TICA,2A3235DB-F075-428D-9305-E42D488EB0C5,174165-1,"","","204","1796",gcc-21258
+gcc-100130,A,Compositae,,Achillea,,"palmeri",,"","Rydb.",Synonym,,M,TICA,22621610-6DD8-402B-A7BD-99E3E44B6E88,2334-2,"N. Amer. Fl. 34","","221","1916",gcc-140712
+gcc-84914,A,Compositae,,Achillea,,"pannonica",,"","Scheele",Synonym,,M,TICA,F4C56245-542B-4A2F-ADF4-778386122FAA,174167-1,"Linnaea 18","","471","1845",gcc-115065
+gcc-121754,A,Compositae,,Achillea,,"pannonica",f.,"laxa","Dabrowska",Synonym,,L,TICA,2725F19D-7838-42C3-9846-CA7B65FA1E3A,916744-1,"""Acta Univ. Wratislav., Prace Bot. 24: 190 (1982)""","","190","1982",gcc-115065
+gcc-148569,A,Compositae,,Achillea,,"pannonica",f.,"pannonica","",Synonym,,L,TICA,5A83863A-53B2-49C1-A163-458EBD5B738A,,"","","","",gcc-115065
+gcc-48255,A,Compositae,,Achillea,,"pannonica",var.,"pannonica","",Synonym,,L,TICA,F3AA6CEA-9264-412C-B980-596F7F1CCE09,,"Flora von Nieder-Osterreich 2(2):","","1200","1893",gcc-115065
+gcc-15891,A,Compositae,,Achillea,,"paradoxa",,"","Bernh. ex Colla",Unresolved,,L,TICA,175A0AF9-9F0C-46A2-B625-1D6622257193,174168-1,"","","462","1834",
+gcc-19773,A,Compositae,,Achillea,,"partheniflora",,"","Fisch. ex Herder",Synonym,,M,TICA,D2634034-054E-4FC1-AFD8-2492A52B99F5,174169-1,"","","407","1865",gcc-132682
+gcc-46748,A,Compositae,,Achillea,,"partheniifolia",,"","Desf. ex Steud.",Unresolved,,L,TICA,EFA63DBD-8F22-4B0E-A108-56A26D5B2E3D,174170-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 14, nomen""","","14","1840",
+gcc-196,A,Compositae,,Achillea,,"pastricensis",,"","Heimerl",Synonym,,M,TICA,04677710-CC9D-492D-A27F-0059DF31BAF2,174171-1,"Oesterr. Bot. Z. 75","","151","1926",gcc-131019
+gcc-14524,A,Compositae,,Achillea,,"pateri",,"","Prodan",Unresolved,,L,TICA,9666537F-FE47-4DCB-9680-1AF0885BA92C,,"","","","1930",
+gcc-40960,A,Compositae,,Achillea,,"paucidentata",,"","(Ambrosi) Dalla Torre & Sarnth.",Synonym,,M,TICA,16F6F543-4562-48B3-999F-4BE7141550F0,,"","","","1912",gcc-48678
+gcc-2509,A,Compositae,,Achillea,,"pauciflora",,"","Lam.",Synonym,,M,TICA,4A20A398-041D-4D28-B9C9-048F2BAD2867,174174-1,"","","26","1783",gcc-1175
+gcc-99387,A,Compositae,,Achillea,,"pauciloba",,"","(Heimerl) Heimerl",Synonym,,M,TICA,29AF1496-3170-4F26-B1DB-984099A7C944,174175-1,"Oesterr. Bot. Z. 75","","135","1926",gcc-1611
+gcc-21608,A,Compositae,,Achillea,,"pauciloba",var.,"holocsgana","Heimerl",Synonym,,L,TICA,095B171B-B3C8-4842-A53C-27F3429844B2,,"Österr. Bot.Zeitschr. 75: 137 (1926)","","137","1926",gcc-53612
+gcc-149983,A,Compositae,,Achillea,,"pauciloba",var.,"pauciloba","",Synonym,,L,TICA,D4AE6C59-BD9D-4803-AF80-6490D5993E48,,"","","","",gcc-1611
+gcc-1835,A,Compositae,,Achillea,,"pauciloba",var.,"pindicola","(Hausskn.) Heimerl",Synonym,,L,TICA,DE094714-54BF-47F2-9A47-034DD940BE7A,,"Österr. Bot.Zeitschr. 75: 137 (1926)","","137","1926",gcc-1611
+gcc-126398,A,Compositae,,Achillea,,"pecten-veneris",,"","Pollard",Synonym,,M,TICA,C8771550-9B45-4582-B295-D53B56A96A76,2335-2,"Bull. Torrey Bot. Club 26","","371","1899",gcc-140712
+gcc-31019,A,Compositae,,Achillea,,"pectinata",,"","Lam.",Synonym,,M,TICA,D2DEE4ED-DAF6-43CB-8BC9-396F088850D6,174178-1,"","","28","1783",gcc-48678
+gcc-50659,A,Compositae,,Achillea,,"pectinata",,"","Willd.",Synonym,,M,TICA,BC53F2C5-5B82-498A-AD80-5DEEC539153C,174177-1,"","","2197","1803",gcc-95816
+gcc-143652,A,Compositae,,Achillea,,"pedemontana",,"","Vacc. & Wilcz.",Unresolved,,L,TICA,8CBABE82-578D-4B75-9405-FC5C6DC8AE3F,,"","","","1909",
+gcc-111722,A,Compositae,,Achillea,,"pellatii",,"","Bonnier",Unresolved,,L,TICA,A0B6F725-22C3-4988-A74C-B3C06F9ACB2A,174180-1,"","","106","1921",
+gcc-88653,A,Compositae,,Achillea,,"peroninii",,"","Boiss.",Synonym,,M,TICA,F70E9872-2F92-40F5-9E95-7FE9DEDB0600,174181-1,"Fl. Orient. [Boissier] 3: 261","","261","1875",gcc-102603
+gcc-29443,A,Compositae,,Achillea,,"peucedanifolia",,"","Griseb.",Synonym,,M,TICA,A8CD7C05-49BA-424C-BB08-366D2F0B92CA,,"","","214","1846",gcc-141796
+gcc-113556,A,Compositae,,Achillea,,"phrygia",,"","Boiss. & Balansa",Accepted,,M,TICA,24D3579D-33E2-488D-8A4B-B7E0BD0D818F,,"","","99","1859",
+gcc-90718,A,Compositae,,Achillea,,"pilosa",,"","Willd.",Unresolved,,L,TICA,610A62D8-2884-415C-8346-84BF42136574,,"","","","1803",
+gcc-1611,A,Compositae,,Achillea,,"pindicola",,"","Hausskn.",Accepted,,M,TICA,AD6BE980-CF88-4965-B46F-02E3D8EC9B16,,"","","167","1889",
+gcc-51407,A,Compositae,,Achillea,,"pindicola",subsp.,"corabensis","(Heimerl) Greuter",Accepted,,L,TICA,0A6492FE-2911-478B-8A9B-5F57EBAABF9F,70028961-1,"","","39","2003",
+gcc-53612,A,Compositae,,Achillea,,"pindicola",subsp.,"integrifolia","(Halácsy) Franzén",Accepted,,L,TICA,6D87553C-E75E-4872-966A-678AD7AB3E7A,952633-1,"Willdenowia 16(1)","","20","1986",
+gcc-62497,A,Compositae,,Achillea,,"pindicola",subsp.,"pindicola","",Synonym,,L,TICA,8513793F-A728-4F3E-9FD8-AF2EA250ACD1,,"","","","",gcc-1611
+gcc-12974,A,Compositae,,Achillea,,"pinnata",,"","Rchb.f.",Unresolved,,L,TICA,BE0212BD-CEB3-4D50-9867-182EA817FB68,,"","","","1853",
+gcc-82623,A,Compositae,,Achillea,×,"pinnata",,"","Sünd.",Unresolved,,L,TICA,DDBD641C-03DA-4623-9434-727973896EB7,174187-1,"","","91","1906",
+gcc-137967,A,Compositae,,Achillea,,"pinnatisecta",,"","Porta",Unresolved,,L,TICA,BAB30B9A-06FC-4492-AA52-EF9476162D94,,"","","","1879",
+gcc-41644,A,Compositae,,Achillea,,"polyphylla",,"","Schleich. ex W.D.J.Koch",Unresolved,,L,TICA,9182D3CB-CA9B-4375-8783-4D1BBA9E8E7C,174189-1,"","","","1844",gcc-109561
+gcc-79721,A,Compositae,,Achillea,×,"portae",,"","Sünd.",Unresolved,,L,TICA,BA74D071-43D1-4788-9A82-6C0692570F1D,174190-1,"","","91","1906",
+gcc-85723,A,Compositae,,Achillea,,"pratensis",,"","Saukel & R.Länger",Synonym,,M,TICA,29149FC3-576D-4EBB-A497-79537B4D402D,968671-1,"","","160","1992",gcc-140712
+gcc-89989,A,Compositae,,Achillea,×,"prodani",,"","Degen",Unresolved,,L,TICA,73160CCE-B801-4077-98FF-82FC37436AE6,174191-1,"","","80","1915",
+gcc-286,A,Compositae,,Achillea,,"pseudo-tanacetifolia",,"","Wierzb. ex Rchb.",Synonym,,M,TICA,BEA1113C-509E-4A9E-9BF6-008611FB774E,,"Icon. Fl. Germ. Helv. 16: 69 (1853)","","69","1853",gcc-140712
+gcc-116827,A,Compositae,,Achillea,,"pseudoaleppica",,"","Hausskn. ex Bornm.",Unresolved,,L,TICA,DF9660F7-B069-478C-822B-BF4ECD785D19,174195-1,"""Beih. Bot. Centralbl. lx. E. 191, in obs.""","","191","1939",
+gcc-15528,A,Compositae,,Achillea,,"pseudoaleppica",,"","Hausskn. ex Huber-Morath",Unresolved,,L,TICA,96ED8547-0E13-4015-B666-1CBBE3E4CF59,,"Notes Roy. Bot. Gard. Edinburgh 33(2): 209","","209","1974",
+gcc-78740,A,Compositae,,Achillea,,"pseudoaleppica",,"","Hub.-Mor.",Accepted,,M,TICA,2CFD65BF-9648-4D9B-B92F-69DCADB6CB21,174196-1,"","","209","1974",
+gcc-130243,A,Compositae,,Achillea,,"pseudodorata",,"","Rouy",Unresolved,,L,TICA,A048E0FA-E7CF-46F3-AE0D-DE1C10D340F6,174197-1,"","","253","1903",
+gcc-49346,A,Compositae,,Achillea,×,"pseudogenepi",,"","Delavay ex E.P.Perrier",Unresolved,,L,TICA,BC90C22A-BF5D-4BD4-A4B2-5B6AC5315C1E,174192-1,"","","392","1917",
+gcc-131093,A,Compositae,,Achillea,,"pseudopectinata",,"","Janka",Accepted,,M,TICA,26AAEEF7-F636-4D4C-820B-E0173C6E3A32,174193-1,"Oesterr. Bot. Z. 22","","179","1872",
+gcc-132682,A,Compositae,,Achillea,,"ptarmica",,"","L.",Accepted,,M,TICA,991805AE-E8DB-4851-87D0-E3CE4469B956,2336-2,"Sp. Pl.","","898","1753",
+gcc-142223,A,Compositae,,Achillea,,"ptarmica",,"","Richards.",Unresolved,,L,TICA,66190A9B-73EB-4269-8A75-F92CF6D5041F,,"in Frankl. 1st Journ. ed. II. App. 33.","","1st Journ. ed. II. App. 33","",
+gcc-56077,A,Compositae,,Achillea,,"ptarmica",var.,"acuminata","(Ledeb.) Heimerl",Synonym,,L,TICA,DCD21EE1-F330-4FE6-ADD8-7B95E7302AF6,,"""Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse, Denkschriften 48(2):""","","113","1884",gcc-129408
+gcc-43609,A,Compositae,,Achillea,,"ptarmica",var.,"angustifolia","Heimerl",Synonym,,L,TICA,6FDEC22E-AD52-4902-9132-50D7B08B75BB,60439362-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","176","1884",gcc-129408
+gcc-41130,A,Compositae,,Achillea,,"ptarmica",subsp.,"macrocephala","(Rupr.) Heimerl",Synonym,,L,TICA,353C687A-4825-4B8A-84E9-4C3B4D5D1B57,60439361-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","176","1884",gcc-30785
+gcc-74650,A,Compositae,,Achillea,,"ptarmica",f.,"multiplex","(Reyn.) Heimerl",Unresolved,,L,TICA,04C852E4-1A1B-441B-94F1-476A39A5BEBC,,"","","","",
+gcc-117265,A,Compositae,,Achillea,,"ptarmica",f.,"ptarmica","",Synonym,,L,TICA,FDDC74D2-6D8C-4DC6-983A-C04424AD8E6B,,"","","","",gcc-132682
+gcc-155441,A,Compositae,,Achillea,,"ptarmica",var.,"ptarmica","",Synonym,,L,TICA,B0BAC17F-23E1-4481-ABEF-D8782E6734A4,,"","","","",gcc-132682
+gcc-57531,A,Compositae,,Achillea,,"ptarmica",subsp.,"ptarmica","",Synonym,,L,TICA,A45A316E-030D-4A0E-956F-870D2A04D596,,"","","","",gcc-132682
+gcc-55806,A,Compositae,,Achillea,,"ptarmica",subsp.,"pyrenaica","(Godr.) Heimerl",Synonym,,L,TICA,CC61F834-5305-4BC8-BD53-7901EB5AE469,60439357-2,"""Heimerl in Denkschr. Kaiserl. Akad. Wiss., Math.-Naturwiss. Kl. 48. 1884.""","","174","1884",gcc-96224
+gcc-4606,A,Compositae,,Achillea,,"ptarmica",var.,"vulgaris","Heimerl",Synonym,,L,TICA,03B3A6E8-2698-4E19-AB62-0893505D56EA,60439359-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","174","1884",gcc-132682
+gcc-133336,A,Compositae,,Achillea,,"ptarmicifolia",,"","(Willd.) Rupr. ex Heimerl",Accepted,,L,TICA,018A6C69-ACD6-4C65-8DCD-E54864B4E0BB,,"""Heimerl in Denkschr. Kaiserl. Akad Wiss., Math.-Naturwiss. Kl. 48. 1884.""","","127","1884",
+gcc-105912,A,Compositae,,Achillea,,"ptarmicoides",,"","Maxim.",Accepted,,M,TICA,ABD21868-0552-4E63-B33B-A6A2C7ED9218,174200-1,"","","154","1859",
+gcc-150754,A,Compositae,,Achillea,,"ptarmicoides",f.,"ptarmicoides","",Synonym,,L,TICA,F35522B7-96A9-45C9-97B8-759160402CAF,,"","","","",gcc-105912
+gcc-98619,A,Compositae,,Achillea,,"ptarmicoides",f.,"rosea","Nakai",Unresolved,,L,TICA,FE2B5627-3B61-4D2D-A9CD-9684761DD50B,,"","","","",gcc-99421
+gcc-121285,A,Compositae,,Achillea,,"puberula",,"","Rydb.",Synonym,,M,TICA,C67971ED-A07F-44B5-9BB9-C9769D60431B,2337-2,"N. Amer. Fl. 34","","223","1916",gcc-140712
+gcc-107484,A,Compositae,,Achillea,,"pubescens",,"","L.",Unresolved,,L,TICA,686334DE-042A-4ADB-97FA-AA25F8613D5F,,"","","","1753",
+gcc-151284,A,Compositae,,Achillea,,"pubescens",,"","Sibth. & Sm.",Unresolved,,L,TICA,F4B732A3-0D6F-478D-86B2-814FA550CB4D,174203-1,"Fl. Graec. t. 895","","895","",
+gcc-38347,A,Compositae,,Achillea,,"pubescens",,"","Willd.",Synonym,,M,TICA,6AC04FB9-9DCE-4FBA-96A4-4722A345ADC9,,"","","","1803",gcc-48678
+gcc-93747,A,Compositae,,Achillea,,"pubescens",,"","Lindl.",Synonym,,M,TICA,27150641-9034-4BA3-84A8-8B5EDC1B4988,,"Fl. Graec.: t. 895 (1839)","","t. 895","1839",gcc-156704
+gcc-92935,A,Compositae,,Achillea,,"pulchra",,"","Koidz.",Synonym,,M,TICA,B3EE26C2-CE56-4547-B3F1-89B00F594049,174205-1,"","","59","1918",gcc-71776
+gcc-124566,A,Compositae,,Achillea,,"pumila",,"","Schur",Synonym,,M,TICA,0273E30B-BFB1-42AB-8DCE-D1040751767B,174206-1,"","","330","1866",gcc-140712
+gcc-101070,A,Compositae,,Achillea,,"punctata",,"","Ten.",Unresolved,,L,TICA,B0F8EF48-ED07-43C6-8F98-9C024223F62B,,"","","","1811",
+gcc-2708,A,Compositae,,Achillea,,"punctata",,"","Ten. ex Fenzl",Unresolved,,L,TICA,4D1159A1-5B59-44A9-93D4-04F731D6BF1B,174208-1,"""Asie Min., Bot. (P.A. Tchichatscheff) ii. 264""","","264","1860",
+gcc-4457,A,Compositae,,Achillea,,"punctata",,"","Moench",Synonym,,M,TICA,2BE5CEDE-2ED8-4445-AEBD-0849478C9D4C,174207-1,"","","603","1794",gcc-132612
+gcc-78547,A,Compositae,,Achillea,,"punctata",,"","Ten. ex Tchich.",Synonym,,M,TICA,0B31D933-6E4C-4E31-B3BF-69659236619E,,"""Asie Min., Bot. 2: 264 (1860)""","","264","1860",gcc-48678
+gcc-120200,A,Compositae,,Achillea,,"purpurea",,"","Herb. ex Colla",Unresolved,,L,TICA,9E6FDD30-852D-4B55-879D-C6F26DB228A3,174210-1,"","","462","1834",
+gcc-15197,A,Compositae,,Achillea,,"pyrenaica",,"","Sibth. ex DC.",Synonym,Invalid,M,TICA,E57DBC27-1DC2-4F23-9640-1C207A8675B5,,"","","","1805",gcc-96224
+gcc-96224,A,Compositae,,Achillea,,"pyrenaica",,"","Sibth. ex Godr.",Accepted,,M,TICA,8BC46FF4-F61D-46C3-A1B4-910BBC07A39E,,"","","166","",
+gcc-141632,A,Compositae,,Achillea,,"ramosissima",,"","Moench",Synonym,,M,TICA,AD4C02A5-7B4C-4BBA-9F34-F7D47B4B9CAE,174212-1,"","","256","1802",gcc-132612
+gcc-103747,A,Compositae,,Achillea,,"recurvifolia",,"","Lapeyr.",Synonym,,M,TICA,5CE35C1B-C1AF-42F4-8B1D-A1F512C0A9F7,174213-1,"","","534","1813",gcc-126435
+gcc-119801,A,Compositae,,Achillea,×,"reichardtiana",,"","Beck",Unresolved,,L,TICA,C937C67C-BFC1-4D9F-85BF-C5FF4B53B94F,,"","","","1878",
+gcc-99421,A,Compositae,,Achillea,,"rhodoptarmica",,"","Nakai",Accepted,,L,TICA,CC73121B-415D-4C19-9623-985267E97F74,,"","","","1920",
+gcc-146092,A,Compositae,,Achillea,,"rhodoptarmica",var.,"rhodoptarmica","",Synonym,,L,TICA,41361365-EA7A-45B4-8A80-1132838DDF45,,"","","","",gcc-99421
+gcc-29452,A,Compositae,,Achillea,,"rhodoptarmica",var.,"rosea","(Nakai) H.S.Pak",Synonym,,L,TICA,B21312FC-0B4D-48E9-B42F-367123CDEFB5,20010818-1,"Fl. Coreana 7","","140","1999",gcc-99421
+gcc-106231,A,Compositae,,Achillea,,"rigida",,"","Wallr.",Unresolved,,L,TICA,E0E6D6E9-1C81-4285-A143-A74D25BCB3F2,174216-1,"","","331","1840",
+gcc-858,A,Compositae,,Achillea,,"romanica",,"","Prodan",Unresolved,,L,TICA,41BCA8AB-E957-4381-B039-019D4E40BC11,,"","","","1916",
+gcc-90075,A,Compositae,,Achillea,,"rompelii",,"","Murr",Unresolved,,L,TICA,F03D5A5F-063D-497B-B0A9-832741839BB6,174218-1,"","","2","1912",
+gcc-100705,A,Compositae,,Achillea,,"rosea",,"","Desf.",Synonym,,M,TICA,4E4C1A46-C1EE-4686-B5C8-9B3BEC6E8FEA,,"""Tabl. École Bot. 105; ed. 3, 181 (1829)""","","181","",gcc-140712
+gcc-113832,A,Compositae,,Achillea,,"rosea",,"","Waldst. & Kit.",Unresolved,,L,TICA,BA50E4E5-FE2C-4092-809C-B880537AC51B,174219-1,"","","","",
+gcc-122421,A,Compositae,,Achillea,,"rosea",,"","Desf. ex Poir.",Synonym,Illegitimate,M,TICA,9D8BA64D-3547-40B3-8821-CBF8916D5078,,"""Encycl., Suppl. 1: 101 (1810)""","","101","1810",gcc-45689
+gcc-130562,A,Compositae,,Achillea,,"roseo-alba",,"","Ehrend.",Accepted,,M,TICA,CD1C514F-86A5-4396-A7FD-DED96667D908,174221-1,"","","368","1959",
+gcc-153426,A,Compositae,,Achillea,,"roseo-alba",f.,"roseo-alba","",Synonym,,L,TICA,7203FA19-5B1A-4AB0-A276-AE59EDD338DE,,"","","","",gcc-130562
+gcc-83036,A,Compositae,,Achillea,,"roseo-alba",f.,"violacea","Morariu & G.Nedelcu",Synonym,,L,TICA,59B66006-9303-4589-A7DF-73661B173438,876373-1,"","","123","1978",gcc-130562
+gcc-93124,A,Compositae,,Achillea,,"rosmarinifolia",,"","Sch.Bip.",Unresolved,,L,TICA,D5DE152F-9F12-4A6A-9CA6-8A0F3CDADEBD,,"","","","1855",
+gcc-79701,A,Compositae,,Achillea,,"rozaliae",,"","Prodan",Unresolved,,L,TICA,F041DFCC-4743-4DC3-99A1-6BFA6ACC6759,,"","","","1931",
+gcc-99405,A,Compositae,,Achillea,,"rubra",,"","Hildebr. ex Steud.",Synonym,Invalid,M,TICA,DF37D74E-AC71-4028-9CEA-984B6C8704FE,174224-1,"","","11","1840",gcc-67766
+gcc-109416,A,Compositae,,Achillea,,"rupestris",,"","Huter ex Beck",Unresolved,,L,TICA,F617C3E8-0746-4C32-B909-AE9A58FBF4B2,,"","","","1882",
+gcc-123506,A,Compositae,,Achillea,,"rupestris",,"","Huter & al.",Accepted,,M,TICA,92926521-A6A7-4081-9FF4-CE7CCE2878A8,60454837-2,"""Huter & al., It. Ital. 3: [in schedis] No. 467. 1878; Porta in Nuovo Giorn. Bot. Ital. 11. 1878.""","","[in schedis] No. 467","1878",
+gcc-9382,A,Compositae,,Achillea,,"rupestris",,"","Porta",Synonym,,M,TICA,8B3C3EB1-0FD3-476C-942D-1185507EE1DC,,"","","","1879",gcc-55375
+gcc-42204,A,Compositae,,Achillea,,"rupestris",subsp.,"calcarea","(""Huter, Porta & Rigo"") Greuter",Accepted,,L,TICA,6F75B44F-84F1-46EA-8155-4E30D7FA3849,70028963-1,"","","39","2003",
+gcc-28276,A,Compositae,,Achillea,,"rupestris",subsp.,"lucana","(Pignatti) Greuter",Accepted,,L,TICA,D856AF70-CB3F-41B4-BAAF-343CAF9661CA,70028964-1,"","","39","2003",
+gcc-30033,A,Compositae,,Achillea,,"rupestris",subsp.,"rupestris","",Synonym,,L,TICA,246E1E46-A8DB-45C1-92C9-3792B4F00BEA,,"","","","",gcc-123506
+gcc-117883,A,Compositae,,Achillea,,"ruscinonensis",,"","Rouy",Unresolved,,L,TICA,CB8C0E4A-C069-4019-8F9B-C1A5E38CC499,174227-1,"","","251","1903",
+gcc-25610,A,Compositae,,Achillea,,"sachokiana",,"","Sosn.",Synonym,,L,TICA,30F8F58B-3463-417B-ACC0-2F4D093C360C,174228-1,"","","46","1933",gcc-133336
+gcc-88733,A,Compositae,,Achillea,,"sahandica",,"","Turrill",Unresolved,,L,TICA,679DC83D-818E-4E44-8BC4-801E609A91C0,174229-1,"","","396","1930",
+gcc-133895,A,Compositae,,Achillea,,"salicifolia",,"","Besser",Accepted,,L,TICA,8FBA9938-AECA-425E-BDE0-E6903E3B7410,,"","","","1812",
+gcc-59956,A,Compositae,,Achillea,,"salicifolia",var.,"crenatissima","Dabrowska",Synonym,,L,TICA,F12B3387-3DDE-4C0B-9DEC-9A9B9F77BF07,916745-1,"""Acta Univ. Wratislav., Prace Bot. 24: 46 (1982)""","","46","1982",gcc-133895
+gcc-146359,A,Compositae,,Achillea,,"salicifolia",subsp.,"salicifolia","",Synonym,,L,TICA,88F2F16C-0839-43F3-B75A-170194790377,,"","","","",gcc-133895
+gcc-156489,A,Compositae,,Achillea,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,3F3C3766-96CC-476A-A5DB-EDFD7933B33C,,"","","","",gcc-133895
+gcc-51663,A,Compositae,,Achillea,,"salicifolia",subsp.,"septentrionalis","(Serg.) Uotila",Accepted,,L,TICA,7AAA97B1-A1F8-4CDF-B7AD-5FCF47861382,,"Ann. Bot. Fenn. 16(4)","","381","1979",
+gcc-13679,A,Compositae,,Achillea,,"salicifolia",var.,"subsalicifolia","Dabrowska",Synonym,,L,TICA,6974F731-443F-4EC0-B593-1973C1013113,916746-1,"""Acta Univ. Wratislav., Prace Bot. 24: 46 (1982)""","","46","1982",gcc-133895
+gcc-117336,A,Compositae,,Achillea,,"salina",,"","Schur",Synonym,,M,TICA,D905CA64-1828-4F82-8129-C0748C75F2D3,174231-1,"","","328","1866",gcc-109561
+gcc-132860,A,Compositae,,Achillea,,"salsuginea",,"","Bornm.",Synonym,,M,TICA,6878DD38-06CE-4D8E-89A8-E442B9E29DC5,,"","","","1907",gcc-105919
+gcc-109584,A,Compositae,,Achillea,,"sambucifolia",,"","Desf.",Synonym,,M,TICA,5FB5641B-DD47-497C-940C-AEFDD5A7E3C2,174233-1,"","","180","1829",gcc-124075
+gcc-11019,A,Compositae,,Achillea,,"sambucifolia",,"","C.C.Gmel.",Synonym,,M,TICA,3C6D8B22-D195-4F09-83BB-14997D53B3B0,927569-1,"","","3","1811",gcc-124075
+gcc-35011,A,Compositae,,Achillea,,"sambucina",,"","Thouin ex DC.",Unresolved,,L,TICA,C2D5D178-CE12-481F-BC23-40EB882F3603,174234-1,"Prodr. (DC.) 6: 58","","58","1838",
+gcc-104671,A,Compositae,,Achillea,,"santolina",,"","Sibth. & Sm.",Unresolved,,L,TICA,2070104D-61D2-40D1-8E72-A3F7694D48EA,174239-1,"Fl. Graec. ix. 70.","","ix. 70","",
+gcc-116553,A,Compositae,,Achillea,,"santolina",,"","Lindl.",Synonym,,M,TICA,911E58A5-4F38-4F3B-9F1F-BEADA7977CB2,,"Fl. Graec. 9: 70 (1839)","","70","1839",gcc-117699
+gcc-119709,A,Compositae,,Achillea,,"santolina",,"","Falk",Unresolved,,L,TICA,510F7ABE-D9FB-472B-9DC6-C5CB148FB9E0,174240-1,"Beitr. ii. 243.","","ii. 243","",
+gcc-126211,A,Compositae,,Achillea,,"santolina",,"","C.A.Mey.",Synonym,Illegitimate,M,TICA,0B5C9937-6CED-4EC8-BAB3-D4D20B2DA804,174238-1,"","","76","1831",gcc-610
+gcc-15784,A,Compositae,,Achillea,,"santolina",,"","L.",Synonym,,M,TICA,340F074E-D149-4746-B9EF-1D3BD753BC37,174235-1,"","","896","1753",gcc-93656
+gcc-48304,A,Compositae,,Achillea,,"santolina",,"","Hort. ex Willd.",Synonym,Illegitimate,M,TICA,5B8CD915-BAD3-4267-9E5F-59838BF49EFF,,"","","","1803",gcc-20389
+gcc-129321,A,Compositae,,Achillea,,"santolinoides",,"","Lag.",Accepted,,M,TICA,5023817B-EDE7-4823-A591-DC00A1069E6B,174241-1,"","","30","1816",
+gcc-65945,A,Compositae,,Achillea,,"santolinoides",subsp.,"santolinoides","",Synonym,,L,TICA,CEFFA175-13B5-48D7-9412-CAE3784C29CC,,"","","","",gcc-129321
+gcc-46697,A,Compositae,,Achillea,,"santolinoides",subsp.,"wilhelmsii","(K.Koch) Greuter",Accepted,,L,TICA,D310C059-F44D-45E3-970A-568D0CF17D48,70028965-1,"","","39","2003",
+gcc-10681,A,Compositae,,Achillea,,"scabra",,"","Host",Synonym,,M,TICA,01160997-2F3B-4A05-9439-13F7F281A213,,"","","","1831",gcc-45689
+gcc-110444,A,Compositae,,Achillea,,"schischkinii",,"","Sosn. ex Grossh.",Unresolved,,L,TICA,036F2B62-57E7-42C1-BD01-B0E945428642,174243-1,"""Fl. Kavkaza, iv. 123 (1934).""","","iv. 123","1934",
+gcc-43841,A,Compositae,,Achillea,,"schischkinii",,"","Sosn.",Accepted,,M,TICA,5DA04FF2-1E67-4CE7-AA6A-513B8D9328D1,,"","","146","1921",
+gcc-127185,A,Compositae,,Achillea,,"schkuhrii",,"","Spreng. ex Nyman",Synonym,,M,TICA,C02FD1D2-9CF7-4D0A-8F20-D710B074D752,174244-1,"","","367","1879",gcc-48678
+gcc-113281,A,Compositae,,Achillea,,"schmakovii",,"","Kupr.",Accepted,,M,TICA,FCEEBE71-3E0E-4908-A4F5-B748AC56186F,20005697-1,"","","84","1995",
+gcc-113116,A,Compositae,,Achillea,,"schneideri",,"","Rouy",Accepted,,M,TICA,F857A051-3C96-4BF7-9A62-B6EC274D7D3A,,"","","","1903",
+gcc-98859,A,Compositae,,Achillea,×,"schreineri",,"","Sünd.",Unresolved,,L,TICA,C37D369D-E17F-42B1-B63D-970B2E560F06,174246-1,"","","22","1925",
+gcc-32398,A,Compositae,,Achillea,×,"schroeteri",,"","Wolf",Unresolved,,L,TICA,4F5FD2CC-B6DC-4EEB-BDFD-3C0ECBC560BB,174247-1,"","","","1890",
+gcc-4462,A,Compositae,,Achillea,,"schugnanica",,"","C.Winkl.",Accepted,,M,TICA,714B9F5A-256E-476B-9269-084B6C4F6C44,174248-1,"","","164","1889",
+gcc-6064,A,Compositae,,Achillea,,"schurii",,"","Sch.Bip.",Synonym,,M,TICA,ACB62A1A-23C2-4191-8F4F-0B47810C4595,174249-1,"Oesterr. Bot. Wochenbl. 6","","300","1856",gcc-71970
+gcc-22244,A,Compositae,,Achillea,,"sedelmeyeriana",,"","Sosn.",Accepted,,M,TICA,12A3CFDD-EAF3-49DA-88B7-2925BDC0C942,174250-1,"","","7","1928",
+gcc-115065,A,Compositae,,Achillea,,"seidlii",,"","J.Presl & C.Presl",Accepted,,M,TICA,7A26F255-1A9B-4A89-A6FE-BB4493C32A00,174251-1,"","","173","1819",
+gcc-79684,A,Compositae,,Achillea,,"semipectinata",,"","Desf.",Synonym,,M,TICA,C7CEC3DE-530D-4437-A1C1-6BF0824B1B5D,174252-1,"","","403","1829",gcc-99550
+gcc-95811,A,Compositae,,Achillea,,"senecioniflora",,"","Vest",Synonym,,M,TICA,FE111E4F-E79F-48F2-AC63-9035ADB29D3C,,"","","","1829",gcc-67766
+gcc-111151,A,Compositae,,Achillea,,"sensissima",,"","O.Schwarz ex O.Schwarz ex Bessler",Unresolved,,L,TICA,93E27BCC-CC72-4370-A6E5-B27C6E88B89F,,"","","","",
+gcc-125718,A,Compositae,,Achillea,,"septentrionalis",,"","(Serg.) Botsch.",Synonym,,M,TICA,34697D2E-1467-4B0C-AE94-D3AC6B749BC0,174254-1,"","","115","1961",gcc-51663
+gcc-76219,A,Compositae,,Achillea,,"serbanii",,"","Prodan",Unresolved,,L,TICA,5073A867-CAF9-43E5-9544-643686C9DB59,,"","","","1931",
+gcc-14488,A,Compositae,,Achillea,,"serbica",,"","Nyman",Synonym,,M,TICA,D39A746F-7C2B-4B6F-BFD1-1AE2B02B80C1,,"Consp. Fl. Eur.: 364 (1879)","","364","1879",gcc-54296
+gcc-94176,A,Compositae,,Achillea,,"serbica",,"","(Nyman) Petrovič",Synonym,,M,TICA,28EE3F63-EE08-4F88-983E-8C63C7E7706F,,"","","102","",gcc-54296
+gcc-134844,A,Compositae,,Achillea,,"sergievskiana",,"","Shaulo & Shmakov",Accepted,,M,TICA,656A41F0-EE0C-4FD1-8F3D-E8ABCAAD6431,20011602-1,"Turczaninowia 5(4)","","8","2002",
+gcc-113708,A,Compositae,,Achillea,,"sericea",,"","Vis. ex Rchb.",Synonym,,M,TICA,21F82745-0D9F-4066-B840-B83C891178AF,,"","","228","1831",gcc-105259
+gcc-118974,A,Compositae,,Achillea,,"sericea",,"","Janka",Synonym,,M,TICA,F6A63444-176C-4705-84FC-C43316A2748C,,"Linnaea 30","","579","",gcc-134443
+gcc-121473,A,Compositae,,Achillea,,"serrata",,"","Sm.",Synonym,,M,TICA,1ED67C20-00AB-4FA0-979F-C9E2161E8D50,174260-1,"","","t. 2531","1813",gcc-13262
+gcc-17241,A,Compositae,,Achillea,,"serrata",,"","Retz.",Unresolved,,L,TICA,66376F80-CCBD-4B45-9409-1FE293ABE610,,"","","","1781",
+gcc-4178,A,Compositae,,Achillea,,"serratifolia",,"","Salisb.",Synonym,,M,TICA,98B297F2-EEC9-4893-AF89-07C69F6196C8,174262-1,"","","204","1796",gcc-13262
+gcc-3966,A,Compositae,,Achillea,,"serrulata",,"","Hornem.",Synonym,,M,TICA,2B3B8E1C-1950-40A4-BE90-075BF242ABD2,,"","","","1813",gcc-132682
+gcc-109561,A,Compositae,,Achillea,,"setacea",,"","Waldst. & Kit.",Accepted,,M,TICA,A5B7B985-F9D2-4E9B-9E07-AEF148C6C51E,,"","","82","1802",
+gcc-6352,A,Compositae,,Achillea,,"setacea",,"","Schwein.",Synonym,,M,TICA,CB099B6C-62F1-4F92-BCD9-0BD15D004099,174264-1,"Exped. 2: 119","","119","",gcc-140712
+gcc-87943,A,Compositae,,Achillea,,"setacea",,"","Hegetschw.",Unresolved,,L,TICA,07F9D820-C1E2-4B38-A20E-7E52DF1AC2FA,174266-1,"","","847","",
+gcc-99554,A,Compositae,,Achillea,,"setacea",,"","Sultwein.",Unresolved,,L,TICA,E5697FDC-AB08-49DD-A37B-9895EF8AD712,,"""in Long, Exped. ii. 119.""","","ii. 119","",
+gcc-29871,A,Compositae,,Achillea,,"setacea",subsp.,"asiatica","(Serg.) Vorosch.",Synonym,,L,TICA,84EB9905-1252-4ACD-8372-373BCB2EB123,987826-1,"","","195","1985",gcc-35273
+gcc-72343,A,Compositae,,Achillea,,"setacea",var.,"brevifolia","Rochel",Synonym,,L,TICA,1AD247BC-8DA0-42A0-838A-FD3DEE11EB55,,"Pl. Banat. Rar.: 71 (1828)","","71","1828",gcc-109561
+gcc-56839,A,Compositae,,Achillea,,"setacea",subsp.,"dolopica","Freyn & Sint.",Synonym,,L,TICA,75438859-5BE1-4826-A407-81956CD1F423,,"Bull. Herb. Boissier 5: 626 (1897)","","626","1897",gcc-109561
+gcc-56772,A,Compositae,,Achillea,,"setacea",var.,"filifolia","Boiss.",Synonym,,L,TICA,8FAB1274-136D-41E4-8BAF-810C730CE9D8,,"""Fl. Orient., Suppl.: 295 (1888)""","","295","1888",gcc-96275
+gcc-71002,A,Compositae,,Achillea,,"setacea",var.,"salina","Schur",Synonym,,L,TICA,92F97906-9231-4D60-A0E6-F29D59538748,,"Enum. Pl. Transsilv.: 328 (1866)","","328","1866",gcc-109561
+gcc-149743,A,Compositae,,Achillea,,"setacea",var.,"setacea","",Synonym,,L,TICA,F0F20FB6-9673-49F1-8F14-5F5A643528F6,,"","","","",gcc-99554
+gcc-153809,A,Compositae,,Achillea,,"setacea",subsp.,"setacea","",Synonym,,L,TICA,E0230B4D-416E-4886-BBED-B5BA3B0BB387,,"","","","",gcc-99554
+gcc-38477,A,Compositae,,Achillea,,"shepardii",,"","Post",Synonym,,M,TICA,581D8D11-AE75-43D7-AABB-47621A336096,174267-1,"""J. Linn. Soc., Bot. xxiv. (1888) 433.""","","433","1888",gcc-65607
+gcc-125087,A,Compositae,,Achillea,,"shishkinii",,"","Sosn.",Unresolved,,L,TICA,0EC0EB00-91F0-457E-8FA3-D243D4EE7387,174268-1,"in Journ. Russe Bot. vi. 146 (1921).","","vi. 146","1921",
+gcc-107549,A,Compositae,,Achillea,,"sibirica",,"","Ledeb. ex Pavlov",Unresolved,,L,TICA,B905D63B-C906-4E17-A735-AA4FC3976625,,"""in Bull. Soc. Nat. Mosc., Sect. Biol., n. s., xxxviii. 138 (1929).""","","xxxviii. 138","1929",
+gcc-123681,A,Compositae,,Achillea,,"sibirica",,"","Ledeb.",Synonym,,M,TICA,2C8E0818-6340-4457-8BD9-CEE3CD7CCA94,1049103-2,"Index Sem. Hort. Dorpat. [textus s.n.]. 1811","","[textus s.n.]","1811",gcc-132612
+gcc-24623,A,Compositae,,Achillea,,"sibirica",,"","Desf. ex Colla",Unresolved,,L,TICA,37C3782C-4A6A-429D-A132-2D7BCFE88BE3,329335-2,"","","461","1834",
+gcc-68738,A,Compositae,,Achillea,,"sibirica",subsp.,"camtschatica","Heimerl",Synonym,,L,TICA,75F271F7-8809-49CF-A81F-E11626FFD73A,60439355-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","189","1884",gcc-9399
+gcc-14616,A,Compositae,,Achillea,,"sibirica",var.,"discoidea","Regel",Synonym,,L,TICA,6BCF2352-DD57-4EF5-AB31-1B20BA0CC11F,,"Mém. Acad. Sci. St.-Pét. 7: 87 (1861)","","87","1861",gcc-62728
+gcc-52271,A,Compositae,,Achillea,,"sibirica",subsp.,"japonica","(Sch.Bip.) Heimerl",Synonym,,L,TICA,AD22A3E6-554A-4310-B565-60F18271A13A,60439426-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","190","1884",gcc-39494
+gcc-2173,A,Compositae,,Achillea,,"sibirica",subsp.,"mongolica","(Fisch. ex Spreng.) Heimerl",Synonym,,L,TICA,60B3C3E5-C071-42A1-B3D4-03E899DD43A9,60439354-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","188","1884",gcc-132612
+gcc-59370,A,Compositae,,Achillea,,"sibirica",var.,"ptarmicoides","(Maxim.) Makino",Synonym,,L,TICA,8EA8F023-A063-43B2-A768-95F078A8625A,,"Botanical Magazine 25(293):","","155","1911",gcc-105912
+gcc-70257,A,Compositae,,Achillea,,"sibirica",subsp.,"ptarmicoides","(Maxim.) Heimerl",Synonym,,L,TICA,9503E4F1-4625-4571-95AD-ECAC9B186C37,60439353-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","189","1884",gcc-105912
+gcc-155629,A,Compositae,,Achillea,,"sibirica",var.,"sibirica","",Synonym,,L,TICA,650CC7F3-77F2-40D7-B1F2-DC291DD00997,,"","","","",gcc-132612
+gcc-67751,A,Compositae,,Achillea,,"sibirica",subsp.,"subcartilaginea","Heimerl",Synonym,,L,TICA,2442CB19-9ABE-4099-81E4-D9B37E3AAF30,60439352-2,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48""","","188","1884",gcc-68624
+gcc-69511,A,Compositae,,Achillea,,"sibirica",subsp.,"wilsoniana","Heimerl ex Hand.-Mazz.",Synonym,,L,TICA,2B6304AC-043E-4EAE-BCDE-E6FB887B2AAD,,"""Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftlichen Classe, Abteilung 1 61:""","","22","1924",gcc-46072
+gcc-86615,A,Compositae,,Achillea,,"sicula",,"","Raf.",Synonym,,M,TICA,A7BE8B1C-8DA1-4034-850E-7B50D3889D8D,174272-1,"","","40","1814",gcc-131521
+gcc-144188,A,Compositae,,Achillea,,"siegfriedii",,"","Brügger",Unresolved,,L,TICA,1813F5C4-9483-4F7B-BC55-FD8CA846E3BC,,"","","","1880",
+gcc-105919,A,Compositae,,Achillea,,"sieheana",,"","Stapf",Accepted,,M,TICA,2E64EB93-3A4F-4E5C-B449-A6A7F0C8A2B5,174274-1,"","","73","1906",
+gcc-40412,A,Compositae,,Achillea,,"silvatica",,"","Auct.",Unresolved,,L,TICA,481B43EA-8933-4B1E-B1F0-4AE6579D438B,,"not _stated.","","_stated","",
+gcc-80718,A,Compositae,,Achillea,×,"similis",,"","Sünd.",Unresolved,,L,TICA,FD2FAD62-0680-4CFE-ADEC-6E2D496FEF01,174276-1,"","","91","1906",
+gcc-80000,A,Compositae,,Achillea,,"simplicicaulis",,"","Boiss.",Synonym,,M,TICA,89297692-AF5A-406F-AED6-6CA112F81783,174277-1,"","","259","1875",gcc-22147
+gcc-138312,A,Compositae,,Achillea,,"sinensis",,"","Heimerl",Accepted,,M,TICA,C12439BF-145A-4EBD-89C0-F05006F04C6E,,"","","254","1938",
+gcc-38067,A,Compositae,,Achillea,,"sintenisii",,"","Hub.-Mor.",Accepted,,M,TICA,8B734EEB-8173-4572-8C0A-469BF27C92BA,174279-1,"","","210","1974",
+gcc-125580,A,Compositae,,Achillea,,"sipikorensis",,"","Hausskn. & Bornm.",Accepted,,M,TICA,F37C24F4-77EE-4FF9-8B15-D36134DD2EAF,174280-1,"Notizbl. Bot. Gart. Berlin-Dahlem 7","","160","1917",
+gcc-92798,A,Compositae,,Achillea,,"sipylea",,"","O.Schwarz",Synonym,,L,TICA,6B3BB4E3-BECE-481E-9BF0-89674C5C3946,174281-1,"Repert. Spec. Nov. Regni Veg. 36","","143","1934",gcc-69819
+gcc-78131,A,Compositae,,Achillea,,"siwasiana",,"","Bornm.",Unresolved,,L,TICA,A920F213-7F46-4E14-A51B-686BF2424A4A,174282-1,"Repert. Spec. Nov. Regni Veg. Beih. 89","","332","1944",
+gcc-79826,A,Compositae,,Achillea,,"smithii",,"","Hayek",Synonym,,M,TICA,976A0609-58E3-4BA5-8DD2-6C40C7B0BA3F,174283-1,"Repert. Spec. Nov. Regni Veg. Beih. 30(2)","","644","1931",gcc-87582
+gcc-128826,A,Compositae,,Achillea,,"sordida",,"","(W.D.J.Koch) Dalla Torre & Sarnth.",Synonym,,M,TICA,138814B2-A32E-4244-B462-DAE78FF87632,,"","","","1912",gcc-140712
+gcc-163,A,Compositae,,Achillea,,"speciosa",,"","Hayek",Synonym,,M,TICA,46F46747-2FDB-4DBA-B990-004BAD80AA2B,,"","","","",gcc-102603
+gcc-24396,A,Compositae,,Achillea,,"speciosa",,"","Henckel",Synonym,,L,TICA,F4994532-94E4-453F-B567-2D10405333FD,174285-1,"","","1","1806",gcc-133895
+gcc-118952,A,Compositae,,Achillea,,"sphaciotica",,"","Rikli",Synonym,,M,TICA,B76716AA-A130-487A-85D1-C425F23E3940,,"Rikli in Vierteljahrsschr. Naturf. Ges. Zürich 68. 1923.","","140","1923",gcc-117699
+gcc-115337,A,Compositae,,Achillea,,"spinosa",,"","Schur",Unresolved,,L,TICA,15A9649C-F985-4DFA-AAAC-BBEAD7F7905E,,"","","","1859",
+gcc-123673,A,Compositae,,Achillea,,"spinulifolia",,"","Fenzl ex Boiss.",Accepted,,M,TICA,A51FB4B9-1AF8-4A53-AF29-CEE0F10A6ED5,,"","","268","1875",
+gcc-136954,A,Compositae,,Achillea,,"spinulifolia",,"","Fenzl ex Tchich.",Unresolved,,L,TICA,FE0C37BB-386E-4D9D-BC3A-ED6792276E64,174288-1,"""Asie Min., Bot. (P.A. Tchichatscheff) ii. 268.""","","268","1860",
+gcc-125200,A,Compositae,,Achillea,,"spinulosa",,"","Schur ex Heimerl",Synonym,,M,TICA,BC5EF9DB-1E2E-4DAB-BB39-D2822F76C96A,,"","","","1884",gcc-143679
+gcc-91563,A,Compositae,,Achillea,,"spithamea",,"","Coss. & Durieu ex Coss.",Synonym,,M,TICA,DAF220CE-E60B-40A8-920C-86A6D094CC6E,,"","","","1854",gcc-24987
+gcc-52576,A,Compositae,,Achillea,,"spithamea",var.,"major","Batt.",Synonym,,L,TICA,C834E5E8-E71C-47C8-A27A-61741E7637CB,,"","","","",gcc-24987
+gcc-152965,A,Compositae,,Achillea,,"spithamea",var.,"spithamea","",Synonym,,L,TICA,2AE2185D-5E16-4BC4-9509-A4693139D9BB,,"","","","",gcc-24987
+gcc-1051,A,Compositae,,Achillea,,"sprengeliana",,"","Huber",Unresolved,,L,TICA,365BA4F0-79D8-413C-B722-01EC68A34DF0,928149-1,"","","455","1876",
+gcc-111467,A,Compositae,,Achillea,,"squarrosa",,"","Aiton",Accepted,,M,TICA,0EFC8045-8E78-4105-8C7D-B32FECB6876D,174292-1,"Hortus Kew. (W. Aiton) 3: 242 (sp dubia)","","242","1789",
+gcc-126696,A,Compositae,,Achillea,,"squarrosa",,"","Koord.",Unresolved,Illegitimate,L,TICA,62864A5E-642C-46BA-BD39-D5E24E48864E,,"","","","",
+gcc-139472,A,Compositae,,Achillea,,"squarrosa",,"","Hassk.",Synonym,Illegitimate,M,TICA,6506FF65-3755-4182-836D-F2D08342FD7D,174291-1,"","","101","1844",gcc-132612
+gcc-50155,A,Compositae,,Achillea,,"stepposa",,"","Klokov & Krytzka",Accepted,,M,TICA,91EF7EC3-A054-4C2C-B1AF-5CF8929C6099,,"""Klokov & Krytzka in Sytin, Tysjacelistniki. 1984.""","","240","1984",
+gcc-10939,A,Compositae,,Achillea,,"stojanoffii",,"","Prodan",Unresolved,,L,TICA,77EBB667-EA6A-4BBC-BB84-1471CEAFD25F,,"","","48","1930",
+gcc-7920,A,Compositae,,Achillea,,"striata",,"","Formánek",Unresolved,,L,TICA,F397F566-FA23-436E-9BD9-0EBFCF8A7E70,,"","","296","1896",
+gcc-130955,A,Compositae,,Achillea,,"stricta",,"","Schleich. ex Koch",Unresolved,,L,TICA,217AF55F-2F61-482D-8BE1-DFC39070AA05,,"Syn. Fl. Germ. Helv. (Koch) 1(2): 374","","374","1837",
+gcc-78687,A,Compositae,,Achillea,,"stricta",,"","Schleich. ex Gremli",Synonym,,M,TICA,20107BA1-366E-40C1-B1E5-69B02A60D1A5,,"","","236","1881",gcc-63590
+tro-100372953,A,Compositae,,Achillea,,"stricta",,"","Schleich. ex Heimerl",Synonym,,M,TRO,100372953,,"Sched. Fl. Exs. Austro-Hung.","3: 118","118","1884",tro-100372955
+gcc-106974,A,Compositae,,Achillea,,"strictifolia",,"","Sennen",Unresolved,,L,TICA,5DFF1244-E2E1-46C0-A510-A9073D88917A,174296-1,"""Bull. Soc. Bot. France 74: 376, nomen""","","376","1927",
+gcc-105122,A,Compositae,,Achillea,,"styriaca",,"","Saukel & Danihelka",Accepted,,M,TICA,D2E5FE73-F070-4A9A-8317-A4F0E49D5270,,"","","","",
+gcc-103183,A,Compositae,,Achillea,,"subalpina",,"","Greene",Synonym,,M,TICA,543DF636-260A-4E2E-A185-A0B0552E345D,2338-2,"Leafl. Bot. Observ. Crit. 1","","145","1905",gcc-140712
+gcc-140338,A,Compositae,,Achillea,,"subcartilaginea",,"","(Heimerl) Heimerl",Synonym,,M,TICA,4E888933-FF1D-4FA3-AFC7-F4C260F9FA10,,"","","254","1938",gcc-132612
+gcc-127607,A,Compositae,,Achillea,,"subhirsuta",,"","Gilib.",Synonym,Invalid,M,TICA,1170F2C4-BFE1-4326-A767-D80D19DB418B,,"","","","1782",gcc-140712
+gcc-77645,A,Compositae,,Achillea,×,"submicrantha",,"","Tzvelev",Accepted,,M,TICA,6CE1EDFE-AE20-4562-8CFB-675492193EBE,983359-1,"","","122","1994",
+gcc-18028,A,Compositae,,Achillea,,"submillefolium",,"","Klokov & Krytzka",Synonym,,M,TICA,D3BE4921-6165-4B7A-B9CD-214CCE1A65D8,,"""Klokov & Krytzka in Sytin, Tysjacelistniki. 1984.""","","220","1984",gcc-140712
+gcc-98109,A,Compositae,,Achillea,,"subtanacetifolia",,"","Tzvelev",Synonym,,M,TICA,F659B1F0-5783-4396-9295-956047731FCF,983363-1,"","","124","1994",gcc-67766
+gcc-126128,A,Compositae,,Achillea,×,"subtaurica",,"","Tzvelev",Accepted,,M,TICA,E24A6390-358D-487F-AF19-D4A09D43E8C6,983362-1,"","","122","1994",
+gcc-18052,A,Compositae,,Achillea,,"sudetica",,"","Opiz",Synonym,,M,TICA,D6B26B00-6F09-485B-A680-21581670CDF2,,"","","623","1813",gcc-50157
+gcc-117937,A,Compositae,,Achillea,,"sulphurea",,"","Boiss.",Synonym,,M,TICA,C03546CE-4B33-487B-A3D4-C1C2E42458A1,,"","","18","1849",gcc-3698
+gcc-30831,A,Compositae,,Achillea,,"sulphurea",var.,"macrocephala","Fenzl ex Tchich.",Synonym,,L,TICA,E4884E33-2B4C-4C3C-97C1-3914D7483D42,,"""Asie Min., Bot. 2: 268 (1860)""","","268","1860",gcc-123673
+gcc-152537,A,Compositae,,Achillea,,"sulphurea",var.,"sulphurea","",Synonym,,L,TICA,152798F0-666F-45A5-87B8-9B912C323AEA,,"","","","",gcc-3698
+gcc-123085,A,Compositae,,Achillea,,"sylvatica",,"","Becker",Synonym,,M,TICA,91E1672E-389E-4DBC-A315-CD7FD127610A,,"","","","1827",gcc-140712
+gcc-140737,A,Compositae,,Achillea,,"sylvatica",,"","Ten.",Synonym,,M,TICA,20B876BB-3104-4DE7-8D64-F5C5149C1B1D,,"","","","",gcc-131521
+gcc-10936,A,Compositae,,Achillea,,"sylvestris",,"","Gray",Synonym,,M,TICA,6B409E7A-7990-4246-8689-1470C9A1C0B9,,"","","458","1821",gcc-132682
+gcc-19041,A,Compositae,,Achillea,,"szowitzii",,"","DC.",Synonym,,M,TICA,DF5C5840-072D-4895-BDD5-232731DDDDF0,174306-1,"","","26","1838",gcc-22147
+gcc-134949,A,Compositae,,Achillea,,"talagonica",,"","Boiss.",Accepted,,M,TICA,D7330BFB-1479-47A9-93F1-E8E40FA52403,,"","","17","1849",
+gcc-58507,A,Compositae,,Achillea,,"talagonica",var.,"oxylepis","(Boiss. & Hausskn.) Hub.-Mor.",Accepted,,L,TICA,E7F0739F-C8F1-477F-BF30-8F55100568F0,952512-1,"","","59","1986",
+gcc-148282,A,Compositae,,Achillea,,"talagonica",var.,"talagonica","",Synonym,,L,TICA,0F563DE6-4869-424C-BE4E-3F7B7E57A267,,"","","","",gcc-134949
+gcc-102294,A,Compositae,,Achillea,,"tanacetifolia",,"","All.",Synonym,,M,TICA,89D48E11-7D0C-489A-A034-9EC61A39BA24,85009-3,"","","183","1785",gcc-67766
+gcc-37054,A,Compositae,,Achillea,,"tanacetifolia",,"","Mill.",Synonym,,M,TICA,CEC46241-E2AA-4DA9-9915-44A9FEC1A734,174309-1,"","","7","1768",gcc-140712
+gcc-56683,A,Compositae,,Achillea,,"tanacetifolia",subsp.,"distans","(Willd.) Gajić",Synonym,,L,TICA,436A3260-BE85-41AF-8CC8-806A8C9F8BE7,,"Gajic. 1975.","","109","1975",gcc-93527
+gcc-69947,A,Compositae,,Achillea,,"tanacetifolia",var.,"laciniata","Dabrowska",Synonym,,L,TICA,DB14A0B2-FDBA-4419-92F9-EA50E718577E,916748-1,"""Acta Univ. Wratislav., Prace Bot. 24""","","148","1982",gcc-93527
+gcc-63344,A,Compositae,,Achillea,,"tanacetifolia",subsp.,"lanata","(Nyman) Velen.",Synonym,,L,TICA,0FD6CA2E-2793-411B-8D77-B61858610E5C,,"""Velen., Fl. Bulg. 1891.""","","262","1891",gcc-93527
+gcc-57429,A,Compositae,,Achillea,,"tanacetifolia",var.,"stricta","Koch",Synonym,,L,TICA,5517ABAD-20D6-4860-A791-863B5E4E502D,,"","","","",gcc-63590
+gcc-67606,A,Compositae,,Achillea,,"tanacetifolia",subsp.,"stricta","(W.D.J.Koch) Hayek",Synonym,,L,TICA,7048CD54-3981-4202-AD3B-D8817CBEEF36,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","641","1931",gcc-63590
+gcc-146181,A,Compositae,,Achillea,,"tanacetifolia",var.,"tanacetifolia","",Synonym,,L,TICA,64F4892E-BC6D-4914-AFFA-1330BE13D6BC,,"","","","",gcc-67766
+gcc-150742,A,Compositae,,Achillea,,"tanacetifolia",subsp.,"tanacetifolia","",Synonym,,L,TICA,4326E9BA-6FF7-4CFA-BFD4-7570BD8776BD,,"","","","",gcc-67766
+gcc-92331,A,Compositae,,Achillea,,"taurica",,"","M.Bieb.",Synonym,,M,TICA,25CBEAA6-8D9B-4DFE-9E97-88553BA07B88,,"","","","1808",gcc-24987
+gcc-85180,A,Compositae,,Achillea,,"taygetea",,"","Boiss. & Heldr.",Accepted,,M,TICA,FEFD3707-47B6-41B5-AC12-781E69618BF4,,"Diagn. Pl. Orient. 11: 16 (1849)","","16","1849",
+gcc-93775,A,Compositae,,Achillea,,"tenorii",,"","Grande",Synonym,,M,TICA,E17181D5-A9AC-4883-8BF8-8B693519C6D8,174312-1,"Grande in Bull. Orto Bot. Regia Univ. Napoli 4. 1914.","","370","1914",gcc-12889
+gcc-48551,A,Compositae,,Achillea,,"tenuifolia",,"","Salisb.",Synonym,Illegitimate,M,TICA,8AEE8B9B-33B5-4941-8619-59ED3BB3039E,174313-1,"","","204","1796",gcc-140712
+gcc-93656,A,Compositae,,Achillea,,"tenuifolia",,"","Lam.",Accepted,,M,TICA,63BB69A3-41CF-41AD-BB1A-8B280CD390F7,174314-1,"","","26","1783",
+gcc-22850,A,Compositae,,Achillea,,"tenuifolia",var.,"albicaulis","(C.A.Mey.) Trautv.",Synonym,,L,TICA,ACDCDA25-7AAB-4121-9A87-2A4704D070A2,,"Trudy Imp. S.-Peterburgsk Bot. Sada 2: 546 (1873)","","546","1873",gcc-140712
+gcc-145591,A,Compositae,,Achillea,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,947E03D3-BD81-4126-8A56-070BEA1646CA,,"","","","",gcc-93656
+gcc-142138,A,Compositae,,Achillea,,"tenuis",,"","Schur",Synonym,,M,TICA,A70A0A83-92A4-4F09-9456-F8FE59070031,174315-1,"","","","1866",gcc-140712
+gcc-610,A,Compositae,,Achillea,,"teretifolia",,"","Willd.",Accepted,,M,TICA,98191A9E-4A63-4DE8-AA73-012721EBC710,174316-1,"","","2198","1803",
+gcc-36865,A,Compositae,,Achillea,,"teretifolia",var.,"leucomalla","Bornm.",Synonym,,L,TICA,7DD98E9C-D750-44E1-88BC-4451D46D6684,,"Repert. Spec. Nov. Regni Veg. Beih. 89(2): 327 (1944)","","327","1944",gcc-610
+gcc-147214,A,Compositae,,Achillea,,"teretifolia",var.,"teretifolia","",Synonym,,L,TICA,3164C4F2-9179-4BF4-93EC-28C2B9EEA3C2,,"","","","",gcc-610
+gcc-86560,A,Compositae,,Achillea,×,"thessalica",,"","J.Wagner",Unresolved,,L,TICA,B5F109D8-AA15-4439-A2A6-7B2DF8848EF7,174317-1,"Repert. Spec. Nov. Regni Veg. 38","","285","1935",
+gcc-3722,A,Compositae,,Achillea,,"thomasiana",,"","Murith",Unresolved,,L,TICA,E1BF59FD-7C62-4AF6-9BE0-06E9735904CA,,"","","","1810",
+gcc-92608,A,Compositae,,Achillea,,"thomasii",,"","thomas ex Heimerl",Unresolved,,L,TICA,5FD113E1-146C-441C-A796-88F5BBD9A903,,"","","","1884",
+gcc-124955,A,Compositae,,Achillea,,"thracica",,"","Velen.",Accepted,,M,TICA,EC95BA64-D8FE-4550-86CE-D1ED9DE471F3,174320-1,"","","264","1891",
+gcc-85432,A,Compositae,,Achillea,,"tomentella",,"","Sünd.",Unresolved,,L,TICA,BA4D7F5B-606A-411B-B931-78A5A84AA18F,174321-1,"","","91","1906",
+gcc-104647,A,Compositae,,Achillea,,"tomentosa",,"","Pall. ex Ledeb.",Synonym,,M,TICA,64350089-8644-46B3-8179-A3EAD7942E97,,"Fl. Ross. 2: 536 (1845)","","536","1845",gcc-24987
+gcc-16930,A,Compositae,,Achillea,,"tomentosa",,"","Pall.",Unresolved,,L,TICA,001491B2-6FAB-4F00-9913-1F47DFF58A4E,174324-1,"Ind. Taur. ex Ledeb. Fl. Ross. ii. 536.","","ii. 536","",
+gcc-49893,A,Compositae,,Achillea,,"tomentosa",,"","Fraas ex Nyman",Unresolved,,L,TICA,0469E3D1-2576-48C2-A126-5C7F7030B71C,174322-1,"","","368","1879",
+gcc-88797,A,Compositae,,Achillea,,"tomentosa",,"","Pursh",Synonym,Illegitimate,M,TICA,2FF8B0F8-EE03-4DF7-8012-8045271440E2,174325-1,"","","563","1813",gcc-140712
+gcc-99161,A,Compositae,,Achillea,,"tomentosa",,"","L.",Accepted,,M,TICA,EE608BEF-F31A-4583-B2BC-97BF2C261EEB,174326-1,"","","897","1753",
+gcc-98103,A,Compositae,,Achillea,,"tournefortii",,"","DC.",Synonym,,M,TICA,3F0457F6-8608-4839-B504-955BA6615D57,174327-1,"","","28","1838",gcc-21258
+gcc-135159,A,Compositae,,Achillea,,"trautmannii",,"","Stein",Unresolved,,L,TICA,12EBF9DD-5DFD-48FE-B4C8-E95B72B77E73,,"Oesterr. Bot. Z. 48: 243 (1878)","","243","1878",
+gcc-16161,A,Compositae,,Achillea,×,"trautmannii",,"","A.Kern. ex Heimerl",Unresolved,,L,TICA,7C3C35B9-2BD7-4B3B-83D6-1DE338027B5F,174328-1,"""Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 48: 180 (-181). 1884 [Aug 1884] ; Monogr. Ptarmica 68-69. Aug 1884.""","","180 (-181)","1884",
+gcc-44160,A,Compositae,,Achillea,,"travignolensis",,"","Sünd.",Unresolved,,L,TICA,E2762A39-AC3B-43E0-9992-51C6EB6847F2,174329-1,"","","57","1916",
+gcc-79908,A,Compositae,,Achillea,,"trevidiciana",,"","Sennen",Unresolved,,L,TICA,FECD483A-80E1-4745-A223-6C646C1BB52E,,"Bull. Soc. Bot. France 73","","","1927",
+gcc-106519,A,Compositae,,Achillea,,"trichophylla",,"","Schrenk",Synonym,,M,TICA,A033EF6F-1912-4439-B921-A7FB82745B4B,,"","","","1841",gcc-115906
+gcc-77078,A,Compositae,,Achillea,,"trichophylla",,"","Schrenk ex Fisch. & C.A.Mey.",Synonym,,M,TICA,605E7CFE-2B0D-42BD-A03F-660EAF1774A5,,"Enumeratio Plantarum Novarum 1:","","48","1841",gcc-115906
+gcc-85408,A,Compositae,,Achillea,,"trilingulata",,"","Sch.Bip. ex Boiss.",Synonym,,M,TICA,505B2E3D-06F9-4C61-A272-7899CE25769E,174332-1,"","","271","1875",gcc-40036
+gcc-42082,A,Compositae,,Achillea,,"tuzsonii",,"","Ujhelyi",Accepted,,M,TICA,DA5A14B5-82F1-49AC-8FDE-4DF3FD82D95B,174333-1,"Ann. Hist.-Nat. Mus. Natl. Hung. 67","","43","1975",
+gcc-80094,A,Compositae,,Achillea,×,"tymphaca",,"","Hausskn.",Unresolved,,L,TICA,6934F38D-83B3-4556-BCFF-6CD9F56D1B7D,,"","","","1889",
+gcc-75820,A,Compositae,,Achillea,,"tyrolensis",,"","Wender.",Synonym,,M,TICA,2A13E5D9-5138-4E0A-8ED7-634F4DAF8CF3,,"","","","1826",gcc-105259
+gcc-117472,A,Compositae,,Achillea,,"umbellata",,"","Sibth. & Sm.",Accepted,,M,TICA,79F4C6D2-7BF4-4379-841C-C0C0B6D8E0B7,174336-1,"Prodr. ii. 192.","","ii. 192.","",
+gcc-135416,A,Compositae,,Achillea,,"umbellata",,"","Sm.",Unresolved,,L,TICA,D78F1474-0626-4481-BF5E-E9F91A00C1D8,174336-1,"","","192","1813",
+gcc-31487,A,Compositae,,Achillea,,"umbellata",subsp.,"umbellata","",Synonym,,L,TICA,79BE2D58-0EAE-4C67-8307-3A5D74F4634B,,"","","","",gcc-117472
+gcc-129205,A,Compositae,,Achillea,,"urumoffii",,"","Halácsy",Synonym,,M,TICA,63EAE83F-C4D9-4870-9258-DBC2A7546F64,174337-1,"Oesterr. Bot. Z. 47","","143","1897",gcc-130217
+gcc-126758,A,Compositae,,Achillea,,"valesiaca",,"","Suter",Accepted,,M,TICA,E0BD4A82-4D5D-488E-82FB-D6071F3FBF63,,"","","","1822",
+gcc-127153,A,Compositae,,Achillea,,"vandasii",,"","Velen.",Unresolved,,L,TICA,263D4E14-0FAF-4531-887A-D6F74F8152A2,,"","","","1890",
+gcc-127529,A,Compositae,,Achillea,,"velutina",,"","Desf.",Synonym,,M,TICA,8707D7A0-CAE2-4ACA-BC48-D7DC9ECA8865,174340-1,"","","180","1829",gcc-134443
+gcc-39575,A,Compositae,,Achillea,,"vermicularis",,"","Trin.",Accepted,,M,TICA,4202E110-4072-47A7-8CEE-4971770A007A,,"","","494","1818",
+gcc-64511,A,Compositae,,Achillea,,"vermicularis",var.,"muschensis","(K.Koch) Boiss.",Synonym,,L,TICA,C942282C-8991-46D5-96EE-BF228A027A51,,"Fl. Orient. 3: 266 (1875)","","266","1875",gcc-39575
+gcc-152911,A,Compositae,,Achillea,,"vermicularis",var.,"vermicularis","",Synonym,,L,TICA,E239C972-4881-434D-8818-A2DC0320879C,,"","","","",gcc-39575
+gcc-78950,A,Compositae,,Achillea,,"vermiculata",,"","DC.",Synonym,,M,TICA,938D7FCD-B90F-4499-B5A8-6A61DB112947,,"","","","1838",gcc-39575
+gcc-17320,A,Compositae,,Achillea,,"veronensis",,"","Rouy",Unresolved,,L,TICA,ABAA2952-0607-4BE7-B3C6-2003D52909EB,174343-1,"","","t. 434","1903",
+gcc-88711,A,Compositae,,Achillea,,"versecensis",,"","Kit. ex Kanitz",Unresolved,,L,TICA,D32DA7C3-C01C-4EDB-981E-800F549AC13D,,"","","","1863",
+gcc-84946,A,Compositae,,Achillea,,"virescens",,"","(Fenzl) Heimerl",Accepted,,M,TICA,059391D7-F69A-467E-A384-7798036D69ED,174345-1,"","","123","1884",
+gcc-12889,A,Compositae,,Achillea,,"virescens",subsp.,"tenorei","(Grande) Bässler",Accepted,,L,TICA,AE1E1FB2-4C25-499E-98F5-18097AA79865,,"Bässler in Feddes Repert. 68. 1963.","","157","1963",
+gcc-62500,A,Compositae,,Achillea,,"virescens",subsp.,"virescens","",Synonym,,L,TICA,BD065B9C-B7B2-4E8E-8F80-AF34122B20BD,,"","","","",gcc-84946
+gcc-122792,A,Compositae,,Achillea,,"virgata",,"","Hort. ex DC.",Synonym,,M,TICA,060E36B6-C583-4610-938B-CCCF9C91E460,174346-1,"","","31","1838",gcc-140712
+gcc-97498,A,Compositae,,Achillea,,"virgata",,"","bellard. ex Colla",Unresolved,,L,TICA,0D1F1FB7-E626-4FED-BA6A-9402976B3D49,174347-1,"","","461","1834",
+gcc-140593,A,Compositae,,Achillea,,"viridis",,"","Rchb.f.",Unresolved,,L,TICA,3BE976A5-B2F2-4D45-80F4-F568C16B6D5A,,"","","","1853",
+gcc-139004,A,Compositae,,Achillea,,"viscosa",,"","Sch.Bip.",Unresolved,,L,TICA,36D171F4-326D-4416-894D-F1CB8F679A66,,"","","","1855",
+gcc-33007,A,Compositae,,Achillea,,"viscosa",,"","Lam.",Synonym,,M,TICA,5CD07265-B6D3-4B98-ABE8-3D3580A92E57,,"","","","1779",gcc-127798
+gcc-138893,A,Compositae,,Achillea,,"visianii",,"","Dalla Torre",Synonym,,M,TICA,26906BA5-AA7E-4906-9A4B-F18F1115A527,174351-1,"","","224","1899",gcc-105259
+gcc-111770,A,Compositae,,Achillea,,"wagneri",,"","Prodan",Unresolved,,L,TICA,0F1EBEF1-298B-4930-B74E-B3E2C8DC1C58,,"","","","1913",
+gcc-77785,A,Compositae,,Achillea,,"wilczekiana",,"","Vacc.",Unresolved,,L,TICA,5CFEA3D8-6FE3-414B-9C55-67A6F685C873,174354-1,"","","399","1904",
+gcc-5215,A,Compositae,,Achillea,×,"wilczekii",,"","Sünd.",Unresolved,,L,TICA,B9E14320-D387-4E91-B60A-09BEA34C68D3,174353-1,"","","91","1906",
+gcc-89416,A,Compositae,,Achillea,,"wilhelmsii",,"","K.Koch",Synonym,,M,TICA,9E80BEFA-F687-4AD9-AD21-81AAFFD5D951,174355-1,"Linnaea 24","","328","1851",gcc-46697
+gcc-33996,A,Compositae,,Achillea,,"wilhelmsii",subsp.,"santolinoides","(Lag.) Vetschera & Kästner",Unresolved,,L,TICA,FD0C2BE1-DE3B-4B7F-A5AE-3F0E2458B747,1004822-1,"","","504","1998",gcc-129321
+gcc-153359,A,Compositae,,Achillea,,"wilhelmsii",subsp.,"wilhelmsii","",Synonym,,L,TICA,3FC2B836-4B13-400F-8CB6-AC8D1A9648DF,,"","","","",gcc-46697
+gcc-46072,A,Compositae,,Achillea,,"wilsoniana",,"","(Heimerl) Hand.-Mazz.",Accepted,,M,TICA,38C0CBDC-3946-4DF3-949D-55677CD2E1F0,174356-1,"","","1110","1936",
+gcc-72713,A,Compositae,,Achillea,,"wilsoniana",f.,"obconica","Heimerl",Synonym,,L,TICA,36CAB411-05F9-4C1C-B708-0076EF89B784,,"Acta Horti Gothoburgensis 12(9):","","254","1938",gcc-46072
+gcc-149746,A,Compositae,,Achillea,,"wilsoniana",f.,"wilsoniana","",Synonym,,L,TICA,1D18BE3A-E2BD-49C4-9437-5F65D8298846,,"","","","",gcc-46072
+gcc-29108,A,Compositae,,Achillea,,"wolffii",,"","Schur ex Nyman",Synonym,,M,TICA,389CAAB5-FB73-41F3-B031-35CE86D202CE,174357-1,"","","365","1879",gcc-143679
+gcc-107196,A,Compositae,,Achillea,,"zederbaueri",,"","Hayek ex Penther & Zederb.",Synonym,,M,TICA,6CE0B5D1-42D9-4C92-9B16-A98A358940F3,,"Ann. K. K. Naturhist. Hofmus. 20: 423 (1907)","","423","1907",gcc-57805
+gcc-43667,A,Compositae,,Achillea,,"zederbaueri",,"","Hayek",Synonym,,M,TICA,6560AC43-7D4E-4CAE-BCE9-50EAE48EED39,,"","","","",gcc-57805

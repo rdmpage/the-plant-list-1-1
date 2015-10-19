@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-38500,A,Compositae,,Leria,,"albicans",,"","(Sw.) DC.",Synonym,Illegitimate,M,TICA,32D0CFAC-759B-42AF-BE78-476F895EFA2B,,"Ann. Mus. Natl. Hist. Nat. 19: 68. 1812","","","1812",gcc-46182
+tro-2745358,A,Compositae,,Leria,,"albicans",,"","(Sw.) A. DC.",Synonym,,M,TRO,2745358,,"Prodr.","7: 42","42","1838",gcc-46182
+gcc-52833,A,Compositae,,Leria,,"araneosa",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,40EFBF1C-1FED-4994-88A2-61F73D5013E5,,"Fl. Bras. (Martius) 6(3): 374","","374","",
+gcc-116720,A,Compositae,,Leria,,"cespitosa",,"","(Thouars) Spreng.",Synonym,,M,TICA,C73E2615-6439-4A80-A6A6-BF10917FF2F7,229879-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 502","","502","1826",gcc-120985
+gcc-124973,A,Compositae,,Leria,,"dentata",,"","(L.) Spreng.",Synonym,,M,TICA,6A58DE5E-E0CF-4190-8C35-D1F99BC88257,229880-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 502","","502","1826",gcc-47634
+gcc-17490,A,Compositae,,Leria,,"exscapa",,"","DC.",Unresolved,,L,TICA,FBBCA8E8-9A6A-4603-BB4E-2050EFCCC3A5,229881-1,"in Ann. Mus. Par. xix. (1812) 68.","","xix.  68","1812",
+gcc-3410,A,Compositae,,Leria,,"exscapa",,"","Spreng.",Unresolved,,L,TICA,7BD049D4-5298-4217-A930-064BA9051045,,"Syst. Ve 3:","","502","1826",
+gcc-1044,A,Compositae,,Leria,,"integrifolia",,"","Cass.",Synonym,,M,TICA,46229B9D-DAC7-4AE4-BAB3-01EA8E9BEFCA,,"in Dict. Sc. Nat. xxvi. 103.","","","1823",gcc-128785
+gcc-109722,A,Compositae,,Leria,,"leiocarpa",,"","DC.",Synonym,,M,TICA,E5EAA90E-41D4-48F7-8F05-AF4AE7067F26,138621-2,"","","42","1838",gcc-46182
+gcc-147075,A,Compositae,,Leria,,"longipes",,"","Cass.",Synonym,,M,TICA,7C65F74F-8868-453D-870C-25EAC5F13CD1,,"","","","",gcc-87325
+gcc-134188,A,Compositae,,Leria,,"lutescens",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,734A90F7-F145-4696-AFAD-E735CF027814,,"Linnaea 34: 527. 1866","","527","",gcc-128785
+gcc-100050,A,Compositae,,Leria,,"lyrata",,"","(Pers.) Cass.",Synonym,,M,TICA,24954C94-E9D4-4F03-9BA9-99B6CA0E82B7,,"Dict. Sci. Nat. (ed. 2) 26: 102. 1823.","","102","1823",gcc-43226
+gcc-139329,A,Compositae,,Leria,,"lyrata",,"","DC.",Unresolved,,L,TICA,F6B0B5AF-CACB-43AF-8E6C-F27EAB3717C0,229885-1,"in Ann. Mus. Par. xix. (1812) 68.","","xix.  68","1812",
+gcc-15287,A,Compositae,,Leria,,"mandonii",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,089F741B-7024-49C9-9D6D-1C4C7F0A7DDC,,"""in Linuaea, xxxiv. (1865-66) 527, nomen""","","","1865",gcc-111700
+gcc-117680,A,Compositae,,Leria,,"media",,"","Griseb.",Unresolved,,L,TICA,D0BBC627-A7D1-4DA2-B680-C136F80491FC,229887-1,"""Mem. Amer. Acad. Arts n.s., viii. (1863) 515.""","","515","1862",gcc-49137
+gcc-1197,A,Compositae,,Leria,,"nervosa",,"","Spreng.",Unresolved,,L,TICA,A019B2C2-044E-4155-B934-022F158B4465,229888-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 501","","501","1826",
+gcc-111100,A,Compositae,,Leria,,"nutans",,"","(L.) DC.",Synonym,,M,TICA,BF328773-A400-4464-930A-B260867E84BC,229890-1,"","","68","1812",gcc-43226
+gcc-155781,A,Compositae,,Leria,,"nutans",,"","(L.) Kunth",Synonym,,M,TICA,37E20A76-A4EB-4BC9-9F4D-DFBF40139095,,"","","","",gcc-43226
+gcc-5841,A,Compositae,,Leria,,"nutans",,"","Less.",Unresolved,,L,TICA,28C5DC8F-91AB-42DA-B2EF-0ADF59B938F5,229889-1,"""Linnaea 5: 154, partim. 1830""","","""154, partim""","1830",
+gcc-8999,A,Compositae,,Leria,,"nutans",var.,"integrifolia","(Cass.) Less.",Synonym,,L,TICA,C20B9195-F9F7-45A8-9B1F-10D960EC934A,,"Linnaea 5:","","354","1830",gcc-128785
+gcc-6457,A,Compositae,,Leria,,"nutans",var.,"leiocarpa","Griseb.",Synonym,,L,TICA,43DA9E95-634E-4206-8C5D-0C0756572C1E,,"","","","1866",gcc-46182
+gcc-147654,A,Compositae,,Leria,,"nutans",var.,"nutans","",Synonym,,L,TICA,4667B620-C53A-4BA3-B512-31DDE79B7644,,"","","","",gcc-43226
+gcc-61811,A,Compositae,,Leria,,"nutans",var.,"sinuata","Less.",Synonym,,L,TICA,D7F49DEC-81D1-420A-A215-A99C3ECB41F7,,"","","354","1830",gcc-115173
+gcc-41436,A,Compositae,,Leria,,"pumila",,"","DC.",Unresolved,,L,TICA,55B8CE6A-04EE-4308-99B0-4CBB865C85D6,229891-1,"in Ann. Mus. Par. xix. (1812) 68.","","xix.  68","1812",
+gcc-48504,A,Compositae,,Leria,,"rotundifolia",,"","Sch.Bip.",Unresolved,,L,TICA,8E846F43-0448-40F2-87A7-59D569DAE010,229892-1,"""Linnaea 34: 527, nomen. 1866""","","""527, nomen""","1866",
+gcc-109311,A,Compositae,,Leria,,"sarmentosa",,"","DC.",Unresolved,,L,TICA,F9188A38-E826-4400-9BA4-AE5E4F69BCDE,229893-1,"in Ann. Mus. Par. xix. (1812) 68.","","xix.  68","1812",
+gcc-105051,A,Compositae,,Leria,,"sinuata",,"","(Less.) DC.",Synonym,,M,TICA,EA2E20F4-AEC1-407F-9E48-A4CFE994EDB2,229894-1,"Prodr. (DC.) 7(1): 42","","42","1838",gcc-115173
+gcc-1006,A,Compositae,,Leria,,"spathulata",,"","D.Don",Synonym,,M,TICA,3C1F0F34-3B26-4525-BDA6-01D8F291899F,229895-1,"Trans. Linn. Soc. London 16(2): 249","","249","1830",gcc-23319
+gcc-87745,A,Compositae,,Leria,,"stenocephala",,"","Griseb.",Unresolved,,L,TICA,EF531641-5E2B-4DD7-A402-7DEF1B9A00E1,229896-1,"Cat. Pl. Cub. 158.","","","1866",gcc-98087
+gcc-128967,A,Compositae,,Leria,,"tomentosa",,"","Griseb.",Unresolved,,L,TICA,8A945215-654E-4B6A-8945-DB35DD3AC7CC,229897-1,"""Fl. Brit. W.I. (Grisebach) 383, in obs.""","","383","",

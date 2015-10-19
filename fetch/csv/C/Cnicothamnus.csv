@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113133,A,Compositae,,Cnicothamnus,,"azafran",,"","(Cabrera) Cabrera",Accepted,,M,TICA,A34443AC-FED6-4FAC-A92C-B6F5888ADB74,61749-2,"","","256","1944",
+gcc-48101,A,Compositae,,Cnicothamnus,,"lorentzii",,"","Griseb.",Accepted,,M,TICA,08FF939C-DC59-484C-9898-592482714A15,196411-1,"","","197","1874",
+gcc-61666,A,Compositae,,Cnicothamnus,,"lorentzii",var.,"azafran","Cabrera",Synonym,,L,TICA,0D4E3B16-E37B-488D-A4A7-A87C67FAADC8,61750-2,"""Notas Mus. La Plata, Bot. 1""","","55","1935",gcc-113133
+gcc-146413,A,Compositae,,Cnicothamnus,,"lorentzii",var.,"lorentzii","",Synonym,,L,TICA,EC30BAA7-8942-4DF7-A9A4-17EEE27E8E2A,,"","","","",gcc-48101

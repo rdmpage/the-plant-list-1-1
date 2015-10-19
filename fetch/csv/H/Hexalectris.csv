@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-99071,A,Orchidaceae,,Hexalectris,,"aphylla",,"","(Nutt.) Raf.",Synonym,,H,WCSP,99071,638806-1,"Neogenyton","4","","1825",kew-99079
+kew-99072,A,Orchidaceae,,Hexalectris,,"aphylla",,"","(Nutt.) A.Gray",Synonym,,H,WCSP,99072,,"Manual","ed. 6: 501","","1896",kew-99079
+kew-463332,A,Orchidaceae,,Hexalectris,,"arizonica",,"","(S.Watson) A.H.Kenn. & L.E.Watson",Accepted,,H,WCSP,463332,77106573-1,"Syst. Bot.","35: 74","","2010",
+kew-99073,A,Orchidaceae,,Hexalectris,,"brevicaulis",,"","L.O.Williams",Accepted,,H,WCSP,99073,121811-2,"Amer. Orchid Soc. Bull.","9: 125","","1940",
+kew-463331,A,Orchidaceae,,Hexalectris,,"colemanii",,"","(Catling) A.H.Kenn. & L.E.Watson",Accepted,,H,WCSP,463331,77106572-1,"Syst. Bot.","35: 74","","2010",
+kew-344268,A,Orchidaceae,,Hexalectris,,"fallax",,"","M.I.Rodr. & R.González",Accepted,,H,WCSP,344268,,"Ibugana","12: 18","","2005",
+kew-99074,A,Orchidaceae,,Hexalectris,,"grandiflora",,"","(A.Rich. & Galeotti) L.O.Williams",Accepted,,H,WCSP,99074,638809-1,"J. Arnold Arbor.","25: 81","","1944",
+kew-344269,A,Orchidaceae,,Hexalectris,,"grandiflora",f.,"luteoalba","P.M.Br.",Synonym,,L,WCSP,344269,60444106-2,"McAllen Int. Orchid Soc. J.","7(12): 6","","2006",kew-99074
+kew-99075,A,Orchidaceae,,Hexalectris,,"mexicana",,"","Greenm.",Synonym,,H,WCSP,99075,121813-2,"Proc. Amer. Acad. Arts","39: 77","","1903",kew-99074
+kew-99076,A,Orchidaceae,,Hexalectris,,"nitida",,"","L.O.Williams",Accepted,,H,WCSP,99076,638811-1,"J. Arnold Arbor.","25: 81","","1944",
+kew-99077,A,Orchidaceae,,Hexalectris,,"parviflora",,"","L.O.Williams",Accepted,,H,WCSP,99077,121815-2,"Amer. Orchid Soc. Bull.","9: 126","","1940",
+kew-99078,A,Orchidaceae,,Hexalectris,,"revoluta",,"","Correll",Accepted,,H,WCSP,99078,121816-2,"Bot. Mus. Leafl.","10: 19","","1941",
+kew-334501,A,Orchidaceae,,Hexalectris,,"revoluta",var.,"colemanii","Catling",Synonym,,L,WCSP,334501,60437665-2,"Native Orchid Conf. J.","1(2): 14","","2004",kew-463331
+kew-99079,A,Orchidaceae,,Hexalectris,,"spicata",,"","(Walter) Barnhart",Accepted,,H,WCSP,99079,1185051-2,"Torreya","1904: 121","","1904",
+kew-99080,A,Orchidaceae,,Hexalectris,,"spicata",f.,"albolabia","P.M.Br.",Synonym,,L,WCSP,99080,301842-2,"N. Amer. Native Orchid J.","1: 10","","1995",kew-99079
+kew-99081,A,Orchidaceae,,Hexalectris,,"spicata",var.,"arizonica","(S.Watson) Catling & V.S.Engel",Synonym,,L,WCSP,99081,973607-1,"Lindleyana","8: 122","","1993",kew-463332
+kew-457927,A,Orchidaceae,,Hexalectris,,"spicata",f.,"lutea","P.M.Br.",Synonym,,L,WCSP,457927,60453136-2,"N. Amer. Native Orchid J.","10: 23","","2004 publ. 2005",kew-99079
+tro-50170002,A,Orchidaceae,,Hexalectris,,"spicata",var.,"spicata","",Synonym,,L,TRO,50170002,,"","","","",kew-99079
+kew-457928,A,Orchidaceae,,Hexalectris,,"spicata",f.,"wilderi","P.M.Br.",Synonym,,L,WCSP,457928,60453135-2,"N. Amer. Native Orchid J.","10: 23","","2004 publ. 2005",kew-99079
+kew-99083,A,Orchidaceae,,Hexalectris,,"squamosa",,"","Raf.",Synonym,,H,WCSP,99083,638815-1,"Fl. Tellur.","4: 48","","1838",kew-99079
+kew-99084,A,Orchidaceae,,Hexalectris,,"warnockii",,"","Ames & Correll",Accepted,,H,WCSP,99084,121818-2,"Bot. Mus. Leafl.","11: 8","","1943",
+kew-334502,A,Orchidaceae,,Hexalectris,,"warnockii",f.,"flavida","Catling",Synonym,,L,WCSP,334502,77065505-1,"Native Orchid Conf. J.","1(2): 24","","2004",kew-99084

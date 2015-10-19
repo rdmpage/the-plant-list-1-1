@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-370289,A,Campanulaceae,,Githopsis,,"calycina",,"","Benth.",Synonym,,H,WCSP,370289,142506-1,"Pl. Hartw.","321","","1849",kew-370303
+kew-452686,A,Campanulaceae,,Githopsis,,"calycina",var.,"hirsuta","Benth.",Synonym,,L,WCSP,452686,,"Pl. Hartw.","321","","1849",kew-370303
+kew-370290,A,Campanulaceae,,Githopsis,,"diffusa",,"","A.Gray",Accepted,,H,WCSP,370290,110578-2,"Proc. Amer. Acad. Arts","17: 221","","1882",
+kew-370291,A,Campanulaceae,,Githopsis,,"diffusa",var.,"candida","(Ewan) Morin",Synonym,,L,WCSP,370291,922178-1,"Syst. Bot.","8: 464","","1983",kew-370292
+kew-370292,A,Campanulaceae,,Githopsis,,"diffusa",subsp.,"candida","(Ewan) Morin",Accepted,,L,WCSP,370292,922177-1,"Syst. Bot.","8: 464","","1983",
+kew-376123,A,Campanulaceae,,Githopsis,,"diffusa",subsp.,"diffusa","",Synonym,,L,WCSP,376123,,"Unknown","","","",kew-370290
+kew-370293,A,Campanulaceae,,Githopsis,,"diffusa",subsp.,"filicaulis","(Ewan) Morin",Accepted,,L,WCSP,370293,922179-1,"Syst. Bot.","8: 465","","1983",
+kew-358778,A,Campanulaceae,,Githopsis,,"diffusa",subsp.,"guadalupensis","(Morin) Lammers",Accepted,,L,WCSP,358778,60442695-2,"Novon","16: 70","","2006",
+kew-370294,A,Campanulaceae,,Githopsis,,"diffusa",var.,"guadalupensis","Morin",Synonym,,L,WCSP,370294,110582-2,"Syst. Bot.","8: 464","","1983",kew-358778
+kew-370296,A,Campanulaceae,,Githopsis,,"filicaulis",,"","Ewan",Synonym,,H,WCSP,370296,110584-2,"Rhodora","41: 312","","1939",kew-370293
+kew-370297,A,Campanulaceae,,Githopsis,,"gilioides",,"","Ewan",Synonym,,H,WCSP,370297,110585-2,"Rhodora","41: 311","","1939",kew-370290
+kew-370298,A,Campanulaceae,,Githopsis,,"latifolia",,"","Eastw.",Synonym,,H,WCSP,370298,110586-2,"Proc. Calif. Acad. Sci.","IV, 20: 154","","1931",kew-358587
+kew-370299,A,Campanulaceae,,Githopsis,,"pulchella",,"","Vatke",Accepted,,H,WCSP,370299,110587-2,"Linnaea","38: 714","","1874",
+kew-370301,A,Campanulaceae,,Githopsis,,"pulchella",var.,"glabra","(Jeps.) Morin",Synonym,,L,WCSP,370301,110589-2,"Syst. Bot.","8: 453","","1983",kew-370299
+kew-376124,A,Campanulaceae,,Githopsis,,"pulchella",subsp.,"pulchella","",Synonym,,L,WCSP,376124,,"Unknown","","","",kew-370299
+kew-370303,A,Campanulaceae,,Githopsis,,"specularioides",,"","Nutt.",Accepted,,H,WCSP,370303,142512-1,"Trans. Amer. Philos. Soc.","n.s., 8: 258","","1843",
+kew-370304,A,Campanulaceae,,Githopsis,,"specularioides",subsp.,"candida","Ewan",Synonym,,L,WCSP,370304,110591-2,"Rhodora","41: 308","","1939",kew-370292
+kew-370305,A,Campanulaceae,,Githopsis,,"specularioides",var.,"diffusa","(A.Gray) Jeps.",Synonym,,L,WCSP,370305,110592-2,"Fl. W. Calif.","479","","1901",kew-370290
+kew-370306,A,Campanulaceae,,Githopsis,,"specularioides",var.,"glabra","Jeps.",Synonym,,L,WCSP,370306,110593-2,"Man. Fl. Pl. Calif.","974","","1925",kew-370299
+kew-370307,A,Campanulaceae,,Githopsis,,"specularioides",var.,"hirsuta","Nutt.",Synonym,,L,WCSP,370307,,"Trans. Amer. Philos. Soc.","n.s., 8: 258","","1843",kew-370303
+kew-370308,A,Campanulaceae,,Githopsis,,"specularioides",f.,"hirsuta","(Nutt.) H.St.John",Synonym,,L,WCSP,370308,110595-2,"Fl. S.-E. Washington","401","","1937",kew-370303
+tro-5503753,A,Campanulaceae,,Githopsis,,"specularioides",subsp.,"specularioides","",Synonym,,L,TRO,5503753,,"","","","",kew-370303
+kew-370309,A,Campanulaceae,,Githopsis,,"tenella",,"","Morin",Accepted,,H,WCSP,370309,110596-2,"Syst. Bot.","8: 465","","1983",

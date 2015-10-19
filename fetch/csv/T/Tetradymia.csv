@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144511,A,Compositae,,Tetradymia,,"argyraea",,"","Munz & Roos",Accepted,,L,TICA,B4802D78-FE46-4533-8A47-FE452967AF96,,"","","","1950",
+gcc-1344,A,Compositae,,Tetradymia,,"axillaris",,"","A.Nelson",Accepted,,M,TICA,E7C9FDC4-0AB1-45D0-B5BA-0270A59B0044,251608-2,"","","277","1904",
+gcc-43264,A,Compositae,,Tetradymia,,"axillaris",var.,"axillaris","",Synonym,,L,TICA,084F10C9-DED7-44C2-BC2D-502A0C1D1AF8,,"","","","",gcc-1344
+gcc-49008,A,Compositae,,Tetradymia,,"axillaris",var.,"longispina","(M.E.Jones) Strother",Accepted,,L,TICA,D7D9DF15-F949-404E-B535-5AC8F1E88954,251609-2,"","","197","1974",
+gcc-51412,A,Compositae,,Tetradymia,,"canescens",,"","DC.",Accepted,,M,TICA,6FFC9B96-3C8F-4B8A-A8ED-5F5ABA32C9C0,,"""Prodr. (DC.) 6: 440; et in Deless. Ic. Sel. iv. 27., t. 60""","","","",
+gcc-154835,A,Compositae,,Tetradymia,,"canescens",var.,"canescens","",Synonym,,L,TICA,9B3AB0B0-4876-477A-B42E-CBC68EA3959F,,"","","","",gcc-51412
+gcc-70109,A,Compositae,,Tetradymia,,"canescens",var.,"inermis","(Rydb.) Payson",Synonym,,L,TICA,A671FFAA-46B7-42C4-AE37-EB8F9D6AB21F,,"","","","",gcc-51412
+gcc-120362,A,Compositae,,Tetradymia,,"comosa",,"","A.Gray",Accepted,,M,TICA,6065E76D-ACDD-49C4-A64F-C75B21EEC6CC,,"Proc. Amer. Acad. Arts xii. (1877) 60.","","60","",
+gcc-9383,A,Compositae,,Tetradymia,,"comosa",subsp.,"comosa","",Synonym,,L,TICA,1BDF0C88-CC76-4F96-AB4F-118643C1633C,,"","","","1922",gcc-120362
+gcc-9647,A,Compositae,,Tetradymia,,"comosa",subsp.,"tetrameres","S.F.Blake",Synonym,,L,TICA,3C5C5E16-B87C-444C-B579-1204B4AB774D,,"Proc. Biol. Soc. Wash. 35: 176. 1922","","","1922",gcc-21540
+gcc-124376,A,Compositae,,Tetradymia,,"filifolia",,"","Greene",Accepted,,M,TICA,9BD8FF65-6DCC-44A4-9DD5-D08C2DBD82F9,255341-1,"","","","1898",
+gcc-37401,A,Compositae,,Tetradymia,,"glabrata",,"","Torr. & A.Gray",Accepted,,M,TICA,FDF0DF60-AA9B-4857-93BC-45510FE7016E,,"","","","1854",
+gcc-152859,A,Compositae,,Tetradymia,,"glabrata",f.,"glabrata","",Synonym,,L,TICA,4AD2DD02-A3FE-4C72-A3F3-A1E4CACAD507,,"","","","",gcc-37401
+gcc-41367,A,Compositae,,Tetradymia,,"inermis",,"","Nutt.",Synonym,,M,TICA,BFF28DC4-69D3-4D8F-8FB0-4C9DFE9B7D51,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 415""","","415","1841",gcc-51412
+gcc-6077,A,Compositae,,Tetradymia,,"linearis",,"","Rydb.",Unresolved,,L,TICA,A854C720-2A80-481E-9208-0B4FAD894683,255344-1,"","","","1905",
+gcc-103827,A,Compositae,,Tetradymia,,"longispina",,"","(M.E.Jones) Rydb.",Synonym,,M,TICA,D61BBD75-A5D7-40A1-8543-A21D53652858,251616-2,"","","471","1910",gcc-49008
+gcc-142150,A,Compositae,,Tetradymia,,"multicaulis",,"","A.Nelson",Unresolved,,L,TICA,C5114DC8-B1C3-4C71-A797-F904EF5560D6,251617-2,"","","482","1899",
+gcc-77971,A,Compositae,,Tetradymia,,"nuttallii",,"","Torr. & A.Gray",Accepted,,M,TICA,F9C0EA9B-30C9-44B7-B134-680DAD08878B,,"Fl. N. Amer. (Torr. & A. Gray) 2: 447","","","1843",
+gcc-42510,A,Compositae,,Tetradymia,,"permixta",,"","Payson",Unresolved,,L,TICA,78079173-D6F6-44BF-BA6E-4EB9CC428E2D,290424-2,"""in Univ. Wyoming Publ. Bot. i. 105 (1924), hybr.""","","105","1924",
+gcc-136080,A,Compositae,,Tetradymia,,"ramosissima",,"","Torr.",Synonym,,M,TICA,D9820C81-7EBD-446A-B4AB-EB5C3A0E33E1,255349-1,"""in Emory, Notes Mil. Reconnois. 145.""","","145","1848",gcc-17504
+gcc-127609,A,Compositae,,Tetradymia,,"spinosa",,"","Hook. & Arn.",Accepted,,M,TICA,DCF88534-ABC7-483A-8CAA-D80DA7C26F74,255350-1,"Bot. Beechey Voy. 360.","","360","1839",
+gcc-2085,A,Compositae,,Tetradymia,,"spinosa",var.,"longispina","M.E.Jones",Synonym,,L,TICA,85519113-4B96-400A-A995-03BF07F9B008,,"""Proc. Calif. Acad. Sci. ser. 2, 5: 698. 1895""","","","1895",gcc-49008
+gcc-53182,A,Compositae,,Tetradymia,,"spinosa",var.,"spinosa","",Synonym,,L,TICA,04E4C89F-B201-4ED7-8CDB-642BE0B00D1E,,"","","","",gcc-127609
+gcc-133127,A,Compositae,,Tetradymia,,"squamata",,"","(A.Gray) A.Gray",Unresolved,,L,TICA,AF2FC928-E98E-41F6-9266-E4CE3050B983,1034936-2,"","","207","1874",
+gcc-59323,A,Compositae,,Tetradymia,,"squamata",var.,"squamata","",Synonym,,L,TICA,C73A22A1-7627-41D4-86EB-9589D90F1CAB,,"","","","",gcc-133127
+gcc-84903,A,Compositae,,Tetradymia,,"stenolepis",,"","Greene",Accepted,,M,TICA,CFE6E27A-54BB-4051-A1D5-777D5A3C55E0,,"in Bull. Calif. Acad. i. III. (1885) 92.","","","1885",
+gcc-21540,A,Compositae,,Tetradymia,,"tetrameres",,"","(S.F.Blake) Strother",Accepted,,M,TICA,DF5E7FE1-7AB8-4069-9F44-27D1848827A3,251619-2,"","","192","1974",

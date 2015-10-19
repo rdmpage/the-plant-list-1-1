@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-115519,A,Compositae,,Stenotus,,"acaulis",,"","(Nutt.) Nutt.",Accepted,,M,TICA,35CA2AF3-4775-4E70-BEE9-BC59962AE051,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 334""","","334","1840",
+gcc-56865,A,Compositae,,Stenotus,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,A56D763E-B816-42F3-82BA-81CC31FC2440,,"","","","",gcc-115519
+gcc-47886,A,Compositae,,Stenotus,,"acaulis",var.,"glabratus","(D.C.Eaton) Kartesz & Gandhi",Synonym,,L,TICA,C2C855C0-39AB-4342-AC5D-58B5EDC3B7C4,1075677-2,"","","61","1991",gcc-115519
+gcc-55670,A,Compositae,,Stenotus,,"acaulis",var.,"kennedyi","Jeps.",Synonym,,L,TICA,1DA9FD71-C5A9-474C-BFAB-77DAEE4757D6,245052-2,"Man. Fl. Pl. Calif. 1028","","","1925",gcc-115519
+gcc-130644,A,Compositae,,Stenotus,,"andersonii",,"","Rydb.",Synonym,,M,TICA,D4FDE2D8-A5A1-49F3-8E21-DF081BC8D731,251143-1,"","","","1900",gcc-7964
+gcc-114116,A,Compositae,,Stenotus,,"armerioides",,"","Nutt.",Accepted,,M,TICA,D477C213-35AF-42C9-87A5-B9201596BFA0,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 335""","","335","1840",
+gcc-57871,A,Compositae,,Stenotus,,"armerioides",var.,"armerioides","",Synonym,,L,TICA,BA4A52AC-7300-467C-B396-89F1A28891E9,,"","","","",gcc-114116
+gcc-59802,A,Compositae,,Stenotus,,"armerioides",var.,"gramineus","(S.L.Welsh & F.J.Sm.) Kartesz & Gandhi",Accepted,,L,TICA,7DF6B084-F42D-425F-A413-996A8B52DE41,1085051-2,"","","61","1991",
+gcc-127254,A,Compositae,,Stenotus,,"borealis",,"","Rydb.",Unresolved,,L,TICA,7F823C60-DC61-45D1-BC24-D732AA309988,245054-2,"","","184","1901",
+gcc-99360,A,Compositae,,Stenotus,,"brandegei",,"","(A.Gray) Howell",Unresolved,,L,TICA,D25C5A4E-A776-4B25-B19D-98341D6AB5D7,245055-2,"","","300","1900",gcc-108359
+gcc-35495,A,Compositae,,Stenotus,,"caespitosus",,"","(Nutt.) Nutt.",Synonym,,M,TICA,94378E80-BDE9-4997-AC79-41CE47B8C444,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 335""","","","1840",gcc-115519
+gcc-119295,A,Compositae,,Stenotus,,"falcatus",,"","Rydb.",Synonym,,M,TICA,8FEA5970-2CE4-4F32-B82D-C4D69FD73DAA,245056-2,"","","616","1900",gcc-115519
+gcc-110630,A,Compositae,,Stenotus,,"florifer",,"","(Hook.) Torr. & A.Gray",Unresolved,,L,TICA,89FF38EB-6DFF-4CBE-9BEF-B1533ED159D5,251149-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 238","","238","1842",gcc-98880
+gcc-19033,A,Compositae,,Stenotus,,"interior",,"","(Coville) Greene",Unresolved,,L,TICA,2B2EBAF9-B22E-470F-A4EE-2325C1E7CFF3,245057-2,"","","72","1894",gcc-134531
+gcc-75950,A,Compositae,,Stenotus,,"laceratus",,"","A.Heller",Unresolved,,L,TICA,B1D615B5-7392-414F-8B53-6392C4FB5D15,245058-2,"","","7","1900",
+gcc-94354,A,Compositae,,Stenotus,,"lanuginosus",,"","(A.Gray) Greene",Accepted,,L,TICA,88C85589-6C8B-43D7-891F-8CCB6AD8C3E3,245059-2,"","","72","1894",
+gcc-7964,A,Compositae,,Stenotus,,"lanuginosus",var.,"andersonii","(Rydb.) H.M.Hall",Accepted,,L,TICA,6E3B3B5B-D801-49BA-AC0D-0ECFEFD87AAF,,"","","","",
+gcc-29844,A,Compositae,,Stenotus,,"lanuginosus",var.,"lanuginosus","",Synonym,,L,TICA,00C107B5-3F8F-4510-92F3-372F328659C2,,"","","","",gcc-94354
+gcc-84521,A,Compositae,,Stenotus,,"latifolius",,"","A.Nelson",Unresolved,,L,TICA,66DB8A13-86E5-4A85-AC5E-76BBA88981E5,245060-2,"","","266","1904",
+gcc-122902,A,Compositae,,Stenotus,,"linearifolius",,"","(DC.) Torr. & A.Gray",Synonym,,L,TICA,99890D50-3AA1-453D-ABD5-CD158B6DD3C9,251154-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 238","","238","1842",gcc-134531
+gcc-152501,A,Compositae,,Stenotus,,"linearifolius",var.,"linearifolius","",Synonym,,L,TICA,C759FF07-6606-41E2-9F17-9AB4AA7E855E,,"","","","",gcc-134531
+gcc-41538,A,Compositae,,Stenotus,,"lyallii",,"","(A.Gray) Howell",Unresolved,,L,TICA,68B67C0F-E564-4108-B3A9-4CEDA34FD389,245062-2,"","","300","1900",gcc-139132
+gcc-52574,A,Compositae,,Stenotus,,"macleanii",,"","(Brandegee) A.Heller",Synonym,,L,TICA,35E89219-F3F6-421D-A1A5-6173FF74BC9A,245063-2,"","","7","1900",gcc-129652
+gcc-97193,A,Compositae,,Stenotus,,"multicaulis",,"","Nutt.",Synonym,,M,TICA,D743D06C-011E-4810-B945-934AF59C7435,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 335""","","","1840",gcc-79543
+gcc-111090,A,Compositae,,Stenotus,,"pulvinatus",,"","(Moran) G.L.Nesom",Accepted,,M,TICA,F1A3B41B-2372-4B0A-83EA-B25D320BFE7E,285574-2,"","","113","1989",
+gcc-79475,A,Compositae,,Stenotus,,"pygmaeus",,"","Torr. & A.Gray",Synonym,,L,TICA,EC67D772-D3FE-4617-A02B-6B8887024B89,251158-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 237","","237","1842",gcc-92439
+gcc-99679,A,Compositae,,Stenotus,,"rudis",,"","A.Nelson",Unresolved,,L,TICA,F7F4BD8F-660B-4969-88C4-98EB39BCBD15,,"","","","1924",
+gcc-117850,A,Compositae,,Stenotus,,"scaber",,"","A.Nelson",Unresolved,,L,TICA,F17BF79F-EB7E-4179-98D1-C196D9A0F826,245067-2,"","","68","1924",
+gcc-50052,A,Compositae,,Stenotus,,"stenophyllus",,"","(A.Gray) Greene",Synonym,,L,TICA,D2CD88CE-0558-4C2B-8858-5CCD25F854F7,245068-2,"","","72","1894",gcc-82597

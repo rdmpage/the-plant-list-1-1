@@ -1,0 +1,212 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-80635,A,Compositae,,Brachyscome,,"aculeata",,"","(Labill.) Cass. ex Less.",Accepted,,M,TICA,14CD7D36-B4E3-428B-8E7B-6E008469AA48,185902-1,"Syn. Gen. Compos. 192 (1832)","","192","1832",
+gcc-136765,A,Compositae,,Brachyscome,,"alpina",,"","Colenso",Unresolved,,L,TICA,451CC023-5E48-4A02-A23E-ECF79D7E2F3A,,"","","271","1898",
+gcc-94977,A,Compositae,,Brachyscome,,"alpina",,"","Morris",Synonym,Illegitimate,M,TICA,5866B2FB-FD69-43AA-B11F-8E41A5CB5496,68238-3,"","","","1924",gcc-143809
+gcc-46499,A,Compositae,,Brachyscome,,"angustifolia",,"","A.Cunn. ex DC.",Accepted,,M,TICA,337ED4BA-07A3-4112-B71D-56259BA2EFB0,68249-3,"Prodr. 5: 306 (1836)","","306","1836",
+gcc-4566,A,Compositae,,Brachyscome,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,06F7A408-9A6B-49CE-980F-08795E9B45F0,,"-","","""73(3-4)  1948 Textfigs 15, 26""","",gcc-46499
+gcc-60231,A,Compositae,,Brachyscome,,"angustifolia",var.,"heterophylla","(Benth.) C.Davis",Accepted,,L,TICA,9AD98B7E-3A15-49AE-9F8F-9CB28CCEB0F4,,"Proc. Linn. Soc. New South Wales 73: 162 (1948)","","162","1948",
+gcc-96851,A,Compositae,,Brachyscome,,"ascendens",,"","G.L.Davis",Accepted,,M,TICA,C39A758F-8E44-4E00-81D6-927A1441ECCF,185906-1,"","","175","1948",
+gcc-135774,A,Compositae,,Brachyscome,,"assamica",,"","C.B.Clarke",Accepted,,M,TICA,2AC90F80-46B8-476C-9FC4-EAB54815618E,185907-1,"","","40","1876",
+gcc-76562,A,Compositae,,Brachyscome,,"basaltica",,"","F.Muell.",Accepted,,M,TICA,E873CF35-B293-4D83-9C4E-64FE9A63701E,185908-1,"","","50","1858",
+gcc-70781,A,Compositae,,Brachyscome,,"basaltica",var.,"basaltica","",Synonym,,L,TICA,53C8B5DC-F672-448F-B48A-F0C11606BD23,68342-3,"Flora Australiensis 3  1867","","3","1867",gcc-76562
+gcc-83090,A,Compositae,,Brachyscome,,"bellidioides",,"","Steetz",Accepted,,M,TICA,A2AA802F-F6FC-443D-8F62-7388A7549965,68376-3,"","","","1845",
+gcc-94057,A,Compositae,,Brachyscome,,"billardierei",,"","Benth.",Synonym,Illegitimate,M,TICA,0B308EE8-0275-40B2-89ED-8C1998344670,185910-1,"Fl. Austral. 3","","518","1867",gcc-116934
+gcc-98883,A,Compositae,,Brachyscome,,"billardierei",,"","Cass.",Accepted,,M,TICA,C5C51D65-9AE5-4132-B2BC-9719C81710B3,68387-3,"","","","1817",
+gcc-142030,A,Compositae,,Brachyscome,,"blackii",,"","G.L.Davis",Accepted,,M,TICA,0BBB0D74-0C0F-4904-9D09-F8BE541C9F62,185911-1,"","","207","1948",
+gcc-125517,A,Compositae,,Brachyscome,,"brevifolia",,"","G.Simpson",Unresolved,,L,TICA,0B605114-95F0-4A72-B22D-D33863A95035,185912-1,"","","432","1952",
+gcc-138686,A,Compositae,,Brachyscome,,"breviscapis",,"","C.R.Carter",Accepted,,M,TICA,24242622-B480-4DEB-B12A-F124FC78FFFE,185913-1,"","","392","1978",
+gcc-143262,A,Compositae,,Brachyscome,,"calocarpa",,"","F.Muell.",Synonym,,M,TICA,26095F38-715D-4DDB-B20C-FB7DFDA6D8E2,185914-1,"Linnaea 25","","399","1853",gcc-111465
+gcc-51664,A,Compositae,,Brachyscome,,"campylocarpa",,"","J.M.Black",Accepted,,M,TICA,65196BD8-6BFF-4FDF-86E0-5FCFB0B396DA,68460-3,"","","","1928",
+gcc-103673,A,Compositae,,Brachyscome,,"capillacea",,"","Walp.",Synonym,,M,TICA,A8A1BFFB-6901-4752-9F01-A1C7399DBF2C,68471-3,"","","584","1843",gcc-109325
+gcc-27157,A,Compositae,,Brachyscome,,"cardiocarpa",,"","F.Muell. ex Benth.",Synonym,,M,TICA,048AE7E9-AA4D-42A6-9D3B-323867A81B62,185917-1,"Fl. Austral. 3","","517","1867",gcc-106448
+gcc-14670,A,Compositae,,Brachyscome,,"cardiocarpa",var.,"alpina","F.Muell. ex Benth.",Synonym,,L,TICA,227C0475-E6C1-440A-947E-1B3694F6A1C7,,"","","","",gcc-103847
+gcc-70813,A,Compositae,,Brachyscome,,"cardiocarpa",var.,"cardiocarpa","",Synonym,,L,TICA,78CF674E-DDB0-442B-87B0-F108C7E1D7A2,68532-3,"Flora Australiensis 3  1867","","3","1867",gcc-106448
+gcc-127286,A,Compositae,,Brachyscome,,"carnosa",,"","(W.T.Aiton) M.R.Almeida",Synonym,,M,TICA,1FF634F2-6103-421D-8726-D7480D5C4B88,20008450-1,"Fl. Maharashtra 3A","","86","2001",gcc-31586
+gcc-51299,A,Compositae,,Brachyscome,,"cheilocarpa",,"","F.Muell.",Accepted,,M,TICA,E9931458-C31E-4943-BA79-5F24670FAAA9,68543-3,"","","","1882",
+gcc-118204,A,Compositae,,Brachyscome,,"chrysoglossa",,"","F.Muell.",Accepted,,M,TICA,CE9CD6CB-75FE-4623-8B88-C265BDEDA5EA,68557-3,"","","","1855",
+gcc-116934,A,Compositae,,Brachyscome,,"ciliaris",,"","(Labill.) Less.",Accepted,,M,TICA,392E605E-680D-44EB-8359-BF8A930A5A4D,185920-1,"","","192","1832",
+gcc-68447,A,Compositae,,Brachyscome,,"ciliaris",var.,"ciliaris","",Synonym,,L,TICA,F0773C41-D078-47CF-B0A5-DEEDD39AAB92,,"","","","",gcc-116934
+gcc-59867,A,Compositae,,Brachyscome,,"ciliaris",var.,"glandulosa","Benth.",Synonym,,L,TICA,7E7B53C7-022D-4CB7-B2C2-99F0404C50D8,68627-3,"","","","1867",gcc-116934
+gcc-69965,A,Compositae,,Brachyscome,,"ciliaris",var.,"grandiflora","Benth.",Synonym,,L,TICA,BC01ADB1-A9DF-404C-8FE4-EA6A7E01ADA3,68651-3,"","","","1867",gcc-116934
+gcc-70240,A,Compositae,,Brachyscome,,"ciliaris",var.,"lanuginosa","(Steetz) Benth.",Accepted,,L,TICA,42FE059E-A87F-48C8-94CD-EC8D4CF2FABF,68664-3,"Flora of Australia Supplementary Series 3:","","519","1867",
+gcc-71708,A,Compositae,,Brachyscome,,"ciliaris",var.,"lyrifolia","(J.M.Black) G.L.Davis",Accepted,,L,TICA,DF793E13-D7B3-4292-9DAF-F8442F459ADF,68683-3,"","","","1948",
+gcc-38026,A,Compositae,,Brachyscome,,"ciliaris",var.,"robusta","Benth.",Synonym,,L,TICA,D5649B03-1F7B-4317-9157-468668258E01,68698-3,"","","","1867",gcc-95166
+gcc-58217,A,Compositae,,Brachyscome,,"ciliaris",var.,"subdissecta","Benth.",Synonym,,L,TICA,E5693B0F-4CD6-49E5-A89E-8CB82C610D2E,68720-3,"","","","1867",gcc-116934
+gcc-40864,A,Compositae,,Brachyscome,,"ciliocarpa",,"","W.Fitzg.",Accepted,,M,TICA,34814502-ACD4-46BB-959C-4BBC44172634,68744-3,"","","","1905",
+gcc-81359,A,Compositae,,Brachyscome,,"clementii",,"","Domin",Accepted,,M,TICA,3A70F6CE-B6BD-4C05-AFA7-6FA0D03607AC,185922-1,"","","654","1929",
+gcc-40473,A,Compositae,,Brachyscome,,"collina",,"","(Sond.) Benth.",Synonym,,M,TICA,22C08F34-39FF-4E94-BBB1-4B00F86A13F2,185923-1,"Fl. Austral. 3","","521","1867",gcc-131856
+gcc-42169,A,Compositae,,Brachyscome,,"collina",var.,"collina","",Synonym,,L,TICA,A23D1ED4-A450-4EEB-B632-4E23AE6C32C2,68777-3,"Flora Australiensis 3  1867","","3","1867",gcc-131856
+gcc-61599,A,Compositae,,Brachyscome,,"collina",var.,"perpusilla","(Steetz) Benth.",Synonym,,L,TICA,47A7C3B5-568E-419C-BF5F-A7E429CBED12,68783-3,"","","","1867",gcc-131856
+gcc-111682,A,Compositae,,Brachyscome,,"coongiensis",,"","Munir",Synonym,,M,TICA,E7AFC58B-6941-4B6F-92B9-B3A5BAA5D4A2,935515-1,"","","53","1988",gcc-41789
+gcc-99912,A,Compositae,,Brachyscome,,"cuneata",,"","G.Simpson",Unresolved,,L,TICA,D167F9F2-39C6-4551-80A8-99703A8CE7BE,185924-1,"","","432","1952",
+gcc-124824,A,Compositae,,Brachyscome,,"cuneifolia",,"","Tate",Accepted,,M,TICA,383F9536-E7D2-48B5-8C8C-D198EBD3E207,185925-1,"","","83","1889",
+gcc-80139,A,Compositae,,Brachyscome,,"curvicarpa",,"","G.L.Davis",Accepted,,M,TICA,3BABF08F-7A87-4ED5-81C8-6CF7C3C61B69,185926-1,"Proc. Linn. Soc. New South Wales lxxiii. 192 (1948)","","192","1948",
+gcc-51335,A,Compositae,,Brachyscome,,"debilis",,"","Sond.",Accepted,,M,TICA,19F7271D-102A-4F6C-9CC6-5F3576D33CDE,185927-1,"Linnaea 25","","477","1853",
+gcc-144539,A,Compositae,,Brachyscome,,"decipiens",,"","Hook.f.",Accepted,,M,TICA,59754D9A-91E8-4C6C-97CB-FE55EE69DC0F,185928-1,"London J. Bot. 6: 114 (1847)","","114","1847",
+gcc-70371,A,Compositae,,Brachyscome,,"decipiens",var.,"decipiens","",Synonym,,L,TICA,91521B84-1AE0-43BE-860A-ED88AE968347,68849-3,"Flora Australiensis 3  1867","","3","1867",gcc-144539
+gcc-65767,A,Compositae,,Brachyscome,,"decipiens",var.,"pubescens","Benth.",Synonym,,L,TICA,5E8B8F23-B2BB-4DD7-B20E-C967CD2636D4,,"","","","",gcc-53499
+gcc-111465,A,Compositae,,Brachyscome,,"dentata",,"","Gaudich.",Accepted,,M,TICA,00EAE808-6C3D-4663-B2CE-B32FAF8C4070,185929-1,"","","468","1830",
+gcc-2225,A,Compositae,,Brachyscome,,"dichromosomatica",,"","C.R.Carter",Accepted,,M,TICA,0EA70B27-878E-4534-A885-0405A2FEBC73,185930-1,"","","391","1978",
+gcc-64390,A,Compositae,,Brachyscome,,"dichromosomatica",var.,"dichromosomatica","",Synonym,,L,TICA,29877887-A204-40F1-A2A0-BE31FDE399BE,68903-3,"Telopea 1  1975","","1","1975",gcc-2225
+gcc-136682,A,Compositae,,Brachyscome,,"dimorphocarpa",,"","G.L.Davis",Synonym,,M,TICA,07A85CBB-D656-4754-BB11-ECC18CEC2F49,68909-3,"Muelleria","","","1959",gcc-116934
+gcc-137091,A,Compositae,,Brachyscome,,"discolor",,"","Benth.",Synonym,,M,TICA,56E53FAC-5FDE-43D8-BB5D-EDA9B1E3DF84,185932-1,"Fl. Austral. 3","","520","1867",gcc-50981
+gcc-107201,A,Compositae,,Brachyscome,,"dissectifolia",,"","G.L.Davis",Accepted,,M,TICA,D4169742-79A1-4E8A-803F-A98BF0C19B65,68935-3,"","","","",
+gcc-104611,A,Compositae,,Brachyscome,,"diversifolia",,"","(Graham ex Hook.) Fisch. & C.A.Mey.",Accepted,,L,TICA,E6E10385-B1E1-4474-8DC4-A3DC2EE734F6,68949-3,"Ind. Semin. Petrop. 2","","31","1835",
+gcc-65154,A,Compositae,,Brachyscome,,"diversifolia",var.,"diversifolia","",Synonym,,L,TICA,2A1DA2F9-B787-42D5-8176-C4456F938BB5,68979-3,"Flora Australiensis 3  1867","","3","1867",gcc-104611
+gcc-68137,A,Compositae,,Brachyscome,,"diversifolia",var.,"humilis","(DC.) Benth.",Synonym,,L,TICA,989F0DF0-4FD7-4A03-9842-DC80C8510539,68993-3,"","","","1867",gcc-104611
+gcc-81153,A,Compositae,,Brachyscome,,"drummondii",,"","Walp.",Synonym,,M,TICA,802D038F-1C8E-4BEE-B35A-6F2ACE06148C,69013-3,"","","584","1843",gcc-116934
+gcc-26333,A,Compositae,,Brachyscome,,"elegans",,"","J.Kost.",Accepted,,M,TICA,7BF37EE9-E17E-4473-B0B7-30AB5FE07045,185936-1,"""Nova Guinea, Bot. 24""","","""593, t. 14 a--e""","1966",
+gcc-135812,A,Compositae,,Brachyscome,,"eriogona",,"","(J.M.Black) G.L.Davis",Accepted,,M,TICA,1AB2AADB-69D0-4406-A001-EAC610C34A0A,185937-1,"","","205","1948",
+gcc-46705,A,Compositae,,Brachyscome,,"exilis",,"","Sond.",Accepted,,M,TICA,114F856E-9F99-4DBF-853F-568F2C5EB531,185938-1,"Linnaea 25:473 (1853)","","473","1853",
+gcc-48514,A,Compositae,,Brachyscome,,"exilis",var.,"exilis","",Synonym,,L,TICA,D62DD1C1-1D04-4AC8-BDD0-59D8F71C196D,69039-3,"Linnaea 25  1853","","25","1853",gcc-46705
+gcc-53524,A,Compositae,,Brachyscome,,"exilis",var.,"scabrida","Sond.",Synonym,,L,TICA,CF65F264-5E92-4812-9C44-66E94B3DDE5C,69043-3,"","","","1853",gcc-46705
+gcc-77776,A,Compositae,,Brachyscome,,"eyrensis",,"","G.L.Davis",Accepted,,M,TICA,ACBD0EB9-9A29-4A53-A48F-67A584BA0DB3,185939-1,"","","207","1955",
+gcc-44031,A,Compositae,,Brachyscome,,"formosa",,"","P.S.Short",Accepted,,M,TICA,996C8553-5AE1-49F0-B057-518EF1504698,934880-1,"","","390","1988",
+gcc-123342,A,Compositae,,Brachyscome,,"glabra",,"","Benth.",Synonym,,M,TICA,BC6C8766-69B9-4BE2-A3E2-CE139686D93F,185940-1,"","","59","1837",gcc-67673
+gcc-119233,A,Compositae,,Brachyscome,,"glandulosa",,"","(Steetz) Benth.",Accepted,,L,TICA,DED51BA5-6896-4FE8-9458-C4B41A108724,185941-1,"","","520","1867",
+gcc-92,A,Compositae,,Brachyscome,,"glauca",,"","Walp.",Synonym,,M,TICA,228339DF-BA41-4DCA-88F8-0030E0943292,185942-1,"Linnaea 14","","315","1840",gcc-80635
+gcc-75944,A,Compositae,,Brachyscome,,"goniocarpa",,"","Sond. & F.Muell.",Accepted,,L,TICA,26D8E21C-59D2-4169-AD52-6390959686FB,,"Linnaea 25:474 (1853)","","474","1853",
+gcc-65298,A,Compositae,,Brachyscome,,"goniocarpa",var.,"eriogona","J.M.Black",Synonym,,L,TICA,40907B8B-F427-44DD-ABD5-C5C1E1D5F679,69125-3,"","","","1928",gcc-135812
+gcc-55060,A,Compositae,,Brachyscome,,"goniocarpa",var.,"goniocarpa","",Synonym,,L,TICA,1E6F3420-D4B3-4EAA-8D54-72F403068939,69133-3,"Transactions and Proceedings of the Royal Society of South Australia 52  1928","","52","1928",gcc-75944
+gcc-6146,A,Compositae,,Brachyscome,,"gracilis",,"","G.L.Davis",Accepted,,M,TICA,CAF482B6-B50B-4BBA-8248-0B6CA21A2B45,185944-1,"","","206","1955",
+gcc-118593,A,Compositae,,Brachyscome,,"graminea",,"","(Labill.) F.Muell.",Synonym,,M,TICA,F79BE662-7667-405A-BE00-C355E3DF3E21,185945-1,"","","49","1858",gcc-104050
+gcc-84119,A,Compositae,,Brachyscome,,"halophila",,"","P.S.Short",Accepted,,M,TICA,FC92995F-6EC9-4501-BB36-75CF48A55364,934881-1,"","","393","1988",
+gcc-133662,A,Compositae,,Brachyscome,,"heterodonta",,"","DC.",Synonym,,M,TICA,AE606930-27D7-4540-B2E1-E6004C0B7DCF,185946-1,"","","305","1836",gcc-111465
+gcc-4353,A,Compositae,,Brachyscome,,"heterodonta",var.,"chrysoglossa","DC.",Synonym,,L,TICA,F8428065-B9D9-48DC-85D8-0817AF310670,,"","","","",gcc-118204
+gcc-57086,A,Compositae,,Brachyscome,,"heterodonta",var.,"heterodonta","",Synonym,,L,TICA,EC223F3F-8697-45B4-8BC8-836F6C8610E7,,"","","","",gcc-111465
+gcc-45465,A,Compositae,,Brachyscome,,"heterophylla",,"","Benth.",Synonym,,M,TICA,2FBDA057-51FE-4DBD-B935-544189B590A1,185947-1,"","","","1837",gcc-60231
+gcc-4805,A,Compositae,,Brachyscome,,"humilis",,"","G.Simpson & J.S.Thomson",Accepted,,M,TICA,08826183-06D7-4BE2-87B0-08F0D01DF2BC,185949-1,"","","167","1943",
+gcc-109325,A,Compositae,,Brachyscome,,"iberidifolia",,"","Benth.",Accepted,,M,TICA,7770A3B2-2154-446A-8D16-AE67683F5358,185950-1,"","","59","1837",
+gcc-66634,A,Compositae,,Brachyscome,,"iberidifolia",var.,"alba","Steetz",Synonym,,L,TICA,59BA48ED-EDBB-4F15-B07C-D049C03368BC,69213-3,"","","","1845",gcc-109325
+gcc-74806,A,Compositae,,Brachyscome,,"iberidifolia",f.,"alba","Siebert & Voss",Synonym,,L,TICA,A6AEF242-E994-4854-B329-4DC29AC92FF2,69217-3,"","","453","1896",gcc-109325
+gcc-135641,A,Compositae,,Brachyscome,,"iberidifolia",f.,"bicolor","Siebert & Voss",Synonym,,L,TICA,1BC7311A-6503-4954-833A-EA6CC60EC187,69222-3,"","","453","1896",gcc-109325
+gcc-74634,A,Compositae,,Brachyscome,,"iberidifolia",f.,"coerulea","Siebert & Voss",Synonym,,L,TICA,E15538D4-6244-405F-8F35-46C2DCEB20CF,69227-3,"","","","1896",gcc-109325
+gcc-64686,A,Compositae,,Brachyscome,,"iberidifolia",var.,"diffusa","Benth.",Synonym,,L,TICA,394F95C5-63AC-4555-AA94-C05E5D94B58C,69236-3,"","","","1867",gcc-109325
+gcc-25758,A,Compositae,,Brachyscome,,"iberidifolia",var.,"divergens","Steetz",Synonym,,L,TICA,28616EFC-D4E6-4F38-9B26-2F98290F7FBD,69251-3,"","","","1845",gcc-109325
+gcc-70000,A,Compositae,,Brachyscome,,"iberidifolia",var.,"glandulifera","J.M.Black",Synonym,,L,TICA,8FA2C77E-A8DA-4CBC-BFAA-EAAD6FF1432B,69269-3,"","","","1928",gcc-109325
+gcc-71589,A,Compositae,,Brachyscome,,"iberidifolia",var.,"huegeliana","Steetz",Synonym,,L,TICA,944CD41F-2C30-4C21-851D-F757B20648CB,69281-3,"","","425","1845",gcc-109325
+gcc-53085,A,Compositae,,Brachyscome,,"iberidifolia",var.,"iberidifolia","",Synonym,,L,TICA,D44AEDF1-DB8A-4173-8939-6361F347B16C,,"Plantae Preissianae 1(4)  1845","","1(4)  1845","",gcc-109325
+gcc-83096,A,Compositae,,Brachyscome,,"iberidifolia",f.,"iberidifolia","",Synonym,,L,TICA,AD1A19FB-261E-4194-B379-738DCAE0801F,69295-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-109325
+gcc-26915,A,Compositae,,Brachyscome,,"iberidifolia",var.,"major","Steetz",Synonym,,L,TICA,4614C4B8-1845-44AE-8827-31C5318CC966,69300-3,"","","","1845",gcc-109325
+gcc-73719,A,Compositae,,Brachyscome,,"iberidifolia",f.,"rosea","Siebert & Voss",Synonym,,L,TICA,9582629C-4F1C-47A6-959C-247EEA4223A3,69306-3,"","","453","1896",gcc-109325
+gcc-145231,A,Compositae,,Brachyscome,,"lanuginosa",,"","Steetz",Synonym,,M,TICA,4EFEE16B-7474-4BFF-8EC8-FFF8A4C0C99E,69312-3,"","","","1845",gcc-70240
+gcc-51978,A,Compositae,,Brachyscome,,"latisquamea",,"","F.Muell.",Synonym,,M,TICA,358AA952-EE09-4060-814B-606C2BDC18A5,185952-1,"","","16","1878",gcc-140420
+gcc-93269,A,Compositae,,Brachyscome,,"leptocarpa",,"","F.Muell.",Synonym,,M,TICA,4328676B-410F-410A-AF6B-8A606CD9CB82,185953-1,"","","43","1855",gcc-51335
+gcc-27148,A,Compositae,,Brachyscome,,"leucanthemifolia",,"","Benth.",Synonym,,M,TICA,0444D4D1-1F3E-4565-9E6E-32333BB4E5A3,185954-1,"","","60","1837",gcc-80635
+gcc-136610,A,Compositae,,Brachyscome,,"linearifolia",,"","Hook.f.",Synonym,,M,TICA,96F1A3F1-73C8-49C9-AE67-EC9A03BF604C,,"","","","1856",gcc-46499
+gcc-41903,A,Compositae,,Brachyscome,,"linearifolia",,"","DC.",Synonym,Illegitimate,M,TICA,AF121357-B450-4105-813E-4D96146898FA,185956-1,"","","306","1836",gcc-106448
+gcc-27807,A,Compositae,,Brachyscome,,"linearifolia",var.,"heterophylla","(Benth.) C.Moore & Betche",Synonym,,L,TICA,A4BD81E0-ED7E-4DE5-8089-3364D6B83681,69405-3,"","","","1893",gcc-60231
+gcc-152879,A,Compositae,,Brachyscome,,"linearifolia",var.,"linearifolia","",Synonym,,L,TICA,2C4057C7-FA32-4829-A67F-A2634A2AB8D2,,"","","","",gcc-46499
+gcc-57715,A,Compositae,,Brachyscome,,"linearifolia",var.,"linearifolia","",Synonym,,L,TICA,158C57D6-AC6D-4941-A404-8891D2777AEF,69413-3,"Handbook of the Flora of New South Wales 1893","","","1893",gcc-106448
+gcc-121972,A,Compositae,,Brachyscome,,"lineariloba",,"","(DC.) Druce",Accepted,,M,TICA,78563976-559D-49F5-8A76-CAF796E234E2,185957-1,"","","610","1917",
+gcc-78451,A,Compositae,,Brachyscome,,"linearis",,"","(Petrie) Druce",Accepted,,M,TICA,F153FDEC-4A65-4CC2-B441-6931028D80D3,185958-1,"","","610","1917",
+gcc-92566,A,Compositae,,Brachyscome,,"lineata",,"","Kirk",Synonym,,M,TICA,CC2DEF3F-9FAD-45F2-BDD3-88E0AF200784,185959-1,"","","259","1899",gcc-78451
+gcc-118634,A,Compositae,,Brachyscome,,"lissocarpa",,"","J.M.Black",Synonym,,M,TICA,39805836-2154-48BC-A022-C36A028A6A13,69436-3,"","","","1928",gcc-117433
+gcc-102316,A,Compositae,,Brachyscome,,"longiscapa",,"","G.Simpson & J.S.Thomson",Accepted,,M,TICA,2D30A386-7A32-4BE7-9ACC-9ED6DCC4A0E2,185961-1,"","","168","1943",
+gcc-19645,A,Compositae,,Brachyscome,,"lyrifolia",,"","J.M.Black",Synonym,,M,TICA,BDD232BB-0A88-4508-80AB-245017D35256,69447-3,"","","","1937",gcc-71708
+gcc-90979,A,Compositae,,Brachyscome,,"marginata",,"","Benth.",Synonym,,M,TICA,786DED18-E89F-473A-B765-854987889B18,185963-1,"","","","1837",gcc-111465
+gcc-47378,A,Compositae,,Brachyscome,,"marginata",var.,"chrysoglossa","(F.Muell.) G.L.Davis",Synonym,,L,TICA,B6336313-3DF7-4FD0-B206-57C0FCE35D0B,69474-3,"","","","1948",gcc-111465
+gcc-48203,A,Compositae,,Brachyscome,,"marginata",var.,"marginata","",Synonym,,L,TICA,2C6F77EA-E917-4914-8CC8-5959E5A523CA,,"","","73(3-4)  1948","",gcc-111465
+gcc-128180,A,Compositae,,Brachyscome,,"melanocarpa",,"","Sond. & F.Muell. ex Sond.",Accepted,,M,TICA,984EB9FB-7B38-475F-B2BE-D9680F52CD61,69497-3,"Linnaea 25","","476","1853",
+gcc-130471,A,Compositae,,Brachyscome,,"mexicana",,"","(A.Gray) Klatt",Synonym,,M,TICA,68C1DA0D-DF0A-4FC2-B562-DE9CE86A1E77,,"","","","1883",gcc-133841
+gcc-89444,A,Compositae,,Brachyscome,,"mexicana",,"","(A.Gray) Reiche",Unresolved,,L,TICA,3BA6336E-2AD5-4C4D-B0B0-81B9D42B26A1,1063519-2,"","","","",
+gcc-50981,A,Compositae,,Brachyscome,,"microcarpa",,"","F.Muell.",Accepted,,M,TICA,C868E882-75E4-4F79-9D7A-5E978DBB351F,185966-1,"","","50","1858",
+gcc-143568,A,Compositae,,Brachyscome,,"montana",,"","G.Simpson",Accepted,,M,TICA,86323664-3C55-47EF-B8B1-FC34B4CF4011,185967-1,"","","197","1945",
+gcc-119277,A,Compositae,,Brachyscome,,"mossambicensis",,"","Oliv. & Hiern",Synonym,,M,TICA,B030C603-BB74-433D-93B3-C4CC7E05BAE1,185968-1,"","","305","1877",gcc-12670
+gcc-141684,A,Compositae,,Brachyscome,,"muelleri",,"","Sond.",Accepted,,M,TICA,CD91C6B2-4E55-4982-8B23-F7F0C1F6FDA1,69527-3,"Linnaea 25","","475","1852",
+gcc-77896,A,Compositae,,Brachyscome,,"muelleroides",,"","G.L.Davis",Accepted,,M,TICA,40A0AC6A-450E-4C87-8B2A-67E3356E3B9A,185970-1,"","","194","1948",
+gcc-110758,A,Compositae,,Brachyscome,,"multicaulis",,"","F.Muell.",Synonym,,L,TICA,07B63748-0B4C-40D8-BAF2-B1A3A2F364A8,69551-3,"","","","1855",gcc-95166
+gcc-126439,A,Compositae,,Brachyscome,,"multifida",,"","DC.",Accepted,,M,TICA,9DECAC22-130B-458A-9FA3-D5544AC77826,185972-1,"","","306","1836",
+gcc-67673,A,Compositae,,Brachyscome,,"multifida",var.,"dilatata","Benth.",Accepted,,L,TICA,3C1498F0-A4B0-4F1F-9C7D-D915E6A8E310,69580-3,"Fl. Austral. 3: 520 (1867)","","520","1867",
+gcc-12583,A,Compositae,,Brachyscome,,"multifida",var.,"multifida","",Synonym,,L,TICA,65326385-6949-4584-88F5-177475A0214D,69592-3,"Flora Australiensis 3  1867","","3","1867",gcc-126439
+gcc-129510,A,Compositae,,Brachyscome,,"neglecta",,"","J.M.Black",Synonym,,M,TICA,8C13B358-AF08-4AF0-A1F5-DC6AAFD07C8F,69608-3,"","","","1928",gcc-46705
+gcc-48151,A,Compositae,,Brachyscome,,"neo-caledonica",,"","Guillaumin",Accepted,,L,TICA,C54A4748-8845-4F45-9550-593FB378C1DB,185974-1,"Bull. Soc. Bot. France 84","","61","1937",
+gcc-2401,A,Compositae,,Brachyscome,,"nivalis",,"","F.Muell.",Synonym,,M,TICA,84216D03-9A35-4D8C-B303-045CF4704F0D,185975-1,"Transactions of the Philosophical Society of Victoria 1:","","43","1855",gcc-81386
+gcc-55898,A,Compositae,,Brachyscome,,"nivalis",var.,"alpina","(F.Muell. ex Benth.) G.L.Davis",Synonym,,L,TICA,5E88439D-5A5F-4585-A8F3-79F34B7EBD77,69641-3,"","","","1948",gcc-103847
+gcc-63323,A,Compositae,,Brachyscome,,"nivalis",var.,"nivalis","",Synonym,,L,TICA,60940972-827C-4C4C-85EE-B5F69027D358,,"","","""73(3-4)  1948 Textfigs 56, 67""","",gcc-81386
+gcc-49075,A,Compositae,,Brachyscome,,"nodosa",,"","P.S.Short & Kuniaki Watan.",Accepted,,M,TICA,B766A516-1B8A-4595-9169-5AE9875BDF64,169962-3,"","","335","1993",
+gcc-132427,A,Compositae,,Brachyscome,,"nova-anglica",,"","G.L.Davis",Accepted,,M,TICA,A5901861-6D7D-4D89-80B8-E33F3FBE6165,185976-1,"","","178","1948",
+gcc-565,A,Compositae,,Brachyscome,,"oblongifolia",,"","Benth.",Synonym,,M,TICA,C0D3E1BF-DD0C-48AA-8898-011199D22E65,185977-1,"","","60","1837",gcc-80635
+gcc-134426,A,Compositae,,Brachyscome,,"obovata",,"","G.L.Davis",Accepted,,M,TICA,01EEFD8F-2074-450A-B9DC-E7CA73303BE3,185978-1,"","","146","1949",
+gcc-4682,A,Compositae,,Brachyscome,,"odorata",,"","Hook.f.",Synonym,,M,TICA,AB46E83E-720F-4702-85D8-08B1C273635C,185979-1,"","","138","1864",gcc-52312
+gcc-36255,A,Compositae,,Brachyscome,,"oncocarpa",,"","Diels",Accepted,,M,TICA,B3412559-0579-4425-AA63-433C94BB709D,,"","","","1905",
+gcc-144432,A,Compositae,,Brachyscome,,"pachyptera",,"","Turcz.",Synonym,,M,TICA,A26262DD-4709-4BE0-ADA8-FE15B3D187B7,69725-3,"","","","1851",gcc-121972
+gcc-87479,A,Compositae,,Brachyscome,,"palustris",,"","O.Hoffm.",Synonym,,M,TICA,E55BB0B2-0D39-4108-AE4B-7D6461AC45FB,,"Bot. Jahrb. Syst. 30: 427.","","","1901",gcc-2104
+gcc-134883,A,Compositae,,Brachyscome,,"papillosa",,"","G.L.Davis",Accepted,,M,TICA,A5DA9C2D-383D-4783-9EE6-E8B9240D2F91,185983-1,"","","191","1948",
+gcc-10478,A,Compositae,,Brachyscome,,"papuana",,"","Mattf.",Accepted,,M,TICA,2587BAF9-D659-46E1-AEDE-138CDFD120C0,185984-1,"Bot. Jahrb. Syst. 62","","494","1929",
+gcc-117433,A,Compositae,,Brachyscome,,"parvula",,"","Hook.f.",Accepted,,M,TICA,5DE153E7-EC9C-44DC-AD85-C0A0F22AC32E,,"","","185","1856",
+gcc-65275,A,Compositae,,Brachyscome,,"parvula",var.,"lissocarpa","(J.M.Black) G.L.Davis",Synonym,,L,TICA,1E7DE793-AAE8-41C9-B90F-C5805D849BF2,69770-3,"","","","1948",gcc-117433
+gcc-24035,A,Compositae,,Brachyscome,,"parvula",var.,"parvula","",Synonym,,L,TICA,CAE2E14C-6FCC-467D-81AB-2C6A73FFD4DB,,"","","""73(3-4)  1948 Textfigs 87, 99""","",gcc-117433
+gcc-131856,A,Compositae,,Brachyscome,,"perpusilla",,"","(Steetz) J.M.Black",Accepted,,M,TICA,0B1C40D9-AA45-418C-AC26-E1EA502697EC,69801-3,"","","587","1929",
+gcc-47352,A,Compositae,,Brachyscome,,"perpusilla",,"","(Steetz) Benth.",Unresolved,,L,TICA,F4A0A131-F7DB-4D8A-9CBB-57AEE8483D74,,"","","","",
+gcc-16242,A,Compositae,,Brachyscome,,"perpusilla",var.,"perpusilla","",Synonym,,L,TICA,C108470A-2DAA-4FA9-AB8F-1E0B9A9FC19C,69817-3,"","","""231,""","1948",gcc-131856
+gcc-79866,A,Compositae,,Brachyscome,,"petrophila",,"","G.L.Davis",Accepted,,M,TICA,1837BDD9-717B-4D01-B252-6C525567C23B,185987-1,"Proc. Linn. Soc. New South Wales","","147","1949",
+gcc-80456,A,Compositae,,Brachyscome,,"pinnata",,"","Hook.f.",Synonym,,M,TICA,7F076AF4-8D3C-43B9-B3ED-6DA2F879686C,185988-1,"","","138","1864",gcc-112684
+gcc-625,A,Compositae,,Brachyscome,,"polita",,"","Kirk",Synonym,,M,TICA,7D109C9E-8B3B-4F68-B2E6-012EB470778A,185989-1,"","","261","1899",gcc-52312
+gcc-37987,A,Compositae,,Brachyscome,,"procumbens",,"","G.L.Davis",Accepted,,M,TICA,9E8EF006-CACA-4223-82FD-467269EB84D7,69874-3,"","","","",
+gcc-45173,A,Compositae,,Brachyscome,,"ptychocarpa",,"","F.Muell.",Accepted,,M,TICA,8BA1474E-CCAB-4125-A67C-53BBFF019002,69891-3,"","","","1855",
+gcc-44917,A,Compositae,,Brachyscome,,"pumila",,"","Walp.",Unresolved,,L,TICA,6D1C004C-99B5-406C-AD03-533C971C0DC4,69905-3,"","","584","1843",
+gcc-4124,A,Compositae,,Brachyscome,,"pusilla",,"","Steetz",Accepted,,M,TICA,1DEA627A-9BB0-43B3-BD33-07AF39AAA07B,69927-3,"","","","1845",
+gcc-81386,A,Compositae,,Brachyscome,,"radicans",,"","Steetz ex Lehm.",Accepted,,M,TICA,6008C192-555F-430E-8868-6FB072E26A9A,,"Pl. Preiss. 1: 429 (1845)","","429","1845",
+gcc-52312,A,Compositae,,Brachyscome,,"radicata",,"","Hook.f.",Accepted,,M,TICA,C8EE86D8-5FB2-480B-8B23-61048AAC6953,185995-1,"","","127","1852",
+gcc-69404,A,Compositae,,Brachyscome,,"radicata",var.,"dubia","(Kirk) Allan",Synonym,,L,TICA,BD3D0FBE-FECF-4222-8AFA-E600489606F2,,"","","601","1961",gcc-52312
+gcc-70422,A,Compositae,,Brachyscome,,"radicata",var.,"membranacea","(Kirk) Allan",Synonym,,L,TICA,43293BDC-0C8E-41DC-BB0C-EDFE5B7FD454,,"Fl. N. Zeal. 1: 600 (1961)","","600","1961",gcc-52312
+gcc-54604,A,Compositae,,Brachyscome,,"radicata",var.,"membranifolia","(Kirk) Allan",Synonym,,L,TICA,1C881769-029D-44BD-82D8-6F5DB709DEFE,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","600","1961",gcc-52312
+gcc-60345,A,Compositae,,Brachyscome,,"radicata",var.,"polita","(Kirk) Allan",Synonym,,L,TICA,812A8BEC-898E-483C-BDA4-9DA1E2C7E030,,"","","601","1961",gcc-52312
+gcc-54118,A,Compositae,,Brachyscome,,"radicata",var.,"radicata","",Synonym,,L,TICA,DBE4EB29-03EC-4E5A-93A3-6B9FB3169A9C,,"","","","1852",gcc-52312
+gcc-25269,A,Compositae,,Brachyscome,,"radicata",var.,"thomsonii","(Kirk) Allan",Synonym,,L,TICA,EC2D14BE-84D1-4661-8701-2EA6D1740353,,"","","600","1961",gcc-52312
+gcc-62813,A,Compositae,,Brachyscome,,"radicata",var.,"β","Hook.f.",Synonym,,L,TICA,062C2470-5A5F-44AE-B025-B1D2F78A6177,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","127","1853",gcc-112684
+gcc-41789,A,Compositae,,Brachyscome,,"rara",,"","G.L.Davis",Accepted,,M,TICA,62D7F309-E46D-48DF-82D5-4D65D2C3066F,185996-1,"","","204","1955",
+gcc-88895,A,Compositae,,Brachyscome,,"readeri",,"","G.L.Davis",Accepted,,M,TICA,6D2F37C4-B2E3-4ACD-A56B-8070371C64C4,185997-1,"","","204","1948",
+gcc-95166,A,Compositae,,Brachyscome,,"rigidula",,"","(DC.) G.L.Davis",Accepted,,L,TICA,6DEEA3B4-B6FC-466C-9D5F-8EAA8F995008,185998-1,"-","","219","1948",
+gcc-10079,A,Compositae,,Brachyscome,,"riparia",,"","G.L.Davis",Accepted,,M,TICA,9795A116-BBE8-426E-AB58-12DA4CCA1648,185999-1,"","","206","1955",
+gcc-15953,A,Compositae,,Brachyscome,,"sarasinii",,"","Däniker",Synonym,,L,TICA,BD81CE17-E3D7-4EDC-98B4-1D82EA377A90,,"","","479","1933",gcc-48151
+gcc-37600,A,Compositae,,Brachyscome,,"scapiformis",,"","DC.",Synonym,,M,TICA,6D684625-7ECD-4D25-87DF-45B3F9027FDB,186001-1,"","","306","1836",gcc-56168
+gcc-29085,A,Compositae,,Brachyscome,,"scapiformis",var.,"glabra","DC.",Synonym,,L,TICA,7C5AB7B9-9310-45A5-B591-35C7F973B4DC,70053-3,"","","","1836",gcc-29103
+gcc-63413,A,Compositae,,Brachyscome,,"scapiformis",var.,"gunnii","DC.",Synonym,,L,TICA,6908F63F-3F29-4DFD-8FAE-B6B7100B8979,,"","","","1836",gcc-80635
+gcc-10567,A,Compositae,,Brachyscome,,"scapiformis",var.,"montana","Hook.f.",Synonym,,L,TICA,FFB0A7FF-1D3B-4D33-9216-13BBE67BBFDB,70085-3,"","","114","1847",gcc-80635
+gcc-71416,A,Compositae,,Brachyscome,,"scapiformis",var.,"puberula","DC.",Synonym,,L,TICA,8421F2D2-5EC2-4020-BF23-F6123497ABF1,70093-3,"","","","1836",gcc-80635
+gcc-59221,A,Compositae,,Brachyscome,,"scapiformis",var.,"scapiformis","",Synonym,,L,TICA,5257DB55-B300-44FE-BCC7-94BEF5FA51A3,70105-3,"Prodromus 5  1836","","5","1836",gcc-56168
+gcc-65702,A,Compositae,,Brachyscome,,"scapiformis",var.,"tenuiscapa","(Hook.f.) Benth.",Synonym,,L,TICA,5B688CB0-4123-465C-85E6-C8E27ACCD146,70123-3,"","","","1867",gcc-143809
+gcc-102166,A,Compositae,,Brachyscome,,"scapigera",,"","(Sieber ex Spreng.) DC.",Accepted,,L,TICA,CE50F131-399E-4C31-B8F3-9E73A4E33453,,"","","277","1844",
+gcc-132392,A,Compositae,,Brachyscome,,"segmentosa",,"","F.Muell.",Accepted,,M,TICA,3F8FE375-BBDC-4CFF-8F70-E32A4EA17E9D,,"","","","",
+gcc-42150,A,Compositae,,Brachyscome,,"sieberi",,"","DC.",Accepted,,M,TICA,43E27ED3-B89A-49A8-A58B-4E1901F8325B,186004-1,"","","306","1836",
+gcc-22454,A,Compositae,,Brachyscome,,"sieberi",var.,"sieberi","",Synonym,,L,TICA,BC641580-D6F2-48E9-8035-298BB68CFAAB,70196-3,"Prodromus 5  1836","","5","1836",gcc-42150
+gcc-108870,A,Compositae,,Brachyscome,,"simplicifolia",,"","J.B.Armstr.",Unresolved,,L,TICA,FB8C0E93-F453-4913-B6A8-AD560ABDE73F,186005-1,"Trans. & Proc. New Zealand Inst. 13","","338","1881",
+gcc-112684,A,Compositae,,Brachyscome,,"sinclairii",,"","Hook.f.",Accepted,,M,TICA,B2A8098D-5A3B-47E9-9E5D-B5FF3D0DF40D,186006-1,"","","137","1864",
+gcc-26912,A,Compositae,,Brachyscome,,"sinclairii",var.,"montana","Kirk",Synonym,,L,TICA,EE3CE77B-A13F-405B-A39F-31C46DC0E8C6,,"","","260","1899",gcc-112684
+gcc-70850,A,Compositae,,Brachyscome,,"sinclairii",var.,"pinnata","(Hook.f.) Allan",Synonym,,L,TICA,0D9D85F3-DA0D-4744-8294-F16EF33C218C,,"","","","1961",gcc-112684
+gcc-61163,A,Compositae,,Brachyscome,,"sinclairii",var.,"sinclairii","",Synonym,,L,TICA,A5670580-F9F0-4825-B475-A45AEE4D2EC4,,"","","","1864",gcc-112684
+gcc-70,A,Compositae,,Brachyscome,,"sinclairii",var.,"γ","Hook.f.",Synonym,,L,TICA,91727FB0-5EC2-455A-8A2D-00292C156DBF,,"""Hooker, J. D. 1864: Handbook of the New Zealand Flora: a systematic description of the native plants of New Zealand and the Chatham, Kermadec's, Lord Auckland's, Campbell's and Macquarie's Islands. Part I.  London,  Reeve. 392 p. ""","","138","1864",gcc-112684
+gcc-41252,A,Compositae,,Brachyscome,,"smithwhitei",,"","P.S.Short & Watan.",Accepted,,M,TICA,E5F54C0D-6219-446D-80B5-4C710969E1FC,169963-3,"Austral. Syst. Bot. 6(4): 339 (1993)","","339","1993",
+gcc-29103,A,Compositae,,Brachyscome,,"spathulata",,"","Gaudich.",Accepted,,M,TICA,E5956045-1EC8-44EC-A404-35CC7A062E5E,186007-1,"","","468","1830",
+gcc-56168,A,Compositae,,Brachyscome,,"spathulata",subsp.,"glabra","(DC.) Stace",Accepted,,L,TICA,17BD2289-FDB5-489E-990C-7C48093C30D0,,"Austral. J. Bot. 29: 436 (1981)","","436","1981",
+gcc-67749,A,Compositae,,Brachyscome,,"spathulata",subsp.,"spathulata","",Synonym,,L,TICA,66892BE9-AF86-4CC5-A636-D9B1BA34F91D,,"","","","",gcc-29103
+gcc-48328,A,Compositae,,Brachyscome,,"squalida",,"","Hook.f.",Synonym,,L,TICA,19193227-4F4A-4DCF-8B62-598DAF2F9340,,"","","","1846",gcc-95166
+gcc-1372,A,Compositae,,Brachyscome,,"stolonifera",,"","G.L.Davis",Accepted,,M,TICA,CE7F223D-2F37-48CD-A4B3-0276397A7A27,186009-1,"","","145","1949",
+gcc-117515,A,Compositae,,Brachyscome,,"stricta",,"","DC.",Synonym,,M,TICA,4C087233-8C9B-4D98-B58D-C0DE293A6AD5,186010-1,"","","305","1836",gcc-80635
+gcc-96155,A,Compositae,,Brachyscome,,"strongylospermoides",,"","Walp.",Synonym,,L,TICA,02217F2D-D2ED-436A-A316-90E7ECD83D1E,186011-1,"Linnaea 14","","305","1840",gcc-95166
+gcc-133276,A,Compositae,,Brachyscome,,"stuartii",,"","Benth.",Accepted,,M,TICA,1DE57A43-DA86-4242-8832-E5249F871AFB,186012-1,"Fl. Austral. 3","","513","1867",
+gcc-86421,A,Compositae,,Brachyscome,,"sylvestris",,"","Klatt",Synonym,,M,TICA,E3144716-79C9-4469-9864-7AE2AF554304,,"","","","1883",gcc-116743
+gcc-103847,A,Compositae,,Brachyscome,,"tadgellii",,"","Tovey & P.Morris",Accepted,,M,TICA,00918295-D56D-4845-BA84-A2283D6AF2DF,186014-1,"","","135","1922",
+gcc-141447,A,Compositae,,Brachyscome,,"tatei",,"","J.M.Black",Accepted,,M,TICA,8BC18E49-D889-476E-A63E-F772B2A62C08,70370-3,"","","","1928",
+gcc-132625,A,Compositae,,Brachyscome,,"tenella",,"","Turcz.",Synonym,,M,TICA,A6B67C56-B157-4C83-8180-E3A9F0258858,70403-3,"","","","1851",gcc-131856
+gcc-13680,A,Compositae,,Brachyscome,,"tenera",,"","Benth.",Synonym,,M,TICA,E6386E6B-5A76-4BD8-A107-1973DE6B992B,186017-1,"","","59","1837",gcc-67673
+gcc-143809,A,Compositae,,Brachyscome,,"tenuiscapa",,"","Hook.f.",Accepted,,M,TICA,E17B7F21-16CC-406A-A578-FCB572BB0394,186018-1,"London J. Bot. 6: 114 (1847)","","114","1847",
+gcc-53499,A,Compositae,,Brachyscome,,"tenuiscapa",var.,"pubescens","(Benth.) G.L.Davis",Accepted,,L,TICA,8F0FD1F8-F193-4EC3-B440-66B73BD62387,,"-","","73(3-4)  1948","1948",
+gcc-69693,A,Compositae,,Brachyscome,,"tenuiscapa",var.,"tenuiscapa","",Synonym,,L,TICA,F300A2CF-219A-4DF4-92E4-E856C1E5E84F,,"","","""73(3-4)  1948 Textfigs 3, 8""","",gcc-143809
+gcc-83891,A,Compositae,,Brachyscome,,"tesquorum",,"","J.M.Black",Accepted,,M,TICA,E7453D8A-C137-4652-BB06-753FB846CE1B,70518-3,"","","","1916",
+gcc-15231,A,Compositae,,Brachyscome,,"tetrapterocarpa",,"","G.L.Davis",Accepted,,M,TICA,18692B46-FBDD-41A9-BEA4-1C32817C0F4C,,"Muelleria","","","1959",
+gcc-80572,A,Compositae,,Brachyscome,,"thomsonii",,"","Kirk",Synonym,,M,TICA,41FCA9B4-6A03-40D2-AE33-6DDDDBCCE1EE,186021-1,"","","372","1884",gcc-52312
+gcc-69273,A,Compositae,,Brachyscome,,"thomsonii",var.,"dubia","Kirk",Synonym,,L,TICA,EC578F4E-C086-4078-A142-E51D145C92B0,,"","","","1899",gcc-52312
+gcc-41180,A,Compositae,,Brachyscome,,"thomsonii",var.,"membranacea","Kirk",Synonym,,L,TICA,EE692ACB-58EF-44D4-87FC-4C4F8DB68A3C,,"Stud. Fl. New Zealand: 26 (1899)","","26","1899",gcc-52312
+gcc-56721,A,Compositae,,Brachyscome,,"thomsonii",var.,"membranifolia","Kirk",Synonym,,L,TICA,BB9E20E5-7491-4D3B-AB7B-80AD5B4AD13A,,"""Kirk, T. 1899: The Students' Flora of New Zealand and the Outlying Islands. Wellington, N.Z.,  Government Printer. ""","","261","1899",gcc-52312
+gcc-17667,A,Compositae,,Brachyscome,,"thomsonii",var.,"polita","(Kirk) Cheeseman",Synonym,,L,TICA,68F15CDB-D829-4046-9FA7-209A9DC9433D,,"","","277","1906",gcc-52312
+gcc-147537,A,Compositae,,Brachyscome,,"thomsonii",var.,"thomsonii","",Synonym,,L,TICA,E2289485-53D5-4DA1-A25C-2F8FF70EB83E,,"","","","",gcc-52312
+gcc-101819,A,Compositae,,Brachyscome,,"trachycarpa",,"","F.Muell.",Accepted,,M,TICA,BB24E5C2-C79A-41DE-B3A7-9D9C20D65C2C,186022-1,"Linnaea 25:399 (1853)","","339","1853",
+gcc-17792,A,Compositae,,Brachyscome,,"triloba",,"","Gaudich.",Synonym,,M,TICA,25E2B9F6-6B90-439F-B99E-20D7BADC49CC,186023-1,"","","467","1830",gcc-37220
+gcc-130700,A,Compositae,,Brachyscome,,"uliginosa",,"","G.L.Davis",Synonym,,M,TICA,04BF25AC-BBF5-4D74-97D5-DF2CB52173A8,,"Proceedings of the Linnean Society of New South Wales","","""203, f. 1-4""","1955",gcc-116823
+gcc-126608,A,Compositae,,Brachyscome,,"whitei",,"","G.L.Davis",Accepted,,M,TICA,0ECD0178-F294-44F0-BC27-D5B3F5A3E0A0,186025-1,"","","164","1948",
+gcc-129193,A,Compositae,,Brachyscome,,"xanthocarpa",,"","D.A.Cooke",Accepted,,M,TICA,E85B8D3B-D832-4AC9-B296-DBBC0FA98667,905760-1,"","","273","1985",
+gcc-81018,A,Compositae,,Brachyscome,,"xanthocomoides",,"","Less.",Synonym,,M,TICA,147823E8-B3CF-4D62-8DC8-6EE679D4CA83,35903-2,"Linnaea 9: 265. 1834","","265","1834",gcc-117340
+gcc-22946,A,Compositae,,Brachyscome,,"xeranthemoides",,"","Less. ex Steud.",Synonym,,M,TICA,21FCF9DC-D8D1-4960-9B2E-2A7A13240380,186027-1,"","","220","1840",gcc-41659

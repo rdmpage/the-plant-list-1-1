@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-15732,A,Leguminosae,,Martiodendron,,"elatum",,"","(Ducke) Gleason",Accepted,,H,ILDIS,15732,,"","","","",
+ild-25659,A,Leguminosae,,Martiodendron,,"elatum",var.,"elatum","",Synonym,,L,ILDIS,25659,,"","","","",ild-15732
+ild-39580,A,Leguminosae,,Martiodendron,,"elatum",var.,"occidentale","(Ducke) R.C.Koeppen",Accepted,,L,ILDIS,39580,,"","","","",
+tro-13046962,A,Leguminosae,,Martiodendron,,"elatum",var.,"occidentale","(Ducke) R. Koeppen",Unresolved,,L,TRO,13046962,,"Brittonia","14(2): 207","207","1962",
+ild-15733,A,Leguminosae,,Martiodendron,,"excelsum",,"","(Benth.) Gleason",Accepted,,H,ILDIS,15733,,"","","","",
+tro-50231729,A,Leguminosae,,Martiodendron,,"fluminense",,"","Lombardi",Accepted,,M,TRO,50231729,326832-2,"Brittonia","54(4): 327–329, f. 1","327","2002",
+ild-29330,A,Leguminosae,,Martiodendron,,"macrocarpon",,"","Gleason",Synonym,,H,ILDIS,29330,,"","","","",ild-39580
+ild-15734,A,Leguminosae,,Martiodendron,,"mediterraneum",,"","(Benth.) R.C.Koeppen",Accepted,,H,ILDIS,15734,,"","","","",
+tro-13015002,A,Leguminosae,,Martiodendron,,"mediterraneum",,"","(Mart. ex Benth.) R. Koeppen",Unresolved,,L,TRO,13015002,505978-1,"Brittonia","14(2): 203","203","1962",
+ild-15735,A,Leguminosae,,Martiodendron,,"parviflorum",,"","(Amshoff) R.C.Koeppen",Accepted,,H,ILDIS,15735,,"","","","",
+tro-13015003,A,Leguminosae,,Martiodendron,,"parviflorum",,"","(Amshoff) R. Koeppen",Unresolved,,L,TRO,13015003,153730-2,"Brittonia","14(2): 202","202","1962",
+ild-18463,A,Leguminosae,,Martiodendron,,"parvifolium",,"","(Benth.) Gleason",Synonym,,H,ILDIS,18463,,"","","","",ild-15734

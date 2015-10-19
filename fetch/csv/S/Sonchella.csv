@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-150722,A,Compositae,,Sonchella,,"dentata",,"","(Ledeb.) Sennikov",Accepted,,M,TICA,A9142CA9-F120-4B25-8AAB-75107677EFB0,77099973-1,"Sennikov in Komarovia 5. 2008","","106","2008",
+gcc-151536,A,Compositae,,Sonchella,,"dentata",var.,"dentata","",Synonym,,L,TICA,7F048001-8423-4DCE-8CA3-86BB9C6EEC27,,"","","","",gcc-150722
+gcc-150958,A,Compositae,,Sonchella,,"dentata",var.,"tibetica","(Ostenf.) Sennikov",Synonym,,L,TICA,B7804C33-E80A-43BE-9C1F-79EDFD84E60F,77100033-1,"Sennikov in Komarovia 5. 2008","","107","2008",gcc-150722
+gcc-152587,A,Compositae,,Sonchella,,"pratensis",,"","(C.Shih) Tzvelev",Synonym,,M,TICA,4609264E-E5CE-442F-B726-9CA632448836,77089391-1,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1753","2007",gcc-150722
+gcc-147225,A,Compositae,,Sonchella,,"stenoma",,"","(DC.) Sennikov",Accepted,,M,TICA,6E53ABF6-2D95-4C55-B872-290517CD2160,77089390-1,"Sennikov in Bot. Zhurn. 92. 2007","","1753","2007",
+gcc-147445,A,Compositae,,Sonchella,,"tibetica",,"","(Ostenf.) Tzvelev",Synonym,,M,TICA,2CE3B54B-518F-4EAF-8F96-2DCCAC3A74A8,,"""N.N. Tzvelev, Rast. Tsentral. Azii 14b""","","61","",gcc-150722

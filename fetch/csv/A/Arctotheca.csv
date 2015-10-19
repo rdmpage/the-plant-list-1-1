@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-44713,A,Compositae,,Arctotheca,,"calendula",,"","(L.) Levyns",Accepted,,M,TICA,EB997747-B062-46AF-8703-52D4878C6474,178499-1,"J. S. African Bot. 8: 284 (1942)","","284","1942",
+gcc-99197,A,Compositae,,Arctotheca,,"calendulacea",,"","(L.) K.Lewin",Synonym,,M,TICA,4ABD4489-7F85-4E7E-B4E8-97D22F035BEE,134988-3,"""Repertorium Specierum Novarum Regni Vegetabilis, Beihefte 11 1922""","","","1922",gcc-44713
+tro-2722171,A,Compositae,,Arctotheca,,"calendulaceum",,"","K. Lewin",Synonym,,M,TRO,2722171,,"","","","",gcc-44713
+gcc-136981,A,Compositae,,Arctotheca,,"cryptostemmoides",,"","Beauverd",Unresolved,,L,TICA,9029F8E4-6172-4098-B6F8-ED71276D28FA,178501-1,"","","51","1915",
+gcc-51395,A,Compositae,,Arctotheca,,"forbesiana",,"","(DC.) K.Lewin",Accepted,,L,TICA,1C2DE7F5-CB4F-48D4-83EC-5F5176283A13,178502-1,"Repert. Spec. Nov. Regni Veg. Beih. 11","","49","1922",
+gcc-33726,A,Compositae,,Arctotheca,,"grandiflora",,"","Schrad.",Synonym,,M,TICA,6B7693DB-FB1C-412C-AFB5-3E8204BF01C1,178503-1,"","","1","1832",gcc-80078
+gcc-91285,A,Compositae,,Arctotheca,,"grandiflora",,"","Drège ex Turcz.",Synonym,,M,TICA,15875E14-8BC2-472E-AC39-86064291F40A,,"","","","1851",gcc-22748
+gcc-77597,A,Compositae,,Arctotheca,,"hirta",,"","Schrad. ex Steud.",Synonym,,M,TICA,4C3CD1DB-F183-4476-9827-673A0AFDD5AC,178505-1,"","","120","1840",gcc-80078
+gcc-7699,A,Compositae,,Arctotheca,,"marginata",,"","Beyers",Accepted,,M,TICA,C8A0E9B9-F73C-4E76-8FB4-0E4E898FA139,,"","","185","2002",
+gcc-101031,A,Compositae,,Arctotheca,,"nivea",,"","K.Lewin",Unresolved,,L,TICA,60605C1E-A2E6-45A7-AADF-9BECFCFC9D8A,178506-1,"Repert. Spec. Nov. Regni Veg. Beih. 11","","50","1922",gcc-76280
+gcc-76280,A,Compositae,,Arctotheca,,"populifolia",,"","(P.J.Bergius) Norl.",Accepted,,M,TICA,F2332EED-E3CC-4759-A4C4-645B5482B0DD,178507-1,"""Aquilo, Ser. Bot. 6: 84 (1967)""","","84","1967",
+gcc-80078,A,Compositae,,Arctotheca,,"prostrata",,"","(Salisb.) Britten",Accepted,,M,TICA,8440AA3C-AE8E-4385-9D2E-6CCFA1484289,178508-1,"J. Bot. 54: 61 (1916)","","61","1916",
+gcc-76143,A,Compositae,,Arctotheca,,"repens",,"","J.C.Wendl.",Synonym,,M,TICA,D0DA770E-FE03-4F10-BC33-640201BECF4C,135066-3,"","","41","1798",gcc-80078

@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-13603,A,Compositae,,Bedfordia,,"arborescens",,"","Hochr.",Accepted,,M,TICA,71AB777D-B035-428C-BC1D-1950DBE88EAC,184329-1,"Candollea 5: 332 (1934)","","332","1934",
+gcc-130290,A,Compositae,,Bedfordia,,"linearis",,"","(Labill.) DC.",Accepted,,L,TICA,0D19B0BD-7B99-40E7-8183-DE31BFC562BA,162810-3,"Prodr. 6: 441 (1838)","","441","1838",
+gcc-24528,A,Compositae,,Bedfordia,,"linearis",subsp.,"linearis","",Synonym,,L,TICA,B366EB42-202F-4F6A-A71A-2D4A5984517F,,"","","","",gcc-130290
+gcc-26045,A,Compositae,,Bedfordia,,"salicina",,"","(Labill.) DC.",Accepted,,L,TICA,B60D7655-842D-4916-8F40-3029714C6FDE,162828-3,"Prodr. 6: 441 (1838)","","441","1838",

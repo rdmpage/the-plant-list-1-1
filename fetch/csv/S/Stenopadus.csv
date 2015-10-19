@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-146960,A,Compositae,,Stenopadus,,"affinis",,"","Maguire & al.",Synonym,,M,TICA,605B9C7A-B390-4456-A1B4-23A86A9767ED,,"","","","",gcc-127143
+gcc-43932,A,Compositae,,Stenopadus,,"affinis",,"","""Maguire, Steyerm. & Wurdack""",Synonym,,M,TICA,382531BF-0D61-43F1-B067-5164948730ED,244754-2,"","","427","1957",gcc-127143
+gcc-104401,A,Compositae,,Stenopadus,,"andicola",,"","Pruski",Accepted,,M,TICA,E72DB5DC-8D51-424F-82B2-A36E44A0A481,1001408-1,"","","67","1998",
+gcc-15762,A,Compositae,,Stenopadus,,"aracaensis",,"","Pruski",Accepted,,M,TICA,E3E15DF8-EE40-4150-82CF-1D300E217DB3,,"","","","1989",
+gcc-85478,A,Compositae,,Stenopadus,,"campestris",,"","Maguire & Wurdack",Accepted,,M,TICA,E939517D-8310-4C6C-8407-78C650FFC578,,"","","","1957",
+gcc-89756,A,Compositae,,Stenopadus,,"cardonae",,"","Maguire & Lasser",Synonym,,M,TICA,C97D4B1A-B7B5-4F20-98F4-8274B70131BC,244756-2,"","","150","1953",gcc-127143
+gcc-77410,A,Compositae,,Stenopadus,,"chimantensis",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,4D4B1122-981E-439F-B34A-66D4024D32BD,244757-2,"","","427","1957",
+gcc-24778,A,Compositae,,Stenopadus,,"cinereus",,"","Gleason & S.F.Blake",Synonym,,M,TICA,487C96B7-7C07-4DE1-8328-2DCB22882AD5,244758-2,"","","200","1939",gcc-105221
+gcc-145937,A,Compositae,,Stenopadus,,"cinereus",f.,"cinereus","",Synonym,,L,TICA,C2A513F8-73FF-4F37-B461-0DF2B7B4B58B,,"","","","",gcc-105221
+gcc-73459,A,Compositae,,Stenopadus,,"cinereus",f.,"glabra","Steyerm.",Synonym,,L,TICA,597D1139-02D6-4A83-99CA-19CC8BD1EECC,,"","","","",gcc-105221
+gcc-89173,A,Compositae,,Stenopadus,,"colombianus",,"","Cuatrec. & Steyerm.",Accepted,,M,TICA,29B5429D-EF12-4F4C-ADF1-811AA86C2DD8,244759-2,"Bot. Mus. Leafl. 17","","99","1955",
+gcc-28552,A,Compositae,,Stenopadus,,"colveei",,"","(Steyerm.) Pruski",Accepted,,M,TICA,B2EAF860-DCC0-4803-99AB-34C4B67D9D53,947279-1,"","","998","1989",
+gcc-20352,A,Compositae,,Stenopadus,,"condensatus",,"","(Baker ex Baker) S.F.Blake",Synonym,,M,TICA,1BB52B20-3143-4015-B17C-25A1299509A2,251115-1,"","","299","1940",gcc-3703
+gcc-121147,A,Compositae,,Stenopadus,,"connellii",,"","(N.E.Br.) S.F.Blake",Accepted,,M,TICA,020C3DA5-E310-4074-A606-C92445CF4436,244761-2,"","","490","1931",
+gcc-118300,A,Compositae,,Stenopadus,,"crassifolius",,"","S.F.Blake",Synonym,,M,TICA,CDA03250-52BB-4A2B-9C16-C2A37CB076AC,,"","","","1932",gcc-48790
+gcc-33158,A,Compositae,,Stenopadus,,"cucullatus",,"","Maguire & Wurdack",Accepted,,M,TICA,52277BF2-EABC-4532-BCE8-3D8046585FAC,,"","","","1957",
+gcc-1100,A,Compositae,,Stenopadus,,"cymbifolius",,"","S.F.Blake",Synonym,,M,TICA,C92DBEAB-E308-40A0-86D5-02058C7C6BA2,244764-2,"","","201","1939",gcc-110980
+gcc-133090,A,Compositae,,Stenopadus,,"eurylepis",,"","S.F.Blake",Accepted,,M,TICA,81B4897D-EFD4-4833-B3B0-E4B9AF9D50E5,244765-2,"","","492","1931",
+gcc-123103,A,Compositae,,Stenopadus,,"guaiquinimensis",,"","V.M.Badillo",Synonym,,M,TICA,821AC53A-D092-4A3C-BB81-CD8C03C8F952,244766-2,"Boletin de la Sociedad Venezolana de Ciencias Naturales 9:","","136","1944",gcc-3703
+gcc-132993,A,Compositae,,Stenopadus,,"huachamacari",,"","Maguire",Accepted,,M,TICA,14A8521F-B06A-47CE-B96A-E487CA204924,244767-2,"","","151","1953",
+gcc-44090,A,Compositae,,Stenopadus,,"jauensis",,"","Aristeg.",Accepted,,M,TICA,8841D5EB-0E20-4D8D-837A-51A560281B0D,251123-1,"","","40","1968",
+gcc-82195,A,Compositae,,Stenopadus,,"kunhardtii",,"","Maguire",Accepted,,M,TICA,8B51106F-30E6-4C6B-8A55-717DD6337E47,244769-2,"","","151","1953",
+gcc-32172,A,Compositae,,Stenopadus,,"kunhardtii",var.,"grandifolia","Maguire",Synonym,,L,TICA,D9FA5E83-95A3-4F22-856E-3B998094C5E8,244770-2,"Mem. New York Bot. Gard. 8: 151. 1953","","151","1953",gcc-82195
+gcc-153166,A,Compositae,,Stenopadus,,"kunhardtii",var.,"kunhardtii","",Synonym,,L,TICA,A52EA1E8-BDB0-42E9-A9A5-A89946C7E7EC,,"","","","",gcc-82195
+gcc-126170,A,Compositae,,Stenopadus,,"megacephalus",,"","Pruski",Accepted,,M,TICA,83AF1FEF-F4EC-452E-8A63-D4B4E4A13DE8,,"","","","1989",
+gcc-5026,A,Compositae,,Stenopadus,,"neblinensis",,"","Maguire & Wurdack",Synonym,,M,TICA,6BC49A83-7E13-439C-9D5F-09613E99BEB8,244771-2,"","","55","1958",gcc-127143
+gcc-2219,A,Compositae,,Stenopadus,,"obconicus",,"","Maguire & Wurdack",Accepted,,M,TICA,F64FD2EE-E8E8-45AA-BE9E-040347E4D822,,"","","","1957",
+tro-2708276,A,Compositae,,Stenopadus,,"quaiquinimensis",,"","V.M. Badillo",Synonym,,M,TRO,2708276,,"Bol. Soc. Venez. Ci. Nat.","9: 136","136","1944",gcc-3703
+gcc-3273,A,Compositae,,Stenopadus,,"sericeus",,"","Maguire & Aristeg.",Accepted,,M,TICA,CCF80A57-90F8-452E-A023-060C217381BB,244773-2,"","","384","1957",
+gcc-108918,A,Compositae,,Stenopadus,,"steyermarkii",,"","Aristeg.",Synonym,,M,TICA,D071C1DE-9BC0-4090-BDF4-AD73242F8647,,"Acta Bot. Venez. 2(5-8)","","360","1967",gcc-127143
+gcc-129839,A,Compositae,,Stenopadus,,"stipitatus",,"","Maguire & Wurdack",Synonym,,M,TICA,2FF0FEB7-6164-4F63-A5E2-DD2AF58CBD39,244775-2,"","","381","1957",gcc-82195
+gcc-127143,A,Compositae,,Stenopadus,,"talaumifolius",,"","S.F.Blake",Accepted,,M,TICA,742EB11D-8708-4AFB-A300-D6F2991BCC89,251130-1,"Bull. Torrey Bot. Club 58","","491","1931",
+gcc-58808,A,Compositae,,Stenopadus,,"talaumifolius",var.,"magnifolius","Steyerm.",Synonym,,L,TICA,7361D304-D583-48E6-844F-9189402088E3,244777-2,"""Fieldiana, Bot. 28: 673. 1953""","","673","1953",gcc-127143
+gcc-147759,A,Compositae,,Stenopadus,,"talaumifolius",var.,"talaumifolius","",Synonym,,L,TICA,0F3C1740-62EE-40BC-90C1-34C5B813E847,,"","","","",gcc-127143
+gcc-95306,A,Compositae,,Stenopadus,,"variabilis",,"","S.F.Blake",Synonym,,M,TICA,3A1044C5-CE04-4814-81A4-8EFFD5F73C1C,244778-2,"","","202","1939",gcc-3703
+gcc-29127,A,Compositae,,Stenopadus,,"ventricosus",,"","Maguire & Aristeg.",Synonym,,M,TICA,ED49CD31-50B8-4DEF-9AE8-35D7578B0EE1,244779-2,"","","385","1957",gcc-3273

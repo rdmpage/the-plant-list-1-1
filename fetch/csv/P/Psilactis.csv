@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93507,A,Compositae,,Psilactis,,"asteroides",,"","A.Gray",Accepted,,M,TICA,012AC6A7-1BDB-4C2C-A2BC-8AE201B032D2,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.). 71""","","","1849",
+gcc-94577,A,Compositae,,Psilactis,,"brevilingulata",,"","Sch.Bip. ex Hemsl.",Accepted,,M,TICA,B9DEC440-583D-4134-B71E-8D4DD7D88FAB,212006-2,"","","34","1879",
+gcc-134546,A,Compositae,,Psilactis,,"brevilingulata",f.,"andina","Cuatrec.",Synonym,,L,TICA,09A1D6DA-F900-4E2C-B320-E80A5E403A86,,"Proc. Biol. Soc. Wash. 77: 140. 1964","","","1964",gcc-94577
+gcc-119101,A,Compositae,,Psilactis,,"brevilingulata",f.,"brevilingulata","",Synonym,,L,TICA,E0E8517E-AF44-407A-AFA8-C475E19B02ED,,"","","","",gcc-94577
+gcc-142806,A,Compositae,,Psilactis,,"coulteri",,"","A.Gray",Synonym,,M,TICA,5D885245-A2C1-4923-AFB1-FA78F4BEE248,,"","","72","1849",gcc-120112
+gcc-27549,A,Compositae,,Psilactis,,"crispa",,"","Brandegee",Synonym,,M,TICA,30E1B78C-4347-4DB2-90C1-32EFBC32B2AC,,"""Proc. Calif. Acad. Sci. ser. 2, 2""","","169","1889",gcc-22205
+gcc-128082,A,Compositae,,Psilactis,,"gentryi",,"","(Standl.) D.R.Morgan",Accepted,,M,TICA,4A3F1ED9-A602-46ED-BF41-D93186BC57E4,971313-1,"","","302","1993",
+gcc-134518,A,Compositae,,Psilactis,,"heterocarpa",,"","R.L.Hartm. & M.A.Lane",Unresolved,,L,TICA,7B09B291-028B-4209-97D4-E7FC755BC7C2,1068265-2,"Syst. Bot. 18: 301. 1993","","301","1993",
+gcc-8083,A,Compositae,,Psilactis,,"heterocarpa",,"","(R.L.Hartm. & M.A.Lane) D.R.Morgan",Accepted,,M,TICA,D83EF8D5-B42E-45CB-9BB6-0F0C5E3469B6,971312-1,"""in Syst. Bot., 18(2): 301 (1993):""","","301","1993",
+gcc-141195,A,Compositae,,Psilactis,,"leptos",,"","Shinners",Synonym,,M,TICA,8AD012A4-8FBB-44FD-8CD0-F6CE0BC14159,,"Field & Lab. 17: 53. 1949","","","1949",gcc-93507
+gcc-137995,A,Compositae,,Psilactis,,"odysseus",,"","(G.L.Nesom) D.R.Morgan",Accepted,,M,TICA,7B1C1479-2EB5-4F52-BF46-EFA41E89DD42,971311-1,"","","298","1993",
+gcc-107639,A,Compositae,,Psilactis,,"tenuis",,"","S.Watson",Synonym,,M,TICA,329A26D4-92FC-4DDB-AAD8-AA88433C6E2B,212011-2,"","","139","1891",gcc-4057

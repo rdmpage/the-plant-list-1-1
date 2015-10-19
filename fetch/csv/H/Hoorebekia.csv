@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-122618,A,Compositae,,Hoorebekia,,"acaulis",,"","(Nutt.) M.E.Jones",Accepted,,M,TICA,14528DE6-FC37-47B8-8518-CC6B5F481E08,123832-2,"","","49","1910",
+gcc-149970,A,Compositae,,Hoorebekia,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,72792C1C-BFF0-4A6A-B525-643FEFCA0F3E,,"","","","",gcc-122618
+gcc-30018,A,Compositae,,Hoorebekia,,"carthamoides",,"","(Hook.) Piper",Synonym,,M,TICA,882068DF-3368-4843-B932-3789D5A8D1B7,225055-1,"","","559","1906",gcc-119400
+gcc-152576,A,Compositae,,Hoorebekia,,"carthamoides",var.,"carthamoides","",Synonym,,L,TICA,CDB9BCA8-00BE-4492-A1D5-9C5D76B865F7,,"","","","",gcc-119400
+gcc-54679,A,Compositae,,Hoorebekia,,"carthamoides",subsp.,"carthamoides","",Synonym,,L,TICA,4BDA99D7-9429-4EEF-93D8-6FEF45B13ADA,,"","","","",gcc-119400
+gcc-133443,A,Compositae,,Hoorebekia,,"chiloensis",,"","Cornel.",Synonym,,M,TICA,600B044C-40D3-49D2-BFF0-E5835EB9318F,,"in Mussch. Hort. Gand. 120 (1817).","","13","1817",gcc-128572
+gcc-85972,A,Compositae,,Hoorebekia,,"curvata",,"","Piper",Unresolved,,L,TICA,59117056-6624-487A-B694-79E20160B605,123836-2,"","","77","1918",
+gcc-95719,A,Compositae,,Hoorebekia,,"hallii",,"","(A.Gray) Piper",Unresolved,,L,TICA,F0CCD376-5898-4A5B-9B1A-9002A0A3B139,123838-2,"","","560","1906",gcc-10452
+gcc-134692,A,Compositae,,Hoorebekia,,"hirta",,"","(A.Gray) Piper",Unresolved,,L,TICA,05ECAC46-758E-4601-B9B5-E858902431BF,123839-2,"","","560","1906",gcc-35104
+gcc-31014,A,Compositae,,Hoorebekia,,"integrifolia",,"","(Porter ex A.Gray) M.E.Jones",Unresolved,,L,TICA,A4BF1C54-F44D-4BDD-A80E-396CC8BA3232,123840-2,"","","49","1910",gcc-142125
+gcc-84920,A,Compositae,,Hoorebekia,,"lanceolata",,"","(Hook.) M.E.Jones",Accepted,,M,TICA,0248E9D6-8579-4FB5-B069-7787CE09E484,123841-2,"","","49","1910",
+gcc-2610,A,Compositae,,Hoorebekia,,"lanuginosa",,"","(A.Gray) Piper",Unresolved,,L,TICA,39D4BDBF-2C51-4F46-851C-04CD88B5CF3A,123842-2,"","","560","1906",gcc-94354
+gcc-34195,A,Compositae,,Hoorebekia,,"lyallii",,"","(A.Gray) Piper",Unresolved,,L,TICA,D04A4153-13CA-4FD6-8A2E-3F63AB2013AD,123843-2,"","","560","1906",gcc-139132
+gcc-125729,A,Compositae,,Hoorebekia,,"racemosa",,"","(Nutt.) Piper",Unresolved,,L,TICA,76850882-B353-49F7-A6CB-D3B3F2AF6916,123844-2,"","","560","1906",gcc-143340
+gcc-119093,A,Compositae,,Hoorebekia,,"stenophylla",,"","(A.Gray) Piper",Unresolved,,L,TICA,1BCD4770-5A35-45C6-8FEC-C4728BC3333C,123845-2,"","","561","1906",gcc-82597
+gcc-126953,A,Compositae,,Hoorebekia,,"uniflora",,"","(Hook.) M.E.Jones",Accepted,,M,TICA,74A02851-D4ED-4CF9-ADDC-D67C831930A3,123846-2,"","","49","1910",

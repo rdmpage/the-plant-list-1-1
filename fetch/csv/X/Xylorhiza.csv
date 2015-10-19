@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-291519,A,Amaryllidaceae,,Xylorhiza,,"angulosa",,"","(L.) Salisb.",Synonym,Invalid,H,WCSP,291519,543618-1,"Gen. Pl.","89","","1866",kew-295009
+gcc-95935,A,Compositae,,Xylorhiza,,"brandegeei",,"","Rydb.",Synonym,,M,TICA,893F33DA-CC91-4D60-A2BD-9078E558420B,287092-2,"Bull. Torrey Bot. Club 32: 124. 1905","","124","1905",gcc-88786
+gcc-137953,A,Compositae,,Xylorhiza,,"cognata",,"","(H.M.Hall) T.J.Watson",Accepted,,M,TICA,AEFD8BFD-74E8-449F-ABFB-EF8CBC48C7D7,261072-1,"","","204","1977",
+gcc-122750,A,Compositae,,Xylorhiza,,"coloradoensis",,"","(A.Gray) Rydb.",Synonym,,M,TICA,CC0862EA-9E95-467B-889A-CCB76937EC8A,269858-2,"Bull. Torrey Bot. Club 32: 124. 1905","","124","1905",gcc-88786
+gcc-29314,A,Compositae,,Xylorhiza,,"confertifolia",,"","(Cronquist) T.J.Watson",Accepted,,M,TICA,0AC27D8F-BACA-464E-B33E-362CACF081AB,269859-2,"Brittonia 29: 207. 1977","","207","1977",
+gcc-140909,A,Compositae,,Xylorhiza,,"cronquistii",,"","S.L.Welsh & N.D.Atwood",Accepted,,M,TICA,50954B56-BC36-4A33-8DF1-F6286E2036A8,269860-2,"Brittonia 33","","302","1981",
+gcc-95301,A,Compositae,,Xylorhiza,,"crutchfieldii",,"","(B.L.Turner) D.R.Morgan & R.L.Hartm.",Unresolved,,L,TICA,0FCE8FD8-0E8A-4FCC-8E00-8EFDD240C5C0,,"Sida 20(4):","","1403","2003",gcc-13526
+gcc-18409,A,Compositae,,Xylorhiza,,"frutescens",,"","(S.Watson) Greene",Accepted,,M,TICA,5190C865-CD81-4280-A3BA-22017E5B9ABC,269861-2,"","","48","1896",
+gcc-75475,A,Compositae,,Xylorhiza,,"glabriuscula",,"","Nutt.",Accepted,,M,TICA,EF7391CA-12DE-488D-B099-62858AC56E98,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 297""","","","1840",
+gcc-56112,A,Compositae,,Xylorhiza,,"glabriuscula",var.,"glabriuscula","",Synonym,,L,TICA,E87F8464-BF2C-4CE4-A485-7BE8C58422C5,,"","","","",gcc-75475
+gcc-61651,A,Compositae,,Xylorhiza,,"glabriuscula",var.,"linearifolia","T.J.Watson",Synonym,,L,TICA,239FABB8-C50E-4DC2-B065-A86138144281,269863-2,"Brittonia 29","","215","1977",gcc-75475
+gcc-63874,A,Compositae,,Xylorhiza,,"glabriuscula",var.,"villosa","(Nutt.) A.Nelson",Synonym,,L,TICA,69737ADC-1D47-4ECA-8BC5-BA2991D7F64E,269864-2,"New Man. Bot. Centr. Rocky Mt. 511. 1909","","511","1909",gcc-75475
+gcc-104313,A,Compositae,,Xylorhiza,,"lanceolata",,"","Rydb.",Synonym,,M,TICA,E53E65F5-DB24-46FD-BA8B-A33E6D130C5B,269865-2,"","","146","1910",gcc-7324
+gcc-123477,A,Compositae,,Xylorhiza,,"linearifolia",,"","(T.J.Watson) G.L.Nesom",Accepted,,M,TICA,A615BB7A-0EC6-4BD9-8E6D-CE6B559CE93B,1027424-2,"Sida 20(1)","","145","2002",
+gcc-136752,A,Compositae,,Xylorhiza,,"orcuttii",,"","(Vasey & Rose) Greene",Accepted,,M,TICA,311CBA78-ABB1-4996-8143-ECE972E74BB0,269866-2,"","","48","1896",
+gcc-132848,A,Compositae,,Xylorhiza,,"parryi",,"","Greene",Unresolved,,L,TICA,80C591FD-2F4A-462D-A9CF-E43799B8109D,,"","","","1896",
+gcc-134412,A,Compositae,,Xylorhiza,,"scopulorum",,"","A.Nelson",Synonym,,M,TICA,165F7312-A912-4CD5-9CAA-E7C1F4FAEC3D,269868-2,"Bot. Gaz. 37: 270. 1904","","270","1904",gcc-7324
+kew-291463,A,Amaryllidaceae,,Xylorhiza,,"senescens",,"","(L.) Salisb.",Synonym,Invalid,H,WCSP,291463,543619-1,"Gen. Pl.","89","","1866",kew-296571
+gcc-31832,A,Compositae,,Xylorhiza,,"standleyi",,"","(Davidson) Davidson",Synonym,,M,TICA,4F30072E-848A-4490-BE79-3AFA9C582D0A,269869-2,"","","","1923",gcc-137953
+gcc-7324,A,Compositae,,Xylorhiza,,"tortifolia",,"","(Torr. & A.Gray) Greene",Accepted,,M,TICA,4674C882-107E-4D51-AD1A-0DA0FDC87668,269870-2,"","","48","1896",
+gcc-65889,A,Compositae,,Xylorhiza,,"tortifolia",var.,"imberbis","(Cronquist) T.J.Watson",Accepted,,L,TICA,EA231EA6-DC1C-40AC-90E9-CA6FA27DE0B3,269871-2,"","","211","1977",
+gcc-36044,A,Compositae,,Xylorhiza,,"tortifolia",var.,"tortifolia","",Synonym,,L,TICA,BDE1A7CD-C6FC-480E-A587-42DA015A1251,,"","","","1977",gcc-7324
+gcc-39081,A,Compositae,,Xylorhiza,,"venusta",,"","(M.E.Jones) A.Heller",Accepted,,M,TICA,5CF34BED-83FC-47CB-A956-4884E40903F5,269872-2,"Muhlenbergia 1: 8. 1900","","8","1900",
+gcc-100236,A,Compositae,,Xylorhiza,,"villosa",,"","Nutt.",Synonym,,M,TICA,12D7E9FC-F281-4D08-A358-9A2B03CCE32A,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","298","1840",gcc-75475
+gcc-7106,A,Compositae,,Xylorhiza,,"wrightii",,"","(A.Gray) Greene",Accepted,,M,TICA,D4F227AC-64A5-4E62-A785-0D3895FB8D6D,269874-2,"","","47","1896",

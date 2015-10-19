@@ -1,0 +1,83 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-52031,A,Compositae,,Zinnia,,"acerosa",,"","(DC.) A.Gray",Accepted,,M,TICA,ED425BD6-D6F1-495F-B8F4-60842419879A,,"","","105","1852",
+gcc-59468,A,Compositae,,Zinnia,,"acerosa",var.,"acerosa","",Synonym,,L,TICA,350F06EF-28A7-48A5-9C90-9696CB8E8519,,"","","","1852",gcc-52031
+gcc-16105,A,Compositae,,Zinnia,,"ambigua",,"","Hort.Berol. ex Salm-Dyck",Unresolved,,L,TICA,1B3134CC-F5DA-48BF-A324-1DCAD9B0CAFD,261317-1,"Hort. Dyck. (1834) 293 (Quid ?).","","293","1834",
+gcc-4658,A,Compositae,,Zinnia,,"americana",,"","(Mill.) Olorode & A.M.Torres",Accepted,,M,TICA,BF5FDA50-9B19-46B6-94E3-08AA195967F8,,"","","368","1970",
+gcc-27667,A,Compositae,,Zinnia,,"angustifolia",,"","Kunth",Accepted,,M,TICA,79F7BD18-9580-4B4A-87E8-331EF6652F2F,,"","","197","",
+gcc-11203,A,Compositae,,Zinnia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,A8B5F375-8B0B-42E8-BE62-14F07E51530A,,"","","","1820",gcc-27667
+gcc-19525,A,Compositae,,Zinnia,,"angustifolia",var.,"littoralis","(B.L.Rob. & Greenm.) B.L.Turner",Accepted,,L,TICA,1EF7CF0A-DE5D-4294-8370-241747AECE52,287204-2,"Phytologia 69(1)","","17","1990",
+gcc-84039,A,Compositae,,Zinnia,,"anomala",,"","A.Gray",Accepted,,M,TICA,D212DCB8-3957-482D-9650-759FBBBA6490,,"Pl. Wright. i. 106.","","","1852",
+gcc-87073,A,Compositae,,Zinnia,,"aurea",,"","Hort. ex Vilm.",Unresolved,,L,TICA,277C9072-1542-4F1C-8654-7C6EA59A4C27,261321-1,"Fl. Pleine Terre 971","","971","1863",
+gcc-117044,A,Compositae,,Zinnia,,"australis",,"","F.M.Bailey",Synonym,,M,TICA,61D148E9-2D26-4EF0-A5AE-BFC425A06CD6,261322-1,"","","14","1891",gcc-91964
+gcc-145325,A,Compositae,,Zinnia,,"australis",,"","F. Bailey",Synonym,,M,TICA,0906972A-4406-4975-ACC3-01CF0B077820,,"","","","",gcc-91964
+gcc-38868,A,Compositae,,Zinnia,,"barrancae",,"","M.E.Jones",Unresolved,,L,TICA,FBB7075C-E1D6-4FEF-9E4B-481BFD1B5C85,315638-2,"","","78","1933",
+gcc-117004,A,Compositae,,Zinnia,,"bicolor",,"","(DC.) Hemsl.",Accepted,,M,TICA,FF66C5F9-BF83-43BB-8D98-BFB004077625,,"""Biol. Cent.-Amer., Bot. ii. 153.""","","153","1881",
+gcc-18772,A,Compositae,,Zinnia,,"bicuspis",,"","DC.",Synonym,,M,TICA,68F507B1-516D-423F-98BB-22A998413B02,261325-1,"Prodr. 5: 535. 1836.","","535","1836",gcc-4658
+gcc-11893,A,Compositae,,Zinnia,,"bidens",,"","Retz.",Synonym,,M,TICA,E8121C1F-5BCB-4F83-B649-162A65FECB0E,261326-1,"","","28","1788",gcc-94833
+gcc-90952,A,Compositae,,Zinnia,,"citrea",,"","A.M.Torres",Accepted,,M,TICA,32CE4FBE-496E-47B4-A010-853A7CA4F30A,271130-2,"","","215","1960",
+gcc-80708,A,Compositae,,Zinnia,,"dahliiflora",,"","Hort. ex Kilgus",Unresolved,,L,TICA,63D82BA2-DE30-4EA0-9388-6E289A02B03B,261328-1,"""in Mollers Deutsch. Gartner-Zeit. 1933, xlviii. 14, in obs.""","","""xlviii. 14, in obs.""","1933",
+gcc-105162,A,Compositae,,Zinnia,,"darwinii",,"","Haage & Schmidt.",Unresolved,,L,TICA,D1262168-5205-4D73-9BEB-A5078AA149E3,261329-1,"Cf. Gard. Chron. (1875) II. 782.",""," II. 782","1875",
+gcc-82758,A,Compositae,,Zinnia,,"discolor",,"","hort.hal. ex Heynh.",Unresolved,,L,TICA,E3655837-2BE4-4099-877D-72C06CC28267,,"""Nom. i. 864, nomen (Quid ?).""","","""i. 864, nomen""","",
+gcc-157211,A,Compositae,,Zinnia,,"elegans",,"","L.",Accepted,,M,TICA,0CA1E7DE-827F-444D-B1AC-FD4490277DFD,,"","","","",
+gcc-45373,A,Compositae,,Zinnia,,"elegans",,"","Sessé & Moc.",Unresolved,Illegitimate,L,TICA,BF0563C0-5D42-43B6-BB64-5415498AE3F3,,"","","","1890",
+gcc-76022,A,Compositae,,Zinnia,,"elegans",,"","Jacq.",Unresolved,,L,TICA,28B59F18-B996-4FB8-9DEB-63BBA4E55573,,"Icon. Pl. Rar. 3","","t. 589","1792",
+gcc-149733,A,Compositae,,Zinnia,,"elegans",var.,"elegans","",Synonym,,L,TICA,A0198BDA-C9D9-4BBB-B619-5F2F0E451494,,"","","","",gcc-76022
+gcc-5291,A,Compositae,,Zinnia,,"flavicoma",,"","(DC.) Olorode & Torres",Accepted,,M,TICA,6FBB6D14-9A33-4234-8208-09E01B6834AD,,"Brittonia 22(4): 368 (1970 publ. 1971)","","368","1970",
+gcc-117817,A,Compositae,,Zinnia,,"florida",,"","Salisb.",Unresolved,,L,TICA,1E3285EA-6193-41C9-9DF7-C1823BEB3634,261334-1,"Prodr. Stirp. Chap. Allerton 205","","205","1796",
+gcc-125120,A,Compositae,,Zinnia,,"floridana",,"","Raf.",Unresolved,,L,TICA,D5F301D6-AC12-425B-949F-D2538E90B386,,"New Fl. (Rafinesque) iv. 70 (Quid ?).","","70","1836 [1838]",
+gcc-122567,A,Compositae,,Zinnia,,"fulva",,"","Schrank",Unresolved,,L,TICA,543CBF1C-811B-45FF-B366-CC4B354EB6DA,,"in Denkschr. Bot. Ges. Regensb. i. (1815) 146","","146","",
+gcc-126154,A,Compositae,,Zinnia,,"ghiesbreghtii",,"","Verlot",Unresolved,,L,TICA,AC28BAEF-3C1A-4093-A433-D4AC838B8176,,"in Rev. Hortic. (1862) 368.","","368","1862",
+gcc-119148,A,Compositae,,Zinnia,,"grandiflora",,"","Nutt.",Accepted,,M,TICA,4B2B5A82-6136-4182-9BB0-C4898AF7C6F7,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 348""","","348","1840",
+gcc-916,A,Compositae,,Zinnia,,"grandiflora",,"","Hort. ex DC.",Unresolved,,L,TICA,632222FA-992A-432E-B56B-01B20A9CE937,261338-1,"Prodr. (DC.) 5: 536","","536","1836",
+gcc-43462,A,Compositae,,Zinnia,,"greggii",,"","B.L.Rob. & Greenm.",Unresolved,,L,TICA,AADB5862-40A8-470E-8B70-5093C4A08B29,271139-2,"","","16","1896",
+gcc-143334,A,Compositae,,Zinnia,,"haageana",,"","Regel",Accepted,,M,TICA,2F96574A-AC02-4041-B684-FBA26CFD8092,261341-1,"","","355","1861",
+gcc-108193,A,Compositae,,Zinnia,,"haegeana",,"","L.",Unresolved,,L,TICA,F195F8DB-7B95-4658-A9D2-ABC403AFE599,,"","","","",
+gcc-33768,A,Compositae,,Zinnia,,"hybrida",,"","hort.par. ex Poir.",Unresolved,,L,TICA,A3660272-4F43-4A22-8BB7-3E992B09D7D8,261342-1,"Encycl. (Lamarck) 8: 862","","862","1808",
+gcc-90563,A,Compositae,,Zinnia,,"hybrida",,"","Roem. & Usteri",Synonym,,L,TICA,CB6CE11F-9EB9-473F-9EF4-84576E538A93,,"""Mag. Bot. i. 1tes St. (1787) 49; Sims, Bot. Mag. t. 2123.""","","","1787",gcc-127354
+gcc-34370,A,Compositae,,Zinnia,,"intermedia",,"","Engelm.",Synonym,,L,TICA,21C0ED86-1D45-4C9D-A135-3FB1E202B8B2,261344-1,"","","107","1848",gcc-127354
+gcc-35018,A,Compositae,,Zinnia,,"jugistyla",,"","Paul G.Wilson",Unresolved,,L,TICA,43388F7E-9C99-46BC-8380-40EE64B4A052,271141-2,"","","163","1958",
+gcc-47234,A,Compositae,,Zinnia,,"juniperifolia",,"","(DC.) A.Gray",Accepted,,M,TICA,A4DFA339-2891-4284-827C-577AC24EFF35,,"Pl. Wright. i. 105.","","","1852",
+gcc-38400,A,Compositae,,Zinnia,,"laevis",,"","E.H.L.Krause",Unresolved,,L,TICA,9DF9AE98-EC4A-47E0-B31F-47417D091964,,"","","","1905",
+gcc-21807,A,Compositae,,Zinnia,,"leptopoda",,"","DC.",Synonym,,L,TICA,4A462102-A2D2-46B7-96E3-285B3DA4D15F,261348-1,"","","535","1836",gcc-127354
+gcc-117981,A,Compositae,,Zinnia,,"leucoglossa",,"","S.F.Blake",Unresolved,,L,TICA,B345D77B-8335-44B6-A238-C1E05BA1355E,271144-2,"","","608","1924",
+gcc-105974,A,Compositae,,Zinnia,,"liebmannii",,"","""benth. & hook.f."""" ex Klatt""""""",Synonym,,M,TICA,DDFAE6ED-B78F-467B-96D7-A6C359E9AF08,261350-1,"","","89","1887",gcc-133377
+gcc-136160,A,Compositae,,Zinnia,,"liebmannii",,"","Benth. & Hook.f.",Unresolved,,L,TICA,CD0B7C0C-FA9E-453D-82FD-EB95DEB9C57E,271145-2,"Leopoldina 23: 89. 1887","","89","1887",
+gcc-142513,A,Compositae,,Zinnia,,"linearifolia",,"","Moench",Unresolved,,L,TICA,834E245E-FF77-4F05-A15F-F9C4F1D5A015,261351-1,"Suppl. Meth. (Moench) 261. 1802 [2 May 1802]","","261","1802",
+gcc-86207,A,Compositae,,Zinnia,,"linearis",,"","Benth.",Synonym,,M,TICA,55DBB6F0-0856-403C-B8BF-7A67FDBBE36B,261352-1,"","","17","1839",gcc-27667
+gcc-151553,A,Compositae,,Zinnia,,"linearis",var.,"linearis","",Synonym,,L,TICA,8525EAAC-3F45-4344-8B30-8736FF696465,,"","","","",gcc-27667
+gcc-45148,A,Compositae,,Zinnia,,"littoralis",,"","B.L.Rob. & Greenm.",Synonym,,M,TICA,26CCDD68-AFBE-42A1-9A52-53B0228672FC,287205-2,"Proc. Amer. Acad. Arts 32: 16. 1896","","16","1896",gcc-19525
+gcc-132364,A,Compositae,,Zinnia,,"lutea",,"","Gaertn.",Unresolved,,L,TICA,E3F3D041-448D-460A-9922-E318775FD690,,"Fruct. Sem. Pl. ii. 459. t. 172","","459","",
+gcc-84164,A,Compositae,,Zinnia,,"maritima",,"","Kunth",Accepted,,M,TICA,36DA3B1F-0E58-4F1C-AA11-75EBD62C9FAE,271149-2,"Nov. Gen. Sp. [H.B.K.] iv. 251.","","","",
+gcc-69434,A,Compositae,,Zinnia,,"maritima",var.,"maritima","",Synonym,,L,TICA,EDB39A4F-EBFA-411A-BF51-E63D0C7B5403,,"","","","1820",gcc-84164
+gcc-31302,A,Compositae,,Zinnia,,"maritima",var.,"palmeri","(A.Gray) B.L.Turner",Accepted,,L,TICA,036EF45E-E92A-4493-A52D-39F8A7F1ECDB,287206-2,"Phytologia 69(1)","","18","1990",
+gcc-36603,A,Compositae,,Zinnia,,"marylandica",,"","D.M.Spooner, Stimart & T.H.Boyle",Unresolved,,L,TICA,DE66C677-3ADA-43EB-A34F-43DE473B6BA2,958883-1,"","","8","1991",
+gcc-22761,A,Compositae,,Zinnia,,"mendocina",,"","Phil.",Synonym,,L,TICA,1E0DE41E-27B7-4543-BFDA-2A20960BAE08,,"Sert. Mendoc. Alt. 27.","","","1870",gcc-127354
+gcc-89784,A,Compositae,,Zinnia,,"mexicana",,"","Hort. ex Vilm.",Unresolved,,L,TICA,93A0476B-6A98-42A2-AF53-8289DC731EF7,261357-1,"Fl. Pleine Terre 971","","971","1863",
+gcc-246,A,Compositae,,Zinnia,,"microglossa",,"","(DC.) McVaugh",Accepted,,M,TICA,BC5DB67D-7E55-48F4-8F56-0074FD336431,914759-1,"""Fl. Novo-Galiciana, 12: 1119 (1984):.""","","","1984",
+gcc-81312,A,Compositae,,Zinnia,,"multiflora",,"","L.",Synonym,,L,TICA,E8C1FCDD-B2E7-426D-8E27-6F842E39B915,261358-1,"","","1269","1763",gcc-127354
+gcc-146829,A,Compositae,,Zinnia,,"multiflora",var.,"multiflora","",Synonym,,L,TICA,CEA8E72D-4D92-4409-AC24-2088D52DEAED,,"","","","",gcc-127354
+gcc-117719,A,Compositae,,Zinnia,,"oligantha",,"","I.M.Johnst.",Accepted,,M,TICA,DB519666-600A-48F6-8505-C14C3C4216E9,271153-2,"","","74","1940",
+gcc-119199,A,Compositae,,Zinnia,,"palmeri",,"","A.Gray",Synonym,,M,TICA,C36AFB74-5B00-4B36-A807-C4A21C4438EE,271154-2,"Proc. Amer. Acad. Arts 22","","423","1887",gcc-31302
+gcc-8133,A,Compositae,,Zinnia,,"palmeri",,"","A.Gray ex S.Watson",Unresolved,,L,TICA,C7809712-FF10-4160-A39F-0F1FE2BFA0B1,,"Proc. Amer. Acad. Arts xxii. (1887) 423.","","423","",
+gcc-88106,A,Compositae,,Zinnia,,"pauciflora",,"","Phil.",Accepted,,M,TICA,04EDD733-F3D0-4AF0-8223-7EAF33223064,261362-1,"","","49","",
+gcc-98944,A,Compositae,,Zinnia,,"pauciflora",,"","L.",Synonym,Illegitimate,L,TICA,AAB2AE46-8339-4A53-8181-973CD49EE8D6,261361-1,"","","1269","1763",gcc-127354
+gcc-55496,A,Compositae,,Zinnia,,"pauciflora",var.,"flava","(Kuntze) Seckt",Synonym,,L,TICA,CB8ABCDD-1055-4288-9438-7667AF006FC2,,"Fl. Cordob. 539 (1930)","","539","1930",gcc-127354
+gcc-150187,A,Compositae,,Zinnia,,"pauciflora",var.,"pauciflora","",Synonym,,L,TICA,264C74C7-77A9-41D5-B487-690615146B3B,,"","","","",gcc-88106
+gcc-127354,A,Compositae,,Zinnia,,"peruviana",,"","(L.) L.",Accepted,,L,TICA,5DB19027-7F44-49DD-9885-D778609E5A31,261363-1,"""Syst. Nat., ed. 10, 2""","","1221","1759",
+gcc-130541,A,Compositae,,Zinnia,,"pumila",,"","A.Gray",Accepted,,M,TICA,D473192B-D5F8-4D9B-8EC1-DEC4491A9FF5,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 81.""","","81","1849",
+gcc-50564,A,Compositae,,Zinnia,,"purpusii",,"","Brandegee",Accepted,,M,TICA,E4E06E65-8771-4700-B5FD-5DBD9E01038C,271157-2,"","","420","1924",
+gcc-123788,A,Compositae,,Zinnia,,"revoluta",,"","Cav.",Synonym,,L,TICA,D33A7B83-3366-4CF2-9868-CF2CF3AFADC8,,"","","""26-27, t. 251""","1794 [1795]",gcc-127354
+gcc-2315,A,Compositae,,Zinnia,,"roezlii",,"","Hort.",Unresolved,,L,TICA,F8136EEF-0E87-4349-A546-0435823D02D1,261367-1,"Cf. Gard. Chron. (1872) 1392.","","1392","1872",
+gcc-110850,A,Compositae,,Zinnia,,"schiedeana",,"","(Less.) Olorode & Torres",Synonym,,M,TICA,2A3B2340-0C40-4B73-8897-B1D1DEE9FFAA,,"","","268","1970",gcc-4658
+gcc-100770,A,Compositae,,Zinnia,,"sulphurea",,"","Hort. ex J.W.Loudon",Unresolved,,L,TICA,67D84764-7D4C-43D3-A855-9B5FBA38AC13,927853-1,"","","","1840",
+gcc-19377,A,Compositae,,Zinnia,,"suphurea",,"","Hort. ex Hort. ex J. Loud.",Unresolved,,L,TICA,348B5ED1-A52E-4316-8049-23D1DBEE6529,,"The ladies' flower-garden...","","204","1840",
+gcc-13228,A,Compositae,,Zinnia,,"tenella",,"","B.L.Rob.",Unresolved,,L,TICA,6B6CB400-1A8C-467C-8DF2-18A64D53130C,271158-2,"Proc. Amer. Acad. Arts xliii. 39 (1907)","","39","1907",
+gcc-133183,A,Compositae,,Zinnia,,"tenuiflora",,"","Jacq.",Synonym,,L,TICA,53E56E42-BDBE-4FAD-BAC1-E4F0C34DAA9A,,"","","t. 509","1793",gcc-127354
+gcc-93489,A,Compositae,,Zinnia,,"tenuis",,"","(S.Watson) Strother",Accepted,,M,TICA,8889A8DC-83F9-4EA2-A47F-8ADB18C012AD,271160-2,"","","173","1979",
+gcc-102333,A,Compositae,,Zinnia,,"venusta",,"","(A.M.Torres) Olorode & A.M.Torres",Accepted,,L,TICA,FE88ADC8-12E1-4590-ADFA-9EE19A764F49,,"Brittonia 22(4): 368 (1970 publ. 1971)","","368","1970",
+gcc-22434,A,Compositae,,Zinnia,,"verticillata",,"","Andrews",Synonym,,L,TICA,FA6A95B7-1298-41C0-AFF7-29800729D0C4,271161-2,"","","t. 189","1801",gcc-127354
+gcc-52482,A,Compositae,,Zinnia,,"verticillata",,"","Cav.",Unresolved,,L,TICA,F1D451BD-4539-4899-B52D-6148B3ECB9EF,261374-1,"Desc. 209.","","209","",
+gcc-91964,A,Compositae,,Zinnia,,"violacea",,"","Cav.",Accepted,,M,TICA,84B58163-77AE-4F1B-A07C-8791A1C64270,,"","","""57, pl. 81""","1791",
+gcc-150833,A,Compositae,,Zinnia,,"violacea",var.,"violacea","",Synonym,,L,TICA,DBC557F9-3E74-4FC9-A8F8-77226A6CAAF0,,"","","","",gcc-91964
+gcc-6380,A,Compositae,,Zinnia,,"zamudiana",,"","Calderón & Rzed.",Unresolved,,L,TICA,8B49D48B-11DD-45D7-933A-0BDC50BFD74F,,"Acta Bot. Mex. 36","","","1996",
+gcc-131912,A,Compositae,,Zinnia,,"zinnioides",,"","(Kunth) Olorode & Torres",Accepted,,M,TICA,CA3E5441-8E04-4894-BDB3-E209C550787E,,"","","368","1970",

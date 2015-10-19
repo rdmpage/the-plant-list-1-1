@@ -1,0 +1,280 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-358,A,Compositae,,Prenanthes,,"abietina",,"","(Boiss. & Balansa) Kirp.",Synonym,,M,TICA,9A9F7340-4214-40F7-8F47-00A364FA32DA,239417-1,"","","270","1964",gcc-146817
+gcc-133446,A,Compositae,,Prenanthes,,"acanthifolia",,"","Willd.",Synonym,,M,TICA,46761C8C-4E3A-4A58-8B6A-E584A6DF0EB5,239418-1,"","","1542","1803",gcc-101225
+gcc-111906,A,Compositae,,Prenanthes,,"acaulis",,"","Roxb.",Synonym,,M,TICA,35635671-6CEC-449E-917C-B437A10BD5D1,60456392-2,"","","403","1832",gcc-51979
+gcc-25501,A,Compositae,,Prenanthes,,"acerifolia",,"","(Maxim.) Matsum.",Synonym,,M,TICA,A80FAD60-DE56-4AE8-AD86-2F1555E98E7E,,"","","","",gcc-123655
+gcc-140823,A,Compositae,,Prenanthes,,"affinis",,"","Jungh.",Accepted,,M,TICA,5A37BA3D-E011-4ACC-8CDD-F5F157EB6694,239422-1,"","","42","1845",
+gcc-153968,A,Compositae,,Prenanthes,,"aitchisoniana",,"","(Beauverd) Bano & Qaiser",Unresolved,,L,TICA,2C803724-FEA7-4A28-AE96-B96BED964411,77103492-1,"Bano & Qaiser in Pakistan J. Bot. 41. 2009","","2089","2009",
+gcc-107815,A,Compositae,,Prenanthes,,"alata",,"","Hook.f. & Thomson ex C.B.Clarke",Unresolved,,L,TICA,F7ABC41D-11E6-4BDB-B99A-AAF523EF891C,239424-1,"Comp. Ind. 274.","","274","",
+gcc-24010,A,Compositae,,Prenanthes,,"alata",,"","(Hook.) D.Dietr.",Synonym,,L,TICA,735FF9DD-8A5F-4613-8B09-2C5D4E62DE26,,"""Syn. Pl. (D. Dietrich) iv. 1309; A. Gray, Syn. Fl. N. Am. i. II. 435.""","","1309","1847",gcc-106858
+gcc-24472,A,Compositae,,Prenanthes,,"alata",var.,"alata","",Synonym,,L,TICA,C6113C33-B046-459F-A322-2D2C0FF96C15,,"","","","",gcc-106858
+gcc-60783,A,Compositae,,Prenanthes,,"alata",var.,"sagittata","A.Gray",Synonym,,L,TICA,56779029-40E7-4747-A6C3-A12CA18EAFA4,209992-2,"""Syn. Fl. N. Amer. 1, pt. 2: 435. 1884""","","435","1884",gcc-35319
+gcc-19573,A,Compositae,,Prenanthes,,"alba",,"","Bigel. ex DC.",Unresolved,Invalid,L,TICA,D052ACA0-AAE2-4385-9260-2430B4A0FE4D,239427-1,"Prodr. (DC.) 7(1): 242","","242","1838",gcc-21953
+gcc-37064,A,Compositae,,Prenanthes,,"alba",,"","Walter",Unresolved,,L,TICA,0E683CB3-CDFE-45E7-AEF5-44ADB759B852,239426-1,"Fl. Carol. 193","","193","1788",
+gcc-37624,A,Compositae,,Prenanthes,,"alba",,"","L.",Synonym,,M,TICA,0008B997-62D0-43FA-8A79-45BDADDA3481,315756-2,"","","798","1753",gcc-126682
+gcc-4821,A,Compositae,,Prenanthes,,"alba",var.,"alba","",Synonym,,L,TICA,29FB0A97-6B59-4777-B375-08F918FE26A3,,"","","","",gcc-126682
+gcc-70243,A,Compositae,,Prenanthes,,"alba",subsp.,"alba","",Synonym,,L,TICA,173BDE83-170C-4C5C-B317-EC92FC47139B,,"","","","",gcc-126682
+gcc-1541,A,Compositae,,Prenanthes,,"alba",var.,"nana","Bigelow",Unresolved,,L,TICA,366E556E-C4C6-4852-A808-02C9457BB6A1,1042194-2,"""Fl. Boston., ed. 2 286. 1824 [28 Jun 1824]""","","286","1824",
+gcc-102081,A,Compositae,,Prenanthes,,"alliariifolia",,"","DC.",Synonym,,M,TICA,A5F1429D-5A4A-4729-BEA3-9E411B45A80B,239428-1,"Prodr. (DC.) 7(1): 195","","195","1838",gcc-41732
+gcc-112303,A,Compositae,,Prenanthes,,"altissima",,"","Pall.",Unresolved,,L,TICA,214D4FD7-6549-4420-B83D-B514DDF4CBCA,239429-1,"""Reise, iii. 655.""","","iii. 655","",
+gcc-9821,A,Compositae,,Prenanthes,,"altissima",,"","L.",Synonym,,M,TICA,AC1745E5-FE22-4651-9EAA-1259F1EDA1B1,,"","","","1753",gcc-120814
+gcc-137247,A,Compositae,,Prenanthes,,"altissima",f.,"altissima","",Synonym,,L,TICA,FA35323A-7021-4599-903E-EE0C85BDFEDA,,"","","","",gcc-120814
+gcc-72045,A,Compositae,,Prenanthes,,"altissima",var.,"altissima","",Synonym,,L,TICA,456E4459-99D0-4B13-A6F1-FADAC3BB6136,,"","","","",gcc-120814
+gcc-4364,A,Compositae,,Prenanthes,,"altissima",var.,"cinnamomea","Fernald",Synonym,,L,TICA,A33621B4-66D0-4F1D-8442-081D068E393B,209998-2,"","","95","1908",gcc-120814
+gcc-70464,A,Compositae,,Prenanthes,,"altissima",var.,"hispidula","Fernald",Synonym,,L,TICA,8DDB864F-2905-4884-B571-EE5A5876DC25,60439587-2,"Contr. Bot. Vermont 8: 89. 1900 ; Fl. Vermont 89. 1900.","","89","1900",gcc-120814
+gcc-120481,A,Compositae,,Prenanthes,,"amabilis",,"","Balf.f.",Synonym,,M,TICA,BF609998-55A6-4C69-AB02-C7A3DF88E1DF,239431-1,"in Proc. Roy. Soc. Edinb. xi. (1882) 842.","","842","1882",gcc-146356
+gcc-140542,A,Compositae,,Prenanthes,,"amplexicaulis",,"","Mill.",Unresolved,,L,TICA,F54B96BD-B22A-4DA9-8A6B-F545AC41CDF7,239432-1,"""Gard. Dict., ed. 8. n. 4""","","4","1768",
+gcc-13973,A,Compositae,,Prenanthes,,"angustifolia",,"","Boulos",Synonym,,M,TICA,F105E0CC-CBE2-4039-93B8-19F156CE5A53,239433-1,"in Bot. Notiser cxv. 59 (1962).","","59","1962",gcc-150722
+gcc-44991,A,Compositae,,Prenanthes,,"angustiloba",,"","C.Shih",Synonym,,M,TICA,0B51C87C-4F04-4745-9F2A-535AECC92615,,"Acta Phytotax. Sin. 25(3): 193 (1987)","","193","1987",gcc-135850
+gcc-117446,A,Compositae,,Prenanthes,,"aphylla",,"","Nutt.",Synonym,,M,TICA,40282A3F-B22F-4080-8245-C0AA929BC2AB,210004-2,"","","123","1818",gcc-81846
+gcc-98460,A,Compositae,,Prenanthes,,"arborea",,"","Brouss.",Unresolved,,L,TICA,82464F09-D41F-4369-8AF5-963224487495,239435-1,"Elench. Hort. Monsp. (1805) 47.","","47","1805",
+gcc-107150,A,Compositae,,Prenanthes,,"aspera",,"","Michx.",Synonym,,M,TICA,D13C7D03-A80E-4BD6-8F7F-A96FA76953C1,239437-1,"","","83","1803",gcc-121668
+gcc-14665,A,Compositae,,Prenanthes,,"aspera",,"","Schrad. ex Willd.",Synonym,Illegitimate,M,TICA,DD19718B-F68A-42F2-A3DE-1B3429A6C40E,,"Sp. Pl. iii. 1539; et ex DC. Prod. vii. 141.","","1539","1803",gcc-105167
+gcc-146481,A,Compositae,,Prenanthes,,"aspleniifolia",,"","Willd.",Synonym,,M,TICA,90819C7D-75B9-42D2-8DA5-196AE2D62EC0,,"""C.L. von Willdenow, Sp. Pl. 3. 1804""","","1540","1804",gcc-110388
+gcc-28050,A,Compositae,,Prenanthes,,"attica",,"","Spreng.",Unresolved,,L,TICA,A6F378B4-BC2B-4EA4-848A-33CA129991C9,239439-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 654","","654","1826",
+gcc-2871,A,Compositae,,Prenanthes,,"autumnalis",,"","Walter",Accepted,,M,TICA,DA747A06-FFCB-496F-A089-054D91223DAF,328813-2,"Fl. Carol.","","193","1788",
+gcc-39668,A,Compositae,,Prenanthes,,"barbata",,"","(Torr. & A.Gray) Milstead",Accepted,,M,TICA,C98AB085-80E5-4489-BC4B-499A6354C9D4,210005-2,"Brittonia 29: 223. 1977","","223","1977",
+gcc-45096,A,Compositae,,Prenanthes,,"barbata",,"","(Torr. & A.Gray) Cronquist",Synonym,,M,TICA,77540F21-EF34-48A2-B4CE-539AA6309D2D,239441-1,"","","223","1977",gcc-13165
+gcc-115828,A,Compositae,,Prenanthes,,"blinii",,"","(H.Lév.) Kitag.",Synonym,,M,TICA,1910DFD4-9F50-468B-911D-BD13EE1B26E3,239442-1,"in Journ. Jap. Bot. xlv. 125 (1970).","","125","1970",gcc-44269
+gcc-23229,A,Compositae,,Prenanthes,,"blinii",,"","(Level) Kitam.",Unresolved,,L,TICA,469ABC2E-E600-482D-8D70-2B00094876C8,,"Acta Phytotax. Geobot. 26(5-6): 141 (1975).","","141","1975",
+gcc-125749,A,Compositae,,Prenanthes,,"boottii",,"","(DC.) D.Dietr.",Accepted,,M,TICA,89E29B2C-F4E2-490B-A573-D3C05833540D,,"""Syn. Pl. (D. Dietrich) iv. 1309; A. Gray, Syn. Fl. N. Am. i. II. 435.""","","","1847",
+gcc-99058,A,Compositae,,Prenanthes,,"boottii",,"","(DC.) A.Gray",Unresolved,,L,TICA,92B4BE28-FF08-471A-9816-978658FE5D8F,,"","","","",
+gcc-149056,A,Compositae,,Prenanthes,,"brunoniana",,"","Wall. ex DC.",Synonym,,M,TICA,22913A8F-F96F-4293-A74E-508F9F8A1E56,,"Prodr. (DC.) 7(1): 195. 1838","","195","1838",gcc-41732
+gcc-9713,A,Compositae,,Prenanthes,,"brunoniana",,"","Wall.",Unresolved,,L,TICA,1305C0B1-C606-49BA-A90C-1225D88E57D4,,"Numer. List [Wallich] n. 3278","","3278","",
+gcc-144945,A,Compositae,,Prenanthes,,"bulbosa",,"","(L.) DC.",Synonym,,M,TICA,8FC7E699-5554-4397-83B4-FF4DE338E702,,"Fl. Fr. iv. 7.","","","1805",gcc-102208
+gcc-1101,A,Compositae,,Prenanthes,,"cacaliifolia",,"","Kirp.",Synonym,,M,TICA,E95B5A6E-0E69-44DC-B551-0206001FDB54,,"","","","",gcc-97324
+gcc-115695,A,Compositae,,Prenanthes,,"cacaliifolia",,"","(M.Bieb.) Beauverd",Synonym,,M,TICA,7CA83348-E9DE-49DC-828A-BCC7432ECF00,,"","","114","1910",gcc-125006
+gcc-123672,A,Compositae,,Prenanthes,,"callosa",,"","Klatt",Unresolved,,L,TICA,D07B7D4C-9648-4D16-BCB0-CEE0C8B16762,239448-1,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München (1878) 98.","","98","",
+gcc-89664,A,Compositae,,Prenanthes,,"candolleana",,"","Wall.",Unresolved,,L,TICA,8AA21615-6E08-4C6D-815E-8234EF03E04B,,"Numer. List [Wallich] n. 3280","","3280","",
+gcc-151462,A,Compositae,,Prenanthes,,"carrii",,"","""Singhurst, O'Kennon & W.C.Holmes""",Accepted,,M,TICA,82E89066-1C3B-4E06-B8B6-84FBFCE62C87,,"Singhurst & al. in Sida 21. 2004","","","2004",
+gcc-106282,A,Compositae,,Prenanthes,,"cavaleriei",,"","(H.Lév.) Stebbins ex Lauener",Synonym,,M,TICA,067A1040-91E9-4CE3-89C5-A76B18CCD2BE,239450-1,"Notes Roy. Bot. Gard. Edinburgh 34(3): 397","","397","1976",gcc-11062
+gcc-102857,A,Compositae,,Prenanthes,,"cervicornis",,"","Boiss.",Synonym,,M,TICA,CC3CD10E-06D7-4FA4-ADEC-A009A2C5DEE2,,"","","744","1845",gcc-48516
+gcc-85714,A,Compositae,,Prenanthes,,"chaffanjoni",,"","H.Lév.",Synonym,,M,TICA,98AB1628-5CDF-4370-A3E2-794D927F903D,239452-1,"Repert. Spec. Nov. Regni Veg. 11: 305","","305","1912",gcc-38241
+gcc-114822,A,Compositae,,Prenanthes,,"chinensis",,"","Thunb.",Synonym,,M,TICA,7A4E28F8-990A-4E8F-B817-BABDDA536AF2,927427-1,"","","","1784",gcc-108473
+gcc-14237,A,Compositae,,Prenanthes,,"chondrilloides",,"","L.",Unresolved,,L,TICA,284BB1BD-CAA8-4906-AACD-1A6948752F78,,"Mant. i. 107.","","i. 107","",
+gcc-149640,A,Compositae,,Prenanthes,,"chondrilloides",,"","Vahl",Synonym,,M,TICA,673291A2-B9F9-496E-AA54-5D2FE3540911,,"""M. Vahl, Symb. Bot. 2. 1791""","","90","1791",gcc-85069
+gcc-46013,A,Compositae,,Prenanthes,,"chondrilloides",,"","Ard.",Synonym,,M,TICA,E58996DB-8C96-4B0E-B820-554A345D5481,239456-1,"","","36","1764",gcc-102597
+gcc-84503,A,Compositae,,Prenanthes,,"chondrilloides",,"","Pall.",Unresolved,,L,TICA,FF53E72C-D5FA-400F-A195-76B4BC61EE09,239454-1,"""Reise, S. 537.""","","537","",
+gcc-132536,A,Compositae,,Prenanthes,,"cordata",,"","Willd.",Synonym,,M,TICA,D31E2963-2389-4A07-B4BB-E37DB4E2C5BD,210006-2,"Hort. Berol.","","t. 25","1804",gcc-120814
+gcc-120043,A,Compositae,,Prenanthes,,"corsica",,"","Rouy",Unresolved,,L,TICA,8FBD3824-D090-4F7A-83AA-C690041CEED6,239458-1,"""Fl. France (Rouy) 9: 458, in syn.""","","458","1905",
+gcc-114021,A,Compositae,,Prenanthes,,"crepidinea",,"","Elliott",Unresolved,,L,TICA,C975ECC3-C85B-4562-AFB9-B8E4FD1FBB64,,"""Sketch, ii. 259""","","259","",
+gcc-46628,A,Compositae,,Prenanthes,,"crepidinea",,"","Michx.",Synonym,,M,TICA,AF9690EC-3DD3-4188-A21D-566B4E018659,328812-2,"","","84","1803",gcc-18120
+gcc-1587,A,Compositae,,Prenanthes,,"cylindrica",,"","(Small) E.L.Braun",Synonym,,M,TICA,3534CCBD-F14E-4D36-A176-02DB02A42792,210007-2,"Annot. Cat. Spermatoph. Kentucky","","153","1943",gcc-88966
+gcc-98831,A,Compositae,,Prenanthes,,"cymosa",,"","Spreng.",Accepted,,M,TICA,7C06DDE6-510D-4E20-9F37-96FB48A2EC33,239462-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 657","","657","1826",
+gcc-139806,A,Compositae,,Prenanthes,,"debilis",,"","Thunb.",Synonym,,M,TICA,E5A23221-157A-46C8-A9A7-F38B25DA3A64,927429-1,"","","","1784",gcc-90809
+gcc-97412,A,Compositae,,Prenanthes,,"debilis",,"","Thunb. ex Murray",Synonym,,M,TICA,235A1C65-748A-4725-B8E2-93CEDB5AA94A,,"Syst. Veg. ed. 14: 714 (1784)","","714","1784",gcc-90809
+gcc-123336,A,Compositae,,Prenanthes,,"decurrens",,"","Schur",Unresolved,,L,TICA,8BE71877-3CB8-4B8C-9EBF-CE0F99D06C6B,239464-1,"Enum. Pl. Transsilv. 953 (Index). 1866 [Apr-Jun 1866]","","953","",
+gcc-109237,A,Compositae,,Prenanthes,,"deltoidea",,"","M.Bieb.",Synonym,,M,TICA,BB768A37-0A90-4334-8360-AE360A3CFBE2,,"","","539","1819",gcc-137702
+gcc-51742,A,Compositae,,Prenanthes,,"deltoidea",,"","Elliott",Synonym,Illegitimate,M,TICA,B51F4884-AA3E-4FCA-9B26-5FECEB769575,239465-1,"""Sketch, ii. 257""","","257","1823",gcc-120814
+gcc-121528,A,Compositae,,Prenanthes,,"dentata",,"","Thunb.",Synonym,,M,TICA,29B2AF88-1AAA-4B2B-907F-C9FDD9752C98,927430-1,"","","715","1784",gcc-131178
+gcc-134564,A,Compositae,,Prenanthes,,"dentata",,"","Thunb. ex Murray",Synonym,,M,TICA,ECFF5F67-25DF-4595-BCFD-E8140F361CDF,,"Syst. Veg. ed. 14: 715 (1784)","","715","1784",gcc-131178
+gcc-135731,A,Compositae,,Prenanthes,,"denticulata",,"","Houtt.",Synonym,,M,TICA,B9EC82CB-B769-4371-8482-EA97DA26C52D,329204-2,"","","385","1779",gcc-30135
+gcc-26350,A,Compositae,,Prenanthes,,"dichotoma",,"","Wall.",Unresolved,,L,TICA,60AC103E-8C73-401B-A714-30B3CAF9FF35,,"Numer. List [Wallich] n. 3275","","3275","",
+gcc-119383,A,Compositae,,Prenanthes,,"diversifolia",,"","(Vaniot) C.C.Chang",Synonym,Illegitimate,M,TICA,96A435F5-423C-4C32-8560-C50AC41D453A,,"Bull. Fan Mem. Inst. Biol. Bot. 5: 321","","321","1934",gcc-129711
+gcc-36969,A,Compositae,,Prenanthes,,"diversifolia",,"","Ledeb. ex Spreng.",Synonym,,M,TICA,82B1D293-4289-462E-BB68-447C72168236,239470-1,"","","657","1826",gcc-149062
+gcc-95670,A,Compositae,,Prenanthes,,"diversifolia",,"","Ledeb.",Accepted,,M,TICA,0EF8F50C-8F12-42DC-8166-8FE6FCAB2B42,,"Ic. Pl. Fl. Ross. ii. 17.","","","1826",
+gcc-124918,A,Compositae,,Prenanthes,,"erucaefolia",,"","Willd. ex Boiss.",Unresolved,,L,TICA,C004CB89-A454-4F2E-B7CD-D1D25E9A5313,239472-1,"Fl. Orient. [Boissier] 3: 801","","801","1875",
+gcc-109387,A,Compositae,,Prenanthes,,"erysanifolia",,"","Steud.",Unresolved,,L,TICA,F6F8C1D7-349E-4EDB-90CD-AE8C1A1655E6,239473-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 393, sphalm.""","","393","1841",
+gcc-25944,A,Compositae,,Prenanthes,,"erysimifolia",,"","Willd.",Synonym,,L,TICA,3221EF54-A8DE-4835-A89C-2FEFBE7DE452,,"Sp. Pl. iii. 1543.","","","1804",gcc-116089
+gcc-41347,A,Compositae,,Prenanthes,,"exigua",,"","A.Gray",Synonym,,M,TICA,819F5E25-EBCD-4233-AA16-4C9858F5EC9E,239475-1,"","","105","1853",gcc-132578
+gcc-153839,A,Compositae,,Prenanthes,,"exigua",var.,"exigua","",Synonym,,L,TICA,0DC68BE4-E998-43AA-9648-B657639A3C1E,,"","","","",gcc-132578
+gcc-9257,A,Compositae,,Prenanthes,,"faberi",,"","Hemsl. ex Hemsl.",Synonym,,M,TICA,6D0100DA-B5E4-4163-9A8E-1148D75C354A,239476-1,"""J. Linn. Soc., Bot. xxiii. (1888) 486.""","","486","1888",gcc-131863
+gcc-41601,A,Compositae,,Prenanthes,,"fastigiata",,"","Blume",Synonym,,M,TICA,D00BF8C6-7410-495C-8F7F-4D09116415AB,,"","","","1826",gcc-120892
+gcc-102761,A,Compositae,,Prenanthes,,"fauriei",,"","H.Lév. & Vaniot",Synonym,,M,TICA,A178A838-1057-456A-B60F-9FDA5248A5B9,,"in Bull. Acad. Geogr. Bot. xx. Mem. 144 (1909).","","","1909",gcc-14633
+gcc-126765,A,Compositae,,Prenanthes,,"formosana",,"","Kitam.",Synonym,,M,TICA,CAC298FC-52F1-479A-ABC7-D60C7A87745D,239479-1,"""Acta Phytotax. Geobot. 1934, iii. 100""","","100","1934",gcc-8446
+gcc-126169,A,Compositae,,Prenanthes,,"fraseri",,"","D.Dietr.",Unresolved,,L,TICA,2B882218-20AE-408A-A2DC-D4B3D31E30B6,239480-1,"Syn. Pl. (D. Dietrich) iv. 1309.","","iv. 1309","",
+gcc-93403,A,Compositae,,Prenanthes,,"fruticosa",,"","Willd. ex Less.",Synonym,,M,TICA,E26BC902-8D12-4C56-992D-8AA820C4248B,,"Linnaea 5:","","33","1830",gcc-120610
+gcc-95277,A,Compositae,,Prenanthes,,"fruticosa",,"","Willd. ex DC.",Unresolved,,L,TICA,B3077F4D-D883-4426-B441-8EEEEBE26AB9,239481-1,"Prodr. (DC.) 7(1): 69","","69","1838",
+gcc-103749,A,Compositae,,Prenanthes,,"gigantea",,"","Raf. ex DC.",Unresolved,,L,TICA,72A00544-B964-462A-863D-A1F6E83679A6,239482-1,"Prodr. (DC.) 7(1): 242","","242","1838",
+gcc-123964,A,Compositae,,Prenanthes,,"gigantea",,"","Raf.",Unresolved,,L,TICA,1560CFC7-A42A-430D-8346-CF9E87165476,239483-1,"""Cincinn. Lit. Gaz. ii. 10 (1824), nomen provis.""","","""ii. 10 , nomen provis.""","1824",
+gcc-18745,A,Compositae,,Prenanthes,,"glabra",,"","Heyne",Unresolved,,L,TICA,FED60CCD-91BE-43E1-A25A-22A04F200520,,"Numer. List [Wallich] n. 3264","","3264","",
+gcc-112273,A,Compositae,,Prenanthes,,"glandulosa",,"","Dunn",Accepted,,M,TICA,62841F44-40E0-4A8A-A5CE-B5042E690A65,239485-1,"""J. Linn. Soc., Bot. xxxv. 514.""","","514","1903",
+gcc-110248,A,Compositae,,Prenanthes,,"glareosa",,"","(Schott & Kotschy ex Boiss.) C.Jeffrey",Synonym,,M,TICA,C60ED9BA-0863-473B-B5F7-B07062562893,239486-1,"","","433","1975",gcc-27128
+gcc-24310,A,Compositae,,Prenanthes,,"glauca",,"","Raf.",Synonym,,M,TICA,CDDA0A87-13E6-4505-9560-2CE5DCE02861,239487-1,"Fl. Ludov. 57 (nomen delend.).","","57","1817",gcc-117424
+gcc-1379,A,Compositae,,Prenanthes,,"glomerata",,"","Decne.",Synonym,,M,TICA,130E337E-1B99-4E23-9A64-027A996A70DD,,"","","","1844",gcc-98122
+gcc-29196,A,Compositae,,Prenanthes,,"glomerata",,"","Rchb. ex DC.",Unresolved,,L,TICA,44932AE3-AD38-4282-B8B3-35F83412CE71,239488-1,"Prodr. (DC.) 6: 393","","393","1838",
+gcc-36352,A,Compositae,,Prenanthes,,"graciliflora",,"","Wall.",Synonym,,M,TICA,BF5EE560-EEC3-4071-A56E-436984F932B4,,"Numer. List [Wallich] n. 3260","","","",gcc-56
+gcc-24824,A,Compositae,,Prenanthes,,"graminea",,"","Fisch.",Synonym,,M,TICA,8DE92CA4-DCCA-4425-A3E8-2DE0C5BE4379,239491-1,"in Mem. Soc. Nat. Mosc. iii. (1812) 67.","","67","1812",gcc-13707
+gcc-131973,A,Compositae,,Prenanthes,,"graminifolia",,"","H.Lév. & Vaniot",Synonym,,M,TICA,4B57628B-36DC-49A9-9A78-E228EE589C32,,"in Bull. Acad. Geogr. Bot. xx. Mem. 144 (1909).","","","1909",gcc-14633
+gcc-110584,A,Compositae,,Prenanthes,,"grandiflora",,"","D.Dietr.",Unresolved,,L,TICA,17F98E4D-7E58-44D9-BE5E-B138B653E635,239493-1,"Syn. Pl. (D. Dietrich) iv. 1309.","","iv. 1309","",
+gcc-116218,A,Compositae,,Prenanthes,,"hastata",,"","Thunb.",Synonym,,M,TICA,47E47BE7-7292-4BC6-B3EB-BDF2E8D2F236,927431-1,"","","","1784",gcc-30135
+gcc-117944,A,Compositae,,Prenanthes,,"hastata",,"","(Less.) A.Nelson & J.F.Macbr.",Unresolved,Illegitimate,L,TICA,EAA22DD0-20AB-47B8-8C15-C1C891651660,239495-1,"""Bot. Gaz. 1918, lxv. 70""","","70","1918",gcc-106858
+gcc-18716,A,Compositae,,Prenanthes,,"hastata",,"","(Less.) M.E.Jones",Unresolved,,L,TICA,46F47A56-4223-4F2D-8026-2292D5D8421A,210010-2,"""Bull. Montana Univ., Biol. Ser. ser. 15: 47. 1910""","","47","1910",
+gcc-36988,A,Compositae,,Prenanthes,,"henryi",,"","Dunn",Synonym,,M,TICA,C1FF0AA9-3492-4840-B176-4482DBE6DE76,239496-1,"""J. Linn. Soc., Bot. xxxv. 514.""","","514","1903",gcc-8446
+gcc-110149,A,Compositae,,Prenanthes,,"hieraciifolia",,"","Willd.",Synonym,Illegitimate,M,TICA,1F084FAC-2531-4F9C-A9E2-B033EA07F559,239497-1,"Sp. Pl. iii. 1541","","1541","1803",gcc-8198
+gcc-34882,A,Compositae,,Prenanthes,,"hieraciifolia",,"","H.Lév.",Synonym,Illegitimate,M,TICA,C1E67529-AE28-443B-B797-40AB0BC0BC2B,239498-1,"Repert. Spec. Nov. Regni Veg. 11: 305","","305","1912",gcc-126814
+gcc-135879,A,Compositae,,Prenanthes,,"hispida",,"","M.Bieb.",Synonym,,M,TICA,C06E1CD9-6E33-401E-9D64-EAECBC149DD9,239499-1,"","","245","1808",gcc-131317
+gcc-79255,A,Compositae,,Prenanthes,,"hispida",,"","Pall.",Synonym,,M,TICA,7CAD2A20-F5DF-46CA-8364-6B05C3B7A1EF,,"","","501","1771",gcc-20980
+gcc-116275,A,Compositae,,Prenanthes,,"hispidula",,"","DC.",Synonym,,M,TICA,B10EA981-6F5B-4F3F-BA3D-BE0F2FC3213F,239501-1,"","","195","1838",gcc-41732
+gcc-141820,A,Compositae,,Prenanthes,,"hookeri",,"","C.B.Clarke ex Hook.f.",Synonym,,M,TICA,9BF85C96-5EBD-4968-929F-F847D5331F06,239502-1,"","","412","1881",gcc-543
+gcc-21491,A,Compositae,,Prenanthes,,"hothae",,"","(C.B.Clarke) Kurz",Synonym,,M,TICA,DD200C47-9859-460B-9ECE-27BB9C1AE508,,"in Journ. As. Soc. Beng. xlvi. (1877) II. 207.","","","1877",gcc-146106
+gcc-115265,A,Compositae,,Prenanthes,,"humilis",,"","Thunb.",Synonym,,M,TICA,50F4C375-157E-463F-8DB5-BBC2678247D5,239504-1,"Fl. Jap.","","302","1784",gcc-32763
+gcc-96437,A,Compositae,,Prenanthes,,"illinoensis",,"","Pers.",Unresolved,,L,TICA,C558FE5D-11FE-4F77-BCA4-918CDD478C75,239505-1,"Syn. Pl. (Persoon) 2(2): 366","","366","1807",
+gcc-129257,A,Compositae,,Prenanthes,,"indica",,"","Klein ex Poir.",Unresolved,,L,TICA,4146B1DF-22B7-459F-AB5C-DBE2915F639B,239506-1,"Encycl. (Lamarck) Suppl. 2. 330","","330","1811",
+gcc-116402,A,Compositae,,Prenanthes,,"integra",,"","Thunb.",Synonym,,M,TICA,8ED2298F-D507-452C-82CB-BE55EE6479E8,927428-1,"","","","1784",gcc-37455
+gcc-114023,A,Compositae,,Prenanthes,,"integrifolia",,"","(Cass.) Small",Synonym,,M,TICA,A692F2D0-3EE9-495F-AAF7-B8E5FADD42A4,60439890-2,"","","","",gcc-8081
+gcc-119095,A,Compositae,,Prenanthes,,"japonica",,"","L.",Synonym,,M,TICA,372BC9A8-E69B-4A4E-92E9-C472E950CB27,328320-2,"Mant. Pl. 1: 107. 1767.","","107","1767",gcc-120892
+gcc-46881,A,Compositae,,Prenanthes,,"javanica",,"","(Burm.f.) Willd.",Synonym,,L,TICA,568098DC-DE75-4709-89F5-56E079EE6206,239509-1,"","","1534","1803",gcc-1617
+gcc-100169,A,Compositae,,Prenanthes,,"juncea",,"","Pursh",Synonym,,M,TICA,CC4F731D-1647-44DB-8E63-99FBB57F327C,,"","","498","",gcc-140097
+gcc-102666,A,Compositae,,Prenanthes,,"khasiana",,"","C.B.Clarke",Accepted,,M,TICA,A85C0173-02CB-4529-A8D5-9FA3C2BAA5C5,239511-1,"","","273","1876",
+gcc-10099,A,Compositae,,Prenanthes,,"kotschyi",,"","Hance",Unresolved,,L,TICA,A7B635EA-575F-464F-9DF0-12E671A028F2,,"""Ann. Sci. Nat., Bot. sér. 4, 18: 223""","","223","1862",
+gcc-7532,A,Compositae,,Prenanthes,,"laciniata",,"","Houtt.",Synonym,,M,TICA,0638085D-18BA-42EB-B03F-0DFA5519D3F2,,"","","381","1779",gcc-13786
+gcc-125397,A,Compositae,,Prenanthes,,"laevigata",,"","Blume",Synonym,,M,TICA,A57B0BB8-7A59-41E9-82E7-D2F499E70A2F,,"","","886","1826",gcc-5053
+gcc-129661,A,Compositae,,Prenanthes,,"laevigata",,"","Wall.",Synonym,,M,TICA,ACDF5750-5879-4A8D-83C6-DCC8D232AF73,,"Numer. List [Wallich] n. 3259","","3259","",gcc-47512
+gcc-136985,A,Compositae,,Prenanthes,,"laevigta",,"","Wall. ex DC.",Unresolved,,L,TICA,B550B3FE-F665-4AE5-9E6B-ED726AEB836A,,"","","","",
+gcc-49697,A,Compositae,,Prenanthes,,"lanceolata",,"","Houtt.",Synonym,,M,TICA,1B941792-012F-4589-9237-5C201B794130,,"","","","1779",gcc-37455
+gcc-99672,A,Compositae,,Prenanthes,,"leptantha",,"","C.Shih",Synonym,,M,TICA,D617921C-F1E6-4AD1-95BC-98E6611170C5,,"Acta Phytotax. Sin. 25(3): 193 (1987)","","193","1987",gcc-103404
+gcc-128447,A,Compositae,,Prenanthes,,"lessingii",,"","Hultén",Synonym,,L,TICA,F41A9D29-1CCD-4E55-B34E-DA055E0B191A,291740-2,"","","335","1937",gcc-106858
+gcc-40970,A,Compositae,,Prenanthes,,"linifolia",,"","Roxb.",Unresolved,,L,TICA,8854BAA2-2CA1-40CF-B358-4BEDB0CBFBB3,239518-1,"""Hort. Bengal. 60, nomen.""","","""60, nomen.""","",
+gcc-115439,A,Compositae,,Prenanthes,,"longifolia",,"","Jungh.",Accepted,,M,TICA,4E483E93-43D2-4E59-8899-BC23B8364AF4,239519-1,"","","43","1845",
+gcc-50295,A,Compositae,,Prenanthes,,"lutea",,"","Vell.",Synonym,,M,TICA,019DFFB3-F74A-4CD9-9FF0-5D469A16B3E6,126419-2,"","","350","1829",gcc-14413
+gcc-12416,A,Compositae,,Prenanthes,,"lyrata",,"","Thunb.",Synonym,,M,TICA,0B130D66-972A-4CE3-8DDB-17252714C116,927434-1,"","","","1784",gcc-120892
+gcc-96818,A,Compositae,,Prenanthes,,"lyrata",,"","Houtt.",Unresolved,,L,TICA,B7E6DECE-B4D3-45D9-AFFF-926BDF97A554,,"""Nat. Hist. II. x. Aanwyz. Plaat. [3] (1779); Panzer, Pflanzensyst. ix. 50, t. 66, fig. 3 (1783), in nota; Thunb. Fl. Jap. 303 (1784); fide Merrill in Journ. Arn. Arb. 1938, xix. 375, in syn.""","","II. x. Aanwyz. Plaat. [3]","1779",
+gcc-1234,A,Compositae,,Prenanthes,,"macilenta",,"","Vaniot & H.Lév.",Accepted,,M,TICA,3D448B58-D62E-4AA4-8C2A-0243076AFCD0,239523-1,"Bull. Soc. Bot. France 53: 550","","550","1906",
+gcc-105990,A,Compositae,,Prenanthes,,"macrophylla",,"","Franch.",Synonym,,M,TICA,58F02948-E6DF-4BCF-BC97-A6CD7DE82E0F,,"""in Morot, Journ. de Bot, iv. (1889) 307.""","","","1890",gcc-6540
+gcc-20874,A,Compositae,,Prenanthes,,"mainensis",,"","A.Gray",Accepted,,M,TICA,FB66D387-0730-416B-B2E8-2697D4D5E279,210013-2,"","","433","1884",
+gcc-108222,A,Compositae,,Prenanthes,,"maximowiczii",,"","Kirp.",Synonym,,M,TICA,34489F05-B832-4404-A4AF-ABCF995172D2,,"Fl. URSS xxix. 269 (1964).","","","1964",gcc-44269
+gcc-92628,A,Compositae,,Prenanthes,,"miamiensis",,"","Riddell",Unresolved,,L,TICA,8991443F-07AD-4873-9EA2-8902561E53F2,239527-1,"Syn. Fl. W. St. 50.","","50","",
+gcc-27180,A,Compositae,,Prenanthes,,"minor",,"","Steud.",Unresolved,,L,TICA,98483781-819D-4FAC-ADDE-32455D615CC5,239528-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 393""","","393","1841",
+gcc-52762,A,Compositae,,Prenanthes,,"mira",,"","(Pavlov) Kamelin",Synonym,,M,TICA,DA2330D6-DEBA-4138-AC9E-61D22BBB9128,986098-1,"Opred. Rast. Sred. Azii 10: 131 (1993):","","131","1993",gcc-21261
+gcc-87754,A,Compositae,,Prenanthes,,"multiflora",,"","Thunb.",Synonym,,M,TICA,134E9DDD-4DCE-41C3-8D06-7DF18991D065,927433-1,"","","","1784",gcc-120892
+gcc-25323,A,Compositae,,Prenanthes,,"multiflosculosa",,"","Nees",Unresolved,,L,TICA,AA3F72C3-84FC-4E12-93DD-2EBCBBE0803E,239530-1,"Bluff & Fingerh. Comp. Fl. Germ. ed. I. ii. 265.","","ii. 265","",
+gcc-106676,A,Compositae,,Prenanthes,,"muralis",,"","L.",Synonym,,L,TICA,B40084BA-70A2-4AFE-984D-A859B02A94D3,239531-1,"","","797","1753",gcc-116089
+gcc-76426,A,Compositae,,Prenanthes,,"nana",,"","Torr. ex DC.",Unresolved,Invalid,L,TICA,85010F56-5804-4D35-ABA4-64AF16D2E11D,,"Prodr. (DC.) 7(1): 241","","241","",gcc-1541
+gcc-83970,A,Compositae,,Prenanthes,,"nana",,"","(Bigelow) Torr.",Synonym,,M,TICA,15E84B0B-4199-4E90-A878-7578DC1E90B6,,"","","","",gcc-102068
+gcc-96078,A,Compositae,,Prenanthes,,"napifolia",,"","Wall.",Unresolved,,L,TICA,6EC77B9A-A27B-4212-8ECB-90C579D1400F,,"Numer. List [Wallich] n. 3277","","3277","",
+gcc-147505,A,Compositae,,Prenanthes,,"negrelii",,"","Req.",Synonym,,M,TICA,A1DF56A3-47F4-4DF7-887E-2EF42820189A,,"""E. Requien, Cat. Toulon""","","115","",gcc-110489
+gcc-142522,A,Compositae,,Prenanthes,,"negretii",,"","Req. ex DC.",Unresolved,,L,TICA,E5BCB45A-F6F7-4DC8-86C0-F9C9F976C005,239534-1,"Prodr. (DC.) 7(1): 156","","156","1838",
+gcc-79246,A,Compositae,,Prenanthes,,"nipponica",,"","Matsum.",Unresolved,,L,TICA,68A082AC-1637-4859-8721-6B00974C1BE9,239535-1,"Enum. Sci. Names (1895) 235.","","235","1895",
+gcc-98138,A,Compositae,,Prenanthes,,"nitissima",,"","Hill",Unresolved,,L,TICA,69A00952-BADB-4F75-A672-9571B408069F,239536-1,"""Veg. Syst. iii. 172, sphalm.""","","""iii. 172, sphalm.""","",
+gcc-113711,A,Compositae,,Prenanthes,,"obtusa",,"","Buch.-Ham.",Unresolved,,L,TICA,316D5A9B-3C01-4978-BCC3-B83DDA5D171B,,"Numer. List [Wallich] n. 3276","","3276","",
+gcc-131952,A,Compositae,,Prenanthes,,"ochroleuca",,"","(Maxim.) Hemsl.",Synonym,,M,TICA,C2D26A8D-1140-4E74-9847-E222383B17E3,239538-1,"","","486","1888",gcc-44269
+gcc-52443,A,Compositae,,Prenanthes,,"ochroleuca",,"","Raf.",Unresolved,,L,TICA,B45B0BD1-66C5-4499-9B55-613873205E3F,239539-1,"""Cincinn. Lit. Gaz. ii. 10 (1824), nomen provis.""","","""ii. 10 , nomen provis.""","1824",
+gcc-150809,A,Compositae,,Prenanthes,,"ochroleuca",var.,"ochroleuca","",Synonym,,L,TICA,111564CD-3691-4A42-8D53-7685BB8E5E27,,"","","","",gcc-44269
+gcc-72168,A,Compositae,,Prenanthes,,"ochroleuca",var.,"tanakae","Franch. & Sav. ex Koidz.",Synonym,,L,TICA,19CEE19F-B782-4879-8760-FBE71947758A,,"Bot. Mag. Tokyo 29: 158 (1915)","","158","1915",gcc-137508
+gcc-27874,A,Compositae,,Prenanthes,,"opicrina",,"","Raf.",Unresolved,,L,TICA,4077DDF1-ECAB-4316-A4C5-33826636B2CE,239540-1,"Cincinn. Lit. Gaz. ii. 10 (1824).","","ii. 10","1824",
+gcc-86901,A,Compositae,,Prenanthes,,"ovata",,"","Riddell",Unresolved,,L,TICA,DB87F67A-FBEB-456B-B0D6-7BFE012C93EE,239541-1,"Syn. Fl. W. St. 50.","","50","",
+gcc-79237,A,Compositae,,Prenanthes,,"oyukludaghensis",,"","Parolly",Synonym,,M,TICA,82059353-C04F-47A2-916A-6AFCD2F55A1B,983694-1,"Willdenowia 25(1): 242","","242","1995",gcc-149205
+gcc-112389,A,Compositae,,Prenanthes,,"paniculata",,"","Moench",Synonym,Illegitimate,M,TICA,F6511C9B-2B52-40A3-97A2-B55036F68D68,239542-1,"Methodus (Moench) 534. 1794 [4 May 1794]","","534","1794",gcc-8198
+gcc-125684,A,Compositae,,Prenanthes,,"paosia",,"","Buch.-Ham. ex DC.",Unresolved,,L,TICA,01F658DD-C15B-4040-84EA-D396AF458035,239543-1,"""Prodr. (DC.) 7(1): 193,""","","193","1838",
+gcc-100133,A,Compositae,,Prenanthes,,"parviflora",,"","Riddell",Unresolved,,L,TICA,08985ACA-DE4F-49F2-9094-99E5A2F05119,239545-1,"Syn. Fl. W. St. 50.","","50","",
+gcc-48854,A,Compositae,,Prenanthes,,"parviflora",,"","Gilib.",Synonym,Invalid,L,TICA,A01F1CA9-CD85-4934-953D-5A7DD1606AE8,,"Fl. Lit. Inch. i. 233. 1782","","","1782",gcc-116089
+gcc-115208,A,Compositae,,Prenanthes,,"patens",,"","Wall.",Unresolved,,L,TICA,A2813375-9013-4902-9625-BBA2AC0D53BD,,"Numer. List [Wallich] n. 3258","","3258","",
+gcc-48367,A,Compositae,,Prenanthes,,"pauciflora",,"","Torr.",Synonym,,L,TICA,9C4ABB7B-6E98-48A8-B322-599C1B2111DE,214306-2,"","","210","1827",gcc-93218
+gcc-135155,A,Compositae,,Prenanthes,,"pendula",,"","Webb",Synonym,,M,TICA,B89856FB-B304-4C19-B6D3-E959535F3F44,,"""Webb in Webb & Berthelot, Hist. Nat. Iles Canaries 3(2). 1848.""","","t. 124","1848",gcc-129358
+gcc-95666,A,Compositae,,Prenanthes,,"pendula",,"","Sch.Bip.",Synonym,,M,TICA,FDC1B4A0-5999-4DD4-ACC0-8FE501C9D9B6,,"Webb & Berth. Phyt. Canar. ii. 421.","","","1849",gcc-129358
+gcc-45630,A,Compositae,,Prenanthes,,"pendula",subsp.,"flaccida","Svent.",Synonym,,L,TICA,078A047B-8EBD-4802-A9E7-5490360E9F95,,"","","","",gcc-20095
+gcc-34837,A,Compositae,,Prenanthes,,"pendula",subsp.,"pendula","",Synonym,,L,TICA,8A09398C-3555-460B-A897-4093BD7FEA40,,"","","","",gcc-129358
+gcc-97324,A,Compositae,,Prenanthes,,"petiolata",,"","(K.Koch) Sennikov",Accepted,,M,TICA,5F421A87-9D2B-4C3F-887E-93962B3B6E2F,998887-1,"","","113","1997",
+gcc-39067,A,Compositae,,Prenanthes,,"pinnata",,"","L.f.",Synonym,,M,TICA,C728856B-8BFC-4D8B-A08C-4878F3220217,239549-1,"""L. f., Suppl. Pl. 1782.""","","347","1782",gcc-42378
+gcc-99371,A,Compositae,,Prenanthes,,"pinnata",,"","Linn.f",Unresolved,,L,TICA,93D6A975-8DC2-4BA2-B783-98389BAF20F3,,"Suppl. 347.","","347","",
+gcc-113279,A,Compositae,,Prenanthes,,"polymorpha",,"","Ledeb.",Synonym,Illegitimate,M,TICA,5BD93965-0BA0-46E9-BC5D-B74708298BA1,,"Fl. Alt. iv. 144.","","","1833",gcc-147557
+gcc-65222,A,Compositae,,Prenanthes,,"polymorpha",var.,"flaccida","Ledeb.",Synonym,,L,TICA,1C5D50DF-1326-439A-BC4F-C4DB4532D481,,"","","","1833",gcc-147557
+gcc-65556,A,Compositae,,Prenanthes,,"polymorpha",var.,"flexuosa","Ledeb.",Synonym,,L,TICA,EC172F0D-1A30-47E0-9A8E-C7A9D248E92C,60440168-2,"","","145","1833",gcc-87837
+gcc-68344,A,Compositae,,Prenanthes,,"polymorpha",var.,"integrifolia","Ledeb.",Synonym,,L,TICA,872B0504-988B-41A8-BB84-DE113A066FE8,,"Flora Altaica 4:","","145","1833",gcc-147557
+gcc-48944,A,Compositae,,Prenanthes,,"polymorpha",var.,"lyrata","Ledeb.",Synonym,,L,TICA,905FF4EF-5CD3-4BA4-B778-5AA3BC04357C,,"Flora Altaica 4:","","145","1833",gcc-147557
+gcc-71378,A,Compositae,,Prenanthes,,"polymorpha",var.,"polymorpha","",Synonym,,L,TICA,88EDE5BD-B697-49AE-9D04-F5C18B6A5C25,,"","","","",gcc-147557
+gcc-85006,A,Compositae,,Prenanthes,,"pontica",,"","(Boiss.) Leskov",Synonym,,M,TICA,A9725BAB-EBC8-43F8-9F27-77B74BBC2361,239551-1,"","","44","1932",gcc-97324
+gcc-84441,A,Compositae,,Prenanthes,,"poosia",,"","Buch.-Ham. ex Wall.",Unresolved,,L,TICA,FE50F5D9-46EA-4544-81E2-769211045202,,"Numer. List [Wallich] n. 3265","","3265","",
+gcc-14642,A,Compositae,,Prenanthes,,"procumbens",,"","Roxb.",Synonym,,L,TICA,7D39A406-55B6-4A00-BDFC-1B29DFAC96A1,,"","","404","1832",gcc-126043
+gcc-608,A,Compositae,,Prenanthes,,"proteophylla",,"","Riddell",Unresolved,,L,TICA,C0B9E6F8-F266-4B2B-8ABF-0125FD51E90D,239554-1,"Syn. Fl. W. St. 50.","","50","",
+gcc-104017,A,Compositae,,Prenanthes,,"pulchra",,"","(L.) DC.",Synonym,,M,TICA,79338798-935D-4AD9-984E-A2948BE5B675,,"Fl. Fr. iv. 7.","","","1805",gcc-8198
+gcc-19062,A,Compositae,,Prenanthes,,"pumila",,"","Baldw. ex Elliott",Synonym,,M,TICA,DA167622-EFED-410C-B4C9-2331A5E57BAF,239556-1,"""Sketch, ii. 262, in textu""","","262","1823",gcc-81846
+gcc-95344,A,Compositae,,Prenanthes,,"purpurea",,"","L.",Accepted,,M,TICA,3C969816-FC7B-44F1-BD04-8F193EBF11ED,239557-1,"","","797","1753",
+gcc-148378,A,Compositae,,Prenanthes,,"purpurea",subsp.,"purpurea","",Synonym,,L,TICA,31BACCCC-5D9F-4CB5-9D4C-413653C9C3AD,,"","","","",gcc-95344
+gcc-148789,A,Compositae,,Prenanthes,,"purpurea",subsp.,"tenuifolia","(L.) Arcang.",Synonym,,L,TICA,D268F27F-CE2D-4055-8BA9-4AB70BE81B81,,"""G. Arcangeli, Comp. Fl. Ital.. 1882""","","426","1882",gcc-95344
+gcc-9032,A,Compositae,,Prenanthes,,"pygmaea",,"","Ledeb.",Synonym,,M,TICA,2F80BE8E-03AC-4F4C-9BC6-10E7E3BF4546,,"in Mem. Acad. Petersb. v. (1812) 553.","","553","",gcc-147557
+gcc-96623,A,Compositae,,Prenanthes,,"pyramidalis",,"","C.Shih",Synonym,,M,TICA,8AF2866B-5812-419F-B718-91FFC087197F,,"Acta Phytotax. Sin. 25(3): 191 (1987)","","191","1987",gcc-34436
+gcc-122491,A,Compositae,,Prenanthes,,"quinqueloba",,"","Wall.",Unresolved,,L,TICA,2456B1D7-FC1B-4149-A27F-CC25A8AA305F,,"Numer. List [Wallich] n. 3261","","3261","",
+gcc-97695,A,Compositae,,Prenanthes,,"quinqueloba",,"","Wall. ex DC.",Synonym,,L,TICA,98DF075D-8EF8-4ECE-8763-947DBE8ACDBF,239560-1,"Prodr. (DC.) 7(1): 195","","195","1838",gcc-135401
+gcc-85962,A,Compositae,,Prenanthes,,"racemiformis",,"","C.Shih",Synonym,,M,TICA,FE517AAC-17F9-4B47-A083-79DC0028B3E9,,"Acta Phytotax. Sin. 25(3): 191 (1987)","","191","1987",gcc-19117
+gcc-114718,A,Compositae,,Prenanthes,,"racemosa",,"","Roxb.",Unresolved,,L,TICA,0EBEA379-5B44-4C38-BE48-BA844043429D,,"","","","1832",
+gcc-84768,A,Compositae,,Prenanthes,,"racemosa",,"","Michx.",Synonym,,M,TICA,C9984AF1-45D9-4664-9979-773F6DCF2D67,328807-2,"","","84","1803",gcc-19913
+gcc-68615,A,Compositae,,Prenanthes,,"racemosa",subsp.,"multiflora","Cronquist",Synonym,,L,TICA,AD522C10-CF50-4015-AFED-E0117936ABD8,283765-2,"Rhodora 50: 30. 1948","","30","1948",gcc-19913
+gcc-71664,A,Compositae,,Prenanthes,,"racemosa",var.,"multiflora","(Cronquist) Dorn",Synonym,,L,TICA,F076A8D5-52C1-4D09-AEB9-F7E537CA7A8A,973410-1,"","","295","1988",gcc-19913
+gcc-62721,A,Compositae,,Prenanthes,,"racemosa",var.,"pinnatifida","A.Gray",Synonym,,L,TICA,89EB24C2-87BB-4BB7-9E26-B0F95E97545A,210015-2,"""Syn. Fl. N. Amer. 1, pt. 2: 433. 1884""","","433","1884",gcc-19913
+gcc-29723,A,Compositae,,Prenanthes,,"racemosa",subsp.,"racemosa","",Synonym,,L,TICA,4ECD26FB-87E4-431D-A673-36F2874000DE,,"","","","",gcc-19913
+gcc-29917,A,Compositae,,Prenanthes,,"racemosa",subsp.,"racemosa","",Synonym,,L,TICA,98DD7F59-D733-4651-AE3A-37506F4DDCEE,210016-2,"Rhodora 50: 30. 1948","","30","1948",gcc-19913
+gcc-4380,A,Compositae,,Prenanthes,,"racemosa",var.,"racemosa","",Synonym,,L,TICA,732B68A9-14A8-440C-B2E4-0825602CBDAF,,"","","","",gcc-19913
+gcc-73805,A,Compositae,,Prenanthes,,"racemosa",f.,"racemosa","",Synonym,,L,TICA,5B17BE0C-592D-4D40-801F-27F0B6F9B08E,,"","","","",gcc-19913
+gcc-41123,A,Compositae,,Prenanthes,,"ramosissima",,"","All.",Synonym,,M,TICA,CDECC539-274C-4EC4-95C7-4C395C10C61C,239563-1,"","","226","1785",gcc-55688
+gcc-86156,A,Compositae,,Prenanthes,,"raphanifolia",,"","DC.",Synonym,,M,TICA,554F676F-091F-464F-9AFA-7A49F8B22D7D,239564-1,"","","195","1838",gcc-41732
+gcc-33327,A,Compositae,,Prenanthes,,"repens",,"","L.",Synonym,,M,TICA,2962AFFA-2E78-4120-8082-3DC5A7D8EB9F,239565-1,"Sp. Pl.","","798","1753",gcc-44704
+gcc-27969,A,Compositae,,Prenanthes,,"rhombifolia",,"","Humb. ex Willd.",Synonym,,L,TICA,F9CD02F5-47BF-49ED-8C21-33AD74D828C6,,"","","1535-1536","1803",gcc-81813
+gcc-139679,A,Compositae,,Prenanthes,,"rigida",,"","Buch.-Ham.",Unresolved,,L,TICA,5279C94D-332C-4D1C-8186-F344827EE913,,"Numer. List [Wallich] n. 3263","","3263","",
+gcc-52322,A,Compositae,,Prenanthes,,"roanensis",,"","(Chick.) Chick.",Synonym,,M,TICA,9451C640-17D4-4305-A424-6107B3FD8CB3,239569-1,"Coult. Bot. Gaz. vi. (1881) 191","","191","1881",gcc-88966
+gcc-136810,A,Compositae,,Prenanthes,,"rostrata",,"","Blume",Accepted,,M,TICA,5FE4F563-8B8F-4521-9D54-ED13E2F73D71,239568-1,"","","836","1826",
+gcc-77561,A,Compositae,,Prenanthes,,"rubicunda",,"","Willd.",Synonym,,M,TICA,E4AFFA8A-B80C-4A74-9F5A-67282B31A2E0,,"""Sp. Pl. iii. 1537, excl. syn.""","","","1803",gcc-126682
+gcc-143156,A,Compositae,,Prenanthes,,"rubida",,"","Raf.",Unresolved,,L,TICA,455C70F5-1423-42D0-A9AC-FB4436306E53,239571-1,"Atl. Journ. 17 (Quid ?).","","17","",
+gcc-131811,A,Compositae,,Prenanthes,,"runcinata",,"","James",Unresolved,,L,TICA,9111C132-BCE9-40EB-A0E3-E1CB9C377243,239573-1,"""in Long's Exped. ex Torr. & Gray, Fl. N. Am. ii. 472.""","","""ex Torr. & Gray, Fl. N. Am. ii. 472""","",
+gcc-8997,A,Compositae,,Prenanthes,,"runcinata",,"","Lag.",Synonym,,M,TICA,9E74923F-5ADB-478A-882B-10D79AAB7E84,239572-1,"Gen. et Sp. Nov. 24.","","24","1816",gcc-125560
+gcc-127379,A,Compositae,,Prenanthes,,"sagittata",,"","(A.Gray) A.Nelson",Synonym,,M,TICA,67CA4EEF-A0E6-4FCC-9810-D788E585854D,210018-2,"","","592","1909",gcc-35319
+gcc-6039,A,Compositae,,Prenanthes,,"sagittata",,"","Tjitrosoedirdjo",Accepted,,M,TICA,B75048A5-AE28-4287-8A9C-0B3C1A781BF5,,"Reinwardtia 12 (2002)","","125","2002",
+gcc-7281,A,Compositae,,Prenanthes,,"sarmentosa",,"","Willd.",Synonym,,M,TICA,98514A96-7181-4EA3-BFE2-0D8B4BF13C81,239575-1,"Phytographia","","""10, t. 6, f. 2""","1794",gcc-103503
+gcc-6533,A,Compositae,,Prenanthes,,"scandens",,"","Hook.f. & Thomson",Accepted,,L,TICA,AE5CA4AF-2686-4D30-8707-0C20F782C3E7,,"","","274","1876",
+tro-100376529,A,Compositae,,Prenanthes,,"scandens",,"","Hook. f.",Synonym,,M,TRO,100376529,239577-1,"Gen. Pl.","2: 527","527","1873",tro-100376530
+gcc-155188,A,Compositae,,Prenanthes,,"schlosseri",,"","Heuff.",Synonym,,M,TICA,69CF8F7A-6C7F-4938-BC3E-D2CDC9C38C60,,"","","","",gcc-95344
+gcc-18571,A,Compositae,,Prenanthes,,"serpentaria",,"","Pursh",Synonym,,M,TICA,8CAD5319-06B2-40D6-9E7C-224F879F3C29,,"Fl. Amer. Sept. (Pursh) 2: 499 (t. 24). 1814 [Dec 1813]","","499 (t. 24)","1814",gcc-8081
+gcc-54136,A,Compositae,,Prenanthes,,"serpentaria",var.,"barbata","Torr. & A.Gray",Synonym,,L,TICA,779EC952-5F39-4AEA-9DA0-6BAF52D1A377,,"","","","",gcc-39668
+gcc-71248,A,Compositae,,Prenanthes,,"serpentaria",var.,"barbata","(Torr. & A.Gray) A.Gray",Synonym,,L,TICA,A5D75431-1FAF-4DA3-A6C4-F4BD98CC98C6,210020-2,"""Syn. Fl. N. Amer. 1, pt. 2: 434. 1884""","","434","1884",gcc-13165
+gcc-59672,A,Compositae,,Prenanthes,,"serpentaria",var.,"nana","(Bigelow) A.Gray",Synonym,,L,TICA,59AB8ECF-6A55-43E8-9EE1-985A0A8355B1,210021-2,"""Syn. Fl. N. Amer. 1, pt. 2: 434. 1884""","","434","1884",gcc-102068
+gcc-143003,A,Compositae,,Prenanthes,,"serpentaria",f.,"serpentaria","",Synonym,,L,TICA,39909730-FA8C-45FC-AD78-FAEBE4FCA140,,"","","","",gcc-8081
+gcc-5403,A,Compositae,,Prenanthes,,"serpentaria",var.,"serpentaria","",Synonym,,L,TICA,BBD9B35F-4835-41DA-AC02-0A1586CC7725,,"","","","",gcc-8081
+gcc-30056,A,Compositae,,Prenanthes,,"sikkimensis",,"","Hook.f.",Synonym,,M,TICA,ACB660E2-8997-4494-9A79-379FCC616BC6,,"","","","1881",gcc-103069
+gcc-43519,A,Compositae,,Prenanthes,,"simplex",,"","Pursh",Unresolved,,L,TICA,A98944AB-49F8-47BB-96AF-50AEF5B6DF5A,,"","","","1814",
+gcc-115732,A,Compositae,,Prenanthes,,"sinensis",,"","(Hemsl.) Stebbins ex Babc.",Synonym,,M,TICA,DC63FB46-E011-4120-91AC-BCDC0932940B,,"","","631","1947",gcc-28342
+gcc-2230,A,Compositae,,Prenanthes,,"sinensis",,"","J.F.Gmel.",Unresolved,,L,TICA,F8B60BAC-C031-40B9-98AE-0406712F4280,239581-1,"""Syst. Nat., ed. 13[bis]. 2(2): 1173""","","1173","1792",
+gcc-91895,A,Compositae,,Prenanthes,,"somaliensis",,"","C.Jeffrey",Synonym,,M,TICA,D2745EAC-C398-4CC6-ABFC-876CC2804114,239582-1,"Kew Bull. xviii. 434 (1966).","","434","1966",gcc-148464
+gcc-16679,A,Compositae,,Prenanthes,,"sonchifolia",,"","Willd.",Synonym,,M,TICA,10D05500-DD3F-497D-A7F9-1ED664E6C7B6,,"","","1541","",gcc-39706
+gcc-49880,A,Compositae,,Prenanthes,,"sonchifolia",,"","Bunge",Synonym,Invalid,L,TICA,DF961A4A-1CA0-446F-956D-5C78BD249E7C,329221-2,"Enum. Pl. Chin. Bor. 40. 1833 [Mar 1833]","","40","1833",gcc-147510
+gcc-82980,A,Compositae,,Prenanthes,,"sonchoides",,"","DC.",Unresolved,,L,TICA,DE6F482A-2D53-4280-B166-73441EDFEA48,239585-1,"Cat. Fl. Monsp. 53.","","53","",
+gcc-81493,A,Compositae,,Prenanthes,,"spathulata",,"","Turcz. ex Herder",Synonym,,M,TICA,21D99229-EB45-4B81-8320-6FF21F03CE08,239586-1,"in Bull. Soc. Nat. Mosc. xliii. (1870) I. 192","","192","1870",gcc-147225
+gcc-108461,A,Compositae,,Prenanthes,,"spicata",,"","Raf.",Unresolved,,L,TICA,8AD4D89E-64B8-4320-B674-AC5881EFBCA5,239587-1,"Atl. Journ. 150 (Quid ?).","","150","",
+gcc-149048,A,Compositae,,Prenanthes,,"spinosa",,"","T.E.Bowdich",Synonym,,M,TICA,ABDC1BB2-6911-45AC-B929-50645CE77EDE,,"""T. E. Bowdich, Exc. Madeira. 1825""","","245","1825",gcc-14764
+gcc-25244,A,Compositae,,Prenanthes,,"spinosa",,"","Bowdich",Unresolved,,L,TICA,45F66FAC-3DDB-4D75-88B1-2E9B2AB4033B,927707-1,"","","","1825",
+gcc-89456,A,Compositae,,Prenanthes,,"spinosa",,"","Forssk.",Synonym,,M,TICA,B94C8099-7BB0-4511-9E0E-81C0EEF7439B,239588-1,"","","144","1775",gcc-2931
+gcc-135315,A,Compositae,,Prenanthes,,"squarrosa",,"","Thunb.",Synonym,,M,TICA,0E8A5149-9A4E-44DF-92C5-E9C69F216C7D,927435-1,"","","","1784",gcc-13786
+gcc-25088,A,Compositae,,Prenanthes,,"steenisii",,"","Tjitr.",Accepted,,M,TICA,19409D4B-C2A6-4FA9-BFE1-2E53F62E0333,20007112-1,"","","125","2002",
+gcc-137685,A,Compositae,,Prenanthes,,"stenolimba",,"","Steenis",Accepted,,L,TICA,05348484-94EF-4275-86A6-EF00FDFF4808,,"","","190","1933",
+gcc-145933,A,Compositae,,Prenanthes,,"stewartii",,"","Bano & Qaiser",Unresolved,,L,TICA,98347161-3F91-42B1-91F2-0DDE042E1779,,"Bano & Qaiser in Pakistan J. Bot. 41. 2009","","2087","2009",
+gcc-17340,A,Compositae,,Prenanthes,,"striata",,"","Blume",Synonym,,M,TICA,E5D38B72-14C0-481E-B8CF-200F6B4A2BDF,239591-1,"","","885","1826",gcc-120892
+gcc-113579,A,Compositae,,Prenanthes,,"stricta",,"","Greene",Accepted,,M,TICA,605FA8F3-0199-4152-A0DD-B7EE77950DA5,210024-2,"Pittonia 2: 21. 1889","","21","1889",
+gcc-94012,A,Compositae,,Prenanthes,,"suavis",,"","Salisb.",Synonym,Illegitimate,M,TICA,59BCE49F-FFCF-4FCA-8B00-8BFF92E5F86D,239593-1,"Parad. Lond. t. 85","","85","",gcc-126682
+gcc-147736,A,Compositae,,Prenanthes,,"subdentata",,"","Hook. & Arn.",Synonym,,M,TICA,1DD2A8A5-3E12-4C17-B921-343ABA0406D9,239594-1,"""W.J. Hooker, G.A.W. Arnott in Bot. Misc. 2. 1831""","","221","1831",gcc-114558
+gcc-26114,A,Compositae,,Prenanthes,,"subdentata",,"","Hook.",Synonym,,M,TICA,AB476BC3-412A-483A-BFFD-30467ED6F567,239594-1,"Bot. Misc. ii. (1831) 221.","","221","1831",gcc-114558
+gcc-93497,A,Compositae,,Prenanthes,,"suberosa",,"","(Zohary & P.H.Davis) Boulos",Synonym,,M,TICA,B7A33778-B6CA-461E-837D-8ADE45E2ACED,239595-1,"","","59","1962",gcc-103450
+gcc-104356,A,Compositae,,Prenanthes,,"subpeltata",,"","Stebbins",Accepted,,M,TICA,2F510DED-16B8-4535-9075-A352B73FEE8A,239596-1,"Bull. Jard. Bot. Brux. xiv. 340 (1937).","","340","1937",
+gcc-19874,A,Compositae,,Prenanthes,,"sumatrana",,"","Tjitr.",Accepted,,M,TICA,5001CD13-2D5C-4AB8-9848-24C0766D2BFB,20007113-1,"","","126","2002",
+gcc-137508,A,Compositae,,Prenanthes,,"tanakae",,"","(Franch. & Sav. ex Koidz.) Koidz.",Accepted,,M,TICA,FAB3ECB3-648C-4AC5-BA41-EE9526C1AF90,,"Fl. Symb. Or.-Asiat.: 31 (1930)","","31","1930",
+gcc-799,A,Compositae,,Prenanthes,,"taraxacoides",,"","Wall.",Unresolved,,L,TICA,FC6C1AB4-B696-4A46-858E-017E6D7BB2EB,,"Numer. List [Wallich] n. 3279","","3279","",
+gcc-142764,A,Compositae,,Prenanthes,,"tatarinowii",,"","(L.) Maxim.",Synonym,,M,TICA,5A80FD75-B694-4A92-9041-FA5F5B516BFD,239598-1,"","","474","1859",gcc-6540
+gcc-61438,A,Compositae,,Prenanthes,,"tatarinowii",var.,"divisa","(Nakai & Kitag.) Kitag.",Synonym,,L,TICA,EC6E3F55-1B8B-4702-9039-A69348CE4EB7,,"""Report of the Institute of Scientific Research, Manchoukuo 4:""","","116","1940",gcc-6540
+gcc-145376,A,Compositae,,Prenanthes,,"tatarinowii",subsp.,"macrantha","Walker",Synonym,,L,TICA,EDA25FCA-14D4-4A4D-9C98-02F79E1E4183,,"Walker in Contr. U. S. Natl. Herb. 28. 1941","","672","1941",gcc-6540
+gcc-54974,A,Compositae,,Prenanthes,,"tatarinowii",subsp.,"macrantha","Stebbins",Synonym,,L,TICA,94583F2E-5BF6-4A33-87BB-725005D3F6C5,77118014-1,"Contributions from the United States National Herbarium 28:","","672","1941",gcc-6540
+gcc-145962,A,Compositae,,Prenanthes,,"tatarinowii",var.,"tatarinowii","",Synonym,,L,TICA,6D8DF6BE-440C-424E-A570-0E8A1B4B4588,,"","","","",gcc-6540
+gcc-154459,A,Compositae,,Prenanthes,,"tatarinowii",subsp.,"tatarinowii","",Synonym,,L,TICA,AD0BDB47-C105-47DD-A465-C3DE230D6DF2,,"","","","",gcc-6540
+gcc-114389,A,Compositae,,Prenanthes,,"tenuifolia",,"","Torr.",Synonym,Illegitimate,M,TICA,8E11D4FC-04DE-4F22-BD95-B9BD27D850C5,,"","","210","1827",gcc-117708
+gcc-18989,A,Compositae,,Prenanthes,,"tenuifolia",,"","L.",Synonym,,M,TICA,5C2BF1DF-74C0-4321-B884-230C6C6FAE0A,239600-1,"","","797","1753",gcc-95344
+gcc-26221,A,Compositae,,Prenanthes,,"transalpina",,"","Vell.",Unresolved,,L,TICA,1DA1A75F-0B09-4133-AF91-307DB974686D,324996-2,"","","350","1825 [1829]",
+tro-50288362,A,Compositae,,Prenanthes,,"transalpina",,"","Velloso",Synonym,,L,TRO,50288362,,"Fl. Flumin.","350","350","1825",gcc-119683
+gcc-154701,A,Compositae,,Prenanthes,,"transsilvanica",,"","Schur",Synonym,,M,TICA,7FEAC6A8-B1B6-4869-8CA1-C943A7657EE0,,"""P.J.F. Schur, Enum. Pl. Transsilv.. 1866""","","369","1866",gcc-95344
+gcc-111430,A,Compositae,,Prenanthes,,"triflora",,"","(Hemsl.) C.C.Chang",Synonym,,M,TICA,1B7C3D1A-7BF8-436C-84E8-B31726488F85,,"","","321","1934",gcc-44654
+gcc-24658,A,Compositae,,Prenanthes,,"triflora",,"","(Hemsl.) Stebbins",Unresolved,,L,TICA,17A7B0B5-05AA-4E21-B5DB-2D8C81413C91,,"""in Journ. Bot., Lond. 1937, lxxv. 16""","","16","",
+gcc-6974,A,Compositae,,Prenanthes,,"trifoliolata",,"","(Cass.) Fernald",Synonym,,M,TICA,B4D927B0-49DF-4305-861A-0CF9889E2018,210025-2,"","","89","1900",gcc-102068
+gcc-64541,A,Compositae,,Prenanthes,,"trifoliolata",var.,"nana","(Bigelow) Fernald",Synonym,,L,TICA,36843347-0626-4E63-A358-BF47D3C66835,210028-2,"Rhodora 3: 177. 1901","","177","1901",gcc-102068
+gcc-118508,A,Compositae,,Prenanthes,,"trifoliolata",f.,"trifoliolata","",Synonym,,L,TICA,4E7FAAB6-2118-46EE-927F-C321F8CFDA5D,,"","","","",gcc-102068
+gcc-63337,A,Compositae,,Prenanthes,,"trifoliolata",var.,"trifoliolata","",Synonym,,L,TICA,F84DECC0-702C-49BC-9600-B60C8AB64411,,"","","","",gcc-102068
+gcc-101711,A,Compositae,,Prenanthes,,"triquetra",,"","Labill.",Synonym,,M,TICA,DF3A2046-9CB5-47B0-B146-9D5D41FB3F5F,239605-1,"","","4","1809",gcc-142699
+gcc-90819,A,Compositae,,Prenanthes,,"tuberosa",,"","Steven",Synonym,,M,TICA,457BE606-98FE-467F-BABA-84FA21A95599,239606-1,"","","99","1813",gcc-131317
+gcc-124969,A,Compositae,,Prenanthes,,"versicolor",,"","(Link) Fisch. ex Bunge",Synonym,,M,TICA,9443DB24-E25F-430A-9FAD-D1F5CDA7BEB9,,"Enum. Pl. Chin. Bor. 40. 1833 [Mar 1833]","","114","1833",gcc-13707
+gcc-107917,A,Compositae,,Prenanthes,,"viminea",,"","L.",Synonym,,M,TICA,556DE89D-D661-469E-B0FC-AB2E30594910,239608-1,"","","797","1753",gcc-9159
+gcc-87803,A,Compositae,,Prenanthes,,"violaefolia",,"","Decne.",Unresolved,,L,TICA,753DEDC4-D433-40AC-8862-7E0D9060271F,239609-1,"in Jacquem. Voy. Bot. 100. t. 108.","","100. t. 108.","",gcc-92816
+gcc-152421,A,Compositae,,Prenanthes,,"violifolia",,"","Decne.",Synonym,,M,TICA,82513100-605C-4E02-B0E4-994B466A6E93,,"""Jacquem., Voy. Inde 4(Bot): 100, t. 108. 1844""","","","1844",gcc-154598
+gcc-79297,A,Compositae,,Prenanthes,,"virgata",,"","Michx.",Synonym,Illegitimate,M,TICA,09A03A9C-A8F2-48AC-9F0A-6B1EABA281D9,1078783-2,"","","83","1803",gcc-2871
+gcc-132951,A,Compositae,,Prenanthes,,"viscosa",,"","Baumg.",Synonym,Illegitimate,M,TICA,C70A7DA7-A01F-4750-B8FF-E46C425C6F9D,,"Enum. Stirp. Transs. iii. 44.","","","1817",gcc-8198
+gcc-26767,A,Compositae,,Prenanthes,,"vitifolia",,"","Diels",Accepted,,M,TICA,B684BDEE-CEAC-487B-A544-3173BED77E7C,239612-1,"Bot. Jahrb. Syst. xxix. 634.","","634","1901",
+gcc-98741,A,Compositae,,Prenanthes,,"volubilis",,"","Merr.",Accepted,,M,TICA,D586B8B1-D638-4297-8062-96C599D4F552,,"Brittonia iv. 184 (1941).","","","1941",
+gcc-17650,A,Compositae,,Prenanthes,,"vulgaris",,"","Gueldenst.",Unresolved,,L,TICA,E6F7F830-683B-405A-BEF8-2093627EDB8D,,"""Reisen, i. 113""","","113","",
+gcc-12996,A,Compositae,,Prenanthes,,"wilsonii",,"","C.C.Chang",Synonym,,M,TICA,9B504F20-5002-4B0B-9803-1836275798D5,,"Bull. Fan Mem. Inst. Biol. Bot. 5: 322","","322","1934",gcc-19617
+gcc-30333,A,Compositae,,Prenanthes,,"wolfiana",,"","Schur",Synonym,,M,TICA,FD4F4C35-96DE-4EAF-B144-381DCAB3BE11,,"in Verh. Siebenb. Ver. Naturw. iv. (1853) 43.","","","1853",gcc-95344
+gcc-124161,A,Compositae,,Prenanthes,,"yakoensis",,"","Jeffrey",Accepted,,M,TICA,F800B6B8-2A34-4D05-80F8-D008A0B843A7,239617-1,"Notes Roy. Bot. Gard. Edinburgh 5: 203","","203","1912",

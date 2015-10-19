@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-239705,A,Costaceae,,Dimerocostus,,"argenteus",,"","(Ruiz & Pav.) Maas",Accepted,,H,WCSP,239705,272112-1,"Rev. Palaeobot. Palynol.","7: 37","","1968",
+kew-239706,A,Costaceae,,Dimerocostus,,"bicolor",,"","J.F.Macbr.",Synonym,,H,WCSP,239706,80395-2,"Publ. Field Columb. Mus., Bot. Ser.","8: 114","","1930",kew-239705
+kew-239707,A,Costaceae,,Dimerocostus,,"bolivianus",,"","(Rusby) Loes.",Synonym,,H,WCSP,239707,80396-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 716","","1929",kew-239705
+kew-332571,A,Costaceae,,Dimerocostus,,"cryptocalyx",,"","N.R.Salinas & Betancur",Accepted,,H,WCSP,332571,,"Revista Acad. Colomb. Ci. Exact.","28: 466","","2004",
+kew-239708,A,Costaceae,,Dimerocostus,,"elongatus",,"","Huber",Synonym,,H,WCSP,239708,80397-2,"Bol. Mus. Goeldi Hist. Nat. Ethnogr.","4: 545","","1906",kew-239710
+kew-239709,A,Costaceae,,Dimerocostus,,"gutierrezii",,"","Kuntze",Synonym,,H,WCSP,239709,80398-2,"Revis. Gen. Pl.","3(3): 301","","1898",kew-239712
+tro-34500092,A,Costaceae,,Dimerocostus,,"guttierezii",,"","Kuntze",Synonym,,M,TRO,34500092,796504-1,"Revis. Gen. Pl.","3(3): 301–302","301","1898",kew-239710
+kew-239710,A,Costaceae,,Dimerocostus,,"strobilaceus",,"","Kuntze",Accepted,,H,WCSP,239710,80399-2,"Revis. Gen. Pl.","2: 687","","1891",
+kew-239712,A,Costaceae,,Dimerocostus,,"strobilaceus",subsp.,"gutierrezii","(Kuntze) Maas",Accepted,,L,WCSP,239712,80401-2,"Fl. Neotrop. Monogr.","8: 23","","1972",
+kew-239713,A,Costaceae,,Dimerocostus,,"strobilaceus",subsp.,"strobilaceus","",Synonym,,L,WCSP,239713,,"Unknown","","","",kew-239710
+kew-239714,A,Costaceae,,Dimerocostus,,"tessmannii",,"","Loes.",Synonym,,H,WCSP,239714,80402-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 715","","1929",kew-239712
+kew-239715,A,Costaceae,,Dimerocostus,,"uniflorus",,"","(Poepp. ex Petersen) K.Schum.",Synonym,,H,WCSP,239715,80403-2,"Pflanzenr.","IV, 46: 427","","1904",kew-254575
+kew-239716,A,Costaceae,,Dimerocostus,,"williamsii",,"","J.F.Macbr.",Synonym,,H,WCSP,239716,80404-2,"Publ. Field Mus. Nat. Hist., Bot. Ser.","11: 50","","1931",kew-239712

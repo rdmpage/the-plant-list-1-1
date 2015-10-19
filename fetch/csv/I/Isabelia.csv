@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-249984,A,Orchidaceae,,Isabelia,×,"pabstii",,"","(Leinig) C.Van den Berg & M.W.Chase",Accepted,,H,WCSP,249984,1021223-1,"Lindleyana","16: 109","","2001",
+kew-249985,A,Orchidaceae,,Isabelia,,"pulchella",,"","(Kraenzl.) C.Van den Berg & M.W.Chase",Accepted,,H,WCSP,249985,1021220-1,"Lindleyana","16: 109","","2001",
+tro-23521327,A,Orchidaceae,,Isabelia,,"pulchella",,"","(Kraenzl.) Senghas & Teusch.",Synonym,,M,TRO,23521327,1125075-2,"Amer. Orchid Soc. Bull.","37: 502","502","1968",kew-249985
+kew-249986,A,Orchidaceae,,Isabelia,,"pulchella",f.,"alba","Nunes ex C.Van den Berg & M.W.Chase",Synonym,,L,WCSP,249986,321457-2,"Lindleyana","16: 109","","2001",kew-249985
+kew-249987,A,Orchidaceae,,Isabelia,,"pulchella",var.,"alba","Nunes",Synonym,,L,WCSP,249987,302600-2,"Bol. CAOB","3(3): 41","","1991",kew-249985
+kew-249988,A,Orchidaceae,,Isabelia,,"violacea",,"","(Lindl.) C.Van den Berg & M.W.Chase",Accepted,,H,WCSP,249988,1021222-1,"Lindleyana","16: 109","","2001",
+kew-249989,A,Orchidaceae,,Isabelia,,"violacea",f.,"alba","(Barb.Rodr.) F.Barros",Synonym,,L,WCSP,249989,77061726-1,"Hoehnea","30: 182","","2003",kew-249988
+kew-102742,A,Orchidaceae,,Isabelia,,"virginalis",,"","Barb.Rodr.",Accepted,,H,WCSP,102742,639266-1,"Gen. Spec. Orchid.","1: 76","","1877",

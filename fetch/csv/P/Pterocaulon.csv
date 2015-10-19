@@ -1,0 +1,70 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116179,A,Compositae,,Pterocaulon,,"alopecuroides",,"","(Lam.) DC.",Accepted,,M,TICA,417CB924-4147-4105-A49D-BDD8F59C59ED,240147-1,"Prodr. 5: 454. 1836.","","454","1836",
+gcc-151383,A,Compositae,,Pterocaulon,,"alopecuroides",var.,"alopecuroides","",Synonym,,L,TICA,D07D9FB4-65B3-49F0-B76B-83503A8BCBDA,,"","","","",gcc-116179
+gcc-59898,A,Compositae,,Pterocaulon,,"alopecuroides",var.,"glabrescens","Chodat",Synonym,,L,TICA,FDAAA191-98B7-4369-8E75-9A225E0AA5BA,,"","","387","1902",gcc-116179
+gcc-56983,A,Compositae,,Pterocaulon,,"alopecuroides",var.,"mollis","Chodat",Synonym,,L,TICA,A3E091D2-B17F-4309-B447-82ADC7FAC138,,"","","387","1902",gcc-871
+gcc-68036,A,Compositae,,Pterocaulon,,"alopecuroides",var.,"polystachyum","DC.",Synonym,,L,TICA,6F2D9BCD-22BD-483C-9CB4-DBD64FD7D175,214081-2,"Prodr. (DC.) 5: 454","","454","1836",gcc-116179
+gcc-34060,A,Compositae,,Pterocaulon,,"alopecuroides",var.,"salicifolium","Chodat",Synonym,,L,TICA,7293CD76-FB44-4044-9C9E-3F297C4043B6,,"""Bulletin de l'Herbier Boissier, ser. 2 2(4):""","","387","1902",gcc-116179
+gcc-93411,A,Compositae,,Pterocaulon,,"alopecuroideum",,"","Chodat",Unresolved,,L,TICA,F66EAF32-1170-42FD-B807-8AAB6114FF39,,"Bull. Herb. Boissier Ser. II. ii. 386.","","386","",
+gcc-136720,A,Compositae,,Pterocaulon,,"angustifolium",,"","DC.",Accepted,,M,TICA,0436794F-78C6-4732-95F5-ECD55448D00C,240149-1,"Prodr. (DC.) 5: 454","","454","1836",
+gcc-134935,A,Compositae,,Pterocaulon,,"bakeri",,"","Malme",Synonym,,M,TICA,3EB28FEC-B410-4B0B-957D-E8D4A206056D,214083-2,"","","55","1899",gcc-28797
+gcc-49966,A,Compositae,,Pterocaulon,,"balansae",,"","Chodat",Accepted,,M,TICA,7F9F1D06-FCBC-4CD1-ACAF-5CA0D6E427C0,,"","","388","1902",
+gcc-15363,A,Compositae,,Pterocaulon,,"billardierei",,"","F.Muell.",Synonym,,M,TICA,A97F6672-5D96-46DD-A338-1C723F3FA904,240152-1,"","","43","1876",gcc-117303
+gcc-46953,A,Compositae,,Pterocaulon,,"bojeri",,"","Baker",Synonym,,M,TICA,78596720-0EF6-4811-97DA-57041EFC0CAB,240153-1,"Fl. Mauritius 164. 1877 [2 Aug 1877]","","","1877",gcc-141862
+gcc-99656,A,Compositae,,Pterocaulon,,"capitatum",,"","Britton",Unresolved,,L,TICA,B3B86360-2060-4976-9816-98DE39E77FCC,214085-2,"","","144","1893",
+gcc-142433,A,Compositae,,Pterocaulon,,"cordobense",,"","Kuntze",Accepted,,M,TICA,E9CC911C-7868-4689-AF0B-F99FA2D0745D,214086-2,"Revis. Gen. Pl. 3[3]: 169","","169","1898",
+gcc-85860,A,Compositae,,Pterocaulon,,"cylindrostachyum",,"","C.B.Clarke",Synonym,,M,TICA,088B771A-4F8F-4471-9164-799A2DCF3FA5,240156-1,"","","98","1876",gcc-117303
+gcc-120530,A,Compositae,,Pterocaulon,,"decurrens",,"","(L.) S.Moore",Synonym,,M,TICA,2175C85F-158B-4033-B0E0-C7C2343E946D,,"""in Journ. Bot. 1914, lii. 151.""","","","",gcc-141862
+gcc-76495,A,Compositae,,Pterocaulon,,"glandulosum",,"","(F.Muell. ex Benth.) Benth. & Hook.f. ex F.Muell.",Synonym,,M,TICA,260BF28F-730E-45B3-8FD9-64D72748A858,85297-3,"","","79","1883",gcc-31547
+gcc-33490,A,Compositae,,Pterocaulon,,"glandulosum",var.,"glandulosum","",Synonym,,L,TICA,06455984-A350-4693-B8BA-3E19ED693E78,85306-3,"The Flora of the Northern Territory 1917","","","1917",gcc-31547
+gcc-63876,A,Compositae,,Pterocaulon,,"glandulosum",var.,"velutineum","Ewart & O.B.Davies",Synonym,,L,TICA,73A64256-95C9-4477-B794-BA310988352C,85317-3,"The Flora of the Northern Territory 1917","","","1917",gcc-31547
+gcc-27305,A,Compositae,,Pterocaulon,,"globuliferus",,"","W.Fitzg.",Unresolved,,L,TICA,07AFF74A-2879-4453-B9E3-328083268E21,85339-3,"","","","1918",
+gcc-135090,A,Compositae,,Pterocaulon,,"globuliflorus",,"","W.Fitzg.",Accepted,,M,TICA,8E77B70F-7670-444B-AFF1-E934A59ED2D1,85339-3,"J.& Proc.Roy.Soc.Western Australia 3:223 (1918)","","","1918",
+gcc-126731,A,Compositae,,Pterocaulon,,"hassleri",,"","Chodat",Synonym,,M,TICA,579B9F49-9D64-401E-BEF2-D5F69567FDDE,,"","","387","1902",gcc-144190
+gcc-12711,A,Compositae,,Pterocaulon,,"interruptum",,"","auct. non DC.",Synonym,,M,TICA,0AA0294C-2382-4B73-A647-17B40B936336,,"","","","",gcc-49966
+gcc-86725,A,Compositae,,Pterocaulon,,"interruptum",,"","DC.",Synonym,,M,TICA,338ECCF8-A16F-475D-8019-7B8FE90A858E,240161-1,"Prodr. (DC.) 5: 454","","454","1836",gcc-116179
+gcc-149549,A,Compositae,,Pterocaulon,,"interruptum",var.,"interruptum","",Synonym,,L,TICA,B92333E6-71FE-4103-9194-5B6395353283,,"","","","",gcc-116179
+gcc-60483,A,Compositae,,Pterocaulon,,"interruptum",var.,"monostachyum","DC.",Synonym,,L,TICA,936561FA-4F83-494D-8158-9E93E11D3222,214088-2,"Prodr. (DC.) 5: 454","","454","1836",gcc-116179
+gcc-72562,A,Compositae,,Pterocaulon,,"interruptum",var.,"polystachyum","DC.",Synonym,,L,TICA,90EA6F3D-541D-4A44-8C04-FEF0AB91FFAA,214089-2,"Prodr. (DC.) 5: 454","","454","1836",gcc-116179
+gcc-144190,A,Compositae,,Pterocaulon,,"lanatum",,"","Kuntze",Accepted,,M,TICA,6054B1E1-6AE8-4E7A-B67B-FD8D5F692936,214090-2,"Revis. Gen. Pl. 3[3]: 169","","169","1898",
+gcc-143645,A,Compositae,,Pterocaulon,,"latifolium",,"","Kuntze",Synonym,,M,TICA,5517C100-6B6D-4CF4-AC9E-FC5903B42EA8,214091-2,"Revis. Gen. Pl. 3[3]: 169","","169","1898",gcc-116179
+gcc-93828,A,Compositae,,Pterocaulon,,"lorentzii",,"","Malme",Accepted,,M,TICA,43884F81-605C-4EFA-B690-8B8F172A250E,,"","","22","1901",
+gcc-124250,A,Compositae,,Pterocaulon,,"malmeanum",,"","Chodat",Synonym,,M,TICA,AC325334-679A-45EC-ADB3-D03F56044660,,"","","388","1902",gcc-93828
+gcc-76250,A,Compositae,,Pterocaulon,,"niveum",,"","Cabrera & Ragonese",Accepted,,M,TICA,47030AC7-D2FA-4630-A422-644AB49A6278,85359-3,"","","249","1978",
+gcc-2887,A,Compositae,,Pterocaulon,,"paniculatum",,"","Arechav.",Synonym,,M,TICA,FA959D79-BCD1-4EB8-B737-055678D3DB4E,,"","","","",gcc-49966
+gcc-78639,A,Compositae,,Pterocaulon,,"pilcomayense",,"","Malme",Synonym,,M,TICA,C2A4AC53-3360-4875-87F8-6997FC0167C0,240169-1,"","","73","1910",gcc-96472
+gcc-28797,A,Compositae,,Pterocaulon,,"polypterum",,"","(DC.) Cabrera",Accepted,,M,TICA,9EAA12AD-9C56-4A32-A4EE-353DDE48E1CC,214095-2,"","","75","1954",
+gcc-18568,A,Compositae,,Pterocaulon,,"polystachyum",,"","DC.",Accepted,,M,TICA,6386DE41-5C31-44C9-B8F5-224ECD9C400B,240171-1,"Prodr. (DC.) 5: 454","","454","1836",
+gcc-153516,A,Compositae,,Pterocaulon,,"polystachyum",var.,"polystachyum","",Synonym,,L,TICA,B526AB25-92BD-4162-83E7-AFF034068570,,"","","","",gcc-18568
+gcc-57717,A,Compositae,,Pterocaulon,,"polystachyum",var.,"tomentosa","Arechav.",Synonym,,L,TICA,D475DCDD-FF14-4B95-88C6-889304DD9B2C,,"""Anales Mus. Nac. Montevideo 6: 270. 1908 Arech. Fl. Uruguay, 3: 270.  1908""","","270","",gcc-49966
+gcc-23721,A,Compositae,,Pterocaulon,,"pompilianum",,"","Standl. & L.O.Williams",Synonym,,M,TICA,F4124528-31C6-4F2B-A521-2BDB81A6A90E,,"","","","1950",gcc-96472
+gcc-117913,A,Compositae,,Pterocaulon,,"purpurascens",,"","Malme",Accepted,,M,TICA,A7BD7085-3D85-4443-82EF-C1B836FD0D84,,"","","13","1901",
+gcc-23334,A,Compositae,,Pterocaulon,,"pycnostachyum",,"","(Michx.) Elliott",Accepted,,M,TICA,C2779354-2D11-4E42-B414-2B2CF6BD5CFC,240175-1,"""Sketch, ii. 324.""","","324","1824 [1823]",
+gcc-112489,A,Compositae,,Pterocaulon,,"redolens",,"","Boerl.",Unresolved,,L,TICA,99399B7D-2777-43BE-88D3-B591A0F72DFE,240176-1,"Handl. Fl. Ned. Ind. II. i. (1891) 240.","","ii. I.  240","1891",
+gcc-117303,A,Compositae,,Pterocaulon,,"redolens",,"","(G.Forst. ex Willd.) Benth. ex Fern.-Vill.",Accepted,,M,TICA,47C43D11-99A2-4FB1-ABFF-C0621D1330A4,240177-1,"","","116","1880",
+gcc-871,A,Compositae,,Pterocaulon,,"rugosum",,"","(Vahl) Malme",Accepted,,M,TICA,F1AC0EA0-32B3-45F4-817D-01A148407D89,,"","","16","1901",
+gcc-78873,A,Compositae,,Pterocaulon,,"serratum",,"","O.Schwarz",Unresolved,,L,TICA,3BEFA032-A19F-4EE4-99A3-6A2CBB689A84,240179-1,"","","108","1927",
+gcc-31547,A,Compositae,,Pterocaulon,,"serrulatum",,"","(Montrouz.) Guillaumin",Accepted,,M,TICA,37BD0227-0BE1-452D-819F-3A797CBF58D4,240180-1,"","","56","1937",
+gcc-70739,A,Compositae,,Pterocaulon,,"serrulatum",var.,"serrulatum","",Synonym,,L,TICA,D7239C5F-66AD-4382-8CE4-F0700DDC6416,85464-3,"Bulletin de la Soci?t? Botanique de France 84 1937","","","1937",gcc-31547
+gcc-18705,A,Compositae,,Pterocaulon,,"sphacelatum",,"","(Labill.) F.Muell.",Accepted,,M,TICA,7FBA15EE-4351-41F3-9CAE-228CA4B09422,240182-1,"","","","1882",
+gcc-88914,A,Compositae,,Pterocaulon,,"sphaeranthoides",,"","(DC.) F.Muell.",Accepted,,M,TICA,40379C5D-BB1B-4DE2-8326-807C839593C0,240183-1,"","","79","",
+gcc-111015,A,Compositae,,Pterocaulon,,"spicatum",,"","(Labill.) Domin",Synonym,,M,TICA,85957B33-6066-47A3-A06C-B2318AD08956,,"","","","1929",gcc-117303
+gcc-75666,A,Compositae,,Pterocaulon,,"spicatum",,"","(Cass.) DC.",Accepted,,M,TICA,A59671F7-9A78-42AD-A688-62F6A91911E1,240184-1,"Prodr. (DC.) 5: 454","","454","1836",
+gcc-68082,A,Compositae,,Pterocaulon,,"spicatum",var.,"brachystachyum","DC.",Accepted,,L,TICA,CB99B050-01D6-4871-BA67-DC1CB1D58433,214100-2,"","","454","1836",
+gcc-55788,A,Compositae,,Pterocaulon,,"spicatum",var.,"spicatum","",Synonym,,L,TICA,CC0612FC-F90A-470F-9970-78D90F108EEF,,"","","","",gcc-75666
+gcc-118073,A,Compositae,,Pterocaulon,,"subspicatum",,"","Malme",Unresolved,,L,TICA,05DE07BA-68C0-48D1-9D64-C2170EBCCCE7,,"""Bull. Herb. Boissier ser. 2, 2: 388. 1902""","","388","1902",
+gcc-89359,A,Compositae,,Pterocaulon,,"subspicatum",,"","Malme ex Chodat",Synonym,,M,TICA,6E043DC7-74ED-4590-A03E-818DAA6F20CE,,"Bull. Herb. Boissier Ser. II. ii. 388.","","388","1902",gcc-96472
+gcc-9123,A,Compositae,,Pterocaulon,,"subvirgatum",,"","Malme",Synonym,Illegitimate,M,TICA,7A3264B6-AE09-4338-A372-1110FBB2F8FB,214103-2,"","","55","1899",gcc-96472
+gcc-41750,A,Compositae,,Pterocaulon,,"tomentosus",,"","(Sch.Bip. ex Miq.) Boerl.",Synonym,,M,TICA,7BB990A8-D065-4385-898F-4D51DE76FBC6,,"","","","1891",gcc-18705
+gcc-100318,A,Compositae,,Pterocaulon,,"undulatum",,"","C.Mohr",Synonym,Illegitimate,M,TICA,3CDB59EE-CF44-4B36-BC85-9A5B03E8F969,240190-1,"Contr. U. S. Natl. Herb. 6","","790","1901",gcc-23334
+gcc-40085,A,Compositae,,Pterocaulon,,"verbascifolium",,"","(F.Muell. ex Benth.) Benth. & Hook. ex F.Muell.",Accepted,,M,TICA,F52E87A3-CA08-4887-8C05-4A59293EB415,240191-1,"","","","1882",
+gcc-96472,A,Compositae,,Pterocaulon,,"virgatum",,"","(L.) DC.",Accepted,,M,TICA,B7E575B1-E2E7-494D-A993-91A0218D183F,30022662-2,"","","454","1836",
+gcc-138539,A,Compositae,,Pterocaulon,,"virgatum",f.,"alopecuroides","(Lam.) Arechav.",Synonym,,L,TICA,C86C5F48-461A-436F-A966-F0CBECBF6A3A,214105-2,"""Anales Mus. Nac. Montevideo 6: 268. 1908 Arech. Fl. Uruguay, 3: 268.  1908""","","268","1908",gcc-116179
+gcc-59716,A,Compositae,,Pterocaulon,,"virgatum",var.,"alopecuroides","(Lam.) Griseb.",Synonym,,L,TICA,86EF6AE6-05AD-4C3E-B8C5-98AE614A0AB4,,"Cat. Pl. Cub. 150. 1866.","","150","1866",gcc-116179
+gcc-106228,A,Compositae,,Pterocaulon,,"virgatum",f.,"angustifolia","Arechav.",Synonym,,L,TICA,0899C69E-DF65-4889-9DCA-A74BEBBF45C4,,"""Anales Mus. Nac. Montevideo 6: 268. 1908 Arech. Fl. Uruguay, 3: 268.  1908 8.  1901""","","268","",gcc-93828
+gcc-73131,A,Compositae,,Pterocaulon,,"virgatum",f.,"spicata","Arechav.",Synonym,,L,TICA,D67ACB35-6175-489F-81E7-0EBA0984480C,,"""Anales Mus. Nac. Montevideo 6, 268, pl. 48. 1908 Arech. Fl. Uruguay, 3: 268, pl. 48.  1908""","","","1906",gcc-93828
+gcc-74952,A,Compositae,,Pterocaulon,,"virgatum",f.,"subcorymbosa","Arechav.",Synonym,,L,TICA,9AB29F87-DB98-47EC-BA55-54120DD6A8DA,214109-2,"""Anales Mus. Nac. Montevideo 6: 269. 1908 Arech. Fl. Uruguay, 3: 269.  1908""","","269","1908",gcc-116179
+gcc-75098,A,Compositae,,Pterocaulon,,"virgatum",f.,"subpaniculata","Arechav.",Synonym,,L,TICA,74EC2E35-A1EF-41E9-B031-5952ED1E981D,,"""Anales Mus. Nac. Montevideo 6: 269. 1908 Arech. Fl. Uruguay, 3: 269.  1908 8.  1901""","","269","",gcc-49966
+gcc-138389,A,Compositae,,Pterocaulon,,"virgatum",f.,"subvirgata","(Malme) Arechav.",Synonym,,L,TICA,E1341CE8-AE00-4565-8834-F0784EB93AFA,214111-2,"""Anales Mus. Nac. Montevideo 6: 269. 1908 Arech. Fl. Uruguay, 3: 269.  1908 8.  1901""","","269","1908",gcc-96472
+gcc-148051,A,Compositae,,Pterocaulon,,"virgatum",f.,"virgatum","",Synonym,,L,TICA,06C7ACE3-E6CF-4CDB-9113-3A98A2E76895,,"","","","",gcc-96472
+gcc-154494,A,Compositae,,Pterocaulon,,"virgatum",var.,"virgatum","",Synonym,,L,TICA,C9C66E02-D8D4-413D-8B79-C496C746EEC8,,"","","","",gcc-96472

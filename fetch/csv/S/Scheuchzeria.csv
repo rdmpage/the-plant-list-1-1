@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-287638,A,Scheuchzeriaceae,,Scheuchzeria,,"americana",,"","(Fernald) G.N.Jones",Synonym,,H,WCSP,287638,229095-2,"Amer. Midl. Naturalist, Monogr.","2: 44","","1945",kew-308817
+kew-308815,A,Scheuchzeriaceae,,Scheuchzeria,,"asiatica",,"","Miq.",Synonym,,H,WCSP,308815,603498-1,"Fl. Ned. Ind.","3: 243","","1856",kew-308817
+kew-308816,A,Tofieldiaceae,,Scheuchzeria,,"calyculata",,"","(L.) Scop.",Synonym,,H,WCSP,308816,,"Intr. Hist. Nat.","81","","1777",kew-290267
+kew-287526,A,Scheuchzeriaceae,,Scheuchzeria,,"generalis",,"","E.H.L.Krause",Synonym,,H,WCSP,287526,229096-2,"Deutschl. Fl.","ed. 2, 4: 64","","1905",kew-308817
+kew-308817,A,Scheuchzeriaceae,,Scheuchzeria,,"palustris",,"","L.",Accepted,,H,WCSP,308817,603500-1,"Sp. Pl.","338","","1753",
+kew-292830,A,Scheuchzeriaceae,,Scheuchzeria,,"palustris",var.,"americana","Fernald",Synonym,,L,WCSP,292830,229099-2,"Rhodora","25: 178","","1923",kew-308817
+kew-292831,A,Scheuchzeriaceae,,Scheuchzeria,,"palustris",subsp.,"americana","(Fernald) Hultén",Synonym,,L,WCSP,292831,229098-2,"Acta Univ. Lund.","n.s., 37(1): 107","","1941",kew-308817
+kew-308818,A,Scheuchzeriaceae,,Scheuchzeria,,"paniculata",,"","Gilib.",Synonym,Invalid,H,WCSP,308818,603501-1,"Exerc. Phyt.","2: 502","","1792",kew-308817
+kew-308819,A,Tofieldiaceae,,Scheuchzeria,,"pseudoasphodelus",,"","(Jacq.) Scop.",Synonym,,H,WCSP,308819,603502-1,"Fl. Carniol.","ed. 2, 1: 263","","1771",kew-290267
+kew-308820,A,Juncaceae,,Scheuchzeria,,"unicapsularis",,"","Comm. ex Lam.",Synonym,,H,WCSP,308820,603503-1,"Encycl.","3: 266","","1789",kew-316796

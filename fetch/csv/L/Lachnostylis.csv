@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-106755,A,Phyllanthaceae,,Lachnostylis,,"bilocularis",,"","R.A.Dyer",Accepted,,H,WCSP,106755,350729-1,"S. African J. Sci.","40: 123","","1943",
+kew-106756,A,Phyllanthaceae,,Lachnostylis,,"capensis",,"","Turcz.",Synonym,,H,WCSP,106756,350730-1,"Bull. Soc. Imp. Naturalistes Moscou","19: 503","","1846",kew-106757
+kew-106757,A,Phyllanthaceae,,Lachnostylis,,"hirta",,"","(L.f.) Müll.Arg.",Accepted,,H,WCSP,106757,350731-1,"Prodr.","15(2): 224","","1866",
+kew-106758,A,Phyllanthaceae,,Lachnostylis,,"hirta",var.,"acuminata","Müll.Arg.",Synonym,,L,WCSP,106758,,"Prodr.","15(2): 224","","1866",kew-106757
+kew-106760,A,Phyllanthaceae,,Lachnostylis,,"hirta",var.,"minor","(Sond.) Müll.Arg.",Synonym,,L,WCSP,106760,,"Prodr.","15(2): 224","","1866",kew-106757
+kew-106761,A,Phyllanthaceae,,Lachnostylis,,"minor",,"","Sond.",Synonym,,H,WCSP,106761,350732-1,"Linnaea","23: 132","","1850",kew-106757

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2562880,G,Podocarpaceae,,Phyllocladus,,"alpinus",,"","Hook.f.",Synonym,,H,WCSP,380433,262596-1,"Fl. Nov.-Zel.","1: 235","","1853",kew-2871463
+kew-2562664,G,Podocarpaceae,,Phyllocladus,,"aspleniifolius",,"","(Labill.) Hook.f.",Accepted,,H,WCSP,380375,262597-1,"London J. Bot.","4: 151","","1845",
+kew-2562665,G,Podocarpaceae,,Phyllocladus,,"aspleniifolius",var.,"alpinus","(Hook.f.) H.Keng",Synonym,,L,WCSP,380376,888395-1,"J. Arnold Arbor.","59: 263","","1978",kew-2871463
+kew-2562666,G,Podocarpaceae,,Phyllocladus,,"billardierei",,"","Mirb.",Synonym,Illegitimate,H,WCSP,380377,262598-1,"Mém. Mus. Hist. Nat.","13: 76","","1825",kew-2562664
+kew-2562667,G,Podocarpaceae,,Phyllocladus,,"cunninghamii",,"","Carrière",Synonym,,H,WCSP,380378,262599-1,"Traité Gén. Conif.","ed. 2: 707","","1867",kew-2562671
+kew-2562668,G,Podocarpaceae,,Phyllocladus,,"glaucus",,"","Kirk",Synonym,Illegitimate,H,WCSP,380379,262600-1,"Trans. & Proc. New Zealand Inst.","1: 149","","1868",kew-2562654
+kew-2562678,G,Podocarpaceae,,Phyllocladus,,"glaucus",,"","Carrière",Synonym,,H,WCSP,380384,262601-1,"Traité Gén. Conif.","502","","1855",kew-2562664
+kew-2562662,G,Podocarpaceae,,Phyllocladus,,"hypophyllus",,"","Hook.f.",Accepted,,H,WCSP,380374,262603-1,"Hooker's Icon. Pl.","9: t. 889","","1852",
+kew-2871462,G,Podocarpaceae,,Phyllocladus,,"hypophyllus",var.,"protractus","Warb.",Synonym,,L,WCSP,385854,,"Monsunia","1: 278","","1900",kew-2562662
+kew-2562672,G,Podocarpaceae,,Phyllocladus,,"major",,"","Pilg.",Synonym,,H,WCSP,380381,828283-1,"Bot. Jahrb. Syst.","54: 211","","1916",kew-2562662
+kew-2562673,G,Podocarpaceae,,Phyllocladus,,"protractus",,"","(Warb.) Pilg.",Synonym,,H,WCSP,380382,,"Pflanzenr.","IV, 5: 99","","1903",kew-2562662
+kew-2562674,G,Podocarpaceae,,Phyllocladus,,"rhomboidalis",,"","Rich.",Synonym,,H,WCSP,380383,127973-3,"Comm. Bot. Conif. Cycad.","130","","1826",kew-2562664
+tro-31200163,G,Podocarpaceae,,Phyllocladus,,"serratifolia",,"","Nois. ex Gord.",Unresolved,,L,TRO,31200163,,"Pinetum","Suppl.: 43","43","",
+tro-50007148,G,Podocarpaceae,,Phyllocladus,,"serratifolia",,"","Nois. ex Henkel & W. Hochst.",Unresolved,,L,TRO,50007148,,"Syn. Nadelhölz.","372","372","1865",
+kew-2555610,G,Podocarpaceae,,Phyllocladus,,"serratifolius",,"","Nois. ex Henkel & Hochst.",Synonym,,H,WCSP,379625,128027-3,"Syn. Nadelhölz.","372","","1865",kew-2562664
+kew-2562654,G,Podocarpaceae,,Phyllocladus,,"toatoa",,"","Molloy",Accepted,,H,WCSP,380373,994470-1,"New Zealand J. Bot.","34: 290","","1996",
+kew-2562671,G,Podocarpaceae,,Phyllocladus,,"trichomanoides",,"","D.Don",Accepted,,H,WCSP,380380,,"Descr. Pinus","ed. 3, 2: 159","","1832",
+kew-2871463,G,Podocarpaceae,,Phyllocladus,,"trichomanoides",var.,"alpinus","(Hook.f.) Parl.",Accepted,,L,WCSP,385855,,"Prodr.","16(2): 498","","1868",
+kew-2871461,G,Podocarpaceae,,Phyllocladus,,"trichomanoides",var.,"glaucus","(Carrière) Parl.",Synonym,,L,WCSP,385853,,"Prodr.","16(2): 498","","1868",kew-2562664

@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-18949,A,Compositae,,Litogyne,,"gariepina",,"","(DC.) Anderb.",Accepted,,M,TICA,5B3AD271-8F32-4169-9E3C-22FA557E01EB,,"Plant Systematics and Evolution 176(3-4):","","168","1991",
+gcc-23462,A,Compositae,,Litogyne,,"glabra",,"","Harv.",Synonym,,M,TICA,D99E8658-1A23-4991-BD92-2B6D1581720B,231044-1,"Thes. Cap. ii. 35. t. 155 (1863)","","35","1863",gcc-18949
+gcc-111599,A,Compositae,,Litogyne,,"scabra",,"","Harv.",Synonym,,M,TICA,C0C8EE17-6B60-4E21-A02D-B37731A2AA86,231045-1,"Thes. Cap. ii. 35. t. 36 (1863)","","35","1863",gcc-18949

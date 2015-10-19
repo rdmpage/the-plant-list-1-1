@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2666360,A,Solanaceae,,Aureliana,,"angustifolia",,"","Alm.-Lafetá",Accepted,,M,WCSP (in review),,1016254-1,"Novon","10: 187","","2000",
+kew-2666361,A,Solanaceae,,Aureliana,,"brasiliana",,"","(Hunz.) Barboza & Hunz.",Accepted,,M,WCSP (in review),,962713-1,"Darwiniana","30: 105","","1990 publ. 1991",
+kew-2666362,A,Solanaceae,,Aureliana,,"darcyi",,"","Carvalho & Bovini",Accepted,,M,WCSP (in review),,305349-2,"Novon","5: 257","","1995",
+kew-2666363,A,Solanaceae,,Aureliana,,"fasciculata",,"","(Vell.) Sendtn.",Accepted,,M,WCSP (in review),,814414-1,"Fl. Bras.","10: 140","","1846",
+tro-29606006,A,Solanaceae,,Aureliana,,"fasciculata",var.,"fasciculata","",Synonym,,L,TRO,29606006,,"","","","",kew-2666363
+kew-2666364,A,Solanaceae,,Aureliana,,"fasciculata",var.,"longifolia","(Sendt.) Hunz. & Barboza",Accepted,,L,WCSP (in review),,966843-1,"Darwiniana","30: 104","","1990 publ. 1991",
+kew-2666365,A,Solanaceae,,Aureliana,,"fasciculata",var.,"tomentella","(Sendt.) Barboza & Hunz.",Accepted,,L,WCSP (in review),,966842-1,"Darwiniana","30: 103","","1990 publ. 1991",
+kew-2666366,A,Solanaceae,,Aureliana,,"glomuliflora",,"","Sendtn.",Synonym,,M,WCSP (in review),,272964-2,"Fl. Bras.","10: 138","","1846",kew-2666363
+kew-2666367,A,Solanaceae,,Aureliana,,"glomuliflora",var.,"longifolia","Sendtn.",Synonym,,L,WCSP (in review),,272965-2,"Fl. Bras.","10: 139","","1846",kew-2666364
+kew-2666368,A,Solanaceae,,Aureliana,,"lucida",,"","(Moric.) Sendtn.",Synonym,,M,WCSP (in review),,814416-1,"Fl. Bras.","10: 139","","1846",kew-2666363
+kew-2899288,A,Solanaceae,,Aureliana,,"selloviana",,"","(Sendtn.) Barboza & Stehmann",Synonym,,L,WCSP (in review),,77107574-1,"Syst. Bot.","35: 421","","2010",kew-2579394
+kew-2666370,A,Solanaceae,,Aureliana,,"tomentosa",,"","Sendtn.",Accepted,,M,WCSP (in review),,814417-1,"Fl. Bras.","10: 140","","1846",
+kew-2666371,A,Solanaceae,,Aureliana,,"velutina",,"","Sendtn.",Accepted,,M,WCSP (in review),,272968-2,"Fl. Bras.","10: 140","","1846",
+kew-2666372,A,Solanaceae,,Aureliana,,"velutina",var.,"obtusifolia","Sendtn.",Synonym,,L,WCSP (in review),,26962-2,"Fl. Bras.","10: 141","","1846",kew-2666371
+kew-2666373,A,Solanaceae,,Aureliana,,"wettsteiniana",,"","(Witasek) Hunz. & Barboza",Accepted,,M,WCSP (in review),,962714-1,"Darwiniana","30: 107","","1990 publ. 1991",

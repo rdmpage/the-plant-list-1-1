@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-254545,A,Pontederiaceae,,Monochoria,,"africana",,"","(Solms) N.E.Br.",Accepted,,H,WCSP,254545,698098-1,"Fl. Trop. Afr.","8: 5","","1901",
+kew-254546,A,Pontederiaceae,,Monochoria,,"australasica",,"","Ridl.",Accepted,,H,WCSP,254546,698099-1,"J. Straits Branch Roy. Asiat. Soc.","79: 100","","1918",
+kew-254547,A,Pontederiaceae,,Monochoria,,"brevipetiolata",,"","Verdc.",Accepted,,H,WCSP,254547,698100-1,"Kirkia","1: 81","","1961",
+kew-254548,A,Pontederiaceae,,Monochoria,,"chinensis",,"","Gand.",Synonym,,H,WCSP,254548,698101-1,"Bull. Soc. Bot. France","66: 294","","1919 publ. 1920",kew-254553
+kew-254549,A,Pontederiaceae,,Monochoria,,"cyanea",,"","(F.Muell.) F.Muell.",Accepted,,H,WCSP,254549,,"Fragm.","8: 44","","1872",
+kew-254550,A,Pontederiaceae,,Monochoria,,"dilatata",,"","(Buch.-Ham.) Kunth",Synonym,,H,WCSP,254550,698103-1,"Enum. Pl.","4: 134","","1843",kew-254553
+kew-254551,A,Hydrocharitaceae,,Monochoria,,"dubia",,"","(Blume) Miq.",Synonym,,H,WCSP,254551,698104-1,"Fl. Ned. Ind.","3: 549","","1859",kew-308131
+kew-254552,A,Pontederiaceae,,Monochoria,,"elata",,"","Ridl.",Synonym,,H,WCSP,254552,698105-1,"J. Straits Branch Roy. Asiat. Soc.","79: 99","","1918",kew-254554
+kew-254553,A,Pontederiaceae,,Monochoria,,"hastata",,"","(L.) Solms",Accepted,,H,WCSP,254553,698107-1,"Monogr. Phan.","4: 523","","1883",
+kew-254554,A,Pontederiaceae,,Monochoria,,"hastata",var.,"elata","(Ridl.) Backer",Accepted,,L,WCSP,254554,,"in Fl. Males.","4: 258","","1951",
+kew-254555,A,Pontederiaceae,,Monochoria,,"hastata",var.,"hastata","",Synonym,,L,WCSP,254555,,"Unknown","","","",kew-254553
+kew-254556,A,Pontederiaceae,,Monochoria,,"hastifolia",,"","C.Presl",Synonym,,H,WCSP,254556,698106-1,"Reliq. Haenk.","1: 128","","1827",kew-254553
+kew-254557,A,Pontederiaceae,,Monochoria,,"junghuhniana",,"","Hassk.",Synonym,,H,WCSP,254557,698108-1,"Flora","35: 115","","1852",kew-254566
+kew-254558,A,Pontederiaceae,,Monochoria,,"korsakowii",,"","Regel & Maack",Accepted,,H,WCSP,254558,698109-1,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7","VII, 4(4): 155","","1861",
+kew-274292,A,Pontederiaceae,,Monochoria,,"korsakowii",var.,"albiflora","Makino",Synonym,,L,WCSP,274292,,"J. Jap. Bot.","6: 8","","1929",kew-254558
+kew-254559,A,Pontederiaceae,,Monochoria,,"linearis",,"","(Hassk.) Miq.",Synonym,,H,WCSP,254559,698110-1,"Fl. Ned. Ind.","3: 549","","1859",kew-254566
+kew-254560,A,Pontederiaceae,,Monochoria,,"loureiroi",,"","Kunth",Synonym,Illegitimate,H,WCSP,254560,698111-1,"Enum. Pl.","4: 135","","1843",kew-254566
+kew-254561,A,Pontederiaceae,,Monochoria,,"oblonga",,"","Boivin ex H.Perrier",Synonym,Invalid,H,WCSP,254561,698112-1,"Cat. Pl. Madag.","10","","1934",kew-263599
+kew-254562,A,Pontederiaceae,,Monochoria,,"ovata",,"","Kunth",Synonym,,H,WCSP,254562,698113-1,"Enum. Pl.","4: 665","","1843",kew-254566
+kew-254563,A,Pontederiaceae,,Monochoria,,"pauciflora",,"","(Blume) Kunth",Synonym,,H,WCSP,254563,698114-1,"Enum. Pl.","4: 135","","1843",kew-254566
+kew-254564,A,Pontederiaceae,,Monochoria,,"plantaginea",,"","(Roxb.) Kunth",Synonym,,H,WCSP,254564,698115-1,"Enum. Pl.","4: 135","","1843",kew-254566
+kew-254565,A,Pontederiaceae,,Monochoria,,"sagittata",,"","Kunth",Synonym,,H,WCSP,254565,698116-1,"Enum. Pl.","4: 134","","1843",kew-254553
+kew-254566,A,Pontederiaceae,,Monochoria,,"vaginalis",,"","(Burm.f.) C.Presl",Accepted,,H,WCSP,254566,698117-1,"Reliq. Haenk.","1: 128","","1827",
+tro-26100176,A,Pontederiaceae,,Monochoria,,"vaginalis",,"","(Burm. f.) C. Presl ex Kunth",Synonym,,M,TRO,26100176,1061984-2,"Enum. Pl.","4: 134","134","1843",kew-254566
+kew-254567,A,Pontederiaceae,,Monochoria,,"vaginalis",var.,"africana","Solms",Synonym,,L,WCSP,254567,,"Monogr. Phan.","4: 525","","1883",kew-254545
+kew-254568,A,Pontederiaceae,,Monochoria,,"vaginalis",var.,"angustifolia","G.X.Wang",Synonym,,L,WCSP,254568,77061865-1,"Acta Phytotax. Sin.","41: 569","","2003",kew-254566
+kew-254569,A,Pontederiaceae,,Monochoria,,"vaginalis",var.,"korsakowii","(Regel & Maack) Solms",Synonym,,L,WCSP,254569,,"Monogr. Phan.","4: 524","","1883",kew-254558
+kew-254570,A,Pontederiaceae,,Monochoria,,"vaginalis",var.,"pauciflora","(Blume) Merr.",Synonym,,L,WCSP,254570,,"Enum. Philipp. Fl. Pl.","1: 201","","1922",kew-254566
+kew-254571,A,Pontederiaceae,,Monochoria,,"vaginalis",var.,"plantaginea","(Roxb.) Solms",Synonym,,L,WCSP,254571,,"Monogr. Phan.","4: 524","","1883",kew-254566
+kew-254572,A,Pontederiaceae,,Monochoria,,"valida",,"","G.X.Wang & Nagam.",Synonym,,H,WCSP,254572,980755-1,"Acta Phytotax. Geobot.","45: 41","","1994",kew-254554

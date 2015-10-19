@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9070,A,Compositae,,Pterothrix,,"cymbifolia",,"","Harv.",Unresolved,,L,TICA,8493BE16-97C4-4716-B5AB-10F5456DF6E2,,"Fl. Cap. (Harvey) iii. 275","","275","",
+gcc-144297,A,Compositae,,Pterothrix,,"engleriana",,"","E.Phillips & Hutch.",Unresolved,,L,TICA,FB7E4262-15B6-4410-AE21-FDC6A912FF7C,240387-1,"Ann. S. African Mus. ix. 327 (1917)","","327","1917",gcc-115679
+gcc-50600,A,Compositae,,Pterothrix,,"flaccida",,"","Schltr. ex Hutch.",Unresolved,,L,TICA,E326896D-A1CA-412B-AF15-5DD555031EA4,240388-1,"""Ann. S. African Mus. ix. 379 (1917), nomen.""","","379","",gcc-115679
+gcc-113716,A,Compositae,,Pterothrix,,"perotrichoides",,"","(DC.) Harv.",Synonym,,M,TICA,60A2BA55-F858-49CD-BE3A-B8406E961EF8,,"Fl. Cap. (Harvey) iii. 275","","275","",gcc-112686
+gcc-32272,A,Compositae,,Pterothrix,,"spinescens",,"","DC.",Synonym,,M,TICA,DF3A6B70-8F95-4F17-B56F-3BC9FE3CBE47,240390-1,"Prodr. (DC.) 6: 280","","280","1838",gcc-31324
+gcc-76460,A,Compositae,,Pterothrix,,"tecta",,"","Brusse",Synonym,,M,TICA,B29711BF-22FD-47DE-ADFE-64C217263B76,939856-1,"Bothalia 20(1): 67 (1990)","","67","1990",gcc-142747
+gcc-9286,A,Compositae,,Pterothrix,,"thuja",,"","Merxm.",Synonym,,M,TICA,66EA0029-8582-4715-8FBA-11544F86EC47,240391-1,"""in Mitt. Bot. Staatssamml. München, Heft 11, 36 (1954).""","","36","1954",gcc-92073
+gcc-81108,A,Compositae,,Pterothrix,,"tomentosa",,"","(Thunb.) DC.",Synonym,,M,TICA,01AA992F-3750-42E9-B606-6F1271EA0E24,240392-1,"Prodr. (DC.) 6: 280","","280","1838",gcc-115679
+gcc-77504,A,Compositae,,Pterothrix,,"trifurcata",,"","C.A.Sm. ex Merxm.",Synonym,,M,TICA,AB3BBC0D-01A7-44A3-BAB0-670948B915AE,,"","","","",gcc-92073

@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112614,A,Compositae,,Platyschkuhria,,"desertorum",,"","(M.E.Jones) Rydb.",Unresolved,,L,TICA,7BBE4B58-07EF-4156-96CA-B5D2C62460A9,201814-2,"","","333","1910",
+gcc-111693,A,Compositae,,Platyschkuhria,,"integrifolia",,"","(A.Gray) Rydb.",Accepted,,M,TICA,A27EDBD2-BBD9-4BBD-B84C-B3ADE9A9DAC8,201815-2,"","","155","1906",
+gcc-70855,A,Compositae,,Platyschkuhria,,"integrifolia",var.,"desertorum","(M.E.Jones) W.L.Ellison",Synonym,,L,TICA,E3799689-B569-4AFE-9633-F1751C6E1526,201816-2,"","","276","1971",gcc-111693
+gcc-59227,A,Compositae,,Platyschkuhria,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,9F8EB403-F972-4862-9568-94C21342202C,,"","","","",gcc-111693
+gcc-64652,A,Compositae,,Platyschkuhria,,"integrifolia",var.,"oblongifolia","(A.Gray) W.L.Ellison",Synonym,,L,TICA,C0310359-878C-4CB1-932A-C020A6AA322C,201817-2,"","","278","1971",gcc-111693
+gcc-1452,A,Compositae,,Platyschkuhria,,"integrifolia",var.,"ourolepis","(S.F.Blake) W.L.Ellison",Synonym,,L,TICA,A09F89D1-2F00-4836-BDE2-029B7B20FA35,201818-2,"","","276","1971",gcc-111693
+gcc-96751,A,Compositae,,Platyschkuhria,,"nudicaulis",,"","(M.E.Jones) Rydb.",Unresolved,,L,TICA,E5793B37-42CE-4AC4-A16E-924F7A37745F,1102053-2,"Bull. Torrey Bot. Club 37: 333. 1910","","333","1910",
+gcc-30267,A,Compositae,,Platyschkuhria,,"oblongifolia",,"","(A.Gray) Rydb.",Synonym,,M,TICA,6E722332-9AB5-4EFF-8D69-38036540B7EB,201819-2,"","","155","1906",gcc-111693
+gcc-115555,A,Compositae,,Platyschkuhria,,"ourolepis",,"","(S.F.Blake) Ellison",Accepted,,L,TICA,B54BC2D1-B6A9-42FB-B42A-BC716E3A3F9F,,"","","","1964",

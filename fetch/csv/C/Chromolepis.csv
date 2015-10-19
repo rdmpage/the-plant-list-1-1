@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-141748,A,Compositae,,Chromolepis,,"heterophylla",,"","Benth.",Accepted,,L,TICA,F2EDB1EB-B4F0-482C-8514-F8180530345B,193220-1,"","","40","1840",
+gcc-154003,A,Compositae,,Chromolepis,,"heterophylla",f.,"heterophylla","",Synonym,,L,TICA,055C7955-2E52-4DD2-A43B-BA4031EE136D,,"","","","",gcc-141748
+gcc-74661,A,Compositae,,Chromolepis,,"heterophylla",f.,"integrifolia","(Greenm.) S.F.Blake",Synonym,,L,TICA,1BC554A6-56D1-4A24-B604-4821A0558862,57517-2,"Contr. Gray Herb. 52","","38","1917",gcc-141748

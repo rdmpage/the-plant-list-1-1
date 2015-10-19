@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-122402,A,Compositae,,Chamaechaenactis,,"scaposa",,"","(Eastw.) Rydb.",Accepted,,M,TICA,270EAF50-9F87-4E79-AA7B-CBEA61A72915,54308-2,"Bull. Torrey Bot. Club 33","","156","1906",
+gcc-57033,A,Compositae,,Chamaechaenactis,,"scaposa",var.,"parva","Preece & B.L.Turner",Synonym,,L,TICA,F6EA0DC7-2E82-47C7-A89A-831983371400,,"Madroño 12","","","1953",gcc-122402
+gcc-66984,A,Compositae,,Chamaechaenactis,,"scaposa",var.,"scaposa","",Synonym,,L,TICA,4CE6B627-9BFE-461A-AE1C-D33F4FB03345,,"","","","",gcc-122402

@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-48774,A,Orchidaceae,,Cremastra,,"aphylla",,"","T.Yukawa",Accepted,,H,WCSP,48774,1014001-1,"Ann. Tsukuba Bot. Gard.","18: 59","","1999",
+kew-48775,A,Orchidaceae,,Cremastra,,"appendiculata",,"","(D.Don) Makino",Accepted,,H,WCSP,48775,624633-1,"Bot. Mag. (Tokyo)","18: 24","","1904",
+tro-50115119,A,Orchidaceae,,Cremastra,,"appendiculata",,"","(D. Don) Schltr.",Synonym,,M,TRO,50115119,624634-1,"Repert. Spec. Nov. Regni Veg. Beih.","4: 225","225","1919",kew-48775
+kew-331845,A,Orchidaceae,,Cremastra,,"appendiculata",f.,"albiflora","B.Kill & Y.N.Lee",Synonym,,L,WCSP,331845,77065542-1,"Bull. Korea Pl. Res.","4: 6","","2004",kew-48775
+kew-48776,A,Orchidaceae,,Cremastra,,"appendiculata",var.,"appendiculata","",Synonym,,L,WCSP,48776,,"Unknown","","","",kew-48775
+tro-50238871,A,Orchidaceae,,Cremastra,,"appendiculata",var.,"triloba","(Hayata) S.S. Ying",Synonym,,L,TRO,50238871,,"Chinese Flowers","26: 4, f. 3","4","1976",kew-48775
+kew-48777,A,Orchidaceae,,Cremastra,,"appendiculata",var.,"variabilis","(Blume) I.D.Lund",Accepted,,L,WCSP,48777,954309-1,"Nordic J. Bot.","8: 201","","1988",
+kew-48778,A,Orchidaceae,,Cremastra,,"appendiculata",var.,"viridiflora","(Honda) Aver.",Synonym,,L,WCSP,48778,983778-1,"Opred. Orkhid. V'etnama","399","","1994",kew-48777
+kew-48779,A,Orchidaceae,,Cremastra,,"bifolia",,"","C.L.Tso",Synonym,,H,WCSP,48779,,"Sunyatsenia","1: 151","","1933",kew-48775
+kew-234882,A,Orchidaceae,,Cremastra,,"guizhouensis",,"","Q.H.Chen & S.C.Chen",Accepted,,H,WCSP,234882,70029607-1,"Acta Phytotax. Sin.","41: 264","","2003",
+kew-48780,A,Orchidaceae,,Cremastra,,"lanceolata",,"","(Kraenzl. ex Diels) Schltr.",Synonym,,H,WCSP,48780,624636-1,"Repert. Spec. Nov. Regni Veg. Beih.","4: 225","","1919",kew-48777
+kew-48781,A,Orchidaceae,,Cremastra,,"mitrata",,"","A.Gray",Synonym,,H,WCSP,48781,,"Mem. Amer. Acad. Arts","n.s., 6: 411","","1859",kew-48777
+kew-48782,A,Orchidaceae,,Cremastra,,"triloba",,"","Hayata",Synonym,,H,WCSP,48782,624638-1,"Icon. Pl. Formosan.","2: 135","","1912",kew-48775
+kew-48783,A,Orchidaceae,,Cremastra,,"unguiculata",,"","(Finet) Finet",Accepted,,H,WCSP,48783,624639-1,"Bull. Soc. Bot. France","44: 235","","1897",
+kew-48784,A,Orchidaceae,,Cremastra,,"variabilis",,"","(Blume) Nakai",Synonym,,H,WCSP,48784,,"Rep. Veg. Daisetsusan","27","","1930",kew-48777
+kew-48785,A,Orchidaceae,,Cremastra,,"variabilis",var.,"viridiflora","Honda",Synonym,,L,WCSP,48785,,"Bot. Mag. (Tokyo)","50: 390","","1936",kew-48777
+kew-48786,A,Orchidaceae,,Cremastra,,"wallichiana",,"","Lindl.",Synonym,Illegitimate,H,WCSP,48786,624641-1,"Gen. Sp. Orchid. Pl.","173","","1833",kew-48775

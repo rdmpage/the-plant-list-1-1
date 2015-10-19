@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-127789,A,Compositae,,Elytropappus,,"adpressus",,"","Harv.",Synonym,,M,TICA,4995A7BF-7990-4968-9D3E-D8838C30E6B0,203005-1,"","","274","1865",gcc-52227
+gcc-10356,A,Compositae,,Elytropappus,,"ambiguus",,"","DC.",Synonym,,L,TICA,AAD1E651-39E7-4302-BAAD-1359E055DF71,203006-1,"","","256","1838",gcc-144418
+gcc-7581,A,Compositae,,Elytropappus,,"aridus",,"","Koek.",Unresolved,Invalid,L,TICA,3AF05CD7-A030-48C0-AA2F-0E12679EC2E9,,"","","","",
+gcc-38785,A,Compositae,,Elytropappus,,"asper",,"","(L.f.) Levyns",Unresolved,,L,TICA,A97F0751-96E1-4298-9996-47F1863E8E0F,,"","","","",
+gcc-105555,A,Compositae,,Elytropappus,,"canescens",,"","DC.",Synonym,,L,TICA,43B516B1-B186-46B0-8B9E-A5D3CE5420F7,203007-1,"","","256","1838",gcc-144418
+gcc-11475,A,Compositae,,Elytropappus,,"cernuus",,"","(Thunb.) Fourc.",Synonym,,M,TICA,CF6748F4-5667-4935-95E8-156B9018AF20,203008-1,"","","24","1941",gcc-44714
+gcc-86920,A,Compositae,,Elytropappus,,"cinerascens",,"","DC.",Synonym,,L,TICA,A2CE8EBF-6CAA-402D-9CE1-7C0853765865,203009-1,"","","261","1838",gcc-90333
+gcc-24629,A,Compositae,,Elytropappus,,"cyathiformis",,"","DC.",Synonym,,M,TICA,196672E3-3074-4F99-A018-2D7D840E3F67,,"","","257","",gcc-101725
+gcc-131794,A,Compositae,,Elytropappus,,"glandulosus",,"","Less.",Synonym,,L,TICA,A00898DA-F101-4CF5-860F-E1BF64609762,203011-1,"","","343","1832",gcc-90333
+gcc-3433,A,Compositae,,Elytropappus,,"glandulosus",var.,"ambiguus","(DC.) Harv.",Synonym,,L,TICA,C141D7FC-755B-45FE-B003-0652E7AA6641,,"","","","",gcc-144418
+gcc-66769,A,Compositae,,Elytropappus,,"glandulosus",var.,"glandulosus","",Synonym,,L,TICA,9712909D-C345-48F1-9422-D19518EDAFB2,,"","","","",gcc-90333
+gcc-65339,A,Compositae,,Elytropappus,,"glandulosus",var.,"longifolius","DC.",Synonym,,L,TICA,041B5344-581A-487E-8B80-C611599F8326,,"","","","",gcc-127806
+gcc-72005,A,Compositae,,Elytropappus,,"glandulosus",var.,"pallens","DC.",Synonym,,L,TICA,BBD44907-4F7F-4FD0-B1CC-FA82F72B0849,,"","","","",gcc-127806
+gcc-143792,A,Compositae,,Elytropappus,,"gnaphaloides",,"","(L.) Levyns",Synonym,,L,TICA,03E3A2EF-4005-4879-853B-FCABB95882EB,203012-1,"","","94","1935",gcc-144418
+gcc-101725,A,Compositae,,Elytropappus,,"hispidus",,"","(L.f.) Druce",Accepted,,M,TICA,3E65051A-3B88-4EB2-BC89-9D671E91A50F,203013-1,"","","621","1917",
+gcc-40883,A,Compositae,,Elytropappus,,"hispidus",,"","(L.f.) Levyns",Unresolved,,L,TICA,537B3832-021F-43F2-9DA4-4BC30F78E3B3,203014-1,"Trans. Roy. Soc. South Africa xxiii. 93 (1935)","","93","1935",
+gcc-43640,A,Compositae,,Elytropappus,,"longifolius",,"","(DC.) Levyns",Synonym,,L,TICA,D2A16C3E-B822-4CB6-B663-50E21EE8773F,,"","","","1935",gcc-127806
+gcc-13461,A,Compositae,,Elytropappus,,"monticola",,"","Koek.",Unresolved,Invalid,L,TICA,9EB2C8A4-F636-485D-B7D9-19113C61DEB0,,"","","","",
+gcc-109741,A,Compositae,,Elytropappus,,"muricella",,"","Steud. ex Sch.Bip.",Synonym,,L,TICA,252DB051-C27F-458B-8381-AF58C42025F5,,"","","","",gcc-115167
+gcc-33142,A,Compositae,,Elytropappus,,"rhinocerotis",,"","(L.f.) Less.",Synonym,,M,TICA,D406E234-E11E-466C-B0A4-3D78A8CCC1C8,203016-1,"","","344","1832",gcc-44714
+gcc-107086,A,Compositae,,Elytropappus,,"ruschianus",,"","Dinter",Synonym,,M,TICA,61297166-6D3D-4C4F-9310-A94D4670E1F6,203017-1,"Repert. Spec. Nov. Regni Veg. 30","","88","1932",gcc-25053
+gcc-125015,A,Compositae,,Elytropappus,,"scaber",,"","(L.f.) Kuntze",Synonym,,L,TICA,4E44993F-EF52-4A1A-AD35-D21AD9E6D29C,203018-1,"","","145","1898",gcc-144418
+gcc-4740,A,Compositae,,Elytropappus,,"scaber",,"","(L.f.) Druce",Synonym,,L,TICA,5B40A616-6C05-4FD3-92B2-08D294458242,203019-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 621 (1917)""","","621","1917",gcc-115167
+gcc-83070,A,Compositae,,Elytropappus,,"scaber",,"","(L.f.) Levyns",Accepted,,M,TICA,01E97BD3-47BB-479C-AD70-737D6E35B206,203020-1,"Trans. Roy. Soc. South Africa xxiii. 93 (1935)","","93","1935",
+gcc-124265,A,Compositae,,Elytropappus,,"spinellosus",,"","Cass.",Synonym,,M,TICA,02D9D1D9-3DFC-4F30-8963-D0476FACBF38,203021-1,"","","199","1816",gcc-101725
+gcc-42743,A,Compositae,,Elytropappus,,"spinulosus",,"","Less.",Synonym,,M,TICA,BD268B3D-773F-4EBB-AC22-4F28721D5C73,203022-1,"","","343","1832",gcc-101725

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6735,A,Compositae,,Gundlachia,,"apiculata",,"","Britton & S.F.Blake",Accepted,,M,TICA,F50E744B-741E-4268-ABCB-0C7E5AB931AB,114767-2,"Mem. Torrey Bot. Club 16: 114. 1920","","114","1920",
+gcc-98970,A,Compositae,,Gundlachia,,"compacta",,"","Urb. & Ekman",Synonym,,M,TICA,7299A47E-5B27-4659-9E83-974F6B15BC4E,210760-1,"Ark. Bot. 23A(11)","","75","1931",gcc-68217
+gcc-20654,A,Compositae,,Gundlachia,,"corymbosa",,"","(Urb.) Britton ex Bold.",Accepted,,M,TICA,342D0F3B-98C1-41C4-8186-26368D37AB98,1132161-2,"","","391","1913",
+gcc-68217,A,Compositae,,Gundlachia,,"corymbosa",var.,"compacta","(Urb. & Ekman) M.A.Lane",Accepted,,L,TICA,F6C308E3-7232-4776-BC41-DD2A2165C1FC,994071-1,"Brittonia 48","","538","1997",
+gcc-33182,A,Compositae,,Gundlachia,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,FB4FA246-0FD8-4F82-9E40-3D8C4DD9F345,,"","","","",gcc-20654
+gcc-12822,A,Compositae,,Gundlachia,,"corymbosa",var.,"ocoana","(Urb. & Ekman) M.A.Lane",Accepted,,L,TICA,21C3E8B0-3BB7-4D5C-88E6-17E8E9B52F09,994074-1,"Brittonia 48","","540","1997",
+gcc-133267,A,Compositae,,Gundlachia,,"cubana",,"","Britton & S.F.Blake",Accepted,,M,TICA,15E8C801-C2A1-4793-9E46-E51EAC79DC5C,114769-2,"Mem. Torrey Bot. Club 16","","115","1920",
+gcc-91845,A,Compositae,,Gundlachia,,"diffusa",,"","(Benth.) Urbatsch & R.P.Roberts",Accepted,,M,TICA,F30A63BA-25CC-4B2F-8A1E-87517F367038,60436342-2,"","","249","2004",
+gcc-3058,A,Compositae,,Gundlachia,,"domingensis",,"","(Spreng.) A.Gray",Accepted,,M,TICA,57D589DD-92AB-47D4-BF07-05A8E66AE290,1063038-2,"Proc. Amer. Acad. Arts 16","","100","1880",
+gcc-62708,A,Compositae,,Gundlachia,,"domingensis",var.,"corymbosa","Urb.",Synonym,,L,TICA,09846C54-EAB8-4F94-B8FC-B0E7A116560A,114771-2,"Symb. Antill. 3","","406","1903",gcc-20654
+gcc-58994,A,Compositae,,Gundlachia,,"domingensis",var.,"domingensis","",Synonym,,L,TICA,35DE7805-06FA-4CAF-9797-930748A4E299,,"","","","",gcc-3058
+gcc-68590,A,Compositae,,Gundlachia,,"domingensis",var.,"lindeniana","(A.Rich.) Urb.",Synonym,,L,TICA,B185F34C-E28B-4967-AEF4-DFEE69D4C018,114773-2,"Symb. Antill. 3","","405","1903",gcc-3058
+gcc-90231,A,Compositae,,Gundlachia,,"floribunda",,"","Urb.",Synonym,,M,TICA,8A7A1764-801A-4916-B475-837F0B520EEE,114774-2,"Repert. Spec. Nov. Regni Veg. 26: 103. 1929","","103","1929",gcc-3058
+gcc-107033,A,Compositae,,Gundlachia,,"foliosa",,"","Britton & S.F.Blake",Accepted,,M,TICA,404CB743-E928-461C-8DAA-A92A74111ABC,114775-2,"Mem. Torrey Bot. Club 16","","114","1920",
+gcc-42445,A,Compositae,,Gundlachia,,"lindeniana",,"","(A.Rich.) Urb.",Synonym,,M,TICA,44C39197-2D03-4467-9160-4E9C3AC8AAC3,114776-2,"Repert. Spec. Nov. Regni Veg. 26: 104. 1929","","104","1929",gcc-3058
+gcc-29888,A,Compositae,,Gundlachia,,"ocoana",,"","Urb. & Ekman",Synonym,,M,TICA,68A7C19D-6E8A-4365-A24D-37421B1473F6,114777-2,"Ark. Bot. 23A(11)","","76","1931",gcc-12822
+gcc-127093,A,Compositae,,Gundlachia,,"riskindii",,"","(B.L.Turner & G.Langford) Urbatsch & R.P.Roberts",Accepted,,M,TICA,4EBC4BE4-0759-4386-8DBC-D6D313C33A87,60436343-2,"","","249","2004",
+gcc-142937,A,Compositae,,Gundlachia,,"triantha",,"","(S.F.Blake) Urbatsch & R.P.Roberts",Accepted,,M,TICA,077BF736-DCFA-44A1-B968-FAC9533A6AEB,60436341-2,"","","248","2004",
+gcc-13128,A,Compositae,,Gundlachia,,"truncata",,"","(G.L.Nesom) Urbatsch & R.P.Roberts",Accepted,,M,TICA,4F6DFD15-DC0E-4183-B551-1873D6A3FB59,60436344-2,"","","250","2004",

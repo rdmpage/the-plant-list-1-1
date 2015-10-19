@@ -1,0 +1,34 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-209691,A,Myrtaceae,,Ugni,,"angustifolia",,"","Burret",Synonym,,H,WCSP,209691,259306-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 507","","1941",kew-209703
+kew-209692,A,Myrtaceae,,Ugni,,"berteroi",,"","(Phil.) Phil.f.",Synonym,,H,WCSP,209692,,"Cat. Pl. Vasc. Chil.","79","","1881",kew-209717
+kew-209693,A,Myrtaceae,,Ugni,,"bridgesii",,"","O.Berg",Synonym,,H,WCSP,209693,602593-1,"Linnaea","27: 389","","1856",kew-209701
+kew-209694,A,Myrtaceae,,Ugni,,"candollei",,"","(Barnéoud) O.Berg",Accepted,,H,WCSP,209694,602594-1,"Linnaea","27: 388","","1856",
+kew-339656,A,Myrtaceae,,Ugni,,"candollei",f.,"litoralis","Kausel",Synonym,,L,WCSP,339656,259307-2,"Lilloa","17: 54","","1949",kew-209694
+kew-339657,A,Myrtaceae,,Ugni,,"candollei",f.,"monticola","Kausel",Synonym,,L,WCSP,339657,259308-2,"Lilloa","17: 54","","1949",kew-209694
+kew-209695,A,Myrtaceae,,Ugni,,"disterigmoides",,"","Ant.Molina",Synonym,,H,WCSP,209695,259309-2,"Ceiba","11(1): 69","","1965",kew-209703
+kew-209696,A,Myrtaceae,,Ugni,,"friedrichsthalii",,"","O.Berg",Synonym,,H,WCSP,209696,602596-1,"Linnaea","27: 388","","1856",kew-209703
+kew-209697,A,Myrtaceae,,Ugni,,"friedrichsthalii",var.,"brevipes","O.Berg",Synonym,,L,WCSP,209697,259311-2,"Linnaea","27: 389","","1856",kew-209703
+tro-50192260,A,Myrtaceae,,Ugni,,"friedrichsthalii",var.,"friedrichsthalii","",Synonym,,L,TRO,50192260,,"","","","",kew-209703
+kew-209698,A,Myrtaceae,,Ugni,,"friedrichsthalii",var.,"longipes","O.Berg",Synonym,,L,WCSP,209698,259312-2,"Linnaea","27: 389","","1856",kew-209703
+kew-209699,A,Myrtaceae,,Ugni,,"krausei",,"","(Phil.) Phil. ex O.Berg",Synonym,,H,WCSP,209699,602597-1,"Bot. Zeitung (Berlin)","16: 250","","1858",kew-209694
+kew-209700,A,Myrtaceae,,Ugni,,"lanceolata",,"","O.Berg",Synonym,,H,WCSP,209700,,"Bot. Zeitung (Berlin)","15: 857","","1857",kew-209701
+kew-209701,A,Myrtaceae,,Ugni,,"molinae",,"","Turcz.",Accepted,,H,WCSP,209701,602598-1,"Bull. Soc. Imp. Naturalistes Moscou","21(1): 579","","1848",
+kew-209702,A,Myrtaceae,,Ugni,,"montana",,"","(Benth.) O.Berg",Synonym,,H,WCSP,209702,602599-1,"Linnaea","27: 392","","1856",kew-209703
+kew-209703,A,Myrtaceae,,Ugni,,"myricoides",,"","(Kunth) O.Berg",Accepted,,H,WCSP,209703,30019654-2,"Linnaea","27: 391","","1856",
+kew-209704,A,Myrtaceae,,Ugni,,"myricoides",f.,"bifaria","McVaugh",Synonym,,L,WCSP,209704,259313-2,"Mem. New York Bot. Gard.","18(2): 267","","1969",kew-209703
+kew-209705,A,Myrtaceae,,Ugni,,"myricoides",f.,"grossa","McVaugh",Synonym,,L,WCSP,209705,259314-2,"Mem. New York Bot. Gard.","18(2): 266","","1969",kew-209703
+kew-209706,A,Myrtaceae,,Ugni,,"myricoides",var.,"longipes","(O.Berg) McVaugh",Synonym,,L,WCSP,209706,259315-2,"Mem. New York Bot. Gard.","18(2): 264","","1969",kew-209703
+kew-209708,A,Myrtaceae,,Ugni,,"myricoides",var.,"oerstedii","(O.Berg) McVaugh",Synonym,,L,WCSP,209708,259316-2,"Mem. New York Bot. Gard.","18(2): 265","","1969",kew-209703
+kew-209709,A,Myrtaceae,,Ugni,,"myricoides",f.,"oligandra","McVaugh",Synonym,,L,WCSP,209709,259317-2,"Mem. New York Bot. Gard.","18(2): 266","","1969",kew-209703
+kew-209710,A,Myrtaceae,,Ugni,,"myricoides",var.,"roraimensis","(N.E.Br.) McVaugh",Synonym,,L,WCSP,209710,259318-2,"Mem. New York Bot. Gard.","18(2): 265","","1969",kew-209703
+kew-209711,A,Myrtaceae,,Ugni,,"myricoides",f.,"stenophylla","(Oliv. ex Thurn) McVaugh",Synonym,,L,WCSP,209711,259319-2,"Mem. New York Bot. Gard.","18(2): 266","","1969",kew-209703
+kew-209712,A,Myrtaceae,,Ugni,,"myrtus",,"","Macloskie",Synonym,Illegitimate,H,WCSP,209712,259320-2,"Torreya","5: 198","","1905",kew-209701
+kew-209713,A,Myrtaceae,,Ugni,,"oerstedii",,"","O.Berg",Synonym,,H,WCSP,209713,602602-1,"Linnaea","27: 389","","1856",kew-209703
+kew-209714,A,Myrtaceae,,Ugni,,"philippii",,"","O.Berg",Synonym,,H,WCSP,209714,602603-1,"Linnaea","27: 387","","1856",kew-209701
+kew-209715,A,Myrtaceae,,Ugni,,"poeppigii",,"","O.Berg",Synonym,,H,WCSP,209715,602604-1,"Linnaea","27: 386","","1856",kew-209701
+kew-209716,A,Myrtaceae,,Ugni,,"roraimensis",,"","(N.E.Br.) Burret",Synonym,,H,WCSP,209716,259323-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 507","","1941",kew-209703
+kew-209717,A,Myrtaceae,,Ugni,,"selkirkii",,"","(Hook. & Arn.) O.Berg",Accepted,,H,WCSP,209717,602606-1,"Linnaea","27: 392","","1856",
+kew-209718,A,Myrtaceae,,Ugni,,"stenophylla",,"","(Oliv. ex Thurn) Burret",Synonym,,H,WCSP,209718,259324-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 507","","1941",kew-209703
+kew-209719,A,Myrtaceae,,Ugni,,"ugni",,"","(Molina) Voss",Synonym,Invalid,H,WCSP,209719,602609-1,"Vilm. Blumengärtn. ed. 3","1: 315","","1894",kew-209701
+kew-209720,A,Myrtaceae,,Ugni,,"vaccinioides",,"","Burret",Synonym,,H,WCSP,209720,259326-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 506","","1941",kew-209703
+kew-209721,A,Myrtaceae,,Ugni,,"warscewiczii",,"","O.Berg",Synonym,,H,WCSP,209721,602611-1,"Linnaea","27: 390","","1856",kew-209703

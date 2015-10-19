@@ -1,0 +1,44 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144457,A,Compositae,,Calycadenia,,"bicolor",,"","Greene",Synonym,,L,TICA,9D27F39B-2FEA-4A7C-9475-FE23183DD214,42893-2,"Fl. Francisc.","","421","1897",gcc-106678
+gcc-7332,A,Compositae,,Calycadenia,,"campestris",,"","Greene",Synonym,,L,TICA,B4378B97-F4D1-48C6-8FDE-0DA4F6FEACFE,42894-2,"Fl. Francisc.","","421","1897",gcc-106678
+gcc-28658,A,Compositae,,Calycadenia,,"cephalotes",,"","DC.",Synonym,,L,TICA,7E8F685D-7B56-4973-A598-34F8A10493E9,188124-1,"","","695","1836",gcc-106678
+gcc-5899,A,Compositae,,Calycadenia,,"ciliosa",,"","Greene",Synonym,,M,TICA,DFFB10B2-EBB4-4DD9-9694-0AFA78711947,42896-2,"Fl. Francisc.","","421","1897",gcc-75982
+gcc-99267,A,Compositae,,Calycadenia,,"ciliosa",f.,"alba","D.D.Keck",Synonym,,L,TICA,3FB6D2A2-85B5-4013-B862-9801895D039F,42897-2,"Aliso 4","","112","1958",gcc-75982
+gcc-152527,A,Compositae,,Calycadenia,,"ciliosa",f.,"ciliosa","",Synonym,,L,TICA,24A9F02E-F868-4D82-A58C-9B6EA778CD1C,,"","","","",gcc-75982
+gcc-43710,A,Compositae,,Calycadenia,,"elegans",,"","Greene",Synonym,,M,TICA,19386954-82E1-48B4-87BD-50FEC51624D2,42898-2,"Fl. Francisc.","","423","1897",gcc-91699
+gcc-75982,A,Compositae,,Calycadenia,,"fremontii",,"","A.Gray",Accepted,,M,TICA,2D142E06-1E14-4809-A8CD-63A4588FD254,,"","","","",
+gcc-38557,A,Compositae,,Calycadenia,,"harrisii",,"","Lem.",Unresolved,,L,TICA,4747B870-FCF8-4829-905B-478FFC93923C,188128-1,"","","9","1855",
+gcc-119613,A,Compositae,,Calycadenia,,"hispida",,"","(Greene) Greene",Synonym,,L,TICA,980BD1DF-7724-4813-9D5E-C58E609C6F31,42899-2,"Fl. Francisc.","","421","1897",gcc-106678
+gcc-74915,A,Compositae,,Calycadenia,,"hispida",f.,"albiflora","D.D.Keck",Synonym,,L,TICA,C25D34C0-9CFC-41C6-8F4B-527A95D6A774,42900-2,"Aliso 4","","113","1958",gcc-106678
+gcc-152540,A,Compositae,,Calycadenia,,"hispida",f.,"hispida","",Synonym,,L,TICA,2B03FBF5-9AFE-4014-9844-9BBD3ABDDFF4,,"","","","",gcc-106678
+gcc-58152,A,Compositae,,Calycadenia,,"hispida",subsp.,"hispida","",Synonym,,L,TICA,1A1819C4-1CD5-4573-BFB1-8C300A0917AF,,"","","","",gcc-106678
+gcc-10675,A,Compositae,,Calycadenia,,"hispida",subsp.,"reducta","D.D.Keck",Synonym,,L,TICA,B4A9EED0-2605-4AEF-B4CA-13F2891BB08E,42901-2,"Aliso 4","","114","1958",gcc-106678
+gcc-5541,A,Compositae,,Calycadenia,,"hooveri",,"","G.D.Carr",Accepted,,M,TICA,EEDC86BE-3813-4895-A2E9-0A5469F280FC,42902-2,"Brittonia 27","","140","1975",
+gcc-97368,A,Compositae,,Calycadenia,,"micrantha",,"","R.L.Carr & G.D.Carr",Accepted,,M,TICA,35D0EF63-BDF0-4BFE-A1AD-93B5BCD65858,,"","","","2004",
+gcc-79145,A,Compositae,,Calycadenia,,"mollis",,"","A.Gray",Accepted,,M,TICA,A896E268-8967-42C0-94CB-6ACE20B558A0,188131-1,"","","360","1868",
+gcc-111662,A,Compositae,,Calycadenia,,"mollis",f.,"aurea","D.D.Keck",Synonym,,L,TICA,9D37B7C8-46C8-4522-8458-B39E2AAB215D,42903-2,"Aliso 4","","112","1958",gcc-79145
+gcc-148107,A,Compositae,,Calycadenia,,"mollis",f.,"mollis","",Synonym,,L,TICA,4BE4957D-546A-4636-87C4-3BC49C324C95,,"","","","",gcc-79145
+gcc-74529,A,Compositae,,Calycadenia,,"mollis",f.,"rosea","D.D.Keck",Synonym,,L,TICA,3728B6FC-2A5D-4D2C-B572-42F165E778A2,42904-2,"Aliso 4","","112","1958",gcc-79145
+gcc-106678,A,Compositae,,Calycadenia,,"multiglandulosa",,"","DC.",Accepted,,L,TICA,EEB8CE9C-4989-44F5-86F8-A85D042B3B55,188132-1,"","","695","1836",
+gcc-61799,A,Compositae,,Calycadenia,,"multiglandulosa",subsp.,"bicolor","(Greene) D.D.Keck",Synonym,,L,TICA,FB13B5A0-5D11-4068-B3F6-A98628650E2B,42905-2,"Aliso 4","","113","1958",gcc-106678
+gcc-70783,A,Compositae,,Calycadenia,,"multiglandulosa",subsp.,"cephalotes","(DC.) D.D.Keck",Synonym,,L,TICA,672F9C37-F82F-48AD-ADC4-F0C3064DBD3A,42906-2,"Aliso 4","","113","1958",gcc-106678
+gcc-7724,A,Compositae,,Calycadenia,,"multiglandulosa",var.,"cephalotes","(DC.) Jeps.",Synonym,,L,TICA,E4C59533-7342-4741-975E-0E5871488E22,42907-2,"","","1095","1925",gcc-106678
+gcc-148514,A,Compositae,,Calycadenia,,"multiglandulosa",var.,"multiglandulosa","",Synonym,,L,TICA,3C788154-BA08-4CA7-A150-4437AEBD0C69,,"","","","",gcc-106678
+gcc-59504,A,Compositae,,Calycadenia,,"multiglandulosa",subsp.,"multiglandulosa","",Synonym,,L,TICA,5E12BB92-99E2-4D19-9EF7-96E1A3B4AB21,,"","","","",gcc-106678
+gcc-65892,A,Compositae,,Calycadenia,,"multiglandulosa",subsp.,"robusta","D.D.Keck",Synonym,,L,TICA,EDAB6366-225F-466D-A814-CA780A9064B8,42908-2,"Aliso 4","","113","1958",gcc-106678
+gcc-136999,A,Compositae,,Calycadenia,,"oppositifolia",,"","(Greene) Greene",Accepted,,M,TICA,0E6CEAC0-2B57-483A-8D26-ED75C9FC3ADC,42909-2,"Fl. Francisc.","","423","1897",
+gcc-91699,A,Compositae,,Calycadenia,,"pauciflora",,"","A.Gray",Accepted,,M,TICA,DD97336E-E6BF-4B21-A6DC-86ECE0156C4E,,"","","","",
+gcc-59643,A,Compositae,,Calycadenia,,"pauciflora",var.,"elegans","(Greene) Jeps.",Synonym,,L,TICA,1853EA9B-0A62-46BE-9330-9810A51B437D,42910-2,"","","1093","1925",gcc-91699
+gcc-154073,A,Compositae,,Calycadenia,,"pauciflora",var.,"pauciflora","",Synonym,,L,TICA,9A138DA4-DFF7-4158-9FBE-BBC976A86F27,,"","","","",gcc-91699
+gcc-37989,A,Compositae,,Calycadenia,,"plumosa",,"","Kellogg",Synonym,,M,TICA,C1B74D28-E7B8-4F05-8325-467307734CC4,188135-1,"Proc. Calif. Acad. Sci. 5","","49","1873",gcc-119806
+gcc-122855,A,Compositae,,Calycadenia,,"ramulosa",,"","Greene",Synonym,,M,TICA,166DEAC4-5C03-4F01-ADC2-CCF828D9F5DF,42911-2,"Fl. Francisc.","","423","1897",gcc-91699
+gcc-129733,A,Compositae,,Calycadenia,,"scabrella",,"","Greene",Synonym,,M,TICA,02A974F8-EB3E-49A7-BD4D-DCF1BC6C2FC8,42912-2,"Fl. Francisc.","","420","1897",gcc-120684
+gcc-101698,A,Compositae,,Calycadenia,,"spicata",,"","(Greene) Greene",Accepted,,M,TICA,94DB114E-3CDC-4D73-973E-9D5769621EEF,42913-2,"Fl. Francisc.","","422","1897",
+gcc-38720,A,Compositae,,Calycadenia,,"tenella",,"","(Nutt.) Torr. & A.Gray",Synonym,,M,TICA,6851B709-0E3F-4888-AE80-47D2049E1728,188139-1,"","","402","1843",gcc-8252
+gcc-120684,A,Compositae,,Calycadenia,,"truncata",,"","DC.",Accepted,,M,TICA,91C31538-FC42-4050-BB2D-C81E82054305,188140-1,"","","695","1836",
+gcc-33082,A,Compositae,,Calycadenia,,"truncata",subsp.,"microcephala","H.M.Hall ex D.D.Keck",Synonym,,L,TICA,78851069-F9D2-498A-B4D8-3D579C42F8A1,42914-2,"","","259","1946",gcc-97368
+gcc-38502,A,Compositae,,Calycadenia,,"truncata",var.,"scabrella","(Drew) Jeps.",Synonym,,L,TICA,80B595AA-368B-4389-B363-477165E5D47D,42916-2,"","","1093","1925",gcc-120684
+gcc-64293,A,Compositae,,Calycadenia,,"truncata",subsp.,"scabrella","(Drew) D.D.Keck",Synonym,,L,TICA,848B4F45-E555-4503-A5A7-BD68B4915791,42915-2,"","","260","1946",gcc-120684
+gcc-154447,A,Compositae,,Calycadenia,,"truncata",var.,"truncata","",Synonym,,L,TICA,03670AB5-32F8-4E20-80A6-C3C75420D8A1,,"","","","",gcc-120684
+gcc-25495,A,Compositae,,Calycadenia,,"truncata",subsp.,"truncata","",Synonym,,L,TICA,3D9896D8-A62D-4616-B342-2F121F46B483,,"","","","",gcc-120684
+gcc-8305,A,Compositae,,Calycadenia,,"villosa",,"","DC.",Accepted,,M,TICA,56018AA0-BA59-42DB-AA66-0F72CED21535,188141-1,"","","695","1836",

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-84369,A,Rubiaceae,,Feretia,,"aeruginescens",,"","Stapf",Accepted,,H,WCSP,84369,749327-1,"Bull. Misc. Inform. Kew","1906: 79","","1906",
+kew-84370,A,Rubiaceae,,Feretia,,"apodanthera",,"","Delile",Accepted,,H,WCSP,84370,749328-1,"Ann. Sci. Nat., Bot.","II, 20: 92","","1843",
+kew-84371,A,Rubiaceae,,Feretia,,"apodanthera",subsp.,"apodanthera","",Synonym,,L,WCSP,84371,,"Unknown","","","",kew-84370
+kew-84372,A,Rubiaceae,,Feretia,,"apodanthera",var.,"australis","K.Schum.",Synonym,,L,WCSP,84372,,"Bot. Jahrb. Syst.","30: 412","","1901",kew-84369
+kew-84375,A,Rubiaceae,,Feretia,,"canthioides",,"","Hiern",Synonym,,H,WCSP,84375,749329-1,"Fl. Trop. Afr.","3: 116","","1877",kew-84370
+kew-84376,A,Rubiaceae,,Feretia,,"coffeoides",,"","A.Chev.",Synonym,,H,WCSP,84376,749330-1,"Bull. Soc. Bot. France","58(8): 179","","1911 publ. 1912",kew-190798
+kew-84377,A,Rubiaceae,,Feretia,,"virgata",,"","K.Schum.",Accepted,,H,WCSP,84377,749331-1,"Bot. Jahrb. Syst.","33: 344","","1903",

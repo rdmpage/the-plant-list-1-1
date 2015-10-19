@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86168,A,Compositae,,Acamptopappus,,"microcephalus",,"","M.E.Jones",Synonym,,M,TICA,4171FBF7-BBB2-40B1-A86F-7A4E2BEF4E69,,"","","","1898",gcc-88276
+gcc-108895,A,Compositae,,Acamptopappus,,"shockleyi",,"","A.Gray",Accepted,,M,TICA,1B264376-7484-4B86-8E72-AD641EF699FA,,"","","208","1882",
+gcc-88276,A,Compositae,,Acamptopappus,,"sphaerocephalus",,"","(Harv. & A.Gray) A.Gray",Accepted,,M,TICA,875940AC-E2EF-40DA-8B0D-7F11F5C1EEC5,173699-1,"","","634","1873",
+gcc-55183,A,Compositae,,Acamptopappus,,"sphaerocephalus",var.,"sphaerocephalus","",Synonym,,L,TICA,0BB8FBCD-27B7-4646-B12C-73FFAEF18804,,"","","","1929",gcc-88276

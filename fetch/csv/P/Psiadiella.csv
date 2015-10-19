@@ -1,0 +1,3 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-37868,A,Compositae,,Psiadiella,,"humilis",,"","Humbert",Accepted,,M,TICA,24D1F77B-3BC9-421B-8C45-463CA648CA76,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 40, 282 (1923).""","","","1923",
+gcc-58513,A,Compositae,,Psiadiella,,"humilis",var.,"humilis","",Synonym,,L,TICA,57EB790B-EF35-4326-86AF-8F6CFEC85BAD,,"","","","",gcc-37868

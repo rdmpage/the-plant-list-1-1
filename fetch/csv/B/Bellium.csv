@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-99761,A,Compositae,,Bellium,,"artrutxense",,"","P.Fraga & Rosselló",Unresolved,,L,TICA,A138E051-2DFA-4E01-AEAB-99129009E4FD,77080326-1,"","","","2007",
+gcc-101322,A,Compositae,,Bellium,,"bellidioides",,"","L.",Accepted,,M,TICA,C7544001-781B-48DC-B609-9C8669407DFA,184432-1,"","","285","1771",
+gcc-103342,A,Compositae,,Bellium,,"bellidioides",,"","d'Urv.",Unresolved,,L,TICA,ADE7F7DA-731C-405B-B522-A1133591C0D4,184431-1,"in Mem. Soc. Linn. Par. i. (1822) 368.","","i.  368","1822",
+gcc-129911,A,Compositae,,Bellium,,"bellidioides",,"","(L.) Desf.",Synonym,,M,TICA,F33EBA3D-C7C7-4CBC-8041-DD5CCFDD5A03,184430-1,"Fl. Atlant. ii. 279.","","ii. 279","",gcc-106887
+gcc-151861,A,Compositae,,Bellium,,"bellidioides",var.,"bellidioides","",Synonym,,L,TICA,3DC1C161-825C-469D-B91C-8D90778D6142,,"","","","",gcc-101322
+gcc-32346,A,Compositae,,Bellium,,"bellioides",,"","G.Don",Synonym,Illegitimate,M,TICA,F3C2BEBA-BF91-4003-8757-3BF447C9CC14,,"","","","1827",gcc-106887
+gcc-110000,A,Compositae,,Bellium,,"cordifolium",,"","Kunze",Synonym,,M,TICA,94139DB3-CCA4-4190-A95C-AFE72100AC4D,184434-1,"","","703","1846",gcc-81379
+gcc-17185,A,Compositae,,Bellium,,"corsicum",,"","C.Simon",Synonym,,M,TICA,C23576E8-D1DB-4355-BF35-1FC519F73917,,"","","282","1978",gcc-52125
+gcc-117245,A,Compositae,,Bellium,,"crassifolium",,"","Moris",Accepted,,M,TICA,651297B0-1580-4EA3-A0B6-C034BE6D4539,,"","","26","1827",
+gcc-67392,A,Compositae,,Bellium,,"crassifolium",var.,"canescens","Gennari",Synonym,,L,TICA,BD9713E0-800F-4313-BBEB-D6D984FDD0BE,,"","","","1866",gcc-117245
+gcc-151098,A,Compositae,,Bellium,,"crassifolium",var.,"crassifolium","",Synonym,,L,TICA,19F57D82-35D2-4B5D-B482-7D7CB7458F63,,"","","","",gcc-117245
+gcc-89816,A,Compositae,,Bellium,,"dentatum",,"","(DC.) Viv.",Synonym,,M,TICA,593006C6-97E7-44B4-8DF8-8299A502F2EA,184437-1,"","","8","1808",gcc-106887
+gcc-82732,A,Compositae,,Bellium,,"droseraefolium",,"","Labill. ex Steud.",Synonym,,M,TICA,4E945097-4ED0-4788-A4A2-72B41CFCE39B,184438-1,"","","105","1821",gcc-101322
+gcc-110483,A,Compositae,,Bellium,,"giganteum",,"","Cass.",Synonym,,M,TICA,F2888DF3-1935-447C-8AFB-B0FC30D4F3AE,,"","","","1825",gcc-109272
+gcc-116786,A,Compositae,,Bellium,,"minutum",,"","(L.) L.",Accepted,,M,TICA,32DAFC96-54CE-4B13-BB23-BF3676003955,184440-1,"","","286","1771",
+gcc-52125,A,Compositae,,Bellium,,"nivale",,"","Req.",Accepted,,M,TICA,5B685D6D-37A8-4562-BA48-60B15A6150B2,184441-1,"Ann. Sci. Nat. (Paris) 5","","383","1825",
+gcc-84493,A,Compositae,,Bellium,,"pappulosum",,"","(Boiss. ex DC.) Kunze",Synonym,,M,TICA,6706ED83-507B-4D2C-A2B3-76AE96BF0D8A,,"","","","1846",gcc-116743
+gcc-130070,A,Compositae,,Bellium,,"pumilum",,"","Salisb.",Synonym,,M,TICA,66012870-DD0C-4796-91C3-DDB9A572E95D,184443-1,"","","202","1796",gcc-101322
+gcc-79606,A,Compositae,,Bellium,,"rotundifolium",,"","(Desf.) DC.",Synonym,,M,TICA,AB6DA460-8AD5-4947-95ED-6BCAC1B54365,184444-1,"","","303","1836",gcc-109272
+gcc-120546,A,Compositae,,Bellium,,"sommieri",,"","Parl.",Unresolved,,L,TICA,2E1A5AAE-482C-4CC0-97DA-C7CA582F90C7,,"","","","1903",

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-43372,A,Compositae,,Tetrachyron,,"brandegei",,"","(Greenm.) Wussow & Urbatsch",Accepted,,M,TICA,251E8B7C-F8D8-42B4-827D-505A8D75FFDC,251602-2,"","","313","1980",
+gcc-107102,A,Compositae,,Tetrachyron,,"chimalapanum",,"","B.L.Turner",Unresolved,,L,TICA,E8D802F7-30B5-4CB0-AEBB-A9583A88D022,,"Phytologia 88(1): 123 (-126; fig. 1)","","","2006",
+gcc-144016,A,Compositae,,Tetrachyron,,"discolor",,"","(A.Gray) Wussow & Urbatsch",Accepted,,M,TICA,4C8C8683-AFC6-4249-BE6B-FD2CC0371A05,251603-2,"","","315","1980",
+gcc-122516,A,Compositae,,Tetrachyron,,"grayi",,"","(Klatt) Wussow & Urbatsch",Accepted,,M,TICA,64952278-A0B7-4867-BA7C-CC304924C9E6,251604-2,"","","315","1980",
+gcc-22105,A,Compositae,,Tetrachyron,,"manicatum",,"","Schltdl.",Accepted,,M,TICA,F0C72B02-02DB-45B0-93EB-28E2A10BD507,255335-1,"Linnaea 19: 744. 1847","","744","1847",
+gcc-114592,A,Compositae,,Tetrachyron,,"oaxacana",,"","B.L.Turner",Synonym,,M,TICA,5E04042D-6814-43F4-852B-BA36336C5EDD,285933-2,"Phytologia 60","","251","1986",gcc-14480
+gcc-129938,A,Compositae,,Tetrachyron,,"orizabaensis",,"","(Klatt) Wussow & Urbatsch",Accepted,,M,TICA,685D8E76-F567-4EA2-9E2B-DD69DC3F0362,,"Syst. Bot. 4(4): 312. 1979 [1980].","","312","1979 [1980]",
+gcc-87202,A,Compositae,,Tetrachyron,,"orizabaensis",,"","Sch.Bip. ex Klatt",Synonym,,M,TICA,A0E7A194-A7D8-4FCF-A0B1-7CBD3D00332B,,"","","","1887",gcc-129938
+gcc-35194,A,Compositae,,Tetrachyron,,"orizabaensis",var.,"orizabaensis","",Synonym,,L,TICA,11A8423B-FE89-402B-90A7-414420584909,,"","","","",gcc-129938
+gcc-145194,A,Compositae,,Tetrachyron,,"orizabensis",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,C28438BA-7B5B-49AE-92BF-FFDF84FF45E8,,"Leopoldina 23:","","145","1887",gcc-129938
+gcc-21398,A,Compositae,,Tetrachyron,,"torresii",,"","B.L.Turner",Accepted,,M,TICA,157BBC78-2AAF-4A7B-A288-278BC660D9CB,,"","","","1985",
+gcc-79879,A,Compositae,,Tetrachyron,,"websteri",,"","(Wussow & Urbatsch) B.L.Turner",Accepted,,M,TICA,AE7E3328-C07B-48ED-8A80-6C585CB7A4B0,285936-2,"","","241","1988",

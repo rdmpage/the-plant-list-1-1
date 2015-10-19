@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-105584,A,Compositae,,Denekia,,"capensis",,"","Thunb.",Unresolved,Illegitimate,L,TICA,22D2C76D-DB78-4065-A584-A5E60DE1E7BB,201212-1,"","","153","",
+gcc-156657,A,Compositae,,Denekia,,"capensis",var.,"capensis","",Synonym,,L,TICA,67AE0B74-4085-40C1-8DD5-F1B342B60F5B,,"","","","",gcc-105584
+gcc-18468,A,Compositae,,Denekia,,"capensis",var.,"latifolia","DC.",Synonym,,L,TICA,73F9C5BE-F150-47D8-BD3C-221B088508E1,,"","","","",gcc-105584
+gcc-67177,A,Compositae,,Denekia,,"capensis",var.,"minor","DC.",Synonym,,L,TICA,B1716891-16AE-4D93-8CAE-D4EB509D3BAE,,"","","","",gcc-105584
+gcc-43427,A,Compositae,,Denekia,,"glabrata",,"","DC.",Synonym,,L,TICA,752B8BEB-521E-4E98-A927-507BC10E8959,201213-1,"","","462","1836",gcc-105584

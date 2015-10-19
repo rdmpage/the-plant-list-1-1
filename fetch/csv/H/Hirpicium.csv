@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9801,A,Compositae,,Hirpicium,,"alienatum",,"","(Thunb.) Druce",Accepted,,M,TICA,BDA36DD9-C338-4CB0-8310-125057DEA4E6,224930-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 628 (1917)""","","628","1917",
+gcc-85811,A,Compositae,,Hirpicium,,"angustifolium",,"","(O.Hoffm.) Roessler",Accepted,,M,TICA,09663A2C-35F3-4E97-AD7C-797D44D27D04,224931-1,"Mitt. Bot. Staatssamml. München iii. 359 (1959)","","359","1959",
+gcc-110841,A,Compositae,,Hirpicium,,"antunesii",,"","(O.Hoffm.) Roessler",Accepted,,M,TICA,AB9985D7-7F12-49B2-BE9A-B1CCD5EE40BC,224932-1,"Mitt. Bot. Staatssamml. München iii. 356 (1959)","","356","1959",
+gcc-120451,A,Compositae,,Hirpicium,,"armerioides",,"","(DC.) Roessler",Accepted,,M,TICA,0DA396AD-CACF-46F5-ACF3-C793559B63E5,224933-1,"Mitt. Bot. Staatssamml. München iii. 360 (1959)","","360","1959",
+gcc-11071,A,Compositae,,Hirpicium,,"armerioides",subsp.,"armerioides","",Synonym,,L,TICA,017BE2F5-187D-4CCF-AC64-14B6F3C27F2B,,"","","","",gcc-120451
+gcc-23093,A,Compositae,,Hirpicium,,"armerioides",subsp.,"rudatisii","Roessler",Synonym,,L,TICA,0F006E16-C80C-4DCC-8A87-2ABE06738BCA,,"","","","",gcc-120451
+gcc-6975,A,Compositae,,Hirpicium,,"bechuanense",,"","(S.Moore) Roessler",Accepted,,M,TICA,976651C1-6A89-4FD9-8EEC-0CFA97F4F8CE,224934-1,"Mitt. Bot. Staatssamml. München iii. 343 (1959)","","343","1959",
+gcc-137466,A,Compositae,,Hirpicium,,"beguinotii",,"","(Lanza) Cufod.",Accepted,,M,TICA,57A80712-1161-4E2E-911C-EE847F98DEF0,224935-1,"""in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl., 1168 (1967).""","","""xxxvii. Suppl., 1168""","1967",
+gcc-111934,A,Compositae,,Hirpicium,,"diffusum",,"","(O.Hoffm.) Roessler",Accepted,,M,TICA,E5E998AC-CFC5-417B-BED7-B4458E1B7B8B,224936-1,"Mitt. Bot. Staatssamml. München iii. 353 (1959)","","353","1959",
+gcc-50877,A,Compositae,,Hirpicium,,"echinulatum",,"","Cass.",Synonym,Illegitimate,M,TICA,B46501A0-E6CE-4BDD-8180-5E60874BE0C7,224937-1,"Bull. Sci. Soc. Philom. Paris (1820) 27","","27","",gcc-9801
+gcc-25294,A,Compositae,,Hirpicium,,"echinus",,"","Less.",Accepted,,M,TICA,4B8E1869-348A-49C9-A426-2EB0226C1B6E,224938-1,"Syn. Gen. Compos. 55.","","55","1832",
+gcc-4133,A,Compositae,,Hirpicium,,"gazanioides",,"","(Harv.) Roessler",Accepted,,M,TICA,55FE1C76-CFE4-4804-9553-07B329D84B84,224939-1,"Mitt. Bot. Staatssamml. München iii. 345 (1959)","","345","1959",
+gcc-7344,A,Compositae,,Hirpicium,,"gorterioides",,"","(Oliv. & Hiern) Roessler",Accepted,,M,TICA,02A2D969-7D56-425A-987D-0DA93540D57C,224940-1,"Mitt. Bot. Staatssamml. München iii. 348 (1959)","","348","1959",
+gcc-25109,A,Compositae,,Hirpicium,,"gorterioides",subsp.,"aizoides","(O.Hoffm.) Roessler",Accepted,,L,TICA,FB7AFD21-51FF-4C42-A6EA-2E5DD64A8737,,"","","","",
+gcc-7531,A,Compositae,,Hirpicium,,"gorterioides",subsp.,"gorterioides","",Synonym,,L,TICA,28651A63-556F-48CD-9905-0DFA54F07775,,"","","","",gcc-7344
+gcc-57428,A,Compositae,,Hirpicium,,"gorterioides",subsp.,"schinzii","(O.Hoffm.) Roessler",Accepted,,L,TICA,65A7142C-FB9A-4F99-8AC9-863A1E29D494,,"","","","",
+gcc-23109,A,Compositae,,Hirpicium,,"gracile",,"","(O.Hoffm.) Roessler",Accepted,,M,TICA,5F5628AD-8580-48AC-886D-2AC8BD692849,224941-1,"Mitt. Bot. Staatssamml. München iii. 357 (1959)","","357","1959",
+gcc-41161,A,Compositae,,Hirpicium,,"integrifolium",,"","(Thunb.) Less.",Accepted,,M,TICA,AFD4BC3C-1CA4-448F-92E8-4C47D86BC68C,224942-1,"Syn. Gen. Compos. 53.","","53","",
+gcc-101995,A,Compositae,,Hirpicium,,"linearifolium",,"","(Bolus) Roessler",Accepted,,M,TICA,97B88180-43CE-4BC1-8C1D-9E0C8140EF7D,224943-1,"Mitt. Bot. Staatssamml. München iii. 362 (1959)","","362","1959",

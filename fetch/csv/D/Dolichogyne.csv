@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-97749,A,Compositae,,Dolichogyne,,"acaulis",,"","Wedd. ex Benth. & Hook.f.",Synonym,Illegitimate,L,TICA,CBAF8E0C-20D9-48F2-8C87-949973046D07,,"","","","1873",gcc-102020
+gcc-108432,A,Compositae,,Dolichogyne,,"armata",,"","Wedd.",Synonym,,M,TICA,EFFCB41D-9A20-4FCC-848E-AC44B460624F,,"","","181","1857",gcc-17063
+gcc-92883,A,Compositae,,Dolichogyne,,"candollei",,"","J.Rémy",Synonym,Illegitimate,M,TICA,CC9D9220-08B2-4E4A-8E6B-89967B6BE686,201064-1,"Fl. Chil. 4: 103 (1849)","","103","1849",gcc-8551
+tro-2742410,A,Compositae,,Dolichogyne,,"chiliotrichioides",,"","Remy",Synonym,,M,TRO,2742410,,"Fl. Chil.","4: 104","104","1849",gcc-95890
+gcc-9265,A,Compositae,,Dolichogyne,,"chiliotrichoides",,"","J.Rémy",Unresolved,,L,TICA,DF73848E-6A55-438D-96B8-114C35CBA177,201065-1,"","","104","1849",gcc-95890
+gcc-129175,A,Compositae,,Dolichogyne,,"genistoides",,"","Phil.",Synonym,,M,TICA,F32B5336-E1B7-4C19-8B53-DBB11195D7FB,,"Linnaea 28","","738","",gcc-20564
+gcc-10012,A,Compositae,,Dolichogyne,,"glabra",,"","Phil.",Synonym,,M,TICA,F0628E75-B0A1-41E6-A758-12BB9978EF88,82804-2,"Anales Mus. Nac. Santiago de Chile 1891","","39","1891",gcc-128974
+gcc-80256,A,Compositae,,Dolichogyne,,"gnaphalioides",,"","DC.",Synonym,,M,TICA,957B7233-2A36-4BA6-93EE-6D38822D43D1,201067-1,"","","256","1838",gcc-8551
+gcc-121012,A,Compositae,,Dolichogyne,,"lepidophylla",,"","Wedd.",Synonym,Illegitimate,L,TICA,43B6269B-F62B-4A1D-B3CA-C8DB0B499F3A,,"","","182","1857",gcc-102020
+gcc-142857,A,Compositae,,Dolichogyne,,"parvifolia",,"","Phil.",Unresolved,,L,TICA,435B662F-D977-46EC-A7D3-FA99953AA76D,,"","","","",
+gcc-111049,A,Compositae,,Dolichogyne,,"rigida",,"","Wedd.",Synonym,,M,TICA,89F72E34-CA53-44F1-95B5-B24900CA3AA0,,"","","182","",gcc-128974
+gcc-95157,A,Compositae,,Dolichogyne,,"rupestris",,"","Wedd.",Synonym,,M,TICA,947B5B62-79B0-46E8-9DDB-8EA55667D410,,"","","183","1857",gcc-128974
+gcc-42786,A,Compositae,,Dolichogyne,,"staehelinoides",,"","DC.",Synonym,,M,TICA,48BD4771-7588-4BE1-9478-4F3C89FC9297,201071-1,"","","256","1838",gcc-8551

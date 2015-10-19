@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11985,A,Compositae,,Chardinia,,"cylindrica",,"","Desv.",Synonym,,M,TICA,997F246D-CE93-447F-8BA4-1656AE0BBA98,192684-1,"","","216","1827",gcc-92705
+gcc-75331,A,Compositae,,Chardinia,,"macrocarpa",,"","K.Koch",Synonym,,M,TICA,9EA8C8A6-48F5-4300-937B-6236F08A4B5D,192685-1,"Linnaea 24","","382","1851",gcc-11225
+gcc-111345,A,Compositae,,Chardinia,,"orientalis",,"","Britten",Unresolved,,L,TICA,3CDECF66-F999-4868-A66F-B2E984541666,192687-1,"""in Journ. Bot. 1915, liii. 275.""","","liii. 275","1915",
+gcc-11225,A,Compositae,,Chardinia,,"orientalis",,"","(L.) Kuntze",Accepted,,M,TICA,1E7D5AF5-EAA7-461E-B75F-14F9700B364C,,"","","","1887",
+gcc-84592,A,Compositae,,Chardinia,,"orientalis",,"","(L.) Briq.",Synonym,,M,TICA,A0A7EC02-2890-4CAB-BE26-76DEE9BA9E9C,,"J. Bot. 53: 275 (1915)","","275","1915",gcc-11225
+gcc-109696,A,Compositae,,Chardinia,,"xeranthemoides",,"","Desf.",Synonym,,M,TICA,18AE5279-A698-404D-BCEA-AF3952F1F721,,"","","","1817",gcc-11225

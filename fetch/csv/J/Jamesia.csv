@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-29100403,A,Hydrangeaceae,,Jamesia,,"americana",,"","Torr. & A. Gray",Accepted,,M,TRO,29100403,131319-2,"Fl. N. Amer.","1(4): 593–594","593","1840",
+tro-50142832,A,Hydrangeaceae,,Jamesia,,"americana",var.,"americana","",Synonym,,L,TRO,50142832,,"","","","",tro-29100403
+tro-29100404,A,Hydrangeaceae,,Jamesia,,"americana",var.,"californica","(Small) Jeps.",Accepted,,L,TRO,29100404,131321-2,"Man. Fl. Pl. Calif.","466","466","1925",
+tro-13009074,A,Hydrangeaceae,,Jamesia,,"americana",var.,"macrocalyx","(Small) Engl.",Accepted,,L,TRO,13009074,131322-2,"Nat. Pflanzenfam. (ed. 2)","18a: 196","196","1930",
+tro-13009076,A,Hydrangeaceae,,Jamesia,,"californica",,"","(Small) Fedde",Synonym,,L,TRO,13009076,131324-2,"Just's Bot. Jahresber.","33(1[3]): 609","609","1905",tro-29100404
+tro-13009077,A,Hydrangeaceae,,Jamesia,,"macrocalyx",,"","(Small) Fedde",Synonym,,L,TRO,13009077,131325-2,"Just's Bot. Jahresber.","33(1[3]): 609","609","1905",tro-13009074
+ild-18261,A,Leguminosae,,Jamesia,,"obovata",,"","Raf.",Synonym,,H,ILDIS,18261,,"","","","",ild-15409
+gcc-21636,A,Hydrangeaceae,,Jamesia,,"pauciflora",,"","(Torr.) Nees",Unresolved,,L,TICA,0E21B294-17CA-4B75-8333-28037F2799AE,1096001-2,"Reise Nord-America 2: 442. 1840","","442","1840",gcc-93218
+tro-29101191,A,Hydrangeaceae,,Jamesia,,"tetrapetala",,"","N.H. Holmgren & P.K. Holmgren",Accepted,,M,TRO,29101191,279017-2,"Brittonia","41(4): 348–349, f. 3J–K","348","1989",

@@ -1,0 +1,66 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87799,A,Compositae,,Kalimeris,,"alberti",,"","Regel",Unresolved,,L,TICA,9AF1D28A-8744-460B-847D-7E0A97AEE823,187957-1,"Gartenfl. (1884) 130.","","""130, t. 1152""","1884",
+gcc-121885,A,Compositae,,Kalimeris,,"altaica",,"","(Willd.) Nees",Accepted,,M,TICA,16657D8B-4D84-4A5C-850E-CAC4ED661B1E,,"Genera et Species Asterearum","","228","1832",
+gcc-488,A,Compositae,,Kalimeris,,"altaica",,"","(Willd.) Nees ex Fisch.Mey. & Avé-Lall.",Unresolved,,L,TICA,F7481172-D32C-4DBC-A794-00EAB7D7D0F1,,"","","52","1842",
+gcc-154554,A,Compositae,,Kalimeris,,"altaica",var.,"altaica","",Synonym,,L,TICA,E67363B9-A618-4853-ABD5-C615850F640D,,"","","","",gcc-121885
+gcc-32978,A,Compositae,,Kalimeris,,"altaica",var.,"scabra","Avé-Lall.",Unresolved,,L,TICA,0D702929-28D1-4EA5-BF91-3D27A0148086,,"Index Seminum [St. Petersburg] 1841:","","52","1841",
+gcc-85350,A,Compositae,,Kalimeris,,"alyssoides",,"","DC.",Unresolved,,L,TICA,5D6976B0-5311-42F0-9072-787F67F5DB88,187959-1,"Prodr. (DC.) 5: 259","","259","1836",
+gcc-1118,A,Compositae,,Kalimeris,,"amplexifolia",,"","Siebold & Zucc.",Synonym,,M,TICA,E93482AA-D066-44C7-BFBC-020D8AE68E93,187960-1,"","","182","1846",gcc-98949
+gcc-137578,A,Compositae,,Kalimeris,,"angustifolia",,"","S.Y.Hu",Synonym,,M,TICA,82428368-5357-410A-8CC9-EEBC0AE799F4,227169-1,"Quart. J. Taiwan Mus. xx. 10 (1967)","","10","1967",gcc-125261
+gcc-123200,A,Compositae,,Kalimeris,,"associata",,"","(Kitag.) Kitag.",Accepted,,M,TICA,F4717FD1-7A1D-4B3C-9956-CDC6CE6F921E,227170-1,"Neolin. Fl. Manshur. 652 (1979)","","652","1979",
+gcc-155127,A,Compositae,,Kalimeris,,"associata",f.,"associata","",Synonym,,L,TICA,FD17359E-45C9-41F0-AF81-D16B1146D765,,"","","","",gcc-123200
+gcc-41593,A,Compositae,,Kalimeris,,"biennis",,"","Ledeb.",Synonym,Illegitimate,M,TICA,D65B22CF-BA78-4673-B324-4D04C3CCA025,,"","","483","",gcc-12454
+gcc-80976,A,Compositae,,Kalimeris,,"biennis",,"","Nees",Unresolved,,L,TICA,79FE9736-04D2-4A6A-838E-6ECDE0A770A9,187961-1,"Gen. et Sp. Ast.","","231","1832",
+gcc-38102,A,Compositae,,Kalimeris,,"canescens",,"","Nees",Synonym,,L,TICA,2592EA5E-8A81-4BAD-B663-46AE4AC94D2A,187963-1,"Gen. Sp. Aster. 229. 1832","","229","1832",gcc-488
+gcc-87808,A,Compositae,,Kalimeris,,"cassiarabica",,"","G.Don",Unresolved,,L,TICA,E0A50956-0E6A-45B6-B4D9-7E102EF789F7,187964-1,"""Hort. Brit. (Sweet), ed. 3. 343""","","343","1839",
+gcc-8342,A,Compositae,,Kalimeris,,"chinensis",,"","Sch.Bip.",Unresolved,,L,TICA,A53D4AA3-2659-4E6B-9A73-0F856E6AFB31,187965-1,"""in Flora, xxxv. (1852) 48.""","","xxxv.  48","1852",
+gcc-126580,A,Compositae,,Kalimeris,,"ciliata",,"","A.Gray",Synonym,,M,TICA,2A014C6A-1147-42B9-BF91-D5A7D12F31F1,,"","","394","",gcc-80232
+gcc-75335,A,Compositae,,Kalimeris,,"ciliosa",,"","Turcz.",Accepted,,M,TICA,1969943F-6B63-4718-9128-6238A4939FC2,,"in Bull. Soc. Nat. Mosc. xxiv. (1851) II. 61.","","","1851",
+gcc-8228,A,Compositae,,Kalimeris,,"cordata",,"","Sch.Bip.",Unresolved,,L,TICA,DEB9F889-1F1D-4A29-ACA8-0F4D19786ED0,187968-1,"","","126","1854",
+gcc-14905,A,Compositae,,Kalimeris,,"coronata",,"","Sch.Bip.",Accepted,,M,TICA,76F85E80-8A64-4407-8BA0-1B9A805783E7,187969-1,"""in Flora, xxxv. (1852) 48.""","","xxxv.  48","1852",
+gcc-1919,A,Compositae,,Kalimeris,,"distortus",,"","Turcz.",Unresolved,,L,TICA,CB97869E-5393-4CE2-BE94-0377095F08D6,187970-1,"in Bull. Soc. Nat. Mosc. xix. (1846) II. 152.","","xix.  II. 152","1846",
+gcc-40081,A,Compositae,,Kalimeris,,"exilis",,"","Lindl. ex DC.",Unresolved,,L,TICA,9F219A5F-C2C7-433B-B025-4A57B1F7D907,,"Prodr. (DC.) 5: 259","","","1836",
+gcc-24476,A,Compositae,,Kalimeris,,"fastigiata",,"","Sch.Bip.",Unresolved,,L,TICA,44784AF2-1790-488E-A814-2D2E5684B3FE,187972-1,"Syst. Verz. (Zollinger) 126","","126","",
+gcc-89255,A,Compositae,,Kalimeris,,"flexuosa",,"","Royle ex DC.",Unresolved,,L,TICA,E928D2F2-7AFA-4435-9857-814B1D05187D,,"Prodr. (DC.) 5: 258","","258","1836",gcc-143550
+gcc-99132,A,Compositae,,Kalimeris,,"fruticosa",,"","C.Winkl.",Unresolved,,L,TICA,5B06DF12-5443-44D2-8CCA-97AD71D313AE,,"Act. Hort. Petrop. ix. (1886) 419.","","419","",gcc-129032
+gcc-143054,A,Compositae,,Kalimeris,,"hispida",,"","Lindl. ex DC.",Unresolved,Illegitimate,L,TICA,750460C2-BC37-4472-8F92-FB07A1A4BE15,,"Prodr. (DC.) 5: 259","","259","1836",
+gcc-3931,A,Compositae,,Kalimeris,,"hispida",,"","(Thunb.) Nees",Accepted,,M,TICA,B715D5E4-1688-4CB2-88FB-074DFC7D0CAF,,"","","227","1833",
+gcc-148316,A,Compositae,,Kalimeris,,"hispida",var.,"hispida","",Synonym,,L,TICA,ED6E6081-DCEA-4416-BE86-400EB2AB6DA7,,"","","","",gcc-3931
+gcc-1620,A,Compositae,,Kalimeris,,"hispida",var.,"subserratum","Miq.",Synonym,,L,TICA,DA1EA50B-AF8C-4042-BDEC-02E8D1D22065,,"Ann. Mus. Bot. Lugd.-Bat. 2: 169 (1866)","","169","1866",gcc-106534
+gcc-102434,A,Compositae,,Kalimeris,,"incisa",,"","(Fisch.) DC.",Accepted,,M,TICA,C2D1C9A8-99B3-4400-8FF6-9F1FC6490C76,187977-1,"Prodr. 5","","258","1836",
+gcc-54078,A,Compositae,,Kalimeris,,"incisa",var.,"holophylla","Maxim.",Synonym,,L,TICA,10EE10FA-9EF5-46B1-B41E-6B409D527546,,"Memoires de l'academie imperiale des sciences de Saint Petersbourg. 9:","","145","1858",gcc-75399
+gcc-148574,A,Compositae,,Kalimeris,,"incisa",var.,"incisa","",Synonym,,L,TICA,48CA4B4C-B1AF-4043-91D5-459CB9F8136F,,"","","","",gcc-102434
+gcc-25893,A,Compositae,,Kalimeris,,"incisa",subsp.,"incisa","",Synonym,,L,TICA,A8348099-1CFF-4839-8974-2FDA4A474CAE,,"","","","",gcc-102434
+gcc-140038,A,Compositae,,Kalimeris,,"indica",,"","(L.) Sch.Bip.",Accepted,,M,TICA,5228F552-C5A3-4D1E-ADBC-F41338999976,,"""Zoll., Syst. Verz.""","","125","1854--55",
+gcc-147681,A,Compositae,,Kalimeris,,"indica",f.,"indica","",Synonym,,L,TICA,C0DEFBE9-AAB4-44D0-AA20-32A53F7FAC38,,"","","","",gcc-140038
+gcc-57227,A,Compositae,,Kalimeris,,"indica",subsp.,"indica","",Synonym,,L,TICA,875BAA3D-7133-4CFB-A847-84BF07E0A426,,"","","","",gcc-140038
+gcc-68188,A,Compositae,,Kalimeris,,"indica",var.,"indica","",Synonym,,L,TICA,56666682-81FD-40A3-97FA-DCEC722DF0CE,,"","","","",gcc-140038
+gcc-68423,A,Compositae,,Kalimeris,,"indica",var.,"polymorpha","(Vaniot) Kitam.",Accepted,,L,TICA,24972EED-1425-4A98-AC01-DEBDA236B112,,"Journal of Japanese Botany 19(11):","","340","1943",
+gcc-65240,A,Compositae,,Kalimeris,,"indica",var.,"stenolepis","(Hand.-Mazz.) Kitam.",Accepted,,L,TICA,CEA44082-BB49-45CB-BEE2-C511FEFD1ED5,,"Journal of Japanese Botany 19(11):","","340","1943",
+gcc-140303,A,Compositae,,Kalimeris,,"integrifolia",,"","Turcz. ex DC.",Accepted,,M,TICA,CB6B6CB2-982C-495A-B8F2-F4AE42919D00,,"","","259","1836",
+gcc-121575,A,Compositae,,Kalimeris,,"japonica",,"","Sch.Bip.",Synonym,,M,TICA,6026B3A0-3395-493C-B6CE-CA159231669B,187980-1,"","","126","1854",gcc-139938
+gcc-14273,A,Compositae,,Kalimeris,,"lancifolia",,"","J.Q.Fu",Accepted,,M,TICA,3EA90374-B644-4D28-86E2-1A7C8D864379,,"""Bull. Bot. Res., Harbin 3(1): 112""","","","1983",
+gcc-123823,A,Compositae,,Kalimeris,,"lautureana",,"","(Debeaux) Kitam.",Synonym,,M,TICA,6A810466-AA9C-480D-BA97-CF4889D3EA36,227171-1,"""Acta Phytotax. Geobot. 1937, vi. 22""","","22","1937",gcc-75399
+gcc-156320,A,Compositae,,Kalimeris,,"lautureana",var.,"lautureana","",Synonym,,L,TICA,A3D976E0-B3CF-4C04-8BBA-EAAE482AB5F7,,"","","","",gcc-75399
+gcc-26765,A,Compositae,,Kalimeris,,"lautureana",subsp.,"lautureana","",Synonym,,L,TICA,B351F75E-2A76-4776-80F8-317332A75CC2,,"","","","",gcc-75399
+gcc-113872,A,Compositae,,Kalimeris,,"longipetiolata",,"","(C.C.Chang) Ling",Accepted,,M,TICA,B0C223C7-B7F2-4676-BC15-B895AEA02A81,915184-1,"Fl. Reipubl. Popularis Sin. 74: 108 (1985):","","108","1985",
+gcc-106314,A,Compositae,,Kalimeris,,"mangtaoensis",,"","(Kitag.) Kitam.",Synonym,,M,TICA,A775234C-9FF4-489D-8F18-A7817E3597E6,227172-1,"""Acta Phytotax. Geobot. 1937, vi. 21""","","21","1937",gcc-75399
+gcc-51210,A,Compositae,,Kalimeris,,"marchandii",,"","(Lével.) Kitam.",Unresolved,,L,TICA,D30ACB2A-1C21-424B-9879-5EF7DC429A53,910785-1,"Acta Phytotax. Geobot. 33: 195 (1982):","","195","1982",gcc-29903
+gcc-20425,A,Compositae,,Kalimeris,,"microcephala",,"","Miq.",Synonym,,M,TICA,CDADC0C5-3CD7-4330-8B17-25C72946F01E,,"","","169","1866",gcc-67510
+gcc-87104,A,Compositae,,Kalimeris,,"miqueliana",,"","(Hara) Kitam.",Synonym,,M,TICA,0BFFA037-A993-4E6A-B1DD-7C819FC7A317,,"","","","1937",gcc-114641
+gcc-105749,A,Compositae,,Kalimeris,,"mongolica",,"","(Franch.) Kitam.",Accepted,,M,TICA,57824055-834D-412B-96F1-A638203CC993,,"""Acta Phytotax. Geobot. 1937, vi. 21""","","","1937",
+gcc-24129,A,Compositae,,Kalimeris,,"piccolii",,"","(Hook.f.) S.Y.Hu",Unresolved,,L,TICA,71479D06-50F9-46AD-9DD5-2C92D61756EA,227175-1,"Quart. J. Taiwan Mus. xx. 12 (1967)","","12","1967",
+gcc-9393,A,Compositae,,Kalimeris,,"pinnatifida",,"","(Maxim.) Kitam.",Synonym,,M,TICA,1BE7DCD0-54BB-4864-B7C3-118AC45C59F6,,"","","","1937",gcc-27678
+gcc-69692,A,Compositae,,Kalimeris,,"pinnatifida",var.,"dentata","Kitam.",Synonym,,L,TICA,E2068778-1E28-4472-A42B-E856A81DC27F,,"Mem. Coll. Sci. Kyoto Univ. ser. B. 13: 309 (1937)","","309","1937",gcc-55300
+gcc-150295,A,Compositae,,Kalimeris,,"pinnatifida",var.,"pinnatifida","",Synonym,,L,TICA,CF2A52E0-0967-42A4-89CE-6B3A84446B32,,"","","","",gcc-27678
+gcc-80871,A,Compositae,,Kalimeris,,"platycephala",,"","Cass. ex Cass.",Synonym,,M,TICA,831BB2E9-4DBA-4E4F-B49B-6E8B0BA6083E,227177-1,"","","325","1822",gcc-102434
+gcc-18340,A,Compositae,,Kalimeris,,"procera",,"","(Hemsl.) S.Y.Hu",Accepted,,M,TICA,CE7CDDD5-4912-4ED9-812B-21E26A0385A8,,"Quart. J. Taiwan Mus. xx. 12 (1967)","","","",
+gcc-121899,A,Compositae,,Kalimeris,,"pseudoyomena",,"","Kitam.",Synonym,,M,TICA,490CCF84-02C1-4038-8051-CACB013C3470,,"Kiku: 38 (1940)","","38","1940",gcc-55300
+gcc-99972,A,Compositae,,Kalimeris,,"rosea",,"","DC.",Unresolved,,L,TICA,487088BE-C52D-40F7-A527-998E8DFCE7E6,187983-1,"Prodr. (DC.) 5: 259","","259","1836",
+gcc-142129,A,Compositae,,Kalimeris,,"savatieri",,"","(Makino) Grossh.",Synonym,,M,TICA,829B1A97-FC89-4AC3-9185-F8F921993FC5,,"Grossh.. 1949.","","441","1949",gcc-32353
+gcc-88679,A,Compositae,,Kalimeris,,"shimadai",,"","(Kitam.) Kitam.",Accepted,,M,TICA,93D930D4-7B5B-4AA0-A83C-7FF9958D74C9,227179-1,"""Acta Phytotax. Geobot. 1937, vi. 50, in clavi, japonice.""","","50","1937",
+gcc-141299,A,Compositae,,Kalimeris,,"smithianus",,"","(Hand.-Mazz.) S.Y.Hu",Accepted,,M,TICA,75C52440-A23D-4B9F-B1F3-F7111D7384DA,,"Quart. J. Taiwan Mus. xx. 13 (1967)","","","1967",
+gcc-12454,A,Compositae,,Kalimeris,,"tatarica",,"","Lindl. ex DC.",Accepted,,M,TICA,5AD141F3-DE9E-46C0-A2F6-173987B4516C,187984-1,"","","259","1836",
+gcc-91370,A,Compositae,,Kalimeris,,"yomena",,"","(Kitam.) Kitam.",Synonym,,L,TICA,50B7B870-2317-478E-8B5B-863F93EAFD18,,"","","","1940",gcc-94814
+gcc-153290,A,Compositae,,Kalimeris,,"yomena",f.,"yomena","",Synonym,,L,TICA,86D01764-9C5B-421D-8F96-AB356241EE35,,"","","","",gcc-94814
+gcc-60008,A,Compositae,,Kalimeris,,"yomena",subsp.,"yomena","",Synonym,,L,TICA,9CEFB112-4EBD-451C-88ED-9AFBB1F9EF41,,"","","","",gcc-94814

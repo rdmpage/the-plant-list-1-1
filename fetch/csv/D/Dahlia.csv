@@ -1,0 +1,131 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144517,A,Compositae,,Dahlia,,"acutiflora",,"","Moc. & Sessé ex DC.",Synonym,Invalid,L,TICA,E497F3D0-B8BB-4BEF-878A-FE49747C656D,200931-1,"","","494","1836",gcc-7025
+gcc-112598,A,Compositae,,Dahlia,,"apiculata",,"","(Sherff) P.D.Sørensen",Accepted,,M,TICA,7346F8BC-7C08-49AC-BE15-B5CA06AD98F3,75814-2,"Rhodora 71","","356","1969",
+gcc-111945,A,Compositae,,Dahlia,,"arborea",,"","Regel",Unresolved,,L,TICA,23B0D40C-087A-49DD-BA9B-B44A884CF1C9,200933-1,"""Cat. Pl. Hort. Aksakov. 46, nomen.""","","""46, nomen.""","",
+gcc-126911,A,Compositae,,Dahlia,,"arborea",,"","Huber",Synonym,,M,TICA,B3AC7C2C-2E85-42D2-B864-D6646CF55ADE,928121-1,"","","1","1870",gcc-28149
+gcc-121707,A,Compositae,,Dahlia,,"astrantiaeflora",,"","(Sweet) G.Don",Synonym,,M,TICA,7DF49E64-0F10-4C3F-80CB-CA5FF9DDCCCD,200934-1,"","","353","1839",gcc-21066
+gcc-81030,A,Compositae,,Dahlia,,"atropurpurea",,"","P.D.Sørensen",Accepted,,M,TICA,81D3BE99-3236-4B05-A44A-6EEA6A71001B,75815-2,"Rhodora 71","","375","1969",
+gcc-143750,A,Compositae,,Dahlia,,"australis",,"","(Sherff) P.D.Sørensen",Accepted,,M,TICA,05576F61-B207-4948-A603-FC972EA9B164,200936-1,"Rhodora 71","","""378, 565""","1969",
+gcc-47210,A,Compositae,,Dahlia,,"australis",var.,"australis","",Synonym,,L,TICA,1B7CE4CE-3E63-45B6-9731-57738AA7D00A,,"","","","1969",gcc-143750
+gcc-55923,A,Compositae,,Dahlia,,"australis",var.,"liebmannii","(Sherff) P.D.Sørensen",Accepted,,L,TICA,B7FBE31F-E51F-45A7-B754-7A2F61E7847F,75818-2,"Rhodora 71","","383","1969",
+gcc-2498,A,Compositae,,Dahlia,,"australis",var.,"serratior","(Sherff) P.D.Sørensen",Accepted,,L,TICA,77A87973-C335-4510-A77C-048B85642F54,75819-2,"Rhodora 71","","386","1969",
+gcc-80723,A,Compositae,,Dahlia,,"barkerae",,"","Knowles & Westc.",Synonym,,M,TICA,EDD22999-0A7F-463E-865C-6E302CD6EF76,,"","","28","1838",gcc-2498
+gcc-43888,A,Compositae,,Dahlia,,"bidentifolia",,"","Salisb.",Synonym,,L,TICA,008806B9-8A79-43FD-ABAE-514E4BF601A9,200938-1,"","","t. 19","1805",gcc-7025
+gcc-121253,A,Compositae,,Dahlia,,"brevis",,"","P.D.Sørensen",Accepted,,M,TICA,8D1C32F4-B2A5-4D6E-9605-C9664636046D,295159-2,"Rhodora 71","","368","1969",
+gcc-22103,A,Compositae,,Dahlia,,"campanula",,"","""Saar, Sorenson & Hjert.""",Unresolved,,L,TICA,C05D9C42-0356-4659-9082-28E1DA050920,,"Acta Bot. Mex. 64: 20 (-22; fig. 1). 2003 [29 Sep 2003]","","","",
+gcc-36174,A,Compositae,,Dahlia,,"campanulata",,"","""Saar, P.D.Sørensen & Hjert.""",Accepted,,M,TICA,AA60A2F2-0435-4DE5-9810-43142C5CB9CF,,"Acta Bot. Mex. 64","","20","2003",
+gcc-14003,A,Compositae,,Dahlia,,"cardiophylla",,"","S.F.Blake & Sherff",Accepted,,M,TICA,04A279C9-6885-4EAD-BEE0-19FF512FB581,295158-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 11""","","453","1936",
+gcc-126578,A,Compositae,,Dahlia,,"cervantesii",,"","(Sweet) Lag.",Unresolved,,L,TICA,561BC620-38EC-4A93-9FE5-D5A723E2D8DB,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","494","1836",gcc-7025
+gcc-78492,A,Compositae,,Dahlia,,"cervantesii",,"","(Lag. ex Sweet) Lag. ex DC.",Synonym,,L,TICA,C8AB279C-69BF-40E4-8C53-694C2068EB38,200941-1,"Prodr. 5","","494","1836",gcc-7025
+gcc-40474,A,Compositae,,Dahlia,,"chisholmi",,"","Rose",Synonym,,L,TICA,3F02BC58-3750-48AE-AF19-4B011217AF64,75820-2,"Proc. U. S. Natl. Mus. 29","","439","1905",gcc-7025
+gcc-7025,A,Compositae,,Dahlia,,"coccinea",,"","Cav.",Accepted,,L,TICA,B0C5AD53-C457-4F35-81F6-0D1113B66201,,"","","","",
+gcc-49396,A,Compositae,,Dahlia,,"coccinea",var.,"coccinea","",Synonym,,L,TICA,82F8C85C-9DEE-47D5-9672-5B846D8B191B,,"Amer. J. Bot. 33: 509. 1946","","509","1946",gcc-7025
+gcc-68737,A,Compositae,,Dahlia,,"coccinea",var.,"gentryii","(Sherff) Sherff",Synonym,,L,TICA,C39F87F7-3635-466D-85E7-E1147D9C1016,75823-2,"Amer. J. Bot. 34","","152","1947",gcc-7025
+gcc-38999,A,Compositae,,Dahlia,,"coccinea",var.,"palmeri","Sherff",Synonym,,L,TICA,7FD02872-017B-4B64-B253-485C53581C69,75824-2,"Amer. J. Bot. 33","","508","1946",gcc-7025
+gcc-41572,A,Compositae,,Dahlia,,"coccinea",var.,"steyermarkii","Sherff",Synonym,,L,TICA,A72E9722-2671-4F33-A097-4CFC28009BFD,,"Amer. J. Bot. 31","","","1944",gcc-7025
+gcc-134942,A,Compositae,,Dahlia,,"congestifolia",,"","P.D.Sørensen",Accepted,,M,TICA,1FEEDEF7-23E0-4856-938B-E8DCD3F9EFAF,275638-2,"Rhodora 89","","198","1987",
+gcc-26325,A,Compositae,,Dahlia,,"cordifolia",,"","(Sessé & Moc.) McVaugh",Accepted,,M,TICA,449D8A76-C1DD-4B85-BCA1-30A4D3DBB7FF,1194432-2,"","","148","2000",
+gcc-91432,A,Compositae,,Dahlia,,"coronata",,"","Hort. ex Sprague",Synonym,,L,TICA,665C3749-20E1-4E2A-8A43-8663E0A6985C,200944-1,"","","53","1929",gcc-7025
+gcc-91616,A,Compositae,,Dahlia,,"cosmiflora",,"","Jacques",Synonym,,M,TICA,3C4E95F2-297B-4C38-93CA-86C231284318,,"Ann. Fl. Pomone 1840: 345 (1840)","","345","1840",gcc-139100
+kew-2755314,A,Compositae,,Dahlia,,"crinita",,"","Thunb.",Unresolved,,L,WCSP (in review),,430592-1,"Skr. Naturhist.-Selsk.","2: 133","","1792",
+gcc-15877,A,Compositae,,Dahlia,,"crocata",,"","Sessé ex Lag.",Synonym,,L,TICA,0054CCC7-3D73-4474-B2B0-1D61D0B297AF,200945-1,"","","30","1816",gcc-7025
+gcc-140075,A,Compositae,,Dahlia,,"crocea",,"","(Willd.) Poir.",Synonym,,L,TICA,C67C2E22-048D-4588-B6D2-F428265C6869,,"","","445","1788",gcc-7025
+gcc-71035,A,Compositae,,Dahlia,,"crocea",var.,"coccinea","Poir.",Synonym,,L,TICA,EA718C48-1D40-403F-9289-F2E8F66EDACE,75826-2,"","","445","1812",gcc-7025
+gcc-42198,A,Compositae,,Dahlia,,"crocea",var.,"crocea","",Synonym,,L,TICA,D9225258-D533-4C23-8155-4E2FFE8DEE1A,75827-2,"Encycl. (Lamarck) Suppl. 2. 445","","445","1812",gcc-7025
+gcc-55462,A,Compositae,,Dahlia,,"crocea",var.,"flava","(Willd.) Poir.",Synonym,,L,TICA,55A23235-ABA9-4884-859D-762B4BD5DB05,75828-2,"","","445","1812",gcc-7025
+gcc-83396,A,Compositae,,Dahlia,,"cultorum",,"","Thorsrud & Reisaeter",Unresolved,,L,TICA,B4395D54-4BA2-450F-8A4A-7432168C0B60,200947-1,"Norske Pl. 37 (1948).","","37","1948",
+gcc-11783,A,Compositae,,Dahlia,,"cuspidata",,"","""Saar, P.D.Sørensen & Hjert.""",Accepted,,M,TICA,EA0325DC-3E4D-4705-9B81-15F0FFA8EBF2,,"Acta Bot. Mex. 64","","22","2003",
+gcc-99374,A,Compositae,,Dahlia,,"decaisneana",,"","Verl.",Synonym,,M,TICA,9F07EB39-FA3E-406B-AA96-9839EEEEDAB2,200948-1,"","","31","1864",gcc-139100
+gcc-114056,A,Compositae,,Dahlia,,"dissecta",,"","S.Watson",Accepted,,M,TICA,C8B9A8A7-DA39-438E-8D52-B8F8CB4391F6,75829-2,"Proc. Amer. Acad. Arts 26","","141","1891",
+gcc-54491,A,Compositae,,Dahlia,,"dissecta",var.,"dissecta","",Synonym,,L,TICA,C4B21596-37A8-4D30-BB6E-6E984155BB86,,"","","","1891",gcc-114056
+gcc-50946,A,Compositae,,Dahlia,,"dissecta",var.,"sublignosa","P.D.Sørensen",Accepted,,L,TICA,6F60D976-425B-4C6C-ADA2-5E811A00A634,75830-2,"Rhodora 71: 351","","351","1969",
+gcc-133542,A,Compositae,,Dahlia,,"dumicola",,"","Klatt",Accepted,,M,TICA,644C919A-B836-472B-8E6C-E5B99D237111,75831-2,"","","6","1895",
+gcc-48679,A,Compositae,,Dahlia,,"dumicola",,"","Klatt ex T.Durand & Pittier",Synonym,,M,TICA,6792E03E-08BB-4B02-B96B-5A309D1E4208,,"","","","1896",gcc-28149
+gcc-28149,A,Compositae,,Dahlia,,"excelsa",,"","Benth.",Accepted,,M,TICA,8FD95A93-295B-47C2-ABB7-340186E93569,,"","","t. 88","1827-1828",
+gcc-132566,A,Compositae,,Dahlia,,"foeniculifolia",,"","Sherff",Accepted,,M,TICA,6E16B568-13FB-456A-8BDA-E38D9168AA6B,75833-2,"Amer. J. Bot. 38","","71","1951",
+gcc-82729,A,Compositae,,Dahlia,,"frustranea",,"","Ait.",Unresolved,,L,TICA,50A3D358-3185-41EB-B535-72B3090B457F,200953-1,"","","88","1813",gcc-7025
+gcc-83290,A,Compositae,,Dahlia,,"gentryi",,"","Sherff",Synonym,,L,TICA,3811D49B-0B45-4593-A46E-73F29898B94F,75834-2,"Amer. J. Bot. 29","","332","1942",gcc-7025
+gcc-43947,A,Compositae,,Dahlia,,"glabrata",,"","Lindl.",Synonym,,M,TICA,5FCF6E24-5116-4BCA-81B7-516C3BFDDAE1,200955-1,"","","t. 29","1840",gcc-139100
+gcc-117769,A,Compositae,,Dahlia,,"gracilis",,"","Ortgies",Synonym,,L,TICA,A2460932-8B4D-4B6E-8AF6-C169086EFB9F,,"Gartenflora","","","1876",gcc-7025
+gcc-103899,A,Compositae,,Dahlia,,"hintonii",,"","Sherff",Accepted,,M,TICA,46B11C00-9EBB-4217-A54D-A24931476542,75836-2,"Amer. J. Bot. 34","","147","1947",
+gcc-132487,A,Compositae,,Dahlia,,"hjertingii",,"","H.V.Hansen & P.D.Sørensen",Accepted,,M,TICA,27F51CD1-CFF3-4856-A89A-E35F4EB80802,,"","","102","2003",
+gcc-20108,A,Compositae,,Dahlia,×,"hortensis",,"","Guillaumin",Accepted,,M,TICA,1AA336C3-A6F0-4592-B573-252C38580788,200958-1,"","","37","1934",
+gcc-36687,A,Compositae,,Dahlia,,"imperialis",,"","Roezl ex Ortgies",Accepted,,M,TICA,B7B94004-9645-4903-B16C-44037918340B,,"Gartenflora 12","","243","1863",
+gcc-118755,A,Compositae,,Dahlia,,"jaurezii",,"","Van der Berg",Synonym,,L,TICA,479C63EE-5A61-4F65-9F52-C3ABAA10E145,,"""Gard. Chron., II, 12(2): 433 (1879)""","","433","1879",gcc-7025
+gcc-84352,A,Compositae,,Dahlia,,"jaurezii",,"","Hort. ex Sasaki",Unresolved,,L,TICA,93479B80-70F2-45C2-8E3B-7663FA2FB827,,"""List Pl. Formos. 408 (1928), nomen.""","","""408 , nomen.""","1928",
+gcc-47424,A,Compositae,,Dahlia,,"lehmannii",,"","Hieron.",Accepted,,M,TICA,E40D2857-87D2-4100-8663-57D7C15D20A9,75837-2,"Bot. Jahrb. Syst. 19","","55","1894",
+gcc-148003,A,Compositae,,Dahlia,,"lehmannii",var.,"lehmannii","",Synonym,,L,TICA,33733356-4CCB-4069-81A0-39B5D5BA3F0A,,"","","","",gcc-47424
+gcc-17618,A,Compositae,,Dahlia,,"linearis",,"","Sherff",Accepted,,M,TICA,8FC02ED6-D460-4796-B762-20864F62D7A6,75839-2,"Bot. Gaz. 89","","364","1930",
+gcc-19286,A,Compositae,,Dahlia,,"lutea",,"","Van der Berg",Synonym,,L,TICA,9516540D-4138-4265-9C80-23A6E697231E,,"""Gard. Chron., II, 12(2): 521 (1879)""","","521","1879",gcc-7025
+gcc-91022,A,Compositae,,Dahlia,,"lutea",,"","Hort.",Unresolved,,L,TICA,543DE737-B216-4835-BD3F-855EE3B0D802,200963-1,"cf. Gard. Chron. (1879) II. 521 f. 83.",""," II. 521 f. 83","1879",
+gcc-37912,A,Compositae,,Dahlia,,"macdougallii",,"","Sherff",Accepted,,M,TICA,D76EF5AA-48D8-45C2-90AF-4651A7DB13B2,75840-2,"","","5","1950",
+gcc-122374,A,Compositae,,Dahlia,,"maximiliana",,"","Hort. ex Hook.f.",Accepted,,M,TICA,9FFDE900-1A5D-4BD0-9659-CBDB43C727C0,,"Bot. Mag. t. 7655. 1899.","","t. 7655","1899",
+gcc-47582,A,Compositae,,Dahlia,,"maximiliana",,"","Van der Berg",Synonym,,M,TICA,D033CF59-A502-4F28-B987-582983FD4634,,"""Gard. Chron., II, 12(2): 216 (1879)""","","216","1879",gcc-28149
+gcc-89528,A,Compositae,,Dahlia,,"maximiliana",,"","Hort.",Unresolved,,L,TICA,6EB6637A-E453-4440-A458-81E7462B0734,200965-1,"Cf. Gard. Chron. (1879) II. 216; et ex Hemsl. Biol. Centr. Am. Bot. ii. 197.",""," II. 216","1879",
+gcc-93642,A,Compositae,,Dahlia,,"maximiliana",,"","Hort. ex Hemsl.",Unresolved,Illegitimate,L,TICA,87F53C46-D315-46C8-BDA0-8B22A700FA49,,"Biologia Centrali-Americana; . . . Botany . . . 2(9):","","197","1881",
+gcc-125027,A,Compositae,,Dahlia,,"maxonii",,"","Saff.",Accepted,,M,TICA,676469FD-9125-43AF-93DB-D2234F259F8D,75841-2,"J. Wash. Acad. Sci. 9","","371","1919",
+gcc-139100,A,Compositae,,Dahlia,,"merckii",,"","Lehm.",Accepted,,M,TICA,02B65408-B554-4E4C-8278-F1FAE26EA1CE,200967-1,"","","130","1839",
+gcc-117748,A,Compositae,,Dahlia,,"mexicana",,"","Hort.",Unresolved,,L,TICA,AB549DD8-4D95-402A-8793-C15F8CD1C40B,200968-1,"""Vilm. Blumengärtn., ed. 3. 1: 489, in syn.""","","489","1894",
+gcc-145080,A,Compositae,,Dahlia,,"minor",,"","Vis.",Synonym,,M,TICA,A0C6D4C9-DB29-42D1-B25E-FF9DE3E4D838,200969-1,"","","263","1840",gcc-139100
+gcc-36663,A,Compositae,,Dahlia,,"mollis",,"","P.D.Sørensen",Accepted,,M,TICA,47CC79E4-1588-4891-ABBE-43F99F4F907B,75843-2,"Rhodora 71","","373","1969",
+gcc-124266,A,Compositae,,Dahlia,,"moorei",,"","Sherff",Accepted,,M,TICA,1D6AD8D0-707A-4655-8BA5-D0477A987417,75844-2,"","","22","1951",
+gcc-46407,A,Compositae,,Dahlia,,"nana",,"","Andrews",Synonym,,M,TICA,4A22DF53-F87F-495D-8B8E-5604688C496F,,"","","","1807",gcc-21066
+gcc-96091,A,Compositae,,Dahlia,,"neglecta",,"","Saar",Accepted,,M,TICA,C05E040B-AF99-4F3E-821E-90CAE6C5E32F,20010113-1,"Sida 20(2)","","593","2002",
+gcc-140862,A,Compositae,,Dahlia,,"parvibracteata",,"","Saar & P.D.Sørensen",Accepted,,M,TICA,BE9B7912-F85C-4F3E-BE62-F605A643B2FF,1018384-1,"Novon 10(4)","","407","2000",
+gcc-21066,A,Compositae,,Dahlia,,"pinnata",,"","Cav.",Accepted,,M,TICA,F0F0B9F0-6428-4821-93F7-26EB950A9837,30027297-2,"","","""57, t. 80""","1791",
+gcc-9782,A,Compositae,,Dahlia,,"pinnata",var.,"cervantesii","(Lag. ex Sweet) Voss",Synonym,,L,TICA,1955DEFE-8286-4D0E-9F03-1246C33CA39C,75845-2,"","","489","1894",gcc-7025
+gcc-4118,A,Compositae,,Dahlia,,"pinnata",var.,"coccinea","(Cav.) Voss",Synonym,,L,TICA,1EAECAEA-4B95-4A8A-A633-07ABC3FFA8AE,75846-2,"","","489","1894",gcc-7025
+gcc-71679,A,Compositae,,Dahlia,,"pinnata",var.,"gracilis","(Ortgies) Voss",Synonym,,L,TICA,0B9AC599-4470-4D01-BADD-F7FFA3B9166E,75847-2,"","","489","1894",gcc-7025
+gcc-64013,A,Compositae,,Dahlia,,"pinnata",var.,"nana","B.D.Jacks.",Synonym,,L,TICA,F56F63DC-796B-4E63-B2FB-BB3F2D78E656,,"","","t. 483","1807",gcc-21066
+gcc-153933,A,Compositae,,Dahlia,,"pinnata",var.,"pinnata","",Synonym,,L,TICA,D572FA02-B432-404E-AF99-B86556B2CFBC,,"","","","",gcc-21066
+gcc-65285,A,Compositae,,Dahlia,,"pinnata",var.,"variabilis","(Willd.) Voss",Synonym,,L,TICA,353782F0-4E00-4BA6-B8F7-C59D3D83AB85,75848-2,"","","489","1894",gcc-21066
+gcc-119060,A,Compositae,,Dahlia,,"platylepis",,"","Neumann",Unresolved,,L,TICA,CBBDCF09-53EA-4518-A605-C463AF0AAA65,,"","","805","1846",
+gcc-106351,A,Compositae,,Dahlia,,"popenovii",,"","Saff.",Synonym,,L,TICA,CF76F102-A336-4FFA-9BC3-A794FE76528E,200975-1,"J. Wash. Acad. Sci. 9","","""369, f. 2""","1919",gcc-7025
+gcc-47021,A,Compositae,,Dahlia,,"pruinosa",,"","Hort.",Unresolved,,L,TICA,7DCFC018-5471-4273-936F-5721BE3D02AB,200976-1,"""ex Bull. Ort. Bot. Nopoli x. p. vi., nomen.""","","""x. p. vi., nomen.""","1930",
+gcc-24554,A,Compositae,,Dahlia,,"pteropoda",,"","Sherff",Accepted,,M,TICA,0F58C571-EBE4-447E-BB33-2D5860E29545,75850-2,"Amer. J. Bot. 34","","147","1947",
+gcc-143906,A,Compositae,,Dahlia,,"pubescens",,"","Brongn.",Unresolved,,L,TICA,FA77B64A-6FA9-4883-B7F2-FCE99010458E,200978-1,"","","805","1846",
+gcc-87858,A,Compositae,,Dahlia,,"pubescens",,"","S.Watson",Synonym,Illegitimate,M,TICA,978F959D-37BA-4DA9-9C92-7E2FD4B767CB,200979-1,"Proc. Amer. Acad. Arts 26: 142 (1891)","","142","1891",gcc-121253
+gcc-51347,A,Compositae,,Dahlia,,"purpurea",,"","(Willd.) Poir.",Synonym,,M,TICA,1574C52A-7DD5-44B8-ACAE-5F3CB9847297,200980-1,"","","444","",gcc-21066
+gcc-60721,A,Compositae,,Dahlia,,"purpurea",var.,"flavescens","(DC.) Poir.",Synonym,,L,TICA,82434470-C684-4EF5-83F6-A08F5B1A46A9,75852-2,"","","445","1812",gcc-21066
+gcc-23759,A,Compositae,,Dahlia,,"purpurea",var.,"lilacina","(Willd.) Poir.",Synonym,,L,TICA,585E699D-DC74-49AE-8663-2BE770A463FE,75853-2,"","","444","1812",gcc-21066
+gcc-68308,A,Compositae,,Dahlia,,"purpurea",var.,"pallida","(Willd.) Poir.",Synonym,,L,TICA,E77EBA0E-DE32-428E-A470-DDD2996777B8,75854-2,"","","444","1812",gcc-21066
+gcc-62393,A,Compositae,,Dahlia,,"purpurea",var.,"purpurea","",Synonym,,L,TICA,AE8DE97F-5A70-486C-A956-AE72E671AF71,75855-2,"Encycl. (Lamarck) Suppl. 2. 444","","444","1812",gcc-21066
+gcc-65128,A,Compositae,,Dahlia,,"purpurea",var.,"rubra","(DC.) Poir.",Synonym,,L,TICA,8E67ECF0-1FA6-46F6-9AF1-C41FE3F56137,75856-2,"","","444","1812",gcc-21066
+gcc-44215,A,Compositae,,Dahlia,,"purpusii",,"","Brandegee",Accepted,,M,TICA,B16CEB4A-97F3-4143-A7EB-51E03C6E6064,75857-2,"Univ. Calif. Publ. Bot. 6","","76","1914",
+gcc-35998,A,Compositae,,Dahlia,,"pusilla",,"","Zucc. ex DC.",Synonym,,M,TICA,5830493F-3804-497A-BD2A-42BC2926F06C,200982-1,"","","494","1836",gcc-21066
+gcc-144734,A,Compositae,,Dahlia,,"repens",,"","Hartw. ex Benth.",Accepted,,M,TICA,DCCB4259-4BD7-415F-B3C5-FEC9EE25C685,,"Pl. Hartw. 40. 1839.","","40","1839",
+gcc-125871,A,Compositae,,Dahlia,,"rosea",,"","Cav.",Synonym,,M,TICA,B7E22106-CAC5-42DE-82E0-D410ECDD0C5F,,"","","""33, pl. 265""","1794 [1795-1796]",gcc-21066
+gcc-112306,A,Compositae,,Dahlia,,"royleana",,"","Knowles & Westc.",Synonym,,M,TICA,B77602EB-0543-43CA-8BDB-B516F9ED24FA,,"","","","1840",gcc-21066
+gcc-128041,A,Compositae,,Dahlia,,"rudis",,"","P.D.Sørensen",Accepted,,M,TICA,A8105734-0F64-4FC3-9B8B-D913B7B13CBB,75858-2,"Rhodora 71","","369","1969",
+gcc-41704,A,Compositae,,Dahlia,,"rupicola",,"","P.D.Sørensen",Accepted,,M,TICA,7DE8D611-34DE-4883-BDDC-4D386A5A5FF1,,"Rhodora 71","","","1969",
+gcc-128021,A,Compositae,,Dahlia,,"sambucifolia",,"","Salisb.",Synonym,,M,TICA,7F8EE03F-8D5B-4D8C-AE77-D909818EEBAE,200987-1,"","","t. 16","1805",gcc-21066
+gcc-43451,A,Compositae,,Dahlia,,"scapigera",,"","(A.Dietr.) Knowles & Westc.",Accepted,,M,TICA,5799E8FA-07E7-44B6-AC21-508EB9B88899,,"","","","1840",
+gcc-8588,A,Compositae,,Dahlia,,"scapigera",var.,"arsenei","Sherff",Synonym,,L,TICA,A8EE3B8D-C64A-42BB-852B-100858DE70A3,75860-2,"Amer. J. Bot. 33","","508","1946",gcc-2498
+gcc-122075,A,Compositae,,Dahlia,,"scapigera",f.,"australis","Sherff",Synonym,,L,TICA,4962AA18-370E-44EE-9F48-CB347BA00B7E,292853-2,"Amer. J. Bot. 34","","143","1947",gcc-143750
+gcc-64871,A,Compositae,,Dahlia,,"scapigera",var.,"australis","Sherff",Synonym,,L,TICA,CE295564-E49C-4A8F-A4A2-C1D169E8EF04,75861-2,"Amer. J. Bot. 34","","143","1947",gcc-143750
+gcc-44545,A,Compositae,,Dahlia,,"scapigera",var.,"liebmannii","Sherff",Synonym,,L,TICA,09B4F914-F301-4464-B1C9-52892C71C636,75862-2,"Amer. J. Bot. 34","","143","1947",gcc-55923
+gcc-96023,A,Compositae,,Dahlia,,"scapigera",f.,"merckii","(Lehm.) Sherff",Synonym,,L,TICA,D5CE8311-5F3B-42A6-B41F-90A71EF94203,292850-2,"Amer. J. Bot. 34","","141","1947",gcc-139100
+gcc-72741,A,Compositae,,Dahlia,,"scapigera",f.,"purpurea","Sherff",Synonym,,L,TICA,78CAAFF0-404F-4053-8565-013DB689D8BF,292852-2,"Amer. J. Bot. 34","","145","1947",gcc-143750
+gcc-145388,A,Compositae,,Dahlia,,"scapigera",var.,"scapigera","",Synonym,,L,TICA,7ED5E371-947F-49EF-8C27-032F30537630,,"","","","",gcc-43451
+gcc-149720,A,Compositae,,Dahlia,,"scapigera",f.,"scapigera","",Synonym,,L,TICA,A93BF356-6B72-480C-B9D1-5EBF0ACBB293,,"","","","",gcc-43451
+gcc-103692,A,Compositae,,Dahlia,,"scapigera",f.,"serratior","Sherff",Synonym,,L,TICA,4D082FDC-28B6-466B-88E2-A1D50C97D35F,292851-2,"Amer. J. Bot. 34: 142. 1947","","142","1947",gcc-143750
+gcc-61015,A,Compositae,,Dahlia,,"scapigera",var.,"typica","Sherff",Synonym,,L,TICA,E17A5998-D27A-4D45-943F-A31EE66BCBFE,75863-2,"Amer. J. Bot. 34","","139","1947",gcc-43451
+gcc-73681,A,Compositae,,Dahlia,,"scapigera",f.,"typica","Sherff",Synonym,,L,TICA,20FF3CF7-16E0-4785-BE2D-2283C0D4A5D6,292848-2,"Amer. J. Bot. 34","","139","1947",gcc-43451
+gcc-135517,A,Compositae,,Dahlia,,"scapigeroides",,"","Sherff",Accepted,,M,TICA,B04DC47C-DBA1-4642-AE90-EA2DE698A067,75864-2,"Amer. J. Bot. 34","","145","1947",
+gcc-57054,A,Compositae,,Dahlia,,"scapigeroides",var.,"apiculata","Sherff",Synonym,,L,TICA,2FCDA051-221F-4737-A99B-833F80756E98,75865-2,"Amer. J. Bot. 34","","145","1947",gcc-112598
+gcc-149156,A,Compositae,,Dahlia,,"scapigeroides",var.,"scapigeroides","",Synonym,,L,TICA,6D592BDD-2217-426A-AAB9-52B4BC39D58D,,"","","","",gcc-135517
+gcc-61350,A,Compositae,,Dahlia,,"scapigeroides",var.,"typica","Sherff",Synonym,,L,TICA,1F326E8F-B726-4BD3-B1B0-A5D90023913B,75866-2,"Amer. J. Bot. 34","","145","1947",gcc-135517
+gcc-142798,A,Compositae,,Dahlia,,"sherffii",,"","P.D.Sørensen",Accepted,,M,TICA,971F7B6B-D5B3-440F-BE77-FA73FB09E21E,75867-2,"Rhodora 71","","387","1969",
+gcc-132132,A,Compositae,,Dahlia,,"sorensenii",,"","H.V.Hansen & Hjert.",Accepted,,M,TICA,9C212012-4B84-48CA-9D9B-E2833E2AB83B,993988-1,"","","454","1997",
+gcc-46124,A,Compositae,,Dahlia,,"spectabilis",,"","Saar & P.D.Sørensen",Accepted,,M,TICA,880F1AF1-A3DF-4933-80DC-557EF182DC2B,,"Brittonia 54(2)","","","2002",
+gcc-125186,A,Compositae,,Dahlia,,"sphondyliifolia",,"","Salisb.",Synonym,Illegitimate,M,TICA,3FFFB9AB-8C83-4D97-93C8-D27A2CC28F8D,,"","","","1812",gcc-21066
+gcc-95662,A,Compositae,,Dahlia,,"sublignosa",,"","(P.D.Sørensen) Saar & P.D.Sørensen",Unresolved,Illegitimate,L,TICA,C947660D-D1A2-43B1-9C13-8FE1E7F7D02C,,"","","","2005",gcc-50946
+gcc-135914,A,Compositae,,Dahlia,,"superflua",,"","(DC.) W.T.Aiton",Synonym,,M,TICA,506BB51C-882C-4E99-A1EB-EAFC3661C179,,"","","87","1813",gcc-21066
+gcc-117834,A,Compositae,,Dahlia,,"tenuicaulis",,"","P.D.Sørensen",Accepted,,M,TICA,464B7146-96AD-492B-841F-C18C046B3BC0,75868-2,"Rhodora 71","","335","1969",
+gcc-118679,A,Compositae,,Dahlia,,"tenuis",,"","Robinson & Greenm.",Accepted,,L,TICA,8BA587A2-A066-4DC3-824C-C37F6DF59056,,"Proc. Amer. Acad. Arts 32","","48","1896",
+gcc-141289,A,Compositae,,Dahlia,,"tubulata",,"","P.D.Sørensen",Accepted,,M,TICA,4C276D33-43B8-4EC3-BEC7-F70CE6473FCD,75870-2,"Rhodora 82","","353","1980",
+gcc-17167,A,Compositae,,Dahlia,,"variabilis",,"","(Willd.) Desf.",Synonym,,M,TICA,F4EFFAAD-6D86-4DB9-A94D-1FBB8E848ECA,200996-1,"Cat. Pl. Horti Paris.","","182","1829",gcc-21066
+gcc-44436,A,Compositae,,Dahlia,,"variabilis",,"","Hort.",Unresolved,,L,TICA,D92267C8-D1C9-48DF-B0EA-5254B1DDB3A4,,"","","","",
+gcc-113746,A,Compositae,,Dahlia,,"yuarezii",,"","Hort.",Unresolved,,L,TICA,50C0D107-2D30-4133-B536-B85016F16611,200997-1,"ex Gard. Chron. (1879) II. 432.",""," II. 432.","1879",
+gcc-14211,A,Compositae,,Dahlia,,"yuarezii",,"","Van der Berg",Unresolved,,L,TICA,4B73B5DA-0E5C-46C7-9F01-1A5BC24430E5,,"""Gard. Chron., II, 12(2): 432 (1979)""","","432","1979",
+gcc-26959,A,Compositae,,Dahlia,,"zimapani",,"","Roezl ex Ortgies",Synonym,,M,TICA,F48E819E-1141-439B-BF0B-31D8060A8A81,200998-1,"","","406","1861",gcc-41766

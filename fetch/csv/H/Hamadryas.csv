@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50066864,A,Ranunculaceae,,Hamadryas,,"andicola",,"","Hook.",Synonym,,M,TRO,50066864,711260-1,"Icon. Pl.","2: t. 137","t. 137","1837",kew-2396489
+kew-2838935,A,Ranunculaceae,,Hamadryas,,"argentea",,"","Hook.f.",Accepted,,M,WCSP (in review),,711261-1,"Fl. Antarct.","227","","1845",
+kew-2838936,A,Ranunculaceae,,Hamadryas,,"delfinii",,"","Phil. ex Reiche",Accepted,,M,WCSP (in review),,711262-1,"Fl. Chile","1: 23","","1894",
+kew-2838937,A,Ranunculaceae,,Hamadryas,,"kingii",,"","Hook.f.",Accepted,,M,WCSP (in review),,711264-1,"Fl. Antarct.","228","","1845",
+kew-2838938,A,Ranunculaceae,,Hamadryas,,"magellanica",,"","Lam.",Accepted,,M,WCSP (in review),,711265-1,"Encycl.","3: 67","","1789",
+tro-100363100,A,Ranunculaceae,,Hamadryas,,"magellanica",f.,"magellanica","",Synonym,,L,TRO,100363100,,"","","","",kew-2838938
+kew-2838939,A,Ranunculaceae,,Hamadryas,,"magellanica",f.,"paniculata","(Hook.f.) Lourteig",Accepted,,L,WCSP (in review),,117147-2,"Darwiniana","9: 437","","1951",
+kew-2838940,A,Ranunculaceae,,Hamadryas,,"magellanica",var.,"tomentosa","(DC.) Hook.f.",Synonym,,L,WCSP (in review),,117149-2,"Fl. Antarct.","227","","1845",kew-2838938
+kew-2838942,A,Ranunculaceae,,Hamadryas,,"paniculata",,"","Hook.f.",Synonym,,M,WCSP (in review),,711266-1,"Fl. Antarct.","548","","1847",kew-2838939
+kew-2838943,A,Ranunculaceae,,Hamadryas,,"sempervivoides",,"","Sprague",Accepted,,M,WCSP (in review),,117151-2,"Hooker's Icon. Pl.","28: t. 2748","","1902",
+kew-2838944,A,Ranunculaceae,,Hamadryas,,"tomentosa",,"","DC.",Synonym,,M,WCSP (in review),,711269-1,"Syst. Nat.","1: 227","","1817",kew-2838938
+kew-2838945,A,Ranunculaceae,,Hamadryas,,"tomentosa",,"","Hook.f.",Synonym,Illegitimate,M,WCSP (in review),,711268-1,"Fl. Antarct.","t. 85","","1845",kew-2838935

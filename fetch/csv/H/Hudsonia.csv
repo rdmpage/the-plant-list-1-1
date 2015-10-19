@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2854563,A,Combretaceae,,Hudsonia,,"arborea",,"","Lunan",Unresolved,,L,WCSP (in review),,170646-1,"Hort. Jamaic.","2: 310","","1814",kew-2684882
+kew-2854564,A,Cistaceae,,Hudsonia,,"australis",,"","Spreng.",Unresolved,,L,WCSP (in review),,169268-1,"Syst. Veg.","2: 452","","1825",
+tro-7600049,A,Cistaceae,,Hudsonia,,"ericoides",,"","L.",Accepted,,M,TRO,7600049,,"Syst. Nat. (ed. 12)","2: 327","327","1767",
+tro-7600101,A,Cistaceae,,Hudsonia,,"ericoides",f.,"ericoides","",Synonym,,L,TRO,7600101,,"","","","",tro-7600049
+tro-50181799,A,Cistaceae,,Hudsonia,,"ericoides",subsp.,"tomentosa","(Nutt.) N.H. Nick. & J.E. Skog",Synonym,,L,TRO,50181799,124380-2,"Ann. Missouri Bot. Gard.","59(3): 456","456","1972",kew-2854576
+kew-2854572,A,Cistaceae,,Hudsonia,×,"intermedia",,"","(Peck) Erskine",Unresolved,,L,WCSP (in review),,169271-1,"Pl. Prince Edward Isl.","196","","1960",
+tro-50141704,A,Cistaceae,,Hudsonia,,"intermedia",,"","Erskine",Accepted,,M,TRO,50141704,287566-2,"Pl. Prince Edward Island","196","196","1961",
+kew-2854573,A,Cistaceae,,Hudsonia,,"maritima",,"","Torr. ex Steud.",Unresolved,,L,WCSP (in review),,169272-1,"Nomencl. Bot.","ed. 2, 1: 778","","1840",kew-2854576
+tro-7600069,A,Cistaceae,,Hudsonia,,"montana",,"","Nutt.",Accepted,,M,TRO,7600069,124381-2,"Gen. N. Amer. Pl.","2: 5","5","1818",
+kew-2854575,A,Cistaceae,,Hudsonia,,"nuttallii",,"","Sweet",Unresolved,,L,WCSP (in review),,169274-1,"Cistineae","t. 19","","1826",
+tro-50141703,A,Cistaceae,,Hudsonia,×,"spectabilis",,"","Morse",Accepted,,M,TRO,50141703,,"","","","",
+kew-2854576,A,Cistaceae,,Hudsonia,,"tomentosa",,"","Nutt.",Accepted,,M,WCSP (in review),,124382-2,"Gen. N. Amer. Pl.","2: 5","","1818",
+tro-7600099,A,Cistaceae,,Hudsonia,,"tomentosa",var.,"tomentosa","",Synonym,,L,TRO,7600099,,"","","","",kew-2854576

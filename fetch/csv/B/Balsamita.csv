@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129987,A,Compositae,,Balsamita,,"ageratifolia",,"","Desf.",Synonym,,M,TICA,7307E86C-05A1-49D3-9904-DD8AA02A45E1,,"Actes Soc. Hist. Nat. Paris 1","","","1792",gcc-137050
+gcc-88388,A,Compositae,,Balsamita,,"annua",,"","DC.",Synonym,,M,TICA,8B5E55FF-94F3-4D1A-BD22-7F5128F6ACD9,,"","","","1805",gcc-103268
+gcc-112594,A,Compositae,,Balsamita,,"audibertii",,"","Req.",Synonym,,M,TICA,AB3C4217-F50D-4F01-9790-B5C6555B0DDA,184039-1,"Ann. Sci. Nat. (Paris) 5","","382","1825",gcc-137009
+gcc-86426,A,Compositae,,Balsamita,,"balsamita",,"","(L.) Rydb.",Synonym,Illegitimate,M,TICA,86DB0E6A-2A9B-43CB-A0A6-7AE52E1CCCB4,28814-2,"N. Amer. Fl. 34","","238","1916",gcc-112746
+gcc-28141,A,Compositae,,Balsamita,,"balsamitoides",,"","(Sch.Bip.) Tzvelev",Synonym,,M,TICA,BE32E460-7FE3-45CD-BA95-33FE6B34DC1B,983366-1,"","","142","1994",gcc-28262
+gcc-144919,A,Compositae,,Balsamita,,"corymbosa",,"","Salzm.",Synonym,,M,TICA,860EDF91-9C31-434B-B757-FF416AD450B2,,"","","","1821",gcc-137050
+gcc-5898,A,Compositae,,Balsamita,,"dentata",,"","Wall.",Unresolved,,L,TICA,2D7247CD-B286-4CD1-A1E4-0AFA17AC755D,,"Numer. List [Wallich] n. 326","","326","",
+gcc-131891,A,Compositae,,Balsamita,,"flabelliformis",,"","Pers.",Synonym,,M,TICA,401B2808-801E-4A7F-A442-E1FDCD9CE112,184043-1,"","","408","1807",gcc-31115
+gcc-36604,A,Compositae,,Balsamita,,"grandiflora",,"","Desf.",Synonym,,M,TICA,07BEE414-44F7-4069-BCA1-43DE9BE49961,184044-1,"Actes Soc. Hist. Nat. Paris 1","","1","1792",gcc-19206
+gcc-26898,A,Compositae,,Balsamita,,"major",,"","Desf.",Synonym,,M,TICA,967B2607-2DDB-485F-BA3E-31BC5946594D,,"Actes Soc. Hist. Nat. Paris 1","","3","1792",gcc-112746
+gcc-44854,A,Compositae,,Balsamita,,"major",subsp.,"balsamitoides","(Sch.Bip.) Kerguélen",Synonym,,L,TICA,4446D50F-2F55-4243-895A-5317E4352221,953359-1,"","","57","1987",gcc-28262
+gcc-145473,A,Compositae,,Balsamita,,"major",var.,"major","",Synonym,,L,TICA,B5163272-86FB-4DD2-9BA8-04B1578BFF8C,,"","","","",gcc-112746
+gcc-151475,A,Compositae,,Balsamita,,"major",subsp.,"major","",Synonym,,L,TICA,E6CA1234-5AAC-48E5-9768-853C33EC705D,,"","","","",gcc-112746
+gcc-55919,A,Compositae,,Balsamita,,"major",var.,"tanacetoides","(Boiss.) Moldenke",Synonym,,L,TICA,90FA1D68-7C84-4DA9-842C-7A2172E78824,28815-2,"Phytologia 1","","274","1938",gcc-112746
+gcc-33108,A,Compositae,,Balsamita,,"multifida",,"","Clemente",Synonym,,M,TICA,E61E33BB-E7D2-4ED3-825E-3D65CDBCC09C,184046-1,"","","292","1807",gcc-103268
+gcc-125150,A,Compositae,,Balsamita,,"suaveolens",,"","Pers.",Synonym,,M,TICA,205FA02F-4218-40FF-88F7-D25F9FC4B9C6,184047-1,"","","408","1807",gcc-112746
+gcc-27771,A,Compositae,,Balsamita,,"tridentata",,"","Delile",Synonym,,M,TICA,2722A9FC-EACD-44DE-B1D2-3354882E7761,184048-1,"","","273","1813",gcc-28210
+gcc-92391,A,Compositae,,Balsamita,,"virgata",,"","Desf.",Synonym,,M,TICA,C4F67B43-B3F2-4388-BF74-887B28917DE3,184049-1,"Actes Soc. Hist. Nat. Paris 1","","2","1792",gcc-19206
+gcc-144836,A,Compositae,,Balsamita,,"vulgaris",,"","Willd.",Synonym,,M,TICA,32BF74CE-3380-49EC-BB33-FF05B3581F4D,184050-1,"","","1802","1803",gcc-112746

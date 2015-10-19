@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-122093,A,Compositae,,Herrickia,,"glauca",,"","(Nutt.) Brouillet",Accepted,,M,TICA,283D7E93-9956-4141-B6F6-CB3D9B071E7D,60437829-2,"Sida 21(2): 897. 2004 [28 Dec 2004]","","897","2004",
+gcc-62528,A,Compositae,,Herrickia,,"glauca",var.,"glauca","",Synonym,,L,TICA,B93BFDEA-7A69-4E08-8367-AF9622CDE5B4,,"","","","2004",gcc-122093
+gcc-62102,A,Compositae,,Herrickia,,"glauca",var.,"pulchra","(S.F.Blake) Brouillet",Accepted,,L,TICA,901A2F06-5BC8-4715-8359-ABFB8C9C4E41,60437830-2,"Sida 21(2): 897. 2004 [28 Dec 2004]","","897","2004",
+gcc-130694,A,Compositae,,Herrickia,,"horrida",,"","Wooton & Standl.",Accepted,,M,TICA,7160BCBB-757A-4780-917C-DF28B6C44DAB,,"","","","1913",
+gcc-110633,A,Compositae,,Herrickia,,"kingii",,"","(D.C.Eaton) ""Brouillet, Urbatsch & R.P.Roberts""",Accepted,,M,TICA,03DD7076-B4EB-49C0-BA73-B1541B2140F3,60437832-2,"Sida 21(2): 898. 2004 [28 Dec 2004]","","898","2004",
+gcc-71418,A,Compositae,,Herrickia,,"kingii",var.,"barnebyana","(S.L.Welsh & Goodrich) Brouillet",Unresolved,,L,TICA,461EFAE8-FB3D-45FC-AF1E-F61CBB8DBE0E,60437833-2,"Sida 21(2): 898. 2004 [28 Dec 2004]","","898","2004",
+gcc-38030,A,Compositae,,Herrickia,,"kingii",var.,"kingii","",Synonym,,L,TICA,6F2B99A5-497E-4001-A121-4687F053388D,,"","","","2004",gcc-110633
+gcc-126894,A,Compositae,,Herrickia,,"wasatchensis",,"","(M.E.Jones) Brouillet",Accepted,,M,TICA,3962407A-1EA6-457F-B5DE-D65A02FB14AB,60437831-2,"Sida 21(2): 897. 2004 [28 Dec 2004]","","897","2004",

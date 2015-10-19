@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-61491,A,Arecaceae,,Dictyosperma,,"album",,"","(Bory) Scheff.",Accepted,,H,WCSP,61491,666678-1,"Ann. Jard. Bot. Buitenzorg","1: 157","","1876",
+kew-61492,A,Arecaceae,,Dictyosperma,,"album",var.,"album","",Synonym,,L,WCSP,61492,,"Unknown","","","",kew-61491
+kew-61493,A,Arecaceae,,Dictyosperma,,"album",var.,"aureum","Balf.f.",Accepted,,L,WCSP,61493,,"Fl. Mauritius","384","","1877",
+kew-340320,A,Arecaceae,,Dictyosperma,,"album",var.,"furfuraceum","Becc.",Synonym,,L,WCSP,340320,,"Atti Soc. Tosc. Sci. Nat. Pisa, Mem.","44: 134","","1934",kew-61491
+kew-61495,A,Arecaceae,,Dictyosperma,,"album",var.,"rubrum","(H.Wendl. & Drude) L.H.Bailey",Synonym,,L,WCSP,61495,,"Hortus","215","","1930",kew-61491
+kew-61496,A,Arecaceae,,Dictyosperma,,"aureum",,"","(Balf.f.) G.Nicholson",Synonym,,H,WCSP,61496,,"Ill. Dict. Gard.","1: 470","","1884",kew-61493
+tro-50135915,A,Arecaceae,,Dictyosperma,,"aureum",,"","(hort.) H. Wendl. & Drude",Synonym,,M,TRO,50135915,666679-1,"Palmiers","243","243","1878",kew-61493
+kew-61497,A,Arecaceae,,Dictyosperma,,"fibrosum",,"","C.H.Wright",Synonym,,H,WCSP,61497,666680-1,"Bull. Misc. Inform. Kew","1894: 358","","1894",kew-65441
+kew-61498,A,Arecaceae,,Dictyosperma,,"furfuraceum",,"","H.Wendl. & Drude",Synonym,,H,WCSP,61498,666681-1,"Palmiers","243","","1878",kew-61491
+kew-2767048,A,Arecaceae,,Dictyosperma,,"olgae",,"","Regel",Unresolved,,L,WCSP (in review),,282111-1,"Putesh. Turkestan","3(3): 5","","1882",
+kew-61499,A,Arecaceae,,Dictyosperma,,"rubrum",,"","H.Wendl. & Drude",Synonym,,H,WCSP,61499,666682-1,"Palmiers","243","","1878",kew-61491

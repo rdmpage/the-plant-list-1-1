@@ -1,0 +1,160 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28040,A,Compositae,,Kleinia,,"abyssinica",,"","(A.Rich.) A.Berger",Accepted,,M,TICA,22C63DFD-2C98-4026-8874-33C366E39B78,227346-1,"""in Monatsschr. Kakteenk. 1905, 11""","","11","1905",
+gcc-36828,A,Compositae,,Kleinia,,"abyssinica",var.,"abyssinica","",Synonym,,L,TICA,340EC3E0-D76F-4B68-A7E4-4445718EFE4A,,"","","","",gcc-28040
+gcc-68354,A,Compositae,,Kleinia,,"abyssinica",var.,"hildebrandtii","(Vatke) C.Jeffrey",Accepted,,L,TICA,70172BD7-86D7-4384-BEA3-DE2E4C0E30F4,952755-1,"Kew Bull. 41(4): 928 (1986):","","928","1986",
+gcc-922,A,Compositae,,Kleinia,,"acaulis",,"","(L.f.) DC.",Synonym,,L,TICA,062D9FA1-28CA-4A75-9469-01B3E8373546,227347-1,"Prodr. (DC.) 6: 339","","339","1838",gcc-21285
+gcc-149910,A,Compositae,,Kleinia,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,70CAE52B-9AEE-4DFA-A74C-62C16A5DE0B0,,"","","","",gcc-21285
+gcc-54372,A,Compositae,,Kleinia,,"acaulis",var.,"burchellii","DC.",Unresolved,,L,TICA,4D74B310-579B-45B9-9867-6D7989CAF1CA,,"","","","",gcc-21285
+gcc-57269,A,Compositae,,Kleinia,,"acaulis",var.,"ecklonis","DC.",Unresolved,,L,TICA,9B7D7744-E2A5-49D9-85D7-850C50C3FDD1,,"","","","",gcc-21285
+gcc-142379,A,Compositae,,Kleinia,,"adenocalyx",,"","(Dinter) Merxm.",Unresolved,,L,TICA,E0E97173-042A-4621-9414-F9750C1FB1DF,227348-1,"""in Mitt. Bot. Staatssamml. München, Heft 12, 76 (1955)""","","76","1955",
+gcc-4207,A,Compositae,,Kleinia,,"aizoidea",,"","St.-Lag.",Unresolved,,L,TICA,F687507D-70AA-46C9-A28B-07D2FA044D7A,,"Ann. Soc. Bot. Lyon vii. (1880) 128","","128","",
+gcc-106775,A,Compositae,,Kleinia,,"aizoides",,"","DC.",Accepted,,M,TICA,B0779BC2-C2C3-44C0-8632-A897FB7F9CAA,227350-1,"","","337","1838",
+gcc-146436,A,Compositae,,Kleinia,,"alata",,"","G. Meyer",Synonym,,M,TICA,4D2F9023-D356-4019-AAC7-1857CC3E8F49,,"Prim. Fl. Esseq. 249. 1818","","249","1818",gcc-1953
+gcc-77135,A,Compositae,,Kleinia,,"alata",,"","G.Mey.",Synonym,,M,TICA,BFC0BC8B-BCF0-4ACB-A4B5-66320B18CC99,227351-1,"Primitiae Florae Essequeboensis . . .","","249","1818",gcc-1953
+gcc-103106,A,Compositae,,Kleinia,,"amaniensis",,"","(Engl.) A.Berger",Accepted,,M,TICA,CA22D01C-2E96-4DB0-8209-A0905B21A446,227352-1,"Stapel. und Klein. 384 (1910).","","384","1910",
+gcc-136091,A,Compositae,,Kleinia,,"angulata",,"","Willd.",Unresolved,,L,TICA,B2971847-6C05-4FC5-9402-EB65DC3E5D13,,"Sp. Pl. iii. 1739.","","1739","",
+gcc-109186,A,Compositae,,Kleinia,,"anteuphorbia",,"","St.-Lag.",Unresolved,,L,TICA,969FB6D4-A3B2-4A79-9F54-AE12A3EEFAF9,,"Ann. Soc. Bot. Lyon vii. (1880) 128","","128","",
+gcc-78289,A,Compositae,,Kleinia,,"anteuphorbium",,"","(L.) Haw.",Accepted,,M,TICA,B68BAF42-15ED-4523-96D9-68CBBB37114E,227355-1,"Syn. Pl. Succ. 314","","314","1812",
+gcc-120071,A,Compositae,,Kleinia,,"archeri",,"","Compton",Synonym,,M,TICA,532BB2BD-0232-4481-9EAA-C6A2DC9FBCDF,227357-1,"in Journ. Bot. 72: 47. 1934","","47","1934",gcc-76914
+gcc-43688,A,Compositae,,Kleinia,,"articulata",,"","(L.f.) Haw.",Accepted,,M,TICA,C1DD63A6-A7FD-411B-9CFA-50F4CC63B630,227358-1,"Syn. Pl. Succ. 315","","315","",
+gcc-106804,A,Compositae,,Kleinia,,"balsamica",,"","(Dalzell & A.Gibson) P.Halliday",Accepted,,M,TICA,DCBFD8F2-BF3C-4AE0-B414-A8A854FB9490,,"","","442","1987",
+gcc-47261,A,Compositae,,Kleinia,,"barbertonica",,"","(Klatt) Burtt Davy",Unresolved,,L,TICA,C5F28D37-1483-4F95-9AF6-578A86FAAF5F,227359-1,"""Bull. Misc. Inform. Kew 1935, 569""","","569","",
+gcc-94620,A,Compositae,,Kleinia,,"breviflora",,"","C.Jeffrey",Accepted,,M,TICA,87E3443E-D20B-4AEB-9FF3-8D6C35E18443,930605-1,"Kew Bull. 41(4): 925 (1986)","","925","1986",
+gcc-42433,A,Compositae,,Kleinia,,"brevifolia",,"","Hook. & Arn.",Unresolved,,L,TICA,BEE6549B-4FBD-4BAF-A3C7-4E97B9BE3D57,133470-2,"in Hook. Comp. Bot. Mag. ii. (1836) 52.","","ii.  52","1836",
+gcc-101240,A,Compositae,,Kleinia,,"breviscapa",,"","DC.",Synonym,,M,TICA,BDCE0B51-58B7-4DE1-92B3-9C5EE832D822,227361-1,"Prodr. (DC.) 6: 337","","337","1838",gcc-29342
+gcc-39728,A,Compositae,,Kleinia,,"butleri",,"","Lavranos & T.A.McCoy",Synonym,,M,TICA,F83C55CC-D350-42D8-A683-49B7352CA402,,"Kakteen Sukk. 55(3): 72 (71-74; photogrs.). 2004 [Mar 2004]","","","2004",gcc-45721
+gcc-19394,A,Compositae,,Kleinia,,"cacalioides",,"","Less.",Synonym,,M,TICA,2C664754-F914-4B2C-B39F-23D8F051D0C4,227362-1,"Linnaea 6","","""132, 255""","1831",gcc-117361
+gcc-3487,A,Compositae,,Kleinia,,"caespitosa",,"","Thulin",Accepted,,M,TICA,6DB10148-A8DA-4761-9280-066936F319DF,77076727-1,"Nordic J. Bot. 24(4): 381 (-383; fig. 1)","","381 (-383; fig. 1)","2007",
+gcc-40796,A,Compositae,,Kleinia,,"cana",,"","DC.",Unresolved,,L,TICA,4C480857-3212-4FF5-8384-4B9A51E0B773,227363-1,"Prodr. (DC.) 6: 338","","338","1838",
+gcc-132480,A,Compositae,,Kleinia,,"carnosa",,"","(Ait.) Endl.",Unresolved,,L,TICA,84C73691-0BC6-412B-B512-E35D3DA12C72,,"","","","1842",
+gcc-1897,A,Compositae,,Kleinia,,"carnosa",,"","Vis.",Unresolved,,L,TICA,67666F3B-27DA-4D01-8E12-036C48EC0A30,227364-1,"Hort. Patav. (1842) 143.","","143","1842",
+gcc-21457,A,Compositae,,Kleinia,,"carnosa",,"","Kuntze",Unresolved,,L,TICA,B6700F9F-BEF0-4DB9-B981-27A6AA32C036,133471-2,"Revis. Gen. Pl. 1","","348","1891",
+gcc-22971,A,Compositae,,Kleinia,,"carnosa",,"","(Ait.) Haw.",Unresolved,,L,TICA,4002BC8C-4B13-4F14-A8C3-2A89043B9FC9,227366-1,"Syn. Pl. Succ. 315 (1812)","","315","1812",
+gcc-87589,A,Compositae,,Kleinia,,"cephalophora",,"","Compton",Accepted,,M,TICA,9ABCAC2C-2A8E-4200-8173-7D9D6DA7111D,227367-1,"J. S. African Bot. xv. 105 (1949).","","105","1949",
+gcc-31885,A,Compositae,,Kleinia,,"chordifolia",,"","A.Berger",Unresolved,,L,TICA,5D5D84EC-4EEF-4B81-9AD4-3B113657092F,227368-1,"""in Monatsschr. Kakteenk. 1905, 20""","","20","",
+gcc-78409,A,Compositae,,Kleinia,,"cliffordiana",,"","(Hutch.) C.D.Adams",Accepted,,M,TICA,96D3CBC8-3676-4DF5-94E0-691594B58C1F,227369-1,"in Journ. W. Afr. Sci. Assoc. vi. 150 (1961)","","150","1961",
+gcc-130833,A,Compositae,,Kleinia,,"coccinea",,"","(Oliv. & Hiern) A.Berger",Synonym,,L,TICA,AD08EA78-DCC2-4949-A044-DF78BAEB5438,227370-1,"""in Monatsschr. Kakteenk. 1905, 11.""","","11","1905",gcc-100387
+gcc-75952,A,Compositae,,Kleinia,,"colorata",,"","Kunth",Synonym,,M,TICA,0084083D-06F9-4836-B0D5-639301286F4D,227371-1,"Nov. Gen. Sp. [H.B.K.] iv. 158.","","124","1818",gcc-5451
+gcc-50350,A,Compositae,,Kleinia,,"compositarum",,"","Kuntze",Unresolved,,L,TICA,E714B811-338C-4931-A091-5D5C14936469,227372-1,"Revis. Gen. Pl. 1: 348","","348","1891",
+tro-2720828,A,Compositae,,Kleinia,,"crassulaefolia",,"","DC.",Synonym,,L,TRO,2720828,,"","","","",gcc-126908
+gcc-136652,A,Compositae,,Kleinia,,"crassulifolia",,"","DC.",Synonym,,L,TICA,3CE0EC13-1489-473A-840C-ECAEDCAEB183,227373-1,"Prodr. (DC.) 6: 336","","336","1838",gcc-126908
+gcc-135786,A,Compositae,,Kleinia,,"cucullata",,"","Boom",Unresolved,,L,TICA,A28198F6-8168-4651-93FB-EABA114DC3C6,227374-1,"""in Succulenta, 1956, 17 (1956).""","","17 (1956).","1956",
+gcc-124624,A,Compositae,,Kleinia,,"cuneifolia",,"","DC.",Accepted,,M,TICA,F63A110C-B5B0-4653-8A3C-D124502B8C7A,227375-1,"Prodr. (DC.) 6: 337","","337","1838",
+gcc-118063,A,Compositae,,Kleinia,,"curvata",,"","Thulin",Accepted,,M,TICA,67AD2E82-8A91-4A72-8EAD-C210EC8EEDD8,,"Nordic J. Bot. 22(4): 420 (2002 publ. 2003).","","","",
+gcc-81517,A,Compositae,,Kleinia,,"cusimbua",,"","Less.",Unresolved,,L,TICA,10C11DAB-3F87-4AE4-BF9C-7000693D242C,227376-1,"Linnaea 6: 133. 1831","","133","1831",
+gcc-22580,A,Compositae,,Kleinia,,"cylindrica",,"","A.Berger",Unresolved,,L,TICA,E97D9305-FB8D-4012-A785-29CB6D5436E4,227377-1,"""in Monatsschr. Kakteenk. 1905, 21.""","","21","",
+gcc-6553,A,Compositae,,Kleinia,,"decumbens",,"","Heynh.",Unresolved,,L,TICA,20ADFDD4-4A0C-4F39-83AC-0C28D6EC4BEE,,"Nom. i. 437.","","i. 437","",
+gcc-135658,A,Compositae,,Kleinia,,"deflersii",,"","(O.Schwartz) P.Halliday",Unresolved,,L,TICA,E1F10046-EADA-4F0C-8ABA-EA74B83085CB,914117-1,"Kew Bull. 39(4): 818 (1984):","","818","1984",
+gcc-142871,A,Compositae,,Kleinia,,"descoingsii",,"","(Humbert) C.Jeffrey",Accepted,,M,TICA,FA7EA12D-CC1B-4633-B534-FAA283FCC1EB,979427-1,"""Kew Bull. 47(1): 98 (1992), as 'comb. nov.'""","","98","1992",
+gcc-5573,A,Compositae,,Kleinia,,"dolichocoma",,"","C.Jeffrey",Accepted,,M,TICA,2B230DA2-B726-4EF7-88D9-0A65BB23D477,930606-1,"Kew Bull. 41(4): 925 (1986)","","925","1986",
+gcc-128941,A,Compositae,,Kleinia,,"ecklonis",,"","Harv.",Unresolved,,L,TICA,FFD03C13-B4F3-4BD4-9E33-DB2A20A671D1,,"Fl. Cap. (Harvey) iii. 318","","318","",
+gcc-9765,A,Compositae,,Kleinia,,"eupapposa",,"","Cufod.",Synonym,,M,TICA,EBA340AA-6978-4C40-97F1-124021595AB4,227380-1,"""in Stuttg. Beitr. Naturk. No. 218, 5 (1970).""","","5","1970",gcc-51605
+gcc-114324,A,Compositae,,Kleinia,,"exserta",,"","Hook. & Arn.",Unresolved,,L,TICA,91948640-D63B-4D38-AB1F-B993B2CCD5AA,227381-1,"in Hook. Comp. Bot. Mag. ii. (1836) 52.","","ii.  52","1836",
+gcc-112086,A,Compositae,,Kleinia,,"ficoides",,"","(L.) Haw.",Accepted,,M,TICA,B64323D8-09BB-4A5C-A3B2-B49F58758B3F,227382-1,"","","313","1812",
+gcc-78392,A,Compositae,,Kleinia,,"filifolia",,"","Spreng.",Synonym,,L,TICA,56200A17-5FF9-48BC-A468-690927402251,227383-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 438","","438","1826",gcc-127906
+gcc-94126,A,Compositae,,Kleinia,,"filifolia",,"","Hook. & Arn.",Synonym,Illegitimate,M,TICA,64811426-1AF7-424C-B10B-8C485F1134CC,,"","","","",gcc-110926
+gcc-7747,A,Compositae,,Kleinia,,"fulgens",,"","Hook.f.",Accepted,,M,TICA,A5FA5EC8-8F85-48FF-8E52-0E64A80D5C63,227384-1,"Bot. Mag. 92: t. 5590","","5590","1866",
+gcc-101482,A,Compositae,,Kleinia,,"galpinii",,"","(Hook.f.) A.Berger",Synonym,,M,TICA,4501CBE6-DEF9-4F14-85F6-9CE5272D08C6,227385-1,"""in Monatsschr. Kakteenk. 1905, 13""","","13","",gcc-2199
+gcc-2199,A,Compositae,,Kleinia,,"galpinii",,"","Hook.f.",Accepted,,M,TICA,9AD1B050-FC1D-4948-B9E4-03F573446317,,"","","","",
+gcc-50394,A,Compositae,,Kleinia,,"glandulosa",,"","Moc. & Sessé",Synonym,,M,TICA,D8F57240-45D8-44EE-9076-5D73B41C5D08,,"","","","",gcc-116772
+gcc-7519,A,Compositae,,Kleinia,,"glandulosa",,"","Moc. & Sessé ex DC.",Synonym,Invalid,M,TICA,5FFFC7C9-BE03-432A-B520-0DF6068AFCB8,227386-1,"Prodr. (DC.) 5: 648","","648","1836",gcc-116772
+gcc-48856,A,Compositae,,Kleinia,,"gonoclada",,"","DC.",Unresolved,,L,TICA,6BD2FD5D-D8D3-4985-8D45-5A7F01F1B2FC,227387-1,"Prodr. (DC.) 6: 336","","336","1838",
+gcc-50212,A,Compositae,,Kleinia,,"gracilis",,"","Thulin",Accepted,,M,TICA,03E69B53-1FDA-443E-86C7-5D183E4AF209,70028620-1,"Nordic J. Bot. 22(4): 424 (2002 publ. 2003).","","424","2003",
+gcc-4949,A,Compositae,,Kleinia,,"grandiflora",,"","(wallich ex DC.) N.Rani",Accepted,,M,TICA,29068021-E27E-45A2-A429-093B35A53A8C,912739-1,"","","801","1983",
+gcc-155842,A,Compositae,,Kleinia,,"grandiflora",var.,"grandiflora","",Synonym,,L,TICA,64BAA426-0969-46D2-9694-E0E38317E3F5,,"""Fl. Tamil Nadu Ind., Ser. I. 1: 801. 1983""","","801","1983",gcc-4949
+gcc-64199,A,Compositae,,Kleinia,,"grandiflora",var.,"major","Uniyal",Accepted,,L,TICA,CF149B2C-8BA1-465A-9653-BC9BD0C6AB5E,954911-1,"""in R.R. Rao et al., Fl. Ind. Enumerat. - Asterac.: 47 (1988):.""","","47","1988",
+gcc-100387,A,Compositae,,Kleinia,,"grantii",,"","(Oliv. & Hiern) Hook.f.",Accepted,,L,TICA,66E1A03F-C0C4-40F2-A3AA-9A7C8490A416,227388-1,"Bot. Mag. 125: t. 7691","","125","1899",
+gcc-27352,A,Compositae,,Kleinia,,"gregorii",,"","(S.Moore) C.Jeffrey",Accepted,,M,TICA,60487567-67E3-4053-B15C-3295811551D4,943135-1,"Kew Bull. 41(4): 927 (1986):","","927","1986",
+gcc-49047,A,Compositae,,Kleinia,,"gypsophila",,"","J.-P.Lebrun & Stork",Accepted,,M,TICA,0EE861E2-F5EB-4753-9DF8-5ADC193F9204,,"""in Bull. Mus. Nation. Hist. Nat., B, Adansonia, Ser. 4, 11(4): 413 (1989 publ. 1990)""","","413","1990",
+gcc-94800,A,Compositae,,Kleinia,,"hanburyana",,"","A.Berger",Accepted,,L,TICA,1FA1656B-DEB5-4B0F-A32E-8DDDBDA856F7,227389-1,"""in Monatsschr. Kakteenk. 1905, 19""","","19","",
+gcc-137069,A,Compositae,,Kleinia,,"haworthii",,"","(Sweet) DC.",Synonym,,M,TICA,18B92BDB-AA81-4589-91B7-ED9A6E78E438,227390-1,"Prodr. (DC.) 6: 338","","338","1838",gcc-85821
+gcc-17071,A,Compositae,,Kleinia,,"herreiana",,"","(Dinter) Merxm.",Unresolved,,L,TICA,61B180EC-FFCF-4549-8D89-1F924EB74E58,,"","","","",
+gcc-118057,A,Compositae,,Kleinia,,"hieracioides",,"","Less.",Unresolved,,L,TICA,2BF31E11-EFD5-4FC7-BC95-C20F94DAF604,227393-1,"Linnaea 6: 133. 1831","","133","1831",
+gcc-4100,A,Compositae,,Kleinia,×,"hintermannii",,"","(Gattef. & Maire) G.Kunkel",Unresolved,,L,TICA,F177D321-D8C8-4823-8007-07A0A3384617,945125-1,"""in Gartenpraxis, 14(1): 50 (1988):""","","50","1988",
+gcc-31564,A,Compositae,,Kleinia,,"humbertii",,"","Guillaumin",Unresolved,,L,TICA,72A8D4B7-2F0E-482F-89B6-3A838D4190D8,,"""in Bull. Mus. Hist. Nat. Paris, 1936, Ser. II. viii. 94.""","","94","",gcc-36628
+gcc-94540,A,Compositae,,Kleinia,,"implexa",,"","(P.R.O.Bally) C.Jeffrey",Accepted,,M,TICA,19B2E639-A957-42DA-9E15-8D384D814CC9,943131-1,"Kew Bull. 41(4): 926 (1986):","","926","1986",
+gcc-155378,A,Compositae,,Kleinia,,"isabellae",,"","Dioli & Mesfin",Accepted,,M,TICA,360655E3-BBD1-4D98-BCB8-D7055E02739E,320659-2,"Cact. Succ. J. (Los Angeles) 73(2): 72. (2001)","","72","2001",
+gcc-81253,A,Compositae,,Kleinia,,"japonica",,"","(Thunb.) Less.",Synonym,,L,TICA,BCCC2621-E368-4FC3-B95B-6F6324C87949,227395-1,"Linnaea 6","","134","1831",gcc-110749
+gcc-117471,A,Compositae,,Kleinia,,"jorullensis",,"","Kunth",Synonym,,M,TICA,6D9FCE57-F990-45AA-AC80-C0C0AACD9EE6,,"","","","1818",gcc-8075
+gcc-83657,A,Compositae,,Kleinia,,"kleinia",,"","Druce",Unresolved,,L,TICA,FFCA770F-EDB5-4715-BCDF-74C7843C2031,,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1927, viii. 544 (1928), in obs.""","","544","",
+gcc-118229,A,Compositae,,Kleinia,,"kleiniiformis",,"","(Suess.) Boom",Unresolved,,L,TICA,95F2EDA8-5503-47BC-9A16-C2723BE52396,227398-1,"""in Succulenta, 1958, 12 (1958).""","","12 (1958)","1958",
+gcc-121913,A,Compositae,,Kleinia,,"kleinioides",,"","(Sch.Bip.) M.Taylor",Accepted,,M,TICA,20035B4D-E04D-4F3B-8C3B-CAD4B353EE09,227399-1,"""Bull. Misc. Inform. Kew 1940, 61""","","61","",
+gcc-40805,A,Compositae,,Kleinia,,"lauschsii",,"","Lavranos & T.A.McCoy",Synonym,,M,TICA,0764C292-D9BD-43EA-A5BE-4B9EB6DB3FCC,20011075-1,"Kakteen Sukk. 54(3): 68 (2003).","","68","2003",gcc-45721
+gcc-98038,A,Compositae,,Kleinia,,"leptophylla",,"","C.Jeffrey",Accepted,,M,TICA,7828C28B-919C-4501-B34B-9535F5B45074,930609-1,"Kew Bull. 41(4): 927 (1986)","","927","1986",
+gcc-81925,A,Compositae,,Kleinia,,"linearifolia",,"","Juss.",Synonym,,M,TICA,A90C4243-DA4F-4E2F-B34F-70DF28E19B4D,227400-1,"","","424","1803",gcc-38164
+gcc-112874,A,Compositae,,Kleinia,,"linearis",,"","hort.par. ex DC.",Unresolved,,L,TICA,11AA9F70-2C6E-4BD7-90B9-B66CF53974E9,227401-1,"Prodr. (DC.) 5: 650","","650","1836",
+gcc-93773,A,Compositae,,Kleinia,,"linifolia",,"","Gillies & D.Don ex Hook. & Arn.",Synonym,,M,TICA,ABFD988E-6EC7-49E2-BBDB-8B6870275A22,227402-1,"in Hook. Comp. Bot. Mag. ii. (1836) 52.","","52","1836",gcc-40178
+gcc-139143,A,Compositae,,Kleinia,,"longiflora",,"","DC.",Accepted,,M,TICA,3D4441F6-CCBF-409D-9719-F21610824E89,227403-1,"Prodr. (DC.) 6: 337","","337","1838",
+gcc-101958,A,Compositae,,Kleinia,,"longifolia",,"","Haw.",Unresolved,,L,TICA,6E5E1495-E30C-40EC-B9F1-9DF4F3CC12C0,927685-1,"Revis. Pl. Succ.: 193 (1821)","","193","1821",
+gcc-36050,A,Compositae,,Kleinia,,"lunulata",,"","(Chiov.) Thulin",Accepted,,M,TICA,656D0E99-7FCE-46A3-9B50-42DC6589215C,70028629-1,"Nordic J. Bot. 22(4): 425 (2002 publ. 2003).","","425","2003",
+gcc-90533,A,Compositae,,Kleinia,,"madagascariensis",,"","(Humbert) P.Halliday",Accepted,,M,TICA,EBBA17F5-4778-41F7-BF4D-84403ACA7E07,,"""in Hooker's Icon. Pl., 39(4): t. 3894 (1988):.""","","t. 3894","1988",
+gcc-139791,A,Compositae,,Kleinia,,"mandraliscae",,"","Tineo",Accepted,,M,TICA,958D4A16-4A68-4F9D-8973-F3852547813D,227404-1,"Tineo in Ann. Agric. Sicil. 3. 1855.","","315","1855",
+gcc-45721,A,Compositae,,Kleinia,,"mccoyi",,"","L.E.Newton",Accepted,,M,TICA,1E5A3618-CCDA-45B7-B38F-54C18A14C826,,"Cact. Succ. J. (Los Angeles) 74(5): 217 (2002).","","217","2002",
+gcc-14916,A,Compositae,,Kleinia,,"mexicana",,"","(DC.) Kuntze",Unresolved,,L,TICA,D2FCFA3E-2497-4AD9-B2A1-1B9E88288A63,133472-2,"Revis. Gen. Pl. 1","","348","1891",
+gcc-33216,A,Compositae,,Kleinia,,"mweroensis",,"","(Baker) C.Jeffrey",Accepted,,M,TICA,D806B19E-B6A7-4A40-82A3-3D9A3326AE19,943133-1,"Kew Bull. 41(4): 927 (1986):","","927","1986",
+gcc-89161,A,Compositae,,Kleinia,,"negrii",,"","Cufod.",Accepted,,M,TICA,30755512-EC7A-49D9-8AEE-811445EC457A,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 113""","","113","1943",
+gcc-139112,A,Compositae,,Kleinia,,"neriifolia",,"","Haw.",Accepted,,M,TICA,B638DAFA-605B-4D84-A66E-F20120252587,227408-1,"","","312","1812",
+gcc-148503,A,Compositae,,Kleinia,,"neriifolia",f.,"neriifolia","",Synonym,,L,TICA,D8735B59-8B25-4D76-A88A-43E3981891BF,,"","","","",gcc-139112
+gcc-24479,A,Compositae,,Kleinia,,"nogalensis",,"","(Chiov.) Thulin",Accepted,,M,TICA,2DF76A6C-83E0-4C73-90BE-2D3099710BF6,70028628-1,"Nordic J. Bot. 22(4): 425 (2002 publ. 2003).","","425","2003",
+gcc-118734,A,Compositae,,Kleinia,,"obesa",,"","(Deflers) P.Halliday",Unresolved,,L,TICA,A6883CBA-614F-4C5A-AAEC-C3A136226938,,"""in Hooker's Icon. Pl., 39(4): t. 3892 (1988):.""","","t. 3892","1988",
+gcc-118664,A,Compositae,,Kleinia,,"obscura",,"","Spreng.",Synonym,,M,TICA,25671308-FD9F-4337-B57E-C37965403185,227409-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 438","","438","1826",gcc-40178
+gcc-103362,A,Compositae,,Kleinia,,"odora",,"","(Forssk.) A.Berger",Synonym,,M,TICA,4569DF35-FDFC-48AA-937E-A11C98AFDCC0,227411-1,"""in Monatsschr. Kakteenk. 1905, 38.""","","38","",gcc-17428
+gcc-17428,A,Compositae,,Kleinia,,"odora",,"","(Forssk.) DC.",Accepted,,M,TICA,18E4895A-9706-4BDB-8E6A-2034D6785AB8,227410-1,"","","339","1838",
+gcc-128287,A,Compositae,,Kleinia,,"ogadensis",,"","Thulin",Accepted,,M,TICA,A031CB4E-F2F5-4E7D-88ED-D9AC088D7D2E,70028619-1,"Nordic J. Bot. 22(4): 422 (2002 publ. 2003).","","422","2003",
+gcc-26763,A,Compositae,,Kleinia,,"oligondonta",,"","C.Jeffrey",Accepted,,M,TICA,B9FB2840-6945-4525-9D20-317288247409,930607-1,"Kew Bull. 41(4): 926 (1986)","","926","1986",
+gcc-11770,A,Compositae,,Kleinia,,"oliveri",,"","Kuntze",Unresolved,,L,TICA,F8BB32CE-94EA-490F-9546-15E8158789ED,227412-1,"Revis. Gen. Pl. 1: 348","","348","1891",
+gcc-32931,A,Compositae,,Kleinia,,"oppositifolia",,"","(Poir.) Spreng.",Unresolved,,L,TICA,06E4BE19-F329-49BE-B61F-3D141AF33676,227413-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 438","","438","1826",
+gcc-107589,A,Compositae,,Kleinia,,"ovoidea",,"","Compton",Synonym,,M,TICA,78E5434A-DE0B-4F78-9CD5-AA66BCF0B034,227414-1,"""in Journ. Bot. 1934, lxxii. 48.""","","48","1934",gcc-134099
+gcc-131009,A,Compositae,,Kleinia,,"papillaris",,"","Haw.",Unresolved,,L,TICA,76D84322-A0C5-4452-B125-DFE1C05E3C1A,227415-1,"Syn. Pl. Succ. 313","","313","",
+gcc-19736,A,Compositae,,Kleinia,,"patriciae",,"","C.Jeffrey",Accepted,,M,TICA,45A8E667-BADD-4A90-8C9E-24820BA201EB,930608-1,"Kew Bull. 41(4): 927 (1986)","","927","1986",
+gcc-137470,A,Compositae,,Kleinia,,"peduncularis",,"","Kuntze",Unresolved,,L,TICA,6B446421-E004-4EB3-8C9D-EE84F6281ED5,133473-2,"Revis. Gen. Pl. 1","","348","1891",
+gcc-118999,A,Compositae,,Kleinia,,"pendula",,"","(Forssk.) DC.",Accepted,,M,TICA,B158D988-772F-447F-B187-C442FB64ADA3,227418-1,"Prodr. (DC.) 6: 339","","339","1838",
+gcc-36160,A,Compositae,,Kleinia,×,"peregrina",,"","G.Kunkel",Unresolved,,L,TICA,D1B54AEF-CE1E-4D0A-B777-430E16D8260D,,"""in Gartenpraxis, 14(1): 52 (1988), contrary to Art. 9.5 ICBN (1983)""","","9","1988",
+gcc-99956,A,Compositae,,Kleinia,,"petraea",,"","(R.E.Fr.) C.Jeffrey",Accepted,,M,TICA,20EE296E-E7BF-466C-8F1C-9984DE7839ED,943132-1,"","","926","1986",
+gcc-91520,A,Compositae,,Kleinia,,"picticaulis",,"","(P.R.O.Bally) C.Jeffrey",Accepted,,M,TICA,057F59A5-C9E4-4E56-9521-868F523E22CF,943134-1,"Kew Bull. 41(4): 927 (1986):","","927","1986",
+gcc-115791,A,Compositae,,Kleinia,,"pinguifolia",,"","DC.",Synonym,,L,TICA,EF1D7789-DAC7-42ED-BEE5-BCFF1CFAD40A,227419-1,"Prodr. (DC.) 6: 336","","336","1838",gcc-109456
+gcc-121864,A,Compositae,,Kleinia,,"polycotoma",,"","Chiov.",Synonym,,M,TICA,3411093F-4AFC-42D6-8800-CAB47201529D,227420-1,"Fl. Somala 1: 205","","205","1929",gcc-17428
+gcc-156160,A,Compositae,,Kleinia,,"porophyllum",,"","(L.) Willd.",Synonym,,M,TICA,8FC47EE0-DFB3-480F-91A9-E7BEA2FA39B9,,"","","1738","1804",gcc-116772
+gcc-130809,A,Compositae,,Kleinia,,"pteroneura",,"","DC.",Synonym,,M,TICA,F0EDB8A9-9FF9-4550-ABB7-DF67495F349F,227422-1,"","","338","1838",gcc-78289
+gcc-96388,A,Compositae,,Kleinia,,"pugioniformis",,"","DC.",Unresolved,,L,TICA,FE322ED4-8796-498C-B1A7-916F48B345D8,227423-1,"Prodr. (DC.) 6: 338","","338","1838",
+gcc-1440,A,Compositae,,Kleinia,,"pumila",,"","(Poir.) Hook. & Arn.",Synonym,,L,TICA,A4B914AE-3E36-4DB5-8F2E-0297BD45CF14,227424-1,"in Hook. Comp. Bot. Mag. ii. (1836) 52.","","52","1836",gcc-127906
+gcc-19770,A,Compositae,,Kleinia,,"pusilla",,"","(Dinter) Merxm.",Synonym,,M,TICA,2589329E-F658-4C21-822B-249211D2ED6D,227426-1,"Mitt. Bot. Staatssamml. München ii. 331 (1957)","","331","1957",gcc-39323
+gcc-88842,A,Compositae,,Kleinia,,"pusilla",,"","Dinter ex Range",Unresolved,,L,TICA,55F0C717-0C5C-4E3E-A656-805868E899B2,227425-1,"""Repert. Spec. Nov. Regni Veg. 39: 58, in syn.""","","58","1935",
+kew-2333961,A,Combretaceae,,Kleinia,,"quadricolor",,"","Crantz",Synonym,,M,WCSP (in review),,170663-1,"Inst. Rei Herb.","2: 489","","1766",kew-2732680
+gcc-80868,A,Compositae,,Kleinia,,"radicans",,"","(L.f.) Haw.",Synonym,,M,TICA,BB4BC621-96FC-436C-A437-6E895C3D9AF3,,"in Till. Phil. Mag. (1823); DC. Prod. vi. 337.","","","1823",gcc-32296
+gcc-11710,A,Compositae,,Kleinia,,"repens",,"","(L.) Haw.",Accepted,,M,TICA,F1C82DE5-5863-42D2-93D9-15D1E8F9F0D3,227428-1,"","","313","1812",
+gcc-49473,A,Compositae,,Kleinia,,"repens",,"","L.",Synonym,,M,TICA,73EDA856-895D-40A1-9BA8-5BB150CE2CB6,,"","","","",gcc-51638
+gcc-112268,A,Compositae,,Kleinia,,"rigida",,"","DC.",Unresolved,,L,TICA,DE8C0442-C07B-424C-8F47-B5015D967E32,227429-1,"Prodr. (DC.) 6: 338","","338","1838",
+gcc-91977,A,Compositae,,Kleinia,,"rowleyana",,"","(Jacobsen) G.Kunkel",Accepted,,M,TICA,26846DB1-CAA7-4901-8482-87947F868F83,945126-1,"""in Gartenpraxis, 14(1): 52 (1988):.""","","52","1988",
+gcc-19381,A,Compositae,,Kleinia,,"ruderalis",,"","Jacq.",Synonym,,M,TICA,35C253A8-A402-43AC-9F3B-23D438AA2E62,330060-2,"Enum. Syst. Pl.","","28","1760",gcc-116772
+gcc-113048,A,Compositae,,Kleinia,,"sabulosa",,"","Thulin",Accepted,,M,TICA,E9D11AED-9FE0-4428-B0CE-B6C42A85E5EF,70028617-1,"Nordic J. Bot. 22(4): 422 (2002 publ. 2003).","","422","2003",
+gcc-82670,A,Compositae,,Kleinia,,"saginata",,"","P.Halliday",Accepted,,M,TICA,7026AE19-F480-438C-960F-72917DE744C4,902299-1,"Kew Bull. 37(4): 633 (1983)","","633","1983",
+gcc-80984,A,Compositae,,Kleinia,,"schwartzii",,"","L.E.Newton",Accepted,,M,TICA,6E356AC6-4AA6-448B-8ACF-6ED653F0DD33,975457-1,"""in Cact. Succ. J. (U.S.A.), 65(6): 287 (1993)""","","287","1993",
+gcc-116909,A,Compositae,,Kleinia,,"schweinfurthii",,"","Chiov.",Unresolved,,L,TICA,78589900-9421-455A-BCC4-BF800304C19F,227432-1,"Result. Sc. Miss. Stefan.-Paoli Somal. Ital. i. 106; 1916.","","i. 106","",
+gcc-11884,A,Compositae,,Kleinia,,"schweinfurthii",,"","(Oliv. & Hiern) A.Berger",Accepted,,M,TICA,4FD7B873-EE6F-40DA-8899-16258AA191AE,227431-1,"""in Monatsschr. Kakteenk. 1905, 11""","","11","1905",
+gcc-84694,A,Compositae,,Kleinia,,"scotti",,"","Chiov.",Unresolved,,L,TICA,55B90346-1848-44DC-8DF1-77176727C004,227433-1,"Fl. Somala 1: 205","","205","1929",
+gcc-37990,A,Compositae,,Kleinia,,"scottii",,"","(Balf.f.) P.Halliday",Accepted,,M,TICA,A7B67C68-2AA5-479B-A1F6-4674808EB41C,,"""in Hooker's Icon. Pl., 39(4): t. 3897 (1988):.""","","t. 3897","1988",
+gcc-88042,A,Compositae,,Kleinia,,"scottioides",,"","C.Jeffrey",Accepted,,M,TICA,74140D32-DEC6-4B6E-B903-7E8FE1FB5173,930604-1,"Kew Bull. 41(4): 925 (1986)","","925","1986",
+gcc-15505,A,Compositae,,Kleinia,,"selloi",,"","Spreng.",Synonym,,M,TICA,46E06D41-41CA-44AB-900A-1CB0758F0DA8,227434-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 438","","438","1826",gcc-25308
+gcc-46698,A,Compositae,,Kleinia,,"semperviva",,"","DC.",Unresolved,,L,TICA,CE076239-3B7B-4A0D-95AF-568D5F7C75FB,227435-1,"Prodr. (DC.) 6: 339","","339","1838",
+gcc-28005,A,Compositae,,Kleinia,,"shevaroyensis",,"","(Fyson) Uniyal",Accepted,,M,TICA,3D4A94CF-8D61-45C1-8DEA-33B7EA4AF8EE,945931-1,"""in R.R. Rao et al., Fl. Ind. Enumerat. - Asterac.: 47 (1988):.""","","47","1988",
+gcc-109590,A,Compositae,,Kleinia,,"spiculosa",,"","Shepherd",Unresolved,,L,TICA,A0308422-58A1-4742-81AA-AF015E23FBF0,,"""in Descr. Cat. Fl., Seed Pl., Bulbs, Cacii, 83 (1902); cf. Jacobsen & Rowley inNat. Cact. & Succ. Journ. xi. 60 (1956).""","","83","1902",
+gcc-51605,A,Compositae,,Kleinia,,"squarrosa",,"","Cufod.",Accepted,,M,TICA,444841D0-962E-45A3-B230-5FAED2B50674,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 114""","","114","1943",
+gcc-115506,A,Compositae,,Kleinia,,"stapeliiformis",,"","(E.Phillips) Stapf",Accepted,,M,TICA,5B1A0451-DE9B-4052-9F86-BC518708A2FD,227438-1,"Bot. Mag. 150: t. 9030","","9030","1924",
+gcc-26384,A,Compositae,,Kleinia,,"subradiata",,"","DC.",Synonym,,M,TICA,EFE88306-FEAD-4833-97C3-30C6AD7F5124,227439-1,"Prodr. (DC.) 6: 339","","339","1838",gcc-29342
+gcc-22772,A,Compositae,,Kleinia,,"subulifolia",,"","(Chiov.) P.Halliday",Synonym,,M,TICA,D4177A14-C676-43CB-88E3-2A2429D36508,,"""in Hooker's Icon. Pl., 39(4): t. 3885 (1988):.""","","t. 3885","1988",gcc-118999
+gcc-134882,A,Compositae,,Kleinia,,"suffructicosa",,"","Larrañaga",Unresolved,,L,TICA,796C6A16-C40C-4D80-9359-E8B91EDE356D,,"","","","1923",
+gcc-122934,A,Compositae,,Kleinia,,"suffruticosa",,"","Lodd.",Unresolved,Illegitimate,L,TICA,2784F46D-AD6D-4C76-89DC-CD244C5DC269,227441-1,"Bot. Cab. t. 1561.","","t. 1561","1830",
+gcc-17506,A,Compositae,,Kleinia,,"suffruticosa",,"","(L.) Willd.",Synonym,Illegitimate,L,TICA,7AA9EE55-F406-4DC2-94A7-20546094EA30,,"Sp. Pl. iii. 1739.","","1739","1804",gcc-127906
+gcc-49416,A,Compositae,,Kleinia,,"tagetoides",,"","Kunth",Synonym,,M,TICA,F93FDA4E-EE06-4557-A3D8-5B8D4F28D79F,,"Nov. Gen. Sp. [H.B.K.] iv. 158.","","123-124","1818",gcc-84412
+gcc-25647,A,Compositae,,Kleinia,,"talinoides",,"","DC.",Accepted,,M,TICA,6A590999-8E5D-4B3E-9FCD-2F5EFE52AE39,227444-1,"Prodr. (DC.) 6: 337","","337","1838",
+gcc-26814,A,Compositae,,Kleinia,,"teres",,"","Wall.",Unresolved,,L,TICA,16975916-23F2-4378-BDCC-318B8475D94A,,"Numer. List [Wallich] n. 3164","","3164","",
+gcc-128121,A,Compositae,,Kleinia,,"tomentosa",,"","Haw.",Unresolved,,L,TICA,9114A35B-3858-4E7E-BE14-D945D85C81D5,227446-1,"Syn. Pl. Succ. 314","","314","",
+gcc-27399,A,Compositae,,Kleinia,,"tortuosa",,"","Thulin",Accepted,,M,TICA,8A1DC0D4-E69A-40D9-9B00-32AD4D360D80,70028626-1,"Nordic J. Bot. 22(4): 424 (2002 publ. 2003).","","424","2003",
+gcc-85865,A,Compositae,,Kleinia,,"triantha",,"","Chiov.",Accepted,,M,TICA,C30C80A9-3559-4A90-AA1F-799FCC752551,227447-1,"Fl. Somala 2: 268","","268","1932",
+gcc-49230,A,Compositae,,Kleinia,,"tuberculata",,"","Thulin",Accepted,,M,TICA,C06F3D5A-AC13-48D3-A317-5B3233388B8D,70028614-1,"Nordic J. Bot. 22(4): 419 (2002 publ. 2003).","","419","2003",
+gcc-11285,A,Compositae,,Kleinia,,"venteri",,"","van Jaarsv.",Unresolved,,L,TICA,09312B90-6C13-41C4-99B0-151A40F45A86,,"Aloe 42(1-2): 12 (-13; figs.). 2005","","","",
+gcc-122881,A,Compositae,,Kleinia,,"vermicularis",,"","C.Jeffrey",Accepted,,M,TICA,BB85934D-6D28-4E60-9CEF-CD0837C52464,930610-1,"Kew Bull. 41(4): 928 (1986)","","928","1986",
+gcc-30331,A,Compositae,,Kleinia,,"violacea",,"","A.Berger",Unresolved,,L,TICA,E12EC530-09C2-4CC6-84B9-381BF3E797E4,227448-1,"""in Monatsschr. Kakteenk. 1905, 38""","","38","",
+gcc-81297,A,Compositae,,Kleinia,,"viridiflora",,"","Kunth",Synonym,,M,TICA,ECCE44E2-54CF-4ACB-AFC9-6F7B98F5D8DE,227449-1,"Nov. Gen. Sp. [H.B.K.] iv. 157.","","123","1818",gcc-100977
+gcc-3889,A,Compositae,,Kleinia,,"walkeri",,"","(Wight) Uniyal",Unresolved,Invalid,L,TICA,5C0E12CC-B2C2-409A-A505-073A5BAB1751,,"","","","",

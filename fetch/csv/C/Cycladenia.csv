@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-52582,A,Apocynaceae,,Cycladenia,,"humilis",,"","Benth.",Accepted,,H,WCSP,52582,,"Pl. Hartw.","323","","1849",
+kew-52583,A,Apocynaceae,,Cycladenia,,"humilis",var.,"humilis","",Synonym,,L,WCSP,52583,,"Unknown","","","",kew-52582
+kew-52584,A,Apocynaceae,,Cycladenia,,"humilis",var.,"jonesii","(Eastw.) S.L.Welsh & N.D.Atwood",Accepted,,L,WCSP,52584,874316-1,"Great Basin Naturalist","35: 333","","1975",
+kew-52585,A,Apocynaceae,,Cycladenia,,"humilis",var.,"tomentosa","(A.Gray) A.Gray",Synonym,,L,WCSP,52585,73593-2,"Syn. Fl. N. Amer.","ed. 2, 2(1): 400","","1886",kew-52582
+kew-52586,A,Apocynaceae,,Cycladenia,,"humilis",var.,"venusta","(Eastw.) Woods ex Munz",Accepted,,L,WCSP,52586,73595-2,"Man. S. Calif. Bot.","379","","1935",
+kew-52587,A,Apocynaceae,,Cycladenia,,"jonesii",,"","Eastw.",Synonym,,H,WCSP,52587,73596-2,"Leafl. W. Bot.","3: 159","","1942",kew-52584
+kew-52588,A,Apocynaceae,,Cycladenia,,"tomentosa",,"","A.Gray",Synonym,,H,WCSP,52588,78192-1,"Bot. California","1: 474","","1876",kew-52582
+kew-52589,A,Apocynaceae,,Cycladenia,,"venusta",,"","Eastw.",Synonym,,H,WCSP,52589,73598-2,"Bull. Torrey Bot. Club","29: 77","","1902",kew-52586

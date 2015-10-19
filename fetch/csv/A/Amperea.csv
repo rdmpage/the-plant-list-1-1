@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-8360,A,Euphorbiaceae,,Amperea,,"conferta",,"","Benth.",Accepted,,H,WCSP,8360,338599-1,"Fl. Austral.","6: 83","","1873",
+kew-8361,A,Euphorbiaceae,,Amperea,,"cuneiformis",,"","F.Muell. ex Baill.",Synonym,Invalid,H,WCSP,8361,338600-1,"Étude Euphorb.","455","","1858",kew-8376
+kew-8362,A,Euphorbiaceae,,Amperea,,"ericoides",,"","A.Juss.",Accepted,,H,WCSP,8362,338601-1,"Euphorb. Gen.","112","","1824",
+kew-8363,A,Euphorbiaceae,,Amperea,,"ericoides",var.,"linearis","Grüning",Synonym,,L,WCSP,8363,,"Pflanzenr.","IV, 147: 89","","1913",kew-8362
+kew-8364,A,Euphorbiaceae,,Amperea,,"ericoides",var.,"planifolia","Grüning",Synonym,,L,WCSP,8364,,"Pflanzenr.","IV, 147: 90","","1913",kew-8371
+kew-8365,A,Euphorbiaceae,,Amperea,,"micrantha",,"","Benth.",Accepted,,H,WCSP,8365,338602-1,"Fl. Austral.","6: 83","","1873",
+kew-8366,A,Euphorbiaceae,,Amperea,,"podperae",,"","Domin",Synonym,,H,WCSP,8366,338603-1,"Mem. Soc. Boheme","2: 59","","1921-1922 publ. 1923",kew-8360
+kew-8367,A,Euphorbiaceae,,Amperea,,"protensa",,"","Nees",Accepted,,H,WCSP,8367,338604-1,"Pl. Preiss.","2: 229","","1848",
+kew-8369,A,Euphorbiaceae,,Amperea,,"protensa",var.,"tenuiramea","Müll.Arg.",Synonym,,L,WCSP,8369,,"Prodr.","15(2): 213","","1866",kew-8367
+kew-8370,A,Euphorbiaceae,,Amperea,,"rosmarinifolia",,"","Klotzsch",Synonym,,H,WCSP,8370,338605-1,"Pl. Preiss.","1: 176","","1845",kew-8362
+kew-8371,A,Euphorbiaceae,,Amperea,,"simulans",,"","R.J.F.Hend.",Accepted,,H,WCSP,8371,960831-1,"Austral. Syst. Bot.","5: 18","","1992",
+kew-8372,A,Euphorbiaceae,,Amperea,,"spartioides",,"","Brongn.",Synonym,,H,WCSP,8372,,"Voy. Monde","226","","1829",kew-8376
+kew-8373,A,Euphorbiaceae,,Amperea,,"spicata",,"","Airy Shaw",Accepted,,H,WCSP,8373,899153-1,"Kew Bull.","37: 380","","1982",
+kew-8374,A,Gyrostemonaceae,,Amperea,,"subnuda",,"","Nees",Synonym,,H,WCSP,8374,338607-1,"Pl. Preiss.","2: 229","","1848",kew-2837069
+kew-8375,A,Euphorbiaceae,,Amperea,,"volubilis",,"","F.Muell. ex Benth.",Accepted,,H,WCSP,8375,338608-1,"Fl. Austral.","6: 82","","1873",
+kew-8376,A,Euphorbiaceae,,Amperea,,"xiphoclada",,"","(Sieber ex Spreng.) Druce",Accepted,,H,WCSP,8376,338609-1,"Bot. Soc. Exch. Club Brit. Isles","4: 604","","1916 publ. 1917",
+kew-8379,A,Euphorbiaceae,,Amperea,,"xiphoclada",var.,"xiphoclada","",Synonym,,L,WCSP,8379,,"Unknown","","","",kew-8376

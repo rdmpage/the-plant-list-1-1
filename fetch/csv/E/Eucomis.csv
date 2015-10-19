@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-305883,A,Asparagaceae,,Eucomis,,"albomarginata",,"","E.Barnes",Unresolved,,L,WCSP,305883,534986-1,"S. African Gard.","20: 115","","1930",
+kew-305884,A,Asparagaceae,,Eucomis,,"amaryllidifolia",,"","Baker",Synonym,,H,WCSP,305884,,"Gard. Chron.","n.s., 10: 492","","1878",kew-305886
+kew-305885,A,Asparagaceae,,Eucomis,,"autumnalis",,"","(Mill.) Chitt.",Accepted,,H,WCSP,305885,534988-1,"Roy. Hort. Soc. Dict. Gard.","2: 787","","1951",
+kew-305886,A,Asparagaceae,,Eucomis,,"autumnalis",subsp.,"amaryllidifolia","(Baker) Reyneke",Accepted,,L,WCSP,305886,,"Bothalia","13: 141","","1980",
+kew-311258,A,Asparagaceae,,Eucomis,,"autumnalis",subsp.,"autumnalis","",Synonym,,L,WCSP,311258,,"Unknown","","","",kew-305885
+kew-305887,A,Asparagaceae,,Eucomis,,"autumnalis",subsp.,"clavata","(Baker) Reyneke",Accepted,,L,WCSP,305887,,"Bothalia","13: 141","","1980",
+kew-305888,A,Asparagaceae,,Eucomis,,"bicolor",,"","Baker",Accepted,,H,WCSP,305888,,"Gard. Chron.","n.s., 10: 492","","1878",
+kew-305889,A,Asparagaceae,,Eucomis,,"bifolia",,"","Jacq.",Synonym,,H,WCSP,305889,534990-1,"Collectanea","4: 215","","1790",kew-292161
+kew-305890,A,Asparagaceae,,Eucomis,,"clavata",,"","Baker",Synonym,,H,WCSP,305890,,"Refug. Bot.","4: t. 238","","1871",kew-305887
+kew-305891,A,Asparagaceae,,Eucomis,,"comosa",,"","(Houtt.) Wehrh.",Accepted,,H,WCSP,305891,534992-1,"Gartenstauden","1: 154","","1929",
+tro-18400594,A,Asparagaceae,,Eucomis,,"comosa",var.,"comosa","",Synonym,,L,TRO,18400594,,"","","","",kew-305891
+kew-305892,A,Asparagaceae,,Eucomis,,"humilis",,"","Baker",Accepted,,H,WCSP,305892,534993-1,"Bull. Misc. Inform. Kew","1895: 152","","1895",
+kew-305893,A,Asparagaceae,,Eucomis,,"jacquinii",,"","C.H.Wright",Unresolved,,L,WCSP,305893,534994-1,"Gard. Chron.","1903(2): 1","","1903",
+kew-305894,A,Asparagaceae,,Eucomis,,"macrophylla",,"","Baker",Synonym,,H,WCSP,305894,534995-1,"J. Linn. Soc., Bot.","13: 225","","1873",kew-305902
+kew-305895,A,Asparagaceae,,Eucomis,,"montana",,"","Compton",Accepted,,H,WCSP,305895,534996-1,"J. S. African Bot.","33: 293","","1967",
+kew-305896,A,Asparagaceae,,Eucomis,,"nana",,"","(Burm.f.) L'Hér.",Synonym,,H,WCSP,305896,534997-1,"Sert. Angl.","17","","1789",kew-305902
+kew-305897,A,Asparagaceae,,Eucomis,,"pallidiflora",,"","Baker",Accepted,,H,WCSP,305897,534998-1,"Gard. Chron.","1887(2): 154","","1887",
+kew-311259,A,Asparagaceae,,Eucomis,,"pallidiflora",subsp.,"pallidiflora","",Synonym,,L,WCSP,311259,,"Unknown","","","",kew-305897
+kew-309490,A,Asparagaceae,,Eucomis,,"pallidiflora",subsp.,"pole-evansii","(N.E.Br.) Reyneke ex J.C.Manning",Accepted,,L,WCSP,309490,60432044-2,"Edinburgh J. Bot.","60: 562","","2003 publ. 2004",
+kew-305898,A,Asparagaceae,,Eucomis,,"pillansii",,"","L.Guthrie",Synonym,,H,WCSP,305898,534999-1,"Ann. Bolus Herb.","3: 183","","1924",kew-305902
+tro-18402935,A,Asparagaceae,,Eucomis,,"pillansii",,"","Guth.",Accepted,,M,TRO,18402935,,"","","","",
+kew-305899,A,Asparagaceae,,Eucomis,,"pole-evansii",,"","N.E.Br.",Synonym,,H,WCSP,305899,535000-1,"Gard. Chron.","III, 63: 185","","1918",kew-309490
+kew-305900,A,Asparagaceae,,Eucomis,,"punctata",,"","L'Hér.",Synonym,,H,WCSP,305900,535001-1,"Sert. Angl.","18","","1789",kew-305891
+kew-310130,A,Asparagaceae,,Eucomis,,"punctata",var.,"concolor","Baker",Synonym,,L,WCSP,310130,,"Fl. Cap.","6: 475","","1896",kew-305891
+kew-310131,A,Asparagaceae,,Eucomis,,"punctata",var.,"striata","Ker Gawl.",Synonym,,L,WCSP,310131,,"Bot. Mag.","37: t. 1539","","1813",kew-305891
+kew-305901,A,Asparagaceae,,Eucomis,,"purpureocaulis",,"","Andrews",Synonym,,H,WCSP,305901,,"Bot. Repos.","6: t. 369","","1804",kew-305902
+kew-305902,A,Asparagaceae,,Eucomis,,"regia",,"","(L.) Aiton",Accepted,,H,WCSP,305902,535003-1,"Hort. Kew.","1: 433","","1789",
+kew-305903,A,Asparagaceae,,Eucomis,,"regia",,"","L'Hér.",Synonym,Illegitimate,H,WCSP,305903,535004-1,"Sert. Angl.","17","","1789",kew-305885
+kew-305904,A,Asparagaceae,,Eucomis,,"robusta",,"","Baker",Synonym,,H,WCSP,305904,,"Gard. Chron.","III, 16: 562","","1894",kew-305887
+kew-305905,A,Asparagaceae,,Eucomis,,"schijffii",,"","Reyneke",Accepted,,H,WCSP,305905,,"J. S. African Bot.","42: 361","","1976",
+kew-305906,A,Asparagaceae,,Eucomis,,"striata",,"","(Ker Gawl.) W.T.Aiton",Synonym,,H,WCSP,305906,,"Epit. Hortus Kew.","367","","1814",kew-305891
+kew-305907,A,Asparagaceae,,Eucomis,,"undulata",,"","Aiton",Synonym,,H,WCSP,305907,535008-1,"Hort. Kew.","1: 433","","1789",kew-305885
+kew-305908,A,Asparagaceae,,Eucomis,,"vandermerwei",,"","Verd.",Accepted,,H,WCSP,305908,535009-1,"Fl. Pl. South Africa","24: t. 955","","1944",
+kew-305909,A,Asparagaceae,,Eucomis,,"zambesiaca",,"","Baker",Accepted,,H,WCSP,305909,535012-1,"Gard. Chron.","n.s., 25: 9","","1886",

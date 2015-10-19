@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104534,A,Compositae,,Kalbfussia,,"algeriensis",,"","Pomel",Synonym,,M,TICA,52436D2B-459E-4AF5-BF8B-A3B64911C8F8,227156-1,"Nouv. Mat. Fl. All. 10.","","","1874",gcc-156723
+gcc-135009,A,Compositae,,Kalbfussia,,"cirtensis",,"","Pomel ex Batt. & Trab.",Unresolved,,L,TICA,7FE16822-D18F-44E1-9ED0-E9027D5E12F6,227158-1,"Fl. de l'Alger. [Dicot.] (1889) 540.","","[Dicot.]  540","1889",
+gcc-148323,A,Compositae,,Kalbfussia,,"cirtensis",,"","Pomel",Synonym,,M,TICA,FC973CB0-987C-4F27-94D5-404586268215,,"","","","",gcc-130041
+gcc-78381,A,Compositae,,Kalbfussia,,"hispidula",,"","Bég. & Vacc",Unresolved,,L,TICA,CD20BACB-91E2-4C4F-A137-6901FF8B4C6E,,"""in Ann. Bot., Roma, xiii. 33 (1911).""","","xiii. 33","1911",
+gcc-88697,A,Compositae,,Kalbfussia,,"hispidula",,"","(Delile) Bég. & A.Vacc.",Synonym,,M,TICA,2A1E9984-ABDA-473E-97AB-800A840DFAAD,,"","","33","1915",gcc-131362
+gcc-52700,A,Compositae,,Kalbfussia,,"hispidula",var.,"macrocephala","Bég. & Vacc.",Synonym,,L,TICA,526B3CEE-C592-412C-BC44-61B274D06C26,,"","","","",gcc-131362
+gcc-127232,A,Compositae,,Kalbfussia,,"kralikii",,"","Pomel",Synonym,,M,TICA,AB276006-2A81-41D9-95AF-D72A24B87CCE,227160-1,"","","11","1874",gcc-152969
+gcc-91787,A,Compositae,,Kalbfussia,,"muelleri",,"","Sch.Bip.",Synonym,,M,TICA,2DB54570-E956-4B98-8E96-872876DE0EF7,227161-1,"","","725","1833",gcc-130041
+gcc-96299,A,Compositae,,Kalbfussia,,"oranensis",,"","Pomel",Synonym,,M,TICA,7A4CFF96-6C82-4A40-A8EB-913AD6BB8B06,227162-1,"Nouv. Mat. Fl. Atl. 2: 268","","268","1875",gcc-156723
+gcc-123426,A,Compositae,,Kalbfussia,,"orientalis",,"","Jaub. & Spach",Synonym,Illegitimate,M,TICA,575B989C-8A1C-4FE6-94E5-CE4B640BA58F,227157-1,"Ill. Pl. Orient. 3: 117","","117","1850",gcc-131362
+gcc-50469,A,Compositae,,Kalbfussia,,"parvifolia",,"","Pomel",Synonym,,M,TICA,EFF066FD-F943-4676-B1E8-5D8F06FCCD0C,227163-1,"Nouv. Mat. Fl. Atl. 11.","","","1874",gcc-156723
+gcc-94735,A,Compositae,,Kalbfussia,,"reboudiana",,"","Pomel",Synonym,,M,TICA,432C8876-B68F-4BD7-972A-8DB9B320C3A5,227164-1,"Nouv. Mat. Fl. Atl. 268.","","","1875",gcc-156723
+gcc-37372,A,Compositae,,Kalbfussia,,"salzmannii",,"","Pomel",Unresolved,,L,TICA,8688AF77-0E9A-48AE-BD27-4542F2075EAC,,"Nouv. Mat. Fl. Atl. 1: 10","","268","1874",
+gcc-92783,A,Compositae,,Kalbfussia,,"salzmannii",,"","Sch.Bip.",Synonym,,M,TICA,DCC98DC0-0B8C-4236-B514-895D97D60356,227167-1,"","","724","1833",gcc-156723
+gcc-140747,A,Compositae,,Kalbfussia,,"simplex",,"","(Viv.) Illar.",Unresolved,,L,TICA,E2FBDC2F-DA0C-40A7-8D07-F5CA282098EC,227166-1,"""in Archiv. Bot., Forli, 1938, xiv. (n. s. iv.) 154.""","","xiv. (n. s. iv.) 154","1938",
+gcc-153087,A,Compositae,,Kalbfussia,,"simplex",,"","(Viv.) Illario",Synonym,,M,TICA,E7D674AD-0584-4CE4-8FDF-A6F739839AAB,,"Illario in Arch. Bot. (Forlì) 14. 1938","","154","1938",gcc-156800

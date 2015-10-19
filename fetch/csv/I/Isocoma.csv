@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11643,A,Compositae,,Isocoma,,"acradenia",,"","(Greene) Greene",Accepted,,M,TICA,8200BC00-F459-4195-B60C-15B5AA994D6A,130440-2,"","","111","1894",
+gcc-145773,A,Compositae,,Isocoma,,"acradenia",subsp.,"acradenia","",Synonym,,L,TICA,52195D67-F12A-46D2-9BBE-0A9AD78FDD6C,,"","","","",gcc-11643
+gcc-69774,A,Compositae,,Isocoma,,"acradenia",var.,"acradenia","",Synonym,,L,TICA,A00F1932-DC56-4F1D-A192-E8ED00D53A70,,"","","","",gcc-11643
+gcc-35926,A,Compositae,,Isocoma,,"acradenia",var.,"bracteosa","(Greene) G.L.Nesom",Accepted,,L,TICA,8C5B1FAD-B5B7-4A50-BB66-429DCFD76B56,966718-1,"","","81","1991",
+gcc-57299,A,Compositae,,Isocoma,,"acradenia",var.,"eremophila","(Greene) G.L.Nesom",Accepted,,L,TICA,488900A6-BF06-4967-BF2E-85447F81A0D0,966719-1,"","","82","1991",
+gcc-65915,A,Compositae,,Isocoma,,"acradenia",subsp.,"eremophila","(Greene) R.M.Beauch.",Synonym,,L,TICA,CB873638-B8C2-4C02-92F7-CAB525C86CC0,278908-2,"","","437","1986",gcc-57299
+gcc-102963,A,Compositae,,Isocoma,,"arguta",,"","Greene",Accepted,,M,TICA,DDA47B87-A461-4B50-B3C5-A042FFC2FD80,278910-2,"Man. Bot. San Francisco 175. 1894","","175","1894",
+gcc-110719,A,Compositae,,Isocoma,,"azteca",,"","G.L.Nesom",Accepted,,M,TICA,E53B1DA7-B50D-4AEF-B254-B18C6B093536,278911-2,"","","84","1991",
+gcc-120092,A,Compositae,,Isocoma,,"bracteosa",,"","Greene",Synonym,,M,TICA,5A15E1CD-FF05-4D56-BE6B-C6B08FA90518,278912-2,"Leafl. Bot. Observ. Crit. 1: 170. 1906","","170","1906",gcc-35926
+gcc-87345,A,Compositae,,Isocoma,,"coronopifolia",,"","(A.Gray) Greene",Accepted,,M,TICA,F0F25C57-CD13-4AD0-979F-7D11EF6F9C99,130443-2,"","","111","1894",
+gcc-63519,A,Compositae,,Isocoma,,"coronopifolia",var.,"coronopifolia","",Synonym,,L,TICA,659D6F50-0402-4F34-9C4D-B7741F5C3070,,"","","","",gcc-87345
+gcc-53616,A,Compositae,,Isocoma,,"coronopifolia",var.,"pedicellata","(Greene) G.L.Nesom",Synonym,,L,TICA,1BC66D41-9E89-4844-BFC4-678D9FBCEBE1,966720-1,"","","87","1991",gcc-87345
+gcc-108733,A,Compositae,,Isocoma,,"decumbens",,"","Greene ex C.F.Baker",Unresolved,,L,TICA,ABE735E5-847E-4CF3-80F6-AD01106684C3,130444-2,"""West Amer. Pl. 2: 12. 1903 Greene, Leaflets Bot. Obs. & Crit. 1: 172.  1906""","","12","1903",
+gcc-45806,A,Compositae,,Isocoma,,"decumbens",,"","Greene",Synonym,,M,TICA,E18CEEE2-55F3-425C-AAF4-54ED69079151,,"Leafl. Bot. Observ. Crit. i. 172 (1906).","","","1906",gcc-54684
+gcc-105010,A,Compositae,,Isocoma,,"drummondii",,"","(Torr. & A.Gray) Greene",Accepted,,M,TICA,3D145A86-DE26-4779-BFD0-A4BA8FB6B970,130445-2,"","","111","1894",
+gcc-10697,A,Compositae,,Isocoma,,"eremophila",,"","Greene",Synonym,,M,TICA,D925DAE5-960D-404E-8B1B-140385D2BE6F,278914-2,"Leafl. Bot. Observ. Crit. 1: 171. 1906","","171","1906",gcc-57299
+gcc-124442,A,Compositae,,Isocoma,,"felgeri",,"","G.L.Nesom",Accepted,,M,TICA,AC763613-6EB8-4E67-910B-D0B380EB8FFE,278915-2,"","","89","1991",
+gcc-141957,A,Compositae,,Isocoma,,"fruticosa",,"","Rose & Standl.",Synonym,,M,TICA,DCD19322-F3DE-4D83-B98F-F89481AD188B,130447-2,"","","""18, pl. 13""","1912",gcc-52257
+gcc-104232,A,Compositae,,Isocoma,,"gypsophila",,"","B.L.Turner",Accepted,,M,TICA,E50AB096-45F2-47C4-A348-A30C9451BB5C,130448-2,"","","24","1972",
+gcc-144037,A,Compositae,,Isocoma,,"halophytica",,"","B.L.Turner",Synonym,,L,TICA,110D9E49-B920-46E9-BCAA-FD3878EE167E,130449-2,"","","23","1972",gcc-113741
+gcc-144392,A,Compositae,,Isocoma,,"hartwegii",,"","(A.Gray) Greene",Accepted,,M,TICA,49D6C970-4623-440C-9822-FDF8609AA1CF,130450-2,"","","111","1894",
+gcc-3018,A,Compositae,,Isocoma,,"heterophylla",,"","(A.Gray) Greene",Synonym,,L,TICA,FEF259DE-8C88-4DB1-A15C-05969B1C0705,130451-2,"","","111","1894",gcc-113741
+gcc-94053,A,Compositae,,Isocoma,,"hirtella",,"","(A.Gray) A.Heller",Synonym,,L,TICA,00BC845B-6A11-4F14-B4F3-8C18299AAEB8,130452-2,"","","6","1900",gcc-113741
+gcc-138209,A,Compositae,,Isocoma,,"humilis",,"","G.L.Nesom",Accepted,,M,TICA,FF4DF658-5C6D-4036-9874-F02108CE7789,307896-2,"Phytologia 70: 92. 1991","","92","1991",
+gcc-126475,A,Compositae,,Isocoma,,"latifolia",,"","Greene",Synonym,,M,TICA,4E8CBD5E-1DDA-4525-8BAB-D56C384A7297,130453-2,"","","172","1906",gcc-18688
+gcc-106794,A,Compositae,,Isocoma,,"leucanthemifolia",,"","Greene",Synonym,,M,TICA,3BFF965D-A21A-4624-B9A7-A8A0986EE858,278917-2,"Leafl. Bot. Observ. Crit. 1: 171. 1906","","171","1906",gcc-18688
+gcc-3893,A,Compositae,,Isocoma,,"limitanea",,"","Rose & Standl.",Synonym,,M,TICA,3E7E6ECA-652C-4A1C-9916-073C58A426FD,130455-2,"","","""18, pl. 14""","1912",gcc-11643
+gcc-97224,A,Compositae,,Isocoma,,"megalantha",,"","Shinners",Synonym,,M,TICA,F099FA16-1D3B-48B3-914F-935CA9E2F057,,"","","","1955",gcc-105010
+gcc-77882,A,Compositae,,Isocoma,,"menziesii",,"","(Hook. & Arn.) G.L.Nesom",Accepted,,M,TICA,646D9037-A5AC-4887-9D92-67D54382EC80,962494-1,"","","93","1991",
+gcc-54684,A,Compositae,,Isocoma,,"menziesii",var.,"decumbens","(Greene) G.L.Nesom",Accepted,,L,TICA,5EF46DD5-EE60-42B5-AFBB-6FF92BFAE6AD,966721-1,"Phytologia 70(2): 95 (1991):.","","95","1991",
+gcc-66883,A,Compositae,,Isocoma,,"menziesii",var.,"menziesii","",Synonym,,L,TICA,41026107-D688-426C-95B3-D2769697C2E0,,"","","","1991",gcc-77882
+gcc-32823,A,Compositae,,Isocoma,,"menziesii",var.,"sedoides","(Greene) G.L.Nesom",Accepted,,L,TICA,E3C3B09F-9435-4267-B07F-3CE028D34468,966722-1,"","","99","1991",
+gcc-27840,A,Compositae,,Isocoma,,"menziesii",var.,"tridentata","(Greene) G.L.Nesom",Accepted,,L,TICA,1DACBEAC-5F67-41A0-865B-3375FD7243B4,278921-2,"","","100","1991",
+gcc-18688,A,Compositae,,Isocoma,,"menziesii",var.,"vernonioides","(Nutt.) G.L.Nesom",Accepted,,L,TICA,1A5B828A-00AD-4CAD-A255-2284E66D66CD,278922-2,"Phytologia 70","","101","1991",
+gcc-33952,A,Compositae,,Isocoma,,"microdonta",,"","Greene",Synonym,,M,TICA,5E5609AD-B30C-4BDD-98F9-3EF77522CD9C,278923-2,"Leafl. Bot. Observ. Crit. 1: 171. 1906","","171","1906",gcc-18688
+gcc-20370,A,Compositae,,Isocoma,,"oxylepis",,"","Wooton & Standl.",Synonym,,L,TICA,C2111B3E-BE5D-43CC-B829-25AA47A12EDF,130458-2,"","","180","1913",gcc-113741
+gcc-103960,A,Compositae,,Isocoma,,"oxyphylla",,"","Greene",Synonym,,M,TICA,68BF3E89-63F9-49F1-9C74-A26E93C743A2,278924-2,"Leafl. Bot. Observ. Crit. 1: 171. 1906","","171","1906",gcc-77882
+gcc-130165,A,Compositae,,Isocoma,,"palmeri",,"","(A.Gray) Shinners",Synonym,,M,TICA,A8C112CA-9581-4B3A-B403-DDE90D51D276,130460-2,"","","27","1950",gcc-4750
+gcc-4044,A,Compositae,,Isocoma,,"pedicellata",,"","Greene",Synonym,,M,TICA,A2D81F1B-8E88-459F-AB28-0783F8D3429B,278925-2,"Leafl. Bot. Observ. Crit. 1: 170. 1906","","170","1906",gcc-87345
+gcc-113741,A,Compositae,,Isocoma,,"pluriflora",,"","(Torr. & A.Gray) Greene",Accepted,,L,TICA,B12D2FA9-5F65-4B3A-AE44-B84D980E21ED,130462-2,"","","111","1894",
+gcc-141795,A,Compositae,,Isocoma,,"reneta",,"","(Kunth) Greene",Unresolved,,L,TICA,EA731B1B-4899-42DC-B125-F838A70DD903,,"","","","",
+gcc-116776,A,Compositae,,Isocoma,,"rusbyi",,"","Greene",Accepted,,M,TICA,9FEE001E-2DAC-40CF-A8CC-BF308DE700C4,278926-2,"Leafl. Bot. Observ. Crit. 1: 170. 1906","","170","1906",
+gcc-51366,A,Compositae,,Isocoma,,"scopulorum",,"","(M.E.Jones) Rydb.",Unresolved,,L,TICA,38E990E2-8E87-4113-8712-5F476A05F483,226296-1,"Fl. Rocky Mts.","","","1917",gcc-89424
+gcc-109667,A,Compositae,,Isocoma,,"sedoides",,"","(Greene) Greene",Synonym,,M,TICA,816D25D4-00FD-4F1D-9680-AF2B28A4F6C6,1021317-2,"Leafl. Bot. Observ. Crit. 1: 172. 1906","","172","1906",gcc-32823
+gcc-99929,A,Compositae,,Isocoma,,"tehuacana",,"","G.L.Nesom",Unresolved,,L,TICA,FD40D004-1C63-4584-B37F-99770F235D14,278927-2,"","","107","1991",
+gcc-52257,A,Compositae,,Isocoma,,"tenuisecta",,"","Greene",Accepted,,M,TICA,F74CA22F-13FF-4FF5-8E8A-60EB0C1C28E1,,"","","","1906",
+gcc-100235,A,Compositae,,Isocoma,,"tomentosa",,"","G.L.Nesom",Accepted,,M,TICA,EE061F4D-FA2B-4E86-9CA2-9A2912BBF65A,278928-2,"","","109","1991",
+gcc-102399,A,Compositae,,Isocoma,,"tridentata",,"","(Greene) Greene",Synonym,,M,TICA,16D8368F-38B0-4183-896A-9F0A48A62173,1096727-2,"Erythea 2: 111. 1894","","111","1894",gcc-27840
+gcc-32395,A,Compositae,,Isocoma,,"veneta",,"","(Kunth) Greene",Accepted,,M,TICA,BB8D083E-F9AC-44D7-BCE0-3C0D58BA421B,226300-1,"","","111","1894",
+gcc-59307,A,Compositae,,Isocoma,,"veneta",var.,"acradenia","(Greene) H.M.Hall",Synonym,,L,TICA,F3A35EBD-37C3-49C5-AE97-95595AD8B416,130471-2,"Univ. Calif. Publ. Bot. 3: 64. 1907","","64","1907",gcc-11643
+gcc-1599,A,Compositae,,Isocoma,,"veneta",var.,"arguta","(Greene) Jeps.",Synonym,,L,TICA,91BB2121-3EB9-4920-BBF6-02E061BCB466,130468-2,"Fl. W. Calif.","","560","1901",gcc-102963
+gcc-59653,A,Compositae,,Isocoma,,"veneta",var.,"furfuracea","(Greene) R.M.Beauch.",Synonym,,L,TICA,27111FC3-DC09-4E27-ACC3-9829638C6BB3,278929-2,"","","438","1986",gcc-54684
+gcc-37157,A,Compositae,,Isocoma,,"veneta",var.,"oxyphylla","(Greene) R.M.Beauch.",Synonym,,L,TICA,27C1DC96-1B49-481A-9D27-44D770FE880D,278930-2,"","","438","1986",gcc-77882
+gcc-32945,A,Compositae,,Isocoma,,"veneta",var.,"sedoides","(Greene) Jeps.",Synonym,,L,TICA,4F429E21-CF1A-47CD-8B5E-3D16E61F278A,130473-2,"Man. Fl. Pl. Calif. 1029. 1925","","1029","1925",gcc-32823
+gcc-157094,A,Compositae,,Isocoma,,"veneta",var.,"veneta","",Synonym,,L,TICA,58D1DB69-A95A-4E23-86E1-FAA1393B2488,,"","","","",gcc-32395
+gcc-46111,A,Compositae,,Isocoma,,"veneta",var.,"vernonioides","(Nutt.) Jeps.",Synonym,,L,TICA,A6D58F88-AF5A-4461-9975-5579399C900F,1177193-2,"Fl. W. Calif. 560. 1901","","560","1901",gcc-18688
+gcc-6623,A,Compositae,,Isocoma,,"vernonioides",,"","Nutt.",Synonym,,M,TICA,25A35857-FE38-436F-9CD8-0C48E3E3115A,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 320""","","320","1840",gcc-18688
+gcc-135654,A,Compositae,,Isocoma,,"villosa",,"","Greene",Synonym,,M,TICA,43725FC4-2EE2-4CAB-9201-EA734DF71CFD,278932-2,"Leafl. Bot. Observ. Crit. 1: 172. 1906","","172","1906",gcc-18688
+gcc-78910,A,Compositae,,Isocoma,,"wrightii",,"","(A.Gray) Wooton & Standl.",Unresolved,Illegitimate,L,TICA,EBA6F040-3E17-458E-A65A-6A3F8BA51771,226304-1,"Contr. U.S. Natl. Herb. xvi. 181 (1913)","","181","1913",gcc-113741
+gcc-98399,A,Compositae,,Isocoma,,"wrightii",,"","(A.Gray) Rydb.",Synonym,,L,TICA,2E20B9AE-4858-4172-8EE4-960900149CE0,130476-2,"","","152","1906",gcc-113741

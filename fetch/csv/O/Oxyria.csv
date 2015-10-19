@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2395366,A,Polygonaceae,,Oxyria,,"acida",,"","R.Br. ex Lindl.",Unresolved,,L,WCSP (in review),,927768-1,"Encycl. Pl.","294","","1829",
+kew-2396531,A,Polygonaceae,,Oxyria,,"acida",,"","R.Br. ex Hook. & Arn.",Unresolved,,L,WCSP (in review),,694857-1,"Brit. Fl.","ed. 6: 360","","1850",
+kew-2396530,A,Polygonaceae,,Oxyria,,"caucasica",,"","Chrtek & Šourková",Unresolved,,L,WCSP (in review),,968808-1,"Preslia","64: 209","","1992 publ. 1993",
+kew-2396529,A,Polygonaceae,,Oxyria,,"digyna",,"","(L.) Hill",Accepted,,M,WCSP (in review),,694858-1,"Hort. Kew.","158","","1768",
+tro-50250784,A,Polygonaceae,,Oxyria,,"digyna",f.,"elatior","R. Br. ex Meisn.",Synonym,,L,TRO,50250784,,"","","","",kew-2396529
+tro-26002198,A,Polygonaceae,,Oxyria,,"elatior",,"","R. Br. ex Meissn.",Synonym,,M,TRO,26002198,,"Pl. Asiat. Rar.","3: 64","64","1832",kew-2396529
+tro-50136003,A,Polygonaceae,,Oxyria,,"mairei",,"","H. Lév.",Synonym,,M,TRO,50136003,694861-1,"Repert. Spec. Nov. Regni Veg.","12(325–330): 286","286","1913",tro-50039562
+tro-50136002,A,Polygonaceae,,Oxyria,,"reniformis",,"","Hook.",Synonym,,M,TRO,50136002,,"Fl. Scot.","3: 111","111","1821",kew-2396529
+tro-50250785,A,Polygonaceae,,Oxyria,,"reniformis",var.,"elatior","Regel",Synonym,,L,TRO,50250785,,"","","","",kew-2396529
+kew-2399607,A,Polygonaceae,,Oxyria,,"rotundifolia",,"","Gray",Unresolved,,L,WCSP (in review),,694863-1,"Nat. Arr. Brit. Pl.","2: 277","","1821",
+tro-50039562,A,Polygonaceae,,Oxyria,,"sinensis",,"","Hemsl.",Accepted,,M,TRO,50039562,694864-1,"J. Linn. Soc., Bot.","29(202): 317, pl. 33","317","1892",

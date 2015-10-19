@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-434962,A,Poaceae,,Pleuropogon,,"californicus",,"","(Nees) Benth. ex Vasey",Accepted,,H,WCSP,434962,416397-1,"Grass. U.S.","40","","1883",
+tro-25560969,A,Poaceae,,Pleuropogon,,"californicus",var.,"californicus","",Synonym,,L,TRO,25560969,,"","","","",kew-434962
+kew-434963,A,Poaceae,,Pleuropogon,,"californicus",var.,"davyi","(L.D.Benson) But",Synonym,,L,WCSP,434963,976496-1,"Novon","4: 17","","1994",kew-434964
+kew-434964,A,Poaceae,,Pleuropogon,,"davyi",,"","L.D.Benson",Accepted,,H,WCSP,434964,309014-2,"Amer. J. Bot.","28: 360","","1941",
+kew-434965,A,Poaceae,,Pleuropogon,,"douglasii",,"","Trin. ex Steud.",Synonym,Invalid,H,WCSP,434965,,"Nomencl. Bot.","ed. 2, 2: 355","","1841",kew-434962
+kew-434966,A,Poaceae,,Pleuropogon,,"hooverianus",,"","(L.D.Benson) Howell",Accepted,,H,WCSP,434966,,"Leafl. W. Bot.","4: 247","","1946",
+kew-434967,A,Poaceae,,Pleuropogon,,"oregonus",,"","Chase",Accepted,,H,WCSP,434967,283288-2,"J. Wash. Acad. Sci.","28: 52","","1938",
+kew-434968,A,Poaceae,,Pleuropogon,,"refractus",,"","(Gray) Benth. ex Vasey",Accepted,,H,WCSP,434968,416402-1,"Grass. U.S.","40","","1883",
+kew-434969,A,Poaceae,,Pleuropogon,,"refractus",var.,"hooverianus","G.T.Benson",Synonym,,L,WCSP,434969,,"Amer. J. Bot.","28: 360","","1941",kew-434966
+tro-50113730,A,Poaceae,,Pleuropogon,,"refractus",var.,"refractus","",Synonym,,L,TRO,50113730,,"","","","",kew-434968
+kew-434970,A,Poaceae,,Pleuropogon,,"sabinei",,"","R.Br.",Accepted,,H,WCSP,434970,416403-1,"Chlor. Melvill.","31","","1823",
+kew-434971,A,Poaceae,,Pleuropogon,,"sabinei",f.,"aquaticus","Simmons",Synonym,,L,WCSP,434971,202225-2,"Vasc. Pl. Ellesmereland","170","","1906",kew-434970
+kew-434973,A,Poaceae,,Pleuropogon,,"sabinei",var.,"elatior","Hook.",Synonym,,L,WCSP,434973,202226-2,"Fl. Bor.-Amer.","2: 249","","1840",kew-434970
+kew-434974,A,Poaceae,,Pleuropogon,,"sabinei",var.,"humilior","Hook.",Synonym,,L,WCSP,434974,202227-2,"Fl. Bor.-Amer.","2: 249","","1840",kew-434970
+tro-25560962,A,Poaceae,,Pleuropogon,,"sabinei",var.,"sabinei","",Synonym,,L,TRO,25560962,,"","","","",kew-434970
+tro-25560964,A,Poaceae,,Pleuropogon,,"sabinei",f.,"sabinei","",Synonym,,L,TRO,25560964,,"","","","",kew-434970
+kew-434972,A,Poaceae,,Pleuropogon,,"sabinei",f.,"terrestris","Simmons",Synonym,,L,WCSP,434972,202228-2,"Vasc. Pl. Ellesmereland","170","","1906",kew-434970

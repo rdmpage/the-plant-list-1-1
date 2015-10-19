@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2813190,A,Acanthaceae,,Fittonia,,"albivenis",,"","(Lindl. ex Veitch) Brummitt",Accepted,,M,WCSP (in review),,105033-2,"Bot. Mag.","182: 165","","1979",
+kew-2813191,A,Acanthaceae,,Fittonia,,"argyroneura",,"","Coem.",Synonym,,M,WCSP (in review),,,"Ann. Gén. Hort.","16: 103","","1866",kew-2813190
+kew-2813192,A,Acanthaceae,,Fittonia,,"gigantea",,"","Linden",Accepted,,M,WCSP (in review),,48995-1,"Rev. Hort.","41: 186","","1869",
+kew-2813193,A,Acanthaceae,,Fittonia,,"pearcei",,"","(Veitch) Verschaff.",Unresolved,,L,WCSP (in review),,,"Cat. Etabl. Hort. Ambr. Verschaffelt","82: 5","","1868",
+kew-2813194,A,Acanthaceae,,Fittonia,,"verschaffeltii",,"","(Lem.) Van Houtte",Synonym,,M,WCSP (in review),,,"J. Gén. Hort.","15: 186","","1865",kew-2813190
+tro-104564,A,Acanthaceae,,Fittonia,,"verschaffeltii",var.,"argyroneura","(Coem.) Regel",Synonym,,L,TRO,104564,,"","","","",kew-2813190
+tro-104565,A,Acanthaceae,,Fittonia,,"verschaffeltii",f.,"argyroneura","(Coem.) Voss",Synonym,,L,TRO,104565,,"","","","",kew-2813190
+tro-50039519,A,Acanthaceae,,Fittonia,,"verschaffeltii",var.,"pearsei","G. Nicholson",Synonym,,L,TRO,50039519,,"","","","",kew-2791833

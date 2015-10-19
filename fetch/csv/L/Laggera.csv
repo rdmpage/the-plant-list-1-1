@@ -1,0 +1,59 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-148176,A,Compositae,,Laggera,,"alata",,"","Nanth.",Accepted,,M,TICA,EBCE6556-7E3D-4F34-8559-3CE229633FF2,,"","","","",
+gcc-46093,A,Compositae,,Laggera,,"alata",,"","(D.Don) Sch.Bip. ex Oliv.",Unresolved,,L,TICA,4B48E6EF-709E-4628-88A3-5571F72E4656,228460-1,"Trans. Linn. Soc. 39 (1873)","","94","1873",
+gcc-19312,A,Compositae,,Laggera,,"alata",var.,"alata","",Synonym,,L,TICA,B60961C4-E62E-4634-984F-23B1F70F45B8,,"","","","",gcc-46093
+gcc-67324,A,Compositae,,Laggera,,"alata",var.,"angustifolia","(Hayata) Yamam.",Synonym,,L,TICA,B9D58999-7B39-4F25-9A47-D64C9384903B,,"Journal of the Society of Tropical Agriculture 9:","","84","1937",gcc-46093
+gcc-32084,A,Compositae,,Laggera,,"alata",var.,"dentata","S.Moore",Synonym,,L,TICA,4F0A437D-7DCA-449F-BCF9-3B6A46C78CE1,,"""Journal of the Linnean Society, Botany 38:""","","260","1908",gcc-46093
+gcc-32465,A,Compositae,,Laggera,,"alata",var.,"montana","C.D.Adams",Synonym,,L,TICA,378C5615-9788-43A3-B631-3C336A5743C0,,"Journ. West. Afric. Sc. Assoc. 6: 150-151 (1960)","","150","1961",gcc-3251
+gcc-67134,A,Compositae,,Laggera,,"alata",var.,"salvifolia","(Bory) Humbert",Synonym,,L,TICA,37658FFD-C450-4FB6-83BF-D485BA0E52F5,,"Memoires de la Societe Linneenne de Normandie 25:","","58","1923",gcc-36191
+gcc-112194,A,Compositae,,Laggera,,"angustifolia",,"","Hayata",Synonym,,L,TICA,1ADE3987-CBFC-4FA3-AD87-B4DAC5D24185,,"Icon. Pl. Formosan. 8: 54","","","1919",gcc-46093
+gcc-15439,A,Compositae,,Laggera,,"appendiculata",,"","C.D.Adams",Unresolved,Illegitimate,L,TICA,E95078D5-CE0D-404D-B54F-1C924A552CE7,,"Journal of the West African Science Association 3:","","115","1961",
+gcc-85469,A,Compositae,,Laggera,,"appendiculata",,"","Robyns",Synonym,,M,TICA,F673C020-D91C-4635-B937-78C12498B8B1,,"in Bull. Jard. Bot. Brux. xvii. 100 (1943).","","","",gcc-133822
+gcc-122623,A,Compositae,,Laggera,,"arabica",,"","(Willd.) Deflers",Synonym,,M,TICA,C162378F-31BE-4F21-ACD2-CC6DAC3DF780,228462-1,"","","","1889",gcc-76952
+gcc-143455,A,Compositae,,Laggera,,"arida",,"","C.B.Clarke",Synonym,,M,TICA,9A9707D7-C4D3-465F-BCFF-FBF12D35DF30,228464-1,"Comp. Ind. 92.","","92","",gcc-145030
+tro-2702800,_,,,Laggera,,"aurita",,"","Sch. Bip.",Unresolved,,L,TRO,2702800,,"","","","",
+gcc-127252,A,Compositae,,Laggera,,"aurita",,"","(DC.) Sch.Bip. ex Schweinf.",Accepted,,M,TICA,EF56F35B-3F82-46E6-8EEB-D7325A773ACE,228467-1,"Beitr. Fl. Aethiop. 151. 1867","","151","1867",
+gcc-150834,A,Compositae,,Laggera,,"aurita",,"","(L.f.) Benth. ex C.B.Clarke",Synonym,,M,TICA,4F90CE67-AAC1-4022-B7EF-7730200DDCDB,228466-1,"","","92","1876",gcc-146569
+gcc-50754,A,Compositae,,Laggera,,"aurita",,"","(L.f.) Sch.Bip. ex Vatke",Unresolved,,L,TICA,DEA1174A-632E-4E03-A6B4-5E1F4385A0D5,,"Oesterr. Bot. Zeitschr. 25 (1875)","","325","1875",
+gcc-83086,A,Compositae,,Laggera,,"aurita",,"","(L.f.) Sch.Bip.",Unresolved,Illegitimate,L,TICA,04785216-F472-4C61-AAF5-7385B375D243,,"Tentamen Florae Abyssinicae . . .","","393","1848",
+gcc-6954,A,Compositae,,Laggera,,"braunii",,"","Vatke",Synonym,,M,TICA,3E7AC9B6-E9D2-47D1-9628-0CEF1F5462F0,228468-1,"Linnaea 39: 486. 1875","","486","1875",gcc-135312
+gcc-96492,A,Compositae,,Laggera,,"brevipes",,"","Oliv. & Hiern",Synonym,,M,TICA,E925094A-A419-48EE-A45E-91B04C68A03B,228469-1,"Fl. Trop. Afr. [Oliver et al.] 3: 327","","327","1877",gcc-133822
+gcc-43518,A,Compositae,,Laggera,,"crassifolia",,"","Sch.Bip. ex Hochst.",Unresolved,Illegitimate,L,TICA,317E0EFB-FAE5-4074-B069-50AE11E1A516,228470-1,"""in Flora, xxiv. (1841) I. Intell. 26.""","","","1841",
+gcc-49274,A,Compositae,,Laggera,,"crispata",,"","(Vahl) Hepper & J.R.I.Wood",Accepted,,M,TICA,F1D73CF6-102B-4942-A80C-5B41844ECAD8,912744-1,"Kew Bull. 38(1): 83. 1983","","83","1983",
+gcc-76952,A,Compositae,,Laggera,,"decurrens",,"","(Vahl) Hepper & J.R.I.Wood",Accepted,,M,TICA,9D6F5E71-4AE9-46CD-9E1D-65C45F26C4BE,912745-1,"","","84","1983",
+gcc-109151,A,Compositae,,Laggera,,"dinteri",,"","Thell. ex Merxm.",Synonym,,M,TICA,653DFA8E-B4C2-4151-AF0A-ADFF7C2995B6,,"","","","",gcc-99724
+gcc-23839,A,Compositae,,Laggera,,"divaricata",,"","Oliv. & Hiern",Unresolved,,L,TICA,173D04F6-CB96-44CE-9F66-2C1246C6E8B2,228471-1,"Fl. Trop. Afr. [Oliver et al.] 3: 325","","325","1877",
+gcc-111647,A,Compositae,,Laggera,,"elatior",,"","R.E.Fr.",Synonym,,M,TICA,296C1015-1289-42E9-B231-B394E015806D,,"Acta Horti Berg. ix. 129 (1928).","","129","",gcc-19948
+gcc-30374,A,Compositae,,Laggera,,"falcata",,"","DC.",Unresolved,,L,TICA,84103032-7C37-49D0-AC73-3830DC8A9E15,,"","","","",
+gcc-37892,A,Compositae,,Laggera,,"falcata",,"","(D.Don) Kuntze",Synonym,,M,TICA,E4CA3BCA-8399-45AE-B4C1-46481364ED26,228473-1,"","","350","1891",gcc-8417
+gcc-146856,A,Compositae,,Laggera,,"flava",,"","(DC.) C.B.Clarke",Synonym,,M,TICA,1F6A7504-F82C-4304-BC23-211883F91A70,,"Compos. Ind. 90. 1876   ","","90","1876",gcc-8417
+gcc-26550,A,Compositae,,Laggera,,"flava",,"","(DC.) Benth. & Hook.f.",Synonym,,M,TICA,41FE983A-CEF8-4322-8873-3110DFA1667F,,"","","","",gcc-8417
+gcc-133387,A,Compositae,,Laggera,,"gariepina",,"","(DC.) Randeria",Synonym,Illegitimate,M,TICA,AB4C40D5-D167-49E2-BC8C-E565CC3B2804,,"Blumea 10:","","298","1960",gcc-76952
+gcc-115889,A,Compositae,,Laggera,,"gracilis",,"","(O.Hoffm. & Muschl.) C.D.Adams",Synonym,,M,TICA,0A1C9F00-DEBD-47FF-A923-BD33D1DC0C15,228475-1,"in Journ. W. Afr. Sci. Assoc. vi. 151 (1961)","","151","1961",gcc-140514
+gcc-97062,A,Compositae,,Laggera,,"heteromalla",,"","Vatke",Synonym,,M,TICA,9B6888E8-15E5-46FF-8062-93023654934B,228476-1,"Linnaea 39: 487. 1875","","487","1875",gcc-93492
+gcc-105119,A,Compositae,,Laggera,,"heudelotii",,"","C.D.Adams",Synonym,,M,TICA,5F819BD2-33CC-4F31-82B7-A4EDF1CE05AE,228477-1,"in Journ. W. Afr. Sci. Assoc. vi. 151 (1961)","","151","1961",gcc-122169
+gcc-2845,A,Compositae,,Laggera,,"humilis",,"","O.Hoffm.",Synonym,,M,TICA,0C03237B-191A-4220-94BF-053F1704EAF4,228478-1,"in Warb. Kunene-Sambesi Exped. 409.","","409","",gcc-27672
+gcc-128777,A,Compositae,,Laggera,,"intermedia",,"","C.B.Clarke",Accepted,,M,TICA,E0949E4C-BD8C-47BB-9FC3-DACA11AE8641,77117650-1,"Compositae Indica","","91","",
+gcc-40239,A,Compositae,,Laggera,,"lecomteana",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,74E8F4BA-9D1C-4835-B0F9-4A9CFBBB5F4E,228479-1,"Bull. Soc. Bot. France 57(Mém. 8c): 114","","114","1910",gcc-14547
+gcc-7173,A,Compositae,,Laggera,,"lyrata",,"","(Kunth) Leins",Synonym,,M,TICA,4720CBE9-3133-41D8-B7B2-0D5A0B9E69CA,,"","","","1971",gcc-146569
+gcc-111854,A,Compositae,,Laggera,,"macrorhiza",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,B60F691D-24E5-49E4-AC02-B41A38987E36,228481-1,"Bull. Soc. Bot. France 57(Mém. 8c): 114","","114","1910",gcc-137326
+gcc-122473,A,Compositae,,Laggera,,"makarikariensis",,"","Bremek. & Oberm.",Synonym,,M,TICA,3FFC316C-E8A1-4F92-952B-CC1B37D35CA3,,"Ann. Transvaal Mus. xvi. 439 (1935).","","439","",gcc-69893
+tro-2718880,A,Compositae,,Laggera,,"makarikariensis",,"","Nann.-Bremek. & Oberm.",Synonym,,M,TRO,2718880,228482-1,"Ann. Transvaal Mus.","16: 439","439","1935",gcc-69893
+gcc-129775,A,Compositae,,Laggera,,"musra",,"","Benth. & Hook.f.",Unresolved,,L,TICA,C6E90D44-29F7-4EF3-A34E-DD0B8F8EBF4D,,"Gen. 290.","","290","",
+gcc-40678,A,Compositae,,Laggera,,"oblonga",,"","Oliv. & Hiern",Synonym,,M,TICA,7F555558-414F-4A1C-B830-4B644D67ACC6,228484-1,"Fl. Trop. Afr. [Oliver et al.] 3: 327","","327","1877",gcc-137326
+gcc-33461,A,Compositae,,Laggera,,"oloptera",,"","(DC.) C.D.Adams",Synonym,,M,TICA,08A7FAD1-E64F-4808-8E56-3E0DC5FB7C0C,228485-1,"in Journ. W. Afr. Sci. Assoc. vi. 152 (1961)","","152","1961",gcc-137326
+gcc-10804,A,Compositae,,Laggera,,"pappii",,"","Gand.",Accepted,,M,TICA,34097BAD-1A4F-47D1-9B81-143A38922794,,"","","","",
+gcc-23690,A,Compositae,,Laggera,,"petitiana",,"","(A.Rich.) Sch.Bip.",Unresolved,,L,TICA,046DF3BC-7859-48FB-BF09-2BCBF61C9F56,,"","","","",
+gcc-23512,A,Compositae,,Laggera,,"pterodonta",,"","(DC.) Sch.Bip. ex Oliv.",Accepted,,M,TICA,0F3E784E-7A9E-4DAC-BC45-2B8037516C09,228486-1,"Trans. Linn. Soc. 39 (1873)","","94","1873",
+gcc-78375,A,Compositae,,Laggera,,"pterodonta",,"","(DC.) Benth.",Synonym,Illegitimate,M,TICA,E447BA4D-FCA2-4938-BEAD-68FF8B565E7C,,"Genera Plantarum 2:","","290","1873",gcc-23512
+gcc-98677,A,Compositae,,Laggera,,"purpurascens",,"","Sch.Bip.",Synonym,Invalid,M,TICA,29AC692A-969B-4D27-8379-96A2C06E44D7,,"""in Flora, xxiv. ([841) I. Intell. 26.""","","","",gcc-49274
+kew-2906200,A,Compositae,,Laggera,,"purpurascens",,"","Sch.Bip. ex Hochst.",Synonym,Invalid,M,WCSP (in review),,228487-1,"Flora","24: 26","","1841",gcc-49274
+gcc-121535,A,Compositae,,Laggera,,"salvifolia",,"","Sch.-Bip. ex Hochst.",Unresolved,,L,TICA,65E15899-14DF-4D7A-9EB6-CA01467A2A08,,"","","","",
+gcc-102632,A,Compositae,,Laggera,,"senecionidea",,"","Benth. & Hook.f.",Unresolved,,L,TICA,4A650BC3-746F-4769-9A19-9F924F319206,228488-1,"Gen. ii. 290.","","ii. 290","",
+gcc-1499,A,Compositae,,Laggera,,"somaliensis",,"","Thell.",Accepted,,M,TICA,F6307356-BBB4-4D82-AC81-02B2BA88913E,,"","","","",
+gcc-101898,A,Compositae,,Laggera,,"sordida",,"","Vatke",Synonym,,M,TICA,71EAEBB5-9561-405F-BC43-9DD1581A089F,228489-1,"Oesterr. Bot. Z. 25: 325","","325","1875",gcc-124513
+gcc-40569,A,Compositae,,Laggera,,"squarrosa",,"","Oliv. & Hiern",Unresolved,,L,TICA,12E28C68-C1A3-4898-A830-4B315048443A,228490-1,"Fl. Trop. Afr. [Oliver et al.] 3: 325","","325","1877",
+gcc-137442,A,Compositae,,Laggera,,"stenoptera",,"","O.Hoffm. ex O.Hoffm.",Synonym,,M,TICA,981C2135-F717-4B8B-9119-EE79E7AFFA9A,,"Bull. Herb. Boissier i. (1893) 76.","","","1893",gcc-118009
+gcc-149122,A,Compositae,,Laggera,,"tomentosa",,"","(Sch.Bip. ex A.Rich.) Oliv. & Hiern",Accepted,,M,TICA,C8F7B16E-DF44-41CF-9E44-51E93EA9ECC9,,"","","","",
+gcc-127770,A,Compositae,,Laggera,,"viscosa",,"","(Mill.) Zareh",Synonym,,M,TICA,2EEA8C93-0C94-4D85-A61E-D87AB7DCED1F,,"","","44","2005",gcc-146569
+gcc-85622,A,Compositae,,Laggera,,"volkensii",,"","O.Hoffm.",Synonym,,M,TICA,81D6CFF1-0391-40A9-8DFE-7910CCEE8076,228493-1,"Pflanzenw. Ost-Afrikas C (1895) 408.","","C  408","1895",gcc-86354

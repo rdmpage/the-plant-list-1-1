@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-3021,A,Compositae,,Minuria,,"annua",,"","(Tate) Tate ex J.M.Black",Accepted,,M,TICA,C33996C7-2A33-4B8C-8158-0596ECA0AAF8,118510-3,"Flora of South Australia","","","1929",
+gcc-41035,A,Compositae,,Minuria,,"annua",,"","Tate",Unresolved,,L,TICA,207CA4E9-D63D-40CD-902A-4C1207A9BD59,233372-1,"in Trans. Roy. Soc. S. Austral. xxiii. 288.","","xxiii. 288","",
+gcc-97007,A,Compositae,,Minuria,,"asteroidea",,"","Sond.",Synonym,,L,TICA,A62D96B2-2C1D-4681-84A7-92DD6644F11B,,"Linnaea 25: 467. 1853","","","1853",gcc-144572
+gcc-102576,A,Compositae,,Minuria,,"candollei",,"","(F.Muell.) F.Muell.",Unresolved,,L,TICA,B306A3AB-7926-41C8-BAAB-9F743A1F87EF,,"","","","",
+gcc-68754,A,Compositae,,Minuria,,"candollei",var.,"candollei","",Synonym,,L,TICA,E59C5037-FB24-42A8-A3BB-E1311793CD33,118624-3,"A Census of New South Wales Plants 1916","","","1916",gcc-102576
+gcc-69848,A,Compositae,,Minuria,,"candollei",var.,"denticulata","(DC.) Maiden & Betche",Synonym,,L,TICA,53B32B38-B35F-4467-A1C4-E989697F85C5,118647-3,"A Census of New South Wales Plants 1916","","","1916",gcc-96604
+gcc-125143,A,Compositae,,Minuria,,"chippendalei",,"","Lander & Barry",Synonym,,M,TICA,D77BB85F-8F67-4036-A1FC-D25DD3BDB3E3,233375-1,"","","225","1980",gcc-1309
+gcc-143493,A,Compositae,,Minuria,,"cunninghamii",,"","(DC.) Benth.",Accepted,,M,TICA,6D42DA5D-3B0E-4773-B34B-FC0A66636565,233376-1,"","","498","1867",
+gcc-96604,A,Compositae,,Minuria,,"denticulata",,"","(DC.) Benth.",Accepted,,M,TICA,182311B8-3199-45D1-BFE3-91F25AACE636,233377-1,"","","499","1867",
+gcc-129780,A,Compositae,,Minuria,,"gardneri",,"","Lander & Barry",Synonym,,M,TICA,5314A7DB-2FC2-4695-9972-DD0D535DE275,233378-1,"","","230","1980",gcc-121727
+gcc-87310,A,Compositae,,Minuria,,"integerrima",,"","(DC.) Benth.",Accepted,,M,TICA,9EE61A94-F443-427B-8107-7CFB1C2CFE32,233379-1,"","","499","1867",
+gcc-97865,A,Compositae,,Minuria,,"kippistiana",,"","F.Muell.",Unresolved,,L,TICA,2386C1AD-7870-4F64-91E5-94D436B54345,118878-3,"-","","","",
+gcc-144572,A,Compositae,,Minuria,,"leptophylla",,"","DC.",Accepted,,L,TICA,591792B1-3660-4560-80C8-FE688C80B396,233380-1,"","","298","1836",
+gcc-54935,A,Compositae,,Minuria,,"leptophylla",var.,"leptophylla","",Synonym,,L,TICA,CCD617A5-D5F6-4BA6-8245-7205664B71ED,118976-3,"Flora Australiensis 3  1867","","3","1867",gcc-144572
+gcc-125825,A,Compositae,,Minuria,,"macrocephala",,"","Lander & Barry",Accepted,,M,TICA,990BE8C2-4DB5-49A4-8C53-D3F8682712C2,233381-1,"","","234","1980",
+gcc-1309,A,Compositae,,Minuria,,"macrorhiza",,"","(DC.) Lander",Accepted,,M,TICA,DC7531F0-E13B-4F71-B147-026070A0D172,119011-3,"","","","1987",
+gcc-121727,A,Compositae,,Minuria,,"multiseta",,"","P.S.Short",Accepted,,M,TICA,07FF6740-15D7-49F8-9C8B-CA6A9E413933,959124-1,"","","361","1991",
+gcc-6291,A,Compositae,,Minuria,,"rigida",,"","J.M.Black",Accepted,,M,TICA,68AFEB91-4639-4D6A-8431-0BB80F20D626,119027-3,"","","","1918",
+gcc-113884,A,Compositae,,Minuria,,"scoparia",,"","P.S.Short & J.R.Hosking",Accepted,,L,TICA,27651ECA-173C-407F-8CFA-B89B95725EE1,,"Telopea 8(4): 407 (2000)","","407","2000",
+gcc-97049,A,Compositae,,Minuria,,"suaedifolia",,"","(F.Muell.) F.Muell. ex Benth.",Synonym,,M,TICA,8EF0C436-6DD5-4649-A165-92F676993155,119062-3,"","","","1867",gcc-95919
+gcc-113041,A,Compositae,,Minuria,,"tenuissima",,"","DC.",Synonym,,L,TICA,65AB1CF0-1694-440C-94EC-B6C185780C71,119122-3,"","","","1836",gcc-144572
+gcc-46689,A,Compositae,,Minuria,,"tridens",,"","(D.A.Cooke) Lander",Accepted,,L,TICA,BF3D88F8-FF7E-4D9F-B660-568A37EC0CBC,119147-3,"","","","1987",

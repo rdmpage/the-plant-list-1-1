@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-13200262,A,Salicaceae,,Ryania,,"acuminata",,"","Spruce ex Eichler in Mart.",Synonym,,M,TRO,13200262,112041-1,"Fl. Bras.","13(1): 492","492","1871",tro-13200792
+tro-13200792,A,Salicaceae,,Ryania,,"angustifolia",,"","(Turcz.) Monach.",Accepted,,M,TRO,13200792,224736-2,"Lloydia","12: 21","21","1949",
+tro-13200791,A,Salicaceae,,Ryania,,"bicolor",,"","(DC.) Eichler",Synonym,,M,TRO,13200791,,"Fl. Bras.","13(1): 491","491","1871",tro-13200789
+kew-4427456,A,Salicaceae,,Ryania,,"candollei",,"","Miq.",Unresolved,,L,WCSP (in review),,112042-1,"Ann. Mag. Nat. Hist.","11: 16","","1843",
+tro-13201023,A,Salicaceae,,Ryania,,"canescens",,"","Eichler",Accepted,,M,TRO,13201023,,"Fl. Bras.","13(1): 490, pl. 99, f. 1","490","1871",
+tro-13200263,A,Salicaceae,,Ryania,,"casiquiarensis",,"","Steyerm.",Synonym,,M,TRO,13200263,224738-2,"Fieldiana, Bot.","28: 411","411","1952",tro-13200479
+kew-4427450,A,Salicaceae,,Ryania,,"chocoensis",,"","Triana & Planch.",Unresolved,,L,WCSP (in review),,112044-1,"Ann. Sci. Nat., Bot.","IV, 17: 117","","1862",
+tro-13200264,A,Salicaceae,,Ryania,,"cirtifolia",,"","Kunth",Unresolved,,L,TRO,13200264,,"","","","",
+tro-50117946,A,Salicaceae,,Ryania,,"dentata",,"","(Kunth) Miq.",Accepted,,M,TRO,50117946,112045-1,"Ann. Mag. Nat. Hist.","11: 16","16","1843",
+tro-50150778,A,Salicaceae,,Ryania,,"dentata",var.,"dentata","",Synonym,,L,TRO,50150778,,"","","","",tro-50117946
+tro-50295755,A,Salicaceae,,Ryania,,"kunthii",,"","Miq.",Synonym,,M,TRO,50295755,112046-1,"Ann. Mag. Nat. Hist.","11: 16","16","1843",tro-50117946
+tro-50150780,A,Salicaceae,,Ryania,,"mansoana",,"","Eichler",Accepted,,M,TRO,50150780,,"Fl. Bras.","13(1): 490, pl. 99, f. 3","490","1871",
+tro-13200888,A,Salicaceae,,Ryania,,"parviflora",,"","(A. DC.) Griseb.",Synonym,,M,TRO,13200888,,"Fl. Brit. W. I.","296","296","1860",tro-13200479
+kew-4427464,A,Salicaceae,,Ryania,,"patrisii",,"","Miq.",Unresolved,,L,WCSP (in review),,112049-1,"Ann. Mag. Nat. Hist.","11: 16","","1843",
+tro-13200265,A,Salicaceae,,Ryania,,"pyrifera",,"","(Rich.) Uittien & Sleumer",Accepted,,M,TRO,13200265,224742-2,"Fl. Suriname","3: 286","286","1935",
+tro-13200787,A,Salicaceae,,Ryania,,"pyrifera",var.,"subuliflora","Sandwith",Synonym,,L,TRO,13200787,224743-2,"J. Arnold Arbor.","24: 219","219","1943",tro-13200479
+tro-13200889,A,Salicaceae,,Ryania,,"pyrifera",var.,"tomentosa","Sleumer ex Sleumer & Uittien in Pulle",Synonym,,L,TRO,13200889,224744-2,"Fl. Suriname","3: 286","286","1935",tro-13200885
+kew-4427459,A,Salicaceae,,Ryania,,"reideliana",,"","Eichler",Unresolved,,L,WCSP (in review),,112050-1,"Fl. Bras.","13(1): 491","","1871",
+tro-50150779,A,Salicaceae,,Ryania,,"riedeliana",,"","Eichler",Accepted,,M,TRO,50150779,,"Fl. Bras.","13(1): 491, pl. 59, f. 2","491","1871",
+tro-13200266,A,Salicaceae,,Ryania,,"sagotiana",,"","Eichler",Synonym,,M,TRO,13200266,224746-2,"","","","",tro-13200265
+kew-4427438,A,Salicaceae,,Ryania,,"sauricida",,"","Gleason",Unresolved,,L,WCSP (in review),,224747-2,"Phytologia","1: 106","","1934",
+tro-13200479,A,Salicaceae,,Ryania,,"speciosa",,"","Vahl",Accepted,,M,TRO,13200479,112052-1,"Eclog. Amer.","1: 51–52","51","1796",
+tro-13200789,A,Salicaceae,,Ryania,,"speciosa",var.,"bicolor","(DC.) Monach.",Accepted,,L,TRO,13200789,224748-2,"Lloydia","12: 19","19","1949",
+tro-50069120,A,Salicaceae,,Ryania,,"speciosa",var.,"speciosa","",Synonym,,L,TRO,50069120,,"","","","",tro-13200479
+tro-50087879,A,Salicaceae,,Ryania,,"speciosa",var.,"stipularis","(Linden & Planch.) Monach.",Accepted,,L,TRO,50087879,224753-2,"Lloydia","12: 17","17","1949",
+tro-13200885,A,Salicaceae,,Ryania,,"speciosa",var.,"tomentosa","(Miq.) Monach.",Accepted,,L,TRO,13200885,224755-2,"Lloydia","12: 16","16","1949",
+tro-13200267,A,Salicaceae,,Ryania,,"spruceana",,"","Monach.",Accepted,,M,TRO,13200267,224757-2,"Lloydia","12: 24","24","1949",
+tro-50087880,A,Salicaceae,,Ryania,,"stipularis",,"","Linden & Planch.",Synonym,,M,TRO,50087880,365865-1,"Pl. Columb.","1: 22","22","1863",tro-50087879
+tro-13200268,A,Salicaceae,,Ryania,,"tomentosa",,"","Miq.",Synonym,,M,TRO,13200268,112053-1,"Ann. Mag. Nat. Hist.","11: 15","15","1843",tro-13200479

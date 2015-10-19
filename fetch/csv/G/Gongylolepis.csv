@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-26819,A,Compositae,,Gongylolepis,,"benthamiana",,"","R.H.Schomb.",Accepted,,M,TICA,A59D0829-B074-496A-B7EF-318DEC23380E,,"Linnaea 20","","760","1847",
+gcc-145753,A,Compositae,,Gongylolepis,,"benthamiana",var.,"benthamiana","",Synonym,,L,TICA,9AFFB8F3-B339-4113-97BD-0A3B72093FAB,,"","","","",gcc-26819
+gcc-69166,A,Compositae,,Gongylolepis,,"benthamiana",var.,"pubescens","Maguire & Wurdack",Synonym,,L,TICA,9843E7E7-352F-4D47-B665-E469EA666EFF,112162-2,"Mem. New York Bot. Gard. 9","","391","1957",gcc-26819
+gcc-96119,A,Compositae,,Gongylolepis,,"bracteata",,"","Maguire",Accepted,,M,TICA,6D5C1117-EF7D-4291-AEEC-90D5AD1CD6E8,112163-2,"Mem. New York Bot. Gard. 8","","156","1953",
+gcc-13747,A,Compositae,,Gongylolepis,,"cabrerae",,"","V.M.Badillo",Synonym,,M,TICA,FA9B8266-9AD1-4A7D-B635-199292231216,,"","","","",gcc-26819
+gcc-43227,A,Compositae,,Gongylolepis,,"colombiana",,"","(Cuatrec.) Cuatrec.",Accepted,,M,TICA,453AADE0-A2C1-4A87-A5CD-501A27A4036B,210396-1,"""Fieldiana, Bot. 27""","","51","1950",
+gcc-111493,A,Compositae,,Gongylolepis,,"cortesii",,"","(S.Díaz) Pruski & S.Díaz",Accepted,,M,TICA,C17992AC-8ACC-41CF-AF6D-B339D1AF1FE1,1053710-2,"","","285","1997",
+gcc-34364,A,Compositae,,Gongylolepis,,"erioclada",,"","S.F.Blake",Accepted,,M,TICA,0BE5FC3B-95D6-4181-9B93-3FAFF83E7E46,112165-2,"Bull. Torrey Bot. Club 58","","495","1931",
+gcc-90346,A,Compositae,,Gongylolepis,,"fruticosa",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,F0F0CC87-85F6-4A67-8F98-83C0B42B11A8,112166-2,"Mem. New York Bot. Gard. 9","","437","1957",
+gcc-9514,A,Compositae,,Gongylolepis,,"glaberrima",,"","S.F.Blake",Accepted,,M,TICA,126ADCA4-81A1-454C-B4B4-11BFD1A02390,112167-2,"Bull. Torrey Bot. Club 58","","494","1931",
+gcc-5491,A,Compositae,,Gongylolepis,,"huachamacari",,"","Maguire",Accepted,,M,TICA,06D97C3C-57E7-44E8-A5B2-0A3B8634C2BA,112168-2,"Mem. New York Bot. Gard. 8","","159","1953",
+gcc-152644,A,Compositae,,Gongylolepis,,"huachamacari",subsp.,"huachamacari","",Synonym,,L,TICA,5BEC4E5E-1AFC-4F72-8FAD-9DF235D8B095,,"","","","",gcc-5491
+gcc-35984,A,Compositae,,Gongylolepis,,"huachamacari",subsp.,"neblinensis","Maguire & Wurdack",Synonym,,L,TICA,C986D85D-E464-45AC-AD6D-42B6A8176A86,112169-2,"Mem. New York Bot. Gard. 9","","391","1957",gcc-5491
+gcc-143363,A,Compositae,,Gongylolepis,,"jauaensis",,"","(""Aristeg., Maguire & Steyerm."") V.M.Badillo",Accepted,,M,TICA,1461EE4B-A52D-4C94-BF58-FBB395B806BC,945173-1,"Ernstia 46","","8","1988",
+gcc-133999,A,Compositae,,Gongylolepis,,"maroana",,"","V.M.Badillo",Synonym,,M,TICA,ECAD218D-210C-415F-B250-E6D4867B9533,112170-2,"Bol. Soc. Venez. Ci. Nat. 8","","237","1943",gcc-44025
+gcc-44025,A,Compositae,,Gongylolepis,,"martiana",,"","(Baker) Steyerm. & Cuatrec.",Accepted,,M,TICA,6780CC1F-A571-43A4-87D0-518CEFD123CC,112171-2,"","","640","1953",
+gcc-142478,A,Compositae,,Gongylolepis,,"oblanceolata",,"","Pruski",Accepted,,M,TICA,BC3707D0-2F7E-4F51-B561-F9B2E7750AF7,938389-1,"Ann. Missouri Bot. Gard. 76","","994","1989",
+gcc-6192,A,Compositae,,Gongylolepis,,"paniculata",,"","Maguire & K.D.Phelps",Accepted,,M,TICA,B16968A0-2162-406E-BCE8-0B843D50806B,112172-2,"Mem. New York Bot. Gard. 8","","157","1953",
+gcc-154760,A,Compositae,,Gongylolepis,,"paniculata",var.,"paniculata","",Synonym,,L,TICA,855ECDCF-5A66-45A9-9978-CA654E4952A2,,"","","","",gcc-6192
+gcc-27986,A,Compositae,,Gongylolepis,,"paniculata",var.,"umbellata","Maguire & Wurdack",Synonym,,L,TICA,FF93AD5D-26A4-4B60-81B4-33B21CF1813D,112173-2,"Mem. New York Bot. Gard. 8","","158","1953",gcc-6192
+gcc-9895,A,Compositae,,Gongylolepis,,"paruana",,"","Maguire",Accepted,,M,TICA,93519BF5-B762-4A36-90A6-127AC6AB1071,112174-2,"Mem. New York Bot. Gard. 8","","159","1953",
+gcc-130520,A,Compositae,,Gongylolepis,,"pedunculata",,"","Maguire",Accepted,,M,TICA,0F92E510-29F1-4649-9F75-DEB8A8793238,112175-2,"Mem. New York Bot. Gard. 8","","156","1953",
+gcc-34500,A,Compositae,,Gongylolepis,,"terramarae",,"","Steyerm.",Synonym,,M,TICA,03D80899-72C4-4B29-8E1F-3FF3031386D2,277677-2,"Ann. Missouri Bot. Gard. 74","","115","1987",gcc-6192
+gcc-34859,A,Compositae,,Gongylolepis,,"yapacana",,"","Maguire",Accepted,,M,TICA,1E034849-00F0-4AD8-AAD5-409F127AEA5D,112176-2,"Mem. New York Bot. Gard. 8","","158","1953",

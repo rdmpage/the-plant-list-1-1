@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-82135,A,Compositae,,Commidendrum,,"burchellii",,"","(Hook.f.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,1E4E78A6-DA9F-426E-A6C5-7157B02532E6,,"","","71","1884",
+gcc-44716,A,Compositae,,Commidendrum,,"gummiferum",,"","(Roxb.) DC.",Synonym,,M,TICA,2EC36315-4277-4564-9B66-52D4CE70CDEB,197017-1,"","","344","1836",gcc-119371
+gcc-119371,A,Compositae,,Commidendrum,,"robustum",,"","(Roxb.) DC.",Accepted,,M,TICA,DC4F4E04-F57E-4473-A5F1-C50374F6ACBD,197018-1,"","","344","1836",
+gcc-63871,A,Compositae,,Commidendrum,,"robustum",subsp.,"gummiferum","(Roxb.) Cronk",Unresolved,,L,TICA,E81220A0-9203-4BB9-909A-BA2095ABE5DC,993377-1,"","","98","1995",gcc-119371
+gcc-157005,A,Compositae,,Commidendrum,,"robustum",subsp.,"robustum","",Synonym,,L,TICA,54946144-6883-4C09-8A7C-F8C63FA70F7F,,"","","","",gcc-119371
+gcc-6232,A,Compositae,,Commidendrum,,"rotundifolium",,"","(Roxb.) DC.",Accepted,,L,TICA,367DDA23-C659-413B-81E7-0B97B7105953,197019-1,"","","344","1836",
+gcc-91412,A,Compositae,,Commidendrum,,"rugosum",,"","(Aiton) DC.",Accepted,,M,TICA,E1C6E133-2778-4CBF-9463-8653A4049B20,197020-1,"","","345","1836",
+gcc-14375,A,Compositae,,Commidendrum,,"spurium",,"","(G.Forst.) DC.",Accepted,,L,TICA,0C2872FD-26B8-4BC9-8030-1AAEEE250CC4,197021-1,"","","344","1836",

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-103730,A,Compositae,,Arrhenechthites,,"alba",,"","J.Kost.",Accepted,,M,TICA,BF2C43C2-413B-4EFF-B57F-A1E6AEC39DF7,179128-1,"Blumea 18","","141","1970",
+gcc-122378,A,Compositae,,Arrhenechthites,,"bukaensis",,"","Rech. & Muschl.",Synonym,,M,TICA,0459D2D2-1EDE-4C5C-9894-CBDE31A48C38,,"Denkschr. Akad. Wiss. Wien 89 (1914)","","620","1914",gcc-139509
+gcc-79825,A,Compositae,,Arrhenechthites,,"dolichophylla",,"","Mattf.",Synonym,,M,TICA,E45A0907-CD93-4931-80EF-6C40A47FBBEE,179129-1,"Bot. Jahrb. Syst. 69","","289","1938",gcc-69954
+gcc-109536,A,Compositae,,Arrhenechthites,,"haplogyna",,"","(F.Muell.) Mattf.",Accepted,,M,TICA,82327AE2-267F-41BB-AB4C-AEE1EDD1A3B5,179130-1,"Bot. Jahrb. Syst. 69","","292","1938",
+gcc-867,A,Compositae,,Arrhenechthites,,"hydrangeoides",,"","C.Jeffrey",Accepted,,M,TICA,F4CD336A-2DCD-4DA7-83AD-01A04D828DD4,960827-1,"Kew Bull. 47","","75","1992",
+gcc-30582,A,Compositae,,Arrhenechthites,,"mastichothrix",,"","Mattf.",Synonym,,M,TICA,ACA7632A-AA64-4586-98A9-38A081D89C05,,"Bot. Jahrb. Syst. 70 (1940)","","477","1940",gcc-69954
+gcc-135267,A,Compositae,,Arrhenechthites,,"mastigothrix",,"","Mattf.",Accepted,,M,TICA,CDAD9951-448B-47A1-AFA5-E9A41A5C5E34,,"","","","1940",
+gcc-23468,A,Compositae,,Arrhenechthites,,"mixta",,"","(A.Rich.) Belcher",Accepted,,L,TICA,2A83527D-E32B-4327-B31C-2B6E93C68946,179132-1,"","","75","1956",
+gcc-23417,A,Compositae,,Arrhenechthites,,"novoguineensis",,"","(S.Moore) Mattf.",Accepted,,M,TICA,73358A7E-4173-435C-8B53-2B5A8E9DF6BC,179133-1,"Bot. Jahrb. Syst. 69","","292","1938",
+gcc-69954,A,Compositae,,Arrhenechthites,,"novoguineensis",subsp.,"dolichophylla","(Mattf.) J.Kost.",Accepted,,L,TICA,FA42A0E7-D708-422E-B2EF-EA5605294E1C,,"Blumea 18 (1970)","","144","1970",
+gcc-58105,A,Compositae,,Arrhenechthites,,"novoguineensis",subsp.,"novoguineensis","",Synonym,,L,TICA,9559475F-809E-4DD0-964A-8BD6E9F3732D,,"","","","",gcc-23417
+gcc-117032,A,Compositae,,Arrhenechthites,,"tomentella",,"","Mattf.",Accepted,,M,TICA,9E68166C-977A-4A6B-9A33-BFBBBDB0D73F,179134-1,"Bot. Jahrb. Syst. 69","","290","1938",

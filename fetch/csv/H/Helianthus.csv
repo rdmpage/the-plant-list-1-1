@@ -1,0 +1,499 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-137235,A,Compositae,,Helianthus,,"acuminatus",,"","S.F.Blake",Synonym,,M,TICA,CCE29E8B-FAF0-4869-A353-EE054372E321,311590-2,"J. Wash. Acad. Sci. 16: 219","","219","1926",gcc-24823
+gcc-83,A,Compositae,,Helianthus,,"agrestis",,"","Pollard",Accepted,,M,TICA,7F5B9F1D-876D-4B92-B94E-002D3A8EB0A4,118991-2,"","","184","1900",
+gcc-156649,A,Compositae,,Helianthus,,"agrestis",f.,"agrestis","",Synonym,,L,TICA,24A2BB29-E733-4762-BF7B-F1886E99E3E3,,"","","","",gcc-83
+gcc-102846,A,Compositae,,Helianthus,,"alexandri",,"","Cockerell",Unresolved,,L,TICA,2B1FFE4C-E00A-4EA7-B235-A00404ABFA52,,"","","","1919",
+gcc-5158,A,Compositae,,Helianthus,×,"alexidis",,"","B.Boivin",Unresolved,,L,TICA,FD17F33B-163D-4319-9DA1-09A0ADD5C986,289983-2,"","","73","1972",
+gcc-131595,A,Compositae,,Helianthus,,"alienus",,"","E.Watson",Synonym,,M,TICA,8CC25A38-4464-494E-BB55-E14398CEA878,,"","","","1929",gcc-50414
+gcc-141504,A,Compositae,,Helianthus,,"altissimus",,"","L.",Unresolved,,L,TICA,A1A40158-ED41-44EC-B0EA-F7932879F720,211990-1,"""Sp. Pl., ed. 2. 2: 1278""","","1278","1763",
+gcc-91119,A,Compositae,,Helianthus,,"altissimus",,"","DC.",Unresolved,,L,TICA,19AF8E08-4929-4FB6-BE9A-8599511D8883,211991-1,"Prodr. (DC.) 5: 590","","590","1836",
+gcc-21083,A,Compositae,,Helianthus,,"ambiguus",,"","Britton",Accepted,,L,TICA,DB97CB51-C784-4036-BB91-26F194AE7315,211992-1,"","","993","1901",
+gcc-22921,A,Compositae,,Helianthus,×,"ambiguus",,"","(Torr. & A.Gray) R.W.Long",Unresolved,,L,TICA,BA6B70AE-2142-42E8-AB3C-2A6DE910C331,,"","","202","1954",
+gcc-142018,A,Compositae,,Helianthus,,"ambulans",,"","E.Watson",Unresolved,,L,TICA,6552282C-B433-4130-AAC1-F8B9CA76A277,,"","","","1929",
+gcc-128214,A,Compositae,,Helianthus,,"amplexicaulis",,"","(Cav.) DC.",Synonym,,M,TICA,8EF3D1CB-2787-4D6A-8A8E-D97F76E4A08A,211995-1,"","","589","1836",gcc-95931
+gcc-145968,A,Compositae,,Helianthus,,"angustifolius",,"","Spreng. ex Baker",Synonym,,M,TICA,3E9DA7B9-A26C-4685-B9B5-0EB3F4B6BA74,,"","","","",gcc-151333
+gcc-23433,A,Compositae,,Helianthus,,"angustifolius",,"","L.",Accepted,,M,TICA,A9115268-8C6F-41D8-9B3C-2B62031D5B4E,315752-2,"Sp. Pl.","","906","1753",
+gcc-30683,A,Compositae,,Helianthus,,"angustifolius",,"","(L.) Michx. ex DC.",Unresolved,,L,TICA,7E3227F1-BA1B-40FD-8CE1-38CFB3B2F310,1092587-2,"Prodr. (DC.) 5: 587","","587","1836",
+gcc-149650,A,Compositae,,Helianthus,,"angustifolius",subsp.,"angustifolius","",Synonym,,L,TICA,6A27B822-6E39-4BE4-BC1C-5D7CDF53CA08,,"","","","",gcc-23433
+gcc-70252,A,Compositae,,Helianthus,,"angustifolius",var.,"angustifolius","",Synonym,,L,TICA,B77283A1-48AB-4F57-8980-ECA49476F09E,,"","","","",gcc-23433
+gcc-39749,A,Compositae,,Helianthus,,"angustifolius",subsp.,"ciliaris","(DC.) Anashch.",Synonym,,L,TICA,E9C181D2-A395-42C3-A23D-49C018F0FCD4,118997-2,"","","1479","1974",gcc-30193
+gcc-55172,A,Compositae,,Helianthus,,"angustifolius",subsp.,"nuttallii","Anashch.",Synonym,,L,TICA,A16CA2D9-48F4-4011-900F-73DF4939A2A5,119001-2,"""in Bot. Zhurn., 59(10): 1479 (1974).""","","1479","1974",gcc-79993
+gcc-14796,A,Compositae,,Helianthus,,"angustifolius",var.,"planifolius","Fernald",Synonym,,L,TICA,2EAA9448-47A9-45A9-8911-1B6F1F632CC9,,"","","","1947",gcc-23433
+gcc-44475,A,Compositae,,Helianthus,,"annuus",,"","L.",Accepted,,M,TICA,DA0661B3-CDA8-4DDE-B7F5-5266F9065E1F,119003-2,"","","904","1753",
+gcc-57277,A,Compositae,,Helianthus,,"annuus",subsp.,"annuus","",Synonym,,L,TICA,5E5031CE-552E-4162-A9D8-8516EBE0BBDA,,"","","","",gcc-44475
+gcc-69556,A,Compositae,,Helianthus,,"annuus",var.,"annuus","",Synonym,,L,TICA,D21F60FE-A3A9-4712-B245-E74D7E4EEF27,,"","","","",gcc-44475
+gcc-72776,A,Compositae,,Helianthus,,"annuus",f.,"annuus","",Synonym,,L,TICA,55753C0A-C32E-49D2-93EA-0288AC49A025,,"","","","",gcc-44475
+gcc-30633,A,Compositae,,Helianthus,,"annuus",var.,"argophyllus","(Torr. & A.Gray) Alef.",Synonym,,L,TICA,52BD1DA5-F97B-4F78-BEDC-38B3BB4BB1DD,,"""fide Satsyperov, Bull. Appl. Bot. 9 (1916)""","","207","1916",gcc-7811
+gcc-8977,A,Compositae,,Helianthus,,"annuus",subsp.,"jaegeri","(Heiser) Heiser",Synonym,,L,TICA,7D6E8735-AC18-4478-B1E2-10CD1093F5F5,119016-2,"Contr. Dudley Herb. 4: 317","","317","1955",gcc-44475
+gcc-53335,A,Compositae,,Helianthus,,"annuus",subsp.,"lenticularis","(Douglas ex Lindl.) Cockerell",Synonym,,L,TICA,184AC3BF-1A86-4560-94D3-656DD69F70D4,,"","","","",gcc-44475
+gcc-65384,A,Compositae,,Helianthus,,"annuus",var.,"lenticularis","(Douglas ex Lindl.) Steyerm.",Synonym,,L,TICA,56C81593-1F5A-4065-AE21-C6591D2B794A,119021-2,"Rhodora 62(737):","","132","1960",gcc-44475
+gcc-65970,A,Compositae,,Helianthus,,"annuus",var.,"macrocarpus","(DC.) Cockerell",Synonym,,L,TICA,73DED92A-CC2B-420F-B3A3-CB12E63B987F,119022-2,"Amer. Naturalist 49: 611","","611","1915",gcc-44475
+gcc-54831,A,Compositae,,Helianthus,,"annuus",subsp.,"petiolaris","(Nutt.) Anashch.",Synonym,,L,TICA,39F6DE33-DDB3-49B3-8B91-713197701CDF,119027-2,"","","1476","1974",gcc-112435
+gcc-42160,A,Compositae,,Helianthus,,"annuus",var.,"texanus","(Heiser) Shinners",Synonym,,L,TICA,9093B047-2E00-45F6-9CB2-4E1E05833EB0,119037-2,"Sida 1: 377","","377","1964",gcc-44475
+gcc-55856,A,Compositae,,Helianthus,,"annuus",subsp.,"texanus","Heiser",Synonym,,L,TICA,6C1EA382-07D1-4866-87F0-798C77B30BB3,119036-2,"Amer. Midl. Naturalist 51: 299","","299","1954",gcc-44475
+gcc-137313,A,Compositae,,Helianthus,,"anomalus",,"","S.F.Blake",Accepted,,M,TICA,758B423D-F1F4-471E-8528-EE31F296FC66,119042-2,"","","333","1931",
+gcc-129992,A,Compositae,,Helianthus,,"apetalus",,"","Leconte ex Nutt.",Unresolved,,L,TICA,6D2DECA7-AB13-4463-A890-DD8C98514167,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 354""","","354","1840",
+gcc-81427,A,Compositae,,Helianthus,,"apricus",,"","Lunell",Unresolved,,L,TICA,0DECE68D-7A8A-4067-8A33-6FC41B9181DB,119043-2,"","","237","1910",
+gcc-497,A,Compositae,,Helianthus,,"apricus",var.,"apricus","",Synonym,,L,TICA,618743B8-16BD-48AB-8C08-00ED2B7A247C,,"","","","1911",gcc-81427
+gcc-16554,A,Compositae,,Helianthus,,"araucanus",,"","Phil.",Synonym,,L,TICA,E15E8E2E-73D0-476F-9601-1E971D14C764,119045-2,"","","39","1895",gcc-88323
+gcc-76099,A,Compositae,,Helianthus,,"arenicola",,"","E.Watson",Unresolved,,L,TICA,4CAD3AD4-66AC-4942-9C4E-63E2BE0FE203,,"","","","1929",
+gcc-30502,A,Compositae,,Helianthus,,"argenteus",,"","Kunth",Synonym,,M,TICA,260AB112-BCC5-454A-A0EE-386F9EA34A14,,"","","","",gcc-28247
+gcc-15361,A,Compositae,,Helianthus,,"argentinus",,"","A.A.Sáenz",Synonym,,M,TICA,3ED0E2CD-0164-4FAB-9A5F-1C722D6AF466,,"""Darwiniana 22(1-3): 64 (1979), nom. nov., without replaced synonym ref.""","","64","1979",gcc-99020
+gcc-7811,A,Compositae,,Helianthus,,"argophyllus",,"","(D.C.Eaton) Torr. & A.Gray",Accepted,,M,TICA,5D358C1B-3C84-4574-9C21-0E85CBDA7E3D,119047-2,"Fl. N. Amer. (Torr. & A. Gray) 2","","318","1842",
+gcc-134457,A,Compositae,,Helianthus,,"aridus",,"","Rydb.",Synonym,,M,TICA,3142FE83-05E3-47D0-BFE4-E7DDFAFE9322,212006-1,"","","127","1905",gcc-44475
+gcc-155544,A,Compositae,,Helianthus,,"aridus",var.,"aridus","",Synonym,,L,TICA,0752C2FC-A70A-45AA-B679-DA94B859F344,,"","","","",gcc-44475
+gcc-9101,A,Compositae,,Helianthus,,"aristatus",,"","Elliott",Synonym,,M,TICA,4F304CF5-6207-4FCE-9E61-1106986C52D5,,"""Sketch, ii. 428""","","","1824 [1823]",gcc-90762
+gcc-105281,A,Compositae,,Helianthus,,"arizonensis",,"","R.C.Jacks.",Accepted,,M,TICA,CD2EB875-74CD-45E3-8568-A543273CBFEF,,"","","","1963",
+gcc-35480,A,Compositae,,Helianthus,,"asper",,"","Hort. ex Steud.",Unresolved,,L,TICA,A57009A6-B916-4072-894D-41C8B5684689,212009-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 737""","","737","1840",
+gcc-96208,A,Compositae,,Helianthus,,"atacamensis",,"","Phil.",Synonym,,M,TICA,EE637EB5-C8BC-476B-AABC-91016A8CFC68,119052-2,"","","48","1891",gcc-85497
+gcc-28458,A,Compositae,,Helianthus,,"atrorubens",,"","Michx.",Unresolved,,L,TICA,833A6FAC-4D1A-4ECD-85A5-349873614FFA,,"""Fl. Bor.-Amer. (Michaux) ii. 140, partim""","","140","",
+gcc-87914,A,Compositae,,Helianthus,,"atrorubens",,"","Lam.",Unresolved,Illegitimate,L,TICA,B71FF1D1-A061-43FD-969C-7E4784297DB9,329251-2,"Encycl. (Lamarck) 3(1): 86","","86","1789",
+gcc-99492,A,Compositae,,Helianthus,,"atrorubens",,"","L.",Accepted,,M,TICA,9D0430F7-55F3-4ED0-A555-9876FF09B20B,329242-2,"","","906","1753",
+gcc-7176,A,Compositae,,Helianthus,,"atrorubens",var.,"alsodes","Fernald",Synonym,,L,TICA,6A6C493D-1556-4998-9D6B-0D5BFD2F092D,,"""Rhodora 48: 74, tab. 1020""","","","1946",gcc-99492
+gcc-156465,A,Compositae,,Helianthus,,"atrorubens",subsp.,"atrorubens","",Synonym,,L,TICA,62BC7542-A58B-4C59-8754-ED7C879338FC,,"","","","",gcc-99492
+gcc-65719,A,Compositae,,Helianthus,,"atrorubens",var.,"atrorubens","",Synonym,,L,TICA,4AF11ED5-CF0E-4B45-81EC-C8F9EA9B0E3B,119054-2,"Rhodora 47: 399","","399","1945",gcc-99492
+gcc-69509,A,Compositae,,Helianthus,,"atrorubens",var.,"pubescens","Kuntze",Synonym,,L,TICA,EC32FFDD-DCD1-4683-85C4-E6F958F4C78D,119057-2,"Revis. Gen. Pl. 1: 343","","343","1891",gcc-129746
+gcc-25804,A,Compositae,,Helianthus,,"atrorubens",subsp.,"radula","(Pursh) Anashch.",Accepted,,L,TICA,15F7C54B-9B89-4382-8C35-2FAC9E6C8A2B,119058-2,"","","1477","1974",
+gcc-129554,A,Compositae,,Helianthus,,"attenuatus",,"","E.Watson",Unresolved,,L,TICA,B488942A-6F67-4BEB-A69A-DC85D363B865,,"","","","1929",
+gcc-108598,A,Compositae,,Helianthus,,"aureus",,"","Kunth",Synonym,,L,TICA,79638F8C-F2BB-4BE9-8D68-ACA3EBCE3E8A,,"Nov. Gen. Sp. [H.B.K.] iv. 224.","","","1820 [1818]",gcc-133571
+gcc-114409,A,Compositae,,Helianthus,,"aureus",,"","(Cass.) DC.",Unresolved,,L,TICA,8105C455-027B-40CB-9C99-B9C8F47510BD,,"Nov. Gen. et Sp. 4:","","224","",
+gcc-107393,A,Compositae,,Helianthus,,"australis",,"","Small",Unresolved,Illegitimate,L,TICA,E7C0C3FB-8094-46DC-A929-A9F6E7C714FD,119062-2,"","","1268","1903",
+gcc-77133,A,Compositae,,Helianthus,,"australis",,"","Phil.",Synonym,,M,TICA,CD2FA321-CE0C-4C28-9165-6630BA7B22FE,,"","","","1895",gcc-128572
+gcc-116607,A,Compositae,,Helianthus,,"baillonianus",,"","M.Gómez",Synonym,Illegitimate,M,TICA,A140E967-BE8E-419C-B67D-BEC9867968CA,119063-2,"","","273","1890",gcc-112501
+gcc-10986,A,Compositae,,Helianthus,,"besseriana",,"","Benth. & Hook.f.",Unresolved,,L,TICA,EE0FF699-79C2-406E-A251-148903DB0D1D,212018-1,"Gen. ii. 376.","","ii. 376","",gcc-22476
+gcc-136986,A,Compositae,,Helianthus,,"besseyi",,"","Bates",Unresolved,,L,TICA,558B5429-9724-4069-ACD6-ED727B943AF3,,"","","","1914",
+gcc-46818,A,Compositae,,Helianthus,,"bolanderi",,"","A.Gray",Accepted,,M,TICA,7F818007-200A-4634-A9D7-56BEC7C3C9D6,329238-2,"","","544","1865",
+gcc-37409,A,Compositae,,Helianthus,,"borealis",,"","E.Watson",Synonym,,M,TICA,3BB902A3-D042-48E8-B174-45554711FBEF,,"","","","1929",gcc-50414
+gcc-24179,A,Compositae,,Helianthus,,"bracteatus",,"","E.Watson",Unresolved,,L,TICA,440AEA80-170D-49A7-8D77-2CA7206E0EFD,,"","","","1929",
+gcc-25389,A,Compositae,,Helianthus,,"brasilicus",,"","Vell.",Unresolved,,L,TICA,FE8B6469-A524-4B27-8027-2EE056803E46,212023-1,"Fl. Flum. viii. t. 146.","","viii. t. 146.","",
+gcc-22618,A,Compositae,,Helianthus,,"brevifolius",,"","E.Watson",Accepted,,M,TICA,86495D59-698B-4B85-A640-29DEBE1941FA,,"","","","1929",
+gcc-99110,A,Compositae,,Helianthus,×,"brevifolius",,"","(E.Watson) R.C.Jacks. & Guard",Unresolved,,L,TICA,00E1DBBF-C906-439E-9C36-97A1B3E7D8D7,212025-1,"in Proc. Indiana Acad. Sci. lxvi. 314 (1957)","","314","1957",
+gcc-33757,A,Compositae,,Helianthus,,"buccinatus",,"","Sessé & Moc.",Unresolved,,L,TICA,28110E41-9A9A-488E-93A7-3E91FF68C646,119068-2,"""Fl. Mexic., ed. 2 193""","","193","1894",
+gcc-77858,A,Compositae,,Helianthus,,"buddleiaeformis",,"","DC.",Synonym,,M,TICA,CA6228EA-D8F7-4D01-83A6-67CA597540FE,212027-1,"Prodr. (DC.) 5: 588","","588","1836",gcc-91673
+gcc-144519,A,Compositae,,Helianthus,,"buphthalmoides",,"","Hort. ex DC.",Unresolved,,L,TICA,5D7A027A-D070-47B0-9AE3-FE4B70830384,212028-1,"Prodr. (DC.) 5: 551","","551","1836",
+gcc-111009,A,Compositae,,Helianthus,,"californicus",,"","DC.",Accepted,,M,TICA,C876619A-4DF3-4280-902B-B22B4EC1DEB1,329262-2,"Prodr. (DC.) 5: 589","","589","1836",
+gcc-30163,A,Compositae,,Helianthus,,"californicus",,"","Nutt. ex Torr. & A.Gray",Unresolved,,L,TICA,CDC75354-9CB4-4500-948D-37D373E8CC98,329261-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 325","","325","1842",
+gcc-156853,A,Compositae,,Helianthus,,"californicus",var.,"californicus","",Synonym,,L,TICA,05C505C9-15F2-4B5C-B538-F5833A013F10,,"","","","",gcc-111009
+gcc-37766,A,Compositae,,Helianthus,,"calvus",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,1A38EEAB-864B-4112-8C59-460746CC8366,119072-2,"""Linnaea 34: 528, nomen. 1866""","","","",gcc-85497
+gcc-108989,A,Compositae,,Helianthus,,"campestris",,"","(Griseb.) Kuntze",Synonym,,M,TICA,5F24EF54-1E20-4587-A4D5-ADA1DA63B8FE,119073-2,"Revis. Gen. Pl. 3[3]: 157","","157","1898",gcc-85199
+gcc-114589,A,Compositae,,Helianthus,,"canescens",,"","(A.Gray) S.Watson",Synonym,,M,TICA,26E8C283-E004-4489-A08D-BA34DD406DCF,,"","","","",gcc-2678
+gcc-136592,A,Compositae,,Helianthus,,"canescens",,"","Juss. ex DC.",Unresolved,,L,TICA,24F41120-F8E4-472B-B8EB-EC922291C076,212034-1,"Prodr. (DC.) 5: 591","","591","1836",
+gcc-50071,A,Compositae,,Helianthus,,"canescens",,"","Michx.",Unresolved,,L,TICA,E52FDF97-D619-4CF8-9AB0-5CD5419A4697,212033-1,"Fl. Bor.-Amer. (Michaux) ii. 140","","140","1803",
+gcc-42117,A,Compositae,,Helianthus,,"canus",,"","(Britton) Wooton & Standl.",Synonym,,M,TICA,9721746F-745A-43EF-A822-4E07615F8EC0,119074-2,"","","190","1913",gcc-2678
+gcc-135830,A,Compositae,,Helianthus,,"carnosus",,"","Small",Accepted,,M,TICA,56DEB4EB-4C60-46E8-A7A5-EACCE6F9D241,,"","","","1902",
+gcc-108256,A,Compositae,,Helianthus,,"carolinianus",,"","Hill",Unresolved,,L,TICA,6230911C-41A5-44C1-8394-ABE5998C7043,212037-1,"Veg. Syst. xvi. 56.","","xvi. 56","",
+gcc-51352,A,Compositae,,Helianthus,,"cernuus",,"","(DC.) Benth. & Hook.f.",Synonym,,M,TICA,46460510-DCA5-4485-AE88-5F3FDF2C997E,,"Gen. ii. 376.","","","1873",gcc-27847
+gcc-102277,A,Compositae,,Helianthus,,"chartaceus",,"","E.Watson",Unresolved,,L,TICA,4214CDD5-7407-41C7-8A4A-9EB86E24AE63,,"","","","1929",
+gcc-30193,A,Compositae,,Helianthus,,"ciliaris",,"","DC.",Accepted,,M,TICA,AAD8A859-CAEE-4B06-91EB-37E2074B7AF4,119077-2,"Prodr. (DC.) 5: 587","","587","1836",
+gcc-127387,A,Compositae,,Helianthus,×,"cinereus",,"","(Torr. & A.Gray) R.C.Jacks. & Guard",Unresolved,,L,TICA,2C2E2F68-07F2-4D01-937B-D78F0AB48352,212042-1,"in Amer. Midl. Nat. lviii. 428 (1957).","","lviii. 428","1957",
+gcc-80135,A,Compositae,,Helianthus,,"cinereus",,"","Torr. & A.Gray",Accepted,,M,TICA,08124016-68BD-4419-A958-6CF5D0C5BFCB,212041-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 324","","324","1842",
+gcc-152717,A,Compositae,,Helianthus,,"cinereus",var.,"cinereus","",Synonym,,L,TICA,261E0EB7-8FD7-4215-9571-9F69404099A3,,"","","","",gcc-80135
+gcc-137872,A,Compositae,,Helianthus,,"cirrhoides",,"","Lehm.",Unresolved,,L,TICA,86BE55F9-B178-4D0B-81FC-EF65A82B955C,212043-1,"in Hamb. Gartenz. viii. (1852) 458.","","viii.  458.","1852",
+gcc-125903,A,Compositae,,Helianthus,,"cochinchinensis",,"","Pers.",Unresolved,,L,TICA,60AFE066-78C8-48F9-808D-D41FA5A79057,212044-1,"Syn. Pl. (Persoon) 2(2): 476","","476","1807",
+gcc-42707,A,Compositae,,Helianthus,,"coloradensis",,"","Cockerell",Accepted,,M,TICA,B8E0890E-8D50-403B-B62E-4F1A2973A590,119079-2,"","","6","1914",
+gcc-155564,A,Compositae,,Helianthus,,"coloradensis",f.,"coloradensis","",Synonym,,L,TICA,EE957F80-2215-4647-B07D-DB0404C16FA0,,"","","","",gcc-42707
+gcc-61240,A,Compositae,,Helianthus,,"coloradensis",var.,"coloradensis","",Synonym,,L,TICA,39D5BE3C-89AC-4980-A28E-A4D958E1688C,,"","","","1914",gcc-42707
+gcc-144592,A,Compositae,,Helianthus,,"colossus",,"","Kunze",Unresolved,,L,TICA,80FE31A1-6D35-4F94-9F59-FE7B0292EF14,212046-1,"Otto & Dietr. Allg. Gartenz. vii. (1839) 43.","","vii.  43","1839",
+gcc-26667,A,Compositae,,Helianthus,,"copiapinus",,"","Phil.",Synonym,,M,TICA,83BF1D6B-73B2-41B4-8247-3143FB2FFBED,119081-2,"","","37","1895",gcc-115910
+gcc-119824,A,Compositae,,Helianthus,,"cordatus",,"","Lam. ex DC.",Unresolved,,L,TICA,5C0F6557-7A94-49BF-93CD-C60BD899C03F,212048-1,"Prodr. (DC.) 5: 551","","551","1836",
+tro-2706463,A,Compositae,,Helianthus,,"cornifolia",,"","Kunth",Synonym,,M,TRO,2706463,,"Nov. Gen. Sp. (folio ed.)","4: 175","175","1820",gcc-17653
+gcc-21881,A,Compositae,,Helianthus,,"cornifolius",,"","Kunth",Synonym,,M,TICA,5848A78C-9841-4931-B125-287735C60658,,"Nov. Gen. Sp. [H.B.K.] iv. 223.","","","1820 [1818]",gcc-17653
+gcc-15888,A,Compositae,,Helianthus,,"corymbosus",,"","Poepp. ex DC.",Unresolved,,L,TICA,3F3DC30F-49DF-467C-BBBD-1D6597450258,212050-1,"Prodr. (DC.) 5: 592","","592","1836",
+gcc-85984,A,Compositae,,Helianthus,,"couplandii",,"","B.Boivin",Synonym,,M,TICA,0E7A46DE-2D94-435F-B556-79EA650BC331,119083-2,"","","72","1972",gcc-112435
+gcc-83126,A,Compositae,,Helianthus,,"crassifolius",,"","Nutt.",Unresolved,,L,TICA,008E27AA-11F5-48A8-AAEF-73A493722A41,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 367""","","367","1841",
+gcc-122039,A,Compositae,,Helianthus,,"crenatus",,"","R.C.Jacks.",Synonym,,M,TICA,4115851D-739E-488D-BF85-CB1DCDAFDF84,,"","","","1959",gcc-20239
+gcc-135789,A,Compositae,,Helianthus,,"crinitus",,"","Steud.",Unresolved,,L,TICA,CFBFE5C9-0B94-45EA-AD73-EABB5B8332D6,212054-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 737""","","737","1840",
+gcc-88670,A,Compositae,,Helianthus,,"cucumerifolius",,"","Torr. & A.Gray",Synonym,,M,TICA,4FF33DCA-CBA9-491A-B5B1-7FF3A542984D,119085-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 319","","319","1842",gcc-38855
+gcc-145899,A,Compositae,,Helianthus,,"cucumerifolius",var.,"cucumerifolius","",Synonym,,L,TICA,35D97555-9B64-4196-9008-0D2422640D48,,"","","","",gcc-38855
+gcc-30449,A,Compositae,,Helianthus,,"cucumerifolius",var.,"praecox","(Engelm. & A.Gray) A.Gray",Synonym,,L,TICA,62C43A81-FAAA-445F-83FC-38542A44065A,119086-2,"""Rep. U.S. Mex. Bound., Bot. 90""","","90","1858",gcc-7554
+gcc-27833,A,Compositae,,Helianthus,,"cultus",,"","Ventsl.",Unresolved,,L,TICA,DBCDE72D-2C4F-40E7-8F26-3372DE4F559E,212056-1,"""in Fl. Cult. Pl., USSR, ed. Vavilov et al., vii. (Oleiferous Pl.) 382 (1941),sine descr. lat.""","","""vii. (Oleiferous Pl.) 382 (1941),sine descr. lat.""","",
+gcc-115163,A,Compositae,,Helianthus,,"curtissii",,"","Fernald ex E.Watson",Unresolved,,L,TICA,22960286-1293-4E0C-BB85-BB8237ED2D0B,1020903-2,"","","","",
+gcc-104445,A,Compositae,,Helianthus,,"cusickii",,"","A.Gray",Accepted,,M,TICA,828199D3-E12A-4B49-9E9B-A38325A05E24,119087-2,"","","413","1886",
+gcc-82546,A,Compositae,,Helianthus,,"dalyi",,"","Britton",Synonym,,M,TICA,4F017FA7-9D3F-4F45-BD5F-724D3648CC06,119088-2,"","","89","1901",gcc-31619
+gcc-107186,A,Compositae,,Helianthus,,"dealbatus",,"","A.Gray",Synonym,,M,TICA,1C17773F-D8E2-4872-B37D-A98388167C3D,,"","","","1884",gcc-90258
+gcc-77409,A,Compositae,,Helianthus,,"debilis",,"","Nutt.",Accepted,,M,TICA,96B62DE5-7942-47CE-BDE8-66D3F22F3B1E,167393-3,"""Trans. Amer. Philos. Soc. ser. 2, 7: 367""","","367","1841",
+gcc-32574,A,Compositae,,Helianthus,,"debilis",var.,"cucumerifolius","(Torr. & A.Gray) A.Gray",Synonym,,L,TICA,95C7B78A-8E03-48EE-A32B-3C6141464AAC,1055329-2,"""Syn. Fl. N Amer. 1, 2 (1897)""","","","",gcc-38855
+gcc-38855,A,Compositae,,Helianthus,,"debilis",subsp.,"cucumerifolius","(Torr. & A.Gray) Heiser",Accepted,,L,TICA,FB099019-2A68-4C26-BBAD-48132BC6AA36,119092-2,"","","160","1956",
+gcc-86011,A,Compositae,,Helianthus,,"debilis",f.,"cucumerifolius","(Torr. & A.Gray) Voss",Synonym,,L,TICA,A606A0DB-1367-4F3C-9AE4-79FB4F7A9AA2,,"","","482","",gcc-38855
+gcc-1327,A,Compositae,,Helianthus,,"debilis",var.,"debilis","",Synonym,,L,TICA,F9218136-C449-4D0E-A9E9-0268BCCC0B6E,,"","","","",gcc-77409
+gcc-152605,A,Compositae,,Helianthus,,"debilis",f.,"debilis","",Synonym,,L,TICA,6545C2A6-7417-40CD-B7A9-9D1AF19DAADE,,"","","","",gcc-77409
+gcc-67046,A,Compositae,,Helianthus,,"debilis",subsp.,"debilis","",Synonym,,L,TICA,020CC632-4CB1-4AA6-9122-D3B729C58CEB,,"","","","",gcc-77409
+gcc-71465,A,Compositae,,Helianthus,,"debilis",subsp.,"hirtus","Heiser",Synonym,,L,TICA,562C4A5D-7469-44E5-91A4-F67906B76C10,,"Madroño 13: 161","","","1956",gcc-12641
+gcc-63762,A,Compositae,,Helianthus,,"debilis",subsp.,"praecox","(Engelm. & A.Gray) Heiser",Synonym,,L,TICA,29769B68-6F5D-40EA-91FE-B951FA8E1CC6,119094-2,"Madroño 13: 160","","160","1956",gcc-7554
+gcc-58184,A,Compositae,,Helianthus,,"debilis",subsp.,"runyonii","Heiser",Synonym,,L,TICA,A32D2585-56F2-4973-9A39-8C775ADB3772,119095-2,"Madroño 13: 161","","161","1956",gcc-35607
+gcc-3319,A,Compositae,,Helianthus,,"debilis",var.,"silvestris","(Heiser) Cronquist",Synonym,,L,TICA,FEC26117-756E-4573-AFD9-06227C845EA0,119097-2,"","","223","1977",gcc-48240
+gcc-48240,A,Compositae,,Helianthus,,"debilis",subsp.,"silvestris","Heiser",Accepted,,L,TICA,9807D759-614C-4EF5-BB6F-5969C5D8270D,,"Madroño 13: 158","","","1956",
+gcc-26163,A,Compositae,,Helianthus,,"debilis",var.,"tardiflorus","(Heiser) Cronquist",Synonym,,L,TICA,9EF0D9E9-5816-4052-8A3B-30628043DC3A,119099-2,"","","223","1977",gcc-53151
+gcc-53151,A,Compositae,,Helianthus,,"debilis",subsp.,"tardiflorus","Heiser",Accepted,,L,TICA,053CB43F-5953-4BA8-AA07-63E208BA5DF7,,"Madroño 13: 156","","","1956",
+gcc-24049,A,Compositae,,Helianthus,,"debilis",var.,"vestitus","(E.Watson) Cronquist",Synonym,,L,TICA,CB20FEC6-516C-4A3E-8674-2C7172035181,119101-2,"","","223","1977",gcc-55743
+gcc-55743,A,Compositae,,Helianthus,,"debilis",subsp.,"vestitus","(E.Watson) Heiser",Accepted,,L,TICA,FE46FF51-7A54-49B3-8DD1-7881B7C6FB44,119100-2,"Madroño 13: 154","","154","1956",
+gcc-120879,A,Compositae,,Helianthus,,"decapetalus",,"","L.",Accepted,,M,TICA,D1EBD796-DFF3-44F6-8E71-C88A43AEAC5B,119102-2,"","","905","1753",
+gcc-6548,A,Compositae,,Helianthus,,"decapetalus",,"","Darl.",Unresolved,,L,TICA,53B712B6-F9C6-43D2-A8A4-0C26FA833113,,"Fl. Cestr. ed. II. 483.","","II. 483","",
+gcc-127588,A,Compositae,,Helianthus,,"decapitatus",,"","L.",Unresolved,,L,TICA,9E57382A-2D2F-407D-8FDE-D7FF4811BDDA,,"Sp. Pl. 905.","","905","",
+gcc-142099,A,Compositae,,Helianthus,,"dentatus",,"","Cav.",Synonym,,M,TICA,927BD6BE-F1A6-4B32-A4D2-F8E82F053F02,,"","","""10, pl. 220""","1794 [1795]",gcc-112501
+gcc-141559,A,Compositae,,Helianthus,,"deserticola",,"","Heiser",Accepted,,M,TICA,9853FA93-D8DE-498E-8E28-F7AA841ECBDA,,"Proc. Indiana Acad. Sci. 70: 209","","","1960",
+gcc-112977,A,Compositae,,Helianthus,,"diffusus",,"","Sims",Accepted,,M,TICA,EE47214C-389E-4BF2-8021-B6A137AFA854,,"Bot. Mag. 45: t. 2020","","","1818",
+gcc-113623,A,Compositae,,Helianthus,,"diffusus",,"","Moench",Unresolved,,L,TICA,C1089C8C-E7E3-4A87-AD7D-B8073EDB4AAF,212064-1,"Suppl. Meth. (Moench) 259. 1802 [2 May 1802]","","259","1802",
+gcc-154652,A,Compositae,,Helianthus,,"diffusus",var.,"diffusus","",Synonym,,L,TICA,830533CD-B893-4265-8CCD-C7FB936FABD4,,"","","","",gcc-112977
+gcc-101438,A,Compositae,,Helianthus,,"discolor",,"","S.F.Blake",Synonym,,M,TICA,A4CC36EB-D7B5-40DC-B490-9CC58D95FB99,310289-2,"J. Wash. Acad. Sci. 16: 220","","220","1926",gcc-11633
+gcc-140199,A,Compositae,,Helianthus,,"dissectifolius",,"","R.C.Jacks.",Accepted,,M,TICA,C6516EF8-25A3-41FD-86C5-F4798C5665F8,,"","","","1963",
+gcc-146581,A,Compositae,,Helianthus,,"dissectifolius",subsp.,"dissectifolius","",Synonym,,L,TICA,F73A048C-2AE6-494F-BDDC-1B8147E90FC8,,"","","","",gcc-140199
+gcc-14269,A,Compositae,,Helianthus,,"divaricatus",,"","L.",Accepted,,M,TICA,878D00B3-C22A-4191-81E3-1A7A7341E08E,329245-2,"","","906","1753",
+gcc-32652,A,Compositae,,Helianthus,,"divaricatus",,"","Michx.",Unresolved,,L,TICA,12CB5EB2-E207-411D-86D2-3C849E2E6C51,,"Fl. Bor.-Amer. (Michaux) ii. 141","","141","",
+gcc-70827,A,Compositae,,Helianthus,,"divaricatus",var.,"angustifolius","Kuntze",Synonym,,L,TICA,5E4B9F07-0E03-47DE-A555-F12BA122876E,119113-2,"Revis. Gen. Pl. 1: 343","","343","1891",gcc-14269
+gcc-52022,A,Compositae,,Helianthus,,"divaricatus",var.,"divaricatus","",Synonym,,L,TICA,C2E22F41-1CE2-417A-B7BA-608090720F76,,"","","","",gcc-14269
+gcc-119702,A,Compositae,,Helianthus,×,"divariserratus",,"","R.W.Long",Accepted,,M,TICA,028A72B5-3533-4AA5-B233-C5C6942A87CC,289987-2,"","","200","1954",
+gcc-85038,A,Compositae,,Helianthus,,"diversifolius",,"","Elliott",Unresolved,,L,TICA,3E07C32D-C35C-4168-B792-77CBD47B4128,,"""Sketch, ii. 423""","","423","",
+gcc-128130,A,Compositae,,Helianthus,,"dodecapetalus",,"","Panz.",Unresolved,,L,TICA,9AB5059B-4031-49D0-85DC-D94D7F699260,212072-1,"""Pflanzensyst. ix. 557 (1783); fide Merrill in Journ. Arn. Arb. 1938, xix. 372,in syn.""","","ix. 557","1783",
+gcc-36662,A,Compositae,,Helianthus,,"doronicoides",,"","Torr. & A.Gray",Unresolved,,L,TICA,02548A59-DA9B-4A9A-99D8-43F935950A35,212073-1,"""Fl. N. Amer. (Torr. & A. Gray) 2: 327, partim""","","327","1842",
+gcc-50143,A,Compositae,,Helianthus,,"doronicoides",,"","Lam.",Accepted,,M,TICA,25926BC0-F78B-490A-8EBB-5CF46336944B,119118-2,"Encycl. (Lamarck) 3(1): 84","","84","1789",
+gcc-78845,A,Compositae,,Helianthus,×,"doronicoides",,"","(Lam.) R.C.Jacks.",Unresolved,,L,TICA,83A11BA7-A94B-4F11-9AEF-6A1CAD4B9700,212075-1,"Rhodora lviii. 99 (1956).","","lviii. 99","1956",
+gcc-154150,A,Compositae,,Helianthus,,"doronicoides",var.,"doronicoides","",Synonym,,L,TICA,37C08D8C-70CE-4FE4-8820-BD5D2809CC1B,,"","","","",gcc-50143
+gcc-33519,A,Compositae,,Helianthus,,"douglasii",,"","Torr. & A.Gray",Unresolved,,L,TICA,FF5C3F55-7BE8-4AA5-903F-3E25F7E5DFB7,212076-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 332","","332","1842",
+gcc-119559,A,Compositae,,Helianthus,,"dowellianus",,"","M.A.Curtis",Synonym,,M,TICA,84C97171-FAF8-41AB-B866-C56D50E0D1AE,119119-2,"","","82","1843",gcc-128112
+gcc-80493,A,Compositae,,Helianthus,,"eggertii",,"","Small",Synonym,,M,TICA,8E91670D-98D6-40A6-A79D-6DB2A759153B,119120-2,"Fl. S.E. U.S. [Small].","","""1267, 1340""","1903",gcc-116183
+gcc-143721,A,Compositae,,Helianthus,,"elegans",,"","E.Watson",Unresolved,,L,TICA,7EE97A79-7D7E-4107-89C4-FC87BA393575,,"","","","1929",
+gcc-118973,A,Compositae,,Helianthus,,"elongatus",,"","Small",Synonym,,M,TICA,619D3EBE-5FED-459E-9720-C43273D699F2,119122-2,"Fl. S.E. U.S. [Small].","","""1266, 1340""","1903",gcc-6371
+gcc-15833,A,Compositae,,Helianthus,,"erythrocarpus",,"","Bartl.",Unresolved,,L,TICA,058A8AC0-50BD-497F-B218-1D5088B67547,212081-1,"Linnaea 14(Lit.): 125. 1840","","","1840",gcc-44475
+gcc-157177,A,Compositae,,Helianthus,,"esculentus",,"","Warsz. ex Otto & Dietr.",Synonym,,M,TICA,95B05B1B-8F82-4D68-94CC-FCA79CB1D172,,"","","","",gcc-3810
+gcc-42886,A,Compositae,,Helianthus,,"esculentus",,"","Warsz.",Synonym,,M,TICA,B06C6B37-3F13-456E-BFA7-4F718FCA5724,212082-1,"Otto & Dietr. Allg. Gartenz. xx. (1852) 293.","","293","1852",gcc-4823
+gcc-52152,A,Compositae,,Helianthus,,"esculentus",,"","Rottb.",Unresolved,,L,TICA,6F58608A-7291-4ECF-882D-60BEF8D7BD66,212083-1,"Acta Lit. Univ. Hafn. 1: 298","","298","1778",
+gcc-3918,A,Compositae,,Helianthus,,"exasperatus",,"","E.Watson",Unresolved,,L,TICA,8B14F879-CD47-4DE4-A950-07468CB8238F,,"","","","1929",
+gcc-43009,A,Compositae,,Helianthus,,"excelsus",,"","Willd.",Synonym,,L,TICA,514AC97D-937B-42E6-955B-4FA7E49689A0,,"Sp. Pl. iii. 2243.","","","1803",gcc-137618
+gcc-35151,A,Compositae,,Helianthus,,"excubitor",,"","E.Watson",Unresolved,,L,TICA,1D0869D7-9C2F-4744-8E16-4131F9CB6834,119125-2,"","","""396, pl. 54""","1929",
+gcc-129292,A,Compositae,,Helianthus,,"exilis",,"","A.Gray",Accepted,,M,TICA,0294BA00-EDFF-4E59-923C-DBF361F56A3A,329239-2,"","","545","1865",
+gcc-85017,A,Compositae,,Helianthus,,"fascicularis",,"","Greene",Synonym,,M,TICA,43ECFA56-521A-48C7-9AD6-77BC4FC09FE4,,"","","","1901",gcc-79993
+gcc-112864,A,Compositae,,Helianthus,,"filiformis",,"","Small",Synonym,,M,TICA,0D74A223-C037-487B-A6A5-B66695426F73,212089-1,"Fl. S.E. U.S. [Small].","","","1903",gcc-139018
+gcc-34386,A,Compositae,,Helianthus,×,"filiformis",,"","(Small) R.W.Long",Unresolved,,L,TICA,21C0A8BC-E152-45CC-9D1B-3FBC238798AD,212090-1,"Rhodora lvi. 202 (1954).","","lvi. 202","1954",
+gcc-137489,A,Compositae,,Helianthus,,"floribundus",,"","E.Watson",Synonym,,M,TICA,9E112D54-9C29-45F9-A2DE-EE8F4035FC63,119128-2,"","","""405, pl. 59""","1929",gcc-98491
+gcc-133907,A,Compositae,,Helianthus,,"floridanus",,"","A.Gray ex Chapm.",Accepted,,M,TICA,E7D3FB29-D30F-428D-B6CF-E69A16FE9D36,329257-2,"","","629","1883",
+gcc-106077,A,Compositae,,Helianthus,,"formosus",,"","E.Watson",Unresolved,,L,TICA,1C0C43F6-4D29-45A6-8F23-A6FADFC822F2,,"","","","1929",
+gcc-114623,A,Compositae,,Helianthus,,"frondosus",,"","L.",Unresolved,,L,TICA,0ECE97F3-24E1-42A7-93CD-BA47CDF309F4,119130-2,"","","","1755",
+gcc-112199,A,Compositae,,Helianthus,,"fulgidus",,"","E.H.L.Krause",Unresolved,,L,TICA,068530E1-52B0-4723-9CFF-B4DD0A139713,212095-1,"","","165","1905",gcc-113773
+gcc-12350,A,Compositae,,Helianthus,,"gayanus",,"","Phil.",Unresolved,,L,TICA,9B310320-6623-4FDC-AA70-170631A1B602,,"Anales Univ. Chile xc. (1895) 39","","39","",gcc-88323
+gcc-31526,A,Compositae,,Helianthus,,"giganteus",,"","Cav.",Unresolved,Illegitimate,L,TICA,881B5CE0-453C-4208-AB17-3A72B090F958,,"Ic. iii. 10. t. 219.","","","1795",
+gcc-50414,A,Compositae,,Helianthus,,"giganteus",,"","L.",Accepted,,M,TICA,679AE2B3-34B4-4695-9208-5D79F64F13EF,315753-2,"","","905","1753",
+gcc-78038,A,Compositae,,Helianthus,,"giganteus",,"","Lour.",Unresolved,,L,TICA,24D5AA05-86C8-4F98-B7F4-6833132B1578,,"Fl. Cochinch. 509 (sp. ignot.).","","509","",
+gcc-36820,A,Compositae,,Helianthus,,"giganteus",subsp.,"alienus","(E.Watson) Long",Unresolved,,L,TICA,3566E40C-6DD5-4E2B-A792-4440D494AC18,1147998-2,"","","","",gcc-50414
+gcc-64356,A,Compositae,,Helianthus,,"giganteus",var.,"ambiguus","Torr. & A.Gray",Unresolved,,L,TICA,E41EACA1-7DE0-4A86-A00D-BDDF3B93F474,1026590-2,"A Flora of North America: containing . . . 2(2):","","325-326","1842",gcc-21083
+gcc-152437,A,Compositae,,Helianthus,,"giganteus",subsp.,"giganteus","",Synonym,,L,TICA,97247668-199C-43BE-9CA8-997F8B7B78AC,,"","","","",gcc-50414
+gcc-27057,A,Compositae,,Helianthus,,"giganteus",var.,"giganteus","",Synonym,,L,TICA,C76CBF7C-8C78-4255-86A7-320611A84F33,,"","","","",gcc-50414
+gcc-47760,A,Compositae,,Helianthus,,"giganteus",var.,"subtuberosus","Britton",Synonym,,L,TICA,9338017E-FF94-4AD3-B431-587A163C8CA1,1011707-2,"","","","",gcc-50414
+gcc-54917,A,Compositae,,Helianthus,,"giganteus",var.,"utahensis","D.C.Eaton",Unresolved,,L,TICA,258B2CC4-2192-49AF-A4DA-71E1CA2B115B,,"United States Geological Expolration [sic] of the Fortieth Parallel. Botany","","169","1871",gcc-134678
+gcc-88300,A,Compositae,,Helianthus,,"gigas",,"","Michx.",Unresolved,,L,TICA,21F99D77-C1DC-4AFD-B4B8-7F22DAAF9CAB,212100-1,"Fl. Bor.-Amer. (Michaux) ii. 141","","141","1803",
+gcc-38244,A,Compositae,,Helianthus,,"glaucophyllus",,"","D.M.Sm.",Accepted,,M,TICA,7AF54433-D353-43FE-A095-46F0EE613A4B,,"","","","1958",
+gcc-25198,A,Compositae,,Helianthus,×,"glaucus",,"","(Small) D.M.Sm. & Guard",Unresolved,,L,TICA,A06E86FE-A623-493B-8F9B-2E8757202BB0,,"Brittonia x. 142 (1958).","","x. 142","1958",
+gcc-41709,A,Compositae,,Helianthus,,"glaucus",,"","Small",Accepted,,M,TICA,A24AAC2A-174A-480E-B3BF-4D3D26AE260C,119136-2,"Brittonia 10: 142","","480","1898",
+gcc-137066,A,Compositae,,Helianthus,,"glutinosus",,"","Hook. & Arn.",Synonym,,M,TICA,C3FBCD5F-070A-42C6-B56A-ED99A8E6D597,212104-1,"Bot. Beechey Voy. 33","","33","",gcc-22476
+gcc-80427,A,Compositae,,Helianthus,,"gracilentus",,"","A.Gray",Accepted,,M,TICA,ED60A041-CC69-443E-8600-6D942E0977D0,,"","","","1876",
+gcc-114182,A,Compositae,,Helianthus,,"gracilis",,"","Bertol.",Unresolved,,L,TICA,EBFBC4E5-CCAF-426E-89FE-B93DB8A68ADE,212106-1,"Misc. Bot. vii. 41.","","vii. 41.","",
+gcc-108975,A,Compositae,,Helianthus,,"grandiceps",,"","S.F.Blake",Synonym,,M,TICA,24CE564B-ABC9-4222-8AAA-AD9C2CE548DA,301224-2,"","","621","1924",gcc-18674
+gcc-100453,A,Compositae,,Helianthus,,"grandiflorus",,"","Wender.",Unresolved,,L,TICA,E3234C4B-5966-48CF-A7A8-9AA9E448979D,927804-1,"","","","1835",
+gcc-17325,A,Compositae,,Helianthus,,"grandiflorus",,"","Wood",Unresolved,,L,TICA,EC4B2A5E-29DA-4274-8863-2006DE3A89AB,212110-1,"Am. Bot. Flor. 178.","","178","",
+gcc-30778,A,Compositae,,Helianthus,,"grandiflorus",,"","Juss. ex Pers.",Unresolved,,L,TICA,635234B6-45AE-4972-855E-38F8443E75E9,212109-1,"Syn. Pl. (Persoon) 2(2): 475","","475","1807",
+gcc-7228,A,Compositae,,Helianthus,,"grandiflorus",,"","Wender. ex Steud.",Unresolved,,L,TICA,22B327D4-1FEE-4193-A099-0D71307D4F7F,212108-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 737""","","737","1840",
+gcc-27725,A,Compositae,,Helianthus,,"grosse-serratus",,"","Pohl ex Baker",Unresolved,,L,TICA,92C52B6C-4872-4480-902A-33402DEEAA80,,"Fl. Bras. (Martius) 6(3): 174","","174","",
+gcc-122800,A,Compositae,,Helianthus,,"grosseserratus",,"","M.Martens",Accepted,,M,TICA,1BB05916-1F44-408A-88AF-CCD46C498DAF,329259-2,"","","","1839",
+gcc-151184,A,Compositae,,Helianthus,,"grosseserratus",var.,"grosseserratus","",Synonym,,L,TICA,48888624-BAB4-46F2-BE5D-7F9AEE5659E3,,"","","","",gcc-122800
+gcc-152517,A,Compositae,,Helianthus,,"grosseserratus",f.,"grosseserratus","",Synonym,,L,TICA,0DB0879F-632B-4DBD-A8CB-9B1F6B66886F,,"","","","",gcc-122800
+gcc-156699,A,Compositae,,Helianthus,,"grosseserratus",subsp.,"grosseserratus","",Synonym,,L,TICA,8E6FBDC1-23AB-4AE9-8239-F2741D115299,,"","","","",gcc-122800
+gcc-56890,A,Compositae,,Helianthus,,"grosseserratus",var.,"hypoleucus","A.Gray",Synonym,,L,TICA,C4CC1C4F-1349-473F-80C7-81EFDD15B43E,119138-2,"""Syn. Fl. N. Amer. 1, pt. 2: 276""","","276","1884",gcc-122800
+gcc-71393,A,Compositae,,Helianthus,,"grosseserratus",subsp.,"maximus","R.W.Long",Synonym,,L,TICA,83C1B1FB-FC4A-4057-A7FF-F5D9EAAEC4CF,119137-2,"Rhodora 56: 199","","199","1954",gcc-122800
+gcc-9715,A,Compositae,,Helianthus,,"hastatus",,"","Sessé & Moc.",Synonym,,M,TICA,4CAF2044-4D2A-44A3-B48E-1227612D08F9,,"","","","1890",gcc-49578
+gcc-22292,A,Compositae,,Helianthus,,"heiseri",,"","R.C.Jacks.",Synonym,,M,TICA,7B87F3A0-C013-4838-9E02-293ECE7FD797,,"","","","1959",gcc-20239
+gcc-79360,A,Compositae,,Helianthus,,"herbaceus",,"","Vell.",Unresolved,,L,TICA,D7D3ABEE-EC05-4E12-BFD9-6B493DBB327E,212116-1,"Fl. Flum. viii. 145.","","viii. 145.","",
+gcc-121131,A,Compositae,,Helianthus,,"heteropappus",,"","Hook. & Arn.",Synonym,,M,TICA,40AFE4D8-96E3-465B-8158-C91D6EF492D5,,"in Hook. Journ. Bot. iii. (1841) 314.","","","1841",gcc-12717
+gcc-171,A,Compositae,,Helianthus,,"heterophyllus",,"","Short",Unresolved,,L,TICA,786ED09B-F002-4E2B-ABF7-004E47719450,212118-1,"Cat. Kentuck. Pl. Suppl. 3.","","3","",
+gcc-6371,A,Compositae,,Helianthus,,"heterophyllus",,"","Nutt.",Accepted,,M,TICA,87DFCB96-382A-4C09-9E98-0BD9AD375491,119140-2,"","","74","1834",
+gcc-116183,A,Compositae,,Helianthus,,"hirsutus",,"","Raf.",Accepted,,M,TICA,3F53837C-BA62-40B8-9148-BDDB2D43BB6B,329246-2,"Ann. Nat.","","14","1820",
+gcc-7500,A,Compositae,,Helianthus,,"hirsutus",var.,"hirsutus","",Synonym,,L,TICA,43A9F2F8-D2FC-4280-AB26-0DF0972AFA24,,"","","","",gcc-116183
+gcc-47681,A,Compositae,,Helianthus,,"hirsutus",var.,"stenophyllus","Torr. & A.Gray",Synonym,,L,TICA,104317CD-3CDF-4EBF-AE79-585971E66444,,"A Flora of North America: containing . . . 2(2):","","329","1842",gcc-116183
+gcc-5306,A,Compositae,,Helianthus,,"hirsutus",var.,"trachyphyllus","Torr. & A.Gray",Synonym,,L,TICA,8920128F-66EC-4BED-A7E5-09E7B4843AC9,119142-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 329","","329","1842",gcc-116183
+gcc-95357,A,Compositae,,Helianthus,,"hirtus",,"","(L.) E.H.L.Krause",Unresolved,,L,TICA,7F739B57-C3C4-459C-9C1B-8F21CCA43790,,"""in Sturm, Fl. Deutschland, ed. 2, xiii. 166 (1905).""","","","1905",gcc-126702
+gcc-82945,A,Compositae,,Helianthus,,"hispidulus",,"","Elliott",Unresolved,,L,TICA,F3327E15-F192-461A-950A-7330E61AC626,,"""Sketch, ii. 419""","","419","",
+gcc-98184,A,Compositae,,Helianthus,,"hookeri",,"","G.Don",Unresolved,,L,TICA,A6CBEE57-377C-4551-B252-958794D72DB3,212123-1,"in Loud. Hort. Brit. 358.","","358","",
+gcc-125738,A,Compositae,,Helianthus,,"hookerianus",,"","DC.",Unresolved,,L,TICA,BFD712AB-3446-42A8-8D05-D3B8DB44782E,212124-1,"Prodr. (DC.) 5: 590","","590","1836",gcc-27720
+gcc-21864,A,Compositae,,Helianthus,,"hypargyreus",,"","S.F.Blake",Synonym,,M,TICA,F50D613E-643D-4B5C-913B-286F91BEE42C,300928-2,"","","421","1922",gcc-101139
+gcc-142753,A,Compositae,,Helianthus,,"illinoensis",,"","Gleason",Unresolved,,L,TICA,EC121921-46BE-42AE-B8F0-FA596ED3AFE8,119144-2,"","","214","1904",
+gcc-135478,A,Compositae,,Helianthus,,"imbaburensis",,"","Hieron.",Synonym,,M,TICA,16EE55A9-FB48-497D-8DA6-EA198E578378,309870-2,"Bot. Jahrb. Syst. 21: 348","","348","1895",gcc-135073
+gcc-29164,A,Compositae,,Helianthus,,"impapurensis",,"","Hieron.",Unresolved,Illegitimate,L,TICA,8915EE1C-A2DE-4F52-928B-35E8298E9D9D,,"","","","",
+gcc-120244,A,Compositae,,Helianthus,,"incanus",,"","Pers.",Synonym,,L,TICA,8378D71C-07B8-4B83-B0F4-C70AF4089C3F,212128-1,"Syn. Pl. (Persoon) 2(2): 475","","475","1807",gcc-133571
+gcc-122580,A,Compositae,,Helianthus,,"indicus",,"","L.",Synonym,,M,TICA,65F85DA5-34D6-4A99-9DB0-CC538436D96D,315754-2,"","","117","1767",gcc-44475
+tro-100378395,A,Compositae,,Helianthus,,"inexpectatus",,"","D.J. Keil & Elvin",Unresolved,,L,TRO,100378395,60454372-2,"Aliso","28: 60–62, f. 1","60","2010",
+gcc-44869,A,Compositae,,Helianthus,,"instabilis",,"","E.Watson",Synonym,,M,TICA,74EB8B25-B69C-4D5A-B915-5320EB4C51A9,,"","","","1929",gcc-122800
+gcc-21384,A,Compositae,,Helianthus,,"insulatus",,"","E.Watson",Unresolved,,L,TICA,3C212906-2D25-47B2-9362-27833B00E44C,,"","","","",
+gcc-116556,A,Compositae,,Helianthus,,"integrifolius",,"","Nutt.",Synonym,,M,TICA,9C41D3C6-733B-4305-80B8-BEAFAD139A2B,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 366""","","366","1841",gcc-112435
+gcc-50887,A,Compositae,,Helianthus,,"integrifolius",var.,"gracilis","Nutt.",Synonym,,L,TICA,73C03162-DA42-429F-B5C5-5E6513B50537,,"","","366","1841",gcc-112435
+gcc-17993,A,Compositae,,Helianthus,,"integrifolius",var.,"integrifolius","",Synonym,,L,TICA,1FF51454-C9B0-4154-B37E-213F89EBF692,,"","","","1841",gcc-112435
+gcc-83136,A,Compositae,,Helianthus,×,"intermedius",,"","R.W.Long",Accepted,,M,TICA,FFDDE993-812F-4B06-A34B-73A74D30D3B6,212132-1,"Rhodora lvi. 201 (1954).","","lvi. 201","1954",
+gcc-17086,A,Compositae,,Helianthus,,"invenustus",,"","Greene",Synonym,,M,TICA,DDC0662C-F730-4152-832E-1F9678F353F8,319000-2,"","","284","1889",gcc-339
+gcc-76615,A,Compositae,,Helianthus,,"jaegeri",,"","Heiser",Synonym,,M,TICA,B6F5751A-D1AA-4C10-8722-65161C100105,119147-2,"","","513","1948",gcc-44475
+gcc-9069,A,Compositae,,Helianthus,,"jelskii",,"","Hieron.",Synonym,,M,TICA,24CAC1AF-2411-41FB-A5D3-10F527A29855,308684-2,"Bot. Jahrb. Syst. 36: 490","","490","1905",gcc-78079
+gcc-52183,A,Compositae,,Helianthus,×,"kellermani",,"","(Britton) R.W.Long",Unresolved,,L,TICA,33890E14-B7B9-43EB-A379-60CC2FC76F24,212137-1,"Rhodora lvi. 200 (1954).","","lvi. 200","1954",
+gcc-102547,A,Compositae,,Helianthus,×,"kellermanii",,"","Britton",Unresolved,Illegitimate,L,TICA,81B0E80A-EBA2-40E4-A918-9F5DB05FAD15,119148-2,"Rhodora 56: 200","","994","1901",
+gcc-708,A,Compositae,,Helianthus,,"kentuckiensis",,"","McFarland & W.A.Anderson",Synonym,,M,TICA,B64FA715-3518-48D0-AA27-0155AF9A63E2,,"","","","1924",gcc-129746
+gcc-102771,A,Compositae,,Helianthus,,"laciniatus",,"","(L.) E.H.L.Krause",Unresolved,,L,TICA,831B6FDF-2DB4-413E-9BBA-9FE3F48555CC,,"""in Sturm, Fl. Deutschland, ed. 2, xiii. 164 (1905).""","","","1905",gcc-128218
+gcc-20239,A,Compositae,,Helianthus,,"laciniatus",,"","A.Gray",Accepted,,M,TICA,5A919B15-592C-420B-B018-256BEB04B202,,"","","84","1849",
+gcc-31289,A,Compositae,,Helianthus,,"laciniatus",subsp.,"laciniatus","",Synonym,,L,TICA,2A913930-70E5-45AA-86AA-39F37A74B4E6,,"","","","",gcc-20239
+gcc-13240,A,Compositae,,Helianthus,×,"laetiflorus",,"","Pers.",Accepted,,M,TICA,2B6C78C2-0AFB-4266-B397-18AC9E82A68D,329250-2," 2:","","476","1807",
+tro-2743879,A,Compositae,,Helianthus,,"laetiflorus",,"","Pers.",Unresolved,,L,TRO,2743879,329250-2,"Syn. Pl.","2(2): 476","476","1807",
+gcc-57962,A,Compositae,,Helianthus,×,"laetiflorus",var.,"rigidus","(Cass.) Fernald",Synonym,,L,TICA,A1452B1B-5083-4E62-951B-8AC23EB8C973,119154-2,"Rhodora 48: 79","","79","1946",gcc-30040
+tro-2724761,A,Compositae,,Helianthus,,"laetiflorus",var.,"rigidus","(Cass.) Fernald",Synonym,,L,TRO,2724761,119154-2,"Rhodora","48(568): 79","79","1946",gcc-30040
+gcc-2873,A,Compositae,,Helianthus,×,"laetiflorus",var.,"subrhomboideus","(Rydb.) Fernald",Synonym,,L,TICA,EDE132FD-6E05-4C35-95B4-054DF5CDB708,119155-2,"","","79","1946",gcc-67624
+gcc-34689,A,Compositae,,Helianthus,×,"laetiflorus",var.,"tricuspis","Torr. & A.Gray",Synonym,,L,TICA,06444957-9073-4955-9202-404F39445898,,"Fl. N. Amer. 2: 323 (1843)","","323","1843",gcc-13240
+gcc-24496,A,Compositae,,Helianthus,,"laevigatus",,"","Torr. & A.Gray",Accepted,,M,TICA,366D1766-D8D6-459E-9D8D-2D38ED38CAA8,329247-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 330","","330","1842",
+gcc-60447,A,Compositae,,Helianthus,,"laevigatus",subsp.,"laevigatus","",Synonym,,L,TICA,5A5D2404-A7B4-4C70-9D29-9E61DBFF8E1B,,"","","","",gcc-24496
+gcc-30424,A,Compositae,,Helianthus,,"laevigatus",subsp.,"reindutus","(E.S.Steele) E.S.Steele",Synonym,,L,TICA,FCE13BAA-447A-4850-B467-384774E7847C,119156-2,"Contr. U.S. Natl. Herb. 13: 374","","374","1911",gcc-24496
+gcc-2571,A,Compositae,,Helianthus,,"laevis",,"","Walter",Unresolved,,L,TICA,6A14C3E0-43DF-40C0-8D1F-04B5580ACD80,212144-1,"Fl. Carol. 215","","215","1788",
+gcc-52342,A,Compositae,,Helianthus,,"laevis",,"","L.",Synonym,,L,TICA,F5A7A61C-5949-46BC-B9C2-610E14B30D21,119157-2,"","","906","1753",gcc-108264
+gcc-79142,A,Compositae,,Helianthus,,"lanatus",,"","Heiser",Synonym,,M,TICA,713E8FB1-0F2D-47FC-92E7-6ACC8AE19555,308686-2,"Brittonia 8: 291","","291","1957",gcc-40401
+gcc-121875,A,Compositae,,Helianthus,,"lanceolatus",,"","Meyen",Synonym,,L,TICA,D5389045-EA9C-4AB1-BA15-CABC537F62B3,212147-1,"Reise Erde 1: 311","","311","1834",gcc-88323
+gcc-9193,A,Compositae,,Helianthus,,"latifolius",,"","W.Young.",Unresolved,,L,TICA,51024DB7-2524-4C37-BD0E-1130A7824A6A,212148-1,"""Cat. Arbres, Arbustes & Pl. Herb. Am. 37 (1783), nomen seminudum.""","","""37 , nomen seminudum.""","1783",
+gcc-81405,A,Compositae,,Helianthus,,"laurifolius",,"","(DC.) Hook. & B.D.Jacks.",Unresolved,,L,TICA,1AD79FC8-D03A-4269-8E05-6FB9801DE010,1074737-2,"","","","",
+gcc-88040,A,Compositae,,Helianthus,,"laurifolius",,"","(DC.) Benth. & Hook.f.",Synonym,,M,TICA,82CA2401-073D-4B18-A6BB-7E8CD56B09D6,,"Gen. ii. 376.","","","1873",gcc-5434
+gcc-30394,A,Compositae,,Helianthus,,"lehmanni",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,ECDB17DB-8107-4B9B-822B-383AB40D9945,,"Bot. Jahrb. Syst. xxix. 39.","","39","",
+gcc-49546,A,Compositae,,Helianthus,,"lehmannii",,"","Hieron.",Synonym,,M,TICA,3C090890-A6B5-4730-9677-5BD4D9A2B2FA,310464-2,"Bot. Jahrb. Syst. 29: 39","","39","1900",gcc-18674
+gcc-38591,A,Compositae,,Helianthus,,"leiostemon",,"","Raf. ex DC.",Unresolved,,L,TICA,B463D3B4-3164-4815-85E2-479D119A7D8F,212151-1,"Prodr. (DC.) 5: 588","","588","1836",
+gcc-117272,A,Compositae,,Helianthus,,"lenticularis",,"","Douglas",Synonym,,M,TICA,2960FF01-0424-419C-97DB-C04CBB70BAE9,329236-2,"","","t. 1265","1829",gcc-44475
+gcc-1622,A,Compositae,,Helianthus,,"lenticularis",,"","Hort.",Unresolved,,L,TICA,7ED5AE2E-C6C4-4948-AA5E-02EB4B48B53D,212153-1,"ex Gartenfl. liii. (1894) 104 fig. 25.","","liii.  104 fig. 25","1894",
+gcc-31478,A,Compositae,,Helianthus,,"lenticularis",,"","Douglas ex Lindl.",Accepted,,M,TICA,6709AC48-42F7-46A6-9CF9-3A58083C46D3,,"","","pl. 1265","1829",
+gcc-22678,A,Compositae,,Helianthus,,"leoninus",,"","E.Watson",Unresolved,,L,TICA,41BAC4FE-3FEC-4C3B-8169-29F7E04252ED,,"","","","1929",
+gcc-96279,A,Compositae,,Helianthus,,"leptocaulis",,"","S.F.Blake",Unresolved,,L,TICA,5CBAF9DA-4CFC-4579-8808-912D0089A4CB,119165-2,"","","519","1916",
+gcc-142389,A,Compositae,,Helianthus,,"lindheimerianus",,"","Scheele",Unresolved,,L,TICA,91AA86C5-E885-4C10-9D27-F97C4D9CF74A,212156-1,"Linnaea 22: 159. 1849","","159","1849",
+gcc-117545,A,Compositae,,Helianthus,,"linearis",,"","Cav.",Synonym,,L,TICA,1F3D7BA1-B383-4DDC-B442-C0EBCBD7015B,,"Ic. iii. 9. t. 218.","","","",gcc-5558
+gcc-112749,A,Compositae,,Helianthus,,"littoralis",,"","Chapman ex E.Watson",Unresolved,,L,TICA,1B37655D-B362-4C18-BCB6-B626315E3439,,"""in Papers Mich. Acad. Sc. 1928, ix. 353 (1929), in syn.""","","353","",
+gcc-114948,A,Compositae,,Helianthus,,"lodicatus",,"","Cuatrec.",Synonym,,M,TICA,AB182B8A-1074-4C18-B310-BB08F928F86B,310655-2,"Proc. Biol. Soc. Wash. 77: 144","","144","1964",gcc-6283
+gcc-78012,A,Compositae,,Helianthus,,"longifolius",,"","Pursh",Accepted,,L,TICA,BAF26798-12AD-4F23-B0F0-68233DB1A534,,"","","571","",
+gcc-79664,A,Compositae,,Helianthus,,"longifolius",,"","Hook.",Unresolved,Illegitimate,L,TICA,33863B0B-1823-4BF2-AE00-6BE63F16BFF3,,"Fl. Bor.-Amer. (Hooker) i. 313","","313","1833",
+gcc-142530,A,Compositae,,Helianthus,,"longiradiatus",,"","Bertol.",Synonym,,M,TICA,25162E4E-D1D7-416E-9CA0-F9CF56FC9C6C,,"","","436","1840",gcc-21859
+gcc-83987,A,Compositae,,Helianthus,,"ludens",,"","Shinners",Synonym,,M,TICA,B205208D-E957-412D-9064-7582B6DEF58C,119168-2,"Sida 1: 377","","377","1964",gcc-4177
+gcc-135769,A,Compositae,,Helianthus,,"lundstroemii",,"","Fedde",Unresolved,,L,TICA,75908B16-6E05-4CDE-928E-EAB4529D4AF5,212164-1,"""in Just's Bot. Jahresb. 1914, xlii. II. 94 (1920), in adnot., hybr.""","","""xlii. II. 94 (1920), in adnot., hybr""","1914",
+gcc-100991,A,Compositae,,Helianthus,×,"luxurians",,"","(E.Watson) E.Watson",Accepted,,M,TICA,2A620FB6-F513-4CB3-B15C-9BD93368D1A1,,"","","","",
+tro-2710399,A,Compositae,,Helianthus,,"luxurians",,"","E. Watson",Unresolved,,L,TRO,2710399,119169-2,"Pap. Michigan Acad. Sci.","9: 464–465, pl. 85–86","464","1929",
+gcc-116932,A,Compositae,,Helianthus,,"macrocarpus",,"","DC.",Synonym,,M,TICA,4EECA62C-B05A-48F8-8BD8-BF8A09934647,,"","","8","1826",gcc-44475
+gcc-3397,A,Compositae,,Helianthus,,"macrocarpus",,"","DC. & A.DC.",Synonym,,M,TICA,73CAB3CB-13DB-46FA-97F1-0645C29AD301,,"DC. & A. DC. in Mém. Soc. Phys. Genève 7. 1836.","","272","1836",gcc-44475
+gcc-85895,A,Compositae,,Helianthus,,"macrophyllus",,"","Willd.",Unresolved,,L,TICA,306ECE37-9808-41D4-9E85-79B669F83CB2,212169-1,"Hort. Berol. t. 70.","","t. 70","",
+gcc-27176,A,Compositae,,Helianthus,,"mandonii",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,921C1498-16A9-4263-9DB8-3243C5F7635B,,"""Linnaea 34: 525, nomen. 1866""","","","",gcc-43282
+gcc-123930,A,Compositae,,Helianthus,,"mathewsii",,"","Hochr.",Synonym,,M,TICA,E9C8D896-3ED1-41F8-A4DA-CF87556D9A00,301490-2,"Bull. New York Bot. Gard. 6: 296","","296","1910",gcc-15076
+gcc-31619,A,Compositae,,Helianthus,,"maximiliani",,"","Schrad.",Accepted,,M,TICA,22B075AB-70E6-414B-912A-3A9C9056E04E,329260-2,"","","","1835",
+gcc-145304,A,Compositae,,Helianthus,,"maximiliani",var.,"maximiliani","",Synonym,,L,TICA,03CA6109-64EF-48D7-BDC6-017D06B52A21,,"","","","",gcc-31619
+gcc-73134,A,Compositae,,Helianthus,,"maximiliani",f.,"maximiliani","",Synonym,,L,TICA,F20E32ED-E74B-450C-B4FF-0F13CA5D875B,,"","","","",gcc-31619
+gcc-102854,A,Compositae,,Helianthus,,"membranaceus",,"","E.Watson",Unresolved,,L,TICA,50709740-C248-4BFC-BAC1-A008038C066D,119175-2,"","","""438, pl. 69""","1929",
+gcc-44408,A,Compositae,,Helianthus,,"membranifolius",,"","Poir.",Accepted,,M,TICA,6173C533-85D7-4E68-9339-5249AF1D70B2,212174-1,"Encycl. (Lamarck) Suppl. 3. 18","","18","1813",
+gcc-122084,A,Compositae,,Helianthus,,"mexicanus",,"","(Walp.) Hemsl.",Unresolved,,L,TICA,1D41DF0B-DB16-4F41-B7E0-CB39AB68A03E,,"""Biol. Cent.-Amer., Bot. ii. 180.""","","180","1881",
+gcc-137270,A,Compositae,,Helianthus,,"micranthus",,"","Spreng.",Unresolved,,L,TICA,3D02664E-F797-45CF-8F70-EE17F7190525,212176-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 618","","618","1826",
+gcc-13192,A,Compositae,,Helianthus,,"microcephalus",,"","Torr. & A.Gray",Synonym,,M,TICA,E44BAD11-F752-4A9E-800E-18920EED226A,,"Fl. N. Amer. (Torr. & A. Gray) 2","","","1842",gcc-115799
+gcc-8370,A,Compositae,,Helianthus,,"microclinus",,"","(DC.) M.Gómez",Synonym,,M,TICA,3B9B2C29-5DB2-4122-82E8-0F92BB47F662,119176-2,"","","273","1890",gcc-112501
+gcc-134755,A,Compositae,,Helianthus,,"microphyllus",,"","Kunth",Synonym,,M,TICA,5BC30D24-E90A-4BA6-AB22-E877E745BBD1,,"","","","",gcc-115799
+gcc-50048,A,Compositae,,Helianthus,,"missouriensis",,"","Schwein. ex Nutt.",Unresolved,,L,TICA,8934C9A7-F405-4548-A1C8-5CCB4EA62D93,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 368""","","368","1841",
+gcc-103997,A,Compositae,,Helianthus,,"missuricus",,"","Spreng.",Unresolved,,L,TICA,A311AE7D-8C64-4B29-B91E-A287F9E66AD2,212180-1,"Nov. Prov. 21.","","21","1819",
+gcc-100690,A,Compositae,,Helianthus,,"mollis",,"","Lam.",Accepted,,M,TICA,F902E0BB-8340-4E73-875B-9B3137F603DA,329254-2,"Encycl. (Lamarck) 3(1): 85","","85","1789",
+gcc-134756,A,Compositae,,Helianthus,,"mollis",,"","Buc'hoz",Unresolved,,L,TICA,8E6DF60D-8C89-4485-96B7-E87818803E5F,212183-1,"Herb. Col. Amer. t. 51 (Quid?).","","t. 51","",
+gcc-22098,A,Compositae,,Helianthus,,"mollis",,"","Willd.",Unresolved,,L,TICA,75FE85A3-58E0-4DB6-ADF1-28DE8EFD8689,119180-2,"","","2240","1803",
+gcc-54274,A,Compositae,,Helianthus,,"mollis",var.,"cordatus","S.Watson",Synonym,,L,TICA,08FBD7A9-5A21-4ABA-970E-6CB45879ABFB,119179-2,"""Gard. & Forest 2: 136, f. 100""","","""136, f. 100""","1889",gcc-24496
+gcc-145703,A,Compositae,,Helianthus,,"mollis",f.,"mollis","",Synonym,,L,TICA,AC7D30A3-6135-4A09-BC1E-092F361BEE7F,,"","","","",gcc-100690
+gcc-72483,A,Compositae,,Helianthus,,"mollis",var.,"mollis","",Synonym,,L,TICA,8AFE6C3E-ADAD-4D33-B5D4-FE42F93493BB,,"","","","",gcc-100690
+gcc-26183,A,Compositae,,Helianthus,,"mollissimus",,"","E.Watson",Unresolved,,L,TICA,D718D595-16A3-48A5-AEC0-306BEFEEFE3D,,"","","","1929",
+gcc-43580,A,Compositae,,Helianthus,,"montanus",,"","E.Watson",Synonym,,M,TICA,BB4CF1D6-9634-413E-A552-50CA0B0F5965,292386-2,"","","403","1929",gcc-116183
+gcc-142179,A,Compositae,,Helianthus,,"montevidensis",,"","Spreng. ex Arechav.",Unresolved,,L,TICA,E13E0B76-985B-4863-B88B-F91969B92AEE,212186-1,"""in Anal. Mus. Montevideo, vi. (Fl. Urug. iii.) 332 (1908).""","","vi. (Fl. Urug. iii.) 332","1908",
+gcc-138516,A,Compositae,,Helianthus,×,"multiflorus",,"","(L.) Heiser & D.M.Sm.",Unresolved,,L,TICA,35CE6699-150D-47A6-B0A8-F0C3D1E8053E,,"""Amer. J. Bot. xlvii. 865 (1960), in adnot.""","","865","",
+gcc-2062,A,Compositae,,Helianthus,,"multiflorus",,"","Hook.",Synonym,,M,TICA,54149203-020F-41E5-8ABA-03B5D4F7C2F1,,"Fl. Bor.-Amer. (Hooker) i. 313 (excl. syn.).","","313","1833",gcc-44475
+gcc-421,A,Compositae,,Helianthus,,"multiflorus",,"","L.",Accepted,,M,TICA,A675E67A-CD77-4C91-AE80-00C6E0065E4D,119182-2,"Sp. Pl. 905","","905","1753",
+gcc-51165,A,Compositae,,Helianthus,,"multiflorus",,"","W.Young",Unresolved,,L,TICA,18AB9774-9BDF-4F03-9C02-5EE66A02805C,212189-1,"""Cat. Arbres, Arbustes & Pl. Herb. Am. 37 (1783), nomen seminudum.""","","""37 , nomen seminudum.""","1783",
+gcc-130858,A,Compositae,,Helianthus,,"navarri",,"","Phil.",Accepted,,M,TICA,0FF23B56-24F1-48C7-9DC8-DF83317F793A,119183-2,"","","37","1895",
+gcc-137931,A,Compositae,,Helianthus,,"nebrascensis",,"","Cockerell",Unresolved,,L,TICA,6E057CD7-6CE9-4AB0-A7B1-EF7F07B2D5AD,,"","","","1919",
+gcc-92515,A,Compositae,,Helianthus,,"neglectus",,"","Otto ex A.Gray",Unresolved,,L,TICA,9C7BC61F-D6FD-4631-B2A4-88C68F33137F,212193-1,"Syn. Fl. N. Am. i. II. 279.","","i. II. 279","",
+gcc-99008,A,Compositae,,Helianthus,,"neglectus",,"","Heiser",Accepted,,M,TICA,C1A07052-7E48-487F-8C40-9767946D3B6B,,"","","","1958",
+gcc-116437,A,Compositae,,Helianthus,,"neomexicanus",,"","Wooton & Standl.",Unresolved,,L,TICA,DB003020-505E-4B38-95BE-BE693B137296,119186-2,"","","190","1913",
+gcc-114420,A,Compositae,,Helianthus,,"nigrescens",,"","Heiser",Synonym,,M,TICA,22ED0962-8E1A-4849-99C0-B9CEDF117238,309329-2,"Brittonia 8: 287","","287","1957",gcc-44024
+gcc-32656,A,Compositae,,Helianthus,,"nitidus",,"","Lunell",Unresolved,,L,TICA,CD095A83-8C81-4CAF-8CFB-3C899DF74A47,119188-2,"","","236","1910",
+gcc-34841,A,Compositae,,Helianthus,,"nitidus",var.,"nitidus","",Synonym,,L,TICA,D2778257-1BBA-41AB-BD24-4095D894E098,,"","","","",gcc-32656
+gcc-84871,A,Compositae,,Helianthus,,"niveus",,"","Hieron.",Synonym,Illegitimate,M,TICA,4E4B0D43-67A0-4C96-8375-777077A7504A,307404-2,"Bot. Jahrb. Syst. 21: 350","","350","1895",gcc-21763
+gcc-90258,A,Compositae,,Helianthus,,"niveus",,"","(Benth.) Brandegee",Accepted,,M,TICA,C7CC062E-67D3-43F4-92CD-8391E667E0D5,,"""Proc. Calif. Acad. Sci. ser. 2, 2: 173""","","173","1889",
+gcc-10573,A,Compositae,,Helianthus,,"niveus",subsp.,"canescens","(A.Gray) Heiser",Synonym,,L,TICA,442DFAAC-C01E-4190-8A10-13BF338A6ADE,,"Mem. Torrey Bot. Club 22(3): 43","","","1969",gcc-2678
+gcc-33725,A,Compositae,,Helianthus,,"niveus",subsp.,"niveus","",Synonym,,L,TICA,5A537EC1-5703-4B3A-AAD6-3E81AB3F4EAB,,"","","","",gcc-90258
+gcc-47799,A,Compositae,,Helianthus,,"niveus",var.,"niveus","",Synonym,,L,TICA,93479E73-5AA2-4E86-BE26-588CCA1485A7,,"","","","1889",gcc-90258
+gcc-13185,A,Compositae,,Helianthus,,"niveus",subsp.,"tephrodes","(A.Gray) Heiser",Accepted,,L,TICA,AB2D9478-1E5B-4CC5-AD4A-189049118967,119192-2,"Mem. Torrey Bot. Club 22(3): 43","","43","1969",
+gcc-79993,A,Compositae,,Helianthus,,"nuttallii",,"","Torr. & A.Gray",Accepted,,M,TICA,090570AA-E25D-477B-8FE5-6C9B699477CD,,"Fl. N. Amer. (Torr. & A. Gray) 2","","","1842",
+gcc-41534,A,Compositae,,Helianthus,,"nuttallii",subsp.,"canadensis","R.W.Long",Synonym,,L,TICA,AFE73402-6710-48CF-8E5E-4CECBEA8CB76,,"Brittonia 18: 77","","","1966",gcc-79993
+gcc-57629,A,Compositae,,Helianthus,,"nuttallii",subsp.,"coloradensis","(Cockerell) R.W.Long",Synonym,,L,TICA,DFB1CBF1-F63C-4922-B3DA-87DF7F4608A1,119195-2,"Rhodora 56: 199","","199","1954",gcc-79993
+gcc-153447,A,Compositae,,Helianthus,,"nuttallii",f.,"nuttallii","",Synonym,,L,TICA,73E6E365-599B-4830-AF67-AEB6596C58AD,,"","","","",gcc-79993
+gcc-154532,A,Compositae,,Helianthus,,"nuttallii",var.,"nuttallii","",Synonym,,L,TICA,BBDE1CDA-CB83-4A09-98C6-C59F8AF1F820,,"","","","",gcc-79993
+gcc-22693,A,Compositae,,Helianthus,,"nuttallii",subsp.,"nuttallii","",Synonym,,L,TICA,0DC9D29A-D0F2-40E5-979D-2A00FC18E0D3,,"","","","",gcc-79993
+gcc-64983,A,Compositae,,Helianthus,,"nuttallii",subsp.,"parishii","(A.Gray) Heiser",Accepted,,L,TICA,026A5CAA-D781-4656-871C-C2D3BA881E17,119196-2,"Contr. Dudley Herb. 4: 316","","316","1955",
+gcc-39190,A,Compositae,,Helianthus,,"nuttallii",subsp.,"rydbergii","(Britton) R.W.Long",Accepted,,L,TICA,D079F182-9463-490B-9D0C-48B3306A0CB6,119197-2,"Brittonia 18: 77","","77","1966",
+gcc-62084,A,Compositae,,Helianthus,,"nuttallii",var.,"rydbergii","(Britton) B.Boivin",Synonym,,L,TICA,A2447E9C-03D1-406A-93F3-ABD980E8FDF2,119198-2,"","","74","1972",gcc-39190
+gcc-63947,A,Compositae,,Helianthus,,"nuttallii",var.,"subtuberosus","(Britton) B.Boivin",Synonym,,L,TICA,0D18C8ED-A0EE-42D6-9F6C-BAD43B8CF2B6,119199-2,"","","74","1972",gcc-50414
+gcc-136593,A,Compositae,,Helianthus,,"oaxacanus",,"","Greenm.",Synonym,,M,TICA,85A168F8-1419-4E5B-8E7E-EC9286C1E2B5,278035-2,"Proc. Amer. Acad. Arts 39: 107","","107","1903",gcc-136709
+gcc-128112,A,Compositae,,Helianthus,,"occidentalis",,"","Riddell",Accepted,,M,TICA,09C00DDE-ADEC-4C94-95E3-D93FCE803A25,315076-2,"","","577","1836",
+gcc-8527,A,Compositae,,Helianthus,,"occidentalis",var.,"dowellianus","(M.A.Curtis) Torr. & A.Gray",Synonym,,L,TICA,73C3D517-F8A4-4780-A1AE-0FE8A4769313,119201-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 504","","504","1843",gcc-128112
+gcc-61808,A,Compositae,,Helianthus,,"occidentalis",var.,"occidentalis","",Synonym,,L,TICA,D0CADFE4-5CDB-4CC6-8906-A99862C7206B,119203-2,"Rhodora 47: 399","","399","1945",gcc-128112
+gcc-65091,A,Compositae,,Helianthus,,"occidentalis",subsp.,"occidentalis","",Synonym,,L,TICA,3E8CA31C-5520-4D89-9C52-C3CC037DE96F,,"","","","",gcc-128112
+gcc-59032,A,Compositae,,Helianthus,,"occidentalis",var.,"plantagineus","Torr. & A.Gray",Synonym,,L,TICA,EBC13267-73CE-4332-B909-934353DEEB47,,"Fl. N. Amer. (Torr. & A. Gray) 2: 323","","","1842",gcc-60464
+gcc-60464,A,Compositae,,Helianthus,,"occidentalis",subsp.,"plantagineus","(Torr. & A.Gray) Shinners",Accepted,,L,TICA,361DD3D9-EB09-420E-A92A-9E7ACFC6A00A,,"","","","",
+gcc-22546,A,Compositae,,Helianthus,,"oleifer",,"","Wall.",Unresolved,,L,TICA,EC403EFA-53EA-454E-B227-29B62121D432,,"Numer. List [Wallich] n. 3194","","3194","",
+gcc-131836,A,Compositae,,Helianthus,,"oliveri",,"","A.Gray",Unresolved,,L,TICA,3BF51B22-91C2-40ED-AA7E-E1DB19B1CE0D,119206-2,"","","299","1885",
+gcc-82280,A,Compositae,,Helianthus,,"orgyalis",,"","DC.",Synonym,,M,TICA,FA8D759E-8A1F-442B-8F2F-71AF88075DF4,1089579-2,"Prodr. (DC.) 5: 586","","586","1836",gcc-139018
+gcc-125765,A,Compositae,,Helianthus,,"orgyaloides",,"","Cockerell",Accepted,,M,TICA,8DA2B5A0-A01E-4B37-A377-D3CA96C64EA4,119207-2,"Bot. Gaz. 67: 264","","264","1919",
+gcc-97890,A,Compositae,,Helianthus,,"ovatus",,"","Lehm.",Synonym,,M,TICA,0310615E-D91F-4465-B229-94E305311068,212206-1,"","","16","1828",gcc-44475
+gcc-106220,A,Compositae,,Helianthus,,"pallidus",,"","Farw.",Unresolved,,L,TICA,926E3580-9C03-4FBA-8B67-A7487EC43CAE,119208-2,"Asa Gray Bull. 3: 21","","21","1895",
+gcc-140883,A,Compositae,,Helianthus,,"paradoxus",,"","Heiser",Accepted,,M,TICA,D5935F92-9D3B-4E00-A76D-F614B1678873,,"","","","1958",
+gcc-84705,A,Compositae,,Helianthus,,"parishii",,"","A.Gray",Synonym,,M,TICA,FC826201-3647-4E00-A5AB-771D0099D76B,119210-2,"","","7","1883",gcc-64983
+gcc-150736,A,Compositae,,Helianthus,,"parishii",var.,"parishii","",Synonym,,L,TICA,6234D9E2-59D3-40E1-931F-7560738D812D,,"","","","",gcc-64983
+gcc-156709,A,Compositae,,Helianthus,,"parishii",f.,"parishii","",Synonym,,L,TICA,503090A7-C5DF-441F-B9F9-F2A578C0EA38,,"","","","",gcc-64983
+gcc-111168,A,Compositae,,Helianthus,,"parviflorus",,"","Hornem.",Unresolved,,L,TICA,03A81A13-6EF6-44BF-AB75-B284149F35E0,927618-1,"","","842","1815",
+gcc-3270,A,Compositae,,Helianthus,,"parviflorus",,"","Bernh. ex Spreng.",Unresolved,Illegitimate,L,TICA,323B61CA-C40D-42BA-91F2-060B7A7B39A2,329268-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 617","","617","1826",
+gcc-46067,A,Compositae,,Helianthus,,"parviflorus",,"","Kunth",Synonym,,M,TICA,2FF116CD-22E3-4D79-9AF6-556683AF14DA,,"","","","1820",gcc-83456
+gcc-538,A,Compositae,,Helianthus,,"parviflorus",var.,"attenuatus","A.Gray",Synonym,,L,TICA,04B52804-58C3-470B-AA28-01025FBFCDDF,119214-2,"Syn. Fl. N. Amer. 1(2): 278","","278","1884",gcc-78882
+gcc-51592,A,Compositae,,Helianthus,,"parviflorus",var.,"parviflorus","",Synonym,,L,TICA,AFF070B8-D230-4DAE-A5DC-5FA90DE3A61A,,"","","","",gcc-83456
+gcc-38158,A,Compositae,,Helianthus,,"patens",,"","Lehm.",Synonym,,M,TICA,C875ACC0-69C1-4169-8245-46C7CAFD2A9D,212212-1,"Ind. Sem. Hort. Hamburg. (1821) 8","","8","1821",gcc-112435
+gcc-30040,A,Compositae,,Helianthus,,"pauciflorus",,"","Nutt.",Accepted,,M,TICA,3A26BB6C-9522-4B5D-A9AB-3795FBEEC72F,329249-2,"","","177","1818",
+gcc-66107,A,Compositae,,Helianthus,,"pauciflorus",var.,"pauciflorus","",Synonym,,L,TICA,5B48FE2F-124B-4D89-9F1C-CC0E02D42E94,,"","","","",gcc-30040
+gcc-68681,A,Compositae,,Helianthus,,"pauciflorus",subsp.,"pauciflorus","",Synonym,,L,TICA,045E7C58-212A-4317-A0CF-E0A78EE212ED,,"","","","",gcc-30040
+gcc-15882,A,Compositae,,Helianthus,,"pauciflorus",var.,"subrhomboideus","(Rydb.) Cronquist",Synonym,,L,TICA,7EFB08D0-A0EB-423A-BCFF-1D63565EA26B,1120992-2,"","","864","1991",gcc-67624
+gcc-67624,A,Compositae,,Helianthus,,"pauciflorus",subsp.,"subrhomboideus","(Rydb.) O.Spring & E.E.Schill.",Accepted,,L,TICA,DAEFA1A2-9D81-4027-B7B6-D8A7121193E7,1070491-2,"","","22","1990",
+gcc-123429,A,Compositae,,Helianthus,,"pedunculatus",,"","Hort ex Link",Unresolved,,L,TICA,CBEB02BE-65FA-4807-96E6-CE4C0DAE29D2,212214-1,"Enum. Hort. Berol. ii. 352.","","ii. 352","",
+gcc-109876,A,Compositae,,Helianthus,,"perennis",,"","Fritsch & E.Salisb.",Unresolved,,L,TICA,2D061870-DCE8-4F95-A2E5-AFAB740FAFC2,212215-1,"""Pl. Form & Funct. 228 (1938), in obs., sine descr. lat.""","","228","",
+gcc-129169,A,Compositae,,Helianthus,,"peruvianus",,"","Klotzsch",Unresolved,,L,TICA,B8576DE8-E39E-4AC3-9005-DBAE42B668BB,212216-1,"Otto & Dietr. Allg. Gartenz. iii. (1835) 369.","","iii.  369","1835",
+gcc-107482,A,Compositae,,Helianthus,,"petiolaris",,"","Hort. ex DC.",Unresolved,,L,TICA,D2BBCEEC-D0A8-4AAC-8D24-AA23462B446A,212217-1,"Prodr. (DC.) 5: 586","","586","1836",
+gcc-112435,A,Compositae,,Helianthus,,"petiolaris",,"","Nutt.",Accepted,,M,TICA,11AC066F-C870-4238-8277-B5708FAF2BC5,119216-2,"","","115","1821",
+gcc-2678,A,Compositae,,Helianthus,,"petiolaris",var.,"canescens","A.Gray",Accepted,,L,TICA,01202083-7E0B-4776-9885-04E7B16F6572,119218-2,"Smithsonian Contr. Knowl. 3(art. 5): 108","","108","1852",
+gcc-71343,A,Compositae,,Helianthus,,"petiolaris",var.,"canus","Britton",Synonym,Illegitimate,L,TICA,200FBC0C-2134-4EF2-A7FA-F5822F240344,298405-2,"Mem. Torrey Bot. Club 5: 334","","334","1894",gcc-2678
+gcc-54015,A,Compositae,,Helianthus,,"petiolaris",subsp.,"fallax","Heiser",Synonym,,L,TICA,20AAB813-20D7-4008-B8E2-6AA15309E745,,"Rhodora 60","","","1958",gcc-61314
+gcc-61314,A,Compositae,,Helianthus,,"petiolaris",var.,"fallax","(Heiser) B.L.Turner",Accepted,,L,TICA,3F8C5F92-B2D0-4AA9-8D46-A58D437C21D2,278038-2,"Phytologia 69(1)","","15","1990",
+gcc-41065,A,Compositae,,Helianthus,,"petiolaris",var.,"patens","Rydb.",Synonym,,L,TICA,6EE2D454-F67D-40A1-8DD7-4C1DC22B0600,,"Mem. Torrey Bot. Club 5(22): 334 (1894)","","334","1894",gcc-112435
+gcc-44263,A,Compositae,,Helianthus,,"petiolaris",subsp.,"petiolaris","",Synonym,,L,TICA,0D3C0DE6-4D07-4CED-87DF-51F5FDF0FD7F,,"","","","",gcc-112435
+gcc-61389,A,Compositae,,Helianthus,,"petiolaris",var.,"petiolaris","",Synonym,,L,TICA,EDF5F1CB-9470-4C16-A4FA-A625F386FEDA,,"","","","1821",gcc-112435
+gcc-4633,A,Compositae,,Helianthus,,"pilosus",,"","Tausch",Synonym,,M,TICA,71F3C94C-1EFC-410F-B834-08A030A1F5C2,212219-1,"""in Flora, xi. (1828) 502.""","","xi.  502","1828",gcc-50143
+tro-50132417,A,Compositae,,Helianthus,,"pinnata",,"","(Vent.) E.H.L. Krause",Synonym,,L,TRO,50132417,,"","","","",gcc-82238
+gcc-77351,A,Compositae,,Helianthus,,"pinnatus",,"","(Vent.) E.H.L.Krause",Unresolved,,L,TICA,BD9CB86A-FCFF-4782-9375-66ACB607307D,,"","","","1905",gcc-82238
+gcc-45712,A,Compositae,,Helianthus,,"plantagineus",,"","(Torr. & A.Gray) E.Watson",Unresolved,,L,TICA,3B2EA4FA-1D60-4BB3-A0AF-54BBBFD19B74,119224-2,"","","367","1929",
+gcc-98407,A,Compositae,,Helianthus,,"platycephalus",,"","Cass.",Synonym,,M,TICA,4FBE4D00-D5B8-4C1E-AB46-960C1A7304B5,,"in Dict. Sc. Nat. xx. 352.","","","1821",gcc-44475
+gcc-29011,A,Compositae,,Helianthus,,"polycephalus",,"","Cass.",Unresolved,,L,TICA,70EA808E-16EC-4029-A394-359C5223B147,212223-1,"in Dict. Sc. Nat. xx. 352.","","xx. 352","",
+gcc-138306,A,Compositae,,Helianthus,,"polyphyllus",,"","Small",Unresolved,,L,TICA,CEDB0AF2-0A29-4E93-84D8-F04C93ECE806,119225-2,"","","480","1898",
+gcc-126051,A,Compositae,,Helianthus,,"porteri",,"","(A.Gray) Pruski",Accepted,,L,TICA,A00E32B1-3274-41A9-BA06-D4734EC7F1A7,1000702-1,"Castanea 63(1)","","75","1998",
+gcc-138185,A,Compositae,,Helianthus,,"porteri",,"","Heiser",Unresolved,Illegitimate,L,TICA,66ABAD31-D779-48F3-B9FF-F00F4EB6A4AF,907960-1,"""in Indiana Acad. Sci., 88: 371 (1979), without direct ref. to place of publ.; cf. Gray Herb. Card Cat.:.""","","371","1979",gcc-126051
+gcc-7554,A,Compositae,,Helianthus,,"praecox",,"","Engelm. & A.Gray",Accepted,,M,TICA,4462359C-44E0-4DCA-B144-0E0466B31537,,"","","221","",
+gcc-12641,A,Compositae,,Helianthus,,"praecox",subsp.,"hirtus","(Heiser) Heiser",Accepted,,L,TICA,C35EA3BF-5989-4080-BD52-17913547E492,119227-2,"Mem. Torrey Bot. Club 22(3): 54","","54","1969",
+gcc-67823,A,Compositae,,Helianthus,,"praecox",var.,"praecox","",Synonym,,L,TICA,490229FF-CDBA-48DF-8B75-DA595CBD2A86,,"","","","",gcc-7554
+gcc-72336,A,Compositae,,Helianthus,,"praecox",subsp.,"praecox","",Synonym,,L,TICA,636E6E83-2520-4A2E-AE57-FD2F7FF435D9,,"","","","",gcc-7554
+gcc-35607,A,Compositae,,Helianthus,,"praecox",subsp.,"runyonii","(Heiser) Heiser",Accepted,,L,TICA,D1510D4D-8060-48E1-9238-4206B53DC47E,119228-2,"Mem. Torrey Bot. Club 22(3): 54","","54","1969",
+gcc-56841,A,Compositae,,Helianthus,,"praecox",var.,"runyonii","(Heiser) B.L.Turner",Synonym,,L,TICA,3C89A44E-28E3-4D6D-BBF8-8197B24EB6D0,278039-2,"Phytologia 69(1)","","15","1990",gcc-35607
+gcc-122904,A,Compositae,,Helianthus,,"praetermissus",,"","E.Watson",Accepted,,M,TICA,C7F31739-FF6F-453A-A5BB-CD16A2CA93DC,,"""in Papers Mich. Acad. Sc. 1928, ix. 335 (1929).""","","","1929",
+gcc-21543,A,Compositae,,Helianthus,,"procumbens",,"","Sessé & Moc.",Unresolved,,L,TICA,10A4B7BC-452F-40F7-A058-27D241609DF2,119229-2,"""Fl. Mexic., ed. 2 193""","","193","1894",
+gcc-23288,A,Compositae,,Helianthus,,"procumbens",,"","Raf.",Unresolved,,L,TICA,7AAEB4FD-00E1-4EFB-99DA-2B1A1A7A8159,212228-1,"Fl. Ludov. 70 (Quid ?).","","70","",
+gcc-89136,A,Compositae,,Helianthus,,"procumbens",,"","Pers.",Synonym,,M,TICA,EB2D1E83-1082-455D-B82C-81064F3AAD56,212227-1,"Syn. Pl. (Persoon) 2(2): 475","","475","1807",gcc-100442
+gcc-44938,A,Compositae,,Helianthus,,"prostratus",,"","Willd.",Unresolved,,L,TICA,CF675EDB-64A0-45DB-8DB4-53449DA1E41C,212230-1,"Sp. Pl. iii. 2242.","","iii. 2242","",
+gcc-128277,A,Compositae,,Helianthus,,"pseudoverbesinoides",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,11B679CC-93ED-4D57-B479-D9A54C994A7C,,"Bot. Jahrb. Syst. xxix. 40.","","40","",
+gcc-131252,A,Compositae,,Helianthus,,"pseudoverbesinoides",,"","Hieron.",Synonym,,M,TICA,5253BF6C-88A4-4E97-B77B-E07A36490605,119232-2,"Bot. Jahrb. Syst. 29","","40","1900",gcc-135073
+gcc-52941,A,Compositae,,Helianthus,,"pseudoverbesinoides",var.,"gracilis","Hieron.",Synonym,,L,TICA,6812AA54-BE5C-48C0-9025-6233CFDA3BF3,119231-2,"Bot. Jahrb. Syst. 29: 41","","41","1900",gcc-135073
+gcc-151546,A,Compositae,,Helianthus,,"pseudoverbesinoides",var.,"pseudoverbesinoides","",Synonym,,L,TICA,75C8A41C-6448-444B-B766-87027E69CF03,,"","","","",gcc-135073
+gcc-117618,A,Compositae,,Helianthus,,"pubescens",,"","[Ker-Gawl.]",Unresolved,,L,TICA,49200E58-2E54-49B2-B78C-C118B4BBD7A7,,"Bot. Reg. t. 524.","","t. 524","",
+gcc-80364,A,Compositae,,Helianthus,,"pubescens",,"","Vahl",Unresolved,,L,TICA,EB2387A8-D03F-4528-9CF7-6D767AF65945,212233-1,"Symb. Bot. (Vahl) ii. 92","","92","1791",
+gcc-81729,A,Compositae,,Helianthus,,"pubescens",,"","Hook.",Unresolved,,L,TICA,0E09C9AB-3F68-4383-A151-7076EFF619D4,212234-1,"Bot. Mag. 54: t. 2778","","2778","1827",
+gcc-16462,A,Compositae,,Helianthus,,"pumilus",,"","Nutt.",Accepted,,M,TICA,3ADA83AF-7ED2-4D82-B427-1E6D9C1A244A,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","","1841",
+gcc-75634,A,Compositae,,Helianthus,,"pumilus",,"","Pers.",Unresolved,,L,TICA,9A46D6E7-3D2D-409A-B9A7-62E326B6D56F,119234-2,"","","475","1807",
+gcc-153872,A,Compositae,,Helianthus,,"pumilus",var.,"pumilus","",Synonym,,L,TICA,50C633C6-CE72-482A-986F-B70AE8F714E7,,"","","","",gcc-16462
+gcc-83570,A,Compositae,,Helianthus,,"quinquelobus",,"","Sessé & Moc.",Synonym,,M,TICA,904A9F4B-2D6E-4166-8C82-74997CED1874,212237-1,"","","193","1894",gcc-117677
+gcc-131470,A,Compositae,,Helianthus,,"quinquenervis",,"","Hook.",Synonym,,M,TICA,14316CA3-225A-45DB-9A99-E0F4A1CD2A21,,"Lond. Journ. Bot. vi. (1847) 247.","","","1847",gcc-43145
+gcc-35481,A,Compositae,,Helianthus,,"quinqueradiatus",,"","Cav.",Synonym,,M,TICA,D8A59BA9-220D-4C1F-B6E0-41C8EE88D0AC,119236-2,"Ic. iii. 36. t. 272.","","","",gcc-29572
+gcc-144334,A,Compositae,,Helianthus,,"radula",,"","(Pursh) Torr. & A.Gray",Accepted,,M,TICA,2127892E-A11A-4CC7-9FAF-FDD7C8D74949,1074141-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 321","","321","1842",
+gcc-113812,A,Compositae,,Helianthus,,"ramosissimus",,"","Mill.",Unresolved,,L,TICA,8C2005C2-4FCE-4AE4-BAEA-B87505A57DF0,212241-1,"""Gard. Dict., ed. 8. n. 8.""","","8","1768",
+gcc-127879,A,Compositae,,Helianthus,,"reindutus",,"","(E.S.Steele) E.Watson",Synonym,,M,TICA,72710363-591C-4FA5-903D-D8BF00ACC017,119237-2,"","","376","1929",gcc-24496
+gcc-131249,A,Compositae,,Helianthus,,"resinosus",,"","Small",Accepted,,M,TICA,EDD206F3-26FC-4862-A33F-E0783E21E1B0,119238-2,"Fl. S.E. U.S. [Small].","","""1269, 1340""","1903",
+gcc-18050,A,Compositae,,Helianthus,,"revolutus",,"","Meyen",Synonym,,L,TICA,48D4B5F9-6F63-49CD-B31F-21574EF2C7B5,212244-1,"Reise Erde 1: 311","","311","1834",gcc-88323
+gcc-87066,A,Compositae,,Helianthus,,"rigidus",,"","(Cass.) Desf.",Synonym,,M,TICA,E042421E-F98E-4A32-A9A9-7C69CAABA006,1202097-2,"","","184","1829",gcc-30040
+gcc-14782,A,Compositae,,Helianthus,,"rigidus",subsp.,"laetiflorus","(Rydb.) Heiser",Synonym,,L,TICA,F1FE8944-FED5-48B7-A9B1-1B6A1F8FD10F,,"","","","",gcc-67624
+gcc-65174,A,Compositae,,Helianthus,,"rigidus",subsp.,"rigidus","",Synonym,,L,TICA,2126D373-8DA5-4411-8B4F-C470300DEB76,,"","","","",gcc-30040
+gcc-66147,A,Compositae,,Helianthus,,"rigidus",var.,"rigidus","",Synonym,,L,TICA,D2A845E8-9C57-46DE-96C8-CC678E43A06C,,"","","","",gcc-30040
+gcc-56598,A,Compositae,,Helianthus,,"rigidus",var.,"subrhomboideus","(Rydb.) Cronquist",Synonym,,L,TICA,CFC5175C-A4EA-4542-BE06-7FD52F0A91D2,119240-2,"Flora of the Pacific Northwest","","528","1973",gcc-67624
+gcc-63554,A,Compositae,,Helianthus,,"rigidus",subsp.,"subrhomboideus","(Rydb.) Heiser",Synonym,,L,TICA,B2D50E68-CDEA-4808-93C4-B7BCF1E35C5A,119241-2,"Mem. Torrey Bot. Club 22(3): 136","","136","1969",gcc-67624
+gcc-79566,A,Compositae,,Helianthus,,"riparia",,"","(Griseb.) Kuntze",Synonym,,M,TICA,464F68F6-F7C5-4C6C-ACC3-6BBA07B7FD7C,119242-2,"Revis. Gen. Pl. 3[3]: 157","","157","1898",gcc-95171
+gcc-118175,A,Compositae,,Helianthus,,"rivularis",,"","Poepp. ex DC.",Unresolved,,L,TICA,01500ED7-5A8A-4A3A-913B-C2515CD82CC6,212247-1,"Prodr. (DC.) 5: 495","","495","1836",
+gcc-91303,A,Compositae,,Helianthus,,"ruderalis",,"","Ventsl.",Unresolved,,L,TICA,D797CE94-5E75-450C-8387-86157323178A,212248-1,"""in Fl. Cult. Pl., USSR, ed. Vavilov et al., vii. (Oleiferous Pl.) 430 (1941),sine descr. lat.""","","""vii. (Oleiferous Pl.) 430 (1941),sine descr. lat.""","",
+gcc-113554,A,Compositae,,Helianthus,,"rugosus",,"","S.Schauer",Unresolved,Illegitimate,L,TICA,3292B09E-46D1-4CB5-A401-B7DF72A7B2E8,212249-1,"Linnaea 19: 728. 1847","","728","1847",gcc-140416
+gcc-97870,A,Compositae,,Helianthus,,"rugosus",,"","Meyen",Synonym,,L,TICA,A43C1DE3-AD01-4098-A9FF-94D696B5876B,,"Reise Erde 2: 45","","45","",gcc-83837
+gcc-17394,A,Compositae,,Helianthus,,"rydbergii",,"","Britton",Synonym,,M,TICA,47CD5AC5-F270-4843-A0F8-20242B1585AB,,"","","","1901",gcc-39190
+gcc-139018,A,Compositae,,Helianthus,,"salicifolius",,"","A.Dietr.",Accepted,,M,TICA,E0C8512B-CA26-4366-8D3C-F1D3C9B1C452,,"","","","1834",
+gcc-76676,A,Compositae,,Helianthus,,"sarmentosus",,"","Rich.",Accepted,,M,TICA,2D430BA6-7076-44E2-A15A-6535C6075665,212253-1,"Actes Soc. Hist. Nat. Paris 1","","112","1792",
+gcc-133108,A,Compositae,,Helianthus,,"saxicola",,"","Small",Synonym,,M,TICA,F92F513D-4472-4430-90A9-E4C10E3139F8,119243-2,"Fl. S.E. U.S. [Small].","","""1268, 1340""","1903",gcc-116183
+gcc-51043,A,Compositae,,Helianthus,,"scaber",,"","Pohl ex Baker",Unresolved,,L,TICA,9C22D343-4EB8-4859-847D-5EAFA10BAC03,,"Fl. Bras. (Martius) 6(3): 174","","174","",
+gcc-131310,A,Compositae,,Helianthus,,"scaberrimus",,"","Benth.",Unresolved,,L,TICA,086653ED-5527-4C21-A16B-E09A3C7EE11D,212256-1,"Bot. Voy. Sulphur 28.","","28","",
+gcc-154375,A,Compositae,,Helianthus,,"scaberrimus",,"","Elliott",Accepted,,M,TICA,EBDE80C3-7AD2-4A9B-9790-C2485D59399B,212257-1,"Sketch Bot. S. Carolina 2: 423. 1823","","423","1823",
+gcc-156995,A,Compositae,,Helianthus,,"scaberrimus",var.,"scaberrimus","",Synonym,,L,TICA,76F0B716-940B-4855-AAE9-F8874BFD1DCD,,"","","","",gcc-13240
+gcc-76485,A,Compositae,,Helianthus,,"schweinitzii",,"","Torr. & A.Gray",Accepted,,M,TICA,CB5B443F-80E4-4572-B611-64D1A7681DA4,329256-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 330","","330","1842",
+gcc-5348,A,Compositae,,Helianthus,,"scrophulariifolius",,"","Britton",Synonym,,M,TICA,6119651C-2E4D-4BDF-BE7E-09FAEFC2B03C,119245-2,"","","995","1901",gcc-116183
+gcc-108029,A,Compositae,,Helianthus,,"senex",,"","S.F.Blake",Synonym,,M,TICA,29AA0ED4-FD3D-4A99-A617-AB70C2698411,306199-2,"","","220","1926",gcc-81318
+gcc-38396,A,Compositae,,Helianthus,,"sericeus",,"","Sessé & Moc.",Synonym,,M,TICA,145FBDE5-B611-4CE9-A0A5-473E2F23B3E7,,"","","","1890",gcc-95931
+gcc-6029,A,Compositae,,Helianthus,,"serotinus",,"","Tausch",Synonym,,M,TICA,530763AC-7369-43A0-8252-0B377842FD08,,"""in Flora, xi. (1828) 504.""","","","1828",gcc-4823
+gcc-119972,A,Compositae,,Helianthus,,"severus",,"","E.Watson",Synonym,,M,TICA,AAE616D2-79B7-4237-B1E3-C66C936486DA,,"","","","1929",gcc-13240
+gcc-129746,A,Compositae,,Helianthus,,"silphioides",,"","Nutt.",Accepted,,M,TICA,49DCC94C-6835-4480-BA76-DCFDDD080F04,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 366""","","366","1841",
+gcc-77019,A,Compositae,,Helianthus,,"similis",,"","(Brandegee) S.F.Blake",Unresolved,,L,TICA,7D3C8D81-4889-4659-BCA9-65E8307846A9,119248-2,"Contr. Gray Herb. 54: 189","","189","1918",gcc-111117
+gcc-103191,A,Compositae,,Helianthus,,"simulans",,"","E.Watson",Accepted,,M,TICA,D5FD0ADB-7729-4C56-9FFC-A0B44F969500,,"","","","1929",
+gcc-78882,A,Compositae,,Helianthus,,"smithii",,"","Heiser",Accepted,,M,TICA,3A83A984-67D2-482C-9B3C-6A30591B3E44,212267-1,"""Rhodora lxvi. 346 (1964), in adnot.""","","346","1964",
+gcc-18856,A,Compositae,,Helianthus,,"smithiorum",,"","Heiser",Unresolved,,L,TICA,719F47F2-8503-4DA1-9805-22CF0954590F,292388-2,"Rhodora 66: 346","","346","1964",
+gcc-105595,A,Compositae,,Helianthus,,"sodiroi",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,6F5D4896-3844-4E95-95F6-A5EE42DA4352,,"Bot. Jahrb. Syst. xxix. 41.","","41","",
+gcc-48312,A,Compositae,,Helianthus,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,18529E91-747D-4977-A76B-5987BE14B509,119250-2,"Bot. Jahrb. Syst. 29: 41","","41","1900",gcc-107990
+gcc-92058,A,Compositae,,Helianthus,,"sparsiflorus",,"","A.Gray",Unresolved,,L,TICA,C6682AA6-7954-414A-AF17-87C17BB45157,212269-1,"Syn. Fl. N. Am. i. II. 463 (err. typ.).","","i. II. 463","",
+gcc-122311,A,Compositae,,Helianthus,,"sparsifolius",,"","Elliott",Synonym,,M,TICA,83783256-CF73-4B71-875C-CBBB9449A242,,"","","415","",gcc-99492
+gcc-108913,A,Compositae,,Helianthus,,"spathulatus",,"","Elliott",Unresolved,,L,TICA,64179730-AFD5-4A9C-83F6-AD70E340DD42,,"""Sketch, ii. 421""","","421","",
+gcc-31196,A,Compositae,,Helianthus,,"speciosus",,"","Hook.",Accepted,,M,TICA,2F9009B9-E46E-42FB-B1FE-39C39D1B1ED5,212272-1,"Bot. Mag. 61","","t. 3295","1834",
+gcc-83198,A,Compositae,,Helianthus,,"squarrosus",,"","Nutt.",Unresolved,Illegitimate,L,TICA,E9B28758-E608-4C75-82F8-73CB44982632,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 367""","","367","1841",
+gcc-84878,A,Compositae,,Helianthus,,"squarrosus",,"","Kunth",Synonym,,L,TICA,642D73C6-D116-472A-BAF6-7772E5D243F0,,"Nov. Gen. Sp. [H.B.K.] iv. 222. t. 377.","","","1820 [1818]",gcc-5558
+gcc-78853,A,Compositae,,Helianthus,,"stenophyllus",,"","(Torr. & A.Gray) E.Watson",Synonym,,M,TICA,86DEAB35-BE0D-4CCF-92BE-6A21F1F90824,119251-2,"","","396","1929",gcc-116183
+gcc-95246,A,Compositae,,Helianthus,,"striatus",,"","Raf.",Unresolved,,L,TICA,74FCCA45-CEC0-4449-B42A-8EDD835EBA33,212276-1,"Atl. Journ. 17 (Quid ?).","","17","",
+gcc-26855,A,Compositae,,Helianthus,,"strumosus",,"","L.",Synonym,,M,TICA,30CC4D06-1E1F-4DEB-8716-31A869A82FA9,329248-2,"","","905","1753",gcc-116183
+gcc-95024,A,Compositae,,Helianthus,,"strumosus",,"","Willd.",Unresolved,,L,TICA,0CDCEFCE-DB55-4CFC-83F8-8E5D502F6CB0,212278-1,"Sp. Pl. iii. 2242.","","iii. 2242","",
+gcc-66675,A,Compositae,,Helianthus,,"strumosus",var.,"strumosus","",Synonym,,L,TICA,8AB638DA-1CA5-467F-9858-D0B7FFF03739,,"","","","",gcc-116183
+gcc-140158,A,Compositae,,Helianthus,,"stuebelii",,"","Hieron.",Synonym,,M,TICA,17462A79-ECD5-4633-8A8D-F460DA86426D,,"Bot. Jahrb. Syst. 21","","249","1895",gcc-136183
+gcc-88965,A,Compositae,,Helianthus,,"subcanescens",,"","(A.Gray) E.Watson",Accepted,,M,TICA,582EF9E2-70BA-42A0-B534-809AA1613D75,119256-2,"","","430","1929",
+gcc-140547,A,Compositae,,Helianthus,,"subniveus",,"","S.F.Blake",Synonym,,M,TICA,E5DAB25E-DAFD-4C5D-881E-F54B40714AEF,292391-2,"Contr. U.S. Natl. Herb. 22: 621","","621","1924",gcc-21763
+gcc-16841,A,Compositae,,Helianthus,,"subrhomboideus",,"","Rydb.",Synonym,,M,TICA,C995D3A6-7326-4F0D-853F-1F1D522FC974,278040-2,"","","419","1900",gcc-67624
+gcc-41985,A,Compositae,,Helianthus,,"subtuberosus",,"","Bourg. ex A.Gray",Unresolved,,L,TICA,618F4E47-F458-4A12-B4E6-4DBDA9F31D66,212284-1,"Syn. Fl. N. Am. i. II. 276.","","i. II. 276","",
+gcc-5849,A,Compositae,,Helianthus,,"subtuberosus",,"","(Britton) Britton",Synonym,,M,TICA,2F43B2C8-E65A-499E-B780-0AE3B7D1DC65,,"","","","",gcc-50414
+gcc-96153,A,Compositae,,Helianthus,,"subtuberosus",,"","Bourg.",Accepted,,M,TICA,4858463C-C811-42F0-9CA0-90E69C50CDBB,119257-2,"","","","",
+gcc-157196,A,Compositae,,Helianthus,,"subtuberosus",var.,"subtuberosus","",Synonym,,L,TICA,F1DF1772-7187-4903-8DEB-FCE9941B6E8A,,"","","","",gcc-96153
+gcc-106877,A,Compositae,,Helianthus,,"superbus",,"","E.Watson",Synonym,,M,TICA,C7A0DE04-AA32-437D-9ED2-A8D5AE68CCC4,,"","","","1929",gcc-13240
+gcc-96424,A,Compositae,,Helianthus,×,"superbus",,"","Bergmans",Unresolved,,L,TICA,319E343E-9E53-4563-8B24-918732E8A6F4,212286-1,"""Vaste Pl. Rotsheesters, 264 (1924).""","","264","1924",
+gcc-30705,A,Compositae,,Helianthus,,"szyszylowiczii",,"","Hieron.",Synonym,,M,TICA,1F859989-426F-4438-8FA6-38DDD3C843E3,301894-2,"Bot. Jahrb. Syst. 36","","491","1905",gcc-135729
+gcc-140375,A,Compositae,,Helianthus,,"tenellus",,"","Raf.",Unresolved,,L,TICA,90657C72-9A75-40A3-AD02-F4E1394E261A,212288-1,"Atl. Journ. 17 (Quid ?).","","17","",
+gcc-101412,A,Compositae,,Helianthus,,"tenuifolius",,"","Elliott",Unresolved,,L,TICA,9EC90FC5-AF8E-4446-944D-9CB8D0664025,,"""Sketch, ii. 420""","","420","",
+gcc-105468,A,Compositae,,Helianthus,,"tephrodes",,"","A.Gray",Synonym,,L,TICA,4D770ECF-E9AC-42A1-BFF5-A5A79C2E08D4,212290-1,"","","90","1859",gcc-13185
+gcc-29074,A,Compositae,,Helianthus,,"tetragonus",,"","Moc. ex DC.",Synonym,Illegitimate,L,TICA,9A441007-5AEB-4AF8-ACF1-35C2E7F04627,212291-1,"Prodr. (DC.) 5: 576","","576","1836",gcc-76234
+gcc-5804,A,Compositae,,Helianthus,,"tetrapterus",,"","Ortega",Synonym,,L,TICA,6882F5D1-00F9-49F6-A470-0ACA8B871AA7,212292-1,"","","74","1798",gcc-76234
+gcc-125558,A,Compositae,,Helianthus,,"thurifer",,"","Molina",Synonym,,M,TICA,F98FCA70-3A90-47AC-99E9-D3543AF17757,212293-1,"","","","1782",gcc-22476
+gcc-79532,A,Compositae,,Helianthus,,"tomentosus",,"","Michx.",Synonym,,M,TICA,6314C861-B919-4CF5-BE70-6BA423B90DFA,119261-2,"","","141","1803",gcc-4823
+gcc-90,A,Compositae,,Helianthus,,"tomentosus",,"","Elliott",Unresolved,Illegitimate,L,TICA,AD041F71-C8A6-429E-A4E2-002FA3E26770,,"A Sketch of the Botany of South-Carolina and Georgia 2:","","424-425","1824",
+gcc-659,A,Compositae,,Helianthus,,"trachaefolius",,"","Wood",Unresolved,,L,TICA,E29DE3F7-28A9-4604-8B6B-0141C2D2340D,212295-1,"""Class-book Bot. (ed. 1861). 449, sphalm.""","","449","1861",
+gcc-138646,A,Compositae,,Helianthus,,"trachelifolius",,"","Mill.",Synonym,,M,TICA,2657B4DC-0008-43B4-B867-F109D287C489,,"""Gard. Dict., ed. 8. n. 7; Willd. Sp. Pl. 3: 2241""","","","1768",gcc-116183
+gcc-133672,A,Compositae,,Helianthus,,"tracheliifolius",,"","Hook.",Unresolved,,L,TICA,E003B573-34C8-42F6-B789-E60A9E1F11F4,212297-1,"Comp. Bot. Mag. i. (1835) 98.","","i.  98","1835",
+gcc-100193,A,Compositae,,Helianthus,,"tricuspis",,"","Elliott",Synonym,,M,TICA,FF3DADEA-EC06-4BA5-AA35-9A0CC423CB27,,"""Sketch, ii. 422""","","422","1824",gcc-13240
+gcc-20665,A,Compositae,,Helianthus,,"trilobatus",,"","Link",Synonym,,M,TICA,11EBE02A-8DA1-487E-BAF6-263B11D4D212,317895-2,"Enum. Hort. Berol. Alt. 2","","352","1822",gcc-95931
+gcc-27999,A,Compositae,,Helianthus,,"trilobatus",,"","Sessé & Moc.",Unresolved,,L,TICA,CDBC1150-F5CC-4972-8A33-33B6402B00B1,,"","","","1890",
+gcc-89309,A,Compositae,,Helianthus,,"trinervis",,"","hort.madr. ex DC.",Unresolved,,L,TICA,196837B0-1B45-41F6-9FA1-8169D5EE28B2,212301-1,"Prodr. (DC.) 5: 585","","585","1836",
+gcc-94300,A,Compositae,,Helianthus,,"trinervis",,"","Noronha",Unresolved,,L,TICA,D231A90E-3889-4044-B6C5-8CAC1E64BD23,212302-1,"","","18","1790",
+gcc-49782,A,Compositae,,Helianthus,,"triqueter",,"","Ortega",Synonym,,M,TICA,14BAC9DC-DFA4-4953-8B8D-5C487C219055,212303-1,"","","76","1798",gcc-112501
+gcc-40936,A,Compositae,,Helianthus,,"truncatus",,"","Schwein. ex Elliott",Unresolved,,L,TICA,7C0451EB-71F3-4221-99F3-4BD9314993D0,,"""Sketch, ii. 416""","","416","",
+gcc-12039,A,Compositae,,Helianthus,,"truxillensis",,"","Kunth",Synonym,,M,TICA,63DCB23A-CF59-4EC5-9B32-166F17386F08,,"Nov. Gen. Sp. [H.B.K.] iv. 223.","","","1820 [1818]",gcc-120756
+gcc-100641,A,Compositae,,Helianthus,,"tubaeformis",,"","Nutt.",Synonym,,M,TICA,8B1CBE30-FFE3-4DBD-A475-9B1433E89B6B,,"Gen. Am. ii. 177","","177","1818",gcc-44475
+gcc-108361,A,Compositae,,Helianthus,,"tubaeformis",,"","Jacq.",Synonym,,M,TICA,BD05ADE9-9264-4A7E-9D34-AC1C68540B1A,,"Pl. Hort. Schoenbr. 3","","""65, t. 375""","1798",gcc-137157
+gcc-18529,A,Compositae,,Helianthus,,"tuberosus",,"","Parry",Unresolved,,L,TICA,356CD4E3-C212-4D76-A2EF-2239F72D1418,212308-1,"""in Owen, Rep. Minnesot. Surv. 614.""","","614","",
+gcc-4823,A,Compositae,,Helianthus,,"tuberosus",,"","L.",Accepted,,M,TICA,8DFEC87B-85F3-483C-A62D-08FAE6001369,329252-2,"Sp. Pl.","","905","1753",
+gcc-3345,A,Compositae,,Helianthus,,"tuberosus",var.,"subcanescens","A.Gray",Synonym,,L,TICA,71D8B458-9B27-4445-854B-062C31B03970,119273-2,"""Syn. Fl. N. Amer. 1, pt. 2: 280""","","280","1884",gcc-4823
+gcc-157087,A,Compositae,,Helianthus,,"tuberosus",f.,"tuberosus","",Synonym,,L,TICA,F6041A38-E60A-4B83-ADEB-FA882A9B0080,,"","","","",gcc-4823
+gcc-58134,A,Compositae,,Helianthus,,"tuberosus",var.,"tuberosus","",Synonym,,L,TICA,9F414250-52C1-482E-AC52-8C0B0857F3FC,119274-2,"Rhodora 47: 399","","399","1945",gcc-4823
+gcc-15327,A,Compositae,,Helianthus,,"tubiformis",,"","Ortega",Synonym,Illegitimate,M,TICA,8024B8C5-BC27-47BC-A091-1C6166F7E570,212306-1,"","","101","1798",gcc-137157
+gcc-115192,A,Compositae,,Helianthus,,"undulatus",,"","Chapm.",Unresolved,,L,TICA,C1D215AE-DDB1-44D9-93DE-BB957C77023F,119276-2,"","","689","1892",
+gcc-82884,A,Compositae,,Helianthus,,"uniflorus",,"","Nutt.",Synonym,,L,TICA,5A4FD05C-50E3-41DD-BE08-7309EBF813F3,,"in Journ. Acad. Philad. vii. (1834) 37.","","","1834",gcc-39182
+gcc-134678,A,Compositae,,Helianthus,,"utahensis",,"","(D.C.Eaton) A.Nelson",Unresolved,,L,TICA,C0CBA633-BAA2-4CA3-BACC-E84E10F0B079,212312-1,"","","","1902",
+gcc-120240,A,Compositae,,Helianthus,,"validus",,"","E.Watson",Synonym,,M,TICA,02E156B2-C43C-4E26-B8F0-C70A014F6A53,,"","","","1929",gcc-50414
+gcc-142766,A,Compositae,,Helianthus,,"verbesinoides",,"","Kunth",Synonym,,M,TICA,EBFCE8F5-05A0-4B20-A55D-FA60581E0B52,,"","","","",gcc-101937
+gcc-97506,A,Compositae,,Helianthus,,"vernalis",,"","E.Watson",Unresolved,,L,TICA,82E101D2-C0E7-463A-8820-940680351366,119279-2,"","","""407, pl. 61""","1929",
+gcc-6945,A,Compositae,,Helianthus,×,"verticillatus",,"","E.Watson",Accepted,,M,TICA,EEF33730-00D7-494F-9EA3-0CE9CD7ABD62,,"","","","",
+gcc-86071,A,Compositae,,Helianthus,,"verticillatus",,"","Small",Unresolved,,L,TICA,B35EAF7D-FA30-497A-B79B-7A1BFD1C5283,119280-2,"","","479","1898",
+gcc-111972,A,Compositae,,Helianthus,,"vestitus",,"","E.Watson",Synonym,,M,TICA,83755BC7-D717-459A-8289-B4578BE5C240,,"","","","1929",gcc-55743
+gcc-85904,A,Compositae,,Helianthus,,"vicetinus",,"","Turra ex Zang.",Unresolved,,L,TICA,74451E6C-8866-4A12-9DA5-79BC8BA800EA,,"""in Atti Soc. Ital. Sc. Nat. Milano, xi. 1868 (1869) 389.""","","389","",
+gcc-112847,A,Compositae,,Helianthus,,"virgatus",,"","Lam.",Unresolved,,L,TICA,31092432-1425-477B-9192-B65CF9B9C597,212319-1,"Encycl. (Lamarck) 3(1): 85","","85","1789",
+gcc-26020,A,Compositae,,Helianthus,,"viridior",,"","S.F.Blake",Synonym,,M,TICA,4855FFCB-0C5C-4A61-9767-3019DFA8FFB1,310266-2,"J. Wash. Acad. Sci. 16: 221","","221","1926",gcc-140885
+gcc-104699,A,Compositae,,Helianthus,,"virilis",,"","E.Watson",Unresolved,,L,TICA,AF8BF6D6-F828-4B46-AD2F-A4068FA9F16B,,"","","","1929",
+gcc-87252,A,Compositae,,Helianthus,,"vulgaris",,"","W.Young",Unresolved,,L,TICA,BA7327DC-CC45-48C5-A044-7CDC9817E3FF,212322-1,"""Cat. Arbres, Arbustes & Pl. Herb. Am. 37 (1783), nomen seminudum.""","","""37 , nomen seminudum.""","1783",

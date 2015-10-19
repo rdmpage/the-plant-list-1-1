@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-135871,A,Compositae,,Pericallis,,"appendiculata",,"","(L.f.) B.Nord.",Accepted,,M,TICA,90CBCCFB-2D01-4A04-8583-EAE7C3E647DE,1084301-2,"Opera Bot. 44","","20","1978",
+gcc-153427,A,Compositae,,Pericallis,,"appendiculata",var.,"appendiculata","",Synonym,,L,TICA,1668DADB-F67C-46A0-8A44-AE66CED87FB3,,"","","","",gcc-135871
+gcc-118843,A,Compositae,,Pericallis,,"aurita",,"","(L'Hér.) B.Nord.",Accepted,,M,TICA,0CFCE801-706B-4825-AFBC-C3E98C94AF3A,237107-1,"","","20","1978",
+gcc-9965,A,Compositae,,Pericallis,,"cruenta",,"","(L'Hér.) Bolle",Accepted,,M,TICA,2CF14DA7-BB45-4320-B19A-129EE53D2364,1147870-2,"Bonplandia 8: 133. 1860","","133","1860",
+gcc-108288,A,Compositae,,Pericallis,,"cuneata",,"","(DC.) Webb & Bethel.",Synonym,,L,TICA,B8BDC5E1-A99F-416C-9FC7-ABF928587938,,"","","","",gcc-31561
+gcc-48074,A,Compositae,,Pericallis,,"cuneata",,"","(L'Hér.) Bolle",Synonym,,L,TICA,631A201F-8583-4C57-B16C-59130A48994C,,"","","","",gcc-31561
+gcc-19026,A,Compositae,,Pericallis,,"echinata",,"","(L.f.) B.Nord.",Accepted,,M,TICA,944A1053-BA3F-45E6-A136-2321AD37D3A5,1148841-2,"Opera Bot. 44","","20","1978",
+gcc-85002,A,Compositae,,Pericallis,,"hadrosoma",,"","(Svent.) B.Nord.",Accepted,,M,TICA,81B11BD6-8F38-41CF-BE82-77B5A864A69B,237111-1,"","","21","1978",
+gcc-24313,A,Compositae,,Pericallis,,"hansenii",,"","(G.Kunkel) Sunding",Accepted,,M,TICA,E43B4D5F-EFCD-42AC-8EF6-2CE71132DF8F,915343-1,"","","6","1985",
+gcc-31561,A,Compositae,,Pericallis,,"hybrida",,"","(Regel) B.Nord.",Accepted,,L,TICA,1EE74A90-9677-41EC-96EE-3A8289873B89,1164364-2,"","","21","1978",
+gcc-92954,A,Compositae,,Pericallis,,"lanata",,"","(L'Hér.) B.Nord.",Accepted,,M,TICA,3440EF22-5DAE-443D-9FED-89B988AFE572,1084521-2,"","","20","1978",
+gcc-57950,A,Compositae,,Pericallis,,"lanata",var.,"cyanophthalma","(Hook.) A.Hansen & Sunding",Synonym,,L,TICA,0E42310B-F2F9-4547-8FA6-8A8FD9F4EA63,972481-1,"""in Sommerfeltia, 17: 6 (1993):.""","","6","1993",gcc-92954
+gcc-69775,A,Compositae,,Pericallis,,"lanata",var.,"lanata","",Synonym,,L,TICA,7B8F9C22-F111-4205-8416-E8F0039C77DF,,"","","","",gcc-92954
+gcc-129403,A,Compositae,,Pericallis,,"malvifolia",,"","(L'Hér.) B.Nord.",Accepted,,M,TICA,8C92BFAD-E8E9-4244-B9A3-DC2FF243BE61,1164278-2,"Opera Bot. 44","","20","1978",
+gcc-154563,A,Compositae,,Pericallis,,"malvifolia",subsp.,"malvifolia","",Synonym,,L,TICA,9C4778D7-5901-47D5-859E-C64672C10CF7,,"","","","",gcc-129403
+gcc-133733,A,Compositae,,Pericallis,,"multiflora",,"","(L'Hér.) B.Nord.",Accepted,,M,TICA,6ED291D6-C57B-4EA6-9231-E62D1CB50E76,1039038-2,"Opera Bot. 44","","20","1978",
+gcc-14204,A,Compositae,,Pericallis,,"murrayi",,"","(Bornm.) B.Nord.",Accepted,,M,TICA,6E5B753F-B8A9-4CCA-918A-1A58ED17ACB6,237118-1,"","","21","1978",
+gcc-106701,A,Compositae,,Pericallis,,"papyracea",,"","(DC.) B.Nord.",Accepted,,M,TICA,C36F052C-1263-49AF-87DE-A86C00BB83CC,,"Opera Bot. 44: 21 (1978).","","","",
+gcc-40895,A,Compositae,,Pericallis,,"populifolia",,"","Webb & Berthel.",Unresolved,,L,TICA,8DD74616-17B2-4579-B96D-4BC5764E0DDE,237121-1,"","","","1839",gcc-135871
+gcc-114478,A,Compositae,,Pericallis,,"steetzii",,"","(Bolle) B.Nord.",Accepted,,M,TICA,7D9D79DA-DEEA-41EF-879B-B9F2FAA5D7A8,237122-1,"","","21","1978",
+gcc-131229,A,Compositae,,Pericallis,,"tussilaginis",,"","(L'Hér.) D.Don",Accepted,,M,TICA,7DA6142D-844F-4309-98F7-E0693C388BA1,,"","","","1834",
+gcc-95051,A,Compositae,,Pericallis,,"webbii",,"","(Sch.Bip.) Bolle",Accepted,,M,TICA,954FA25D-8BEC-4C16-8243-8E6B05D1CCA4,237124-1,"","","133","1860",

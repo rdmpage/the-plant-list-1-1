@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-94353,A,Compositae,,Filaginella,,"baicalensis",,"","(Kirp.) Czerep.",Synonym,,M,TICA,2F24E60F-C8B5-41B5-871B-8CCB52A925C6,984509-1,"","","59","1995",gcc-19503
+gcc-19083,A,Compositae,,Filaginella,,"kasachstanica",,"","(Kirp.) Tzvelev",Synonym,,M,TICA,FE08B7F3-CD9F-4B75-9BFF-233C4BB9D03C,962306-1,"Novosti Sist. Vyssh. Rast. 27","","151","1990",gcc-10654
+gcc-122783,A,Compositae,,Filaginella,,"lasiocarpa",,"","(Ledeb.) Opiz",Synonym,,M,TICA,B03F5917-AEDF-4E00-957B-CCC9E6A0CDE0,,"","","","1854",gcc-19503
+gcc-144156,A,Compositae,,Filaginella,,"luteoalba",,"","(L.) Opiz",Synonym,,M,TICA,2C0A7A09-10B5-409D-BF9B-FD770252FD7E,207815-1,"Seznam","","44","1852",gcc-32755
+gcc-104932,A,Compositae,,Filaginella,,"malzii",,"","Opiz",Synonym,,M,TICA,89517CEB-1774-4483-929B-A48C31166522,,"","","","1854",gcc-32241
+gcc-47809,A,Compositae,,Filaginella,,"mandshurica",,"","(Kirp.) Czerep.",Synonym,,M,TICA,3C0A50CF-88A7-4FD6-9671-5893A5E60F3B,984510-1,"","","59","1995",gcc-75613
+gcc-136843,A,Compositae,,Filaginella,,"nuda",,"","Opiz",Unresolved,,L,TICA,AF62EFE0-12B3-42FA-A7B1-ED258F285ED6,207817-1,"Seznam 44 (1852).","","44","1852",
+gcc-135290,A,Compositae,,Filaginella,,"palustris",,"","(Nutt.) Holub",Synonym,,M,TICA,16007399-4982-419C-8FD3-E9B71684CFAD,104774-2,"Folia Geobot. Phytotax. 11","","83","1976",gcc-91252
+gcc-107775,A,Compositae,,Filaginella,,"pilularis",,"","(Wahlenb.) Tzvelev",Synonym,,M,TICA,EBA46798-FE66-46DD-885F-AADA7D530BB8,962304-1,"Novosti Sist. Vyssh. Rast. 27","","150","1990",gcc-32241
+gcc-130577,A,Compositae,,Filaginella,,"rossica",,"","(Kirp.) Tzvelev",Synonym,,M,TICA,E7B03502-3EBA-4F49-8679-DEE055AFD2A5,962305-1,"Novosti Sist. Vyssh. Rast. 27","","150","1990",gcc-80272
+gcc-123276,A,Compositae,,Filaginella,,"tranzschelii",,"","(Kirp.) Holub",Synonym,,M,TICA,FA969176-9D50-4069-8E3F-CDECA3762035,207819-1,"","","83","1976",gcc-43879
+gcc-97199,A,Compositae,,Filaginella,,"uliginosa",,"","(L.) Opiz",Synonym,,M,TICA,4AC9CBEA-693A-4B5C-96EE-934DD25D8EC2,,"","","52","1854",gcc-32241
+gcc-71831,A,Compositae,,Filaginella,,"uliginosa",subsp.,"kasachstanica","(Kirp.) Holub",Synonym,,L,TICA,6E08621E-E288-485D-ADC7-F9208C82BA64,877285-1,"","","271","1976",gcc-10654
+gcc-59180,A,Compositae,,Filaginella,,"uliginosa",subsp.,"rossica","(Kirp.) Holub",Synonym,,L,TICA,23498037-CA46-44AC-992A-947437B9784F,877286-1,"","","271","1976",gcc-80272
+gcc-18729,A,Compositae,,Filaginella,,"uliginosa",subsp.,"sibirica","(Kirp.) Holub",Synonym,,L,TICA,4BF79B83-D3A8-40CE-B261-229770C9C004,877287-1,"","","271","1976",gcc-32241
+gcc-147251,A,Compositae,,Filaginella,,"uliginosa",subsp.,"uliginosa","",Synonym,,L,TICA,AAB6E19A-5F73-4FDA-B762-29928A61BF38,,"","","","",gcc-32241

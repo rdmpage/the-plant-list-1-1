@@ -1,0 +1,57 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24007,A,Compositae,,Angianthus,,"acrohyalinus",,"","Morrison",Accepted,,M,TICA,04554E88-CB4A-4764-9E6A-2C5A4E3503C5,120122-3,"","","","1912",
+gcc-144093,A,Compositae,,Angianthus,,"amplexicaulis",,"","(A.Gray) Benth.",Synonym,,M,TICA,08E93DB2-7CAC-481B-9838-FD57C346A24D,176726-1,"Fl. Austral. 3","","568","1867",gcc-32415
+gcc-135010,A,Compositae,,Angianthus,,"axiliflorus",,"","W.Fitzg. ex Ewart & Jean White",Synonym,,M,TICA,C402ED6C-ECB8-4456-A5B7-E90473BD23F1,176727-1,"","","315","1910",gcc-141582
+gcc-112556,A,Compositae,,Angianthus,,"axilliflorus",,"","Fitzg.",Unresolved,,L,TICA,D4287967-3D5D-478B-B601-B5B0540722CD,176728-1,"""in Journ. Bot. 1912, l. 21.""","","l. 21.","1912",
+gcc-115495,A,Compositae,,Angianthus,,"brachypappus",,"","F.Muell.",Accepted,,M,TICA,E373411C-2F4C-441E-BEB6-BC478A6711DB,176729-1,"","","44","1855",
+gcc-55931,A,Compositae,,Angianthus,,"brachypappus",var.,"brachypappus","",Synonym,,L,TICA,EA6C9346-5590-431A-85C4-7A41FE838DE8,120222-3,"Flora of South Australia 4  1929","","4","1929",gcc-115495
+gcc-60297,A,Compositae,,Angianthus,,"brachypappus",var.,"conocephalus","J.M.Black",Synonym,,L,TICA,66EE3516-ECBE-44B1-BBED-9D4875D6BF86,120244-3,"","","","1929",gcc-35198
+gcc-76823,A,Compositae,,Angianthus,,"burkittii",,"","(Benth.) J.M.Black",Synonym,,M,TICA,BE2AE397-305F-4F33-8FB9-658070DD0BD4,120278-3,"","","645","1929",gcc-24262
+gcc-79838,A,Compositae,,Angianthus,,"codonopappus",,"","F.Muell.",Synonym,,M,TICA,F584257B-3202-4D58-A7E2-6C470A3685DD,176731-1,"","","2","1875",gcc-43160
+gcc-34634,A,Compositae,,Angianthus,,"connatus",,"","W.Fitzg.",Synonym,,M,TICA,8B7DFD41-3319-44A5-B4D0-4035F88B2BA2,120323-3,"","","","1905",gcc-40690
+gcc-35198,A,Compositae,,Angianthus,,"conocephalus",,"","(J.M.Black) P.S.Short",Accepted,,M,TICA,7D907B88-3D49-44D2-AEBE-414543BAD557,911754-1,"","","167","1983",
+gcc-107274,A,Compositae,,Angianthus,,"cornutus",,"","P.S.Short",Accepted,,M,TICA,2B6EF1EB-4E4E-49C2-8741-A9B502C95461,901452-1,"","","169","1983",
+gcc-130153,A,Compositae,,Angianthus,,"cunninghamii",,"","(DC.) Benth.",Accepted,,L,TICA,FFE30D51-28CF-4B0D-A8A5-DDE1F2C7C0FB,176733-1,"Fl. Austral. 3","","565","1867",
+gcc-135450,A,Compositae,,Angianthus,,"cyathifer",,"","P.S.Short",Accepted,,M,TICA,F42DC97B-5A36-46C0-8844-EA0A14C357B0,901453-1,"","","160","1983",
+gcc-91377,A,Compositae,,Angianthus,,"demissus",,"","(A.Gray) Benth.",Synonym,,L,TICA,BA2A6F07-E8D5-4E03-A601-8643751DAF7F,176734-1,"Fl. Austral. 3","","567","1867",gcc-112528
+gcc-118578,A,Compositae,,Angianthus,,"drummondii",,"","(Turcz.) Benth.",Accepted,,L,TICA,9ADCBEFA-3D3C-4FF0-9E27-C34BF9AD6231,176735-1,"Fl. Austral. 3","","566","1867",
+gcc-19471,A,Compositae,,Angianthus,,"eriocephalus",,"","(Hook.f. ex A.Gray) Benth.",Synonym,,M,TICA,3C65712C-8FA4-4789-B92F-23FB6D79BDA2,176736-1,"Fl. Austral. 3","","567","1867",gcc-14151
+gcc-96035,A,Compositae,,Angianthus,,"filifolius",,"","(Benth.) C.A.Gardner",Synonym,,M,TICA,360E46F1-8859-4EC1-A92E-90AE5768C671,176737-1,"","","135","1931",gcc-99204
+gcc-25588,A,Compositae,,Angianthus,,"flavescens",,"","(Benth.) Steetz",Synonym,,M,TICA,08242BEB-B77F-4439-B7A4-2F427C58F80B,120441-3,"","","","1845",gcc-32922
+gcc-51405,A,Compositae,,Angianthus,,"glabratus",,"","P.S.Short",Accepted,,M,TICA,659A15C0-977D-440D-99AF-5F56B369EAFA,901454-1,"","","162","1983",
+gcc-115206,A,Compositae,,Angianthus,,"globifer",,"","(A.Gray) Benth.",Synonym,,M,TICA,110DEE32-15AE-4A4D-BC86-BBA0F4539B3B,176739-1,"Fl. Austral. 3","","567","1867",gcc-28604
+gcc-105099,A,Compositae,,Angianthus,,"halophilus",,"","Keighery",Accepted,,M,TICA,2114A93A-D915-4E1E-ADCC-A4E39AF64529,,"","","258","2004",
+gcc-52035,A,Compositae,,Angianthus,,"humifusus",,"","(Labill.) Benth.",Synonym,,L,TICA,53E2AED2-D726-477D-990C-60868ED123CF,176740-1,"Fl. Austral. 3","","563","1867",gcc-17996
+gcc-33953,A,Compositae,,Angianthus,,"humifusus",var.,"grandiflorus","Benth.",Synonym,,L,TICA,6F907854-0D52-48EF-8E5D-3EF78814BF83,120508-3,"","","","1867",gcc-17996
+gcc-55750,A,Compositae,,Angianthus,,"humifusus",var.,"humifusus","",Synonym,,L,TICA,6BB0745E-3C49-4BCF-88CE-78931EF904F7,120523-3,"Flora Australiensis 3  1867","","3","1867",gcc-17996
+gcc-55466,A,Compositae,,Angianthus,,"humifusus",var.,"minor","Benth.",Synonym,,L,TICA,1A99F6E7-9DE3-4BFE-8929-762D60BE3EB0,120529-3,"","","","1867",gcc-17996
+gcc-35568,A,Compositae,,Angianthus,,"lanigerus",,"","(Ewart & Jean White) Ewart & Jean White",Synonym,,L,TICA,D227EFF2-247D-4020-BCAD-41F191C688C3,120545-3,"","","288","1911",gcc-112942
+gcc-127604,A,Compositae,,Angianthus,,"microcephalus",,"","(F.Muell.) Benth.",Accepted,,L,TICA,69BA0ADC-B495-4806-B9DC-D80C13CD4146,176742-1,"Fl. Austral. 3","","566","1867",
+gcc-92531,A,Compositae,,Angianthus,,"micropodioides",,"","(Benth.) Benth.",Accepted,,L,TICA,46013B01-62C7-498B-AD87-88D2786F597C,120595-3,"","","","1867",
+gcc-22411,A,Compositae,,Angianthus,,"micropodioides",var.,"filaginoides","(Steetz) Ewart & Jean White",Synonym,,L,TICA,C0EFF4C8-B7E7-4B0E-9503-2977C9D10591,120616-3,"","","","1909",gcc-92531
+gcc-56293,A,Compositae,,Angianthus,,"micropodioides",var.,"micropodioides","",Synonym,,L,TICA,45FD29BB-A573-474B-8DE2-7D4CD8702ED1,,"Proceedings of the Royal Society of Victoria Series 2 22(1)  1909","","22(1)  1909","",gcc-92531
+gcc-27735,A,Compositae,,Angianthus,,"micropoides",,"","Benth.",Unresolved,,L,TICA,4C510A36-F496-442F-A22C-334497745D82,176743-1,"Fl. Austral. 3: 565","","565","1867",
+gcc-17582,A,Compositae,,Angianthus,,"milnei",,"","Benth.",Accepted,,L,TICA,972CC7AC-C23E-4DD6-84C5-2073AC6F9CFB,176744-1,"Fl. Austral. 3","","564","1867",
+gcc-125783,A,Compositae,,Angianthus,,"myosuroides",,"","(A.Gray) Benth.",Synonym,,M,TICA,1E099DD2-5C4E-42CF-9DA7-D3D57F8EF41D,176745-1,"Fl. Austral. 3","","563","1867",gcc-110075
+gcc-112890,A,Compositae,,Angianthus,,"newbeyi",,"","P.S.Short",Accepted,,M,TICA,7005DF24-CAB7-42CB-AF2C-B677724F9139,939805-1,"","","239","1990",
+gcc-137589,A,Compositae,,Angianthus,,"phyllocalymmeus",,"","(F.Muell.) Druce",Synonym,,L,TICA,E4067955-6056-4C00-AB1A-EEBFB274BC1A,176746-1,"","","604","1917",gcc-75500
+gcc-20865,A,Compositae,,Angianthus,,"phyllocalymneus",,"","Domin",Unresolved,,L,TICA,F9C6BB75-903D-4AF5-937B-2693AF4EB900,,"""Mem. Soc. Sci. Boheme 1921-22, No. 2, 121 (1923), in obs.""","","121","",
+gcc-103474,A,Compositae,,Angianthus,,"phyllocephalus",,"","(A.Gray) Benth.",Synonym,,L,TICA,AFF4E902-AA6E-475B-B16B-A15D1E19EEEB,176748-1,"Fl. Austral. 3","","565","1867",gcc-89387
+gcc-121505,A,Compositae,,Angianthus,,"platycephalus",,"","Benth.",Accepted,,L,TICA,599FDCAF-37A9-4AF9-A03B-C9F08184C921,176749-1,"Fl. Austral. 3","","566","1867",
+gcc-97512,A,Compositae,,Angianthus,,"pleuropappus",,"","Benth.",Synonym,Illegitimate,L,TICA,538976FD-2A92-4948-9373-940A417EB48B,176750-1,"Fl. Austral. 3","","563","1867",gcc-75500
+gcc-29760,A,Compositae,,Angianthus,,"plumiger",,"","Benth.",Synonym,,L,TICA,0E235609-30E1-4F53-B512-37041B8BA16D,176751-1,"Fl. Austral. 3","","568","1867",gcc-112942
+gcc-48953,A,Compositae,,Angianthus,,"preinsianus",,"","Steetz",Unresolved,,L,TICA,90B41BCF-F618-4986-889E-5AA7E5ADFCA3,,"","","","",
+gcc-14151,A,Compositae,,Angianthus,,"preissianus",,"","(Steetz) Benth.",Accepted,,M,TICA,A482480E-6DFF-4D67-B51C-1A3B548922C4,176752-1,"Fl. Austral. 3: 566 (1867)","","566","1867",
+gcc-18078,A,Compositae,,Angianthus,,"prostratus",,"","P.S.Short",Accepted,,M,TICA,0AF746DC-63C4-4D83-A4F3-2167538303DF,901455-1,"","","171","1983",
+gcc-142337,A,Compositae,,Angianthus,,"pusillus",,"","(Benth.) Benth.",Synonym,,M,TICA,2A128E74-8B27-4235-BEDE-F9649CF81528,176753-1,"Fl. Austral. 3","","564","1867",gcc-110791
+gcc-54592,A,Compositae,,Angianthus,,"pusillus",var.,"polyanthus","Benth.",Synonym,,L,TICA,5BCF4169-73B2-4ED8-AE31-6F411EEC2612,120822-3,"","","","1867",gcc-110791
+gcc-69630,A,Compositae,,Angianthus,,"pusillus",var.,"pusillus","",Synonym,,L,TICA,966ED00F-8A80-479E-82D0-E7D73AE55D56,120836-3,"Flora Australiensis 3  1867","","3","1867",gcc-110791
+gcc-76442,A,Compositae,,Angianthus,,"pygmaeus",,"","(A.Gray) Benth.",Accepted,,L,TICA,BC821DD1-351E-4C44-A8DC-64B90EE4CF57,176754-1,"Fl. Austral. 3","","567","1867",
+gcc-78648,A,Compositae,,Angianthus,,"stricta",,"","Steetz",Unresolved,,L,TICA,A154F5F3-3261-45E0-B033-699BDC48C11A,,"","","","",
+gcc-84939,A,Compositae,,Angianthus,,"strictus",,"","(Steetz) Benth.",Synonym,,L,TICA,721154A1-E150-4CC0-8729-779484F3BD09,176755-1,"Fl. Austral. 3","","568","1867",gcc-112942
+gcc-72220,A,Compositae,,Angianthus,,"strictus",var.,"lanigerus","Ewart & Jean White",Synonym,,L,TICA,23F6F0F5-A488-4502-9FDF-FC5FB9A39FF3,120889-3,"","","","1909",gcc-112942
+gcc-13648,A,Compositae,,Angianthus,,"strictus",var.,"strictus","",Synonym,,L,TICA,B883C3A8-1600-405F-937F-19625775EC3D,120907-3,"Proceedings of the Royal Society of Victoria Series 2","","92","1909",gcc-112942
+gcc-117758,A,Compositae,,Angianthus,,"tenellus",,"","(F.Muell.) Benth.",Synonym,,M,TICA,BA6AE54B-67C3-4643-B923-C1636C9EA4F0,176756-1,"Fl. Austral. 3","","564","1867",gcc-85457
+gcc-32922,A,Compositae,,Angianthus,,"tomentosus",,"","J.C.Wendl.",Accepted,,M,TICA,D26C426A-EAC0-4DA3-9F28-3D10A2D1AEA0,120934-3,"","","","",
+gcc-111876,A,Compositae,,Angianthus,,"uniflorus",,"","P.S.Short",Accepted,,M,TICA,6ABBF00C-C70F-40EE-AF85-B424ED2E9B03,939806-1,"","","240","1990",
+gcc-11719,A,Compositae,,Angianthus,,"whitei",,"","J.M.Black",Synonym,,M,TICA,55A7FEE9-66B9-4F68-85F5-15D4EE5AE98E,120956-3,"","","","1913",gcc-24262

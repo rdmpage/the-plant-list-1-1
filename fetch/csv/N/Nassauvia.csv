@@ -1,0 +1,150 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-2326,A,Compositae,,Nassauvia,,"abbreviata",,"","(Hook. & Arn.) Dusén",Synonym,,M,TICA,B5F63922-7848-43CF-B818-043A2DCEC712,,"","","112","1901",gcc-70186
+gcc-86741,A,Compositae,,Nassauvia,,"abbreviata",,"","Benth. & Hook.f.",Unresolved,,L,TICA,EE60ABDE-A696-4835-A0AD-7B9C26911B0F,234148-1,"Gen. ii. 503.","","ii. 503.","",
+gcc-53589,A,Compositae,,Nassauvia,,"abbreviata",var.,"abbreviata","",Synonym,,L,TICA,031B117D-34D7-4D6A-A082-675E4F34C9CB,,"","","","",gcc-70186
+gcc-72574,A,Compositae,,Nassauvia,,"abbreviata",var.,"azorelloides","Speg.",Synonym,,L,TICA,4755CEDC-0CF7-472B-B784-FF0C534E154E,167151-2,"Anales Soc. Ci. Argent. 53: 33. 1902","","33","1902",gcc-70186
+gcc-42033,A,Compositae,,Nassauvia,,"abbreviata",var.,"robusta","Cabrera",Synonym,,L,TICA,776899DC-1754-471B-849C-4DD7FA9F8E11,167152-2,"Fl. Patagonica 7: 357. 1971","","357","1971",gcc-70186
+gcc-68191,A,Compositae,,Nassauvia,,"abbreviata",var.,"subspinosa","(Phil.) Macloskie",Synonym,,L,TICA,511963BC-9928-4C72-B041-DCF0B9A0A6AB,,"","","","",gcc-70186
+gcc-142812,A,Compositae,,Nassauvia,,"acanthifolia",,"","(J.Rémy) G.F.Grandjot",Synonym,,M,TICA,501ABD71-E346-4182-A5B4-FA7CF5D5312F,,"","","","",gcc-30839
+gcc-79458,A,Compositae,,Nassauvia,,"acanthifolia",,"","(J.Rémy ex Remy) G.F.Grandjot & K.Grandjot",Synonym,,M,TICA,0F0A3BD9-F28F-4DFB-9E6D-6B7D066EC176,,"","","65","1936",gcc-30839
+gcc-144217,A,Compositae,,Nassauvia,,"acerosa",,"","(Meyen) Wedd.",Synonym,,M,TICA,2C742BC4-ABD2-4464-8C65-FD980493FF6D,234151-1,"Chlor. And. i. 51","","51","1855",gcc-30839
+gcc-92938,A,Compositae,,Nassauvia,,"aculeata",,"","(Less.) Poepp. & Endl.",Synonym,,M,TICA,ED576E47-B38D-4736-8285-89B339E2B46A,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) i. 13. t. 20.","","","1835",gcc-70186
+gcc-70186,A,Compositae,,Nassauvia,,"aculeata",var.,"aculeata","",Unresolved,,L,TICA,830335DF-9AED-4261-AA55-EC1A271F4EF0,,"""Nov. Gen. Sp. Pl. 1: 12, t. 20 (1835)""","","""12, t. 20""","1835",
+gcc-61489,A,Compositae,,Nassauvia,,"aculeata",var.,"spinosa","(Don) Cabrera",Synonym,,L,TICA,C6B8E678-7C71-4196-9881-A713E2D3409D,167156-2,"","","354","1971",gcc-70186
+gcc-107889,A,Compositae,,Nassauvia,,"ameghinoi",,"","Speg.",Accepted,,M,TICA,DADA03B3-5997-4A5A-901B-AB1EC9A64A95,167157-2,"","","542","1897",
+gcc-5731,A,Compositae,,Nassauvia,,"araucana",,"","Phil.",Synonym,,M,TICA,B5865A39-AA67-4AEF-AC87-0AAB0EFCB936,167158-2,"","","83","1894",gcc-29461
+gcc-114368,A,Compositae,,Nassauvia,,"argentea",,"","Phil.",Accepted,,M,TICA,B1C42AA5-2FF7-491D-9B73-B9B02FDAF383,167159-2,"","","82","1894",
+gcc-108781,A,Compositae,,Nassauvia,,"argyrophylla",,"","Speg. ex Cabrera",Accepted,,M,TICA,92C5225E-081B-4BBC-8A9E-AD267403D90D,,"","","160","1939",
+gcc-122835,A,Compositae,,Nassauvia,,"argyrophylla",,"","Speg. ex Hosseus",Unresolved,,L,TICA,4EE8A767-56BE-4CB3-8E4D-CCEDD1998679,,"Trab. Inst. Bot. Farmacol.","","","1915",
+gcc-132600,A,Compositae,,Nassauvia,,"axillaris",,"","(Lag. ex Spreng.) D.Don",Accepted,,M,TICA,2C1A6A34-4A92-4A97-9606-E39CC8A596E8,234158-1,"in Phil. Mag. xi. (1832) 390.","","390","1832",
+gcc-21079,A,Compositae,,Nassauvia,,"axillaris",var.,"axillaris","",Synonym,,L,TICA,6DD5F43A-D7F2-482C-98A0-26F0F07AECBD,,"","","","",gcc-132600
+gcc-66156,A,Compositae,,Nassauvia,,"axillaris",var.,"contracta","Speg.",Synonym,,L,TICA,3CAA0E96-102D-4408-AD2A-CC7DBE139566,167160-2,"Anales Soc. Ci. Argent. 53: 67. 1902","","67","1902",gcc-36099
+gcc-128129,A,Compositae,,Nassauvia,,"brevifolia",,"","Phil.",Synonym,,M,TICA,50E441EA-A839-4E63-ADB0-D94CE2B2108D,167161-2,"","","85","1894",gcc-99283
+gcc-135253,A,Compositae,,Nassauvia,,"bryoides",,"","O.Hoffm.",Synonym,,M,TICA,FB29E927-69D9-4A08-BEA3-E9976861C798,,"""Wiss. Erg. Schwed. Exp. Magellansl. 3, pt. 5: 114, pl. 6""","","","",gcc-36099
+gcc-28519,A,Compositae,,Nassauvia,,"bryoides",,"","O.Hoffm. ex Dusén",Unresolved,,L,TICA,D60B06C0-0720-40D0-B0A2-34BAB196AB6B,234160-1,"in Ergebn. Schwed. Exp. Magell. iii. v. 114.","","iii. v. 114","",
+gcc-83738,A,Compositae,,Nassauvia,,"candollei",,"","Macloskie",Synonym,,M,TICA,865AD0BF-7B56-4C45-B6D1-74EBF7415EC2,167163-2,"","","878","1906",gcc-80400
+gcc-28687,A,Compositae,,Nassauvia,,"capillata",,"","D.Don",Synonym,,M,TICA,EB51DFA0-6473-41F7-9A5A-35053CA2E96B,234162-1,"""in Phil. Mag. xi. (1832) 390, nomen.""","","""xi.  390, nomen""","1832",gcc-41682
+gcc-41621,A,Compositae,,Nassauvia,,"cespitosa",,"","Wedd.",Synonym,,M,TICA,2793E65E-B747-48E3-BD96-4D112C47F12E,234163-1,"Chlor. And. i. 48.","","48","1855",gcc-15159
+gcc-3527,A,Compositae,,Nassauvia,,"chubutensis",,"","Speg.",Accepted,,M,TICA,1F3CBD25-C416-48CA-AEAB-067B9409E58A,167164-2,"","","615","1897",
+gcc-48463,A,Compositae,,Nassauvia,,"commersonii",,"","Cass.",Unresolved,,L,TICA,3CBE0F6E-FB5D-4C12-A64D-59C28AEFCA78,234165-1,"in Dict. Sc. Nat. xxxviii. 457.","","xxxviii. 457","",
+gcc-128193,A,Compositae,,Nassauvia,,"cordifolia",,"","D.Don",Synonym,Illegitimate,M,TICA,4C992869-A6B7-4DD5-B85C-D970B4AABFF6,234166-1,"""in Phil. Mag. xi. (1832) 390, nomen.""","","""xi.  390, nomen""","1832",gcc-133946
+gcc-48318,A,Compositae,,Nassauvia,,"coronipappa",,"","Arroyo & Martic.",Accepted,,M,TICA,37681876-9E0C-4B51-9C32-5989D269A0AB,,"","","","1988",
+gcc-87311,A,Compositae,,Nassauvia,,"cumingii",,"","Hook. & Arn.",Accepted,,M,TICA,FC97C2C1-B182-4034-94A9-7CFB7DBC5B54,,"in Hook. Comp. Bot. Mag. i. (1835) 37.","","","1835",
+gcc-80400,A,Compositae,,Nassauvia,,"darwinii",,"","(Hook. & Arn.) O.Hoffm. & Dusén ex O.Hoffm. & Dusén",Accepted,,M,TICA,6D580054-9D4F-4136-B113-6D85FF973219,,"","","112","1901",
+gcc-60967,A,Compositae,,Nassauvia,,"darwinii",var.,"darwinii","",Synonym,,L,TICA,DA2B24FD-5ED1-4824-9CDE-A2A92DE8A895,,"","","","",gcc-80400
+gcc-36447,A,Compositae,,Nassauvia,,"darwinii",var.,"laxa","(Phil.) Skottsb.",Synonym,,L,TICA,8F76D34C-E8B3-4EFB-913A-4396C55D0CA1,167166-2,"""Kongl. Svenska Vetensk. Acad. Handl. 56, no. 5: 327. 1916""","","327","1916",gcc-80400
+gcc-15159,A,Compositae,,Nassauvia,,"dentata",,"","Griseb.",Accepted,,M,TICA,7EF92F9E-9E00-43B4-A715-1C1563E42F54,,"in Goett. Abh. vi. (1854) 125.","","125","1854",
+gcc-89634,A,Compositae,,Nassauvia,,"diazi",,"","(Phil.) Reiche",Unresolved,,L,TICA,118DD6B8-F5B9-4FB1-80EB-8225A8F1DB60,,"","","","1905",
+gcc-139551,A,Compositae,,Nassauvia,,"diffusa",,"","D.Don",Synonym,Illegitimate,M,TICA,7B955ABB-A920-4A94-BDF1-F2FA77480F68,234171-1,"""in Phil. Mag. xi. (1832) 390, nomen.""","","""xi.  390, nomen""","1832",gcc-139529
+gcc-127846,A,Compositae,,Nassauvia,,"digitata",,"","Wedd.",Accepted,,M,TICA,7F2ABD7F-149F-454D-9F0A-D8A73E2D1886,234172-1,"Chlor. And. i. 48.","","48","1855",
+gcc-13878,A,Compositae,,Nassauvia,,"durvillei",,"","Cass.",Synonym,,M,TICA,75CF7FEC-9A8B-41CC-88A9-19CC6A2D2DE6,,"in Dict. Sc. Nat. xxxviii. 456.","","","1825",gcc-29600
+gcc-25282,A,Compositae,,Nassauvia,,"dusenii",,"","O.Hoffm. ex Dusén",Unresolved,,L,TICA,A55A80AF-973F-4A9E-9090-2EABCA388AE6,234174-1,"in Rep. Princeton Univ. Exped. Patag. viii. 21.","","viii. 21.","",
+gcc-44864,A,Compositae,,Nassauvia,,"dusenii",,"","O.Hoffm. ex Macloskie",Unresolved,,L,TICA,02F9EA02-338C-4CE4-8A07-531F5A2081D0,,"""in Scott, Rep. Princeton Univ. Exped. Patag. viii. 879 (1906).""","","879","",
+gcc-91791,A,Compositae,,Nassauvia,,"dusenii",,"","O.Hoffm.",Accepted,,M,TICA,8D506925-D56C-4351-B109-872B09CB5766,,"""Rep. Princeton Univ. Exp. Patagonia, Botany 8: 879, pl. 30. 1906""","","","1906",
+gcc-142703,A,Compositae,,Nassauvia,,"fuegiana",,"","(Speg.) Cabrera",Accepted,,M,TICA,664A7752-F6FB-4681-B899-FA35DD1B2819,,"","","","1931",
+gcc-115156,A,Compositae,,Nassauvia,,"gaudichaudii",,"","(Cass.) Cass. ex Gaudich.",Accepted,,L,TICA,802934EA-E1F0-434B-9652-BB7E32F188A7,,"Ann. Sci. Nat. (Paris) 5: 103 (1825)","","103","1825",
+gcc-86316,A,Compositae,,Nassauvia,,"gaudichaudii",,"","(Cass.) Cass.",Unresolved,,L,TICA,3119D4EB-6CA8-43D3-B354-7AA33CCF7314,,"in Dict. Sc. Nat. xxxviii. 457.","","","1825",gcc-115156
+gcc-20021,A,Compositae,,Nassauvia,,"glabrata",,"","Phil.",Synonym,,M,TICA,958CCE61-7BB6-4D85-B906-2502A60E33CC,234179-1,"Anales Univ. Chile","","82","1894",gcc-87311
+gcc-88613,A,Compositae,,Nassauvia,,"glomerata",,"","Wedd.",Accepted,,M,TICA,6294E851-FEDE-4071-9918-7FD3277F7B41,234180-1,"Chlor. And. i. 53.","","53","1855",
+gcc-36099,A,Compositae,,Nassauvia,,"glomerulosa",,"","(Lag. ex Lindl.) D.Don",Accepted,,M,TICA,9FC39514-7489-4A96-8C89-42F2A61C2F6E,234181-1,"""in Phil. Mag. xi. (1832) 390, nomen.""","","390","1832",
+gcc-67270,A,Compositae,,Nassauvia,,"glomerulosa",var.,"columnaris","Hauman",Synonym,,L,TICA,CA3D87C0-7E53-4CF9-AECB-D5C8FE4F0F93,,"Anales de Sociedad Cientifica Argentina 89:","","""t. 5, f. e""","1920",gcc-36099
+gcc-113686,A,Compositae,,Nassauvia,,"glomerulosa",f.,"glomerulosa","",Synonym,,L,TICA,33027CC5-F866-4BFA-9E7F-B82FEA8791D0,,"","","","",gcc-36099
+gcc-68594,A,Compositae,,Nassauvia,,"glomerulosa",var.,"glomerulosa","",Synonym,,L,TICA,15A8FFF5-190D-4BDD-99A3-DFEFD80D4D40,,"","","","",gcc-36099
+gcc-101900,A,Compositae,,Nassauvia,,"heterophylla",,"","Albov",Synonym,,M,TICA,79D2067F-7186-48BF-AEA1-9DD1CAAA7910,167174-2,"""Revista Mus. La Plata, Secc. Paleontol. 7: 373, pl. 2. 1896""","","""373, pl. 2""","1896",gcc-101943
+gcc-42354,A,Compositae,,Nassauvia,,"heterophylla",,"","(Phil.) Reiche",Synonym,,M,TICA,AE3DFDF3-1281-4FCE-806D-4E777CD2D0DA,,"","","","1905",gcc-19852
+gcc-83233,A,Compositae,,Nassauvia,,"heterophylla",,"","Alboaf ex Alboaf & Kurtz",Unresolved,,L,TICA,FB41B189-5E66-4EAA-92AD-73DA85018553,,"""in Rev. Mus. La Plata, vii. 373.""","","vii. 373.","",
+gcc-115623,A,Compositae,,Nassauvia,,"heterophyllum",,"","Phil.",Unresolved,,L,TICA,28AE8497-A45C-4CDB-BFCB-BC9D78F3186E,,"","","","",
+gcc-11865,A,Compositae,,Nassauvia,,"hillii",,"","Cabrera",Accepted,,M,TICA,1122D3E2-8483-4001-A8BA-161A2A426D1E,234184-1,"","","161","1939",
+gcc-77454,A,Compositae,,Nassauvia,,"humilis",,"","Phil.",Synonym,,L,TICA,EE19608A-0C8E-4912-BB27-66EBAF2EC38E,167177-2,"","","87","1894",gcc-142834
+gcc-122242,A,Compositae,,Nassauvia,,"intermedia",,"","Phil.",Synonym,,M,TICA,D17EBFDF-2913-4896-8FAD-CB9456ED709A,167178-2,"","","83","1894",gcc-96892
+gcc-30292,A,Compositae,,Nassauvia,,"juniperina",,"","Skottsb.",Accepted,,M,TICA,868EDE6A-C4D0-431F-80FC-380B52683713,,"","","328","1916",
+gcc-141619,A,Compositae,,Nassauvia,,"lagascae",,"","(D.Don) F.Meigen",Synonym,,L,TICA,8084004F-5863-4068-A306-F7CD1E48FD75,167180-2,"","","445","1894",gcc-142834
+gcc-142834,A,Compositae,,Nassauvia,,"lagascae",,"","Hauman",Accepted,,L,TICA,C0DAAC71-AFB9-41D8-BA69-FA8B55E792B9,234190-1,"in Anal. Soc. Ci. Argent. lxxxvi. 326 (1918).","","lxxxvi. 326","1918",
+gcc-143639,A,Compositae,,Nassauvia,,"lagascae",,"","Benth. & Hook.f.",Unresolved,,L,TICA,FF9EB5FD-204A-4D4E-B1E2-FC55B67896AF,234188-1,"Gen. ii. 503.","","ii. 503.","",
+gcc-9346,A,Compositae,,Nassauvia,,"lagascae",,"","Reiche",Synonym,Illegitimate,M,TICA,7FE4214D-3CD8-4699-86D7-116F0A025271,,"","","","",gcc-80400
+gcc-104360,A,Compositae,,Nassauvia,,"lagascae",f.,"lagascae","",Synonym,,L,TICA,1596BDF7-CCD5-4464-B88D-A3557FC53AA6,,"","","","",gcc-142834
+gcc-61857,A,Compositae,,Nassauvia,,"lagascae",var.,"lagascae","",Synonym,,L,TICA,3D67273C-ABAA-43A4-B2BF-A9FB9B6335DF,,"Bot. Jahrb. Syst. 18(4): 445 (1894)","","445","1894",gcc-142834
+gcc-57259,A,Compositae,,Nassauvia,,"lagascae",var.,"lanata","(Phil.) Skottsb.",Accepted,,L,TICA,56F8C59A-1539-484E-800E-84F83605A1B9,,"","","329","1916",
+gcc-137150,A,Compositae,,Nassauvia,,"lanata",,"","Reiche",Unresolved,,L,TICA,02561A7E-6F33-431A-AFB8-EDD60A23E9A7,,"","","","",
+gcc-60675,A,Compositae,,Nassauvia,,"lanata",var.,"lanata","",Synonym,,L,TICA,FE1AB3F5-0B76-4E36-9FD0-A0340FDAF9AF,,"","","","",gcc-137150
+gcc-45897,A,Compositae,,Nassauvia,,"lanata",var.,"lanigera","(Phil.) Reiche",Synonym,,L,TICA,876D3713-8861-48A6-A90F-55130C62403A,,"""Anales Univ. Chile 115: 580. 1905 Reiche, Flora de Chile, 4: 389. 1905""","","","",gcc-142834
+gcc-133444,A,Compositae,,Nassauvia,,"lanigera",,"","Phil.",Synonym,,L,TICA,330BCAF0-FAE0-44BD-8D45-E584326BBB34,167186-2,"","","87","1894",gcc-142834
+gcc-144231,A,Compositae,,Nassauvia,,"latifolia",,"","(Phil.) F.Meigen",Unresolved,,L,TICA,DA9E77FD-F2C0-4DEB-9C2F-FDA1EFE9D247,,"","","","1894",
+gcc-3103,A,Compositae,,Nassauvia,,"latifolium",,"","Phil.",Unresolved,,L,TICA,C61BDE70-06C1-4319-886C-05BD2E506523,,"","","","",
+gcc-140753,A,Compositae,,Nassauvia,,"latissima",,"","Skottsb.",Accepted,,M,TICA,20DA3DFD-99D3-40C4-AF57-F5CF40BECD9F,,"","","","1916",
+gcc-120110,A,Compositae,,Nassauvia,,"laxa",,"","De Wild.",Unresolved,,L,TICA,EFD56A48-0EC1-4533-BBE2-C6BE80C0DB8B,167189-2,"","","176","1905",
+gcc-99431,A,Compositae,,Nassauvia,,"laxa",,"","(Phil.) Speg.",Synonym,,M,TICA,15D71E68-BEA9-49EE-B506-9857B8889AF4,,"Anales de Sociedad Cientifica Argentina 53:","","33","1902",gcc-80400
+gcc-19852,A,Compositae,,Nassauvia,,"looseri",,"","Cabrera",Accepted,,M,TICA,CA22C39F-A5FE-415A-B2AB-24B8F8395862,907485-1,"","","363","1982",
+gcc-80152,A,Compositae,,Nassauvia,,"lycopodioides",,"","Phil.",Synonym,,M,TICA,51B2D30A-9246-40D9-8968-6CFED1D855B3,,"Linnaea 28: 714. 1858","","714","",gcc-127846
+gcc-31754,A,Compositae,,Nassauvia,,"macracantha",,"","DC.",Synonym,,M,TICA,E2C5AF88-97F9-45AE-B779-3AD5447BD4FF,234197-1,"Prodr. (DC.) 7(1): 49","","49","1838",gcc-87311
+gcc-56625,A,Compositae,,Nassauvia,,"macracantha",var.,"glabrata","(Phil.) Reiche",Synonym,,L,TICA,3DB7085C-4F9D-42E3-839B-7FF6367D6049,167190-2,"""Anales Univ. Chile 115: 572. 1905 Reiche, Flora de Chile, 4: 381. 1905""","","572","1905",gcc-87311
+gcc-149321,A,Compositae,,Nassauvia,,"macracantha",var.,"macracantha","",Synonym,,L,TICA,5EAE8AC8-E57C-4D78-A68B-565E9364B376,,"","","","",gcc-87311
+gcc-71606,A,Compositae,,Nassauvia,,"macracantha",var.,"pungens","(Phil.) Hauman",Synonym,,L,TICA,B3AEA874-96A3-4D71-83B1-F7778550CDB6,167191-2,"Anales Soc. Ci. Argent. 86: 326. 1918","","326","1918",gcc-36103
+gcc-15085,A,Compositae,,Nassauvia,,"macracantha",var.,"spicata","(J.Rémy) Hauman",Synonym,,L,TICA,B26F6193-85C2-4EBB-99D7-1BEC6E36A2E0,167192-2,"Anales Soc. Ci. Argent. 86: 327. 1918","","327","1918",gcc-87311
+gcc-82995,A,Compositae,,Nassauvia,,"maeviae",,"","Cabrera",Accepted,,M,TICA,AA7ACF91-6E9F-4D9B-9624-734D5D17A25E,,"","","","1982",
+gcc-101943,A,Compositae,,Nassauvia,,"magellanica",,"","J.F.Gmel.",Accepted,,M,TICA,37F57A72-4174-4116-90A5-9DE9CE53B8F0,,"""Syst. Nat., ed. 13[bis]. 2(2): 1281""","","1281","1791",
+gcc-41202,A,Compositae,,Nassauvia,,"magellanica",var.,"magellanica","",Synonym,,L,TICA,85792CE8-20BD-4397-9884-4C5B12647A6A,,"","","","",gcc-101943
+gcc-18999,A,Compositae,,Nassauvia,,"magellanica",var.,"purpurascens","(S.Moore ex S.Moore) Cabrera",Synonym,,L,TICA,159F484B-0C5D-4A96-B949-2312A580A314,877659-1,"","","335","1971",gcc-101943
+gcc-116019,A,Compositae,,Nassauvia,,"modesta",,"","O.Hoffm.",Synonym,,M,TICA,AFBD28A5-615C-43C9-8F79-BD7BCF6F1BDB,,"""Wiss. Erg. Schwed. Exp. Magellansl. 3, pt. 5: 114, pl. 4""","","","",gcc-36099
+gcc-118427,A,Compositae,,Nassauvia,,"modesta",,"","O.Hoffm. ex Dusén",Unresolved,,L,TICA,A16507B3-DDC7-4BF1-94CE-C2E786FC2ED4,234199-1,"in Ergebn. Schwed. Exp. Magell. iii. v. 114.","","iii. v. 114","",
+gcc-140210,A,Compositae,,Nassauvia,,"morenonis",,"","Kuntze",Synonym,,M,TICA,E42852B4-D58E-4B6B-8122-F47F4D3609BF,167195-2,"Revis. Gen. Pl. 3[3]: 165","","165","1898",gcc-107889
+gcc-85453,A,Compositae,,Nassauvia,,"multiflora",,"","Meyen",Synonym,,M,TICA,A6EC130C-83EF-4C48-AF79-78B318A1D24C,234201-1,"Reise Erde 1: 356","","356","1834",gcc-84998
+gcc-10298,A,Compositae,,Nassauvia,,"nivalis",,"","Poepp. ex Less.",Synonym,,M,TICA,47478430-E36E-4743-864D-133AB7982740,,"","","","",gcc-99283
+gcc-112655,A,Compositae,,Nassauvia,,"nivalis",,"","Poepp. & Endl.",Accepted,,M,TICA,CDF96FF8-9CDF-4D29-998C-B5E797CFA499,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) i. 13. t. 22.","","","1832",
+gcc-59646,A,Compositae,,Nassauvia,,"nivalis",var.,"brevifolia","(Phil.) Reiche",Synonym,,L,TICA,584F08CB-02BD-4E46-A9DC-981BE9DBABD0,167197-2,"Anales Univ. Chile 115","","570","1905",gcc-99283
+gcc-155447,A,Compositae,,Nassauvia,,"nivalis",var.,"nivalis","",Synonym,,L,TICA,642BB53C-ED9B-4F3C-957B-D88C328C10B3,,"","","","",gcc-112655
+gcc-409,A,Compositae,,Nassauvia,,"nivalis",var.,"sericea","Phil.",Synonym,,L,TICA,A0BE1309-FB0D-4237-B532-00C23B19C3D4,167198-2,"Linnaea 33: 115. 1864","","115","1864",gcc-99283
+gcc-12858,A,Compositae,,Nassauvia,,"nordenskjoldii",,"","O.Hoffm. ex Dusén",Unresolved,,L,TICA,980F5127-EF36-4465-82D2-17F8610FDC06,234203-1,"in Ergebn. Schwed. Exp. Magell. iii. v. 113.","","iii. v. 113","",
+gcc-146134,A,Compositae,,Nassauvia,,"nordenskjoldii",,"","O.Hoffm.",Unresolved,,L,TICA,5F503BAA-E0E9-4319-B6D8-12201B095E6C,1097625-2,"","","","",
+gcc-140718,A,Compositae,,Nassauvia,,"oligocephala",,"","(DC.) Wedd.",Synonym,,M,TICA,03A4376B-C5A8-474D-9C96-F5BB72E3F60E,,"Chlor. And. i. 53.","","53","",gcc-125445
+gcc-118086,A,Compositae,,Nassauvia,,"patagonica",,"","Speg.",Synonym,,M,TICA,7A86289E-B0B1-4135-91D3-C2218B6B661F,167200-2,"","","543","1897",gcc-80002
+gcc-70996,A,Compositae,,Nassauvia,,"patagonica",var.,"elatior","Speg.",Synonym,,L,TICA,75336FB2-3C9F-4582-B7D2-F28E2329AA82,167201-2,"Anales Soc. Ci. Argent. 53: 67. 1902","","67","1902",gcc-80002
+gcc-65796,A,Compositae,,Nassauvia,,"patagonica",var.,"patagonica","",Synonym,,L,TICA,AC398ADA-7ECA-4CC6-8BE4-C9A9D3E366A9,,"","","","",gcc-80002
+gcc-100322,A,Compositae,,Nassauvia,,"patula",,"","Phil.",Synonym,,M,TICA,8D2902E2-B897-4EDF-9F5D-9A5DF93E3456,167202-2,"","","84","1894",gcc-15159
+gcc-80228,A,Compositae,,Nassauvia,,"pentacaenoides",,"","Speg.",Accepted,,M,TICA,5BBB6E25-5CA6-42C6-9134-6D29B39B387F,167203-2,"","","34","1902",
+gcc-84998,A,Compositae,,Nassauvia,,"pinnigera",,"","D.Don",Accepted,,M,TICA,564C75BB-F01C-443B-A265-77B449D0E8A2,234209-1,"in Phil. Mag. xi. (1832) 390; Gill. ex Hook. & Arn. in Hook. Comp. Bot. Mag. i.(1835) 37.","","390","1832",
+gcc-135264,A,Compositae,,Nassauvia,,"planifolia",,"","Wedd.",Accepted,,M,TICA,1A1FDC82-4485-4758-AB54-E9A1B3FCAF37,234210-1,"Chlor. And. i. 48.","","48","1855",
+gcc-104141,A,Compositae,,Nassauvia,,"pulcherrima",,"","Cabrera",Accepted,,M,TICA,85693253-763E-4461-892C-A2D8836D522B,,"","","","1939",
+gcc-117485,A,Compositae,,Nassauvia,,"pumila",,"","Poepp. ex Less.",Unresolved,,L,TICA,356CD97D-CBE5-4C80-BF4B-C0C71089FE5B,,"","","","",
+gcc-75378,A,Compositae,,Nassauvia,,"pumila",,"","Poepp. & Endl.",Accepted,,M,TICA,904C7CC6-A6F4-443A-BC5F-624E6ECF64A0,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) i. 13. t. 21.","","","1832",
+gcc-57799,A,Compositae,,Nassauvia,,"pumila",var.,"intermedia","(Phil.) Reiche",Synonym,,L,TICA,66CD1ADE-D6C4-4428-A726-894E7BB80606,,"""Anales Univ. Chile 115: 576. 1905 Reiche, Flora de Chile, 4: 384.  1905""","","576","",gcc-96892
+gcc-59235,A,Compositae,,Nassauvia,,"pumila",var.,"nordenskjoldii","(O.Hoffm.) Reiche",Synonym,,L,TICA,966EB93A-BDAE-4BF6-8A98-94DA21DF8073,,"""Anales Univ. Chile 115: 576. 1905 Reiche, Flora de Chile, 4: 384.  1905""","","576","",gcc-96892
+gcc-150380,A,Compositae,,Nassauvia,,"pumila",var.,"pumila","",Synonym,,L,TICA,D3842DC9-2114-49BF-8AE7-6D4F321C1E35,,"","","","",gcc-75378
+gcc-52655,A,Compositae,,Nassauvia,,"pungens",,"","Phil.",Synonym,,M,TICA,1A0B48EB-0EDE-47A9-A628-619AD35854F3,234213-1,"Anales Univ. Chile (1872) 741","","741","1872",gcc-36103
+gcc-100465,A,Compositae,,Nassauvia,,"purpurascens",,"","S.Moore ex Rendle",Unresolved,,L,TICA,D168FF66-3BB0-4D6E-819F-9AAEFC9FEC6D,,"","","","1904",
+gcc-41019,A,Compositae,,Nassauvia,,"purpurascens",,"","S.Moore",Synonym,,M,TICA,0C221C5F-8479-49A9-A704-4C07C82EEDE6,,"","","377","1904",gcc-101943
+gcc-96892,A,Compositae,,Nassauvia,,"pygmaea",,"","(Cass.) Hook.f.",Accepted,,M,TICA,E6A7A303-1DBD-4C34-8ACA-929213DAA1E1,,"Fl. Antarct. ii. 319.","","","1847",
+gcc-59718,A,Compositae,,Nassauvia,,"pygmaea",var.,"pygmaea","",Synonym,,L,TICA,CC9CCA6E-1C5A-45BD-8366-98B2ABF395B1,,"Fl. Antarct. 2: 319 (1847)","","319","1847",gcc-96892
+gcc-36103,A,Compositae,,Nassauvia,,"pyramidalis",,"","Meyen",Accepted,,M,TICA,FCBEBF09-5D4A-4BA3-BF99-42F49B2B35E9,234216-1,"Reise Erde 1: 356","","356","1834",
+gcc-155136,A,Compositae,,Nassauvia,,"pyramidalis",var.,"pyramidalis","",Synonym,,L,TICA,22317E4A-1EC4-462A-9A10-D1A9FE059D0F,,"","","","",gcc-36103
+gcc-135886,A,Compositae,,Nassauvia,,"ramosissima",,"","DC.",Accepted,,M,TICA,C89E83D1-4B57-4EC6-A2A4-EAEF00709E71,234217-1,"Prodr. (DC.) 7(1): 49","","49","1838",
+gcc-28389,A,Compositae,,Nassauvia,,"remyana",,"","Wedd.",Synonym,,M,TICA,424B19C4-9E89-446B-A949-346EFF95F86B,,"Chlor And. i. 51. t. 12 a.","","","1855",gcc-30839
+gcc-99283,A,Compositae,,Nassauvia,,"revoluta",,"","D.Don",Accepted,,M,TICA,46B911CE-0194-4854-B6C6-9809F9E0820A,234219-1,"in Phil. Mag. xi. (1832) 390; Gill. ex Hook. Comp. Bot. Mag. i. (1835) 37.","","390","1832",
+gcc-62499,A,Compositae,,Nassauvia,,"revoluta",var.,"argentea","(Phil.) Hosseus",Synonym,,L,TICA,8CAD120A-550B-442F-B9A1-AF32D47E317A,167211-2,"Trab. Inst. Bot. Farmacol. no. 33: 93. 1915","","93","1915",gcc-114368
+gcc-5409,A,Compositae,,Nassauvia,,"revoluta",var.,"nivalis","(Poepp. ex Less.) Hosseus",Synonym,,L,TICA,48B1F550-49E4-4B88-B255-0A1773F92FD7,1097624-2,"","","","",gcc-99283
+gcc-64026,A,Compositae,,Nassauvia,,"revoluta",var.,"revoluta","",Synonym,,L,TICA,C481DC8E-1811-481F-AA42-BB4C93868A7B,,"","","","",gcc-99283
+gcc-10151,A,Compositae,,Nassauvia,,"rosulata",,"","(Hook. & Arn.) Ball",Synonym,,M,TICA,EDA90BC3-BE99-4AEA-80E7-12FAF0B727E7,234220-1,"""J. Linn. Soc., Bot. xxi. (1884) 225.""","","225","1884",gcc-36099
+gcc-28330,A,Compositae,,Nassauvia,,"ruizii",,"","Cabrera",Accepted,,M,TICA,7809635A-28AC-4341-A8B1-34533D71A7B3,234222-1,"","","162","1939",
+gcc-132679,A,Compositae,,Nassauvia,,"sceptrum",,"","Dusén",Accepted,,M,TICA,F4439E75-AA7C-4F03-AA3F-E3CD231A724B,,"","","286","",
+gcc-138733,A,Compositae,,Nassauvia,,"scleranthoides",,"","O.Hoffm. ex Dusén",Unresolved,,L,TICA,8EF62F99-5222-4EDC-8A4A-F1428873E78C,234224-1,"in Ergebn. Schwed. Exp. Magell. iii. v. 248.","","iii. v. 248","",
+gcc-85930,A,Compositae,,Nassauvia,,"scleranthoides",,"","O.Hoffm.",Synonym,,M,TICA,1CBBB1EB-33EC-4A56-B094-79CB9A2FFD3E,,"""Wiss. Erg. Schwed. Exp. Magellansl. 3, pt. 5: 248, pl. 14""","","","1900",gcc-142703
+gcc-11284,A,Compositae,,Nassauvia,,"sericea",,"","Poepp. & Endl.",Unresolved,,L,TICA,0C437D25-6563-43D6-BEB2-151916BF9028,234225-1,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) i. 13.","","i. 13.","",
+gcc-17874,A,Compositae,,Nassauvia,,"sericea",,"","Phil.",Synonym,,M,TICA,698DF5DA-B23F-48BA-A41C-21012A563042,167216-2,"","","86","1894",gcc-99283
+gcc-29600,A,Compositae,,Nassauvia,,"serpens",,"","d'Urv.",Accepted,,M,TICA,331A69A3-4863-48FF-9ECA-36B7C66990E7,,"in Mem. Soc. Linn. Par. iv. (1826) 609.","","610","1825",
+gcc-113940,A,Compositae,,Nassauvia,,"spicata",,"","J.Rémy",Synonym,,M,TICA,21F5541B-70D0-482F-8EDB-B8B5EA3975C5,,"""in C. Gay, Fl. Chil. iii. 343.""","","343","",gcc-87311
+gcc-121309,A,Compositae,,Nassauvia,,"spinosa",,"","(J.Rémy) Reiche",Unresolved,Illegitimate,L,TICA,1D79D6C6-1170-4ACD-9BC5-C986CFB97411,,"Anales Univ. Chile 115: 577. 1905","","","1905",
+gcc-85481,A,Compositae,,Nassauvia,,"spinosa",,"","(Ruiz & Pav.) D.Don",Synonym,,M,TICA,89F77394-5D22-4A07-80E4-78C876828E64,234229-1,"""in Phil. Mag. xi. (1832) 390, nomen.""","","""xi.  390, nomen""","1832",gcc-139529
+gcc-91202,A,Compositae,,Nassauvia,,"spinosa",,"","Phil.",Synonym,,M,TICA,9068923E-1680-49CC-988B-85D3D4645A9A,167218-2,"","","81","1894",gcc-87311
+gcc-29461,A,Compositae,,Nassauvia,,"sprengelioides",,"","DC.",Accepted,,M,TICA,D04DD6E5-50FA-4189-959E-3675714616B8,,"Coll. Mém. ix. 35. t. 14; et Prod. iii. 49.","","49","1838",
+gcc-114565,A,Compositae,,Nassauvia,,"struthionum",,"","Phil.",Unresolved,,L,TICA,D45656DA-CC71-4DD5-8006-BA25FBB368D3,167219-2,"""Anales Soc. Ci. Argent. 53: 68. 1902 Phil., acc. to Speg""","","68","1902",
+gcc-134141,A,Compositae,,Nassauvia,,"struthionum",,"","(Phil.) Speg.",Synonym,,M,TICA,ACBBAD78-89BA-4A3C-856E-E719DC407D84,,"Revista de la facultad de agronomia; universidad nacional de La Plata 3:","","544","1897",gcc-36099
+gcc-96216,A,Compositae,,Nassauvia,,"struthionum",,"","De Wild.",Unresolved,,L,TICA,C9986FDA-FA11-421C-9FE6-91088D420909,167220-2,"","","177","1905",
+gcc-5850,A,Compositae,,Nassauvia,,"struthionum",var.,"robusta","Speg.",Synonym,,L,TICA,5D475661-EFC8-430E-B774-0AE42B276403,167221-2,"Anales Soc. Ci. Argent. 53: 68. 1902","","68","1902",gcc-36099
+gcc-68004,A,Compositae,,Nassauvia,,"struthionum",var.,"struthionum","",Synonym,,L,TICA,09158198-2215-4865-A537-DB9158337A75,,"","","","",gcc-36099
+gcc-128749,A,Compositae,,Nassauvia,,"suaveolens",,"","Willd.",Synonym,,M,TICA,A1DF4F26-A281-43A5-9C61-DABB3CFB2475,234234-1,"Sp. Pl. iii. 2396.","","iii. 2396","",gcc-101943
+gcc-6401,A,Compositae,,Nassauvia,,"suaveolens",,"","D.Don",Synonym,Illegitimate,M,TICA,9033EB0F-06F3-4983-8D89-0BE67ACFD010,234235-1,"in Phil. Mag. xi. (1832) 389.","","","1832",gcc-87311
+gcc-27729,A,Compositae,,Nassauvia,,"sublobata",,"","Cabrera",Accepted,,M,TICA,63F56D8D-0A01-4156-8947-3341A25CB97B,167222-2,"","","323","1982",
+gcc-19088,A,Compositae,,Nassauvia,,"subspinosa",,"","(Phil.) Albov",Synonym,,M,TICA,1275C6CA-0BC2-4024-A0E3-23400CC31B89,,"","","","",gcc-70186
+gcc-2995,A,Compositae,,Nassauvia,,"subspinosa",,"","De Wild.",Unresolved,,L,TICA,5F07D244-5727-4E8D-9DE4-059031FB780A,167223-2,"","","","1905",
+gcc-80002,A,Compositae,,Nassauvia,,"ulicina",,"","(Hook.f.) Macloskie",Accepted,,M,TICA,90AC923D-3F2E-4642-831E-6CA156E35D0A,167224-2,"","","885","1906",
+gcc-125445,A,Compositae,,Nassauvia,,"uniflora",,"","(D.Don) Hauman",Accepted,,M,TICA,693A72FC-EB1A-43D5-8A38-D31319F2F074,167225-2,"","","327","1918",

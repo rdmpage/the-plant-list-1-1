@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120895,A,Compositae,,Dimorphotheca,,"acutifolia",,"","Hutch.",Accepted,,M,TICA,CAB17562-8322-4083-9B00-C8948E1CF39E,201455-1,"","","415","1917",
+gcc-2753,A,Compositae,,Dimorphotheca,,"annua",,"","Less.",Synonym,,M,TICA,05BBAEB7-6194-4F9A-ACC7-050D6AA4F623,201456-1,"","","257","1832",gcc-88990
+gcc-48012,A,Compositae,,Dimorphotheca,,"aurantiaca",,"","Hort.",Synonym,,M,TICA,FE94483B-5EEC-4B7D-9E88-58F777F30CB5,,"","","","",gcc-138788
+gcc-93757,A,Compositae,,Dimorphotheca,,"aurantiaca",,"","DC.",Synonym,,M,TICA,655FF99B-B301-46FA-A783-8B63364FBAEA,201457-1,"""Candolle, Augustin Pyramus de (1838) Prodromus Systematis Naturalis Regni Vegetabilis. Vol. 6. Treuttel et Würtz,  Parisiis.""","","72","1838",gcc-120895
+gcc-7262,A,Compositae,,Dimorphotheca,,"barberae",,"","Harv.",Accepted,,M,TICA,EF4AB3FF-7225-4B69-A110-0D805427E0BE,,"","","","1862",
+gcc-86097,A,Compositae,,Dimorphotheca,,"calendulacea",,"","Harv.",Synonym,,M,TICA,D61F1C69-3409-4E2D-9827-7A2AB530727A,201459-1,"","","423","1865",gcc-138788
+gcc-45290,A,Compositae,,Dimorphotheca,,"calendulacea",var.,"calendulacea","",Synonym,,L,TICA,50C80698-7096-4F51-BF08-53EFCA33E240,,"","","","",gcc-138788
+gcc-26283,A,Compositae,,Dimorphotheca,,"calendulacea",var.,"dubia","E.Phillips",Synonym,,L,TICA,3169F5D8-7BBA-4909-B670-3098F6230146,,"Fl. Pl. South Africa 9: t. 347 (1929)","","t. 347","1929",gcc-88990
+gcc-86557,A,Compositae,,Dimorphotheca,,"caulescens",,"","Harv.",Accepted,,M,TICA,4569318D-B1C7-43CF-8292-7B2C5DF060A2,201460-1,"","","420","1865",
+gcc-119356,A,Compositae,,Dimorphotheca,,"chrysanthemifolia",,"","(Vent.) DC.",Accepted,,M,TICA,C92711A4-8C64-46CB-A847-C4F9A1425719,201461-1,"","","73","1838",
+gcc-31967,A,Compositae,,Dimorphotheca,,"chrysanthemoides",,"","Harv.",Synonym,,M,TICA,126ECDEF-CF3E-4176-BB9B-3B331CFC550D,201462-1,"","","616","1865",gcc-119356
+gcc-120609,A,Compositae,,Dimorphotheca,,"cuneata",,"","(Thunb.) DC.",Accepted,,M,TICA,5A529E90-9932-496B-8A0A-C7F565C5A973,201463-1,"","","72","1838",
+gcc-22983,A,Compositae,,Dimorphotheca,,"cuneata",,"","(Thunb.) Less.",Unresolved,,L,TICA,176718A5-758A-422B-82D2-2A8D6EAA6A96,,"","","","",
+gcc-47872,A,Compositae,,Dimorphotheca,,"dekindtii",,"","O.Hoffm.",Synonym,,M,TICA,BD61F03B-1158-4C6D-B057-58AFAFE7D501,,"","","","1902",gcc-86557
+gcc-20358,A,Compositae,,Dimorphotheca,,"dentata",,"","(DC.) Harv.",Synonym,,M,TICA,EAFC2F2D-453C-405D-BEE0-25A337837A56,201465-1,"","","423","1865",gcc-138788
+gcc-100476,A,Compositae,,Dimorphotheca,,"dregei",,"","DC.",Accepted,,M,TICA,5A8FDD42-0B12-4A13-B244-9AB6670A9BE7,201467-1,"","","72","1838",
+gcc-141231,A,Compositae,,Dimorphotheca,,"dregei",,"","Sch.Bip.",Unresolved,,L,TICA,DC0DC858-658B-4850-9661-F6EA2F12F4A2,201466-1,"""in Flora, xxvii. (1844) 674.""","","xxvii.  674","1844",
+gcc-25776,A,Compositae,,Dimorphotheca,,"dregei",var.,"dregei","",Synonym,,L,TICA,9365F974-64DB-41CE-A82D-2F9FE088E248,,"","","","",gcc-100476
+gcc-33200,A,Compositae,,Dimorphotheca,,"dregei",var.,"reticulata","(Norl.) B.Nord.",Accepted,,L,TICA,F6EB2522-8971-4271-A5A7-3D9251ACA7CF,980409-1,"Compositae Newslett. 25: 47 (1994)","","47","1994",
+gcc-139096,A,Compositae,,Dimorphotheca,,"ecklonis",,"","DC.",Synonym,,M,TICA,0EF62753-CEC0-4821-935D-F1F880FEAC5D,201468-1,"","","71","1838",gcc-14234
+gcc-78445,A,Compositae,,Dimorphotheca,,"ecklonis",,"","Harv.",Synonym,,M,TICA,26AB344F-9769-4FA4-A1EE-692C90411743,,"","","","",gcc-108149
+gcc-86904,A,Compositae,,Dimorphotheca,,"flaccida",,"","(Vent.) Thell.",Synonym,,M,TICA,A06556F8-5104-44A2-89D7-7C003D6AB907,,"","","","",gcc-79367
+gcc-90426,A,Compositae,,Dimorphotheca,,"flaccida",,"","(Vent.) Druce",Synonym,,M,TICA,17FCCBA1-5DD7-4914-8324-83F46A490791,201469-1,"","","620","1917",gcc-120895
+gcc-18602,A,Compositae,,Dimorphotheca,,"fruticosa",,"","(L.) Less.",Accepted,,M,TICA,8EFD282A-B3C3-41B6-8570-226056CFEDC6,,"","","","",
+gcc-33937,A,Compositae,,Dimorphotheca,,"fruticosa",,"","(L.) DC.",Unresolved,,L,TICA,E894C59D-0FF3-4204-95C3-3EF0DF11AA65,201470-1,"","","71","1838",
+gcc-138670,A,Compositae,,Dimorphotheca,,"graminifolia",,"","(L.) DC.",Synonym,,M,TICA,25E4E4A7-5112-449D-AE0C-F11C2D77F09B,201471-1,"","","71","1838",gcc-71482
+gcc-101433,A,Compositae,,Dimorphotheca,,"hybrida",,"","(L.) DC.",Synonym,,M,TICA,2D7128B8-77D2-4A79-80A3-9CC49261AD4B,201472-1,"","","70","1838",gcc-88990
+gcc-136700,A,Compositae,,Dimorphotheca,,"incrassata",,"","Moench",Synonym,,M,TICA,8DC58B66-8208-4BA6-8697-ECCBED3BE3A5,201473-1,"","","585","1794",gcc-88990
+gcc-5468,A,Compositae,,Dimorphotheca,,"integrifolia",,"","(DC.) Harv.",Synonym,,M,TICA,373A729E-FF7E-4DD5-8267-0A32CD702ECE,201474-1,"","","424","1865",gcc-138788
+gcc-43001,A,Compositae,,Dimorphotheca,,"jucunda",,"","E.Phillips",Accepted,,M,TICA,959DA3D3-E5FD-4084-A9B0-4FA43AB20231,,"","","","1936",
+gcc-81869,A,Compositae,,Dimorphotheca,,"kraussii",,"","Sch.Bip.",Synonym,,M,TICA,88059A03-97C0-4993-94B6-70C056AB2C54,,"","","","1844",gcc-90377
+gcc-126198,A,Compositae,,Dimorphotheca,,"leptocarpa",,"","DC.",Synonym,,M,TICA,1CB7B719-6208-45F7-AACB-D4C91CA3A880,201477-1,"","","72","1838",gcc-88990
+gcc-100227,A,Compositae,,Dimorphotheca,,"lilacina",,"","Regel & Herder",Synonym,,M,TICA,03B67529-D6DA-4F10-BD06-9A248F046CF2,201478-1,"","","16","1864",gcc-7262
+gcc-11512,A,Compositae,,Dimorphotheca,,"montana",,"","Norl.",Accepted,,M,TICA,B698133E-1D64-4224-87AA-157AC464A9AE,201479-1,"","","73","1943",
+gcc-63968,A,Compositae,,Dimorphotheca,,"montana",var.,"amoena","Norl.",Synonym,,L,TICA,D7402D09-8BA8-4F31-AD82-BAFFAF047E6B,,"Bot. Not. 116: 145 (1957)","","145","1957",gcc-6832
+gcc-54884,A,Compositae,,Dimorphotheca,,"montana",var.,"montana","",Synonym,,L,TICA,A7821AD3-994A-45B3-8677-7192D210D21C,,"","","","",gcc-11512
+gcc-30236,A,Compositae,,Dimorphotheca,,"montana",var.,"venusta","Norl.",Synonym,,L,TICA,66D0B605-7104-41B4-B8CF-37F76BE24752,,"Bot. Not. 116: 147 (1957)","","147","1957",gcc-127294
+gcc-12288,A,Compositae,,Dimorphotheca,,"multifida",,"","DC.",Synonym,,M,TICA,02E18E28-8A25-4AE8-BBEC-16EAA767DBB7,201480-1,"","","73","1838",gcc-77717
+gcc-141275,A,Compositae,,Dimorphotheca,,"nervosa",,"","Hutch.",Synonym,,M,TICA,B55122D4-EB91-4143-BBCD-F704D94ED9B9,201481-1,"","","426","1933",gcc-95503
+gcc-90377,A,Compositae,,Dimorphotheca,,"nudicaulis",,"","(L.) DC.",Accepted,,M,TICA,FBF9B841-D655-4BFF-AD95-83D5EF25F10E,201482-1,"","","71","1838",
+gcc-71482,A,Compositae,,Dimorphotheca,,"nudicaulis",var.,"graminifolia","Harv.",Accepted,,L,TICA,F62F9E15-D844-4F01-B8D8-F6935EE426D3,,"Fl. Cap. 3: 419 (1865)","","419","1865",
+gcc-53471,A,Compositae,,Dimorphotheca,,"nudicaulis",var.,"kraussii","Sch.Bip.",Synonym,,L,TICA,07E41703-4AC8-4A12-8A91-66772DF2D4AB,,"","","","",gcc-90377
+gcc-63745,A,Compositae,,Dimorphotheca,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,ADF8A053-9831-437D-ADB0-B92104ED590D,,"","","","",gcc-90377
+gcc-14722,A,Compositae,,Dimorphotheca,,"perennis",,"","Less.",Synonym,,M,TICA,2D318EAD-2A36-4AF4-B1EF-1B50A37A5E13,201483-1,"","","257","1832",gcc-90377
+gcc-141685,A,Compositae,,Dimorphotheca,,"pinnata",,"","(Thunb.) Harv.",Synonym,,M,TICA,051B6D87-D3F4-4884-A175-F7F344CBBE2D,201484-1,"","","423","1865",gcc-104736
+gcc-88990,A,Compositae,,Dimorphotheca,,"pluvialis",,"","(L.) Moench",Accepted,,M,TICA,A50478E3-5B7F-4FB3-AC92-80A56FC8166D,201485-1,"","","585","1794",
+gcc-97529,A,Compositae,,Dimorphotheca,,"polyptera",,"","DC.",Accepted,,M,TICA,08D9DBB3-8628-4D5D-82B2-9414D20B6EF6,201486-1,"","","73","1838",
+gcc-113038,A,Compositae,,Dimorphotheca,,"pseud-aurantiaca",,"","Schinz & Thell.",Synonym,,M,TICA,73E341E1-F6F1-4AD8-81E5-B6BFA3092E14,,"","","","1923",gcc-138788
+gcc-38173,A,Compositae,,Dimorphotheca,,"scabra",,"","(Bég.) DC.",Synonym,,M,TICA,54C4C4FB-9E49-4E62-8AC9-46CFBF7FAD83,201488-1,"","","72","1838",gcc-120895
+gcc-138788,A,Compositae,,Dimorphotheca,,"sinuata",,"","DC.",Accepted,,M,TICA,580600B3-4342-4486-B7FF-F15ADD646A6E,201489-1,"","","72","1838",
+gcc-108149,A,Compositae,,Dimorphotheca,,"spectabilis",,"","Schltr.",Accepted,,M,TICA,5B2E8E79-ABF6-413A-BAD8-ABB1890B4D05,,"","","","1897",
+gcc-32154,A,Compositae,,Dimorphotheca,,"tragus",,"","DC.",Synonym,,M,TICA,A2CB8177-CF67-429E-9A18-3B9061EDFE0C,201491-1,"","","71","1838",gcc-120895
+gcc-79367,A,Compositae,,Dimorphotheca,,"tragus",,"","(Aiton) B.Nord.",Accepted,,M,TICA,F093F5B4-F4F6-4030-86FB-6B4B862CE53B,,"","","","1994",
+gcc-5490,A,Compositae,,Dimorphotheca,,"turicensis",,"","Thell.",Accepted,,M,TICA,C166E623-B265-44D6-8A2C-0A3AFCA5CBB2,,"","","","1923",
+gcc-127294,A,Compositae,,Dimorphotheca,,"venusta",,"","(Norl.) Norl.",Accepted,,M,TICA,7D7538CD-98A4-47E5-A25A-D74BE1A2CFB0,908046-1,"","","560","1980",
+gcc-6832,A,Compositae,,Dimorphotheca,,"venusta",var.,"amoena","(Norl.) Norl.",Accepted,,L,TICA,EAFC64B8-B4A9-47D1-9E63-0CB3FC3FF8C6,919476-1,"","","562","1980",
+gcc-51435,A,Compositae,,Dimorphotheca,,"venusta",var.,"venusta","",Synonym,,L,TICA,49AA94BE-E3E9-4290-A93D-5F6504ECAE3F,,"","","","",gcc-127294
+gcc-25566,A,Compositae,,Dimorphotheca,,"viscosa",,"","(Andrews) Druce",Synonym,,M,TICA,1B8F1ADD-CE71-4196-BE04-2F3A72BEC8E6,201493-1,"","","620","1917",gcc-120609
+gcc-18263,A,Compositae,,Dimorphotheca,,"walliana",,"","(Norl.) B.Nord.",Accepted,,M,TICA,9B623667-371E-4F60-9C56-21C09F61CEB8,980411-1,"","","47","1994",
+gcc-125479,A,Compositae,,Dimorphotheca,,"zeyheri",,"","Sond.",Accepted,,M,TICA,5A58D10D-1A06-49E6-BF68-D324256A7608,201494-1,"","","421","1865",

@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-148724,A,Compositae,,Tugarinovia,,"mongolica",,"","Iljin",Accepted,,M,TICA,14D7FABE-3F94-4EE8-BE6A-493ACB3652D6,,"","","","1928",
+gcc-62854,A,Compositae,,Tugarinovia,,"mongolica",var.,"mongolica","",Synonym,,L,TICA,7915ADE9-2265-4D13-BDB8-B224DA18E21B,,"","","","",gcc-148724
+gcc-58974,A,Compositae,,Tugarinovia,,"mongolica",var.,"ovatifolia","Ling & Ma",Accepted,,L,TICA,A2BCCFAA-6292-480C-8198-92C96DE841E9,878496-1,"Fl. Reipubl. Popularis Sin. 75: 248 (1979)","","248","1979",
+gcc-143260,A,Compositae,,Tugarinovia,,"ovatifolia",,"","(Ling & Ma) Y.Z.Zhao",Unresolved,,L,TICA,F0558E8C-D234-4DD7-A1AA-FB7B29BFEB24,1018027-1,"Acta Bot. Boreal.-Occid. Sin. 20(5): 875 (2000):","","875","2000",gcc-58974

@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50110708,A,Sapindaceae,,Lychnodiscus,,"brevibracteatus",,"","Fouilloy",Accepted,,M,TRO,50110708,783552-1,"Fl. Cameroun","16: 166","166","1973",
+kew-2493457,A,Sapindaceae,,Lychnodiscus,,"cerospermus",,"","Radlk.",Accepted,,M,WCSP (in review),,783553-1,"Nat. Pflanzenfam.","3(5): 344","","1895",
+tro-50110712,A,Sapindaceae,,Lychnodiscus,,"cerospermus",var.,"cerospermus","",Synonym,,L,TRO,50110712,,"","","","",kew-2493457
+kew-2891889,A,Sapindaceae,,Lychnodiscus,,"cerospermus",var.,"mortehanii","(De Wild.) Hauman",Accepted,,L,WCSP (in review),,,"in Fl. Congo Belge","9: 328","","1960",
+kew-2891890,A,Sapindaceae,,Lychnodiscus,,"cerospermus",var.,"pedicellaris","(Radlk.) Hauman",Accepted,,L,WCSP (in review),,,"in Fl. Congo Belge","9: 328","","1960",
+kew-2493456,A,Sapindaceae,,Lychnodiscus,,"dananensis",,"","Aubrév. & Pellegr.",Accepted,,M,WCSP (in review),,,"Bull. Soc. Bot. France","85: 291","","1938",
+tro-28601350,A,Sapindaceae,,Lychnodiscus,,"grandifolius",,"","Radlk.",Accepted,,M,TRO,28601350,783555-1,"Nat. Pflanzenfam.","Nacht. III: 206","206","1907",
+kew-2493454,A,Sapindaceae,,Lychnodiscus,,"mortehanii",,"","De Wild.",Synonym,,M,WCSP (in review),,783556-1,"Repert. Spec. Nov. Regni Veg.","13: 378","","1914",kew-2891889
+tro-28601413,A,Sapindaceae,,Lychnodiscus,,"multinervis",,"","Radlk.",Accepted,,M,TRO,28601413,,"Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot.","1907–8, ii. 480","1907-8","1912",
+kew-2493458,A,Sapindaceae,,Lychnodiscus,,"papillosus",,"","Radlk. ex Engl.",Accepted,,M,WCSP (in review),,783558-1,"Veg. Erde","9(III 2): 282","","1921",
+tro-50110719,A,Sapindaceae,,Lychnodiscus,,"papillosus",,"","Radlk.",Unresolved,,L,TRO,50110719,,"Pflanzenr.","165: 1140","1140","1933",
+kew-2493453,A,Sapindaceae,,Lychnodiscus,,"pedicellaris",,"","Radlk.",Synonym,,M,WCSP (in review),,783559-1,"Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot.","2: 479","","1912",kew-2891890
+kew-2493433,A,Sapindaceae,,Lychnodiscus,,"reticulatus",,"","Radlk.",Accepted,,M,WCSP (in review),,783560-1,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München","8: 333","","1878",

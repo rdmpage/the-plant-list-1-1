@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116107,A,Compositae,,Glossocardia,,"alorensis",,"","Veldkamp & Kreffer",Accepted,,M,TICA,EF51C083-D8F3-4F9E-9168-BDB0DD177C22,959168-1,"Blumea 35","","468","1991",
+gcc-94833,A,Compositae,,Glossocardia,,"bidens",,"","(Retz.) Veldkamp",Accepted,,M,TICA,724972FC-BC8F-4D5A-9240-8DED35BE1721,962665-1,"Blumea 35:468 (1991)","","468","1991",
+gcc-135121,A,Compositae,,Glossocardia,,"bosvallia",,"","(L.f.) DC.",Accepted,,M,TICA,C5464C5D-A4FE-4DAA-91F1-E947744C159E,209012-1,"","","19","1834",
+gcc-100090,A,Compositae,,Glossocardia,,"calva",,"","(Sch.Bip. ex Miq.) Veldkamp",Accepted,,M,TICA,491D358A-2365-4E4C-8B46-99CF50228532,962666-1,"","","471","1991",
+gcc-18645,A,Compositae,,Glossocardia,,"condorensis",,"","(Gagnep.) Veldkamp",Accepted,,M,TICA,018C98DE-CAA2-4677-BF13-2274A52B48D7,962667-1,"","","473","1991",
+gcc-129876,A,Compositae,,Glossocardia,,"integrifolia",,"","(Gagnep.) Veldkamp",Accepted,,M,TICA,E3FA0318-8FDF-4995-BC72-DD490AA957E1,962668-1,"","","474","1991",
+gcc-37272,A,Compositae,,Glossocardia,,"josephinae",,"","Veldkamp & Kreffer",Accepted,,M,TICA,D17E22AF-34AF-4DCF-BD33-450C8E96BF1E,959169-1,"Blumea 35","","475","1991",
+gcc-8657,A,Compositae,,Glossocardia,,"leschenaultii",,"","(Cass.) Veldkamp",Accepted,,M,TICA,F41F2FA0-2989-42EA-BF0A-1029B412A443,962669-1,"""Veldk. & Kreffer, Blumea 35 (1991)""","","475","1991",
+tro-2702530,_,,,Glossocardia,,"linearifolia",,"","Cass.",Unresolved,,L,TRO,2702530,,"","","","",
+gcc-96770,A,Compositae,,Glossocardia,,"linearifolia",,"","Cass.",Synonym,,M,TICA,F551DA0F-F2D4-460B-910E-92563EE6FB80,209014-1,"","","139","1817",gcc-135121
+gcc-41649,A,Compositae,,Glossocardia,,"orthochaeta",,"","(F.Muell.) Veldkamp",Accepted,,M,TICA,0DBBBE7B-29C2-40F9-93CB-4D1CF7F5E68B,964760-1,"","","742","1992",
+gcc-75715,A,Compositae,,Glossocardia,,"refracta",,"","Veldkamp",Accepted,,M,TICA,1C941998-5F08-488D-8808-63163547E1E8,959170-1,"","","476","1991",
+gcc-133227,A,Compositae,,Glossocardia,,"setosa",,"","Blatt. & Hallb.",Synonym,,M,TICA,22D77775-C021-40E3-BFC1-E507DE24E3FF,209015-1,"Journal of the Bombay Natural History Society 26:","","536","1919",gcc-135121
+gcc-130769,A,Compositae,,Glossocardia,,"smithii",,"","(Backer) Veldkamp",Accepted,,L,TICA,927A13CB-6B7B-469C-B887-DF571312FA64,962670-1,"","","477","1991",
+gcc-144450,A,Compositae,,Glossocardia,,"tridentata",,"","(Turcz.) Veldkamp",Accepted,,M,TICA,78668A87-636C-44CE-883D-FE20D0E10AC9,962671-1,"","","478","1991",

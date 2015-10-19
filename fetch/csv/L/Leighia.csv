@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-38532,A,Compositae,,Leighia,,"anchusaefolia",,"","DC.",Unresolved,,L,TICA,1447013B-D523-425A-B967-4780C14536D9,229174-1,"Prodr. (DC.) 5: 580","","580","1836",
+gcc-153194,A,Compositae,,Leighia,,"anchusifolia",,"","DC.",Synonym,,M,TICA,06414F9F-D42E-4011-A800-A958CCE613EB,137069-2,"","","","",gcc-151333
+gcc-94801,A,Compositae,,Leighia,,"angustifolia",,"","DC.",Accepted,,M,TICA,2F0F69D5-BE31-4EDE-A780-8DDE6AC3214A,229175-1,"Prodr. (DC.) 5: 582","","582","1836",
+gcc-153897,A,Compositae,,Leighia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,15800613-3EC6-4DD7-B254-B7975AAD0168,,"","","","",gcc-94801
+gcc-134506,A,Compositae,,Leighia,,"arillata",,"","DC.",Unresolved,,L,TICA,8537345D-B56F-4D02-AD1B-E7F69E56C57D,229176-1,"Prodr. (DC.) 5: 582","","582","1836",
+gcc-115282,A,Compositae,,Leighia,,"baldwiniana",,"","Nutt.",Synonym,,M,TICA,C622D636-1DBE-42AC-A628-BBCD96D0F95F,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 365""","","365","1841",gcc-151333
+gcc-26275,A,Compositae,,Leighia,,"bicolor",,"","Cass.",Unresolved,Illegitimate,L,TICA,10CA807E-EAAF-4418-B327-3094C1120381,,"in Dict. Sc. Nat. xxv. 436.","","","",
+gcc-145075,A,Compositae,,Leighia,,"buphtalmifolia",,"","DC.",Unresolved,,L,TICA,57157743-E7F7-4FBC-BCAF-FF98944408D9,,"","","","",gcc-113622
+gcc-48123,A,Compositae,,Leighia,,"buphthalmiflora",,"","DC.",Unresolved,,L,TICA,C5BF12C1-764C-496F-B037-592F5AD2575E,229179-1,"Prodr. (DC.) 5: 582","","582","1836",
+gcc-39994,A,Compositae,,Leighia,,"calendulacea",,"","DC.",Unresolved,,L,TICA,C923F0A5-7EFE-47FC-BECF-4A35ADD800F1,229180-1,"Prodr. (DC.) 5: 582","","582","1836",gcc-92618
+gcc-27858,A,Compositae,,Leighia,,"debilis",,"","Nutt.",Unresolved,,L,TICA,FFA086DA-F2D4-4DAE-BF74-337DB7B2637A,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 365""","","","1841",
+gcc-52338,A,Compositae,,Leighia,,"dissitifolia",,"","DC.",Synonym,,M,TICA,F9F05FDD-E1BD-4E6A-8148-610C449DF04B,229182-1,"Prodr. (DC.) 5: 581","","581","1836",gcc-151333
+gcc-84764,A,Compositae,,Leighia,,"ecliptaefolia",,"","DC.",Synonym,,M,TICA,7DE5AACF-B389-4A97-A975-773D526717A4,301310-2,"Prodr. (DC.) 5","","583","1836",gcc-115910
+gcc-109592,A,Compositae,,Leighia,,"elegans",,"","Cass.",Unresolved,,L,TICA,B520733F-FEE2-4C07-A760-AF01C42157FD,229184-1,"in Dict. Sc. Nat. xxv. 435.","","xxv. 435","",
+gcc-109409,A,Compositae,,Leighia,,"gilliesii",,"","Hook. & Arn.",Synonym,,M,TICA,FE26ABA5-0D14-4889-AF97-AE953D76BCE6,229185-1,"in Hook. Journ. Bot. iii. (1841) 313.","","iii.  313","1841",gcc-12717
+gcc-37973,A,Compositae,,Leighia,,"grandiflora",,"","Gardner",Unresolved,,L,TICA,7BE6EEF5-2D24-49A1-B65E-466D67ADA0F5,229186-1,"""in Field. Sert. Pl. tt. 54, 55""","","55","",gcc-114673
+gcc-27720,A,Compositae,,Leighia,,"hookeriana",,"","(DC.) Nutt.",Unresolved,,L,TICA,92C288A7-033E-44DD-8E62-333E053C5601,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 365""","","365","1841",
+gcc-47631,A,Compositae,,Leighia,,"immarginata",,"","DC.",Synonym,,M,TICA,BA60CF7D-F33B-405C-A186-5841C3E5B3B7,229188-1,"Prodr. (DC.) 5: 581","","581","1836",gcc-134831
+gcc-33234,A,Compositae,,Leighia,,"lanceolata",,"","Nutt.",Unresolved,,L,TICA,E0B9E3D4-5909-4AFE-BF2E-3DA2943E2356,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 365""","","365","1841",gcc-128499
+gcc-136582,A,Compositae,,Leighia,,"laxa",,"","DC.",Unresolved,,L,TICA,3573F4EC-BDA6-4B99-AFAD-EC89F8D544CE,229190-1,"Prodr. (DC.) 5: 580","","580","1836",
+gcc-77287,A,Compositae,,Leighia,,"leptocephala",,"","DC.",Unresolved,,L,TICA,418D7D2F-CF55-49C6-BEF5-668C946D38BC,229191-1,"Prodr. (DC.) 5: 582","","582","1836",
+gcc-79338,A,Compositae,,Leighia,,"lindenii",,"","Sch.Bip.",Unresolved,,L,TICA,6CDF4F7D-25DB-478D-8B15-6B3B659A4B7F,,"","","","",
+gcc-33790,A,Compositae,,Leighia,,"linearis",,"","(Cav.) DC.",Unresolved,,L,TICA,F3E83CE9-5082-4EFA-A914-3EA6DBD95F8B,229192-1,"Prodr. (DC.) 5: 581","","581","1836",gcc-5558
+gcc-117399,A,Compositae,,Leighia,,"lomatoneura",,"","DC.",Synonym,,M,TICA,78537607-34A8-422C-BFC8-C092934DFEE4,229193-1,"Prodr. (DC.) 5: 581","","581","1836",gcc-151333
+gcc-34048,A,Compositae,,Leighia,,"longifolia",,"","(Pursh) Nutt.",Unresolved,,L,TICA,DA00AB6A-5CDC-4069-AFBA-3F250C8C7846,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 365""","","365","1841",gcc-78012
+gcc-107552,A,Compositae,,Leighia,,"microphylla",,"","(Kunth) Cass.",Synonym,,M,TICA,CF9344B5-F640-44C0-A8D7-AA51BDD570BF,1085226-2,"","","436","1822",gcc-115799
+gcc-37595,A,Compositae,,Leighia,,"nonneaefolia",,"","DC.",Unresolved,,L,TICA,A8B633B1-7518-49DA-BC34-45B2BCE97926,229196-1,"Prodr. (DC.) 5: 581","","581","1836",gcc-12426
+gcc-243,A,Compositae,,Leighia,,"ovatifolia",,"","DC.",Unresolved,,L,TICA,0124E6CA-2E59-4CD6-B436-00737762ACB3,229197-1,"Prodr. (DC.) 5: 583","","583","1836",gcc-141815
+gcc-32480,A,Compositae,,Leighia,,"reticulata",,"","S.F.Blake",Unresolved,,L,TICA,044F1603-689E-4091-AD37-3C3A5D1C509F,,"","","","",
+gcc-97945,A,Compositae,,Leighia,,"silphioides",,"","Hook. & Arn.",Synonym,,M,TICA,AF6F4953-D45C-42A3-BA80-9506A4B2952F,302111-2,"","","314","1841",gcc-13920
+gcc-51751,A,Compositae,,Leighia,,"speciosa",,"","(Hook.) DC.",Accepted,,M,TICA,8CC9D0BD-D973-460F-9D87-5FF5A987D36B,229199-1,"Prodr. 5","","583","1836",
+gcc-112491,A,Compositae,,Leighia,,"sphaerocephala",,"","DC.",Synonym,,M,TICA,7DDF1CD3-3BDE-41EF-8C0D-B5920B6494CA,229200-1,"Prodr. (DC.) 5: 582","","582","1836",gcc-4409
+gcc-84037,A,Compositae,,Leighia,,"stenophylla",,"","Hook. & Arn.",Synonym,,M,TICA,BC56F170-EC70-4A3F-916D-759F32C9EEFA,229201-1,"in Hook. Journ. Bot. iii. (1841) 313.","","313","1841",gcc-134831
+gcc-95815,A,Compositae,,Leighia,,"tucumanensis",,"","Hook. & Arn.",Synonym,,M,TICA,DADADDFD-AA27-420E-B161-9036CE4356EF,229202-1,"in Hook. Journ. Bot. iii. (1841) 314.","","314","1841",gcc-41293
+gcc-115446,A,Compositae,,Leighia,,"uniflora",,"","(Nutt.) Nutt.",Unresolved,,L,TICA,7B49DDB0-80D5-4194-A591-BC27F2EA9D61,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 364""","","364","1841",gcc-39182
+gcc-30339,A,Compositae,,Leighia,,"urticiformis",,"","DC.",Unresolved,,L,TICA,D23CC3D2-2296-46CA-BB3E-38203C87F567,229204-1,"Prodr. (DC.) 5: 582","","582","1836",gcc-119275

@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-422378,A,Poaceae,,Leptocoryphium,,"drummondii",,"","C.Muell.",Synonym,,H,WCSP,422378,,"Bot. Zeitung (Berlin)","19: 314","","1861",kew-393769
+kew-422379,A,Poaceae,,Leptocoryphium,,"lanatum",,"","(Kunth) Nees",Accepted,,H,WCSP,422379,407193-1,"Fl. Bras. Enum. Pl.","2: 84","","1829",
+tro-25528506,A,Poaceae,,Leptocoryphium,,"lanatum",var.,"lanatum","",Synonym,,L,TRO,25528506,,"","","","",kew-422379
+kew-422381,A,Poaceae,,Leptocoryphium,,"lanatum",var.,"molle","(Nees) Döll",Synonym,,L,WCSP,422381,138371-2,"Fl. Bras.","2(2): 121","","1877",kew-422379
+kew-422382,A,Poaceae,,Leptocoryphium,,"molle",,"","Nees",Synonym,,H,WCSP,422382,407194-1,"Fl. Bras. Enum. Pl.","2: 85","","1829",kew-422379
+kew-422383,A,Poaceae,,Leptocoryphium,,"obtusum",,"","Steud.",Synonym,,H,WCSP,422383,407195-1,"Syn. Pl. Glumac.","1: 34","","1853",kew-393773
+kew-422384,A,Poaceae,,Leptocoryphium,,"penicilligerum",,"","Speg.",Synonym,,H,WCSP,422384,138373-2,"Anales Soc. Ci. Argent.","16: 102","","1883",kew-409358
+kew-422385,A,Poaceae,,Leptocoryphium,,"villaregalis",,"","McVaugh & R.Guzman",Accepted,,H,WCSP,422385,,"in Fl. Novo-Galiciana","14: 218","","1983",

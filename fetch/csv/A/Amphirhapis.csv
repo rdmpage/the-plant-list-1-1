@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23499,A,Compositae,,Amphirhapis,,"albescens",,"","DC.",Synonym,,L,TICA,AED4A25B-C7FA-4C77-8CEA-2B7A391711F7,176258-1,"","","343","1836",gcc-30558
+gcc-100325,A,Compositae,,Amphirhapis,,"chinensis",,"","Sch.Bip.",Synonym,,M,TICA,864B748B-865D-4FD8-A604-9A5EC734F9DE,,"","","58","1852",gcc-143155
+gcc-141881,A,Compositae,,Amphirhapis,,"cuspidata",,"","Wall. ex DC.",Synonym,,M,TICA,2EAD367A-BF32-4AC4-88FF-F86AF0B86BCC,176260-1,"","","343","1836",gcc-42370
+gcc-41404,A,Compositae,,Amphirhapis,,"heterotricha",,"","DC.",Synonym,,M,TICA,40736C27-ECC3-42FC-BF58-4CAEF62B8ADC,176261-1,"","","343","1836",gcc-80349
+gcc-146934,A,Compositae,,Amphirhapis,,"indica",,"","Less.",Synonym,,M,TICA,DC314102-9523-4BB1-88E7-22DFEB39D762,,"Linnaea 6: 686. 1831","","686","1831",gcc-92876
+gcc-91860,A,Compositae,,Amphirhapis,,"indica",,"","'less.' ex Hook.f.",Unresolved,,L,TICA,A7108331-20FB-4EF1-9B5B-87596BCDB3D0,176262-1,"""Fl. Brit. Ind. iii. 227, in syn.""","","""iii. 227, in syn.""","",
+gcc-42426,A,Compositae,,Amphirhapis,,"leiocarpa",,"","Benth.",Synonym,,M,TICA,110219CC-36B1-4E92-B080-4E94F7C5DA55,176264-1,"","","488","1842",gcc-143155
+gcc-46450,A,Compositae,,Amphirhapis,,"leiocarpa",var.,"leiocarpa","",Synonym,,L,TICA,E8DCDB10-380A-410D-813C-561754DEA133,,"","","","",gcc-143155
+gcc-8497,A,Compositae,,Amphirhapis,,"mollis",,"","'wall.' ex Hook.f.",Unresolved,,L,TICA,4519F7B4-04F3-4DC0-B00E-0FD6B18DF43F,176265-1,"""Fl. Brit. Ind. iii. 227, in syn.""","","""iii. 227, in syn.""","",
+gcc-85874,A,Compositae,,Amphirhapis,,"peduncularis",,"","DC.",Synonym,,M,TICA,AB69800F-01C6-4B89-8007-79A73D7B9F5B,176266-1,"","","344","1836",gcc-81459
+gcc-135939,A,Compositae,,Amphirhapis,,"pubescens",,"","DC.",Synonym,,M,TICA,F09B2CCC-C40E-4995-8492-EB0906046490,176267-1,"","","343","1836",gcc-148860
+gcc-85380,A,Compositae,,Amphirhapis,,"rubricaulis",,"","Wall. ex DC.",Synonym,,M,TICA,37C0FA72-C08C-4AE0-8D20-788BD37D2E83,176268-1,"","","343","1836",gcc-143172
+gcc-44107,A,Compositae,,Amphirhapis,,"wightiana",,"","Hook.f.",Synonym,,M,TICA,7711DB3B-3AE2-4111-B581-51AB4BA6C69D,,"","","","1881",gcc-16562
+gcc-113464,A,Compositae,,Amphirhapis,,"zeylanica",,"","DC.",Synonym,,M,TICA,66716A70-13EC-464F-BE98-B7ACC70253A2,176270-1,"","","279","1838",gcc-148556
+gcc-45037,A,Compositae,,Amphirhapis,,"zollingeriana",,"","Sch.Bip.",Unresolved,,L,TICA,9E625CE9-6D66-48D5-99C2-5373C5D6B215,176271-1,"","","126","1854",

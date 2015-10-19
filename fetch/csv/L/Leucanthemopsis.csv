@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-8447,A,Compositae,,Leucanthemopsis,,"alpina",,"","(L.) Heywood",Accepted,,M,TICA,B3DE1499-91C5-49B0-9F2B-0FBB171EA561,229940-1,"","","182","1975",
+gcc-155460,A,Compositae,,Leucanthemopsis,,"alpina",var.,"alpina","",Synonym,,L,TICA,BF8B8C3E-F4B4-45D1-86F1-D8B82B161BA1,,"","","","",gcc-8447
+gcc-9487,A,Compositae,,Leucanthemopsis,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,6DB96C43-D8CF-45FD-983E-11B61C72C73C,,"","","","",gcc-8447
+gcc-63332,A,Compositae,,Leucanthemopsis,,"alpina",subsp.,"cuneata","(Pau) Heywood",Accepted,,L,TICA,37241060-018E-4218-B238-B6080C772846,877580-1,"","","182","1975",
+gcc-5718,A,Compositae,,Leucanthemopsis,,"alpina",subsp.,"minima","(Vill.) Holub",Unresolved,,L,TICA,BDEB98AE-AD90-474F-8DDE-0AA3846D371D,877581-1,"","","305","1977",
+gcc-58378,A,Compositae,,Leucanthemopsis,,"alpina",subsp.,"tatrae","(Vierh.) Holub",Accepted,,L,TICA,544C920E-A2DC-453A-986C-8E2E9ABC945C,877583-1,"","","305","1977",
+gcc-65160,A,Compositae,,Leucanthemopsis,,"alpina",subsp.,"tomentosa","(Loisel.) Heywood",Accepted,,L,TICA,A94A0F8C-902C-4FC3-B7A2-C452F5215FD3,877584-1,"","","182","1975",
+gcc-140598,A,Compositae,,Leucanthemopsis,,"cuneata",,"","(Pau) Holub",Unresolved,,L,TICA,EDEE9A84-E68F-4139-B455-F56CD31F678E,229941-1,"","","305","1977",gcc-63332
+gcc-17658,A,Compositae,,Leucanthemopsis,,"flaveola",,"","(Hoffmanns. & Link) Heywood",Accepted,,M,TICA,7B759BD0-D439-4ABB-AEE9-20953771FB63,229942-1,"","","184","1975",
+gcc-69839,A,Compositae,,Leucanthemopsis,,"flaveola",subsp.,"alpestris","(Mariz) Franco",Accepted,,L,TICA,A168499A-5694-4971-AD21-E97C00782062,,"","","","1984",
+gcc-146159,A,Compositae,,Leucanthemopsis,,"flaveola",subsp.,"flaveola","",Synonym,,L,TICA,104D60B1-B8D9-45DC-9E9C-12970AD1E81B,,"","","","",gcc-17658
+gcc-151903,A,Compositae,,Leucanthemopsis,,"flaveola",var.,"flaveola","",Synonym,,L,TICA,B9860D97-8FE2-4B8E-85E5-8E49E67EEB23,,"","","","",gcc-17658
+gcc-101954,A,Compositae,,Leucanthemopsis,,"longipectinata",,"","(Font Quer) Heywood",Accepted,,M,TICA,FEEB8F48-749D-4B79-BCCD-9DEF59A8431A,229943-1,"","","184","1975",
+gcc-82559,A,Compositae,,Leucanthemopsis,,"minima",,"","(Vill.) Marchi",Synonym,,L,TICA,2CFC37F0-7BCA-4FDD-BEF1-7254C195C77A,,"","","364","1980",gcc-5718
+gcc-147399,A,Compositae,,Leucanthemopsis,,"minima",var.,"minima","",Synonym,,L,TICA,C0E1F9DD-B203-41E4-AEC7-2CB4778881AD,,"","","","",gcc-5718
+gcc-3216,A,Compositae,,Leucanthemopsis,,"pallida",,"","Heywood",Accepted,,M,TICA,0023ED11-B9BA-4D45-93B4-05F557B2E8CB,229945-1,"","","182","1975",
+gcc-21390,A,Compositae,,Leucanthemopsis,,"pallida",subsp.,"pallida","",Synonym,,L,TICA,F5E579EC-69FB-47BA-B6F1-2785CA0F28FF,,"","","","",gcc-3216
+gcc-66733,A,Compositae,,Leucanthemopsis,,"pallida",subsp.,"pseudopulverulenta","(Heywood) O.Bolòs & Vigo",Synonym,,L,TICA,D0140071-2662-4C46-971E-D12DB241A481,,"","","91","",gcc-35215
+gcc-33089,A,Compositae,,Leucanthemopsis,,"pallida",subsp.,"pulverulenta","(Lag.) O.Bolòs & Vigo",Synonym,,L,TICA,47652754-51BA-4147-A7FD-3D5BC944F4E6,,"","","91","",gcc-99881
+gcc-70079,A,Compositae,,Leucanthemopsis,,"pallida",subsp.,"spathulifolia","(Gay) Heywood",Accepted,,L,TICA,3C4B14B4-827E-42EF-8231-EB527876BB64,877590-1,"","","183","1975",
+gcc-71381,A,Compositae,,Leucanthemopsis,,"pallida",subsp.,"virescens","(Pau) Heywood",Accepted,,L,TICA,1934D733-05E1-4066-B247-F5C4A2D8515A,877591-1,"","","183","1975",
+gcc-97975,A,Compositae,,Leucanthemopsis,,"pectinata",,"","(L.) G.López & C.E.Jarvis",Accepted,,L,TICA,3FBA8CBF-FB13-4CC8-A3B4-95152C094F99,,"","","343","1984",
+gcc-99881,A,Compositae,,Leucanthemopsis,,"pulverulenta",,"","(Lag.) Heywood",Accepted,,M,TICA,BE2F13B5-E53C-484E-8DE3-995A8220679C,229946-1,"","","184","1975",
+gcc-35215,A,Compositae,,Leucanthemopsis,,"pulverulenta",subsp.,"pseudopulverulenta","(Heywood) Heywood",Accepted,,L,TICA,19A76855-0599-4DDE-BFC7-414BE758C3E2,877592-1,"","","185","1975",
+gcc-65300,A,Compositae,,Leucanthemopsis,,"pulverulenta",subsp.,"pulverulenta","",Synonym,,L,TICA,4D0A4799-7B27-41C1-8871-C5C2F276D0B2,,"","","","",gcc-99881
+gcc-48905,A,Compositae,,Leucanthemopsis,,"radicans",,"","(Cav.) Heywood",Synonym,,L,TICA,E0446F7C-2CB6-4E2F-90CD-5A907F25E58F,229947-1,"","","185","1975",gcc-97975
+gcc-131220,A,Compositae,,Leucanthemopsis,,"spathulifolia",,"","(Gay) Fern.Casas",Unresolved,,L,TICA,ECD76A35-8353-49DA-A1FA-E064306AE210,,"""Exsicc., 2: 13 (1978), without basionym page.""","","","",
+gcc-131823,A,Compositae,,Leucanthemopsis,,"spathulifolia",,"","(Gay) Rivas Mart. & al.",Unresolved,,L,TICA,DD1A34CA-26BF-493F-B7D5-E1D02BDDCD5B,,"Rivasgodaya 6:","","42","1991",
+gcc-88328,A,Compositae,,Leucanthemopsis,,"spathulifolia",,"","(Gay) ""Rivas Mart., A.Asensi, Molero Mesa & F.Valle""",Unresolved,,L,TICA,5F1F718D-2F3D-44D4-99EA-7F32E0CBE0DD,963375-1,"""in Rivasgodaya, 6: 42 (1991):.""","","42","1991",
+gcc-9536,A,Compositae,,Leucanthemopsis,,"tatrae",,"","(Vierh.) Holub",Unresolved,,L,TICA,C809AAFF-242C-4DAE-AFCC-11CD1EA9E855,914144-1,"","","215","1984",gcc-58378
+gcc-18019,A,Compositae,,Leucanthemopsis,,"tomentosa",,"","(Loisel.) Holub",Unresolved,,L,TICA,A8EBF9EA-05D8-4C08-9C40-2148793046E1,229949-1,"","","305","1977",gcc-65160
+gcc-82295,A,Compositae,,Leucanthemopsis,,"tomentosa",,"","(Loisel.) Marchi",Unresolved,,L,TICA,8B94625B-B010-44AF-B336-71B6415AA929,,"""in Giorn. Bot. Ital., 113(5-6): 364 (1979 publ. 1980).""","","364","1980",
+gcc-114659,A,Compositae,,Leucanthemopsis,,"trifurcata",,"","(Desf.) Alavi",Synonym,,M,TICA,0FCDDC2E-FDB7-4C79-9681-BA609F809771,,"","","168","",gcc-119552
+gcc-50403,A,Compositae,,Leucanthemopsis,,"trifurcatum",,"","Alavi",Accepted,,L,TICA,21D227F2-19EF-4666-BAA3-5D7704D14BDD,,"","","","",
+gcc-121062,A,Compositae,,Leucanthemopsis,,"virescens",,"","(Pau) Pérez-Romero & al.",Synonym,,M,TICA,69081E2A-79EB-4BA3-B976-C8F70521ED74,,"Pérez-Romero & al. in Stud. Bot. 24. 2005.","","68","2005",gcc-71381
+gcc-6229,A,Compositae,,Leucanthemopsis,,"virescens",,"","(Pau) ""Pérez-Romero, Pérez Morales, del Río & Penas""",Unresolved,,L,TICA,768D04C6-0E3E-4B8A-94C3-0B96FF50B147,77076737-1,"Stud. Bot. 24: 68","","68","2006",

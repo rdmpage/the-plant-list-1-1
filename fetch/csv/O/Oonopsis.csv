@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17907,A,Compositae,,Oonopsis,,"argillacea",,"","A.Nelson",Synonym,,M,TICA,7766E1C6-C12D-4001-A396-2114DBB18017,174521-2,"","","481","1899",gcc-79543
+gcc-119926,A,Compositae,,Oonopsis,,"condensata",,"","(A.Nelson) A.Nelson",Synonym,,M,TICA,B9BE63E6-F014-475B-A9C0-C64E04B4D0B5,174522-2,"New Man. Bot. Centr. Rocky Mt. 501. 1909","","501","1909",gcc-136939
+gcc-114665,A,Compositae,,Oonopsis,,"engelmannii",,"","(A.Gray) Greene",Accepted,,M,TICA,CA3DF3ED-ABB6-4A04-88CA-BA6312AE6789,174523-2,"","","45","1896",
+gcc-106889,A,Compositae,,Oonopsis,,"foliosa",,"","Greene",Accepted,,M,TICA,2B7D0474-7EF9-4AA0-AD20-A8DBB06BF63C,174524-2,"","","46","1896",
+gcc-60742,A,Compositae,,Oonopsis,,"foliosa",var.,"foliosa","",Synonym,,L,TICA,7F2F36C5-4FE9-4298-A366-A0C19E7A8C6A,,"","","","1991",gcc-106889
+gcc-42329,A,Compositae,,Oonopsis,,"foliosa",var.,"monocephala","(A.Nelson) Kartesz & Gandhi",Accepted,,L,TICA,4F7DE5E7-8B0E-40DC-A623-4E694F4CBAFA,1102043-2,"","","60","1991",
+gcc-129396,A,Compositae,,Oonopsis,,"monocephala",,"","A.Nelson",Synonym,,M,TICA,97C9D251-59BF-4E8D-A2C1-DC2BA55151AB,174525-2,"Bot. Gaz. 31: 399. 1901","","399","1901",gcc-42329
+gcc-79543,A,Compositae,,Oonopsis,,"multicaulis",,"","(Nutt.) Greene",Accepted,,M,TICA,0A807B02-D8FA-40D3-9A69-6BAA795A758F,174526-2,"","","45","1896",
+gcc-136939,A,Compositae,,Oonopsis,,"wardii",,"","(A.Gray) Greene",Accepted,,M,TICA,5D9ECF44-0E27-4B7F-9E35-ED5F89705823,174527-2,"","","46","1896",
+gcc-32283,A,Compositae,,Oonopsis,,"wardii",var.,"condensata","A.Nelson",Synonym,,L,TICA,11D3A7B6-0FFE-4988-944E-3BD0EDC17B67,,"Bull. Torrey Bot. Club 25: 376. 1898","","","1898",gcc-136939
+gcc-67553,A,Compositae,,Oonopsis,,"wardii",var.,"wardii","",Synonym,,L,TICA,0FDB834D-778A-459E-BA0C-D81564FECE11,,"","","","1898",gcc-136939

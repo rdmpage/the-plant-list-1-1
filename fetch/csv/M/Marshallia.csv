@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-125448,A,Compositae,,Marshallia,,"aliena",,"","Spreng.",Synonym,,M,TICA,5B019CF7-AC17-45CF-9194-D313E7D7E53F,153637-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 446","","446","1826",gcc-127347
+gcc-42677,A,Compositae,,Marshallia,,"angustifolia",,"","(Michx.) Pursh",Accepted,,L,TICA,ADED06A1-7C75-4129-8B69-4F0D79B543D2,,"Fl. Am. Sept. ii. 520.","","","1814 [1813]",
+gcc-3587,A,Compositae,,Marshallia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,956F58B8-8900-4B54-B02B-06A1C1034A0E,,"","","","",gcc-42677
+gcc-50064,A,Compositae,,Marshallia,,"angustifolia",var.,"cyananthera","Elliott",Unresolved,,L,TICA,8121BD37-C1DF-4F6C-81E7-5CD316F42F87,153638-2,"Sketch Bot. S. Carolina 2: 317. 1824","","317","1824",tro-50132720
+gcc-128812,A,Compositae,,Marshallia,,"australis",,"","Spreng. ex DC.",Unresolved,,L,TICA,5F6E6DE0-2E5E-4F1A-8B3F-DADF17E5AF49,231759-1,"Prodr. (DC.) 5: 672","","672","1836",
+gcc-295,A,Compositae,,Marshallia,,"bulbosa",,"","Raf.",Unresolved,,L,TICA,5CAFA29A-BFA6-4E82-8624-0089AA351616,231760-1,"Fl. Ludov. 61.","","61","",
+gcc-76015,A,Compositae,,Marshallia,,"caespitosa",,"","Nutt. ex DC.",Accepted,,M,TICA,FA3CC763-B5F2-4561-97D7-63B7EE8F6583,231761-1,"Prodr. (DC.) 5: 680","","680","1836",
+gcc-50608,A,Compositae,,Marshallia,,"caespitosa",var.,"caespitosa","",Synonym,,L,TICA,C34321F1-D811-48CE-AD2B-5DD883892D12,,"","","","",gcc-76015
+gcc-30160,A,Compositae,,Marshallia,,"caespitosa",var.,"signata","Beadle & F.E.Boynton",Synonym,,L,TICA,724715B6-14BC-4DC2-B803-37D1E4DDE91C,,"","","","1901",gcc-76015
+gcc-107559,A,Compositae,,Marshallia,,"dentata",,"","Bertol.",Unresolved,,L,TICA,0B2392DD-7D6C-423D-9CC0-AA55B839731D,231762-1,"Misc. Bot. xv. 22.","","xv. 22.","",
+gcc-142160,A,Compositae,,Marshallia,,"graminifolia",,"","(Walter) Small",Accepted,,M,TICA,2E1518FA-FD0B-44D5-87F5-F90A6A712BF6,231764-1,"","","482","1898",
+tro-50132720,A,Compositae,,Marshallia,,"graminifolia",var.,"cyananthera","(Elliott) Beadle & Boynton",Accepted,,L,TRO,50132720,153641-2,"Biltmore Bot. Stud.","1(1): 4","4","1901",
+gcc-4728,A,Compositae,,Marshallia,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,924BB458-B8E1-4075-B11F-08CACF224F5D,,"","","","",gcc-142160
+gcc-62037,A,Compositae,,Marshallia,,"graminifolia",subsp.,"graminifolia","",Synonym,,L,TICA,1936EDF3-D7F3-4298-895A-AB911A6AB92B,,"","","","",gcc-142160
+gcc-54961,A,Compositae,,Marshallia,,"graminifolia",subsp.,"tenuifolia","(Raf.) L.E.Watson",Synonym,,L,TICA,B75A9BA6-ECDB-41E4-84EE-7234D39161B3,956384-1,"","","412","1990",gcc-142160
+gcc-143195,A,Compositae,,Marshallia,,"grandiflora",,"","Beadle & F.E.Boynton",Accepted,,M,TICA,715B1C3F-B22C-4D32-A2E0-FB5BD6D9FFE0,,"","","","1901",
+gcc-114843,A,Compositae,,Marshallia,,"lacinarioides",,"","Small",Synonym,,M,TICA,FF375743-80A1-45A1-B022-BACDE99ACD20,153644-2,"","","482","1898",gcc-142160
+kew-4372091,A,Compositae,,Marshallia,,"lagunae",,"","J.F.Gmel.",Unresolved,,L,WCSP (in review),,779890-1,"Syst. Nat.","836","","1791",
+gcc-17079,A,Compositae,,Marshallia,,"lanceolata",,"","(Michx.) Pursh",Accepted,,L,TICA,6FAB44A6-2C5E-476E-94DA-1F9534AD7FC6,,"Fl. Am. Sept. ii. 519.","","","1814 [1813]",
+gcc-38708,A,Compositae,,Marshallia,,"lanceolata",var.,"lanceolata","",Synonym,,L,TICA,9CB383AB-3FD1-4A6B-854E-47CCC5EFBA41,,"","","","",gcc-17079
+gcc-69748,A,Compositae,,Marshallia,,"lanceolata",var.,"platyphylla","M.A.Curtis",Unresolved,,L,TICA,82291F2E-121D-4986-8057-E8B817DF9C77,,"""American Journal of Science, and Arts, ser. 2, 7(21):""","","407","1849",gcc-48286
+gcc-37944,A,Compositae,,Marshallia,,"latifolia",,"","(Michx.) Pursh",Accepted,,L,TICA,24696E8D-B6AE-4E36-9F2D-465D87715D45,,"Fl. Am. Sept. ii. 519.","","","1814 [1813]",
+gcc-1590,A,Compositae,,Marshallia,,"mohrii",,"","Beadle & F.E.Boynton",Accepted,,M,TICA,DC8C9578-6357-405D-B3C5-02DB2926F92C,,"""in Biltm. Bot. Studies, i. 8.""","","","1901",
+gcc-123532,A,Compositae,,Marshallia,,"obovata",,"","Beadle & Boynt.",Unresolved,,L,TICA,888A8C1E-B974-42F2-841B-CE8E8367A049,,"""in Biltm. Bot. Studies, i. 5""","","5","",
+gcc-48286,A,Compositae,,Marshallia,,"obovata",,"","(Walter) Beadle & F.E.Boynton",Accepted,,L,TICA,DB4CB4BA-D01C-4BE1-83CA-597C2A9A7947,153648-2,"Biltmore Bot. Stud. 1: 5. 1901","","5","1901",
+gcc-60736,A,Compositae,,Marshallia,,"obovata",var.,"obovata","",Synonym,,L,TICA,113E4488-B242-479E-9B5B-A0A9CF94F526,,"","","","",gcc-48286
+gcc-29360,A,Compositae,,Marshallia,,"obovata",var.,"platyphylla","(M.A.Curtis ex Chapm.) Beadle & F.E.Boynton",Unresolved,,L,TICA,D5C0CB2B-32E7-4080-A05E-3640F2E105EC,153649-2,"Biltmore Botanical Studies 1(1):","","6","1901",gcc-48286
+gcc-50761,A,Compositae,,Marshallia,,"obovata",var.,"scaposa","Channell",Synonym,,L,TICA,B05EE61E-4545-4D48-B91E-5E24AA30BD97,,"""Contr. Gray Herb. 181: 90, tab. 7. 1957""","","","1957",gcc-48286
+gcc-108646,A,Compositae,,Marshallia,,"pumila",,"","Raf.",Unresolved,,L,TICA,C7C65ABE-EF42-4880-9B5E-ACC62708EEB7,231771-1,"New Fl. (Rafinesque) iv. 78 (Quid ?).","","78","",
+gcc-86429,A,Compositae,,Marshallia,,"ramosa",,"","Beadle & F.E.Boynton",Accepted,,M,TICA,8971C497-6E16-4A4E-B76A-7AE7FA9D8E3D,,"""Biltmore Bot. Stud. 1: 8, tab. 2. 1901""","","","1901",
+gcc-108347,A,Compositae,,Marshallia,,"schreberi",,"","Tratt.",Unresolved,,L,TICA,99462E27-3AD7-4DDC-B654-AC14DCFC1C6B,231773-1,"Arch. Gew. i. 108.","","i. 108","",
+gcc-25633,A,Compositae,,Marshallia,,"spiralis",,"","Raf.",Unresolved,,L,TICA,74AB1BE5-9545-4C4C-9CDE-2F56A0043C55,231774-1,"New Fl. (Rafinesque) iv. 77 (Quid ?).","","77","",
+gcc-113141,A,Compositae,,Marshallia,,"tenuifolia",,"","Raf.",Synonym,,M,TICA,429C6F37-4BC7-4DD7-A9E6-B6FA4973AA07,315445-2,"","","77","1838",gcc-142160
+gcc-11779,A,Compositae,,Marshallia,,"tenuifolia",var.,"graminifolia","(Walter) Gandhi & R.D.Thomas",Synonym,,L,TICA,4C96EF76-D99F-410D-8C63-15ED678E6174,956007-1,"""in Sida, Bot. Misc., 4: 128 (1989):.""","","128","1989",gcc-142160
+gcc-31615,A,Compositae,,Marshallia,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,3E4D9F3B-ED86-466F-AFC9-3A9941DB54FF,,"","","","",gcc-142160
+gcc-32949,A,Compositae,,Marshallia,,"trinervia",,"","(Walter) lesquereux ex Trel.",Accepted,,L,TICA,9052DCC0-4B0E-42E2-88B8-3D1A3656ACD8,153652-2,"","","196","1891",
+gcc-41431,A,Compositae,,Marshallia,,"trinervis",,"","(Walter) Porter",Unresolved,Illegitimate,L,TICA,A91669C1-866C-4651-B39D-4CBAC589E9B8,231777-1,"Mem. Torrey Bot. Club v. (1894) 337","","337","1894",gcc-32949
+gcc-138223,A,Compositae,,Marshallia,,"williamsonii",,"","Small",Synonym,,M,TICA,2CA22681-ECEC-4890-8E90-F025630FF144,153653-2,"","","""1284, 1340""","1903",gcc-142160

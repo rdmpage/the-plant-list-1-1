@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129375,A,Compositae,,Leibnitzia,,"anandria",,"","(L.) Turcz.",Accepted,,M,TICA,931B5519-BE96-4354-BFAA-DC1E9EFBA452,,"","","404","1831",
+gcc-50423,A,Compositae,,Leibnitzia,,"anandria",,"","(L.) Nakai",Synonym,,M,TICA,D692A599-17B5-406B-B774-5D7E4D6C4318,229159-1,"""J. Jap. Bot. 1937, xiii. 852.""","","xiii. 852","1937",gcc-129375
+gcc-5497,A,Compositae,,Leibnitzia,,"bonatiana",,"","(Beauverd) Kitam.",Synonym,,M,TICA,513A887D-12F7-41C8-8B11-0A3D80014651,,"""J. Jap. Bot. 1938, xiv. 297.""","","","1938",gcc-112184
+gcc-112057,A,Compositae,,Leibnitzia,,"cryptogama",,"","Cass.",Unresolved,,L,TICA,7E49FFCD-C324-40E2-A9A7-B48905CC8646,229161-1,"in Dict. Sc. Nat. xxv. 421 (1822).","","xxv. 421","1822",
+gcc-103224,A,Compositae,,Leibnitzia,,"knorringiana",,"","(B.Fedtsch.) Pobed.",Accepted,,M,TICA,043BC6C8-C11B-4CC1-ACF4-A0C7F826F480,229162-1,"Fl. URSS xxviii. 594 (1963).","","xxviii. 594","1963",
+gcc-50980,A,Compositae,,Leibnitzia,,"kuntzeana",,"","(A.Braun & Asch.) Pobed.",Unresolved,,L,TICA,E53C81A2-3EAA-4E34-AB65-5E96CAFCA68D,,"""Fl. URSS xxviii. 592 (1963), in obs.""","","592","",
+gcc-85367,A,Compositae,,Leibnitzia,,"lyrata",,"","(Sch.Bip.) G.L.Nesom",Accepted,,M,TICA,98262B8B-D5A5-41ED-92F9-7884DFED7ED9,1178276-2,"Phytologia 78(3)","","169","1995",
+tro-50076659,A,Compositae,,Leibnitzia,,"nepalense",,"","(Kunze) Kitam.",Accepted,,M,TRO,50076659,,"J. Jap. Bot.","14(5): 297","297","1938",
+gcc-47844,A,Compositae,,Leibnitzia,,"nepalensis",,"","(Kunze) Kitam.",Accepted,,M,TICA,936BDCEC-1ABF-44BD-AD73-58A48F182283,229164-1,"""J. Jap. Bot. 1938, xiv. 297.""","","297","1938",
+gcc-25770,A,Compositae,,Leibnitzia,,"occimadrensis",,"","G.L.Nesom",Accepted,,M,TICA,45F8C811-D068-4E1B-AE9E-2F9C76795F4C,,"","","","1983",
+gcc-100667,A,Compositae,,Leibnitzia,,"phanerogama",,"","Cass.",Unresolved,,L,TICA,7A5F960C-0EAF-40F6-81D3-9B23A59D87F9,229165-1,"in Dict. Sc. Nat. xxv. 422 (1822).","","xxv. 422","1822",
+gcc-103323,A,Compositae,,Leibnitzia,,"pusilla",,"","(Wall. ex DC.) S.Gould ex Kitam. & Gould",Accepted,,L,TICA,42BBC9D1-EBAE-4A1C-BF60-A10377D009DA,,"","","","1982",
+gcc-11994,A,Compositae,,Leibnitzia,,"pusilla",,"","(DC.) S.Gould",Unresolved,,L,TICA,15238E90-048A-4698-A6EB-165B7B02AA9E,910813-1,"""in Enum. Fl. Pl. Nepal, 3: 33 (1982):.""","","33","1982",gcc-103323
+gcc-107392,A,Compositae,,Leibnitzia,,"ruficoma",,"","(Franch.) Kitam.",Accepted,,M,TICA,24501AA6-61FD-460E-8EBF-A9F6BC7BCB95,229166-1,"""J. Jap. Bot. 1938, xiv. 297""","","297","1938",
+gcc-134123,A,Compositae,,Leibnitzia,,"seemannii",,"","(Sch.Bip.) G.L.Nesom",Accepted,,M,TICA,A64FE8B8-5E78-41C1-BAFA-E7141BDD671E,137063-2,"","","127","1983",
+gcc-96443,A,Compositae,,Leibnitzia,,"serotina",,"","(Beauverd) Kitam.",Unresolved,,L,TICA,4976EB1D-D627-47FF-9A33-9190363AA09A,,"""J. Jap. Bot. 1938, xiv. 297.""","","","1938",

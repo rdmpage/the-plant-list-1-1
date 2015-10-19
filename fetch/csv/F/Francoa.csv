@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2814016,A,Melianthaceae,,Francoa,,"alba",,"","H.Jacq.",Synonym,,M,WCSP (in review),,1013736-1,"Ann. Fl. Pomone","1834-1835: 112","","1835",kew-2814022
+kew-2814017,A,Melianthaceae,,Francoa,,"appendiculata",,"","Cav.",Accepted,,M,WCSP (in review),,791180-1,"Anales Ci. Nat.","4: 237","","1801",
+kew-2814018,A,Melianthaceae,,Francoa,,"appendiculata",f.,"albida","Kuntze",Synonym,,L,WCSP (in review),,105587-2,"Revis. Gen. Pl.","3(3): 81","","1898",kew-2814017
+tro-29100808,A,Melianthaceae,,Francoa,,"appendiculata",var.,"appendiculata","",Synonym,,L,TRO,29100808,,"","","","",kew-2814017
+tro-29100810,A,Melianthaceae,,Francoa,,"appendiculata",var.,"sonchifolia","(Cav.) Rolfe",Synonym,,L,TRO,29100810,,"","","","",kew-2814024
+kew-2814019,A,Melianthaceae,,Francoa,,"appendiculata",f.,"violacea","Kuntze",Synonym,,L,WCSP (in review),,105588-2,"Revis. Gen. Pl.","3(3): 81","","1898",kew-2814017
+kew-2814020,A,Melianthaceae,,Francoa,,"glabrata",,"","DC.",Synonym,,M,WCSP (in review),,791181-1,"Prodr.","7: 778","","1839",kew-2814022
+kew-2814021,A,Melianthaceae,,Francoa,,"lyrata",,"","Ruiz & Pav.",Synonym,,M,WCSP (in review),,791182-1,"Anales Inst. Bot. Cavanilles","12: 170","","1954",kew-2814024
+kew-2814022,A,Melianthaceae,,Francoa,,"ramosa",,"","D.Don",Accepted,,M,WCSP (in review),,791183-1,"Edinburgh New Philos. J.","Oct.-Dec.: 52","","1828",
+kew-2814023,A,Melianthaceae,,Francoa,,"rupestris",,"","Poepp. ex Kunze",Synonym,,M,WCSP (in review),,791184-1,"Flora","14: 374","","1831",kew-2814024
+kew-2814024,A,Melianthaceae,,Francoa,,"sonchifolia",,"","Cav.",Accepted,,M,WCSP (in review),,791185-1,"Icon.","6: 77","","1801",
+kew-2814025,A,Melianthaceae,,Francoa,,"sonchifolia",var.,"appendiculata","(Cav.) Reiche",Synonym,,L,WCSP (in review),,105592-2,"Anales Univ. Chile","103: 792","","1899",kew-2814017
+kew-2814026,A,Melianthaceae,,Francoa,,"sonchifolia",var.,"glabrata","(DC.) Reiche",Synonym,,L,WCSP (in review),,105593-2,"Anales Univ. Chile","103: 793","","1899",kew-2814022
+kew-2814027,A,Melianthaceae,,Francoa,,"sonchifolia",var.,"ramosa","(D.Don) Reiche",Synonym,,L,WCSP (in review),,105594-2,"Anales Univ. Chile","103: 792","","1899",kew-2814022
+kew-2814028,A,Melianthaceae,,Francoa,,"sonchifolia",var.,"rupestris","(Poepp. ex Kunze) Reiche",Synonym,,L,WCSP (in review),,105595-2,"Anales Univ. Chile","103: 792","","1899",kew-2814024

@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81717,A,Compositae,,Remya,,"kauaiensis",,"","Hillebr.",Accepted,,M,TICA,88A96A78-D560-4C54-A58C-7072EB711D44,241313-1,"Fl. Haw. Isl. (1888) 194.","","","1888",
+gcc-148824,A,Compositae,,Remya,,"kauaiensis",var.,"kauaiensis","",Synonym,,L,TICA,05F2D998-B735-4042-9988-4B977BB668D1,,"","","","",gcc-81717
+gcc-53351,A,Compositae,,Remya,,"kauaiensis",var.,"magnifica","O.Deg. & Sherff",Synonym,,L,TICA,7676CB4D-C501-4082-BB8D-6589D0EB18E2,,"","","","",gcc-81717
+gcc-72092,A,Compositae,,Remya,,"kauaiensis",var.,"magnifolia","O.Deg. & Sherff",Synonym,,L,TICA,F7DC0F1C-A489-46F3-970B-FB3AD76813E9,,"Botanical Leaflets 9:","","8","1954",gcc-81717
+gcc-94106,A,Compositae,,Remya,,"mauiensis",,"","Hillebr.",Accepted,,M,TICA,B656F956-B927-4BDB-AB18-8C38C30968EA,241315-1,"","","","1888",
+gcc-88941,A,Compositae,,Remya,,"montgomeryi",,"","W.L.Wagner & D.R.Herbst",Accepted,,M,TICA,A059AB70-EE4E-439F-8F01-808B720562EA,933647-1,"""in Syst. Bot., 12(4): 605 (1987)""","","605","1987",

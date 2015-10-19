@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112973,A,Compositae,,Sphaeromorphaea,,"australis",,"","(Less.) Kitam.",Synonym,,M,TICA,6CD3EFA0-F4A6-4893-AAA4-B69FCE78DEB8,,"","","80","",gcc-78111
+gcc-79752,A,Compositae,,Sphaeromorphaea,,"centipeda",,"","DC.",Synonym,Illegitimate,M,TICA,1D93AC52-E91C-4ECC-9B95-6C1AA70E61F9,250675-1,"","","140","1838",gcc-76774
+gcc-11216,A,Compositae,,Sphaeromorphaea,,"petiolaris",,"","DC.",Synonym,,M,TICA,B013DECD-F953-4F4C-AE3D-14F560377DC3,108652-3,"","","","1838",gcc-78111
+gcc-105774,A,Compositae,,Sphaeromorphaea,,"russelliana",,"","DC.",Accepted,,L,TICA,F4A642AA-B018-40F9-87B2-A64756C4F820,,"","","","",
+gcc-64052,A,Compositae,,Sphaeromorphaea,,"russelliana",var.,"glabrata","DC.",Synonym,,L,TICA,89467BF7-F6E9-47A0-AA97-BB859CE5FD31,,"""de Candolle, A. P. 1838[1837] : Prodromus Systematis Naturalis Regni Vegetabilis. 6.  Paris, 687 p. ""","","140","1838",gcc-76774
+gcc-151731,A,Compositae,,Sphaeromorphaea,,"russelliana",var.,"russelliana","",Synonym,,L,TICA,D03AC73A-47E4-4D1D-8A7F-8B1E3FA9D378,,"","","","",gcc-105774

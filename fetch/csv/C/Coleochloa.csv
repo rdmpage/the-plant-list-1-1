@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-233619,A,Cyperaceae,,Coleochloa,,"abyssinica",,"","(Hochst. ex A.Rich.) Gilly",Accepted,,H,WCSP,233619,303563-1,"Brittonia","5: 14","","1943",
+kew-233621,A,Cyperaceae,,Coleochloa,,"abyssinica",var.,"castanea","(C.B.Clarke) Pic.Serm.",Synonym,,L,WCSP,233621,,"Webbia","7: 347","","1951",kew-233619
+kew-462327,A,Cyperaceae,,Coleochloa,,"domensis",,"","Muasya & D.A.Simpson",Accepted,,H,WCSP,462327,77105291-1,"Kew Bull.","65: 323","","2010",
+kew-233622,A,Cyperaceae,,Coleochloa,,"glabra",,"","Nelmes",Accepted,,H,WCSP,233622,303564-1,"Kew Bull.","8: 380","","1953",
+kew-233623,A,Cyperaceae,,Coleochloa,,"microcephala",,"","Nelmes",Accepted,,H,WCSP,233623,303565-1,"Kew Bull.","8: 377","","1953",
+kew-233624,A,Cyperaceae,,Coleochloa,,"oliveri",,"","(Boeckeler) Gilly",Synonym,,H,WCSP,233624,303566-1,"Brittonia","5: 14","","1943",kew-233628
+kew-233625,A,Cyperaceae,,Coleochloa,,"pallidior",,"","Nelmes",Accepted,,H,WCSP,233625,303567-1,"Kew Bull.","8: 378","","1953",
+kew-233626,A,Cyperaceae,,Coleochloa,,"rehmanniana",,"","(C.B.Clarke) Gilly",Synonym,,H,WCSP,233626,303568-1,"Brittonia","5: 14","","1943",kew-233628
+kew-233627,A,Cyperaceae,,Coleochloa,,"schweinfurthiana",,"","(Boeckeler) Nelmes",Accepted,,H,WCSP,233627,303569-1,"Kew Bull.","8: 375","","1953",
+kew-233628,A,Cyperaceae,,Coleochloa,,"setifera",,"","(Ridl.) Gilly",Accepted,,H,WCSP,233628,303570-1,"Brittonia","5: 14","","1943",
+kew-464250,A,Cyperaceae,,Coleochloa,,"setifera",subsp.,"setifera","",Synonym,,L,WCSP,464250,,"Unknown","","","",kew-233628
+kew-233629,A,Cyperaceae,,Coleochloa,,"villosula",,"","(C.B.Clarke) Gilly",Synonym,,H,WCSP,233629,303571-1,"Brittonia","5: 14","","1943",kew-233628
+kew-233630,A,Cyperaceae,,Coleochloa,,"virgata",,"","(K.Schum.) Nelmes",Accepted,,H,WCSP,233630,303572-1,"Kew Bull.","8: 381","","1953",

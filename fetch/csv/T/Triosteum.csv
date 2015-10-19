@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-6000169,A,Caprifoliaceae,,Triosteum,,"angustifolium",,"","L.",Accepted,,M,TRO,6000169,149494-1,"Sp. Pl.","1: 176","176","1753",
+tro-6000362,A,Caprifoliaceae,,Triosteum,,"angustifolium",var.,"angustifolium","",Synonym,,L,TRO,6000362,,"","","","",tro-6000169
+tro-6000332,A,Caprifoliaceae,,Triosteum,,"aurantiacum",,"","E.P. Bicknell",Accepted,,M,TRO,6000332,258558-2,"Torreya","1(3): 26–28","26","1901",
+tro-6000361,A,Caprifoliaceae,,Triosteum,,"aurantiacum",var.,"aurantiacum","",Synonym,,L,TRO,6000361,,"","","","",tro-6000332
+tro-6000360,A,Caprifoliaceae,,Triosteum,,"aurantiacum",var.,"illinoense","(Wiegand) E.J. Palmer & Steyerm.",Accepted,,L,TRO,6000360,258560-2,"Ann. Missouri Bot. Gard.","22(3): 651","651","1935",
+kew-2430861,A,Caprifoliaceae,,Triosteum,,"connatum",,"","Raf.",Unresolved,,L,WCSP (in review),,149496-1,"New Fl.","2: 35","","1837",
+kew-2430862,A,Caprifoliaceae,,Triosteum,,"emodorum",,"","Spreng.",Unresolved,,L,WCSP (in review),,149497-1,"Syst. Veg.","4(2): 82","","1827",
+tro-6000764,A,Rubiaceae,,Triosteum,,"erythrocarpum",,"","Harry Sm.",Synonym,,M,TRO,6000764,149498-1,"Svensk Bot. Tidskr.","39: 46","46","1945",kew-108582
+tro-6000763,A,Rubiaceae,,Triosteum,,"fargesii",,"","Franch.",Synonym,,M,TRO,6000763,149499-1,"J. Bot. (Morot)","10(19): 318–319","318","1896",kew-108582
+kew-2430865,A,Rubiaceae,,Triosteum,,"himalayanum",,"","Wall.",Synonym,Invalid,M,WCSP (in review),,149500-1,"Numer. List","484","","1829",kew-108582
+tro-50004936,A,Rubiaceae,,Triosteum,,"himalayanum",var.,"chinense","Diels & Graebn.",Synonym,,L,TRO,50004936,,"Bot. Jahrb. Syst.","29(5): 590–591, f. 5B","590","1901",kew-108582
+kew-208974,A,Rubiaceae,,Triosteum,,"hirsutum",,"","Roxb.",Synonym,,H,WCSP,208974,,"Fl. Ind.","1: 538","","1820",kew-108582
+kew-2431232,A,Caprifoliaceae,,Triosteum,,"hispidum",,"","Raf.",Unresolved,,L,WCSP (in review),,149503-1,"New Fl.","2: 37","","1837",
+tro-50080297,A,Caprifoliaceae,,Triosteum,,"illinoense",,"","(Wiegand) Rydb.",Synonym,,M,TRO,50080297,258561-2,"Brittonia","1(2): 96","96","1931",tro-6000360
+tro-6000766,A,Caprifoliaceae,,Triosteum,,"intermedium",,"","Diels & Graebn.",Synonym,,M,TRO,6000766,149505-1,"Bot. Jahrb. Syst.","29(5): 590, f. 5A","590","1901",tro-6000765
+kew-2431235,A,Caprifoliaceae,,Triosteum,,"levigatum",,"","Raf.",Unresolved,,L,WCSP (in review),,149506-1,"New Fl.","2: 37","","1837",
+kew-2431236,A,Caprifoliaceae,,Triosteum,,"majus",,"","Michx.",Unresolved,,L,WCSP (in review),,149507-1,"Fl. Bor.-Amer.","1: 107","","1803",
+kew-2431261,A,Caprifoliaceae,,Triosteum,,"maruyamae",,"","Ohwi",Unresolved,,L,WCSP (in review),,149508-1,"Bull. Natl. Sci. Mus. Tokyo","n.s., 4: 402","","1959",
+kew-2431230,A,Caprifoliaceae,,Triosteum,,"minus",,"","Michx.",Unresolved,,L,WCSP (in review),,149509-1,"Fl. Bor.-Amer.","1: 107","","1803",
+kew-2431253,A,Caprifoliaceae,,Triosteum,,"molle",,"","Raf.",Unresolved,,L,WCSP (in review),,149510-1,"New Fl.","2: 36","","1837",
+kew-2431271,A,Caprifoliaceae,,Triosteum,,"obovatum",,"","Raf.",Unresolved,,L,WCSP (in review),,149511-1,"New Fl.","2: 37","","1837",
+tro-6000171,A,Caprifoliaceae,,Triosteum,,"perfoliatum",,"","L.",Accepted,,M,TRO,6000171,149512-1,"Sp. Pl.","1: 176","176","1753",
+tro-6000384,A,Caprifoliaceae,,Triosteum,,"perfoliatum",var.,"perfoliatum","",Synonym,,L,TRO,6000384,,"","","","",tro-6000171
+tro-6000765,A,Caprifoliaceae,,Triosteum,,"pinnatifidum",,"","Maxim.",Accepted,,M,TRO,6000765,149513-1,"Bull. Acad. Imp. Sci. Saint-Petersbourg","27(4): 476–477","476","1881",
+kew-2431274,A,Caprifoliaceae,,Triosteum,,"pumilum",,"","Raf.",Unresolved,,L,WCSP (in review),,149514-1,"New Fl.","2: 36","","1837",
+tro-6000767,A,Caprifoliaceae,,Triosteum,,"rosthornii",,"","Diels & Graebn.",Synonym,,M,TRO,6000767,149515-1,"Bot. Jahrb. Syst.","29(5): 592, f. 5C–E","592","1901",tro-6000765
+tro-6000501,A,Caprifoliaceae,,Triosteum,,"sinuatum",,"","Maxim.",Accepted,,M,TRO,6000501,149516-1,"Bull. Acad. Imp. Sci. Saint-Petersbourg","15(3): 373–374","373","1871",
+kew-208975,A,Rubiaceae,,Triosteum,,"triflorum",,"","Vahl",Synonym,,H,WCSP,208975,149517-1,"Symb. Bot.","3: 37","","1794",kew-84485
+kew-2431278,A,Caprifoliaceae,,Triosteum,,"villosum",,"","Raf.",Unresolved,,L,WCSP (in review),,149518-1,"New Fl.","2: 36","","1837",

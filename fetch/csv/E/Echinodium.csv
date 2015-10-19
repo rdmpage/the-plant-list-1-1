@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-35133661,B,Echinodiaceae,,Echinodium,,"arboreum",,"","Broth.",Synonym,,M,TRO,35133661,,"Oefvers. Förh. Finska Vetensk.-Soc.","35: 55","55","1893",tro-35133664
+tro-35133662,B,Echinodiaceae,,Echinodium,,"falcatulum",,"","Broth. & Paris",Synonym,,M,TRO,35133662,,"Oefvers. Förh. Finska Vetensk.-Soc.","48 (15): 26","26","1906",tro-35133664
+tro-35133663,B,Echinodiaceae,,Echinodium,,"glaucoviride",,"","(Mitt.) A. Jaeger",Synonym,,M,TRO,35133663,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges.","1876–77: 314 (Gen. Sp. Musc. 2: 380)","314 ","1878",tro-35133665
+tro-35133664,B,Echinodiaceae,,Echinodium,,"hispidum",,"","(Hook. f. & Wilson) Reichardt",Accepted,,M,TRO,35133664,,"Reise Novara","1(3): 127","127","1870",
+tro-35133665,B,Echinodiaceae,,Echinodium,,"hispidum",var.,"glaucoviride","(Mitt.) Dixon",Accepted,,L,TRO,35133665,,"New Zealand Inst. Bull.","3(5): 249. pl. 10: f. 5","249","1927",
+tro-35133667,B,Echinodiaceae,,Echinodium,,"madeirense",,"","Jur.",Synonym,,M,TRO,35133667,,"Bot. Zeitung (Berlin)","24: 21","21","1866",tro-35133674
+tro-35133669,B,Echinodiaceae,,Echinodium,,"parvulum",,"","Broth. & Watts",Synonym,,M,TRO,35133669,,"Proc. Linn. Soc. New South Wales","40: 376","376","1915",tro-35133675
+tro-35133670,B,Echinodiaceae,,Echinodium,,"prolixum",,"","(Mitt.) Broth.",Accepted,,M,TRO,35133670,,"Nat. Pflanzenfam.","I(3): 1217","1217","1909",
+gcc-157183,A,Compositae,,Echinodium,,"prostratum",,"","Poit.",Synonym,,M,TICA,779E18E0-E4F9-47E6-B1DE-FCC155223358,,"","","","",gcc-76043
+tro-35133671,B,Echinodiaceae,,Echinodium,,"renauldii",,"","(Cardot) Broth.",Accepted,,M,TRO,35133671,,"Nat. Pflanzenfam.","I(3): 1217","1217","1909",
+tro-35162292,B,Echinodiaceae,,Echinodium,,"savicziae",,"","Abramova & I.I. Abramov",Unresolved,,L,TRO,35162292,,"Bot. Žurn. (Moscow & Leningrad)","43(7): 1019. 4; t. 2","1019","1958",
+tro-35133672,B,Echinodiaceae,,Echinodium,,"setigerum",,"","(Mitt.) Jur.",Accepted,,M,TRO,35133672,,"Bot. Zeitung (Berlin)","24: 178","178","1866",
+tro-35133673,B,Echinodiaceae,,Echinodium,,"setigerum",var.,"integrifolium","Luisier",Synonym,,L,TRO,35133673,,"Bróteria, Sér. Bôt.","9: 64","64","1910",tro-35133672
+tro-35133674,B,Echinodiaceae,,Echinodium,,"spinosum",,"","(Mitt.) Jur.",Accepted,,M,TRO,35133674,,"Bot. Zeitung (Berlin)","24: 178","178","1866",
+tro-35133675,B,Echinodiaceae,,Echinodium,,"umbrosum",,"","(Mitt.) A. Jaeger",Accepted,,M,TRO,35133675,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges.","1876–77: 314 (Gen. Sp. Musc. 2: 1132)","314 ","1878",

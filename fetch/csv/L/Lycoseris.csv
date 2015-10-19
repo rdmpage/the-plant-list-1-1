@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-110210,A,Compositae,,Lycoseris,,"boliviana",,"","Britton",Accepted,,M,TICA,9A6E3355-6B13-4628-BDFF-B05A14D8A130,147750-2,"","","266","1892",
+gcc-46829,A,Compositae,,Lycoseris,,"bracteata",,"","Benth.",Synonym,,M,TICA,46D3EC24-2A0C-43F9-BEAB-56C5088C4AA1,231333-1,"Bot. Voy. Sulphur 121.","","121","1845",gcc-41701
+gcc-118200,A,Compositae,,Lycoseris,,"colombiana",,"","K.Egeröd",Accepted,,M,TICA,7D623654-DC6A-4FBC-8A16-C264873526D5,960269-1,"","","","1991",
+gcc-17818,A,Compositae,,Lycoseris,,"crocata",,"","(Bertol.) S.F.Blake",Accepted,,M,TICA,C8577790-DEDB-4D3C-8791-20E3D133415C,231334-1,"","","218","1926",
+gcc-95645,A,Compositae,,Lycoseris,,"denticulata",,"","Less.",Unresolved,,L,TICA,786C90E9-10D2-428D-AF61-8FD7FCAA2525,231335-1,"Linnaea 5: 257. 1830","","257","1830",
+gcc-45929,A,Compositae,,Lycoseris,,"eggersii",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,A513749E-5D75-4C52-866D-55230ABF92C4,,"Bot. Jahrb. Syst. xxix. 75.","","75","",
+gcc-99138,A,Compositae,,Lycoseris,,"eggersii",,"","Hieron.",Accepted,,M,TICA,A7D47F5F-D160-458C-9140-97B07C8C4D95,280126-2,"Bot. Jahrb. Syst. 29: 75. 1900","","75","1900",
+gcc-113887,A,Compositae,,Lycoseris,,"grandis",,"","Benth. ex Oerst.",Unresolved,,L,TICA,3DB3E8A8-6958-4168-8140-B89C9730D5CE,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn (1852) 111.","","111","",
+gcc-99340,A,Compositae,,Lycoseris,,"grandis",,"","Benth.",Accepted,,M,TICA,06E67687-3E5B-42B7-8126-9826D9B156F8,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 111-112. 1853.","","111-112","1853",
+gcc-17769,A,Compositae,,Lycoseris,,"hyssopifolia",,"","Cass.",Unresolved,,L,TICA,A094FA9C-AC52-4C14-B125-20CCE428E8B3,231338-1,"in Dict. Sc. Nat. xxxiii. 474.","","xxxiii. 474","",
+gcc-104978,A,Compositae,,Lycoseris,,"latifolia",,"","(D.Don) Benth.",Synonym,,M,TICA,1321C2DD-342E-48A4-B4EA-A4AB3C03C8F0,231339-1,"","","121","1845",gcc-570
+gcc-37539,A,Compositae,,Lycoseris,,"macrocephala",,"","Greenm.",Accepted,,M,TICA,53A5BC1E-1EB0-4139-8A99-4593EECE4D1F,310027-2,"Proc. Amer. Acad. Arts 39: 119. 1903","","119","1903",
+gcc-93542,A,Compositae,,Lycoseris,,"mexicana",,"","(L.f.) Cass.",Accepted,,M,TICA,B441D153-17EF-47D6-A9DD-8AF3223CD497,,"in Dict. Sc. Nat. xxxiii. 474.","","","1824",
+gcc-14784,A,Compositae,,Lycoseris,,"minor",,"","K.Egeröd",Accepted,,M,TICA,2ADA3415-7DCE-4D24-95FE-1B6ACFFB4420,960268-1,"","","","1991",
+gcc-81248,A,Compositae,,Lycoseris,,"oblongifolia",,"","Rusby",Synonym,,M,TICA,6DC8CD1A-28E9-4253-BDD1-6F60E763AF8D,311035-2,"Descr. S. Amer. Pl. 162. 1920","","162","1920",gcc-570
+gcc-128202,A,Compositae,,Lycoseris,,"peruviana",,"","K.Egeröd",Unresolved,,L,TICA,B50E6F6A-5416-444C-80EC-D974830EC67F,960270-1,"","","","1991",
+gcc-107924,A,Compositae,,Lycoseris,,"reflexa",,"","(Hook.) Ferreyra",Unresolved,,L,TICA,200C89C4-0873-4B5A-826E-AB329C777E42,,"","","","",
+gcc-102498,A,Compositae,,Lycoseris,,"retroflexa",,"","J.Kost.",Unresolved,,L,TICA,FE970C18-E2FF-4627-B9CD-9F41B911ADD9,,"""Blumea 5: 664, fig. 4d-h. 1945""","","","1945",
+gcc-153372,A,Compositae,,Lycoseris,,"retroflexa",,"","J. Koster",Accepted,,M,TICA,34DF92F9-2A65-43DE-BF1C-ACE2EE6D6A84,,"","","","",
+gcc-1069,A,Compositae,,Lycoseris,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,CF2F5A38-D4FA-4CF6-A779-01F43678B50B,311362-2,"Bot. Jahrb. Syst. 29: 76. 1900","","76","1900",gcc-99138
+gcc-130434,A,Compositae,,Lycoseris,,"squarrosa",,"","Benth.",Synonym,,M,TICA,3A50D436-130F-4F27-A4A8-DE8B7766C90F,231345-1,"Bot. Voy. Sulphur","","121","1845",gcc-17818
+gcc-41701,A,Compositae,,Lycoseris,,"trinervis",,"","(D.Don) S.F.Blake",Accepted,,M,TICA,CE972C95-4F91-48C6-BB38-4D373259A2F2,147760-2,"","","653","1924",
+gcc-60771,A,Compositae,,Lycoseris,,"trinervis",subsp.,"altissima","(Poepp.) K.Egeröd",Synonym,,L,TICA,29A99EDB-79B1-481D-BC5C-A110264DADCF,967113-1,"Nordic J. Bot. 11(5): 561 (1991):.","","561","1991",gcc-41701
+gcc-9661,A,Compositae,,Lycoseris,,"trinervis",subsp.,"trinervis","",Synonym,,L,TICA,526A9CC2-9DE3-4C9C-9C78-120B0EE16330,,"","","","",gcc-41701
+gcc-570,A,Compositae,,Lycoseris,,"triplinervia",,"","Less.",Accepted,,M,TICA,85106707-46CB-483B-B68A-011374B75FBD,231347-1,"","","257-258","1830",
+gcc-96161,A,Compositae,,Lycoseris,,"umbellifera",,"","Sch.Bip.",Unresolved,,L,TICA,92D7E650-3813-42AE-BA3A-90EA20D53327,,"","","","",

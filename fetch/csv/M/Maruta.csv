@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-26885,A,Compositae,,Maruta,,"cotula",,"","(L.) DC.",Synonym,,M,TICA,F706995F-E76A-4041-A2C4-31B49D902C56,231787-1,"","","13","1838",gcc-131879
+gcc-156256,A,Compositae,,Maruta,,"cotula",var.,"cotula","",Synonym,,L,TICA,F105EEB3-8FBB-4910-BEA1-E9853CF94743,,"","","","",gcc-131879
+gcc-60732,A,Compositae,,Maruta,,"cotula",var.,"lithuanica","DC.",Synonym,,L,TICA,2637B57A-2274-4CB7-83A0-A0A463DFB8C5,51027565-1,"""DC., Prodr. 6. 1838.""","","13","1838",gcc-2689
+gcc-109144,A,Compositae,,Maruta,,"foetida",,"","Gray",Unresolved,,L,TICA,3E7C5608-DDAE-4CED-A8C2-ADFBFEBA0E6A,147060-3,"","","456","1821",
+gcc-35411,A,Compositae,,Maruta,,"foetida",,"","Cass.",Synonym,,M,TICA,3C3050E2-4271-4215-8910-41A6F358D4B3,231789-1,"""in Dict. Sci. Nat., 29: 174 (1823).""","","174","1823",gcc-131879
+gcc-109602,A,Compositae,,Maruta,,"fuscata",,"","DC.",Unresolved,,L,TICA,B674744C-CB02-4E03-84E4-AF0664B5D7B7,231790-1,"Prodr. (DC.) 6: 14","","14","1838",
+gcc-100700,A,Compositae,,Maruta,,"hemisphaerica",,"","Hook.f.",Unresolved,,L,TICA,86E83F37-A1AE-4FAA-AEBA-9B36C885DA90,231791-1,"""Fl. Brit. Ind. iii. 316, sphalm.""","","""iii. 316, sphalm""","",
+gcc-15971,A,Compositae,,Maruta,,"lithuanica",,"","Hort. ex Fisch.Mey. & Avé-Lall.",Unresolved,,L,TICA,E90AEFAB-FAD6-44F4-BE7C-1D8D033DA519,,"Index Seminum Hort. Petrop. x. 53","","53","",
+gcc-32621,A,Compositae,,Maruta,,"micheliana",,"","Fisch.Mey & Avé-Lall.",Unresolved,,L,TICA,76D94534-3FFE-430E-9C5B-3C728F0D0534,231793-1,"Index Seminum Hort. Petrop. xi. 76","","76","",
+gcc-50935,A,Compositae,,Maruta,,"microcephala",,"","Schrenk",Synonym,,M,TICA,7876939D-0D20-4DEE-AECA-5E7DAA0A66EE,,"","","","1845",gcc-123712
+gcc-89120,A,Compositae,,Maruta,,"mixta",,"","Moris",Unresolved,,L,TICA,A403810C-5EA5-4A82-9C93-80FBCA782D17,231795-1,"Fl. Sard. ii. 416.","","ii. 416","",
+gcc-50338,A,Compositae,,Maruta,,"vulgaris",,"","Bluff & Fingerh.",Unresolved,,L,TICA,9BF427DF-6AF0-46E3-90B7-5D57748B0D5B,231796-1,"Comp. Fl. Germ. ii. 392","","392","",

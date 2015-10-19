@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-24004,A,Arecaceae,,Brahea,,"aculeata",,"","(Brandegee) H.E.Moore",Accepted,,H,WCSP,24004,36057-2,"Principes","24: 91","","1980",
+kew-24005,A,Arecaceae,,Brahea,,"armata",,"","S.Watson",Accepted,,H,WCSP,24005,664889-1,"Proc. Amer. Acad. Arts","11: 146","","1876",
+tro-50238153,A,Arecaceae,,Brahea,,"armata",var.,"microcarpa","Becc.",Synonym,,L,TRO,50238153,,"","","","",kew-24005
+kew-24006,A,Arecaceae,,Brahea,,"bella",,"","L.H.Bailey",Synonym,,H,WCSP,24006,664890-1,"Gentes Herb.","6: 194","","1943",kew-24014
+kew-24007,A,Arecaceae,,Brahea,,"berlandieri",,"","Bartlett",Synonym,,H,WCSP,24007,36060-2,"Publ. Carnegie Inst. Wash.","461: 31","","1935",kew-24014
+kew-24008,A,Arecaceae,,Brahea,,"brandegeei",,"","(Purpus) H.E.Moore",Accepted,,H,WCSP,24008,36061-2,"Baileya","19: 168","","1975",
+kew-24009,A,Arecaceae,,Brahea,,"calcarea",,"","Liebm.",Accepted,,H,WCSP,24009,664895-1,"Hist. Nat. Palm.","3: 319","","1853",
+kew-24010,A,Arecaceae,,Brahea,,"clara",,"","(L.H.Bailey) Espejo & López-Ferr.",Synonym,,H,WCSP,24010,975969-1,"Sida","15: 617","","1993",kew-24005
+kew-24011,A,Arecaceae,,Brahea,,"conduplicala",,"","Linden",Unresolved,,L,WCSP,24011,664896-1,"Ill. Hort.","28: 16","","1881",
+kew-24012,A,Arecaceae,,Brahea,,"conzattii",,"","Bartlett",Synonym,,H,WCSP,24012,36062-2,"Publ. Carnegie Inst. Wash.","461: 30","","1935",kew-24014
+kew-24013,A,Arecaceae,,Brahea,,"decumbens",,"","Rzed.",Accepted,,H,WCSP,24013,36063-2,"Ciencia (Mexico)","15: 89","","1955",
+kew-24014,A,Arecaceae,,Brahea,,"dulcis",,"","(Kunth) Mart.",Accepted,,H,WCSP,24014,,"Hist. Nat. Palm.","3: 244","","1838",
+kew-24015,A,Arecaceae,,Brahea,,"dulcis",,"","J.G.Cooper",Synonym,Illegitimate,H,WCSP,24015,664899-1,"Rep. (Annual) Board Regents Smithsonian Inst.","1860: 442","","1860",kew-214250
+kew-330413,A,Arecaceae,,Brahea,,"dulcis",f.,"humilis","Miranda",Synonym,,L,WCSP,330413,36064-2,"Anales Inst. Biol. Univ. Nac. México","12: 590","","1941",kew-24014
+kew-24016,A,Arecaceae,,Brahea,,"dulcis",var.,"montereyensis","(Becc.) Becc.",Synonym,,L,WCSP,24016,,"Ann. Roy. Bot. Gard. (Calcutta)","13: 403","","1931",kew-24014
+kew-24017,A,Arecaceae,,Brahea,,"edulis",,"","H.Wendl. ex S.Watson",Accepted,,H,WCSP,24017,664901-1,"Proc. Amer. Acad. Arts","11: 120","","1876",
+kew-452366,A,Arecaceae,,Brahea,,"edulis",var.,"montereyensis","Becc.",Synonym,,L,WCSP,452366,,"Webbia","2: 99","","1907",kew-24014
+kew-24018,A,Arecaceae,,Brahea,,"elegans",,"","(Franceschi ex Becc.) H.E.Moore",Synonym,,H,WCSP,24018,36066-2,"Baileya","19: 168","","1975",kew-24005
+kew-24019,A,Arecaceae,,Brahea,,"filamentosa",,"","S.Watson",Synonym,,H,WCSP,24019,664902-1,"Proc. Amer. Acad. Arts","11: 147","","1876",kew-214250
+tro-50203591,A,Arecaceae,,Brahea,,"filamentosa",,"","Kuntze",Synonym,,M,TRO,50203591,,"Revis. Gen. Pl.","2: 737","737","1891",kew-214250
+kew-24020,A,Arecaceae,,Brahea,,"filifera",,"","(Linden ex André) W.Watson",Synonym,,H,WCSP,24020,36068-2,"Bull. Misc. Inform. Kew","1889: 296","","1889",kew-214250
+kew-24021,A,Arecaceae,,Brahea,,"frigida",,"","Devansaye",Synonym,Invalid,H,WCSP,24021,664904-1,"Rev. Hort.","47: 32","","1875",kew-24014
+kew-24022,A,Arecaceae,,Brahea,,"glauca",,"","Hook.f.",Synonym,,H,WCSP,24022,664905-1,"Hooker's J. Bot. Kew Gard. Misc.","1882: 64","","1884",kew-24005
+kew-24023,A,Arecaceae,,Brahea,,"lucida",,"","Hook.f.",Synonym,,H,WCSP,24023,664906-1,"Hooker's J. Bot. Kew Gard. Misc.","1882: 64","","1884",kew-24005
+kew-24024,A,Arecaceae,,Brahea,,"minima",,"","(Nutt.) H.Wendl.",Synonym,,H,WCSP,24024,664907-1,"Palmiers","235","","1878",kew-181048
+kew-24025,A,Arecaceae,,Brahea,,"moorei",,"","L.H.Bailey ex H.E.Moore",Accepted,,H,WCSP,24025,36070-2,"Gentes Herb.","8: 219","","1951",
+kew-24026,A,Arecaceae,,Brahea,,"nitida",,"","André",Synonym,,H,WCSP,24026,664909-1,"Rev. Hort.","59: 344","","1887",kew-24009
+kew-24027,A,Arecaceae,,Brahea,,"nobilis",,"","Hook.f.",Synonym,,H,WCSP,24027,664910-1,"Hooker's J. Bot. Kew Gard. Misc.","1882: 64","","1884",kew-24005
+kew-24028,A,Arecaceae,,Brahea,,"pimo",,"","Becc.",Accepted,,H,WCSP,24028,36072-2,"Webbia","2: 103","","1908",
+kew-24029,A,Arecaceae,,Brahea,,"prominens",,"","L.H.Bailey",Synonym,,H,WCSP,24029,664912-1,"Gentes Herb.","6: 192","","1943",kew-24009
+kew-24030,A,Arecaceae,,Brahea,,"psilocalyx",,"","Burret",Synonym,,H,WCSP,24030,36074-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 1037","","1934",kew-2153
+kew-24031,A,Arecaceae,,Brahea,,"robusta",,"","Voss",Synonym,Invalid,H,WCSP,24031,,"Vilm. Blumengärtn. ed. 3","1: 1149","","1895",kew-214261
+kew-24032,A,Arecaceae,,Brahea,,"roezlii",,"","Linden",Synonym,,H,WCSP,24032,664915-1,"Ill. Hort.","28: 38","","1881",kew-24005
+kew-24033,A,Arecaceae,,Brahea,,"salvadorensis",,"","H.Wendl. ex Becc.",Accepted,,H,WCSP,24033,36076-2,"Webbia","2: 105","","1908",
+kew-24034,A,Arecaceae,,Brahea,,"sarukhanii",,"","H.J.Quero",Accepted,,H,WCSP,24034,1016160-1,"Palms","44: 110","","2000",
+kew-24035,A,Arecaceae,,Brahea,,"schippii",,"","Burret",Synonym,,H,WCSP,24035,664918-1,"Notizbl. Bot. Gart. Berlin-Dahlem","12: 304","","1935",kew-24014
+kew-24036,A,Arecaceae,,Brahea,,"serrulata",,"","(Michx.) H.Wendl.",Synonym,,H,WCSP,24036,664919-1,"Palmiers","235","","1878",kew-190787

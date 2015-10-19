@@ -1,0 +1,430 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6162,A,Compositae,,Wedelia,,"abyssinica",,"","Vatke",Unresolved,,L,TICA,B596AF9F-9CE6-45E3-96A9-0B74E2D6EA07,260149-1,"Oesterr. Bot. Z. 25: 327","","327","1875",
+gcc-11986,A,Compositae,,Wedelia,,"acapulcensis",,"","Kunth",Accepted,,M,TICA,F2317FEE-F9AB-4717-BF84-165764BF3100,,"","","168-169","1820 [1818]",
+gcc-38847,A,Compositae,,Wedelia,,"acapulcensis",var.,"acapulcensis","",Synonym,,L,TICA,5C8C6261-4D80-4338-9BDF-48105051AD0C,,"","","","",gcc-11986
+gcc-72677,A,Compositae,,Wedelia,,"acapulcensis",var.,"ayerscottiana","(B.L.Turner) Strother",Synonym,,L,TICA,021373BA-1243-4B48-B837-FFE524D44886,967061-1,"","","53","1991",gcc-120890
+gcc-16104,A,Compositae,,Wedelia,,"acapulcensis",var.,"hispida","(Kunth) Strother",Accepted,,L,TICA,70A6CB68-7B40-4D3B-B83F-1DCA61089E37,967065-1,"","","62","1991",
+gcc-32771,A,Compositae,,Wedelia,,"acapulcensis",var.,"parviceps","(S.F.Blake) Strother",Accepted,,L,TICA,51AF0F9C-C04D-4373-A5DA-3CC65B77D0B5,967063-1,"Syst. Bot. Monogr. 33","","58","1991",
+gcc-45582,A,Compositae,,Wedelia,,"acapulcensis",var.,"tehuantepecana","(B.L.Turner) Strother",Synonym,,L,TICA,9B7CEFAB-5C37-4C21-BC8B-547C21311BE9,967064-1,"Syst. Bot. Monogr. 33","","60","1991",gcc-11379
+gcc-40990,A,Compositae,,Wedelia,,"acerba",,"","S.Moore",Accepted,,M,TICA,306001A7-4F93-49CD-9033-4BF86C8EF456,,"","","","1926",
+gcc-11316,A,Compositae,,Wedelia,,"acuminata",,"","DC.",Unresolved,,L,TICA,49C95B63-2ECA-4247-90CF-1529581F8B10,1040957-2,"Prodr. (DC.) 5: 541","","541","1836",tro-100369669
+gcc-143760,A,Compositae,,Wedelia,,"adhaerens",,"","S.F.Blake",Synonym,,M,TICA,20190AC6-B891-4EF8-8B04-FC9D34C55417,267859-2,"","","383-384","1932",gcc-11986
+gcc-115870,A,Compositae,,Wedelia,,"aequitoreale",,"","Benth. & Hook.f.",Unresolved,Illegitimate,L,TICA,2E4CFFC1-9809-4022-8345-BD288EAC53BE,,"","","","",
+gcc-13327,A,Compositae,,Wedelia,,"affinis",,"","De Wild.",Synonym,,M,TICA,87E07297-FDFE-422E-9F08-18D717E1938A,260155-1,"Repert. Spec. Nov. Regni Veg. 13: 209","","209","1914",gcc-11589
+gcc-134118,A,Compositae,,Wedelia,,"affinis",,"","DC.",Unresolved,,L,TICA,6FBEE8E8-F8A5-48F3-A7E0-E71060E9FAEC,,"Prodr. (DC.) 5: 541","","","1836",gcc-141379
+gcc-33646,A,Compositae,,Wedelia,,"africana",,"","P.Beauv.",Synonym,,M,TICA,EE01FD26-D093-4488-9965-3E63E72B8B58,,"Fl. Owar. ii. 19. t. 69.","","","1807",gcc-83812
+gcc-8770,A,Compositae,,Wedelia,,"africana",,"","Pers.",Synonym,,M,TICA,48DBA3BE-4D83-4606-B800-1067D90BDCCC,,"","","","1807",gcc-83812
+gcc-146120,A,Compositae,,Wedelia,,"africana",var.,"africana","",Synonym,,L,TICA,2DE3F83A-EB2E-49CC-8486-11D62AA4E6DD,,"","","","",gcc-83812
+gcc-50762,A,Compositae,,Wedelia,,"africana",var.,"ambigua","(C.D.Adams) Isawumi",Synonym,,L,TICA,ED7D1A5C-004E-4DD2-927B-5E254742AF22,,"Fedde Repert. 108(7–8): 558 (1997).","","","",gcc-83812
+gcc-11978,A,Compositae,,Wedelia,,"africana",var.,"guineensis","(C.D.Adams) Isawumi",Synonym,,L,TICA,B296444C-3D9C-4B2D-971E-165490DCC5BA,,"Fedde Repert. 108(7–8): 558 (1997).","","","",gcc-83812
+gcc-56150,A,Compositae,,Wedelia,,"africana",var.,"minor","(C.D.Adams) Isawumi",Synonym,,L,TICA,4C38CE89-3FF5-434E-8457-7C2841E6BB18,,"Fedde Repert. 108(7–8): 558 (1997).","","","",gcc-83812
+gcc-7917,A,Compositae,,Wedelia,,"aggregata",,"","(Greenm.) B.L.Turner",Accepted,,M,TICA,48ED95C4-4BC8-4750-A1DF-0EBEDC816B6A,287032-2,"","","348","1988",
+gcc-15934,A,Compositae,,Wedelia,,"alagoensis",,"","Baker",Accepted,,M,TICA,36950E0F-587B-4996-AC48-1D7848351D15,,"Fl. Bras. (Martius) 6(3): 187","","187","",
+gcc-115777,A,Compositae,,Wedelia,,"albicaulis",,"","S.Moore",Unresolved,,L,TICA,75E17410-46F8-4139-8353-BCF68BA9DE6E,260158-1,"""in Journ. Nat. Hist. Soc. Siam, iv. 146 (1921).""","","iv. 146","1921",
+gcc-79742,A,Compositae,,Wedelia,,"albiflora",,"","Hiern",Synonym,,M,TICA,53C8FE7F-71B3-42FE-AEAD-6C150179DBEF,260159-1,"Cat. Afr. Pl. (Hiern) i. 577.","","577","",gcc-93094
+gcc-119143,A,Compositae,,Wedelia,,"almedae",,"","H.Rob.",Accepted,,M,TICA,5F37DF5A-DFFA-49F1-830B-C486AED94CD6,,"","","","1984",
+gcc-150115,A,Compositae,,Wedelia,,"alutacea",,"","Pohl",Synonym,,L,TICA,12FE761E-A44B-4EA0-A60A-6787B2A87C5A,,"","","","",gcc-31049
+gcc-97620,A,Compositae,,Wedelia,,"alutacea",,"","Pohl ex Baker",Unresolved,,L,TICA,5DE0F5F2-075F-480C-AFAA-944CD0AD4B9D,,"Fl. Bras. (Martius) 6(3): 200","","200","",
+gcc-123457,A,Compositae,,Wedelia,,"ambigens",,"","S.F.Blake",Accepted,,M,TICA,3C813474-C7FD-4ED2-9C05-CE610376C3AE,267863-2,"","","330","1931",
+gcc-30507,A,Compositae,,Wedelia,,"ambigua",,"","DC.",Unresolved,,L,TICA,61B71A32-EC99-4490-BEEC-38733D070296,260162-1,"Prodr. (DC.) 5: 541","","541","1836",gcc-86805
+gcc-1411,A,Compositae,,Wedelia,,"andersonii",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,93303443-5C49-4559-A9B1-028C14D4CE13,1112531-2,"","","390","1992",gcc-126090
+gcc-29287,A,Compositae,,Wedelia,,"angolensis",,"","Klatt",Synonym,,M,TICA,A5CAD3D2-2468-4E2E-8497-361F5E6639B6,,"""in Annal. Naturh. Hofmus. Wien, vii. (1892) 102.""","","","1892",gcc-93094
+gcc-100270,A,Compositae,,Wedelia,,"angustifolia",,"","(Gardner) B.L.Turner",Unresolved,,L,TICA,B976F1FF-7027-4C85-AC57-9A3D171058F7,1142498-2,"","","391","1992",gcc-77614
+gcc-24773,A,Compositae,,Wedelia,,"angustifolia",,"","(Oliv. & Hiern) Isawumi",Synonym,,M,TICA,4029BCBC-0716-45F6-BBAD-2DC7ED07490A,,"","","","1997",gcc-43511
+gcc-86111,A,Compositae,,Wedelia,,"annua",,"","Gilli",Accepted,,M,TICA,EEE18F60-B3F8-4539-9874-7A32BA06A417,267865-2,"Feddes Repert. 94","","314","1983",
+gcc-138154,A,Compositae,,Wedelia,,"apensis",,"","(Chodat) B.L.Turner",Synonym,,L,TICA,6930E1DF-B5DC-43C5-A0CD-EFFAEC17261F,1177135-2,"","","391","1992",gcc-51376
+gcc-109162,A,Compositae,,Wedelia,,"argentea",,"","(Gaudich.) Merr.",Synonym,,M,TICA,3867869B-8F37-4E42-A6B5-AE05F7178C45,,"","","","1914",gcc-114619
+gcc-46115,A,Compositae,,Wedelia,,"aristata",,"","Less.",Synonym,,M,TICA,0944D457-5C98-4C5F-A191-557AE6C4137C,260165-1,"Linnaea 6","","160","1831",gcc-114619
+gcc-46147,A,Compositae,,Wedelia,,"aspera",,"","(Jacq.) Small",Unresolved,,L,TICA,4EB5D1E6-C977-45B6-89CE-5589F3EB7582,,"","","","",
+gcc-91139,A,Compositae,,Wedelia,,"asperrima",,"","(Gardner) B.L.Turner",Unresolved,,L,TICA,A0A106B1-26C4-48D9-B3B7-85A77E380ECC,1115439-2,"","","391","1992",gcc-31049
+gcc-92862,A,Compositae,,Wedelia,,"asperrima",,"","(Decne.) Benth.",Synonym,,M,TICA,F81436A4-896A-45E0-BB39-89898CA3B17B,260166-1,"Fl. Austral. 3","","539","1867",gcc-68979
+gcc-9675,A,Compositae,,Wedelia,,"aspilioides",,"","(Baker) B.L.Turner",Synonym,,L,TICA,4C6637D5-95D7-4D48-AFFB-1211A161C891,1207063-2,"","","391","1992",gcc-145496
+gcc-39099,A,Compositae,,Wedelia,,"attenuata",,"","(Gardner) B.L.Turner",Synonym,,L,TICA,CEF8C729-3B10-4AF0-A3EB-488C54961A6E,1134708-2,"","","391","1992",gcc-31049
+gcc-18355,A,Compositae,,Wedelia,,"aurantiaca",,"","(Griseb.) B.L.Turner",Unresolved,,L,TICA,B19232BE-0D25-426D-AAB7-21E7FBC562E0,1148628-2,"","","391","1992",gcc-80951
+gcc-28682,A,Compositae,,Wedelia,,"aurea",,"","D.Don",Synonym,,L,TICA,0DD4F460-77EB-443D-A1E2-350385F3338A,267866-2,"Bot. Mag. 9 (n.s.): t. 3384. 1835","","t. 3384","1835",gcc-28426
+gcc-46232,A,Compositae,,Wedelia,,"aurea",,"","D.Don ex Hook.",Unresolved,,L,TICA,58AAEFE2-74F6-40DF-9041-55B096501F6E,260167-1,"Bot. Mag. 62: t. 3384","","3384","1835",
+gcc-94274,A,Compositae,,Wedelia,,"avilensis",,"","(Aristeg. & Steyerm.) B.L.Turner",Accepted,,L,TICA,FAF754FB-5DBD-4F35-AA9B-8C9B58A5FB1D,1007318-2,"","","391","1992",
+gcc-120890,A,Compositae,,Wedelia,,"ayerscottiana",,"","B.L.Turner",Accepted,,M,TICA,7B4CD05A-5D1F-42E8-AF44-C8923BCE53EF,310076-2,"Phytologia 60","","125","1986",
+gcc-118324,A,Compositae,,Wedelia,,"bahamensis",,"","(Britton) Schulz ex O.E.Schulz",Accepted,,M,TICA,5EECCC5D-F24E-4A42-94C8-C2ACEBB9BF2A,267867-2,"Symb. Antill. 7","","106","1911",
+gcc-36967,A,Compositae,,Wedelia,,"bahiensis",,"","H.Rob.",Accepted,,M,TICA,63A1C800-0C6A-474E-92C9-447B989721F7,,"","","","1984",
+gcc-40054,A,Compositae,,Wedelia,,"bakeri",,"","B.L.Turner",Unresolved,,L,TICA,1748E4AD-FB4F-4544-835D-4A4FA9ABB5CC,1027446-2,"","","391","1992",
+gcc-26631,A,Compositae,,Wedelia,,"baorucana",,"","Alain",Accepted,,M,TICA,CCAADF78-D647-4632-9E94-3133E728E197,267869-2,"","","156","1971",
+gcc-9773,A,Compositae,,Wedelia,,"bengalensis",,"","Rich.",Unresolved,,L,TICA,3D810EC2-BF66-4616-A02D-124489659C91,260170-1,"in Pers. Syn. ii. 490.","","ii. 490","",
+gcc-5797,A,Compositae,,Wedelia,,"biflora",,"","(L.) DC.",Synonym,,M,TICA,42902D04-C125-4EFB-8C37-0AC90EF33D94,260171-1,"""Wight, Contr. Bot. India.""","","18","1834",gcc-146100
+gcc-53008,A,Compositae,,Wedelia,,"biflora",var.,"canescens","Fosberg",Synonym,,L,TICA,7BAA66B9-CF7C-4A31-AF62-62CA160BBE89,,"Phytologia 5 (1955)","","291","1955",gcc-114619
+gcc-71874,A,Compositae,,Wedelia,,"biflora",var.,"scabriuscula","(DC.) Hochr.",Synonym,,L,TICA,BF042403-CFFA-44D8-BF7B-F9819D91072D,,"Candollea 5 (1934)","","321","1934",gcc-114619
+gcc-27802,A,Compositae,,Wedelia,,"biflora",var.,"urticifolia","DC. ex C.B.Clarke",Synonym,,L,TICA,D32FDCA4-67DF-4ACE-B35D-3361570A94B4,,"Comp. Ind. (1876)","","137","1876",gcc-114619
+gcc-131975,A,Compositae,,Wedelia,,"bishopii",,"","H.Rob.",Accepted,,M,TICA,6DCFEBCD-D895-4515-9B60-E22A13D0C565,,"","","","1984",
+gcc-32482,A,Compositae,,Wedelia,,"bishoplecta",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,667FD57F-DB86-4165-B128-3C3AC4B76E39,1019114-2,"","","391","1992",gcc-12229
+gcc-3035,A,Compositae,,Wedelia,,"bonplandiana",,"","(Gardner) B.L.Turner",Unresolved,,L,TICA,0D151ED5-4441-4FA3-BFC8-059DE4A435BA,1200543-2,"","","391","1992",gcc-122386
+gcc-48496,A,Compositae,,Wedelia,,"brachycarpa",,"","Baker",Synonym,,M,TICA,B104ED64-315D-4BC4-A2DA-59D07E7E14D8,267871-2,"Fl. Bras. (Martius) 6(3)","","181","1884",gcc-48629
+gcc-95107,A,Compositae,,Wedelia,,"brachycarpa",,"","Chodat",Unresolved,,L,TICA,A497FE86-E854-403D-9779-8E8A9488F6BC,,"""Bull. Herb. Boissier ser. 2, 1: 416. 1901""","","416","1901",
+gcc-19968,A,Compositae,,Wedelia,,"brachylepis",,"","Griseb.",Synonym,,M,TICA,817342E2-543C-49F5-AB3B-24EA3D1CDB8C,267872-2,"","","190","1879",gcc-77868
+gcc-84985,A,Compositae,,Wedelia,,"bracteosa",,"","(C.D.Adams) Isawumi",Synonym,,M,TICA,5A59E6EB-EFAE-4129-80F3-77AD83A25BD7,,"Feddes Repert. 108(7-8): 558","","558","1997",gcc-28535
+gcc-9132,A,Compositae,,Wedelia,,"brasiliensis",,"","(Spreng.) S.F.Blake",Synonym,,M,TICA,870279F0-5192-4BCE-9DFD-11135FC353A3,267873-2,"Contr. U. S. Natl. Herb. 26","","250","1930",gcc-5859
+gcc-155987,A,Compositae,,Wedelia,,"brasiliensis",var.,"brasiliensis","",Synonym,,L,TICA,CA00B4F5-8646-458E-B69A-E422FD4B1AF6,,"","","","",gcc-5859
+gcc-3036,A,Compositae,,Wedelia,,"brasiliensis",var.,"villosa","(Baker) S.F.Blake",Synonym,,L,TICA,E035CBA8-C7B0-4612-AD0A-059E2C5D5C0B,267874-2,"J. Wash. Acad. Sci. 21: 332. 1931","","332","1931",gcc-48629
+gcc-119182,A,Compositae,,Wedelia,,"buphtalmiflora",,"","Lorentz",Synonym,,M,TICA,D6A03E80-A6A1-47D9-B237-C49D16C22634,1024222-2,"","","","",gcc-141573
+gcc-9214,A,Compositae,,Wedelia,,"buphthalmoides",,"","(DC.) Griseb.",Accepted,,M,TICA,0E64B29D-88A4-4FC2-8CFF-113A85CA667B,,"","","","1857",
+gcc-147027,A,Compositae,,Wedelia,,"buphthalmoides",var.,"buphthalmoides","",Synonym,,L,TICA,2F0555D6-B79E-4D59-812A-251398601364,,"","","","",gcc-9214
+gcc-86790,A,Compositae,,Wedelia,,"burchellii",,"","(Baker) B.L.Turner",Synonym,,L,TICA,8CDD1C67-F1DC-4AA3-8B73-7BB9C0D98F99,1120074-2,"","","391","1992",gcc-100774
+gcc-84571,A,Compositae,,Wedelia,,"bussei",,"","(O.Hoffm. & Muschl.) Isawumi",Synonym,,M,TICA,B1DF8248-3D7C-4899-BAB7-76D464AF72C7,,"Feddes Repert. 108(7-8): 560","","560","1997",gcc-130455
+gcc-127797,A,Compositae,,Wedelia,,"cachimboensis",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,3325DBCC-DFC2-44B6-9B37-D885D988CEC6,1126067-2,"","","391","1992",gcc-109908
+gcc-46038,A,Compositae,,Wedelia,,"calendulacea",,"","(L.) Less.",Synonym,Illegitimate,M,TICA,4912F14D-8E18-470B-8BD0-555814963814,260178-1,"","","222","1832",gcc-29252
+gcc-75804,A,Compositae,,Wedelia,,"calendulacea",,"","Rich.",Unresolved,,L,TICA,D37B6B1F-85CC-4BB5-B53E-6347E7B48CE6,,"","","","1807",
+gcc-110135,A,Compositae,,Wedelia,,"caleoides",,"","Aristeg.",Unresolved,,L,TICA,F671277C-F5A8-471D-9560-B02C73A5BF50,267878-2,"","","545","1964",
+gcc-78271,A,Compositae,,Wedelia,,"callosa",,"","(Chodat) B.L.Turner",Synonym,,M,TICA,A9B73760-8006-405A-B100-68C339CC0CA4,1060784-2,"","","391","1992",gcc-48629
+gcc-116237,A,Compositae,,Wedelia,,"calycina",,"","Rich.",Synonym,,M,TICA,1605489D-4E62-4E66-AE89-BDFD61766895,1211929-2,"","","490","1807",gcc-27459
+gcc-94427,A,Compositae,,Wedelia,,"calycina",,"","Spreng.",Unresolved,,L,TICA,811EF5F0-95FC-465D-B7D6-8CEDDF045C37,260182-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 580","","580","1826",
+tro-100369669,A,Compositae,,Wedelia,,"calycina",var.,"acuminata","(DC.) A. H. Liogier",Unresolved,,L,TRO,100369669,,"Phytologia","8: 370","370","1962",
+gcc-71055,A,Compositae,,Wedelia,,"calycina",var.,"calycina","",Synonym,,L,TICA,4D257C72-B1F6-4366-AD20-F308C4B6441E,,"","","","",gcc-27459
+gcc-60327,A,Compositae,,Wedelia,,"calycina",var.,"parviflora","(Rich.) Alain",Synonym,,L,TICA,316FA30E-1CC7-49D0-9868-9D81DE180EF9,267884-2,"Brittonia 20: 154. 1968","","154","1968",gcc-27459
+gcc-107612,A,Compositae,,Wedelia,,"camporum",,"","(Chodat) B.L.Turner",Synonym,,M,TICA,7F54D69C-3B79-469D-9EDD-AA75E410378B,1142794-2,"","","391","1992",gcc-18459
+gcc-8766,A,Compositae,,Wedelia,,"canescens",,"","(Gaudich.) Merr.",Synonym,,M,TICA,2842F6AA-7B0D-4AB5-A2C8-1066763060D2,,"","","","1914",gcc-114619
+gcc-99375,A,Compositae,,Wedelia,,"caracasana",,"","DC.",Synonym,,M,TICA,C5221B00-9538-4BE1-9E81-983AA9F7CEEB,1063451-2,"Prodr. (DC.) 5: 541","","541","1836",gcc-27459
+gcc-85441,A,Compositae,,Wedelia,,"cardenasii",,"","(H.Rob.) B.L.Turner",Synonym,,M,TICA,5E2839BD-0908-4272-832F-78AA1590463C,1041031-2,"","","391","1992",gcc-27762
+gcc-118224,A,Compositae,,Wedelia,,"caribaea",,"","Spreng.",Accepted,,M,TICA,6206807D-1C2B-4B6A-A628-C2700503B32F,260185-1,"","","580","1826",
+gcc-116942,A,Compositae,,Wedelia,,"carnosa",,"","Rich.",Synonym,Illegitimate,M,TICA,9A9B7C7D-CA76-426B-A9F9-BF8FC3F4CC39,,"","","490","1807",gcc-5859
+gcc-82834,A,Compositae,,Wedelia,,"carnosa",,"","Pers.",Unresolved,Illegitimate,L,TICA,18E83B3F-2BB2-41CC-803B-72F06676D831,260186-1,"Syn. Pl. (Persoon) 2(2): 490","","490","1807",
+gcc-150275,A,Compositae,,Wedelia,,"carnosa",var.,"carnosa","",Synonym,,L,TICA,85ECEFBE-D268-43FB-B654-6AD51D74491A,,"","","","",gcc-5859
+gcc-146234,A,Compositae,,Wedelia,,"carnosa",var.,"triloba","Rich. ex DC.",Synonym,,L,TICA,B913A424-4005-474C-84BE-146647A0C2BB,,"","","","",gcc-5859
+gcc-82216,A,Compositae,,Wedelia,,"chamissonis",,"","Less.",Synonym,,M,TICA,55512B7C-2ABD-447E-9BBA-718A5EFC187A,260187-1,"Linnaea 6","","161","1831",gcc-114619
+gcc-93710,A,Compositae,,Wedelia,,"chevalieri",,"","(O.Hoffm. & Muschl.) Isawumi",Synonym,,M,TICA,E71372AD-CB07-46FA-8357-8B4519DC2789,,"Feddes Repert. 108(7-8): 561","","561","1997",gcc-98990
+gcc-48926,A,Compositae,,Wedelia,,"chihuahuana",,"","B.L.Turner",Accepted,,M,TICA,9B6C178C-B1E0-488A-B1F2-5A9C0F58DF89,,"","","","1988",
+gcc-9680,A,Compositae,,Wedelia,,"chinensis",,"","(Osbeck) Merr.",Synonym,,M,TICA,BC59D75F-E1A3-41E0-914A-1213DE12D8AF,260188-1,"","","111","1917",gcc-29252
+gcc-98256,A,Compositae,,Wedelia,,"chrysostephana",,"","Griseb.",Synonym,,M,TICA,05E003AA-3EA7-4088-84A5-95B25B3BAF24,260189-1,"in Goett. Abh. xxiv. (1879) 190.","","190","1879",gcc-115910
+gcc-35450,A,Compositae,,Wedelia,,"ciliata",,"","(Schumach.) Soldano",Unresolved,,L,TICA,DA645B98-71F3-40E0-BD2F-41B65776E4E5,1003050-1,"""in Compositae Newsl., 32: 20 (1998):.""","","20","1998",
+gcc-51209,A,Compositae,,Wedelia,,"comaxillaris",,"","S.F.Blake",Unresolved,,L,TICA,67E9A5C4-3C66-4591-956A-5EF6F5E59E68,,"","","","1930",
+gcc-40254,A,Compositae,,Wedelia,,"copiapina",,"","(Phil.) Reiche",Synonym,,M,TICA,3E553613-DB32-4919-9936-4AA1F9BB0F46,267890-2,"","","140","1903",gcc-115910
+gcc-102635,A,Compositae,,Wedelia,,"cordata",,"","Hook. & Arn.",Synonym,,M,TICA,4E36003F-CD1E-4C32-B9FD-9F939FCDCE4D,267891-2,"Bot. Beechey Voy.","","435","1841",gcc-117295
+gcc-93472,A,Compositae,,Wedelia,,"cordifolia",,"","Mart. ex Baker",Unresolved,,L,TICA,935C5550-5B48-4DA4-A4CE-8ACEEA0AEC88,,"Fl. Bras. (Martius) 6(3): 261","","261","",
+gcc-81244,A,Compositae,,Wedelia,,"cordiformis",,"","McVaugh",Accepted,,M,TICA,3E3AE414-21E9-4DB0-B389-6F5E1652BA46,,"","","","1972",
+gcc-22873,A,Compositae,,Wedelia,,"crassiuscula",,"","S.F.Blake",Synonym,,M,TICA,7E26B659-DF04-43B4-93FB-2A591D2A2F86,267893-2,"Contr. Gray Herb. 52","","38","1917",gcc-87948
+gcc-82505,A,Compositae,,Wedelia,,"crenata",,"","Rich.",Unresolved,Illegitimate,L,TICA,50B6D778-27BF-4333-BFD3-723775254F3B,,"","","490","1807",
+gcc-85290,A,Compositae,,Wedelia,,"cristata",,"","Standl.",Unresolved,,L,TICA,1E5CAC81-B308-4391-9C1F-7861F66C8723,,"","","","",kew-2628768
+gcc-93338,A,Compositae,,Wedelia,,"cronquistii",,"","B.L.Turner",Accepted,,M,TICA,5B33188C-3B12-49C9-953C-8A8323B95397,287035-2,"","","351","1988",
+gcc-12066,A,Compositae,,Wedelia,,"cruciana",,"","Pers.",Unresolved,,L,TICA,9858975D-D3C0-43D0-88BC-167D5E321B69,," 2:","","490","1807",gcc-29161
+gcc-81646,A,Compositae,,Wedelia,,"cruciana",,"","Rich.",Unresolved,,L,TICA,202A41D4-68A5-4CB5-B158-704F67D66296,260198-1,"in Pers. Syn. ii. 490.","","ii. 490.","",
+gcc-87448,A,Compositae,,Wedelia,,"cryptocephala",,"","Peter",Synonym,,M,TICA,9EE95D01-C77F-43A2-991E-7D4D8F7D56FC,,"""Abh. Konigl. Ges. Wiss. Gottingen, Math.-Phys. Kl. ser. 2, xiii. 11. 94 (1928).""","","94","",gcc-32071
+gcc-34356,A,Compositae,,Wedelia,,"cunninghamii",,"","DC.",Accepted,,M,TICA,DD52C68A-CC42-49F8-B108-3FAC946578C1,119408-3,"","","","1836",
+gcc-100604,A,Compositae,,Wedelia,,"cuyabensis",,"","(Malme) B.L.Turner",Unresolved,,L,TICA,91CF8562-5C5D-4B0E-87CB-9B065189203D,1049601-2,"","","392","1992",gcc-16057
+gcc-49650,A,Compositae,,Wedelia,,"cylindrocephala",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,41582242-204A-4532-ABA2-5C0881FD3C46,1028719-2,"","","392","1992",gcc-10634
+gcc-137715,A,Compositae,,Wedelia,,"diffusiflora",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,460C2943-C94C-4F10-98F4-EF0EA8634544,1065071-2,"","","392","1992",gcc-97139
+gcc-126005,A,Compositae,,Wedelia,,"discoidea",,"","Less.",Synonym,,M,TICA,B3B41A76-A652-4241-A83C-D4552D605B4C,260201-1,"","","728-729","1831",gcc-33587
+gcc-128308,A,Compositae,,Wedelia,,"discoidea",,"","Schltdl.",Synonym,,M,TICA,EAFD19F3-8BFF-4160-89E3-D9B9EB87EA22,,"Linnaea 25 (1852)","","209","1852",gcc-33587
+gcc-118665,A,Compositae,,Wedelia,,"diversipapposa",,"","S.Moore",Synonym,,M,TICA,56C581A7-2A6F-4F8F-ADF2-C3798DB63C09,260202-1,"""in Journ. Bot. 1899, 401.""","","401","1899",gcc-11589
+gcc-117785,A,Compositae,,Wedelia,,"eclipta",,"","Reich.",Synonym,,M,TICA,4A522C5F-C33B-4616-8CA8-C173DAE43140,,"","","","",gcc-33587
+gcc-135283,A,Compositae,,Wedelia,,"ecliptaefolia",,"","(DC.) B.L.Turner",Synonym,,M,TICA,49D58924-F685-4A2C-B33B-E9B48BEBB26E,1077643-2,"","","392","1992",gcc-115910
+gcc-114476,A,Compositae,,Wedelia,,"ecliptoides",,"","F.Muell.",Unresolved,,L,TICA,2C4FFFCF-45CD-4C5B-870D-B9F0BC37C530,260203-1,"Pl. Vict. sub t. 39.","","sub t. 39","",
+gcc-99693,A,Compositae,,Wedelia,,"eggersii",,"","Hieron.",Synonym,,M,TICA,843B2E81-2E7A-4FD4-A78D-98F2CA13BC81,267896-2,"","","604","1901",gcc-113678
+gcc-118849,A,Compositae,,Wedelia,,"ehrenbergii",,"","Less.",Accepted,,M,TICA,4B05622B-67C4-4E54-9BFF-C3F205E86BCF,30429536-2,"Linnaea 6: 729. 1831","","729","1831",
+gcc-10098,A,Compositae,,Wedelia,,"ehrenbergii",var.,"ehrenbergii","",Synonym,,L,TICA,4852D3FB-E127-4DAF-B4C4-12E65AAEBEAE,,"Linnaea 6: 729. 1831.","","729","1831",gcc-118849
+gcc-157054,A,Compositae,,Wedelia,,"ehrenbergii",subsp.,"ehrenbergii","",Synonym,,L,TICA,07DC2F05-13CC-42A7-97DF-F9F29BA258AB,,"","","","",gcc-118849
+gcc-2891,A,Compositae,,Wedelia,,"elata",,"","(Pilg.) B.L.Turner",Unresolved,,L,TICA,0CE77947-EB5C-4ABE-95CB-055AD55F9461,1102107-2,"","","392","1992",
+gcc-125115,A,Compositae,,Wedelia,,"elliptica",,"","DC.",Unresolved,,L,TICA,182495BE-1763-43BB-B487-D250F9DCBB5C,,"","","","",
+gcc-84737,A,Compositae,,Wedelia,,"elliptica",,"","(DC.) B.L.Turner",Unresolved,,L,TICA,F3E97D7A-35CC-4891-A55F-772EBA65A6A5,1107907-2,"","","392","1992",gcc-100774
+gcc-122342,A,Compositae,,Wedelia,,"elongata",,"","(DC.) Vatke",Accepted,,M,TICA,166B6F6A-F6D7-44E3-BF04-CBCD38E0EE63,,"""in Bremen, Abh. ix. (1885) 121.""","","","1885",
+gcc-148453,A,Compositae,,Wedelia,,"elongata",var.,"elongata","",Synonym,,L,TICA,F6B93A13-E25E-4F9F-90E0-42C2A6288945,,"","","","",gcc-122342
+gcc-136816,A,Compositae,,Wedelia,,"elottiana",,"","B.L.Turner",Accepted,,M,TICA,8637C7A9-E79A-4AAC-A3F5-ED18D42221A7,60436250-2,"Phytologia 86(2): 84 (-85). 2004 [Aug ? 2004]","","84 (-85)","2004",
+gcc-111281,A,Compositae,,Wedelia,,"episcopalis",,"","(H.Rob.) B.L.Turner",Unresolved,Illegitimate,L,TICA,68C392AA-8EA3-4CB8-89C9-B2C1B2ED1282,1041636-2,"Phytologia 72: 392. 1992","","392","1992",
+gcc-17077,A,Compositae,,Wedelia,,"episcopalis",,"","H.Rob.",Unresolved,,L,TICA,B9A69119-31FF-494A-B665-1F94829646A7,267901-2,"","","55","1983",gcc-111281
+gcc-52757,A,Compositae,,Wedelia,,"equatorialis",,"","Benth. & Hook.f.",Unresolved,,L,TICA,1898E6BE-F1FF-43DF-8ED2-61CE2F12CDE1,260207-1,"""Gen. ii. 350, in obs.""","","""ii. 350, in obs.""","",
+gcc-120608,A,Compositae,,Wedelia,,"fertilis",,"","McVaugh",Accepted,,M,TICA,EE94C53A-862F-415D-9E70-C7F44767D0F0,294623-2,"Contr. Univ. Michigan Herb. 9(4)","","462","1972",
+gcc-121915,A,Compositae,,Wedelia,,"filipes",,"","Hemsl.",Accepted,,M,TICA,075F71A3-B54B-4D74-A8BB-CAD6C8D0CBCF,,"","","170","1881",
+gcc-122368,A,Compositae,,Wedelia,,"floribunda",,"","(Gardner) B.L.Turner",Unresolved,,L,TICA,98AC8516-ECE7-40AD-9023-CBD888D910D5,1104990-2,"","","392","1992",gcc-110238
+gcc-29932,A,Compositae,,Wedelia,,"foliacea",,"","(Spreng.) B.L.Turner",Unresolved,,L,TICA,7FB480A4-E4F7-4EAB-9E1F-375A253321FC,1144367-2,"","","392","1992",gcc-100774
+gcc-123596,A,Compositae,,Wedelia,,"forbesii",,"","S.Moore",Unresolved,,L,TICA,BD586489-A88E-4A50-89A0-CEB302FA8B9A,267903-2,"","","264","1914",
+gcc-28162,A,Compositae,,Wedelia,,"forsteriana",,"","Endl.",Accepted,,M,TICA,5BA8171F-ACA3-4CC0-B9E0-340690C8C722,260211-1,"","","51","1833",
+gcc-136063,A,Compositae,,Wedelia,,"frioana",,"","B.L.Turner",Unresolved,,L,TICA,D20769D4-B94A-425C-835D-EB4BF3939C12,1007368-2,"","","392","1992",
+gcc-125737,A,Compositae,,Wedelia,,"frustrata",,"","B.L.Turner",Unresolved,,L,TICA,35A2F182-9FB6-4A3F-B9C5-D3B896082035,1126979-2,"","","392","1992",
+gcc-102756,A,Compositae,,Wedelia,,"frutescens",,"","Sieber ex Griseb.",Unresolved,,L,TICA,0CBF35A1-AAD1-4911-B364-9FD7141BAED0,260215-1,"Fl. Brit. W.I. (Grisebach) 372","","372","",
+gcc-10589,A,Compositae,,Wedelia,,"frutescens",,"","Spreng. ex DC.",Unresolved,,L,TICA,4BA5C3CD-2DAF-482E-A2E3-13C8451D0FAE,260216-1,"Prodr. (DC.) 5: 541","","541","1836",
+gcc-121358,A,Compositae,,Wedelia,,"frutescens",,"","Hook.f. ex Benth.",Unresolved,,L,TICA,DF19A9B4-387D-4197-B6C1-C99DEB4C95A4,,"""J. Linn. Soc., Bot. xiii. (1873) 439 (an tenuicaulis ?).""","","439","",
+gcc-6958,A,Compositae,,Wedelia,,"frutescens",,"","Jacq.",Synonym,,M,TICA,AB82345C-6D3D-498E-9B0C-0CF15321AF16,,"","","","1763",gcc-27459
+gcc-27459,A,Compositae,,Wedelia,,"fruticosa",,"","Jacq.",Accepted,,M,TICA,DDA11A5C-2CA1-4DF5-8EC2-32C38ED3677F,260212-1,"","","","1760",
+gcc-101809,A,Compositae,,Wedelia,,"fuscasiccans",,"","D'Arcy",Synonym,,M,TICA,02D7CFBD-8F7F-449C-80D3-9D97CA626E38,267906-2,"Phytologia 30(1)","","6","1975",gcc-46899
+gcc-3735,A,Compositae,,Wedelia,,"gardneri",,"","B.L.Turner",Unresolved,,L,TICA,E30B0FD9-345D-4621-AD37-06EDB9BF1206,1101430-2,"","","392","1992",
+gcc-134838,A,Compositae,,Wedelia,,"gaudichaudii",,"","DC.",Unresolved,,L,TICA,62638E2E-0CC7-4CCD-A1CB-E8A70615FF83,260218-1,"Prodr. (DC.) 5: 542","","542","1836",
+gcc-11677,A,Compositae,,Wedelia,,"gentryi",,"","B.L.Turner",Accepted,,M,TICA,53C34C75-75C6-4A5A-88AF-15C52A1CBECF,287036-2,"","","500","1989",
+gcc-80824,A,Compositae,,Wedelia,,"glabra",,"","(Gardner) B.L.Turner",Synonym,Illegitimate,L,TICA,B5801DFA-D992-42E4-8D0A-6E712B54028A,1010296-2,"","","392","1992",gcc-100774
+tro-50041930,A,Nyctaginaceae,,Wedelia,,"glabra",,"","(Choisy) Standl.",Synonym,,M,TRO,50041930,267908-2,"Contr. U.S. Natl. Herb.","12(8): 332","332","1909",kew-2628726
+gcc-111705,A,Compositae,,Wedelia,,"glabrata",,"","(DC.) Boerl.",Synonym,,M,TICA,8D175B67-68A3-4FF7-84D1-B3B579CA3C2D,,"","","","1891",gcc-114619
+gcc-101530,A,Compositae,,Wedelia,,"glauca",,"","(Ortega) S.F.Blake",Synonym,,M,TICA,D9B3D9BC-8D3F-40BA-8025-9CFFAAEF9650,260221-1,"Contr. Gray Herb. 52: 39","","39","1917",gcc-115910
+gcc-22248,A,Compositae,,Wedelia,,"glauca",,"","(Ortega) Hoffm. ex Hicken",Accepted,,M,TICA,CB24F4E1-74F8-48A8-BA2B-292795F1A1CC,,"Apuntes Hist. Nat. 2","","254","1910",
+gcc-142863,A,Compositae,,Wedelia,,"gonzaleziarum",,"","B.L.Turner",Accepted,,M,TICA,30B715CE-A16B-4ACE-8269-FA9DE4FB5A42,287037-2,"""Phytologia 65(5): 349 (1988), as 'gonzalezorum'""","","349","1988",
+gcc-22902,A,Compositae,,Wedelia,,"gonzalezorum",,"","B.L.Turner",Unresolved,,L,TICA,5BEF25A0-2CF0-4D22-8B95-2A65BB2F7F19,,"Phytologia 65: 349 (-350). 1988","","349 (-350)","1988",
+gcc-22219,A,Compositae,,Wedelia,,"gossweileri",,"","S.Moore",Synonym,,M,TICA,169CCB0A-C7DB-402E-A374-291A9E3A8D43,260222-1,"""in Journ. Bot. 1918, lvi. 232.""","","lvi. 232.","1918",gcc-37816
+gcc-52759,A,Compositae,,Wedelia,,"goyazensis",,"","Gardner",Accepted,,M,TICA,F2F998F9-F484-4F56-84A0-61CF1EAA1015,260223-1,"London J. Bot. 7: 288 (1848).","","288","1848",
+gcc-89226,A,Compositae,,Wedelia,,"gracilis",,"","Rich.",Synonym,,L,TICA,C21D1E55-B12F-4AFF-B933-8139BC60CFD8,267911-2,"Syn. Pl. (Persoon) 2: 490. 1807","","490","1807",gcc-27728
+gcc-156120,A,Compositae,,Wedelia,,"gracilis",f.,"gracilis","",Synonym,,L,TICA,E8251233-2145-48E7-9C6D-E6C9716E4B89,,"","","","",gcc-27728
+gcc-113678,A,Compositae,,Wedelia,,"grandiflora",,"","Benth.",Accepted,,M,TICA,9693055D-E11C-49AE-AAFE-B82CAFB7AAE4,260225-1,"Bot. Voy. Sulphur 115.","","115","1845",
+gcc-139844,A,Compositae,,Wedelia,,"grayi",,"","McVaugh",Accepted,,M,TICA,E88B9F66-F0C0-4991-B3E5-F39DFEA8995F,294622-2,"","","462","1972",
+gcc-119105,A,Compositae,,Wedelia,,"greenmanii",,"","B.L.Turner",Accepted,,M,TICA,A1ABACFA-7C7E-48D7-A9B4-C4784BDE21B5,,"""Phytologia 65(5): 351 (1988), nom. nov., with incorrect replaced synonym ref.:.""","","","1988",
+gcc-141981,A,Compositae,,Wedelia,,"hassleriana",,"","(Chodat) B.L.Turner",Synonym,,M,TICA,967482D3-A758-4440-96D1-F8A38DB07DBB,1210110-2,"","","392","1992",gcc-77926
+gcc-22999,A,Compositae,,Wedelia,,"hatschbachii",,"","H.Rob.",Accepted,,M,TICA,6F353B10-26A3-4FA7-97C1-2A96DAD4EDFF,,"","","","1984",
+gcc-100315,A,Compositae,,Wedelia,,"helianthoides",,"","Isawumi",Unresolved,,L,TICA,7069D200-19A6-49F0-AF99-9A585F418D85,,"""Feddes Repert. 108(7-8): 560, without basionym page""","","560","1997",gcc-135078
+gcc-82137,A,Compositae,,Wedelia,,"helianthoides",,"","Kunth",Accepted,,M,TICA,21087460-F1EB-4712-B5A8-715811959FA9,267914-2,"Nov. Gen. Sp. [H.B.K.] iv. 216.","","","",
+gcc-65781,A,Compositae,,Wedelia,,"helianthoides",subsp.,"ciliata","(Schumach.) Isawumi",Synonym,,L,TICA,5582773A-05CB-42CE-97C2-C98E69D87581,,"","","","",gcc-28535
+gcc-53276,A,Compositae,,Wedelia,,"helianthoides",subsp.,"helianthoides","",Synonym,,L,TICA,874F9E61-5B1A-441C-BA26-65085F89CF46,,"","","","",gcc-135078
+gcc-53592,A,Compositae,,Wedelia,,"helianthoides",subsp.,"papposa","(O.Hoffm. & Muschl.) Isawumi",Synonym,,L,TICA,5C818127-DA33-4460-B61D-675FFDC0C30F,,"","","","",gcc-28535
+gcc-39707,A,Compositae,,Wedelia,,"helianthoides",subsp.,"prieuriana","(DC.) Isawumi",Synonym,,L,TICA,CCABFA95-9AF8-4F81-ADA5-49ACB16AEF92,,"","","","",gcc-28535
+gcc-25236,A,Compositae,,Wedelia,,"heringeri",,"","H.Rob.",Accepted,,M,TICA,F7C8042A-FF94-4A5D-8EC3-2E9814271195,,"","","","1984",
+gcc-120008,A,Compositae,,Wedelia,,"heringeriana",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,6C2BACCE-3FE9-4802-BF7A-C67C4294848D,1071507-2,"","","392","1992",gcc-89817
+gcc-42277,A,Compositae,,Wedelia,,"heterophylla",,"","Rusby",Accepted,,M,TICA,9D70C8A6-9EC8-4382-86DF-4E5072F77B6E,267916-2,"","","152","1920",
+gcc-141030,A,Compositae,,Wedelia,,"hintoniorum",,"","B.L.Turner",Accepted,,M,TICA,A5AE69A5-CC1F-47E2-A28A-F66FE0D2D330,287038-2,"","","352","1988",
+gcc-84238,A,Compositae,,Wedelia,,"hirsuta",,"","(Gardner) B.L.Turner",Synonym,,L,TICA,884677D5-B9BD-4CC0-A574-761599EBA3EE,1213583-2,"","","393","1992",gcc-100774
+gcc-35425,A,Compositae,,Wedelia,,"hirtella",,"","Humbert",Unresolved,,L,TICA,B36E7816-35A5-4733-8BB5-41AA30EAA66D,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 115, 301 (1923).""","","","1923",
+gcc-32073,A,Compositae,,Wedelia,,"hispida",,"","Kunth",Accepted,,M,TICA,4590711F-9EF8-4A85-892E-3B65D48E6B1A,,"","","""169, pl. 371""","",
+gcc-5020,A,Compositae,,Wedelia,,"hispida",var.,"hispida","",Synonym,,L,TICA,D23C3CB9-142F-4AF3-BD4B-095EF0A5D594,,"","","","",gcc-32073
+gcc-8019,A,Compositae,,Wedelia,,"hispida",var.,"ramosissima","(Greenm.) K.M.Becker",Accepted,,L,TICA,ED8D3CE8-B0CE-43B4-BB98-0EED6965D5CC,267918-2,"","","25","1975",
+gcc-36363,A,Compositae,,Wedelia,,"hispidantha",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,0B37BE86-79CB-45AA-9BB7-43707FBCFF98,1090606-2,"","","393","1992",gcc-1220
+gcc-108890,A,Compositae,,Wedelia,,"hispidula",,"","(Baker) E.Santos",Unresolved,,L,TICA,7B2A9CBB-EB23-4627-BE02-AD619022971A,,"""Bol. Mus. Paraense Emilio Goeldi, n.s., Bot. 4: 154. 1988""","","154","1988",
+gcc-124636,A,Compositae,,Wedelia,,"hispidula",,"","(Baker) B.L.Turner",Accepted,,M,TICA,ECE90298-6D64-4B40-870C-D12D6E5C57E0,1039786-2,"","","393","1992",
+gcc-51598,A,Compositae,,Wedelia,,"hispidula",,"","(Baker) J.U.Santos",Unresolved,,L,TICA,7866647C-7735-451E-B031-5FAB5956ACB7,946122-1,"","","154","1988",
+gcc-101317,A,Compositae,,Wedelia,,"hoffmanniana",,"","Bruns",Unresolved,,L,TICA,65E80123-F313-4E03-B082-9C833F18DCD1,,"","","","1929",
+gcc-146357,A,Compositae,,Wedelia,,"holowayi",,"","S.F.Blake",Accepted,,M,TICA,05090B04-02C4-48BB-8AAB-16FB8C747CA1,,"","","","",
+gcc-32438,A,Compositae,,Wedelia,,"hookeriana",,"","Gardner",Accepted,,M,TICA,5669AF6D-EC64-4730-9EA5-3C2318DE0B1B,260233-1,"London J. Bot. 7: 289 (1848).","","289","1848",
+gcc-16828,A,Compositae,,Wedelia,,"horsfieldiana",,"","(Miq.) Benth. & Hook.f.",Synonym,,M,TICA,EC4B32F5-DBD5-4B12-9882-1F11E34C18D7,,"","","","1873",gcc-47906
+gcc-50238,A,Compositae,,Wedelia,,"huillensis",,"","Hiern",Synonym,,M,TICA,CE3B90C8-E6F5-4166-B0AA-5D2963803352,260235-1,"Cat. Afr. Pl. (Hiern) i. 576.","","576","",gcc-93094
+gcc-138141,A,Compositae,,Wedelia,,"humilis",,"","Schweigg.",Unresolved,,L,TICA,605940B3-E1E5-42E1-9661-EFF267F3AF18,260236-1,"Enum. Pl. Hort. Regiom. 79.","","79","",
+kew-2465214,A,Nyctaginaceae,,Wedelia,,"incarnata",,"","(L.) L.",Synonym,,L,WCSP (in review),,605248-1,"Syst. Nat. ed. 10","2: 890","","1759",kew-2628768
+tro-22500399,A,Nyctaginaceae,,Wedelia,,"incarnata",,"","(L.) Kuntze",Synonym,,L,TRO,22500399,267922-2,"Revis. Gen. Pl.","1: 533","533","1891",kew-2628768
+tro-50140882,A,Nyctaginaceae,,Wedelia,,"incarnata",subsp.,"anodonta","Standl.",Synonym,,L,TRO,50140882,267923-2,"Contr. U.S. Natl. Herb.","12(8): 333","333","1909",kew-2628768
+tro-50140885,A,Nyctaginaceae,,Wedelia,,"incarnata",subsp.,"nudata","Standl.",Synonym,,L,TRO,50140885,267924-2,"Contr. U.S. Natl. Herb.","12(8): 334","334","1909",kew-2628768
+tro-50140883,A,Nyctaginaceae,,Wedelia,,"incarnata",subsp.,"villosa","Standl.",Synonym,,L,TRO,50140883,311032-2,"Contr. U.S. Natl. Herb.","12(8): 333–334","333","1909",tro-50183871
+gcc-87788,A,Compositae,,Wedelia,,"inconstans",,"","D'Arcy",Synonym,,M,TICA,CE8F3350-B00A-41FA-BCAF-7E04CC84BA88,267926-2,"","","5","1975",gcc-27459
+gcc-78132,A,Compositae,,Wedelia,,"induta",,"","(Chodat) B.L.Turner",Unresolved,,L,TICA,02C5E744-212D-4546-83C9-686D059096E8,1213163-2,"","","393","1992",gcc-37041
+gcc-144529,A,Compositae,,Wedelia,,"iners",,"","(S.F.Blake) Strother",Accepted,,M,TICA,904A7C80-8796-475A-AAC7-FE51DA230414,1066134-2,"Syst. Bot. Monogr. 33","","72","1991",
+gcc-47052,A,Compositae,,Wedelia,,"instar",,"","S.Moore",Unresolved,,L,TICA,B0238DDF-1599-4A91-9325-572EAAC5AAD1,,"""J. Linn. Soc., Bot. xxxv. 343.""","","343","",
+gcc-136696,A,Compositae,,Wedelia,,"isolepis",,"","S.F.Blake",Accepted,,M,TICA,DC113AAB-C606-4EA8-B447-ECC952D3C6BA,267927-2,"","","421","1922",
+gcc-116404,A,Compositae,,Wedelia,,"jacquinii",,"","O.E.Schulz",Synonym,,M,TICA,AA4CC791-86AE-40FA-B6CF-BE564B99A8BF,,"","","","",gcc-27459
+gcc-6095,A,Compositae,,Wedelia,,"jacquinii",,"","Rich.",Synonym,Illegitimate,M,TICA,0EDBB675-0161-48A7-A454-0B5877D1E534,30413943-2,"","","490","1807",gcc-27459
+gcc-3922,A,Compositae,,Wedelia,,"jacquinii",var.,"calycina","(Rich.) O.E.Schulz",Synonym,,L,TICA,5736BBAC-716B-4077-A430-074A9160E62B,267933-2,"Symb. Antill. 7: 102. 1911.","","102","1911",gcc-27459
+gcc-64507,A,Compositae,,Wedelia,,"jacquinii",subsp.,"calycina","(Rich.) Stehlé",Unresolved,,L,TICA,A44CEB0D-BB02-40B3-B4BF-BF1EC6B4ABB0,267932-2,"Adansonia (n. s.) 2: 354","","354","1962",
+gcc-67303,A,Compositae,,Wedelia,,"jacquinii",var.,"caracasana","O.E.Schulz",Unresolved,,L,TICA,C9C4D1F8-55FE-40A1-9F89-D6195FA08E47,267935-2,"Symbolae Antillarum 7:","","110","1839",gcc-27459
+gcc-145275,A,Compositae,,Wedelia,,"jacquinii",subsp.,"jacquinii","",Synonym,,L,TICA,233C61DB-EB16-44D1-B58D-00E247A803D3,,"","","","",gcc-27459
+gcc-146216,A,Compositae,,Wedelia,,"jacquinii",f.,"jacquinii","",Synonym,,L,TICA,DD3339A1-5E33-4B9B-A9F4-140BE61ABC93,,"","","","",gcc-27459
+gcc-148285,A,Compositae,,Wedelia,,"jacquinii",var.,"jacquinii","",Synonym,,L,TICA,374257FF-D2B8-4247-AD61-3F818410BA3E,,"","","","",gcc-27459
+gcc-71586,A,Compositae,,Wedelia,,"jacquinii",var.,"parviflora","(Rich.) O.E.Schulz",Synonym,,L,TICA,D12573F5-0743-4065-8E55-F74CD5594A9E,,"Symb. Antill. 7: 103. 1894.","","103","1894",gcc-27459
+gcc-107992,A,Compositae,,Wedelia,,"javana",,"","(Turcz.) Boerl.",Unresolved,,L,TICA,AEDA1F2F-B4FA-4CE6-809B-AB5C55A478F3,,"Handl. Fl. Ned. Ind. 2 (1891)","","242","1891",
+gcc-138387,A,Compositae,,Wedelia,,"jelskii",,"","Hieron.",Synonym,,M,TICA,6816E96D-1337-45E0-B4EF-F07502D697AD,310129-2,"Bot. Jahrb. Syst. 36: 488. 1905","","488","1905",gcc-136323
+gcc-33377,A,Compositae,,Wedelia,,"jugata",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,11E04480-59A5-4CFE-B1B3-3DDE7286D055,1061763-2,"","","393","1992",gcc-105842
+gcc-76315,A,Compositae,,Wedelia,,"juxtlahuacana",,"","B.L.Turner",Accepted,,M,TICA,E16AF938-BF30-413E-A6A9-646961B5FD02,60436251-2,"Phytologia 86(2): 88 (-89). 2004 [Aug ? 2004]","","88 (-89)","2004",
+gcc-106021,A,Compositae,,Wedelia,,"karwinskiana",,"","Mart.",Unresolved,,L,TICA,D4B4AA98-FF1A-4AC4-8CC4-A6DF166F0B0A,,"","","","",
+gcc-32988,A,Compositae,,Wedelia,,"katangensis",,"","De Wild.",Synonym,,M,TICA,3FA469AB-F431-429C-8D2B-3D2E0FBD98FE,260242-1,"Repert. Spec. Nov. Regni Veg. 13: 209","","209","1914",gcc-39506
+gcc-76757,A,Compositae,,Wedelia,,"keatingii",,"","D'Arcy",Synonym,,M,TICA,A4736EAB-E5D6-43D2-B021-655B3DB43047,267944-2,"","","5","1975",gcc-144529
+gcc-129394,A,Compositae,,Wedelia,,"keilii",,"","B.L.Turner",Accepted,,M,TICA,9B604295-B6D5-4A7E-8053-DC275496E996,,"","","","1988",
+gcc-93081,A,Compositae,,Wedelia,,"kerrii",,"","N.E.Br.",Accepted,,M,TICA,2BF008D8-E095-4B1A-BFD3-89FD9DE2C793,267945-2,"","","61","1894",
+gcc-34049,A,Compositae,,Wedelia,,"kerrii",var.,"decumbens","Hassl.",Synonym,,L,TICA,45E4950F-8716-4612-879F-3F25108E2123,267946-2,"Trab. Mus. Farmacol. 21: 130. 1909","","130","1909",gcc-93081
+gcc-146394,A,Compositae,,Wedelia,,"kerrii",var.,"kerrii","",Synonym,,L,TICA,A567C048-0496-4AB6-A11A-17A41A5163CE,,"","","","",gcc-93081
+gcc-79089,A,Compositae,,Wedelia,,"kirkbridei",,"","H.Rob.",Accepted,,M,TICA,BEA0092B-A0A8-4210-B179-6AAEBE0F1B40,,"","","","1984",
+gcc-108443,A,Compositae,,Wedelia,,"kotschyi",,"","(Sch.Bip.) Soldano",Unresolved,,L,TICA,BC96C201-5FFD-40D2-8A71-AC4D44E14A83,1003051-1,"""in Compositae Newsl., 32: 20 (1998):.""","","20","1998",gcc-18902
+gcc-47218,A,Compositae,,Wedelia,,"kotschyi",,"","(Sch.Bip.) Isawumi",Unresolved,,L,TICA,13066DAB-3920-4017-B071-5776DD69BE59,,"""Feddes Repert. 108(7-8): 559, without basionym page""","","559","1997",gcc-18902
+gcc-45400,A,Compositae,,Wedelia,,"kotschyi",var.,"alba","(Berhaut) Isawumi",Synonym,,L,TICA,CC31231D-87C3-4DC8-90A0-541F346AB862,,"Feddes Repert. 108(7-8): 559 (1997).","","","",gcc-67613
+gcc-156986,A,Compositae,,Wedelia,,"kotschyi",var.,"kotschyi","",Synonym,,L,TICA,C04CFBD8-6FA3-4E37-99D2-F8605B271D74,,"","","","",gcc-18902
+gcc-129525,A,Compositae,,Wedelia,,"laevissima",,"","Less. ex Baker",Synonym,,L,TICA,243DDDD7-E659-4240-B935-DC73744F2D74,,"Fl. Bras. (Martius) 6(3): 202","","202","",gcc-47247
+gcc-4791,A,Compositae,,Wedelia,,"laevissima",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,B374121A-17AF-4C21-B567-08EB36B815A3,1087225-2,"","","393","1992",gcc-47247
+gcc-88982,A,Compositae,,Wedelia,,"lanceolata",,"","DC.",Accepted,,L,TICA,3F0E76C9-BDA4-48B3-BCE6-80A1C9999AE8,260246-1,"","","541","1836",
+gcc-15419,A,Compositae,,Wedelia,,"latifolia",,"","DC.",Accepted,,L,TICA,0EF3CFC0-6B50-4555-8E2E-1C8C0EDF0116,260247-1,"Prodr. (DC.) 5: 542","","542","1836",
+gcc-79800,A,Compositae,,Wedelia,,"lehmannii",,"","(Hieron.) B.L.Turner",Synonym,,M,TICA,3E93B47B-6704-4BB3-8D9E-6C364E52B28D,1044515-2,"","","393","1992",gcc-41647
+gcc-136453,A,Compositae,,Wedelia,,"leucanthema",,"","(Chodat) B.L.Turner",Synonym,,M,TICA,CC18EAD4-BE5F-4CA5-BAC6-EC40ECD0286D,1215309-2,"","","393","1992",gcc-133002
+gcc-39039,A,Compositae,,Wedelia,,"leucoglossa",,"","(Malme) B.L.Turner",Unresolved,,L,TICA,4FA8C22B-3F63-4D58-80AE-4870742C6CE3,1171100-2,"","","393","1992",gcc-82781
+gcc-132434,A,Compositae,,Wedelia,,"lifuana",,"","Hochr. ex Guillaumin",Unresolved,,L,TICA,38346D29-3043-44B6-A987-E342AD44A473,260248-1,"""Bull. Soc. Bot. France 84: 59, pro syn.""","","59","1937",
+gcc-23573,A,Compositae,,Wedelia,,"ligulifolia",,"","(Standl. & L.O.Williams) Strother",Accepted,,M,TICA,0D01105A-8407-42CE-98A6-2B95DAEDE0BE,1149708-2,"Syst. Bot. Monogr. 33","","69","1991",
+gcc-1285,A,Compositae,,Wedelia,,"linearifolia",,"","Baker",Synonym,,M,TICA,C8107A89-73E1-4241-8575-02582C47CFEB,,"Fl. Bras. (Martius) 6(3): 182","","182","",gcc-126587
+gcc-134007,A,Compositae,,Wedelia,,"linearifolia",,"","(Oliv. & Hiern) Isawumi",Synonym,,M,TICA,7BFDE735-37DF-4FA2-AF58-E6DA1F80C416,,"","","","",gcc-43511
+gcc-124378,A,Compositae,,Wedelia,,"linearis",,"","Zoll.",Unresolved,,L,TICA,26F90BFA-41F4-4C3B-9A3C-D08CF7B9C088,260250-1,"""Zoll., Natuurk.-Geneesk. Arch. Ned.-Indie 2 (1845) 271 (descr.), 564 (nomen)""","","","",gcc-29252
+gcc-115945,A,Compositae,,Wedelia,,"longepetiolata",,"","Hassl.",Synonym,,M,TICA,CBF3170E-3674-482D-BB9A-BD54BDF974CC,267952-2,"Repert. Spec. Nov. Regni Veg. 14","","176","1915",gcc-93081
+gcc-11493,A,Compositae,,Wedelia,,"longifolia",,"","Mart. ex Baker",Accepted,,M,TICA,D237F568-72BC-4CD2-BC25-1570EF0E8347,,"Fl. Bras. (Martius) 6(3): 182","","182","",
+gcc-34418,A,Compositae,,Wedelia,,"longifolia",,"","Mart.",Unresolved,,L,TICA,1DF29D2A-AE76-40D4-B480-3FCC0A81C4DF,267950-2,"","","","",
+gcc-117029,A,Compositae,,Wedelia,,"longipes",,"","Klatt",Accepted,,M,TICA,BD504B1C-A956-4B0A-B861-BFBACAA1B356,260254-1,"","","68","1896",
+gcc-136340,A,Compositae,,Wedelia,,"longipes",,"","Urb.",Synonym,,M,TICA,251A2710-45F0-4274-8705-EC00204CB420,267951-2,"Symb. Antill. 3: 411. 1903","","411","1903",gcc-118849
+gcc-83629,A,Compositae,,Wedelia,,"loxensis",,"","H.Rob.",Accepted,,M,TICA,8801589F-6744-456F-BD57-74B76E48DE1D,,"Phytologia 84(5)","","","1998",
+gcc-125630,A,Compositae,,Wedelia,,"lundii",,"","DC.",Accepted,,M,TICA,C2069296-38A6-49D3-9E87-D37AC278FABD,260255-1,"Prodr. (DC.) 5: 539","","539","1836",
+gcc-9208,A,Compositae,,Wedelia,,"macedoi",,"","H.Rob.",Accepted,,M,TICA,10CAC101-E378-4286-B688-1138637B6DE2,,"","","","1984",
+gcc-75648,A,Compositae,,Wedelia,,"macrodonta",,"","DC.",Accepted,,M,TICA,A9BF93E1-BE90-46F4-81FA-62EA1DEA7464,260256-1,"Prodr. (DC.) 5: 539","","539","1836",
+gcc-155410,A,Compositae,,Wedelia,,"macrodonta",var.,"macrodonta","",Synonym,,L,TICA,5FD25EC1-1C37-4BC4-B976-D7C781C62C21,,"","","","",gcc-75648
+gcc-84667,A,Compositae,,Wedelia,,"macrorrhiza",,"","(Chiov.) Chiov.",Synonym,,M,TICA,6B8A63D2-9F8F-4D63-8874-7704600E399F,260257-1,"Fl. Somala 2: 264","","264","1932",gcc-37720
+gcc-85237,A,Compositae,,Wedelia,,"madagascariensis",,"","Humbert",Unresolved,Illegitimate,L,TICA,2AF212C3-036A-451D-A0B5-78424198712C,,"Flore de Madagascar et des Comores 189(3):","","646","1963",
+gcc-131607,A,Compositae,,Wedelia,,"magnifica",,"","Chiov.",Synonym,,M,TICA,338E9C89-E7B5-4551-95C0-E14A3D4053AF,,"""in Ann. Bot., Roma, ix. 74 (1911).""","","","1911",gcc-35999
+kew-2465215,A,Nyctaginaceae,,Wedelia,,"malachroides",,"","Benth.",Unresolved,,L,WCSP (in review),,605249-1,"Bot. Voy. Sulphur","114","","1845",
+gcc-40971,A,Compositae,,Wedelia,,"martii",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,3F2EA3BE-37F4-4F21-97C0-4BEF2422B070,1091493-2,"","","393","1992",gcc-77614
+gcc-81651,A,Compositae,,Wedelia,,"menotriche",,"","Oliv. & Hiern",Synonym,,M,TICA,B787AAF4-0EE7-49ED-A5A5-70531D4EC09D,260259-1,"Fl. Trop. Afr. [Oliver et al.] 3: 377","","377","1877",gcc-11589
+gcc-15411,A,Compositae,,Wedelia,,"meridensis",,"","(V.M.Badillo) V.M.Badillo",Unresolved,,L,TICA,D51F2FBB-9E14-4FF6-93FD-1C89669ADAF5,1008004-1,"""Enum. Compuestas (Asterac.) Venezuela (Rev. Fac. Agron. (Maracay), 45): 131 (1994):""","","131","1994",gcc-94274
+gcc-94080,A,Compositae,,Wedelia,,"mexicana",,"","(Sch.Bip.) McVaugh",Accepted,,M,TICA,F1285350-8D6A-416F-9D76-8C261EA1DA8D,267957-2,"","","462","1972",
+gcc-9272,A,Compositae,,Wedelia,,"minor",,"","Hort. ex Hornem.",Synonym,,M,TICA,E7CFAE65-F646-46E8-888F-114F60E98108,260261-1,"Hort. Hafn. 855.","","855","",gcc-130451
+gcc-31211,A,Compositae,,Wedelia,,"modesta",,"","Baker",Accepted,,M,TICA,C14CABC2-85E2-4E9D-B079-39CB20D7671B,,"Fl. Bras. (Martius) 6(3): 185","","185","",
+gcc-89639,A,Compositae,,Wedelia,,"mollis",,"","Pers.",Unresolved,,L,TICA,5D0F3620-45C6-49DE-8679-822795DF967B,260263-1,"Syn. Pl. (Persoon) 2(2): 490","","490","1807",
+gcc-137701,A,Compositae,,Wedelia,,"moluccana",,"","(Blume) Boerl.",Synonym,,M,TICA,A6172EFD-8BF2-4219-B3A9-EF08EC0C6D73,,"","","","1891",gcc-111104
+gcc-33215,A,Compositae,,Wedelia,,"montana",,"","(Blume) Boerl.",Accepted,,M,TICA,67B6E8FD-120C-4514-9D0E-3D99B2E2D2AE,1042290-2,"","","242","1891",
+gcc-148695,A,Compositae,,Wedelia,,"montana",var.,"montana","",Synonym,,L,TICA,F6F23FB7-1B15-497D-A2CF-48AD687FB8A6,,"","","","",gcc-33215
+gcc-64044,A,Compositae,,Wedelia,,"montana",var.,"wallichii","(Less.) H.Koyama",Synonym,,L,TICA,D0CF919D-F2E7-467C-A829-BB7C244F8748,,"","","168","1985",gcc-51683
+gcc-6091,A,Compositae,,Wedelia,,"montevidensis",,"","(Spreng.) B.L.Turner",Unresolved,,L,TICA,42140A32-1F57-4426-B155-0B55F783CDEF,1067321-2,"","","393","1992",
+gcc-97028,A,Compositae,,Wedelia,,"mortonii",,"","(C.D.Adams) Isawumi",Synonym,,M,TICA,782CC4E4-0D79-4BFD-9C19-92E7959D8A30,,"Feddes Repert. 108(7-8): 559","","559","1997",gcc-43511
+gcc-46978,A,Compositae,,Wedelia,,"mossambicensis",,"","Oliv.",Synonym,,M,TICA,DC132418-4DCD-4E55-AEB2-571063E28FD2,260265-1,"Trans. Linn. Soc. London 29(2): 97","","97","1873",gcc-11589
+gcc-34779,A,Compositae,,Wedelia,,"natalensis",,"","Sond.",Synonym,,M,TICA,6BE17DE2-6056-4F74-8629-40786394DBE2,260266-1,"Linnaea 23: 63. 1850","","63","1850",gcc-39506
+gcc-29013,A,Compositae,,Wedelia,,"oblonga",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,A399B3E5-C5CB-40BB-80E9-359C9BB931D1,1049167-2,"","","393","1992",
+gcc-51933,A,Compositae,,Wedelia,,"oblonga",,"","Hutch.",Synonym,,M,TICA,D8641AA5-31F7-4DEC-93F4-6051E55F222F,260267-1,"","","18","",gcc-105089
+gcc-8819,A,Compositae,,Wedelia,,"oblongifolia",,"","Pohl ex Baker",Unresolved,,L,TICA,B7408AC7-9C8F-4514-B4B2-1084D8558D2A,,"Fl. Bras. (Martius) 6(3): 256","","256","",
+gcc-126587,A,Compositae,,Wedelia,,"oligocephala",,"","Baker",Accepted,,M,TICA,ECD3EA96-19B3-4F39-8354-D5AB0228D7DF,,"Fl. Bras. (Martius) 6(3): 182","","182","",
+gcc-141709,A,Compositae,,Wedelia,,"ovalifolia",,"","(DC.) B.L.Turner",Unresolved,,L,TICA,902EE7CC-D1CB-4D0D-8598-F800280C7EDE,1116834-2,"","","393","1992",gcc-7891
+gcc-6322,A,Compositae,,Wedelia,,"ovatifolia",,"","Willd.",Synonym,,M,TICA,AF168B9E-0C20-4449-8FF0-0BC5879D36FD,260271-1,"Enum. Hort. Berol. Suppl. 61.","","61","",gcc-130451
+gcc-8871,A,Compositae,,Wedelia,,"oxylepis",,"","S.F.Blake",Unresolved,,L,TICA,DC7D9601-B8CC-4D90-B702-109C073544FD,,"","","","1924",
+gcc-125524,A,Compositae,,Wedelia,,"pallida",,"","Gardner",Accepted,,M,TICA,9CC5930F-F1C0-4661-855C-D341BF2039A1,260273-1,"London J. Bot. 7: 288 (1848).","","288","1848",
+gcc-35630,A,Compositae,,Wedelia,,"paludicola",,"","Poepp.",Synonym,,M,TICA,A183ADBB-D707-4310-A7EA-4210979637F1,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) iii. 50.","","","1843",gcc-5859
+gcc-135640,A,Compositae,,Wedelia,,"paludosa",,"","(Berhaut) Isawumi",Synonym,Illegitimate,M,TICA,04DF5E91-5A36-40CD-BC86-EA6C8C3E0C15,,"","","","1997",gcc-48038
+gcc-87651,A,Compositae,,Wedelia,,"paludosa",,"","DC.",Synonym,,M,TICA,38A16CC6-AAE8-4CFA-A24A-7DBF8D4A07B8,267962-2,"Prodr. (DC.) 5: 538","","538","1836",gcc-5859
+gcc-147947,A,Compositae,,Wedelia,,"paludosa",var.,"paludosa","",Synonym,,L,TICA,80AC645B-D3EC-4595-A1B7-38AF7E7BF6EE,,"","","","",gcc-5859
+gcc-52988,A,Compositae,,Wedelia,,"paludosa",var.,"vialis","DC.",Synonym,,L,TICA,FF1F8351-B3D8-437C-AD19-6295DFD3D032,267964-2,"Prodr. (DC.) 5: 538","","538","1836",gcc-5859
+gcc-30120,A,Compositae,,Wedelia,,"paludosa",var.,"villosa","Baker",Synonym,,L,TICA,B8155C95-B5B1-4EA8-9F45-37C01A2FEC0C,267965-2,"Fl. Bras. (Martius) 6(3): 181. 1884","","181","1884",gcc-48629
+gcc-112224,A,Compositae,,Wedelia,,"paniculata",,"","Turcz.",Synonym,,M,TICA,6BCC2B0B-2B8D-4822-998C-B4E803DDA127,267966-2,"","","69","1851",gcc-44730
+gcc-50799,A,Compositae,,Wedelia,,"paraensis",,"","Huber",Synonym,,L,TICA,2FD1641B-48F4-42F6-A634-5E390A44A59D,267967-2,"","","215","1915",gcc-109908
+gcc-23032,A,Compositae,,Wedelia,,"paranensis",,"","(Malme) B.L.Turner",Synonym,,M,TICA,07BD719D-F3BC-4B5A-BAA4-2AA5B7DA0FE9,1098026-2,"","","393","1992",gcc-49407
+gcc-31563,A,Compositae,,Wedelia,,"parviceps",,"","S.F.Blake",Synonym,,M,TICA,06232E21-1FAB-4241-870E-3A82FACFE0EA,267968-2,"Contr. U. S. Natl. Herb. 24","","""28-29, t. 9""","1922",gcc-32771
+gcc-98572,A,Compositae,,Wedelia,,"parviflora",,"","Rich.",Synonym,,M,TICA,424C238E-E72A-4896-AA99-966CCCF06833,1093275-2,"","","490","1807",gcc-27459
+gcc-117907,A,Compositae,,Wedelia,,"pascalioides",,"","(Griseb.) B.L.Turner",Synonym,,M,TICA,C45124E8-8870-44B2-82F9-C1B3DB08CC01,1161265-2,"","","393","1992",gcc-109744
+gcc-119981,A,Compositae,,Wedelia,,"pascalioides",,"","Baker",Unresolved,,L,TICA,2F95350C-C9C7-49B3-B873-C67142CF5D8F,,"","","","",
+gcc-91187,A,Compositae,,Wedelia,,"patentipilis",,"","(S.F.Blake) B.L.Turner",Unresolved,,L,TICA,88B070A4-5520-4AD6-B6D4-85C91AB0E513,1082800-2,"","","393","1992",gcc-126887
+gcc-131690,A,Compositae,,Wedelia,,"pedunculata",,"","Mart. ex Colla",Unresolved,,L,TICA,A74AB103-7834-447A-85BF-E17A2CD25AA7,,"Herb. Pedem. iii. 428 (1834).","","428","",
+gcc-10535,A,Compositae,,Wedelia,,"pedunculosa",,"","DC.",Accepted,,M,TICA,F2F2DA56-C752-4FF9-BFD9-13AB087FF2CA,260281-1,"""Prodr. (DC.) 5: 484, sphalm.""","","484","1836",
+gcc-80629,A,Compositae,,Wedelia,,"penninervia",,"","S.F.Blake",Accepted,,M,TICA,8BD8A301-8209-468E-A5DF-6DFBCCE2297F,267970-2,"","","331","1931",
+gcc-92791,A,Compositae,,Wedelia,,"perfoliata",,"","(Cav.) Willd.",Unresolved,,L,TICA,9469F013-76A8-449C-B771-89623DA82F23,260283-1,"","","2335","1803",gcc-80816
+gcc-133735,A,Compositae,,Wedelia,,"perrieri",,"","Humbert",Synonym,,M,TICA,2AB29034-915E-438B-A6FA-E62D8441AA0F,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv), 114, 301 (1923).""","","","1923",gcc-30998
+gcc-114244,A,Compositae,,Wedelia,,"pertenius",,"","H.Rob.",Unresolved,,L,TICA,D07BA4B8-4FDA-43C5-B8AD-B96352ADD9F9,,"""Phytologia 55: 397 (-398), fig. 1984""","","""397 (-398), fig""","1984",
+gcc-135396,A,Compositae,,Wedelia,,"pertenuis",,"","H.Rob.",Accepted,,M,TICA,08AFCC2A-A672-4833-A926-E9F106B61AB3,267971-2,"Phytologia 55(6): 397 (1984)","","397","1984",
+gcc-36935,A,Compositae,,Wedelia,,"phyllocephala",,"","Hemsl.",Synonym,,M,TICA,C43B28EF-825B-489A-A161-446E6B6D7DA1,,"","","","1881",gcc-75430
+gcc-133278,A,Compositae,,Wedelia,,"phyllostachya",,"","(Baker) B.L.Turner",Synonym,,M,TICA,07AE68D8-7544-4EA7-894C-E524F0A4A87C,1165813-2,"","","394","1992",gcc-104702
+gcc-46077,A,Compositae,,Wedelia,,"pilosa",,"","Baker",Synonym,,M,TICA,EC18592D-C187-405E-A5C7-5569CCE1B92A,30425395-2,"Fl. Bras. (Martius) 6(3): 181. 1884 [1 May 1884]","","181","1884",gcc-48629
+gcc-71982,A,Compositae,,Wedelia,,"pilosa",var.,"brachycarpa","(Baker) Hassl.",Synonym,,L,TICA,F6A485E8-5061-4E06-A0D7-FA610DDAFF90,,"Repert. Spec. Nov. Regni Veg. 14: 177. 1915","","177","1916",gcc-48629
+gcc-147,A,Compositae,,Wedelia,,"pilosa",var.,"pilosa","",Synonym,,L,TICA,51BFB711-6573-45A8-B225-0046611EA13C,,"","","","",gcc-48629
+gcc-3501,A,Compositae,,Wedelia,,"pimana",,"","B.L.Turner",Accepted,,M,TICA,CAB64300-3B39-4399-910D-0670246586C6,301359-2,"","","116","1992",
+gcc-123131,A,Compositae,,Wedelia,,"pinetorum",,"","(Standl. & Steyerm.) K.M.Becker",Synonym,,M,TICA,0D60D7CF-3F79-48B5-AD0B-CD9CFC5B62FF,267976-2,"","","25","1975",gcc-11986
+gcc-96587,A,Compositae,,Wedelia,,"podophylla",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,6A22D31E-B5A8-442B-8641-91E4AF25DB89,1072077-2,"","","394","1992",gcc-84236
+gcc-139633,A,Compositae,,Wedelia,,"pohlii",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,25B2BA20-6F7A-4160-9125-F327A6A44738,,"Fl. Bras. (Martius) 6(3): 183","","183","",
+gcc-131133,A,Compositae,,Wedelia,,"populifolia",,"","Hook. & Arn.",Synonym,,M,TICA,DABE625D-5E8B-4284-815D-E02EF6D3E0F5,260289-1,"","","435","1841",gcc-134951
+gcc-44274,A,Compositae,,Wedelia,,"pratensis",,"","Vatke",Unresolved,,L,TICA,DC0DB38B-7FEA-4FC0-85B4-51FBAF15EE58,,"""in Bremen, Abh. ix. (1885) 121.""","","","1885",
+gcc-45915,A,Compositae,,Wedelia,,"procumbens",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,51479387-1A06-4391-A5B1-551AF08BB99F,1009096-2,"","","394","1992",gcc-26665
+gcc-89343,A,Compositae,,Wedelia,,"prostrata",,"","Hemsl.",Accepted,,M,TICA,6FEE53EB-DBE6-48ED-A94D-818608E32A9B,260291-1,"J. Linn. Soc. Bot. 23","","434","1888",
+gcc-152385,A,Compositae,,Wedelia,,"prostrata",var.,"prostrata","",Synonym,,L,TICA,A97020AD-F606-4689-8424-988426974D00,,"","","","",gcc-89343
+gcc-22299,A,Compositae,,Wedelia,,"prostrata",var.,"robusta","Makino",Accepted,,L,TICA,837A8908-ECF1-4C2D-9D8B-294287D9FE23,77104717-1,"""J. Jap. Bot. 1: 23, f. 2 (1917)""","","""23, f. 2""","1917",
+gcc-115891,A,Compositae,,Wedelia,,"psammophila",,"","Poepp.",Synonym,,M,TICA,934046EC-92E7-4361-9968-BD34F71F541B,,"","","50","1845 [1843]",gcc-6746
+kew-2901145,A,Compositae,,Wedelia,,"psammophila",,"","Poepp. & Endl.",Synonym,,M,WCSP (in review),,260292-1,"Nov. Gen. Sp. Pl.","3: 50","","1843",gcc-6746
+gcc-98747,A,Compositae,,Wedelia,,"pseudoviguiera",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,802EA26B-39C2-47D8-847C-96C75C8611DB,1063316-2,"","","394","1992",gcc-110238
+gcc-83404,A,Compositae,,Wedelia,,"pseudoyedaea",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,A2392EF8-C7F6-4555-8D82-7436B3CA9C04,1091662-2,"","","394","1992",gcc-136448
+gcc-10138,A,Compositae,,Wedelia,,"puberula",,"","DC.",Accepted,,M,TICA,B8CAC199-99F8-4B08-B789-12F5306DC9EB,260293-1,"Prodr. (DC.) 5: 540","","540","1836",
+gcc-120208,A,Compositae,,Wedelia,,"pulchella",,"","Kunth",Synonym,,M,TICA,EAEF995A-74A5-4863-9661-C6F8B9471320,,"","","168","1820 [1818]",gcc-27459
+gcc-107242,A,Compositae,,Wedelia,,"pumila",,"","Pohl ex Baker",Unresolved,,L,TICA,0780023F-F321-4424-8991-A9A337DF2BA5,,"Fl. Bras. (Martius) 6(3): 194","","194","",
+gcc-153829,A,Compositae,,Wedelia,,"pumilla",,"","Pohl ex Baker",Synonym,,L,TICA,FBB39BF2-EF6D-43D5-9905-B617E6B5A6E5,,"","","","",gcc-26665
+gcc-79037,A,Compositae,,Wedelia,,"purpurea",,"","(Greenm.) B.L.Turner",Accepted,,M,TICA,84C59A57-4241-4568-9A57-6A9328FC0BC1,287041-2,"Phytologia 65","","354","1988",
+gcc-43696,A,Compositae,,Wedelia,,"pusilla",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,E2DDFC7B-4F94-4886-8392-50F7B40F4F1A,1137278-2,"","","394","1992",gcc-100774
+gcc-83471,A,Compositae,,Wedelia,,"quadribracteata",,"","Warb.",Synonym,,M,TICA,B044FBD4-1A63-4E63-ABA6-7462243459D6,,"","","","1891",gcc-111104
+gcc-134716,A,Compositae,,Wedelia,,"radiosa",,"","Ker Gawl.",Unresolved,,L,TICA,30597DBC-8307-4D6A-9595-E8636380F5EA,267980-2,"Bot. Reg. t. 610.","","t. 610","",
+gcc-33657,A,Compositae,,Wedelia,,"ramagii",,"","(Ridl.) J.U.Santos",Accepted,,M,TICA,E2B3EE70-CB91-4BFE-910C-3E67BF0AA782,1048609-2,"","","118","1993",
+gcc-99433,A,Compositae,,Wedelia,,"ramosissima",,"","(Gardner) B.L.Turner",Unresolved,,L,TICA,C1ACFF08-94D9-4F90-93CA-98594C9F54E8,1125639-2,"","","394","1992",gcc-110238
+gcc-41954,A,Compositae,,Wedelia,,"rechingeriana",,"","Muschl.",Unresolved,,L,TICA,05846B99-50CC-4548-9ED5-4DAA6DDF4DBF,260298-1,"","","","1913",gcc-114619
+gcc-28384,A,Compositae,,Wedelia,,"reflexa",,"","(Baker) B.L.Turner",Synonym,,M,TICA,62C57A02-C854-4285-AF1D-346D03FF802B,1142360-2,"","","394","1992",gcc-23435
+gcc-48977,A,Compositae,,Wedelia,,"regis",,"","H.Rob.",Accepted,,M,TICA,3A24CC9D-6465-45F8-B741-5AB576371878,,"","","","1984",
+gcc-138521,A,Compositae,,Wedelia,,"reticulata",,"","(Baker) B.L.Turner",Unresolved,Illegitimate,L,TICA,CCA1513A-5E87-4BCA-B5AA-F0C546EFF8EA,1005714-2,"","","394","1992",gcc-27156
+gcc-18253,A,Compositae,,Wedelia,,"reticulata",,"","DC.",Accepted,,L,TICA,F0348863-ED69-460A-8C07-21BE4EC928A9,260299-1,"","","540","1836",
+gcc-39852,A,Compositae,,Wedelia,,"reticulata",,"","Griseb.",Unresolved,,L,TICA,004CFC2E-2449-4AAA-9853-49F6DC93644C,260300-1,"Cat. Pl. Cub. 154.","","154","",
+gcc-124021,A,Compositae,,Wedelia,,"retroflexa",,"","(S.F.Blake) B.L.Turner",Unresolved,,L,TICA,093B9A20-C9BB-4813-9D1F-CFBDF517D1E3,1092473-2,"","","394","1992",gcc-47055
+gcc-10512,A,Compositae,,Wedelia,,"rhombifolia",,"","J.Kost.",Accepted,,M,TICA,50E91386-DE9B-40E7-9458-139EF131DC9C,260301-1,"","","19","1933",
+gcc-112824,A,Compositae,,Wedelia,,"riedellii",,"","(Baker) B.L.Turner",Synonym,,M,TICA,E8C425B4-3111-456D-917A-B6504CCB03C9,1173184-2,"","","394","1992",gcc-32761
+gcc-110484,A,Compositae,,Wedelia,,"ringoetii",,"","De Wild.",Synonym,,M,TICA,39A36F6E-A800-4E2A-9BDB-B0FC40CECA95,260302-1,"Repert. Spec. Nov. Regni Veg. 13: 210","","210","1914",gcc-11589
+gcc-130703,A,Compositae,,Wedelia,,"robusta",,"","(Makino) Kitam.",Synonym,,M,TICA,1332D213-FAEA-4F53-8623-DF2EE1783AFF,,"","","","1942",gcc-22299
+gcc-139822,A,Compositae,,Wedelia,,"rosei",,"","(Greenm.) McVaugh",Accepted,,M,TICA,8140600A-9B2C-4D28-AC97-F391542D2B87,267983-2,"","","462","1972",
+gcc-105826,A,Compositae,,Wedelia,,"rubra",,"","(Aristeg.) B.L.Turner",Synonym,,M,TICA,727C6DB1-FF71-4AC0-8482-A66ACCFDA2C3,1134196-2,"","","394","1992",gcc-36567
+gcc-10304,A,Compositae,,Wedelia,,"rudis",,"","(Oliv. & Hiern) Isawumi",Unresolved,,L,TICA,59186B0D-8144-4744-A5BD-133CE2536DFA,,"","","","1997",gcc-16185
+gcc-46810,A,Compositae,,Wedelia,,"rudis",,"","Benth. ex Baker",Unresolved,Illegitimate,L,TICA,1EFEE4D5-60D8-4CB3-93EA-56BAC0BB0EF3,,"Fl. Bras. (Martius) 6(3): 189","","189","1884",
+gcc-6217,A,Compositae,,Wedelia,,"rudis",,"","(Baker) Benth. ex H.Rob.",Accepted,,M,TICA,DFC4398A-4AB4-4FFC-B459-0B91624AE9E1,1012661-2,"","","61","1997",
+gcc-64641,A,Compositae,,Wedelia,,"rudis",subsp.,"fontinaloides","(C.D.Adams) Isawumi",Synonym,,L,TICA,E3DC5E80-E880-4736-B5AC-C01336C0D0A6,,"Feddes Repert. 108(7-8): 561","","561","1997",gcc-18905
+gcc-46542,A,Compositae,,Wedelia,,"rudis",subsp.,"rudis","",Synonym,,L,TICA,BBAE0E0A-AED6-48CD-BBDA-563AF7CDA321,,"","","","",gcc-16185
+gcc-123203,A,Compositae,,Wedelia,,"rugosa",,"","Greenm.",Accepted,,M,TICA,7FBAFA9C-3BCD-4170-92DE-CDC8FB753053,267984-2,"""Publ. Field Columbian Mus., Bot. Ser. 2: 268. 1907""","","268","1907",
+gcc-146828,A,Compositae,,Wedelia,,"rugosa",var.,"rugosa","",Synonym,,L,TICA,D2625D7C-FB41-41D9-9ACF-2080609CBDC3,,"","","","",gcc-123203
+gcc-83603,A,Compositae,,Wedelia,,"saltensis",,"","Cabrera",Accepted,,M,TICA,6BD5CB14-FD85-4F89-B057-74AC80B0DB8E,,"","","","1937",
+gcc-123517,A,Compositae,,Wedelia,,"scaberrima",,"","Hook.f.",Unresolved,,L,TICA,12AEA5C3-9DD2-4187-9CD1-CE84B7C7FEC6,260310-1,"""Fl. Brit. Ind. iii. 307, sphalm., in syn.""","","""iii. 307, sphalm., in syn.""","",
+gcc-129530,A,Compositae,,Wedelia,,"scaberrima",,"","Benth.",Synonym,,M,TICA,BE550CF6-247A-4157-9B0A-DC767A49856A,,"","","110","1839",gcc-27459
+gcc-135587,A,Compositae,,Wedelia,,"scaberrima",,"","Pohl ex Baker",Unresolved,,L,TICA,3E68084B-7FA8-4EEC-A8C6-EA5493F46948,,"Fl. Bras. (Martius) 6(3): 255","","255","",
+gcc-127432,A,Compositae,,Wedelia,,"scabra",,"","(Cav.) B.L.Turner",Accepted,,M,TICA,EF709E2B-7404-4BF8-989B-D7A6E05B092D,287042-2,"Phytologia 65","","354","1988",
+gcc-15471,A,Compositae,,Wedelia,,"scabriuscula",,"","(DC.) Engl. ex K.Schum.",Synonym,,M,TICA,413B4D8F-DEEE-4D93-BB47-1CA658520D35,,"Bot. Jahrb. Syst. 9 (1887)","","223","1887",gcc-114619
+gcc-95943,A,Compositae,,Wedelia,,"scabriuscula",,"","Engl.",Unresolved,,L,TICA,75601E87-282C-4796-9C10-907D33B4EF55,,"""Bot. Jahrb. Syst. ix. (1887) 223; Boerl. Handl. Fl. Ned. Indie, ii. I. (1891) 241""","","241","",
+gcc-18584,A,Compositae,,Wedelia,,"scandens",,"","Gardner",Unresolved,,L,TICA,46DC1A85-4F64-45C4-940E-225A3CD7501D,260312-1,"London J. Bot. 4: 125 (1845).","","125","1845",
+gcc-31528,A,Compositae,,Wedelia,,"scandens",,"","C.B.Clarke",Unresolved,,L,TICA,10E7B437-3394-482C-8C3D-3A73BF9F1315,260313-1,"Comp. Ind. 136 (excl. syn.).","","136","",
+gcc-47906,A,Compositae,,Wedelia,,"scandens",,"","Roxb.",Accepted,,M,TICA,581F49F2-C8CD-4D96-B0D4-58BF2F02D11D,,"","","","",
+gcc-29275,A,Compositae,,Wedelia,,"schultziana",,"","Miq.",Unresolved,,L,TICA,848EA84C-EAD6-473D-80B8-3619636AD9BD,,"","","69","1856",
+gcc-475,A,Compositae,,Wedelia,,"serra",,"","Pohl ex Baker",Unresolved,,L,TICA,3274A4C3-3B94-4A36-8F4A-00E18F2A1F9D,,"Fl. Bras. (Martius) 6(3): 184","","184","",
+gcc-124599,A,Compositae,,Wedelia,,"serrata",,"","Rich.",Accepted,,M,TICA,48B41485-A49F-4ECC-8F0F-D1149795E54C,260316-1,"in Pers. Syn. ii. 490.","","490","",
+gcc-70141,A,Compositae,,Wedelia,,"serrata",var.,"serrata","",Synonym,,L,TICA,23881D59-A345-4332-BC8E-EBC2582A7084,,"""in Persoon, Syn. Pl. 2(2): 490. 1807.""","","490","1807",gcc-124599
+gcc-128483,A,Compositae,,Wedelia,,"serrulata",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,D95CC768-0A4A-4688-8CF9-DA1CDE8981E7,1105543-2,"","","394","1992",gcc-106704
+gcc-47329,A,Compositae,,Wedelia,,"serrulata",,"","(Miq.) Boerl.",Unresolved,,L,TICA,2546C7FF-285E-4B87-BD25-57A589A7E657,,"","","","1891",gcc-28091
+gcc-125418,A,Compositae,,Wedelia,,"sessilifolia",,"","Mart. ex Baker",Synonym,,M,TICA,DB357722-AAA9-4522-BF16-D300ADF6379A,,"Fl. Bras. (Martius) 6(3)","","","",gcc-23435
+gcc-5909,A,Compositae,,Wedelia,,"sieberi",,"","Griseb.",Unresolved,,L,TICA,67CE217B-D69E-4DBF-84AB-0B00B7FB226F,260320-1,"""Fl. Brit. W.I. (Grisebach) 372, in obs.""","","372","1861",
+gcc-104708,A,Compositae,,Wedelia,,"silphioides",,"","(Hook. & Arn.) B.L.Turner",Synonym,,M,TICA,F8FF00FA-089B-4D34-B3C1-A40B38C86F59,1100384-2,"","","394","1992",gcc-13920
+gcc-90849,A,Compositae,,Wedelia,,"simpsonae",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,D1860F64-07AB-4030-B535-850B3DB98089,1153954-2,"","","394","1992",gcc-82781
+gcc-119508,A,Compositae,,Wedelia,,"simsioides",,"","McVaugh",Accepted,,M,TICA,AFB73E78-FB02-4DC8-A077-C5503AB23231,,"","","","1972",
+gcc-22528,A,Compositae,,Wedelia,,"souzae",,"","H.Rob.",Accepted,,M,TICA,E14442D2-8A9F-4525-B4B7-29ACE77CC6C4,267992-2,"","","401","1984",
+gcc-18207,A,Compositae,,Wedelia,,"spenceriana",,"","(Muschl.) Isawumi",Synonym,,L,TICA,DF525EF1-C2A1-4AED-8076-21A93B67ABEC,,"Feddes Repert. 108(7-8): 561","","561","1997",gcc-16185
+gcc-86450,A,Compositae,,Wedelia,,"spilanthoides",,"","F.Muell.",Accepted,,L,TICA,9A71F83B-A13D-4733-BE33-7AF6F5EF26B3,,"","","64","",
+gcc-6980,A,Compositae,,Wedelia,,"squarrosa",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,40903AA7-2AA8-4E51-ACD9-0CFBAD05EE70,1050831-2,"","","394","1992",gcc-133401
+gcc-135186,A,Compositae,,Wedelia,,"stenophylla",,"","Merr.",Accepted,,M,TICA,19188C8B-2F1C-40FC-BDAA-E9691A751EC4,260323-1,"","","429","1926",
+gcc-28065,A,Compositae,,Wedelia,,"stirlingii",,"","Tate",Accepted,,M,TICA,92E38E19-7605-41AD-9F31-33D35F07B5DA,,"","","","",
+gcc-4408,A,Compositae,,Wedelia,,"strigosa",,"","Hook. & Arn.",Accepted,,L,TICA,68AD4184-649F-4AE7-A377-0834BB7DA923,308126-2,"Bot. Beechey Voy.","","435","1841",
+gcc-133531,A,Compositae,,Wedelia,,"strigulosa",,"","Benth. & Hook.f. ex Drake",Unresolved,,L,TICA,6342580B-01A3-4CAC-A792-E5B26C4C22CD,260328-1,"Ill. Fl. Ins. Mar. Pacif. (1890) 207.","","207","1890",
+gcc-134204,A,Compositae,,Wedelia,,"strigulosa",,"","(Gaudich.) K.Schum.",Synonym,,M,TICA,B7356511-19F4-44BB-A2D3-E73C6AFCF6CC,,"","","","1887",gcc-114619
+gcc-38710,A,Compositae,,Wedelia,,"stuebelii",,"","Hieron.",Accepted,,M,TICA,8BC66CB5-0971-45EA-8BC5-47CDB939A79C,,"","","","1895",
+gcc-130030,A,Compositae,,Wedelia,,"subalpestris",,"","(Baker) J.U.Santos",Accepted,,M,TICA,3097486E-A2CC-4A76-A795-DD9F5112DB99,1072651-2,"","","12","1985",
+gcc-130106,A,Compositae,,Wedelia,,"subalpestris",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,BEEE63B5-17A6-4788-96AB-DDCAFDEA9F3F,,"Phytologia 72(5): 395 (1992):.","","395","1992",
+gcc-119054,A,Compositae,,Wedelia,,"subflexuosa",,"","Hook. & Arn.",Synonym,,M,TICA,91E455E0-84D3-4ECD-9648-C46112EF704C,260330-1,"","","435","",gcc-117295
+gcc-84006,A,Compositae,,Wedelia,,"subpetiolata",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,8E5C63BA-4BDB-4F88-9582-758FDF003160,1036799-2,"","","395","1992",gcc-88985
+gcc-87948,A,Compositae,,Wedelia,,"subvaginata",,"","N.E.Br.",Accepted,,M,TICA,CCAF79AF-8757-4441-827E-7E5676D54248,267995-2,"","","61","1894",
+gcc-69574,A,Compositae,,Wedelia,,"subvaginata",var.,"major","Hassl.",Synonym,,L,TICA,BE82A75E-3A6A-4559-BF4F-E775D300983C,267996-2,"Trab. Mus. Farmacol. 21: 130. 1909","","130","1909",gcc-87948
+gcc-154031,A,Compositae,,Wedelia,,"subvaginata",var.,"subvaginata","",Synonym,,L,TICA,6006B166-E9A6-4A10-988A-BAE3A421CCB3,,"","","","",gcc-87948
+gcc-91771,A,Compositae,,Wedelia,,"subvelutina",,"","DC.",Accepted,,M,TICA,049C3032-436B-4486-9229-8719972E970C,260332-1,"Prodr. (DC.) 5: 540","","540","1836",
+gcc-40821,A,Compositae,,Wedelia,,"subvelutina",var.,"linearifolia","Chodat",Synonym,,L,TICA,3EC6E642-D269-48DF-87FA-4BA4D5ED2A42,,"""Bull. Herb. Boissier ser. 2, 2: 391. 1902""","","391","1902",gcc-91771
+gcc-145810,A,Compositae,,Wedelia,,"subvelutina",var.,"subvelutina","",Synonym,,L,TICA,CB86519C-7239-460A-96C2-0B4A8631D1A2,,"","","","",gcc-91771
+gcc-52427,A,Compositae,,Wedelia,,"symmetrica",,"","Rusby",Accepted,,M,TICA,961C31A6-0D47-4F47-8CB5-61300F7F8720,267999-2,"","","153","1920",
+gcc-81870,A,Compositae,,Wedelia,,"talpana",,"","B.L.Turner",Accepted,,M,TICA,64ECF370-99C0-46B6-B003-70C0F26F86BA,301906-2,"","","117","1992",
+gcc-77210,A,Compositae,,Wedelia,,"tambilloana",,"","B.L.Turner",Accepted,,M,TICA,89E80917-5EA6-4D6B-9C3F-665B1715E83A,1073821-2,"","","395","1992",
+gcc-124729,A,Compositae,,Wedelia,,"tannensis",,"","Endl.",Unresolved,,L,TICA,4A6EA456-A061-497C-ACF9-D15948DE18B7,260334-1,"""in Ann. Wien. Mus. i. 168, No. 989 (1836).""","","""i. 168, No. 989""","1836",
+gcc-20059,A,Compositae,,Wedelia,,"tegetis",,"","Strother",Synonym,,M,TICA,FE85ADA8-2AF0-4961-B710-25161A2B054B,,"","","","1991",gcc-94080
+gcc-11379,A,Compositae,,Wedelia,,"tehuantepecana",,"","B.L.Turner",Accepted,,M,TICA,D8864E9B-DC48-40BB-BCDA-15445015EAB0,308314-2,"Phytologia 65","","355","1988",
+gcc-98088,A,Compositae,,Wedelia,,"tenuicaulis",,"","Hook.f.",Unresolved,,L,TICA,6EF85BA0-05A6-4670-857C-95509A415CF3,268000-2,"","","213","1847",
+gcc-128000,A,Compositae,,Wedelia,,"texana",,"","(A.Gray) B.L.Turner",Unresolved,Invalid,L,TICA,A1FD2900-113D-4ABB-AE94-D8FF24AD0918,,"","","","",
+gcc-107092,A,Compositae,,Wedelia,,"thailandica",,"","H.Koyama",Unresolved,,L,TICA,B0C961AE-AC61-4A78-AF26-A95224294435,,"Acta Phytotax. Geobot. 36(4–6): 168 (1985)","","168","1985",
+gcc-100379,A,Compositae,,Wedelia,,"thouarsii",,"","H.Rob.",Accepted,,M,TICA,246EB86D-F405-4800-A5EA-9A7A04995FA7,,"Phytologia 72(2): 145 (1992):.","","145","1992",
+gcc-110072,A,Compositae,,Wedelia,,"tiliifolia",,"","Rechinger & Muschl.",Unresolved,,L,TICA,D4F70499-BAF3-4257-B15B-B0082733C24D,260336-1,"""in Denkschr. Akad. Wiss. Wien, 1913,lxxxix. 619 (1914).""","","","1913",gcc-114619
+gcc-102352,A,Compositae,,Wedelia,,"titicacensis",,"","Meyen & Walp.",Synonym,,M,TICA,FABE5BFF-B8D3-4114-AEE9-9EEC0440F595,,"in Nov. Act. Nat. Cur. xix. Suppl. i. (1843) 269.","","","1843",gcc-79092
+gcc-44507,A,Compositae,,Wedelia,,"tomentosa",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,63E69C9B-8721-4247-9C7E-52789499ED81,1015888-2,"","","395","1992",gcc-133401
+gcc-141999,A,Compositae,,Wedelia,,"trichostemma",,"","Steud.",Unresolved,,L,TICA,508023BA-B891-475A-9DE1-F8AF75F77899,260338-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 703, in syn., sphalm.""","","703","1841",
+gcc-121323,A,Compositae,,Wedelia,,"trichostephia",,"","DC.",Accepted,,M,TICA,8DA44B96-2F0A-450F-8CFA-C98EACFD3157,260339-1,"Prodr. (DC.) 5: 540","","540","1836",
+gcc-156764,A,Compositae,,Wedelia,,"triloba",,"","(Rich. ex DC.) Bello",Synonym,,M,TICA,4148C8E2-D710-44C7-80CD-F3B612140926,,"","","","",gcc-5859
+gcc-234,A,Compositae,,Wedelia,,"triloba",,"","(L.) Hitchc.",Accepted,,M,TICA,B861B892-AA45-446E-951F-006ECD075BD1,,"","","","",
+gcc-149676,A,Compositae,,Wedelia,,"trilobata",,"","A.St.-Hil.",Synonym,,M,TICA,9558B075-DFE9-435E-B2FB-5DE0AAA305F0,,"","","","",gcc-5859
+gcc-95471,A,Compositae,,Wedelia,,"trilobata",,"","(L.) Hitchc.",Synonym,,M,TICA,83613AED-7BF0-4AF4-BAD0-8F7656F0E6DC,1078758-2,"Rep. (Annual) Missouri Bot. Gard. 4: 99. 1893","","99","1893",gcc-5859
+gcc-31894,A,Compositae,,Wedelia,,"triseta",,"","Peter",Synonym,,M,TICA,30265DCF-2DF7-49D5-9A3B-3B163C35C0D9,,"""in Abh. Ges. Wiss. Gottingen n. f. xiii. II. 31, in obs., 94, in clavi""","","94","1928",gcc-37816
+gcc-138418,A,Compositae,,Wedelia,,"triternata",,"","Klatt",Synonym,,M,TICA,DC7A05D0-301A-42A2-9C8D-F087017B5B04,,"Bull. Herb. Boissier iv. 839.","","","1896",gcc-108404
+gcc-132323,A,Compositae,,Wedelia,,"uniflora",,"","(Spreng.) S.Moore",Unresolved,,L,TICA,FD523DD6-14D3-4053-9256-E2FEA2D143FF,260344-1,"""J. Linn. Soc., Bot. xlv. 347 (1921)""","","347","1921",
+gcc-140411,A,Compositae,,Wedelia,,"uniflora",,"","(Spreng.) W.R.B.Oliv.",Accepted,,M,TICA,EA9F9E94-5709-4864-AFD1-F4F28D1B56A5,119641-3,"","","","1917",
+gcc-97227,A,Compositae,,Wedelia,,"urbani",,"","O.E.Schulz",Accepted,,M,TICA,19A96A2A-60E5-40B6-B1C1-935E7B493B6A,268006-2,"","","109","1911",
+gcc-311,A,Compositae,,Wedelia,,"urticaefolia",,"","(Blume) DC. ex Wight",Accepted,,M,TICA,216EE9A0-B314-47AA-AEBF-008F679D4D4A,,"","","","1834",
+gcc-51683,A,Compositae,,Wedelia,,"urticifolia",,"","(Blume) DC.",Accepted,,M,TICA,4AF46B47-1BA7-481C-A138-5FD5BD9AAD08,119661-3,"Contributions to the Botany of India","","18","1834",
+gcc-68979,A,Compositae,,Wedelia,,"urticifolia",var.,"asperrima","(Decne) Gagnep.",Accepted,,L,TICA,A20E05AB-897F-4E80-B87D-E2D921F813C0,,"Fl. Indo-Chine 3 (1924)","","602","1924",
+gcc-154292,A,Compositae,,Wedelia,,"urticifolia",var.,"urticifolia","",Synonym,,L,TICA,AEE05398-0D21-4B14-9A58-C0A740B13E19,,"","","","",gcc-51683
+gcc-43099,A,Compositae,,Wedelia,,"urticifolia",var.,"wallichii","(Less.) DC.",Synonym,,L,TICA,D0DAFE12-45C8-4E63-8752-4FD69238B458,,"Prodr. 5 (1836)","","540","1836",gcc-51683
+gcc-65429,A,Compositae,,Wedelia,,"urticifolia",var.,"wightii","DC.",Synonym,,L,TICA,0A1AEC15-6552-4280-8296-C6B96E6CC574,,"Wight Contrib. Bot. Ind. (1834)","","18","1834",gcc-51683
+gcc-133584,A,Compositae,,Wedelia,,"vauthieri",,"","DC.",Accepted,,M,TICA,D2846B51-EF2A-4EFF-B95C-E5D06FCC3071,260347-1,"Prodr. (DC.) 5: 539","","539","1836",
+gcc-97803,A,Compositae,,Wedelia,,"veadeirosensis",,"","H.Rob.",Accepted,,M,TICA,9D63E0B5-20D5-4C14-B063-94B76045591F,268008-2,"","","402","1984",
+gcc-127656,A,Compositae,,Wedelia,,"verbesinoides",,"","F.Muell. ex Benth.",Accepted,,L,TICA,9A4FD151-84E5-4C39-8802-D82EE28FE127,119703-3,"","","","1867",
+gcc-78518,A,Compositae,,Wedelia,,"veronicifolia",,"","A.Rich.",Unresolved,,L,TICA,0E5B2E59-6580-4803-AAA4-6956667A6C86,268009-2,"","","53","1850",
+gcc-43483,A,Compositae,,Wedelia,,"vexata",,"","Strother",Accepted,,M,TICA,90458508-162D-420D-9228-509FDA9E5265,,"","","","1991",
+gcc-142157,A,Compositae,,Wedelia,,"vieirae",,"","(H.Rob.) B.L.Turner",Unresolved,,L,TICA,36B3648C-11E3-4308-9200-F908603116F0,1009834-2,"","","395","1992",gcc-82781
+gcc-6759,A,Compositae,,Wedelia,,"villosa",,"","Gardner",Accepted,,M,TICA,3FDADC9C-FB3C-499C-A703-0C8B1B6C2463,260351-1,"""London J. Bot. 7: 289 (1848), partim.""","","289","1848",
+kew-2465216,A,Nyctaginaceae,,Wedelia,,"violacea",,"","L.",Unresolved,,L,WCSP (in review),,605250-1,"Syst. Nat. ed. 10","2: 890","","1759",
+gcc-47086,A,Compositae,,Wedelia,,"wallichii",,"","Less.",Synonym,,M,TICA,88A32954-D680-4338-A8C2-573DC9EFC763,260352-1,"Linnaea 6: 162. 1831","","162","1831",gcc-51683
+gcc-150565,A,Compositae,,Wedelia,,"wallichii",var.,"wallichii","",Synonym,,L,TICA,9B14885A-7BD4-43CA-9EFA-716C873ED094,,"","","","",gcc-51683
+gcc-132010,A,Compositae,,Wedelia,,"warmingii",,"","(Baker) B.L.Turner",Unresolved,,L,TICA,CA323654-5487-4E8F-930F-E2464B15B41B,1130317-2,"","","395","1992",gcc-51841
+gcc-136565,A,Compositae,,Wedelia,,"xylopoda",,"","(Greenm.) B.L.Turner",Accepted,,M,TICA,F146A3E0-C8EE-479E-845C-EC7E082B4875,60436252-2,"Phytologia 86(2): 96. 2004 [Aug ? 2004]","","96","2004",
+gcc-52456,A,Compositae,,Wedelia,,"zollingeriana",,"","(Sch.Bip.) Boerl.",Unresolved,,L,TICA,94A36F60-6642-492E-8FF3-613D1A53C51B,,"","","","1891",
+gcc-83453,A,Compositae,,Wedelia,,"zollingeriana",,"","Sch.Bip. ex C.B.Clarke",Unresolved,,L,TICA,5DEE4CC1-DFBA-4F55-8895-74554F72512F,260353-1,"Comp. Ind. 136.","","136","",
+gcc-121716,A,Compositae,,Wedelia,,"zuliana",,"","Jiménez & Silvia",Unresolved,,L,TICA,91651EE2-2646-4939-A382-CA630D565B22,1010400-1,"Acta Botanica Venezuelica 21(2):","","107","1999",
+gcc-49722,A,Compositae,,Wedelia,,"zuliana",,"","S.Jiménez",Unresolved,,L,TICA,809BC7D0-6D91-485C-864D-5C29E07AFA99,,"Acta Bot. Venez. 21(2)","","","",

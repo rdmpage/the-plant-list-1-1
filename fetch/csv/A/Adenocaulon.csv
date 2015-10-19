@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-19606,A,Compositae,,Adenocaulon,,"adhaerescens",,"","Maxim.",Synonym,,M,TICA,910C9A35-105A-4D6B-9877-243F5FB4130B,174958-1,"Prim. Fl. Amur.: 152 (1859)","","152","1859",gcc-103381
+gcc-5236,A,Compositae,,Adenocaulon,,"bicolor",,"","Hook.",Accepted,,M,TICA,B77C4716-FCE8-4F29-952F-09C76653D87F,,"Bot. Misc.","","","1829",
+gcc-65463,A,Compositae,,Adenocaulon,,"bicolor",var.,"adhaerescens","(Maxim.) Makino",Synonym,,L,TICA,84FB3844-9BD7-4CEE-9DB5-C6F553289C1A,,"","","240","",gcc-103381
+gcc-146482,A,Compositae,,Adenocaulon,,"bicolor",var.,"bicolor","",Synonym,,L,TICA,9199BC4A-6B04-4FA4-B307-196B42710D7C,,"","","","",gcc-5236
+gcc-62446,A,Compositae,,Adenocaulon,,"bicolor",var.,"integrifolium","(Nutt.) Torr. & A.Gray",Synonym,,L,TICA,A3D8A711-2980-4570-893F-AED27BC916E7,4351-2,"","","94","1841",gcc-5236
+gcc-38376,A,Compositae,,Adenocaulon,,"chilense",,"","Less.",Accepted,,M,TICA,D7493381-9B2B-42CA-A550-47348A95E2FC,174961-1,"Linnaea 6","","107","1831",
+gcc-103381,A,Compositae,,Adenocaulon,,"himalaicum",,"","Edgew.",Accepted,,M,TICA,0A438CD4-8310-4DA3-A1A9-A126FB44C9F1,174962-1,"","","64","1846",
+gcc-81022,A,Compositae,,Adenocaulon,,"integrifolium",,"","Nutt.",Synonym,,M,TICA,663F635F-FDC7-4E77-953F-6EE748DEB7E2,,"","","289","1840",gcc-5236
+gcc-5921,A,Compositae,,Adenocaulon,,"lechleri",,"","Sch.Bip.",Synonym,,M,TICA,1201EFD8-7C7C-4EE6-B690-0B07F5E069F2,174964-1,"","","113","1855",gcc-38376
+gcc-13657,A,Compositae,,Adenocaulon,,"lyratum",,"","S.F.Blake",Accepted,,M,TICA,497E7538-895F-4633-A11A-196A73A1B5E2,,"J. Wash. Acad. Sci. 24","","""434-436, f. 1""","1934",
+gcc-121180,A,Compositae,,Adenocaulon,,"nepalense",,"","Bittmann",Accepted,,M,TICA,6D23C160-13A9-4388-BC4E-C938392B4BF5,,"","","403","1990",

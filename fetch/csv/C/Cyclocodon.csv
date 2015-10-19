@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-368301,A,Campanulaceae,,Cyclocodon,,"adnatus",,"","Griff. ex Benth. & Hook.f.",Synonym,,H,WCSP,368301,142006-1,"Gen. Pl.","2: 558","","1876",kew-368304
+tro-5504779,A,Campanulaceae,,Cyclocodon,,"adnatus",,"","Griff.",Synonym,,M,TRO,5504779,,"Not. Pl. Asiat.","4: 278","278","1854",kew-368304
+kew-368302,A,Campanulaceae,,Cyclocodon,,"celebicus",,"","(Blume) D.Y.Hong",Synonym,,H,WCSP,368302,1001195-1,"Acta Phytotax. Sin.","36: 109","","1998",kew-368305
+kew-368303,A,Campanulaceae,,Cyclocodon,,"distans",,"","Griff.",Synonym,Invalid,H,WCSP,368303,142007-1,"Not. Pl. Asiat.","4: 277","","1854",kew-368307
+kew-368304,A,Campanulaceae,,Cyclocodon,,"lancifolius",,"","(Roxb.) Kurz",Accepted,,H,WCSP,368304,142009-1,"Flora","55: 303","","1872",
+kew-368305,A,Campanulaceae,,Cyclocodon,,"lancifolius",subsp.,"celebicus","(Blume) K.E.Morris & Lammers",Accepted,,L,WCSP,368305,1009888-1,"Novon","9: 387","","1999",
+kew-376110,A,Campanulaceae,,Cyclocodon,,"lancifolius",subsp.,"lancifolius","",Synonym,,L,WCSP,376110,,"Unknown","","","",kew-368304
+tro-100000032,A,Campanulaceae,,Cyclocodon,,"lancifolius",subsp.,"lancifolius","",Synonym,,L,TRO,100000032,,"Flora","55: 303","303","1872",kew-368304
+kew-368306,A,Campanulaceae,,Cyclocodon,,"leucocarpus",,"","Miq.",Synonym,,H,WCSP,368306,142010-1,"Fl. Ned. Ind.","2: 1082","","1859",kew-368305
+kew-368307,A,Campanulaceae,,Cyclocodon,,"parviflorus",,"","(Wall. ex A.DC.) Hook.f. & Thomson",Accepted,,H,WCSP,368307,142011-1,"J. Proc. Linn. Soc., Bot.","2: 18","","1858",
+kew-368308,A,Campanulaceae,,Cyclocodon,,"truncatus",,"","(Wall. ex G.Don) Hook.f. & Thomson",Synonym,,H,WCSP,368308,142012-1,"J. Proc. Linn. Soc., Bot.","2: 18","","1858",kew-368304

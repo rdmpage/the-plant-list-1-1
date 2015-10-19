@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-8330,A,Compositae,,Macrachaenium,,"foliosum",,"","Albov ex Albov",Unresolved,,L,TICA,3435655C-BE81-4A59-96E2-0F804F124613,,"","","","1896",
+gcc-33745,A,Compositae,,Macrachaenium,,"gracile",,"","Hook.f.",Accepted,,M,TICA,30EAC07D-9BE0-480A-A94E-3E8B1E179D91,,"Fl. Antarct. ii. 321.","","","1847",
+gcc-70342,A,Compositae,,Macrachaenium,,"gracile",var.,"gracile","",Synonym,,L,TICA,EBFA6837-C298-42D7-B162-ED542935C558,,"Fl. Antarct. 2: 321 (1847)","","321","1847",gcc-33745

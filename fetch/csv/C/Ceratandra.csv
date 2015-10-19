@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-36817,A,Orchidaceae,,Ceratandra,,"affinis",,"","Sond.",Synonym,,H,WCSP,36817,622422-1,"Linnaea","19: 108","","1846",kew-36824
+kew-36818,A,Orchidaceae,,Ceratandra,,"atrata",,"","(L.) T.Durand & Schinz",Accepted,,H,WCSP,36818,622424-1,"Consp. Fl. Afric.","5: 123","","1894",
+kew-36819,A,Orchidaceae,,Ceratandra,,"auriculata",,"","Lindl.",Synonym,,H,WCSP,36819,622425-1,"Gen. Sp. Orchid. Pl.","364","","1838",kew-36818
+kew-36820,A,Orchidaceae,,Ceratandra,,"bicolor",,"","Sond. ex Bolus",Accepted,,H,WCSP,36820,,"J. Linn. Soc., Bot.","20: 487","","1884",
+tro-50017795,A,Orchidaceae,,Ceratandra,,"bicolor",,"","Sond. ex Drège",Synonym,,M,TRO,50017795,,"Linnaea","20: 220","220","1847",kew-36820
+kew-36821,A,Orchidaceae,,Ceratandra,,"chloroleuca",,"","Lindl.",Synonym,,H,WCSP,36821,,"Ill. Orch. Pl.","t. 16","","1837",kew-36818
+kew-36822,A,Orchidaceae,,Ceratandra,,"globosa",,"","Lindl.",Accepted,,H,WCSP,36822,622428-1,"Gen. Sp. Orchid. Pl.","364","","1838",
+kew-36823,A,Orchidaceae,,Ceratandra,,"grandiflora",,"","Lindl.",Accepted,,H,WCSP,36823,622429-1,"Gen. Sp. Orchid. Pl.","364","","1838",
+kew-36824,A,Orchidaceae,,Ceratandra,,"harveyana",,"","Lindl.",Accepted,,H,WCSP,36824,622431-1,"Gen. Sp. Orchid. Pl.","365","","1838",
+kew-36825,A,Orchidaceae,,Ceratandra,,"harveyana",,"","Sond.",Synonym,Illegitimate,H,WCSP,36825,622430-1,"Linnaea","19: 108","","1846",kew-36820
+kew-36826,A,Orchidaceae,,Ceratandra,,"ochroleuca",,"","G.Don",Synonym,,H,WCSP,36826,622432-1,"Hort. Brit.","ed. 3: 651","","1839",kew-36818
+kew-36827,A,Orchidaceae,,Ceratandra,,"parviflora",,"","Lindl.",Synonym,,H,WCSP,36827,622433-1,"Gen. Sp. Orchid. Pl.","364","","1838",kew-36822
+kew-36828,A,Orchidaceae,,Ceratandra,,"venosa",,"","(Lindl.) Schltr.",Accepted,,H,WCSP,36828,622434-1,"Bot. Jahrb. Syst.","24: 433","","1897",

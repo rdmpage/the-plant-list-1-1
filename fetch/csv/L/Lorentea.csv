@@ -1,0 +1,34 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92266,A,Compositae,,Lorentea,,"affinis",,"","Gardner",Unresolved,,L,TICA,006FBA33-224D-49EF-9163-883965D3279C,231130-1,"London J. Bot. 5: 240 (1846).","","240","1846",
+gcc-92743,A,Compositae,,Lorentea,,"atropurpurea",,"","Ortega",Synonym,,M,TICA,4A1DBDEB-0ABC-473D-BED9-89498CF5CC2D,,"""Nov. Pl. Descr. Dec. 4: 41, t. 5. 1797.""","","","1797",gcc-51854
+gcc-83048,A,Compositae,,Lorentea,,"auricularis",,"","DC.",Synonym,,L,TICA,C61BB0FE-35AA-4206-B60B-736E61B240AB,231132-1,"Prodr. (DC.) 5: 102","","102","1836",gcc-101048
+gcc-71242,A,Compositae,,Lorentea,,"auricularis",var.,"acapulcensis","DC.",Synonym,,L,TICA,042A115C-A954-4D2D-A6F4-F4B8570B8143,143774-2,"Prodr. (DC.) 5: 102","","102","1836",gcc-101048
+gcc-146701,A,Compositae,,Lorentea,,"auricularis",var.,"auricularis","",Synonym,,L,TICA,BE25922C-19A9-4FCF-A2AF-1E2EB763FC8D,,"","","","",gcc-101048
+gcc-122044,A,Compositae,,Lorentea,,"brevipedunculata",,"","Gardner",Unresolved,,L,TICA,B14C6D9B-030D-4AF6-8A48-CB1F9983028F,231133-1,"London J. Bot. 6: 428 (1847).","","428","1847",
+gcc-49525,A,Compositae,,Lorentea,,"canescens",,"","(Kunth) DC.",Synonym,,L,TICA,213701E9-9BB2-4776-B80C-5BCA30A13239,231134-1,"Prodr. (DC.) 5: 102","","102","1836",gcc-101048
+gcc-112708,A,Compositae,,Lorentea,,"capillipes",,"","Benth. ex Oerst.",Unresolved,,L,TICA,5BEAEAE5-FA26-4164-BA52-B60CCACF7DFC,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn (1852) 70","","70","",
+gcc-20720,A,Compositae,,Lorentea,,"capillipes",,"","Benth.",Synonym,,M,TICA,1A1F132F-32D6-4E9E-96C1-2652D3D1FDFE,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn 1852(5-7): 70. 1853.","","70","1853",gcc-83928
+gcc-117998,A,Compositae,,Lorentea,,"castelloniana",,"","Ram.Goyena",Synonym,,M,TICA,013CFBCD-F332-41C6-A2B8-C1EC1B840C16,143775-2,"Fl. Nicarag. 2","","451","1911",gcc-11245
+gcc-96444,A,Compositae,,Lorentea,,"ciliare",,"","Cass.",Unresolved,,L,TICA,62450EF4-9E8C-4131-B809-919061F623D5,,"","","","",
+gcc-24414,A,Compositae,,Lorentea,,"congesta",,"","Gardner",Unresolved,,L,TICA,92398B13-8697-4221-8416-2D13FF8B7BD3,231137-1,"London J. Bot. 5: 241 (1846).","","241","1846",
+gcc-81854,A,Compositae,,Lorentea,,"cryptocephala",,"","Sch.Bip.",Unresolved,,L,TICA,33A31202-531B-47C3-99DC-70B5F2DE5446,,"""in Seem. Bot. Voy. Herald, 309.""","","309","",
+gcc-37793,A,Compositae,,Lorentea,,"cryptopetala",,"","DC.",Synonym,,L,TICA,411A8FBC-7CD7-4C0B-BA40-46179487F586,231139-1,"Prodr. (DC.) 5: 101","","101","1836",gcc-22116
+gcc-121922,A,Compositae,,Lorentea,,"cubensis",,"","A.Rich.",Synonym,,M,TICA,63950CF4-D0DB-4679-B1DC-CADCEF49148B,,"","","","1850",gcc-111396
+gcc-76722,A,Compositae,,Lorentea,,"decumbens",,"","Gardner",Unresolved,,L,TICA,A4367608-87A6-469F-A7B9-6546F007C4A4,231141-1,"London J. Bot. 5: 241 (1846).","","241","1846",
+gcc-121440,A,Compositae,,Lorentea,,"gracilis",,"","Hook.f.",Synonym,,M,TICA,A8D886A3-5A93-437D-8CEB-C9CCA2464065,231142-1,"Trans. Linn. Soc. London 20(2): 206","","206","1847",gcc-108263
+gcc-131460,A,Compositae,,Lorentea,,"haenkeana",,"","(DC.) Sch.Bip.",Synonym,,M,TICA,D2742A18-3FD2-4542-A629-E0EC7565453B,,"","","","1856",gcc-22471
+gcc-51549,A,Compositae,,Lorentea,,"haenkeana",,"","DC.",Accepted,,M,TICA,52EEA2C3-3350-4289-ABF3-5F9667D176FD,231143-1,"Prodr. (DC.) 5: 102","","102","1836",
+gcc-153956,A,Compositae,,Lorentea,,"haenkeana",var.,"haenkeana","",Synonym,,L,TICA,D6849FF8-5489-47D4-B716-B911AB80FE18,,"","","","",gcc-51549
+gcc-128935,A,Compositae,,Lorentea,,"humifusa",,"","(Sw.) Less.",Unresolved,,L,TICA,D359B2EF-F813-4F8A-91F6-DB276AE8737A,231144-1,"Linnaea 6: 719. 1831","","719","1831",
+gcc-15559,A,Compositae,,Lorentea,,"liebmanni",,"","Sch.Bip. ex Hemsl.",Unresolved,,L,TICA,DD495242-D9AD-42E5-AF92-1CCA19F86AC3,231145-1,"""Biol. Cent.-Amer., Bot. ii. 226""","","226","",
+gcc-114280,A,Compositae,,Lorentea,,"linearis",,"","Anderss.",Unresolved,,L,TICA,01809536-0B4E-4A30-9740-B97A0179071E,,"Vet. Akad. Handl. Stockh. 1853 (1855) 174.","","174","",
+gcc-76800,A,Compositae,,Lorentea,,"multiflosculosa",,"","DC.",Synonym,Illegitimate,M,TICA,B2B5ED4F-571A-47D8-BE86-6571CAAC7548,231147-1,"Prodr. 5: 102. 1836.","","102","1836",gcc-22424
+gcc-112609,A,Compositae,,Lorentea,,"oligocephala",,"","Gardner",Unresolved,,L,TICA,EDFF2ADD-0D64-46A7-A6FB-B5CE1BFFF584,231148-1,"London J. Bot. 5: 239 (1846).","","239","1846",
+gcc-119696,A,Compositae,,Lorentea,,"polycephala",,"","Gardner",Unresolved,,L,TICA,3714269A-850C-4D82-9BF5-C5C3889E57F8,231149-1,"London J. Bot. 5: 240 (1846).","","240","1846",
+gcc-40361,A,Compositae,,Lorentea,,"prostrata",,"","(Cav.) Lag.",Synonym,,M,TICA,5E9E6932-8BD7-4F20-9F96-4AD184C9BC07,231150-1,"Gen. et Sp. Nov. 28.","","28","1816 [July-Dec. 1816",gcc-32552
+gcc-121260,A,Compositae,,Lorentea,,"ramosissima",,"","Gardner",Unresolved,,L,TICA,8A8172DD-53AC-4EF3-A5F3-C96801508F4F,231151-1,"London J. Bot. 5: 240 (1846).","","240","1846",
+gcc-20078,A,Compositae,,Lorentea,,"saturejaoides",,"","(Mill.) Less.",Synonym,,M,TICA,F99AA25B-5595-415D-9526-252014B83FCD,,"Linnaea 5: 135. 1830.","","135","1830",gcc-48631
+gcc-132647,A,Compositae,,Lorentea,,"sessiliflora",,"","Less.",Synonym,,L,TICA,3A9035A4-62F2-4A2D-9C56-E3B68067B7CF,231153-1,"Linnaea 6: 720. 1831","","720","1831",gcc-22116
+gcc-5927,A,Compositae,,Lorentea,,"subsquarrosa",,"","Hook.f.",Synonym,,M,TICA,16DBCDB0-014E-497B-99AC-0B093C1A5E58,317734-2,"","","206","1847",gcc-108263
+tro-2706770,A,Compositae,,Lorentea,,"suricularis",,"","DC.",Unresolved,,L,TRO,2706770,,"","","","",
+gcc-144013,A,Compositae,,Lorentea,,"tenuifolia",,"","DC.",Synonym,,M,TICA,A981519B-46FD-4476-A0F3-FD2C2839CDAA,231155-1,"Prodr. (DC.) 5: 103","","103","1836",gcc-25681

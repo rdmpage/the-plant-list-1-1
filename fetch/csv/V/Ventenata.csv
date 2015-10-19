@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-449598,A,Poaceae,,Ventenata,,"avenacea",,"","Koeler",Synonym,,H,WCSP,449598,426308-1,"Descr. Gramin.","274","","1802",kew-449601
+kew-449599,A,Poaceae,,Ventenata,,"blanchei",,"","Boiss.",Accepted,,H,WCSP,449599,426309-1,"Fl. Orient.","5: 539","","1884",
+kew-449600,A,Poaceae,,Ventenata,,"bromoides",,"","Koeler",Synonym,,H,WCSP,449600,426310-1,"Descr. Gramin.","273","","1802",kew-449601
+kew-449601,A,Poaceae,,Ventenata,,"dubia",,"","(Leers) Coss. & Durieu",Accepted,,H,WCSP,449601,426312-1,"Ann. Sci. Nat., Bot.","IV, 4: 252","","1856",
+tro-25510041,A,Poaceae,,Ventenata,,"dubia",,"","(Leers) Coss.",Synonym,,M,TRO,25510041,,"Expl. Sci. Algérie","2: 104","104","1855",kew-449601
+kew-449602,A,Poaceae,,Ventenata,,"dubia",f.,"violascens","Soó",Synonym,,L,WCSP,449602,883269-1,"Acta Bot. Acad. Sci. Hung.","17: 120","","1971 publ. 1972",kew-449601
+kew-449603,A,Poaceae,,Ventenata,,"eigiana",,"","(H.Scholz & Raus) Dogan",Accepted,,H,WCSP,449603,,"Fl. Turkey","9: 318","","1985",
+kew-449604,A,Poaceae,,Ventenata,,"huber-morathii",,"","(Dogan) D.Heller",Accepted,,H,WCSP,449604,975666-1,"Consp. Fl. Orient.","6: 93","","1991",
+kew-449605,A,Poaceae,,Ventenata,,"macra",,"","(Steven) Balansa ex Boiss.",Accepted,,H,WCSP,449605,426313-1,"Fl. Orient.","5: 540","","1884",
+kew-449606,A,Poaceae,,Ventenata,,"quercetorum",,"","Boiss. & Bal.",Accepted,,H,WCSP,449606,,"Diagn. Pl. Orient.","II, 4: 130","","1859",
+tro-25542383,A,Poaceae,,Ventenata,,"quercetorum",,"","Boiss. & Balansa",Synonym,,M,TRO,25542383,,"","","","",kew-449606
+kew-449607,A,Poaceae,,Ventenata,,"sorgerae",,"","(Dogan) D.Heller",Accepted,,H,WCSP,449607,975667-1,"Consp. Fl. Orient.","6: 93","","1991",
+kew-449608,A,Poaceae,,Ventenata,,"subenervis",,"","Boiss. & Balansa",Accepted,,H,WCSP,449608,426315-1,"Bull. Soc. Bot. France","4: 305","","1857",
+kew-449609,A,Poaceae,,Ventenata,,"triflora",,"","F.W.Schultz ex Nyman",Synonym,Invalid,H,WCSP,449609,426316-1,"Consp. Fl. Eur.","815","","1882",kew-449601

@@ -1,0 +1,46 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-280491,A,Amaryllidaceae,,Leucojum,,"aestivum",,"","L.",Accepted,,H,WCSP,280491,65743-1,"Syst. Nat. ed. 10","2: 975","","1759",
+kew-309097,A,Amaryllidaceae,,Leucojum,,"aestivum",subsp.,"aestivum","",Synonym,,L,WCSP,309097,,"Unknown","","","",kew-280491
+kew-280127,A,Amaryllidaceae,,Leucojum,,"aestivum",subsp.,"pulchellum","(Salisb.) Briq.",Accepted,,L,WCSP,280127,,"Fl. Cors. Prodr.","1: 323","","1910",
+kew-280490,A,Amaryllidaceae,,Leucojum,,"auctumnale",,"","J.F.Gmel.",Synonym,Spelling variant,H,WCSP,280490,65744-1,"Syst. Nat.","534","","1791",kew-293461
+kew-280489,A,Amaryllidaceae,,Leucojum,,"autumnale",,"","L.",Synonym,,H,WCSP,280489,65745-1,"Sp. Pl.","289","","1753",kew-293461
+kew-310960,A,Amaryllidaceae,,Leucojum,,"autumnale",var.,"oporanthum","(Jord. & Fourr.) Maire",Synonym,,L,WCSP,310960,,"Cat. Pl. Maroc","870","","1934",kew-293461
+kew-310959,A,Amaryllidaceae,,Leucojum,,"autumnale",var.,"pulchellum","(Jord. & Fourr.) Maire",Synonym,,L,WCSP,310959,,"Cat. Pl. Maroc","870","","1934",kew-293461
+kew-280480,A,Amaryllidaceae,,Leucojum,,"biflorum",,"","Larrañaga",Unresolved,,L,WCSP,280480,139159-2,"Escritos D. A. Larrañaga","2: 131","","1923",
+kew-280487,A,Hypoxidaceae,,Leucojum,,"capitulatum",,"","Lour.",Synonym,,H,WCSP,280487,65749-1,"Fl. Cochinch.","199","","1790",kew-281208
+kew-280990,A,Amaryllidaceae,,Leucojum,,"carpathicum",,"","(Sims) Sweet",Synonym,,H,WCSP,280990,907826-1,"Hort. Brit.","ed. 2: 516","","1830",kew-310253
+kew-281013,A,Amaryllidaceae,,Leucojum,,"fabrei",,"","Quézel & Girerd",Synonym,,H,WCSP,281013,939568-1,"Bull. Soc. Bot. France, Lett. Bot.","137: 78","","1990",kew-309231
+kew-280486,A,Amaryllidaceae,,Leucojum,,"fontianum",,"","Maire",Synonym,,H,WCSP,280486,65751-1,"Cat. Pl. Maroc","3: 870","","1934",kew-309234
+kew-280485,A,Amaryllidaceae,,Leucojum,,"grandiflorum",,"","DC.",Synonym,,H,WCSP,280485,65752-1,"Liliac.","4: t. 217","","1808",kew-309235
+kew-280484,A,Amaryllidaceae,,Leucojum,,"hernandezii",,"","Cambess.",Synonym,,H,WCSP,280484,65754-1,"Mém. Mus. Hist. Nat.","14: 315","","1827",kew-280127
+kew-280483,A,Amaryllidaceae,,Leucojum,,"hyemale",,"","DC.",Synonym,Illegitimate,H,WCSP,280483,,"Fl. Franç.","5: 326","","1815",kew-293467
+kew-335015,A,Amaryllidaceae,,Leucojum,,"ionicum",,"","Kit Tan, Mullaj, Sfikas & Strid",Synonym,,H,WCSP,335015,77065087-1,"Fysi","107: 40","","2004",kew-345661
+kew-280482,A,Amaryllidaceae,,Leucojum,,"longifolium",,"","(J.Gay ex M.Roem.) Gren.",Synonym,,H,WCSP,280482,65756-1,"Fl. France","3: 252","","1855",kew-293464
+kew-280536,A,Amaryllidaceae,,Leucojum,,"nebrodense",,"","(Lojac.) Traub",Synonym,,H,WCSP,280536,65757-1,"Pl. Life","9: 68","","1953",kew-280568
+kew-280470,A,Amaryllidaceae,,Leucojum,,"nicaeense",,"","Ardoino",Synonym,,H,WCSP,280470,65758-1,"Fl. Anal. Alpes-Mar.","371","","1867",kew-309233
+kew-280515,A,Amaryllidaceae,,Leucojum,,"pulchellum",,"","Salisb.",Synonym,,H,WCSP,280515,65759-1,"Parad. Lond.","t. 74","","1808",kew-280127
+kew-280576,A,Amaryllidaceae,,Leucojum,,"roseum",,"","F.Martin bis",Synonym,,H,WCSP,280576,,"Biblioth. Phys.-Écon.","II, 3: 344","","1804",kew-293467
+kew-280575,A,Amaryllidaceae,,Leucojum,,"strumosum",,"","Aiton",Synonym,,H,WCSP,280575,65761-1,"Hort. Kew.","1: 407","","1789",kew-287887
+kew-280574,A,Amaryllidaceae,,Leucojum,,"tingitanum",,"","Baker",Synonym,,H,WCSP,280574,65762-1,"J. Linn. Soc., Bot.","16: 678","","1878",kew-309234
+kew-280571,A,Amaryllidaceae,,Leucojum,,"trichophyllum",,"","Brot.",Synonym,Illegitimate,H,WCSP,280571,65765-1,"Fl. Lusit.","1: 552","","1804",kew-309235
+kew-280572,A,Amaryllidaceae,,Leucojum,,"trichophyllum",,"","Schousb.",Synonym,,H,WCSP,280572,65764-1,"Iagttag. Vextrig. Marokko","154","","1800",kew-309235
+kew-280573,A,Amaryllidaceae,,Leucojum,,"trichophyllum",,"","Rchb.",Synonym,Illegitimate,H,WCSP,280573,,"Iconogr. Bot. Pl. Crit.","8: 703","","1830",kew-293464
+kew-310876,A,Amaryllidaceae,,Leucojum,,"trichophyllum",var.,"biflorum","DC.",Synonym,,L,WCSP,310876,,"Liliac.","3: t. 150","","1806",kew-309235
+kew-280946,A,Amaryllidaceae,,Leucojum,,"trichophyllum",var.,"broteri","(Jord. & Fourr.) Valdés",Synonym,,L,WCSP,280946,953094-1,"Lagascalia","14: 176","","1986",kew-309235
+kew-310958,A,Amaryllidaceae,,Leucojum,,"trichophyllum",f.,"broteroi","(Jord. & Fourr.) Maire & Weiller",Synonym,,L,WCSP,310958,,"in Fl. Afr. Nord","6: 15","","1959 publ. 1960",kew-309235
+kew-310878,A,Amaryllidaceae,,Leucojum,,"trichophyllum",var.,"grandiflorum","(DC.) Willk.",Synonym,,L,WCSP,310878,,"Ill. Fl. Hispan.","2: t. 93, f. B","","1886",kew-309235
+kew-350177,A,Amaryllidaceae,,Leucojum,,"trichophyllum",subsp.,"grandiflorum","(DC.) K.Richt.",Synonym,,L,WCSP,350177,,"Pl. Eur.","1: 235","","1890",kew-309235
+kew-309554,A,Amaryllidaceae,,Leucojum,,"trichophyllum",var.,"micranthum","Gattef. & Maire",Synonym,,L,WCSP,309554,60436221-2,"Bull. Soc. Hist. Nat. Afrique N.","31: 42","","1940",kew-309235
+kew-310957,A,Amaryllidaceae,,Leucojum,,"trichophyllum",subsp.,"micranthum","(Gattef. & Maire) Maire & Weiller",Synonym,,L,WCSP,310957,,"in Fl. Afr. Nord","6: 15","","1959 publ. 1960",kew-309235
+kew-310919,A,Amaryllidaceae,,Leucojum,,"trichophyllum",f.,"purpurascens","Maire",Synonym,,L,WCSP,310919,,"Bull. Soc. Hist. Nat. Afrique N.","20: 38","","1929",kew-309235
+kew-310877,A,Amaryllidaceae,,Leucojum,,"trichophyllum",var.,"uniflorum","DC.",Synonym,,L,WCSP,310877,,"Liliac.","3: t. 150","","1806",kew-293467
+kew-280570,A,Amaryllidaceae,,Leucojum,,"valentinum",,"","Pau",Synonym,,H,WCSP,280570,65766-1,"Bol. Soc. Aragonesa Ci. Nat.","13: 42","","1914",kew-309238
+kew-280569,A,Amaryllidaceae,,Leucojum,,"vernale",,"","Salisb.",Synonym,,H,WCSP,280569,65767-1,"Prodr. Stirp. Chap. Allerton","219","","1796",kew-280568
+kew-280568,A,Amaryllidaceae,,Leucojum,,"vernum",,"","L.",Accepted,,H,WCSP,280568,65769-1,"Sp. Pl.","289","","1753",
+kew-342019,A,Amaryllidaceae,,Leucojum,,"vernum",var.,"biflorum","Simonk.",Synonym,,L,WCSP,342019,,"Bot. Közlem.","14: 135","","1879",kew-280568
+kew-280923,A,Amaryllidaceae,,Leucojum,,"vernum",subsp.,"carpathicum","(Sims) K.Richt.",Synonym,,L,WCSP,280923,,"Pl. Eur.","1: 234","","1890",kew-310253
+kew-310253,A,Amaryllidaceae,,Leucojum,,"vernum",var.,"carpathicum","Sims",Accepted,,L,WCSP,310253,,"Bot. Mag.","45: t. 1993","","1818",
+tro-1201768,A,Amaryllidaceae,,Leucojum,,"vernum",subsp.,"carpathicum","Sweet",Synonym,,L,TRO,1201768,,"","","","",kew-280568
+kew-310880,A,Amaryllidaceae,,Leucojum,,"vernum",var.,"transsilvanicum","Porcius",Synonym,,L,WCSP,310880,,"Analele Acad. Române","II, 14: 274","","1893",kew-280568
+kew-310881,A,Amaryllidaceae,,Leucojum,,"vernum",var.,"vagneri","Stapf",Synonym,,L,WCSP,310881,,"Sched. Fl. Exs. Austro-Hung.","4: 86","","1886",kew-280568
+kew-310879,A,Amaryllidaceae,,Leucojum,,"vernum",var.,"vernum","",Synonym,,L,WCSP,310879,,"Unknown","","","",kew-280568

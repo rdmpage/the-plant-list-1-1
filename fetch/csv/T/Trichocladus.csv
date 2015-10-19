@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-15100009,A,Hamamelidaceae,,Trichocladus,,"crinitus",,"","Pers.",Accepted,,M,TRO,15100009,,"","","","",
+kew-2443020,A,Hamamelidaceae,,Trichocladus,,"dentatus",,"","Hutch.",Unresolved,,L,WCSP (in review),,430781-1,"Bull. Misc. Inform. Kew","1933: 430","","1933",
+kew-2443021,A,Hamamelidaceae,,Trichocladus,,"ecklonianus",,"","C.Presl",Unresolved,,L,WCSP (in review),,430782-1,"Abh. Königl. Böhm. Ges. Wiss.","V, 3: 505","","1845",
+kew-2443022,A,Hamamelidaceae,,Trichocladus,,"ellipticus",,"","Eckl. & Zeyh.",Accepted,,M,WCSP (in review),,430783-1,"Enum. Pl. Afric. Austral.","356","","1837",
+tro-50170050,A,Hamamelidaceae,,Trichocladus,,"ellipticus",subsp.,"ellipticus","",Synonym,,L,TRO,50170050,,"","","","",kew-2443022
+tro-15100048,A,Hamamelidaceae,,Trichocladus,,"ellipticus",subsp.,"malosanus","(Baker) Verdc.",Accepted,,L,TRO,15100048,,"Kew Bull.","24: 345","345","1970",
+tro-15100090,A,Hamamelidaceae,,Trichocladus,,"goetzei",,"","Engl.",Accepted,,M,TRO,15100090,430784-1,"Bot. Jahrb. Syst.","49: 455","455","1913",
+tro-15100014,A,Hamamelidaceae,,Trichocladus,,"grandiflorus",,"","Oliv.",Accepted,,M,TRO,15100014,,"","","","",
+tro-100351975,A,Hamamelidaceae,,Trichocladus,,"malosanus",,"","Baker",Synonym,,M,TRO,100351975,430786-1,"Bull. Misc. Inform. Kew","1897: 266","266","1897",tro-15100048
+tro-15100011,A,Hamamelidaceae,,Trichocladus,,"peltatus",,"","Meisn.",Synonym,,M,TRO,15100011,,"","","","",tro-15100009
+kew-2443026,A,Hamamelidaceae,,Trichocladus,,"verticillatus",,"","Eckl. & Zeyh.",Unresolved,,L,WCSP (in review),,430788-1,"Enum. Pl. Afric. Austral.","356","","1837",kew-2680970
+tro-15100012,A,Hamamelidaceae,,Trichocladus,,"vittatus",,"","Meisn.",Synonym,,M,TRO,15100012,,"","","","",tro-15100009

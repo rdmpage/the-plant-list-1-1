@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-14633,A,Compositae,,Hololeion,,"fauriei",,"","(H.Lév. & Vaniot) Kitam.",Accepted,,M,TICA,9DDE8948-0E8D-4BE9-A22A-1B2614292DB0,224987-1,"","","304","1941",
+gcc-13880,A,Compositae,,Hololeion,,"krameri",,"","(Franch. & Sav.) Kitam.",Accepted,,M,TICA,4D61AAF2-653E-4ED8-99AE-19CD60015E6C,,"","","302","1941",
+gcc-45272,A,Compositae,,Hololeion,,"maximowiczii",,"","Kitam.",Accepted,,M,TICA,FC57AFB9-2C22-44FE-8024-53E70B8CB042,224989-1,"","","303","1941",
+gcc-148770,A,Compositae,,Hololeion,,"maximowiczii",var.,"maximowiczii","",Synonym,,L,TICA,3CAB8741-19CE-4BD6-BAD0-4A3A74AE12FA,,"","","","",gcc-45272

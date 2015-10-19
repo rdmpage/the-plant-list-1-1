@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-22913,A,Euphorbiaceae,,Bonania,,"acunae",,"","Borhidi",Synonym,,H,WCSP,22913,34729-2,"Acta Bot. Acad. Sci. Hung.","22: 306","","1976 publ. 1977",kew-22916
+kew-22914,A,Euphorbiaceae,,Bonania,,"adenodon",,"","(Griseb.) Benth. & Hook.f.",Synonym,,H,WCSP,22914,339990-1,"Gen. Pl.","3: 335","","1880",kew-184232
+kew-22915,A,Euphorbiaceae,,Bonania,,"cubana",,"","A.Rich.",Accepted,,H,WCSP,22915,,"Hist. Fis. Cuba, Bot.","11: 201","","1850",
+kew-22916,A,Euphorbiaceae,,Bonania,,"cubana",subsp.,"acunae","(Borhidi) Borhidi",Accepted,,L,WCSP,22916,921836-1,"Acta Bot. Hung.","29: 183","","1983",
+kew-22917,A,Euphorbiaceae,,Bonania,,"cubana",subsp.,"cubana","",Synonym,,L,WCSP,22917,,"Unknown","","","",kew-22915
+kew-22918,A,Euphorbiaceae,,Bonania,,"cubana",subsp.,"microphylla","(Urb.) Borhidi",Accepted,,L,WCSP,22918,921837-1,"Acta Bot. Hung.","29: 183","","1983",
+kew-22919,A,Euphorbiaceae,,Bonania,,"cubensis",,"","A.Rich.",Synonym,,H,WCSP,22919,,"Hist. Fis. Cuba, Bot.","11: 201","","1850",kew-22915
+kew-22920,A,Euphorbiaceae,,Bonania,,"domingensis",,"","(Urb.) Urb.",Accepted,,H,WCSP,22920,34732-2,"Symb. Antill.","9: 215","","1924",
+kew-22921,A,Euphorbiaceae,,Bonania,,"elliptica",,"","Urb.",Accepted,,H,WCSP,22921,34733-2,"Symb. Antill.","9: 214","","1924",
+kew-22922,A,Euphorbiaceae,,Bonania,,"elliptica",var.,"elliptica","",Synonym,,L,WCSP,22922,,"Unknown","","","",kew-22921
+kew-22923,A,Euphorbiaceae,,Bonania,,"elliptica",var.,"spinosa","(Urb.) Borhidi",Accepted,,L,WCSP,22923,921838-1,"Acta Bot. Hung.","29: 183","","1983",
+kew-22924,A,Euphorbiaceae,,Bonania,,"emarginata",,"","C.Wright ex Griseb.",Accepted,,H,WCSP,22924,339995-1,"Nachr. Ges. Wiss. Göttingen Jahresber.","1865: 78","","1865",
+kew-22925,A,Euphorbiaceae,,Bonania,,"emarginata",subsp.,"emarginata","",Synonym,,L,WCSP,22925,,"Unknown","","","",kew-22924
+kew-22926,A,Euphorbiaceae,,Bonania,,"emarginata",subsp.,"nipensis","(Urb. & Ekman) Borhidi",Accepted,,L,WCSP,22926,921839-1,"Acta Bot. Hung.","29: 183","","1983",
+kew-22927,A,Euphorbiaceae,,Bonania,,"emarginata",subsp.,"suborbiculata","(Borhidi & Urbino) Borhidi",Accepted,,L,WCSP,22927,34736-2,"Acta Bot. Hung.","29: 183","","1983",
+kew-22928,A,Euphorbiaceae,,Bonania,,"erythrosperma",,"","(Griseb.) Benth. & Hook.f. ex B.D.Jacks.",Accepted,,H,WCSP,22928,,"Index Kew.","1: 321","","1895",
+kew-22929,A,Euphorbiaceae,,Bonania,,"linearifolia",,"","Urb. & Ekman",Accepted,,H,WCSP,22929,34737-2,"Ark. Bot.","22A(8): 63","","1929",
+kew-22930,A,Euphorbiaceae,,Bonania,,"microphylla",,"","Urb.",Synonym,,H,WCSP,22930,34738-2,"Symb. Antill.","3: 311","","1902",kew-22918
+kew-22931,A,Euphorbiaceae,,Bonania,,"myricifolia",,"","(Griseb.) Benth. & Hook.f.",Accepted,,H,WCSP,22931,339999-1,"Gen. Pl.","3: 335","","1880",
+kew-22932,A,Euphorbiaceae,,Bonania,,"nipensis",,"","Urb. & Ekman",Synonym,,H,WCSP,22932,34739-2,"Repert. Spec. Nov. Regni Veg.","28: 231","","1930",kew-22926
+kew-22933,A,Euphorbiaceae,,Bonania,,"spinosa",,"","Urb.",Synonym,,H,WCSP,22933,34740-2,"Symb. Antill.","9: 215","","1924",kew-22923
+kew-22934,A,Euphorbiaceae,,Bonania,,"suborbiculata",,"","Borhidi & Urbino",Synonym,,H,WCSP,22934,34741-2,"Acta Bot. Acad. Sci. Hung.","22: 305","","1976 publ. 1977",kew-22927

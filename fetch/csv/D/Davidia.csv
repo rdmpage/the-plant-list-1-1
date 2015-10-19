@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-56610,A,Cornaceae,,Davidia,,"involucrata",,"","Baill.",Accepted,,H,WCSP,56610,430593-1,"Adansonia","10: 115","","1871",
+tro-8700506,A,Cornaceae,,Davidia,,"involucrata",var.,"involucrata","",Synonym,,L,TRO,8700506,,"","","","",kew-56610
+kew-56611,A,Cornaceae,,Davidia,,"involucrata",var.,"vilmoriniana","(Dode) Hemsl.",Synonym,,L,WCSP,56611,,"Bot. Mag.","138: t. 8432","","1912",kew-56610
+kew-56612,A,Cornaceae,,Davidia,,"involucrata",subsp.,"vilmoriniana","(Dode) Holub",Synonym,,L,WCSP,56612,922043-1,"Folia Geobot. Phytotax.","18: 205","","1983",kew-56610
+tro-8700170,A,Cornaceae,,Davidia,,"involucrata",var.,"vilmoriniana","(Dode) Wangerin",Synonym,,L,TRO,8700170,,"Pflanzenr.","41(IV.220a): 17, 19","17","1910",kew-56610
+kew-56613,A,Cornaceae,,Davidia,,"laeta",,"","Dode",Synonym,,H,WCSP,56613,271741-1,"Rev. Hort.","80: 407","","1908",kew-56610
+kew-56614,A,Cornaceae,,Davidia,,"tibetana",,"","David",Synonym,,H,WCSP,56614,,"Nouv. Arch. Mus. Hist. Nat.","II, 5: 56","","1882",kew-56610
+kew-56615,A,Cornaceae,,Davidia,,"vilmoriniana",,"","Dode",Synonym,,H,WCSP,56615,271742-1,"Rev. Hort.","80: 406","","1908",kew-56610

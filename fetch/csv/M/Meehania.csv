@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-123274,A,Lamiaceae,,Meehania,,"cordata",,"","(Nutt.) Britton",Accepted,,H,WCSP,123274,,"Mem. Torrey Bot. Club","4: 147","","1893",
+kew-123275,A,Lamiaceae,,Meehania,,"faberi",,"","(Hemsl.) C.Y.Wu",Accepted,,H,WCSP,123275,450009-1,"Acta Phytotax. Sin.","8: 17","","1959",
+kew-123276,A,Lamiaceae,,Meehania,,"fargesii",,"","(H.Lév.) C.Y.Wu",Accepted,,H,WCSP,123276,450010-1,"Acta Phytotax. Sin.","8: 12","","1959",
+kew-123277,A,Lamiaceae,,Meehania,,"fargesii",var.,"fargesii","",Synonym,,L,WCSP,123277,,"Unknown","","","",kew-123276
+kew-123278,A,Lamiaceae,,Meehania,,"fargesii",var.,"obtusata","T.Chen",Synonym,,L,WCSP,123278,951619-1,"Acta Bot. Yunnan.","12: 254","","1990",kew-123276
+kew-123279,A,Lamiaceae,,Meehania,,"fargesii",var.,"pedunculata","(Hemsl.) C.Y.Wu",Accepted,,L,WCSP,123279,,"Acta Phytotax. Sin.","8: 14","","1959",
+kew-123280,A,Lamiaceae,,Meehania,,"fargesii",var.,"pinetorum","(Hand.-Mazz.) C.Y.Wu",Accepted,,L,WCSP,123280,,"Acta Phytotax. Sin.","8: 15","","1959",
+kew-123281,A,Lamiaceae,,Meehania,,"fargesii",var.,"radicans","(Vaniot) C.Y.Wu",Accepted,,L,WCSP,123281,,"Acta Phytotax. Sin.","8: 13","","1959",
+kew-123282,A,Lamiaceae,,Meehania,,"henryi",,"","(Hemsl.) Y.Z.Sun ex C.Y.Wu",Accepted,,H,WCSP,123282,450011-1,"Acta Phytotax. Sin.","8: 15","","1959",
+kew-341189,A,Lamiaceae,,Meehania,,"henryi",var.,"henryi","",Synonym,,L,WCSP,341189,,"Unknown","","","",kew-123282
+kew-123283,A,Lamiaceae,,Meehania,,"henryi",var.,"kaitcheensis","(H.Lév.) C.Y.Wu",Accepted,,L,WCSP,123283,,"Acta Phytotax. Sin.","8: 16","","1959",
+kew-123284,A,Lamiaceae,,Meehania,,"henryi",var.,"stachydifolia","(H.Lév.) C.Y.Wu",Accepted,,L,WCSP,123284,,"Acta Phytotax. Sin.","8: 16","","1959",
+kew-123285,A,Lamiaceae,,Meehania,,"montis-koyae",,"","Ohwi",Accepted,,H,WCSP,123285,450012-1,"Acta Phytotax. Geobot.","2: 107","","1933",
+kew-123286,A,Lamiaceae,,Meehania,,"pinetorum",,"","(Hand.-Mazz.) Kudô",Synonym,,H,WCSP,123286,450013-1,"Mem. Fac. Sci. Taihoku Imp. Univ.","2: 224","","1929",kew-123280
+kew-123287,A,Lamiaceae,,Meehania,,"pinfaensis",,"","(H.Lév.) Y.Z.Sun ex C.Y.Wu",Accepted,,H,WCSP,123287,450014-1,"Acta Phytotax. Sin.","8: 17","","1959",
+kew-123288,A,Lamiaceae,,Meehania,,"radicans",,"","(Vaniot) A.L.Budantzev",Synonym,,H,WCSP,123288,971890-1,"Bot. Zhurn. (Moscow & Leningrad)","77(12): 123","","1992 publ. 1993",kew-123281
+kew-123289,A,Lamiaceae,,Meehania,,"simplex",,"","(Vaniot) Hand.-Mazz.",Synonym,Invalid,H,WCSP,123289,450016-1,"Symb. Sin.","7: 916","","1936",kew-123280
+kew-123290,A,Lamiaceae,,Meehania,,"urticifolia",,"","(Miq.) Makino",Accepted,,H,WCSP,123290,450017-1,"Bot. Mag. (Tokyo)","13: 159","","1899",
+kew-454048,A,Lamiaceae,,Meehania,,"urticifolia",var.,"angustifolia","(Dunn) Hand.-Mazz.",Synonym,,L,WCSP,454048,,"Symb. Sin.","7: 916","","1936",kew-123287
+kew-454049,A,Lamiaceae,,Meehania,,"urticifolia",var.,"faberi","(Hemsl.) Kudô",Synonym,,L,WCSP,454049,,"Mem. Fac. Sci. Taihoku Imp. Univ.","2: 223","","1929",kew-123275
+kew-454050,A,Lamiaceae,,Meehania,,"urticifolia",var.,"henryi","(Hemsl.) Kudô",Synonym,,L,WCSP,454050,,"Mem. Fac. Sci. Taihoku Imp. Univ.","2: 224","","1929",kew-123282
+kew-454051,A,Lamiaceae,,Meehania,,"urticifolia",var.,"pedunculata","(Hemsl.) Kudô",Synonym,,L,WCSP,454051,,"Mem. Fac. Sci. Taihoku Imp. Univ.","2: 223","","1929",kew-123279
+kew-454052,A,Lamiaceae,,Meehania,,"urticifolia",var.,"pinetorum","(Hand.-Mazz.) Hand.-Mazz.",Synonym,,L,WCSP,454052,,"Symb. Sin.","7: 916","","1936",kew-123280
+kew-454046,A,Lamiaceae,,Meehania,,"urticifolia",f.,"racemosa","(Dunn) Hand.-Mazz.",Synonym,,L,WCSP,454046,,"Beih. Bot. Centralbl.","56B(3): 458","","1937",kew-123290
+kew-454047,A,Lamiaceae,,Meehania,,"urticifolia",f.,"radicans","(Dunn) Hand.-Mazz.",Synonym,,L,WCSP,454047,,"Symb. Sin.","7: 916","","1936",kew-123290
+kew-123291,A,Lamiaceae,,Meehania,,"urticifolia",f.,"rosea","J.Ohara",Synonym,,L,WCSP,123291,948775-1,"J. Phytogeogr. Taxon.","33: 72","","1985",kew-123290

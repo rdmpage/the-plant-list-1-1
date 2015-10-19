@@ -1,0 +1,554 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-134827,A,Compositae,,Tanacetum,,"abrotanifolium",,"","(L.) Druce",Accepted,,L,TICA,E51A2EA4-2712-4863-946C-E89EAA292A5B,252207-1,"","","425","1914",
+gcc-83143,A,Compositae,,Tanacetum,,"abrotanoides",,"","K.Bremer & Humphries",Accepted,,M,TICA,84D8F952-5CF5-4999-BA74-73AA8ECD76E0,975079-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 101 (1993), nom. nov.:.""","","101","1993",
+gcc-153616,A,Compositae,,Tanacetum,,"absinthium",,"","L.",Accepted,,M,TICA,A5C07FAA-5704-4DE9-B4C6-B1ECCF97C6FC,,"","","","",
+gcc-136917,A,Compositae,,Tanacetum,,"achillea",,"","Sch.Bip.",Accepted,,L,TICA,02F83AD4-9E05-4D3D-BCA9-ED54631CEC58,,"","","","",
+gcc-101472,A,Compositae,,Tanacetum,,"achilleifolium",,"","(M.Bieb.) Sch.Bip.",Accepted,,M,TICA,7308A24E-EFAE-4E22-BA7B-9CDEDD2A5A7F,252209-1,"","","47","1844",
+gcc-104610,A,Compositae,,Tanacetum,,"achilleoides",,"","(Turcz.) DC.",Synonym,,M,TICA,9B93F074-878D-4779-B4F2-A3DBF76B8137,,"Prodr. (DC.) 6: 130","","130","",gcc-128529
+gcc-128640,A,Compositae,,Tanacetum,,"acutilobum",,"","DC.",Synonym,,M,TICA,112AD2E0-0C80-4448-BAE4-DA79C4A21B0F,252211-1,"Prodr. (DC.) 6: 132","","132","1838",gcc-14255
+gcc-32042,A,Compositae,,Tanacetum,,"adenanthum",,"","Diels",Synonym,,M,TICA,A2E7D0EE-33CF-44A5-8A9B-3B58095B5D0E,,"Notes Roy. Bot. Gard. Edinburgh 5: 197","","","1912",gcc-98125
+gcc-32759,A,Compositae,,Tanacetum,,"aegyptiacum",,"","Juss. ex Jacq.",Synonym,,M,TICA,E49A5873-2F30-45DB-A18C-3CBDE67BA1DF,,"","","46","",gcc-31768
+gcc-42524,A,Compositae,,Tanacetum,,"affine",,"","Simonk.",Unresolved,,L,TICA,9C8C45FE-8CF3-4F40-A192-4EC188149811,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-76418,A,Compositae,,Tanacetum,,"afghanicum",,"","(Gilli) Podlech",Accepted,,M,TICA,E1B921F7-4365-4CF1-A9DA-64A9A85BA566,942804-1,"""in Fl. Iran., 158: 127 (1986):.""","","127","1986",
+gcc-77639,A,Compositae,,Tanacetum,,"akinfiewii",,"","(Alex.) Tzvelev",Accepted,,M,TICA,E1ED261F-886B-4159-A533-675280B96C36,,"","","357","1961",
+gcc-110090,A,Compositae,,Tanacetum,,"alashanense",,"","Ling",Synonym,,L,TICA,0F4CF87B-9F1B-454D-B5DC-B010F7D83A16,252216-1,"Contr. Inst. Bot. Natl. Acad. Peiping 2: 502","","502","1934",gcc-80616
+gcc-128877,A,Compositae,,Tanacetum,,"alatavicum",,"","Herder",Accepted,,M,TICA,58918342-FF85-4ABC-AC42-DB0834266755,252217-1,"in Bull. Soc. Nat. Mosc. xl. (1867) II. 129","","129","1867",
+gcc-211,A,Compositae,,Tanacetum,,"alaunicum",,"","Koso-Pol.",Unresolved,,L,TICA,8C1FDEBF-C9BA-4EE0-9A19-00613D0F773F,252218-1,"""in Del. Sem. Hort. Bot. Univ. Voroneg. ii. 30 (1930); cf. Tzvelev in Komarov,Fl. URSS, xxvi. 377 (1961).""","","ii. 30","1930",
+gcc-88181,A,Compositae,,Tanacetum,,"albidum",,"","DC.",Synonym,,M,TICA,2E084A89-6FDE-4752-8243-7EE19DF81654,252219-1,"Prodr. (DC.) 6: 132","","132","1838",gcc-4839
+gcc-119153,A,Compositae,,Tanacetum,,"albipannosum",,"","Hub.-Mor. & Grierson",Unresolved,,L,TICA,837AEF7F-C62F-4687-8DAE-C48D58EA8909,252220-1,"","","259","1974",
+gcc-126964,A,Compositae,,Tanacetum,,"alpestre",,"","Pall. ex Ledeb.",Unresolved,,L,TICA,A9E362D9-0CCA-4E94-80F7-D67F75D71D6E,252221-1,"Fl. Ross. ii. 602.","","ii. 602","",
+gcc-107410,A,Compositae,,Tanacetum,,"alpinum",,"","(L.) Sch.Bip.",Synonym,,M,TICA,C58C5289-0F40-4C87-8B8B-AA006313E784,252222-1,"","","61","1844",gcc-8447
+gcc-99326,A,Compositae,,Tanacetum,,"alpinum",,"","Simonk.",Unresolved,,L,TICA,2208BA7B-3F1C-4BA9-9953-982052EE499C,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-147071,A,Compositae,,Tanacetum,,"alpinum",var.,"alpinum","",Synonym,,L,TICA,2091485A-270F-43B1-A5D3-25D1703720EB,,"","","","",gcc-8447
+gcc-153857,A,Compositae,,Tanacetum,,"alpinum",subsp.,"alpinum","",Synonym,,L,TICA,9F4E6964-1478-4ABF-9D08-B69AF98BAE90,,"","","","",gcc-8447
+gcc-60548,A,Compositae,,Tanacetum,,"alpinum",subsp.,"cuneatum","(Pau) Heywood",Synonym,,L,TICA,43763FD9-290A-485A-86D2-9F1DEA4670FA,,"Heywood in Anales Inst. Bot. Cavanilles 12(2). 1954.","","369","1954",gcc-63332
+gcc-103285,A,Compositae,,Tanacetum,,"alyssifolium",,"","(Bornm.) Grierson",Accepted,,M,TICA,B48CEC16-888D-4438-979E-A0F02F4F6E88,252224-1,"","","434","1975",
+gcc-124921,A,Compositae,,Tanacetum,,"angulatum",,"","Willd.",Synonym,,M,TICA,8F8F6D95-C04C-4C9D-8512-D1D5C91D60A2,252225-1,"Sp. Pl. iii. 1811.","","iii.","1811",gcc-139741
+gcc-103268,A,Compositae,,Tanacetum,,"annuum",,"","L.",Accepted,,M,TICA,E6B4FF59-7D86-44D5-A71B-A0E52D47663A,,"","","","1753",
+gcc-110132,A,Compositae,,Tanacetum,,"apbanassievii",,"","Krasch.",Unresolved,,L,TICA,C4B4531B-2503-47FA-8147-B0296FF3E725,252227-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 168 (1946).""","","ix. 168","1946",
+gcc-39681,A,Compositae,,Tanacetum,,"archibadii",,"","Podlech",Accepted,,M,TICA,3F08C9BB-113E-4F0F-B1B4-49A0A30B17F3,929862-1,"""in Fl. Iran., 158: 105 (1986)""","","105","1986",
+gcc-107578,A,Compositae,,Tanacetum,,"arcticum",,"","Sch.Bip.",Unresolved,,L,TICA,BF1A671B-799E-4ECD-A43B-AA5FE65BCF2D,252228-1,"Tanacet. 35.","","35","",
+gcc-85897,A,Compositae,,Tanacetum,,"arctodzhungaricum",,"","(Golosk.) K.Bremer & Humphries",Accepted,,M,TICA,11D22CD0-C10B-46AE-B5E9-79B906591E28,975080-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 101 (1993):.""","","101","1993",
+gcc-42910,A,Compositae,,Tanacetum,,"aresbium",,"","W.W.Sm.",Unresolved,,L,TICA,E5BF18DD-6A73-4C56-9A90-4F7DEC61942A,,"","","","",
+gcc-124048,A,Compositae,,Tanacetum,,"argenteum",,"","(Lam.) Willd.",Accepted,,L,TICA,4979E4FD-37C8-42A0-B03B-CFCE952BAA50,,"","","","1789",
+gcc-154691,A,Compositae,,Tanacetum,,"argenteum",var.,"argenteum","",Synonym,,L,TICA,251A1CB8-68C9-4652-9217-C9084F15E1B8,,"","","","",gcc-124048
+gcc-67694,A,Compositae,,Tanacetum,,"argenteum",subsp.,"argenteum","",Synonym,,L,TICA,B09F06F3-4E18-4FE6-8412-D93AD231DF01,,"","","","",gcc-124048
+gcc-65607,A,Compositae,,Tanacetum,,"argenteum",subsp.,"canum","(K.Koch) Grierson",Accepted,,L,TICA,2FAD82E1-4D6A-4DD3-8ED6-C81039884BE6,878388-1,"","","427","1975",
+gcc-63368,A,Compositae,,Tanacetum,,"argenteum",subsp.,"flabellifolium","(Boiss. & Heldr.) Grierson",Accepted,,L,TICA,A29213AB-4E10-4820-9CEC-B653EDF12CFE,878389-1,"","","434","1975",
+gcc-86539,A,Compositae,,Tanacetum,,"argyranthemoides",,"","Sch.Bip.",Accepted,,M,TICA,23F67293-991F-4E43-B3DC-7B2192C27639,252231-1,"in Pollichia xx-xxi. (1863) 444.","","xx-xxi.  444","1863",
+gcc-91179,A,Compositae,,Tanacetum,,"argyreum",,"","DC.",Synonym,,M,TICA,16BF2D11-8D8D-467A-A2D7-85C2027252C0,252230-1,"Prodr. (DC.) 6: 134","","134","1838",gcc-87443
+gcc-105763,A,Compositae,,Tanacetum,,"argyrophyllum",,"","(K.Koch) Tzvelev",Synonym,,M,TICA,78A60806-58A2-4993-BDD4-A640A18453FD,252232-1,"","","121","1966",gcc-72423
+gcc-145429,A,Compositae,,Tanacetum,,"argyrophyllum",var.,"argyrophyllum","",Synonym,,L,TICA,7423C122-AC20-46B5-B5B5-03E2215FF3A0,,"","","","",gcc-72423
+gcc-112042,A,Compositae,,Tanacetum,,"arisanense",,"","Kitam.",Synonym,Illegitimate,M,TICA,DEA933BF-A8FB-4189-AAF8-B480063B4D89,,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II). 364 (1940), in syn.""","","","1940",gcc-103923
+gcc-122061,A,Compositae,,Tanacetum,,"armenum",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,7F3EFFC1-B2AC-4471-9C40-CB2B3F2E90E4,252233-1,"","","35","1844",
+gcc-140606,A,Compositae,,Tanacetum,,"aromaticum",,"","(Tzvelev) K.Bremer & Humphries",Unresolved,,L,TICA,0A32ADCE-2DB9-4FED-8280-F571606257A9,975081-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 101 (1993):.""","","101","1993",gcc-4885
+gcc-45080,A,Compositae,,Tanacetum,,"artemisioides",,"","Sch.Bip. ex Hook.f.",Accepted,,M,TICA,C253F2A0-91CA-4C42-8DC0-538F0A3EB208,252234-1,"Fl. Brit. Ind. iii. 318.","","318","1881",
+gcc-105937,A,Compositae,,Tanacetum,,"atkinsonii",,"","(C.B.Clarke) Kitam.",Accepted,,M,TICA,F7882565-51CA-477A-9D97-A6AFBDA3AEEF,911529-1,"","","45","1982",
+gcc-34519,A,Compositae,,Tanacetum,,"atratum",,"","Sch.Bip.",Unresolved,,L,TICA,2D4BDDC9-7D0E-4E62-8BEB-3FF8D42BECC7,252235-1,"Tanacet. 62.","","62","",
+gcc-44535,A,Compositae,,Tanacetum,,"aucheri",,"","DC.",Accepted,,M,TICA,5847670C-ACD1-4C10-8C5D-5283BE2B4784,252236-1,"","","298","1838",
+gcc-123675,A,Compositae,,Tanacetum,,"aucherianum",,"","Sch.Bip.",Accepted,,M,TICA,19FEEEF2-124B-4C87-96EA-CEE207979E4C,252237-1,"","","","1844",
+gcc-137009,A,Compositae,,Tanacetum,,"audibertii",,"","(Req.) DC.",Accepted,,M,TICA,59A4C18E-B192-47ED-A609-ED7BDB105838,,"","","131","",
+gcc-127856,A,Compositae,,Tanacetum,,"aureoglobosum",,"","W.W.Sm. & Farrer",Synonym,,M,TICA,55067AF2-406F-41D7-8DD4-D8ADDA8E2BCB,252239-1,"Notes Roy. Bot. Gard. Edinburgh 9: 133","","133","1916",gcc-48822
+gcc-2298,A,Compositae,,Tanacetum,,"aureum",,"","(Lam.) Greuter & al.",Accepted,,M,TICA,D1A88542-4774-48C9-9139-042AB1573405,,"Greuter & al. in Taxon 54. 2005.","","156","2005",
+gcc-37156,A,Compositae,,Tanacetum,,"aureum",,"","(Lam.) ""Greuter, M.V.Agab. & Wagenitz""",Unresolved,,L,TICA,1455DD6D-7B70-4729-965C-44D6DA0C2D84,77065728-1,"Taxon 54(1): 156. 2005 [8 Mar 2005]","","156","2005",
+gcc-142077,A,Compositae,,Tanacetum,,"auriculatum",,"","Simonk.",Unresolved,,L,TICA,968270D5-C17D-41C4-BEFD-F8D9EFC48DDB,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-17690,A,Compositae,,Tanacetum,,"axillare",,"","Thunb.",Synonym,,M,TICA,45845A56-CB61-49E9-A927-20A5311B74BE,252241-1,"Prodr. Pl. Cap. 147.","","147","",gcc-76976
+gcc-118352,A,Compositae,,Tanacetum,,"bachtiaricum",,"","Mozaff.",Unresolved,,L,TICA,FB582C78-0944-4771-BF44-C2B94E37D6B5,,"Iranian J. Bot. 11(1): 117 (-119; fig. 1). 2005","","","",
+gcc-15164,A,Compositae,,Tanacetum,,"bajacalifornicum",,"","Moran",Synonym,,M,TICA,39D62034-1D88-4C17-A985-1C1624B51358,,"","","","1969",gcc-80356
+gcc-112746,A,Compositae,,Tanacetum,,"balsamita",,"","L.",Accepted,,M,TICA,19EFD235-BAAA-458D-9050-B624F633333E,249302-2,"Sp. Pl.","","845","1753",
+gcc-145409,A,Compositae,,Tanacetum,,"balsamita",subsp.,"balsamita","",Synonym,,L,TICA,08858DCA-327F-4BA6-BEF8-038F4D1668D7,,"","","","",gcc-112746
+gcc-153115,A,Compositae,,Tanacetum,,"balsamita",var.,"balsamita","",Synonym,,L,TICA,BB403038-EE7D-4E39-9E48-A780F352010F,,"","","","",gcc-112746
+gcc-62527,A,Compositae,,Tanacetum,,"balsamita",subsp.,"balsamitoides","(Sch.Bip.) Grierson",Synonym,,L,TICA,9CE87076-1882-42CD-9B37-AF94630716A1,878393-1,"","","434","1975",gcc-112746
+gcc-115601,A,Compositae,,Tanacetum,,"balsamitoides",,"","(Nábe) Norrl.",Synonym,,M,TICA,A15A9D07-AE3C-487A-B45F-BC8F2D37EE86,,"""Biol. Zhurn. Armen. 43, 3 : 188 (1990)""","","188","1990",gcc-28262
+gcc-137583,A,Compositae,,Tanacetum,,"balsamitoides",,"","(Nabel.) Chandjian",Unresolved,,L,TICA,C741D15A-7F3E-40D6-8FC4-EEBD0C4BEB45,,"Biol. Zhurn. Armenii 43(3): 188 (1990):","","188","1990",
+gcc-28262,A,Compositae,,Tanacetum,,"balsamitoides",,"","Sch.Bip.",Accepted,,M,TICA,5D56C9F1-04A2-4E39-B006-34355CA5C977,252244-1,"","","51","1844",
+gcc-93868,A,Compositae,,Tanacetum,,"balsamitum",,"","St.-Lag.",Unresolved,,L,TICA,ACB83830-A3A8-44AD-92E3-8BAAAA0B3913,,"Ann. Soc. Bot. Lyon vii. (1880) 136","","136","",
+gcc-130421,A,Compositae,,Tanacetum,,"baltistanicum",,"","Podlech",Unresolved,,L,TICA,492F6D8C-B50B-445E-8F27-DE8636E848CC,958029-1,"Mitt. Bot. Staatssamml. München 29: 457 (1990)","","457","1990",
+gcc-132062,A,Compositae,,Tanacetum,,"bamianicum",,"","Podlech",Accepted,,M,TICA,B8CB0142-D26C-4D67-9D1B-E261AA956BD9,929863-1,"""in Fl. Iran., 158: 123 (1986)""","","123","1986",
+gcc-40202,A,Compositae,,Tanacetum,,"barclayanum",,"","DC.",Accepted,,M,TICA,12AB368E-F351-493B-89D9-4A8DE7D3EF58,,"Prodr. (DC.) 6: 128","","128","",
+gcc-144607,A,Compositae,,Tanacetum,,"bipinnatum",,"","(L.) Sch.Bip.",Accepted,,M,TICA,DBE81B38-F7EB-4E7F-86DF-FE8305D8510D,252247-1,"","","48","1844",
+gcc-19799,A,Compositae,,Tanacetum,,"bipinnatum",,"","(L.) Druce",Synonym,,M,TICA,6CBA543B-5005-4A47-A8CA-249F32E1EB57,252248-1,"","","425","1914",gcc-72423
+gcc-72673,A,Compositae,,Tanacetum,,"bipinnatum",subsp.,"bipinnatum","",Synonym,,L,TICA,3FB546EA-EE14-4C0B-BB7F-FFD903BBEDF8,,"","","","1957",gcc-144607
+gcc-57101,A,Compositae,,Tanacetum,,"bipinnatum",subsp.,"huronense","(Nutt.) Breitung",Synonym,,L,TICA,92031576-2F99-42F4-9171-83AE52AA4F85,249304-2,"American Midland Naturalist 58(1):","","66","1957",gcc-144607
+gcc-112809,A,Compositae,,Tanacetum,,"bocconii",,"","Sch.Bip.",Accepted,,M,TICA,F41E0350-EFA6-409A-8306-B64641705B38,252249-1,"Tanacet. 48.","","48","",
+gcc-137089,A,Compositae,,Tanacetum,,"boreale",,"","Nutt.",Unresolved,Illegitimate,L,TICA,80BCB855-3E24-4E5E-AAD1-EDA718338AD9,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 401""","","401","1841",
+gcc-13959,A,Compositae,,Tanacetum,,"boreale",,"","Fisch.ex",Unresolved,,L,TICA,30B89697-E04C-429F-94FB-19E9DE55D9D5,252250-1,"""in Link, Enum. Hort. Berol. ii. 313.""","","313","",
+gcc-23985,A,Compositae,,Tanacetum,,"boreale",,"","Fisch. ex DC.",Synonym,,M,TICA,33CA4C7F-692D-4DC2-A60A-2C53D0C2BAFD,252252-1,"Prodromus 6  1838","","128","1838",gcc-76001
+gcc-131829,A,Compositae,,Tanacetum,,"botschantzevii",,"","Kovalevsk.",Unresolved,,L,TICA,A1C20247-6F34-485A-887D-E1D32605D485,252253-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 36 (1961).","","xvi. 36","1961",gcc-135613
+gcc-142984,A,Compositae,,Tanacetum,,"brachanthemoides",,"","(C.Winkl.) Krasch.",Synonym,,M,TICA,31E13986-F79A-4A21-8C2A-FAE3EFF0896A,,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 175 (1933), in obs.""","","","1933",gcc-36218
+gcc-18633,A,Compositae,,Tanacetum,,"budjnurdense",,"","(Rech.f.) Tzvelev",Accepted,,M,TICA,E41DC56D-1F7D-4051-8B57-226E6189BC99,252255-1,"""Fl. URSS xxvi. 325 (1961), in obs.""","","""xxvi. 325 , in obs.""","1961",
+gcc-120729,A,Compositae,,Tanacetum,,"bulbosum",,"","Hand.-Mazz.",Synonym,,M,TICA,BF719DE3-D709-49D8-91D2-C839015A0E83,,"""in Anz. Akad. Wiss. Wien, Math.-Nat. 1924, lxi. 202 (1925).""","","","1924",gcc-93407
+gcc-80695,A,Compositae,,Tanacetum,,"burchellii",,"","DC.",Synonym,,M,TICA,20C9AEF9-648A-4E2E-892E-6E23BECEE5F3,252257-1,"Prodr. (DC.) 6: 132","","132","1838",gcc-18237
+gcc-102603,A,Compositae,,Tanacetum,,"cadmeum",,"","(Boiss.) Heywood",Accepted,,M,TICA,2C03244A-7ADB-4E0C-B649-9F84BC67FD0A,252258-1,"","","58","1952",
+gcc-41615,A,Compositae,,Tanacetum,,"cadmeum",subsp.,"cadmeum","",Synonym,,L,TICA,CD5D2FF1-E4EE-49B6-9B71-4D0EC48756E7,,"","","","",gcc-102603
+gcc-2720,A,Compositae,,Tanacetum,,"camphoratum",,"","Less.",Synonym,,M,TICA,6867E795-ACA9-4B9C-BC41-04FD457823F7,,"Linnaea 6: 521. 1831","","","1831",gcc-144607
+gcc-101411,A,Compositae,,Tanacetum,,"canariense",,"","DC.",Synonym,,M,TICA,D9FE898C-A8DC-409B-9B88-9CB867B6184A,252260-1,"","","","1813",gcc-51116
+gcc-77488,A,Compositae,,Tanacetum,,"canescens",,"","DC.",Accepted,,M,TICA,0107A8C5-6A47-4A2F-8B44-6701B310B912,252261-1,"","","129","1838",
+gcc-44627,A,Compositae,,Tanacetum,,"canum",,"","D.C.Eaton",Synonym,,M,TICA,970918FC-88F7-45B8-9530-52AEBA84EA25,,"Botany [Fortieth Parallel]","","","1871",gcc-98494
+gcc-143287,A,Compositae,,Tanacetum,,"capense",,"","Burm.f.",Unresolved,,L,TICA,5D9DF56A-D89B-47EB-AB80-FB8C5C7A4FEF,,"Fl. Cap. Prod. 24.","","24","",
+gcc-142182,A,Compositae,,Tanacetum,,"capitatum",,"","(Nutt.) Torr. & A.Gray",Synonym,,M,TICA,A210B852-2B7F-4DB6-BBFA-F91AA30A1ABF,249307-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 415","","415","1843",gcc-76794
+gcc-34180,A,Compositae,,Tanacetum,,"capitatum",,"","Eaton",Unresolved,,L,TICA,FFA805D5-724C-4A2E-818E-3F5BAFECE3DB,,"","","","",
+gcc-129448,A,Compositae,,Tanacetum,,"cappadocicum",,"","(DC.) Sch.Bip.",Accepted,,L,TICA,6BA237B7-1566-4518-9AC2-DC47C98AEA26,252265-1,"","","","1844",
+gcc-39952,A,Compositae,,Tanacetum,,"capusi",,"","Franch.",Accepted,,M,TICA,8C931610-D056-41AF-BC33-4A27C950BC01,,"""Ann. Sci. Nat., Bot. sér. 6, 16: 308""","","308","1883",
+gcc-40118,A,Compositae,,Tanacetum,,"carneum",,"","Sch.Bip.",Unresolved,,L,TICA,C9D74429-8BC3-4587-83E7-4A6726755009,252267-1,"Tanacet. 58.","","58","",
+gcc-50265,A,Compositae,,Tanacetum,,"caucasicum",,"","Sch.Bip.",Accepted,,M,TICA,E4EAA180-588E-4E71-AFAF-5D3773085AB7,252268-1,"Tanacet. 60.","","60","",
+gcc-89241,A,Compositae,,Tanacetum,,"ceratophylloides",,"","Sch.Bip.",Unresolved,,L,TICA,2D033FC1-4C9D-41EF-AE87-8144A0715A10,252269-1,"Tanacet. 35.","","35","",
+gcc-20743,A,Compositae,,Tanacetum,,"chamomilloides",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,FE2137A0-E609-46D3-BE7E-265C6EA08788,252270-1,"""Index Linn. Herb. 142 (1912), nomen.""","","142","",
+gcc-28209,A,Compositae,,Tanacetum,,"changaicum",,"","(Krasch. ex Grubov) K.Bremer & Humphries",Unresolved,,L,TICA,1C4C7992-2DA9-4678-984F-342089727A83,975082-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",
+gcc-100891,A,Compositae,,Tanacetum,,"chiliophyllum",,"","(Fisch. & E.Mey. ex DC.) Sch.Bip.",Synonym,,M,TICA,56DE6F7A-E43A-4225-93D8-9B9EE46219BC,252271-1,"","","47","1844",gcc-2298
+gcc-112480,A,Compositae,,Tanacetum,,"chinense",,"","L.",Synonym,,M,TICA,E5850FE0-F33F-496C-9A86-B58AB0D0C760,,"IK (1818)","","","",gcc-41848
+gcc-139319,A,Compositae,,Tanacetum,,"chinense",,"","A.Gray ex Maxim.",Synonym,,M,TICA,5842AB5C-060D-4D17-858C-F279AA46CF78,,"in Bull. Acad. Petersb. xvii. (1872) 427.","","","1872",gcc-99632
+gcc-41415,A,Compositae,,Tanacetum,,"chitralense",,"","K.Bremer & Humphries",Unresolved,,L,TICA,F79E304B-1ADF-4862-BFD0-4CB3A75F29AF,975083-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):""","","102","1993",
+gcc-104523,A,Compositae,,Tanacetum,,"chrysanthemoides",,"","Gaertn.",Unresolved,,L,TICA,56DD8B54-9C83-4F65-92EA-A3B0238E015C,,"Fruct. Sem. Pl. ii. 396. t. 165","","396","",
+gcc-8932,A,Compositae,,Tanacetum,,"cilicicum",,"","(Boiss.) Grierson",Accepted,,M,TICA,391AE695-F095-4821-87D0-10B6E5D073D7,252274-1,"","","434","1975",
+gcc-12483,A,Compositae,,Tanacetum,,"cinerariifolium",,"","(Trevir.) Sch.Bip.",Accepted,,M,TICA,CE9185D6-540F-47E2-8B13-17452815C1B5,252275-1,"Tanaceteen 58 (1844)","","58","1844",
+gcc-93683,A,Compositae,,Tanacetum,,"cinereum",,"","(Delile) DC.",Synonym,,M,TICA,A134D766-A192-477B-8433-8B38B1410324,,"Prodr. (DC.) 6: 131","","","",gcc-18646
+gcc-126225,A,Compositae,,Tanacetum,,"clusii",,"","(Rchb.) Soják",Synonym,,M,TICA,D96E278D-ACA3-40A3-B0EF-D4D90F648861,,"""Sborn. Nar. Mus. v Praze, Rada B, Prir. Vedy 27, 2 : 50 (1972)""","","50","1972",gcc-62103
+gcc-83879,A,Compositae,,Tanacetum,,"coccineum",,"","(Willd.) Grierson",Accepted,,L,TICA,DA5240B3-C47B-4E49-AD9E-75394BE60266,252277-1,"","","262","1974",
+gcc-64851,A,Compositae,,Tanacetum,,"coccineum",subsp.,"carneum","(M.Bieb.) Grierson",Synonym,,L,TICA,D6D4190B-C0CF-45AC-BA9A-C1AD1B70AAA4,878398-1,"Notes Roy. Bot. Gard. Edinburgh 33(2): 262","","262","1974",gcc-83879
+gcc-54920,A,Compositae,,Tanacetum,,"coccineum",subsp.,"chamaemelifolium","(Sommier & Levier) Grierson",Accepted,,L,TICA,5F168213-026F-4A26-BB04-71E54718C32D,878399-1,"","","262","1974",
+gcc-152895,A,Compositae,,Tanacetum,,"coccineum",subsp.,"coccineum","",Synonym,,L,TICA,42153FD3-0119-47D7-812F-A287B939DFA3,,"","","","",gcc-83879
+gcc-88051,A,Compositae,,Tanacetum,,"compactum",,"","H.M.Hall",Synonym,,M,TICA,957EB6B3-FFEB-4074-9514-7E93F86B9DE8,249308-2,"","","343","1916",gcc-119100
+gcc-11850,A,Compositae,,Tanacetum,,"consanguineum",,"","DC.",Synonym,,M,TICA,94234161-4B40-488D-B119-1615D6DF01D3,252279-1,"Prodr. (DC.) 6: 133","","133","1838",gcc-88060
+gcc-82745,A,Compositae,,Tanacetum,,"coronulatum",,"","Simonk.",Unresolved,,L,TICA,2610DC95-85E9-4CC1-8BCB-72BBC04BA2F8,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-131336,A,Compositae,,Tanacetum,,"corymbiforme",,"","(Tzvelev) K.Bremer & Humphries",Unresolved,,L,TICA,7450AB7C-0D8C-4496-B5BB-E0A8390A5A66,975084-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",
+gcc-103006,A,Compositae,,Tanacetum,,"corymbosum",,"","(L.) Sch.Bip.",Accepted,,M,TICA,C918B889-9774-43DB-84C2-A058A53B1043,252281-1,"","","57","",
+gcc-34137,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"achilleae","(L.) Greuter",Accepted,,L,TICA,0ED4798F-507D-4ABB-8491-3F4619A68423,70029011-1,"","","43","2003",
+gcc-41967,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"cinereum","(Griseb.) Grierson",Accepted,,L,TICA,D8B7C671-B2EC-4FAF-9861-4DB026B4AF82,,"""Grierson in Davis, Fl. Turkey 5. 1975.""","","262","1975",
+gcc-39638,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"clusii","(Fisch. ex Rchb.) Heywood",Synonym,,L,TICA,BED65A4C-ED4C-4BCC-9C5D-498EB6D5E14F,,"","","272","1976",gcc-62103
+tro-2732027,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"clusii","(Fisch. ex Rchb.) Heyw.",Synonym,,L,TRO,2732027,,"Bot. J. Linn. Soc.","71(4): 272","272","1975",gcc-62103
+gcc-145421,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"corymbosum","",Synonym,,L,TICA,5F879EDD-1345-4A0B-9409-03CCACCBE955,,"","","","",gcc-103006
+gcc-151923,A,Compositae,,Tanacetum,,"corymbosum",var.,"corymbosum","",Synonym,,L,TICA,2CFF65B0-20C9-4801-A074-8EBFAE52F1DD,,"","","","",gcc-103006
+gcc-62103,A,Compositae,,Tanacetum,,"corymbosum",subsp.,"subcorymbosum","(Schur) Pawł.",Accepted,,L,TICA,F5E58069-C942-46BA-9B3E-AC0676544421,,"""Pawł. in Szafer & Pawlowski, Pl. Polon. Exs., ser. 2 3. 1936.""","","21","1936",
+gcc-59557,A,Compositae,,Tanacetum,,"corymbosum",var.,"tenuifolium","(Willd.) Ledeb.",Synonym,,L,TICA,DC4512D5-A8B9-4846-9A6E-976FA688E5AD,,"","","","",gcc-103006
+gcc-19268,A,Compositae,,Tanacetum,,"corymbosum",var.,"webbianum","(Coss.) Maire",Synonym,,L,TICA,B01C51E3-0C9A-41E9-8B80-239CDEC7C6EF,,"","","","",gcc-103006
+gcc-6602,A,Compositae,,Tanacetum,,"cotuloides",,"","L.",Unresolved,,L,TICA,85DEC243-A33C-41F4-8E90-0C3DE974A98F,,"Mant. ii. 282.","","ii. 282","",
+gcc-120197,A,Compositae,,Tanacetum,,"crassicollum",,"","(Rech.f.) Podlech",Synonym,,M,TICA,27E26B57-FE8C-4068-A76F-C6EF6277424D,942805-1,"""in Fl. Iran., 158: 133 (1986):.""","","133","1986",gcc-76682
+gcc-20318,A,Compositae,,Tanacetum,,"crassipes",,"","(Stschegl.) Tzvelev",Accepted,,M,TICA,8E891BBF-D02A-49FC-9633-2590BFC6229F,252284-1,"Fl. URSS xxvi. 338 (1961).","","338","1961",
+gcc-4142,A,Compositae,,Tanacetum,,"crataegifolium",,"","DC.",Synonym,,M,TICA,62953534-9BE0-49FF-8BBA-07B6D3946031,252285-1,"Prodr. (DC.) 6: 134","","134","1838",gcc-88060
+gcc-113677,A,Compositae,,Tanacetum,,"crispum",,"","Steud.",Synonym,,M,TICA,202BBCE2-BD42-411D-9E48-B82B7A118BD2,,"Nomencl. Bot. (Steudel) 825; Hoffmgg. Verz. Pfl. 116","","","1821",gcc-76001
+gcc-94894,A,Compositae,,Tanacetum,,"crispum",,"","Noronha",Unresolved,,L,TICA,CC83B5C3-B261-4D27-B945-8E13DEA00C7F,252287-1,"","","27","1790",
+gcc-101838,A,Compositae,,Tanacetum,,"crithmifolium",,"","L.",Unresolved,,L,TICA,85ED025F-B8A8-4609-9027-9DA9824745C0,,"Sp. Pl. 843.","","843","",gcc-125772
+gcc-43247,A,Compositae,,Tanacetum,,"cuneifolium",,"","Kitam.",Unresolved,,L,TICA,940DDA34-E8A2-47E9-8708-502470589B8E,252577-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II). 363 (1940), in syn.""","","""xv. (Compos. Jap. II). 363 (1940), in syn.""","",
+gcc-118698,A,Compositae,,Tanacetum,,"czerniakowskae",,"","(Krasch.) Parsa",Unresolved,,L,TICA,8097FC64-E4FC-48B9-9F39-C38A610A35E9,252289-1,"""Fl. Iran, iii. 280 (1949)""","","280","1949",
+gcc-4885,A,Compositae,,Tanacetum,,"daghestanicum",,"","(Boiss.) K.Bremer & Humphries",Accepted,,L,TICA,3CACC0E9-AFF6-41CA-A1E7-0919346E5098,,"","","102","1993",
+tro-50187448,A,Compositae,,Tanacetum,,"darvasica",,"","C. Winkl.",Synonym,,M,TRO,50187448,,"","","","",gcc-9134
+gcc-2520,A,Compositae,,Tanacetum,,"darwasicum",,"","C.Winkl.",Accepted,,M,TICA,0D98C4D2-5931-425F-A956-04974EBD4167,,"Act. Hort. Petrop. xi. (1890) 317.","","317","",
+gcc-121122,A,Compositae,,Tanacetum,,"davidii",,"","Krasch.",Synonym,,M,TICA,FB0D53F4-4A42-496D-8793-C9195895F7DC,252291-1,"Not. Syst. Herb. Hort. Petrop. iv. 5 (1923).","","5","1923",gcc-116345
+gcc-46629,A,Compositae,,Tanacetum,,"decipiens",,"","Sch.Bip.",Unresolved,,L,TICA,B7A02B8E-9300-4B4A-92B5-566BA81DA33C,252292-1,"Tanacet. 47.","","47","",
+gcc-116466,A,Compositae,,Tanacetum,,"delavayi",,"","Franch. ex W.W.Sm.",Synonym,,M,TICA,17869DA5-A38A-40EE-A16E-BE76CACE7442,252293-1,"""Notes Roy. Bot. Gard. Edinburgh 8: 345, descr.""","","345","1915",gcc-93407
+gcc-15623,A,Compositae,,Tanacetum,,"demetrii",,"","(Manden.) K.Bremer & Humphries",Unresolved,,L,TICA,950A1554-B69A-4EF8-9B83-1CEEB4EA4711,975086-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",gcc-36373
+gcc-1565,A,Compositae,,Tanacetum,,"densum",,"","(Labill.) Sch.Bip.",Accepted,,M,TICA,C12DFD47-46FE-4CCD-9800-02D47E2EBC67,252294-1,"","","48","1844",
+gcc-23615,A,Compositae,,Tanacetum,,"densum",,"","(Labill.) Heywood",Unresolved,,L,TICA,2A6CB0A0-0DB3-4843-8153-2BA827BEB313,252295-1,"Notes Roy. Bot. Gard. Edinburgh 21: 57","","57","1952",
+gcc-70800,A,Compositae,,Tanacetum,,"densum",subsp.,"densum","",Synonym,,L,TICA,146C0D3A-1AEC-4303-AF88-F0E69FFA510F,,"","","","",gcc-1565
+gcc-28536,A,Compositae,,Tanacetum,,"depauperatum",,"","(Post) Grierson",Accepted,,M,TICA,E2385AAF-9BF1-4B6A-9EFD-34C046B92135,252296-1,"","","434","1975",
+gcc-132118,A,Compositae,,Tanacetum,,"discoideum",,"","Rchb.f.",Unresolved,,L,TICA,0EF31A73-3DEE-4649-A73D-E27C5F73A00F,252297-1,"Ic. Fl. Germ. xvi. 51. t. 988.","","xvi. 51. t. 988","",
+gcc-85234,A,Compositae,,Tanacetum,,"diversifolium",,"","D.C.Eaton",Synonym,,M,TICA,1EFA4F04-DEE2-4454-B176-7841639E1A8C,252298-1,"Botany [Fortieth Parallel]","","180","1871",gcc-47442
+gcc-94381,A,Compositae,,Tanacetum,,"djilgense",,"","(Franch.) Podlech",Synonym,,M,TICA,4ED0AF67-CD11-4BF2-8A9C-8CD6723B1D9E,252299-1,"","","495","1977",gcc-104545
+gcc-111802,A,Compositae,,Tanacetum,,"doabense",,"","Podlech",Accepted,,L,TICA,30E9E52B-DC52-4968-8AB4-B3F828CF8AEE,929867-1,"""in Fl. Iran., 158: 131 (1986)""","","131","1986",
+gcc-15535,A,Compositae,,Tanacetum,,"dolichophyllum",,"","(Kitam.) Kitam.",Accepted,,M,TICA,46418937-7B74-44EE-B3CD-1CBFFEF64BE1,911530-1,"""in Enum. Fl. Pl. Nepal, 3: 45 (1982):""","","45","1982",
+gcc-33465,A,Compositae,,Tanacetum,,"dolomiticum",,"","(Galushko) K.Bremer & Humphries",Unresolved,,L,TICA,DC63BB6E-7B38-464C-9F97-3E1069DB3F43,975087-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",gcc-134593
+gcc-130095,A,Compositae,,Tanacetum,,"douglasii",,"","DC.",Synonym,,M,TICA,68D7DE15-3D2F-4331-BFD7-DDC7743E8E07,927827-1,"","","128","1838",gcc-144607
+gcc-41788,A,Compositae,,Tanacetum,,"duderanum",,"","(Boiss.) Tzvelev",Synonym,,M,TICA,301BD634-797D-46A2-A194-4D65B32464F8,252301-1,"","","332","1961",gcc-63339
+gcc-20877,A,Compositae,,Tanacetum,,"dumosum",,"","Boiss.",Accepted,,M,TICA,A9C533D9-EC19-4CF8-BFA1-26994075FD91,,"""Diagn. Pl. Orient. ser. 1, 6: 89""","","89","1846",
+gcc-47999,A,Compositae,,Tanacetum,,"eginense",,"","(Bornm.) Grierson",Accepted,,M,TICA,4C7E0A6B-643C-4E4D-80A6-58EF67708753,252303-1,"","","434","1975",
+gcc-85136,A,Compositae,,Tanacetum,,"elatum",,"","Salisb.",Unresolved,,L,TICA,ED5F96BA-2B05-46A0-A121-7801FAC1737D,252304-1,"Prodr. Stirp. Chap. Allerton 190","","190","1796",
+gcc-41584,A,Compositae,,Tanacetum,,"elbursense",,"","Mozaff.",Unresolved,,L,TICA,B10A3DE6-8075-4746-8436-4CFF76B15676,,"Iranian J. Bot. 11(1): 119 (-120; fig. 2). 2005","","","",
+gcc-15225,A,Compositae,,Tanacetum,,"elegans",,"","Decne.",Unresolved,,L,TICA,E388AAC8-EC82-4A6E-ADCD-1C319BF562D4,252305-1,"""in Fl. des Serres, xii. (1857) 19. I. 1191.""","","xii.  19. I. 1191","1857",
+gcc-93226,A,Compositae,,Tanacetum,,"elegantulum",,"","W.W.Sm.",Accepted,,M,TICA,5F349B58-0A0C-48F5-B64A-8A4535742CED,,"Notes Roy. Bot. Gard. Edinburgh 10: 201","","","1918",
+gcc-95266,A,Compositae,,Tanacetum,,"elongatum",,"","Sch.Bip.",Unresolved,,L,TICA,B9C1496E-A4E0-47B8-AE28-8EEA56A38D99,252307-1,"Tanacet. 61.","","61","",
+gcc-89092,A,Compositae,,Tanacetum,,"emodi",,"","R.Khan",Accepted,,M,TICA,494ECA1F-59D0-49CF-A7B4-80ECDC4C8036,961654-1,"""Edinburgh J. Bot. 48(1): 45, nom. nov.""","","45","1991",
+gcc-19391,A,Compositae,,Tanacetum,,"eriobasis",,"","(Rech.f.) R.R.Stewart",Unresolved,,L,TICA,DF10163E-AF04-4DF8-9183-23D7E0FEF099,252309-1,"Annot. Cat. Vasc. Pl. W. Pakistan & Kashmir 786 (1972).","","786","1972",
+gcc-37911,A,Compositae,,Tanacetum,,"eriobasis",,"","(Rech.f.) Kovalevsk.",Accepted,,M,TICA,B506E637-E461-49FF-AB4D-46516045C169,,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 23 (1961).","","","1961",
+gcc-152559,A,Compositae,,Tanacetum,,"eriobasis",subsp.,"eriobasis","",Synonym,,L,TICA,5EC05AE9-EB0F-4491-97A0-9C10C56CF445,,"Bot. Mater. Gerb. Inst. Bot. Zool. Akad. Nauk Uszbeksk. SSR 16","","23","1961",gcc-37911
+gcc-118719,A,Compositae,,Tanacetum,,"falcatolobatum",,"","Krasch.",Synonym,,L,TICA,2CD5953D-9609-49CA-BF51-C39619985B79,252310-1,"Not. Syst. Herb. Hort. Petrop. iv. 7 (1923).","","7","1923",gcc-12601
+gcc-35552,A,Compositae,,Tanacetum,,"falconeri",,"","Hook.f.",Accepted,,M,TICA,9DFFA068-F3E1-4E7F-B40D-41E9DA3FA793,252311-1,"Fl. Brit. Ind. iii. 320.","","320","1881",
+gcc-108300,A,Compositae,,Tanacetum,,"fasciculatum",,"","Sch.Bip.",Unresolved,,L,TICA,DFD21427-B057-4D14-AD32-ABFD0DBFE3B9,252312-1,"Tanacet. 11.","","11","",
+gcc-130386,A,Compositae,,Tanacetum,,"fastigiatum",,"","(C.Winkl.) Krasch.",Unresolved,,L,TICA,EDD674C5-C429-4D95-9E8D-DE6E3CB27C9A,252313-1,"""in Spisok Rast. Herb. Fl. URSS, xi. 40 (1949).""","","xi. 40","1949",
+gcc-33717,A,Compositae,,Tanacetum,,"ferganensis",,"","Kovalevsk.",Accepted,,M,TICA,4D4E31A4-B739-480E-9749-3E7E55F33E93,,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 31 (1961).","","xvi. 31","1961",
+gcc-28323,A,Compositae,,Tanacetum,,"ferulaceum",,"","(Webb) Sch.Bip.",Accepted,,M,TICA,D869E496-2E09-406D-AC88-3450CC6B3D5C,,"","","","1846",
+gcc-33846,A,Compositae,,Tanacetum,,"ferulaceum",var.,"ferulaceum","",Synonym,,L,TICA,31E8C2B0-9F43-4B07-BB71-3EC5742548A0,,"","","","",gcc-28323
+gcc-66232,A,Compositae,,Tanacetum,,"ferulaceum",var.,"latipinnum","(Svent.) Kunkel",Synonym,,L,TICA,7F12B8E5-084E-4159-B166-CD1FA955BB33,,"""in Monogr. Biol. Canar., 3: 75 (1972): et in Cuad. Bot. Canar. 22: 24 (1974)""","","","",gcc-28323
+gcc-15267,A,Compositae,,Tanacetum,,"fisherae",,"","Aitch. & Hemsl.",Synonym,,M,TICA,A54C6D22-EF49-4B63-BC1F-1C41DB31A592,252316-1,"""J. Linn. Soc., Bot. xix. (1882) 170.""","","170","1882",gcc-96449
+gcc-28876,A,Compositae,,Tanacetum,,"flabellifolium",,"","Boiss. & Heldr.",Synonym,,M,TICA,E5EF2394-813A-45EF-B5CE-3563092E2301,,"","","26","1849",gcc-63368
+gcc-2881,A,Compositae,,Tanacetum,,"flabelliforme",,"","L'Hér.",Unresolved,,L,TICA,AEB1FF32-9399-440F-A344-0553138B0135,252318-1,"Sert. Angl. 21.","","21","",
+gcc-98081,A,Compositae,,Tanacetum,,"flaveolum",,"","(Hoffmanns. & Link) Rothm.",Synonym,,M,TICA,95DF3461-EE14-4D00-8F97-954DA2B849FE,,"","","","1940",gcc-17658
+gcc-27805,A,Compositae,,Tanacetum,,"flavovirens",,"","(Boiss.) Tzvelev",Synonym,,M,TICA,27893597-2C8B-4F47-AC2B-3363B771FC67,,"","","","1961",gcc-30550
+gcc-150025,A,Compositae,,Tanacetum,,"flavovirens",subsp.,"flavovirens","",Synonym,,L,TICA,FF1E73DC-D29E-490A-A147-65C7057B9B37,,"","","","",gcc-30550
+gcc-29313,A,Compositae,,Tanacetum,,"flavovirens",subsp.,"tamrutense","(Sosn.) Takht.",Synonym,,L,TICA,47ECF731-6353-4C4D-A63D-362B1398C2E3,878404-1,"","","280","1972",gcc-30550
+gcc-36285,A,Compositae,,Tanacetum,,"freitagii",,"","Podlech",Accepted,,L,TICA,8B4F6240-DAE5-4680-AE9A-4348AF42A5F8,929868-1,"""in Fl. Iran., 158: 132 (1986)""","","132","1986",
+gcc-144140,A,Compositae,,Tanacetum,,"frutescens",,"","L.",Synonym,,M,TICA,8B2F9C91-BB81-41A8-B8E4-FD6EB0841145,252321-1,"Sp. Pl. 844.","","844","1753",gcc-88484
+gcc-123238,A,Compositae,,Tanacetum,,"fruticosum",,"","Link",Unresolved,,L,TICA,38A4AB46-294C-45E4-BC3B-CDD6873840DA,252322-1,"""in Buch, Beschr. Canar. Ins. 149.""","","149","",
+gcc-13529,A,Compositae,,Tanacetum,,"fruticosum",,"","Harv.",Unresolved,,L,TICA,6AB18D79-804D-4EBB-967D-192CC6BEA8BA,,"""Fl. Cap. (Harvey) iii. 166, in syn., sphalm.""","","166","",
+gcc-151405,A,Compositae,,Tanacetum,,"fruticulosa",,"","Ledeb.",Synonym,,M,TICA,0F082813-5BF0-413F-8443-83D614136901,,"","","","",gcc-48822
+gcc-2651,A,Compositae,,Tanacetum,,"fruticulosum",,"","C.B.Clarke",Synonym,Illegitimate,M,TICA,8282A78A-9646-442A-9062-04DF27DA553E,,"Comp. Ind. 153.","","153","1876",gcc-130126
+gcc-31241,A,Compositae,,Tanacetum,,"fruticulosum",,"","Ledeb.",Synonym,,M,TICA,06E02285-2245-4751-9567-39DB28FEAC61,,"Fl. Alt. iv. 58.","","","1829",gcc-48822
+gcc-102514,A,Compositae,,Tanacetum,,"funkii",,"","Sch.Bip. ex Willk. & Lange",Unresolved,,L,TICA,F20099CD-AC42-4053-A2FF-9F4E373696FB,252326-1,"","","","1865",
+gcc-134438,A,Compositae,,Tanacetum,,"galae",,"","(Popov) Nevski",Unresolved,,L,TICA,1EAE3211-BCBB-4D65-AEEE-E7D1F0AA839D,,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 216 (1937), in obs.""","","216","",
+gcc-13738,A,Compositae,,Tanacetum,,"galushkoi",,"","(Prima) K.Bremer & Humphries",Unresolved,,L,TICA,65F64AA6-C81E-476B-A690-198D839F13BF,975088-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",gcc-4885
+gcc-91194,A,Compositae,,Tanacetum,,"gayanum",,"","Sch.Bip.",Unresolved,,L,TICA,42E46B26-8371-44B0-80B5-85CDF6B76AEC,252328-1,"Bonplandia 8: 369","","369","1860",
+gcc-11782,A,Compositae,,Tanacetum,,"germanicopolitanum",,"","(Bornm. & Heimerl) Grierson",Accepted,,M,TICA,18B4B4B5-D238-42E2-BD6A-15EED7191AB5,252329-1,"","","434","1975",
+gcc-12280,A,Compositae,,Tanacetum,,"ghoratense",,"","Podlech",Accepted,,M,TICA,3F47E943-4E38-4C04-AA30-16E746DEC60F,929865-1,"""in Fl. Iran., 158: 125 (1986)""","","125","1986",
+gcc-39867,A,Compositae,,Tanacetum,,"gilgitii",,"","R.Khan",Unresolved,,L,TICA,CABF7F93-4610-453F-8243-49FD5BF4F654,958971-1,"Edinburgh J. Bot. 48(1): 45","","45","1991",
+gcc-116966,A,Compositae,,Tanacetum,,"gillettii",,"","Podlech",Unresolved,,L,TICA,B6894C3C-6DCB-403D-87FD-BF99B482448D,929869-1,"""in Fl. Iran., 158: 140 (1986)""","","140","1986",
+gcc-116435,A,Compositae,,Tanacetum,,"gilliatii",,"","(Turrill) Parsa",Accepted,,L,TICA,44BDFD06-6282-4D96-9034-BE67D868946B,252330-1,"""Fl. Iran, iii. 279 (1949)""","","279","1949",
+gcc-110181,A,Compositae,,Tanacetum,,"glabra",,"","(Decne.) Muradyan",Unresolved,,L,TICA,0CEF44CE-9DCB-461D-8972-B045563859EB,252331-1,"Biol. Zhurn. Armenii 29(8): 42 (1976)","","42","1976",
+gcc-96557,A,Compositae,,Tanacetum,,"glabriusculum",,"","W.W.Sm.",Synonym,,M,TICA,21A2A95E-1FC3-4E8F-808F-91D7CB177204,,"Notes Roy. Bot. Gard. Edinburgh 10: 202","","","1918",gcc-107619
+gcc-20419,A,Compositae,,Tanacetum,,"glanduliferum",,"","(Sommier & Levier) K.Bremer & Humphries",Unresolved,,L,TICA,E568E922-9A82-4A20-AFD4-25C4D38DA8B6,975089-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):""","","102","1993",gcc-36373
+gcc-45814,A,Compositae,,Tanacetum,,"globiferum",,"","DC.",Unresolved,,L,TICA,CF6E109C-B27E-4888-958F-54EED85588B9,252333-1,"","","","",
+gcc-6157,A,Compositae,,Tanacetum,,"gmelini",,"","Sch.Bip.",Synonym,,M,TICA,EB9D30FE-80A3-4B6E-B29A-0B737697E125,252334-1,"Tanacet. 35.","","35","1844",gcc-133631
+gcc-116475,A,Compositae,,Tanacetum,,"gnaphaloides",,"","Steud.",Unresolved,,L,TICA,B13516DD-C9DE-4895-B192-BE7CAB3A7A34,252335-1,"""in Flora, xiii. (1830) 542.""","","xiii.  542","1830",
+gcc-113739,A,Compositae,,Tanacetum,,"gossypinum",,"","Hook.f. & Thomson ex C.B.Clarke",Accepted,,M,TICA,90A0F525-E022-4E1E-817C-B84D4C97526C,252336-1,"Comp. Ind. 154.","","154","1876",
+gcc-130126,A,Compositae,,Tanacetum,,"gracile",,"","Hook.f. & Thomson",Accepted,,M,TICA,18D6AA0F-A701-4352-8703-DDD35DC5B92C,252337-1,"Fl. Brit. Ind. 3: 318. 1881","","318","1881",
+gcc-5574,A,Compositae,,Tanacetum,,"gracilicaule",,"","(Rouy) Franco",Accepted,,M,TICA,2CDE9586-252A-4339-9463-0A669FAEB9C7,,"","","","1984",
+gcc-109160,A,Compositae,,Tanacetum,,"graminifolium",,"","Rchb.f.",Unresolved,,L,TICA,6AD0403A-7A97-44DF-8285-AE051A258A0D,252338-1,"Ic. Fl. Germ. xvi. 51.","","xvi. 51","",
+gcc-19194,A,Compositae,,Tanacetum,,"grandiflorum",,"","Thunb.",Synonym,,M,TICA,08D914BA-6D12-4B14-A276-2375EC0533D7,252339-1,"","","147","1800",gcc-128288
+gcc-80239,A,Compositae,,Tanacetum,,"gratum",,"","Wall. ex DC.",Unresolved,,L,TICA,C5418A1D-9C66-439C-A0B8-6D31B2FC7FC9,252341-1,"Prodr. (DC.) 5: 374","","374","1836",
+gcc-19601,A,Compositae,,Tanacetum,,"griffithii",,"","(C.B.Clarke) Muradyan",Accepted,,L,TICA,9B19D5BF-7D99-46BD-BA07-243DA2A36798,252343-1,"","","90","1970",
+gcc-89231,A,Compositae,,Tanacetum,,"grigorjewii",,"","Krassn.",Accepted,,L,TICA,7B302BA4-0693-4482-8411-813DF72A7D22,,"in Script. Hort. Univ. Petrop. ii. I. (1887-88) 16 [sp. collect.].","","16","",
+gcc-118315,A,Compositae,,Tanacetum,,"griseum",,"","Harv.",Synonym,,M,TICA,6BC11087-0B44-4E79-85DB-C2A9B60FD80F,,"Fl. Cap. (Harvey) iii. 168 (Schistostephii sp.)","","168","",gcc-101532
+gcc-140619,A,Compositae,,Tanacetum,,"grossheimii",,"","(Sosn.) Muradyan",Synonym,,L,TICA,212E49BC-F205-40DD-B99F-F579190D1BB6,252345-1,"""Biol. Zhurn. Armenii xxiii. No. 2, 90 (1970)""","","90","1970",gcc-36373
+gcc-125181,A,Compositae,,Tanacetum,,"haradjanii",,"","(Rech.f.) Grierson",Accepted,,M,TICA,BC7CD18D-AAFA-47AC-95C9-D275FF9DA943,252346-1,"","","435","1975",
+gcc-36802,A,Compositae,,Tanacetum,,"haussknechtii",,"","(Bornm.) Grierson",Accepted,,M,TICA,402DE436-2968-43A6-9D21-44386964E690,252347-1,"","","435","1975",
+gcc-42730,A,Compositae,,Tanacetum,,"hedgei",,"","Podlech",Accepted,,L,TICA,08D4D00C-9D0E-40E7-A072-4F226B5419F3,929866-1,"""in Fl. Iran., 158: 130 (1986)""","","130","1986",
+gcc-97918,A,Compositae,,Tanacetum,,"heimerlii",,"","(Nábělek) Parsa",Unresolved,,L,TICA,029EAF8A-9C5C-4C88-AFD9-94F41F3C4016,252348-1,"""Fl. Iran, iii. 280 (1949)""","","280","1949",
+gcc-102850,A,Compositae,,Tanacetum,,"heptalobum",,"","DC.",Synonym,,M,TICA,0F7C9699-5617-4813-B1ED-A0063425F1ED,,"","","133","",gcc-127130
+gcc-17514,A,Compositae,,Tanacetum,,"herderi",,"","Regel & Schmalh.",Synonym,,M,TICA,335BBE9A-58A5-4357-BE61-2057C483DE25,,"Act. Hort. Petrop. v. (1877) 619.","","","1878",gcc-30500
+gcc-5400,A,Compositae,,Tanacetum,,"heterophyllum",,"","Boiss.",Accepted,,M,TICA,4ABC83F9-9E16-4AD4-8513-0A146A934B54,,"""Diagn. Pl. Orient. ser. 1, 6: 90""","","90","1846",
+gcc-137913,A,Compositae,,Tanacetum,,"heterotomum",,"","(Bornm.) Grierson",Accepted,,M,TICA,4584A39D-92AE-409B-ADC9-EF77460CE1CA,252353-1,"","","435","1975",
+gcc-142527,A,Compositae,,Tanacetum,,"himachalensis",,"","Aswal & Mehrotra",Unresolved,,L,TICA,43304D03-FE16-4368-9C94-F9CE6E73674B,907426-1,"""J. Econ. Taxon. Bot. 2: 236 (1981), nom. nov.:""","","236","1981",
+gcc-11773,A,Compositae,,Tanacetum,,"hippiifolium",,"","DC.",Synonym,,M,TICA,DEB33843-7BC4-4FA1-9DD6-15EAA52F0C94,252354-1,"Prodr. (DC.) 6: 133 (Schistostephii sp.)","","133","1838",gcc-5257
+gcc-80416,A,Compositae,,Tanacetum,,"hispidum",,"","DC.",Synonym,,M,TICA,E1215406-D850-4112-AA80-6D8E87EBDD16,252355-1,"Prodr. (DC.) 6: 133","","133","1838",gcc-97490
+gcc-117403,A,Compositae,,Tanacetum,,"hissaricum",,"","(Krasch.) K.Bremer & Humphries",Accepted,,M,TICA,D0BD6CA7-1743-40C6-9760-C095AAF9F219,975090-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",
+gcc-92914,A,Compositae,,Tanacetum,,"hololeucum",,"","(Bornm.) Podlech",Accepted,,L,TICA,64F10081-953A-435F-B28B-89A6A66B9CEC,942801-1,"""in Fl. Iran., 158: 105 (1986):.""","","105","1986",
+gcc-770,A,Compositae,,Tanacetum,,"humile",,"","Foek.",Unresolved,,L,TICA,78575D74-CA27-43A8-A277-016EA3DDF213,252356-1,"Fl. Aegypt.-Arab. 148","","148","1775",
+gcc-132637,A,Compositae,,Tanacetum,,"huronense",,"","Nutt.",Synonym,,M,TICA,C7F8D90A-BDC7-407A-BA61-E3B091C5FBBB,249311-2,"","","141","1818",gcc-144607
+gcc-32705,A,Compositae,,Tanacetum,,"huronense",var.,"bifarium","Fernald",Synonym,,L,TICA,2A7B7DAB-1D9F-4CE6-BEDD-3CA3B5FE0AA4,249312-2,"""Rhodora 37: 334; tab. 377, figs. 3, 4. 1935""","","""334, pl. 377, f. 3-4""","1935",gcc-144607
+gcc-3344,A,Compositae,,Tanacetum,,"huronense",var.,"floccosum","Raup",Synonym,,L,TICA,925BD883-DD5F-43D7-B7E5-062B34F288FC,,"""J. Arnold Arbor. 17: 307, pl. 200. 1936""","","","1936",gcc-144607
+gcc-150086,A,Compositae,,Tanacetum,,"huronense",f.,"huronense","",Synonym,,L,TICA,08094007-562A-4BD4-BB8E-66E10814C0B2,,"","","","",gcc-144607
+gcc-58623,A,Compositae,,Tanacetum,,"huronense",var.,"huronense","",Synonym,,L,TICA,E856C72C-ECEC-4A5C-A57A-903931E132A6,,"","","","",gcc-144607
+gcc-53206,A,Compositae,,Tanacetum,,"huronense",var.,"johannense","Fernald",Synonym,,L,TICA,F7CCE66C-3C1F-44D4-87E0-64656482BCDF,249314-2,"","","""334, pl. 378, f. 5-6""","1935",gcc-144607
+gcc-55363,A,Compositae,,Tanacetum,,"huronense",var.,"terrae-novae","Fernald",Synonym,,L,TICA,3D51BE2B-2DF0-4A7C-8B31-755CB76A09E5,249316-2,"","","14","1923",gcc-144607
+gcc-20050,A,Compositae,,Tanacetum,,"incanum",,"","L.",Synonym,,M,TICA,9F1E8621-3D5E-4874-9B42-25111CAC5DEC,252360-1,"","","844","1753",gcc-138947
+gcc-88022,A,Compositae,,Tanacetum,,"incanum",,"","DC.",Unresolved,,L,TICA,1C24B832-335F-4E10-B5B0-7E82E5D63C2F,,"Prodr. (DC.) 6","","","1838",
+gcc-122505,A,Compositae,,Tanacetum,,"indicum",,"","(L.) Sch.Bip.",Synonym,,L,TICA,7CA7B1EF-F87F-4AC3-845F-CC2B10140BBB,252362-1,"","","50","1844",gcc-139655
+gcc-119905,A,Compositae,,Tanacetum,,"integrifolium",,"","Sch.Bip.",Unresolved,,L,TICA,6227134E-8751-4727-85A6-C640ACB65A4B,252363-1,"Tanacet. 35.","","35","",
+gcc-122049,A,Compositae,,Tanacetum,,"integrifolium",,"","Sessé & Moc.",Unresolved,,L,TICA,27F0B84E-4161-4343-932A-CB25CD887FC0,,"","","","1890",
+gcc-24889,A,Compositae,,Tanacetum,,"japonicum",,"","Kitam.",Unresolved,,L,TICA,4F526254-FA5B-40AF-847E-2DFBE1E655F1,252578-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II). 358 (1940), in syn.""","","""xv. (Compos. Jap. II). 358 (1940), in syn.""","",
+gcc-133290,A,Compositae,,Tanacetum,,"johnstonii",,"","Hemsl.",Synonym,,M,TICA,D635415E-C3C7-47F0-890D-E52C11B62733,252365-1,"J. Bot. 21: 135","","135","1883",gcc-133755
+gcc-99256,A,Compositae,,Tanacetum,,"junesarense",,"","(Bornm.) Parsa",Unresolved,,L,TICA,DBFE25EF-072A-4ACD-AAD2-97FB1CBD9CF0,252366-1,"""Fl. Iran, iii. 282 (1949)""","","282","1949",
+gcc-103359,A,Compositae,,Tanacetum,,"karataviense",,"","Kovalevsk.",Accepted,,M,TICA,D6F0C728-C9F2-4477-9A3F-A11A9D4927FB,252367-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 28 (1961).","","xvi. 28","1961",
+gcc-129982,A,Compositae,,Tanacetum,,"karelinianum",,"","K.Bremer & Humphries",Unresolved,,L,TICA,BE4C5422-86E7-4A78-BAE8-DD859C5B959B,975091-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993), nom. nov.:.""","","102","1993",
+gcc-23587,A,Compositae,,Tanacetum,,"karelinii",,"","Tzvelev",Accepted,,M,TICA,BEB9A148-5F82-4962-8900-2B9E0DC512DB,,"Fl. URSS xxvi. 344 (1961).","","","1961",
+gcc-114708,A,Compositae,,Tanacetum,,"kaschgarianum",,"","K.Bremer & Humphries",Unresolved,,L,TICA,B9336659-1C15-4836-BF4B-BA7CA7F41809,975092-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993), nom. nov.:.""","","102","1993",
+gcc-106826,A,Compositae,,Tanacetum,,"kaschgaricum",,"","Krasch.",Unresolved,,L,TICA,D66859A2-B750-418E-934F-A8B414BD1835,252369-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 175 (1933)""","","175","1933",gcc-138714
+gcc-33064,A,Compositae,,Tanacetum,,"kelleri",,"","(Krylov & Plotn.) Takht.",Synonym,,M,TICA,FAA30A3B-6CAE-4A1E-A2E9-3D4CBFCEEE94,252370-1,"Krasnaya Kniga: 37 (1975).","","37","1975",gcc-28545
+gcc-6606,A,Compositae,,Tanacetum,,"kennedyi",,"","Dunn",Synonym,,M,TICA,C7032995-9EE9-4F90-9105-0C40C56C8F9B,252371-1,"""Bull. Misc. Inform. Kew 1922, 117.""","","","1922",gcc-119579
+gcc-100565,A,Compositae,,Tanacetum,,"khartense",,"","Dunn",Synonym,,M,TICA,48839D76-558E-465C-A8B3-9AE9BE0234D5,252372-1,"""Bull. Misc. Inform. Kew 1922, 150.""","","150","1922",gcc-85783
+gcc-15200,A,Compositae,,Tanacetum,,"khorassanicum",,"","(Krasch.) Parsa",Accepted,,L,TICA,98E6EE40-0749-4EED-89FA-1C2211817008,252373-1,"""Fl. Iran, iii. 280 (1949)""","","280","1949",
+gcc-84430,A,Compositae,,Tanacetum,,"khorassanicum",,"","(Krasch.) Tzvelev",Unresolved,,L,TICA,5F44FAF2-42D3-42F4-AD47-768CCE2720B6,252374-1,"""Fl. URSS xxvi. 358 (1961), in obs.""","","""xxvi. 358 , in obs.""","1961",
+gcc-51609,A,Compositae,,Tanacetum,,"kittaryanum",,"","(C.A.Mey.) Tzvelev",Accepted,,M,TICA,67E4B353-DE79-485F-AD47-5FAFCE066CED,252375-1,"","","345","1961",
+gcc-57140,A,Compositae,,Tanacetum,,"kittaryanum",subsp.,"kittaryanum","",Synonym,,L,TICA,04E798CC-E4D5-42D3-A255-8410EF2B6FAA,,"","","","",gcc-51609
+gcc-41186,A,Compositae,,Tanacetum,,"kittaryanum",subsp.,"sclerophyllum","(Krasch.) Tzvelev",Accepted,,L,TICA,56EEF2E6-99EB-4E28-8BA6-4C52AA8CA2CC,983390-1,"","","146","1994",
+gcc-67281,A,Compositae,,Tanacetum,,"kittaryanum",subsp.,"uralense","(Krasch.) Tzvelev",Accepted,,L,TICA,06F0C864-FBB6-4BEC-A691-D5EA1AF8407F,983367-1,"","","146","1994",
+gcc-990,A,Compositae,,Tanacetum,,"kochii",,"","Sch.Bip.",Unresolved,,L,TICA,67FE0477-1F85-465C-9346-01D369F9DBD8,252376-1,"Tanacet. 47.","","47","",
+gcc-134811,A,Compositae,,Tanacetum,,"kokanicum",,"","Krasch.",Accepted,,M,TICA,9ED61332-9323-48E5-BF19-E898AC0EA369,252377-1,"Not. Syst. Herb. Hort. Petrop. iv. 7 (1923).","","7","1923",
+gcc-151656,A,Compositae,,Tanacetum,,"komarovii",,"","Krasch. & N.Rubtz.",Synonym,,M,TICA,08ED05EF-A7D9-40A7-97D5-898AE5C39B4F,,"","","","",gcc-98019
+gcc-31026,A,Compositae,,Tanacetum,,"komarovii",,"","Krasch. & N.I.Rubtzov",Synonym,,M,TICA,E6F79D49-840D-45FA-A5C5-39725C5B5C64,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 168 (1946).""","","","1946",gcc-98019
+gcc-86619,A,Compositae,,Tanacetum,,"komarowii",,"","(C.Winkl.) Muradyan",Unresolved,,L,TICA,4B467485-3DBB-4728-833F-7B5213BE2ED1,252379-1,"Biol. Zhurn. Armenii 29(8): 42 (1976)","","42","1976",gcc-8528
+gcc-121494,A,Compositae,,Tanacetum,,"kotschyi",,"","(Boiss.) Grierson",Accepted,,L,TICA,E42EA6F5-15E7-4A90-8ADC-C9EA36DFDD6A,252381-1,"","","435","1975",
+gcc-24713,A,Compositae,,Tanacetum,,"kotschyi",,"","Boiss.",Unresolved,Illegitimate,L,TICA,DA26EDC2-DFDA-4152-9946-2DA4610A251E,252380-1,"Fl. Orient. [Boissier] 3: 351","","351","1875",
+gcc-51360,A,Compositae,,Tanacetum,,"kotzebuense",,"","Besser",Unresolved,,L,TICA,FF9DB4D9-57DE-4611-9918-5F4532A94C0A,252382-1,"in Bull. Soc. Nat. Mosc. ix. (1836) 107; et ex DC. Prod. vi. 131.","","ix.  107","1836",
+gcc-81921,A,Compositae,,Tanacetum,,"krascheninnikovii",,"","Nevski",Unresolved,,L,TICA,C02B81C1-9415-45C9-A808-70DDBB0249C7,252579-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 282 (1937)""","","282","1937",gcc-75817
+gcc-78705,A,Compositae,,Tanacetum,,"krylovianum",,"","(Krasch.) K.Bremer & Humphries",Unresolved,,L,TICA,05749D6B-05A9-4079-B6ED-69BC2880C845,975093-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 102 (1993):.""","","102","1993",
+gcc-125207,A,Compositae,,Tanacetum,,"kubense",,"","(Grossh.) Muradyan",Synonym,,M,TICA,697363E0-010B-4DCA-B6C7-D28971602C1A,252383-1,"""Biol. Zhurn. Armenii xxiii. No. 2, 90 (1970)""","","90","1970",gcc-96027
+gcc-154865,A,Compositae,,Tanacetum,,"kulbadica",,"","Boiss. & Buhse",Accepted,,M,TICA,0AAE6245-55AA-4A45-A614-CC42F497AAA6,,"","","","",
+gcc-84642,A,Compositae,,Tanacetum,,"kuschakewiczi",,"","O.Fedtsch.",Unresolved,,L,TICA,1535FBC1-695C-402A-B2B4-76F98B33A3AD,252384-1,"""Pl. Pamir, 40.""","","40","",
+gcc-51049,A,Compositae,,Tanacetum,,"lanuginosum",,"","Sch.Bip. & Herder",Synonym,,M,TICA,65696CD5-8E50-406A-B889-5EB273834F38,252385-1,"in Pollichia xx-xxi. 442","","442","1863",gcc-146125
+gcc-104548,A,Compositae,,Tanacetum,,"larvatum",,"","Kanitz ex Nyman",Unresolved,,L,TICA,C2916AF9-F752-43E6-86C1-A3BEF6605A67,,"Consp. 371.","","371","",
+gcc-79150,A,Compositae,,Tanacetum,,"larvatum",,"","(Pant.) Hayek",Accepted,,M,TICA,13BCC9E2-CA81-4F5B-B2C6-6AD1BC58F71B,,"Hayek in Repert. Spec. Nov. Regni Veg. Beih. 30(2). 1931.","","650","1931",
+gcc-29048,A,Compositae,,Tanacetum,,"latifolium",,"","Sch.Bip.",Unresolved,,L,TICA,1F6A0A2B-16E0-467C-A26E-35AEE8EED58C,252387-1,"Tanacet. 35.","","35","",
+gcc-86778,A,Compositae,,Tanacetum,,"ledebourii",,"","Sch.Bip.",Synonym,,L,TICA,F4291C80-4FA1-42CD-AA0F-7BB0AFF25B63,252388-1,"Tanacet. 47.","","","1844",gcc-89891
+gcc-111717,A,Compositae,,Tanacetum,,"leptolobum",,"","DC.",Unresolved,,L,TICA,A6D95077-E5CF-4F87-AB6E-B3BD8E02D6E2,252389-1,"Prodr. (DC.) 6: 133","","133","1838",
+gcc-110416,A,Compositae,,Tanacetum,,"leptophyllum",,"","(M.Bieb.) Sch.Bip.",Accepted,,M,TICA,F9126788-E325-49F7-943C-B0DB41DEF2BC,252390-1,"","","","1844",
+gcc-82960,A,Compositae,,Tanacetum,,"leucanthemum",,"","Simonk.",Unresolved,,L,TICA,F89C198E-D568-42F7-B06F-73379FDABAA7,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-84677,A,Compositae,,Tanacetum,,"leucanthemum",,"","(L.) Sch.Bip.",Synonym,,M,TICA,00F97FAA-32F1-4413-BC62-7708F0C269DE,252391-1,"","","35","1844",gcc-135712
+gcc-23088,A,Compositae,,Tanacetum,,"leucophyllum",,"","Regel",Synonym,,M,TICA,F749AC05-B546-4B75-A0A8-2ABC5B38C147,,"Act. Hort. Petrop. vii. (1880) 551.","","551","1881",gcc-30500
+gcc-19712,A,Compositae,,Tanacetum,,"lineare",,"","Kitam.",Unresolved,,L,TICA,B1AFF0B0-A1DB-4B6E-B0BD-247618226AAB,252580-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 350 (1940), in syn.""","","","1907",gcc-102006
+gcc-108154,A,Compositae,,Tanacetum,,"linearilobum",,"","DC.",Synonym,,M,TICA,E0AC2A6D-F85B-442A-90D9-ABB559055FF4,252394-1,"Prodr. (DC.) 6: 133","","133","1838",gcc-127923
+gcc-149592,A,Compositae,,Tanacetum,,"lingulatum",,"","(Boiss.) Bornm.",Accepted,,M,TICA,21FE8FC1-AE53-4E81-A825-5C57E51E37C3,,"","","","",
+gcc-47958,A,Compositae,,Tanacetum,,"linifolium",,"","(L.f.) Thunb.",Synonym,,M,TICA,F168A76C-32B3-4274-B176-58D3534A7BBB,252395-1,"Prodr. Pl. Cap. 147.","","147","",gcc-124304
+gcc-109018,A,Compositae,,Tanacetum,,"longifolium",,"","Wall. ex DC.",Synonym,,M,TICA,A6C0F9A2-5805-4C28-BF25-ADB2905DEB27,252398-1,"","","130","1838",gcc-124304
+gcc-38582,A,Compositae,,Tanacetum,,"longipedunculatum",,"","(Sosn.) Tzvelev",Synonym,,M,TICA,0A6FC49E-CE7E-4E91-9032-4799FD16ACB4,,"","","354","1961",gcc-2298
+gcc-26585,A,Compositae,,Tanacetum,,"macrocephalum",,"","Pamp.",Unresolved,,L,TICA,2EA9F1E2-4CA6-426F-A2D2-311ED1867707,252400-1,"""in Sped. Ital. De Filippi Himal. etc. 1913-14, Ser. II. xi. (Agg. Fl. Carac.)173 (1934).""","","""1913-14, Ser. II. xi. (Agg. Fl. Carac.)173""","1934",
+gcc-124075,A,Compositae,,Tanacetum,,"macrophyllum",,"","(Waldst. & Kit.) Sch.Bip.",Accepted,,M,TICA,6A121E3C-3033-45A6-8E0D-CFDD495A485F,252401-1,"","","53","1844",
+gcc-132051,A,Compositae,,Tanacetum,,"macrophyllum",,"","Simonk.",Unresolved,,L,TICA,4CC3BD24-3A90-4063-ACAA-E25C6BE0952D,,"Enum. Fl. Transsilv. (1886) 313.","","313","1886",
+gcc-98847,A,Compositae,,Tanacetum,,"macrophyllum",,"","Fisch. ex Steud.",Unresolved,,L,TICA,E0E8F9B8-A103-49F0-BFC0-9703D3B93264,252402-1,"""Nomencl. Bot. (Steudel) 825, nomen (Quid ?).""","","825","1821",
+gcc-145453,A,Compositae,,Tanacetum,,"macrophyllum",f.,"macrophyllum","",Synonym,,L,TICA,18A75EF2-5120-4586-9025-042BF24B0454,,"","","","",gcc-132051
+gcc-121637,A,Compositae,,Tanacetum,,"macropodum",,"","Hemsl. & Lace",Unresolved,,L,TICA,DDA9C1C9-1CB6-4231-B566-CA3B4DFB2F2E,252404-1,"""J. Linn. Soc., Bot. xxviii. (1891) 324.""","","324","1891",gcc-80370
+gcc-75930,A,Compositae,,Tanacetum,,"mairei",,"","H.Lév.",Synonym,,M,TICA,0CA97A5A-76FB-45D2-98AC-638AE7BA1851,252405-1,"Repert. Spec. Nov. Regni Veg. 12: 284","","284","1913",gcc-145095
+gcc-112071,A,Compositae,,Tanacetum,,"maresii",,"","Sch.Bip.",Unresolved,,L,TICA,8B1AB06F-6A6A-4619-B7D8-B4936F581D43,252406-1,"Bonplandia 8: 369","","369","1860",
+gcc-38612,A,Compositae,,Tanacetum,,"marginatum",,"","(Miq.) Miq.",Synonym,,M,TICA,0D5645DA-803F-4C29-8440-47A669359C16,,"","","177","1866",gcc-76490
+gcc-24973,A,Compositae,,Tanacetum,,"marionii",,"","(Albov) K.Bremer & Humphries",Accepted,,M,TICA,DBB8A913-00F6-4E0C-B841-2E2382A079FA,975094-1,"","","102","1993",
+gcc-137196,A,Compositae,,Tanacetum,,"martirensis",,"","Wiggins",Synonym,,M,TICA,A999CCAE-7D00-4F36-909F-EDEF27BDD1E8,,"""Proc. Calif. Acad. Sci. ser. 4, 30: 254, pl. 17. 1965""","","""254, pl. 17""","1965",gcc-80356
+gcc-108137,A,Compositae,,Tanacetum,,"matricarioides",,"","Ledeb.",Unresolved,,L,TICA,4B4AE11B-278B-4EF3-BB26-ABA9F0019DFD,252409-1,"Fl. Ross. ii. 544.","","ii. 544","",
+gcc-48622,A,Compositae,,Tanacetum,,"maximum",,"","(Ramond) Sch.Bip.",Synonym,,L,TICA,9C16CE2D-9E52-4276-80EF-5A10CC3EF717,252410-1,"","","35","1844",gcc-37763
+gcc-33460,A,Compositae,,Tanacetum,,"maymanense",,"","Podlech",Accepted,,M,TICA,AE921B2B-B1E2-47EB-B0EE-3E0D1459CDA2,929864-1,"""in Fl. Iran., 158: 124 (1986)""","","124","1986",
+gcc-34821,A,Compositae,,Tanacetum,,"meyerianum",,"","Sch.Bip.",Synonym,,M,TICA,86D95C73-6350-4B98-B171-408C96EF48C8,252411-1,"Tanacet. 47.","","","1844",gcc-46822
+gcc-42321,A,Compositae,,Tanacetum,,"microphyllum",,"","DC.",Unresolved,,L,TICA,5C014D44-69B9-4D4F-BC2C-4E653694EF13,252412-1,"","","131","1838",
+gcc-124221,A,Compositae,,Tanacetum,,"mikeschinii",,"","(Tzvelev) Takht.",Synonym,,M,TICA,F4CE00FB-EB51-444A-A02F-D02F37ED3E65,252413-1,"Krasnaya Kniga: 37 (1975).","","37","1975",gcc-101608
+gcc-22356,A,Compositae,,Tanacetum,,"millefoliatum",,"","Fisch. & Mey. ex DC.",Synonym,,L,TICA,8CA7F5B5-2F39-4F28-A9E6-295D8D887D74,252414-1,"","","128","1838",gcc-134827
+gcc-127181,A,Compositae,,Tanacetum,,"millefolium",,"","(L.) Tzvelev",Accepted,,L,TICA,06121196-7F9D-4A0D-B7FF-D70F15B53C88,252416-1,"","","348","1961",
+gcc-82933,A,Compositae,,Tanacetum,,"millefolium",,"","Aitch.",Unresolved,,L,TICA,9A166378-E850-4387-978A-732B8DDF82D1,,"""J. Linn. Soc., Bot. xix. (1882) 169""","","169","",
+gcc-28832,A,Compositae,,Tanacetum,,"mindshelkense",,"","Kovalevsk.",Accepted,,M,TICA,92A84E49-017E-48AD-8FA4-354B011E8F63,931323-1,"Novosti Sist. Vyssh. Rast. 23: 240 (1986)","","240","1986",
+gcc-29079,A,Compositae,,Tanacetum,,"minimum",,"","Sch.Bip.",Unresolved,,L,TICA,9AEFA59B-C8E3-444E-AD39-35C60DA0F165,252417-1,"Tanacet. 60.","","60","",
+gcc-33850,A,Compositae,,Tanacetum,,"modestum",,"","(Heimerl ex Stapf) Parsa",Accepted,,L,TICA,C16E2F0C-F428-4718-9467-3EC7961EE81B,252418-1,"""Fl. Iran, iii. 281 (1949)""","","281","1949",
+gcc-87342,A,Compositae,,Tanacetum,,"monanthos",,"","L.",Synonym,,M,TICA,DDF252E8-3203-42D8-ACB7-7D1060924A41,252419-1,"","","","1767",gcc-47996
+gcc-142848,A,Compositae,,Tanacetum,,"monspeliense",,"","Sch.Bip.",Unresolved,,L,TICA,AA5E41F7-942A-4D0A-AD13-FA91EBE81D49,252420-1,"Tanacet. 35.","","35","",
+gcc-136405,A,Compositae,,Tanacetum,,"montanum",,"","Sch.Bip.",Unresolved,,L,TICA,9280D5C4-3D73-4DF3-9C53-EC287E340F31,252421-1,"Tanacet. 35.","","35","",
+gcc-30928,A,Compositae,,Tanacetum,,"morifolium",,"","(Ramat.) Kitam.",Synonym,,M,TICA,C1B40172-AD2B-4C17-935C-39423DD0DBF9,,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 373 (1940), in syn.""","","","1940",gcc-78924
+kew-2901024,A,Compositae,,Tanacetum,×,"morifolium",,"","Kitam.",Synonym,Invalid,L,WCSP (in review),,252581-1,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol.","15: 373","","1940",kew-2901061
+gcc-129658,A,Compositae,,Tanacetum,,"morii",,"","Kitam.",Unresolved,,L,TICA,1C0F15D6-A9D1-43A7-8E7F-DCC69A5D0B9A,252582-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 352 (1940), in syn.""","","""xv. (Compos. Jap. II.) 352 (1940), in syn.""","",
+gcc-116658,A,Compositae,,Tanacetum,,"mucroniferum",,"","Hub.-Mor. & Grierson",Unresolved,,L,TICA,E13867D7-9D2F-421A-B3C3-BEECC3206B28,252422-1,"","","260","1974",
+gcc-96000,A,Compositae,,Tanacetum,,"mucronulatum",,"","(Hoffmanns. & Link) Heywood",Accepted,,M,TICA,C25FBC5F-96D6-44A3-904A-909B62602D1F,552000-1,"","","214","1958",
+gcc-25211,A,Compositae,,Tanacetum,,"multicaule",,"","Sch.Bip.",Unresolved,,L,TICA,24D43F1B-FD6A-42AC-8BA2-2E8C5AE3B4CE,252423-1,"Tanacet. 48.","","48","",
+gcc-39141,A,Compositae,,Tanacetum,,"multiflorum",,"","Thunb.",Unresolved,,L,TICA,DCBE999F-6AD3-4FF2-9503-489EB8A35088,252424-1,"Prodr. Pl. Cap. 147.","","147","",
+gcc-10447,A,Compositae,,Tanacetum,,"munzurdaghense",,"","Yıld.",Unresolved,,L,TICA,73FC66DF-DA1B-4039-A05D-137B452D56B0,,"Yιld. in Hacettepe Fen Mühendislik Biliml. Derg. 10. 1989.","","39","1989",
+gcc-10822,A,Compositae,,Tanacetum,,"musili",,"","(Velen.) Soldano",Unresolved,,L,TICA,2D50DC6D-2199-44E8-9ED7-14431D82FCE9,1003049-1,"""in Compositae Newsl., 32: 20 (1998):.""","","20","1998",
+gcc-17611,A,Compositae,,Tanacetum,,"mutellina",,"","Hand.-Mazz.",Accepted,,M,TICA,BE3AE438-6467-48A0-977B-2084E2CAF353,252425-1,"""in Anz. Akad. Wiss. Wien, Math.-Nat. 1924, lxi. 203 (1925).""","","203","1924",
+gcc-107864,A,Compositae,,Tanacetum,,"myconis",,"","(L.) Schenk",Unresolved,,L,TICA,31547E3F-6E47-4777-912F-AB13830F91FB,252426-1,"Ind. Sem. Hort. Wirceb. 1861: [8]","","[8]","1862",
+gcc-40404,A,Compositae,,Tanacetum,,"myrianthum",,"","Franch.",Synonym,,M,TICA,E4DB09B6-A3DA-478A-8F0E-4AE207EBF52B,,"""Bull. Soc. Philom. Paris sér. 8, iii. (1891) 144.""","","144","1891",gcc-145095
+gcc-151001,A,Compositae,,Tanacetum,,"myrianthum",var.,"myrianthum","",Synonym,,L,TICA,96F7147F-C0E8-4F88-9686-7ADB902C2640,,"","","","",gcc-145095
+gcc-67910,A,Compositae,,Tanacetum,,"myrianthum",var.,"wardii","C.Marquand & Airy Shaw",Synonym,,L,TICA,1BFFCB74-E7F3-411C-AC84-DAE7D894F853,,"""Journal of the Linnean Society, Botany 48(321):""","","190","1929",gcc-145095
+gcc-100447,A,Compositae,,Tanacetum,,"myriophyllum",,"","Willd.",Synonym,,M,TICA,D4A2E10D-54A1-4DCA-BB6A-9AA67588A1B4,,"","","","",gcc-72423
+gcc-129790,A,Compositae,,Tanacetum,,"nanum",,"","C.B.Clarke",Accepted,,L,TICA,34966C1A-4C83-41CC-935F-DD1094A88754,252429-1,"Comp. Ind. 155.","","155","1876",
+gcc-133202,A,Compositae,,Tanacetum,,"newesskyanum",,"","C.Winkl.",Accepted,,M,TICA,0C3C12B7-7E3F-46E3-BD9C-E4FACCA60B5D,,"Act. Hort. Petrop. xi. (1891) 374.","","374","",
+gcc-114568,A,Compositae,,Tanacetum,,"nipponicum",,"","Kitam.",Unresolved,,L,TICA,C34FE13C-6438-4B78-8D2F-BA27C2F7CC20,252583-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 344 (1940), in syn.""","","""xv. (Compos. Jap. II.) 344 (1940), in syn.""","",
+gcc-81576,A,Compositae,,Tanacetum,,"nitens",,"","(Boiss. & Noë) Grierson",Accepted,,M,TICA,03BECC18-435C-4FAA-AB80-7026025D6A30,,"","","","1975",
+gcc-97619,A,Compositae,,Tanacetum,,"nivale",,"","Sch.Bip.",Accepted,,M,TICA,2A9AE931-3C28-4D21-8150-944C0791F24D,252432-1,"","","","1844",
+gcc-96027,A,Compositae,,Tanacetum,,"niveum",,"","(Lag.) Sch.Bip.",Accepted,,M,TICA,636DC979-82A4-40DA-882A-90A88FE854DD,252433-1,"","","56","1844",
+gcc-116011,A,Compositae,,Tanacetum,,"nubigenum",,"","Wall. ex DC.",Accepted,,M,TICA,9E860B95-A3CC-40AA-B939-BD77C3ED0887,252434-1,"Prodr. (DC.) 6: 130","","130","1838",
+gcc-112968,A,Compositae,,Tanacetum,,"nuratavica",,"","(Krasch.) Muradyan",Unresolved,,L,TICA,74B1D558-BB6C-4274-BEE5-B69EF92C5D47,252435-1,"Biol. Zhurn. Armenii 29(8): 42 (1976)","","42","1976",gcc-19630
+gcc-4279,A,Compositae,,Tanacetum,,"nuristanicum",,"","Podlech",Accepted,,M,TICA,BD47AA16-E8C8-4C0E-9387-07F1BD8CB3C6,929874-1,"""in Fl. Iran., 158: 146 (1986)""","","146","1986",
+gcc-9587,A,Compositae,,Tanacetum,,"nuttallii",,"","Torr. & A.Gray",Synonym,,M,TICA,9419D16E-5FE9-4D68-8E9D-11E9BD4533FC,252436-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 415","","415","1843",gcc-115547
+gcc-138489,A,Compositae,,Tanacetum,,"obtusum",,"","Thunb.",Synonym,,M,TICA,77CDF63D-6C3E-40A5-8634-F0B239BB17E4,,"Prodr. Pl. Cap. 147.","","","1823",gcc-23888
+gcc-100087,A,Compositae,,Tanacetum,,"odessanum",,"","(Klokov) Tzvelev",Accepted,,M,TICA,936371C2-06C7-4BC8-B377-99CEC7F8F3A8,,"","","","1961",
+gcc-2646,A,Compositae,,Tanacetum,,"officinale",,"","Gueldenst. ex Ledeb.",Unresolved,,L,TICA,4F62DE02-CD5B-4DC4-8EF0-04DCB046818D,252439-1,"Fl. Ross. ii. 601.","","ii. 601","",
+gcc-137046,A,Compositae,,Tanacetum,,"officinarum",,"","Crantz",Unresolved,,L,TICA,4E9ED6FF-5E9E-4013-8D75-ED913B6C396D,,"Inst. i. 273.","","","1766",
+gcc-51129,A,Compositae,,Tanacetum,,"okiense",,"","Kitam.",Unresolved,,L,TICA,3BF8DC92-327E-4645-9F16-5ED9C4210DCC,252584-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 366 (1940), in syn.""","","""xv. (Compos. Jap. II.) 366 (1940), in syn.""","",
+gcc-5703,A,Compositae,,Tanacetum,,"oligocephalum",,"","(DC.) Sch.Bip.",Synonym,,M,TICA,BEF298CD-81DD-483D-BC27-0A9EBDAABB78,252441-1,"","","48","1844",gcc-2298
+gcc-9287,A,Compositae,,Tanacetum,,"oltense",,"","(Sosn.) Grierson",Accepted,,M,TICA,D5C285F3-9C5E-448B-AC41-115489450C1F,252442-1,"","","435","1975",
+gcc-35720,A,Compositae,,Tanacetum,,"ordubadense",,"","(Manden.) K.Bremer & Humphries",Unresolved,,L,TICA,9CA4BC64-96D9-4B63-8F94-423D575B0707,975095-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",gcc-121494
+gcc-138420,A,Compositae,,Tanacetum,,"oresbium",,"","W.W.Sm.",Synonym,,M,TICA,F68AD58E-CDD8-4D6B-ACD0-F088E8284D9A,252443-1,"Notes Roy. Bot. Gard. Edinburgh 10: 203","","203","1918",gcc-145095
+gcc-15030,A,Compositae,,Tanacetum,,"orientale",,"","Willd.",Unresolved,,L,TICA,A09A814E-A48D-49AB-9D16-1BD3AC1D66D8,252444-1,"Sp. Pl. iii. 1812.","","iii.","1812",
+gcc-112512,A,Compositae,,Tanacetum,,"ornatum",,"","Kitam.",Unresolved,,L,TICA,4D3F8838-DF86-473E-8CF0-B59B8BF12979,252585-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 352 (1940), in syn.""","","""xv. (Compos. Jap. II.) 352 (1940), in syn.""","",
+gcc-80096,A,Compositae,,Tanacetum,,"oshanahanii",,"","""Marrero Rodr., Febles & C.Suárez""",Accepted,,L,TICA,438A930B-F597-4F9B-AB5E-6CDAB0F9B713,,"","","4","1989",
+gcc-75571,A,Compositae,,Tanacetum,,"ovatifolium",,"","Stokes",Unresolved,,L,TICA,3A1C5BF8-E55D-41EF-8987-62B7BFD2286E,252445-1,"Bot. Mat. Med. iv. 180. 1812","","iv. 180","1812",
+gcc-135447,A,Compositae,,Tanacetum,,"oxylepis",,"","(Bordz.) Grierson",Synonym,,M,TICA,A16D4885-A3F7-4754-93E9-EA096E42C37C,252446-1,"Notes Roy. Bot. Gard. Edinburgh 33(2): 260","","260","1974",gcc-121958
+gcc-122478,A,Compositae,,Tanacetum,,"oxystegium",,"","(Sosn.) Grierson",Accepted,,M,TICA,4E16A2B8-49AB-4C02-AB50-CC1D238F2044,252447-1,"","","435","1975",
+gcc-103296,A,Compositae,,Tanacetum,,"pacificum",,"","Kitam.",Unresolved,,L,TICA,3D660613-FECE-4AA2-98F8-A0F671635AFC,252586-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 354 (1940), in syn.""","","""xv. (Compos. Jap. II.) 354 (1940), in syn.""","",
+gcc-118210,A,Compositae,,Tanacetum,,"paczoskii",,"","(Zefir.) Tzvelev",Accepted,,M,TICA,FA2A5C37-A0EE-41A2-AEC0-C269AA22FEF9,252448-1,"","","349","1961",
+gcc-43758,A,Compositae,,Tanacetum,,"paghgmanense",,"","Podlech",Synonym,,M,TICA,B76B5F99-0C8C-4930-BA5D-51168A4D3311,929870-1,"""in Fl. Iran., 158: 141 (1986)""","","141","1986",gcc-110721
+gcc-145224,A,Compositae,,Tanacetum,,"pakistanicum",,"","Podlech",Accepted,,L,TICA,35C761BA-5084-4033-A4B4-FFF412628526,,"""in Fl. Iran., 158: 101 (1986)""","","101","1986",
+gcc-129800,A,Compositae,,Tanacetum,,"paleaceum",,"","Podlech",Accepted,,M,TICA,A647C55D-AED3-415F-8A19-DD16203FBF09,929871-1,"""in Fl. Iran., 158: 143 (1986)""","","143","1986",
+gcc-37496,A,Compositae,,Tanacetum,,"pallasianum",,"","Trautv. & C.A.Mey.",Unresolved,,L,TICA,5484E4DA-C47C-48C7-917C-457F9BE5E206,252449-1,"in Middend. Reise (Fl. Ochot. 55)","","","1856",gcc-34945
+gcc-44708,A,Compositae,,Tanacetum,,"pallasianum",var.,"brevilobum","Franch. ex Diels",Synonym,Illegitimate,L,TICA,821DBD14-0C1E-487A-BB08-52D246461F1A,,"""Notes from the Royal Botanic Garden, Edinburgh 7(31):""","","26","1912",gcc-103396
+gcc-146320,A,Compositae,,Tanacetum,,"pallasianum",var.,"pallasianum","",Synonym,,L,TICA,1CE1B2E4-7106-4855-AE3D-162C76A90D1B,,"","","","",gcc-34945
+gcc-130390,A,Compositae,,Tanacetum,,"pallens",,"","Sch.Bip.",Unresolved,,L,TICA,FF75D630-ED71-4EF9-9EE7-DE722CE40025,252450-1,"Tanacet. 35.","","35","",
+gcc-78343,A,Compositae,,Tanacetum,,"pallidum",,"","(Mill.) Maire",Synonym,,M,TICA,06264ADA-015B-4904-AF39-68E99D5FF41D,252451-1,"","","4","1929",gcc-3216
+gcc-66369,A,Compositae,,Tanacetum,,"pallidum",subsp.,"longipectinatum","(Font Quer) Maire",Synonym,,L,TICA,96483EBF-7B57-41DC-BFEF-CE540FA298B1,,"""Maire in Emberger & Maire, Pl. Marocc. Nov. 1929.""","","4","1929",gcc-101954
+gcc-152399,A,Compositae,,Tanacetum,,"pallidum",subsp.,"pallidum","",Synonym,,L,TICA,7A2C62DD-EB80-44EA-8181-98DBCFFF5B83,,"","","","",gcc-3216
+gcc-54033,A,Compositae,,Tanacetum,,"pallidum",subsp.,"spathulifolium","(J.Gay) Font Quer & Rothm.",Synonym,,L,TICA,BB6AED92-BF9C-4618-BC21-6AD2A4497B57,,"Font Quer & Rothm.. 1933.","","[in schedis] No. 91","1933",gcc-70079
+gcc-66016,A,Compositae,,Tanacetum,,"pallidum",subsp.,"virescens","(Pau) Heywood",Synonym,,L,TICA,95AE6141-B136-49A2-B50B-CB60F607BA9E,,"Heywood in Anales Inst. Bot. Cavanilles 12(2). 1954.","","343","1954",gcc-71381
+gcc-109252,A,Compositae,,Tanacetum,,"palmatifidum",,"","Sch.Bip.",Unresolved,,L,TICA,CE9F5343-728B-49F7-9652-AE3D8A06F82F,252453-1,"Tanacet. 60.","","60","",
+gcc-8824,A,Compositae,,Tanacetum,,"palustre",,"","Sch.Bip.",Unresolved,,L,TICA,DD67EB92-8F40-4483-A0F2-1085CEA7BECA,252454-1,"Tanacet. 49.","","49","",
+gcc-111741,A,Compositae,,Tanacetum,,"pamiralaicum",,"","Kovalevsk.",Unresolved,,L,TICA,4C20D3C8-6D97-4918-893D-B3CC6F5C28F3,252455-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 35 (1961).","","xvi. 35","1961",gcc-468
+gcc-89728,A,Compositae,,Tanacetum,,"pamiricum",,"","(O.Hoffm.) Bornm.",Accepted,,M,TICA,588C95B3-796A-4611-84DE-825EFA679C4F,,"in Mitteil. Thuring. Bot. Ver. xxii. 48 (1907).","","","1907",
+gcc-94358,A,Compositae,,Tanacetum,,"paradoxum",,"","Bornm.",Accepted,,M,TICA,B72867E2-86B5-41D0-9EF0-8CCCF2AEA330,252457-1,"in Mitteil. Thuring. Bot. Ver. xxii. 46 (1907).","","xxii. 46","1907",
+gcc-105207,A,Compositae,,Tanacetum,,"paropamisicum",,"","(Krasch.) Kovalevsk.",Unresolved,,L,TICA,91307F8F-43D9-4517-8007-A51D59F8ED9F,252458-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 30 (1961).","","xvi. 30","1961",
+gcc-128650,A,Compositae,,Tanacetum,,"parthenifolium",,"","(Willd.) Sch.Bip.",Accepted,,L,TICA,CFCB5A71-DE23-4EF4-B054-DA7F7462F858,252459-1,"","","56","1844",
+gcc-36373,A,Compositae,,Tanacetum,,"parthenium",,"","(L.) Sch.Bip.",Accepted,,L,TICA,446954B1-B5D8-41E4-A2F8-4378D981C50B,252460-1,"Tanaceteen 55 (1844)","","55","1844",
+gcc-95870,A,Compositae,,Tanacetum,,"partmiciflorum",,"","(Webb) Sch.Bip.",Accepted,,M,TICA,783E2FC8-4F82-4AE2-A558-9054A66595CA,,"","","","",
+gcc-32496,A,Compositae,,Tanacetum,,"parviflorum",,"","(Grüning) H.W.Kung",Unresolved,,L,TICA,10997579-1396-4E67-A536-3C401BBFD3FA,252461-1,"Contr. Inst. Bot. Natl. Acad. Peiping 2: 404","","404","1934",gcc-116345
+gcc-1279,A,Compositae,,Tanacetum,,"pauciflorum",,"","Richardson",Unresolved,,L,TICA,3F29C24C-778A-437B-BC72-0255FE26237D,326288-2,"","","30","1823",
+gcc-45558,A,Compositae,,Tanacetum,,"pauciflorum",,"","Fisch.",Unresolved,Invalid,L,TICA,4361C249-D7C0-4395-9F95-5473DC0EAD24,252463-1,"""Cat. Jard. Pl. Gorenki ed. 2, 37""","","37","1812",
+gcc-83679,A,Compositae,,Tanacetum,,"pauciflorum",,"","DC.",Unresolved,,L,TICA,711B2ED4-F6F4-40BC-B27D-74D1A0EDBEB9,,"Prodr. (DC.) 6: 131","","131","1838",
+gcc-11758,A,Compositae,,Tanacetum,,"pectiniforme",,"","Heywood",Unresolved,,L,TICA,27F60C18-4000-4672-9E22-15E411BE1F74,252465-1,"Notes Roy. Bot. Gard. Edinburgh 21: 60","","60","1952",
+gcc-151679,A,Compositae,,Tanacetum,,"persica",,"","Boiss.",Accepted,,M,TICA,B3045BD5-40E1-4A9C-9681-89EEA1029472,,"","","","",
+gcc-37018,A,Compositae,,Tanacetum,,"persicum",,"","(Boiss.) Mozaff.",Unresolved,,L,TICA,4B3BB848-883E-420A-9B30-44955D4FB0DF,77068852-1,"Iranian J. Bot. 11(1): 126. 2005","","126","2005",gcc-128650
+gcc-4149,A,Compositae,,Tanacetum,,"petiolosum",,"","Pamp.",Unresolved,,L,TICA,B4E3C853-918E-4A51-BF9E-07B9087EC9E6,,"""in Sped. Ital. De Filippi Himal. etc. 1913-14, Ser. 11. xi. (Agg. Fl. Carac.)173 (1934).""","","","1934",
+gcc-112397,A,Compositae,,Tanacetum,,"petrareum",,"","(C.Shih) K.Bremer & Humphries",Unresolved,,L,TICA,D087E961-F872-4DF1-A112-B557AB67AA21,975096-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",gcc-91140
+gcc-123916,A,Compositae,,Tanacetum,,"peucedanifolium",,"","(Sosn.) K.Bremer & Humphries",Accepted,,M,TICA,6BA175EF-7192-4057-B8F0-CF7EC160FC78,975097-1,"","","103","1993",
+gcc-50464,A,Compositae,,Tanacetum,,"pilosum",,"","P.J.Bergius",Synonym,,M,TICA,BDCD3A6F-F3D4-439D-818B-5D8DCA9935A4,252467-1,"Descr. Pl. Cap. 244. 1767","","244","1767",gcc-49676
+gcc-35470,A,Compositae,,Tanacetum,,"pinnatifidum",,"","Sch.Bip.",Unresolved,,L,TICA,D69A9239-6BE0-40FA-A857-41C33FE01EEC,252468-1,"Tanacet. 52.","","52","",
+gcc-30550,A,Compositae,,Tanacetum,,"pinnatum",,"","Boiss.",Accepted,,M,TICA,42CB4CBB-812C-4524-82E9-388B3A277339,,"","","90","",
+gcc-86834,A,Compositae,,Tanacetum,,"pjataevae",,"","Kovalevsk.",Accepted,,M,TICA,352E6226-3946-4425-BA59-7BD6AF58192E,252470-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 27 (1961).","","xvi. 27","1961",
+gcc-28558,A,Compositae,,Tanacetum,,"platyrachis",,"","(Boiss.) Kovalevsk.",Accepted,,M,TICA,3349ED32-54A2-4A2B-8D99-34C83148A576,252471-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 23 (1961).","","xvi. 23","1961",
+gcc-122627,A,Compositae,,Tanacetum,,"podlechii",,"","K.Bremer & Humphries",Unresolved,,L,TICA,8FB11E19-8E16-45CB-B004-CC6FC4975163,975098-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993), nom. nov.:.""","","103","1993",
+gcc-41074,A,Compositae,,Tanacetum,,"polycephalum",,"","Sch.Bip.",Accepted,,M,TICA,ADFEE01D-9E88-4498-BEE8-4C218031E8F9,252472-1,"","","47","1844",
+gcc-72423,A,Compositae,,Tanacetum,,"polycephalum",subsp.,"argyrophyllum","(K.Koch) Podlech",Accepted,,L,TICA,9667FE4E-0D93-489A-9790-FDDBFA6C0115,952514-1,"","","117","1986",
+gcc-63339,A,Compositae,,Tanacetum,,"polycephalum",subsp.,"duderanum","(Boiss.) Podlech",Accepted,,L,TICA,E267DBFA-C103-4143-83E4-B6132AE355A8,952517-1,"","","120","1986",
+gcc-64817,A,Compositae,,Tanacetum,,"polycephalum",subsp.,"filipendulinum","(Boiss.) Greuter",Accepted,,L,TICA,652A9F93-5F2B-4CB7-9358-C166FE775B4F,70029012-1,"","","43","2003",
+gcc-54657,A,Compositae,,Tanacetum,,"polycephalum",subsp.,"junesarense","(Bornm.) Podlech",Accepted,,L,TICA,D212E4A0-F077-4495-8EBE-6FC8D7FB0566,952516-1,"""in Fl. Iran., 158: 119 (1986):.""","","119","1986",
+gcc-148822,A,Compositae,,Tanacetum,,"polycephalum",subsp.,"polycephalum","",Synonym,,L,TICA,A36DC5AA-FFCB-456D-AFB1-4B89E3A839A7,,"","","","",gcc-41074
+gcc-113365,A,Compositae,,Tanacetum,,"porphyrostephanum",,"","(Rech.f.) K.Bremer & Humphries",Accepted,,L,TICA,DEBD6A86-1C29-4AC4-AC96-B77C9D46E333,975099-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",
+gcc-21313,A,Compositae,,Tanacetum,,"potaninii",,"","Krasch.",Synonym,,M,TICA,0C737F1C-5A01-4886-BC23-276358D992B9,252473-1,"Repert. Spec. Nov. Regni Veg. 26: 28","","28","1929",gcc-15791
+gcc-54508,A,Compositae,,Tanacetum,,"potaninii",var.,"nanum","Krasch.",Synonym,,L,TICA,D5CB07B1-68DC-4620-95A8-6EB27A9E8E44,,"Repertorium Specierum Novarum Regni Vegetabilis 26(703-708):","","28","1929",gcc-15791
+gcc-150155,A,Compositae,,Tanacetum,,"potaninii",var.,"potaninii","",Synonym,,L,TICA,A36B0557-C596-44E5-A9D9-6873B62F9FCA,,"","","","",gcc-15791
+gcc-57504,A,Compositae,,Tanacetum,,"potaninii",var.,"suffruticosum","Krasch.",Synonym,,L,TICA,341055C4-8707-4DB6-9590-86DDD9FA3535,,"Repertorium Specierum Novarum Regni Vegetabilis 26(703-708):","","28","1929",gcc-15791
+gcc-115842,A,Compositae,,Tanacetum,,"potentilloides",,"","(A.Gray) A.Gray",Synonym,,M,TICA,E6A656A5-79E8-4CFE-93A9-BD1C29500486,252474-1,"""Proc. Amer. Acad. Arts ix, 204""","","204","1874",gcc-10965
+gcc-47353,A,Compositae,,Tanacetum,,"potentilloides",var.,"nitrophilum","Cronquist",Synonym,,L,TICA,23A7B588-D0EC-4E7C-A176-57AF1221657C,249320-2,"Leafl. W. Bot. 6: 49. 1950","","49","1950",gcc-53777
+gcc-43498,A,Compositae,,Tanacetum,,"potentilloides",var.,"potentilloides","",Synonym,,L,TICA,35759627-90D7-49D5-8D92-50A7C5A0C17F,249321-2,"Leafl. W. Bot. 6: 48. 1950","","48","1950",gcc-10965
+gcc-133236,A,Compositae,,Tanacetum,,"poteriifolium",,"","Grierson",Accepted,,M,TICA,0F1BD9C7-D0B4-4D6E-AC30-E50DDC395804,252475-1,"","","435","1975",
+gcc-124842,A,Compositae,,Tanacetum,,"praeteritum",,"","(Horw.) Heywood",Accepted,,M,TICA,0BA9CC69-4C13-41C0-8BCC-D1A3A8A49437,252476-1,"","","54","1952",
+gcc-55032,A,Compositae,,Tanacetum,,"praeteritum",subsp.,"praeteritum","",Synonym,,L,TICA,4321F101-862D-49FA-8D18-72B21AA56184,,"","","","",gcc-124842
+gcc-127516,A,Compositae,,Tanacetum,,"pseudachillea",,"","C.Winkl.",Accepted,,M,TICA,E67CFBE6-E00F-4D15-94A1-D7D3B2A0F64B,252477-1,"","","373","1891",
+gcc-110506,A,Compositae,,Tanacetum,,"pseudo-parthenium",,"","Sch.Bip.",Unresolved,,L,TICA,B29CB72C-AAB7-4272-A81D-B107D90D28C3,252478-1,"""in Pollichia xx-xxi, (1863) 444.""","","""xx-xxi,  444""","1863",
+gcc-118674,A,Compositae,,Tanacetum,,"ptarmiciflorum",,"","Sch.Bip.",Accepted,,M,TICA,98F54035-DE00-443F-8210-C37EB3D90A17,252479-1,"","","50","1844",
+gcc-52016,A,Compositae,,Tanacetum,,"pulchellum",,"","Sch.Bip.",Unresolved,,L,TICA,B93857EF-056C-4B1D-A9C5-607D854C8EF3,252480-1,"Tanacet. 61.","","61","",
+gcc-28269,A,Compositae,,Tanacetum,,"pulchrum",,"","(Ledeb.) Sch.Bip.",Synonym,,M,TICA,4B9B9041-DE85-4CBD-88FE-343910B72358,252481-1,"Tanacet. 49.","","","1844",gcc-9871
+gcc-7806,A,Compositae,,Tanacetum,,"pullum",,"","Hand.-Mazz.",Unresolved,,L,TICA,F6C4BCE8-AE99-4410-9616-0E83FBA93B7E,,"""in Anz. Akad. Wiss. Wien, Math.-Nat. 1924, lxi. 202 (1925).""","","","1924",
+gcc-128995,A,Compositae,,Tanacetum,,"pulverulentum",,"","Sch.Bip.",Synonym,,M,TICA,422E3132-27F0-4D60-A77C-DB468BE9DB73,252483-1,"","","48","1844",gcc-99881
+gcc-152548,A,Compositae,,Tanacetum,,"pulverulentum",subsp.,"pulverulentum","",Synonym,,L,TICA,72573FE3-0E78-4981-BD54-9BED43E74171,,"","","","",gcc-99881
+gcc-13318,A,Compositae,,Tanacetum,,"punctatum",,"","(Desr.) Grierson",Accepted,,M,TICA,132F80FE-CE4E-49A1-8FFF-18D245362EB6,252484-1,"","","435","1975",
+gcc-620,A,Compositae,,Tanacetum,,"purpureum",,"","Buch.-Ham. ex D.Don",Synonym,,M,TICA,EB96FE05-0E5A-4F39-95F7-012BBA41131D,252485-1,"Prodr. Fl. Nepal. 181","","181","1825",gcc-144794
+gcc-18777,A,Compositae,,Tanacetum,,"pyrethroides",,"","(Kar. & Kir.) Podlech",Synonym,,M,TICA,896B8DA2-7B25-436C-AE44-22AB4CB1109B,252488-1,"Mitt. Bot. Staatssamml. München 13: 495 (1977)","","495","1977",gcc-132754
+gcc-40797,A,Compositae,,Tanacetum,,"pyrethroides",,"","(Kar. & Kir.) Muradyan",Synonym,,M,TICA,4CAF1536-6A64-4D50-A9F4-4B9AB865EA6A,252487-1,"Biol. Zhurn. Armenii 29(8): 42 (1976)","","42","1976",gcc-132754
+gcc-46735,A,Compositae,,Tanacetum,,"pyrethroides",,"","(Kar. & Kir.) Sch.Bip.",Synonym,,M,TICA,6F9584F3-C66A-450B-ACFD-569D9116A147,252486-1,"in Pollichia xx-xxi. (1863) 441.","","441","1863",gcc-132754
+gcc-106119,A,Compositae,,Tanacetum,,"quercifolium",,"","W.W.Sm.",Synonym,,M,TICA,34266821-71F7-4D09-A410-A712B71302F9,252489-1,"Notes Roy. Bot. Gard. Edinburgh 8: 119","","119","1913",gcc-98305
+gcc-39558,A,Compositae,,Tanacetum,,"radicans",,"","(Cav.) Sch.Bip.",Synonym,,L,TICA,F74406BA-6296-493C-94E2-4968CCA3B824,252490-1,"","","48","1844",gcc-97975
+gcc-17348,A,Compositae,,Tanacetum,,"regelii",,"","Kovalevsk.",Unresolved,,L,TICA,89BAD674-FB2F-41BE-9E7B-20125CD8F0FD,252491-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 27 (1961).","","xvi. 27","1961",
+gcc-125471,A,Compositae,,Tanacetum,,"richterioides",,"","(C.Winkl.) K.Bremer & Humphries",Accepted,,M,TICA,38355740-8AFE-493B-8B09-D31E6FEECB4D,975100-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",
+gcc-91365,A,Compositae,,Tanacetum,,"robustum",,"","Hook.f. & Thomson ex C.B.Clarke",Accepted,,M,TICA,DFEA8BB1-7F9E-4C39-8A06-863C341A3264,252492-1,"Comp. Ind. 154.","","","1876",
+gcc-101896,A,Compositae,,Tanacetum,,"rockii",,"","Mattf. ex Rehder & Kobuski",Synonym,,M,TICA,9F853CDC-1463-4434-94B5-9DD10104A7EE,,"Journal of the Arnold Arboretum 13(4):","","406-407","1932",gcc-15791
+gcc-121419,A,Compositae,,Tanacetum,,"rockii",,"","Mattf.",Accepted,,M,TICA,302B4FE5-2220-4D6C-9E46-C9C33A42D235,252493-1,"""J. Arnold Arbor. 1932, xiii. 406.""","","xiii. 406.","1932",
+gcc-35550,A,Compositae,,Tanacetum,,"roseum",,"","(Adam) Sch.Bip.",Unresolved,,L,TICA,56F3213D-1C30-43CE-99F2-41E91EAA4D67,252494-1,"Tanacet. 58.","","58","1844",gcc-83879
+gcc-13171,A,Compositae,,Tanacetum,,"rotundifolium",,"","(Willd.) DC.",Synonym,,M,TICA,CC232795-C840-4D72-B2CB-188CA041F1FB,252495-1,"","","133","1838",gcc-98544
+gcc-131199,A,Compositae,,Tanacetum,,"roylei",,"","(DC.) R.Khan",Unresolved,,L,TICA,4B14010A-A973-4013-8707-E056F9F15879,2962509-1,"Mitt. Bot. Staatssamml. München 29: 459 (1990):","","459","1990",
+gcc-136955,A,Compositae,,Tanacetum,,"rupestre",,"","Popov",Unresolved,,L,TICA,C83EB75C-7FA0-4195-AD41-ED67AFCF558D,252587-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 282 (1937)""","","282","1937",gcc-79143
+gcc-86829,A,Compositae,,Tanacetum,,"rupestre",,"","Popov ex Nevski",Accepted,,M,TICA,305E253B-1107-4172-93D0-7BD2186103C9,,"","","","",
+gcc-122467,A,Compositae,,Tanacetum,,"salicifolium",,"","Mattf. ex Rehder",Synonym,,M,TICA,36EAD7E6-8BD3-4683-B8D2-CC15D2934852,,"Journal of the Arnold Arboretum 13(4):","","407-408","1932",gcc-107030
+gcc-128507,A,Compositae,,Tanacetum,,"salicifolium",,"","Mattf.",Accepted,,M,TICA,D5DA1070-7113-4A8B-A0FB-DA2A87FD781A,252497-1,"""J. Arnold Arbor. 1932, xiii. 407.""","","xiii. 407.","1932",
+gcc-16642,A,Compositae,,Tanacetum,,"salsugineum",,"","Podlech",Accepted,,M,TICA,7F27436C-D9DA-4C7D-A9AF-1EBFBBD94CF4,929875-1,"""in Fl. Iran., 158: 147 (1986)""","","147","1986",
+gcc-38906,A,Compositae,,Tanacetum,,"sanguineum",,"","(Parsa) Parsa",Accepted,,M,TICA,7CFEFC11-1C16-4DDD-B46D-482AADF9B466,252498-1,"""Fl. Iran, iii. 279 (1949)""","","279","1949",
+gcc-150970,A,Compositae,,Tanacetum,,"sanguineum",f.,"sanguineum","",Synonym,,L,TICA,5CF0A25A-8AAA-4B96-ADD7-7A2235C87303,,"","","","",gcc-38906
+gcc-88367,A,Compositae,,Tanacetum,,"santolina",,"","C.Winkl.",Accepted,,M,TICA,78DD9807-AF39-4DD0-A99E-7F4789BF6078,252499-1,"","","375","1891",
+gcc-111178,A,Compositae,,Tanacetum,,"santolinoides",,"","(DC.) Feinbrun & Fertig",Synonym,,M,TICA,C940771B-34E9-4136-9074-B2897DF5AE8A,,"Israel J. Bot. 25(1-2): 82","","82","1976",gcc-4951
+gcc-133311,A,Compositae,,Tanacetum,,"saryarkense",,"","Kamelin",Unresolved,,L,TICA,8FC264CA-61B0-409D-A44F-E538D449BF65,986194-1,"Opred. Rast. Sred. Azii 10: 636 (1993)","","636","1993",
+gcc-107661,A,Compositae,,Tanacetum,,"saxatile",,"","Sch.Bip.",Unresolved,,L,TICA,E1EC49C7-EB96-4155-A574-AA93F8C4174F,252501-1,"Tanacet. 47.","","47","",
+gcc-142955,A,Compositae,,Tanacetum,,"saxicola",,"","(Krasch.) Tzvelev",Accepted,,M,TICA,FDC2FAAC-21CA-4836-B245-FAD2ACB840BE,,"Fl. URSS xxvi. 342 (1961).","","","1961",
+gcc-127074,A,Compositae,,Tanacetum,,"scharnhorstii",,"","Regel & Schmalh.",Synonym,,M,TICA,2FC7C8B8-9B70-41CD-A373-D6C922DA6A8E,,"Act. Hort. Petrop. v. (1877) 620.","","620","1878",gcc-36195
+gcc-141463,A,Compositae,,Tanacetum,,"schugnanicum",,"","C.Winkl.",Accepted,,M,TICA,ADF5DB7C-C931-4131-A18C-F77D7E9530DC,,"Act. Hort. Petrop. xi. (1891) 318.","","318","",
+gcc-130178,A,Compositae,,Tanacetum,,"sclerophyllum",,"","(Krasch.) Tzvelev",Synonym,,M,TICA,5C0C8B80-E6D5-428D-BA67-DDF0A9254C33,252505-1,"","","347","1961",gcc-41186
+gcc-8065,A,Compositae,,Tanacetum,,"scopulorum",,"","(Krasch.) Tzvelev",Accepted,,M,TICA,EE4FF416-B5AE-4C8F-97E5-0F02F55D46F0,,"Fl. URSS xxvi. 342 (1961).","","","1961",
+gcc-84553,A,Compositae,,Tanacetum,,"semenovii",,"","Herder",Accepted,,M,TICA,5EE17E97-DCDB-4B1F-8E50-76CC24DC9951,,"in Bull. Soc. Nat. Mosc. xl. (1867) II. 130","","130","",
+gcc-85143,A,Compositae,,Tanacetum,,"senecionis",,"","(Jacquem. ex Besser) J.Gay",Synonym,,M,TICA,BAED0224-6D82-480C-913B-7806C8A342A3,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","129","1837",gcc-152277
+gcc-86356,A,Compositae,,Tanacetum,,"senecionis",,"","(Jacquem. ex Besser) J.Gay ex DC.",Synonym,,M,TICA,6E3F444E-0339-4D03-9F8C-7ABA8ECDFEEA,252508-1,"","","129","1838",gcc-152277
+gcc-92657,A,Compositae,,Tanacetum,,"sericeum",,"","(Adams) Sch.Bip.",Accepted,,M,TICA,9078C4F8-1FDD-4676-A108-89122DCC4B65,252509-1,"","","59","1844",
+gcc-115527,A,Compositae,,Tanacetum,,"serotinum",,"","(L.) Sch.Bip.",Synonym,,M,TICA,4A3C1668-B83C-4097-810F-BC5DE06C3EE2,252510-1,"","","35","1844",gcc-130838
+gcc-131803,A,Compositae,,Tanacetum,,"serotinum",,"","Simonk.",Unresolved,,L,TICA,C9C3CA52-1E5B-4D10-8F7A-E1C5538C5943,,"Enum. Fl. Transsilv. (1886) 312.","","312","1886",
+gcc-18545,A,Compositae,,Tanacetum,,"setaceum",,"","Oliv.",Unresolved,,L,TICA,11B55F0E-CD53-4636-BE4D-22430E89BA03,252513-1,"""in Hook. Icon. pl. xxiv. (1894) tub. t. 2365, in obs.""","","""xxiv.  tub. t. 2365, in obs.""","1894",
+gcc-38563,A,Compositae,,Tanacetum,,"setaceum",,"","Tausch",Synonym,,L,TICA,66262377-007A-4408-907D-47925C68A671,,"","","","1829",gcc-134827
+gcc-80176,A,Compositae,,Tanacetum,,"sevanense",,"","(Sosn. ex Grossh.) K.Bremer & Humphries",Unresolved,,L,TICA,7EB396F0-DB4E-4546-8EDF-6D0C4979143B,975101-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",gcc-36373
+gcc-114015,A,Compositae,,Tanacetum,,"shahrudense",,"","""Rech.f., Aellen & Esfand.""",Unresolved,,L,TICA,D47600E1-1957-4942-A49B-B8E26EF1E510,,"","","","",
+gcc-18766,A,Compositae,,Tanacetum,,"shiwogiku",,"","Kitam.",Unresolved,,L,TICA,A2029D27-73F8-42A0-935E-22A80E3C1D3B,252588-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 353 (1940), in syn.""","","""xv. (Compos. Jap. II.) 353 (1940), in syn.""","",
+gcc-52118,A,Compositae,,Tanacetum,,"sibiricum",,"","L.",Synonym,,M,TICA,B9B6374C-3B6D-492F-855C-60AD91BA2159,252515-1,"Sp. Pl. 844.","","844","1753",gcc-5614
+gcc-5578,A,Compositae,,Tanacetum,,"sibiricum",,"","Falk",Unresolved,,L,TICA,C26A1E85-79B4-4CA2-BB69-0A677733BCBC,252514-1,"Topogr. ii. n. 942; ex Ledeb. Fl. Alt. iv. 60.","","ii. n. 942","",
+gcc-80593,A,Compositae,,Tanacetum,,"siculum",,"","(Guss.) Strobl",Accepted,,M,TICA,21814313-EAAE-439D-AE47-6DEA46179419,252516-1,"","","249","1882",
+gcc-84970,A,Compositae,,Tanacetum,,"silaifolium",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,11989747-97DB-4526-BCF4-77A63AEC39DD,252517-1,"","","","1844",
+gcc-48464,A,Compositae,,Tanacetum,,"silvicola",,"","Podlech",Accepted,,M,TICA,D3811CF1-BEAF-4B2D-AA54-59C35EBC52D7,929872-1,"""in Fl. Iran., 158: 144 (1986)""","","144","1986",
+gcc-85672,A,Compositae,,Tanacetum,,"simplex",,"","A.Nelson",Synonym,,M,TICA,1D2F8412-E0DB-4B0A-99FE-792E03EC1A33,249322-2,"","","484","1899",gcc-81083
+gcc-95531,A,Compositae,,Tanacetum,,"simplicifolium",,"","Salisb.",Unresolved,,L,TICA,C70977F3-F6B5-4662-AC5C-8F9297AF16DC,252519-1,"Prodr. Stirp. Chap. Allerton 190","","190","1796",
+gcc-36626,A,Compositae,,Tanacetum,,"sinaicum",,"","Delile ex DC.",Synonym,Invalid,M,TICA,158BACAA-666D-4F0D-919D-43E8415BD2DB,252520-1,"Prodr. (DC.) 6: 59","","59","1838",gcc-4951
+gcc-4951,A,Compositae,,Tanacetum,,"sinaicum",,"","(Fresen.) Delile ex K.Bremer & Humphries",Accepted,,M,TICA,7A9E613D-3C63-4A91-B5DB-093C3E186622,975102-1,"","","103","1993",
+gcc-120198,A,Compositae,,Tanacetum,,"sinchangense",,"","Kitam.",Unresolved,,L,TICA,D2758AD9-9A05-42BF-9471-C6EFD60968D0,252589-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 366 (1940), in syn.""","","""xv. (Compos. Jap. II.) 366 (1940), in syn.""","",
+gcc-144189,A,Compositae,,Tanacetum,,"sinense",,"","(Sabine) Sch.Bip.",Synonym,,M,TICA,A7872E45-52F2-48BB-9B85-FD8D21748E90,252521-1,"","","50","1844",gcc-130137
+kew-2901023,A,Compositae,,Tanacetum,×,"sinense",,"","(Sabine) Sch.Bip.",Synonym,,L,WCSP (in review),,252521-1,"Tanaceteen","50","","1844",kew-2901061
+gcc-47707,A,Compositae,,Tanacetum,,"sinuatum",,"","Sch.Bip.",Accepted,,M,TICA,168AC50D-400A-4AE4-9944-5863AE569ED0,252522-1,"Tanacet. 35.","","35","",
+gcc-39921,A,Compositae,,Tanacetum,,"sipikorense",,"","(Bornm.) Grierson",Accepted,,M,TICA,FA11915D-5A20-4159-AF8A-4A1898064ADF,252523-1,"","","270","1975",
+gcc-140202,A,Compositae,,Tanacetum,,"solerophyllum",,"","(Krasch.) Tzvel.",Unresolved,,L,TICA,4EE7B1E4-54F4-42C3-B379-F47BE77B31F9,,"Fl. USSR 26: 330 (2000)","","330","2000",
+gcc-28744,A,Compositae,,Tanacetum,,"sonbolii",,"","Mozaff.",Unresolved,,L,TICA,B5724915-8A33-4873-BCAE-35282B8EFCC7,,"Iranian J. Bot. 11(1): 119 (121-122; fig. 3). 2005","","","",
+gcc-50156,A,Compositae,,Tanacetum,,"songaricum",,"","(Tzvelev) K.Bremer & Humphries",Unresolved,,L,TICA,D6735EC3-1EB9-4FFD-9FC9-5CF91637DFE9,975103-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):.""","","103","1993",
+gcc-4640,A,Compositae,,Tanacetum,,"sorbifolium",,"","(Boiss. ex Boiss.) Grierson",Accepted,,M,TICA,E70288DF-B57A-4CE2-99B7-08A3D85644FC,252524-1,"","","435","1975",
+gcc-113861,A,Compositae,,Tanacetum,,"stapfianum",,"","(Rech.f.) Podlech",Accepted,,M,TICA,81112699-8AC9-4184-AF16-B88F853685F1,942803-1,"""in Fl. Iran., 158: 112 (1986):.""","","112","1986",
+gcc-101383,A,Compositae,,Tanacetum,,"stoliczkae",,"","(C.B.Clarke) R.Khan",Accepted,,M,TICA,B233636A-CBDC-4A1C-81CB-9CA7EC2CDA50,962510-1,"Edinburgh J. Bot. 48(1): 50","","50","1991",
+gcc-130627,A,Compositae,,Tanacetum,,"suaveolens",,"","(Pursh) Hook.",Synonym,,M,TICA,A9B632AC-3AB6-4093-93B8-DEFB836538E1,,"Fl. Bor.-Amer. (Hooker) i. 327. t. 110","","327","1833",gcc-101252
+gcc-28878,A,Compositae,,Tanacetum,,"subalpinum",,"","(Schur) Simonk.",Synonym,,M,TICA,92DA42B3-F860-4B5D-A0D0-3564451E9A8A,,"","","","1886",gcc-110284
+gcc-13069,A,Compositae,,Tanacetum,,"subcorymbosum",,"","Simonk.",Synonym,,M,TICA,5F9666CC-A8D4-4179-907D-185758987758,,"Enum. Fl. Transsilv. (1886) 312.","","312","1886",gcc-62103
+gcc-29704,A,Compositae,,Tanacetum,,"submarginatum",,"","Kovalevsk.",Accepted,,M,TICA,D33509E6-D2D0-4DEA-825A-36E8B001A436,252528-1,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 30 (1961).","","xvi. 30","1961",
+gcc-95761,A,Compositae,,Tanacetum,,"subsimile",,"","(Rech.f.) Kovalevsk.",Accepted,,M,TICA,7684E1A7-2511-4B1B-9331-901ADA508BDA,,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. Uzbekistan. xvi. 23 (1961).","","","1961",
+gcc-92572,A,Compositae,,Tanacetum,,"subsimilis",,"","S.Kovalevsk.",Accepted,,L,TICA,F5CC0635-0EBD-4EDD-9EFF-88E44B83EB12,,"","","","",
+gcc-92527,A,Compositae,,Tanacetum,,"suffruticosum",,"","Burm. ex L.",Synonym,,M,TICA,AB2A6A50-08EA-43D7-9FFB-88CE1AE5875F,,"","","843","",gcc-47079
+gcc-91915,A,Compositae,,Tanacetum,,"sulphureum",,"","Sch.Bip.",Unresolved,,L,TICA,7CAB2A6B-D9FD-4EBA-918F-8779F09CA0D1,252533-1,"Tanacet. 48.","","48","",
+gcc-96513,A,Compositae,,Tanacetum,,"szovitsii",,"","Sosn. & Takht.",Synonym,,L,TICA,EA9BDB08-A81D-4A49-84EE-91C3E52C7B89,,"""Sosn. & Takht. in Tahtadžjan & Fedorov, Fl. Erevana [ed. prior]. 1945.""","","311","1945",gcc-134827
+gcc-109104,A,Compositae,,Tanacetum,,"tabrisianum",,"","(Boiss.) Sosn. & Takht.",Accepted,,M,TICA,D0BA4D69-CD5F-481A-BB7B-ADDF1DDBEB18,60444763-2,"","","310","1945",
+gcc-7392,A,Compositae,,Tanacetum,,"tadshikorum",,"","Kudr.",Synonym,,M,TICA,CB9EC256-3A5E-4716-AD1F-0DBBDFC66825,,"in Bull. Univ. As. Centr. xix. 163 (1934).","","xix. 163","1934",gcc-2004
+gcc-38863,A,Compositae,,Tanacetum,,"tamrutense",,"","(Sosn.) Tzvelev",Synonym,,M,TICA,E737E748-9D9F-47E6-A117-481A6EB99359,,"""Tzvelev in Komarov, Fl. SSSR 26. 1961.""","","334","1961",gcc-30550
+gcc-46762,A,Compositae,,Tanacetum,,"tamrutense",,"","(Sosn.) Sosn.",Accepted,,M,TICA,FB160963-46FC-4FFC-BDBF-56A67AF7B324,,"Fl. Erevana : 312 (1946)","","312","1946",
+gcc-46822,A,Compositae,,Tanacetum,,"tanacetoides",,"","(DC.) Tzvelev",Accepted,,M,TICA,46F861C4-8B07-4BC0-9165-56C1A434EAE1,252535-1,"""in Fl. URSS, ed. Komarov, xxvi. 337 (1961)""","","337","1961",
+gcc-107778,A,Compositae,,Tanacetum,,"tatsienense",,"","(Bureau & Franch.) K.Bremer & Humphries",Synonym,,M,TICA,E7E08476-B86F-4C8B-914A-AADD850B77F5,975104-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 103 (1993):""","","103","1993",gcc-101899
+gcc-148368,A,Compositae,,Tanacetum,,"tatsienense",var.,"tatsienense","",Synonym,,L,TICA,57CE7055-582E-4F48-AEA9-410A12401473,,"","","","",gcc-101899
+gcc-86660,A,Compositae,,Tanacetum,,"tauricum",,"","Sch.Bip.",Unresolved,,L,TICA,3290602C-A874-49A8-A8DB-7B6AE55F1EEC,252536-1,"Tanacet. 48.","","48","",
+gcc-31944,A,Compositae,,Tanacetum,,"tenuifolium",,"","Jacquem. ex DC.",Accepted,,M,TICA,79FB9596-4F87-4431-BA11-3B280A3D8BE4,252537-1,"Prodr. (DC.) 6: 129","","129","1838",
+gcc-11146,A,Compositae,,Tanacetum,,"tenuisectum",,"","Sch.Bip.",Unresolved,,L,TICA,FD4DA4B8-266B-4D2D-B4F6-14D86EE2C7BE,252538-1,"in Pollichia xx-xxi. (1863) 444.","","xx-xxi.  444","1863",
+gcc-126859,A,Compositae,,Tanacetum,,"tenuisectum",,"","(Boiss.) Podlech",Accepted,,M,TICA,0582383F-30F6-422B-A702-D642D0268C13,942800-1,"""in Fl. Iran., 158: 103 (1986):.""","","103","1986",
+gcc-92160,A,Compositae,,Tanacetum,,"tenuissimum",,"","(Trautv.) Grossh.",Accepted,,M,TICA,E5D49920-D1E3-43B3-AF39-8802DE321561,60456967-2,"Grossh.. 1949.","","462","1949",
+gcc-15534,A,Compositae,,Tanacetum,,"tibeticum",,"","Hook.f. & Thomson",Synonym,,M,TICA,E140F48F-AE46-409B-A0A6-1CBFF6CDE844,,"Compositae Indica","","154","1876",gcc-37081
+gcc-21863,A,Compositae,,Tanacetum,,"tibeticum",,"","Hook.f. & Thomson ex C.B.Clarke",Synonym,,M,TICA,37F076BD-6F38-4A7D-9621-286F262A3062,252539-1,"Comp. Ind. 154.","","","1876",gcc-37081
+gcc-121613,A,Compositae,,Tanacetum,,"tirinense",,"","Podlech",Accepted,,M,TICA,82FFF83F-EDDA-4D56-8819-CA2F61DCA73C,929873-1,"""in Fl. Iran., 158: 145 (1986)""","","145","1986",
+gcc-117010,A,Compositae,,Tanacetum,,"tomentellum",,"","(Boiss.) Grierson",Accepted,,M,TICA,BF490F9D-9747-458B-901C-BFB31E5E4D10,252541-1,"","","435","1975",
+gcc-80324,A,Compositae,,Tanacetum,,"tomentellum",,"","Kotschy ex Boiss.",Unresolved,,L,TICA,A72F30F7-B3D9-4FBB-AC45-6D64ACBA283E,252540-1,"Fl. Orient. [Boissier] 3: 354","","354","1875",
+gcc-106008,A,Compositae,,Tanacetum,,"tomentosum",,"","(Decne.) Muradyan",Unresolved,,L,TICA,E2879F91-1E71-4242-B90A-A6D490B2FE4E,252542-1,"Biol. Zhurn. Armenii 29(8): 42 (1976)","","42","1976",gcc-8683
+gcc-140570,A,Compositae,,Tanacetum,,"tomentosum",,"","DC.",Accepted,,M,TICA,9D9CDF93-B11D-4E10-BD2A-F55BA07A2FC0,252545-1,"Prodr. (DC.) 6: 130","","130","1838",
+gcc-44007,A,Compositae,,Tanacetum,,"tomentosum",,"","Regel & Herder",Unresolved,,L,TICA,13C0F521-709E-4570-A6F7-518374132227,,"in Bull. Soc. Nat. Mosc. xl. (1867) II. 128","","128","",
+gcc-48384,A,Compositae,,Tanacetum,,"tomentosum",,"","Siev.",Unresolved,,L,TICA,79F39A80-FC9F-49E3-82F9-59A3B0DBADB9,252543-1,"in Pall. N. Nord. Beitr. vii. 305.","","vii. 305","",
+gcc-78631,A,Compositae,,Tanacetum,,"tortuosum",,"","DC.",Synonym,,M,TICA,257EDE7B-3D3F-43A6-8C35-6990EBA8E451,252546-1,"Prodr. (DC.) 6: 133","","133","1838",gcc-143245
+gcc-45242,A,Compositae,,Tanacetum,,"tournefortii",,"","Sch.Bip.",Unresolved,,L,TICA,39CCD939-6C2F-4BA1-B0D8-53D928F562A6,252547-1,"Tanacet. 59.","","59","",
+gcc-116177,A,Compositae,,Tanacetum,,"transiliense",,"","Herder",Accepted,,L,TICA,F2ABB417-4DD6-4810-B5B7-BDD82D8DE700,252548-1,"in Bull. Soc. Nat. Mosc. xl. (1867) II. 129","","129","1867",
+gcc-134593,A,Compositae,,Tanacetum,,"tricholobum",,"","(Sosn. ex Manden.) Chandjian",Accepted,,L,TICA,A8802377-EDD6-4A6A-AB89-E823DE4DAB55,20009111-1,"","","26","2002",
+gcc-112978,A,Compositae,,Tanacetum,,"trichophyllum",,"","K.Bremer & Humphries",Unresolved,,L,TICA,154574D1-8672-4B67-9BA8-B6A1A36FDF4B,,"","","255 (1877):","1993",
+gcc-142392,A,Compositae,,Tanacetum,,"trichophyllum",,"","Regel & Schmalh.",Unresolved,,L,TICA,B27C1178-AE7B-44B6-82DF-F97DB03A2300,252549-1,"Act. Hort. Petrop. v. (1877) 255.","","255","1877",gcc-119292
+gcc-12054,A,Compositae,,Tanacetum,,"tridactylites",,"","A.Kern. & Huter",Synonym,,M,TICA,D94BDFF4-C88B-4E6F-AFE3-167691921A17,,"""A. Kern. & Huter in Porta & Rigo, It. Ital. 2. 1875.""","","[in schedis autogr.] No. 472","1875",gcc-130760
+gcc-94921,A,Compositae,,Tanacetum,,"tridactylites",,"","Kerner & Huter ex Rigo",Accepted,,L,TICA,8389B1B0-D6B2-49E2-8AFE-8E236B0B01E9,,"""in Nuov. Giorn. Bot. Ital. ix. 311 (1877), nomen.""","","""ix. 311 , nomen.""","1877",
+gcc-134746,A,Compositae,,Tanacetum,,"trifidum",,"","(Turcz.) DC.",Synonym,,M,TICA,3301FDB6-7B8A-420C-A851-E871D5EFFCEC,,"Prodr. (DC.) 6: 130","","130","",gcc-76566
+gcc-30321,A,Compositae,,Tanacetum,,"trifidum",,"","Franch.",Unresolved,,L,TICA,8200702A-C989-4F29-8CFA-3819B311BD88,,"Pl. Davidian. i. (1884) 172","","172","",
+gcc-50620,A,Compositae,,Tanacetum,,"trifoliolatum",,"","Podlech",Accepted,,M,TICA,3F698752-9666-4545-9EA8-5DDD9D4739DB,929876-1,"""in Fl. Iran., 158: 147 (1986)""","","147","1986",
+gcc-82088,A,Compositae,,Tanacetum,,"trifurcatum",,"","Sch.Bip.",Unresolved,,L,TICA,B9EC9506-9B2E-4822-97DD-713E61B6E1C8,252553-1,"Tanacet. 48.","","48","",
+gcc-21800,A,Compositae,,Tanacetum,,"tripinnatifidum",,"","Oliv.",Accepted,,M,TICA,AD56CF1C-C48F-4C80-A229-2858064AEE04,,"Hooker’s Icon. Pl. 24: t. 2306. 1894","","t. 2306.","1894",
+gcc-44216,A,Compositae,,Tanacetum,,"tripinnatindum",,"","Oliv.",Unresolved,,L,TICA,3F8D03FB-FEA0-4BC8-8EFC-51E0767BE363,252554-1,"in Hook. Icon. pl. xxiv. (1894) t. 2306.","","xxiv.  t. 2306.","1894",
+gcc-32330,A,Compositae,,Tanacetum,,"turcomanicum",,"","(Krasch.) Tzvelev",Accepted,,L,TICA,6BEF146A-ED70-4B43-8135-3BED1A2F4D89,252555-1,"""in Fl. URSS, ed. Komarov, xxvi. 358 (1961)""","","358","1961",
+gcc-49466,A,Compositae,,Tanacetum,,"turkestanicum",,"","(Regel & Schmalh.) Poljakov",Synonym,,M,TICA,FE26CDE0-9A6A-4EE3-BC54-5BAA7247BC1A,252556-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xv. 382 (1953).""","","xv. 382","1953",gcc-133755
+gcc-27685,A,Compositae,,Tanacetum,,"turlanicum",,"","(Pavlov) Tzvelev",Synonym,,M,TICA,C492FA28-4E97-445D-8419-332AD129BE35,252557-1,"""in Fl. URSS, ed. Komarov, xxvi. 341 (1961)""","","341","1961",gcc-40202
+gcc-91170,A,Compositae,,Tanacetum,,"uliginosum",,"","Sibth. & Sm.",Unresolved,,L,TICA,9D6ED8B2-D26C-4C7B-BA92-85BF4403A172,252558-1,"Fl. Graec. Prod. ii. 167.","","ii. 167","",
+gcc-48001,A,Compositae,,Tanacetum,,"ulutavicum",,"","Tzvelev",Accepted,,M,TICA,9C1F6636-151F-4707-9F77-58EFA4F01122,,"""in Fl. URSS, ed. Komarov, xxvi. 350, 878 (1961).""","","","",
+gcc-97800,A,Compositae,,Tanacetum,,"umbellatum",,"","Gilib.",Synonym,Invalid,M,TICA,3DDAFDBD-0BE0-49E8-BB54-94B67BA2A03D,,"Fl. Lituan. l. 171.","","","1782",gcc-76001
+gcc-88184,A,Compositae,,Tanacetum,,"umbelliferarum",,"","Boiss.",Accepted,,M,TICA,05B9C25B-2C35-4E2F-8F27-7EE39C155727,,"","","","",
+gcc-11244,A,Compositae,,Tanacetum,,"umbelliferum",,"","Boiss.",Synonym,,L,TICA,784AC104-E092-42C8-BC0D-1505F703F866,,"""Diagn. Pl. Orient. ser. 2, 3: 30""","","30","1856",gcc-119292
+gcc-112906,A,Compositae,,Tanacetum,,"uniflorum",,"","(Fisch. & C.A.Mey. ex DC.) Sch.Bip.",Accepted,,M,TICA,8EDD92AD-A87A-4DFB-A4BF-B67E9B36CB50,252562-1,"","","48","1844",
+gcc-11014,A,Compositae,,Tanacetum,,"uralense",,"","(Krasch.) Tzvelev",Synonym,,M,TICA,995F32BF-9F9E-4FF6-BFC4-149808117F58,252563-1,"","","346","1961",gcc-67281
+gcc-1175,A,Compositae,,Tanacetum,,"vahlii",,"","DC.",Accepted,,M,TICA,89472FA6-5010-451C-8C42-022673983FE4,252564-1,"","","129","1838",
+gcc-149092,A,Compositae,,Tanacetum,,"vahlii",var.,"vahlii","",Synonym,,L,TICA,CDF9A964-D678-4E8D-8139-5162A2A715C1,,"","","","",gcc-1175
+gcc-18855,A,Compositae,,Tanacetum,,"vestitum",,"","Thunb.",Synonym,,M,TICA,6B44A2D0-CCA9-4013-A0FA-22CDA6D19F32,252565-1,"Prodr. Pl. Cap. 147.","","147","",gcc-47610
+gcc-44323,A,Compositae,,Tanacetum,,"virgatum",,"","Loisel.",Accepted,,M,TICA,FCAF378F-4D08-4627-A995-5218D772B46C,,"Fl. Gall. ed. I. 551.","","I. 551","",
+gcc-119730,A,Compositae,,Tanacetum,,"viscosum",,"","Wall.",Unresolved,,L,TICA,8FCFD904-D238-47B0-BCD6-C5D40F72CF2E,,"Numer. List [Wallich] n. 3232","","3232","",
+gcc-76001,A,Compositae,,Tanacetum,,"vulgare",,"","L.",Accepted,,M,TICA,56E0B6B9-1812-43B8-859F-63B1119ED590,252568-1,"Sp. Pl.","","844","1753",
+gcc-55658,A,Compositae,,Tanacetum,,"vulgare",subsp.,"boreale","(Fisch. ex DC.) A",Synonym,,L,TICA,2DE224C9-342B-48FB-8CB3-77C2DA761AD1,,"""Bot. Not. (Lund) 128, 4 : 521 (1975)""","","521","1975",gcc-76001
+gcc-66867,A,Compositae,,Tanacetum,,"vulgare",subsp.,"boreale","(Fisch. ex DC.) Á.Löve & D.Löve",Synonym,,L,TICA,B7453976-4D3D-408B-8494-D25B6556457A,,"Bot. Not. 128(4): 521 (1975 publ. 1976)","","521","1975 [1976]",gcc-76001
+gcc-68414,A,Compositae,,Tanacetum,,"vulgare",subsp.,"boreale","(Fisch. ex DC.) Kuvaev",Synonym,,L,TICA,049BBED5-467B-4C12-8779-DE9B9CF8B026,920346-1,"""in Bot. Zhurn., 66(7): 954 (1981):.""","","954","1981",gcc-76001
+gcc-68557,A,Compositae,,Tanacetum,,"vulgare",var.,"boreale","(Fisch. ex DC.) Trautv. & C.A.Mey.",Synonym,,L,TICA,42F6467A-5B6B-4296-BAD6-DFB41B6E7A53,,"Florula Ochotensis Phaenogama","","54","1856",gcc-76001
+gcc-14467,A,Compositae,,Tanacetum,,"vulgare",var.,"crispum","DC.",Synonym,,L,TICA,8D010D37-A2F7-4A7E-B3A1-1AD8C801F07C,,"","","","",gcc-76001
+gcc-47890,A,Compositae,,Tanacetum,,"vulgare",var.,"siculum","Guss.",Synonym,,L,TICA,5990C8F3-7397-4A1C-88C1-58B767006723,77087740-1,"Guss.. 1844.","","455","1844",gcc-80593
+gcc-146030,A,Compositae,,Tanacetum,,"vulgare",var.,"vulgare","",Synonym,,L,TICA,9FFCCCAC-A2BD-4FC8-B711-102925606116,,"","","","",gcc-76001
+gcc-148129,A,Compositae,,Tanacetum,,"vulgare",subsp.,"vulgare","",Synonym,,L,TICA,1DEF53FB-DB94-482B-8B41-3C3ABC91763E,,"","","","",gcc-76001
+gcc-88368,A,Compositae,,Tanacetum,,"vulgare",f.,"vulgare","",Synonym,,L,TICA,9E079A3B-BEFC-41CA-B8DE-7F47B9C1E034,,"","","","",gcc-76001
+gcc-32964,A,Compositae,,Tanacetum,,"waldsteinii",,"","Sch.Bip.",Synonym,,M,TICA,D679F63A-5569-467C-82AE-3D1FCB6716C5,252569-1,"","","35","1844",gcc-98544
+gcc-143891,A,Compositae,,Tanacetum,,"walteri",,"","(C.Winkl.) Tzvelev",Accepted,,M,TICA,54944210-6347-4E13-B3AD-FCE20D74AA95,252570-1,"""in Fl. URSS, ed. Komarov, xxvi. 359 (1961)""","","359","1961",
+gcc-19822,A,Compositae,,Tanacetum,,"willkommii",,"","Sch.Bip.",Synonym,,M,TICA,E2A2E450-F109-416E-9379-24AC811C6404,,"Sch. Bip. in Flora 34. 1851.","","748","1851",gcc-1175
+gcc-33433,A,Compositae,,Tanacetum,,"willkommii",,"","Sch.Bip. ex Willk.",Unresolved,,L,TICA,0D9DF5FE-363B-406F-866A-3DFC6F1D4447,252571-1,"""in Flora, xxxiv. (1851) 748.""","","xxxiv.  748","1851",
+gcc-94108,A,Compositae,,Tanacetum,,"winkleri",,"","Komarov ex Krasch.",Unresolved,,L,TICA,82093BD0-63EF-40DB-AFCA-8C3A1D8519EB,,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 175 (1933), in obs., et insyn.""","","175","",
+gcc-27695,A,Compositae,,Tanacetum,,"yabrudae",,"","Charpin & Dittrich",Accepted,,M,TICA,3CBD654F-99FE-4A9D-8346-332F1C1415B2,913398-1,"","","423","1983",
+gcc-116752,A,Compositae,,Tanacetum,,"yoshinaganthum",,"","Kitam.",Unresolved,,L,TICA,C8D9D59D-E1AF-4479-B1A6-BF24569CF96F,252590-1,"""in Mem. Coll. Sc. Kyoto Imp. Univ. Ser. B, xv. (Compos. Jap. II.) 357 (1940), in syn.""","","""xv. (Compos. Jap. II.) 357 (1940), in syn.""","",
+gcc-20673,A,Compositae,,Tanacetum,,"yunnanense",,"","Jeffrey",Synonym,,M,TICA,E83EB811-901C-476C-9660-263E0F77752B,252573-1,"Notes Roy. Bot. Gard. Edinburgh 5: 188","","188","1912",gcc-109505
+gcc-125403,A,Compositae,,Tanacetum,,"zahlbruckneri",,"","(Nab.) Grierson",Accepted,,M,TICA,FB95DB60-0877-460B-8042-D2F8648D1B6E,,"","","435","1975",
+gcc-16453,A,Compositae,,Tanacetum,,"zangezuricum",,"","Chandjian",Accepted,,M,TICA,232A25A5-6C70-4D87-9329-1E69A86D1905,940791-1,"","","72","1982",
+gcc-5891,A,Compositae,,Tanacetum,,"zawadzkii",,"","(Herb.) Pawł.",Unresolved,,L,TICA,E7617E99-0349-4007-A51C-0AF5908C1171,252591-1,"""in Rosl. Polsk., Pl. Polon. Exsicc. Ser. II. Cent. II. 23 (1934), in obs.; et in Rosl. Polsk., Pl. Polon. Exsicc. Ser. II. Cent. III. 20 (1936).""","","""II. 23 , in obs.""","1934",

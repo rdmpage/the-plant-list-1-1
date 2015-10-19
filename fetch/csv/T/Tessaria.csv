@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-19023,A,Compositae,,Tessaria,,"absinthioides",,"","(Hook. & Arn.) DC.",Accepted,,M,TICA,392148D1-4A4C-4634-A323-232001FC0E26,255282-1,"Prodr. (DC.) 5: 457","","457","1836",
+gcc-149118,A,Compositae,,Tessaria,,"absinthioides",var.,"absinthioides","",Synonym,,L,TICA,2D93686C-F255-4903-8F7F-51D04DEC0CCD,,"","","","",gcc-19023
+gcc-59755,A,Compositae,,Tessaria,,"absinthioides",var.,"ambigua","(DC.) R.E.Fr.",Synonym,,L,TICA,EFA63283-2453-47FC-88A9-990F2D5C468C,251512-2,"""Ark. Bot. 5, no. 13: 15. 1906""","","15","1906",gcc-17281
+gcc-6639,A,Compositae,,Tessaria,,"absinthoides",,"","Griseb.",Unresolved,,L,TICA,C67D04D2-A0E8-4B2C-BDC7-0C520211BB20,255283-1,"in Goett. Abh. xxiv. (1879) 185.","","xxiv.  185","1879",
+gcc-36434,A,Compositae,,Tessaria,,"ambigua",,"","DC.",Synonym,,M,TICA,51AB6D6B-6613-4A95-83B6-4390C71E9027,251513-2,"Prodr. (DC.) 5: 457","","457","1836",gcc-17281
+gcc-145701,A,Compositae,,Tessaria,,"ambigua",var.,"ambigua","",Synonym,,L,TICA,E96956AF-7D25-416E-A688-091EE1659A6E,,"","","","",gcc-17281
+gcc-54696,A,Compositae,,Tessaria,,"ambigua",var.,"uniflora","Cuatrec.",Synonym,,L,TICA,8D966DFB-6ACC-433B-A29B-7013F8166DDE,,"""Anales Ci. Univ. Madrid 4, fasc. 2: 244 [reprint page 41]. 1935""","","244","1935",gcc-17281
+gcc-99824,A,Compositae,,Tessaria,,"banksiaefolia",,"","Brongn.",Unresolved,,L,TICA,EB3E99EE-7336-4445-AE10-993690DC6955,255285-1,"Bot. Voy. Coq. t. 64.","","t. 64","",
+gcc-34933,A,Compositae,,Tessaria,,"boliviensis",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,EC199CCF-0C7A-4D45-95A1-40C2710F1644,,"""Linnaea 34: 534, nomen. 1866""","","","",
+gcc-117989,A,Compositae,,Tessaria,,"borealis",,"","A.Gray",Unresolved,,L,TICA,07B31138-38F4-4ABF-AF15-C1E4B440802D,255287-1,"Pl. Wright. i. 102.","","","1852",
+gcc-91447,A,Compositae,,Tessaria,,"borealis",,"","DC.",Unresolved,,L,TICA,FF268010-3FD4-445E-BFEE-866C53CD3F2A,,"Notes of a Military Reconnoissance","","143","1848",
+gcc-31079,A,Compositae,,Tessaria,,"dentata",,"","Ruiz & Pav.",Synonym,,M,TICA,424ECEF5-8036-40AC-B1F3-398BBB51BF8E,255288-1,"","","213-214","1798",gcc-17281
+gcc-15023,A,Compositae,,Tessaria,,"dodoneifolia",,"","(Hook. & Arn.) Cabrera",Synonym,,M,TICA,0E1832DC-8746-4442-BDF9-1BD119033AFF,251515-2,"","","184","1939",gcc-148561
+gcc-38123,A,Compositae,,Tessaria,,"fastigiata",,"","(Griseb.) Cabrera",Accepted,,M,TICA,F3FCADDC-0C95-40CC-A228-46B902D99638,251516-2,"","","254","1978",
+gcc-17281,A,Compositae,,Tessaria,,"integrifolia",,"","Ruiz & Pav.",Accepted,,M,TICA,EB0779D0-1E66-443C-BBC2-1FF416D3418A,255291-1,"","","213","1798",
+gcc-51926,A,Compositae,,Tessaria,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,9CAC888A-DC89-4A63-A9FB-604CD0A65FBB,,"Syst. Veg. Fl. Peruv. Chil. 1: 213 (1798)","","213","1798",gcc-17281
+gcc-55865,A,Compositae,,Tessaria,,"integrifolia",var.,"obtusifolia","Hassl.",Synonym,,L,TICA,047B4B35-F72E-490E-971A-79A2F6A03D7C,251517-2,"Trab. Mus. Farmacol. 21: 127. 1909","","127","1909",gcc-17281
+gcc-69610,A,Compositae,,Tessaria,,"integrifolia",var.,"polyandra","Cabrera",Synonym,,L,TICA,85603479-9995-47B3-B5E4-E7B4830783CD,251518-2,"Lilloa 4: 189. 1939","","189","1939",gcc-17281
+gcc-905,A,Compositae,,Tessaria,,"legitima",,"","DC.",Synonym,Illegitimate,M,TICA,679B8822-6641-4CA6-A6AE-01AEDA745436,255292-1,"","","456","1836",gcc-17281
+gcc-140807,A,Compositae,,Tessaria,,"mucronata",,"","DC.",Unresolved,,L,TICA,228F591C-754E-4A5C-8DE7-F5EB3047F44B,255293-1,"Prodr. (DC.) 5: 456","","456","1836",
+gcc-138948,A,Compositae,,Tessaria,,"plucheoides",,"","Hassl.",Synonym,,M,TICA,F227E3F1-82FB-479F-A83C-F1B01D3AA8E2,251519-2,"Repert. Spec. Nov. Regni Veg. 16","","26","1919",gcc-148561
+gcc-34267,A,Compositae,,Tessaria,,"redolens",,"","(Willd.) Less.",Synonym,,M,TICA,C0559937-302E-498A-AFDC-3F8454FF10D3,255295-1,"Linnaea 6","","151","1831",gcc-117303
+gcc-132658,A,Compositae,,Tessaria,,"sericea",,"","(Nutt.) Shinners",Synonym,,M,TICA,2A8FABEB-90A4-47B1-BA51-E3BD654F4BC6,251520-2,"Sida 3","","122","1967",gcc-97872
+gcc-35747,A,Compositae,,Tessaria,,"straminea",,"","(Chodat) Hassl.",Synonym,,M,TICA,C01D5F46-75F1-454C-A3DC-424B2C0C35E5,251521-2,"Repert. Spec. Nov. Regni Veg. 16","","25","1919",gcc-148561
+gcc-32825,A,Compositae,,Tessaria,,"viscosa",,"","Lillo",Synonym,,M,TICA,AC241407-F4A3-42FA-B9CD-3CE04B5DB542,251522-2,"","","213","1919",gcc-148561
+gcc-77127,A,Compositae,,Tessaria,,"zamalloae",,"","Cabrera",Synonym,,M,TICA,54511AE9-2D82-45E1-8DC2-662EDC478044,251523-2,"","","201","1959",gcc-28476

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50175438,A,Brassicaceae,,Pegaeophyton,,"angustiseptatum",,"","Al-Shehbaz, T.Y. Cheo, L.L. Lu & G. Yang",Accepted,,M,TRO,50175438,1014605-1,"Edinburgh J. Bot.","57(2): 167","167","2000",
+tro-50202765,A,Brassicaceae,,Pegaeophyton,,"bhutanicum",,"","H. Hara",Synonym,,M,TRO,50202765,,"","","","",tro-50202764
+tro-50201729,A,Brassicaceae,,Pegaeophyton,,"garhwalense",,"","H.J. Chowdhery & Sur. Singh",Synonym,,M,TRO,50201729,,"","","","",tro-4105753
+tro-100360750,A,Brassicaceae,,Pegaeophyton,,"garhwalensis",,"","H.J. Chowdhery & S. Singh",Synonym,,M,TRO,100360750,,"Indian J. Forest.","8: 335.","335.","1985",tro-4105753
+tro-4105753,A,Brassicaceae,,Pegaeophyton,,"minutum",,"","H. Hara",Accepted,,M,TRO,4105753,,"J. Jap. Bot.","47(9): 270–272, f. 2","270","1972",
+tro-50131754,A,Brassicaceae,,Pegaeophyton,,"nepalense",,"","Al-Shehbaz, Arai & H. Ohba",Accepted,,M,TRO,50131754,1005301-1,"Novon","8(4): 327, f. 1","327","1998",
+tro-50260049,A,Brassicaceae,,Pegaeophyton,,"purii",,"","(D.S.Rawat, L.R.Dangwal & R.D. Gaur) Al-Shehbaz",Accepted,,L,TRO,50260049,60433917-2,"Novon","14(2): 157","157","2004",
+kew-2411984,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",,"","(Hook.f. & Thomson) C.Marquand & Airy Shaw",Accepted,,M,WCSP (in review),,288034-1,"J. Linn. Soc., Bot.","48: 229","","1929",
+tro-4105996,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",var.,"pilosicalyx","R.L. Guo & T.Y. Cheo",Synonym,,L,TRO,4105996,879293-1,"Bull. Bot. Lab. N.-E. Forest. Inst., Harbin","1980(6): 28","28","1980",kew-2411984
+tro-4105751,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",var.,"robustum","(O.E. Schulz) R.L. Guo & T.Y. Cheo",Synonym,,L,TRO,4105751,879294-1,"Bull. Bot. Lab. N.-E. Forest. Inst., Harbin","6(6): 29","29","1980",tro-50201732
+tro-50201732,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",subsp.,"robustum","(O.E. Schulz) Al-Shehbaz, T.Y. Cheo, L.L. Lu & G. Yang",Accepted,,L,TRO,50201732,1014604-1,"Edinburgh J. Bot.","57: 164","164","2000",
+tro-100361477,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",var.,"scapiflorum","",Synonym,,L,TRO,100361477,,"","","","",kew-2411984
+tro-4105750,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",subsp.,"scapiflorum","",Synonym,,L,TRO,4105750,,"","","","",kew-2411984
+tro-4105997,A,Brassicaceae,,Pegaeophyton,,"scapiflorum",var.,"stenophyllum","(O.E. Schulz) comb. nov.",Synonym,,L,TRO,4105997,,"","in ed.","i","",tro-4105843
+tro-4105746,A,Brassicaceae,,Pegaeophyton,,"sinense",,"","(Hemsl.) Hayek & Hand.-Mazz.",Synonym,,L,TRO,4105746,,"Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz.","59: 243","243","1922",tro-50201732
+tro-4105752,A,Brassicaceae,,Pegaeophyton,,"sinense",var.,"robustum","O.E. Schulz",Synonym,,L,TRO,4105752,,"Notizbl. Bot. Gart. Berlin-Dahlem","9(87): 477","477","1926",tro-50201732
+tro-4105998,A,Brassicaceae,,Pegaeophyton,,"sinense",var.,"stenophyllum","O.E. Schulz",Synonym,,L,TRO,4105998,,"Notizbl. Bot. Gart. Berlin-Dahlem","9(87): 477","477","1926",tro-4105843
+tro-100358122,A,Brassicaceae,,Pegaeophyton,,"sulphureum",,"","Al-Shehbaz",Accepted,,M,TRO,100358122,1014607-1,"Inst. Ci. Nat., Mus. Hist. Nat., Bibliot. Jose Geronimo Triana","57: 169","169","2000",
+tro-100358120,A,Brassicaceae,,Pegaeophyton,,"watsonii",,"","Al-Shehbaz",Accepted,,M,TRO,100358120,1014606-1,"Inst. Ci. Nat., Mus. Hist. Nat., Bibliot. Jose Geronimo Triana","57: 168","168","2000",

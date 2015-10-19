@@ -1,0 +1,155 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-35471,A,Compositae,,Atractylis,,"acaulis",,"","Pers.",Synonym,,M,TICA,B8D52A3A-A70D-40A0-8762-41C34F8D08B5,182893-1,"","","382","1807",gcc-99019
+gcc-82218,A,Compositae,,Atractylis,,"alpina",,"","L.",Unresolved,,L,TICA,F77AA856-B53A-4784-A592-718AE9DFFCFA,,"Species Plantarum","","829","1753",
+gcc-127668,A,Compositae,,Atractylis,,"amplexicaulis",,"","Nakai ex T.Mori",Synonym,Illegitimate,M,TICA,8EBE14DC-A377-42DA-A456-D8359C4407F4,,"Flora Sylvatica Koreana 14:","","178","1923",gcc-110338
+gcc-23099,A,Compositae,,Atractylis,,"amplexicaulis",,"","Poir.",Unresolved,,L,TICA,7E98DFF9-626D-44A8-B966-2AC30B23E015,182894-1,"","","30","1804",
+gcc-84864,A,Compositae,,Atractylis,,"angustifolia",,"","Houtt.",Synonym,,M,TICA,CC9B7742-CA18-462F-ADB6-776D9BD5CE9C,,"","","","",gcc-16060
+gcc-48549,A,Compositae,,Atractylis,,"arabica",,"","Rech.f.",Accepted,,M,TICA,FCB1BEF7-F300-48C3-BF9D-59EC883D9723,,"","","281","1959",
+gcc-48300,A,Compositae,,Atractylis,,"arbuscula",,"","Svent. & Michaelis",Accepted,,M,TICA,7060A2F3-DA1E-4918-A9C2-5982540A2E49,1002900-1,"Svent. & Michaelis in Index Sem. Horti Acclim. Pl. Arautapae 1968. 1969.","","50","1969",
+gcc-70246,A,Compositae,,Atractylis,,"arbuscula",var.,"arbuscula","",Synonym,,L,TICA,EF298F41-75F4-4766-993A-EC9654E90DE1,,"","","","",gcc-48300
+gcc-37665,A,Compositae,,Atractylis,,"arbuscula",var.,"schizogynophylla","Svent. & Kahne",Synonym,,L,TICA,256CDF3E-6312-416F-B633-45D334B59B29,77092265-1,"Index Seminum (Hort. Acclim. Pl. Arautap.) 1968: 51 (1969)","","51","1969",gcc-48300
+gcc-110172,A,Compositae,,Atractylis,,"aristata",,"","Batt.",Accepted,,M,TICA,2AF44CFF-AEDF-4115-A583-B0418D304022,182898-1,"Bull. Soc. Bot. France 49","","291","1903",
+gcc-7794,A,Compositae,,Atractylis,,"armena",,"","Poir.",Synonym,,M,TICA,A66FE760-7DE4-464A-90BA-0E7F89A79C54,182899-1,"","","637","1816",gcc-76407
+gcc-80212,A,Compositae,,Atractylis,,"auranitica",,"","Rech.f.",Accepted,,M,TICA,26E92BBE-BB31-4BC6-8696-6D230891060A,937867-1,"","","156","1989",
+gcc-18612,A,Compositae,,Atractylis,,"babelii",,"","Hochr.",Accepted,,M,TICA,8E360184-C38F-4920-97EC-2264CD9E6A56,,"","","228","1904",
+gcc-30758,A,Compositae,,Atractylis,,"babelii",var.,"babelii","",Synonym,,L,TICA,A980329F-D417-4E4C-8F13-38F2E5AFF341,,"","","","",gcc-18612
+gcc-75894,A,Compositae,,Atractylis,,"boulosii",,"","Täckh.",Accepted,,M,TICA,39B20BAC-DF1B-4BFC-B76B-637BD2874592,,"Täckh. in Publ. Cairo Univ. Herb. 5. 1974.","","25","1974",
+gcc-80439,A,Compositae,,Atractylis,,"caerulea",,"","Batt.",Accepted,,M,TICA,0FBEF2E5-6320-4870-8BF2-6D9985772468,182902-1,"""Batt., Contr. Fl. Atlant. 1919.""","","52","1919",
+gcc-7762,A,Compositae,,Atractylis,,"caespitosa",,"","Viv.",Synonym,,M,TICA,46D50548-842A-4FAC-90E8-0E6F0946AEA7,182904-1,"","","52","1824",gcc-144927
+gcc-88011,A,Compositae,,Atractylis,,"caespitosa",,"","Desf.",Accepted,,M,TICA,7C12FC15-5F2D-45D6-A911-7E7DA35F14EA,182903-1,"","","254","1799",
+gcc-34924,A,Compositae,,Atractylis,,"caespitosa",var.,"caespitosa","",Synonym,,L,TICA,04B6F3AE-8209-4148-ABE2-40BE1AD1BF10,,"","","","",gcc-88011
+gcc-67699,A,Compositae,,Atractylis,,"caespitosa",var.,"incana","Maire",Synonym,,L,TICA,19A07FAC-ADF1-43DB-B168-D94874CD715D,,"","","","",gcc-88011
+gcc-66353,A,Compositae,,Atractylis,,"caespitosa",var.,"radians","Batt.",Synonym,,L,TICA,6EA41B56-5590-48D8-8AE9-CE2E36C718D6,,"","","","",gcc-88011
+gcc-144927,A,Compositae,,Atractylis,,"cancellata",,"","L.",Accepted,,M,TICA,8B7F1E5F-513B-4B4D-8362-FF4529E88718,182905-1,"""L., Sp. Pl. 1753.""","","830","1753",
+gcc-150699,A,Compositae,,Atractylis,,"cancellata",var.,"cancellata","",Synonym,,L,TICA,5353AC25-4D27-4A13-9B53-7499531CC79C,,"","","","",gcc-144927
+gcc-155349,A,Compositae,,Atractylis,,"cancellata",subsp.,"cancellata","",Synonym,,L,TICA,2483C0F0-9503-4E6A-A5E1-D65B68E4B51A,,"","","","",gcc-144927
+gcc-17106,A,Compositae,,Atractylis,,"cancellata",var.,"eremophila","Braun-Blanq. & Maire",Synonym,,L,TICA,F46BEAF9-A24D-48D8-9017-1F9E66B3EB4D,,"","","","",gcc-144927
+gcc-58765,A,Compositae,,Atractylis,,"cancellata",subsp.,"gaditana","Franco",Synonym,,L,TICA,57B38695-BCA6-4F34-8F2D-91346BDAD362,876623-1,"","","47","1975",gcc-144927
+gcc-66114,A,Compositae,,Atractylis,,"cancellata",subsp.,"glomerata","Caball.",Synonym,,L,TICA,0496280E-C0EF-45EB-9324-CC20E707C41B,,"""Trab. Mus. Nac. Ci. Nat., Ser. Bot. 28: 30 (1935)""","","30","1935",gcc-144927
+gcc-127458,A,Compositae,,Atractylis,,"candida",,"","Cuénod",Synonym,,M,TICA,4B9BB51D-1B6A-45D3-9985-D7B563D9971E,182906-1,"Bull. Soc. Bot. France 58","","490","1911",gcc-5965
+gcc-131325,A,Compositae,,Atractylis,,"canescens",,"","Salzm. ex Ball",Synonym,,M,TICA,30E3756A-B070-4118-9BB2-E0A15EC4DB9B,182907-1,"","","519","1878",gcc-144927
+gcc-5965,A,Compositae,,Atractylis,,"carduus",,"","(Forssk.) C.Chr.",Accepted,,M,TICA,936200F2-BE46-4A3E-AB99-0B18DC157B9E,182908-1,"","","27","1922",
+gcc-65180,A,Compositae,,Atractylis,,"carduus",var.,"angustifolia","Täckh. & Boulos",Synonym,,L,TICA,5806A402-AD5D-4186-A0B6-C474092B6F3B,,"","","24","1974",gcc-5965
+gcc-151795,A,Compositae,,Atractylis,,"carduus",var.,"carduus","",Synonym,,L,TICA,D0AA65EE-1B03-4A53-BCBC-8C5A63FC6CEF,,"","","","",gcc-5965
+gcc-57957,A,Compositae,,Atractylis,,"carduus",var.,"glabrescens","(Boiss.) Täckh. & Boulos",Synonym,,L,TICA,CF08E78D-BC1F-45C5-9393-8AA213BB4B2D,,"","","24","1974",gcc-5965
+gcc-70110,A,Compositae,,Atractylis,,"carduus",var.,"latifolia","Täckh. & Boulos",Synonym,,L,TICA,DCA5EA61-092B-4179-9AB7-EB922AE11053,,"","","24","1974",gcc-5965
+gcc-31685,A,Compositae,,Atractylis,,"carduus",var.,"marmarica","Täckh. & Boulos",Synonym,,L,TICA,744F5CBC-A6DD-4149-9F68-3AB6FB27C48E,,"","","24","1974",gcc-5965
+gcc-134643,A,Compositae,,Atractylis,,"carlinoides",,"","Hand.-Mazz.",Synonym,,M,TICA,42400BF8-4E4A-493A-8AC6-E83B37A27F26,182909-1,"Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem 13(120):","","642","1937",gcc-43211
+gcc-34064,A,Compositae,,Atractylis,,"chinensis",,"","(Bunge) DC.",Synonym,,M,TICA,B9DD4DDF-F501-4AFB-8629-3F2B0038D05D,182910-1,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","549","1838",gcc-9072
+gcc-146595,A,Compositae,,Atractylis,,"chinensis",var.,"chinensis","",Synonym,,L,TICA,8E9CFA6C-58DF-443D-844E-1C0AE23BB40F,,"","","","",gcc-9072
+gcc-155131,A,Compositae,,Atractylis,,"chinensis",f.,"chinensis","",Synonym,,L,TICA,08337F57-6EB5-47C5-9ABA-D180FCA868A3,,"","","","",gcc-9072
+gcc-66051,A,Compositae,,Atractylis,,"chinensis",var.,"coreana","(Nakai) Chu",Synonym,,L,TICA,1ADCFFBB-1301-42DB-AF62-CBA5C09E1ED6,,"","","410","1959",gcc-110338
+gcc-111335,A,Compositae,,Atractylis,,"chinensis",f.,"erossodentata","(Koidz.) Hand.-Mazz.",Synonym,,L,TICA,3DFCA1A9-5A9D-475E-8F7B-B2E2F1631D7E,,"Acta Horti Gothoburgensis 12(9):","","308","1938",gcc-9072
+gcc-3493,A,Compositae,,Atractylis,,"chinensis",var.,"liaotungensis","Kitag.",Synonym,,L,TICA,1EA94A73-3A4A-40C8-8459-066B011FE0CF,,"J. Jap. Bot. 19: 114 (1943)","","","1943",gcc-9072
+gcc-66999,A,Compositae,,Atractylis,,"chinensis",var.,"loeseneri","Kitag.",Synonym,,L,TICA,87011B4B-3EEC-4A6B-AAC3-D35BE20FC889,,"""Report of the Institute of Scientific Research, Manchoukuo 3:""","","439","1939",gcc-9072
+kew-2900955,A,Compositae,,Atractylis,,"chinensis",var.,"quiqueloba","Baranova & Skvortsov",Synonym,,L,WCSP (in review),,,"Key Pl. North-East China","410","","1959",gcc-9072
+gcc-120739,A,Compositae,,Atractylis,,"chinensis",f.,"simplicifolia","(Loes.) Hand.-Mazz.",Synonym,,L,TICA,D1D03BBB-1D23-4576-88B2-C83D2E7C8978,,"Acta Horti Gothoburgensis 12(9):","","308-310","1938",gcc-9072
+gcc-19655,A,Compositae,,Atractylis,,"chinensis",var.,"simplicifolia","(Loes.) Baranova & Sk.",Synonym,,L,TICA,27BEAD16-770D-40E3-BD07-2456F11E318C,,"Key Pl. N.E. China","","410","1959",gcc-9072
+kew-2900956,A,Compositae,,Atractylis,,"chinensis",var.,"simplicifolia","(Loes.) Baranova & Skvortsov",Synonym,,L,WCSP (in review),,,"Key Pl. North-East China","410","","1959",gcc-9072
+gcc-90725,A,Compositae,,Atractylis,,"chinensis",f.,"stapfii","(Baroni) Hand.-Mazz.",Synonym,,L,TICA,B1CF7E45-7F12-4144-B11E-84C354C343E6,,"Acta Horti Gothoburgensis 12(9):","","308","1938",gcc-9072
+gcc-38370,A,Compositae,,Atractylis,,"ciliaris",,"","L.",Accepted,,M,TICA,4E317071-50E8-41AB-8B60-473118676B07,182911-1,"","","1202","1759",
+gcc-40814,A,Compositae,,Atractylis,,"citrina",,"","Coss. & Kralik",Synonym,,M,TICA,60566191-83DC-47E4-9E66-4BA3434D0C81,182912-1,"Bull. Soc. Bot. France 4","","471","1857",gcc-5965
+gcc-143191,A,Compositae,,Atractylis,,"comosa",,"","(Spreng.) Sieber ex Cass.",Synonym,,M,TICA,4F8596D7-BFC5-42B9-A73F-FB59BD0EF150,,"","","","",gcc-81533
+gcc-10991,A,Compositae,,Atractylis,,"conformis",,"","Barbey",Synonym,,M,TICA,4B2A37D3-34D8-4692-B9E7-148ADF22360D,182914-1,"","","115","1895",gcc-49503
+gcc-120174,A,Compositae,,Atractylis,,"coreana",,"","Nakai",Synonym,,M,TICA,35DF4064-567C-4BDB-BD70-C6E33A1D1962,,"Botanical Magazine 42:","","478","1928",gcc-110338
+gcc-27533,A,Compositae,,Atractylis,,"cryptocephala",,"","(Baker) F.G.Davies",Accepted,,M,TICA,19018AE3-F314-45EB-91AE-32E7831AB5F8,,"","","142","1981",
+tro-50331833,A,Compositae,,Atractylis,,"cryptocephalus",,"","F.G. Davies",Unresolved,,L,TRO,50331833,,"","","","",
+gcc-123513,A,Compositae,,Atractylis,,"cuneata",,"","Boiss.",Synonym,,L,TICA,804B5E79-372B-43CB-9AFF-CE839B849B44,182915-1,"","","454","1875",gcc-84726
+gcc-122609,A,Compositae,,Atractylis,,"delicatula",,"","Batt. ex L.Chevall.",Accepted,,M,TICA,74DF0E23-5F0B-4177-B91F-CC661A832BDD,,"","","773","1903",
+gcc-130907,A,Compositae,,Atractylis,,"delvarii",,"","Mozaff.",Accepted,,M,TICA,CBC87F35-8AE0-4720-A6A5-DFA1E2F3B5E3,,"","","130","1996",
+gcc-10742,A,Compositae,,Atractylis,,"diffusa",,"","Coss.",Unresolved,,L,TICA,FE6CD601-93E3-47BE-BAFA-141B25B889BD,182917-1,"""Bull. Soc. Bot. France 4: 396, nomen""","","396","1857",
+gcc-78239,A,Compositae,,Atractylis,,"echinata",,"","Pomel",Accepted,,M,TICA,51678E9C-96B9-49EE-AADC-68B1F9AAE2A1,182918-1,"""Pomel, Nouv. Mat. Fl. Atl. 1875.""","","274","1875",
+gcc-149699,A,Compositae,,Atractylis,,"echinops",,"","Pall.",Accepted,,M,TICA,4F05AB4A-F045-4096-8B1A-5E544095741F,,"","","","",
+gcc-97904,A,Compositae,,Atractylis,,"erosodentata",,"","(Koidz.) Arènes",Synonym,,M,TICA,525989B8-2E05-469A-BF4B-94EC45259EDA,,"","","","1953",gcc-9072
+gcc-115310,A,Compositae,,Atractylis,,"flava",,"","Desf.",Synonym,,M,TICA,A44EFC51-920F-4625-9BF2-BBDD3BAD6F1B,182920-1,"","","254","1799",gcc-5965
+gcc-93289,A,Compositae,,Atractylis,,"flava",,"","Coss. & Durieu",Synonym,,M,TICA,561F824B-5F81-4257-805B-8A6518E4B55A,182921-1,"","","471","1857",gcc-5965
+gcc-24018,A,Compositae,,Atractylis,,"flava",var.,"candida","(Cuénod) Burollet",Synonym,,L,TICA,8B23EA32-E21A-4783-988D-2C62C2EE9E20,,"","","","",gcc-5965
+gcc-59905,A,Compositae,,Atractylis,,"flava",var.,"citrina","(Coss. & Kralik) Hochr.",Synonym,,L,TICA,2D6BBF7E-81DA-4383-BEFD-9A2D5867732D,,"","","","",gcc-5965
+gcc-148183,A,Compositae,,Atractylis,,"flava",var.,"flava","",Synonym,,L,TICA,8442220C-6323-4E64-AFA3-3D014B9317F9,,"","","","",gcc-5965
+gcc-55732,A,Compositae,,Atractylis,,"flava",var.,"glabrescens","Boiss.",Synonym,,L,TICA,7827EA53-C373-42AF-8350-78641E9A1592,,"","","","",gcc-5965
+gcc-88945,A,Compositae,,Atractylis,,"fruticosa",,"","L.",Synonym,,M,TICA,551A28C1-9A93-44C8-AA56-808DE2D6EFAB,182922-1,"Species Plantarum 2:","","829","1753",gcc-123001
+gcc-51355,A,Compositae,,Atractylis,,"fusus-agrestis",,"","Gaertn.",Synonym,,M,TICA,1DB54154-F552-4CA4-93AC-5F40C199DF21,,"","","381","1791",gcc-77840
+gcc-133627,A,Compositae,,Atractylis,,"gedeonii",,"","Sennen",Synonym,,M,TICA,50E2C148-6D5E-4F13-A5E2-E5EE4ED93587,182925-1,"Bol. Soc. Arag.","","202","1912",gcc-4571
+gcc-128425,A,Compositae,,Atractylis,,"glomerata",,"","(Caball.) Caball.",Synonym,,M,TICA,05D247A9-8FA2-4541-B91B-D9FDD298BC5D,,"","","","1953",gcc-144927
+gcc-48406,A,Compositae,,Atractylis,,"gummifera",,"","Salzm. ex L.",Synonym,,M,TICA,2483F403-DE80-49DA-9175-59AF5A3EEDA2,,"","","","1753",gcc-99019
+gcc-149909,A,Compositae,,Atractylis,,"gummifera",var.,"gummifera","",Synonym,,L,TICA,5A5F5691-CE10-426E-B902-62B63A534C7B,,"","","","",gcc-99019
+gcc-32885,A,Compositae,,Atractylis,,"gummifera",var.,"macrocephala","(Desf.) Pott.-Alap.",Synonym,,L,TICA,D05F5999-7346-4990-8171-3CFD3BFEC22B,,"","","","",gcc-99019
+gcc-4571,A,Compositae,,Atractylis,,"humilis",,"","L.",Accepted,,M,TICA,CD940EEC-DF65-4F98-B171-087B2AC789B5,182930-1,"""L., Sp. Pl. 1753.""","","829","1753",
+gcc-55267,A,Compositae,,Atractylis,,"humilis",subsp.,"caespitosa","(Desf.) Maire",Synonym,,L,TICA,583B39FA-6627-4B32-8026-74B377F2BBC7,,"","","52","1931",gcc-88011
+gcc-145398,A,Compositae,,Atractylis,,"humilis",subsp.,"humilis","",Synonym,,L,TICA,98163969-7211-4E10-A509-035914F50A80,,"","","","",gcc-4571
+gcc-154446,A,Compositae,,Atractylis,,"humilis",var.,"humilis","",Synonym,,L,TICA,5AF8A0AB-ACE9-4B69-B77C-C3A2876260F4,,"","","","",gcc-4571
+gcc-55516,A,Compositae,,Atractylis,,"humilis",var.,"incana","Maire",Synonym,,L,TICA,BE4A7127-55F7-47D4-BE90-7698D46D73C9,,"","","","",gcc-88011
+gcc-55712,A,Compositae,,Atractylis,,"humilis",var.,"radians","Batt.",Synonym,,L,TICA,DA1F08B2-C71B-41BF-A0C9-7838BBB7FBD2,,"","","","",gcc-88011
+gcc-91193,A,Compositae,,Atractylis,,"japonica",,"","(Koidz. ex Kitam.) Kitag.",Synonym,,L,TICA,19925997-B3EC-45FF-81BD-85CCD3286EF2,182931-1,"Lineamenta Florae Manshuricae","","439","1939",gcc-114498
+gcc-35431,A,Compositae,,Atractylis,,"kentrophylloides",,"","(Baker) F.G.Davies",Accepted,,M,TICA,55229E08-D7FF-4F5D-96A6-41AD53A16016,,"Kew Bull. 36","","142","1981",
+gcc-103794,A,Compositae,,Atractylis,,"koreana",,"","Nakai",Synonym,,M,TICA,11077297-FFC7-4D87-AAB0-A20AA8694247,,"Botanical Magazine 42:","","428","1928",gcc-110338
+gcc-80055,A,Compositae,,Atractylis,,"lanata",,"","Scop.",Synonym,,M,TICA,7D9F5BB5-38F2-4EDA-A9B9-6CC1A8345EF8,182933-1,"","","134","1772",gcc-77840
+gcc-135089,A,Compositae,,Atractylis,,"lancea",,"","Thunb.",Synonym,,M,TICA,934E394C-797B-403B-9B4B-E93363EE3313,927438-1,"","","","1784",gcc-9072
+gcc-61586,A,Compositae,,Atractylis,,"lancea",var.,"chinensis","(Bunge) Kitam.",Synonym,,L,TICA,340FBDDC-35CD-447B-B69F-A7DC0A0A4BBC,,"Transactions of the Sapporo Natural History Society 16:","","63","1940",gcc-144897
+gcc-148594,A,Compositae,,Atractylis,,"lancea",f.,"lancea","",Synonym,,L,TICA,E0240DAA-920F-48BB-8B7C-45F210E23222,,"","","","",gcc-9072
+gcc-154695,A,Compositae,,Atractylis,,"lancea",var.,"lancea","",Synonym,,L,TICA,8EC54688-3FB4-4936-9CD6-C91B0B2A161B,,"","","","",gcc-9072
+gcc-78345,A,Compositae,,Atractylis,,"lancea",f.,"lyrata","Makino",Synonym,,L,TICA,B7C36931-243A-4F3B-A560-68EA0000688B,,"""Somoku-Dzusetsu, ed. 3, 3: 1055 (1912)""","","1055","1912",gcc-9072
+gcc-27151,A,Compositae,,Atractylis,,"leucocephala",,"","Moench",Synonym,,M,TICA,55E56CCA-AFA5-4003-9214-3234ED08B6EA,182935-1,"","","553","1794",gcc-77840
+gcc-86455,A,Compositae,,Atractylis,,"leucophaea",,"","Gaertn.",Unresolved,,L,TICA,7223D7CE-1258-431B-AB36-7AF9D971549D,,"","","321","1791",
+gcc-141770,A,Compositae,,Atractylis,,"lutea",,"","Bubani",Synonym,,M,TICA,F065D1F9-A1F6-49FE-810E-F828973D9725,,"","","","1899",gcc-77840
+gcc-139182,A,Compositae,,Atractylis,,"lyrata",,"","(Siebold & Zucc.) Hand.-Mazz.",Synonym,,M,TICA,3E83FBAE-56BF-4CBE-B701-F22D10549D9B,,"","","309","1938",gcc-9072
+gcc-47445,A,Compositae,,Atractylis,,"lyrata",,"","Siebold & Zucc.",Synonym,,M,TICA,893CFDB2-4D3A-4A61-A191-57E34A8E22AE,,"Abhandlungen der Mathematisch-Physikalischen Classe der Kniglich Bayerischen Akademie der Wissenschaften 4(3):","","193","1846",gcc-9072
+gcc-151512,A,Compositae,,Atractylis,,"lyrata",f.,"lyrata","",Synonym,,L,TICA,375A6C67-C0BE-400E-91BC-862530CF5DD5,,"","","","",gcc-9072
+gcc-156383,A,Compositae,,Atractylis,,"lyrata",var.,"lyrata","",Synonym,,L,TICA,D2509C06-D727-49BE-8899-EC26CEB82EF1,,"","","","",gcc-9072
+gcc-34324,A,Compositae,,Atractylis,,"lyrata",var.,"ternata","(Kom.) Koidz.",Synonym,,L,TICA,2B61B26A-89FB-4AE6-A926-3F9D66E1BAAA,,"Florae Symbolae Orientali-Asiaticae","","5","1930",gcc-114498
+gcc-81263,A,Compositae,,Atractylis,,"lyrata",f.,"ternata","(Kom.) Nakai",Synonym,,L,TICA,8A7AC1ED-CE7D-45FF-A655-6F673DD5BECF,,"Botanical Magazine 42:","","478","1928",gcc-114498
+gcc-132676,A,Compositae,,Atractylis,,"macrocephala",,"","Less.",Unresolved,,L,TICA,501C9DBF-FDDC-4B54-976B-E3CB2A65A8C0,,"","","","",
+gcc-135061,A,Compositae,,Atractylis,,"macrocephala",,"","Desf.",Synonym,,M,TICA,3B067B66-EFEC-4F00-81A6-E9232E49B20C,,"","","","1799",gcc-99019
+gcc-27652,A,Compositae,,Atractylis,,"macrocephala",,"","(Koidz.) Hand.-Mazz.",Synonym,,M,TICA,6E98236D-4C4F-42FD-89D7-331A44A5876F,,"Acta Horti Gothoburgensis 12(9):","","310","1938",gcc-144897
+gcc-94919,A,Compositae,,Atractylis,,"macrocephala",,"","(Koidz.) Nemoto",Synonym,Illegitimate,M,TICA,1D64020B-425D-4FD0-AD57-8E233F43EB86,182940-1,"","","743","1936",gcc-144897
+gcc-61460,A,Compositae,,Atractylis,,"macrocephala",var.,"hunanensis","Ling",Synonym,,L,TICA,3E837427-3D6F-4E99-942F-A6BA94451DFE,,"""Contributions from the Institute of Botany, National Academy of Peiping 6:""","","66","1949",gcc-144897
+gcc-150498,A,Compositae,,Atractylis,,"macrocephala",var.,"macrocephala","",Synonym,,L,TICA,DEE5D2D5-F461-4CC5-A367-70192D93C254,,"","","","",gcc-144897
+gcc-27182,A,Compositae,,Atractylis,,"macrophylla",,"","Desf.",Synonym,,M,TICA,04D541E3-764A-4026-92C4-324643D654DC,182941-1,"","","255","1799",gcc-128986
+gcc-12386,A,Compositae,,Atractylis,,"macrophylla",var.,"incana","Maire",Synonym,,L,TICA,81F125C5-AD71-4AD1-878D-1718CD533E13,77117447-1,"Mém. Soc. Sci. Nat. Maroc 7: 206 (1924)","","206","1924",gcc-128986
+gcc-156735,A,Compositae,,Atractylis,,"macrophylla",var.,"macrophylla","",Synonym,,L,TICA,67522E8C-59D4-4391-99DE-F335FA957A66,,"","","","",gcc-128986
+gcc-78766,A,Compositae,,Atractylis,,"mernephthae",,"","""Asch., Schweinf. & Letourn.""",Accepted,,M,TICA,03171165-EC0F-4907-B4F3-69E95B88964C,182942-1,"Asch. & al. in Mém. Inst. Egypt. 2. 1887.","","94","1887",
+gcc-89912,A,Compositae,,Atractylis,,"mexicana",,"","L.f.",Synonym,,M,TICA,BD095CEF-7C88-4EDE-9C0F-82CFEF6A76E1,182943-1,"Supplementum Plantarum","","350","1782",gcc-93542
+gcc-98306,A,Compositae,,Atractylis,,"microcephala",,"","Coss. & Durieu",Synonym,,M,TICA,5562E384-A499-4FFE-8CC9-95C9CC514839,,"","","240","1854",gcc-156600
+gcc-47331,A,Compositae,,Atractylis,,"monodii",,"","Arènes",Synonym,,M,TICA,9910BD42-2A0A-4C3E-8274-57A649246833,182945-1,"","","59","1953",gcc-18612
+gcc-50813,A,Compositae,,Atractylis,,"mutica",,"","C.C.Towns.",Accepted,,M,TICA,2AA2BCC6-0B6E-458B-AC08-5E3E7A4298CD,182946-1,"","","53","1967",
+gcc-144883,A,Compositae,,Atractylis,,"nemotoiana",,"","Arènes",Synonym,,M,TICA,8F81A7E0-7D32-418F-9D71-FF2360041675,,"","","","1953",gcc-144897
+gcc-120281,A,Compositae,,Atractylis,,"oppositifolia",,"","L.",Synonym,,M,TICA,38C72D0F-D7CF-4FCA-9E78-C72052D604E1,182948-1,"","","","1771",gcc-81178
+gcc-23712,A,Compositae,,Atractylis,,"ovata",,"","Thunb.",Synonym,,M,TICA,35B19E79-5B31-4F8D-9F9F-2BD67193ACB7,182949-1,"Fl. Jap.","","","1784",gcc-99094
+gcc-74064,A,Compositae,,Atractylis,,"ovata",f.,"amurensis","Freyn ex Kom.",Synonym,,L,TICA,1769F485-9B83-462B-9709-31BEF654F00E,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25(2):","","716","1907",gcc-9072
+gcc-121577,A,Compositae,,Atractylis,,"ovata",f.,"lyratifolia","Kom.",Synonym,,L,TICA,CC1A810A-B461-402F-B553-CA1629471B03,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25(2):","","716-717","1907",gcc-9072
+gcc-147496,A,Compositae,,Atractylis,,"ovata",var.,"ovata","",Synonym,,L,TICA,45D59D26-8011-4843-BDF2-2ED6DBDEF8D0,,"","","","",gcc-99094
+gcc-148597,A,Compositae,,Atractylis,,"ovata",f.,"ovata","",Synonym,,L,TICA,DAAC928D-5E05-486C-89CA-45FCC3ECF92D,,"","","","",gcc-99094
+gcc-12537,A,Compositae,,Atractylis,,"ovata",var.,"pinnatifolia","Kom.",Synonym,,L,TICA,0FAEEF03-9D59-4657-9AD3-175A7944F33A,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 25: 716 (1907)","","716","1907",gcc-114498
+gcc-74353,A,Compositae,,Atractylis,,"ovata",f.,"pinnatifolia","Kom.",Synonym,,L,TICA,006204EA-CC5E-4BB8-994F-3C75019D01ED,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25(2):","","716","1907",gcc-114498
+gcc-71646,A,Compositae,,Atractylis,,"ovata",var.,"simplicifolia","Loes.",Synonym,,L,TICA,1E2A7EC4-00F6-4CD3-920E-F7B171CA4AF8,,"Bot. Jahrb. Syst. 35(75): 74 (1904)","","74","1904",gcc-9072
+gcc-83838,A,Compositae,,Atractylis,,"ovata",f.,"simplicifolia","(Loes.) Kom.",Synonym,,L,TICA,2812D5D1-3FBB-4D26-B185-7525A14FD230,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25(2):","","716","1907",gcc-9072
+gcc-61597,A,Compositae,,Atractylis,,"ovata",var.,"ternata","Kom.",Synonym,,L,TICA,6238C077-F64F-4BA7-A74E-A7E23E7C9652,60454982-2,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 25:","","716","1907",gcc-114498
+tro-100375502,A,Compositae,,Atractylis,,"ovata",f.,"ternata","Kom.",Synonym,,L,TRO,100375502,,"","","","",gcc-9072
+gcc-29512,A,Compositae,,Atractylis,,"persica",,"","Boiss.",Synonym,,M,TICA,AEEB5F29-272A-4BC2-B31D-368BBF6E8883,,"","","110","1846",gcc-23785
+gcc-107749,A,Compositae,,Atractylis,,"phaeolepis",,"","Pomel",Accepted,,M,TICA,24FBB9FA-22BB-4E7E-90D2-AACB19B55328,182951-1,"""Pomel, Nouv. Mat. Fl. Atl. 1875.""","","273","1875",
+gcc-36216,A,Compositae,,Atractylis,,"phazaniae",,"","Corti",Accepted,,M,TICA,5541009C-E444-4836-BCBD-432933DFED40,182952-1,"","","262","1942",
+gcc-15388,A,Compositae,,Atractylis,,"pilosa",,"","Moench",Synonym,,M,TICA,AA28AACB-BAE3-4DBE-881A-1C7EF967F8EC,182953-1,"","","553","1794",gcc-77840
+gcc-79479,A,Compositae,,Atractylis,,"pinnatifolia",,"","(Kom.) S.Y.Hu",Synonym,,L,TICA,55D6322E-A1CD-4FA7-AE5E-6B89DF32052F,,"","","313","1965",gcc-114498
+gcc-45374,A,Compositae,,Atractylis,,"polycephala",,"","Coss.",Accepted,,M,TICA,CFF1C558-9B67-4593-9103-541585D4230D,,"","","","1857",
+gcc-5604,A,Compositae,,Atractylis,,"preauxiana",,"","Sch.Bip.",Accepted,,M,TICA,2A3D4D9B-FDCF-420E-9A77-0A75DF541236,,"","","350","1846",
+gcc-23529,A,Compositae,,Atractylis,,"prolifera",,"","Boiss.",Accepted,,M,TICA,9983AC6F-7B55-422D-B358-2B861EF4F083,,"","","96","1849",
+gcc-14347,A,Compositae,,Atractylis,,"prolifera",var.,"albiflora","Cavara",Synonym,,L,TICA,B071F1CE-EA85-473E-8BB2-1AA4C61B4DD8,,"","","","",gcc-23529
+gcc-154690,A,Compositae,,Atractylis,,"prolifera",var.,"prolifera","",Synonym,,L,TICA,21BD1432-BA6A-449B-B8F3-C906FB9A081B,,"","","","",gcc-23529
+gcc-47499,A,Compositae,,Atractylis,,"prolifera",var.,"sulfurea","D.P.Petit",Synonym,,L,TICA,DE29F3DA-9734-4417-BB52-5802218217DB,,"","","428","1988",gcc-23529
+gcc-103966,A,Compositae,,Atractylis,,"purpurata",,"","L. ex Sm.",Synonym,Illegitimate,L,TICA,03854950-D01A-4810-888C-A274C73154A6,,"","","","",gcc-84207
+gcc-8507,A,Compositae,,Atractylis,,"purpurea",,"","L.f.",Synonym,,L,TICA,BFB3A213-2F8A-4A60-BB46-0FDDCF38C920,182959-1,"Supplementum Plantarum","","349","1782",gcc-84207
+gcc-10251,A,Compositae,,Atractylis,,"radiciflora",,"","DC.",Unresolved,,L,TICA,7B28878F-B7E2-4F09-9514-1329513B3EC5,182960-1,"","","551","1838",
+gcc-29388,A,Compositae,,Atractylis,,"rigida",,"","Poir.",Synonym,,M,TICA,C97CAF35-9F6D-416C-BCFB-364F9FFC82B7,182961-1,"","","637","1816",gcc-82971
+gcc-75718,A,Compositae,,Atractylis,,"rubra",,"","(Dekker) Arènes",Synonym,,M,TICA,99177A5B-A934-40B5-BB76-63174AED634F,,"","","","1953",gcc-52168
+gcc-31270,A,Compositae,,Atractylis,,"scabra",,"","Boiss.",Accepted,,M,TICA,327254F6-D53A-474C-B7C1-39E80E2C7B63,,"","","109","1846",
+gcc-33526,A,Compositae,,Atractylis,,"separata",,"","L.H.Bailey",Synonym,,M,TICA,3732BC88-B06C-42E6-985D-3E295ACE6A9B,182964-1,"Gentes Herbarum; occasional papers on the kind of plants 1:","","47","1920",gcc-9072
+gcc-47296,A,Compositae,,Atractylis,,"serrata",,"","Pomel",Accepted,,M,TICA,05AF61B0-A357-4C2A-B35C-5795FC35E3FC,182965-1,"","","20","1874",
+gcc-123702,A,Compositae,,Atractylis,,"serratuloides",,"","Sieber ex Cass.",Synonym,Invalid,M,TICA,D4E4305C-3114-4016-A822-CEF267EA7646,,"""Cass. in Cuvier, Dict. Sci. Nat. 50. 1827.""","","56","1827",gcc-156600
+gcc-156600,A,Compositae,,Atractylis,,"serratuloides",,"","(Cass.) DC.",Accepted,,M,TICA,3D52EC63-8403-43EB-916D-F09F14E68ABF,,"","","","",
+gcc-139002,A,Compositae,,Atractylis,,"sojakii",,"","Rech.f.",Accepted,,M,TICA,7C2CE34A-FCA2-43E2-819A-F1CAFA99A4E5,937866-1,"","","155","1989",
+gcc-94544,A,Compositae,,Atractylis,,"speciosa",,"","DC.",Synonym,,M,TICA,5E1B3961-AF0E-48CC-A89D-8D38F125A3EB,,"","","","",gcc-81533
+gcc-153128,A,Compositae,,Atractylis,,"spinosa",,"","L.",Accepted,,M,TICA,E87CAE96-5637-4807-9FE5-A7C372BD2F3D,,"","","","",
+gcc-37932,A,Compositae,,Atractylis,,"spinosissima",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,045C4C34-CABE-40C6-8038-46597DB454A5,182968-1,"""Index Linn. Herb. 42 (1912), nomen.""","","42","",
+gcc-5931,A,Compositae,,Atractylis,,"triplinervia",,"","Vahl ex Steud.",Synonym,,M,TICA,1D98F82E-3C4E-45F0-B282-0B0989811955,,"","","","1840",gcc-570
+gcc-91560,A,Compositae,,Atractylis,,"tutinii",,"","Franco",Accepted,,M,TICA,D9980A52-78B9-4789-83E2-86A4B5597638,182970-1,"Franco in Bot. J. Linn. Soc. 71. 1975.","","47","1975",
+gcc-118650,A,Compositae,,Atractylis,,"yemensis",,"","Podlech",Synonym,,M,TICA,6C7EBFD5-330A-433C-8DBE-C371FC789D99,899255-1,"Mitt. Bot. Staatssamml. München 18: 428 (1982)","","428","1982",gcc-35431

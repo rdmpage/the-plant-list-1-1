@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-140101,A,Compositae,,Silybum,,"atriplicifolium",,"","(Trevis.) Fisch.",Synonym,,M,TICA,F314A0EA-D128-42E4-BD91-F434B0CB83C9,,"Ind. Hort. Petrop. (1824); ex DC. Prod. vi. 663.","","64","1824",gcc-121601
+gcc-22368,A,Compositae,,Silybum,,"cernuum",,"","Ledeb.",Unresolved,,L,TICA,AE835DFC-E971-4A03-A61D-296225FE0045,249203-1,"Fl. Alt. iv. 43.","","iv. 43","",
+gcc-44433,A,Compositae,,Silybum,,"cernuum",,"","(L.) Gaertn.",Synonym,,M,TICA,D8F0A0AB-9E97-4F3A-9C2C-52533D22BCC2,,"Fruct. Sem. Pl. ii. 378. t. 162. f. 2","","378","1791",gcc-137526
+gcc-675,A,Compositae,,Silybum,,"eburneum",,"","Coss. & Durieu",Accepted,,M,TICA,CD9D1ED8-4E28-441B-AF7C-014632948601,249205-1,"","","366","1855",
+gcc-147042,A,Compositae,,Silybum,,"eburneum",subsp.,"eburneum","",Synonym,,L,TICA,528A5AC5-AA4C-4597-AE7A-2548E7E1D586,,"","","","",gcc-675
+gcc-147738,A,Compositae,,Silybum,,"eburneum",var.,"eburneum","",Synonym,,L,TICA,318FF182-EBF2-4A4E-AA69-34496B124053,,"","","","",gcc-675
+gcc-3819,A,Compositae,,Silybum,×,"gonzaloi",,"","""Cantó, Sánchez Mata & Rivas Mart.""",Unresolved,,L,TICA,1AC6B60E-D5E4-476F-B58E-071A0CD4079D,20009416-1,"Itinera Geobot. 15(2): 707 (2002).","","707","2002",
+gcc-46477,A,Compositae,,Silybum,,"hispanicum",,"","Loscos & Pardo",Unresolved,,L,TICA,DBA3F4D0-54B5-4B16-8609-561F1CE4AF91,249206-1,"""Ser. Inconf, Arag. ed. Willk. 56.""","","56","",
+gcc-32766,A,Compositae,,Silybum,,"intermedium",,"","Willk.",Unresolved,,L,TICA,9FC9BFC4-FF0E-4098-B603-3CC42F85D804,249207-1,"Ind. Sem. Hort. Dorpat. (1869) 6.","","6","1869",
+gcc-30240,A,Compositae,,Silybum,,"leucanthum",,"","Jord. & Fourr.",Unresolved,,L,TICA,B650EFFB-6F51-4EC0-B790-37FA2255F094,249208-1,"Brev. Pl. Nov. ii. 83. 1868","","ii. 83","1868",
+gcc-145082,A,Compositae,,Silybum,,"maculatum",,"","(Scop.) Moench",Synonym,,M,TICA,24FAC5C5-D32E-48BE-9435-FF9E9520599E,249209-1,"Methodus (Moench) 555. 1794 [4 May 1794]","","555","1794",gcc-114114
+gcc-132412,A,Compositae,,Silybum,,"mariae",,"","(Crantz) Gray",Synonym,,M,TICA,FBC5F7BC-3B7C-4801-BD33-E3348D0E31C9,,"Nat. Arr. Brit. Pl. ii. 436","","436","1821",gcc-114114
+tro-2703311,_,,,Silybum,,"marianum",,"","Gaertn.",Unresolved,,L,TRO,2703311,,"","","","",
+gcc-114114,A,Compositae,,Silybum,,"marianum",,"","(L.) Gaertn.",Accepted,,M,TICA,379A33E1-8FD4-4F65-B1F9-B91F50791076,91418-3,"""Gaertn., Fruct. Sem. Pl. 2. 1791.""","","378","1791",
+gcc-1033,A,Compositae,,Silybum,,"marianum",var.,"albiflorum","Eig",Synonym,,L,TICA,53E7D008-D0F4-48B1-9E1E-01E5A4A08B4F,,"","","","",gcc-114114
+gcc-3044,A,Compositae,,Silybum,,"marianum",var.,"marianum","",Synonym,,L,TICA,DA640503-EC85-48C4-AEEE-05A0767A030E,,"","","","",gcc-114114
+gcc-46145,A,Compositae,,Silybum,,"pygmaeum",,"","Cass.",Synonym,,M,TICA,2C1DA150-5392-4F94-9CE4-5588A87DF6F5,,"","","","1827",gcc-114114
+gcc-86969,A,Compositae,,Silybum,,"squarrosum",,"","Tausch",Unresolved,,L,TICA,BE6A99A0-2005-48B2-B161-7C24274B0FE8,249213-1,"""in Flora, xix. (1836) 396.""","","xix.  396","1836",

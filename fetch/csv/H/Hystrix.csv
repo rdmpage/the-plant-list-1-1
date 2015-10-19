@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-419898,A,Poaceae,,Hystrix,,"bigeloviana",,"","(Fernald) Carpenter",Synonym,,H,WCSP,419898,,"Joint Bull. Vermont Bot. Bird Clubs","10: 25","","1924",kew-419913
+kew-419899,A,Poaceae,,Hystrix,,"californica",,"","(Bol.) Kuntze",Accepted,,L,WCSP,419899,405640-1,"Revis. Gen. Pl.","2: 778","","1891",
+kew-419900,A,Poaceae,,Hystrix,,"coreana",,"","(Honda) Ohwi",Accepted,,H,WCSP,419900,405641-1,"J. Jap. Bot.","12: 653","","1936",
+kew-419901,A,Poaceae,,Hystrix,,"duthiei",,"","(Stapf) Bor",Accepted,,L,WCSP,419901,405642-1,"Indian Forester","66: 544","","1940",
+kew-419902,A,Poaceae,,Hystrix,,"duthiei",subsp.,"japonica","(Hack.) C.Baden, Fred. & Seberg",Synonym,,L,WCSP,419902,999055-1,"Nordic J. Bot.","17: 461","","1997",kew-419908
+kew-419903,A,Poaceae,,Hystrix,,"duthiei",subsp.,"longiaristata","(Hack.) C.Baden, Fred. & Seberg",Synonym,,L,WCSP,419903,999054-1,"Nordic J. Bot.","17: 461","","1997",kew-419901
+kew-419904,A,Poaceae,,Hystrix,,"elymoides",,"","Mack. & Bush",Synonym,Illegitimate,H,WCSP,419904,127251-2,"Man. Fl. Jackson County","39","","1902",kew-419913
+kew-419905,A,Poaceae,,Hystrix,,"gracilis",,"","(Hook.f.) Kuntze",Accepted,,H,WCSP,419905,405644-1,"Revis. Gen. Pl.","2: 778","","1891",
+kew-419906,A,Poaceae,,Hystrix,,"hackelii",,"","Honda",Synonym,,H,WCSP,419906,405646-1,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","3: 14","","1930",kew-419908
+kew-419907,A,Poaceae,,Hystrix,,"hystrix",,"","(L.) Millsp.",Synonym,Invalid,H,WCSP,419907,127252-2,"Fl. W. Virginia","474","","1892",kew-419913
+kew-419908,A,Poaceae,,Hystrix,,"japonica",,"","(Hack.) Ohwi",Accepted,,H,WCSP,419908,405648-1,"Acta Phytotax. Geobot.","5: 185","","1936",
+kew-419909,A,Poaceae,,Hystrix,,"komarovii",,"","(Roshev.) Ohwi",Accepted,,L,WCSP,419909,405649-1,"Acta Phytotax. Geobot.","2: 31","","1933",
+kew-419910,A,Poaceae,,Hystrix,,"kunlunensis",,"","K.S.Hao",Synonym,,L,WCSP,419910,405650-1,"Bot. Jahrb. Syst.","68: 580","","1938",kew-419909
+kew-419911,A,Poaceae,,Hystrix,,"laevis",,"","(Petrie) Allan",Accepted,,H,WCSP,419911,405651-1,"Introd. Grass. N. Zeal.","88, 155","","1936",
+kew-419912,A,Poaceae,,Hystrix,,"longiaristata",,"","(Hack.) Honda",Synonym,,L,WCSP,419912,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","3: 14","","1930",kew-419901
+kew-419913,A,Poaceae,,Hystrix,,"patula",,"","Moench",Accepted,,H,WCSP,419913,127253-2,"Methodus","295","","1794",
+kew-419914,A,Poaceae,,Hystrix,,"patula",f.,"bigeloviana","(Fernald) Gleason",Synonym,,L,WCSP,419914,127254-2,"Phytologia","4: 21","","1952",kew-419913
+kew-419915,A,Poaceae,,Hystrix,,"patula",var.,"bigeloviana","(Fernald) Deam",Synonym,,L,WCSP,419915,,"Pub. Dept. Conservation, Indiana","82: 117","","1929",kew-419913
+tro-25518175,A,Poaceae,,Hystrix,,"patula",var.,"patula","",Synonym,,L,TRO,25518175,,"","","","",tro-25527731
+kew-419916,A,Poaceae,,Hystrix,,"sachalinensis",,"","Ohwi",Synonym,,L,WCSP,419916,405654-1,"Bot. Mag. (Tokyo)","45: 378","","1931",kew-419909
+kew-419917,A,Poaceae,,Hystrix,,"sibirica",,"","(Trautv.) Kuntze",Accepted,,L,WCSP,419917,405655-1,"Revis. Gen. Pl.","2: 778","","1891",

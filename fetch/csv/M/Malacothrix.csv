@@ -1,0 +1,60 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11839,A,Compositae,,Malacothrix,,"altissima",,"","Greene",Synonym,,M,TICA,39CB46C6-0483-4CD1-BE2F-160F5359D841,231662-1,"in Bull. Calif. Acad. i. IV. (1885) 195.","","195","1885",gcc-97577
+gcc-152006,A,Compositae,,Malacothrix,,"arachnoidea",,"","E.A.McGregor",Synonym,,M,TICA,B66B89D8-892C-48CB-956D-9052EE633115,,"E. A. McGregor in Bull. Torrey Bot. Club 36. 1909","","605","1909",gcc-97577
+gcc-7299,A,Compositae,,Malacothrix,,"arachnoidea",,"","McGregor",Synonym,,M,TICA,6206FD9E-AFCB-4C42-A5FD-0D9651B5213F,,"","","","1909",gcc-97577
+gcc-25168,A,Compositae,,Malacothrix,,"blairii",,"","(Munz & I.M.Johnst.) Munz & I.M.Johnst.",Synonym,,M,TICA,9A6786C3-5674-4A25-BA7B-2E786BBBFE64,231664-1,"","","591","1935",gcc-93182
+gcc-81000,A,Compositae,,Malacothrix,,"californica",,"","DC.",Accepted,,M,TICA,5E170BEA-6578-4168-9CA0-6EDEC83214DC,231665-1,"Prodr. (DC.) 7(1): 192","","192","1838",
+gcc-63799,A,Compositae,,Malacothrix,,"californica",var.,"californica","",Synonym,,L,TICA,2BC65730-14A8-412B-A253-B98F5CA04BF6,,"","","","",gcc-81000
+gcc-70820,A,Compositae,,Malacothrix,,"californica",var.,"glabrata","A.Gray ex D.C.Eaton",Synonym,,L,TICA,ADD31EFE-3A0F-49B3-A204-F12156F94B62,,"","","201","1871",gcc-90884
+gcc-112327,A,Compositae,,Malacothrix,,"clevelandii",,"","A.Gray",Accepted,,M,TICA,B0D225E0-A522-4A65-B9F3-B5262A66870D,,"in Bot. Calif. i. 433.","","433","1876",
+gcc-54864,A,Compositae,,Malacothrix,,"clevelandii",var.,"clevelandii","",Synonym,,L,TICA,EA32A29D-FC53-4340-873C-716EBEFCE84B,,"","","","",gcc-112327
+gcc-48868,A,Compositae,,Malacothrix,,"clevelandii",var.,"stebbinsii","(W.S.Davis & P.H.Raven) Cronquist",Synonym,,L,TICA,9E8FC956-9DA7-4DD4-8BFD-5A84655611F6,979399-1,"","","436","1994",gcc-123774
+gcc-817,A,Compositae,,Malacothrix,,"commutata",,"","Torr. & A.Gray",Synonym,,M,TICA,462CCC83-4456-4E3C-B332-018B6E087537,231667-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 487","","487","1843",gcc-97577
+gcc-124963,A,Compositae,,Malacothrix,,"coulteri",,"","Harv. & Gray ex Harv. & A.Gray",Accepted,,M,TICA,0DDF454D-1755-4BAD-9A06-D1F1A7013A45,,"","","113","1849",
+gcc-54017,A,Compositae,,Malacothrix,,"coulteri",var.,"cognata","Jeps.",Synonym,,L,TICA,C5FD6AE4-8973-42CD-BF57-6AADB07A3B46,149696-2,"Man. Fl. Pl. Calif. 1001. 1925","","1001","1925",gcc-124963
+gcc-21445,A,Compositae,,Malacothrix,,"coulteri",var.,"coulteri","",Synonym,,L,TICA,7658508C-D27F-4575-A24F-27A196710BB5,,"","","","",gcc-124963
+gcc-122788,A,Compositae,,Malacothrix,,"crepoides",,"","A.Gray",Synonym,,M,TICA,C4068183-61AE-40B5-9D43-CCCDDDD2662A,,"in Pacif. Rail. Rep. xii. II. 53.","","53","18??",gcc-129626
+gcc-88312,A,Compositae,,Malacothrix,,"fendleri",,"","A.Gray",Accepted,,M,TICA,4BE2C1D5-1305-4340-A47D-7F2A66C7720F,,"Pl. Wright. ii. 104.","","","1853",
+gcc-115351,A,Compositae,,Malacothrix,,"floccifera",,"","(DC.) S.F.Blake",Accepted,,M,TICA,BFE62BC3-DB5E-4560-8F77-BBF3C3996CD9,149697-2,"","","656","1924",
+gcc-21747,A,Compositae,,Malacothrix,,"foliosa",,"","A.Gray ex Lyon",Unresolved,,L,TICA,67AA9D25-9FC7-48CA-8C20-28402036A425,,"Coult. Bot. Gaz. xi. (1886) 335. nomen; et Syn. N. Am. Fl. i. II. (1886) 454.","","454","",
+gcc-49116,A,Compositae,,Malacothrix,,"foliosa",,"","A.Gray",Accepted,,M,TICA,5F9186F9-3B32-4D44-83A6-5AF4E009D5FF,149698-2,"""Syn. Fl. N. Amer. (ed.  2) 1(2, suppl.): 455. 1886""","","455","1886",
+gcc-32491,A,Compositae,,Malacothrix,,"foliosa",subsp.,"foliosa","",Synonym,,L,TICA,77369B3A-84B2-4362-859D-3C3D86D60BFE,,"","","","1997",gcc-49116
+gcc-7208,A,Compositae,,Malacothrix,,"foliosa",var.,"foliosa","",Synonym,,L,TICA,A734E9DE-1DB1-4ABE-B517-0D68CAB3B201,,"","","","",gcc-49116
+gcc-41172,A,Compositae,,Malacothrix,,"foliosa",var.,"indecora","(Greene) E.W.Williams",Synonym,,L,TICA,3BA973B3-F4AC-4C0A-A1E3-4C4C00069F4D,149699-2,"American Midland Naturalist 58(2):","","507","1957",gcc-45576
+gcc-63959,A,Compositae,,Malacothrix,,"foliosa",var.,"squalida","(Greene) E.W.Williams",Synonym,,L,TICA,820BEB74-D598-42D6-87D1-BAEC6C74CFAD,149700-2,"American Midland Naturalist 58(2):","","507","1957",gcc-140703
+gcc-90884,A,Compositae,,Malacothrix,,"glabrata",,"","(A.Gray ex D.C.Eaton) A.Gray",Accepted,,M,TICA,E01BB719-184F-40B8-989D-85192F20F5CB,231673-1,"Syn. Fl. N. Am. i. II. 422.","","422","1884",
+gcc-96788,A,Compositae,,Malacothrix,,"implicata",,"","Eastw.",Synonym,,M,TICA,9211565A-846E-4F17-A99B-925F9A107623,,"""Proc. Calif. Acad. Sci. ser. 3, 1""","","113","1898",gcc-97577
+gcc-128148,A,Compositae,,Malacothrix,,"incana",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,487D2364-4188-404B-8159-D957228661DD,231675-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 486","","486","1843",
+gcc-69760,A,Compositae,,Malacothrix,,"incana",var.,"incana","",Synonym,,L,TICA,1BC38DC9-FEEE-4C2D-81DC-E8CDBFE8FED8,,"","","","",gcc-128148
+gcc-20584,A,Compositae,,Malacothrix,,"incana",var.,"succulenta","(Elmer) E.W.Williams",Synonym,,L,TICA,4BED9F76-243E-42D4-82E9-2617855254DE,,"""Amer. Midl. Naturalist 58(2): 506, 511. 1957""","","","1957",gcc-128148
+gcc-45576,A,Compositae,,Malacothrix,,"indecora",,"","Greene",Accepted,,M,TICA,6A0E5BFF-FB92-4DB3-A6EC-547A1CD292C4,149702-2,"","","152","1886",
+gcc-133967,A,Compositae,,Malacothrix,,"insularis",,"","Greene",Accepted,,M,TICA,B3C66E79-FB90-4003-B697-E6BD077CA409,315527-2,"","","194","1885",
+gcc-61523,A,Compositae,,Malacothrix,,"insularis",var.,"insularis","",Synonym,,L,TICA,BA0A5442-AA38-464B-B404-A754481B96F4,,"","","","",gcc-133967
+gcc-72291,A,Compositae,,Malacothrix,,"insularis",var.,"squalida","(Greene) Ferris",Synonym,,L,TICA,0C77BB8F-E4AC-4F0B-BE00-FCD1DEAEB0B5,149703-2,"Contr. Dudley Herb. 5: 102. 1958","","102","1958",gcc-140703
+gcc-29282,A,Compositae,,Malacothrix,,"junakii",,"","W.S.Davis",Accepted,,M,TICA,960C64CC-06AF-4052-B86D-361BAB1BD0FD,,"","","241","1997",
+gcc-127953,A,Compositae,,Malacothrix,,"obtusa",,"","Benth.",Synonym,,M,TICA,1B98A4FE-5AFD-47D2-9DF6-D8E3C9645F02,231678-1,"Pl. Hartw. 321.","","321","1849",gcc-115351
+gcc-118536,A,Compositae,,Malacothrix,,"parviflora",,"","Benth.",Synonym,,M,TICA,37880259-A186-4DF7-A7B5-C32D94796276,231679-1,"Pl. Hartw. 321.","","321","1849",gcc-115351
+gcc-75875,A,Compositae,,Malacothrix,,"phaeocarpa",,"","W.S.Davis",Accepted,,M,TICA,25A8539E-1E66-4760-8070-636E54B11DCF,303650-2,"","","101","1993",
+gcc-113409,A,Compositae,,Malacothrix,,"platyphylla",,"","A.Gray",Synonym,,M,TICA,90851F7E-AA40-4CF8-B767-B794B64B7217,231680-1,"","","214","1874",gcc-132207
+gcc-113687,A,Compositae,,Malacothrix,,"runcinata",,"","A.Nelson",Synonym,,M,TICA,6263FE9A-4F54-4C1E-A6C8-B830744811D9,149704-2,"","","485","1899",gcc-5537
+gcc-97577,A,Compositae,,Malacothrix,,"saxatilis",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,5DE24509-24C3-494D-907A-94333787CC85,231682-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 486","","486","1843",
+gcc-45777,A,Compositae,,Malacothrix,,"saxatilis",var.,"altissima","(Greene) Ferris",Synonym,,L,TICA,FE7135EA-F1D7-426D-8B8F-54E1216D56A2,149705-2,"Contr. Dudley Herb. 5: 102. 1958","","102","1958",gcc-97577
+gcc-37140,A,Compositae,,Malacothrix,,"saxatilis",var.,"arachnoidea","E.W.Williams",Synonym,,L,TICA,232B9DCC-0477-4F61-83C1-44CD28C04B81,149706-2,"Amer. Midl. Naturalist 58: 509. 1957","","509","1957",gcc-97577
+gcc-62116,A,Compositae,,Malacothrix,,"saxatilis",var.,"commutata","(Torr. & A.Gray) Ferris",Synonym,,L,TICA,87F32687-A39B-44CE-9763-AC25383C74FB,149707-2,"","","100","1958",gcc-97577
+gcc-54138,A,Compositae,,Malacothrix,,"saxatilis",var.,"implicata","(Eastw.) H.M.Hall",Synonym,,L,TICA,174C0F7C-9F70-47B2-B246-6BB0CFFFAB01,149708-2,"Univ. Calif. Publ. Bot. 3: 269. 1907","","269","1907",gcc-97577
+gcc-44652,A,Compositae,,Malacothrix,,"saxatilis",var.,"saxatilis","",Synonym,,L,TICA,4BB0C8B1-0E4D-49AB-A508-52BABB25CF46,,"","","","",gcc-97577
+gcc-44569,A,Compositae,,Malacothrix,,"saxatilis",var.,"tenuifolia","(Nutt.) A.Gray",Synonym,,L,TICA,E28A3CFB-9C1E-4689-8B8A-52923EB6A0A5,149709-2,"""Syn. Fl. N. Amer. 1, pt. 2: 423. 1884""","","423","1884",gcc-97577
+gcc-57672,A,Compositae,,Malacothrix,,"saxatilis",var.,"tenuissima","Munz",Synonym,,L,TICA,AA866BEC-7456-4CC7-B5FA-883A74976443,149710-2,"""Man. S. Calif. Bot. 591, 601. 1935""","","""591, 601""","1935",gcc-97577
+gcc-43382,A,Compositae,,Malacothrix,,"senecioides",,"","Reiche",Synonym,,M,TICA,98F652AE-06B7-4650-B21A-506098DEF080,149711-2,"","","193","1905",gcc-112327
+gcc-18173,A,Compositae,,Malacothrix,,"similis",,"","W.S.Davis & P.H.Raven",Accepted,,M,TICA,62CEDDCA-732D-4342-9CD5-2196F3B6692E,149712-2,"","","262","1962",
+gcc-5537,A,Compositae,,Malacothrix,,"sonchoides",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,5DAA41B2-7493-436D-82C1-0A51E8B8F2D6,231685-1,"","","486","1843",
+gcc-66685,A,Compositae,,Malacothrix,,"sonchoides",var.,"sonchoides","",Synonym,,L,TICA,65193E28-B70F-4217-9322-D0C0D59484F8,,"","","","",gcc-5537
+gcc-43590,A,Compositae,,Malacothrix,,"sonchoides",var.,"torreyi","(A.Gray) E.W.Williams",Synonym,,L,TICA,AFA38B6F-8A83-481C-BC54-50CDDE8F401A,149713-2,"","","503","1957",gcc-89581
+gcc-141354,A,Compositae,,Malacothrix,,"sonorae",,"","W.S.Davis & P.H.Raven",Accepted,,M,TICA,A5BFC365-CD09-4256-9B12-F72F66CB9CD3,149714-2,"","","264","1962",
+gcc-140703,A,Compositae,,Malacothrix,,"squalida",,"","Greene",Accepted,,M,TICA,3606E190-4E44-4FDA-9DE7-F5B471C9924B,149715-2,"","","152","1886",
+gcc-123774,A,Compositae,,Malacothrix,,"stebbinsii",,"","W.S.Davis & P.H.Raven",Accepted,,M,TICA,9C86B3D0-01BC-4B4A-ADD2-CF21C7AB3B52,308059-2,"Madroño 16: 265. 1962","","265","1962",
+gcc-5439,A,Compositae,,Malacothrix,,"succulenta",,"","Elmer",Synonym,,M,TICA,A8D1FFDF-C3A1-4B46-A526-0A240E890179,149717-2,"","","44","1905",gcc-128148
+gcc-117673,A,Compositae,,Malacothrix,,"tenuifolia",,"","(Nutt.) Torr. & A.Gray",Synonym,,M,TICA,C667725B-4271-4736-949A-C13394E576EB,231691-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 487","","487","1843",gcc-97577
+gcc-89581,A,Compositae,,Malacothrix,,"torreyi",,"","A.Gray",Accepted,,M,TICA,13014DF9-6B3A-40AF-B509-82052E4429F1,231692-1,"Proc. Amer. Acad. Arts ix. (1874) 213.","","213","1874",
+gcc-45742,A,Compositae,,Malacothrix,,"xanthii",,"","A.Gray",Accepted,,M,TICA,C9464E7E-B790-4765-9DC2-54D121BFE8D8,,"","","","",
+gcc-97797,A,Compositae,,Malacothrix,,"xanti",,"","A.Gray",Accepted,,M,TICA,FDA1D02A-4182-4324-B7F7-94B3A0BB09B2,231693-1,"Proc. Amer. Acad. Arts ix. (1874) 213","","213","1874",

@@ -1,0 +1,33 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-34543,A,Compositae,,Pterotheca,,"aralensis",,"","Bunge",Synonym,,M,TICA,FC916116-E4A8-44D8-B89B-4007ED7A6622,927996-1,"","","207","1852",gcc-110581
+gcc-102645,A,Compositae,,Pterotheca,,"aspera",,"","Rchb.f.",Unresolved,,L,TICA,297212FE-0F67-4AFF-B122-9F98E4D73B60,,"Ic. Fl. Germ. xix. 37.","","xix. 37","",
+gcc-150585,A,Compositae,,Pterotheca,,"aspera",,"","(L.) Rchb.",Synonym,,M,TICA,CB990A1B-C03E-4BFA-9CD9-71D465632872,,"""L. Reichenbach, Icon. Fl. Germ. Helv. 19. 1858-1859""","","","",gcc-86744
+gcc-43770,A,Compositae,,Pterotheca,,"bifida",,"","C.B.Clarke",Accepted,,M,TICA,37C95400-A6AF-4FEC-A512-511DD27C198B,240368-1,"Comp. Ind. 256.","","256","",
+gcc-85424,A,Compositae,,Pterotheca,,"bifida",,"","(Vis.) Fisch. & C.A.Mey.",Synonym,,M,TICA,73AB2E13-4D01-4577-B0FD-78A03947F691,,"","","43","1838",gcc-110581
+gcc-109303,A,Compositae,,Pterotheca,,"callicephala",,"","Juz.",Synonym,,M,TICA,71C775FB-09A7-4DA9-A1A8-AE5A0E780BB1,,"Juz. in Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk SSSR 14. 1951.","","45","1951",gcc-87896
+gcc-50278,A,Compositae,,Pterotheca,,"caspica",,"","(Pacz.) Pavlov",Synonym,,M,TICA,491554E7-5CB3-412D-8DEF-5D3F0B519318,240370-1,"""Fl. Centr. Kazakstan, iii. No. 1464 (1938); cf. Babcock in Univ. Calif. Publ.Bot. xxii. 736 (1947).""","","iii. No. 1464","1938",gcc-110581
+gcc-153970,A,Compositae,,Pterotheca,,"dioscoridis",,"","(L.) Rchb.",Synonym,,M,TICA,87611DF3-AB89-4EE8-8C71-B97472BC74B3,,"""L. Reichenbach, Icon. Fl. Germ. Helv. 19. 1858-1859""","","37","",gcc-42952
+gcc-44092,A,Compositae,,Pterotheca,,"dioscoridis",,"","Rchb.f.",Unresolved,,L,TICA,F2436BE4-E7F6-4C3F-B114-51A63B0B4D1B,,"Ic. Fl. Germ xix. 37.","","xix. 37","",
+gcc-26839,A,Compositae,,Pterotheca,,"falconeri",,"","Hook.f.",Synonym,,M,TICA,CDA85465-A183-4B9E-A1CB-319D5CEDD11C,240372-1,"","","399","1881",gcc-156424
+gcc-33887,A,Compositae,,Pterotheca,,"glareosa",,"","Trautv.",Synonym,Illegitimate,M,TICA,D78F791B-FAB1-4927-AEB6-3ED70B9FE807,240373-1,"""Act. Hort. Petrop. iv. (1876) 386, in textu.""","","386","1876",gcc-41843
+gcc-133533,A,Compositae,,Pterotheca,,"glaucescens",,"","(K.Koch) Grossh.",Synonym,,M,TICA,876CA17C-9D98-4F1D-B1E5-E5B410047729,,"Grossh.. 1949.","","511","1949",gcc-57155
+gcc-148481,A,Compositae,,Pterotheca,,"griselica",,"","J.Serres",Synonym,,M,TICA,4BDABF39-1EA4-4532-B610-437D70240291,240374-1,"J. Serres in Bull. Soc. Bot. France 3. 1856","","275","1856",gcc-110581
+gcc-51665,A,Compositae,,Pterotheca,,"macrantha",,"","Bunge",Synonym,,M,TICA,66BB7DB3-7C94-4003-91CC-5FD01C0C108C,,"","","208","",gcc-57155
+gcc-7327,A,Compositae,,Pterotheca,,"marschalliana",,"","(Rchb.) Dörfl.",Synonym,,M,TICA,0FBF3184-3270-41C8-9CE2-0DA288D5B630,,"","","","1901",gcc-57155
+gcc-12202,A,Compositae,,Pterotheca,,"nemausensis",,"","Rchb.",Unresolved,,L,TICA,E9CD7C14-116A-4F91-A2E7-16C0656A9AEF,240378-1,"Fl. Germ. Excurs. 269","","269","",
+gcc-124554,A,Compositae,,Pterotheca,,"nemausensis",,"","Cass.",Synonym,,M,TICA,6E1912FA-3719-4FE9-A87C-D0FBBD146CDA,,"","","125","1821",gcc-110581
+gcc-95340,A,Compositae,,Pterotheca,,"nudicaulis",,"","Dulac",Synonym,Illegitimate,M,TICA,53F0E33B-38A9-4D02-87DA-8F15DED9AA4B,240379-1,"Fl. Hautes-Pyr. 493 (1867).","","493","1867",gcc-110581
+gcc-99989,A,Compositae,,Pterotheca,,"obovata",,"","Boiss. & Noë",Synonym,,M,TICA,82D5884C-A7A8-4C36-8244-99950B263C46,,"","","98","1856",gcc-57155
+gcc-150686,A,Compositae,,Pterotheca,,"obovata",var.,"leiocarpa","(Trautv.) Trautv.",Synonym,,L,TICA,340AD1C2-A503-4E88-83DD-7424B906DBB7,,"E.R. von Trautvetter in Trudy Imp. S.-Peterburgsk. Bot. Sada 5(2). 1878","","452","1878",gcc-57155
+gcc-153751,A,Compositae,,Pterotheca,,"obovata",var.,"obovata","",Synonym,,L,TICA,1BE7CED4-C8E7-4C34-8561-B4808E7E071E,,"","","","",gcc-57155
+gcc-148087,A,Compositae,,Pterotheca,,"obovata",var.,"typica","Trautv.",Synonym,,L,TICA,16F0B324-7C86-4827-B65A-3B37286060A5,,"E.R. von Trautvetter in Trudy Imp. S.-Peterburgsk. Bot. Sada 7(2). 1881","","476","1881",gcc-57155
+gcc-154954,A,Compositae,,Pterotheca,,"orientalis",,"","(Boiss.) Schmalh.",Synonym,,M,TICA,653F5D24-A9EB-4B71-8923-CE354FCF9DD2,,"""J.T. Schmalhausen, Fl. Ssredn. Jushn. Rossii 2. 1897""","","150","1897",gcc-110581
+gcc-151387,A,Compositae,,Pterotheca,,"purpurea",,"","(Willd.) Trautv.",Synonym,,M,TICA,69E37423-130B-4DC4-8305-83694D4DC1EF,,"E.R. von Trautvetter in Trudy Imp. S.-Peterburgsk. Bot. Sada 4. 1876","","386","1876",gcc-40454
+gcc-2707,A,Compositae,,Pterotheca,,"purpurea",,"","C.B.Clarke",Unresolved,,L,TICA,CA14F43E-B8FE-4F15-B544-04F71C8F514B,,"""Comp. Ind. 256; Trautv. in Act. Hort. Petrop. iv. (1876) 386, in textu.""","","256","",
+gcc-98602,A,Compositae,,Pterotheca,,"runcinata",,"","Trautv.",Synonym,,M,TICA,13487EA4-A62C-495E-81C6-967B73AD4B6E,240382-1,"","","385","1876",gcc-137280
+gcc-31243,A,Compositae,,Pterotheca,,"ruppellii",,"","(Sch.Bip.) Steud.",Synonym,,M,TICA,34D4C4D8-C089-4BF7-B825-39DB625228B3,240383-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 415""","","415","1841",gcc-4356
+gcc-19265,A,Compositae,,Pterotheca,,"sancta",,"","(L.) K.Koch",Synonym,,M,TICA,16179F4F-40EB-44A3-AD39-239A732E0239,240384-1,"","","692","1851",gcc-110581
+gcc-154036,A,Compositae,,Pterotheca,,"sancta",var.,"glaucescens","(K.Koch) K.Koch",Synonym,,L,TICA,6E38E01C-52A2-42E6-990A-BB031386242C,,"K. Koch in Linnaea 23. 1850","","692","1850",gcc-57155
+gcc-146282,A,Compositae,,Pterotheca,,"sancta",var.,"sancta","",Synonym,,L,TICA,98139B1C-09EC-4928-A126-156F10431CC0,,"","","","",gcc-110581
+gcc-3149,A,Compositae,,Pterotheca,,"taurica",,"","Gand.",Synonym,Illegitimate,M,TICA,E77634D9-78C9-41E3-9ED7-05D17B2FAE87,240385-1,"","","308","1910",gcc-40454
+kew-259905,A,Cyperaceae,,Pterotheca,,"vahlii",,"","C.Presl",Synonym,,H,WCSP,259905,311586-1,"Symb. Bot.","1: 55","","1831",kew-261550

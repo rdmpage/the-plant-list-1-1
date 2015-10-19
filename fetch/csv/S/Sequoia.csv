@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-31300027,G,Cupressaceae,,Sequoia,,"disticha",,"","Heer",Synonym,,M,TRO,31300027,,"","","","",tro-31300026
+kew-2605526,G,Cupressaceae,,Sequoia,,"gigantea",,"","(Lindl.) Decne.",Synonym,Illegitimate,H,WCSP,381427,263736-1,"Bull. Soc. Bot. France","1: 70","","1854",kew-2587860
+kew-2484399,G,Pinaceae,,Sequoia,,"gigantea",,"","Endl.",Synonym,,H,WCSP,378993,263737-1,"Syn. Conif.","198","","1847",kew-2609740
+kew-2872954,G,Cupressaceae,,Sequoia,,"gigantea",f.,"pendula","(Briolay-Goiffon ex Carrière) Beissn.",Synonym,,L,WCSP,386789,,"Handb. Nadelholzk.","165","","1891",kew-2587860
+kew-464404,G,Cupressaceae,,Sequoia,,"gigantea",var.,"pendula","(Briolay-Goiffon ex Carrière) Lavallée",Synonym,,L,WCSP,464404,,"Énum. Arbres","271","","1877",kew-2587860
+kew-2587872,G,Cupressaceae,,Sequoia,,"glyptostroboides",,"","(Hu & W.C.Cheng) Weide",Synonym,,H,WCSP,381301,828388-1,"Feddes Repert. Spec. Nov. Regni Veg.","66: 185","","1962",kew-2508478
+kew-2484416,G,Cupressaceae,,Sequoia,,"pyramidata",,"","Carrière",Synonym,,H,WCSP,379003,263738-1,"Traité Gén. Conif.","ed. 2: 211","","1867",kew-2484394
+kew-2484414,G,Pinaceae,,Sequoia,,"rafinesquei",,"","Carrière",Synonym,,H,WCSP,379001,263739-1,"Traité Gén. Conif.","ed. 2: 213","","1867",kew-2563578
+kew-2484393,G,Cupressaceae,,Sequoia,,"religiosa",,"","C.Presl",Synonym,,H,WCSP,378987,263740-1,"Epimel. Bot.","237","","1851",kew-2484394
+kew-2484394,G,Cupressaceae,,Sequoia,,"sempervirens",,"","(D.Don) Endl.",Accepted,,H,WCSP,378988,263741-1,"Syn. Conif.","198","","1847",
+kew-464396,G,Cupressaceae,,Sequoia,,"sempervirens",var.,"adpressa","Carrière",Synonym,,L,WCSP,464396,,"Traité Gén. Conif.","ed. 2: 211","","1867",kew-2484394
+kew-464397,G,Cupressaceae,,Sequoia,,"sempervirens",f.,"adpressa","(Carrière) Beissn.",Synonym,,L,WCSP,464397,,"Handb. Conif.","21","","1887",kew-2484394
+kew-464398,G,Cupressaceae,,Sequoia,,"sempervirens",var.,"albospica","G.Nicholson",Synonym,,L,WCSP,464398,,"Ill. Dict. Gard.","3: 422","","1887",kew-2484394
+kew-464399,G,Cupressaceae,,Sequoia,,"sempervirens",var.,"glauca","R.Sm.",Synonym,,L,WCSP,464399,,"Pl. Fir Tribe","41","","1874",kew-2484394
+kew-464400,G,Cupressaceae,,Sequoia,,"sempervirens",f.,"glauca","(R.Sm.) Rehder",Synonym,,L,WCSP,464400,,"Bibl. Cult. Trees","41","","1949",kew-2484394
+kew-2872950,G,Cupressaceae,,Sequoia,,"sempervirens",var.,"nana-pendula","Hornibr.",Synonym,,L,WCSP,386785,,"Dwarf Conifers","156","","1923",kew-2484394
+kew-464401,G,Cupressaceae,,Sequoia,,"sempervirens",f.,"pendula","(Rovelli) Rehder",Synonym,,L,WCSP,464401,,"Bibl. Cult. Trees","41","","1949",kew-2484394
+kew-464402,G,Cupressaceae,,Sequoia,,"sempervirens",var.,"pendula","(Rovelli) C.K.Schneid.",Synonym,,L,WCSP,464402,,"Uns. Freil.-Nadelhölzer","272","","1913",kew-2484394
+kew-2484395,G,Cupressaceae,,Sequoia,,"taxifolia",,"","K.Koch",Synonym,,H,WCSP,378989,263742-1,"Dendrologie","2(2): 194","","1873",kew-2484394
+kew-2484396,G,Cupressaceae,,Sequoia,,"washingtoniana",,"","Sudw.",Synonym,Illegitimate,H,WCSP,378990,,"Bull. Div. Forest. U.S.D.A.","14: 61","","1897",kew-2587860
+kew-2484406,G,Cupressaceae,,Sequoia,,"wellingtonia",,"","Seem.",Synonym,,H,WCSP,378999,30069209-2,"Bonplandia (Hannover)","3: 27","","1855",kew-2587860
+kew-2872952,G,Cupressaceae,,Sequoia,,"wellingtonia",var.,"pendula","(Briolay-Goiffon ex Carrière) A.H.Kent",Synonym,,L,WCSP,386787,,"Man. Conif.","new ed.: 275","","1900",kew-2587860

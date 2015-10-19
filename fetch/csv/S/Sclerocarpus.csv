@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41443,A,Compositae,,Sclerocarpus,,"africanus",,"","Jacq. ex Murray",Accepted,,L,TICA,835C07E1-B8F0-4297-BFE2-4CBD3EC3FB8E,,"""Syst. Veg., ed. 14, 783. 1784.""","","""17, t. 176""","",
+gcc-50188,A,Compositae,,Sclerocarpus,,"baranguillae",,"","(Spreng.) S.F.Blake",Accepted,,L,TICA,865F70E4-69F4-45F0-9263-5D0A10A90202,230784-2,"","","242","1930",
+gcc-102787,A,Compositae,,Sclerocarpus,,"coffeaecola",,"","Klatt",Unresolved,,L,TICA,22C26158-879A-4C26-A9DD-9FE74F58C29B,,"Ann. Nat. Hofmus. Wien. ix. (1894) 360 [coffeaecolus].","","360","",
+gcc-37181,A,Compositae,,Sclerocarpus,,"columbianus",,"","Rusby & S.F.Blake",Unresolved,,L,TICA,D819839D-5B1C-45E1-870F-44E03B8F2C06,230785-2,"","","609","1924",
+gcc-31780,A,Compositae,,Sclerocarpus,,"dentatus",,"","(La Llave) Benth. & Hook.f. ex Hemsl.",Synonym,,M,TICA,E92FA891-FEB6-4CCD-BDF4-3AE28B51AF9D,,"","","164","1881",gcc-87676
+gcc-141915,A,Compositae,,Sclerocarpus,,"discoideus",,"","Vatke",Synonym,,M,TICA,6A876F41-2DF0-4A4C-8884-F87E157C393B,242972-1,"Linnaea 39: 495. 1875","","495","1875",gcc-52105
+gcc-23087,A,Compositae,,Sclerocarpus,,"divaricatus",,"","(Benth.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,65486EBD-D2CF-4AFE-91BF-2ABBE78AE431,,"","","164","1881",
+gcc-41857,A,Compositae,,Sclerocarpus,,"elongatus",,"","(Greenm.) Greenm. & C.H.Thomps.",Synonym,,M,TICA,AB0E3345-2933-49E2-9EA9-4D81E4070920,230786-2,"","","412","1914 [1915]",gcc-87676
+gcc-49803,A,Compositae,,Sclerocarpus,,"exiguus",,"","Sm.",Synonym,,L,TICA,D585A2D7-3EBD-4A5D-903F-5C540AD73B84,,"","","","1815",gcc-5035
+gcc-133546,A,Compositae,,Sclerocarpus,,"frutescens",,"","Brandegee",Synonym,,M,TICA,212A0D90-90BA-4D73-BBB7-E5BB80B438DF,230787-2,"","","281","1912",gcc-23451
+gcc-8336,A,Compositae,,Sclerocarpus,,"gracilis",,"","Sm.",Synonym,,L,TICA,A3482B2D-9554-4EB7-8D45-0F83C9BD4B6E,,"""in Rees, Cycl. xxxi. n. 2.""","","","1815",gcc-31722
+gcc-10913,A,Compositae,,Sclerocarpus,,"kerberi",,"","E.Fourn.",Synonym,,M,TICA,3EF93D83-88CE-469F-8D54-146AA79D8978,242978-1,"Bull. Soc. Bot. France 30","","183","1883",gcc-87676
+gcc-118212,A,Compositae,,Sclerocarpus,,"major",,"","Small",Accepted,,M,TICA,7926CB7D-E8CC-4C0A-96CA-C26A6014765D,230789-2,"","","1250","1903",
+gcc-16107,A,Compositae,,Sclerocarpus,,"multifidus",,"","Greenm.",Accepted,,M,TICA,B92ACE25-D0BD-40FD-980F-1DCB309BE867,230790-2,"","","346","1912",
+gcc-89337,A,Compositae,,Sclerocarpus,,"oracilis",,"","Steud.",Unresolved,,L,TICA,10B30694-45E0-4CBE-A306-81840EFB1480,242981-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 543, err. typ.""","","543","1841",
+gcc-129933,A,Compositae,,Sclerocarpus,,"orcuttii",,"","Greenm.",Synonym,,M,TICA,1B404D3F-545B-4052-90A2-DD682AB0B348,230791-2,"","","346","1912",gcc-23087
+gcc-111675,A,Compositae,,Sclerocarpus,,"papposus",,"","(Greenm.) Feddema",Accepted,,M,TICA,F29F575C-CF69-4E6F-9F50-B3A37D35FCCB,230792-2,"","","203","1972",
+gcc-143165,A,Compositae,,Sclerocarpus,,"phyllocephalus",,"","S.F.Blake",Accepted,,M,TICA,B58E4A32-0792-40C3-91CC-FB4914154BF0,230793-2,"","","""27-28, t. 8""","1922",
+gcc-118103,A,Compositae,,Sclerocarpus,,"schiedeanus",,"","(DC.) Benth. & Hook.f. ex Hook.f.",Accepted,,M,TICA,CCE17AC8-EF31-49D8-B793-C2282D147421,,"Gen. Pl. 2: 364. 1873.","","364","1873",
+gcc-12162,A,Compositae,,Sclerocarpus,,"schiedeanus",,"","Benth. & Hook.f. ex Hemsl.",Unresolved,,L,TICA,92D122A6-F2A2-42B2-A7A1-16AE0E01D8B5,242985-1,"""Biol. Cent.-Amer., Bot. ii. 164.""","","164","",
+gcc-148529,A,Compositae,,Sclerocarpus,,"schiedeanus",var.,"schiedeanus","",Synonym,,L,TICA,1DC7B9DD-D9B5-4EC0-8539-44B3D705A509,,"","","","",gcc-118103
+gcc-124866,A,Compositae,,Sclerocarpus,,"sessilifolius",,"","Greenm.",Accepted,,M,TICA,59323217-D6F0-45C2-9A51-D1B373340922,230795-2,"","","38","1904",
+gcc-18394,A,Compositae,,Sclerocarpus,,"spatulatus",,"","Rose",Accepted,,M,TICA,4D2E1E0E-D88A-4278-AEC8-21FAA1D3210F,242987-1,"","","103","1891",
+gcc-98906,A,Compositae,,Sclerocarpus,,"triunfonis",,"","M.E.Jones",Unresolved,,L,TICA,FAE54415-0568-4982-B503-9725A5FD6B10,,"","","77","",
+gcc-112347,A,Compositae,,Sclerocarpus,,"uniserialis",,"","(Hook.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,C28725D6-849C-47AE-8C8F-B534C0AB23B3,,"Gen. ii. 364.","","164","1881",
+gcc-11910,A,Compositae,,Sclerocarpus,,"uniserialis",var.,"austrotexanus","B.L.Turner",Synonym,,L,TICA,9FC6452E-3258-4BF4-979B-16332A7E3A62,,"","","","1988",gcc-112347
+gcc-23451,A,Compositae,,Sclerocarpus,,"uniserialis",var.,"frutescens","(Brandegee) Feddema",Accepted,,L,TICA,5F6555E5-6506-4AD8-BA6B-2B67FA809B4D,,"","","","1972",
+gcc-30544,A,Compositae,,Sclerocarpus,,"uniserialis",var.,"papposus","Greenm.",Synonym,,L,TICA,998CAD40-0A60-4252-8556-3888E09B783D,230801-2,"""Publ. Field Columbian Mus., Bot. Ser. 2: 346. 1912""","","346","1912",gcc-111675

@@ -1,0 +1,128 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92432,A,Compositae,,Sphaeranthus,,"abyssinicus",,"","Steetz",Synonym,,M,TICA,800DD487-AAE1-489B-9BE6-88995AEF0AAB,250491-1,"","","411","1864",gcc-109148
+gcc-120113,A,Compositae,,Sphaeranthus,,"africanus",,"","Burm.f.",Unresolved,,L,TICA,780D82C1-0FBB-4B67-A092-C6C0C333C765,250494-1,"Fl. Ind. 185. t. 60. f. 2.","","185. t. 60. f. 2","",
+gcc-141808,A,Compositae,,Sphaeranthus,,"africanus",,"","L.",Accepted,,M,TICA,58D4C0BA-4514-4145-9CC9-F840D67E02F7,250492-1,"","","1314","1763",
+gcc-95696,A,Compositae,,Sphaeranthus,,"africanus",,"","Wall.",Unresolved,,L,TICA,4B50867A-DA7B-4FA9-B594-8FF6876034F4,,"""Numer. List [Wallich] n. 3179, partim""","","3179","",
+gcc-149622,A,Compositae,,Sphaeranthus,,"africanus",var.,"africanus","",Synonym,,L,TICA,293A190C-6CAA-4DA4-8823-5CE3E6FDF24C,,"","","","",gcc-141808
+gcc-12336,A,Compositae,,Sphaeranthus,,"africanus",var.,"suberiflorus","(Hayata) Yamam.",Synonym,,L,TICA,A8A7F2C2-1AA3-4C15-ABE5-16FE39D12C85,,"Journal of the Society of Tropical Agriculture 9:","","91","1937",gcc-141808
+gcc-124765,A,Compositae,,Sphaeranthus,,"alatus",,"","Blanco",Synonym,,M,TICA,7DBC8A91-AE68-4968-AA31-D16F13C60CD6,250495-1,"Fl. Filip.","","635","1837",gcc-141808
+gcc-128181,A,Compositae,,Sphaeranthus,,"amaranthoides",,"","Burm.f.",Accepted,,M,TICA,635D8120-6422-40D1-A8E9-D968694C3527,250496-1,"Fl. Ind. 186.","","186","1768",
+gcc-107449,A,Compositae,,Sphaeranthus,,"angolensis",,"","O.Hoffm.",Accepted,,M,TICA,3FF33579-17CB-4F5E-AD22-AA1665498862,250497-1,"Bot. Jahrb. Syst. xx. (1894) 228.","","xx.  228.","1894",
+gcc-5805,A,Compositae,,Sphaeranthus,,"angustifolius",,"","Sch.Bip. ex Oliv. & Hiern",Unresolved,,L,TICA,E0D94C63-D59A-4D1C-B864-0ACCDCBCEA20,250498-1,"""Fl. Trop. Afr. [Oliver et al.] 3: 333, 334""","","334","1877",
+gcc-77573,A,Compositae,,Sphaeranthus,,"angustifolius",,"","DC.",Accepted,,M,TICA,25994146-A77C-4504-B201-672EC3F09B66,250499-1,"Prodr. (DC.) 5: 370","","370","1836",
+gcc-82507,A,Compositae,,Sphaeranthus,,"angustifolius",,"","Sch.Bip.",Unresolved,,L,TICA,6E3CCEA8-3E67-4511-A758-723805DFD4DD,250500-1,"","","","",
+gcc-144854,A,Compositae,,Sphaeranthus,,"brachystachys",,"","O.Hoffm. ex Cufod.",Synonym,,M,TICA,2FA4BF25-E93E-4C9F-98FB-FF14DD0766FA,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 116""","","116","1943",gcc-41022
+gcc-40234,A,Compositae,,Sphaeranthus,,"brounae",,"","Robyns",Synonym,,M,TICA,7CD091FB-984E-430A-AE66-4A9AF15A2347,250502-1,"""Bull. Misc. Inform. Kew 1924, 198.""","","198","1924",gcc-83024
+gcc-87232,A,Compositae,,Sphaeranthus,,"bullatus",,"","Mattf.",Accepted,,M,TICA,60A88372-B57C-4607-BF7C-7CD0A2875922,250503-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 290","","290","1936",
+gcc-108237,A,Compositae,,Sphaeranthus,,"calcareus",,"","Robyns",Synonym,,M,TICA,7CDAE5AA-0980-4B93-9707-ABD8342B2651,250504-1,"""Bull. Misc. Inform. Kew 1924, 192.""","","192","",gcc-83024
+gcc-130105,A,Compositae,,Sphaeranthus,,"chandleri",,"","Ross-Craig",Accepted,,M,TICA,E5D55FB6-B13D-4B9C-867E-DDCA5A763822,,"""in Hook. Ic. Pl. xxxvi. 40, t. 3507 (1954).""","","","",
+gcc-264,A,Compositae,,Sphaeranthus,,"chinensis",,"","L.",Unresolved,,L,TICA,C513840E-91B3-40AA-9902-007DA3C009FE,,"Mant. i. 119.","","i. 119","",
+gcc-38239,A,Compositae,,Sphaeranthus,,"cochinchinensis",,"","Lour.",Synonym,,M,TICA,347850EE-E8CC-4EA6-802C-46EEA53DF758,250507-1,"Fl. Cochinch. 510.","","510","1790",gcc-141808
+gcc-15625,A,Compositae,,Sphaeranthus,,"confertifolius",,"","Robyns",Accepted,,M,TICA,FE21BCF9-96A2-4BFE-B96D-1CEF00B89E6E,250508-1,"""Bull. Misc. Inform. Kew 1924, 196.""","","196","1924",
+gcc-139577,A,Compositae,,Sphaeranthus,,"cotuloides",,"","DC.",Unresolved,,L,TICA,771E5D8E-02A6-4415-9A98-F3038A009B05,250509-1,"Prodr. (DC.) 5: 370","","370","1836",
+gcc-139443,A,Compositae,,Sphaeranthus,,"crispus",,"","Zipp. ex Span.",Unresolved,,L,TICA,25A55B62-B15C-4DFB-BEC7-F2BD2743AF48,,"Linnaea 15","","","1841",
+gcc-103466,A,Compositae,,Sphaeranthus,,"cristatus",,"","O.Hoffm.",Accepted,,M,TICA,FA370903-F494-4087-A511-A159DF7DC2CB,,"Bot. Jahrb. Syst. xxiv. 470.","","","1898",
+gcc-77397,A,Compositae,,Sphaeranthus,,"cufodontii",,"","Lanza",Synonym,,M,TICA,2649688C-8A8B-4152-9B5C-66CDBBAA4C72,250512-1,"""Miss. Biol. Borana, Racc. Bot., Angiosp.-Gymnosp. 252 (1939)""","","252","1939",gcc-109148
+gcc-141571,A,Compositae,,Sphaeranthus,,"cyathuloides",,"","O.Hoffm.",Synonym,,M,TICA,F82B207F-CAE2-4011-8FBF-F7B1F431AF6B,,"Bot. Jahrb. Syst. xx. (1894) 229.","","","1894",gcc-3583
+gcc-42830,A,Compositae,,Sphaeranthus,,"cyathuloides",var.,"acuminatus","Ross-Craig",Synonym,,L,TICA,88B293EF-F2EF-44AB-9834-4F54A077EFA8,,"","","","",gcc-3583
+gcc-146539,A,Compositae,,Sphaeranthus,,"cyathuloides",var.,"cyathuloides","",Synonym,,L,TICA,3D7C2C84-F2F2-4CB6-9AAB-1A9B30D27C57,,"","","","",gcc-3583
+gcc-49948,A,Compositae,,Sphaeranthus,,"cylindraceus",,"","Cufod.",Synonym,,M,TICA,E0CD7BCE-FB0C-4EDE-9FC6-5C97DC30DA7B,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 105""","","105","1943",gcc-41022
+gcc-134829,A,Compositae,,Sphaeranthus,,"cylindricus",,"","O.Hoffm. ex Engl.",Synonym,Invalid,M,TICA,B3AFE483-93A9-4738-A038-E8A00A56B291,,"","","","",gcc-41022
+gcc-141387,A,Compositae,,Sphaeranthus,,"dauensis",,"","Cufod.",Synonym,,M,TICA,D338A83A-B3C3-459C-9CE5-F748B4C2CF7B,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 106""","","106","1943",gcc-70876
+gcc-99844,A,Compositae,,Sphaeranthus,,"dinteri",,"","Muschl.",Synonym,,M,TICA,978A86FC-4131-4516-ABB7-9944E887E440,250516-1,"Bot. Jahrb. Syst. xlvi. 107 (1911).","","xlvi. 107","1911",gcc-83024
+gcc-118436,A,Compositae,,Sphaeranthus,,"elongatus",,"","Blanco",Synonym,,M,TICA,817B7174-0414-432E-B794-C2EDB750AB86,250517-1,"Fl. Filip.","","636","1837",gcc-117303
+gcc-1178,A,Compositae,,Sphaeranthus,,"engleri",,"","Muschl.",Synonym,,M,TICA,E54A02A0-D681-4D80-8B6A-02273A28E45C,250518-1,"Bot. Jahrb. Syst. xlvi. 108 (1911).","","xlvi. 108","1911",gcc-83024
+gcc-114815,A,Compositae,,Sphaeranthus,,"epigaeus",,"","Schinz",Accepted,,M,TICA,61406469-76E5-445E-89CC-BAB8DC430504,250519-1,"Bull. Herb. Boissier vi. 560.","","vi. 560.","",
+gcc-135015,A,Compositae,,Sphaeranthus,,"erectus",,"","Zoll. & Mor.",Synonym,,M,TICA,DB7DE4A0-4A84-419F-A1F5-E906F4387319,,"","","","1845",gcc-18705
+gcc-107572,A,Compositae,,Sphaeranthus,,"fischeri",,"","O.Hoffm.",Accepted,,M,TICA,9536B428-0D6B-4383-B51C-AA5B8C4FCC76,,"Bot. Jahrb. Syst. xx. (1894) 230.","","","1894",
+gcc-109207,A,Compositae,,Sphaeranthus,,"flexuosus",,"","O.Hoffm. ex De Wild.",Unresolved,,L,TICA,42AB17F6-27CA-4827-B868-AE1FD2074815,250522-1,"""Ann. Mus. Congo Belge, Bot. sér. 4, p. x.""","","""sér. 4, p. x.""","",
+gcc-83024,A,Compositae,,Sphaeranthus,,"flexuosus",,"","O.Hoffm.",Accepted,,M,TICA,9C28D8DF-1BBE-4981-8497-735FDC1AC30C,,"","","px.","1903",
+gcc-6164,A,Compositae,,Sphaeranthus,,"foliosus",,"","Ross-Craig",Accepted,,M,TICA,2755895C-7FFB-4CE0-9F90-0B75911ECA9D,250523-1,"""in Hook. Ic. Pl. xxxvi. 71, t. 3518 (1954).""","","""xxxvi. 71, t. 3518""","1954",
+gcc-108124,A,Compositae,,Sphaeranthus,,"gallensis",,"","Sacleux",Synonym,,M,TICA,3DE289AB-AB06-4308-B7F3-ABA3C963B2C6,,"""in Humbert, Not. Syst. vii. 15 (1938).""","","","1938",gcc-87232
+gcc-132729,A,Compositae,,Sphaeranthus,,"gazaensis",,"","Bremek.",Synonym,,M,TICA,75434CCB-0DA5-44A6-B3F2-E3E9F42E861C,,"""J. S. African Bot. 1936, ii. 165.""","","","1936",gcc-30587
+gcc-122485,A,Compositae,,Sphaeranthus,,"glaber",,"","DC.",Synonym,,M,TICA,91F2F28A-4DBE-4ECA-BD71-CC22E3447E01,250526-1,"","","370","1836",gcc-141808
+gcc-130170,A,Compositae,,Sphaeranthus,,"globosus",,"","Wall. ex DC.",Unresolved,,L,TICA,8418CB33-3486-4B41-8845-DDEC764DF23B,250527-1,"Prodr. (DC.) 5: 369","","369","1836",
+gcc-18831,A,Compositae,,Sphaeranthus,,"gomphrenoides",,"","O.Hoffm.",Synonym,,M,TICA,A4A7CFCD-1824-4869-B2D4-22C2624E643B,250528-1,"Bot. Jahrb. Syst. xx. (1894) 229.","","xx.  229.","1894",gcc-1896
+gcc-136454,A,Compositae,,Sphaeranthus,,"gracilis",,"","Oliv.",Synonym,,M,TICA,3E374828-64D3-4CB0-9DFD-EC4104065CF5,,"""J. Linn. Soc., Bot. xxi. (1885) 400.""","","400","",gcc-90664
+gcc-88641,A,Compositae,,Sphaeranthus,,"greenwayi",,"","Ross-Craig",Accepted,,M,TICA,D4F55C20-18D0-4D23-BDC7-7FE04B87DBA3,,"""in Hook. Ic. Pl. xxxvi. 50, t. 3510 (1954).""","","","",
+gcc-92904,A,Compositae,,Sphaeranthus,,"hildebrandtii",,"","Baker",Synonym,,M,TICA,ADABEEBA-6C13-4EAA-B0CF-89A10A5D09FB,250531-1,"""J. Linn. Soc., Bot. xxv. (1890) 326.""","","326","1890",gcc-141808
+gcc-124252,A,Compositae,,Sphaeranthus,,"hirtus",,"","Willd.",Synonym,,M,TICA,70793C8D-2590-482D-9ED6-D0405550E970,250532-1,"","","2395","1803",gcc-113632
+gcc-1380,A,Compositae,,Sphaeranthus,,"humilis",,"","O.Hoffm.",Synonym,,M,TICA,35ED7DA0-27AE-44FD-B3EF-027AC9E8CA66,250533-1,"in Warb. Kunene-Sambesi Exped. 410.","","410","",gcc-83024
+gcc-37622,A,Compositae,,Sphaeranthus,,"incisus",,"","Robyns",Synonym,,M,TICA,EF2D3F0F-BE3B-419D-93F8-45BCB5C75958,250534-1,"""Bull. Misc. Inform. Kew 1924, 191.""","","191","",gcc-693
+gcc-113632,A,Compositae,,Sphaeranthus,,"indicus",,"","L.",Accepted,,M,TICA,9643D882-8433-4833-AA69-B80CEE7D62FD,250536-1,"Sp. Pl.","","927","1753",
+gcc-78278,A,Compositae,,Sphaeranthus,,"indicus",,"","Kurz",Unresolved,,L,TICA,57662DCE-B111-47AF-BE45-68C7D9FA1D82,250537-1,"in Journ. As. Soc. Beng. xlvi. (1877) II. 183.","","xlvi.  II. 183","1877",
+gcc-98299,A,Compositae,,Sphaeranthus,,"indicus",,"","Gaertn.",Unresolved,,L,TICA,1B905D5A-EB42-4F42-9895-95C6B2D70629,,"Fruct. Sem. Pl. ii. 413. t. 164. f. 5","","413","",
+gcc-52013,A,Compositae,,Sphaeranthus,,"integrifolius",,"","L.f. ex Fisch. & C.A.Mey.",Unresolved,,L,TICA,1303CB1D-C5BB-46BC-9C7A-607A478979E4,250538-1,"Index Seminum Hort. Petrop. ii. 30","","30","",
+gcc-5131,A,Compositae,,Sphaeranthus,,"johnstonii",,"","Robyns",Synonym,,M,TICA,B3AD40B6-B148-42F4-968A-098F03C3C973,250539-1,"""Bull. Misc. Inform. Kew 1924, 186.""","","186","",gcc-117230
+gcc-141233,A,Compositae,,Sphaeranthus,,"kalahariensis",,"","Bremek. & Oberm.",Synonym,,M,TICA,7990168F-ACC5-40FB-8371-F6EAFDC85575,,"Ann. Transvaal Mus. xvi. 439 (1935).","","439","",gcc-83024
+gcc-138766,A,Compositae,,Sphaeranthus,,"keniensis",,"","Robyns",Synonym,,M,TICA,40EAB8D4-28AD-4705-9E4E-F1540B6C13D4,250541-1,"""Bull. Misc. Inform. Kew 1924, 188.""","","188","",gcc-1896
+gcc-117230,A,Compositae,,Sphaeranthus,,"kirkii",,"","Oliv. & Hiern",Accepted,,M,TICA,AFA1E005-3CA9-4768-A4C1-C02B0197BBF3,250542-1,"Fl. Trop. Afr. [Oliver et al.] 3: 333","","333","1877",
+gcc-3583,A,Compositae,,Sphaeranthus,,"kirkii",var.,"cyathuloides","(O.Hoffm.) Beentje",Accepted,,L,TICA,E16179C7-2BF0-444F-80E3-069FB49DE3D4,20008668-1,"""Fl. Trop. E. Africa, Compos. (Part 2) 390 (2002).""","","390","2002",
+gcc-71811,A,Compositae,,Sphaeranthus,,"kirkii",var.,"kirkii","",Synonym,,L,TICA,DC216869-A276-4D4A-855F-F8F927DE6F1D,,"","","","",gcc-117230
+gcc-79708,A,Compositae,,Sphaeranthus,,"kotschyi",,"","Sch.Bip. ex Schweinf.",Synonym,Invalid,M,TICA,40499A74-110B-43DA-A29B-6BFD2A96350F,250543-1,"Beitr. Fl. Aethiop. 308. 1867","","308","1867",gcc-109148
+gcc-78977,A,Compositae,,Sphaeranthus,,"laciniatus",,"","Wall.",Synonym,,L,TICA,B57C0002-F1A0-4CB0-BB0A-6A75B8407620,,"","","","1831",gcc-87305
+gcc-115973,A,Compositae,,Sphaeranthus,,"laevigatus",,"","Wall. ex DC.",Unresolved,,L,TICA,C926CA80-F53E-47F6-A9F6-BD62EA971853,250545-1,"Prodr. (DC.) 5: 369","","369","1836",
+gcc-11894,A,Compositae,,Sphaeranthus,,"lecomteanus",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,3E79C419-FC77-46D2-A25B-162AB3649BAC,250546-1,"Bull. Soc. Bot. France 57(Mém. 8c): 114","","114","1910",gcc-30587
+gcc-138810,A,Compositae,,Sphaeranthus,,"lelyi",,"","Robyns",Synonym,,M,TICA,26DBC59B-0FAE-4E40-AA1B-F165CAA0DBA4,250547-1,"""Bull. Misc. Inform. Kew 1924, 192.""","","192","",gcc-77573
+gcc-114946,A,Compositae,,Sphaeranthus,,"madagascariensis",,"","Robyns",Synonym,,M,TICA,FFF5BE34-E4A3-4A7E-8410-BB089AEFC217,250548-1,"""Bull. Misc. Inform. Kew 1924, 194.""","","194","1924",gcc-55114
+gcc-129405,A,Compositae,,Sphaeranthus,,"microcephalus",,"","Vatke",Synonym,,M,TICA,D4D3EFF0-6F90-46F9-9F3B-DC3024C10564,250549-1,"Oesterr. Bot. Z. 25: 326","","326","1875",gcc-141808
+gcc-873,A,Compositae,,Sphaeranthus,,"microcephalus",,"","Willd.",Synonym,,M,TICA,C8AFD1C0-13A9-44ED-BEAD-01A2537CFD4C,250550-1,"","","2395","1803",gcc-141808
+gcc-5457,A,Compositae,,Sphaeranthus,,"mimetes",,"","Ross-Craig",Accepted,,M,TICA,21D988D1-2D21-4673-81A6-0A2A80BD09E1,,"""in Hook. Ic. Pl. xxxvi. 72, t. 3519 (1954).""","","","",
+gcc-92774,A,Compositae,,Sphaeranthus,,"mollis",,"","Roxb.",Synonym,,M,TICA,4E2B8E61-19C8-45E2-9E05-8957BAC09FA5,,"","","","1832",gcc-113632
+gcc-98432,A,Compositae,,Sphaeranthus,,"mollis",,"","Roxb. ex DC.",Synonym,,M,TICA,68437D96-C67D-43E3-9A02-961F723FE84B,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","369","1836",gcc-113632
+gcc-25638,A,Compositae,,Sphaeranthus,,"mossambiquensis",,"","Steetz",Unresolved,,L,TICA,E600F931-EB19-41A1-A0DA-2F5A84EC8631,,"""in Peters, Reise Mossamb. Bot. 421.""","","421","",
+gcc-96528,A,Compositae,,Sphaeranthus,,"mozambiquensis",,"","Steetz",Accepted,,M,TICA,B302425C-A282-4B3B-A095-91CB3EBC8000,,"","","","",
+gcc-45007,A,Compositae,,Sphaeranthus,,"napierae",,"","Ross-Craig",Synonym,,M,TICA,7D93924A-5981-4497-9D56-536371F76D26,250554-1,"""in Hook. Ic. Pl. xxxvi. 52, t. 3511 (1954).""","","""xxxvi. 52, t. 3511""","1954",gcc-109148
+gcc-119065,A,Compositae,,Sphaeranthus,,"neglectus",,"","R.E.Fr.",Accepted,,M,TICA,684DF5D9-027F-4741-89BD-C46507634100,250555-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 334 (1916)","","334","1916",
+gcc-59314,A,Compositae,,Sphaeranthus,,"neglectus",var.,"lanatus","R.E.Fr.",Synonym,,L,TICA,C85A348B-9F52-498D-840C-956656B2A642,,"","","","",gcc-55114
+gcc-146698,A,Compositae,,Sphaeranthus,,"neglectus",var.,"neglectus","",Synonym,,L,TICA,3BEBD12C-4515-4745-B846-1E1C23D498F0,,"","","","",gcc-119065
+gcc-133971,A,Compositae,,Sphaeranthus,,"nubicus",,"","Sch.Bip. ex Schnizl.",Unresolved,,L,TICA,42270AEA-D754-470E-8135-E6BFDBE19863,250556-1,"""in Flora, xxv. (1842) I. Beibl. 134, 145.""","","""xxv.  I. Beibl. 134, 145.""","1842",
+gcc-78602,A,Compositae,,Sphaeranthus,,"nubicus",,"","Sch.Bip. ex Oliv. & Hiern",Synonym,,M,TICA,0B2E2F72-3D92-41A6-94F2-698016694261,,"Flora of Tropical Africa 3:","","335","1877",gcc-77573
+gcc-76930,A,Compositae,,Sphaeranthus,,"oppositifolius",,"","Ross-Craig",Accepted,,M,TICA,CB7AA686-C542-4D24-834D-65BA998A5DF7,,"""in Hook. Ic. Pl. xxxvi. 59, t. 3514 (1954).""","","","",
+gcc-2411,A,Compositae,,Sphaeranthus,,"ovalifolius",,"","Muschl.",Unresolved,,L,TICA,3A4358CE-6C90-4DE1-8D6A-0464D287BDA7,250558-1,"Bot. Jahrb. Syst. xlvi. 106 (1911).","","xlvi. 106","1911",
+gcc-77966,A,Compositae,,Sphaeranthus,,"ovalis",,"","Steetz",Synonym,,M,TICA,C49C7573-527D-498E-9C32-680A44B4ADDC,,"""in Peters, Reise Mossamb. Bot. 413.""","","413","",gcc-141808
+gcc-83192,A,Compositae,,Sphaeranthus,,"paniculatus",,"","Cass.",Unresolved,,L,TICA,CAA04673-E477-4AD1-BC70-73C810C868DD,250560-1,"in Dict. Sci. Nat. l. 211.","","l. 211","",
+gcc-135265,A,Compositae,,Sphaeranthus,,"peduncularis",,"","sensu Volkens non DC.",Synonym,Illegitimate,M,TICA,0036688B-0C11-4985-91F4-E9A37C653EF9,,"","","","",gcc-693
+gcc-693,A,Compositae,,Sphaeranthus,,"peduncularis",,"","DC.",Accepted,,M,TICA,89D9AD52-7F15-4DBF-99D8-014C3BF26640,250561-1,"Prodr. (DC.) 5: 370","","370","1836",
+gcc-62845,A,Compositae,,Sphaeranthus,,"peduncularis",subsp.,"peduncularis","",Synonym,,L,TICA,BDFFFAD3-A827-46BA-B760-B21849965D29,,"","","","",gcc-693
+gcc-55114,A,Compositae,,Sphaeranthus,,"peduncularis",subsp.,"rogersii","(N.E.Br.) Wild",Accepted,,L,TICA,CF6B77CC-D080-4327-9D9D-737C169B03AC,919618-1,"Kirkia 12(1): 19 (1980):","","19","1980",
+gcc-22649,A,Compositae,,Sphaeranthus,,"peguensis",,"","Kurz ex C.B.Clarke",Unresolved,,L,TICA,C732C648-3EEF-4771-A99D-29EB89548876,250562-1,"Comp. Ind. 97.","","97","",
+gcc-122033,A,Compositae,,Sphaeranthus,,"polycephalus",,"","Oliv. & Hiern ex Oliv.",Unresolved,,L,TICA,4F92D495-40BD-4499-89FE-CB1AA9D0FCD3,250563-1,"""Trans. Linn. Soc. London 29(2): 95, t. 59""","","95","1873",gcc-30587
+gcc-12131,A,Compositae,,Sphaeranthus,,"pusillus",,"","Sacleux",Synonym,,M,TICA,DBE80536-721C-4454-AF27-169F23718BF8,,"""in Humbert, Not. Syst. vii. 16 (1938).""","","","1938",gcc-50486
+gcc-90161,A,Compositae,,Sphaeranthus,,"ramosus",,"","(Klatt) Mesfin",Accepted,,M,TICA,7E34EEE1-5053-4E78-BD4A-8355D9389658,60434244-2,"Nordic J. Bot. 22(6): 669. 2004 [May 2004]","","669","2004",
+gcc-91748,A,Compositae,,Sphaeranthus,,"randii",,"","S.Moore",Accepted,,M,TICA,F4FBD255-E25B-4950-8D84-870AB2BBEF68,,"Journ. Bot. xlvi. 40 (1908).","","","1908",
+gcc-66182,A,Compositae,,Sphaeranthus,,"randii",var.,"randii","",Synonym,,L,TICA,FDA8E2E6-4B96-499A-8F4E-CCB81324A3DA,,"","","","",gcc-91748
+gcc-23509,A,Compositae,,Sphaeranthus,,"rogersii",,"","N.E.Br.",Synonym,,M,TICA,701BEF8E-160D-4586-9FD1-2B7CDA95CDF1,250566-1,"""Bull. Misc. Inform. Kew 1921, 295.""","","295","1921",gcc-55114
+gcc-10424,A,Compositae,,Sphaeranthus,,"salinarum",,"","Symoens",Accepted,,M,TICA,000F8B89-DCB6-4E26-BCF4-137412B1B608,250567-1,"in Bull. Soc. Roy. Bot. Belg. lxxxvi. 116 (1953).","","lxxxvi. 116","1953",
+gcc-142539,A,Compositae,,Sphaeranthus,,"samburuensis",,"","Beentje",Accepted,,M,TICA,E9AAB8FF-E388-4E99-9A5C-F9D34C84C836,,"Kew Bull. 54(1): 100 (1999)","","100","1999",
+gcc-30587,A,Compositae,,Sphaeranthus,,"senegalensis",,"","DC.",Accepted,,M,TICA,2A810526-D138-49C3-8531-38A2D80A9E61,250568-1,"","","370","1836",
+gcc-44400,A,Compositae,,Sphaeranthus,,"setulosus",,"","R.E.Fr.",Synonym,,M,TICA,A7856EAC-D95B-4F8B-A481-524623E16F21,250569-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 333 (1916)","","333","1916",gcc-83024
+gcc-81690,A,Compositae,,Sphaeranthus,,"similis",,"","Kers",Accepted,,M,TICA,A4B3E2CC-A5A7-41BD-A72C-70699B0BC20C,,"""in Dinteria No. 2, 3 (1969).""","","","1969",
+gcc-81783,A,Compositae,,Sphaeranthus,,"sinensis",,"","J.F.Gmel.",Unresolved,,L,TICA,3AFD0023-5FAC-4C6E-8A5E-709337B4C4A4,250571-1,"""Syst. Nat., ed. 13[bis]. 2(2): 1280""","","1280","1792",
+gcc-50486,A,Compositae,,Sphaeranthus,,"spathulatus",,"","Peter",Accepted,,M,TICA,C09C1AFA-C1C6-400A-A930-5D97D54A9403,,"""in Abh. Ges. Wiss. Gottingen n. f. xiii. II. 27, in obs., 93, in clavi""","","","1928",
+gcc-9975,A,Compositae,,Sphaeranthus,,"sphenocleoides",,"","Oliv. & Hiern",Synonym,,M,TICA,BE53C796-3522-4D39-83F8-12A8AD8F75B9,250573-1,"Fl. Trop. Afr. [Oliver et al.] 3: 333","","333","1877",gcc-141808
+gcc-1896,A,Compositae,,Sphaeranthus,,"steetzii",,"","Oliv. & Hiern",Accepted,,M,TICA,9778BE8F-1769-4532-9D81-036C27462592,250574-1,"Fl. Trop. Afr. [Oliver et al.] 3: 334","","334","1877",
+gcc-91996,A,Compositae,,Sphaeranthus,,"stenostachys",,"","Chiov.",Synonym,,M,TICA,9E3698F9-EEC9-47E5-9ED0-87A12A32DF38,250575-1,"Result. Sc. Miss. Stefan.-Paoli Somal. Ital. i. 102 (1916).","","i. 102","1916",gcc-41022
+gcc-99105,A,Compositae,,Sphaeranthus,,"strobilaceus",,"","Peter",Synonym,,M,TICA,D4162E53-7F28-493D-BF29-97A06635F6E4,,"""in Abh. Ges. Wiss. Gottingen n. f. xiii. II. 90, 92""","","92","1928",gcc-117230
+gcc-95959,A,Compositae,,Sphaeranthus,,"strobiliferus",,"","Boiss. & Noë",Accepted,,M,TICA,5BC41C4C-A86A-4342-A9C6-9082B7DCBA02,,"","","6","1856",
+gcc-20197,A,Compositae,,Sphaeranthus,,"stuhlmannii",,"","O.Hoffm.",Accepted,,M,TICA,A2315E0D-E705-4248-83F3-2550B5B708D0,,"Bot. Jahrb. Syst. xx. (1894) 230.","","","1894",
+gcc-109148,A,Compositae,,Sphaeranthus,,"suaveolens",,"","(Forssk.) DC.",Accepted,,M,TICA,80466B50-C427-421F-9E87-ADFC9B8E4730,250579-1,"","","370","1836",
+gcc-42086,A,Compositae,,Sphaeranthus,,"suaveolens",var.,"abyssinicus","(Steetz) Ross-Craig",Synonym,,L,TICA,E665C1AA-A40E-41B3-BB2C-4DF5724FD467,,"Hook. Ic. Pl. 5(6): 44 (1954).","","","",gcc-109148
+gcc-68581,A,Compositae,,Sphaeranthus,,"suaveolens",var.,"angustifolius","Oliv.",Synonym,,L,TICA,C7738506-C4C7-4159-974E-DFDA5537A1A1,,"Trans. Linn. Soc. London 29: 94 (1873).","","","",gcc-109148
+gcc-23887,A,Compositae,,Sphaeranthus,,"suaveolens",var.,"suaveolens","",Synonym,,L,TICA,181D1C10-0EF7-4D1E-9A47-2C2446985739,,"","","","",gcc-109148
+gcc-23889,A,Compositae,,Sphaeranthus,,"suaveolens",var.,"tetraphyllus","(S.Moore) Ross-Craig",Synonym,,L,TICA,A99B70F6-3666-42BA-8E54-2C25F7EF515C,,"Hook. Ic. Pl. 5(6): 47 (1954).","","","",gcc-109148
+gcc-76131,A,Compositae,,Sphaeranthus,,"suberiflorus",,"","Hayata",Synonym,,M,TICA,7A370A88-2DA5-480F-A9F7-63F9BAA3AB20,,"Icon. Pl. Formosan. 8: 55","","","1919",gcc-141808
+gcc-102678,A,Compositae,,Sphaeranthus,,"talbotii",,"","S.Moore",Synonym,,M,TICA,EB4BCCDA-C0B9-4B61-BF02-9FAA30873978,250581-1,"""Macleod, Chiefs & Cities Centr. Afr. 303 (1912); et in Cat. Talbot's NigerianPl. 50.""","","303","1912",gcc-1896
+gcc-112104,A,Compositae,,Sphaeranthus,,"taylorii",,"","S.Moore",Synonym,,M,TICA,22760293-A4A6-4159-A410-B4A7098CCD0F,,"""J. Linn. Soc., Bot. xxxv. 330.""","","330","",gcc-1896
+gcc-93702,A,Compositae,,Sphaeranthus,,"tenuis",,"","R.E.Fr.",Synonym,,M,TICA,EF40863F-9ACC-4B08-AF64-8B424FB05D98,250583-1,"Wiss. Erg. Schwed. Rhodesia-Kongo-Exp. 1911-1912 i. 333 (1916)","","333","1916",gcc-83024
+gcc-104879,A,Compositae,,Sphaeranthus,,"tetraphyllus",,"","S.Moore",Synonym,,M,TICA,42CFEA81-4614-4CF7-98B8-A46B158E040F,,"""in Journ. Bot. 1916, liv. 254.""","","","1916",gcc-109148
+gcc-32587,A,Compositae,,Sphaeranthus,,"tomentellus",,"","Mattf.",Synonym,,M,TICA,6D52E561-4972-471B-9883-3C64A16B74B5,250585-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 292","","292","1936",gcc-15625
+gcc-41022,A,Compositae,,Sphaeranthus,,"ukambensis",,"","Vatke & O.Hoffm.",Accepted,,M,TICA,610CEFBB-315C-4CF3-879E-4C084C4F7750,,"Bot. Jahrb. Syst. xx. (1894) 228.","","","1894",
+gcc-70876,A,Compositae,,Sphaeranthus,,"ukambensis",var.,"dauensis","(Cufod.) Beentje",Accepted,,L,TICA,2EA73CAA-63E0-4370-B900-F19EA83B90B9,20008667-1,"""Fl. Trop. E. Africa, Compos. (Part 2) 379 (2002).""","","379","2002",
+gcc-64763,A,Compositae,,Sphaeranthus,,"ukambensis",var.,"ukambensis","",Synonym,,L,TICA,9ADCF1E7-3628-44F8-8D44-C1058E9BD928,,"","","","",gcc-41022
+gcc-12951,A,Compositae,,Sphaeranthus,,"variabilis",,"","Robyns",Synonym,,M,TICA,E2E0C61E-88FB-4E12-8CC4-182517A31DF6,250587-1,"""Bull. Misc. Inform. Kew 1924, 195.""","","195","",gcc-107449
+gcc-23216,A,Compositae,,Sphaeranthus,,"volgensis",,"","Tzvelev",Synonym,,M,TICA,656EB98C-0795-4E54-9293-2AFBA5B4FEEF,,"","","1770","1991",gcc-95959
+gcc-10868,A,Compositae,,Sphaeranthus,,"wattii",,"","Giess ex Merxm.",Accepted,,M,TICA,15DE036F-5ACE-499D-BC5B-14585EECE366,,"Mitt. Bot. Staatssamml. München vi. 249 (1966).","","249","",
+gcc-143713,A,Compositae,,Sphaeranthus,,"zavattarii",,"","Cufod.",Accepted,,M,TICA,A461A62B-17E8-4F29-AC02-FC829914B2A0,,"""Nuovo Giorn. Bot. Ital. ser. 2, 50: 107""","","107","1943",
+gcc-10153,A,Compositae,,Sphaeranthus,,"zeylanicus",,"","Heyne ex Wall.",Unresolved,,L,TICA,F0463863-36AB-4DFB-8C83-12FB81CE00DF,,"Numer. List [Wallich] n. 3180","","3180","",
+gcc-46387,A,Compositae,,Sphaeranthus,,"zeylanicus",,"","Heyne & Robyns",Unresolved,,L,TICA,53D75CF8-DB2D-4AA5-AB18-55F784AE7395,250591-1,"""Bull. Misc. Inform. Kew 1924, 187, descr.""","","187","",

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-4159,A,Compositae,,Schlagintweitia,,"chamaepicris",,"","(Arv.-Touv.) Greuter",Accepted,,M,TICA,62D52AB6-AFA1-4075-9F86-07BD450B89B3,,"""W.R. Greuter - in Greuter & Raab-Straube, Med-Checklist 2. 2008""","","699","",
+gcc-75972,A,Compositae,,Schlagintweitia,,"huteri",,"","(Bamb.) Gottschl. & Greuter",Accepted,,M,TICA,AC48775D-C91D-4537-AFF3-639F98BB5602,77086131-1,"""Gottschl. & Greuter, in Willdenowia 37. 2007.""","","182","2007",
+gcc-67381,A,Compositae,,Schlagintweitia,,"huteri",subsp.,"huteri","",Synonym,,L,TICA,820143DE-0985-4F75-A8EC-D6C697E80D87,,"","","","",gcc-75972
+gcc-41171,A,Compositae,,Schlagintweitia,,"huteri",subsp.,"lantoscana","(Burnat & Gremli) Gottschl. & Greuter",Accepted,,L,TICA,1067E1F6-AB6E-44A1-8560-4C4BEEDB18DC,77086253-1,"""Gottschl. & Greuter, in Willdenowia 37. 2007.""","","182","2007",
+gcc-779,A,Compositae,,Schlagintweitia,,"huteri",subsp.,"subpicroides","(Zahn) Gottschl. & Greuter",Accepted,,L,TICA,4DF7E3D4-7634-4238-81D5-01752C591FF6,77086255-1,"""Gottschl. & Greuter, in Willdenowia 37. 2007.""","","182","2007",
+gcc-151072,A,Compositae,,Schlagintweitia,,"hutteri",subsp.,"hutteri","",Synonym,,L,TICA,8C2A45DB-0C11-4B5B-A501-7CC5F0A42574,,"","","","",gcc-75972
+gcc-75832,A,Compositae,,Schlagintweitia,,"intybacea",,"","(All.) Griseb.",Accepted,,M,TICA,99D9000D-FBC1-4654-889E-635673EF0442,242920-1,"","","156","1853",

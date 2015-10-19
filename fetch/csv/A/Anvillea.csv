@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-118599,A,Compositae,,Anvillea,,"australis",,"","L.Chevall.",Synonym,,M,TICA,A22898D6-AC0B-4C11-9A76-C3596E89F9DE,,"","","771","1903",gcc-12258
+gcc-135821,A,Compositae,,Anvillea,,"faurei",,"","Gand.",Synonym,,M,TICA,29BD9FFE-184A-48F3-883E-EACA82026136,177720-1,"Bull. Soc. Bot. France 60","","23","1913",gcc-12258
+gcc-79922,A,Compositae,,Anvillea,,"garcinii",,"","(Burm.f.) DC.",Accepted,,M,TICA,D237AD4A-4707-4664-8FFE-6C6B3246761A,177721-1,"","","487","1836",
+gcc-156286,A,Compositae,,Anvillea,,"garcinii",subsp.,"garcinii","",Synonym,,L,TICA,C566FD4C-7C1D-44FA-8F0D-EA1B340A9DA1,,"","","","",gcc-79922
+gcc-12258,A,Compositae,,Anvillea,,"garcinii",subsp.,"radiata","(Coss. & Durieu) Anderb.",Accepted,,L,TICA,1C7FCAEA-2B1B-4C4F-964F-16DC9F284731,920517-1,"","","303","1982",
+gcc-125048,A,Compositae,,Anvillea,,"platycarpa",,"","Maire",Unresolved,,L,TICA,6F661AC7-67AE-4618-97AD-D2302439CABE,,"""in Bull. Soc. Hist. Nat. Afr. Nord 1939, xxx. 8, in obs.; et in .Bull. Soc.Hist. Nat. Afr. Nord, 1939, xxx. 346 (1940), in syn.""","","346","",
+gcc-84897,A,Compositae,,Anvillea,,"platycarpa",,"","(Maire) Anderb.",Accepted,,M,TICA,7BFB09F7-3C76-4B83-B551-777B6D13F12B,909995-1,"","","303","1982",
+gcc-122730,A,Compositae,,Anvillea,,"radiata",,"","Coss. & Durieu",Synonym,,M,TICA,7050678D-C6D4-4928-9286-CCAA55D2508D,177723-1,"Bull. Soc. Bot. France 4","","471","1857",gcc-12258
+gcc-40157,A,Compositae,,Anvillea,,"radiata",var.,"australis","Diels",Synonym,,L,TICA,E0E30BD5-BAAE-46EA-A0AA-4A77EC9A9612,,"Bot. Jahrb. Syst. 54(120): 120 (1917)","","120","1917",gcc-12258
+gcc-66170,A,Compositae,,Anvillea,,"radiata",var.,"genuina","Maire",Synonym,,L,TICA,F8ECECF1-3A06-4514-8173-CC9AC68B9C3C,,"","","","",gcc-12258
+gcc-150171,A,Compositae,,Anvillea,,"radiata",var.,"radiata","",Synonym,,L,TICA,D131675F-8B0E-4D97-AF6B-68B1DE10A58B,,"","","","",gcc-12258

@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-137848,A,Compositae,,Ptilonella,,"laevis",,"","(A.Gray) Greene",Unresolved,,L,TICA,5FF0A5E8-EB83-4810-B15E-EF5561EFBDFC,214288-2,"Fl. Francisc.","","433","1897",gcc-56881
+gcc-13752,A,Compositae,,Ptilonella,,"scabra",,"","(Hook.) Nutt.",Unresolved,,L,TICA,0D402496-AB19-4303-AC64-1996041EF9CD,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 386""","","386","1841",
+gcc-70790,A,Compositae,,Ptilonella,,"scabra",var.,"scabra","",Synonym,,L,TICA,5E5085C2-335B-4E93-B80F-F0D16017914C,,"","","","1897",gcc-13752

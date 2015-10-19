@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-47128,A,Compositae,,Barroetea,,"brevipes",,"","B.L.Rob.",Accepted,,M,TICA,E3B1BF22-AA97-4C25-A41C-575194AABFEA,29625-2,"Proc. Amer. Acad. Arts 47","","205","1911",
+gcc-112055,A,Compositae,,Barroetea,,"glutinosa",,"","A.Gray",Unresolved,,L,TICA,045DA64C-7F14-4A81-B2A7-B48718BFB086,,"","","","",
+gcc-22548,A,Compositae,,Barroetea,,"glutinosa",,"","Brandegee",Synonym,,M,TICA,00628853-F256-4DAD-B870-29B7C2F0511F,29626-2,"Zoe 5: 262","","262","1908",gcc-4492
+gcc-119069,A,Compositae,,Barroetea,,"laxiflora",,"","Brandegee",Accepted,,M,TICA,FBDB3F98-4372-4336-B8E3-C465CEAB182A,307568-2,"Univ. Calif. Publ. Bot. 4: 93","","93","1910",
+gcc-92144,A,Compositae,,Barroetea,,"pavonii",,"","A.Gray",Accepted,,M,TICA,1C170116-B27E-4CCC-B0A2-87F80AE1CBC1,300255-2,"Proc. Amer. Acad. Arts 17","","206","1882",
+gcc-116288,A,Compositae,,Barroetea,,"sessilifolia",,"","Greenm.",Accepted,,M,TICA,F64CC52E-91D7-4832-B8F9-BE146EC86CB3,29628-2,"Proc. Amer. Acad. Arts 40","","35","1904",
+gcc-110111,A,Compositae,,Barroetea,,"setosa",,"","A.Gray",Accepted,,M,TICA,261F291B-7FD2-4613-8B66-B01D67DE3E61,184263-1,"","","29","1880",
+gcc-30630,A,Compositae,,Barroetea,,"sonorana",,"","(B.L.Turner) R.M.King & H.Rob.",Synonym,,M,TICA,11E90A35-357B-4683-999B-38B2DF4CC436,1210969-2,"Phytologia 78","","125","1995",gcc-90635
+gcc-44129,A,Compositae,,Barroetea,,"subuligera",,"","A.Gray",Accepted,,M,TICA,0584A748-ACD0-48DC-A1DE-51B5EE0B60D3,184264-1,"","","29","1880",
+gcc-56143,A,Compositae,,Barroetea,,"subuligera",var.,"latisquama","Greenm.",Synonym,,L,TICA,543FA5FF-AE32-4507-BC08-7C225266B454,29629-2,"Proc. Amer. Acad. Arts 40","","35","1904",gcc-96197
+gcc-155027,A,Compositae,,Barroetea,,"subuligera",var.,"subuligera","",Synonym,,L,TICA,E44E2CBB-2A9D-46D9-947A-CF6F8C97BD21,,"","","","",gcc-44129

@@ -1,0 +1,916 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104405,A,Compositae,,Conyza,,"abbreviata",,"","Wall.",Unresolved,,L,TICA,624937B0-9AF2-44FB-8BDE-A36FA0912621,,"Numer. List [Wallich] n. 3048","","3048","",
+gcc-17351,A,Compositae,,Conyza,,"absinthifolia",,"","DC.",Synonym,,M,TICA,B6B2C78E-BC84-4FA8-B2C1-2012BEF7B1A5,197084-1,"","","16","",gcc-25980
+gcc-25828,A,Compositae,,Conyza,,"abyssinica",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,DEF608E7-C368-4280-A1BE-2FB919B2B5E1,197085-1,"","","390","1848",
+gcc-10802,A,Compositae,,Conyza,,"acrocephala",,"","Miq.",Synonym,,M,TICA,2380AC62-0EA9-4CD8-B0AA-1437D00DC3F1,,"Fl. Ned. Ind. 2","","43","1856",gcc-51822
+gcc-100144,A,Compositae,,Conyza,,"acuminata",,"","Wall.",Synonym,Invalid,M,TICA,82F3F11A-A67A-428E-ABE0-99ED40FD8296,197087-1,"","","3084","1831",gcc-12592
+gcc-32209,A,Compositae,,Conyza,,"acutata",,"","(DC.) Miq.",Synonym,,M,TICA,2A0B81CB-D851-455A-8636-3BAC7929699E,,"Fl. Ned. Ind. 2","","48","1856",gcc-17124
+gcc-143249,A,Compositae,,Conyza,,"adenocarpa",,"","Dalzell & A.Gibson",Unresolved,,L,TICA,72573A69-4DEF-45AE-A79C-FB7659DE331B,197089-1,"","","125","1861",gcc-25980
+gcc-19581,A,Compositae,,Conyza,,"adnata",,"","(Humb. & Bonpl. ex Willd.) Kunth",Synonym,,M,TICA,1DBDC7FF-A046-4249-A784-243382AB6F9C,,"","","58","",gcc-151255
+gcc-105285,A,Compositae,,Conyza,,"adolfi-fridericii",,"","Muschl.",Synonym,,M,TICA,B46A733F-AE7C-48CA-9A2C-A5453AE5A86B,,"","","","1911",gcc-114426
+gcc-76396,A,Compositae,,Conyza,,"adolfi-fridericii",,"","(Muschl.) Wild",Synonym,Illegitimate,M,TICA,9ADC1B87-03A4-4B14-A48F-64994ACF6819,,"","","269","1969",gcc-114426
+gcc-142888,A,Compositae,,Conyza,,"aegyptiaca",,"","(L.) Dryand. ex Aiton",Synonym,,M,TICA,F88E26C0-9C91-46A6-9939-FAAB78EBB554,197094-1,"Hort. Kew. 3: 183 (1789)","","183","1789",gcc-128932
+gcc-71647,A,Compositae,,Conyza,,"aegyptiaca",var.,"lineariloba","(DC.) O.Hoffm.",Synonym,,L,TICA,2464ED12-8C11-4F40-B4EA-F7B1E9C7D2B8,,"Boletim da Sociedade Broteriana 13:","","23","1896",gcc-128932
+gcc-133455,A,Compositae,,Conyza,,"ageratoides",,"","DC.",Accepted,,M,TICA,C32B7020-3487-4233-8C67-E5880112FB54,197095-1,"","","385","1836",
+gcc-70014,A,Compositae,,Conyza,,"ageratoides",var.,"ageratoides","",Synonym,,L,TICA,87DA114F-8270-4548-820F-EAC31A9491D4,,"","","","",gcc-133455
+gcc-37196,A,Compositae,,Conyza,,"ageratoides",var.,"andohahelensis","(Humbert) Humbert",Accepted,,L,TICA,B9282994-A26A-4061-AA85-44E7F09E3CA8,,"Flore de Madagascar et des Comores 189(1):","","257","1960",
+gcc-28142,A,Compositae,,Conyza,,"ageratoides",var.,"rugulosa","(Humbert) Humbert",Accepted,,L,TICA,10FB871B-8B21-4A12-81AB-33FE9E80CC13,,"Flore de Madagascar et des Comores 189(1):","","256","1960",
+gcc-105086,A,Compositae,,Conyza,,"agnewii",,"","Mesfin",Accepted,,M,TICA,B628D596-B8DC-4221-9AAC-A4DFE6D6985D,984216-1,"","","628","1995",
+gcc-23621,A,Compositae,,Conyza,,"agrostophylla",,"","F.G.Davies",Accepted,,M,TICA,C5944AAE-2698-4663-AB38-2BAAF1440F58,197096-1,"","","371","1979",
+gcc-128821,A,Compositae,,Conyza,,"alata",,"","(D.Don) Roxb.",Synonym,,L,TICA,6269BC55-A060-40CC-B885-DAE4F41AD8E7,,"","","430","1832",gcc-46093
+gcc-141253,A,Compositae,,Conyza,,"albicans",,"","Wall.",Unresolved,,L,TICA,C2D1756F-DF06-46D2-A713-F6FA7E9EE5BE,,"Numer. List [Wallich] n. 3072","","3072","",
+gcc-122759,A,Compositae,,Conyza,,"albida",,"","Willd. ex Spreng.",Synonym,,M,TICA,189D74D7-E924-4B38-874A-CCBB8EC7977E,197100-1,"Syst. Veg. 3: 514 (1826)","","514","1826",gcc-43678
+gcc-132104,A,Compositae,,Conyza,,"alluaudii",,"","Humbert",Accepted,,M,TICA,FACE87A8-54C2-4439-8404-E27613F8830A,,"","","","1923",
+gcc-78763,A,Compositae,,Conyza,,"alopecuroides",,"","Lam.",Synonym,,M,TICA,B3AC007C-E659-4E4B-9439-69E66A541CA8,197102-1,"Encycl. 2(1): 93. 1786.","","93","1786",gcc-116179
+gcc-91806,A,Compositae,,Conyza,,"altaica",,"","DC.",Synonym,,M,TICA,4912BCD8-A1B5-48AA-871F-8733A4C43A6A,197103-1,"","","380","1836",gcc-132783
+gcc-23685,A,Compositae,,Conyza,,"altissima",,"","Naudin ex A.Gray",Unresolved,,L,TICA,F0175B8E-6444-427F-B35B-2BC9B85E0A3A,,"","","","",
+gcc-37477,A,Compositae,,Conyza,,"altissima",,"","Naudin ex Debeaux",Unresolved,,L,TICA,76F8B8BA-80F4-46E6-AE6A-457766AA833D,,"""Bulletin de la Societe Agricole, Scientifique et Litteraire des Pyrenees-Orientales 23:""","","151","1878",
+gcc-125487,A,Compositae,,Conyza,,"altoandina",,"","Cabrera",Accepted,,M,TICA,A9A3BE73-A79D-4505-9555-D328BFDE19A9,274867-2,"Bol. Soc. Argent. Bot. 14","","347","1972",
+gcc-92706,A,Compositae,,Conyza,,"ambigua",,"","DC.",Synonym,,M,TICA,871D5371-3981-4A31-A280-8934AF2E2F54,197106-1,"","","468","1815",gcc-32032
+gcc-125302,A,Compositae,,Conyza,,"amboinica",,"","Crantz",Accepted,,M,TICA,4D78539A-C96E-4B95-91AA-D2B9639CA68F,197107-1,"","","272","1766",
+gcc-17059,A,Compositae,,Conyza,,"amoena",,"","Link",Synonym,,M,TICA,729E78CD-E8CD-405A-9604-1F8C906F74CC,,"","","","1822",gcc-51822
+gcc-45145,A,Compositae,,Conyza,,"amoena",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,B96B4109-8965-4E66-89AD-53AF3E7FD25D,,"","","100","1873",gcc-29433
+gcc-112046,A,Compositae,,Conyza,,"amorphoglossa",,"","Boiss.",Synonym,,L,TICA,C777AFEA-CF89-4F21-83E0-B48412E432DA,,"","","81","1846",gcc-34265
+tro-100368263,A,Compositae,,Conyza,,"amorphoglossum",,"","Boiss.",Unresolved,,L,TRO,100368263,,"Diagn. Pl. Orient., ser. 1","6: 80–81","80","1845",
+gcc-134751,A,Compositae,,Conyza,,"amplectens",,"","Wall.",Unresolved,,L,TICA,5A2C1B1D-1F9E-4E4F-A89D-E875AAF0C629,,"Numer. List [Wallich] n. 3096","","3096","",
+gcc-109752,A,Compositae,,Conyza,,"amplexicaulis",,"","Lam.",Synonym,,M,TICA,29A6316E-9463-42D4-9891-AF620A8BB9B9,197111-1,"Encycl. 2","","84","1786",gcc-95420
+gcc-127463,A,Compositae,,Conyza,,"amygdalina",,"","Spreng. ex DC.",Synonym,,M,TICA,81F25E86-9826-43F3-A1C7-D7B73CE5C53A,,"","","446","",gcc-142951
+gcc-33918,A,Compositae,,Conyza,,"amygdalina",,"","Lam.",Synonym,,M,TICA,BA10A27E-0370-4337-A9A5-3EE33A51B6DC,197115-1,"","","90","1786",gcc-17401
+gcc-38251,A,Compositae,,Conyza,,"anagallidifolia",,"","Wall.",Unresolved,,L,TICA,43B5F9F1-E069-40B9-84EC-46F3BD3E01F3,,"Numer. List [Wallich] n. 3098","","3098","",
+gcc-131511,A,Compositae,,Conyza,,"anchusifolia",,"","Poir.",Synonym,,M,TICA,B4B3272B-0B62-4C7C-B0AF-E1146F1F9412,,"","","839","",gcc-100024
+gcc-23474,A,Compositae,,Conyza,,"andicola",,"","Phil.",Synonym,,L,TICA,F7D510C0-3A82-418F-B2D4-2B6FC2C9E923,64710-2,"Anales Mus. Nac. Santiago de Chile 1891","","38","1891",gcc-100486
+gcc-38312,A,Compositae,,Conyza,,"andina",,"","J.Rémy",Accepted,,L,TICA,0FE6A5F7-FECF-4BD7-AF12-47106B1CCDB1,,"""in C. Gay, Fl. Chil. iv. 72.""","","72","1849",
+gcc-134922,A,Compositae,,Conyza,,"andringitrana",,"","Humbert",Accepted,,M,TICA,F90BD688-596F-4374-82FE-E8CE56E22A65,,"","","","1923",
+gcc-77605,A,Compositae,,Conyza,,"androrangensis",,"","Humbert",Accepted,,M,TICA,7182F1F5-3D62-4225-9525-6741DD4FC9DB,,"","","","1955",
+gcc-138127,A,Compositae,,Conyza,,"andryaloides",,"","DC.",Synonym,,M,TICA,EC91F79B-9F83-4C7E-B44D-EFEA3BF9A8E0,197123-1,"","","377","1836",gcc-153011
+gcc-106444,A,Compositae,,Conyza,,"angustifolia",,"","Nutt.",Synonym,Illegitimate,M,TICA,2829E774-5DB1-46DF-9796-A7CEC8686F39,64711-2,"J. Acad. Nat. Sci. Philadelphia 7","","109","1834",gcc-86860
+gcc-113721,A,Compositae,,Conyza,,"angustifolia",,"","Roxb.",Unresolved,Illegitimate,L,TICA,26AA5BE6-55CB-45F4-8CC2-B8429C35C645,,"","","429","1832",
+gcc-133207,A,Compositae,,Conyza,,"angustifolia",,"","DC.",Unresolved,Illegitimate,L,TICA,C1F0095F-DCA1-40B9-AF02-E4FC71A60ABF,197126-1,"Prodr. (DC.) 5: 420","","420","1836",
+gcc-17436,A,Compositae,,Conyza,,"angustifolia",,"","Steud.",Unresolved,Illegitimate,L,TICA,E1B62D67-0908-428B-8442-20398D586BDB,197125-1,"Nomencl. Bot. (Steudel) 221","","221","1821",
+gcc-77182,A,Compositae,,Conyza,,"angustifolia",,"","Thwaites ex Hook.f.",Unresolved,,L,TICA,90166C10-7536-40C1-A78B-664D53D720DA,197128-1,"Fl. Brit. Ind. iii. 254.","","iii. 254","",
+gcc-87597,A,Compositae,,Conyza,,"anthelmintica",,"","L.",Synonym,,M,TICA,085CE30F-2099-4DB8-94BA-7DA30F5E64D5,197129-1,"","","1207","1763",gcc-111955
+gcc-25496,A,Compositae,,Conyza,,"apiculata",,"","Hutch. & M.B.Moss",Synonym,,M,TICA,AB701451-9191-4F4E-8F06-2F13246A8B68,197130-1,"","","113","1930",gcc-119289
+gcc-115113,A,Compositae,,Conyza,,"appendiculata",,"","Lam.",Synonym,,L,TICA,CCF412C3-FCE2-4E7C-A63A-BB62BFA06324,329689-2,"Encycl. (Lamarck) 2(1): 88","","88","1786",gcc-7008
+gcc-123563,A,Compositae,,Conyza,,"appendiculata",,"","Blume",Synonym,,M,TICA,79527A2F-EDB2-4FB8-A3F5-CE9FE7CE460F,197132-1,"","","895","1826",gcc-102702
+gcc-105856,A,Compositae,,Conyza,,"apurensis",,"","Kunth",Synonym,,L,TICA,09181368-E7C3-4E73-A7C9-A68002778C0A,,"","","57","",gcc-114491
+gcc-149419,A,Compositae,,Conyza,,"apurensis",var.,"apurensis","",Synonym,,L,TICA,BDCE19AC-D233-469B-875F-58505FADA367,,"","","","",gcc-114491
+gcc-77685,A,Compositae,,Conyza,,"arabica",,"","Willd.",Synonym,,M,TICA,A3D90809-77BE-4039-8D04-676C73353552,,"","","","1803",gcc-76952
+tro-2705300,A,Compositae,,Conyza,,"arabidaefolia",,"","Remy",Unresolved,,L,TRO,2705300,,"","","","",
+gcc-92157,A,Compositae,,Conyza,,"arabidifolia",,"","Remy",Accepted,,M,TICA,93BF9E25-0304-49C3-84EB-87FEE8D0DAC4,,"Fl. Chil. 4: 76 (1849)","","76","1849",
+gcc-8016,A,Compositae,,Conyza,,"araneosa",,"","(Urb.) Cronquist",Synonym,,L,TICA,C58A60B4-D6DB-4755-B46D-0EEB75B9FA2C,64712-2,"Bull. Torrey Bot. Club 70","","632","1943",gcc-86211
+gcc-132238,A,Compositae,,Conyza,,"araucana",,"","Phil.",Synonym,,M,TICA,C835CD84-1886-4E56-A7C1-E2C3E0A076B3,64713-2,"Anales Univ. Chile 87","","696","1894",gcc-639
+gcc-133390,A,Compositae,,Conyza,,"arborea",,"","Wall.",Unresolved,,L,TICA,3D97DCB2-B2C2-4AED-8B22-E56781C75D52,,"Numer. List [Wallich] n. 3074","","3074","",
+gcc-126993,A,Compositae,,Conyza,,"arborescens",,"","DC.",Unresolved,,L,TICA,89D943B4-2D16-473C-A6D3-D6920228EFA7,197139-1,"""Prodr. (DC.) 5: 344, in syn. cum cit. falsa""","","344","1836",
+gcc-143802,A,Compositae,,Conyza,,"arborescens",,"","L.",Synonym,,M,TICA,447D08BA-96B4-42D9-A2F8-FCB163989C2A,308574-2,"""Syst. Nat., ed. 10. 2: 1213. 1759 [7 Jun 1759]""","","1213","1759",gcc-10300
+gcc-98592,A,Compositae,,Conyza,,"arbutifolia",,"","Lam.",Synonym,,L,TICA,4DE0FDA4-3679-4B02-8561-96787422B2E4,197141-1,"Encyclopedie Methodique. Botanique . . . 2:","","92","1786",gcc-82685
+gcc-25824,A,Compositae,,Conyza,,"arbutifolialia",,"","Lam.",Unresolved,,L,TICA,7888BD73-ADE0-476D-BB51-2FB5BB4C9DFC,,"Encycl. (Lamarck) 2(1): 92","","92","1786",
+gcc-29229,A,Compositae,,Conyza,,"arenosa",,"","Cronquist",Accepted,,L,TICA,E95E0003-20EB-4D36-9BBC-3604C1988565,,"","","","",
+gcc-107890,A,Compositae,,Conyza,,"argentea",,"","Wall.",Synonym,Invalid,L,TICA,56DD69F0-5D64-4E37-A272-AB1F090444DF,,"Numer. List [Wallich] n. 3014","","","1831",gcc-145812
+gcc-133811,A,Compositae,,Conyza,,"argentea",,"","Lam.",Synonym,,M,TICA,D1528F0A-3119-41BA-A441-E657A74E0098,197144-1,"","","87","1786",gcc-137502
+gcc-22706,A,Compositae,,Conyza,,"argentea",,"","DC.",Unresolved,Invalid,L,TICA,A180D47D-D72A-47A6-B6FC-2A046AC24C09,197143-1,"Prodr. (DC.) 5: 449","","449","1836",
+gcc-26708,A,Compositae,,Conyza,,"arguta",,"","Less.",Synonym,,M,TICA,A718CE4E-8D2F-4D52-859E-3158DA7409D7,197145-1,"Linnaea 6","","138","1831",gcc-144975
+gcc-19028,A,Compositae,,Conyza,,"argutidens",,"","Miq.",Synonym,,M,TICA,78C1E0A5-B520-4CFF-8259-232290E4F08F,,"Fl. Ned. Ind. 2","","58","1856",gcc-107914
+gcc-88227,A,Compositae,,Conyza,,"armeriifolia",,"","Phil.",Synonym,,M,TICA,7043BEC4-90CE-4CE2-940C-7EF861C15CEF,64716-2,"Anales Univ. Chile 87","","680","1894",gcc-50530
+gcc-81234,A,Compositae,,Conyza,,"aromatica",,"","Wall.",Synonym,,M,TICA,B6FC77F4-8F7C-4911-846D-6F57A56B0B30,,"","","","1831",gcc-35230
+gcc-143784,A,Compositae,,Conyza,,"artemisiifolia",,"","Meyen & Walp.",Synonym,Illegitimate,L,TICA,816099A7-E2A1-4F29-B5A4-FCA7DECAE0EF,197149-1,"","","262","1843",gcc-100486
+gcc-75814,A,Compositae,,Conyza,,"artemisioides",,"","Meyen & Walp.",Unresolved,,L,TICA,2E0E5E9F-BC66-4C96-9C25-634D1EE0CABE,316517-2,"""Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur., Suppl. 19(1): 262. 1843""","","262","1843",gcc-88358
+gcc-81815,A,Compositae,,Conyza,,"artemisioides",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,7C5C4C66-E2A1-4AB9-9FB7-70A249130053,,"","","63","1882",gcc-24549
+gcc-140118,A,Compositae,,Conyza,,"articulata",,"","Lam.",Synonym,,M,TICA,85DFB386-A8C0-4001-AF94-F43E1EBD5821,302030-2,"Encycl. (Lamarck) 2(1): 94","","94","1786",gcc-28943
+gcc-47778,A,Compositae,,Conyza,,"arvensis",,"","Phil.",Synonym,,M,TICA,7032C1C5-4990-46F3-9914-588240B089D7,197152-1,"Linnaea 33","","143","1864",gcc-38312
+gcc-16839,A,Compositae,,Conyza,,"aspera",,"","Bory",Synonym,,M,TICA,2154AF50-53F1-400A-80AB-1F1CA070D8FB,,"","","","1804",gcc-50803
+gcc-87891,A,Compositae,,Conyza,,"aspera",,"","Wall. ex Steud.",Unresolved,Illegitimate,L,TICA,E46F780D-FDA5-40FD-89A4-7E3F5BB880FB,197153-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 413""","","413","1840",
+gcc-41489,A,Compositae,,Conyza,,"asperifolia",,"","(Benth.) Benth. ex Hook.f.",Synonym,,M,TICA,F54F82D8-DD4A-413E-A5BA-4CD502C91640,197155-1,"Gen. Pl. 2: 284. 1873.","","284","1873",gcc-93738
+gcc-91409,A,Compositae,,Conyza,,"asperifolia",,"","(Benth.) Benth. & Hook.f.",Synonym,,M,TICA,6C47847F-C4C9-4873-AA83-86529A6E0868,,"","","","1873",gcc-93738
+gcc-14295,A,Compositae,,Conyza,,"asperula",,"","Phil.",Synonym,,M,TICA,E51888A2-E645-4D96-B8AE-1A85AF7D32DF,,"Linnaea 28","","736","1856",gcc-92157
+gcc-106004,A,Compositae,,Conyza,,"asteroides",,"","Wall.",Unresolved,,L,TICA,229233F1-9610-4E55-AF09-A6D2F2C7D310,,"Numer. List [Wallich] n. 3052","","3052","",
+gcc-11236,A,Compositae,,Conyza,,"asteroides",,"","L.",Synonym,,L,TICA,CFCB3C74-71C9-45D0-9E04-15031A2312CE,197159-1,"","","861","1753",gcc-90349
+gcc-128373,A,Compositae,,Conyza,,"asteroides",,"","Wall. ex Steud.",Unresolved,,L,TICA,2B5167C3-53AE-4678-BC6E-D9E41D9907A6,197160-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 413""","","413","1840",
+gcc-139217,A,Compositae,,Conyza,,"asteroides",,"","Beck",Synonym,,M,TICA,C54683BD-07C5-4373-AFDD-F2425B617CBE,,"","","","1882",gcc-22628
+gcc-23295,A,Compositae,,Conyza,,"asteroides",,"","Desf.",Unresolved,,L,TICA,EE9CF2F0-A890-4DCE-ACB3-2B1D2B1A3735,197161-1,"""Tabl. École Bot., ed. 2. 114""","","114","1815",
+gcc-88780,A,Compositae,,Conyza,,"atrixioides",,"","Chiov.",Accepted,,M,TICA,FD263893-A748-4629-BCB4-803B14A3E638,197162-1,"","","","1924",
+gcc-111639,A,Compositae,,Conyza,,"attenuata",,"","Wall.",Unresolved,Illegitimate,L,TICA,74740E93-949E-4B12-831D-B38F48B24F73,,"Numer. List [Wallich] n. 3020","","","1831",
+gcc-112337,A,Compositae,,Conyza,,"attenuata",,"","DC.",Accepted,,M,TICA,26E1F620-6C61-456A-8079-B52C58018D44,197163-1,"","","384","1836",
+gcc-27985,A,Compositae,,Conyza,,"attenuata",var.,"attenuata","",Synonym,,L,TICA,308EF394-5B94-4B6B-9FCA-33B1CA943EF1,,"","","","",gcc-112337
+gcc-16770,A,Compositae,,Conyza,,"aucheri",,"","DC.",Synonym,,L,TICA,AF27FFA5-B78A-4F1A-9A4B-1EFD73653975,197165-1,"","","281","1838",gcc-96062
+gcc-46595,A,Compositae,,Conyza,,"aurea",,"","Perr. ex DC.",Synonym,,M,TICA,D07D7D84-F595-495B-941A-565639F2892B,197166-1,"","","68","1836",gcc-41661
+gcc-78811,A,Compositae,,Conyza,,"auriculata",,"","Moench",Unresolved,,L,TICA,D8106BD9-BBA2-4B47-B3E6-6A0565B7CE0E,197167-1,"","","235","1802",
+gcc-3297,A,Compositae,,Conyza,,"auriculifera",,"","R.E.Fr.",Synonym,,M,TICA,7D1EA2D1-74EC-487C-B01E-0616DB9F84CF,197168-1,"","","125","1928",gcc-133516
+gcc-135327,A,Compositae,,Conyza,,"aurita",,"","Heyne ex L.f.",Synonym,,M,TICA,5ABF85E7-01D0-4264-B8A1-E9CE5CBB9F15,197170-1,"Suppl. Pl.","","367","1782",gcc-146569
+gcc-50310,A,Compositae,,Conyza,,"australis",,"","Phil.",Unresolved,,L,TICA,23690A5B-8CB3-4878-B7FC-5D4CDB6CDDE3,,"","","","1886",
+gcc-144651,A,Compositae,,Conyza,,"axillaris",,"","Lam.",Synonym,,M,TICA,01E7E01C-3214-4DCF-BC46-FE9CB61D33CD,197172-1,"Encycl. 2","","84","1786",gcc-25715
+gcc-33640,A,Compositae,,Conyza,,"baccharis",,"","Mill.",Synonym,,M,TICA,3A1CCD80-7215-4855-BE48-3E626A816437,197174-1,"","","16","1768",gcc-137413
+gcc-38614,A,Compositae,,Conyza,,"baccharoides",,"","Sch.Bip. ex A.Rich.",Unresolved,,L,TICA,27F6EE79-20B4-4E95-8563-47A7D0E42923,197175-1,"","","390","1848",
+gcc-99370,A,Compositae,,Conyza,,"bakeri",,"","Humbert",Accepted,,M,TICA,0C05A60B-745F-43B2-8A95-9837E91D701D,197176-1,"","","44","1923",
+gcc-66777,A,Compositae,,Conyza,,"bakeri",subsp.,"andohahelensis","Humbert",Synonym,,L,TICA,9F42EAEC-CB53-4D8B-98DA-D1ACB8B7510B,,"Notulae Systematicae. Herbier du Museum de Paris 15(2):","","134","1956",gcc-37196
+gcc-151159,A,Compositae,,Conyza,,"bakeri",subsp.,"bakeri","",Synonym,,L,TICA,76C56E8A-9E93-4DA9-8C27-7F1710ABFBD6,,"","","","",gcc-99370
+gcc-155745,A,Compositae,,Conyza,,"bakeri",var.,"bakeri","",Synonym,,L,TICA,54664C75-039C-414B-809B-DEEE29CF3AA7,,"","","","",gcc-99370
+gcc-55886,A,Compositae,,Conyza,,"bakeri",var.,"rugulosa","Humbert",Synonym,,L,TICA,1D326A2B-9674-48EF-978A-79C6E1EC3CD4,,"Notulae Systematicae. Herbier du Museum de Paris 15(2):","","134","1956",gcc-28142
+gcc-2075,A,Compositae,,Conyza,,"balsamica",,"","Wall. ex DC.",Synonym,,M,TICA,00D55FA8-D0F2-4DFF-AA09-03BBEF5D5722,197177-1,"","","319","1836",gcc-88455
+gcc-130749,A,Compositae,,Conyza,,"balsamifera",,"","L.",Synonym,,M,TICA,5F1E6C93-2BE8-47F6-82A0-DF4752A11778,197178-1,"","","1208","1763",gcc-102702
+gcc-138730,A,Compositae,,Conyza,,"bampsiana",,"","(Lisowski) Lisowski",Accepted,,M,TICA,469D73B2-E93A-4100-9B26-F13E4FE8DAFA,963455-1,"","","83","1991",
+gcc-90492,A,Compositae,,Conyza,,"barbata",,"","Wall.",Unresolved,,L,TICA,71B69E45-1097-4B15-9EB8-842A5261D1A4,,"Numer. List [Wallich] n. 3099","","3099","",
+gcc-91225,A,Compositae,,Conyza,,"barcinonensis",,"","Sennen",Unresolved,,L,TICA,BC37EE8D-B3FE-415B-B230-85E29043764F,,"","","","1916",
+gcc-76672,A,Compositae,,Conyza,,"baumii",,"","(O.Hoffm.) Wild",Accepted,,M,TICA,D3D67E22-DCE5-4D66-8DC9-65343BA66C63,197181-1,"","","171","1972",
+gcc-121490,A,Compositae,,Conyza,,"bellidifolia",,"","Wall.",Unresolved,,L,TICA,2650F5E6-BFE5-4DD3-84BC-C9E91BC5B831,,"Numer. List [Wallich] n. 3048","","3048","",
+gcc-85522,A,Compositae,,Conyza,,"bellidifolia",,"","Baker",Synonym,,M,TICA,2F3EB56F-E66A-405D-8945-78DE9079D2F5,197183-1,"J. Bot. 20","","169","1882",gcc-136776
+gcc-117918,A,Compositae,,Conyza,,"berteroana",,"","Phil.",Synonym,,M,TICA,9404FF4B-BDBA-4245-83DC-C1BB39561D2E,,"Linnaea 28","","737","",gcc-138398
+gcc-81015,A,Compositae,,Conyza,,"bidentata",,"","(Cass.) Steud.",Synonym,,M,TICA,1D9F8AB8-0352-4411-B1F9-6EE3CB8A205D,197185-1,"","","222","1821",gcc-23469
+gcc-20281,A,Compositae,,Conyza,,"bifoliata",,"","L.",Synonym,,M,TICA,51A2E8D1-D285-4ECC-945C-257C94EB733F,197187-1,"","","862","1753",gcc-48928
+gcc-98015,A,Compositae,,Conyza,,"bifoliata",,"","Walter",Synonym,,L,TICA,63FADD0E-5472-498B-9FE3-952C68654A6D,64719-2,"","","","",gcc-98496
+gcc-19765,A,Compositae,,Conyza,,"bifoliolata",,"","DC.",Synonym,,M,TICA,92730C6A-494E-4A16-B224-2490C962629C,197189-1,"","","435","1836",gcc-25715
+gcc-5377,A,Compositae,,Conyza,,"bifoliolata",,"","Wall.",Synonym,Illegitimate,M,TICA,8F4B1F9C-B210-44BF-A3E8-0A09D1731B64,,"A Numerical List of Dried Specimens","","""no. 3091, comp.no 201""","1831",gcc-25715
+gcc-76390,A,Compositae,,Conyza,,"bifrons",,"","Pursh",Unresolved,,L,TICA,E22A7FD4-92DD-4A9C-B471-649673A1D8DA,197190-1,"Fl. Am. Sept. ii. 524.","","ii. 524","",
+gcc-88074,A,Compositae,,Conyza,,"bifrons",,"","L.",Synonym,,M,TICA,07B20AE7-E6D5-42C4-85C3-7E9FEECCFDAC,64720-2,"","","861","1753",gcc-22628
+gcc-56273,A,Compositae,,Conyza,,"bifrons",var.,"bifrons","",Synonym,,L,TICA,D3EDF830-6ECA-4410-83FC-7D1FF2430EAF,,"","","","",gcc-22628
+gcc-72543,A,Compositae,,Conyza,,"bifrons",var.,"flosculosa","L.",Synonym,,L,TICA,D55AEDBF-9D83-4862-848A-FED5B9ED2D64,60441361-2,"Species Plantarum 2:","","862","1753",gcc-22628
+gcc-71951,A,Compositae,,Conyza,,"bifrons",var.,"radiata","L.",Synonym,,L,TICA,1B2763D9-4FAC-49F6-A6F7-FA2A21B94CD4,60441360-2,"Species Plantarum 2:","","861","1753",gcc-22628
+gcc-115687,A,Compositae,,Conyza,,"bilbaoana",,"","J.Rémy",Unresolved,,L,TICA,219F1CF6-8AEB-430C-9206-BCC4921B1C2F,197192-1,"Fl. Chil. 4","","76","1849",gcc-51345
+gcc-30375,A,Compositae,,Conyza,,"blakei",,"","(Cabrera) Cabrera",Synonym,,M,TICA,F9C2FD35-CDDE-458D-B71A-3830EF0D3FD1,64722-2,"","","481","1953",gcc-95220
+gcc-27810,A,Compositae,,Conyza,,"blanchetii",,"","Baker",Synonym,,M,TICA,84266628-8CB4-4E4F-BAE7-336538FE25BD,,"","","36","1882",gcc-111873
+gcc-25446,A,Compositae,,Conyza,,"blanda",,"","Wall.",Synonym,Illegitimate,M,TICA,CC3D3D69-5F8B-4D50-B421-2EF81CE533D8,,"Numer. List [Wallich] n. 3033","","3033","1830",gcc-154043
+gcc-113128,A,Compositae,,Conyza,,"blinii",,"","H.Lév.",Accepted,,M,TICA,597F5DC9-128A-4AC6-93B3-B6F41E020BFF,197196-1,"Repert. Spec. Nov. Regni Veg. 8","","452","1910",
+gcc-34034,A,Compositae,,Conyza,,"bocconi",,"","Tornab.",Unresolved,,L,TICA,2D526BF1-3B45-42A9-BFF0-3F1E0A8F8D03,197197-1,"","","","1887",
+gcc-12961,A,Compositae,,Conyza,,"boelckei",,"","Cabrera",Accepted,,M,TICA,E8993131-CBB2-4EC0-ABA0-18283A96E12D,64808-2,"","","47","1971",
+gcc-125652,A,Compositae,,Conyza,,"bojeri",,"","DC.",Synonym,,M,TICA,AB35907F-586C-4E3C-8A89-D3870D312210,197199-1,"","","384","1836",gcc-101635
+gcc-142320,A,Compositae,,Conyza,,"bonariensis",,"","(L.) Cronquist",Synonym,,M,TICA,937A79EE-4CE0-44EC-BC74-F95B82F8E203,95469-3,"Bull. Torrey Bot. Club 70: 632 (1943)","","","1943",gcc-32032
+gcc-148169,A,Compositae,,Conyza,,"bonariensis",f.,"bonariensis","",Synonym,,L,TICA,0D26F48C-2C7B-4AAE-B79A-3CC296274B5B,,"","","","",gcc-32032
+gcc-54456,A,Compositae,,Conyza,,"bonariensis",var.,"leiantha","",Unresolved,,L,TICA,BBBF2077-0BCB-406C-A2B7-6E3B9817B25A,,"","","","",
+gcc-69414,A,Compositae,,Conyza,,"bonariensis",var.,"leiotheca","(S.F.Blake) Cuatrec.",Synonym,,L,TICA,5C1F61EA-141A-4FFC-972F-E6180D7256E1,64811-2,"Phytologia 9: 5. 1963","","5","1963",gcc-120553
+gcc-18670,A,Compositae,,Conyza,,"bonariensis",var.,"microcephala","(Cabrera) Cabrera",Synonym,,L,TICA,0BD89FB5-53C9-4736-BF47-227DE8778DA5,64812-2,"","","481","1953",gcc-120553
+gcc-134727,A,Compositae,,Conyza,,"bonariensis",f.,"subleiotheca","Cuatrec.",Synonym,,L,TICA,1497F560-2655-4E7C-951F-E86A8336600B,294531-2,"Webbia 24(1): 227. 1969","","227","1969",gcc-120553
+gcc-128162,A,Compositae,,Conyza,,"boranensis",,"","(S.Moore) Cufod.",Accepted,,M,TICA,0070E735-725D-4238-B2F0-D95F41F6757F,,"","","","1966",
+gcc-44275,A,Compositae,,Conyza,,"bovei",,"","DC.",Synonym,,M,TICA,B4EADA2F-1488-4E12-8E00-51FD828CA3A1,,"","","261","1834",gcc-114640
+gcc-127390,A,Compositae,,Conyza,,"bovina",,"","Buch.-Ham. ex DC.",Synonym,,M,TICA,07DFD703-1AAA-4A8B-84D7-D7911143B19A,197203-1,"","","444","1836",gcc-136646
+gcc-37116,A,Compositae,,Conyza,,"bracteolata",,"","Wall.",Unresolved,Invalid,L,TICA,FF5484B8-E4EC-4E7A-A1A3-44C4A7C3FC12,197205-1,"Numer. List [Wallich] n. 3036","","3036","1831",
+gcc-95725,A,Compositae,,Conyza,,"bracteolata",,"","Rottler ex DC.",Synonym,,M,TICA,57ADE568-5317-4F60-9D77-900568EE1F45,197204-1,"","","434","1836",gcc-48928
+gcc-118335,A,Compositae,,Conyza,,"brasiliensis",,"","Steetz",Synonym,,L,TICA,0A9627AD-0F93-4702-A1E4-C2B3908A71DD,197206-1,"","","455","1864",gcc-116884
+gcc-36891,A,Compositae,,Conyza,,"brevipetiolata",,"","(Muschl.) Lisowski",Synonym,,M,TICA,7B199502-8BBB-4C03-BB08-445D98DB9A88,,"","","175","1990",gcc-114426
+gcc-139951,A,Compositae,,Conyza,,"britannica",,"","(L.) Moris ex Rupr.",Synonym,,M,TICA,47C8541D-274F-449A-ABFE-F3DC4646F89D,197207-1,"","","569","1860",gcc-9960
+gcc-96762,A,Compositae,,Conyza,,"bryoides",,"","Lam.",Synonym,,M,TICA,B1AFA9A8-7157-4244-95F4-925412DDE3EA,197208-1,"","","91","1786",gcc-138651
+gcc-119145,A,Compositae,,Conyza,,"burkartii",,"","Zardini",Accepted,,M,TICA,BA198D67-D68F-43E7-BE51-C487A8FEA439,,"","","33","1976",
+gcc-79604,A,Compositae,,Conyza,,"burmeana",,"","Miq.",Accepted,,M,TICA,60130C27-9F9B-4F47-A6EB-6BCA0D95AF3E,,"","","44","1856",
+gcc-40669,A,Compositae,,Conyza,,"bustillosiana",,"","J.Rémy",Accepted,,L,TICA,BC12F84B-2896-4CF2-94B3-4B6202193281,,"Fl. Chil. 4: 72 (1849)","","72","1849",
+gcc-140673,A,Compositae,,Conyza,,"buxifolia",,"","Lam.",Synonym,,M,TICA,321EDEF6-0369-4B22-8F29-F59EE65CF55B,197212-1,"","","92","1786",gcc-52086
+gcc-141603,A,Compositae,,Conyza,,"cafra",,"","DC.",Synonym,Illegitimate,M,TICA,48CBE0B3-7186-4373-9CF9-F7C26AE0E099,197213-1,"","","381","1836",gcc-35941
+gcc-116983,A,Compositae,,Conyza,,"callocephala",,"","Bory",Synonym,,M,TICA,5941E541-993C-4964-8C44-BF9F8F4D8410,,"","","","1804",gcc-23469
+gcc-30065,A,Compositae,,Conyza,,"callosa",,"","Klatt",Unresolved,,L,TICA,4582BB17-0FCF-4ED9-8B4B-37A2A4F37D35,,"","","","1879",
+gcc-86427,A,Compositae,,Conyza,,"calophylla",,"","Willd. ex Sch.Bip.",Synonym,,M,TICA,96ED2808-1FDC-4F35-AA4C-7AE53461202F,,"","","432","",gcc-12765
+tro-2737220,A,Compositae,,Conyza,,"calophylla",,"","Willd. ex Schultz-Bip.",Synonym,,M,TRO,2737220,,"Jahresber. Pollichia","20–21: 433","433","1864",gcc-12765
+gcc-115277,A,Compositae,,Conyza,,"calycina",,"","Cav.",Synonym,,M,TICA,B3D0810F-D146-4712-986E-BBC841B14776,197217-1,"","","87","1801",gcc-24102
+gcc-110519,A,Compositae,,Conyza,,"camphorata",,"","Pursh",Synonym,,M,TICA,2A037FAE-039A-4558-A15C-B110CD058451,,"","","523","",gcc-115984
+gcc-90828,A,Compositae,,Conyza,,"canadensis",,"","(L.) Cronquist",Synonym,,M,TICA,44AAE4D8-3715-414A-8CE4-84FEF16F6C9F,64815-2,"Bull. Torrey Bot. Club 70","","632","1943",gcc-115400
+gcc-70476,A,Compositae,,Conyza,,"canadensis",var.,"glabrata","(A.Gray) Cronquist",Synonym,,L,TICA,005EDF12-008C-48F7-AA5B-EE6DBAAA9DD7,64817-2,"Bull. Torrey Bot. Club 74: 150. 1947","","150","1947",gcc-115400
+gcc-65215,A,Compositae,,Conyza,,"canadensis",var.,"pusilla","(Nutt.) Cronquist",Unresolved,,L,TICA,437AAA59-39E3-4A25-92C0-C4C31A6F4FE4,64818-2,"Bull. Torrey Bot. Club 74: 150. 1947","","150","1947",
+gcc-43763,A,Compositae,,Conyza,,"canariensis",,"","Willd.",Synonym,,M,TICA,250E9F8F-8CED-4B72-8BB4-511A8E4F496D,197220-1,"","","1937","1803",gcc-101476
+gcc-1427,A,Compositae,,Conyza,,"candicans",,"","Wall.",Unresolved,Illegitimate,L,TICA,89662CAF-1228-4BA8-B3E6-0292DE9E174B,197221-1,"Numer. List [Wallich] n. 2999","","2999","1831",
+gcc-14700,A,Compositae,,Conyza,,"candida",,"","L.",Synonym,,M,TICA,6611373C-3AAE-41D8-9A77-1B45A815AB96,197222-1,"","","862","1753",gcc-98577
+gcc-98120,A,Compositae,,Conyza,,"candolleana",,"","Boiss.",Synonym,,M,TICA,02D84F70-7B7F-421A-B326-9565E6EF4888,197223-1,"","","217","1875",gcc-121372
+gcc-14765,A,Compositae,,Conyza,,"canescens",,"","Thunb.",Synonym,,M,TICA,A8611EC3-BC3B-4C19-A715-1B64B57C67A8,197224-1,"","","655","",gcc-134991
+gcc-52477,A,Compositae,,Conyza,,"canescens",,"","Bory ex DC.",Unresolved,,L,TICA,7716B52B-A933-4E47-87D2-6147125CD030,197227-1,"Prodr. (DC.) 5: 473","","473","1836",
+gcc-7032,A,Compositae,,Conyza,,"canescens",,"","L.f.",Synonym,,M,TICA,9D3FADC9-2E8A-424B-9379-0D1462086703,197226-1,"","","367","1782",gcc-134991
+gcc-83861,A,Compositae,,Conyza,,"canescens",,"","Phil.",Synonym,,M,TICA,896A48D8-65ED-494C-9364-7531CF4BFB3B,,"Linnaea 28","","734","1856",gcc-639
+gcc-87129,A,Compositae,,Conyza,,"capillipes",,"","S.Moore",Accepted,,M,TICA,87118660-711A-4109-8B24-7C90942B0457,197228-1,"","","387","1895",
+gcc-4938,A,Compositae,,Conyza,,"capitata",,"","Spreng.",Synonym,,M,TICA,8A40C80C-1BEF-471D-A4F2-093723423991,274868-2,"","","507","1826",gcc-41259
+gcc-83121,A,Compositae,,Conyza,,"cappa",,"","Buch.-Ham. ex D.Don",Synonym,,L,TICA,18DD578B-45D1-4F46-8459-739FA013829A,197230-1,"Prodr. Fl. Nepal.","","176","1825",gcc-7323
+gcc-123546,A,Compositae,,Conyza,,"caprariifolia",,"","Willd. ex Steud.",Unresolved,,L,TICA,23CE6C28-B22F-4363-ACC1-CE97036C54FC,197231-1,"","","413","1840",
+gcc-85894,A,Compositae,,Conyza,,"cardaminifolia",,"","Kunth",Accepted,,M,TICA,FC4BA693-51D5-4715-9693-79B64147FDA9,,"","","56","",
+gcc-30604,A,Compositae,,Conyza,,"carolinensis",,"","Jacq.",Synonym,,L,TICA,231912B5-1F4D-40F5-9F98-38AC956822E2,,"Icon. Pl. Rar. Fascicle 1(Bound as Vol. 3): pl. 585. 1786-1793 [1788].","","pl. 585","",gcc-29064
+gcc-80265,A,Compositae,,Conyza,,"cataphracta",,"","Willd. ex DC.",Synonym,,M,TICA,944E3831-12F3-49F8-B63C-6D3D3E65DAD8,197234-1,"","","427","1836",gcc-83431
+gcc-20955,A,Compositae,,Conyza,,"catharinensis",,"","Cabrera",Accepted,,M,TICA,9C8D53BF-0C3A-47D5-9B71-26BE558415E5,64723-2,"Bol. Soc. Argent. Bot. 7","","191","1959",
+gcc-142654,A,Compositae,,Conyza,,"cayennensis",,"","Spreng.",Accepted,,M,TICA,26032161-9F39-4166-960C-FA15364D414F,197236-1,"Syst. Veg. 3","","512","1826",
+gcc-114357,A,Compositae,,Conyza,,"cayennsis",,"","Spreng.",Synonym,,M,TICA,0726AC0A-EE21-476E-B5D6-B9A7FB09E611,,"","","","1826",gcc-41947
+gcc-107224,A,Compositae,,Conyza,,"celebica",,"","Sch.Bip.",Synonym,,M,TICA,4B200847-F133-484A-9F9D-A99C85299D99,197237-1,"","","122","1854",gcc-49086
+gcc-131471,A,Compositae,,Conyza,,"cernua",,"","Wall.",Unresolved,,L,TICA,E619CC05-467F-4C01-89F0-E0F65D7319DC,,"Numer. List [Wallich] n. 3012","","3012","",
+gcc-80887,A,Compositae,,Conyza,,"chenopodiifolia",,"","Lam.",Unresolved,,L,TICA,9408EA9F-6EDC-47ED-B9E6-6E958776F5A8,197239-1,"","","85","1786",
+gcc-139937,A,Compositae,,Conyza,,"chenopodioides",,"","DC.",Synonym,,M,TICA,EBA330B3-915E-439F-AF9D-F3D2DF8235C8,197240-1,"","","379","1836",gcc-32032
+gcc-96684,A,Compositae,,Conyza,,"chiapensis",,"","Brandegee",Synonym,,M,TICA,95AE629B-940E-4AF9-8E58-9229D0CA1A43,64724-2,"Univ. Calif. Publ. Bot. 10","","419","1924",gcc-146569
+gcc-100539,A,Compositae,,Conyza,,"chilensis",,"","Spreng.",Synonym,,M,TICA,C052903B-B6D3-4647-9962-9AD6F4252D46,197242-1,"Novi Provent. 14. 1819","","14","1818",gcc-12546
+gcc-27786,A,Compositae,,Conyza,,"chilensis",var.,"auriculata","Griseb.",Synonym,,L,TICA,3C9F1286-1B91-4B0E-8294-335AF0E27666,64726-2,"Abh. Königl. Ges. Wiss. Göttingen 24","","176","1879",gcc-88193
+gcc-69127,A,Compositae,,Conyza,,"chilensis",var.,"carnea","Chodat",Synonym,,L,TICA,442327A8-BE72-4AAD-A8B7-E41FFF207BBF,,"","","714","1903",gcc-12546
+gcc-154166,A,Compositae,,Conyza,,"chilensis",var.,"chilensis","",Synonym,,L,TICA,BF029837-3225-437B-8969-BDD1CF84792C,,"","","","",gcc-12546
+gcc-22736,A,Compositae,,Conyza,,"chilensis",var.,"guaranitica","Chodat",Synonym,,L,TICA,D801DC0E-7909-4DEC-B222-2A12EDEBF54C,,"","","714","1903",gcc-12546
+gcc-59509,A,Compositae,,Conyza,,"chilensis",var.,"integrifolia","Phil.",Synonym,,L,TICA,436512BB-532F-4ECB-9A5C-96EB36EA58B7,64729-2,"Anales Univ. Chile 87","","695","1894",gcc-12546
+gcc-71160,A,Compositae,,Conyza,,"chilensis",var.,"monocephala","DC.",Synonym,,L,TICA,453D79F9-62F2-4357-9B1B-F404127BE211,64730-2,"","","378","1836",gcc-12546
+gcc-113697,A,Compositae,,Conyza,,"chinensis",,"","L.",Unresolved,,L,TICA,6C00C73D-E2C7-4D21-8785-B8350D4F05B8,197244-1,"Sp. Pl.","","862","1753",
+gcc-153859,A,Compositae,,Conyza,,"chinensis",var.,"chinensis","",Synonym,,L,TICA,265D1847-9B61-45CC-82F6-B6B5B3C4B476,,"","","","",gcc-113697
+gcc-66178,A,Compositae,,Conyza,,"chinensis",var.,"poliolepis","Miq.",Synonym,,L,TICA,D2AB9AA0-A6B2-4B3B-BE1F-CCAC0C3E3DFD,,"Fl. Ned. Ind. 2 (1856)","","52","1856",gcc-88488
+gcc-134989,A,Compositae,,Conyza,,"chingoyo",,"","Kunth",Synonym,,M,TICA,BC1DFFB7-4354-4899-88FB-E8F8755837D9,,"","","","",gcc-43103
+gcc-108462,A,Compositae,,Conyza,,"chionea",,"","S.Díaz & A.Correa",Accepted,,M,TICA,BF75C65A-89AA-457B-98D7-AC58967696F7,,"Revista Acad. Colomb. Ci. Exact. 25(95)","","180","2001",
+gcc-125113,A,Compositae,,Conyza,,"chrysocoma",,"","(DC.) Vatke",Synonym,,M,TICA,5E2B76CA-4E9B-4602-80DB-D2502DAFC1D1,197247-1,"","","120","1885",gcc-25980
+gcc-106922,A,Compositae,,Conyza,,"chrysocomoides",,"","Desf.",Synonym,,M,TICA,64F11D0F-5A60-43FB-89EE-A8EAD0C37C96,,"","","269","",gcc-125575
+gcc-87166,A,Compositae,,Conyza,,"chrysocomoides",,"","Ten. ex Steud.",Unresolved,,L,TICA,4AE8A0C1-7642-42EF-9D85-7CA781599DEA,197249-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 413""","","413","1840",
+gcc-128378,A,Compositae,,Conyza,,"cichoriifolia",,"","(DC.) Miq.",Synonym,,M,TICA,F8C45C72-17B0-4F86-BF2F-D9E522F19A4E,,"Fl. Ned. Ind. 2","","47","1856",gcc-17124
+gcc-3606,A,Compositae,,Conyza,,"ciliaris",,"","Spreng.",Unresolved,,L,TICA,AC6A1FD9-AA76-4024-8F57-06A9D7F38196,,"","","","1818",
+gcc-22457,A,Compositae,,Conyza,,"cinerarioides",,"","DC.",Synonym,,M,TICA,CA98609C-AFC8-4E0A-A3E4-298D03031962,197253-1,"","","345","1836",gcc-94185
+gcc-31194,A,Compositae,,Conyza,,"cinerascens",,"","Wall.",Unresolved,,L,TICA,D608980C-63C3-45E5-AA7C-39C33163B638,,"Numer. List [Wallich] n. 3062","","3062","",
+gcc-126080,A,Compositae,,Conyza,,"cinerea",,"","L.",Synonym,,M,TICA,784E4D03-6387-4A78-B942-D4815462DBE4,317493-2,"Sp. Pl.","","862","1753",gcc-149577
+gcc-138007,A,Compositae,,Conyza,,"clarenceana",,"","(Hook.f.) Oliv. & Hiern",Accepted,,M,TICA,FC4C6813-FA83-4346-8C20-EFA92068E3C3,197256-1,"","","316","1877",
+gcc-61116,A,Compositae,,Conyza,,"clarenceana",var.,"abyssinica","Oliv. & Hiern",Synonym,,L,TICA,B285F69F-B77B-4088-B3CA-A3F489FEC809,,"Fl. Trop. Afr. 3: 316 (1877)","","316","1877",gcc-138007
+gcc-153893,A,Compositae,,Conyza,,"clarenceana",var.,"clarenceana","",Synonym,,L,TICA,2EDD1E1C-7E98-419A-AB6B-B77B9DD55C67,,"","","","",gcc-138007
+gcc-152368,A,Compositae,,Conyza,,"clethraefolia",,"","Willd. ex Baker",Synonym,Illegitimate,M,TICA,2E391CD0-4CA0-4EC8-BB18-981A3F4BBD61,,"","","100","1873",gcc-29433
+gcc-105091,A,Compositae,,Conyza,,"colinensis",,"","Phil.",Synonym,,M,TICA,9FA490EB-F173-4E07-BD66-A4E13495E1F1,64732-2,"Anales Univ. Chile 87","","688","1894",gcc-112185
+gcc-82107,A,Compositae,,Conyza,,"collina",,"","Phil.",Accepted,,M,TICA,B97B3013-E93D-42C4-8F2B-714BAF7A6EF3,197259-1,"Linnaea 33","","144","1864",
+gcc-92681,A,Compositae,,Conyza,,"communis",,"","Wall.",Unresolved,,L,TICA,61A078A1-14EB-426C-BFFA-892190E2281F,,"Numer. List [Wallich] n. 3018","","3018","",
+gcc-24142,A,Compositae,,Conyza,,"concava",,"","Spreng. ex Steud.",Unresolved,,L,TICA,230ACC63-8A58-498F-8181-2C9996310388,197261-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 413""","","413","1840",
+gcc-135679,A,Compositae,,Conyza,,"confusa",,"","Cronquist",Synonym,,M,TICA,9CF832F8-A4E0-492E-BA77-EA7FFD71315C,274870-2,"Bull. Torrey Bot. Club 70: 632. 1943","","632","1943",gcc-87844
+gcc-141664,A,Compositae,,Conyza,,"congesta",,"","Spreng. ex DC.",Synonym,,M,TICA,2011511C-062D-4662-9617-F7E74B3E6E83,197263-1,"","","383","1836",gcc-16172
+gcc-832,A,Compositae,,Conyza,,"conglomerata",,"","Phil.",Synonym,,M,TICA,7CFF4539-9603-40F2-8AAC-0192336C8D44,64733-2,"Anales Univ. Chile 87","","683","1894",gcc-23962
+gcc-17253,A,Compositae,,Conyza,,"conica",,"","Poir.",Unresolved,,L,TICA,F199FF86-3292-4DAC-97B2-1FE71B2FBED1,197265-1,"","","341","1811",
+gcc-81637,A,Compositae,,Conyza,,"consanguinea",,"","Phil.",Synonym,,M,TICA,FE2D7007-EB6F-440E-9087-7048285B250C,197266-1,"Linnaea 33","","142","1864",gcc-639
+gcc-115011,A,Compositae,,Conyza,,"conspicua",,"","Wall.",Unresolved,Illegitimate,L,TICA,8A55AD9B-9870-48B6-BD70-BB2DF80D6092,,"Numer. List [Wallich] n. 3066","","","1831",
+gcc-84894,A,Compositae,,Conyza,,"copiapina",,"","Phil.",Accepted,,M,TICA,3886BEA3-7923-4AF7-9FCB-777ABE7DA436,64735-2,"Anales Univ. Chile 87","","686","1894",
+gcc-21351,A,Compositae,,Conyza,,"corchoriifolia",,"","(DC.) Miq.",Unresolved,,L,TICA,9CE0E934-85C3-4B27-8B03-2772AFA02FDA,,"Fl. Ned. Ind. 2 (1856)","","47","1856",
+gcc-88193,A,Compositae,,Conyza,,"cordata",,"","Kuntze",Accepted,,M,TICA,B12AB88B-6C12-48D4-94A5-7EE74458657D,64736-2,"Revis. Gen. Pl. 3[3]: 142","","142","1898",
+gcc-104216,A,Compositae,,Conyza,,"coronopifolia",,"","Kunth",Accepted,,M,TICA,62D7D0C9-D056-436C-8526-A306FBD34740,,"","","55","1820 [1818]",
+gcc-87015,A,Compositae,,Conyza,,"coronopus",,"","Lam.",Synonym,,M,TICA,568FCDE2-820C-4F53-8B38-7C49F794DF9B,197271-1,"","","89","1786",gcc-93648
+gcc-45490,A,Compositae,,Conyza,,"cortesii",,"","Kunth",Synonym,,L,TICA,42859748-55C0-4239-B18F-544F5E8F899A,,"","","59","",gcc-29064
+gcc-122106,A,Compositae,,Conyza,,"corymbosa",,"","Mill.",Unresolved,,L,TICA,DA987841-69FC-41FD-9A42-CB482E7AE901,197273-1,"","","7","1768",
+gcc-29712,A,Compositae,,Conyza,,"corymbosa",,"","Roxb.",Synonym,,M,TICA,60D762D7-7504-40F9-B7E5-36EBD8B4450A,,"","","","1832",gcc-34323
+gcc-77747,A,Compositae,,Conyza,,"costata",,"","Harv.",Unresolved,,L,TICA,99D4225E-C1C1-44E2-839C-67958C1C3C4E,197275-1,"","","114","1865",
+gcc-10767,A,Compositae,,Conyza,,"cotoneaster",,"","Willd. ex Spreng.",Synonym,,M,TICA,61C0575B-D3D3-4F25-8332-14241F326867,306234-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 509","","509","1826",gcc-102156
+gcc-113825,A,Compositae,,Conyza,,"coulteri",,"","A.Gray",Synonym,,M,TICA,A5FA1B70-69AD-4AE5-8723-B87CDAED39AA,64739-2,"Proc. Amer. Acad. Arts 7: 355. 1868","","355","1868",gcc-38053
+gcc-137265,A,Compositae,,Conyza,,"coulteri",,"","Rothr.",Synonym,Illegitimate,M,TICA,451D7957-55BD-483B-A128-EE14C9C07DAE,197278-1,"","","155","1879",gcc-38053
+gcc-152571,A,Compositae,,Conyza,,"coulteri",var.,"coulteri","",Synonym,,L,TICA,BE724910-256E-4CF5-94D0-9C404400D072,,"","","","",gcc-38053
+gcc-62123,A,Compositae,,Conyza,,"coulteri",var.,"tenuisecta","A.Gray",Synonym,,L,TICA,ACAA8A1A-8EE7-4A9A-AD6B-AC329CF55BC4,64740-2,"Syn. Fl. N. Amer. 1(2)","","221","1884",gcc-33833
+gcc-61728,A,Compositae,,Conyza,,"coulteri",var.,"virgata","(Benth.) A.Gray",Synonym,,L,TICA,F19AC329-14EC-47B0-B122-A901F9702473,,"","","","",gcc-38053
+gcc-130824,A,Compositae,,Conyza,,"coxi",,"","Phil.",Synonym,,M,TICA,14EC647F-A942-4C36-A39C-DF72B8074847,64741-2,"Anales Univ. Chile 87","","690","1894",gcc-92157
+gcc-105180,A,Compositae,,Conyza,,"crispa",,"","(Pourret) Rupr.",Synonym,,M,TICA,A88FA235-ED5D-4AF5-90ED-A5121A16FF37,197280-1,"","","235","1856",gcc-32032
+gcc-123578,A,Compositae,,Conyza,,"crispa",,"","(Pourr.) Cout.",Synonym,,M,TICA,3098FFA1-FA0F-488E-955E-CEA9F6FBAA99,,"""Cout., Fl. Portugal 1953. 1913.""","","615","1913",gcc-32032
+gcc-51844,A,Compositae,,Conyza,,"crispata",,"","Vahl",Synonym,,M,TICA,EC9C4310-F5BA-440E-9525-6022D1A03062,197281-1,"Symb. Bot. 1","","71","1790",gcc-49274
+gcc-26028,A,Compositae,,Conyza,,"ctenoptera",,"","Kunth",Synonym,,M,TICA,0C3E2605-E9E6-43FB-AA5B-3021065E4D96,197282-1,"","","","1845",gcc-23512
+gcc-22559,A,Compositae,,Conyza,,"cuneata",,"","Buch.-Ham. ex DC.",Unresolved,,L,TICA,ED49067E-5588-435D-A285-29BE6D06AD5B,,"","","","1836",
+gcc-328,A,Compositae,,Conyza,,"cuneifolia",,"","Raeusch.",Synonym,,L,TICA,A0B44C6A-BF54-4871-B8EA-0096974FC0E7,197287-1,"","","240","1797",gcc-14375
+gcc-81149,A,Compositae,,Conyza,,"cuneifolia",,"","Wall.",Unresolved,,L,TICA,D52D5610-A1E6-4BD8-BB01-6F26CCEF835B,,"Numer. List [Wallich] n. 3101","","3101","",
+gcc-94315,A,Compositae,,Conyza,,"cuneifolia",,"","Lam.",Synonym,,M,TICA,B1885C2B-2A9E-40EC-B28F-8CB3FF9042B9,197286-1,"","","91","1786",gcc-80274
+gcc-101385,A,Compositae,,Conyza,,"cupressiformis",,"","Lam.",Synonym,,M,TICA,DFF1A7ED-345B-4481-8611-9CA8A4BD6F03,197288-1,"","","91","1786",gcc-7337
+gcc-34363,A,Compositae,,Conyza,,"cyanea",,"","Engl.",Unresolved,,L,TICA,12C6EEBF-6F01-435C-886A-3FAFB7733B27,,"Pflanzenw. Ost-Afrikas A (1895) 125 nomen.","","125","",
+gcc-141069,A,Compositae,,Conyza,,"cylindrica",,"","Colla",Unresolved,,L,TICA,EDC11531-EFD2-47D8-8B0E-F68198C6EE8E,197291-1,"","","369","1834",
+gcc-90972,A,Compositae,,Conyza,,"cylindrica",,"","Baker",Synonym,Illegitimate,M,TICA,EAF98ED4-2893-4E80-8B24-8546D4EA21E2,197290-1,"","","317","1895",gcc-136608
+gcc-134231,A,Compositae,,Conyza,,"dampieri",,"","A.Cunn. ex DC.",Synonym,,M,TICA,6A90AA96-E984-490E-A3FE-E74CD5296E84,197292-1,"","","266","1836",gcc-115969
+gcc-96249,A,Compositae,,Conyza,,"dasycoma",,"","Miq.",Synonym,,M,TICA,11655907-5D5D-4A88-A044-9119E4CB76E0,,"Fl. Ned. Ind. 2","","56","1856",gcc-139183
+gcc-145484,A,Compositae,,Conyza,,"dasycoma",var.,"dasycoma","",Synonym,,L,TICA,4483A189-C088-497E-8EA3-04F50C6DD7F2,,"","","","",gcc-139183
+gcc-72035,A,Compositae,,Conyza,,"dasycoma",var.,"pinnatifida","Miq.",Synonym,,L,TICA,E17405A8-909A-47DA-A5E1-FACB8EE13014,,"Fl. Ned. Ind. 2 (1856)","","56","1856",gcc-139183
+gcc-6581,A,Compositae,,Conyza,,"daveauana",,"","Sennen",Synonym,,M,TICA,A6DD3BE4-ADFC-46B8-BA3A-0C362D829244,197294-1,"Bol. Soc. Arag.","","194","1912",gcc-91584
+gcc-144807,A,Compositae,,Conyza,,"decurrens",,"","L.",Synonym,,M,TICA,DD71C981-D46A-4186-A3DF-FEF4829EB74C,197296-1,"","","1206","1763",gcc-141862
+gcc-8424,A,Compositae,,Conyza,,"densiflora",,"","Heyne",Unresolved,,L,TICA,6905E917-A29A-4F96-A63B-0FB0C02A436D,,"Numer. List [Wallich] n. 2997","","2997","",
+gcc-87595,A,Compositae,,Conyza,,"densiflora",,"","Wall.",Synonym,,M,TICA,3AFD96E6-F235-44E6-A7F2-7DA0440F86CA,,"","","","1831",gcc-142951
+gcc-45169,A,Compositae,,Conyza,,"dentata",,"","Blanco",Synonym,,M,TICA,5848E43F-D9C6-4C48-91BF-53BABD1AB0AE,197299-1,"Fl. Filip.","","629","1837",gcc-51822
+gcc-122400,A,Compositae,,Conyza,,"dentonae",,"","McVaugh",Accepted,,M,TICA,B1A12570-DD39-439B-B787-CBE98C01A299,,"Contr. Univ. Michigan Herb. 9","","","1972",
+gcc-109496,A,Compositae,,Conyza,,"depilis",,"","Phil.",Accepted,,M,TICA,7E748481-C668-4655-8C7E-AEC719F4AB9A,64743-2,"Anales Univ. Chile 87","","691","1894",
+gcc-102999,A,Compositae,,Conyza,,"deserticola",,"","Phil.",Accepted,,M,TICA,9BFBA83B-40F3-445E-909B-A053D2923602,64744-2,"Anales Mus. Nac. Santiago de Chile 1891","","38","1891",
+gcc-41706,A,Compositae,,Conyza,,"dichotoma",,"","(L.f.) Pers.",Synonym,,M,TICA,DE429F35-2011-4729-8691-4D3A58799F9C,197303-1,"","","428","1807",gcc-101476
+gcc-44590,A,Compositae,,Conyza,,"dichroa",,"","Mart. ex Colla",Unresolved,,L,TICA,9BA5CAD1-62B0-467D-828B-529C247F7350,197304-1,"","","369","1834",
+gcc-107401,A,Compositae,,Conyza,,"diffusa",,"","Roxb.",Synonym,,M,TICA,B8847C99-D10D-43B3-B8E7-A9FAE5B5F6AD,,"","","","1832",gcc-45913
+gcc-82040,A,Compositae,,Conyza,,"diffusa",,"","Poir.",Synonym,,M,TICA,E0C61DC9-2CCA-4843-9B5F-71239E0940FB,197306-1,"","","338","1811",gcc-90901
+gcc-136532,A,Compositae,,Conyza,,"dilatata",,"","Steud.",Synonym,,M,TICA,D8AC6547-1B5B-496E-BD62-EC6EC322C861,197307-1,"","","222","1821",gcc-12403
+gcc-126582,A,Compositae,,Conyza,,"dioscoridis",,"","(L.) Desf.",Synonym,,M,TICA,E6C56E99-4B08-4200-8338-D5A8A2E6A9D7,197308-1,"","","114","1815",gcc-22324
+gcc-102089,A,Compositae,,Conyza,,"discolor",,"","Bory ex DC.",Synonym,,M,TICA,E09DBA2D-CE70-48FA-B9A6-9E429307665E,197309-1,"","","376","1838",gcc-49083
+gcc-112889,A,Compositae,,Conyza,,"disticha",,"","Spreng.",Unresolved,,L,TICA,EF794478-2615-4AE1-BA0D-B67720F27C5C,197310-1,"","","509","1826",
+gcc-138178,A,Compositae,,Conyza,,"disticha",,"","Heyne",Unresolved,,L,TICA,53F9C041-1DA4-4660-99D3-F00CAA2A7A08,,"Numer. List [Wallich] n. 3024","","3024","",
+gcc-52895,A,Compositae,,Conyza,,"divaricata",,"","Spreng.",Synonym,,M,TICA,3C6CA104-D618-4A8A-9082-6218EDD2D58D,197312-1,"","","508","1826",gcc-115289
+gcc-119265,A,Compositae,,Conyza,,"divergens",,"","Wall.",Synonym,Invalid,M,TICA,7017067B-94E1-4F0D-8A3F-C4C5492F8D93,197313-1,"Numer. List [Wallich] n. 3027","","3027","1831",gcc-155890
+gcc-32170,A,Compositae,,Conyza,,"diversifolia",,"","Weinm.",Synonym,,M,TICA,B34CF0AB-0683-4073-84AF-3B98A2A6F676,,"","","","1820",gcc-12546
+gcc-94402,A,Compositae,,Conyza,,"domingensis",,"","Spr.",Synonym,,M,TICA,BE1A5E97-CBF7-4D0A-9B14-8CE0450AD930,,"Syst. 3: 508. 1826.","","508","1826",gcc-93786
+gcc-94520,A,Compositae,,Conyza,,"domingensis",,"","Willd. ex DC.",Synonym,,M,TICA,D7083195-20F5-4D24-9307-8D2C8F87B96D,197315-1,"Prodr. 5","","389","1836",gcc-93786
+gcc-83155,A,Compositae,,Conyza,,"dongulensis",,"","Delile",Unresolved,,L,TICA,958CB6BD-4D09-4889-A756-73B0A30648CC,,"","","","1826",
+gcc-114312,A,Compositae,,Conyza,,"dumetorum",,"","Phil.",Synonym,,M,TICA,17159C57-794C-49E9-8819-B98CF26F0A25,197317-1,"Linnaea 33","","144","1864",gcc-38312
+gcc-103009,A,Compositae,,Conyza,,"dunniana",,"","H.Lév.",Synonym,,M,TICA,717A59E9-0046-46FF-8048-A059CBECCDDE,197318-1,"","","43","1916",gcc-113128
+gcc-82125,A,Compositae,,Conyza,,"echinoides",,"","A.Rich.",Synonym,,M,TICA,35481B3B-658A-425A-A3A0-71538A20B351,,"","","","1848",gcc-128932
+gcc-97287,A,Compositae,,Conyza,,"edelbergii",,"","Rech.f.",Accepted,,M,TICA,E4856DDC-897F-4D89-971F-9381C6520542,,"","","","1955",
+gcc-126481,A,Compositae,,Conyza,,"elaeagnifolia",,"","Wall.",Unresolved,,L,TICA,3EA64955-DA4F-4446-A96B-D56F634A001A,,"Numer. List [Wallich] n. 3041","","3041","",
+gcc-126674,A,Compositae,,Conyza,,"elata",,"","Kunth & Bouché",Synonym,,M,TICA,7434C220-83BA-4A8A-8F5D-D5D4D1FEC008,197322-1,"","","14","1848",gcc-120553
+gcc-136530,A,Compositae,,Conyza,,"elata",,"","F.M.Bailey",Synonym,,L,TICA,929AFEE2-B104-4F47-9A34-EC6DCFF034D1,95533-3,"","","","1893",gcc-54456
+gcc-11526,A,Compositae,,Conyza,,"elegantula",,"","Wall.",Unresolved,,L,TICA,CFB19561-5F5E-4E2D-A178-157ECB9B66CE,,"Numer. List [Wallich] n. 3049","","3049","",
+gcc-23050,A,Compositae,,Conyza,,"ellisii",,"","Baker",Synonym,,M,TICA,D859C7FC-B058-4CC3-8430-2AAD56D48AF2,,"","","489","",gcc-208
+gcc-114311,A,Compositae,,Conyza,,"elongata",,"","Wall.",Unresolved,,L,TICA,2765A0A7-E1E6-4352-A17E-B98CE919D5D9,,"Numer. List [Wallich] n. 3078","","3078","",
+gcc-22246,A,Compositae,,Conyza,,"ericoides",,"","Lam.",Synonym,Illegitimate,M,TICA,11F6B005-3F2C-4D77-B738-2926DE261E13,197327-1,"","","92","1786",gcc-76312
+gcc-104202,A,Compositae,,Conyza,,"erigeroides",,"","DC.",Unresolved,,L,TICA,A30CC064-A0EA-411D-9851-A2FEEC8A3D8A,197328-1,"","","378","1836",
+gcc-47956,A,Compositae,,Conyza,,"eriophora",,"","Wall.",Synonym,Illegitimate,L,TICA,628DBB5D-87B6-4554-8616-58D19BB1AF2C,,"Numer. List [Wallich] n. 3013","","","1831",gcc-145812
+gcc-19036,A,Compositae,,Conyza,,"eriophylla",,"","(A.Gray) Cronquist",Synonym,,M,TICA,2ACD8B97-16E0-42C4-9B16-23265ADAC368,64747-2,"Bull. Torrey Bot. Club 70","","632","1943",gcc-36351
+gcc-78320,A,Compositae,,Conyza,,"erosa",,"","Blanco",Synonym,,M,TICA,C38C804A-8675-4E33-A247-68DFA21E094E,197331-1,"""Fl. Filip., ed. 2""","","489","1845",gcc-17124
+gcc-77657,A,Compositae,,Conyza,,"erythrolaena",,"","Klatt",Synonym,,M,TICA,FFA0F3BD-765C-4939-A27C-675D9D8C4648,64748-2,"Jahrb. Hamburg. Wiss. Anst. 10","","125","1893",gcc-42019
+gcc-9651,A,Compositae,,Conyza,,"eucoma",,"","Miq.",Accepted,,M,TICA,B6E12E09-8381-4C3C-81F5-1206BD58A5A0,197333-1,"Pl. Jungh.","","500","",
+gcc-114352,A,Compositae,,Conyza,,"eupatorioides",,"","Wall.",Synonym,Illegitimate,L,TICA,179D2592-F3A3-4A41-A756-B9A2DE862F2E,,"Numer. List [Wallich] n. 2993","","","1831",gcc-97966
+gcc-105558,A,Compositae,,Conyza,,"evacioides",,"","Rusby",Synonym,,L,TICA,B15CB4F3-2D23-4004-AAE6-A5D5121AA2A0,64749-2,"Bull. New York Bot. Gard. 4","","385","1907",gcc-150802
+gcc-34666,A,Compositae,,Conyza,,"excisa",,"","Wall.",Unresolved,,L,TICA,C47396A4-C51A-4DC6-837D-4043BD62E5B7,197336-1,"","","","1856",gcc-142951
+gcc-6594,A,Compositae,,Conyza,,"extensa",,"","Wall.",Synonym,Illegitimate,M,TICA,DEAFDE99-B925-4589-B392-0C3B7C6C6054,,"Numer. List [Wallich] n. 3016","","","1831",gcc-76115
+gcc-996,A,Compositae,,Conyza,,"falcata",,"","Spreng.",Unresolved,,L,TICA,554E8EF7-5A84-4841-A339-01D4F333C1E6,,"","","513","",
+gcc-83974,A,Compositae,,Conyza,,"falcigera",,"","Wall.",Unresolved,,L,TICA,41D5109E-ECB1-4BB3-B57C-757B9185D7B3,,"Numer. List [Wallich] n. 2048","","2048","",
+gcc-29543,A,Compositae,,Conyza,,"fasciculata",,"","(DC.) Wall. ex Wall.",Synonym,,M,TICA,F2C6E452-A0A0-485C-86A4-3699BE7F847C,,"Numer. List [Wallich]","","","1856",gcc-77371
+gcc-98096,A,Compositae,,Conyza,,"fastigiata",,"","Willd.",Accepted,,M,TICA,4280B0D0-D7E2-4BEF-A990-9556A707139F,197342-1,"","","57","1814",
+gcc-96338,A,Compositae,,Conyza,,"feae",,"","(Bég.) Wild",Accepted,,M,TICA,3CEF8563-7D26-49DF-828D-915393C98884,,"","","256","1969",
+gcc-86113,A,Compositae,,Conyza,,"filaginoides",,"","(DC.) Hieron.",Accepted,,M,TICA,7A30AE13-AED0-4418-A2D4-7A32D63226CB,64750-2,"Bot. Jahrb. Syst. 28","","588","1901",
+gcc-1206,A,Compositae,,Conyza,,"fistulosa",,"","Roxb.",Synonym,,M,TICA,26288AED-85BA-4821-855E-0235E97B7727,,"","","429","1832",gcc-26471
+gcc-137398,A,Compositae,,Conyza,,"flabellata",,"","Mesfin",Accepted,,M,TICA,C694290C-5427-48B7-8C08-EE6291FAF74A,984215-1,"","","627","1995",
+gcc-89774,A,Compositae,,Conyza,,"flahaultiana",,"","Sennen",Synonym,,M,TICA,EE863211-C000-47AE-A391-8281167F295D,,"Bol. Soc. Arag.","","319","1905",gcc-120553
+gcc-137329,A,Compositae,,Conyza,,"flexilis",,"","DC.",Synonym,,M,TICA,7722B448-057B-4360-A9D3-EE3B2AE08D60,197348-1,"","","385","1836",gcc-42181
+gcc-143507,A,Compositae,,Conyza,,"floresiana",,"","Sch.Bip. ex Sch.Bip.",Synonym,,M,TICA,E86FD2CA-B62E-46A1-B576-FC12BED6893E,197349-1,"","","121","",gcc-77371
+gcc-114230,A,Compositae,,Conyza,,"floribunda",,"","Kunth",Synonym,,M,TICA,4E5EE012-0F27-42CB-8814-B9582B0BF129,30316923-2,"""Bonpl., et al., Nova Gen. Sp. ed. fol. 4""","","57","1818",gcc-120553
+gcc-60670,A,Compositae,,Conyza,,"floribunda",var.,"floribunda","",Synonym,,L,TICA,B6AFB5B7-27DF-40B4-9D94-A02837A5F1DE,,"","","","",gcc-120553
+gcc-15949,A,Compositae,,Conyza,,"floribunda",var.,"laciniata","Cabrera ex G.M.Barroso",Unresolved,,L,TICA,76E0679E-5ACF-4A88-8845-1D81285F5046,64751-2,"","","119","1959",gcc-120553
+gcc-60342,A,Compositae,,Conyza,,"floribunda",var.,"laciniata","Cabrera",Synonym,,L,TICA,862FD336-A603-4A42-886E-9DA05802B4C3,,"Rodriguesia 21-22(33-34): 119. 1959.","","119","1959",gcc-120553
+gcc-8568,A,Compositae,,Conyza,,"floribunda",var.,"subleiotheca","(Cuatrec.) J.B.Marshall",Synonym,,L,TICA,93159313-5868-4FBF-B0C5-0FFD9E2135DB,877088-1,"Watsonia 9(4)","","372","1973",gcc-30092
+gcc-81724,A,Compositae,,Conyza,,"florida",,"","Steud.",Unresolved,,L,TICA,7C165B06-5F24-4A51-8E8D-7074DE1849F4,197351-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 583, in syn., sphalm.""","","583","1840",
+gcc-114877,A,Compositae,,Conyza,,"foetida",,"","(L.) Willd.",Synonym,Illegitimate,M,TICA,F64B0FAE-8821-47C0-B0D2-BADE9880BFA6,197352-1,"","","1932","1803",gcc-1580
+gcc-6778,A,Compositae,,Conyza,,"foetida",,"","Lam.",Synonym,,M,TICA,9A6154E7-0BFA-4185-916A-0C94232E7E98,197353-1,"","","85","1786",gcc-115984
+gcc-110703,A,Compositae,,Conyza,,"foliolosa",,"","Buch.-Ham.",Unresolved,,L,TICA,F11857CF-DE41-4FD4-A498-B183C22708DE,,"Numer. List [Wallich] n. 3281","","3281","",
+gcc-123182,A,Compositae,,Conyza,,"foliolosa",,"","Willd.",Unresolved,,L,TICA,F9801F60-0D11-45CF-B98D-CDB896CD2B8C,,"","","","1803",
+gcc-45391,A,Compositae,,Conyza,,"foliolosa",,"","Wall. ex DC.",Synonym,,M,TICA,B820C61B-7DA4-46D3-9039-541B0BDD7AFF,197355-1,"","","451","1836",gcc-34323
+gcc-81130,A,Compositae,,Conyza,,"foliolosa",,"","Wight",Unresolved,,L,TICA,5CE96825-8ADC-448E-B714-6F1F427C8FD2,,"Numer. List [Wallich] n. 3092","","3092","",
+gcc-45493,A,Compositae,,Conyza,,"foliosa",,"","Phil.",Accepted,,M,TICA,D77C64C8-801E-43BC-BD9D-544FA73ED97C,64752-2,"Anales Univ. Chile 87","","692","1894",
+gcc-4211,A,Compositae,,Conyza,,"fruticosa",,"","L.",Synonym,,M,TICA,3DBBA07A-958B-4CC8-BFE5-07D3356EA537,308903-2,"","","1209","1763",gcc-13790
+gcc-144598,A,Compositae,,Conyza,,"fruticulosa",,"","O.Hoffm.",Accepted,,M,TICA,618B411E-B3ED-443E-9C9C-FE7F0B8473CC,,"","","","1906",
+gcc-86094,A,Compositae,,Conyza,,"gallianii",,"","Chiov.",Accepted,,M,TICA,1763DA4A-6DD4-4D2E-A88E-7A28EA859A5A,,"","","","1908",
+gcc-136776,A,Compositae,,Conyza,,"garnieri",,"","Klatt",Accepted,,M,TICA,562AC778-BC25-4BF8-8055-ECFD5560792E,,"Linnaea 37","","509","",
+gcc-639,A,Compositae,,Conyza,,"gayana",,"","Phil.",Accepted,,M,TICA,BDE1BDD8-05F9-4A99-B2B9-013788AF7EA1,,"Linnaea 28","","737","",
+gcc-89584,A,Compositae,,Conyza,,"geminiflora",,"","Ten.",Synonym,,M,TICA,E8292009-7967-49F3-867D-82078A12F349,197364-1,"","","75","1819",gcc-17182
+gcc-8539,A,Compositae,,Conyza,,"genistelloides",,"","Lam.",Synonym,,M,TICA,BC112D93-9EA9-419E-B8ED-0FF049472882,197365-1,"","","93","1786",gcc-2731
+gcc-134579,A,Compositae,,Conyza,,"gigantea",,"","O.Hoffm.",Synonym,,M,TICA,29CAAD4C-0595-4AE9-8A95-E81C29B0D923,197366-1,"","","408","1895",gcc-114426
+gcc-75759,A,Compositae,,Conyza,,"glabra",,"","Willd.",Synonym,,M,TICA,C9A095BD-2CD9-4EC4-A202-632BCC44DF9B,197367-1,"","","1940","1803",gcc-120052
+gcc-111312,A,Compositae,,Conyza,,"glabrata",,"","Phil.",Accepted,,M,TICA,0233DEB1-BE23-45D2-AFE9-B2D671D0C960,64755-2,"Anales Univ. Chile 87","","690","1894",
+gcc-76954,A,Compositae,,Conyza,,"glabrata",,"","Wall. ex Steud.",Unresolved,,L,TICA,451F5DC0-A38F-4B62-8CF0-65C71D9B8BE5,197368-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 414""","","414","1840",
+gcc-48405,A,Compositae,,Conyza,,"glabrescens",,"","Pax",Accepted,,M,TICA,D189AA24-9A28-45FD-BE1B-59AF262D8BC2,,"","","","1907",
+gcc-11120,A,Compositae,,Conyza,,"glandulitecta",,"","Cabrera",Accepted,,M,TICA,151D951E-790F-4A85-BC6F-14C951D42BE2,64756-2,"Bol. Soc. Argent. Bot. 14","","349","1972",
+gcc-17288,A,Compositae,,Conyza,,"glomerata",,"","Wall. ex Link",Synonym,,M,TICA,FD852EA7-BB70-4446-9C86-1FF7764D21A1,,"","","","",gcc-26471
+gcc-127189,A,Compositae,,Conyza,,"glutinosa",,"","Lam.",Synonym,,M,TICA,079CC103-0C37-4F2C-A853-D713D74AAF79,197374-1,"","","89","1786",gcc-91976
+gcc-140059,A,Compositae,,Conyza,,"gnaphalioides",,"","Sieber",Synonym,,M,TICA,D6DDC8AD-2EBF-4A56-8ACF-F41EAD1F3EFF,,"","","322","1823",gcc-92451
+gcc-140692,A,Compositae,,Conyza,,"gnaphalioides",,"","Kunth",Accepted,,M,TICA,DF522A0E-E8D8-4FF4-9D6E-F5AD8061C863,,"","","","",
+gcc-140770,A,Compositae,,Conyza,,"gnaphalioides",,"","Sch.Bip. ex A.Rich.",Synonym,Illegitimate,M,TICA,87F87378-59BA-43A7-B75D-F5D9217B6C70,,"","","","1848",gcc-90901
+gcc-132000,A,Compositae,,Conyza,,"gouanii",,"","(L.) Willd.",Synonym,,M,TICA,BDCA68A2-3E8A-491B-88AC-E23DEE20B0E0,197379-1,"","","1928","1803",gcc-90901
+gcc-136980,A,Compositae,,Conyza,,"gouanii",,"","Blanco",Synonym,,M,TICA,2CD8C072-C499-49EE-B053-ED70C37C0636,197378-1,"","","627","1837",gcc-27916
+gcc-127534,A,Compositae,,Conyza,,"gouiana",,"","Blanco",Synonym,,M,TICA,7A964768-F9C8-472E-B5CF-D7DECB955726,,"Fl. Filip. (1837)","","629","1837",gcc-17124
+gcc-102181,A,Compositae,,Conyza,,"gracilis",,"","Wall.",Unresolved,,L,TICA,DFD103DD-19B6-4859-915D-9E79E8EEB504,,"Numer. List [Wallich] n. 3064","","3064","",
+gcc-11564,A,Compositae,,Conyza,,"gracilis",,"","Heyne",Unresolved,,L,TICA,CA80AAB5-179B-43BD-A2AE-15923BEABD83,,"Numer. List [Wallich] n. 3064","","3064","",
+gcc-139269,A,Compositae,,Conyza,,"gracilis",,"","Hoffmanns. & Link",Synonym,,M,TICA,CCDACAD6-6D1D-477B-8D4A-F25CB705B9D6,,"","","253","1825",gcc-32032
+gcc-128772,A,Compositae,,Conyza,,"graeca",,"","Nyman",Synonym,,M,TICA,0376FBC9-3A53-4C15-BE12-DAC535C519A7,197383-1,"","","16","1855",gcc-61379
+gcc-119309,A,Compositae,,Conyza,,"grahamii",,"","DC.",Accepted,,M,TICA,6DBAAA5F-6872-447B-B8EB-C4E1AB13FEA2,197384-1,"","","380","1836",
+gcc-91697,A,Compositae,,Conyza,,"graminifolia",,"","Spreng.",Synonym,,M,TICA,E14590F8-AEC5-48B5-B029-86EC1C0D99D3,274872-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 515","","515","1826",gcc-95392
+gcc-90030,A,Compositae,,Conyza,,"grandis",,"","Wall.",Unresolved,,L,TICA,2AF78EAC-5794-4719-A20E-830E8CD9CDF8,,"Numer. List [Wallich] n. 3051","","3051","",
+gcc-47464,A,Compositae,,Conyza,,"graveolens",,"","Wall. ex DC.",Unresolved,,L,TICA,63AA8743-2804-4AC9-9AA2-57EFFED6947C,197388-1,"","","292","1836",
+gcc-98657,A,Compositae,,Conyza,,"graveolens",,"","Steud.",Unresolved,,L,TICA,8187FA48-775F-4118-B0F9-969367EF6E38,197387-1,"Nomencl. Bot. (Steudel) 222","","222","1821",
+gcc-110036,A,Compositae,,Conyza,,"groegeri",,"","V.M.Badillo",Synonym,,M,TICA,A9B687BB-2717-4387-A5E9-AFFACEDC9F08,1014587-1,"","","5","2000",gcc-30092
+gcc-21103,A,Compositae,,Conyza,,"guineensis",,"","Willd.",Synonym,,M,TICA,7AF60B10-6C25-4834-97CC-26F9674B3D36,197389-1,"","","1930","1803",gcc-146569
+gcc-48120,A,Compositae,,Conyza,,"gummifera",,"","Roxb.",Synonym,,M,TICA,BAC60DC0-64FC-4762-B9B6-592DBC09A547,197390-1,"","","304","1816",gcc-119371
+gcc-44032,A,Compositae,,Conyza,,"halimifolia",,"","Desf.",Synonym,,M,TICA,FF9CBBFF-920F-43B1-83C7-518F202141AB,197391-1,"","","114","1815",gcc-136824
+gcc-96112,A,Compositae,,Conyza,,"hamiltonii",,"","Steud.",Synonym,,M,TICA,A68E64FA-BCAB-4C46-A569-90D367D6278D,197392-1,"","","414","1840",gcc-51822
+gcc-111264,A,Compositae,,Conyza,,"hartwegiana",,"","Hieron.",Unresolved,,L,TICA,B7CC77C7-8D27-47E2-B529-B2BA44EF0438,,"","","","",
+gcc-122711,A,Compositae,,Conyza,,"heliotropifolia",,"","Lam.",Synonym,,M,TICA,6F0C56DE-F1BE-4158-8075-CC990AD117A9,197393-1,"","","90","1786",gcc-93966
+gcc-103320,A,Compositae,,Conyza,,"herbacea",,"","Sessé & Moc.",Unresolved,,L,TICA,2C6CF898-DF18-4BEC-958F-A10287844D8F,64759-2,"""Fl. Mexic., ed. 2 184""","","184","1894",
+gcc-93378,A,Compositae,,Conyza,,"heterophylla",,"","Lam.",Unresolved,,L,TICA,E069EB1B-1C11-426A-A5F8-8A9737166743,197395-1,"","","84","1786",
+gcc-88813,A,Compositae,,Conyza,,"heterotricha",,"","Wall.",Unresolved,,L,TICA,5C346D38-C258-4ADD-8C0A-804D6A8BC539,,"Numer. List [Wallich] n. 3225","","3225","",
+gcc-103825,A,Compositae,,Conyza,,"heudelotii",,"","Oliv. & Hiern",Synonym,,M,TICA,D361904D-28F0-411D-9F61-A21BBE42AAE3,197397-1,"","","317","1877",gcc-26588
+gcc-85419,A,Compositae,,Conyza,,"heyneana",,"","Wall.",Unresolved,,L,TICA,2ED1B858-30E5-4470-80E8-789E3C9FE597,,"Numer. List [Wallich] n. 3089","","3089","",
+gcc-5159,A,Compositae,,Conyza,,"hieraciifolia",,"","Spreng.",Synonym,,M,TICA,6D675E29-FA4C-4299-8567-09A1514762B2,197399-1,"Syst. Veg. 3","","514","1826",gcc-41083
+gcc-88874,A,Compositae,,Conyza,,"hirsuta",,"","L.",Synonym,,M,TICA,FE59B7D7-7862-4849-A3B2-80664226B7C0,197400-1,"","","863","1753",gcc-41083
+gcc-126021,A,Compositae,,Conyza,,"hirtella",,"","DC.",Accepted,,M,TICA,190E7605-A332-49C9-9E2C-D460094FE0FD,197403-1,"","","385","1836",
+gcc-97416,A,Compositae,,Conyza,,"hirtella",,"","Martic.",Synonym,Illegitimate,M,TICA,E72ABD54-A1DD-4062-9560-93CFBA8BA29E,,"","","121","1991",gcc-38312
+gcc-3603,A,Compositae,,Conyza,,"hispida",,"","Kunth",Synonym,,M,TICA,7E7782D2-6374-4BEA-A2ED-06A8747589CD,,"","","55","1820 [1818]",gcc-32032
+gcc-76292,A,Compositae,,Conyza,,"hochstetteri",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,2FC04DE8-E6B8-4558-B65C-646076458ADC,197405-1,"","","387","1848",
+gcc-77780,A,Compositae,,Conyza,,"hochstetteri",,"","C.D.Adams",Unresolved,Illegitimate,L,TICA,00B41F4A-DE22-4904-8EF8-67A64DD7D8C4,,"J. W. Afr. Sci. Assoc 1:","","26","1954",
+gcc-64344,A,Compositae,,Conyza,,"hochstetteri",var.,"agrestis","Vatke",Synonym,,L,TICA,12A085AD-1C67-4020-AEF0-BDCC199C32BC,,"Linnaea 39: 484 (1875)","","484","1875",gcc-90901
+gcc-9863,A,Compositae,,Conyza,,"hochstetteri",var.,"glabra","A.Rich.",Synonym,,L,TICA,CA0D9537-1BB1-408D-83B4-126922ED8BB7,,"Tent. Fl. Abyss. 1: 387 (1848)","","387","1848",gcc-90901
+gcc-148680,A,Compositae,,Conyza,,"hochstetteri",var.,"hochstetteri","",Synonym,,L,TICA,434089D9-688E-4CC4-9231-482A92461706,,"","","","",gcc-76292
+gcc-66475,A,Compositae,,Conyza,,"hochstetteri",var.,"montana","Vatke",Synonym,,L,TICA,9C835F7C-DA50-4109-9E46-CF07FE638FD9,,"","","","",gcc-15330
+gcc-50196,A,Compositae,,Conyza,,"hochstetteri",var.,"pratensis","(Vatke) Vatke",Synonym,,L,TICA,2D9B2547-1EFD-4268-AAF5-5D0D652C9C3D,,"Linnaea 39: 518 (1875)","","518","1875",gcc-94888
+gcc-20507,A,Compositae,,Conyza,,"hochstetteri",var.,"silvestris","(Vatke) Vatke",Synonym,,L,TICA,FB53CC8E-CAED-4B2B-8953-25ED9031AE8D,,"Linnaea 39: 518 (1875)","","518","1875",gcc-94888
+gcc-51601,A,Compositae,,Conyza,,"holosericea",,"","Wall.",Unresolved,,L,TICA,C4D831CD-C1B3-4F6F-892B-5FACA44C06E5,,"Numer. List [Wallich] n. 3103","","3103","",
+gcc-84284,A,Compositae,,Conyza,,"huberti",,"","Bojer",Unresolved,Illegitimate,L,TICA,9A152FC5-40A2-4E21-B1E4-7637556425C3,,"Hortus Britannicus 3:","","349","1826",
+gcc-9322,A,Compositae,,Conyza,,"hubertii",,"","Sweet",Unresolved,,L,TICA,B3247346-E378-4B84-8BCE-1164518AD195,,"","","849","1839",
+gcc-106679,A,Compositae,,Conyza,,"humifusa",,"","Miq.",Synonym,,M,TICA,E022E573-A1D1-4A1A-8D58-A85D7EC3FD62,,"Fl. Ned. Ind. 2","","41","1856",gcc-126872
+gcc-99840,A,Compositae,,Conyza,,"hymenophylla",,"","Wall.",Unresolved,,L,TICA,2431DEC1-2531-45DC-AADC-99432121155B,,"Numer. List [Wallich] n. 3038","","3038","",
+gcc-11043,A,Compositae,,Conyza,,"hypoleuca",,"","A.Rich.",Accepted,,M,TICA,16AC6F86-954E-42BA-80C6-14A5CE2BA54F,,"","","391","",
+gcc-19916,A,Compositae,,Conyza,,"iliensis",,"","Trautv.",Unresolved,,L,TICA,2604FA58-3F10-4C08-BB6B-24D3C36ABA34,,"","","","1866",
+gcc-10421,A,Compositae,,Conyza,,"incana",,"","DC.",Unresolved,,L,TICA,AF5574BF-C266-4DE7-AB1D-1373A696F446,197413-1,"","","24","1836",
+gcc-10916,A,Compositae,,Conyza,,"incana",,"","(Vahl) Willd.",Accepted,,M,TICA,8079F5E6-F5C0-45FD-9D0F-146B9169FE0F,197412-1,"Numer. List [Wallich] n. 3046","","1937","1803",
+gcc-10471,A,Compositae,,Conyza,,"incisa",,"","Dryand. ex Aiton",Synonym,,M,TICA,172DE736-D8A8-43C1-860F-138A2F655B41,,"Hort. Kew. 3: 184 (1789)","","184","1789",gcc-20328
+gcc-136595,A,Compositae,,Conyza,,"incisa",,"","Dryand.",Unresolved,,L,TICA,171F29CC-F9F6-4E75-BF8C-EC936829DF42,197415-1,"Hortus Kew. (W. Aiton) 3: 184","","184","1789",
+gcc-71051,A,Compositae,,Conyza,,"incisa",subsp.,"comorensis","Humbert",Synonym,,L,TICA,E80E0134-B396-48F4-96D9-F301AA3F8AFF,,"in Fl. Madag. 89: 244 (1960)","","","1960",gcc-20328
+gcc-149625,A,Compositae,,Conyza,,"incisa",var.,"incisa","",Synonym,,L,TICA,AE00EEB1-9D8B-4A8F-8CEE-5CEB1EA8AD94,,"","","","",gcc-20328
+gcc-35523,A,Compositae,,Conyza,,"incisa",subsp.,"incisa","",Synonym,,L,TICA,A43FF549-AAA2-46D2-9640-41DCDD7CD4E4,,"","","","",gcc-20328
+gcc-123717,A,Compositae,,Conyza,,"indica",,"","(L.) Blume ex DC.",Synonym,,M,TICA,5D3AE73C-4026-46A9-812E-CEFAE324E402,197416-1,"","","451","1836",gcc-34323
+gcc-149209,A,Compositae,,Conyza,,"indica",var.,"indica","",Synonym,,L,TICA,9FAB55DB-9589-436D-85EB-53F1E18AF496,,"","","","",gcc-34323
+gcc-44680,A,Compositae,,Conyza,,"indica",var.,"integerrima","Miq.",Synonym,,L,TICA,1218CBF6-F7A7-448D-93D5-52C7A37F5E5F,,"Fl. Ned. Ind. 2 (1856)","","59","1856",gcc-34323
+gcc-116171,A,Compositae,,Conyza,,"intermedia",,"","Lag.",Synonym,,M,TICA,64C22F61-AEDD-4F8D-923D-BDD48DE521ED,197418-1,"","","28","1816",gcc-27942
+gcc-101962,A,Compositae,,Conyza,,"inuloides",,"","Dryand.",Unresolved,,L,TICA,5DC5C8D9-E5B0-47B2-B5BE-9DF71481F88B,197419-1,"Hortus Kew. (W. Aiton) 3: 182","","182","1789",
+gcc-39908,A,Compositae,,Conyza,,"inuloides",,"","Dryand. ex Aiton",Synonym,,M,TICA,54711FBA-60E8-4C9D-B194-4A14465F42F3,,"","","182","1789",gcc-101476
+gcc-112793,A,Compositae,,Conyza,,"ivifolia",,"","Burm.f.",Synonym,,M,TICA,5BF50E48-4F92-4BF0-A0BD-B6409BC45288,197420-1,"Fl. Ind.","","""180, t. 58, f. 4""","1768",gcc-32032
+gcc-138478,A,Compositae,,Conyza,,"ivifolia",,"","(L.) Less.",Synonym,Illegitimate,M,TICA,1B2A73AE-793E-4103-8FB1-F0AC92038856,1162985-2,"Linnaea 6: 138. 1831","","138","1831",gcc-32032
+gcc-16172,A,Compositae,,Conyza,,"japonica",,"","(Thunb.) Less. ex Less.",Accepted,,M,TICA,8D435502-DBBC-462F-AD52-1DEA152173B2,,"Prodr. 5","","382","1836",
+gcc-76773,A,Compositae,,Conyza,,"javanica",,"","Blume",Synonym,,M,TICA,89225DD3-B613-4A4A-B80D-6562469FD893,197424-1,"","","897","1826",gcc-71491
+gcc-41588,A,Compositae,,Conyza,,"jerdoni",,"","C.B.Clarke",Synonym,,M,TICA,9E057D6F-DAB2-4F28-BF68-4D0295D04C46,197425-1,"","","62","1876",gcc-128932
+gcc-111584,A,Compositae,,Conyza,,"junghuhniana",,"","Miq.",Synonym,,M,TICA,26697CA6-C465-4688-85E1-B36BE1D7FEC7,,"Fl. Ned. Ind. 2","","55","1856",gcc-139183
+gcc-82595,A,Compositae,,Conyza,,"kahuzica",,"","Lisowski",Accepted,,M,TICA,57C1D5AA-D23F-46A1-ADE9-72699CA0192D,,"","","176","1990",
+gcc-111371,A,Compositae,,Conyza,,"khorassanica",,"","(Boiss.) Novopokr. ex Nevski",Unresolved,,L,TICA,A43EADAC-2AF7-461C-A988-B2F5C9097E63,197427-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 278 (1937)""","","278","1937",gcc-96062
+gcc-19119,A,Compositae,,Conyza,,"kirschsteineana",,"","Muschl.",Synonym,,M,TICA,261FA0A2-7F96-406C-8AAF-234C28CCC8B3,,"","","","1911",gcc-96084
+gcc-81691,A,Compositae,,Conyza,,"korthalsiana",,"","Miq.",Synonym,,M,TICA,422B93EF-EAE1-4531-87E4-706A05EF9BBB,,"Fl. Ned. Ind. 2","","51","1856",gcc-119401
+gcc-126840,A,Compositae,,Conyza,,"kotschyi",,"","Boiss.",Synonym,,L,TICA,D515AD94-14AB-43D3-A604-D639A7C8AD65,,"","","83","1846",gcc-96062
+gcc-21267,A,Compositae,,Conyza,,"kotschyi",,"","(Sch.Bip. ex Schweinf. & Asch.) Sch.Bip. ex Schweinf.",Synonym,Invalid,M,TICA,59D1067D-EDE1-41E3-BD0C-2750D924DA44,197431-1,"","","307","1867",gcc-81583
+gcc-127508,A,Compositae,,Conyza,,"kraussesna",,"","Regel & Schmalh.",Unresolved,,L,TICA,6432CD59-78F6-449A-A349-D7CC519B5EBE,197432-1,"","","616","1877",
+gcc-118523,A,Compositae,,Conyza,,"kraussii",,"","Sch.Bip. ex Walp.",Synonym,,M,TICA,50B26A85-4DC0-4E4E-8742-C329F420422D,,"","","972","1843",gcc-22324
+gcc-16872,A,Compositae,,Conyza,,"kraussii",,"","Sch.Bip.",Unresolved,,L,TICA,07CC9699-DC16-4E04-9A2F-1F29DB5B9B03,,"","","","",
+gcc-90195,A,Compositae,,Conyza,,"kunthiana",,"","DC.",Synonym,,M,TICA,4AA530A8-D0F6-4959-896B-83691B435C80,197434-1,"","","379","1836",gcc-118061
+gcc-88732,A,Compositae,,Conyza,,"lacera",,"","Burm.f.",Synonym,,M,TICA,92A29C17-678C-42B0-B6F1-801DBFCDD960,197435-1,"Fl. Ind.","","","1768",gcc-51822
+gcc-63460,A,Compositae,,Conyza,,"lacera",var.,"bifoliolata","Wall. ex Miq.",Synonym,,L,TICA,073224BC-7EB5-41B9-91C2-B6FB59D5745C,,"Fl. Ned. Ind. 2 (1856)","","43","1856",gcc-25715
+gcc-61447,A,Compositae,,Conyza,,"lacera",var.,"blumei","(DC.) DC. ex Miq.",Synonym,,L,TICA,3A32ECBE-58FD-4920-BFED-A6A1AF944206,,"Fl. Ned. Ind. 2 (1856)","","43","1856",gcc-71491
+gcc-17767,A,Compositae,,Conyza,,"lacera",var.,"commersonii","(DC.) DC. ex Miq.",Synonym,,L,TICA,3ABFC975-3D36-4631-A406-20CC5FE6D481,,"Fl. Ned. Ind. 2 (1856)","","42","1856",gcc-51822
+gcc-149009,A,Compositae,,Conyza,,"lacera",var.,"lacera","",Synonym,,L,TICA,7BCFAF29-C71B-4B18-B7B6-4FA14A63B087,,"","","","",gcc-51822
+gcc-26330,A,Compositae,,Conyza,,"lacera",var.,"wallichii","(DC.) DC. ex Miq.",Synonym,,L,TICA,4E706B34-2A78-4D42-88CA-30A9808C3323,,"Fl. Ned. Ind. 2 (1856)","","42","1856",gcc-51822
+gcc-70812,A,Compositae,,Conyza,,"lacera",var.,"wightiana","(DC.) DC. ex Miq.",Synonym,,L,TICA,F0FEC7ED-0E85-468E-980B-F10060854B79,,"Fl. Ned. Ind. 2 (1856)","","43","1856",gcc-51822
+gcc-113666,A,Compositae,,Conyza,,"laciniata",,"","Wall. ex Roxb.",Synonym,,M,TICA,B7558454-290A-49FE-8E2A-B82629D8EA44,,"Fl. Ind. 3","","427","1832",gcc-17124
+gcc-2384,A,Compositae,,Conyza,,"lactucifolia",,"","Wall.",Unresolved,,L,TICA,7E532D8A-73FC-4021-96EA-0454E6D1DA2E,197437-1,"","","","1846",gcc-51822
+gcc-13193,A,Compositae,,Conyza,,"laeta",,"","hort.calc. ex C.B.Clarke",Synonym,,M,TICA,692F9A74-9596-4455-94E3-18923D58247D,197438-1,"","","14","1876",gcc-90880
+gcc-114491,A,Compositae,,Conyza,,"laevigata",,"","(Rich.) Pruski",Accepted,,L,TICA,E2EF9DF2-366B-410B-9596-B9FCDADD2A3E,1009436-2,"","","475","1998",
+gcc-112210,A,Compositae,,Conyza,,"lanceolaria",,"","Roxb.",Synonym,,L,TICA,46DAC0B3-E2DF-4A88-9893-B4E12F9342CA,,"""Fl. Ind. ed. 2, 3""","","432","1832",gcc-129270
+gcc-135794,A,Compositae,,Conyza,,"lanceolata",,"","Wall.",Synonym,Invalid,M,TICA,74895B80-9AE9-4635-A0A1-EABE31225012,197441-1,"Numer. List [Wallich]","","3059","1831",gcc-155890
+gcc-29640,A,Compositae,,Conyza,,"lanuginosa",,"","Wall.",Synonym,Illegitimate,L,TICA,9AD60308-DA32-4CF6-88C4-36C7EBBC8005,,"Numer. List [Wallich] n. 2922","","","1831",gcc-7323
+gcc-23962,A,Compositae,,Conyza,,"larrainiana",,"","J.Rémy",Accepted,,M,TICA,C9D28458-EAE1-4E47-9B9B-2C4970304FDB,197443-1,"Fl. Chil. 4: 71 (1849)","","71","1849",
+gcc-132938,A,Compositae,,Conyza,,"lasseriana",,"","Aristeg.",Accepted,,M,TICA,B375303E-A1A4-4514-8F22-E466FFD0F4FC,274873-2,"Fl. Venez. 10","","287","1964",
+gcc-14082,A,Compositae,,Conyza,,"lateralis",,"","Phil.",Accepted,,M,TICA,E278ABD1-C515-4A17-809F-1A1FA1210519,64763-2,"Anales Univ. Chile 87","","679","1894",
+gcc-85184,A,Compositae,,Conyza,,"laurifolia",,"","Lam.",Synonym,,M,TICA,581E3DCE-424B-4AD0-BD6A-781F8FD41969,197446-1,"","","89","1786",gcc-12403
+gcc-111615,A,Compositae,,Conyza,,"laxa",,"","Spreng.",Unresolved,,L,TICA,E724ACFC-2188-41F8-9C6D-B383BE5462E4,197447-1,"","","513","1826",
+gcc-27777,A,Compositae,,Conyza,,"laxiflora",,"","Desf.",Unresolved,,L,TICA,D340470D-9668-4CB1-8895-335735041041,197448-1,"","","400","1829",
+gcc-89751,A,Compositae,,Conyza,,"lechleri",,"","(Sch.Bip.) Cabrera",Synonym,,M,TICA,ABFEA91B-ED7B-42F8-B8B0-82720A04B7D1,197449-1,"","","46","1971",gcc-117269
+gcc-84617,A,Compositae,,Conyza,,"leucantha",,"","(D.Don) Ludlow & P.H.Raven",Accepted,,M,TICA,F92CC5D0-0A95-4491-BB6D-76EAE8DCB1EB,197450-1,"Kew Bull. 17: 71 (1963)","","71","1963",
+gcc-16174,A,Compositae,,Conyza,,"leucanthema",,"","Buch.-Ham. ex Steud.",Unresolved,,L,TICA,21DC76FD-115F-4052-9E88-1DEC4E131C86,197451-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 414""","","414","1840",
+gcc-113761,A,Compositae,,Conyza,,"leucodasys",,"","Miq.",Synonym,,M,TICA,26F7052B-910A-4250-87A0-B858EFA5209F,197452-1,"","","103","1860",gcc-32032
+gcc-109895,A,Compositae,,Conyza,,"leucophylla",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,25F634F9-0218-404B-8011-AFB53D3534AF,,"","","","",gcc-10916
+gcc-111310,A,Compositae,,Conyza,,"lignescens",,"","Rusby",Accepted,,M,TICA,4EBB7F8E-473E-4E68-84AB-B2D2F6A35D40,64765-2,"Bull. New York Bot. Gard. 4","","385","1907",
+gcc-107599,A,Compositae,,Conyza,,"limonifolia",,"","Sm.",Synonym,,M,TICA,C3DB4478-C6AC-4F95-8C8E-AA6DB765FC02,197455-1,"","","174","1813",gcc-98577
+gcc-44577,A,Compositae,,Conyza,,"limonifolia",,"","Sibth. & Sm.",Unresolved,,L,TICA,DF7D713D-E732-45E2-8E85-529585130617,197455-1,"Fl. Graec. Prod. ii. 174.","","ii. 174","",
+gcc-8951,A,Compositae,,Conyza,,"limosa",,"","O.Hoffm.",Accepted,,M,TICA,7A06FFC4-48A0-4CCB-A7FA-10BF5B669E4F,197456-1,"","","408","1903",
+gcc-130959,A,Compositae,,Conyza,,"linearifolia",,"","Lam.",Synonym,,M,TICA,E00B2EDC-47F3-4C79-B8C4-DFC5FAF25913,197457-1,"","","92","1786",gcc-24549
+gcc-24703,A,Compositae,,Conyza,,"linearifolia",,"","Spreng.",Synonym,Invalid,M,TICA,2AC22687-F7B7-4668-8E57-2D9F888924F5,,"","","","",gcc-88664
+gcc-39214,A,Compositae,,Conyza,,"lineariloba",,"","(O.Hoffm.) DC.",Synonym,,M,TICA,618E764E-2D19-42B6-9176-48C093881ECE,197458-1,"","","385","1836",gcc-128932
+gcc-109089,A,Compositae,,Conyza,,"linearis",,"","DC.",Synonym,,M,TICA,1351D99C-3E82-47B3-9CB0-ADD7D4F49035,197459-1,"Prodr. 5","","378","1836",gcc-32032
+gcc-110547,A,Compositae,,Conyza,,"linifolia",,"","L.",Synonym,,M,TICA,4FE0F83C-8109-46E0-B42A-B1214C6CF4AC,64767-2,"Sp. Pl.","","861","1753",gcc-98054
+gcc-126331,A,Compositae,,Conyza,,"linifolia",,"","Burm.f.",Unresolved,,L,TICA,D4DAA7F1-D64F-4F4F-BEFF-D51BE632A3CD,,"","","","1768",
+gcc-138829,A,Compositae,,Conyza,,"linifolia",,"","(Willd.) Täckh.",Synonym,Illegitimate,M,TICA,05721C86-CE1C-48F0-B9FE-F171312BA9C8,,"","","53","1956",gcc-32032
+gcc-17450,A,Compositae,,Conyza,,"linifolia",,"","Phil.",Synonym,Illegitimate,M,TICA,482863BF-AA42-4EB9-9416-20400F808B09,197461-1,"Linnaea 28: 734. 1858","","734","1858",gcc-50530
+gcc-48054,A,Compositae,,Conyza,,"linifolia",,"","Wall.",Unresolved,,L,TICA,E05CBFDB-FE8C-46B7-B0B4-590A103438E9,,"Numer. List [Wallich] n. 3063","","3063","",
+gcc-121649,A,Compositae,,Conyza,,"lithospermifolia",,"","Lam.",Synonym,,M,TICA,C4A2C47D-806C-43AD-AC72-CA429EC19208,197465-1,"","","90","1786",gcc-84397
+gcc-10233,A,Compositae,,Conyza,,"lobata",,"","juss ex Steud.",Unresolved,,L,TICA,1B145FB6-65FC-4C1F-A9F0-1322005731F3,197466-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 414, 521""","","521","1840",
+gcc-97006,A,Compositae,,Conyza,,"lobata",,"","L.",Synonym,,M,TICA,22D25117-8EA4-4F62-B305-92DB5417D8C8,197467-1,"","","862","1753",gcc-17908
+gcc-141433,A,Compositae,,Conyza,,"longicaulis",,"","Wall.",Unresolved,,L,TICA,230FB83D-4F1E-4AB2-AA15-F76C5B01231C,,"Numer. List [Wallich] n. 3078","","3078","",
+gcc-125806,A,Compositae,,Conyza,,"longifolia",,"","Colla",Unresolved,,L,TICA,2D75A39D-1A98-483E-87FF-D3E6295B8812,197471-1,"","","368","1834",
+gcc-29976,A,Compositae,,Conyza,,"longifolia",,"","Desf.",Synonym,,M,TICA,5CB41DF4-0599-4B81-8171-376F6DB50B3F,197469-1,"","","164","1829",gcc-12546
+gcc-77309,A,Compositae,,Conyza,,"longifolia",,"","Heyne",Unresolved,,L,TICA,E298B778-BB60-4D88-88BC-6697710E5077,,"Numer. List [Wallich] n. 3026","","3026","",
+gcc-136467,A,Compositae,,Conyza,,"longipedunculata",,"","Klatt",Accepted,,M,TICA,0BDF47DC-42F1-4F5C-93DE-EC4AA6953FFE,,"","","","1890",
+gcc-90948,A,Compositae,,Conyza,,"longispina",,"","Hook.f.",Unresolved,,L,TICA,C31E167C-FB98-4A3C-AF7B-853870445766,197473-1,"""Fl. Brit. Ind. iii. 268, sphalm.""","","""iii. 268, sphalm.""","",
+gcc-129250,A,Compositae,,Conyza,,"longissima",,"","Zoll. & Moritzi",Synonym,,M,TICA,0CE499F3-1897-442B-B9D0-DBDBC6914B73,197474-1,"","","68","1846",gcc-3133
+gcc-126504,A,Compositae,,Conyza,,"lorentzii",,"","Griseb.",Accepted,,M,TICA,DF07EDA8-621A-49AF-BC1C-D579A0317AC5,197475-1,"","","176","1879",
+gcc-119663,A,Compositae,,Conyza,,"loueirii",,"","Poir.",Accepted,,M,TICA,AA61E184-9A33-4290-9F0C-C5AF3C4AF64F,197476-1,"","","339","1811",
+gcc-37117,A,Compositae,,Conyza,,"lucens",,"","Poir.",Synonym,,M,TICA,66F7F440-235D-49AD-B280-44C541AE33E5,197477-1,"","","341","1811",gcc-93786
+gcc-43988,A,Compositae,,Conyza,,"lucida",,"","Spreng.",Synonym,,M,TICA,3358DB9B-B185-41A8-ACF2-517CF2E7EBEB,197478-1,"","","142","1821",gcc-133639
+gcc-124425,A,Compositae,,Conyza,,"lurida",,"","J.A.Schmidt",Synonym,,M,TICA,FB0F1860-02CA-4500-AE37-D0A95D2300ED,197479-1,"","","186","1852",gcc-136875
+gcc-39312,A,Compositae,,Conyza,,"lurida",var.,"humilis","Bolle",Synonym,,L,TICA,6E27BD7E-ABAA-4084-BAD9-48F7425CCA06,,"Bonplandia (Hannover) 8(7): 131 (1859)","","131","1859",gcc-136875
+gcc-152652,A,Compositae,,Conyza,,"lurida",var.,"lurida","",Synonym,,L,TICA,8AD0C08F-C9D8-4FF9-98DB-9E08445D7E46,,"","","","",gcc-136875
+gcc-82746,A,Compositae,,Conyza,,"lycopodioides",,"","Lam.",Unresolved,,L,TICA,2E49F7B0-279E-4C3E-AE49-72BBDF10C9BD,197480-1,"","","91","1786",gcc-141483
+gcc-21710,A,Compositae,,Conyza,,"lyrata",,"","Kunth",Synonym,,M,TICA,A35B1BEC-903D-4A36-AC5B-282D5577611F,197481-1,"""Bonpl., et al., Nova Gen. Sp. 4, ed. fol.""","","55","1818",gcc-146569
+gcc-151440,A,Compositae,,Conyza,,"lyrata",var.,"lyrata","",Synonym,,L,TICA,07C84686-78EC-4181-83EF-84B2E4BF0812,,"","","","",gcc-146569
+gcc-68141,A,Compositae,,Conyza,,"lyrata",var.,"pilosa","Fernald",Synonym,,L,TICA,2D68ADFD-D31B-4C2A-A493-DC866D0F1D7F,64771-2,"Proc. Amer. Acad. Arts 36","","506","1901",gcc-146569
+gcc-124592,A,Compositae,,Conyza,,"macrolasia",,"","Mart. ex Colla",Unresolved,,L,TICA,7770EB1E-47DA-4582-BB99-D1129BA8B34D,197482-1,"","","369","1834",
+gcc-10618,A,Compositae,,Conyza,,"macrophylla",,"","Spreng.",Accepted,,M,TICA,2BEFE33A-153B-42D6-8C3A-13DC79A2898D,197483-1,"","","513","1826",
+gcc-150207,A,Compositae,,Conyza,,"macrophylla",var.,"macrophylla","",Synonym,,L,TICA,809F6646-8E79-44D7-8AF1-6953FAC3DA48,,"","","","",gcc-10618
+gcc-70112,A,Compositae,,Conyza,,"macrophylla",var.,"sessifolia","(Blume) Miq.",Synonym,,L,TICA,D1162AD2-2962-439D-BD20-EB93D4D3231C,,"Fl. Ned. Ind. 2 (1856)","","53","1856",gcc-42577
+gcc-96177,A,Compositae,,Conyza,,"macrorrhiza",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,4836D280-8230-4429-BED3-90F37A589218,,"","","387","",gcc-25980
+gcc-153905,A,Compositae,,Conyza,,"macrorrhiza",f.,"macrorrhiza","",Synonym,,L,TICA,D4235099-3497-4F20-9A3C-B7BC395042E5,,"","","","",gcc-25980
+gcc-120370,A,Compositae,,Conyza,,"macrorrhiza",f.,"silvestris","Vatke",Synonym,,L,TICA,64D1A1D7-9895-40FC-ACB8-C75EC5A93574,,"Linnaea 39: 483 (1875)","","483","1875",gcc-25980
+gcc-23297,A,Compositae,,Conyza,,"macrostachya",,"","Wall.",Unresolved,,L,TICA,BE12804C-E64F-400E-B151-2B1D9F65E3FA,,"Numer. List [Wallich] n. 3053","","3053","",
+gcc-79930,A,Compositae,,Conyza,,"madagascariensis",,"","Lam.",Synonym,,M,TICA,47716CC7-0DB8-4F12-906D-6C6F4D1542BC,197486-1,"","","85","1786",gcc-124482
+gcc-118310,A,Compositae,,Conyza,,"magellanica",,"","Lam.",Synonym,,M,TICA,88EEA3EF-0107-4B8E-81D1-C2A8D7B83F71,197488-1,"","","91","1786",gcc-22413
+gcc-138612,A,Compositae,,Conyza,,"magnimontana",,"","Cabrera",Accepted,,M,TICA,BF14B5CF-7A3A-48EE-B6E7-F0F9B591BE84,64773-2,"","","42","1971",
+gcc-135912,A,Compositae,,Conyza,,"mairei",,"","H.Lév.",Synonym,,M,TICA,B5605A9F-30C2-4DDF-A39E-EAFB8EE77A80,,"Repert. Spec. Nov. Regni Veg. 11: 307 (1912)","","307","1912",gcc-25980
+gcc-35087,A,Compositae,,Conyza,,"major",,"","Bubani",Synonym,,M,TICA,BD7681DA-A08F-4D6D-99BF-41106EFA351A,,"","","","1899",gcc-16305
+gcc-45369,A,Compositae,,Conyza,,"mandrarensis",,"","Humbert",Accepted,,M,TICA,2576780C-1189-4304-AD4A-541448C034B8,,"","","","1959",
+gcc-126962,A,Compositae,,Conyza,,"manillensis",,"","Less.",Synonym,,M,TICA,E32F30BC-9C5B-4D3F-93BF-D67F21892C95,197492-1,"Linnaea 6","","135","1831",gcc-27916
+gcc-125246,A,Compositae,,Conyza,,"marginata",,"","Edgew.",Synonym,,M,TICA,195EFF44-A801-4E77-A05C-D29A990F6501,,"","","67","",gcc-43603
+gcc-84972,A,Compositae,,Conyza,,"marilandica",,"","Michx.",Synonym,,M,TICA,9283D897-8D9D-4410-B754-77A6B809151F,329789-2,"","","126","1803",gcc-86860
+gcc-12971,A,Compositae,,Conyza,,"martii",,"","Colla",Unresolved,,L,TICA,229BB727-FB14-45C6-A523-182E76739EC0,197494-1,"","","368","1834",
+gcc-130161,A,Compositae,,Conyza,,"mauritiana",,"","Sweet",Unresolved,,L,TICA,7A26811C-6CBA-4DD7-BAFC-DDE76A90E466,197495-1,"","","349","1839",
+gcc-7358,A,Compositae,,Conyza,,"mauritiana",,"","Willd. ex Steud.",Unresolved,,L,TICA,7BF95156-4525-46EC-AF5B-0DAE6EA1F7B5,197497-1,"","","414","1840",
+gcc-107914,A,Compositae,,Conyza,,"maxima",,"","Zoll. & Mor.",Accepted,,M,TICA,B4BF56FD-8C08-4C2A-A666-AB2B712D2BFF,,"","","236","1845",
+gcc-113196,A,Compositae,,Conyza,,"megapotamica",,"","Spreng.",Unresolved,,L,TICA,676688D9-FE56-4D80-988B-B7182BF5FC3C,197499-1,"","","516","1826",
+gcc-116657,A,Compositae,,Conyza,,"megensis",,"","F.G.Davies",Accepted,,M,TICA,8C278EFC-9930-47AE-9D85-BEECC095CA03,197500-1,"","","371","1979",
+gcc-11397,A,Compositae,,Conyza,,"melastomatoides",,"","Lam.",Synonym,,M,TICA,745505C4-DB77-4A33-B169-154AA6885BD4,,"","","90","1786",gcc-46316
+gcc-136285,A,Compositae,,Conyza,,"membranacea",,"","Wall. ex DC.",Synonym,,M,TICA,1532547A-A544-41A6-A298-EBE0F7337749,,"","","","1836",gcc-45913
+gcc-37867,A,Compositae,,Conyza,,"membranifolia",,"","Klatt",Unresolved,,L,TICA,EEB853F5-0297-48BB-BCC3-463C89F3D1B7,,"","","","1884",
+gcc-35496,A,Compositae,,Conyza,,"messeri",,"","Pic.Serm.",Accepted,,M,TICA,F9AFDA8B-5BEB-4E08-8230-41CEFE55598F,,"","","","1951",
+gcc-8558,A,Compositae,,Conyza,,"mexicana",,"","Sessé & Moc.",Unresolved,,L,TICA,B6253CAD-553B-415B-9E34-0FF85E3C7B4E,64774-2,"""Fl. Mexic., ed. 2 184""","","184","1894",
+gcc-91684,A,Compositae,,Conyza,,"micrantha",,"","Spreng. ex DC.",Synonym,,M,TICA,E75BAC0C-B620-43DE-8972-86E59EC1DC0B,,"","","884","1836",gcc-25980
+gcc-87328,A,Compositae,,Conyza,,"microcephala",,"","Hemsl.",Accepted,,M,TICA,526F0FC2-B9D9-4EB9-8645-7D0607DEC631,,"","","","1881",
+gcc-8314,A,Compositae,,Conyza,,"microglossa",,"","(S.F.Blake) Cronquist",Accepted,,M,TICA,39624448-21EF-49BC-B9B4-0F7A1EFD696D,64775-2,"Bull. Torrey Bot. Club 70","","632","1943",
+gcc-137503,A,Compositae,,Conyza,,"mildbraedii",,"","(Muschl.) Robyns",Synonym,,M,TICA,48FFF18B-1438-4667-89EE-EE93DF036455,197509-1,"","","468","1947",gcc-8951
+gcc-13974,A,Compositae,,Conyza,,"mima",,"","S.F.Blake",Accepted,,M,TICA,4E141A4D-0D0B-42AA-AB43-19F1C68F5B86,274874-2,"Contr. Gray Herb. 52: 32. 1917","","32","1917",
+gcc-89814,A,Compositae,,Conyza,,"miniata",,"","Klatt",Synonym,,M,TICA,56611E87-602A-498E-A9B1-8298ECC74FBB,,"","","23","1890",gcc-643
+gcc-11739,A,Compositae,,Conyza,,"minor",,"","Hill",Synonym,,M,TICA,C2456545-144B-4D08-8021-15DC2AA9CC3C,,"","","447","1756",gcc-131541
+gcc-19561,A,Compositae,,Conyza,,"minor",,"","Bubani",Synonym,,M,TICA,E4ADE493-7DB4-4BB2-87E8-242CA0440571,,"","","","1899",gcc-103204
+gcc-33538,A,Compositae,,Conyza,,"minutiflora",,"","Phil.",Accepted,,M,TICA,4039906D-33D9-45C3-B482-3E2D34D2A1F4,64777-2,"Anales Univ. Chile 87","","692","1894",
+gcc-2909,A,Compositae,,Conyza,,"mixta",,"","Fouc. & Neyr.",Accepted,,L,TICA,1369C638-643B-4402-8B86-0562A5CCFC88,,"Ann. Soc. Sci. Nat. Charente-Infér. 1901: 110 (1902)","","","",
+gcc-100570,A,Compositae,,Conyza,,"modatensis",,"","Sch.Bip.",Synonym,,M,TICA,B9088100-9C58-454D-8B7F-9AEC94F8F906,,"","","","",gcc-22324
+gcc-105338,A,Compositae,,Conyza,,"modatensis",,"","Sch.Bip. ex Schweinf.",Unresolved,,L,TICA,F69CF05B-1155-4AA9-BAE6-A561AD2C7408,197516-1,"","","144","1867",
+gcc-153134,A,Compositae,,Conyza,,"modesta",,"","Kunth",Accepted,,M,TICA,A6DF9313-5B13-4433-A510-A7E0B7CAEACA,197517-1,"","","","1845",
+gcc-92630,A,Compositae,,Conyza,,"modesta",,"","Phil.",Unresolved,,L,TICA,A786DB35-C701-4826-A4CF-8902F06F0901,197518-1,"Linnaea 33","","142","1864",
+gcc-40368,A,Compositae,,Conyza,,"moelleri",,"","Phil.",Accepted,,M,TICA,1342E17B-41F6-460E-BA4C-4AD496164319,197519-1,"Anales Univ. Chile 87","","686","1894",
+gcc-105725,A,Compositae,,Conyza,,"mollis",,"","H.Lév.",Synonym,,L,TICA,92F8473E-BE0C-44B6-AE04-A62A50CDEA3B,197521-1,"Repert. Spec. Nov. Regni Veg. 11","","304","1912",gcc-104113
+gcc-133439,A,Compositae,,Conyza,,"mollis",,"","Willd.",Unresolved,,L,TICA,E9D1D145-1B36-4973-8EE7-E581660527ED,,"","","","",
+gcc-45245,A,Compositae,,Conyza,,"moluccana",,"","Gaudich.",Synonym,,M,TICA,F189DFC2-8D06-4E56-8513-53DA0C3DFA4F,197522-1,"","","465","",gcc-31712
+gcc-109199,A,Compositae,,Conyza,,"monocephala",,"","Phil.",Unresolved,,L,TICA,EBCF9339-AE1F-47EE-8206-AE1C2D3C0999,,"Anales Univ. Chile 87","","","",
+gcc-52842,A,Compositae,,Conyza,,"monorchis",,"","(Griseb.) Cabrera",Accepted,,M,TICA,05D708D2-4EBC-493A-8D64-61FA7828A613,64780-2,"","","480","1953",
+gcc-108414,A,Compositae,,Conyza,,"montana",,"","DC.",Synonym,,M,TICA,25D2CC7A-4BD8-4E7B-A865-AC3731B3F9D4,197526-1,"","","384","1836",gcc-25980
+gcc-104182,A,Compositae,,Conyza,,"montevidensis",,"","Spreng.",Synonym,,M,TICA,57A65331-69B3-4015-8A69-A2F701659270,197527-1,"","","510","1826",gcc-30650
+gcc-115124,A,Compositae,,Conyza,,"monticola",,"","Mart. ex Colla",Unresolved,,L,TICA,8B7C287A-B1C6-4F5A-8376-BB68410D9389,197529-1,"","","369","1834",
+gcc-33593,A,Compositae,,Conyza,,"monticola",,"","Phil.",Synonym,,M,TICA,4D1BDABD-7700-419B-A270-3E4AEEFFF9C7,64781-2,"Anales Univ. Chile 87","","685","1894",gcc-639
+gcc-96084,A,Compositae,,Conyza,,"montigena",,"","S.Moore",Accepted,,M,TICA,778F6A99-96C7-424C-9A5A-90C834A408F5,,"","","","1908",
+gcc-70181,A,Compositae,,Conyza,,"montigena",var.,"montigena","",Synonym,,L,TICA,5B653FC6-2F8A-4899-B523-EC0A69EFE773,,"","","","",gcc-96084
+gcc-95058,A,Compositae,,Conyza,,"muliensis",,"","Y.L.Chen",Accepted,,M,TICA,3AE7EB80-668B-46E1-81D4-8E6E53EE9196,,"","","","1985",
+gcc-93700,A,Compositae,,Conyza,,"multicaulis",,"","DC.",Synonym,,M,TICA,E40D6A01-3482-47DE-8489-8B41F9C3B546,197531-1,"","","383","1836",gcc-16172
+gcc-131869,A,Compositae,,Conyza,,"multiflora",,"","Wall.",Synonym,Invalid,M,TICA,5542C275-06E2-444E-BFAF-E1F064107643,197532-1,"Numer. List [Wallich] n. 3032","","3032","1831",gcc-155890
+gcc-130456,A,Compositae,,Conyza,,"muralis",,"","Buch.-Ham.",Unresolved,,L,TICA,370D6071-CE16-4023-81A0-DE9817962295,,"Numer. List [Wallich] n. 3077","","3077","",
+gcc-133142,A,Compositae,,Conyza,,"mursa",,"","Buch.-Ham.",Unresolved,,L,TICA,E17A644C-583E-43B6-A233-E4D5B421FB86,,"Numer. List [Wallich] n. 3095","","3095","",
+gcc-101782,A,Compositae,,Conyza,,"myosotifolia",,"","Kunth",Synonym,,M,TICA,922B4D9C-DF86-4D59-86EE-9D82AE72417C,,"","","","1820 [1818]",gcc-12546
+gcc-3928,A,Compositae,,Conyza,,"myriocephala",,"","J.Rémy",Accepted,,L,TICA,6207490E-25AE-4BB3-8B13-074DB0948C33,197536-1,"Fl. Chil. 4","","76","1849",
+gcc-81293,A,Compositae,,Conyza,,"myrsinites",,"","Lam.",Synonym,,M,TICA,A4B4BD7F-0721-4B6D-9645-6F7911D6F07C,197537-1,"","","92","1786",gcc-119332
+gcc-122068,A,Compositae,,Conyza,,"nana",,"","Sch.Bip. ex Oliv. & Hiern",Accepted,,M,TICA,3D095C0E-22CB-4550-BE44-CB306F2CF4F0,197538-1,"","","315","1877",
+gcc-48127,A,Compositae,,Conyza,,"napifolia",,"","Wall.",Unresolved,,L,TICA,F6565BF8-8B62-43A2-907C-593178631EDF,,"Numer. List [Wallich] n. 3075","","3075","",
+gcc-49849,A,Compositae,,Conyza,,"natalensis",,"","Sch.Bip.",Synonym,,M,TICA,81C816E1-EA39-4F76-A066-5C6AB5A52CF0,,"Repertorium Botanices Systematicae. 2:","","971-972","1843",gcc-35941
+gcc-92323,A,Compositae,,Conyza,,"natalensis",,"","Sch.Bip. ex Walp.",Unresolved,,L,TICA,58438743-A5DD-48E8-A368-8852A078EF07,,"","","971","1843",
+gcc-94593,A,Compositae,,Conyza,,"natans",,"","Buch.-Ham. ex Hook.f.",Synonym,,M,TICA,7D2006F1-56F6-4642-89DE-8D5DF5CD0E52,,"","","","1881",gcc-51822
+gcc-132595,A,Compositae,,Conyza,,"naudinii",,"","Bonnet",Synonym,,M,TICA,DFAF426C-F944-4FDD-976E-E39ADC09D39F,,"Bull. Soc. Bot. France 25","","208","1878",gcc-120553
+gcc-120975,A,Compositae,,Conyza,,"necessaria",,"","Buch.-Ham. ex DC.",Synonym,,M,TICA,1FF8D542-C655-495C-9187-C8C4399B9458,197543-1,"","","439","1836",gcc-51822
+gcc-17721,A,Compositae,,Conyza,,"neglecta",,"","R.E.Fr.",Accepted,,M,TICA,8121E3B0-4966-43E7-8975-20B697EE3F87,197544-1,"","","125","1928",
+gcc-130593,A,Compositae,,Conyza,,"nemoralis",,"","Phil.",Accepted,,M,TICA,0449B032-EC8B-449A-AAD0-DEE892DFC192,64782-2,"Anales Univ. Chile 87","","689","1894",
+gcc-208,A,Compositae,,Conyza,,"neocandolleana",,"","Humbert",Accepted,,M,TICA,4F913C59-B3AF-433C-8284-005FF57FD9F7,197546-1,"","","249","1960",
+gcc-82925,A,Compositae,,Conyza,,"nereifolia",,"","L'Hér. ex DC.",Synonym,,M,TICA,ACBE5D2A-8219-488C-8950-7327B8D6E9DA,197547-1,"","","430","1836",gcc-137833
+gcc-118816,A,Compositae,,Conyza,,"neriifolia",,"","(L.) L'Hér. ex Steud.",Synonym,,M,TICA,FCF94C4C-A823-4244-BC99-C3D82366BCAB,,"","","","",gcc-137833
+gcc-156733,A,Compositae,,Conyza,,"neriifolia",,"","(L.) Desf.",Unresolved,,L,TICA,5CC431FF-86F6-41A7-B242-F32FE58AA020,,"","","","",
+gcc-117950,A,Compositae,,Conyza,,"neuri",,"","Oliv. & Hiern",Unresolved,,L,TICA,7B2F279F-8679-45CF-ADEF-C1CB72CECD96,197548-1,"Fl. Trop. Afr. [Oliver et al.] 3: 317","","317","1877",
+gcc-133516,A,Compositae,,Conyza,,"newii",,"","Oliv. & Hiern",Accepted,,M,TICA,52ADAB03-46EF-4DC8-9232-E5A7E0BF81BA,1019431-1,"","","317","1877",
+gcc-44555,A,Compositae,,Conyza,,"nitida",,"","(Zoll. & Mor.) Sch.Bip.",Unresolved,,L,TICA,18FF4C02-CE5C-430D-86AC-528BD1F62936,197549-1,"","","121","1854",gcc-129270
+gcc-43555,A,Compositae,,Conyza,,"nivalis",,"","Boiss.",Synonym,,L,TICA,4A041EF1-F887-4E6B-ACFF-50BF89CE6D81,,"","","82","1846",gcc-92129
+gcc-37326,A,Compositae,,Conyza,,"notobellidiastrum",,"","Griseb.",Synonym,,M,TICA,994C5A06-F2BC-4F78-96D8-452B41CBABDE,64783-2,"Abh. Königl. Ges. Wiss. Göttingen 24: 177. 1879","","177","1879",gcc-81425
+gcc-145956,A,Compositae,,Conyza,,"notobellidiastrum",var.,"notobellidiastrum","",Synonym,,L,TICA,74F265CD-70C0-4011-B3DA-0E66AD392F5B,,"","","","",gcc-81425
+gcc-5565,A,Compositae,,Conyza,,"notobellidiastrum",var.,"oblongifolia","Griseb.",Synonym,,L,TICA,A565EE68-A701-4511-B522-0A6051A861A8,64784-2,"Abh. Königl. Ges. Wiss. Göttingen 24","","178","1879",gcc-81425
+gcc-143820,A,Compositae,,Conyza,,"nutans",,"","Buch.-Ham. ex Blume",Synonym,,L,TICA,4538920F-EC62-45E8-B854-FCBB7DBB5539,197553-1,"","","896","1826",gcc-46093
+gcc-25401,A,Compositae,,Conyza,,"obliqua",,"","Buch.-Ham. ex Willd.",Synonym,,M,TICA,1D03C5C9-1A19-45D7-AB23-2EE4F8D77DFB,,"","","","1836",gcc-95420
+gcc-106088,A,Compositae,,Conyza,,"oblonga",,"","Wall. ex DC.",Synonym,,L,TICA,BEEE02E4-670F-4BFA-AC38-A703ECD2E2E2,197558-1,"","","469","1836",gcc-145812
+gcc-44987,A,Compositae,,Conyza,,"oblongifolia",,"","Spreng.",Synonym,,M,TICA,1413264C-57F8-405E-819F-535A26A1F082,197559-1,"","","512","1826",gcc-117219
+gcc-113121,A,Compositae,,Conyza,,"obovata",,"","Wall.",Unresolved,,L,TICA,D988EE13-A28B-4AB0-ABDA-B6F080084FC8,,"Numer. List [Wallich] n. 3022","","3022","",
+gcc-107791,A,Compositae,,Conyza,,"obscura",,"","DC.",Accepted,,M,TICA,5F98810B-BEA9-49AB-97AF-AAE68D28CAF1,,"","","887","1836",
+gcc-130076,A,Compositae,,Conyza,,"obtusa",,"","Kunth",Synonym,,M,TICA,64301BB4-3D39-47FE-BE13-DDBCD81C4AC1,,"","","56","1820 [1818]",gcc-104216
+gcc-68297,A,Compositae,,Conyza,,"obtusa",var.,"humilis","Walp.",Synonym,,L,TICA,48C4E9BD-1140-4129-98AE-DDC4C743003B,64786-2,"","","262","1843",gcc-104216
+gcc-146371,A,Compositae,,Conyza,,"obtusa",var.,"obtusa","",Synonym,,L,TICA,4DDEE175-BDA3-42FC-AFA6-1732824245ED,,"","","","",gcc-104216
+gcc-142911,A,Compositae,,Conyza,,"odontophylla",,"","Boiss.",Synonym,,M,TICA,C61C615F-38DE-4541-AEFB-FAB68897A73A,197563-1,"","","217","1875",gcc-145030
+gcc-27049,A,Compositae,,Conyza,,"odontoptera",,"","Webb",Synonym,,M,TICA,132CE6D5-C8E6-486C-A500-320135206BE0,197564-1,"","","","1849",gcc-44173
+gcc-93400,A,Compositae,,Conyza,,"odora",,"","Forssk.",Synonym,,M,TICA,7DE3DD15-777A-49E7-84C1-8AA63F545AC3,197565-1,"","","148","1775",gcc-22324
+gcc-75436,A,Compositae,,Conyza,,"odorata",,"","Willd. ex L.",Synonym,,L,TICA,5EE3851D-0841-4300-9F01-626CE7EF270A,64787-2,"","","1213","1759",gcc-91980
+gcc-43048,A,Compositae,,Conyza,,"oleifolia",,"","Lam.",Synonym,,M,TICA,12D45D69-9617-423E-8F48-4FBA308E6B9B,197568-1,"","","86","1786",gcc-117497
+gcc-87132,A,Compositae,,Conyza,,"oligandra",,"","Turcz.",Synonym,,M,TICA,47020FC4-D79C-477A-A392-7C9357AE35A0,197569-1,"","","179","1851",gcc-84617
+gcc-45364,A,Compositae,,Conyza,,"oligantha",,"","Cabrera",Accepted,,M,TICA,9CEA3487-2782-4434-A479-54129902C06E,64788-2,"","","47","1971",
+gcc-91629,A,Compositae,,Conyza,,"oligocephala",,"","(DC.) DC. ex Miq.",Synonym,,M,TICA,AC3BCAEE-7CF9-41EF-82F8-86C90ABB94F9,,"Fl. Ned. Ind. 2","","41","1856",gcc-48928
+gcc-111094,A,Compositae,,Conyza,,"orientalis",,"","Willd.",Unresolved,,L,TICA,596688D4-AA42-4EA4-A4C5-B25E998F496C,,"","","","1803",
+gcc-100129,A,Compositae,,Conyza,,"ovata",,"","Wall.",Unresolved,,L,TICA,55D2ECCB-B7B9-48B5-8EAE-99E2057DEAED,,"Numer. List [Wallich] n. 3097","","3097","",
+gcc-118912,A,Compositae,,Conyza,,"oxyodonta",,"","Wall. ex DC.",Synonym,,M,TICA,846AA691-C785-4ED1-9225-C414A51175C3,197574-1,"","","444","1836",gcc-136646
+gcc-94782,A,Compositae,,Conyza,,"pallida",,"","Zipp. ex Span.",Unresolved,,L,TICA,E7ACEDCA-2B02-4180-BA47-8DD0EA449D1D,197575-1,"Linnaea 15","","","1841",
+gcc-139888,A,Compositae,,Conyza,,"pallidiflora",,"","R.E.Fr.",Accepted,,M,TICA,186AA9AE-E4C1-488B-BCB4-F3B26C9FB370,197576-1,"","","124","1928",
+gcc-81001,A,Compositae,,Conyza,,"pampeana",,"","(Parodi) Cabrera",Accepted,,M,TICA,A96CEE38-86C7-405A-A8B2-6EDECF0F317B,64789-2,"","","481","1953",
+gcc-128430,A,Compositae,,Conyza,,"panamensis",,"","Willd.",Unresolved,,L,TICA,75A36193-C89A-4281-9239-D9FFD32F6ECC,197578-1,"","","1942","1803",
+gcc-125103,A,Compositae,,Conyza,,"paniculata",,"","Desf.",Synonym,,M,TICA,889751BA-8959-4A00-AA60-D24A1AF7E508,197581-1,"","","114","1815",gcc-98096
+gcc-136875,A,Compositae,,Conyza,,"pannosa",,"","Webb",Accepted,,M,TICA,3037F945-9300-46D5-A8F8-ED37195056B1,197582-1,"","","","1849",
+gcc-131290,A,Compositae,,Conyza,,"parva",,"","Cronquist",Synonym,,M,TICA,E4C91E64-B30E-4915-9ACD-E08F5983534E,294949-2,"Bull. Torrey Bot. Club 70","","632","1943",gcc-65215
+gcc-7621,A,Compositae,,Conyza,,"parvicapitulata",,"","Lisowski",Synonym,,M,TICA,358CB5E8-2258-4FB0-B99F-0E261CCF672B,960539-1,"","","84","1991",gcc-90901
+gcc-12870,A,Compositae,,Conyza,,"parvifolia",,"","(DC.) Wall.",Synonym,,M,TICA,6E0EC553-F52D-4850-8508-17FF2D45CA28,,"","","","",gcc-143886
+gcc-38273,A,Compositae,,Conyza,,"patens",,"","Phil.",Synonym,,M,TICA,BCE3CC7A-22AD-47A4-A319-46FD4225C7B2,64790-2,"Anales Univ. Chile 87","","691","1894",gcc-112185
+gcc-133559,A,Compositae,,Conyza,,"patula",,"","Dryand. ex Dryand.",Synonym,,M,TICA,DE752A8D-551B-4421-9A64-E5BF12D502C6,,"","","184","1789",gcc-115562
+gcc-36493,A,Compositae,,Conyza,,"pauciflora",,"","Willd.",Synonym,,M,TICA,10F33634-B986-46C0-B56E-43AD43477BFB,197587-1,"","","1927","1803",gcc-10881
+gcc-2472,A,Compositae,,Conyza,,"paucifolia",,"","Wall.",Unresolved,,L,TICA,7FD2AAD8-2832-4F15-8C71-0481528B842F,,"Numer. List [Wallich] n. 3037","","3037","",
+gcc-115386,A,Compositae,,Conyza,,"paulseni",,"","Phil.",Synonym,,M,TICA,64DC4157-1D42-45BB-B134-BC06F7CE4D46,64791-2,"","","682","1894",gcc-92157
+gcc-34128,A,Compositae,,Conyza,,"pectinata",,"","(Sch.Bip.) Sch.Bip. ex Oliv. & Hiern",Accepted,,L,TICA,76C7B0F8-7502-4211-998F-3F430FBE3E34,197590-1,"","","315","1877",
+gcc-117762,A,Compositae,,Conyza,,"pedunculata",,"","Mill.",Synonym,,M,TICA,368535A6-02E3-4638-AD10-C166090CE40A,197591-1,"","","15","1768",gcc-146742
+gcc-23106,A,Compositae,,Conyza,,"pedunculata",,"","(Oliv.) Wild",Synonym,Illegitimate,M,TICA,A56A9FC2-A34B-45B9-83ED-2AC78F2E90C5,,"","","260","1969",gcc-128162
+gcc-139080,A,Compositae,,Conyza,,"pencana",,"","Phil.",Accepted,,M,TICA,FCBF8CD2-01E8-4790-BC49-F1F1029A5406,64793-2,"Anales Univ. Chile 87","","695","1894",
+gcc-119502,A,Compositae,,Conyza,,"perennis",,"","Hand.-Mazz.",Accepted,,M,TICA,688C7A7E-335D-4990-89D8-C54D5C4B29DE,197594-1,"Notizbl. Bot. Gart. Berlin-Dahlem 13","","630","1937",
+gcc-104562,A,Compositae,,Conyza,,"perijaensis",,"","S.Díaz & A.Correa",Accepted,,M,TICA,B9AE008A-3738-4B09-8A48-A3C583FA6F8E,,"","","","2001",
+gcc-134940,A,Compositae,,Conyza,,"perrieri",,"","Humbert",Accepted,,M,TICA,B4DC86F4-8968-49E6-A969-E8D865AC0FDD,,"","","","1923",
+gcc-117702,A,Compositae,,Conyza,,"persica",,"","Boiss.",Synonym,,M,TICA,FB62DA5C-C5A2-427E-94D7-C13F76D339F0,,"","","81","1846",gcc-127244
+gcc-836,A,Compositae,,Conyza,,"persicariifolia",,"","(Benth.) Oliv. & Hiern",Synonym,,M,TICA,189F26F7-CBD0-4F3E-BD26-0193E0F2F610,,"","","","",gcc-112337
+gcc-122712,A,Compositae,,Conyza,,"persicifolia",,"","(Benth.) Oliv. & Hiern",Synonym,Illegitimate,M,TICA,01934E5F-C31A-4954-8B64-CC990BA11469,197597-1,"Flora of Tropical Africa 3:","","312","1877",gcc-112337
+gcc-30202,A,Compositae,,Conyza,,"petiolaris",,"","Wall.",Unresolved,,L,TICA,4F9179A3-E540-498E-85F1-37E9BE407E0E,,"Numer. List [Wallich] n. 3282","","3282","",
+gcc-129318,A,Compositae,,Conyza,,"pinifolia",,"","Bory",Unresolved,,L,TICA,B0FACDE1-CEBF-4F39-A7BF-DBFF1C2CEDB8,,"","","","1804",gcc-46591
+gcc-146313,A,Compositae,,Conyza,,"pinifolia",,"","Lam.",Synonym,,M,TICA,E571A831-717D-4566-88F9-160C68E9B9C1,,"Dict. 2: 86. 17--.","","86","",gcc-134991
+gcc-102313,A,Compositae,,Conyza,,"pinnata",,"","(L.f.) Kuntze",Accepted,,M,TICA,A90854C6-7282-4D7D-B3D4-9ED6185ED318,,"","","","1898",
+gcc-15389,A,Compositae,,Conyza,,"pinnata",,"","Druce",Unresolved,,L,TICA,6BC4D192-B17F-40D7-A29F-1C7F7D8A43CE,197602-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 616 (1917)""","","616","1917",
+gcc-142079,A,Compositae,,Conyza,,"pinnatifida",,"","Franch.",Synonym,Illegitimate,M,TICA,746C776E-9FA1-40B7-A600-F8DBFDB08E72,197605-1,"","","381","1896",gcc-113128
+gcc-47132,A,Compositae,,Conyza,,"pinnatifida",,"","(Thunb.) Less.",Accepted,,M,TICA,126023A8-DEE8-4019-8E87-57538A9282A8,197603-1,"","","204","1832",
+gcc-8821,A,Compositae,,Conyza,,"pinnatifida",,"","Dunn",Synonym,Illegitimate,M,TICA,2B08B486-693E-4DC3-A73E-1085306B5044,197606-1,"","","502","1903",gcc-113128
+gcc-92063,A,Compositae,,Conyza,,"pinnatifida",,"","Buch.-Ham. ex Roxb.",Synonym,Illegitimate,M,TICA,2C8A1588-7799-4755-BE51-87C4503DE159,197604-1,"","","430","1832",gcc-25980
+gcc-30191,A,Compositae,,Conyza,,"pinnatilobata",,"","DC.",Synonym,,M,TICA,D66AB7D2-8821-4C80-8811-37E1F4306CB0,197607-1,"","","387","1836",gcc-102313
+gcc-155893,A,Compositae,,Conyza,,"pinnatilobata",var.,"pinnatilobata","",Synonym,,L,TICA,6151D66D-0C93-4E1C-BFC5-E1F5DE4A183C,,"","","","",gcc-102313
+gcc-106183,A,Compositae,,Conyza,,"platensis",,"","Spreng.",Synonym,,M,TICA,8E0A7C4F-67FC-481D-BD4A-A733E927F16B,309459-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 509","","509","1826",gcc-76304
+gcc-124440,A,Compositae,,Conyza,,"platylepis",,"","Spreng. ex DC.",Synonym,,M,TICA,0FE3F754-784A-44EA-87BC-D0B2BF2C627A,197609-1,"","","31","1836",gcc-24391
+gcc-52150,A,Compositae,,Conyza,,"plebeja",,"","Phil.",Synonym,,M,TICA,C3FB80AA-9CB9-484F-93D6-60BC80A1CD55,64795-2,"Anales Univ. Chile 87","","685","1894",gcc-32032
+gcc-4281,A,Compositae,,Conyza,,"podocephala",,"","DC.",Accepted,,M,TICA,330CC5BE-5B2B-4056-9778-07F1D63C4DEF,197611-1,"","","387","1836",
+gcc-145559,A,Compositae,,Conyza,,"podocephala",var.,"podocephala","",Synonym,,L,TICA,737B7424-F3C8-4867-A25C-0680522428E2,,"","","","",gcc-4281
+gcc-134170,A,Compositae,,Conyza,,"polycephala",,"","Edgew.",Synonym,,M,TICA,CEEB12DF-E2BA-47C4-B288-E72B24EC86A3,,"","","66","",gcc-26598
+gcc-129520,A,Compositae,,Conyza,,"polygonata",,"","Wall.",Unresolved,,L,TICA,6C980447-F9A9-46C3-84D0-DC6FAF25D368,,"Numer. List [Wallich] n. 3010","","3010","",
+gcc-50304,A,Compositae,,Conyza,,"polystachya",,"","Michx.",Unresolved,,L,TICA,236CEF6A-6699-496A-8BF4-5D4A782C509B,,"Flora Boreali-Americana 2:","","126","1803",
+gcc-39818,A,Compositae,,Conyza,,"ponae",,"","Sieber ex Tausch",Synonym,,M,TICA,27F5D07B-6B21-4FA2-B314-49E53D2EEA26,,"","","","1829",gcc-16988
+gcc-91555,A,Compositae,,Conyza,,"popayanensis",,"","(Hieron.) Pruski",Accepted,,M,TICA,FD4A9485-DB5B-4AA1-81C4-86A2BD1A4E2C,,"","","2032-2033","2005",
+gcc-93390,A,Compositae,,Conyza,,"populifolia",,"","Lam.",Synonym,,M,TICA,9B81432B-CA0C-4439-B088-8A9F6F5A1304,197615-1,"","","87","1786",gcc-97253
+gcc-139869,A,Compositae,,Conyza,,"portoricensis",,"","Berl. ex DC.",Synonym,Illegitimate,M,TICA,DAE2F924-CC71-435D-B9FF-F3A8FFEA0D55,197616-1,"Prodr. 5","","52","1836",gcc-129794
+gcc-137717,A,Compositae,,Conyza,,"pratensis",,"","Phil.",Synonym,,M,TICA,CDA357BB-B2F0-4020-89E1-EF0FBA432520,197617-1,"Linnaea 28","","736","1858",gcc-23962
+gcc-36185,A,Compositae,,Conyza,,"primulifolia",,"","(Lam.) Cuatrec. & Lourteig",Synonym,,M,TICA,F3CCEEC6-2608-438B-B03C-4318E40AF7EE,274875-2,"Phytologia 58: 475. 1985","","475","1985",gcc-12546
+gcc-138320,A,Compositae,,Conyza,,"principis",,"","Gagnep.",Accepted,,M,TICA,1A081358-ABA4-4641-B2DF-F054B713CD99,197618-1,"Bull. Soc. Bot. France 68","","1921","1921",
+gcc-127512,A,Compositae,,Conyza,,"procera",,"","Wall.",Synonym,,M,TICA,2B665C4D-684F-4513-A809-D7CFCCD94731,197619-1,"Numer. List [Wallich] n. 3050","","3050","1831",gcc-49858
+gcc-139562,A,Compositae,,Conyza,,"procera",,"","(Cass.) Desf.",Synonym,,M,TICA,266A1326-F2A6-4613-AA0C-F2FF4B5B802A,197620-1,"","","164","1829",gcc-12546
+gcc-96707,A,Compositae,,Conyza,,"procumbens",,"","Balb.",Accepted,,M,TICA,D9F03DE1-9607-4538-B862-9236816B4FDC,,"","","","1804",
+gcc-19293,A,Compositae,,Conyza,,"prolialba",,"","Cuatrec.",Accepted,,M,TICA,EA9EC680-BFEB-4A24-BF0F-23A847CDF75B,274876-2,"Phytologia 9: 3. 1963","","3","1963",
+gcc-154113,A,Compositae,,Conyza,,"prolialba",var.,"prolialba","",Synonym,,L,TICA,894F22B8-DE8D-45C6-A00A-BCC0436B229F,,"","","","",gcc-19293
+gcc-68643,A,Compositae,,Conyza,,"prolialba",var.,"subspicata","(Benth.) Cuatrec.",Synonym,,L,TICA,7991D701-EDCA-4272-9F33-E04BE9C534C2,64797-2,"Phytologia 9","","5","1963",gcc-104037
+gcc-21305,A,Compositae,,Conyza,,"prolifera",,"","Lam.",Unresolved,,L,TICA,2530F62F-9380-49ED-9CFE-276038BA6DA8,197623-1,"","","84","1786",
+gcc-40035,A,Compositae,,Conyza,,"prostrata",,"","Ten.",Synonym,,M,TICA,86738CFA-BE2A-4634-9644-4A471C057474,,"","","","1819",gcc-96707
+gcc-105557,A,Compositae,,Conyza,,"proteiformis",,"","Perr. ex DC.",Synonym,,L,TICA,275CB3FA-91BA-4ABA-96AB-A5D44C131710,197625-1,"","","376","1836",gcc-92469
+gcc-110366,A,Compositae,,Conyza,,"pterocaulon",,"","Bolle",Accepted,,M,TICA,E817AF1A-F9C3-414C-99FE-B0B8A3B67D9B,197626-1,"","","295","1859",
+gcc-20143,A,Compositae,,Conyza,,"pubescens",,"","DC.",Synonym,,M,TICA,C9D816EB-862E-4FCA-B1C9-253B66BF6DEA,197627-1,"","","381","1836",gcc-121646
+gcc-20992,A,Compositae,,Conyza,,"pubigera",,"","L.",Synonym,,M,TICA,DC5AC415-347C-4675-8300-26CCB764855B,197628-1,"","","113","1767",gcc-90708
+gcc-88426,A,Compositae,,Conyza,,"pulchella",,"","Kunth",Synonym,,M,TICA,260D4F2A-0CE2-4692-8954-7F62D04B300B,,"","","","1820 [1818]",gcc-33833
+gcc-138422,A,Compositae,,Conyza,,"pulcherrima",,"","M.E.Jones",Synonym,,M,TICA,E74ED6E0-E975-41F5-BD2C-F08906D75D91,64798-2,"Contr. W. Bot. 12","","47","1908",gcc-140692
+gcc-144817,A,Compositae,,Conyza,,"pulchra",,"","Lam. ex Steud.",Synonym,,M,TICA,776B4975-A0BE-4652-87A1-FEF79EAA760C,197631-1,"","","415","1840",gcc-17401
+gcc-80461,A,Compositae,,Conyza,,"pulsatilloides",,"","O.Hoffm.",Accepted,,M,TICA,33B1392B-0A7A-43C9-ABD2-6DA49F530C60,,"","","225","1894",
+gcc-110629,A,Compositae,,Conyza,,"pumila",,"","Sibth. & Sm.",Unresolved,,L,TICA,A892FB46-5140-417A-851F-B15267BD96B4,197633-1,"Fl. Graec. Prod. ii. 173.","","ii. 173","",
+gcc-111836,A,Compositae,,Conyza,,"pumila",,"","Lam. ex Pers.",Unresolved,,L,TICA,A1FF21A1-1E7E-45A5-82FA-B41186D94142,197634-1,"","","427","1807",
+gcc-19318,A,Compositae,,Conyza,,"pumila",,"","Sm.",Synonym,,M,TICA,EB2388A6-1B73-4645-ADDF-23B5A6774F6D,197633-1,"","","173","1813",gcc-2059
+gcc-122930,A,Compositae,,Conyza,,"punctata",,"","Willd.",Synonym,,M,TICA,5400726E-387E-45F1-B950-CD228B6BBDA8,,"","","1937","",gcc-129578
+gcc-40008,A,Compositae,,Conyza,,"punctulata",,"","Wall.",Unresolved,,L,TICA,25D7603F-AF48-482C-94DE-4A3ADDE8889E,,"Numer. List [Wallich] n. 2995","","2995","",
+gcc-90722,A,Compositae,,Conyza,,"punduana",,"","Wall.",Unresolved,,L,TICA,338FC9F5-7980-4BE8-8F74-84C1C475560F,,"Numer. List [Wallich] n. 3035","","3035","",
+gcc-117131,A,Compositae,,Conyza,,"punensis",,"","Cabrera",Synonym,,M,TICA,ADCCDE52-4E98-4E2B-9BFC-BFF5F5FDB655,64800-2,"","","403","1958",gcc-102999
+gcc-107296,A,Compositae,,Conyza,,"pungens",,"","Lam.",Synonym,,M,TICA,18593662-0002-443E-965A-A9C391004076,197639-1,"","","86","1786",gcc-33088
+gcc-86708,A,Compositae,,Conyza,,"purpurascens",,"","Sw.",Synonym,Illegitimate,L,TICA,CB9871DD-99DE-410D-AE9E-7B83C0FD8B06,64801-2,"Prodr. (Swartz) 112","","112","1788",gcc-91980
+gcc-111982,A,Compositae,,Conyza,,"purpurea",,"","Buch.-Ham.",Unresolved,,L,TICA,B6FA2867-B822-4161-88E6-B45E70F8B27C,,"Numer. List [Wallich] n. 3076","","3076","",
+gcc-14121,A,Compositae,,Conyza,,"pusilla",,"","Kunth",Synonym,Illegitimate,M,TICA,E47597B2-BE04-4D46-AA7C-1A3029C70836,,"","","54","",gcc-118061
+gcc-8860,A,Compositae,,Conyza,,"pusilla",,"","Houtt.",Accepted,,M,TICA,13881EFB-875E-4CE7-9AE8-10961DD479FD,,"","","618","",
+gcc-131067,A,Compositae,,Conyza,,"pycnantha",,"","Sennen",Unresolved,,L,TICA,2B42D74D-4BA8-48F3-A5DB-DFFF6CF7BBDF,,"","","","1929",
+gcc-78358,A,Compositae,,Conyza,,"pycnophylla",,"","Phil.",Accepted,,M,TICA,C8414E3C-AEEA-4EC4-8CE7-68F5804A02B7,64803-2,"Anales Univ. Chile 87","","693","1894",
+gcc-98590,A,Compositae,,Conyza,,"pycnostachya",,"","Michx.",Synonym,,M,TICA,C6ECA318-B402-4EC1-935B-9677C404EBAE,197646-1,"","","126","1803",gcc-23334
+gcc-76206,A,Compositae,,Conyza,,"pygmaea",,"","Sieber",Synonym,,M,TICA,F0541EDF-EB77-44C7-A559-642F8A5A70AF,197647-1,"Reise Kreta 2","","322","1823",gcc-2059
+gcc-21501,A,Compositae,,Conyza,,"pyrifolia",,"","Lam.",Synonym,,M,TICA,70C2C957-6F95-4E58-B788-27C1B762479D,197648-1,"Encycl. 2","","89","1786",gcc-26588
+gcc-112229,A,Compositae,,Conyza,,"pyrrhopappa",,"","Sch.Bip. ex A.Rich.",Accepted,,L,TICA,5EF259FB-A165-4C98-8823-B4EAA1B46B5F,,"","","389","",
+gcc-40623,A,Compositae,,Conyza,,"pyrrhopappa",subsp.,"oblongifolia","(O.Hoffm.) Wild",Synonym,,L,TICA,12AE738A-8B22-4FB1-BD00-4B4D3BA2EEBF,,"""Bol. Soc. Brot., II, 43: 266 (1969)""","","266","1969",gcc-112229
+gcc-3630,A,Compositae,,Conyza,,"pyrrhopappa",subsp.,"pyrrhopappa","",Synonym,,L,TICA,0969C1D2-2B82-4830-8784-06B4DC63E8F0,,"","","","",gcc-112229
+gcc-13282,A,Compositae,,Conyza,,"racemosa",,"","Wall.",Unresolved,,L,TICA,87848934-0DBB-42C7-A221-18C35AC14FD4,,"Numer. List [Wallich] n. 3002","","3002","",
+gcc-50011,A,Compositae,,Conyza,,"racemosa",,"","Spreng.",Unresolved,,L,TICA,51BD1E43-D46F-4AC9-8E3C-5CBBD638194B,197650-1,"","","508","1826",gcc-11256
+gcc-116449,A,Compositae,,Conyza,,"ramiflora",,"","Spreng.",Synonym,,M,TICA,747A30FC-2937-4A0C-BB35-BE6FC4A80386,197652-1,"","","509","1826",gcc-125602
+gcc-103430,A,Compositae,,Conyza,,"ramosissima",,"","Cronquist",Accepted,,M,TICA,75A9882F-0771-4846-91A2-A13E903D3AEF,294948-2,"Bull. Torrey Bot. Club 70","","632","1943",
+gcc-95203,A,Compositae,,Conyza,,"redolens",,"","G.Forst. ex Willd.",Synonym,,M,TICA,3EC1A067-E35F-4BE1-BAF5-8EBED1C17057,197654-1,"","","1951","1803",gcc-117303
+gcc-50871,A,Compositae,,Conyza,,"reitziana",,"","Cabrera",Accepted,,M,TICA,0622996F-7014-4385-940D-5E5E65C84784,64806-2,"Bol. Soc. Argent. Bot. 7","","193","1959",
+gcc-88202,A,Compositae,,Conyza,,"repanda",,"","Roxb.",Synonym,,M,TICA,0674EEC1-A9E2-4425-B5FA-7EED69471EA7,,"","","431","1832",gcc-49858
+gcc-144395,A,Compositae,,Conyza,,"retirensis",,"","Cabrera",Accepted,,M,TICA,747A40DB-978F-419F-AAF0-FDFB728F3D96,64807-2,"Bol. Soc. Argent. Bot. 7","","196","1959",
+gcc-109605,A,Compositae,,Conyza,,"retusa",,"","Lam.",Unresolved,,L,TICA,43D21250-0B43-4AB5-8B94-AF069783B31D,197658-1,"","","90","1786",
+gcc-143596,A,Compositae,,Conyza,,"rhizocephala",,"","(Schrenk) Rupr.",Synonym,,M,TICA,8992B3BF-3C28-4E7F-8B4A-FC40E7E1A195,,"Sertum Tianschanicum","","51","1869",gcc-96152
+gcc-82283,A,Compositae,,Conyza,,"rigida",,"","Sw.",Synonym,,M,TICA,1A5109DC-41BF-44D2-93AF-71B13AF2873B,64821-2,"Prodr. (Swartz) 113","","113","1788",gcc-27744
+gcc-101172,A,Compositae,,Conyza,,"riparia",,"","(Ruiz & Pav.) Kunth",Synonym,,M,TICA,4A2CBBA2-A829-464C-882A-9C40A24A670C,,"","","60","1820 [1818]",gcc-17281
+gcc-115898,A,Compositae,,Conyza,,"riparia",,"","Blume",Synonym,,M,TICA,3F6E8B94-CB39-450E-AF7E-BD3748E92CEF,197660-1,"","","899","1826",gcc-3133
+gcc-122417,A,Compositae,,Conyza,,"rivularis",,"","Gardner",Synonym,,M,TICA,8F8BDD84-BCA2-4174-A36E-CBF5B6E2512C,311700-2,"London J. Bot. 4","","124","1845",gcc-15219
+gcc-100433,A,Compositae,,Conyza,,"robusta",,"","Roxb.",Synonym,,M,TICA,09E938E0-5300-4782-AF31-9A9D11E3C1E4,197663-1,"","","304","1816",gcc-119371
+gcc-89844,A,Compositae,,Conyza,,"rouyana",,"","Sennen",Unresolved,,L,TICA,B59A1E89-287F-42F1-A98A-82AABD5067B4,,"Bol. Soc. Arag.","","","",
+gcc-5659,A,Compositae,,Conyza,,"roylei",,"","DC.",Synonym,,L,TICA,6A1FB648-749D-4F86-B38B-0A8A339407D9,197666-1,"","","381","1836",gcc-17254
+gcc-119376,A,Compositae,,Conyza,,"rubra",,"","Buch.-Ham. ex DC.",Synonym,,L,TICA,F5C2BE51-3EA1-48D5-9B20-C505E15B529C,197667-1,"","","376","1836",gcc-92469
+gcc-78793,A,Compositae,,Conyza,,"rubricaulis",,"","R.E.Fr.",Synonym,,M,TICA,0774A3EE-85B6-420E-BB14-69FA5F385E07,,"","","123","",gcc-138007
+gcc-35901,A,Compositae,,Conyza,,"ruderalis",,"","Phil.",Accepted,,M,TICA,4ED7C974-BC82-4237-9080-42949020CC00,64823-2,"Anales Univ. Chile 87","","694","1894",
+gcc-118819,A,Compositae,,Conyza,,"rudis",,"","Willd. ex Steud.",Unresolved,,L,TICA,BAE891A4-CE20-440F-A610-C3DA2DCCDDD6,197670-1,"","","415","1840",
+gcc-39222,A,Compositae,,Conyza,,"rufa",,"","Wall.",Unresolved,,L,TICA,557AA867-35B2-453F-AB6C-48C6303CA385,,"Numer. List [Wallich] n. 3079","","3079","",
+gcc-43603,A,Compositae,,Conyza,,"rufa",,"","Wall. ex DC.",Accepted,,M,TICA,81469273-A48B-4FAC-92F7-50D5F857501F,197672-1,"","","384","1836",
+gcc-86337,A,Compositae,,Conyza,,"rufescens",,"","Hoffmanns. & Link",Synonym,,M,TICA,E8339892-69B9-4433-8C49-7AAEBDF5208E,,"","","","1825",gcc-32032
+gcc-10733,A,Compositae,,Conyza,,"rufidula",,"","Spreng.",Unresolved,,L,TICA,73DA6572-2EC1-418B-BB7E-14125FF03389,,"","","","1821",
+gcc-144281,A,Compositae,,Conyza,,"rugosa",,"","Vahl",Synonym,Illegitimate,M,TICA,EA193BCB-9DB4-4557-B3D5-FDBD049CF2ED,197676-1,"","","71","1790",gcc-68082
+gcc-42550,A,Compositae,,Conyza,,"rugosa",,"","Dryand.",Unresolved,,L,TICA,43C0E3E6-574D-4BF0-B9B2-4ECBFF939555,197675-1,"Hortus Kew. (W. Aiton) 3: 184","","184","1789",
+gcc-96021,A,Compositae,,Conyza,,"rugosa",,"","Dryand. ex Aiton",Synonym,,M,TICA,A4B80CC0-8620-4F91-A86A-90A444A41B3C,,"Hort. Kew. 3: 184 (1789)","","184","1789",gcc-91412
+gcc-87974,A,Compositae,,Conyza,,"runcinata",,"","Wall.",Unresolved,,L,TICA,454D6F15-8D54-4EF0-BDBB-7E62CCF0D46B,197677-1,"","","","1856",gcc-17124
+gcc-110040,A,Compositae,,Conyza,,"rupestris",,"","L.",Synonym,,M,TICA,1C454279-FF0C-4339-9ACA-AFFC18503864,197678-1,"","","113","1767",gcc-8855
+gcc-20545,A,Compositae,,Conyza,,"rutilans",,"","Poir.",Synonym,,M,TICA,69F45AAE-7E46-4D1B-A8A2-260301F4CA6A,197679-1,"","","341","1811",gcc-41661
+gcc-119289,A,Compositae,,Conyza,,"ruwenzoriensis",,"","(S.Moore) R.E.Fr.",Accepted,,M,TICA,CC69782F-7D61-43FD-86A3-C4D41CF34C7B,197680-1,"","","331","1916",
+gcc-132653,A,Compositae,,Conyza,,"sagittalis",,"","Lam.",Synonym,,L,TICA,4E6C1885-E0AD-465F-99E4-E3B860665C23,197681-1,"","","94","1786",gcc-116884
+gcc-127666,A,Compositae,,Conyza,,"salicifolia",,"","Mill.",Synonym,,M,TICA,3DD200A1-3737-4609-9420-D833EF690A05,197682-1,"","","6","1768",gcc-151255
+gcc-9678,A,Compositae,,Conyza,,"salicifolia",,"","Lam.",Synonym,Illegitimate,M,TICA,63F57B51-4516-4103-8B29-12124B652C66,197683-1,"","","89","1786",gcc-44027
+gcc-156517,A,Compositae,,Conyza,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,91F9AB48-EA22-4AB8-9E60-EEBF0E4D0592,,"","","","",gcc-44027
+gcc-138602,A,Compositae,,Conyza,,"salicina",,"","(L.) Rupr.",Synonym,,M,TICA,73213317-A189-4570-A6A2-F0F5A73DE617,197685-1,"","","568","1860",gcc-4252
+gcc-86559,A,Compositae,,Conyza,,"salicina",,"","Kellogg",Unresolved,,L,TICA,C30D57D1-629E-4D18-809C-7B2DCD9D9E71,197684-1,"Proc. Calif. Acad. Sci. 3","","36","1863",
+gcc-122208,A,Compositae,,Conyza,,"saligna",,"","Wall.",Synonym,Illegitimate,M,TICA,3275C9BD-E301-42E6-8A36-CB83CFA60C7B,,"Numer. List [Wallich] n. 3061","","","1831",gcc-90880
+gcc-36812,A,Compositae,,Conyza,,"salsoloides",,"","Turcz.",Synonym,,M,TICA,1A81215C-3D07-4A5C-8AF2-443E245D360E,197687-1,"","","197","1832",gcc-97873
+gcc-82097,A,Compositae,,Conyza,,"saltensis",,"","Cabrera",Accepted,,M,TICA,808F900F-4D0F-4AAA-8A62-7147DABB4FC4,64827-2,"Bol. Soc. Argent. Bot. 14","","351","1972",
+gcc-114122,A,Compositae,,Conyza,,"salvifolia",,"","Bory",Synonym,,L,TICA,62761C73-1FAE-44D7-89B1-B92232C1CF77,197689-1,"","","176","1804",gcc-36191
+gcc-129824,A,Compositae,,Conyza,,"sarmentosa",,"","Humbert",Accepted,,M,TICA,B1C38345-2B6E-4C2A-A54F-DD2267F9C104,,"","","","1923",
+gcc-114867,A,Compositae,,Conyza,,"saxatilis",,"","Zoll. ex C.B.Clarke",Synonym,,M,TICA,61E08794-D046-48C1-B0B6-BAD97607C0CB,197691-1,"","","90","1876",gcc-102702
+gcc-135569,A,Compositae,,Conyza,,"saxatilis",,"","Ten.",Unresolved,,L,TICA,A0376D9A-0B42-49BB-B1BE-EA4A61C27905,,"","","","1820",
+gcc-31403,A,Compositae,,Conyza,,"saxatilis",,"","L.",Synonym,,M,TICA,15419E0C-85CE-4957-95C2-3A2CE696C4FA,197692-1,"","","1206","1763",gcc-27942
+gcc-97883,A,Compositae,,Conyza,,"saxatilis",,"","Sibth. & Sm.",Unresolved,,L,TICA,544825F3-AA69-45F7-9D0F-94DDD57CA56C,197694-1,"Fl. Graec. t. 862.","","t. 862","",
+gcc-124693,A,Compositae,,Conyza,,"scabiosifolia",,"","J.Rémy",Synonym,,M,TICA,65018F6B-0423-486B-B481-D147EDC5BCCA,197695-1,"Fl. Chil. 4","","74","1849",gcc-12546
+gcc-27495,A,Compositae,,Conyza,,"scabra",,"","L.",Unresolved,,L,TICA,0991FEE3-0755-4FAA-9957-32D512EC8590,197696-1,"","","","1767",
+gcc-107988,A,Compositae,,Conyza,,"scabrida",,"","DC.",Accepted,,M,TICA,163368D9-49FB-4231-81AF-AB5A93A050B1,197697-1,"","","387","1836",
+gcc-6775,A,Compositae,,Conyza,,"scabrida",,"","(DC.) DC. ex Miq.",Synonym,Illegitimate,M,TICA,FFCB4CCB-1930-488B-A8CF-0C90EC328E7A,,"Fl. Ned. Ind. 2 (1856)","","59","1856",gcc-107173
+gcc-14464,A,Compositae,,Conyza,,"scandens",,"","Wall.",Unresolved,,L,TICA,791030BB-DCA8-40B2-86F6-1AD80133B447,,"Numer. List [Wallich] n. 3060","","3060","",
+gcc-26568,A,Compositae,,Conyza,,"scandens",,"","Mill.",Synonym,,M,TICA,7DEF1CDB-F015-4F2E-B7C1-3119ADFAC141,,"","","","1768",gcc-108379
+gcc-9290,A,Compositae,,Conyza,,"scandeus",,"","Mill.",Unresolved,,L,TICA,F08DA4D8-5E87-4137-AF31-1155411AD1B7,,"""Gard. Dict., ed. 8. n. 11""","","11","1768",
+gcc-130458,A,Compositae,,Conyza,,"scariosa",,"","S.Moore",Unresolved,,L,TICA,565837C0-EC73-46C1-AE1D-DE9941487FE1,197700-1,"","","258","1908",
+gcc-104037,A,Compositae,,Conyza,,"schiedeana",,"","(Less.) Cronquist",Accepted,,M,TICA,54F53AF6-43B5-4F49-B739-A2A70F457B88,64828-2,"Bull. Torrey Bot. Club 70","","632","1943",
+gcc-87285,A,Compositae,,Conyza,,"schimperi",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,E6D12DCA-4430-4CAC-B54A-7CEEB10DB443,,"","","386","",
+gcc-42500,A,Compositae,,Conyza,,"schimperi",var.,"adoensis","Vatke",Synonym,,L,TICA,9185CDE9-69A0-47AF-88EA-4EB46E0276CD,,"Linnaea 39: 482 (1875)","","482","1875",gcc-87285
+gcc-67526,A,Compositae,,Conyza,,"schimperi",var.,"bipontini","Vatke",Synonym,,L,TICA,522B514C-1D52-4EF5-ADDF-D7E4284A7920,,"Linnaea 39: 482 (1875)","","482","1875",gcc-87285
+gcc-56046,A,Compositae,,Conyza,,"schimperi",subsp.,"longipapposa","R.E.Fr.",Synonym,,L,TICA,D0596FDF-F11A-49C5-B7F5-7B48B2744626,,"Acta Horti Berg. 9: 127 (1929)","","","1929",gcc-87285
+gcc-151905,A,Compositae,,Conyza,,"schimperi",var.,"schimperi","",Synonym,,L,TICA,0323A7C2-8CAF-446F-AC34-8E4CED6C8140,,"","","","",gcc-87285
+gcc-68538,A,Compositae,,Conyza,,"schimperi",subsp.,"schimperi","",Synonym,,L,TICA,A4244E73-BB14-47A8-8688-DF8FC6EF0435,,"","","","",gcc-87285
+gcc-132044,A,Compositae,,Conyza,,"schlechtendalii",,"","Bolle",Accepted,,M,TICA,617E6A20-80CA-40A3-9459-E258874DC271,197703-1,"","","294","1859",
+gcc-103751,A,Compositae,,Conyza,,"scorpioides",,"","Lam.",Synonym,,M,TICA,16425A65-F808-4827-A793-A1F7C5A1CB6A,309925-2,"Encycl. (Lamarck) 2(1): 88","","88","1786",gcc-45636
+gcc-111597,A,Compositae,,Conyza,,"semipinnatifida",,"","Wall.",Unresolved,,L,TICA,04740C6D-5EAA-4126-A6B9-B375873081C7,,"Numer. List [Wallich] n. 3058","","3058","",
+gcc-83624,A,Compositae,,Conyza,,"semipinnatifida",,"","Wall. ex DC.",Accepted,,M,TICA,DE710D81-4E1F-4E6C-9F29-74B5A4B41E1B,,"Prodr. 5: 382 (1836)","","382","1836",
+gcc-25085,A,Compositae,,Conyza,,"semivestita",,"","Wall.",Unresolved,,L,TICA,CB079687-9D26-4B3A-8DB3-2E52E8C5E57D,,"Numer. List [Wallich] n. 2996","","2996","",
+gcc-141206,A,Compositae,,Conyza,,"senecioides",,"","(Wedd.) Cabrera",Synonym,,L,TICA,6DD51905-066C-4535-8BCF-F6D502F36EC6,64830-2,"","","403","1958",gcc-100486
+gcc-49553,A,Compositae,,Conyza,,"senegalensis",,"","Willd.",Unresolved,,L,TICA,66383576-ADB3-48E2-812D-5BD8A445CC7B,197708-1,"","","1928","1803",
+gcc-81531,A,Compositae,,Conyza,,"senegalensis",,"","Sieber ex DC.",Synonym,,M,TICA,8214A65A-471F-4DA4-8FA9-7006E0080D3D,197709-1,"","","449","1836",gcc-146569
+gcc-89274,A,Compositae,,Conyza,,"sennii",,"","Chiov.",Accepted,,M,TICA,E4276C06-B276-4653-A395-8155A10BEC6B,,"","","","1940",
+gcc-103531,A,Compositae,,Conyza,,"sericea",,"","Bory",Synonym,,M,TICA,21C99501-0B57-49F3-92C8-A17CD15CE332,,"","","","1804",gcc-26514
+gcc-11762,A,Compositae,,Conyza,,"sericea",,"","Wall.",Unresolved,,L,TICA,1DA26CBE-7388-4068-82A9-15E5C76EDFC5,,"Numer. List [Wallich] n. 3021","","3021","",
+gcc-126963,A,Compositae,,Conyza,,"sericea",,"","Sol. ex Aiton",Synonym,,L,TICA,5F599EAE-E9DE-4E01-B446-D67F2A66C427,,"Hort. Kew. 3: 183 (1789)","","183","1789",gcc-136465
+gcc-87573,A,Compositae,,Conyza,,"sericea",,"","Sol.",Unresolved,,L,TICA,FB6A1DAF-8377-45A5-B9DF-7D93FEE7C9BD,197713-1,"Hortus Kew. (W. Aiton) 3: 183","","183","1789",
+gcc-46035,A,Compositae,,Conyza,,"serici-vestita",,"","Wall.",Unresolved,,L,TICA,CAFE2E3D-BE4A-4322-A393-5555241F917D,,"Numer. List [Wallich] n. 2996","","2996","",
+gcc-75523,A,Compositae,,Conyza,,"serpentaria",,"","Griseb.",Synonym,,M,TICA,CCE0C41D-4BDC-4265-9863-629E51932641,197715-1,"","","176","1879",gcc-33833
+gcc-105989,A,Compositae,,Conyza,,"serrana",,"","Cabrera",Accepted,,M,TICA,028A17FA-3E1F-493E-8AD9-A6CC13B28637,64831-2,"","","87","1963",
+gcc-83506,A,Compositae,,Conyza,,"serrata",,"","Bory ex DC.",Synonym,,M,TICA,C685391D-1040-4D54-B606-74719E661591,197717-1,"","","376","1838",gcc-3022
+gcc-105085,A,Compositae,,Conyza,,"serratifolia",,"","Baker",Synonym,,M,TICA,FAD60859-4185-41BB-B167-A4DFA107EBCE,,"","","488","",gcc-112337
+gcc-103994,A,Compositae,,Conyza,,"serrulata",,"","Lam.",Synonym,,M,TICA,B6055130-E56E-4E31-86FE-A2859BDC056B,197720-1,"","","85","1786",gcc-93943
+gcc-85410,A,Compositae,,Conyza,,"serrulata",,"","Wall.",Unresolved,,L,TICA,3BF69B4E-3FE3-4998-928E-789B04F9253B,,"Numer. List [Wallich] sub n. 3024","","3024","",
+gcc-90442,A,Compositae,,Conyza,,"serrulata",,"","C.B.Clarke",Unresolved,Illegitimate,L,TICA,2FBADE51-4AEC-495F-96F6-84065D477B27,197719-1,"","","64","1876",
+gcc-36507,A,Compositae,,Conyza,,"sessifolia",,"","Blume",Synonym,,M,TICA,59046864-C679-42CD-AD70-43B4E951296B,197722-1,"","","897","1826",gcc-42577
+gcc-131429,A,Compositae,,Conyza,,"sessiliflora",,"","(Decne) Decne ex Miq.",Synonym,,M,TICA,191E2401-6BC7-475C-81A4-E0DAC8A3ED1C,197723-1,"Fl. Ned. Ind. 2","","48","",gcc-77371
+gcc-126533,A,Compositae,,Conyza,,"sessilifolia",,"","Wall.",Unresolved,,L,TICA,2A622D5A-13C1-4DD3-B49E-D58CB01DD9CD,,"Numer. List [Wallich] n. 3029","","3029","",
+gcc-49199,A,Compositae,,Conyza,,"sessilifolia",,"","Steud.",Synonym,,M,TICA,4935F383-C82D-4EDE-9321-5B197169569D,197725-1,"","","415","1840",gcc-42577
+gcc-51715,A,Compositae,,Conyza,,"sessilifolia",,"","Blume",Unresolved,,L,TICA,050DD4D1-3D8D-4551-93C9-5FE3C4D89AC6,,"","","","",
+gcc-109502,A,Compositae,,Conyza,,"setosa",,"","(Baker) Malme",Synonym,,M,TICA,00828E3E-F7E4-4358-9A17-AECCB9CC93E9,,"Ark. Bot. 24A(6)","","50","",gcc-111873
+gcc-16005,A,Compositae,,Conyza,,"setschwanica",,"","Hand.-Mazz.",Synonym,,M,TICA,6E9573C5-6DD0-491E-B73D-1DA0C5FC713B,197728-1,"","","1095","1936",gcc-35230
+gcc-30640,A,Compositae,,Conyza,,"setulosa",,"","F.Phil. ex Phil.",Accepted,,M,TICA,55F21D2B-1222-4A8E-8218-38B8E1414A51,64833-2,"Anales Univ. Chile 87","","681","1894",
+gcc-111093,A,Compositae,,Conyza,,"sicula",,"","Willd.",Synonym,,M,TICA,F4FD1F90-A901-478F-9962-B25E3435ABE3,,"","","","",gcc-82774
+gcc-48247,A,Compositae,,Conyza,,"sinensis",,"","J.F.Gmel.",Synonym,,M,TICA,D59CD1D9-D451-4A0E-B90B-596D52615472,197731-1,"","","1221","1792",gcc-2823
+gcc-96873,A,Compositae,,Conyza,,"sinuata",,"","Elliott",Synonym,,M,TICA,DA171AA2-D354-4F7B-89B3-9283F51CFA42,197732-1,"","","323","1823",gcc-32032
+gcc-45797,A,Compositae,,Conyza,,"solidaginoides",,"","Wall.",Unresolved,,L,TICA,9464548F-F80F-449E-8C29-54EA94AD090C,,"Numer. List [Wallich] n. 3066","","3066","",
+tro-2702320,A,Compositae,,Conyza,,"sonariensis",,"","L.",Unresolved,,L,TRO,2702320,,"","","","",
+gcc-83777,A,Compositae,,Conyza,,"sonchifolia",,"","Buch.-Ham.",Unresolved,,L,TICA,886F5008-A019-4B0F-B21C-75034C523FAA,197734-1,"","","","1836",gcc-17124
+gcc-35102,A,Compositae,,Conyza,,"sophiifolia",,"","(ex H.B.K.) Kunth",Synonym,,M,TICA,388A3AB3-6741-46CE-A777-41188F7CD3B0,,"","","","1820",gcc-33833
+gcc-40887,A,Compositae,,Conyza,,"sordescens",,"","Cabrera",Synonym,,M,TICA,F81D4CE1-C449-41B2-8FB4-4BC440F8E084,294947-2,"","","481","1953",gcc-32032
+gcc-48024,A,Compositae,,Conyza,,"sordida",,"","L.",Synonym,,M,TICA,19192124-EFAF-46A0-9325-58FD4E93608C,197737-1,"","","466","1771",gcc-77789
+gcc-127917,A,Compositae,,Conyza,,"spartioides",,"","O.Hoffm.",Synonym,,M,TICA,2D0ED73B-0783-4031-8C44-D8D2908E2F14,,"","","224","1894",gcc-90928
+gcc-10199,A,Compositae,,Conyza,,"spathulata",,"","Hornem.",Unresolved,,L,TICA,DA59B249-CFC4-481C-AFF5-1311C3CE29CD,,"","","","1815",
+gcc-98330,A,Compositae,,Conyza,,"spathulifolia",,"","Maxim. ex Regel",Synonym,,M,TICA,09A5493B-0860-4EBE-AF68-95D8E1F6102A,197740-1,"","","109","1874",gcc-25980
+gcc-137138,A,Compositae,,Conyza,,"spatulata",,"","Link",Synonym,,M,TICA,9FB80BE8-1148-469D-B972-EDCC3A339230,,"","","","1822",gcc-37664
+gcc-40715,A,Compositae,,Conyza,,"spicata",,"","Phil.",Unresolved,,L,TICA,6D9A8420-6A6A-4F6F-8154-4B755EBC6432,64835-2,"Anales Univ. Chile","","679","1894",
+gcc-52250,A,Compositae,,Conyza,,"spicata",,"","Mill.",Unresolved,,L,TICA,66A5AB74-F88F-4370-92D5-60E68FAFEB70,197743-1,"","","14","1768",
+gcc-91226,A,Compositae,,Conyza,,"spicata",,"","Lam.",Synonym,Illegitimate,M,TICA,E0C00EEC-8227-40B0-B463-85E34C5EAB8A,197742-1,"Encycl. (Lamarck) 2(1): 93","","93","1786",gcc-23334
+gcc-35386,A,Compositae,,Conyza,,"spiciformis",,"","(Griseb.) Zardini",Accepted,,M,TICA,3C66FFAB-2FE6-4853-87E7-419C3D9AFC10,,"","","45","1976",
+gcc-112185,A,Compositae,,Conyza,,"spiculosa",,"","(Hook. & Arn.) Zardini",Accepted,,M,TICA,860C1D77-684D-4D5A-ADE4-B4D0ADA4598E,,"Bol. Soc. Argent. Bot. 17","","39","1976",
+gcc-120073,A,Compositae,,Conyza,,"spinellosa",,"","Miq.",Accepted,,M,TICA,E655AB26-C1F7-431B-9317-C6A408B3C2A1,,"","","45","1856",
+gcc-99552,A,Compositae,,Conyza,,"spinidens",,"","Miq.",Synonym,,M,TICA,C2F1F603-9ABE-4228-AB6A-98957CE6B765,,"Fl. Ned. Ind. 2","","44","1856",gcc-139509
+gcc-42818,A,Compositae,,Conyza,,"spinosa",,"","(Sch.Bip.) Sch.Bip. ex Oliv. & Hiern",Accepted,,L,TICA,16C90A8A-676B-4032-A2C7-4F4A2546FE24,197750-1,"","","312","1877",
+gcc-144938,A,Compositae,,Conyza,,"spinulosa",,"","Spreng.",Synonym,,M,TICA,C31E7BC6-9160-4A16-A8EE-FF4C5914D207,197751-1,"","","510","1826",gcc-137547
+gcc-113028,A,Compositae,,Conyza,,"splendens",,"","Spreng.",Synonym,Illegitimate,M,TICA,0A768572-17E2-4D95-ADD1-B6B84C36165F,197752-1,"","","509","1826",gcc-133639
+gcc-76354,A,Compositae,,Conyza,,"sprengelii",,"","Sch.Bip. ex Walp.",Unresolved,,L,TICA,D363D278-6403-44EF-BC20-647F14D2B782,,"","","958","1843",
+gcc-42914,A,Compositae,,Conyza,,"squamata",,"","Spreng.",Synonym,,M,TICA,516BEFC6-A1D2-4BAF-904B-4F7E7FB4A609,310162-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 515","","515","1826",gcc-138398
+gcc-17984,A,Compositae,,Conyza,,"squamosa",,"","Bory",Synonym,,M,TICA,E020DD03-7948-4DE2-AE77-213CE65C999C,,"","","","1804",gcc-28920
+gcc-106833,A,Compositae,,Conyza,,"squarrosa",,"","Georgi",Unresolved,,L,TICA,D78A6081-B7AC-4D7B-B8FC-A8B926F1249C,,"It. i. 229.","","229","",
+gcc-35477,A,Compositae,,Conyza,,"squarrosa",,"","Wall.",Unresolved,,L,TICA,CF708DB8-1402-4A2B-95A1-41C6CC7647E7,,"Numer. List [Wallich] n. 3025","","3025","",
+gcc-37885,A,Compositae,,Conyza,,"squarrosa",,"","L.",Synonym,,M,TICA,81CAE064-9AF6-49E8-97ED-4644B75AC329,197757-1,"","","861","1753",gcc-87765
+gcc-142444,A,Compositae,,Conyza,,"stachyoides",,"","Spreng. ex DC.",Synonym,,M,TICA,E604BCA7-9FB8-47AD-BF1B-F9A3EE044556,197759-1,"","","442","1836",gcc-26471
+gcc-145120,A,Compositae,,Conyza,,"steetzii",,"","Griseb.",Unresolved,,L,TICA,FDB7D730-8CB8-4778-81DF-FFB2AE1B080C,197760-1,"","","","1878",
+gcc-84139,A,Compositae,,Conyza,,"stellata",,"","Spreng.",Synonym,,M,TICA,CD04E416-B124-4D2F-995E-75DEC2447985,,"Neue Entdeck. Pflanzenk. 2: 142. 1820","","142","1820",gcc-10047
+gcc-140780,A,Compositae,,Conyza,,"stenodonta",,"","Baker",Synonym,,L,TICA,6DDB3646-A95C-4231-BAAC-F5DD660D04D4,197762-1,"","","316","1895",gcc-106622
+gcc-50530,A,Compositae,,Conyza,,"stenophylla",,"","Phil.",Accepted,,M,TICA,8A6165FD-1901-4A28-A153-5DAB0693AB7F,64840-2,"Anales Univ. Chile 87","","687","1894",
+gcc-114666,A,Compositae,,Conyza,,"steudelii",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,3DB0A726-5F79-4211-A983-BA6338E18F14,197764-1,"","","388","1848",
+gcc-14583,A,Compositae,,Conyza,,"stipulacea",,"","(Cass.) Desf.",Synonym,,M,TICA,B3B7A4A2-924A-403C-B728-1B0BE98909C7,197765-1,"","","164","1829",gcc-20328
+gcc-120745,A,Compositae,,Conyza,,"stipulata",,"","M.Vahl ex Cass.",Synonym,Illegitimate,M,TICA,D9609053-37B7-4066-8AB0-C840294FFC59,,"Bulletin de la Societe Philomatique de Paris 1817:","","184","1817",gcc-90456
+gcc-84742,A,Compositae,,Conyza,,"stipulata",,"","Vahl ex DC.",Unresolved,,L,TICA,A192972D-B82D-44FE-B374-7732ACF8D3CB,197766-1,"","","97","1836",
+gcc-79514,A,Compositae,,Conyza,,"straminea",,"","Chodat",Synonym,,M,TICA,45CE64C4-B059-4A48-A291-6B9ACE42BFEE,,"","","383","1902",gcc-148561
+gcc-108670,A,Compositae,,Conyza,,"striata",,"","Wall.",Unresolved,,L,TICA,CBDF1506-2A21-4A17-ADE3-ACD7EB1AA1BB,,"Numer. List [Wallich]","","","",
+gcc-109453,A,Compositae,,Conyza,,"stricta",,"","Willd.",Synonym,,M,TICA,C59B8A70-24A6-4D74-8A4E-AEB16147F46B,197769-1,"","","1922","1803",gcc-25980
+gcc-54972,A,Compositae,,Conyza,,"stricta",var.,"pinnatifida","(D.Don) Kitam.",Synonym,,L,TICA,9180F409-102A-4124-AB37-724F2F6CA427,60440522-2,"Fl. E. Himalaya 337. 1966","","337","1966",gcc-25980
+gcc-22633,A,Compositae,,Conyza,,"subcapitata",,"","Wall.",Unresolved,,L,TICA,59D1E0CD-2D1C-4206-A055-29E4A9BDD72D,,"Numer. List [Wallich] n. 3056","","3056","",
+gcc-126898,A,Compositae,,Conyza,,"subdecurrens",,"","A.Gray",Synonym,,M,TICA,0984CEAF-8189-45AB-BE54-D65CCBCD1E02,,"","","78","1849",gcc-38053
+gcc-140340,A,Compositae,,Conyza,,"subdecurrens",,"","DC.",Synonym,,M,TICA,A52CDCE6-C6F5-48F6-AF08-F4C414636349,197773-1,"Prodr. 5","","379","1836",gcc-104037
+gcc-94712,A,Compositae,,Conyza,,"subracemosa",,"","Miq.",Synonym,,M,TICA,57D77B64-F46B-4AA0-ABCA-8DAAD33CD150,,"Fl. Ned. Ind. 2","","41","1856",gcc-136646
+gcc-131272,A,Compositae,,Conyza,,"subramosa",,"","Miq.",Unresolved,,L,TICA,512FDC3F-857F-4474-A4E8-E0860A26F1AA,,"","","","",
+gcc-107700,A,Compositae,,Conyza,,"subscaposa",,"","O.Hoffm.",Accepted,,M,TICA,88885994-A42C-42DC-916F-AAAE4343D2FE,,"","","225","1894",
+gcc-24744,A,Compositae,,Conyza,,"subsessilis",,"","Wall.",Unresolved,,L,TICA,5DD2F79C-A01F-4B50-A41B-2DB4D2B60CB4,,"Numer. List [Wallich] n. 3000","","3000","",
+gcc-97708,A,Compositae,,Conyza,,"subsimplex",,"","Wall.",Unresolved,,L,TICA,D0ED6251-7D2C-4A7F-A8CF-9484BD7B0588,,"Numer. List [Wallich] n. 3003","","3003","",
+gcc-118129,A,Compositae,,Conyza,,"subspathulata",,"","Cronquist",Synonym,,L,TICA,8BF70DF7-0A45-4C33-8644-C236F152F296,294946-2,"Bull. Torrey Bot. Club 70: 632. 1943","","632","1943",gcc-114491
+gcc-122202,A,Compositae,,Conyza,,"subspicata",,"","Phil.",Accepted,,M,TICA,E69A3E82-5DE5-4041-BA3E-CB80C9BDAC81,,"Linnaea 28","","735","",
+gcc-88638,A,Compositae,,Conyza,,"suffruticosa",,"","Phil.",Accepted,,M,TICA,FF544531-C6FB-47B1-99A7-7FDE651D7B42,197780-1,"Linnaea 28","","735","1858",
+gcc-30092,A,Compositae,,Conyza,,"sumatrensis",,"","(S.F.Blake) Pruski & G.Sancho",Accepted,,M,TICA,9D5096CC-AE8D-40E2-B493-37B237A74ADC,,"Novon 16(1). 2006","","""98-99, f. 1 ""","2006",
+gcc-41097,A,Compositae,,Conyza,,"sumatrensis",,"","(Retz.) E.Walker",Synonym,,M,TICA,0FA96857-B31B-494B-9732-4C2C4E1E7195,197781-1,"J. Jap. Bot. 46: 72 (1971)","","72","1971",gcc-120553
+gcc-62478,A,Compositae,,Conyza,,"sumatrensis",var.,"floribunda","(Kunth) J.B.Marshall",Synonym,,L,TICA,5A9523F0-2D4A-4E7A-9FA7-AEFF5B9AAB48,877089-1,"","","167","1974",gcc-120553
+gcc-69996,A,Compositae,,Conyza,,"sumatrensis",var.,"leiotheca","(S.F.Blake) Pruski & G.Sancho",Synonym,,L,TICA,869C6F06-33D3-4E5B-AE06-EAA0A36B2B8B,60442716-2,"Novon 16(1)","","98","2006",gcc-120553
+gcc-21110,A,Compositae,,Conyza,,"sumatrensis",var.,"sumatrensis","",Synonym,,L,TICA,BA677816-BB35-4689-8340-26FD88CD1469,,"J. Jap. Bot. 46:72 (1971)","","72","1971",gcc-30092
+gcc-114072,A,Compositae,,Conyza,,"sumbavensis",,"","Miq.",Synonym,,M,TICA,0F741E44-8258-48F7-8AFD-B900ED5E8BBD,,"Fl. Ned. Ind. 2","","46","1856",gcc-143886
+gcc-42650,A,Compositae,,Conyza,,"sylvatica",,"","Blume",Synonym,,M,TICA,39FF48EF-D50D-4701-A9E7-4EFE999AFF62,197783-1,"","","898","1826",gcc-42577
+gcc-77546,A,Compositae,,Conyza,,"symphytifolia",,"","Mill.",Synonym,,M,TICA,99F8E047-3FE8-4779-8F0E-671DD90DADE2,197784-1,"""Gard. Dict., ed. 8.""","","10","1768",gcc-17908
+gcc-1710,A,Compositae,,Conyza,,"syringifolia",,"","Meyen & Walp.",Synonym,,M,TICA,9240C79E-C8AC-4BCC-8F3C-0315E287E053,,"","","","1843",gcc-26588
+gcc-7226,A,Compositae,,Conyza,,"tamborensis",,"","Boerl.",Synonym,,M,TICA,711BF170-F6D4-4E17-A48C-0D70E98FBECE,,"","","","1891",gcc-84617
+gcc-12010,A,Compositae,,Conyza,,"telekii",,"","Schweinf. ex Engl.",Unresolved,,L,TICA,FBA99DBD-95F5-44B8-B3E1-166132FCBBEA,,"""Abh. Preuss. Akad. Wiss. 1891. ii. (1892) 421 nomen; et in Hoehn. zumRudolph See, Append. (1892) 10.""","","10","",
+gcc-17284,A,Compositae,,Conyza,,"telekii",,"","Schweinf. ex L.Höhn.",Unresolved,,L,TICA,2B8A9A04-EAC5-4CAC-82C3-1FF5A7437250,,"""Rudolph-Stephanie-See, App.: 10 (1892)""","","10","1892",
+gcc-17043,A,Compositae,,Conyza,,"tenella",,"","(Decne.) DC. ex Miq.",Synonym,,M,TICA,2DD85E30-D679-46F5-B59C-1F7FBF1986AA,,"Fl. Ned. Ind. 2","","40","1856",gcc-126872
+gcc-16195,A,Compositae,,Conyza,,"tenera",,"","Phil.",Accepted,,M,TICA,75F654D3-D347-4B87-A6BD-1DF54D3DDC4B,,"Anales Univ. Chile 87","","682","",
+gcc-8100,A,Compositae,,Conyza,,"tenera",,"","Wall.",Unresolved,,L,TICA,BB93BEEE-9D27-4923-AF39-0F11DE0F0A93,,"Numer. List [Wallich] n. 3023","","3023","",
+gcc-9205,A,Compositae,,Conyza,,"tenorii",,"","Spreng.",Synonym,,M,TICA,37E27C8B-8CAC-4543-86E7-11370EB97E37,197792-1,"Pl. Min. Cogn. Pug. 1","","55","1813",gcc-17182
+gcc-48808,A,Compositae,,Conyza,,"tenuifolia",,"","Salisb.",Synonym,,L,TICA,4CECCFB6-E4B3-4B43-AF87-5A69AC979DA7,197793-1,"","","194","1796",gcc-136465
+gcc-97934,A,Compositae,,Conyza,,"ternatensis",,"","Miq.",Synonym,,M,TICA,8A6BA568-12FF-4A8F-84EB-9500D7F0CCE5,,"Fl. Ned. Ind. 2","","49","1856",gcc-42577
+gcc-135170,A,Compositae,,Conyza,,"tetraptera",,"","Turcz.",Synonym,,L,TICA,D6069A7C-8C8C-40EE-8025-E9605392C5F6,197795-1,"","","178","1851",gcc-46093
+gcc-129843,A,Compositae,,Conyza,,"thapsoides",,"","M.Bieb.",Accepted,,M,TICA,A79D2DF8-88F0-4773-960E-DD2F94634E3E,,"","","","",
+gcc-49762,A,Compositae,,Conyza,,"thapsoides",,"","Willd.",Synonym,,M,TICA,20DE3344-E4AF-4766-B59F-5C3C148CE536,,"""Willd., Sp. Pl. 3. 1803.""","","1949","1803",gcc-106778
+gcc-121844,A,Compositae,,Conyza,,"theodori",,"","R.E.Fr.",Synonym,,M,TICA,FFDCF6B0-3E2B-4CB6-B743-CAA8399DFD7A,197797-1,"","","122","1928",gcc-138007
+gcc-120393,A,Compositae,,Conyza,,"thermarum",,"","Phil.",Accepted,,M,TICA,5AFCC907-3C12-439A-A089-C770A108C22D,197798-1,"","","381","1862",
+gcc-80323,A,Compositae,,Conyza,,"thermarum",,"","Baker",Synonym,,M,TICA,F9B0FBAF-C2EE-4493-B5B4-6D649E987374,197799-1,"","","327","1890",gcc-35941
+gcc-18748,A,Compositae,,Conyza,,"thesiifolia",,"","Kunth",Accepted,,M,TICA,85024D2A-E8F2-4A9B-8DC4-22A08B6340C9,,"","","","",
+gcc-150099,A,Compositae,,Conyza,,"thujoides",,"","Lam.",Synonym,,M,TICA,8E8F57EC-8BF0-4733-BED8-671C598D978A,64845-2,"","","","",gcc-156388
+gcc-43242,A,Compositae,,Conyza,,"thuyoides",,"","Lam.",Synonym,,M,TICA,C0B01230-34BD-4AC9-8B01-5021C9461ECD,197801-1,"","","90","1786",gcc-97828
+gcc-80504,A,Compositae,,Conyza,,"thyrsifera",,"","C.B.Clarke",Unresolved,,L,TICA,AFD40E0B-696E-46E5-A6A9-6DB912A1DD73,197802-1,"""Comp. Ind. 76, sphalm.""","","""76, sphalm.""","",
+gcc-6798,A,Compositae,,Conyza,,"thyrsiflora",,"","Wall.",Unresolved,,L,TICA,7E17A8EC-61D9-417B-B126-0C9C19792CD9,,"Numer. List [Wallich] n. 3082","","3082","",
+gcc-99481,A,Compositae,,Conyza,,"thyrsoidea",,"","Pers.",Synonym,,M,TICA,6E707583-F12E-4EE4-B124-9871D474350F,,"","","","1807",gcc-51822
+gcc-94888,A,Compositae,,Conyza,,"tigrensis",,"","Oliv. & Hiern",Accepted,,M,TICA,9FAF6D5D-AF52-46C2-A2FA-8E0E0338927A,197805-1,"","","316","1877",
+gcc-72152,A,Compositae,,Conyza,,"tigrensis",var.,"pratensis","(Vatke) Engl.",Synonym,,L,TICA,8641A6D8-9D94-4B67-BC0B-FBCA59B42E8F,,"Abh. Königl. Akad. Wiss. Berlin 1891: 420 (1892)","","420","1892",gcc-94888
+gcc-66861,A,Compositae,,Conyza,,"tigrensis",var.,"silvestris","(Vatke) Engl.",Synonym,,L,TICA,FC5F2672-6E3C-4D75-A2B6-D25138FBAC82,,"Abh. Königl. Akad. Wiss. Berlin 1891: 420 (1892)","","420","1892",gcc-94888
+gcc-155222,A,Compositae,,Conyza,,"tigrensis",var.,"tigrensis","",Synonym,,L,TICA,0F724B38-FDC3-4CEC-B029-D381CAA54A22,,"","","","",gcc-94888
+gcc-99763,A,Compositae,,Conyza,,"timorensis",,"","(Decne.) Miq.",Synonym,,M,TICA,1880A0CD-C0E9-46BB-B3D6-9912CA7CC852,,"Fl. Ned. Ind. 2","","47","1856",gcc-110428
+gcc-12761,A,Compositae,,Conyza,,"tomentosa",,"","Wall.",Unresolved,,L,TICA,5D6272C5-8CA2-43E9-80B9-17C51BC31EA8,,"Numer. List [Wallich] n. 3031","","3031","",
+gcc-24269,A,Compositae,,Conyza,,"tomentosa",,"","Forssk.",Unresolved,,L,TICA,3CB2FCFD-CB6D-4463-B8CE-2CCF7754C79B,197808-1,"Fl. Aegypt.-Arab. 148","","148","1775",
+gcc-28099,A,Compositae,,Conyza,,"tomentosa",,"","Mill.",Unresolved,Illegitimate,L,TICA,0F2AB5C8-F425-4ADF-9B0C-33E502D2DF33,197809-1,"","","5","1768",
+gcc-91859,A,Compositae,,Conyza,,"tomentosa",,"","Burm.f.",Synonym,,M,TICA,9097675C-8C1E-45B9-A12E-87595964157F,197810-1,"","","26","1768",gcc-11159
+gcc-103211,A,Compositae,,Conyza,,"tortuosa",,"","L.",Synonym,Illegitimate,M,TICA,8C336709-09AA-47BC-95A3-A0BF3F6A2085,309697-2,"Sp. Pl.","","862","1753",gcc-108379
+gcc-98202,A,Compositae,,Conyza,,"transvaalensis",,"","Bremek.",Synonym,,M,TICA,A60B4D30-4527-4399-8E10-959390EADA0A,197812-1,"","","262","1933",gcc-128932
+gcc-110827,A,Compositae,,Conyza,,"travancorensis",,"","Wall.",Unresolved,,L,TICA,475C5536-D888-4C07-B319-B1C45F62C763,,"Numer. List [Wallich] n. 3067","","3067","",
+gcc-19909,A,Compositae,,Conyza,,"tricuneata",,"","(L.f.) Willd.",Synonym,,M,TICA,773F63CD-A069-4215-A0B5-24D1E7C5DB97,197814-1,"","","1946","1803",gcc-22413
+gcc-23984,A,Compositae,,Conyza,,"tridentata",,"","Poir.",Synonym,,M,TICA,C0D65BFD-A29D-441E-A1BE-2C53B3DA98FF,197815-1,"","","342","1811",gcc-116685
+gcc-25585,A,Compositae,,Conyza,,"trihecatactis",,"","(S.F.Blake) Cuatrec.",Accepted,,M,TICA,85E7B94E-1003-4259-9B83-2F41BB9056D9,64847-2,"Phytologia 9","","5","1963",
+gcc-31167,A,Compositae,,Conyza,,"triloba",,"","Decne.",Synonym,,M,TICA,1E88CF43-6E1D-4197-92F5-39B27DEAFE58,,"","","261","1834",gcc-25980
+gcc-111839,A,Compositae,,Conyza,,"trinervia",,"","Mill.",Unresolved,,L,TICA,B97A5D3D-38A6-4D9C-86D8-B41380E83C32,197818-1,"Gard. Dict. ed. 8 no. 12 (1768)","","no. 12","1768",
+gcc-96188,A,Compositae,,Conyza,,"trinervis",,"","Lam.",Synonym,Illegitimate,M,TICA,66788AAE-B556-4F67-A621-90F9258EF7EF,197819-1,"","","85","1786",gcc-137125
+gcc-96397,A,Compositae,,Conyza,,"trinervis",,"","Mill.",Synonym,,M,TICA,89CA9BEC-3218-4012-A28A-917664A8A812,197818-1,"","","12","1768",gcc-137125
+gcc-24348,A,Compositae,,Conyza,,"triplinervia",,"","Less.",Synonym,,M,TICA,11FAD93F-12FC-4878-8CBC-2CF804B9B425,197820-1,"Linnaea 6","","137","1831",gcc-19317
+gcc-136074,A,Compositae,,Conyza,,"trisulca",,"","Buch.-Ham. ex D.Don",Synonym,,M,TICA,23F4B73B-4EBC-4AE1-9A83-EB565887836A,197821-1,"","","172","1825",gcc-25980
+gcc-29372,A,Compositae,,Conyza,,"tuberosa",,"","Lam. ex Steud.",Synonym,,M,TICA,518A9A32-ADCD-414A-B824-3645976E1C9E,197822-1,"","","415","1840",gcc-103472
+gcc-109784,A,Compositae,,Conyza,,"tunariensis",,"","(Kuntze) Zardini",Accepted,,M,TICA,0B24FDF1-6159-40B1-A6E8-AF76B9313C36,197823-1,"","","45","1976",
+gcc-23923,A,Compositae,,Conyza,,"uliginosa",,"","Pers.",Synonym,,M,TICA,71485EE6-32C7-415F-8153-2C3733BFFF30,,"","","427","1807",gcc-132988
+gcc-84175,A,Compositae,,Conyza,,"uliginosa",,"","(Benth.) Cuatrec.",Unresolved,Illegitimate,L,TICA,A739A74D-CA08-49A7-9C58-75F549973DB3,,"Phytologia 9","","","",
+gcc-21930,A,Compositae,,Conyza,,"uliginosa",var.,"columbiana","(Hieron.) Cuatrec.",Synonym,,L,TICA,683AB035-3F06-4C0B-B016-2892094A229C,64852-2,"Phytologia 9","","5","1963",gcc-91555
+gcc-20328,A,Compositae,,Conyza,,"ulmifolia",,"","(Burm.f.) Kuntze",Accepted,,M,TICA,ACC7FB73-6581-4F04-8982-25957A04CC48,197827-1,"","","142","1898",
+gcc-40409,A,Compositae,,Conyza,,"umbrosa",,"","Kar. & Kir.",Synonym,,L,TICA,4CDD565E-054D-4FD3-8272-4AE547667A53,197828-1,"","","379","1842",gcc-17254
+gcc-136466,A,Compositae,,Conyza,,"undulata",,"","Poir.",Unresolved,,L,TICA,E8E79E1F-3ED4-4729-AFD2-EC49D9A6E271,197829-1,"","","339","1811",
+gcc-122423,A,Compositae,,Conyza,,"uniflora",,"","Mill.",Synonym,,M,TICA,4FB628D9-8310-4AF3-AB90-CBF97CAB57C0,,"""Gard. Dict., ed. 8.""","","","1768",gcc-13137
+gcc-6641,A,Compositae,,Conyza,,"uniflora",,"","Banks & Sol. ex Hook.f.",Unresolved,,L,TICA,F1839387-DC90-4996-BDBC-0C52FCE85258,197831-1,"Fl. N. Zel. i. 140.","","i. 140","",
+gcc-52267,A,Compositae,,Conyza,,"urticifolia",,"","(Baker) Humbert",Accepted,,M,TICA,823B12C3-A2D0-43CF-BCF6-60EED7E1EF69,,"","","","1923",
+gcc-7241,A,Compositae,,Conyza,,"vagans",,"","Wall.",Unresolved,,L,TICA,BE9CE121-C6E3-429A-B441-0D76DE9B60D9,,"Numer. List [Wallich] n. 3040","","3040","",
+gcc-107157,A,Compositae,,Conyza,,"valdiviana",,"","Phil.",Accepted,,M,TICA,BC1EA8F7-F978-44C8-AFD9-A972E0619680,64855-2,"Anales Univ. Chile 87","","697","1894",
+gcc-117353,A,Compositae,,Conyza,,"varia",,"","(Webb) Wild",Accepted,,M,TICA,A3353E01-184C-4BB2-BE5B-C07B9F376478,,"","","255","1969",
+gcc-15330,A,Compositae,,Conyza,,"variegata",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,551ABE01-2EB1-42A9-8364-1C6316EDF6E3,197836-1,"","","389","1848",
+gcc-52220,A,Compositae,,Conyza,,"variegata",var.,"variegata","",Synonym,,L,TICA,F8FB863B-9C4B-4B7B-8E9C-60D6DE12F4AF,,"","","","",gcc-15330
+gcc-30381,A,Compositae,,Conyza,,"varthemioides",,"","Nábělek",Synonym,,M,TICA,A6E24D60-BDCD-4378-A596-3832271F0695,,"","","","1925",gcc-120863
+gcc-95252,A,Compositae,,Conyza,,"vatkeana",,"","Oliv. & Hiern",Synonym,,M,TICA,386F52C0-51CF-45B7-9294-8EE1CD6D8994,197838-1,"","","314","1877",gcc-25980
+gcc-84455,A,Compositae,,Conyza,,"velutina",,"","(H.Lév. & Vaniot) H.Lév.",Synonym,,M,TICA,18F63B37-03E3-4E21-9BE8-769D1F0CC445,197839-1,"Repert. Spec. Nov. Regni Veg. 11","","307","1912",gcc-51822
+gcc-142153,A,Compositae,,Conyza,,"venosa",,"","Mart.",Unresolved,,L,TICA,B0D0B3EF-04BA-4D90-BD66-F9066EEBDF92,197841-1,"""ex Colla, Herb. Pedem. iii. 369 (1834).""","","iii. 369","1834",
+gcc-24126,A,Compositae,,Conyza,,"venosa",,"","Mart. ex Colla",Unresolved,,L,TICA,2D2C88E2-8E99-4ED2-9CDB-2C91C9633887,,"Herb. Pedem. 3: 369 (1834)","","369","1834",
+gcc-11251,A,Compositae,,Conyza,,"verbascifolia",,"","Bory",Synonym,,M,TICA,59020D1D-40A0-4FDF-8E71-150B3DA07D93,,"","","","1804",gcc-100024
+gcc-13406,A,Compositae,,Conyza,,"verbascifolia",,"","M.Bieb. ex Georgi",Synonym,,M,TICA,A189A4CD-3237-46E2-AAA1-19007EB45E09,,"","","1239","1780",gcc-106778
+gcc-15602,A,Compositae,,Conyza,,"verbascifolia",,"","Willd.",Synonym,,M,TICA,C38DF923-DE5A-4747-9B2A-1CE1DAB17FD3,197844-1,"","","1924","1803",gcc-122903
+gcc-29568,A,Compositae,,Conyza,,"verbascifolia",,"","Nyman",Synonym,Illegitimate,M,TICA,32802871-8F44-4C3E-942A-36A60F448770,197842-1,"","","393","1879",gcc-122503
+gcc-114426,A,Compositae,,Conyza,,"vernonioides",,"","(Sch.Bip. ex A.Rich.) Wild",Accepted,,M,TICA,9DD8C0B8-5298-48CE-BBAD-B9D3C3D5763D,,"","","267","1969",
+gcc-60686,A,Compositae,,Conyza,,"vernonioides",subsp.,"arborea","(R.E.Fr.) Lisowski",Synonym,,L,TICA,3B3A2ABD-8608-4373-AC6B-A046A0E5B959,,"","","176","1990",gcc-114426
+gcc-31072,A,Compositae,,Conyza,,"vernonioides",subsp.,"inuloides","(O.Hoffm.) Wild",Synonym,,L,TICA,30EEDC7F-88FB-4BCF-BB0A-398A3E85C92B,,"""Bol. Soc. Brot., II, 43: 268 (1969)""","","268","1969",gcc-114426
+gcc-65083,A,Compositae,,Conyza,,"vernonioides",subsp.,"vernonioides","",Synonym,,L,TICA,0EFDEEC7-5195-4498-84E2-C3BD152BAF5E,,"","","","",gcc-114426
+gcc-131598,A,Compositae,,Conyza,,"veronicifolia",,"","Wall.",Unresolved,,L,TICA,F83425F5-9755-4059-AE00-E144A933CDE7,,"Numer. List [Wallich] n. 3005","","3005","",
+gcc-32323,A,Compositae,,Conyza,,"veronicifolia",,"","Wall. ex DC.",Synonym,,M,TICA,BD4C8FF4-85A6-49D5-A487-3BE87DDBE273,,"Prodr. 5: 382 (1836)","","382","1836",gcc-16172
+gcc-13519,A,Compositae,,Conyza,,"verrucosa",,"","Houtt. ex DC.",Synonym,,M,TICA,4D244C50-4FD9-4D14-AF21-1929D75DBC65,197848-1,"","","13","1838",gcc-132344
+gcc-131655,A,Compositae,,Conyza,,"vestita",,"","Wall.",Unresolved,,L,TICA,40430ED5-9E8D-4BD4-B32E-E164DAD0B3B2,,"Numer. List [Wallich] n. 2998","","2998","",
+gcc-21915,A,Compositae,,Conyza,,"viguieri",,"","Humbert",Accepted,,M,TICA,3CA963BB-6B0A-432A-94C9-2889F734F186,,"","","","1923",
+gcc-22255,A,Compositae,,Conyza,,"villosa",,"","herb.madr. ex Wall.",Unresolved,,L,TICA,EA25781D-B736-4898-8DC3-292AC2DEA421,,"Numer. List [Wallich] n. 3105","","3105","",
+gcc-46379,A,Compositae,,Conyza,,"villosa",,"","Willd.",Synonym,,M,TICA,C24948E1-B1EA-4762-8DC2-55F3CE9E24BE,197852-1,"","","1929","1803",gcc-146569
+gcc-80724,A,Compositae,,Conyza,,"viminea",,"","(DC.) Miq.",Synonym,,M,TICA,C13313D9-EF73-45B5-AFEB-6E3044B2F126,,"Fl. Ned. Ind. 2","","49","1856",gcc-83648
+gcc-19280,A,Compositae,,Conyza,,"virens",,"","Wall.",Synonym,,M,TICA,A806D121-73BA-4B26-BF79-23A24D5BB787,,"","","","183",gcc-108203
+gcc-32096,A,Compositae,,Conyza,,"virgata",,"","DC.",Synonym,Illegitimate,M,TICA,6A77B9E8-022D-49A7-B029-3B6FBD8FB8A4,197856-1,"","","385","1836",gcc-96472
+gcc-7384,A,Compositae,,Conyza,,"virgata",,"","(L.) L.",Synonym,,M,TICA,E0C113AE-FE94-4407-BD73-0DB9FFA1E8B8,197855-1,"","","1206","1763",gcc-96472
+gcc-61172,A,Compositae,,Conyza,,"virgata",var.,"ellisii","(Baker) Humbert",Synonym,,L,TICA,57658BCD-CE9C-4BE7-AB99-A466FFFC0C53,,"Memoires de la Societe Linneenne de Normandie 25:","","43","1923",gcc-208
+gcc-154363,A,Compositae,,Conyza,,"virgata",var.,"virgata","",Synonym,,L,TICA,8AA85D6B-5275-4C45-9B0C-C218BE9EFF7C,,"","","","",gcc-96472
+gcc-26598,A,Compositae,,Conyza,,"viscida",,"","Wall. ex DC.",Accepted,,L,TICA,6B1CD6F2-2181-4B6A-811F-31268EFA5668,,"","","","",
+gcc-129099,A,Compositae,,Conyza,,"viscidula",,"","Wall. ex DC.",Synonym,,M,TICA,546CC33F-5878-4F04-94CE-DB83098B555B,197858-1,"Prodr. 5","","383","1836",gcc-84617
+gcc-131999,A,Compositae,,Conyza,,"viscosa",,"","Mill.",Synonym,,M,TICA,E03A241C-0473-4A3E-9BDF-E23DDA90851A,,"""Gard. Dict., ed. 8. n. 8""","","","1768",gcc-146569
+gcc-36453,A,Compositae,,Conyza,,"viscosula",,"","Wall. ex DC.",Synonym,,M,TICA,C82E8A20-7794-420C-B0DF-439A232FE6A7,197862-1,"","","441","1836",gcc-45913
+gcc-112728,A,Compositae,,Conyza,,"volkameriaefolia",,"","Wall.",Synonym,Illegitimate,M,TICA,8ACB870B-9E93-4055-B343-B61AB7BFF942,,"Numer. List [Wallich] n. 3001","","","1831",gcc-117966
+gcc-36912,A,Compositae,,Conyza,,"volkensii",,"","O.Hoffm.",Synonym,,M,TICA,6ED69E70-D161-4C47-B878-44659B61702C,,"","","","1894",gcc-114666
+gcc-39250,A,Compositae,,Conyza,,"volkensii",,"","C.D.Adams",Unresolved,,L,TICA,F5B306D9-4125-4A63-BEB4-48D7A4FC7806,,"Journal of the West African Science Association 1:","","26","1954",
+gcc-94219,A,Compositae,,Conyza,,"volubilis",,"","Wall.",Synonym,,M,TICA,C759BFCB-AA46-4AE5-A609-8C7AE9D537ED,,"","","","183",gcc-26588
+gcc-105996,A,Compositae,,Conyza,,"vulgaris",,"","Lam.",Synonym,,M,TICA,0ADADFE6-98C0-4926-9173-A6CFD2F706C5,,"","","","1779",gcc-87765
+gcc-110122,A,Compositae,,Conyza,,"vulgaris",,"","Phil.",Synonym,Illegitimate,M,TICA,C316C28A-56FA-4BE0-90B5-B021B0E9A8E8,,"Linnaea 28","","735","1856",gcc-639
+gcc-14098,A,Compositae,,Conyza,,"wallichii",,"","DC.",Synonym,,M,TICA,B1FE26E9-F5B2-4A71-9A2D-1A2713FDA7B5,197868-1,"","","384","1836",gcc-84617
+gcc-49440,A,Compositae,,Conyza,,"wangtuensis",,"","C.B.Clarke",Synonym,,L,TICA,7468552C-74E0-45D4-9D20-5B9D031A6632,197869-1,"","","61","1876",gcc-17254
+gcc-111367,A,Compositae,,Conyza,,"welwitschii",,"","(S.Moore) Wild",Accepted,,M,TICA,CE09D2DD-CFA9-4E82-8D1F-B2F55E91193C,,"","","261","1969",
+gcc-136602,A,Compositae,,Conyza,,"wightiana",,"","Wall.",Synonym,Illegitimate,M,TICA,68D93CCC-D457-4249-8FA5-EC95B0FCDC68,,"Numer. List [Wallich] n. 3028","","","1831",gcc-25715
+gcc-23403,A,Compositae,,Conyza,,"wightiana",,"","Wall. ex DC.",Synonym,,M,TICA,8A814DCD-9542-47A8-BF7D-2B55BDE6B7F4,197871-1,"","","435","1836",gcc-25715
+gcc-104780,A,Compositae,,Conyza,,"wittei",,"","Robyns",Synonym,,M,TICA,51672A9D-7329-4BD9-A7BD-A4336DD7E899,197873-1,"","","99","1943",gcc-114426
+gcc-30369,A,Compositae,,Conyza,,"wulfenii",,"","Host ex Beck",Synonym,,M,TICA,059338BB-B229-46B2-A6B4-382DF52EFF8A,,"","","","1882",gcc-22628
+gcc-34752,A,Compositae,,Conyza,,"yungasensis",,"","Rusby",Synonym,,M,TICA,DDBB6CC7-05A9-40FE-9FAB-406CA5BE500B,64857-2,"Mem. Torrey Bot. Club 3(3)","","55","1893",gcc-12546
+gcc-101785,A,Compositae,,Conyza,,"zollingeriana",,"","Turcz.",Synonym,,M,TICA,9BBFE855-A15C-41DA-8DCA-9D8536D20785,197876-1,"","","179","1851",gcc-139509
+gcc-130753,A,Compositae,,Conyza,,"zollingeriana",,"","Sch.Bip. ex Miq.",Synonym,,M,TICA,C2760843-1145-4B3A-8E08-DF4B48C39FF2,,"Fl. Ned. Ind. 2 (1856)","","50","1856",gcc-139509
+gcc-31139,A,Compositae,,Conyza,,"zollingeriana",,"","Sch.Bip.",Unresolved,,L,TICA,973C0F90-BAB0-4C49-8A6A-39A8AF8B07C8,,"","","","",

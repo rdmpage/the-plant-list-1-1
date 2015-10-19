@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-17804221,A,Lauraceae,,Sassafras,,"albidum",,"","(Nutt.) Nees",Accepted,,M,TRO,17804221,30245337-2,"Syst. Laur.","490","490","1836",
+tro-17804385,A,Lauraceae,,Sassafras,,"albidum",var.,"albidum","",Synonym,,L,TRO,17804385,,"","","","",tro-17804221
+tro-17804384,A,Lauraceae,,Sassafras,,"albidum",var.,"molle","(Raf.) Fernald",Synonym,,L,TRO,17804384,227835-2,"Rhodora","38(449): 179","179","1936",tro-17804221
+kew-2591965,A,Lauraceae,,Sassafras,,"goesianum",,"","Teijsm. & Binn.",Unresolved,,L,WCSP (in review),,468625-1,"Cat. Hort. Bot. Bogor.","94","","1866",
+kew-2591966,A,Lauraceae,,Sassafras,,"laurus",,"","Macloskie",Unresolved,,L,WCSP (in review),,227836-2,"Torreya","5: 198","","1905",
+kew-2591967,A,Lauraceae,,Sassafras,,"loureiroi",,"","Kostel.",Unresolved,,L,WCSP (in review),,468627-1,"Allg. Med. -Pharm. Fl.","2: 481","","1833",kew-2721550
+tro-17804463,A,Lauraceae,,Sassafras,,"mauritiana",,"","Bojer",Accepted,,M,TRO,17804463,,"Hortus Maurit.","273","273","1873",
+kew-2591968,A,Hernandiaceae,,Sassafras,,"mauritianum",,"","Bojer",Unresolved,,L,WCSP (in review),,468628-1,"Hortus Maurit.","273","","1837",kew-2846846
+kew-2591970,A,Lauraceae,,Sassafras,,"officinale",,"","Siebold",Unresolved,,L,WCSP (in review),,468629-1,"Verh. Batav. Genootsch. Kunsten","12: 23","","1830",
+kew-2591978,A,Lauraceae,,Sassafras,,"officinale",,"","T.Nees & Eberm.",Unresolved,,L,WCSP (in review),,468630-1,"Handb. Med.-Pharm. Bot.","2: 418","","1831",
+tro-50131180,A,Lauraceae,,Sassafras,,"officinale",var.,"albidum","(Nutt.) S.F. Blake",Unresolved,,L,TRO,50131180,227838-2,"Rhodora","20(233): 99","99","1918",
+tro-17805611,A,Lauraceae,,Sassafras,,"officinalis",,"","T. Nees & C.H. Eberm.",Synonym,,M,TRO,17805611,,"Handb. Med.-Pharm. Bot.","2: 418","418","1831",tro-17804221
+kew-2591962,A,Lauraceae,,Sassafras,,"officinarum",,"","J.Presl",Unresolved,,L,WCSP (in review),,468631-1,"Prir. Rostlin","2: 68","","1825",
+kew-2591972,A,Lauraceae,,Sassafras,,"parthenoxylon",,"","(Jack) Nees",Synonym,,M,WCSP (in review),,468632-1,"Syst. Laur.","491","","1836",kew-2721550
+tro-17805644,A,Lauraceae,,Sassafras,,"randaiense",,"","(Hayata) Rehder               ",Accepted,,M,TRO,17805644,468633-1,"J. Arnold Arbor.","1(4): 244–245","244","1920",
+kew-2591974,A,Lauraceae,,Sassafras,,"rubrum",,"","Raf.",Unresolved,,L,WCSP (in review),,468634-1,"Sylva Tellur.","134","","1838",
+kew-2591976,A,Lauraceae,,Sassafras,,"sassafras",,"","H.Karst.",Unresolved,,L,WCSP (in review),,,"Deut. Fl.","505","","1891",
+tro-50041724,A,Lauraceae,,Sassafras,,"thunbergii",,"","Siebold",Accepted,,M,TRO,50041724,,"Verh. Batav. Genootsch. Kunsten","7: 23","23","1830",
+kew-2591971,A,Lauraceae,,Sassafras,,"triloba",,"","Raf.",Unresolved,,L,WCSP (in review),,468638-1,"Autik. Bot.","85","","1840",
+tro-17805760,A,Lauraceae,,Sassafras,,"triloba",var.,"mollis","Raf.",Synonym,,L,TRO,17805760,,"Autik. Bot.","85–86","85","1840",tro-17804221
+tro-17805643,A,Lauraceae,,Sassafras,,"tzumu",,"","(Hemsl.) Hemsl.               ",Accepted,,M,TRO,17805643,468639-1,"Bull. Misc. Inform. Kew","1907(2): 55–56","55","1907",
+tro-17804345,A,Lauraceae,,Sassafras,,"variifolium",,"","Kuntze",Synonym,,M,TRO,17804345,227841-2,"Revis. Gen. Pl.","2: 574","574","1891",tro-17804221
+tro-50089674,A,Lauraceae,,Sassafras,,"variifolium",var.,"albidum","(Nutt.) Fernald",Synonym,,L,TRO,50089674,227842-2,"Rhodora","15(169): 16","16","1913",tro-50131180

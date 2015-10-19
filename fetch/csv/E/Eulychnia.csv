@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2803037,A,Cactaceae,,Eulychnia,,"acida",,"","Phil.",Accepted,,L,WCSP (in review),,99318-2,"Linnaea","33: 80","","1864",
+kew-2803038,A,Cactaceae,,Eulychnia,,"acida",var.,"elata","F.Ritter",Synonym,,L,WCSP (in review),,314418-2,"Kakteen Südamer.","3: 896","","1980",kew-2803037
+kew-2803039,A,Cactaceae,,Eulychnia,,"acida",var.,"procumbens","F.Ritter",Synonym,,L,WCSP (in review),,314417-2,"Kakteen Südamer.","3: 895","","1980",kew-2803037
+kew-2803040,A,Cactaceae,,Eulychnia,,"aricensis",,"","F.Ritter",Synonym,,M,WCSP (in review),,99319-2,"Taxon","13: 115","","1964",kew-2803050
+kew-2803041,A,Cactaceae,,Eulychnia,,"barquitensis",,"","F.Ritter",Synonym,,L,WCSP (in review),,314413-2,"Kakteen Südamer.","3: 899","","1980",kew-2803042
+kew-2803042,A,Cactaceae,,Eulychnia,,"breviflora",,"","Phil.",Accepted,,L,WCSP (in review),,314414-2,"Fl. Atacam.","24","","1860",
+kew-2803043,A,Cactaceae,,Eulychnia,,"breviflora",subsp.,"iquiquensis","(K.Schum.) D.R.Hunt",Synonym,,L,WCSP (in review),,20008525-1,"Cactaceae Syst. Init.","14: 16","","2002",kew-2803050
+kew-2803044,A,Cactaceae,,Eulychnia,,"breviflora",subsp.,"ritteri","(Cullman) D.R.Hunt",Synonym,,L,WCSP (in review),,20008527-1,"Cactaceae Syst. Init.","14: 16","","2002",kew-2803052
+kew-2803045,A,Cactaceae,,Eulychnia,,"breviflora",var.,"taltalensis","F.Ritter",Synonym,,L,WCSP (in review),,314416-2,"Kakteen Südamer.","3: 898","","1980",kew-2803042
+kew-2803046,A,Cactaceae,,Eulychnia,,"breviflora",var.,"tenuis","F.Ritter",Synonym,,L,WCSP (in review),,314415-2,"Kakteen Südamer.","3: 898","","1980",kew-2803042
+kew-2803047,A,Cactaceae,,Eulychnia,,"castanea",,"","Phil.",Accepted,,M,WCSP (in review),,99320-2,"Linnaea","33: 80","","1864",
+kew-2905536,A,Cactaceae,,Eulychnia,,"chorosensis",,"","P.Klaassen",Unresolved,,L,WCSP (in review),,60456787-2,"Cact. Succ. J. (Los Angeles)","83: 172","","2011",kew-2803037
+kew-2803048,A,Cactaceae,,Eulychnia,,"clavata",,"","Phil. ex K.Schum.",Synonym,,M,WCSP (in review),,133098-1,"Nat. Pflanzenfam.","3(6a): 185","","1894",kew-2666640
+kew-2803049,A,Cactaceae,,Eulychnia,,"eburnea",,"","Phil. ex K.Schum.",Synonym,,L,WCSP (in review),,133099-1,"Gesamtbeschr. Kakt.","59","","1897",kew-2783340
+kew-2803050,A,Cactaceae,,Eulychnia,,"iquiquensis",,"","(K.Schum.) Britton & Rose",Accepted,,M,WCSP (in review),,133100-1,"Cact.","3: 83","","1920",
+kew-2803051,A,Cactaceae,,Eulychnia,,"iquiquensis",var.,"pullilana","F.Ritter",Synonym,,L,WCSP (in review),,314411-2,"Kakteen Südamer.","3: 901","","1980",kew-2803050
+kew-2803052,A,Cactaceae,,Eulychnia,,"iquiquensis",subsp.,"ritteri","(Cullman) D.R.Hunt",Accepted,,L,WCSP (in review),,77064979-1,"Cactaceae Syst. Init.","19: 13","","2005",
+kew-2803053,A,Cactaceae,,Eulychnia,,"longispina",,"","(Salm-Dyck) F.Ritter",Synonym,,L,WCSP (in review),,133101-1,"Kakteen And. Sukk.","16: 212","","1965",kew-2803042
+kew-2803054,A,Cactaceae,,Eulychnia,,"morromorenoensis",,"","F.Ritter",Synonym,Invalid,M,WCSP (in review),,314412-2,"Kakteen Südamer.","3: 901","","1980",kew-2803050
+kew-2803055,A,Cactaceae,,Eulychnia,,"procumbens",,"","Backeb.",Accepted,,M,WCSP (in review),,99322-2,"Descr. Cact. Nov.","3: 6","","1963",
+kew-2803056,A,Cactaceae,,Eulychnia,,"ritteri",,"","Cullman",Synonym,,M,WCSP (in review),,,"Kakteen And. Sukk.","9: 121","","1958",kew-2803052
+kew-2803057,A,Cactaceae,,Eulychnia,,"saint-pieana",,"","F.Ritter",Synonym,,L,WCSP (in review),,99324-2,"Taxon","13: 115","","1964",kew-2803042
+kew-2803058,A,Cactaceae,,Eulychnia,,"saint-pieana",var.,"barquitensis","(F.Ritter) A.E.Hoffm.",Synonym,,L,WCSP (in review),,955685-1,"Cact. Fl. Silv. Chile","142","","1989",kew-2803042
+kew-2803059,A,Cactaceae,,Eulychnia,,"spinibarbis",,"","(Pfeiff.) Britton & Rose",Synonym,,M,WCSP (in review),,133105-1,"Cact.","2: 82","","1920",kew-2783653
+kew-2905535,A,Cactaceae,,Eulychnia,,"taltalensis",,"","(F.Ritter) Hoxey",Unresolved,,L,WCSP (in review),,60456786-2,"Cact. Succ. J. (Los Angeles)","83: 169","","2011",kew-2803042

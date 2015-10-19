@@ -1,0 +1,70 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11976,A,Compositae,,Cynara,,"acaulis",,"","Sibth. & Sm.",Unresolved,,L,TICA,83C873D6-4EBB-4A25-886C-1653A4196622,200869-1,"Fl. Graec. Prod. ii. 158.","","ii. 158","",
+gcc-82897,A,Compositae,,Cynara,,"acaulis",,"","L.",Synonym,,M,TICA,5C238778-0549-4103-A221-7314A2B43E95,200870-1,"","","1160","1763",gcc-81996
+gcc-11501,A,Compositae,,Cynara,,"alba",,"","Boiss. ex DC.",Synonym,,M,TICA,8FEEAC10-8CD0-4B99-8021-157405C20F10,,"","","304","1838",gcc-91037
+gcc-5397,A,Compositae,,Cynara,,"alba",,"","Boiss.",Unresolved,,L,TICA,61148768-170A-43D2-A553-0A138DAB38C9,200871-1,"Prodr. (DC.) 7(1): 304","","304","1838",
+gcc-102090,A,Compositae,,Cynara,,"algarbiensis",,"","Coss. ex Nyman",Unresolved,,L,TICA,1543AE57-B7F4-44CE-B4C3-9E42A1D46972,,"Consp. 403.","","403","",
+gcc-23560,A,Compositae,,Cynara,,"algarbiensis",,"","Mariz",Accepted,,M,TICA,244DBC91-A50B-40FB-9EF8-2B915156C88A,,"","","","1893",
+tro-50290305,A,Compositae,,Cynara,,"algarviensis",,"","Coss. ex Nyman",Unresolved,,L,TRO,50290305,,"","","","",
+gcc-100634,A,Compositae,,Cynara,,"auranitica",,"","Post",Accepted,,M,TICA,DD13623B-E42C-4A0B-BF78-9B108C55FDAE,200873-1,"","","400","1893",
+gcc-121432,A,Compositae,,Cynara,,"aurantiaca",,"","Post",Accepted,,L,TICA,B9CBBC69-1F90-4254-922B-C9CA357BFF44,,"","","","",
+gcc-91037,A,Compositae,,Cynara,,"baetica",,"","(Spreng.) Pau",Accepted,,M,TICA,359BB0DE-614B-4518-AA3F-856B800AAE4A,200874-1,"","","245","1923",
+gcc-65581,A,Compositae,,Cynara,,"baetica",subsp.,"baetica","",Synonym,,L,TICA,A354311F-EBFC-4E22-A731-C7E3A47E15D2,,"","","","",gcc-91037
+gcc-4865,A,Compositae,,Cynara,,"carduncellus",,"","Willd. ex Steud.",Unresolved,,L,TICA,74E4EA30-C1B0-4535-848D-090EBED700AB,200875-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 462""","","462","1840",
+gcc-112928,A,Compositae,,Cynara,,"cardunculus",,"","L.",Accepted,,M,TICA,1F4619F9-3BB6-4629-8F6A-B6892CDB651D,200876-1,"Sp. Pl.","","827","1753",
+gcc-59290,A,Compositae,,Cynara,,"cardunculus",var.,"altilis","DC.",Synonym,,L,TICA,732742A1-2D2D-4832-99EE-9541C18663C3,,"","","","",gcc-112928
+gcc-155638,A,Compositae,,Cynara,,"cardunculus",var.,"cardunculus","",Synonym,,L,TICA,D896C4BA-D493-4DA9-AC94-DC67425EA150,,"","","","",gcc-112928
+gcc-9062,A,Compositae,,Cynara,,"cardunculus",subsp.,"cardunculus","",Synonym,,L,TICA,3ACD8978-ACEC-4D7A-A33E-10F225210D47,,"Sp. Pl. 827 (1753).","","","",gcc-112928
+gcc-1549,A,Compositae,,Cynara,,"cardunculus",var.,"elata","Cavara",Synonym,,L,TICA,36EF974E-87E8-4EBC-83D9-02CDE1CF766E,,"","","","",gcc-112928
+gcc-7321,A,Compositae,,Cynara,,"cardunculus",var.,"ferocissima","Lowe",Synonym,,L,TICA,46C1309B-1801-45CC-8790-0D9F4B7C8F1C,,"","","","",gcc-112928
+gcc-71354,A,Compositae,,Cynara,,"cardunculus",subsp.,"flavescens","Wiklund",Accepted,,L,TICA,9A91F3FD-3AA3-4C9B-B6EB-F595C23F3B91,965834-1,"Bot. J. Linn. Soc. 109: 120 (1992)","","120","1992",
+gcc-67496,A,Compositae,,Cynara,,"cardunculus",var.,"inermis","DC.",Synonym,,L,TICA,76DB75A0-DFCB-40EB-AFC2-D7B2AFC89416,,"","","","",gcc-112928
+gcc-60744,A,Compositae,,Cynara,,"cardunculus",var.,"sativa","Moris.",Synonym,,L,TICA,DB5F633F-8509-4FAE-8397-A0D2C5331577,,"Fl. Sard. 2 ( 1840)","","460","1840",gcc-71354
+gcc-26908,A,Compositae,,Cynara,,"cardunculus",subsp.,"scolymus","(L.) Hegi",Synonym,,L,TICA,ADFF33D3-F8F7-4376-BAFA-31C1B95DF808,,"Hegi. 1928.","","924","1928",gcc-71354
+gcc-46489,A,Compositae,,Cynara,,"cardunculus",var.,"scolymus","(L.) Benth.",Synonym,,L,TICA,CF759463-AB54-4768-8F46-5621A4F75471,125755-3,"","","","1867",gcc-112928
+gcc-58356,A,Compositae,,Cynara,,"cardunculus",subsp.,"scolymus","(L.) Beger",Synonym,,L,TICA,9E5DD889-2259-4BF9-BB4E-8E02849918F3,,"""Hegi, Ill. Fl. Mitt.-Eur. 6, 2 (1928)""","","924","1928",gcc-71354
+gcc-67675,A,Compositae,,Cynara,,"cardunculus",var.,"scolymus","(L.) Fiori",Synonym,,L,TICA,07033D08-2557-460A-A05F-D921688EB271,,"Fl. Ital. 3 (1904)","","380","1904",gcc-71354
+gcc-67035,A,Compositae,,Cynara,,"cardunculus",var.,"sylvestris","(Lam.) Fiori",Synonym,,L,TICA,78645934-5BC3-4419-9251-D3A56F80B980,,"","","","",gcc-112928
+gcc-42012,A,Compositae,,Cynara,,"cernua",,"","Stokes",Synonym,,M,TICA,6951C328-BAAC-46EA-9F5D-4DCC5DA820C1,,"","","","1812",gcc-137526
+gcc-129182,A,Compositae,,Cynara,,"colorata",,"","Stokes",Synonym,,M,TICA,9A854D16-05AE-4879-BA0F-DBB406CDE27C,,"","","","1812",gcc-20124
+gcc-87319,A,Compositae,,Cynara,,"communis",,"","Lam.",Synonym,,M,TICA,1E4D8C2E-DCD0-450F-830F-7D0104F599FB,,"Fl. Franc. 2 (1779)","","15","1779",gcc-71354
+gcc-27168,A,Compositae,,Cynara,,"cornigera",,"","Lindl.",Accepted,,M,TICA,48D7ED13-92A1-44D9-85D0-3240EF8BCC45,,"","","74","1840",
+gcc-729,A,Compositae,,Cynara,,"corsica",,"","Viv.",Synonym,,M,TICA,424D04C3-1B16-42BC-BEDF-015F6EC3AE64,200879-1,"","","68","1824",gcc-112928
+gcc-6176,A,Compositae,,Cynara,,"cyrenaica",,"","Maire & Weiller",Accepted,,M,TICA,7F3C569F-85FC-4876-8932-0B7D84D7C639,200880-1,"","","286","1939",
+gcc-17082,A,Compositae,,Cynara,,"diversifolia",,"","Stokes",Synonym,,M,TICA,87FA93F4-60ED-4A70-98EB-1F959FCB9BEA,,"","","","1812",gcc-11440
+gcc-30137,A,Compositae,,Cynara,,"eriocephala",,"","Stokes",Synonym,,M,TICA,A6AEAB3E-E55B-49DA-8D99-37C7DA92DBE2,,"","","","1812",gcc-14838
+gcc-92025,A,Compositae,,Cynara,,"erysithaloides",,"","Grecescu",Unresolved,,L,TICA,8C6D4259-50E5-426A-8B5B-87B07B84FC69,200883-1,"","","94","1909",
+gcc-83881,A,Compositae,,Cynara,,"esculenta",,"","Salisb.",Synonym,,M,TICA,B0BBB7A8-0B6A-4BF3-90D9-753B6B19E034,200884-1,"","","185","1796",gcc-71354
+gcc-35,A,Compositae,,Cynara,,"ferox",,"","Ten. ex Steud.",Synonym,,M,TICA,C58A15D0-DA55-476B-A885-00159469D862,200885-1,"","","462","1840",gcc-112928
+gcc-137152,A,Compositae,,Cynara,,"glomerata",,"","Thunb.",Synonym,,M,TICA,B89A19DB-60B1-4DB1-BF89-EDD776B695DE,200886-1,"","","141","1800",gcc-11096
+gcc-133209,A,Compositae,,Cynara,,"horrida",,"","Aiton",Synonym,,M,TICA,BCA83FE6-99DD-4581-9AFB-E4FE2A1B8169,200887-1,"","","148","1789",gcc-112928
+gcc-79897,A,Compositae,,Cynara,,"hortensis",,"","Mill.",Synonym,,M,TICA,8A38B3AF-8463-4CC7-AB14-6C5F91257FEE,200888-1,"","","2","1768",gcc-71354
+gcc-129427,A,Compositae,,Cynara,,"humilis",,"","Viv.",Unresolved,,L,TICA,A06D854F-DC01-4AE4-9690-DC3C41020056,200891-1,"Fl. Cors. App. ii. 8.","","ii. 8","",
+gcc-25414,A,Compositae,,Cynara,,"humilis",,"","L.",Accepted,,M,TICA,51611BFF-752E-4B8C-8B30-2EE9C9CD8368,200890-1,"","","828","1753",
+gcc-29834,A,Compositae,,Cynara,,"humilis",,"","Sibth. & Sm.",Unresolved,,L,TICA,2ADDC5DA-D604-4843-A1C9-372AD58D445C,200889-1,"Fl. Graec. ix. 25","","25","",
+gcc-42161,A,Compositae,,Cynara,,"humilis",,"","Juss.",Unresolved,,L,TICA,03287050-B28F-493C-83DD-4E1F1AFB245C,200892-1,"Gen. Pl. [Jussieu] 173","","173","1789",
+gcc-151662,A,Compositae,,Cynara,,"humilis",var.,"humilis","",Synonym,,L,TICA,6D741533-3A62-4471-9B0C-899E515CF8EE,,"","","","",gcc-25414
+gcc-70851,A,Compositae,,Cynara,,"humilis",var.,"leucantha","(Coss.) Cout.",Synonym,,L,TICA,DB4BEC68-22C2-4EC7-AFD9-F16FA0EF1F34,,"","","","",gcc-25414
+gcc-56248,A,Compositae,,Cynara,,"humilis",var.,"reflexa","Batt.",Synonym,,L,TICA,1D6937E9-6107-417C-BDF6-7CE85DF72C78,,"","","","",gcc-25414
+gcc-53997,A,Compositae,,Cynara,,"humilis",var.,"walliana","Maire",Synonym,,L,TICA,67ECCF41-10CA-4DD7-B56D-6A772C95078A,,"","","","",gcc-25414
+gcc-107277,A,Compositae,,Cynara,,"hystrix",,"","Ball",Synonym,,M,TICA,C4CA3E6B-D7DE-4FD0-98FE-A9B65BC6CDB8,200893-1,"J. Bot. 11","","369","1873",gcc-91037
+gcc-48174,A,Compositae,,Cynara,,"integrifolia",,"","Vahl",Synonym,,M,TICA,A512B4DE-4E48-48B0-A677-594A33D6875D,200894-1,"","","68","1790",gcc-85443
+gcc-7803,A,Compositae,,Cynara,,"kurdica",,"","Hand.-Mazz.",Synonym,,M,TICA,D836F216-CC65-4406-8679-0E8319A2B376,,"","","","1913",gcc-121432
+gcc-102598,A,Compositae,,Cynara,,"lamyroides",,"","Webb",Synonym,Invalid,M,TICA,CC46EC6F-A78E-4697-9865-9F80D502BA9B,200896-1,"","","34","1838",gcc-91037
+gcc-33775,A,Compositae,,Cynara,,"lanceata",,"","Stokes",Synonym,,M,TICA,40FCC608-4103-4A74-9D4E-3E9E3484E8A4,,"","","","1812",gcc-38246
+gcc-31993,A,Compositae,,Cynara,,"macrocephala",,"","Pau",Synonym,,M,TICA,14AE401C-0CB2-4B07-961F-3B4239F6D259,,"""Pau, Not. Bot. Fl. Españ. 6. 1895.""","","64","1895",gcc-26422
+gcc-132686,A,Compositae,,Cynara,,"palustris",,"","Stokes",Synonym,,M,TICA,89464524-0BFF-42C0-8906-E3CFF8548A83,,"","","","1812",gcc-14233
+gcc-43915,A,Compositae,,Cynara,,"pusilla",,"","Labill.",Synonym,,M,TICA,9780DA5C-FF2A-42B7-BDAA-515C4B99B7D5,200899-1,"","","11","1809",gcc-43577
+gcc-121821,A,Compositae,,Cynara,,"pygmaea",,"","Willd.",Synonym,,M,TICA,CBB748AD-E155-4C60-A25F-CA9B3ED7DF4F,200900-1,"","","1692","1803",gcc-122769
+gcc-133184,A,Compositae,,Cynara,,"repens",,"","Stokes",Synonym,,M,TICA,19FDD429-498A-4299-80C8-E4F1BA68E726,,"","","","1812",gcc-106632
+gcc-92751,A,Compositae,,Cynara,,"scolymus",,"","L.",Accepted,,M,TICA,81A81123-AD50-45CF-BF96-894CDB3212F9,200902-1,"Sp. Pl.","","827","1753",
+gcc-77651,A,Compositae,,Cynara,,"senneni",,"","Pau ex Sennen",Unresolved,,L,TICA,513BB5EE-7EE9-4E3A-AF8D-675941989786,200903-1,"""Campagn. Bot. Maroc Or. 1930-5, 76 (1936), nomen.""","","""1930-5, 76 , nomen.""","1936",
+gcc-13481,A,Compositae,,Cynara,,"sibthorpiana",,"","Boiss. & Heldr.",Synonym,,M,TICA,A9E604FE-5D16-4F8C-960E-191A4AFAD04C,,"","","94","1849",gcc-27168
+gcc-63992,A,Compositae,,Cynara,,"sibthorpiana",var.,"elata","Bég. & Vacc.",Synonym,,L,TICA,C185CF0A-61C7-4FD8-B924-BB20641F190F,,"","","","",gcc-27168
+gcc-67001,A,Compositae,,Cynara,,"sibthorpiana",var.,"mauginiana","Pamp.",Synonym,,L,TICA,6F90282E-0D45-4160-B379-D35F023FCE2D,,"","","","",gcc-27168
+gcc-154496,A,Compositae,,Cynara,,"sibthorpiana",var.,"sibthorpiana","",Synonym,,L,TICA,1C65CFA4-F1FF-4C02-9A84-C4A6F992E8FC,,"","","","",gcc-27168
+gcc-98569,A,Compositae,,Cynara,,"spinosissima",,"","J.Presl & C.Presl",Synonym,,M,TICA,0FC57B7A-9BD5-4E88-883C-966B2FED39BF,200905-1,"","","109","1822",gcc-112928
+gcc-96,A,Compositae,,Cynara,,"sylvestris",,"","Lam.",Synonym,,M,TICA,BA001C9F-D080-4060-97B9-003224364D4C,200906-1,"","","277","1783",gcc-112928
+gcc-20201,A,Compositae,,Cynara,,"syriaca",,"","Boiss.",Accepted,,M,TICA,DB51743D-D492-4C30-B50D-255258D763CB,,"","","94","1849",
+gcc-26422,A,Compositae,,Cynara,,"tournefortii",,"","Boiss. & Reut.",Accepted,,M,TICA,18F55C28-8FE4-4855-B0A5-30D26D847B20,200908-1,"","","18","1842",
+gcc-11294,A,Compositae,,Cynara,,"tuberosa",,"","Stokes",Synonym,,M,TICA,3C85E401-198E-47D7-9925-151D44F554F4,,"","","","1812",gcc-87956

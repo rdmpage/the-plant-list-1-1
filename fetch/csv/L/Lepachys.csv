@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41211,A,Compositae,,Lepachys,,"angustifolia",,"","Torr. & A.Gray",Unresolved,,L,TICA,00A858DB-9A9B-4C3B-B6D7-4C5F41D278F3,229671-1,"""Fl. N. Amer. (Torr. & A. Gray) 2: 314, in syn.""","","314","1842",
+gcc-111383,A,Compositae,,Lepachys,,"columnaris",,"","(Pursh) Torr. & A.Gray",Synonym,,M,TICA,5BEB8E64-F0EF-4D8A-AB74-B2FB620CE4B8,229672-1,"","","315","1842",gcc-40309
+gcc-778,A,Compositae,,Lepachys,,"columnaris",var.,"columnaris","",Synonym,,L,TICA,C81A4B8B-6C0F-407B-AF30-0173B414EE5D,,"","","","",gcc-40309
+gcc-2612,A,Compositae,,Lepachys,,"columnaris",var.,"pulcherrima","(DC.) Torr. & A.Gray",Synonym,,L,TICA,D6B59E42-E08A-44A0-A6EA-04CE0806CF8C,,"Fl. N Amer. 2 (1841)","","315","",gcc-74878
+gcc-89641,A,Compositae,,Lepachys,,"columnifera",,"","(Nutt.) J.F.Macbr.",Synonym,,M,TICA,646793FE-2FCB-4841-ADC3-822899B3EFF9,137384-2,"Contr. Gray Herb. 65","","45","1922",gcc-40309
+gcc-154793,A,Compositae,,Lepachys,,"columnifera",f.,"columnifera","",Synonym,,L,TICA,520E845C-95E1-4F6E-89D0-CB0BEB30D6FB,,"","","","",gcc-40309
+gcc-66758,A,Compositae,,Lepachys,,"columnifera",var.,"columnifera","",Synonym,,L,TICA,CC740C21-176A-476A-8156-D17AC99908CC,,"","","","",gcc-40309
+gcc-143082,A,Compositae,,Lepachys,,"mexicana",,"","S.Watson",Synonym,,M,TICA,B1AC08F1-C29D-40AC-A83F-FB1AC3F80D57,137387-2,"","","277","1888",gcc-38076
+gcc-25015,A,Compositae,,Lepachys,,"peduncularis",,"","Torr. & A.Gray",Synonym,,M,TICA,A8D9CE4D-B680-48C3-8557-2E375DA50911,,"Fl. N. Amer. (Torr. & A. Gray) 2: 315","","","1842",gcc-121734
+gcc-152983,A,Compositae,,Lepachys,,"peduncularis",var.,"peduncularis","",Synonym,,L,TICA,37318005-88CA-4500-9416-A4D2C6AB9005,,"","","","",gcc-121734
+gcc-54889,A,Compositae,,Lepachys,,"peduncularis",var.,"picta","A.Gray",Synonym,,L,TICA,D0C755C6-A948-455C-B43F-71A1137A4752,137389-2,"Smithsonian Contr. Knowl. 3(5): 107. 1852 Pl. Wright. pt. 1","","107","1852",gcc-54659
+gcc-85576,A,Compositae,,Lepachys,,"pinnata",,"","(Vent.) Torr. & A.Gray",Synonym,,L,TICA,52978CA6-0191-425C-A584-78F90A6F5241,229676-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 314","","314","1842",gcc-82238
+gcc-132643,A,Compositae,,Lepachys,,"pinnatifida",,"","Raf.",Synonym,,L,TICA,D38228C6-E580-483F-A724-E3B50598447C,,"","","","1819",gcc-82238
+gcc-141319,A,Compositae,,Lepachys,,"serratus",,"","Buckley",Unresolved,,L,TICA,A04041E6-DEA3-4D60-9553-F71B7554BAA0,229678-1,"in Proc. Acad. Sc. Philad. 1861 (1862) 457.","","1861  457","1862",
+gcc-93445,A,Compositae,,Lepachys,,"tagetes",,"","(E.James) A.Gray",Unresolved,,L,TICA,7C9CA2DE-66E6-4C4F-9969-8AC0D3CB9094,,"in Pacif. Rail. Rep. iv. 103.","","","1856",gcc-144624

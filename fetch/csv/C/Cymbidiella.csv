@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-53061,A,Orchidaceae,,Cymbidiella,,"falcigera",,"","(Rchb.f.) Garay",Accepted,,H,WCSP,53061,624914-1,"Orchid Digest","40: 192","","1976",
+kew-53062,A,Orchidaceae,,Cymbidiella,,"flabellata",,"","(Thouars) Rolfe",Accepted,,H,WCSP,53062,624915-1,"Orchid Rev.","26: 58","","1918",
+kew-53063,A,Orchidaceae,,Cymbidiella,,"humblotii",,"","(Rolfe) Rolfe",Synonym,,H,WCSP,53063,624916-1,"Orchid Rev.","26: 58","","1918",kew-53061
+kew-53064,A,Orchidaceae,,Cymbidiella,,"pardalina",,"","(Rchb.f.) Garay",Accepted,,H,WCSP,53064,624917-1,"Orchid Digest","40: 192","","1976",
+kew-53065,A,Orchidaceae,,Cymbidiella,,"perrieri",,"","Schltr.",Synonym,,H,WCSP,53065,624918-1,"Repert. Spec. Nov. Regni Veg. Beih.","33: 272","","1925",kew-53062
+kew-53066,A,Orchidaceae,,Cymbidiella,,"rhodochila",,"","(Rolfe) Rolfe",Synonym,,H,WCSP,53066,624919-1,"Orchid Rev.","26: 58","","1918",kew-53064

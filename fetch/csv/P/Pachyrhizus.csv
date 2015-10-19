@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-24525,A,Leguminosae,,Pachyrhizus,,"ahipa",,"","(Wedd.) Parodi",Accepted,,H,ILDIS,24525,,"","","","",
+ild-26695,A,Leguminosae,,Pachyrhizus,,"ahipa",var.,"albifora","Parodi",Synonym,,L,ILDIS,26695,,"","","","",ild-24525
+ild-26694,A,Leguminosae,,Pachyrhizus,,"ahipa",var.,"violacea","Parodi",Synonym,,L,ILDIS,26694,,"","","","",ild-24525
+ild-28407,A,Leguminosae,,Pachyrhizus,,"angulatus",,"","DC.",Synonym,,H,ILDIS,28407,,"","","","",ild-2918
+ild-29006,A,Leguminosae,,Pachyrhizus,,"angulatus",var.,"integrifolius","Donn.Sm.",Synonym,,L,ILDIS,29006,,"","","","",ild-28350
+ild-28408,A,Leguminosae,,Pachyrhizus,,"articulatus",,"","Walp.",Synonym,,H,ILDIS,28408,,"","","","",ild-2918
+ild-28409,A,Leguminosae,,Pachyrhizus,,"bulbosus",,"","(L.) Kurz",Synonym,,H,ILDIS,28409,,"","","","",ild-2918
+kew-2531778,_,,,Pachyrhizus,,"erosus",,"","Urb.",Unresolved,,L,WCSP (in review),,,"Symb. Antill.","4: 311","","1905",
+ild-2918,A,Leguminosae,,Pachyrhizus,,"erosus",,"","(L.) Urb.",Accepted,,H,ILDIS,2918,,"","","","",
+tro-13068641,A,Leguminosae,,Pachyrhizus,,"erosus",var.,"erosus","",Synonym,,L,TRO,13068641,,"","","","",ild-2918
+ild-28418,A,Leguminosae,,Pachyrhizus,,"erosus",var.,"palmatilobus","(DC.) R.T.Clausen",Synonym,,L,ILDIS,28418,,"","","","",ild-2918
+ild-28410,A,Leguminosae,,Pachyrhizus,,"erosus",var.,"typicus","R.T.Clausen",Synonym,,L,ILDIS,28410,,"","","","",ild-2918
+ild-56533,A,Leguminosae,,Pachyrhizus,,"ferrugineous",,"","(Piper) M.Sorensen",Synonym,Spelling variant,H,ILDIS,56533,,"","","","",ild-28350
+ild-28350,A,Leguminosae,,Pachyrhizus,,"ferrugineus",,"","(Piper) M.Sorensen",Accepted,,H,ILDIS,28350,,"","","","",
+ild-28414,A,Leguminosae,,Pachyrhizus,,"jicamas",,"","Blanco",Synonym,,H,ILDIS,28414,,"","","","",ild-2918
+ild-50292,A,Leguminosae,,Pachyrhizus,,"mollis",,"","Hassk.",Synonym,,H,ILDIS,50292,,"","","","",ild-40059
+ild-50290,A,Leguminosae,,Pachyrhizus,,"montanus",,"","(Lour.) DC.",Synonym,,H,ILDIS,50290,,"","","","",ild-31247
+tro-13031278,A,Leguminosae,,Pachyrhizus,,"orbicularis",,"","Welw. ex Baker",Synonym,,M,TRO,13031278,512020-1,"Fl. Trop. Afr.","2: 208","208","1871",ild-2881
+ild-28417,A,Leguminosae,,Pachyrhizus,,"palmatilobus",,"","(DC.) Benth. & Hook.f.",Synonym,,H,ILDIS,28417,179939-2,"","","","",ild-2918
+ild-28335,A,Leguminosae,,Pachyrhizus,,"panamensis",,"","R.T.Clausen",Accepted,,H,ILDIS,28335,,"","","","",
+ild-28416,A,Leguminosae,,Pachyrhizus,,"strigosus",,"","R.T.Clausen",Synonym,,H,ILDIS,28416,,"","","","",ild-2918
+ild-53334,A,Leguminosae,,Pachyrhizus,,"teres",,"","Blanco",Synonym,,H,ILDIS,53334,,"","","","",ild-2986
+ild-29307,A,Leguminosae,,Pachyrhizus,,"thunbergianus",,"","Siebold & Zucc.",Synonym,,H,ILDIS,29307,,"","","","",ild-40432
+ild-44499,A,Leguminosae,,Pachyrhizus,,"trilobus",,"","DC.",Synonym,,H,ILDIS,44499,,"","","","",ild-40433
+ild-24329,A,Leguminosae,,Pachyrhizus,,"tuberosus",,"","(Lam.) Spreng.",Accepted,,H,ILDIS,24329,1159036-2,"","","","",
+ild-29003,A,Leguminosae,,Pachyrhizus,,"vernalis",,"","R.T.Clausen",Synonym,,H,ILDIS,29003,,"","","","",ild-28350
+ild-29005,A,Leguminosae,,Pachyrhizus,,"vernalis",var.,"angustilobatus","R.T.Clausen",Synonym,,L,ILDIS,29005,,"","","","",ild-28350
+ild-29007,A,Leguminosae,,Pachyrhizus,,"vernalis",var.,"integrifolius","(Donn.Sm.) R.T.Clausen",Synonym,,L,ILDIS,29007,,"","","","",ild-28350
+ild-29008,A,Leguminosae,,Pachyrhizus,,"vernalis",var.,"linearifoliolus","R.T.Clausen",Synonym,,L,ILDIS,29008,,"","","","",ild-28350
+ild-29004,A,Leguminosae,,Pachyrhizus,,"vernalis",var.,"typicus","R.T.Clausen",Synonym,,L,ILDIS,29004,,"","","","",ild-28350
+tro-13067585,A,Leguminosae,,Pachyrhizus,,"vernalis",var.,"vernalis","",Synonym,,L,TRO,13067585,,"","","","",ild-28350

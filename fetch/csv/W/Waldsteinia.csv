@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+rjp-6259,A,Rosaceae,,Waldsteinia,,"doniana",,"","Tratt.",Synonym,,L,RJP,6259,,"Rosacearum monographia","Rosacearum monographia; 1823","109","1823",rjp-6256
+rjp-6255,A,Rosaceae,,Waldsteinia,,"fragarioides",,"","(Michx.) Tratt.",Accepted,,L,RJP,6255,,"Rosacearum monographia","Rosacearum monographia; 1823","107","1823",
+rjp-6256,A,Rosaceae,,Waldsteinia,,"fragarioides",subsp.,"doniana","(Tratt.) Teppner",Accepted,,L,RJP,6256,267642-2,"Zur Kenntnis der Gattung Waldsteinia","Zur Kenntnis der Gattung Waldsteinia; 1968","49","1968",
+rjp-6257,A,Rosaceae,,Waldsteinia,,"fragarioides",subsp.,"fragarioides","",Synonym,,L,RJP,6257,,"","; ","","",rjp-6255
+tro-27803318,A,Rosaceae,,Waldsteinia,,"fragarioides",var.,"fragarioides","",Synonym,,L,TRO,27803318,,"","","","",rjp-6255
+rjp-6260,A,Rosaceae,,Waldsteinia,,"fragarioides",var.,"parviflora","(Small) Fernald",Synonym,,L,RJP,6260,267644-2,"","; 1935","285","1935",rjp-6256
+rjp-9739,A,Rosaceae,,Waldsteinia,,"geoides",,"","Willd.",Accepted,,H,RJP,9739,742769-1,"","; 1799","106, t.4,f.1","1799",
+rjp-4430,A,Rosaceae,,Waldsteinia,,"idahoensis",,"","Piper",Unresolved,,L,RJP,4430,267645-2,"","; 1903","180","1903",rjp-60515
+rjp-4431,A,Rosaceae,,Waldsteinia,,"lobata",,"","(Baldwin) Torr. & A.Gray",Unresolved,,L,RJP,4431,,"A flora of North America","A flora of North America; 1838","426","1840",rjp-60514
+rjp-19224,A,Rosaceae,,Waldsteinia,,"maximowicziana",,"","Juz.",Unresolved,,L,RJP,19224,,"Flora USSR","Flora USSR; 1934","240","1941",
+rjp-34151,A,Rosaceae,,Waldsteinia,,"maximowicziana",,"","(Juz. ex Teppner) M jovský",Unresolved,,L,RJP,34151,,"","; 1978","12","1978",rjp-52095
+rjp-52095,A,Rosaceae,,Waldsteinia,,"maximowicziana",,"","(Juz. ex Teppner) Prob.",Unresolved,,L,RJP,52095,77079523-1,"Flora Rossyskogo Dal'nego Vostoka","Flora Rossyskogo Dal'nego Vostoka; 2006","161","2006",
+rjp-19223,A,Rosaceae,,Waldsteinia,,"moenchii",,"","Tratt.",Unresolved,,L,RJP,19223,,"Rosacearum monographia","Rosacearum monographia; 1823","106","1823",
+rjp-6261,A,Rosaceae,,Waldsteinia,,"parviflora",,"","Small",Synonym,,L,RJP,6261,267646-2,"","; 1898","137","1898",rjp-6256
+rjp-6258,A,Rosaceae,,Waldsteinia,,"pendula",,"","(Urb.) Mez",Accepted,,H,RJP,6258,,"","; ","","",
+rjp-10201,A,Rosaceae,,Waldsteinia,,"sibirica",,"","Tratt.",Synonym,,L,RJP,10201,,"Rosacearum monographia","Rosacearum monographia; 1823","108","1823",rjp-1166
+rjp-14867,A,Rosaceae,,Waldsteinia,,"tanzybeica",,"","Stepanov",Unresolved,,L,RJP,14867,982393-1,"","; 1994","111, f.2","1994",rjp-60516
+rjp-34152,A,Rosaceae,,Waldsteinia,×,"teppneri",,"","M jovský",Synonym,,L,RJP,34152,,"","; 1978","12","1978",rjp-19225
+rjp-1352,A,Rosaceae,,Waldsteinia,,"ternata",,"","(Stephan) Fritsch",Accepted,,H,RJP,1352,742776-1,"","; 1889","168","1889",
+rjp-10971,A,Rosaceae,,Waldsteinia,,"ternata",var.,"glabriuscula","T.T.Yu & C.L.Li",Synonym,,L,RJP,10971,919170-1,"Flora reipublicae popularis sinicae","Flora reipublicae popularis sinicae; 1974","233","1985",rjp-1352
+rjp-19232,A,Rosaceae,,Waldsteinia,,"ternata",subsp.,"magicii","M jovský",Synonym,,L,RJP,19232,,"","; 1978","12","1978",rjp-19225
+rjp-34150,A,Rosaceae,,Waldsteinia,,"ternata",subsp.,"maximowicziana","Juz. ex Teppner",Unresolved,,L,RJP,34150,,"Zur Kenntnis der Gattung Waldsteinia","Zur Kenntnis der Gattung Waldsteinia; 1968","71","1968",rjp-52095
+rjp-1166,A,Rosaceae,,Waldsteinia,,"ternata",subsp.,"ternata","",Unresolved,,L,RJP,1166,,"","; ","","",
+rjp-19225,A,Rosaceae,,Waldsteinia,,"ternata",subsp.,"trifolia","(Rochel ex W.D.J.Koch) Teppner",Unresolved,,L,RJP,19225,,"Zur Kenntnis der Gattung Waldsteinia","Zur Kenntnis der Gattung Waldsteinia; 1968","61","1968",
+rjp-10700,A,Rosaceae,,Waldsteinia,,"trifolia",,"","Rochel ex W.D.J.Koch",Synonym,,L,RJP,10700,,"","; 1839","337, t.6","1839",rjp-19225
+rjp-19226,A,Rosaceae,,Waldsteinia,,"trifoliata",,"","Steud.",Synonym,,L,RJP,19226,,"Nomenclator botanicus","Nomenclator botanicus; 1840","783","1841",rjp-19225
+rjp-44091,A,Rosaceae,,Waldsteinia,,"triloba",,"","Hornung",Unresolved,,L,RJP,44091,,"Enumeratio stirpium magno Transsilvaniae","Enumeratio stirpium magno Transsilvaniae; 1816","45","1846",

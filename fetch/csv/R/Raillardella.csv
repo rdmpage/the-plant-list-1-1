@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-8853,A,Compositae,,Raillardella,,"argentea",,"","(A.Gray) A.Gray",Accepted,,M,TICA,E71F00ED-4B60-430F-B94F-10927C66DE9A,,"in Bot. Calif. i. 417.","","","1876",
+gcc-113117,A,Compositae,,Raillardella,,"eiseni",,"","Kellogg ex A.Gray",Unresolved,,L,TICA,2ECD0726-C914-4303-93C1-B6EC8DB69FD8,241120-1,"Syn. Fl. N. Am. i. II. 380.","","i. II. 380","",
+gcc-34958,A,Compositae,,Raillardella,,"minima",,"","Rydb.",Synonym,,M,TICA,A24FDDA8-3C83-47CB-879C-40CF402C5BEC,216832-2,"","","319","1927",gcc-8853
+gcc-20558,A,Compositae,,Raillardella,,"muirii",,"","A.Gray",Synonym,,M,TICA,F20DB39C-4024-4F9A-8A43-260C8223882B,216833-2,"","","618","1876",gcc-145034
+gcc-77235,A,Compositae,,Raillardella,,"nevadensis",,"","A.Nelson & P.B.Kenn.",Unresolved,,L,TICA,3A472DF8-77F4-4BCB-B95C-666F7D7D1192,216834-2,"Proc. Biol. Soc. Wash. 19: 38. 1906","","38","1906",
+gcc-118714,A,Compositae,,Raillardella,,"paniculata",,"","Greene",Synonym,,M,TICA,F6510D61-2F83-439E-866D-C3919F09A3A6,216835-2,"","","48","1895",gcc-115391
+gcc-115911,A,Compositae,,Raillardella,,"pringlei",,"","Greene",Accepted,,M,TICA,C9533A0B-FF44-491E-97DE-BD40DB65E98A,,"Bull. Torrey Bot. Club ix. (1882) 17.","","","1882",
+gcc-103283,A,Compositae,,Raillardella,,"scabrida",,"","Eastw.",Synonym,,M,TICA,182619CE-F106-43E0-B407-A0EFD4943E8E,241126-1,"","","","1905",gcc-112811
+gcc-37798,A,Compositae,,Raillardella,,"scaposa",,"","(A.Gray) A.Gray",Accepted,,M,TICA,5BA7EEE7-D4DD-44ED-8C88-4619455810C7,,"in Bot. Calif. i. 417.","","","1876",
+gcc-147540,A,Compositae,,Raillardella,,"scaposa",var.,"scaposa","",Synonym,,L,TICA,76700A84-6DD2-4930-BE81-2FA71988D7AA,,"","","","",gcc-37798

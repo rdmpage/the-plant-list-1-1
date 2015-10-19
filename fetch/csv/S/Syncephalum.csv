@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-80108,A,Compositae,,Syncephalum,,"arbutifolium",,"","(Baker) Humbert",Accepted,,M,TICA,3EBD3882-6452-4E84-8D7D-6CE328A67F5F,252007-1,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv). 66 (1923), in clavi.""","","","1923",
+gcc-118660,A,Compositae,,Syncephalum,,"bojeri",,"","DC.",Synonym,,M,TICA,1BBE6998-67D7-4C52-9214-C3787ACCC41C,,"Prodr. (DC.) 6: 282","","282","",gcc-80108
+gcc-117707,A,Compositae,,Syncephalum,,"candidum",,"","Humbert",Unresolved,,L,TICA,4B0219C5-D3D1-47D3-B3C8-C143A74B4166,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv). 66, 287 (1923).""","","","1923",
+gcc-52020,A,Compositae,,Syncephalum,,"perrieri",,"","Humbert",Synonym,,M,TICA,53D3876A-C0A5-47A9-9B34-607F6A62394A,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv). 66, 288 (1923).""","","","1923",gcc-80108
+gcc-4707,A,Compositae,,Syncephalum,,"stenoclinoides",,"","Humbert",Unresolved,,L,TICA,00F04DB7-4C73-4706-8425-08C10A6CC466,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv). 67, 288 (1923).""","","","1923",
+gcc-99188,A,Compositae,,Syncephalum,,"suborbiculare",,"","Humbert",Unresolved,,L,TICA,85F918C7-A015-4A26-AFA5-97CBDF282F4D,,"""Composees Madag. (Mem. Soc. Linn. Normand. xxv). 67, 288 (1923).""","","","1923",
+gcc-90953,A,Compositae,,Syncephalum,,"tsinjoarivense",,"","Humbert",Unresolved,,L,TICA,F086999B-96A8-4DB0-90A2-853A8E105A18,,"""in Humbert, Not. Syst. viii. 11 (1939).""","","","1939",

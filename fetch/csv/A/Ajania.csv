@@ -1,0 +1,80 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-38106,A,Compositae,,Ajania,,"abolinii",,"","Kovalevsk.",Accepted,,M,TICA,F42C1ECF-802F-4EF3-81B0-46B04DCABB85,931328-1,"Novosti Sist. Vyssh. Rast. 23: 247 (1986)","","247","1986",
+gcc-128529,A,Compositae,,Ajania,,"achilleoides",,"","(Turcz.) Poljakov ex Grubov",Accepted,,M,TICA,76415840-FE13-42D1-835A-DA36A07C1794,175787-1,"Novosti Sist. Vyssh. Rast. 9","","296","1972",
+gcc-454,A,Compositae,,Ajania,,"adenantha",,"","(Diels) Muldashev",Synonym,Illegitimate,M,TICA,766C62CF-93AD-488B-96BF-00D6F25B6C07,911696-1,"","","211","1983",gcc-98125
+gcc-98125,A,Compositae,,Ajania,,"adenantha",,"","(Diels) Ling & Shih",Accepted,,M,TICA,FD29AB78-8266-456A-A2EA-956BD3F423D6,175788-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6): 13""","","13","1980",
+tro-50144882,A,Compositae,,Ajania,,"alabasia",,"","H.C. Fu",Synonym,,M,TRO,50144882,899117-1,"Fl. Intramongol.","6: 325, pl. 34","325","1982",tro-50268276
+gcc-1430,A,Compositae,,Ajania,,"alabasica",,"","H.C.Fu",Synonym,,M,TICA,C44DD29C-64A4-4CC3-B9EF-029405CD0CCB,899117-1,"","","325","1982",gcc-113561
+gcc-106594,A,Compositae,,Ajania,,"amphiseriacea",,"","(Hand.-Mazz.) C.Shih",Accepted,,M,TICA,D967C7D8-CD4A-45D3-A882-A82A045D0617,979066-1,"","","366","1994",
+gcc-123501,A,Compositae,,Ajania,,"aureoglobosa",,"","Muldashev",Accepted,,M,TICA,BD90A9B6-8A6E-4BAA-87E3-CE7B6F290A06,911697-1,"","","212","1983",
+gcc-26672,A,Compositae,,Ajania,,"brachyantha",,"","C.Shih",Synonym,,M,TICA,59B7DD8F-B28F-47D3-BABB-31464B878327,175789-1,"Acta Phytotax. Sin. 17(2)","","114","1979",gcc-136375
+gcc-103396,A,Compositae,,Ajania,,"breviloba",,"","(Franch. ex Hand.-Mazz.) Y.Ling & C.Shih",Accepted,,L,TICA,71628EEB-8C97-4118-AA3B-A12E3A369489,175790-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","13","1980",
+gcc-33972,A,Compositae,,Ajania,,"breviloba",,"","(Franch. ex Hand.-Mazz.) Muldashev",Unresolved,,L,TICA,21114398-D8BF-41CB-A907-3F01F54FA11C,911698-1,"""in Bot. Zhurn., 68(2): 211 (1983):.""","","211","1983",gcc-103396
+gcc-127345,A,Compositae,,Ajania,,"dentata",,"","X.D.Cui",Synonym,,M,TICA,43CAEA08-700A-4E7C-8BD8-D7715C76E741,896866-1,"""Bull. Bot. Res., Harbin 1(4)""","","143","1981",gcc-15791
+gcc-6222,A,Compositae,,Ajania,,"elegantula",,"","(W.W.Sm.) C.Shih",Accepted,,M,TICA,23866F03-5DB0-4B30-8F59-0B93A05B0E9F,175791-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","15","1980",
+gcc-8135,A,Compositae,,Ajania,,"elegantula",,"","(W.W.Sm.) Muldashev",Synonym,Illegitimate,M,TICA,6FE00A61-E1A2-4132-A82B-0F2027E78B84,911699-1,"""in Bot. Zhurn., 68(2): 212 (1983):.""","","212","1983",gcc-6222
+gcc-127327,A,Compositae,,Ajania,,"fastigiata",,"","(C.Winkl.) Poljakov",Accepted,,M,TICA,F5DC6D3D-B3C4-4700-9174-D762FAA634BB,175792-1,"","","428","1955",
+gcc-48822,A,Compositae,,Ajania,,"fruticulosa",,"","(Ledeb.) Poljakov",Accepted,,M,TICA,016FEB5A-996A-45B9-8EB5-5A71EC517032,175793-1,"","","428","1955",
+gcc-69153,A,Compositae,,Ajania,,"fruticulosa",var.,"davidii","(Krasch.) Muldashev",Synonym,,L,TICA,D4030F7C-892E-4F45-9892-E44E5C549050,920486-1,"","","1531","1982",gcc-48822
+gcc-152528,A,Compositae,,Ajania,,"fruticulosa",var.,"fruticulosa","",Synonym,,L,TICA,6CBFC263-5F9A-4F12-B3A3-9B7022CCF3A3,,"","","","",gcc-48822
+gcc-47830,A,Compositae,,Ajania,,"fruticulosa",var.,"kuenlunica","Muldashev",Synonym,,L,TICA,5AC9CD70-F62E-4292-9AD5-589E7D5D1D4B,916778-1,"","","1530","1982",gcc-48822
+gcc-62119,A,Compositae,,Ajania,,"fruticulosa",var.,"ramosissima","Muldashev",Synonym,,L,TICA,47F1A8DB-FDC6-4539-A01C-AC2A3996C631,916779-1,"","","1531","1982",gcc-48822
+gcc-50653,A,Compositae,,Ajania,,"furcata",,"","(M.Bieb.) Poljakov",Synonym,,M,TICA,9718DEC0-DBDB-4A6F-BA93-5DEA206997C9,,"","","","1955",gcc-79907
+gcc-40528,A,Compositae,,Ajania,,"globularia",,"","(Cham. ex Besser) Poljakov",Synonym,,M,TICA,9E468EB7-F19D-4BC0-8637-4B196FD96922,7978-2,"","","426","1955",gcc-129188
+gcc-106443,A,Compositae,,Ajania,,"glomerata",,"","(Ledeb.) Poljakov",Synonym,,M,TICA,31B1FFAE-21E2-41E6-8C6C-A7CE45B6EEBB,175796-1,"","","426","1955",gcc-134621
+gcc-131174,A,Compositae,,Ajania,,"gracilis",,"","(Hook.f. & Thomson) Poljakov ex Tzvelev",Synonym,,M,TICA,7D9293F0-1292-4936-B191-E0463FC6E024,175797-1,"","","407","1961",gcc-48822
+gcc-18140,A,Compositae,,Ajania,,"gracilis",,"","(Hook.f. & Thomson) Poljakov",Accepted,,M,TICA,A140FE91-A72B-4616-ABCE-2181F6A3875E,,"","","407","1961",
+gcc-146889,A,Compositae,,Ajania,,"grubovii",,"","Muldashev",Accepted,,M,TICA,4D748FBB-79E5-4739-83A0-21C4A2F1F3E9,899118-1,"","","1529","1982",
+gcc-46863,A,Compositae,,Ajania,,"hypoleuca",,"","Ling ex C.Shih",Synonym,,M,TICA,04680D6D-4533-4742-8332-56D979ADAD3E,979068-1,"","","366","1994",gcc-21875
+gcc-110292,A,Compositae,,Ajania,,"insulana",,"","(Krasch.) Poljakov",Synonym,,M,TICA,45DACE60-6DBA-43BA-9F96-B08C940297B4,,"","","","1955",gcc-90458
+gcc-121084,A,Compositae,,Ajania,,"junnanica",,"","Poljakov",Synonym,,M,TICA,A711E761-0382-4E98-B164-C90308D404FD,175799-1,"","","424","1955",gcc-76607
+gcc-27371,A,Compositae,,Ajania,,"khartense",,"","(Dunn) Shih ex H.C.Fu",Unresolved,,L,TICA,4FA7397E-EE4E-4E13-B41F-329FB20C78BE,909931-1,"""in Fl. Intramongolica, 6: 96 (1982):.""","","96","1982",
+gcc-85783,A,Compositae,,Ajania,,"khartensis",,"","(Dunn) C.Shih",Accepted,,L,TICA,298E2BCF-A4B0-4D22-9E66-796DF80F0711,,"Acta Phytotax. Sin. 17(2)","","115","1979",
+gcc-39058,A,Compositae,,Ajania,,"kokanica",,"","(Krasch.) Tzvelev",Synonym,,M,TICA,CE4EB84B-9E6A-4748-8B25-48773137C09C,175801-1,"","","408","1961",gcc-134811
+gcc-81843,A,Compositae,,Ajania,,"korovinii",,"","Kovalevsk.",Accepted,,M,TICA,FDB4B9AC-ED1E-4A46-8B96-70AF9B610A62,931327-1,"Novosti Sist. Vyssh. Rast. 23: 246 (1986)","","246","1986",
+gcc-120709,A,Compositae,,Ajania,,"latifolia",,"","C.Shih",Synonym,,M,TICA,109589DE-E070-44FB-A47B-C82CCC2E31E6,175802-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","12","1980",gcc-118838
+gcc-13065,A,Compositae,,Ajania,,"leontopodioides",,"","(Besser) Poljakov",Synonym,,M,TICA,2DB5D905-32D9-490C-B42D-18567CEBE7C7,,"","","","1955",gcc-134621
+tro-2744299,A,Compositae,,Ajania,,"manchurica",,"","Poljakov",Synonym,,M,TRO,2744299,,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR","17: 425","425","1955",gcc-51212
+gcc-18117,A,Compositae,,Ajania,,"manshurica",,"","Poljakov",Synonym,,M,TICA,1ED9FA14-06F0-4FFB-A790-217607110C44,175804-1,"","","420","1955",gcc-51212
+gcc-83840,A,Compositae,,Ajania,,"microphylla",,"","Ling",Synonym,,M,TICA,98522120-03E0-476D-9FB0-75267C18BAC0,,"in sched.","","","",gcc-85783
+gcc-25432,A,Compositae,,Ajania,,"mutellina",,"","(Hand.-Mazz.) Muldashev",Accepted,,M,TICA,F6129B65-CAE0-4F68-8602-2EF32091572D,911700-1,"","","211","1983",
+gcc-145095,A,Compositae,,Ajania,,"myriantha",,"","(Franch.) Ling ex C.Shih",Accepted,,M,TICA,2C45E148-9419-4A38-8A55-FFA616F103FB,175805-1,"Acta Phytotax. Sin. 17(2): 114 (1979)","","114","1979",
+gcc-104011,A,Compositae,,Ajania,,"nana",,"","(Krasch.) Muldashev",Accepted,,M,TICA,E08D9011-A537-4B3A-84A3-A2913F3775CF,911701-1,"","","212","1983",
+gcc-108460,A,Compositae,,Ajania,,"nematoloba",,"","(Hand.-Mazz.) Muldashev",Synonym,Illegitimate,M,TICA,E20D0082-58B9-4B9C-B792-AC56C820197F,911702-1,"""in Bot. Zhurn., 68(2): 212 (1983):.""","","212","1983",gcc-82393
+gcc-82393,A,Compositae,,Ajania,,"nematoloba",,"","(Hand.-Mazz.) Y.Ling & C.Shih",Accepted,,M,TICA,B460C125-5B19-4D99-86B4-71F7C7C16449,175806-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","16","1980",
+gcc-148432,A,Compositae,,Ajania,,"nematoloba",var.,"nematoloba","",Synonym,,L,TICA,F8B5ECD3-3723-49D8-A346-426160AECCA0,,"","","","",gcc-82393
+gcc-123237,A,Compositae,,Ajania,,"nitida",,"","C.Shih",Synonym,,M,TICA,FCDC5FCD-F6AE-4DA9-9526-CDD663EE4823,175807-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","15","1980",gcc-113973
+gcc-109128,A,Compositae,,Ajania,,"nubigena",,"","(Wall.) C.Shih",Accepted,,M,TICA,9ABA0A9E-B520-4A4F-9727-ADF22677460E,175808-1,"""Acta Phytotax. Sin. 17(2): 116 (1979), basionym not validly publ.""","","116","1979",
+gcc-90883,A,Compositae,,Ajania,,"nubigena",,"","(Wall. ex DC.) Muldashev",Synonym,Illegitimate,M,TICA,70633B7A-1DB0-4210-A93D-8518C7848D43,911703-1,"","","212","1983",gcc-109128
+gcc-98271,A,Compositae,,Ajania,,"oresbia",,"","(W.W.Sm.) Muldashev",Accepted,,M,TICA,17B3FC38-E89E-4C16-86FE-95B72DB3A5F2,911704-1,"","","212","1983",
+gcc-49914,A,Compositae,,Ajania,,"pacifica",,"","(Nakai) K.Bremer & Humphries",Accepted,,M,TICA,FDB1F96E-7933-41FE-8C1F-5C8718C75EAA,975119-1,"","","115","1993",
+gcc-34945,A,Compositae,,Ajania,,"pallasiana",,"","(Fisch. ex Besser) Poljakov",Accepted,,M,TICA,D3AE273A-41F2-45E2-A9D8-40C9DC26FD30,175809-1,"","","420","1955",
+gcc-116345,A,Compositae,,Ajania,,"parviflora",,"","(Gruming) Ling",Accepted,,M,TICA,FFE86C1F-9704-43A5-A811-BE361E4552CB,,"Bulletin of Botanical Laboratory of North-Eastern Forestry Institute 6:","","15","1980",
+gcc-15791,A,Compositae,,Ajania,,"potaninii",,"","(Krasch.) Poljakov",Accepted,,M,TICA,2A4E4382-EED0-4468-9A12-1D3E3CD2A271,175810-1,"","","424","1955",
+gcc-39621,A,Compositae,,Ajania,,"przewalskii",,"","Poljakov",Synonym,,M,TICA,A9BD61A7-5085-410C-9655-4987279A4F30,175811-1,"","","422","1955",gcc-104972
+gcc-82325,A,Compositae,,Ajania,,"purpurea",,"","C.Shih",Synonym,,M,TICA,2478466E-0E06-4249-A076-71C67C61AAA1,175812-1,"Acta Phytotax. Sin. 17(2)","","115","1979",gcc-29717
+gcc-14451,A,Compositae,,Ajania,,"qiraica",,"","C.H.An & Dilixiat",Accepted,,M,TICA,AD674E8C-87F2-4DBF-9E7F-1AD427A38025,1017266-1,"","","476","1999",
+gcc-98305,A,Compositae,,Ajania,,"quercifolia",,"","(W.W.Sm.) Y.Ling & C.Shih",Accepted,,M,TICA,E8313DDD-BC36-43D0-AC4E-95C97F90AD43,175813-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","12","1980",
+gcc-89221,A,Compositae,,Ajania,,"ramosa",,"","(C.C.Chang) C.Shih",Accepted,,M,TICA,066862E0-D810-48EC-B731-813493CEE639,175814-1,"Acta Phytotax. Sin. 17(2)","","114","1979",
+gcc-123346,A,Compositae,,Ajania,,"remotipinna",,"","(Hand.-Mazz.) Y.Ling & C.Shih",Accepted,,M,TICA,6EE2673D-54BF-442F-A74E-CE18276D5CEE,175815-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","13","1980",
+gcc-141844,A,Compositae,,Ajania,,"remotipinna",,"","(Hand.-Mazz.) Muldashev",Synonym,Illegitimate,M,TICA,9A2B3809-33FB-4F10-AB1D-F8577B337B91,911705-1,"""in Bot. Zhurn., 68(2): 211 (1983):.""","","211","1983",gcc-123346
+gcc-77519,A,Compositae,,Ajania,,"roborowskii",,"","Muldashev",Synonym,,M,TICA,822D02F6-447C-473D-9440-6710875460AF,899119-1,"","","1528","1982",gcc-118759
+gcc-149799,A,Compositae,,Ajania,,"roborowskii",var.,"roborowskii","",Synonym,,L,TICA,0EE9D3B6-E4D4-4018-873E-607126C5D13E,,"","","","",gcc-118759
+gcc-71775,A,Compositae,,Ajania,,"roborowskii",var.,"tsinghaicum","Muldashev",Synonym,,L,TICA,383627F7-CB2E-4584-B3A9-F8B954CED058,916780-1,"","","1529","1982",gcc-63644
+gcc-117921,A,Compositae,,Ajania,,"rupestris",,"","(Matsum. & Koidz.) Muldashev",Accepted,,M,TICA,3C64743C-4A95-425B-AC1E-C1BCCC4A4EB4,911706-1,"","","211","1983",
+gcc-107030,A,Compositae,,Ajania,,"salicifolia",,"","Poljakov",Accepted,,M,TICA,0116CF9E-7498-48EC-8842-A927EADC2FB1,175816-1,"","","424","1955",
+gcc-36195,A,Compositae,,Ajania,,"scharnhorstii",,"","(Regel & Schmalh.) Tzvelev",Accepted,,M,TICA,0C1A5C4F-06BF-4D35-93E3-431F1BB46797,175817-1,"","","409","1961",
+gcc-111710,A,Compositae,,Ajania,,"senjavinensis",,"","(Besser) Poljakov",Synonym,,M,TICA,3E6EB229-867C-4A5F-8B1C-B3B6E97E69C7,175818-1,"","","428","1955",gcc-116411
+gcc-98525,A,Compositae,,Ajania,,"sericea",,"","C.Shih",Synonym,,M,TICA,31DD8340-6A2B-4419-8A0C-9658373505A4,175819-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","14","1980",gcc-134784
+gcc-78499,A,Compositae,,Ajania,,"shiwogiku",,"","(Kitam.) K.Bremer & Humphries",Accepted,,M,TICA,2B76E295-F5B7-416F-B82E-694ED21898E8,975120-1,"","","115","1993",
+tro-50204462,A,Compositae,,Ajania,,"shiwogiku",var.,"kinokumiense","(Shimot. & Kitam.) Govaerts",Synonym,,L,TRO,50204462,,"World Checkl. Seed Pl.","3(1): 9","9","1999",gcc-75353
+gcc-145697,A,Compositae,,Ajania,,"shiwogiku",var.,"shiwogiku","",Synonym,,L,TICA,70026B63-AA0E-4990-9E55-08F13EA0C447,,"","","","",gcc-78499
+gcc-266,A,Compositae,,Ajania,,"sikangensis",,"","Ling",Synonym,,M,TICA,0BBBBB18-872C-4C32-A16D-007E5DDB2F13,,"in sched.","","","",gcc-37081
+gcc-47926,A,Compositae,,Ajania,,"tenuifolia",,"","Tzvelev",Accepted,,M,TICA,F9AB3828-5C7C-4AC0-AB8A-58C586264A8E,175820-1,"","","411","1961",
+gcc-37081,A,Compositae,,Ajania,,"tibetica",,"","(Hook.f. & Thomson) Tzvelev",Accepted,,M,TICA,7B1F2EB0-D116-4565-95FE-44B44648F258,175821-1,"Fl. URSS 26","","410","1961",
+gcc-150317,A,Compositae,,Ajania,,"trifida",,"","(Turcz.) Tzvelev",Accepted,,M,TICA,CCD3BCAC-2516-4051-8E02-6BB53425B667,,"","","","",
+gcc-18139,A,Compositae,,Ajania,,"trifida",,"","(Turcz.) Muldashev",Synonym,,M,TICA,FBEF19C9-0B7F-4CF1-A284-218148BFC8EF,911707-1,"","","213","1983",gcc-76566
+gcc-112850,A,Compositae,,Ajania,,"trilobata",,"","Poljakov ex Poljakov",Synonym,,M,TICA,A83E39AA-EF26-484C-9B3D-B65D5B150FEB,175822-1,"Fl. URSS 26","","880","1961",gcc-32778
+gcc-102076,A,Compositae,,Ajania,,"tripinnatisecta",,"","Y.Ling & C.Shih",Synonym,,M,TICA,F83FD9B1-803B-4EB2-9C3C-9E3E834488A6,175823-1,"""Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6)""","","14","1980",gcc-92741
+gcc-97159,A,Compositae,,Ajania,,"truncata",,"","(Hand.-Mazz.) Ling ex C.Shih",Accepted,,M,TICA,4CD7B2A1-ADFC-4C82-9F71-933CE9810D8D,979067-1,"","","366","1994",
+gcc-51212,A,Compositae,,Ajania,,"variifolia",,"","(C.C.Chang) Tzvelev",Accepted,,M,TICA,EDCBB452-4116-488C-9C1B-5EF8A71F7E79,175824-1,"","","401","1961",

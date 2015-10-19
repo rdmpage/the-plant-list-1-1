@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-450554,A,Poaceae,,Zeugites,,"americanus",,"","Willd.",Accepted,,H,WCSP,450554,1159377-2,"Sp. Pl.","4: 204","","1805",
+tro-25523052,A,Poaceae,,Zeugites,,"americanus",var.,"americanus","",Synonym,,L,TRO,25523052,,"","","","",kew-450554
+tro-25526442,A,Poaceae,,Zeugites,,"americanus",subsp.,"americanus","",Synonym,,L,TRO,25526442,,"","","","",kew-450554
+kew-450555,A,Poaceae,,Zeugites,,"americanus",subsp.,"haitensis","Pilg.",Synonym,,L,WCSP,450555,271023-2,"Symb. Antill.","6: 3","","1909",kew-450554
+kew-450556,A,Poaceae,,Zeugites,,"americanus",subsp.,"mexicanus","(Kunth) Pilg.",Synonym,,L,WCSP,450556,271024-2,"Symb. Antill.","6: 3","","1909",kew-450554
+kew-450557,A,Poaceae,,Zeugites,,"americanus",var.,"mexicanus","(Kunth) McVaugh",Synonym,,L,WCSP,450557,1033475-2,"in Fl. Novo-Galiciana","14: 413","","1983",kew-450554
+kew-450558,A,Poaceae,,Zeugites,,"americanus",var.,"pringlei","(Scribn.) McVaugh",Synonym,,L,WCSP,450558,1218902-2,"in Fl. Novo-Galiciana","14: 413","","1983",kew-450554
+kew-450559,A,Poaceae,,Zeugites,,"capillaris",,"","(Hitchc.) Swallen",Accepted,,H,WCSP,450559,271025-2,"Ann. Missouri Bot. Gard.","30: 130","","1943",
+kew-450561,A,Poaceae,,Zeugites,,"coloratus",,"","Griseb.",Unresolved,,L,WCSP,450561,426933-1,"Fl. Brit. W. I.","536","","1864",
+kew-450562,A,Poaceae,,Zeugites,,"galeottianus",,"","Hemsl.",Synonym,,H,WCSP,450562,426934-1,"Biol. Cent.-Amer., Bot.","3: 577","","1885",kew-450554
+tro-25517328,A,Poaceae,,Zeugites,,"guanchezii",,"","Davidse",Unresolved,,L,TRO,25517328,,"","","","",
+kew-450564,A,Poaceae,,Zeugites,,"hackelii",,"","Swallen",Accepted,,H,WCSP,450564,271026-2,"Ann. Missouri Bot. Gard.","30: 130","","1943",
+kew-450565,A,Poaceae,,Zeugites,,"haitiensis",,"","(Pilg.) Urb.",Synonym,,H,WCSP,450565,271027-2,"Symb. Antill.","8: 51","","1920",kew-450554
+kew-450566,A,Poaceae,,Zeugites,,"hartwegii",,"","E.Fourn.",Synonym,,H,WCSP,450566,426938-1,"Mexic. Pl.","2: 121","","1886",kew-450572
+kew-450567,A,Poaceae,,Zeugites,,"hintonii",,"","Hartley",Accepted,,H,WCSP,450567,271028-2,"Bull. Misc. Inform. Kew","1941: 22","","1941",
+kew-450568,A,Poaceae,,Zeugites,,"jamaicensis",,"","Raeusch.",Synonym,Invalid,H,WCSP,450568,426940-1,"Nomencl. Bot.","ed. 3: 270","","1797",kew-450554
+kew-450569,A,Poaceae,,Zeugites,,"latifolius",,"","(E.Fourn.) Hemsl.",Accepted,,H,WCSP,450569,426941-1,"Biol. Cent.-Amer., Bot.","3: 577","","1885",
+kew-450570,A,Poaceae,,Zeugites,,"mexicanus",,"","(Kunth) Trin. ex Steud.",Synonym,,H,WCSP,450570,,"Nomencl. Bot.","ed. 2, 2: 798","","1841",kew-450554
+kew-450571,A,Poaceae,,Zeugites,,"mexicanus",var.,"glandulosus","Hack.",Synonym,,L,WCSP,450571,,"Repert. Spec. Nov. Regni Veg.","6: 158","","1908",kew-450554
+kew-450572,A,Poaceae,,Zeugites,,"munroanus",,"","Hemsl.",Accepted,,H,WCSP,450572,426943-1,"Biol. Cent.-Amer., Bot.","3: 577","","1885",
+kew-450573,A,Poaceae,,Zeugites,,"panamensis",,"","Swallen",Accepted,,H,WCSP,450573,271030-2,"Ann. Missouri Bot. Gard.","30: 128","","1943",
+kew-450574,A,Poaceae,,Zeugites,,"pittieri",,"","Hack.",Accepted,,H,WCSP,450574,271031-2,"Oesterr. Bot. Z.","52: 373","","1902",
+tro-25550812,A,Poaceae,,Zeugites,,"pittieri",var.,"pittieri","",Synonym,,L,TRO,25550812,,"","","","",kew-450574
+kew-450575,A,Poaceae,,Zeugites,,"pittieri",var.,"pringlei","Hack.",Synonym,,L,WCSP,450575,271032-2,"Oesterr. Bot. Z.","52: 373","","1902",kew-450564
+kew-450576,A,Poaceae,,Zeugites,,"pringlei",,"","Scribn.",Synonym,,H,WCSP,450576,271033-2,"Bull. Div. Agrostol. U.S.D.A.","11: 50","","1898",kew-450554
+kew-450577,A,Poaceae,,Zeugites,,"sagittatus",,"","Hartley",Accepted,,H,WCSP,450577,271034-2,"Bull. Misc. Inform. Kew","1941: 22","","1941",
+kew-450578,A,Poaceae,,Zeugites,,"smilacifolius",,"","Scribn.",Accepted,,H,WCSP,450578,271035-2,"Bot. Gaz.","21: 134","","1896",
+kew-451675,A,Poaceae,,Zeugites,,"sylvaticus",,"","(Soderstr. & H.F.Decker) A.M.Soriano & Dávila",Synonym,,H,WCSP,451675,77092938-1,"Syst. Bot.","32: 728","","2007",kew-403574

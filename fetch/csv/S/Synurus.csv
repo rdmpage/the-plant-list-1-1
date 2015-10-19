@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-37186,A,Compositae,,Synurus,,"atriplicifolia",,"","(Trevis.) Iljin",Synonym,,M,TICA,A643F84E-9A94-4C7C-A235-44E365C26B6F,,"in Not. Syst. Herb. Hort. Bot. U.S.S.B. vi. 35 (1926).","","","1926",gcc-121601
+gcc-121601,A,Compositae,,Synurus,,"deltoides",,"","(Aiton) Nakai",Accepted,,M,TICA,7C6AC19D-2196-403E-9D0A-CA26E3E9CE60,1131254-2,"","","64","1932",
+gcc-147804,A,Compositae,,Synurus,,"deltoides",var.,"deltoides","",Synonym,,L,TICA,E0E51C59-86E0-4D8C-BAB5-35976C044BA7,,"","","","",gcc-121601
+gcc-151744,A,Compositae,,Synurus,,"deltoides",f.,"deltoides","",Synonym,,L,TICA,503B759F-83F6-4A88-9328-8B5E6DAD574B,,"","","","",gcc-121601
+gcc-8344,A,Compositae,,Synurus,,"deltoides",var.,"incisolobatus","Kitam.",Synonym,,L,TICA,7DB627C0-025F-4F59-B9CF-0F866EA7459D,,"""Memoirs of the College of Science, Kyoto Imperial University. Series B. Biology 13:""","","27","1937",gcc-121601
+gcc-24946,A,Compositae,,Synurus,,"diabolicus",,"","(Kitam.) Kitam.",Synonym,,M,TICA,46FD39F4-F6D2-4C28-AA0E-2E15F9600D1E,,"""Acta Phytotax. Geobot. 1933, ii. 47""","","","1933",gcc-111895
+gcc-114321,A,Compositae,,Synurus,,"excelsus",,"","(Makino) Kitam.",Accepted,,M,TICA,C8E96218-7D0C-4E0E-9DFE-B9922CA6C410,252043-1,"","","48","1933",
+gcc-50240,A,Compositae,,Synurus,,"hondae",,"","Kitag.",Unresolved,,L,TICA,3FDB9FA8-7FB9-4D20-B610-5D29CA2A3093,252044-1,"""in Rep. 1st Sc. Exped. Manchoukuo, 1933, Sect. IV. II. (Contrib. Cogn. Fl.Mansh. Pl. Nov. Jehol. II. ii.) 40 (1935).""","","","1935",
+gcc-94780,A,Compositae,,Synurus,,"humilis",,"","Honda",Unresolved,,L,TICA,3539CD3A-6062-4C3F-AEC1-8DD07B54BC7F,252045-1,"Bot. Mag. (Tokyo) lv. 441 (1941)","","441","1941",
+gcc-37503,A,Compositae,,Synurus,,"palmatopinnatifidus",,"","(Makino) Kitam.",Synonym,,M,TICA,E2FD3F36-0198-4B1C-B562-4581A377CD21,252046-1,"","","48","1933",gcc-121601
+gcc-99636,A,Compositae,,Synurus,,"pungens",,"","(Franch. & Sav.) Kitam.",Accepted,,M,TICA,F57120D0-5B1D-45E4-BFC8-98D16A79B8C7,252047-1,"","","48","1933",
+tro-50045179,A,Compositae,,Synurus,,"pungens",var.,"gigantens","Kitam.",Synonym,,L,TRO,50045179,,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol.","13: 25","25","1937",gcc-121601
+gcc-54099,A,Compositae,,Synurus,,"pungens",var.,"giganteus","Kitam.",Synonym,,L,TICA,439AEC2D-9837-4440-8973-6B7A498CDA8A,,"Mem. Coll. Sci. Kyoto Univ. ser.  B. 13: 25 (1937)","","25","1937",gcc-121601
+gcc-149773,A,Compositae,,Synurus,,"pungens",var.,"pungens","",Synonym,,L,TICA,1D6589BB-68CF-4C1C-8E7D-5FEBB3FE6581,,"","","","",gcc-121601
+gcc-87174,A,Compositae,,Synurus,,"taiwanianus",,"","S.S.Ying",Unresolved,,L,TICA,51676D00-F764-4D6C-937D-7CAB8B2BCE39,,"J. Jap. Bot. 63(2): 49 (1988)","","","1988",

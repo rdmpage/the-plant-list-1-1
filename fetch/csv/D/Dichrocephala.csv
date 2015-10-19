@@ -1,0 +1,61 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-126239,A,Compositae,,Dichrocephala,,"abyssinica",,"","Sch.Bip. ex Hochst.",Synonym,Invalid,M,TICA,62BB9097-DE4A-418A-8A5D-D4E1E8F64DC8,,"","","","1841",gcc-114049
+gcc-5778,A,Compositae,,Dichrocephala,,"abyssinica",,"","Sch.Bip. ex A.Rich.",Synonym,,M,TICA,6885B8FF-CC4A-4948-970A-0AC033923466,,"","","385","1848",gcc-114049
+gcc-84165,A,Compositae,,Dichrocephala,,"alpina",,"","R.E.Fr.",Synonym,,M,TICA,A6339F52-3415-4C1E-9F05-75ECE16B89D5,201278-1,"","","118","1928",gcc-7343
+gcc-118658,A,Compositae,,Dichrocephala,,"amphiloba",,"","H.Lév. & Vaniot",Synonym,,M,TICA,8FE4E6B9-684E-48BE-912B-C376CD78466E,201279-1,"Repert. Spec. Nov. Regni Veg. 8","","59","1910",gcc-12630
+gcc-34056,A,Compositae,,Dichrocephala,,"auriculata",,"","(Thunb.) Druce",Accepted,,M,TICA,8762846B-47AF-4BBC-8C99-3F26F7117151,201280-1,"","","619","1917",
+gcc-12630,A,Compositae,,Dichrocephala,,"benthamii",,"","C.B.Clarke",Accepted,,M,TICA,36E8C5AD-DDA9-4895-8720-178BE9962C16,201281-1,"","","36","1876",
+gcc-107254,A,Compositae,,Dichrocephala,,"bicolor",,"","L'Her",Unresolved,,L,TICA,F29F8F43-0DF1-4A9D-9DE9-A9AA2A2D3275,,"Linnaea 15: 209 (1852)","","209","1852",
+gcc-154479,A,Compositae,,Dichrocephala,,"bicolor",f.,"bicolor","",Synonym,,L,TICA,77469B2D-A517-4B38-B988-C43D7A37B2E8,,"","","","",gcc-88645
+gcc-99128,A,Compositae,,Dichrocephala,,"bodinieri",,"","Vaniot",Synonym,,M,TICA,7BD0CC6B-D681-4BEA-A60F-97AB81821B18,,"","","","1903",gcc-12630
+gcc-16326,A,Compositae,,Dichrocephala,,"capensis",,"","(Less.) DC.",Synonym,,M,TICA,CB7002D9-0F63-4748-82F2-1E3377D74623,,"","","","1833",gcc-88645
+gcc-114049,A,Compositae,,Dichrocephala,,"chrysanthemifolia",,"","(Blume) DC.",Accepted,,M,TICA,EFF4E8C1-81E3-419C-BDA5-B8F2C6B3C6DA,,"Archives de Botanique 2:","","518","1833",
+gcc-42029,A,Compositae,,Dichrocephala,,"chrysanthemifolia",var.,"abyssinica","(A.Rich.) Asch.",Synonym,,L,TICA,4FBB9B43-C79F-44EE-8F75-4DD39641CCDC,,"Beitr. Fl. Aethiop.: 145 (1867)","","145","1867",gcc-114049
+gcc-7343,A,Compositae,,Dichrocephala,,"chrysanthemifolia",var.,"alpina","(R.E.Fr.) Beentje",Accepted,,L,TICA,10E7C79F-FB64-42DE-B639-0DA918C4649B,20008671-1,"","","462","2002",
+gcc-149976,A,Compositae,,Dichrocephala,,"chrysanthemifolia",f.,"chrysanthemifolia","",Synonym,,L,TICA,D120DFDA-6FFA-4068-B616-645EB027D3F0,,"","","","",gcc-114049
+gcc-70320,A,Compositae,,Dichrocephala,,"chrysanthemifolia",var.,"chrysanthemifolia","",Synonym,,L,TICA,6577CDDD-2AB3-46BD-891C-ED292E14E3C7,,"Guill. Archiv. Bot. ii. 518; Prod. v. 372.","","","",gcc-114049
+gcc-85499,A,Compositae,,Dichrocephala,,"chrysanthemifolia",f.,"macrocephala","Asch.",Synonym,,L,TICA,B267E845-29D7-4198-AAAC-78CF91E7E4D0,,"Beitr. Fl. Aethiop.: 145 (1867)","","145","1867",gcc-114049
+gcc-23293,A,Compositae,,Dichrocephala,,"chrysanthemifolia",var.,"tanacetoides","(Sch.Bip. ex Miq.) J.Kost.",Accepted,,L,TICA,C9AA27C3-82CA-4388-8D37-2B1B6134D520,,"","","7","1933",
+gcc-45737,A,Compositae,,Dichrocephala,,"erecta",,"","L'Hér.",Synonym,,M,TICA,391A81A6-3496-4AB6-ABE5-54CEEF042DEC,,"","","","",gcc-88645
+gcc-98393,A,Compositae,,Dichrocephala,,"erecta",,"","L'Hér. ex DC.",Synonym,,M,TICA,645033FD-7ACB-44EA-94BC-96052122CD68,201286-1,"","","372","1836",gcc-88645
+gcc-80296,A,Compositae,,Dichrocephala,,"gossypina",,"","Baker",Accepted,,M,TICA,E3170B25-C34D-4DD2-AD31-6D4F51957829,201287-1,"","","326","1890",
+gcc-80688,A,Compositae,,Dichrocephala,,"gracilis",,"","DC.",Synonym,,M,TICA,D709EBDD-33C5-467B-92EC-6E1F08579DCE,201288-1,"Prodr. 5","","371","1836",gcc-71832
+gcc-126430,A,Compositae,,Dichrocephala,,"grangeaefolia",,"","DC.",Synonym,,M,TICA,DA7C54FD-B558-4EC6-AAA4-D550D57C14D2,201289-1,"","","372","1836",gcc-114049
+gcc-95229,A,Compositae,,Dichrocephala,,"hamiltonii",,"","Hook.f.",Accepted,,M,TICA,3E36CAB1-3C6C-4D08-9DC9-8ECF3ABFC751,201290-1,"","","246","1881",
+gcc-88645,A,Compositae,,Dichrocephala,,"integrifolia",,"","(L.f.) Kuntze",Accepted,,M,TICA,A99CC918-03C7-4B2D-91BD-7FE22A863580,201291-1,"Revis. Gen. Pl. 1: 333 (1891)","","333","1891",
+gcc-20087,A,Compositae,,Dichrocephala,,"integrifolia",var.,"gracilis","(DC.) Kuntze",Synonym,,L,TICA,1C476930-85A9-4F29-8850-25241A0B0891,,"Rev. Gen. Pl. 1 (1891)","","333","1891",gcc-71832
+gcc-71832,A,Compositae,,Dichrocephala,,"integrifolia",subsp.,"gracilis","(DC.) Fayed",Accepted,,L,TICA,6FF4D766-30C5-4BAE-8B0A-F9216FA0C4FC,877160-1,"Mitt. Bot. Staatssamml. München 15: 500 (1979)","","500","1979",
+gcc-153506,A,Compositae,,Dichrocephala,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,1A7EB7BB-E6E6-4CAC-AE49-AFC3E70A18D0,,"","","","",gcc-88645
+gcc-72618,A,Compositae,,Dichrocephala,,"integrifolia",subsp.,"integrifolia","",Synonym,,L,TICA,A817DF81-154F-4F00-8F59-FF6EAC1FA37B,,"","","333","1891",gcc-88645
+gcc-9508,A,Compositae,,Dichrocephala,,"integrifolia",var.,"sonchifolia","(M.Bieb.) Kuntze",Synonym,,L,TICA,FD552FF8-91C5-4B18-8BB8-11BCBFD75840,,"","","","",gcc-88645
+gcc-99056,A,Compositae,,Dichrocephala,,"latifolia",,"","(Lam.) L'Hér. ex DC.",Synonym,Illegitimate,M,TICA,D029284C-0E41-43EF-8065-9784D9953CBB,,"","","518","1833",gcc-88645
+gcc-127820,A,Compositae,,Dichrocephala,,"latifolia",f.,"appendiculata","Zoll.",Synonym,,L,TICA,B70AFE32-5372-40BF-A221-D898E0BB5004,,"Natuurk.-Geneesk. Arch. Ned.-Indie 2 (1845)","","234","1845",gcc-88645
+gcc-3454,A,Compositae,,Dichrocephala,,"latifolia",var.,"barbareifolia","Miq.",Synonym,,L,TICA,2D4BF4E2-C49C-4CFE-8991-065ABE859116,,"Fl. Ned. Ind. 2 (1856)","","37","1856",gcc-88645
+gcc-67240,A,Compositae,,Dichrocephala,,"latifolia",var.,"bondot","Miq.",Synonym,,L,TICA,D9DB33DA-6D1F-4221-A325-D591890BFCDE,,"Fl. Ned. Ind. 2 (1856)","","37","1856",gcc-71832
+gcc-74588,A,Compositae,,Dichrocephala,,"latifolia",f.,"bondot","(Miq.) Asch.",Synonym,,L,TICA,3344FF6C-135E-4F7F-A70E-44FC9C40703F,,"""Schweinf., Beitr. Fl. Aethiop. (1867)""","","146","1867",gcc-71832
+gcc-74471,A,Compositae,,Dichrocephala,,"latifolia",f.,"dentata","Zoll. & Mor.",Synonym,,L,TICA,05AD61AB-549A-4A2A-B2B6-40FC82115486,,"""Zoll., Natuurk.-Geneesk. Arch. Ned.-Indie 2 (1845)""","","234","1845",gcc-88645
+gcc-37439,A,Compositae,,Dichrocephala,,"latifolia",var.,"gracilis","(DC.) Asch.",Synonym,,L,TICA,B3F953ED-D048-4903-B45E-45630DF6D4BD,,"""Schweinf., Beitr. Fl. Aethiop. (1867)""","","146","1867",gcc-71832
+gcc-114651,A,Compositae,,Dichrocephala,,"latifolia",f.,"javanica","(Blume) Asch.",Synonym,,L,TICA,C3994F6A-845B-42D2-9DBE-BA5D76093966,,"""Schweinf., Beitr. Fl. Aethiop. (1867)""","","146","1867",gcc-88645
+gcc-48579,A,Compositae,,Dichrocephala,,"latifolia",var.,"javanica","(Blume) DC.",Synonym,,L,TICA,922D5500-8308-4DD5-B7A7-59FBA8E8E69F,,"""De Vriese, Pl. Ind. Bat. Or. (1857)""","","372","1836",gcc-88645
+gcc-151301,A,Compositae,,Dichrocephala,,"latifolia",f.,"latifolia","",Synonym,,L,TICA,0AC166EA-A791-4B38-B038-81AAEC4EC05D,,"","","","",gcc-88645
+gcc-65020,A,Compositae,,Dichrocephala,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,793456F5-F150-456B-AB14-C32981F8DE4C,,"","","","",gcc-88645
+gcc-112691,A,Compositae,,Dichrocephala,,"latifolia",f.,"pinnatifida","Zoll. & Mor.",Synonym,,L,TICA,75D1C867-E7A9-44FD-9D07-B60330501EB0,,"""Zoll., Natuurk.-Geneesk. Arch. Ned.-Indie 2 (1845)""","","234","1845",gcc-71832
+gcc-65863,A,Compositae,,Dichrocephala,,"latifolia",var.,"pinnatifida","(Zoll.) Miq.",Synonym,,L,TICA,F46F67A1-8E09-42AF-9D05-CA2E4D9E6149,,"Fl. Ned. Ind. 2 (1856)","","37","1856",gcc-71832
+gcc-23607,A,Compositae,,Dichrocephala,,"latifolia",var.,"sonchifolia","(M.Bieb.) Asch.",Synonym,,L,TICA,FBD42CE8-7C9A-49C0-AA2E-2BA4364B8244,,"","","","",gcc-88645
+gcc-113603,A,Compositae,,Dichrocephala,,"leveillei",,"","Vaniot",Synonym,,M,TICA,767CF8D4-2F57-4B62-9EC4-B7F65F60250C,,"","","","1903",gcc-149527
+gcc-95883,A,Compositae,,Dichrocephala,,"linearifolia",,"","O.Hoffm.",Synonym,,M,TICA,2FC3F4C4-5FAD-4755-881A-905AFBB05443,201294-1,"","","406","1895",gcc-33286
+gcc-35325,A,Compositae,,Dichrocephala,,"lyrata",,"","DC.",Synonym,,M,TICA,78A6BD25-91DD-4076-BBE2-417D9935EBB5,201295-1,"","","372","1836",gcc-82510
+gcc-125764,A,Compositae,,Dichrocephala,,"macrocephala",,"","Sch.Bip. ex Schweinf.",Synonym,,M,TICA,9FB79C12-8A51-486B-9B6D-D3C8DFE2628E,201296-1,"","","145","1867",gcc-114049
+gcc-130869,A,Compositae,,Dichrocephala,,"minima",,"","(L.) Bojer",Synonym,,M,TICA,6E5413C2-09F2-4F26-980A-DF8930E52608,201297-1,"","","179","1837",gcc-76774
+gcc-34535,A,Compositae,,Dichrocephala,,"minuta",,"","L'Hér. ex DC.",Synonym,,M,TICA,A1FD35BC-5187-49A5-AFB2-40037D8441A1,201298-1,"","","139","1838",gcc-76774
+gcc-12064,A,Compositae,,Dichrocephala,,"minutiflora",,"","Vaniot",Synonym,,M,TICA,3BB8F9D5-D250-49F6-9BC0-167C233F4F51,,"Bulletin de l'Academie internationale de Geographie botanique 12(161-162):","","242-243","1903",gcc-144794
+gcc-79323,A,Compositae,,Dichrocephala,,"minutifolia",,"","Vaniot",Synonym,,M,TICA,C49A457F-4A60-4F5E-AFA5-6B315A563D71,,"","","","1903",gcc-144794
+gcc-38695,A,Compositae,,Dichrocephala,,"nilagirensis",,"","Sch.Bip. ex Hook.f.",Synonym,,M,TICA,AFEAEB03-436E-4B96-9472-47C608B867A1,,"","","","1881",gcc-88645
+gcc-103525,A,Compositae,,Dichrocephala,,"oblonga",,"","Hook.f.",Synonym,,M,TICA,D5D96CB3-11EE-4830-8ADF-A17751D7703B,,"""J. Proc. Linn. Soc., Bot. 6""","","12","",gcc-114049
+gcc-6816,A,Compositae,,Dichrocephala,,"oblongata",,"","Benth. & Hook.f.",Unresolved,,L,TICA,E0375358-AB61-4A96-A5CE-0CAA3745FE81,201302-1,"Gen. ii. 260.","","ii. 260","",
+gcc-104510,A,Compositae,,Dichrocephala,,"paniculata",,"","Miq.",Synonym,,M,TICA,E75E11D5-5B4C-4EB9-9B93-A3A8A382C37C,,"Fl. Ned. Ind. 2","","38","1856",gcc-106522
+gcc-50116,A,Compositae,,Dichrocephala,,"schmidii",,"","Wight",Synonym,,M,TICA,04403E00-F27D-4E97-BCF0-5CE4EF61EB16,201304-1,"","","t. 1610","1850",gcc-76774
+gcc-89280,A,Compositae,,Dichrocephala,,"sonchifolia",,"","(M.Bieb.) DC.",Synonym,,M,TICA,003CB698-5C28-4ACE-A273-8157A9B52F65,,"","","518","1833",gcc-88645
+gcc-52613,A,Compositae,,Dichrocephala,,"tanacetoides",,"","Sch.Bip. ex Miq.",Synonym,,M,TICA,69CCE4A1-966A-4A72-9496-61883CA0D391,,"Fl. Ned. Ind. 2","","38","1856",gcc-23293
+gcc-96313,A,Compositae,,Dichrocephala,,"tanacetoides",,"","Sch.Bip.",Synonym,,M,TICA,DBC348DD-3E93-45D0-B2C1-9144D0B3D6B3,201306-1,"Syst. Verz. (Zollinger) 122","","122","",gcc-114049
+gcc-128550,A,Compositae,,Dichrocephala,,"tibestica",,"","Quézel",Synonym,,M,TICA,D523715E-FF4B-4CB8-9842-DA45C7F57C0F,,"","","","1957",gcc-114049

@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-7858,A,Compositae,,Acanthocephalus,,"amplexifolius",,"","Kar. & Kir.",Accepted,,M,TICA,E85D4ED5-34B1-4B5C-878F-0E9FDD4C89D6,173703-1,"","","128","1842",
+gcc-111250,A,Compositae,,Acanthocephalus,,"benthamianus",,"","Regel",Accepted,,M,TICA,CE86E9EA-6117-4EC2-8960-B2B19B3A25D3,173704-1,"Izv. Obshch. Ljubit. Estestv. Moskovsk. Univ. 3 (18)","","47","1882",
+gcc-154800,A,Compositae,,Acanthocephalus,,"benthamianus",var.,"benthamianus","",Synonym,,L,TICA,1EE6EEDD-2E01-46F4-9E20-CB2118A55E67,,"","","","",gcc-111250
+gcc-145983,A,Compositae,,Acanthocephalus,,"benthamianus",var.,"laevis","Vassilcz.",Synonym,,L,TICA,09276604-7882-49D2-B8DC-0F24D587E4AA,,"","","","",gcc-111250
+gcc-156016,A,Compositae,,Acanthocephalus,,"benthamianus",var.,"schugnanicus","Vassilcz.",Synonym,,L,TICA,B7F89AFC-7F09-4502-A96E-E4D68FD8FF42,,"","","","",gcc-111250

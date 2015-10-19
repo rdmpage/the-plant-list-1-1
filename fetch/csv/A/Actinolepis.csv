@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79101,A,Compositae,,Actinolepis,,"anthemoides",,"","(Nutt.) A.Gray",Synonym,,M,TICA,42171071-96DD-4798-AF39-6AB493A376CE,,"","","378","1876",gcc-84432
+gcc-134337,A,Compositae,,Actinolepis,,"coronaria",,"","(Nutt.) A.Gray",Unresolved,,L,TICA,909D18E8-52CE-4352-A0F1-E790F8351FD1,174902-1,"","","197","1874",
+gcc-87230,A,Compositae,,Actinolepis,,"lanosa",,"","(A.Gray) A.Gray",Synonym,,M,TICA,BC6D422F-6C2B-4E2D-9DB9-7CCE7FF5347E,174903-1,"","","197","1874",gcc-134520
+gcc-40132,A,Compositae,,Actinolepis,,"lemmonii",,"","A.Gray",Synonym,,M,TICA,751F7055-0713-4145-AFE5-4A6D71A68951,330163-2,"Proc. Amer. Acad. Arts 16","","101","1881",gcc-23494
+gcc-25359,A,Compositae,,Actinolepis,,"multicaulis",,"","DC.",Synonym,,M,TICA,65B14D89-34ED-443F-A042-2ED02731EF20,174905-1,"","","656","1836",gcc-36968
+gcc-26068,A,Compositae,,Actinolepis,,"multicaulis",var.,"multicaulis","",Synonym,,L,TICA,59BCBA82-3D97-4A65-968E-3033AE87F060,,"","","","",gcc-36968
+gcc-53436,A,Compositae,,Actinolepis,,"multicaulis",var.,"papposa","A.Gray",Synonym,,L,TICA,AB8579E3-C280-4307-B309-6639FEC2571D,308092-2,"Proc. Amer. Acad. Arts 6","","546","1865",gcc-36968
+gcc-49593,A,Compositae,,Actinolepis,,"mutica",,"","(Nutt.) A.Gray",Unresolved,,L,TICA,A78EC0EF-B548-4A1C-9556-5BEA19335283,174906-1,"","","197","1874",
+gcc-102358,A,Compositae,,Actinolepis,,"nivea",,"","A.Gray",Unresolved,,L,TICA,8C77102F-9628-4FBF-8856-9EEDDB08175A,174907-1,"","","197","1874",
+gcc-100926,A,Compositae,,Actinolepis,,"nubigena",,"","(Greene ex A.Gray) Greene",Synonym,,M,TICA,CAE64544-8B1D-4AE5-BEDD-9BB1B45967F8,4016-2,"Fl. Francisc.","","442","1897",gcc-27998
+gcc-82889,A,Compositae,,Actinolepis,,"pringlei",,"","(A.Gray) Greene",Synonym,,M,TICA,13446300-EFBD-4EB1-8436-730DE47942E6,1051365-2,"Fl. Francisc. 441. 1897","","441","1897",gcc-52088
+gcc-3651,A,Compositae,,Actinolepis,,"tenella",,"","A.Gray",Unresolved,,L,TICA,CD8239DE-B9C7-4780-8356-06BF3A78BD8E,174910-1,"","","197","1874",
+gcc-109467,A,Compositae,,Actinolepis,,"wallacei",,"","(A.Gray) A.Gray",Synonym,,M,TICA,3358F155-59AC-4E97-A243-AEBA9EE4C257,174911-1,"","","197","1874",gcc-114918
+gcc-58493,A,Compositae,,Actinolepis,,"wallacei",var.,"rubella","(A.Gray) A.Gray",Synonym,,L,TICA,4B2BB374-72D6-46F7-8248-8F2A49A65877,4018-2,"Proc. Amer. Acad. Arts 9","","198","1874",gcc-114918
+gcc-156137,A,Compositae,,Actinolepis,,"wallacei",var.,"wallacei","",Synonym,,L,TICA,4AABEB49-F0B3-4274-95E3-E716190F92E3,,"","","","",gcc-114918

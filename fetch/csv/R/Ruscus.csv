@@ -1,0 +1,37 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-286704,A,Asparagaceae,,Ruscus,,"aculeatus",,"","L.",Accepted,,H,WCSP,286704,540443-1,"Sp. Pl.","1041","","1753",
+kew-310157,A,Asparagaceae,,Ruscus,,"aculeatus",var.,"angustifolius","Boiss.",Synonym,,L,WCSP,310157,,"Fl. Orient.","5: 341","","1882",kew-286704
+kew-350164,A,Asparagaceae,,Ruscus,,"aculeatus",subsp.,"laxus","(Sm.) K.Richt.",Synonym,,L,WCSP,350164,,"Pl. Eur.","1: 231","","1890",kew-286704
+kew-310158,A,Asparagaceae,,Ruscus,,"aculeatus",f.,"pumilus","Druce",Synonym,,L,WCSP,310158,,"Bot. Soc. Exch. Club Brit. Isles","9: 471","","1931",kew-286704
+kew-286705,A,Asparagaceae,,Ruscus,,"alexandrinus",,"","Garsault",Synonym,Invalid,H,WCSP,286705,,"Fig. Pl. Méd.","t. 503","","1764",kew-286774
+kew-286708,A,Asparagaceae,,Ruscus,,"androgynus",,"","L.",Synonym,,H,WCSP,286708,540445-1,"Sp. Pl.","1041","","1753",kew-288429
+kew-286686,A,Asparagaceae,,Ruscus,,"anthopus",,"","Raf.",Synonym,,H,WCSP,286686,540446-1,"Fl. Tellur.","4: 26","","1838",kew-288429
+kew-286684,A,Asparagaceae,,Ruscus,,"colchicus",,"","Yeo",Accepted,,H,WCSP,286684,540447-1,"Feddes Repert.","73: 18","","1966",
+kew-286700,A,Asparagaceae,,Ruscus,,"dumosus",,"","E.D.Clarke",Unresolved,,L,WCSP,286700,540448-1,"Trav. Var. Eur.","ed. 2(Add.): xxii","","",
+kew-286702,A,Asparagaceae,,Ruscus,,"flexuosus",,"","Mill.",Synonym,,H,WCSP,286702,540449-1,"Gard. Dict. ed. 8","6","","1768",kew-286704
+kew-286697,A,Primulaceae,,Ruscus,,"frutescens",,"","Mill.",Synonym,,H,WCSP,286697,224635-2,"Gard. Dict. ed. 8","8","","1768",kew-2679374
+kew-311539,A,Asparagaceae,,Ruscus,,"gayae",,"","(Webb & Berthel.) Webb & Berth.",Synonym,,H,WCSP,311539,,"Hist. Nat. Iles Canaries","2(3): t. 224A","","1848",kew-288430
+kew-286781,A,Asparagaceae,,Ruscus,,"humilis",,"","Salisb.",Synonym,Illegitimate,H,WCSP,286781,540451-1,"Prodr. Stirp. Chap. Allerton","255","","1796",kew-286774
+kew-286774,A,Asparagaceae,,Ruscus,,"hypoglossum",,"","L.",Accepted,,H,WCSP,286774,540452-1,"Sp. Pl.","1041","","1753",
+kew-310169,A,Asparagaceae,,Ruscus,,"hypoglossum",var.,"laticladodia","Yalt.",Synonym,,L,WCSP,310169,,"Notes Roy. Bot. Gard. Edinburgh","28: 16","","1967",kew-286774
+kew-341224,A,Asparagaceae,,Ruscus,,"hypoglossum",var.,"microglossus","(Bertol.) Nyman",Synonym,,L,WCSP,341224,,"Consp. Fl. Eur.","715","","1882",kew-286803
+kew-350165,A,Asparagaceae,,Ruscus,,"hypoglossum",subsp.,"microglossus","(Bertol.) K.Richt.",Synonym,,L,WCSP,350165,,"Pl. Eur.","1: 231","","1890",kew-286803
+kew-286765,A,Asparagaceae,,Ruscus,,"hypophyllum",,"","L.",Accepted,,H,WCSP,286765,540453-1,"Sp. Pl.","1041","","1753",
+kew-469306,A,Asparagaceae,,Ruscus,,"hypophyllum",,"","(Mill.) Loudon",Synonym,,H,WCSP,469306,,"Arbor. Frutic. Brit.","2519","","1838",kew-286765
+kew-309606,A,Asparagaceae,,Ruscus,,"hypophyllum",var.,"hypoglossum","(L.) Baker",Synonym,,L,WCSP,309606,,"J. Linn. Soc., Bot.","14: 630","","1875",kew-286774
+kew-286764,A,Asparagaceae,,Ruscus,,"hyrcanus",,"","Woronow",Accepted,,H,WCSP,286764,540454-1,"Vestn. Tiflissk. Bot. Sada","7: 33","","1907",
+tro-18404835,A,Asparagaceae,,Ruscus,,"hyreanus",,"","Woronow",Unresolved,,L,TRO,18404835,,"","","","",
+kew-286690,A,Asparagaceae,,Ruscus,,"latifolius",,"","Raf.",Synonym,,H,WCSP,286690,540455-1,"Fl. Tellur.","4: 26","","1838",kew-288429
+kew-286770,A,Asparagaceae,,Ruscus,,"laxus",,"","Sm.",Synonym,,H,WCSP,286770,540457-1,"Trans. Linn. Soc. London","3: 334","","1797",kew-286704
+kew-286804,A,Asparagaceae,,Ruscus,,"lugubris",,"","Salisb.",Synonym,Illegitimate,H,WCSP,286804,540458-1,"Prodr. Stirp. Chap. Allerton","255","","1796",kew-286765
+kew-286803,A,Asparagaceae,,Ruscus,×,"microglossus",,"","Bertol.",Accepted,,H,WCSP,286803,540459-1,"Fl. Ital.","10: 401","","1857",
+kew-286802,A,Asparagaceae,,Ruscus,,"parasiticus",,"","Gueldenst.",Synonym,,H,WCSP,286802,540460-1,"Reis. Russland","1: 426","","1787",kew-286704
+kew-286801,A,Asparagaceae,,Ruscus,,"ponticus",,"","Woronow",Synonym,,H,WCSP,286801,540461-1,"Sched. Herb. Fl. Cauc.","7: 50","","1916",kew-286704
+kew-286738,A,Asparagaceae,,Ruscus,,"procerus",,"","Salisb.",Synonym,Illegitimate,H,WCSP,286738,540462-1,"Prodr. Stirp. Chap. Allerton","255","","1796",kew-288429
+kew-286737,A,Asparagaceae,,Ruscus,,"racemosus",,"","L.",Synonym,,H,WCSP,286737,540463-1,"Sp. Pl.","1041","","1753",kew-303930
+kew-286736,A,Asparagaceae,,Ruscus,,"reticulatus",,"","Thunb.",Synonym,,H,WCSP,286736,540465-1,"Prodr. Pl. Cap.","13","","1794",kew-300370
+kew-286739,A,Asparagaceae,,Ruscus,,"streptophyllus",,"","Yeo",Accepted,,H,WCSP,286739,540466-1,"Feddes Repert.","73: 17","","1966",
+kew-286740,A,Asparagaceae,,Ruscus,,"terminalis",,"","Salisb.",Synonym,Illegitimate,H,WCSP,286740,540467-1,"Prodr. Stirp. Chap. Allerton","255","","1796",kew-303930
+kew-286741,A,Asparagaceae,,Ruscus,,"trifoliatus",,"","Mill.",Synonym,,H,WCSP,286741,540468-1,"Gard. Dict. ed. 8","5","","1768",kew-286765
+kew-286742,A,Asparagaceae,,Ruscus,,"troadensis",,"","E.D.Clarke",Synonym,,H,WCSP,286742,540469-1,"Trav. Var. Eur.","2: 146","","1812",kew-286774
+kew-286750,A,Asparagaceae,,Ruscus,,"volubilis",,"","Thunb.",Synonym,,H,WCSP,286750,540470-1,"Prodr. Pl. Cap.","13","","1794",kew-274958

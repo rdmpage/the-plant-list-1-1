@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92693,A,Compositae,,Uropappus,,"clevelandi",,"","(Greene) Greene",Synonym,,M,TICA,18F363F3-3965-4D4C-8C97-892BC2A37B66,261684-2,"","","137","1893",gcc-84334
+gcc-92501,A,Compositae,,Uropappus,,"grandiflorus",,"","Nutt.",Unresolved,,L,TICA,2CD12552-988F-4545-8277-88BE45E91770,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 425""","","425","1841",
+gcc-143099,A,Compositae,,Uropappus,,"heterocarpus",,"","Nutt.",Synonym,,M,TICA,49F9C894-7991-45EC-815D-FB214405E0D5,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 425""","","425","1841",gcc-84334
+gcc-117698,A,Compositae,,Uropappus,,"kellogii",,"","Greene",Accepted,,L,TICA,D3E27FC3-F1FC-4E30-9E01-C13E674EA232,,"","","","",
+gcc-123529,A,Compositae,,Uropappus,,"leucocarpus",,"","Greene",Synonym,,M,TICA,4A0A0339-9740-4B85-80DA-CE8C02BA8DCD,261687-2,"","","260","1893",gcc-84334
+gcc-120226,A,Compositae,,Uropappus,,"lindleyi",,"","(DC.) Nutt.",Accepted,,M,TICA,B70135E2-95EC-4FB8-B79D-C702F6C82DC3,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 425""","","425","1841",
+gcc-63747,A,Compositae,,Uropappus,,"lindleyi",var.,"clevelandi","(Greene) Jeps.",Synonym,,L,TICA,3D71FE40-2C33-401E-BEFE-B925B5EE2FC2,,"","","494","1901",gcc-84334
+gcc-60903,A,Compositae,,Uropappus,,"lindleyi",var.,"leucocarpus","(Greene) Jeps.",Synonym,,L,TICA,C5A4D7D3-0F33-4294-8C0C-A237BE9E561A,261689-2,"Man. Fl. Pl. Calif. 993. 1925","","993","1925",gcc-84334
+gcc-61293,A,Compositae,,Uropappus,,"lindleyi",var.,"lindleyi","",Synonym,,L,TICA,E5C0D545-D1EB-4E26-86AB-A55E52A02B6B,,"","","","",gcc-120226
+gcc-117975,A,Compositae,,Uropappus,,"linearifolius",,"","(DC.) Nutt.",Synonym,,M,TICA,4D7AD036-AE0B-4021-A874-C1DD522D62BF,,"","","425","1841",gcc-120226
+gcc-2628,A,Compositae,,Uropappus,,"linearifolius",var.,"elatus","Greene",Synonym,,L,TICA,D6738150-4A3E-489B-BFC8-04D7A5929623,261690-2,"Man. Bot. San Francisco 221. 1894","","221","1894",gcc-120226
+gcc-145364,A,Compositae,,Uropappus,,"linearifolius",var.,"linearifolius","",Synonym,,L,TICA,AFF6CE99-4B05-4A7F-825C-02A6EA45F4C0,,"","","","",gcc-120226
+gcc-125966,A,Compositae,,Uropappus,,"macrochaetus",,"","(A.Gray) Greene",Synonym,,M,TICA,DF6BE0E8-9F13-4DC6-A1EC-D43FCE3806D8,261691-2,"","","137","1893",gcc-120226
+gcc-34944,A,Compositae,,Uropappus,,"macrochaetus",var.,"kelloggii","(Greene) Jeps.",Synonym,,L,TICA,C681CB8A-0CB4-4F16-8338-40C805203CDC,261692-2,"Fl. W. Calif. 494. 1901","","494","1901",gcc-84334
+gcc-150922,A,Compositae,,Uropappus,,"macrochaetus",var.,"macrochaetus","",Synonym,,L,TICA,43868F5E-AD03-4C41-8131-790E97FDB079,,"","","","",gcc-120226
+gcc-92696,A,Compositae,,Uropappus,,"pruinosus",,"","Greene",Accepted,,M,TICA,68722AD1-3E9C-4611-A7AC-892D2EDB9D60,261693-2,"","","213","1906",

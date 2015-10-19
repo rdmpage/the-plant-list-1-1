@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-78300,A,Compositae,,Chamaeleon,,"caulescens",,"","Cass.",Synonym,,M,TICA,4DF56EC0-9377-45B0-844C-68D3FF4716DC,,"","","","1827",gcc-128986
+gcc-95315,A,Compositae,,Chamaeleon,,"comosus",,"","(Spreng.) Greuter",Synonym,,M,TICA,5E277346-2789-4E0D-88C7-8F04C3CE9202,20005238-1,"","","4","1997",gcc-81533
+gcc-84726,A,Compositae,,Chamaeleon,,"cuneatus",,"","(Boiss.) Dittrich",Unresolved,,L,TICA,60EF03BE-F6BE-48C1-93DE-772958A5F8F2,991714-1,"Boissiera 51","","74","1996",
+gcc-90091,A,Compositae,,Chamaeleon,,"gummifer",,"","(L.) Cass.",Synonym,,M,TICA,AC4E27B4-836C-4B9D-8EED-832FC7F4D527,,"","","","1827",gcc-99019
+gcc-4761,A,Compositae,,Chamaeleon,,"macrocephalus",,"","(Moris) Sch.Bip.",Synonym,,M,TICA,1ADDB7E5-BC4C-4FEF-932D-08DBB2360B0E,,"Linnaea 19","","325","",gcc-8854
+gcc-28541,A,Compositae,,Chamaeleon,,"macrophyllus",,"","(Desf.) Sch.Bip.",Synonym,,M,TICA,3EE0F45F-5CBC-4211-B95F-34C1ED4BBCA8,192418-1,"Linnaea 19","","325","1846",gcc-128986
+gcc-79474,A,Compositae,,Chamaeleon,,"macrophyllus",,"","(Desf.) D.P.Petit",Accepted,,M,TICA,31F18665-5C7F-4BEA-8F0D-6B8643011712,944567-1,"""Bull. Soc. Bot. France, Lett. Bot. 134(2): 179""","","179","1987",
+gcc-148206,A,Compositae,,Chamaeleon,,"macrophyllus",var.,"macrophyllus","",Synonym,,L,TICA,8D566147-698F-4129-835C-3D7FCF221AED,,"","","","",gcc-79474
+gcc-89372,A,Compositae,,Chamaeleon,,"megacephalus",,"","Cass.",Synonym,,M,TICA,CB957475-0B13-43A0-9C48-81927483F429,,"","","","1827",gcc-99019
+gcc-5585,A,Compositae,,Chamaeleon,,"speciosus",,"","(DC.) Dittrich",Synonym,,M,TICA,1B44629F-9D1E-449E-A5FA-0A6A9A0273EA,991713-1,"Boissiera 51","","74","1996",gcc-81533

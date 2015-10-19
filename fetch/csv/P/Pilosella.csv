@@ -1,0 +1,957 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98681,A,Compositae,,Pilosella,,"abakurae",,"","(Schelk. & Zahn) Soják",Accepted,,M,TICA,7C61D13D-1128-4CD7-8B87-96A4E991F62C,237962-1,"","","218","1971",
+gcc-46194,A,Compositae,,Pilosella,,"abscissa",,"","(Less.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,B9AD3944-D140-4B94-A09B-559E00C4FF71,237963-1,"","","436","1862",gcc-101869
+gcc-47420,A,Compositae,,Pilosella,,"acclinis",,"","(Norrl.) Norrl.",Synonym,,M,TICA,20960C14-6C56-471A-AB4E-57D52ABA0C78,,"""Norrl., Herb. Pilos. Fenn. 2. 1894.""","","[in schedis] No. 179","1894",gcc-100924
+gcc-1761,A,Compositae,,Pilosella,,"acrothyrsa",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,0199E158-C121-44D0-A0AB-032D30C768A2,237964-1,"","","186","1971",gcc-23429
+gcc-146103,A,Compositae,,Pilosella,,"acrothyrsa",subsp.,"acrothyrsa","",Synonym,,L,TICA,F7DE13A3-D45D-49E3-90BC-11826D9F0941,,"","","","",gcc-23429
+gcc-88337,A,Compositae,,Pilosella,,"acutifolia",,"","(Vill.) Arv.-Touv.",Accepted,,M,TICA,386751A3-0C42-4D08-BBA0-7F3797183EE1,,"Arv.-Touv. in Bull. Soc. Dauphin. Echange Pl. 1880.","","282","1880",
+gcc-2547,A,Compositae,,Pilosella,,"acutilis",,"","Norrl.",Unresolved,,L,TICA,5171D8E7-D578-4D01-8C83-04A8D8E146FC,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 67","","67","",
+gcc-21265,A,Compositae,,Pilosella,,"acutisquama",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,F54CEB06-40CE-4894-A3A3-2750128D8757,947455-1,"","","355","1989",gcc-31140
+gcc-90877,A,Compositae,,Pilosella,,"acutisquama",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,E08CA6AF-AFD5-46D4-8E2F-85185591006F,,"Fl. Part. Eur. URSS 8 : 355 (1989)","","355","1989",gcc-31140
+gcc-105336,A,Compositae,,Pilosella,,"adenocephala",,"","Sch.Bip.",Synonym,,M,TICA,479DD6BF-5E52-48D0-AD89-A56025CEEEBB,324987-2,"Linnaea 33","","759","1865",gcc-50377
+gcc-108649,A,Compositae,,Pilosella,,"adenoclada",,"","(Rehmann) Schljakov",Synonym,,M,TICA,C880A74F-0880-49C1-B9CD-ACCA74DDC28B,,"","","335","1989",gcc-152263
+gcc-130091,A,Compositae,,Pilosella,,"adfixa",,"","Norrl.",Unresolved,,L,TICA,1264AC45-2B28-417F-95F4-DDC4A50C2073,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 34","","34","",
+gcc-123898,A,Compositae,,Pilosella,,"adjuncta",,"","Norrl.",Unresolved,,L,TICA,F9AEFFAB-0827-44A5-9D23-CF75B44C245D,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 61","","61","",
+gcc-130684,A,Compositae,,Pilosella,,"adtingens",,"","Norrl.",Unresolved,,L,TICA,C7D60901-1C69-4FAE-B56C-DF229F8B8D18,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 165","","165","",
+gcc-119839,A,Compositae,,Pilosella,,"aequimontis",,"","(Gottschl. & Meierott) S.Bräut. & Greuter",Accepted,,M,TICA,AA3DBEF9-5004-4424-A818-C615328595AB,,"","","","",
+gcc-2415,A,Compositae,,Pilosella,,"aeruginascens",,"","Norrl.",Synonym,,M,TICA,923F6419-C26E-4E82-9FB9-04684A3BDEC1,,"","","129","",gcc-98450
+gcc-21472,A,Compositae,,Pilosella,,"agathantha",,"","(Rehmann) Schljakov",Synonym,,M,TICA,53D580A2-B570-4862-B11C-27AD976A763B,,"","","338","1989",gcc-152263
+gcc-137381,A,Compositae,,Pilosella,,"ainolensis",,"","Norrl.",Unresolved,,L,TICA,4440FB1A-F1EB-4C79-93B3-EE564DFB4457,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 71","","71","",
+gcc-14197,A,Compositae,,Pilosella,,"akinfiewii",,"","(Woronow & Zahn) Sennikov",Synonym,,M,TICA,E71463EA-DF97-4092-9F77-1A5560C7F9B7,1009362-1,"","","62","1998",gcc-11898
+gcc-17910,A,Compositae,,Pilosella,,"albarracina",,"","(Zahn) Mateo",Synonym,,M,TICA,D9A2127B-ACB8-4A4D-834B-2116381511C3,962416-1,"","","140","1990",gcc-3075
+gcc-1160,A,Compositae,,Pilosella,,"albicans",,"","Norrl.",Unresolved,,L,TICA,5059E99B-BD0E-4D72-8E85-022038FCBD85,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 8","","8","",
+gcc-8881,A,Compositae,,Pilosella,,"albiflora",,"","(Hook.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,65745F48-24D6-4CEC-99D8-109EA42A3B10,237973-1,"Flora 45: 438","","438","1862",gcc-40992
+gcc-90061,A,Compositae,,Pilosella,,"albocinerea",,"","(Rupr.) Arv.-Touv.",Synonym,,M,TICA,98F840ED-EE74-4B1A-BDCF-831F76B15B70,237974-1,"","","281","1880",gcc-111754
+gcc-137316,A,Compositae,,Pilosella,,"albulana",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,D51C6533-E582-4444-BC6F-EE34420DB02D,237975-1,"Preslia 43(2): 185 (1971)","","185","1971",
+gcc-150010,A,Compositae,,Pilosella,,"albulana",subsp.,"albulana","",Synonym,,L,TICA,B281E661-2AA4-477B-8ECB-6544D87EEFD8,,"","","","",gcc-137316
+gcc-16681,A,Compositae,,Pilosella,,"aletschensis",,"","(Zahn) Soják",Accepted,,M,TICA,247AB294-7D7E-4075-958F-1ED6D17DFC53,,"","","139","1982",
+gcc-122450,A,Compositae,,Pilosella,,"alpicola",,"","(Steud. & Hochst.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,E7DD9ECB-9A42-4626-A4F4-CC0D324C4371,237976-1,"","","426","1862",
+gcc-153851,A,Compositae,,Pilosella,,"alpicola",subsp.,"alpicola","",Synonym,,L,TICA,E2DFD8FC-35BD-4E01-9F9C-B67AC2436207,,"","","","",gcc-122450
+gcc-64932,A,Compositae,,Pilosella,,"alpicola",subsp.,"ullepitschii","(Błocki) Soják",Synonym,,L,TICA,9D87FD90-3851-41D2-A14B-C253860CEF9B,,"","","42","1972",gcc-122450
+gcc-40292,A,Compositae,,Pilosella,,"altaica",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,1BEF6AF6-411F-4C28-83BA-4AB22DB4B202,947445-1,"","","349","1989",gcc-79741
+gcc-134049,A,Compositae,,Pilosella,,"alticeps",,"","Norrl.",Unresolved,,L,TICA,E228D61A-D189-403F-82DB-E6F3DD6F11C3,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 24","","24","",
+gcc-84163,A,Compositae,,Pilosella,,"alturgelliana",,"","Mateo",Accepted,,M,TICA,02111340-1D3C-445A-98BA-75EB03917FEC,77067786-1,"","","72","2005",
+gcc-83130,A,Compositae,,Pilosella,,"amaureilema",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,3CB1FD79-B25B-470F-BDD7-73A5EE1109D7,947459-1,"","","356","1989",gcc-31140
+gcc-46578,A,Compositae,,Pilosella,,"amaurocephala",,"","(Peter) Soják",Accepted,,M,TICA,3C6BDF53-63B4-4B6C-AC93-564C07CD555F,,"","","139","1982",
+gcc-108901,A,Compositae,,Pilosella,,"amaurochlora",,"","(Zahn) Schljakov",Synonym,,M,TICA,68E214DE-B5C9-4D8D-9A18-AD67CC7D5A1E,947447-1,"","","351","1989",gcc-42414
+gcc-103418,A,Compositae,,Pilosella,,"ambigua",,"","(Ehrh.) Soják",Unresolved,,L,TICA,D52B4964-6C7B-4FA6-9DE5-A137028890EA,,"""in Čas. Nár. Muz. (Prague), 150(3–4): 139 (1981 publ. 1982):.""","","139","1982",
+gcc-117327,A,Compositae,,Pilosella,,"ambusta",,"","Norrl.",Unresolved,,L,TICA,4AAB2F51-5EEE-4C0F-9251-C06F9B395AB6,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 15","","15","",
+gcc-85807,A,Compositae,,Pilosella,,"amnoon",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,757AF370-3C51-4951-A39F-797943D75364,947408-1,"","","340","1989",gcc-10440
+gcc-80490,A,Compositae,,Pilosella,,"amplectens",,"","Norrl.",Unresolved,,L,TICA,EA7214F0-8390-4AC5-8BD8-6DB18E4CF6B4,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 111","","111","",
+gcc-108328,A,Compositae,,Pilosella,,"anadenioides",,"","(Zahn) Dostál",Synonym,,M,TICA,90053BF2-A439-426F-AB85-AC0A400E3202,914423-1,"","","15","1984",gcc-65162
+gcc-39106,A,Compositae,,Pilosella,,"anchusoides",,"","Arv.-Touv.",Accepted,,M,TICA,9067F08B-D17B-40BA-B5D5-488FF9217148,,"","","17","1873",
+gcc-152042,A,Compositae,,Pilosella,,"anchusoides",subsp.,"anchusoides","",Synonym,,L,TICA,EBB30018-9905-4FFF-9433-9159F10A1AE4,,"","","","",gcc-39106
+gcc-84921,A,Compositae,,Pilosella,,"aneimena",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,BD99FFB0-4518-41B7-B37B-7787F37786D2,,"","","139","1982",
+gcc-5184,A,Compositae,,Pilosella,,"angustella",,"","Norrl.",Synonym,,M,TICA,AE08BA71-1298-4997-9A04-09AE727C2835,,"","","68","",gcc-25499
+gcc-78563,A,Compositae,,Pilosella,,"angustifolia",,"","(Hoppe) H.P.Fuchs",Synonym,,M,TICA,0BD462CD-E331-4A7B-8126-696BEDB7ADF3,,"","","677","1980",gcc-113288
+gcc-146262,A,Compositae,,Pilosella,,"angustifolia",subsp.,"angustifolia","",Synonym,,L,TICA,25E3961A-5378-4DCB-925C-14F60C051F24,,"","","","",gcc-113288
+gcc-130190,A,Compositae,,Pilosella,,"annae-vetterae",,"","(Zahn) Soják",Accepted,,M,TICA,D0157685-F142-4861-A496-DDFB6D8FA83C,,"","","139","1982",
+gcc-52243,A,Compositae,,Pilosella,,"anobrachia",,"","(Arv.-Touv. & Gaut.) S.Bräut. & Greuter",Accepted,,M,TICA,898ACA8A-7162-416C-A29E-60E2CEFE4DB8,77083731-1,"","","132","2007",
+gcc-102142,A,Compositae,,Pilosella,,"antennarioidiformis",,"","(Zahn) Sennikov",Synonym,,M,TICA,27684009-B482-431D-BD29-9E65B8F6B65D,1009363-1,"","","62","1998",gcc-41666
+gcc-121023,A,Compositae,,Pilosella,,"anthura",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,B74DB108-614B-4DA2-9529-C8DFCF863B3A,237983-1,"Flora 45: 440","","440","1862",
+gcc-8334,A,Compositae,,Pilosella,,"apargioides",,"","Norrl. ex Nägeli & Peter",Unresolved,,L,TICA,D04559EF-E4B6-42AB-825D-0F83A3A0ED3D,,"Hierac. Mitteleur. i. 771 (1885).","","i. 771","1885",
+gcc-38207,A,Compositae,,Pilosella,,"apatelia",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,854FDDE2-8C6C-4386-BBBE-46DF7720F5FC,237985-1,"","","184","1971",gcc-116509
+gcc-146525,A,Compositae,,Pilosella,,"apatelia",subsp.,"apatelia","",Synonym,,L,TICA,1233F8B5-1D53-4B17-842A-1A8042961B9A,,"","","","",gcc-116509
+gcc-13015,A,Compositae,,Pilosella,,"aplotea",,"","Norrl.",Unresolved,,L,TICA,2E7EB3AA-C685-4812-8266-183D7EBEAE31,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 28","","28","",
+gcc-140528,A,Compositae,,Pilosella,,"aquilonaris",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,8917761B-02C4-4EE6-A5CB-F53EE9003872,947361-1,"","","331","1989",gcc-65162
+gcc-79614,A,Compositae,,Pilosella,,"aranii",,"","Mateo",Accepted,,M,TICA,C259F7BC-3D42-494B-B370-6BCE7918EA3A,70029276-1,"","","69","1997",
+gcc-106905,A,Compositae,,Pilosella,,"arbasiana",,"","Mateo & Egido",Accepted,,M,TICA,C71364D1-347C-46ED-A6E4-A8E13A4E999D,77087955-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","8","2007",
+gcc-132557,A,Compositae,,Pilosella,,"arctogena",,"","Norrl.",Synonym,,L,TICA,D7E97AD8-C48F-406C-8E0E-E3894886515E,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","172","",gcc-95605
+gcc-86623,A,Compositae,,Pilosella,,"arctogena",,"","(Norrl.) Schljakov",Synonym,,L,TICA,9BEC27EF-FF38-4A66-9958-7B56D6A2FFB1,,"","","","1987",gcc-95605
+gcc-121051,A,Compositae,,Pilosella,,"arguta",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,F9B78B4D-5069-4EC1-9B19-C8EF80B27CC0,237987-1,"Flora 45: 438","","438","1862",
+gcc-131831,A,Compositae,,Pilosella,,"argyrocoma",,"","(Fr.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,8D82DEDD-89E4-422D-B234-E1D612867DA9,237988-1,"","","422","1862",
+gcc-2317,A,Compositae,,Pilosella,×,"arida",,"","(Freyn) Schljakov",Unresolved,,L,TICA,03B9BF99-E29B-41BB-AA9A-0436C953723D,947465-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 364 (1989):.""","","364","1989",
+gcc-31028,A,Compositae,,Pilosella,,"arida",,"","(Freyn) Soják",Accepted,,M,TICA,019550FE-6156-49D0-B40C-39742D3FCC08,237989-1,"","","219","1971",
+gcc-20648,A,Compositae,,Pilosella,,"aridicola",,"","Norrl.",Unresolved,,L,TICA,75E641E6-95E1-44C2-974F-2634676C58DE,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 7","","7","",
+gcc-20316,A,Compositae,,Pilosella,,"armeniaca",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,5BE29AE6-BA5E-488F-ABE0-259063C4A545,947416-1,"","","343","1989",gcc-10440
+gcc-110766,A,Compositae,,Pilosella,,"arnoseroides",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,2E353862-7C85-4575-8EF7-B1AA75BF48FC,237991-1,"","","186","1971",
+gcc-115416,A,Compositae,,Pilosella,,"arrhenii",,"","Norrl.",Unresolved,,L,TICA,142C08B1-6677-4EF3-BB5C-BC15C0EE9E93,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 68","","68","",
+gcc-143922,A,Compositae,,Pilosella,,"arvicola",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,9C3E0C47-C383-48A6-97BB-FCF3A522C0F9,237993-1,"","","186","1971",gcc-99244
+gcc-146536,A,Compositae,,Pilosella,,"arvicola",subsp.,"arvicola","",Synonym,,L,TICA,E6164978-2373-4549-89A7-1A91C6E8AE2D,,"","","","",gcc-99244
+gcc-134248,A,Compositae,,Pilosella,,"arvorum",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,16E5FB17-04E1-4AF4-941C-E759C1C79A45,947394-1,"","","338","1989",gcc-152263
+gcc-103754,A,Compositae,,Pilosella,,"asiatica",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,4EB987F8-FA80-4590-9DC2-A1F8415FAC9A,947360-1,"","","329","1989",gcc-93701
+gcc-125339,A,Compositae,,Pilosella,,"asperula",,"","Norrl.",Unresolved,,L,TICA,6A3C296D-7DDE-4179-86F3-D2CCEB26B060,,"""Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 93, 173""","","173","",
+gcc-119563,A,Compositae,,Pilosella,,"assimilata",,"","Norrl.",Unresolved,,L,TICA,5D2761BE-0E98-4348-B4FC-C56F2FA3837F,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 151","","151","",
+gcc-7304,A,Compositae,,Pilosella,,"atramentaria",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,A49BD74E-1A61-46E1-B113-0D978589FCDB,237996-1,"","","186","1971",gcc-8407
+gcc-152956,A,Compositae,,Pilosella,,"atramentaria",subsp.,"atramentaria","",Synonym,,L,TICA,AC0AB159-81AB-4A78-BC09-A41D094313A1,,"","","","",gcc-8407
+gcc-125680,A,Compositae,,Pilosella,,"atrobulbosa",,"","Norrl.",Unresolved,,L,TICA,6216CBB8-5EE0-4E63-A51D-D395B5B50268,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 62","","62","",
+gcc-143746,A,Compositae,,Pilosella,,"atrocrinita",,"","(Arv.-Touv.) Soják",Synonym,,M,TICA,4357973A-C9C9-4C49-A371-FC958AAFF12D,,"","","139","1982",gcc-8224
+gcc-50180,A,Compositae,,Pilosella,,"atroviolascens",,"","Norrl.",Unresolved,,L,TICA,A1AC455A-3186-4EC6-8919-5D04A84EDB4B,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 41","","41","",
+gcc-42163,A,Compositae,,Pilosella,,"aurantella",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,F4A97787-B7F6-413F-A22C-4E20690D6AAB,237999-1,"","","218","1971",
+gcc-129064,A,Compositae,,Pilosella,,"aurantiaca",,"","(L.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,48BDBDEC-09C0-41FB-9C3B-DB6DCAC1FE90,238000-1,"","","426","1862",
+gcc-150868,A,Compositae,,Pilosella,,"aurantiaca",var.,"aurantiaca","",Synonym,,L,TICA,BBCF8E23-C06B-4505-80B0-77E54B65C984,,"","","","",gcc-129064
+gcc-69283,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"aurantiaca","",Synonym,,L,TICA,98299BA2-B0CC-4ECF-8E51-E53328BE6A0A,,"","","","",gcc-129064
+gcc-62414,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"auropurpurea","(Peter) Soják",Accepted,,L,TICA,BA65FA5C-F245-402F-A07E-AE9674531605,,"","","43","1972",
+gcc-3271,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"brunneocrocea","(Pugsley) P.D.Sell & C.West",Synonym,,L,TICA,613D2492-B4BC-46A9-83E9-060B8FA207DC,,"P. D. Sell & C. West in Watsonia 6. 1967.","","314","1967",gcc-129064
+gcc-67153,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"carpathicola","(Nägeli & Peter) Soják",Synonym,,L,TICA,E12B1CEF-5452-4E90-9BFD-D4A6CDD25DFD,,"","","43","1972",gcc-129064
+gcc-46656,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"decolorans","(Fr.) T.Tyler",Accepted,,L,TICA,F4A5D107-C810-47E2-BBAD-567978A9AEC7,1021033-1,"","","54","2001",
+gcc-58306,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"dimorpha","(Norrl. ex Norrl.) T.Tyler",Synonym,,L,TICA,E21B2199-8659-4D49-B992-8D86CC8833BB,,"","","56","2001",gcc-79741
+gcc-60993,A,Compositae,,Pilosella,,"aurantiaca",subsp.,"subaurantiaca","(Nägeli & Peter) Soják",Synonym,,L,TICA,5617207B-6F83-4B2E-ABC8-A2F4D67ADB1B,,"","","43","1972",gcc-129064
+gcc-90286,A,Compositae,,Pilosella,×,"auricuioides",,"","(Láng) P.D.Sell & C.West",Synonym,,M,TICA,34A829FB-A0DB-4E8D-B491-839D9B334B76,238004-1,"Notes Roy. Bot. Gard. Edinburgh 33(3): 432","","432","1975",gcc-4618
+gcc-121279,A,Compositae,,Pilosella,,"auricula",,"","(L.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,947227C1-4D28-418F-9EE3-C973852A8551,238001-1,"","","425","1862",gcc-8407
+gcc-130495,A,Compositae,,Pilosella,,"auriculiformis",,"","(Fr.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,34B1A358-55A5-4A20-99BA-DEAB051A70B0,238002-1,"","","424","1862",
+gcc-145560,A,Compositae,,Pilosella,,"auriculiformis",subsp.,"auriculiformis","",Synonym,,L,TICA,E831A856-15F6-4FBD-8AA6-06833FB9266E,,"","","","",gcc-130495
+gcc-26630,A,Compositae,,Pilosella,,"auriculina",,"","(Dahlst.) Soják",Synonym,,M,TICA,E3092BE9-5070-4F5B-9D11-3133C946FC3F,238003-1,"","","185","1971",gcc-100924
+gcc-145375,A,Compositae,,Pilosella,,"auriculina",subsp.,"auriculina","",Synonym,,L,TICA,07361B16-0970-4511-9261-02EC3FED294E,,"","","","",gcc-100924
+gcc-4618,A,Compositae,,Pilosella,,"auriculoides",,"","(Láng) Arv.-Touv.",Accepted,,M,TICA,3BB64099-2A60-4FE7-91AD-089B612FEFEA,,"","","280","1880",
+gcc-147699,A,Compositae,,Pilosella,,"auriculoides",subsp.,"auriculoides","",Synonym,,L,TICA,60FF1FEB-20DF-432A-8A84-3340A033EA96,,"","","","",gcc-4618
+gcc-14457,A,Compositae,,Pilosella,,"auriculoides",subsp.,"sarmentosa","(Zahn) Soják",Synonym,,L,TICA,C0840689-D335-470A-BB2E-1AD65D3A12D2,,"","","59","1972",gcc-4618
+gcc-30319,A,Compositae,,Pilosella,,"auriculoides",subsp.,"semiauriculoides","(Zahn) Soják",Synonym,,L,TICA,0C4A82E4-19C1-49BC-9BC9-38199A81A4A2,,"","","59","1972",gcc-4618
+gcc-90556,A,Compositae,,Pilosella,,"aurulenta",,"","Norrl.",Synonym,,M,TICA,0864A343-9274-470F-94BB-845429E8953A,238005-1,"","","30","1895",gcc-44012
+gcc-2854,A,Compositae,,Pilosella,,"austerula",,"","Norrl.",Unresolved,,L,TICA,B845B8F0-72A3-4E6E-B795-05437CB144CA,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 146","","146","",
+gcc-100889,A,Compositae,,Pilosella,,"avilae",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,82D13F80-F6D2-41B4-9023-9B9E6991F0C5,238007-1,"Flora 45: 437","","437","1862",
+gcc-8130,A,Compositae,,Pilosella,,"balansae",,"","(Boiss.) S.Bräut. & Greuter",Accepted,,M,TICA,56132715-093E-4EA7-8495-0F1F463EE8F1,77083710-1,"","","132","2007",
+gcc-130297,A,Compositae,,Pilosella,,"banaticola",,"","(Sudre) Soják",Synonym,,M,TICA,D79E5500-24F9-40B0-8329-DE34A803B791,,"","","139","1982",gcc-49791
+gcc-52750,A,Compositae,,Pilosella,,"basifurca",,"","(Peter) Soják",Accepted,,M,TICA,37976479-F1F2-4207-81C4-61CA0DA95C8E,238008-1,"","","217","1971",
+gcc-148054,A,Compositae,,Pilosella,,"bauhini",,"","(Schult.) Arv.-Touv.",Synonym,,M,TICA,B5E1E9DA-E558-48F8-9684-3AA4DF2F5B9D,238009-1,"Arv.-Touv. in Bull. Soc. Dauphin. Echange Pl.. 1880","","280","1880",gcc-152263
+gcc-149680,A,Compositae,,Pilosella,,"bauhini",subsp.,"bauhini","",Synonym,,L,TICA,48E9E700-DBE8-4E35-AE1B-5DF93EE4757E,,"","","","",gcc-152263
+gcc-150595,A,Compositae,,Pilosella,,"bauhini",subsp.,"plicata","(Nägeli & Peter) Soják",Synonym,,L,TICA,61C80DC6-E84D-40BF-8BE2-72066B1FC701,,"""Soják - in Čas. Nár. Mus., Odd. Přír. 141. 1972""","","54","1972",gcc-152263
+gcc-33631,A,Compositae,,Pilosella,,"bauhinii",subsp.,"adenoclada","Soják",Synonym,,L,TICA,5769A42F-69C8-464D-AC0E-3E5D945CF51F,,"","","53","1972",gcc-152263
+gcc-64431,A,Compositae,,Pilosella,,"bauhinii",subsp.,"anisoclada","Soják",Synonym,,L,TICA,DC7CD49D-8302-4D4A-B807-BE78EBC657F9,,"","","54","1972",gcc-152263
+gcc-58258,A,Compositae,,Pilosella,,"bauhinii",subsp.,"arvorum","(Nägeli & Peter) Soják",Synonym,,L,TICA,A5BAA797-8704-42D7-9647-8D2DADE849C7,,"","","53","1972",gcc-152263
+gcc-54080,A,Compositae,,Pilosella,,"bauhinii",subsp.,"chaunocyma","Soják",Synonym,,L,TICA,13D2FBAF-9A7E-413E-BBF3-6B46CE6F8E18,,"","","54","1972",gcc-152263
+gcc-55939,A,Compositae,,Pilosella,,"bauhinii",subsp.,"cymantha","(Nägeli & Peter) Soják",Synonym,,L,TICA,DE4AAB10-532C-45AD-B833-7A541E6FFF15,,"","","","1972",gcc-152263
+gcc-69378,A,Compositae,,Pilosella,,"bauhinii",subsp.,"fastigiata","(Tausch ex Nägeli & Peter) Soják",Synonym,,L,TICA,1DA34814-1986-4A5F-9A03-E5CFC04455A9,,"","","53","1972",gcc-152263
+gcc-30993,A,Compositae,,Pilosella,,"bauhinii",subsp.,"hispidissima","(Nägeli & Peter) Soják",Synonym,,L,TICA,777860A9-780A-4DBD-A065-3963D71E8682,,"","","","1972",gcc-152263
+gcc-64706,A,Compositae,,Pilosella,,"bauhinii",subsp.,"macra","(Nägeli & Peter) Soják",Synonym,,L,TICA,3FA6B7EE-728F-40BC-A634-C080575592FC,,"","","","1972",gcc-152263
+gcc-53665,A,Compositae,,Pilosella,,"bauhinii",subsp.,"melachaeta","(Tausch) Soják",Synonym,,L,TICA,ED38318B-51A6-4A5A-8AEA-67FCA569C2AB,,"","","54","1972",gcc-152263
+gcc-54141,A,Compositae,,Pilosella,,"bauhinii",subsp.,"obscuribractea","(Nägeli & Peter) Soják",Synonym,,L,TICA,BD084DDC-544F-4CC1-8DA6-6BB1C8E05D03,,"","","53","1972",gcc-152263
+gcc-56048,A,Compositae,,Pilosella,,"bauhinii",subsp.,"obscuribracteata","(Nägeli & Peter) Soják",Synonym,,L,TICA,F22CDC50-F42B-4ABE-A62D-7B4B99ED0676,,"","","","",gcc-10440
+gcc-61249,A,Compositae,,Pilosella,,"bauhinii",subsp.,"polyanthema","(Nägeli & Peter) Soják",Synonym,,L,TICA,E44A91E9-D87D-45E3-8DE8-A4F3C1F4AC09,,"","","54","1972",gcc-152263
+gcc-55807,A,Compositae,,Pilosella,,"bauhinii",subsp.,"thaumasia","(Peter) Soják",Synonym,,L,TICA,F807F347-CC18-4E3D-AFD6-7904B4541024,,"","","53","1972",gcc-152263
+gcc-12589,A,Compositae,,Pilosella,,"bauhinii",subsp.,"thaumasioides","(Peter) Soják",Synonym,,L,TICA,52784B38-70ED-4CF2-A0E7-17794FBD4755,,"","","53","1972",gcc-152263
+gcc-62433,A,Compositae,,Pilosella,,"bauhinii",subsp.,"viscidula","(Tausch) Soják",Synonym,,L,TICA,A6654B8E-FDC6-4C7A-8334-AEB8AC841E47,,"","","54","1972",gcc-152263
+gcc-143013,A,Compositae,,Pilosella,,"bergidensis",,"","(M.Laínz) M.Laínz",Synonym,,M,TICA,464AE189-1C39-4CA6-88C4-FAEF1DFD7C7C,238010-1,"","","243","1977",gcc-77383
+gcc-20186,A,Compositae,,Pilosella,,"besseriana",,"","(Spreng.) Schljakov",Synonym,,M,TICA,3525C292-77F8-4967-8B79-254B5B5A3207,947407-1,"","","340","1989",gcc-10440
+gcc-21087,A,Compositae,,Pilosella,,"besseriana",,"","(Spreng.) Soják",Synonym,,M,TICA,8822B632-C79C-4D5A-8258-26F30CF9A5A6,,"Fl. Part. Eur. URSS 8 : 340 (1989)","","340","1989",gcc-10440
+gcc-103326,A,Compositae,,Pilosella,,"biflora",,"","(Arv.-Touv.) Arv.-Touv.",Accepted,,M,TICA,B8CF8091-DC84-44E0-B71D-A106BF91A0B8,238011-1,"","","279","1880",
+gcc-22040,A,Compositae,,Pilosella,,"bifurca",,"","(M.Bieb.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,F7BA0B11-4D2D-4283-8A7C-28C3CED0197B,238012-1,"","","423","1862",
+gcc-153750,A,Compositae,,Pilosella,,"bifurca",subsp.,"bifurca","",Synonym,,L,TICA,914403BF-EC46-4B89-8733-B47C6B11B4C7,,"","","","",gcc-22040
+gcc-26213,A,Compositae,,Pilosella,,"biglana",,"","(Bornm. & Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,05C60CB1-8953-44C4-B088-3079D67DB4F0,77083711-1,"","","132","2007",
+gcc-135691,A,Compositae,,Pilosella,,"bihariensis",,"","(A.Kern.) Arv.-Touv.",Synonym,,M,TICA,241F09D7-DBB1-4749-B9F5-EA85BFD2C592,238013-1,"","","280","1880",gcc-129064
+gcc-1360,A,Compositae,,Pilosella,,"billyana",,"","(de Retz) Mateo",Accepted,,M,TICA,602DD260-8270-446C-A80F-02744828A940,962417-1,"","","140","1990",
+gcc-107601,A,Compositae,,Pilosella,,"binata",,"","Norrl. ex Nägeli & Peter",Unresolved,,L,TICA,5214D76A-BD91-4E99-A49C-AA6EF9BE68D5,,"Hierac. Mitteleur. i. 475 (1885).","","i. 475","1885",
+gcc-98450,A,Compositae,,Pilosella,,"blyttiana",,"","(Fr.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,C07A93E1-B242-4F93-A3A2-962DBBB73618,238015-1,"","","425","1862",
+gcc-149215,A,Compositae,,Pilosella,,"blyttiana",subsp.,"blyttiana","",Synonym,,L,TICA,89D6B76D-98AD-4F5D-8F07-541791F1FA36,,"","","","",gcc-98450
+gcc-20144,A,Compositae,,Pilosella,,"bodewigiana",,"","(Zahn) Soják",Accepted,,M,TICA,6AB09A5A-1772-4E89-A524-253C228BC564,238016-1,"","","219","1971",
+gcc-102289,A,Compositae,,Pilosella,,"boliviensis",,"","(Wedd.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,0225BE1D-D42C-4800-9ECB-9EC358E4AF6F,1122967-2,"","","436","1862",gcc-126619
+gcc-147450,A,Compositae,,Pilosella,,"boliviensis",,"","(Wedd.) Sch.Bip.",Synonym,,M,TICA,B6C14920-93CC-470B-B8D5-2DDDB703EE43,,"","","","",gcc-126619
+gcc-50806,A,Compositae,,Pilosella,,"bomanssonii",,"","Norrl.",Unresolved,,L,TICA,1E114768-4813-4901-8BDC-5E3C489742F0,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 33","","33","",
+gcc-102086,A,Compositae,,Pilosella,,"bonaquae",,"","(Buttler & W.Lippert) S.Bräut. & Greuter",Accepted,,M,TICA,6E7713C0-9CB9-4D30-9C1F-9E423C821C6E,77083712-1,"","","132","2007",
+gcc-17937,A,Compositae,,Pilosella,,"botrychodes",,"","(Zahn) Schljakov",Synonym,,M,TICA,F0AB7D22-E744-4C70-A8F1-2126A44B804E,947382-1,"","","335","1989",gcc-152263
+gcc-112241,A,Compositae,,Pilosella,,"brachiata",,"","(DC.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,07231228-7CCA-4639-9887-B4EF30CB1BBB,238019-1,"","","424","1862",
+gcc-154354,A,Compositae,,Pilosella,,"brachiata",subsp.,"brachiata","",Synonym,,L,TICA,C939304C-7955-4638-A21A-C1F1BEFC4D48,,"","","","",gcc-112241
+gcc-67004,A,Compositae,,Pilosella,,"brachiata",subsp.,"brachiatiformis","(Nägeli & Peter) Soják",Synonym,,L,TICA,42AEB241-42B3-4D0B-B64F-D3629FAB3551,,"","","55","1972",gcc-112241
+gcc-44662,A,Compositae,,Pilosella,,"brachiata",subsp.,"crociflora","(Nägeli & Peter) Soják",Synonym,,L,TICA,6BB04EA8-4770-461E-A5ED-52BFB8E063EB,,"","","55","1972",gcc-112241
+gcc-72492,A,Compositae,,Pilosella,,"brachiata",subsp.,"pseudobrachiata","(Čelak.) Soják",Synonym,,L,TICA,CC5F7019-3748-4EE0-9926-FE51993F0FDB,,"","","55","1972",gcc-112241
+gcc-89058,A,Compositae,,Pilosella,,"brachycephala",,"","(Norrl.) Norrl.",Synonym,,M,TICA,AF4E4685-61F1-4E62-9AE7-80D203853C0F,,"","","","1884",gcc-8407
+gcc-13386,A,Compositae,,Pilosella,,"brachycoma",,"","(Nägeli & Peter) H.P.Fuchs",Accepted,,M,TICA,E59A6D83-AE02-4481-9FDD-18F7BB8C2DF1,,"","","662","1980",
+gcc-147330,A,Compositae,,Pilosella,,"brachycoma",subsp.,"brachycoma","",Synonym,,L,TICA,9F7312F0-3531-41C8-A3B6-2B608789504A,,"","","","",gcc-13386
+gcc-57981,A,Compositae,,Pilosella,,"brachycoma",subsp.,"colluta","(Nägeli & Peter) H.P.Fuchs",Synonym,,L,TICA,A34B4024-9181-4059-AC98-8AECBBA730A1,,"","","662","1980",gcc-13386
+gcc-12634,A,Compositae,,Pilosella,,"brachyphylla",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,1CCA79AA-758A-48D4-A798-178DC2AC7B2B,238022-1,"Flora 45: 426","","426","1862",
+gcc-37896,A,Compositae,,Pilosella,,"branae",,"","(Nägeli & Peter) Sennikov",Synonym,,M,TICA,09E6E0AD-EEAB-42AA-994B-464A4F9599BD,1009364-1,"","","63","1998",gcc-10440
+gcc-122090,A,Compositae,,Pilosella,,"breviscapa",,"","(DC.) Soják",Accepted,,M,TICA,2CB0A520-D10D-44CD-9C87-CB3B8A484508,238023-1,"","","218","1971",
+gcc-126809,A,Compositae,,Pilosella,,"bryhnii",,"","(Blytt ex Omang) Soják",Accepted,,M,TICA,5CA1B4E5-4F13-49C0-9B6C-D62758FDCC9D,,"","","139","1982",
+gcc-108005,A,Compositae,,Pilosella,,"brzovecensis",,"","(Horvat & Pawł.) Soják",Accepted,,M,TICA,F878C401-B2A8-4EC2-8EDD-AB61B3AC0A81,,"","","218","1971",
+gcc-37090,A,Compositae,,Pilosella,,"brzovecensis",,"","(Horvat & Pawł.) S.Bräut. & Greuter",Unresolved,,L,TICA,3CAFB43D-9AD1-4EC8-9202-44BA25739916,77083727-1,"Willdenowia 37(1): 132","","132","2007",
+gcc-91603,A,Compositae,,Pilosella,,"budensis",,"","(Borbás) Soják",Accepted,,M,TICA,3C772474-D7F0-4891-82C5-86BBC48D0305,,"","","139","1982",
+gcc-106691,A,Compositae,,Pilosella,,"buhsei",,"","(Nägeli & Peter) Sennikov",Synonym,,M,TICA,9837E1E4-0D70-429D-A353-A864F51512EB,1009365-1,"","","63","1998",gcc-85616
+gcc-3075,A,Compositae,,Pilosella,,"byzantina",,"","(Boiss.) P.D.Sell & C.West",Accepted,,M,TICA,ECE0E89E-4B0D-4E81-8387-05B144A7EF41,238025-1,"","","432","1975",
+gcc-42613,A,Compositae,,Pilosella,,"caballeroi",,"","(Mateo) Mateo",Accepted,,M,TICA,46E056AF-CDF1-40BF-86DA-4EEE5804A317,77073430-1,"","","59","2006",
+gcc-79741,A,Compositae,,Pilosella,,"caespitosa",,"","(Dumort.) P.D.Sell & C.West",Accepted,,M,TICA,6FB1ACBE-B098-48E0-BF08-6C14FFE030C7,238026-1,"","","314","1967",
+gcc-43064,A,Compositae,,Pilosella,,"caespitosa",subsp.,"brevipila","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,29AC42E7-D63E-4986-87B2-4FC2DC875211,877861-1,"","","432","1975",gcc-42414
+gcc-7045,A,Compositae,,Pilosella,,"caespitosa",subsp.,"caespitosa","",Synonym,,L,TICA,0A6CBE38-1523-49AB-844E-0D1A5EF7113B,,"","","","",gcc-79741
+gcc-69265,A,Compositae,,Pilosella,,"caespitosa",subsp.,"dissoluta","(Nägeli & Peter) Soják",Synonym,,L,TICA,9ECCCF78-1FC6-472F-975E-E51369763DD1,,"","","44","1972",gcc-79741
+gcc-72245,A,Compositae,,Pilosella,,"caespitosa",subsp.,"leptocaula","(Nägeli & Peter) Soják",Synonym,,L,TICA,0F1E9594-A1CE-4356-B9D2-FC8465A9EFAE,,"","","44","1972",gcc-79741
+gcc-54282,A,Compositae,,Pilosella,,"caespitosa",subsp.,"sudetorum","(Peter) Soják",Synonym,,L,TICA,8DE1CCA2-A54B-41D5-A21A-6CC0DF487E8E,,"","","44","1972",gcc-79741
+gcc-122705,A,Compositae,,Pilosella,,"calabra",,"","(Nägeli & Peter) Soják",Unresolved,,L,TICA,6815FF1F-78F4-4238-8298-CC972B56F587,238027-1,"Folia Geobot. Phytotax. 6(2): 219","","219","1971",
+gcc-85070,A,Compositae,,Pilosella,,"callicyma",,"","(Rehmann) Schljakov",Synonym,,M,TICA,E4CD2AD9-584C-415A-9A17-77DA418E2CE7,,"","","336","1989",gcc-152263
+gcc-106195,A,Compositae,,Pilosella,,"callimorpha",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,8A0D79A1-07D9-4163-86E3-A73775DBF054,238028-1,"","","184","1971",gcc-90757
+gcc-150750,A,Compositae,,Pilosella,,"callimorpha",subsp.,"callimorpha","",Synonym,,L,TICA,F660B321-18E5-46F9-B8CC-757CB511E05A,,"","","","",gcc-90757
+gcc-36809,A,Compositae,,Pilosella,,"callimorphoides",,"","(Zahn) Soják",Synonym,,M,TICA,6B7FE66C-591D-4D1F-AA04-443B1AEB9DB1,238029-1,"","","184","1971",gcc-116509
+gcc-152172,A,Compositae,,Pilosella,,"callimorphoides",subsp.,"callimorphoides","",Synonym,,L,TICA,52250209-AD1C-4D20-A31C-9405EEB5DAD2,,"","","","",gcc-116509
+gcc-30816,A,Compositae,,Pilosella,,"calodon",,"","(Tausch ex Peter) Soják",Accepted,,M,TICA,502C2A45-CBFC-431B-8D47-390D5F5334AF,238030-1,"","","186","1971",
+gcc-149435,A,Compositae,,Pilosella,,"calodon",subsp.,"calodon","",Synonym,,L,TICA,22BD5986-C004-4D3C-9C3C-58A9DFBD8762,,"","","","",gcc-30816
+gcc-5161,A,Compositae,,Pilosella,,"calolepidea",,"","(Norrl.) Schljakov",Synonym,,M,TICA,7DADC164-69B8-4C1C-A184-09A23E3A414D,1013598-1,"","","354","1989",gcc-46656
+gcc-92277,A,Compositae,,Pilosella,,"calolepidea",,"","Norrl.",Unresolved,,L,TICA,75F1AD43-BE88-4D70-AC67-883E9498E6F5,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 49","","49","",
+gcc-109708,A,Compositae,,Pilosella,,"calomastix",,"","(Peter) Soják",Accepted,,M,TICA,05C86FAB-4DD5-4C1E-A354-AF4004277BB1,,"","","186","1971",
+gcc-146888,A,Compositae,,Pilosella,,"calomastix",subsp.,"calomastix","",Synonym,,L,TICA,156AAD55-BBEB-4A6C-A894-21BF9D392DC6,,"","","","",gcc-109708
+tro-50338261,A,Compositae,,Pilosella,,"canum",,"","C.A. Mey.",Unresolved,,L,TRO,50338261,,"","","","",
+gcc-43929,A,Compositae,,Pilosella,,"capillata",,"","(Arv.-Touv.) Mateo",Synonym,,M,TICA,61EDE700-609C-4C85-BF00-5161B31196AA,962418-1,"","","141","1990",gcc-17546
+gcc-112900,A,Compositae,,Pilosella,,"carcina",,"","Arv.-Touv.",Synonym,,M,TICA,86C7931E-A403-4033-B3B1-B67B259FD958,,"","","","",gcc-108200
+gcc-81307,A,Compositae,,Pilosella,,"caroliniana",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,2F575899-D7BA-4E2B-89E1-6F815B5F5A43,238034-1,"Flora 45: 437","","437","1862",
+gcc-43994,A,Compositae,,Pilosella,,"carpathicola",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,9D00355A-65FD-43B6-939E-517E76A39F7B,947449-1,"","","353","1989",gcc-129064
+gcc-82165,A,Compositae,,Pilosella,,"carpathicola",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,4736B307-E57F-4D34-BC55-716A13A23E67,,"","","","",gcc-93102
+gcc-6006,A,Compositae,,Pilosella,,"castellana",,"","(Boiss. & Reut.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,DB70AE03-ED40-45F6-B566-0B2C9A3246A6,238035-1,"","","425","1862",
+gcc-78865,A,Compositae,,Pilosella,,"caucasica",,"","(Nägeli & Peter) Sennikov",Accepted,,M,TICA,0279D24E-59E1-4696-A3CB-6A26C982F852,1009341-1,"","","78","1998",
+gcc-8718,A,Compositae,,Pilosella,,"cernua",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,AB96C74C-04A5-4268-9412-104BE36BD70B,238036-1,"","","423","1862",gcc-122863
+gcc-105981,A,Compositae,,Pilosella,,"chaerophylla",,"","Norrl.",Unresolved,,L,TICA,47A38C4F-41BD-4BCA-90DF-A6C6DCC14380,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 48","","48","",
+gcc-138217,A,Compositae,,Pilosella,,"chaetocephala",,"","(H.Hofm.) Holub",Accepted,,M,TICA,61B1D260-32C9-46CA-B7B1-F0234CF19D1C,,"","","305","1977",
+gcc-139070,A,Compositae,,Pilosella,,"chaetophyton",,"","(Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,A068BFCC-539F-4F39-B311-F1ECEC5E6D2E,77083713-1,"","","132","2007",
+gcc-17713,A,Compositae,,Pilosella,,"chaunadenia",,"","(J.Vetter & Zahn) Soják",Synonym,,M,TICA,EA32F9D1-F47A-4C06-9EC3-20B3E5BBD7DF,,"","","139","1982",gcc-23429
+gcc-106284,A,Compositae,,Pilosella,,"chaunocyma",,"","(Rehmann) Schljakov",Synonym,,M,TICA,787C9AC0-812A-42C2-9DAF-A76B6D35D5CA,,"","","338","1989",gcc-152263
+gcc-120973,A,Compositae,,Pilosella,,"chilensis",,"","(Less.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,627ECF24-B04F-4E47-8953-C8C37A2A155A,1062797-2,"","","436","1862",gcc-136354
+gcc-120825,A,Compositae,,Pilosella,,"chlorops",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,DB653AFD-3204-4CE8-9FCE-C8692D78DAA8,238040-1,"","","218","1971",gcc-90757
+gcc-25355,A,Compositae,,Pilosella,,"chrysocephala",,"","Norrl.",Synonym,,M,TICA,79748564-4F1B-4FA5-A1B3-2ECC2377BA1B,,"","","104","",gcc-98450
+gcc-115588,A,Compositae,,Pilosella,,"chrysocephaloides",,"","Norrl.",Unresolved,,L,TICA,BC4EA5A1-BE34-4529-9DF8-BC849CBD2D7C,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 104","","104","",
+gcc-96345,A,Compositae,,Pilosella,×,"ciesielskii",,"","(Błocki) Val.N.Tikhom.",Unresolved,,L,TICA,CC3AF0FC-38C2-4FE8-99AE-9154977E0825,1018818-1,"""in Bot. Zhurn., 85(11): 112 (2000):.""","","112","2000",
+gcc-84380,A,Compositae,,Pilosella,,"cilicica",,"","(Nägeli & Peter) Holub",Accepted,,M,TICA,F5C0DDC4-099E-473E-915C-7674A7FB564D,238043-1,"Holub in Folia Geobot. Phytotax. 12. 1977","","306","1977",
+gcc-96745,A,Compositae,,Pilosella,,"cinereiformis",,"","(R. Meissn. & Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,B8D7461F-B542-4BF3-B838-924D3533AF7A,77083726-1,"","","132","2007",
+gcc-132650,A,Compositae,,Pilosella,,"cinerosiformis",,"","(Nägeli & Peter) Soják",Unresolved,,L,TICA,2F6D816D-3E77-4777-B6FC-E3B82D4E9FD4,238044-1,"Folia Geobot. Phytotax. 6(2): 219","","219","1971",
+gcc-14503,A,Compositae,,Pilosella,,"clinans",,"","Norrl.",Unresolved,,L,TICA,4BE6505A-F4F1-4478-9C62-1AE83E3FA84F,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 16","","16","",
+gcc-23197,A,Compositae,,Pilosella,,"coacta",,"","Norrl.",Unresolved,,L,TICA,9491FE07-75DB-4417-8FB5-2AF204EC848B,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 11","","11","",
+gcc-23441,A,Compositae,,Pilosella,,"coalescens",,"","Norrl.",Unresolved,,L,TICA,D62A0BDC-9810-4909-8725-2B65467153F4,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 80","","80","",
+gcc-111526,A,Compositae,,Pilosella,,"cochlearis",,"","Norrl.",Accepted,,M,TICA,81F873A5-0F31-4BEB-B4C7-B34DFA04CDA8,238048-1,"","","100","1884 (Feb.-Jun.)",
+gcc-149141,A,Compositae,,Pilosella,,"cochlearis",subsp.,"cochlearis","",Synonym,,L,TICA,85C76DE3-5F5B-403A-931F-5266D87D0FD6,,"","","","",gcc-111526
+gcc-41254,A,Compositae,,Pilosella,,"collina",,"","(Gochnat) Soják",Synonym,,L,TICA,21479CE2-77F3-4CFB-B455-4C72594DC760,238049-1,"","","185","1971",gcc-95605
+gcc-154698,A,Compositae,,Pilosella,,"collina",subsp.,"collina","",Synonym,,L,TICA,DCBA82A4-2AFE-423D-9A63-C931056E830B,,"","","","",gcc-95605
+gcc-135391,A,Compositae,,Pilosella,,"colliniformis",,"","(Peter) Dostál",Accepted,,M,TICA,B6C579F2-D76D-41D2-99A2-E9EE31F72E5A,914424-1,"""Dostál in Folia Mus. Rerum Nat. Bohemiae Occid., Bot. 21. 1984""","","15","1984",
+gcc-38895,A,Compositae,,Pilosella,,"colobima",,"","Norrl.",Unresolved,,L,TICA,768ABADA-0568-40B2-98CB-4825589CB08A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 46","","46","",
+gcc-100701,A,Compositae,,Pilosella,,"comata",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,2EB992B8-4D8F-4324-B6AF-9B37EEFE9EAF,238051-1,"Flora 45: 438","","438","1862",
+gcc-130730,A,Compositae,,Pilosella,,"concolor",,"","Norrl.",Unresolved,,L,TICA,4F5D125B-8054-48BF-9275-DF3B62F08254,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 120","","120","",
+gcc-1713,A,Compositae,,Pilosella,,"concoloriformis",,"","(Norrl.) Schljakov",Synonym,,M,TICA,0E53C49D-DAC3-4112-AD14-031653123DB3,,"","","354","1989",gcc-46656
+gcc-41597,A,Compositae,,Pilosella,,"conflectens",,"","(Norrl.) Schljakov",Synonym,,M,TICA,C8C9CA06-066E-4F8A-8DBE-4D0868685C70,947437-1,"","","347","1989",gcc-138474
+gcc-43015,A,Compositae,,Pilosella,,"congregata",,"","Norrl.",Unresolved,,L,TICA,F54FF758-40F5-4176-9710-4FABA741A9BA,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 22","","22","",
+gcc-1228,A,Compositae,,Pilosella,,"conspersa",,"","Norrl.",Unresolved,,L,TICA,D3B87BC4-128F-4ECA-BB64-02416B45F090,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 71","","71","",
+gcc-137658,A,Compositae,,Pilosella,,"conspersiformis",,"","Norrl.",Unresolved,,L,TICA,0F414A68-D91B-4BEC-BC7F-EEEE7B732474,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 16","","16","",
+gcc-20709,A,Compositae,,Pilosella,,"contracta",,"","(Norrl.) Schljakov",Synonym,,M,TICA,B6F3805B-83AE-46D4-AF96-264E965657A3,947434-1,"","","347","1989",gcc-138474
+gcc-129346,A,Compositae,,Pilosella,,"convexula",,"","Norrl.",Unresolved,,L,TICA,9BF4B9EF-23D4-46FC-9D76-DC0DA2B1BF10,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 17","","17","",
+gcc-33771,A,Compositae,,Pilosella,,"coracodes",,"","Norrl.",Synonym,,M,TICA,6DCEE939-CCBA-41FC-A814-3E99D334EEBE,238057-1,"","","55","1895",gcc-65162
+gcc-17345,A,Compositae,,Pilosella,,"corymbulifera",,"","(Arv.-Touv.) Arv.-Touv.",Accepted,,M,TICA,65356934-CE6D-4321-A5E9-201119D7D66A,,"""Arv.-Touv., Monogr. Pilosella & Hieracium, Add. 1879.""","","5","1879",
+gcc-150908,A,Compositae,,Pilosella,,"corymbuloides",,"","(Arv.-Touv.) S.Bräut. & Greuter",Accepted,,M,TICA,D7924C78-9ED1-49D3-B4FE-78CB520EB66A,77096559-1,"""S. Bräut. & Greuter - in Greuter, Med-Checkl. 2. 2008""","","583","2008",
+gcc-117932,A,Compositae,,Pilosella,,"crassiseta",,"","(Peter) Soják",Accepted,,M,TICA,1F2FBB5B-8636-4524-86E3-C1C0AC4945D2,,"","","139","1982",
+gcc-34095,A,Compositae,,Pilosella,,"crassiseta",,"","(Peter) Schljakov",Unresolved,,L,TICA,2C2B4AFE-E554-4A41-BF3A-3F35243A33AB,947463-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 359 (1989):.""","","359","1989",
+gcc-18652,A,Compositae,,Pilosella,,"cryptomastix",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,3CE7FD56-19C0-4D1B-84B9-2278272FD6D1,238058-1,"","","185","1971",gcc-152263
+gcc-148147,A,Compositae,,Pilosella,,"cryptomastix",subsp.,"cryptomastix","",Synonym,,L,TICA,FA5482C8-5238-4AE5-A076-3C7CD21ACFDD,,"","","","",gcc-152263
+gcc-33139,A,Compositae,,Pilosella,,"cuneolus",,"","Norrl.",Unresolved,,L,TICA,07AF55F1-6A76-4591-80B9-3D77221B806B,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 18","","18","",
+gcc-21182,A,Compositae,,Pilosella,,"curvescens",,"","Norrl.",Synonym,,M,TICA,2DCDC972-8D89-494F-8350-271FDD4CEB7B,238060-1,"","","166","1884",gcc-138474
+gcc-42138,A,Compositae,,Pilosella,,"cylindriceps",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,FD000C70-9C72-4D69-A557-4E111B001EEE,947377-1,"","","334","1989",gcc-131397
+gcc-44563,A,Compositae,,Pilosella,,"cymantha",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,7F5A6F48-9597-472E-A3EB-528EED60DCF1,947390-1,"","","336","1989",gcc-152263
+gcc-87805,A,Compositae,,Pilosella,,"cymanthodes",,"","(Koslovsky & Zahn) Sennikov",Synonym,,M,TICA,6FA9F5C1-B2A2-4CD4-A94A-7E0E5417FFBE,1009366-1,"","","63","1998",gcc-152263
+gcc-117172,A,Compositae,,Pilosella,,"cymiflora",,"","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,M,TICA,2CC7D52E-EDC5-430C-A076-C00A0CDDD339,77083714-1,"","","133","2007",
+gcc-92543,A,Compositae,,Pilosella,,"cymigera",,"","(Rchb.) Arv.-Touv.",Synonym,,M,TICA,E53309F8-F3FE-4DAB-92DD-88D6D9AF3146,238061-1,"","","280","1880",gcc-138474
+gcc-82784,A,Compositae,,Pilosella,,"cymosa",,"","Norrl.",Unresolved,,L,TICA,BAC08E63-119F-47BD-BCFB-72D098A67FA0,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 70","","70","",
+gcc-95605,A,Compositae,,Pilosella,,"cymosa",,"","(L.) F.W.Schultz & Sch.Bip.",Accepted,,L,TICA,24266315-0CDB-4605-8BD6-8FB600EFF4A6,238062-1,"","","429","1862",
+gcc-65293,A,Compositae,,Pilosella,,"cymosa",subsp.,"cymigera","Soják",Synonym,,L,TICA,D635F3E2-F0CC-4D18-8444-C5A9C894E312,,"in Cas. Nar. Muz. (Prague). 141 (1-2): 47 (1972)","","47","1972",gcc-138474
+gcc-11127,A,Compositae,,Pilosella,,"cymosa",subsp.,"cymosa","",Synonym,,L,TICA,0356BD45-9D5B-45B3-B3AF-14CC87E709FA,,"","","","",gcc-95605
+gcc-64630,A,Compositae,,Pilosella,,"cymosa",subsp.,"sabina","(Sebast. & Mauri) H.P.Fuchs",Accepted,,L,TICA,4B4ECC0D-24ED-4BC8-B542-BFF65665FD2E,,"H. P. Fuchs in Feddes Repert. 90. 1980.","","683","1980",
+gcc-5751,A,Compositae,,Pilosella,,"cymosa",subsp.,"suomensis","(Norrl.) Soják",Synonym,,L,TICA,79767EA0-EC13-437F-9375-0AB2D7B74C4D,,"in Cas. Nar. Muz. (Prague). 141 (1-2): 47 (1972).","","47","1972",gcc-20540
+gcc-63596,A,Compositae,,Pilosella,,"cymosa",subsp.,"vaillantii","(Tausch) S.Bräut. & Greuter",Accepted,,L,TICA,0AE93A62-6963-4C66-9E72-B824E00312A7,77083715-1,"S. Bräut. & Greuter in Willdenowia 37. 2007.","","133","2007",
+gcc-21451,A,Compositae,,Pilosella,,"czerepninii",,"","Tupitz.",Unresolved,,L,TICA,D655D389-A355-4D82-ADAA-27A3E19F791E,991252-1,"""in Bot. Zhurn., 81(3): 128 (1996)""","","128","1996",
+gcc-51337,A,Compositae,,Pilosella,,"debilis",,"","(Fr.) Sch.Bip.",Synonym,,M,TICA,B502E4D2-8D20-4562-99B5-5F378286E152,,"Flora 45: 438","","438","1862",gcc-112160
+gcc-131011,A,Compositae,,Pilosella,,"decolorans",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,7DAE0273-EEC9-4495-95BB-DFE2F19166D8,238065-1,"","","426","1862",gcc-46656
+gcc-64275,A,Compositae,,Pilosella,,"decolorans",subsp.,"calolepidea","Norrl.",Synonym,,L,TICA,57976F34-10DE-48FC-82D7-BD3F5B175649,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 12(4). 1895.","","49","1895",gcc-46656
+gcc-156068,A,Compositae,,Pilosella,,"decolorans",subsp.,"decolorans","",Synonym,,L,TICA,302B6483-1A4A-4839-99D4-E5E1BA03F46F,,"","","","",gcc-46656
+gcc-123015,A,Compositae,,Pilosella,,"densiflora",,"","(Tausch) Soják",Accepted,,L,TICA,48E28FAC-63D7-4A9A-91FF-CD588D721548,238066-1,"","","186","1971",
+gcc-34842,A,Compositae,,Pilosella,,"densiflora",subsp.,"cymosiformis","(Nägeli & Peter) Soják",Synonym,,L,TICA,9F3F9B44-0277-45BB-8665-40975A38E0F5,,"in Cas. Nar. Muz. (Prague) 141 (1-2): 58 (1972)","","58","1972",gcc-123015
+gcc-150876,A,Compositae,,Pilosella,,"densiflora",subsp.,"densiflora","",Synonym,,L,TICA,187AA908-A973-4F8D-B9D5-78105885C9CF,,"","","","",gcc-123015
+gcc-62153,A,Compositae,,Pilosella,,"densiflora",subsp.,"umbellifera","(Nägeli & Peter) Soják",Synonym,,L,TICA,ACBD6839-8E4D-4D0D-A4DF-AC6305FDE6BF,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 58 (1972)""","","58","1972",gcc-123015
+gcc-86967,A,Compositae,,Pilosella,,"denticulifera",,"","Norrl.",Synonym,,M,TICA,511A325C-7262-4BFB-9B19-7C20706D82D2,238067-1,"","","167","1884",gcc-138474
+gcc-20908,A,Compositae,,Pilosella,,"derubella",,"","(Gottschl. & Schuhw.) S.Bräut. & Greuter",Accepted,,M,TICA,3A6B33AC-8E83-4D0B-9E3E-26AC0176E316,77083717-1,"","","133","2007",
+gcc-34249,A,Compositae,,Pilosella,,"detonsa",,"","Norrl.",Synonym,,M,TICA,AF626DC8-5FE4-4390-AF8F-3F7BD3D41645,238068-1,"","","156","1884 (Feb.-Jun.)",gcc-129428
+gcc-123135,A,Compositae,,Pilosella,,"dichotoma",,"","(Fries ex Lindeb.) Soják",Accepted,,M,TICA,53111307-FB39-42B3-8654-CDA03D4AA374,,"","","139","1982",
+gcc-85134,A,Compositae,,Pilosella,,"dilutior",,"","(Rehmann) Schljakov",Synonym,,M,TICA,87B92A65-E6C7-49C7-ACE1-78014996EFB9,,"","","332","1989",gcc-65162
+gcc-134556,A,Compositae,,Pilosella,,"dimorphoides",,"","Norrl.",Accepted,,M,TICA,ADFCE5C2-C0BD-49ED-8919-E81172EAE7A9,238069-1,"","","133","1884 (Feb.-Jun.)",
+gcc-103978,A,Compositae,,Pilosella,,"discolorata",,"","Norrl.",Synonym,,M,TICA,9019CB43-070F-44E1-BF67-A27CDE81316A,238070-1,"","","114","1884 (Feb.-Jun.)",gcc-98450
+gcc-16967,A,Compositae,,Pilosella,,"disseminata",,"","(Norrl.) Schljakov",Synonym,,M,TICA,89FA57E1-430E-4C43-A32E-1F5BEC9A6AC1,,"""Schljakov in Cvelev, Fl. Evr. Casti SSSR 8. 1989.""","","354","1989",gcc-46656
+gcc-115661,A,Compositae,,Pilosella,,"dissoluta",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,632C4E59-FEE1-4E8A-B73D-BCB52A152B2B,947446-1,"","","349","1989",gcc-79741
+gcc-119211,A,Compositae,,Pilosella,,"distantilingua",,"","Norrl.",Unresolved,,L,TICA,B6DF0AAC-F638-40AB-956F-C4A81D73CA63,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 19","","19","",
+gcc-122080,A,Compositae,,Pilosella,,"dobromilensis",,"","(Rehmann) Schljakov",Synonym,,M,TICA,A0A5CA5B-81B6-4305-8F12-CB36F9D86924,,"","","334","1989",gcc-152263
+gcc-30075,A,Compositae,,Pilosella,,"dodrantalis",,"","Norrl.",Unresolved,,L,TICA,D4526338-2BA9-42FA-9A03-37AB99142D08,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 23","","23","",
+gcc-51171,A,Compositae,,Pilosella,,"dolinensis",,"","(Rehmann) Schljakov",Synonym,,M,TICA,F6927E8D-2F00-4069-88DD-5EE8A8EC482F,,"","","333","1989",gcc-65162
+gcc-100924,A,Compositae,,Pilosella,,"dubia",,"","(L.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,D581EE93-2392-482F-9D73-9BAF0CF88E00,238073-1,"","","429","1862",
+gcc-6665,A,Compositae,,Pilosella,,"dubia",,"","(L.) Soják",Synonym,,M,TICA,831FE22F-B187-4190-9CBC-0C5E384F0F4A,,"""in Čas. Nár. Muz. (Prague), 150(3–4): 139 (1981 publ. 1982):.""","","139","1982",gcc-100924
+gcc-83622,A,Compositae,,Pilosella,,"dubia",,"","Lindeb. ex Norrl.",Unresolved,,L,TICA,B6BAB4EC-2195-4517-869F-74B4F953D8E1,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 65","","65","",
+gcc-117987,A,Compositae,,Pilosella,,"dublanensis",,"","(Rehmann) Schljakov",Synonym,,M,TICA,D6725DCF-F49F-4612-863C-C1E3D1C9BDDE,,"","","348","1989",gcc-79741
+gcc-129126,A,Compositae,,Pilosella,,"dublitzkii",,"","(B.Fedtsch. & Nevski) Tupitz.",Unresolved,,L,TICA,C3198846-2003-4FE7-AA23-DB9719D26245,1009537-1,"""in Fl. Sibir. (Asterac.), 13: 348 (1997 publ. 1998):.""","","348","1998",
+gcc-46796,A,Compositae,,Pilosella,,"dublizkii",,"","(B.Fedtsch. & Nevski) Sennikov",Accepted,,M,TICA,9307AABC-8A4B-4B46-9DC8-56B3AECEE3CD,,"""in Bot. Zhurn., 83(2): 78 (1998):.""","","78","",
+gcc-117533,A,Compositae,,Pilosella,,"duplex",,"","(Peter) Holub",Unresolved,,L,TICA,625A2EB5-B988-4649-81B7-C0E7064187AE,,"","","","",
+gcc-50250,A,Compositae,,Pilosella,×,"duplex",,"","(Peter) Holub",Unresolved,,L,TICA,B26EB307-694B-4EF2-AE42-5D30CD45F4CB,238075-1,"Folia Geobot. Phytotax. 12(3): 306 (1977)","","306","1977",gcc-93978
+gcc-128739,A,Compositae,,Pilosella,,"dybowskiana",,"","(Rehmann) Schljakov",Synonym,,M,TICA,A207114D-7521-41C2-9BD0-DAB65D7BDA70,,"","","373","1989",gcc-79783
+gcc-93701,A,Compositae,,Pilosella,,"echioides",,"","(Lumn.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,5A6ADFA6-D29C-439C-82EC-8B42057EA8AE,238076-1,"","","431","1862",
+gcc-53607,A,Compositae,,Pilosella,,"echioides",subsp.,"echioides","",Synonym,,L,TICA,A113D4BD-A8F6-4748-941B-677D83591226,,"","","","",gcc-93701
+gcc-49985,A,Compositae,,Pilosella,,"echioides",subsp.,"freynii","(Nägeli & Peter) Soják",Synonym,,L,TICA,DEE58F0A-42BE-4DE8-AFA9-5CAB074A2033,,"","","49","1972",gcc-93701
+gcc-57222,A,Compositae,,Pilosella,,"echioides",subsp.,"macrocyma","(Nägeli & Peter) Soják",Synonym,,L,TICA,F038008C-04A3-4B1A-8DBC-84B8BD588D0B,,"","","49","1972",gcc-93701
+gcc-20228,A,Compositae,,Pilosella,,"echioides",subsp.,"procera","(Fr.) P.D.Sell & C.West",Synonym,,L,TICA,9A7C8A23-5F2A-4FEA-9AA7-25668F1DDB83,,"","","432","1975",gcc-85616
+gcc-1004,A,Compositae,,Pilosella,,"echioides",subsp.,"proceriformis","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,L,TICA,AEACF01A-8C23-4FCF-A7C2-01D855E9EE1B,77083719-1,"","","133","2007",
+gcc-110426,A,Compositae,,Pilosella,,"eginensis",,"","(Freyn & Sint.) Soják",Unresolved,,L,TICA,5DF79092-FB59-4722-A444-B0DFACDB2BD7,238077-1,"Folia Geobot. Phytotax. 6(2): 219","","219","1971",
+gcc-124189,A,Compositae,,Pilosella,,"eglandulosa",,"","(Sudre) Mateo",Accepted,,M,TICA,3FF6293A-0F05-4176-A598-D01C79CF21AD,77073431-1,"","","59","2006",
+gcc-128252,A,Compositae,,Pilosella,,"eminens",,"","(Peter) Soják",Accepted,,M,TICA,786AE4EA-090B-400E-B2CD-D9962E9FE518,,"","","139","1982",
+gcc-50798,A,Compositae,,Pilosella,,"empeda",,"","Norrl.",Unresolved,,L,TICA,50339AB0-B3A7-4C66-AC93-5E38DB66D404,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 56","","56","",
+gcc-137682,A,Compositae,,Pilosella,,"empodista",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,B2A901CC-7CE6-45D8-99E2-EEFE5A1D722F,947384-1,"","","335","1989",gcc-152263
+gcc-138590,A,Compositae,,Pilosella,,"ensifera",,"","(Norrl.) Schljakov",Synonym,,L,TICA,0895AC63-D5EA-4AC2-9A8A-F0ECFC3DCE1F,,"""Schljakov in Cvelev, Fl. Evr. Casti SSSR 8. 1989.""","","346","1989",gcc-95605
+gcc-112331,A,Compositae,,Pilosella,,"erecta",,"","(Nägeli & Peter) H.P.Fuchs",Synonym,,M,TICA,65F5F02A-822B-463F-985E-B529835E1D03,,"","","663","1980",gcc-117852
+gcc-97458,A,Compositae,,Pilosella,,"ericetorum",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,9AFB251D-A669-4E93-B6DD-93EABCAFB706,947364-1,"","","331","1989",gcc-65162
+gcc-86332,A,Compositae,,Pilosella,,"erratica",,"","(Norrl.) Schljakov",Synonym,,L,TICA,7937CDAE-713C-4A23-8579-7AABF64A63C4,947432-1,"","","346","1989",gcc-95605
+gcc-86395,A,Compositae,,Pilosella,,"erythriophylla",,"","(Vuk.) Soják",Synonym,,M,TICA,6F5FDDFA-8ED4-4CBA-AC90-7AD0886CB45B,238080-1,"","","185","1971",gcc-152263
+gcc-149384,A,Compositae,,Pilosella,,"erythriophylla",subsp.,"erythriophylla","",Synonym,,L,TICA,5B048C0B-E347-4154-BC1A-579D01D8A5DB,,"","","","",gcc-152263
+gcc-92091,A,Compositae,,Pilosella,,"erythrocaulis",,"","Norrl.",Unresolved,,L,TICA,F66DD9E5-99DE-4992-A92C-87D5AA640E20,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 39","","39","",
+gcc-99244,A,Compositae,,Pilosella,,"erythrochrista",,"","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,M,TICA,3CBE0F55-998A-4376-B06C-97EBC9D3B830,77083720-1,"","","133","2007",
+gcc-114484,A,Compositae,,Pilosella,,"erythrodonta",,"","(Zahn) Soják",Accepted,,M,TICA,07B7411E-A837-4C60-8D0B-B9F86B9E836B,238082-1,"","","218","1971",
+gcc-9908,A,Compositae,,Pilosella,,"erythrodonta",,"","(Zahn) S.Bräut. & Greuter",Unresolved,,L,TICA,179A59FE-85B1-4B20-B54A-12810274B899,77083786-1,"Willdenowia 37(1): 134","","134","2007",
+gcc-6264,A,Compositae,,Pilosella,,"erythrophylloides",,"","(Zahn) Schljakov",Synonym,,M,TICA,F928D20A-B38F-462A-B410-0BABD4639890,947381-1,"","","335","1989",gcc-152263
+gcc-89998,A,Compositae,,Pilosella,,"erythropoides",,"","Norrl.",Synonym,,M,TICA,4E0DB4BC-117E-4F6C-AAC4-83008D12E4E9,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 42","","42","",gcc-36601
+gcc-134663,A,Compositae,,Pilosella,,"euchaetia",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,1A1F7E79-313D-4145-B224-E8432BD5D3AA,238084-1,"","","186","1971",
+gcc-149782,A,Compositae,,Pilosella,,"euchaetia",subsp.,"euchaetia","",Synonym,,L,TICA,BD41F17B-676D-437B-B7FC-6033365DF44C,,"","","","",gcc-134663
+gcc-34562,A,Compositae,,Pilosella,,"euronota",,"","(Nägeli & Peter) Dostál",Unresolved,,L,TICA,6997393D-0551-4F25-A6C2-400ECDF67122,914425-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 14 (1984):.""","","14","1984",
+gcc-8864,A,Compositae,,Pilosella,,"euryanthela",,"","(Dahlst.) Schljakov",Synonym,,M,TICA,F4F20689-1BFE-4878-8D4D-109926CD7BBD,947433-1,"","","346","1989",gcc-138474
+gcc-92397,A,Compositae,,Pilosella,,"eusciadia",,"","(Nägeli & Peter) Schljakov",Synonym,,L,TICA,776E6E9A-B136-4FF3-A353-888040EB703A,947430-1,"","","346","1989",gcc-95605
+gcc-98062,A,Compositae,,Pilosella,,"exacuta",,"","Norrl.",Unresolved,,L,TICA,163A862E-044F-477E-B439-954563209181,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 65","","65","",
+gcc-99260,A,Compositae,,Pilosella,,"fallaciformis",,"","(Litv. & Zahn) Schljakov",Synonym,,M,TICA,2450C581-956D-4652-8339-97FDF86289E1,947462-1,"","","359","1989",gcc-117932
+gcc-141004,A,Compositae,,Pilosella,,"fallacina",,"","(F.W.Schultz) F.W.Schultz",Accepted,,M,TICA,1CEDB895-9221-4562-8139-F661212F7EA5,,"","","174","1863",
+gcc-22117,A,Compositae,,Pilosella,,"fallacina",,"","(F. Schultz) Sch.Bip.",Synonym,,M,TICA,366A6F47-D50F-4C9B-A9B8-28E7C1B552C3,,"","","","",gcc-141004
+gcc-149778,A,Compositae,,Pilosella,,"fallacina",subsp.,"fallacina","",Synonym,,L,TICA,FB55306A-9B47-45CA-B227-600658C56FCD,,"","","","",gcc-141004
+gcc-43846,A,Compositae,,Pilosella,,"fallax",,"","Arv.-Touv.",Unresolved,,L,TICA,CE151574-5F50-4D42-AB10-513D28396940,238086-1,"in Bull. Soc. Dauph. (1880) 282.","","282","1880",gcc-120056
+gcc-119810,A,Compositae,,Pilosella,,"farinoderma",,"","(Litv. & Zahn) Sennikov",Synonym,,M,TICA,28F035B2-EC6E-4E84-97E1-C60360936666,1009367-1,"","","64","1998",gcc-24977
+gcc-50494,A,Compositae,,Pilosella,,"farrea",,"","Norrl.",Synonym,,M,TICA,3180582A-639F-42C8-955D-5D9BE74FA6CE,238088-1,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 53","","53","1895",gcc-65162
+gcc-93365,A,Compositae,,Pilosella,,"farrea",,"","(Norrl.) Schljakov",Synonym,,M,TICA,AE1B7C40-E901-4077-8F0A-8A919C03DDC4,,"","","333","1989",gcc-65162
+gcc-43239,A,Compositae,,Pilosella,,"fastigiata",,"","(Tausch ex Nägeli & Peter) Schljakov",Synonym,,M,TICA,ED909156-6138-4041-BC9F-501FD2021DC3,947385-1,"","","335","1989",gcc-152263
+gcc-37097,A,Compositae,,Pilosella,,"fastigiatiformis",,"","(Zahn) Sennikov",Unresolved,,L,TICA,D64C07CC-EF5A-46C5-BE58-44BCF293FD43,1009368-1,"""in Bot. Zhurn., 83(3): 64 (1998):.""","","64","1998",
+gcc-83815,A,Compositae,,Pilosella,,"faurei",,"","Arv.-Touv.",Accepted,,M,TICA,B4703BB6-8448-40F4-B1ED-7518B43E8F98,,"","","15","1873",
+gcc-83807,A,Compositae,,Pilosella,,"fennica",,"","(Norrl.) Norrl.",Synonym,,M,TICA,F06EC65E-934E-461C-AEC2-751369DAD68C,,"","","107","",gcc-8407
+gcc-153095,A,Compositae,,Pilosella,,"fennica",subsp.,"fennica","",Synonym,,L,TICA,B1B0BC31-D20B-4F85-BA7C-A727DFA2497B,,"","","","",gcc-8407
+gcc-94784,A,Compositae,,Pilosella,,"ferroviae",,"","(Rehmann) Schljakov",Synonym,,M,TICA,3C94F32C-CBAF-415C-8546-8DD12965CAAD,,"","","343","1989",gcc-10440
+gcc-24081,A,Compositae,,Pilosella,,"filifera",,"","(Tausch) Schljakov",Synonym,,M,TICA,F9C4C2A6-F8DA-4500-A54F-2C801076CB79,947413-1,"","","341","1989",gcc-10440
+gcc-102733,A,Compositae,,Pilosella,,"fimbrillosa",,"","Norrl.",Unresolved,,L,TICA,99FF53B6-6FBD-45FF-B956-9FCC5D289AFB,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 24","","24","",
+gcc-37301,A,Compositae,,Pilosella,,"firmicaulis",,"","Norrl.",Synonym,,M,TICA,6EA9780A-884A-49CF-A975-451F3C8267A6,238090-1,"","","168","1884",gcc-138474
+gcc-138344,A,Compositae,,Pilosella,,"flaccida",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,48E3A815-362C-4C27-B490-F060E1B9B2F5,238091-1,"","","437","1862",
+gcc-97937,A,Compositae,,Pilosella,,"flagellariformis",,"","(Gus.Schneid.) Soják",Synonym,,M,TICA,165CEDB1-C340-40B0-BD28-9502677FDBD3,,"","","184","1971",gcc-116509
+gcc-148026,A,Compositae,,Pilosella,,"flagellariformis",subsp.,"flagellariformis","",Synonym,,L,TICA,84D9B227-2E87-4E7C-9CC8-3A2F65E43036,,"","","","",gcc-116509
+gcc-14968,A,Compositae,,Pilosella,,"flagellaris",,"","(Willd.) P.D.Sell & C.West",Synonym,,M,TICA,804B6EAC-0CC8-433D-BC21-1BB682CE3CF7,238093-1,"Watsonia vi. 313 (1967)","","313","1967",gcc-83988
+gcc-83988,A,Compositae,,Pilosella,,"flagellaris",,"","(Willd.) Arv.-Touv.",Accepted,,M,TICA,69542020-E718-4074-A5D8-7583F4BC2D8F,,"""Arv.-Touv., Monogr. Pilosella & Hieracium. 1873.""","","13","1873",
+gcc-155565,A,Compositae,,Pilosella,,"flagellaris",subsp.,"flagellaris","",Synonym,,L,TICA,29B0E0FE-3628-4A2E-A6D3-DB093791CC9E,,"","","","",gcc-83988
+gcc-107982,A,Compositae,,Pilosella,,"flammea",,"","(Lindeb.) Norrl.",Synonym,,M,TICA,357E4824-52AE-4C0F-B6D4-AB56DBD9075A,,"","","140","",gcc-98759
+gcc-129715,A,Compositae,,Pilosella,,"flavella",,"","Norrl.",Unresolved,,L,TICA,3E379D0A-E144-41F3-9919-DCE94B019042,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 17","","17","",
+gcc-41332,A,Compositae,,Pilosella,,"flexipes",,"","Norrl.",Unresolved,,L,TICA,9317A7D9-2FF3-4474-A899-4C902BFA88FF,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 15","","15","",
+gcc-133034,A,Compositae,,Pilosella,,"floccipeduncula",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,BE3D3364-C4B4-4123-8309-E49A72E3AA7A,947375-1,"","","333","1989",gcc-65162
+gcc-111830,A,Compositae,,Pilosella,,"florentina",,"","(All.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,A713F5B8-BBA1-4F42-90BF-B40C72FCE068,238097-1,"","","427","1862",gcc-131397
+gcc-129513,A,Compositae,,Pilosella,,"florentinoides",,"","(Arv.-Touv.) Dostál",Accepted,,L,TICA,0F113B9A-4495-4D75-AD70-DC6B0758B412,914426-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 15 (1984):.""","","15","1984",
+gcc-152684,A,Compositae,,Pilosella,,"florentinoides",subsp.,"florentinoides","",Synonym,,L,TICA,72FE9387-D48F-430F-B59A-9EAB89C7D187,,"","","","",gcc-129513
+gcc-130209,A,Compositae,,Pilosella,,"florentoides",,"","(Arv.-Touv.) P.D.Sell & C.West",Synonym,,M,TICA,9D1550AC-10F4-4466-BFF1-DE063A4E7159,238098-1,"","","432","1975",gcc-108200
+gcc-8407,A,Compositae,,Pilosella,,"floribunda",,"","(Wimm. & Grab.) Fr.",Accepted,,L,TICA,99E8526C-6C89-401B-B67F-0FA5B38E89CB,,"","","","",
+gcc-150361,A,Compositae,,Pilosella,,"floribunda",subsp.,"floribunda","",Synonym,,L,TICA,3F2C52C1-50EF-4F75-881D-6CCC752877A5,,"","","","",gcc-8407
+gcc-117898,A,Compositae,,Pilosella,,"florulenta",,"","Norrl.",Unresolved,,L,TICA,99CF3BD1-5330-4B8B-BC57-C1AEF06FD49C,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 12","","12","",
+gcc-103663,A,Compositae,,Pilosella,,"freynii",,"","(Nägeli & Peter) Sennikov",Synonym,,M,TICA,0CA8E932-4648-47DF-9C76-A1C45CA67B1B,1009369-1,"","","64","1998",gcc-93701
+gcc-11449,A,Compositae,,Pilosella,,"friesii",,"","(Sch.Bip.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,D9730C34-3CF5-46C9-81EB-1561AC7BD82A,238101-1,"Flora 45","","436","1862",gcc-102305
+gcc-139841,A,Compositae,,Pilosella,,"friesii",,"","Arv.-Touv.",Synonym,,M,TICA,250865A8-73FB-4F5B-B48C-F39C7284576A,,"","","292","1880",gcc-134223
+gcc-94222,A,Compositae,,Pilosella,,"frigida",,"","(Wedd.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,F917BB7C-F7EB-43AE-A670-8C7EDDCDD17C,238102-1,"Flora 45: 438","","438","1862",gcc-18234
+gcc-22737,A,Compositae,,Pilosella,,"frigidaria",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,56402314-E919-4E92-B420-2A13B0257115,238103-1,"","","219","1971",
+gcc-108911,A,Compositae,,Pilosella,,"fuernrohrii",,"","(Vollm.) S.Bräut. & Greuter",Accepted,,M,TICA,22EB881A-A9DA-491B-942B-AD6FDCDE4342,77083776-1,"","","134","2007",
+gcc-14500,A,Compositae,,Pilosella,,"fulgens",,"","(Nägeli & Peter) Holub",Synonym,,M,TICA,058EB327-FD85-4BB6-86A3-1AE5D620C30F,,"","","306","1977",gcc-144054
+gcc-137622,A,Compositae,,Pilosella,,"fuliginea",,"","Norrl.",Unresolved,,L,TICA,FB6757A9-8343-4E13-A15A-EED51F19645E,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 66","","66","",
+gcc-131809,A,Compositae,,Pilosella,,"fulvipes",,"","(Wedd.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,C29A8C79-B2C1-4359-A69E-E1C9B1A2528F,238106-1,"Flora 45: 436","","436","1862",gcc-87688
+gcc-134470,A,Compositae,,Pilosella,,"fulviseta",,"","(Bertol.) Soják",Accepted,,M,TICA,B0380934-E874-4516-86FC-E7E306E68114,,"","","219","1971",
+gcc-105213,A,Compositae,,Pilosella,,"fulvolutea",,"","Norrl.",Unresolved,,L,TICA,BC6AD678-FA1C-41B4-8834-A51ECAD1E127,,"""Acta Soc. Fauna Fl. Fenn. ii. No. 4, 125 (1884), in obs.""","","125","",
+gcc-47816,A,Compositae,,Pilosella,,"fusca",,"","(Villars) H.P.Fuchs",Unresolved,,L,TICA,5FA6FCA9-E686-4BBE-830F-589796031B3D,,"Feddes Repert. 90(9-10): 675 (1979 publ. 1980)","","675","1980",
+gcc-7595,A,Compositae,,Pilosella,,"fusca",,"","(Vill.) Arv.-Touv.",Accepted,,M,TICA,73EB9937-F4D4-4240-9304-0E1963D7FD9D,238109-1,"","","280","1880",
+gcc-114539,A,Compositae,,Pilosella,,"fuscescens",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,16DDF6B5-655F-4198-987E-BA171A7740F6,238111-1,"","","218","1971",gcc-21106
+gcc-98759,A,Compositae,,Pilosella,,"fuscoatra",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,D3D4F469-1CC6-46F3-8547-96CE6A439F86,238112-1,"","","184","1971",
+gcc-32106,A,Compositae,,Pilosella,,"fussiana",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,7DC31C99-1C10-45D5-A5DC-3B73149223EA,238113-1,"","","427","1862",gcc-84293
+gcc-82548,A,Compositae,,Pilosella,,"galactina",,"","Norrl.",Synonym,,M,TICA,05BF6F87-6238-440D-A92D-724E55163A68,,"","","154","",gcc-129428
+gcc-154183,A,Compositae,,Pilosella,,"galactina",subsp.,"galactina","",Synonym,,L,TICA,48D180A2-C2A9-481A-8B4A-BE4096424CC6,,"","","","",gcc-129428
+gcc-54709,A,Compositae,,Pilosella,,"galactina",subsp.,"grisea","Norrl.",Synonym,,L,TICA,DF8A7B7F-ADB5-4D23-BEE2-70249C8D9E8D,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","155","1884 (Feb.-Jun.)",gcc-129428
+gcc-77383,A,Compositae,,Pilosella,,"galiciana",,"","(Pau) M.Laínz",Accepted,,M,TICA,2D46B751-7B81-40FE-89F8-66C2400C4E31,913161-1,"","","413","1983",
+gcc-52939,A,Compositae,,Pilosella,,"galiciensis",,"","(Błocki) Schljakov",Synonym,,M,TICA,173CABD7-CBC8-4830-BEFB-6232C5E98BAB,947370-1,"","","332","1989",gcc-65162
+gcc-141805,A,Compositae,,Pilosella,,"georgieffiana",,"","(Zahn) Soják",Synonym,,M,TICA,CE69990D-46AD-431B-BA23-F83FB16A64D7,238115-1,"","","218","1971",gcc-152263
+gcc-113288,A,Compositae,,Pilosella,,"glacialis",,"","(Reyn. ex Reyn.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,E80B6D4A-6FDC-48C4-AD29-B74AB929788A,,"","","426","1862",
+gcc-86340,A,Compositae,,Pilosella,,"glaciella",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,37FB6F4F-6309-43DD-BC52-7AB32AB0C760,238117-1,"","","217","1971",gcc-2568
+tro-50124697,A,Brassicaceae,,Pilosella,,"glauca",,"","(Nutt.) Rydb.",Synonym,,M,TRO,50124697,196650-2,"Torreya","7(8): 161","161","1907",kew-2805512
+gcc-13736,A,Compositae,,Pilosella,,"glaucescens",,"","(Besser) Soják",Synonym,,M,TICA,248AE0E0-3E44-4CBD-A8CD-198CF9B27087,238118-1,"","","185","1971",gcc-10440
+gcc-71914,A,Compositae,,Pilosella,,"glaucescens",subsp.,"adenocyma","(Nägeli & Peter) Soják",Synonym,,L,TICA,12D6DAD7-8F36-415D-B397-F9DAD63A6D19,,"","","53","1972",gcc-10440
+gcc-21977,A,Compositae,,Pilosella,,"glaucescens",subsp.,"besserana","(Spreng.) Soják",Synonym,,L,TICA,6EF7AE99-316B-4F36-91D9-28A5E77B205E,,"in Cas. Nar. Muz. (Prague). 141 (1-2): 52 (1972). as 'besseriana'.","","","",gcc-10440
+gcc-71293,A,Compositae,,Pilosella,,"glaucescens",subsp.,"branae","(Nägeli & Peter) Soják",Synonym,,L,TICA,FFF0661B-A6F2-41F8-8E87-F522BE0EA15A,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 53 (1972)""","","53","1972",gcc-10440
+gcc-59576,A,Compositae,,Pilosella,,"glaucescens",subsp.,"ferroviae","(Rehmann) Soják",Synonym,,L,TICA,FE68426D-A566-4F03-AEC5-979CF4C33503,,"","","52","1972",gcc-10440
+gcc-16162,A,Compositae,,Pilosella,,"glaucescens",subsp.,"filifera","(Tausch) Soják",Synonym,,L,TICA,0AB77498-FB4E-417A-8E74-1DE33A43D6D6,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 52 (1972).""","","52","1972",gcc-10440
+gcc-147559,A,Compositae,,Pilosella,,"glaucescens",subsp.,"glaucescens","",Synonym,,L,TICA,C400A533-DB97-474E-B1FD-300CC34555D0,,"","","","",gcc-10440
+gcc-69879,A,Compositae,,Pilosella,,"glaucescens",subsp.,"heothina","(Nägeli & Peter) Soják",Synonym,,L,TICA,77637A35-BCA4-44FC-8373-E9D0FC52A54C,,"in Cas. Nar. Muz. (Prague). 141 (1-2): 53 (1972)","","53","1972",gcc-10440
+gcc-30922,A,Compositae,,Pilosella,,"glaucescens",subsp.,"marginalis","(Nägeli & Peter) Soják",Synonym,,L,TICA,C7D5D159-D40B-483A-95AB-393F39F46F26,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 53 (1972)""","","53","1972",gcc-10440
+gcc-64043,A,Compositae,,Pilosella,,"glaucescens",subsp.,"megalomastix","(Nägeli & Peter) Soják",Synonym,,L,TICA,568201B2-47F1-4A8F-857B-BB7B258CA101,,"","","52","1972",gcc-10440
+gcc-34737,A,Compositae,,Pilosella,,"glaucescens",subsp.,"nigriseta","(Nägeli & Peter) Soják",Synonym,,L,TICA,701AA098-574F-4A28-8927-4066B51B7B28,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 52 (1972)""","","52","1972",gcc-10440
+gcc-77431,A,Compositae,,Pilosella,,"glaucifolia",,"","(Poepp. ex Froel.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,12AA760B-41E7-4392-9765-66E0F677BC91,1054887-2,"","","436","1862",gcc-6724
+gcc-132524,A,Compositae,,Pilosella,,"glaucochroa",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,DBA6F6B3-AD25-453C-8D14-E3738E9E029A,947448-1,"","","351","1989",gcc-42414
+gcc-30442,A,Compositae,,Pilosella,,"glomerabilis",,"","(Norrl.) Schljakov",Synonym,,M,TICA,E192D219-6BFB-4838-84A4-38513C8371CD,947435-1,"","","347","1989",gcc-138474
+gcc-101916,A,Compositae,,Pilosella,,"glomerata",,"","(Froel.) Arv.-Touv.",Synonym,,M,TICA,B7D0DF0C-0AE7-467B-B5A9-9DD777C98645,238120-1,"in Bull. Soc. Dauph. (1880) 281.","","281","1880",gcc-88303
+gcc-129428,A,Compositae,,Pilosella,,"glomerata",,"","(Froel.) Fr.",Accepted,,M,TICA,346318D4-FE1B-4CD2-9860-DC3CFFDEF925,,"""Fr. in Fries & Lagger, Hierac. Eur. Exs. 1862-1865.""","","[in schedis] Pilosella No. 34","1862-1865",
+gcc-90505,A,Compositae,,Pilosella,,"gorkense",,"","Norrl.",Unresolved,,L,TICA,C5C9C27E-9848-4E9C-AE87-843017F9DCF7,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 52","","52","",
+gcc-128735,A,Compositae,,Pilosella,,"gracilis",,"","(Hook.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,23B0C2E0-DA60-43C8-84F6-DAB4F701B2C0,238122-1,"Flora 45: 439","","439","1862",gcc-136771
+gcc-139078,A,Compositae,,Pilosella,,"granitophila",,"","(Norrl.) Schljakov",Synonym,,L,TICA,9940BE65-44C1-483E-9561-F1EF25A67F82,947425-1,"","","345","1989",gcc-95605
+gcc-4974,A,Compositae,,Pilosella,,"grisea",,"","Norrl.",Unresolved,,L,TICA,6E0FE201-400F-4B0A-AD51-094471E35F58,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 155","","155","",
+gcc-126584,A,Compositae,,Pilosella,,"grossheimii",,"","(Zahn) Coșkunç. & Beyazoğlu",Accepted,,M,TICA,45E669FF-61CF-4F16-9B48-D5A9B5D20C5A,,"","","320","2002",
+gcc-124617,A,Compositae,,Pilosella,×,"gudarica",,"","Mateo",Unresolved,,L,TICA,3828527F-FF2F-457C-BD66-D120EC096C5E,940039-1,"","","155","1990",
+gcc-157115,A,Compositae,,Pilosella,,"gudarica",,"","Mateo",Accepted,,M,TICA,261F7BCB-EC39-44D2-9E63-FB2EFC0AC33C,940039-1,"Mateo in Collect. Bot. (Barcelona) 18. 1990","","155","1990",
+gcc-8224,A,Compositae,,Pilosella,,"guthnikiana",,"","(Hegetschw.) Soják",Accepted,,M,TICA,DD640488-F57A-4567-906D-0F4A8EB08ED8,,"","","185","1972",
+gcc-147524,A,Compositae,,Pilosella,,"guthnikiana",subsp.,"guthnikiana","",Synonym,,L,TICA,D1DDB04E-60C8-4F2E-80E3-2F3D5BCCF0ED,,"","","","",gcc-8224
+gcc-62634,A,Compositae,,Pilosella,,"guthnikiana",subsp.,"rubrisabina","H.P.Fuchs",Synonym,,L,TICA,42D72B7F-66FF-4F0B-A0CD-B06943D9480A,,"","","682","1980",gcc-8224
+gcc-100569,A,Compositae,,Pilosella,,"gypsicola",,"","(Błocki) Val.N.Tikhom.",Synonym,,L,TICA,76B68606-E883-498D-870B-9AEC6645AAF7,77074121-1,"","","596","2006",gcc-123015
+gcc-12714,A,Compositae,,Pilosella,,"hadromera",,"","Norrl.",Unresolved,,L,TICA,53174A55-D553-450F-8F58-17B53F6A90FB,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 10","","10","",
+gcc-34980,A,Compositae,,Pilosella,,"halacsyi",,"","(Heldr. ex Halácsy) Soják",Accepted,,M,TICA,701758C5-E293-45EA-8DAA-40D8B8D9D85A,238126-1,"","","218","1971",
+gcc-82605,A,Compositae,,Pilosella,,"heothina",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,FD731E6E-C86A-4636-969D-726DB7D44C2A,947412-1,"","","341","1989",gcc-10440
+gcc-133874,A,Compositae,,Pilosella,,"heterodoxa",,"","(Tausch) Soják",Accepted,,M,TICA,797D4DB6-6B60-49C7-8E5B-E67E8B38DB70,238127-1,"","","186","1971",
+gcc-133226,A,Compositae,,Pilosella,,"heterodoxiformis",,"","(Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,F5F38D9F-3F49-4287-8D8C-E506E6BFD985,77083777-1,"","","134","2007",
+gcc-102136,A,Compositae,,Pilosella,,"heteromelana",,"","(Zahn) Mateo",Accepted,,M,TICA,17AA1F74-2C3B-496D-9DB8-9E5E6660AB20,77073459-1,"","","68","2006",
+gcc-122668,A,Compositae,,Pilosella,,"hilmae",,"","Norrl.",Unresolved,,L,TICA,B0277E68-A44A-4539-8977-CC8476BDF3E7,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 70","","70","",
+gcc-47877,A,Compositae,,Pilosella,,"hirticola",,"","Norrl.",Unresolved,,L,TICA,F1DA5E85-F6B7-42BE-896E-58B10F140FB1,,"""Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1884) 139, in obs.""","","139","",
+gcc-98841,A,Compositae,,Pilosella,,"hispidissima",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,E9640DA2-A2AA-4070-8088-9701A6B1EC91,947387-1,"","","336","1989",gcc-152263
+gcc-121423,A,Compositae,,Pilosella,,"hohenackeri",,"","(Schultz ex Nägeli & Peter) Soják",Synonym,,M,TICA,94111FC3-E2C5-4B0C-818B-C9C6F2B72E5A,238130-1,"","","218","1971",gcc-78865
+gcc-94290,A,Compositae,,Pilosella,,"hollolensis",,"","Norrl.",Unresolved,,L,TICA,F9FA629C-7BC5-4CF2-BE44-8CA7922EF527,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 85","","85","",
+gcc-109934,A,Compositae,,Pilosella,,"holmiensis",,"","(Nägeli & Peter) Schljakov",Synonym,,L,TICA,4C1AC54E-B488-4D30-95B8-AFC4CA3237E6,947426-1,"","","345","1989",gcc-95605
+gcc-34718,A,Compositae,,Pilosella,,"hoppeana",,"","(Schult.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,FB8B9BA7-968B-4113-B16C-4060E8F5D425,238132-1,"","","421","1862",
+gcc-23237,A,Compositae,,Pilosella,,"hoppeana",subsp.,"cilicica","(Nägeli & Peter) P.D.Sell & C.West",Accepted,,L,TICA,CDA47CB6-546D-4EDD-AF29-2B0205A9CB8E,877991-1,"","","432","1975",
+gcc-70740,A,Compositae,,Pilosella,,"hoppeana",subsp.,"hoppeana","",Synonym,,L,TICA,0DD399E2-4170-44C3-8824-F0710945134E,,"","","","",gcc-34718
+gcc-66816,A,Compositae,,Pilosella,,"hoppeana",subsp.,"isaurica","Hub.-Mor.",Synonym,,L,TICA,215A2307-D6CD-4772-BF0C-D1F963F1277A,877993-1,"","","245","1974",gcc-84380
+gcc-28275,A,Compositae,,Pilosella,,"hoppeana",subsp.,"lydia","(Bornm. & Zahn) P.D.Sell & C.West",Synonym,,L,TICA,F16638D5-B6B5-4FBB-BD40-343B3344D7FC,877994-1,"","","433","1975",gcc-41666
+gcc-13490,A,Compositae,,Pilosella,,"hoppeana",subsp.,"macrantha","(Ten.) S.Bräut. & Greuter",Accepted,,L,TICA,C0EA6642-4D58-4B8C-9364-191D85466ABA,77083779-1,"","","134","2007",
+gcc-69395,A,Compositae,,Pilosella,,"hoppeana",subsp.,"pilisquama","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,70F6913E-BD42-458C-9E46-E5F20BF255C1,877996-1,"","","433","1975",gcc-41666
+gcc-50610,A,Compositae,,Pilosella,,"hoppeana",subsp.,"testimonialis","(Nägeli ex Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,BF794DB4-3D0B-4139-BCB9-5DD9F8807057,877997-1,"Notes Roy. Bot. Gard. Edinburgh 33(3): 433","","433","1975",gcc-41666
+gcc-60136,A,Compositae,,Pilosella,,"hoppeana",subsp.,"testimonialis","(Nägeli ex Peter) Soják",Synonym,,L,TICA,F252A479-3534-494F-895D-9BEF4ABB2FA6,,"","","","",gcc-13490
+gcc-71744,A,Compositae,,Pilosella,,"hoppeana",subsp.,"troica","(Zahn) P.D.Sell & C.West",Synonym,,L,TICA,468E72A7-A189-4714-B958-F88C4E7C2A67,877999-1,"","","433","1975",gcc-41666
+gcc-67769,A,Compositae,,Pilosella,,"hoppeana",subsp.,"virentisquama","(Nägeli & Peter) H.P.Fuchs",Synonym,,L,TICA,B5A6F83B-F1E5-4829-8669-D9D1954AC5E0,,"","","657","1980",gcc-34718
+gcc-132972,A,Compositae,,Pilosella,,"horrida",,"","(Fr.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,7809FAA3-0786-4A6C-BABA-E47BE01A5BAD,238133-1,"Flora 45: 439","","439","1862",gcc-32493
+gcc-90368,A,Compositae,,Pilosella,,"hybrida",,"","(Vill.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,D580638D-06A4-4B0C-A659-83CF610C7801,238134-1,"","","424","1862",
+gcc-37961,A,Compositae,,Pilosella,,"hybridiformis",,"","(Zahn) Soják",Synonym,,M,TICA,1C0CBEB0-B9F8-4691-A155-4666E3E10B6E,238135-1,"","","219","1971",gcc-145272
+gcc-120349,A,Compositae,,Pilosella,,"hyperborea",,"","(Fr.) F.W.Schultz & Sch.Bip.",Accepted,,L,TICA,183C50B1-8E5B-45BC-BAAF-C751056CD4C1,238136-1,"","","429","1862",
+gcc-12767,A,Compositae,,Pilosella,,"hyperborea",,"","(Fries) Dostál",Unresolved,,L,TICA,61C85AEE-36C2-4F30-8DCD-17C75BEADF82,914427-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 15 (1984):.""","","15","1984",gcc-120349
+gcc-13962,A,Compositae,,Pilosella,,"hypeurya",,"","(Peter) Soják",Accepted,,M,TICA,FC72FACF-52E9-48D3-91A4-19EB9C4FB12A,238137-1,"","","217","1971",
+gcc-150928,A,Compositae,,Pilosella,,"hypeurya",subsp.,"hypeurya","",Synonym,,L,TICA,44D30CD1-F37D-4E7A-8B2E-7920BAC806EF,,"","","","",gcc-13962
+gcc-25830,A,Compositae,,Pilosella,,"hypeurya",subsp.,"lasiothrix","(Nägeli & Peter) H.P.Fuchs",Synonym,,L,TICA,A99858B4-6A97-4731-A13D-2FB9EFCA5389,,"","","658","1980",gcc-13962
+gcc-63654,A,Compositae,,Pilosella,,"hypeurya",subsp.,"pinguis","(Nägeli & Peter) H.P.Fuchs",Synonym,,L,TICA,FD2A3DED-9EE0-42FC-94DC-B8803CA1C0A0,,"","","659","1980",gcc-13962
+gcc-47289,A,Compositae,,Pilosella,,"hypeurygenes",,"","(A.W.Hill) S.Bräut. & Greuter",Accepted,,M,TICA,0A10F06F-81B5-46DD-9351-5792D8761AB0,77083823-1,"","","134","2007",
+gcc-87912,A,Compositae,,Pilosella,,"hypeurygenes",,"","(Zahn) Coșkunç. & Beyazoğlu",Unresolved,,L,TICA,45C9CDFA-F927-429F-B660-7E467817DAB7,20006412-1,"Edinburgh J. Bot. 59(2): 320","","320","2002",
+gcc-2568,A,Compositae,,Pilosella,,"hypoleuca",,"","Arv.-Touv.",Accepted,,M,TICA,A67EF673-EB74-44C3-88BF-04B2F1ABC785,,"""Arv.-Touv., Monogr. Pilosella & Hieracium. 1873.""","","16","1873",
+gcc-115502,A,Compositae,,Pilosella,,"hypopta",,"","Norrl.",Unresolved,,L,TICA,50E0881B-E6A5-408F-A0E4-BC4F3DF0B0F5,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 26","","26","",
+gcc-110422,A,Compositae,,Pilosella,,"hypoptella",,"","Norrl.",Unresolved,,L,TICA,4C3E53C9-91BE-404B-BE9E-B0DED2D9563F,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 26","","26","",
+gcc-25305,A,Compositae,,Pilosella,,"illudens",,"","Norrl.",Unresolved,,L,TICA,A5E92F0F-17D7-47D5-A7AD-2EB65F2F9A6D,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 66","","66","",
+gcc-134328,A,Compositae,,Pilosella,,"immigrata",,"","Norrl.",Unresolved,,L,TICA,0AC43E79-97B6-4312-AA8D-E7898F3887A7,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 60","","60","",
+gcc-14880,A,Compositae,,Pilosella,,"impallescens",,"","Norrl.",Unresolved,,L,TICA,F763CEA8-2E94-4122-85DE-1B9165196C90,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 20","","20","",
+gcc-4327,A,Compositae,,Pilosella,,"imponens",,"","(Norrl.) Schljakov",Synonym,,M,TICA,756EAED4-4571-4CE2-8A80-080C79E7E664,947452-1,"","","353","1989",gcc-46656
+gcc-13896,A,Compositae,,Pilosella,,"incana",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,0E618D40-102D-4A0C-9166-19D2660901E2,238143-1,"","","431","1862",gcc-24977
+gcc-85482,A,Compositae,,Pilosella,,"incaniformis",,"","(Litv. & Zahn) Soják",Synonym,,M,TICA,FEB00366-FA6B-4F2D-BB81-78C93862FDDC,238144-1,"Folia Geobot. Phytotax. 6(2): 219 (1971)","","219","1971",gcc-36184
+gcc-133816,A,Compositae,,Pilosella,,"inclinans",,"","Norrl.",Unresolved,,L,TICA,F5F1423C-E142-4A80-9378-E65C0D833536,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 32","","32","",
+gcc-105482,A,Compositae,,Pilosella,,"incrassata",,"","Norrl.",Unresolved,,L,TICA,A56298A8-B82F-416C-B772-A5AE6977F601,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 145","","145","",
+gcc-22620,A,Compositae,,Pilosella,,"infecta",,"","Norrl.",Unresolved,,L,TICA,5FB36A5F-2A36-4DB2-883D-29DF4AAF4028,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 20","","20","",
+gcc-34337,A,Compositae,,Pilosella,,"infidula",,"","Norrl.",Unresolved,,L,TICA,B077F8BF-F6F3-4C90-9592-3FA30A31AD5C,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 59","","59","",
+gcc-137788,A,Compositae,,Pilosella,,"ingrica",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,6D0876F0-4BDA-4EF6-99C3-EF322B4ACCB6,947393-1,"","","338","1989",gcc-152263
+gcc-82511,A,Compositae,,Pilosella,,"inops",,"","(Peter) Soják",Unresolved,,L,TICA,E5E9EED6-AAD4-4CE0-9569-7238BB5A9C7B,238149-1,"Folia Geobot. Phytotax. 6(2): 219","","219","1971",
+gcc-83368,A,Compositae,,Pilosella,,"insolens",,"","(Norrl.) Schljakov",Synonym,,M,TICA,9DF70744-E2DF-4E3E-9BC2-741FF9B39445,947417-1,"","","343","1989",gcc-152263
+gcc-16265,A,Compositae,,Pilosella,,"interrupta",,"","Norrl.",Unresolved,,L,TICA,36345257-62F9-4AA0-A9D5-1E16EA177B95,,"""Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 37, in syn.""","","37","",
+gcc-124243,A,Compositae,,Pilosella,,"irasuensis",,"","F.W.Schultz & Sch.Bip.",Synonym,Illegitimate,L,TICA,D92DD8C3-CAFC-48AA-AC2D-D03C1B1296BC,,"Flora 45(28): 440. 1862.","","440","1862",gcc-100214
+gcc-50678,A,Compositae,,Pilosella,,"irrubescens",,"","Norrl.",Unresolved,,L,TICA,03F70D7A-22C2-402A-B926-5DFC5354361C,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 56","","56","",
+gcc-90757,A,Compositae,,Pilosella,,"iserana",,"","(R.Uechtr.) Soják",Accepted,,M,TICA,49F9FE8D-0C99-46B7-81E8-84D53E30F8D1,238152-1,"","","184","1971",
+gcc-149261,A,Compositae,,Pilosella,,"iserana",subsp.,"iserana","",Synonym,,L,TICA,3D12F430-96DB-44EE-A66C-55567351DD5F,,"","","","",gcc-90757
+gcc-113072,A,Compositae,,Pilosella,,"islandica",,"","(Lange) Á.Löve",Synonym,,M,TICA,77CA8AEC-2B83-4C22-923B-B6D51EB8C9CF,196651-2,"","","301","1970",gcc-8407
+gcc-32169,A,Compositae,,Pilosella,,"jodolepis",,"","Norrl.",Unresolved,,L,TICA,4F8CA808-AE0A-443B-8EDC-3B98609074C8,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 82","","82","",
+gcc-125946,A,Compositae,,Pilosella,,"jubata",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,642B68D1-A6CE-402D-952A-D4348349C49F,238155-1,"Flora 45: 438","","438","1862",gcc-18234
+gcc-140003,A,Compositae,,Pilosella,,"juncea",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,C170B27E-B2E6-49D1-BC18-F3FB67025EB2,238156-1,"Flora 45: 436","","436","1862",
+gcc-106109,A,Compositae,,Pilosella,,"junciformis",,"","Arv.-Touv.",Synonym,,M,TICA,EFCBEE56-3BFA-4E33-BBBB-A70FAAE172D8,,"","","6","1879",gcc-108200
+gcc-122166,A,Compositae,,Pilosella,,"kajanensis",,"","(Malmgren) Norrl.",Synonym,,M,TICA,29BDE86F-BECA-4021-B6F2-CB69283AB373,238158-1,"","","116","1884",gcc-46656
+gcc-60485,A,Compositae,,Pilosella,,"kajanensis",var.,"excelsior","Norrl.",Synonym,,L,TICA,5C4EC7DB-A159-4E46-9C65-9E97807DC3BF,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","119","",gcc-46656
+gcc-147571,A,Compositae,,Pilosella,,"kajanensis",var.,"kajanensis","",Synonym,,L,TICA,A758E6BA-40D9-4A82-848E-305076500966,,"","","","",gcc-46656
+gcc-86292,A,Compositae,,Pilosella,,"kalksburgensis",,"","(Wiesb.) Soják",Accepted,,M,TICA,2E90B17E-83AE-424D-BE6E-7A98A8AC89D9,238159-1,"","","184","1971",
+gcc-156558,A,Compositae,,Pilosella,,"kalksburgensis",subsp.,"kalksburgensis","",Synonym,,L,TICA,BE543893-CB94-486F-A977-EFD2336816B8,,"","","","",gcc-86292
+gcc-88223,A,Compositae,,Pilosella,,"karelica",,"","Norrl.",Synonym,,M,TICA,2A10667D-BC30-4811-ACCF-7EF69ABD2AD7,238160-1,"","","138","1884",gcc-79741
+gcc-45183,A,Compositae,,Pilosella,,"karpinskyana",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,B4CCC002-FC6C-45C2-B78B-53BE67EFA0D7,947357-1,"","","328","1989",gcc-24977
+gcc-142991,A,Compositae,,Pilosella,,"katunensis",,"","Tupitz.",Unresolved,,L,TICA,E5E89875-8797-4E61-91B8-FAE6D9321B06,991250-1,"""in Bot. Zhurn., 81(3): 124 (1996)""","","124","1996",
+gcc-102219,A,Compositae,,Pilosella,,"kebeshensis",,"","(Stepanov) Tupitz.",Unresolved,,L,TICA,255D1F74-9432-43E2-BA48-9E90E05A7E31,1009536-1,"""in Fl. Sibir. (Asterac.), 13: 345 (1997 publ. 1998):.""","","345","1998",
+gcc-82167,A,Compositae,,Pilosella,,"kihlmanii",,"","Norrl.",Synonym,,M,TICA,A00ED881-B921-46E5-A978-716B393D4345,238161-1,"","","50","1895",gcc-117119
+gcc-139485,A,Compositae,,Pilosella,,"knappii",,"","(Błocki) Schljakov",Synonym,,M,TICA,4FDB4BA0-E25C-4BFA-9F33-F2D79C5CA4D8,947371-1,"","","332","1989",gcc-65162
+gcc-133152,A,Compositae,,Pilosella,,"koernickeana",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,06373086-A015-43E4-87E4-E4DB0CAD94F7,238162-1,"","","186","1971",
+gcc-154659,A,Compositae,,Pilosella,,"koernickeana",subsp.,"koernickeana","",Synonym,,L,TICA,946D0738-0186-4E56-B0AB-C821DCDB740E,,"","","","",gcc-133152
+gcc-85249,A,Compositae,,Pilosella,,"kozlowskyana",,"","(Zahn) Soják",Accepted,,M,TICA,FC799196-547D-4720-BF71-784919F40FD2,238163-1,"","","218","1971",
+gcc-134924,A,Compositae,,Pilosella,,"kumbelica",,"","(B.Fedtsch. & Nevski) Sennikov",Unresolved,,L,TICA,99600A3F-CBA8-48B4-9B84-E8CF047A2437,1009343-1,"""in Bot. Zhurn., 83(2): 78 (1998):.""","","78","1998",gcc-142923
+tro-50338262,A,Compositae,,Pilosella,,"laciniatum",,"","DC.",Unresolved,,L,TRO,50338262,,"","","","",
+gcc-31140,A,Compositae,,Pilosella,,"lactucella",,"","(Wallr.) P.D.Sell & C.West",Accepted,,M,TICA,09DB864B-A23A-41A1-AA4C-39A938771A16,238164-1,"","","314","1967",
+gcc-37832,A,Compositae,,Pilosella,,"lactucella",subsp.,"acutisquama","(Nägeli & Peter) Soják",Synonym,,L,TICA,31BD20B7-1EF9-4ABA-9B49-462A62BC0593,,"","","41","1972",gcc-31140
+gcc-58696,A,Compositae,,Pilosella,,"lactucella",subsp.,"amaureilema","(Nägeli & Peter) Soják",Synonym,,L,TICA,BEFD5171-3087-4BC9-A510-90A1CF3EDEBB,,"","","41","1972",gcc-31140
+gcc-58362,A,Compositae,,Pilosella,,"lactucella",subsp.,"bergidensis","(M.Laínz) M.Laínz",Synonym,,L,TICA,909DEC4F-D9A2-4E2D-AA2C-8E126917244E,951897-1,"","","73","1982",gcc-77383
+gcc-70576,A,Compositae,,Pilosella,,"lactucella",subsp.,"helveola","(Dahlst.) P.D.Sell & C.West",Synonym,,L,TICA,4E48EA5D-9234-46BE-B812-EF260232E96E,,"P. D. Sell & C. West in Watsonia 6. 1967.","","314","1967",gcc-111526
+gcc-66279,A,Compositae,,Pilosella,,"lactucella",subsp.,"lactucella","",Synonym,,L,TICA,A7E48DC2-B1EB-48A0-AFE6-CD81DEEA9079,,"","","","",gcc-31140
+gcc-46702,A,Compositae,,Pilosella,,"lactucella",subsp.,"lampreilema","(Nägeli & Peter) Soják",Synonym,,L,TICA,A02E7281-4F4D-44FD-BD53-568E586029CF,,"""Soják in Cas. Nár. Muz., Odd. Prír. 141. 1972.""","","41","1972",gcc-31140
+gcc-48011,A,Compositae,,Pilosella,,"lactucella",subsp.,"littuanica","(Nägeli & Peter) Soják",Synonym,,L,TICA,F71E1FD4-F1AD-482F-925C-58F71DE58024,,"","","41","1972",gcc-31140
+gcc-26653,A,Compositae,,Pilosella,,"lactucella",subsp.,"magna","(Nägeli & Peter) Soják",Synonym,,L,TICA,ECD687C1-585C-4CD9-8215-313D809923CF,,"","","41","1972",gcc-31140
+gcc-40736,A,Compositae,,Pilosella,,"lactucella",subsp.,"magnauricula","(Nägeli & Peter) Soják",Synonym,,L,TICA,27D0A7C2-A80E-4A35-A6D2-4B7E02F6289F,,"","","41","1972",gcc-31140
+gcc-62251,A,Compositae,,Pilosella,,"lactucella",subsp.,"melaneilema","(Peter) Soják",Synonym,,L,TICA,8A8BDB56-002D-4E02-8FD2-AD302765DAE3,,"","","41","1972",gcc-31140
+gcc-49551,A,Compositae,,Pilosella,,"lactucella",subsp.,"nana","(Scheele) M.Laínz",Accepted,,L,TICA,58CD4AB7-5296-4662-B0EE-5BD6032155A8,878049-1,"","","37","1976",
+gcc-1943,A,Compositae,,Pilosella,,"lactucella",subsp.,"tricheilema","(Nägeli & Peter) Soják",Synonym,,L,TICA,5D362B5C-CD9A-435B-A5D4-0381B859210D,,"","","41","1972",gcc-31140
+gcc-86936,A,Compositae,,Pilosella,,"ladogensis",,"","Norrl.",Synonym,,M,TICA,2FD055CD-EBD4-4F12-8678-7C1452F3D3FA,,"","","136","",gcc-8407
+gcc-35101,A,Compositae,,Pilosella,,"lagarotis",,"","Norrl.",Unresolved,,L,TICA,C1F6A2CC-E38A-44AB-9B2B-411888DD21EA,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 47","","47","",
+gcc-137692,A,Compositae,,Pilosella,,"laggeri",,"","(Sch.Bip. ex Rchb.f.) F.W.Schultz & Sch.Bip.",Accepted,,L,TICA,5AD9AD2E-A5E1-4BB1-B3CB-EF0372E11FA0,238167-1,"","","426","1862",
+gcc-151191,A,Compositae,,Pilosella,,"laggeri",subsp.,"laggeri","",Synonym,,L,TICA,AC51B834-8760-4A2B-8247-7FB773D51D55,,"","","","",gcc-137692
+gcc-38787,A,Compositae,,Pilosella,,"lagopus",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,4573088B-1D84-4AFA-8DE6-47F1DD170ED3,238168-1,"Flora 45: 436","","436","1862",
+gcc-117899,A,Compositae,,Pilosella,,"lamprocoma",,"","(Nägeli & Peter) Mateo",Unresolved,,L,TICA,0A405EFE-9D00-45BA-8724-C1AFA4709852,77073460-1,"Flora Montiber. 32: 68","","68","2006",
+gcc-1787,A,Compositae,,Pilosella,,"lamprocoma",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,52F69111-2D15-452D-BBC2-03374424DDA9,947471-1,"","","376","1989",gcc-13962
+gcc-119215,A,Compositae,,Pilosella,,"lamprocomoides",,"","(Woronow & Zahn) Sennikov",Synonym,,M,TICA,3B89D5ED-94E1-40B3-B64B-C4AB6C7C64D7,1009370-1,"","","66","1998",gcc-13962
+gcc-21046,A,Compositae,,Pilosella,,"lasiothrix",,"","(Nägeli & Peter) Sennikov",Synonym,,M,TICA,B9418795-3AB6-4897-A2CA-26E3CBBB4D67,1009371-1,"","","66","1998",gcc-13962
+gcc-134442,A,Compositae,,Pilosella,,"lathraea",,"","(Peter) Soják",Accepted,,M,TICA,66BC7515-F9BE-476F-96FC-E7D3575E2A92,,"","","139","1982",
+gcc-52579,A,Compositae,,Pilosella,,"laticeps",,"","Norrl.",Synonym,,L,TICA,A16EDACC-95FF-4347-A047-61762B0F0B96,,"","","57","",gcc-66492
+gcc-121217,A,Compositae,,Pilosella,,"laxipes",,"","Norrl.",Unresolved,,L,TICA,A5C6CADC-1C73-4BAE-9EA9-C9521A518690,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 22","","22","",
+gcc-22119,A,Compositae,,Pilosella,,"legionensis",,"","Mateo & Egido",Accepted,,M,TICA,E3C7E813-EB7F-432E-88C2-28E93CB4BC38,77087949-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","5","2007",
+gcc-134288,A,Compositae,,Pilosella,,"lenifolia",,"","Norrl.",Unresolved,,L,TICA,4304F146-CC5C-4342-ADE0-E76FAD9E19A7,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 78","","78","",
+gcc-79406,A,Compositae,,Pilosella,,"lephrodes",,"","(Nägeli & Peter) Soják",Unresolved,,L,TICA,2B9D8359-AA0C-473D-99DC-6B642836637E,,"Folia Geobot. Phytotax. 6(2): 219 (1971)","","219","1971",
+gcc-129319,A,Compositae,,Pilosella,,"leptadenia",,"","(Dahlst.) Schljakov",Synonym,,L,TICA,7E67B55F-1D65-4A87-BD3E-DBFF6C7C12E4,947428-1,"","","345","1989",gcc-95605
+gcc-132134,A,Compositae,,Pilosella,,"leptadeniiformis",,"","(Üksip) Sennikov",Accepted,,M,TICA,F7BABF0D-FDA0-4835-B3E6-E2843093A815,,"""in Bot. Zhurn., 83(2): 78 (1998):.""","","78","",
+gcc-95667,A,Compositae,,Pilosella,×,"leptadeniiformis",,"","(Üksip) Tupitz.",Unresolved,,L,TICA,1DF6CA40-93AE-4A66-A655-8FE65A414F06,1009538-1,"""in Fl. Sibir. (Asterac.), 13: 352 (1997 publ. 1998):.""","","352","1998",
+gcc-100479,A,Compositae,,Pilosella,,"leptocaula",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,F102DCDC-EF9E-43EF-9EF9-9AB7E2B6BA5A,947444-1,"","","349","1989",gcc-79741
+gcc-78314,A,Compositae,,Pilosella,,"leptocephala",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,283E0650-25E6-432C-84E3-68DB311AD25E,238173-1,"Flora 45: 437","","437","1862",
+gcc-45602,A,Compositae,,Pilosella,,"leptoclados",,"","(Peter) Soják",Accepted,,M,TICA,B1C00442-9D73-44F3-8169-54870E6DE935,,"","","139","1982",
+gcc-119438,A,Compositae,,Pilosella,,"leptophytomorpha",,"","(Litv. & Zahn) Sennikov",Accepted,,M,TICA,F5AB4EE4-4567-4BC0-AE3E-C53230C6D8B2,,"","","","",
+gcc-36145,A,Compositae,,Pilosella,,"leptophyton",,"","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,M,TICA,6DB28662-5097-46D3-9E9A-4306A1170E6D,77083780-1,"","","135","2007",
+gcc-46300,A,Compositae,,Pilosella,,"leptothyrsa",,"","(Peter) Schljakov",Synonym,,M,TICA,91BEC581-4A35-4EA5-8D0A-55D159B0D93E,947439-1,"","","347","1989",gcc-138474
+gcc-132958,A,Compositae,,Pilosella,,"leptothyrsoides",,"","(Zahn) Schljakov",Synonym,,M,TICA,A6BD1B6B-EAEA-4B00-947A-E4700FCFDE07,947466-1,"Fl. Evropeiskoi Chasti SSSR 8: 366. 1989","","366","1989",gcc-129428
+gcc-142297,A,Compositae,,Pilosella,,"leucotricha",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,6448A55F-C823-40D6-A798-F95168560044,238174-1,"","","437","1862",
+gcc-83652,A,Compositae,,Pilosella,,"levieri",,"","(Peter) Soják",Accepted,,M,TICA,A57C6943-A520-4A11-8DF9-74C5FA038D8F,238175-1,"","","218","1971",
+gcc-8271,A,Compositae,,Pilosella,,"limenyensis",,"","(Zahn) Schljakov",Synonym,,M,TICA,3E0E7636-DC77-44EA-948F-0F65578CA1A6,947391-1,"","","336","1989",gcc-152263
+gcc-100927,A,Compositae,,Pilosella,,"litardiereana",,"","(Zahn) Soják",Accepted,,M,TICA,4387F89E-D955-4094-AA5B-9BB1E16ABE0B,238176-1,"","","219","1971",
+gcc-137810,A,Compositae,,Pilosella,,"littuanica",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,EE835614-B8FD-4CD4-9173-EF3D31816AD3,947457-1,"","","355","1989",gcc-31140
+gcc-100071,A,Compositae,,Pilosella,,"lividipes",,"","Norrl.",Unresolved,,L,TICA,3B54413C-D818-44DF-8418-99C2A6071CA6,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 28","","28","",
+gcc-11537,A,Compositae,,Pilosella,,"lobarzewskii",,"","(Rehmann) Soják",Synonym,,M,TICA,04C4B7FA-7B9D-4203-835A-1586497FAAF6,,"","","139","1982",gcc-8407
+gcc-123361,A,Compositae,,Pilosella,,"longa",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,A6AA42E0-A304-4285-84B7-CE1CF54B66FF,947464-1,"","","360","1989",gcc-134663
+gcc-100609,A,Compositae,,Pilosella,,"longipes",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,420DAC17-02AD-4258-A1DC-9B07294C7A9B,238178-1,"Flora 45: 423","","423","1862",
+gcc-108449,A,Compositae,,Pilosella,,"longipila",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,DA3FFDF5-0C18-42CB-A723-AC50FDD1A856,238179-1,"Flora 45: 439","","439","1862",
+gcc-1706,A,Compositae,,Pilosella,,"longiscapa",,"","(Boiss. & Kotschy ex Nägeli & Peter) Sennikov",Synonym,,M,TICA,1D3C88EC-85AC-4FB7-9DED-03146F2760EC,1009345-1,"","","78","1998",gcc-83652
+gcc-92619,A,Compositae,,Pilosella,,"longiscapa",,"","(Nägeli & Peter) Coșkunç.",Unresolved,,L,TICA,6A498A44-1948-4F47-B191-88FB8EE8E31E,60427862-2,"Ann. Bot. Fenn. 40(6): 452 (17 Dec. 2003).","","452","2003",
+gcc-132838,A,Compositae,,Pilosella,×,"longisquama",,"","(Peter) Holub",Accepted,,M,TICA,F7150F08-0013-4017-B23B-E432634DCCDF,238180-1,"","","306","1977",
+gcc-23843,A,Compositae,,Pilosella,,"lyccensis",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,B81F5C17-CF46-464A-864E-2C1322C6E930,947374-1,"","","333","1989",gcc-65162
+gcc-113734,A,Compositae,,Pilosella,,"lychnaea",,"","(Zahn) Schljakov",Synonym,,M,TICA,CCE839B8-BF3C-4D89-A49C-B84B1CE93009,,"""Schljakov in Cvelev, Fl. Evr. Casti SSSR 8. 1989.""","","354","1989",gcc-46656
+gcc-8396,A,Compositae,,Pilosella,,"lychnaea",,"","Norrl.",Synonym,,M,TICA,EFCF7A55-760B-426A-80F8-0F9D73E4A345,238181-1,"""Acta Soc. Fauna Fl. Fenn. 12, 4 : 52 (1895)""","","52","1895",gcc-46656
+gcc-18125,A,Compositae,,Pilosella,,"lydiae",,"","(Schischk. & Steinb.) Tupitz.",Unresolved,,L,TICA,77D7A968-C6E3-42DD-92EE-217AC0601CFB,1009535-1,"""in Fl. Sibir. (Asterac.), 13: 343 (1997 publ. 1998)""","","343","1998",
+gcc-11126,A,Compositae,,Pilosella,,"lygaea",,"","Norrl.",Unresolved,,L,TICA,3E4F7914-7982-4ADD-B973-14CB23998A58,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 25","","25","",
+gcc-107416,A,Compositae,,Pilosella,,"lygodes",,"","Norrl.",Unresolved,,L,TICA,808A3715-2EDA-4E74-B26D-AA02C74757FF,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 58","","58","",
+gcc-28960,A,Compositae,,Pilosella,,"macrantha",,"","(Ten.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,1A72B3A6-7A7A-498D-B865-358A7AF7B279,238184-1,"F. W. Schultz & Sch. Bip. in Flora 45. 1862","","422","1862",
+gcc-48570,A,Compositae,,Pilosella,,"macranthella",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,0A82E4BC-3E32-49C2-8511-59F8773538B2,,"","","139","1982",
+gcc-145253,A,Compositae,,Pilosella,,"macranthiformis",,"","(Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,FE2A7C87-092B-4307-A121-00537ADB45D0,,"S. Bräut. & Greuter in Willdenowia 39. 2009","","329","2009",
+gcc-11121,A,Compositae,,Pilosella,,"macrocyma",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,64760062-AE4C-4F25-A64C-14C9767B91C3,947359-1,"","","329","1989",gcc-93701
+gcc-44012,A,Compositae,,Pilosella,,"macrostolona",,"","(Gus.Schneid.) Soják",Accepted,,M,TICA,9C776042-505D-4FB8-97D6-5186B3267ED3,238185-1,"","","184","1971",
+gcc-146585,A,Compositae,,Pilosella,,"macrostolona",subsp.,"macrostolona","",Synonym,,L,TICA,0DC87231-FB40-4E27-9341-1BA731DBE7F2,,"","","","",gcc-44012
+gcc-103351,A,Compositae,,Pilosella,,"macrotricha",,"","(Boiss.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,BB6119C5-44F1-4D92-9D1C-A11713C469FB,238186-1,"","","426","1862",
+tro-2731193,A,Compositae,,Pilosella,×,"macrotricha",,"","(Boiss.) F.W. Schultz & Sch. Bip.",Synonym,,M,TRO,2731193,238186-1,"Flora","45(27): 426","426","1862",gcc-116890
+gcc-1055,A,Compositae,,Pilosella,,"macutensis",,"","(K.Malý & Zahn) Soják",Accepted,,M,TICA,D5E00196-80B0-48EE-82C0-01EF683233DF,238187-1,"","","218","1971",
+gcc-48080,A,Compositae,,Pilosella,,"magellanica",,"","(Sch.Bip.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,7E5DE47B-BD27-406D-98B5-591818E4A551,1177712-2,"","","438","1862",gcc-24285
+gcc-96452,A,Compositae,,Pilosella,,"magnauricula",,"","(Nägeli & Peter) Dostál",Synonym,,M,TICA,0E2246F8-A197-4E1F-9B52-9192D5ED9AD2,,"","","15","1984",gcc-31140
+gcc-105497,A,Compositae,,Pilosella,,"malacotricha",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,9834FC63-EEC1-4201-B076-A5B4FCBBA9B8,947358-1,"","","329","1989",gcc-1004
+gcc-2149,A,Compositae,,Pilosella,,"mampodrensis",,"","Mateo & Egido",Accepted,,M,TICA,4F3D559D-1821-428E-B405-03DA74302E35,77087953-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","7","2007",
+gcc-93672,A,Compositae,,Pilosella,,"mandonii",,"","Sch.Bip.",Synonym,,M,TICA,D5B3E4B6-4701-4F54-AFCF-8B3185FFEDAD,325004-2,"Linnaea 33","","760","1865",gcc-8606
+gcc-154091,A,Compositae,,Pilosella,,"mandonii",var.,"mandonii","",Synonym,,L,TICA,2311328E-8057-406E-8E88-BC33D4565E72,,"","","","",gcc-8606
+gcc-26956,A,Compositae,,Pilosella,,"mandonii",var.,"soratae","Sch.Bip.",Synonym,,L,TICA,C9F42FD6-8BDA-4F92-9108-31D7C30814E8,196652-2,"","","761","1865",gcc-8606
+gcc-137796,A,Compositae,,Pilosella,,"maraniana",,"","Mateo & Egido",Accepted,,M,TICA,5D339159-00FC-46C0-9CC2-EF36A4ABBD65,77087951-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","6","2007",
+gcc-27362,A,Compositae,,Pilosella,,"marginalis",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,93C88478-35B9-455D-89CC-329A76ADFA9C,947415-1,"","","343","1989",gcc-10440
+gcc-140302,A,Compositae,,Pilosella,,"mariana",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,65627E80-C968-46AE-A973-F4ADF7D1873E,238190-1,"Flora 45: 438","","438","1862",
+gcc-130677,A,Compositae,,Pilosella,,"maschukensis",,"","(Litv. & Zahn) Soják",Accepted,,M,TICA,A67C08D1-597F-4F0E-9271-DF1F7547C3FE,238191-1,"","","218","1971",
+tro-2731192,A,Compositae,,Pilosella,×,"maschukensis",,"","Soják",Synonym,,M,TRO,2731192,,"","","","",tro-2731042
+gcc-93910,A,Compositae,,Pilosella,,"massagetovii",,"","(Gamajun. ex Kamelin & Zuckerw.) Sennikov",Unresolved,,L,TICA,298788CF-CEF4-4193-8705-8BC2A0C801B1,1009346-1,"""in Bot. Zhurn., 83(2): 79 (1998):""","","79","1998",
+gcc-14595,A,Compositae,,Pilosella,,"maura",,"","Norrl.",Unresolved,,L,TICA,EF581988-A26D-4C07-8221-1B132D5E05FA,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 10","","10","",
+gcc-50474,A,Compositae,,Pilosella,,"maurocybe",,"","(Üksip) Schljakov",Synonym,,M,TICA,E0BFBF72-2E9D-4447-96F1-5D9200A5142A,947362-1,"","","331","1989",gcc-65162
+gcc-94758,A,Compositae,,Pilosella,,"mayeri",,"","(Vollm.) Soják",Accepted,,M,TICA,7D3136D1-66A9-4637-89FB-8DC2BDF20FDE,,"","","139","1982",
+gcc-107222,A,Compositae,,Pilosella,,"megalomastix",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,B0E75F73-A481-4080-84D9-A99AA65B67A0,947410-1,"","","341","1989",gcc-10440
+gcc-144122,A,Compositae,,Pilosella,,"megatricha",,"","(Borbás) Soják",Accepted,,M,TICA,17251FCC-44CE-4372-A7E3-FD6669CCE09E,,"","","139","1982",
+gcc-92032,A,Compositae,,Pilosella,,"melachaeta",,"","(Tausch) Schljakov",Synonym,,M,TICA,8DF3992C-FF2A-42BE-AC7D-87B2FD141853,,"","","339","1989",gcc-152263
+gcc-123953,A,Compositae,,Pilosella,,"melaneilema",,"","(Peter) Schljakov",Synonym,,M,TICA,597B3417-A0BE-4536-BCF2-CF9642FAD816,947456-1,"","","355","1989",gcc-31140
+gcc-109746,A,Compositae,,Pilosella,,"melanophaea",,"","Norrl.",Synonym,,M,TICA,4782D6B4-EBB9-4A51-91B6-AF5DC4355ED6,,"","","54","1895",gcc-65162
+gcc-32881,A,Compositae,,Pilosella,,"melanops",,"","(Peter) Dostál",Synonym,,M,TICA,81BFADAC-CEEB-4D52-9F75-3CF8D56089FD,914429-1,"","","14","1984",gcc-25499
+gcc-23429,A,Compositae,,Pilosella,,"melinomelas",,"","(Peter) Holub",Accepted,,M,TICA,7C67E4B9-1101-4082-9328-2B5FEFDB62BF,238194-1,"","","306","1977",
+gcc-80679,A,Compositae,,Pilosella,×,"melinomelas",,"","(Peter) Holub",Unresolved,,L,TICA,2F517EAC-3FDD-4D7C-B583-6E1B4C189122,238194-1,"Folia Geobot. Phytotax. 12(3): 306 (1977)","","306","1977",gcc-23429
+gcc-48455,A,Compositae,,Pilosella,,"merxmuelleriana",,"","(S.Bräut.) S.Bräut. & Greuter",Accepted,,M,TICA,753F0AD1-3BC7-4374-9A07-59BFC58FE5BE,77083781-1,"","","135","2007",
+gcc-130175,A,Compositae,,Pilosella,,"mexicana",,"","(Less.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,B7F0ACDF-1973-4804-A721-DDEFB7D4C504,238195-1,"Flora 45","","436","1862",gcc-42006
+tro-50338263,A,Compositae,,Pilosella,,"meyeri",,"","K. Koch",Unresolved,,L,TRO,50338263,,"","","","",
+gcc-80569,A,Compositae,,Pilosella,,"micradeniophorum",,"","(Zahn) Dostál",Synonym,,M,TICA,A1274B57-57FD-412E-BFCD-6DD9C347AC80,914430-1,"","","14","1984",gcc-25499
+gcc-154622,A,Compositae,,Pilosella,,"micradenophora",,"","Dostál",Unresolved,,L,TICA,45F93F28-BA22-4529-B235-C778E50DEE83,914430-1,"""Dostál in Folia Mus. Rerum Nat. Bohemiae Occid., Bot. 21. 1984""","","14","1984",
+gcc-33506,A,Compositae,,Pilosella,,"micromegas",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,E22BC915-A364-4626-A4B9-3E22BC01EDC4,238196-1,"","","426","1862",gcc-122450
+gcc-105288,A,Compositae,,Pilosella,,"mnooclada",,"","(Rehmann) Schljakov",Synonym,,M,TICA,21BA2D2F-13B1-47A6-992F-A546CE298027,,"","","339","1989",gcc-152263
+gcc-13917,A,Compositae,,Pilosella,,"moechiadia",,"","(Peter) S.Bräut. & Greuter",Accepted,,M,TICA,4D24FD70-444D-4AF3-AA2E-19D9CF8936C9,77083782-1,"","","135","2007",
+gcc-111033,A,Compositae,,Pilosella,,"mollicaulis",,"","(Vuk.) Soják",Synonym,,M,TICA,3E0BFCD6-6D47-4883-8105-B23CCEAD6DA3,238197-1,"","","186","1971",gcc-36145
+gcc-152260,A,Compositae,,Pilosella,,"mollicaulis",subsp.,"mollicaulis","",Synonym,,L,TICA,9A819EF0-1869-4C45-BA27-95BDB8C3CCDF,,"","","","",gcc-36145
+gcc-53675,A,Compositae,,Pilosella,,"mollicaulis",subsp.,"pauciflora","(Nägeli & Peter) Soják",Synonym,,L,TICA,CC02782D-9E6A-4D1B-BDB2-6808289DAB2F,,"","","56","1972",gcc-36145
+gcc-28752,A,Compositae,,Pilosella,,"mollipes",,"","Norrl.",Unresolved,,L,TICA,55867362-CAEE-401F-AF11-352BC22D958F,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 66","","66","",
+gcc-94298,A,Compositae,,Pilosella,,"molliseta",,"","(Nägeli & Peter) Schljakov",Synonym,,L,TICA,C56B5C39-ADA9-448F-AA9B-8CAB09E1A230,947421-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 344 (1989):""","","344","1989",gcc-95605
+gcc-14894,A,Compositae,,Pilosella,,"multiflora",,"","(Froel.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,2D92A480-1EFF-4A1A-9660-1B96AA70FDF5,238199-1,"","","430","1862",gcc-8224
+gcc-112697,A,Compositae,,Pilosella,,"muscelii",,"","(Prodan) S.Bräut. & Greuter",Accepted,,M,TICA,3A5C23D9-A7AB-4FA0-81BC-B60535079435,77083783-1,"","","135","2007",
+gcc-21086,A,Compositae,,Pilosella,,"myosotidifolia",,"","(Sch.Bip.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,EC3E7D8B-89FE-4210-A2E7-26F2D7A9CD55,1089704-2,"","","438","1862",gcc-24285
+gcc-139161,A,Compositae,,Pilosella,,"myriadena",,"","(Boiss. & Reut. ex Rchb.f.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,39E5B160-DEE2-4C50-AFE7-F223A3E26E97,238201-1,"","","425","1862",gcc-88578
+gcc-134330,A,Compositae,,Pilosella,,"myriothricha",,"","(Rehmann) Schljakov",Synonym,,M,TICA,DAB081FD-0A99-4930-916D-E78BC731DBF7,,"","","343","1989",gcc-10440
+gcc-121539,A,Compositae,,Pilosella,,"nana",,"","(Scheele) Arv.-Touv.",Synonym,,M,TICA,1ECE426A-696A-42CA-A52C-CA02CB36537B,,"Arv.-Touv. in Bull. Soc. Dauphin. Echange Pl. 1880.","","279","1880",gcc-49551
+gcc-133501,A,Compositae,,Pilosella,,"neglecta",,"","Norrl.",Synonym,,M,TICA,FE7AB168-1E45-4537-A804-E5A0088BAEAA,238202-1,"","","160","1884 (Feb.-Jun.)",gcc-129428
+gcc-76389,A,Compositae,,Pilosella,,"nemophila",,"","Norrl.",Unresolved,,L,TICA,B14CE836-B887-4A08-B2D8-64954F8674C6,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 46","","46","",
+gcc-84224,A,Compositae,,Pilosella,,"nemoricola",,"","Norrl.",Unresolved,,L,TICA,D2473998-BEFE-4EE0-9276-760F7A139AC5,,"""Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 80, in add.""","","80","",
+gcc-118055,A,Compositae,,Pilosella,,"neohybrida",,"","(Arv.-Touv.) Mateo",Synonym,,M,TICA,9BE65E8D-A062-485B-98B2-C20CD9FA3609,,"","","61","2006",gcc-39106
+gcc-78689,A,Compositae,,Pilosella,,"neriedowae",,"","(Woł. & Zahn) Schljakov",Synonym,,M,TICA,C22BA83F-94FB-4743-82E9-69B1EA57D781,947450-1,"","","353","1989",gcc-129064
+gcc-85213,A,Compositae,,Pilosella,,"nestleri",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,7B513B09-3479-4A36-A5D4-78303BB0DBE5,238205-1,"Flora 45: 430","","430","1862",
+gcc-75533,A,Compositae,,Pilosella,,"nevadensis",,"","(Arv.-Touv.) Mateo & Greuter",Accepted,,M,TICA,9ABEEB53-13FA-4B6A-8DF8-62A1E3E460E8,77083785-1,"","","135","2007",
+gcc-31890,A,Compositae,,Pilosella,,"nigella",,"","Norrl.",Unresolved,,L,TICA,D8511AFC-19F6-4E4C-BB43-3B12B9D8CA8E,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 112","","112","",
+gcc-36941,A,Compositae,,Pilosella,,"nigricarina",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,C3D14251-1EE1-41F9-A712-4470B21C062B,238207-1,"","","217","1971",gcc-134442
+gcc-100695,A,Compositae,,Pilosella,,"nigriseta",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,6041337A-BBFC-416A-9CBB-9B3434304C9B,947409-1,"","","340","1989",gcc-10440
+gcc-129912,A,Compositae,,Pilosella,,"nigrosilvarum",,"","(Üksip) Schljakov",Synonym,,M,TICA,E238073B-0E32-4BCF-9D9C-DD5D5B83195A,947366-1,"","","332","1989",gcc-65162
+gcc-21117,A,Compositae,,Pilosella,,"niphostribes",,"","(Peter) H.P.Fuchs",Unresolved,,L,TICA,A99B9FD2-3EA7-422A-9F30-270136BF4F45,,"Feddes Repert. 90(9-10): 673 (1979 publ. 1980)","","673","1980",
+gcc-49652,A,Compositae,,Pilosella,,"niphostribes",,"","(Peter) Holub",Synonym,,M,TICA,A95A584C-86D8-47B9-87AC-5C0916791865,238209-1,"","","306","1977",gcc-150908
+gcc-39484,A,Compositae,,Pilosella,,"niveopappa",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,B55A6AEE-14EE-4F02-A3E7-4946BBB3B7E9,238210-1,"Flora 45","","435","1862",gcc-42006
+gcc-143885,A,Compositae,,Pilosella,,"noguerensis",,"","Mateo",Accepted,,M,TICA,96A5E700-3622-48BE-87AB-FCDD8771BE1D,77086801-1,"Mateo in Fl. Montiber. 36. 2007.","","65","2007",
+gcc-1654,A,Compositae,,Pilosella,,"norrliniiformis",,"","(Pohle ex Pohle & Zahn) Soják",Accepted,,M,TICA,964DE584-DCAA-4F3A-B078-02F85AEA5C76,238211-1,"","","218","1971",
+gcc-20436,A,Compositae,,Pilosella,,"norvegica",,"","Arv.-Touv.",Unresolved,,L,TICA,B8308343-7D43-4818-AA0F-25CA69D32F1B,238212-1,"in Bull. Soc. Dauph. (1880) 281.","","281","1880",
+gcc-114003,A,Compositae,,Pilosella,,"notha",,"","(Huter) Soják",Unresolved,,L,TICA,982C6C49-DEAB-4A52-AEFA-B8DB2F93DD10,,"""Čas. Nár. Muz., Řada Přír. 150(3–4): 139""","","139","1982",
+gcc-144054,A,Compositae,,Pilosella,,"notha",,"","(Huter) S.Bräut. & Greuter",Accepted,,M,TICA,72F8FBFD-347F-4814-AC19-FD41F96C4B2A,77083794-1,"","","135","2007",
+tro-50131242,A,Brassicaceae,,Pilosella,,"novae-angliae",,"","Rydb.",Synonym,,M,TRO,50131242,196653-2,"Torreya","7(8): 158–159","158","1907",tro-4100080
+gcc-15546,A,Compositae,,Pilosella,,"novosibirskensis",,"","Tupitz.",Unresolved,,L,TICA,23A9CFEC-838D-45F1-BBCC-1CC4AAC4FEA3,991251-1,"""in Bot. Zhurn., 81(3): 126 (1996)""","","126","1996",
+gcc-143776,A,Compositae,,Pilosella,,"nutans",,"","(Holler ex Fries) Soják",Unresolved,,L,TICA,565C0FFC-5F6D-4CED-984A-FCA58194F3FD,238213-1,"Folia Geobot. Phytotax. 6(2): 218","","218","1971",
+gcc-75769,A,Compositae,,Pilosella,,"nydeggerorum",,"","(Gottschl.) Coşkunç.",Synonym,,M,TICA,EEF142D8-68F0-46F3-AC3A-63320E07DFF9,60427853-2,"","","452","2003",gcc-8130
+gcc-135961,A,Compositae,,Pilosella,,"obornyana",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,10133733-B77F-4254-84F8-EB13A0BC7DC9,238214-1,"","","186","1971",gcc-19900
+gcc-148053,A,Compositae,,Pilosella,,"obornyana",subsp.,"obornyana","",Synonym,,L,TICA,AD90D129-573A-4281-A07F-3AA30D89E495,,"","","","",gcc-19900
+gcc-71595,A,Compositae,,Pilosella,,"obornyana",subsp.,"polymastix","Soják",Synonym,,L,TICA,7BDFC4AD-95AD-4D03-95B0-F76D8C1608CD,,"in Cas. Nar. Muz. (Prague). 141 (1-2): 57 (1972)","","57","1972",gcc-19900
+gcc-13383,A,Compositae,,Pilosella,,"obovalis",,"","Norrl.",Unresolved,,L,TICA,B15B827D-1894-4BB8-8035-18F69729DA2A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 13","","13","",
+gcc-118696,A,Compositae,,Pilosella,,"obscura",,"","(Rchb.) Soják",Synonym,,M,TICA,0657A80E-9B64-40C3-964A-C38913E60555,238216-1,"Preslia 43(2): 185 (1971).","","185","1971",gcc-65162
+gcc-13215,A,Compositae,,Pilosella,,"obscura",,"","(Rchb.) Arv.-Touv.",Synonym,,M,TICA,FDDACFC4-9CE3-4F79-AC9D-189D5160749D,,"","","282","1880",gcc-65162
+gcc-107807,A,Compositae,,Pilosella,,"obscuribractea",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,DFFF2CC2-9DE7-470D-973F-AAF24CB6C9BE,,"","","338","1989",gcc-152263
+gcc-38,A,Compositae,,Pilosella,,"obscuribracteata",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,82B806DB-90FA-4A8D-9123-0018897DAFEB,947392-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 338 (1989):""","","338","1989",gcc-10440
+gcc-137485,A,Compositae,,Pilosella,,"obscuripes",,"","Norrl.",Unresolved,,L,TICA,309B5EC6-5BAF-427F-A9FC-EE8D3179B244,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 73","","73","",
+gcc-25076,A,Compositae,,Pilosella,,"obsistens",,"","(Norrl.) Schljakov",Synonym,,M,TICA,779DB106-4440-4C85-B0D9-2E4FF2D1E580,947453-1,"","","353","1989",gcc-46656
+gcc-133128,A,Compositae,,Pilosella,,"occidentalis",,"","(Nyár.) Soják",Accepted,,M,TICA,CDE5CA9D-2DD6-4610-94D3-E4CE57187769,,"","","139","1982",
+gcc-144842,A,Compositae,,Pilosella,,"oenea",,"","Norrl.",Unresolved,,L,TICA,4135E88F-5F22-4F6F-9CF2-FF09841EE5A4,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 39","","39","",
+gcc-25499,A,Compositae,,Pilosella,,"officinarum",,"","Vaill.",Accepted,,M,TICA,C535558F-EF30-496C-A778-2F14A7333301,,"Vaill. in Königl. Akad. Wiss. Paris Phys. Abh. 5. 1754.","","703","1754",
+gcc-76606,A,Compositae,,Pilosella,,"officinarum",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,CE0545A9-81F9-46EE-AE15-65125BE11186,,"""Flora 45: 421, 422 (1862).""","","","1862",gcc-25499
+gcc-67669,A,Compositae,,Pilosella,,"officinarum",subsp.,"micradenia","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,5537EA46-06ED-47E1-89D7-D904EA8DC3C1,878085-1,"P. D. Sell & C. West in Notes Roy. Bot. Gard. Edinburgh 33. 1975.","","433","1975",gcc-25499
+gcc-155951,A,Compositae,,Pilosella,,"officinarum",subsp.,"officinarum","",Synonym,,L,TICA,E49A5567-11AF-4C02-9A9D-E35E807A327E,,"","","","",gcc-25499
+gcc-56952,A,Compositae,,Pilosella,,"officinarum",subsp.,"tricholepia","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,CCDAE313-4084-47D1-BDC7-826E85A0492C,,"P. D. Sell & C. West in Watsonia 6. 1967.","","","",gcc-25499
+gcc-42414,A,Compositae,,Pilosella,,"onegensis",,"","Norrl.",Accepted,,M,TICA,579EDFD5-534D-4A0D-9232-4E926F713E34,,"","","131","",
+gcc-20586,A,Compositae,,Pilosella,,"onegensis",subsp.,"glaucochroa","(Nägeli & Peter) Soják",Synonym,,L,TICA,390C3B36-BE85-487C-99E4-261AE17BB896,,"","","44","1972",gcc-42414
+gcc-157093,A,Compositae,,Pilosella,,"onegensis",subsp.,"onegensis","",Synonym,,L,TICA,4E030503-34F7-435C-90C0-FA96A75FF477,,"","","","",gcc-42414
+gcc-130875,A,Compositae,,Pilosella,,"orthotricha",,"","(R.E.Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,04A08610-7BFE-44AD-A63D-DF8CE09BB1DE,238221-1,"","","436","1862",gcc-136354
+gcc-36795,A,Compositae,,Pilosella,,"pachylodes",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,79A17D4A-E54A-449D-AF42-4434DA2C71D9,,"","","217","1971",gcc-132838
+gcc-52093,A,Compositae,,Pilosella,,"pachypila",,"","(Peter) Soják",Accepted,,M,TICA,C60D0E0A-9875-4820-970E-609FEBDA4756,238223-1,"","","217","1971",
+gcc-149541,A,Compositae,,Pilosella,,"pachypila",subsp.,"pachypila","",Synonym,,L,TICA,786BC7F0-33FE-462D-9E24-5B2FD4E6D427,,"","","","",gcc-52093
+gcc-106729,A,Compositae,,Pilosella,,"paniculata",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,471FFE63-D20C-4B32-BB89-A8750BD271E0,238224-1,"Flora 45: 440","","440","1862",
+gcc-133314,A,Compositae,,Pilosella,,"pannoniciformis",,"","(Litv. & Zahn) Soják",Accepted,,M,TICA,3959BBE7-5AD0-4AE1-A812-E539DEED1313,238225-1,"","","219","1971",
+tro-2731197,A,Compositae,,Pilosella,×,"pannoniciformis",,"","Soják",Synonym,,M,TRO,2731197,,"","","","",tro-2731089
+gcc-91415,A,Compositae,,Pilosella,,"panticosae",,"","Mateo",Accepted,,M,TICA,FC2AFAF1-2EDC-4CB8-8463-865591858CB0,77073433-1,"","","61","2006",
+gcc-48313,A,Compositae,,Pilosella,,"papyrodes",,"","Norrl.",Unresolved,,L,TICA,B8D2B83A-A378-4D2E-B66A-5987F44E71BA,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 45","","45","",
+gcc-143152,A,Compositae,,Pilosella,,"paragoga",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,335F1B04-F22D-4EE3-82E3-FB3E90A4FEEF,238227-1,"","","186","1971",
+gcc-147405,A,Compositae,,Pilosella,,"paragoga",subsp.,"paragoga","",Synonym,,L,TICA,7C5890A6-8515-4CD6-B1C0-2CDA7C75CD6E,,"","","","",gcc-143152
+gcc-33191,A,Compositae,,Pilosella,,"paragogiformis",,"","(Käser) Soják",Accepted,,M,TICA,350322C4-44BC-4E82-A677-3D8E74503E32,,"","","139","1982",
+gcc-130185,A,Compositae,,Pilosella,,"paroica",,"","Norrl.",Unresolved,,L,TICA,3E0A7A3E-B6D4-4190-862B-DDF8E3C4A3B2,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 34","","34","",
+gcc-7063,A,Compositae,,Pilosella,,"parvistolona",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,2B9D5AAF-E4DE-4FCD-A6B3-0D2583D72B27,947383-1,"","","335","1989",gcc-152263
+gcc-20596,A,Compositae,,Pilosella,,"patagonica",,"","(Hook.f.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,54F56D21-420E-4AED-83C9-2620F022C987,238229-1,"Flora 45: 438","","438","1862",gcc-113758
+gcc-86652,A,Compositae,,Pilosella,,"paucilingua",,"","Norrl.",Unresolved,,L,TICA,44021807-69EA-4D71-AAA2-7B65EA040CA8,,"""Acta Soc. Fauna Fl. Fenn. ii. No. 4, 74 (1884), in obs.""","","74","",
+gcc-117320,A,Compositae,,Pilosella,,"pavichii",,"","(Heuff.) Holub",Unresolved,,L,TICA,3BF77583-441A-41CB-997F-C0686EF89374,238231-1,"Folia Geobot. Phytotax. 12(3): 306","","306","1977",
+gcc-84293,A,Compositae,,Pilosella,,"pavichii",,"","(Heuff.) Arv.-Touv.",Accepted,,M,TICA,34E886C1-CF1A-4645-BB36-763D143C52E2,,"Arv.-Touv. in Bull. Soc. Dauphin. Echange Pl. 1880.","","282","1880",
+gcc-106688,A,Compositae,,Pilosella,,"pavichiodes",,"","S.Bräut. & Greuter",Accepted,,M,TICA,80425B69-138A-47DD-A8B7-A862A4687D4E,77083789-1,"","","135","2007",
+gcc-155474,A,Compositae,,Pilosella,,"pawlowskiella",,"","(Merxm.) Holub",Accepted,,M,TICA,3FDF5DDF-B051-42D4-A7BD-D903DE82588B,238232-1,"Holub in Folia Geobot. Phytotax. 12. 1977","","306","1977",
+gcc-112568,A,Compositae,,Pilosella,×,"pawlowskiellum",,"","(Merxm.) Holub",Unresolved,,L,TICA,E4FE4F91-7346-42E9-A632-B5B96D30966D,,"","","306","1977",
+gcc-95552,A,Compositae,,Pilosella,,"peleteriana",,"","(Mérat) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,63751FCD-C64A-4385-A74A-8F9B9C5B5955,238233-1,"","","421","1862",
+gcc-47894,A,Compositae,,Pilosella,,"peleteriana",subsp.,"peleteriana","",Synonym,,L,TICA,F1A2547E-5FAD-4396-9806-58B8D13712E9,,"","","","",gcc-95552
+gcc-66492,A,Compositae,,Pilosella,,"peleteriana",subsp.,"subpeleteriana","(Nägeli & Peter) P.D.Sell",Accepted,,L,TICA,996CE588-3C3F-4E41-BE5A-CF2DD020CB8B,,"","","92","1990",
+gcc-69037,A,Compositae,,Pilosella,,"peleteriana",subsp.,"tenuiscapa","(Pugsley) P.D.Sell & C.West",Synonym,,L,TICA,4D9C864B-5FDB-4ABE-BCF3-E362F566192D,,"P. D. Sell & C. West in Watsonia 6. 1967.","","313","1967",gcc-66492
+gcc-19585,A,Compositae,,Pilosella,,"pennsilvanica",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,D5A7EB51-88FF-4AA9-9E55-24348EEC24D3,238234-1,"Flora 45: 439","","439","1862",
+gcc-38319,A,Compositae,,Pilosella,,"pericausta",,"","Norrl.",Unresolved,,L,TICA,392DF627-9B20-4ED8-BFD2-47134701A64A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 49","","49","",
+gcc-77737,A,Compositae,,Pilosella,,"perileuca",,"","(Schelk. & Zahn) Sennikov",Synonym,,M,TICA,9940EC2F-CC32-44B5-BBFC-678EEC96758F,1009372-1,"","","68","1998",gcc-41666
+gcc-79512,A,Compositae,,Pilosella,,"periphanoides",,"","(Zahn) Soják",Synonym,,M,TICA,308CE28B-1310-47D1-BF66-6B9764F6281A,238236-1,"","","217","1971",gcc-42787
+gcc-112375,A,Compositae,,Pilosella,,"permutata",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,4FCAA2E1-6995-4F58-8F6E-B54740409D15,238237-1,"","","217","1971",
+gcc-37864,A,Compositae,,Pilosella,,"persica",,"","(Boiss.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,BC6AC4DB-68A1-47B7-9F9D-463B679F00A4,238238-1,"","","431","1862",gcc-85616
+gcc-122863,A,Compositae,,Pilosella,,"peteriana",,"","(Käser) Holub",Accepted,,M,TICA,DD89534B-10B2-400B-8E6D-CCFCF1267D3A,238239-1,"","","306","1977",
+gcc-49791,A,Compositae,,Pilosella,,"petraea",,"","F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,D189204A-39DD-4CAD-9B1C-5C4EFF9B3EDA,,"","","427","1862",
+gcc-122251,A,Compositae,,Pilosella,,"phaeostigma",,"","Norrl.",Unresolved,,L,TICA,8B56357B-DF6B-4F45-AC89-CB9AEA6A2FD3,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 41","","41","",
+gcc-518,A,Compositae,,Pilosella,,"phlebophylla",,"","Norrl.",Unresolved,,L,TICA,477DEAAB-2EDB-4277-93E1-00F867585002,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 38","","38","",
+gcc-5917,A,Compositae,,Pilosella,,"pilipes",,"","(Saelán) Norrl.",Synonym,,M,TICA,B360A574-6BA2-4E4F-AB92-0B05633D357B,238243-1,"","","141","1884 (Feb.-Jun.)",gcc-100924
+gcc-58658,A,Compositae,,Pilosella,,"pilipes",subsp.,"acrocoma","(Nägeli & Peter) Soják",Synonym,,L,TICA,E25EEB72-0E50-445D-A561-906E4745CDD6,,"""in Cas. Nar. Muz. (Prague), 141 (1-2): 49 (1972)""","","49","1972",gcc-100924
+gcc-149160,A,Compositae,,Pilosella,,"pilipes",subsp.,"pilipes","",Synonym,,L,TICA,3DA6307F-74BE-4284-9BF0-52DC16013352,,"","","","",gcc-100924
+gcc-41666,A,Compositae,,Pilosella,,"pilisquama",,"","(Nägeli & Peter) Dostál",Accepted,,M,TICA,25191F89-4D85-405E-8706-4D262BFA2BC5,914431-1,"""Dostál in Folia Mus. Rerum Nat. Bohemiae Occid., Bot. 21. 1984""","","14","1984",
+gcc-116509,A,Compositae,,Pilosella,,"piloselliflora",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,13285D08-29BB-4D38-B444-BE9046AB4F97,238244-1,"","","184","1971",
+gcc-153023,A,Compositae,,Pilosella,,"piloselliflora",subsp.,"piloselliflora","",Synonym,,L,TICA,0DFD3DFD-3D8A-48F9-B26F-A5ACB7138285,,"","","","",gcc-116509
+gcc-100428,A,Compositae,,Pilosella,,"pilosellina",,"","(F.W.Schultz) Soják",Accepted,,M,TICA,BF9D9E10-4CD3-471C-8689-9A9A0C661D4C,,"","","186","1971",
+gcc-151678,A,Compositae,,Pilosella,,"pilosellina",subsp.,"pilosellina","",Synonym,,L,TICA,3B8635FF-53BF-4BB5-9310-89E5AD9B022E,,"","","","",gcc-100428
+gcc-131397,A,Compositae,,Pilosella,,"piloselloides",,"","(Vill.) Soják",Accepted,,M,TICA,1DD5DB84-2370-47AA-9351-E0C949857FB9,238245-1,"","","185","1971",
+gcc-152263,A,Compositae,,Pilosella,,"piloselloides",subsp.,"bauhinii","(Schult.) S.Bräut. & Greuter",Accepted,,L,TICA,0C1A015F-116E-496B-83FB-95C77271DFA1,,"","","135","2007",
+gcc-22797,A,Compositae,,Pilosella,,"piloselloides",subsp.,"floccosa","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,L,TICA,6DA83241-9F79-4997-9AA0-2A30EA569831,77083793-1,"","","135","2007",
+gcc-10440,A,Compositae,,Pilosella,,"piloselloides",subsp.,"magyarica","(Peter) S.Bräut. & Greuter",Accepted,,L,TICA,40D6DD17-502E-4C12-BE38-137947814312,77086719-1,"","","135","2007",
+gcc-12081,A,Compositae,,Pilosella,,"piloselloides",subsp.,"megalomastix","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,C9B67B7E-33E0-4CD0-91E9-16865F36BF71,878103-1,"","","433","1975",gcc-10440
+gcc-69020,A,Compositae,,Pilosella,,"piloselloides",subsp.,"piloselloides","",Synonym,,L,TICA,EAB8F0F3-2007-4A2B-B664-E32D865FAD9F,,"","","","",gcc-131397
+gcc-65162,A,Compositae,,Pilosella,,"piloselloides",subsp.,"praealta","(Gochnat) S.Bräut. & Greuter",Accepted,,L,TICA,63F9A075-F30A-4D97-A71F-C458283F2462,77083790-1,"","","135","2007",
+gcc-60867,A,Compositae,,Pilosella,,"piloselloides",subsp.,"rubrobauhinii","(Schelk. & Zahn) S.Bräut. & Greuter",Accepted,,L,TICA,D5F80334-BE8E-4F9E-95D7-A1ECC094244C,77083791-1,"","","135","2007",
+gcc-128094,A,Compositae,,Pilosella,,"pinea",,"","(Schischk. & Serg.) Tupitz.",Unresolved,,L,TICA,97751B19-F8E8-4F29-A49E-D936654454B3,1009533-1,"""in Fl. Sibir. (Asterac.), 13: 342 (1997 publ. 1998):.""","","342","1998",gcc-33123
+gcc-93386,A,Compositae,,Pilosella,,"pinguescens",,"","Norrl.",Unresolved,,L,TICA,B8ACC257-1B5A-41A2-AC04-8A9D6420996A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 23","","23","",
+gcc-121719,A,Compositae,,Pilosella,,"pintodasilvae",,"","(de Retz) Mateo",Accepted,,M,TICA,A0C14EFF-1892-4A71-AC6D-CA647B9BD6D7,962419-1,"","","143","1990",
+gcc-110288,A,Compositae,,Pilosella,,"pistoriensis",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,31B13427-846B-4355-A099-B08B4EF4C944,238247-1,"","","219","1971",gcc-134047
+gcc-21106,A,Compositae,,Pilosella,,"plaicensis",,"","(Woł.) Soják",Accepted,,M,TICA,1CBC1783-E2FF-460A-BC82-26FAB8DBD828,,"","","139","1982",
+gcc-125969,A,Compositae,,Pilosella,,"plebeja",,"","Norrl.",Unresolved,,L,TICA,8B09A907-9B22-406F-A69C-D440A741FFA0,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 78","","78","",
+gcc-110370,A,Compositae,,Pilosella,,"plicatula",,"","Schljakov",Synonym,,M,TICA,B64EB42C-B88E-467F-8100-B0BB32AB2FDD,947396-1,"","","338","1989",gcc-152263
+gcc-132736,A,Compositae,,Pilosella,,"podolica",,"","(Rehmann) Schljakov",Synonym,,M,TICA,52EDB4C2-BDF7-4838-B7FF-E3EE4D3703FD,947470-1,"","","376","1989",gcc-13962
+gcc-76858,A,Compositae,,Pilosella,,"polioderma",,"","(Dahlst.) Soják",Accepted,,M,TICA,8C513F37-7C27-4606-925E-65940C238926,,"","","139","1982",
+gcc-143527,A,Compositae,,Pilosella,,"poliotricha",,"","Arv.-Touv.",Unresolved,,L,TICA,6507FF71-93BE-4F8F-82C8-FC1AB4AE378F,238249-1,"in Bull. Soc. Dauph. (1880) 281.","","281","1880",
+gcc-39715,A,Compositae,,Pilosella,,"polyanthema",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,C852CEE1-43D6-43F0-921E-49B0BD48CD96,947395-1,"","","338","1989",gcc-152263
+gcc-19900,A,Compositae,,Pilosella,,"polymastix",,"","(Peter) Holub",Accepted,,M,TICA,ECD522A2-4C98-4150-9C5E-24CB8BCD9F98,238250-1,"Holub in Folia Geobot. Phytotax. 12. 1977.","","306","1977",
+gcc-26162,A,Compositae,,Pilosella,,"polymnoon",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,B0433DA0-5A3A-42E5-8492-3061FE4B7251,947440-1,"""in Fl. Evropeĭskoĭ Chasti SSSR, 8: 348 (1989):""","","348","1989",gcc-63596
+gcc-42787,A,Compositae,,Pilosella,,"portae",,"","(Willk. ex T.Durand & B.D.Jacks.) Mateo & Greuter",Accepted,,M,TICA,31A63187-A937-4243-A426-4F3CCDA6A065,77083805-1,"","","136","2007",
+gcc-22880,A,Compositae,,Pilosella,,"praealta",,"","(Vill. ex Cochn.) F.W.Schultz & Sch.Bip.",Accepted,,L,TICA,1FEE3CBA-0B7F-4BCF-BB92-2A5BBE77C3F6,238251-1,"","","","",
+gcc-59318,A,Compositae,,Pilosella,,"praealta",subsp.,"albidobractea","(Nägeli & Peter) Soják",Synonym,,L,TICA,B52E62C4-5189-4DCF-BF0F-957B2BB38179,,"","","51","1972",gcc-65162
+gcc-29262,A,Compositae,,Pilosella,,"praealta",subsp.,"arvorum","(Nägeli & Peter) P.D.Sell & C.West",Synonym,,L,TICA,1A17B84C-51B2-4D55-B283-3615043C3DD5,,"","","","",gcc-10440
+gcc-70844,A,Compositae,,Pilosella,,"praealta",subsp.,"praealta","",Synonym,,L,TICA,23B5BF8A-C211-4B50-896E-F15EFA18065B,,"","","","",gcc-22880
+gcc-72232,A,Compositae,,Pilosella,,"praealta",subsp.,"spraguei","(Pugsley) P.D.Sell & C.West",Synonym,,L,TICA,72609AB7-9F10-48AF-A19D-FC74D4546755,,"P. D. Sell & C. West in Watsonia 6. 1967.","","314","1967",gcc-152263
+gcc-83545,A,Compositae,,Pilosella,,"praemorsiformis",,"","(Sch.Bip.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,00C7678C-94B1-4585-BA82-748851CB36E6,,"Flora 45","","534","1862",gcc-42006
+gcc-116121,A,Compositae,,Pilosella,,"prasinata",,"","Norrl.",Unresolved,,L,TICA,88B00431-162B-458C-8762-BDBCA5CF09A8,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 78","","78","",
+gcc-137697,A,Compositae,,Pilosella,,"prasiniza",,"","Norrl.",Unresolved,,L,TICA,8A8C0AD3-E8C5-47DD-8AAF-EF05B5EBF964,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 9","","9","",
+gcc-21441,A,Compositae,,Pilosella,,"pratensis",,"","Norrl.",Unresolved,,L,TICA,C69D0343-3DF0-4D94-8826-27A007C7681C,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 139","","139","",
+gcc-8040,A,Compositae,,Pilosella,,"pratensis",,"","(Tausch) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,1ACDD568-1421-4FC5-862B-0EF696EA4C4B,238255-1,"","","426","1862",gcc-79741
+gcc-32567,A,Compositae,,Pilosella,,"primuliformis",,"","Arv.-Touv.",Unresolved,,L,TICA,481BE022-634D-4ACB-8859-3C5DA3D843BE,238257-1,"in Bull. Soc. Dauph. (1880) 280.","","280","",
+gcc-32421,A,Compositae,,Pilosella,,"privigna",,"","Norrl.",Unresolved,,L,TICA,5D456B6D-FDAE-48EA-84A4-3C18D61D80BD,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 35","","35","",
+gcc-85616,A,Compositae,,Pilosella,,"procera",,"","(Fr.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,0B7D0F75-31F0-4227-8AD3-790DA0554634,238259-1,"","","431","1862",
+gcc-45733,A,Compositae,,Pilosella,,"proceriformis",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,CCBE6826-E839-4297-B7FD-54CAB0F08C92,238260-1,"","","218","1971",gcc-1004
+gcc-88987,A,Compositae,,Pilosella,,"procerigena",,"","(Litv. & Zahn) Sennikov",Accepted,,M,TICA,2896AC92-D69F-49DF-92F0-80A4E06A9C61,1009373-1,"","","69","1998",
+gcc-20791,A,Compositae,,Pilosella,,"progenita",,"","Norrl.",Synonym,,M,TICA,6639A942-6A34-4D75-87FD-26741EFEFA66,238261-1,"","","87","1884 (Feb.-Jun.)",gcc-116509
+gcc-145272,A,Compositae,,Pilosella,,"promeces",,"","(Peter) Holub",Accepted,,M,TICA,B956B184-F5DD-40DB-A5FD-00D33AE77CA8,238262-1,"Holub in Folia Geobot. Phytotax. 12. 1977","","306","1977",
+gcc-18711,A,Compositae,,Pilosella,,"protuberans",,"","Norrl.",Unresolved,,L,TICA,D6616E9F-8497-49E3-B15E-22902140BDF0,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 57","","57","",
+gcc-112860,A,Compositae,,Pilosella,,"pruinosa",,"","Norrl.",Unresolved,,L,TICA,46275D18-4981-4B8D-A4C8-B6661AEE2D75,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 57","","57","",
+gcc-134223,A,Compositae,,Pilosella,,"prussica",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,C6276607-DD89-425F-9B94-E74824B1DA08,238265-1,"","","184","1971",
+gcc-147916,A,Compositae,,Pilosella,,"prussica",subsp.,"prussica","",Synonym,,L,TICA,F084BDF5-9B5F-4ABB-B09B-37E6EDA9C505,,"","","","",gcc-134223
+gcc-23100,A,Compositae,,Pilosella,,"przybyslawskii",,"","(Rehmann) Schljakov",Synonym,,M,TICA,F713052B-95EE-40C9-A32F-2AC3837668ED,,"","","356","1989",gcc-41666
+gcc-118678,A,Compositae,,Pilosella,,"pseudauriculoides",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,53A49DCD-FE2C-4D61-8F3D-C37F52745D32,947403-1,"","","339","1989",gcc-10440
+gcc-103586,A,Compositae,,Pilosella,×,"pseudeffusa",,"","(Peter) Holub",Synonym,,M,TICA,DF3CB3D5-B938-4163-BF00-A19A1CC2EB6F,238266-1,"","","306","1977",gcc-131397
+gcc-140426,A,Compositae,,Pilosella,,"pseudo-blyttii",,"","Norrl.",Unresolved,,L,TICA,E7F6CF0E-05CD-4B23-9C62-F4FE3D427745,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 124","","124","",
+gcc-90910,A,Compositae,,Pilosella,,"pseudo-pelleteriana",,"","Magnier.",Unresolved,,L,TICA,95B6E710-254C-469D-8BBD-852468F086C5,238268-1,"cf. Bull. Soc. Bot. France 27(Rev. Bibliogr.): 170","","170","1880",
+gcc-113768,A,Compositae,,Pilosella,,"pseudocalodon",,"","(Peter) Soják",Synonym,,M,TICA,9DF9066D-4C14-4BCC-8276-B85DEB044C66,,"","","186","1971",gcc-144122
+gcc-126437,A,Compositae,,Pilosella,,"pseudogalliciana",,"","Mateo",Accepted,,M,TICA,0F631B89-4574-4C5A-B123-D552CCA2422E,77073434-1,"","","62","2006",
+gcc-139308,A,Compositae,,Pilosella,,"pseudogudarica",,"","Mateo & Egido",Accepted,,M,TICA,AECE2A9E-FCBB-4782-B982-F2727D434325,77087950-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","6","2007",
+gcc-1848,A,Compositae,,Pilosella,,"pseudohybrida",,"","(Arv.-Touv.) Mateo",Unresolved,,L,TICA,B840FF09-094B-433D-A96D-0352B97A5595,962421-1,"","","","1990",
+gcc-81096,A,Compositae,,Pilosella,,"pseudohybrida",,"","(Debeaux) Soják",Synonym,,M,TICA,CDE0D61E-CA0F-43E4-AD08-6F0D9C9CDEB0,,"","","219","1971",gcc-39106
+gcc-37313,A,Compositae,,Pilosella,,"pseudokajanensis",,"","Schljakov",Synonym,,M,TICA,F4F06D98-4FC8-48B7-882D-4525FE75C8B9,938673-1,"","","354","1989",gcc-46656
+gcc-144098,A,Compositae,,Pilosella,,"pseudomaraniana",,"","Mateo & Egido",Accepted,,M,TICA,3451A53F-F94E-4CEA-9D25-FD5B23422888,77087952-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","7","2007",
+gcc-81674,A,Compositae,,Pilosella,,"pseudomegalomastix",,"","(Rehmann) Schljakov",Synonym,,M,TICA,438217DC-5FA5-43FE-9286-706042CD8408,,"","","341","1989",gcc-10440
+gcc-52141,A,Compositae,,Pilosella,,"pseudopilosella",,"","(Ten.) Soják",Accepted,,M,TICA,1932FA6A-4C47-4E4F-92E2-60B84132946E,238271-1,"","","217","1971",
+gcc-96484,A,Compositae,,Pilosella,,"pseudopiloselliflora",,"","(Rehmann) Soják",Synonym,,M,TICA,C75BB890-3507-4FE3-8E28-91AA49EB0D19,,"","","139","1982",gcc-116509
+gcc-16134,A,Compositae,,Pilosella,,"pseudopilosellina",,"","(Zahn) Soják",Synonym,,M,TICA,CA6E0E14-E300-4EDF-BECC-1DDAB4F344BE,238272-1,"","","219","1971",gcc-134470
+gcc-114177,A,Compositae,,Pilosella,,"pseudosparsa",,"","(Zahn) Schljakov",Synonym,,M,TICA,6281BB39-D93B-4FFB-8347-B93AFCA5ED74,947379-1,"","","334","1989",gcc-152263
+gcc-86656,A,Compositae,,Pilosella,,"pseudosulphurea",,"","(Touton) Soják",Accepted,,M,TICA,E0A2D94E-8A36-4A99-AC4E-7B682A7BF888,,"","","139","1982",
+gcc-16147,A,Compositae,,Pilosella,,"pseudothaumasia",,"","(Zahn) Schljakov",Synonym,,M,TICA,87CB17B4-1830-4608-BBD5-1DDE81B1A44F,947405-1,"","","340","1989",gcc-152263
+gcc-17776,A,Compositae,,Pilosella,,"pseudotrichodes",,"","(Zahn) Soják",Accepted,,M,TICA,01AA6C65-0121-4072-BCDD-20D1C3AFB8E3,238273-1,"","","218","1971",
+gcc-143065,A,Compositae,,Pilosella,,"pseudovahlii",,"","(de Retz) Mateo",Accepted,,M,TICA,27C8E9F3-4ECA-4112-AC88-FB123B9A2876,,"","","143","1990",
+gcc-126234,A,Compositae,,Pilosella,,"pubescens",,"","(Fr.) Norrl.",Synonym,,M,TICA,02E21E4D-991A-42A5-A1CF-D4DF41C8D50C,,"","","169","",gcc-138474
+gcc-8967,A,Compositae,,Pilosella,,"pubescens",var.,"contracta","Norrl.",Synonym,,L,TICA,9FFDEB06-3AE1-4369-BC3E-10C679FB0847,,"","","169","",gcc-138474
+gcc-146582,A,Compositae,,Pilosella,,"pubescens",var.,"pubescens","",Synonym,,L,TICA,6981EB20-F50E-471F-BD44-1B87BBB2E7D5,,"","","","",gcc-138474
+gcc-98134,A,Compositae,,Pilosella,,"puenteana",,"","Mateo & Egido",Accepted,,M,TICA,B4AF3DA9-AEC3-492A-8FF9-957013465374,77087954-1,"Mateo & Egido in Fl. Montiber. 37. 2007.","","8","2007",
+gcc-23932,A,Compositae,,Pilosella,,"pulvinata",,"","Norrl.",Synonym,,M,TICA,56908085-11B4-4D74-BE81-2C3B63727ADF,,"","","127","",gcc-98450
+gcc-96020,A,Compositae,,Pilosella,,"pumila",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,C71092C9-C8C3-4B98-B9D2-90A42DA6BD0D,238276-1,"","","426","1862",gcc-122090
+gcc-79494,A,Compositae,,Pilosella,,"radula",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,A3EA1376-A76A-4094-9830-6B8FDA032280,238277-1,"","","431","1862",gcc-8130
+gcc-105946,A,Compositae,,Pilosella,,"rawaruskana",,"","(Zahn) Schljakov",Synonym,,M,TICA,3ED9F78A-E676-43D9-8718-A6B5CC9A6CE6,947443-1,"","","349","1989",gcc-79741
+gcc-137794,A,Compositae,,Pilosella,,"reflexa",,"","Norrl.",Unresolved,,L,TICA,869556E9-4BCF-4095-A6E2-EF35D6B74863,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 29","","29","",
+gcc-111115,A,Compositae,,Pilosella,,"relicina",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,12A84EC5-78AD-4E01-AA8E-B2657AFD3E0F,238279-1,"Flora 45: 439","","439","1862",
+gcc-40852,A,Compositae,,Pilosella,,"remotula",,"","Norrl.",Unresolved,,L,TICA,AF667FBE-D266-4206-9ECE-4BB4B5464B16,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 14","","14","",
+gcc-129059,A,Compositae,,Pilosella,,"retractata",,"","Norrl.",Unresolved,,L,TICA,1C5AE7E6-ED1E-4436-B70D-DB6A1AA1E064,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 72","","72","",
+gcc-75542,A,Compositae,,Pilosella,,"rhodantha",,"","(Fr.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,202C6B0B-9B6A-471E-9688-62A93414234F,238282-1,"Flora 45(27): 425. 1862 [5 Sep 1862]","","425","1862",
+gcc-155101,A,Compositae,,Pilosella,,"rhodopea",,"","(Griseb.) Szeląg",Unresolved,,L,TICA,7EDBBE2E-F18E-43C2-9902-D108D3B417BD,77092703-1,"Szeląg in Ann. Bot. Fenn. 45. 2008","","302","2008",
+gcc-6892,A,Compositae,,Pilosella,,"rhyponta",,"","Norrl.",Unresolved,,L,TICA,F22DFC54-CF80-42B2-99ED-0CCDF76D01ED,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 54","","54","",
+tro-50131247,A,Brassicaceae,,Pilosella,,"richardsonii",,"","Rydb.",Synonym,,M,TRO,50131247,196654-2,"Torreya","7(8): 159–160","159","1907",tro-4100080
+gcc-93207,A,Compositae,,Pilosella,,"ricoana",,"","Mateo",Accepted,,M,TICA,892A4A4B-C015-42A5-8ED4-8A3CD7C5C5E3,77080383-1,"","","3","2006",
+gcc-77113,A,Compositae,,Pilosella,,"rojowskii",,"","(Rehmann) Schljakov",Synonym,,M,TICA,43FFEEE8-1D34-4DF3-8323-66253E1C73E1,,"","","334","1989",gcc-152263
+gcc-84647,A,Compositae,,Pilosella,,"rosea",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,8B32A7CF-C263-49D8-9974-76FB676990B5,238284-1,"Flora 45: 437","","437","1862",
+gcc-111754,A,Compositae,,Pilosella,,"rothiana",,"","(Wallr.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,6EC1A7CF-F139-4B3E-9C08-B3D5B05670DC,238285-1,"","","431","1862",
+gcc-146562,A,Compositae,,Pilosella,,"rothiana",subsp.,"rothiana","",Synonym,,L,TICA,637C2709-1868-4BFE-ACAE-1B05A0034893,,"","","","",gcc-111754
+gcc-132901,A,Compositae,,Pilosella,,"roxolanica",,"","(Rehmann) Arv.-Touv.",Synonym,,M,TICA,DB9F354C-AD08-4683-9DB0-E45273CDF0CA,,"","","281","1880",gcc-8224
+gcc-77255,A,Compositae,,Pilosella,,"roxolanica",,"","(Rehm.) Soják",Synonym,,M,TICA,2AEB515B-7C0F-4F43-910E-667B945241A7,238286-1,"Preslia 43(2): 185 (1971).","","185","1971",gcc-8224
+gcc-142770,A,Compositae,,Pilosella,,"rubra",,"","(Peter) Soják",Accepted,,M,TICA,72285D56-7E47-4AF6-B72A-FA631D748B01,238287-1,"","","184","1971",
+gcc-104823,A,Compositae,,Pilosella,,"rubripilosella",,"","(Gus.Schneid.) Soják",Synonym,,M,TICA,568FD43B-C89B-4651-942E-A4473FBB5962,,"","","184","1971",gcc-117119
+gcc-45792,A,Compositae,,Pilosella,,"rubrobauhinii",,"","(Schelk. & Zahn) Sennikov",Synonym,,M,TICA,9E0CDA2B-3303-4FB6-8F9A-54E89A71FE27,1009374-1,"Sennikov in Bot. Žurn. 83(3). 1998","","69","1998",gcc-60867
+gcc-126656,A,Compositae,,Pilosella,,"ruprechtii",,"","(Boiss.) Dostál",Synonym,,M,TICA,059CE5C1-3EBA-4131-8C33-D5C9C4B5D979,914432-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 14 (1984):.""","","14","1984",gcc-45735
+gcc-134047,A,Compositae,,Pilosella,,"ruprechtii",,"","(Boiss.) P.D.Sell & C.West",Accepted,,M,TICA,75E8C6FD-EE0D-4512-8297-E6F2FB6B1E26,238289-1,"","","433","1975",
+tro-2731201,A,Compositae,,Pilosella,×,"ruprechtii",,"","P.D. Sell & C. West",Synonym,,L,TRO,2731201,,"","","","",tro-2731268
+gcc-17962,A,Compositae,,Pilosella,,"sabina",,"","(Sebast.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,E6AE890D-F62D-4488-A46A-2132A608E4B1,238290-1,"F. W. Schultz & Sch. Bip. in Flora 45. 1862","","430","1862",
+gcc-4297,A,Compositae,,Pilosella,,"sabinopsis",,"","(Ganesch. & Zahn) Tupitz.",Unresolved,,L,TICA,8DD5FDB9-A18C-4E39-A6EA-07FB8E4AF413,1009539-1,"""in Fl. Sibir. (Asterac.), 13: 352 (1997 publ. 1998):.""","","352","1998",
+gcc-25924,A,Compositae,,Pilosella,,"saelani",,"","Norrl.",Unresolved,,L,TICA,3DFA2099-1C59-4D0E-974A-2FE60ADC8C1E,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 121","","121","",
+gcc-44414,A,Compositae,,Pilosella,,"saeva",,"","(Rehmann) Schljakov",Synonym,,M,TICA,EC993551-AA1F-466F-9CB4-524A8E7F2597,,"","","343","1989",gcc-10440
+gcc-143804,A,Compositae,,Pilosella,,"salebrata",,"","Norrl.",Unresolved,,L,TICA,EA8552BE-973C-4505-A1F2-FCB2A13820D9,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 9","","9","",
+gcc-140500,A,Compositae,,Pilosella,,"salebrosa",,"","Norrl.",Unresolved,,L,TICA,0E5F9BD5-7481-4BAF-975F-F5320E176A7A,,"""Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 9, in syn.""","","9","",
+gcc-100280,A,Compositae,,Pilosella,,"salernicola",,"","(J.Vetter & Zahn) Soják",Accepted,,M,TICA,B392A801-B930-4292-AE25-9A42A9FCE595,,"","","139","1982",
+gcc-23954,A,Compositae,,Pilosella,,"samarica",,"","(Zahn) Schljakov",Synonym,,M,TICA,85D3AAA2-7A3D-4740-952E-2C462E2D4881,947441-1,"","","348","1989",gcc-138474
+gcc-108493,A,Compositae,,Pilosella,,"samokovensis",,"","(T.Georgiev & Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,FE48F533-B0B7-4DDB-A4D5-AC68FF8A3ED7,77083806-1,"","","136","2007",
+gcc-49067,A,Compositae,,Pilosella,,"sandrasica",,"","Hartvig & Strid",Synonym,,M,TICA,CFDCA418-E806-4BF4-88BF-5AE54E4E1AB3,,"","","309","1987",gcc-4618
+gcc-104567,A,Compositae,,Pilosella,,"sanii",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,235DEFE9-E930-4983-8F44-A3C7176F9391,947368-1,"","","332","1989",gcc-65162
+gcc-20411,A,Compositae,,Pilosella,,"saussureoides",,"","Arv.-Touv.",Accepted,,M,TICA,71DAB48A-7A40-43C0-AD68-25C232103CD9,,"""Arv.-Touv., Monogr. Pilosella & Hieracium. 1873.""","","13","1873",
+gcc-111859,A,Compositae,,Pilosella,,"scabra",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,FC67050C-0D1F-4A68-9320-B41CD4E949D7,238294-1,"Flora 45: 439","","439","1862",
+gcc-50331,A,Compositae,,Pilosella,,"scandinavica",,"","(Dahlst.) Schljakov",Accepted,,M,TICA,0CC25C0A-EA22-41A4-BBE8-5D55392DDC9C,947468-1,"","","371","1989",
+gcc-141007,A,Compositae,,Pilosella,,"schelkownikowii",,"","(Zahn) Soják",Accepted,,M,TICA,757B1345-91A6-4D5C-BBE4-F661AAB893BC,238295-1,"","","218","1971",
+gcc-115629,A,Compositae,,Pilosella,,"schneidii",,"","(Schack & Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,A744B190-F5CC-43B8-88BB-BCA03717E780,77083807-1,"","","136","2007",
+gcc-43608,A,Compositae,,Pilosella,,"schultesii",,"","(F.W.Schultz) F.W.Schultz & Sch.Bip.",Accepted,,L,TICA,84BDE784-0952-4F17-B4CB-50D78F6C9DB8,,"","","432","1862",
+gcc-91848,A,Compositae,,Pilosella,,"schultesii",,"","(F.W.Schultz) F.W.Schultz & Sch.Bip. ex H.P.Fuchs",Unresolved,,L,TICA,698D5A70-2FAB-4CC6-B9FC-8754535B4F47,,"Feddes Repert. 90(9-10): 668 (1979 publ. 1980)","","668","1980",gcc-43608
+gcc-125367,A,Compositae,,Pilosella,,"sciadophora",,"","(Nägeli & Peter) Soják",Synonym,,M,TICA,E045BEA2-8F6B-4C66-B6E5-D2DDA216A9A2,238298-1,"","","185","1971",gcc-17345
+gcc-151719,A,Compositae,,Pilosella,,"sciadophora",subsp.,"sciadophora","",Synonym,,L,TICA,450A1E81-F756-4C2A-A08B-8AE536822DB8,,"","","","",gcc-17345
+gcc-93585,A,Compositae,,Pilosella,,"scotodes",,"","(Norrl.) Schljakov",Synonym,,L,TICA,9FFBCFB1-9655-4AAB-BFD9-8B05CC27B760,947424-1,"","","345","1989",gcc-95605
+gcc-112916,A,Compositae,,Pilosella,,"scouleri",,"","(Hook.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,0B56135C-F589-4586-B153-B6837400E152,238299-1,"Flora 45: 439","","439","1862",gcc-41376
+gcc-40421,A,Compositae,,Pilosella,,"sedelmeyeriana",,"","(Zahn) S.Bräut. & Greuter",Accepted,,M,TICA,2D899A7D-6BE2-4253-8EEC-4AE9DD1CEB4F,77083796-1,"","","136","2007",
+gcc-113143,A,Compositae,,Pilosella,,"sedutrix",,"","(Rehmann) Schljakov",Synonym,,M,TICA,7EA0555E-B9CC-440F-9860-B6FB4B265259,,"","","339","1989",gcc-152263
+gcc-79210,A,Compositae,,Pilosella,,"semiglabrata",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,C117ECB3-4A39-4A62-ABC7-6AF06EC93786,1154763-2,"","","436","1862",gcc-80687
+gcc-17073,A,Compositae,,Pilosella,,"semilitorea",,"","(Norrl.) Schljakov",Synonym,,L,TICA,CB3DB1F1-DAAD-4427-812A-1F93090B2A5A,947422-1,"","","344","1989",gcc-95605
+gcc-117260,A,Compositae,,Pilosella,,"septentrionalis",,"","Norrl.",Synonym,,M,TICA,96EE2BB9-E372-40F8-8510-C04069867F6B,,"","","147","",gcc-65162
+gcc-34659,A,Compositae,,Pilosella,,"septentrionalis",subsp.,"assimilata","Norrl.",Synonym,,L,TICA,DC956CD0-B63B-4CEC-A393-4040918FC550,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","147","1884 (Feb.-Jun.)",gcc-8407
+gcc-154709,A,Compositae,,Pilosella,,"septentrionalis",subsp.,"septentrionalis","",Synonym,,L,TICA,ACD0C09A-6C18-45D3-8E60-C962501111F7,,"","","","",gcc-65162
+gcc-146518,A,Compositae,,Pilosella,,"serbica",,"","(F.W.Schultz & Sch.Bip.) Szeląg",Unresolved,,L,TICA,A41ABE12-66E4-458A-A482-1A31D3D2014F,77092700-1,"Szeląg in Ann. Bot. Fenn. 45. 2008","","303","2008",
+gcc-137992,A,Compositae,,Pilosella,,"serpyllifolia",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,1E892F8F-4515-49AB-ABFF-EFA2BEE1CD5E,238302-1,"","","425","1862",gcc-49551
+gcc-142200,A,Compositae,,Pilosella,,"setifolia",,"","(Touton) S.Bräut. & Greuter",Accepted,,M,TICA,3774D863-AA85-4E1D-AFF9-F923CAED0B78,77083798-1,"","","136","2007",
+gcc-120056,A,Compositae,,Pilosella,,"setigera",,"","Fr.",Accepted,,M,TICA,CD779ADF-353D-40E1-ACD0-C69A923A4DE8,,"""Fr. in Fries & Lagger, Hierac. Eur. Exs. 1862-1865.""","","[in schedis] Pilosella No. 37","1862-1865",
+gcc-49590,A,Compositae,,Pilosella,,"setigera",,"","Arv.-Touv.",Unresolved,,L,TICA,B5FAC13C-B13F-4DCF-BE92-5BE8E7ABBA29,238303-1,"in Bull. Soc. Dauph. (1880) 281.","","281","1880",
+gcc-31317,A,Compositae,,Pilosella,,"setosopetiolata",,"","(Rehmann) Schljakov",Synonym,,M,TICA,528B9D14-150E-4AFA-888B-39FFEFA1CC9D,,"","","331","1989",gcc-65162
+gcc-29137,A,Compositae,,Pilosella,,"sigmoidea",,"","Norrl.",Unresolved,,L,TICA,9CC7502D-230F-48D0-AF61-35DA491079D5,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 63","","63","",
+gcc-139706,A,Compositae,,Pilosella,,"signifera",,"","Norrl.",Synonym,,L,TICA,E82C4C2A-4CDE-4F08-8FFF-F357002F2D9C,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 70","","","1895",gcc-95605
+gcc-141567,A,Compositae,,Pilosella,,"signifera",,"","(Norrl.) Schljakov",Synonym,,L,TICA,2BB7B727-77C2-4578-A68C-F7B0C663C524,,"""Schljakov in Cvelev, Fl. Evr. Casti SSSR 8. 1989.""","","344","1989",gcc-95605
+gcc-36184,A,Compositae,,Pilosella,,"sintenisii",,"","(Freyn) Soják",Accepted,,M,TICA,4E8D9DEA-919A-4166-BC2C-43189C0C2CFD,238306-1,"","","219","1971",
+tro-2731204,A,Compositae,,Pilosella,×,"sintenisii",,"","Soják",Synonym,,M,TRO,2731204,,"","","","",tro-2731306
+gcc-102705,A,Compositae,,Pilosella,,"smithii",,"","Arv.-Touv.",Synonym,,M,TICA,F0D9B2B3-B351-4559-8B47-9FB868FC427D,,"""Arv.-Touv., Monogr. Pilosella & Hieracium. 1873.""","","18","1873",gcc-150908
+gcc-16391,A,Compositae,,Pilosella,,"solacolui",,"","S.Bräut. & Greuter",Accepted,,M,TICA,C513BCDF-49D1-47DB-B7C3-1E4AC7C0BDB8,77083808-1,"","","136","2007",
+gcc-29220,A,Compositae,,Pilosella,×,"solacolui",,"","(Prodan ex Nyár.) Val.N.Tikhom.",Unresolved,,L,TICA,F929D21D-38E0-4F02-B3FB-36015D26D0F1,1018819-1,"Bot. Zhurn. (Moscow & Leningrad) 85(11): 113","","113","2000",
+gcc-345,A,Compositae,,Pilosella,×,"solacolui",,"","(Prodan ex Nyár.) Holub",Unresolved,,L,TICA,115D8D11-00C3-42CB-A9A9-009F10FECDC8,238307-1,"Folia Geobot. Phytotax. 12(3): 306","","306","1977",
+gcc-41073,A,Compositae,,Pilosella,,"soleiroliana",,"","(Arv.-Touv. & Briq.) S.Bräut. & Greuter",Accepted,,M,TICA,F6C6B06C-53DA-47AF-BF85-4C2111D7D1F4,77083799-1,"","","136","2007",
+gcc-99758,A,Compositae,,Pilosella,,"sororians",,"","(Norrl.) Schljakov",Synonym,,M,TICA,CB59B6F8-F365-42E7-A6F1-9910D39EA59F,947367-1,"","","332","1989",gcc-65162
+gcc-8694,A,Compositae,,Pilosella,,"sosnovskyi",,"","(Zahn) Sennikov",Accepted,,M,TICA,C6613441-B68D-4EAE-887F-103C4CA1C737,,"Bot. Zhurn. (1996)","","","1996",
+gcc-30820,A,Compositae,,Pilosella,,"sosnowskii",,"","(Zahn) Sennikov",Synonym,,M,TICA,06AB0EFA-9C06-419B-ACD4-390E27883B24,1009347-1,"","","79","1998",gcc-11898
+gcc-145141,A,Compositae,,Pilosella,,"sparsa",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,08AAA938-D7DE-4BDE-BA3B-FFC318182166,238308-1,"Flora 45: 428","","428","1862",
+gcc-118448,A,Compositae,,Pilosella,,"sparsipila",,"","Magnier.",Unresolved,,L,TICA,38FF837E-E3F8-4C80-A5B2-C2F60058D93A,238309-1,"cf. Bull. Soc. Bot. France 27(Rev. Bibliogr.): 170 (Quid ?)","","170","1880",
+gcc-7211,A,Compositae,,Pilosella,,"spathophyllopsis",,"","(Zahn) Schljakov",Synonym,,M,TICA,221FA91A-3B07-4401-A04C-0D69380E58EC,947365-1,"","","331","1989",gcc-65162
+gcc-75650,A,Compositae,,Pilosella,,"spathulata",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,6A697C19-0DD4-45B2-BE1C-62EC6F7DEFD7,,"Flora 45: 439","","","1862",gcc-7776
+gcc-139389,A,Compositae,,Pilosella,,"spathulifolia",,"","(Vuk.) Soják",Synonym,,M,TICA,494301A9-406E-44B3-97A0-F2A37430E556,238311-1,"","","217","1971",gcc-21783
+gcc-138971,A,Compositae,,Pilosella,,"sphacelata",,"","Norrl.",Synonym,,M,TICA,1EA69A5A-9E61-45F5-B98E-F1BCA6F59874,,"","","174","",gcc-129428
+gcc-100488,A,Compositae,,Pilosella,,"sphaerocephala",,"","(Rchb.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,14D23A78-0C3E-44D3-ABD8-9ABD8F6D0920,238313-1,"","","423","1862",gcc-88337
+gcc-151004,A,Compositae,,Pilosella,,"sphaerocephala",subsp.,"sphaerocephala","",Synonym,,L,TICA,C881E8A4-75C5-4F96-BFE2-7AE9FB8E9F36,,"","","","",gcc-88337
+gcc-97298,A,Compositae,,Pilosella,,"spuria",,"","(Chaix ex Froel.) Soják",Accepted,,L,TICA,9B1E1E66-CBE5-470F-8819-93864AF84943,,"""in Čas. Nár. Muz. (Prague), 150(3–4): 139 (1981 publ. 1982):""","","139","1982",
+gcc-106425,A,Compositae,,Pilosella,,"squarrosula",,"","Norrl.",Synonym,,L,TICA,F4E1FA57-46C4-4B03-A562-A7BF5827DC61,238314-1,"","","32","1895",gcc-43608
+gcc-13238,A,Compositae,,Pilosella,,"stellata",,"","(Tausch ex Zahn) Schljakov",Synonym,,M,TICA,7CD3B356-0F3D-4FE3-A736-18AB9A45AB13,947369-1,"","","332","1989",gcc-65162
+gcc-90909,A,Compositae,,Pilosella,,"stemmatina",,"","Norrl.",Unresolved,,L,TICA,F3AF0329-5FCA-441A-93E0-8523AEAD7D08,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 61","","61","",
+tro-50129202,A,Brassicaceae,,Pilosella,,"stenocarpa",,"","Rydb.",Synonym,,M,TRO,50129202,196656-2,"Torreya","7(8): 161","161","1907",kew-2606818
+gcc-4182,A,Compositae,,Pilosella,,"stenomera",,"","Norrl.",Unresolved,,L,TICA,F041ACDE-5B14-4574-9035-07C903841080,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 57","","57","",
+gcc-130556,A,Compositae,,Pilosella,,"stenosoma",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,6831E0C5-C6BF-4479-8AD0-DED42461CFF4,238317-1,"","","185","1971",
+gcc-157222,A,Compositae,,Pilosella,,"stenosoma",subsp.,"stenosoma","",Synonym,,L,TICA,25ACA189-2744-4A9C-A98A-FD9B412FF9D4,,"","","","",gcc-130556
+gcc-134180,A,Compositae,,Pilosella,,"sterrochaetia",,"","(Nägeli & Peter) S.Bräut. & Greuter",Unresolved,,L,TICA,087456B8-F797-4647-9D5C-E7317DCABB65,77083809-1,"Willdenowia 37(1): 136","","136","2007",
+gcc-5943,A,Compositae,,Pilosella,,"sterrochaetia",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,F1CA9CF5-6A17-4AD8-B176-0B0E03107656,238318-1,"","","218","1971",
+gcc-100771,A,Compositae,,Pilosella,,"stolonifera",,"","F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,9EE87913-1969-4161-B6A9-9B5FE498508F,238319-1,"Flora 45: 423","","423","1862",
+gcc-156455,A,Compositae,,Pilosella,,"stolonifera",subsp.,"stolonifera","",Synonym,,L,TICA,6C230EAD-FDA0-476E-8879-ED654664E2EF,,"","","","",gcc-100771
+gcc-117119,A,Compositae,,Pilosella,,"stoloniflora",,"","(Waldst. & Kit.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,ADBDDD94-1EF0-4C4F-8EFA-BFEEA91583A8,238320-1,"","","423","1862",
+gcc-70072,A,Compositae,,Pilosella,,"stoloniflora",subsp.,"schuriana","(Nägeli & Peter) Soják",Synonym,,L,TICA,2AA268A6-29AB-496E-B395-EB40690D3858,,"","","43","1972",gcc-117119
+gcc-154602,A,Compositae,,Pilosella,,"stoloniflora",subsp.,"stoloniflora","",Synonym,,L,TICA,0CE418F1-58F8-4062-A4D9-C717765C5488,,"","","","",gcc-117119
+gcc-89919,A,Compositae,,Pilosella,,"straminea",,"","Norrl.",Unresolved,,L,TICA,7D01ED49-2FDA-46B8-9F1F-82D267BA612E,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 61","","61","",
+gcc-89856,A,Compositae,,Pilosella,,"strigosa",,"","(D.Don) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,CD9FF2C3-9C85-4E25-AA8C-82B1CADCC80D,238322-1,"Flora 45","","436","1862",gcc-101869
+gcc-113350,A,Compositae,,Pilosella,,"stuposa",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,L,TICA,97477545-B5CD-49DA-8F44-B7728DB9691B,238323-1,"Flora 45","","435","1862",gcc-137219
+gcc-29785,A,Compositae,,Pilosella,,"stupposipila",,"","(Woronow & Zahn) Sennikov",Synonym,,M,TICA,3541AD2E-6F88-4D05-86CF-371359C6478A,1009375-1,"","","70","1998",gcc-131397
+gcc-42256,A,Compositae,,Pilosella,,"subaurantiaca",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,516EC5FD-62E8-4E39-9FB0-4E46643D5674,947451-1,"","","353","1989",gcc-129064
+gcc-3424,A,Compositae,,Pilosella,,"subcurvescens",,"","Norrl.",Unresolved,,L,TICA,115CC91B-488B-426D-8178-064FA06861D4,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 69","","69","",
+gcc-140438,A,Compositae,,Pilosella,,"subcymiflora",,"","(Oborny & Zahn) Soják",Synonym,,M,TICA,E0D6D347-BD8D-4F13-971B-F5031ED88E87,238325-1,"","","186","1971",gcc-141004
+gcc-148089,A,Compositae,,Pilosella,,"subcymiflora",subsp.,"subcymiflora","",Synonym,,L,TICA,A27CCA5B-DEC1-43D2-94D9-3B5E00508714,,"","","","",gcc-141004
+gcc-27299,A,Compositae,,Pilosella,,"subcymigera",,"","(Peter) Soják",Synonym,,M,TICA,A9FB4B11-3623-49FE-9FD6-327DD673F545,238326-1,"""Preslia 43, 2 : 185 (1971)""","","185","1971",gcc-65162
+gcc-70898,A,Compositae,,Pilosella,,"subcymigera",subsp.,"canipeduncula","(Nägeli & Peter) Soják",Synonym,,L,TICA,6C3A4B9C-C059-43C7-82A3-F1D018C86683,,"","","51","1972",gcc-65162
+gcc-145295,A,Compositae,,Pilosella,,"subcymigera",subsp.,"subcymigera","",Synonym,,L,TICA,74A71929-C3C5-47D8-95F3-0156BD4D834A,,"","","","",gcc-65162
+gcc-1204,A,Compositae,,Pilosella,,"subdecolorans",,"","(Norrl.) S.Bräut. & Greuter",Accepted,,M,TICA,DCD27257-FFDE-48BD-A956-02326AF34EF9,77083800-1,"","","136","2007",
+gcc-2653,A,Compositae,,Pilosella,,"subfilifera",,"","(Zahn) Schljakov",Synonym,,M,TICA,4BA74CF4-3C19-4ED9-9B31-04E0946D1517,947406-1,"","","340","1989",gcc-10440
+gcc-121989,A,Compositae,,Pilosella,,"subfuscata",,"","Norrl.",Unresolved,,L,TICA,5F06B8D7-4288-45DF-AAD4-CB0483A3C5E7,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 61","","61","",
+gcc-43198,A,Compositae,,Pilosella,,"submacrolepis",,"","Schljakov",Synonym,,M,TICA,90E6BB35-8A45-45E1-9020-500DC65C7ABA,941225-1,"","","356","1989",gcc-28960
+gcc-81873,A,Compositae,,Pilosella,,"subprasinata",,"","Norrl.",Unresolved,,L,TICA,6C8C84E1-BEA9-4358-BA42-70C4DE793D86,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 21","","21","",
+gcc-28686,A,Compositae,,Pilosella,,"subpratensis",,"","Norrl.",Synonym,,M,TICA,F79490A2-0213-4FB2-9AAD-3504B488EFC7,238329-1,"","","102","1884 (Feb.-Jun.)",gcc-8407
+gcc-88575,A,Compositae,,Pilosella,,"subpubens",,"","Norrl.",Synonym,,M,TICA,6B07EE66-F815-451A-9BF4-7FBBCD57CE6B,238330-1,"","","43","1895",gcc-8407
+gcc-8164,A,Compositae,,Pilosella,,"subrubella",,"","(Schelk. & Zahn) Sennikov",Synonym,,M,TICA,EDBC2332-3DAA-4B04-A102-0F30C4553DE2,1009377-1,"","","71","1998",gcc-45041
+gcc-24103,A,Compositae,,Pilosella,,"subrubens",,"","Arv.-Touv.",Accepted,,M,TICA,B2BBF29A-527F-4E04-B5D4-2C8A1E449BC3,,"""Arv.-Touv., Monogr. Pilosella & Hieracium. 1873.""","","16","1873",
+gcc-33017,A,Compositae,,Pilosella,,"substolonifera",,"","(Peter) Soják",Synonym,,M,TICA,A967EBCD-1CD9-44B3-AD78-3D3822C5D6E0,,"","","","",gcc-10440
+gcc-117852,A,Compositae,,Pilosella,,"substoloniflora",,"","(Peter) Soják",Accepted,,M,TICA,CD399C12-DC79-4A2C-8DAE-C1980EA8EED8,238331-1,"","","218","1971",
+gcc-7954,A,Compositae,,Pilosella,,"subswirensis",,"","Norrl.",Unresolved,,L,TICA,118121C4-EC68-460D-9E53-0ECA5017917A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 45","","45","",
+gcc-8146,A,Compositae,,Pilosella,,"subtardans",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,AFA38C04-403F-4946-A5C4-0F27BD4DBB57,238333-1,"","","217","1971",
+gcc-1001,A,Compositae,,Pilosella,,"subulatissima",,"","(Zahn) Mateo",Accepted,,M,TICA,E2ECD94C-14A0-4AD6-AFA3-01D76BA21AE0,70029274-1,"","","68","1997",
+gcc-110453,A,Compositae,,Pilosella,,"suburnigera",,"","Norrl.",Unresolved,,L,TICA,EF0AEC66-C9D0-4E3F-A188-B0ECB4D0CADD,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 19","","19","",
+gcc-102119,A,Compositae,,Pilosella,,"suchonensis",,"","(Norrl.) Schljakov",Synonym,,M,TICA,51650706-273B-4DE1-ADEE-9E5593926EC7,947438-1,"","","347","1989",gcc-138474
+gcc-102642,A,Compositae,,Pilosella,,"sudetorum",,"","(Peter) Dostál",Synonym,,M,TICA,36D9BE52-0CA2-431B-88DF-9F984913AC6A,914433-1,"","","15","1984",gcc-79741
+gcc-99410,A,Compositae,,Pilosella,,"suecica",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,C7E0A42B-86EC-4728-A31B-984E74E770EA,238335-1,"","","425","1862",gcc-8407
+gcc-56187,A,Compositae,,Pilosella,,"suecica",subsp.,"brachycephala","Norrl.",Synonym,,L,TICA,4432131F-D1BA-4617-8D67-7C6B754D4B0D,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","97","1884 (Feb.-Jun.)",gcc-8407
+gcc-56362,A,Compositae,,Pilosella,,"suecica",subsp.,"cochlearis","Norrl.",Synonym,,L,TICA,BDE38FD2-985F-4B83-B964-7DD37C90DE14,,"Norrl. in Acta Soc. Fauna Fl. Fenn. 2(4). 1884 (Feb.-Jun.).","","173","1884 (Feb.-Jun.)",gcc-111526
+gcc-155623,A,Compositae,,Pilosella,,"suecica",subsp.,"suecica","",Synonym,,L,TICA,C58CB686-C3AA-4674-B1A8-DC097D04D5A0,,"","","","",gcc-8407
+gcc-136991,A,Compositae,,Pilosella,,"suivalensis",,"","Norrl.",Unresolved,,L,TICA,ED3F7F64-44B3-4BBE-8132-ED73DA0C11C6,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 84","","84","",
+gcc-112983,A,Compositae,,Pilosella,,"sulphurea",,"","(Döll) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,C489CFF8-89AB-41BC-B872-B6A32D331BA2,,"","","432","1862",
+gcc-155897,A,Compositae,,Pilosella,,"sulphurea",subsp.,"sulphurea","",Synonym,,L,TICA,4802A26B-60C0-4772-BC7B-E20A0FBF1802,,"","","","",gcc-112983
+gcc-10481,A,Compositae,,Pilosella,,"suomensis",,"","Norrl.",Synonym,,M,TICA,0330011F-6617-4075-BD96-138D7645814B,,"","","163","",gcc-138474
+gcc-92024,A,Compositae,,Pilosella,,"suprafloccosa",,"","(Nägeli & Peter) Holub",Synonym,,M,TICA,DD876634-CA05-4064-983A-87B02B1D5C94,,"","","306","1977",gcc-130556
+gcc-140424,A,Compositae,,Pilosella,,"swirensis",,"","Norrl.",Synonym,,M,TICA,1C523B03-6FB5-498A-9F6A-F4FD1D9FAD47,,"""Norrl., Herb. Pilos. Fenn. 2. 1894.""","","[in schedis] No. 168","1894",gcc-8407
+gcc-138622,A,Compositae,,Pilosella,,"syrjaenorum",,"","Norrl.",Synonym,,L,TICA,80B883BB-3C42-46E3-8B76-F0FF38CB7E5E,238340-1,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 74","","74","1895",gcc-95605
+gcc-46239,A,Compositae,,Pilosella,,"syrjaenorum",,"","(Zahn) Üksip",Synonym,,L,TICA,C87DB0E2-EDA9-4C96-9DD6-55B30B342172,,"""Üksip in Komarov, Fl. SSSR 30. 1960.""","","547","1960",gcc-95605
+gcc-78762,A,Compositae,,Pilosella,,"syrjaenorum",,"","(Zahn) Schljakov",Synonym,,L,TICA,CE05A7F7-0E82-4696-BCB8-69E5FE226EE7,,"""Schljakov in Cvelev, Fl. Evr. Casti SSSR 8. 1989.""","","344","1989",gcc-95605
+gcc-95988,A,Compositae,,Pilosella,,"sysolskiensis",,"","(Zahn) Schljakov",Synonym,,M,TICA,8EC8A1D9-5998-4FA4-9A64-90970551D6C0,947467-1,"","","368","1989",gcc-100924
+gcc-30347,A,Compositae,,Pilosella,,"tabergensis",,"","(Dahlst.) Schljakov",Synonym,,L,TICA,DBD2DCF9-C004-4072-99B1-38225BB58FC5,947427-1,"","","345","1989",gcc-95605
+gcc-94872,A,Compositae,,Pilosella,,"taeniarum",,"","Norrl.",Unresolved,,L,TICA,78E131D9-8FF5-47EA-AC49-8E063D659B1D,,"""Acta Soc. Fauna Fl. Fenn. xii. No. 4, 17 (1895), in obs.""","","17","",
+gcc-17546,A,Compositae,,Pilosella,,"tardans",,"","(Peter) Soják",Accepted,,M,TICA,10556920-5216-46B7-B733-2063C1F59B4C,238342-1,"","","217","1971",
+gcc-141442,A,Compositae,,Pilosella,,"tardiuscula",,"","(Peter) Soják",Accepted,,M,TICA,099ECD11-CECB-4B9C-B271-F770692D2A80,238343-1,"","","217","1971",
+gcc-33904,A,Compositae,,Pilosella,,"tenacicaulis",,"","(Norrl.) Schljakov",Synonym,,L,TICA,BB82E054-B89B-43E3-949E-3EDCA1BE1E32,947429-1,"","","345","1989",gcc-95605
+gcc-31572,A,Compositae,,Pilosella,,"tendina",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,0F38441A-0148-462A-B1B1-3A878253F50C,238344-1,"","","218","1971",
+gcc-134392,A,Compositae,,Pilosella,,"tenebricans",,"","(Norrl.) Schljakov",Synonym,,M,TICA,673F90E0-77FC-49FF-84C7-E7B94C28C1E6,947373-1,"","","333","1989",gcc-65162
+gcc-29260,A,Compositae,,Pilosella,,"tenebricans",,"","Norrl.",Unresolved,,L,TICA,D6F29808-BC32-4476-A227-361423DC0D5A,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 55","","55","",
+gcc-78508,A,Compositae,,Pilosella,,"tenerescens",,"","Norrl.",Unresolved,,L,TICA,91FFF2AA-5614-4A53-8DDF-69513274CF7D,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 64","","64","",
+gcc-80862,A,Compositae,,Pilosella,,"tenoreana",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,23058C01-6B81-4B88-8B66-6E87B7EAF546,238347-1,"Flora 45: 422","","422","1862",
+gcc-87188,A,Compositae,,Pilosella,,"tenuilingua",,"","Norrl.",Unresolved,,L,TICA,1F018ABE-D2EF-4344-B70F-7CB5015E6369,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 75","","75","",
+gcc-85265,A,Compositae,,Pilosella,,"tenuirhiza",,"","Norrl.",Unresolved,,L,TICA,3CC22998-DA48-417C-A1ED-7852A3EE88BA,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 3","","3","",
+gcc-45041,A,Compositae,,Pilosella,,"tephrocephala",,"","(Vuk.) Soják",Accepted,,M,TICA,8B947B39-BEAF-4F94-BC7F-5376C624CDC2,238350-1,"","","218","1971",
+gcc-31475,A,Compositae,,Pilosella,×,"tephrochlorella",,"","(Ganesch. & Zahn) Tupitz.",Unresolved,,L,TICA,CBB07A0E-20E3-474A-A6E1-3A5483119D36,1009540-1,"""in Fl. Sibir. (Asterac.), 13: 353 (1997 publ. 1998):.""","","353","1998",
+gcc-105141,A,Compositae,,Pilosella,,"tephrodes",,"","(Nägeli & Peter) S.Bräut. & Greuter",Accepted,,M,TICA,F57FE02D-1A7B-4292-A685-A4FD79207C71,77083801-1,"","","136","2007",
+gcc-137712,A,Compositae,,Pilosella,,"tephrodes",,"","(Nägeli & Peter) Soják",Unresolved,,L,TICA,0E96249D-1DBF-4090-8BAF-EF0CD74F194C,238172-1,"","","","",
+gcc-128110,A,Compositae,,Pilosella,,"tephroglauca",,"","(Nägeli & Peter) Soják",Accepted,,M,TICA,C146C9CE-ED8F-4204-8790-D93DC1D387DE,238351-1,"","","185","1971",
+gcc-153443,A,Compositae,,Pilosella,,"tephroglauca",subsp.,"tephroglauca","",Synonym,,L,TICA,F82126CB-DC0C-4AC2-A34F-AEA8109ED5F7,,"","","","",gcc-128110
+gcc-33744,A,Compositae,,Pilosella,,"tephrophyton",,"","(Oborny & Zahn) Soják",Accepted,,M,TICA,371CB722-D8FE-416F-A8EA-3E89E1FF748A,238352-1,"","","185","1971",
+kew-2411718,A,Brassicaceae,,Pilosella,,"thaliana",,"","(L.) Kostel.",Synonym,,M,WCSP (in review),,288156-1,"Ind. Hort. Bot. Prag.","104","","1844",kew-2645262
+gcc-107927,A,Compositae,,Pilosella,,"thaumasia",,"","(Peter) Dostál",Synonym,,M,TICA,6B534A6C-B399-4916-8088-AB3622D4AFB3,914434-1,"","","15","1984",gcc-152263
+gcc-39076,A,Compositae,,Pilosella,,"thaumasioides",,"","(Peter) Schljakov",Synonym,,M,TICA,BDC9AE4D-B8D5-478C-B484-4880D325BE16,947389-1,"","","336","1989",gcc-152263
+gcc-90434,A,Compositae,,Pilosella,,"thedenii",,"","Norrl.",Unresolved,,L,TICA,2C87066D-DE7E-45DE-AD22-83FBA6419B58,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 31","","31","",
+gcc-143090,A,Compositae,,Pilosella,,"thyrsoidea",,"","(Fr.) F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,7497BA3D-E0D8-4332-A9EF-FB1EFEC1C041,,"Flora 45","","437","1862",gcc-101869
+gcc-105914,A,Compositae,,Pilosella,,"tinctilingua",,"","(Zahn) Soják",Accepted,,M,TICA,10D78CCA-6F45-49C1-9D53-A6A38D508C32,238355-1,"","","218","1971",
+gcc-129974,A,Compositae,,Pilosella,,"tjapomensis",,"","(Norrl.) Schljakov",Synonym,,M,TICA,C13D14DC-D227-4820-9633-DD7FB1E97574,944883-1,"","","389","1987",gcc-46656
+gcc-117695,A,Compositae,,Pilosella,,"tjumentzevii",,"","(Serg. & Üksip) Tupitz.",Unresolved,,L,TICA,276619E9-3A60-4D0C-AD4E-C13D6B810B9E,1009534-1,"""in Fl. Sibir. (Asterac.), 13: 342 (1997 publ. 1998):""","","342","1998",gcc-99943
+gcc-47796,A,Compositae,,Pilosella,,"tovarense",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,0E3D8DB9-E60C-42BC-A4D4-588C16841A2C,238356-1,"Flora 45: 437","","437","1862",
+gcc-110488,A,Compositae,,Pilosella,,"tremedalis",,"","Mateo",Accepted,,M,TICA,D62A4A10-537E-4185-B9F9-B0FE3B4ED72E,940038-1,"","","155","1990",
+gcc-151470,A,Compositae,,Pilosella,,"tremedalis",subsp.,"caballeroi","Mateo",Synonym,,L,TICA,AE6E87CE-234F-478B-BA46-85187F3D4A50,991342-1,"","","31","1996",gcc-42613
+gcc-150177,A,Compositae,,Pilosella,,"tremedalis",subsp.,"tremedalis","",Synonym,,L,TICA,114D50CB-E047-4EAC-A97A-68C03CC680E4,,"","","","",gcc-110488
+gcc-3733,A,Compositae,,Pilosella,,"tremipes",,"","Norrl.",Synonym,,M,TICA,E1BB28B4-5FE1-41CA-BCF6-06EC81863C52,238357-1,"","","7","1895",gcc-132838
+gcc-124845,A,Compositae,,Pilosella,,"tricheilema",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,71528C9E-018D-46B8-9A56-D1A4D049EC4C,947458-1,"","","355","1989",gcc-31140
+gcc-106081,A,Compositae,,Pilosella,,"trichocymosa",,"","(Zahn) Schljakov",Synonym,,L,TICA,65902B35-C890-49BD-B98B-A6FF03463225,947423-1,"","","344","1989",gcc-95605
+gcc-124417,A,Compositae,,Pilosella,,"trichocymosoides",,"","(Üksip) Schljakov",Synonym,,M,TICA,F2FA8CCC-EAB2-464A-8261-D0A4B3E74F32,947436-1,"","","347","1989",gcc-138474
+gcc-97638,A,Compositae,,Pilosella,,"trichodonta",,"","Sch.Bip.",Synonym,,M,TICA,8B962939-C20C-44AA-ADC2-945A2CD2263E,325006-2,"Linnaea 33","","761","1865",gcc-86376
+gcc-72735,A,Compositae,,Pilosella,,"trichodonta",f.,"major","Sch.Bip.",Synonym,,L,TICA,0758DA58-3744-419E-96AF-00F5BDF36429,196657-2,"Linnaea 33: 762. 1865","","762","1865",gcc-86376
+gcc-75198,A,Compositae,,Pilosella,,"trichodonta",f.,"minor","Sch.Bip.",Synonym,,L,TICA,D2F86FC3-5E87-41F5-B83C-5CB7187D04F6,196658-2,"Linnaea 33: 762. 1865","","762","1865",gcc-86376
+gcc-153471,A,Compositae,,Pilosella,,"trichodonta",f.,"trichodonta","",Synonym,,L,TICA,E704309A-278F-45DF-AE7F-AF26284D2CC1,,"","","","",gcc-86376
+gcc-1977,A,Compositae,,Pilosella,,"tricholepia",,"","(Nägeli & Peter) Mateo",Unresolved,,L,TICA,280B1CC6-98C7-4FA4-AD1F-03928B4BD849,77073436-1,"Flora Montiber. 32: 69","","69","2006",
+gcc-95607,A,Compositae,,Pilosella,,"tricholepia",,"","(Nägeli & Peter) Dostál",Synonym,,M,TICA,8B3226D8-0D0F-419B-A544-8FB99FA5EDA0,,"","","14","1984",gcc-25499
+gcc-114034,A,Compositae,,Pilosella,,"trichoscapa",,"","(Nägeli & Peter) Dostál",Unresolved,,L,TICA,8FFD0683-3B5E-48B6-939B-B8EE521EDBF2,914436-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 14 (1984):.""","","14","1984",
+gcc-79783,A,Compositae,,Pilosella,,"trigenes",,"","(Peter) Soják",Accepted,,M,TICA,9D200EB1-0CE2-4B6B-AD95-6C2ABB24E491,,"","","139","1982",
+gcc-97656,A,Compositae,,Pilosella,,"triplex",,"","(Peter) Soják",Accepted,,M,TICA,7C5B6096-298B-47CC-938B-946588D10C77,238359-1,"","","218","1971",
+gcc-107468,A,Compositae,,Pilosella,,"tristis",,"","(Willd. ex Spreng.) F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,2796406E-6F5B-4E2D-864B-AA1E5B8C4DA5,238360-1,"Flora 45: 439","","439","1862",gcc-136771
+gcc-29630,A,Compositae,,Pilosella,,"trochocnemia",,"","Norrl.",Unresolved,,L,TICA,679E2AC3-F900-4230-A893-36C583BBCD0E,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 14","","14","",
+gcc-42200,A,Compositae,,Pilosella,,"tubulascens",,"","Norrl.",Accepted,,M,TICA,864ABBCE-7621-4BDF-A943-4E300C5D177F,238362-1,"","","135","1884 (Feb.-Jun.)",
+gcc-153602,A,Compositae,,Pilosella,,"tubulascens",subsp.,"tubulascens","",Synonym,,L,TICA,AF954228-0E0A-4E20-A4C3-B1B218F8A952,,"","","","",gcc-42200
+gcc-89839,A,Compositae,,Pilosella,,"tubulata",,"","(Vollm.) Soják",Synonym,,M,TICA,5A23B3D7-1C56-4F85-ADCB-82A5BFD44D92,238363-1,"","","184","1971",gcc-117172
+gcc-154553,A,Compositae,,Pilosella,,"tubulata",subsp.,"tubulata","",Synonym,,L,TICA,EE20E08F-931A-40AE-B66D-C613ACD6D9AA,,"","","","",gcc-117172
+gcc-146608,A,Compositae,,Pilosella,,"ullepitschii",,"","(Błocki) Szeląg",Unresolved,,L,TICA,7BE0EA41-7E39-4872-9777-1C55D7F220D1,77092708-1,"Szeląg in Ann. Bot. Fenn. 45. 2008","","302","2008",
+gcc-143405,A,Compositae,,Pilosella,,"umbellata",,"","Nieuwl. & Lunell",Unresolved,,L,TICA,B9723136-59C5-44C2-8724-FBCFFA4123F4,196659-2,"","","34","1917",
+gcc-92682,A,Compositae,,Pilosella,,"unamunoi",,"","(C.Vicioso) Mateo",Accepted,,M,TICA,F388C405-59F9-418C-B557-8923903B8128,77073439-1,"","","66","2006",
+gcc-133650,A,Compositae,,Pilosella,,"urnigera",,"","Norrl.",Synonym,,M,TICA,9A98BA57-4989-4138-94A2-E5F7C397F8EE,,"","","76","",gcc-25499
+gcc-118741,A,Compositae,,Pilosella,,"urvillei",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,D1D0654E-2296-4AE7-8CA0-C3A39400DDD9,238366-1,"","","437","1862",
+gcc-88578,A,Compositae,,Pilosella,,"vahlii",,"","(Froel.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,33D64720-2FF2-4E67-9E65-7FBE2C8FDAD7,238367-1,"","","426","1862",
+gcc-64155,A,Compositae,,Pilosella,,"vahlii",subsp.,"pseudovahlii","(de Retz) Mateo",Synonym,,L,TICA,67F6EBAD-B811-4561-9D86-BC3E09132BE0,989044-1,"","","36","1996",gcc-143065
+gcc-154369,A,Compositae,,Pilosella,,"vahlii",subsp.,"vahlii","",Synonym,,L,TICA,96BECACE-2E50-4731-98A0-C223BF9942B8,,"","","","",gcc-88578
+gcc-138474,A,Compositae,,Pilosella,,"vaillantii",,"","(Tausch) Soják",Accepted,,M,TICA,798C239A-04EB-47D4-B428-F0AAACB22E97,238368-1,"Soják in Preslia 43. 1971","","184","1971",
+gcc-103813,A,Compositae,,Pilosella,,"valens",,"","Norrl.",Unresolved,,L,TICA,90EBA99E-94B4-4432-9D79-A212EBE51B21,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 8","","8","",
+gcc-10180,A,Compositae,,Pilosella,,"valsiana",,"","(Sarnth.) Soják",Unresolved,,L,TICA,81D7ED5F-4011-4497-A053-13084C1277B6,238370-1,"Folia Geobot. Phytotax. 6(2): 217","","217","1971",
+gcc-110365,A,Compositae,,Pilosella,,"vansoestii",,"","(de Retz) Mateo",Accepted,,M,TICA,B45A75E5-723F-4454-809A-B0B850E6A7A3,77073435-1,"","","67","2006",
+gcc-91182,A,Compositae,,Pilosella,,"varatinensis",,"","(Woł.) Schljakov",Synonym,,M,TICA,9626B393-9F7F-48F5-B28B-85C4976CFC8B,947401-1,"","","339","1989",gcc-152263
+gcc-27934,A,Compositae,,Pilosella,,"velutella",,"","(Nägeli & Peter) Soják",Unresolved,,L,TICA,C984AA7F-EB1B-41AE-8CE9-339C3DBB5FFC,238371-1,"Folia Geobot. Phytotax. 6(2): 217","","217","1971",
+gcc-128435,A,Compositae,,Pilosella,,"velutina",,"","(Hegetschw. ex Froelich) Dostál",Unresolved,,L,TICA,BED6D9B7-27AC-4F4B-8E4F-DA01330AE81D,914437-1,"""in Folia Mus. Rer. Nat. Bohem. Occid., Bot., 21: 15 (1984):.""","","15","1984",
+gcc-79978,A,Compositae,,Pilosella,,"velutina",,"","(Hegetschw.) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,84FFCCB7-084F-4B5B-B84A-6C950188C68E,238372-1,"F. W. Schultz & Sch. Bip. in Flora 45. 1862","","422","1862",
+gcc-38858,A,Compositae,,Pilosella,,"venosa",,"","F.W.Schultz & Sch.Bip.",Unresolved,,L,TICA,04A37D05-3A43-4547-A874-481599123870,238373-1,"Flora 45: 437","","437","1862",
+gcc-88091,A,Compositae,,Pilosella,,"ventricosa",,"","Norrl.",Unresolved,,L,TICA,049C7D23-476B-4A14-8FA5-7EA7D91FA5FE,,"Acta Soc. Fauna Fl. Fenn. ii. n. 4 (1884) 109","","109","",
+gcc-39562,A,Compositae,,Pilosella,,"vernicosa",,"","Norrl.",Synonym,,M,TICA,8E4676F3-6D76-460E-8D43-4969D344F298,,"","","123","",gcc-98450
+gcc-24977,A,Compositae,,Pilosella,,"verruculata",,"","(Link) Soják",Accepted,,M,TICA,014CA878-7BC9-4E72-A929-2E264DAF83D0,238376-1,"","","218","1971",
+gcc-11898,A,Compositae,,Pilosella,,"verruculata",subsp.,"akinfiewii","(Woronow & Zahn) S.Bräut. & Greuter",Accepted,,L,TICA,0A26F8E2-5876-4ED6-A9EE-162BC7EF90BB,77083802-1,"","","136","2007",
+gcc-6433,A,Compositae,,Pilosella,,"verruculata",subsp.,"verruculata","",Synonym,,L,TICA,8BA1150A-EF24-46AE-8408-0BF8062BD621,,"","","","",gcc-24977
+gcc-129355,A,Compositae,,Pilosella,,"versicolor",,"","Arv.-Touv.",Unresolved,,L,TICA,C483E65A-A77C-4713-A7A3-DC10A0009F37,238377-1,"in Bull. Soc. Dauph. (1880) 279.","","279","1880",
+gcc-15753,A,Compositae,,Pilosella,,"villarsii",,"","F.W.Schultz & Sch.Bip.",Synonym,,M,TICA,BF8C3DA4-015B-49B9-BDAC-1D2C554A5AA1,238378-1,"","","424","1862",gcc-112241
+gcc-7628,A,Compositae,,Pilosella,,"virentisquama",,"","(Nägeli & Peter) Sennikov",Synonym,,M,TICA,8A6DFFD7-EC8A-44FC-923E-0E2A5E88F261,1009378-1,"","","73","1998",gcc-34718
+tro-50129201,A,Brassicaceae,,Pilosella,,"virgata",,"","(Nutt.) Rydb.",Synonym,,M,TRO,50129201,196660-2,"Torreya","7(8): 160","160","1907",kew-2606818
+gcc-22942,A,Compositae,,Pilosella,,"viridicans",,"","Norrl.",Unresolved,,L,TICA,6E5E2B07-67FC-417F-84B4-2A77589A2171,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 11","","11","",
+gcc-21783,A,Compositae,,Pilosella,,"viridifolia",,"","(Peter) Holub",Accepted,,M,TICA,727A60C9-EE6F-49D6-826F-284E70E6FFBC,238380-1,"","","306","1977",
+gcc-149890,A,Compositae,,Pilosella,,"viridifolia",subsp.,"viridifolia","",Synonym,,L,TICA,57B379E2-7CB1-4372-8146-625EA1497304,,"","","","",gcc-21783
+gcc-80795,A,Compositae,,Pilosella,,"viridilivens",,"","Norrl.",Unresolved,,L,TICA,50C0F21A-E626-4B77-BD15-6E5CE05F4F65,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 27","","27","",
+gcc-89999,A,Compositae,,Pilosella,,"viscidula",,"","(Tausch) Schljakov",Synonym,,M,TICA,D09621A8-C542-4888-9089-8300AD688F7D,947404-1,"","","340","1989",gcc-152263
+gcc-108200,A,Compositae,,Pilosella,,"visianii",,"","F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,72F875ED-49BA-4814-9802-ABC5717775DD,238382-1,"","","424","1862",
+gcc-24419,A,Compositae,,Pilosella,,"vitilis",,"","Norrl.",Unresolved,,L,TICA,D611C811-61EB-4644-A8E7-2D157FF252C0,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 29","","29","",
+gcc-100793,A,Compositae,,Pilosella,,"volhynica",,"","(Nägeli & Peter) Schljakov",Synonym,,M,TICA,0492874F-61F2-4AA7-88C3-9B6CFFEED8FF,947414-1,"","","341","1989",gcc-10440
+gcc-119918,A,Compositae,,Pilosella,,"vulgaris",,"","Arv.-Touv.",Unresolved,,L,TICA,1AFD72FB-347A-4D6D-BA19-C647788A55DD,238384-1,"in Bull. Soc. Dauph. (1880) 278.","","278","1880",
+gcc-101631,A,Compositae,,Pilosella,,"vulpina",,"","(Rehmann) Schljakov",Synonym,,M,TICA,B119D2EA-2B48-4A4B-A5F4-9D335167F4B0,,"","","356","1989",gcc-41666
+gcc-31254,A,Compositae,,Pilosella,,"walteri-langii",,"","(Gottschl.) S.Bräut. & Greuter",Accepted,,M,TICA,384FEA63-5153-412B-8D49-39DFE2E4A32C,77083803-1,"","","136","2007",
+gcc-35837,A,Compositae,,Pilosella,,"winkleri",,"","(Nägeli & Peter) Mateo",Synonym,,M,TICA,CE251B68-1E31-4F80-9511-42726B2A6AEB,70029275-1,"","","69","1997",gcc-75533
+gcc-144583,A,Compositae,,Pilosella,,"wolfgangiana",,"","Arv.-Touv.",Unresolved,,L,TICA,9B646BEF-4142-4BEF-80C2-FE740AE5F533,238385-1,"in Bull. Soc. Dauph. (1880) 281.","","281","1880",
+gcc-43387,A,Compositae,,Pilosella,,"wolgensis",,"","(Zahn) Soják",Accepted,,M,TICA,B3ADF7CC-93B6-40E7-ABB9-50637347861C,238386-1,"","","219","1971",
+gcc-46426,A,Compositae,,Pilosella,,"woronowiana",,"","(Zahn) Soják",Accepted,,M,TICA,89F4FC97-2FED-4009-9637-560A3EDF5417,238387-1,"","","218","1971",
+gcc-120162,A,Compositae,,Pilosella,,"xanthostigma",,"","Norrl.",Unresolved,,L,TICA,F5D2988B-B3FF-4338-A0D1-C6DD39C5540E,,"Acta Soc. Fauna Fl. Fenn. xii. n. 4 (1895) 42","","42","",
+gcc-10877,A,Compositae,,Pilosella,,"ziziana",,"","(Tausch) F.W.Schultz & Sch.Bip.",Accepted,,M,TICA,62C496C7-2026-4D5D-A3AD-145C0C689644,238389-1,"","","430","1862",
+tro-2731211,A,Compositae,,Pilosella,×,"ziziana",,"","F.W. Schultz & Sch. Bip.",Synonym,,M,TRO,2731211,238389-1,"Flora","45: 430","430","1862",tro-2734211
+gcc-151157,A,Compositae,,Pilosella,,"ziziana",subsp.,"ziziana","",Synonym,,L,TICA,ABA91BFD-D55C-4CBC-92CA-7F01F15E8F59,,"","","","",gcc-10877

@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2631685,A,Picramniaceae,,Alvaradoa,,"amorphoides",,"","Liebm.",Accepted,,M,WCSP (in review),,781999-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","1853: 101","","1853",
+tro-50067494,A,Picramniaceae,,Alvaradoa,,"amorphoides",subsp.,"amorphoides","",Synonym,,L,TRO,50067494,,"","","","",kew-2631685
+kew-2631686,A,Picramniaceae,,Alvaradoa,,"amorphoides",subsp.,"psilophylla","(Urb.) Cronquist",Accepted,,L,WCSP (in review),,10500-2,"Brittonia","5: 135","","1944",
+kew-2631689,A,Picramniaceae,,Alvaradoa,,"arborescens",,"","Griseb.",Accepted,,M,WCSP (in review),,782000-1,"Cat. Pl. Cub.","50","","1866",
+kew-2631690,A,Picramniaceae,,Alvaradoa,,"haitiensis",,"","Urb.",Accepted,,M,WCSP (in review),,10503-2,"Symb. Antill.","5: 379","","1908",
+kew-2631691,A,Picramniaceae,,Alvaradoa,,"jamaicensis",,"","Benth.",Accepted,,M,WCSP (in review),,782001-1,"Pl. Hartw.","344","","1857",
+kew-2631692,A,Picramniaceae,,Alvaradoa,,"lewisii",,"","R.A.Howard & Proctor",Accepted,,M,WCSP (in review),,10504-2,"J. Arnold Arbor.","39: 102","","1958",
+kew-2631693,A,Picramniaceae,,Alvaradoa,,"mexicana",,"","Liebm. ex Benth.",Unresolved,,L,WCSP (in review),,782002-1,"Pl. Hartw.","344","","1857",
+kew-2631694,A,Picramniaceae,,Alvaradoa,,"psilophylla",,"","Urb.",Unresolved,,L,WCSP (in review),,10505-2,"Repert. Spec. Nov. Regni Veg.","20: 304","","1924",kew-2631686
+kew-2631695,A,Picramniaceae,,Alvaradoa,,"puberulenta",,"","(Monach.) Sleumer",Unresolved,,L,WCSP (in review),,10506-2,"Lilloa","26: 170","","1953",
+kew-2631696,A,Picramniaceae,,Alvaradoa,,"subovata",,"","Cronquist",Accepted,,M,WCSP (in review),,10507-2,"Brittonia","5: 134","","1944",
+kew-2631697,A,Picramniaceae,,Alvaradoa,,"subovata",var.,"puberulenta","(Monach.) Cronquist",Synonym,,L,WCSP (in review),,10508-2,"Brittonia","5: 134","","1944",kew-2631696
+kew-2631698,A,Picramniaceae,,Alvaradoa,,"subovata",var.,"typica","Cronquist",Synonym,Invalid,L,WCSP (in review),,10509-2,"Brittonia","5: 134","","1944",kew-2631696

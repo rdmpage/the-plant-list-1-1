@@ -1,0 +1,123 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116799,A,Compositae,,Cosmos,,"artemisiifolius",,"","(Jacq.) M.R.Almeida",Synonym,,M,TICA,3B1CB847-BA5B-4071-A52F-BF419A1C34BD,20008451-1,"Fl. Maharashtra 3A","","93","2001",gcc-129696
+gcc-120464,A,Compositae,,Cosmos,,"atrosanguineus",,"","(Hook.) Voss",Accepted,,L,TICA,2A1A76A2-590E-45AD-B675-C79A4B382107,1088709-2,"""Vilm. Blumengärtn., ed. 3. 1: 485""","","485","1894",
+gcc-85272,A,Compositae,,Cosmos,,"atrosanguineus",,"","(Ortgies) Hemsl.",Unresolved,Illegitimate,L,TICA,F0491B41-9786-49D7-B2A4-785534C537A1,,"Biologia Centrali-Americana; . . . Botany . . . 2(9):","","199","1881",gcc-120464
+gcc-87012,A,Compositae,,Cosmos,,"atrosanguineus",,"","Stapf",Unresolved,,L,TICA,2EFC29D0-48F8-48E9-91F0-7C48518D5910,198317-1,"""Bot. Mag. 153: sub t. 9180, in obs.""","","9180","1929",
+gcc-35005,A,Compositae,,Cosmos,,"aurantiacus",,"","Klatt",Synonym,,M,TICA,8E1A6D56-4E7E-4F8C-BFEE-40E729AEC6E0,66737-2,"Leopoldina 25: 105. 1889.","","105","1889",gcc-129696
+gcc-23558,A,Compositae,,Cosmos,,"bipinnatus",,"","Cav.",Accepted,,M,TICA,6F8B5C14-8C93-4105-AE02-2B8FE4FD0957,103086-3,"Icon. 1","","","1791",
+gcc-22508,A,Compositae,,Cosmos,,"bipinnatus",var.,"albiflorus","Sprenger",Synonym,,L,TICA,6F105D07-BD99-49D7-8AAA-29A34B74B27F,66739-2,"","","356","1890",gcc-23558
+gcc-155196,A,Compositae,,Cosmos,,"bipinnatus",var.,"bipinnatus","",Synonym,,L,TICA,2CD309A7-4987-471C-BC45-D2EAB47BF9DD,,"","","","",gcc-23558
+gcc-46533,A,Compositae,,Cosmos,,"bipinnatus",var.,"exaristatus","DC.",Synonym,,L,TICA,8536A2B7-1E8D-41AB-9698-56365FD8ADE6,66740-2,"Prodr. 5","","606","1836",gcc-23558
+gcc-69558,A,Compositae,,Cosmos,,"bipinnatus",var.,"parviflorus","A.Gray",Synonym,,L,TICA,1C875DF8-FDE6-43A8-8BCB-E74ED142DC67,66741-2,"Smithsonian Contr. Knowl. 5(6)","","90","1853",gcc-113002
+gcc-45881,A,Compositae,,Cosmos,,"blakei",,"","Sherff",Synonym,,M,TICA,27FA4890-E18D-4902-A66D-550B5587CEF5,,"Bot. Gaz. 82","","","1926",gcc-10703
+gcc-41779,A,Compositae,,Cosmos,,"calvus",,"","(Sch.Bip. ex Miq.) Sherff",Synonym,,M,TICA,58914222-10E5-4E99-9110-4D5FA57438E6,66744-2,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","405","1932",gcc-100090
+gcc-82542,A,Compositae,,Cosmos,,"carvifolius",,"","Benth.",Accepted,,L,TICA,7D16DB35-F93B-4F35-9D79-724B515D32AF,198323-1,"","","117","1845",
+gcc-98345,A,Compositae,,Cosmos,,"caudatus",,"","Kunth",Accepted,,M,TICA,4B5683AB-A0A9-4754-932B-95E3A5E07677,103109-3,"","","188","1820",
+gcc-149351,A,Compositae,,Cosmos,,"caudatus",var.,"caudatus","",Synonym,,L,TICA,DED6116C-E3BA-4502-8F6E-57033335E4C0,,"","","","",gcc-98345
+gcc-60222,A,Compositae,,Cosmos,,"caudatus",var.,"exaristatus","Sherff",Synonym,,L,TICA,C9CD6E20-9C3D-48CF-8A25-9C9D9F200256,66746-2,"Brittonia 16","","66","1964",gcc-98345
+gcc-124777,A,Compositae,,Cosmos,,"chrysanthemifolius",,"","Kunth",Synonym,,M,TICA,426F1441-9CCA-4DE5-9154-D177D38C343F,,"","","","1820 [1818]",gcc-40340
+gcc-111779,A,Compositae,,Cosmos,,"chrysanthemoides",,"","Kunth",Synonym,,M,TICA,B901AF5C-9FC2-4C59-BFBA-B3EAC78876E2,,"","","","",gcc-40340
+gcc-125277,A,Compositae,,Cosmos,,"concolor",,"","Sherff",Accepted,,M,TICA,05C108AC-CC55-4D27-81E2-D2AB2D325D92,66748-2,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","434","1932",
+gcc-84129,A,Compositae,,Cosmos,,"crithmifolius",,"","Kunth",Accepted,,M,TICA,7723F194-9293-4552-BB85-75D4C2F91811,,"","","190","1820 [1818]",
+gcc-26368,A,Compositae,,Cosmos,,"deficiens",,"","(Sherff) Melchert",Accepted,,M,TICA,7099FFD8-ACAA-42F6-A05E-30BD42AFBC76,275153-2,"Phytologia 69","","190","1990",
+gcc-93829,A,Compositae,,Cosmos,,"dissecta",,"","S.Watson",Unresolved,,L,TICA,251D4DD1-FA96-4F26-B900-8B8F462B3245,,"","","","",
+gcc-41766,A,Compositae,,Cosmos,,"diversifolius",,"","Otto ex Otto",Accepted,,M,TICA,0226A189-B678-4B4A-B001-4D5A4C263EA4,198328-1,"Fl. Cab. 2","","""3, t. 47""","1838",
+gcc-154911,A,Compositae,,Cosmos,,"diversifolius",var.,"atrosanguineus","Hook.",Synonym,,L,TICA,B636EE8B-E13B-48BC-BBBA-CD3E4E59EDB7,,"Bot. Mag. 87","","","1861",gcc-120464
+gcc-50297,A,Compositae,,Cosmos,,"diversifolius",var.,"dahlioides","(S.Watson) Melchert",Accepted,,L,TICA,B9FAE771-C5A3-4F92-88B7-5D46F6036924,275154-2,"","","189","1990",
+gcc-72221,A,Compositae,,Cosmos,,"diversifolius",var.,"deficiens","Sherff",Synonym,,L,TICA,BD7FA39E-6ACE-45BA-9232-FC60682B2D39,275155-2,"Brittonia 16: 65. 1964","","65","1964",gcc-26368
+gcc-60491,A,Compositae,,Cosmos,,"diversifolius",var.,"diversifolius","",Synonym,,L,TICA,59D3715F-43DE-43E9-B455-9EA3E7AF9572,,"","","","1838",gcc-41766
+gcc-118732,A,Compositae,,Cosmos,,"exiguus",,"","A.Gray",Synonym,,M,TICA,DA630AF8-167A-4B4B-BFF1-C3A020415384,66753-2,"Proc. Amer. Acad. Arts 22","","429","1887",gcc-23987
+gcc-98877,A,Compositae,,Cosmos,,"formosa",,"","Bonato",Synonym,,M,TICA,9F85FE35-E7AE-4D9F-B0A2-9714FB2036BA,,"","","","",gcc-23558
+gcc-79659,A,Compositae,,Cosmos,,"gracilis",,"","Sherff",Accepted,,M,TICA,3B7912B8-1569-4894-A09F-6BE441434C7F,66754-2,"Bot. Gaz. 88","","304","1929",
+gcc-85529,A,Compositae,,Cosmos,,"herzogii",,"","Sherff",Accepted,,M,TICA,D89B7F75-AE65-45CA-AB5E-78E4596A3051,66755-2,"Bot. Gaz. 96","","148","1934",
+gcc-15105,A,Compositae,,Cosmos,,"hintonii",,"","Sherff",Synonym,,M,TICA,6AA0B712-A5F0-493F-AD7B-1BF8DB295474,66756-2,"Brittonia 16","","72","1964",gcc-49578
+gcc-13287,A,Compositae,,Cosmos,,"hybridus",,"","Hort.",Unresolved,,L,TICA,399394AA-AEF7-472C-ACF9-18C5E0C753E1,198333-1,"ex Gard. and For. i. (1888) 474.","","i.  474.","1888",
+gcc-148610,A,Compositae,,Cosmos,,"hybridus",,"","Goldring",Synonym,,M,TICA,4AA8DA24-46B7-483E-B1C9-463E289812A5,,"","","","",gcc-23558
+gcc-23066,A,Compositae,,Cosmos,,"hybridus",,"","Auct.",Synonym,,M,TICA,DF39F51C-5A42-4ABA-B1C0-2AB341B9FB8D,,"Gard. & Forest. 1: 474 (1888)","","474","1888",gcc-23558
+gcc-107071,A,Compositae,,Cosmos,,"integrifolius",,"","Wedd.",Synonym,,M,TICA,D92ECF59-8550-4327-B54D-A9430193D927,,"","","70","",gcc-58302
+gcc-110299,A,Compositae,,Cosmos,,"intercedens",,"","Sherff",Accepted,,M,TICA,B5AE2AD0-B54B-4FF4-A807-B090C0B7DCF6,66757-2,"Brittonia 16","","69","1964",
+gcc-9723,A,Compositae,,Cosmos,,"jaliscensis",,"","Sherff",Accepted,,M,TICA,3BCC766B-B458-4B44-9927-122BC5492090,66758-2,"","","66","1964",
+gcc-50105,A,Compositae,,Cosmos,,"juxtlahuacensis",,"","Panero & Villaseñor",Accepted,,M,TICA,400BA5CE-FF2F-4AD9-AAD1-5CE13E21DEEE,303147-2,"Brittonia 48","","79","1996",
+gcc-94896,A,Compositae,,Cosmos,,"landii",,"","Sherff",Accepted,,M,TICA,59B57E2E-9D55-4C0F-AED4-8E160DF6223D,66759-2,"Bot. Gaz. 64","","29","1917",
+gcc-54806,A,Compositae,,Cosmos,,"landii",var.,"achalconensis","Melchert",Synonym,,L,TICA,09D63083-5686-49AB-A0AE-710AE2F7B69F,275156-2,"Phytologia 69","","197","1990",gcc-94896
+gcc-53296,A,Compositae,,Cosmos,,"landii",var.,"landii","",Synonym,,L,TICA,80F7DCE1-FB9A-4A11-B88C-651E217A550C,,"","","","1917",gcc-94896
+gcc-7899,A,Compositae,,Cosmos,,"langlassei",,"","(Sherff) Sherff",Accepted,,M,TICA,5A0C5223-A4F3-438B-B0A8-0EB50B33E513,198338-1,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","425","1932",
+gcc-103777,A,Compositae,,Cosmos,,"linearifolius",,"","(Sch.Bip.) Hemsl.",Accepted,,M,TICA,F52281E1-0150-4547-B0A4-A2060608E7B3,,"","","200","1881",
+gcc-151960,A,Compositae,,Cosmos,,"linearifolius",var.,"linearifolius","",Synonym,,L,TICA,73B47F69-2269-46F5-8798-8F7A83AFDB02,,"","","","",gcc-103777
+gcc-62610,A,Compositae,,Cosmos,,"linearifolius",var.,"magnifolius","Sherff",Synonym,,L,TICA,5B844152-5162-4934-94FA-B03FD6BDC949,66761-2,"Bot. Gaz. 97","","609","1936",gcc-103777
+gcc-24298,A,Compositae,,Cosmos,,"linearifolius",var.,"maysillesii","Sherff",Synonym,,L,TICA,0462EC26-14B1-4299-ACE9-2CE03DE5983A,66762-2,"Brittonia 11","","189","1959",gcc-103777
+gcc-59474,A,Compositae,,Cosmos,,"linearifolius",var.,"typicus","Sherff",Synonym,,L,TICA,A3EFA10F-DEA3-4319-A421-96A4F75D57D8,66763-2,"Brittonia 6","","341","1948",gcc-103777
+gcc-98485,A,Compositae,,Cosmos,,"longipetiolatus",,"","Melchert",Accepted,,M,TICA,D83947B6-308D-499A-B0EB-96404C8F6AC3,66764-2,"Sida 3","","173","1967",
+gcc-102475,A,Compositae,,Cosmos,,"marginatus",,"","Klatt",Synonym,,M,TICA,FF180040-2BDB-4A5A-85CD-9F33B84EB8EC,198341-1,"Abh. Naturf. Ges. Halle 15","","328","1882",gcc-304
+gcc-45589,A,Compositae,,Cosmos,,"mattfeldii",,"","Sherff",Accepted,,M,TICA,5F9C1F65-7C0A-4F28-9C17-5480090D6191,66765-2,"Bot. Gaz. 96","","148","1934",
+gcc-108787,A,Compositae,,Cosmos,,"mcvaughii",,"","Sherff",Accepted,,M,TICA,5430A1B3-ACC0-4653-B29D-AD28C95E8879,66766-2,"Brittonia 16","","68","1964",
+gcc-41049,A,Compositae,,Cosmos,,"microcephalus",,"","Sherff",Accepted,,M,TICA,69AEEA47-ADA3-4314-9791-4C184C10CED6,66767-2,"Bot. Gaz. 76","","89","1923",
+gcc-113436,A,Compositae,,Cosmos,,"modestus",,"","Sherff",Accepted,,M,TICA,347D23C6-F0DB-49BA-9E7A-B7A13EA97609,66768-2,"Amer. J. Bot. 24","","89","1937",
+gcc-38075,A,Compositae,,Cosmos,,"montanus",,"","Sherff",Accepted,,M,TICA,426BC43E-0D2D-496F-8139-469EA029F681,66769-2,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","433","1932",
+gcc-146944,A,Compositae,,Cosmos,,"montanus",var.,"montanus","",Synonym,,L,TICA,55E74FC9-9270-4C4D-BF7D-233CD5786ABD,,"","","","",gcc-38075
+gcc-8782,A,Compositae,,Cosmos,,"montanus",var.,"pinnatus","Sherff",Synonym,,L,TICA,D09A639F-DE57-41F4-93FC-106EB8B39588,66770-2,"","","433","1932",gcc-38075
+gcc-2712,A,Compositae,,Cosmos,,"montanus",var.,"typicus","Sherff",Synonym,,L,TICA,3B5BE20D-4A7A-47D5-AEEB-04F7E06C584F,66771-2,"Brittonia 6","","342","1948",gcc-38075
+gcc-52743,A,Compositae,,Cosmos,,"nelsonii",,"","B.L.Rob. & Fernald",Accepted,,M,TICA,7B1B95FD-BC68-4DC8-B52A-61C7CF8933BE,66772-2,"Proc. Amer. Acad. Arts 44","","622","1909",
+gcc-139262,A,Compositae,,Cosmos,,"nitidus",,"","Paray",Accepted,,M,TICA,619CC4E1-0014-4D9B-BFEF-F25A7BEFCDE4,,"","","","1958",
+gcc-45103,A,Compositae,,Cosmos,,"ocellatus",,"","Greenm.",Synonym,,M,TICA,B43D1FFA-E987-4CE8-B61E-539C2A89F571,275157-2,"Proc. Amer. Acad. Arts 41: 265. 1905","","265","1905",gcc-29867
+gcc-56776,A,Compositae,,Cosmos,,"ocellatus",var.,"greenmanii","Sherff",Synonym,,L,TICA,F42D220E-FFEB-447E-AC4B-81113567B1C7,66775-2,"Bot. Gaz. 88","","305","1929",gcc-29867
+gcc-67480,A,Compositae,,Cosmos,,"ocellatus",var.,"ocellatus","",Synonym,,L,TICA,6F709AB6-A449-4AA8-BCE3-D78E23E851C9,,"","","","",gcc-29867
+gcc-108183,A,Compositae,,Cosmos,,"ochroleucoflorus",,"","Melchert",Accepted,,M,TICA,BF3FFA71-E25E-43D3-A1FA-ABC226A17770,198350-1,"Sida 3","","170","1967",
+gcc-130177,A,Compositae,,Cosmos,,"pacificus",,"","Melchert",Accepted,,M,TICA,607D7B57-57D4-4F9A-BB50-DDF061AE99B7,,"","","213","1990",
+gcc-54229,A,Compositae,,Cosmos,,"pacificus",var.,"pacificus","",Synonym,,L,TICA,C2813798-BECC-4D83-8FE6-6C6ED1B09A09,,"","","","1990",gcc-130177
+gcc-38792,A,Compositae,,Cosmos,,"palmeri",,"","B.L.Rob.",Accepted,,M,TICA,ADE232CE-85E0-457F-AE51-47F3C744A9F3,66778-2,"Proc. Amer. Acad. Arts 44","","623","1909",
+gcc-28514,A,Compositae,,Cosmos,,"palmeri",var.,"odontophyllus","Sherff",Synonym,,L,TICA,29CE68ED-1531-4995-90F9-34B8E67B091C,66779-2,"","","432","1932",gcc-38792
+gcc-156274,A,Compositae,,Cosmos,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,BAEAB42C-9859-4F6B-B268-E9E5FBE266BD,,"","","","",gcc-38792
+gcc-113002,A,Compositae,,Cosmos,,"parviflorus",,"","(Jacq.) Pers.",Accepted,,M,TICA,744720D9-7C5C-4A23-A8F2-B6AD34508224,,"","","477","1807",
+gcc-2398,A,Compositae,,Cosmos,,"parviflorus",,"","(Jacq.) Kunth",Synonym,Illegitimate,M,TICA,4C99FAC0-3B14-4093-9F28-045C29062A75,,"Nova Genera et Species Plantarum (folio ed.) 4:","","189","",gcc-113002
+gcc-131894,A,Compositae,,Cosmos,,"peucedanifolius",,"","Wedd.",Accepted,,M,TICA,E8875473-C300-45E9-9C91-E1FF84A14EEB,,"","","70","",
+gcc-67554,A,Compositae,,Cosmos,,"peucedanifolius",var.,"bipinnatisectus","(Kuntze) Sherff",Synonym,,L,TICA,CE0AFDE5-54CB-46EC-A10C-D816D62703A7,66783-2,"Brittonia 6","","342","1948",gcc-131894
+gcc-58302,A,Compositae,,Cosmos,,"peucedanifolius",var.,"cochabambensis","(Kuntze) Sherff",Accepted,,L,TICA,5FD25013-AEFE-48E5-AD69-8D817D6A270B,66784-2,"Bot. Gaz. 88","","307","1929",
+gcc-30942,A,Compositae,,Cosmos,,"peucedanifolius",var.,"peucedanifolius","",Synonym,,L,TICA,F45798E3-30D2-4D49-8013-394A3DAB56A9,,"Chlor. Andina 1: 70 (1856)","","70","1856",gcc-131894
+gcc-304,A,Compositae,,Cosmos,,"peucedanifolius",var.,"tiraquensis","(Kuntze) Sherff",Accepted,,L,TICA,756593AB-1400-438F-BF4A-008D71866CD1,66785-2,"Bot. Gaz. 88","","307","1929",
+gcc-135357,A,Compositae,,Cosmos,,"peucedanthifolius",,"","Wedd.",Unresolved,Illegitimate,L,TICA,CB242DF1-45A9-41F9-AF70-E9DC9641CE3D,,"","","","",
+gcc-35843,A,Compositae,,Cosmos,,"pilosus",,"","Kunth",Accepted,,M,TICA,F8DC4E76-F611-45AC-AD8A-427694320181,,"","","189","1820 [1818]",
+gcc-11474,A,Compositae,,Cosmos,,"pinnatus",,"","Jacq. ex Steud.",Synonym,,M,TICA,451A12F7-1B33-4C01-9A6D-156A6684C69F,198355-1,"","","426","1840",gcc-60407
+gcc-52421,A,Compositae,,Cosmos,,"pringlei",,"","B.L.Rob. & Fernald",Accepted,,M,TICA,54E8E0EA-991A-499C-86A7-612C3C661438,66786-2,"Proc. Amer. Acad. Arts 44","","623","1909",
+gcc-95559,A,Compositae,,Cosmos,,"pulcherrimus",,"","Sch.Bip.",Synonym,,M,TICA,6A5FBA2F-09F5-4280-AAFA-8F9EB5D40A9D,198357-1,"Bull. Soc. Bot. France 12","","79","1865",gcc-304
+gcc-117464,A,Compositae,,Cosmos,,"purpurens",,"","Sherff",Accepted,,M,TICA,0396C370-4F0E-4450-A4F8-C0BC570C8C27,,"","","","",
+gcc-146376,A,Compositae,,Cosmos,,"purpurens",var.,"purpurens","",Synonym,,L,TICA,2419BEF5-C5B3-42B0-A7E8-1740CCEEC37D,,"","","","",gcc-117464
+gcc-42371,A,Compositae,,Cosmos,,"purpureus",,"","(DC.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,7EF0E635-6F90-4DDD-BB58-4E82404839B7,,"","","200","1881",
+gcc-61991,A,Compositae,,Cosmos,,"purpureus",var.,"bicolor","Sherff",Synonym,,L,TICA,A7C9941B-E5AB-4A81-B749-AB303307F2D1,66787-2,"Amer. J. Bot. 24","","90","1937",gcc-42371
+gcc-65351,A,Compositae,,Cosmos,,"purpureus",var.,"flavidiscus","Sherff",Synonym,,L,TICA,BA6EFE44-532B-4C72-9237-C620283836AE,66788-2,"Brittonia 14","","173","1962",gcc-42371
+gcc-146869,A,Compositae,,Cosmos,,"purpureus",var.,"purpureus","",Synonym,,L,TICA,44C270BD-3C05-41D3-8CB1-216328BFE9A7,,"","","","",gcc-42371
+gcc-54422,A,Compositae,,Cosmos,,"purpureus",var.,"typicus","Sherff",Synonym,,L,TICA,B86D8447-CFBF-4D33-AA86-6DF77A8BE499,66789-2,"Brittonia 6","","342","1948",gcc-42371
+gcc-27043,A,Compositae,,Cosmos,,"reptans",,"","Benth.",Accepted,,M,TICA,52D0C5EF-9D97-4BD3-A9F6-31FDA24D4768,198359-1,"","","40","1839",
+gcc-6560,A,Compositae,,Cosmos,,"roseus",,"","Mart. ex Steud.",Unresolved,,L,TICA,11983F0F-A7E5-4E4F-A438-0C2C40957F69,198360-1,"","","426","1840",
+gcc-92359,A,Compositae,,Cosmos,,"scabiosoides",,"","Kunth",Accepted,,M,TICA,C66E1A1B-DB4D-4B5F-9ADF-886A328EE2A8,,"","","190","",
+gcc-73665,A,Compositae,,Cosmos,,"scabiosoides",f.,"indivisus","B.L.Rob.",Synonym,,L,TICA,8C2C09F3-6C35-4788-B735-21ED5F510A85,66790-2,"Proc. Amer. Acad. Arts 44","","624","1909",gcc-92359
+gcc-60768,A,Compositae,,Cosmos,,"scabiosoides",var.,"oblongus","Sherff",Synonym,,L,TICA,AE35978E-DA7E-4BFF-9337-A1057D23F21D,66791-2,"","","436","1932",gcc-92359
+gcc-152020,A,Compositae,,Cosmos,,"scabiosoides",var.,"scabiosoides","",Synonym,,L,TICA,0E897E10-90A2-4A18-8648-90E87064E73D,,"","","","",gcc-92359
+gcc-154711,A,Compositae,,Cosmos,,"scabiosoides",f.,"scabiosoides","",Synonym,,L,TICA,B983E29F-9725-446E-B1A2-C96ED6209B78,,"","","","",gcc-92359
+gcc-86846,A,Compositae,,Cosmos,,"schaffneri",,"","Sherff",Accepted,,M,TICA,6DC2518F-CA79-4145-B697-7BE0499A952E,66794-2,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","445","1932",
+gcc-118396,A,Compositae,,Cosmos,,"scherfii",,"","Melchert",Accepted,,M,TICA,039BADD1-C8BC-48C5-8E6F-C2D72E3DF0BE,,"","","","1967",
+gcc-88390,A,Compositae,,Cosmos,,"seemannii",,"","(Sch.Bip.) A.Gray",Unresolved,,L,TICA,6CA922BE-E895-497E-9E29-7F52432E28A6,,"Proc. Amer. Acad. Arts 19: 16. 1883 41: 265. 1905","","","1883",gcc-82542
+gcc-37583,A,Compositae,,Cosmos,,"sessilis",,"","Sherff",Accepted,,M,TICA,A7318912-D55B-4EDD-8866-45AE1695BE76,66796-2,"Brittonia 16","","71","1964",
+gcc-40835,A,Compositae,,Cosmos,,"sessilis",var.,"sessilis","",Synonym,,L,TICA,88FFA23C-5196-40D4-BCD1-4BABD16B9DCA,,"","","","1964",gcc-37583
+gcc-69184,A,Compositae,,Cosmos,,"sessilis",var.,"stellatus","(Sherff) Melchert",Accepted,,L,TICA,4489206D-A036-49C6-8F2F-E489431D2420,275159-2,"Phytologia 69","","197","1990",
+gcc-85304,A,Compositae,,Cosmos,,"sherffii",,"","Melchert",Accepted,,M,TICA,39ACB7ED-2529-4CB3-8A02-78686E9B4484,66797-2,"Sida 3","","172","1967",
+gcc-108006,A,Compositae,,Cosmos,,"spectabilis",,"","Auct.",Synonym,,M,TICA,388F7E49-B45F-4173-8CAC-AB621BFBF9C3,,"Rev. Hort. 64: 372 (1892)","","372","1892",gcc-23558
+gcc-113726,A,Compositae,,Cosmos,×,"spectabilis",,"","Hort.",Unresolved,,L,TICA,B8AF8037-02BA-4C47-B4B6-B8460E989FDF,198316-1,"""ex Rev. Hortic. lxiv. (1892) 372, fig. 114-15.""","","""lxiv.  372, fig. 114-15""","1892",
+gcc-149135,A,Compositae,,Cosmos,×,"spectabilis",,"","Carrière",Synonym,,M,TICA,20CDFA31-1827-465E-886D-5251A3B7F8D7,,"","","","",gcc-23558
+gcc-151979,A,Compositae,,Cosmos,×,"spectabilis",var.,"alba","Carr.",Synonym,,L,TICA,9EE5EBFB-B642-48A2-824D-8FC27986CC45,,"","","","",gcc-23558
+gcc-157235,A,Compositae,,Cosmos,×,"spectabilis",var.,"rosea","Carr.",Synonym,,L,TICA,962EB4DB-B932-46DA-B879-FDD8BD928249,,"","","","",gcc-23558
+gcc-87120,A,Compositae,,Cosmos,,"steenisiae",,"","Veldkamp",Accepted,,M,TICA,638486EC-F7CC-4ECB-96CC-7C8A7C639FF0,959179-1,"Blumea 35","","479","1991",
+gcc-78851,A,Compositae,,Cosmos,,"stellatus",,"","Sherff",Synonym,,M,TICA,EFFC6AE3-A5CB-4314-A7CC-6A21E2CAE712,275160-2,"Brittonia 16","","70","1964",gcc-69184
+gcc-46149,A,Compositae,,Cosmos,,"steyermarkii",,"","Sherff",Synonym,,M,TICA,FAB60B77-9AED-4A41-BB4D-558AE2605273,66799-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 22""","","438","1941",gcc-76025
+gcc-19084,A,Compositae,,Cosmos,,"subpubescens",,"","Wedd.",Synonym,,M,TICA,5A5918B3-3A0C-4A96-B2EF-233D27802F76,198367-1,"","","70","1856",gcc-131894
+gcc-129696,A,Compositae,,Cosmos,,"sulphureus",,"","Cav.",Accepted,,M,TICA,322624F0-7F5F-46EB-BC6A-DCDE7E3B4273,,"Icon. 1","","","1791",
+gcc-74644,A,Compositae,,Cosmos,,"sulphureus",f.,"calva","(Miq.) Backer",Synonym,,L,TICA,EDBDD7B0-4253-4562-B4B2-4739BA6E1D67,,"","","","",gcc-100090
+gcc-5237,A,Compositae,,Cosmos,,"sulphureus",var.,"exaristatus","Sherff",Synonym,,L,TICA,FF478B2F-D3DA-4ECF-91F7-09C82D42D68A,66801-2,"""Publ. Field Columbian Mus., Bot. Ser. 8""","","411","1932",gcc-129696
+gcc-65717,A,Compositae,,Cosmos,,"sulphureus",var.,"hirsuticaulis","Sherff",Synonym,,L,TICA,EC67A049-8EDA-4CA3-8576-C8F6F4D96183,66802-2,"Amer. J. Bot. 24","","90","1937",gcc-129696
+tro-50043353,A,Compositae,,Cosmos,,"sulphureus",var.,"leiohynchus","Griseb.",Synonym,,L,TRO,50043353,,"Fl. Brit. W. I.","374","374","1861",gcc-100090
+gcc-150762,A,Compositae,,Cosmos,,"sulphureus",f.,"sulphureus","",Synonym,,L,TICA,D7CAD1FD-8A60-4F8E-B16B-75B063F8AD03,,"","","","",gcc-129696
+gcc-155298,A,Compositae,,Cosmos,,"sulphureus",var.,"sulphureus","",Synonym,,L,TICA,594AA72C-86A4-470A-A0E2-D5143C08865E,,"","","","",gcc-129696
+gcc-38447,A,Compositae,,Cosmos,,"tenellus",,"","Kunth",Accepted,,M,TICA,3BDBA099-7F32-40A8-9FAC-4752B8CFF568,,"","","188-189","1820 [1818]",
+gcc-95995,A,Compositae,,Cosmos,,"tenuifolia",,"","Lindl.",Synonym,,M,TICA,D4A4BFDC-2360-48DF-8AA0-9098C06F32CC,198370-1,"","","t. 2007","1837",gcc-23558
+gcc-153514,A,Compositae,,Cosmos,,"tenuifolius",,"","Lindl.",Synonym,,M,TICA,1635F30F-B99B-4842-82B9-AFD9465E79CE,,"","","","",gcc-23558
+gcc-127515,A,Compositae,,Cosmos,,"uhdeanus",,"","Kunth",Synonym,,M,TICA,CDD82224-DF03-4B00-B853-D7D2EC89AC74,198371-1,"","","12","1846",gcc-42371

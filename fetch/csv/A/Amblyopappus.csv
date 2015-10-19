@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98327,A,Compositae,,Amblyopappus,,"mendocinus",,"","Phil.",Synonym,,M,TICA,C0DC8944-57DA-42E1-8625-95D7E44F0092,,"","","184","1870",gcc-706
+gcc-146209,A,Compositae,,Amblyopappus,,"neo-mexicana",,"","(A.Gray) A.Gray",Synonym,,M,TICA,A1652134-15C6-4B25-A91C-13E65D50C050,,"","","","",gcc-3245
+gcc-3595,A,Compositae,,Amblyopappus,,"neomexicanus",,"","(A.Gray) A.Gray",Synonym,,M,TICA,9F7F9CE8-EDBE-4A6B-8673-06A440219819,,"","","106","1857",gcc-3245
+gcc-11582,A,Compositae,,Amblyopappus,,"pauciflorus",,"","Phil.",Synonym,,M,TICA,102E47D2-0898-48F9-B181-159897738A48,11007-2,"Anales Univ. Chile 90","","29","1895",gcc-44746
+gcc-44746,A,Compositae,,Amblyopappus,,"pusillus",,"","Hook. & Arn.",Accepted,,M,TICA,B2DC3A49-3E18-416B-A366-52DFBC38E218,176033-1,"","","321","1841",
+gcc-58246,A,Compositae,,Amblyopappus,,"pusillus",var.,"pusillus","",Synonym,,L,TICA,A6DAB4CD-4F82-40AD-933C-8CFF2DD3FE9A,,"J. Bot. 3: 321 (1841)","","321","1841",gcc-44746

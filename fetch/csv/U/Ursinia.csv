@@ -1,0 +1,122 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112892,A,Compositae,,Ursinia,,"abrotanifolia",,"","(R.Br.) Spreng.",Accepted,,M,TICA,58BCD5A7-5D48-4ABB-92E4-B6780F284587,257070-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 609","","609","1826",
+gcc-26398,A,Compositae,,Ursinia,,"abyssinica",,"","Sch.Bip. ex Walp.",Synonym,,M,TICA,5C33E932-F053-4BE3-A69A-30CA6414B6BC,257071-1,"Repert. Bot. Syst. (Walpers) vi. 182.","","182","",gcc-105239
+gcc-136687,A,Compositae,,Ursinia,,"affinis",,"","Harv.",Synonym,,M,TICA,3F6E7161-3B6F-4201-8178-ECC3C27067B2,,"Fl. Cap. (Harvey) iii. 151","","151","",gcc-105239
+gcc-91089,A,Compositae,,Ursinia,,"albicaulis",,"","DC.",Unresolved,,L,TICA,EA5403E2-803C-4159-8152-858CAE311A39,257073-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-21723,A,Compositae,,Ursinia,,"alpina",,"","N.E.Br.",Accepted,,M,TICA,7BB052AF-1C40-4D92-B3DD-2833BC0E8110,257074-1,"""Bull. Misc. Inform. Kew 1901, 125.""","","125","",
+gcc-133746,A,Compositae,,Ursinia,,"anethifolia",,"","(Less.) N.E.Br.",Synonym,,M,TICA,44FB8ECF-6DA2-4DEC-B489-E636E9855488,,"Gard. Chron. (1887) i. 670","","670","",gcc-94034
+gcc-92646,A,Compositae,,Ursinia,,"anethifolia",,"","Zahlbr.",Unresolved,,L,TICA,C840FCF4-29F8-4030-B910-890DFC4CB67E,,"Ann. Nat. Hofmus. Wien. xxiv. 313 (1910).","","313","",
+gcc-6858,A,Compositae,,Ursinia,,"anethoides",,"","(DC.) N.E.Br.",Accepted,,M,TICA,2A114DC2-F603-42A2-8331-0CBE17FC7969,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-140008,A,Compositae,,Ursinia,,"annua",,"","Less. ex Harv.",Synonym,,M,TICA,42E3D006-53C4-4C77-9129-F3FD85F9E754,,"","","","",gcc-105239
+gcc-28153,A,Compositae,,Ursinia,,"annua",,"","Less.",Synonym,Invalid,M,TICA,337D6ABB-DF33-447B-B15C-340428BCAE05,257078-1,"""Linnaea 6: 165, in adnot. 1831""","","""165, in adnot.""","1831",gcc-105239
+gcc-153518,A,Compositae,,Ursinia,,"annua",var.,"annua","",Synonym,,L,TICA,6462561D-88C2-4F68-ABB3-AFF72AABC955,,"","","","",gcc-105239
+gcc-62147,A,Compositae,,Ursinia,,"annua",var.,"indecora","(DC.) Harv.",Synonym,,L,TICA,B7E6E966-8349-4BB0-80DD-AC5756110808,,"","","","",gcc-105239
+gcc-45912,A,Compositae,,Ursinia,,"annua",var.,"nana","Harv.",Synonym,,L,TICA,F0AB84B9-383D-4FB9-AD9A-551A58E1EE1E,,"","","","",gcc-105239
+gcc-39695,A,Compositae,,Ursinia,,"anthemoides",,"","Gaertn.",Synonym,,M,TICA,C2B98E10-80F6-480F-8D74-49A785291C23,,"""Fruct. Sem. Pl. ii. 463, in obs.; Poir. Encyc. viii. 257.""","","257","",gcc-98771
+gcc-98771,A,Compositae,,Ursinia,,"anthemoides",,"","(L.) Poir.",Accepted,,M,TICA,ED441299-B246-4560-9F87-96D507269A72,149359-3,"","","257","1808",
+gcc-170,A,Compositae,,Ursinia,,"anthemoides",subsp.,"anthemoides","",Synonym,,L,TICA,F280139D-524D-4BF4-9018-004E0FC68AA6,,"Encycl. 8: 257 (1808)","","257","1808",gcc-98771
+gcc-14900,A,Compositae,,Ursinia,,"anthemoides",subsp.,"versicolor","(DC.) N.E.Br.",Accepted,,L,TICA,48BE7C8A-3D0E-4106-9896-1B98D7A6834C,,"","","","",
+gcc-7932,A,Compositae,,Ursinia,,"anthemoides",subsp.,"versicolor","(DC.) Prassler",Unresolved,,L,TICA,8A587E83-90E8-41F6-9C01-0EC2D14194CD,,"","","","",
+gcc-91391,A,Compositae,,Ursinia,,"apiculata",,"","DC.",Synonym,,M,TICA,E98A4544-ED41-436A-90E1-864BB73E50E9,257080-1,"Prodr. (DC.) 5: 689","","689","1836",gcc-45497
+gcc-25178,A,Compositae,,Ursinia,,"argentea",,"","Compton",Synonym,,M,TICA,F19D273F-DFDC-45C3-A9D3-2E7D617748AC,,"Trans. Roy. Soc. South Africa xix. 326 (1931).","","326","",gcc-29833
+gcc-113827,A,Compositae,,Ursinia,,"bolusii",,"","Thell.",Synonym,,M,TICA,C0B815E8-1AC8-49E1-9251-B87D391E2333,257082-1,"Vierteljahrsschr. Naturf. Ges. Zürich lxvi. 249 (1921).","","lxvi. 249","1921",gcc-111326
+gcc-130309,A,Compositae,,Ursinia,,"brachyloba",,"","(Kunze) K.Bremer & Humphries",Unresolved,,L,TICA,80A3E575-9EB3-48B2-AD1B-DE3D40B9BFA1,,"","","670","1993",gcc-91688
+gcc-91688,A,Compositae,,Ursinia,,"brachyloba",,"","(Kunze) N.E.Br.",Accepted,,L,TICA,8BE4A910-EF87-4C89-BB08-86E7562774E5,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-95504,A,Compositae,,Ursinia,,"brachypoda",,"","(Harv.) N.E.Br.",Synonym,,M,TICA,68E6543C-AEE2-4322-99B8-8F86E7FC206A,,"Gard. Chron. (1887) i. 670","","670","",gcc-75606
+gcc-103931,A,Compositae,,Ursinia,,"brevicaulis",,"","J.M.Wood & M.S.Evans",Synonym,,M,TICA,E9AA3092-7C70-4DD2-BC18-A25EA6283212,257085-1,"""in Natal Colon. Herb. Rep. 1900 (1901) 11; et in Journ. Bot. 1901, 172.""","","1900  11","1901",gcc-4293
+gcc-76984,A,Compositae,,Ursinia,,"cakilefolia",,"","DC.",Accepted,,M,TICA,49374DA1-581D-4005-B748-65D3CC3F9774,257086-1,"Prodr. (DC.) 5: 690","","690","1836",
+gcc-9774,A,Compositae,,Ursinia,,"caledonica",,"","(E.Phillips) Prassler",Accepted,,M,TICA,FD3E45F6-37EB-41E5-80EF-1244CD09A1D3,257087-1,"""Mitt. Bot. Staatssamml. München vi. 382, 384 (1967)""","","384","1967",
+gcc-90216,A,Compositae,,Ursinia,,"calenduliflora",,"","(DC.) N.E.Br.",Accepted,,M,TICA,3E9F8E64-0FDC-4604-ADC3-8374C98004A8,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-92841,A,Compositae,,Ursinia,,"calenduliflora",,"","Benth. & Hook.f.",Unresolved,,L,TICA,4B607791-F98C-441D-8584-897D129646D6,257089-1,"Gen. ii. 456.","","ii. 456.","",
+gcc-28892,A,Compositae,,Ursinia,,"chamaemeloides",,"","N.E.Br.",Unresolved,,L,TICA,78363F55-B789-42B2-8729-3568B9439300,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-7497,A,Compositae,,Ursinia,,"chamomillaefolia",,"","N.E.Br.",Unresolved,,L,TICA,3CD5A14E-1667-42AC-9B51-0DEEC2016B25,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-80523,A,Compositae,,Ursinia,,"chrysanthemoides",,"","(Less.) Harv.",Synonym,,M,TICA,B2F12344-0A73-4B8A-A733-6DC268CAF909,149400-3,"","","","1865",gcc-9659
+gcc-60560,A,Compositae,,Ursinia,,"chrysanthemoides",var.,"chrysanthemoides","",Synonym,,L,TICA,AB7406D9-9181-4D16-A113-9F3789A64E42,,"","","","",gcc-9659
+gcc-70378,A,Compositae,,Ursinia,,"chrysanthemoides",var.,"geyeri","Prassler",Synonym,,L,TICA,9CD5C50B-AC2E-42EF-8CD0-EDA7DCE46F6A,,"","","","",gcc-9659
+gcc-117145,A,Compositae,,Ursinia,,"ciliaris",,"","(DC.) N.E.Br.",Synonym,,M,TICA,FD56E3C5-3C89-44D2-B97D-BFFD331B0B87,,"Gard. Chron. (1887) i. 670","","670","",gcc-23258
+gcc-100385,A,Compositae,,Ursinia,,"concolor",,"","(Harv.) N.E.Br.",Synonym,,M,TICA,CA126088-9A8D-420E-B398-9A7C323FF867,,"Gard. Chron. (1887) i. 670","","670","",gcc-100177
+gcc-142908,A,Compositae,,Ursinia,,"coronopifolia",,"","(Less.) N.E.Br.",Accepted,,M,TICA,35C134FF-C112-4600-8141-FAB511B181FE,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-126812,A,Compositae,,Ursinia,,"crithmifolia",,"","(R.Br.) Spreng.",Synonym,,M,TICA,B62E572F-63DC-4BC9-A101-D628DC9CC06D,257096-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 609","","609","1826",gcc-94034
+gcc-149280,A,Compositae,,Ursinia,,"crithmifolia",var.,"crithmifolia","",Synonym,,L,TICA,82478A30-DA03-460E-A3F6-55AA38F79A2B,,"","","","",gcc-94034
+gcc-61111,A,Compositae,,Ursinia,,"crithmifolia",var.,"grandiflora","(Harv.) N.E.Br.",Synonym,,L,TICA,D2CFAD9C-F997-4049-AAB6-A3EB32BFAF57,,"","","","",gcc-94034
+gcc-26930,A,Compositae,,Ursinia,,"crithmoides",,"","Poir.",Synonym,,M,TICA,0AF4F387-A1DC-4F4A-93F7-31CA4E8F2DF1,257097-1,"Encycl. (Lamarck) 8: 258","","258","1808",gcc-94034
+gcc-35153,A,Compositae,,Ursinia,,"dentata",,"","(L.) Poir.",Accepted,,M,TICA,73E7E05D-856E-4CBA-854C-41321A742FB7,257098-1,"Encycl. (Lamarck) 8: 256","","256","1808",
+gcc-145692,A,Compositae,,Ursinia,,"dentata",var.,"dentata","",Synonym,,L,TICA,C77BA0F0-E53C-4C5B-AADB-08DCA33F9680,,"","","","",gcc-35153
+gcc-30585,A,Compositae,,Ursinia,,"dentata",var.,"setigera","(DC.) N.E.Br.",Synonym,,L,TICA,6EFB2CA5-1374-4F4E-BD1B-38A241CCAFC8,,"","","","",gcc-35153
+gcc-119654,A,Compositae,,Ursinia,,"discolor",,"","Zahlbr.",Unresolved,,L,TICA,5CAD3374-FB9C-48CF-BAB5-C5A96697EAA3,257100-1,"Ann. Nat. Hofmus. Wien. xxiv. 313 (1910)","","313","1910",
+gcc-81763,A,Compositae,,Ursinia,,"discolor",,"","(Less.) N.E.Br.",Accepted,,M,TICA,2E09B075-F263-41C5-A37F-708B7D327291,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-90194,A,Compositae,,Ursinia,,"dregeana",,"","(DC.) N.E.Br.",Accepted,,M,TICA,6FE6F77E-57E3-4D9A-9A72-8368DED49747,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-1449,A,Compositae,,Ursinia,,"eckloniana",,"","(Sond.) N.E.Br.",Accepted,,M,TICA,93F13405-D8BF-4ECC-AD61-029A4BA20525,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-80375,A,Compositae,,Ursinia,,"engleriana",,"","Muschl.",Synonym,,M,TICA,7C8AED69-E608-4D11-9B35-6D79E6392B00,257103-1,"Bot. Jahrb. Syst. xlvi. 119 (1911).","","xlvi. 119","1911",gcc-105239
+gcc-109136,A,Compositae,,Ursinia,,"erectifolia",,"","Bolus",Unresolved,,L,TICA,E48736E4-95D1-410A-BE9D-ADF7A980BAE0,,"Trans. S. African Philos. Soc. xvi. 393 (1906).","","393","",
+gcc-33644,A,Compositae,,Ursinia,,"filicaulis",,"","DC.",Unresolved,,L,TICA,A81CD1F0-8D1A-4646-AF31-3E639B2A2060,257105-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-77447,A,Compositae,,Ursinia,,"filiformis",,"","Griess.",Synonym,,M,TICA,0B50F938-C2A5-4EE3-A004-66E9358EAABF,,"Linnaea 5: 414. 1830","","414","1830",gcc-25293
+gcc-40123,A,Compositae,,Ursinia,,"filipes",,"","(E.Mey. ex DC.) N.E.Br.",Accepted,,M,TICA,C2ADA1F0-8CB3-4430-89CC-4A6983084B87,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-11716,A,Compositae,,Ursinia,,"foeniculacea",,"","(Jacq.) N.E.Br.",Synonym,,M,TICA,04F91C3C-CEA1-4EF9-9F7B-15D43D3BA4DD,,"Encyc. viii. 258.","","","",gcc-98771
+gcc-143164,A,Compositae,,Ursinia,,"foeniculacea",,"","Poir.",Accepted,,M,TICA,895427B2-3860-416E-BCDE-FB4901A667F4,257108-1,"Encycl. (Lamarck) 8: 258","","258","1808",
+gcc-90087,A,Compositae,,Ursinia,,"frutescens",,"","Dinter",Accepted,,M,TICA,9D0A41F1-29BB-4792-92F5-832D85541F1D,257109-1,"Repert. Spec. Nov. Regni Veg. 30: 91","","91","1932",
+gcc-141558,A,Compositae,,Ursinia,,"geyeri",,"","L.Bolus & Harry Hall",Synonym,,M,TICA,6A6F5483-BF0C-41E6-9744-F7AA57090240,,"","","","",gcc-9659
+gcc-96192,A,Compositae,,Ursinia,,"geyeri",,"","L.Bolus & H.Hall",Unresolved,,L,TICA,804A8158-03A8-4E0F-9624-90FC0C609B4F,257110-1,"J. S. African Bot. xxvii. 253 (1961).","","253","",gcc-9659
+gcc-23157,A,Compositae,,Ursinia,,"heterodonta",,"","(DC.) N.E.Br.",Accepted,,M,TICA,8FB791F9-CDC5-4CBA-8D76-2ADD2DBBC021,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-75606,A,Compositae,,Ursinia,,"hispida",,"","(DC.) N.E.Br.",Accepted,,M,TICA,B7EE1D4A-8B17-4AEE-A4BC-62D10B78DCFC,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-80946,A,Compositae,,Ursinia,,"incana",,"","N.E.Br.",Unresolved,,L,TICA,6BFCAAFC-177B-4B1F-BB91-6EBA1FA57163,,"Gard. Chron. (1887) i. 607","","607","",
+gcc-22757,A,Compositae,,Ursinia,,"incisa",,"","(DC.) N.E.Br.",Synonym,,M,TICA,AD126EF8-072E-44D7-B9FF-2A1E4865F557,,"","","","",gcc-93356
+gcc-95910,A,Compositae,,Ursinia,,"indecora",,"","DC.",Synonym,,M,TICA,8DB7E6D8-91A1-4CA0-A0BD-906D0AB2A79A,257114-1,"Prodr. (DC.) 5: 690","","690","1836",gcc-105239
+gcc-11660,A,Compositae,,Ursinia,,"jacottetiana",,"","Thell.",Synonym,,M,TICA,6C82D038-7C75-4576-B4B7-15BD75ED3377,257115-1,"Vierteljahrsschr. Naturf. Ges. Zürich lxvi. 248 (1921).","","lxvi. 248","1921",gcc-4293
+gcc-9370,A,Compositae,,Ursinia,,"leptoglossa",,"","N.E.Br.",Unresolved,,L,TICA,8A030CBC-A0F5-42DA-A00A-117D486A58A2,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-15114,A,Compositae,,Ursinia,,"leucanthemifolia",,"","Poir.",Unresolved,,L,TICA,74ED8C8D-5281-4468-827B-1BFF5C5BBFCB,257117-1,"Encycl. (Lamarck) 8: 258","","258","1808",
+gcc-122767,A,Compositae,,Ursinia,,"longiscapa",,"","Phillips",Synonym,,M,TICA,51303580-7F90-431C-A375-CCBEDAE8F9CC,257118-1,"Ann. S. African Mus. ix. 348 (1917).","","ix. 348","1917",gcc-94034
+gcc-3694,A,Compositae,,Ursinia,,"macropoda",,"","(DC.) N.E.Br.",Accepted,,M,TICA,0BE62D4B-A047-421E-AB28-06D9FBE0E826,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-102252,A,Compositae,,Ursinia,,"matricariifolia",,"","Bolus ex Dinter",Synonym,,M,TICA,76A57DFE-5D7A-4366-BD73-9EA561E79AEF,257120-1,"""Repert. Spec. Nov. Regni Veg. 24: 366, nomen""","","366","1928",gcc-105239
+gcc-133204,A,Compositae,,Ursinia,,"merxmuelleri",,"","Prassler",Accepted,,M,TICA,9AA9D904-EFAB-42DC-9519-E4FBCE561747,,"Mitt. Bot. Staatssamml. München vi. 389 (1967).","","389","",
+gcc-4293,A,Compositae,,Ursinia,,"montana",,"","DC.",Accepted,,M,TICA,54FBEBA3-DB24-45A8-B60E-07F9C2A6CADF,257122-1,"Prodr. (DC.) 5: 688","","688","1836",
+gcc-45497,A,Compositae,,Ursinia,,"montana",subsp.,"apiculata","(DC.) Prassler",Accepted,,L,TICA,4AD8B180-F0EC-4710-BA19-54502912F7C5,,"Mitt. Bot. Staatssamml. München 6: 454 (1767).","","","",
+gcc-56730,A,Compositae,,Ursinia,,"montana",subsp.,"montana","",Synonym,,L,TICA,76EA0D1F-EB92-470B-9DA8-80B52B3EDB16,,"","","","",gcc-4293
+gcc-61169,A,Compositae,,Ursinia,,"montana",subsp.,"tenuiloba","(DC.) Prassler",Synonym,,L,TICA,4D396A93-0DEB-4F3D-9C65-A46170392099,,"Mitt. Bot. Staatssamml. München 6: 453 (1767).","","","",gcc-94546
+gcc-105239,A,Compositae,,Ursinia,,"nana",,"","DC.",Accepted,,M,TICA,0CD63C5F-BC6B-45A5-87A9-A52C326105D9,149444-3,"","","","1836",
+gcc-72509,A,Compositae,,Ursinia,,"nana",subsp.,"nana","",Synonym,,L,TICA,255504E8-03D4-4305-BC0B-FE77AC7A81E9,149490-3,"Mitteilungen der Botanischen Staatssammlung M?nchen 6 1967","","","1967",gcc-105239
+gcc-125564,A,Compositae,,Ursinia,,"natalensis",,"","(Sch.Bip.) N.E.Br.",Synonym,,M,TICA,6607E229-E303-4356-BBE8-D356AEA59A7A,,"Gard. Chron. (1887) i. 670","","670","",gcc-94546
+gcc-101051,A,Compositae,,Ursinia,,"nudicaulis",,"","(Thunb.) N.E.Br.",Accepted,,M,TICA,68B7F17F-52D0-4FF9-B955-9BF726B5D443,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-115735,A,Compositae,,Ursinia,,"odorata",,"","Spreng.",Accepted,,M,TICA,93A8CF4D-48A2-4459-8160-BCDDE1A77BD4,257126-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 609","","609","1826",
+gcc-7783,A,Compositae,,Ursinia,,"oreogena",,"","Schltr. ex Prassler",Accepted,,M,TICA,3057F1CF-BBF9-418F-AB65-0E798AD58B62,,"Mitt. Bot. Staatssamml. München vi. 418 (1967).","","418","",
+gcc-94034,A,Compositae,,Ursinia,,"paleacea",,"","(L.) Moench",Accepted,,M,TICA,DED5097C-81EE-4669-BB75-8C0D0113D67F,257128-1,"","","","1794",
+gcc-92710,A,Compositae,,Ursinia,,"paradoxa",,"","(L.) Gaertn.",Accepted,,M,TICA,990CFA7E-EE0C-4474-B3EE-89369CC1B9C0,,"Fruct. Sem. Pl. ii. 462. t. 174. f. 4.","","462","1791",
+gcc-133411,A,Compositae,,Ursinia,,"pauciloba",,"","(DC.) N.E.Br.",Synonym,,M,TICA,2336E1CF-AC4F-4577-88CC-E572A9246467,,"Gard. Chron. (1887) i. 670","","670","",gcc-100177
+gcc-76745,A,Compositae,,Ursinia,,"pedunculosa",,"","DC.",Unresolved,,L,TICA,A1EF3511-D5AE-44B1-BF78-6553DB47E1C9,257131-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-103559,A,Compositae,,Ursinia,,"pilifera",,"","Gaertn.",Accepted,,M,TICA,707706A8-D0F2-4D88-86BE-A18B3488EC9B,,"""Fruct. Sem. Pl. ii. 463, in obs.; Poir. Encyc. viii. 256.""","","256","",
+gcc-156843,A,Compositae,,Ursinia,,"pilifera",,"","(P.J.Bergius) Poir.",Unresolved,,L,TICA,C59942C9-239F-4A35-82DE-F54B5C3DF314,,"Poir. Encyc. viii. 256 (1808).","","","",
+gcc-25293,A,Compositae,,Ursinia,,"pinnata",,"","(Thunb.) Prassler",Accepted,,M,TICA,7F8FAFA8-46D3-4734-809D-2EAFDD23923A,257134-1,"""Mitt. Bot. Staatssamml. München vi. 387, 390 (1967)""","","390","1967",
+gcc-87217,A,Compositae,,Ursinia,,"pinnata",,"","Benth. & Hook.f.",Unresolved,,L,TICA,36C21FF3-E68D-4C43-90AA-7CC4EA932D12,257133-1,"Gen. ii. 456.","","ii. 456","",
+gcc-93461,A,Compositae,,Ursinia,,"pulchra",,"","N.E.Br.",Synonym,,M,TICA,FECE9DEC-1A08-4789-A2AF-8AC979258930,,"","",""," month 1887",gcc-98771
+gcc-100177,A,Compositae,,Ursinia,,"punctata",,"","(Thunb.) N.E.Br.",Accepted,,M,TICA,6853AB3E-8B81-4A37-B614-9A043E7D4369,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-81959,A,Compositae,,Ursinia,,"pusilla",,"","(DC.) N.E.Br.",Synonym,,M,TICA,D4431DF1-A13A-4E55-8A7E-70F60A93EFC9,,"Gard. Chron. (1887) i. 670","","670","",gcc-98771
+gcc-46562,A,Compositae,,Ursinia,,"pygmaea",,"","DC.",Accepted,,M,TICA,A963BA76-6251-4957-BE2A-5644C6FF86C5,257138-1,"Prodr. (DC.) 5: 690","","690","1836",
+gcc-142276,A,Compositae,,Ursinia,,"quinquepartita",,"","(DC.) N.E.Br.",Accepted,,M,TICA,77789D20-3F4D-4667-BC54-F9468CF184DB,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-98277,A,Compositae,,Ursinia,,"radicans",,"","DC.",Unresolved,,L,TICA,C382DFB7-51F1-4F54-B982-95B99D56F9F4,257140-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-20897,A,Compositae,,Ursinia,,"rigidula",,"","(DC.) N.E.Br.",Accepted,,M,TICA,D854AD8C-2B8C-4F5A-BFC7-26A7339B9E4D,,"Gard. Chron. (1887) i. 670","","670","",
+gcc-46920,A,Compositae,,Ursinia,,"saxatilis",,"","N.E.Br.",Accepted,,M,TICA,2E6D93AE-1FE4-41CF-9731-56F4A8A5B94E,257142-1,"Bull. Misc. Inform. Kew (1894) 355.","","355","",
+gcc-17150,A,Compositae,,Ursinia,,"scapiformis",,"","N.E.Br.",Unresolved,,L,TICA,3BEA4050-1876-4A2A-B007-1FB3E9C9D331,,"Gard. Chron. (1888) i. 670","","670","",
+gcc-111326,A,Compositae,,Ursinia,,"scariosa",,"","(Aiton) Poir.",Accepted,,M,TICA,22E11F01-51A7-4195-8672-B2DC9BB701AB,257144-1,"Encycl. (Lamarck) 8: 257","","257","1808",
+gcc-56464,A,Compositae,,Ursinia,,"scariosa",subsp.,"scariosa","",Synonym,,L,TICA,40F63F05-4032-467A-99D3-7ECB4C9F6CC2,,"","","","",gcc-111326
+gcc-54885,A,Compositae,,Ursinia,,"scariosa",subsp.,"subhirsuta","(DC.) Prassler",Accepted,,L,TICA,FB654F58-1877-4BB7-ADE8-7193899ED123,,"","","","",
+gcc-122233,A,Compositae,,Ursinia,,"schinzii",,"","Dinter",Synonym,,M,TICA,93DBA41C-5C23-4E79-8433-CB9120164453,257145-1,"""Repert. Spec. Nov. Regni Veg. 24: 366, nomen""","","366","1928",gcc-105239
+gcc-29833,A,Compositae,,Ursinia,,"sericea",,"","(Thunb.) N.E.Br.",Accepted,,M,TICA,8ED0FC97-7F90-4050-B971-372ABB70E08A,,"Gard. Chron. (1888) i. 670","","670","",
+gcc-17262,A,Compositae,,Ursinia,,"serrata",,"","Spreng.",Unresolved,,L,TICA,E54E9083-E759-48D7-9F00-1FE9EDE8BAA9,257147-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 609","","609","1826",
+gcc-93356,A,Compositae,,Ursinia,,"serrata",,"","(L.f.) Poir.",Accepted,,M,TICA,D7C9DD36-FBF8-4C8B-9CEF-8A8EB2B813DC,,"Encycl. Meth. Bot. 8: 259 (1808).","","","",
+gcc-9659,A,Compositae,,Ursinia,,"speciosa",,"","DC.",Accepted,,M,TICA,7DB5EC2F-050F-44D3-B6FE-120A8BA2DC86,257148-1,"","","690","1836",
+gcc-142033,A,Compositae,,Ursinia,,"subflosculosa",,"","(DC.) Prassler",Accepted,,M,TICA,46FCBA62-E0CC-45EE-8A99-F8BFA96EF560,257149-1,"Mitt. Bot. Staatssamml. München vi. 391 (1967)","","391","1967",
+gcc-77799,A,Compositae,,Ursinia,,"subhirsuta",,"","(DC.) N.E.Br.",Synonym,,M,TICA,F35BE489-FBFA-477E-8F6F-67AEB7AB0A16,,"Gard. Chron. (1888) i. 670","","670","",gcc-54885
+gcc-97461,A,Compositae,,Ursinia,,"subintegrifolia",,"","Bolus",Synonym,,M,TICA,E3696F0F-BD75-4B7E-8F85-93ECA0AF40DF,257151-1,"Trans. S. African Philos. Soc. xvi. 393 (1906)","","393","1906",gcc-4293
+gcc-11983,A,Compositae,,Ursinia,,"tenuifolia",,"","(L.) Poir.",Accepted,,M,TICA,9EDF4181-2A32-4A70-81CE-16558EDD40AC,257152-1,"Encycl. (Lamarck) 8: 259","","259","1808",
+gcc-23258,A,Compositae,,Ursinia,,"tenuifolia",subsp.,"ciliaris","(DC.) Prassler",Accepted,,L,TICA,92E5488C-B83E-4B46-B09F-2B0B4F8C8CDC,,"Mitt. Bot. Staatssamml. München 6: 410 (1967).","","","",
+gcc-3082,A,Compositae,,Ursinia,,"tenuifolia",subsp.,"tenuifolia","",Synonym,,L,TICA,50CEDF3F-8507-41C3-90F2-05B3BC92C48E,,"","","","",gcc-11983
+gcc-94546,A,Compositae,,Ursinia,,"tenuiloba",,"","DC.",Accepted,,M,TICA,8982F7DB-F1D6-4298-9DAC-8D391D549217,257153-1,"Prodr. (DC.) 5: 689","","689","1836",
+gcc-102467,A,Compositae,,Ursinia,,"tridentata",,"","N.E.Br.",Unresolved,,L,TICA,478F812F-2A68-4CB3-BA32-9F30BED4D6D7,,"Gard. Chron. (1888) i. 670","","670","",
+gcc-35737,A,Compositae,,Ursinia,,"tridentata",,"","Benth. & Hook.f.",Unresolved,,L,TICA,981D0A6F-0A3E-4360-8E64-4246BA916425,257154-1,"Gen. ii. 456.","","ii. 456.","",
+gcc-78533,A,Compositae,,Ursinia,,"trifida",,"","(Thunb.) N.E.Br.",Accepted,,M,TICA,A7551EFC-BC06-410B-9392-695F9C7C5EFD,,"Gard. Chron. (1888) i. 670","","670","",
+tro-2722048,A,Compositae,,Ursinia,,"trifida",,"","N. E. Br. Forma Calva Prassler",Unresolved,,L,TRO,2722048,257156-1,"Garden Club Exchange","i 670.","1888","1888",
+gcc-72904,A,Compositae,,Ursinia,,"trifida",f.,"trifida","",Accepted,,L,TICA,EFE79D83-7E86-482F-9B22-06145248B183,,"","","","",
+gcc-142080,A,Compositae,,Ursinia,,"trifurca",,"","(Harv.) N.E.Br.",Synonym,,M,TICA,8E76B64A-72AA-4125-94A4-F8DC045CEC18,,"Gard. Chron. (1888) i. 670","","670","",gcc-23258
+gcc-121979,A,Compositae,,Ursinia,,"tripartita",,"","N.E.Br.",Unresolved,,L,TICA,0719F3CD-EA3C-4ED4-824B-CAFF1EF8E3DD,,"Gard. Chron. (1888) i. 670","","670","",
+gcc-139727,A,Compositae,,Ursinia,,"tysoniana",,"","Phillips",Synonym,,M,TICA,E9DF3B03-4874-45C5-B7BC-F36236A77262,257159-1,"Ann. S. African Mus. ix. 349 (1917).","","ix. 349","1917",gcc-94546
+gcc-115013,A,Compositae,,Ursinia,,"versicolor",,"","(DC.) N.E.Br.",Synonym,,L,TICA,0B6EE929-3C96-4DC0-9611-BB2E34FB89EE,,"Gard. Chron. (1888) i. 670","","670","",gcc-7932

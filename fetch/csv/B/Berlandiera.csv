@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-35638,A,Compositae,,Berlandiera,,"betonicifolia",,"","(Hook.) Small",Accepted,,M,TICA,5A683B4E-5E53-4C93-9770-42175FD0E169,184663-1,"","","","1903",
+tro-2709559,A,Compositae,,Berlandiera,×,"betonicifolia",,"","(Hook.) Small (pro sp.)",Unresolved,,L,TRO,2709559,,"Fl. S.E. U.S.","1246, 1340","1246","1903",
+gcc-5315,A,Compositae,,Berlandiera,,"dealbata",,"","(Torr. & A.Gray) Small",Synonym,,M,TICA,9EF60935-6773-4931-99B6-09EAC5D86270,184665-1,"","","","1903",gcc-42074
+gcc-129829,A,Compositae,,Berlandiera,,"humilis",,"","Small",Accepted,,M,TICA,699030CF-B299-4562-9F81-DD2694A78C7E,184666-1,"","","","1903",
+tro-2709560,A,Compositae,,Berlandiera,×,"humilis",,"","Small (pro sp.)",Unresolved,,L,TRO,2709560,,"Fl. S.E. U.S.","1246, 1340","1246","1903",
+gcc-135815,A,Compositae,,Berlandiera,,"incisa",,"","Torr. & A.Gray",Synonym,,M,TICA,AD23B019-DF73-49B0-94D6-EAC77FC0A330,184668-1,"","","282","1842",gcc-143208
+gcc-134796,A,Compositae,,Berlandiera,,"longifolia",,"","Nutt.",Synonym,,M,TICA,A9F43E8D-7B98-4E41-B45D-E88EB16885FF,,"","","342","1840",gcc-1838
+gcc-143208,A,Compositae,,Berlandiera,,"lyrata",,"","Benth.",Accepted,,M,TICA,31F810D4-45DE-4D17-9B93-FB60E64D946B,,"","","","1839",
+gcc-67400,A,Compositae,,Berlandiera,,"lyrata",var.,"lyrata","",Synonym,,L,TICA,49179304-A0BA-401C-A148-D6E770D7E373,,"","","","1839",gcc-143208
+gcc-68372,A,Compositae,,Berlandiera,,"lyrata",var.,"macrophylla","A.Gray",Synonym,,L,TICA,BCE4088C-4441-413C-B723-DE476A25C9F5,31601-2,"","","243","1884",gcc-122095
+gcc-122095,A,Compositae,,Berlandiera,,"macrophylla",,"","(A.Gray) M.E.Jones",Accepted,,M,TICA,D499B43C-DCA5-4FDE-A7D7-CB3EC036EC13,31602-2,"Contr. W. Bot. 12","","48","1908",
+gcc-18813,A,Compositae,,Berlandiera,,"monocephala",,"","(B.L.Turner) Pinkava",Accepted,,M,TICA,BF9F0629-EB29-412E-B839-22BC906C4EBA,77068366-1,"","","8","2003",
+gcc-42074,A,Compositae,,Berlandiera,,"pumila",,"","(Michx.) Nutt.",Accepted,,M,TICA,516009D2-FCE7-4131-9E7F-4DF12DA2DD73,,"","","342","1840",
+gcc-65392,A,Compositae,,Berlandiera,,"pumila",var.,"dealbata","(Torr. & A.Gray) Trel.",Synonym,,L,TICA,34FD6B57-E9BD-46A5-BBA2-C667A70B32A0,31603-2,"","","193","1891",gcc-42074
+gcc-10454,A,Compositae,,Berlandiera,,"pumila",var.,"pumila","",Synonym,,L,TICA,5885545F-79BF-4E4F-9164-138096DC1E1F,,"","","","",gcc-42074
+gcc-38995,A,Compositae,,Berlandiera,,"pumila",var.,"scabrella","G.L.Nesom & B.L.Turner",Synonym,,L,TICA,22BD3283-8A55-470B-A84A-485A94AB747C,1006219-1,"Sida 18","","499","1998",gcc-35638
+gcc-11846,A,Compositae,,Berlandiera,,"subacaulis",,"","(Nutt.) Nutt.",Accepted,,M,TICA,4CD6E711-475E-4720-AEA8-1613BD18CB8C,,"","","343","1840",
+gcc-1838,A,Compositae,,Berlandiera,,"texana",,"","DC.",Accepted,,M,TICA,F9B4CC19-7FFF-481B-9D81-034F6B6BE11F,,"","","","1836",
+gcc-72269,A,Compositae,,Berlandiera,,"texana",var.,"betonicifolia","(Hook.) Torr. & A.Gray",Synonym,,L,TICA,A31EE6D4-6CAC-40A8-BD1C-FCAF85B2A7B1,,"","","281","",gcc-35638
+gcc-63171,A,Compositae,,Berlandiera,,"texana",var.,"texana","",Synonym,,L,TICA,AFDD547F-A9E3-4DE7-B3F1-B4B1AF74617A,,"","","","",gcc-1838
+gcc-49426,A,Compositae,,Berlandiera,,"tomentosa",,"","(Pursh) Nutt.",Synonym,,M,TICA,6ECAA1E0-F8DC-419F-B014-5B932013C2A1,,"","","343","1840",gcc-42074
+gcc-70420,A,Compositae,,Berlandiera,,"tomentosa",var.,"dealbata","Torr. & A.Gray",Synonym,,L,TICA,5ECAA646-64C2-465C-8672-EDF8F5AB2293,31605-2,"","","282","1842",gcc-42074
+gcc-149247,A,Compositae,,Berlandiera,,"tomentosa",var.,"tomentosa","",Synonym,,L,TICA,76D458DC-E081-4613-8E50-54FFE395BFCA,,"","","","",gcc-42074

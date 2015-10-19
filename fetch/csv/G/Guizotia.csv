@@ -1,0 +1,52 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-51338,A,Compositae,,Guizotia,,"abyssinica",,"","(L.f.) Cass.",Accepted,,L,TICA,0D98537F-2DBD-4018-AF2E-5F37C2D5F1EA,210735-1,"Dict. Sci. Nat. 59: 248 (1829)","","248","1829",
+gcc-146669,A,Compositae,,Guizotia,,"abyssinica",var.,"abyssinica","",Synonym,,L,TICA,1EF10E5E-380F-4B99-B933-1D8F1C2B206C,,"","","","",gcc-51338
+gcc-72578,A,Compositae,,Guizotia,,"abyssinica",var.,"angustior","(DC.) Oliv. & Hiern",Synonym,,L,TICA,8CFA848B-C13D-4DBC-9AA4-FF10400C9C82,,"Fl. Trop. Afr. 3: 385 (1877)","","385","1877",gcc-51338
+gcc-40014,A,Compositae,,Guizotia,,"abyssinica",var.,"baldratiana","Cif.",Synonym,,L,TICA,34474B6D-0033-44BF-B8FC-4A3C75940A87,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-61492,A,Compositae,,Guizotia,,"abyssinica",var.,"baldratiana","Cufod.",Synonym,,L,TICA,EA094A4B-36D4-42BB-A150-A72078989476,,"","","","",gcc-51338
+gcc-63254,A,Compositae,,Guizotia,,"abyssinica",var.,"candussoiana","Cif.",Synonym,,L,TICA,993E2642-3D14-478A-8D2B-B56B70E0BFAE,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-62243,A,Compositae,,Guizotia,,"abyssinica",var.,"caulirufa","Cif.",Synonym,,L,TICA,C1B32C34-610E-4BD9-A810-AD14E36E6EAE,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-61740,A,Compositae,,Guizotia,,"abyssinica",var.,"corgevinii","Cif.",Synonym,,L,TICA,B2151493-881E-440B-882D-A927022F7672,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-31656,A,Compositae,,Guizotia,,"abyssinica",var.,"negriana","Cif.",Synonym,,L,TICA,6B1C25A2-A978-4E36-97AA-3AAFA0F39A9A,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-17370,A,Compositae,,Guizotia,,"abyssinica",var.,"pichisermollii","Cif.",Synonym,,L,TICA,74385704-D46B-4357-8B60-201A31D18368,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-63245,A,Compositae,,Guizotia,,"abyssinica",var.,"sativa","(Roxb. ex Sims) Oliv. & Hiern",Synonym,,L,TICA,7F7EAF8A-C814-4C3F-A4D9-B55806AC5566,,"Fl. Trop. Afr. 3: 385 (1877)","","385","1877",gcc-51338
+gcc-45303,A,Compositae,,Guizotia,,"abyssinica",var.,"sciarapovii","Cif.",Synonym,,L,TICA,6F1EA7F5-0C09-41C2-A196-53F395BFD0FE,,"""Atti Ist. Bot. Lab. Crittog. Univ. Pavia, V, 2(2): 140 (1944)""","","140","1944",gcc-51338
+gcc-121711,A,Compositae,,Guizotia,,"arborescens",,"","Friis",Accepted,,M,TICA,1A573515-BD13-42A1-BB02-CA61947A3B32,,"","","231","1971",
+gcc-133750,A,Compositae,,Guizotia,,"bidentoides",,"","Oliv. & Hiern",Synonym,,M,TICA,A25BAF9C-1EE3-4763-AB15-E6398AC16D1A,210737-1,"","","386","1877",gcc-87115
+gcc-92586,A,Compositae,,Guizotia,×,"candussioi",,"","Cif.",Accepted,,M,TICA,03591870-1E57-4D55-825A-88EBCA2B3335,,"","","136","1944",
+gcc-130843,A,Compositae,,Guizotia,,"collina",,"","S.Moore",Synonym,,M,TICA,14F014CC-9FB6-4797-8FD8-DF7D319DCF7B,210739-1,"","","262","1908",gcc-105089
+gcc-126197,A,Compositae,,Guizotia,,"discoidea",,"","Sch.Bip. ex Schweinf.",Synonym,,M,TICA,EB9812B0-11A7-4574-894C-D4C90EEE12BE,210740-1,"","","150","1867",gcc-52105
+gcc-47335,A,Compositae,,Guizotia,,"discoidea",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,D411309F-E853-42A1-82FC-57A90E5D2792,,"","","150","1867",gcc-52105
+gcc-102842,A,Compositae,,Guizotia,,"eylesii",,"","S.Moore",Synonym,,M,TICA,7FD3C30F-B267-4301-831E-A0027E5C9508,210741-1,"","","43","1908",gcc-105089
+gcc-21848,A,Compositae,,Guizotia,,"jacksonii",,"","(S.Moore) J.Baagøe",Accepted,,L,TICA,877015CF-8F67-4A68-ABB9-2869B797A02E,210742-1,"","","39","1974",
+gcc-111930,A,Compositae,,Guizotia,,"kassneri",,"","De Wild.",Synonym,,M,TICA,BC284827-94BE-409E-A277-B442A0BFA25E,210743-1,"Repert. Spec. Nov. Regni Veg. 13","","205","1914",gcc-105089
+gcc-82131,A,Compositae,,Guizotia,,"nyikensis",,"","Baker",Synonym,,M,TICA,687E7736-F5AB-455A-83BF-7155CF19B4E4,210744-1,"","","153","1898",gcc-105089
+gcc-92020,A,Compositae,,Guizotia,,"oblonga",,"","(Hutch.) Hutch. & Bullock",Synonym,,M,TICA,BA1CF3CE-7164-46AD-AE87-87ABA034883B,,"","","","1933",gcc-105089
+gcc-42909,A,Compositae,,Guizotia,,"oleifera",,"","(DC.) DC.",Synonym,,L,TICA,E05D8BD7-6A15-4EB1-AD2A-4F7D5B276CD3,,"","","271","1836",gcc-51338
+gcc-97547,A,Compositae,,Guizotia,,"oleifera",,"","DC. & A.DC.",Synonym,,L,TICA,8E1DA2B7-A411-467F-9E6D-942070840485,,"DC. & A. DC. in Mém. Soc. Phys. Genève 7. 1836.","","269","1836",gcc-51338
+gcc-66776,A,Compositae,,Guizotia,,"oleifera",subsp.,"angustior","DC.",Synonym,,L,TICA,51711495-D4F9-42EE-99D2-D1A58E8B5E39,,"Prodr. 5: 552 (1836).","","","",gcc-51338
+gcc-155086,A,Compositae,,Guizotia,,"oleifera",subsp.,"oleifera","",Synonym,,L,TICA,9EA1338E-940F-4DB8-924A-D0AFF32ACFFD,,"","","","",gcc-51338
+gcc-155495,A,Compositae,,Guizotia,,"oleifera",var.,"oleifera","",Synonym,,L,TICA,8F5293D7-6A5D-4D8B-BD01-D96746C8F97A,,"","","","",gcc-51338
+gcc-27705,A,Compositae,,Guizotia,,"oleifera",var.,"sativa","(Roxb. ex Sims) DC.",Synonym,,L,TICA,D72750BA-912F-4567-B2F5-3334F63C7992,,"Mém. Soc. Phys. Genève 2(7): 272 (1836)","","","1836",gcc-51338
+gcc-63677,A,Compositae,,Guizotia,,"oleifera",subsp.,"sativa","DC.",Synonym,,L,TICA,C3E40EAB-6A52-4C19-B4C9-B8A70A5B6D55,,"Prodr. 5: 552 (1836).","","","",gcc-51338
+gcc-44791,A,Compositae,,Guizotia,,"reptans",,"","Hutch.",Synonym,,M,TICA,B6FD0B76-4B7B-4D65-991A-52F7B9B5CDEF,210747-1,"","","17","1914",gcc-21848
+gcc-65528,A,Compositae,,Guizotia,,"reptans",var.,"keniensis","R.E.Fr.",Synonym,,L,TICA,CE95754A-17E3-4586-AF83-C775B0BF3D6F,,"Acta Horti Berg. 9: 142 (1928)","","142","1928",gcc-21848
+gcc-154552,A,Compositae,,Guizotia,,"reptans",var.,"reptans","",Synonym,,L,TICA,ED94C850-A7A5-40AE-B009-C611BDBEFBC5,,"","","","",gcc-21848
+gcc-25812,A,Compositae,,Guizotia,,"ringoetii",,"","De Wild.",Synonym,,M,TICA,170EA9F6-DB64-46B1-A1B2-2FAF4F9F03A7,210748-1,"Repert. Spec. Nov. Regni Veg. 13","","204","1914",gcc-105089
+gcc-105089,A,Compositae,,Guizotia,,"scabra",,"","(Vis.) Chiov.",Accepted,,M,TICA,361A3F39-810F-46BC-9AFB-A4E103FFCD2A,210749-1,"","","184","",
+gcc-150758,A,Compositae,,Guizotia,,"scabra",var.,"scabra","",Synonym,,L,TICA,833A719A-EA4E-4572-A2CA-75A745B57156,,"","","","",gcc-105089
+gcc-55550,A,Compositae,,Guizotia,,"scabra",subsp.,"scabra","",Synonym,,L,TICA,22F60AB6-5C6E-45A5-9BD7-76DAC641DD89,,"","","","",gcc-105089
+gcc-27783,A,Compositae,,Guizotia,,"scabra",subsp.,"schimperi","(Sch.Bip. ex Walp.) J.Baagøe",Synonym,,L,TICA,D10DE21D-771B-4426-95B3-335A03A9F95E,,"""Bot. Tidsskr., 69(1): 28 (1974).""","","","",gcc-94825
+gcc-40013,A,Compositae,,Guizotia,,"scabra",var.,"sotikensis","(S.Moore) Robyns",Synonym,,L,TICA,1D966D5C-3300-4C6A-BFDE-4A3BD69E8ADD,,"Fl. Spermatophyt. Parc Nat. Albert 2: 526 (1947)","","526","1947",gcc-105089
+gcc-3414,A,Compositae,,Guizotia,,"schimperi",,"","Sch.Bip.",Unresolved,,L,TICA,CC6C6CC1-1F95-47C1-9EF6-064C54A1C674,210750-1,"in Repert. Bot. Syst. (Walpers) vi. 158.","","158","",
+gcc-94825,A,Compositae,,Guizotia,,"schimperi",,"","Sch.Bip. ex Walp.",Accepted,,M,TICA,5EA581A1-47AE-48ED-894C-8DE9E683B459,,"Repert. Bot. Syst. 6: 158 (1846)","","158","1846",
+gcc-29753,A,Compositae,,Guizotia,,"schultzii",,"","Hochst. ex Sch.Bip.",Synonym,Illegitimate,M,TICA,8CC4513A-0E4E-405F-A893-36FDC5EBBD5D,,"Tentamen Florae Abyssinicae . . . 1:","","407","1848",gcc-105089
+gcc-85694,A,Compositae,,Guizotia,,"schultzii",,"","Hochst. ex A.Rich.",Synonym,Illegitimate,M,TICA,944D099A-EBB4-428C-835A-793E5FC72DC2,,"","","","1848",gcc-105089
+gcc-154406,A,Compositae,,Guizotia,,"schultzii",var.,"schultzii","",Synonym,,L,TICA,8EF24750-A3B0-4AEE-9AE5-C2E828FA3C30,,"","","","",gcc-105089
+gcc-89809,A,Compositae,,Guizotia,,"villosa",,"","Sch.Bip. ex A.Rich.",Accepted,,L,TICA,9C1726CF-D9E9-4177-A75E-8297206A4398,210752-1,"","","","1848",
+gcc-152761,A,Compositae,,Guizotia,,"villosa",var.,"villosa","",Synonym,,L,TICA,C452D849-5B11-4995-9335-9FF9CA095C56,,"","","","",gcc-89809
+gcc-84594,A,Compositae,,Guizotia,×,"villosula",,"","Cif.",Accepted,,M,TICA,7F0E29E0-04FD-4A04-8A2C-76E0EED10F15,,"""in Atti Ist. Bot. Univ. Pavia, Ser. 5, ii. 136 (1944)""","","136","1944",
+gcc-88049,A,Compositae,,Guizotia,,"zavattarii",,"","Lanza",Accepted,,M,TICA,C3F683FB-B41F-4B07-A6A2-7E9311F7B1A7,210754-1,"","","258","1939",
+gcc-59518,A,Compositae,,Guizotia,,"zavattarii",var.,"hirsutissima","Cufod.",Synonym,,L,TICA,4D437880-A2F8-4ADB-A747-97034BF1630F,,"Nuovo Giorn. Bot. Ital. 50: 110 (1943)","","110","1943",gcc-88049
+gcc-71986,A,Compositae,,Guizotia,,"zavattarii",var.,"opima","Lanza",Synonym,,L,TICA,7C00649C-1FD9-4A7B-A976-FA64866636D6,,"""Miss. Biol. Borana, Racc. Bot., Angiosp.-Gymnosp.: 259 (1939)""","","259","1939",gcc-88049
+gcc-55063,A,Compositae,,Guizotia,,"zavattarii",var.,"zavattarii","",Synonym,,L,TICA,DCBAAFB8-4419-4974-91CB-72FC61F69935,,"","","","",gcc-88049

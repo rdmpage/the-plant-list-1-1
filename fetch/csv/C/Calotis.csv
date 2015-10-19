@@ -1,0 +1,66 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-104788,A,Compositae,,Calotis,,"anamitica",,"","(Kuntze) C.C.Chang",Unresolved,,L,TICA,A608F9DA-4A18-4324-999D-A435450652EA,,"Sunyatsenia 6(1):","","19","1941",gcc-93739
+gcc-37565,A,Compositae,,Calotis,,"anamitica",,"","(Kuntze) Merr.",Accepted,,M,TICA,3FA14834-F6A8-4B92-84C3-45A4F2872D61,188079-1,"Bull. Soc. Bot. France 77","","341","1930",
+gcc-137661,A,Compositae,,Calotis,,"ancyrocarpa",,"","J.M.Black",Accepted,,M,TICA,BA85BE11-6FB4-4894-9FF0-EEF156341516,138549-3,"","","","1921",
+gcc-45005,A,Compositae,,Calotis,,"anthemoides",,"","F.Muell.",Accepted,,M,TICA,9844D433-646A-41C9-A6DF-5362AD05FFB4,188081-1,"","","44","1855",
+gcc-79854,A,Compositae,,Calotis,,"anthemoides",,"","Hook.f.",Unresolved,,L,TICA,A36EF806-86E7-47D5-A271-6C4D72707295,,"","","","",
+gcc-78577,A,Compositae,,Calotis,,"breviradiata",,"","(Ising) G.L.Davis",Accepted,,M,TICA,2E0EB97C-2780-4B46-83BC-69723D04E654,188082-1,"","","186","1952",
+gcc-126539,A,Compositae,,Calotis,,"breviseta",,"","Benth.",Accepted,,M,TICA,0BD3EE09-997C-4299-9E31-D58DC1070D70,188083-1,"","","","1837",
+gcc-141110,A,Compositae,,Calotis,,"caespitosa",,"","C.C.Chang",Accepted,,M,TICA,6A949C14-14E6-4CCC-9333-F699A90F7AFF,188084-1,"Sunyatsenia 3","","280","1937",
+gcc-30275,A,Compositae,,Calotis,,"cuneata",,"","(F.Muell. ex Benth.) G.L.Davis",Accepted,,M,TICA,3DC7A985-E14D-4852-803E-38051C4CA549,188085-1,"","","175","1952",
+gcc-70802,A,Compositae,,Calotis,,"cuneata",var.,"cuneata","",Synonym,,L,TICA,FA197930-C839-4F09-ADB5-F0EBDE41DFFF,,"Proceedings of the Linnean Society of New South Wales 77  1952 Textfigs 102-104.","","77  1952 Textfigs 102-104.","",gcc-30275
+gcc-36254,A,Compositae,,Calotis,,"cuneata",var.,"pubescens","(F.Muell. ex Benth.) G.L.Davis",Synonym,,L,TICA,7AA8D4D7-446F-40DE-AACD-433C9314C5DE,138678-3,"","","178","1952",gcc-17313
+gcc-95642,A,Compositae,,Calotis,,"cuneifolia",,"","R.Br.",Accepted,,M,TICA,A8196599-3D88-4148-A4C0-8FD5AC340FA5,188086-1,"","","t. 504","1820",
+gcc-72174,A,Compositae,,Calotis,,"cuneifolia",var.,"biaristata","Domin",Synonym,,L,TICA,7E1A5B95-494C-4E38-BE97-FBF7701BAF6B,,"","","","1930",gcc-95642
+gcc-69280,A,Compositae,,Calotis,,"cuneifolia",var.,"cuneifolia","",Synonym,,L,TICA,694D8B47-E93F-4016-AE2A-E52A7DD27754,,"Bibliotheca Botanica 89(4)  1928 =  Bibliotheca Botanica Heft 89 (Feb. 1930) 655","","89(4)  1928 =   Heft 89 (Feb. 1930) 655","",gcc-95642
+gcc-10661,A,Compositae,,Calotis,,"cuneifolia",var.,"glabrescens","C.T.White",Synonym,,L,TICA,C5733CCF-E41B-4E72-88E2-13EE1D94C80C,138745-3,"","","","1946",gcc-95642
+gcc-105172,A,Compositae,,Calotis,,"cymbacantha",,"","F.Muell.",Accepted,,M,TICA,532963E6-4829-4388-9322-A50C68FE5436,188087-1,"Linnaea 25","","400","1853",
+gcc-59894,A,Compositae,,Calotis,,"cymbacantha",var.,"cymbacantha","",Synonym,,L,TICA,1192B7C6-AACA-4D98-AE14-9A1CCB2C8BAE,138782-3,"Flora Australiensis 3  1867","","3","1867",gcc-105172
+gcc-67557,A,Compositae,,Calotis,,"cymbacantha",var.,"pumila","Benth.",Synonym,,L,TICA,1B444CA3-C294-4D75-86F5-D821C030F692,138795-3,"","","","1867",gcc-105172
+gcc-104344,A,Compositae,,Calotis,,"dentex",,"","R.Br.",Accepted,,M,TICA,C0C8E130-36E3-48D4-A70E-A34C7224CE34,188088-1,"","","t. 504","1820",
+gcc-21598,A,Compositae,,Calotis,,"dilatata",,"","A.Cunn.",Unresolved,,L,TICA,9CE89E5C-11D2-44BD-B9CF-27EAF191E7E0,188089-1,"Prodr. (DC.) 5: 302","","302","1836",
+gcc-47892,A,Compositae,,Calotis,,"dilatata",,"","A.Cunn. ex DC.",Synonym,,M,TICA,A78A6E14-D046-4200-A4ED-58B8689E4350,138844-3,"","","","1836",gcc-95642
+gcc-83128,A,Compositae,,Calotis,,"erinacea",,"","Steetz",Accepted,,M,TICA,4A3F015F-43E0-4B84-AA11-73A5875A154F,188090-1,"","","424","1845",
+gcc-23520,A,Compositae,,Calotis,,"erinacea",var.,"biaristata","J.M.Black",Synonym,,L,TICA,DB76A859-283B-465C-B30A-2B81DF8A0A7E,138895-3,"","","","1928",gcc-83128
+gcc-18713,A,Compositae,,Calotis,,"erinacea",var.,"erinacea","",Synonym,,L,TICA,7B4C7E58-5BAA-47A8-BB66-2291AF0A50DC,138904-3,"Flora Australiensis","","503","1867",gcc-83128
+gcc-53095,A,Compositae,,Calotis,,"erinacea",var.,"parviflora","Benth.",Synonym,,L,TICA,CE9B6E4D-03ED-4467-81F2-6374389F6C89,138913-3,"","","","1867",gcc-83128
+gcc-101297,A,Compositae,,Calotis,,"gaudichaudii",,"","Gagnep.",Synonym,,M,TICA,2C740EAB-DF5D-4F50-95E0-9C76C936C1C9,,"Bull. Soc. Bot. France 68","","45","1921",gcc-37565
+gcc-87515,A,Compositae,,Calotis,,"glabrescens",,"","C.T.White",Accepted,,M,TICA,9C7C72EB-7B29-43D0-87BE-7D7681DB7591,,"","","","1947",
+gcc-111991,A,Compositae,,Calotis,,"glandulosa",,"","F.Muell.",Accepted,,M,TICA,EA08274F-117E-4A28-AA08-B4628DA637A5,188093-1,"","","","1855",
+gcc-80605,A,Compositae,,Calotis,,"hispidula",,"","(F.Muell.) F.Muell.",Accepted,,M,TICA,F1C5A582-016D-4885-9E05-6DEF40A6426E,188094-1,"","","130","1855",
+gcc-23175,A,Compositae,,Calotis,,"hispidula",var.,"hispidula","",Synonym,,L,TICA,D71464BB-670A-45E9-B755-2AE8268655AF,139010-3,"Report of the Botanical Society and Exchange Club of the British Isles Report for 1914 1915","","","1915",gcc-80605
+gcc-56552,A,Compositae,,Calotis,,"hispidula",var.,"sessiliceps","Thell.",Synonym,,L,TICA,E352668F-3E51-4B31-A8A3-7F73C51C2C94,139019-3,"","","15","1915",gcc-80605
+gcc-128595,A,Compositae,,Calotis,,"inermis",,"","Maiden & Betche",Accepted,,M,TICA,CE480A35-EC76-4C41-9D76-DA6091EDC654,188095-1,"","","84","",
+gcc-111751,A,Compositae,,Calotis,,"kempei",,"","F.Muell.",Accepted,,M,TICA,E09B68EC-310A-49A9-9FC5-B3D0DF4D9B5B,,"","","","1881",
+gcc-7705,A,Compositae,,Calotis,,"lappulacea",,"","Benth.",Accepted,,M,TICA,6515DB65-52A2-4A75-B95B-0E5090F134BE,188097-1,"","","60","1837",
+gcc-90926,A,Compositae,,Calotis,,"latiuscula",,"","F.Muell. & Tate",Accepted,,M,TICA,FC627229-A6DB-49F4-9395-852BAF7EC3CE,188098-1,"","","107","1890",
+gcc-38087,A,Compositae,,Calotis,,"microcephala",,"","F.Muell. ex Benth.",Synonym,,M,TICA,9CCF2590-760D-41B9-94C3-46A65827AAF7,188099-1,"Fl. Austral. 3","","504","1867",gcc-30866
+gcc-9627,A,Compositae,,Calotis,,"microphylla",,"","Benth.",Synonym,,M,TICA,A7FEF397-2971-4DDE-AEF2-11F89D9E36E6,188100-1,"","","","1837",gcc-7705
+gcc-94914,A,Compositae,,Calotis,,"moorei",,"","P.S.Short",Accepted,,M,TICA,9F2BF13E-F5C7-4C8F-9981-8E1DEC243D12,959131-1,"","","405","1991",
+gcc-41916,A,Compositae,,Calotis,,"muelleri",,"","Sond.",Unresolved,,L,TICA,E239C128-DBD2-418E-86A0-4D9D22DDC2AC,188101-1,"Linnaea 25","","470","1853",
+gcc-139477,A,Compositae,,Calotis,,"multicaulis",,"","(Turcz.) Druce",Synonym,,M,TICA,964AF574-90DC-43CE-A14D-F2D227BAC9BF,139193-3,"","","611","1917",gcc-144283
+gcc-87570,A,Compositae,,Calotis,,"multicaulis",,"","Ostenf.",Unresolved,,L,TICA,8A4E6165-FEE4-47E9-8BD0-7D936F663ADE,188103-1,"in Dansk. Vidensk. Selsk. Biol. Medd. iii. II. 130 (1921)","","130","1921",
+gcc-10926,A,Compositae,,Calotis,,"multicaulis",var.,"multicaulis","",Synonym,,L,TICA,36DA4814-1756-4482-A86E-146DE581968C,139230-3,"Transactions and Proceedings of the Royal Society of South Australia","","604","1922",gcc-144283
+gcc-22200,A,Compositae,,Calotis,,"palmata",,"","A.Gray",Synonym,,M,TICA,971BC08B-E268-4712-BEA5-2913280C2792,,"","","121","",gcc-95642
+gcc-144283,A,Compositae,,Calotis,,"plumulifera",,"","F.Muell.",Accepted,,M,TICA,5F536CD0-5414-4793-A707-FDBE41C40B49,139263-3,"","","","1859",
+gcc-140722,A,Compositae,,Calotis,,"polyseta",,"","Sond.",Synonym,,M,TICA,C04A656E-578C-48A0-AF12-F5BE1DC4A124,188106-1,"Linnaea 25","","470","1853",gcc-7705
+gcc-30866,A,Compositae,,Calotis,,"porphyroglossa",,"","F.Muell. ex Benth.",Accepted,,M,TICA,46378BD0-9BCE-4396-959C-39261FC614EB,188107-1,"Fl. Austral. 3","","505","1867",
+gcc-88970,A,Compositae,,Calotis,,"pterosperma",,"","R.Br. ex Benth.",Synonym,,M,TICA,60BB83D2-45D6-4756-8B22-809CC6642310,188108-1,"Fl. Austral. 3","","505","1867",gcc-126539
+gcc-17313,A,Compositae,,Calotis,,"pubescens",,"","(F.Muell. ex Benth.) N.G.Walsh & K.L.McDougall",Accepted,,M,TICA,81AF6321-191F-4DF0-AB2E-200086D7A4DC,20010393-1,"Muelleria 16","","44","2002",
+gcc-139616,A,Compositae,,Calotis,,"scabiosifolia",,"","Sond. ex F.Muell.",Accepted,,M,TICA,0391503A-B6EA-4369-976A-F3195CD2624B,188109-1,"Linnaea 25","","471","1853",
+gcc-60425,A,Compositae,,Calotis,,"scabiosifolia",var.,"cuneata","F.Muell. ex Benth.",Synonym,,L,TICA,20369E4A-D2E3-45AB-A3CC-9E3A937D0D29,139378-3,"","","","1867",gcc-30275
+gcc-33914,A,Compositae,,Calotis,,"scabiosifolia",var.,"elongata","F.Muell. ex Benth.",Synonym,,L,TICA,4C8D81CA-A5DB-4760-8E3E-3EE1F93C5203,139404-3,"","","","1867",gcc-144058
+gcc-15476,A,Compositae,,Calotis,,"scabiosifolia",var.,"integrifolia","F.Muell. ex Benth.",Accepted,,L,TICA,816C531F-EB3D-44DD-A604-1CA8EA0544C7,139420-3,"","","503","1867",
+gcc-58694,A,Compositae,,Calotis,,"scabiosifolia",var.,"lasiocarpa","F.Muell. ex Benth.",Synonym,,L,TICA,0E36DB11-3804-45F8-9B8E-909FF67354BA,,"","","","",gcc-15476
+gcc-58593,A,Compositae,,Calotis,,"scabiosifolia",var.,"pubescens","F.Muell. ex Benth.",Synonym,,L,TICA,D8A3FBEE-4C3B-4D61-9233-9004A49DE659,139463-3,"","","","1867",gcc-17313
+gcc-10760,A,Compositae,,Calotis,,"scabiosifolia",var.,"scabiosifolia","",Synonym,,L,TICA,F69C0CEF-B59D-4767-A99E-14211671725A,,"","","","",gcc-139616
+gcc-123370,A,Compositae,,Calotis,,"scabriuscula",,"","C.T.White",Synonym,,M,TICA,D260CBBB-CB62-4C42-8A14-CE233042FF55,,"","","","1947",gcc-104344
+gcc-54826,A,Compositae,,Calotis,,"scabriuscula",var.,"lobata","C.T.White",Synonym,,L,TICA,DE544E28-1E18-4D9C-96C7-71284AF062AA,139544-3,"","","","1946",gcc-104344
+gcc-63864,A,Compositae,,Calotis,,"scabriuscula",var.,"scabriuscula","",Synonym,,L,TICA,E4236A67-52C6-436A-9441-BA1A913CA427,139553-3,"Proceedings of the Royal Society of Queensland","","31","1946",gcc-104344
+gcc-144058,A,Compositae,,Calotis,,"scapigera",,"","Hook.",Accepted,,M,TICA,00547580-2E1B-4E8B-8B40-FD4528359FB7,188111-1,"","","75","1848",
+gcc-14750,A,Compositae,,Calotis,,"scapigera",var.,"dentata","Sond.",Synonym,,L,TICA,5F60D038-AFA6-44C7-B5F5-1B5CCA83C4AF,139591-3,"","","","1853",gcc-144058
+gcc-39265,A,Compositae,,Calotis,,"scapigera",var.,"scapigera","",Synonym,,L,TICA,15A9875A-F41C-4E23-B7DC-48DE44DD1C0F,139601-3,"Linnaea 25  1853","","25","1853",gcc-144058
+gcc-118112,A,Compositae,,Calotis,,"squamigera",,"","C.T.White",Accepted,,M,TICA,24B36561-8EE7-4BA7-B638-C22DE5B36FCD,,"","","","",
+gcc-92893,A,Compositae,,Calotis,,"suffruticosa",,"","Domin",Accepted,,M,TICA,14B7429D-2334-46CB-90AC-899AF0686DFB,188113-1,"","","655","1929",
+gcc-142518,A,Compositae,,Calotis,,"tropica",,"","F.Muell.",Synonym,,M,TICA,77D60F18-BEC8-4464-88D4-F9C78BCFE04D,139653-3,"","","","1859",gcc-126539
+gcc-123590,A,Compositae,,Calotis,,"xanthosioidea",,"","Domin",Accepted,,M,TICA,60917431-1D3B-4613-9774-CEB0774D7550,188115-1,"","","655","1929",

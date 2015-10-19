@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24241,A,Compositae,,Cacosmia,,"harlingii",,"","B.Nord.",Accepted,,M,TICA,51EF5251-721E-4E41-ABCB-2CC244E786C8,187402-1,"Bot. Not. 130","","283","1977",
+gcc-84105,A,Compositae,,Cacosmia,,"hieronymi",,"","H.Rob.",Accepted,,M,TICA,624E6E7F-49C4-4DC4-9F16-75C7BA518656,39491-2,"Phytologia 34","","46","1976",
+gcc-97709,A,Compositae,,Cacosmia,,"quinquenervia",,"","(DC.) Steud.",Synonym,,M,TICA,2E581B10-474A-482D-9284-9484D0ABC576,187404-1,"","","377","1840",gcc-44010
+gcc-99149,A,Compositae,,Cacosmia,,"rugosa",,"","Kunth",Accepted,,M,TICA,48BB6BFE-4F57-43DF-B2F6-97B75F548311,,"","","","",
+gcc-22396,A,Compositae,,Cacosmia,,"rugosa",var.,"arachnoidea","Hieron.",Synonym,,L,TICA,62423077-0286-412E-8E2D-2971840DE5AE,39492-2,"Bot. Jahrb. Syst. 28","","619","1901",gcc-84105
+gcc-44010,A,Compositae,,Cacosmia,,"rugosa",var.,"nivea","Hieron.",Accepted,,L,TICA,74937217-3039-4FF4-A116-5185E0BB7C58,39494-2,"Bot. Jahrb. Syst. 28","","619","1901",
+gcc-66550,A,Compositae,,Cacosmia,,"rugosa",var.,"rugosa","",Synonym,,L,TICA,1B83AC5C-109B-4CBB-AECE-CFA720FA1E1C,,"","","","",gcc-99149

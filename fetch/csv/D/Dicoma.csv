@@ -1,0 +1,131 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98498,A,Compositae,,Dicoma,,"aethiopica",,"","S.Ortiz & Rodr.Oubiña",Accepted,,M,TICA,182CB0A0-3283-4BEE-B40F-9648CF3E3D0B,993602-1,"","","279","1997",
+gcc-117784,A,Compositae,,Dicoma,,"alemannii-mazzocchii",,"","Chiov.",Accepted,,M,TICA,8CAFD63F-75C1-4E61-BCDA-C1734D037F97,201310-1,"","","","1924",
+gcc-109679,A,Compositae,,Dicoma,,"angustifolia",,"","(S.Moore) Wild",Synonym,,M,TICA,ADC8717C-1AE6-464B-80CE-AF338201B16B,201311-1,"","","181","1972",gcc-98691
+gcc-141429,A,Compositae,,Dicoma,,"anmadochrissa",,"","Lawalrée",Synonym,,M,TICA,F8CFDD02-B1E6-4936-B6EE-F76882ED0553,,"","","437","1978",gcc-3224
+gcc-1433,A,Compositae,,Dicoma,,"anomala",,"","Sond.",Accepted,,M,TICA,ED960612-7325-4BA1-BB05-02952F757757,201313-1,"Linnaea 23","","71","1850",
+gcc-150536,A,Compositae,,Dicoma,,"anomala",f.,"anomala","",Synonym,,L,TICA,48644B0A-E2B6-450A-84CB-70E263EA2F1F,,"","","","",gcc-1433
+gcc-153794,A,Compositae,,Dicoma,,"anomala",var.,"anomala","",Synonym,,L,TICA,54212F7B-2E98-4261-934E-B550A54C6A48,,"","","","",gcc-1433
+gcc-47851,A,Compositae,,Dicoma,,"anomala",subsp.,"anomala","",Synonym,,L,TICA,36E96908-5E36-415C-BBA0-58A714338DC1,,"Linnaea 23: 71. 1850","","","",gcc-1433
+gcc-63421,A,Compositae,,Dicoma,,"anomala",subsp.,"attenuata","(S.Moore) S.Ortiz & Rodr.Oubiña",Accepted,,L,TICA,999A8D0F-6D3F-4ED7-BDF9-B6C82A89F00B,995640-1,"","","584","1997",
+gcc-66493,A,Compositae,,Dicoma,,"anomala",var.,"attenuata","S.Moore",Synonym,,L,TICA,8A6FB6B7-63A4-4CF2-A381-CF2EF76E35A9,,"""Journal of Botany, British and Foreign 65, Suppl. 2, Gamopet.:""","","65","1927",gcc-63421
+gcc-56705,A,Compositae,,Dicoma,,"anomala",var.,"cirsioides","Harv.",Synonym,,L,TICA,BAFEB197-72BE-4A52-AF67-809523B8BD72,,"Fl. Cap. 3: 517 (1865)","","517","1865",gcc-1433
+gcc-66483,A,Compositae,,Dicoma,,"anomala",subsp.,"cirsioides","(Harv.) Wild",Synonym,,L,TICA,0B0AF4C4-C68A-42ED-84AF-CF21DC90B0A2,877161-1,"","","191","1972",gcc-1433
+gcc-58288,A,Compositae,,Dicoma,,"anomala",subsp.,"gerrardii","(Harv. ex F.C.Wilson) S.Ortiz & Rodr.Oubiña",Accepted,,L,TICA,2ECE643D-38D5-4087-A4C6-8D6862177B4A,995641-1,"","","584","1997",
+gcc-61365,A,Compositae,,Dicoma,,"anomala",var.,"karaguensis","(Oliv.) O.Hoffm.",Synonym,,L,TICA,BC9E6492-5F94-4C74-9746-A5FBE8E27CD1,,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 15:""","","545","1893",gcc-1433
+gcc-74580,A,Compositae,,Dicoma,,"anomala",f.,"karaguensis","(Oliv.) Oliv. & Hiern",Synonym,,L,TICA,6243D5E2-99A0-4502-BB71-44AE72B27E9B,,"Flora of Tropical Africa 3:","","445","1877",gcc-1433
+gcc-57590,A,Compositae,,Dicoma,,"anomala",var.,"latifolia","O.Hoffm.",Synonym,,L,TICA,DB30FCCB-12DD-4307-ACC5-878956A6CAE2,,"Kunene-Sambesi-Expedition","","426","1903",gcc-1433
+gcc-19541,A,Compositae,,Dicoma,,"anomala",var.,"leptothrix","S.Moore",Synonym,,L,TICA,5184A676-AA96-4760-9AC8-2420A5D0EC0E,,"""Journal of Botany, British and Foreign 65, Suppl. 2, Gamopet.:""","","65","1927",gcc-1433
+gcc-59966,A,Compositae,,Dicoma,,"anomala",var.,"megacephala","(Baker) Mendonça",Synonym,,L,TICA,6C9916F3-056B-4533-9709-9AAA16B2EFFE,,"Contr. Conhecimento Fl. Angol. 1:","","Compositae.: 143","1943",gcc-1433
+gcc-36078,A,Compositae,,Dicoma,,"anomala",var.,"microcephala","Harv.",Synonym,,L,TICA,D9076FFA-072D-487C-8B63-42E7D3769DB5,,"Fl. Cap. 3: 517 (1865)","","517","1865",gcc-58288
+gcc-74724,A,Compositae,,Dicoma,,"anomala",f.,"microcephala","(Harv.) Oliv. & Hiern",Synonym,,L,TICA,234964B4-AD1E-471A-9DFD-4AD2B1FFDA9C,,"","","","",gcc-58288
+gcc-68621,A,Compositae,,Dicoma,,"anomala",var.,"microphylla","O.Hoffm.",Synonym,,L,TICA,27531F75-F678-401B-B4FC-E01DCAB5B794,,"Kunene-Sambesi-Expedition","","426","1903",gcc-1433
+gcc-38235,A,Compositae,,Dicoma,,"anomala",var.,"sonderi","Harv.",Synonym,,L,TICA,5081D9C0-FB4D-471C-A819-46EC867C101B,,"Flora Capensis 3:","","517","1865",gcc-1433
+gcc-14473,A,Compositae,,Dicoma,,"antunesii",,"","O.Hoffm.",Accepted,,M,TICA,7E5B119C-5B2E-48BD-A9CC-1ADC022ACB73,201314-1,"","","425","1903",
+gcc-26623,A,Compositae,,Dicoma,,"arenaria",,"","Bremek.",Accepted,,M,TICA,3801FE77-ED56-4826-94B6-3131E9943DB8,201315-1,"","","263","1933",
+gcc-43304,A,Compositae,,Dicoma,,"arenicola",,"","Muschl. ex Dinter",Synonym,,M,TICA,7FECA1D8-8D1B-404C-B80C-503CC09013A3,,"","","","",gcc-7617
+gcc-50452,A,Compositae,,Dicoma,,"argyrophylla",,"","Oliv.",Synonym,,M,TICA,C25AC991-40D3-4133-9C0E-5D8A5B938B09,,"","","","",gcc-41150
+gcc-37459,A,Compositae,,Dicoma,,"attenuata",,"","(S.Moore) G.V.Pope",Synonym,,M,TICA,9C09A4F4-3D18-4171-9BC2-456F8207655A,963158-1,"Kew Bulletin 46(4):","","708","1991",gcc-63421
+gcc-121097,A,Compositae,,Dicoma,,"auriculata",,"","Hutch. & B.L.Burtt",Synonym,,M,TICA,D0E01F28-1C0D-473C-B8F3-C909A3CC6A05,201317-1,"","","42","1932",gcc-133220
+tro-50075746,A,Compositae,,Dicoma,,"bangueolens",,"","Buscal. & Muschl.",Unresolved,,L,TRO,50075746,,"Bot. Jahrb. Syst.","49: 514","514","1913",
+gcc-87109,A,Compositae,,Dicoma,,"bangueolensis",,"","Buscal. & Muschl.",Accepted,,M,TICA,37187101-3871-414D-9CA4-7C8473299440,201318-1,"","","514","1913",
+gcc-128238,A,Compositae,,Dicoma,,"burmanii",,"","(Cass.) Less.",Synonym,Illegitimate,M,TICA,87EED1BA-55F3-4BA8-B89F-D98BEC618A23,201319-1,"Linnaea 5","","279","1830",gcc-132787
+gcc-6673,A,Compositae,,Dicoma,,"cana",,"","Balf.f.",Synonym,,M,TICA,E617C228-DA7A-487A-8D0F-0C6270D0F534,201320-1,"","","841","1882",gcc-8076
+gcc-18525,A,Compositae,,Dicoma,,"candidissima",,"","Desf.",Synonym,,M,TICA,01B151A6-3DF7-4F3A-8950-223621EC34EF,,"","","","",gcc-41334
+gcc-45214,A,Compositae,,Dicoma,,"capensis",,"","Less.",Accepted,,M,TICA,124FB40D-7D20-4424-A450-53CB1930B55E,201321-1,"Linnaea 5","","277","1830",
+gcc-78630,A,Compositae,,Dicoma,,"carbonaria",,"","(S.Moore) Humbert",Accepted,,M,TICA,18A8F6E9-1647-4274-B381-6990E6F95CB0,201322-1,"","","149","1923",
+gcc-156361,A,Compositae,,Dicoma,,"chatanensis",,"","N.Kilian",Accepted,,M,TICA,BF60AE76-18F2-4CCC-8A73-EB81B9978D79,,"""Kilian, N. 2010. Nordic J. Bot. 28(1): 59-60.""","","","2009",
+gcc-131251,A,Compositae,,Dicoma,,"cinerea",,"","S.Ortiz & Rodr.Oubiña",Synonym,,M,TICA,83EFEE40-2123-4E5B-BA27-E07A1771E3F0,,"","","1479","1994",gcc-29311
+gcc-87024,A,Compositae,,Dicoma,,"cowanii",,"","S.Moore",Synonym,,M,TICA,1B214A9C-0A23-44AE-B2C1-7C5016C0FFBC,201323-1,"","","149","1906",gcc-116972
+gcc-11561,A,Compositae,,Dicoma,,"cuneneensis",,"","Wild",Accepted,,M,TICA,E9660F47-7E70-469A-8BB6-1590E0969DBF,201324-1,"","","168","1972",
+gcc-42265,A,Compositae,,Dicoma,,"diacanthoides",,"","Less.",Synonym,,M,TICA,EA44E038-A36F-45FF-9A4F-4E4BF6B03922,201325-1,"Linnaea 5","","279","1830",gcc-132787
+gcc-88,A,Compositae,,Dicoma,,"dinteri",,"","S.Moore",Accepted,,M,TICA,63885094-BA81-49CC-B388-002F57F9F35E,,"","","1024","1904",
+gcc-8484,A,Compositae,,Dicoma,,"elegans",,"","Welw. ex O.Hoffm.",Accepted,,M,TICA,57DC18DB-BB56-4351-8E8F-0FCF732C2C6A,,"Bol. Soc. Brot. 10","","","1892",
+gcc-15420,A,Compositae,,Dicoma,,"elliptica",,"","G.V.Pope",Synonym,,M,TICA,72DAD72C-62C3-4C28-B210-1C8C47D7E1AF,959946-1,"","","702","1991",gcc-23547
+gcc-101840,A,Compositae,,Dicoma,,"flexuoides",,"","Muschl. ex Dinter",Synonym,,M,TICA,ACBDD1B6-8A6A-472C-9A68-9DAA5CD5CD4D,,"","","","",gcc-88
+gcc-32310,A,Compositae,,Dicoma,,"flexuosa",,"","Dinter ex Dinter & Muschl.",Synonym,,M,TICA,9D73C848-569F-4ADF-B0D8-3BDEA458937B,201328-1,"Repert. Spec. Nov. Regni Veg. 17","","185","1921",gcc-88
+gcc-28762,A,Compositae,,Dicoma,,"foliosa",,"","O.Hoffm.",Accepted,,M,TICA,BB1FAF56-8E86-43B8-BAD9-352ECAA2B8D4,,"Bol. Soc. Brot. 10","","","1892",
+gcc-92614,A,Compositae,,Dicoma,,"fruticosa",,"","Compton",Accepted,,M,TICA,A3A67CA4-DBDC-43C0-A582-88F7E22DF3DC,,"","","","1932",
+gcc-44661,A,Compositae,,Dicoma,,"galpinii",,"","F.C.Wilson",Accepted,,M,TICA,3100C295-6F43-414C-805B-52BFA9A66364,201331-1,"","","385","1923",
+gcc-11406,A,Compositae,,Dicoma,,"gerrardii",,"","Harv. ex F.C.Wilson",Synonym,,M,TICA,916D9C1F-D37E-4513-9F4E-154EB7318B39,,"Bull. Misc. Inform. Kew 1923: 384 (1923)","","384","1923",gcc-58288
+gcc-48724,A,Compositae,,Dicoma,,"gerrardii",,"","Harv.",Unresolved,,L,TICA,BABCE56E-F8F6-49C3-B616-5A4241AFAD25,,"""Harv. & Sond., Fl. Cap. iii. 517 (1864-65), in syn.""","","517","",
+gcc-131866,A,Compositae,,Dicoma,,"gillettii",,"","Rodr.Oubiña & S.Ortiz",Accepted,,M,TICA,713E2903-A42D-4F96-9174-E1EF158BDE01,985883-1,"","","59","1995",
+gcc-106297,A,Compositae,,Dicoma,,"gnaphaloides",,"","Mattei",Synonym,,M,TICA,B56F7DB2-1471-4C8E-B275-A7712FB34205,,"","","","1908",gcc-104145
+gcc-42700,A,Compositae,,Dicoma,,"gossweileri",,"","S.Moore",Synonym,,M,TICA,97FE1F55-1618-4AD1-B72A-4F179ACAB9CD,201334-1,"","","281","1925",gcc-16778
+gcc-83765,A,Compositae,,Dicoma,,"grandidieri",,"","(Drake) Humbert",Synonym,,M,TICA,C7E77940-A8BD-41AE-B0DC-74FC3BBF7AD3,201335-1,"","","150","1923",gcc-79535
+gcc-37269,A,Compositae,,Dicoma,,"hindiana",,"","S.Ortiz & Rodr.Oubiña",Accepted,,M,TICA,DF7FBEFC-AFC1-44FB-AA9B-450A65155F5B,984985-1,"","","187","1995",
+gcc-8332,A,Compositae,,Dicoma,,"humilis",,"","Lawalrée",Synonym,,M,TICA,04B6D0D0-81CD-4F68-B783-0F809644505E,,"","","157","1982",gcc-51932
+gcc-116972,A,Compositae,,Dicoma,,"incana",,"","(Baker) O.Hoffm.",Accepted,,M,TICA,48298E21-D509-4C57-B874-BF9BEB38C71A,201336-1,"","","339","1893",
+gcc-14514,A,Compositae,,Dicoma,,"incana",,"","Drake",Unresolved,Illegitimate,L,TICA,2CD4800B-FE32-43FD-B982-1AEBA3F5339B,201337-1,"","","","1903",
+gcc-143920,A,Compositae,,Dicoma,,"karaguensis",,"","Oliv.",Synonym,,M,TICA,42F7EC67-FBA0-4EB7-88C3-FCF1C4B590B3,201338-1,"","","103","1873",gcc-1433
+gcc-82468,A,Compositae,,Dicoma,,"kirkii",,"","Harv.",Synonym,,M,TICA,A1FC6761-A55B-42EE-AB5D-7226666D6343,201339-1,"","","518","1865",gcc-129449
+gcc-70271,A,Compositae,,Dicoma,,"kirkii",var.,"angustifolia","S.Moore",Synonym,,L,TICA,9871A539-1284-45D1-BAFA-ECC75F38AC4F,,"""Journal of the Linnean Society, Botany 40:""","","123","1911",gcc-129449
+gcc-153650,A,Compositae,,Dicoma,,"kirkii",var.,"kirkii","",Synonym,,L,TICA,AA890CAC-52CA-4A42-9B06-B2814F5CA1D6,,"","","","",gcc-129449
+gcc-16224,A,Compositae,,Dicoma,,"kirkii",var.,"microcephala","S.Moore",Synonym,,L,TICA,170FCEB8-CDAA-4D5C-99CD-1E02A7388BA8,,"J. Bot. 59: 231 (1921)","","231","1921",gcc-71555
+tro-2736517,A,Compositae,,Dicoma,,"kirkii",var.,"microcephalus","S. Moore",Synonym,,L,TRO,2736517,,"J. Bot.","59: 231","231","1921",gcc-43839
+gcc-63102,A,Compositae,,Dicoma,,"kirkii",subsp.,"vaginata","(O.Hoffm.) G.V.Pope",Synonym,,L,TICA,59DF2A05-B364-415B-AC4F-B422DAD1B3A1,967003-1,"","","703","1991",gcc-65340
+gcc-91667,A,Compositae,,Dicoma,,"kraussii",,"","Sch.Bip.",Synonym,,M,TICA,94D9F40D-27FD-424F-9166-86DD7A1F6ACE,201340-1,"Flora 27","","782","1844",gcc-132787
+gcc-85868,A,Compositae,,Dicoma,,"kurumanii",,"","S.Ortiz & Netnou",Accepted,,M,TICA,50E00667-D5FF-442C-9C43-79A273A6B39C,,"","","","2005",
+gcc-105138,A,Compositae,,Dicoma,,"lanata",,"","Muschl. ex Dinter",Synonym,,M,TICA,F6642BE8-6833-4862-8884-A4F9E70F702E,,"","","","",gcc-7617
+gcc-82676,A,Compositae,,Dicoma,,"lanuginosa",,"","DC.",Synonym,,M,TICA,9CE20345-48E1-40D3-84A8-7294C53F131C,201341-1,"","","36","1838",gcc-104145
+gcc-21744,A,Compositae,,Dicoma,,"latifolia",,"","DC.",Synonym,,M,TICA,B3AC9A47-239C-4402-B8C9-283EEE4EBDD8,201342-1,"","","37","1838",gcc-48137
+gcc-7818,A,Compositae,,Dicoma,,"macrocephala",,"","DC.",Accepted,,M,TICA,B1194BC8-1F92-4A34-BA2F-0E89DFBA5107,201343-1,"","","36","1838",
+gcc-85397,A,Compositae,,Dicoma,,"marlothiana",,"","Muschl. ex Dinter",Synonym,,M,TICA,83C8D302-28A2-46C0-A225-7893921A33F8,,"","","","",gcc-23127
+gcc-88348,A,Compositae,,Dicoma,,"megacephala",,"","Baker",Synonym,,M,TICA,5073EE8F-A0A2-4A69-A249-7F3E07A5D197,201344-1,"","","271","1897",gcc-1433
+gcc-19014,A,Compositae,,Dicoma,,"membranacea",,"","S.Moore",Synonym,,M,TICA,F293E259-AFA6-4C6D-8E58-231BAE10E6D7,,"","","1025","1904",gcc-38203
+gcc-86352,A,Compositae,,Dicoma,,"montana",,"","Schweick.",Accepted,,M,TICA,8DCA5A5E-1D38-4CEB-8C3E-7AB8470B1AD8,201346-1,"","","207","1935",
+gcc-23127,A,Compositae,,Dicoma,,"nachtigallii",,"","O.Hoffm.",Accepted,,M,TICA,7007B150-4EBD-4EDC-A7D2-2ACF6E66DAE4,,"","","","1893",
+gcc-137052,A,Compositae,,Dicoma,,"nana",,"","Welw. ex Hiern",Synonym,,M,TICA,4E5D6A6F-C398-4D4F-BFE4-ED934CDD3E6B,,"","","614","1898",gcc-37855
+gcc-136491,A,Compositae,,Dicoma,,"niccolifera",,"","Wild",Accepted,,M,TICA,1E1B2551-4AE6-4156-BA58-EC5767E7C072,201349-1,"Mitt. Bot. Staatssamml. München 10","","267","1971",
+gcc-75677,A,Compositae,,Dicoma,,"nyikensis",,"","Baker",Synonym,,M,TICA,58C9C49F-BD09-4110-A64F-62FD8F662736,201350-1,"","","271","1897",gcc-1433
+gcc-26751,A,Compositae,,Dicoma,,"obconica",,"","S.Ortiz",Accepted,,M,TICA,BC82A9CE-2C6C-4BD0-A6A8-316DD379D31D,20006660-1,"","","319","2002",
+gcc-52124,A,Compositae,,Dicoma,,"oblonga",,"","Lawalrée & Mvukiy.",Synonym,,M,TICA,A85138AA-F4B5-4398-90D9-60B1312D94D8,,"","","162","1982",gcc-47741
+gcc-31440,A,Compositae,,Dicoma,,"oleifolia",,"","Humbert",Synonym,,M,TICA,4E8F26BB-0F9A-426F-BC84-3A410C4B3F64,,"","","","1923",gcc-86414
+gcc-120383,A,Compositae,,Dicoma,,"paivae",,"","S.Ortiz & Rodr.Oubiña",Accepted,,M,TICA,6CE665AA-255C-421E-B39A-C76A9385610D,,"","","1478","1994",
+gcc-130705,A,Compositae,,Dicoma,,"picta",,"","(Thunb.) Druce",Accepted,,M,TICA,1F06B587-1C6B-4BD7-871C-DF2FEBB6E57B,201352-1,"","","619","1917",
+gcc-13560,A,Compositae,,Dicoma,,"plantaginifolia",,"","O.Hoffm.",Synonym,,M,TICA,58FDC027-D118-4A29-947B-1938E811778D,201353-1,"","","546","1893",gcc-115535
+gcc-104665,A,Compositae,,Dicoma,,"poggei",,"","O.Hoffm.",Synonym,,M,TICA,9F63B8DC-7B4F-4311-9662-A3F517DD44BA,201354-1,"","","546","1893",gcc-98691
+gcc-90606,A,Compositae,,Dicoma,,"popeana",,"","S.Ortiz & Rodr.Oubiña",Accepted,,M,TICA,349F8C4E-6AF0-4860-AE35-8472708D7ADA,993601-1,"","","277","1997",
+gcc-17442,A,Compositae,,Dicoma,,"pretoriensis",,"","C.A.Sm.",Synonym,,M,TICA,293021C3-4D2B-41D8-A11A-203C33443796,,"","","","1927",gcc-111231
+gcc-106136,A,Compositae,,Dicoma,,"prostrata",,"","Schweick.",Accepted,,M,TICA,0E57EC82-CCBB-430D-A5BB-A71B0CFA4273,201356-1,"","","206","1935",
+gcc-33388,A,Compositae,,Dicoma,,"pygmaea",,"","Hutch.",Synonym,,M,TICA,6294EF2F-6B10-4AEE-AFD2-3DE68DD351AF,201357-1,"Botanist S. Afr.","","526","1946",gcc-115535
+gcc-6470,A,Compositae,,Dicoma,,"quinquenervia",,"","Baker",Synonym,,M,TICA,0F69A201-6F6A-4A9D-AFDE-0C0B96B0B027,201358-1,"","","290","1895",gcc-98691
+gcc-70401,A,Compositae,,Dicoma,,"quinquenervia",var.,"angustifolia","(S.Moore) S.Moore",Synonym,,L,TICA,F0980722-58A3-4E6A-8017-EDD2786C011A,,"""Journal of the Linnean Society, Botany 47:""","","282","1925",gcc-98691
+gcc-54887,A,Compositae,,Dicoma,,"quinquenervia",var.,"latifolia","S.Moore",Synonym,,L,TICA,3F8FA113-6F85-48E9-B108-719CA5C4119B,,"""Journal of the Linnean Society, Botany 47:""","","282","1925",gcc-98691
+gcc-152549,A,Compositae,,Dicoma,,"quinquenervia",var.,"quinquenervia","",Synonym,,L,TICA,6A00214E-9C90-434E-96A8-9BEE7387F949,,"","","","",gcc-98691
+gcc-52064,A,Compositae,,Dicoma,,"radiata",,"","Less.",Synonym,,M,TICA,913C6DBA-D84B-4FBC-8EFF-6090A2522BCB,201359-1,"Linnaea 5","","278","1830",gcc-130705
+gcc-143025,A,Compositae,,Dicoma,,"ramosissima",,"","Klatt",Synonym,,M,TICA,D55E57B6-A593-4498-9598-FAF52DC568CB,,"","","","1896",gcc-125919
+gcc-96843,A,Compositae,,Dicoma,,"relhanioides",,"","Less.",Synonym,,M,TICA,86B64281-65CB-49EB-AF21-92763F251546,201361-1,"Linnaea 5","","279","1830",gcc-79582
+gcc-29906,A,Compositae,,Dicoma,,"ringoetii",,"","De Wild.",Synonym,,M,TICA,3E2DCB52-9A33-4504-BB6E-37487A216FD9,201362-1,"Repert. Spec. Nov. Regni Veg. 13","","210","1914",gcc-8085
+gcc-75370,A,Compositae,,Dicoma,,"saligna",,"","Lawalrée",Synonym,,M,TICA,B38A8EC0-ACCB-4D05-9A73-624AFCFF5B38,,"","","160","1982",gcc-17268
+gcc-140458,A,Compositae,,Dicoma,,"schimperi",,"","(DC.) Baill. ex O.Hoffm.",Accepted,,M,TICA,585372C4-7F06-44EC-83DE-F50EF6EF93DC,201363-1,"","","339","1893",
+gcc-29311,A,Compositae,,Dicoma,,"schimperi",subsp.,"cinerea","(S.Ortiz & Rodr.Oubiña) S.Ortiz & Rodr.Oubiña",Accepted,,L,TICA,214337E8-98BA-4908-A57B-3629CA3A7301,,"Ann. Missouri Bot. Gard. 85","","451","1998",
+gcc-55512,A,Compositae,,Dicoma,,"schimperi",subsp.,"schimperi","",Synonym,,L,TICA,65C06E28-C0CC-4E06-8E29-768F9C96DB93,,"""Engl. et Prantl, Naturl. Pflanzenfam. iv. 5. (1893) 339.""","","","",gcc-140458
+gcc-7617,A,Compositae,,Dicoma,,"schinzii",,"","O.Hoffm.",Accepted,,M,TICA,670A4233-7500-41FA-BB75-0E254C97077C,,"","","","1893",
+gcc-125950,A,Compositae,,Dicoma,,"scoparia",,"","Rodr.Oubiña & S.Ortiz",Accepted,,M,TICA,1F82D79F-C4D0-4A6B-A9E2-D4371612C548,985884-1,"","","61","1995",
+gcc-139316,A,Compositae,,Dicoma,,"seitziana",,"","Dinter",Synonym,,M,TICA,814EDE45-B44C-4C06-BD33-F278A32A442B,201365-1,"Repert. Spec. Nov. Regni Veg. 17","","186","1921",gcc-110394
+gcc-397,A,Compositae,,Dicoma,,"sessiliflora",,"","Harv.",Synonym,,M,TICA,82103BA5-29C1-4A69-8ECA-00BD56703000,201366-1,"","","518","1865",gcc-3543
+gcc-13451,A,Compositae,,Dicoma,,"sessiliflora",subsp.,"kirkii","(Harv.) Wild",Synonym,,L,TICA,81E3A96D-28AC-42CD-8FD2-190E9C9021F0,877162-1,"","","184","1972",gcc-129449
+gcc-67020,A,Compositae,,Dicoma,,"sessiliflora",var.,"membranacea","(S.Moore) S.Ortiz & Rodr.Oubiña",Synonym,,L,TICA,598AF06F-6317-42DE-80F8-D38B5A3C467C,996599-1,"","","49","1997",gcc-38203
+gcc-149660,A,Compositae,,Dicoma,,"sessiliflora",var.,"sessiliflora","",Synonym,,L,TICA,9D7CC4EE-6FDF-4507-AEDE-5D948B29AA0D,,"","","","",gcc-3543
+gcc-33393,A,Compositae,,Dicoma,,"sessiliflora",subsp.,"stenophylla","G.V.Pope",Synonym,,L,TICA,612EFEAB-53EB-4EB3-B1C4-3DE7AE552ED0,965471-1,"","","701","1991",gcc-56438
+gcc-30093,A,Compositae,,Dicoma,,"somalense",,"","S.Moore",Accepted,,M,TICA,272BFD60-EAAE-4AA8-B745-37B2EF4F7A35,,"","","","1899",
+gcc-46219,A,Compositae,,Dicoma,,"somalensis",,"","O.Hoffm. ex Engl.",Synonym,Illegitimate,M,TICA,5714EEAA-D075-49DF-B797-55ACD2F318F9,,"Sitzungsber. Königl. Preuss. Akad. Wiss. Berlin 1904: 371 (1904)","","371","1904",gcc-87109
+gcc-87585,A,Compositae,,Dicoma,,"speciosa",,"","DC.",Synonym,,M,TICA,17B1BC77-4EF3-4DA3-B77A-7D9A9F4EEE28,201368-1,"","","37","1838",gcc-50954
+gcc-124755,A,Compositae,,Dicoma,,"spinosa",,"","(L.) Druce",Synonym,,M,TICA,13A14A7A-3D20-4088-BDB5-D1683B674273,201369-1,"","","417","1914",gcc-132787
+gcc-119163,A,Compositae,,Dicoma,,"squarrosa",,"","Wild",Accepted,,M,TICA,9218713E-ACDE-4F68-8710-C494D35FDBF3,201370-1,"","","167","1972",
+gcc-115516,A,Compositae,,Dicoma,,"superba",,"","S.Moore",Synonym,,M,TICA,6C81C229-3BE8-425C-90BC-BC5718D93C03,201371-1,"","","326","1906",gcc-98691
+gcc-28737,A,Compositae,,Dicoma,,"superba",var.,"angustifolia","S.Moore",Synonym,,L,TICA,4846578A-30EB-437F-8E9A-35266A6641B9,,"""J. Linn. Soc., Bot. 37: 327 (1906)""","","327","1906",gcc-98691
+gcc-147664,A,Compositae,,Dicoma,,"superba",var.,"superba","",Synonym,,L,TICA,DE518916-03EC-47C7-9819-321FF0F49363,,"","","","",gcc-98691
+gcc-108284,A,Compositae,,Dicoma,,"swazilandica",,"","""S.Ortiz, Rodr.Oubiña & Pulgar""",Accepted,,M,TICA,5AB9060A-99A5-411E-8FBB-ABF5E65F9771,1016176-1,"","","347","2000",
+gcc-140739,A,Compositae,,Dicoma,,"thuliniana",,"","""S.Ortiz, Rodr.Oubiña & Mesfin""",Accepted,,M,TICA,D5F39DD0-5911-49C9-A561-F5C5D7FFE7E0,,"","","455","1998",
+gcc-7450,A,Compositae,,Dicoma,,"thyrsiflora",,"","(Klatt) Thell.",Synonym,,M,TICA,E384D69D-F309-4AE3-A991-0DD97B076E8F,201372-1,"","","251","1921",gcc-71555
+gcc-104145,A,Compositae,,Dicoma,,"tomentosa",,"","Cass.",Accepted,,M,TICA,A7F590CF-68CC-4E52-86AC-A2DBA4874E18,201373-1,"","","","1818",
+gcc-14091,A,Compositae,,Dicoma,,"tomentosa",,"","Klatt",Synonym,Illegitimate,M,TICA,F02EA065-3885-4EDD-A66B-1A2337257805,,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 12(Beibl. 27):""","","28","1890",gcc-116972
+gcc-137237,A,Compositae,,Dicoma,,"vaginata",,"","O.Hoffm.",Synonym,,M,TICA,43D49B24-435F-4826-B4D3-EE07D05C90C1,,"","","442","1901",gcc-65340
+gcc-78902,A,Compositae,,Dicoma,,"welwitschii",,"","O.Hoffm.",Accepted,,M,TICA,E84278E7-CE30-4449-8192-6A394CEBEC37,,"Bol. Soc. Brot. 10","","","1892",
+gcc-17875,A,Compositae,,Dicoma,,"zeyheri",,"","Sond.",Synonym,,M,TICA,BAC6EB9A-D844-496E-979E-210136947EF6,201376-1,"Linnaea 23","","70","1850",gcc-43839
+gcc-27979,A,Compositae,,Dicoma,,"zeyheri",subsp.,"argyrophylla","(Oliv.) G.V.Pope",Synonym,,L,TICA,A9BBC4B8-93D0-46AC-B679-33B03E2A8E31,967004-1,"","","706","1991",gcc-41150
+gcc-54919,A,Compositae,,Dicoma,,"zeyheri",var.,"thyrsiflora","Klatt",Synonym,,L,TICA,7C5C200B-CD82-4E2F-BADC-71E49BC2D2BB,60426883-2,"Bull. Herb. Boissier 4","","844","1866",gcc-71555
+gcc-146302,A,Compositae,,Dicoma,,"zeyheri",var.,"zeyheri","",Synonym,,L,TICA,FAD0B720-6577-4E55-BC4D-15D7B1B9DEDD,,"","","","",gcc-43839
+gcc-58287,A,Compositae,,Dicoma,,"zeyheri",subsp.,"zeyheri","",Synonym,,L,TICA,0E27C6FE-D367-460D-9BF4-8D657E46DFE6,,"","","","",gcc-43839

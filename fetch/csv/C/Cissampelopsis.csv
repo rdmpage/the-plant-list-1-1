@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-39382,A,Compositae,,Cissampelopsis,,"ansteadii",,"","(Tadul. & Jacob) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,006122BC-C094-4C31-A2BB-4916EC0E9FFD,,"","","341","1984",
+gcc-139796,A,Compositae,,Cissampelopsis,,"buimalia",,"","(Buch.-Ham. ex D.Don) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,C107CE79-1477-49F8-B623-F38688F693BA,,"","","348","1984",
+gcc-142131,A,Compositae,,Cissampelopsis,,"calcadensis",,"","C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,48412247-05F7-4CC8-B94D-F8FB31183381,,"","","341","1984",
+gcc-9757,A,Compositae,,Cissampelopsis,,"corifolia",,"","C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,E792702F-C8B3-44E0-8131-1239982285AD,,"","","342","1984",
+gcc-142943,A,Compositae,,Cissampelopsis,,"corymbosa",,"","(Wall. ex DC.) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,E88B964A-A682-48D2-AD06-FACA84CB5D17,913807-1,"","","341","1984",
+gcc-77910,A,Compositae,,Cissampelopsis,,"erythrochaeta",,"","C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,269AD588-96C1-44AD-BD57-67EE3531A0A5,,"","","349","1984",
+gcc-110423,A,Compositae,,Cissampelopsis,,"glandulosa",,"","C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,DE2A1C47-F079-41C0-B517-B0DF03A1A3EA,,"","","345","1984",
+gcc-157284,A,Compositae,,Cissampelopsis,,"pareira",,"","L.",Accepted,,M,TICA,AA930478-EB18-4A79-BBF5-FEC43DDADDBB,,"","","","",
+gcc-36121,A,Compositae,,Cissampelopsis,,"spelaeicola",,"","(Vaniot) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,BE694D11-F08A-4555-B58E-42FC1B3AAC8A,,"","","346","1984",
+gcc-16497,A,Compositae,,Cissampelopsis,,"volubilis",,"","(Blume) Miq.",Accepted,,M,TICA,6FBD7491-DEC8-4635-90A3-1E7EC1ACD34B,,"Fl. Ned. Ind. 2","","103","1856",
+gcc-13196,A,Compositae,,Cissampelopsis,,"volubilis",var.,"floribunda","Miq.",Synonym,,L,TICA,DC08961D-51F4-41DF-B518-1892FE8B3984,,"Fl. Ned. Ind. 2 (1856)","","103","1856",gcc-16497
+gcc-156754,A,Compositae,,Cissampelopsis,,"volubilis",var.,"volubilis","",Synonym,,L,TICA,6D39DC0E-FFED-4F69-BC94-F3976E7F6D64,,"","","","",gcc-16497
+gcc-32985,A,Compositae,,Cissampelopsis,,"walkeri",,"","(Arn.) C.Jeffrey & Y.L.Chen",Accepted,,M,TICA,BD994E68-7D75-4CE7-9B6C-3D2C54471F7F,,"","","341","1984",

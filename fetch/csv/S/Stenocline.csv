@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117939,A,Compositae,,Stenocline,,"bracteifera",,"","DC.",Synonym,,M,TICA,C95F6D19-A420-4F9B-985F-C1C3EBC8F463,251093-1,"Prodr. (DC.) 6: 218","","218","1838",gcc-52563
+gcc-45304,A,Compositae,,Stenocline,,"chionaea",,"","(ex de Candolle) DC.",Accepted,,M,TICA,1BA2B67F-6E10-4557-BA5D-53F430F1C145,309217-2,"Prodr. (DC.) 6: 219","","219","1838",
+gcc-141853,A,Compositae,,Stenocline,,"ericoides",,"","DC.",Accepted,,M,TICA,3D23237E-077A-4C37-99D8-F85A9CE25D21,,"Prodr. (DC.) 6: 219","","219","",
+gcc-145826,A,Compositae,,Stenocline,,"ericoides",f.,"ericoides","",Synonym,,L,TICA,F192DB93-5F14-4F01-AED4-0BA25059D69A,,"","","","",gcc-141853
+gcc-14006,A,Compositae,,Stenocline,,"eriodes",,"","Mattf.",Unresolved,,L,TICA,8B73776D-D223-4474-924C-1A004B6973E2,285552-2,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 383. 1925","","383","1925",gcc-116955
+gcc-126192,A,Compositae,,Stenocline,,"ferruginea",,"","Baker",Synonym,,M,TICA,EA69A30F-0E2F-481A-AADE-D4C57857EAFF,,"""J. Linn. Soc., Bot. xx. (1883) 187.""","","","1883",gcc-36548
+gcc-139610,A,Compositae,,Stenocline,,"filaginoides",,"","DC.",Synonym,,M,TICA,EFD679D9-42E4-4128-AF2B-F315F8739DD1,251098-1,"Prodr. (DC.) 6: 219","","219","1838",gcc-32141
+gcc-8736,A,Compositae,,Stenocline,,"fruticosa",,"","Baker",Synonym,,M,TICA,CF654D1F-F4FF-429E-B66C-10563795C863,,"""J. Linn. Soc., Bot. xx. (1883) 186.""","","","1883",gcc-141404
+gcc-78235,A,Compositae,,Stenocline,,"gardneri",,"","Baker",Synonym,,M,TICA,FA498F8E-CCBB-4CAD-8258-68AE7EAF3B3E,300681-2,"Fl. Bras. (Martius) 6(3)","","127","1882",gcc-18975
+gcc-83295,A,Compositae,,Stenocline,,"gymnocephala",,"","DC.",Synonym,,M,TICA,2E11D2B5-9DAF-42A1-BFA6-73F474AC7DA3,251101-1,"Prodr. (DC.) 6: 218","","218","1838",gcc-3431
+gcc-121273,A,Compositae,,Stenocline,,"heringeri",,"","H.Rob.",Unresolved,,L,TICA,F83F02D5-3CB8-4764-BB0A-C96E691F0582,285553-2,"""Phytologia 55: 122 (-123), fig. 1984""","","""122 (-123), fig""","1984",gcc-19695
+gcc-87810,A,Compositae,,Stenocline,,"incana",,"","Baker",Synonym,,M,TICA,00B95914-4E14-4151-B1D4-7E111C8B362D,251102-1,"""J. Linn. Soc., Bot. xx. (1883) 187.""","","187","1883",gcc-3431
+gcc-26237,A,Compositae,,Stenocline,,"inuloides",,"","DC.",Unresolved,,L,TICA,07A098AC-B099-465D-837D-3084E9DBCE76,,"in Deless. Ic. Sel. iv. t. 53.","","","1838",
+gcc-109294,A,Compositae,,Stenocline,,"lecheoides",,"","DC.",Unresolved,,L,TICA,B4E0B97C-A2DF-460D-939F-AE5860F310A8,251104-1,"Prodr. (DC.) 6: 218","","218","1838",
+gcc-89615,A,Compositae,,Stenocline,,"longifolia",,"","Hook.f.",Unresolved,,L,TICA,EEED09C1-AADC-43D1-8903-821AA92736F7,,"in Bot. Mag. (1891) t. 7186; W. Wats. in Gard. Chron. (1894) ii. 563 fig. 72.",""," t. 7186","1891",
+gcc-131532,A,Compositae,,Stenocline,,"pusilla",,"","Klatt",Unresolved,,L,TICA,8A26794E-E74C-4ED1-9D2B-E120698646CA,,"""Ann. Sci. Nat., Bot. sér. 5, 18: 373""","","373","1873",
+gcc-113032,A,Compositae,,Stenocline,,"satureoides",,"","Benth. & Hook.f.",Unresolved,,L,TICA,6B1748E8-C923-476C-B8C2-B6BCD6A0E703,251107-1,"Gen. ii. 312.","","ii. 312.","",
+gcc-105951,A,Compositae,,Stenocline,,"tomentosula",,"","Klatt",Synonym,,M,TICA,9B7A1381-F01D-46CC-9169-A6B796B90F65,,"","","","",gcc-10129
+gcc-85098,A,Compositae,,Stenocline,,"tomentosula",,"","Klatt ex Schinz",Unresolved,,L,TICA,E52B1883-E03C-4019-86AD-77E92FB80DAE,,"Bull. Herb. Boissier iii. (1895) 434.","","iii.  434.","1895",

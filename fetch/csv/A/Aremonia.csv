@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+rjp-43782,A,Rosaceae,,Aremonia,,"agrimonioides",,"","(L.) Neck.",Unresolved,,L,RJP,43782,,"Elementa botanica","Elementa botanica; 1790","100, no.768","1790",rjp-19332
+rjp-19332,A,Rosaceae,,Aremonia,,"agrimonoides",,"","(L.) DC.",Accepted,,L,RJP,19332,,"Prodromus systematis naturalis regni vegetabilis","Prodromus systematis naturalis regni vegetabilis; 1823","588","1825",
+rjp-11300,A,Rosaceae,,Aremonia,,"agrimonoides",subsp.,"agrimonoides","",Synonym,,L,RJP,11300,,"","; ","","",rjp-19332
+rjp-2704,A,Rosaceae,,Aremonia,,"agrimonoides",subsp.,"pouzarii","Skalický",Accepted,,L,RJP,2704,,"","; 1968","36","1968",
+rjp-14177,A,Rosaceae,,Aremonia,,"pouzarii",,"","(Skalický) Holub",Synonym,,H,RJP,14177,721545-1,"","; 1974","272","1974",rjp-2704

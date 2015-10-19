@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-20415,A,Compositae,,Lepidospartum,,"burgessii",,"","B.L.Turner",Accepted,,M,TICA,51C35EC5-745A-483E-8FFE-25C3FE1200A9,,"","","","1977",
+gcc-140231,A,Compositae,,Lepidospartum,,"latisquamum",,"","S.Watson",Accepted,,M,TICA,AB38D788-0EE5-4F47-B7BD-F48B53DB6465,138205-2,"","","133","1890",
+gcc-106367,A,Compositae,,Lepidospartum,,"squamatum",,"","(A.Gray) A.Gray",Accepted,,M,TICA,DD23CA8E-288A-4AD7-AA0A-A79C6EDCCEB4,1047389-2,"","","50","1883",
+gcc-9671,A,Compositae,,Lepidospartum,,"squamatum",var.,"palmeri","(A.Gray) L.C.Wheeler",Synonym,,L,TICA,4B27E181-E664-4179-BC7B-121059504C1F,138207-2,"Rhodora 40: 322. 1938","","322","1938",gcc-106367
+gcc-66347,A,Compositae,,Lepidospartum,,"squamatum",var.,"squamatum","",Synonym,,L,TICA,F900DB64-B739-4717-9CA9-CE21AC66CC11,,"","","","",gcc-106367
+gcc-24101,A,Compositae,,Lepidospartum,,"striatum",,"","Coville",Unresolved,,L,TICA,279CFF93-BB53-4F98-8B2A-2C89E1BD3072,,"","","","1892",

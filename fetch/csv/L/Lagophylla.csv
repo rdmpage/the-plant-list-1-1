@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-142537,A,Compositae,,Lagophylla,,"congesta",,"","Greene",Synonym,,M,TICA,C44340CF-77DF-4D8A-9D53-F9D284D20554,,"","","","1883",gcc-31429
+gcc-111136,A,Compositae,,Lagophylla,,"dichotoma",,"","Benth.",Accepted,,M,TICA,FB9AA39F-08FC-47D2-A69F-B26FA8B060C1,,"Pl. Hartw. 317.","","","1849",
+gcc-145636,A,Compositae,,Lagophylla,,"dichotoma",subsp.,"dichotoma","",Synonym,,L,TICA,8EB5C269-56A6-4A06-A348-07D8493B40D3,,"","","","",gcc-111136
+gcc-24791,A,Compositae,,Lagophylla,,"dichotoma",subsp.,"minor","D.D.Keck",Synonym,,L,TICA,D8083BFB-4AE7-44DA-A759-2DD2B67697F2,134933-2,"Madroño 3: 16. 1935","","16","1935",gcc-75551
+gcc-94276,A,Compositae,,Lagophylla,,"filipes",,"","A.Gray",Unresolved,,L,TICA,22185DB5-E865-497E-86AB-8C9D947A4835,,"in Pacif. Rail. Rep. iv. 109.","","","1857",
+gcc-124496,A,Compositae,,Lagophylla,,"glandulosa",,"","A.Gray",Accepted,,L,TICA,D7C4F161-BC8C-428A-9181-D0D5CDDA049A,,"Proc. Amer. Acad. Arts xvii. (1881-82) 219.","","219","1882",
+gcc-18334,A,Compositae,,Lagophylla,,"glandulosa",subsp.,"glandulosa","",Synonym,,L,TICA,2912CFD2-02EB-42E0-B3AB-21DF488F7041,,"","","","",gcc-124496
+gcc-56719,A,Compositae,,Lagophylla,,"glandulosa",subsp.,"serrata","(Greene) D.D.Keck",Synonym,,L,TICA,D8B08041-187B-4D32-B3A2-80AB1A1D5F09,134935-2,"Aliso 4: 105. 1958","","105","1958",gcc-124496
+gcc-142867,A,Compositae,,Lagophylla,,"hillmani",,"","A.Nelson",Unresolved,,L,TICA,04C6DF8A-B9A8-4A99-9473-FA9FB4D179C4,134936-2,"","","98","1904",
+gcc-118195,A,Compositae,,Lagophylla,,"minima",,"","Kellogg",Unresolved,,L,TICA,9CF6EFF5-BABA-4289-AD11-C2625F177867,228500-1,"Proc. Calif. Acad. Sci. 5: 53","","53","1873",
+gcc-75551,A,Compositae,,Lagophylla,,"minor",,"","(D.D.Keck) D.D.Keck",Accepted,,M,TICA,88A36074-941C-4ABD-86BF-62ADB39DE553,134937-2,"","","105","1958",
+gcc-31429,A,Compositae,,Lagophylla,,"ramosissima",,"","Nutt.",Accepted,,M,TICA,03FF3BCC-FC05-471C-A89B-3A3B78ACE404,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 391""","","391","1841",
+gcc-36409,A,Compositae,,Lagophylla,,"ramosissima",subsp.,"congesta","(Greene) D.D.Keck",Synonym,,L,TICA,82978025-04AD-48DC-8C6F-438821795679,134938-2,"Madroño 3: 16. 1935","","16","1935",gcc-31429
+gcc-150901,A,Compositae,,Lagophylla,,"ramosissima",var.,"ramosissima","",Synonym,,L,TICA,940D2479-ED74-4090-B288-78A34FB49410,,"","","","",gcc-31429
+gcc-70097,A,Compositae,,Lagophylla,,"ramosissima",subsp.,"ramosissima","",Synonym,,L,TICA,1CB7E5CB-2390-4954-8EFF-EB7CECA5704D,,"","","","",gcc-31429
+gcc-117767,A,Compositae,,Lagophylla,,"scabrella",,"","M.E.Jones",Synonym,,M,TICA,6FBCEE6B-41A1-4179-B499-C1688E005ACA,228503-1,"","","79","1933",gcc-120684
+gcc-32734,A,Compositae,,Lagophylla,,"serrata",,"","Greene",Unresolved,,L,TICA,72738995-2BA5-4D52-931C-3CB1B50ACC12,134942-2,"in Bull. Calif. Acad. i. IV. (1885) 280.","","","",gcc-124496

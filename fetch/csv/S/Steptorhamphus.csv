@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-89600,A,Compositae,,Steptorhamphus,,"chaffanjoni",,"","O.Fedtsch. & B.Fedtsch.",Accepted,,M,TICA,DD3847BC-63F2-4EDB-BB14-8211063055AA,251215-1,"Consp. Fl. Turkest. iv. 319 (1912).","","iv. 319","1912",
+gcc-76372,A,Compositae,,Steptorhamphus,,"crambifolius",,"","Bunge",Synonym,,M,TICA,6CEB36F9-058C-4323-8B56-648945ADEB4A,927995-1,"Beitr. Fl. Russl.","","205","1852",gcc-3300
+gcc-34566,A,Compositae,,Steptorhamphus,,"crassicaulis",,"","(Trautv.) Kirp.",Unresolved,,L,TICA,A10A7265-D67F-46B7-BFB8-401199353A98,251217-1,"","","327","1964",
+gcc-14800,A,Compositae,,Steptorhamphus,,"czerepanovii",,"","Kirp.",Synonym,,M,TICA,2E589F04-8D40-4A1F-BC50-1B7245286D0C,251218-1,"","","322","1963",gcc-3300
+gcc-104259,A,Compositae,,Steptorhamphus,,"hispidulus",,"","Regel",Unresolved,,L,TICA,74D4D507-C014-4833-98C2-A31D37DEA63F,,"","","","1867",gcc-39966
+gcc-129557,A,Compositae,,Steptorhamphus,,"hispidus",,"","Bornm.",Synonym,,M,TICA,46033C45-0AB2-432B-867B-DC8684C4DFA2,251220-1,"","","224","1939",gcc-131317
+gcc-120498,A,Compositae,,Steptorhamphus,,"linczevskii",,"","Kirp.",Synonym,,M,TICA,EF224145-5178-427C-8B75-C7AE70D5AFC1,251221-1,"","","318","1963",gcc-31861
+gcc-11587,A,Compositae,,Steptorhamphus,,"persicus",,"","(Boiss.) O.Fedtsch. & B.Fedtsch.",Synonym,,M,TICA,3CEEC9D3-C6CC-45D0-945A-159A42E28524,,"Consp. Fl. Turk. 4","","319","1911",gcc-83921
+gcc-44125,A,Compositae,,Steptorhamphus,,"petraeus",,"","Grossh.",Synonym,,M,TICA,A94FEABE-3B80-4C20-B8EB-51B3BD5EA6FA,251223-1,"","","258","1934",gcc-31861
+gcc-41391,A,Compositae,,Steptorhamphus,,"pumilus",,"","(Rech.f. & Tuisl) Tuisl",Synonym,,M,TICA,682BD93D-D75D-492C-9251-4CA687D2053A,251224-1,"","","634","1968",gcc-6868
+gcc-10420,A,Compositae,,Steptorhamphus,,"singularis",,"","(Wilmott) Fern.Casas",Synonym,,M,TICA,A1D70A40-CD9D-4298-AE3A-137358A771E8,251225-1,"","","333","1974",gcc-118465
+gcc-146112,A,Compositae,,Steptorhamphus,,"soongoricus",,"","(Regel) Sennikov",Synonym,,M,TICA,FCFA1939-C1F8-4A98-A838-11BA6D33ECC0,77107266-1,"Sennikov in Komarovia 5. 2007","","47","2007",gcc-124727
+gcc-116065,A,Compositae,,Steptorhamphus,,"tuberosus",,"","(Jacq.) Grossh.",Synonym,,M,TICA,CED6D81D-8F0D-4AD7-8A2B-BD95E28A2EBF,,"","","258","1934",gcc-31861
+gcc-71842,A,Compositae,,Steptorhamphus,,"tuberosus",subsp.,"petraeus","(Fisch. & C.A.Mey.) Takht.",Synonym,,L,TICA,EE02A0F8-81DE-4C93-9B75-F93E774E0C09,878372-1,"Takhtadzhyan & Fedorov. Fl. Erevana 309 (1972)","","309","1972",gcc-31861
+gcc-147816,A,Compositae,,Steptorhamphus,,"tuberosus",subsp.,"tuberosus","",Synonym,,L,TICA,21FD73C2-E524-42C6-9642-35CCFC057AB7,,"","","","",gcc-31861

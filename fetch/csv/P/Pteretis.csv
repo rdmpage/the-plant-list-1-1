@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ifn-56774,P,Onocleaceae,,Pteretis,,"intermedia",,"","Ching",Unresolved,,L,IPNI,17414970-1,17414970-1,"Lingnan Sc. Journ.","21: 36. 1945.","","1945",
+ifn-56775,P,Onocleaceae,,Pteretis,,"japonica",,"","Ching",Unresolved,,L,IPNI,17414980-1,17414980-1,"Lingnan Sc. Journ.","21: 36. 1945.","","1945",
+tro-26604818,P,Onocleaceae,,Pteretis,,"nodulosa",,"","Nieuwl.",Unresolved,,L,TRO,26604818,213752-2,"Amer. Midl. Naturalist","4: 334","334","1916",
+tro-26605243,P,Onocleaceae,,Pteretis,,"nodulosa",,"","Rydb.",Unresolved,,L,TRO,26605243,,"","","","",
+tro-50138911,P,Onocleaceae,,Pteretis,,"nodulosa",f.,"foliacea","(Farw.) M. Broun",Synonym,,L,TRO,50138911,213753-2,"Index No. Amer. Ferns","150","150","1938",tro-26605120
+tro-50138907,P,Onocleaceae,,Pteretis,,"nodulosa",f.,"obtusilobata","(Clute) Fernald",Synonym,,L,TRO,50138907,213754-2,"Rhodora","37(438): 219","219","1935",tro-26605119
+tro-26605397,P,Onocleaceae,,Pteretis,,"nodulosa",var.,"pubescens","Clute",Synonym,,L,TRO,26605397,,"","","","",tro-26602316
+tro-50138922,P,Onocleaceae,,Pteretis,,"nodulosa",f.,"pubescens","(Terry) Fernald",Synonym,,L,TRO,50138922,213755-2,"Rhodora","37(438): 219","219","1935",tro-26605118
+tro-26613475,P,Onocleaceae,,Pteretis,,"orientalis",,"","Ching",Synonym,,M,TRO,26613475,,"","","","",tro-26624803
+tro-26604819,P,Onocleaceae,,Pteretis,,"pensylvanica",,"","(Willd.) Fernald",Synonym,,M,TRO,26604819,213756-2,"Rhodora","47(556): 123","123","1945",tro-26602315
+tro-26605120,P,Onocleaceae,,Pteretis,,"pensylvanica",f.,"foliacea","(Farw.) Fernald",Unresolved,,L,TRO,26605120,213757-2,"Rhodora","47(556): 124","124","1945",
+tro-26605119,P,Onocleaceae,,Pteretis,,"pensylvanica",f.,"obtusilobata","(Clute) Fernald",Unresolved,,L,TRO,26605119,213758-2,"Rhodora","47(556): 124","124","1945",
+tro-26605118,P,Onocleaceae,,Pteretis,,"pensylvanica",f.,"pubescens","(Terry) Fernald",Unresolved,,L,TRO,26605118,213759-2,"Rhodora","47(556): 124","124","1945",
+tro-26605392,P,Onocleaceae,,Pteretis,,"struthiopteris",,"","(L.) Nieuwl.",Accepted,,M,TRO,26605392,213760-2,"Amer. Midl. Naturalist","3: 197","197","1914",
+tro-26605393,P,Onocleaceae,,Pteretis,,"struthiopteris",var.,"pensylvanica","(Willd.) Farw.",Synonym,,L,TRO,26605393,,"Rep. Michigan Acad. Sci.","21: 346","346","1920",tro-26602315

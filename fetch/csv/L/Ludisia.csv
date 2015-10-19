@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-115487,A,Orchidaceae,,Ludisia,,"argyroneura",,"","Miq.",Synonym,,H,WCSP,115487,641772-1,"J. Bot. Néerl.","1: 36","","1861",kew-63706
+kew-115488,A,Orchidaceae,,Ludisia,,"dawsoniana",,"","(H.Low ex Rchb.f.) Aver.",Synonym,,H,WCSP,115488,945241-1,"Bot. Zhurn. (Moscow & Leningrad)","73: 432","","1988",kew-115489
+kew-115489,A,Orchidaceae,,Ludisia,,"discolor",,"","(Ker Gawl.) A.Rich.",Accepted,,H,WCSP,115489,641773-1,"Dict. Class. Hist. Nat.","7: 437","","1825",
+tro-100351541,A,Orchidaceae,,Ludisia,,"discolor",,"","(Ker Gawl.) Blume",Synonym,,M,TRO,100351541,,"Coll. Orchid.","113","113","1859",kew-115489
+kew-458251,A,Orchidaceae,,Ludisia,,"discolor",var.,"ordiana","(B.S.Williams) J.M.H.Shaw",Synonym,,L,WCSP,458251,77102930-1,"Orchid Rev.","117(1285, Suppl.): 85","","2009",kew-115489
+kew-115490,A,Orchidaceae,,Ludisia,,"furetii",,"","Blume",Synonym,,H,WCSP,115490,641774-1,"Coll. Orchid.","114","","1859",kew-115489
+kew-115491,A,Orchidaceae,,Ludisia,,"odorata",,"","Blume",Synonym,,H,WCSP,115491,641775-1,"Coll. Orchid.","114","","1859",kew-115489
+kew-115492,A,Orchidaceae,,Ludisia,,"otletae",,"","(Rolfe) Aver.",Synonym,,H,WCSP,115492,945242-1,"Bot. Zhurn. (Moscow & Leningrad)","73: 432","","1988",kew-115489

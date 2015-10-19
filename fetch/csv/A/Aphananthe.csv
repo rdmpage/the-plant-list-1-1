@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2643339,A,Cannabaceae,,Aphananthe,,"aspera",,"","(Thunb.) Planch.",Accepted,,L,WCSP (in review),,850347-1,"Prodr.","17: 208","","1873",
+tro-50127546,A,Cannabaceae,,Aphananthe,,"aspera",var.,"aspera","",Synonym,,L,TRO,50127546,,"","","","",kew-2643339
+kew-2643340,A,Cannabaceae,,Aphananthe,,"aspera",var.,"pubescens","C.J.Chen",Synonym,,L,WCSP (in review),,891959-1,"Acta Phytotax. Sin.","17(1): 49","","1979",kew-2643339
+kew-2643341,A,Phytolaccaceae,,Aphananthe,,"celosioides",,"","(Spreng.) Link",Synonym,,M,WCSP (in review),,676190-1,"Enum. Hort. Berol. Alt.","1: 383","","1821",kew-2502421
+kew-2643342,A,Cannabaceae,,Aphananthe,,"cuspidata",,"","(Blume) Planch.",Accepted,,L,WCSP (in review),,850349-1,"Prodr.","17: 209","","1873",
+kew-2643343,A,Cannabaceae,,Aphananthe,,"lissophylla",,"","Gagnep.",Synonym,,L,WCSP (in review),,836928-1,"Bull. Soc. Bot. France","72: 804","","1925 publ. 1926",kew-2643342
+kew-2643344,A,Cannabaceae,,Aphananthe,,"lucida",,"","(Kurz) J.-F.Leroy",Synonym,,L,WCSP (in review),,836929-1,"Bull. Mus. Natl. Hist. Nat.","II, 18: 122","","1946",kew-2643342
+kew-2643345,A,Cannabaceae,,Aphananthe,,"mexicana",,"","J.-F.Leroy",Synonym,,L,WCSP (in review),,15931-2,"Bull. Soc. Bot. France","95: 9","","1948",kew-2643346
+kew-2643346,A,Cannabaceae,,Aphananthe,,"monoica",,"","(Hemsl.) J.-F.Leroy",Unresolved,,L,WCSP (in review),,1195620-2,"J. Agric. Trop. Bot. Appl.","8: 74","","1961",
+kew-2643347,A,Moraceae,,Aphananthe,,"negrosensis",,"","Elmer",Synonym,,M,WCSP (in review),,836932-1,"Leafl. Philipp. Bot.","2: 575","","1909",kew-2690883
+kew-2643348,A,Cannabaceae,,Aphananthe,,"philippinensis",,"","Planch.",Accepted,,M,WCSP (in review),,850350-1,"Ann. Sci. Nat., Bot.","III, 10: 337","","1848",
+kew-2643349,A,Cannabaceae,,Aphananthe,,"rectinervia",,"","(F.Muell.) Planch.",Synonym,,M,WCSP (in review),,,"Prodr.","17: 208","","1873",kew-2643348
+kew-2643350,A,Cannabaceae,,Aphananthe,,"sakalava",,"","J.-F.Leroy",Accepted,,M,WCSP (in review),,836933-1,"Bull. Soc. Bot. France","92: 180","","1946",
+kew-2643351,A,Cannabaceae,,Aphananthe,,"yunnanensis",,"","(Hu) Grudz.",Synonym,,L,WCSP (in review),,836934-1,"Novosti Sist. Vyssh. Rast.","1: 52","","1964",kew-2643342

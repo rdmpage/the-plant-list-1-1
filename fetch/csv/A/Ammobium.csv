@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10556,A,Compositae,,Ammobium,,"alatum",,"","R.Br.",Accepted,,L,TICA,B964B810-C103-4A29-A122-13B484574643,109972-3,"Bot. Mag. 51","","","1824",
+gcc-104674,A,Compositae,,Ammobium,,"alatum",f.,"alatum","",Synonym,,L,TICA,086D1FB5-348A-44AE-A246-A3F8D8AA0111,109979-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-10556
+gcc-109487,A,Compositae,,Ammobium,,"alatum",f.,"grandiflorum","Siebert & Voss",Synonym,,L,TICA,43E2E5E2-CFE9-41D1-A4F4-AEC4A95C2F11,109984-3,"","","","1896",gcc-10556
+gcc-19040,A,Compositae,,Ammobium,,"calyceroides",,"","(Cass.) Anderb.",Synonym,,M,TICA,32568650-EA77-4F56-8402-232714FAF668,169365-3,"","","134","1990",gcc-10952
+gcc-46011,A,Compositae,,Ammobium,,"craspedioides",,"","Benth.",Accepted,,M,TICA,F96F1314-1F2E-4167-8A15-5549DB4A7714,176208-1,"Fl. Austral. 3","","584","1867",
+gcc-25732,A,Compositae,,Ammobium,,"plantagineum",,"","G.Don",Synonym,,L,TICA,4DF64515-528F-49E3-B681-2F89C6804D9E,176209-1,"","","","1830",gcc-10556
+gcc-50191,A,Compositae,,Ammobium,,"plantagineum",,"","Loudon",Unresolved,,L,TICA,D145955F-503C-44FF-853B-5D0B6911B034,110010-3,"Hortus Britannicus 1830","","","1830",
+gcc-129417,A,Compositae,,Ammobium,,"spathulatum",,"","Gaudich.",Synonym,,L,TICA,BFA1E786-1595-42D4-8BB3-DC35C74B5BBE,176210-1,"","","467","1830",gcc-10556

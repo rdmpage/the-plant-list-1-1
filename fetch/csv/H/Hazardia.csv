@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120666,A,Compositae,,Hazardia,,"berberidis",,"","(A.Gray) Greene",Accepted,,M,TICA,2A0FE384-13BE-49DA-AD03-C81634659B5F,118142-2,"","","112","1894",
+gcc-131483,A,Compositae,,Hazardia,,"brickellioides",,"","(S.F.Blake) W.D.Clark",Accepted,,M,TICA,EDB3F47D-97CE-466E-AFA5-E0FCFBE694E5,118143-2,"","","125","1979",
+gcc-123152,A,Compositae,,Hazardia,,"cana",,"","(A.Gray) Greene",Accepted,,M,TICA,5B14C5BA-AE3D-4EDF-9DAE-CDA683509532,118144-2,"","","29","1887",
+gcc-45012,A,Compositae,,Hazardia,,"cruenta",,"","(Greene) Greene",Unresolved,,L,TICA,66943EB1-2CD1-47CE-BD60-53653744CFBA,118145-2,"","","112","1894",
+gcc-139007,A,Compositae,,Hazardia,,"detonsa",,"","(Greene) Greene",Accepted,,M,TICA,5D7FD86A-4163-4373-9D8D-F1CD2C1006A2,118146-2,"","","29","1887",
+gcc-106850,A,Compositae,,Hazardia,,"enormidens",,"","(Moran) W.D.Clark",Unresolved,,L,TICA,D699F0E1-5BE0-4A64-945D-A8C665D02E54,118147-2,"","","114","1979",
+gcc-128554,A,Compositae,,Hazardia,,"ferrisiae",,"","(S.F.Blake) W.D.Clark",Accepted,,M,TICA,93FEADDF-7BAE-45CA-8404-DA46D4DEF96C,118148-2,"","","118","1979",
+gcc-133796,A,Compositae,,Hazardia,,"obtusa",,"","Greene",Synonym,,M,TICA,6B970601-E070-4577-AC2E-E651753FEA12,118149-2,"Fl. Francisc.","","375","1897",gcc-63568
+gcc-135639,A,Compositae,,Hazardia,,"odontolepis",,"","(Moran) W.D.Clark",Unresolved,,L,TICA,A6B221E8-E344-4BDE-877A-EA6C6F95831F,118150-2,"","","113","1979",
+gcc-134695,A,Compositae,,Hazardia,,"orcuttii",,"","(A.Gray) Greene",Accepted,,M,TICA,00DC2B17-38F4-4AF9-90EE-E859D6FE3DA8,118151-2,"","","112","1894",
+gcc-36258,A,Compositae,,Hazardia,,"rosarica",,"","(Moran) W.D.Clark",Accepted,,M,TICA,94E44386-A645-4DCA-9760-433D12D5ADC4,118152-2,"","","119","1979",
+gcc-140634,A,Compositae,,Hazardia,,"serrata",,"","Greene",Unresolved,,L,TICA,FAABD461-E78F-48F3-B9E0-F584470D5AD3,118153-2,"","","30","1887",
+gcc-20347,A,Compositae,,Hazardia,,"squarrosa",,"","(Hook. & Arn.) Greene",Accepted,,L,TICA,1134DB47-7D98-4AC5-BD86-259F7503EB06,118154-2,"","","112","1894",
+gcc-13305,A,Compositae,,Hazardia,,"squarrosa",var.,"grindelioides","(DC.) W.D.Clark",Accepted,,L,TICA,F8947D58-6D6A-4FC9-8A53-18CDB8D68983,118155-2,"","","122","1979",
+gcc-63568,A,Compositae,,Hazardia,,"squarrosa",var.,"obtusa","(Greene) Jeps.",Accepted,,L,TICA,96F1A02A-F659-47DB-BF02-B7DC942D104F,118156-2,"Man. Fl. Pl. Calif. 1030. 1925","","1030","1925",
+gcc-71973,A,Compositae,,Hazardia,,"squarrosa",var.,"squarrosa","",Synonym,,L,TICA,A6F58250-6286-46B5-AE63-FA4B5F447A59,,"","","","",gcc-20347
+gcc-94499,A,Compositae,,Hazardia,,"stenolepis",,"","(H.M.Hall) Hoover",Accepted,,M,TICA,CA8B22CC-ECD4-4A2A-ABF6-8D2215816EBF,211605-1,"Vasc. Pl. San Luis Obispo. Calif.: 296 (1970).","","296","1970",
+gcc-27130,A,Compositae,,Hazardia,,"vernicosa",,"","(Brandegee) W.D.Clark",Accepted,,M,TICA,B44B6ED3-0548-4C3C-9CCE-322B5FD55617,118157-2,"","","115","1979",
+gcc-88110,A,Compositae,,Hazardia,,"whitneyi",,"","(A.Gray) Greene",Accepted,,M,TICA,8E1CC301-21AA-4A88-9CDC-7EB1E83A86A1,118158-2,"","","43","1896",
+gcc-6461,A,Compositae,,Hazardia,,"whitneyi",var.,"discoidea","(J.T.Howell) W.D.Clark",Accepted,,L,TICA,15989ABD-8C52-412D-ADF2-0C09DDAD7E8A,118159-2,"","","112","1979",
+gcc-52598,A,Compositae,,Hazardia,,"whitneyi",var.,"whitneyi","",Synonym,,L,TICA,801C0048-26FC-43AE-AF9C-617FA9856147,,"","","","1979",gcc-88110

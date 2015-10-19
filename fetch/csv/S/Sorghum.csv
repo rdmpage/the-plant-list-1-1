@@ -1,0 +1,601 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-443229,A,Poaceae,,Sorghum,,"abyssinicum",,"","(Fresen.) Kuntze",Synonym,,H,WCSP,443229,60442478-2,"Revis. Gen. Pl.","2: 791","","1891",kew-391897
+kew-443230,A,Poaceae,,Sorghum,,"abyssinicum",,"","(Piper) Stapf",Synonym,Illegitimate,H,WCSP,443230,422066-1,"Fl. Trop. Afr.","9: 118","","1917",kew-443257
+kew-443231,A,Poaceae,,Sorghum,,"abyssinicum",,"","(Hack.) Chiov.",Synonym,Illegitimate,L,WCSP,443231,,"Monogr. Rapp. Colon.","24: 2","","1912",kew-443283
+kew-443232,A,Poaceae,,Sorghum,,"aciculatum",,"","(Retz.) Kuntze",Synonym,,H,WCSP,443232,422237-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405042
+kew-443233,A,Poaceae,,Sorghum,,"acutiusculum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443233,422238-1,"Revis. Gen. Pl.","2: 791","","1891",kew-408661
+kew-443234,A,Poaceae,,Sorghum,,"aethiopicum",,"","(Hack.) Rupr. ex Stapf",Synonym,,H,WCSP,443234,422068-1,"Fl. Trop. Afr.","9: 119","","1917",kew-443257
+kew-443235,A,Poaceae,,Sorghum,,"aethiopicum",var.,"brevifolium","Snowden",Synonym,,L,WCSP,443235,,"J. Linn. Soc., Bot.","55: 224","","1955",kew-443257
+kew-443236,A,Poaceae,,Sorghum,,"affine",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443236,422239-1,"Revis. Gen. Pl.","2: 791","","1891",kew-408661
+kew-443237,A,Poaceae,,Sorghum,,"album",,"","Roem. & Schult.",Synonym,Invalid,L,WCSP,443237,422069-1,"Syst. Veg.","2: 836","","1817",kew-443283
+kew-443225,A,Poaceae,,Sorghum,×,"almum",,"","Parodi",Accepted,,H,WCSP,443225,422070-1,"Revista Argent. Agron.","10: 361","","1943",
+tro-25514331,A,Poaceae,,Sorghum,,"almum",,"","Parodi",Synonym,,M,TRO,25514331,,"Revista Argent. Agron.","10(4): 361, f. 1–3, t. 31–34","361","1943",kew-443225
+tro-25529676,A,Poaceae,,Sorghum,,"almum",var.,"almum","",Synonym,,L,TRO,25529676,,"","","","",kew-443225
+kew-443238,A,Poaceae,,Sorghum,×,"almum",var.,"parvispiculum","Parodi",Synonym,,L,WCSP,443238,,"Revista Argent. Agron.","10: 361","","1943",kew-443225
+tro-25529677,A,Poaceae,,Sorghum,,"almum",var.,"parvispiculum","Parodi",Synonym,,L,TRO,25529677,,"Revista Argent. Agron.","6(2): 468","468","1969",kew-443225
+kew-443239,A,Poaceae,,Sorghum,,"alopecurus",,"","(Desv.) Kuntze",Synonym,,H,WCSP,443239,422240-1,"Revis. Gen. Pl.","2: 791","","1891",kew-391924
+kew-443240,A,Poaceae,,Sorghum,,"amethystinum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443240,422241-1,"Revis. Gen. Pl.","2: 791","","1891",kew-391935
+kew-443241,A,Poaceae,,Sorghum,,"amplectens",,"","(Nees) Kuntze",Synonym,,H,WCSP,443241,422242-1,"Revis. Gen. Pl.","2: 791","","1891",kew-409547
+kew-443242,A,Poaceae,,Sorghum,,"amplum",,"","Lazarides",Accepted,,H,WCSP,443242,960369-1,"Austral. Syst. Bot.","4: 606","","1991",
+kew-443243,A,Poaceae,,Sorghum,,"angustum",,"","S.T.Blake",Accepted,,H,WCSP,443243,422071-1,"Pap. Dept. Biol. Univ. Queensland","1(18): 21","","1941",
+kew-443244,A,Poaceae,,Sorghum,,"ankolib",,"","(Hack.) Stapf",Synonym,,L,WCSP,443244,422072-1,"Fl. Trop. Afr.","9: 135","","1917",kew-443283
+tro-50139421,A,Poaceae,,Sorghum,,"ankolib",var.,"glaberrimum","(Hack.) Snowden",Synonym,,L,TRO,50139421,,"Bull. Misc. Inform. Kew","1935(5): 233","233","1935",kew-443283
+kew-443245,A,Poaceae,,Sorghum,,"annulatum",,"","(Forssk.) Kuntze",Synonym,,H,WCSP,443245,422243-1,"Revis. Gen. Pl.","2: 791","","1891",kew-408597
+kew-443246,A,Poaceae,,Sorghum,,"annuum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443246,422244-1,"Revis. Gen. Pl.","2: 791","","1891",kew-431041
+kew-443247,A,Poaceae,,Sorghum,,"annuum",,"","Trab.",Unresolved,Illegitimate,L,WCSP,443247,422073-1,"Fl. Algérie","Monocot.: 128","","1895",
+kew-443248,A,Poaceae,,Sorghum,,"anomalum",,"","Desv.",Synonym,,L,WCSP,443248,,"Mém. Soc. Agric. Angers","1: 176","","1831",kew-443283
+kew-443249,A,Poaceae,,Sorghum,,"anthistirioides",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443249,,"Revis. Gen. Pl.","2: 791","","1891",kew-419710
+kew-443250,A,Poaceae,,Sorghum,,"appendiculatum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443250,422246-1,"Revis. Gen. Pl.","2: 791","","1891",kew-391967
+kew-443251,A,Poaceae,,Sorghum,,"arctatum",,"","(Chapm.) Kuntze",Synonym,,H,WCSP,443251,240837-2,"Revis. Gen. Pl.","2: 791","","1891",kew-391973
+tro-50140030,A,Poaceae,,Sorghum,,"arduini",var.,"bicolor","(Körn.) Snowden",Unresolved,,L,TRO,50140030,,"Bull. Misc. Inform. Kew","1935(5): 236","236","1935",
+kew-443252,A,Poaceae,,Sorghum,,"arduinii",,"","(Gmel.) J.Jacq.",Synonym,,L,WCSP,443252,,"Ecl. Gram. Rar.","25","","1814",kew-443283
+kew-443253,A,Poaceae,,Sorghum,,"arenarium",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443253,240838-2,"Revis. Gen. Pl.","2: 791","","1891",kew-391976
+kew-443254,A,Poaceae,,Sorghum,,"argenteum",,"","(Elliott) Kuntze",Synonym,,H,WCSP,443254,240839-2,"Revis. Gen. Pl.","2: 790","","1891",kew-393506
+kew-443255,A,Poaceae,,Sorghum,,"argutum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443255,422250-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405047
+kew-443256,A,Poaceae,,Sorghum,,"arrhenobasis",,"","(Hochst. ex Steud.) Kuntze",Synonym,,H,WCSP,443256,422251-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419712
+kew-443257,A,Poaceae,,Sorghum,,"arundinaceum",,"","(Desv.) Stapf",Accepted,,H,WCSP,443257,422078-1,"Fl. Trop. Afr.","9: 114","","1917",
+kew-443258,A,Poaceae,,Sorghum,,"asperum",,"","(Thunb.) P.Beauv.",Synonym,,L,WCSP,443258,422079-1,"Ess. Agrostogr.","131","","1812",kew-433137
+tro-25524618,A,Poaceae,,Sorghum,,"asperum",,"","(Thunb.) Roem. & Schult.",Synonym,,L,TRO,25524618,422080-1,"Syst. Veg.","2: 839","839","1817",kew-433137
+kew-443259,A,Poaceae,,Sorghum,,"aterrimum",,"","Stapf",Unresolved,,L,WCSP,443259,422081-1,"Fl. Trop. Afr.","9: 121","","1917",
+kew-443261,A,Poaceae,,Sorghum,,"aterrimum",var.,"transiens","(Hack.) Snowden",Unresolved,,L,WCSP,443261,,"Bull. Misc. Inform. Kew","1935: 223","","1935",
+kew-443262,A,Poaceae,,Sorghum,,"aucheri",,"","(Boiss.) Kuntze",Synonym,,H,WCSP,443262,422252-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405050
+kew-443263,A,Poaceae,,Sorghum,,"australiense",,"","Garber & Snyder",Synonym,,H,WCSP,443263,422082-1,"Madroño","11: 7","","1951",kew-443702
+kew-443264,A,Poaceae,,Sorghum,,"avenaceum",,"","P.Beauv.",Synonym,,H,WCSP,443264,422083-1,"Ess. Agrostogr.","131","","1812",kew-433158
+kew-443265,A,Poaceae,,Sorghum,,"avenaceum",,"","(Michx.) Chapm.",Synonym,Illegitimate,H,WCSP,443265,1206298-2,"Fl. South. U.S.","583","","1860",kew-443203
+kew-443266,A,Poaceae,,Sorghum,,"balansae",,"","Hack.",Synonym,,H,WCSP,443266,285392-2,"Fl. Bras.","2(3): 277","","1883",kew-443184
+kew-443267,A,Poaceae,,Sorghum,,"barbatum",,"","(Nees) Hochst. & Steud.",Synonym,Invalid,H,WCSP,443267,,"Nomencl. Bot.","ed. 2, 2: 612","","1841",kew-407337
+kew-443268,A,Poaceae,,Sorghum,,"barteri",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443268,422253-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419716
+kew-443269,A,Poaceae,,Sorghum,,"basiplicatum",,"","Chiov.",Synonym,,L,WCSP,443269,422088-1,"Monogr. Rapp. Colon.","19: 23","","1912",kew-443283
+kew-443273,A,Poaceae,,Sorghum,,"basiplicatum",var.,"atropaniculatum","Chiov.",Synonym,,L,WCSP,443273,,"Monogr. Rapp. Colon.","19: 46","","1912",kew-443283
+kew-443270,A,Poaceae,,Sorghum,,"basiplicatum",f.,"eburneum","Chiov.",Synonym,,L,WCSP,443270,,"Monogr. Rapp. Colon.","19: 45","","1912",kew-443283
+kew-443271,A,Poaceae,,Sorghum,,"basiplicatum",f.,"jodolepis","Chiov.",Synonym,,L,WCSP,443271,,"Monogr. Rapp. Colon.","19: 42","","1912",kew-443283
+tro-50174137,A,Poaceae,,Sorghum,,"basiplicatum",var.,"leucocarpum","Chiov.",Synonym,,L,TRO,50174137,,"Monogr. Rapp. Colon. Rome","19: 42","42","1912",tro-50174138
+kew-443272,A,Poaceae,,Sorghum,,"basiplicatum",f.,"leucolepis","Chiov.",Synonym,,L,WCSP,443272,,"Monogr. Rapp. Colon.","19: 43","","1912",kew-443283
+kew-443274,A,Poaceae,,Sorghum,,"basiplicatum",var.,"microcarpum","Chiov.",Synonym,,L,WCSP,443274,,"Monogr. Rapp. Colon.","19: 46","","1912",kew-443283
+kew-443275,A,Poaceae,,Sorghum,,"basiplicatum",var.,"pallescens","Chiov.",Synonym,,L,WCSP,443275,,"Monogr. Rapp. Colon.","19: 47","","1912",kew-443283
+kew-443276,A,Poaceae,,Sorghum,,"basiplicatum",var.,"paniculatellum","Chiov.",Synonym,,L,WCSP,443276,,"Monogr. Rapp. Colon.","19: 38","","1912",kew-443283
+kew-443277,A,Poaceae,,Sorghum,,"basiplicatum",var.,"pseudoanfetum","Chiov.",Synonym,,L,WCSP,443277,,"Monogr. Rapp. Colon.","19: 46","","1912",kew-443283
+kew-443278,A,Poaceae,,Sorghum,,"basiplicatum",var.,"rubellum","Chiov.",Synonym,,L,WCSP,443278,,"Monogr. Rapp. Colon.","19: 47","","1912",kew-443283
+kew-443279,A,Poaceae,,Sorghum,,"basiplicatum",var.,"rubrogeminum","Chiov.",Synonym,,L,WCSP,443279,,"Monogr. Rapp. Colon.","19: 47","","1912",kew-443283
+kew-443280,A,Poaceae,,Sorghum,,"basiplicatum",var.,"subflavescens","Chiov.",Synonym,,L,WCSP,443280,,"Monogr. Rapp. Colon.","19: 46","","1912",kew-443283
+kew-443281,A,Poaceae,,Sorghum,,"basutorum",,"","Snowden",Synonym,,L,WCSP,443281,422089-1,"Bull. Misc. Inform. Kew","1935: 232","","1935",kew-443283
+kew-443282,A,Poaceae,,Sorghum,,"bellariense",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443282,422254-1,"Revis. Gen. Pl.","2: 791","","1891",kew-431042
+kew-443283,A,Poaceae,,Sorghum,,"bicolor",,"","(L.) Moench",Accepted,,L,WCSP,443283,422090-1,"Methodus","207","","1794",
+kew-443284,A,Poaceae,,Sorghum,,"bicolor",,"","Kuntze",Synonym,Illegitimate,H,WCSP,443284,422255-1,"Revis. Gen. Pl.","2: 790","","1891",kew-419739
+tro-25538548,A,Poaceae,,Sorghum,,"bicolor",subsp.,"bicolor","",Synonym,,L,TRO,25538548,,"","","","",kew-443283
+tro-50092253,A,Poaceae,,Sorghum,,"bicolor",var.,"bicolor","",Synonym,,L,TRO,50092253,,"","","","",kew-443283
+tro-50296931,A,Poaceae,,Sorghum,,"bicolor",f.,"bicolor","",Synonym,,L,TRO,50296931,,"","","","",kew-443283
+kew-443289,A,Poaceae,,Sorghum,,"bicolor",var.,"cafer","(Körn.) Fosberg & Sachet",Synonym,,L,WCSP,443289,923891-1,"Micronesica","18: 93","","1982 publ. 1984",kew-443283
+kew-443290,A,Poaceae,,Sorghum,,"bicolor",var.,"caffrorum","(Retz.) Mohlenbr.",Synonym,,L,WCSP,443290,883078-1,"Ill. Fl. Illinois, Grasses: Panicum-Danthonia","192","","1973",kew-443283
+kew-443291,A,Poaceae,,Sorghum,,"bicolor",var.,"cernuum","(Ard.) Ghișa",Synonym,,L,WCSP,443291,883079-1,"Fl. Republ. Social. Român.","12: 61","","1972",kew-443283
+tro-50140035,A,Poaceae,,Sorghum,,"bicolor",var.,"charisianum","(Busse & Pilg.) Snowden",Accepted,,L,TRO,50140035,,"Bull. Misc. Inform. Kew","1935(5): 237","237","1935",
+kew-443286,A,Poaceae,,Sorghum,,"bicolor",subsp.,"drummondii","(Nees ex Steud.) de Wet ex Davidse",Synonym,,L,WCSP,443286,974585-1,"Monogr. Syst. Bot. Missouri Bot. Gard.","45: 1258","","1993",kew-443227
+kew-443292,A,Poaceae,,Sorghum,,"bicolor",var.,"drummondii","(Nees ex Steud.) Mohlenbr.",Synonym,,L,WCSP,443292,883080-1,"Ill. Fl. Illinois, Grasses: Panicum-Danthonia","192","","1973",kew-443227
+kew-443293,A,Poaceae,,Sorghum,,"bicolor",var.,"exaristatum","Doronina & Ivanjuk.",Synonym,,L,WCSP,443293,915979-1,"Trudy Prikl. Bot.","69(1): 29","","1980",kew-443283
+kew-443294,A,Poaceae,,Sorghum,,"bicolor",var.,"miliiforme","(Hack.) Teplyak.",Synonym,,L,WCSP,443294,20011118-1,"Sborn. Nauchn. Trudov Prikl. Bot. Genet. Selekts.","39: 47","","1991",kew-443283
+kew-443295,A,Poaceae,,Sorghum,,"bicolor",var.,"obovatum","(Hack.) Fosberg & Sachet",Synonym,,L,WCSP,443295,923892-1,"Micronesica","18: 94","","1982 publ. 1984",kew-443283
+kew-443296,A,Poaceae,,Sorghum,,"bicolor",var.,"rotundulum","(Snowden) Fosberg & Sachet",Synonym,,L,WCSP,443296,923893-1,"Micronesica","18: 94","","1982 publ. 1984",kew-443283
+kew-443297,A,Poaceae,,Sorghum,,"bicolor",var.,"saccharatum","(L.) Mohlenbr.",Synonym,,L,WCSP,443297,883082-1,"Ill. Fl. Illinois, Grasses: Panicum-Danthonia","192","","1973",kew-443283
+tro-25551567,A,Poaceae,,Sorghum,,"bicolor",var.,"saccharatum","Mehrotra, Aswal & B.S. Bisht",Synonym,,L,TRO,25551567,954077-1,"Companion to Chopra's Gloss. Indian Medicin. Pl.","143","143","1987",kew-443283
+kew-443298,A,Poaceae,,Sorghum,,"bicolor",var.,"sikkimense","(Snowden) Teplyak.",Synonym,,L,WCSP,443298,20011120-1,"Sborn. Nauchn. Trudov Prikl. Bot. Genet. Selekts.","39: 47","","1991",kew-443283
+kew-443299,A,Poaceae,,Sorghum,,"bicolor",var.,"subglabrescens","(Steud.) Fosberg & Sachet",Synonym,,L,WCSP,443299,923894-1,"Micronesica","18: 95","","1982 publ. 1984",kew-443283
+tro-25544779,A,Poaceae,,Sorghum,,"bicolor",var.,"subglobosum","(Hack.) Snowden",Synonym,,L,TRO,25544779,,"Bull. Misc. Inform. Kew","1935(5): 237","237","1935",kew-443283
+kew-443300,A,Poaceae,,Sorghum,,"bicolor",var.,"technicum","(Körn.) Stapf ex Holland",Synonym,,L,WCSP,443300,,"Bull. Misc. Inform. Kew","Addit. Ser. 9: 789","","1922",kew-443283
+kew-443301,A,Poaceae,,Sorghum,,"bicolor",var.,"transiens","(Hack.) Fosberg & Sachet",Unresolved,,L,WCSP,443301,923895-1,"Micronesica","18: 96","","1982 publ. 1984",kew-443261
+kew-450974,A,Poaceae,,Sorghum,,"bicolor",subsp.,"verticilliflorum","(Steud.) de Wet ex Wiersema & J.Dahlb.",Synonym,,L,WCSP,450974,77083517-1,"Taxon","56: 944","","2007",kew-443257
+kew-443303,A,Poaceae,,Sorghum,,"bicolor",var.,"virgatum","(Hack.) de Wet & Harlan",Synonym,,L,WCSP,443303,,"Amer. J. Bot.","57: 706","","1970",kew-443724
+kew-443304,A,Poaceae,,Sorghum,,"bicorne",,"","(L.) Kuntze",Synonym,,H,WCSP,443304,240845-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392061
+kew-443305,A,Poaceae,,Sorghum,,"bipennatum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443305,422257-1,"Revis. Gen. Pl.","2: 791","","1891",kew-443196
+kew-443306,A,Poaceae,,Sorghum,,"bombycinum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443306,422258-1,"Revis. Gen. Pl.","2: 791","","1891",kew-406122
+kew-443307,A,Poaceae,,Sorghum,,"bourgaei",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443307,240846-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392087
+kew-443308,A,Poaceae,,Sorghum,,"brachypodum",,"","Lazarides",Accepted,,H,WCSP,443308,960370-1,"Austral. Syst. Bot.","4: 608","","1991",
+kew-443309,A,Poaceae,,Sorghum,,"brachystachyum",,"","(Chapm.) Kuntze",Synonym,,H,WCSP,443309,240847-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392092
+kew-443310,A,Poaceae,,Sorghum,,"bracteatum",,"","(Humb. & Bonpl. ex Willd.) Kuntze",Synonym,,H,WCSP,443310,240848-2,"Revis. Gen. Pl.","2: 791","","1891",kew-419721
+kew-443311,A,Poaceae,,Sorghum,,"brevicallosum",,"","Garber",Synonym,,H,WCSP,443311,,"Univ. Calif. Publ. Bot.","23: 325","","1950",kew-443702
+kew-443312,A,Poaceae,,Sorghum,,"brevicarinatum",,"","Snowden",Synonym,,H,WCSP,443312,422093-1,"J. Linn. Soc., Bot.","55: 242","","1955",kew-443257
+kew-443313,A,Poaceae,,Sorghum,,"brevicarinatum",var.,"swahilorum","Snowden",Synonym,,L,WCSP,443313,,"J. Linn. Soc., Bot.","55: 245","","1955",kew-443257
+kew-443314,A,Poaceae,,Sorghum,,"brevifolium",,"","(Sw.) Kuntze",Synonym,,H,WCSP,443314,240849-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441284
+kew-443315,A,Poaceae,,Sorghum,,"buchneri",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443315,422263-1,"Revis. Gen. Pl.","2: 791","","1891",kew-409551
+kew-443316,A,Poaceae,,Sorghum,,"bulbosum",,"","Lazarides",Accepted,,H,WCSP,443316,960371-1,"Austral. Syst. Bot.","4: 609","","1991",
+kew-443317,A,Poaceae,,Sorghum,,"burmahicum",,"","Raizada",Accepted,,H,WCSP,443317,422094-1,"Indian Forester","83: 315","","1957",
+kew-443318,A,Poaceae,,Sorghum,,"cabanisii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443318,240850-2,"Revis. Gen. Pl.","2: 791","","1891",kew-393506
+kew-443319,A,Poaceae,,Sorghum,,"caffrorum",,"","(Retz.) P.Beauv.",Synonym,,L,WCSP,443319,422095-1,"Ess. Agrostogr.","131","","1812",kew-443283
+tro-50140097,A,Poaceae,,Sorghum,,"caffrorum",var.,"albidum","(Körn.) Snowden",Unresolved,,L,TRO,50140097,,"Bull. Misc. Inform. Kew","1935(5): 243","243","1935",
+kew-443320,A,Poaceae,,Sorghum,,"caffrorum",var.,"albofuscum","(Körn.) Snowden",Synonym,,L,WCSP,443320,,"Bull. Misc. Inform. Kew","1935: 243","","1935",kew-443283
+kew-443321,A,Poaceae,,Sorghum,,"caffrorum",var.,"bicarinatum","(Hack.) Snowden",Synonym,,L,WCSP,443321,240851-2,"Bull. Misc. Inform. Kew","1935: 244","","1935",kew-443283
+tro-50140854,A,Poaceae,,Sorghum,,"caffrorum",var.,"densissimum","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50140854,,"Bull. Misc. Inform. Kew","1935(5): 244","244","1935",
+tro-50140101,A,Poaceae,,Sorghum,,"caffrorum",var.,"lasiorhachis","(Hack.) Snowden",Synonym,,L,TRO,50140101,,"Bull. Misc. Inform. Kew","1935(5): 243","243","1935",kew-443283
+tro-50140853,A,Poaceae,,Sorghum,,"caffrorum",var.,"neesii","(Körn.) Snowden",Synonym,,L,TRO,50140853,,"Bull. Misc. Inform. Kew","1935(5): 244","244","1935",kew-443283
+tro-50140099,A,Poaceae,,Sorghum,,"caffrorum",var.,"ondongae","(Körn.) Snowden",Unresolved,,L,TRO,50140099,,"Bull. Misc. Inform. Kew","1935(5): 243","243","1935",
+kew-443322,A,Poaceae,,Sorghum,,"campanum",,"","Ten. & Guss.",Synonym,,L,WCSP,443322,422096-1,"Atti Accad. Sci. Fis.","5: 303","","1843",kew-443283
+tro-25542204,A,Poaceae,,Sorghum,,"campanum",,"","Ten. & Coss.",Synonym,,M,TRO,25542204,,"","","","",tro-25505395
+kew-443323,A,Poaceae,,Sorghum,,"campestre",,"","Kuntze",Synonym,Illegitimate,H,WCSP,443323,240852-2,"Revis. Gen. Pl.","2: 790","","1891",kew-441438
+kew-443324,A,Poaceae,,Sorghum,,"camporum",,"","Kuntze",Synonym,,H,WCSP,443324,240853-2,"Revis. Gen. Pl.","2: 790","","1891",kew-392125
+kew-443325,A,Poaceae,,Sorghum,,"canescens",,"","Hack.",Synonym,,H,WCSP,443325,422097-1,"Fl. Bras.","2(3): 277","","1883",kew-443196
+kew-443326,A,Poaceae,,Sorghum,,"capillare",,"","(Thunb.) Roem. & Schult.",Synonym,,H,WCSP,443326,,"Syst. Veg.","2: 840","","1817",kew-433151
+tro-25524814,A,Poaceae,,Sorghum,,"capillaris",,"","(Thunb.) Roem. & Schult.",Synonym,,L,TRO,25524814,,"Syst. Veg.","2: 840","840","1817",kew-467960
+kew-443327,A,Poaceae,,Sorghum,,"caricosum",,"","(L.) Kuntze",Synonym,,H,WCSP,443327,422267-1,"Revis. Gen. Pl.","2: 791","","1891",kew-408606
+kew-443328,A,Poaceae,,Sorghum,,"carinatum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443328,240855-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392146
+kew-443329,A,Poaceae,,Sorghum,,"castaneum",,"","C.E.Hubb. & Snowden",Synonym,,H,WCSP,443329,422100-1,"Bull. Misc. Inform. Kew","1936: 316","","1936",kew-443257
+kew-443330,A,Poaceae,,Sorghum,,"caucasicum",,"","(Trin.) Griseb.",Synonym,,H,WCSP,443330,422101-1,"Fl. Ross.","4: 476","","1853",kew-399297
+kew-443331,A,Poaceae,,Sorghum,,"caudatum",,"","(Hack.) Stapf",Synonym,,L,WCSP,443331,422102-1,"Fl. Trop. Afr.","9: 131","","1917",kew-443283
+kew-443332,A,Poaceae,,Sorghum,,"caudatum",var.,"angolense","(Rendle) Stapf",Synonym,,L,WCSP,443332,,"Fl. Trop. Afr.","9: 132","","1917",kew-443283
+kew-443333,A,Poaceae,,Sorghum,,"caudatum",var.,"aristatum","Ivanjuk.",Synonym,,L,WCSP,443333,918076-1,"Trudy Prikl. Bot.","79: 58","","1983",kew-443283
+tro-50173990,A,Poaceae,,Sorghum,,"caudatum",var.,"caudatum","",Synonym,,L,TRO,50173990,,"","","","",kew-443283
+tro-50140856,A,Poaceae,,Sorghum,,"caudatum",var.,"cerevisiae","Stapf",Synonym,,L,TRO,50140856,,"Fl. Trop. Afr.","9: 132","132","1917",tro-50140855
+kew-443334,A,Poaceae,,Sorghum,,"caudatum",var.,"coffeatum","Ivanjuk.",Synonym,,L,WCSP,443334,918077-1,"Trudy Prikl. Bot.","79: 56","","1983",kew-443283
+tro-50173999,A,Poaceae,,Sorghum,,"caudatum",var.,"colorans","(Pilg.) Snowden",Unresolved,,L,TRO,50173999,,"Bull. Misc. Inform. Kew","1935(5): 247","247","1935",
+kew-443335,A,Poaceae,,Sorghum,,"caudatum",var.,"dicarpum","Ivanjuk.",Synonym,,L,WCSP,443335,918078-1,"Trudy Prikl. Bot.","79: 56","","1983",kew-443283
+tro-50174001,A,Poaceae,,Sorghum,,"caudatum",var.,"hackelii","(Chiov.) Snowden",Synonym,,L,TRO,50174001,,"Bull. Misc. Inform. Kew","1935(5): 247","247","1935",kew-443283
+tro-50173996,A,Poaceae,,Sorghum,,"caudatum",var.,"kerstingianum","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50173996,,"Bull. Misc. Inform. Kew","1935(5): 247","247","1935",
+tro-50173992,A,Poaceae,,Sorghum,,"caudatum",var.,"natae","(Körn.) Snowden",Unresolved,,L,TRO,50173992,,"Bull. Misc. Inform. Kew","1935(5): 246","246","1935",
+kew-443336,A,Poaceae,,Sorghum,,"caudatum",var.,"purpureum","Ivanjuk.",Synonym,,L,WCSP,443336,918079-1,"Trudy Prikl. Bot.","79: 57","","1983",kew-443283
+tro-50174014,A,Poaceae,,Sorghum,,"caudatum",var.,"rutilum","Stapf",Synonym,,L,TRO,50174014,,"Fl. Trop. Afr.","9: 133","133","1917",tro-50174013
+tro-50174139,A,Poaceae,,Sorghum,,"caudatum",var.,"umbonatum","Stapf",Synonym,,L,TRO,50174139,,"Fl. Trop. Afr.","9: 133","133","1917",tro-50174140
+kew-443337,A,Poaceae,,Sorghum,,"centroplicatum",,"","Chiov.",Synonym,,L,WCSP,443337,422103-1,"Monogr. Rapp. Colon.","19: 31","","1912",kew-443283
+kew-443338,A,Poaceae,,Sorghum,,"centroplicatum",var.,"alborubrum","Chiov.",Synonym,,L,WCSP,443338,,"Monogr. Rapp. Colon.","19: 37","","1912",kew-443283
+kew-443339,A,Poaceae,,Sorghum,,"centroplicatum",var.,"dubium","Chiov.",Synonym,,L,WCSP,443339,,"Monogr. Rapp. Colon.","19: 35","","1912",kew-443283
+kew-443340,A,Poaceae,,Sorghum,,"centroplicatum",var.,"ellipsoideum","Chiov.",Synonym,,L,WCSP,443340,,"Monogr. Rapp. Colon.","19: 33","","1912",kew-443283
+kew-443341,A,Poaceae,,Sorghum,,"centroplicatum",var.,"erythromelas","Chiov.",Synonym,,L,WCSP,443341,,"Monogr. Rapp. Colon.","19: 32","","1912",kew-443283
+kew-443342,A,Poaceae,,Sorghum,,"centroplicatum",var.,"faregg","Chiov.",Synonym,,L,WCSP,443342,,"Monogr. Rapp. Colon.","19: 36","","1912",kew-443283
+kew-443343,A,Poaceae,,Sorghum,,"centroplicatum",var.,"globosum","Chiov.",Synonym,,L,WCSP,443343,,"Monogr. Rapp. Colon.","19: 33","","1912",kew-443283
+kew-443344,A,Poaceae,,Sorghum,,"centroplicatum",var.,"incertum","Chiov.",Synonym,,L,WCSP,443344,,"Monogr. Rapp. Colon.","19: 36","","1912",kew-443283
+kew-443345,A,Poaceae,,Sorghum,,"centroplicatum",var.,"pallidocernuum","Chiov.",Synonym,,L,WCSP,443345,,"Monogr. Rapp. Colon.","19: 33","","1912",kew-443283
+kew-443346,A,Poaceae,,Sorghum,,"centroplicatum",var.,"perlarium","Chiov.",Synonym,,L,WCSP,443346,,"Monogr. Rapp. Colon.","19: 36","","1912",kew-443283
+kew-443347,A,Poaceae,,Sorghum,,"centroplicatum",var.,"pseudoneesii","Chiov.",Synonym,,L,WCSP,443347,,"Monogr. Rapp. Colon.","19: 31","","1912",kew-443283
+kew-443348,A,Poaceae,,Sorghum,,"centroplicatum",var.,"sabderatense","Chiov.",Synonym,,L,WCSP,443348,,"Monogr. Rapp. Colon.","19: 35","","1912",kew-443283
+kew-443349,A,Poaceae,,Sorghum,,"centroplicatum",var.,"subcarneum","Chiov.",Synonym,,L,WCSP,443349,,"Monogr. Rapp. Colon.","19: 32","","1912",kew-443283
+kew-443350,A,Poaceae,,Sorghum,,"centroplicatum",var.,"tricolor","Chiov.",Synonym,,L,WCSP,443350,,"Monogr. Rapp. Colon.","19: 37","","1912",kew-443283
+kew-443351,A,Poaceae,,Sorghum,,"ceresiiforme",,"","(Nees) Kuntze",Synonym,,H,WCSP,443351,422269-1,"Revis. Gen. Pl.","2: 791","","1891",kew-424889
+kew-443352,A,Poaceae,,Sorghum,,"cernuum",,"","(Ard.) Host",Synonym,,L,WCSP,443352,,"Icon. Descr. Gram. Austriac.","4: 2","","1809",kew-443283
+tro-50174114,A,Poaceae,,Sorghum,,"cernuum",var.,"agricolarum","(Brukill ex Benson & Subba Rao) Snowden",Unresolved,,L,TRO,50174114,,"Bull. Misc. Inform. Kew","1935(5): 251","251","1935",
+kew-443353,A,Poaceae,,Sorghum,,"cernuum",var.,"globosum","(Hack.) Snowden",Synonym,,L,WCSP,443353,,"Bull. Misc. Inform. Kew","1935: 251","","1935",kew-443283
+kew-443354,A,Poaceae,,Sorghum,,"cernuum",var.,"truchmenorum","(Klokov) Snowden",Synonym,,L,WCSP,443354,,"Cult. Sorghum","251","","1935",kew-443283
+kew-443355,A,Poaceae,,Sorghum,,"cernuum",var.,"yemense","(Körn.) Snowden",Synonym,,L,WCSP,443355,,"Bull. Misc. Inform. Kew","1935: 251","","1935",kew-443283
+kew-443356,A,Poaceae,,Sorghum,,"chinense",,"","Jakusch.",Synonym,Invalid,L,WCSP,443356,,"Rukovv. Aprob. Selsk. Kult.","ed. 5, 2: 172","","1949",kew-443283
+kew-443357,A,Poaceae,,Sorghum,,"chrysostachyum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443357,422270-1,"Revis. Gen. Pl.","2: 791","","1891",kew-392171
+kew-443358,A,Poaceae,,Sorghum,,"ciliare",,"","(P.Beauv.) Kuntze",Synonym,,H,WCSP,443358,422271-1,"Revis. Gen. Pl.","2: 790","","1891",kew-395573
+kew-443359,A,Poaceae,,Sorghum,,"cirratum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443359,240856-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441291
+kew-443360,A,Poaceae,,Sorghum,,"commune",,"","P.Beauv.",Synonym,Invalid,L,WCSP,443360,422105-1,"Ess. Agrostogr.","131","","1812",kew-443283
+kew-443361,A,Poaceae,,Sorghum,,"commutatum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443361,422273-1,"Revis. Gen. Pl.","2: 791","","1891",kew-406139
+kew-443362,A,Poaceae,,Sorghum,,"comosum",,"","Kuntze",Synonym,,H,WCSP,443362,422274-1,"Revis. Gen. Pl.","2: 790","","1891",kew-419727
+kew-443363,A,Poaceae,,Sorghum,,"compactum",,"","Lag.",Synonym,,L,WCSP,443363,941384-1,"Elench. Pl.","15","","1816",kew-443283
+kew-443364,A,Poaceae,,Sorghum,,"condensatum",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443364,240857-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441294
+kew-443365,A,Poaceae,,Sorghum,,"condensatum",var.,"intermedium","(Nees) Kuntze",Synonym,,L,WCSP,443365,240858-2,"Revis. Gen. Pl.","3(3): 368","","1898",kew-441431
+kew-443366,A,Poaceae,,Sorghum,,"condensatum",var.,"lactiflorum","(Hack.) Hack. ex Kuntze",Synonym,,L,WCSP,443366,,"Revis. Gen. Pl.","3(3): 368","","1898",kew-441294
+kew-443367,A,Poaceae,,Sorghum,,"confine",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443367,422276-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419730
+kew-443368,A,Poaceae,,Sorghum,,"consanguineum",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443368,240859-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441431
+kew-443369,A,Poaceae,,Sorghum,,"conspicuum",,"","Snowden",Synonym,,L,WCSP,443369,422106-1,"Bull. Misc. Inform. Kew","1935: 226","","1935",kew-443283
+tro-50138992,A,Poaceae,,Sorghum,,"conspicuum",var.,"callomelan","(K. Schum.) Snowden",Unresolved,,L,TRO,50138992,,"Bull. Misc. Inform. Kew","1935(5): 228","228","1935",
+tro-50138989,A,Poaceae,,Sorghum,,"conspicuum",var.,"usaramense","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50138989,,"Bull. Misc. Inform. Kew","1935(5): 227","227","1935",
+kew-443370,A,Poaceae,,Sorghum,,"contortum",,"","(L.) Kuntze",Synonym,,L,WCSP,443370,240860-2,"Revis. Gen. Pl.","2: 791","","1891",kew-418712
+kew-443371,A,Poaceae,,Sorghum,,"controversum",,"","(Steud.) Snowden",Accepted,,H,WCSP,443371,422107-1,"J. Linn. Soc., Bot.","55: 210","","1955",
+kew-443372,A,Poaceae,,Sorghum,,"coriaceum",,"","Snowden",Synonym,,L,WCSP,443372,422108-1,"Bull. Misc. Inform. Kew","1935: 240","","1935",kew-443283
+kew-443373,A,Poaceae,,Sorghum,,"cornucopiae",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443373,422279-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419867
+kew-443374,A,Poaceae,,Sorghum,,"crupina",,"","Link",Synonym,,H,WCSP,443374,422109-1,"Hort. Berol.","1: 246","","1827",kew-443460
+kew-443375,A,Poaceae,,Sorghum,,"cubense",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443375,240861-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441301
+tro-25541772,A,Poaceae,,Sorghum,,"cuprina",,"","Link",Synonym,,M,TRO,25541772,,"","","","",tro-25505104
+kew-443376,A,Poaceae,,Sorghum,,"cymbarium",,"","(L.) Kuntze",Synonym,,H,WCSP,443376,422282-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419738
+kew-443377,A,Poaceae,,Sorghum,,"deccanense",,"","Stapf ex Raizada",Synonym,,H,WCSP,443377,422111-1,"Indian Forester","80: 43","","1954",kew-443616
+kew-443378,A,Poaceae,,Sorghum,,"decolor",,"","P.Beauv.",Synonym,Invalid,H,WCSP,443378,422112-1,"Ess. Agrostogr.","131","","1812",kew-443460
+kew-443379,A,Poaceae,,Sorghum,,"decolorans",,"","(Willd.) Roem. & Schult.",Synonym,,H,WCSP,443379,422113-1,"Syst. Veg.","2: 838","","1817",kew-443460
+kew-443380,A,Poaceae,,Sorghum,,"delavayi",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443380,422283-1,"Revis. Gen. Pl.","2: 791","","1891",kew-441303
+kew-443381,A,Poaceae,,Sorghum,,"demissum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443381,422284-1,"Revis. Gen. Pl.","2: 791","","1891",kew-393160
+kew-443226,A,Poaceae,,Sorghum,×,"derzhavinii",,"","Tzvelev",Accepted,,H,WCSP,443226,422114-1,"Novosti Sist. Vyssh. Rast.","5: 16","","1968",
+kew-443382,A,Poaceae,,Sorghum,,"dichroanthum",,"","(Steud.) Ohwi",Synonym,Invalid,H,WCSP,443382,,"Acta Phytotax. Geobot.","11: 160","","1942",kew-443549
+kew-443383,A,Poaceae,,Sorghum,,"dimidiatum",,"","Stapf",Synonym,,H,WCSP,443383,422115-1,"Fl. Trop. Afr.","9: 140","","1917",kew-443616
+kew-443384,A,Poaceae,,Sorghum,,"diplandrum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443384,422285-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419740
+kew-443385,A,Poaceae,,Sorghum,,"distachyon",,"","(L.) Kuntze",Synonym,,H,WCSP,443385,422286-1,"Revis. Gen. Pl.","2: 791","","1891",kew-392299
+kew-443386,A,Poaceae,,Sorghum,,"dochna",,"","(Forssk.) Snowden",Synonym,,L,WCSP,443386,422116-1,"Bull. Misc. Inform. Kew","1935: 234","","1935",kew-443283
+kew-443387,A,Poaceae,,Sorghum,,"dochna",var.,"atrum","Snowden",Synonym,,L,WCSP,443387,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443388,A,Poaceae,,Sorghum,,"dochna",var.,"burmanicum","(Benson & Subba Rao) Snowden",Synonym,,L,WCSP,443388,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443389,A,Poaceae,,Sorghum,,"dochna",var.,"corymbosum","(Hack.) Snowden",Synonym,,L,WCSP,443389,240862-2,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+tro-25558611,A,Poaceae,,Sorghum,,"dochna",var.,"dochna","",Synonym,,L,TRO,25558611,,"","","","",kew-443283
+kew-443390,A,Poaceae,,Sorghum,,"dochna",var.,"formosum","Snowden",Synonym,,L,WCSP,443390,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443391,A,Poaceae,,Sorghum,,"dochna",var.,"irungu","(Benson & Subba Rao) Snowden",Synonym,,L,WCSP,443391,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443392,A,Poaceae,,Sorghum,,"dochna",var.,"melliferum","Snowden",Synonym,,L,WCSP,443392,,"Bull. Misc. Inform. Kew","1935: 236","","1935",kew-443283
+kew-443393,A,Poaceae,,Sorghum,,"dochna",var.,"obovatum","(Hack.) Snowden",Synonym,,L,WCSP,443393,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443394,A,Poaceae,,Sorghum,,"dochna",var.,"pulchrum","(Burk. ex Benson & Subba Rao) Snowden",Synonym,,L,WCSP,443394,,"Bull. Misc. Inform. Kew","1935: 235","","1935",kew-443283
+kew-443395,A,Poaceae,,Sorghum,,"dochna",var.,"technicum","(Körn.) Snowden",Synonym,,L,WCSP,443395,240863-2,"Cult. Sorghum","235","","1935",kew-443283
+kew-443396,A,Poaceae,,Sorghum,,"dochna",var.,"wightii","(Hack.) Snowden",Synonym,,L,WCSP,443396,,"Bull. Misc. Inform. Kew","1935: 236","","1935",kew-443283
+tro-50220652,A,Poaceae,,Sorghum,,"doncha",var.,"wightii","(Hack.) Snowden",Synonym,,L,TRO,50220652,,"Bull. Misc. Inform. Kew","1935: 235","235","1935",kew-443283
+kew-443397,A,Poaceae,,Sorghum,,"dora",,"","(Mieg) Cuoco",Synonym,,L,WCSP,443397,,"Fauna Fl. Eritrea","99","","1897",kew-443283
+kew-443227,A,Poaceae,,Sorghum,×,"drummondii",,"","(Nees ex Steud.) Millsp. & Chase",Accepted,,H,WCSP,443227,,"Publ. Field Columb. Mus., Bot. Ser.","3: 21","","1903",
+kew-443398,A,Poaceae,,Sorghum,,"dubium",,"","K.Koch",Synonym,,H,WCSP,443398,422120-1,"Linnaea","21: 443","","1848",kew-443460
+kew-443399,A,Poaceae,,Sorghum,,"dulcicaule",,"","Snowden",Synonym,,L,WCSP,443399,422121-1,"Bull. Misc. Inform. Kew","1935: 247","","1935",kew-443283
+kew-443400,A,Poaceae,,Sorghum,,"dulcicaule",var.,"griseolilacinum","Ivanjuk.",Synonym,,L,WCSP,443400,918080-1,"Byull. Vsesoyuzn. Inst. Rasteniev","131: 42","","1983",kew-443283
+tro-25514214,A,Poaceae,,Sorghum,,"dura",,"","Griseb.",Synonym,,L,TRO,25514214,422117-1,"Fl. Brit. W. I.","560","560","1864",kew-443283
+kew-443401,A,Poaceae,,Sorghum,,"durra",,"","(Forssk.) Trab.",Synonym,,L,WCSP,443401,422123-1,"Fl. Algérie","Monocot.: 128","","1895",kew-443283
+tro-50174003,A,Poaceae,,Sorghum,,"durra",var.,"aegyptiacum","(Körn.) Snowden",Synonym,,L,TRO,50174003,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",kew-443283
+tro-50174074,A,Poaceae,,Sorghum,,"durra",var.,"coimbatoricum","(Burkill ex Benson & Subba Rao) Snowden",Unresolved,,L,TRO,50174074,,"Bull. Misc. Inform. Kew","1935(5): 250","250","1935",
+kew-443402,A,Poaceae,,Sorghum,,"durra",var.,"elongatum","Snowden",Synonym,,L,WCSP,443402,,"Bull. Misc. Inform. Kew","1935: 250","","1935",kew-443283
+kew-443403,A,Poaceae,,Sorghum,,"durra",var.,"eois","(Burk. ex Benson & Subba Rao) Snowden",Synonym,,L,WCSP,443403,,"Bull. Misc. Inform. Kew","1935: 250","","1935",kew-443283
+tro-50174085,A,Poaceae,,Sorghum,,"durra",var.,"erythrocarpum","(Chiov.) Snowden",Synonym,,L,TRO,50174085,,"Bull. Misc. Inform. Kew","1935(5): 250","250","1935",kew-443283
+tro-50174004,A,Poaceae,,Sorghum,,"durra",var.,"fiorii","(Chiov.) Snowden",Synonym,,L,TRO,50174004,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",kew-443283
+kew-443404,A,Poaceae,,Sorghum,,"durra",var.,"fuscum","Snowden",Synonym,,L,WCSP,443404,,"Bull. Misc. Inform. Kew","1935: 250","","1935",kew-443283
+tro-50174077,A,Poaceae,,Sorghum,,"durra",var.,"javanicum","(Hack.) Snowden",Synonym,,L,TRO,50174077,,"Bull. Misc. Inform. Kew","1935(5): 250","250","1935",kew-443283
+tro-50174072,A,Poaceae,,Sorghum,,"durra",var.,"mediocre","(Burkill ex Benson & Subba Rao) Snowden",Unresolved,,L,TRO,50174072,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",
+tro-50174023,A,Poaceae,,Sorghum,,"durra",var.,"melanoleucum","(Chiov.) Snowden",Synonym,,L,TRO,50174023,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",kew-443283
+tro-50174018,A,Poaceae,,Sorghum,,"durra",var.,"niloticum","(Körn.) Snowden",Unresolved,,L,TRO,50174018,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",
+tro-50174013,A,Poaceae,,Sorghum,,"durra",var.,"rutilum","(Stapf) Snowden",Unresolved,,L,TRO,50174013,,"Bull. Misc. Inform. Kew","1935(5): 249","249","1935",
+kew-443405,A,Poaceae,,Sorghum,,"ecarinatum",,"","Lazarides",Accepted,,H,WCSP,443405,960372-1,"Austral. Syst. Bot.","4: 611","","1991",
+kew-443406,A,Poaceae,,Sorghum,,"elegans",,"","(Körn.) Snowden",Synonym,,L,WCSP,443406,422124-1,"Bull. Misc. Inform. Kew","1935: 238","","1935",kew-443283
+tro-50140060,A,Poaceae,,Sorghum,,"elegans",var.,"baumannii","(Körn. ex K. Schum.) Snowden",Unresolved,,L,TRO,50140060,,"Bull. Misc. Inform. Kew","1935(5): 239","239","1935",
+tro-50140042,A,Poaceae,,Sorghum,,"elegans",var.,"elegans","",Synonym,,L,TRO,50140042,,"","","","",tro-50140041
+tro-50140058,A,Poaceae,,Sorghum,,"elegans",var.,"holstii","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50140058,,"Bull. Misc. Inform. Kew","1935(5): 239","239","1935",
+tro-50140041,A,Poaceae,,Sorghum,,"elegans",var.,"schumannii","Snowden",Unresolved,,L,TRO,50140041,,"Bull. Misc. Inform. Kew","1935(5): 238","238","1935",
+tro-50140049,A,Poaceae,,Sorghum,,"elegans",var.,"ziegleri","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50140049,,"Bull. Misc. Inform. Kew","1935(5): 239","239","1935",
+kew-443407,A,Poaceae,,Sorghum,,"elliotii",,"","Stapf",Unresolved,,L,WCSP,443407,422125-1,"Fl. Trop. Afr.","9: 118","","1917",
+kew-443408,A,Poaceae,,Sorghum,,"elliottii",,"","(Chapm.) Kuntze",Synonym,,H,WCSP,443408,240865-2,"Revis. Gen. Pl.","2: 791","","1891",kew-393506
+kew-443409,A,Poaceae,,Sorghum,,"elongatum",,"","(R.Br.) P.Beauv.",Synonym,,H,WCSP,443409,422126-1,"Ess. Agrostogr.","131","","1812",kew-405072
+kew-443410,A,Poaceae,,Sorghum,,"eplicatum",,"","Chiov.",Synonym,,L,WCSP,443410,422127-1,"Monogr. Rapp. Colon.","19: 23","","1912",kew-443283
+kew-443414,A,Poaceae,,Sorghum,,"eplicatum",var.,"cereum","Chiov.",Synonym,,L,WCSP,443414,,"Monogr. Rapp. Colon.","19: 29","","1912",kew-443283
+kew-443411,A,Poaceae,,Sorghum,,"eplicatum",f.,"dichrolepis","Chiov.",Synonym,,L,WCSP,443411,,"Monogr. Rapp. Colon.","19: 31","","1912",kew-443283
+kew-443415,A,Poaceae,,Sorghum,,"eplicatum",var.,"erythrocarpum","Chiov.",Synonym,,L,WCSP,443415,,"Monogr. Rapp. Colon.","19: 29","","1912",kew-443283
+kew-443416,A,Poaceae,,Sorghum,,"eplicatum",var.,"fiorii","Chiov.",Synonym,,L,WCSP,443416,,"Monogr. Rapp. Colon.","19: 31","","1912",kew-443283
+kew-443412,A,Poaceae,,Sorghum,,"eplicatum",f.,"geminatum","Chiov.",Synonym,,L,WCSP,443412,,"Monogr. Rapp. Colon.","19: 30","","1912",kew-443283
+kew-443417,A,Poaceae,,Sorghum,,"eplicatum",var.,"hackelii","Chiov.",Synonym,,L,WCSP,443417,,"Monogr. Rapp. Colon.","19: 30","","1912",kew-443283
+kew-443418,A,Poaceae,,Sorghum,,"eplicatum",var.,"heterochromum","Chiov.",Synonym,,L,WCSP,443418,,"Monogr. Rapp. Colon.","19: 30","","1912",kew-443283
+kew-443413,A,Poaceae,,Sorghum,,"eplicatum",f.,"laxum","Chiov.",Synonym,,L,WCSP,443413,,"Monogr. Rapp. Colon.","19: 31","","1912",kew-443283
+kew-443419,A,Poaceae,,Sorghum,,"eplicatum",var.,"melanoleucum","Chiov.",Synonym,,L,WCSP,443419,,"Monogr. Rapp. Colon.","19: 30","","1912",kew-443283
+kew-443420,A,Poaceae,,Sorghum,,"eplicatum",var.,"virescens","Chiov.",Synonym,,L,WCSP,443420,,"Monogr. Rapp. Colon.","19: 29","","1912",kew-443283
+kew-443421,A,Poaceae,,Sorghum,,"erianthoides",,"","(F.Muell.) Kuntze",Synonym,,H,WCSP,443421,422280-1,"Revis. Gen. Pl.","2: 790","","1891",kew-399311
+kew-443422,A,Poaceae,,Sorghum,,"eucneme",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443422,422288-1,"Revis. Gen. Pl.","2: 791","","1891",kew-392130
+kew-443423,A,Poaceae,,Sorghum,,"eucomum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443423,422289-1,"Revis. Gen. Pl.","2: 791","","1891",kew-392361
+kew-443424,A,Poaceae,,Sorghum,,"exaltatum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443424,422290-1,"Revis. Gen. Pl.","2: 791","","1891",kew-406254
+kew-443425,A,Poaceae,,Sorghum,,"exaratum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443425,240866-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392367
+kew-443426,A,Poaceae,,Sorghum,,"exile",,"","(Hochst.) Kuntze",Synonym,,H,WCSP,443426,422292-1,"Revis. Gen. Pl.","2: 791","","1891",kew-441309
+kew-443427,A,Poaceae,,Sorghum,,"exothecum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443427,422293-1,"Revis. Gen. Pl.","2: 791","","1891",kew-414135
+kew-443428,A,Poaceae,,Sorghum,,"exsertum",,"","Snowden",Synonym,,L,WCSP,443428,422128-1,"Bull. Misc. Inform. Kew","1935: 230","","1935",kew-443283
+kew-443429,A,Poaceae,,Sorghum,,"exstans",,"","Lazarides",Accepted,,H,WCSP,443429,960373-1,"Austral. Syst. Bot.","4: 613","","1991",
+kew-443430,A,Poaceae,,Sorghum,,"familiare",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443430,422294-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419753
+kew-443431,A,Poaceae,,Sorghum,,"fasciculare",,"","(Roxb.) Haines",Synonym,,H,WCSP,443431,,"Bot. Bihar Orissa","1034","","1924",kew-438468
+kew-443432,A,Poaceae,,Sorghum,,"fastigiatum",,"","(Sw.) Kuntze",Synonym,,H,WCSP,443432,240867-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392385
+kew-443433,A,Poaceae,,Sorghum,,"fauriei",,"","(Honda) Honda",Synonym,,H,WCSP,443433,,"Nom. Pl. Jap.","519","","1939",kew-443549
+kew-443434,A,Poaceae,,Sorghum,,"filifolium",,"","(Nees) Kuntze",Synonym,,H,WCSP,443434,422297-1,"Revis. Gen. Pl.","2: 791","","1891",kew-409551
+kew-443435,A,Poaceae,,Sorghum,,"filipendulum",,"","(Hochst.) Kuntze",Synonym,,H,WCSP,443435,422298-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419757
+kew-443436,A,Poaceae,,Sorghum,,"finitimum",,"","(Hochst.) Kuntze",Synonym,,H,WCSP,443436,422299-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419759
+kew-443437,A,Poaceae,,Sorghum,,"flavescens",,"","(J.Presl) Kuntze",Synonym,,H,WCSP,443437,240868-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441385
+kew-443438,A,Poaceae,,Sorghum,,"flavum",,"","P.Beauv.",Synonym,Illegitimate,H,WCSP,443438,422130-1,"Ess. Agrostogr.","131","","1812",kew-443549
+kew-443439,A,Poaceae,,Sorghum,,"foveolatum",,"","(Delile) Kuntze",Synonym,,H,WCSP,443439,422301-1,"Revis. Gen. Pl.","2: 791","","1891",kew-408619
+kew-443440,A,Poaceae,,Sorghum,,"friesii",,"","(Pilg.) C.E.Hubb.",Synonym,,H,WCSP,443440,422131-1,"Bull. Misc. Inform. Kew","1934: 109","","1934",kew-443202
+kew-443441,A,Poaceae,,Sorghum,,"fulvibarbe",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443441,422302-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405081
+kew-443442,A,Poaceae,,Sorghum,,"fulvum",,"","(R.Br.) P.Beauv.",Synonym,,H,WCSP,443442,422132-1,"Ess. Agrostogr.","164","","1812",kew-443549
+kew-443443,A,Poaceae,,Sorghum,,"fuscum",,"","(J.Presl) Miq.",Synonym,,H,WCSP,443443,422133-1,"Fl. Ned. Ind.","3: 503","","1857",kew-443549
+kew-443444,A,Poaceae,,Sorghum,,"gambicum",,"","Snowden",Synonym,,L,WCSP,443444,422134-1,"Bull. Misc. Inform. Kew","1935: 229","","1935",kew-443283
+kew-443445,A,Poaceae,,Sorghum,,"gangeticum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443445,422303-1,"Revis. Gen. Pl.","2: 791","","1891",kew-438468
+kew-443446,A,Poaceae,,Sorghum,,"gayanum",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443446,422304-1,"Revis. Gen. Pl.","2: 791","","1891",kew-392453
+kew-443447,A,Poaceae,,Sorghum,,"gidarba",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443447,422305-1,"Revis. Gen. Pl.","2: 791","","1891",kew-406177
+kew-443448,A,Poaceae,,Sorghum,,"giganteum",,"","Edgew.",Synonym,,L,WCSP,443448,,"J. Asiat. Soc. Bengal","21: 181","","1853",kew-443283
+tro-25544783,A,Poaceae,,Sorghum,,"glabrescens",,"","(Steud.) Schweinf. & Asch.",Synonym,,L,TRO,25544783,,"Beitr. Fl. Aethiop.","301, 306","301","1867",kew-443283
+kew-443449,A,Poaceae,,Sorghum,,"glabriusculum",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443449,422306-1,"Revis. Gen. Pl.","2: 791","","1891",kew-419765
+kew-443450,A,Poaceae,,Sorghum,,"glaucescens",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443450,240869-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392482
+kew-443451,A,Poaceae,,Sorghum,,"glaziovii",,"","(Döll) Kuntze",Synonym,,H,WCSP,443451,240870-2,"Revis. Gen. Pl.","2: 790","","1891",kew-392497
+kew-443452,A,Poaceae,,Sorghum,,"glomeratum",,"","(Walter) Kuntze",Synonym,,H,WCSP,443452,240871-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392498
+kew-443453,A,Poaceae,,Sorghum,,"glycychylum",,"","Pass.",Synonym,,L,WCSP,443453,,"Neue Allg. Deutsche Garten- Blumenzeitung","13: 33","","1857",kew-443283
+kew-443454,A,Poaceae,,Sorghum,,"gracile",,"","(Spreng.) Kuntze",Synonym,,H,WCSP,443454,240872-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392513
+kew-443455,A,Poaceae,,Sorghum,,"gracilipes",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443455,240873-2,"Revis. Gen. Pl.","2: 791","","1891",kew-441323
+kew-443456,A,Poaceae,,Sorghum,,"grande",,"","Lazarides",Accepted,,H,WCSP,443456,960374-1,"Austral. Syst. Bot.","4: 615","","1991",
+kew-443457,A,Poaceae,,Sorghum,,"grandiflorum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443457,422312-1,"Revis. Gen. Pl.","2: 791","","1891",kew-409551
+kew-443458,A,Poaceae,,Sorghum,,"gryllus",,"","(L.) Kuntze",Synonym,,H,WCSP,443458,422313-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405088
+kew-443459,A,Poaceae,,Sorghum,,"guineense",,"","Stapf",Synonym,,L,WCSP,443459,422138-1,"Fl. Trop. Afr.","9: 123","","1917",kew-443283
+tro-50138972,A,Poaceae,,Sorghum,,"guineense",var.,"amphilobum","(Busse & Pilg.) S.F. Blake",Unresolved,,L,TRO,50138972,,"Bull. Misc. Inform. Kew","1935(5): 224","224","1935",
+tro-50138978,A,Poaceae,,Sorghum,,"guineense",var.,"intermedium","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50138978,,"Bull. Misc. Inform. Kew","1935(5): 225","225","1935",
+tro-50138970,A,Poaceae,,Sorghum,,"guineense",var.,"tremulans","Stapf",Synonym,,L,TRO,50138970,,"Fl. Trop. Afr.","9: 124","124","1917",tro-50138968
+kew-443460,A,Poaceae,,Sorghum,,"halepense",,"","(L.) Pers.",Accepted,,H,WCSP,443460,422140-1,"Syn. Pl.","1: 101","","1805",
+tro-25517170,A,Poaceae,,Sorghum,,"halepense",f.,"aristatum","Rendle",Synonym,,L,TRO,25517170,,"","","","",kew-443257
+kew-443464,A,Poaceae,,Sorghum,,"halepense",var.,"effusum","(Hack.) Rendle",Synonym,,L,WCSP,443464,,"Cat. Afr. Pl.","2: 150","","1899",kew-443257
+tro-25517169,A,Poaceae,,Sorghum,,"halepense",var.,"effusum","(Stapf) Burtt Davy",Synonym,,L,TRO,25517169,,"Ann. Transvaal Mus.","3: 122","122","1912",kew-443257
+tro-25516654,A,Poaceae,,Sorghum,,"halepense",f.,"halepense","",Synonym,,L,TRO,25516654,,"","","","",kew-443460
+tro-25528439,A,Poaceae,,Sorghum,,"halepense",var.,"halepense","",Synonym,,L,TRO,25528439,,"","","","",kew-443460
+kew-443466,A,Poaceae,,Sorghum,,"halepense",var.,"latifolium","Willk. & Lange",Synonym,,L,WCSP,443466,60442480-2,"Prodr. Fl. Hispan.","1: 48","","1861",kew-443460
+kew-443467,A,Poaceae,,Sorghum,,"halepense",var.,"mekongense","A.Camus",Synonym,,L,WCSP,443467,,"Bull. Mus. Natl. Hist. Nat.","19: 497","","1919",kew-418644
+kew-443461,A,Poaceae,,Sorghum,,"halepense",f.,"muticum","(Hack.) C.E.Hubb.",Synonym,,L,WCSP,443461,240875-2,"Hooker's Icon. Pl.","34: t. 3364","","1938",kew-443460
+kew-443468,A,Poaceae,,Sorghum,,"halepense",var.,"muticum","(Hack.) Grossh.",Synonym,,L,WCSP,443468,,"Fl. Kavkaza","1: 56","","1928",kew-443460
+tro-25528358,A,Poaceae,,Sorghum,,"halepense",var.,"muticum","(Hack.) Hayek",Synonym,,L,TRO,25528358,,"Repert. Spec. Nov. Regni Veg.","30(3): 367","367","1932",kew-443460
+tro-25544787,A,Poaceae,,Sorghum,,"halepense",var.,"propinquum","(Kunth) Ohwi",Synonym,,L,TRO,25544787,,"Bot. Mag. (Tokyo)","55(660): 550","550","1941",kew-443609
+kew-443469,A,Poaceae,,Sorghum,,"halepense",var.,"saccharatum","(L.) Goiran",Synonym,,L,WCSP,443469,,"Nuovo Giorn. Bot. Ital.","n.s., 17: 39","","1910",kew-443283
+tro-25517171,A,Poaceae,,Sorghum,,"halepense",f.,"submuticum","Hack.",Synonym,,L,TRO,25517171,,"Fl. Bras.","2(4): 272","272","1883",kew-443257
+kew-443470,A,Poaceae,,Sorghum,,"halepense",var.,"sudanense","(Piper) Soó",Synonym,,L,WCSP,443470,,"Kezik","2: 971","","1951",kew-443227
+kew-443471,A,Poaceae,,Sorghum,,"hallii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443471,240878-2,"Revis. Gen. Pl.","2: 791","","1891",kew-392556
+kew-443472,A,Poaceae,,Sorghum,,"heteroclitum",,"","(Roxb.) Kuntze",Synonym,,H,WCSP,443472,422315-1,"Revis. Gen. Pl.","2: 791","","1891",kew-438248
+kew-443473,A,Poaceae,,Sorghum,,"hewisonii",,"","(Piper) Longley",Unresolved,,L,WCSP,443473,422141-1,"J. Agric. Res.","44: 318","","1932",
+kew-443474,A,Poaceae,,Sorghum,,"hildebrandtii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443474,422316-1,"Revis. Gen. Pl.","2: 792","","1891",kew-439933
+kew-443475,A,Poaceae,,Sorghum,,"hirtiflorum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443475,240879-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441385
+kew-443476,A,Poaceae,,Sorghum,,"hirtifolium",,"","(J.Presl) Kuntze",Synonym,,H,WCSP,443476,240880-2,"Revis. Gen. Pl.","2: 792","","1891",kew-399324
+kew-443477,A,Poaceae,,Sorghum,,"hirtum",,"","(L.) Kuntze",Synonym,,H,WCSP,443477,240881-2,"Revis. Gen. Pl.","2: 792","","1891",kew-419771
+kew-443478,A,Poaceae,,Sorghum,,"hookeri",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443478,422320-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392901
+kew-443479,A,Poaceae,,Sorghum,,"huegelii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443479,422321-1,"Revis. Gen. Pl.","2: 792","","1891",kew-403655
+kew-443480,A,Poaceae,,Sorghum,,"humile",,"","(A.Rich.) Kuntze",Synonym,,H,WCSP,443480,422322-1,"Revis. Gen. Pl.","2: 792","","1891",kew-391935
+kew-443481,A,Poaceae,,Sorghum,,"incompletum",,"","(J.Presl) Stapf",Synonym,,H,WCSP,443481,422142-1,"Fl. Trop. Afr.","9: 145","","1917",kew-443196
+kew-443482,A,Poaceae,,Sorghum,,"interjectum",,"","Lazarides",Accepted,,H,WCSP,443482,960375-1,"Austral. Syst. Bot.","4: 616","","1991",
+kew-443483,A,Poaceae,,Sorghum,,"intermedium",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443483,422323-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399297
+tro-50317660,A,Poaceae,,Sorghum,,"intermedium",var.,"haenkei","(J. Presl) Kuntze",Synonym,,L,TRO,50317660,,"Revis. Gen. Pl.","2: 792","792","1891",kew-399297
+kew-443484,A,Poaceae,,Sorghum,,"intrans",,"","F.Muell. ex Benth.",Accepted,,H,WCSP,443484,422143-1,"Fl. Austral.","7: 541","","1878",
+kew-443485,A,Poaceae,,Sorghum,,"ischaemum",,"","(L.) Kuntze",Synonym,,H,WCSP,443485,422324-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399335
+kew-443486,A,Poaceae,,Sorghum,,"japonicum",,"","(Hack.) Roshev.",Synonym,,L,WCSP,443486,422144-1,"Fl. URSS","2: 739","","1934",kew-443283
+kew-443487,A,Poaceae,,Sorghum,,"junghuhnii",,"","Miq.",Synonym,,H,WCSP,443487,422145-1,"Fl. Ned. Ind.","3: 753","","1859",kew-443549
+kew-443488,A,Poaceae,,Sorghum,,"jwarancusa",,"","(Jones) Kuntze",Synonym,,H,WCSP,443488,422325-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406199
+kew-443489,A,Poaceae,,Sorghum,,"kuntzeanum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443489,422326-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399339
+kew-443490,A,Poaceae,,Sorghum,,"lanceolatum",,"","Stapf",Synonym,,H,WCSP,443490,422146-1,"Fl. Trop. Afr.","9: 112","","1917",kew-443257
+kew-443491,A,Poaceae,,Sorghum,,"lanigerum",,"","(Desf.) Kuntze",Synonym,,H,WCSP,443491,422327-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406200
+kew-443492,A,Poaceae,,Sorghum,,"laterale",,"","(Nees) Kuntze",Synonym,,H,WCSP,443492,240882-2,"Revis. Gen. Pl.","2: 790","","1891",kew-392734
+kew-443493,A,Poaceae,,Sorghum,,"laxiflorum",,"","F.M.Bailey",Accepted,,H,WCSP,443493,422147-1,"Bellenden-Ker Exped.","70","","1889",
+kew-443494,A,Poaceae,,Sorghum,,"laxum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443494,240883-2,"Revis. Gen. Pl.","2: 790","","1891",kew-391948
+kew-443495,A,Poaceae,,Sorghum,,"leiocladum",,"","(Hack.) C.E.Hubb.",Accepted,,H,WCSP,443495,422149-1,"Hooker's Icon. Pl.","34: t. 3364","","1938",
+tro-25558901,A,Poaceae,,Sorghum,,"leiocladum",,"","(Hack.) C.E. Hubb. ex Vickery",Synonym,,M,TRO,25558901,422148-1,"Proc. Linn. Soc. New South Wales","60: 357","357","1935",kew-443495
+kew-443496,A,Poaceae,,Sorghum,,"lepidum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443496,422330-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419738
+kew-443497,A,Poaceae,,Sorghum,,"leptocladum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443497,240884-2,"Revis. Gen. Pl.","2: 792","","1891",kew-388076
+kew-443498,A,Poaceae,,Sorghum,,"leptocomum",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443498,422332-1,"Revis. Gen. Pl.","2: 792","","1891",kew-391781
+kew-443499,A,Poaceae,,Sorghum,,"lepton",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443499,422333-1,"Revis. Gen. Pl.","2: 792","","1891",kew-396878
+tro-25551605,A,Poaceae,,Sorghum,,"leptos",,"","(Steud.) Roberty",Synonym,,M,TRO,25551605,422150-1,"Boissiera","314","314","1960",kew-396878
+kew-443500,A,Poaceae,,Sorghum,,"leucostachyum",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443500,240885-2,"Revis. Gen. Pl.","2: 792","","1891",kew-392764
+kew-443501,A,Poaceae,,Sorghum,,"liebmannii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443501,240886-2,"Revis. Gen. Pl.","2: 792","","1891",kew-392774
+kew-443502,A,Poaceae,,Sorghum,,"lithophilum",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443502,240887-2,"Revis. Gen. Pl.","2: 792","","1891",kew-410795
+kew-443503,A,Poaceae,,Sorghum,,"lividum",,"","(Thwaites) Kuntze",Synonym,,H,WCSP,443503,422337-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392791
+kew-443504,A,Poaceae,,Sorghum,,"longiberbe",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443504,240888-2,"Revis. Gen. Pl.","2: 792","","1891",kew-392796
+kew-443505,A,Poaceae,,Sorghum,,"longipes",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443505,422339-1,"Revis. Gen. Pl.","2: 792","","1891",kew-391935
+kew-443506,A,Poaceae,,Sorghum,,"macrochaetum",,"","Snowden",Synonym,,H,WCSP,443506,422151-1,"Cult. Sorghum","237","","1936",kew-443257
+kew-443507,A,Poaceae,,Sorghum,,"macrolepis",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443507,422340-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419871
+kew-443508,A,Poaceae,,Sorghum,,"macrospermum",,"","Garber",Accepted,,H,WCSP,443508,,"Univ. Calif. Publ. Bot.","23: 323","","1950",
+kew-443509,A,Poaceae,,Sorghum,,"malacostachyum",,"","(J.Presl) Kuntze",Synonym,,H,WCSP,443509,240889-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441342
+kew-443510,A,Poaceae,,Sorghum,,"mannii",,"","(Hook.f.) Kuntze",Synonym,,H,WCSP,443510,422342-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392835
+kew-443511,A,Poaceae,,Sorghum,,"margaritiferum",,"","Stapf",Synonym,,L,WCSP,443511,422153-1,"Fl. Trop. Afr.","9: 125","","1917",kew-443283
+tro-50138958,A,Poaceae,,Sorghum,,"margaritiferum",var.,"ovaliferum","(Hack.) Snowden",Synonym,,L,TRO,50138958,,"Bull. Misc. Inform. Kew","1935(5): 224","224","1935",kew-443283
+tro-50138968,A,Poaceae,,Sorghum,,"margaritiferum",var.,"tremulans","(Stapf) Snowden",Unresolved,,L,TRO,50138968,,"Bull. Misc. Inform. Kew","1935(5): 224","224","1935",
+kew-443512,A,Poaceae,,Sorghum,,"matarankense",,"","Garber & Snyder",Accepted,,H,WCSP,443512,422154-1,"Madroño","11: 8","","1951",
+kew-443513,A,Poaceae,,Sorghum,,"medioplicatum",,"","Chiov.",Synonym,,L,WCSP,443513,422155-1,"Monogr. Rapp. Colon.","19: 23","","1912",kew-443283
+kew-443514,A,Poaceae,,Sorghum,,"mekongense",,"","(A.Camus) A.Camus",Synonym,,H,WCSP,443514,422156-1,"Fl. Indo-Chine","7: 323","","1922",kew-418644
+kew-443515,A,Poaceae,,Sorghum,,"melaleucum",,"","Stapf",Synonym,,L,WCSP,443515,422157-1,"Fl. Trop. Afr.","9: 134","","1917",kew-443283
+kew-443516,A,Poaceae,,Sorghum,,"melanocarpum",,"","Huber",Synonym,,L,WCSP,443516,928114-1,"Cat. Graines","1868: 7","","1868",kew-443283
+kew-443517,A,Poaceae,,Sorghum,,"melanocarpum",,"","(Elliott) Kuntze",Synonym,Illegitimate,L,WCSP,443517,240890-2,"Revis. Gen. Pl.","2: 792","","1891",kew-418741
+kew-443518,A,Poaceae,,Sorghum,,"mellitum",,"","Snowden",Synonym,,L,WCSP,443518,422158-1,"Bull. Misc. Inform. Kew","1935: 225","","1935",kew-443283
+kew-443519,A,Poaceae,,Sorghum,,"membranaceum",,"","Chiov.",Synonym,,L,WCSP,443519,422159-1,"Monogr. Rapp. Colon.","19: 23","","1912",kew-443283
+kew-443520,A,Poaceae,,Sorghum,,"membranaceum",var.,"baldratianum","Chiov.",Synonym,,L,WCSP,443520,,"Monogr. Rapp. Colon.","19: 47","","1912",kew-443283
+tro-50139015,A,Poaceae,,Sorghum,,"membranaceum",var.,"ehrenbergianum","(Körn.) Snowden",Unresolved,,L,TRO,50139015,,"Bull. Misc. Inform. Kew","1935(5): 231","231","1935",
+tro-50139011,A,Poaceae,,Sorghum,,"membranaceum",var.,"lateritium","(Stapf) Snowden",Unresolved,,L,TRO,50139011,,"Bull. Misc. Inform. Kew","1935(5): 231","231","1935",
+kew-443521,A,Poaceae,,Sorghum,,"micratherum",,"","Stapf",Synonym,,H,WCSP,443521,422160-1,"Fl. Trop. Afr.","9: 142","","1917",kew-443202
+kew-443522,A,Poaceae,,Sorghum,,"miliaceum",,"","(Roxb.) Snowden",Accepted,,H,WCSP,443522,422161-1,"J. Linn. Soc., Bot.","55: 205","","1955",
+kew-443523,A,Poaceae,,Sorghum,,"miliaceum",var.,"parvispiculum","Snowden",Synonym,,L,WCSP,443523,,"J. Linn. Soc., Bot.","55: 209","","1955",kew-443522
+kew-443524,A,Poaceae,,Sorghum,,"miliiforme",,"","(Hack.) Snowden",Synonym,,L,WCSP,443524,422162-1,"Bull. Misc. Inform. Kew","1935: 237","","1935",kew-443283
+kew-443525,A,Poaceae,,Sorghum,,"miliiforme",var.,"rotundulum","Snowden",Synonym,,L,WCSP,443525,,"Bull. Misc. Inform. Kew","1935: 237","","1935",kew-443283
+kew-443526,A,Poaceae,,Sorghum,,"miliiforme",var.,"sikkimense","Snowden",Synonym,,L,WCSP,443526,,"Bull. Misc. Inform. Kew","1935: 237","","1935",kew-443283
+kew-443527,A,Poaceae,,Sorghum,,"minarum",,"","(Nees) Hack.",Synonym,,H,WCSP,443527,422163-1,"Fl. Bras.","2(3): 276","","1883",kew-443201
+kew-443528,A,Poaceae,,Sorghum,,"mjoebergii",,"","Cheel",Synonym,,H,WCSP,443528,422164-1,"Kongl. Svenska Vetensk. Acad. Handl.","n.s., 52(10): 3","","1916",kew-443685
+kew-443529,A,Poaceae,,Sorghum,,"monatherum",,"","(A.Rich.) Kuntze",Synonym,,H,WCSP,443529,422344-1,"Revis. Gen. Pl.","2: 792","","1891",kew-414135
+kew-443530,A,Poaceae,,Sorghum,,"montanum",,"","(Roxb.) Kuntze",Synonym,,H,WCSP,443530,422345-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399297
+kew-443531,A,Poaceae,,Sorghum,,"monticola",,"","(Schult.) Kuntze",Synonym,,H,WCSP,443531,422346-1,"Revis. Gen. Pl.","2: 792","","1891",kew-405082
+kew-443532,A,Poaceae,,Sorghum,,"mucronatum",,"","(Hack.) Kuntze",Unresolved,,L,WCSP,443532,422347-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392892
+kew-443533,A,Poaceae,,Sorghum,,"multiplex",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443533,422348-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419800
+kew-443534,A,Poaceae,,Sorghum,,"muticum",,"","Wight ex Steud.",Synonym,Invalid,H,WCSP,443534,,"Nomencl. Bot.","ed. 2, 2: 612","","1841",kew-443549
+kew-443535,A,Poaceae,,Sorghum,,"myosurus",,"","(J.Presl) Kuntze",Synonym,,H,WCSP,443535,240891-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441438
+kew-443536,A,Poaceae,,Sorghum,,"nankinense",,"","Huber",Synonym,,L,WCSP,443536,928108-1,"Cat. Graines","1867: 6","","1867",kew-443283
+kew-443537,A,Poaceae,,Sorghum,,"nardus",,"","(L.) Kuntze",Synonym,,L,WCSP,443537,422350-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406227
+tro-50317734,A,Poaceae,,Sorghum,,"nardus",var.,"grandis","(Nees ex Steud.) Kuntze",Unresolved,,L,TRO,50317734,,"Revis. Gen. Pl.","2: 792","792","1891",kew-406227
+kew-443538,A,Poaceae,,Sorghum,,"negrosense",,"","Nesom",Unresolved,,L,WCSP,443538,422166-1,"Philipp. Agric. Rev.","1: 33","","1908",
+kew-443539,A,Poaceae,,Sorghum,,"nervosum",,"","Besser ex Schult. & Schult.f.",Synonym,,L,WCSP,443539,,"Mant.","3: 669","","1827",kew-443283
+kew-443540,A,Poaceae,,Sorghum,,"nervosum",,"","Chiov.",Synonym,Spelling variant,L,WCSP,443540,422168-1,"Monogr. Rapp. Colon.","19: 47","","1912",kew-443283
+kew-443541,A,Poaceae,,Sorghum,,"newtonii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443541,422351-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419804
+kew-443542,A,Poaceae,,Sorghum,,"nigericum",,"","P.Vig.",Synonym,Invalid,L,WCSP,443542,,"Rev. Bot. Appl. Agric. Trop.","25: 176","","1945",kew-443283
+kew-443543,A,Poaceae,,Sorghum,,"nigricans",,"","(Ruiz & Pav.) Snowden",Synonym,,L,WCSP,443543,240892-2,"Bull. Misc. Inform. Kew","1935: 244","","1935",kew-443283
+kew-443544,A,Poaceae,,Sorghum,,"nigricans",var.,"angolense","(Rendle) Snowden",Synonym,,L,WCSP,443544,,"Bull. Misc. Inform. Kew","1935: 245","","1935",kew-443283
+tro-50173984,A,Poaceae,,Sorghum,,"nigricans",var.,"calcareum","(Busse & Pilg.) Snowden",Unresolved,,L,TRO,50173984,,"Bull. Misc. Inform. Kew","1935(5): 245","245","1917",
+tro-50140855,A,Poaceae,,Sorghum,,"nigricans",var.,"cerevisiae","(Stapf) Snowden",Unresolved,,L,TRO,50140855,,"Bull. Misc. Inform. Kew","1935(5): 244","244","1935",
+tro-50140860,A,Poaceae,,Sorghum,,"nigricans",var.,"concolor","(K. Schum. ex Engl.) Snowden",Unresolved,,L,TRO,50140860,,"Bull. Misc. Inform. Kew","1935(5): 244","244","1935",
+tro-50140859,A,Poaceae,,Sorghum,,"nigricans",var.,"peruvianum","(Hack.) Snowden",Unresolved,,L,TRO,50140859,240893-2,"Bull. Misc. Inform. Kew","1935(5): 244","244","1935",
+tro-50140862,A,Poaceae,,Sorghum,,"nigricans",var.,"stuhlmannii","(Körn. ex K. Schum.) Snowden",Unresolved,,L,TRO,50140862,,"Bull. Misc. Inform. Kew","1935(5): 245","245","1935",
+tro-50140863,A,Poaceae,,Sorghum,,"nigricans",var.,"ussiense","(Körn.) Snowden",Unresolved,,L,TRO,50140863,,"Bull. Misc. Inform. Kew","1935(5): 245","245","1935",
+kew-443545,A,Poaceae,,Sorghum,,"nigrum",,"","(Ard.) Roem. & Schult.",Synonym,,L,WCSP,443545,422172-1,"Syst. Veg.","2: 837","","1817",kew-443283
+kew-443546,A,Poaceae,,Sorghum,,"niloticum",,"","(Stapf ex Piper) Snowden",Unresolved,,L,WCSP,443546,422173-1,"J. Linn. Soc., Bot.","55: 258","","1955",
+kew-443548,A,Poaceae,,Sorghum,,"nitens",,"","(Busse & Pilg.) Snowden",Unresolved,,L,WCSP,443548,422174-1,"Bull. Misc. Inform. Kew","1935: 224","","1935",
+kew-443549,A,Poaceae,,Sorghum,,"nitidum",,"","(Vahl) Pers.",Accepted,,H,WCSP,443549,422175-1,"Syn. Pl.","1: 101","","1805",
+kew-443550,A,Poaceae,,Sorghum,,"nitidum",f.,"aristatum","C.E.Hubb.",Synonym,,L,WCSP,443550,,"Hooker's Icon. Pl.","53: 3","","1938",kew-443549
+kew-443551,A,Poaceae,,Sorghum,,"nitidum",subsp.,"dichroanthum","(Steud.) T.Koyama",Synonym,,L,WCSP,443551,954169-1,"Grass. Japan","530","","1987",kew-443549
+kew-443552,A,Poaceae,,Sorghum,,"nitidum",var.,"dichroanthum","(Steud.) Ohwi",Synonym,,L,WCSP,443552,,"Acta Phytotax. Geobot.","11: 160","","1942",kew-443549
+kew-443553,A,Poaceae,,Sorghum,,"nitidum",var.,"fulvum","(R.Br.) Hand.-Mazz.",Synonym,,L,WCSP,443553,,"Symb. Sin.","7: 1313","","1936",kew-443549
+kew-443554,A,Poaceae,,Sorghum,,"nitidum",var.,"majus","(Hack.) Ohwi",Synonym,,L,WCSP,443554,,"Fl. Jap.","158","","1953",kew-443549
+kew-443555,A,Poaceae,,Sorghum,,"nitidum",var.,"parviflorum","(Hack.) Ohwi",Synonym,,L,WCSP,443555,,"Bull. Tokyo Sci. Mus.","18: 4","","1947",kew-443549
+kew-443556,A,Poaceae,,Sorghum,,"nodulibarbe",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443556,422352-1,"Revis. Gen. Pl.","2: 792","","1891",kew-405119
+kew-443557,A,Poaceae,,Sorghum,,"nodulosum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443557,422353-1,"Revis. Gen. Pl.","2: 792","","1891",kew-441358
+kew-443558,A,Poaceae,,Sorghum,,"notabile",,"","Snowden",Synonym,,L,WCSP,443558,422176-1,"Bull. Misc. Inform. Kew","1935: 239","","1935",kew-443283
+kew-443559,A,Poaceae,,Sorghum,,"nutans",,"","(L.) A.Gray",Synonym,,H,WCSP,443559,422177-1,"Manual","ed. 2: 584","","1856",kew-443203
+kew-443560,A,Poaceae,,Sorghum,,"nutans",subsp.,"albescens","Hack.",Synonym,,L,WCSP,443560,240895-2,"Fl. Bras.","2(3): 275","","1883",kew-443209
+kew-443575,A,Poaceae,,Sorghum,,"nutans",var.,"angolense","Rendle",Synonym,,L,WCSP,443575,,"Cat. Afr. Pl.","2: 152","","1899",kew-443202
+kew-443561,A,Poaceae,,Sorghum,,"nutans",subsp.,"avenaceum","(Michx.) Hack.",Synonym,,L,WCSP,443561,240896-2,"Fl. Bras.","2(3): 274","","1883",kew-443203
+kew-443576,A,Poaceae,,Sorghum,,"nutans",var.,"burchellii","Hack.",Synonym,,L,WCSP,443576,291862-2,"Fl. Bras.","2(4): 274","","1883",kew-443218
+kew-443562,A,Poaceae,,Sorghum,,"nutans",subsp.,"contractum","Hack.",Synonym,,L,WCSP,443562,240900-2,"Fl. Bras.","2(3): 276","","1883",kew-443189
+kew-443577,A,Poaceae,,Sorghum,,"nutans",var.,"elongatum","Hack.",Synonym,,L,WCSP,443577,291858-2,"Fl. Bras.","2(4): 275","","1883",kew-443203
+kew-443563,A,Poaceae,,Sorghum,,"nutans",subsp.,"linnaeanum","Hack.",Synonym,,L,WCSP,443563,240903-2,"Fl. Bras.","2(3): 276","","1883",kew-443203
+kew-443564,A,Poaceae,,Sorghum,,"nutans",subsp.,"micranthum","Hack.",Synonym,,L,WCSP,443564,240904-2,"Fl. Bras.","2(4): 274","","1883",kew-443217
+kew-443579,A,Poaceae,,Sorghum,,"nutans",var.,"neesianum","Hack.",Synonym,,L,WCSP,443579,291859-2,"Fl. Bras.","2(4): 275","","1883",kew-443215
+kew-443565,A,Poaceae,,Sorghum,,"nutans",subsp.,"pellitum","Hack.",Synonym,,L,WCSP,443565,240906-2,"Fl. Bras.","2(3): 275","","1883",kew-443209
+kew-443566,A,Poaceae,,Sorghum,,"nutans",subsp.,"scaberrimum","(Nees) Hack.",Synonym,,L,WCSP,443566,240908-2,"Fl. Bras.","2(4): 275","","1883",kew-443215
+kew-443580,A,Poaceae,,Sorghum,,"nutans",var.,"stipoides","(Kunth) Hack.",Synonym,,L,WCSP,443580,291860-2,"Fl. Bras.","2(4): 274","","1883",kew-443218
+kew-443581,A,Poaceae,,Sorghum,,"nutans",var.,"submuticum","Hack.",Synonym,,L,WCSP,443581,291857-2,"Fl. Bras.","2(3): 275","","1883",kew-443217
+kew-443582,A,Poaceae,,Sorghum,,"obliquiberbe",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443582,422354-1,"Revis. Gen. Pl.","2: 792","","1891",kew-441314
+kew-443583,A,Poaceae,,Sorghum,,"oliganthum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443583,422355-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408642
+kew-443584,A,Poaceae,,Sorghum,,"orientale",,"","(Desv.) Kuntze",Synonym,,H,WCSP,443584,422356-1,"Revis. Gen. Pl.","2: 790","","1891",kew-405124
+kew-443585,A,Poaceae,,Sorghum,,"oryzetorum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443585,422357-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399367
+kew-443586,A,Poaceae,,Sorghum,,"pallidum",,"","(R.Br.) P.Beauv.",Synonym,,H,WCSP,443586,422178-1,"Ess. Agrostogr.","131","","1812",kew-405125
+kew-443587,A,Poaceae,,Sorghum,,"pallidum",,"","Chiov.",Synonym,Illegitimate,L,WCSP,443587,,"Monogr. Rapp. Colon.","24: 2","","1912",kew-443283
+kew-443588,A,Poaceae,,Sorghum,,"panicoides",,"","Stapf",Synonym,,H,WCSP,443588,422180-1,"Fl. Trop. Afr.","9: 120","","1917",kew-443257
+kew-443589,A,Poaceae,,Sorghum,,"papillipes",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443589,422358-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419811
+kew-443590,A,Poaceae,,Sorghum,,"papillosum",,"","(A.Rich.) Kuntze",Synonym,,H,WCSP,443590,422359-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408601
+kew-443591,A,Poaceae,,Sorghum,,"papyrascens",,"","Stapf",Synonym,,L,WCSP,443591,422181-1,"Fl. Trop. Afr.","9: 134","","1917",kew-443283
+tro-50139009,A,Poaceae,,Sorghum,,"papyrascens",var.,"lateritium","Stapf",Synonym,,L,TRO,50139009,,"Fl. Trop. Afr.","9: 134","134","1917",tro-50139011
+kew-443592,A,Poaceae,,Sorghum,,"parviflorum",,"","(R.Br.) P.Beauv.",Synonym,,H,WCSP,443592,422182-1,"Ess. Agrostogr.","132","","1812",kew-403664
+kew-443593,A,Poaceae,,Sorghum,,"parviflorum",,"","Desv. ex Ham.",Synonym,Illegitimate,H,WCSP,443593,240911-2,"Prodr. Pl. Ind. Occid.","12","","1825",kew-443217
+kew-443594,A,Poaceae,,Sorghum,,"pauciflorum",,"","Chapm.",Synonym,,H,WCSP,443594,422184-1,"Bot. Gaz.","3: 20","","1878",kew-405130
+kew-443595,A,Poaceae,,Sorghum,,"pertusum",,"","(L.) Kuntze",Synonym,,H,WCSP,443595,422360-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399362
+kew-443596,A,Poaceae,,Sorghum,,"pilosissimum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443596,422361-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419745
+kew-443597,A,Poaceae,,Sorghum,,"piptatherum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443597,240913-2,"Revis. Gen. Pl.","2: 792","","1891",kew-413955
+kew-443598,A,Poaceae,,Sorghum,,"platyphyllum",,"","(Franch.) Kuntze",Synonym,,H,WCSP,443598,240914-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441369
+kew-443599,A,Poaceae,,Sorghum,,"plumosum",,"","(R.Br.) P.Beauv.",Accepted,,H,WCSP,443599,422185-1,"Ess. Agrostogr.","132","","1812",
+kew-443600,A,Poaceae,,Sorghum,,"plumosum",,"","(L.) Kuntze",Synonym,Illegitimate,H,WCSP,443600,422365-1,"Revis. Gen. Pl.","2: 790","","1891",kew-446747
+kew-443601,A,Poaceae,,Sorghum,,"plumosum",var.,"teretifolium","Lazarides",Synonym,,L,WCSP,443601,965564-1,"Austral. Syst. Bot.","4: 629","","1991",kew-443599
+kew-443602,A,Poaceae,,Sorghum,,"poecilotrichum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443602,422366-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419821
+kew-443603,A,Poaceae,,Sorghum,,"pogonostachyum",,"","Stapf",Synonym,,H,WCSP,443603,422186-1,"Fl. Trop. Afr.","9: 144","","1917",kew-443211
+kew-443604,A,Poaceae,,Sorghum,,"pohlianum",,"","(Döll) Kuntze",Synonym,,H,WCSP,443604,240915-2,"Revis. Gen. Pl.","2: 792","","1891",kew-393101
+kew-443605,A,Poaceae,,Sorghum,,"polyatherum",,"","(A.Rich.) Kuntze",Synonym,,H,WCSP,443605,422368-1,"Revis. Gen. Pl.","2: 792","","1891",kew-391897
+kew-443606,A,Poaceae,,Sorghum,,"polyptychon",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443606,422369-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393114
+kew-443607,A,Poaceae,,Sorghum,,"pratense",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443607,422370-1,"Revis. Gen. Pl.","2: 792","","1891",kew-391935
+kew-443608,A,Poaceae,,Sorghum,,"procerum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443608,422371-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406254
+kew-443609,A,Poaceae,,Sorghum,,"propinquum",,"","(Kunth) Hitchc.",Accepted,,H,WCSP,443609,422187-1,"Lingnan Sci. J.","7: 249","","1931",
+kew-443610,A,Poaceae,,Sorghum,,"propinquum",var.,"siamense","(Piper) Snowden",Synonym,,L,WCSP,443610,,"J. Linn. Soc., Bot.","55: 214","","1955",kew-443609
+kew-443611,A,Poaceae,,Sorghum,,"provinciale",,"","Kuntze",Synonym,Illegitimate,H,WCSP,443611,240916-2,"Revis. Gen. Pl.","2: 792","","1891",kew-392462
+kew-443612,A,Poaceae,,Sorghum,,"pseudoischaemum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443612,422373-1,"Revis. Gen. Pl.","2: 792","","1891",kew-399367
+kew-443613,A,Poaceae,,Sorghum,,"pteropechys",,"","(Clarke) Kuntze",Synonym,,H,WCSP,443613,422374-1,"Revis. Gen. Pl.","2: 792","","1891",kew-403669
+kew-443614,A,Poaceae,,Sorghum,,"pugionifolium",,"","Snowden",Synonym,,H,WCSP,443614,422188-1,"J. Linn. Soc., Bot.","55: 240","","1955",kew-443257
+kew-443615,A,Poaceae,,Sorghum,,"pulchellum",,"","(Benth.) Kuntze",Synonym,,H,WCSP,443615,422375-1,"Revis. Gen. Pl.","2: 792","","1891",kew-441375
+kew-443616,A,Poaceae,,Sorghum,,"purpureosericeum",,"","(A.Rich.) Schweinf. & Asch.",Accepted,,H,WCSP,443616,422189-1,"Beitr. Fl. Aethiop.","310","","1867",
+kew-443617,A,Poaceae,,Sorghum,,"purpureosericeum",subsp.,"deccanense","Garber",Synonym,,L,WCSP,443617,,"Univ. Calif. Publ. Bot.","23: 328","","1950",kew-443616
+kew-443618,A,Poaceae,,Sorghum,,"purpureosericeum",subsp.,"dimidiatum","(Stapf) Garber",Synonym,,L,WCSP,443618,,"Univ. Calif. Publ. Bot.","23: 328","","1950",kew-443616
+kew-443619,A,Poaceae,,Sorghum,,"purpureosericeum",var.,"trinervatum","Chiov.",Synonym,,L,WCSP,443619,,"Fl. Somala","2: 439","","1932",kew-443717
+kew-443620,A,Poaceae,,Sorghum,,"pusillum",,"","(Hook.f.) Kuntze",Synonym,,H,WCSP,443620,422376-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393168
+kew-443621,A,Poaceae,,Sorghum,,"pyramidale",,"","Roem. & Schult.",Synonym,Invalid,L,WCSP,443621,422190-1,"Syst. Veg.","2: 836","","1817",kew-443283
+kew-443622,A,Poaceae,,Sorghum,,"quartinianum",,"","(A.Rich.) Schweinf. & Asch.",Synonym,,H,WCSP,443622,422191-1,"Beitr. Fl. Aethiop.","310","","1867",kew-403664
+kew-443228,A,Poaceae,,Sorghum,×,"randolphianum",,"","Parodi",Unresolved,,L,WCSP,443228,422192-1,"Revista Argent. Agron.","13: 16","","1946",
+kew-443623,A,Poaceae,,Sorghum,,"refractum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443623,422377-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406266
+kew-443624,A,Poaceae,,Sorghum,,"riedelii",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443624,240917-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441385
+kew-443625,A,Poaceae,,Sorghum,,"rigidifolium",,"","Stapf",Synonym,,H,WCSP,443625,422193-1,"Fl. Trop. Afr.","9: 143","","1917",kew-443218
+kew-443626,A,Poaceae,,Sorghum,,"rigidifolium",var.,"microstachyum","Stapf",Synonym,,L,WCSP,443626,,"Fl. Trop. Afr.","9: 143","","1917",kew-443218
+kew-443627,A,Poaceae,,Sorghum,,"rigidum",,"","Snowden",Synonym,,L,WCSP,443627,422194-1,"Bull. Misc. Inform. Kew","1935: 248","","1935",kew-443283
+kew-443628,A,Poaceae,,Sorghum,,"rollii",,"","Chiov.",Synonym,,L,WCSP,443628,422195-1,"Monogr. Rapp. Colon.","19: 26","","1912",kew-443283
+kew-443629,A,Poaceae,,Sorghum,,"roxburghii",,"","Stapf",Synonym,,L,WCSP,443629,422196-1,"Fl. Trop. Afr.","9: 126","","1917",kew-443283
+kew-465307,A,Poaceae,,Sorghum,,"roxburghii",var.,"farinosum","Snowden",Synonym,,L,WCSP,465307,,"Bull. Misc. Inform. Kew","1935: 229","","1935",kew-443283
+kew-465308,A,Poaceae,,Sorghum,,"roxburghii",var.,"fulvum","(Hack.) Snowden",Synonym,,L,WCSP,465308,,"Bull. Misc. Inform. Kew","1935: 228","","1935",kew-443283
+kew-443630,A,Poaceae,,Sorghum,,"roxburghii",var.,"hians","(Hook.f.) Stapf",Synonym,,L,WCSP,443630,,"Fl. Trop. Afr.","9: 127","","1917",kew-443283
+kew-465309,A,Poaceae,,Sorghum,,"roxburghii",var.,"hirsutum","(Busse & Pilg.) Snowden",Synonym,,L,WCSP,465309,,"Bull. Misc. Inform. Kew","1935: 228","","1935",kew-443283
+kew-465310,A,Poaceae,,Sorghum,,"roxburghii",var.,"jucundum","(Busse & Pilg.) Snowden",Synonym,,L,WCSP,465310,,"Bull. Misc. Inform. Kew","1935: 228","","1935",kew-443283
+kew-465313,A,Poaceae,,Sorghum,,"roxburghii",var.,"mutabile","Snowden",Synonym,,L,WCSP,465313,,"Bull. Misc. Inform. Kew","1935: 229","","1935",kew-443283
+kew-465311,A,Poaceae,,Sorghum,,"roxburghii",var.,"nanum","Snowden",Synonym,,L,WCSP,465311,,"Bull. Misc. Inform. Kew","1935: 228","","1935",kew-443283
+kew-465312,A,Poaceae,,Sorghum,,"roxburghii",var.,"parvum","Snowden",Synonym,,L,WCSP,465312,,"Bull. Misc. Inform. Kew","1935: 228","","1935",kew-443283
+kew-443631,A,Poaceae,,Sorghum,,"rubens",,"","Willd.",Synonym,Invalid,L,WCSP,443631,422197-1,"Enum. Pl.","1036","","1809",kew-443283
+kew-443632,A,Poaceae,,Sorghum,,"rude",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443632,422379-1,"Revis. Gen. Pl.","2: 792","","1891",kew-395534
+kew-443633,A,Poaceae,,Sorghum,,"rufum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443633,240918-2,"Revis. Gen. Pl.","2: 792","","1891",kew-419831
+kew-443634,A,Poaceae,,Sorghum,,"ruprechtii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443634,240919-2,"Revis. Gen. Pl.","2: 792","","1891",kew-419868
+kew-443635,A,Poaceae,,Sorghum,,"saccharatum",,"","(L.) Moench",Synonym,,L,WCSP,443635,422198-1,"Methodus","207","","1794",kew-443283
+kew-443636,A,Poaceae,,Sorghum,,"saccharatum",var.,"atrum","(Snowden) Doronina & Ivanjuk.",Synonym,,L,WCSP,443636,919608-1,"Trudy Prikl. Bot.","69(1): 32","","1980",kew-443283
+kew-443637,A,Poaceae,,Sorghum,,"saccharatum",var.,"bicolor","(L.) Kerguélen",Synonym,,L,WCSP,443637,883083-1,"Lejeunia","75: 262","","1975",kew-443283
+kew-443638,A,Poaceae,,Sorghum,,"saccharatum",var.,"burmanicum","(Burk. ex Benson & Subba Rao) Doronina & Ivanjuk.",Synonym,,L,WCSP,443638,919609-1,"Trudy Prikl. Bot.","69(1): 34","","1980",kew-443283
+kew-443639,A,Poaceae,,Sorghum,,"saccharatum",var.,"corymbosum","(Hack.) Doronina & Ivanjuk.",Synonym,,L,WCSP,443639,919610-1,"Trudy Prikl. Bot.","69(1): 34","","1980",kew-443283
+kew-443640,A,Poaceae,,Sorghum,,"saccharatum",var.,"formosum","(Snowden) Doronina & Ivanjuk.",Synonym,,L,WCSP,443640,919611-1,"Trudy Prikl. Bot.","69(1): 32","","1980",kew-443283
+kew-443641,A,Poaceae,,Sorghum,,"saccharatum",var.,"giganteum","Doronina & Ivanjuk.",Synonym,,L,WCSP,443641,915980-1,"Trudy Prikl. Bot.","69(1): 31","","1980",kew-443283
+kew-443642,A,Poaceae,,Sorghum,,"saccharatum",var.,"halepense","(L.) Kuntze",Synonym,,L,WCSP,443642,240920-2,"Revis. Gen. Pl.","3(3): 368","","1898",kew-443460
+kew-443643,A,Poaceae,,Sorghum,,"saccharatum",var.,"irungu","(Burk. ex Benson & Subba Rao) Doronina & Ivanjuk.",Synonym,,L,WCSP,443643,919612-1,"Trudy Prikl. Bot.","69(1): 33","","1980",kew-443283
+kew-443644,A,Poaceae,,Sorghum,,"saccharatum",var.,"melliferum","(Snowden) Doronina & Ivanjuk.",Synonym,,L,WCSP,443644,919613-1,"Trudy Prikl. Bot.","69(1): 33","","1980",kew-443283
+kew-443645,A,Poaceae,,Sorghum,,"saccharatum",var.,"obovatum","(Hack.) Doronina & Ivanjuk.",Synonym,,L,WCSP,443645,919614-1,"Trudy Prikl. Bot.","69(1): 33","","1980",kew-443283
+kew-443646,A,Poaceae,,Sorghum,,"saccharatum",var.,"papyraceum","Doronina & Ivanjuk.",Synonym,,L,WCSP,443646,915981-1,"Trudy Prikl. Bot.","69(1): 32","","1980",kew-443283
+kew-443647,A,Poaceae,,Sorghum,,"saccharatum",var.,"pulchrum","(Burk. ex Benson & Subba Rao) Doronina & Ivanjuk.",Synonym,,L,WCSP,443647,919615-1,"Trudy Prikl. Bot.","69(1): 32","","1980",kew-443283
+kew-443648,A,Poaceae,,Sorghum,,"saccharatum",var.,"rubens","(Kunth) Nees",Synonym,,L,WCSP,443648,,"Fl. Afr. Austral. Ill.","87","","1841",kew-443283
+kew-443649,A,Poaceae,,Sorghum,,"saccharatum",var.,"sudanense","(Piper) Kerguélen",Synonym,,L,WCSP,443649,883084-1,"Lejeunia","75: 262","","1975",kew-443227
+kew-443650,A,Poaceae,,Sorghum,,"saccharatum",var.,"technicum","(Körn.) Doronina & Ivanjuk.",Synonym,,L,WCSP,443650,919616-1,"Trudy Prikl. Bot.","69(1): 34","","1980",kew-443283
+kew-443651,A,Poaceae,,Sorghum,,"saccharatum",var.,"vulgare","(Pers.) Kuntze",Synonym,,L,WCSP,443651,240921-2,"Revis. Gen. Pl.","2: 793","","1891",kew-443283
+kew-443652,A,Poaceae,,Sorghum,,"saccharatum",var.,"wightii","(Hack.) Doronina & Ivanjuk.",Synonym,,L,WCSP,443652,919617-1,"Trudy Prikl. Bot.","69(1): 33","","1980",kew-443283
+kew-443653,A,Poaceae,,Sorghum,,"saccharoides",,"","(Sw.) Kuntze",Synonym,,H,WCSP,443653,240922-2,"Revis. Gen. Pl.","2: 792","","1891",kew-399371
+kew-443654,A,Poaceae,,Sorghum,,"saccharoides",var.,"laguroides","(DC.) Kuntze",Synonym,,L,WCSP,443654,,"Revis. Gen. Pl.","3(3): 368","","1898",kew-399341
+kew-443655,A,Poaceae,,Sorghum,,"saccharoides",var.,"leucopogon","(Nees) Kuntze",Synonym,,L,WCSP,443655,,"Revis. Gen. Pl.","3(3): 368","","1898",kew-399292
+tro-50182476,A,Poaceae,,Sorghum,,"saccharoides",var.,"saccharoides","",Synonym,,L,TRO,50182476,,"","","","",kew-399371
+kew-443656,A,Poaceae,,Sorghum,,"salzmannii",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443656,240923-2,"Revis. Gen. Pl.","2: 790","","1891",kew-441383
+kew-443657,A,Poaceae,,Sorghum,,"sanguineum",,"","(Retz.) Kuntze",Synonym,,H,WCSP,443657,422385-1,"Revis. Gen. Pl.","2: 791","","1891",kew-441385
+kew-443658,A,Poaceae,,Sorghum,,"sativum",,"","(Hack.) Trab.",Synonym,,L,WCSP,443658,422200-1,"Fl. Algérie","Monocot.: 128","","1895",kew-443283
+kew-443659,A,Poaceae,,Sorghum,,"scabriflorum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443659,240924-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441397
+kew-443660,A,Poaceae,,Sorghum,,"schimperi",,"","(Hochst. ex A.Rich.) Kuntze",Synonym,,H,WCSP,443660,422387-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419838
+kew-443661,A,Poaceae,,Sorghum,,"schimperi",,"","(Hack.) Chiov.",Synonym,Illegitimate,L,WCSP,443661,,"Monogr. Rapp. Colon.","24: 2","","1912",kew-443283
+kew-443662,A,Poaceae,,Sorghum,,"schinzii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443662,422388-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392161
+kew-443663,A,Poaceae,,Sorghum,,"schirense",,"","(A.Rich.) Kuntze",Synonym,,H,WCSP,443663,422389-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393273
+kew-443664,A,Poaceae,,Sorghum,,"schlumbergeri",,"","(E.Fourn.) Kuntze",Synonym,,H,WCSP,443664,240925-2,"Revis. Gen. Pl.","2: 792","","1891",kew-399292
+kew-443665,A,Poaceae,,Sorghum,,"schoenanthus",,"","(L.) Kuntze",Synonym,,H,WCSP,443665,422391-1,"Revis. Gen. Pl.","2: 792","","1891",kew-406274
+kew-443666,A,Poaceae,,Sorghum,,"schottii",,"","(Döll) Kuntze",Synonym,,H,WCSP,443666,240926-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441438
+kew-443667,A,Poaceae,,Sorghum,,"schreberi",,"","Ten.",Synonym,,H,WCSP,443667,422202-1,"Syll. Pl. Fl. Neapol.","App. 4: iv","","1835",kew-443460
+kew-443668,A,Poaceae,,Sorghum,,"schweinfurthii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443668,422393-1,"Revis. Gen. Pl.","2: 792","","1891",kew-441399
+kew-443669,A,Poaceae,,Sorghum,,"scoparium",,"","(Michx.) Kuntze",Synonym,,H,WCSP,443669,240927-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441401
+kew-443670,A,Poaceae,,Sorghum,,"scoparium",,"","Cavadas",Unresolved,,L,WCSP,443670,,"Fl. Greece","A. Pterid. Gymnosp. Mon.: ?","","1938",
+kew-443671,A,Poaceae,,Sorghum,,"secundum",,"","(Elliott) Chapm.",Synonym,,H,WCSP,443671,240928-2,"Fl. South. U.S.","583","","1860",kew-443216
+kew-443672,A,Poaceae,,Sorghum,,"semiberbe",,"","(Nees) Kuntze",Synonym,,H,WCSP,443672,240929-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441385
+kew-443673,A,Poaceae,,Sorghum,,"sericeum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443673,422396-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408661
+kew-443674,A,Poaceae,,Sorghum,,"serratum",,"","(Thunb.) Roem. & Schult.",Synonym,,H,WCSP,443674,422206-1,"Syst. Veg.","2: 839","","1817",kew-399749
+kew-443675,A,Poaceae,,Sorghum,,"serratum",,"","(Thunb.) Kuntze",Synonym,Illegitimate,H,WCSP,443675,422397-1,"Revis. Gen. Pl.","2: 792","","1891",kew-443549
+kew-443676,A,Poaceae,,Sorghum,,"serrulatum",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443676,422398-1,"Revis. Gen. Pl.","2: 791","","1891",kew-405143
+kew-443677,A,Poaceae,,Sorghum,,"setifolium",,"","(Thunb.) Roem. & Schult.",Synonym,,L,WCSP,443677,422209-1,"Syst. Veg.","2: 840","","1817",kew-433224
+kew-443678,A,Poaceae,,Sorghum,,"simulans",,"","Snowden",Synonym,,L,WCSP,443678,422210-1,"Bull. Misc. Inform. Kew","1935: 237","","1935",kew-443283
+kew-443679,A,Poaceae,,Sorghum,,"smithianum",,"","(Hook.f.) Kuntze",Synonym,,H,WCSP,443679,422399-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419841
+kew-443680,A,Poaceae,,Sorghum,,"somaliense",,"","Snowden",Synonym,,H,WCSP,443680,422211-1,"J. Linn. Soc., Bot.","55: 238","","1955",kew-443257
+kew-443681,A,Poaceae,,Sorghum,,"sorghum",,"","(L.) H.Karst.",Synonym,Invalid,L,WCSP,443681,,"Ill. Repet. Pharm.-Med. Bot.","357","","1886",kew-443283
+kew-443682,A,Poaceae,,Sorghum,,"spathiflorum",,"","(Kunth) Kuntze",Synonym,,H,WCSP,443682,240930-2,"Revis. Gen. Pl.","2: 792","","1891",kew-393605
+kew-443683,A,Poaceae,,Sorghum,,"splendidum",,"","(Hack.) Snowden",Synonym,,L,WCSP,443683,422214-1,"Bull. Misc. Inform. Kew","1935: 233","","1935",kew-443283
+kew-443684,A,Poaceae,,Sorghum,,"stapfii",,"","(Hook.f.) C.E.C.Fisch.",Synonym,,H,WCSP,443684,422215-1,"Fl. Madras","1735","","1934",kew-443257
+kew-443685,A,Poaceae,,Sorghum,,"stipoideum",,"","(Ewart & Jean White) C.A.Gardner & C.E.Hubb.",Accepted,,H,WCSP,443685,422216-1,"Hooker's Icon. Pl.","34: t. 3364, p. 6","","1938",
+kew-443686,A,Poaceae,,Sorghum,,"striatum",,"","(L.) P.Beauv.",Synonym,,H,WCSP,443686,422217-1,"Ess. Agrostogr.","132","","1812",kew-440157
+kew-443687,A,Poaceae,,Sorghum,,"subglabrescens",,"","(Steud.) Schweinf. & Asch.",Synonym,,L,WCSP,443687,,"Beitr. Fl. Aethiop.","306","","1864",kew-443283
+kew-443688,A,Poaceae,,Sorghum,,"subglabrescens",var.,"arabicum","(Körn.) Snowden",Synonym,,L,WCSP,443688,,"Bull. Misc. Inform. Kew","1935: 254","","1935",kew-443283
+tro-50174128,A,Poaceae,,Sorghum,,"subglabrescens",var.,"compactum","(Burkill ex Benson & Subba Rao) Snowden",Unresolved,,L,TRO,50174128,,"Bull. Misc. Inform. Kew","1935(5): 253","253","1935",
+tro-50174129,A,Poaceae,,Sorghum,,"subglabrescens",var.,"irungiforme","(Burkill ex Benson & Subba Rao) Snowden",Unresolved,,L,TRO,50174129,,"Bull. Misc. Inform. Kew","1935(5): 253","253","1935",
+tro-50174138,A,Poaceae,,Sorghum,,"subglabrescens",var.,"leucocarpum","(Chiov.) Snowden",Unresolved,,L,TRO,50174138,,"Bull. Misc. Inform. Kew","1935(5): 254","254","1935",
+kew-443689,A,Poaceae,,Sorghum,,"subglabrescens",var.,"microcarpum","(Chiov.) Snowden",Synonym,,L,WCSP,443689,,"Bull. Misc. Inform. Kew","1935: 283","","1935",kew-443283
+kew-443691,A,Poaceae,,Sorghum,,"subglabrescens",var.,"rubrocernuum","(Körn.) Snowden",Synonym,,L,WCSP,443691,,"Bull. Misc. Inform. Kew","1935: 254","","1935",kew-443283
+tro-50174120,A,Poaceae,,Sorghum,,"subglabrescens",var.,"rugulosum","(Hack.) Snowden",Synonym,,L,TRO,50174120,,"Bull. Misc. Inform. Kew","1935(5): 252","252","1935",kew-443283
+tro-50174136,A,Poaceae,,Sorghum,,"subglabrescens",var.,"schimperi","(Hack.) Snowden",Synonym,,L,TRO,50174136,,"Bull. Misc. Inform. Kew","1935(5): 254","254","1935",kew-443283
+tro-50174140,A,Poaceae,,Sorghum,,"subglabrescens",var.,"umbonatum","(Stapf) Snowden",Unresolved,,L,TRO,50174140,,"Bull. Misc. Inform. Kew","1935(5): 254","254","1935",
+kew-443692,A,Poaceae,,Sorghum,,"subtile",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443692,422401-1,"Revis. Gen. Pl.","2: 792","","1891",kew-405151
+kew-443693,A,Poaceae,,Sorghum,×,"sudanense",,"","(Piper) Stapf",Synonym,,H,WCSP,443693,422219-1,"Fl. Trop. Afr.","9: 113","","1917",kew-443227
+kew-443694,A,Poaceae,,Sorghum,,"superciliatum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443694,422402-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408661
+kew-443695,A,Poaceae,,Sorghum,,"tataricum",,"","Huber",Synonym,,L,WCSP,443695,928109-1,"Cat. Graines","1867: 6","","1867",kew-443283
+kew-443696,A,Poaceae,,Sorghum,,"technicum",,"","(Körn.) Trab.",Synonym,,L,WCSP,443696,422220-1,"Fl. Algérie","Monocot.: 128","","1895",kew-443283
+tro-50092255,A,Poaceae,,Sorghum,,"technicum",,"","(Körn.) Roshev.",Synonym,,L,TRO,50092255,,"Fl. URSS","2: 16,739","16","",kew-443283
+kew-443697,A,Poaceae,,Sorghum,,"tenerum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443697,240931-2,"Revis. Gen. Pl.","2: 792","","1891",kew-441438
+kew-443698,A,Poaceae,,Sorghum,,"tenue",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443698,422404-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408668
+kew-443699,A,Poaceae,,Sorghum,,"tenuiberbe",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443699,422405-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393497
+kew-443700,A,Poaceae,,Sorghum,,"ternatum",,"","(Nees) Kuntze",Synonym,,H,WCSP,443700,240932-2,"Revis. Gen. Pl.","2: 792","","1891",kew-393510
+kew-443701,A,Poaceae,,Sorghum,,"thonizzii",,"","Pasq.",Unresolved,,L,WCSP,443701,422221-1,"Cat. Ort. Bot. Napoli","98","","1867",
+kew-443702,A,Poaceae,,Sorghum,,"timorense",,"","(Kunth) Buse",Accepted,,H,WCSP,443702,,"Pl. Ind. Bat. Orient.","103","","1857",
+kew-443703,A,Poaceae,,Sorghum,,"timorense",var.,"villosissimum","Jansen",Synonym,,L,WCSP,443703,,"Reinwardtia","2: 345","","1953",kew-443702
+kew-443704,A,Poaceae,,Sorghum,,"trichocladum",,"","(Hack.) Kuntze",Accepted,,H,WCSP,443704,240933-2,"Revis. Gen. Pl.","2: 792","","1891",
+kew-443705,A,Poaceae,,Sorghum,,"trichopus",,"","(Stapf) Stapf",Synonym,,H,WCSP,443705,422223-1,"Fl. Trop. Afr.","9: 141","","1917",kew-443218
+kew-443706,A,Poaceae,,Sorghum,,"trichozygum",,"","(Baker) Kuntze",Synonym,,H,WCSP,443706,422408-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393540
+kew-443707,A,Poaceae,,Sorghum,,"triste",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443707,422409-1,"Revis. Gen. Pl.","2: 792","","1891",kew-392901
+kew-443708,A,Poaceae,,Sorghum,,"triticeum",,"","(R.Br.) Kuntze",Synonym,,H,WCSP,443708,422410-1,"Revis. Gen. Pl.","2: 792","","1891",kew-418757
+kew-443709,A,Poaceae,,Sorghum,,"tropicum",,"","(Spreng.) Buse",Synonym,,H,WCSP,443709,422224-1,"Pl. Jungh.","359","","1854",kew-443549
+kew-443710,A,Poaceae,,Sorghum,,"truchmenorum",,"","K.Koch",Synonym,,L,WCSP,443710,422225-1,"Linnaea","21: 442","","1848",kew-443283
+kew-443711,A,Poaceae,,Sorghum,,"tuberculatum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443711,422411-1,"Revis. Gen. Pl.","2: 792","","1891",kew-408671
+kew-443712,A,Poaceae,,Sorghum,,"umbellatum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443712,422412-1,"Revis. Gen. Pl.","2: 792","","1891",kew-438251
+kew-443713,A,Poaceae,,Sorghum,,"urceolatum",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443713,422413-1,"Revis. Gen. Pl.","2: 792","","1891",kew-441449
+kew-443714,A,Poaceae,,Sorghum,,"usambarense",,"","Snowden",Synonym,,H,WCSP,443714,422226-1,"J. Linn. Soc., Bot.","55: 245","","1955",kew-443257
+kew-443715,A,Poaceae,,Sorghum,,"usorum",,"","Nees",Synonym,,L,WCSP,443715,422228-1,"Fl. Afr. Austral. Ill.","87","","1841",kew-443283
+kew-443716,A,Poaceae,,Sorghum,,"venustum",,"","(Thwaites) Kuntze",Synonym,,L,WCSP,443716,422414-1,"Revis. Gen. Pl.","2: 792","","1891",kew-418645
+kew-443717,A,Poaceae,,Sorghum,,"versicolor",,"","Andersson",Accepted,,H,WCSP,443717,422229-1,"Naturw. Reise Mossambique","2: 563","","1864",
+kew-443718,A,Poaceae,,Sorghum,,"verticillatum",,"","(Roxb.) Kuntze",Synonym,,H,WCSP,443718,422415-1,"Revis. Gen. Pl.","2: 792","","1891",kew-405160
+kew-443719,A,Poaceae,,Sorghum,,"verticilliflorum",,"","(Steud.) Stapf",Synonym,,H,WCSP,443719,422230-1,"Fl. Trop. Afr.","9: 116","","1917",kew-443257
+kew-443720,A,Poaceae,,Sorghum,,"verticilliflorum",var.,"infrequens","Snowden",Synonym,,L,WCSP,443720,,"J. Linn. Soc., Bot.","55: 236","","1955",kew-443257
+kew-443721,A,Poaceae,,Sorghum,,"verticilliflorum",var.,"ornatum","Snowden",Synonym,,L,WCSP,443721,,"J. Linn. Soc., Bot.","55: 235","","1955",kew-443257
+kew-443722,A,Poaceae,,Sorghum,,"vestitum",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443722,240934-2,"Revis. Gen. Pl.","2: 792","","1891",kew-446747
+kew-443723,A,Poaceae,,Sorghum,,"villosum",,"","(Lam.) Kuntze",Synonym,Illegitimate,H,WCSP,443723,422417-1,"Revis. Gen. Pl.","2: 791","","1891",kew-399335
+kew-443724,A,Poaceae,,Sorghum,,"virgatum",,"","(Hack.) Stapf",Accepted,,H,WCSP,443724,422231-1,"Fl. Trop. Afr.","9: 111","","1917",
+kew-443725,A,Poaceae,,Sorghum,,"virginicum",,"","(L.) Kuntze",Synonym,,H,WCSP,443725,240937-2,"Revis. Gen. Pl.","2: 792","","1891",kew-393606
+kew-443726,A,Poaceae,,Sorghum,,"vogelianum",,"","(Piper) Stapf",Synonym,,H,WCSP,443726,422232-1,"Fl. Trop. Afr.","9: 116","","1917",kew-443257
+kew-443727,A,Poaceae,,Sorghum,,"vulgare",,"","Pers.",Synonym,Illegitimate,L,WCSP,443727,240938-2,"Syn. Pl.","1: 101","","1805",kew-443283
+kew-443729,A,Poaceae,,Sorghum,,"vulgare",var.,"angolense","Rendle",Synonym,,L,WCSP,443729,,"Cat. Afr. Pl.","2: 151","","1899",kew-443283
+kew-443728,A,Poaceae,,Sorghum,,"vulgare",subsp.,"bicolor","(L.) Maire & Weiller",Synonym,,L,WCSP,443728,,"in Fl. Afr. Nord","1: 270","","1952",kew-443283
+kew-443730,A,Poaceae,,Sorghum,,"vulgare",var.,"bicolor","(L.) Pers.",Synonym,,L,WCSP,443730,60458151-2,"Syn. Pl.","1: 101","","1805",kew-443283
+kew-443731,A,Poaceae,,Sorghum,,"vulgare",var.,"caffrorum","(Retz.) F.T.Hubb. & Rehder",Synonym,,L,WCSP,443731,,"Bot. Mus. Leafl.","1: 10","","1932",kew-443283
+tro-50142813,A,Poaceae,,Sorghum,,"vulgare",var.,"caudatum","(Hack.) A.F. Hill",Synonym,,L,TRO,50142813,,"Bot. Mus. Leafl.","4(10): 176","176","1937",kew-443283
+kew-443732,A,Poaceae,,Sorghum,,"vulgare",var.,"cernuum","(Ard.) Fiori & Paoli",Synonym,,L,WCSP,443732,,"Iconogr. Fl. Ital.","14","","1895",kew-443283
+kew-443733,A,Poaceae,,Sorghum,,"vulgare",var.,"drummondii","(Nees ex Steud.) Chiov.",Synonym,,L,WCSP,443733,1005086-2,"Result. Sci. Miss. Stefan.-Paoli Somal. Ital.","1: 224","","1916",kew-443227
+kew-443734,A,Poaceae,,Sorghum,,"vulgare",var.,"durra","(Forssk.) F.T.Hubb. & Rehder",Synonym,,L,WCSP,443734,,"Bot. Mus. Leafl.","1: 10","","1932",kew-443283
+kew-443735,A,Poaceae,,Sorghum,,"vulgare",var.,"nervosum","(Besser ex Schult.) Forbes & Hemsl.",Synonym,,L,WCSP,443735,,"J. Linn. Soc., Bot.","36: 368","","1904",kew-443283
+kew-443736,A,Poaceae,,Sorghum,,"vulgare",var.,"nigricans","(Ruiz & Pav.) Hill",Synonym,,L,WCSP,443736,,"Bot. Mus. Leafl.","4: 178","","1937",kew-443283
+kew-443737,A,Poaceae,,Sorghum,,"vulgare",var.,"roxburghii","(Hack.) Haines",Synonym,,L,WCSP,443737,,"Bot. Bihar Orissa","1034","","1934",kew-443283
+tro-50173610,A,Poaceae,,Sorghum,,"vulgare",var.,"rubens","(Gaertn.) Pers.",Synonym,,L,TRO,50173610,60458152-2,"Syn. Pl.","1: 101","101","1805",kew-443283
+kew-443738,A,Poaceae,,Sorghum,,"vulgare",var.,"saccharatum","(L.) Boerl.",Synonym,,L,WCSP,443738,,"Bull. Jard. Bot. Buitenzorg","8: 69","","1889",kew-443283
+tro-50142822,A,Poaceae,,Sorghum,,"vulgare",var.,"subglabrescens","(Steud.) A.F. Hill",Synonym,,L,TRO,50142822,,"Bot. Mus. Leafl.","4(10): 179","179","1937",kew-443283
+kew-443739,A,Poaceae,,Sorghum,,"vulgare",var.,"sudanense","(Piper) Hitchc.",Synonym,,L,WCSP,443739,240940-2,"J. Wash. Acad. Sci.","17: 147","","1927",kew-443227
+kew-443740,A,Poaceae,,Sorghum,,"vulgare",var.,"technicum","(Körn.) Jáv.",Synonym,,L,WCSP,443740,,"Magyar Fl.","1: 63","","1924",kew-443283
+tro-25544784,A,Poaceae,,Sorghum,,"vulgare",var.,"technicum","(Körn.) Fiori & Paol.",Synonym,,L,TRO,25544784,,"Fl. Italia","1: 46","46","1896",kew-443283
+tro-25529003,A,Poaceae,,Sorghum,,"vulgare",var.,"vulgare","",Synonym,,L,TRO,25529003,,"","","","",kew-443283
+kew-443741,A,Poaceae,,Sorghum,,"wrightii",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443741,240941-2,"Revis. Gen. Pl.","2: 792","","1891",kew-399390
+kew-443742,A,Poaceae,,Sorghum,,"xanthoblepharis",,"","(Trin.) Kuntze",Synonym,,H,WCSP,443742,422420-1,"Revis. Gen. Pl.","2: 792","","1891",kew-419831
+kew-443743,A,Poaceae,,Sorghum,,"yunnanense",,"","(Hack.) Kuntze",Synonym,,H,WCSP,443743,422421-1,"Revis. Gen. Pl.","2: 792","","1891",kew-393645
+kew-443744,A,Poaceae,,Sorghum,,"zeae",,"","(Roem. & Schult.) Kuntze",Unresolved,,L,WCSP,443744,240942-2,"Revis. Gen. Pl.","2: 792","","1891",kew-393646
+kew-443745,A,Poaceae,,Sorghum,,"zizanioides",,"","(L.) Kuntze",Synonym,,H,WCSP,443745,,"Revis. Gen. Pl.","2: 791","","1891",kew-405169
+kew-443746,A,Poaceae,,Sorghum,,"zollingeri",,"","(Steud.) Kuntze",Synonym,,H,WCSP,443746,422424-1,"Revis. Gen. Pl.","2: 792","","1891",kew-438470
+tro-25551606,A,Poaceae,,Sorghum,,"zollingeri",,"","(Steud.) Roberty",Synonym,,M,TRO,25551606,422235-1,"Boissiera","308","308","1960",kew-438470

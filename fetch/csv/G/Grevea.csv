@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2832043,A,Montiniaceae,,Grevea,,"bosseri",,"","Letouzey",Accepted,,M,WCSP (in review),,582577-1,"Adansonia","n.s., 17: 120","","1977",
+kew-2832044,A,Montiniaceae,,Grevea,,"eggelingii",,"","Milne-Redh.",Accepted,,M,WCSP (in review),,582578-1,"Hooker's Icon. Pl.","36: t. 3541, 7","","1956",
+kew-2832045,A,Montiniaceae,,Grevea,,"eggelingii",var.,"echinocarpa","Mendes",Accepted,,L,WCSP (in review),,,"Bol. Soc. Brot.","II, 44: 299","","1970",
+kew-2832046,A,Montiniaceae,,Grevea,,"eggelingii",subsp.,"echinocarpa","(Mendes) Verdc.",Synonym,,L,WCSP (in review),,886814-1,"Kew Bull.","28: 149","","1973",kew-2832045
+kew-2832047,A,Montiniaceae,,Grevea,,"eggelingii",var.,"keniensis","(Verdc.) Verdc.",Accepted,,L,WCSP (in review),,992390-1,"Kew Bull.","51: 772","","1996",
+kew-2832048,A,Montiniaceae,,Grevea,,"madagascariensis",,"","Baill.",Accepted,,M,WCSP (in review),,791203-1,"Bull. Mens. Soc. Linn. Paris","1: 420","","1884",
+kew-2832049,A,Montiniaceae,,Grevea,,"madagascariensis",subsp.,"keniensis","Verdc.",Synonym,,L,WCSP (in review),,886815-1,"Kew Bull.","28: 147","","1973",kew-2832047
+tro-29101167,A,Montiniaceae,,Grevea,,"madagascariensis",subsp.,"madagascariensis","",Synonym,,L,TRO,29101167,,"","","","",kew-2832048
+kew-2832051,A,Montiniaceae,,Grevea,,"madagascariensis",subsp.,"sublevis","Verdc.",Synonym,,L,WCSP (in review),,886816-1,"Kew Bull.","28: 148","","1973",kew-2832048

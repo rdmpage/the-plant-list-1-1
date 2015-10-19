@@ -1,0 +1,161 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-143736,A,Compositae,,Ambrosia,,"abrotanifolia",,"","Wall.",Synonym,,M,TICA,97268661-4AD5-4559-B9E2-FC8DDE95BC08,176049-1,"","","3234","1831",gcc-142227
+gcc-121392,A,Compositae,,Ambrosia,,"absynthyfolia",,"","Michx.",Synonym,,M,TICA,857AEB28-2794-4A4E-863C-C9AFEB083AF9,176050-1,"","","183","1803",gcc-142227
+gcc-138532,A,Compositae,,Ambrosia,,"acanthicarpa",,"","Hook.",Accepted,,M,TICA,A8B02EF7-5827-44C3-BA49-F0C919A14EE8,,"","","309","1834",
+gcc-96539,A,Compositae,,Ambrosia,,"acuminata",,"","(Brandegee) W.W.Payne",Accepted,,M,TICA,3C4F4761-85B1-4956-BD1E-91CE992C0CFD,11028-2,"J. Arnold Arbor. 45","","410","1964",
+gcc-82688,A,Compositae,,Ambrosia,,"ambrosioides",,"","(Cav.) W.W.Payne",Accepted,,M,TICA,C45E99D2-297A-48A6-BE13-729AC8707A21,11029-2,"J. Arnold Arbor. 45","","410","1964",
+gcc-147651,A,Compositae,,Ambrosia,,"ambrosioides",subsp.,"ambrosioides","",Synonym,,L,TICA,A75B6F64-1B46-4C4D-87EA-31D7B605EB67,,"","","","",gcc-82688
+gcc-8710,A,Compositae,,Ambrosia,,"aptera",,"","DC.",Synonym,,M,TICA,CF61471C-AB59-4066-88A5-1048088207C9,176054-1,"","","527","1836",gcc-7636
+gcc-142156,A,Compositae,,Ambrosia,,"arborescens",,"","Mill.",Accepted,,M,TICA,2B354859-0547-43BC-AF06-F9076E7A99A4,176055-1,"","","5","1768",
+gcc-27505,A,Compositae,,Ambrosia,,"arborescens",,"","Lam.",Synonym,,M,TICA,F0B2ECB2-D64D-4677-A6E4-32DA42962A1B,176056-1,"","","127","1783",gcc-30680
+gcc-32912,A,Compositae,,Ambrosia,,"arborescens",,"","Brandegee",Unresolved,Illegitimate,L,TICA,8A9D0D1E-4CF7-4ECE-82A1-3D0A39F7DF10,,"","","","",
+gcc-20460,A,Compositae,,Ambrosia,,"artemisiifolia",,"","L.",Accepted,,M,TICA,5717C1D3-5B5F-4298-95E3-25D4AFE147CE,176058-1,"Sp. Pl.","","988","1753",
+gcc-83316,A,Compositae,,Ambrosia,,"artemisiifolia",,"","Besser",Synonym,Illegitimate,M,TICA,F7AB5ED6-AADF-4B8F-ACAF-7402C4430539,,"","","","1809",gcc-142227
+gcc-134853,A,Compositae,,Ambrosia,,"artemisiifolia",f.,"artemisiifolia","",Synonym,,L,TICA,771100C2-03E5-4F1E-8529-E8AD8F337C96,,"","","","",gcc-20460
+gcc-152256,A,Compositae,,Ambrosia,,"artemisiifolia",subsp.,"artemisiifolia","",Synonym,,L,TICA,48E68F7F-D8FB-4335-941E-95A852907184,,"","","","",gcc-20460
+gcc-68042,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"artemisiifolia","",Synonym,,L,TICA,2BB4AE19-EDE2-4260-9A6B-DBE31031AC14,,"","","","1753",gcc-20460
+gcc-36080,A,Compositae,,Ambrosia,,"artemisiifolia",subsp.,"diversifolia","Piper",Synonym,,L,TICA,4CFBE0C2-24BF-4D99-9B6D-42E844146AA2,11032-2,"Contr. U. S. Natl. Herb. 11","","551","1906",gcc-142227
+gcc-45503,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"diversifolia","Piper",Synonym,,L,TICA,16E28010-F13B-4BD2-BE08-54541066EDA6,,"Contributions from the United States National Herbarium 11:","","551","1906",gcc-38116
+gcc-29247,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"elatior","(L.) Descourt.",Synonym,,L,TICA,46308286-CCE0-4AC4-AC0E-360DDEF368A3,,"","","239","1821",gcc-20460
+gcc-73662,A,Compositae,,Ambrosia,,"artemisiifolia",f.,"gracilissima","D.Cîrțu & M.Cîrțu",Unresolved,,L,TICA,F5FFD9CA-23ED-4F10-8D0C-21C31AD8780E,876405-1,"","","116","1972",gcc-142227
+gcc-59544,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"octocornis","Kuntze",Synonym,,L,TICA,1DC98F8A-C6E7-4099-8FC7-973E98712A43,11035-2,"Revis. Gen. Pl. 1","","305","1891",gcc-142227
+gcc-54860,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"quadricornis","Kuntze",Synonym,,L,TICA,F7C2650B-D7B9-4577-92F3-716B5365248F,11037-2,"Revis. Gen. Pl. 1","","305","1891",gcc-142227
+gcc-56685,A,Compositae,,Ambrosia,,"artemisiifolia",var.,"trinitensis","Griseb.",Synonym,,L,TICA,3C74D13E-410C-4866-A431-807218DCC9CD,11038-2,"","","370","1861",gcc-97891
+gcc-79411,A,Compositae,,Ambrosia,,"artemisiifolia",f.,"villosa","Fernald & Griscom",Synonym,,L,TICA,3C7987BA-FA1A-4852-BB33-6B6770B18C5D,11033-2,"Rhodora 37","","185","1935",gcc-142227
+gcc-20474,A,Compositae,,Ambrosia,,"artemisioides",,"","Willd.",Synonym,,M,TICA,E5E2B105-69F3-4379-908B-25DCB771C106,,"Species Plantarum. Editio quarta 4:","","378","1805",gcc-142156
+gcc-30680,A,Compositae,,Ambrosia,,"artemisioides",,"","Meyen & Walp.",Accepted,,L,TICA,63A53A44-9283-4846-9904-38CE66972918,,"","","268","1843",
+gcc-127202,A,Compositae,,Ambrosia,,"aspera",,"","Larrañaga",Unresolved,,L,TICA,9AEFF837-6D7D-42D3-A525-D71AD95E6F11,11039-2,"","","24","1922",
+gcc-47965,A,Compositae,,Ambrosia,,"bidentata",,"","Michx.",Accepted,,M,TICA,DCDE3674-5FE0-468F-829B-58D7C3C3FE9C,176061-1,"","","182","1803",
+gcc-76084,A,Compositae,,Ambrosia,,"bipinnatifida",,"","Greene",Synonym,,M,TICA,6858E6B2-85D9-4B0B-B856-63D82A6806D2,11040-2,"","","187","1894",gcc-100748
+gcc-34288,A,Compositae,,Ambrosia,,"bryantii",,"","(Curran) Payne",Accepted,,M,TICA,B9F4A465-5470-4150-B2EB-3F8BBC07EF6B,,"","","","1962",
+gcc-44232,A,Compositae,,Ambrosia,,"californica",,"","Rydb.",Synonym,,M,TICA,BCF20F14-11A8-41F1-AAC9-51E595FABCBE,11041-2,"N. Amer. Fl. 33","","20","1922",gcc-97891
+gcc-48531,A,Compositae,,Ambrosia,,"californica",subsp.,"californica","",Synonym,,L,TICA,A05B348D-90A6-400E-87F4-59E2F95C7295,,"","","","",gcc-97891
+gcc-48340,A,Compositae,,Ambrosia,,"camphorata",,"","(Greene) W.W.Payne",Accepted,,L,TICA,B4C920A2-EFD6-4995-9AA4-59921894B272,11042-2,"J. Arnold Arbor. 45","","414","1964",
+gcc-149635,A,Compositae,,Ambrosia,,"camphorata",var.,"camphorata","",Synonym,,L,TICA,FAE71F57-A5DE-47E6-A187-5D164C7FE0C1,,"","","","",gcc-48340
+gcc-58367,A,Compositae,,Ambrosia,,"camphorata",var.,"leptophylla","A.Gray",Unresolved,,L,TICA,BE90148B-2DDB-47E1-9723-8E1E5794031D,,"","","","",gcc-48340
+gcc-26201,A,Compositae,,Ambrosia,,"canescens",,"","A.Gray",Accepted,,M,TICA,FCC67A0C-512B-40A6-BA73-30741262AD3C,77081518-1,"Proc. Amer. Acad. Arts 17","","217","1882",
+gcc-38245,A,Compositae,,Ambrosia,,"carduacea",,"","(Greene) W.W.Payne",Accepted,,M,TICA,86DBA58E-0B80-49F6-BE56-46F17A9DD401,11043-2,"J. Arnold Arbor. 45","","416","1964",
+gcc-24124,A,Compositae,,Ambrosia,,"caudata",,"","(Rydb.) Shinners",Synonym,,L,TICA,B26E0A58-6A37-4E9E-8727-2C9146CECFEB,11044-2,"Field & Lab. 17","","174","1949",gcc-42004
+gcc-100748,A,Compositae,,Ambrosia,,"chamissonis",,"","(Less.) Greene",Accepted,,M,TICA,9CAD8E9E-A559-4247-BDC4-9B546573B74A,11045-2,"","","188","1894",
+gcc-120548,A,Compositae,,Ambrosia,,"chamissonis",f.,"bipinnatisecta","(Less.) W.W.Payne",Synonym,,L,TICA,23384880-621F-4AC4-A2D0-C7CBC3A3D8C3,11047-2,"Biochem. Syst. 1","","32","1973",gcc-100748
+gcc-48253,A,Compositae,,Ambrosia,,"chamissonis",var.,"bipinnatisecta","(Less.) J.T.Howell",Synonym,,L,TICA,6BBBC4E4-6646-4F38-AB48-596F02924118,11048-2,"","","363","",gcc-100748
+gcc-150516,A,Compositae,,Ambrosia,,"chamissonis",f.,"chamissonis","",Synonym,,L,TICA,4B670CDE-E7DF-46F5-ABC5-7070BC33C826,,"","","","",gcc-100748
+gcc-72309,A,Compositae,,Ambrosia,,"chamissonis",var.,"chamissonis","",Synonym,,L,TICA,067853ED-0CF9-4E74-82F9-FCEB64B8D6D1,,"","","","",gcc-100748
+gcc-64480,A,Compositae,,Ambrosia,,"chamissonis",var.,"cuneifolia","(Nutt.) W.W.Payne",Synonym,,L,TICA,E8F543E4-7420-4B93-B6FB-BEE5DE6BED44,11049-2,"Biochem. Syst. 1","","32","1973",gcc-100748
+gcc-14125,A,Compositae,,Ambrosia,,"cheiranthifolia",,"","A.Gray",Accepted,,M,TICA,02BBE739-A0BF-440B-85FB-1A31C4CDE603,176069-1,"","","87","1859",
+gcc-15511,A,Compositae,,Ambrosia,,"chenopodiifolia",,"","(Benth.) W.W.Payne",Accepted,,L,TICA,CA06A4A4-9DAB-41FA-BF5C-1CB39D471C7C,11050-2,"J. Arnold Arbor. 45","","419","1964",
+gcc-2243,A,Compositae,,Ambrosia,,"chilensis",,"","Hook. & Arn.",Synonym,,M,TICA,4CB0503C-BB3C-48D3-A6B9-0410C89CC30B,,"","","311","",gcc-20460
+gcc-42004,A,Compositae,,Ambrosia,,"confertiflora",,"","DC.",Accepted,,L,TICA,2AC044C2-8C68-4CCD-A7E5-4DC5C765F8AF,176072-1,"Prodr. 5: 526 (1836)","","526","1836",
+gcc-5166,A,Compositae,,Ambrosia,,"cordifolia",,"","(A.Gray) W.W.Payne",Accepted,,M,TICA,8E8E3546-E54E-4B9C-88EA-09A51A0820CE,11052-2,"J. Arnold Arbor. 45","","421","1964",
+gcc-83950,A,Compositae,,Ambrosia,,"coronopifolia",,"","Torr. & A.Gray",Synonym,,M,TICA,96DF65ED-0A51-4F28-87B0-756D44937DFB,,"","","","1842",gcc-97891
+gcc-82069,A,Compositae,,Ambrosia,,"crithmifolia",,"","DC.",Accepted,,M,TICA,D0CD45FC-ED3F-4C12-8E3E-7134E2941729,176075-1,"","","525","1836",
+gcc-90899,A,Compositae,,Ambrosia,,"cumanensis",,"","Kunth",Synonym,,M,TICA,552D3D3C-CF5B-4948-9C0C-851FC3A66279,,"","","216-217","1820 [1818]",gcc-119208
+gcc-12215,A,Compositae,,Ambrosia,,"deltoidea",,"","(Torr.) W.W.Payne",Accepted,,M,TICA,41ACE642-E0D0-4EA7-B592-16C502CA55D7,11054-2,"J. Arnold Arbor. 45","","421","1964",
+gcc-139454,A,Compositae,,Ambrosia,,"dentata",,"","(Cabrera) M.O.Dillon",Accepted,,M,TICA,65B6BF40-A9F7-48DA-A3E4-F2C3FBBCE3DF,272050-2,"Phytologia 56","","337","1984",
+gcc-2358,A,Compositae,,Ambrosia,,"divaricata",,"","(Brandegee) Payne",Accepted,,L,TICA,E2B2F1F5-1DC9-48EC-A972-04499D92E672,,"","","42","1964",
+gcc-38116,A,Compositae,,Ambrosia,,"diversifolia",,"","(Piper) Rydb.",Accepted,,M,TICA,6057CA99-9F1E-446A-80D4-46B4006C7C45,11055-2,"N. Amer. Fl. 33","","18","1922",
+gcc-100971,A,Compositae,,Ambrosia,,"dumosa",,"","(A.Gray) W.W.Payne",Accepted,,M,TICA,9191EBF3-B28C-4F1F-9146-9BCF90264DC4,11056-2,"J. Arnold Arbor. 45","","422","1964",
+gcc-98058,A,Compositae,,Ambrosia,,"elata",,"","Salisb.",Synonym,,M,TICA,28BDFDAA-3996-4922-9C6F-9543E5A83268,176081-1,"","","175","1796",gcc-20460
+gcc-115157,A,Compositae,,Ambrosia,,"elatior",,"","L.",Synonym,,M,TICA,03C145ED-8DF0-4B1C-B138-BB7E68B3DF82,315738-2,"Sp. Pl. 987. 1753","","987","1753",gcc-20460
+gcc-139713,A,Compositae,,Ambrosia,,"elatior",,"","Besser",Synonym,,M,TICA,8C974452-800E-410D-9B9C-F359461B0D47,,"","","","1809",gcc-142227
+gcc-150795,A,Compositae,,Ambrosia,,"elatior",var.,"elatior","",Synonym,,L,TICA,359ADC7F-4251-4BA6-B4B0-764B125D538A,,"","","","",gcc-20460
+gcc-98093,A,Compositae,,Ambrosia,,"eriocentra",,"","(A.Gray) W.W.Payne",Accepted,,M,TICA,1CB58775-86DF-4465-82F3-9554035D71A2,11059-2,"J. Arnold Arbor. 45","","423","1964",
+gcc-105736,A,Compositae,,Ambrosia,,"flexuosa",,"","(A.Gray) W.W.Payne",Accepted,,M,TICA,3A1FB98E-0086-4FB6-B51E-A63300ECC6F3,11060-2,"J. Arnold Arbor. 45","","424","1964",
+gcc-85281,A,Compositae,,Ambrosia,,"frutescens",,"","Lam.",Synonym,,M,TICA,FB7D66A6-EC05-47C7-BF82-785DC663F70C,,"Encyclopedie Methodique. Botanique . . . 1:","","128","1783",gcc-142156
+gcc-6815,A,Compositae,,Ambrosia,,"fruticosa",,"","Medik.",Synonym,,M,TICA,221DCD4E-995A-4755-A36C-0CAA01622FB8,,"","","","1775",gcc-142156
+gcc-87815,A,Compositae,,Ambrosia,,"fruticosa",,"","DC.",Synonym,Illegitimate,L,TICA,7AE9A99B-0D38-492A-9830-7E145581E99C,176087-1,"","","525","1836",gcc-42004
+gcc-151684,A,Compositae,,Ambrosia,,"fruticosa",var.,"fruticosa","",Synonym,,L,TICA,C01C6C5A-867F-4F65-8737-8A127412E98E,,"","","","",gcc-142156
+gcc-56231,A,Compositae,,Ambrosia,,"fruticosa",var.,"intermedia","DC.",Synonym,,L,TICA,0E0B7E9F-1A4D-42E8-A7DF-7CC2AA37FE8E,11062-2,"","","526","1836",gcc-30680
+gcc-120719,A,Compositae,,Ambrosia,,"glandulosa",,"","Scheele",Synonym,,M,TICA,6E301CE6-C2AC-4786-88B8-C8338300EA89,176088-1,"","","157","1849",gcc-20460
+gcc-43000,A,Compositae,,Ambrosia,,"grayi",,"","(A.Nelson) Shinners",Accepted,,M,TICA,A12C530F-44E1-4D6F-928A-4FA3D97FF83E,11063-2,"Field & Lab. 17","","174","1949",
+gcc-94310,A,Compositae,,Ambrosia,×,"helenae",,"","Rouleau",Accepted,,M,TICA,6550BB99-F0A4-4766-A6A3-8CB1193971B1,176090-1,"","","272","1944",
+gcc-101123,A,Compositae,,Ambrosia,,"heterophylla",,"","Muhl. ex Willd.",Synonym,,M,TICA,0EFF4E93-54C5-4DDB-A0C0-9C2034D98312,,"","","","1805",gcc-142227
+gcc-12842,A,Compositae,,Ambrosia,,"heterophylla",,"","Muhl.",Unresolved,,L,TICA,33D1F52C-EA79-4AF9-B17D-17F0338C7356,11064-2,"","","","",
+gcc-45829,A,Compositae,,Ambrosia,,"hispida",,"","Torr.",Synonym,,M,TICA,1B5EA823-A4BA-4CC9-871C-54F49E3E40C9,176093-1,"","","216","1828",gcc-97891
+gcc-98083,A,Compositae,,Ambrosia,,"hispida",,"","Pursh",Accepted,,M,TICA,B51F75FD-55D6-4A07-A54E-954EA508C21D,176092-1,"","","743","",
+gcc-92929,A,Compositae,,Ambrosia,,"humilis",,"","Vell.",Unresolved,,L,TICA,19A8023A-68F0-49B5-9EFF-89AE6F7BE953,,"","","","1829",
+gcc-823,A,Compositae,,Ambrosia,,"ilicifolia",,"","(A.Gray) W.W.Payne",Accepted,,M,TICA,241D93DA-AEA2-4521-AECD-018DFB56AF46,11065-2,"J. Arnold Arbor. 45","","425","1964",
+gcc-124109,A,Compositae,,Ambrosia,,"incisa",,"","F.Dietr.",Synonym,,M,TICA,91AFC3DD-66BA-4322-92AA-CFF19318B298,,"","","","1802",gcc-142227
+gcc-119252,A,Compositae,,Ambrosia,,"integrifolia",,"","Muhl. ex Willd.",Synonym,,M,TICA,65CEF996-E6F4-475D-85F8-C4BE9DF03FCB,,"","","275","1800",gcc-7636
+gcc-121618,A,Compositae,,Ambrosia,,"integrifolia",,"","Muhl.",Unresolved,,L,TICA,9C0AFD08-B1C2-449C-AC47-CA31D2E97882,1150352-2,"","","","",
+gcc-111851,A,Compositae,,Ambrosia,×,"intergradiens",,"","W.H.Wagner",Accepted,,M,TICA,562082A0-F5B9-4670-9F0A-B419373C6171,176098-1,"","","191","1958",
+gcc-20184,A,Compositae,,Ambrosia,,"johnstoniorum",,"","Henrickson",Accepted,,L,TICA,6AF51BD0-5139-45AB-B7BF-254A1FD72C7A,,"Brittonia 32","","340","1980",
+gcc-93290,A,Compositae,,Ambrosia,,"lindheimeriana",,"","Scheele",Synonym,,M,TICA,23F6222C-15A1-4B19-91B4-8A66FF6F3614,176100-1,"Linnaea 22","","156","1849",gcc-97891
+gcc-13433,A,Compositae,,Ambrosia,,"linearis",,"","(Rydb.) W.W.Payne",Accepted,,M,TICA,25258081-00B3-4B2A-BE5F-1909ED38FC01,11069-2,"J. Arnold Arbor. 45","","425","1964",
+gcc-97535,A,Compositae,,Ambrosia,,"longifolia",,"","Sessé & Moc.",Synonym,,M,TICA,2C55E36B-4273-4B5B-A316-9418DB1CBB2A,11070-2,"""Fl. Mexic., ed. 2""","","216","1894",gcc-82688
+gcc-106732,A,Compositae,,Ambrosia,,"longistylis",,"","Nutt.",Unresolved,,L,TICA,7457309C-AA40-4BED-A915-A8771B7DC4F1,,"","","344","1840",
+gcc-107789,A,Compositae,,Ambrosia,,"longistylis",,"","A.Gray",Unresolved,,L,TICA,5396570E-E995-460E-A04D-AAE5C791A886,176104-1,"","","79","1849",
+gcc-41671,A,Compositae,,Ambrosia,,"magdalenae",,"","(Brandegee) W.W.Payne",Accepted,,M,TICA,8DFEAB13-AB9C-434A-B611-4D295A3693DA,11071-2,"J. Arnold Arbor. 45","","426","1964",
+gcc-19029,A,Compositae,,Ambrosia,,"maritima",,"","Ferrero ex DC.",Synonym,Illegitimate,M,TICA,51FC539D-48DB-4547-B9AC-232318CDD48A,176107-1,"","","525","1836",gcc-82069
+gcc-3692,A,Compositae,,Ambrosia,,"maritima",,"","Vell.",Synonym,Illegitimate,M,TICA,AABDB7C7-CAC9-4704-B8D8-06D9E1FE000D,,"","","","1829",gcc-142227
+gcc-95684,A,Compositae,,Ambrosia,,"maritima",,"","L.",Accepted,,M,TICA,AFDA93D6-E83E-493F-83FB-8FEE50586D15,176106-1,"","","988","1753",
+gcc-37087,A,Compositae,,Ambrosia,,"media",,"","Rydb.",Unresolved,,L,TICA,ADEB2D12-A419-4D61-987B-44B8E45D4C44,11072-2,"Bull. Torrey Bot. Club 37","","127","1910",
+gcc-130738,A,Compositae,,Ambrosia,,"mexicana",,"","Hort. ex Bedevian",Unresolved,,L,TICA,AE3C31AA-0829-4C48-9B73-DF4064E3EAB4,,"","","","1936",
+gcc-110227,A,Compositae,,Ambrosia,,"microcephala",,"","DC.",Accepted,,M,TICA,08020505-6773-4EF0-8097-B0669353FA5B,176111-1,"","","527","1836",
+gcc-39187,A,Compositae,,Ambrosia,,"monogyra",,"","(Torr. & A.Gray) Strother & B.G.Baldwin",Accepted,,M,TICA,D9BA69B0-5A26-4F89-8A4F-48B24CE79255,20010356-1,"Madroño 49(3)","","143","2002",
+gcc-113691,A,Compositae,,Ambrosia,,"monophylla",,"","(Walter) Rydb.",Synonym,,M,TICA,A21196E4-CB6A-43C1-8682-B832E9F6C0E6,11073-2,"N. Amer. Fl. 33","","17","1922",gcc-20460
+gcc-104187,A,Compositae,,Ambrosia,,"nivea",,"","(B.L.Rob. & Fernald) W.W.Payne",Accepted,,M,TICA,9B7077C7-EBF3-4DBD-8F7B-A2F8B7BED232,11074-2,"J. Arnold Arbor. 45","","426","1964",
+gcc-127149,A,Compositae,,Ambrosia,,"orobanchifera",,"","Meyen",Synonym,,M,TICA,71090E16-E81F-4320-A032-D6F4C8CA485B,176114-1,"","","444","1834",gcc-119208
+gcc-144326,A,Compositae,,Ambrosia,,"palustris",,"","Sessé & Moc.",Synonym,,M,TICA,85B0DB2D-410C-4BCF-AC3F-FDD48E33C62E,11075-2,"""Fl. Mexic., ed. 2 216""","","216","1894",gcc-110025
+gcc-109776,A,Compositae,,Ambrosia,,"paniculata",,"","Michx.",Synonym,Illegitimate,M,TICA,EDE20CC1-BEE7-4987-A93D-AF70AFF94979,176116-1,"Fl. Bor.-Amer. 2","","183","1803",gcc-20460
+gcc-62272,A,Compositae,,Ambrosia,,"paniculata",var.,"abrotanifolia","(Wall.) O.E.Schulz",Synonym,,L,TICA,47B544EA-C943-469C-A1AD-AD5063F15570,11077-2,"Symb. Antill. 7","","88","1911",gcc-142227
+gcc-18986,A,Compositae,,Ambrosia,,"paniculata",var.,"cumanensis","(Kunth) O.E.Schulz",Synonym,,L,TICA,6A5004D5-FA6C-494C-AD81-230B73A097AA,11078-2,"Symb. Antill. 7","","86","1911",gcc-119208
+gcc-125932,A,Compositae,,Ambrosia,,"paniculata",f.,"dissecta","O.E.Schulz",Synonym,,L,TICA,5A58327C-BFE4-4F27-BDD8-D42CC473E8FF,302482-2,"Symb. Antill. 7","","87","1911",gcc-142227
+gcc-101563,A,Compositae,,Ambrosia,,"paniculata",f.,"litoralis","O.E.Schulz",Synonym,,L,TICA,5ABC27C1-BA95-4902-B7CC-9D0FF2A62C9F,300381-2,"Symb. Antill. 7","","87","1911",gcc-142227
+gcc-147003,A,Compositae,,Ambrosia,,"paniculata",f.,"paniculata","",Synonym,,L,TICA,B8AD82C1-4837-4904-A9D1-24B1C2AE908F,,"","","","",gcc-20460
+gcc-149234,A,Compositae,,Ambrosia,,"paniculata",var.,"paniculata","",Synonym,,L,TICA,D189A602-BAC4-4B72-8194-54959A0DC627,,"","","","",gcc-20460
+gcc-71866,A,Compositae,,Ambrosia,,"paniculata",var.,"peruviana","(Willd.) O.E.Schulz",Synonym,,L,TICA,D238A0B5-DE0C-4755-BAD5-F96A03F93B3D,11079-2,"Symb. Antill. 7","","87","1911",gcc-119208
+gcc-47854,A,Compositae,,Ambrosia,,"pannosa",,"","W.W.Payne",Accepted,,M,TICA,F7D8CD3F-8673-4F76-9D9A-58A87C0E2953,11080-2,"Brittonia 18","","31","1966",
+gcc-91509,A,Compositae,,Ambrosia,,"parvifolia",,"","W.W.Payne",Synonym,,M,TICA,C8FF9A60-D086-42FD-8786-8687D2D1976A,11081-2,"Brittonia 18","","35","1966",gcc-139454
+gcc-119062,A,Compositae,,Ambrosia,,"peruviana",,"","DC.",Synonym,Illegitimate,M,TICA,74B0E2E1-23DD-4FBE-8EE5-C4648CD7C947,176120-1,"","","526","1836",gcc-97891
+gcc-119208,A,Compositae,,Ambrosia,,"peruviana",,"","Willd.",Accepted,,M,TICA,F4F5F02E-F613-4FD1-A447-C4A71ECD8444,176119-1,"Sp. Pl. 4: 377. 1805.","","377","1805",
+gcc-141735,A,Compositae,,Ambrosia,,"peruviana",,"","Cabrera",Synonym,Illegitimate,M,TICA,DA34C268-3413-4879-A1A5-F80ECF5227A5,,"Revista Mus. La Plata (Nueva Serie) Bot. 4: 191 (1941)","","191","1941",gcc-20460
+gcc-58879,A,Compositae,,Ambrosia,,"peruviana",var.,"cumanensis","(Kunth) O.E.Schulz",Synonym,,L,TICA,FFFED34B-18B6-4CFA-A04C-921F29F1513C,,"","","","1911",gcc-119208
+gcc-146548,A,Compositae,,Ambrosia,,"peruviana",var.,"peruviana","",Synonym,,L,TICA,D775A2B2-F359-4563-9E8E-1ABEFDAF3C1B,,"","","","",gcc-119208
+gcc-126748,A,Compositae,,Ambrosia,,"pitcheri",,"","Torr. ex Hook.",Synonym,,M,TICA,08B8C3A3-2FC8-4456-B344-D60065411A63,,"","","","1835",gcc-38788
+gcc-96769,A,Compositae,,Ambrosia,,"pitcheri",,"","Torr.",Unresolved,,L,TICA,1DAD260C-F5F1-4D4F-86A2-92563045FD97,,"Companion to the Botanical Magazine 1:","","99","1835",
+gcc-142403,A,Compositae,,Ambrosia,×,"platysperma",,"","(Seaman) Strother & B.G. Baldw.",Unresolved,,L,TICA,4889D0CE-EB9F-4B55-8A12-F98570710E79,,"","","","",
+gcc-114691,A,Compositae,,Ambrosia,×,"platyspina",,"","(Seaman) Strother & B.G.Baldwin",Accepted,,L,TICA,8B20D2D5-C8D5-4FA8-9AD7-BA747AC5B360,20010360-1,"Madroño 49(3)","","144","2002",
+gcc-142227,A,Compositae,,Ambrosia,,"polystachya",,"","DC.",Accepted,,M,TICA,88174BE0-DFFE-421F-84A8-F92F73B6C8B9,176122-1,"","","526","1836",
+gcc-97891,A,Compositae,,Ambrosia,,"psilostachya",,"","DC.",Accepted,,M,TICA,0FFDCFBB-8051-476D-8CD9-94E5013AB0C7,30153070-2,"Prodr. 5: 526 (1836)","","526","1836",
+gcc-6184,A,Compositae,,Ambrosia,,"psilostachya",var.,"californica","(Rydb.) S.F.Blake",Synonym,,L,TICA,03D9A228-A68C-4CFF-AD6A-0B80935122BF,11083-2,"Contr. U. S. Natl. Herb. 25","","581","1925",gcc-97891
+gcc-67865,A,Compositae,,Ambrosia,,"psilostachya",var.,"coronopifolia","(Torr. & A.Gray) Farw.",Synonym,,L,TICA,69D410D8-1423-4F34-8BFA-DA9D176396A0,,"","","","",gcc-97891
+gcc-71963,A,Compositae,,Ambrosia,,"psilostachya",var.,"lindheimeriana","(Scheele) Blank.",Synonym,,L,TICA,588AD3EE-0463-41F2-9182-FA3879A1E1FD,11084-2,"Rep. (Annual) Missouri Bot. Gard. 18","","173","1907",gcc-97891
+gcc-65503,A,Compositae,,Ambrosia,,"psilostachya",var.,"psilostachya","",Synonym,,L,TICA,43A5357B-FDEC-4DF6-BD2F-C73EAE715D7C,,"","","","",gcc-97891
+gcc-136800,A,Compositae,,Ambrosia,,"pumila",,"","(Nutt.) A.Gray",Accepted,,M,TICA,53C493D9-C004-4AFE-B4B1-ED0EEC159D26,,"","","217","1882",
+gcc-112043,A,Compositae,,Ambrosia,,"purpurascens",,"","Ten.",Unresolved,,L,TICA,22361476-8601-4121-87EB-B48066ADA495,176125-1,"Ind. Sem. Hort. Neap. (1825) 1.","","1","1825",
+gcc-99348,A,Compositae,,Ambrosia,,"pusilla",,"","Raf. ex DC.",Synonym,,M,TICA,B25C4DD1-3DBE-446D-9953-982E0FBC6728,176126-1,"","","527","1836",gcc-142227
+gcc-89640,A,Compositae,,Ambrosia,,"rugelii",,"","Rydb.",Synonym,,M,TICA,3A1106FB-1715-4B3D-86EA-8227FDDAC729,11085-2,"N. Amer. Fl. 33","","19","1922",gcc-97891
+gcc-132393,A,Compositae,,Ambrosia,,"salsola",,"","(Torr. & A.Gray) Strother & B.G.Baldwin",Accepted,,M,TICA,7FE91F7A-B707-411F-A54B-E32B8C9CCE7F,20010357-1,"Madroño 49(3)","","143","2002",
+gcc-63851,A,Compositae,,Ambrosia,,"salsola",var.,"fasciculata","(A.Nelson) Strother & B.G.Baldwin",Synonym,,L,TICA,D3327854-4AAC-46E0-9363-B9FD2F70D9EB,20010358-1,"Madroño 49(3)","","143","2002",gcc-132393
+gcc-68177,A,Compositae,,Ambrosia,,"salsola",var.,"pentalepis","(Rydb.) Strother & B.G.Baldwin",Synonym,,L,TICA,1F7931AA-5468-4246-9C49-DCD8D7C0E3A0,,"Madroño 49(3)","","","2002",gcc-132393
+gcc-53742,A,Compositae,,Ambrosia,,"salsola",var.,"salsola","",Synonym,,L,TICA,439A91FA-8E0C-4D1D-B6E5-688319BF76EB,,"","","","",gcc-132393
+gcc-58703,A,Compositae,,Ambrosia,,"salsola",var.,"salsola","",Synonym,,L,TICA,53D32437-57A9-49E8-A735-90BA09C75611,,"","","","2002",gcc-132393
+gcc-86543,A,Compositae,,Ambrosia,,"sandersonii",,"","S.L.Welsh",Synonym,,M,TICA,93A02ADA-B240-4100-BB10-7B243B1662B1,,"","","396","1993",gcc-85020
+gcc-33077,A,Compositae,,Ambrosia,,"scabra",,"","Hook. & Arn.",Accepted,,M,TICA,D3110B8C-2F32-46D0-A4FE-3D5519095BCC,,"","","311","",
+gcc-68514,A,Compositae,,Ambrosia,,"scabra",var.,"robusta","Hook. & Arn.",Synonym,,L,TICA,9F3E260C-C49B-4B65-893E-DF6210DCADAA,11086-2,"J. Bot. (Hooker) 3","","311","1841",gcc-33077
+gcc-150319,A,Compositae,,Ambrosia,,"scabra",var.,"scabra","",Synonym,,L,TICA,750E2683-79AB-4A8A-99AF-6BBE0E1CCB28,,"","","","",gcc-33077
+gcc-34973,A,Compositae,,Ambrosia,,"scabra",var.,"tenuior","Hook. & Arn.",Synonym,,L,TICA,73DFFA48-4C3D-44EF-A68F-40D368BEFC95,11087-2,"J. Bot. (Hooker) 3","","311","1841",gcc-33077
+gcc-125711,A,Compositae,,Ambrosia,,"senegalensis",,"","DC.",Synonym,,M,TICA,1C891816-F2B5-4A14-AC49-D3A6D3AC6C30,176129-1,"","","525","1836",gcc-95684
+gcc-120591,A,Compositae,,Ambrosia,,"simplicifolia",,"","Raeusch.",Synonym,,M,TICA,A57A4D5B-9DB1-4E1D-B56B-C7EC446782EA,176130-1,"","","274","1797",gcc-142227
+gcc-18953,A,Compositae,,Ambrosia,,"simulans",,"","Shinners",Synonym,,L,TICA,54629376-70D5-48F2-BBE8-22FC417D1BDE,,"","","","1949",gcc-42004
+gcc-107234,A,Compositae,,Ambrosia,,"striata",,"","Rydb.",Unresolved,,L,TICA,2433E3B1-4E3A-4902-AE90-A9A0D882FA29,11088-2,"Brittonia 1","","96","1931",
+gcc-108519,A,Compositae,,Ambrosia,,"tacorensis",,"","Meyen",Accepted,,M,TICA,0CBC7340-DF4A-4A02-AEA9-AC75825EF4C5,176133-1,"","","456","1834",
+gcc-22383,A,Compositae,,Ambrosia,,"tarapacana",,"","Phil.",Accepted,,M,TICA,0E539EE2-8583-41D8-9A0A-2968E60BD295,11089-2,"","","50","1891",
+gcc-33087,A,Compositae,,Ambrosia,,"tenuifolia",,"","Spreng.",Accepted,,M,TICA,5F1B5EAF-5A03-4AAB-BF73-3D5B07DC0582,176136-1,"Syst. Veg. 3: 851 (1826)","","851","1826",
+gcc-23358,A,Compositae,,Ambrosia,,"tomentosa",,"","Nutt.",Accepted,,L,TICA,CBAC61A3-9B17-4357-A322-2B3BDE227884,176137-1,"","","186","1818",
+gcc-7636,A,Compositae,,Ambrosia,,"trifida",,"","L.",Accepted,,M,TICA,A2275973-D61B-486C-9905-0E305DA158A6,315739-2,"Sp. Pl.: 987 (1753)","","987","1753",
+gcc-55666,A,Compositae,,Ambrosia,,"trifida",var.,"aptera","(DC.) Kuntze",Synonym,,L,TICA,55D14449-4047-4FA9-BD60-77D653CFBBA0,289644-2,"Revis. Gen. Pl. 1","","305","1891",gcc-7636
+gcc-24067,A,Compositae,,Ambrosia,,"trifida",var.,"heterophylla","Kuntze",Synonym,,L,TICA,20162E2E-3EE3-40CD-88F9-2C79ED8A7138,289646-2,"Revis. Gen. Pl. 1","","305","1891",gcc-7636
+gcc-55990,A,Compositae,,Ambrosia,,"trifida",var.,"integrifolia","(Muhl. ex Willd.) Torr. & A.Gray",Synonym,,L,TICA,85A91569-A50A-41A1-ADD5-7AC0E0FDC27D,11092-2,"","","290","1842",gcc-7636
+gcc-74696,A,Compositae,,Ambrosia,,"trifida",f.,"integrifolia","(Muhl. ex Willd.) Fernald",Synonym,,L,TICA,E249B566-37FA-400F-8301-49838B0AA623,11091-2,"Rhodora 40","","347","1938",gcc-7636
+gcc-69898,A,Compositae,,Ambrosia,,"trifida",var.,"polyploidea","J.Rousseau",Synonym,,L,TICA,FBDED401-CA48-4D5E-93DC-E9F36DF5DCD5,11094-2,"Naturaliste Canad. 71","","215","1944",gcc-7636
+gcc-61303,A,Compositae,,Ambrosia,,"trifida",var.,"texana","Scheele",Synonym,,L,TICA,7B3A489C-3B6C-47D9-9751-A57834058EC0,11096-2,"Linnaea 22","","156","1849",gcc-7636
+gcc-156924,A,Compositae,,Ambrosia,,"trifida",subsp.,"trifida","",Synonym,,L,TICA,9FEC8C58-C00E-43F2-9B67-F6E96BFF40AD,,"","","","",gcc-7636
+gcc-3461,A,Compositae,,Ambrosia,,"trifida",var.,"trifida","",Synonym,,L,TICA,B5B831B7-0642-4F47-ADAE-065DEF56CD51,,"","","","",gcc-7636
+gcc-55935,A,Compositae,,Ambrosia,,"trifida",var.,"trifida","",Synonym,,L,TICA,7E1E0BB3-570F-47CC-898A-7A5009EA5DF8,11095-2,"Rhodora 47: 396. 1945","","396","1945",gcc-7636
+gcc-93814,A,Compositae,,Ambrosia,,"trifida",f.,"trifida","",Synonym,,L,TICA,DB6AC58C-F6BA-42C1-9A94-8B8493351771,,"","","","",gcc-7636
+gcc-34413,A,Compositae,,Ambrosia,,"umbellata",,"","Moench",Synonym,,M,TICA,EB2B8801-6532-4DE2-A0FF-3FCB518DC41D,176139-1,"","","272","1802",gcc-142227
+gcc-89703,A,Compositae,,Ambrosia,,"variabilis",,"","Rydb.",Unresolved,,L,TICA,B0E5BDE0-77C1-433E-BE11-824D88DF3200,11097-2,"Brittonia 1","","97","1931",
+gcc-94493,A,Compositae,,Ambrosia,,"velutina",,"","O.E.Schulz",Accepted,,M,TICA,BDC25A7A-C11A-41D4-A451-8D1C3CD0F553,11098-2,"Symb. Antill. 7","","88","1911",
+gcc-27640,A,Compositae,,Ambrosia,,"villosissima",,"","Forssk.",Accepted,,M,TICA,0EE7A98B-FD8E-4F51-B8AE-3315AFFD3D23,176142-1,"","","160","1775",

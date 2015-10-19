@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-120068,A,Compositae,,Othake,,"callosum",,"","(Nutt.) Bush",Synonym,,L,TICA,3227E1CE-E124-4081-BFFC-C6A1970BF331,177325-2,"","","174","1904",gcc-138316
+gcc-132066,A,Compositae,,Othake,,"canescens",,"","Rydb.",Unresolved,,L,TICA,56413400-2D4C-4F83-92B8-E265267A2800,177326-2,"N. Amer. Fl. 34","","60","1914",
+gcc-46321,A,Compositae,,Othake,,"hookerianum",,"","(Torr. & A.Gray) Bush",Unresolved,,L,TICA,C3D36945-735D-45F5-A448-55D94C1F023B,177327-2,"","","177","1904",
+gcc-35270,A,Compositae,,Othake,,"lindenii",,"","(A.Gray) Bush",Unresolved,,L,TICA,BC480B5E-5E75-4C66-A120-416344E8ECCB,177328-2,"","","173","1904",gcc-136421
+gcc-47477,A,Compositae,,Othake,,"longifolium",,"","Raf.",Unresolved,,L,TICA,6AE85681-7FF1-4B9E-B068-57F70805D528,,"New Fl. (Rafinesque) iv. 74 (1836).","","74","",
+gcc-30686,A,Compositae,,Othake,,"macrolepis",,"","Rydb.",Unresolved,,L,TICA,F51D2FFE-D778-4D20-99C5-38D43515BA52,177329-2,"","","332","1910",gcc-23528
+gcc-88995,A,Compositae,,Othake,,"maximum",,"","(Small) Bush",Unresolved,,L,TICA,E30F98DF-B93E-4BBC-B148-80A723E5C4A0,177330-2,"","","179","1904",
+gcc-86798,A,Compositae,,Othake,,"reverchonii",,"","Bush",Synonym,,M,TICA,68692362-5D10-41B7-9616-7BBD96A18FEF,177331-2,"","","180","1904",gcc-112659
+gcc-47847,A,Compositae,,Othake,,"robustum",,"","Rydb.",Synonym,,L,TICA,6E908CDD-324F-43A2-8B33-58A5B0341457,177332-2,"N. Amer. Fl. 34","","60","1914",gcc-53262
+gcc-50542,A,Compositae,,Othake,,"roseum",,"","Bush",Synonym,,L,TICA,191E3C07-DB40-4FC8-AA4C-5DB174965C1D,177333-2,"","","175","1904",gcc-23528
+gcc-55557,A,Compositae,,Othake,,"roseum",var.,"roseum","",Synonym,,L,TICA,4DE86C14-F3CA-42B9-96DD-76F1ED781A12,,"","","","",gcc-23528
+gcc-142020,A,Compositae,,Othake,,"sphacelatum",,"","(Nutt. ex Torr.) Rydb.",Synonym,,M,TICA,D1EA36B6-FCD5-4963-8CEC-F8BA0BCC503D,177335-2,"","","331","1910",gcc-98010
+gcc-80803,A,Compositae,,Othake,,"tenuifolium",,"","Raf.",Unresolved,,L,TICA,1C69AD73-5760-4E93-B50B-6E646DF74F6E,235941-1,"New Fl. (Rafinesque) iv. 74 (1836)","","74","1836",
+gcc-86117,A,Compositae,,Othake,,"texanum",,"","(DC.) Bush",Accepted,,M,TICA,DD6CF9FA-33E7-4D3E-8792-7A33ACABA2A4,177336-2,"","","176","1904",
+gcc-155218,A,Compositae,,Othake,,"texanum",var.,"texanum","",Synonym,,L,TICA,6676BDD0-F42A-4FAC-9DED-D36C7BF20B75,,"","","","",gcc-86117

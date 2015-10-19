@@ -1,0 +1,26 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-47267,A,Compositae,,Aphanostephus,,"arizonicus",,"","A.Gray",Synonym,,M,TICA,18060AE8-5DFC-4C6E-A7F0-578C50460CB2,177830-1,"","","81","1881",gcc-67986
+gcc-22675,A,Compositae,,Aphanostephus,,"arkansanus",,"","(DC.) A.Gray",Synonym,,L,TICA,B948C315-58FD-402C-91BC-29F6CDB662EE,177831-1,"","","93","1852",gcc-79326
+gcc-60671,A,Compositae,,Aphanostephus,,"arkansanus",var.,"arkansanus","",Synonym,,L,TICA,E6F32CE1-7589-4911-9FD6-A0299EA0D060,,"","","","",gcc-79326
+gcc-54261,A,Compositae,,Aphanostephus,,"arkansanus",var.,"hallii","A.Gray",Synonym,,L,TICA,4E716523-8C62-40C4-98D6-6C9C1F8300A8,15952-2,"Proc. Amer. Acad. Arts 16","","81","1880",gcc-79326
+gcc-48449,A,Compositae,,Aphanostephus,,"humilis",,"","(Benth.) A.Gray",Synonym,,M,TICA,1BFF8339-5218-4FF0-947D-59BE0BDE1756,177832-1,"","","93","1852",gcc-67986
+gcc-23990,A,Compositae,,Aphanostephus,,"jaliscensis",,"","Shinners",Accepted,,M,TICA,0E4E7AD1-9712-4082-8061-2C56D5732248,15953-2,"Wrightia 1","","115","1946",
+gcc-11693,A,Compositae,,Aphanostephus,,"kidderi",,"","S.F.Blake",Synonym,,M,TICA,DD04CA16-68CB-4EEB-94B7-15CB83509393,15954-2,"Contr. Gray Herb. 53","","23","1918",gcc-63909
+gcc-43133,A,Compositae,,Aphanostephus,,"pachyrrhizus",,"","Shinners",Accepted,,M,TICA,A5CE944B-419F-4272-9D10-4FE4B561B600,15955-2,"Wrightia 1","","117","1946",
+gcc-9767,A,Compositae,,Aphanostephus,,"perennis",,"","Wooton & Standl.",Accepted,,M,TICA,7471CF87-FAC4-4DA0-B589-1240521F8807,15956-2,"Contr. U. S. Natl. Herb. 16","","189","1913",
+gcc-144795,A,Compositae,,Aphanostephus,,"pilosus",,"","Buckley",Accepted,,M,TICA,C2CF85FA-0A3B-4101-81BF-FEEB87683783,177837-1,"","","457","1862",
+gcc-108976,A,Compositae,,Aphanostephus,,"pinulensis",,"","J.M.Coult. ex Donn.Sm.",Accepted,,M,TICA,00C0BC3A-1E5A-4BCD-924A-AD9CBCD6AC97,,"Bot. Gaz. 16","","98","1891",
+gcc-91784,A,Compositae,,Aphanostephus,,"potosinus",,"","Shinners",Synonym,,M,TICA,FA605152-4217-42ED-84AF-8726CCB44CCD,15957-2,"Wrightia 1","","108","1946",gcc-67986
+gcc-111745,A,Compositae,,Aphanostephus,,"pulchellus",,"","Stevens",Unresolved,Invalid,L,TICA,DFD2372F-60EA-4FC0-8BC5-B3CD626983AF,177840-1,"","","","1930",gcc-144795
+gcc-79556,A,Compositae,,Aphanostephus,,"ramosissimus",,"","DC.",Accepted,,M,TICA,64C6FF40-F6D0-4AF4-A837-6BB1A1EC5FC0,177841-1,"","","310","1836",
+gcc-67986,A,Compositae,,Aphanostephus,,"ramosissimus",var.,"humilis","(Benth.) B.L.Turner & Birdsong",Accepted,,L,TICA,348931BF-B98C-45BC-A921-DB68740734DB,15910-2,"Phytologia 45","","501","1980",
+gcc-10643,A,Compositae,,Aphanostephus,,"ramosissimus",var.,"ramosissimus","",Synonym,,L,TICA,E7E59764-7BE7-4E0F-AF37-13E6DF06304A,,"","","","1836",gcc-79556
+gcc-65046,A,Compositae,,Aphanostephus,,"ramosissimus",var.,"ramosus","(DC.) B.L.Turner & Birdsong",Accepted,,L,TICA,ECFAE00D-6941-41FC-9DD1-C35AF92D2219,15958-2,"Phytologia 45","","501","1980",
+gcc-132433,A,Compositae,,Aphanostephus,,"ramosus",,"","(DC.) A.Gray",Synonym,,M,TICA,E47E3664-2C0C-42C0-B9D8-E341C564F102,,"","","81","1880",gcc-65046
+gcc-131569,A,Compositae,,Aphanostephus,,"riddellii",,"","Torr. & A.Gray",Accepted,,M,TICA,B41784FF-D1F6-4A5C-B24A-E136A037DD58,177843-1,"","","189","1842",
+gcc-79326,A,Compositae,,Aphanostephus,,"skirrhobasis",,"","(DC.) Trel. ex Coville & Branner",Accepted,,L,TICA,E9436883-A0D9-4042-8C2F-6B33CFF8D4E1,,"""in Rep. Geol. Surv. Ark. 1888, iv. (1891) 191.""","","191","1891",
+gcc-60863,A,Compositae,,Aphanostephus,,"skirrhobasis",var.,"hallii","(A.Gray) S.F.Blake",Synonym,,L,TICA,0A34249C-36C8-443C-930D-A1E32A9BB024,15960-2,"Contr. Gray Herb. 53","","24","1918",gcc-79326
+gcc-95733,A,Compositae,,Aphanostephus,,"skirrhobasis",f.,"incisifolius","Shinners",Synonym,,L,TICA,5B74C7FD-B7D3-41E6-AEED-900A43AA539A,15961-2,"Wrightia 1","","103","1946",gcc-79326
+gcc-63909,A,Compositae,,Aphanostephus,,"skirrhobasis",var.,"kidderi","(S.F.Blake) B.L.Turner",Accepted,,L,TICA,F1C4A7F1-F7D2-40A8-A6C8-BA74E68E1B82,922957-1,"Phytologia 56","","94","1984",
+gcc-74929,A,Compositae,,Aphanostephus,,"skirrhobasis",f.,"quasigigantiusculus","Shinners",Synonym,,L,TICA,FB68C145-E03A-4763-89AB-52F8BF714A8C,15963-2,"","","103","1946",gcc-79326
+gcc-145482,A,Compositae,,Aphanostephus,,"skirrhobasis",f.,"skirrhobasis","",Synonym,,L,TICA,007EAC32-CB8C-4933-8AB7-04E720E5DAEA,,"","","","",gcc-79326

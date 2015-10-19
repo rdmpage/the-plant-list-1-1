@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-2710423,A,Compositae,,Heliomeris,,"annua",,"","(M.E. Jones) Cockerell",Accepted,,M,TRO,2710423,119648-2,"Torreya","18(9): 183","183","1918",
+gcc-141657,A,Compositae,,Heliomeris,,"annuus",,"","(M.E.Jones) Cockerell",Synonym,,L,TICA,613D847F-CC71-4E86-A782-F7E46A8B2D08,119648-2,"","","183","1918",gcc-66081
+tro-50071047,A,Compositae,,Heliomeris,,"brevifolia",,"","(Greene ex Wooton & Standl.) Cockerell",Synonym,,L,TRO,50071047,119649-2,"Torreya","18(9): 183","183","1918",gcc-56131
+gcc-6065,A,Compositae,,Heliomeris,,"brevifolius",,"","(Greene ex Wooton & Standl.) Cockerell",Unresolved,,L,TICA,7B791875-6C37-4E9E-9156-0B47C5F57140,119649-2,"","","183","1918",
+gcc-118023,A,Compositae,,Heliomeris,,"ciliata",,"","(B.L.Rob. & Greenm.) Yates",Unresolved,,L,TICA,D49CD786-78A9-4CD3-AEEE-C1FC03C11E0A,,"","","","",
+tro-2732959,A,Compositae,,Heliomeris,,"hispida",,"","(A. Gray) Cockerell",Accepted,,M,TRO,2732959,119650-2,"Torreya","18(9): 183","183","1918",
+gcc-139600,A,Compositae,,Heliomeris,,"hispidus",,"","(A.Gray) Cockerell",Accepted,,M,TICA,7BD3E8BD-A31D-4280-9E3F-F30ECEB9A398,119650-2,"","","183","1918",
+gcc-33762,A,Compositae,,Heliomeris,,"hispidus",var.,"ciliatus","(B.L.Rob. & Greenm.) Cockerell",Synonym,,L,TICA,68C44CAB-E8E7-43DD-AF23-3E9303C7CFC8,119651-2,"Torreya 18: 183. 1918","","183","1918",gcc-139600
+gcc-151242,A,Compositae,,Heliomeris,,"hispidus",var.,"hispidus","",Synonym,,L,TICA,DD19708F-85CB-4073-9585-8088DCD7BED3,,"","","","",gcc-139600
+gcc-115766,A,Compositae,,Heliomeris,,"longifolia",,"","(B.L.Rob. & Greenm.) Cockerell",Accepted,,M,TICA,09EDDEEF-956E-460E-B14F-BCF0A39E2F50,119652-2,"Torreya 18(9): 183. 1918.","","183","1918",
+gcc-66081,A,Compositae,,Heliomeris,,"longifolia",var.,"annua","(M.E.Jones)",Unresolved,,L,TICA,AEDBF10C-DB1A-4BFE-B53C-CBD621059CA6,,"Proceedings of the Indiana Academy of Science 88:","","369","1979",
+gcc-60486,A,Compositae,,Heliomeris,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,FA23890B-F9CA-4096-87FF-9E9A227FABAA,,"","","","",gcc-115766
+gcc-111797,A,Compositae,,Heliomeris,,"longifolius",,"","Cockerell.",Accepted,,L,TICA,CBE3A272-E482-45BC-9EE9-B3F20E51FB01,213512-1,"","","183","1918",
+gcc-150002,A,Compositae,,Heliomeris,,"longifolius",var.,"longifolius","",Synonym,,L,TICA,26631C22-49BE-497F-B692-650F2DDDEE77,,"","","","",gcc-111797
+gcc-110393,A,Compositae,,Heliomeris,,"multiflora",,"","Nutt.",Accepted,,M,TICA,6FBBA838-7224-4736-9F8E-B0C67CF619F0,1068741-2,"","","19","1848",
+gcc-56131,A,Compositae,,Heliomeris,,"multiflora",var.,"brevifolia","(Greene ex Wooton & Standl.)",Unresolved,,L,TICA,B3B49964-A5A4-4446-8C8D-7C0F2A32F05B,,"","","368","1979",
+gcc-1311,A,Compositae,,Heliomeris,,"multiflora",var.,"hispida","A.Gray",Synonym,,L,TICA,F6CA8918-8F16-41E8-84BD-026131DE9231,119655-2,"Smithsonian Contr. Knowl. 5(6): 87. 1853 ; Pl. Wright. 2: 87. 1853.","","87","1853",gcc-139600
+gcc-2467,A,Compositae,,Heliomeris,,"multiflora",var.,"macrocephala","Heiser",Synonym,,L,TICA,C7DFE4DB-ACA9-482E-8783-047D2021E3EA,119657-2,"Monogr. Indiana Acad. Sci. 88","","368","1979",gcc-57457
+gcc-61575,A,Compositae,,Heliomeris,,"multiflora",var.,"multiflora","",Synonym,,L,TICA,0930D0AA-D5FC-4C53-8434-A7C0BC0C292A,,"","","","",gcc-110393
+gcc-32680,A,Compositae,,Heliomeris,,"multiflora",var.,"nevadensis","(A.Nelson) W.F.Yates",Accepted,,L,TICA,6CAF6626-6E24-470E-BAE1-3C95B5373C62,919345-1,"Proceedings of the Indiana Academy of Science 88:","","368","1979",
+gcc-126823,A,Compositae,,Heliomeris,,"nevadensis",,"","(A.Nelson) Cockerell",Unresolved,,L,TICA,E55C86BB-0E7E-4E20-96EF-D62D08F2BAA2,119659-2,"","","183","1918",gcc-32680
+gcc-109923,A,Compositae,,Heliomeris,,"obscura",,"","(S.F.Blake) Cockerell",Accepted,,M,TICA,F99002B0-AFD1-44C3-9176-AFBF1BC44EF3,119660-2,"","","183","1918",
+gcc-79635,A,Compositae,,Heliomeris,,"porteri",,"","(A.Gray) Cockerell",Synonym,,L,TICA,57FB1FFA-D8C4-48E5-855F-6BDA2733525B,119661-2,"","","183","1918",gcc-126051
+gcc-140942,A,Compositae,,Heliomeris,,"simplex",,"","Durand",Unresolved,,L,TICA,5B90537E-E466-4332-B7E7-F63EC621C25C,213518-1,"""Pl. Prattenianae Calif. 91. 1855 [Jun 1855] ; J. Acad. Nat. Sci. Philadelphia, n.s. 3(2): 91. Dec 1855.""","","91","1855",
+gcc-17266,A,Compositae,,Heliomeris,,"soliceps",,"","(Barneby) W.F.Yates",Accepted,,M,TICA,05DC52E8-9AA0-4D61-BA7F-1FED7697BAA4,907961-1,"","","370","1979",
+gcc-30284,A,Compositae,,Heliomeris,,"tenuifolia",,"","A.Gray",Synonym,,M,TICA,935CAE0F-C2CF-4BBD-ACF7-38093F63723A,,"""Mem. Amer. Acad. Arts n.s, 4: 84. 1849 ; Pl. Fendl. 84. 1849.""","","84","1849",gcc-42090

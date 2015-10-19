@@ -1,0 +1,62 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-95162,A,Compositae,,Leptinella,,"acaenoides",,"","Hook. & Arn.",Synonym,,M,TICA,4C7BB3AD-34B1-4805-8635-8EA9C677168A,279568-2,"","","325","1841",gcc-42582
+gcc-149049,A,Compositae,,Leptinella,,"acaenoides",var.,"acaenoides","",Synonym,,L,TICA,8C09C85D-4F8C-4A19-B3B6-5065E3FF2A27,,"","","","",gcc-42582
+gcc-10964,A,Compositae,,Leptinella,,"albida",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,C0B67296-27E8-473C-82CF-147D47955AFE,,"","","103","1987",
+gcc-83549,A,Compositae,,Leptinella,,"altilitoralis",,"","D.G.Lloyd & C.J.Webb",Unresolved,,L,TICA,47A2B617-2FC6-491B-A627-748E225A4DEF,,"","","104","1987",
+gcc-48942,A,Compositae,,Leptinella,,"atrata",,"","(Hook.f.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,AD4DCAC2-9C8B-4203-95A7-5AA2F9A28162,,"","","103","1987",
+gcc-12497,A,Compositae,,Leptinella,,"atrata",subsp.,"atrata","",Synonym,,L,TICA,73E2110D-7BAC-45A8-B240-174992E3AB4B,,"","","","",gcc-48942
+gcc-69484,A,Compositae,,Leptinella,,"atrata",subsp.,"luteola","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,800674E0-7660-4932-9E56-E6C23726BBE8,,"","","103","1987",
+gcc-78656,A,Compositae,,Leptinella,,"bogotensis",,"","(Kunth) DC.",Synonym,,M,TICA,C414BE78-3E13-4ECE-AD8F-699EABE31102,,"Prodr. (DC.) 6: 142","","142","",gcc-79265
+gcc-9462,A,Compositae,,Leptinella,,"calcarea",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,D414BA0E-C2E9-45B7-A578-11AB30310540,,"","","103","1987",
+gcc-36760,A,Compositae,,Leptinella,,"dendyi",,"","(Cockayne) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,D9F00432-4B1D-49E4-880B-442793E12989,,"","","103","1987",
+gcc-122442,A,Compositae,,Leptinella,,"dioica",,"","Hook.f.",Accepted,,M,TICA,7C3D0579-DEDC-44F4-8D1D-CC04730197DB,229778-1,"","","129","1852",
+gcc-57613,A,Compositae,,Leptinella,,"dioica",subsp.,"dioica","",Synonym,,L,TICA,3CF3CBFE-3BA7-4668-BC8F-87BB0786170B,,"","","","",gcc-122442
+gcc-64544,A,Compositae,,Leptinella,,"dioica",subsp.,"monoica","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,A290113F-627B-49FC-BCD6-BF4C63EC3158,,"","","102","1987",
+gcc-83515,A,Compositae,,Leptinella,,"dispersa",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,D1F30DBE-4012-4C33-B5B3-7478EF9F1B65,,"","","102","1987",
+gcc-14045,A,Compositae,,Leptinella,,"dispersa",subsp.,"dispersa","",Synonym,,L,TICA,03F3E18C-E96C-4794-AD99-1A0C1FD29460,,"""Lloyd, D.G.; Webb, C. J. 1987: The reinstatement of <i>Leptinella</i> at generic rank, and the status of the 'Cotuleae' (Asteraceae, Anthemideae). New Zealand Journal of Botany 25: 99-105.""","","102","1987",gcc-83515
+gcc-57614,A,Compositae,,Leptinella,,"dispersa",subsp.,"rupestris","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,5866F882-0813-4CA6-B0F2-87BF3D97078F,,"","","102","1987",
+gcc-15536,A,Compositae,,Leptinella,,"drummondii",,"","(Benth.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,075D40F8-D315-40DB-8C7F-1CC09379AA65,140220-3,"","","","1987",
+gcc-107328,A,Compositae,,Leptinella,,"featherstonii",,"","F.Muell.",Accepted,,M,TICA,AFCB95A0-B5FC-41CA-B5BC-A9D7FF9551E4,,"","","","1864",
+gcc-36138,A,Compositae,,Leptinella,,"filicula",,"","(Hook.f.) Hook.f.",Accepted,,L,TICA,236E9C18-52A7-4A87-8C8A-4302DC224404,,"","","194","1856",
+gcc-102038,A,Compositae,,Leptinella,,"filiformis",,"","(Hook.f.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,79E3F50C-0718-40A0-8BE8-9E2A985779AE,,"","","103","1987",
+gcc-94094,A,Compositae,,Leptinella,,"goyenii",,"","(Petrie) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,332B3148-9883-4C31-9CAD-8C33CB93F0E5,,"","","103","1987",
+gcc-112127,A,Compositae,,Leptinella,,"hookeri",,"","F.Muell.",Unresolved,,L,TICA,111843D6-2A10-434E-B22E-B4B7F0E2D4CF,143090-3,"The Vegetation of the Chatham-Islands 1864","","","1864",
+gcc-16835,A,Compositae,,Leptinella,,"intermedia",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,C38F170C-59B5-4D7C-8253-1F16C0243DBF,,"","","103","1987",
+gcc-29779,A,Compositae,,Leptinella,,"intricata",,"","Hook.f.",Unresolved,,L,TICA,A4361F22-FF88-4CF6-9682-370EA92E4B37,229781-1,"","","vi.  117","1847",
+gcc-57271,A,Compositae,,Leptinella,,"intricata",var.,"intricata","",Synonym,,L,TICA,88381EF7-DC2D-4209-B942-850F57928365,143139-3,"Flora Tasmaniae 1  1857","","1","1857",gcc-29779
+gcc-101215,A,Compositae,,Leptinella,,"lanata",,"","Hook.f.",Accepted,,M,TICA,4F4B9DF5-BC67-44D0-A7E8-9C54E01A09D3,,"","","","1844",
+gcc-13132,A,Compositae,,Leptinella,,"leptoloba",,"","(Mattf.) D.G.Lloyd & C.J.Webb",Synonym,,L,TICA,353AC91E-4BC0-486D-8B16-18778B5B9CDE,,"","","104","1987",gcc-140599
+gcc-15173,A,Compositae,,Leptinella,,"longipes",,"","Hook.f.",Accepted,,M,TICA,14C6E1D0-6858-420B-811A-1C196F39751A,229783-1,"","","117","1847",
+gcc-31086,A,Compositae,,Leptinella,,"maniototo",,"","(Petrie) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,85E1FC42-033F-42A2-9865-398F07727A6F,,"","","103","1987",
+gcc-99446,A,Compositae,,Leptinella,,"minor",,"","Hook.f.",Accepted,,M,TICA,D28E3C63-6690-4004-915C-986161BE7AA8,,"","","","1852",
+gcc-91756,A,Compositae,,Leptinella,,"multifida",,"","Hook.f.",Unresolved,,L,TICA,5B8C5460-AB3C-4187-B8A4-8712DEDD612C,229785-1,"","","vi.  118","1847",gcc-95783
+gcc-32011,A,Compositae,,Leptinella,,"nana",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,F6D8A3BD-DDBF-4AAD-88D5-3B4B2E515162,,"","","103","1987",
+gcc-15391,A,Compositae,,Leptinella,,"pectinata",,"","(Hook.f.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,E8672A6B-3777-45F3-9F78-1C7F9E304BA0,,"","","103","1987",
+gcc-59532,A,Compositae,,Leptinella,,"pectinata",subsp.,"pectinata","",Synonym,,L,TICA,F14815FB-5357-4020-8682-9731203711AF,,"","","","1987",gcc-15391
+gcc-63823,A,Compositae,,Leptinella,,"pectinata",subsp.,"villosa","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,E2721CF0-35E0-4080-8947-B9CAE3787103,,"","","103","1987",
+gcc-68634,A,Compositae,,Leptinella,,"pectinata",subsp.,"willcoxii","(Cheeseman) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,C0526A7F-5E60-4EF6-9B6D-E040E0F46039,,"","","103","1987",
+gcc-144943,A,Compositae,,Leptinella,,"peduncularis",,"","DC.",Accepted,,M,TICA,982E3849-5D31-41A7-967C-FF4DBF86BF12,229786-1,"Prodr. (DC.) 6: 141","","141","1838",
+gcc-143377,A,Compositae,,Leptinella,,"perpusilla",,"","Fisch. & C.A.Mey.",Unresolved,,L,TICA,FA03FF7D-D50B-4560-9E80-FBBB3B0A3342,,"Index Seminum Hort. Petrop. ii. 14.","","14","1836",
+gcc-113804,A,Compositae,,Leptinella,,"pinnata",,"","Cass.",Unresolved,,L,TICA,FD9D3DA6-829C-418D-BC9A-B8713E2390C6,229788-1,"Bull. Sci. Soc. Philom. Paris (1822) 127.","","127","",
+gcc-27091,A,Compositae,,Leptinella,,"plumosa",,"","Hook.f.",Accepted,,M,TICA,43B48808-4A94-443B-881A-321714291770,,"","","","1844",
+gcc-49926,A,Compositae,,Leptinella,,"potentillina",,"","F.Muell.",Accepted,,M,TICA,7F4A92AE-CDA5-4335-B779-5C8D7176B6D4,,"","","","1864",
+gcc-29545,A,Compositae,,Leptinella,,"propinqua",,"","Hook.f.",Unresolved,,L,TICA,9BE35FE9-BCBB-4192-8F18-3699F284CD0B,229791-1,"Fl. Antarct. i. 27.","","i. 27.","",
+gcc-128479,A,Compositae,,Leptinella,,"pusilla",,"","Hook.f.",Accepted,,M,TICA,DDCB5584-057D-4183-A136-DA1AD374AAE6,,"","","","1852",
+gcc-150882,A,Compositae,,Leptinella,,"pusilla",subsp.,"pusilla","",Synonym,,L,TICA,E4CDFDEB-C110-4E8E-9F87-784D142ED1A9,,"","","","",gcc-128479
+gcc-47756,A,Compositae,,Leptinella,,"pyrethrifolia",,"","(Hook.f.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,9597B404-40A8-4EAC-A9F8-5878BAC565FE,,"","","103","1987",
+gcc-39704,A,Compositae,,Leptinella,,"pyrethrifolia",var.,"linearifolia","(Cheeseman) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,EF79ED84-7E35-4546-9C3E-49AA11811B67,,"","","103","1987",
+gcc-66952,A,Compositae,,Leptinella,,"pyrethrifolia",var.,"pyrethrifolia","",Synonym,,L,TICA,C5F11187-9B32-42FA-858B-D2F8F6F0A106,,"""Lloyd, D.G.; Webb, C. J. 1987: The reinstatement of <i>Leptinella</i> at generic rank, and the status of the 'Cotuleae' (Asteraceae, Anthemideae). New Zealand Journal of Botany 25: 99-105.""","","103","1987",gcc-47756
+gcc-90073,A,Compositae,,Leptinella,,"reptans",,"","(Benth.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,0C96BD45-42F4-4F17-8967-8326861A5AFF,,"","","103","1987",
+gcc-132940,A,Compositae,,Leptinella,,"rotunda",,"","D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,BC4FB4F4-126A-47D0-AEA9-E467451F87E4,,"","","","",
+gcc-8897,A,Compositae,,Leptinella,,"rotundata",,"","(Cheeseman) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,D8D71B3C-9310-4D4D-B4B5-10A377788DBF,,"","","102","1987",
+gcc-14553,A,Compositae,,Leptinella,,"sarawaketensis",,"","(P.Royen & D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,44D21627-DC94-4299-B47B-1AFEEA59B5EE,,"","","104","1987",
+gcc-42582,A,Compositae,,Leptinella,,"scariosa",,"","Cass.",Accepted,,M,TICA,E35DE508-F9BC-4ADC-B3A1-4EDDE3B3D5E6,229793-1,"","","127","1822",
+gcc-38657,A,Compositae,,Leptinella,,"serrulata",,"","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,4F771691-4E4B-472C-A942-47B986E24DE2,,"","","103","1987",
+gcc-76856,A,Compositae,,Leptinella,,"squalida",,"","Hook.f.",Accepted,,M,TICA,CB46B701-D272-43BE-A1A0-6591EEB546D0,,"","","129","",
+gcc-63103,A,Compositae,,Leptinella,,"squalida",subsp.,"mediana","(D.G.Lloyd) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,125C02DF-B065-435D-943F-B4243A557C8E,,"","","103","1987",
+gcc-12428,A,Compositae,,Leptinella,,"squalida",subsp.,"squalida","",Synonym,,L,TICA,3760C7C3-1D5F-4368-862B-172B85CA57D7,,"""Hooker, J. D. 1852-1853[1853] : The Botany of the Antarctic Voyage of H.M. Discovery Ships <i>Erebus</i> and <i>Terror</i> in the Years 1839-1843. Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants.  London,  Lovell Reeve. 312 p. ""","","129","1852",gcc-76856
+gcc-79835,A,Compositae,,Leptinella,,"tenella",,"","(A.Cunn.) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,36CC09B8-0E74-421B-91E0-6C460CD17DEA,,"","","102","1987",
+gcc-106451,A,Compositae,,Leptinella,,"traillii",,"","(Kirk) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,B780314E-90F4-4FF1-B3B4-A7D4EBB02DE7,,"","","102","1987",
+gcc-60969,A,Compositae,,Leptinella,,"traillii",subsp.,"pulchella","(Kirk) D.G.Lloyd & C.J.Webb",Accepted,,L,TICA,E0B5A63E-C108-4618-A34D-A2ACA671CFCE,,"","","102","1987",
+gcc-46671,A,Compositae,,Leptinella,,"traillii",subsp.,"traillii","",Synonym,,L,TICA,69D91FE5-4E4A-4D31-A547-56828A16A2EB,,"","","","",gcc-106451
+gcc-125076,A,Compositae,,Leptinella,,"wilhelminensis",,"","(P.Royen) D.G.Lloyd & C.J.Webb",Accepted,,M,TICA,36F17255-9303-4895-9D9D-D23FF4CB9014,,"","","104","1987",

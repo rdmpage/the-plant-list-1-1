@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-302126,A,Melanthiaceae,,Chionographis,,"chinensis",,"","K.Krause",Accepted,,H,WCSP,302126,532682-1,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 807","","1929",
+kew-302127,A,Melanthiaceae,,Chionographis,,"hisauchiana",,"","(Okuyama) N.Tanaka",Accepted,,H,WCSP,302127,70027935-1,"Novon","13: 212","","2003",
+kew-311946,A,Melanthiaceae,,Chionographis,,"hisauchiana",subsp.,"hisauchiana","",Synonym,,L,WCSP,311946,,"Unknown","","","",kew-302127
+kew-302128,A,Melanthiaceae,,Chionographis,,"hisauchiana",subsp.,"kurohimensis","(Ajima & Satomi) N.Tanaka",Accepted,,L,WCSP,302128,70027938-1,"Novon","13: 213","","2003",
+kew-302129,A,Melanthiaceae,,Chionographis,,"hisauchiana",subsp.,"minoensis","(H.Hara) N.Tanaka",Accepted,,L,WCSP,302129,70027937-1,"Novon","13: 213","","2003",
+kew-302130,A,Melanthiaceae,,Chionographis,,"japonica",,"","(Willd.) Maxim.",Accepted,,H,WCSP,302130,532683-1,"Bull. Acad. Imp. Sci. Saint-Pétersbourg","11: 436","","1867",
+kew-302131,A,Melanthiaceae,,Chionographis,,"japonica",var.,"hisauchiana","Okuyama",Synonym,,L,WCSP,302131,,"J. Jap. Bot.","27: 268","","1952",kew-302127
+kew-302132,A,Melanthiaceae,,Chionographis,,"japonica",subsp.,"hisauchiana","(Okuyama) H.Hara",Synonym,,L,WCSP,302132,,"J. Jap. Bot.","43: 263","","1968",kew-302127
+kew-302133,A,Melanthiaceae,,Chionographis,,"japonica",var.,"koreana","(F.T.Wang & Tang) Okuyama",Synonym,,L,WCSP,302133,,"J. Jap. Bot.","19: 130","","1943",kew-302130
+kew-302134,A,Melanthiaceae,,Chionographis,,"japonica",var.,"kurohimensis","Ajima & Satomi",Synonym,,L,WCSP,302134,974754-1,"J. Geobot.","24: 48","","1976",kew-302128
+kew-302135,A,Melanthiaceae,,Chionographis,,"japonica",var.,"kurokamiana","H.Hara",Synonym,,L,WCSP,302135,886223-1,"J. Jap. Bot.","46: 282","","1971",kew-302140
+kew-302136,A,Melanthiaceae,,Chionographis,,"japonica",var.,"minoensis","H.Hara",Synonym,,L,WCSP,302136,,"J. Jap. Bot.","36: 271","","1961",kew-302129
+kew-302137,A,Melanthiaceae,,Chionographis,,"japonica",subsp.,"minoensis","(H.Hara) H.Hara",Synonym,,L,WCSP,302137,,"J. Jap. Bot.","43: 263","","1968",kew-302129
+kew-302138,A,Melanthiaceae,,Chionographis,,"japonica",var.,"yakushimensis","Masam.",Synonym,,L,WCSP,302138,,"Mem. Fac. Sci. Taihoku Imp. Univ.","11: 550","","1934",kew-302130
+kew-302139,A,Melanthiaceae,,Chionographis,,"koidzumiana",,"","Ohwi",Accepted,,H,WCSP,302139,532684-1,"Bot. Mag. (Tokyo)","44: 565","","1930",
+kew-311947,A,Melanthiaceae,,Chionographis,,"koidzumiana",var.,"koidzumiana","",Synonym,,L,WCSP,311947,,"Unknown","","","",kew-302139
+kew-302140,A,Melanthiaceae,,Chionographis,,"koidzumiana",var.,"kurokamiana","(H.Hara) M.Maki",Accepted,,L,WCSP,302140,967509-1,"Bot. Mag. (Tokyo)","105: 159","","1992",
+kew-302141,A,Melanthiaceae,,Chionographis,,"koidzumiana",var.,"mikawana","Ohwi & Okuyama",Synonym,,L,WCSP,302141,,"J. Jap. Bot.","28: 304","","1953",kew-302139
+kew-302142,A,Melanthiaceae,,Chionographis,,"koidzumiana",var.,"yakusimensis","(Masam.) Masam.",Synonym,,L,WCSP,302142,,"Trans. Nat. Hist. Soc. Taiwan","26: 53","","1936",kew-302130
+kew-302143,A,Melanthiaceae,,Chionographis,,"koreana",,"","F.T.Wang & Tang",Synonym,,H,WCSP,302143,532685-1,"Bull. Fan Mem. Inst. Biol.","7: 82","","1936",kew-302130
+kew-302144,A,Melanthiaceae,,Chionographis,,"lutea",,"","(L.) Baill.",Synonym,,H,WCSP,302144,532686-1,"Hist. Pl.","12: 593","","1894",kew-302082
+kew-302145,A,Melanthiaceae,,Chionographis,,"merrilliana",,"","H.Hara",Accepted,,H,WCSP,302145,532687-1,"J. Jap. Bot.","43: 264","","1968",
+kew-469010,A,Melanthiaceae,,Chionographis,,"shiwandashanensis",,"","Y.Feng Huang & R.H.Jiang",Accepted,,H,WCSP,469010,77115549-1,"Nordic J. Bot.","29: 605","","2011",
+kew-302146,A,Melanthiaceae,,Chionographis,,"sparsa",,"","F.Maek.",Synonym,,H,WCSP,302146,,"J. Jap. Bot.","11: 378","","1935",kew-302139

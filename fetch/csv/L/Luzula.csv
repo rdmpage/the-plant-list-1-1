@@ -1,0 +1,708 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-316122,A,Juncaceae,,Luzula,,"abchasica",,"","Novikov",Accepted,,H,IOPI,316122,936795-1,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol.","n.s., 94(1): 111","","1989",
+kew-316123,A,Juncaceae,,Luzula,,"abyssinica",,"","Parl.",Accepted,,H,IOPI,316123,443689-1,"Fl. Ital.","2: 310","","1852",
+kew-316124,A,Juncaceae,,Luzula,,"abyssinica",var.,"kilimandscharica","Engl.",Synonym,,L,IOPI,316124,,"Festschr. Aschers.","556","","1904",kew-316123
+kew-316126,A,Juncaceae,,Luzula,,"abyssinica",var.,"volkensii","(Buchenau) Engl.",Synonym,,L,IOPI,316126,,"Festschr. Aschers.","556","","1904",kew-316123
+kew-316127,A,Juncaceae,,Luzula,,"acuminata",,"","Raf.",Accepted,,H,IOPI,316127,443690-1,"Autik. Bot.","193","","1840",
+kew-316128,A,Juncaceae,,Luzula,,"acuminata",subsp.,"acuminata","",Synonym,,L,IOPI,316128,,"Unknown","","","",kew-316127
+tro-16900628,A,Juncaceae,,Luzula,,"acuminata",var.,"acuminata","",Synonym,,L,TRO,16900628,,"","","","",kew-316127
+kew-316129,A,Juncaceae,,Luzula,,"acuminata",subsp.,"carolinae","(S.Watson) Z.Kaplan",Accepted,,L,IOPI,316129,1020797-1,"Preslia","73: 63","","2001",
+kew-316130,A,Juncaceae,,Luzula,,"acuminata",var.,"carolinae","(S.Watson) Fernald",Synonym,,L,IOPI,316130,146141-2,"Rhodora","46: 5","","1944",kew-316129
+kew-316131,A,Juncaceae,,Luzula,,"acutifolia",,"","H.Nordensk.",Accepted,,H,IOPI,316131,,"Bot. Not.","122: 85","","1969",
+kew-316132,A,Juncaceae,,Luzula,,"acutifolia",subsp.,"acutifolia","",Synonym,,L,IOPI,316132,,"Unknown","","","",kew-316131
+kew-316134,A,Juncaceae,,Luzula,,"africana",,"","Drège ex Steud.",Accepted,,H,IOPI,316134,,"Syn. Pl. Glumac.","2: 294","","1855",
+kew-316135,A,Juncaceae,,Luzula,,"albida",,"","(Hoffm.) DC.",Synonym,,H,IOPI,316135,443693-1,"Fl. Franç.","ed. 3, 3: 159","","1805",kew-316453
+kew-341443,A,Juncaceae,,Luzula,,"albida",var.,"alpigena","(Schur) Nyman",Synonym,,L,IOPI,341443,,"Consp. Fl. Eur.","751","","1882",kew-316458
+kew-316136,A,Juncaceae,,Luzula,,"albida",var.,"cuprina","Rochel",Synonym,Invalid,L,IOPI,316136,,"Pl. Banat. Rar.","3: 27","","1828",kew-316458
+kew-316137,A,Juncaceae,,Luzula,,"albida",var.,"erythranthema","Wallr.",Synonym,,L,IOPI,316137,,"Sched. Crit.","1: 150.","","1822",kew-316458
+kew-316138,A,Juncaceae,,Luzula,,"albida",var.,"fuliginosa","(Asch.) Beck",Synonym,,L,IOPI,316138,,"Fl. Nieder-Österreich","1: 159","","1890",kew-316458
+kew-316139,A,Juncaceae,,Luzula,,"albida",var.,"leucanthema","Wallr.",Synonym,,L,IOPI,316139,,"Sched. Crit.","1: 150","","1822",kew-316453
+kew-316140,A,Juncaceae,,Luzula,,"albida",var.,"macrantha","Beck",Synonym,,L,IOPI,316140,,"Fl. Nieder-Österreich","1: 159","","1890",kew-316453
+kew-316142,A,Juncaceae,,Luzula,,"albida",var.,"parviflora","Döll",Synonym,,L,IOPI,316142,,"Fl. Baden","1: 323","","1857",kew-316453
+kew-316143,A,Juncaceae,,Luzula,,"albida",var.,"rubella","Hoppe ex Mert. & W.D.J.Koch",Synonym,,L,IOPI,316143,,"Deutschl. Fl.","ed. 3, 2: 599","","1826",kew-316458
+kew-316145,A,Juncaceae,,Luzula,,"albida",var.,"versicolor","Bluff & Fingerh.",Synonym,,L,IOPI,316145,,"Comp. Fl. German.","1: 443","","1825",kew-316458
+tro-16900507,A,Juncaceae,,Luzula,,"alopecuroides",,"","Desv.",Accepted,,M,TRO,16900507,,"J. Bot. (Desvaux)","1: 159","159","1808",
+kew-316146,A,Juncaceae,,Luzula,,"alopecurus",,"","Desv.",Accepted,,H,IOPI,316146,146142-2,"J. Bot. (Desvaux)","1: 159","","1808",
+kew-316147,A,Juncaceae,,Luzula,,"alpestris",,"","H.Nordensk.",Accepted,,H,IOPI,316147,,"Bot. Not.","122: 84","","1969",
+kew-316148,A,Juncaceae,,Luzula,,"alpigena",,"","Schur",Synonym,,H,IOPI,316148,443699-1,"Enum. Pl. Transsilv.","681","","1866",kew-316458
+kew-316149,A,Juncaceae,,Luzula,,"alpina",,"","Hoppe",Accepted,,H,IOPI,316149,,"Deutschl. Fl.","18","","1839",
+kew-316150,A,Juncaceae,,Luzula,,"alpinopilosa",,"","(Chaix) Breistr.",Accepted,,H,IOPI,316150,,"Bull. Soc. Sci. Isère","61: 609","","1947",
+kew-316151,A,Juncaceae,,Luzula,,"alpinopilosa",subsp.,"alpinopilosa","",Synonym,,L,IOPI,316151,,"Unknown","","","",kew-316150
+kew-316152,A,Juncaceae,,Luzula,,"alpinopilosa",subsp.,"candollei","(E.Mey.) Rothm.",Synonym,,L,IOPI,316152,,"Feddes Repert. Spec. Nov. Regni Veg.","67: 4","","1963",kew-316150
+kew-316153,A,Juncaceae,,Luzula,,"alpinopilosa",subsp.,"deflexa","(Kožuharov) Kirschner",Accepted,,L,IOPI,316153,20003356-1,"Taxon","50: 1109","","2001",
+kew-316154,A,Juncaceae,,Luzula,,"alpinopilosa",subsp.,"obscura","S.E.Fröhner",Accepted,,L,IOPI,316154,,"Preslia","40: 426","","1968",
+tro-16901011,A,Juncaceae,,Luzula,,"alpinopilosa",subsp.,"obscura","A. Froehner",Synonym,,L,TRO,16901011,,"","","","",kew-316154
+kew-316156,A,Juncaceae,,Luzula,,"althii",,"","Herbich",Synonym,,H,IOPI,316156,443702-1,"Select. Pl. Galic.","12","","1836",kew-316741
+kew-316157,A,Juncaceae,,Luzula,,"ambigua",,"","Sóo",Synonym,,H,IOPI,316157,,"Acta Bot. Acad. Sci. Hung.","16: 367","","1971",kew-316484
+kew-316158,A,Juncaceae,,Luzula,,"angustifolia",,"","Poir.",Synonym,,H,IOPI,316158,,"Encycl.","Suppl. 3: 530","","1813",kew-315413
+kew-316159,A,Juncaceae,,Luzula,,"angustifolia",,"","(Roth) Wender.",Synonym,Illegitimate,H,IOPI,316159,,"Beitr. Fl. Hess.","36","","1823",kew-316453
+kew-316160,A,Juncaceae,,Luzula,,"angustifolia",,"","K.Koch",Synonym,Illegitimate,H,IOPI,316160,443707-1,"Linnaea","21: 625","","1848",kew-316734
+kew-316161,A,Juncaceae,,Luzula,,"angustifolia",var.,"rubella","(Hoppe ex Mert. & W.D.J.Koch) Garcke",Synonym,,L,IOPI,316161,,"Fl. N. Mitt.-Deutschland","ed. 3: 348","","1853",kew-316458
+kew-316162,A,Juncaceae,,Luzula,,"angustifolia",subsp.,"rubella","(Hoppe ex Mert. & W.D.J.Koch) K.Richt.",Synonym,,L,IOPI,316162,,"Pl. Eur.","1: 184","","1890",kew-316458
+kew-316163,A,Juncaceae,,Luzula,,"antarctica",,"","Hook.f.",Accepted,,H,IOPI,316163,,"Fl. Antarct.","1: 359","","1847",
+kew-316164,A,Juncaceae,,Luzula,,"arctica",,"","Blytt",Synonym,,H,IOPI,316164,443709-1,"Norges Fl.","1: 299","","1861",kew-316552
+kew-316165,A,Juncaceae,,Luzula,,"arctica",var.,"latifolia","(Buchenau) Nilsson ex Buchenau",Synonym,,L,IOPI,316165,146148-2,"Pflanzenr.","IV, 36: 69","","1906",kew-316433
+kew-316168,A,Juncaceae,,Luzula,,"arcuata",,"","(Wahlenb.) Sw.",Accepted,,H,IOPI,316168,30294949-2,"Summa Veg. Scand.","13","","1814",
+kew-316169,A,Juncaceae,,Luzula,,"arcuata",subsp.,"arcuata","",Synonym,,L,IOPI,316169,,"Unknown","","","",kew-316168
+tro-16900524,A,Juncaceae,,Luzula,,"arcuata",var.,"arcuata","",Synonym,,L,TRO,16900524,,"","","","",kew-316168
+kew-316170,A,Juncaceae,,Luzula,,"arcuata",f.,"capillaris","Laest.",Synonym,,L,IOPI,316170,,"Bot. Not.","1858: 144","","1858",kew-316168
+kew-316171,A,Juncaceae,,Luzula,,"arcuata",subsp.,"confusa","(Lindeb.) O.C.Dahl",Synonym,,L,IOPI,316171,,"Handb. Norges Fl.","201","","1906",kew-316319
+kew-316172,A,Juncaceae,,Luzula,,"arcuata",f.,"confusa","(Lindeb.) Kjellm.",Synonym,,L,IOPI,316172,,"Vega Exped. Vet. Iakttag.","2: 59","","1883",kew-316319
+kew-316174,A,Juncaceae,,Luzula,,"arcuata",var.,"hyperborea","(R.Br.) Rink",Synonym,,L,IOPI,316174,,"Naturhist. Bidr. Grønl.","119","","1857",kew-316319
+kew-316175,A,Juncaceae,,Luzula,,"arcuata",var.,"kamtschadalorum","Sam.",Synonym,,L,IOPI,316175,,"Kongl. Svenska Vetensk. Acad. Handl.","III, 5(1): 223","","1927",kew-316178
+kew-316939,A,Juncaceae,,Luzula,,"arcuata",var.,"lanuginosa","Rupr.",Synonym,,L,IOPI,316939,,"Fl. Samojed. Cisural.","59","","1845",kew-316168
+kew-316176,A,Juncaceae,,Luzula,,"arcuata",f.,"latifolia","Kjellm.",Synonym,Illegitimate,L,IOPI,316176,146151-2,"Vega Exped. Vet. Iakttag.","1: 566","","1882",kew-316433
+kew-316898,A,Juncaceae,,Luzula,,"arcuata",f.,"latifolia","Laest.",Synonym,,L,IOPI,316898,,"Bot. Not.","1858: 144","","1858",kew-316168
+kew-316177,A,Juncaceae,,Luzula,,"arcuata",var.,"major","Hook.",Synonym,,L,IOPI,316177,,"Fl. Bor.-Amer.","2: 189","","1838",kew-316634
+kew-316897,A,Juncaceae,,Luzula,,"arcuata",f.,"subnivalis","Laest.",Synonym,,L,IOPI,316897,,"Bot. Not.","1858: 144","","1858",kew-316168
+kew-316178,A,Juncaceae,,Luzula,,"arcuata",subsp.,"unalaschkensis","(Buchenau) Hultén",Accepted,,L,IOPI,316178,,"Ark. Bot.","a.s., 7(1): 32","","1967 publ. 1968",
+kew-316179,A,Juncaceae,,Luzula,,"arcuata",var.,"unalaschkensis","Buchenau",Synonym,,L,IOPI,316179,,"Bot. Jahrb. Syst.","12: 124","","1890",kew-316178
+kew-316180,A,Juncaceae,,Luzula,,"arida",,"","Steud.",Synonym,,H,IOPI,316180,443713-1,"Syn. Pl. Glumac.","2: 293","","1855",kew-316596
+kew-316181,A,Juncaceae,,Luzula,,"atlantica",,"","Braun-Blanq.",Accepted,,H,IOPI,316181,443714-1,"Vierteljahrsschr. Naturf. Ges. Zürich","Suppl. 15: 347","","1928",
+kew-464597,A,Juncaceae,,Luzula,,"atlantica",subsp.,"atlantica","",Synonym,,L,IOPI,464597,,"Unknown","","","",kew-316181
+kew-316182,A,Juncaceae,,Luzula,,"atrata",,"","Edgar",Accepted,,H,IOPI,316182,443716-1,"New Zealand J. Bot.","13: 794","","1975",
+kew-316183,A,Juncaceae,,Luzula,,"aurea",,"","(Pourr.) Timb.-Lagr.",Synonym,,H,IOPI,316183,443717-1,"Bull. Soc. Sci. Phys. Nat. Toulouse","2: 132","","1875",kew-316449
+kew-316184,A,Juncaceae,,Luzula,,"australasica",,"","Steud.",Accepted,,H,IOPI,316184,443718-1,"Syn. Pl. Glumac.","2: 294","","1855",
+kew-316185,A,Juncaceae,,Luzula,,"australasica",subsp.,"australasica","",Synonym,,L,IOPI,316185,,"Unknown","","","",kew-316184
+kew-316186,A,Juncaceae,,Luzula,,"australasica",subsp.,"dura","(Edgar) M.E.Jansen",Accepted,,L,IOPI,316186,883729-1,"Blumea","24(2): 531","","1978",
+kew-316187,A,Juncaceae,,Luzula,,"azorica",,"","H.C.Watson",Synonym,Invalid,H,IOPI,316187,443719-1,"London J. Bot.","2: 408","","1843",kew-316651
+kew-316188,A,Juncaceae,,Luzula,,"badia",,"","K.F.Wu",Synonym,,H,IOPI,316188,1009437-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 99","","1992",kew-316520
+kew-316189,A,Juncaceae,,Luzula,,"banksiana",,"","E.Mey.",Accepted,,H,IOPI,316189,443720-1,"Linnaea","22: 412","","1849",
+kew-316191,A,Juncaceae,,Luzula,,"banksiana",var.,"banksiana","",Synonym,,L,IOPI,316191,,"Unknown","","","",kew-316189
+kew-316192,A,Juncaceae,,Luzula,,"banksiana",var.,"migrata","(Buchenau) Edgar",Accepted,,L,IOPI,316192,,"New Zealand J. Bot.","4: 170","","1966",
+kew-316194,A,Juncaceae,,Luzula,,"banksiana",var.,"rhadina","(Buchenau) Edgar",Accepted,,L,IOPI,316194,,"New Zealand J. Bot.","4: 171","","1966",
+kew-316195,A,Juncaceae,,Luzula,,"barbata",,"","Liebm.",Synonym,,H,IOPI,316195,301237-2,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","2: 45","","1850",kew-316292
+kew-316196,A,Juncaceae,,Luzula,,"beeringiana",,"","Gjaerev.",Synonym,Illegitimate,H,IOPI,316196,,"Kongel. Norske Vidensk. Selsk. Skr. Årbok","19(5): 63","","1958",kew-316433
+kew-316197,A,Juncaceae,,Luzula,,"beringensis",,"","Tolm.",Synonym,,H,IOPI,316197,443724-1,"in Arktich. Fl. SSSR","4: 39","","1963",kew-316178
+tro-16900789,A,Juncaceae,,Luzula,,"berringiana",,"","Gjaerevoll",Synonym,,M,TRO,16900789,,"","","","",kew-316433
+kew-316198,A,Juncaceae,,Luzula,,"berthelotii",,"","Nees ex Kunth",Synonym,,H,IOPI,316198,443725-1,"Enum. Pl.","3: 298","","1841",kew-316347
+kew-316907,A,Juncaceae,,Luzula,×,"bogdanii",,"","Kirschner",Accepted,,H,IOPI,316907,,"Preslia","63: 105","","1991",
+tro-50197394,A,Juncaceae,,Luzula,,"bogdanii",,"","Kirschner",Unresolved,,L,TRO,50197394,,"Preslia","2(105):","","1991",
+kew-316199,A,Juncaceae,,Luzula,,"boliviensis",,"","Buchenau",Synonym,,H,IOPI,316199,305939-2,"Abh. Naturwiss. Vereins Bremen","4: 128","","1874",kew-316612
+kew-316200,A,Juncaceae,,Luzula,,"bomiensis",,"","K.F.Wu",Accepted,,H,IOPI,316200,1009438-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 100","","1992",
+kew-316201,A,Juncaceae,,Luzula,,"borealis",,"","Fr.",Synonym,,H,IOPI,316201,443727-1,"Summa Veg. Scand.","219","","1846",kew-316789
+kew-316870,A,Juncaceae,,Luzula,×,"bornmuelleriana",,"","Kük.",Accepted,,H,IOPI,316870,443728-1,"Mitth. Thüring. Bot. Vereins","n.f., 23: 90","","1908",
+kew-316934,A,Juncaceae,,Luzula,×,"borreri",,"","Bromf. ex Bab.",Accepted,,H,IOPI,316934,,"Man. Brit. Bot.","ed. 3: 333","","1851",
+kew-316202,A,Juncaceae,,Luzula,,"brachycarpa",,"","(Satake) Satake",Synonym,,H,IOPI,316202,,"Nov. Fl. Jap.","1: 25","","1938",kew-316635
+kew-316203,A,Juncaceae,,Luzula,,"brachyphylla",,"","Phil.",Accepted,,L,IOPI,316203,443731-1,"Linnaea","33: 268","","1865",
+kew-316204,A,Juncaceae,,Luzula,,"brevifolia",,"","(Link ex Rostk.) Poir.",Synonym,Illegitimate,H,IOPI,316204,,"Encycl.","Suppl. 3: 532","","1813",kew-316440
+kew-458253,A,Juncaceae,,Luzula,,"brevispicata",,"","Knjaz.",Accepted,,H,IOPI,458253,77103258-1,"Novosti Sist. Vyssh. Rast.","40: 35","","2008 publ. 2009",
+kew-316205,A,Juncaceae,,Luzula,,"bulbosa",,"","(Alph.Wood) Smyth & L.C.Smyth",Accepted,,H,IOPI,316205,77110958-1,"Trans. Kansas Acad. Sci.","25: 107","","1912",
+tro-16900191,A,Juncaceae,,Luzula,,"bulbosa",,"","(Alph. Wood) Rydb.",Synonym,,M,TRO,16900191,443735-1,"Brittonia","1(2): 85","85","1931",kew-316205
+kew-316206,A,Juncaceae,,Luzula,,"bulgarica",,"","Chrtek & Krísa",Synonym,,H,IOPI,316206,443736-1,"Bot. Not.","115: 304","","1962",kew-316711
+kew-316208,A,Juncaceae,,Luzula,,"caespitosa",,"","(J.Gay ex E.Mey.) Steud.",Accepted,,H,IOPI,316208,443738-1,"Syn. Pl. Glumac.","2: 294","","1855",
+kew-316209,A,Juncaceae,,Luzula,,"caespitosa",subsp.,"iberica","P.Monts.",Synonym,,L,IOPI,316209,77106596-1,"Anales Inst. Bot. Cavanilles","21(2): 473","","1963 publ. 1964",kew-316208
+kew-316210,A,Juncaceae,,Luzula,,"caespitosa",subsp.,"sanabriae","P.Monts.",Synonym,,L,IOPI,316210,77106594-1,"Anales Inst. Bot. Cavanilles","21(2): 473","","1963 publ. 1964",kew-316208
+kew-316211,A,Juncaceae,,Luzula,,"calabra",,"","Ten.",Accepted,,H,IOPI,316211,443741-1,"Fl. Napol.","3: 386","","1829",
+kew-316949,A,Juncaceae,,Luzula,,"callosa",,"","Raf.",Synonym,,H,IOPI,316949,443742-1,"Autik. Bot.","193","","1840",kew-316366
+kew-316212,A,Juncaceae,,Luzula,,"campestris",,"","(L.) DC.",Accepted,,H,IOPI,316212,443746-1,"Fl. Franç.","ed. 3, 3: 161","","1805",
+kew-316213,A,Juncaceae,,Luzula,,"campestris",var.,"acadiensis","Fernald",Synonym,,L,IOPI,316213,321401-2,"Rhodora","19: 38","","1917",kew-316484
+kew-316216,A,Juncaceae,,Luzula,,"campestris",var.,"alpestris","G.Mey.",Synonym,Illegitimate,L,IOPI,316216,,"Chloris Han.","572","","1836",kew-316741
+kew-316217,A,Juncaceae,,Luzula,,"campestris",subsp.,"alpestris","Celak.",Synonym,,L,IOPI,316217,,"Prodr. Fl. Böhmen","1: 85","","1867",kew-316741
+kew-316218,A,Juncaceae,,Luzula,,"campestris",var.,"alpina","Gaudin",Synonym,,L,IOPI,316218,,"Agrost. Helv.","2: 247","","1811",kew-316741
+kew-316219,A,Juncaceae,,Luzula,,"campestris",f.,"althii","(Herbich) I.Grint.",Synonym,,L,IOPI,316219,,"Fl. Reipubl. Popul. Roman.","11: 603","","1966",kew-316741
+kew-316220,A,Juncaceae,,Luzula,,"campestris",var.,"atrofusca","Maly",Synonym,,L,IOPI,316220,,"Glasn. Zemaljsk. Muz. Bosni Hercegovini","32: 141","","1920",kew-316765
+kew-316118,A,Juncaceae,,Luzula,,"campestris",var.,"australasica","(Steud.) Buchenau",Synonym,,L,IOPI,316118,,"Oesterr. Bot. Z.","48: 216","","1898",kew-316184
+kew-316221,A,Juncaceae,,Luzula,,"campestris",var.,"banksiana","(E.Mey.) Buchenau",Synonym,,L,IOPI,316221,,"Oesterr. Bot. Z.","48: 218","","1898",kew-316189
+kew-316223,A,Juncaceae,,Luzula,,"campestris",var.,"bulbosa","Alph.Wood",Synonym,,L,IOPI,316223,,"Class-book Bot.","723","","1861",kew-316205
+kew-463139,A,Juncaceae,,Luzula,,"campestris",subsp.,"bulbosa","(Alph.Wood) Cheshm. & Delip.",Synonym,,L,IOPI,463139,77109010-1,"God. Sofiisk. Univ. Kliment Okhridski Biol. Fak. 2, Bot.","88(4): 72","","1997",kew-316205
+kew-316224,A,Juncaceae,,Luzula,,"campestris",var.,"calabra","(Ten.) Buchenau",Synonym,,L,IOPI,316224,,"Bot. Jahrb. Syst.","12: 163","","1890",kew-316211
+kew-316225,A,Juncaceae,,Luzula,,"campestris",subsp.,"campestris","",Synonym,,L,IOPI,316225,,"Unknown","","","",kew-316212
+tro-16900680,A,Juncaceae,,Luzula,,"campestris",var.,"campestris","",Synonym,,L,TRO,16900680,,"","","","",kew-316212
+kew-316226,A,Juncaceae,,Luzula,,"campestris",var.,"capitata","Miq. ex Franch. & Sav.",Synonym,,L,IOPI,316226,,"Enum. Pl. Jap.","2: 97","","1879",kew-316291
+kew-316227,A,Juncaceae,,Luzula,,"campestris",subsp.,"carpetana","Rivas Mart.",Synonym,,L,IOPI,316227,,"Anales Inst. Bot. Cavanilles","21(1): 288","","1963",kew-316484
+kew-316228,A,Juncaceae,,Luzula,,"campestris",f.,"collina","(G.Mey.) Buchenau",Synonym,,L,IOPI,316228,,"Exsicc. (Cyper. Junc.)","1899: 60","","1899",kew-316212
+kew-316229,A,Juncaceae,,Luzula,,"campestris",var.,"collina","G.Mey.",Synonym,,L,IOPI,316229,,"Fl. Hanov. Excurs.","582","","1849",kew-316212
+kew-316933,A,Juncaceae,,Luzula,,"campestris",var.,"columbiana","H.St.John",Synonym,,L,IOPI,316933,,"Madroño","3: 219","","1936",kew-316484
+kew-316230,A,Juncaceae,,Luzula,,"campestris",var.,"comosa","(E.Mey.) Fernald & Wiegand",Synonym,,L,IOPI,316230,146161-2,"Rhodora","15: 41","","1913",kew-316311
+kew-316231,A,Juncaceae,,Luzula,,"campestris",var.,"congesta","(Thuill.) Bicheno",Synonym,,L,IOPI,316231,,"Trans. Linn. Soc. London","12: 334","","1819",kew-316324
+kew-316232,A,Juncaceae,,Luzula,,"campestris",subsp.,"congesta","(Thuill.) K.Richt.",Synonym,,L,IOPI,316232,,"Pl. Eur.","1: 186","","1890",kew-316324
+kew-316233,A,Juncaceae,,Luzula,,"campestris",var.,"crinita","(Hook.f.) Buchenau",Synonym,,L,IOPI,316233,,"Oesterr. Bot. Z.","48: 215","","1898",kew-316327
+kew-316234,A,Juncaceae,,Luzula,,"campestris",var.,"debilis","Velen.",Synonym,,L,IOPI,316234,,"Fl. Bulg.","572","","1891",kew-316765
+kew-316235,A,Juncaceae,,Luzula,,"campestris",var.,"echinata","(Small) Fernald & Wiegand",Synonym,,L,IOPI,316235,146163-2,"Rhodora","15: 42","","1913",kew-316339
+kew-316236,A,Juncaceae,,Luzula,,"campestris",var.,"elata","Schltdl.",Synonym,,L,IOPI,316236,,"Fl. Berol.","1: 203","","1823",kew-316212
+kew-316237,A,Juncaceae,,Luzula,,"campestris",subsp.,"erecta","P.Fourn.",Synonym,,L,IOPI,316237,,"Quatre Fl. France","153","","1935",kew-316484
+kew-316943,A,Juncaceae,,Luzula,,"campestris",var.,"erectiuscula","Kouharov",Synonym,,L,IOPI,316943,,"Izv. Bot. Inst. (Sofia)","11: 134","","1963",kew-316212
+kew-316238,A,Juncaceae,,Luzula,,"campestris",var.,"flaccida","Buchenau",Synonym,,L,IOPI,316238,,"Pflanzenr.","IV, 36: 92","","1906",kew-316362
+kew-316239,A,Juncaceae,,Luzula,,"campestris",var.,"floribunda","Buchenau",Synonym,,L,IOPI,316239,,"Pflanzenr.","IV, 36: 93","","1906",kew-316192
+kew-316240,A,Juncaceae,,Luzula,,"campestris",var.,"frigida","Buchenau",Synonym,,L,IOPI,316240,146164-2,"Oesterr. Bot. Z.","48: 184","","1898",kew-316499
+kew-316242,A,Juncaceae,,Luzula,,"campestris",var.,"glabrata","Hillebr.",Synonym,,L,IOPI,316242,,"Fl. Hawaiian Isl.","449","","1888",kew-316398
+kew-316243,A,Juncaceae,,Luzula,,"campestris",var.,"gracilis","S.Carter",Synonym,,L,IOPI,316243,,"Kew Bull.","17: 179","","1963",kew-316465
+kew-316913,A,Juncaceae,,Luzula,,"campestris",var.,"groenlandica","Laest.",Synonym,,L,IOPI,316913,,"Bot. Not.","1858: 144","","1858",kew-316484
+kew-316244,A,Juncaceae,,Luzula,,"campestris",var.,"hawaiiensis","(Buchenau) O.Deg. & Fosberg",Synonym,,L,IOPI,316244,,"Fl. Hawaiiensis","66: s.p.","","1937",kew-316397
+kew-316915,A,Juncaceae,,Luzula,,"campestris",f.,"hornemannii","Blytt",Synonym,,L,IOPI,316915,,"Norges Fl.","1: 297","","1861",kew-316212
+kew-316245,A,Juncaceae,,Luzula,,"campestris",subsp.,"iberica","P.Monts.",Synonym,,L,IOPI,316245,,"Anales Inst. Bot. Cavanilles","21(2): 492","","1964",kew-316212
+kew-316246,A,Juncaceae,,Luzula,,"campestris",var.,"insularis","Briq.",Synonym,,L,IOPI,316246,,"Prodr. Fl. Corse","1: 246","","1910",kew-316212
+kew-316248,A,Juncaceae,,Luzula,,"campestris",var.,"latifolia","Gaudin",Synonym,,L,IOPI,316248,,"Fl. Helv.","2: 572","","1828",kew-316149
+kew-316249,A,Juncaceae,,Luzula,,"campestris",subsp.,"longistyla","Celak.",Synonym,,L,IOPI,316249,,"Prodr. Fl. Böhmen","1: 85","","1867",kew-316212
+kew-316250,A,Juncaceae,,Luzula,,"campestris",var.,"luteola","(Asch. & Graebn.) V.I.Krecz.",Synonym,,L,IOPI,316250,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316212
+kew-316252,A,Juncaceae,,Luzula,,"campestris",var.,"lutescens","Koidz.",Synonym,,L,IOPI,316252,,"Icon. Pl. Koisik.","1: 105","","1912",kew-316451
+kew-316253,A,Juncaceae,,Luzula,,"campestris",var.,"macrantha","(S.Watson) Fernald & Wiegand",Synonym,,L,IOPI,316253,146165-2,"Rhodora","15: 41","","1913",kew-316740
+kew-316911,A,Juncaceae,,Luzula,,"campestris",var.,"major","Bluff & Fingerh.",Synonym,,L,IOPI,316911,,"Comp. Fl. German.","1: 444","","1825",kew-316212
+kew-316922,A,Juncaceae,,Luzula,,"campestris",var.,"mannii","Buchenau",Synonym,,L,IOPI,316922,,"Bot. Jahrb. Syst.","12: 159","","1890",kew-316464
+kew-316923,A,Juncaceae,,Luzula,,"campestris",subsp.,"mannii","(Kirschner & Cheek) Weim.",Synonym,,L,IOPI,316923,,"Svensk Bot. Tidskr.","40: 173","","1946",kew-316464
+tro-50197395,A,Juncaceae,,Luzula,,"campestris",subsp.,"mannii","(Buchenau) Fern. Casas",Synonym,,L,TRO,50197395,,"Fontqueria","","","1992",kew-316464
+kew-316254,A,Juncaceae,,Luzula,,"campestris",var.,"migrata","Buchenau",Synonym,,L,IOPI,316254,,"Oesterr. Bot. Z.","48: 220","","1898",kew-316192
+kew-316255,A,Juncaceae,,Luzula,,"campestris",var.,"minor","(Satake) S.L.Welsh",Synonym,,L,IOPI,316255,,"Andersons's Fl. Alaska","616","","1974",kew-316437
+kew-316257,A,Juncaceae,,Luzula,,"campestris",subsp.,"multiflora","(Ehrh.) Schübl. & G.Martens",Synonym,,L,IOPI,316257,,"Fl. Würtemberg","230","","1834",kew-316484
+kew-342192,A,Juncaceae,,Luzula,,"campestris",var.,"multiflora","(Ehrh.) Celak.",Synonym,,L,IOPI,342192,,"Prodr. Fl. Böhmen","85","","1869",kew-316484
+tro-50067553,A,Juncaceae,,Luzula,,"campestris",subsp.,"multiflora","(Ehrh.) Buchenau",Synonym,,L,TRO,50067553,,"","","","",kew-316484
+kew-316259,A,Juncaceae,,Luzula,,"campestris",var.,"nemorosa","(Hornem.) Gaudin",Synonym,,L,IOPI,316259,,"Fl. Helv.","2: 572","","1828",kew-316484
+kew-316261,A,Juncaceae,,Luzula,,"campestris",var.,"nigricans","Gaudin",Synonym,,L,IOPI,316261,,"Fl. Helv.","2: 572","","1828",kew-316741
+kew-316262,A,Juncaceae,,Luzula,,"campestris",var.,"nivalis","Laest.",Synonym,,L,IOPI,316262,146168-2,"Kongl. Vetensk. Acad. Handl.","1822: 334","","1822",kew-316552
+kew-316263,A,Juncaceae,,Luzula,,"campestris",var.,"oahuensis","O.Deg. & Fosberg",Synonym,,L,IOPI,316263,,"Fl. Hawaiiensis","66: s.p.","","1937",kew-316400
+kew-316264,A,Juncaceae,,Luzula,,"campestris",var.,"ostenii","Mattf.",Synonym,,L,IOPI,316264,146169-2,"Repert. Spec. Nov. Regni Veg.","17: 438","","1921",kew-316577
+kew-316269,A,Juncaceae,,Luzula,,"campestris",var.,"pallescens","(Sw.) Wahlenb.",Synonym,,L,IOPI,316269,146170-2,"Fl. Suec.","1: 218","","1824",kew-316579
+kew-316270,A,Juncaceae,,Luzula,,"campestris",subsp.,"pallescens","(Sw.) Celak.",Synonym,,L,IOPI,316270,,"Prodr. Fl. Böhmen","4: 749","","1881",kew-316579
+kew-316271,A,Juncaceae,,Luzula,,"campestris",var.,"pallida","Hook.f.",Synonym,,L,IOPI,316271,,"Handb. N. Zeal. Fl.","292","","1864",kew-316619
+kew-316272,A,Juncaceae,,Luzula,,"campestris",var.,"pauciflora","Buchenau",Synonym,,L,IOPI,316272,,"Pflanzenr.","IV, 36: 88","","1906",kew-316574
+kew-316273,A,Juncaceae,,Luzula,,"campestris",var.,"petrieana","Buchenau",Synonym,,L,IOPI,316273,,"Oesterr. Bot. Z.","48: 219","","1898",kew-316329
+kew-316274,A,Juncaceae,,Luzula,,"campestris",var.,"picta","(A.Rich.) Hook.f.",Synonym,,L,IOPI,316274,,"Handb. N. Zeal. Fl.","292","","1864",kew-316615
+kew-316916,A,Juncaceae,,Luzula,,"campestris",var.,"pseudonemorosa","Schur",Synonym,,L,IOPI,316916,,"Enum. Pl. Transsilv.","682","","1866",kew-316212
+kew-316275,A,Juncaceae,,Luzula,,"campestris",subsp.,"pulchella","(Sw.) Celak.",Synonym,,L,IOPI,316275,,"Prodr. Fl. Böhmen","1: 85","","1867",kew-316579
+kew-316276,A,Juncaceae,,Luzula,,"campestris",var.,"pumila","Schltdl.",Synonym,,L,IOPI,316276,,"Fl. Berol.","203","","1823",kew-316212
+kew-316277,A,Juncaceae,,Luzula,,"campestris",var.,"rectirama","Murr",Synonym,,L,IOPI,316277,,"Neue Übers. Bl.-Pfl. Vorarlberg","46","","1923",kew-316212
+kew-316914,A,Juncaceae,,Luzula,,"campestris",var.,"subspicata","Laest.",Synonym,,L,IOPI,316914,,"Bot. Not.","1858: 144","","1858",kew-316484
+kew-316280,A,Juncaceae,,Luzula,,"campestris",subsp.,"taurica","V.I.Krecz.",Synonym,,L,IOPI,316280,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316765
+kew-341447,A,Juncaceae,,Luzula,,"campestris",var.,"tenella","Nyman",Synonym,,L,IOPI,341447,,"Consp. Fl. Eur.","752","","1882",kew-316212
+kew-316281,A,Juncaceae,,Luzula,,"campestris",var.,"terana","P.Monts.",Synonym,,L,IOPI,316281,,"Anales Inst. Bot. Cavanilles","21(2): 492","","1964",kew-316212
+kew-316282,A,Juncaceae,,Luzula,,"campestris",var.,"tristachya","(Desv.) Buchenau",Synonym,,L,IOPI,316282,146171-2,"Bot. Jahrb. Syst.","12: 159","","1890",kew-316772
+kew-316283,A,Juncaceae,,Luzula,,"campestris",var.,"ulei","(Buchenau) Barros",Synonym,,L,IOPI,316283,146172-2,"Sellowia","14: 12","","1962",kew-316775
+kew-316284,A,Juncaceae,,Luzula,,"campestris",var.,"vallesiaca","Beauverd",Synonym,,L,IOPI,316284,,"Bull. Soc. Bot. Genève","10: 285","","1918",kew-316149
+kew-316940,A,Juncaceae,,Luzula,,"campestris",var.,"welwitschii","Cout.",Synonym,,L,IOPI,316940,,"Bol. Soc. Brot.","8: 124","","1890",kew-316212
+kew-316925,A,Juncaceae,,Luzula,,"campestris",var.,"yakusimensis","Masam.",Synonym,,L,IOPI,316925,,"J. Soc. Trop. Agric.","4: 302","","1932",kew-316551
+kew-316288,A,Juncaceae,,Luzula,,"campestroides",,"","H.Lév.",Synonym,Illegitimate,H,IOPI,316288,,"Bull. Acad. Int. Géogr. Bot.","IV, 25: 48","","1917",kew-316212
+tro-16900791,A,Juncaceae,,Luzula,,"camtschadalorum",,"","Gorodk. ex Kryl.",Synonym,,M,TRO,16900791,,"","","","",kew-316178
+kew-316289,A,Juncaceae,,Luzula,,"canariensis",,"","Poir.",Accepted,,H,IOPI,316289,,"Encycl.","Suppl. 3: 532","","1813",
+kew-466413,A,Juncaceae,,Luzula,,"candollei",,"","(E.Mey.) Landolt",Synonym,,H,IOPI,466413,77113872-1,"Fl. Indicativa","269","","2010",kew-316150
+kew-316290,A,Juncaceae,,Luzula,,"capillaris",,"","Steud.",Synonym,,H,IOPI,316290,443749-1,"Syn. Pl. Glumac.","2: 293","","1855",kew-316339
+kew-316291,A,Juncaceae,,Luzula,,"capitata",,"","(Miq. ex Franch. & Sav.) Kom.",Accepted,,H,IOPI,316291,,"Fl. Kamtschatka","1: 288","","1927",
+kew-316292,A,Juncaceae,,Luzula,,"caricina",,"","E.Mey.",Accepted,,H,IOPI,316292,443751-1,"Linnaea","22: 418","","1849",
+kew-316293,A,Juncaceae,,Luzula,,"carolinae",,"","S.Watson",Synonym,,H,IOPI,316293,146175-2,"Proc. Amer. Acad. Arts","14: 302","","1879",kew-316129
+kew-316294,A,Juncaceae,,Luzula,,"carolinae",var.,"saltuensis","(Fernald) Fernald",Synonym,,L,IOPI,316294,146176-2,"Rhodora","40: 404","","1938",kew-316127
+kew-316295,A,Juncaceae,,Luzula,,"carpatica",,"","Kitt. ex Kanitz",Synonym,,H,IOPI,316295,,"Linnaea","32: 327","","1863",kew-316154
+kew-316296,A,Juncaceae,,Luzula,,"caspica",,"","Rupr. ex Bordz.",Synonym,Invalid,H,IOPI,316296,443754-1,"Izv. Kievsk. Bot. Sada","7: 5","","1928",kew-316370
+kew-316297,A,Juncaceae,,Luzula,,"castellanosii",,"","Barros",Synonym,,H,IOPI,316297,146177-2,"Darwiniana","10: 349","","1953",kew-316359
+kew-316298,A,Juncaceae,,Luzula,,"cechica",,"","Domin",Synonym,Invalid,H,IOPI,316298,443755-1,"Preslia","1315: 23","","1935",kew-316622
+kew-316299,A,Juncaceae,,Luzula,,"celata",,"","Edgar",Accepted,,H,IOPI,316299,443756-1,"New Zealand J. Bot.","4: 165","","1966",
+kew-316300,A,Juncaceae,,Luzula,,"chabertii",,"","Rouy",Synonym,,H,IOPI,316300,443757-1,"Fl. France","13: 266","","1912",kew-316212
+kew-316301,A,Juncaceae,,Luzula,,"changaica",,"","Novikov",Synonym,,H,IOPI,316301,938853-1,"Novosti Sist. Vyssh. Rast.","26: 31","","1989",kew-316669
+kew-316302,A,Juncaceae,,Luzula,,"cheesemanii",,"","Buchenau",Synonym,,H,IOPI,316302,443758-1,"Bot. Jahrb. Syst.","12: 146","","1890",kew-316648
+kew-316303,A,Juncaceae,,Luzula,,"chilensis",,"","Nees & Meyen ex Kunth",Accepted,,H,IOPI,316303,,"Enum. Pl.","3: 312","","1841",
+tro-16900509,A,Juncaceae,,Luzula,,"chilensis",f.,"chilensis","",Synonym,,L,TRO,16900509,,"","","","",kew-316303
+kew-316304,A,Juncaceae,,Luzula,,"chilensis",f.,"frequentior","Barros",Synonym,,L,IOPI,316304,146179-2,"Darwiniana","10: 321","","1953",kew-316203
+kew-316305,A,Juncaceae,,Luzula,,"chilensis",f.,"longifolia","Barros",Synonym,,L,IOPI,316305,146180-2,"Darwiniana","10: 322","","1953",kew-316303
+kew-316891,A,Juncaceae,,Luzula,,"chilensis",var.,"pallida","Buchenau ex Fuentes",Synonym,,L,IOPI,316891,146181-2,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","90: 138","","1917",kew-316303
+kew-316306,A,Juncaceae,,Luzula,,"chilensis",f.,"pauciflora","(Phil.) Fuentes",Synonym,,L,IOPI,316306,146182-2,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","10: 138","","1917",kew-316772
+kew-316890,A,Juncaceae,,Luzula,,"chilensis",var.,"psilophylla","(Phil.) Fuentes",Synonym,,L,IOPI,316890,,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","90: 138","","1917",kew-316303
+kew-316307,A,Juncaceae,,Luzula,,"chilensis",f.,"rigida","(Phil.) Fuentes",Synonym,,L,IOPI,316307,146184-2,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","10: 138","","1917",kew-316303
+kew-316308,A,Juncaceae,,Luzula,,"chinensis",,"","N.E.Br.",Synonym,,H,IOPI,316308,443760-1,"J. Linn. Soc., Bot.","36: 161","","1903",kew-316343
+kew-316309,A,Juncaceae,,Luzula,,"colensoi",,"","Hook.f.",Accepted,,H,IOPI,316309,443761-1,"Handb. N. Zeal. Fl.","293","","1864",
+kew-316310,A,Juncaceae,,Luzula,,"colensoi",var.,"macrostemon","Buchenau",Synonym,,L,IOPI,316310,,"Oesterr. Bot. Z.","48: 166","","1898",kew-316309
+kew-316311,A,Juncaceae,,Luzula,,"comosa",,"","E.Mey.",Accepted,,H,IOPI,316311,146186-2,"Syn. Luzul.","21","","1823",
+kew-316312,A,Juncaceae,,Luzula,,"comosa",var.,"comosa","",Synonym,,L,IOPI,316312,,"Unknown","","","",kew-316311
+kew-316313,A,Juncaceae,,Luzula,,"comosa",var.,"congesta","S.Watson",Synonym,,L,IOPI,316313,146187-2,"Bot. California","2: 203","","1880",kew-316311
+kew-316315,A,Juncaceae,,Luzula,,"comosa",var.,"macrantha","S.Watson",Synonym,,L,IOPI,316315,146189-2,"Bot. California","2: 203","","1880",kew-316740
+kew-316316,A,Juncaceae,,Luzula,,"comosa",subsp.,"sitchensis","V.I.Krecz.",Synonym,,L,IOPI,316316,,"Zhurn. Russk. Bot. Obshch.","12: 491","","1928",kew-316437
+kew-316317,A,Juncaceae,,Luzula,,"comosa",var.,"subsessilis","S.Watson",Synonym,,L,IOPI,316317,146190-2,"Bot. California","2: 203","","1880",kew-316740
+kew-316318,A,Juncaceae,,Luzula,,"compacta",,"","(E.Mey.) Dalla Torre & Sarnth.",Synonym,,H,IOPI,316318,,"Farn- u. Blütenpfl. Tirol.","1: 437","","1906",kew-316703
+kew-316319,A,Juncaceae,,Luzula,,"confusa",,"","Lindeb.",Accepted,,H,IOPI,316319,443764-1,"Bot. Not.","1855: 9","","1855",
+kew-316320,A,Juncaceae,,Luzula,,"confusa",f.,"latifolia","Buchenau",Synonym,,L,IOPI,316320,,"Bot. Jahrb. Syst.","12: 125","","1890",kew-316433
+kew-316322,A,Juncaceae,,Luzula,,"confusa",f.,"subspicata","(Lange) Krylov",Synonym,,L,IOPI,316322,,"Fl. Zap. Sibiri","3: 552","","1929",kew-316319
+kew-316323,A,Juncaceae,,Luzula,,"confusa",var.,"subspicata","Lange",Synonym,,L,IOPI,316323,,"Consp. Fl. Groenland.","127","","1880",kew-316319
+kew-316324,A,Juncaceae,,Luzula,,"congesta",,"","(Thuill.) Lej.",Accepted,,H,IOPI,316324,,"Fl. Spa","1: 169","","1811",
+kew-316325,A,Juncaceae,,Luzula,,"correae",,"","Barros",Synonym,,L,IOPI,316325,443767-1,"in Fl. Patagonica","2: 118","","1969",kew-316203
+kew-316326,A,Juncaceae,,Luzula,,"crenulata",,"","Buchenau",Accepted,,H,IOPI,316326,443768-1,"Oesterr. Bot. Z.","48: 209","","1898",
+kew-316327,A,Juncaceae,,Luzula,,"crinita",,"","Hook.f.",Accepted,,H,IOPI,316327,443769-1,"Fl. Antarct.","1: 84","","1844",
+kew-316328,A,Juncaceae,,Luzula,,"crinita",var.,"crinita","",Synonym,,L,IOPI,316328,,"Unknown","","","",kew-316327
+kew-316329,A,Juncaceae,,Luzula,,"crinita",var.,"petrieana","(Buchenau) Edgar",Accepted,,L,IOPI,316329,,"New Zealand J. Bot.","4: 174","","1966",
+tro-100366979,A,Juncaceae,,Luzula,,"cuprina",,"","Rochel & Steud.",Unresolved,,L,TRO,100366979,443770-1,"Nomencl. Bot. (ed. 2)","2: 79","79","1841",
+kew-316330,A,Juncaceae,,Luzula,,"cusickii",,"","Gand.",Synonym,,H,IOPI,316330,146193-2,"Bull. Soc. Bot. France","66: 295","","1919",kew-316703
+kew-316906,A,Juncaceae,,Luzula,×,"danica",,"","H.Nordensk. & Kirschner",Accepted,,H,IOPI,316906,,"Preslia","63: 109","","1991",
+tro-50153796,A,Juncaceae,,Luzula,,"danica",,"","Nordensk. & Kirschner",Unresolved,,L,TRO,50153796,,"","","","",
+kew-316331,A,Juncaceae,,Luzula,,"decipiens",,"","Edgar",Accepted,,H,IOPI,316331,443772-1,"New Zealand J. Bot.","13: 797","","1975",
+kew-316332,A,Juncaceae,,Luzula,,"decolor",,"","Webb & Berthel.",Synonym,,H,IOPI,316332,,"Hist. Nat. Iles Canaries","2(3): 350","","1848",kew-316366
+kew-316333,A,Juncaceae,,Luzula,,"deflexa",,"","Kouharov",Synonym,,H,IOPI,316333,,"Fl. Bulg.","2: 402","","1965",kew-316153
+kew-316334,A,Juncaceae,,Luzula,,"densiflora",,"","(H.Nordensk.) Edgar",Accepted,,H,IOPI,316334,443775-1,"New Zealand J. Bot.","13: 786","","1975",
+kew-316335,A,Juncaceae,,Luzula,,"denticulata",,"","Liebm.",Accepted,,H,IOPI,316335,443776-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","2: 46","","1850",
+kew-316948,A,Juncaceae,,Luzula,,"depauperata",,"","Beyer",Synonym,,H,IOPI,316948,443777-1,"Verh. Bot. Vereins Prov. Brandenburg","41: xxvi","","1900",kew-316149
+kew-316336,A,Juncaceae,,Luzula,,"desvauxii",,"","Kunth",Accepted,,H,IOPI,316336,443778-1,"Enum. Pl.","3: 304","","1841",
+kew-316337,A,Juncaceae,,Luzula,,"divaricata",,"","S.Watson",Accepted,,H,IOPI,316337,,"Proc. Amer. Acad. Arts","n.s., 6: 302","","1879",
+kew-316338,A,Juncaceae,,Luzula,,"divulgata",,"","Kirschner",Accepted,,H,IOPI,316338,443780-1,"Folia Geobot. Phytotax.","14: 431","","1979 publ. 1980",
+kew-347277,A,Juncaceae,,Luzula,,"divulgatiformis",,"","Bacic & Jogan",Accepted,,H,IOPI,347277,,"Taxon","56: 131","","2007",
+kew-316339,A,Juncaceae,,Luzula,,"echinata",,"","(Small) F.J.Herm.",Accepted,,H,IOPI,316339,146196-2,"Rhodora","40: 84","","1938",
+tro-16900633,A,Juncaceae,,Luzula,,"echinata",var.,"echinata","",Synonym,,L,TRO,16900633,,"","","","",kew-316339
+kew-316340,A,Juncaceae,,Luzula,,"echinata",var.,"mesochorea","F.J.Herm.",Synonym,,L,IOPI,316340,146197-2,"Rhodora","40: 84","","1938",kew-316339
+kew-316341,A,Juncaceae,,Luzula,,"ecuadoriensis",,"","Balslev",Accepted,,H,IOPI,316341,146198-2,"Fl. Ecuador","11: 11","","1979",
+kew-316342,A,Juncaceae,,Luzula,,"effusa",,"","Buchenau",Accepted,,H,IOPI,316342,,"Krit. Verz. Juncac.","88","","1879",
+kew-316343,A,Juncaceae,,Luzula,,"effusa",var.,"chinensis","(N.E.Br.) K.F.Wu",Accepted,,L,IOPI,316343,1009432-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 92","","1992",
+kew-316344,A,Juncaceae,,Luzula,,"effusa",var.,"effusa","",Synonym,,L,IOPI,316344,,"Unknown","","","",kew-316342
+kew-316345,A,Juncaceae,,Luzula,,"elata",,"","Satake",Synonym,,H,IOPI,316345,443784-1,"J. Jap. Bot.","14: 260","","1938",kew-316426
+kew-316346,A,Juncaceae,,Luzula,,"elata",var.,"nasuensis","Satake",Synonym,,L,IOPI,316346,,"J. Jap. Bot.","46(4): 111","","1971",kew-316426
+kew-316347,A,Juncaceae,,Luzula,,"elegans",,"","Lowe",Accepted,,H,IOPI,316347,443785-1,"Trans. Cambridge Philos. Soc.","6(3): 532","","1838",
+kew-316348,A,Juncaceae,,Luzula,,"elegans",,"","Guthnick ex E.Mey.",Synonym,Illegitimate,H,IOPI,316348,,"Linnaea","22: 392","","1849",kew-316651
+kew-316349,A,Juncaceae,,Luzula,,"erecta",,"","Desv.",Synonym,Illegitimate,H,IOPI,316349,443787-1,"J. Bot. (Desvaux)","1: 156","","1808",kew-316484
+kew-341445,A,Juncaceae,,Luzula,,"erecta",var.,"calabra","(Ten.) Nyman",Synonym,,L,IOPI,341445,,"Consp. Fl. Eur.","752","","1882",kew-316211
+kew-316351,A,Juncaceae,,Luzula,,"erecta",var.,"congesta","(Thuill.) Desv.",Synonym,,L,IOPI,316351,146199-2,"J. Bot. (Desvaux)","1: 156","","1809",kew-316324
+kew-316352,A,Juncaceae,,Luzula,,"erecta",var.,"micrantha","Schltdl.",Synonym,,L,IOPI,316352,,"Fl. Berol.","1: 204","","1823",kew-316579
+kew-316355,A,Juncaceae,,Luzula,,"erecta",var.,"pallens","Rouy",Synonym,,L,IOPI,316355,,"Fl. France","13: 265","","1912",kew-316484
+kew-316356,A,Juncaceae,,Luzula,,"erecta",subsp.,"pallescens","(Sw.) Nyman",Synonym,,L,IOPI,316356,,"Consp. Fl. Eur.","752","","1882",kew-316579
+kew-316357,A,Juncaceae,,Luzula,,"erecta",var.,"pallescens","(Sw.) Nolte ex Sond.",Synonym,,L,IOPI,316357,,"Fl. Hamburg.","200","","1851",kew-316579
+kew-316359,A,Juncaceae,,Luzula,,"excelsa",,"","Buchenau",Accepted,,H,IOPI,316359,307991-2,"Abh. Naturwiss. Vereins Bremen","4: 126","","1874",
+kew-347278,A,Juncaceae,,Luzula,,"exspectata",,"","Bacic & Jogan",Accepted,,H,IOPI,347278,,"Taxon","56: 131","","2007",
+kew-316360,A,Juncaceae,,Luzula,,"fallax",,"","Kirschner",Accepted,,H,IOPI,316360,959318-1,"Preslia","63: 84","","1991",
+kew-316361,A,Juncaceae,,Luzula,,"fastigiata",,"","E.Mey.",Synonym,,H,IOPI,316361,146201-2,"Syn. Luzul.","9","","1823",kew-316593
+kew-316864,A,Juncaceae,,Luzula,×,"favratii",,"","K.Richt.",Accepted,,H,IOPI,316864,443790-1,"Pl. Eur.","1: 185","","1890",
+kew-316362,A,Juncaceae,,Luzula,,"flaccida",,"","(Buchenau) Edgar",Accepted,,H,IOPI,316362,443791-1,"New Zealand J. Bot.","13: 786","","1975",
+kew-316363,A,Juncaceae,,Luzula,,"flavescens",,"","(Host) Gaudin",Synonym,,H,IOPI,316363,,"Agrost. Helv.","2: 239","","1811",kew-316452
+kew-316364,A,Juncaceae,,Luzula,,"flavescens",var.,"murrea","(P.Fourn.) P.Fourn.",Synonym,,L,IOPI,316364,,"Quatre Fl. France","152","","1935",kew-316452
+kew-316365,A,Juncaceae,,Luzula,,"formosana",,"","Ohwi",Accepted,,H,IOPI,316365,443793-1,"Acta Phytotax. Geobot.","1: 79","","1932",
+kew-316366,A,Juncaceae,,Luzula,,"forsteri",,"","(Sm.) DC.",Accepted,,H,IOPI,316366,443795-1,"Syn. Pl. Fl. Gall.","150","","1806",
+kew-316368,A,Juncaceae,,Luzula,,"forsteri",subsp.,"baetica","P.Monts.",Synonym,,L,IOPI,316368,,"Anales Inst. Bot. Cavanilles","21(2): 425","","1964",kew-316366
+kew-316369,A,Juncaceae,,Luzula,,"forsteri",subsp.,"cantabrica","P.Monts.",Synonym,,L,IOPI,316369,,"Anales Inst. Bot. Cavanilles","21(2): 424","","1964",kew-316366
+kew-316370,A,Juncaceae,,Luzula,,"forsteri",subsp.,"caspica","Novikov",Accepted,,L,IOPI,316370,966500-1,"Novosti Sist. Vyssh. Rast.","27: 18","","1990",
+kew-316371,A,Juncaceae,,Luzula,,"forsteri",subsp.,"catalaunica","P.Monts.",Synonym,,L,IOPI,316371,,"Collect. Bot. (Barcelona)","6(12/1): 47","","1962",kew-316366
+kew-316372,A,Juncaceae,,Luzula,,"forsteri",subsp.,"flaccida","Asch. & Graebn.",Synonym,,L,IOPI,316372,,"Syn. Mitteleur. Fl.","2(2): 493","","1904",kew-316366
+kew-316373,A,Juncaceae,,Luzula,,"forsteri",subsp.,"forsteri","",Synonym,,L,IOPI,316373,,"Unknown","","","",kew-316366
+kew-316374,A,Juncaceae,,Luzula,,"forsteri",var.,"latifolia","Bordz.",Synonym,,L,IOPI,316374,,"Izv. Kievsk. Bot. Sada","7: 5","","1928",kew-316370
+kew-316946,A,Juncaceae,,Luzula,,"forsteri",var.,"macrantha","Kouharov",Synonym,,L,IOPI,316946,,"in Fl. Nar. Republ. Bulgariya","2: 402","","1964",kew-316366
+kew-316947,A,Juncaceae,,Luzula,,"forsteri",var.,"macrospica","Kouharov",Synonym,,L,IOPI,316947,,"in Fl. Nar. Republ. Bulgariya","2: 402","","1964",kew-316366
+kew-316945,A,Juncaceae,,Luzula,,"forsteri",var.,"media","Kouharov",Synonym,,L,IOPI,316945,,"in Fl. Nar. Republ. Bulgariya","2: 401","","1964",kew-316366
+kew-316375,A,Juncaceae,,Luzula,,"forsteri",var.,"pallida","Parl.",Synonym,,L,IOPI,316375,,"Fl. Ital.","2: 295","","1852",kew-316366
+kew-316376,A,Juncaceae,,Luzula,,"forsteri",subsp.,"rhizomata","(Ebinger) Z.Kaplan",Accepted,,L,IOPI,316376,1020794-1,"Preslia","73: 60","","2001",
+kew-316377,A,Juncaceae,,Luzula,,"forsteri",var.,"rhizomata","Ebinger",Synonym,,L,IOPI,316377,,"Mem. New York Bot. Gard.","10(5): 289","","1964",kew-316376
+kew-316378,A,Juncaceae,,Luzula,,"frigida",,"","(Buchenau) Sam.",Synonym,,H,IOPI,316378,146202-2,"Sv. Fanerogamfl.","161","","1918",kew-316499
+kew-316379,A,Juncaceae,,Luzula,,"fuscata",,"","Schur",Synonym,,H,IOPI,316379,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt","10: 200","","1859",kew-316458
+kew-316893,A,Juncaceae,,Luzula,×,"gayana",,"","Font Quer & Rothm.",Accepted,,H,IOPI,316893,443799-1,"Cavanillesia","7: 175","","1936",
+kew-316381,A,Juncaceae,,Luzula,,"gesneri",,"","Bubani",Synonym,Illegitimate,H,IOPI,316381,443800-1,"Fl. Pyren.","4: 170","","1901",kew-316366
+kew-316382,A,Juncaceae,,Luzula,,"gigantea",,"","Desv.",Accepted,,H,IOPI,316382,443801-1,"J. Bot. (Desvaux)","1: 145","","1808",
+kew-316383,A,Juncaceae,,Luzula,,"gigantea",var.,"vulcanica","Woodson",Synonym,,L,IOPI,316383,146204-2,"Ann. Missouri Bot. Gard.","26: 278","","1939",kew-316335
+kew-316384,A,Juncaceae,,Luzula,,"glabrata",,"","(Hoppe) Desv.",Accepted,,H,IOPI,316384,443803-1,"J. Bot. (Desvaux)","1: 143","","1808",
+kew-316385,A,Juncaceae,,Luzula,,"glabrata",subsp.,"deflexa","(Kouharov) Kozhukh.",Synonym,,L,IOPI,316385,,"Opred. Vissh. Rast. B'lgar.","786","","1992",kew-316153
+kew-316387,A,Juncaceae,,Luzula,,"glabrata",subsp.,"desvauxii","(Kunth) K.Richt.",Synonym,,L,IOPI,316387,,"Pl. Eur.","1: 185","","1890",kew-316336
+kew-316388,A,Juncaceae,,Luzula,,"glabrata",var.,"desvauxii","(Kunth) Buchenau",Synonym,,L,IOPI,316388,,"Krit. Verz. Juncac.","83","","1879",kew-316336
+kew-316389,A,Juncaceae,,Luzula,,"glabrata",var.,"hitchcockii","(Hämet-Ahti) Dorn",Synonym,,L,IOPI,316389,973456-1,"Vasc. Pl. Wyoming","297","","1988",kew-316406
+kew-316391,A,Juncaceae,,Luzula,,"glabrescens",,"","(Schrank) Dalla Torre & Sarnth.",Synonym,,H,IOPI,316391,443804-1,"Farn- u. Blütenpfl. Tirol.","1: 434","","1906",kew-316384
+kew-316392,A,Juncaceae,,Luzula,,"glomerata",,"","Miel. ex Huebener",Synonym,,H,IOPI,316392,,"Flora","22: 489","","1839",kew-316707
+kew-316393,A,Juncaceae,,Luzula,,"graeca",,"","(Chaub. & Bory) Kunth",Synonym,,H,IOPI,316393,443807-1,"Enum. Pl.","3: 310","","1841",kew-316564
+tro-50304878,A,Juncaceae,,Luzula,,"graecans",,"","Chaub. & Bory",Unresolved,,L,TRO,50304878,,"Nouv. Fl. Pélop.","23, t. 12, f. 1","23","1838",
+kew-316394,A,Juncaceae,,Luzula,,"groenlandica",,"","Böcher",Accepted,,H,IOPI,316394,,"Meddel. Grønland","67(7): 18","","1950",
+kew-316395,A,Juncaceae,,Luzula,,"groenlandica",var.,"fuscoatra","Böcher",Synonym,,L,IOPI,316395,146207-2,"Meddel. Grønland","67(7): 18","","1950",kew-316394
+kew-316867,A,Juncaceae,,Luzula,×,"hasleri",,"","Murr",Accepted,,H,IOPI,316867,443810-1,"Magyar Bot. Lapok","28: 68","","1930",
+kew-316396,A,Juncaceae,,Luzula,,"haussknechtiana",,"","Freyn & Sint.",Synonym,,H,IOPI,316396,443811-1,"Bull. Herb. Boissier","4: 200","","1896",kew-316747
+kew-316397,A,Juncaceae,,Luzula,,"hawaiiensis",,"","Buchenau",Accepted,,H,IOPI,316397,,"Krit. Verz. Juncac.","85","","1879",
+kew-316398,A,Juncaceae,,Luzula,,"hawaiiensis",var.,"glabrata","(Hillebr.) O.Deg. & I.Deg.",Accepted,,L,IOPI,316398,,"Fl. Hawaiiensis","5, index","","1957",
+kew-316399,A,Juncaceae,,Luzula,,"hawaiiensis",var.,"hawaiiensis","",Synonym,,L,IOPI,316399,,"Unknown","","","",kew-316397
+kew-316400,A,Juncaceae,,Luzula,,"hawaiiensis",var.,"oahuensis","(O.Deg. & Fosberg) O.Deg. & I.Deg.",Accepted,,L,IOPI,316400,,"Fl. Hawaiiensis","5, index","","1957",
+kew-316909,A,Juncaceae,,Luzula,×,"heddae",,"","Kirschner",Accepted,,H,IOPI,316909,959319-1,"Preslia","63: 93","","1991",
+kew-316401,A,Juncaceae,,Luzula,,"henriquesii",,"","Degen",Synonym,,H,IOPI,316401,443813-1,"Magyar Bot. Lapok","5: 9","","1906",kew-316754
+kew-316863,A,Juncaceae,,Luzula,×,"hermannii-muelleri",,"","Asch. & Graebn.",Accepted,,H,IOPI,316863,,"Syn. Mitteleur. Fl.","2(2): 507","","1904",
+kew-316402,A,Juncaceae,,Luzula,,"hieronymi",,"","Buchenau & Griseb.",Synonym,,H,IOPI,316402,308881-2,"Symb. Fl. Argent.","318","","1879",kew-316359
+kew-316403,A,Juncaceae,,Luzula,,"hieronymi",f.,"bonariensis","Barros",Synonym,,L,IOPI,316403,307330-2,"Darwiniana","10: 335","","1953",kew-316359
+kew-316404,A,Juncaceae,,Luzula,,"hieronymi",var.,"pusilla","Castillón",Synonym,,L,IOPI,316404,304768-2,"Bol. Mus. Hist. Nat., Tucuman","7: 19","","1926",kew-316359
+tro-50065173,A,Juncaceae,,Luzula,,"hieronymii",f.,"pusilla","(Castillón) Novara",Synonym,,L,TRO,50065173,987164-1,"Hickenia","2(31): 138","138","1995",kew-316359
+kew-316405,A,Juncaceae,,Luzula,,"hispanica",,"","Chrtek & Křísa",Unresolved,,L,IOPI,316405,443815-1,"Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag.","1965: 28","","1965",kew-316722
+kew-464599,A,Juncaceae,,Luzula,,"hispanica",subsp.,"nevadensis","(P.Monts.) Rivas Mart.",Synonym,,L,IOPI,464599,20009365-1,"Itin. Geobot.","15: 704","","2002",kew-316722
+kew-316406,A,Juncaceae,,Luzula,,"hitchcockii",,"","Hämet-Ahti",Accepted,,H,IOPI,316406,279950-2,"Ann. Bot. Fenn.","8: 370","","1971",
+kew-316407,A,Juncaceae,,Luzula,,"hostii",,"","Desv.",Synonym,Illegitimate,H,IOPI,316407,443817-1,"J. Bot. (Desvaux)","1: 140","","1808",kew-316452
+kew-316408,A,Juncaceae,,Luzula,,"hostii",subsp.,"murrea","(P.Fourn.) P.Fourn.",Synonym,,L,IOPI,316408,,"Monde Pl.","212: 12","","1935",kew-316452
+kew-316409,A,Juncaceae,,Luzula,,"hostii",var.,"murrea","P.Fourn.",Synonym,,L,IOPI,316409,,"Monde Pl.","205: 4","","1934",kew-316452
+kew-316410,A,Juncaceae,,Luzula,,"humilis",,"","Buchenau",Synonym,,H,IOPI,316410,310700-2,"Abh. Naturwiss. Vereins Bremen","4: 125","","1874",kew-316652
+kew-316910,A,Juncaceae,,Luzula,×,"hybrida",,"","H.Lindb. ex Kirschner",Accepted,,H,IOPI,316910,959320-1,"Preslia","63: 93","","1991",
+kew-316411,A,Juncaceae,,Luzula,,"hyperborea",,"","R.Br.",Synonym,,H,IOPI,316411,,"Chlor. Melvill.","283","","1823",kew-316319
+kew-316412,A,Juncaceae,,Luzula,,"hyperborea",var.,"extensa","Scheutz",Synonym,,L,IOPI,316412,,"Kongl. Svenska Vetensk. Acad. Handl.","n.s., 22(10): 169","","1888",kew-316319
+kew-316413,A,Juncaceae,,Luzula,,"hyperborea",var.,"latifolia","(Buchenau) B.Boivin",Synonym,,L,IOPI,316413,146214-2,"Naturaliste Canad.","94: 526","","1967",kew-316433
+kew-316938,A,Juncaceae,,Luzula,,"hyperborea",var.,"major","Hook.",Synonym,,L,IOPI,316938,,"Fl. Bor.-Amer.","2: 188","","1840",kew-316319
+kew-316899,A,Juncaceae,,Luzula,,"hyperborea",var.,"minor","Hook.",Synonym,,L,IOPI,316899,,"Fl. Bor.-Amer.","2: 188","","1840",kew-316319
+kew-374804,A,Juncaceae,,Luzula,,"ignivoma",,"","Kirschner",Accepted,,H,IOPI,374804,,"Novon","17: 202","","2007",
+kew-316928,A,Juncaceae,,Luzula,,"inaequalis",,"","K.F.Wu",Accepted,,H,IOPI,316928,1009435-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 97","","1992",
+kew-316414,A,Juncaceae,,Luzula,,"indica",,"","Kirschner",Accepted,,H,IOPI,316414,20003353-1,"Taxon","50: 1108","","2001",
+kew-316415,A,Juncaceae,,Luzula,,"insularis",,"","(Briq.) Prain",Synonym,,H,IOPI,316415,,"Index Kew.","Suppl. 5: 157","","1921",kew-316212
+kew-316416,A,Juncaceae,,Luzula,,"insularis",,"","(Skottsb.) Skottsb.",Synonym,Illegitimate,H,IOPI,316416,146217-2,"Veröff. Geobot. Inst. Rübel Zürich","3: 89","","1925",kew-316467
+kew-316417,A,Juncaceae,,Luzula,,"intermedia",,"","Figert",Synonym,Illegitimate,H,IOPI,316417,,"Deutsche Bot. Monatsschr.","15: 12","","1897",kew-316484
+kew-316418,A,Juncaceae,,Luzula,,"intermedia",,"","Baumg.",Synonym,Illegitimate,H,IOPI,316418,443824-1,"Enum. Stirp. Transsilv.","3: 330","","1816",kew-316384
+kew-316419,A,Juncaceae,,Luzula,,"intermedia",,"","(Thuill.) Spenn.",Synonym,Illegitimate,H,IOPI,316419,443825-1,"Fl. Friburg.","1: 177","","1825",kew-316484
+tro-16900401,A,Juncaceae,,Luzula,,"intermedia",,"","(Thuill.) A. Nelson",Synonym,,M,TRO,16900401,146218-2,"New Man. Bot. Centr. Rocky Mt.","109","109","1909",kew-316311
+kew-316420,A,Juncaceae,,Luzula,,"intermedia",var.,"congesta","(Thuill.) Spenn.",Synonym,,L,IOPI,316420,146219-2,"Fl. Friburg.","1: 178","","1825",kew-316324
+kew-316421,A,Juncaceae,,Luzula,,"intermedia",var.,"multiflora","(Ehrh.) Spenn.",Synonym,,L,IOPI,316421,,"Fl. Friburg.","1: 178","","1825",kew-316484
+kew-316422,A,Juncaceae,,Luzula,,"interrupta",,"","Desv.",Synonym,,H,IOPI,316422,443828-1,"J. Bot. (Desvaux)","1: 163","","1808",kew-316292
+tro-50136744,A,Juncaceae,,Luzula,,"involucratus",,"","Steud. ex Buchenau",Unresolved,,L,TRO,50136744,443829-1,"Abh. Naturwiss. Vereine Bremen","4: 121","121","1874",
+kew-316423,A,Juncaceae,,Luzula,,"italica",,"","Parl.",Synonym,,H,IOPI,316423,443830-1,"Fl. Ital.","2: 309","","1857",kew-316711
+kew-316424,A,Juncaceae,,Luzula,,"japonica",,"","Buchenau",Synonym,,H,IOPI,316424,443831-1,"Bot. Jahrb. Syst.","12: 82","","1890",kew-316635
+kew-316425,A,Juncaceae,,Luzula,,"jilongensis",,"","K.F.Wu",Synonym,,H,IOPI,316425,1009434-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 95","","1992",kew-316484
+kew-316426,A,Juncaceae,,Luzula,,"jimboi",,"","Miyabe & Kudo",Accepted,,H,IOPI,316426,,"Trans. Sapporo Nat. Hist. Soc.","5: 37","","1913",
+kew-316428,A,Juncaceae,,Luzula,,"jimboi",var.,"integra","Satake",Synonym,,L,IOPI,316428,,"Nov. Fl. Jap.","1: 25","","1938",kew-316635
+kew-316429,A,Juncaceae,,Luzula,,"jimboi",subsp.,"jimboi","",Synonym,,L,IOPI,316429,,"Unknown","","","",kew-316426
+kew-316868,A,Juncaceae,,Luzula,×,"johannis-principis",,"","Murr",Accepted,,H,IOPI,316868,443834-1,"Liechtenst. Volksblatt","1921(21 June): 49","","1921",
+kew-316430,A,Juncaceae,,Luzula,,"johnstonii",,"","Buchenau",Accepted,,H,IOPI,316430,443835-1,"Bot. Jahrb. Syst.","12: 79","","1890",
+kew-316431,A,Juncaceae,,Luzula,,"juncoides",,"","Poir.",Synonym,,H,IOPI,316431,,"Encycl.","Suppl. 3: 535","","1813",kew-315413
+kew-316432,A,Juncaceae,,Luzula,,"kamtschadalorum",,"","(Sam.) Gorodkov ex Krylov",Synonym,,H,IOPI,316432,443838-1,"Fl. Zap. Sibiri","3: 551","","1929",kew-316178
+kew-316433,A,Juncaceae,,Luzula,,"kjellmaniana",,"","Miyabe & Kudo",Accepted,,H,IOPI,316433,,"Trans. Sapporo Nat. Hist. Soc.","5: 38","","1913",
+kew-316434,A,Juncaceae,,Luzula,,"kjellmaniana",subsp.,"frigida","(Buchenau) Schljakov",Synonym,,L,IOPI,316434,883732-1,"Novosti Sist. Vyssh. Rast.","16: 85","","1979",kew-316499
+kew-316436,A,Juncaceae,,Luzula,,"kjellmaniana",subsp.,"sibirica","(V.I.Krecz.) Schljakov",Synonym,,L,IOPI,316436,883733-1,"Novosti Sist. Vyssh. Rast.","16: 85","","1979",kew-316520
+kew-316437,A,Juncaceae,,Luzula,,"kobayasii",,"","Satake",Accepted,,H,IOPI,316437,146221-2,"Bot. Mag. (Tokyo)","46: 186","","1932",
+kew-316438,A,Juncaceae,,Luzula,,"kobayasii",var.,"minor","Satake",Synonym,,L,IOPI,316438,146222-2,"Bot. Mag. (Tokyo)","46: 187","","1932",kew-316437
+kew-316439,A,Juncaceae,,Luzula,,"labradorica",,"","Steud.",Synonym,Illegitimate,H,IOPI,316439,443842-1,"Syn. Pl. Glumac.","2: 291","","1855",kew-316596
+kew-316950,A,Juncaceae,,Luzula,,"labradorica",,"","Raf.",Synonym,,H,IOPI,316950,443843-1,"Autik. Bot.","193","","1840",kew-316596
+kew-316440,A,Juncaceae,,Luzula,,"lactea",,"","(Link) E.Mey.",Accepted,,H,IOPI,316440,443845-1,"Syn. Luzul.","15","","1823",
+kew-316441,A,Juncaceae,,Luzula,,"lactea",var.,"lactea","",Synonym,,L,IOPI,316441,,"Unknown","","","",kew-316440
+kew-316442,A,Juncaceae,,Luzula,,"lactea",var.,"velutina","(Lange) Cout.",Accepted,,L,IOPI,316442,,"Bol. Soc. Brot.","8: 122","","1890",
+kew-316443,A,Juncaceae,,Luzula,,"lactea",subsp.,"velutina","(Lange) Nyman",Synonym,,L,IOPI,316443,,"Consp. Fl. Eur.","751","","1882",kew-316442
+kew-316444,A,Juncaceae,,Luzula,,"laetevirens",,"","Liebm.",Synonym,,H,IOPI,316444,443846-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","2: 46","","1850",kew-316335
+kew-316445,A,Juncaceae,,Luzula,,"latifolia",,"","Liebm.",Synonym,,H,IOPI,316445,443847-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","2: 47","","1850",kew-316335
+kew-316446,A,Juncaceae,,Luzula,,"leiboldii",,"","Buchenau",Accepted,,H,IOPI,316446,,"Junc. S. Amer.","418","","1880",
+kew-316447,A,Juncaceae,,Luzula,,"leptophylla",,"","Buchenau & Petrie",Accepted,,H,IOPI,316447,443849-1,"Oesterr. Bot. Z.","48: 214","","1898",
+kew-316866,A,Juncaceae,,Luzula,×,"levieri",,"","Asch. & Graebn.",Accepted,,H,IOPI,316866,443850-1,"Syn. Mitteleur. Fl.","2(2): 509","","1904",
+kew-316448,A,Juncaceae,,Luzula,,"longiflora",,"","Benth.",Accepted,,H,IOPI,316448,443851-1,"Fl. Austral.","7: 123","","1878",
+kew-316449,A,Juncaceae,,Luzula,,"lutea",,"","(All.) DC.",Accepted,,H,IOPI,316449,443852-1,"Fl. Franç.","ed. 3, 3: 159","","1805",
+kew-316450,A,Juncaceae,,Luzula,,"lutea",subsp.,"pyrenaica","P.Monts.",Synonym,,L,IOPI,316450,,"Anales Inst. Bot. Cavanilles","21(2): 438","","1964",kew-316449
+kew-316451,A,Juncaceae,,Luzula,,"lutescens",,"","(Koidz.) Kirschner & Miyam.",Accepted,,H,IOPI,316451,20003358-1,"Taxon","50: 1110","","2001",
+kew-316452,A,Juncaceae,,Luzula,,"luzulina",,"","(Vill.) Racib.",Accepted,,H,IOPI,316452,,"Spraw. Komis. Fizjogr.","22(2): 21","","1888",
+tro-16900013,A,Juncaceae,,Luzula,,"luzulina",,"","Dt. & Sarnth.",Unresolved,,L,TRO,16900013,,"","","","",
+kew-316453,A,Juncaceae,,Luzula,,"luzuloides",,"","(Lam.) Dandy & Wilmott",Accepted,,H,IOPI,316453,146224-2,"J. Bot.","76: 352","","1938",
+kew-316454,A,Juncaceae,,Luzula,,"luzuloides",subsp.,"cuprina","(Asch. & Graebn.) Chrtek & Krísa",Synonym,,L,IOPI,316454,883734-1,"Preslia","46: 212","","1974",kew-316458
+kew-316455,A,Juncaceae,,Luzula,,"luzuloides",var.,"erythranthema","(Wallr.) I.Grint.",Synonym,,L,IOPI,316455,,"Fl. Reipubl. Popul. Roman.","11: 592","","1966",kew-316458
+kew-316456,A,Juncaceae,,Luzula,,"luzuloides",subsp.,"luzuloides","",Synonym,,L,IOPI,316456,,"Unknown","","","",kew-316453
+kew-316457,A,Juncaceae,,Luzula,,"luzuloides",var.,"parviflora","(Döll) I.Grint.",Synonym,,L,IOPI,316457,,"Fl. Reipubl. Popul. Roman.","11: 591","","1966.",kew-316453
+kew-316458,A,Juncaceae,,Luzula,,"luzuloides",subsp.,"rubella","(Hoppe ex Mert. & W.D.J.Koch) Holub",Accepted,,L,IOPI,316458,922343-1,"Folia Geobot. Phytotax.","18: 205","","1983",
+kew-316459,A,Juncaceae,,Luzula,,"luzuloides",subsp.,"tenacissima","Vivant",Synonym,,L,IOPI,316459,883735-1,"Bull. Soc. Bot. France","126: 259","","1979",kew-316458
+kew-316460,A,Juncaceae,,Luzula,,"macrocarpa",,"","(Buchenau) Nakai",Synonym,,H,IOPI,316460,,"Rep. Veg. Quelpaert","30","","1914",kew-316669
+kew-316461,A,Juncaceae,,Luzula,,"macrocarpa",var.,"laxa","Nakai",Synonym,,L,IOPI,316461,,"Rep. Veg. Quelpaert","30","","1914",kew-316669
+kew-316462,A,Juncaceae,,Luzula,,"macrotricha",,"","Steud.",Synonym,Illegitimate,H,IOPI,316462,443855-1,"Syn. Pl. Glumac.","2: 294","","1855",kew-316123
+kew-316463,A,Juncaceae,,Luzula,,"macusaniensis",,"","Steud. ex Buchenau",Synonym,,H,IOPI,316463,,"Abh. Naturwiss. Vereins Bremen","4: 131","","1874",kew-316652
+kew-316464,A,Juncaceae,,Luzula,,"mannii",,"","(Buchenau) Kirschner & Cheek",Accepted,,H,IOPI,316464,1017497-1,"Kew Bull.","55: 900","","2000",
+kew-316465,A,Juncaceae,,Luzula,,"mannii",subsp.,"gracilis","(S.Carter) Kirschner & Cheek",Accepted,,L,IOPI,316465,1017498-1,"Kew Bull.","55: 901","","2000",
+kew-316466,A,Juncaceae,,Luzula,,"mannii",subsp.,"mannii","",Synonym,,L,IOPI,316466,,"Unknown","","","",kew-316464
+kew-316467,A,Juncaceae,,Luzula,,"masafuerana",,"","Skottsb.",Accepted,,H,IOPI,316467,443858-1,"Nat. Hist. Juan Fernandez","2: 775","","1953",
+kew-316469,A,Juncaceae,,Luzula,,"maxima",,"","(Reichard) DC.",Synonym,,H,IOPI,316469,,"Fl. Franç.","ed. 3, 3: 161","","1805",kew-316747
+kew-316471,A,Juncaceae,,Luzula,,"maxima",var.,"gracilis","(Rostr. ex Beeby) Nyman",Synonym,,L,IOPI,316471,,"Consp. Fl. Eur.","Suppl. 2: 314","","1890",kew-316747
+kew-316473,A,Juncaceae,,Luzula,,"maxima",subsp.,"sicula","(Parl.) Nyman",Synonym,,L,IOPI,316473,,"Consp. Fl. Eur.","751","","1882",kew-316760
+kew-316474,A,Juncaceae,,Luzula,,"maxima",subsp.,"sieberi","(Tausch) P.Fourn.",Synonym,,L,IOPI,316474,,"Fl. Compl. Plaine Franç.","527","","1928",kew-316761
+kew-341442,A,Juncaceae,,Luzula,,"maxima",var.,"sieberi","(Tausch) Nyman",Synonym,,L,IOPI,341442,,"Consp. Fl. Eur.","751","","1882",kew-316761
+kew-316908,A,Juncaceae,,Luzula,×,"media",,"","Kirschner",Accepted,,H,IOPI,316908,,"Preslia","63: 107","","1991",
+tro-16900016,A,Juncaceae,,Luzula,,"melanocarpa",,"","Desv.",Accepted,,M,TRO,16900016,443861-1,"J. Bot. (Desvaux)","1: 142","142","1808",
+kew-316475,A,Juncaceae,,Luzula,,"melanocarpa",var.,"fastigiata","(E.Mey.) E.Mey.",Synonym,,L,IOPI,316475,,"Linnaea","3: 374","","1828",kew-316593
+kew-316476,A,Juncaceae,,Luzula,,"mendocina",,"","Barros",Accepted,,H,IOPI,316476,146227-2,"Darwiniana","10: 322","","1953",
+kew-316477,A,Juncaceae,,Luzula,,"meridionalis",,"","H.Nordensk.",Accepted,,H,IOPI,316477,,"Bot. Not.","122: 71","","1969",
+kew-316478,A,Juncaceae,,Luzula,,"meridionalis",var.,"densiflora","H.Nordensk.",Synonym,,L,IOPI,316478,,"Bot. Not.","122: 76","","1969",kew-316334
+kew-316479,A,Juncaceae,,Luzula,,"meridionalis",var.,"flaccida","(Buchenau) H.Nordensk.",Synonym,,L,IOPI,316479,,"Bot. Not.","122: 76","","1969",kew-316362
+kew-316480,A,Juncaceae,,Luzula,,"micrantha",,"","Buchenau",Synonym,,H,IOPI,316480,443864-1,"Oesterr. Bot. Z.","48: 166","","1898",kew-316648
+kew-316481,A,Juncaceae,,Luzula,,"micrantha",var.,"triandra","(Buchenau) Cheeseman",Synonym,,L,IOPI,316481,,"Man. New Zealand Fl.","ed. 2: 734","","1906",kew-316648
+kew-316482,A,Juncaceae,,Luzula,,"migrata",,"","(Buchenau) Ostenf.",Synonym,,H,IOPI,316482,443865-1,"Biol. Meddel. Kongel. Danske Vidensk. Selsk.","3(2): 16","","1921",kew-316192
+kew-316483,A,Juncaceae,,Luzula,,"modesta",,"","Buchenau",Accepted,,H,IOPI,316483,,"Pflanzenr.","IV, 36: 80","","1906",
+kew-316484,A,Juncaceae,,Luzula,,"multiflora",,"","(Ehrh.) Lej.",Accepted,,H,IOPI,316484,1159940-2,"Fl. Spa","1: 169","","1811",
+kew-316485,A,Juncaceae,,Luzula,,"multiflora",var.,"acadiensis","(Fernald) Fernald",Synonym,,L,IOPI,316485,146228-2,"Rhodora","47: 267","","1945",kew-316484
+kew-316486,A,Juncaceae,,Luzula,,"multiflora",var.,"alpestris","Beyer",Synonym,,L,IOPI,316486,,"Verh. Bot. Vereins Prov. Brandenburg","41: xxii","","1900",kew-316149
+kew-316487,A,Juncaceae,,Luzula,,"multiflora",var.,"alpina","(Hoppe) Willk.",Synonym,,L,IOPI,316487,,"Führer Deut. Pfl.","ed. 2: 282","","1882",kew-316149
+kew-316488,A,Juncaceae,,Luzula,,"multiflora",subsp.,"asiatica","Krylov & Serg.",Synonym,,L,IOPI,316488,,"Fl. Zap. Sibiri","3: 556","","1929",kew-316520
+kew-316489,A,Juncaceae,,Luzula,,"multiflora",var.,"bulbosa","(Alph.Wood) F.J.Herm.",Synonym,,L,IOPI,316489,146229-2,"Rhodora","40: 84","","1938",kew-316205
+kew-316490,A,Juncaceae,,Luzula,,"multiflora",var.,"calabra","(Ten.) Parl.",Synonym,,L,IOPI,316490,,"Fl. Ital.","2: 307","","1852",kew-316211
+kew-316491,A,Juncaceae,,Luzula,,"multiflora",subsp.,"calabra","(Ten.) Arcang.",Synonym,,L,IOPI,316491,,"Comp. Fl. Ital.","713","","1882",kew-316211
+kew-316492,A,Juncaceae,,Luzula,,"multiflora",subsp.,"caucasica","V.I.Krecz.",Synonym,,L,IOPI,316492,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316765
+kew-316917,A,Juncaceae,,Luzula,,"multiflora",var.,"colchica","V.I.Krecz.",Synonym,,L,IOPI,316917,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316520
+kew-453913,A,Juncaceae,,Luzula,,"multiflora",subsp.,"comosa","(E.Mey.) Hultén",Synonym,,L,IOPI,453913,146230-2,"Acta Univ. Lund.","n.f., 39(1): 437","","1943",kew-316311
+tro-16900425,A,Juncaceae,,Luzula,,"multiflora",var.,"comosa","(E. Mey.) H. St. John",Synonym,,L,TRO,16900425,,"Leafl. W. Bot.","9(6): 96","96","1960",kew-316311
+kew-316493,A,Juncaceae,,Luzula,,"multiflora",var.,"congesta","(Thuill.) W.D.J.Koch",Synonym,,L,IOPI,316493,146231-2,"Syn. Fl. Germ. Helv.","734","","1837",kew-316324
+kew-316494,A,Juncaceae,,Luzula,,"multiflora",f.,"congesta","(Thuill.) Neuman",Synonym,,L,IOPI,316494,,"Sver. Fl.","665","","1901",kew-316324
+kew-316495,A,Juncaceae,,Luzula,,"multiflora",subsp.,"congesta","(Thuill.) Arcang.",Synonym,,L,IOPI,316495,,"Comp. Fl. Ital.","713","","1882",kew-316324
+kew-316496,A,Juncaceae,,Luzula,,"multiflora",f.,"conglobata","Krylov & Serg.",Synonym,,L,IOPI,316496,,"Fl. Zap. Sibiri","3: 556","","1929",kew-316520
+kew-316497,A,Juncaceae,,Luzula,,"multiflora",var.,"contracta","Böcher",Synonym,,L,IOPI,316497,,"Meddel. Grønland","147(7): 17","","1950",kew-316499
+kew-316498,A,Juncaceae,,Luzula,,"multiflora",var.,"flexuosa","Beyer",Synonym,,L,IOPI,316498,,"Verh. Bot. Vereins Prov. Brandenburg","41: xxiii","","1900",kew-316484
+kew-316499,A,Juncaceae,,Luzula,,"multiflora",subsp.,"frigida","(Buchenau) V.I.Krecz.",Accepted,,L,IOPI,316499,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",
+kew-453915,A,Juncaceae,,Luzula,,"multiflora",var.,"frigida","(Buchenau) Sam.",Synonym,,L,IOPI,453915,,"Fl. Aleutian Isl.","125","","1937",kew-316499
+tro-16900092,A,Juncaceae,,Luzula,,"multiflora",subsp.,"frigida","(Buchenau) Sam. ex Hultén",Synonym,,L,TRO,16900092,,"Fl. Aleut. Isl.","125","125","1937",kew-316499
+tro-16900630,A,Juncaceae,,Luzula,,"multiflora",var.,"fusconigra","Čelak.",Synonym,,L,TRO,16900630,,"","","","",kew-316499
+kew-316920,A,Juncaceae,,Luzula,,"multiflora",var.,"gracilis","Buchenau ex V.I.Krecz.",Synonym,,L,IOPI,316920,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316520
+kew-316919,A,Juncaceae,,Luzula,,"multiflora",subsp.,"incrassata","V.I.Krecz.",Synonym,,L,IOPI,316919,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316520
+kew-316501,A,Juncaceae,,Luzula,,"multiflora",var.,"intermedia","Koidz.",Synonym,,L,IOPI,316501,,"Pl. Sachal. Nak.","32","","1910",kew-316484
+kew-316503,A,Juncaceae,,Luzula,,"multiflora",subsp.,"kjellmaniana","(Miyabe & Kudo) Tolm.",Synonym,,L,IOPI,316503,,"in Arktich. Fl. SSSR","4: 48","","1963",kew-316433
+kew-316504,A,Juncaceae,,Luzula,,"multiflora",var.,"kjellmannioides","R.L.Taylor & MacBryde",Synonym,,L,IOPI,316504,883736-1,"Canad. J. Bot.","56(2): 191","","1978",kew-316520
+kew-316505,A,Juncaceae,,Luzula,,"multiflora",var.,"kobayasii","(Satake) Sam.",Synonym,,L,IOPI,316505,,"Fl. Aleutian Isl.","126","","1937",kew-316437
+kew-316506,A,Juncaceae,,Luzula,,"multiflora",subsp.,"kobayasii","(Satake) Hultén",Synonym,,L,IOPI,316506,146234-2,"Ark. Bot.","a.s., 7(1): 32","","1967 publ. 1968",kew-316437
+kew-316507,A,Juncaceae,,Luzula,,"multiflora",var.,"lutescens","(Koidz.) Satake",Synonym,,L,IOPI,316507,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","4(2): 200","","1933",kew-316451
+kew-316508,A,Juncaceae,,Luzula,,"multiflora",var.,"minor","Bluff & Fingerh.",Synonym,,L,IOPI,316508,,"Comp. Fl. German.","1: 444","","1825",kew-316579
+kew-316510,A,Juncaceae,,Luzula,,"multiflora",var.,"minuta","Krylov & Serg.",Synonym,,L,IOPI,316510,,"Fl. Zap. Sibiri","3: 556","","1929",kew-316520
+kew-316512,A,Juncaceae,,Luzula,,"multiflora",subsp.,"multiflora","",Synonym,,L,IOPI,316512,,"Unknown","","","",kew-316484
+tro-16900631,A,Juncaceae,,Luzula,,"multiflora",var.,"multiflora","",Synonym,,L,TRO,16900631,,"","","","",kew-316484
+kew-316513,A,Juncaceae,,Luzula,,"multiflora",var.,"nigricans","(Gaudin) W.D.J.Koch",Synonym,,L,IOPI,316513,,"Syn. Fl. Germ. Helv.","734","","1837",kew-316741
+kew-316515,A,Juncaceae,,Luzula,,"multiflora",subsp.,"occidentalis","V.I.Krecz.",Synonym,,L,IOPI,316515,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316484
+kew-316516,A,Juncaceae,,Luzula,,"multiflora",subsp.,"pallescens","(Sw.) Reichg.",Synonym,,L,IOPI,316516,,"Fl. Neerl.","1: 208","","1964",kew-316579
+kew-316517,A,Juncaceae,,Luzula,,"multiflora",var.,"pallescens","(Sw.) W.D.J.Koch",Synonym,,L,IOPI,316517,,"Syn. Fl. Germ. Helv.","ed. 2: 847","","1844",kew-316579
+kew-316912,A,Juncaceae,,Luzula,,"multiflora",var.,"pallescens","Bluff & Fingerh.",Synonym,,L,IOPI,316912,,"Comp. Fl. German.","1: 444","","1825",kew-316484
+tro-16900801,A,Juncaceae,,Luzula,,"multiflora",subsp.,"pallescens","Reichgelt",Synonym,,L,TRO,16900801,,"","","","",kew-316579
+kew-316941,A,Juncaceae,,Luzula,,"multiflora",var.,"pallida","Parl.",Synonym,,L,IOPI,316941,,"Fl. Ital.","2: 307","","1852",kew-316484
+kew-316518,A,Juncaceae,,Luzula,,"multiflora",subsp.,"pseudosudetica","V.I.Krecz.",Synonym,,L,IOPI,316518,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316734
+kew-316519,A,Juncaceae,,Luzula,,"multiflora",subsp.,"pyrenaica","(Sennen) P.Monts.",Synonym,,L,IOPI,316519,,"Anales Inst. Bot. Cavanilles","21(2): 501","","1964",kew-316484
+kew-316520,A,Juncaceae,,Luzula,,"multiflora",subsp.,"sibirica","V.I.Krecz.",Accepted,,L,IOPI,316520,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",
+kew-316524,A,Juncaceae,,Luzula,,"multiflora",subsp.,"taurica","(V.I.Krecz.) Novikov",Synonym,,L,IOPI,316524,883740-1,"in Fl. Evropeiskoi Chasti SSSR","2: 83","","1976",kew-316765
+kew-316525,A,Juncaceae,,Luzula,,"multiflora",subsp.,"tenella","(E.Mey.) Kouharov",Synonym,,L,IOPI,316525,,"Izv. Bot. Inst. (Sofia)","11: 135","","1963",kew-316484
+kew-316526,A,Juncaceae,,Luzula,,"multiflora",var.,"tenuis","Satake",Synonym,,L,IOPI,316526,,"Nov. Fl. Jap.","1: 30","","1938",kew-316484
+kew-316918,A,Juncaceae,,Luzula,,"multiflora",subsp.,"thianshanica","V.I.Krecz.",Synonym,,L,IOPI,316918,,"Zhurn. Russk. Bot. Obshch.","12: 490","","1928",kew-316520
+kew-316944,A,Juncaceae,,Luzula,,"multiflora",subsp.,"thracica","Kouharov",Synonym,,L,IOPI,316944,,"Izv. Bot. Inst. (Sofia)","11: 135","","1963",kew-316484
+kew-316527,A,Juncaceae,,Luzula,,"multiflora",var.,"uliginosa","Gremli",Synonym,,L,IOPI,316527,,"Excursionsfl. Schweiz","ed. 3: 377","","1878",kew-316484
+kew-316528,A,Juncaceae,,Luzula,,"multiflora",f.,"umbelliformis","Krylov & Serg.",Synonym,,L,IOPI,316528,,"Fl. Zap. Sibiri","3: 556","","1929",kew-316520
+kew-316529,A,Juncaceae,,Luzula,,"multiflora",f.,"umbrosa","Neuman",Synonym,,L,IOPI,316529,,"Sver. Fl.","665","","1901",kew-316484
+kew-316530,A,Juncaceae,,Luzula,,"murrea",,"","(P.Fourn.) A.W.Hill",Synonym,,H,IOPI,316530,,"Index Kew.","Suppl. 9: 167","","1938",kew-316452
+kew-466422,A,Juncaceae,,Luzula,,"mutabilis",,"","(Chrtek & Krísa) Landolt",Synonym,,H,IOPI,466422,77113874-1,"Fl. Indicativa","269","","2010",kew-316707
+kew-316531,A,Juncaceae,,Luzula,,"neglecta",,"","Kunth",Synonym,,H,IOPI,316531,443869-1,"Enum. Pl.","3: 301","","1841",kew-316588
+kew-316532,A,Juncaceae,,Luzula,,"nemorosa",,"","Dulac",Synonym,Illegitimate,H,IOPI,316532,443871-1,"Fl. Hautes-Pyrénées","100","","1867",kew-316622
+kew-316533,A,Juncaceae,,Luzula,,"nemorosa",,"","Hornem.",Synonym,,H,IOPI,316533,,"Hort. Bot. Hafn.","962","","1815",kew-316484
+kew-316534,A,Juncaceae,,Luzula,,"nemorosa",,"","(Pollich) E.Mey.",Synonym,Illegitimate,H,IOPI,316534,443870-1,"Linnaea","22: 394","","1849",kew-316453
+kew-316535,A,Juncaceae,,Luzula,,"nemorosa",f.,"aggregata","Kouharov",Synonym,,L,IOPI,316535,,"Izv. Bot. Inst. (Sofia)","11: 127","","1963",kew-316458
+kew-316536,A,Juncaceae,,Luzula,,"nemorosa",var.,"colorata","E.Mey.",Synonym,,L,IOPI,316536,,"Linnaea","22: 395","","1849",kew-316458
+kew-316538,A,Juncaceae,,Luzula,,"nemorosa",var.,"erytranthema","(Wallr.) Hayek",Synonym,,L,IOPI,316538,,"Exsicc. (Fl. Stir.)","1930: 409","","1930",kew-316458
+kew-316539,A,Juncaceae,,Luzula,,"nemorosa",var.,"fuliginosa","Asch.",Synonym,,L,IOPI,316539,,"Fl. Brandenburg","1: 740","","1864",kew-316458
+kew-316540,A,Juncaceae,,Luzula,,"nemorosa",var.,"gracilis","E.Mey.",Synonym,,L,IOPI,316540,,"Linnaea","22: 395","","1849",kew-316608
+kew-316546,A,Juncaceae,,Luzula,,"nemorosa",var.,"parviflora","(Döll) Asch. & Graebn.",Synonym,,L,IOPI,316546,,"Syn. Mitteleur. Fl.","2(2): 504","","1904",kew-316453
+kew-316548,A,Juncaceae,,Luzula,,"nemorosa",f.,"rubella","(Hoppe ex Mert. & W.D.J.Koch) Racib.",Synonym,,L,IOPI,316548,,"Consp. Juncac. Polon.","25","","1888",kew-316458
+kew-316549,A,Juncaceae,,Luzula,,"nemorosa",var.,"rubella","(Hoppe ex Mert. & W.D.J.Koch) Gaudin",Synonym,,L,IOPI,316549,,"Fl. Helv.","1: 556","","1828",kew-316458
+kew-316550,A,Juncaceae,,Luzula,,"nigricans",,"","Desv.",Synonym,Illegitimate,H,IOPI,316550,443875-1,"J. Bot. (Desvaux)","1: 158","","1809",kew-316741
+kew-341446,A,Juncaceae,,Luzula,,"nigricans",var.,"althii","(Herbich) Nyman",Synonym,,L,IOPI,341446,,"Consp. Fl. Eur.","752","","1882",kew-316741
+kew-316551,A,Juncaceae,,Luzula,,"nipponica",,"","(Satake) Kirschner & Miyam.",Accepted,,H,IOPI,316551,20003357-1,"Taxon","50: 1110","","2001",
+kew-316552,A,Juncaceae,,Luzula,,"nivalis",,"","(Laest.) Spreng.",Accepted,,H,IOPI,316552,30284498-2,"Syst. Veg.","2: 111","","1825",
+kew-453916,A,Juncaceae,,Luzula,,"nivalis",var.,"latifolia","Sam.",Synonym,,L,IOPI,453916,,"Fl. Alaska Yukon","439","","1943",kew-316433
+tro-16900540,A,Juncaceae,,Luzula,,"nivalis",var.,"nivalis","",Synonym,,L,TRO,16900540,,"","","","",kew-316552
+kew-316553,A,Juncaceae,,Luzula,,"nivea",,"","(Nathh.) DC.",Accepted,,H,IOPI,316553,443878-1,"Fl. Franç.","ed. 3, 3: 158","","1805",
+kew-316554,A,Juncaceae,,Luzula,,"nivea",subsp.,"albida","(Hoffm.) Bonnier & Layens",Synonym,,L,IOPI,316554,,"Tabl. Syn. Pl. Vasc. France","322","","1894",kew-316453
+kew-316556,A,Juncaceae,,Luzula,,"nivea",var.,"angustata","(Asch. & Graebn.) Rouy",Synonym,,L,IOPI,316556,,"Fl. France","13: 261","","1912",kew-316553
+kew-316558,A,Juncaceae,,Luzula,,"nivea",var.,"livida","Desv.",Synonym,,L,IOPI,316558,,"J. Bot. (Desvaux)","1: 151","","1809",kew-316553
+kew-316559,A,Juncaceae,,Luzula,,"nivea",var.,"minuta","Beyer",Synonym,,L,IOPI,316559,,"Verh. Bot. Vereins Prov. Brandenburg","41: xvii","","1900",kew-316553
+kew-316560,A,Juncaceae,,Luzula,,"nivea",subsp.,"pedemontana","(Boiss. & Reut.) Bonnier & Layens",Synonym,,L,IOPI,316560,,"Tabl. Syn. Pl. Vasc. France","322","","1894",kew-316608
+kew-316561,A,Juncaceae,,Luzula,,"nivea",var.,"rubella","Mert. & W.D.J.Koch",Synonym,,L,IOPI,316561,,"Deutschl. Fl.","ed. 3, 2: 600","","1826",kew-316553
+kew-316564,A,Juncaceae,,Luzula,,"nodulosa",,"","E.Mey.",Accepted,,H,IOPI,316564,443879-1,"Linnaea","22: 410","","1849",
+kew-316565,A,Juncaceae,,Luzula,,"nodulosa",var.,"graeca","(Chaub. & Bory) R.Maire",Synonym,,L,IOPI,316565,,"Bull. Soc. Hist. Nat. Afrique N.","22: 319","","1931",kew-316564
+kew-316566,A,Juncaceae,,Luzula,,"nodulosa",var.,"mauretanica","R.Maire & Trab.",Synonym,,L,IOPI,316566,,"Bull. Soc. Hist. Nat. Afrique N.","22: 319","","1931",kew-316564
+kew-316567,A,Juncaceae,,Luzula,,"novae-cambriae",,"","Gand.",Accepted,,H,IOPI,316567,443880-1,"Bull. Soc. Bot. France","46: 392","","1899",
+kew-316568,A,Juncaceae,,Luzula,,"nutans",,"","Duval-Jouve",Synonym,,H,IOPI,316568,443881-1,"Bull. Soc. Bot. France","10: 80","","1863",kew-316609
+kew-316569,A,Juncaceae,,Luzula,,"obscura",,"","(S.E.Fröhner) Novikov",Synonym,,H,IOPI,316569,962193-1,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol.","n.s., 95(6): 66","","1990",kew-316154
+kew-316570,A,Juncaceae,,Luzula,,"obtusata",,"","Steud.",Synonym,,H,IOPI,316570,443882-1,"Syn. Pl. Glumac.","2: 294","","1855",kew-316703
+kew-316571,A,Juncaceae,,Luzula,,"oldfieldii",,"","Hook.f.",Synonym,,H,IOPI,316571,443883-1,"Fl. Tasman.","2: 68","","1858",kew-316184
+kew-316572,A,Juncaceae,,Luzula,,"oldfieldii",var.,"angustifolia","H.Nordensk.",Synonym,,L,IOPI,316572,,"Bot. Not.","122: 81","","1969",kew-316567
+kew-316573,A,Juncaceae,,Luzula,,"oldfieldii",subsp.,"dura","Edgar",Synonym,,L,IOPI,316573,883741-1,"New Zealand J. Bot.","13: 789","","1975",kew-316186
+kew-316574,A,Juncaceae,,Luzula,,"oligantha",,"","Sam.",Accepted,,H,IOPI,316574,,"Kongl. Svenska Vetensk. Acad. Handl.","III, 5(1): 227","","1927",
+kew-316575,A,Juncaceae,,Luzula,,"oligantha",f.,"atrata","Satake",Synonym,,L,IOPI,316575,,"Nov. Fl. Jap.","1: 30","","1938",kew-316574
+kew-316576,A,Juncaceae,,Luzula,,"orestera",,"","Sharsm.",Accepted,,H,IOPI,316576,146238-2,"Aliso","4(1): 125","","1958",
+kew-316577,A,Juncaceae,,Luzula,,"ostenii",,"","(Mattf.) Herter",Accepted,,H,IOPI,316577,,"Revista Sudamer. Bot.","9: 199","","1956",
+kew-316578,A,Juncaceae,,Luzula,,"ovata",,"","Edgar",Accepted,,H,IOPI,316578,443887-1,"New Zealand J. Bot.","13: 788","","1975",
+kew-316579,A,Juncaceae,,Luzula,,"pallescens",,"","Sw.",Accepted,,H,IOPI,316579,,"Summa Veg. Scand.","13","","1814",
+kew-316580,A,Juncaceae,,Luzula,,"pallescens",var.,"arenaria","V.I.Krecz.",Synonym,,L,IOPI,316580,,"Zhurn. Russk. Bot. Obshch.","12: 491","","1928",kew-316579
+kew-316927,A,Juncaceae,,Luzula,,"pallescens",var.,"castanescens","K.F.Wu",Synonym,,L,IOPI,316927,1009436-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 99","","1992",kew-316579
+kew-316581,A,Juncaceae,,Luzula,,"pallescens",var.,"communis","V.I.Krecz.",Synonym,,L,IOPI,316581,,"Zhurn. Russk. Bot. Obshch.","12: 491","","1928",kew-316579
+tro-50112459,A,Juncaceae,,Luzula,,"pallescens",var.,"pallescens","",Synonym,,L,TRO,50112459,,"","","","",kew-316579
+kew-316582,A,Juncaceae,,Luzula,,"pallescens",var.,"ruderalis","V.I.Krecz.",Synonym,,L,IOPI,316582,,"Zhurn. Russk. Bot. Obshch.","12: 491","","1928",kew-316579
+kew-316583,A,Juncaceae,,Luzula,,"pallescens",var.,"umbrosa","Celak.",Synonym,,L,IOPI,316583,,"Oesterr. Bot. Z.","11: 312","","1861",kew-316579
+kew-316585,A,Juncaceae,,Luzula,,"pallidula",,"","Kirschner",Synonym,,H,IOPI,316585,939150-1,"Taxon","39: 110","","1990",kew-316579
+kew-316586,A,Juncaceae,,Luzula,,"paniculata",,"","Desv.",Synonym,,H,IOPI,316586,443891-1,"J. Bot. (Desvaux)","1: 147","","1808",kew-316382
+kew-316587,A,Juncaceae,,Luzula,,"papuana",,"","M.E.Jansen",Accepted,,H,IOPI,316587,443892-1,"Blumea","24: 529","","1978",
+kew-316588,A,Juncaceae,,Luzula,,"parviflora",,"","(Ehrh.) Desv.",Accepted,,H,IOPI,316588,443893-1,"J. Bot. (Desvaux)","1: 144","","1808",
+kew-316589,A,Juncaceae,,Luzula,,"parviflora",var.,"densiflora","Lange",Synonym,,L,IOPI,316589,,"Consp. Fl. Groenland.","125","","1880",kew-316588
+kew-316590,A,Juncaceae,,Luzula,,"parviflora",var.,"denticulata","(Liebm.) Buchenau",Synonym,,L,IOPI,316590,,"Bot. Jahrb. Syst.","7: 171","","1885",kew-316335
+kew-316591,A,Juncaceae,,Luzula,,"parviflora",var.,"divaricata","(S.Watson) B.Boivin",Synonym,,L,IOPI,316591,146242-2,"Naturaliste Canad.","94: 526","","1967",kew-316337
+kew-316592,A,Juncaceae,,Luzula,,"parviflora",subsp.,"divaricata","(S.Watson) Hultén",Synonym,,L,IOPI,316592,146241-2,"Acta Univ. Lund.","n.s., 39(2): 441","","1943",kew-316337
+kew-316593,A,Juncaceae,,Luzula,,"parviflora",subsp.,"fastigiata","(E.Mey.) Hämet-Ahti",Accepted,,L,IOPI,316593,883742-1,"Ann. Bot. Fenn.","8: 374","","1971",
+kew-316594,A,Juncaceae,,Luzula,,"parviflora",var.,"fastigiata","(E.Mey.) Buchenau",Synonym,,L,IOPI,316594,,"Krit. Verz. Juncac.","83","","1879",kew-316593
+kew-316596,A,Juncaceae,,Luzula,,"parviflora",subsp.,"melanocarpa","(Michx.) Hämet-Ahti",Accepted,,L,IOPI,316596,146244-2,"Ann. Bot. Fenn.","8: 377","","1971",
+kew-316597,A,Juncaceae,,Luzula,,"parviflora",var.,"melanocarpa","(Michx.) A.Gray",Synonym,,L,IOPI,316597,146245-2,"Manual","ed. 5: 536","","1867",kew-316596
+kew-316599,A,Juncaceae,,Luzula,,"parviflora",f.,"melanocarpa","(Michx.) Neuman",Synonym,,L,IOPI,316599,,"Sver. Fl.","663","","1901",kew-316596
+tro-16900985,A,Juncaceae,,Luzula,,"parviflora",var.,"melanocarpa","(Michx.) Buchenau",Synonym,,L,TRO,16900985,,"Krit. Verz. Juncac.","1: 190","190","1880",kew-316588
+kew-316600,A,Juncaceae,,Luzula,,"parviflora",subsp.,"parviflora","",Synonym,,L,IOPI,316600,,"Unknown","","","",kew-316588
+tro-16900583,A,Juncaceae,,Luzula,,"parviflora",var.,"parviflora","",Synonym,,L,TRO,16900583,,"","","","",kew-316588
+kew-316601,A,Juncaceae,,Luzula,,"parviflora",var.,"sparsiflora","Lange",Synonym,,L,IOPI,316601,,"Consp. Fl. Groenland.","125","","1880",kew-316588
+kew-316602,A,Juncaceae,,Luzula,,"parviflora",var.,"subcongesta","(S.Watson) Buchenau",Synonym,,L,IOPI,316602,146246-2,"Bot. Jahrb. Syst.","12: 110","","1890",kew-316738
+kew-316603,A,Juncaceae,,Luzula,,"parviflora",var.,"yezoensis","Satake",Synonym,,L,IOPI,316603,,"Nov. Fl. Jap.","1: 30","","1938",kew-316634
+kew-316605,A,Juncaceae,,Luzula,,"parvula",,"","Barros",Synonym,,H,IOPI,316605,146247-2,"Darwiniana","10: 356","","1953",kew-316671
+kew-316606,A,Juncaceae,,Luzula,,"patagonica",,"","Speg.",Synonym,,L,IOPI,316606,146248-2,"Revista Fac. Agron. Univ. Nac. La Plata","3: 577","","1897",kew-316203
+kew-316607,A,Juncaceae,,Luzula,,"pauciflora",,"","Phil.",Synonym,,H,IOPI,316607,443897-1,"Linnaea","33: 267","","1865",kew-316772
+kew-316608,A,Juncaceae,,Luzula,,"pedemontana",,"","Boiss. & Reut.",Accepted,,H,IOPI,316608,,"Syn. Luzul.","15","","1852",
+kew-316609,A,Juncaceae,,Luzula,,"pediformis",,"","(Chaix) DC.",Accepted,,H,IOPI,316609,443900-1,"Fl. Franç.","ed. 3, 3: 162","","1805",
+kew-316610,A,Juncaceae,,Luzula,,"pediformis",var.,"caespitosa","J.Gay ex E.Mey.",Synonym,,L,IOPI,316610,77106589-1,"Linnaea","22: 420","","1849",kew-316208
+kew-316611,A,Juncaceae,,Luzula,,"pediformis",subsp.,"caespitosa","(J.Gay ex E.Mey.) Guinea",Synonym,,L,IOPI,316611,,"Fl. Santander","355","","1953",kew-316208
+kew-316612,A,Juncaceae,,Luzula,,"peruviana",,"","Desv.",Accepted,,H,IOPI,316612,443901-1,"J. Bot. (Desvaux)","1: 160","","1808",
+kew-316613,A,Juncaceae,,Luzula,,"peruviana",var.,"longispica","Barros",Synonym,,L,IOPI,316613,146251-2,"Darwiniana","10: 346","","1953",kew-316612
+kew-316869,A,Juncaceae,,Luzula,×,"pfaffii",,"","Murr",Accepted,,H,IOPI,316869,443902-1,"Allg. Bot. Z. Syst.","1910: 118","","1910",
+kew-316614,A,Juncaceae,,Luzula,,"philippinensis",,"","M.E.Jansen",Accepted,,H,IOPI,316614,443903-1,"Blumea","24: 530","","1978",
+kew-316615,A,Juncaceae,,Luzula,,"picta",,"","A.Rich.",Accepted,,H,IOPI,316615,146252-2,"Voy. Astrolabe","1: 146","","1832",
+kew-316616,A,Juncaceae,,Luzula,,"picta",var.,"banksiana","(E.Mey.) Buchenau",Synonym,,L,IOPI,316616,,"Bot. Jahrb. Syst.","12: 147","","1890",kew-316189
+kew-316617,A,Juncaceae,,Luzula,,"picta",var.,"cheesemanii","Buchenau",Synonym,,L,IOPI,316617,,"Bot. Jahrb. Syst.","12: 147","","1890",kew-316615
+kew-316619,A,Juncaceae,,Luzula,,"picta",var.,"pallida","(Hook.f.) Edgar",Accepted,,L,IOPI,316619,,"New Zealand J. Bot.","4: 176","","1966",
+kew-316620,A,Juncaceae,,Luzula,,"picta",var.,"picta","",Synonym,,L,IOPI,316620,,"Unknown","","","",kew-316615
+kew-316622,A,Juncaceae,,Luzula,,"pilosa",,"","(L.) Willd.",Accepted,,H,IOPI,316622,443907-1,"Enum. Pl.","393","","1809",
+kew-316623,A,Juncaceae,,Luzula,,"pilosa",var.,"americana","Schult. & Schult.f.",Synonym,,L,IOPI,316623,,"Syst. Veg.","7(1): 262","","1829",kew-316127
+kew-316935,A,Juncaceae,,Luzula,,"pilosa",subsp.,"borreri","(Bromf. ex Bab.) K.Richt.",Synonym,,L,IOPI,316935,,"Pl. Eur.","1: 183","","1890",kew-316934
+kew-316942,A,Juncaceae,,Luzula,,"pilosa",var.,"brevicapsula","Kouharov",Synonym,,L,IOPI,316942,,"Izv. Bot. Inst. (Sofia)","11: 126","","1963",kew-316622
+kew-316624,A,Juncaceae,,Luzula,,"pilosa",var.,"carolinae","(S.Watson) B.Boivin",Synonym,,L,IOPI,316624,146253-2,"Phytologia","42: 411","","1979",kew-316129
+kew-316625,A,Juncaceae,,Luzula,,"pilosa",var.,"macrocarpa","(Buchenau) B.Boivin",Synonym,,L,IOPI,316625,146254-2,"Phytologia","42: 411","","1979",kew-316669
+kew-316626,A,Juncaceae,,Luzula,,"pilosa",f.,"pallida","A.Dyring",Synonym,,L,IOPI,316626,,"Sver. Fl.","662","","1901",kew-316622
+kew-316627,A,Juncaceae,,Luzula,,"pilosa",var.,"plumosa","(E.Mey.) Franch.",Synonym,,L,IOPI,316627,,"Nouv. Arch. Mus. Hist. Nat.","II, 10: 100","","1888",kew-316635
+kew-316629,A,Juncaceae,,Luzula,,"pilosa",var.,"rufescens","(Fisch. ex E.Mey.) B.Boivin",Synonym,,L,IOPI,316629,146256-2,"Naturaliste Canad.","94: 526","","1967",kew-316667
+kew-316630,A,Juncaceae,,Luzula,,"pilosa",var.,"saltuensis","(Fernald) B.Boivin",Synonym,,L,IOPI,316630,146257-2,"Naturaliste Canad.","94: 526","","1967",kew-316127
+kew-316631,A,Juncaceae,,Luzula,,"pilosa",var.,"simplex","Sond.",Synonym,,L,IOPI,316631,,"Fl. Hamburg.","199","","1851",kew-316622
+kew-316632,A,Juncaceae,,Luzula,,"pilosa",f.,"slendzinskii","Racib.",Synonym,,L,IOPI,316632,,"Consp. Juncac. Polon.","23","","1888",kew-316622
+kew-316633,A,Juncaceae,,Luzula,,"pindica",,"","(Hausskn.) Chrtek & Krísa",Accepted,,H,IOPI,316633,443908-1,"Webbia","19: 6","","1964",
+kew-316634,A,Juncaceae,,Luzula,,"piperi",,"","(Coville) M.E.Jones",Accepted,,H,IOPI,316634,146258-2,"Bull. Montana State Univ., Biol. Ser.","15: 22","","1910",
+kew-316635,A,Juncaceae,,Luzula,,"plumosa",,"","E.Mey.",Accepted,,H,IOPI,316635,443909-1,"Linnaea","22: 387","","1849",
+kew-453918,A,Juncaceae,,Luzula,,"plumosa",var.,"acuminata","Pamp.",Synonym,,L,IOPI,453918,,"Nuovo Giorn. Bot. Ital.","n.s., 22: 264","","1915",kew-316635
+kew-316636,A,Juncaceae,,Luzula,,"plumosa",var.,"albida","Satake",Synonym,,L,IOPI,316636,,"Nov. Fl. Jap.","1: 30","","1938",kew-316635
+kew-316637,A,Juncaceae,,Luzula,,"plumosa",var.,"brachycarpa","Satake",Synonym,,L,IOPI,316637,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","4(2): 194","","1933",kew-316635
+kew-316638,A,Juncaceae,,Luzula,,"plumosa",var.,"brevipes","(Franch. & Sav.) Ebinger",Synonym,,L,IOPI,316638,,"Mem. New York Bot. Gard.","10(5): 298","","1964",kew-316635
+kew-316640,A,Juncaceae,,Luzula,,"plumosa",var.,"macrocarpa","(Buchenau) Ohwi",Synonym,,L,IOPI,316640,,"Fl. Jap.","271","","1953",kew-316669
+kew-316641,A,Juncaceae,,Luzula,,"plumosa",subsp.,"plumosa","",Synonym,,L,IOPI,316641,,"Unknown","","","",kew-316635
+kew-316642,A,Juncaceae,,Luzula,,"plumosa",subsp.,"reflexa","(Ebinger) Z.Kaplan",Accepted,,L,IOPI,316642,1020826-1,"Preslia","73: 66","","2001",
+kew-316643,A,Juncaceae,,Luzula,,"plumosa",var.,"reflexa","Ebinger",Synonym,,L,IOPI,316643,,"Mem. New York Bot. Gard.","10(5): 298","","1964",kew-316642
+kew-316644,A,Juncaceae,,Luzula,,"plumosa",var.,"sphaerosperma","Satake",Synonym,,L,IOPI,316644,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","4(2): 195","","1933",kew-316635
+kew-316645,A,Juncaceae,,Luzula,,"poimena",,"","W.M.Curtis",Accepted,,H,IOPI,316645,906557-1,"Brunonia","7: 297","","1985",
+kew-316646,A,Juncaceae,,Luzula,,"pseudosudetica",,"","V.I.Krecz.",Synonym,Illegitimate,H,IOPI,316646,443912-1,"Fl. URSS","3: 571","","1935",kew-316734
+kew-316647,A,Juncaceae,,Luzula,,"pseudosudetica",var.,"turcica","(Chrtek & Krísa) Novikov",Synonym,,L,IOPI,316647,966501-1,"Novosti Sist. Vyssh. Rast.","27: 20","","1990",kew-316734
+kew-316889,A,Juncaceae,,Luzula,,"psilophylla",,"","Phil.",Synonym,,H,IOPI,316889,443913-1,"Linnaea","33: 267","","1865",kew-316303
+kew-316648,A,Juncaceae,,Luzula,,"pumila",,"","Hook.f.",Accepted,,H,IOPI,316648,443915-1,"Handb. N. Zeal. Fl.","293","","1864",
+kew-316649,A,Juncaceae,,Luzula,,"purpurea",,"","Link ex E.Mey.",Synonym,Illegitimate,H,IOPI,316649,,"Linnaea","22: 397","","1849",kew-316347
+kew-316650,A,Juncaceae,,Luzula,,"purpurea",,"","H.C.Watson",Synonym,Illegitimate,H,IOPI,316650,,"London J. Bot.","3: 608","","1844",kew-316651
+kew-316651,A,Juncaceae,,Luzula,,"purpureosplendens",,"","Seub.",Accepted,,H,IOPI,316651,,"Fl. Azor.","23","","1844",
+kew-316652,A,Juncaceae,,Luzula,,"racemosa",,"","Desv.",Accepted,,H,IOPI,316652,443919-1,"J. Bot. (Desvaux)","1: 162","","1808",
+kew-316653,A,Juncaceae,,Luzula,,"racemosa",f.,"brachyphylla","(Phil.) Fuentes",Synonym,,L,IOPI,316653,,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile","10: 137","","1917",kew-316203
+kew-316654,A,Juncaceae,,Luzula,,"racemosa",f.,"humilis","(Buchenau) Buchenau",Synonym,,L,IOPI,316654,,"Bot. Jahrb. Syst.","12: 133","","1890",kew-316652
+kew-316655,A,Juncaceae,,Luzula,,"racemosa",var.,"humilis","(Buchenau) T.C.E.Fr.",Synonym,,L,IOPI,316655,,"Nova Acta Regiae Soc. Sci. Upsal.","IV, 1: 167","","1905",kew-316652
+kew-316656,A,Juncaceae,,Luzula,,"racemosa",subsp.,"insularis","Skottsb.",Synonym,,L,IOPI,316656,146263-2,"Nat. Hist. Juan Fernandez","2: 110","","1922",kew-316467
+tro-16900514,A,Juncaceae,,Luzula,,"racemosa",var.,"racemosa","",Synonym,,L,TRO,16900514,,"","","","",kew-316652
+kew-316657,A,Juncaceae,,Luzula,,"racemosa",var.,"traversii","Buchenau",Synonym,,L,IOPI,316657,,"Bot. Jahrb. Syst.","12: 133","","1890",kew-316768
+kew-316658,A,Juncaceae,,Luzula,,"racemosa",var.,"ulophylla","Buchenau",Synonym,,L,IOPI,316658,,"Oesterr. Bot. Z.","48: 245","","1898",kew-316776
+kew-316659,A,Juncaceae,,Luzula,,"rhadina",,"","Buchenau",Synonym,,H,IOPI,316659,443920-1,"Oesterr. Bot. Z.","48: 212","","1898",kew-316194
+kew-316660,A,Juncaceae,,Luzula,,"rigida",,"","Phil.",Synonym,,H,IOPI,316660,443921-1,"Linnaea","33: 267","","1865",kew-316303
+kew-316936,A,Juncaceae,,Luzula,×,"romanica",,"","J.Dvorák & Vorel",Accepted,,H,IOPI,316936,,"Preslia","45: 87","","1973",
+kew-316661,A,Juncaceae,,Luzula,,"rostrata",,"","Buchenau",Synonym,,H,IOPI,316661,,"Pflanzenr.","IV, 36: 47","","1906",kew-316635
+kew-316662,A,Juncaceae,,Luzula,,"rostrata",subsp.,"darjeelingensis","Satake",Synonym,,L,IOPI,316662,,"in Fl. E. Himal.","404","","1966",kew-316635
+kew-316663,A,Juncaceae,,Luzula,,"rostrata",var.,"jimboi","(Miyabe & Kudo) Ebinger",Synonym,,L,IOPI,316663,,"Mem. New York Bot. Gard.","10(5): 301","","1964",kew-316426
+kew-316664,A,Juncaceae,,Luzula,,"rufa",,"","Edgar",Accepted,,H,IOPI,316664,443925-1,"New Zealand J. Bot.","4: 166","","1966",
+kew-316666,A,Juncaceae,,Luzula,,"rufa",var.,"rufa","",Synonym,,L,IOPI,316666,,"Unknown","","","",kew-316664
+kew-316667,A,Juncaceae,,Luzula,,"rufescens",,"","Fisch. ex E.Mey.",Accepted,,H,IOPI,316667,146266-2,"Linnaea","22: 385","","1849",
+kew-316668,A,Juncaceae,,Luzula,,"rufescens",var.,"brevipes","Franch. & Sav.",Synonym,,L,IOPI,316668,,"Enum. Pl. Jap.","96","","1879",kew-316635
+kew-316669,A,Juncaceae,,Luzula,,"rufescens",var.,"macrocarpa","Buchenau",Accepted,,L,IOPI,316669,146255-2,"Pflanzenr.","IV, 36: 47","","1906",
+kew-347279,A,Juncaceae,,Luzula,,"rufescens",subsp.,"plumosa","(E.Mey.) Kuvaev",Synonym,,L,IOPI,347279,77084000-1,"Fl. Subarkt. Gor Evraz.","106","","2006",kew-316635
+kew-316670,A,Juncaceae,,Luzula,,"rufescens",var.,"rufescens","",Synonym,,L,IOPI,316670,,"Unknown","","","",kew-316667
+kew-316671,A,Juncaceae,,Luzula,,"ruiz-lealii",,"","Barros",Accepted,,H,IOPI,316671,146267-2,"Darwiniana","10: 346","","1953",
+kew-316672,A,Juncaceae,,Luzula,,"saltuensis",,"","Fernald",Synonym,,H,IOPI,316672,146268-2,"Rhodora","5: 195","","1903",kew-316127
+kew-316865,A,Juncaceae,,Luzula,×,"schultzorum",,"","Dalla Torre & Sarnth.",Synonym,,H,IOPI,316865,443929-1,"Farn- u. Blütenpfl. Tirol.","1: 434","","1906",kew-316864
+kew-316673,A,Juncaceae,,Luzula,,"seubertii",,"","Lowe",Accepted,,H,IOPI,316673,443930-1,"J. Bot. (Hooker)","8: 300","","1856",
+kew-316674,A,Juncaceae,,Luzula,,"sibirica",,"","(V.I.Krecz.) V.I.Krecz.",Synonym,,H,IOPI,316674,,"Fl. Transbaic.","2: 144","","1931",kew-316520
+tro-16900808,A,Juncaceae,,Luzula,,"sibirica",subsp.,"vinogradovii","M.M. Ivanova",Synonym,,L,TRO,16900808,,"","","","",kew-316520
+kew-316871,A,Juncaceae,,Luzula,×,"sichuanensis",,"","K.F.Wu",Accepted,,H,IOPI,316871,1009433-1,"J. E. China Norm. Univ., Nat. Sci.","1992(3): 92","","1992",
+kew-316675,A,Juncaceae,,Luzula,,"sicula",,"","Parl.",Synonym,,H,IOPI,316675,443932-1,"Nuov. Gen. Sp. Monocot.","59","","1854",kew-316760
+kew-316676,A,Juncaceae,,Luzula,,"sieberi",,"","Tausch",Synonym,,H,IOPI,316676,443933-1,"Flora","19: 423","","1836",kew-316761
+tro-50003649,A,Juncaceae,,Luzula,,"silvatica",,"","Gaudich.",Unresolved,,L,TRO,50003649,,"","","","",
+kew-316892,A,Juncaceae,,Luzula,×,"somedana",,"","Fern-Carv. & Fern.Prieto",Accepted,,H,IOPI,316892,902487-1,"Stud. Bot.","2: 134","","1983",
+kew-316678,A,Juncaceae,,Luzula,,"spadicea",,"","DC.",Synonym,,H,IOPI,316678,443937-1,"Fl. Franç.","ed. 3, 3: 159","","1805",kew-316150
+kew-316681,A,Juncaceae,,Luzula,,"spadicea",var.,"barbata","Neilr.",Synonym,,L,IOPI,316681,,"Fl. Wien","Nachtr.: 100","","1851",kew-316150
+kew-316682,A,Juncaceae,,Luzula,,"spadicea",subsp.,"candollei","(E.Mey.) K.Richt.",Synonym,,L,IOPI,316682,,"Pl. Eur.","1: 185","","1890",kew-316150
+kew-316683,A,Juncaceae,,Luzula,,"spadicea",var.,"candollei","E.Mey.",Synonym,,L,IOPI,316683,77113871-1,"Linnaea","22: 401","","1849",kew-316150
+kew-316684,A,Juncaceae,,Luzula,,"spadicea",f.,"carpatica","(Kitt. ex Kanitz) I.Grint.",Synonym,,L,IOPI,316684,,"Fl. Reipubl. Popul. Roman.","11: 594","","1966",kew-316154
+kew-342127,A,Juncaceae,,Luzula,,"spadicea",var.,"carpatica","(Kitt. ex Kanitz) Nyman",Synonym,,L,IOPI,342127,,"Consp. Fl. Eur.","Suppl. 2: 314","","1890",kew-316154
+kew-316686,A,Juncaceae,,Luzula,,"spadicea",f.,"compacta","Kouharov",Synonym,,L,IOPI,316686,,"in Fl. Nar. Republ. Bulgariya","2: 402","","1964",kew-316153
+kew-316688,A,Juncaceae,,Luzula,,"spadicea",var.,"desvauxii","(Kunth) E.Mey.",Synonym,,L,IOPI,316688,,"Linnaea","22: 400","","1849",kew-316336
+kew-316689,A,Juncaceae,,Luzula,,"spadicea",var.,"divaricata","(S.Watson) Buchenau",Synonym,,L,IOPI,316689,146270-2,"Pflanzenr.","IV, 36: 63","","1906",kew-316337
+kew-316690,A,Juncaceae,,Luzula,,"spadicea",var.,"elatior","Gaudin",Synonym,,L,IOPI,316690,,"Fl. Helv.","2: 569","","1828",kew-316150
+kew-316691,A,Juncaceae,,Luzula,,"spadicea",var.,"glabrata","(Hoppe) E.Mey.",Synonym,,L,IOPI,316691,,"Syn. Luzul.","8","","1823",kew-316384
+kew-316692,A,Juncaceae,,Luzula,,"spadicea",var.,"kunthii","E.Mey.",Synonym,,L,IOPI,316692,,"Linnaea","22: 403","","1849",kew-316789
+kew-316693,A,Juncaceae,,Luzula,,"spadicea",var.,"laxiflora","Desv.",Synonym,,L,IOPI,316693,,"J. Bot. (Desvaux)","1: 146","","1809",kew-316150
+kew-316694,A,Juncaceae,,Luzula,,"spadicea",f.,"laxiflora","(Desv.) I.Grint.",Synonym,,L,IOPI,316694,,"Fl. Reipubl. Popul. Roman.","11: 594","","1966",kew-316150
+kew-316695,A,Juncaceae,,Luzula,,"spadicea",var.,"melanocarpa","(Michx.) E.Mey.",Synonym,,L,IOPI,316695,146271-2,"Linnaea","22: 403","","1849",kew-316596
+kew-316696,A,Juncaceae,,Luzula,,"spadicea",f.,"melanocarpa","(Michx.) I.Grint.",Synonym,,L,IOPI,316696,,"Fl. Reipubl. Popul. Roman.","11: 595","","1966",kew-316596
+tro-16900826,A,Juncaceae,,Luzula,,"spadicea",f.,"melanocarpa","Grinţ.",Synonym,,L,TRO,16900826,,"","","","",tro-16900016
+kew-316697,A,Juncaceae,,Luzula,,"spadicea",var.,"parviflora","(Ehrh.) E.Mey.",Synonym,,L,IOPI,316697,146272-2,"Linnaea","22: 402","","1849",kew-316588
+kew-316698,A,Juncaceae,,Luzula,,"spadicea",f.,"parviflora","(Ehrh.) I.Grint.",Synonym,,L,IOPI,316698,,"Fl. Reipubl. Popul. Roman.","11: 594","","1966",kew-316588
+tro-16900827,A,Juncaceae,,Luzula,,"spadicea",f.,"parviflora","Grinţ.",Synonym,,L,TRO,16900827,,"","","","",kew-316588
+kew-316699,A,Juncaceae,,Luzula,,"spadicea",f.,"pumila","Kouharov",Synonym,,L,IOPI,316699,,"in Fl. Nar. Republ. Bulgariya","2: 402","","1964",kew-316153
+kew-316700,A,Juncaceae,,Luzula,,"spadicea",var.,"sarplaninae","Rohlena",Synonym,,L,IOPI,316700,,"Vestn. Král. Ceské Spolecn. Nauk, Tr. Mat.-Prír.","6: 7","","1937 publ. 1938",kew-316153
+kew-316701,A,Juncaceae,,Luzula,,"spadicea",var.,"subcongesta","S.Watson",Synonym,,L,IOPI,316701,146273-2,"Bot. California","2: 202","","1880",kew-316738
+kew-316702,A,Juncaceae,,Luzula,,"spadicea",var.,"velenovskyi","Kouharov",Synonym,Invalid,L,IOPI,316702,,"Izv. Bot. Inst. (Sofia)","11: 130","","1963",kew-316153
+kew-453920,A,Juncaceae,,Luzula,,"spadicea",var.,"wahlenbergii","(Rupr.) Buchenau",Synonym,,L,IOPI,453920,,"Bot. Jahrb. Syst.","7: 171","","1885",kew-316789
+kew-316703,A,Juncaceae,,Luzula,,"spicata",,"","(L.) DC.",Accepted,,H,IOPI,316703,443940-1,"Fl. Franç.","ed. 3, 3: 161","","1805",
+kew-316704,A,Juncaceae,,Luzula,,"spicata",subsp.,"bulgarica","Gamisans",Synonym,,L,IOPI,316704,883746-1,"Candollea","29: 42","","1974",kew-316711
+kew-316705,A,Juncaceae,,Luzula,,"spicata",f.,"compacta","(E.Mey.) I.Grint.",Synonym,,L,IOPI,316705,,"Fl. Reipubl. Popul. Roman.","11: 596","","1966.",kew-316703
+kew-316706,A,Juncaceae,,Luzula,,"spicata",var.,"compacta","E.Mey.",Synonym,,L,IOPI,316706,,"Syn. Luzul.","19","","1823",kew-316703
+kew-316707,A,Juncaceae,,Luzula,,"spicata",subsp.,"conglomerata","(W.D.J.Koch) Murr",Accepted,,L,IOPI,316707,,"Magyar Bot. Lapok","28: 67","","1929 publ. 1930",
+kew-316708,A,Juncaceae,,Luzula,,"spicata",var.,"conglomerata","W.D.J.Koch",Synonym,,L,IOPI,316708,,"Syn. Fl. Germ. Helv.","ed. 2: 848","","1844",kew-316707
+kew-316710,A,Juncaceae,,Luzula,,"spicata",var.,"interrupta","E.Mey.",Synonym,,L,IOPI,316710,,"Linnaea","22: 415","","1849",kew-316652
+kew-316711,A,Juncaceae,,Luzula,,"spicata",subsp.,"italica","(Parl.) Arcang.",Accepted,,L,IOPI,316711,,"Comp. Fl. Ital.","713","","1882",
+kew-316712,A,Juncaceae,,Luzula,,"spicata",var.,"italica","(Parl.) Rouy",Synonym,,L,IOPI,316712,,"Fl. France","13: 267","","1912",kew-316711
+kew-316713,A,Juncaceae,,Luzula,,"spicata",f.,"italica","(Parl.) H.Lindb.",Synonym,,L,IOPI,316713,,"Acta Soc. Sci. Fenn., Ser. B, Opera Biol.","1(2): 37","","1932",kew-316711
+kew-316714,A,Juncaceae,,Luzula,,"spicata",var.,"kjellmanii","Nath.",Synonym,,L,IOPI,316714,,"Kongl. Vetensk. Acad. Handl.","30: 28","","1884",kew-316319
+kew-316715,A,Juncaceae,,Luzula,,"spicata",var.,"kunawurensis","D.Don",Synonym,,L,IOPI,316715,,"Trans. Linn. Soc. London","18: 324","","1840",kew-316719
+kew-316716,A,Juncaceae,,Luzula,,"spicata",var.,"latifolia","Losa",Synonym,,L,IOPI,316716,,"Contr. Estac. Fl. Alava, Vitoria","1946: 43","","1946",kew-316324
+kew-316717,A,Juncaceae,,Luzula,,"spicata",var.,"major","Lange",Synonym,,L,IOPI,316717,,"Consp. Fl. Groenland.","128","","1880",kew-316703
+kew-316719,A,Juncaceae,,Luzula,,"spicata",subsp.,"mongolica","Novikov",Accepted,,L,IOPI,316719,951345-1,"Novosti Sist. Vyssh. Rast.","26: 34","","1989",
+kew-316720,A,Juncaceae,,Luzula,,"spicata",subsp.,"montsignatica","P.Monts.",Synonym,,L,IOPI,316720,,"Anales Inst. Bot. Cavanilles","21(2): 478","","1963 publ. 1964",kew-316707
+kew-316721,A,Juncaceae,,Luzula,,"spicata",subsp.,"mutabilis","Chrtek & Krísa",Synonym,,L,IOPI,316721,77113873-1,"Bot. Not.","115: 302","","1962",kew-316707
+kew-316722,A,Juncaceae,,Luzula,,"spicata",subsp.,"nevadensis","P.Monts.",Accepted,,L,IOPI,316722,,"Anales Inst. Bot. Cavanilles","21(2): 478","","1964",
+kew-316723,A,Juncaceae,,Luzula,,"spicata",var.,"nova","Smiley",Synonym,,L,IOPI,316723,146274-2,"Univ. Calif. Publ. Bot.","9: 128","","1921",kew-316703
+kew-316724,A,Juncaceae,,Luzula,,"spicata",f.,"petraea","Laest. ex Neuman",Synonym,,L,IOPI,316724,,"Sver. Fl.","665","","1901",kew-316703
+kew-316725,A,Juncaceae,,Luzula,,"spicata",var.,"petraea","Laest.",Synonym,,L,IOPI,316725,,"Bot. Not.","1858: 145","","1858",kew-316703
+kew-316726,A,Juncaceae,,Luzula,,"spicata",subsp.,"pindica","(Hausskn.) Gamisans",Synonym,,L,IOPI,316726,883747-1,"Candollea","29: 42","","1974",kew-316633
+kew-316727,A,Juncaceae,,Luzula,,"spicata",var.,"pindica","Hausskn.",Synonym,,L,IOPI,316727,,"Mitth. Thüring. Bot. Vereins","n.f., 13-14: 33","","1899",kew-316633
+kew-316728,A,Juncaceae,,Luzula,,"spicata",var.,"relaxa","Krylov",Synonym,,L,IOPI,316728,,"Fl. Alt.","6: 1401","","1912",kew-316703
+kew-316729,A,Juncaceae,,Luzula,,"spicata",subsp.,"saximontana","Á.Löve & D.Löve",Synonym,,L,IOPI,316729,146275-2,"Univ. Colorado Stud. Ser. Biol.","17: 17","","1965",kew-316703
+kew-316730,A,Juncaceae,,Luzula,,"spicata",var.,"simensis","Hochst.",Synonym,,L,IOPI,316730,,"It. Abyssin.","1154","","1842",kew-316123
+kew-316731,A,Juncaceae,,Luzula,,"spicata",subsp.,"spicata","",Synonym,,L,IOPI,316731,,"Unknown","","","",kew-316703
+kew-316732,A,Juncaceae,,Luzula,,"spicata",var.,"subpediformis","Schur",Synonym,,L,IOPI,316732,,"Enum. Pl. Transsilv.","683","","1866",kew-316707
+kew-316733,A,Juncaceae,,Luzula,,"spicata",var.,"tenella","E.Mey.",Synonym,,L,IOPI,316733,,"Linnaea","22: 415","","1849",kew-316484
+kew-316734,A,Juncaceae,,Luzula,,"stenophylla",,"","Steud.",Accepted,,H,IOPI,316734,443941-1,"Syn. Pl. Glumac.","2: 294","","1855",
+kew-316735,A,Juncaceae,,Luzula,,"stilbocarpa",,"","Kirschner & Krísa",Synonym,,H,IOPI,316735,443942-1,"Preslia","51: 336","","1979",kew-316711
+kew-316736,A,Juncaceae,,Luzula,,"subcapitata",,"","(Rydb.) H.D.Harr.",Accepted,,H,IOPI,316736,146276-2,"Man. Pl. Colorado","151","","1954",
+kew-316737,A,Juncaceae,,Luzula,,"subclavata",,"","Colenso",Synonym,,H,IOPI,316737,443945-1,"Trans. & Proc. New Zealand Inst.","18: 276","","1886",kew-316619
+kew-316738,A,Juncaceae,,Luzula,,"subcongesta",,"","(S.Watson) Jeps.",Accepted,,H,IOPI,316738,146277-2,"Fl. Calif.","1: 258","","1921",
+kew-316739,A,Juncaceae,,Luzula,,"subpilosa",,"","V.I.Krecz. & Gontsch.",Synonym,Illegitimate,H,IOPI,316739,443947-1,"Fl. URSS","3: 571","","1935",kew-316212
+tro-16900811,A,Juncaceae,,Luzula,,"subpilosa",,"","(Gilib.) V.I. Krecz.",Synonym,,M,TRO,16900811,,"","","","",kew-316212
+kew-316740,A,Juncaceae,,Luzula,,"subsessilis",,"","(S.Watson) Buchenau",Accepted,,H,IOPI,316740,146278-2,"Oesterr. Bot. Z.","48: 290","","1898",
+kew-316741,A,Juncaceae,,Luzula,,"sudetica",,"","(Willd.) Schult.",Accepted,,H,IOPI,316741,,"Oestr. Fl.","ed. 2, 1: 573","","1814",
+tro-16900475,A,Juncaceae,,Luzula,,"sudetica",,"","DC.",Unresolved,,L,TRO,16900475,443949-1,"Fl. Franç.","6: 306","306","1815",
+kew-316743,A,Juncaceae,,Luzula,,"sudetica",var.,"frigida","(Buchenau) Fernald",Synonym,,L,IOPI,316743,146279-2,"Rhodora","47: 265","","1945",kew-316499
+kew-316924,A,Juncaceae,,Luzula,,"sudetica",var.,"microstachya","Satake",Synonym,,L,IOPI,316924,,"Nov. Fl. Jap.","1: 40","","1938",kew-316574
+kew-316744,A,Juncaceae,,Luzula,,"sudetica",var.,"nipponica","Satake",Synonym,,L,IOPI,316744,,"Nov. Fl. Jap.","1: 30","","1938",kew-316551
+kew-316746,A,Juncaceae,,Luzula,,"sudetica",var.,"pauciflora","(Buchenau) Nakai",Synonym,,L,IOPI,316746,,"Rep. Veg. Daisetsu Mts.","60","","1930",kew-316574
+kew-316747,A,Juncaceae,,Luzula,,"sylvatica",,"","(Huds.) Gaudin",Accepted,,H,IOPI,316747,20009373-1,"Agrost. Helv.","2: 240","","1811",
+kew-316749,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"cantabrica","P.Monts.",Synonym,,L,IOPI,316749,,"Anales Inst. Bot. Cavanilles","21(2): 441","","1963 publ. 1964",kew-316754
+kew-316750,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"croatica","Beyer",Synonym,,L,IOPI,316750,,"Verh. Bot. Vereins Prov. Brandenburg","41: xix","","1900",kew-316747
+kew-316751,A,Juncaceae,,Luzula,,"sylvatica",var.,"croatica","(Beyer) Buchenau",Synonym,,L,IOPI,316751,,"Pflanzenr.","IV, 36: 55","","1906",kew-316747
+kew-316752,A,Juncaceae,,Luzula,,"sylvatica",var.,"dertosensis","P.Monts.",Synonym,,L,IOPI,316752,,"Anales Inst. Bot. Cavanilles","21(2): 441","","1963 publ. 1964",kew-316747
+kew-316753,A,Juncaceae,,Luzula,,"sylvatica",var.,"gracilis","Rostr. ex Beeby",Synonym,,L,IOPI,316753,,"Scott. Naturalist (Perth)","1887: 29","","1887",kew-316747
+kew-316754,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"henriquesii","(Degen) Pirajá",Accepted,,L,IOPI,316754,,"Agron. Lusit.","12: 359","","1951",
+kew-316755,A,Juncaceae,,Luzula,,"sylvatica",var.,"henriquesii","(Degen) Pau",Synonym,,L,IOPI,316755,,"Bol. Soc. Aragonesa Ci. Nat.","1916: 159","","1916",kew-316754
+kew-316756,A,Juncaceae,,Luzula,,"sylvatica",var.,"latifolia","(Wulfen) Buchenau",Synonym,,L,IOPI,316756,,"Pflanzenr.","IV, 36: 55","","1906",kew-316747
+kew-316758,A,Juncaceae,,Luzula,,"sylvatica",var.,"paularensis","Pau",Synonym,,L,IOPI,316758,,"Bol. Soc. Aragonesa Ci. Nat.","1916: 158","","1916",kew-316754
+kew-316760,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"sicula","(Parl.) K.Richt.",Accepted,,L,IOPI,316760,,"Pl. Eur.","1: 183","","1890",
+kew-316761,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"sieberi","(Tausch) K.Richt.",Accepted,,L,IOPI,316761,,"Pl. Eur.","1: 183","","1890",
+kew-316762,A,Juncaceae,,Luzula,,"sylvatica",var.,"sieberi","(Tausch) Buchenau",Synonym,,L,IOPI,316762,,"Bot. Jahrb. Syst.","12: 92","","1890",kew-316761
+kew-316763,A,Juncaceae,,Luzula,,"sylvatica",subsp.,"sylvatica","",Synonym,,L,IOPI,316763,,"Unknown","","","",kew-316747
+kew-316764,A,Juncaceae,,Luzula,,"taiwaniana",,"","Satake",Accepted,,H,IOPI,316764,443951-1,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","4(2): 202","","1933",
+kew-316765,A,Juncaceae,,Luzula,,"taurica",,"","(V.I.Krecz.) Novikov",Accepted,,H,IOPI,316765,962292-1,"Novosti Sist. Vyssh. Rast.","27: 20","","1990",
+kew-316766,A,Juncaceae,,Luzula,,"tenella",,"","(E.Mey.) R.Hinterh. & J.Hinterh.",Synonym,,H,IOPI,316766,,"Prodr. Fl. Salzburg","223","","1851",kew-316484
+kew-316767,A,Juncaceae,,Luzula,,"tolmatchewii",,"","Kuvaev",Synonym,,H,IOPI,316767,977267-1,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol.","n.s., 99(1): 118","","1994",kew-316552
+kew-316768,A,Juncaceae,,Luzula,,"traversii",,"","(Buchenau) Cheeseman",Accepted,,H,IOPI,316768,443953-1,"Man. New Zealand Fl.","ed. 2: 305","","1925",
+kew-316770,A,Juncaceae,,Luzula,,"traversii",var.,"traversii","",Synonym,,L,IOPI,316770,,"Unknown","","","",kew-316768
+kew-316771,A,Juncaceae,,Luzula,,"triandra",,"","Buchenau",Synonym,,H,IOPI,316771,443954-1,"Oesterr. Bot. Z.","48: 210","","1898",kew-316648
+kew-316772,A,Juncaceae,,Luzula,,"tristachya",,"","Desv.",Accepted,,H,IOPI,316772,443955-1,"J. Bot. (Desvaux)","1: 159","","1808",
+kew-316773,A,Juncaceae,,Luzula,,"tundricola",,"","Gorodkov ex V.N.Vassil.",Synonym,,H,IOPI,316773,146281-2,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R.","15: 40","","1953",kew-316433
+kew-316774,A,Juncaceae,,Luzula,,"turcica",,"","Chrtek & Krísa",Synonym,,H,IOPI,316774,443957-1,"Notes Roy. Bot. Gard. Edinburgh","25: 164","","1964",kew-316734
+tro-50197410,A,Juncaceae,,Luzula,,"turcica",,"","Chrtek & Knsa",Synonym,,M,TRO,50197410,,"","","","",kew-316734
+kew-316775,A,Juncaceae,,Luzula,,"ulei",,"","Buchenau",Accepted,,H,IOPI,316775,307830-2,"Bot. Jahrb. Syst.","26: 577","","1899",
+kew-316776,A,Juncaceae,,Luzula,,"ulophylla",,"","(Buchenau) Cockayne & Laing",Accepted,,H,IOPI,316776,443959-1,"Trans. & Proc. New Zealand Inst.","43: 366","","1911",
+kew-316777,A,Juncaceae,,Luzula,,"unalaschkensis",,"","(Buchenau) Satake",Synonym,,H,IOPI,316777,,"Nov. Fl. Jap.","1: 25","","1938",kew-316178
+tro-16900812,A,Juncaceae,,Luzula,,"unalaschkensis",subsp.,"camtschadalorum","Tolm.",Synonym,,L,TRO,16900812,,"","","","",kew-316178
+kew-316778,A,Juncaceae,,Luzula,,"unalaschkensis",subsp.,"kamtschdalorum","(Sam.) Tolm.",Synonym,,L,IOPI,316778,,"in Arktich. Fl. SSSR","4: 40","","1963",kew-316178
+kew-316780,A,Juncaceae,,Luzula,,"variabilis",,"","Buchenau",Synonym,Illegitimate,H,IOPI,316780,,"Bot. Jahrb. Syst.","7: 171","","1885",kew-316150
+kew-316781,A,Juncaceae,,Luzula,,"velutina",,"","Lange",Synonym,,H,IOPI,316781,443962-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","1881: 93","","1881",kew-316442
+kew-316782,A,Juncaceae,,Luzula,,"vernalis",,"","(Reichard) DC.",Synonym,,H,IOPI,316782,443963-1,"Fl. Franç.","ed. 3, 3: 160","","1805",kew-316622
+kew-341444,A,Juncaceae,,Luzula,,"vernalis",var.,"borreri","(Bromf. ex Bab.) Nyman",Synonym,,L,IOPI,341444,,"Consp. Fl. Eur.","752","","1882",kew-316934
+kew-316783,A,Juncaceae,,Luzula,,"vernalis",subsp.,"forsteri","(Sm.) Bonnier & Layens",Synonym,,L,IOPI,316783,,"Tabl. Syn. Pl. Vasc. France","322","","1894",kew-316366
+kew-316784,A,Juncaceae,,Luzula,,"villosa",,"","Wikstr.",Synonym,,H,IOPI,316784,443965-1,"Kongl. Vetensk. Acad. Handl.","1823(2): 276","","1823",kew-316146
+kew-316937,A,Juncaceae,,Luzula,×,"vinesii",,"","Murr",Accepted,,H,IOPI,316937,,"Tiroler Anzeiger","163","","1925",
+kew-316785,A,Juncaceae,,Luzula,,"vinogradovii",,"","Sipliv.",Synonym,,H,IOPI,316785,443967-1,"Novosti Sist. Vyssh. Rast.","12: 290","","1975",kew-316520
+kew-316786,A,Juncaceae,,Luzula,,"volkensii",,"","Buchenau",Synonym,,H,IOPI,316786,,"Bot. Jahrb. Syst.","21: 192","","1896",kew-316123
+kew-316787,A,Juncaceae,,Luzula,,"vulcanica",,"","Liebm.",Accepted,,H,IOPI,316787,443969-1,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn","2: 44","","1850",
+kew-316788,A,Juncaceae,,Luzula,,"vulgaris",,"","Buchenau",Synonym,Illegitimate,H,IOPI,316788,443970-1,"Bot. Jahrb. Syst.","7: 175","","1885",kew-316212
+kew-316789,A,Juncaceae,,Luzula,,"wahlenbergii",,"","Rupr.",Accepted,,H,IOPI,316789,,"Fl. Samojed. Cisural.","58","","1845",
+kew-316790,A,Juncaceae,,Luzula,,"wahlenbergii",f.,"americana","Kurz",Synonym,,L,IOPI,316790,,"Bot. Jahrb. Syst.","19: 411","","1894",kew-316634
+kew-316791,A,Juncaceae,,Luzula,,"wahlenbergii",subsp.,"piperi","(Coville) Hultén",Synonym,,L,IOPI,316791,146284-2,"Ark. Bot.","a.s., 7(1): 33","","1967 publ. 1968",kew-316634
+tro-16900532,A,Juncaceae,,Luzula,,"wahlenbergii",subsp.,"wahlenbergii","",Synonym,,L,TRO,16900532,,"","","","",kew-316789
+kew-316930,A,Juncaceae,,Luzula,×,"wettsteinii",,"","Buchenau",Accepted,,H,IOPI,316930,443972-1,"Oesterr. Bot. Z.","48: 213","","1898",
+kew-316921,A,Juncaceae,,Luzula,×,"winderiae",,"","Murr",Unresolved,,L,IOPI,316921,443973-1,"Magyar Bot. Lapok","28: 67","","1930",
+kew-316926,A,Juncaceae,,Luzula,,"yakusimensis",,"","(Masam.) Masam.",Synonym,,H,IOPI,316926,443974-1,"Bull. Soc. Bot. France","83: 696","","1936",kew-316551

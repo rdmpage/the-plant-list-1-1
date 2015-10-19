@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-89887,A,Compositae,,Oligoneuron,,"album",,"","(Nutt.) G.L.Nesom",Synonym,,L,TICA,4DA2E9F2-D35D-4B28-85BA-82C290374F86,1169797-2,"","","28","1993",gcc-33632
+gcc-32752,A,Compositae,,Oligoneuron,×,"bernardii",,"","(B.Boivin) G.L.Nesom",Synonym,,M,TICA,55AE065C-57D8-4049-AD41-3CBB26B5E64A,1186001-2,"","","30","1993",gcc-49535
+gcc-40947,A,Compositae,,Oligoneuron,,"bombycinum",,"","Lunell",Synonym,,M,TICA,E0175FFA-2283-4D45-949D-4BDDF9AC1C6B,173711-2,"Amer. Midl. Naturalist 2: 59. 1911","","59","1911",gcc-56435
+gcc-31706,A,Compositae,,Oligoneuron,,"canescens",,"","Rydb.",Synonym,,M,TICA,5677327B-0F25-43EF-A7ED-3AC2D795CE03,235064-1,"","","652","",gcc-56435
+gcc-8928,A,Compositae,,Oligoneuron,,"corymbosum",,"","(Elliott) Small",Synonym,Illegitimate,M,TICA,8FCD8057-8A90-4BCC-8DFC-10B5BAEC94C9,173713-2,"""Fl. S.E. U.S. 1188, 1339. 1903 [22 Jul 1903]""","","""1188, 1339""","1903",gcc-55318
+gcc-155636,A,Compositae,,Oligoneuron,,"corymbosum",var.,"corymbosum","",Synonym,,L,TICA,6226DE26-E235-41CD-9A76-DC5DC31C64EC,,"","","","",gcc-55318
+gcc-61307,A,Compositae,,Oligoneuron,,"corymbosum",var.,"humile","(Porter) Beaudry & Kapoor",Synonym,,L,TICA,D9A7A0D6-F58C-4791-B135-A57D5FC745AB,,"","","","",gcc-56435
+gcc-15472,A,Compositae,,Oligoneuron,,"grandiflorum",,"","(Raf.) Small",Synonym,,M,TICA,69A55673-EB11-462E-90FD-1CA6BF3AA700,,"Manual of the Southeastern Flora","","1361","1933",gcc-90277
+gcc-37274,A,Compositae,,Oligoneuron,,"houghtonii",,"","(Torr. & A.Gray ex A.Gray) G.L.Nesom",Synonym,,M,TICA,77A343D9-0243-4770-A58A-450DC3DB70DA,,"Phytologia 75(1): 29 (1993):.","","29","1993",gcc-6700
+gcc-131698,A,Compositae,,Oligoneuron,,"jacksonianum",,"","Small",Unresolved,,L,TICA,80B4BF2A-4E15-4F86-B7D0-E1831859ECD3,235066-1,"""Man. Southeast. Fl. 1509 (1933), sphalm.""","","1509","",
+gcc-144916,A,Compositae,,Oligoneuron,,"jacksonii",,"","(Kuntze) Small",Synonym,,M,TICA,F0C04640-9CC6-4A6A-AC92-FF4064EE695E,235067-1,"","","1361","1933",gcc-55318
+gcc-127444,A,Compositae,,Oligoneuron,×,"krotkovii",,"","(B.Boivin) G.L.Nesom",Accepted,,M,TICA,D9514F72-09DE-4CF8-BFDB-D7ABC45C2112,1127611-2,"","","30","1993",
+gcc-24222,A,Compositae,,Oligoneuron,×,"lutescens",,"","(Lindl. ex DC.) G.L.Nesom",Synonym,,M,TICA,13CDE459-E4A9-42AA-8D57-2CBB3E554824,,"","","29","1993",gcc-22412
+gcc-119789,A,Compositae,,Oligoneuron,×,"maheuxii",,"","(B.Boivin) G.L.Nesom",Unresolved,,L,TICA,53BE9147-F255-4554-86BF-C5F931027401,,"Phytologia 75(1): 30 (1993):","","30","",
+gcc-102540,A,Compositae,,Oligoneuron,,"nitidum",,"","(Torr. & A.Gray) Small",Synonym,,M,TICA,5E6A6F3E-6FA6-4038-9410-9F5A3AD16BA9,235068-1,"","","","1903",gcc-10867
+gcc-44429,A,Compositae,,Oligoneuron,,"ohioense",,"","(Frank ex Riddell) G.N.Jones",Synonym,,M,TICA,A63CF931-6CC2-4BF3-838A-52520668BF4F,,"","","","1942",gcc-48088
+gcc-94149,A,Compositae,,Oligoneuron,,"riddellii",,"","Rydb.",Synonym,,M,TICA,5EFBF6BF-9D7C-4530-A2B8-8C522D027927,173717-2,"","","799","1932",gcc-755
+gcc-81971,A,Compositae,,Oligoneuron,,"rigidum",,"","(L.) Small",Synonym,,M,TICA,9B29A17D-8D02-440C-93B4-70FD2C0D6B78,235071-1,"","","","1903",gcc-90277
+gcc-69183,A,Compositae,,Oligoneuron,,"rigidum",var.,"glabratum","(E.L.Braun) G.L.Nesom",Synonym,,L,TICA,8431687C-CF4B-41BD-8DC3-E4879198CEC1,1034675-2,"","","27","1993",gcc-55318
+gcc-64729,A,Compositae,,Oligoneuron,,"rigidum",var.,"humilis","(Porter) G.L.Nesom",Synonym,,L,TICA,C977CDBC-F4B1-4137-9637-C0AE7A69AB7B,,"","","27","1993",gcc-56435
+gcc-65428,A,Compositae,,Oligoneuron,,"rigidum",var.,"rigidum","",Synonym,,L,TICA,3A1A3F98-23CD-4FBF-A385-C6B860321B73,,"","","","",gcc-90277

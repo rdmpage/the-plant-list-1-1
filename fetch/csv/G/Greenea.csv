@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-92632,A,Rubiaceae,,Greenea,,"bahadurii",,"","R.C.Gaur & Dayal",Accepted,,H,WCSP,92632,929980-1,"Indian J. Forest.","8: 323","","1985 publ. 1986",
+kew-274346,A,Rubiaceae,,Greenea,,"commersonii",,"","(Korth.) Tange ex Ruhsam",Accepted,,H,WCSP,274346,77089827-1,"Bot. J. Linn. Soc.","157: 121","","2008",
+kew-92633,A,Rubiaceae,,Greenea,,"corymbosa",,"","(Jack) Voigt",Accepted,,H,WCSP,92633,20008159-1,"Hort. Suburb. Calcutt.","385","","1845",
+tro-50310219,A,Rubiaceae,,Greenea,,"corymbosa",,"","(Jack) K. Schum.",Synonym,,M,TRO,50310219,751614-1,"Nat. Pflanzenfam.","4(4): 37","37","1891",kew-92633
+kew-92634,A,Rubiaceae,,Greenea,,"distantiflora",,"","Merr.",Synonym,,H,WCSP,92634,751615-1,"Mitt. Inst. Allg. Bot. Hamburg","7: 276","","1937",kew-5915
+kew-92635,A,Rubiaceae,,Greenea,,"hirsuta",,"","Elmer",Unresolved,,L,WCSP,92635,751616-1,"Leafl. Philipp. Bot.","5: 1857","","1913",
+kew-92636,A,Rubiaceae,,Greenea,,"jackii",,"","Wight & Arn.",Synonym,Illegitimate,H,WCSP,92636,751618-1,"Prodr. Fl. Ind. Orient.","404","","1834",kew-92633
+kew-92637,A,Rubiaceae,,Greenea,,"latifolia",,"","Teijsm. & Binn.",Accepted,,H,WCSP,92637,751619-1,"Cat. Hort. Bot. Bogor.","116","","1866",
+kew-92638,A,Rubiaceae,,Greenea,,"longiflora",,"","Merr.",Synonym,,H,WCSP,92638,751620-1,"Philipp. J. Sci., C","4: 323","","1909",kew-205911
+kew-92639,A,Rubiaceae,,Greenea,,"macrophylla",,"","Teijsm. & Binn.",Synonym,,H,WCSP,92639,751621-1,"Natuurk. Tijdschr. Ned.-Indië","29: 248","","1867",kew-205917
+kew-92640,A,Rubiaceae,,Greenea,,"oblonga",,"","Craib",Accepted,,H,WCSP,92640,751622-1,"Bull. Misc. Inform. Kew","1931: 211","","1931",
+kew-92641,A,Rubiaceae,,Greenea,,"oblonga",var.,"venosa","Craib",Synonym,,L,WCSP,92641,,"Fl. Siam.","2: 25","","1932",kew-92640
+kew-92642,A,Rubiaceae,,Greenea,,"parkinsonii",,"","C.E.C.Fisch.",Accepted,,H,WCSP,92642,751623-1,"Bull. Misc. Inform. Kew","1927: 90","","1927",
+kew-92643,A,Rubiaceae,,Greenea,,"secunda",,"","(Griff.) Craib",Accepted,,H,WCSP,92643,751624-1,"Fl. Siam.","2: 25","","1932",
+kew-92644,A,Rubiaceae,,Greenea,,"siamensis",,"","Craib",Accepted,,H,WCSP,92644,751625-1,"Bull. Misc. Inform. Kew","1931: 211","","1931",
+kew-92645,A,Rubiaceae,,Greenea,,"siamensis",var.,"longicalyx","Craib",Synonym,,L,WCSP,92645,,"Fl. Siam.","2: 27","","1932",kew-92644
+kew-92646,A,Rubiaceae,,Greenea,,"tetrandra",,"","(Roxb.) Miq.",Synonym,,H,WCSP,92646,751626-1,"Fl. Ned. Ind.","2: 157","","1856",kew-97790
+kew-92647,A,Rubiaceae,,Greenea,,"wightiana",,"","Wight & Arn.",Accepted,,H,WCSP,92647,751627-1,"Prodr. Fl. Ind. Orient.","404","","1834",
+kew-92648,A,Rubiaceae,,Greenea,,"xanthophytoides",,"","Valeton",Synonym,,H,WCSP,92648,751628-1,"Icon. Bogor.","t. 358","","1913",kew-133901

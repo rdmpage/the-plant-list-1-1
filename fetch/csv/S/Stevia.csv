@@ -1,0 +1,645 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92815,A,Compositae,,Stevia,,"achalensis",,"","Hieron.",Accepted,,M,TICA,A37D713C-8383-4639-9976-896D6AD47E02,,"","","712","1897",
+gcc-39231,A,Compositae,,Stevia,,"acuminata",,"","Sessé & Moc.",Unresolved,,L,TICA,0DD5C989-205F-4EDE-B86B-48CC31EF7356,,"","","","",
+gcc-14046,A,Compositae,,Stevia,,"adenophora",,"","Lag.",Accepted,,M,TICA,5318C62D-47D3-4CB1-ACE5-1A0C3053615E,251239-1,"Gen. et Sp. Nov. 27.","","27","1816",
+gcc-37691,A,Compositae,,Stevia,,"alatipes",,"","B.L.Rob.",Accepted,,M,TICA,635EA8C2-E69B-4399-92F7-45E569D802BF,245225-2,"","","28","1907",
+gcc-7140,A,Compositae,,Stevia,,"alpina",,"","Griseb.",Accepted,,M,TICA,18539D00-6B2E-4B74-8B45-0D48425935B3,,"in Goett. Abh. xix. (1874) 165.","","","1874",
+gcc-53738,A,Compositae,,Stevia,,"alpina",var.,"alpina","",Synonym,,L,TICA,83733BD7-1880-437E-88D3-68799AA0E763,,"Abh. Königl. Ges. Wiss. Göttingen 19: 165 (1874)","","165","1874",gcc-7140
+gcc-136390,A,Compositae,,Stevia,,"alternans",,"","Sessé & Moc.",Unresolved,,L,TICA,37661B08-693D-4F85-B8B0-EC1F0D6AC80D,,"","","","",
+gcc-143966,A,Compositae,,Stevia,,"alternifolia",,"","Hieron.",Accepted,,M,TICA,54CE12CC-5293-4A78-A87D-FD09C4FD9DE2,,"","","740","1897",
+gcc-124050,A,Compositae,,Stevia,,"amabilis",,"","Lemmon ex A.Gray",Synonym,,L,TICA,717A4BB1-2FA5-4A90-BD54-CFCEEEB83CC2,251243-1,"Proc. Amer. Acad. Arts xix. (1884) 1.","","1","1884",gcc-96300
+gcc-20845,A,Compositae,,Stevia,,"amambayensis",,"","B.L.Rob.",Accepted,,M,TICA,57E3A652-BE3C-40FF-93A2-268BCC884B43,245227-2,"Contr. Gray Herb. 90","","6","1930",
+gcc-111455,A,Compositae,,Stevia,,"amblyolepis",,"","(B.L.Rob.) B.L.Rob.",Accepted,,M,TICA,D224F49C-1E0C-45BE-B620-B329504D46EE,245228-2,"Contr. Gray Herb. 90","","6","1930",
+gcc-26241,A,Compositae,,Stevia,,"amblyolepis",var.,"amblyolepis","",Synonym,,L,TICA,09FCC9AC-B726-44C7-8D42-30862C081006,,"","","","1930",gcc-111455
+gcc-42352,A,Compositae,,Stevia,,"amblyolepis",var.,"umbratilis","B.L.Rob.",Synonym,,L,TICA,D4F53F54-6D4D-4FCF-8821-4E76425A89F2,,"""Contr. Gray Herb. 90: 6, 140. 1930""","","","1930",gcc-111455
+gcc-76898,A,Compositae,,Stevia,,"ammotropha",,"","B.L.Rob.",Accepted,,M,TICA,CFE7ED5D-1375-41BE-84AD-65A7B48C49AB,245231-2,"Contr. Gray Herb. 90","","7","1930",
+gcc-154430,A,Compositae,,Stevia,,"amplexicaulis",,"","Beauverd ex Herzog",Synonym,,M,TICA,219CD290-270D-4B02-89FC-C362E51B8E8C,,"","","","",gcc-28436
+gcc-9816,A,Compositae,,Stevia,,"amplexicaulis",,"","Hassl.",Accepted,,M,TICA,2239171C-2FAC-4459-A80A-1257B7BD7B71,245232-2,"Repert. Spec. Nov. Regni Veg. 11","","165","1912",
+gcc-104446,A,Compositae,,Stevia,,"anadenotricha",,"","(B.L.Rob.) Grashoff",Accepted,,M,TICA,2FF584A7-393C-4CAB-B05B-A383AE1D471A,,"Brittonia 24(4): 392 (1972).","","","1974",
+gcc-150270,A,Compositae,,Stevia,,"anderssonii",,"","H.Rob.",Accepted,,M,TICA,8C9D55C3-FE76-40A5-A59F-6AB8E5A3B41B,77091050-1,"Fl. Ecuador 83: 322 (-323). 2008","","322 (-323).","2008",
+gcc-134445,A,Compositae,,Stevia,,"andina",,"","B.L.Rob.",Accepted,,M,TICA,45D941CC-6DF3-4940-A424-E7D402153030,245233-2,"Contr. Gray Herb. 96","","3","1931",
+gcc-107628,A,Compositae,,Stevia,,"angustifolia",,"","Kunth",Synonym,,M,TICA,FCB6BA7B-C428-499B-B882-AA81928D6BC4,,"","","","",gcc-75360
+gcc-145912,A,Compositae,,Stevia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,DB028ADC-3900-4FCD-9CC7-0D6E5D55696F,,"","","","",gcc-75360
+gcc-8193,A,Compositae,,Stevia,,"anisostemma",,"","Turcz.",Accepted,,M,TICA,86FDE7B3-AAC7-465A-AAD6-0F3B40E00883,251251-1,"","","167","1851",
+gcc-154462,A,Compositae,,Stevia,,"anisostemma",var.,"anisostemma","",Synonym,,L,TICA,F23C31BF-827B-478E-8D83-C3EBAC09DE73,,"","","","",gcc-8193
+gcc-61089,A,Compositae,,Stevia,,"anisostemma",var.,"wagneri","B.L.Rob.",Synonym,,L,TICA,4E38BEDD-1A0A-4632-A343-A3C4F4EDB3CB,245237-2,"Contr. Gray Herb. 104: 5. 1934","","5","1934",gcc-8193
+gcc-81277,A,Compositae,,Stevia,,"apensis",,"","B.L.Rob.",Accepted,,M,TICA,B7070C2C-8ACF-43CF-A4BC-6F6EE4500227,245238-2,"Contr. Gray Herb. 90","","7","1930",
+gcc-10559,A,Compositae,,Stevia,,"arachnoidea",,"","B.L.Rob.",Accepted,,M,TICA,870FEA0B-FF0B-45C8-92FB-13B918382166,245239-2,"","","326","1900",
+gcc-143468,A,Compositae,,Stevia,,"arbutifolia",,"","(Kunth) Willd. ex DC.",Synonym,Invalid,M,TICA,72FF6F07-0306-4D70-A470-FBFAA1A97A5F,251254-1,"Prodr. (DC.) 5: 115","","115","1836",gcc-77396
+gcc-45964,A,Compositae,,Stevia,,"arbutifolia",,"","(Kunth) Willd.",Unresolved,Illegitimate,L,TICA,226865C4-DBF0-4A99-9F9C-5533FA87BF5C,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","115","1836",
+tro-2708291,A,Compositae,,Stevia,,"arbutifolia",,"","(Kunth) Willd. ex Less.",Synonym,,M,TRO,2708291,,"Linnaea","5: 140","140","1830",gcc-77396
+gcc-24385,A,Compositae,,Stevia,,"aristata",,"","D.Don ex Hook. & Arn.",Accepted,,M,TICA,0ACA27FF-F49B-485F-8098-2D0D62386B0F,,"","","238","1835",
+gcc-155944,A,Compositae,,Stevia,,"aristata",var.,"aristata","",Synonym,,L,TICA,B0D9A1AB-21E4-458B-B95B-E33019944878,,"","","","",gcc-24385
+gcc-59169,A,Compositae,,Stevia,,"aristata",var.,"villaricensis","B.L.Rob.",Synonym,,L,TICA,3C48AC80-4DD1-4F0E-BA0A-94663E82AF92,,"Contr. Gray Herb. 90: 86. 1930","","8","1930",gcc-35349
+gcc-75750,A,Compositae,,Stevia,,"arnottiana",,"","Baker",Synonym,,M,TICA,26332E59-52E6-4FB1-B116-632733604E21,,"Fl. Bras. (Martius) 6(2): 201","","201","1876",gcc-112265
+gcc-112029,A,Compositae,,Stevia,,"aschenborniana",,"","Sch.Bip.",Unresolved,,L,TICA,63C29F3A-2BDA-40CC-9EBE-B476E3E7469E,251257-1,"Linnaea 25: 269. 1853","","269","1852",gcc-85251
+gcc-122721,A,Compositae,,Stevia,,"baccharifolia",,"","B.L.Turner",Accepted,,M,TICA,F21CC7C1-1D72-40BE-929F-CCA3C167914F,306010-2,"","","369","1993",
+gcc-102319,A,Compositae,,Stevia,,"baccharoides",,"","(DC.) F.Meigen",Synonym,,M,TICA,ECCE0B10-10E3-40DE-89C0-9EDB9CB7EE51,,"","","283","1893",gcc-109553
+gcc-110194,A,Compositae,,Stevia,,"balansae",,"","Hieron.",Accepted,,M,TICA,21326C7D-755C-4B00-9B59-B04FAC6B5321,,"","","739","1897",
+gcc-153834,A,Compositae,,Stevia,,"balansae",var.,"balansae","",Synonym,,L,TICA,88CDF53F-97A6-40D6-B11D-B6448B1DBF6C,,"","","","",gcc-110194
+gcc-138682,A,Compositae,,Stevia,,"bangii",,"","Rusby",Unresolved,Illegitimate,L,TICA,E1810122-824E-43BA-A91A-F123AA945DA7,245245-2,"","","209","1895",
+gcc-155478,A,Compositae,,Stevia,,"bangii",,"","Beauverd ex Herzog",Synonym,,L,TICA,CE60E99A-BE4C-41C6-9CF6-D91A7917B6B8,,"","","","",gcc-8285
+gcc-156006,A,Compositae,,Stevia,,"bangii",var.,"bangii","",Synonym,,L,TICA,4CE47280-D087-49C3-9E81-E491AE22361B,,"","","","",gcc-138682
+gcc-27588,A,Compositae,,Stevia,,"bangii",var.,"dyscrita","B.L.Rob.",Synonym,,L,TICA,281600B7-0887-4628-83C4-32FD77963710,245246-2,"Contr. Gray Herb. 100: 3. 1932","","3","1932",gcc-138682
+gcc-138890,A,Compositae,,Stevia,,"batesii",,"","B.L.Rob.",Synonym,,M,TICA,EFA12081-3D22-4564-A930-F18E6DA56D7B,245248-2,"Contr. Gray Herb. 104","","6","1934",gcc-143869
+gcc-83820,A,Compositae,,Stevia,,"beckii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,8B780140-11AD-4CE6-925C-7519F6D13B39,245249-2,"","","173","1982",
+gcc-46430,A,Compositae,,Stevia,,"benderi",,"","Perkins",Accepted,,M,TICA,46929A54-A30B-4E2B-BBAB-560D9C6339B9,245250-2,"","","221","1913",
+gcc-154202,A,Compositae,,Stevia,,"benderi",var.,"benderi","",Synonym,,L,TICA,B425F3E7-56C0-4E6C-8B7D-BEA07DE5C845,,"","","","",gcc-46430
+gcc-62918,A,Compositae,,Stevia,,"benderi",var.,"cardenasii","B.L.Rob.",Synonym,,L,TICA,C2A85A77-ED16-4A95-B4D6-B2B56C0204BB,245251-2,"Contr. Gray Herb. 104: 7. 1934","","7","1934",gcc-46430
+gcc-22522,A,Compositae,,Stevia,,"benthamiana",,"","Hieron.",Synonym,,M,TICA,0E407E3A-384D-4873-97D7-29A8D6B508F9,245253-2,"Bot. Jahrb. Syst. 28","","561","1901",gcc-30128
+gcc-22156,A,Compositae,,Stevia,,"benthamiana",var.,"benthamiana","",Synonym,,L,TICA,407E1A5E-723F-4081-9C7F-28FBD68C4DD6,,"","","","",gcc-30128
+gcc-52786,A,Compositae,,Stevia,,"berlandieri",,"","A.Gray",Accepted,,M,TICA,4C742734-95ED-4575-8EF5-61DFECA28350,251264-1,"""in Torr. Bot. Mex. Bound. 73, in Adnot.""","","73","1859",
+gcc-60202,A,Compositae,,Stevia,,"berlandieri",var.,"anadenotricha","B.L.Rob.",Synonym,,L,TICA,7D7A6B28-D776-46B2-9F08-9C63C73E34FC,245255-2,"Proc. Amer. Acad. Arts 44: 617. 1909","","617","1909",gcc-104446
+gcc-56434,A,Compositae,,Stevia,,"berlandieri",var.,"berlandieri","",Synonym,,L,TICA,75BA21D1-6788-4858-8390-7E7F8837169D,,"","","","1859",gcc-52786
+gcc-48809,A,Compositae,,Stevia,,"bermejensis",,"","Hieron.",Accepted,,M,TICA,41053D69-FF3C-4A37-84A5-5A6B7C1AFFA1,245258-2,"","","361","1908",
+gcc-41010,A,Compositae,,Stevia,,"bertholdii",,"","B.L.Rob.",Synonym,,M,TICA,0812A52B-8967-4079-9608-4C02EAD6746B,245259-2,"Contr. Gray Herb. 96","","4","1931",gcc-134445
+gcc-101111,A,Compositae,,Stevia,,"bicrenata",,"","Klatt",Synonym,,L,TICA,43D13DF5-1B25-46CB-BA74-9C1D567F5F1F,,"","","","1886",gcc-102257
+gcc-102183,A,Compositae,,Stevia,,"bisecta",,"","M.E.Jones",Synonym,,M,TICA,77F00287-DC79-42A5-BFA4-9E7B50FE2A0D,315624-2,"","","70","1933",gcc-43041
+gcc-119799,A,Compositae,,Stevia,,"boliviensis",,"","Sch.Bip.",Synonym,Illegitimate,L,TICA,A83E794C-E568-4E73-B6E3-C5FEC2C063FD,,"Bull. Soc. Bot. France 12: 81","","","1865",gcc-82700
+gcc-22993,A,Compositae,,Stevia,,"boliviensis",,"","Sch.Bip. ex Griseb.",Accepted,,M,TICA,462D60A3-A6EC-4B1B-9A81-2A9357453513,,"Abhandlungen der Koniglichen Gesellschaft der Wissenschaften zu Gottingen 24:","","166","1879",
+gcc-82700,A,Compositae,,Stevia,,"boliviensis",,"","Sch.Bip. ex Rusby",Unresolved,Illegitimate,L,TICA,BE570B08-C5E6-4B27-9E7A-72A4247DF6D0,,"Mem. Torrey Bot. Club 3(3): 51. 1893.","","","1893",
+gcc-123005,A,Compositae,,Stevia,,"breviaristata",,"","Hook. & Arn.",Accepted,,M,TICA,B91EDF6C-7C0A-4182-AA15-CD54036DAE95,,"","","238","1835",
+gcc-91231,A,Compositae,,Stevia,,"breviflora",,"","(Cass.) Sch.Bip.",Accepted,,M,TICA,148CF5B9-F653-4CE1-934F-85E653E37C2C,,"Linnaea 25: 291. 1853","","291","1852",
+gcc-32451,A,Compositae,,Stevia,,"brevipapposa",,"","Hieron.",Synonym,,L,TICA,979AA67D-141D-46D9-AEFA-3C2CE66BCE74,,"","","718","1897",gcc-82700
+gcc-45748,A,Compositae,,Stevia,,"bridgesii",,"","Rusby",Accepted,,M,TICA,050F33A6-31B7-4A17-B6E9-54D3FADAE978,245262-2,"","","377","1907",
+gcc-7657,A,Compositae,,Stevia,,"brunetii",,"","Hieron.",Accepted,,M,TICA,0DD0F54D-431C-45E8-8C55-0E3AADDD56C9,,"","","723","1897",
+gcc-96862,A,Compositae,,Stevia,,"burkartii",,"","B.L.Rob.",Accepted,,M,TICA,0E1F213D-B296-48C1-BACA-928011F89FA3,245264-2,"Contr. Gray Herb. 96","","4","1931",
+gcc-14167,A,Compositae,,Stevia,,"cajabambensis",,"","Hieron.",Accepted,,M,TICA,EE130603-0CAF-450A-938C-1A4290300771,245265-2,"","","367","1908",
+gcc-86882,A,Compositae,,Stevia,,"calderillensis",,"","Hieron.",Accepted,,M,TICA,4A52BAA3-4D57-43F8-9CA1-7BF1F0F0D6FC,245266-2,"","","356","1908",
+gcc-18719,A,Compositae,,Stevia,,"callosa",,"","Cerv.",Unresolved,Illegitimate,L,TICA,3DEA0FE0-01D8-4F08-B3AF-229323F1FE6A,,"Loudon's Hortus Britannicus.  A catalogue . . .","","335","1830?",
+gcc-76042,A,Compositae,,Stevia,,"callosa",,"","Nutt.",Synonym,,L,TICA,CE15492D-4196-451F-BB8B-63C436C8DCAA,,"in Journ. Acad. Philad. ii. (1821) 121.","","","1821",gcc-138316
+gcc-80766,A,Compositae,,Stevia,,"callosa",,"","Cerv. ex Loudon",Unresolved,,L,TICA,6102D6C1-2B0C-421D-A084-6E4BA68E3D84,251279-1,"Hort. Brit. 335 (Quid ?).","","335","",
+gcc-136795,A,Compositae,,Stevia,,"caltepecana",,"","B.L.Turner",Accepted,,M,TICA,72073991-B56B-4A5D-943C-ED0A9667E4D4,,"","","","1990",
+gcc-126340,A,Compositae,,Stevia,,"calycina",,"","DC.",Synonym,,M,TICA,C9EDD00B-1FC0-4E2E-AC28-D522AFC3BAC4,251280-1,"Prodr. (DC.) 5: 124","","124","1836",gcc-29843
+gcc-81918,A,Compositae,,Stevia,,"calzadana",,"","B.L.Turner",Accepted,,M,TICA,847C460C-200B-4FD8-AF3B-70DC94F13269,,"","","5","",
+gcc-5543,A,Compositae,,Stevia,,"camachensis",,"","Hieron.",Accepted,,M,TICA,3D421CE1-456B-4BCE-B43D-0A55EB18FC9D,245268-2,"","","359","1908",
+gcc-39677,A,Compositae,,Stevia,,"camporum",,"","Baker",Accepted,,M,TICA,CF0A3343-B83A-4521-958B-499F18DCF500,,"Fl. Bras. (Martius) 6(2): 202","","202","1876",
+gcc-83018,A,Compositae,,Stevia,,"camporum",,"","Griseb.",Synonym,Illegitimate,M,TICA,BF89F0A9-684D-4AAA-ACE8-735BCA1D6987,,"Abh. Königl. Ges. Wiss. Göttingen 24: 166 (1879)","","166","1879",gcc-134577
+gcc-44206,A,Compositae,,Stevia,,"canescens",,"","Kunth",Synonym,,M,TICA,747B83A7-A12C-40C3-A66C-51DD759AE98F,,"","","112","1820 [1818]",gcc-7629
+gcc-84068,A,Compositae,,Stevia,,"caracasana",,"","DC.",Accepted,,M,TICA,BFA2E3CF-BAEA-4220-89A7-75AC573C4592,251284-1,"","","119","1836",
+gcc-20570,A,Compositae,,Stevia,,"carapariensis",,"","Cabrera & Vittet",Accepted,,M,TICA,AB4EFD59-1F6B-4950-BC43-2610B7D6761F,245270-2,"","","188","1954",
+gcc-19780,A,Compositae,,Stevia,,"cardiatica",,"","Perkins",Accepted,,M,TICA,53816F77-B93F-4D5D-A8EA-249421A84528,245271-2,"","","222","1913",
+gcc-151453,A,Compositae,,Stevia,,"catharinensis",,"","Cabrera",Accepted,,M,TICA,CBE4A355-A35E-4B28-B7BE-84DF60BF8633,251287-1,"","","157","1963",
+gcc-52228,A,Compositae,,Stevia,,"cathartica",,"","Poepp. & Endl.",Accepted,,M,TICA,BE3467F7-40E5-48BB-B0AC-60DB01EE5FDE,,"Nov. Gen. Sp. Pl. (Poeppig & Endlicher) iii. 55.","","55","1845",
+gcc-87649,A,Compositae,,Stevia,,"centinelae",,"","Cabrera",Accepted,,M,TICA,2138DCE2-B54B-47A4-87E6-7DBEFAEE6449,245273-2,"","","319","1974",
+gcc-108688,A,Compositae,,Stevia,,"chacoensis",,"","R.E.Fr.",Accepted,,M,TICA,C372191F-3CF4-4333-88BF-ACE2BE66CCFC,251290-1,"","","7","1906",
+gcc-94226,A,Compositae,,Stevia,,"chamaedrys",,"","Griseb.",Accepted,,M,TICA,48261109-A198-4668-8623-8C814B5BE27F,251291-1,"in Goett. Abh. xxiv. (1879) 167.","","167","1879",
+gcc-69723,A,Compositae,,Stevia,,"chamaedrys",var.,"chamaedrys","",Synonym,,L,TICA,D73E2FD5-B197-45C0-A8AD-E88F240C6C31,,"","","","",gcc-94226
+gcc-25502,A,Compositae,,Stevia,,"chiapensis",,"","Grashoff",Accepted,,M,TICA,F5EDC41F-6E48-4D64-9366-2F15827C784D,245275-2,"Brittonia 26","","348","1974",
+gcc-114399,A,Compositae,,Stevia,,"chilapensis",,"","Soejima & Yahara",Accepted,,M,TICA,B9A3B7CC-2052-4C01-866A-B9C26331D37D,,"Brittonia 53(3)","","378","2001",
+gcc-43956,A,Compositae,,Stevia,,"chortiana",,"","Standl. & Steyerm.",Synonym,,M,TICA,E44D6FAE-FC30-4B3E-A158-517265A7ECAE,245276-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","108","1944",gcc-151290
+gcc-139594,A,Compositae,,Stevia,,"cinerascens",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,C920BD89-50BF-4AD3-B51F-F30B5520A9FA,,"Fl. Bras. (Martius) 6(2): 209","","209","1876",
+gcc-97335,A,Compositae,,Stevia,,"clausseni",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,E6D86869-F39E-45C7-8AC2-939BE00D4226,,"","","203","1876",
+gcc-69336,A,Compositae,,Stevia,,"clausseni",var.,"boliviensis","Hieron.",Synonym,,L,TICA,AB33FD42-9E4A-4232-8B7A-E58128F451C6,,"Bot. Jahrb. Syst. 22: 723. 1897","","723","1897",gcc-145990
+gcc-152857,A,Compositae,,Stevia,,"clausseni",var.,"clausseni","",Synonym,,L,TICA,4242FA2A-2D94-400F-9FD6-A1E0021DDD28,,"","","","",gcc-97335
+gcc-32620,A,Compositae,,Stevia,,"clinopodia",,"","DC.",Synonym,,M,TICA,DB039AF1-B40A-4213-8E38-3C728225353E,251296-1,"","","116","1836",gcc-27565
+gcc-77625,A,Compositae,,Stevia,,"clinopodioides",,"","Greenm.",Accepted,,M,TICA,DDA6FA96-F9E1-4F71-A4E0-674DB753E01C,245279-2,"","","307","1897",
+gcc-92367,A,Compositae,,Stevia,,"clivicola",,"","B.L.Rob.",Accepted,,M,TICA,CFC75713-67E7-439B-A062-886DCD7A57BF,245280-2,"Contr. Gray Herb. 100","","4","1932",
+gcc-110621,A,Compositae,,Stevia,,"coahuilensis",,"","Soejima & Yahara",Accepted,,M,TICA,96CC747C-A210-4A31-A0AC-B14F59189CE3,,"Brittonia 53(3)","","379","2001",
+gcc-82380,A,Compositae,,Stevia,,"cochabambensis",,"","Hieron.",Accepted,,M,TICA,8821AF5E-8BA6-4599-8D52-71F0B62B3CB5,,"","","726","1897",
+gcc-135927,A,Compositae,,Stevia,,"collina",,"","Gardner",Accepted,,M,TICA,33B00635-706C-4C44-A71F-EB01913C9C17,251300-1,"London J. Bot. 5: 458 (1846).","","458","1846",
+gcc-148435,A,Compositae,,Stevia,,"collina",var.,"collina","",Synonym,,L,TICA,A9F83259-9518-4958-BA66-426C814F7B6B,,"","","","",gcc-135927
+gcc-15348,A,Compositae,,Stevia,,"collodes",,"","Greenm.",Synonym,,M,TICA,D47B1C13-0FFC-46EC-9340-1C6C4E8F2009,245283-2,"","","93","1903",gcc-75360
+gcc-100741,A,Compositae,,Stevia,,"commixta",,"","B.L.Rob.",Accepted,,M,TICA,8156E0C3-0F2A-4124-AA9A-9B5264F8A28E,245284-2,"Contr. Gray Herb. 90","","9","1930",
+gcc-122320,A,Compositae,,Stevia,,"compacta",,"","Benth.",Synonym,,M,TICA,4EC3FC93-6BD5-444B-8FB6-CBC174C424C8,251303-1,"","","197","1845",gcc-144470
+gcc-78129,A,Compositae,,Stevia,,"conferta",,"","DC.",Synonym,,M,TICA,4EBBB5E9-4EDC-403C-BF42-686BC2179B21,251304-1,"","","116","1836",gcc-26179
+gcc-108401,A,Compositae,,Stevia,,"conferta",f.,"conferta","",Synonym,,L,TICA,E0B9C574-49A4-4D44-8261-AC32310C5E7F,,"","","","",gcc-26179
+gcc-145666,A,Compositae,,Stevia,,"conferta",var.,"conferta","",Synonym,,L,TICA,26E04456-4FA1-4A0B-AA04-0873FEDF71B4,,"","","","",gcc-26179
+gcc-55864,A,Compositae,,Stevia,,"conferta",var.,"pilosa","(Lag.) DC.",Synonym,,L,TICA,F3869421-5FF3-49F8-8819-79A2B93F4316,245285-2,"Prodr. (DC.) 5: 116","","116","1836",gcc-26179
+gcc-71272,A,Compositae,,Stevia,,"conferta",var.,"puberula","DC.",Synonym,,L,TICA,14D39700-C4A3-40FC-8A8F-F4EA11D688C0,245286-2,"Prodr. (DC.) 5: 116","","116","1836",gcc-26179
+gcc-35905,A,Compositae,,Stevia,,"congesta",,"","Hook. & Arn.",Synonym,,M,TICA,B4FAA5C4-F683-486B-B776-42963C638599,,"in Hook. Comp. Bot. Mag. i. (1835) 238.","","238","1835",gcc-153222
+gcc-83178,A,Compositae,,Stevia,,"connata",,"","Lag.",Accepted,,M,TICA,5F992BD0-026F-4A8E-AF71-73BEB4E2CF0C,,"","","","1816",
+gcc-92995,A,Compositae,,Stevia,,"constricta",,"","(Grashoff) ""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,F3DFF836-41D2-4935-9B21-89CCF8149FBD,1072042-2,"Brittonia 53(3)","","390","2001",
+gcc-147085,A,Compositae,,Stevia,,"copiosa",,"","J.Kost.",Accepted,,L,TICA,077404CC-9C69-4DF3-92C4-2626E96AE92A,251307-1,"","","645","1945",
+gcc-85455,A,Compositae,,Stevia,,"cordifolia",,"","Benth.",Accepted,,M,TICA,9B39F5F0-43B1-4A5D-9B50-78B3CDAA985B,251308-1,"Pl. Hartw. 39.","","39","1840",
+gcc-30917,A,Compositae,,Stevia,,"coriacea",,"","Lag.",Synonym,,M,TICA,24E541B0-0C77-42DA-9A35-393C822E12F8,251309-1,"Gen. et Sp. Nov. 28.","","28","1816",gcc-116104
+gcc-108301,A,Compositae,,Stevia,,"coronata",,"","Sch.Bip. ex Klotzsch",Unresolved,,L,TICA,48285C2A-2502-41AF-BDD4-ABFE3E83C1B2,,"Linnaea 25(3):","","272","1852 [1853]",
+gcc-85649,A,Compositae,,Stevia,,"coronata",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,B445E33C-14D2-4366-A769-79252895B511,251310-1,"in Bot. Zeit. iii. (1845) 155.","","155","1845",gcc-145432
+gcc-36182,A,Compositae,,Stevia,,"coronifera",,"","DC.",Synonym,,M,TICA,E2BCD03A-8AB4-42FC-8DDD-43187E2CE79B,251311-1,"","","115","1836",gcc-27565
+gcc-112110,A,Compositae,,Stevia,,"crassicephala",,"","Cabrera",Accepted,,M,TICA,DF07D9EB-AA51-43EF-B491-B4AA981C65DA,245290-2,"","","320","1974",
+gcc-129303,A,Compositae,,Stevia,,"crassifolia",,"","Soejima & Yahara",Accepted,,M,TICA,34F73D79-4A7F-4025-AA5C-DBF847346078,,"Brittonia 53(3)","","","2001",
+gcc-113839,A,Compositae,,Stevia,,"crenata",,"","Benth.",Accepted,,M,TICA,D486FEF2-537C-440C-BEFF-B88456896318,251314-1,"Pl. Hartw. 197.","","197","1845",
+gcc-76188,A,Compositae,,Stevia,,"crenata",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,5C56831E-0372-4B32-B958-6421C6B45999,,"Fl. Bras. (Martius) 6(2): 205","","205","1876",gcc-7831
+gcc-40277,A,Compositae,,Stevia,,"crenulata",,"","Baker",Accepted,,M,TICA,D8BDFF44-2631-46E8-83EF-4AABB11A328C,,"Fl. Bras. (Martius) 6(2): 211","","211","1876",
+gcc-23757,A,Compositae,,Stevia,,"cruziana",,"","Malme",Accepted,,M,TICA,9C1058C3-4912-4575-9DD9-2BE7412558F2,,"","","33","1899",
+gcc-78223,A,Compositae,,Stevia,,"cruzii",,"","Grashoff",Accepted,,M,TICA,04B4043E-AE96-4204-9A91-68A6880C4FFC,,"","","","1974",
+gcc-140805,A,Compositae,,Stevia,,"cryptantha",,"","Baker",Accepted,,M,TICA,F3602DD0-27B8-4F53-BBE9-F5EA58D0A89E,,"Fl. Bras. (Martius) 6(2): 204","","204","1876",
+gcc-13403,A,Compositae,,Stevia,,"cuneata",,"","Hassl.",Accepted,,M,TICA,9A85C158-E192-45A1-9E7F-18FE90E5A6E7,245293-2,"Repert. Spec. Nov. Regni Veg. 11","","166","1912",
+gcc-104688,A,Compositae,,Stevia,,"cuzcoensis",,"","Hieron.",Accepted,,M,TICA,AE1B5E7D-389F-47BD-9130-A4009D447DDD,245294-2,"","","363","1908",
+gcc-94697,A,Compositae,,Stevia,,"decumbens",,"","(B.L.Rob. & Greenm.) Greene",Accepted,,M,TICA,2AC623C7-82EA-4AC3-8405-8DA40F77DF5E,245295-2,"","","32","1896",
+gcc-135081,A,Compositae,,Stevia,,"decussata",,"","Baker",Accepted,,M,TICA,9205B402-86DC-4C7E-A6B7-E92DA9F533EA,,"Fl. Bras. (Martius) 6(2): 203","","203","1876",
+gcc-151290,A,Compositae,,Stevia,,"deltoidea",,"","Greene",Accepted,,M,TICA,3B26B719-70F0-4CF8-BCA4-816A893E7AE1,245296-2,"Pittonia 3: 31. 1896.","","31","1896",
+gcc-110775,A,Compositae,,Stevia,,"dianthoidea",,"","Hieron.",Accepted,,M,TICA,F5406EC5-6AB6-4337-910E-B1AE493EC0F3,245297-2,"Bot. Jahrb. Syst. 29: 4. 1900","","4","1900",
+gcc-48680,A,Compositae,,Stevia,,"dianthoidea",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,8876BE4A-E124-4003-892C-5A31AFBF135A,,"Bot. Jahrb. Syst. xxix. 4.","","4","",
+gcc-125810,A,Compositae,,Stevia,,"dictyophylla",,"","B.L.Rob.",Accepted,,M,TICA,154D6EBB-DA0A-43C0-93D3-D3E898F18BC8,245298-2,"","","617","1909",
+gcc-98882,A,Compositae,,Stevia,,"diffusa",,"","Greenm.",Synonym,,M,TICA,F6F13BC8-95D6-4BB5-928A-9718BC25D896,245299-2,"","","307","1897",gcc-85251
+gcc-6829,A,Compositae,,Stevia,,"discolor",,"","B.L.Rob.",Accepted,,M,TICA,4A511DA8-FCB2-4FB5-918C-0CB202972850,245300-2,"Contr. Gray Herb. 100","","5","1932",
+gcc-110958,A,Compositae,,Stevia,,"dissitifolia",,"","DC.",Synonym,,M,TICA,69D0571B-BFF9-41EB-B3DB-B209690B4418,251328-1,"Prodr. (DC.) 5: 121","","121","1836",gcc-87241
+gcc-106156,A,Compositae,,Stevia,,"dissoluta",,"","Schltdl.",Synonym,,L,TICA,2CEC4166-6CE0-41BF-8B6E-A72632EC09E1,251329-1,"","","16","1841",gcc-102257
+gcc-23988,A,Compositae,,Stevia,,"divaricata",,"","DC.",Accepted,,M,TICA,FD43401C-BF0A-4F90-80C3-2C56B63E99BD,251330-1,"Prodr. (DC.) 5: 123","","123","1836",
+gcc-2762,A,Compositae,,Stevia,,"diversipapposa",,"","Hieron.",Synonym,,M,TICA,A5C88813-B80C-4A9C-AC2B-05134B7D2388,,"","","708","1897",gcc-44580
+gcc-79694,A,Compositae,,Stevia,,"diversipapposa",f.,"breviaristata","Hieron.",Synonym,,L,TICA,2961DC1D-1190-4940-8685-6BF76070DB76,,"Bot. Jahrb. Syst. 22: 709. 1897","","","1897",gcc-44580
+gcc-147678,A,Compositae,,Stevia,,"diversipapposa",f.,"diversipapposa","",Synonym,,L,TICA,13DC9F0B-CFCA-42D3-955D-327C5789C867,,"","","","",gcc-44580
+gcc-74418,A,Compositae,,Stevia,,"diversipapposa",f.,"exaristata","Hieron.",Synonym,,L,TICA,68336145-47F3-4906-BAFD-3EFA7F4FD765,,"Bot. Jahrb. Syst. 22: 709. 1897","","","1897",gcc-44580
+gcc-107142,A,Compositae,,Stevia,,"diversipapposa",f.,"longiaristata","Hieron.",Synonym,,L,TICA,5FA4095F-70AA-419D-B22E-A96CD11EFE9D,,"Bot. Jahrb. Syst. 22: 709. 1897","","","1897",gcc-44580
+gcc-17517,A,Compositae,,Stevia,,"dodecachaeta",,"","DC.",Synonym,,M,TICA,62FA9763-795F-4787-BD2E-2058D4D42743,251332-1,"Prodr. (DC.) 5: 122","","122","1836",gcc-149876
+gcc-81183,A,Compositae,,Stevia,,"dubia",,"","B.L.Rob.",Accepted,,M,TICA,83901179-E2E1-4C53-B859-6F3B38DFFB51,245306-2,"Contr. Gray Herb. 104","","7","1934",
+gcc-12873,A,Compositae,,Stevia,,"ecatepecana",,"","Soejima & Yahara",Accepted,,M,TICA,4AE31C21-7968-4B10-ADF6-1800480D98B4,,"","","","2001",
+gcc-146502,A,Compositae,,Stevia,,"ecatepecana",,"","""Soejima, Yahara & Watanabe""",Unresolved,,L,TICA,04C38653-9B89-481E-9AF7-19DA8FE2EC87,,"Brittonia 53(3): 380. 2001.","","380","2001",
+gcc-964,A,Compositae,,Stevia,,"ecatepecana",,"","""Soejima, Yahara & K.Watan.""",Unresolved,,L,TICA,7D48C56D-5AE8-4415-AA2F-01C9241A77C7,,"Brittonia 53(3)","","","2001",
+gcc-41493,A,Compositae,,Stevia,,"eclipes",,"","B.L.Rob.",Accepted,,M,TICA,18A71408-71B7-470D-974A-4CD8F44CA66D,245307-2,"Contr. Gray Herb. 96","","5","1931",
+gcc-102871,A,Compositae,,Stevia,,"effusa",,"","Hieron.",Accepted,,M,TICA,E69688E4-F692-445E-9F1C-A01116AD6E0B,,"Bot. Jahrb. Syst. 22: 710. 1897","","710","1897",
+gcc-151212,A,Compositae,,Stevia,,"effusa",var.,"effusa","",Synonym,,L,TICA,768072D9-EB53-48AA-AFC6-800ED8F4713A,,"","","","",gcc-102871
+gcc-67704,A,Compositae,,Stevia,,"effusa",var.,"saltensis","Hieron.",Synonym,,L,TICA,0EBE7707-3B6B-4951-B434-D94EB38F68E2,,"Bot. Jahrb. Syst. 22: 711. 1897","","711","1897",gcc-44580
+gcc-155303,A,Compositae,,Stevia,,"ehrenbergiana",,"","Schlecht.",Synonym,,M,TICA,493588F9-B7FC-4A99-9BEE-D52F01440DD9,,"Linnaea 16: 370. 1842. ","","370","1842",gcc-30128
+gcc-29907,A,Compositae,,Stevia,,"ehrenbergiana",,"","Schltdl.",Synonym,,M,TICA,20DAA24B-DF89-4489-B268-3748BF8AF89A,251336-1,"Linnaea 16","","370","1842",gcc-30128
+gcc-102257,A,Compositae,,Stevia,,"elatior",,"","Kunth",Accepted,,L,TICA,073C176B-9819-4136-9814-9EA90AC29E61,,"","","113","1820 [1818]",
+gcc-69913,A,Compositae,,Stevia,,"elatior",var.,"coronata","(Sch.Bip.) Sch.Bip.",Synonym,,L,TICA,995DB6AB-A7EC-4859-9CB9-EA033F211753,245313-2,"Linnaea 25: 271. 1853","","271","1853",gcc-94697
+gcc-70441,A,Compositae,,Stevia,,"elatior",var.,"decumbens","B.L.Rob. & Greenm.",Synonym,,L,TICA,8BA26C75-8E2C-452D-80D8-EE290EDC2932,245314-2,"","","152","1895",gcc-94697
+gcc-60032,A,Compositae,,Stevia,,"elatior",var.,"dissoluta","(Schltdl.) B.L.Rob.",Synonym,,L,TICA,E7079522-1E60-4DC5-A53D-9B1D8D6B9F27,245315-2,"","","13","1930",gcc-102257
+gcc-43939,A,Compositae,,Stevia,,"elatior",var.,"elatior","",Synonym,,L,TICA,E7EC4EB4-BCFE-45AA-95A2-51682081D7EE,,"","","","1820",gcc-102257
+gcc-54035,A,Compositae,,Stevia,,"elatior",var.,"podophylla","B.L.Rob.",Synonym,,L,TICA,3EEC9623-D748-4A8C-B22C-6AD54ED7CE3A,245316-2,"","","""13, 98""","1930",gcc-102257
+gcc-86217,A,Compositae,,Stevia,,"elliptica",,"","Hook. & Arn.",Synonym,,M,TICA,E91AE7A8-0E96-46A4-8DE1-7A70901C0D7D,251338-1,"","","434","1841",gcc-84068
+gcc-120613,A,Compositae,,Stevia,,"elongata",,"","Kunth",Synonym,,M,TICA,395BDF11-0226-491E-890E-C7F6ABE2918F,,"","","113","1820 [1818]",gcc-30128
+gcc-71587,A,Compositae,,Stevia,,"elongata",var.,"caracasana","(DC.) B.L.Rob.",Synonym,,L,TICA,78D16267-C87E-41DB-93BB-F74EE0EE7542,245318-2,"","","141","1930",gcc-84068
+gcc-146993,A,Compositae,,Stevia,,"elongata",var.,"elongata","",Synonym,,L,TICA,76A3A22D-E0E0-4FFF-B6E5-24956D8B7E0E,,"","","","",gcc-30128
+gcc-71485,A,Compositae,,Stevia,,"elongata",var.,"purpurascens","Sch.Bip.",Unresolved,,L,TICA,AC20E657-9541-49E6-957F-F69A569FFA83,,"Linnaea 25:","","275","1853",gcc-102257
+gcc-79779,A,Compositae,,Stevia,,"enarthotricha",,"","Lag.",Synonym,,L,TICA,4BBF429D-3BF9-4F1E-9335-6C29859DF8EC,251340-1,"Gen. et Sp. Nov. 27.","","27","1816",gcc-102257
+gcc-122122,A,Compositae,,Stevia,,"entreriensis",,"","Hieron.",Unresolved,Illegitimate,L,TICA,466E478A-9CFE-46C9-99C4-CB4E1BB4399C,,"","","739","1897",
+gcc-28725,A,Compositae,,Stevia,,"entreriensis",,"","Hieron. ex Arechav.",Accepted,,M,TICA,6793C76D-A6B5-4D07-9A7A-351D8A1F9711,251342-1,"","","139","1907",
+gcc-151053,A,Compositae,,Stevia,,"entreriensis",f.,"entreriensis","",Synonym,,L,TICA,63A2D65F-C9DB-40CB-B956-7C5794E38BE9,,"","","","",gcc-28725
+gcc-155215,A,Compositae,,Stevia,,"entreriensis",var.,"entreriensis","",Synonym,,L,TICA,E4374844-0FA8-4CE1-9C87-D35141AF35C7,,"","","","",gcc-28725
+gcc-58165,A,Compositae,,Stevia,,"entreriensis",var.,"minor","Hieron.",Synonym,,L,TICA,5496F803-A0C4-42ED-A319-8C4E7C9551C7,,"Bot. Jahrb. Syst. 22: 739. 1897","","739","1897",gcc-122122
+gcc-102966,A,Compositae,,Stevia,,"ephemera",,"","Grashoff",Accepted,,M,TICA,CEB4D2F8-3FA8-4E56-A744-A045F8524DF6,245325-2,"","","351","1974",
+gcc-14494,A,Compositae,,Stevia,,"erecta",,"","Lag. ex Walp.",Synonym,Invalid,M,TICA,1A13223A-969B-4894-922A-1AE367128E72,,"Repert. Bot. Syst. 2: 548. 1843. ","","548","1843",gcc-30128
+gcc-36053,A,Compositae,,Stevia,,"estrellensis",,"","Hassl. ex B.L.Rob.",Accepted,,M,TICA,9CD0D6A8-B91B-4FD1-9216-42DDB9B3493A,245326-2,"Contr. Gray Herb. 90","","83","1930",
+gcc-105669,A,Compositae,,Stevia,,"eupatoria",,"","Edwards",Unresolved,Illegitimate,L,TICA,2BB674D3-4A6F-4E9F-B3ED-A61431E8C3DE,,"Botanical Register; consisting of coloured . . . 2:","","t. 93","1816",
+gcc-123063,A,Compositae,,Stevia,,"eupatoria",,"","[Ker-Gawl.]",Unresolved,,L,TICA,532E4E66-615C-4064-860A-CD7470D88A46,,"Bot. Reg. t. 93.","","t. 93","",
+gcc-23799,A,Compositae,,Stevia,,"eupatoria",,"","(Spreng.) Willd.",Accepted,,M,TICA,052852DF-34FF-44EF-9F91-2BFF73F7D901,251347-1,"Sp. Pl. 3(3): 1775 (1803)","","1775","1803",
+gcc-131225,A,Compositae,,Stevia,,"fascicularis",,"","Less.",Synonym,,M,TICA,E2C73460-ED0A-4D76-AB6D-E067BCFC00AB,251348-1,"Linnaea 5","","140","1830",gcc-30128
+gcc-156515,A,Compositae,,Stevia,,"fascicularis",,"","Less.Schlecht. & Cham.",Synonym,,M,TICA,72569387-E2CD-43A4-91E0-EEB7479673AC,,"Linnaea 5: 140. 1830. ","","140","1830",gcc-30128
+gcc-134078,A,Compositae,,Stevia,,"fastigiata",,"","Kunth",Synonym,,M,TICA,8DBBD93E-A3F9-4615-8E9C-E6FC2E01CFC8,,"","","116","1820 [1818]",gcc-116104
+gcc-42887,A,Compositae,,Stevia,,"febrifuga",,"","Moc. ex DC.",Synonym,Invalid,M,TICA,9D1BBC59-A371-45A5-ADF8-4F72545CD741,251350-1,"Prodr. (DC.) 5: 104","","104","1836",gcc-134928
+gcc-39514,A,Compositae,,Stevia,,"ferruginea",,"","Sch.Bip. ex Baker",Synonym,Illegitimate,M,TICA,07F35568-A097-431E-93F1-4953C4F65C17,,"Fl. Bras. (Martius) 6(2): 211","","211","1876",gcc-39688
+gcc-104380,A,Compositae,,Stevia,,"fiebrigii",,"","Hieron.",Accepted,,M,TICA,54CE2764-8789-4132-9C10-A361CA9DFB4A,245327-2,"","","365","1908",
+gcc-54521,A,Compositae,,Stevia,,"fiebrigii",var.,"fiebrigii","",Synonym,,L,TICA,D0FBD48C-3D62-42D8-83BA-6ED112D14B7B,,"Bot. Jahrb. Syst. 40: 365 (1908)","","365","1908",gcc-104380
+gcc-53532,A,Compositae,,Stevia,,"fiebrigii",var.,"gracillima","C. Robinson",Synonym,,L,TICA,D358AAF7-105E-492D-8251-66FE3B776BFA,,"Contributions from the Gray Herbarium of Harvard University 90:","","13","1930",gcc-68892
+gcc-60335,A,Compositae,,Stevia,,"fiebrigii",var.,"gracillima","B.L.Rob.",Synonym,,L,TICA,6A14FC1A-3342-4FB9-9227-9D8E27BEDC3F,,"""Contr. Gray Herb. 90: 13, 61. 1930""","","","1930",gcc-104380
+gcc-68892,A,Compositae,,Stevia,,"fiebrigii",var.,"vattuonei","(Hicken) Cabrera",Accepted,,L,TICA,79374D31-5881-4B55-BC58-E23C73D54EC6,245331-2,"","","62","1978",
+gcc-18011,A,Compositae,,Stevia,,"filipes",,"","Rusby",Accepted,,M,TICA,9154A6A2-28A1-4588-AE9F-214636F98963,245332-2,"","","126","1912",
+gcc-122682,A,Compositae,,Stevia,,"filodecaballoana",,"","""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,3F1E127D-105D-4FC4-B509-CC88868366FE,,"Brittonia 53(3)","","381","2001",
+gcc-28726,A,Compositae,,Stevia,,"flourensioides",,"","S.F.Blake",Synonym,,M,TICA,B5202ADD-2E6B-4A1E-A13E-351DA9FB0C7F,245333-2,"","","589","1924",gcc-75360
+gcc-91968,A,Compositae,,Stevia,,"foliosa",,"","Small",Synonym,,M,TICA,9AB75F7B-3807-4EA6-A2AF-8792E8A126CA,245334-2,"","","""1163, 1338""","1903",gcc-75360
+gcc-108768,A,Compositae,,Stevia,,"fruticosa",,"","Griseb.",Accepted,,M,TICA,275208BF-4E7F-4623-A694-AD1C106CAA7B,251356-1,"in Goett. Abh. xxiv. (1879) 167.","","167","1879",
+gcc-34772,A,Compositae,,Stevia,,"galeopsidifolia",,"","Hieron.",Accepted,,M,TICA,1929BA5D-FEB4-40B8-8AB4-40752A8828CB,,"","","719","1897",
+gcc-19473,A,Compositae,,Stevia,,"gardneriana",,"","Baker",Accepted,,M,TICA,0FAF075D-0142-4352-B925-23FC103F7789,,"Fl. Bras. (Martius) 6(2): 207","","207","1876",
+gcc-112265,A,Compositae,,Stevia,,"gilliesii",,"","Hook. & Arn.",Accepted,,M,TICA,2ED3C5E4-D7AF-4A97-8005-B4FDD934D05F,,"""in Hook. Comp. Bot. Mag. ii. (1836) 251, in textu.""","","251","1836",
+gcc-55341,A,Compositae,,Stevia,,"gilliesii",var.,"gilliesii","",Synonym,,L,TICA,E9C362BC-7DA6-4729-90BA-7543C2CBC1CB,,"Comp. Bot. Mag. 2: 251 (1837)","","251","1837",gcc-112265
+gcc-98984,A,Compositae,,Stevia,,"glabra",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,AACE4541-090C-48F2-908A-97577ACF740E,251360-1,"Prodr. (DC.) 5: 117","","117","1836",gcc-83178
+gcc-132502,A,Compositae,,Stevia,,"glandulifera",,"","Schltdl.",Synonym,,M,TICA,FCB5F938-FCF3-4AC5-A425-E3660FA04602,,"","","","1839",gcc-27565
+gcc-85673,A,Compositae,,Stevia,,"glandulifera",,"","Klatt",Unresolved,,L,TICA,261113DB-6E44-45D1-8663-792EB55DC904,289584-2,"","","","",
+gcc-108783,A,Compositae,,Stevia,,"glandulosa",,"","Hook. & Arn.",Accepted,,M,TICA,96E343E8-CF3E-4F1F-8219-AD26D4223B4F,251362-1,"Bot. Beechey Voy. 296.","","296","1838",
+gcc-68409,A,Compositae,,Stevia,,"glandulosa",var.,"glandulosa","",Synonym,,L,TICA,B54744F5-E8A9-43AE-8B84-DE8D7FEAC6AC,,"","","","1838",gcc-108783
+gcc-140772,A,Compositae,,Stevia,,"glanduloso-pubescens",,"","Hieron.",Accepted,,M,TICA,5FCF912C-4AFC-49FC-960D-F5DA03523DE7,245337-2,"","","360","1908",
+gcc-134240,A,Compositae,,Stevia,,"glomerata",,"","Hieron.",Accepted,,M,TICA,88BE31AE-BB23-4256-BFC1-E751F320748F,245338-2,"","","357","1908",
+gcc-134530,A,Compositae,,Stevia,,"glutinosa",,"","Kunth",Synonym,,M,TICA,20C34E8D-36D3-45AB-8092-E803A1ADF55C,,"","","","1820 [1818]",gcc-116104
+gcc-157037,A,Compositae,,Stevia,,"glutinosa",var.,"glutinosa","",Synonym,,L,TICA,63583721-95BC-46BE-8424-F9A5C3E9150A,,"","","","",gcc-116104
+gcc-27829,A,Compositae,,Stevia,,"glutinosa",var.,"oaxacana","DC.",Synonym,,L,TICA,524E0550-C7BE-4DB5-96DF-3371568C563F,245339-2,"","","116","1836",gcc-58791
+gcc-101308,A,Compositae,,Stevia,,"gracilipes",,"","Baker",Synonym,Illegitimate,M,TICA,1A0128E4-2223-40E6-8BC4-9C7FC01C88D4,,"Fl. Bras. (Martius) 6(2): 210","","210","1876",gcc-78841
+gcc-109041,A,Compositae,,Stevia,,"grandidentata",,"","Sch.Bip. ex Klatt",Synonym,,M,TICA,03031D89-B255-4E14-9A3B-ADBC2F1E547E,251367-1,"Leopoldina 20: 75. 1884.","","75","1884",gcc-116104
+gcc-15393,A,Compositae,,Stevia,,"grandidentata",,"","Sch.Bip. ex Rusby",Synonym,Illegitimate,L,TICA,42DB2607-9E3D-49C1-9D3F-1C805A13B791,,"Mem. Torrey Bot. Club 6: 55. 1896. ","","55","1896",gcc-20872
+gcc-154191,A,Compositae,,Stevia,,"grandidentata",,"","Sch.Bip. ex Hieron.",Synonym,,L,TICA,51BA6D54-E7C7-4092-ABDD-BE58B9842B0F,,"Bot. Jahrb. Syst. 22: 714. 1897. ","","714","1897",gcc-20872
+gcc-49830,A,Compositae,,Stevia,,"grandidentata",,"","Sch.Bip. ex Hemsl.",Unresolved,Illegitimate,L,TICA,7651963E-BC1B-4AE5-AAC5-5C61751681EE,,"Biologia Centrali-Americana; . . . Botany . . . 2(7):","","86","1881",
+gcc-88693,A,Compositae,,Stevia,,"grandidentata",,"","Sch.Bip.",Synonym,Illegitimate,L,TICA,35AB8A8C-1A11-4E99-AC5F-8007F237E107,,"Bull. Soc. Bot. France 12","","","1865",gcc-20872
+gcc-156804,A,Compositae,,Stevia,,"grandidentata",var.,"grandidentata","",Synonym,,L,TICA,A5CF1535-BA2A-4540-A49F-F499809819C6,,"","","","",gcc-20872
+gcc-155888,A,Compositae,,Stevia,,"grandidentata",var.,"subeglandulosa","Hieron.",Synonym,,L,TICA,A2BB5AEB-C38A-49C0-8CC8-E1E8BF7CB3E7,,"","","","",gcc-151946
+gcc-89020,A,Compositae,,Stevia,,"gratioloides",,"","Hook. & Arn.",Synonym,,M,TICA,8B57FA76-7FA0-4A8E-BF1B-80B6F20781C4,,"in Hook. Comp. Bot. Mag. i. (1835) 238.","","238","1835",gcc-39688
+gcc-137845,A,Compositae,,Stevia,,"grisebachiana",,"","Hieron.",Accepted,,M,TICA,C581416E-A302-4590-8427-EF5308B160F2,,"","","716","1897",
+gcc-127191,A,Compositae,,Stevia,,"guaranitica",,"","Chodat",Synonym,,M,TICA,19C7567D-9C8D-4255-959E-D714E45ECD04,,"","","704","1903",gcc-122791
+gcc-124746,A,Compositae,,Stevia,,"haenkeana",,"","DC.",Accepted,,M,TICA,1ABB88AB-A8BD-4A10-9A91-D16238747074,251374-1,"Prodr. (DC.) 5: 122","","122","1836",
+gcc-134307,A,Compositae,,Stevia,,"hassleriana",,"","Chodat",Synonym,,M,TICA,B9E613FD-BB1C-4841-9865-E77C3395A09F,,"","","305","1902",gcc-110194
+gcc-92827,A,Compositae,,Stevia,,"heptachaeta",,"","DC.",Accepted,,M,TICA,8BD6D85A-6060-4AAC-9539-897459A7E41E,251376-1,"Prodr. (DC.) 5: 122","","122","1836",
+gcc-129559,A,Compositae,,Stevia,,"herrerae",,"","B.L.Rob.",Accepted,,M,TICA,002F48CD-D62D-4946-A94F-DC88F26325D5,245344-2,"Contr. Gray Herb. 100","","5","1932",
+gcc-22600,A,Compositae,,Stevia,,"hilarii",,"","B.L.Rob.",Accepted,,M,TICA,188E5F1F-CFA3-46A4-B990-29D31CEFCBF2,245345-2,"Contr. Gray Herb. 96","","7","1931",
+gcc-136037,A,Compositae,,Stevia,,"hintonii",,"","(Grashoff) B.L.Turner",Accepted,,M,TICA,FD5409BE-1F5E-499D-94A3-EB3F9A909920,285586-2,"","","212","1988",
+gcc-75877,A,Compositae,,Stevia,,"hintoniorum",,"","B.L.Turner",Accepted,,M,TICA,90385CE2-ECAB-455F-B636-636FC5206B10,303963-2,"","","127","1992",
+gcc-107397,A,Compositae,,Stevia,,"hirsuta",,"","DC.",Synonym,Illegitimate,M,TICA,A3671E02-4E3C-45D8-B4AC-A9F844E082A3,251380-1,"","","121","1836",gcc-151290
+gcc-140443,A,Compositae,,Stevia,,"hirsuta",,"","Griseb.",Synonym,Illegitimate,L,TICA,E00B1FC0-E0E4-4AA2-A499-F5062A0F8350,,"Abh. Königl. Ges. Wiss. Göttingen 24: 168 (1879)","","168","1879",gcc-122122
+gcc-143881,A,Compositae,,Stevia,,"hirsuta",,"","Hook. & Arn.",Synonym,,M,TICA,533B2679-556A-4675-BD14-FCDBFE49F7F6,,"in Hook. Comp. Bot. Mag. i. (1835) 239.","","239","",gcc-153222
+gcc-116067,A,Compositae,,Stevia,,"hirtiflora",,"","Sch.Bip. ex Klotzsch",Accepted,,M,TICA,436D4DB9-DE1E-47B9-9FCA-BD968D4909FA,,"Linnaea 25(3): 274. 1852 [1853].","","274","1852 [1853]",
+gcc-34264,A,Compositae,,Stevia,,"hirtiflora",,"","Sch.Bip.",Synonym,,M,TICA,2594D0CC-FF86-4761-8FB4-3F83A55562BD,251381-1,"Linnaea 25: 274. 1853","","274","1853",gcc-84068
+gcc-114588,A,Compositae,,Stevia,,"hispidula",,"","(Grashoff) B.L.Turner",Unresolved,Illegitimate,L,TICA,5CDB2A18-61BB-4FBA-B441-BA33FC98BA69,60438172-2,"Phytologia 87(1): 53. 2005 [May ? 2005]","","53","2005",
+gcc-24223,A,Compositae,,Stevia,,"hispidula",,"","DC.",Accepted,,M,TICA,8DDC93BE-3D85-4671-92CF-2CBB63F69750,251382-1,"Prodr. (DC.) 5: 122","","122","1836",
+gcc-105797,A,Compositae,,Stevia,,"hoppii",,"","B.L.Rob.",Accepted,,M,TICA,6CEF75CB-18E4-44D8-A60D-A659A78C7299,245348-2,"Contr. Gray Herb. 100","","6","1932",
+gcc-97562,A,Compositae,,Stevia,,"humilis",,"","Hieron.",Synonym,,M,TICA,EFE2A64F-EE7C-41EA-8F34-94298FD015F0,,"","","730","1897",gcc-41798
+gcc-110184,A,Compositae,,Stevia,,"hymenopappa",,"","Moc. ex DC.",Unresolved,,L,TICA,394E0A3F-4E92-4E87-B480-B04689FC875C,251385-1,"Prodr. (DC.) 5: 117","","117","1836",
+gcc-49090,A,Compositae,,Stevia,,"hymenoppa",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,5EB7F3FB-DC06-4B5E-8324-5AEE28EDFC1E,,"","","117","1836",gcc-116104
+gcc-28698,A,Compositae,,Stevia,,"hypericifolia",,"","Hieron.",Accepted,,M,TICA,F3A52CD7-DEC6-495B-A354-3509A8E9EFFE,,"","","732","1897",
+gcc-46739,A,Compositae,,Stevia,,"hypomalaca",,"","B.L.Rob.",Accepted,,M,TICA,ADD2265B-309F-4511-B9BE-569EA23F1FB1,245351-2,"Contr. Gray Herb. 90","","13","1930",
+gcc-151109,A,Compositae,,Stevia,,"hyptifolia",,"","Gardner",Accepted,,M,TICA,4073CB5D-EEF9-4217-94B6-7DCB95528E9B,251388-1,"London J. Bot. 6: 434. 1847.","","434","1847",
+gcc-104502,A,Compositae,,Stevia,,"hyssopifolia",,"","Phil.",Synonym,Illegitimate,M,TICA,474D0D1E-F7F8-4449-A33A-A3A461DCD7FE,251390-1,"Fl. Atacam. 29.","","29","1860",gcc-109594
+gcc-139055,A,Compositae,,Stevia,,"hyssopifolia",,"","Cav.",Synonym,,M,TICA,754BB17E-D21F-41B3-9DC1-F1E6B3A33594,251392-1,"Desc. 190.","","190","1802",gcc-23799
+gcc-14274,A,Compositae,,Stevia,,"hyssopifolia",,"","Kunth",Synonym,Illegitimate,L,TICA,E4A47242-5DE3-4106-8B43-1A7D4A260305,,"Nov. Gen. Sp. [H.B.K.] iv. 140.","","","",gcc-96300
+gcc-151234,A,Compositae,,Stevia,,"hyssopifolia",,"","Philippi",Synonym,,M,TICA,CD9FC8CB-4DF4-4FB6-9772-8060EE506BEA,,"Fl. Atacam. 29. 1860. ","","29","1860",gcc-109594
+gcc-24459,A,Compositae,,Stevia,,"hyssopifolia",,"","Sims",Synonym,Illegitimate,M,TICA,5D5B34C1-D6D9-45E3-B2CB-2D2882179E58,,"Bot. Mag. 44: t. 1861","","1861","1817",gcc-30128
+gcc-7786,A,Compositae,,Stevia,,"iltisiana",,"","Grashoff",Accepted,,M,TICA,9F5F4DBC-D1A2-4939-927C-0E7CA05BF9D7,,"","","","1974",
+gcc-88408,A,Compositae,,Stevia,,"imbricata",,"","Gardner",Synonym,,M,TICA,D853852C-C03D-4A71-9AFC-7F5940C37EFC,251394-1,"London J. Bot. 5: 458 (1846).","","458","1846",gcc-103995
+gcc-89049,A,Compositae,,Stevia,,"incanescens",,"","Lag.",Synonym,,M,TICA,41062792-99AD-4030-957A-80CE607EF3F6,251395-1,"Gen. et Sp. Nov. 27.","","27","1816",gcc-143869
+gcc-42518,A,Compositae,,Stevia,,"incognita",,"","Grashoff",Accepted,,M,TICA,326053BD-AD66-4CCA-818C-4EBFFAB43FDD,251396-1,"Brittonia 26","","357","1974",
+gcc-24990,A,Compositae,,Stevia,,"integra",,"","S.F.Blake",Synonym,,M,TICA,89FE552E-56DB-4FF5-89CB-2E2A1F3D4C00,245357-2,"","","589","1924",gcc-75360
+gcc-139608,A,Compositae,,Stevia,,"involucrata",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,B8CBB34C-70CD-43F3-98D7-F3150B5C8EAC,,"Fl. Bras. (Martius) 6(2): 211","","211","1876",
+gcc-35566,A,Compositae,,Stevia,,"isomeca",,"","Grashoff",Accepted,,M,TICA,A57E2D38-1DD3-4C68-837C-41F1022F7450,,"","","","1974",
+gcc-90041,A,Compositae,,Stevia,,"ivaefolia",,"","Willd.",Synonym,,M,TICA,3CE9569D-CC66-48D2-BFCA-83169F725D13,251400-1,"","","137-138","1807",gcc-7629
+gcc-64869,A,Compositae,,Stevia,,"ivaefolia",var.,"bogotensis","DC.",Synonym,,L,TICA,5797F181-AD0A-43F1-A7FA-C1CBCEA30577,245360-2,"Prodr. (DC.) 5: 118","","118","1836",gcc-7629
+gcc-150454,A,Compositae,,Stevia,,"ivaefolia",var.,"ivaefolia","",Synonym,,L,TICA,C7A337C4-19FC-4C17-8CF3-6EF3C4D8E4C6,,"","","","",gcc-7629
+gcc-106058,A,Compositae,,Stevia,,"jaliscensis",,"","B.L.Rob.",Accepted,,M,TICA,2C588872-A89D-483F-8534-A6F0874BFF15,245361-2,"Contr. Gray Herb. 80","","8","1928",
+gcc-27565,A,Compositae,,Stevia,,"jorullensis",,"","Kunth",Accepted,,M,TICA,1C6C1FF3-E7B8-4D42-A9F5-32F548548030,,"","","112-113","1820 [1818]",
+gcc-63449,A,Compositae,,Stevia,,"jorullensis",var.,"ehrenbergiana","(Schltdl.) Sch.Bip.",Synonym,,L,TICA,0E5B94CE-9D63-4932-9866-B6F33B751EB8,245362-2,"Linnaea 25: 276. 1853","","276","1853",gcc-30128
+gcc-28937,A,Compositae,,Stevia,,"jorullensis",var.,"humboldtiana","Sch.Bip.",Synonym,,L,TICA,264B999A-E96F-4CE2-812B-3582961FBDB2,245363-2,"Linnaea 25: 276. 1853","","276","1853",gcc-27565
+gcc-64411,A,Compositae,,Stevia,,"jorullensis",var.,"jorullensis","",Synonym,,L,TICA,215FC2C3-FC3F-4156-B417-BE5567C7E1CC,,"","","","1820",gcc-27565
+gcc-107984,A,Compositae,,Stevia,,"jujuyensis",,"","Cabrera",Accepted,,M,TICA,F5D52E85-4F22-4020-BDD1-AB585D1B7561,245364-2,"","","322","1974",
+gcc-95345,A,Compositae,,Stevia,,"karwinskii",,"","Sch.Bip.",Unresolved,,L,TICA,8901F10E-885B-4D35-A9C4-8F1948E63A31,,"","","","",
+gcc-142714,A,Compositae,,Stevia,,"karwinskyana",,"","Steud.",Unresolved,Illegitimate,L,TICA,0A027A88-EE19-4828-83F4-FA3D8BE5EFEE,251404-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 641""","","641","1841",
+gcc-18316,A,Compositae,,Stevia,,"kuhnioides",,"","Rusby ex B.L.Rob.",Accepted,,M,TICA,0C37A19F-5706-4337-A67A-21D5B0B764DE,245365-2,"Contr. Gray Herb. 96","","7","1931",
+gcc-18815,A,Compositae,,Stevia,,"kuntzei",,"","Hieron.",Accepted,,M,TICA,CB85F40B-831F-4799-829E-22BD0A5D631D,,"","","733","1897",
+gcc-137239,A,Compositae,,Stevia,,"lanceolata",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,7F05BB58-0EA9-467B-91DC-EE085E20243A,251409-1,"Prodr. (DC.) 5: 116","","116","1836",gcc-105980
+gcc-141240,A,Compositae,,Stevia,,"lanceolata",,"","Walp.",Synonym,Illegitimate,L,TICA,6EC4A2D8-A40B-426F-B551-F6EFC5B7362B,251410-1,"Linnaea 14: 319. 1840","","319","1840",gcc-142714
+gcc-142538,A,Compositae,,Stevia,,"lanceolata",,"","Hook. & Arn.",Synonym,Illegitimate,M,TICA,E5CF2526-3BD4-4398-AD2D-F9D2CE96DDD4,,"in Hook. Comp. Bot. Mag. i. (1835) 238.","","238","1835",gcc-112265
+gcc-81035,A,Compositae,,Stevia,,"lanceolata",,"","Lag.",Synonym,,M,TICA,00135047-D27A-4C10-A65B-6EECBD1DD7F1,251408-1,"","","26","1816",gcc-7629
+gcc-38871,A,Compositae,,Stevia,,"lasioclada",,"","Grashoff",Accepted,,M,TICA,3490B6E1-6E6E-47C4-B358-481D55119DEE,,"","","","1974",
+gcc-114256,A,Compositae,,Stevia,,"latifolia",,"","Benth.",Accepted,,M,TICA,6C224200-D4AD-48F2-B6F5-B96B91619174,251412-1,"Pl. Hartw. 40.","","40","1840",
+gcc-155717,A,Compositae,,Stevia,,"lavandulaefolia",,"","Willd. ex DC.",Synonym,,M,TICA,E2841A78-0E7C-44FC-9118-DE35863ABF5C,251413-1,"Prodr. 5: 125. 1836. ","","125","1836",gcc-145865
+gcc-133869,A,Compositae,,Stevia,,"laxa",,"","B.L.Rob. & Seaton",Synonym,Illegitimate,M,TICA,88F501CB-A64F-4D65-A334-E67BBAAFEB67,289507-2,"","","107","1893",gcc-114469
+gcc-97393,A,Compositae,,Stevia,,"laxa",,"","Hook. & Arn.",Synonym,,M,TICA,3E346399-49DF-474A-85A9-93C46CC9AE17,,"","","238","1835",gcc-153222
+gcc-60601,A,Compositae,,Stevia,,"laxa",var.,"curtula","Malme",Synonym,,L,TICA,E36E0304-BC73-4B3C-BA3C-9F9764A28C1F,245369-2,"""Kongl. Svenska Vetensk. Acad. Handl. 32, no. 5: 33. 1899""","","33","1899",gcc-117991
+gcc-147775,A,Compositae,,Stevia,,"laxa",var.,"laxa","",Synonym,,L,TICA,936F0C12-472E-435C-841B-3512B9B0A6B6,,"","","","",gcc-114469
+gcc-16029,A,Compositae,,Stevia,,"laxiflora",,"","DC.",Synonym,,L,TICA,D8204BC5-EED7-4119-906F-1DAC4ACBF562,251416-1,"Prodr. (DC.) 5: 122","","122","1836",gcc-96300
+gcc-2240,A,Compositae,,Stevia,,"lechleri",,"","Hieron.",Accepted,,M,TICA,25792982-BF59-4DD9-9ED3-040ED3E55929,,"","","727","1897",
+gcc-86393,A,Compositae,,Stevia,,"lehmannii",,"","Hieron.",Accepted,,M,TICA,87DCE9D8-B992-4BB1-860D-7ACEF66748B7,245371-2,"","","562","1901",
+gcc-149185,A,Compositae,,Stevia,,"lemmoni",,"","A.Gray",Synonym,,L,TICA,66E89487-7A5C-4325-8C73-534E97C90A3D,251419-1,"Proc. Amer. Acad. Arts 17: 204. 1882.","","204","1882",gcc-114588
+gcc-75946,A,Compositae,,Stevia,,"lemmonii",,"","(A.Gray) A.Gray",Accepted,,M,TICA,9568D0DB-E312-47C6-8DEC-6390F0811C7A,,"in Proc. A Acad. xvii. (1882) 204.","","","1882",
+gcc-55892,A,Compositae,,Stevia,,"lemmonii",var.,"lemmonii","",Synonym,,L,TICA,B3C1B704-3C4C-41F5-A530-79DFF8492522,,"","","","1882",gcc-75946
+gcc-122791,A,Compositae,,Stevia,,"leptophylla",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,FFC51365-6B1F-48CC-80D6-CCCF0846B19D,,"Fl. Bras. (Martius) 6(2): 205","","205","1876",
+gcc-118092,A,Compositae,,Stevia,,"leucantha",,"","Schltdl.",Synonym,,M,TICA,8EB54731-7D33-4181-BD55-C22485760418,251421-1,"Hort. Hal. 16.","","16","1853",gcc-119642
+gcc-44053,A,Compositae,,Stevia,,"leuconeura",,"","DC.",Synonym,,L,TICA,8B2FEA4B-7457-42A5-BDD3-51936AA97ED2,251422-1,"Prodr. (DC.) 5: 121","","121","1836",gcc-96300
+gcc-106524,A,Compositae,,Stevia,,"leucosticta",,"","B.L.Rob.",Accepted,,M,TICA,8C7338F5-1535-4C45-B6E9-A8021FA1A18F,245374-2,"Contr. Gray Herb. 96","","8","1931",
+gcc-32312,A,Compositae,,Stevia,,"liebmannii",,"","Sch.Bip. ex Klatt",Accepted,,M,TICA,60E8DB5E-AE7E-4875-AB4C-3BDF60448CF2,251424-1,"Leopoldina xx. (1884) 75.","","75","1884",
+gcc-32750,A,Compositae,,Stevia,,"liebmannii",var.,"chiapensis","B.L.Rob.",Synonym,,L,TICA,3C6FB2FC-8FC3-4D80-B919-3CB92526B8B5,245375-2,"Contr. Gray Herb. 90","","14","1930",gcc-37691
+gcc-63152,A,Compositae,,Stevia,,"liebmannii",var.,"liebmannii","",Synonym,,L,TICA,7DAF5FBD-6C92-40F7-99B7-B489CCB0BD8C,,"","","","1884",gcc-32312
+gcc-11843,A,Compositae,,Stevia,,"lilloi",,"","B.L.Rob.",Accepted,,M,TICA,F7CC8039-E7E2-4E9B-992C-16116AC3B253,245377-2,"Contr. Gray Herb. 90","","14","1930",
+gcc-148985,A,Compositae,,Stevia,,"linariaefolia",,"","DC.",Synonym,,M,TICA,57914D7B-C0B5-4B11-B145-4F2CDDCF51FC,251426-1,"Prodr. 5: 123. 1836. ","","123","1836",gcc-153222
+gcc-132560,A,Compositae,,Stevia,,"linearifolia",,"","Walp.",Synonym,,M,TICA,CBB56EBA-787B-4DC2-877A-E38AA8256AAE,251427-1,"Linnaea 14: 320. 1840","","320","1840",gcc-75360
+gcc-152556,A,Compositae,,Stevia,,"linearifolia",,"","steudel",Synonym,,M,TICA,59CBBD25-A895-47A3-A49B-9BFB68C39C55,,"Nomencl. Bot. 2: 641. 1841. ","","641","1841",gcc-153222
+gcc-92453,A,Compositae,,Stevia,,"linearifolia",,"","Steud.",Unresolved,Illegitimate,L,TICA,F139AB66-C455-41FC-AD72-88A24084E3E8,,"""Nomencl. Bot., ed. 2 (Steudel) 2: 641""","","","1841",
+gcc-135187,A,Compositae,,Stevia,,"linearis",,"","Gill. ex Baker",Synonym,Illegitimate,M,TICA,974F2FB4-7C7A-4A51-A3DD-E969A8508372,,"Fl. Bras. (Martius) 6(2): 208","","208","1876",gcc-153222
+gcc-46186,A,Compositae,,Stevia,,"linearis",,"","(Cav.) Willd.",Synonym,,M,TICA,ED3FC8AD-9916-4483-9965-559A845953A4,,"Sp. Pl. iii. 1774.","","1774","",gcc-145865
+gcc-106983,A,Compositae,,Stevia,,"linoides",,"","Sch.Bip. ex Klotzsch",Accepted,,M,TICA,56698EAC-1926-44CF-8DDC-A90DF233BEF0,,"Linnaea 25(3): 284-285. 1852 [1853].","","284-285","1852 [1853]",
+gcc-133980,A,Compositae,,Stevia,,"linoides",,"","Sch.Bip.",Synonym,,M,TICA,46C42B2E-AC1D-4BB4-831F-E6C544F3A8F1,251431-1,"Linnaea 25: 284. 1853","","284","1853",gcc-7629
+gcc-31811,A,Compositae,,Stevia,,"lita",,"","Grashoff",Accepted,,M,TICA,2473360C-0B94-4226-9AE8-3AF093BDE207,245379-2,"","","364","1974",
+gcc-28705,A,Compositae,,Stevia,,"longifolia",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,657DD839-842A-4BF3-B3B2-350D055B51E8,251433-1,"Prodr. (DC.) 5: 118","","118","1836",gcc-83178
+gcc-113658,A,Compositae,,Stevia,,"longiseta",,"","Moc.",Unresolved,,L,TICA,BFE7A442-46AA-48DE-ACE2-B82125A91107,,"Prod. v. 121","","121","",
+gcc-122385,A,Compositae,,Stevia,,"longiseta",,"","Moc. ex DC.",Synonym,Illegitimate,L,TICA,597ED715-1898-469A-96D6-CBE0FCAF39A3,,"","","121","1836",gcc-96300
+gcc-15590,A,Compositae,,Stevia,,"lorentzii",,"","Griseb.",Synonym,,M,TICA,1BA1D083-A895-4D06-B000-1CD8D04E8E11,,"in Goett. Abh. xix. (1874) 164 (err. typ. 416).","","","1874",gcc-123005
+gcc-141059,A,Compositae,,Stevia,,"lozanoi",,"","B.L.Rob.",Synonym,,L,TICA,D58B42C5-C397-428C-A292-F67C8164C723,245380-2,"","","28","1907",gcc-96300
+gcc-116104,A,Compositae,,Stevia,,"lucida",,"","Lag.",Accepted,,M,TICA,E6CE501A-12D1-4AE9-BB39-BDAE589989C0,251437-1,"","","28","1816",
+gcc-52592,A,Compositae,,Stevia,,"lucida",var.,"lucida","",Synonym,,L,TICA,746E565B-CD1F-4BF6-9097-617DEE8AB7CD,,"","","","1816",gcc-116104
+gcc-16271,A,Compositae,,Stevia,,"lucida",var.,"oaxacana","DC.",Synonym,,L,TICA,4FCA3CB4-48CB-470B-8B33-1E18A6170310,,"Prodr. 5: 116. 1836.","","116","1836",gcc-58791
+gcc-58791,A,Compositae,,Stevia,,"lucida",var.,"oaxacana","(DC.) Grashoff",Accepted,,L,TICA,2968BF63-3617-4E55-8FC4-9176A9CDD825,245383-2,"Brittonia 26","","365","1974",
+gcc-68347,A,Compositae,,Stevia,,"lucida",var.,"opaca","Sch.Bip.",Synonym,,L,TICA,2EDE92FF-9C22-448D-8E0C-DE144EB6A7C9,245384-2,"Bot. Voy. Herald 299. 1856","","299","1856",gcc-64735
+gcc-66983,A,Compositae,,Stevia,,"lucida",var.,"pueblensis","B.L.Rob.",Synonym,,L,TICA,C5B6372D-B386-4D6C-AE5F-D33E662F42A7,245385-2,"""Contr. Gray Herb. 90: 15, 111. 1930""","","""15, 111""","1930",gcc-100943
+gcc-78841,A,Compositae,,Stevia,,"lundiana",,"","DC.",Accepted,,M,TICA,EA56504F-7CA9-484B-BA39-6A19CA7752DB,251438-1,"Prodr. (DC.) 5: 122","","122","1836",
+gcc-3535,A,Compositae,,Stevia,,"macbridei",,"","B.L.Rob.",Accepted,,M,TICA,76611B0E-8688-491C-93A2-0681CDF205BA,245388-2,"Contr. Gray Herb. 96","","9","1931",
+gcc-70228,A,Compositae,,Stevia,,"macbridei",var.,"anomala","B.L.Rob.",Synonym,,L,TICA,B947E1BF-506D-4DE5-97DE-EC760391031F,245389-2,"Contr. Gray Herb. 96: 9. 1931","","9","1931",gcc-3535
+gcc-152697,A,Compositae,,Stevia,,"macbridei",var.,"macbridei","",Synonym,,L,TICA,694CD095-0D21-40C1-AC0B-9F0F58024AF1,,"","","","",gcc-3535
+gcc-45678,A,Compositae,,Stevia,,"macella",,"","A.Gray",Synonym,,M,TICA,73433F4D-1341-4939-B3C3-54A8EC0D843F,251440-1,"Pl. Wright. ii. 70.","","70","1853",gcc-98892
+gcc-112815,A,Compositae,,Stevia,,"macvaughii",,"","Grashoff",Accepted,,M,TICA,3471ADDD-1B93-4FB4-9502-B64A522555C0,,"","","","1974",
+gcc-105706,A,Compositae,,Stevia,,"madrensis",,"","A.Gray",Synonym,,M,TICA,17B5782D-8AD9-45AB-A46E-A6234A696D78,245392-2,"","","382","1886",gcc-12031
+gcc-5480,A,Compositae,,Stevia,,"maimarensis",,"","(Hieron.) Cabrera",Accepted,,M,TICA,2566B500-A927-4AB0-9E52-0A37C935247A,245393-2,"","","81","1978",
+gcc-122936,A,Compositae,,Stevia,,"mandonii",,"","Sch.Bip. ex B.L.Rob.",Accepted,,M,TICA,9F63934E-3C80-42F0-A228-CD26B1C0FFE6,,"Contributions from the Gray Herbarium of Harvard University 77:","","6","1926",
+gcc-99461,A,Compositae,,Stevia,,"mandonii",,"","Sch.Bip.",Unresolved,,L,TICA,A8FE7F06-5251-4317-8191-986AEC23BF28,251443-1,"Bull. Soc. Bot. France 12: 81","","81","1865",
+gcc-142869,A,Compositae,,Stevia,,"martinii",,"","B.L.Turner",Accepted,,M,TICA,AF6A26BD-4A49-4564-8F98-FAA19F67E9F6,303928-2,"","","286","1993",
+gcc-92183,A,Compositae,,Stevia,,"mascotensis",,"","Soejima & Yahara",Accepted,,M,TICA,29505605-85AD-4FCC-A99E-8811F7235A99,,"Brittonia 53(3)","","383","2001",
+gcc-12894,A,Compositae,,Stevia,,"megapotamica",,"","DC.",Synonym,,M,TICA,323412AC-F170-4CBA-B3AB-180B1C6EF096,251445-1,"Prodr. (DC.) 5: 123","","123","1836",gcc-117991
+gcc-100336,A,Compositae,,Stevia,,"melancholica",,"","B.L.Rob.",Accepted,,M,TICA,36685A0D-8D1E-44FD-8E9A-9A64799C32E8,245394-2,"Contr. Gray Herb. 90","","15","1930",
+gcc-149876,A,Compositae,,Stevia,,"melissaefolia",,"","(Lam.) Sch.Bip.",Accepted,,M,TICA,882093F1-104E-4FA8-AE5A-62261AC0D133,,"Linnaea 25: 291. 1852.","","291","1852",
+gcc-46100,A,Compositae,,Stevia,,"melissifolia",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,CD64D59B-4319-459C-BF65-557429FFD427,,"Linnaea 25: 291","","291","",
+gcc-150387,A,Compositae,,Stevia,,"menthaefolia",,"","Philippi",Synonym,,M,TICA,CAE800F2-3E98-4A2A-AC53-6D68972353E2,,"Fl. Atacam. 203. 1860. ","","203","1860",gcc-109594
+gcc-7831,A,Compositae,,Stevia,,"menthaefolia",,"","Sch.Bip.",Accepted,,M,TICA,37E4D214-3FDF-4F9F-B04A-0E92409C8203,,"Linnaea 25: 282. 1853","","282","1852",
+gcc-78488,A,Compositae,,Stevia,,"menthaefolia",,"","Phil.",Synonym,Illegitimate,M,TICA,B1A2C814-D19F-48E0-8E34-6949BF1A6A2C,251448-1,"Fl. Atacam. 29.","","","1860",gcc-109594
+gcc-24364,A,Compositae,,Stevia,,"mercedensis",,"","Hieron.",Accepted,,M,TICA,096B6913-0542-4C9D-9342-2D03B2F2C01C,,"","","735","1897",
+gcc-60943,A,Compositae,,Stevia,,"mercedensis",var.,"glanditecta","B.L.Rob.",Synonym,,L,TICA,7FB0016E-0BBF-4CD7-86CB-A2869C67EDFA,245396-2,"""Contr. Gray Herb. 90: 16, 74. 1930""","","16","1930",gcc-5480
+gcc-56876,A,Compositae,,Stevia,,"mercedensis",var.,"mercedensis","",Synonym,,L,TICA,1D44808C-88B9-4529-B14B-81E0CEFDBFC6,,"Bot. Jahrb. Syst. 22: 735 (1897)","","735","1897",gcc-24364
+gcc-65667,A,Compositae,,Stevia,,"mercedensis",var.,"pereyrae","B.L.Rob.",Synonym,,L,TICA,401FA548-0CA5-44DB-B590-C8A316DCF28E,245397-2,"""Contr. Gray Herb. 90: 16, 74""","","16","1930",gcc-22611
+tro-2708361,A,Compositae,,Stevia,,"mereedensis",,"","Hieron.",Unresolved,,L,TRO,2708361,,"","","","",
+gcc-148894,A,Compositae,,Stevia,,"mexicana",,"","""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,FF47A46D-02B7-4A1F-A768-4D1BFF82881F,,"Brittonia 53(3): 383-384. 2001.","","","2001",
+gcc-114469,A,Compositae,,Stevia,,"micradenia",,"","B.L.Rob.",Accepted,,M,TICA,1E7541E2-C159-47FF-A1B4-B9EB583D63AE,289504-2,"Contr. Gray Herb. 64","","3","1922",
+gcc-98892,A,Compositae,,Stevia,,"micrantha",,"","Lag.",Accepted,,M,TICA,7866FB66-B5E8-4C95-A486-971E96B05D98,,"Elench. Hort. Matr. (1805); ex ej. Gen. et Sp. Nov. 27.","","27","1816",
+gcc-29825,A,Compositae,,Stevia,,"microcephala",,"","DC.",Synonym,,M,TICA,D8A4DC35-7F8B-454E-A6A4-3726A0AE85B1,251453-1,"Prodr. (DC.) 5: 118","","118","1836",gcc-125797
+gcc-18987,A,Compositae,,Stevia,,"microchaeta",,"","Sch.Bip. ex Sch.Bip.",Accepted,,M,TICA,8505B8FF-0389-4AEF-B2EB-230B77F9478F,,"","","291","",
+gcc-1959,A,Compositae,,Stevia,,"microdonta",,"","Sch.Bip.",Unresolved,,L,TICA,07CB63B7-6E2D-4895-B3D9-0385F5B0CC98,,"","","","",
+gcc-100860,A,Compositae,,Stevia,,"micropappa",,"","Sch.Bip.",Synonym,,L,TICA,EAAA022A-9280-47A7-8528-9B9298EFEEAD,251455-1,"Bull. Soc. Bot. France 12: 81","","81","1865",gcc-20872
+gcc-77806,A,Compositae,,Stevia,,"microphylla",,"","Kunth",Synonym,,M,TICA,BDE2D11A-B48D-4E3C-8064-67B2FEDA573D,,"Nov. Gen. Sp. [H.B.K.] iv. 140.","","","",gcc-119300
+gcc-142619,A,Compositae,,Stevia,,"minor",,"","Griseb.",Accepted,,M,TICA,3E812B01-D2CD-44C5-A6DD-F9FD76D9ED43,251457-1,"Goett. Abh. xix. (1874) 166.","","166","1874",
+gcc-88968,A,Compositae,,Stevia,,"mitopoda",,"","B.L.Rob.",Accepted,,M,TICA,872707B2-D540-4124-B394-809B521C3215,245399-2,"Contr. Gray Herb. 80","","8","1928",
+gcc-110424,A,Compositae,,Stevia,,"mollis",,"","Schrad. ex DC.",Synonym,,M,TICA,9AA5BD4F-3A89-4409-A477-B0DF4B1A4EB5,251459-1,"Prodr. (DC.) 5: 120","","120","1836",gcc-119642
+gcc-145442,A,Compositae,,Stevia,,"mollis",,"","SCHRADER",Synonym,,M,TICA,1995FE23-9DD8-494D-8FB3-040B658FBAC7,,"Ind. Sem. Hon. Acad. Gott. 1831: 5. 1831. ","","5","1831",gcc-119642
+gcc-85081,A,Compositae,,Stevia,,"mollis",,"","Schrad.",Synonym,,M,TICA,A72904D8-1243-4564-991C-77DFF3FC4117,927783-1,"","","5","1831",gcc-119642
+gcc-152264,A,Compositae,,Stevia,,"monardaefolia",,"","Kunth",Accepted,,M,TICA,4A31F2FC-63C9-44D7-A92B-95CB0672ECDF,251460-1,"Nov. Gen. Sp. 4: 115. Ed. Folio. 1818.","","115. Ed. Folio.","1818",
+gcc-102521,A,Compositae,,Stevia,,"monardifolia",,"","Kunth",Accepted,,M,TICA,600D1DF9-50F1-49B4-BD9D-9F5161B86DAC,,"Nov. Gen. Sp. [H.B.K.] iv. 147.","","","",
+gcc-58652,A,Compositae,,Stevia,,"monardifolia",var.,"amblyolepis","B.L.Rob.",Synonym,,L,TICA,4D683281-9F77-4513-BE8D-9062763F62D5,245401-2,"Proc. Amer. Acad. Arts 35: 326. 1900","","326","1900",gcc-111455
+gcc-69157,A,Compositae,,Stevia,,"monardifolia",var.,"macrophylla","B.L.Rob.",Synonym,,L,TICA,315C3124-0D76-4DE6-B02A-E45A8CDD877D,245402-2,"Proc. Amer. Acad. Arts 35: 326. 1900","","326","1900",gcc-102521
+gcc-67891,A,Compositae,,Stevia,,"monardifolia",var.,"monardifolia","",Synonym,,L,TICA,622AFA51-65AD-4ED5-A801-DACE46EB3EAF,,"","","","1820",gcc-102521
+gcc-66075,A,Compositae,,Stevia,,"monardifolia",var.,"repens","B.L.Rob.",Synonym,,L,TICA,2CC37E8D-6C2E-4681-A57F-CBCF857CA579,245403-2,"Contr. Gray Herb. 80: 9. 1928","","9","1928",gcc-102521
+gcc-94051,A,Compositae,,Stevia,,"morii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,17C7D784-6CF5-4876-B4AE-8C17987F53DA,245405-2,"","","299","1980",
+gcc-115414,A,Compositae,,Stevia,,"multiaristata",,"","Griseb.",Unresolved,Illegitimate,L,TICA,AF62983A-E555-445B-B6D9-BC1539221AE1,,"Abh. Königl. Ges. Wiss. Göttingen 19: 166 (1874)","","166","1874",
+gcc-117991,A,Compositae,,Stevia,,"multiaristata",,"","Spreng.",Accepted,,M,TICA,42EF8189-F061-4C67-AAAA-C1E70011D3B7,245406-2,"Syst. Veg. (ed. 16) [Sprengel] 3: 449","","449","1826",
+gcc-31764,A,Compositae,,Stevia,,"multiaristata",,"","Sch.Bip.",Unresolved,,L,TICA,74067A91-E647-4905-8639-3ADA3FD682F1,,"Systema Vegetabilium Florae Peruvianae et Chilensis 3:","","449","1826",
+gcc-145615,A,Compositae,,Stevia,,"multiaristata",var.,"multiaristata","",Synonym,,L,TICA,31F5CF99-5667-4820-A2E0-07657C9217AA,,"","","","",gcc-31764
+gcc-17831,A,Compositae,,Stevia,,"multiaristata",var.,"patagonica","Hieron.",Synonym,,L,TICA,AA6D4633-A1FF-4529-8960-20E7F37C3C5B,,"","","353","1880",gcc-117207
+gcc-119213,A,Compositae,,Stevia,,"multifida",,"","Moc. ex DC.",Synonym,,M,TICA,C985500A-8FB5-49DB-8491-C4AA0AF4D21F,251463-1,"Prodr. 5: 121. 1836.","","121","1836",gcc-144470
+gcc-151140,A,Compositae,,Stevia,,"multifida",var.,"multifida","",Synonym,,L,TICA,587F8D03-78DF-4559-90A4-7EA3378796A9,,"","","","",gcc-144470
+gcc-41999,A,Compositae,,Stevia,,"myriadenia",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,FA265A7D-6771-4341-A1F5-4DC2DEAF56E2,,"Fl. Bras. (Martius) 6(2): 206","","206","1876",
+gcc-87436,A,Compositae,,Stevia,,"myricoides",,"","McVaugh",Accepted,,M,TICA,1CA62F2F-89C5-4595-AE18-7D4568990401,245409-2,"","","403","1972",
+gcc-34176,A,Compositae,,Stevia,,"neglecta",,"","Rusby",Accepted,,M,TICA,F72A6A42-1229-4F9F-9036-3F57E4AD083A,245410-2,"","","209","1895",
+gcc-23518,A,Compositae,,Stevia,,"nelsonii",,"","B.L.Rob.",Accepted,,M,TICA,FFF2C059-8A02-4176-870A-2B81A5E9CFAC,245411-2,"","","9","1928",
+gcc-146015,A,Compositae,,Stevia,,"nepetaefolia",,"","Kunth",Synonym,,M,TICA,77865E91-F3DC-49A8-9DB0-0FECFBFAD395,251468-1,"Nov. Gen. Sp. 4: 114. Ed. Folio. 1818","","114. Ed. Folio.","1818",gcc-119642
+gcc-148865,A,Compositae,,Stevia,,"nepetaefolia",var.,"leucantha","(Schlecht.) Sch.Bip.",Synonym,,L,TICA,AD31A84D-E67A-48BE-8000-4C6F30893920,,"Linnaea 25: 280. 1853.","","280","1853",gcc-119642
+gcc-147046,A,Compositae,,Stevia,,"nepetaefolia",var.,"mollis","(schrad ex DC.) Sch.Bip.",Synonym,,L,TICA,F6A15DE0-6872-4D05-93D2-255EE902C844,,"Linnaea 25: 280. 1853.","","280","1853",gcc-119642
+gcc-154781,A,Compositae,,Stevia,,"nepetaefolia",var.,"nepetaefolia","",Synonym,,L,TICA,17FD1AFA-0F50-45C9-801F-CACEA25F6CB8,,"","","","",gcc-119642
+gcc-22796,A,Compositae,,Stevia,,"nepetella",,"","Sessé & Moc.",Unresolved,,L,TICA,DB4D5064-30F0-4D61-8FFC-2A30DE33C935,,"","","","",
+gcc-145630,A,Compositae,,Stevia,,"nepetifolia",,"","Beauverd ex Herzog",Synonym,,M,TICA,94FFC4FF-69FB-44E2-A233-07B0DEB5DD7C,,"","","","",gcc-22993
+gcc-46722,A,Compositae,,Stevia,,"nepetifolia",,"","Kunth",Synonym,,M,TICA,A9659AF4-E0E7-4E57-A65F-569859E13462,,"Nov. Gen. Sp. [H.B.K.] iv. 146.","","","",gcc-119642
+gcc-14646,A,Compositae,,Stevia,,"nepetifolia",var.,"leucantha","(Schlecht.) Sch.Bip.",Synonym,,L,TICA,FDC834D0-82F2-4374-8F20-1B2B9BA33A4A,,"Linnaea 25:","","279","1853",gcc-119642
+gcc-152139,A,Compositae,,Stevia,,"nepetifolia",f.,"nepetifolia","",Synonym,,L,TICA,0B7F1152-36F0-414C-BECE-935EA60F9997,,"","","","",gcc-119642
+gcc-154058,A,Compositae,,Stevia,,"nepetifolia",var.,"nepetifolia","",Synonym,,L,TICA,EA0C59D0-89AD-4245-9291-BB627DBEAFCC,,"","","","",gcc-119642
+gcc-36641,A,Compositae,,Stevia,,"nervosa",,"","DC.",Synonym,,M,TICA,BBAA0AE1-54F1-4961-AF0E-43ED27FF6334,251469-1,"","","117","1836",gcc-30128
+gcc-97925,A,Compositae,,Stevia,,"neurophylla",,"","B.L.Rob. & Greenm.",Accepted,,M,TICA,50462C97-4C17-426D-8429-94F8D271141C,245414-2,"","","327","1900",
+gcc-122221,A,Compositae,,Stevia,,"nevadensis",,"","Hieron.",Synonym,,M,TICA,B835A47C-1970-45E5-9ADD-CB8AE9E5C42F,,"","","729","1897",gcc-94226
+gcc-124194,A,Compositae,,Stevia,,"nitida",,"","Walp.",Synonym,,M,TICA,4860D1AC-551C-4E35-86F2-D01E69F269F1,251472-1,"Linnaea 14: 320. 1840","","320","1840",gcc-116104
+gcc-111782,A,Compositae,,Stevia,,"oaxacana",,"","Sch.Bip. ex Klatt",Synonym,Illegitimate,M,TICA,2E691B6F-B88F-4594-9E7D-B3EB4A8146E8,251473-1,"Leopoldina xx. (1884) 75.","","75","1884",gcc-116104
+gcc-35293,A,Compositae,,Stevia,,"oaxacana",,"","Soejima & Yahara",Accepted,,M,TICA,D39D2B5B-91FE-4B8D-A8E6-416FF15EC443,,"Brittonia 53(3)","","384","2001",
+gcc-41798,A,Compositae,,Stevia,,"obovata",,"","Rusby",Accepted,,M,TICA,E1CF8427-5FEE-4944-9347-4D6976DE2859,245416-2,"","","55","1896",
+gcc-150194,A,Compositae,,Stevia,,"obovata",var.,"obovata","",Synonym,,L,TICA,E0569F77-948C-4F84-A837-6921C6A3D78D,,"","","","",gcc-41798
+gcc-85251,A,Compositae,,Stevia,,"occidentalis",,"","(Grashoff) ""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,4D296F5A-639D-4B5E-B3B8-784B601314DE,1115726-2,"Brittonia 53(3)","","394","2001",
+gcc-94330,A,Compositae,,Stevia,,"odorata",,"","hort.dammer ex Regel",Synonym,,M,TICA,177D8788-4F7B-4E73-BB32-8CBDBFF448B0,251475-1,"""in Gartenfl. xl. (1891) 107, cum. xylogr. 36.""","","107","1891",gcc-75360
+gcc-2838,A,Compositae,,Stevia,,"okadae",,"","Cabrera",Accepted,,M,TICA,DCBFFD1E-B760-426F-BF13-053A47B758EE,251476-1,"Hickenia 1(3)","","13","1976",
+gcc-28607,A,Compositae,,Stevia,,"oligocephala",,"","DC.",Accepted,,M,TICA,3DC3B0F6-9D19-471E-9818-34DF279710A3,251477-1,"Prodr. (DC.) 5: 117","","117","1836",
+gcc-46928,A,Compositae,,Stevia,,"oligophylla",,"","Soejima & Yahara",Accepted,,M,TICA,2E510508-32BC-409E-A759-56F9EEED92B9,,"Brittonia 53(3)","","","2001",
+gcc-96554,A,Compositae,,Stevia,,"ophiomaches",,"","B.L.Rob.",Accepted,,M,TICA,47951821-BB38-4CFD-B4FF-91D6E22DD979,245420-2,"Contr. Gray Herb. 96","","10","1931",
+gcc-83976,A,Compositae,,Stevia,,"ophryodonta",,"","B.L.Rob.",Accepted,,M,TICA,289F0951-3292-45BA-80B0-757E63D2CE43,245421-2,"Contr. Gray Herb. 104","","7","1934",
+gcc-14144,A,Compositae,,Stevia,,"ophryophylla",,"","B.L.Rob.",Accepted,,M,TICA,C7CA721A-5C04-4B67-B798-1A389C1FA96B,245422-2,"Contr. Gray Herb. 90","","17","1930",
+gcc-145532,A,Compositae,,Stevia,,"organensis",,"","Gardner",Accepted,,M,TICA,7FB9002B-9AB5-4E3D-A1F1-05F0BDE82326,251481-1,"London J. Bot. 4: 115. 1845.","","115","1845",
+gcc-94719,A,Compositae,,Stevia,,"origanifolia",,"","Walp.",Synonym,,M,TICA,A7D5D672-9134-4186-8216-8DB0A14BBE26,251482-1,"Linnaea 14","","321","1840",gcc-27565
+gcc-87241,A,Compositae,,Stevia,,"origanoides",,"","Kunth",Accepted,,M,TICA,CDFEFF20-26BF-4D4D-AC40-7CD53B58FD13,,"Nov. Gen. Sp. [H.B.K.] iv. 147.","","","",
+gcc-106205,A,Compositae,,Stevia,,"orizabensis",,"","B.L.Rob.",Accepted,,M,TICA,284DAD0C-5EC5-46B6-9A67-A73E55C45C3E,245423-2,"Contr. Gray Herb. 80","","10","1928",
+gcc-111416,A,Compositae,,Stevia,,"ovalis",,"","(B.L.Rob.) B.L.Rob.",Accepted,,M,TICA,17862172-B4A8-48CB-932A-B3104AC3E417,245424-2,"Contr. Gray Herb. 90","","119","1930",
+gcc-30128,A,Compositae,,Stevia,,"ovata",,"","Willd.",Accepted,,M,TICA,6763E021-1554-4049-B6D3-37C34636E8B6,30284853-2,"Enum. Pl. (Willdenow) 855","","855","1809",
+gcc-32555,A,Compositae,,Stevia,,"ovata",,"","Lag.",Synonym,Illegitimate,M,TICA,94072672-BD3C-4AE8-945A-3C5941F07EC9,251488-1,"Gen. Sp. Pl. [Lagasca] [27]","","27","1816",gcc-30128
+gcc-709,A,Compositae,,Stevia,,"ovata",,"","Dum.Cours.",Synonym,Illegitimate,M,TICA,81F001BB-A683-4065-81BC-0155B2E48C7E,251486-1,"","","93","1811",gcc-30128
+gcc-79266,A,Compositae,,Stevia,,"ovata",,"","Raf.",Unresolved,Illegitimate,L,TICA,43592E31-D9DB-4CC6-B37C-6B0BE5402DAC,251487-1,"New Fl. (Rafinesque) 4: 73","","73","1838",
+gcc-3588,A,Compositae,,Stevia,,"ovata",var.,"ovata","",Synonym,,L,TICA,CAAD5D86-DBCD-423B-A69E-06A1E11067FB,,"","","","1809",gcc-30128
+gcc-107888,A,Compositae,,Stevia,,"oxylaena",,"","Griseb.",Synonym,Illegitimate,L,TICA,7E95B676-0FED-4DB9-ACF2-AB1E799A1268,,"Abh. Königl. Ges. Wiss. Göttingen 24: 168 (1879)","","168","1879",gcc-122122
+gcc-76622,A,Compositae,,Stevia,,"oxylaena",,"","DC.",Synonym,,M,TICA,23046B44-B210-4D6A-B95A-6518B94B6D5A,251489-1,"","","123","1836",gcc-25308
+gcc-147850,A,Compositae,,Stevia,,"oxylaena",var.,"oxylaena","",Synonym,,L,TICA,A0BDD00F-F387-4AF3-8F9B-36A0DE5BC146,,"","","","",gcc-25308
+gcc-85728,A,Compositae,,Stevia,,"pabloensis",,"","Hieron.",Accepted,,M,TICA,B931E51F-9173-4D3C-BF75-79559B6EC46F,245429-2,"","","364","1908",
+gcc-10431,A,Compositae,,Stevia,,"pallida",,"","(Sch.Bip.) Hieron.",Synonym,,M,TICA,E611CC59-02BC-4D01-ABA6-13771883D256,293446-2,"Bot. Jahrb. Syst. 21: 328. 1895","","328","1895",gcc-30128
+gcc-124242,A,Compositae,,Stevia,,"pallida",,"","Mart. ex Baker",Synonym,Illegitimate,M,TICA,340DBED4-8235-456A-8DA1-D03BD27B8079,,"Fl. Bras. (Martius) 6(2): 206","","206","1876",gcc-135927
+gcc-96465,A,Compositae,,Stevia,,"palmeri",,"","A.Gray",Synonym,,M,TICA,E0708BE6-1115-4825-87B9-919C6692109F,245430-2,"","","382","1886",gcc-92995
+gcc-68048,A,Compositae,,Stevia,,"palmeri",var.,"constricta","Grashoff",Synonym,,L,TICA,42BB3370-45A0-4319-8BA4-DBEDDB45F374,245431-2,"","","370","1974",gcc-92995
+gcc-81995,A,Compositae,,Stevia,,"paniculata",,"","Lag.",Synonym,,M,TICA,AA6D01C8-9F58-4E3D-99D6-710BCE78B252,,"","","27","1816",gcc-30128
+gcc-123379,A,Compositae,,Stevia,,"paniculigera",,"","Mart.",Unresolved,,L,TICA,1E74A9E8-CF21-4A9F-9D15-CE26D3BEAC4F,,"""Herb. Fl. Bras. n. 772; et ex Baker, in Mart. Fl. Bras. vi. II. 201.""","","n. 772","",
+gcc-142061,A,Compositae,,Stevia,,"paniculigera",,"","Baker",Synonym,Illegitimate,M,TICA,427E06EA-06D4-4E5E-A21E-F8CB592E79D3,,"","","201","1876",gcc-145432
+gcc-133107,A,Compositae,,Stevia,,"parvifolia",,"","Hassl.",Accepted,,M,TICA,0A1E3708-1D62-48ED-922B-E4C0B7BA174A,245432-2,"Repert. Spec. Nov. Regni Veg. 11","","165","1912",
+gcc-152237,A,Compositae,,Stevia,,"pauciflora",,"","J.Kost.",Accepted,,L,TICA,5465B7B6-21D1-489F-9A7A-9555A0B78272,251496-1,"","","266","1948",
+gcc-119973,A,Compositae,,Stevia,,"pauciradiata",,"","Baker",Unresolved,,L,TICA,F30A736A-6ED1-4A92-BACF-C66CE0D1549B,245434-2,"Bull. Soc. Bot. France 56(Mém. 3d): 383","","383","1909",
+gcc-8485,A,Compositae,,Stevia,,"pauciradiata",,"","Baker ex Glaz.",Unresolved,Illegitimate,L,TICA,1B19BFA8-C8FA-49C9-AD6D-0FCF86C841B7,251497-1,"""Bull. Soc. Bot. France 56(Mém. 3d): 383, nomen""","","383","1909",
+gcc-21791,A,Compositae,,Stevia,,"pearcei",,"","B.L.Rob.",Accepted,,M,TICA,496A1B11-F500-484B-95D9-285238D51377,245435-2,"Contr. Gray Herb. 100","","7","1932",
+gcc-135200,A,Compositae,,Stevia,,"pedata",,"","Cav.",Synonym,,M,TICA,E49C439D-3582-4CCF-B834-E97284113010,251499-1,"","","""33, t. 356""","1797",gcc-31739
+gcc-85747,A,Compositae,,Stevia,,"pelophila",,"","S.F.Blake",Accepted,,M,TICA,418C3C21-2571-48D1-B9DE-795E37719479,245437-2,"","","589","1924",
+gcc-84095,A,Compositae,,Stevia,,"pennellii",,"","B.L.Rob.",Accepted,,M,TICA,D02B07CC-F48D-41B6-9DA9-75C26540A0FC,245438-2,"Contr. Gray Herb. 100","","7","1932",
+gcc-22611,A,Compositae,,Stevia,,"pereyrae",,"","(B.L.Rob.) Cabrera",Accepted,,M,TICA,8CF597C3-FCD6-4BFA-BB2E-29D9122B35B6,245439-2,"","","83","1978",
+gcc-100605,A,Compositae,,Stevia,,"perfoliata",,"","Cronquist",Accepted,,M,TICA,CD5570EA-51CA-440B-9EA6-9B06AB9ED24C,245440-2,"","","292","1965",
+gcc-93155,A,Compositae,,Stevia,,"petiolata",,"","(Cass.) Sch.Bip.",Accepted,,M,TICA,04B8D9D9-37E9-4708-8173-8A21077819D7,251504-1,"Linnaea 25: 291. 1853","","291","1853",
+gcc-109594,A,Compositae,,Stevia,,"philippiana",,"","Hieron.",Accepted,,M,TICA,A92B9849-BE9C-45F4-8ABB-AF01EB66C1BD,245441-2,"","","364","1908",
+gcc-156116,A,Compositae,,Stevia,,"philippiana",var.,"philippiana","",Synonym,,L,TICA,B18875DC-C530-49DE-91C4-E6B564BE41CF,,"","","","",gcc-109594
+gcc-76992,A,Compositae,,Stevia,,"phlebophylla",,"","A.Gray",Accepted,,M,TICA,6B198EB2-7E5D-4A3E-B808-65D6E1250A24,245444-2,"Proc. Amer. Acad. Arts 22: 419. 1887","","419","1887",
+gcc-91492,A,Compositae,,Stevia,,"phlebophylla",,"","A.Gray ex S.Watson",Unresolved,,L,TICA,DE690FD6-3B5C-472A-B9E7-868004BCA1D5,,"Proc. Amer. Acad. Arts xxii. (1887) 419.","","419","",
+gcc-26179,A,Compositae,,Stevia,,"pilosa",,"","Lag.",Accepted,,M,TICA,71D2E297-2F89-4E21-84F0-30680AE1A11E,251507-1,"","","26","1816",
+gcc-155080,A,Compositae,,Stevia,,"pilosa",f.,"pilosa","",Synonym,,L,TICA,E29B702C-FBDF-48C7-B9FD-D098D960928F,,"","","","",gcc-26179
+gcc-149644,A,Compositae,,Stevia,,"pinifolia",,"","Philippi",Synonym,,M,TICA,AD7BF717-7BBC-4AB2-9568-5D641D1E18DD,,"Anales Univ. Chile 37. 1891.","","37","1891",gcc-82341
+gcc-87214,A,Compositae,,Stevia,,"pinifolia",,"","Phil.",Synonym,,M,TICA,903E9EF8-1FCD-4F9A-A738-7CC2B4FE75F2,251508-1,"","","37","1891",gcc-82341
+gcc-12031,A,Compositae,,Stevia,,"plummerae",,"","A.Gray",Accepted,,M,TICA,FF13023C-67E1-4B6F-915F-166B0E54D0A6,251509-1,"Proc. Amer. Acad. Arts xvii. (1882) 204.","","204","1882",
+gcc-47367,A,Compositae,,Stevia,,"plummerae",var.,"alba","A.Gray",Synonym,,L,TICA,B50C383A-BE14-425C-8BA5-57B9A3E5B958,245449-2,"""Syn. Fl. N. Amer. 1, pt. 2: 92. 1884""","","92","1884",gcc-12031
+gcc-20491,A,Compositae,,Stevia,,"plummerae",var.,"plummerae","",Synonym,,L,TICA,96227C01-A8A3-4414-B2A0-25E57337F472,,"","","","1882",gcc-12031
+gcc-15456,A,Compositae,,Stevia,,"podocephala",,"","S.Schauer",Unresolved,Illegitimate,L,TICA,FAC0444D-6FF8-4C24-BC91-1C9D5C5267D0,251511-1,"Linnaea 19: 718. 1847","","718","1847",
+gcc-97610,A,Compositae,,Stevia,,"podocephala",,"","DC.",Synonym,,L,TICA,757B0F41-DB5C-483E-9743-9447CED009B3,251510-1,"","","121","1836",gcc-102257
+gcc-97520,A,Compositae,,Stevia,,"pohliana",,"","Baker",Accepted,,M,TICA,E91866B7-08EC-4985-81B3-941271171E7B,,"Fl. Bras. (Martius) 6(2): 211","","211","1876",
+gcc-17138,A,Compositae,,Stevia,,"polycephala",,"","Baker",Synonym,Illegitimate,M,TICA,B232E5CC-FABC-41EE-8B1A-1FABF8025844,,"Fl. Bras. (Martius) 6(2): 207","","207","1876",gcc-24385
+gcc-4781,A,Compositae,,Stevia,,"polycephala",,"","Bertol.",Accepted,,M,TICA,AB9E18C3-41B0-4B07-B77A-08E5D7A362C0,,"","","432","1840",
+gcc-69449,A,Compositae,,Stevia,,"polycephala",var.,"polycephala","",Synonym,,L,TICA,4E26FC15-2BE3-455C-99B8-E67BE0A3FF5F,,"","","","1840",gcc-4781
+gcc-84156,A,Compositae,,Stevia,,"polyphylla",,"","DC.",Accepted,,M,TICA,392DF014-4654-4A7B-88A7-75E84E051224,251515-1,"Prodr. (DC.) 5: 123","","123","1836",
+gcc-104144,A,Compositae,,Stevia,,"porphyrea",,"","McVaugh",Synonym,Illegitimate,M,TICA,F0D4D783-B0E8-4BA2-8FBE-A2DB7312DFCB,251516-1,"Contr. Univ. Michigan Herb. 9(4)","","404","1972",gcc-115411
+gcc-25591,A,Compositae,,Stevia,,"potosiensis",,"","R.M.King & H.Rob.",Accepted,,M,TICA,27A3ECE8-5310-4574-805E-2F43335E94FE,245453-2,"","","173","1982",
+gcc-149418,A,Compositae,,Stevia,,"potosina",,"","Soejima",Accepted,,M,TICA,B77572B9-BB2B-499C-8060-584FC7B2F383,,"Brittonia 53(3): 386-388. 2001.","","386-388.","2001",
+gcc-5370,A,Compositae,,Stevia,,"potosina",,"","""Soejima, Yahara & K.Watan.""",Unresolved,,L,TICA,B7A3BFCA-6C09-4556-9200-0A055E8FE9D4,,"Brittonia 53(3)","","","2001",
+gcc-91136,A,Compositae,,Stevia,,"potrerensis",,"","Hieron.",Accepted,,M,TICA,E9BDE7D9-E4C2-4D7A-9DD0-85A2AE09F0AF,,"","","715","1897",
+gcc-83346,A,Compositae,,Stevia,,"pratheri",,"","B.L.Turner",Accepted,,M,TICA,6A7FB8A0-035E-48D0-B1BE-740F6CB7D15D,302196-2,"","","128","1992",
+gcc-139625,A,Compositae,,Stevia,,"pringlei",,"","S.Watson",Synonym,,M,TICA,95506D21-DCBE-4D4C-83E8-F32204688CAD,285587-2,"Proc. Amer. Acad. Arts 23: 276. 1888","","276","1888",gcc-48835
+gcc-14449,A,Compositae,,Stevia,,"procumbens",,"","Hieron.",Accepted,,M,TICA,26A7A98B-5162-4325-9804-1AD21B2DE6A0,,"","","728","1897",
+gcc-150031,A,Compositae,,Stevia,,"procumbens",var.,"procumbens","",Synonym,,L,TICA,F2EA9AF8-9F2C-47B5-A637-65DE1E7A7870,,"","","","",gcc-14449
+gcc-152632,A,Compositae,,Stevia,,"procumbens",f.,"procumbens","",Synonym,,L,TICA,73B77B79-95D5-408D-BB9A-9DA18C6892D7,,"","","","",gcc-14449
+gcc-67144,A,Compositae,,Stevia,,"procumbens",var.,"tucumanensis","Hieron.",Synonym,,L,TICA,8EF15708-4E2E-40CB-A3F2-D49BDE57E0EF,,"Bot. Jahrb. Syst. 22: 729. 1897","","729","1897",gcc-44580
+tro-50145245,A,Compositae,,Stevia,,"prophyrea",,"","McVaugh",Unresolved,,L,TRO,50145245,,"","","","",
+tro-2716363,A,Compositae,,Stevia,,"puberula",,"","Hook.",Accepted,,M,TRO,2716363,251521-1,"Bot. Misc.","2: 225","225","1831",
+gcc-101067,A,Compositae,,Stevia,,"pubescens",,"","Kunth",Synonym,Illegitimate,M,TICA,03727628-D775-4CAB-9560-9C01A7E3CE03,,"Nov. Gen. Sp. (folio ed.) 4: 112. 1820 [1818].","","112","1820 [1818]",gcc-7629
+gcc-141186,A,Compositae,,Stevia,,"pubescens",,"","Lag.",Synonym,,M,TICA,439B03F9-D654-4265-87FE-F6C5C19E0FE1,251522-1,"Gen. et Sp. Nov. 26.","","26","1816",gcc-23799
+gcc-1494,A,Compositae,,Stevia,,"pubescens",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,A9233B8B-BC05-41A3-961C-02B13BE11294,251523-1,"Prodr. (DC.) 5: 119","","119","1836",gcc-119642
+gcc-105453,A,Compositae,,Stevia,,"pubigera",,"","Hieron.",Synonym,,M,TICA,A220636E-8451-4791-B5DD-A59F030640B4,,"","","720","1897",gcc-123005
+gcc-151233,A,Compositae,,Stevia,,"pubigera",f.,"pubigera","",Synonym,,L,TICA,A79D8432-4EC5-46CE-BAF0-80581408AD69,,"","","","",gcc-123005
+gcc-156811,A,Compositae,,Stevia,,"pubigera",var.,"pubigera","",Synonym,,L,TICA,0C0B8CCA-C677-4375-A2E4-F4BD8A5F8E1E,,"","","","",gcc-123005
+gcc-6625,A,Compositae,,Stevia,,"pulcherrima",,"","(B.L.Rob.) M.E.Jones",Synonym,,M,TICA,D2E41399-12B7-48D6-B014-0C4A18385063,1002066-1,"","","71","1933",gcc-47217
+tro-2716368,A,Compositae,,Stevia,,"punctata",,"","(Ortega) Pers.",Accepted,,M,TRO,2716368,251525-1,"Syn. Pl.","2: 403","403","1807",
+gcc-140938,A,Compositae,,Stevia,,"punensis",,"","B.L.Rob.",Accepted,,M,TICA,DAA78C51-8A1A-419C-97E9-F63B5D6FFCEB,245463-2,"Contr. Gray Herb. 100","","8","1932",
+gcc-109861,A,Compositae,,Stevia,,"purdiei",,"","B.L.Rob.",Accepted,,M,TICA,2C452884-4F8E-4C83-8D92-AFA109CD9B5E,245464-2,"Contr. Gray Herb. 96","","13","1931",
+gcc-122763,A,Compositae,,Stevia,,"purpurascens",,"","(Sch.Bip.) Hieron.",Synonym,,L,TICA,D238A0E1-8FD9-471B-AEAD-CCBCD145EF4B,293445-2,"Bot. Jahrb. Syst. 21: 328. 1895.","","328","1895",gcc-102257
+gcc-103375,A,Compositae,,Stevia,,"purpurea",,"","(Willd.) Hieron.",Synonym,,M,TICA,B9307D64-4578-4260-ADBC-A12401BC2AC3,,"","","","1895",gcc-115411
+gcc-104640,A,Compositae,,Stevia,,"purpurea",,"","Pers.",Synonym,,M,TICA,AEEF9957-F4EC-4B5A-977B-A3E830024A31,251529-1,"","","402","1807",gcc-23799
+gcc-111631,A,Compositae,,Stevia,,"purpurea",,"","Willd.",Synonym,,M,TICA,2FA5C70A-01A6-4932-9F51-B38D62E7F7AA,,"","","","",gcc-115411
+gcc-121544,A,Compositae,,Stevia,,"purpurea",,"","Lag.",Synonym,Illegitimate,L,TICA,BA80D881-8282-4DC5-9361-CA061D318365,251530-1,"Gen. et Sp. Nov. 26.","","26","1816",gcc-96300
+gcc-66677,A,Compositae,,Stevia,,"purpurea",var.,"dianthoides","Sch.Bip.",Synonym,,L,TICA,363E5C67-0E2E-4780-8FA9-D0B8DC0F6679,,"Linnaea 25(3):","","285-286","",gcc-26179
+gcc-134625,A,Compositae,,Stevia,,"purpusii",,"","B.L.Rob.",Accepted,,M,TICA,2FEAC3E3-78FC-4A80-901B-E83030A82766,245466-2,"Contr. Gray Herb. 90","","18","1930",
+gcc-100943,A,Compositae,,Stevia,,"pyrolaefolia",,"","Schltdl.",Accepted,,M,TICA,787E9289-F0CE-4C9A-BAAF-9BBB16475A0E,251532-1,"Linnaea 16: 326. 1842","","326","1842",
+gcc-156614,A,Compositae,,Stevia,,"pyrolaefolia",,"","Schlecht.",Unresolved,,L,TICA,3868C230-51AA-4205-ACB8-F0F2C0173DF3,,"Linnaea 16: 326. 1842.","","326","1842",
+gcc-80267,A,Compositae,,Stevia,,"quiexobra",,"","B.L.Turner",Accepted,,M,TICA,C352457E-DFDA-4AB2-84BD-6D3E8B015D15,,"","","301","",
+gcc-141290,A,Compositae,,Stevia,,"quitensis",,"","Kunth",Synonym,,M,TICA,BCE29724-437E-4263-8328-F70D168B6135,,"","","113-114","1820 [1818]",gcc-30128
+gcc-130584,A,Compositae,,Stevia,,"ranunculoides",,"","Hemsl.",Unresolved,Illegitimate,L,TICA,299955A6-4265-4349-85D0-DEE33D5B4F53,,"""Biol. Cent.-Amer., Bot. ii. 89""","","89","1881",
+gcc-37680,A,Compositae,,Stevia,,"rapunculoides",,"","DC.",Synonym,,M,TICA,2A750126-CE7D-42D9-A502-45DEBDFAE456,245467-2,"Prodr. (DC.) 5: 124","","124","1836",gcc-139035
+gcc-103425,A,Compositae,,Stevia,,"rebaudiana",,"","(Bertoni) Bertoni",Accepted,,M,TICA,F129AC71-25E6-4D97-94F3-A13B457AF50D,,"Anales Ci. Parag.","","3","1905",
+gcc-121534,A,Compositae,,Stevia,,"rebaudiana",,"","(Bertoni) Hemsl.",Synonym,Illegitimate,M,TICA,1A194C38-7A99-4769-9A40-CA00250A6C25,251536-1,"Hook. Ic. Pl. t. 2816 (1906)","","2816","1906",gcc-103425
+gcc-126157,A,Compositae,,Stevia,,"reclinata",,"","Rusby",Accepted,,M,TICA,2DF2D9B8-731C-4232-AE01-D4AD4A264D73,245469-2,"","","127","1912",
+gcc-85762,A,Compositae,,Stevia,,"reglensis",,"","Benth.",Synonym,,M,TICA,A8EA1A62-C7BF-4D47-AC24-7965EA800EEF,245470-2,"Pl. Hartw.","","40","1840",gcc-30128
+gcc-3902,A,Compositae,,Stevia,,"regnellii",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,4EB88CAE-E50E-41B1-88D8-07404C3B5DEE,251541-1,"Linnaea 22: 572 (1849); 25: 272 (1852).","","572","1849",gcc-39688
+gcc-152597,A,Compositae,,Stevia,,"resinosa",,"","Gardner",Accepted,,M,TICA,915E51E5-0801-4940-9BFA-9CE45B2EDB6F,251543-1,"London J. Bot. 5: 457. 1846.","","457","1846",
+gcc-6543,A,Compositae,,Stevia,,"reticulata",,"","Grashoff",Accepted,,M,TICA,5BDE8C30-5619-4845-BA7B-0C2404140375,,"","","","1974",
+gcc-83773,A,Compositae,,Stevia,,"revoluta",,"","B.L.Rob.",Accepted,,M,TICA,DBA03344-DA74-44B4-B96B-7501BEA90601,245472-2,"","","617","1909",
+gcc-135036,A,Compositae,,Stevia,,"rhombifolia",,"","Kunth",Synonym,,M,TICA,944AC43F-34A3-43EF-845A-E910D8AB77D2,,"","","112","1820 [1818]",gcc-144470
+gcc-148239,A,Compositae,,Stevia,,"rhombifolia",f.,"rhombifolia","",Synonym,,L,TICA,550D36B0-29C4-4801-B9A2-3E6D212481CB,,"","","","",gcc-144470
+gcc-154830,A,Compositae,,Stevia,,"rhombifolia",var.,"rhombifolia","",Synonym,,L,TICA,823FA2AC-CDCA-4B45-8717-CBA56044BD5A,,"","","","",gcc-144470
+gcc-56569,A,Compositae,,Stevia,,"rhombifolia",var.,"stephanocoma","Sch.Bip.",Synonym,,L,TICA,C8FF9999-DCF5-4120-A0BC-7F8EE7DCCFA5,245473-2,"Linnaea 25","","279","1853",gcc-144470
+gcc-25643,A,Compositae,,Stevia,,"rhombifolia",var.,"uniaristata","(DC.) Sch.Bip.",Synonym,,L,TICA,E8ED3E70-7C51-415E-BF86-2F5D042AE05F,245475-2,"Linnaea 25","","279","1853",gcc-30128
+gcc-18416,A,Compositae,,Stevia,,"riedelii",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,8184EB37-BD14-44FE-9983-220572923789,,"Fl. Bras. (Martius) 6(2): 204","","204","1876",
+gcc-153440,A,Compositae,,Stevia,,"riedelli",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,B0A78CC7-917A-43F7-BF52-AEA0F285C5A6,,"","","","",
+gcc-137970,A,Compositae,,Stevia,,"rojasii",,"","Hassl.",Accepted,,M,TICA,2B23FCB7-7BCB-410F-B4C6-EF9638490CBE,245476-2,"Repert. Spec. Nov. Regni Veg. 11","","167","1912",
+gcc-36771,A,Compositae,,Stevia,,"rosei",,"","B.L.Rob.",Accepted,,M,TICA,E0B9B7C3-2604-4D05-8457-442B2FD2C92F,245477-2,"","","327","1900",
+gcc-92688,A,Compositae,,Stevia,,"rotundifolia",,"","""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,C28C741C-1796-40FB-90BE-892965BAD7AE,,"Brittonia 53(3)","","388","2001",
+gcc-41071,A,Compositae,,Stevia,,"rzedowskii",,"","McVaugh",Accepted,,M,TICA,4CB4E3DE-9C40-447E-8B36-4C1F9F046B39,245478-2,"","","404","1972",
+gcc-87057,A,Compositae,,Stevia,,"sabulonis",,"","B.L.Rob.",Accepted,,M,TICA,71EAA7DE-ABC0-4F42-8E7E-7C631F22F1D6,245479-2,"Contr. Gray Herb. 96","","14","1931",
+gcc-75360,A,Compositae,,Stevia,,"salicifolia",,"","Cav.",Accepted,,M,TICA,F073A97B-C7F0-48E9-9198-62452221D88E,,"Ic. iv. 32. t. 354.","","","1797",
+gcc-65317,A,Compositae,,Stevia,,"salicifolia",var.,"integra","(S.F.Blake) B.L.Rob.",Synonym,,L,TICA,F279333D-7656-42D8-A4EC-C5E0BD9AA3C4,,"Contr. Gray Herb. 90: 110. 1930","","","1930",gcc-75360
+gcc-41030,A,Compositae,,Stevia,,"salicifolia",var.,"salicifolia","",Synonym,,L,TICA,262529DB-A921-45AD-9CC9-4C0F20719041,,"","","","1797",gcc-75360
+gcc-28509,A,Compositae,,Stevia,,"saltensis",,"","Hieron.",Synonym,,M,TICA,D2B88DE8-5A0E-4D53-80DA-34B754E4FEB6,,"","","725","1897",gcc-1988
+gcc-150935,A,Compositae,,Stevia,,"salviaefolia",,"","G.Don",Unresolved,,L,TICA,7E43152D-CF4A-4E77-8F2B-7965BFC9BB22,251553-1,"Hort. Brit. 335. 1830.","","335","1830",
+gcc-9248,A,Compositae,,Stevia,,"samaipatensis",,"","B.L.Rob.",Accepted,,M,TICA,EB33195F-EC84-47DD-A6CB-11461A2F0C29,245489-2,"Contr. Gray Herb. 96","","15","1931",
+gcc-134577,A,Compositae,,Stevia,,"sanguinea",,"","Hieron.",Accepted,,M,TICA,C72B2403-751C-4AFD-939E-E81AEBF2AF09,,"","","714","1897",
+gcc-3315,A,Compositae,,Stevia,,"santacruzensis",,"","Hieron.",Accepted,,M,TICA,ECC95BA4-6F3B-46B7-90A6-062054A54755,,"","","731","1897",
+gcc-98391,A,Compositae,,Stevia,,"sarensis",,"","B.L.Rob.",Accepted,,M,TICA,52FE001E-AFFA-485D-A857-9602BDA158C4,245492-2,"Contr. Gray Herb. 100","","9","1932",
+gcc-155206,A,Compositae,,Stevia,,"sarensis",var.,"sarensis","",Synonym,,L,TICA,ADF1965A-8F5B-438B-AEF5-D32962AFEABD,,"","","","",gcc-98391
+gcc-117207,A,Compositae,,Stevia,,"satureiaefolia",,"","(Lam.) Sch.Bip. ex Klotzsch",Unresolved,Illegitimate,L,TICA,B22601A4-E9C4-4343-8193-C01D99E1CE03,,"Linnaea 25:","","291","1853",
+gcc-128448,A,Compositae,,Stevia,,"satureiaefolia",,"","(Lam.) Sch.Bip.",Synonym,Illegitimate,M,TICA,A30B7F5F-A0D0-4C04-8D97-DA05E000F786,251558-1,"","","291","1853",gcc-153222
+gcc-57709,A,Compositae,,Stevia,,"satureiaefolia",var.,"angustifolia","Baker",Synonym,,L,TICA,E297F2C3-8163-4163-AD3A-8883271B757D,,"","","208","1876",gcc-69592
+gcc-39605,A,Compositae,,Stevia,,"satureiaefolia",var.,"maimarensis","Hieron.",Synonym,,L,TICA,40A88A12-83ED-4861-82CA-497E22124698,,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 22:""","","737","1897",gcc-5480
+gcc-155995,A,Compositae,,Stevia,,"satureiaefolia",f.,"satureiaefolia","",Synonym,,L,TICA,4232C389-B906-44FD-9E98-E465946EADF9,,"","","","",gcc-153222
+gcc-69592,A,Compositae,,Stevia,,"satureiaefolia",var.,"satureiifolia","",Unresolved,,L,TICA,CCE944D5-3163-48BB-9D7C-E78B2FF90995,,"Linnaea 25: 291 (1853)","","291","1853",
+gcc-45998,A,Compositae,,Stevia,,"satureiaefolia",var.,"vattuonei","Hicken",Synonym,,L,TICA,2D1A211A-A190-4559-8DFA-5543B7D9CE4A,,"","","152","1924",gcc-68892
+gcc-153222,A,Compositae,,Stevia,,"satureifolia",,"","(Lam.) Lam.",Accepted,,M,TICA,C290BBCC-0ED3-4C9B-9F8D-A9BF4B671C7D,,"Anales Ci. Nat. 6: 317. 1802.","","317","1802",
+gcc-5197,A,Compositae,,Stevia,,"satureifolia",,"","(Lam.) Cav.",Synonym,,M,TICA,A84FD4FF-41BE-4B4C-A612-09B5B86B0C1D,,"in Anal. Cienc. Nat. vi. (1802) 317.","","","",gcc-153222
+gcc-31736,A,Compositae,,Stevia,,"satureifolia",var.,"laxa","(Hook. & Arn.) Baker",Synonym,,L,TICA,072863FA-CF55-4C07-939D-3ACD2F94E7E7,,"""Fl. Bras. (Martius) 6, pt. 2: 209. 1876""","","209","1876",gcc-117991
+gcc-49485,A,Compositae,,Stevia,,"satureifolia",var.,"multiaristata","(Spreng.) Baker",Synonym,,L,TICA,6BE3E8AF-159D-49B2-B1F5-5BB6D83E17CD,,"""Fl. Bras. (Martius) 6, pt. 2: 208. 1876""","","208","1876",gcc-117991
+gcc-2448,A,Compositae,,Stevia,,"scabrella",,"","Benth.",Accepted,,M,TICA,CFDA2F9F-C83B-46DC-A58F-0476C092BB2D,251560-1,"","","19","1839",
+gcc-61987,A,Compositae,,Stevia,,"scabrella",var.,"scabrella","",Synonym,,L,TICA,5CDDF87D-4723-487C-B083-AB26DCF03BD9,,"","","","1839",gcc-2448
+gcc-14817,A,Compositae,,Stevia,,"scabrelloides",,"","Soejima & Yahara",Accepted,,M,TICA,53DEC405-340E-4D3A-AF67-1B77ED30FEC6,,"Brittonia 53(3)","","","2001",
+gcc-114919,A,Compositae,,Stevia,,"scabridula",,"","B.L.Rob.",Synonym,,M,TICA,7F5DEFFA-9480-43D3-9FA4-BAF9BC4045AE,245505-2,"Contr. Gray Herb. 90","","19","1930",gcc-87241
+gcc-147448,A,Compositae,,Stevia,,"schiblii",,"","B.L.Turner",Accepted,,M,TICA,3037996F-BFA3-42B6-B794-2DD860AD49B0,,"Phytologia 90(2): 144. 2008.","","144","2008",
+gcc-25096,A,Compositae,,Stevia,,"schickendantzii",,"","Hieron.",Accepted,,M,TICA,FB86B555-DA81-483E-8081-2E56D408EBD7,,"","","717","1897",
+gcc-13711,A,Compositae,,Stevia,,"schreiteri",,"","B.L.Rob.",Accepted,,M,TICA,DE4EC2B7-63EC-4C06-B397-19820785158C,245507-2,"Contr. Gray Herb. 90","","19","1930",
+gcc-43466,A,Compositae,,Stevia,,"schultzii",,"","Hieron.",Synonym,,L,TICA,A65653B5-495C-4699-9CFD-50954222F308,,"","","721","1897",gcc-82700
+gcc-138088,A,Compositae,,Stevia,,"seemannii",,"","Sch.Bip.",Accepted,,M,TICA,1241FA67-6DF8-4899-AF19-EFD312832DE1,251565-1,"in Seem. Bot. Voy. Herald 298","","298","1856",
+gcc-69609,A,Compositae,,Stevia,,"seemannii",var.,"seemannii","",Synonym,,L,TICA,D412C260-223C-4FDD-AFF5-E7B23017357B,,"","","","1856",gcc-138088
+gcc-57194,A,Compositae,,Stevia,,"seemannii",var.,"selerorum","B.L.Rob.",Synonym,,L,TICA,A036EE5E-A2A7-4C67-B5E6-848362FD2214,245508-2,"""Contr. Gray Herb. 90: 20, 137. 1930""","","""20, 137""","1930",gcc-32312
+gcc-86874,A,Compositae,,Stevia,,"seemannioides",,"","Grashoff",Accepted,,M,TICA,5865C3E2-A788-43C5-96E7-7BECE5D0E4C1,,"","","","1974",
+gcc-42729,A,Compositae,,Stevia,,"seleriana",,"","B.L.Rob.",Accepted,,M,TICA,B414A3BF-A982-4490-9513-4F219BA2EC2F,245511-2,"","","327","1900",
+gcc-138849,A,Compositae,,Stevia,,"selloi",,"","Sch.Bip. ex Baker",Unresolved,,L,TICA,745C6F20-2D91-4A5D-89F4-F17ADBA12EA8,,"Fl. Bras. (Martius) 6(2): 209","","209","",
+gcc-25308,A,Compositae,,Stevia,,"selloi",,"","(Spreng.) B.L.Rob.",Accepted,,M,TICA,CD078923-15F2-43A2-AE2C-2EB7DE99792F,,"Contr. Gray Herb. 90: 88. 1930.","","88","1930",
+gcc-153322,A,Compositae,,Stevia,,"selloi",var.,"selloi","",Synonym,,L,TICA,04D092F6-3AF1-4A79-AF1B-ABF5CF4F48B4,,"","","","",gcc-25308
+gcc-32347,A,Compositae,,Stevia,,"selloi",var.,"ypacarayensis","B.L.Rob.",Synonym,,L,TICA,3EBF4A2E-4D18-4574-AF53-3BF5514D6141,,"""Contr. Gray Herb. 90: 20, 88. 1930""","","","1930",gcc-25308
+gcc-52935,A,Compositae,,Stevia,,"semperflorens",,"","Ten. ex DC.",Synonym,Illegitimate,M,TICA,DD360FBF-1C95-496C-9DA9-62317230A070,251569-1,"Prodr. (DC.) 5: 117","","117","1836",gcc-75360
+gcc-13609,A,Compositae,,Stevia,,"sempervirens",,"","Steud.",Unresolved,,L,TICA,B1311B50-DF77-4EA4-87FE-19535837D326,,"""Nomencl. Bot., ed. 2 (Steudel) 2: 641, sphalm.""","","","1841",
+gcc-153091,A,Compositae,,Stevia,,"sempervirens",,"","steudel",Synonym,,M,TICA,58FC8568-7E8B-4743-87EC-A6FCEF7481C8,,"Nomencl. Bot. 2: 641. 1841. ","","641","1841",gcc-75360
+gcc-7629,A,Compositae,,Stevia,,"serrata",,"","Cav.",Accepted,,M,TICA,BE26EE30-D701-4434-956B-0E2AD04FAF1D,251571-1,"","","""33, pl. 355""","1797",
+gcc-48519,A,Compositae,,Stevia,,"serrata",var.,"haplopappa","B.L.Rob.",Synonym,,L,TICA,EF444911-BDD4-4AB1-B4B3-59DC4B14A25F,245515-2,"""Contr. Gray Herb. 90: 21, 124. 1930""","","""21, 124""","1930",gcc-7629
+gcc-24224,A,Compositae,,Stevia,,"serrata",var.,"ivifolia","(Willd.) B.L.Rob.",Synonym,,L,TICA,A3E1357A-F582-49F9-BC14-2CBB8726BA45,245516-2,"Contr. Gray Herb. 90","","123","1930",gcc-7629
+gcc-13855,A,Compositae,,Stevia,,"serrata",var.,"linoides","(Sch.Bip. ex Sch.Bip.) B.L.Rob.",Synonym,,L,TICA,65B83F89-5EB7-42CC-B90F-19C209CC4571,245517-2,"Contr. Gray Herb. 90: 122. 1930","","122","1930",gcc-7629
+gcc-56296,A,Compositae,,Stevia,,"serrata",var.,"ovalis","B.L.Rob.",Synonym,,L,TICA,652EB968-9251-40D2-AE0A-7D531CAFE840,245518-2,"","","317","1894",gcc-111416
+gcc-66046,A,Compositae,,Stevia,,"serrata",var.,"serrata","",Synonym,,L,TICA,037E30D6-DD8D-488D-B57E-CB9FA2C18381,,"","","","1797",gcc-7629
+gcc-109671,A,Compositae,,Stevia,,"setifera",,"","Rusby ex B.L.Rob.",Accepted,,M,TICA,DD476FA4-EFC5-4D57-BA69-AF2FB943EA2C,245520-2,"Contr. Gray Herb. 100","","10","1932",
+gcc-98710,A,Compositae,,Stevia,,"simplicitatis",,"","Herter",Unresolved,Illegitimate,L,TICA,F795DBB2-81C0-4D82-BADA-96B40F15F05E,251573-1,"Rev. Sudamer. Bot.","","200","1937",
+gcc-37442,A,Compositae,,Stevia,,"simulans",,"","B.L.Rob.",Synonym,,M,TICA,42875896-38E0-4E3D-AFFB-45641577C1BF,285589-2,"Proc. Amer. Acad. Arts 42: 34. 1906","","34","1906",gcc-48835
+gcc-20872,A,Compositae,,Stevia,,"soratensis",,"","Hieron.",Unresolved,Illegitimate,L,TICA,A2E28255-E38E-415C-80A8-269760DF3E7C,,"Bot. Jahrb. Syst.","","560","",
+gcc-151946,A,Compositae,,Stevia,,"soratensis",var.,"subeglandulosa","(Hieron.) B.L.Rob.",Unresolved,,L,TICA,F76580FE-6AB6-4A36-9037-8F34F1FEAB8B,,"","","","",
+gcc-4170,A,Compositae,,Stevia,,"spathulata",,"","Cabrera",Accepted,,M,TICA,C6A23C8B-4B4F-4CF1-9E47-07C2EEC87028,306358-2,"","","520","1993",
+gcc-102654,A,Compositae,,Stevia,,"sphacelata",,"","Nutt.",Unresolved,,L,TICA,A8D49FD9-CCA9-4B36-9178-9F9CB19D83DC,1184093-2,"","","","",
+gcc-35326,A,Compositae,,Stevia,,"sphacelata",,"","Nutt. ex Torr.",Synonym,,M,TICA,DF589F61-7EDA-4899-A190-417DB855ACB5,,"Ann. Lyceum Nat. Hist. New York ii. (1828) 214","","214","1827",gcc-98010
+gcc-91691,A,Compositae,,Stevia,,"stenocephala",,"","Sch.Bip.",Synonym,Illegitimate,L,TICA,8B1D38A4-3C1C-4191-AA0E-86E8E0FFDBCF,251579-1,"","","81","1865",gcc-20872
+gcc-137976,A,Compositae,,Stevia,,"stenophylla",,"","A.Gray",Synonym,,M,TICA,A61FEC06-8042-4890-AD95-EF989E57AE0D,,"","","25","1879",gcc-75360
+gcc-124260,A,Compositae,,Stevia,,"stolonifera",,"","Yahara & Soejima",Accepted,,M,TICA,1753E30D-6BC8-48DD-B626-D044BA38FEBC,,"","","35","",
+gcc-115411,A,Compositae,,Stevia,,"stricta",,"","Hornem.",Accepted,,M,TICA,EF0B3336-584A-449D-BDB9-BC13C7B568E4,251581-1,"Hort. Hafn. ii. 792.","","792","1813-1815",
+gcc-114916,A,Compositae,,Stevia,,"strotherana",,"","B.L.Turner",Unresolved,,L,TICA,B3233479-733A-477B-8F81-BAF8BB8887AB,,"Phytologia 87(3):261. 2006 [dt. Dec 2005; publ. 4 Jan 2006]","","261","",
+gcc-28436,A,Compositae,,Stevia,,"stuebelii",,"","Hieron.",Accepted,,M,TICA,237EC97E-9B28-46F1-AE3A-348A282C10C4,245528-2,"Bot. Jahrb. Syst. 21: 328. 1895","","328","1895",
+gcc-119642,A,Compositae,,Stevia,,"suaveolens",,"","Lag.",Accepted,,M,TICA,219AEF3A-0DC4-45F8-A301-C5A542C80ADD,251582-1,"Gen. et Sp. Nov. 27.","","27","1816",
+gcc-146306,A,Compositae,,Stevia,,"subhirsuta",,"","Lag. ex Reichb.",Synonym,,M,TICA,619274EF-461A-472C-AC73-15F06EE05E1F,,"Iconogr. Bot. Pl. Crit. 2: 33. T. 188. 1828. ","","33. T. 188","1828",gcc-115411
+gcc-99694,A,Compositae,,Stevia,,"subhirsuta",,"","Lag. ex Rchb.",Unresolved,,L,TICA,A2C3CE50-3F2C-45A7-9923-98F2D807BB66,,"Ic. Bot. Exot. ii. 33. t. 188.","","","1828",
+gcc-141718,A,Compositae,,Stevia,,"suboctoaristata",,"","Lag.",Unresolved,,L,TICA,444F3C1A-76BF-44FF-A400-F806A8727699,251584-1,"Gen. et Sp. Nov. 27.","","27","1816",
+gcc-105980,A,Compositae,,Stevia,,"subpubescens",,"","Lag.",Accepted,,M,TICA,A1A908F2-3EAC-4758-9867-A6C59EEE74FA,251585-1,"Gen. et Sp. Nov. 28.","","28","1816",
+gcc-64735,A,Compositae,,Stevia,,"subpubescens",var.,"opaca","(Sch.Bip.) B.L.Rob.",Accepted,,L,TICA,C89E3D56-0419-4749-B7B0-C0C2DCC80674,245529-2,"Contr. Gray Herb. 90: 105. 1930","","105","1930",
+gcc-58720,A,Compositae,,Stevia,,"subpubescens",var.,"subpubescens","",Synonym,,L,TICA,EF0297C0-4858-4858-8D29-90D99228E707,,"","","","1816",gcc-105980
+gcc-25827,A,Compositae,,Stevia,,"talpensis",,"","Grashoff",Accepted,,M,TICA,E27EAE41-1B6A-4968-B8FF-2FB8FAED94DC,245531-2,"","","375","1974",
+gcc-23146,A,Compositae,,Stevia,,"tapacariensis",,"","Hieron.",Synonym,,L,TICA,740F93AE-1671-4EBA-8F4E-2AD7B6D3F98E,,"","","734","1897",gcc-138682
+gcc-8285,A,Compositae,,Stevia,,"tarijensis",,"","Hieron.",Unresolved,Invalid,L,TICA,AC8F0089-E8D7-4AA0-89FD-0F6BEEFD7CA2,245533-2,"","","362","1908",
+gcc-112364,A,Compositae,,Stevia,,"tenella",,"","Moc. ex DC.",Synonym,Illegitimate,M,TICA,2B601397-7C04-4817-8182-B5414B31668B,251589-1,"Prodr. (DC.) 5: 121","","121","1836",gcc-98892
+gcc-155148,A,Compositae,,Stevia,,"tenuifolia",,"","Philippi",Synonym,,M,TICA,B97649E3-7F12-4343-BB52-D2033E17AD7D,,"Anales Univ. Chile","","","",gcc-112265
+gcc-49080,A,Compositae,,Stevia,,"tenuifolia",,"","Phil.",Unresolved,,L,TICA,D5C27B81-223E-4FC4-8221-5AEB9767E9B4,251590-1,"""Anales Univ. Chile (1862) II. 397; et in Linnaea, xxxiii. (1864-65) 128.""","","397","1862",
+gcc-85825,A,Compositae,,Stevia,,"tenuifolia",,"","D.Don ex Hook. & Arn.",Synonym,,M,TICA,4BD6528B-D704-498F-BEBF-79859959BAC6,,"in Hook. Comp. Bot. Mag. i. (1835) 238.","","238","1835",gcc-153222
+gcc-39688,A,Compositae,,Stevia,,"tenuis",,"","Hook. & Arn.",Accepted,,M,TICA,116D106A-BB99-4213-827A-49A37320CC37,,"in Hook. Comp. Bot. Mag. i. (1835) 239.","","239","1835",
+gcc-125797,A,Compositae,,Stevia,,"tephra",,"","B.L.Rob.",Accepted,,M,TICA,042837CF-2879-4979-ACE9-D3E2CE73AA39,245535-2,"","","328","1900",
+gcc-17362,A,Compositae,,Stevia,,"tephrophylla",,"","S.F.Blake",Accepted,,M,TICA,F4592223-217C-4571-9614-2016C882B853,245536-2,"","","""590, pl. 54""","1924",
+gcc-77160,A,Compositae,,Stevia,,"ternifolia",,"","Kunth",Synonym,,M,TICA,5454F283-578F-4C45-9854-66429250CDD1,,"","","115","1820 [1818]",gcc-30128
+gcc-143869,A,Compositae,,Stevia,,"tomentosa",,"","Kunth",Accepted,,M,TICA,2809A8D2-0539-4ECC-BAE1-FCD5BA7FC95D,,"Nov. Gen. Sp. [H.B.K.] iv. 145.","","","",
+gcc-150792,A,Compositae,,Stevia,,"tomentosa",,"","Schauer",Synonym,,M,TICA,0B9072E9-7A5B-4F5D-BB5C-76468F26BA4A,251596-1,"Linnaea 19: 719. 1847. ","","719","1847",gcc-119642
+gcc-4384,A,Compositae,,Stevia,,"tomentosa",var.,"seatonii","B.L.Rob.",Synonym,,L,TICA,077312CA-4C5B-4337-8BF5-0827FD4BB183,245537-2,"""Contr. Gray Herb. 90: 21, 135. 1930""","","""21, 135""","1930",gcc-143869
+gcc-45457,A,Compositae,,Stevia,,"tomentosa",var.,"tomentosa","",Synonym,,L,TICA,1CC0735D-698F-43AA-8789-543C1E52E83B,,"","","","1820",gcc-143869
+gcc-111442,A,Compositae,,Stevia,,"totorensis",,"","B.L.Rob.",Accepted,,M,TICA,83F1DC01-4342-44B0-A876-B31D35691D5E,245539-2,"Contr. Gray Herb. 96","","16","1931",
+gcc-121607,A,Compositae,,Stevia,,"trachelioides",,"","DC.",Synonym,,M,TICA,C8C90891-21B5-4225-9C4C-CA29EC92D598,251599-1,"","","115","1836",gcc-152264
+gcc-16319,A,Compositae,,Stevia,,"trachelioides",,"","Hook.",Synonym,Illegitimate,M,TICA,F5291E2C-A623-47A0-AD19-1E3052BA74E6,251600-1,"Bot. Mag. 67: t. 3856","","3856","1841",gcc-27565
+gcc-153672,A,Compositae,,Stevia,,"trachelioides",var.,"trachelioides","",Synonym,,L,TICA,9B5EA61C-39AF-4F04-8A98-B30E1390AE8E,,"","","","",gcc-152264
+gcc-51524,A,Compositae,,Stevia,,"trachlioides",,"","Sessé & Moc.",Unresolved,,L,TICA,C2A81EF4-909B-44C2-973C-5F8D8AB7E992,,"","","","",
+gcc-35524,A,Compositae,,Stevia,,"triangularis",,"","Grashoff",Accepted,,M,TICA,0E386A2C-5E89-47A6-A760-41DD3659761A,,"","","","1974",
+gcc-139611,A,Compositae,,Stevia,,"triaristata",,"","Hieron.",Accepted,,M,TICA,5FC4150C-34AD-408F-9BE8-F3163A282DAF,245542-2,"","","358","1908",
+gcc-127248,A,Compositae,,Stevia,,"trichopoda",,"","Harv. & A.Gray ex A.Gray",Synonym,,L,TICA,EF964892-455F-4DC5-9CE9-D72EAD35E377,,"","","64","1849",gcc-102257
+gcc-152782,A,Compositae,,Stevia,,"trichopoda",,"","Harv. & A.GrayA. Gray",Synonym,,L,TICA,7BB61B68-1698-4972-A2B7-A05E36F6950B,,"""Mem. Amer. Acad. ser. 2, 4: 64. 1849. ""","","64","1849",gcc-102257
+gcc-119300,A,Compositae,,Stevia,,"trifida",,"","Lag.",Accepted,,M,TICA,6A9EB676-F244-4E01-82C0-C4DB934278B4,251604-1,"Gen. et Sp. Nov. 27.","","27","1816",
+gcc-144470,A,Compositae,,Stevia,,"triflora",,"","DC.",Accepted,,M,TICA,921A6351-CAF1-4DCB-A1FE-FE2AAAD8D9BC,251605-1,"","","115","1836",
+gcc-48124,A,Compositae,,Stevia,,"tripaleacea",,"","Sessé & Moc.",Unresolved,,L,TICA,4CAB300A-9D33-4C42-980B-5930107249FB,,"","","","",
+gcc-88684,A,Compositae,,Stevia,,"tunariensis",,"","Hieron.",Accepted,,M,TICA,7A169804-D13B-4CC3-8B0C-7FFF99D4C5BE,,"","","713","1897",
+gcc-142417,A,Compositae,,Stevia,,"tunguraguensis",,"","Hieron.",Accepted,,M,TICA,A3844654-F31A-4244-884E-F991F1C0B4BE,245545-2,"","","563","1901",
+gcc-48161,A,Compositae,,Stevia,,"umbellata",,"","Alamán ex DC.",Synonym,Illegitimate,M,TICA,F00D7C8C-B7ED-4AEE-AB92-5943D64F6C97,251608-1,"Prodr. (DC.) 5: 118","","118","1836",gcc-83178
+gcc-92981,A,Compositae,,Stevia,,"uniaristata",,"","DC.",Synonym,,M,TICA,5AB3D1B4-4418-4944-A777-89C6DFA7C5BB,251609-1,"","","120","1836",gcc-30128
+gcc-38765,A,Compositae,,Stevia,,"unicristata",,"","Hemsl.",Unresolved,Illegitimate,L,TICA,9C59467B-C7DF-4736-8BEF-47E6FEC3F0B0,,"Biologia Centrali-Americana; . . . Botany . . . 2(7):","","90","1881",
+gcc-96137,A,Compositae,,Stevia,,"urceolata",,"","Grashoff",Accepted,,M,TICA,4FEAB634-7531-4F25-B976-90DE7169A6C5,,"","","","1974",
+gcc-145432,A,Compositae,,Stevia,,"urticaefolia",,"","Billb.",Accepted,,M,TICA,1F306B8E-069E-45C6-8FA9-03EF4BF7B729,,"Pl. Bras. 1: 13. 1817.","","13","1817",
+gcc-150746,A,Compositae,,Stevia,,"urticaefolia",,"","Thunb.",Unresolved,,L,TICA,7E3BC07B-587F-42AB-A52E-7577F08171FE,,"","","","",
+gcc-151085,A,Compositae,,Stevia,,"urticaefolia",var.,"urticaefolia","",Synonym,,L,TICA,37300792-F938-4CC7-ACFD-7D38FCB142E0,,"","","","",gcc-150746
+gcc-147907,A,Compositae,,Stevia,,"urticifolia",,"","Billb.",Accepted,,M,TICA,A28DC6B4-833F-4992-886F-37CD9F447A1F,,"","","","",
+gcc-86510,A,Compositae,,Stevia,,"urticifolia",,"","Thunb.",Unresolved,,L,TICA,50967635-CAC3-4CA8-A836-7B12878EDF76,,"Pl. Bras. Dec. i. 13.","","13","1817",
+gcc-145990,A,Compositae,,Stevia,,"urticifolia",var.,"boliviensis","(Hieron.) B.L.Rob.",Accepted,,L,TICA,7E530B70-FDF5-41C3-B1EA-0F591505538B,1067347-2,"","","","",
+gcc-132415,A,Compositae,,Stevia,,"vaccinioides",,"","J.Kost.",Unresolved,,L,TICA,C364427D-D3E5-4DB8-9674-E3361C9530E1,,"Blumea v. 646 (1945).","","","1945",
+gcc-155091,A,Compositae,,Stevia,,"vaccinioides",,"","J. Koster",Accepted,,M,TICA,1690FD35-D741-44D4-BC21-D0CB31D41575,,"Blumea 5: 646. 1945.","","646","1945",
+gcc-44580,A,Compositae,,Stevia,,"vaga",,"","Griseb.",Accepted,,M,TICA,94B4BCC8-EA26-4464-9D44-5296A8A8F604,,"in Goett. Abh. xix. (1874) 165.","","","1874",
+gcc-11224,A,Compositae,,Stevia,,"vaga",var.,"vaga","",Synonym,,L,TICA,C954AC3B-56B5-4D21-A357-14F91FCFE285,,"Abh. Königl. Ges. Wiss. Göttingen 19: 165 (1874)","","165","1874",gcc-44580
+gcc-135062,A,Compositae,,Stevia,,"velutinella",,"","Grashoff",Accepted,,M,TICA,5096A425-1A48-45BA-AFAF-E923317792CA,245551-2,"","","381","1974",
+gcc-36152,A,Compositae,,Stevia,,"venosa",,"","A.Gray",Accepted,,M,TICA,40F074DC-C12D-4D80-A15B-430B3F0EF456,285592-2,"Proc. Amer. Acad. Arts 21: 382. 1886","","382","1886",
+gcc-116876,A,Compositae,,Stevia,,"vernicosa",,"","Greenm.",Accepted,,M,TICA,06A1F1DF-2D57-4544-A62D-BF69A7EAED87,245553-2,"","","33","1904",
+gcc-28669,A,Compositae,,Stevia,,"veronicae",,"","DC.",Synonym,,M,TICA,B37AF302-6054-4174-899D-34FDA02092BC,251617-1,"","","123","1836",gcc-39688
+gcc-57047,A,Compositae,,Stevia,,"veronicae",var.,"gratioloides","(Hook. & Arn.) Baker",Synonym,,L,TICA,65470A71-225F-4201-A653-83388997B631,245556-2,"""Fl. Bras. (Martius) 6, pt. 2: 211. 1876""","","211","1876",gcc-39688
+gcc-71299,A,Compositae,,Stevia,,"veronicae",var.,"tenuis","(Hook. & Arn.) Baker",Synonym,,L,TICA,DC73AA02-C74A-4509-9B74-F5277FC8431E,245557-2,"""Fl. Bras. (Martius) 6, pt. 2: 210. 1876""","","210","1876",gcc-39688
+gcc-151471,A,Compositae,,Stevia,,"veronicae",f.,"veronicae","",Synonym,,L,TICA,D0CF0546-CD19-4836-9F0E-852179B7934F,,"","","","",gcc-39688
+gcc-155993,A,Compositae,,Stevia,,"veronicae",var.,"veronicae","",Synonym,,L,TICA,687E0C6D-801A-4648-A875-E452A24F22E4,,"","","","",gcc-39688
+gcc-128671,A,Compositae,,Stevia,,"verticillata",,"","Schltdl.",Accepted,,M,TICA,6186EA2A-ED46-4454-97E1-DA8D2FEECBC0,251618-1,"Linnaea 16: 372. 1842","","372","1842",
+gcc-156491,A,Compositae,,Stevia,,"verticillata",,"","Schlecht.",Unresolved,,L,TICA,2144355A-1058-471F-AAC2-EE0ACC00A4BC,,"Linnaea 16: 372. 1842.","","372","1842",
+gcc-134926,A,Compositae,,Stevia,,"viejoana",,"","""Soejima, Yahara & K.Watan.""",Accepted,,M,TICA,3CDB3E1B-1DD9-427B-A341-E8CF60AD3660,,"Brittonia 53(3)","","","2001",
+gcc-12096,A,Compositae,,Stevia,,"viginiseta",,"","DC.",Unresolved,,L,TICA,B9C78F4B-A9DF-4FB0-89DB-168CF14EDFF5,245559-2,"Prodr. (DC.) 5: 123 (-124)","","123 (-124)","1836",
+gcc-137105,A,Compositae,,Stevia,,"villaregalis",,"","McVaugh",Accepted,,M,TICA,56659B70-06E3-486B-97CF-EDB9D2B19AAF,245560-2,"","","407","1972",
+gcc-35349,A,Compositae,,Stevia,,"villaricensis",,"","(B.L.Rob.) Cabrera & Vittet",Accepted,,M,TICA,381F6A06-3179-40B0-A8A7-418AEC1FB391,245561-2,"","","197","1954",
+gcc-77256,A,Compositae,,Stevia,,"villosa",,"","Moc. ex DC.",Synonym,Illegitimate,L,TICA,20E445EC-4AF5-4C6D-96E8-667BE5DAB56C,251622-1,"Prodr. (DC.) 5: 122","","122","1836",gcc-96300
+gcc-116557,A,Compositae,,Stevia,,"viminea",,"","Schrad. ex DC.",Synonym,,M,TICA,F4E15A4E-756D-4EBD-A433-BEB08FD5F7FB,,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","117","1836",gcc-83178
+gcc-156460,A,Compositae,,Stevia,,"viminea",,"","SCHRADER",Synonym,,M,TICA,CC4B8D9C-E68D-4A72-A0E3-ED6ECA7C3B94,,"Ind. Sem. Hort. Acad. Gott. 1832.","","","1832",gcc-83178
+gcc-40391,A,Compositae,,Stevia,,"viminea",,"","Schrad.",Synonym,,M,TICA,C00CB83C-008B-4AF5-A38B-4ADCAECF0239,,"","","120","1832",gcc-83178
+gcc-122227,A,Compositae,,Stevia,,"violacea",,"","(Griseb.) Hieron.",Synonym,,M,TICA,8FCABD5B-7807-4765-8D6B-CB8D89A74F00,245562-2,"Revis. Gen. Pl. 3[3]: 180","","180","1898",gcc-117991
+gcc-20688,A,Compositae,,Stevia,,"violacea",,"","Cerv.",Unresolved,,L,TICA,7317880E-4745-45CA-960F-2646E5820309,,"","","","1832?",
+gcc-26414,A,Compositae,,Stevia,,"violacea",,"","(Griseb.) Hieron. ex Kuntze",Synonym,,M,TICA,7468364E-BB68-41FE-8605-30CFA4836EF5,,"","","180","1898",gcc-117991
+gcc-27797,A,Compositae,,Stevia,,"violacea",,"","Cerv. ex Loudon",Unresolved,,L,TICA,2356FD55-B6BE-41A0-9681-335E0DF285A1,,"Hort. Brit. Suppl. ii. 675 (Quid ?).","","ii. 675","",
+gcc-108764,A,Compositae,,Stevia,,"virgata",,"","Kunth",Synonym,,M,TICA,8D14D961-BBFB-4FC5-BAA0-AD1AB0D21239,,"","","111","1820 [1818]",gcc-7629
+gcc-81238,A,Compositae,,Stevia,,"virgintiseta",,"","DC.",Synonym,,M,TICA,EEF430D2-AE28-4189-AA1F-6F5B434FE742,251619-1,"","","123","1836",gcc-47217
+gcc-96300,A,Compositae,,Stevia,,"viscida",,"","Kunth",Accepted,,L,TICA,B3C72422-A3F6-4769-9D77-913BA99D2B78,,"Nov. Gen. Sp. [H.B.K.] iv. 140.","","","",
+gcc-148066,A,Compositae,,Stevia,,"viscosa",,"","Hort. ex steudel",Synonym,,L,TICA,DF357EF2-1B5F-4F40-91E9-3AE984A5C5D2,,"Nomencl. Bot.2: 642. 1841. ","","642","1841",gcc-96300
+gcc-40164,A,Compositae,,Stevia,,"viscosa",,"","Steud.",Unresolved,Illegitimate,L,TICA,093DBFC2-ACB9-4396-BD37-4A7B13B288E4,251627-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 642""","","642","1841",
+gcc-134849,A,Compositae,,Stevia,,"vulcanicola",,"","Standl. & Steyerm.",Synonym,,M,TICA,F05A3CB1-133C-4F4F-8201-E8AC6DD7F424,245563-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","27","1943",gcc-18987
+gcc-46116,A,Compositae,,Stevia,,"wageneri",,"","Hieron.",Accepted,,M,TICA,D2A3A256-890C-4F70-9BDD-557BB20DB2BC,245564-2,"","","562","1901",
+gcc-15117,A,Compositae,,Stevia,,"weberbaueri",,"","B.L.Rob.",Accepted,,M,TICA,0E1FB626-1F51-4224-BDD3-1C005DCD4D21,245565-2,"Contr. Gray Herb. 96","","16","1931",
+gcc-16520,A,Compositae,,Stevia,,"westonii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,741ABDC6-8430-41E8-A921-1E8A20729883,245566-2,"","","229","1977",
+gcc-156732,A,Compositae,,Stevia,,"williamsii",,"","Standl.Standl. & L.O.Williams",Synonym,,M,TICA,1334BEB0-4970-4FCF-9240-F325AADCB321,,"Ceiba 1: 95. 1950. ","","95","1950",gcc-17362
+gcc-47982,A,Compositae,,Stevia,,"williamsii",,"","Standl.",Synonym,,M,TICA,B6610CBB-F977-4E64-9768-58E4C2BEAF53,245567-2,"","","95","1950",gcc-17362
+gcc-1988,A,Compositae,,Stevia,,"yaconensis",,"","Hieron.",Accepted,,M,TICA,7208B060-8334-43CB-A16A-0395A646EABE,,"","","724","1897",
+gcc-29988,A,Compositae,,Stevia,,"yaconensis",var.,"yaconensis","",Synonym,,L,TICA,184D6CBF-A31E-4753-8588-37769FA99106,,"Bot. Jahrb. Syst. 22: 724 (1897)","","724","1897",gcc-1988
+gcc-115098,A,Compositae,,Stevia,,"yalae",,"","Cabrera",Accepted,,M,TICA,0438F338-78D3-49FE-8F05-BB5A320BDE8F,245573-2,"","","324","1974",
+gcc-32282,A,Compositae,,Stevia,,"zacatecana",,"","McVaugh",Accepted,,M,TICA,228F223C-AA32-4619-928A-3BD05879B6E0,245574-2,"Contr. Univ. Michigan Herb. 15","","196","1982",
+gcc-5621,A,Compositae,,Stevia,,"zephyrantha",,"","Grashoff",Accepted,,M,TICA,C341DF58-1F84-400D-A695-0A7C794C9306,,"","","","1974",

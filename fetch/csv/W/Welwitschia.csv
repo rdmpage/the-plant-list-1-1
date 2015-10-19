@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-339840,G,Welwitschiaceae,,Welwitschia,,"bainesii",,"","(Hook.f.) Carrière",Synonym,Invalid,H,WCSP,339840,383590-1,"Traité Gén. Conif.","ed. 2: 783","","1867",kew-339843
+kew-2464863,A,Polemoniaceae,,Welwitschia,,"densifolia",,"","Tidestr.",Unresolved,,L,WCSP (in review),,268348-2,"Contr. U. S. Natl. Herb.","25: 429","","1925",
+kew-2464873,A,Polemoniaceae,,Welwitschia,,"diffusa",,"","Rydb.",Unresolved,,L,WCSP (in review),,268349-2,"Fl. Rocky Mts.","688","","1917",
+kew-2464874,A,Polemoniaceae,,Welwitschia,,"filifolia",,"","Rydb.",Unresolved,,L,WCSP (in review),,268350-2,"Fl. Rocky Mts.","688","","1917",
+tro-50109045,A,Polemoniaceae,,Welwitschia,,"filifolia",var.,"diffusa","(A. Gray) Tidestr.",Synonym,,L,TRO,50109045,268351-2,"Proc. Biol. Soc. Wash.","48(9): 42","42","1935",kew-2792497
+tro-50117513,A,Polemoniaceae,,Welwitschia,,"floccosa",,"","(Milliken) Rydb.",Synonym,,M,TRO,50117513,268352-2,"Fl. Rocky Mts.","1065","1065","1917",kew-2792516
+kew-339841,G,Welwitschiaceae,,Welwitschia,,"mirabilis",,"","Hook.f.",Accepted,,H,WCSP,339841,,"Gard. Chron.","1862: 71","","1862",
+kew-339842,G,Welwitschiaceae,,Welwitschia,,"mirabilis",subsp.,"mirabilis","",Synonym,,L,WCSP,339842,,"Unknown","","","",kew-339841
+kew-339843,G,Welwitschiaceae,,Welwitschia,,"mirabilis",subsp.,"namibiana","Leuenb.",Accepted,,L,WCSP,339843,20003355-1,"Willdenowia","31: 375","","2001",
+kew-2464876,A,Polemoniaceae,,Welwitschia,,"wilcoxii",,"","Rydb.",Unresolved,,L,WCSP (in review),,268353-2,"Fl. Rocky Mts.","688","","1917",kew-2792517

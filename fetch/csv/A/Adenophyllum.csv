@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91291,A,Compositae,,Adenophyllum,,"anomalum",,"","(Canby & Rose) Strother",Accepted,,M,TICA,AAAE1FCF-6C6D-4E4A-B45C-860A0A939362,271591-2,"Sida 11: 376. 1986","","376","1986",
+gcc-19309,A,Compositae,,Adenophyllum,,"appendiculatum",,"","(Lag.) Strother",Accepted,,M,TICA,B4665E22-B4B0-49DD-9409-23B0FCD8EB35,943429-1,"Sida 11","","376","1986",
+gcc-94538,A,Compositae,,Adenophyllum,,"aurantium",,"","(L.) Strother",Accepted,,M,TICA,7450F2EF-89CA-4B32-909C-8D3818B6CF03,943430-1,"","","376","1986",
+gcc-118554,A,Compositae,,Adenophyllum,,"cancellatum",,"","(Cass.) Villarreal",Synonym,,M,TICA,4C8BED33-51B7-4C47-9E51-C339671FED1E,20002446-1,"Acta Bot. Mex. 56","","10","2001",gcc-58315
+gcc-41976,A,Compositae,,Adenophyllum,,"cancellatum",,"","(A.Gray) Kuntze",Unresolved,,L,TICA,ECE09864-9A3F-4FCF-9C8F-4DB8E57EE8DF,174974-1,"Revis. Gen. Pl. 1","","361","1891",
+gcc-92814,A,Compositae,,Adenophyllum,,"capillaceum",,"","DC.",Synonym,,L,TICA,90798A33-0C3D-4E2B-AFCF-896CE7AD2773,174975-1,"","","638","1836",gcc-111045
+gcc-28079,A,Compositae,,Adenophyllum,,"cavanillesii",,"","Steud.",Synonym,,L,TICA,DD5F8179-CE74-4AD0-B2A7-33DA452FE320,174976-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 534, sphalm.""","","534","1840",gcc-111045
+gcc-9708,A,Compositae,,Adenophyllum,,"coccineum",,"","Pers.",Synonym,Illegitimate,L,TICA,33055E7B-4BE3-417D-B4F3-12237E314459,174977-1,"","","458","1807",gcc-111045
+gcc-18717,A,Compositae,,Adenophyllum,,"cooperi",,"","(A.Gray) Strother",Accepted,,M,TICA,EDB60B5B-810B-4555-9BE2-2292F2B14CAF,943432-1,"Sida 11","","376","1986",
+gcc-111045,A,Compositae,,Adenophyllum,,"glandulosum",,"","(Cav.) Strother",Accepted,,L,TICA,FB39E9F7-E1AC-4520-A406-B24679DB3B6B,943434-1,"Sida 11","","377","1986",
+gcc-7294,A,Compositae,,Adenophyllum,,"porophylloides",,"","(A.Gray) Strother",Accepted,,M,TICA,92F7B1D4-7E7E-4BAF-BBDA-0D9359C1EEBA,943440-1,"Sida 11","","377","1986",
+gcc-16506,A,Compositae,,Adenophyllum,,"porophyllum",,"","(Cav.) Hemsl.",Accepted,,M,TICA,02747343-C9D9-4C47-A73E-1E86464C4664,,"","","218","1881",
+gcc-58315,A,Compositae,,Adenophyllum,,"porophyllum",var.,"cancellatum","(Cass.) Strother",Accepted,,L,TICA,30465924-C405-4D9B-9282-8DA24B3636CE,952982-1,"","","377","1986",
+gcc-41502,A,Compositae,,Adenophyllum,,"porophyllum",var.,"porophyllum","",Synonym,,L,TICA,09B05244-F5D6-409B-B038-4CDCC262B5A4,,"","","","1881",gcc-16506
+gcc-72039,A,Compositae,,Adenophyllum,,"porophyllum",var.,"radiatum","(DC.) Strother",Accepted,,L,TICA,2F10BB79-F20E-414B-AAB9-FACFA2036C1F,952983-1,"","","377","1986",
+gcc-105420,A,Compositae,,Adenophyllum,,"pulcherrimum",,"","(Strother) Villarreal",Synonym,,M,TICA,CE164B04-30F8-4C02-8448-A589FD3E3B22,20002447-1,"Acta Bot. Mex. 56","","10","2001",gcc-142439
+gcc-117619,A,Compositae,,Adenophyllum,,"speciosum",,"","(A.Gray) Strother",Accepted,,M,TICA,09FF2CA1-137C-475C-8E82-C119336C8D48,943441-1,"Sida 11","","378","1986",
+gcc-22560,A,Compositae,,Adenophyllum,,"squamosum",,"","(A.Gray) Strother",Accepted,,M,TICA,D0AA390E-5668-4C55-A31E-29BF61EC6672,943442-1,"Sida 11","","378","1986",
+gcc-142439,A,Compositae,,Adenophyllum,,"wrightii",,"","A.Gray",Accepted,,M,TICA,48995BAB-DFDD-4209-B311-F9A30A62B37D,,"","","","1853",
+gcc-58364,A,Compositae,,Adenophyllum,,"wrightii",var.,"pulcherrimum","(Strother) Strother",Accepted,,L,TICA,CEE1576F-13DA-40CA-A975-8E1458E43450,271600-2,"Sida 11","","377","1986",
+gcc-69907,A,Compositae,,Adenophyllum,,"wrightii",var.,"wrightii","",Synonym,,L,TICA,CD79A896-8E5C-49D0-843F-E9FA2996D50C,,"","","","",gcc-142439

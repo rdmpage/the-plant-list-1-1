@@ -1,0 +1,32 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-127900,A,Compositae,,Egletes,,"arkansana",,"","(DC.) Nutt.",Synonym,,L,TICA,5AAC27AC-1C74-4713-AE66-D8CACC67F1E0,,"","","394","1841",gcc-79326
+gcc-142896,A,Compositae,,Egletes,,"bellidiflora",,"","(Rchb.) Less.",Synonym,,M,TICA,C6EE5295-0B00-4854-B530-FAB02731A913,202829-1,"","","252","1832",gcc-735
+gcc-38870,A,Compositae,,Egletes,,"bellidifolia",,"","Steud.",Unresolved,,L,TICA,AA8AC2C9-0817-4D8F-A0A8-481C6644AF08,202830-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 420, in syn., sphalm.""","","420","1841",
+gcc-29919,A,Compositae,,Egletes,,"californica",,"","Kellogg",Synonym,,M,TICA,ACCF16BB-E886-4722-A367-3750B74519A1,202831-1,"","","56","1873",gcc-66332
+gcc-32625,A,Compositae,,Egletes,,"commixta",,"","Shinners",Synonym,,M,TICA,BFD330CB-E561-49A5-9153-3C75EB2ABF7A,88861-2,"Lloydia 12","","243","1950",gcc-43407
+gcc-123814,A,Compositae,,Egletes,,"domingensis",,"","Cass.",Accepted,,M,TICA,65306F98-C318-490D-9068-CF402D70A553,202834-1,"","","153","1817",
+gcc-155570,A,Compositae,,Egletes,,"domingensis",var.,"domingensis","",Synonym,,L,TICA,2AC16DA8-FC63-42D2-AA9A-DB18E18258C6,,"","","","",gcc-123814
+gcc-12154,A,Compositae,,Egletes,,"floribunda",,"","Poepp.",Accepted,,M,TICA,A28A53EB-8D1C-4F14-B6B6-16AA71E3431E,202835-1,"","","50","",
+gcc-43407,A,Compositae,,Egletes,,"florida",,"","Shinners",Accepted,,M,TICA,8D6221E6-7DBD-4B19-82BC-506CA06C6DFB,88864-2,"Lloydia 12","","248","1950",
+gcc-139566,A,Compositae,,Egletes,,"glabrata",,"","(DC.) Benth. ex Oerst.",Synonym,,M,TICA,3179442A-E12C-4C54-9D60-F2FFF1676818,,"","","103","1852",gcc-735
+gcc-110467,A,Compositae,,Egletes,,"humifusa",,"","Less.",Accepted,,M,TICA,700F0824-1545-4331-BF24-B0F3A137C96B,202838-1,"","","252","1832",
+gcc-47880,A,Compositae,,Egletes,,"humilis",,"","(Benth.) Torr. & A.Gray",Synonym,,M,TICA,60A0F23D-1368-4B25-8730-58B1A9F77A97,202839-1,"","","411","1843",gcc-67986
+gcc-6737,A,Compositae,,Egletes,,"liebmanni",,"","Sch.Bip. ex Hemsl.",Unresolved,Illegitimate,L,TICA,FC914949-7E1C-4965-84E7-0C7ECE5F98FC,,"","","117","1881",
+gcc-43309,A,Compositae,,Egletes,,"liebmannii",,"","Sch.Bip.",Accepted,,L,TICA,34778FFE-A867-41FD-A636-503E2047C7A2,88865-2,"Leopoldina 23: 88. 1887","","88","1887",
+gcc-34343,A,Compositae,,Egletes,,"liebmannii",var.,"liebmannii","",Synonym,,L,TICA,D7FCC615-D235-48EF-8DC3-3FA673A00D61,,"","","","",gcc-43309
+gcc-30232,A,Compositae,,Egletes,,"lindenii",,"","Sch.Bip.",Unresolved,,L,TICA,6CFC714B-6A91-42C8-8B1E-37F4E25F39CB,,"","","","",
+gcc-16384,A,Compositae,,Egletes,,"obovata",,"","Benth. ex Oerst.",Accepted,,M,TICA,D5A65DD3-2156-49A5-85BD-1E4713732698,,"","","103","1852",
+gcc-77862,A,Compositae,,Egletes,,"obovata",,"","Benth.",Unresolved,,L,TICA,0B89B748-2E1E-41E3-AE8D-67CB83487185,,"Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kjobenhavn 1852(5-7):","","103","1853",
+gcc-83008,A,Compositae,,Egletes,,"pringlei",,"","Greenm.",Accepted,,M,TICA,69A4F007-BD36-4C95-9231-735666A8DE7C,88867-2,"""Publ. Field Columbian Mus., Bot. Ser. 2""","","265","1907",
+gcc-735,A,Compositae,,Egletes,,"prostrata",,"","(Sw.) Kuntze",Accepted,,M,TICA,FB560154-F485-4F6D-B237-01604A5C6928,88868-2,"Revis. Gen. Pl. 1","","334","1891",
+gcc-50982,A,Compositae,,Egletes,,"prostrata",var.,"glabrata","(DC.) Kuntze",Synonym,,L,TICA,442DF238-A6CF-42C4-96F4-5E97A040D8E6,88869-2,"Revis. Gen. Pl. 1","","334","1891",gcc-735
+gcc-147025,A,Compositae,,Egletes,,"prostrata",var.,"prostrata","",Synonym,,L,TICA,2D26D7C4-F42B-4025-8DEC-250BE67E168B,,"","","","",gcc-735
+gcc-42800,A,Compositae,,Egletes,,"ramosissima",,"","(DC.) A.Gray",Synonym,,M,TICA,D1B337D4-2206-4C6A-8C75-4F435183FE62,202844-1,"","","71","1849",gcc-79556
+gcc-88558,A,Compositae,,Egletes,,"repens",,"","Shinners",Accepted,,M,TICA,FAC2B3EC-509B-4A35-A294-7FB15C7BA17B,88870-2,"Lloydia 12","","249","1950",
+gcc-98551,A,Compositae,,Egletes,,"tenuifolia",,"","Cuatrec.",Accepted,,M,TICA,EF6939B8-762D-4605-8B26-96634B703A45,88871-2,"","","27","1969",
+gcc-132298,A,Compositae,,Egletes,,"texana",,"","Engelm. ex A.Gray",Synonym,,L,TICA,34BD2FA2-9DB9-424B-B20C-E2EB2CEB74E1,202847-1,"","","222","1847",gcc-79326
+gcc-87313,A,Compositae,,Egletes,,"viscosa",,"","(L.) Less.",Accepted,,M,TICA,50D90BCC-EDFF-4901-B2A3-7CFF3DAA3975,1037395-2,"Syn. Gen. Compos. 252. 1832","","252","1832",
+gcc-30903,A,Compositae,,Egletes,,"viscosa",var.,"dissecta","Shinners",Synonym,,L,TICA,74BA2618-48D8-4D1E-B1A4-3936487BC889,,"Lloydia 12","","245","",gcc-87313
+gcc-70683,A,Compositae,,Egletes,,"viscosa",var.,"sprucei","Baker",Synonym,,L,TICA,72E66D0C-6883-4FEA-B490-F00DCB342CAD,88875-2,"","","20","1882",gcc-87313
+gcc-60469,A,Compositae,,Egletes,,"viscosa",var.,"viscosa","",Synonym,,L,TICA,DB7690AE-A5DE-40AE-BEAF-9E7C3FDBE6B7,,"","","","",gcc-87313
+gcc-73714,A,Compositae,,Egletes,,"viscosa",f.,"viscosa","",Synonym,,L,TICA,8A231C57-C044-4FA7-ADF4-245A4735E768,,"","","","",gcc-87313

@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-47300,A,Compositae,,Endocellion,,"boreale",,"","Turcz. ex Herder",Synonym,,M,TICA,B8AC6222-8A97-4FAA-8944-5798575B29E2,203183-1,"","","375","1865",gcc-35964
+gcc-115471,A,Compositae,,Endocellion,,"glaciale",,"","(Ledeb.) A",Synonym,,M,TICA,A6EFFB1E-4882-4523-AD5A-BC385CCC3BE6,,"""Bot. Not. (Lund) 128, 4 : 519 (1975)""","","519","1975",gcc-117985
+gcc-117985,A,Compositae,,Endocellion,,"glaciale",,"","(Ledeb.) Toman",Accepted,,M,TICA,78275D11-8E2A-41B4-85E6-C1E20273C21D,203185-1,"","","394","1972",
+gcc-18388,A,Compositae,,Endocellion,,"glaciale",,"","(Ledeb.) Kuprian.",Unresolved,,L,TICA,F4AC3459-A638-412B-9A09-21F899BAA39B,203184-1,"""Fl. URSS xxvi. 654 (1961), in obs.""","","""xxvi. 654 , in obs.""","1961",
+gcc-33098,A,Compositae,,Endocellion,,"glacialis",,"","(Ledeb.) Á.Löve & D.Löve",Unresolved,,L,TICA,37A6676D-F0A4-490A-8CBE-3D6122FF925E,90997-2,"","","519","1976",
+gcc-141174,A,Compositae,,Endocellion,,"gmelinii",,"","(Turcz. ex DC.) Panigrahi",Synonym,,M,TICA,854DCC10-6EE0-4235-BA0A-F6BBD7648A70,985808-1,"","","750","1995",gcc-35964
+gcc-80337,A,Compositae,,Endocellion,,"gmelinii",,"","(Turcz. ex DC.) Á.Löve & D.Löve",Synonym,,M,TICA,6F9B267F-F730-496D-8D16-6D6BAC0328AE,90998-2,"","","519","1976",gcc-35964
+gcc-95960,A,Compositae,,Endocellion,,"gmelinii",,"","(Turcz. ex DC.) A",Synonym,,M,TICA,F315B33E-0AB7-40A9-9776-9082FF9C8D9E,,"""Bot. Not. (Lund) 128, 4 : 519 (1975)""","","519","1975",gcc-35964
+gcc-100171,A,Compositae,,Endocellion,,"sibiricum",,"","(J.F.Gmel.) Toman",Unresolved,,L,TICA,790B9A5C-9FD7-40E2-964C-99FBDBCEAE60,203188-1,"","","394","1972",gcc-35964

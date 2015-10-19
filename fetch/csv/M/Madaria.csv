@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-52387,A,Compositae,,Madaria,,"corymbosa",,"","DC.",Unresolved,,L,TICA,92654461-F741-4EAA-A301-612276D66E74,231580-1,"Prodr. (DC.) 5: 692","","692","1836",
+gcc-31577,A,Compositae,,Madaria,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,85F397BA-6E0C-4222-B768-3A89BFF497D6,,"","","","1836",gcc-52387
+gcc-67597,A,Compositae,,Madaria,,"corymbosa",var.,"hispida","DC.",Unresolved,,L,TICA,D9C6509A-2BE0-4966-9F12-D87081C4F242,149146-2,"Prodr. (DC.) 5: 692","","692","1836",gcc-131977
+gcc-104217,A,Compositae,,Madaria,,"densifolia",,"","(Greene) Greene",Unresolved,,L,TICA,A617D164-414D-4C17-A6FD-A3078FDE1A18,149147-2,"Fl. Francisc.","","417","1897",
+gcc-40520,A,Compositae,,Madaria,,"elegans",,"","(D.Don ex Lindl.) DC.",Accepted,,M,TICA,007A37FA-8456-4CC9-B264-4B1448E7DDB8,231582-1,"Prodr. (DC.) 5: 692","","692","1836",
+gcc-154993,A,Compositae,,Madaria,,"elegans",var.,"elegans","",Synonym,,L,TICA,1EAB1008-EFC1-49C4-9E6B-CEE0DA369BD5,,"","","","",gcc-40520
+gcc-13273,A,Compositae,,Madaria,,"hispida",,"","(DC.) Greene",Unresolved,,L,TICA,D5235538-FA95-415C-A498-18BC2945380E,1133517-2,"","","","",
+gcc-130363,A,Compositae,,Madaria,,"polycarpha",,"","Greene",Unresolved,,L,TICA,20FC31AE-A0AE-4521-A3B8-DE60C3DEB0D0,149150-2,"Fl. Francisc.","","418","1897",
+gcc-91175,A,Compositae,,Madaria,,"racemosa",,"","Nutt.",Unresolved,,L,TICA,D726C0E2-E581-481A-B12A-85C0CDC657DC,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 386""","","","1841",
+gcc-118917,A,Compositae,,Madaria,,"variegata",,"","Bartl.",Unresolved,,L,TICA,099B2A75-FB4C-4FD1-BE87-C417C530C1ED,231585-1,"""Ind. Sem. Hort. Gotting. (1852) 3. Cf. Linnaea, xxvi. (1853) 736.""","",""" 3. Cf. Linnaea, xxvi. (1853) 736.""","1852",

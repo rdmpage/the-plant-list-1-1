@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2765601,A,Papaveraceae,,Dicentra,,"burmanica",,"","K.R.Stern",Synonym,,M,WCSP (in review),,672636-1,"Brittonia","19: 280","","1967",kew-2899696
+kew-2765602,A,Papaveraceae,,Dicentra,,"canadensis",,"","(Goldie) Walp.",Accepted,,M,WCSP (in review),,,"Repert. Bot. Syst.","1: 118","","1842",
+kew-2765603,A,Papaveraceae,,Dicentra,,"chrysantha",,"","(Hook. & Arn.) Walp.",Synonym,,M,WCSP (in review),,,"Repert. Bot. Syst.","1: 118","","1842",kew-2784636
+kew-2765604,A,Papaveraceae,,Dicentra,,"cucullaria",,"","(L.) Bernh.",Accepted,,L,WCSP (in review),,672639-1,"Linnaea","8: 468","","1833",
+tro-24000297,A,Papaveraceae,,Dicentra,,"cucullaria",var.,"cucullaria","",Synonym,,L,TRO,24000297,,"","","","",kew-2765604
+tro-24000298,A,Papaveraceae,,Dicentra,,"cucullaria",f.,"cucullaria","",Synonym,,L,TRO,24000298,,"","","","",kew-2765604
+kew-2765605,A,Papaveraceae,,Dicentra,,"cucullaria",var.,"occidentalis","(Rydb.) M.Peck",Synonym,,L,WCSP (in review),,,"Madroño","6: 133","","1941",kew-2765604
+kew-2765606,A,Papaveraceae,,Dicentra,,"cucullaria",f.,"purpuritincta","Eames",Synonym,,L,WCSP (in review),,79208-2,"Rhodora","33: 169","","1931",kew-2765604
+kew-2765607,A,Papaveraceae,,Dicentra,,"eximia",,"","(Ker Gawl.) Torr.",Accepted,,M,WCSP (in review),,1003783-2,"Fl. New York","1: 46","","1843",
+kew-2765608,A,Papaveraceae,,Dicentra,,"formosa",,"","(Haw.) Walp.",Accepted,,M,WCSP (in review),,672641-1,"Repert. Bot. Syst.","1: 118","","1842",
+kew-2765609,A,Papaveraceae,,Dicentra,,"formosa",var.,"breviflora","L.F.Hend.",Synonym,,L,WCSP (in review),,79209-2,"Rhodora","33: 204","","1931",kew-2765608
+tro-24000282,A,Papaveraceae,,Dicentra,,"formosa",var.,"formosa","",Synonym,,L,TRO,24000282,,"","","","",kew-2765608
+tro-24000313,A,Papaveraceae,,Dicentra,,"formosa",subsp.,"formosa","",Synonym,,L,TRO,24000313,,"","","","",kew-2765608
+kew-2765610,A,Papaveraceae,,Dicentra,,"formosa",subsp.,"nevadensis","(Eastw.) Munz",Synonym,,L,WCSP (in review),,79210-2,"Aliso","4: 91","","1958",kew-2765618
+kew-2765611,A,Papaveraceae,,Dicentra,,"formosa",f.,"oregona","(Eastw.) Melle",Synonym,,L,WCSP (in review),,,"Torreya","41: 192","","1941",kew-2765612
+kew-2765612,A,Papaveraceae,,Dicentra,,"formosa",subsp.,"oregona","(Eastw.) Munz",Accepted,,L,WCSP (in review),,,"Aliso","4: 91","","1958",
+kew-2765613,A,Papaveraceae,,Dicentra,,"grandifoliolata",,"","(Merr.) K.R.Stern",Synonym,,M,WCSP (in review),,672642-1,"Brittonia","13: 44","","1961",kew-2755210
+kew-2765614,A,Papaveraceae,,Dicentra,,"lachenaliiflora",,"","(DC.) Ledeb.",Synonym,,M,WCSP (in review),,672643-1,"Fl. Ross.","1: 97","","1841",kew-2765624
+kew-2765615,A,Papaveraceae,,Dicentra,,"lichiangensis",,"","Fedde",Synonym,,M,WCSP (in review),,672644-1,"Repert. Spec. Nov. Regni Veg.","17: 199","","1921",kew-2755211
+kew-2765616,A,Papaveraceae,,Dicentra,,"macrantha",,"","Oliv.",Unresolved,,L,WCSP (in review),,672645-1,"Hooker's Icon. Pl.","20: t. 1937","","1890",tro-50333652
+kew-2765617,A,Papaveraceae,,Dicentra,,"macrocapnos",,"","Prain",Synonym,,M,WCSP (in review),,928205-1,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist.","65(2; 1): 12","","1896",kew-2755212
+kew-2765618,A,Papaveraceae,,Dicentra,,"nevadensis",,"","Eastw.",Accepted,,M,WCSP (in review),,79213-2,"Proc. Calif. Acad. Sci.","IV, 20: 143","","1931",
+kew-2765619,A,Papaveraceae,,Dicentra,,"occidentalis",,"","(Rydb.) Fedde",Synonym,,L,WCSP (in review),,79214-2,"Repert. Spec. Nov. Regni Veg.","10: 315","","1912",kew-2765604
+kew-2765620,A,Papaveraceae,,Dicentra,,"ochroleuca",,"","Engelm.",Synonym,,L,WCSP (in review),,672648-1,"Bot. Gaz.","6: 223","","1881",kew-2784637
+kew-2765621,A,Papaveraceae,,Dicentra,,"oregona",,"","Eastw.",Synonym,,M,WCSP (in review),,672649-1,"Proc. Calif. Acad. Sci.","IV, 20: 144","","1931",kew-2765612
+kew-2765622,A,Papaveraceae,,Dicentra,,"pauciflora",,"","S.Watson",Accepted,,M,WCSP (in review),,672650-1,"Bot. California","2: 429","","1880",
+kew-2765623,A,Papaveraceae,,Dicentra,,"paucinervia",,"","K.R.Stern",Synonym,,M,WCSP (in review),,672651-1,"Brittonia","13: 45","","1961",kew-2755210
+kew-2765624,A,Papaveraceae,,Dicentra,,"peregrina",,"","(Rudolph) Makino",Accepted,,M,WCSP (in review),,672652-1,"Bot. Mag. (Tokyo)","22: 162","","1908",
+kew-2765625,A,Papaveraceae,,Dicentra,,"peregrina",var.,"pusilla","(Siebold & Zucc.) Makino",Synonym,,L,WCSP (in review),,,"Bot. Mag. (Tokyo)","22: 162","","1908",kew-2765624
+kew-2765626,A,Papaveraceae,,Dicentra,,"pusilla",,"","Siebold & Zucc.",Synonym,,M,WCSP (in review),,672654-1,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.","4(2): 172","","1845",kew-2765624
+kew-2765627,A,Papaveraceae,,Dicentra,,"roylei",,"","Hook.f. & Thomson",Synonym,,M,WCSP (in review),,672655-1,"Fl. Ind.","1: 273","","1855",kew-2755214
+kew-2765628,A,Papaveraceae,,Dicentra,,"saccata",,"","(Nutt. ex Torr. & A.Gray) Walp.",Synonym,,M,WCSP (in review),,672656-1,"Repert. Bot. Syst.","1: 118","","1842",kew-2765608
+kew-2765629,A,Papaveraceae,,Dicentra,,"scandens",,"","(D.Don) Walp.",Synonym,,M,WCSP (in review),,672657-1,"Repert. Bot. Syst.","1: 118","","1842",kew-2755215
+kew-2765630,A,Papaveraceae,,Dicentra,,"sclneideri",,"","Fedde",Synonym,,M,WCSP (in review),,672658-1,"Repert. Spec. Nov. Regni Veg.","17: 198","","1921",kew-2899678
+kew-2765631,A,Papaveraceae,,Dicentra,,"spectabilis",,"","(L.) Lem.",Synonym,,M,WCSP (in review),,672659-1,"Fl. Serres Jard. Eur.","3: t. 258","","1847",kew-2494086
+kew-2765632,A,Papaveraceae,,Dicentra,,"tenuifolia",,"","(Pursh) Ledeb.",Synonym,,M,WCSP (in review),,672660-1,"Fl. Ross.","1: 97","","1841",kew-2765624
+kew-2765633,A,Papaveraceae,,Dicentra,,"thalictrifolia",,"","(Wall.) Hook.f. & Thomson",Synonym,,M,WCSP (in review),,672661-1,"Fl. Ind.","1: 273","","1855",kew-2755215
+kew-2765634,A,Papaveraceae,,Dicentra,,"torulosa",,"","Hook.f. & Thomson",Synonym,,M,WCSP (in review),,672662-1,"Fl. Ind.","1: 272","","1855",kew-2755217
+kew-2888017,A,Papaveraceae,,Dicentra,,"torulosa",var.,"yunnanensis","Fedde",Synonym,,L,WCSP (in review),,,"Repert. Spec. Nov. Regni Veg.","17: 198","","1921",kew-2755217
+kew-2765635,A,Papaveraceae,,Dicentra,,"uniflora",,"","Kellogg",Accepted,,M,WCSP (in review),,79219-2,"Proc. Calif. Acad. Sci.","4: 141","","1871",
+kew-2765636,A,Papaveraceae,,Dicentra,,"ventii",,"","Khanh",Synonym,,M,WCSP (in review),,672664-1,"Feddes Repert.","83: 540","","1972 publ. 1973",kew-2899679
+kew-2765637,A,Papaveraceae,,Dicentra,,"wolfdietheri",,"","Fedde",Synonym,,M,WCSP (in review),,672665-1,"Repert. Spec. Nov. Regni Veg.","19: 227","","1923",kew-2755214

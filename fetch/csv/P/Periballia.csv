@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-433266,A,Poaceae,,Periballia,,"hispanica",,"","Trin.",Synonym,,H,WCSP,433266,415473-1,"Fund. Agrost.","133","","1820",kew-433267
+kew-433267,A,Poaceae,,Periballia,,"involucrata",,"","(Cav.) Janka",Accepted,,H,WCSP,433267,415474-1,"Term. Füz.","1: 97","","1877",
+kew-433268,A,Poaceae,,Periballia,,"laevis",,"","(Brot.) Asch. & Graebn.",Accepted,,H,WCSP,433268,,"Syn. Mitteleur. Fl.","2(1): 297","","1899",
+kew-433269,A,Poaceae,,Periballia,,"minuta",,"","(L.) Asch. & Graebn.",Accepted,,H,WCSP,433269,415475-1,"Syn. Mitteleur. Fl.","2(1): 298","","1899",
+kew-433270,A,Poaceae,,Periballia,,"minuta",subsp.,"australis","Paunero",Synonym,,L,WCSP,433270,,"Anales Inst. Bot. Cavanilles","14: 200","","1956",kew-433269
+kew-433271,A,Poaceae,,Periballia,,"minuta",subsp.,"baetica","(Willk.) Font Quer",Synonym,,L,WCSP,433271,,"Cavanillesia","7: 72","","1935",kew-433269
+kew-433272,A,Poaceae,,Periballia,,"minuta",var.,"lanata","Maire",Synonym,,L,WCSP,433272,,"in Fl. Afr. Nord","2: 356","","1953",kew-433269
+kew-433273,A,Poaceae,,Periballia,,"minuta",var.,"sabulicola","(Braun-Blanq. & Maire) Maire",Synonym,,L,WCSP,433273,,"Cat. Maroc.","46","","1931",kew-433269
+kew-433274,A,Poaceae,,Periballia,,"poioides",,"","Trin. ex Steud.",Synonym,Invalid,H,WCSP,433274,,"Nomencl. Bot.","ed. 2, 1: 497","","1840",kew-433267

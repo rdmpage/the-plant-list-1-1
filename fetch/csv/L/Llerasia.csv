@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-50067,A,Compositae,,Llerasia,,"assuensis",,"","(Kunth) Cuatrec.",Accepted,,M,TICA,56210ED0-01E1-41D9-BC06-5CD40E4A24CA,141897-2,"","","42","1970",
+gcc-17025,A,Compositae,,Llerasia,,"beckii",,"","Cabrera",Accepted,,M,TICA,815D28FD-D994-4B5D-B7C5-1F77C9BBB46C,900223-1,"Hickenia 1(53)","","","1982",
+gcc-132336,A,Compositae,,Llerasia,,"boliviensis",,"","(Cabrera) Cuatrec.",Accepted,,L,TICA,E392814E-36D8-424B-94FD-E306C13BE168,141899-2,"","","43","1970",
+gcc-108614,A,Compositae,,Llerasia,,"caucana",,"","(S.F.Blake) Cuatrec.",Accepted,,L,TICA,BD3164D2-A456-4E03-A5C7-ACABCE4CA1B5,141900-2,"","","32","1969",
+gcc-120902,A,Compositae,,Llerasia,,"fuliginea",,"","(Kunth) Cuatrec.",Accepted,,L,TICA,B4108BAA-3064-43DC-A2FA-C896AC076821,141901-2,"","","42","1970",
+gcc-138998,A,Compositae,,Llerasia,,"hutchisonii",,"","Cuatrec.",Unresolved,,L,TICA,01B68B59-099A-43DF-9F7A-F1C94E848511,,"","","","1970",
+gcc-50397,A,Compositae,,Llerasia,,"hypoleuca",,"","(Turcz.) Cuatrec.",Accepted,,M,TICA,D675ADAF-A695-4885-899A-5D7484AA92DF,141903-2,"","","42","1970",
+gcc-153720,A,Compositae,,Llerasia,,"hypoleuca",var.,"hypoleuca","",Synonym,,L,TICA,B4171F21-061C-40C2-8D93-B3FAB469EFA7,,"","","","",gcc-50397
+gcc-66639,A,Compositae,,Llerasia,,"hypoleuca",var.,"serrata","(Turez.) Cuatrec.",Accepted,,L,TICA,11ED5900-CEBB-418D-80D8-D04DD7232A93,141904-2,"Webbia 24(1): 37. 1969","","37","1969",
+gcc-39708,A,Compositae,,Llerasia,,"ledifolia",,"","(S.F.Blake) Cuatrec.",Accepted,,M,TICA,2DA7078E-E28C-412C-AED5-49AD20C10CCF,141905-2,"","","45","1970",
+gcc-120121,A,Compositae,,Llerasia,,"lehmannii",,"","(Hieron.) Cuatrec. ex C.Ulloa & P.Jørg.",Unresolved,Illegitimate,L,TICA,22BB44B9-37FF-4FB9-9AB9-C6C349CC4761,,"AAU Reports 30:","","74","1993",gcc-23802
+gcc-23802,A,Compositae,,Llerasia,,"lindenii",,"","Triana",Accepted,,L,TICA,5085855A-2B39-4FBF-B6AE-2BFFD925E67E,,"""Ann. Sci. Nat., Bot. sér. 4, 9: 37""","","","1858",
+gcc-152864,A,Compositae,,Llerasia,,"lindenii",var.,"lindenii","",Synonym,,L,TICA,1648EADC-CFD1-4704-B9B7-A202ADCAB135,,"","","","",gcc-23802
+gcc-58946,A,Compositae,,Llerasia,,"lindenii",var.,"subcalva","(S.F.Blake) Cuatrec.",Accepted,,L,TICA,F6A05B3B-F443-40CC-9A5E-9297C946B958,141906-2,"Webbia 24(1): 35. 1969","","35","1969",
+gcc-123119,A,Compositae,,Llerasia,,"lucidula",,"","(S.F.Blake) Cuatrec.",Unresolved,Illegitimate,L,TICA,32801B6F-EED2-4374-A6F7-CD9750E69F67,141907-2,"","","43","1970",
+gcc-30199,A,Compositae,,Llerasia,,"macrocephala",,"","(Rusby) Pruski",Accepted,,M,TICA,B188D907-BC13-46EC-B440-37E45FC06371,,"Sida 21(4):","","2033-2034","2005",
+gcc-87234,A,Compositae,,Llerasia,,"pascoensis",,"","Sagást. & M.O.Dillon",Unresolved,,L,TICA,68C82BEA-5B54-4BA6-938B-7CD1FEC987C3,,"","","","1988",
+gcc-7206,A,Compositae,,Llerasia,,"rufescens",,"","(S.F.Blake) Cuatrec.",Accepted,,M,TICA,E67F14D9-E270-4151-ABE7-0D6899D1E41D,141908-2,"","","45","1970",
+gcc-37147,A,Compositae,,Llerasia,,"sanmartinensis",,"","Sagást. & M.O.Dillon",Unresolved,,L,TICA,32DA6A63-94EC-4820-857A-44D32748261E,,"","","","1988",
+gcc-34392,A,Compositae,,Llerasia,,"soratensis",,"","(S.F.Blake) Cuatrec.",Accepted,,M,TICA,93CCDAD4-7192-4DCE-A2CF-3FBE490D07ED,141909-2,"","","43","1970",

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-178840,A,Euphorbiaceae,,Ricinodendron,,"africanum",,"","Müll.Arg.",Synonym,,H,WCSP,178840,355478-1,"Flora","47: 533","","1864",kew-178843
+kew-178841,A,Euphorbiaceae,,Ricinodendron,,"gracilius",,"","Mildbr.",Synonym,,H,WCSP,178841,355479-1,"Notizbl. Bot. Gart. Berlin-Dahlem","12: 516","","1935",kew-178843
+kew-178842,A,Euphorbiaceae,,Ricinodendron,,"heudelotii",,"","(Baill.) Heckel",Accepted,,H,WCSP,178842,1016790-1,"Ann. Inst. Colon. Marseille","5(2): 40","","1898",
+kew-178843,A,Euphorbiaceae,,Ricinodendron,,"heudelotii",subsp.,"africanum","(Müll.Arg.) J.Léonard",Accepted,,L,WCSP,178843,,"Bull. Jard. Bot. État","31: 398","","1961",
+kew-178844,A,Euphorbiaceae,,Ricinodendron,,"heudelotii",subsp.,"heudelotii","",Synonym,,L,WCSP,178844,,"Unknown","","","",kew-178842
+kew-178845,A,Euphorbiaceae,,Ricinodendron,,"heudelotii",var.,"tomentellum","(Hutch. & E.A.Bruce) Radcl.-Sm.",Accepted,,L,WCSP,178845,880717-1,"Kew Bull.","27: 507","","1972",
+tro-12804270,A,Euphorbiaceae,,Ricinodendron,,"lobatus",,"","L.",Accepted,,M,TRO,12804270,,"","","","",
+kew-178846,A,Euphorbiaceae,,Ricinodendron,,"rautanenii",,"","Schinz",Synonym,,H,WCSP,178846,355481-1,"Bull. Herb. Boissier","6: 744","","1898",kew-187843
+kew-178847,A,Euphorbiaceae,,Ricinodendron,,"schliebenii",,"","Mildbr.",Synonym,,H,WCSP,178847,355482-1,"Notizbl. Bot. Gart. Berlin-Dahlem","12: 516","","1935",kew-178845
+kew-178848,A,Anacardiaceae,,Ricinodendron,,"staudtii",,"","Pax",Synonym,,H,WCSP,178848,355483-1,"Bot. Jahrb. Syst.","23: 532","","1897",kew-2340792
+kew-178849,A,Euphorbiaceae,,Ricinodendron,,"tomentellum",,"","Hutch. & E.A.Bruce",Synonym,,H,WCSP,178849,355484-1,"Bull. Misc. Inform. Kew","1931: 270","","1931",kew-178845
+kew-178850,A,Euphorbiaceae,,Ricinodendron,,"viticoides",,"","Mildbr.",Synonym,,H,WCSP,178850,355485-1,"Notizbl. Bot. Gart. Berlin-Dahlem","12: 517","","1935",kew-187843

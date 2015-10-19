@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-204311,A,Orchidaceae,,Thunia,,"alba",,"","(Lindl.) Rchb.f.",Accepted,,H,WCSP,204311,660350-1,"Bot. Zeitung (Berlin)","10: 764","","1852",
+kew-204312,A,Orchidaceae,,Thunia,,"alba",var.,"alba","",Synonym,,L,WCSP,204312,,"Unknown","","","",kew-204311
+kew-376644,A,Orchidaceae,,Thunia,,"alba",var.,"bensoniae","(Hook.f.) B.Grant",Synonym,,L,WCSP,376644,60453587-2,"Orch. Burma","208","","1895",kew-204314
+tro-50256550,A,Orchidaceae,,Thunia,,"alba",var.,"bensoniae","(Hook. f.) T. Tang & F.T. Wang",Synonym,,L,TRO,50256550,,"Acta Phytotax. Sin.","1(1): 80","80","1951",kew-204314
+kew-204313,A,Orchidaceae,,Thunia,,"alba",var.,"bracteata","(Roxb.) N.Pearce & P.J.Cribb",Accepted,,L,WCSP,204313,1019045-1,"Edinburgh J. Bot.","58: 116","","2001",
+kew-376645,A,Orchidaceae,,Thunia,,"alba",var.,"brymeriana","(Rolfe) B.Grant",Synonym,,L,WCSP,376645,,"Orch. Burma","209","","1895",kew-204316
+kew-376647,A,Orchidaceae,,Thunia,,"alba",var.,"candidissima","(N.E.Br.) B.Grant",Synonym,,L,WCSP,376647,,"Orch. Burma","209","","1895",kew-204317
+kew-376642,A,Orchidaceae,,Thunia,,"alba",var.,"marschalliana","(Rchb.f.) B.Grant",Synonym,,L,WCSP,376642,,"Orch. Burma","207","","1895",kew-204311
+kew-376646,A,Orchidaceae,,Thunia,,"alba",var.,"pulchra","(Rchb.f.) B.Grant",Synonym,,L,WCSP,376646,,"Orch. Burma","209","","1895",kew-204322
+kew-204314,A,Orchidaceae,,Thunia,,"bensoniae",,"","Hook.f.",Accepted,,H,WCSP,204314,660351-1,"Bot. Mag.","94: t. 5694","","1868",
+kew-204315,A,Orchidaceae,,Thunia,,"bracteata",,"","(Roxb.) Schltr.",Synonym,,H,WCSP,204315,660352-1,"Repert. Spec. Nov. Regni Veg. Beih.","4: 205","","1919",kew-204313
+kew-204316,A,Orchidaceae,,Thunia,,"brymeriana",,"","Rolfe",Accepted,,H,WCSP,204316,660353-1,"Gartenflora","41: 184","","1892",
+kew-204317,A,Orchidaceae,,Thunia,,"candidissima",,"","(N.E.Br.) Rchb.f.",Accepted,,H,WCSP,204317,660354-1,"Gard. Chron.","1888(2): 34","","1888",
+kew-204318,A,Orchidaceae,,Thunia,,"dodgsonii",,"","(Dean) B.S.Williams",Synonym,,H,WCSP,204318,,"Orch.-Grow. Man.","ed. 7: 727","","1894",kew-204322
+kew-461693,A,Orchidaceae,,Thunia,,"marshalliae",,"","B.S.Williams",Synonym,,H,WCSP,461693,77107756-1,"Cat. (B.S.Williams)","1874: 31","","1874",kew-204311
+kew-204319,A,Orchidaceae,,Thunia,,"marshalliana",,"","Rchb.f.",Synonym,,H,WCSP,204319,660355-1,"Linnaea","41: 65","","1876",kew-204311
+kew-348657,A,Orchidaceae,,Thunia,,"marshalliana",var.,"ionophlebia","Rchb.f.",Synonym,,L,WCSP,348657,77081294-1,"Gard. Chron.","n.s., 1885(2): 70","","1885",kew-204311
+kew-348658,A,Orchidaceae,,Thunia,,"marshalliana",f.,"ionophlebia","(Rchb.f.) M.Wolff & O.Gruss",Synonym,,L,WCSP,348658,77081295-1,"Orchid. Atlas","418","","2007",kew-204311
+kew-454914,A,Orchidaceae,,Thunia,,"marshalliana",var.,"purpurata","Rchb.f.",Synonym,,L,WCSP,454914,,"Gard. Chron.","III, 4: 62","","1888",kew-204311
+kew-454915,A,Orchidaceae,,Thunia,,"marshalliana",var.,"triloba","Rchb.f.",Synonym,,L,WCSP,454915,,"Gard. Chron.","III, 4: 62","","1888",kew-204311
+kew-204320,A,Orchidaceae,,Thunia,,"mastersiana",,"","Kraenzl.",Synonym,,H,WCSP,204320,,"Gard. Chron.","III, 16: 420","","1894",kew-204322
+kew-204321,A,Orchidaceae,,Thunia,,"nivalis",,"","(Hemsl.) Rchb.f.",Synonym,,H,WCSP,204321,660357-1,"Gard. Chron.","1888(2): 62","","1888",kew-204311
+kew-204322,A,Orchidaceae,,Thunia,,"pulchra",,"","Rchb.f.",Accepted,,H,WCSP,204322,660358-1,"Flora","55: 276","","1872",
+kew-204323,A,Orchidaceae,,Thunia,×,"veitchiana",,"","Rchb.f.",Unresolved,,L,WCSP,204323,,"Gard. Chron.","n.s., 23: 818","","1885",
+kew-204324,A,Orchidaceae,,Thunia,×,"veitchii",,"","auct.",Unresolved,,L,WCSP,204324,,"Gard. Chron.","1891(1): 740","","1891",
+kew-204325,A,Orchidaceae,,Thunia,,"venosa",,"","Rolfe",Synonym,,H,WCSP,204325,660361-1,"Orchid Rev.","12: 206","","1905",kew-204313
+kew-204326,A,Orchidaceae,,Thunia,,"winniana",,"","L.Linden",Synonym,,H,WCSP,204326,660362-1,"Lindenia","10: 43","","1894",kew-204314
+kew-204327,A,Orchidaceae,,Thunia,×,"wrigleyana",,"","A.H.Kent",Synonym,,L,WCSP,204327,,"Man. Orchid. Pl.","6: 20","","1890",kew-204323
+tro-50029689,A,Orchidaceae,,Thunia,,"wrigleyana",,"","hort.",Unresolved,,L,TRO,50029689,,"Orchid Album","6: sub t. 326","sub t. 326","1888",
+kew-204328,A,Orchidaceae,,Thunia,,"xanthophlebia",,"","Rchb.f. ex Parish",Synonym,,H,WCSP,204328,,"Burmah","ed. 3, 2: 167","","1883",kew-204322

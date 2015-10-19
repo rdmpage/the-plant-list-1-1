@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32900,A,Compositae,,Blennosperma,,"angustifolia",,"","(Kunth) W.R.Anderson",Unresolved,,L,TICA,3F772F0A-18D6-4E8E-9B4C-3D03F72F23D0,33754-2,"Leafl. W. Bot. 5: 108. 1948","","108","1948",
+gcc-88565,A,Compositae,,Blennosperma,,"bakeri",,"","Heiser",Accepted,,M,TICA,1366A612-7A30-42D1-AAB0-7FB76E6285F2,185433-1,"Madroño 9","","103","1947",
+gcc-21507,A,Compositae,,Blennosperma,,"cachimbensis",,"","W.R.Anderson",Unresolved,,L,TICA,6A1D10C1-3D7D-4E15-B734-27C3938ED44A,33755-2,"""Bol. Mus. Bot. Munic. no. 26: [1] (-3), fig. 1. 1976""","","""[1] (-3), fig. 1""","1976",
+gcc-81979,A,Compositae,,Blennosperma,,"californicum",,"","(DC.) Torr. & A.Gray",Unresolved,,L,TICA,A8C522D1-7641-4F03-A750-7104E3E03CD9,185434-1,"","","272","1842",
+gcc-103962,A,Compositae,,Blennosperma,,"chilense",,"","Less.",Accepted,,M,TICA,03812B58-AF9E-4647-9BE7-A26FF9C60FFD,185435-1,"","","267","1832",
+gcc-129870,A,Compositae,,Blennosperma,,"cretacea",,"","(Gleason) Steyerm.",Accepted,,M,TICA,2F8C10FB-B62D-4A25-8987-DD41CF8037FB,33756-2,"""Fieldiana, Bot. 28: 280. 1952""","","280","1952",
+gcc-149335,A,Compositae,,Blennosperma,,"cretacea",var.,"cretacea","",Synonym,,L,TICA,3B1F19E9-4E77-4576-B54A-56B1AF1F3250,,"","","","",gcc-129870
+gcc-43068,A,Compositae,,Blennosperma,,"fimbriata",,"","MacBryde",Unresolved,,L,TICA,DA566226-4799-481F-8EB9-4FC4F6013676,33758-2,"Canad. J. Bot. 52 (11): 2437. 1974","","2437","1974",
+gcc-81597,A,Compositae,,Blennosperma,,"heteropetala",,"","W.R.Anderson",Unresolved,,L,TICA,E21996CD-AB2E-4607-A136-7031BAE2C8E2,33759-2,"""Mem. New York Bot. Gard. 32: 57 (-58), fig. 1981""","","""57 (-58), fig""","1981",
+gcc-44044,A,Compositae,,Blennosperma,,"intermedia",,"","W.R.Anderson",Unresolved,,L,TICA,BBEE8416-7DB5-4524-B0B2-51914E3CF21B,33760-2,"""Mem. New York Bot. Gard. 32: 58 (-59), fig. 1981""","","""58 (-59), fig""","1981",
+gcc-11446,A,Compositae,,Blennosperma,,"nanum",,"","(Hook.) S.F.Blake",Accepted,,M,TICA,24E83D0C-919A-403F-B40C-155F96B0DED2,33752-2,"Proc. Biol. Soc. Wash. 39","","144","1926",
+gcc-52704,A,Compositae,,Blennosperma,,"nanum",var.,"nanum","",Synonym,,L,TICA,4D377561-C447-4ED3-B91E-61B3A09C3589,,"","","","1948",gcc-11446
+gcc-128860,A,Compositae,,Blennosperma,,"ptariana",,"","Steyerm.",Unresolved,,L,TICA,7A77DC56-6D0B-4BC5-B7A0-DB02FD5AEFD7,33761-2,"""Fieldiana, Bot. 28: 282. 1952""","","282","1952",

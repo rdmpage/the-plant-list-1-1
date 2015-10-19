@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-15100094,A,Hamamelidaceae,,Loropetalum,,"chinense",,"","(R. Br.) Oliv.",Accepted,,L,TRO,15100094,,"Trans. Linn. Soc. London","23(4): 459, f. 4","459","1862",
+tro-50009129,A,Hamamelidaceae,,Loropetalum,,"chinense",var.,"chinense","",Synonym,,L,TRO,50009129,,"","","","",tro-15100094
+tro-50009128,A,Hamamelidaceae,,Loropetalum,,"chinense",var.,"rubrum","Yieh",Accepted,,L,TRO,50009128,,"China: Bull. Hort. Special Issue","1942(2): 33","33","1942",
+tro-50230932,A,Hamamelidaceae,,Loropetalum,,"chinense",f.,"rubrum","H.T. Chang",Synonym,,L,TRO,50230932,,"","","","",tro-50009128
+tro-50230931,A,Hamamelidaceae,,Loropetalum,,"indicum",,"","K.Y. Tong",Synonym,,L,TRO,50230931,430723-1,"Bull. Dept. Biol. Sun Yatsen Univ.","2: 36","36","1930",tro-15100094
+tro-15100215,A,Hamamelidaceae,,Loropetalum,,"lanceum",,"","Hand.-Mazz.",Accepted,,M,TRO,15100215,430724-1,"Sinensia","2(10): 123–124","123","1932",
+tro-15100216,A,Hamamelidaceae,,Loropetalum,,"subcapitatum",,"","Chun ex H.T. Chang",Synonym,,L,TRO,15100216,430725-1,"Acta Sci. Nat. Univ. Sunyatseni","2: 35","35","1959",tro-15100094
+tro-15100214,A,Hamamelidaceae,,Loropetalum,,"subcordatum",,"","(Benth.) Oliv.",Accepted,,M,TRO,15100214,,"Hooker's Icon. Pl.","15(1): 13–14, pl. 1417","13","1883",

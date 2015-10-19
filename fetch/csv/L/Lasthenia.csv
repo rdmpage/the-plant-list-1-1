@@ -1,0 +1,56 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-124171,A,Compositae,,Lasthenia,,"ambigua",,"","A.Gray",Synonym,,M,TICA,4D440614-8557-497E-A7A2-D0120BD26ABA,,"Proc. Amer. Acad. Arts vi. (1864-65) 547","","547","1865",gcc-82609
+gcc-105934,A,Compositae,,Lasthenia,,"aurea",,"","Passer.",Unresolved,,L,TICA,0CD63B11-8B68-415C-84A9-A6AE57CABF1A,228948-1,"Ind. Sem. Hort. Parm. (1855) 3.","","3","1855",
+gcc-28868,A,Compositae,,Lasthenia,,"bahiifolia",,"","(Benth.) A.Gray",Unresolved,,L,TICA,605B8913-766D-46CA-B38B-355D9414CBE0,,"Proceedings of the American Academy of Arts and Sciences 6:","","547","1865",gcc-17036
+gcc-137154,A,Compositae,,Lasthenia,,"bridgesii",,"","(Poepp. & Endl.) Steud.",Synonym,,M,TICA,5B4E7D7F-D6CF-4DB5-B07F-EDD9E5DA3D8B,228949-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 12""","","12","1840",gcc-101148
+gcc-102356,A,Compositae,,Lasthenia,,"burkei",,"","(Greene) Greene",Accepted,,M,TICA,3C7D0A17-F114-42D6-BA74-9EED344100B0,135892-2,"","","204","1894",
+gcc-91682,A,Compositae,,Lasthenia,,"california",,"","DC.",Unresolved,,L,TICA,CF5459E2-1989-48EF-AF49-86E4089DBFDA,1155862-2,"","","","",
+gcc-49162,A,Compositae,,Lasthenia,,"californica",,"","DC. ex Lindl.",Accepted,,M,TICA,7454E985-A0EF-4660-A4B2-5B0ACE197C5A,,"","","","1835",
+gcc-53728,A,Compositae,,Lasthenia,,"californica",subsp.,"bakeri","(J.T.Howell) R.Chan",Accepted,,L,TICA,21C53897-7449-47DF-9F25-6866717D6EB2,,"Madroño 48(3)","","208","",
+gcc-68702,A,Compositae,,Lasthenia,,"californica",subsp.,"californica","",Synonym,,L,TICA,E665166F-F0E2-40F5-86FB-E0D9A5BCF7D5,,"","","","2001 [2002]",gcc-49162
+gcc-56774,A,Compositae,,Lasthenia,,"californica",subsp.,"macrantha","(A.Gray) R.Chan",Accepted,,L,TICA,1D934901-D10B-42CA-9B22-810FAC2EB289,,"Madroño 48(3)","","208","",
+gcc-29084,A,Compositae,,Lasthenia,,"canescens",,"","Regel",Unresolved,,L,TICA,88E60806-5A4B-44D4-BDD9-35C7BEA39315,228952-1,"Gartenfl. (1870) 82.","","82","",
+gcc-5521,A,Compositae,,Lasthenia,,"carnosa",,"","(Greene) Greene",Accepted,,M,TICA,86B2C39D-66E3-4780-9936-0A49A1506C92,135894-2,"","","205","1894",
+gcc-2167,A,Compositae,,Lasthenia,,"chilensis",,"","Steud.",Synonym,,M,TICA,55F75114-EBB6-478E-A38A-03E43D50B094,,"","","","",gcc-101148
+gcc-22991,A,Compositae,,Lasthenia,,"chrysantha",,"","(Greene ex A.Gray) Greene",Accepted,,M,TICA,77270A9B-4B4F-49A5-A4D6-2A928126020C,135895-2,"","","204","1894",
+gcc-24782,A,Compositae,,Lasthenia,,"chrysostoma",,"","(Fisch. & C.A.Mey.) Greene",Synonym,,M,TICA,9F53CD6E-DA20-445C-B84A-2DCDDD359A0C,135896-2,"","","205","1894",gcc-49162
+gcc-139116,A,Compositae,,Lasthenia,,"conjugens",,"","Greene",Accepted,,M,TICA,4DCC9711-957D-4759-AAE3-F202E365158B,135897-2,"","","221","1888",
+gcc-94146,A,Compositae,,Lasthenia,,"coronaria",,"","(Nutt.) Ornduff",Accepted,,M,TICA,A09EF652-ED86-4267-AE92-8C4FEEB638FA,135898-2,"","","76","1966",
+gcc-110125,A,Compositae,,Lasthenia,,"coulteri",,"","(A.Gray) Greene",Synonym,,M,TICA,EDC7FFAF-BAE6-4975-BE19-B02448F54A45,1020638-2,"in Bull. Calif. Acad. i. IV. (1885) 192.","","","",gcc-41351
+gcc-42608,A,Compositae,,Lasthenia,,"debilis",,"","(Greene ex A.Gray) Ornduff",Accepted,,M,TICA,3DB7679B-7799-4008-A0E0-4EEB63B73C0D,135899-2,"","","63","1966",
+gcc-45504,A,Compositae,,Lasthenia,,"ferrisiae",,"","Ornduff",Accepted,,M,TICA,A08E6A4A-1883-4A91-B621-5454A82FDA9A,135900-2,"","","74","1966",
+gcc-43716,A,Compositae,,Lasthenia,,"fremontii",,"","(Torr. ex A.Gray) Greene",Accepted,,M,TICA,2022B125-B565-4263-92BC-51004F873014,135901-2,"","","204","1894",
+gcc-131938,A,Compositae,,Lasthenia,,"glaberrima",,"","DC.",Accepted,,M,TICA,50BF2F01-BF3C-44B3-873D-E21A6B4AFCB3,228962-1,"Prodr. (DC.) 5: 664","","664","1836",
+gcc-128045,A,Compositae,,Lasthenia,,"glabrata",,"","Lindl.",Accepted,,M,TICA,3987EA9A-52AA-4CF8-A619-D914A0A4597C,,"Bot. Reg. t. 1780.","","","1835",
+gcc-26687,A,Compositae,,Lasthenia,,"glabrata",var.,"californica","(DC. ex Lindl.) Jeps.",Synonym,,L,TICA,9DE44302-9740-442D-AEAD-314E3B75204E,135902-2,"A Flora of Western Middle California","","519","1901",gcc-128045
+gcc-41351,A,Compositae,,Lasthenia,,"glabrata",subsp.,"coulteri","(A.Gray) Ornduff",Accepted,,L,TICA,5FAB62B8-ECCB-4F91-8E4C-4C99E24934FE,135903-2,"Univ. Calif. Publ. Bot. 40: 74. 1966","","74","1966",
+gcc-56547,A,Compositae,,Lasthenia,,"glabrata",var.,"coulteri","A.Gray",Synonym,,L,TICA,3A5B80B8-ABE3-4AD5-85A8-7F6E2B3B0151,135904-2,"Syn. Fl. N. Amer. 1(2): 324. 1884","","324","1884",gcc-41351
+gcc-66313,A,Compositae,,Lasthenia,,"glabrata",var.,"glabrata","",Synonym,,L,TICA,5445BE22-D737-48D6-BE4F-CDC9F8803D58,,"","","","",gcc-128045
+gcc-67208,A,Compositae,,Lasthenia,,"glabrata",subsp.,"glabrata","",Synonym,,L,TICA,DBE103A1-5909-4BC0-B874-D5345E6AD630,,"","","","1966",gcc-128045
+gcc-49502,A,Compositae,,Lasthenia,,"gracilis",,"","(DC.) Greene",Accepted,,M,TICA,028AA7F8-6519-4A5F-B648-5BBDB7BCCDF4,135905-2,"","","206","1894",
+gcc-2180,A,Compositae,,Lasthenia,,"hirsuta",,"","Greene",Unresolved,,L,TICA,EB336742-E4CC-4106-861B-03ECCF807391,,"","","","",
+gcc-87804,A,Compositae,,Lasthenia,,"hirsutula",,"","Greene",Synonym,,M,TICA,7C26F861-3569-45D8-B9FB-7E0E1BE5550F,135906-2,"","","206","1894",gcc-49162
+gcc-101148,A,Compositae,,Lasthenia,,"kunthii",,"","(Less.) Hook. & Arn.",Accepted,,M,TICA,A7326943-20A6-4E3F-B565-9C2DF49426E8,,"in Hook. Journ. Bot. iii. (1841) 819.","","","1841",
+gcc-14628,A,Compositae,,Lasthenia,,"leptalea",,"","(A.Gray) Ornduff",Synonym,,M,TICA,694E3D4B-BCF5-4072-8BA9-1B2515DF3442,135907-2,"","","63","1966",gcc-128045
+gcc-26737,A,Compositae,,Lasthenia,,"macrantha",,"","(A.Gray) Greene",Synonym,,M,TICA,46F5D48E-E552-4AAF-B441-31670F252A99,135908-2,"","","205","1894",gcc-56774
+gcc-69868,A,Compositae,,Lasthenia,,"macrantha",subsp.,"bakeri","(J.T.Howell) Ornduff",Synonym,,L,TICA,FBEB130C-0043-4658-BADA-E9B523BB6137,135909-2,"Univ. Calif. Publ. Bot. 40: 62. 1966","","62","1966",gcc-53728
+gcc-36804,A,Compositae,,Lasthenia,,"macrantha",var.,"macrantha","",Synonym,,L,TICA,B2EA482B-6DBB-49DB-9DB2-44391178F8FF,,"","","","",gcc-56774
+gcc-56644,A,Compositae,,Lasthenia,,"macrantha",subsp.,"macrantha","",Synonym,,L,TICA,418C06DA-3DCE-4FF5-9EF0-80144BC3D622,,"","","","1966",gcc-56774
+gcc-47723,A,Compositae,,Lasthenia,,"macrantha",subsp.,"prisca","Ornduff",Synonym,,L,TICA,6A097123-BBA0-4E5F-8EBE-586AB952EE84,135911-2,"","","96","1971",gcc-56774
+gcc-29327,A,Compositae,,Lasthenia,,"maritima",,"","(A.Gray) M.C.Vasey",Accepted,,M,TICA,8A2D77AC-D5F9-4B10-82FA-3630A8F5CC71,279356-2,"Madroño 32: 139. 1985","","139","1985",
+gcc-46447,A,Compositae,,Lasthenia,,"maritima",,"","(A.Gray) Ornduff",Unresolved,,L,TICA,D2616D2B-7568-4B25-ADD1-5616D3BF6A4F,,"","","","",
+gcc-115294,A,Compositae,,Lasthenia,,"microglossa",,"","(DC.) Greene",Accepted,,M,TICA,548C8A40-F40A-40AD-AE28-BBD38923B3E4,135910-2,"","","205","1894",
+gcc-37294,A,Compositae,,Lasthenia,,"minima",,"","Suksd.",Unresolved,,L,TICA,27D1ABDE-B510-4F60-8492-451A43FAFA92,135912-2,"","","7","1906",
+gcc-140874,A,Compositae,,Lasthenia,,"minor",,"","(DC.) Ornduff",Accepted,,L,TICA,B9E9D610-3BDD-433B-8F43-F60FAD921C72,135913-2,"","","80","1966",
+gcc-53899,A,Compositae,,Lasthenia,,"minor",subsp.,"maritima","(A.Gray) Ornduff",Synonym,,L,TICA,1055A916-E4EB-40E0-830E-69AA5E9A3DAA,135914-2,"Univ. Calif. Publ. Bot. 40: 81. 1966","","81","1966",gcc-46447
+gcc-66536,A,Compositae,,Lasthenia,,"minor",var.,"maritima","(A.Gray) Cronquist",Synonym,,L,TICA,9D77E04C-87A1-4268-B92D-CF8B673E383C,135916-2,"Vascular Plants of the Pacific Northwest 1:","","858","1969",gcc-46447
+gcc-57815,A,Compositae,,Lasthenia,,"minor",var.,"minor","",Synonym,,L,TICA,055AD14F-DDDE-4A75-BAEF-897A310B2F61,,"","","","",gcc-140874
+gcc-60355,A,Compositae,,Lasthenia,,"minor",subsp.,"minor","",Synonym,,L,TICA,5F383D90-F549-4886-99E3-9DAEDB63D52B,,"","","","",gcc-140874
+gcc-18933,A,Compositae,,Lasthenia,,"obtusifolia",,"","Cass.",Synonym,,M,TICA,4BF99054-AC7D-4696-B6F5-22F2EE039DBC,,"Opusc. iii. 89.","","","1834",gcc-101148
+gcc-68785,A,Compositae,,Lasthenia,,"obtusifolia",var.,"bridgesii","(Poepp. & Endl.) DC.",Synonym,,L,TICA,CCC15567-80D5-49F6-BA3E-E16D20E3C26E,135917-2,"Prodr. (DC.) 5: 665","","665","1836",gcc-101148
+gcc-147956,A,Compositae,,Lasthenia,,"obtusifolia",var.,"obtusifolia","",Synonym,,L,TICA,CF0B7921-6A8B-449F-A7DB-38E441DBB455,,"","","","",gcc-101148
+gcc-12068,A,Compositae,,Lasthenia,,"ornduffii",,"","R.Chan",Accepted,,M,TICA,062A20DB-B059-497B-B4C8-167EC421135C,,"Madroño 48(3)","","209","",
+gcc-22557,A,Compositae,,Lasthenia,,"platycarpha",,"","(A.Gray) Greene",Accepted,,M,TICA,8E8768CB-EFE7-44D5-A627-29BD5140A666,135918-2,"","","205","1894",
+gcc-114261,A,Compositae,,Lasthenia,,"tenella",,"","(Nutt.) Greene",Accepted,,M,TICA,CA5283B7-B3C3-4E59-9BF9-B96F0934F967,135919-2,"","","205","1894",
+gcc-140188,A,Compositae,,Lasthenia,,"uliginosa",,"","(Nutt.) Greene",Unresolved,,L,TICA,1CCDDBCB-B02E-483B-95F5-F472CCCE613F,135920-2,"","","205","1894",gcc-140874
+gcc-142106,A,Compositae,,Lasthenia,,"volkmanni",,"","Phil.",Unresolved,,L,TICA,812BF6C4-C55E-46EA-909C-F8EB03B4D9BB,228976-1,"""Gartenflora xxxviii. (1889) 369, t. 1302, fig. 1.""","","""xxxviii.  369, t. 1302, fig. 1.""","1889",

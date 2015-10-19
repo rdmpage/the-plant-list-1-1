@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-106222,A,Compositae,,Isocarpha,,"alternifolia",,"","Cass.",Synonym,Illegitimate,M,TICA,48B62C2F-861F-48E8-B259-A749CB2E763D,,"","","19","1822",gcc-87011
+gcc-136914,A,Compositae,,Isocarpha,,"amellus",,"","Spreng. ex DC.",Synonym,Illegitimate,M,TICA,393FC670-7897-4638-BFB9-ED53566D47C1,226253-1,"Prodr. (DC.) 5: 493","","493","1836",gcc-156195
+gcc-134153,A,Compositae,,Isocarpha,,"amplexicaulis",,"","b. robinson ex B. Robinson ex C. Baker",Synonym,Illegitimate,M,TICA,2D0953CB-6001-47E1-9743-E71D9E4F09E1,,"W. Amer. Pl. 2: 21. 1903.","","21","1903",gcc-87011
+gcc-149593,A,Compositae,,Isocarpha,,"amplexicaulis",,"","B.L.Rob. ex C. Baker",Unresolved,,L,TICA,00D2DED5-EDC5-465C-887D-5C591B91D5C3,,"W. Amer. Pl. 2:21. 1903. ","","21","1903",
+gcc-41120,A,Compositae,,Isocarpha,,"angustata",,"","Griseb.",Synonym,,M,TICA,42221077-C9D4-49A8-9083-4C36D8671284,226254-1,"","","376","1861",gcc-27882
+gcc-87011,A,Compositae,,Isocarpha,,"atriplicifolia",,"","(L.) R.Br. ex DC.",Accepted,,M,TICA,829ABDCF-C69A-4216-AF3B-7C483CC9A303,,"","","","1836",
+gcc-49417,A,Compositae,,Isocarpha,,"atriplicifolia",subsp.,"atriplicifolia","",Synonym,,L,TICA,F2109E75-94DD-49D0-BB17-5B8E1BAA521E,,"","","","",gcc-87011
+gcc-49419,A,Compositae,,Isocarpha,,"atriplicifolia",var.,"atriplicifolia","",Synonym,,L,TICA,93782A27-0F0D-4626-A97C-5B8EF70BB11B,,"","","","1836",gcc-87011
+gcc-53285,A,Compositae,,Isocarpha,,"atriplicifolia",subsp.,"glabrata","(S.F.Blake) Borhidi",Synonym,,L,TICA,B981DED1-FE4D-49F7-89BF-650E8ED0F3AF,,"","","","",gcc-27882
+gcc-84984,A,Compositae,,Isocarpha,,"berteroi",,"","Balb. ex DC.",Unresolved,Illegitimate,L,TICA,04DC48AC-7F55-4671-860D-77AD2607D963,226256-1,"Prodr. (DC.) 5: 140","","140","1836",
+gcc-155571,A,Compositae,,Isocarpha,,"bilbergiana",,"","Less.Schlecht. & Cham.",Synonym,,M,TICA,A9AC3E71-BC8D-4F9D-84A0-DB18EDD19C7B,,"Linnaea 6: 405. 1831. ","","405","1831",gcc-87011
+gcc-83360,A,Compositae,,Isocarpha,,"billbergiana",,"","Less.",Synonym,,M,TICA,6208456B-5524-40F5-8D6C-741A76F57A2D,130403-2,"Linnaea 6: 405. 1831","","405","1831",gcc-87011
+gcc-52252,A,Compositae,,Isocarpha,,"blepharolepis",,"","Greenm.",Synonym,,M,TICA,3648CA2B-B1FC-4630-97CE-60E836DA9E64,130404-2,"","","347","1912",gcc-12170
+gcc-154706,A,Compositae,,Isocarpha,,"cabana",,"","S.F.Blake",Synonym,,M,TICA,F16022F5-ABBC-4660-9664-C955A58F402E,130405-2,"Contr. U. S. Natl. Herb. 22: 613. 1924. ","","613","1924",gcc-87011
+gcc-21660,A,Compositae,,Isocarpha,,"divaricata",,"","Benth.",Synonym,,M,TICA,F8266829-BD59-4583-8F3E-28111E3E9D83,,"Bot. Voy. Sulphur 110. t. 41.","","","1845",gcc-12170
+gcc-152768,A,Compositae,,Isocarpha,,"echioides",,"","Less.Schlecht. & Cham.",Synonym,,M,TICA,CA5619EC-31CC-4D39-98D9-A00E1385C316,,"Linnaea 5: 141. T. 2. 1830. ","","141. T. 2.","1830",gcc-17668
+gcc-75545,A,Compositae,,Isocarpha,,"echioides",,"","Less.",Synonym,,M,TICA,B71A0ECC-05E3-4100-8FB9-62AA02EAA421,226261-1,"Linnaea 5","","""141, t. 2, f. 14-16""","1830",gcc-17668
+gcc-148221,A,Compositae,,Isocarpha,,"eupatorioides",,"","Gardner",Synonym,,M,TICA,68227477-79A2-45EB-9B99-3DF38A0460BE,130407-2,"London J. Bot. 5: 456. 1846. ","","456","1846",gcc-148371
+gcc-7972,A,Compositae,,Isocarpha,,"fastigiata",,"","Gardner",Synonym,,M,TICA,84602CBD-C5AA-4310-BDC7-0ED467D366D0,130408-2,"London J. Bot. 5","","455","1846",gcc-122637
+gcc-11060,A,Compositae,,Isocarpha,,"fistulosa",,"","D.J.Keil & Stuessy",Unresolved,,L,TICA,DCCB2CBD-1299-4518-A35B-14B0A6D94F17,,"","","","1981",
+gcc-147364,A,Compositae,,Isocarpha,,"fistulosa",,"","Keil & Stuessy",Accepted,,M,TICA,31670F8E-A828-4AC4-8BE9-2BF04FBD2A3B,130409-2,"Syst. Bot. 6: 273. 1981.","","273","1981",
+gcc-17309,A,Compositae,,Isocarpha,,"foliosa",,"","Gardner",Synonym,,M,TICA,19CE0447-05DE-464A-830F-2000025F9232,130410-2,"London J. Bot. 5","","457","1846",gcc-44212
+gcc-115606,A,Compositae,,Isocarpha,,"glabrata",,"","S.F.Blake",Synonym,,M,TICA,EBFFD9C4-F86C-4259-95BB-BC91193FA151,130411-2,"Contr. U. S. Natl. Herb. 22: 614. 1924","","614","1924",gcc-27882
+gcc-137944,A,Compositae,,Isocarpha,,"kunthii",,"","Cass.",Synonym,Illegitimate,M,TICA,13F58CBB-4C5C-46F7-B132-EF85593B3417,226266-1,"in Dict. Sc. Nat. xxiv. 19.","","19","1822",gcc-150029
+gcc-42114,A,Compositae,,Isocarpha,,"megacephala",,"","Mattf.",Accepted,,M,TICA,DD0AC725-35D0-4E8F-941B-4E061D943CDE,130412-2,"Notizbl. Bot. Gart. Berlin-Dahlem 9","","385","1925",
+gcc-97351,A,Compositae,,Isocarpha,,"megalocephala",,"","Mattf.",Unresolved,,L,TICA,3D892004-4402-406F-BA44-93A9493D7FBD,,"","","","",
+gcc-12170,A,Compositae,,Isocarpha,,"microcephala",,"","(DC.) S.F.Blake",Accepted,,M,TICA,789B841D-167D-4EE1-B9E3-16AF7978A673,130413-2,"","","144","1926",
+gcc-27882,A,Compositae,,Isocarpha,,"oppositifolia",,"","(L.) Cass.",Accepted,,M,TICA,9A620EDC-512D-480C-B720-3384EFFC15B2,1008406-1,"","","19","1822",
+gcc-79468,A,Compositae,,Isocarpha,,"oppositifolia",,"","(L.) R.Br.",Synonym,Illegitimate,M,TICA,0F35FD1E-4D78-4C7C-9FD4-6B82CA336B47,226269-1,"","","110","1817",gcc-27882
+gcc-56753,A,Compositae,,Isocarpha,,"oppositifolia",var.,"glabrata","(S.F.Blake) Borhidi",Synonym,,L,TICA,DF8D4893-C7D3-4DA5-88F1-80E55FFE81FD,130416-2,"","","212","1983",gcc-27882
+gcc-37623,A,Compositae,,Isocarpha,,"oppositifolia",subsp.,"oppositifolia","",Synonym,,L,TICA,106FFBF1-E645-4B29-A335-45BD3911CC15,,"","","","",gcc-27882
+gcc-55333,A,Compositae,,Isocarpha,,"oppositifolia",var.,"oppositifolia","",Synonym,,L,TICA,DA63BD87-BCD6-4F24-AC49-752E6494201E,,"","","","1817",gcc-27882
+gcc-144268,A,Compositae,,Isocarpha,,"pyrethraria",,"","(L.) Cass.",Synonym,,M,TICA,819A38E1-EA0F-45F6-97F2-FDB82A7B12D4,1216575-2,"","","280","1823",gcc-145732
+gcc-75737,A,Compositae,,Isocarpha,,"tricephala",,"","Cass.",Synonym,Illegitimate,M,TICA,6100E5FC-9DBD-425C-A5D1-6320ADC5F989,226271-1,"","","280","1823",gcc-27882

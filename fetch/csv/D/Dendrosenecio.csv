@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-31050,A,Compositae,,Dendrosenecio,,"adnivalis",,"","(Stapf) E.B.Knox",Accepted,,M,TICA,68D3E37F-AF9D-4707-83E8-397E8DE99323,971835-1,"Contr. Univ. Michigan Herb. 19","","243","1993",
+gcc-147949,A,Compositae,,Dendrosenecio,,"adnivalis",subsp.,"adnivalis","",Synonym,,L,TICA,3E84C6DB-C9D0-4965-94AF-38B6C0F03554,,"","","","",gcc-31050
+gcc-26381,A,Compositae,,Dendrosenecio,,"adnivalis",var.,"adnivalis","",Synonym,,L,TICA,65430783-4630-432D-A376-30C581E6FCF2,,"Contr. Univ. Michigan Herb. 19: 243 (1993).","","","",gcc-31050
+gcc-67366,A,Compositae,,Dendrosenecio,,"adnivalis",subsp.,"friesiorum","(Mildbr.) E.B.Knox",Accepted,,L,TICA,437C584D-4881-480B-A364-D6A023563A8C,971837-1,"Contr. Univ. Michigan Herb. 19","","243","1993",
+gcc-54011,A,Compositae,,Dendrosenecio,,"adnivalis",var.,"petiolatus","E.B.Knox",Accepted,,L,TICA,20500BF5-D674-4A69-857B-6A93B2BD354F,971836-1,"","","243","1993",
+gcc-84123,A,Compositae,,Dendrosenecio,,"barbatipes",,"","(Hedb.) E.B.Knox",Unresolved,,L,TICA,55F1E297-E2A8-417E-A18C-75D3486993AA,,"Contributions from the University of Michigan Herbarium 190:","","244","1993",gcc-69111
+gcc-133164,A,Compositae,,Dendrosenecio,,"battiscombei",,"","(R.E.Fr. & T.C.E.Fr.) E.B.Knox",Accepted,,M,TICA,AA63EAAC-512C-42D0-BD13-E4E22C85E6B7,971838-1,"Contr. Univ. Michigan Herb. 19","","243","1993",
+gcc-118960,A,Compositae,,Dendrosenecio,,"brassica",,"","(R.E.Fr. & T.C.E.Fr.) B.Nord.",Synonym,Illegitimate,M,TICA,90B5F41D-ACE2-4375-998A-C42AF1537D79,201195-1,"Opera Bot. 44","","43","1978",gcc-144036
+gcc-148067,A,Compositae,,Dendrosenecio,,"brassica",subsp.,"brassica","",Synonym,,L,TICA,2BB79633-0512-4353-9B42-3AEDD7A2CB5F,,"","","","",gcc-144036
+gcc-33396,A,Compositae,,Dendrosenecio,,"brassica",subsp.,"brassiciformis","(R.E.Fr. & T.C.E.Fr.) B.Nord.",Synonym,,L,TICA,661B7DE0-94CC-45F6-A25E-3DE8D200EDF2,877150-1,"Opera Bot. 44","","43","1978",gcc-108665
+gcc-108665,A,Compositae,,Dendrosenecio,,"brassiciformis",,"","(R.E.Fr. & T.C.E.Fr.) Mabb.",Accepted,,M,TICA,7FD79783-03E7-430A-B468-ACD5D1728E20,943342-1,"","","100","1986",
+gcc-128020,A,Compositae,,Dendrosenecio,,"cheranganiensis",,"","(Cotton & Blakelock) E.B.Knox",Accepted,,M,TICA,08845463-27B0-40D7-A3C4-D9084C05D4D0,971839-1,"Contr. Univ. Michigan Herb. 19","","243","1993",
+gcc-39281,A,Compositae,,Dendrosenecio,,"cheranganiensis",subsp.,"cheranganiensis","",Synonym,,L,TICA,B85A33AD-1376-4B61-9A54-48E5DA186712,,"","","","",gcc-128020
+gcc-53255,A,Compositae,,Dendrosenecio,,"cheranganiensis",subsp.,"dalei","(Cotton & Blakelock) E.B.Knox",Accepted,,L,TICA,7CCDD3AE-C839-424D-8AAE-64DFDF434CF6,971840-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-2218,A,Compositae,,Dendrosenecio,,"elgonensis",,"","(T.C.E.Fr.) E.B.Knox",Accepted,,M,TICA,504D3B01-61E6-4E59-813D-0401AA8E77C3,971841-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-69111,A,Compositae,,Dendrosenecio,,"elgonensis",subsp.,"barbatipes","(Hedberg) E.B.Knox",Accepted,,L,TICA,AD16A551-B94F-4DCB-9C7E-E3F15C75A813,971842-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-44754,A,Compositae,,Dendrosenecio,,"elgonensis",subsp.,"elgonensis","",Synonym,,L,TICA,0C05635D-02CB-41A0-A618-52E2C7C17E25,,"","","","",gcc-2218
+gcc-50065,A,Compositae,,Dendrosenecio,,"erici-rosenii",,"","(R.E.Fr. & T.C.E.Fr.) E.B.Knox",Accepted,,M,TICA,22421B0E-7D2F-43E4-ABBC-5CD38E167C79,971843-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-58618,A,Compositae,,Dendrosenecio,,"erici-rosenii",subsp.,"alticola","(Mildbr.) E.B.Knox",Accepted,,L,TICA,F406EF74-C9C9-48A4-AEF3-902DBA7AFCB2,971844-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-69452,A,Compositae,,Dendrosenecio,,"erici-rosenii",subsp.,"erici-rosenii","",Synonym,,L,TICA,A65D7E0E-E78D-4B34-80C3-E680CC03F898,,"","","","",gcc-50065
+gcc-20473,A,Compositae,,Dendrosenecio,,"johnstonii",,"","(Oliv.) B.Nord.",Accepted,,M,TICA,202D6A36-8093-4BE3-9A14-25DCA4C0410A,201196-1,"Opera Bot. 44","","42","1978",
+gcc-30786,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"adnivalis","(Stapf) Mabb.",Synonym,,L,TICA,BDE2202F-4BF9-42EC-AB32-38FD2DBC3E0A,952898-1,"","","100","1986",gcc-31050
+gcc-65283,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"barbatipes","(Hedberg) B.Nord.",Synonym,,L,TICA,82D73188-2B9B-42A3-B1F3-C598D0532E09,877151-1,"Opera Bot. 44","","42","1978",gcc-69111
+gcc-63649,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"battiscombei","(R.E.Fr. & T.C.E.Fr.) B.Nord.",Synonym,,L,TICA,2E47818B-F2FA-4B17-A458-B87B1E7E9790,877152-1,"Opera Bot. 44","","43","1978",gcc-133164
+gcc-66343,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"cheranganiensis","(Cotton & Blakelock) B.Nord.",Synonym,,L,TICA,B021E80C-0273-4863-90EE-CE1A9BDD186F,877153-1,"Opera Bot. 44","","42","1978",gcc-128020
+gcc-55962,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"cottonii","(Hutch. & G.Taylor) B.Nord.",Synonym,,L,TICA,21050B9B-AC1A-4860-A201-7A83176515EA,877154-1,"Opera Bot. 44","","43","1978",gcc-30756
+gcc-411,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"dalei","(Cotton & Blakelock) B.Nord.",Synonym,,L,TICA,CAE3BB7C-B9CB-4DD8-87F3-00C266F16B6D,877155-1,"Opera Bot. 44","","42","1978",gcc-53255
+gcc-17453,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"elgonensis","(T.C.E.Fr.) B.Nord.",Synonym,,L,TICA,DEEBBCD7-3F76-4727-BF08-2040B1F5C789,877156-1,"Opera Bot. 44","","42","1978",gcc-2218
+gcc-57062,A,Compositae,,Dendrosenecio,,"johnstonii",var.,"friesiorum","(Mildbr.) B.Nord.",Synonym,,L,TICA,70874E76-3B12-4677-B753-8349FF68618D,877157-1,"Opera Bot. 44","","42","1978",gcc-67366
+gcc-148878,A,Compositae,,Dendrosenecio,,"johnstonii",var.,"johnstonii","",Synonym,,L,TICA,4A7D8D0A-6440-4025-B1FF-4CC03B630DE7,,"","","","",gcc-20473
+gcc-155182,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"johnstonii","",Synonym,,L,TICA,C64C559F-680B-401E-9A84-D2AB4A0C3D1F,,"","","","",gcc-20473
+gcc-53882,A,Compositae,,Dendrosenecio,,"johnstonii",subsp.,"refractisquamatus","(De Wild.) B.Nord.",Synonym,,L,TICA,EE873F91-2BD0-4BB9-BF67-69883210612F,877158-1,"Opera Bot. 44","","42","1978",gcc-31050
+gcc-144036,A,Compositae,,Dendrosenecio,,"keniensis",,"","(Baker f.) Mabb.",Accepted,,M,TICA,3E590807-FF3A-4EF2-B817-FD38482CB0BE,943343-1,"","","100","1986",
+gcc-124358,A,Compositae,,Dendrosenecio,,"keniodendron",,"","(R.E.Fr. & T.C.E.Fr.) B.Nord.",Accepted,,M,TICA,AEDC4A5D-E275-4740-B1C9-D08183426C61,201197-1,"Opera Bot. 44","","43","1978",
+gcc-45305,A,Compositae,,Dendrosenecio,,"kilimanjari",,"","(Mildbr.) E.B.Knox",Accepted,,M,TICA,254C5ECD-1BF1-42D3-AA0F-53F46D609E63,971845-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-30756,A,Compositae,,Dendrosenecio,,"kilimanjari",subsp.,"cottonii","(Hutch. & G.Taylor) E.B.Knox",Accepted,,L,TICA,ADE8DA5A-70AB-4BE9-9A15-38F1F4F23069,971846-1,"Contr. Univ. Michigan Herb. 19","","244","1993",
+gcc-3246,A,Compositae,,Dendrosenecio,,"kilimanjari",subsp.,"kilimanjari","",Synonym,,L,TICA,3757263D-BE76-427A-9918-0603A62BEB5C,,"","","","",gcc-45305
+gcc-28191,A,Compositae,,Dendrosenecio,,"meruensis",,"","(Cotton & Blakelock) E.B.Knox",Accepted,,M,TICA,B21D26AA-3C41-4F39-8DF0-3417B7128B91,971847-1,"Contr. Univ. Michigan Herb. 19","","245","1993",

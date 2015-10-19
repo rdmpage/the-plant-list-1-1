@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-399182,A,Poaceae,,Beckmannia,,"baicalensis",,"","Hultén",Synonym,,H,WCSP,399182,30327-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 5(1): 119","","1927",kew-399194
+kew-399183,A,Poaceae,,Beckmannia,,"borealis",,"","(Tzvelev) Prob.",Synonym,,H,WCSP,399183,914886-1,"Sosud. Rast. Sovet. Dal'nego Vostoka","1: 229","","1985",kew-399185
+kew-399184,A,Poaceae,,Beckmannia,,"cruciformis",,"","(Sm.) Sennen",Synonym,,H,WCSP,399184,392622-1,"Treb. Inst. Catalana Hist. Nat.","1917: 246, 192","","1917",kew-399185
+kew-399185,A,Poaceae,,Beckmannia,,"eruciformis",,"","(L.) Host",Accepted,,H,WCSP,399185,392623-1,"Icon. Descr. Gram. Austriac.","3: 5","","1805",
+kew-399186,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"baicalensis","(Kusn.) T.Koyama & Kawano",Synonym,,L,WCSP,399186,,"Canad. J. Bot.","42: 879","","1964",kew-399194
+kew-399189,A,Poaceae,,Beckmannia,,"eruciformis",var.,"baicalensis","Kuzn.",Synonym,,L,WCSP,399189,,"Trudy Byuro Prikl. Bot.","6: 584","","1913",kew-399194
+tro-25511651,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"baicalensis","(V.A. Kusn.) Hultén",Synonym,,L,TRO,25511651,30328-2,"Kongl. Svenska Vetensk. Acad. Handl., n.s.","8(5): 172","172","1962",kew-399194
+tro-50295575,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"baicalensis","(V.A. Kusn.) Koyama & Kawano",Synonym,,L,TRO,50295575,,"","","","",kew-399194
+kew-399187,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"borealis","Tzvelev",Synonym,,L,WCSP,399187,881570-1,"Novosti Sist. Vyssh. Rast.","10: 81","","1973",kew-399185
+kew-399188,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"syzigachne","(Steud.) Breitung",Synonym,,L,WCSP,399188,30330-2,"Amer. Midl. Naturalist","58: 10","","1957",kew-399194
+kew-399190,A,Poaceae,,Beckmannia,,"eruciformis",var.,"uniflora","A.Gray",Synonym,,L,WCSP,399190,,"Manual","ed. 6: 628","","1890",kew-399194
+kew-399191,A,Poaceae,,Beckmannia,,"eruciformis",var.,"uniflorus","Scribn.",Synonym,,L,WCSP,399191,,"Descr. Cat. Grass. U.S.","8","","1885",kew-399185
+tro-50288281,A,Poaceae,,Beckmannia,,"eruciformis",subsp.,"vaicalensis","(V.A. Kusn.) Koyama & Kawano",Synonym,,L,TRO,50288281,,"","","","",kew-399194
+kew-399192,A,Poaceae,,Beckmannia,,"erucoides",,"","P.Beauv.",Synonym,Illegitimate,H,WCSP,399192,392624-1,"Ess. Agrostogr.","Atlas: t. 19, f. 6","","1812",kew-399185
+kew-399193,A,Poaceae,,Beckmannia,,"hirsutiflora",,"","(Roshev.) Prob.",Synonym,,H,WCSP,399193,908436-1,"Bot. Zhurn. (Moscow & Leningrad)","66: 1588","","1981",kew-399194
+kew-399194,A,Poaceae,,Beckmannia,,"syzigachne",,"","(Steud.) Fernald",Accepted,,H,WCSP,399194,30332-2,"Rhodora","30: 27","","1928",
+kew-399196,A,Poaceae,,Beckmannia,,"syzigachne",subsp.,"baicalensis","(Kusn.) T.Koyama & Kawano",Synonym,,L,WCSP,399196,30333-2,"Canad. J. Bot.","42: 879","","1964",kew-399194
+tro-25517581,A,Poaceae,,Beckmannia,,"syzigachne",subsp.,"baicalensis","(V.A. Kusn.) Hultén",Synonym,,L,TRO,25517581,,"Kongl. Svenska Vetensk. Acad. Handl., n.s.","5(1): 119","119","1962",kew-399194
+kew-399195,A,Poaceae,,Beckmannia,,"syzigachne",f.,"eriantha","Kitag.",Synonym,,L,WCSP,399195,,"Rep. Inst. Sci. Res. Manchoukuo","2: 284","","1938",kew-399194
+kew-399197,A,Poaceae,,Beckmannia,,"syzigachne",subsp.,"hirsutiflora","(Roshev.) Tzvelev",Synonym,,L,WCSP,399197,,"Novosti Sist. Vyssh. Rast.","5: 24","","1968",kew-399194
+kew-399198,A,Poaceae,,Beckmannia,,"syzigachne",var.,"hirsutiflora","Roshev.",Synonym,,L,WCSP,399198,,"Fl. URSS","2: 291","","1934",kew-399194
+tro-25510754,A,Poaceae,,Beckmannia,,"syzigachne",subsp.,"syzigachne","",Synonym,,L,TRO,25510754,,"","","","",kew-399194
+tro-25561771,A,Poaceae,,Beckmannia,,"syzigachne",var.,"syzigachne","",Synonym,,L,TRO,25561771,,"","","","",kew-399194
+kew-399199,A,Poaceae,,Beckmannia,,"syzigachne",var.,"uniflora","(Scribn. ex A.Gray) B.Boivin",Synonym,,L,WCSP,399199,30334-2,"Naturaliste Canad.","94: 521","","1967",kew-399194

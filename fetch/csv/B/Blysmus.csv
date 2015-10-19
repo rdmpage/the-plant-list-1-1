@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-221786,A,Cyperaceae,,Blysmus,,"bonannii",,"","(C.Presl) Steud.",Synonym,,H,WCSP,221786,298077-1,"Nomencl. Bot.","ed. 2, 1: 212","","1840",kew-263443
+kew-221787,A,Cyperaceae,,Blysmus,,"brevifolius",,"","Decne.",Synonym,,H,WCSP,221787,298078-1,"Voy. Inde","4: 173","","1844",kew-221789
+kew-221788,A,Cyperaceae,,Blysmus,,"compressus",,"","(L.) Panz. ex Link",Accepted,,H,WCSP,221788,1144343-2,"Hort. Berol.","1: 278","","1827",
+kew-221789,A,Cyperaceae,,Blysmus,,"compressus",var.,"brevifolius","(Decne.) Karth.",Accepted,,L,WCSP,221789,,"Fl. Ind. Enumerat. - Monocot.","32","","1989",
+kew-221790,A,Cyperaceae,,Blysmus,,"compressus",subsp.,"brevifolius","(Decne.) Kukkonen",Synonym,,L,WCSP,221790,985949-1,"Ann. Bot. Fenn.","32: 154","","1995",kew-221789
+kew-221791,A,Cyperaceae,,Blysmus,,"compressus",subsp.,"compressus","",Synonym,,L,WCSP,221791,,"Unknown","","","",kew-221788
+kew-221792,A,Cyperaceae,,Blysmus,,"compressus",var.,"dissitus","(Duthie) Karth.",Accepted,,L,WCSP,221792,,"Fl. Ind. Enumerat. - Monocot.","32","","1989",
+kew-221793,A,Cyperaceae,,Blysmus,,"compressus",f.,"gracilis","(Zapal.) Soó",Synonym,,L,WCSP,221793,879461-1,"Acta Bot. Acad. Sci. Hung.","16: 368","","1970 publ. 1971",kew-221788
+kew-221794,A,Cyperaceae,,Blysmus,,"compressus",var.,"sikkimensis","(C.B.Clarke) Karth.",Synonym,,L,WCSP,221794,,"Fl. Ind. Enumerat. - Monocot.","32","","1989",kew-221789
+kew-221796,A,Cyperaceae,,Blysmus,,"distichus",,"","(Peterm.) Montandon",Synonym,,H,WCSP,221796,,"Bull. Murith. Soc. Valais. Sci. Nat.","346","","1868",kew-221788
+kew-221797,A,Cyperaceae,,Blysmus,,"exilis",,"","(Printz) N.A.Ivanova",Synonym,,H,WCSP,221797,,"Bot. Zhurn. S.S.S.R.","24: 502","","1939",kew-221799
+kew-221798,A,Cyperaceae,,Blysmus,,"mongolicola",,"","Kitag.",Accepted,,H,WCSP,221798,298082-1,"J. Jap. Bot.","44: 274","","1969",
+kew-221799,A,Cyperaceae,,Blysmus,,"rufus",,"","(Huds.) Link",Accepted,,H,WCSP,221799,298083-1,"Hort. Berol.","1: 278","","1827",
+kew-221785,A,Cyperaceae,,Blysmus,,"rufus",var.,"bifolius","(Wallr.) Nyman",Synonym,,L,WCSP,221785,,"Consp. Fl. Eur.","Suppl. 2(1): 318","","1889",kew-221799
+kew-452910,A,Cyperaceae,,Blysmus,,"rufus",subsp.,"exilis","Printz",Synonym,,L,WCSP,452910,,"Veg. Siber.-Mongol. Front.","171","","1921",kew-221799
+kew-221800,A,Cyperaceae,,Blysmus,,"sinocompressus",,"","Tang & F.T.Wang",Accepted,,H,WCSP,221800,298084-1,"in Fl. Reipubl. Popul. Sin.","11: 41, 224","","1961",
+kew-464313,A,Cyperaceae,,Blysmus,,"sinocompressus",var.,"sinocompressus","",Synonym,,L,WCSP,464313,,"Unknown","","","",kew-221800
+kew-221801,A,Cyperaceae,,Blysmus,,"tenuis",,"","Gilli",Synonym,,H,WCSP,221801,298085-1,"Repert. Spec. Nov. Regni Veg.","46: 48","","1939",kew-221788

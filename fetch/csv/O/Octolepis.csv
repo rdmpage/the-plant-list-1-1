@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50279919,A,Thymelaeaceae,,Octolepis,,"aymoniniana",,"","Z.S. Rogers",Accepted,,M,TRO,50279919,60439150-2,"Adansonia, sér. 3,","27(1): 94–97, f. 2F, 3, 7 [map]","94","2005",
+kew-2395890,A,Thymelaeaceae,,Octolepis,,"casearia",,"","Oliv.",Accepted,,M,WCSP (in review),,,"J. Linn. Soc., Bot.","8: 161","","1865",
+tro-50279923,A,Thymelaeaceae,,Octolepis,,"casearia",var.,"casearia","",Synonym,,L,TRO,50279923,,"","","","",kew-2395890
+tro-50279924,A,Thymelaeaceae,,Octolepis,,"casearia",var.,"flamignii","(De Wild.) Z.S. Rogers",Accepted,,L,TRO,50279924,77066914-1,"Adansonia, sér. 3,","27(1): 101","101","2005",
+tro-50232248,A,Thymelaeaceae,,Octolepis,,"congolana",,"","(Baill.) Warb.",Synonym,,M,TRO,50232248,832257-1,"Nat. Pflanzenfam.","3(6a): 56","56","1893",kew-2395890
+kew-2395887,A,Thymelaeaceae,,Octolepis,,"decalepis",,"","Gilg",Accepted,,M,WCSP (in review),,832258-1,"Bot. Jahrb. Syst.","28: 142","","1899",
+tro-50232242,A,Thymelaeaceae,,Octolepis,,"dinklagei",,"","Gilg",Synonym,,M,TRO,50232242,832259-1,"Bot. Jahrb. Syst.","28(1): 143–144","143","1899",kew-2395890
+tro-32000572,A,Thymelaeaceae,,Octolepis,,"dioica",,"","Capuron",Accepted,,M,TRO,32000572,832260-1,"Adansonia, n.s.","3(1): 138–140, pl. 2 (f. 1–10)","138","1963",
+tro-32000573,A,Thymelaeaceae,,Octolepis,,"dioica",f.,"macrocarpa","Capuron",Synonym,,L,TRO,32000573,,"Adansonia, n.s.","3(1): 140, pl. 2 (f. 11)","140","1963",tro-32000572
+tro-32000574,A,Thymelaeaceae,,Octolepis,,"dioica",f.,"oblanceolata","Capuron",Synonym,,L,TRO,32000574,77066937-1,"Adansonia, n.s.","3(1): 140, pl. 2 (f. 11)","140","1963",tro-50279922
+tro-50231521,A,Thymelaeaceae,,Octolepis,,"flamignii",,"","De Wild.",Synonym,,M,TRO,50231521,832261-1,"Études Fl. Bas- Moyen-Congo","3(1): 117–118, pl. 18","117","1909",tro-50279924
+tro-50279921,A,Thymelaeaceae,,Octolepis,,"ibityensis",,"","Z.S. Rogers",Accepted,,M,TRO,50279921,77066915-1,"Adansonia, sér. 3,","27(1): 104–106, f. 2E, 5, 8 [map]","104","2005",
+tro-50232243,A,Thymelaeaceae,,Octolepis,,"macrophylla",,"","Gilg",Synonym,,M,TRO,50232243,832262-1,"Bot. Jahrb. Syst.","28(1–2): 144–145","144","1899",kew-2395890
+tro-50232241,A,Thymelaeaceae,,Octolepis,,"nodosericea",,"","Gilg",Synonym,,M,TRO,50232241,832263-1,"Bot. Jahrb. Syst.","28(1): 143","143","1899",kew-2395890
+tro-50279922,A,Thymelaeaceae,,Octolepis,,"oblanceolata",,"","(Capuron) Z.S. Rogers",Accepted,,M,TRO,50279922,77066938-1,"Adansonia, sér. 3,","27(1): 106","106","2005",
+tro-50232244,A,Thymelaeaceae,,Octolepis,,"pierreana",,"","Gilg",Synonym,,M,TRO,50232244,,"Veg. Erde","9/3(2): 628","628","1921",kew-2395890
+tro-50279920,A,Thymelaeaceae,,Octolepis,,"ratovosonii",,"","Z.S. Rogers",Accepted,,M,TRO,50279920,77066939-1,"Adansonia, sér. 3,","27(1): 108–110, f. 2G–H, 6, 7 [map]","108","2005",

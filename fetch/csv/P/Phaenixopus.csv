@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-85022,A,Compositae,,Phaenixopus,,"acanthifolius",,"","(Willd.) Cass.",Synonym,,M,TICA,4F9178B0-C67E-4B91-94BF-77BE7B838FAB,,"in Dict. Sci. Nat. xlviii. 426 (1826).","","","",gcc-101225
+gcc-110479,A,Compositae,,Phaenixopus,,"alpestris",,"","Gand.",Synonym,,M,TICA,8CFFB852-F68B-4A59-8D3F-B0FB489F24C4,,"","","155","1914",gcc-138666
+gcc-41697,A,Compositae,,Phaenixopus,,"chondrillaeflorus",,"","Fourr.",Unresolved,,L,TICA,EB738F28-F44E-487A-BD36-4D36B7A6A8D5,,"""Ann. Soc. Linn. Lyon sér. 2, 17: 102""","","102","1869",
+gcc-151835,A,Compositae,,Phaenixopus,,"chondrilliflorus",,"","(Boreau) Fourr.",Unresolved,,L,TICA,55193C46-0ACB-42A6-B8A8-8D2168025306,,"""Fourr. in Ann. Soc. Linn. Lyon, Sér. 2 17. 1869""","","102","1869",
+gcc-96891,A,Compositae,,Phaenixopus,,"decurrens",,"","Cass.",Synonym,Illegitimate,M,TICA,A564C554-FB02-4EDF-89F8-9291197BE2AA,,"in Dict. Sc. Nat. xxxix. 391.","","","1826",gcc-9159
+gcc-93246,A,Compositae,,Phaenixopus,,"kotschyi",,"","Boiss.",Unresolved,,L,TICA,A37BD191-8C25-4333-89F4-8A5296472D4E,237451-1,"Fl. Orient. [Boissier] 3: 818","","818","1875",
+gcc-152719,A,Compositae,,Phaenixopus,,"muralis",,"","(L.) W.D.J.Koch",Synonym,,L,TICA,02847C10-0CD8-44F9-8DD2-9F70991AAEDB,237452-1,"""W. D. J. Koch, Syn. Fl. Germ. Helv.. 1837""","","430","1837",gcc-116089
+gcc-86204,A,Compositae,,Phaenixopus,,"muralis",,"","Koch",Unresolved,,L,TICA,7D8AA79D-6867-4E27-8B10-7A65A4A878C0,,"Syn. Fl. Germ. Helv. (Koch) 1(2): 430","","430","1837",
+gcc-148401,A,Compositae,,Phaenixopus,,"orientalis",,"","(Boiss.) Sosn.",Synonym,,M,TICA,A4F37D97-448C-4EB1-ACC8-41BE3085492B,,"""D.I. Sosnowsky - in Takhtajan & Fedorov, Fl. Erevana. 1945""","","339","1945",gcc-138369
+gcc-29934,A,Compositae,,Phaenixopus,,"orientalis",,"","Boiss.",Unresolved,,L,TICA,ACD30D71-9B08-45C5-A36E-375B61BE1C3E,237453-1,"Voy. Bot. Espagne ii. 390","","390","",
+gcc-109091,A,Compositae,,Phaenixopus,,"ramosissimus",,"","(All.) Cass.",Synonym,,M,TICA,48EA2406-AC63-41A6-AD65-ADD9708A580D,,"in Dict. Sc. Nat. xxxix. 392; Reichb. Fl. Germ. Excurs. 272.","","","1826",gcc-55688
+gcc-128352,A,Compositae,,Phaenixopus,,"spinosus",,"","(Forssk.) Cass.",Synonym,,M,TICA,266138AD-F1AC-4E44-909C-D9D80FEE5FAC,,"in Dict. Sci. Nat. xlviii. 426.","","","1824",gcc-2931
+gcc-8848,A,Compositae,,Phaenixopus,,"triqueter",,"","DC.",Unresolved,,L,TICA,691669FB-131F-4D9A-B529-10908705CC1D,237456-1,"Prodr. (DC.) 7(1): 176","","176","1838",
+gcc-99780,A,Compositae,,Phaenixopus,,"vimineus",,"","(L.) Rchb.",Synonym,,M,TICA,AA8498E4-E281-4271-93D6-991BFBC7EB08,237457-1,"Fl. Germ. Excurs. 272","","272","1831",gcc-9159

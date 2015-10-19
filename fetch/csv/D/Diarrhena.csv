@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-25511830,A,Poaceae,,Diarrhena,,"americana",,"","P. Beauv.",Accepted,,M,TRO,25511830,398452-1,"Ess. Agrostogr.","142, t. 25, f. 2","142","1812",
+tro-25518364,A,Poaceae,,Diarrhena,,"americana",var.,"americana","",Synonym,,L,TRO,25518364,,"","","","",tro-25511830
+kew-408388,A,Poaceae,,Diarrhena,,"americana",var.,"obovata","Gleason",Unresolved,,L,WCSP,408388,79003-2,"Phytologia","4: 21","","1952",kew-408404
+kew-408389,A,Poaceae,,Diarrhena,,"aquatica",,"","(L.) Raspail",Synonym,,H,WCSP,408389,398453-1,"Ann. Sci. Nat. (Paris)","5: 447","","1825",kew-403714
+kew-408390,A,Poaceae,,Diarrhena,,"arundinacea",,"","(Zea ex Lag.) Rydb.",Unresolved,,L,WCSP,408390,79004-2,"Fl. Plains N. Amer.","114","","1932",
+kew-408392,A,Poaceae,,Diarrhena,,"diandra",,"","Alph.Wood",Unresolved,,L,WCSP,408392,398456-1,"Class-book Bot.","793","","1861",
+kew-408393,A,Poaceae,,Diarrhena,,"divaricata",,"","(Gouan) Raspail",Synonym,,H,WCSP,408393,398458-1,"Ann. Sci. Nat. (Paris)","5: 447","","1825",kew-443897
+kew-408394,A,Poaceae,,Diarrhena,,"fauriei",,"","(Hack.) Ohwi",Accepted,,H,WCSP,408394,398459-1,"Acta Phytotax. Geobot.","10: 135","","1941",
+tro-50082032,A,Poaceae,,Diarrhena,,"fauriei",var.,"koryoensis","(Honda) I.C. Chung",Synonym,,L,TRO,50082032,,"J. Wash. Acad. Sci.","45(7): 215","215","1955",kew-408394
+kew-408395,A,Poaceae,,Diarrhena,,"festucoides",,"","Raspail",Synonym,,H,WCSP,408395,398460-1,"Ann. Sci. Nat. (Paris)","5: 447","","1825",kew-406066
+kew-408396,A,Poaceae,,Diarrhena,,"festucoides",,"","(Raf.) Fernald",Unresolved,Illegitimate,L,WCSP,408396,79005-2,"Rhodora","34: 204","","1932",
+kew-408397,A,Poaceae,,Diarrhena,,"japonica",,"","Franch. & Sav.",Accepted,,H,WCSP,408397,398462-1,"Enum. Pl. Jap.","2: 603","","1878",
+kew-408398,A,Poaceae,,Diarrhena,,"koryoensis",,"","Honda",Synonym,,H,WCSP,408398,398464-1,"Koryo-shikenrin-no-ippan","79","","1932",kew-408394
+kew-408399,A,Poaceae,,Diarrhena,,"littoralis",,"","(P.Beauv.) Raspail",Synonym,,H,WCSP,408399,398465-1,"Ann. Sci. Nat. (Paris)","5: 447","","1825",kew-391622
+kew-408400,A,Poaceae,,Diarrhena,,"mandshurica",,"","Maxim.",Accepted,,H,WCSP,408400,398466-1,"Bull. Acad. Imp. Sci. Saint-Pétersbourg","32: 628","","1888",
+kew-408401,A,Poaceae,,Diarrhena,,"maritima",,"","(L.) Raspail",Synonym,,H,WCSP,408401,398467-1,"Ann. Sci. Observ.","1: 430","","1829",kew-406071
+kew-408403,A,Poaceae,,Diarrhena,,"nekka-montana",,"","Honda",Synonym,,H,WCSP,408403,398468-1,"Rep. Exped. Manchoukou Sect. IV","4: 101","","1936",kew-408394
+kew-408404,A,Poaceae,,Diarrhena,,"obovata",,"","(Gleason) Brandenburg",Unresolved,,L,WCSP,408404,962720-1,"Bull. Torrey Bot. Club","118: 135","","1991",
+kew-408405,A,Poaceae,,Diarrhena,,"setacea",,"","(Poir.) Roem. & Schult.",Synonym,,H,WCSP,408405,398469-1,"Syst. Veg.","1: 289","","1817",kew-450062
+kew-408406,A,Poaceae,,Diarrhena,,"sinica",,"","K.S.Hao",Accepted,,H,WCSP,408406,398470-1,"Repert. Spec. Nov. Regni Veg.","42: 83","","1937",
+kew-408407,A,Poaceae,,Diarrhena,,"yabeana",,"","Kitag.",Synonym,,H,WCSP,408407,398471-1,"Bot. Mag. (Tokyo)","51: 150","","1937",kew-408394
+kew-408408,A,Poaceae,,Diarrhena,,"yabeana",f.,"pilosa","Kitag.",Synonym,,L,WCSP,408408,,"Bot. Mag. (Tokyo)","51: 150","","1937",kew-408394

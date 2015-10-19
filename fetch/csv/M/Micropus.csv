@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-143120,A,Compositae,,Micropus,,"amphibolus",,"","A.Gray",Accepted,,M,TICA,90D2F37D-5F37-489F-BECA-FB2B98913D34,160445-2,"","","214","1882",
+gcc-116418,A,Compositae,,Micropus,,"angustifolius",,"","Nutt.",Unresolved,,L,TICA,44C8EC94-4F1C-4338-B70A-BE5DF2300059,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 339""","","339","1840",
+gcc-9047,A,Compositae,,Micropus,,"bombycinus",,"","Lag.",Synonym,,M,TICA,D3C0CD01-49B0-42B1-A981-10EDF0B277BB,232562-1,"","","32","1816",gcc-27592
+gcc-111943,A,Compositae,,Micropus,,"brevissimus",,"","Walp.",Unresolved,,L,TICA,1985B2A0-620C-4C25-95A2-B448CB1EF3C2,232563-1,"Repert. Bot. Syst. (Walpers) ii. 600","","600","",
+gcc-118510,A,Compositae,,Micropus,,"californicus",,"","Fisch. & C.A.Mey.",Accepted,,M,TICA,9488D378-D447-4717-A80A-C32336DFD748,1093550-2,"","","42","1836",
+gcc-5954,A,Compositae,,Micropus,,"californicus",var.,"californicus","",Synonym,,L,TICA,198E1116-54A4-4657-8D3D-0B13D77CEF02,,"","","","1835",gcc-118510
+gcc-5750,A,Compositae,,Micropus,,"caulescens",,"","(Benth.) Walp.",Synonym,,M,TICA,EF71F679-3E54-4EBB-885A-0AB24F539353,,"Ann. ii. 842.","","","1852",gcc-97179
+gcc-120894,A,Compositae,,Micropus,,"conyzaeus",,"","Dubois",Unresolved,,L,TICA,373BFBA9-90E0-4238-B8CD-C89415420113,,"Meth. ed. II. 386.","","II. 386","",
+gcc-134607,A,Compositae,,Micropus,,"dasycarpa",,"","(Griseb.) P.Beauv.",Accepted,,M,TICA,0E1733F4-4428-4C7C-B02A-E82947D5FF76,,"","","","",
+gcc-117557,A,Compositae,,Micropus,,"discolor",,"","Pers.",Synonym,,M,TICA,0CE73F3A-B223-41C9-AD8F-C0F3EAD580F1,232567-1,"","","423","1807",gcc-27592
+gcc-36653,A,Compositae,,Micropus,,"erectus",,"","L.",Synonym,,M,TICA,D3F72CAB-212C-44BB-83CF-43F5536B16F9,232569-1,"","","","1753",gcc-125016
+gcc-79652,A,Compositae,,Micropus,,"erectus",,"","Ten. ex Nyman",Unresolved,,L,TICA,AE08CD71-2796-4978-A7FF-6BDF6BC3E284,,"Consp. 395.","","395","",
+gcc-54124,A,Compositae,,Micropus,,"erectus",subsp.,"bombicinus","(Lag.) Rouy",Synonym,,L,TICA,C1CCCD9D-D1EB-48BE-81D6-6BA2D81E6EE8,,"Rouy. 1903.","","170","1903",gcc-27592
+tro-50165426,A,Compositae,,Micropus,,"erectus",var.,"discolor","Pers.",Synonym,,L,TRO,50165426,,"","","","",gcc-27592
+gcc-152689,A,Compositae,,Micropus,,"erectus",subsp.,"erectus","",Synonym,,L,TICA,FC611585-BF36-48C5-93B4-9EB77ED037E1,,"","","","",gcc-125016
+gcc-118909,A,Compositae,,Micropus,,"exiguus",,"","d'Urv.",Unresolved,,L,TICA,7F2397EF-D2F8-49C8-88C5-C413C8FDE474,232570-1,"in Mem. Soc. Linn. Par. i. (1822) 365.","","i.  365","1822",
+gcc-29248,A,Compositae,,Micropus,,"flavicans",,"","Lag.",Unresolved,,L,TICA,E3B8EDD4-B71F-4391-908C-360E61967CDC,,"Elenchus Plantarum","","10","1816",
+gcc-103160,A,Compositae,,Micropus,,"globiferus",,"","Bertero ex DC.",Synonym,,M,TICA,29A8A0CC-2E25-4F61-B1EB-A0A48D349FE5,,"Prodr. (DC.) 5","","","1836",gcc-21415
+gcc-103480,A,Compositae,,Micropus,,"globiferus",,"","Bertero",Unresolved,,L,TICA,11F439D1-B797-4CE6-A837-A15FF47776AD,,"in Merc. Chil. 1829; ex Am. Journ. Sc. xxiii. (1833) 254.","","","1829",
+gcc-89479,A,Compositae,,Micropus,,"grayana",,"","Hemsl.",Unresolved,Illegitimate,L,TICA,3FD1FCCD-1FAF-4C6F-BC83-81CC2B1D4BF3,,"""Biol. Cent.-Amer., Bot. ii. 135""","","135","1881",
+gcc-104019,A,Compositae,,Micropus,,"heterophyllus",,"","Nutt.",Unresolved,,L,TICA,412179D3-71C1-4153-8E41-A2972840804A,,"","","","",
+gcc-78732,A,Compositae,,Micropus,,"longifolius",,"","Boiss. & Reut.",Synonym,,M,TICA,DFD00342-DC38-45D4-985C-69D4E5E5C28F,,"","","","1875",gcc-38306
+gcc-46012,A,Compositae,,Micropus,,"mareoticus",,"","Spreng.",Unresolved,,L,TICA,D7FA11A0-888D-4B0C-B66D-5549DCAEF784,232576-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 499","","499","1826",
+gcc-83552,A,Compositae,,Micropus,,"minimus",,"","DC.",Unresolved,,L,TICA,642B60D4-7B75-460D-A67E-748F16BB7DED,327913-2,"Prodr. (DC.) 5: 461","","461","1836",
+gcc-143883,A,Compositae,,Micropus,,"multicaulis",,"","Dubois",Unresolved,,L,TICA,D8E2631B-3437-40B6-A6CB-FCDCB907151F,,"Meth. ed. II. 386.","","II. 386.","",
+gcc-86919,A,Compositae,,Micropus,,"oregonus",,"","Walp.",Unresolved,,L,TICA,96617949-7A76-4FA0-B89F-7C075B5955C4,232579-1,"Repert. Bot. Syst. (Walpers) ii. 600","","600","",
+gcc-112711,A,Compositae,,Micropus,,"pygmaeus",,"","Desf.",Unresolved,,L,TICA,4444AD69-1D5A-4712-A899-B60EBE17FE29,232580-1,"Fl. Atlant. ii. 307.","","ii. 307","",
+gcc-139014,A,Compositae,,Micropus,,"supinus",,"","L.",Accepted,,M,TICA,F5E70724-1EFF-434E-9E8B-F1D2B1CC5F77,232581-1,"","","927","1753",
+gcc-132908,A,Compositae,,Micropus,,"tenellus",,"","Walp.",Unresolved,,L,TICA,631F7858-F348-4D92-B253-E455232E6A09,232582-1,"Repert. Bot. Syst. (Walpers) ii. 600","","600","",

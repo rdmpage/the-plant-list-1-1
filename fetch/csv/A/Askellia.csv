@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-10312,A,Compositae,,Askellia,,"alaica",,"","(Krasch.) W.A.Weber",Accepted,,M,TICA,2E00A6D8-86FC-4CC6-A456-134116BCB447,913688-1,"","","6","1984",
+gcc-88958,A,Compositae,,Askellia,,"corniculata",,"","(Regel & Schmalh.) W.A.Weber",Accepted,,M,TICA,44A5D955-4674-4613-90A9-80976C75FF97,913689-1,"","","6","1984",
+gcc-117034,A,Compositae,,Askellia,,"elegans",,"","(Hook.) W.A.Weber",Accepted,,M,TICA,D753FDFF-7897-494E-921C-BFBD5BC802E3,913690-1,"Phytologia 55","","6","1984",
+gcc-87837,A,Compositae,,Askellia,,"flexuosa",,"","(Ledeb.) W.A.Weber",Accepted,,M,TICA,CADC60AC-54AD-4411-9BE1-7E2276460BD3,913691-1,"","","6","1984",
+gcc-150849,A,Compositae,,Askellia,,"jacutica",,"","(Lomon.) Sennikov",Accepted,,M,TICA,D6392D16-CB6E-4604-9D3E-779E04A5D6B7,77099952-1,"Sennikov in Komarovia 5. 2008","","89","2008",
+gcc-131667,A,Compositae,,Askellia,,"karelinii",,"","(Popov & Schischk. ex Czerep.) W.A.Weber",Accepted,,M,TICA,3819596C-65CF-4659-9189-E16C3534E67F,,"","","6","1984",
+gcc-2117,A,Compositae,,Askellia,,"lactea",,"","(Lipsch.) W.A.Weber",Accepted,,M,TICA,5BAAEBDE-3303-469C-BCB1-03C9EE430BBB,913693-1,"","","7","1984",
+gcc-154097,A,Compositae,,Askellia,,"ladyginii",,"","Tzvelev",Synonym,,M,TICA,8869CC47-E956-49F1-8590-BC5F78A011B0,,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1751","2007",gcc-131667
+gcc-146735,A,Compositae,,Askellia,,"melanthera",,"","(C.H.An) Tzvelev",Synonym,,M,TICA,83B81987-2874-43F6-8F68-1EE135309A93,77089383-1,"N.N. Tzvelev in Bot. Zhurn. 92. 2007","","1752","2007",gcc-87837
+gcc-146476,A,Compositae,,Askellia,,"minuta",,"","(Kitam.) Sennikov",Synonym,,M,TICA,D937B62F-841A-4822-BE20-19568E227608,77099955-1,"Sennikov in Komarovia 5. 2008","","89","2008",gcc-2117
+gcc-118284,A,Compositae,,Askellia,,"nana",,"","(Richardson) W.A.Weber",Synonym,,M,TICA,8AE8792C-1AF5-441D-9725-C29493F770EA,913694-1,"Phytologia 55","","7","1984",gcc-147557
+gcc-69900,A,Compositae,,Askellia,,"nana",subsp.,"nana","",Synonym,,L,TICA,A158C575-F4FF-4344-9FC7-E9F4F95882A4,,"","","","1984",gcc-147557
+gcc-60310,A,Compositae,,Askellia,,"nana",subsp.,"ramosa","(Babc.) W.A.Weber",Synonym,,L,TICA,0909B064-FB89-4F60-9952-9D659C6E04FA,922986-1,"Phytologia 55","","7","1984",gcc-147557
+gcc-155986,A,Compositae,,Askellia,,"naniformis",,"","(Babc.) Sennikov",Accepted,,M,TICA,11B3FF38-C261-4A26-B6B6-E41ECF2263A9,77099953-1,"Sennikov in Komarovia 5. 2008","","89","2008",
+gcc-145358,A,Compositae,,Askellia,,"pseudonaniformis",,"","(C.Shih) Sennikov",Accepted,,M,TICA,76036301-B41B-493F-B710-0287C73777EF,77099954-1,"Sennikov in Komarovia 5. 2008","","89","2008",
+gcc-147557,A,Compositae,,Askellia,,"pygmaea",,"","(Ledeb.) Sennikov",Accepted,,M,TICA,E9CC3E01-D179-4734-9CA6-3003757D4AFE,77099951-1,"Sennikov in Komarovia 5. 2008","","86","2008",
+gcc-110290,A,Compositae,,Askellia,,"sogdiana",,"","(Krasch.) W.A.Weber",Accepted,,M,TICA,38D80E4A-E078-4D22-BCC6-B08BC81D8CFA,913695-1,"","","7","1984",

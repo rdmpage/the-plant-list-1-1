@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2624883,G,Podocarpaceae,,Afrocarpus,,"dawei",,"","(Stapf) C.N.Page",Accepted,,H,WCSP,382085,946477-1,"Notes Roy. Bot. Gard. Edinburgh","45: 384","","1988 publ. 1989",
+kew-2624884,G,Podocarpaceae,,Afrocarpus,,"falcatus",,"","(Thunb.) C.N.Page",Accepted,,H,WCSP,382086,946473-1,"Notes Roy. Bot. Gard. Edinburgh","45: 383","","1988 publ. 1989",
+kew-467935,G,Podocarpaceae,,Afrocarpus,,"falcatus",subsp.,"gaussenii","(Woltz) Silba",Synonym,,L,WCSP,467935,77109811-1,"J. Int. Conifer Preserv. Soc.","17: 21","","2010",kew-2624884
+kew-468127,G,Podocarpaceae,,Afrocarpus,,"falcatus",subsp.,"gracilior","(Pilg.) Silba",Synonym,,L,WCSP,468127,77109812-1,"J. Int. Conifer Preserv. Soc.","17: 21","","2010",kew-2624886
+kew-468158,G,Podocarpaceae,,Afrocarpus,,"falcatus",subsp.,"milanjianus","(Rendle) Silba",Synonym,,L,WCSP,468158,77109813-1,"J. Int. Conifer Preserv. Soc.","17: 21","","2010",kew-2567537
+kew-2624885,G,Podocarpaceae,,Afrocarpus,,"gaussenii",,"","(Woltz) C.N.Page",Synonym,,H,WCSP,382087,946478-1,"Notes Roy. Bot. Gard. Edinburgh","45: 384","","1988 publ. 1989",kew-2624884
+kew-2624886,G,Podocarpaceae,,Afrocarpus,,"gracilior",,"","(Pilg.) C.N.Page",Accepted,,H,WCSP,382088,946474-1,"Notes Roy. Bot. Gard. Edinburgh","45: 383","","1988 publ. 1989",
+kew-2624887,G,Podocarpaceae,,Afrocarpus,,"mannii",,"","(Hook.f.) C.N.Page",Accepted,,H,WCSP,382089,946475-1,"Notes Roy. Bot. Gard. Edinburgh","45: 384","","1988 publ. 1989",
+kew-468159,G,Podocarpaceae,,Afrocarpus,,"mannii",subsp.,"dawei","(Stapf) Silba",Synonym,,L,WCSP,468159,77109814-1,"J. Int. Conifer Preserv. Soc.","17: 21","","2010",kew-2624883
+kew-468126,G,Podocarpaceae,,Afrocarpus,,"mannii",subsp.,"usambarensis","(Pilg.) Silba",Synonym,,L,WCSP,468126,77109815-1,"J. Int. Conifer Preserv. Soc.","17: 21","","2010",kew-2624888
+kew-2624888,G,Podocarpaceae,,Afrocarpus,,"usambarensis",,"","(Pilg.) C.N.Page",Accepted,,H,WCSP,382090,946476-1,"Notes Roy. Bot. Gard. Edinburgh","45: 384","","1988 publ. 1989",

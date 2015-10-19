@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-99059,A,Compositae,,Arctanthemum,,"arcticum",,"","(L.) Tzvelev",Accepted,,L,TICA,DE08CF43-1A3C-4581-9448-978664FCE08F,914868-1,"Novosti Sist. Vyssh. Rast. 22","","274","1985",
+gcc-12993,A,Compositae,,Arctanthemum,,"arcticum",subsp.,"arcticum","",Synonym,,L,TICA,AE36157E-5146-42F3-834E-1834FFADEF04,,"","","","1987",gcc-99059
+gcc-62274,A,Compositae,,Arctanthemum,,"arcticum",subsp.,"kurilense","(Tzvelev) Tzvelev",Accepted,,L,TICA,1FEA9724-1E60-4A51-AA0F-AD519AC8D495,953987-1,"","","115","1987",
+gcc-72639,A,Compositae,,Arctanthemum,,"arcticum",subsp.,"polare","(Hultén) Tzvelev",Accepted,,L,TICA,6F5429E0-9249-4F2B-9156-FF902F4BC37B,953988-1,"","","116","1987",
+gcc-126010,A,Compositae,,Arctanthemum,,"hultenii",,"","(Á.Löve & D.Löve) Tzvelev",Synonym,,M,TICA,A36091E3-1F1A-4B5E-B4ED-D4583A3277A2,914869-1,"Novosti Sist. Vyssh. Rast. 22","","274","1985",gcc-72639
+gcc-138872,A,Compositae,,Arctanthemum,,"integrifolium",,"","(Richardson) Tzvelev",Accepted,,M,TICA,89563F15-BADD-4225-85C3-F1864F7E1588,914870-1,"Novosti Sist. Vyssh. Rast. 22","","274","1985",
+gcc-101614,A,Compositae,,Arctanthemum,,"kurilense",,"","(Tzvelev) Tzvelev",Synonym,,M,TICA,9AE4C385-5642-422F-B10B-9D295B7DEE44,914871-1,"Novosti Sist. Vyssh. Rast. 22","","274","1985",gcc-62274

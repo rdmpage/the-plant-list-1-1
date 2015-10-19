@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-25518546,A,Poaceae,,Lycurus,,"alopecuroides",,"","Griseb.",Synonym,,L,TRO,25518546,407714-1,"Abh. Königl. Ges. Wiss. Göttingen","19: 255–256","255","1874",kew-458407
+kew-423178,A,Poaceae,,Lycurus,,"alopecurus",,"","Griseb.",Synonym,,H,WCSP,423178,,"Abh. Königl. Ges. Wiss. Göttingen","19: 255","","1874",kew-423185
+kew-423179,A,Poaceae,,Lycurus,,"muticus",,"","Spreng.",Synonym,,H,WCSP,423179,407715-1,"Syst. Veg.","4(2): 32","","1827",kew-410751
+kew-423180,A,Poaceae,,Lycurus,,"phalaroides",,"","Kunth",Accepted,,L,WCSP,423180,407716-1,"Nov. Gen. Sp.","1: 142","","1816",
+tro-50291780,A,Poaceae,,Lycurus,,"phalaroides x l setosus",,"","Sanchez & Rugolo de Agrasar",Unresolved,,L,TRO,50291780,,"Parodiana","4: 303","303","1986",
+kew-423181,A,Poaceae,,Lycurus,,"phleoides",,"","Kunth",Accepted,,L,WCSP,423181,407717-1,"Nov. Gen. Sp.","1: t. 45","","1816",
+kew-423182,A,Poaceae,,Lycurus,,"phleoides",var.,"brevifolius","Scribn. ex Beal.",Synonym,,L,WCSP,423182,147764-2,"Grass. N. Amer.","2: 271","","1896",kew-423180
+kew-423183,A,Poaceae,,Lycurus,,"phleoides",var.,"glaucifolius","Beal",Synonym,,L,WCSP,423183,147765-2,"Grass. N. Amer.","2: 271","","1896",kew-423185
+tro-25537662,A,Poaceae,,Lycurus,,"phleoides",var.,"phleoides","",Synonym,,L,TRO,25537662,,"","","","",kew-423181
+kew-423184,A,Poaceae,,Lycurus,,"schaffineri",,"","(E.Fourn.) Mez",Synonym,,H,WCSP,423184,147766-2,"Repert. Spec. Nov. Regni Veg.","17: 212","","1921",kew-425032
+kew-423185,A,Poaceae,,Lycurus,,"setosus",,"","(Nutt.) C.Reeder",Accepted,,H,WCSP,423185,915245-1,"Phytologia","57: 287","","1985",

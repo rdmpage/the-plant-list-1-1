@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-130295,A,Compositae,,Carphephorus,,"atriplicifolius",,"","A.Gray",Synonym,,M,TICA,595E55F2-12AB-4118-BFAB-DE33F662A0B3,189378-1,"","","159","1861",gcc-148043
+gcc-877,A,Compositae,,Carphephorus,,"baicalensis",,"","(Adams) DC.",Synonym,,M,TICA,C9EC19DE-D10C-481A-B2B1-01A391B5A304,189379-1,"","","132","1836",gcc-32599
+gcc-112461,A,Compositae,,Carphephorus,,"bellidifolius",,"","(Michx.) Torr. & A.Gray",Accepted,,M,TICA,FF64A70E-C865-4FDE-A43E-B5814A525F69,189380-1,"","","66","1841",
+gcc-100694,A,Compositae,,Carphephorus,,"carnosus",,"","(Small) C.W.James",Synonym,,M,TICA,DFFFFF6E-6E70-4740-89EE-9B3426A5091A,47655-2,"Rhodora 60","","120","1958",gcc-87122
+gcc-90624,A,Compositae,,Carphephorus,,"coridifolius",,"","DC.",Accepted,,M,TICA,43F95A6D-D71F-4920-8395-84836C663147,189382-1,"","","267","1838",
+gcc-83668,A,Compositae,,Carphephorus,,"corymbosus",,"","(Nutt.) Torr. & A.Gray",Accepted,,M,TICA,2FFB701C-CDBE-4442-B543-74CE137E9A3E,189383-1,"","","67","1841",
+gcc-119043,A,Compositae,,Carphephorus,,"junceus",,"","Durand",Synonym,Illegitimate,M,TICA,9BC28B40-D15E-4E64-ADD4-C45C4253AD4B,,"","","","1857",gcc-106367
+gcc-124628,A,Compositae,,Carphephorus,,"junceus",,"","Benth.",Synonym,,M,TICA,2D3EF584-1463-4EFD-BE85-D126754F1311,189384-1,"","","21","1844",gcc-148725
+gcc-152474,A,Compositae,,Carphephorus,,"odoratissimus",,"","(J.F.Gmel.) H.J.-C.Hebert",Accepted,,M,TICA,BF740BBC-1A17-41F7-9F40-9A1265422F3D,47657-2,"Rhodora 70: 483. 1968.","","483","1968",
+gcc-24495,A,Compositae,,Carphephorus,,"odoratissimus",var.,"odoratissimus","",Synonym,,L,TICA,CCE3BF49-C27E-4AE0-99F2-2D38DD3822D5,,"","","","2001",gcc-152474
+gcc-10377,A,Compositae,,Carphephorus,,"odoratissimus",var.,"subtropicanus","Wunderlin & B.F.Hansen",Accepted,,L,TICA,FAB5BEAF-F2E6-4204-A4C1-1365554DD612,20001646-1,"Novon 11(3)","","366","2001",
+gcc-78490,A,Compositae,,Carphephorus,,"paniculatus",,"","(J.F.Gmel.) H.J.-C.Hebert",Accepted,,M,TICA,1B57B4F9-D9DB-4DDD-A586-694B3FBB07CA,47658-2,"Rhodora 70","","483","1968",
+gcc-30593,A,Compositae,,Carphephorus,,"pseudoliatris",,"","Cass.",Accepted,,M,TICA,F4D1C2F0-1582-4E2C-A1F6-38A5CF33E7B7,189388-1,"","","","1816",
+gcc-106830,A,Compositae,,Carphephorus,,"revolutifolius",,"","DC.",Synonym,,M,TICA,F53433A9-E9B7-4079-9D34-A8B7B880E57F,189389-1,"","","133","1836",gcc-151572
+gcc-13873,A,Compositae,,Carphephorus,,"subtropicanus",,"","DeLaney, N.Bissett & Weidenh.",Unresolved,,L,TICA,8664CF0F-189E-4672-AE94-19C83F795C76,1011495-1,"","","2","1999",gcc-10377
+gcc-88226,A,Compositae,,Carphephorus,,"tomentosus",,"","(Michx.) Torr. & A.Gray",Accepted,,M,TICA,BE916719-5E96-4BB8-B768-7EF7A8BEC0C4,30223937-2,"","","66","1841",
+gcc-49328,A,Compositae,,Carphephorus,,"tomentosus",var.,"tomentosus","",Synonym,,L,TICA,B057A0A7-A6A7-473A-8961-5B5E443C7DAE,,"","","","",gcc-88226
+gcc-65035,A,Compositae,,Carphephorus,,"tomentosus",var.,"walteri","(Elliott) Fernald",Synonym,,L,TICA,57B137E9-2C28-4240-B621-C343F5A56A90,47659-2,"Rhodora 42","","481","1940",gcc-88226
+gcc-44789,A,Compositae,,Carphephorus,,"triangularis",,"","(DC.) A.Gray",Synonym,Invalid,M,TICA,50ADD1FF-FE5F-4CF8-A81F-52F591CA71C1,189391-1,"","","86","1852",gcc-121231

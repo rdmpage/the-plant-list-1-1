@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-4804,A,Compositae,,Schistostephium,,"argyreum",,"","(DC.) Fenzl ex Harv.",Synonym,,M,TICA,EA340FA8-B550-4033-BA9A-08F0B54B2B08,,"Fl. Cap. iii. 168","","168","",gcc-87443
+gcc-135191,A,Compositae,,Schistostephium,,"artemisiifolium",,"","Baker",Accepted,,M,TICA,D98CE84F-6CD2-427F-8BB6-E96BAF28E18D,242856-1,"""Bull. Misc. Inform. Kew 1897, 270.""","","270","",
+gcc-55120,A,Compositae,,Schistostephium,,"artemisiifolium",subsp.,"artemisiifolium","",Synonym,,L,TICA,D4B6687B-32F8-4EDF-9AFD-7387BF76FF5D,,"","","","",gcc-135191
+gcc-88060,A,Compositae,,Schistostephium,,"crataegifolium",,"","(DC.) Fenzl ex Harv.",Accepted,,M,TICA,FE046880-FB4D-4BF0-AE9A-7E98F4BA7051,,"Fl. Cap. iii. 169.","","169","",
+gcc-44565,A,Compositae,,Schistostephium,,"dactyliferum",,"","Hutch.",Accepted,,M,TICA,59558366-4215-4601-AB07-528F826564F3,242858-1,"""Bull. Misc. Inform. Kew 1916, 103.""","","103","",
+gcc-87443,A,Compositae,,Schistostephium,,"flabelliforme",,"","Less.",Accepted,,M,TICA,CC09B2A1-3C4B-479A-9BB9-7D4BCF35F011,242859-1,"Syn. Gen. Compos. 251.","","251","",
+gcc-101532,A,Compositae,,Schistostephium,,"griseum",,"","(Harv.) Hutch.",Accepted,,M,TICA,79F8BB04-DBA5-48F2-87A5-9D01D9E3EBFB,242860-1,"""Bull. Misc. Inform. Kew 1916, 101""","","101","",
+gcc-127130,A,Compositae,,Schistostephium,,"heptalobum",,"","(DC.) Oliv. & Hiern",Accepted,,M,TICA,48CAA40B-119D-467E-BCEB-D6E960F51EAD,242861-1,"Fl. Trop. Afr. [Oliver et al.] 3: 399","","399","1877",
+gcc-82108,A,Compositae,,Schistostephium,,"heptalobum",,"","S.Moore",Synonym,Illegitimate,M,TICA,ADFA846C-9C0E-457C-A11B-714C0B95B60E,,"","","","",gcc-134181
+gcc-5257,A,Compositae,,Schistostephium,,"hippiifolium",,"","(DC.) Hutch.",Accepted,,M,TICA,66BF054C-B070-4641-B2F8-09D302DC8496,242862-1,"""Bull. Misc. Inform. Kew 1916, 104""","","104","",
+gcc-142627,A,Compositae,,Schistostephium,,"homblei",,"","De Wild.",Synonym,,M,TICA,03F13809-C6E4-4FE3-BA02-FA00A960B880,,"""Ann. Mus. Congo Belge, Bot. sér. 4, 2(1): 170""","","170","1913",gcc-135191
+gcc-89402,A,Compositae,,Schistostephium,,"microcephalum",,"","Baker",Synonym,,M,TICA,AC20D7FA-8B5C-4FE9-B727-819F0B7FA7FC,242864-1,"""Bull. Misc. Inform. Kew 1897, 270""","","270","",gcc-88060
+gcc-134181,A,Compositae,,Schistostephium,,"mollissimum",,"","Hutch.",Accepted,,M,TICA,31D6EFBA-B5AE-4306-A858-E7324FA03E73,242865-1,"""Bull. Misc. Inform. Kew 1916, 103.""","","103","",
+gcc-75753,A,Compositae,,Schistostephium,,"oxylobum",,"","S.Moore",Accepted,,M,TICA,0E9E1F68-F41B-49BA-B31C-632A23AC87D4,,"""J. Linn. Soc., Bot. xl. 117 (1911.)""","","117","",
+gcc-1183,A,Compositae,,Schistostephium,,"radicale",,"","Killick & Claassen",Synonym,,M,TICA,4E27C224-B4FD-42E1-8262-0229D4746F1D,242867-1,"Bothalia x. 68 (1969).","","x. 68","1969",gcc-104811
+gcc-25191,A,Compositae,,Schistostephium,,"rogersii",,"","Hutch.",Accepted,,M,TICA,CF71C4D3-9094-4904-9592-2E853E5EDA46,242868-1,"""Bull. Misc. Inform. Kew 1916, 102.""","","102","",
+gcc-92294,A,Compositae,,Schistostephium,,"rotundifolium",,"","(DC.) Fenzl ex Harv.",Accepted,,M,TICA,3D37C9A3-22C9-40EC-81D5-8846B1DF6A5A,,"Fl. Cap. iii. 169.","","169","",
+gcc-131826,A,Compositae,,Schistostephium,,"saxicola",,"","Hutch.",Synonym,,M,TICA,2662B9BA-FD1E-40DE-9C5C-E1D2770C6A58,242870-1,"""Bull. Misc. Inform. Kew 1916, 103.""","","103","",gcc-127130
+gcc-45331,A,Compositae,,Schistostephium,,"scandens",,"","Hutch.",Accepted,,M,TICA,72F374D7-11A7-4714-84CD-54013EC8EB52,242871-1,"""Botanist S. Afr. 347 (1946), in adnot.""","","347","",
+gcc-11844,A,Compositae,,Schistostephium,,"umbellatum",,"","(L.f.) K.Bremer & Humphries",Accepted,,M,TICA,F1A993BF-A15A-4694-B4AD-161205CD89C2,975171-1,"""in Bull. Nat. Hist. Mus. (London), Bot., 23(2): 160 (1993):.""","","160","1993",
+gcc-138905,A,Compositae,,Schistostephium,,"villosum",,"","Hutch.",Synonym,,M,TICA,776B3F76-5EB2-4BF8-B81C-F1942A136085,242872-1,"""Bull. Misc. Inform. Kew 1916, 101.""","","101","",gcc-88060

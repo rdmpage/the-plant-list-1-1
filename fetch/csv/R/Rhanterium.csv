@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-88620,A,Compositae,,Rhanterium,,"adpressum",,"","Coss. & Durieu",Accepted,,M,TICA,859D30F1-D541-441D-930E-7FD59F02455B,241372-1,"","","252","1855",
+gcc-152742,A,Compositae,,Rhanterium,,"adpressum",subsp.,"adpressum","",Synonym,,L,TICA,7DCC9F67-5F78-4E4F-89C5-9FB7265BE024,,"","","","",gcc-88620
+gcc-18433,A,Compositae,,Rhanterium,,"adpressum",subsp.,"intermedium","Pomel",Synonym,,L,TICA,3FC9FBCE-05E1-423C-93F1-220EF5A975D6,,"","","","",gcc-88620
+gcc-93476,A,Compositae,,Rhanterium,,"epapposum",,"","Oliv.",Accepted,,M,TICA,1F9475B1-F90D-4B57-9EFA-8AD395922D1D,241373-1,"","","t. 1367","1881",
+gcc-47692,A,Compositae,,Rhanterium,,"incrassatum",,"","Pomel ex Batt. & Trab.",Unresolved,,L,TICA,7C2C36BB-2B00-4BD8-8BDA-5860101C19D9,241374-1,"Fl. de l'Alger. [Dicot] (1889) 432.","","[Dicot]  432","1889",
+gcc-80770,A,Compositae,,Rhanterium,,"intermedium",,"","Pomel",Synonym,,M,TICA,32B463A1-0618-431E-A149-6E4CEA3799AE,241375-1,"","","37","1874",gcc-88620
+gcc-113050,A,Compositae,,Rhanterium,,"squarrosum",,"","Coss. & Durieu ex Batt. & Trab.",Unresolved,,L,TICA,CA64ECB9-4296-4D6B-90B8-B6C67EC5F5EA,,"Fl. de l'Alger. [Dicot] (1889) 432","","432","",
+gcc-13303,A,Compositae,,Rhanterium,,"suaveolens",,"","Desf.",Accepted,,M,TICA,A436DE28-BFA5-4643-9369-18CB91F7920D,,"","","291","",
+gcc-69459,A,Compositae,,Rhanterium,,"suaveolens",subsp.,"adpressum","(Coss. & Durieu) Quézel & Santa",Synonym,,L,TICA,908B8513-BC79-4E8E-B722-E68DCA64908E,,"Nouv. Fl. Algerie","","948","1963",gcc-88620
+gcc-60608,A,Compositae,,Rhanterium,,"suaveolens",subsp.,"intermedium","(Pomel) Quézel & Santa",Synonym,,L,TICA,9E5E3A40-4EA9-4A01-9773-9FA946C0A1E3,,"","","","",gcc-88620
+gcc-35141,A,Compositae,,Rhanterium,,"suaveolens",subsp.,"suaveolens","",Synonym,,L,TICA,D616AE46-83C6-494C-A506-412AC66499CB,,"","","","",gcc-13303

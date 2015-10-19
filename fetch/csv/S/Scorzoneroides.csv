@@ -1,0 +1,38 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117920,A,Compositae,,Scorzoneroides,,"atlantica",,"","(Ball) Holub",Accepted,,M,TICA,C92506CF-468F-4599-9C29-C1BB7F14A874,243479-1,"","","429","1977",
+gcc-121516,A,Compositae,,Scorzoneroides,,"autumnalis",,"","(L.) Moench",Accepted,,M,TICA,7C5AD615-6F2C-427D-9C9C-C9F69D0F5EA0,243480-1,"","","549","1794",
+gcc-149927,A,Compositae,,Scorzoneroides,,"autumnalis",var.,"autumnalis","",Synonym,,L,TICA,30C80730-05A7-46A8-8848-63413CFA832E,,"","","","",gcc-121516
+gcc-155289,A,Compositae,,Scorzoneroides,,"autumnalis",subsp.,"autumnalis","",Synonym,,L,TICA,3319F1F1-44FA-4B5F-96EC-D4E5F8716787,,"","","","",gcc-121516
+gcc-56160,A,Compositae,,Scorzoneroides,,"autumnalis",subsp.,"borealis","(Ball) Greuter",Accepted,,L,TICA,78CDC8AE-3533-49AE-8EC1-7C3F050DF34C,77075516-1,"","","690","2006",
+gcc-149206,A,Compositae,,Scorzoneroides,,"autumnalis",subsp.,"pratensis","(Hornem.) Elven",Synonym,,L,TICA,F8E2EE84-C461-43BC-A3F2-53DA31AC7EC9,77099640-1,"Elven in J. Bot. Res. Inst. Texas 2. 2008","","443","2008",gcc-56160
+gcc-57890,A,Compositae,,Scorzoneroides,,"autumnalis",subsp.,"pratensis","(Link) Holub",Synonym,,L,TICA,D553FBAF-F4D3-45BA-80EA-8A1B0858A640,878251-1,"","","120","1978",gcc-56160
+gcc-122322,A,Compositae,,Scorzoneroides,,"cantabrica",,"","(Widder) Holub",Accepted,,M,TICA,3C0AA1D1-F962-4971-8F05-CBC3CCD26D1A,243481-1,"","","306","1977",
+gcc-157042,A,Compositae,,Scorzoneroides,,"carpetana",,"","(Lange) Greuter",Accepted,,M,TICA,B8CF84F0-3608-44EE-9F07-F9C394073179,77075517-1,"""Greuter, W. in Willdenowia 36. 2006""","","690","2006",
+gcc-123952,A,Compositae,,Scorzoneroides,,"cichoriacea",,"","(Ten.) Greuter",Accepted,,M,TICA,3B96B68F-1535-4F18-BFBD-CF947FF64866,77075518-1,"","","690","2006",
+gcc-38153,A,Compositae,,Scorzoneroides,,"crocea",,"","(Haenke) Holub",Accepted,,M,TICA,68205F36-F600-4D06-B6A2-46C45144AAC3,243482-1,"","","306","1977",
+gcc-149565,A,Compositae,,Scorzoneroides,,"duboisii",,"","(Sennen) Greuter",Accepted,,M,TICA,B6FFC268-E60E-404A-8265-5BC71490F6DB,77075519-1,"""Greuter, W. in Willdenowia 36. 2006""","","690","2006",
+gcc-154248,A,Compositae,,Scorzoneroides,,"garnironii",,"","(Emb. & Maire) Greuter & Talavera",Accepted,,M,TICA,A2716FE4-5414-4AE7-94A0-BF9BCA656903,77075520-1,"Greuter & Talavera in Willdenowia 36. 2006","","690","2006",
+gcc-89379,A,Compositae,,Scorzoneroides,,"helvetica",,"","(Mérat) Holub",Accepted,,M,TICA,315B9C59-EECD-49C4-A776-8195B15220D3,243483-1,"","","306","1977",
+gcc-131362,A,Compositae,,Scorzoneroides,,"hispidula",,"","(Delile) Greuter & Talavera",Accepted,,M,TICA,C9A4D280-C16A-400D-9273-E0B77BD5CC4A,77075521-1,"","","691","2006",
+gcc-155244,A,Compositae,,Scorzoneroides,,"illyrica",,"","(F.Malý) Holub",Unresolved,,L,TICA,FB4EF003-5E4D-46E4-90E3-D3E6C828441A,243484-1,"","","306","1977",gcc-145684
+gcc-151380,A,Compositae,,Scorzoneroides,,"keretina",,"","(F.Nyl.) Greuter",Accepted,,M,TICA,2CB02A68-FEB1-40BA-8C59-833F7ACF92E6,77075522-1,"","","691","2006",
+gcc-152969,A,Compositae,,Scorzoneroides,,"kralikii",,"","(Pomel) Greuter & Talavera",Accepted,,M,TICA,FAB744CA-9CF0-4239-95AA-A495D71E0480,77075523-1,"Greuter & Talavera in Willdenowia 36. 2006","","691","2006",
+gcc-152363,A,Compositae,,Scorzoneroides,,"laciniata",,"","(Bertol.) Greuter",Accepted,,M,TICA,D8E339DF-A274-4C03-BA78-97C7FB43CA25,77075524-1,"""Greuter, W. in Willdenowia 36. 2006""","","691","2006",
+gcc-130957,A,Compositae,,Scorzoneroides,,"microcephala",,"","(DC.) Holub",Accepted,,M,TICA,82FFFEDC-A050-4342-8FD5-DFC44D724260,,"","","429","1977",
+gcc-152250,A,Compositae,,Scorzoneroides,,"montana",,"","(Lam.) Holub",Accepted,,M,TICA,2E013677-4F02-42BA-AB9A-958FDF03E0DF,243486-1,"Holub in Folia Geobot. Phytotax. 12. 1977","","307","1977",
+gcc-148842,A,Compositae,,Scorzoneroides,,"montana",subsp.,"breviscapa","(DC.) Greuter",Accepted,,L,TICA,316BFB8D-5B2E-4756-83C1-4BE824846CF8,77075526-1,"""Greuter, W. in Willdenowia 36. 2006""","","691","2006",
+gcc-145684,A,Compositae,,Scorzoneroides,,"montana",subsp.,"illyrica","(K.Malý) Zidorn",Accepted,,L,TICA,29BD06FE-6C40-4E11-AE4D-08B802AA13DB,77096346-1,"Zidorn in Phyton (Horn) 48. 2008","","57","2008",
+gcc-150731,A,Compositae,,Scorzoneroides,,"montana",subsp.,"montana","",Synonym,,L,TICA,35FAE199-0F14-483D-89E2-753F8044588A,,"","","","",gcc-152250
+gcc-155408,A,Compositae,,Scorzoneroides,,"montaniformis",,"","(Widder) Gutermann",Accepted,,M,TICA,DA9C2B42-935A-4FF7-89B1-D7B6E97FEEB0,,"""Gutermann, W. in Phyton (Horn) 46. 2006""","","","2006",
+gcc-130041,A,Compositae,,Scorzoneroides,,"muelleri",,"","(Sch.Bip.) Greuter & Talavera",Accepted,,M,TICA,B52F42D6-AA20-4E2B-83DF-DDA93DC71288,77075527-1,"","","691","2006",
+gcc-155500,A,Compositae,,Scorzoneroides,,"muelleri",subsp.,"austromaroccana","(Maire) Greuter",Accepted,,L,TICA,305DEC5B-4CCC-493E-BCE3-D97E1050DAB9,77075528-1,"""Greuter, W. in Willdenowia 36. 2006""","","691","2006",
+gcc-156287,A,Compositae,,Scorzoneroides,,"muelleri",subsp.,"muelleri","",Synonym,,L,TICA,2CFB3747-4029-4B39-922F-EA1FC1288D52,,"","","","",gcc-130041
+gcc-68870,A,Compositae,,Scorzoneroides,,"muelleri",subsp.,"reboudiana","(Pomel) Greuter",Accepted,,L,TICA,466836A1-D06A-4042-ABE6-E215DC165D98,77075529-1,"","","691","2006",
+gcc-34079,A,Compositae,,Scorzoneroides,,"nevadensis",,"","(Lange) Greuter",Accepted,,M,TICA,9F3C708E-19B2-4F44-9894-3F3068D7CAD3,77075530-1,"","","691","2006",
+gcc-156761,A,Compositae,,Scorzoneroides,,"oraria",,"","(Maire) Greuter & Talavera",Accepted,,M,TICA,C0F8059D-F0F4-4E74-9173-F3B34B67FDA6,77075531-1,"Greuter & Talavera in Willdenowia 36. 2006","","691","2006",
+gcc-154053,A,Compositae,,Scorzoneroides,,"palisiae",,"","(Izuzq.) Greuter & Talavera",Accepted,,M,TICA,2D02E5E0-6AF7-40E6-AC96-BB44EDB7BFE2,77075532-1,"Greuter & Talavera in Willdenowia 36. 2006","","691","2006",
+gcc-101202,A,Compositae,,Scorzoneroides,,"pseudotaraxaci",,"","(Schur) Holub",Accepted,,M,TICA,080036A0-5EFA-408E-A9C7-9C51943C967B,243487-1,"","","307","1977",
+gcc-151734,A,Compositae,,Scorzoneroides,,"pyrenaica",,"","(Gouan) Holub",Accepted,,M,TICA,EC3FFF2B-837E-4555-840D-8B245E0F723C,243488-1,"Holub in Folia Geobot. Phytotax. 12. 1977","","307","1977",
+gcc-109826,A,Compositae,,Scorzoneroides,,"rilaensis",,"","(Hayek) Holub",Accepted,,M,TICA,2F0A951E-9802-4249-9D4C-AF8C36A24A93,243489-1,"","","307","1977",
+gcc-156723,A,Compositae,,Scorzoneroides,,"salzmannii",,"","(Sch.Bip.) Greuter & Talavera",Accepted,,M,TICA,819604CC-8398-4E4D-9F90-F2F6897E6637,77075534-1,"","","691","2006",
+gcc-156800,A,Compositae,,Scorzoneroides,,"simplex",,"","(Viv.) Greuter & Talavera",Accepted,,M,TICA,44B64F49-8328-407C-AEBF-F474EF158E29,77075533-1,"","","691","2006",

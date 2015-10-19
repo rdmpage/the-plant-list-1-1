@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-28601003,A,Sapindaceae,,Macphersonia,,"acutifoliola",,"","Hemsl.",Synonym,,M,TRO,28601003,783561-1,"Bull. Misc. Inform. Kew","1912: 359","359","1912",tro-28601002
+tro-28601000,A,Sapindaceae,,Macphersonia,,"cauliflora",,"","Radlk.",Accepted,,M,TRO,28601000,,"Sitzungsber. Bayer. Akad. Wiss. München","20: 247","247","1891",
+tro-28601175,A,Sapindaceae,,Macphersonia,,"cauliflora",f.,"cauliflora","",Synonym,,L,TRO,28601175,,"","","","",tro-28601000
+tro-28601177,A,Sapindaceae,,Macphersonia,,"chapelieri",,"","(Baill.) Capuron",Accepted,,L,TRO,28601177,783564-1,"Mém. Mus. Natl. Hist. Nat., B, Bot.","19: 126, t. 33, f. 1–12","126","1969",
+tro-28601178,A,Sapindaceae,,Macphersonia,,"chapelieri",var.,"chapelieri","",Synonym,,L,TRO,28601178,,"","","","",tro-28601177
+tro-28601179,A,Sapindaceae,,Macphersonia,,"chapelieri",f.,"chapelieri","",Synonym,,L,TRO,28601179,,"","","","",tro-28601177
+tro-28601002,A,Sapindaceae,,Macphersonia,,"gracilis",,"","O. Hoffm.",Accepted,,M,TRO,28601002,783565-1,"Sert. Pl. Madagasc.","14","14","1881",
+tro-28601171,A,Sapindaceae,,Macphersonia,,"gracilis",var.,"gracilis","",Synonym,,L,TRO,28601171,,"","","","",tro-28601002
+tro-28601173,A,Sapindaceae,,Macphersonia,,"gracilis",var.,"hildebrandtii","(O. Hoffm.) Capuron",Accepted,,L,TRO,28601173,,"Mém. Mus. Natl. Hist. Nat., B, Bot.","19: 122","122","1969",
+tro-28601004,A,Sapindaceae,,Macphersonia,,"hildebrandtii",,"","O. Hoffm.",Synonym,,M,TRO,28601004,783567-1,"Sert. Pl. Madagasc.","14","14","1881",tro-28601173
+tro-28601005,A,Sapindaceae,,Macphersonia,,"laevis",,"","Radlk.",Synonym,,M,TRO,28601005,,"Sitzungsber. Bayer. Akad. Wiss. München","20: 248","248","1890",tro-28601173
+tro-28601006,A,Sapindaceae,,Macphersonia,,"macrocarpa",,"","Choux",Accepted,,M,TRO,28601006,,"Compt. Rend. Hebd. Séances Acad. Sci.","182: 714","714","1926",
+tro-28601001,A,Sapindaceae,,Macphersonia,,"macrophylla",,"","Oliv.",Synonym,,M,TRO,28601001,783571-1,"Hooker's Icon. Pl.","23: 2, t. 2243","2","1892",tro-28601000
+tro-28601007,A,Sapindaceae,,Macphersonia,,"madagascariensis",,"","Blume",Accepted,,M,TRO,28601007,783572-1,"Rumphia","3: 157","157","1847",
+tro-28601167,A,Sapindaceae,,Macphersonia,,"madagascariensis",subsp.,"madagascariensis","",Synonym,,L,TRO,28601167,,"","","","",tro-28601007
+tro-28601008,A,Sapindaceae,,Macphersonia,,"myriantha",,"","Hemsl.",Synonym,,M,TRO,28601008,783573-1,"Bull. Misc. Inform. Kew","1912: 360","360","1912",tro-28601007
+tro-28600893,A,Sapindaceae,,Macphersonia,,"pteridophylla",,"","Baill.",Synonym,,M,TRO,28600893,783574-1,"Adansonia","11: 240–241","240","1874",tro-28601007
+tro-28601009,A,Sapindaceae,,Macphersonia,,"radlkoferi",,"","Choux",Accepted,,M,TRO,28601009,,"Compt. Rend. Hebd. Séances Acad. Sci.","182: 714","714","1926",

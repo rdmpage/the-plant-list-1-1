@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-302167,A,Asparagaceae,,Chlorogalum,,"angustifolium",,"","Kellogg",Accepted,,H,WCSP,302167,56970-2,"Proc. Calif. Acad. Sci.","2: 104","","1863",
+kew-302168,A,Asparagaceae,,Chlorogalum,,"divaricatum",,"","(Lindl.) Kunth",Synonym,,H,WCSP,302168,532722-1,"Enum. Pl.","4: 682","","1843",kew-302173
+kew-302169,A,Asparagaceae,,Chlorogalum,,"grandiflorum",,"","Hoover",Accepted,,H,WCSP,302169,56972-2,"Leafl. W. Bot.","2: 128","","1938",
+kew-302170,A,Asparagaceae,,Chlorogalum,,"leichtlinii",,"","Baker",Unresolved,,L,WCSP,302170,56973-2,"Gard. Chron.","n.s., 1874(1): 689","","1874",
+kew-302171,A,Asparagaceae,,Chlorogalum,,"parviflorum",,"","S.Watson",Accepted,,H,WCSP,302171,532725-1,"Proc. Amer. Acad. Arts","14: 243","","1879",
+kew-302172,A,Asparagaceae,,Chlorogalum,,"pomeridianum",,"","(DC.) Kunth",Accepted,,H,WCSP,302172,532726-1,"Enum. Pl.","4: 682","","1843",
+kew-302173,A,Asparagaceae,,Chlorogalum,,"pomeridianum",var.,"divaricatum","(Lindl.) Hoover",Accepted,,L,WCSP,302173,56975-2,"Madroño","5: 143","","1940",
+kew-311217,A,Asparagaceae,,Chlorogalum,,"pomeridianum",var.,"pomeridianum","",Synonym,,L,WCSP,311217,,"Unknown","","","",kew-302172
+kew-302175,A,Asparagaceae,,Chlorogalum,,"purpureum",,"","Brandegee",Accepted,,H,WCSP,302175,56977-2,"Zoe","4: 159","","1893",
+kew-311218,A,Asparagaceae,,Chlorogalum,,"purpureum",var.,"purpureum","",Synonym,,L,WCSP,311218,,"Unknown","","","",kew-302175

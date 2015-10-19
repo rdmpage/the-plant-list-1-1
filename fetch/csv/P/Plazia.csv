@@ -1,0 +1,22 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-148942,A,Compositae,,Plazia,,"acaciifolia",,"","J. Koster",Synonym,,M,TICA,FBE78CE7-B83A-45AD-A6B9-4E410F033324,,"","","","",gcc-97538
+gcc-16028,A,Compositae,,Plazia,,"acaciifolia",,"","J.Kost.",Synonym,,M,TICA,3824C06B-3C28-411D-8875-1DAC45918473,201966-2,"""Blumea 5: 665, fig. 4i-o. 1945""","","665","1945",gcc-97538
+gcc-126336,A,Compositae,,Plazia,,"argentea",,"","(D.Don ex Hook. & Arn.) Kuntze",Synonym,,M,TICA,F6EE8349-BED1-446E-8660-D52008E9D317,201967-2,"Revis. Gen. Pl. 3[3]: 167","","167","1898",gcc-26810
+gcc-22160,A,Compositae,,Plazia,,"brasiliensis",,"","Spreng.",Unresolved,Illegitimate,L,TICA,B4AA0708-4D49-43E5-913B-28FD7F62500D,,"Neue Entdeck. ii. 137.","","","1827",
+gcc-3068,A,Compositae,,Plazia,,"cheiranthifolia",,"","Wedd.",Accepted,,M,TICA,AF586F97-F1FB-47C4-A506-05AEB29F2669,238708-1,"Chlor. And. i. 12.","","12","1855",
+gcc-144434,A,Compositae,,Plazia,,"conferta",,"","Ruiz & Pav.",Unresolved,,L,TICA,B06CA9D6-D8E0-4375-885D-FE16D25B55AA,,"Syst. Veg. 187.","","","1798",
+gcc-143508,A,Compositae,,Plazia,,"daphnoides",,"","Wedd.",Accepted,,M,TICA,693A48B2-8BBE-405B-83E3-FC12C033EE9A,,"","","","1855",
+gcc-149112,A,Compositae,,Plazia,,"daphnoides",var.,"daphnoides","",Synonym,,L,TICA,AC2622F8-FBB7-4648-BCA1-51ABF8E7CEDA,,"","","","",gcc-143508
+gcc-58939,A,Compositae,,Plazia,,"daphnoides",var.,"glabrescens","Wedd.",Synonym,,L,TICA,18AEB512-991C-44C5-99A2-928DBE9641C8,,"Chlor. And. 1: 13. 1855 Castel. Exped. Am. Sud. pt. 6","","","1855",gcc-143508
+gcc-49014,A,Compositae,,Plazia,,"daphnoides",var.,"villosa","Wedd.",Synonym,,L,TICA,09EEFE87-7BAC-4B0A-80ED-5ACB3E6C71E8,201969-2,"Chlor. And. 1: 13. 1855 Castel. Exped. Am. Sud. pt. 6","","13","1855",gcc-143508
+gcc-140076,A,Compositae,,Plazia,,"decussata",,"","Hieron.",Unresolved,,L,TICA,925E575A-5E58-4BFB-8E86-F428D1937625,,"","","","",
+gcc-122331,A,Compositae,,Plazia,,"ephedroides",,"","Hieron.",Unresolved,,L,TICA,ED4BDA22-3CFD-4602-8F55-CBC9A41601BE,,"","","","",
+gcc-110943,A,Compositae,,Plazia,,"lorentzii",,"","Hieron.",Unresolved,,L,TICA,5CF343BD-11EC-41EB-997B-B202DEBC65C1,,"","","","",
+gcc-104035,A,Compositae,,Plazia,,"parviflora",,"","Spreng.",Unresolved,,L,TICA,FB10A489-A32B-42A8-9FC3-A2A429328462,238711-1,"""Syst. Veg. (ed. 16) [Sprengel] 4(2, Cur. Post.): 301""","","301","1827",
+gcc-16813,A,Compositae,,Plazia,,"pinifolia",,"","Phil.",Unresolved,,L,TICA,AE4C1937-46D6-49D5-BC8E-1F0DCBE1C9DB,,"","","","",
+gcc-89307,A,Compositae,,Plazia,,"pinifolia",,"","Reiche",Unresolved,,L,TICA,516F9716-9F5C-4738-86D4-8168DC50575D,1111353-2,"","","","",
+gcc-46349,A,Compositae,,Plazia,,"pinnifolia",,"","(Phil.) O.Hoffm.",Synonym,,M,TICA,0EE323DF-EF5D-4857-ADEA-55E7047EE1A6,,"","","","",gcc-137214
+gcc-44606,A,Compositae,,Plazia,,"spartioides",,"","(Wedd.) Kuntze",Synonym,,M,TICA,45C6A7A0-3B14-449C-B176-52A2DC727307,201970-2,"Revis. Gen. Pl. 3[3]: 167","","167","1898",gcc-90136
+gcc-16908,A,Compositae,,Plazia,,"virgata",,"","Reiche",Unresolved,,L,TICA,2F3C71C7-BD0B-4E68-A053-1F3BAFFA1AD3,1153221-2,"","","","",
+gcc-42912,A,Compositae,,Plazia,,"virgata",,"","(Phil.) O.Hoffm.",Unresolved,,L,TICA,3E34D6F4-8C70-43E4-A294-4F7E10CF5DFE,,"","","","",
+gcc-46259,A,Compositae,,Plazia,,"virgata",,"","Phil.",Unresolved,,L,TICA,EB561FDF-E3F8-4BB6-A73C-55BADB154255,,"","","","",

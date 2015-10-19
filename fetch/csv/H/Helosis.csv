@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-3000043,A,Balanophoraceae,,Helosis,,"aquatica",,"","Mutis ex Hook. f.",Synonym,,M,TRO,3000043,103344-1,"Trans. Linn. Soc.","22: 59","59","1856",kew-2844929
+kew-2844927,A,Balanophoraceae,,Helosis,,"brasiliensis",,"","Schott & Endl.",Synonym,,L,WCSP (in review),,103345-1,"Melet. Bot.","12","","1832",kew-2844928
+kew-2844928,A,Balanophoraceae,,Helosis,,"cayennensis",,"","(Sw.) Spreng.",Accepted,,L,WCSP (in review),,103346-1,"Syst. Veg.","3: 765","","1826",
+tro-3000028,A,Balanophoraceae,,Helosis,,"cayennensis",var.,"cayennensis","",Synonym,,L,TRO,3000028,,"","","","",kew-2844928
+tro-50336384,A,Balanophoraceae,,Helosis,,"cayennensis",subsp.,"cayennensis","",Synonym,,L,TRO,50336384,,"","","","",kew-2844928
+kew-2844929,A,Balanophoraceae,,Helosis,,"cayennensis",var.,"mexicana","(Liebm.) B.Hansen",Accepted,,L,WCSP (in review),,119703-2,"Bot. Tidsskr.","72: 188","","1978",
+kew-2872714,A,Balanophoraceae,,Helosis,,"cayennensis",subsp.,"mexicana","(Liebm.) Eberwein",Synonym,,L,WCSP (in review),,,"Nuevo Cat. Fl. Vasc. Venezuela","266","","2008",kew-2844929
+tro-50336387,A,Balanophoraceae,,Helosis,,"cayennensis",subsp.,"mexicana","(Liebm.) B. Hansen",Synonym,,L,TRO,50336387,,"Bot. Tidsskr.","72: 188","188","1978",kew-2844929
+tro-3000076,A,Balanophoraceae,,Helosis,,"guyanensis",var.,"andicola","Hook. f.",Synonym,,L,TRO,3000076,,"Trans. Linn. Soc. London","22: 57","57","1856",kew-2844929
+tro-3000077,A,Balanophoraceae,,Helosis,,"guyanensis",f.,"andicola","(Hook. f.) Eichler",Synonym,,L,TRO,3000077,,"Fl. Bras.","4(2): 23","23","1869",kew-2844929
+tro-3000056,A,Balanophoraceae,,Helosis,,"guyanensis",f.,"brasilensis","(Schott & Endl.) Eichler",Synonym,,L,TRO,3000056,119962-2,"Fl. Bras.","4(2): 23, t. 5, f. 1","23","1869",kew-2844928
+kew-2844930,A,Balanophoraceae,,Helosis,,"guyannensis",,"","Rich.",Synonym,Illegitimate,L,WCSP (in review),,1180628-2,"Mém. Mus. Hist. Nat.","8: 416","","1822",kew-2844928
+kew-2872715,A,Balanophoraceae,,Helosis,,"guyannensis",var.,"andicola","Hook.f.",Synonym,,L,WCSP (in review),,,"Trans. Linn. Soc. London","22: 57","","1856",kew-2844928
+tro-50158412,A,Balanophoraceae,,Helosis,,"jamaicensis",,"","(Sw.) Rich.",Synonym,,L,TRO,50158412,1084175-2,"Mém. Mus. Hist. Nat.","8: 432","432","1822",tro-3000018
+kew-2844933,A,Balanophoraceae,,Helosis,,"mexicana",,"","Liebm.",Synonym,,M,WCSP (in review),,119704-2,"Förh. Skand. Naturf. Möte","1844: 181","","1847",kew-2844929
+kew-2844934,A,Balanophoraceae,,Helosis,,"mexicana",var.,"andicola","(Hook.f.) Eichler",Synonym,,L,WCSP (in review),,119965-2,"Prodr.","17: 136","","1873",kew-2844928
+kew-2844935,A,Balanophoraceae,,Helosis,,"ruficeps",,"","(Ridl.) Eberwein",Unresolved,,L,WCSP (in review),,77063412-1,"Bot. J. Linn. Soc.","146: 517","","2004",kew-2806312
+kew-2872716,A,Balanophoraceae,,Helosis,,"whymperi",,"","Baker f.",Synonym,,M,WCSP (in review),,119966-2,"J. Bot.","28: 161","","1890",kew-2739506

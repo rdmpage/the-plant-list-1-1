@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-124491,A,Compositae,,Asteridea,,"archeri",,"","P.S.Short",Accepted,,M,TICA,A207552B-A783-41EF-95A9-D0D0DF4A278B,1017155-1,"","","739","2000",
+gcc-4838,A,Compositae,,Asteridea,,"asteroides",,"","Turcz.",Unresolved,,L,TICA,2C633F35-FE79-4507-8B26-09012A13EFEE,,"","","","",
+gcc-76940,A,Compositae,,Asteridea,,"asteroides",,"","(Turcz.) Kroner",Accepted,,L,TICA,C39FDE2E-CE30-4927-B369-65BE6BE798D7,908006-1,"Mitt. Bot. Staatssamml. München 16","","135","1980",
+gcc-52509,A,Compositae,,Asteridea,,"athrixioides",,"","(Sond. & F.Muell.) Kroner",Accepted,,L,TICA,C5821198-83DF-478D-BDD2-6152F0A4A358,908007-1,"Mitt. Bot. Staatssamml. München 16","","140","1980",
+gcc-125752,A,Compositae,,Asteridea,,"athrixioides",f.,"athrixioides","",Synonym,,L,TICA,C8A10C39-C542-44B4-B252-D3C1049EAE8C,151552-3,"Flora of South Australia 3  1986","","3","1986",gcc-52509
+gcc-72828,A,Compositae,,Asteridea,,"athrixioides",f.,"horripes","(J.M.Black) D.A.Cooke",Accepted,,L,TICA,950386DB-5BE7-4DC8-BB3A-03CAF788ADEE,151563-3,"","","","1986",
+gcc-144894,A,Compositae,,Asteridea,,"athroxopodes",,"","(Sond. & F.Muell.) Kroner",Unresolved,,L,TICA,D7B099E1-835E-4C41-AEF4-FF2A1F721768,,"","","","",
+gcc-87205,A,Compositae,,Asteridea,,"chaetopoda",,"","(F.Muell.) Kroner",Accepted,,M,TICA,EA5B038A-3E60-47E6-9BDB-7CBEF7413FC1,908008-1,"Mitt. Bot. Staatssamml. München 16","","144","1980",
+gcc-18945,A,Compositae,,Asteridea,,"croniniana",,"","(F.Muell.) Kroner",Accepted,,M,TICA,612E4A57-9D96-4C27-96FF-22F82B36DDEE,908009-1,"Mitt. Bot. Staatssamml. München 16","","145","1980",
+gcc-123975,A,Compositae,,Asteridea,,"gracilis",,"","A.Gray",Accepted,,M,TICA,98FC6912-B8B8-429A-8FA4-CFA64B0FEC7F,182629-1,"Hooker's J. Bot. Kew Gard. Misc. 4","","274","1852",
+gcc-36034,A,Compositae,,Asteridea,,"morawana",,"","P.S.Short",Accepted,,M,TICA,13441CE4-57E5-4FD9-BA57-42D3C87E87CE,1017156-1,"","","741","2000",
+gcc-88666,A,Compositae,,Asteridea,,"multiceps",,"","A.Gray",Synonym,,L,TICA,FA4155BB-B6BA-4F6B-910C-7FF27E728E20,182630-1,"Hooker's J. Bot. Kew Gard. Misc. 4","","274","1852",gcc-76940
+gcc-14434,A,Compositae,,Asteridea,,"nivea",,"","(Steetz) Kroner",Accepted,,M,TICA,E6C76BB8-FA6D-4AE3-8766-1AC831E630E7,908010-1,"Mitt. Bot. Staatssamml. München 16","","138","1980",
+gcc-109609,A,Compositae,,Asteridea,,"puberulenta",,"","Lindl.",Accepted,,M,TICA,47EC4CAA-710F-4520-9DDB-AF093C7AB75E,,"","","24","1839",
+gcc-30563,A,Compositae,,Asteridea,,"pulverulenta",,"","Lindl.",Accepted,,M,TICA,282173F6-4F15-4F4A-89CB-38950065479A,151667-3,"","","","1839",
+gcc-40489,A,Compositae,,Asteridea,,"stricta",,"","A.Gray",Synonym,,M,TICA,539D418B-9B7D-43B1-89A5-4B0941A09581,182632-1,"Hooker's J. Bot. Kew Gard. Misc. 4","","275","1852",gcc-14434

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-181004,A,Apocynaceae,,Saba,,"comorensis",,"","(Bojer ex A.DC.) Pichon",Accepted,,H,WCSP,181004,81757-1,"Mém. Inst. Franç. Afrique Noire","35: 303","","1953",
+tro-1805351,A,Apocynaceae,,Saba,,"comorensis",var.,"comorensis","",Synonym,,L,TRO,1805351,,"","","","",kew-181004
+kew-452142,A,Apocynaceae,,Saba,,"comorensis",var.,"florida","(Benth.) Pichon",Synonym,,L,WCSP,452142,,"Mém. Inst. Franç. Afrique Noire","35: 309","","1953",kew-181004
+kew-181005,A,Apocynaceae,,Saba,,"florida",,"","(Benth.) Bullock",Synonym,,H,WCSP,181005,81758-1,"Kew Bull.","13: 391","","1958 publ. 1959",kew-181004
+kew-181006,A,Apocynaceae,,Saba,,"senegalensis",,"","(A.DC.) Pichon",Accepted,,H,WCSP,181006,81759-1,"Mém. Inst. Franç. Afrique Noire","35: 316","","1953",
+kew-181007,A,Apocynaceae,,Saba,,"senegalensis",var.,"glabriflora","(Hua) Pichon",Synonym,,L,WCSP,181007,,"Mém. Inst. Franç. Afrique Noire","35: 322","","1953",kew-181006
+kew-181008,A,Apocynaceae,,Saba,,"thompsonii",,"","(A.Chev.) Pichon",Accepted,,H,WCSP,181008,81760-1,"Mém. Inst. Franç. Afrique Noire","35: 322","","1953",

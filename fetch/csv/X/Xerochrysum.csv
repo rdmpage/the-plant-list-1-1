@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-3786,A,Compositae,,Xerochrysum,,"bicolor",,"","(Lindl.) R.J.Bayer",Accepted,,M,TICA,739BA325-D0B5-4827-B6DE-070C0641E2EE,,"Kew Bull. 56(4)","","1014","2001",
+gcc-122284,A,Compositae,,Xerochrysum,,"bracteatum",,"","(Vent.) Tzvelev",Accepted,,M,TICA,56535848-D5C3-4C04-9882-CBAAEC6FF001,962307-1,"Novosti Sist. Vyssh. Rast. 27","","151","1990",
+gcc-155941,A,Compositae,,Xerochrysum,,"bracteatum",subsp.,"bracteatum","",Synonym,,L,TICA,95DFE55E-E239-4D71-AEC9-E30A5D22D9EB,,"","","","",gcc-122284
+gcc-2296,A,Compositae,,Xerochrysum,,"collierianum",,"","A.M.Buchanan",Accepted,,M,TICA,A242A768-2298-4128-A9B4-042A54676F31,,"Muelleria 20","","49","2004",
+gcc-261,A,Compositae,,Xerochrysum,,"leucopsideum",,"","(DC.) Paul G.Wilson",Accepted,,M,TICA,2834F272-37F9-48CA-99F5-007CDBB0F508,,"","","","",
+gcc-115918,A,Compositae,,Xerochrysum,,"palustre",,"","(Flann) R.J.Bayer",Accepted,,M,TICA,59D14992-1334-409F-B5E5-BD44583AE084,,"Kew Bull. 56(4)","","1014","2001",
+gcc-75961,A,Compositae,,Xerochrysum,,"papillosum",,"","(Labill.) R.J.Bayer",Accepted,,L,TICA,B523F4B9-D544-43A0-8E2C-639734E3580A,,"Kew Bull. 56(4)","","1015","2001",
+gcc-91276,A,Compositae,,Xerochrysum,,"subundulatum",,"","(Sch.Bip.) R.J.Bayer",Accepted,,M,TICA,44D302DC-659B-4242-A75D-860154688638,,"Kew Bull. 56(4)","","1015","2001",
+gcc-98828,A,Compositae,,Xerochrysum,,"viscosum",,"","(Sieber ex DC.) R.J.Bayer",Accepted,,L,TICA,511CEAD7-C5A5-4FA6-A996-96FA319D7B0C,,"","","1015","2001",

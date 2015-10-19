@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-106583,A,Compositae,,Ogiera,,"eleuthranthera",,"","Steud.",Synonym,,M,TICA,7EC862CD-AE94-479A-8AC5-A8213DE7A8D1,234723-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 549""","","549","1840",gcc-33587
+gcc-129750,A,Compositae,,Ogiera,,"leiocarpa",,"","Cass.",Synonym,,M,TICA,FB0CEE0D-1948-4284-9FB7-DCFF038A6F46,,"","","","1826",gcc-33587
+gcc-26418,A,Compositae,,Ogiera,,"portoricensis",,"","Steud.",Unresolved,,L,TICA,98431420-CF85-44EF-8FDD-30D0FE491ADA,234725-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 582, sphalm.""","","582","1841",
+gcc-34406,A,Compositae,,Ogiera,,"ruderalis",,"","(Sw.) Griseb.",Synonym,,M,TICA,8345A2CC-80A5-43E4-914D-3FC686E52272,,"","","513","",gcc-33587
+gcc-115142,A,Compositae,,Ogiera,,"triplinervia",,"","Bertero ex DC.",Unresolved,,L,TICA,12CAAB32-799E-4E34-BA47-BB738AECA137,234728-1,"""Prodr. (DC.) 5: 501, 546""","","546","1836",
+gcc-119198,A,Compositae,,Ogiera,,"triplinervia",,"","Spreng.",Unresolved,,L,TICA,C8ED14FF-15E6-4269-9EFC-C4A21A77AEFD,234727-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 674","","674","1826",
+gcc-113082,A,Compositae,,Ogiera,,"triplinervis",,"","Cass.",Synonym,,M,TICA,0A26AB95-2F59-4D49-B79B-B6DBAC4E7647,,"","","32","",gcc-33587
+gcc-69786,A,Compositae,,Ogiera,,"triplinervis",var.,"leiocarpa","(Cass.) DC.",Synonym,,L,TICA,EDBCF57D-BF21-4ACB-A209-E90647989AB7,173603-2,"","","546","1836",gcc-33587
+gcc-48009,A,Compositae,,Ogiera,,"triplinervis",var.,"portoriccensis","DC.",Synonym,,L,TICA,BFB01B77-668D-4FC8-8442-58F52605F5A0,,"Prodr. 5 (1836)","","546","1836",gcc-33587
+gcc-147877,A,Compositae,,Ogiera,,"triplinervis",var.,"triplinervis","",Synonym,,L,TICA,62688785-E694-4E0A-A0DC-3734DC6685A3,,"","","","",gcc-33587

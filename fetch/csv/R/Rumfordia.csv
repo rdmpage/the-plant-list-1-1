@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-9834,A,Compositae,,Rumfordia,,"alcortae",,"","Rzed.",Accepted,,M,TICA,FA95727F-A98C-4570-81E5-126035DDB380,224525-2,"Ciencia (Mexico) 15","","95","1955",
+gcc-48278,A,Compositae,,Rumfordia,,"aragonensis",,"","Greenm.",Synonym,,M,TICA,F10BC6B4-11C4-4BB9-AEB3-5979286278A7,224526-2,"Proc. Amer. Acad. Arts 40","","38","1904",gcc-116920
+gcc-24580,A,Compositae,,Rumfordia,,"attenuata",,"","B.L.Rob.",Synonym,,M,TICA,33DFF1AF-B597-4028-B33F-2D66A43E0EC2,224527-2,"Proc. Amer. Acad. Arts xliv. 594 (1909)","","594","1909",gcc-116920
+gcc-100033,A,Compositae,,Rumfordia,,"connata",,"","Brandegee",Accepted,,M,TICA,2FAB4616-A110-4CEA-899E-99AEC9BF4C6A,,"","","","1892",
+gcc-88274,A,Compositae,,Rumfordia,,"exauriculata",,"","B.L.Turner",Accepted,,M,TICA,25C8CFED-7D85-4960-8B99-7F104D7433C3,,"Phytologia 65(6): 491 (1989)","","","1989",
+gcc-83906,A,Compositae,,Rumfordia,,"floribunda",,"","DC.",Accepted,,M,TICA,8C7E6C07-CDF1-4559-B6E7-7549959F35BA,241807-1,"Prodr. (DC.) 5: 550","","550","1836",
+gcc-101147,A,Compositae,,Rumfordia,,"floribunda",f.,"floribunda","",Synonym,,L,TICA,969BA1C3-A027-46E4-8B37-9C2DE06FBDA8,,"","","","",gcc-83906
+gcc-69710,A,Compositae,,Rumfordia,,"floribunda",var.,"floribunda","",Synonym,,L,TICA,E121366B-48D6-4FD5-A149-E87BA2B7A038,,"","","","1836",gcc-83906
+gcc-53910,A,Compositae,,Rumfordia,,"floribunda",var.,"spectabilis","(Sandwith) R.W.Sanders",Accepted,,L,TICA,C96FB2B4-D29F-4408-ACD5-69B86272EF54,224532-2,"","","309","1978",
+gcc-116920,A,Compositae,,Rumfordia,,"guatemalensis",,"","(J.M.Coult.) S.F.Blake",Accepted,,M,TICA,51F1E471-7320-49D3-A532-BF84A29B587C,224533-2,"J. Wash. Acad. Sci. 18","","25","1928",
+gcc-145061,A,Compositae,,Rumfordia,,"media",,"","S.F.Blake",Synonym,,M,TICA,B291E662-D48E-4350-8BBE-FF91345D3591,224534-2,"","","490-491","1938",gcc-116920
+gcc-81598,A,Compositae,,Rumfordia,,"oreopola",,"","B.L.Rob.",Synonym,,M,TICA,5F09F4E0-DF6C-4D6F-AB66-70321C8EF87E,224535-2,"Proc. Amer. Acad. Arts 44","","595","1909",gcc-116920
+gcc-116912,A,Compositae,,Rumfordia,,"penninervis",,"","S.F.Blake",Accepted,,M,TICA,9296F680-9321-44DD-91B0-BF807D045529,224536-2,"","","343-345","1937",
+gcc-5081,A,Compositae,,Rumfordia,,"pinnatisecta",,"","Paul G.Wilson",Synonym,,M,TICA,254FBD6E-8CF8-44C6-BEC8-097B5038F330,224537-2,"","","164","1958",gcc-129283
+gcc-85839,A,Compositae,,Rumfordia,,"polymnioides",,"","Greenm.",Synonym,,M,TICA,F3C5E435-E813-4F6D-BF43-79902E42F706,,"","","","1903",gcc-116920
+gcc-118281,A,Compositae,,Rumfordia,,"revealii",,"","H.Rob.",Accepted,,M,TICA,0FBC5071-CE6A-4DBE-BEC7-C292374A4191,224539-2,"","","286","1976",
+gcc-109663,A,Compositae,,Rumfordia,,"spectabilis",,"","Sandwith",Synonym,,M,TICA,F9589340-2FE6-48C9-8D40-AF291DFF9589,224540-2,"","","436","1926",gcc-53910
+gcc-144151,A,Compositae,,Rumfordia,,"standleyi",,"","(Steyerm.) Standl. & Steyerm.",Synonym,,M,TICA,16101708-8572-4192-8DC7-FD739BC9F64D,224541-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","265","1947",gcc-116920
+gcc-51500,A,Compositae,,Rumfordia,,"verapazensis",,"","S.F.Blake",Synonym,,M,TICA,8FE0262A-6CE0-423E-93A8-5F8549CEEE01,224542-2,"","","609","1924",gcc-116920

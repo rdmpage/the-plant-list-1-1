@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-29101768,A,Saxifragaceae,,Rodgersia,,"aesculifolia",,"","Batalin",Accepted,,M,TRO,29101768,793117-1,"Trudy Imp. S.-Peterburgsk. Bot. Sada","13(1): 96","96","1893",
+tro-29101770,A,Saxifragaceae,,Rodgersia,,"aesculifolia",var.,"aesculifolia","",Synonym,,L,TRO,29101770,,"","","","",tro-29101768
+tro-29101771,A,Saxifragaceae,,Rodgersia,,"aesculifolia",var.,"henricii","(Franchet in Prince Henri d'Orleans) C.Y. Wu ex J.T. Pan",Accepted,,L,TRO,29101771,,"Acta Phytotax. Sin.","29(2): 189","189","1991",
+tro-29101772,A,Saxifragaceae,,Rodgersia,,"henricii",,"","(Franchet in Prince Henri d'Orleans) Franch.",Synonym,,M,TRO,29101772,957727-1,"Rev. Hort.","69: 176","176","1897",tro-29101771
+kew-2527562,A,Saxifragaceae,,Rodgersia,,"japonica",,"","Regel",Synonym,,M,WCSP (in review),,793118-1,"Gartenflora","20: t. 708","","1871",kew-2527567
+kew-2527563,A,Saxifragaceae,,Rodgersia,,"nepalensis",,"","Cope ex Cullen",Unresolved,,L,WCSP (in review),,793119-1,"Notes Roy. Bot. Gard. Edinburgh","34: 116","","1975",
+rjp-18386,A,Saxifragaceae,,Rodgersia,,"pinnata",,"","Franch.",Unresolved,,L,RJP,18386,,"","; ","","",
+tro-29101769,A,Saxifragaceae,,Rodgersia,,"platyphylla",,"","Pax & K. Hoffm.",Synonym,,M,TRO,29101769,793121-1,"Repert. Spec. Nov. Regni Veg. Beih.","12: 393","393","1922",tro-29101768
+kew-2527567,A,Saxifragaceae,,Rodgersia,,"podophylla",,"","A.Gray",Accepted,,M,WCSP (in review),,,"Mem. Amer. Acad. Arts","n.s., 6: 389","","1859",
+kew-2527560,A,Saxifragaceae,,Rodgersia,,"prillieuxii",,"","H.Lév.",Unresolved,,L,WCSP (in review),,793123-1,"Bull. Soc. Bot. France","51: cxliii","","1907",
+rjp-37050,A,Saxifragaceae,,Rodgersia,,"sambucifolia",,"","Hemsl.",Unresolved,,L,RJP,37050,793124-1,"","; 1906","115","1906",
+rjp-37051,A,Saxifragaceae,,Rodgersia,,"sambucifolia",var.,"sambucifolia","",Unresolved,,L,RJP,37051,,"","; ","","",
+tro-29101765,A,Saxifragaceae,,Rodgersia,,"tabularis",,"","(Hemsl.) Kom.",Synonym,,M,TRO,29101765,793125-1,"Trudy Imp. S.-Peterburgsk. Bot. Sada","22(1): 410–411","410","1904",kew-2656830

@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32831,A,Compositae,,Amphiglossa,,"alopecuroides",,"","Sch.Bip.",Synonym,,M,TICA,03E3A71E-9DAF-4CD0-ADB9-3CE3EA53B791,,"","","","1861",gcc-4314
+gcc-98311,A,Compositae,,Amphiglossa,,"callunoides",,"","DC.",Accepted,,M,TICA,05ADD088-6019-4E57-827F-95CEAB18BA09,176249-1,"","","259","1838",
+gcc-98513,A,Compositae,,Amphiglossa,,"celans",,"","Koek.",Accepted,,M,TICA,3F8FA93A-EE46-4AE6-B232-96511175475A,1008836-1,"","","68","1999",
+gcc-116164,A,Compositae,,Amphiglossa,,"corrudifolia",,"","DC.",Accepted,,M,TICA,3EEEA5EC-18E3-40E3-A9A9-BDD143FC15AD,176250-1,"","","258","1838",
+gcc-134934,A,Compositae,,Amphiglossa,,"grisea",,"","Koek.",Accepted,,M,TICA,FB21292B-49A6-40F3-B06E-E8D4824B6E06,1008837-1,"","","70","1999",
+gcc-102742,A,Compositae,,Amphiglossa,,"kolbei",,"","Bolus",Synonym,,L,TICA,9118BE65-8C7B-44AD-83E3-9FCFD59D9EEA,176251-1,"","","394","1907",gcc-32257
+gcc-38781,A,Compositae,,Amphiglossa,,"nitidula",,"","DC.",Synonym,,M,TICA,31EC0370-871B-47A7-8BCC-47F00B066230,176252-1,"","","259","1838",gcc-115679
+gcc-112686,A,Compositae,,Amphiglossa,,"perotrichoides",,"","DC.",Accepted,,M,TICA,79A4641B-5122-4579-AE47-B600AF18E9AE,176253-1,"","","258","1838",
+gcc-81045,A,Compositae,,Amphiglossa,,"rudolphii",,"","Koek.",Accepted,,M,TICA,4FDE561E-E682-4C95-9C5C-6EF16CA740D7,1008838-1,"","","71","1999",
+gcc-112629,A,Compositae,,Amphiglossa,,"susannae",,"","Koek.",Accepted,,M,TICA,9FA35F50-792A-4C4A-9E18-B5DC33BDB4F5,1008839-1,"","","71","1999",
+gcc-142747,A,Compositae,,Amphiglossa,,"tecta",,"","(Brusse) Koek.",Accepted,,M,TICA,A1CDB00D-D58D-45FF-8EE4-FA550D99A888,1008840-1,"","","72","1999",
+gcc-92073,A,Compositae,,Amphiglossa,,"thuja",,"","(Merxm.) Koek.",Accepted,,M,TICA,5AEF4262-CC0E-4B6B-A789-87CA8BA3E16B,1008841-1,"","","73","1999",
+gcc-115679,A,Compositae,,Amphiglossa,,"tomentosa",,"","(Thunb.) Harv.",Accepted,,M,TICA,0E44F670-B8AE-464E-B772-BCBF28A26F8D,176254-1,"","","276","1865",
+gcc-51792,A,Compositae,,Amphiglossa,,"tomentosa",var.,"breviligulata","Merxm.",Synonym,,L,TICA,32DDC79C-4FDA-4E65-886D-600CA30FB159,,"","","","",gcc-115679
+gcc-150342,A,Compositae,,Amphiglossa,,"tomentosa",var.,"tomentosa","",Synonym,,L,TICA,BC6DC6A5-EC6E-46F4-B85B-6C5F5B91F8DF,,"","","","",gcc-115679
+gcc-31324,A,Compositae,,Amphiglossa,,"triflora",,"","DC.",Accepted,,M,TICA,FB1BAD8C-4F48-429E-88D1-3A03D4D796C8,176255-1,"","","258","1838",

@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24376,A,Compositae,,Podocoma,,"asperrima",,"","Dusén ex Malme",Synonym,,M,TICA,0BF6569D-02A9-496D-9B9D-2D09B0EB805A,,"","","63","1933",gcc-38909
+gcc-102260,A,Compositae,,Podocoma,,"bartsiaefolia",,"","S.F.Blake",Unresolved,,L,TICA,0E6BFC68-898B-460C-912F-9EAC254C431B,,"","","","1924",gcc-82059
+gcc-6642,A,Compositae,,Podocoma,,"bellidifolia",,"","Baker",Accepted,,M,TICA,F184F283-0511-483D-A398-0C5388FA27AD,,"Fl. Bras. (Martius) 6(3): 16","","16","1882",
+gcc-102591,A,Compositae,,Podocoma,,"blanchetiana",,"","Baker",Accepted,,M,TICA,306AD907-B79C-4CCD-9562-9F7E784610C5,,"Fl. Bras. (Martius) 6(3): 15","","15","1882",
+gcc-152495,A,Compositae,,Podocoma,,"blanchetiana",var.,"blanchetiana","",Synonym,,L,TICA,B48189B8-144D-4B5D-9AB0-9A94E957FC45,,"","","","",gcc-102591
+gcc-28027,A,Compositae,,Podocoma,,"blanchetiana",var.,"intermedia","Hassl.",Synonym,,L,TICA,223B35AA-5C97-464C-A42D-33BEFC1C4EDD,204625-2,"Repert. Spec. Nov. Regni Veg. 16: 27. 1919","","27","1919",gcc-102591
+gcc-75860,A,Compositae,,Podocoma,,"cuneifolia",,"","R.Br.",Synonym,,M,TICA,24C8324A-35E7-4F55-BCF3-63619567194F,,"","","","",gcc-117666
+gcc-34672,A,Compositae,,Podocoma,,"erigerifolia",,"","Steud.",Synonym,Illegitimate,M,TICA,E29AA685-4A7A-458C-92AF-40478BA5FBBD,238934-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 584, in syn., sphalm.""","","584","1840",gcc-86839
+gcc-50617,A,Compositae,,Podocoma,,"foliosa",,"","Malme",Unresolved,,L,TICA,1647CBCC-4D43-4830-97FD-5DDC9038F3AE,204626-2,"","","64","1933",
+gcc-6018,A,Compositae,,Podocoma,,"glandulosa",,"","Baker",Unresolved,,L,TICA,D72CD303-6EC0-4FD8-875A-0B30A8EDDDA8,,"""Fl. Bras. (Martius) 6(3): 14, in nota.""","","14","",
+gcc-86839,A,Compositae,,Podocoma,,"hieracifolia",,"","(Poir.) Cass.",Accepted,,M,TICA,225F6742-12FF-4419-9728-7BD9CA54AFDB,238937-1,"in Dict. Sci. Nat. xlii. 60","","60","1826",
+gcc-105588,A,Compositae,,Podocoma,,"hirsuta",,"","(Hook. & Arn.) Baker",Accepted,,M,TICA,AF4B62BD-5882-46BD-8AD2-A5EA17B75F9F,,"Fl. Bras. (Martius) 6(3): 15","","15","1882",
+gcc-152947,A,Compositae,,Podocoma,,"hirsuta",var.,"hirsuta","",Synonym,,L,TICA,535D529F-7004-4EEB-8513-A3EECEEAF8F5,,"","","","",gcc-105588
+gcc-83731,A,Compositae,,Podocoma,,"macrocephala",,"","(Less.) Herter",Synonym,,M,TICA,6802D4C1-8C1A-4978-A71D-74E71BA76FE7,238939-1,"","","123","1931",gcc-93846
+gcc-3530,A,Compositae,,Podocoma,,"nana",,"","Ewart & Jean White",Synonym,,M,TICA,12A93FE2-7C1B-41D8-8CC5-067EF8D37420,238940-1,"","","192","1908",gcc-127160
+gcc-81425,A,Compositae,,Podocoma,,"notobellidiastrum",,"","(Griseb.) G.L.Nesom",Accepted,,M,TICA,0155A048-9EAD-43BA-BEA4-6FC20DB7B2F7,1004865-2,"","","112","1994",
+gcc-80317,A,Compositae,,Podocoma,,"primulaefolia",,"","Cass.",Synonym,,M,TICA,BC5B49F7-D122-4D58-9231-6D5E1757DDAD,,"","","","1826",gcc-86839
+gcc-153775,A,Compositae,,Podocoma,,"primulifolia",,"","Cass.",Synonym,,M,TICA,B5CD4CEB-FF7D-49D2-A198-B4F944BF083A,,"","","","",gcc-86839
+gcc-93170,A,Compositae,,Podocoma,,"regnellii",,"","Baker",Accepted,,M,TICA,EEAEE660-5A21-400D-8D01-8A2B42B10339,,"Fl. Bras. (Martius) 6(3): 16","","16","1882",
+gcc-100808,A,Compositae,,Podocoma,,"reineckii",,"","Hochr.",Unresolved,,L,TICA,9E8E3515-9A43-4125-B7EE-9B76A460F799,204629-2,"","","171","1899",
+gcc-15219,A,Compositae,,Podocoma,,"rivularis",,"","(Gardner) G.L.Nesom",Accepted,,M,TICA,130F2322-F1EB-495C-B60E-1C2DDA1F7E5A,1018045-2,"","","112","1994",
+gcc-38909,A,Compositae,,Podocoma,,"spegazzinii",,"","Cabrera",Accepted,,M,TICA,2CFB86E2-954F-4686-81A1-482C17A4194E,,"","","","1931",

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-120548,A,Euphorbiaceae,,Mareya,,"acuminata",,"","Prain",Accepted,,H,WCSP,120548,352058-1,"Bull. Misc. Inform. Kew","1912: 103","","1912",
+kew-120549,A,Euphorbiaceae,,Mareya,,"brevipes",,"","Pax",Accepted,,H,WCSP,120549,352059-1,"Bot. Jahrb. Syst.","28: 24","","1899",
+kew-120550,A,Euphorbiaceae,,Mareya,,"congolensis",,"","(J.Léonard) J.Léonard",Accepted,,H,WCSP,120550,996612-1,"Bull. Jard. Bot. Natl. Belg.","65: 12","","1996",
+kew-120551,A,Euphorbiaceae,,Mareya,,"leonensis",,"","(Benth.) Baill.",Synonym,,H,WCSP,120551,352060-1,"Hist. Pl.","5: 213","","1874",kew-120553
+kew-120552,A,Euphorbiaceae,,Mareya,,"longifolia",,"","Pax",Synonym,,H,WCSP,120552,,"Bot. Jahrb. Syst.","38: 283","","1906",kew-120561
+kew-120553,A,Euphorbiaceae,,Mareya,,"micrantha",,"","(Benth.) Müll.Arg.",Accepted,,H,WCSP,120553,352062-1,"Prodr.","15(2): 792","","1866",
+kew-120554,A,Euphorbiaceae,,Mareya,,"micrantha",subsp.,"congolensis","J.Léonard",Synonym,,L,WCSP,120554,,"Bull. Jard. Bot. État","25: 292","","1955",kew-120550
+kew-120555,A,Euphorbiaceae,,Mareya,,"micrantha",var.,"leonensis","(Benth.) Müll.Arg.",Synonym,,L,WCSP,120555,,"Prodr.","15(2): 796","","1866",kew-120553
+kew-120556,A,Euphorbiaceae,,Mareya,,"micrantha",var.,"nitida","Beille",Synonym,,L,WCSP,120556,,"Bull. Soc. Bot. France","55(8): 82","","1908",kew-120553
+kew-120557,A,Euphorbiaceae,,Mareya,,"spicata",,"","Baill.",Synonym,,H,WCSP,120557,352063-1,"Recueil Observ. Bot.","1: 74","","1860",kew-120553
+kew-120558,A,Euphorbiaceae,,Mareya,,"spicata",var.,"leonensis","(Benth.) Pax & K.Hoffm.",Synonym,,L,WCSP,120558,,"Pflanzenr.","IV, 147, XIV: 12","","1919",kew-120553
+kew-120559,A,Euphorbiaceae,,Mareya,,"spicata",var.,"micrantha","(Benth.) Pax & K.Hoffm.",Synonym,,L,WCSP,120559,,"Pflanzenr.","IV, 147, XIV: 12","","1919",kew-120553

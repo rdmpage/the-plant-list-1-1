@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-135776,A,Compositae,,Spitzelia,,"aegyptiaca",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,BAB603A9-AA23-4CD5-B3B2-EAB6087EF31D,,"""in Flora, xvi. (1833) 727.""","","","1833",gcc-124
+gcc-119990,A,Compositae,,Spitzelia,,"aparine",,"","Pomel",Synonym,Illegitimate,M,TICA,F37EAC60-FBB2-4116-BF9A-C674047AB0BE,250906-1,"Nouv. Mat. Fl. Atl. 268.","","","1875",gcc-21649
+gcc-91214,A,Compositae,,Spitzelia,,"aspera",,"","Pomel",Synonym,,M,TICA,50B12569-42B2-4E87-BFD7-85DB71FBFBC6,250907-1,"Nouv. Mat. Fl. Atl. 15.","","","1874",gcc-21649
+gcc-103690,A,Compositae,,Spitzelia,,"atlantica",,"","Coss. ex Ball",Synonym,Invalid,M,TICA,EF7F2B51-0289-41DF-B58C-A1D4B0988454,250908-1,"""J. Linn. Soc., Bot. xvi. (1878) 537""","","537","1878",gcc-102535
+gcc-1153,A,Compositae,,Spitzelia,,"aviorum",,"","Pomel",Synonym,,M,TICA,6308D08E-BF09-4534-A1C7-021E5EEB9434,250909-1,"","","16","1874",gcc-29396
+gcc-41956,A,Compositae,,Spitzelia,,"coronopifolia",,"","(Desf.) Sch.Bip.",Synonym,,M,TICA,D6868791-BB3A-4B76-B211-4DABDFED2FB4,250910-1,"","","658","1835",gcc-124
+gcc-17385,A,Compositae,,Spitzelia,,"cupuligera",,"","Durieu",Synonym,,M,TICA,546CF126-360B-4865-8118-20203F5AE37D,250911-1,"","","431","1846",gcc-130335
+gcc-143178,A,Compositae,,Spitzelia,,"faurei",,"","Sennen & Mauricio",Unresolved,,L,TICA,88CABBDA-DB34-4C7A-B80C-FB4FEF70302F,250912-1,"""Cat. Fl. Rif Or. 147 [1933], nomen.""","","""147 [1933], nomen.""","",
+gcc-143722,A,Compositae,,Spitzelia,,"getula",,"","Pomel",Synonym,,M,TICA,0ACE29DE-3A1B-4919-ACBD-FC885B0AF7B0,250913-1,"","","267","1875",gcc-124
+gcc-119478,A,Compositae,,Spitzelia,,"lyrata",,"","Coss. & Durieu",Unresolved,,L,TICA,E7EB6BA3-2764-4BF5-B2D6-C5420622E9A3,250915-1,"Bull. Soc. Bot. France 4: 397","","397","1857",
+gcc-78410,A,Compositae,,Spitzelia,,"lyrata",,"","Sch.Bip.",Unresolved,,L,TICA,30D13CF2-CDFE-41FF-9D8A-6916A3212C22,250914-1,"""in Flora, xviii. (1835) 658.""","","xviii.  658","1835",
+gcc-9523,A,Compositae,,Spitzelia,,"pilosa",,"","(Delile) Bég. & A.Vacc.",Synonym,,M,TICA,4F60E87A-4239-4A2E-847E-11C52C85A859,,"","","33","1914",gcc-124
+gcc-140061,A,Compositae,,Spitzelia,,"radicata",,"","Coss. & Kral.",Unresolved,,L,TICA,6C54D835-ABD2-461C-9704-F41FAE33DA76,,"Bull. Soc. Bot. France 4: 367","","367","1857",
+gcc-153059,A,Compositae,,Spitzelia,,"radicata",,"","(Forssk.) Coss. & Kralik",Synonym,,M,TICA,B229FEF8-9252-48D9-81E5-A656F458C1A0,250917-1,"""E.S.-C. Cosson, J.-L. Kralik in Bull. Soc. Bot. France 4. 1857""","","367","1857",gcc-124
+gcc-136317,A,Compositae,,Spitzelia,,"saharae",,"","Coss. & Kralik",Synonym,,M,TICA,350625E6-1B33-403A-86A9-EBF2D1710617,,"","","369","1857",gcc-29396
+gcc-64705,A,Compositae,,Spitzelia,,"saharae",var.,"cyrenaica","Pamp.",Synonym,,L,TICA,634EF7AE-1FF5-4F09-A036-C07A848660E3,,"Pamp. in Agric. Colon. 22. 1928","","366","1928",gcc-140632
+gcc-68545,A,Compositae,,Spitzelia,,"saharae",var.,"getula","(Pomel) Batt.",Synonym,,L,TICA,6D97C87C-FAE0-4AB4-B2E2-DF9B1E543C3C,,"","","","",gcc-29396
+gcc-149731,A,Compositae,,Spitzelia,,"saharae",var.,"saharae","",Synonym,,L,TICA,F8282830-2091-4E4F-B0EE-5F20AB5DF421,,"","","","",gcc-29396
+gcc-140386,A,Compositae,,Spitzelia,,"sieberi",,"","Sch.Bip.",Synonym,Illegitimate,M,TICA,978A24E8-4DC0-4755-9E8D-F4E7B096683E,,"""in Flora, xvii. (1834) 474.""","","","1834",gcc-124
+gcc-83803,A,Compositae,,Spitzelia,,"tuberosa",,"","Pomel",Synonym,Invalid,M,TICA,0E05AC19-03BD-4D84-9440-7511ECBDBD80,250920-1,"Nouv. Mat. Fl. Atl. 268.","","","1875",gcc-87441
+gcc-122814,A,Compositae,,Spitzelia,,"willkommii",,"","Sch.Bip.",Synonym,,M,TICA,A868045C-C976-4AB8-A15C-CCDE1D0125EF,,"","","","",gcc-112846
+gcc-83388,A,Compositae,,Spitzelia,,"willkommii",,"","Sch.Bip. ex Willk.",Synonym,,M,TICA,B888D888-B900-4D5F-9F9D-742BC32367D1,250921-1,"","","42","1852",gcc-112846

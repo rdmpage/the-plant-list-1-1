@@ -1,0 +1,45 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-143072,A,Compositae,,Staehelina,,"alpina",,"","Schrank",Unresolved,,L,TICA,69949257-6921-4962-A618-FB155C1382EA,,"Denkschr. Akad. Muench. vii. 1816-17 (1820) 59","","59","",
+gcc-95346,A,Compositae,,Staehelina,,"alpina",,"","(L.) Crantz",Unresolved,,L,TICA,1901D35E-05BB-4FF9-8FFF-8F198F0D5074,1052577-2,"","","","",
+gcc-124104,A,Compositae,,Staehelina,,"apiculata",,"","Labill.",Synonym,,M,TICA,DF830690-5786-4F17-9631-CFEF610FA9A6,,"","","","1812",gcc-123439
+gcc-124441,A,Compositae,,Staehelina,,"arborea",,"","Schreb.",Synonym,,M,TICA,FA288376-5178-4C74-8454-D0B2F6D5CC5D,,"""Schreb., Icon. Descr. Pl. 1766.""","","1","1766",gcc-4357
+gcc-4638,A,Compositae,,Staehelina,,"arborescens",,"","L.",Synonym,,M,TICA,1BE6FB4A-6A05-4D4C-BC73-08A2306FD5A4,250936-1,"","","","1767",gcc-4357
+gcc-39531,A,Compositae,,Staehelina,,"baetica",,"","DC.",Unresolved,,L,TICA,D3D6320A-A1D9-459C-8C15-495E84923F4D,250937-1,"","","544","1838",
+gcc-123528,A,Compositae,,Staehelina,,"centauroides",,"","L.",Synonym,,M,TICA,D35733BA-928C-451D-8C66-CE8B576E045D,,"","","","",gcc-34593
+gcc-5924,A,Compositae,,Staehelina,,"centauroides",,"","Burm.f.",Unresolved,,L,TICA,6640CAFF-8BFF-4784-BDCB-0B08CC1115B7,,"Fl. Cap. Prod. 23.","","23","",
+gcc-106626,A,Compositae,,Staehelina,,"chamaepeuce",,"","L.",Unresolved,,L,TICA,0167FACC-99C9-4E3C-9BAC-A83B4DC76FB2,,"Syst. ed. XII. 538.","","XII. 538","",
+gcc-86501,A,Compositae,,Staehelina,,"chamaepeuce",,"","Viv.",Synonym,,M,TICA,D13A0C32-A764-46B5-B42D-7B0E13E2F34E,,"","","","",gcc-42457
+gcc-13457,A,Compositae,,Staehelina,,"corymbosa",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,EEFD0438-3124-40BA-A644-191092E8B855,250942-1,"""Index Linn. Herb. 141 (1912), nomen.""","","141","",
+gcc-143504,A,Compositae,,Staehelina,,"corymbosa",,"","Wight ex DC.",Unresolved,,L,TICA,DB85AED6-3AF3-4692-8BA5-FC10E8578089,250941-1,"Prodr. (DC.) 6: 364","","364","1838",
+gcc-91946,A,Compositae,,Staehelina,,"corymbosa",,"","Thunb.",Synonym,,M,TICA,4331E9DC-C878-4173-835F-878897AC423B,250940-1,"Prodr. Pl. Cap. 143.","","143","1800",gcc-21273
+gcc-97985,A,Compositae,,Staehelina,,"corymbosa",,"","L.f.",Synonym,,M,TICA,EE57DC94-FBA4-42B9-9654-951B8C3F91E1,,"","","","",gcc-51543
+gcc-35938,A,Compositae,,Staehelina,,"cretica",,"","Zucc. ex DC.",Unresolved,,L,TICA,47BED274-DD26-4871-8755-42A546038B80,250943-1,"Prodr. (DC.) 6: 658","","658","1838",
+gcc-143036,A,Compositae,,Staehelina,,"dubia",,"","L.",Accepted,,M,TICA,A9C55170-A60C-4D42-9A05-FAF986E6FB57,250944-1,"","","840","1753",
+gcc-149235,A,Compositae,,Staehelina,,"dubia",var.,"dubia","",Synonym,,L,TICA,48C86D90-51C7-4CF4-9CDD-5498AB467964,,"","","","",gcc-143036
+gcc-66204,A,Compositae,,Staehelina,,"dubia",var.,"macrocephala","Faure & Maire",Synonym,,L,TICA,E7A2362F-2E93-4ED6-BB4A-CCDC4EB20513,,"","","","",gcc-143036
+gcc-6662,A,Compositae,,Staehelina,,"elegans",,"","Walter",Synonym,,L,TICA,76CA9530-15C2-4859-A0DA-0C5D21846C69,250945-1,"","","202","1788",gcc-149885
+gcc-8181,A,Compositae,,Staehelina,,"fasciculata",,"","Thunb.",Synonym,,M,TICA,68426FEF-B4F8-4E0F-8753-0F387DC516CC,250946-1,"Prodr. Pl. Cap. 143.","","143","",gcc-131061
+gcc-118683,A,Compositae,,Staehelina,,"fimbriata",,"","G.Forst.",Synonym,,M,TICA,44BD6872-B929-4D3E-82E9-C380A7CEA2CA,,"""de Candolle, A. P. 1838[1837] : Prodromus Systematis Naturalis Regni Vegetabilis. 6.  Paris, 687 p. ""","","152","1838",gcc-42049
+gcc-144941,A,Compositae,,Staehelina,,"fimbriata",,"","Forst. ex DC.",Unresolved,,L,TICA,AFCFE6E7-E012-44EC-9B1F-FF4D7B11962D,250947-1,"Prodr. (DC.) 6: 153","","153","1838",
+gcc-76903,A,Compositae,,Staehelina,,"fruticosa",,"","(L.) L.",Synonym,,M,TICA,D8863D56-179D-4074-94C1-65AB59A69EAD,,"","","","1767",gcc-1672
+gcc-100148,A,Compositae,,Staehelina,,"gnaphaloides",,"","L.",Synonym,,M,TICA,F7A2128D-D7F7-4EAE-A156-99EE3FF96905,,"Sp. Pl. 840.","","","1753",gcc-108010
+gcc-127692,A,Compositae,,Staehelina,,"hastata",,"","Vahl",Synonym,,M,TICA,8338B713-8756-4B11-BB80-D847BED4FAB5,250950-1,"Symb. Bot. (Vahl) i. 70","","70","1790",gcc-96314
+gcc-113386,A,Compositae,,Staehelina,,"ilicifolia",,"","L.f.",Unresolved,,L,TICA,EEDA1981-E2EF-499C-A199-B78820EEE878,243451-2,"Suppl. Pl. 358","","358","1782",gcc-23652
+gcc-41080,A,Compositae,,Staehelina,,"imbricata",,"","P.J.Bergius",Synonym,,M,TICA,C9AF3CEF-4E09-4172-B70B-4C23C14AEBFB,250952-1,"Descr. Pl. Cap. 233. 1767","","233","1767",gcc-1210
+gcc-87905,A,Compositae,,Staehelina,,"kurdica",,"","Merxm. & Rech.f.",Unresolved,,L,TICA,3F9CDB41-60A3-4495-B210-7E44607DF9FD,250953-1,"Ber. Deutsch. Bot. Ges. lxxii. 282 (1959)","","282","1959",gcc-80450
+gcc-111936,A,Compositae,,Staehelina,,"lobelii",,"","DC.",Synonym,,M,TICA,32DD3C67-1CD8-4199-ABB0-B4462F89F472,,"","","","1810",gcc-123439
+gcc-4357,A,Compositae,,Staehelina,,"petiolata",,"","(L.) Hilliard & B.L.Burtt",Accepted,,M,TICA,DD460E7F-0CCE-4CB8-9EC8-081AA6FC1066,250955-1,"","","384","1973",
+gcc-136935,A,Compositae,,Staehelina,,"pinnata",,"","Lag. ex Pers.",Synonym,,M,TICA,17E10740-19FB-4989-BF4F-ED5D8D1FD9AE,250956-1,"","","391","1807",gcc-101621
+gcc-101474,A,Compositae,,Staehelina,,"rosmarinifolia",,"","Cass.",Unresolved,,L,TICA,8944D62A-2A3E-4007-B1FC-9CE100794735,,"in Dict. Sc. Nat. i. 439.","","i. 439","",
+gcc-101797,A,Compositae,,Staehelina,,"sintenisii",,"","Bornm.",Unresolved,,L,TICA,3BD9C89D-C44E-427E-90F9-9D8E120EA222,,"""in Mitth. Thüring. Bot. Vereins n.s., xviii. 50.""","","50","",
+gcc-17612,A,Compositae,,Staehelina,,"sintenisii",,"","Bornm. ex O.Fedtsch. & B.Fedtsch.",Unresolved,,L,TICA,D0CAEA25-373A-4B12-8E3D-20854CC2038D,250959-1,"Consp. Fl. Turkest. iv. 228 (1912).","","iv. 228","1912",
+gcc-45355,A,Compositae,,Staehelina,,"solidaginoides",,"","Willd. ex Less.",Synonym,,M,TICA,AF08FADC-6F7A-4D5A-A098-540E059B94C6,,"Linnaea 4: 281-282. 1829.","","281-282","1829",gcc-45636
+gcc-50783,A,Compositae,,Staehelina,,"solidaginoides",,"","Willd. ex DC.",Unresolved,,L,TICA,5819B5F6-6BE4-47DC-8CF5-5E32B4A660F4,250960-1,"Prodr. (DC.) 5: 41","","41","1836",
+gcc-77229,A,Compositae,,Staehelina,,"spinosa",,"","Vahl",Unresolved,,L,TICA,56E5A153-DA94-4502-A27A-666980387933,250961-1,"Symb. Bot. (Vahl) i. 69","","69","1790",
+gcc-85332,A,Compositae,,Staehelina,,"squarrosa",,"","Raf.",Unresolved,,L,TICA,7469E243-D008-480D-AFB7-7876697C0DF0,250962-1,"Fl. Tellur. iv. 118.","","iv. 118","",
+gcc-52903,A,Compositae,,Staehelina,,"syriaca",,"","Spreng.",Unresolved,,L,TICA,DD493150-611D-4E62-8FB5-621F2BC0A007,250963-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 391","","391","1826",
+gcc-98136,A,Compositae,,Staehelina,,"tenuifolia",,"","C.Presl",Unresolved,,L,TICA,9A63BF98-2440-4316-AE91-9570EF1306A3,,"Fl. Sicul. (Presl) p. xxix.","","p. xxix.","",
+gcc-40675,A,Compositae,,Staehelina,,"unifloscula",,"","Sibth. & Sm.",Accepted,,L,TICA,7F725214-2723-4359-8577-4B6375E099A5,,"","","","",
+tro-50098895,_,,,Staehelina,,"uniflosculosa",,"","Sibth. & Sm.",Unresolved,,L,TRO,50098895,,"","","","",
+gcc-105848,A,Compositae,,Staehelina,,"uniflosculosa",,"","Sm.",Unresolved,,L,TICA,F2491CFD-B343-4F4A-8D6A-A67D2191EBB8,250965-1,"Sm.. 1813.","","162","1813",
+gcc-46820,A,Compositae,,Staehelina,,"uniflosculosa",,"","Sibth. & Sm.",Unresolved,,L,TICA,F8872076-06C5-4790-B58A-56C0E3FC2DBF,250965-1,"Fl. Graec. Prod. ii. 162.","","ii. 162.","",

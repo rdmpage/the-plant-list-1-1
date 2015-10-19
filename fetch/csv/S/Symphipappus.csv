@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50315457,A,Compositae,,Symphipappus,,"compressus",,"","B.L. Rob.",Unresolved,,L,TRO,50315457,,"Contr. Gray Herb.","80: 12","12","1928",
+gcc-117494,A,Compositae,,Symphipappus,,"dichotomus",,"","Klatt",Unresolved,,L,TICA,1D1E0EDD-5759-48D2-93B9-C0CDD40E6482,,"Bull. Herb. Boissier iv. (1896) 462.","","462","",
+tro-50315458,A,Compositae,,Symphipappus,,"polystachyus",,"","Baker",Unresolved,,L,TRO,50315458,,"Fl. Bras.","6(2): 368","368","",
+gcc-117683,A,Compositae,,Symphipappus,,"reticulatus",,"","Baker",Accepted,,M,TICA,6B56E289-CF5B-4CFD-AA40-C1377FDFCB74,,"Fl. Bras. (Martius) 6(2): 367","","367","1876",
+gcc-149323,A,Compositae,,Symphipappus,,"reticulatus",var.,"reticulatus","",Synonym,,L,TICA,75A7117C-BD42-4999-8174-566142476ACC,,"","","","",gcc-117683
+gcc-65191,A,Compositae,,Symphipappus,,"reticulatus",var.,"vernicosus","(Sch.Bip.) Baker",Synonym,,L,TICA,DDEB3354-BB42-497A-A211-C492EAE664D9,,"Fl. Bras. (Martius) 6(2): 368. 1876","","368","1876",gcc-29735
+tro-2709185,A,Compositae,,Symphipappus,,"viscosus",,"","Baker",Unresolved,,L,TRO,2709185,,"","","","",

@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2813740,A,Urticaceae,,Forsskaolea,,"angustifolia",,"","Retz.",Accepted,,M,WCSP (in review),,854037-1,"Observ. Bot.","3: 31","","1783",
+kew-2813741,A,Urticaceae,,Forsskaolea,,"candida",,"","L.f.",Accepted,,M,WCSP (in review),,854038-1,"Suppl. Pl.","245","","1782",
+tro-33400601,A,Urticaceae,,Forsskaolea,,"candida",var.,"candida","",Synonym,,L,TRO,33400601,,"","","","",kew-2813741
+tro-33400603,A,Urticaceae,,Forsskaolea,,"candida",var.,"virescens","Wedd.",Synonym,,L,TRO,33400603,,"","","","",kew-2813741
+kew-2813742,A,Urticaceae,,Forsskaolea,,"cossoniana",,"","Webb",Synonym,,M,WCSP (in review),,,"Otia Hispan.","new ed.: 49","","1853",kew-2813751
+kew-2813743,A,Urticaceae,,Forsskaolea,,"eenii",,"","Rendle",Synonym,,M,WCSP (in review),,854040-1,"J. Bot.","55: 203","","1917",kew-2813753
+kew-2813744,A,Urticaceae,,Forsskaolea,,"fruticosa",,"","Willd.",Synonym,,M,WCSP (in review),,854041-1,"Enum. Pl.","950","","1809",kew-2813740
+kew-2813745,A,Urticaceae,,Forsskaolea,,"griersonii",,"","A.G.Mill. & J.A.Nyberg",Accepted,,M,WCSP (in review),,977320-1,"Edinburgh J. Bot.","51: 44","","1994",
+kew-2813746,A,Urticaceae,,Forsskaolea,,"hereroensis",,"","Schinz",Accepted,,M,WCSP (in review),,854042-1,"Bull. Herb. Boissier","4(App. 3): 51","","1897",
+kew-2813747,A,Urticaceae,,Forsskaolea,,"latifolia",,"","Retz.",Synonym,Illegitimate,M,WCSP (in review),,854043-1,"Observ. Bot.","3: 31","","1783",kew-2813751
+kew-2813748,A,Urticaceae,,Forsskaolea,,"procridifolia",,"","Webb",Accepted,,M,WCSP (in review),,854044-1,"Niger Fl.","179","","1849",
+kew-2813749,A,Urticaceae,,Forsskaolea,,"procridifolia",var.,"microphylla","J.A.Schmidt",Synonym,,L,WCSP (in review),,,"Beitr. Fl. Cap Verd. Ins.","169","","1852",kew-2813748
+kew-2813750,A,Urticaceae,,Forsskaolea,,"scabra",,"","Retz.",Synonym,,M,WCSP (in review),,854045-1,"Observ. Bot.","3: 31","","1783",kew-2813741
+kew-2813751,A,Urticaceae,,Forsskaolea,,"tenacissima",,"","L.",Accepted,,M,WCSP (in review),,,"Mant. Pl.","72","","1767",
+kew-2813752,A,Urticaceae,,Forsskaolea,,"urticoides",,"","Wight",Synonym,,M,WCSP (in review),,,"Icon. Pl. Ind. Orient.","6: t. 1982","","1853",kew-2778058
+kew-2813753,A,Urticaceae,,Forsskaolea,,"viridis",,"","Ehrenb. ex Desf.",Accepted,,M,WCSP (in review),,854048-1,"Tabl. École Bot.","ed. 3: 347","","1829",
+tro-33400606,A,Urticaceae,,Forsskaolea,,"viridis",,"","Ehrenb. ex Webb",Unresolved,,L,TRO,33400606,,"Niger Fl.","179","179","1849",

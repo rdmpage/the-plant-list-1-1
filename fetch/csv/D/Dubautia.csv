@@ -1,0 +1,113 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-43396,A,Compositae,,Dubautia,,"arborea",,"","(A.Gray) D.D.Keck",Accepted,,M,TICA,ADB714F3-28BA-474E-B9FC-5066FD42E5EE,202179-1,"","","28","1936",
+tro-100364472,A,Compositae,,Dubautia,,"carrii",,"","B.G. Baldwin & E. A. Friar",Unresolved,,L,TRO,100364472,77106730-1,"Novon","20(1): 2–5, fig. 2","2","2010",
+gcc-90847,A,Compositae,,Dubautia,,"ciliolata",,"","(DC.) D.D.Keck",Accepted,,M,TICA,3EE99DCB-E409-4ED7-957C-850A6E2BB6F1,202180-1,"","","26","1936",
+gcc-148712,A,Compositae,,Dubautia,,"ciliolata",var.,"ciliolata","",Synonym,,L,TICA,80BDDC11-E47E-43FC-8D71-48F25AC42EDB,,"","","","",gcc-90847
+gcc-53854,A,Compositae,,Dubautia,,"ciliolata",subsp.,"ciliolata","",Synonym,,L,TICA,2537EBD2-43F3-4538-BEE2-69495FAD5022,,"","","","",gcc-90847
+gcc-62021,A,Compositae,,Dubautia,,"ciliolata",var.,"juniperoides","(A.Gray) D.D.Keck",Synonym,,L,TICA,D40E1C15-E8E0-4A81-9B9F-AB72064F0640,,"","","","",gcc-90847
+gcc-55111,A,Compositae,,Dubautia,,"ciliolata",var.,"trinervia","Hillebr.",Synonym,,L,TICA,19B041AE-006E-4E85-B358-73716BEA6DF0,,"","","","",gcc-42185
+gcc-3995,A,Compositae,,Dubautia,,"coriacea",,"","(Sherff) D.D.Keck",Synonym,,M,TICA,024E15C3-E8A6-4062-809A-076AD5142C97,202181-1,"","","27","1936",gcc-121869
+gcc-31195,A,Compositae,,Dubautia,,"demissifolia",,"","(Sherff) D.D.Keck",Accepted,,M,TICA,6D9F8449-5A1F-4535-A071-39C33DD879AC,202182-1,"","","27","1936",
+gcc-155369,A,Compositae,,Dubautia,,"demissifolia",var.,"demissifolia","",Synonym,,L,TICA,2154B32A-91EA-4528-BE28-D6D1AE20342C,,"","","","",gcc-31195
+gcc-102398,A,Compositae,,Dubautia,,"dolosa",,"","(O.Deg. & Sherff) G.D.Carr",Synonym,,M,TICA,C87AAF95-D236-41E0-91A5-9F0A1C8B5D15,,"","","101","1985",gcc-14042
+gcc-23601,A,Compositae,,Dubautia,,"dolosa",,"","O.Deg. & Sherff",Unresolved,,L,TICA,030853AC-3BFA-4BBF-9F4D-2BA1C6939DF6,,"","","","",
+gcc-121851,A,Compositae,,Dubautia,×,"fallax",,"","Sherff",Accepted,,M,TICA,8B8EFD7C-D9F2-47A7-A3C2-CAAEA3A61C8D,202183-1,"Bot. Gaz. xcvi. 150 (1934)","","150","1934",
+gcc-42456,A,Compositae,,Dubautia,,"fauriei",,"","H.Lév.",Synonym,,M,TICA,F54B3C21-69E7-4B89-8F05-4E9F3BAB41B9,202184-1,"Repert. Spec. Nov. Regni Veg. 10","","122","1911",gcc-45296
+gcc-129067,A,Compositae,,Dubautia,×,"fucosa",,"","Sherff",Synonym,,M,TICA,2875EE86-697E-43E1-A778-DB6F886EC91C,202185-1,"Bot. Gaz. xcvi. 149 (1934)","","149","1934",gcc-121851
+tro-100367433,A,Compositae,,Dubautia,,"hanaulaensis",,"","B.G. Baldwin",Unresolved,,L,TRO,100367433,77106731-1,"Novon","20(1): 5–7, f. 3","5","2010",
+gcc-23425,A,Compositae,,Dubautia,,"herbstobatae",,"","G.D.Carr",Accepted,,M,TICA,C4E8E078-240B-47C4-B65F-2B5DE508783A,202186-1,"","","233","1980",
+gcc-19653,A,Compositae,,Dubautia,,"hillebrandii",,"","(H.Mann) D.D.Keck",Synonym,,M,TICA,50C06C25-2143-44C4-8D89-245529070EC8,202187-1,"","","28","1936",gcc-60772
+gcc-99169,A,Compositae,,Dubautia,,"hillebrandii",,"","Mann & Sherff",Unresolved,,L,TICA,3D1E9036-CF5C-4BA9-AE9F-97C19A5B6D0F,,"","","","",
+gcc-44572,A,Compositae,,Dubautia,,"imbricata",,"","H.St.John & G.D.Carr",Accepted,,M,TICA,DA1B2035-AEFC-4CE1-BA90-52932E4ED311,897653-1,"","","198","1981",
+gcc-63159,A,Compositae,,Dubautia,,"imbricata",subsp.,"imbricata","",Synonym,,L,TICA,873EB1AA-EFDC-4536-806F-B4947C54A444,,"","","","",gcc-44572
+gcc-128889,A,Compositae,,Dubautia,,"kalalauensis",,"","B.G.Baldwin & G.D.Carr",Accepted,,M,TICA,07573BA9-4EDF-443A-9060-DB0D0F41E180,,"","","","2005",
+gcc-103594,A,Compositae,,Dubautia,,"kenwoodii",,"","G.D.Carr",Accepted,,M,TICA,3D842A78-4163-43F1-A74E-A19E161AA8B6,1001366-1,"","","8","1998",
+gcc-123634,A,Compositae,,Dubautia,,"knudsenii",,"","Hillebr.",Accepted,,M,TICA,E96AA956-528A-4B89-A777-CEC958539613,202188-1,"","","","1888",
+gcc-41092,A,Compositae,,Dubautia,,"knudsenii",var.,"degeneri","Sherff",Synonym,,L,TICA,25300EDA-B12B-42CB-A809-4C28E3EFDF9A,,"","","","",gcc-45296
+gcc-151441,A,Compositae,,Dubautia,,"knudsenii",var.,"knudsenii","",Synonym,,L,TICA,F6F564AC-6167-46E9-91FE-84B402B9288A,,"","","","",gcc-123634
+gcc-48552,A,Compositae,,Dubautia,,"knudsenii",subsp.,"knudsenii","",Synonym,,L,TICA,B0D1CF1B-4BB0-4E59-A0D3-59ED60D558D0,,"","","","",gcc-123634
+gcc-44136,A,Compositae,,Dubautia,,"knudsenii",subsp.,"nagatae","(H.St.John) G.D.Carr",Accepted,,L,TICA,57C8BE9A-7C85-4492-BB9B-51B89E43CC35,924194-1,"","","83","1985",
+gcc-48252,A,Compositae,,Dubautia,,"kohalae",,"","(Skottsb.) H.St.John",Synonym,,M,TICA,393276A5-26B0-477A-AA42-596DFEE61C78,,"","","","1950",gcc-121851
+gcc-105560,A,Compositae,,Dubautia,,"laevigata",,"","A.Gray",Accepted,,M,TICA,0574EB39-3116-4B53-947B-A5D61A4AC5B2,202190-1,"","","135","1861",
+gcc-147961,A,Compositae,,Dubautia,,"laevigata",var.,"laevigata","",Synonym,,L,TICA,4C2E5059-EEE1-499C-8EBA-38FA81CA0F80,,"","","","",gcc-105560
+gcc-62011,A,Compositae,,Dubautia,,"laevigata",var.,"parvifolia","Sherff",Synonym,,L,TICA,DFA2525C-BF37-48B7-A4A7-AB6098775C35,,"American Journal of Botany 20:","","616","1933",gcc-105560
+gcc-118165,A,Compositae,,Dubautia,,"latifolia",,"","(A.Gray) D.D.Keck",Accepted,,M,TICA,22C5FA62-F10D-4DEA-BB01-C24C74FB0673,202191-1,"","","26","1936",
+gcc-45296,A,Compositae,,Dubautia,,"laxa",,"","Hook. & Arn.",Accepted,,M,TICA,FB45DC69-2C58-44B7-B649-53F28274196E,202192-1,"","","87","1832",
+gcc-18055,A,Compositae,,Dubautia,,"laxa",subsp.,"bryanii","(Sherff) G.D.Carr",Accepted,,L,TICA,394FF143-5EE6-4970-A175-215C4B99AD8C,924195-1,"","","69","1985",
+gcc-68353,A,Compositae,,Dubautia,,"laxa",var.,"bryanii","Sherff",Synonym,,L,TICA,C586B7D3-E01A-4393-B8E6-DE2B7AB72391,,"Amer. J. Bot. 20: 617 (1933)","","617","1933",gcc-18055
+gcc-15620,A,Compositae,,Dubautia,,"laxa",var.,"greenwelliae","O.Deg. & Sherff",Synonym,,L,TICA,CD1CAD25-97EB-448E-8B89-1CEE6DDEE165,,"","","","",gcc-45296
+gcc-24043,A,Compositae,,Dubautia,,"laxa",var.,"hirsuta","Hillebr.",Synonym,,L,TICA,437A6544-9005-457E-BF6F-2C6EC2B6AB35,,"Fl. Hawaiian Isl.: 223 (1888)","","223","1888",gcc-18055
+gcc-59479,A,Compositae,,Dubautia,,"laxa",var.,"hispida","Sherff",Synonym,,L,TICA,F538E006-A488-46BC-9C5C-96ACE6967B5A,,"","","","",gcc-45296
+gcc-151371,A,Compositae,,Dubautia,,"laxa",var.,"laxa","",Synonym,,L,TICA,77693831-13F4-44CD-AC15-83188929BF80,,"","","","",gcc-45296
+gcc-65640,A,Compositae,,Dubautia,,"laxa",subsp.,"laxa","",Synonym,,L,TICA,DEFF1698-5A4B-49B7-A7AF-C865A1DE4CB3,,"","","","",gcc-45296
+gcc-63656,A,Compositae,,Dubautia,,"laxa",var.,"obovata","Sherff",Synonym,,L,TICA,A9E505AA-8A81-4A64-BA8E-B8857EC11054,,"","","","",gcc-45296
+gcc-65472,A,Compositae,,Dubautia,,"laxa",var.,"pedicellata","Rock",Synonym,,L,TICA,FFDF8F96-DA2A-457C-A2D4-C70417D286CC,,"","","","",gcc-18055
+gcc-55906,A,Compositae,,Dubautia,,"laxa",subsp.,"pseudoplantaginea","(Skottsb.) G.D.Carr",Accepted,,L,TICA,B832CB24-864E-4283-8840-79FF7738C149,924197-1,"","","69","1985",
+gcc-59241,A,Compositae,,Dubautia,,"laxa",var.,"pseudoplantaginea","Skottsb.",Synonym,,L,TICA,E1A31312-DBB9-465F-8961-94E03E3E3170,,"Acta Horti Gothob. 2: 280 (1926)","","280","1926",gcc-55906
+gcc-58779,A,Compositae,,Dubautia,,"laxa",var.,"skottsbergii","Sherff",Synonym,,L,TICA,792F4595-D26F-41B7-854A-915473832F3E,,"","","","",gcc-18055
+gcc-15049,A,Compositae,,Dubautia,,"laxa",var.,"waianensis","O.Deg. & Sherff",Synonym,,L,TICA,21E6CC8D-3EE9-4A29-AAF4-1BDCEED350D4,,"","","","",gcc-18055
+gcc-83231,A,Compositae,,Dubautia,,"linearis",,"","(Gaudich.) D.D.Keck",Accepted,,M,TICA,F1C17E87-01FE-4564-92B2-73D9A91FED2E,202193-1,"","","27","1936",
+gcc-60772,A,Compositae,,Dubautia,,"linearis",subsp.,"hillebrandii","(H.Mann) G.D.Carr",Accepted,,L,TICA,E68AC93D-A945-4C3B-95B5-A1116722783D,924198-1,"","","98","1985",
+gcc-148910,A,Compositae,,Dubautia,,"linearis",var.,"linearis","",Synonym,,L,TICA,98B64133-4351-4DB4-8F41-4D8D08B5F256,,"","","","",gcc-83231
+gcc-39061,A,Compositae,,Dubautia,,"linearis",subsp.,"linearis","",Synonym,,L,TICA,504C09FE-84A8-4FD2-8B0F-4877DE2ED355,,"","","","",gcc-83231
+gcc-48558,A,Compositae,,Dubautia,,"linearis",subsp.,"opposita","(Sherff) G.D.Carr",Accepted,,L,TICA,671A1BE1-8837-4F83-8044-59F0F5960062,924199-1,"","","97","1985",
+gcc-53703,A,Compositae,,Dubautia,,"linearis",var.,"opposita","(Sherff) D.D.Keck",Synonym,,L,TICA,FA37F7D1-3B84-4E35-9BF9-68375F656700,,"","","","",gcc-48558
+gcc-126788,A,Compositae,,Dubautia,,"lonchophylla",,"","(Sherff) D.D.Keck",Synonym,,M,TICA,F325EEB9-A396-4E6B-9E79-D61C64B55BE7,202194-1,"","","27","1936",gcc-121851
+gcc-27719,A,Compositae,,Dubautia,,"magnifolia",,"","Sherff",Synonym,,M,TICA,1E19C04A-975D-4BE0-8CE9-333D5C2D2ECC,202195-1,"","","616","1933",gcc-53332
+gcc-79505,A,Compositae,,Dubautia,,"media",,"","Sherff",Accepted,,M,TICA,B8744B3A-2DDF-4738-9AB8-6B95F0633843,202196-1,"Amer. J. Bot. 20: 617 (1933)","","617","1933",
+gcc-124791,A,Compositae,,Dubautia,×,"mendacoides",,"","O.Deg. & Sherff",Synonym,,M,TICA,8DA1066E-E6BC-4F40-8B65-D17F0AAC88B3,,"","","","1952",gcc-105560
+tro-2709970,A,Compositae,,Dubautia,,"mendacoides",,"","O. Deg. & Sherff",Accepted,,M,TRO,2709970,,"","","","",
+gcc-95749,A,Compositae,,Dubautia,×,"mendax",,"","Sherff",Synonym,,M,TICA,8739CA4B-3285-4FAD-9249-90126163CAF1,202198-1,"""Amer. J. Bot. 1933, xx. 617.""","","617","1933",gcc-79505
+tro-2709971,A,Compositae,,Dubautia,,"mendax",,"","Sherff",Accepted,,M,TRO,2709971,,"","","","",
+gcc-42185,A,Compositae,,Dubautia,,"menziesii",,"","(A.Gray) D.D.Keck",Accepted,,M,TICA,2D05025F-23CC-40BC-9DC6-4E2B17694AC3,202199-1,"","","28","1936",
+gcc-19304,A,Compositae,,Dubautia,,"menziesii",var.,"angustifolia","(Sherff) D.D.Keck",Synonym,,L,TICA,2BCEEC60-D81C-4AFC-991E-23AE281823F1,,"","","","",gcc-42185
+gcc-155853,A,Compositae,,Dubautia,,"menziesii",var.,"menziesii","",Synonym,,L,TICA,41A309DE-AE11-4D69-AB80-E10CA8708165,,"","","","",gcc-42185
+gcc-28496,A,Compositae,,Dubautia,,"microcephala",,"","Skottsb.",Accepted,,M,TICA,7443A743-69B8-4E16-BE87-34AFE644DAA8,,"","","","1926",
+gcc-155323,A,Compositae,,Dubautia,,"microcephala",var.,"microcephala","",Synonym,,L,TICA,E5B6E3C2-C95B-4691-956B-D5C7551A0CDF,,"","","","",gcc-28496
+gcc-115134,A,Compositae,,Dubautia,,"molokaiensis",,"","(Hillebr.) D.D.Keck",Accepted,,M,TICA,00355907-8DCD-4E60-A166-BB6BC4BFC6FA,202201-1,"","","27","1936",
+gcc-152615,A,Compositae,,Dubautia,,"molokaiensis",var.,"molokaiensis","",Synonym,,L,TICA,83600258-5703-470C-8382-9D3C857DEBD2,,"","","","",gcc-115134
+gcc-62260,A,Compositae,,Dubautia,,"molokaiensis",var.,"oppositifolia","(Sherff) D.D.Keck",Synonym,,L,TICA,B66CEAFD-EC6E-4986-81E3-AD3D88BBEF5C,,"","","","",gcc-115134
+gcc-61573,A,Compositae,,Dubautia,,"molokaiensis",var.,"stipitata","(Sherff) D.D.Keck",Synonym,,L,TICA,E7E739C3-1CA4-4AB8-8DE1-A7BEF66C3694,,"","","","",gcc-55125
+gcc-118721,A,Compositae,,Dubautia,,"montana",,"","(H.Mann) D.D.Keck",Accepted,,M,TICA,F00C0739-7414-474D-BB79-C39776AC5596,202202-1,"","","28","1936",
+gcc-30671,A,Compositae,,Dubautia,,"montana",var.,"longifolia","(Sherff) D.D.Keck",Synonym,,L,TICA,028A9A54-FCEF-4335-8B9F-38CAB8381D4C,,"","","","",gcc-110575
+gcc-150674,A,Compositae,,Dubautia,,"montana",var.,"montana","",Synonym,,L,TICA,1AC5F460-33A9-429F-9448-73DCDE7D33A1,,"","","","",gcc-118721
+gcc-63335,A,Compositae,,Dubautia,,"montana",var.,"robustior","(Sherff) D.D.Keck",Synonym,,L,TICA,1700AF31-926B-4768-8E10-B60A03183314,,"","","","",gcc-31195
+gcc-103582,A,Compositae,,Dubautia,,"nagatae",,"","H.St.John",Synonym,,M,TICA,FC343DA5-886C-4CAB-B3F6-A195ED3A01F5,202203-1,"","","1","1979",gcc-44136
+gcc-85077,A,Compositae,,Dubautia,,"paleata",,"","A.Gray",Accepted,,M,TICA,E1CAA6A3-8B42-402A-A73F-77DE16C8A069,202204-1,"","","135","1861",
+gcc-94191,A,Compositae,,Dubautia,,"paludicola",,"","Sherff",Synonym,,M,TICA,8E3B69DD-FEF5-4C29-8804-8C6C27DBAC79,,"","","","1952",gcc-85077
+gcc-14953,A,Compositae,,Dubautia,,"pauciflorula",,"","H.St.John & G.D.Carr",Accepted,,M,TICA,299AA7A4-FA48-40B1-BA20-1BAEA025D97A,897654-1,"","","202","1981",
+gcc-144613,A,Compositae,,Dubautia,,"plantaginea",,"","Gaudich.",Accepted,,M,TICA,0C325278-1715-46A5-AC21-FE87EE42F672,,"","","","1830",
+gcc-60956,A,Compositae,,Dubautia,,"plantaginea",var.,"acridentata","Sherff",Synonym,,L,TICA,9B8C3465-5450-437C-BDC3-A2997946D06B,,"","","","",gcc-144613
+gcc-55028,A,Compositae,,Dubautia,,"plantaginea",var.,"glandulosa","H.St.John",Synonym,,L,TICA,2FFFC591-05AA-4552-89D9-72A9F5571E3D,,"","","","",gcc-144613
+gcc-53332,A,Compositae,,Dubautia,,"plantaginea",subsp.,"magnifolia","(Sherff) G.D.Carr",Accepted,,L,TICA,3894BF86-6A66-48E9-9D75-6567D3BEB473,924200-1,"","","80","1985",
+gcc-39781,A,Compositae,,Dubautia,,"plantaginea",var.,"pauoaensis","H.St.John",Synonym,,L,TICA,D33A92C5-3A6D-4187-A269-49CE70EFFD0B,,"","","","",gcc-144613
+gcc-149652,A,Compositae,,Dubautia,,"plantaginea",var.,"plantaginea","",Synonym,,L,TICA,BDAA401E-4116-454A-A7F1-5D7D8D66046E,,"","","","",gcc-144613
+gcc-149726,A,Compositae,,Dubautia,,"plantaginea",f.,"plantaginea","",Synonym,,L,TICA,967EC244-1A19-42C9-BB8B-5EFC74B3A868,,"","","","",gcc-144613
+gcc-70298,A,Compositae,,Dubautia,,"plantaginea",subsp.,"plantaginea","",Synonym,,L,TICA,8B098365-B79B-48DC-80C9-ECFE3F7E1677,,"","","","",gcc-144613
+gcc-21985,A,Compositae,,Dubautia,,"plantaginea",var.,"platyphylla","Hillebr.",Synonym,,L,TICA,B5E3905A-F384-493A-AD22-28A8FC8E06E0,,"","","","",gcc-144613
+gcc-68598,A,Compositae,,Dubautia,,"plantaginea",var.,"strigosa","Skottsb.",Synonym,,L,TICA,FAEC5681-AAE1-476C-A18B-DFF7E7E93B8D,,"","","","",gcc-144613
+gcc-50744,A,Compositae,,Dubautia,,"platyphylla",,"","(A.Gray) D.D.Keck",Accepted,,M,TICA,8628A622-4405-4BE0-B3AE-5E18E7AD7109,202207-1,"","","28","1936",
+gcc-72032,A,Compositae,,Dubautia,,"platyphylla",var.,"leptophylla","(Sherff) D.D.Keck",Synonym,,L,TICA,B83EA168-2F20-4E7C-8716-FAC865A5044F,,"","","","",gcc-50744
+gcc-156300,A,Compositae,,Dubautia,,"platyphylla",var.,"platyphylla","",Synonym,,L,TICA,B94CC721-46F1-45CD-9AED-EA5AA470F157,,"","","","",gcc-50744
+gcc-116312,A,Compositae,,Dubautia,,"raillardioides",,"","Hillebr.",Accepted,,M,TICA,66DB0A71-EA64-4AD3-AF68-BE20EA45EDA2,202208-1,"","","","1888",
+gcc-110575,A,Compositae,,Dubautia,,"reticulata",,"","(Sherff) D.D.Keck",Accepted,,M,TICA,C113F6C9-47CE-4093-BFB3-B133369BCA4D,202209-1,"","","28","1936",
+gcc-124629,A,Compositae,,Dubautia,,"reticulata",,"","(Sherff) G.D.Carr",Unresolved,,L,TICA,D4DA5F7E-62B6-4930-8D3E-D127DC5D2B2B,,"","","","",
+gcc-129705,A,Compositae,,Dubautia,,"rockii",,"","(Sherff) D.D.Keck",Synonym,,M,TICA,960997A4-79E5-462C-9869-DCE4B4E5898A,202210-1,"","","28","1936",gcc-42185
+gcc-100226,A,Compositae,,Dubautia,,"scabra",,"","(DC.) D.D.Keck",Accepted,,L,TICA,909606B2-3656-4F93-B9EB-9A246731783D,,"","","26","1936",
+gcc-26399,A,Compositae,,Dubautia,,"scabra",var.,"leiophylla","(A.Gray) D.D.Keck",Synonym,,L,TICA,4F0C8BD1-44B4-4F26-97A5-30CA7FA6EC17,,"","","","",gcc-55125
+gcc-55125,A,Compositae,,Dubautia,,"scabra",subsp.,"leiophylla","(A.Gray) G.D.Carr",Accepted,,L,TICA,B719CC6C-D1C6-4859-9B7B-73914510B53A,924201-1,"","","88","1985",
+gcc-67921,A,Compositae,,Dubautia,,"scabra",var.,"munroi","(Sherff) D.D.Keck",Synonym,,L,TICA,FB19F154-DAFB-4ABA-A22A-DAF80598707F,,"","","","",gcc-55125
+gcc-152094,A,Compositae,,Dubautia,,"scabra",var.,"scabra","",Synonym,,L,TICA,43F758D5-9DF6-4E3F-8C78-926CA468E162,,"","","","",gcc-100226
+gcc-39709,A,Compositae,,Dubautia,,"scabra",subsp.,"scabra","",Synonym,,L,TICA,DE231990-66A6-4109-9EB9-49AE0658C68D,,"","","","",gcc-100226
+gcc-77762,A,Compositae,,Dubautia,,"sherffiana",,"","Fosberg",Accepted,,M,TICA,8A5F818F-3860-4208-8D1F-679DC0DBC74E,202212-1,"","","395","1943",
+gcc-66674,A,Compositae,,Dubautia,,"sherffiana",var.,"paucinervia","(O.Deg. & Sherff) D.Herbst",Unresolved,,L,TICA,F56AEF5D-58B3-4654-97D5-D0B73A2088E0,877170-1,"","","67","1980",gcc-77762
+gcc-148593,A,Compositae,,Dubautia,,"sherffiana",var.,"sherffiana","",Synonym,,L,TICA,91ADC2FB-CD4F-474B-9ECA-45F0ED4AB8F2,,"","","","",gcc-77762
+gcc-26430,A,Compositae,,Dubautia,,"struthioloides",,"","(A.Gray) D.D.Keck",Synonym,,M,TICA,282B7423-D7C9-4394-85DA-30D6B3AD174C,202213-1,"","","28","1936",gcc-42185
+gcc-15614,A,Compositae,,Dubautia,,"syndetica",,"","G.D.Carr & Lorence",Accepted,,M,TICA,19435ED0-AA36-482C-82E9-1CEA7DC62771,1001365-1,"","","4","1998",
+gcc-124007,A,Compositae,,Dubautia,,"ternifolia",,"","(Sherff) D.D.Keck",Synonym,,M,TICA,4F3800BC-9AD8-46C7-B59B-CFB6E4433226,202214-1,"","","27","1936",gcc-121869
+gcc-121869,A,Compositae,,Dubautia,,"thyrsiflora",,"","(Sherff) D.D.Keck",Accepted,,M,TICA,41919A92-990E-442F-9A2C-CAB868844E6D,202215-1,"","","27","1936",
+gcc-55832,A,Compositae,,Dubautia,,"thyrsiflora",var.,"cernua","(Sherff) D.D.Keck",Synonym,,L,TICA,CA7D09BF-B2C2-45FD-98E8-79526506E6CE,,"","","","",gcc-121869
+gcc-149383,A,Compositae,,Dubautia,,"thyrsiflora",var.,"thyrsiflora","",Synonym,,L,TICA,0C1E6BC9-85BA-4AFB-8BA8-57956FF2D524,,"","","","",gcc-121869
+gcc-3586,A,Compositae,,Dubautia,,"waialealae",,"","Rock",Accepted,,M,TICA,DC085732-0EE1-49D6-B229-06A08E792B28,,"","","","1910",
+gcc-156885,A,Compositae,,Dubautia,,"waialealae",var.,"waialealae","",Synonym,,L,TICA,E0E66A68-ABE5-42BD-ABE2-F63AD5E9CA77,,"","","","",gcc-3586
+gcc-14042,A,Compositae,,Dubautia,,"waianapanapaensis",,"","G.D.Carr",Accepted,,M,TICA,A1585B9A-3F4A-456E-A7E4-1A0AC03A6CC2,202217-1,"","","234","1980",

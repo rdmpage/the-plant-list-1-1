@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-44056,A,Compositae,,Borrichia,,"arborescens",,"","(L.) DC.",Accepted,,M,TICA,07B0C4D9-7655-4952-A1B0-5193FBEFD244,185803-1,"Prodr. 5: 489. 1836.","","489","1836",
+gcc-93426,A,Compositae,,Borrichia,,"argentea",,"","(Kunth) DC.",Synonym,,M,TICA,3ECF6786-EEA2-4D7F-B480-8AB83CC8EEAF,185804-1,"Prodr. 5","","489","1836",gcc-44056
+gcc-35733,A,Compositae,,Borrichia,×,"cubana",,"","Britton & S.F.Blake",Accepted,,M,TICA,FB9DCCB4-FF52-4290-8419-42448DD551AA,35085-2,"Mem. Torrey Bot. Club 16: 116. 1920","","116","1920",
+gcc-131668,A,Compositae,,Borrichia,,"demissa",,"","DC.",Unresolved,,L,TICA,8E87667C-92BD-44F8-B690-E16C73D5F75A,185806-1,"","","489","1836",
+gcc-21790,A,Compositae,,Borrichia,,"frutescens",,"","(L.) DC.",Accepted,,M,TICA,DF4051A0-2B3D-4778-9037-2851224596DF,1175415-2,"Prodr. 5","","489","1836",
+gcc-54387,A,Compositae,,Borrichia,,"frutescens",var.,"angustifolia","DC.",Synonym,,L,TICA,A237B134-65B4-4C07-B8B8-6DA2578D53B0,35086-2,"","","489","1836",gcc-21790
+gcc-154877,A,Compositae,,Borrichia,,"frutescens",var.,"frutescens","",Synonym,,L,TICA,0B1384DB-AC16-4F2C-A501-CC80C537B177,,"","","","",gcc-21790
+gcc-97581,A,Compositae,,Borrichia,,"glabrata",,"","Small",Synonym,,M,TICA,139A6938-2419-40F4-91AD-9436818C34AA,35087-2,"","","1263","1903",gcc-44056
+gcc-140939,A,Compositae,,Borrichia,,"incanum",,"","Mill.",Unresolved,,L,TICA,22C60181-D502-4050-8B1D-F63C2C577AAA,,"","","","",
+gcc-31664,A,Compositae,,Borrichia,,"peruviana",,"","(Lam.) DC.",Accepted,,M,TICA,A8F3334C-B36C-4685-AB90-3AB17F6CB491,185809-1,"","","489","1836",

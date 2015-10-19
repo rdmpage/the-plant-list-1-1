@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-27235,A,Compositae,,Calycoseris,,"parryi",,"","A.Gray",Accepted,,M,TICA,BFED413C-CD95-42A6-B59F-325DB5D6DDA8,328777-2,"","","106","1858",
+gcc-109959,A,Compositae,,Calycoseris,,"wrightii",,"","A.Gray",Accepted,,M,TICA,F65460F0-846F-43EF-BE89-AFD07C8FC1B8,328776-2,"","","104","1853",
+gcc-71494,A,Compositae,,Calycoseris,,"wrightii",var.,"californica","Brandegee",Synonym,,L,TICA,7DA9CD95-778A-4113-A2D6-F6AD9F20A5F6,43089-2,"Zoe 5","","155","1903",gcc-109959
+gcc-156667,A,Compositae,,Calycoseris,,"wrightii",var.,"wrightii","",Synonym,,L,TICA,0E222AF9-48C5-492E-A981-F1E0BF2905B6,,"","","","",gcc-109959

@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-44728,A,Compositae,,Chevreulia,,"acuminata",,"","Less.",Accepted,,M,TICA,993FA768-AD4E-40AE-943F-52DB8F9687A6,192757-1,"Linnaea 5","","261","1830",
+gcc-75851,A,Compositae,,Chevreulia,,"columbica",,"","Sch.Bip.",Unresolved,Illegitimate,L,TICA,49FF66F8-FFA8-404E-AF09-635EB930F41C,,"","","","",
+gcc-91188,A,Compositae,,Chevreulia,,"diemii",,"","Cabrera",Accepted,,M,TICA,91F6DA5F-C865-4F35-9457-85C93AEA832A,192758-1,"","","114","1942",
+gcc-126729,A,Compositae,,Chevreulia,,"elegans",,"","Rusby",Synonym,,M,TICA,ECEDF683-9770-4DA3-8797-D5F57B228B31,56297-2,"Bull. New York Bot. Gard. 4","","389","1907",gcc-44728
+gcc-49938,A,Compositae,,Chevreulia,,"filiformis",,"","Hook. & Arn.",Synonym,,M,TICA,EC3BC29D-D34E-4349-B267-5C939A0FB799,192760-1,"","","102","1835",gcc-44728
+gcc-30662,A,Compositae,,Chevreulia,,"gnaphalioides",,"","D.Don ex Hook. & Arn.",Accepted,,M,TICA,9DDEAD04-AA55-429A-B52C-38C3462A3AD8,,"","","","1835",
+gcc-37063,A,Compositae,,Chevreulia,,"lanceolata",,"","J.Rémy",Unresolved,,L,TICA,08D04B30-8630-4C3E-B110-44AD7D131CCB,192762-1,"","","333","1847",gcc-105072
+gcc-79616,A,Compositae,,Chevreulia,,"longipes",,"","Wedd.",Synonym,,M,TICA,CDA24F74-3786-4DCF-890B-6BD072124395,192763-1,"","","157","1856",gcc-44728
+gcc-25225,A,Compositae,,Chevreulia,,"lycopodioides",,"","(d'Urv.) DC.",Accepted,,M,TICA,BA237DB0-32A2-4A82-9E16-2E92FC44C5D8,192764-1,"","","45","1838",
+gcc-30196,A,Compositae,,Chevreulia,,"nivea",,"","Phil.",Synonym,,M,TICA,301055B0-01C0-4359-9F09-37E317E71D55,192765-1,"","","380","1862",gcc-94961
+gcc-105072,A,Compositae,,Chevreulia,,"pusilla",,"","DC.",Accepted,,M,TICA,F99D365C-BEBB-4D65-B7EB-A4D9C6871863,192766-1,"","","45","1838",
+tro-100375908,A,Compositae,,Chevreulia,,"revoluta",,"","A.A. Schneid. & R. Trevis.",Unresolved,,L,TRO,100375908,77116677-1,"Syst. Bot.","36(3): 782–784, fig. 1","782","2011",
+gcc-120985,A,Compositae,,Chevreulia,,"sarmentosa",,"","(Pers.) S.F.Blake",Accepted,,M,TICA,5D2373AF-FA23-463C-9F89-C8C9702CB5E8,1069519-2,"Proc. Biol. Soc. Wash. 38","","85","1925",
+gcc-91489,A,Compositae,,Chevreulia,,"stolonifera",,"","(Pers.) Cass.",Synonym,,M,TICA,66F52036-9D3D-412D-B4AE-867EE1E39139,192768-1,"","","","1817",gcc-120985
+gcc-129453,A,Compositae,,Chevreulia,,"thouarsii",,"","J.Rémy",Synonym,,M,TICA,DE759C1A-DEAE-4CB0-A844-DC49D3A8BDF7,,"","","332","",gcc-120985
+gcc-35203,A,Compositae,,Chevreulia,,"xeranthemoides",,"","D.Don ex Hook.",Accepted,,M,TICA,4515842C-B3CC-419A-B192-41471A8662FC,,"","","","1835",

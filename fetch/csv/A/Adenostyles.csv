@@ -1,0 +1,73 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91229,A,Compositae,,Adenostyles,,"albida",,"","Cass.",Synonym,,M,TICA,D60D6160-B3F7-4B6C-9177-85E5DC3A5C96,,"","","60","1816",gcc-156793
+gcc-49559,A,Compositae,,Adenostyles,,"albida",var.,"kerneri","(Simonk.) Beck",Synonym,,L,TICA,BE786930-3125-443F-BD4A-5BDC888E88A9,,"Fl. Nieder-Österreich 2: 1163 (1893)","","1163","1893",gcc-156793
+gcc-58457,A,Compositae,,Adenostyles,,"albida",subsp.,"kerneri","(Simonk.) Nyman",Synonym,,L,TICA,0AC59A57-59B0-46C4-A5CF-8ED2F52F5504,,"Nyman. 1889.","","177","1889",gcc-156793
+gcc-60836,A,Compositae,,Adenostyles,,"albida",subsp.,"pyrenaica","(Lange) Rouy",Synonym,,L,TICA,684C9F04-2E3D-4E1A-B000-A199DD9C9821,,"","","351","1903",gcc-24030
+gcc-20060,A,Compositae,,Adenostyles,,"albifrons",,"","(L.f.) Rchb.",Synonym,,M,TICA,785A3277-81DA-4D0E-A62D-251686A0D1F9,175034-1,"","","278","1831",gcc-156793
+gcc-156793,A,Compositae,,Adenostyles,,"alliariae",,"","(Gouan) A.Kern.",Accepted,,M,TICA,12F26BF2-A359-4EEC-917E-F4592BABC7C4,175035-1,"","","12","1871",
+gcc-63118,A,Compositae,,Adenostyles,,"alliariae",subsp.,"alliariae","",Synonym,,L,TICA,9917435B-178E-48CA-A5A8-B43FC9453F09,,"","","","",gcc-156793
+gcc-55839,A,Compositae,,Adenostyles,,"alliariae",subsp.,"hybrida","(Vill.) Tutin",Synonym,,L,TICA,420C077C-7340-4E08-BF04-7971B24F4214,,"","","282","1973",gcc-88974
+gcc-4393,A,Compositae,,Adenostyles,,"alliariae",subsp.,"kerneri","",Unresolved,,L,TICA,49480039-24F5-4895-BEA4-082B38E91E5F,,"","","","",
+gcc-7529,A,Compositae,,Adenostyles,,"alliariae",subsp.,"macrocephala","(""Huter, Porta & Rigo"") Wagenitz & I.Müll.",Accepted,,L,TICA,6EB5B1C4-AFAA-4576-B2D9-0DF9FABE05FC,921711-1,"Phyton (Horn) 23(1): 154 (1983):","","154","1983",
+gcc-59035,A,Compositae,,Adenostyles,,"alliariae",subsp.,"orientalis","(Boiss.) Greuter",Accepted,,L,TICA,20137843-7771-4A32-9782-934834716404,77083824-1,"","","140","2007",
+gcc-24030,A,Compositae,,Adenostyles,,"alliariae",subsp.,"pyrenaica","(Lange) P.Fourn.",Accepted,,L,TICA,9A5CD0A9-E4B0-445A-8D66-2C68DD7AD1D3,,"","","","1940",
+gcc-157112,A,Compositae,,Adenostyles,,"alpina",,"","(L.) Bluff & Fingerh.",Accepted,,M,TICA,3468F7E3-355E-4964-BF00-FB1A7230633D,175036-1,"Comp. Fl. German. 2","","329","1825",
+gcc-8126,A,Compositae,,Adenostyles,,"alpina",,"","(L.) A.Kern.",Synonym,Illegitimate,M,TICA,7CAA7E55-BBC3-458D-A56B-0F1DB877F84F,175037-1,"","","12","1871",gcc-157112
+gcc-59109,A,Compositae,,Adenostyles,,"alpina",subsp.,"alliariae","(Gouan) Fiori",Synonym,,L,TICA,8A15B7E7-4EB5-4F5D-9C61-93D5E975904A,,"Fl. Italia 3: 205 (1903)","","205","1903",gcc-156793
+gcc-149683,A,Compositae,,Adenostyles,,"alpina",var.,"alpina","",Synonym,,L,TICA,DBDDE0D4-75A2-4203-B0FD-5E0CDC1EC25E,,"","","","",gcc-157112
+gcc-72162,A,Compositae,,Adenostyles,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,A329E293-95C6-4500-867F-FBDA4E815159,,"","","","",gcc-157112
+gcc-50971,A,Compositae,,Adenostyles,,"alpina",subsp.,"australis","(Ten.) Greuter",Accepted,,L,TICA,D7A649C2-0ED8-4C35-80C7-5E92339F30E5,,"","","247","2003",
+gcc-62787,A,Compositae,,Adenostyles,,"alpina",var.,"australis","(Ten.) Fiori",Synonym,,L,TICA,612701CA-EB77-45FB-9D23-B18C79AEFCE6,,"Fl. Italia 3(1): 205 (1903)","","205","1903",gcc-157112
+gcc-69182,A,Compositae,,Adenostyles,,"alpina",subsp.,"briquetii","(Gamisans) Tutin",Synonym,,L,TICA,FB488864-889B-4A9B-9E1D-E4820C33D1DE,876387-1,"","","18","1975",gcc-80053
+gcc-71298,A,Compositae,,Adenostyles,,"alpina",var.,"glabra","(Mill.) Fiori",Synonym,,L,TICA,E00500DE-FC27-4DE2-A27A-F52776F57F3A,,"Fl. Italia 3: 204 (1903)","","204","1903",gcc-157112
+gcc-46480,A,Compositae,,Adenostyles,,"alpina",var.,"leucophylla","(Willd.) Fiori",Synonym,,L,TICA,8E5E2DC4-80E7-47C4-93BA-561FF09FBE2E,,"Fl. Italia 3: 205 (1903)","","205","1903",gcc-88974
+gcc-18620,A,Compositae,,Adenostyles,,"alpina",var.,"macrocephala","(""Huter, Porta & Rigo"") Fiori",Synonym,,L,TICA,F03520E9-DB31-4498-98FC-226A1A05A913,,"Fl. Italia 3: 205 (1903)","","205","1903",gcc-7529
+gcc-63049,A,Compositae,,Adenostyles,,"alpina",subsp.,"nebrodensis","(Wagenitz & I.Müll.) Greuter",Accepted,,L,TICA,8BD888D5-B61E-48A3-A388-B3B0473A6C76,77086567-1,"Greuter in Willdenowia 37. 2007.","","140","2007",
+gcc-145171,A,Compositae,,Adenostyles,,"australis",,"","(Ten.) Nyman",Synonym,,M,TICA,929C2F8D-D9B8-42CB-B1CC-FFCF35369AA2,175038-1,"","","396","1879",gcc-50971
+gcc-80053,A,Compositae,,Adenostyles,,"briquetii",,"","Gamisans",Accepted,,M,TICA,FA648100-2943-4E96-99EF-6CBF9585026F,175039-1,"","","75","1973",
+gcc-112470,A,Compositae,,Adenostyles,,"calcarea",,"","Brügger",Synonym,,M,TICA,C597EB53-E864-453D-AF40-B58682EC4518,,"","","100","1886",gcc-157112
+gcc-104568,A,Compositae,,Adenostyles,,"candidissima",,"","Cass.",Synonym,,M,TICA,E37B7EDF-E3E8-4BEF-925C-A3C9226F89DA,175041-1,"","","60","1816",gcc-88974
+gcc-37203,A,Compositae,,Adenostyles,×,"canescens",,"","Sennholz",Accepted,,M,TICA,C5E33850-5C17-4B1E-A6CE-44EB0A2DCFA0,175042-1,"","","332","1889",
+gcc-132989,A,Compositae,,Adenostyles,,"crassifolia",,"","A.Kern.",Synonym,,M,TICA,2C2AE28B-B93C-4011-8E20-E48495E99471,175043-1,"","","78","1888",gcc-157112
+gcc-135305,A,Compositae,,Adenostyles,,"dubia",,"","Rchb.f.",Accepted,,M,TICA,3F6DFEC7-60FD-4037-9CDA-E9BE7BBA47BB,,"","","xvi. II.","1853",
+gcc-31581,A,Compositae,,Adenostyles,,"eginensis",,"","Lagger ex Braun",Unresolved,,L,TICA,B7B119DC-3DA4-45A4-A4AA-3A8A94933DDC,175045-1,"","","","1913",
+gcc-81394,A,Compositae,,Adenostyles,,"glabra",,"","(Mill.) DC.",Synonym,,M,TICA,C13CEFAA-4A8D-4B0D-9DAA-6FB3B2C0C752,175046-1,"","","203","1836",gcc-157112
+gcc-72520,A,Compositae,,Adenostyles,,"glabra",var.,"australis","(Ten.) Wagenitz",Synonym,,L,TICA,23F773E2-9EB2-4DD3-B307-FE8FDA27CC0E,921713-1,"","","148","1983",gcc-157112
+gcc-45323,A,Compositae,,Adenostyles,,"glabra",subsp.,"briquetii","(Gamisans) Wagenitz & I.Müll.",Synonym,,L,TICA,3D7DDC03-F556-4E1F-A625-53FC92AA5FAA,921714-1,"","","150","1983",gcc-80053
+gcc-49795,A,Compositae,,Adenostyles,,"glabra",var.,"calcarea","(Brügger) Braun-Blanq. & Thell.",Synonym,,L,TICA,6136575D-C93B-4CEB-9BB1-5C5030D543CD,,"Vierteljahrsschr. Naturf. Ges. Zürich 58: 93 (1913)","","93","1913",gcc-157112
+gcc-51678,A,Compositae,,Adenostyles,,"glabra",subsp.,"nebrodensis","(Strobl) Wagenitz & I.Müll.",Synonym,,L,TICA,A408A9B7-0FFC-41FD-BE4C-5FD478384CD8,921715-1,"","","149","1983",gcc-63049
+gcc-37976,A,Compositae,,Adenostyles,,"hirsuta",,"","(Vill.) Fourr.",Synonym,,M,TICA,72294811-1D15-4F96-924F-466DFFDED247,,"","","401","1868",gcc-156793
+gcc-106124,A,Compositae,,Adenostyles,,"hybrida",,"","Vill.",Unresolved,,L,TICA,57C4B6A4-3E9E-41E0-BC08-A71498E189D4,,"","","","",
+gcc-144345,A,Compositae,,Adenostyles,,"hybrida",,"","Guss.",Synonym,,M,TICA,BC1A48E4-9EA5-433D-B53A-FDDFCB4CB322,77086566-1,"Guss.. 1844.","","449","1844",gcc-63049
+gcc-20222,A,Compositae,,Adenostyles,,"hybrida",,"","(Vill.) DC.",Synonym,,M,TICA,D70EB670-4783-46F5-8E91-2560C8D25AB9,175048-1,"","","204","1836",gcc-88974
+gcc-128645,A,Compositae,,Adenostyles,,"intermedia",,"","Hegetschw.",Synonym,,M,TICA,88B18CE1-C663-4085-B80A-DA7E1FC7A332,175049-1,"","","812","1840",gcc-88974
+gcc-99976,A,Compositae,,Adenostyles,,"kerneri",,"","Simonk.",Synonym,,M,TICA,CABF2485-141B-42E5-BE31-998F8FFCE99F,175050-1,"","","","1886",gcc-156793
+gcc-128213,A,Compositae,,Adenostyles,,"leucophylla",,"","Gremli",Unresolved,,L,TICA,0B67BA00-0B70-4D66-AF47-D97C86CAF749,,"""Neue Beitr. Fl. Schweiz, v. (1890) 77.""","","77","",
+gcc-47460,A,Compositae,,Adenostyles,,"leucophylla",,"","DC.",Synonym,,M,TICA,589CB0D4-62EB-4B9A-A36A-57ED9A929E8B,175052-1,"","","271","1838",gcc-88974
+gcc-88974,A,Compositae,,Adenostyles,,"leucophylla",,"","(Willd.) Rchb.",Accepted,,M,TICA,C84597A7-01A4-4244-83CD-809EBCDF8827,175051-1,"","","278","1831",
+gcc-124206,A,Compositae,,Adenostyles,,"macrocephala",,"","Porta",Unresolved,,L,TICA,A8F21303-33F9-47A7-90E2-D0269CA96D1F,175055-1,"""in Nuov. Giorn. Bot. Ital. xi. 278 (1879), in obs.""","","""xi. 278 , in obs.""","1879",
+gcc-48271,A,Compositae,,Adenostyles,,"macrocephala",,"","Huter & al.",Synonym,,M,TICA,BC1CFC10-0F9E-42D5-BD48-5975E03A93A7,,"Huter & al.. 1878.","","[in schedis] No. 450","1878",gcc-7529
+gcc-91538,A,Compositae,,Adenostyles,,"macrocephala",,"","Huter",Unresolved,,L,TICA,EDAD0345-B0DC-4BAB-9116-8697BEB650AD,175054-1,"","","110","1906",gcc-7529
+gcc-12018,A,Compositae,,Adenostyles,,"macrophylla",,"","Ten.",Unresolved,,L,TICA,3CA8B4CE-5CA6-4FC1-9B42-16647F8E3F1A,175056-1,"Syll. ex Nym. Consp. 396.","","396","",
+gcc-76741,A,Compositae,,Adenostyles,,"macrophylla",,"","(M.Bieb.) Czerep.",Accepted,,M,TICA,79886552-2404-494C-80BE-6551FF067FC6,984507-1,"","","37","",
+gcc-104212,A,Compositae,,Adenostyles,,"mairei",,"","H.Lév.",Unresolved,,L,TICA,FDE1A329-7A3A-4165-8B8D-A30368657BB5,175057-1,"""Repert. Spec. Nov. Regni Veg. 12: 283, in syn.""","","283","1913",
+gcc-134554,A,Compositae,,Adenostyles,,"nardosmia",,"","(A.Gray) A.Gray",Synonym,,M,TICA,00A27ACC-81F0-4C10-894E-E810D73941BD,1039658-2,"Proc. Amer. Acad. Arts 8","","631","1873",gcc-136769
+gcc-120801,A,Compositae,,Adenostyles,,"nebrodensis",,"","Strobl",Synonym,,M,TICA,40789866-F973-4D3D-ABA8-C85DD35DA197,175059-1,"","","196","1882",gcc-63049
+gcc-49028,A,Compositae,,Adenostyles,,"orientalis",,"","Boiss.",Synonym,,M,TICA,C94ADC77-99CB-45EF-BBDB-5AD3873A9B59,175060-1,"","","155","1875",gcc-59035
+gcc-96223,A,Compositae,,Adenostyles,,"petasites",,"","(Lam.) Bluff & Fingerh.",Synonym,,M,TICA,B672B243-084E-4CBC-8FB4-910B824C50A8,,"","","329","1825",gcc-156793
+gcc-71408,A,Compositae,,Adenostyles,,"petasites",subsp.,"hybrida","(Vill.) Arcang.",Synonym,,L,TICA,17D72938-CAE2-4A8B-A2C9-F602B227CEB6,,"Arcang.. 1882.","","337","1882",gcc-88974
+gcc-91101,A,Compositae,,Adenostyles,,"platyphylloides",,"","(Sommier & Levier) Czerep.",Accepted,,M,TICA,F1980D43-DC6F-4DD3-A12B-85930ACA8A19,984635-1,"","","42","1981",
+gcc-138228,A,Compositae,,Adenostyles,,"polyantha",,"","Kern.",Unresolved,,L,TICA,12F650D3-DE3D-4C7D-8F6B-F0278871B7B5,,"""in Pallas, Lexicon (anno ?) ex Borb. in Oest. Bot. Zeitschr. xliv. (1894) 399""","","399","",
+gcc-24885,A,Compositae,,Adenostyles,,"polyantha",,"","A.Kern. ex Borbás",Synonym,,M,TICA,6C6C13F1-1B1F-492F-8B0A-2DFAD26DAFBE,,"Öst. Bot.Zeitschr. 44: 399 (1894)","","399","1894",gcc-157112
+gcc-27464,A,Compositae,,Adenostyles,,"pontica",,"","K.Koch",Synonym,,M,TICA,929A4DD7-1B47-4FE6-A389-32C950BA6991,175063-1,"","","696","1851",gcc-2901
+gcc-87171,A,Compositae,,Adenostyles,,"pyrenaica",,"","Lange",Synonym,,M,TICA,3F5E2298-1631-4E5E-937B-7CAA0266B9E8,175064-1,"","","64","1861",gcc-24030
+gcc-31364,A,Compositae,,Adenostyles,,"rhombifolia",,"","(Willd.) Pimenov",Accepted,,M,TICA,D1EA1777-08F3-4BD5-B65D-3A1805569C1B,175065-1,"","","89","1971",
+gcc-57729,A,Compositae,,Adenostyles,,"rhombifolia",subsp.,"platyphylloides","(Sommier & Levier) Pimenov",Synonym,,L,TICA,BF14F0F9-355A-446E-A5DA-88BB787120A2,876388-1,"","","89","1971",gcc-91101
+gcc-151816,A,Compositae,,Adenostyles,,"rhombifolia",subsp.,"rhombifolia","",Synonym,,L,TICA,9A4B1DCA-E505-46F7-BC94-8CBC7E005015,,"","","","",gcc-31364
+gcc-30809,A,Compositae,,Adenostyles,,"similiflorus",,"","(Kolak.) Konechn.",Accepted,,M,TICA,D51D03A6-889D-4F86-999F-390AC5998514,909912-1,"Novosti Sist. Vyssh. Rast. 19","","184","1982",
+gcc-83709,A,Compositae,,Adenostyles,,"stenotricha",,"","Kern.",Unresolved,,L,TICA,F6C42E11-EA9A-4E08-9AEF-74DF41B13EB7,,"""in Pallas, Lexicon (anno ?) ex Borb. in Oest. Bot. Zeitschr. xliv. (1894) 399""","","399","",
+gcc-84780,A,Compositae,,Adenostyles,,"stenotricha",,"","A.Kern. ex Borbás",Synonym,,M,TICA,4F74E564-BFA9-4340-AF68-774646DB981E,,"Öst. Bot.Zeitschr. 44: 399 (1894)","","399","1894",gcc-157112
+gcc-89914,A,Compositae,,Adenostyles,,"tomentosa",,"","(Vill.) Schinz & Thell.",Synonym,,M,TICA,8CB47EA8-B0CF-40A0-9C59-82D00CC4400A,,"","","578","1907",gcc-88974
+gcc-128841,A,Compositae,,Adenostyles,,"villarsii",,"","Rouy",Synonym,,M,TICA,C99CBF55-8C7F-43D5-A84C-DAF4C87B74D7,175068-1,"","","352","1903",gcc-88974
+gcc-136909,A,Compositae,,Adenostyles,,"viridis",,"","Cass.",Synonym,,M,TICA,B47B8690-99C3-40E9-BB30-ED4E43EAB245,175069-1,"","","60","1816",gcc-157112
+gcc-17698,A,Compositae,,Adenostyles,,"viridis",subsp.,"australis","(Ten.) Nyman",Synonym,,L,TICA,2085EC5C-86DE-4B60-BD64-20AA7363F7B4,,"","","396","1879",gcc-50971

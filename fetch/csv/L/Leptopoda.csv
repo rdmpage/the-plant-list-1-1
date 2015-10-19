@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113950,A,Compositae,,Leptopoda,,"acaulis",,"","DC.",Unresolved,,L,TICA,54BE6080-3F60-4563-AEF5-B8BC9F7C0A2B,229814-1,"Prodr. (DC.) 5: 663","","663","1836",
+gcc-12065,A,Compositae,,Leptopoda,,"brachypoda",,"","Torr. & A.Gray",Unresolved,,L,TICA,BB24E8A4-C821-4702-B03C-167C783538E2,229815-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 388","","388","1842",
+gcc-85354,A,Compositae,,Leptopoda,,"brevifolia",,"","Nutt.",Synonym,,M,TICA,CC1E4BF9-0C07-46E4-8ABF-7881B36AFC2C,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 373""","","373","1841",gcc-145103
+gcc-37613,A,Compositae,,Leptopoda,,"decurrens",,"","Macbr.",Unresolved,,L,TICA,2E463D8D-BB09-498A-97F1-45B8015182DF,229817-1,"""in Ell. Sketch, ii. 446.""","","ii. 446","",
+gcc-28979,A,Compositae,,Leptopoda,,"denticulata",,"","Nutt.",Unresolved,,L,TICA,C04983A3-C99A-4D01-AE87-3590E55F6D45,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 373""","","373","1841",
+gcc-28201,A,Compositae,,Leptopoda,,"fimbriata",,"","Torr. & A.Gray",Synonym,Illegitimate,M,TICA,C2A69D20-98AD-4509-B758-341CB5C5A236,229819-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 387","","387","1842",gcc-87522
+gcc-90932,A,Compositae,,Leptopoda,,"fimbriata",,"","(Michx.) Eaton",Unresolved,,L,TICA,CD5B1E63-F07D-4C71-9027-852E52855CC0,229820-1,"""Man. Bot., ed. 5, 275 (1829).""","","","1829",gcc-127380
+gcc-82993,A,Compositae,,Leptopoda,,"floridana",,"","Raf.",Unresolved,,L,TICA,96D4E1A2-A624-471A-A4A1-734BF1CC7A00,229821-1,"Atl. Journ. 147 (Quid ?).","","147","",
+gcc-35603,A,Compositae,,Leptopoda,,"helenioides",,"","Cass.",Unresolved,,L,TICA,41219873-392D-4784-BA48-4203FAA69C7A,229822-1,"in Dict. Sc. Nat. xxvi. 80.","","xxvi. 80","",
+gcc-18059,A,Compositae,,Leptopoda,,"helenium",,"","Nutt.",Unresolved,,L,TICA,25E3B48E-8391-460E-836F-215EFB784641,,"","","","1818",gcc-90352
+gcc-129585,A,Compositae,,Leptopoda,,"incisa",,"","Torr. & A.Gray",Unresolved,,L,TICA,344A778F-63ED-4255-B937-DC99055D21CC,229824-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 387","","387","1842",
+gcc-103314,A,Compositae,,Leptopoda,,"integrifolia",,"","M.A.Curtis ex Torr. & A.Gray",Unresolved,,L,TICA,AE13477C-4EDF-47C6-ADC9-A101650B89A2,229825-1,"Fl. N. Amer. (Torr. & A. Gray) 2: 387","","387","1842",
+gcc-121480,A,Compositae,,Leptopoda,,"integrifolia",,"","M.A.Curtis",Unresolved,,L,TICA,5A96D7AB-B1BB-4AB2-A090-C9E542513060,138495-2,"","","","",
+gcc-100916,A,Compositae,,Leptopoda,,"pinnatifida",,"","Schwein.",Unresolved,,L,TICA,B5DD673D-5086-4447-8734-9BAAE1EEAC8E,1009873-2,"","","","",
+gcc-130678,A,Compositae,,Leptopoda,,"pinnatifida",,"","Schwein. ex Nutt.",Synonym,,M,TICA,B453BBAB-B030-4007-AF40-DF203D2FEB6B,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 372""","","372","1841",gcc-20695
+gcc-95133,A,Compositae,,Leptopoda,,"puberula",,"","Macbr.",Accepted,,M,TICA,E09AC6FF-4DFA-4958-9663-8E99A1BC8C9A,229827-1,"""in Ell. Sketch, ii. 445.""","","ii. 445","",
+gcc-150993,A,Compositae,,Leptopoda,,"puberula",var.,"puberula","",Synonym,,L,TICA,D0D6AAC1-0078-4C25-ACB8-7AACA9B8985C,,"","","","",gcc-95133

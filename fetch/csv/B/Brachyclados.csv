@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117642,A,Compositae,,Brachyclados,,"caespitosus",,"","(Phil.) Speg.",Accepted,,M,TICA,70148122-6963-431F-BE51-C124E9083754,35896-2,"","","28","1902",
+gcc-80074,A,Compositae,,Brachyclados,,"involutus",,"","Kuntze",Synonym,,M,TICA,F5487558-CE3D-486E-8E9E-6CCE4281DBE3,35897-2,"Revis. Gen. Pl. 3[3]: 137","","137","1898",gcc-13980
+gcc-13980,A,Compositae,,Brachyclados,,"lycioides",,"","D.Don",Accepted,,M,TICA,0F0E50C8-E28B-4AEC-8761-19F5A92F1712,185895-1,"","","391","1832",
+gcc-59288,A,Compositae,,Brachyclados,,"lycioides",var.,"lycioides","",Synonym,,L,TICA,71655AA9-655B-4B23-B994-953E33490682,,"","","","",gcc-13980
+tro-2741498,A,Compositae,,Brachyclados,,"lycioides",var.,"macrocephala","Hieron.",Synonym,,L,TRO,2741498,,"Bol. Acad. Nac. Ci.","3(4): 34","34","1880",gcc-103405
+gcc-29344,A,Compositae,,Brachyclados,,"macrocephalus",,"","Kuntze",Synonym,,M,TICA,96191DAA-3AA8-47B9-A1D4-3637020B4F86,35898-2,"Revis. Gen. Pl. 3[3]: 137","","137","1898",gcc-13980
+gcc-103405,A,Compositae,,Brachyclados,,"megalanthus",,"","Speg.",Accepted,,M,TICA,82D52BFC-A7BC-4130-9133-A130FBC15805,35899-2,"","","29","1902",
+gcc-104267,A,Compositae,,Brachyclados,,"obtusifolius",,"","Kuntze",Synonym,,M,TICA,AF0255FD-AA00-47E5-B2D6-A321EB8D61BB,35900-2,"Revis. Gen. Pl. 3[3]: 137","","137","1898",gcc-117642
+gcc-136883,A,Compositae,,Brachyclados,,"pygmaeus",,"","Kuntze",Synonym,,M,TICA,8ADD6882-8CDF-4F28-8520-ED3ADADA3F95,35901-2,"Revis. Gen. Pl. 3[3]: 138","","138","1898",gcc-117642
+gcc-89472,A,Compositae,,Brachyclados,,"stuckertii",,"","Speg.",Synonym,,M,TICA,AD705533-26B9-48D1-870F-81C8200C469B,,"Comun. Mus. Nac. B. Aires 1","","","",gcc-103015

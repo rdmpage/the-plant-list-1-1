@@ -1,0 +1,170 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86716,A,Compositae,,Ainsliaea,,"acerifolia",,"","Sch.Bip.",Accepted,,M,TICA,5E36687F-D191-46F8-84F5-7B8D91A095A7,,"Pollichia 18","","","",
+gcc-154878,A,Compositae,,Ainsliaea,,"acerifolia",var.,"acerifolia","",Synonym,,L,TICA,0565BB53-E7A1-400C-96CC-CC90D9055A48,,"","","","",gcc-86716
+gcc-61330,A,Compositae,,Ainsliaea,,"acerifolia",var.,"affinis","(Miq.) Kitam.",Synonym,,L,TICA,51F21527-0692-4A92-8593-A5B4910231E8,,"Journal of Japanese Botany 14(5):","","305-306","1938",gcc-86716
+gcc-64677,A,Compositae,,Ainsliaea,,"acerifolia",var.,"subapoda","Nakai",Accepted,,L,TICA,5E6F8C94-4237-4618-B3A0-C0577C8F7DFB,,"Bot. Mag. Tokyo 30: 290 (1916)","","290","1916",
+gcc-111644,A,Compositae,,Ainsliaea,,"affinis",,"","Miq.",Synonym,,M,TICA,F1A80F53-9777-42BC-9ADF-B3924E53F63E,,"","","187","1866",gcc-86716
+gcc-93723,A,Compositae,,Ainsliaea,,"angustata",,"","C.C.Chang",Accepted,,M,TICA,C2073647-74E7-48D2-8E30-8B4DD57DFB98,,"","","","1934",
+gcc-29504,A,Compositae,,Ainsliaea,,"angustifolia",,"","Hook.f. & Thomson ex C.B.Clarke",Accepted,,M,TICA,02CE9EEE-9FC1-4885-83E8-36877B804AE4,,"","","412","1875",
+gcc-153050,A,Compositae,,Ainsliaea,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,6CF50E05-FC8B-45BE-9705-A61E8E5E39C0,,"","","","",gcc-29504
+gcc-69902,A,Compositae,,Ainsliaea,,"angustifolia",var.,"luchunensis","H.Chuang",Synonym,,L,TICA,071EB942-F9DA-4644-9AFC-E9F5983CB06B,,"","","","2004",gcc-29504
+gcc-132330,A,Compositae,,Ainsliaea,,"apiculata",,"","Sch.Bip.",Accepted,,M,TICA,C1C2A7B4-F2D5-4256-A6A1-E3039B7D1B8C,,"","","","1861",
+gcc-59117,A,Compositae,,Ainsliaea,,"apiculata",var.,"acerifolia","Masam.",Accepted,,L,TICA,34D68551-2D65-44E2-80F7-93EB0BF20098,,"Fl. Yakushima: 455 (1934)","","455","1934",
+gcc-23272,A,Compositae,,Ainsliaea,,"apiculata",var.,"affinis","(Miq.) Kitam.",Synonym,,L,TICA,DE50F4EA-6242-43BC-9FAA-2B13E3C2EABC,,"","","","",gcc-64677
+gcc-146050,A,Compositae,,Ainsliaea,,"apiculata",var.,"apiculata","",Synonym,,L,TICA,EBA176EF-E4E4-4088-B6CE-1086A7A4368D,,"","","","",gcc-132330
+gcc-31711,A,Compositae,,Ainsliaea,,"apiculata",var.,"multiscapa","Masam.",Synonym,,L,TICA,3A505E8C-BC68-4F9D-A51C-3AC66F4AF4AC,,"Memoirs of the Faculty of Science and Agriculture Taihoku Imperial University 1934:","","454","1934",gcc-59117
+gcc-60774,A,Compositae,,Ainsliaea,,"apiculata",var.,"ovalifolia","Masam.",Synonym,,L,TICA,D99CE28F-9813-481A-97FE-A115CC3D08F6,,"Memoirs of the Faculty of Science and Agriculture Taihoku Imperial University 1934:","","455","1934",gcc-59117
+gcc-69367,A,Compositae,,Ainsliaea,,"apiculata",var.,"rotundifolia","Masam.",Synonym,,L,TICA,8E1492AA-64B5-4838-AE4A-E5BCFCF552F5,,"Memoirs of the Faculty of Science and Agriculture Taihoku Imperial University 1934:","","455","1934",gcc-132330
+gcc-53139,A,Compositae,,Ainsliaea,,"apiculata",var.,"scapifolia","Masam.",Synonym,,L,TICA,623E9710-B7F3-4318-872F-63C7E2194FDD,,"","","","",gcc-59117
+gcc-83123,A,Compositae,,Ainsliaea,,"aptera",,"","DC.",Accepted,,M,TICA,7C5759B4-CF9F-4FD5-97B4-73A29B00A88D,175707-1,"Prodr. 7","","14","1838",
+gcc-138094,A,Compositae,,Ainsliaea,,"apteroides",,"","(C.C.Chang) Y.C.Tseng",Accepted,,L,TICA,DD9624A2-3FF2-4932-AB6F-EFD704493704,,"","","363","1993",
+gcc-48865,A,Compositae,,Ainsliaea,,"asarifolia",,"","Hayata",Synonym,,M,TICA,A88EA493-BB3B-4A1B-BA07-5A83C62F34FA,175708-1,"Icon. Pl. Formosan. 8","","71","1919",gcc-23285
+tro-100357009,A,Compositae,,Ainsliaea,,"asaroides",,"","Y.S. Ye, J. Wang & H.G. Ye",Accepted,,M,TRO,100357009,77104814-1,"Nordic J. Bot.","28: 196","196","2010",
+gcc-102138,A,Compositae,,Ainsliaea,,"asperrima",,"","Sch.Bip.",Accepted,,M,TICA,D7B58999-8C98-4B6C-BCB4-9E5F415B38A2,,"","","","1863",
+gcc-107052,A,Compositae,,Ainsliaea,,"bonatii",,"","Beauverd",Accepted,,M,TICA,29438CA3-8043-40B5-88F7-A9378A1070C0,,"","","377","1909",
+gcc-890,A,Compositae,,Ainsliaea,,"bonatii",var.,"arachnoides","Beauverd",Synonym,,L,TICA,0AB48957-1B8A-44FB-8894-01A93BA961D3,,"""Bulletin de la Societe Botanique de Geneve, ser. 2, 1:""","","338","1909",gcc-107052
+gcc-152609,A,Compositae,,Ainsliaea,,"bonatii",var.,"bonatii","",Synonym,,L,TICA,45385540-1BA6-45D8-9398-9D1FA11297EB,,"","","","",gcc-107052
+tro-50058599,A,Compositae,,Ainsliaea,,"bonatti",var.,"glabra","Beauv.",Synonym,,L,TRO,50058599,,"Bull. Soc. Bot. Genève","1: 377","377","1909",gcc-107052
+gcc-125856,A,Compositae,,Ainsliaea,,"brandisiana",,"","Kurz",Accepted,,M,TICA,76CE496F-78A7-414C-B406-D40713A3A11B,,"","","","1872",
+gcc-41440,A,Compositae,,Ainsliaea,,"caesia",,"","Hand.-Mazz.",Accepted,,M,TICA,97FCE117-8A89-4A00-AE13-4CBCCD28E299,175712-1,"","","469","1937",
+gcc-38843,A,Compositae,,Ainsliaea,,"cavaleriei",,"","H.Lév.",Accepted,,M,TICA,785B5A9B-4FED-428E-90CF-480F440F8E35,175713-1,"","","82","1914",
+gcc-142233,A,Compositae,,Ainsliaea,,"chapaensis",,"","Merr.",Accepted,,M,TICA,888F065D-5534-4BF9-BC6A-F930E2AE298A,,"","","","1940",
+gcc-112411,A,Compositae,,Ainsliaea,,"cleistogama",,"","C.C.Chang",Accepted,,M,TICA,8E374FE3-E0F3-4260-AC57-B56177CFFAB3,,"","","","1934",
+gcc-84219,A,Compositae,,Ainsliaea,,"cordifolia",,"","Franch. & Sav.",Accepted,,M,TICA,E2054D64-3613-43F0-B0ED-760D839FFC48,175716-1,"Enum. Pl. Jap. 2","","416","",
+gcc-152943,A,Compositae,,Ainsliaea,,"cordifolia",var.,"cordifolia","",Synonym,,L,TICA,5781392D-AE0A-49F3-9A6A-A3C5A4EC4041,,"","","","",gcc-84219
+gcc-66289,A,Compositae,,Ainsliaea,,"cordifolia",var.,"integrifolia","Maxim.",Synonym,,L,TICA,1F00C250-38CC-4806-9E27-CD92619C263F,,"""Engl., Bot. Jahrb. 6: 69 (1885)""","","69","1885",gcc-34202
+gcc-20213,A,Compositae,,Ainsliaea,,"cordifolia",var.,"maruoi","(Makino) Makino ex Kitam.",Accepted,,L,TICA,4D7BE1A3-6DCC-46A1-BB47-255BF326AFF0,,"Acta Phytotax. Geobot. 31: 51 (1980)","","51","1980",
+gcc-108514,A,Compositae,,Ainsliaea,,"crassifolia",,"","Chang",Accepted,,M,TICA,08FE1A35-6284-4680-9FD4-AC7115AA0A9F,175717-1,"","","549","1935",
+gcc-17211,A,Compositae,,Ainsliaea,,"dentata",,"","Koidz.",Accepted,,M,TICA,83A68CC2-DC4C-4336-A989-1FCFD87FF68D,,"","","","1914",
+gcc-49876,A,Compositae,,Ainsliaea,,"dissecta",,"","Franch. & Sav.",Accepted,,M,TICA,786520DB-EB3A-47D6-95BE-5C76F133C1D2,175719-1,"","","264","",
+gcc-43177,A,Compositae,,Ainsliaea,,"elegans",,"","Hemsl.",Accepted,,M,TICA,9615EC9F-27D2-4819-A42A-5002CF1DB896,175720-1,"","","t. 2747","1902",
+gcc-87421,A,Compositae,,Ainsliaea,,"elegans",,"","Hayata",Synonym,Illegitimate,M,TICA,A2B58991-312B-4270-A9B6-7D3F23B3124E,175721-1,"","","14","1906",gcc-34165
+gcc-18818,A,Compositae,,Ainsliaea,,"elegans",var.,"elegans","",Synonym,,L,TICA,0B78F363-451D-4035-98F5-22BD771FECBF,,"","","","",gcc-43177
+gcc-10775,A,Compositae,,Ainsliaea,,"elegans",var.,"tomentosa","Mattf.",Synonym,,L,TICA,7615755A-0FD5-4916-A12E-14267A4D772A,,"Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem 11(102):","","107","1931",gcc-43177
+gcc-8970,A,Compositae,,Ainsliaea,,"esquirolii",,"","H.Lév.",Unresolved,,L,TICA,28A74390-2F23-415A-9960-10C896790E53,,"Bulletin de l'Academie internationale de Geographie botanique 24(295-297):","","251","1914",
+gcc-117139,A,Compositae,,Ainsliaea,,"faurieana",,"","Beauverd",Accepted,,M,TICA,7A0D249D-EE0E-4979-962B-BFF8F2958FF4,,"","","381","1909",
+gcc-39830,A,Compositae,,Ainsliaea,,"foliosa",,"","Hand.-Mazz.",Accepted,,M,TICA,01F3853E-1951-40CF-83FD-49EC549FD9AC,,"","","348","1938",
+gcc-23285,A,Compositae,,Ainsliaea,,"fragrans",,"","Champ. ex Benth.",Accepted,,M,TICA,0A4319F1-C435-4A80-8B90-2B188F8BA7F7,175724-1,"Hooker's J. Bot. Kew Gard. Misc. 4","","236","1852",
+gcc-150961,A,Compositae,,Ainsliaea,,"fragrans",var.,"fragrans","",Synonym,,L,TICA,9452310C-2B6D-4AD4-A148-79F9EF60DFFE,,"","","","",gcc-23285
+gcc-34202,A,Compositae,,Ainsliaea,,"fragrans",var.,"integrifolia","(Maxim.) Kitam.",Accepted,,L,TICA,1A170CE9-9D67-4362-B97F-3F663E20162E,,"Acta Phytotax. Geobot. 8: 67 (1939)","","67","1939",
+gcc-129580,A,Compositae,,Ainsliaea,,"fulvioides",,"","H.Chuang",Accepted,,M,TICA,DEC65432-2F7A-4C44-9A6F-DC946645F6C6,,"","","","2004",
+gcc-155445,A,Compositae,,Ainsliaea,,"fulvioides",var.,"fulvioides","",Synonym,,L,TICA,D6A88F5A-9166-4F9E-B7DE-D887DDBF608E,,"","","","",gcc-129580
+gcc-60102,A,Compositae,,Ainsliaea,,"fulvioides",var.,"glabriachenia","H.Chuang",Synonym,,L,TICA,CA802254-CB11-45A2-896A-9BB894E45FFE,,"","","","2004",gcc-129580
+gcc-86026,A,Compositae,,Ainsliaea,,"fulvipes",,"","Jeffrey & W.W.Sm.",Accepted,,M,TICA,A6161BB4-0C60-4F06-A991-7A04BCB0755D,175725-1,"Notes Roy. Bot. Gard. Edinburgh 8","","175","1914",
+gcc-154556,A,Compositae,,Ainsliaea,,"fulvipes",var.,"fulvipes","",Synonym,,L,TICA,AD77DC1E-09DF-4393-9A7A-C62133606B06,,"","","","",gcc-86026
+gcc-3349,A,Compositae,,Ainsliaea,,"glabra",,"","Hemsl.",Accepted,,M,TICA,C465B548-06C9-4640-B53F-062E0251088B,175726-1,"""J. Linn. Soc., Bot.""","","47","1888",
+gcc-148356,A,Compositae,,Ainsliaea,,"glabra",var.,"glabra","",Synonym,,L,TICA,03E3827B-0BC0-42E3-B898-40DF33CE2941,,"","","","",gcc-3349
+gcc-24312,A,Compositae,,Ainsliaea,,"glabra",var.,"tenuicaulis","(Mattf.) Chang",Synonym,,L,TICA,A2A5B0CC-20FA-49C4-BDDF-2CE6EE246AB4,,"Bulletin of the Fan Memorial Institute of Biology : <Botany> 5:","","319","1934",gcc-90930
+gcc-45381,A,Compositae,,Ainsliaea,,"glumacea",,"","Sch.Bip.",Synonym,,M,TICA,96464332-68D8-4B54-928C-541915828C74,,"","","","1863",gcc-29504
+gcc-51244,A,Compositae,,Ainsliaea,,"gongshanensis",,"","H.Chuang",Accepted,,M,TICA,F9B6E4AE-7393-4111-A335-5F0730080D25,,"","","","2004",
+gcc-51550,A,Compositae,,Ainsliaea,,"gracilis",,"","Franch.",Accepted,,M,TICA,68CE13C3-974E-4753-AC66-5F9698CB8DEB,175729-1,"","","297","1894",
+gcc-148259,A,Compositae,,Ainsliaea,,"gracilis",var.,"gracilis","",Synonym,,L,TICA,73F1549C-E761-42E0-A2E8-3EDD1986874E,,"","","","",gcc-51550
+gcc-72176,A,Compositae,,Ainsliaea,,"gracilis",var.,"robusta","Diels",Synonym,,L,TICA,D97AFFB5-2B96-469F-AE2B-FC02856AD966,,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 29(5):""","","629","1901",gcc-51550
+gcc-117825,A,Compositae,,Ainsliaea,,"grossedentata",,"","Franch.",Accepted,,M,TICA,F52DC476-D2F6-48A8-AD32-C18771FC6399,175730-1,"","","297","1894",
+gcc-34165,A,Compositae,,Ainsliaea,,"hayatae",,"","Beauverd",Accepted,,M,TICA,64AF5FD5-B493-4BE2-9C80-3F52725810E0,,"","","382","1909",
+gcc-101835,A,Compositae,,Ainsliaea,,"henryi",,"","Diels",Synonym,,M,TICA,8F016206-442E-480D-8E9E-9DA7864998CF,175732-1,"Bot. Jahrb. Syst. 29","","628","1901",gcc-61600
+gcc-62162,A,Compositae,,Ainsliaea,,"henryi",var.,"daguanensis","H.Chuang",Synonym,,L,TICA,F076458A-EF5C-4628-A02A-AC7DCFE43267,,"","","","2004",gcc-61600
+gcc-153622,A,Compositae,,Ainsliaea,,"henryi",var.,"henryi","",Synonym,,L,TICA,71867AD2-E4B8-4FEC-99EB-B1FCCCD2994C,,"","","","",gcc-61600
+gcc-67304,A,Compositae,,Ainsliaea,,"henryi",var.,"ovalifolia","C.C.Chang",Synonym,,L,TICA,D2B1A73D-8016-4359-8712-D61C0DD5DE2C,,"Sinensia 4(8):","","227-228","1934",gcc-61600
+tro-100001227,A,Compositae,,Ainsliaea,,"henryi",var.,"subalpina","(Hand.-Mazz.) S.E. Freire",Unresolved,,L,TRO,100001227,77090258-1,"Ann. Missouri Bot. Gard.","94(1): 129–131, 28M–P","129","2007",
+gcc-101582,A,Compositae,,Ainsliaea,,"heterantha",,"","Hand.-Mazz.",Accepted,,M,TICA,4D8F21CB-EF2D-4F13-B422-9D17CFB28930,175733-1,"Oesterr. Bot. Z. 87","","128","1938",
+gcc-138323,A,Compositae,,Ainsliaea,,"hui",,"","Diels ex Mattf.",Synonym,,M,TICA,31BA06B9-936F-4551-B272-F0562F3BE3E8,175734-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","109","1931",gcc-136242
+gcc-144453,A,Compositae,,Ainsliaea,×,"hybrida",,"","Sugimoto",Unresolved,,L,TICA,498BE5A3-442A-4387-B498-FE22665C8F60,175735-1,"","","","1957",
+gcc-117075,A,Compositae,,Ainsliaea,,"hypoleuca",,"","Diels ex H.Limpr.",Synonym,,M,TICA,F3074726-FB42-4B4B-B829-BFD857B94433,,"""Repertorium Specierum Novarum Regni Vegetabilis, Beihefte 12:""","","514","1922",gcc-9335
+gcc-133613,A,Compositae,,Ainsliaea,,"hypoleuca",,"","Diels",Accepted,,M,TICA,9DF5B544-DC95-4E31-A2BB-E5E633B5DDDA,175736-1,"Repert. Spec. Nov. Regni Veg. Beih. 12","","514","1922",
+gcc-29486,A,Compositae,,Ainsliaea,,"integrifolia",,"","(Maxim.) Makino",Synonym,,M,TICA,197C7E8D-2F0B-4ADE-891C-3681DFC6DDFE,175737-1,"","","167","1908",gcc-34202
+gcc-8649,A,Compositae,,Ainsliaea,,"kawakamii",,"","Hayata",Synonym,,M,TICA,C457AE2D-38B4-4EF7-BA82-10267954AC01,175738-1,"Icon. Pl. Formosan. 8","","72","1919",gcc-136242
+gcc-121377,A,Compositae,,Ainsliaea,,"lancangensis",,"","Y.Y.Qian",Accepted,,M,TICA,BA1F7C5B-ECD4-4A31-A1C4-C9A738F87671,,"","","161","2000",
+gcc-81505,A,Compositae,,Ainsliaea,,"lancifolia",,"","Franch.",Accepted,,M,TICA,90C23377-011A-4D60-A651-6FF6E4AAC24C,,"","","41","",
+gcc-9335,A,Compositae,,Ainsliaea,,"latifolia",,"","(D.Don) Sch.Bip.",Accepted,,M,TICA,AF9F5E98-638A-4667-8393-116A22BA9473,175740-1,"Jahresber. Pollichia 18-19: 190. 1861","","190","1861",
+gcc-61600,A,Compositae,,Ainsliaea,,"latifolia",subsp.,"henryi","(Diels) H.Koyama",Accepted,,L,TICA,AEE69FBC-60C8-4604-AC4D-A7E69713D905,919654-1,"Acta Phytotax. Geobot. 32","","60","1981",
+gcc-145264,A,Compositae,,Ainsliaea,,"latifolia",subsp.,"latifolia","",Synonym,,L,TICA,4B56E1A6-6090-4BAE-AFCE-008C465DB66A,,"","","","",gcc-9335
+gcc-152741,A,Compositae,,Ainsliaea,,"latifolia",f.,"latifolia","",Synonym,,L,TICA,B62D3638-ED4C-41E2-A61A-9FB5AF5DD8CB,,"","","","",gcc-9335
+gcc-70952,A,Compositae,,Ainsliaea,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,D4CC5657-E15B-410D-9B29-F2379A59B8DF,,"","","","",gcc-9335
+tro-100375300,A,Compositae,,Ainsliaea,,"latifolia",var.,"nimborum","(Hand.-Mazz.) Kitam.",Synonym,,L,TRO,100375300,,"","","","",tro-100001227
+gcc-64094,A,Compositae,,Ainsliaea,,"latifolia",var.,"obovata","(Franch.) Grierson & Lauener",Synonym,,L,TICA,6F9DAC9F-9351-4C90-A061-BBD73E09BEB0,876398-1,"","","385","1976",gcc-110280
+gcc-51250,A,Compositae,,Ainsliaea,,"latifolia",var.,"platyphylla","(Franch.) C.Y.Wu",Accepted,,L,TICA,6C9407E7-3E73-4DFF-A09A-5F0ACDA5C547,," 2:","","1309","1984",
+gcc-79974,A,Compositae,,Ainsliaea,,"latifolia",f.,"yunnanensis","(Franch.) Kitam.",Synonym,,L,TICA,9C83C036-D450-448E-A21B-6C92BBD8C5B7,,"Acta Phytotaxonomica et Geobotanica 41(4-6):","","171","1990",gcc-9335
+gcc-40344,A,Compositae,,Ainsliaea,,"lijiangensis",,"","H.Chuang",Accepted,,M,TICA,0108DE7B-181D-48FB-A358-4AC7BC1D18F4,,"","","","2004",
+gcc-114004,A,Compositae,,Ainsliaea,,"linearis",,"","Makino",Synonym,,M,TICA,5474989B-2339-4DFC-9725-B8DB69DA05D0,,"","","250","",gcc-117139
+gcc-7034,A,Compositae,,Ainsliaea,,"liukiuensis",,"","Beauverd",Synonym,,M,TICA,4D8CE5ED-98D2-4F61-91F0-0D14C1F4D071,,"","","382","1909",gcc-59117
+gcc-112334,A,Compositae,,Ainsliaea,,"longipetiolata",,"","Merr.",Accepted,,M,TICA,047AC42B-D8BB-480B-A2E7-B52AC8B0F9E5,175743-1,"","","91","1939",
+gcc-130575,A,Compositae,,Ainsliaea,,"macrocephala",,"","(Mattf.) Y.C.Tseng",Accepted,,L,TICA,7F14ECE4-7080-4E55-8042-DEDF24CC89DD,,"","","364","1993",
+gcc-136242,A,Compositae,,Ainsliaea,,"macroclinidioides",,"","Hayata",Accepted,,M,TICA,CA15C757-2696-42A8-A3BC-EBC3DE152474,,"","","","1908",
+gcc-2963,A,Compositae,,Ainsliaea,,"macroclinidioides",var.,"macroclinidioides","",Synonym,,L,TICA,89B5D57F-7AC9-48CE-A04B-057F8A9DDCB3,,"","","","",gcc-136242
+gcc-70941,A,Compositae,,Ainsliaea,,"macroclinidioides",var.,"okinawensis","(Hayata) Kitam.",Accepted,,L,TICA,851B22EB-3E1F-4F49-8D1F-F21C491167BE,,"J. Jap. Bot. 20: 192 (1944)","","192","1944",
+gcc-58232,A,Compositae,,Ainsliaea,,"macroclinidioides",var.,"secundiflora","(Hayata) Kitam.",Accepted,,L,TICA,C1F7F2A9-D45A-4327-AE39-8CE0AF638A80,,"Journal of Japanese Botany 14(6):","","377","1938",
+gcc-128477,A,Compositae,,Ainsliaea,,"mairei",,"","H.Lév.",Accepted,,M,TICA,8F49E626-365F-4E40-9FD0-DA189F6D7659,175745-1,"","","31","1916",
+gcc-120205,A,Compositae,,Ainsliaea,,"maruoi",,"","Makino",Synonym,,M,TICA,EC5874B0-52D1-4A28-AA54-C6F67006EDB3,175746-1,"","","290","1914",gcc-20213
+gcc-75537,A,Compositae,,Ainsliaea,,"mattfeldiana",,"","Hand.-Mazz.",Accepted,,M,TICA,E9B4A746-F813-4665-969B-62A675C5ABD1,,"","","347","1938",
+gcc-41803,A,Compositae,,Ainsliaea,,"mollis",,"","Diels ex H.Limpr.",Accepted,,M,TICA,E3BCF6E4-B852-40DD-9BAB-4D6ABE22222A,,"Repert. Spec. Nov. Regni Veg. Beih. 12","","514","1922",
+gcc-130187,A,Compositae,,Ainsliaea,,"morrisonicola",,"","Hayata",Accepted,,M,TICA,9F1FE1A1-8A42-4B94-B6A0-DDF9EF3393ED,175749-1,"","","142","1908",
+gcc-21974,A,Compositae,,Ainsliaea,,"multibracteata",,"","Mattf.",Accepted,,M,TICA,3A19AAAE-891E-40BF-86C4-28A4BCFFA1FF,175750-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","106","1931",
+gcc-10664,A,Compositae,,Ainsliaea,,"nana",,"","Y.C.Tseng",Accepted,,M,TICA,FC98EFBF-2BB8-43EF-A40D-13EF56C384A5,974158-1,"","","365","1993",
+gcc-111603,A,Compositae,,Ainsliaea,,"nervosa",,"","Franch.",Accepted,,M,TICA,99A8944D-49C9-4926-8FDA-B3794E93A0B7,175751-1,"","","64","1895",
+gcc-9271,A,Compositae,,Ainsliaea,,"ningpoensis",,"","Matsuda",Synonym,,M,TICA,56100C76-C76F-4E2B-A9E2-114F360C4DF0,175752-1,"","","236","1913",gcc-23285
+gcc-131505,A,Compositae,,Ainsliaea,,"oblonga",,"","Koidz.",Accepted,,M,TICA,0FB7A978-5AED-44BE-80C7-E10EFA1EE586,175753-1,"","","150","1914",
+gcc-72058,A,Compositae,,Ainsliaea,,"oblonga",var.,"latifolia","Kitam.",Synonym,,L,TICA,22591396-E3ED-41D5-B890-FAFC6D519DBC,,"J. Jap. Bot. 14: 302 (1938)","","302","1938",gcc-131505
+gcc-154015,A,Compositae,,Ainsliaea,,"oblonga",var.,"oblonga","",Synonym,,L,TICA,44EE6B10-17EE-4BCD-8462-BA7517C5974A,,"","","","",gcc-131505
+gcc-50170,A,Compositae,,Ainsliaea,,"okinawensis",,"","Hayata",Synonym,,M,TICA,2F5E862A-FD4B-4A33-9471-5D0191F082A2,175754-1,"","","161","1911",gcc-70941
+gcc-20052,A,Compositae,,Ainsliaea,,"ovalifolia",,"","Vaniot",Synonym,,M,TICA,BFA63A76-3BAD-4B98-BEAA-25124C014168,175755-1,"","","119","1903",gcc-54003
+gcc-118989,A,Compositae,,Ainsliaea,,"ovata",,"","Koidz.",Accepted,,M,TICA,09352DCE-0571-4392-B61D-C43D897902A9,175756-1,"","","150","1914",
+gcc-49099,A,Compositae,,Ainsliaea,,"parvifolia",,"","Merr.",Accepted,,M,TICA,23E1D196-F9D4-4646-B4B5-5AEFD786B25E,175757-1,"","","110","1917",
+gcc-128188,A,Compositae,,Ainsliaea,,"paucicapitata",,"","Hayata",Accepted,,M,TICA,B8F7769E-EACA-497A-8FCD-D96F192463B0,175758-1,"Icon. Pl. Formosan. 8","","71","1919",
+gcc-85959,A,Compositae,,Ainsliaea,,"pentaflora",,"","S.E.Freire",Accepted,,M,TICA,C9A1F575-953F-47D3-871B-79DA49CF3BA8,20009886-1,"","","451","2002",
+gcc-43112,A,Compositae,,Ainsliaea,,"pertyoides",,"","Franch.",Accepted,,M,TICA,E425B331-3BD9-41DB-AF90-4FDD4307CCD2,,"","","70","1888",
+gcc-54003,A,Compositae,,Ainsliaea,,"pertyoides",var.,"albotomentosa","Beauverd",Accepted,,L,TICA,2E22C1B2-833A-4B4C-8DCA-6A853375196D,,"""Bulletin de la Societe Botanique de Geneve, ser. 2, 1:""","","384","1909",
+gcc-62134,A,Compositae,,Ainsliaea,,"pertyoides",var.,"intermedia","Beauverd",Synonym,,L,TICA,5CA07D2B-F1A5-47D8-834B-AC485802ABC7,,"""Bulletin de la Societe Botanique de Geneve, ser. 2, 1:""","","384","1909",gcc-54003
+gcc-143324,A,Compositae,,Ainsliaea,,"pertyoides",f.,"ovalifolia","(Vaniot) Beauverd",Synonym,,L,TICA,39B6D151-B844-4311-AD8F-FB9BC3C7305F,,"""Bulletin de la Societe Botanique de Geneve, ser. 2, 1:""","","384","1909",gcc-54003
+gcc-145509,A,Compositae,,Ainsliaea,,"pertyoides",f.,"pertyoides","",Synonym,,L,TICA,B1651DC3-9F32-4293-97B0-0568C6134444,,"","","","",gcc-43112
+gcc-62230,A,Compositae,,Ainsliaea,,"pertyoides",var.,"pertyoides","",Synonym,,L,TICA,DB42DF29-657A-455B-8F75-AD00289E8B8A,,"","","","",gcc-43112
+gcc-31747,A,Compositae,,Ainsliaea,,"pertyoides",var.,"sparsiflora","(Vaniot) H.Lév.",Synonym,,L,TICA,7DAB2A37-38C8-460A-8C84-3AD2CA33D657,,"Catalogue des Plantes de Yun-Nan","","37","1915",gcc-43112
+gcc-79394,A,Compositae,,Ainsliaea,,"pertyoides",f.,"sparsiflora","(Vaniot) Beauverd",Synonym,,L,TICA,F929E977-3B32-46C4-A0DC-6B5D16A07C0A,,"""Bulletin de la Societe Botanique de Geneve, ser. 2, 1:""","","384","1909",gcc-43112
+gcc-142684,A,Compositae,,Ainsliaea,,"petelotii",,"","Merr.",Accepted,,M,TICA,019B9437-7AD0-4726-B633-FA235F4A6A41,,"","","","1940",
+gcc-130059,A,Compositae,,Ainsliaea,,"pingbianensis",,"","Y.C.Tseng",Accepted,,M,TICA,773515BA-C6BE-46AD-86CA-DDB1FBE80B33,974159-1,"","","365","1993",
+gcc-6276,A,Compositae,,Ainsliaea,,"pingbianensis",var.,"malipoensis","H.Chuang",Synonym,,L,TICA,E59D3D15-79E5-4D3B-82F6-0BB0A60628A6,,"","","","2004",gcc-130059
+gcc-154168,A,Compositae,,Ainsliaea,,"pingbianensis",var.,"pingbianensis","",Synonym,,L,TICA,770F4295-A6B7-4639-A2AF-BDE73787CFC6,,"","","","",gcc-130059
+gcc-130107,A,Compositae,,Ainsliaea,,"plantaginifolia",,"","Mattf.",Accepted,,M,TICA,AB0DB639-6120-41EC-BA9B-DDCB7A4C9AB2,175761-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","107","1931",
+gcc-90719,A,Compositae,,Ainsliaea,,"pteropoda",,"","DC.",Unresolved,Illegitimate,L,TICA,05626E12-668D-46CE-8E70-84C0AEE3308C,175762-1,"Prodr. 7","","14","1838",
+gcc-69173,A,Compositae,,Ainsliaea,,"pteropoda",var.,"apteroides","C.C.Chang",Synonym,,L,TICA,52C5FCDB-48FA-45F0-BB2A-E473F7076AEF,,"Sinensia 4(8):","","227","1934",gcc-138094
+gcc-17804,A,Compositae,,Ainsliaea,,"pteropoda",var.,"leiophylla","Franch.",Synonym,,L,TICA,D63813DB-113B-4785-922F-20DF949EA115,,"Journal de Botanique (Morot) 2(5):","","69","1888",gcc-104329
+gcc-66230,A,Compositae,,Ainsliaea,,"pteropoda",var.,"macrocephala","Mattf.",Synonym,,L,TICA,6F5724EC-DDB0-462E-A6B8-CD1985E380A0,,"Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem 11(102):","","107","1931",gcc-130575
+gcc-40307,A,Compositae,,Ainsliaea,,"pteropoda",var.,"obovata","D.Don",Synonym,,L,TICA,BB244594-DE62-4475-B823-4AB780EA9B03,,"","","","",gcc-9335
+gcc-41550,A,Compositae,,Ainsliaea,,"pteropoda",var.,"obovata","Franch.",Synonym,,L,TICA,EDD51557-1AE8-4FAA-B890-4CF185400ACC,,"Journal de Botanique (Morot) 2:","","69","1888",gcc-110280
+gcc-140661,A,Compositae,,Ainsliaea,,"pteropoda",f.,"ovalifolia","(Vaniot) H.Lév.",Synonym,,L,TICA,7D9667D2-4626-42B5-AC99-F599DF01BCF6,,"Catalogue des Plantes de Yun-Nan","","37","1915",gcc-54003
+gcc-67802,A,Compositae,,Ainsliaea,,"pteropoda",var.,"platyphylla","Franch.",Synonym,,L,TICA,FFD48E92-A261-494D-A984-DA285B61AA77,,"Journal de Botanique (Morot) 2(5):","","69","1888",gcc-51250
+gcc-150628,A,Compositae,,Ainsliaea,,"pteropoda",var.,"pteropoda","",Synonym,,L,TICA,1BA36FCA-1F8A-40C9-9B8D-72DEF1BF7F10,,"","","","",gcc-90719
+gcc-151034,A,Compositae,,Ainsliaea,,"pteropoda",f.,"pteropoda","",Synonym,,L,TICA,2416E8C5-4507-4C42-AB2D-7BCE04E680D7,,"","","","",gcc-90719
+gcc-63900,A,Compositae,,Ainsliaea,,"pteropoda",var.,"silhetensis","DC.",Synonym,,L,TICA,F2F5B115-AEF4-42A7-BD82-BA690F34C88A,,"Prodromus Systematis Naturalis Regni Vegetabilis 7:","","14","1838",gcc-9335
+gcc-15270,A,Compositae,,Ainsliaea,,"pteropoda",var.,"singalangensis","Boerl.",Synonym,,L,TICA,A0C173AC-AB51-4247-AFE7-1C43E01BB624,,"""Handl. Fl. Ned. Ind. 2 (1891) 226 (descr., no name), 244 (name provided)""","","""226 (descr., no name), 244 (name provided).""","1891",gcc-9335
+gcc-119643,A,Compositae,,Ainsliaea,,"qianiana",,"","S.E.Freire",Accepted,,M,TICA,44287D2D-5B01-473C-BBDD-C5A5FC16D526,20009887-1,"","","453","2002",
+gcc-130396,A,Compositae,,Ainsliaea,,"ramosa",,"","Hemsl.",Accepted,,M,TICA,FE3B432B-81A3-4C35-B319-DE7538B640FF,175764-1,"""J. Linn. Soc., Bot.""","","471","1888",
+gcc-12140,A,Compositae,,Ainsliaea,,"reflexa",,"","Merr.",Synonym,,M,TICA,1202B627-41E1-4B32-8120-16A453E8823F,175765-1,"","","242","1906",gcc-61600
+gcc-59257,A,Compositae,,Ainsliaea,,"reflexa",var.,"lobbiana","Beauverd",Synonym,,L,TICA,6424C8F9-F26A-428A-B668-9505E4E7B25E,,"""Bull. Soc. Bot. Geneve II, 2 (1910)""","","","1910",gcc-61600
+tro-100375301,A,Compositae,,Ainsliaea,,"reflexa",f.,"morrisonicola","(Hayata) Suzuki",Synonym,,L,TRO,100375301,,"","","","",tro-100001227
+tro-100375302,A,Compositae,,Ainsliaea,,"reflexa",var.,"morrisonicola","(Hayata) Yamam.",Synonym,,L,TRO,100375302,,"","","","",tro-100001227
+gcc-150393,A,Compositae,,Ainsliaea,,"reflexa",var.,"reflexa","",Synonym,,L,TICA,FBD568CC-9E87-4624-AA0A-6D84B40463AF,,"","","","",gcc-61600
+tro-100001226,A,Compositae,,Ainsliaea,,"reflexa",var.,"subalpina","Hand.-Mazz.",Synonym,,L,TRO,100001226,77090257-1,"Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr.","63(1): 12","12","1926",tro-100001227
+gcc-15960,A,Compositae,,Ainsliaea,,"rubrifolia",,"","Franch.",Accepted,,M,TICA,0F422D5C-4E70-4451-87C1-1D88B51428D9,175766-1,"","","296","1894",
+gcc-118441,A,Compositae,,Ainsliaea,,"rubrinervis",,"","C.C.Chang",Accepted,,M,TICA,2BEEDB33-5BC6-4A8F-A316-C2EF818F4388,,"","","","1934",
+gcc-7409,A,Compositae,,Ainsliaea,,"scabrida",,"","Dunn",Synonym,,M,TICA,B675397B-40C9-49F2-A1FF-0DC6C0E64BAC,,"","","510","",gcc-104329
+gcc-135825,A,Compositae,,Ainsliaea,,"secundiflora",,"","Hayata",Synonym,,M,TICA,16E317F4-9235-46B4-B4FC-EACB3135C449,,"","","","1911",gcc-58232
+gcc-86784,A,Compositae,,Ainsliaea,,"silhetensis",,"","(DC.) C.B.Clarke",Synonym,,M,TICA,FE979D1B-46D4-4DE0-8535-7BB4771B072D,175770-1,"","","411","1875",gcc-9335
+gcc-93631,A,Compositae,,Ainsliaea,,"smithii",,"","Mattf.",Accepted,,M,TICA,D0865035-9A1B-4429-99BD-8B1D6B2D605E,,"","","","1933",
+gcc-30924,A,Compositae,,Ainsliaea,,"spanocephala",,"","Y.C.Tseng",Accepted,,M,TICA,AD0C38A2-218F-4B6B-ADA6-393F8D57BDEE,934476-1,"","","74","1988",
+gcc-130553,A,Compositae,,Ainsliaea,,"sparsiflora",,"","Vaniot",Synonym,,M,TICA,3D17994A-AF7A-49BA-9CCD-DED19424FAD6,175772-1,"","","118","1903",gcc-43112
+gcc-110280,A,Compositae,,Ainsliaea,,"spicata",,"","Vaniot",Accepted,,M,TICA,00E916C1-E454-4185-BC76-B082DD9B0C0D,175773-1,"","","117","1903",
+gcc-125989,A,Compositae,,Ainsliaea,,"sutchuenensis",,"","Franch.",Accepted,,M,TICA,CF6659B1-6865-4C64-9FEA-D44DE29B835B,175774-1,"","","296","1894",
+gcc-90930,A,Compositae,,Ainsliaea,,"tenuicaulis",,"","Mattf.",Accepted,,M,TICA,DBE3DAC2-D0DF-4727-A313-852D82FE4CFF,175775-1,"Notizbl. Bot. Gart. Berlin-Dahlem 11","","108","1931",
+gcc-77833,A,Compositae,,Ainsliaea,,"tonkinensis",,"","Merr.",Accepted,,M,TICA,618B1629-0831-4526-B279-67BF7498B611,175776-1,"","","142","1926",
+gcc-121891,A,Compositae,,Ainsliaea,,"triflora",,"","(Buch.-Ham. ex D.Don) Druce",Synonym,,M,TICA,FAC444F7-FD49-410D-8A83-CAC76F69F7E4,175777-1,"","","603","1917",gcc-9335
+gcc-136415,A,Compositae,,Ainsliaea,,"triloba",,"","Makino",Unresolved,,L,TICA,AEF4DECF-951A-467D-A175-EC2DE7687F25,175778-1,"","","55","1892",gcc-89430
+gcc-134333,A,Compositae,,Ainsliaea,,"trinervis",,"","Y.C.Tseng",Accepted,,M,TICA,9449EC78-1F55-43F2-812C-E78E70E6AC7B,974160-1,"","","367","1993",
+gcc-116110,A,Compositae,,Ainsliaea,,"undulata",,"","Diels",Synonym,,M,TICA,A0EEB193-2228-4D23-AA12-BDB46A2E856F,175779-1,"","","629","1901",gcc-61600
+gcc-101000,A,Compositae,,Ainsliaea,,"uniflora",,"","Sch.Bip.",Synonym,,M,TICA,ACE5A079-228F-4F9B-8583-9BDD9C8A76D4,175781-1,"","","187","1861",gcc-37797
+gcc-152325,A,Compositae,,Ainsliaea,,"uniflora",f.,"uniflora","",Synonym,,L,TICA,FDFF6BA5-0BFC-44F9-ACCF-971BDF53B063,,"","","","",gcc-37797
+gcc-46040,A,Compositae,,Ainsliaea,,"walkeri",,"","Hook.f.",Accepted,,M,TICA,F412EB1D-D8D8-4E18-A057-5559B873CF37,,"","","t. 6225","1876",
+gcc-132983,A,Compositae,,Ainsliaea,,"yadsimae",,"","Koidz.",Accepted,,M,TICA,DDD4D319-C9E5-4E39-A099-E4825ED3E118,,"","","","1914",
+gcc-104329,A,Compositae,,Ainsliaea,,"yunnanensis",,"","Franch.",Accepted,,M,TICA,51FE01BE-B6A7-42D8-A4FD-A34694223FFF,175784-1,"","","70","1888",
+gcc-55397,A,Compositae,,Ainsliaea,,"yunnanensis",var.,"macilenta","Vaniot ex H.Lév.",Synonym,,L,TICA,D3B78A56-06CF-4168-9C53-75B267377146,,"Flore du Kouy-Tcheou","","83","1914",gcc-104329
+gcc-147444,A,Compositae,,Ainsliaea,,"yunnanensis",var.,"yunnanensis","",Synonym,,L,TICA,CB8FA120-31DE-427F-B412-2DC4798A1EF2,,"","","","",gcc-104329

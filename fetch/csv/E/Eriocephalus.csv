@@ -1,0 +1,95 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-35506,A,Compositae,,Eriocephalus,,"affinis",,"","DC.",Synonym,,M,TICA,0B855BA9-7F31-4E17-8DE8-41D2CBDF52CA,204728-1,"","","147","1838",gcc-62639
+gcc-143154,A,Compositae,,Eriocephalus,,"africanus",,"","Sieber ex DC.",Unresolved,,L,TICA,DDEDBC60-34F0-48B2-9ECE-FB3FE5EB0B2D,204731-1,"Prodr. (DC.) 6: 147","","147","1838",
+gcc-5557,A,Compositae,,Eriocephalus,,"africanus",,"","L.",Accepted,,M,TICA,3ADD0D97-DE89-481D-8780-0A5BA99573E2,204729-1,"Species Plantarum","","926","1753",
+gcc-90108,A,Compositae,,Eriocephalus,,"africanus",,"","Burm.f.",Unresolved,Illegitimate,L,TICA,DA0F7456-48F3-43C8-BB88-83356E35F5DC,204730-1,"","","25","1768",gcc-48468
+gcc-67064,A,Compositae,,Eriocephalus,,"africanus",var.,"africanus","",Synonym,,L,TICA,22C397F6-BFCD-47FC-9E3C-D3E1A92AFF11,,"","","","",gcc-5557
+gcc-48468,A,Compositae,,Eriocephalus,,"africanus",var.,"paniculatus","(Cass.) ""M.A.N.Müll., P.P.J.Herman & Kolberg""",Accepted,,L,TICA,DF6D5166-765D-40EE-BEA1-59C45332FC58,,"","","","2001",
+gcc-42404,A,Compositae,,Eriocephalus,,"ambiguus",,"","(DC.) M.A.N.Müll.",Accepted,,M,TICA,BF3F0FBF-3904-4C1F-B607-4E8EC4AA2D65,,"","","","2001",
+gcc-41785,A,Compositae,,Eriocephalus,,"aromaticus",,"","C.A.Sm.",Accepted,,M,TICA,FBC9BA65-3462-4416-A9F8-4D63551776ED,204732-1,"","","100","1931",
+gcc-141804,A,Compositae,,Eriocephalus,,"artemisifolius",,"","Sessé & Moc.",Unresolved,,L,TICA,D67A80F8-9A1A-4336-818A-F83EF67B9159,,"","","","1890",
+gcc-40160,A,Compositae,,Eriocephalus,,"aspalathoides",,"","Merxm.",Synonym,,M,TICA,5D0880E0-6932-4BE9-8DB0-4A7A045E82F5,,"","","","",gcc-42404
+gcc-83665,A,Compositae,,Eriocephalus,,"aspalathoides",,"","Harv.",Synonym,,M,TICA,46264C99-8542-4EF4-A6E1-74CAED0C1D5A,,"","","","",gcc-42404
+gcc-97670,A,Compositae,,Eriocephalus,,"aspalathoides",,"","DC.",Accepted,,M,TICA,F969F966-48BC-4BAC-8178-946D467BC1BE,204734-1,"","","148","1838",
+gcc-36497,A,Compositae,,Eriocephalus,,"aspalathoides",var.,"ambiguus","DC.",Synonym,,L,TICA,9D7D99B0-2692-4CB4-BA16-43AF02647321,,"","","","",gcc-42404
+gcc-156523,A,Compositae,,Eriocephalus,,"aspalathoides",var.,"aspalathoides","",Synonym,,L,TICA,1E0BD20E-B25F-41BF-A320-EEE483AD5F8C,,"","","","",gcc-97670
+gcc-16452,A,Compositae,,Eriocephalus,,"brevifolius",,"","(DC.) M.A.N.Müll.",Accepted,,M,TICA,1F6EAE2F-57F7-451F-BE4B-1E698C274DB8,,"","","","2001",
+gcc-103640,A,Compositae,,Eriocephalus,,"capitellatus",,"","DC.",Accepted,,M,TICA,33F13A76-CFC1-4434-A47E-A1B8654DA28F,204735-1,"","","146","1838",
+gcc-101244,A,Compositae,,Eriocephalus,,"corymbosus",,"","Moench",Synonym,,M,TICA,DBF33CB2-A952-434B-AB35-9C5FDA86478A,204736-1,"","","590","1794",gcc-5557
+gcc-33203,A,Compositae,,Eriocephalus,,"decussatus",,"","Burch.",Accepted,,M,TICA,9AAE74EE-9ABA-4EA5-8E3E-3D93416049AD,,"","","","1822",
+gcc-28613,A,Compositae,,Eriocephalus,,"dinteri",,"","S.Moore",Accepted,,M,TICA,9574FC02-6E4C-4F9D-8172-34E088F6D631,,"","","1018","1904",
+gcc-141851,A,Compositae,,Eriocephalus,,"eenii",,"","S.Moore",Synonym,,M,TICA,97D4183F-1886-4DAD-A87B-F859EAD4B0A5,204739-1,"","","351","1902",gcc-46428
+gcc-105321,A,Compositae,,Eriocephalus,,"ericoides",,"","(L.f.) Druce",Accepted,,M,TICA,A287F40A-BE34-46AA-85BF-A55841F6B75A,204740-1,"","","622","1917",
+gcc-58308,A,Compositae,,Eriocephalus,,"ericoides",subsp.,"ericoides","",Synonym,,L,TICA,DB8D3106-79B4-46E4-803A-8D911B5A7098,,"","","","",gcc-105321
+gcc-28883,A,Compositae,,Eriocephalus,,"eximius",,"","DC.",Accepted,,M,TICA,ECFA9BAE-AC11-4AE7-9CCA-3565EA10C0CC,204741-1,"","","147","1838",
+gcc-28312,A,Compositae,,Eriocephalus,,"frutescens",,"","R.Br.",Synonym,,M,TICA,89C593D8-240F-407C-ADFE-344C870C9E66,204742-1,"","","180","1813",gcc-5557
+gcc-97463,A,Compositae,,Eriocephalus,,"giessii",,"","M.A.N.Müll.",Accepted,,M,TICA,54C600BF-E877-49C3-B30D-93EFA6BF7101,,"","","","2001",
+gcc-131917,A,Compositae,,Eriocephalus,,"glaber",,"","Thunb.",Synonym,,M,TICA,5B07626B-77F1-461B-A6F3-E20B9138C6F0,204743-1,"","","","1800",gcc-105321
+gcc-148039,A,Compositae,,Eriocephalus,,"glaber",var.,"glaber","",Synonym,,L,TICA,2C560913-9827-4655-9BE4-3A5F7803A308,,"","","","",gcc-105321
+gcc-55934,A,Compositae,,Eriocephalus,,"glaber",var.,"pubescens","Sond. ex Harv.",Synonym,,L,TICA,C9FE92D6-0377-4839-B911-7A43F51F902A,,"Fl. Cap. 3: 204 (1865)","","204","1865",gcc-25774
+gcc-65280,A,Compositae,,Eriocephalus,,"glaber",var.,"sessiliflorus","Sond. ex Harv.",Synonym,,L,TICA,F81E5407-ADE2-43B3-9B7F-C58E228DA81A,,"Fl. Cap. 3: 204 (1865)","","204","1865",gcc-105321
+gcc-12920,A,Compositae,,Eriocephalus,,"glandulosus",,"","M.A.N.Müll.",Accepted,,M,TICA,31994D7A-9219-4533-ACA2-181698C25770,,"","","","2001",
+gcc-78044,A,Compositae,,Eriocephalus,,"grandiflorus",,"","M.A.N.Müll.",Accepted,,M,TICA,470F2708-E48B-4A88-95BD-6836D0E2DB91,,"","","","2001",
+gcc-86446,A,Compositae,,Eriocephalus,,"hirsutus",,"","Burtt Davy",Synonym,,M,TICA,F6298B37-ED32-45B7-AB63-7AF440A1D333,,"","","","1935",gcc-46428
+gcc-89968,A,Compositae,,Eriocephalus,,"karooicus",,"","M.A.N.Müll.",Accepted,,M,TICA,2B6344E4-6645-4E7A-8A05-82ED414EE279,,"","","","2001",
+gcc-94390,A,Compositae,,Eriocephalus,,"kingesii",,"","Merxm. & Eberle",Accepted,,M,TICA,4D9A877F-1053-4C81-9D1B-8CDB57657993,204745-1,"","","321","1957",
+gcc-26543,A,Compositae,,Eriocephalus,,"klinghardtensis",,"","M.A.N.Müll.",Accepted,,M,TICA,3FC8E198-7904-4117-950A-310CD5D3BE7F,,"","","","2001",
+gcc-111441,A,Compositae,,Eriocephalus,,"laricinus",,"","DC.",Synonym,,M,TICA,50F15F9F-B41E-4CD5-8FE8-B31CFCE216AD,204746-1,"","","148","1838",gcc-105321
+gcc-121379,A,Compositae,,Eriocephalus,,"longifolius",,"","M.A.N.Müll.",Accepted,,M,TICA,A026536B-AEA5-4049-8C2C-C9A90E325307,,"","","","2001",
+gcc-46428,A,Compositae,,Eriocephalus,,"luederitzianus",,"","O.Hoffm.",Accepted,,M,TICA,E024539C-AC25-467D-8928-560C80FDD07B,,"","","","1893",
+gcc-111121,A,Compositae,,Eriocephalus,,"macroglossus",,"","B.Nord.",Accepted,,M,TICA,7CB2E2A8-1103-42C6-AF1F-B267528F20CE,,"","","","1964",
+gcc-47745,A,Compositae,,Eriocephalus,,"merxmuelleri",,"","M.A.N.Müll.",Accepted,,M,TICA,A2E4A587-1DFF-41B5-9357-5874860B232E,,"","","","2001",
+gcc-125024,A,Compositae,,Eriocephalus,,"microcephalus",,"","DC.",Accepted,,M,TICA,9BABBA86-59B3-481A-B895-D221347E3BDF,204749-1,"","","148","1838",
+gcc-25774,A,Compositae,,Eriocephalus,,"microphyllus",,"","DC.",Accepted,,M,TICA,D9A6F93D-C5CF-4CA9-BB1C-2F9FB0D7C170,204750-1,"","","148","1838",
+gcc-60904,A,Compositae,,Eriocephalus,,"microphyllus",var.,"microphyllus","",Synonym,,L,TICA,F0DAD623-8DC2-4E64-A7F5-A238126F6F58,,"","","","",gcc-25774
+gcc-55056,A,Compositae,,Eriocephalus,,"microphyllus",var.,"pubescens","(DC.) M.A.N.Müll.",Accepted,,L,TICA,07D0C364-AF23-4D2C-95AC-72E588444A86,,"","","","2001",
+gcc-134816,A,Compositae,,Eriocephalus,,"namaquensis",,"","M.A.N.Müll.",Accepted,,M,TICA,203E1AD4-EA5D-4A82-B6B1-E89BA57F7D56,,"","","","2001",
+gcc-101348,A,Compositae,,Eriocephalus,,"paniculatus",,"","Cass.",Synonym,,M,TICA,E4007141-DE10-4170-8911-9C984A8DF9F1,,"","","","1827",gcc-48468
+gcc-80844,A,Compositae,,Eriocephalus,,"parviflorus",,"","Dinter",Synonym,,M,TICA,4A308FA0-6044-46D5-B6C5-6E799AB720B1,204752-1,"Repert. Spec. Nov. Regni Veg. 30","","87","1932",gcc-28613
+gcc-17029,A,Compositae,,Eriocephalus,,"pauperrimus",,"","Merxm. & Eberle",Accepted,,M,TICA,ACBA66FF-DB0C-4E28-AA8A-1F7AE2344002,204753-1,"","","322","1957",
+gcc-113031,A,Compositae,,Eriocephalus,,"pectinifolius",,"","L.",Synonym,,M,TICA,2145E052-657E-433E-B4C2-B6BBDE4F6263,,"","","","1767",gcc-88484
+gcc-4869,A,Compositae,,Eriocephalus,,"pedicellaris",,"","DC.",Accepted,,M,TICA,79A8A585-7FDC-4866-887C-090FB9125A8D,204755-1,"","","146","1838",
+tro-2721369,A,Compositae,,Eriocephalus,,"petrophiloides",,"","DC.",Synonym,,M,TRO,2721369,,"","","","",gcc-105233
+gcc-131663,A,Compositae,,Eriocephalus,,"pinnatus",,"","O.Hoffm.",Accepted,,M,TICA,5B91375D-0889-4D92-B444-E169F878234C,,"","","","1889",
+gcc-81129,A,Compositae,,Eriocephalus,,"pre",,"","Herbarium Practice & Following Welman.",Unresolved,,L,TICA,4C2694C2-C690-4678-AB4B-6F1F20C90800,,"","","","",
+gcc-30132,A,Compositae,,Eriocephalus,,"pteronioides",,"","DC.",Synonym,,M,TICA,09866EB3-095B-496F-A4FD-37C5415010E5,204757-1,"","","146","1838",gcc-4869
+gcc-6402,A,Compositae,,Eriocephalus,,"pteronoides",,"","Sch.Bip.",Synonym,,M,TICA,58FA7CB5-61CD-4CFA-AB75-0BE6FE4FB770,,"","","","1844",gcc-128835
+gcc-125931,A,Compositae,,Eriocephalus,,"pterophiloides",,"","DC.",Synonym,,M,TICA,D83D92D2-604F-4469-8AAC-D42C9F4B6C71,204759-1,"","","146","1838",gcc-105233
+gcc-83150,A,Compositae,,Eriocephalus,,"pubescens",,"","DC.",Synonym,,M,TICA,91F87BDA-CDB9-4D1A-B114-73AF6B489B64,204760-1,"","","148","1838",gcc-55056
+gcc-128835,A,Compositae,,Eriocephalus,,"punctulatus",,"","DC.",Accepted,,M,TICA,5156B7EB-147E-422F-9DEF-DAEE8267670D,204761-1,"","","146","1838",
+gcc-63341,A,Compositae,,Eriocephalus,,"punctulatus",var.,"brevifolius","DC.",Synonym,,L,TICA,6D59193E-419D-4EB2-A1CF-B615707E5A48,,"Prodr. 6: 146 (1838)","","146","1838",gcc-16452
+gcc-28087,A,Compositae,,Eriocephalus,,"punctulatus",var.,"pedicellaris","(DC.) Harv.",Synonym,,L,TICA,D341E837-C644-40E4-B073-33DF8B76DB06,,"Fl. Cap. 3: 201 (1865)","","201","1865",gcc-4869
+gcc-44805,A,Compositae,,Eriocephalus,,"punctulatus",var.,"punctulatus","",Synonym,,L,TICA,D7B27BF7-08E3-4220-985F-52FCF7F5B6A5,,"","","","",gcc-128835
+gcc-55194,A,Compositae,,Eriocephalus,,"punctulatus",var.,"tenuifolius","(DC.) Harv.",Synonym,,L,TICA,1DCB5F71-3D1F-4DBF-B1C0-7414F0EADC65,,"Fl. Cap. 3: 201 (1865)","","201","1865",gcc-135564
+gcc-24628,A,Compositae,,Eriocephalus,,"purpureus",,"","Burch.",Accepted,,M,TICA,2209C860-E450-4B6C-9970-2D7D6C239461,,"Trav. S. Africa 1: 232 (1822)","","232","1822",
+gcc-76939,A,Compositae,,Eriocephalus,,"purpureus",,"","Burch. ex G.Don",Unresolved,,L,TICA,E1A55320-D43E-4B8A-BBB2-65BE515EFEB0,,"in Loud. Hort. Brit. 865.","","865","",
+gcc-116724,A,Compositae,,Eriocephalus,,"racemosus",,"","Gaertn.",Synonym,Illegitimate,M,TICA,E7C1DF23-9CDB-4A43-9EBE-BF13163E7376,,"","","","1791",gcc-48468
+gcc-118647,A,Compositae,,Eriocephalus,,"racemosus",,"","L.",Accepted,,M,TICA,88CE826A-8BD9-4144-85C8-C3711C92126B,,"","","","1753",
+gcc-75507,A,Compositae,,Eriocephalus,,"racemosus",,"","Zeyh. ex Steud.",Synonym,Invalid,L,TICA,A19E3C5E-4B98-4736-A2F2-629862EC017D,204764-1,"","","586","1840",gcc-90333
+gcc-62639,A,Compositae,,Eriocephalus,,"racemosus",var.,"affinis","(DC.) Harv.",Accepted,,L,TICA,FCA3F26B-0EC1-467A-AC8B-B0704F4D95D2,,"Fl. Cap. 3: 203 (1865)","","203","1865",
+gcc-19241,A,Compositae,,Eriocephalus,,"racemosus",var.,"racemosus","",Synonym,,L,TICA,AD039467-E1C2-42D1-961B-238DAB182214,,"","","","",gcc-118647
+gcc-88643,A,Compositae,,Eriocephalus,,"rangei",,"","Muschl.",Synonym,,M,TICA,5F35025E-A245-43D5-A10D-7FE0FC4929F6,," ","","260","1921",gcc-1189
+gcc-104999,A,Compositae,,Eriocephalus,,"scariosissimus",,"","S.Moore",Synonym,,M,TICA,DCB22201-E148-4C78-9F1B-A4B63A17C1C4,,"","","1019","1904",gcc-1189
+gcc-1189,A,Compositae,,Eriocephalus,,"scariosus",,"","DC.",Accepted,,M,TICA,9C80B5A4-9655-4D10-ABE6-022B4AA1B888,204767-1,"","","147","1838",
+gcc-86296,A,Compositae,,Eriocephalus,,"septifer",,"","Cass.",Synonym,,M,TICA,6032306D-9CF7-435A-98C6-7A9ABCD7CAC1,,"","","","1827",gcc-5557
+gcc-45050,A,Compositae,,Eriocephalus,,"septulifer",,"","DC.",Synonym,,M,TICA,80B11B9A-86E3-41A8-ADA2-537B89695D15,204769-1,"","","125","1838",gcc-5557
+gcc-135387,A,Compositae,,Eriocephalus,,"sericeus",,"","Gaudich.",Accepted,,M,TICA,DEA9CD15-0958-45C0-A0DC-E9E9D5F1A950,,"","","","",
+gcc-50862,A,Compositae,,Eriocephalus,,"sericeus",,"","Gaudich. ex DC.",Synonym,,M,TICA,F7A435DF-4835-43A8-A5B9-5E5823E8CE73,204770-1,"","","125","1838",gcc-48468
+gcc-118716,A,Compositae,,Eriocephalus,,"sessiliflorus",,"","Sond.",Synonym,,M,TICA,9FE6E7EF-C063-4558-A886-C393BB34F7B5,204771-1,"","","204","1865",gcc-105321
+gcc-125343,A,Compositae,,Eriocephalus,,"simplicifolius",,"","Salisb.",Synonym,Illegitimate,M,TICA,D7519EC9-0832-446B-9BDA-D2CED106DB38,204772-1,"","","211","1796",gcc-118647
+gcc-126585,A,Compositae,,Eriocephalus,,"spicatus",,"","Burm. ex DC.",Synonym,,M,TICA,EF2C787F-8765-456C-99C1-D5AA3C444356,204773-1,"","","147","1838",gcc-118647
+gcc-5358,A,Compositae,,Eriocephalus,,"spinescens",,"","Burch.",Accepted,,M,TICA,FFB03FF7-9158-48BF-B4E0-0A005F33E9BD,,"","","","1822",
+gcc-45600,A,Compositae,,Eriocephalus,,"squarrosus",,"","Muschl.",Synonym,,M,TICA,22BCA034-E8CF-4F2D-9E33-5485AFFB3E4F,,"","","","",gcc-46428
+gcc-135564,A,Compositae,,Eriocephalus,,"tenuifolius",,"","DC.",Accepted,,M,TICA,81C322D9-0853-4E84-99ED-EA47A2FF2390,204775-1,"","","146","1838",
+gcc-6810,A,Compositae,,Eriocephalus,,"tenuipes",,"","C.A.Sm.",Accepted,,M,TICA,A02E1231-6A85-43F6-B11B-0CA24D07E62C,204776-1,"","","101","1931",
+gcc-110963,A,Compositae,,Eriocephalus,,"trinervatus",,"","Sessé & Moc.",Unresolved,,L,TICA,395531D9-5D08-4BEA-9361-B20D6666DF86,,"","","150","1890",
+gcc-132962,A,Compositae,,Eriocephalus,,"tuberculosus",,"","DC.",Accepted,,M,TICA,AE024AE3-DC7D-41DE-A99A-E473A51E4CD8,204778-1,"","","146","1838",
+gcc-51832,A,Compositae,,Eriocephalus,,"umbellatus",,"","Auct.",Accepted,,M,TICA,6330A6F3-99DB-4575-8341-601E903C06AF,,"not _stated.","","_stated","",
+gcc-2099,A,Compositae,,Eriocephalus,,"umbellulatus",,"","DC.",Synonym,,M,TICA,5B4074CC-94CF-4D78-A5DC-03C46FD49A15,,"","","","",gcc-5557
+gcc-8349,A,Compositae,,Eriocephalus,,"umbellulatus",,"","Cass.",Synonym,Illegitimate,M,TICA,F7669548-8DFE-4D5B-B742-0F88DDA84B42,,"","","","1827",gcc-48468
+gcc-25175,A,Compositae,,Eriocephalus,,"umbellulatus",var.,"argenteus","DC.",Synonym,,L,TICA,0B0B25B9-7350-4FC6-8A50-2E7B4F8528A4,,"Prodr. 6: 147 (1838)","","147","1838",gcc-48468
+gcc-63978,A,Compositae,,Eriocephalus,,"umbellulatus",var.,"glabriusculus","DC.",Synonym,,L,TICA,B75FB8A2-B973-43DF-8642-BB07AB684F0E,,"Prodr. 6: 147 (1838)","","147","1838",gcc-48468
+gcc-157256,A,Compositae,,Eriocephalus,,"umbellulatus",var.,"umbellulatus","",Synonym,,L,TICA,10F514A1-3139-474D-8A0B-FE2CF6A04C32,,"","","","",gcc-48468
+gcc-23078,A,Compositae,,Eriocephalus,,"variifolius",,"","Salisb.",Synonym,,M,TICA,0E84515A-CE4C-45A9-AFBC-2AB826855DD6,204781-1,"","","211","1796",gcc-5557
+gcc-114168,A,Compositae,,Eriocephalus,,"virgatus",,"","Dinter",Synonym,,M,TICA,11B0F5E1-240C-48A8-97E9-B93877690F41,204782-1,"Repert. Spec. Nov. Regni Veg. 30","","87","1932",gcc-1189
+gcc-99716,A,Compositae,,Eriocephalus,,"xerophilus",,"","Schltr.",Synonym,,M,TICA,83B90336-CA54-4E91-8D55-98FEAFF954AD,,"","","","1899",gcc-24628

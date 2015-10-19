@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2504992,A,Melianthaceae,,Melianthus,,"comosus",,"","Vahl",Accepted,,M,WCSP (in review),,783655-1,"Symb. Bot.","3: 86","","1794",
+tro-20500008,A,Melianthaceae,,Melianthus,,"dregeanus",,"","Sond.",Accepted,,M,TRO,20500008,783656-1,"Fl. Cap.","1: 368–369","368","1860",
+tro-20500009,A,Melianthaceae,,Melianthus,,"dregeanus",subsp.,"dregeanus","",Synonym,,L,TRO,20500009,,"","","","",tro-20500008
+tro-20500010,A,Melianthaceae,,Melianthus,,"dregeanus",subsp.,"insignis","(Kuntze) S.A. Tansley",Accepted,,L,TRO,20500010,923545-1,"Bothalia","15(1–2): 145","145","1984",
+tro-20500012,A,Melianthaceae,,Melianthus,,"dregeanus",var.,"insignis","(Kuntze) Phill. & Hofmeyer",Synonym,,L,TRO,20500012,,"","","","",tro-20500010
+tro-50268600,A,Melianthaceae,,Melianthus,,"elongatus",,"","Wijnands",Accepted,,M,TRO,50268600,902547-1,"Bot. Commelins","146","146","1983",
+tro-20500018,A,Melianthaceae,,Melianthus,,"gariepinus",,"","Merxm. & Roessler",Synonym,,M,TRO,20500018,580031-1,"Mitt. Bot. Staatssamml. München","7: 1","1","1968",tro-20500017
+kew-2504999,A,Melianthaceae,,Melianthus,,"himalayanus",,"","Wall.",Unresolved,,L,WCSP (in review),,783657-1,"Numer. List","1190","","1829",
+tro-20500013,A,Melianthaceae,,Melianthus,,"insignis",,"","Kuntze",Synonym,,M,TRO,20500013,783658-1,"Revis. Gen. Pl.","3(3): 43","43","1898",tro-20500010
+tro-20500014,A,Melianthaceae,,Melianthus,,"major",,"","L.",Accepted,,M,TRO,20500014,783659-1,"Sp. Pl.","2: 639[as 939]","639","1753",
+kew-2504996,A,Melianthaceae,,Melianthus,,"minor",,"","L.",Unresolved,,L,WCSP (in review),,,"Sp. Pl.","638","","1753",
+tro-20500016,A,Melianthaceae,,Melianthus,,"pectinatus",,"","Harv.",Accepted,,M,TRO,20500016,783661-1,"Fl. Cap.","1: Add. sub praef. 21","Add. sub praef. 21","1860",
+tro-20500017,A,Melianthaceae,,Melianthus,,"pectinatus",subsp.,"gariepinus","(Merxm. & Roessler) S.A. Tansley",Accepted,,L,TRO,20500017,923546-1,"Bothalia","15(1–2): 144","144","1984",
+tro-20500019,A,Melianthaceae,,Melianthus,,"pectinatus",subsp.,"pectinatus","",Synonym,,L,TRO,20500019,,"","","","",tro-20500016
+kew-2505024,A,Melianthaceae,,Melianthus,,"sibiricus",,"","Pall. ex Georgi",Unresolved,,L,WCSP (in review),,783662-1,"Beschr. Nation. Russ. Reich","3(4): 1114","","1779",
+kew-2505002,A,Melianthaceae,,Melianthus,,"trimenianus",,"","Hook.f.",Unresolved,,L,WCSP (in review),,783663-1,"J. Bot.","11: 353","","1873",
+tro-20500020,A,Melianthaceae,,Melianthus,,"villosus",,"","Bolus",Accepted,,M,TRO,20500020,,"","","","",

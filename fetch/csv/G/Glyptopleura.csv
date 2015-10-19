@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-82687,A,Compositae,,Glyptopleura,,"marginata",,"","D.C.Eaton",Accepted,,M,TICA,A2D4CA85-FE34-4B4D-8CAC-7299FDEFBFE7,209033-1,"","","207","1871",
+gcc-36953,A,Compositae,,Glyptopleura,,"marginata",var.,"marginata","",Synonym,,L,TICA,8BBCB352-A86D-4C8F-B3BF-44733C99FFA3,,"","","","",gcc-82687
+gcc-57804,A,Compositae,,Glyptopleura,,"marginata",var.,"setulosa","(A.Gray) Jeps.",Synonym,,L,TICA,6D88582E-2E3A-4B03-96D2-895FA7E0E218,111085-2,"","","1008","1925",gcc-81494
+gcc-81494,A,Compositae,,Glyptopleura,,"setulosa",,"","A.Gray",Accepted,,M,TICA,3677B0BA-56FF-4AD1-AF07-6FF23310A80F,,"","","","1874",

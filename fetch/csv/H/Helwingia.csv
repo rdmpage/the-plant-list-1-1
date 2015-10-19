@@ -1,0 +1,50 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-98037,A,Helwingiaceae,,Helwingia,,"argyi",,"","H.Lév. & Vaniot",Unresolved,,L,WCSP,98037,271812-1,"Bull. Herb. Boissier","II, 6: 506","","1906",kew-308845
+kew-98038,A,Helwingiaceae,,Helwingia,,"chinensis",,"","Batalin",Accepted,,H,WCSP,98038,90833-1,"Trudy Imp. S.-Peterburgsk. Bot. Sada","13: 97","","1893",
+tro-50279578,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"agenuina","Wangerin",Synonym,,L,TRO,50279578,,"","","","",kew-98038
+kew-98039,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"chinensis","",Synonym,,L,WCSP,98039,,"Unknown","","","",kew-98038
+kew-98040,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"crenata","(Lingelsh. ex Limpr.) W.P.Fang",Accepted,,L,WCSP,98040,,"Acta Phytotax. Sin.","1: 171","","1951",
+kew-98041,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"longipedicellata","Wangerin",Synonym,,L,WCSP,98041,,"Repert. Spec. Nov. Regni Veg.","4: 337","","1907",kew-98038
+tro-50168153,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"longipetiolata","Wangerin",Synonym,,L,TRO,50168153,,"Repert. Spec. Nov. Regni Veg.","4(73–74): 337","337","1907",kew-98038
+kew-98042,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"macrocarpa","Pamp.",Synonym,,L,WCSP,98042,,"Nuovo Giorn. Bot. Ital.","n.s., 17: 681","","1910",kew-98038
+kew-453835,A,Helwingiaceae,,Helwingia,,"chinensis",f.,"megaphylla","W.P.Fang",Synonym,,L,WCSP,453835,,"Acta Phytotax. Sin.","1: 172","","1951",kew-98040
+kew-98043,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"microphylla","W.P.Fang & Soong",Synonym,,L,WCSP,98043,916375-1,"in Fl. Sichuanica","1: 473","","1981",kew-98038
+kew-98044,A,Helwingiaceae,,Helwingia,,"chinensis",f.,"oblanceolata","S.S.Chien",Synonym,,L,WCSP,98044,,"Sinensia","22: 102","","1931",kew-98048
+kew-98045,A,Helwingiaceae,,Helwingia,,"chinensis",var.,"stenophylla","(Merr.) W.P.Fang & K.K.Tsoong",Synonym,,L,WCSP,98045,,"J. Sichuan Univ., Nat. Sci. Ed.","1: 76","","1982",kew-98038
+kew-98046,A,Helwingiaceae,,Helwingia,,"crenata",,"","Lingelsh. ex Limpr.",Synonym,,H,WCSP,98046,,"Repert. Spec. Nov. Regni Veg. Beih.","12: 453","","1922",kew-98040
+kew-98047,A,Helwingiaceae,,Helwingia,,"formosana",,"","Sasaki ex Kaneh.",Synonym,,H,WCSP,98047,,"Formos. Trees","ed. rev.: 532","","1936",kew-98059
+kew-98048,A,Helwingiaceae,,Helwingia,,"himalaica",,"","Hook.f. & Thomson ex C.B.Clarke",Accepted,,H,WCSP,98048,90834-1,"Fl. Brit. India","2: 726","","1879",
+kew-98049,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"crenata","(Lingelsh. ex Limpr.) H.L.Li",Synonym,,L,WCSP,98049,,"J. Arnold Arbor.","25: 310","","1944",kew-98040
+kew-98050,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"gracilipes","W.P.Fang & Soong",Synonym,,L,WCSP,98050,20010610-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 75","","1982",kew-98048
+tro-8700558,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"himalaica","",Synonym,,L,TRO,8700558,,"","","","",kew-98048
+tro-50279577,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"lanceolata","Deb",Synonym,,L,TRO,50279577,,"","","","",kew-98048
+kew-98052,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"nanchuanensis","(W.P.Fang) W.P.Fang & Soong",Synonym,,L,WCSP,98052,919967-1,"in Fl. Sichuanica","379","","1981",kew-98048
+kew-98053,A,Helwingiaceae,,Helwingia,,"himalaica",f.,"oblanceolata","(S.S.Chien) W.P.Fang & Soong",Synonym,,L,WCSP,98053,20010608-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 74","","1982",kew-98048
+kew-98054,A,Helwingiaceae,,Helwingia,,"himalaica",f.,"omeiensis","W.P.Fang",Synonym,,L,WCSP,98054,,"Acta Phytotax. Sin.","1: 169","","1951",kew-98072
+kew-98055,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"parvifolia","H.L.Li",Synonym,,L,WCSP,98055,,"J. Arnold Arbor.","25: 310","","1944",kew-98048
+kew-98056,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"prunifolia","W.P.Fang & Soong",Synonym,,L,WCSP,98056,20010609-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 75","","1982",kew-98048
+kew-98057,A,Helwingiaceae,,Helwingia,,"himalaica",var.,"stenophylla","Merr.",Synonym,,L,WCSP,98057,,"Brittonia","4: 137","","1941",kew-98038
+kew-98058,A,Helwingiaceae,,Helwingia,,"japonica",,"","(Thunb.) F.Dietr.",Accepted,,H,WCSP,98058,972474-1,"Nachtr. Vollst. Lex. Gärtn.","3: 660","","1817",
+kew-98059,A,Helwingiaceae,,Helwingia,,"japonica",subsp.,"formosana","(Sasaki ex Kaneh.) H.Hara & S.Kuros.",Accepted,,L,WCSP,98059,874500-1,"in Fl. E. Himal.","3rd. Rep.: 403","","1975",
+kew-98060,A,Helwingiaceae,,Helwingia,,"japonica",var.,"grisea","W.P.Fang & Soong",Synonym,,L,WCSP,98060,916376-1,"in Fl. Sichuanica","1: 473","","1981",kew-98063
+kew-98061,A,Helwingiaceae,,Helwingia,,"japonica",var.,"himalaica","(Hook.f. & Thomson ex C.B.Clarke) Franch.",Synonym,,L,WCSP,98061,,"Pl. David.","2: 67","","1885",kew-98048
+kew-98063,A,Helwingiaceae,,Helwingia,,"japonica",var.,"hypoleuca","Hemsl. ex Rehder",Accepted,,L,WCSP,98063,,"Pl. Wilson.","3: 570","","1916",
+kew-98064,A,Helwingiaceae,,Helwingia,,"japonica",subsp.,"japonica","",Synonym,,L,WCSP,98064,,"Unknown","","","",kew-98058
+tro-8700543,A,Helwingiaceae,,Helwingia,,"japonica",var.,"japonica","",Synonym,,L,TRO,8700543,,"","","","",kew-98058
+kew-98065,A,Helwingiaceae,,Helwingia,,"japonica",var.,"liukiuensis","(Hatus.) Murata",Synonym,,L,WCSP,98065,874501-1,"Acta Phytotax. Geobot.","25: 39","","1972",kew-98066
+kew-98066,A,Helwingiaceae,,Helwingia,,"japonica",subsp.,"liukiuensis","(Hatus.) H.Hara & S.Kuros.",Accepted,,L,WCSP,98066,874502-1,"in Fl. E. Himal.","3rd. Rep.: 403","","1975",
+kew-98067,A,Helwingiaceae,,Helwingia,,"japonica",var.,"nanchuanensis","W.P.Fang",Synonym,,L,WCSP,98067,,"Acta Phytotax. Sin.","1: 167","","1951",kew-98048
+kew-334444,A,Helwingiaceae,,Helwingia,,"japonica",var.,"parvifolia","Makino",Synonym,,L,WCSP,334444,,"Bot. Mag. (Tokyo)","27: 80","","1913",kew-98058
+kew-98069,A,Helwingiaceae,,Helwingia,,"japonica",var.,"szechuanensis","(W.P.Fang) W.P.Fang & Soong",Synonym,,L,WCSP,98069,919968-1,"in Fl. Sichuanica","1: 377","","1981",kew-98058
+kew-248741,A,Helwingiaceae,,Helwingia,,"japonica",subsp.,"taiwaniana","Yuen P.Yang & H.Y.Liu",Synonym,,L,WCSP,248741,20007877-1,"Taiwania","47: 177","","2002",kew-248742
+kew-248742,A,Helwingiaceae,,Helwingia,,"japonica",var.,"zhejiangensis","(W.P.Fang & Soong) M.B.Deng & Yo.Zhang",Accepted,,L,WCSP,248742,20010394-1,"J. Pl. Resourc. Environ.","11(3): 58","","2002",
+kew-98070,A,Helwingiaceae,,Helwingia,,"lanceolata",,"","Watt ex U.N.Kanj., P.C.Kanj. & Das",Synonym,Invalid,H,WCSP,98070,,"in Fl. Assam","2: 373","","1938",kew-98048
+kew-98071,A,Helwingiaceae,,Helwingia,,"liukiuensis",,"","Hatus.",Synonym,,H,WCSP,98071,271816-1,"J. Jap. Bot.","12: 874","","1936",kew-98066
+kew-98072,A,Helwingiaceae,,Helwingia,,"omeiensis",,"","(W.P.Fang) H.Hara & S.Kuros.",Accepted,,H,WCSP,98072,90836-1,"in Fl. E. Himal.","3rd. Rep.: 410","","1975",
+kew-98073,A,Helwingiaceae,,Helwingia,,"omeiensis",var.,"oblanceolata","(S.S.Chien) H.Hara & S.Kuros.",Synonym,,L,WCSP,98073,874503-1,"in Fl. E. Himal.","3rd. Rep.: 410","","1975",kew-98048
+kew-98074,A,Helwingiaceae,,Helwingia,,"omeiensis",f.,"oblanceolata","(S.S.Chien) H.Hara & S.Kuros.",Synonym,,L,WCSP,98074,,"in Fl. E. Himal.","3rd. Rep.: 410","","1975",kew-98048
+kew-98076,A,Helwingiaceae,,Helwingia,,"omeiensis",var.,"omeiensis","",Synonym,,L,WCSP,98076,,"Unknown","","","",kew-98072
+kew-98077,A,Euphorbiaceae,,Helwingia,,"populifolia",,"","Spreng.",Synonym,,H,WCSP,98077,90837-1,"Pl. Min. Cogn. Pug.","2: 89","","1815",kew-119060
+kew-98078,A,Helwingiaceae,,Helwingia,,"rusciflora",,"","Willd.",Synonym,Illegitimate,H,WCSP,98078,90838-1,"Sp. Pl.","4: 716","","1806",kew-98058
+kew-98079,A,Helwingiaceae,,Helwingia,,"szechuanensis",,"","W.P.Fang",Synonym,,H,WCSP,98079,271817-1,"Acta Phytotax. Sin.","1: 167","","1951",kew-98058
+kew-98080,A,Helwingiaceae,,Helwingia,,"zhejiangensis",,"","W.P.Fang & Soong",Synonym,,H,WCSP,98080,20010607-1,"J. Sichuan Univ., Nat. Sci. Ed.","1: 73","","1982",kew-248742

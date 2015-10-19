@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-99754,A,Compositae,,Garuleum,,"album",,"","S.Moore",Accepted,,M,TICA,9531F764-34EB-4BE2-8180-990F06B87380,208644-1,"J. Bot. 16","","133","1878",
+gcc-106551,A,Compositae,,Garuleum,,"bipinnatum",,"","Dinter",Synonym,,M,TICA,7A930157-FB49-4EFA-9AF0-A812DACABEB6,,"","","","",gcc-42960
+gcc-77717,A,Compositae,,Garuleum,,"bipinnatum",,"","(Thunb.) Less.",Accepted,,M,TICA,62B209D8-E259-4C26-8307-67812E5D9D8E,208645-1,"","","194","1832",
+gcc-42696,A,Compositae,,Garuleum,,"coeruleum",,"","Steud.",Unresolved,,L,TICA,900EC482-AD36-4DCC-B8EA-4F16DCDD5C49,208646-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 236, in syn.""","","236","1841",
+gcc-42139,A,Compositae,,Garuleum,,"crinitum",,"","Dinter",Synonym,,M,TICA,A2A0F7CE-5249-4F18-A1E6-4E119EB350E9,208647-1,"Repert. Spec. Nov. Regni Veg. 30","","184","1932",gcc-42960
+gcc-141964,A,Compositae,,Garuleum,,"latifolium",,"","Harv.",Accepted,,M,TICA,00066483-6A43-455F-83E9-F89C3BE5A79D,208648-1,"","","92","1865",
+gcc-84804,A,Compositae,,Garuleum,,"pinnatifidum",,"","(Thunb.) DC.",Accepted,,M,TICA,8A61F98B-1638-4D4C-A087-774EE91A5CBB,208649-1,"","","309","1836",
+gcc-49842,A,Compositae,,Garuleum,,"schinzii",,"","O.Hoffm. ex O.Hoffm.",Accepted,,M,TICA,BC8312A0-2D00-40A5-8CC9-5C67C1C3AB3A,,"","","","1893",
+gcc-42960,A,Compositae,,Garuleum,,"schinzii",subsp.,"crinitum","(Dinter) Merxm.",Accepted,,L,TICA,75973F46-58F4-4EF7-B87D-4F90E249099F,,"Mitt. Bot. Staatssamml. München 2","","34","1954",
+gcc-68689,A,Compositae,,Garuleum,,"schinzii",subsp.,"schinzii","",Synonym,,L,TICA,3184F23C-60E7-43A6-A89B-E0C30FAE9033,,"","","","",gcc-49842
+gcc-141778,A,Compositae,,Garuleum,,"sonchifolium",,"","(DC.) Norl.",Accepted,,M,TICA,FEEF5D2D-CD10-4A64-9D44-F82E155F66BA,,"","","","1943",
+gcc-27365,A,Compositae,,Garuleum,,"tanacetifolium",,"","(MacOwan) Norl.",Accepted,,M,TICA,DD360BF7-976E-4480-97CD-329CCC279FFC,208652-1,"","","425","1943",
+gcc-131640,A,Compositae,,Garuleum,,"viscosum",,"","Cass.",Synonym,,M,TICA,40D6F63F-4115-44E8-A037-E15DCD239CF5,,"","","","1819",gcc-84804
+gcc-46,A,Compositae,,Garuleum,,"woodii",,"","Schinz",Accepted,,M,TICA,228F5B2E-45F6-45AC-A5C9-001E11A6AD8D,,"","","","1895",

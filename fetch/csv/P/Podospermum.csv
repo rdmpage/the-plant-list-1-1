@@ -1,0 +1,101 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-52476,A,Compositae,,Podospermum,,"alpigenum",,"","K.Koch",Accepted,,M,TICA,C347D740-EE42-4D72-AB26-61467DA44E98,239006-1,"","","658","1851",
+gcc-144947,A,Compositae,,Podospermum,,"angustifolium",,"","Ledeb. ex Loudon",Synonym,,L,TICA,DF98FD70-1BBF-41AD-B0F6-FF4E7479EE7C,239007-1,"Hort. Brit. Suppl. iii. 614.","","","1850",gcc-37577
+gcc-128811,A,Compositae,,Podospermum,,"angustissimum",,"","Schur",Synonym,,M,TICA,3608C84B-7C1F-4ECC-8569-DADF028F56D7,,"in Verh. Siebenb. Ver. Naturw. iv. (1853) 43.","","","1853",gcc-132237
+gcc-135473,A,Compositae,,Podospermum,,"armeniacum",,"","Boiss. & A.Huet",Accepted,,M,TICA,CE87FD1D-E071-44AF-85C0-EA162F37CB4B,,"","","92","1856",
+gcc-85296,A,Compositae,,Podospermum,,"asperrimum",,"","(Willd.) Sweet",Synonym,,M,TICA,0AB0A71D-DEF2-4631-85B9-78652DBED276,239010-1,"Hort. Brit. (Sweet) 206","","206","1826",gcc-80247
+gcc-31862,A,Compositae,,Podospermum,,"asperum",,"","(Desf.) Sweet",Synonym,,M,TICA,2412E9D3-003B-43E3-BB7C-3B082C49E0F3,239011-1,"Hort. Brit. (Sweet) 207","","207","1826",gcc-155813
+gcc-39816,A,Compositae,,Podospermum,,"bicolor",,"","(Freyn & Sint.) Kuth.",Synonym,,M,TICA,E3D09FC4-56FC-4A1D-BD7F-49E21273E5B5,77070529-1,"Kavkaz. Predstav. podtriby Scorzonerinae Dum. (Compos.) 100. 1978","","100","1978",gcc-95104
+gcc-144906,A,Compositae,,Podospermum,,"buxbaumii",,"","K.Koch",Synonym,,M,TICA,B9DE65E3-7D51-48A1-9B8C-FF382074D62F,,"Linnaea 17: 274. 1844","","","",gcc-53853
+gcc-91983,A,Compositae,,Podospermum,,"calcitrapaefolium",,"","Boiss.",Unresolved,,L,TICA,891B526A-E194-4129-B116-8799D3390116,239013-1,"Voy. Bot. Espagne ii. 381","","381","",
+gcc-111039,A,Compositae,,Podospermum,,"calcitrapifolium",,"","(Vahl) DC.",Synonym,,M,TICA,E4B2EFF1-E602-4C31-A3A1-B242089EC05A,239015-1,"","","455","1815",gcc-53853
+gcc-38723,A,Compositae,,Podospermum,,"calcitrapifolium",,"","C.A.Mey.",Unresolved,,L,TICA,35988938-0117-4748-8DD2-47D34034E6A8,239014-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 62","","62","1831",
+gcc-6314,A,Compositae,,Podospermum,,"callosum",,"","(Moris) DC.",Synonym,,M,TICA,87CF8155-46BD-4486-A6ED-0BC261E24CC4,239016-1,"Prodr. (DC.) 7(1): 111","","111","1838",gcc-6248
+gcc-143238,A,Compositae,,Podospermum,,"canum",,"","C.A.Mey.",Accepted,,L,TICA,21FD5357-CF06-48FF-A834-FB70C5910CB8,239017-1,"","","62","1831",
+gcc-146758,A,Compositae,,Podospermum,,"canum",var.,"canum","",Synonym,,L,TICA,AF92D4B8-00DD-4F2C-B2E8-1F3C023EB011,,"","","","",gcc-143238
+gcc-156184,A,Compositae,,Podospermum,,"canum",var.,"glabratum","DC.",Synonym,,L,TICA,6F06AA92-4BFF-454B-BD24-E82EA413E3E3,,"""A.P. de Candolle, Prodr. 7. 1838""","","111","1838",gcc-38606
+gcc-154945,A,Compositae,,Podospermum,,"canum",var.,"integrifolium","Trautv.",Synonym,,L,TICA,2516C816-CF0B-4F71-A1ED-CE040135FBDF,,"Trautv. in Trudy Imp. S.-Peterburgsk. Bot. Sada 2. 1873","","558","1873",gcc-38606
+gcc-156970,A,Compositae,,Podospermum,,"canum",var.,"multiceps","(Neilr.) Nyár.",Synonym,,L,TICA,75DC5AC6-E4E9-4BCD-8775-F800864DB1AB,,"""E.J. Nyárády - in Săvulescu, Fl. Rep. Pop. Romîne 10. 1965""","","102","",gcc-143238
+gcc-145374,A,Compositae,,Podospermum,,"canum",var.,"murdabadense","Rech.f.",Synonym,,L,TICA,66ECAB80-72B9-4808-B38E-02E558305948,,"""Rechinger, Karl Heinz  in Ann. Naturhist. Mus. Wien 55. 1944""","","289","1944",gcc-134198
+gcc-145774,A,Compositae,,Podospermum,,"canum",var.,"simplex","(Bisch.) Nyár.",Synonym,,L,TICA,EE23E7A7-9C13-4BEB-A1CD-0AA87FAD5ADA,,"""E.J. Nyárády - in Săvulescu, Fl. Rep. Pop. Romîne 10. 1965""","","102","",gcc-143238
+gcc-156162,A,Compositae,,Podospermum,,"canum",var.,"tenuissimum","Borbás",Synonym,,L,TICA,16D1106E-921C-43B1-BE57-E7CB658EED5C,,"V. von Borbás in Oesterr. Bot. Z. 41. 1891","","251","1891",gcc-143238
+gcc-45223,A,Compositae,,Podospermum,,"cariense",,"","Boiss.",Synonym,,L,TICA,A2D36248-E60B-47AB-9518-53CF07F9E60C,,"","","24","1844",gcc-143238
+gcc-7525,A,Compositae,,Podospermum,,"cernuum",,"","unio it. ex Steud.",Synonym,,L,TICA,465F4EE9-1C1A-4555-9D31-0DF8A0B91ADA,239019-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 365""","","365","1841",gcc-143238
+gcc-19758,A,Compositae,,Podospermum,,"cespitosum",,"","Boiss. & Kotschy ex Boiss.",Synonym,Invalid,L,TICA,0680E80F-5CF5-4AC7-B08C-248D4D3AEBD8,239020-1,"Fl. Orient. [Boissier] 3: 758","","758","1875",gcc-143238
+gcc-43174,A,Compositae,,Podospermum,,"columnae",,"","(Guss.) DC.",Synonym,,M,TICA,F4890962-DB63-4D9C-B4CF-5000CCD29721,239021-1,"Prodr. (DC.) 7(1): 111","","111","1838",gcc-54507
+gcc-43169,A,Compositae,,Podospermum,,"coronipifolium",,"","Sch.Bip. ex Webb & Berthel.",Unresolved,,L,TICA,38A0DE3C-3220-42F1-8979-4FFEA8B51B89,239022-1,"Hist. Nat. Iles Canaries (Phytogr.). ii. 471","","471","",
+gcc-152220,A,Compositae,,Podospermum,,"coronopifolium",,"","(Desf.) Sch.Bip.",Synonym,,M,TICA,8CEFC9E2-7255-45C6-9749-9515325CE9FE,,"""C.H. Schultz - in Webb & Berthelot, Hist. Nat. Iles Canaries 3(2,2). 1850""","","471","1850",gcc-63072
+gcc-113675,A,Compositae,,Podospermum,,"decumbens",,"","(Guss.) Gren. & Godr.",Synonym,,M,TICA,7B6F5247-48A7-4F6D-A7C0-B82B2166B567,239023-1,"","","310","1850",gcc-53853
+gcc-148031,A,Compositae,,Podospermum,,"decumbens",subsp.,"decumbens","",Synonym,,L,TICA,5A1E00C5-9ED4-4F2D-A42B-3A44B2F86F24,,"","","","",gcc-53853
+gcc-54156,A,Compositae,,Podospermum,,"decumbens",subsp.,"intermedium","(DC.) Arcang.",Synonym,,L,TICA,2BB34B2E-C331-4DBA-9FAE-6BCC912B03FE,,"Arcang.. 1882.","","423","1882",gcc-132237
+gcc-131986,A,Compositae,,Podospermum,,"diversifolium",,"","Schur ex Nyman",Synonym,Invalid,L,TICA,D7340B32-F600-4449-9946-E2330BF59D13,239024-1,"Consp. 465.","","465","1879",gcc-143238
+gcc-24728,A,Compositae,,Podospermum,,"eriospermum",,"","Boiss.",Synonym,,M,TICA,6A918ED2-B185-4FD9-B201-2DAB0ECF245B,,"""Diagn. Pl. Orient. ser. 1, 7: 5""","","5","1846",gcc-134198
+gcc-8240,A,Compositae,,Podospermum,,"grigoraschvilii",,"","Sosn.",Accepted,,M,TICA,AC218EBC-BAA6-4744-A76A-0F5611BEB162,,"Sosn. in Dokl. Akad. Nauk Azerbaidžansk. SSR 4(5). 1948.","","","1948",
+gcc-19582,A,Compositae,,Podospermum,,"grossheimii",,"","(Lipsch. & Vassilcz.) Gemeinholzer & Greuter",Accepted,,M,TICA,F05E3DD8-8527-4024-8A77-2433869E8607,77075604-1,"","","714","2006",
+gcc-40029,A,Compositae,,Podospermum,,"grossheimii",,"","(Lipsch. & Vassilcz.) Kuth.",Unresolved,,L,TICA,D5DFAC7A-EFE1-4C80-8760-4A42443F38C3,77070534-1,"Kavkaz. Predstav. podtriby Scorzonerinae Dum. (Compos.) 117. 1978","","117","1978",
+gcc-126921,A,Compositae,,Podospermum,,"heterophyllum",,"","K.Koch",Synonym,,M,TICA,69E87136-39A7-4598-801B-D66DEA9C827D,,"Linnaea 17: 275. 1844","","275","",gcc-53853
+gcc-149923,A,Compositae,,Podospermum,,"heterophyllum",,"","Schur",Synonym,,L,TICA,4FEB5F15-2E3A-4D40-AB25-6332B646EB84,,"Schur in Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 10. 1859","","61","1859",gcc-143238
+gcc-79066,A,Compositae,,Podospermum,,"idae",,"","Sosn.",Accepted,,M,TICA,6D8FA896-F1A8-4F56-B573-6AA218E85DC4,,"Sosn. in Dokl. Akad. Nauk Azerbaidžansk. SSR 4(5). 1948.","","","1948",
+gcc-130526,A,Compositae,,Podospermum,,"idaeum",,"","Gand.",Synonym,,M,TICA,1EDFA649-F2F3-49D2-B589-DEBB8D7A4FBD,239028-1,"","","155","1916",gcc-902
+gcc-105959,A,Compositae,,Podospermum,,"integrifolium",,"","Schur",Synonym,Invalid,L,TICA,0B122D09-8374-475F-AEE3-A6B9FE218AB0,239029-1,"Enum. Pl. Transsilv. 949 (Index) 364. 1866 [Apr-Jun 1866]","","949 (Index) 364","1866",gcc-143238
+gcc-87575,A,Compositae,,Podospermum,,"intermedium",,"","DC.",Synonym,,M,TICA,5E0CDC5C-29B7-4615-B4D7-7D96C3866F53,239030-1,"","","110","1838",gcc-132237
+gcc-112221,A,Compositae,,Podospermum,,"jacquinianum",,"","W.D.J.Koch",Synonym,,L,TICA,E281F953-C047-4BDF-BBD2-B4E51DEB1BDB,239031-1,"","","425","1837",gcc-143238
+gcc-148956,A,Compositae,,Podospermum,,"jacquinianum",var.,"jacquinianum","",Synonym,,L,TICA,C16CB419-30B6-4A4E-AFCC-4E83DB55AC65,,"","","","",gcc-143238
+gcc-147123,A,Compositae,,Podospermum,,"jacquinianum",var.,"multiceps","Neilr.",Synonym,,L,TICA,EB2B0699-CAA4-4E77-B93C-27022C915444,,"""A. Neilreich, Fl. Nied.-Oesterr.. 1858""","","409","1858",gcc-143238
+gcc-148144,A,Compositae,,Podospermum,,"jacquinianum",var.,"simplex","Bisch.",Synonym,,L,TICA,2E137FC6-A30C-4ACB-9B96-3C6D9F9FFE73,,"""G.W.T.G. Bischoff, Beitr. Fl. Deutschl.. 1851""","","130","1851",gcc-143238
+gcc-25349,A,Compositae,,Podospermum,,"junceum",,"","Steud.",Accepted,,M,TICA,0AB25FDF-D5BB-4C3A-B303-2EC7A7153799,239032-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 366""","","366","1841",
+gcc-640,A,Compositae,,Podospermum,,"kirpicznikovii",,"","(Lipsch.) Gemeinholzer & Greuter",Accepted,,M,TICA,2CD238AC-3240-4CA3-A7CD-0137B80F53EE,77075605-1,"","","714","2006",
+gcc-76586,A,Compositae,,Podospermum,,"kirpicznikovii",,"","(Lipsch.) Kuth.",Unresolved,,L,TICA,1E3E65A5-2A41-4108-84C7-650BB5D7086B,77070530-1,"Kavkaz. Predstav. podtriby Scorzonerinae Dum. (Compos.) 113. 1978","","113","1978",
+gcc-141859,A,Compositae,,Podospermum,,"lachnostegium",,"","Woronow",Accepted,,M,TICA,66A9210C-0B87-493C-8429-F85F59D36198,239033-1,"","","223","1933",
+gcc-132237,A,Compositae,,Podospermum,,"laciniatum",,"","(L.) DC.",Accepted,,M,TICA,2E649D41-EA45-4E9F-AF46-E2C33F62E0CB,239034-1,"","","62","1805",
+gcc-56820,A,Compositae,,Podospermum,,"laciniatum",var.,"calcitrapiifolia","DC.",Synonym,,L,TICA,A606A351-6B57-412E-9ADA-81749F0F26C2,,"","","","",gcc-53853
+gcc-53853,A,Compositae,,Podospermum,,"laciniatum",subsp.,"decumbens","(Guss.) Gemeinholzer & Greuter",Accepted,,L,TICA,89999972-6C16-4497-AAC4-69479E5FD1C9,77075606-1,"","","715","2006",
+gcc-67724,A,Compositae,,Podospermum,,"laciniatum",subsp.,"integrifolium","Arcang.",Synonym,,L,TICA,88DE5448-8C44-4672-82B4-D97AB544E08F,,"Arcang.. 1882.","","423","1882",gcc-132237
+gcc-41909,A,Compositae,,Podospermum,,"laciniatum",var.,"intermedium","(Guss.) Batt.",Synonym,,L,TICA,6AE8612D-6E2C-4B1E-9B79-4D9A8BFD6873,,"","","","",gcc-132237
+gcc-18144,A,Compositae,,Podospermum,,"laciniatum",subsp.,"jacquinianum","(W.D.J.Koch) Arcang.",Synonym,,L,TICA,06A1B41D-CA1F-4D7F-9BEE-2185097706A2,,"","","423","1882",gcc-143238
+gcc-150821,A,Compositae,,Podospermum,,"laciniatum",var.,"laciniatum","",Synonym,,L,TICA,E5F26728-9774-440C-8D53-76BFC4CB70DB,,"","","","",gcc-132237
+gcc-153258,A,Compositae,,Podospermum,,"laciniatum",subsp.,"laciniatum","",Synonym,,L,TICA,5EF31A23-20E1-4706-9A3C-AAAE6AF6D991,,"","","","",gcc-132237
+gcc-63387,A,Compositae,,Podospermum,,"laciniatum",var.,"octangulare","(Willd.) Batt.",Synonym,,L,TICA,BA4A84EE-D49F-4A1F-9742-B676BD939C63,,"","","","",gcc-132237
+gcc-152458,A,Compositae,,Podospermum,,"laciniatum",var.,"songoricum","Kar. & Kir.",Synonym,,L,TICA,D44FDA98-5626-4299-9A3F-99BA2153212E,,"","","","",gcc-151252
+gcc-54774,A,Compositae,,Podospermum,,"laciniatum",subsp.,"tenorei","(C.Presl) Nyman",Synonym,,L,TICA,A644CAF0-58D8-43D8-9C74-70BC06F62C69,,"","","465","1879",gcc-132237
+gcc-77515,A,Compositae,,Podospermum,,"lipschitzii",,"","Kuth.",Accepted,,M,TICA,E9A77102-E649-4DFD-AD32-670D8E48F605,239035-1,"Zametki Sist. Geogr. Rast. 29: 66 (1972).","","66","1972",
+gcc-23007,A,Compositae,,Podospermum,,"loreum",,"","Griseb.",Synonym,,L,TICA,4DDA3641-274F-4440-897D-2A9C2140BA08,,"Spic. Fl. Rumel. ii. 263","","263","1846",gcc-143238
+gcc-86723,A,Compositae,,Podospermum,,"meshhedense",,"","Rech.f.",Accepted,,M,TICA,250D80AE-CE68-41E2-B117-7B8F1BCA385F,,"in Ann. Naturhist. Mus. Wien lv. 289 (1947).","","","",
+gcc-40235,A,Compositae,,Podospermum,,"messeniacum",,"","(Bory & Chaub.) Steud.",Synonym,,L,TICA,724C417D-F82D-4439-B20E-4A9B28B032FD,239038-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 366""","","366","1841",gcc-143238
+gcc-38606,A,Compositae,,Podospermum,,"meyeri",,"","K.Koch",Accepted,,M,TICA,65EECB0F-7F85-4B96-9138-47A51B4370C5,239039-1,"","","659","1851",
+gcc-137471,A,Compositae,,Podospermum,,"molle",,"","Fisch.Mey. & Avé-Lall.",Unresolved,,L,TICA,3906C021-0567-4B63-A0BC-EE8509452E85,,"Index Seminum Hort. Petrop. vi. 63","","63","",
+gcc-146195,A,Compositae,,Podospermum,,"molle",,"","(M.Bieb.) Fisch. & C.A.Mey.",Synonym,,M,TICA,46FA030F-3EDC-46F4-990B-138F5806765A,,"""Fisch. & C. A. Mey. - in Carl Friedrich von Ledebour, Fl. Ross. 2. 1846""","","783","1846",gcc-112106
+gcc-52090,A,Compositae,,Podospermum,,"muricatum",,"","DC.",Synonym,,M,TICA,88CCA127-0E8E-4C20-8240-609D1305AEA3,239041-1,"Syn. Fl. Gall. 265.","","265","1806",gcc-132237
+gcc-148388,A,Compositae,,Podospermum,,"octangulare",,"","DC.",Synonym,,L,TICA,2E1CEA35-79AC-4C39-8E85-417323029729,,"","","","",gcc-143238
+gcc-85046,A,Compositae,,Podospermum,,"octangulare",,"","Roth ex Steud.",Unresolved,,L,TICA,D53AD39B-6B88-4666-B7E9-77CEEC3DE0EF,239042-1,"""Nomencl. Bot. (Steudel) 755, in syn.; Link, Enum. Hort. Berol. ii. 279""","","279","1821",
+gcc-127468,A,Compositae,,Podospermum,,"pedunculare",,"","Sieber ex Benth.",Accepted,,M,TICA,314B3A96-3F07-4470-A4EF-D7BB2FF276FD,239043-1,"Fl. Austral. 3: 579","","579","1867",
+gcc-80667,A,Compositae,,Podospermum,,"persepolitanum",,"","(Boiss.) Grossh.",Synonym,Illegitimate,M,TICA,074062F8-9921-4A5B-A377-6E136F0011CD,,"""Fl. Kavkaza, iv. 235 (1934).""","","","1934",gcc-134198
+gcc-6310,A,Compositae,,Podospermum,,"phaeopappum",,"","Boiss.",Synonym,,M,TICA,73DD439C-F6D6-4F90-B26E-0BBDCA03F9CA,,"","","5","1846",gcc-41452
+gcc-41079,A,Compositae,,Podospermum,,"pindicola",,"","Hausskn.",Synonym,,M,TICA,1AD76882-E690-495A-91E6-4C23ABECF8F3,,"","","86","1887",gcc-52476
+gcc-77041,A,Compositae,,Podospermum,,"pinifolium",,"","Hoffmanns. & Link",Synonym,,L,TICA,6D4D57C4-919E-4537-9654-65F60AA72087,,"Fl. Port. ii. 127. t. 90a.","","","",gcc-37577
+gcc-22414,A,Compositae,,Podospermum,,"ponticum",,"","Steven",Synonym,,M,TICA,3470150F-A2C0-4F44-8788-2979139EC0EE,239048-1,"""in Bull. Soc. Nat. Mosc. xxix. (1856) II. 404, in textu.""","","404","1856",gcc-38606
+gcc-109518,A,Compositae,,Podospermum,,"pumilum",,"","(Cav.) Sweet",Synonym,,M,TICA,5E66D998-569C-497B-BD92-AED6ADA320DB,239049-1,"Hort. Brit. (Sweet) 206","","206","1826",gcc-47896
+gcc-107140,A,Compositae,,Podospermum,,"purpureum",,"","(L.) W.D.J.Koch & Ziz",Accepted,,M,TICA,0EDEA529-EAE3-440E-A4EE-A96B4085DE32,,"","","13","1814",
+gcc-9897,A,Compositae,,Podospermum,,"purpureum",,"","Koch ex Steud.",Unresolved,,L,TICA,D763E2DA-6764-49B3-8BDC-127C797D4FD4,239050-1,"""Nomencl. Bot. (Steudel) 755, in syn.""","","755","1821",
+gcc-146265,A,Compositae,,Podospermum,,"purpureum",subsp.,"purpureum","",Synonym,,L,TICA,5CDB3E1D-0840-4D34-90FD-15235ABE1A23,,"","","","",gcc-107140
+gcc-3215,A,Compositae,,Podospermum,,"radicosum",,"","(Boiss.) Gemeinholzer & Greuter",Accepted,,M,TICA,BF16D8CF-645F-4CCF-B9F9-05F4D74957A6,77075607-1,"","","715","2006",
+gcc-20428,A,Compositae,,Podospermum,,"resedaefolium",,"","Sch.Bip.",Unresolved,,L,TICA,73A91E06-7D86-4336-9AD7-25C7A8815AF8,239051-1,"Webb & Berth. Phyt. Canar. ii. 470.","","ii. 470","",
+gcc-5576,A,Compositae,,Podospermum,,"resedifolium",,"","(L.) DC.",Synonym,,M,TICA,91724BCA-B59E-414D-9E3D-0A66FAC1571C,239052-1,"","","61","1805",gcc-53853
+gcc-43845,A,Compositae,,Podospermum,,"roseum",,"","(Waldst. & Kit.) Gemeinholzer & Greuter",Accepted,,M,TICA,9E9B2AB4-E615-4A8D-A5AE-513CDEC9EE95,77075608-1,"","","715","2006",
+gcc-150322,A,Compositae,,Podospermum,,"roseum",subsp.,"peristericum","(Formánek) Gemeinholzer & Greuter",Accepted,,L,TICA,197C4B1D-ED13-4AA5-8EDB-6BCAAF50A380,77075609-1,"Gemeinholzer & Greuter in Willdenowia 36. 2006","","715","2006",
+gcc-150418,A,Compositae,,Podospermum,,"roseum",subsp.,"roseum","",Synonym,,L,TICA,6B262126-8830-4A37-B3C6-6E2A6C64E192,,"","","","",gcc-43845
+gcc-33706,A,Compositae,,Podospermum,,"salinum",,"","Schur",Synonym,Invalid,M,TICA,A51C4272-4F33-4C97-B4F7-3E7928382856,239053-1,"Enum. Pl. Transsilv. 364. 1866 [Apr-Jun 1866]","","364","1866",gcc-132237
+gcc-133285,A,Compositae,,Podospermum,,"schischkinii",,"","(Lipsch. & Vassilcz.) Gemeinholzer & Greuter",Accepted,,M,TICA,E7AAA30E-DAF3-4D63-ABFC-E52A6AA01E26,77075610-1,"","","715","2006",
+gcc-44838,A,Compositae,,Podospermum,,"schischkinii",,"","(Lipsch. & Vassilcz.) Kuth.",Unresolved,,L,TICA,48A3DE93-1AFD-47BF-9FCF-530F98E67F86,77070537-1,"Kavkaz. Predstav. podtriby Scorzonerinae Dum. (Compos.) 118. 1978","","118","1978",
+gcc-98037,A,Compositae,,Podospermum,,"scorzoneroides",,"","Turcz. ex DC.",Accepted,,M,TICA,781EE2C9-3152-4ADD-A552-953530FD98D8,239054-1,"Prodr. (DC.) 7(1): 120","","120","1838",
+gcc-151252,A,Compositae,,Podospermum,,"songoricum",,"","(Kar. & Kir.) Tzvelev",Accepted,,M,TICA,39762976-A7AF-4C9C-8250-80C927530D94,,"""N.N. Tzvelev, Rast. Tsentral. Azii 14b""","","104","",
+gcc-100243,A,Compositae,,Podospermum,,"suberosum",,"","(K.Koch) Lipsch.",Synonym,,M,TICA,D4ED8123-4BF3-4AF1-B06C-9A2DF30D4D68,239055-1,"","","168","1933",gcc-51964
+gcc-120542,A,Compositae,,Podospermum,,"subulatum",,"","(Lam.) DC.",Synonym,,M,TICA,2ABB8D33-52B0-42D0-AEF3-C7C8ADED8B6A,239056-1,"","","61","1805",gcc-132237
+gcc-117820,A,Compositae,,Podospermum,,"taraxacifolium",,"","(Jacq.) Sweet",Synonym,,M,TICA,20B63685-414D-468B-87BA-C1841D421AAC,239057-1,"Hort. Brit. (Sweet) 207","","207","1826",gcc-105693
+gcc-86270,A,Compositae,,Podospermum,,"tenorei",,"","(C.Presl) DC.",Synonym,,M,TICA,CC4BB1D3-DF51-43CB-814D-7A8B55AA17E6,239058-1,"","","110","1838",gcc-132237
+gcc-122631,A,Compositae,,Podospermum,,"tenuifolium",,"","Hoffmanns. & Link",Synonym,,M,TICA,929F87F2-2344-487B-8C71-CC732E22F8C6,239059-1,"","","129","1820",gcc-132237
+gcc-18576,A,Compositae,,Podospermum,,"tenuisectum",,"","Grossh. & Sosn.",Synonym,,M,TICA,510ADCC8-7559-4A82-84A8-2253989C1FB8,239060-1,"""Grossheim, Harald  in Zametki Sist. Geogr Rast. 13. 1947""","","67","1947",gcc-38606
+gcc-115792,A,Compositae,,Podospermum,,"verrucosum",,"","Boiss. & Balansa",Synonym,,M,TICA,3875C926-9230-4B85-A045-BCFF47F562E7,,"","","115","1856",gcc-8105
+gcc-139975,A,Compositae,,Podospermum,,"villosum",,"","DC.",Synonym,,M,TICA,EB70DD82-23BE-4FC9-9FBC-F3EE21A23EFC,,"""DC., Prodr. 7. 1838.""","","111","1838",gcc-112106
+gcc-88991,A,Compositae,,Podospermum,,"villosum",,"","Steven",Unresolved,,L,TICA,1CF3D1D1-E795-4967-B654-80A62B5576BD,239062-1,"Prodr. (DC.) 7(1): 111","","111","1838",
+gcc-110291,A,Compositae,,Podospermum,,"willkommii",,"","Sch.Bip. ex Willk.",Synonym,,M,TICA,3D83B803-814B-406E-B305-B08BE0DA2C7B,239063-1,"","","42","1852",gcc-132237

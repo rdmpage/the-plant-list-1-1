@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76938,A,Compositae,,Lachnorhiza,,"asteroides",,"","Griseb.",Synonym,,M,TICA,9BC44A57-BF95-45E0-B3E7-65BD98EEC02C,227774-1,"Cat. Pl. Cub. 152.","","152","1866",gcc-8397
+gcc-6582,A,Compositae,,Lachnorhiza,,"micrantha",,"","(Borhidi) Borhidi",Accepted,,L,TICA,F5084E3A-D2DC-4CC0-B5B7-0C365D172B6F,1137348-2,"","","89","1992",
+gcc-8397,A,Compositae,,Lachnorhiza,,"piloselloides",,"","A.Rich.",Accepted,,M,TICA,B4DEA873-092A-4A03-8EE0-0F9EA57601D1,134331-2,"""Hist. Fis. Cuba, Bot. 11: 34. 1850""","","34","1850",
+gcc-16850,A,Compositae,,Lachnorhiza,,"piloselloides",subsp.,"micrantha","Borhidi",Unresolved,,L,TICA,5E324AA8-0F9C-4680-9562-1F20BB3C29C9,134333-2,"","","214","1983",gcc-6582
+gcc-55203,A,Compositae,,Lachnorhiza,,"piloselloides",var.,"micrantha","Borhidi",Synonym,,L,TICA,68FFDFB1-5B7C-48E3-BA39-74241293FC93,,"Acta Bot. Acad. Sci. Hung. 29: 214. 1983.","","214","1983",gcc-6582
+gcc-61902,A,Compositae,,Lachnorhiza,,"piloselloides",subsp.,"piloselloides","",Synonym,,L,TICA,5E36F33E-D831-4AE7-8673-AA5F8589D19C,,"","","","",gcc-8397
+gcc-7714,A,Compositae,,Lachnorhiza,,"piloselloides",var.,"piloselloides","",Synonym,,L,TICA,FC6B6C7B-2760-4B79-ACB0-0E54352E7211,,"","","","",gcc-8397

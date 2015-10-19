@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-13659,A,Compositae,,Hesperevax,,"acaulis",,"","(Kellogg) Greene",Accepted,,L,TICA,6C0C49A5-025B-430F-A927-196B0F3B0E69,1131011-2,"Fl. Francisc.","","402","1897",
+gcc-58013,A,Compositae,,Hesperevax,,"acaulis",var.,"acaulis","",Synonym,,L,TICA,41A89C19-15EC-4602-A564-8B2F3AC9156F,,"","","","1992",gcc-13659
+gcc-135189,A,Compositae,,Hesperevax,,"brevifolia",,"","(A.Gray) Greene",Synonym,,M,TICA,5DAF4C3A-DA5E-4691-A7C9-E96A52C361AA,120821-2,"Fl. Francisc.","","402","1897",gcc-53711
+gcc-97179,A,Compositae,,Hesperevax,,"caulescens",,"","(Benth.) A.Gray",Accepted,,M,TICA,D149DAF2-86A1-4AF0-8272-934531307DAA,213879-1,"Proc. Amer. Acad. Arts vii. (1868) 356","","356","1868",
+gcc-6379,A,Compositae,,Hesperevax,,"humilis",,"","Greene",Synonym,,M,TICA,DD4E7B95-618A-432E-BD03-0BDC0CE4BE71,120822-2,"Fl. Francisc.","","401","1897",gcc-97179
+gcc-44995,A,Compositae,,Hesperevax,,"sparsiflora",,"","(A.Gray) Greene",Accepted,,M,TICA,0511C64B-55FE-4EDE-B7A7-535D39EA937D,120808-2,"Fl. Francisc.","","402","1897",
+gcc-53711,A,Compositae,,Hesperevax,,"sparsiflora",var.,"brevifolia","(A.Gray) Morefield",Accepted,,L,TICA,B02D4061-2AB5-4B32-9AD4-6848FBBBA625,967461-1,"","","302","1992",
+gcc-56493,A,Compositae,,Hesperevax,,"sparsiflora",var.,"sparsiflora","",Synonym,,L,TICA,C76EAD9B-5160-4FB6-AEA9-7F02C7A4F9CC,,"","","","",gcc-44995

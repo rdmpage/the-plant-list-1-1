@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-127853,A,Compositae,,Croptilon,,"divaricatum",,"","(Nutt.) Raf.",Accepted,,M,TICA,45A52263-C95F-4218-9166-D8AD1CEE47BD,30136632-2,"Fl. Tellur. 2: 47. 1837 [dt. 1836; publ. Jan-Mar 1837]","","47","1837",
+gcc-70116,A,Compositae,,Croptilon,,"divaricatum",var.,"divaricatum","",Synonym,,L,TICA,53178B80-DE03-4C85-8AE8-EB9EE5192CDD,,"","","","",gcc-127853
+gcc-34257,A,Compositae,,Croptilon,,"divaricatum",var.,"graniticum","(E.B.Sm.) Shinners",Synonym,,L,TICA,C565F1F4-4564-4F16-BA10-3F801A432A22,69646-2,"Sida 3","","348","1969",gcc-63298
+gcc-28741,A,Compositae,,Croptilon,,"divaricatum",var.,"hirtellum","(Shinners) Shinners",Synonym,,L,TICA,F6239B2D-FE61-4EED-B0C5-35275CE05A96,69647-2,"Field & Lab. 19","","134","1951",gcc-3552
+gcc-70537,A,Compositae,,Croptilon,,"divaricatum",var.,"hookerianum","(Torr. & A.Gray) Shinners",Synonym,,L,TICA,EB6712D6-A641-42D5-8541-EEDBEDB36F0E,69648-2,"Field & Lab. 19","","134","1951",gcc-38213
+gcc-38213,A,Compositae,,Croptilon,,"hookerianum",,"","(Torr. & A.Gray) House",Accepted,,M,TICA,F1FE342C-E693-4397-B115-46E228BDE96E,69649-2,"","","61","1921",
+gcc-63298,A,Compositae,,Croptilon,,"hookerianum",var.,"graniticum","(E.B.Sm.) E.B.Sm.",Accepted,,L,TICA,9E55FFB2-9BD8-457D-B35A-B5CBC9ED3ED5,919816-1,"Sida 9","","61","1981",
+gcc-71561,A,Compositae,,Croptilon,,"hookerianum",var.,"hookerianum","",Synonym,,L,TICA,E0D3D8AB-7D5B-449F-89E9-F71E2962FA1F,,"","","","",gcc-38213
+gcc-40891,A,Compositae,,Croptilon,,"hookerianum",var.,"validum","(Rydb.) E.B.Sm.",Accepted,,L,TICA,B78BC334-B2B4-4A42-9D1C-4BC4C7BC2BB1,919817-1,"Sida 9","","61","1981",
+gcc-119009,A,Compositae,,Croptilon,,"hookeriaunum",,"","(Torr. & A.Gray) A.Gray",Unresolved,,L,TICA,F5D752A7-069C-42F8-B4CA-C447E3918BE3,1194743-2,"","","","",
+gcc-3552,A,Compositae,,Croptilon,,"rigidifolium",,"","(E.B.Sm.) E.B.Sm.",Accepted,,M,TICA,4393E670-8E16-49B9-B9C5-068C5A3BAC1F,908576-1,"Sida 9","","60","1981",

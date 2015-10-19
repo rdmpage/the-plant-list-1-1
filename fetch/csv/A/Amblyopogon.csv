@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-32055,A,Compositae,,Amblyopogon,,"aristata",,"","Boiss.",Synonym,,M,TICA,FE40CD01-B88B-4CF7-B0A5-3B5EE2D8EAFB,,"","","66","1856",gcc-87729
+gcc-17271,A,Compositae,,Amblyopogon,,"atropatanus",,"","Grossh.",Synonym,,M,TICA,45B0C504-C606-417B-A300-1FEF75FD7DA7,176035-1,"","","245","1937",gcc-86895
+gcc-91495,A,Compositae,,Amblyopogon,,"balansae",,"","Boiss.",Unresolved,,L,TICA,E7546D81-4F4B-4AFD-90FF-86806B97038A,176036-1,"""Fl. Orient. [Boissier] 3: 604, in syn.""","","604","1875",
+gcc-48762,A,Compositae,,Amblyopogon,,"concinnus",,"","Boiss. & A.Huet",Synonym,,M,TICA,5626C89C-B88A-4A08-8CAA-5A56056A7B5D,,"","","65","1856",gcc-114962
+gcc-47493,A,Compositae,,Amblyopogon,,"erivanensis",,"","(Lipsky) Grossh.",Synonym,,M,TICA,4A15D175-5DA7-4200-BA80-57FEBDDB102E,,"Grossh. in Beih. Bot. Centralbl. 44(2). 1927.","","245","1927",gcc-34119
+gcc-92295,A,Compositae,,Amblyopogon,,"erivanensis",,"","(Lipsky) Sosn.",Synonym,,M,TICA,383CB1A3-115E-4349-98E0-8846F51DD9F0,,"","","","1927",gcc-34119
+gcc-98263,A,Compositae,,Amblyopogon,,"incanescens",,"","DC.",Unresolved,,L,TICA,FA340919-3C38-4982-8E3B-95B3B6FC7CF3,176039-1,"","","561","1838",
+tro-100375074,A,Compositae,,Amblyopogon,,"incanescens",,"","(Fisch. & C.A. Mey. ex DC.) Jaub. & Spach",Synonym,,L,TRO,100375074,,"Ill. Pl. Orient.","3: 23, t. 218","23","1847-1850",gcc-103529
+gcc-141702,A,Compositae,,Amblyopogon,,"integrifolius",,"","Boiss.",Synonym,,L,TICA,B4D2AD8F-F0DF-4117-B605-F7FB74586D8E,,"","","66","1856",gcc-103529
+gcc-92567,A,Compositae,,Amblyopogon,,"integrifolius",,"","(K.Koch) Grossh.",Synonym,,L,TICA,38BF22D4-604F-4DAB-AC71-88E12A72818C,,"""Grossh., Fl. Kavk. 4. 1934.""","","209","1934",gcc-103529
+gcc-133037,A,Compositae,,Amblyopogon,,"meyerianus",,"","(Tzvelev) Karjagin",Synonym,,L,TICA,C4EB98B2-100E-40DE-ABF2-E49C653A93F0,20009342-1,"","","454","1961",gcc-103529
+gcc-138895,A,Compositae,,Amblyopogon,,"meyerianus",,"","(Tzvelev) Soják",Unresolved,,L,TICA,5299FCA4-CD3C-4940-B242-F18F6231089A,176041-1,"""Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962, 47 (1962)""","","47","1962",gcc-103529
+gcc-102360,A,Compositae,,Amblyopogon,,"microcephala",,"","Boiss.",Synonym,,M,TICA,8659F47D-E618-4E1F-9CAF-9EEE987EEDA8,,"","","66","1856",gcc-107905
+gcc-92845,A,Compositae,,Amblyopogon,,"speciosus",,"","Boiss.",Unresolved,,L,TICA,3B83F651-2B8E-4288-A7F8-89803DB4BA83,176043-1,"""Fl. Orient. [Boissier] 3: 604, in syn.""","","604","1875",
+gcc-98891,A,Compositae,,Amblyopogon,,"voronovii",,"","Grossh. & Grossh.",Unresolved,,L,TICA,55DEBF54-A7D7-47EB-B5E8-971C63350A77,176044-1,"","","247","1937",
+gcc-92810,A,Compositae,,Amblyopogon,,"woronowii",,"","Grossh.",Synonym,,M,TICA,645F5DFD-FAFD-4D9C-A64F-896C50F0B5B5,,"","","","1934",gcc-135070
+gcc-133440,A,Compositae,,Amblyopogon,,"xanthocephalus",,"","(DC.) Sosn.",Synonym,,M,TICA,6869C820-4173-4AEB-AD87-E581BC243E8F,,"Sosn. in Beih. Bot. Centralbl. 44(2). 1927.","","245","1927",gcc-135070
+gcc-22909,A,Compositae,,Amblyopogon,,"xanthocephalus",,"","(Fisch. & C.A.Mey. ex Boiss.) Tesn.",Synonym,,M,TICA,480FAF84-B669-4097-BED2-2A68369CCEEB,,"","","","1927",gcc-135070

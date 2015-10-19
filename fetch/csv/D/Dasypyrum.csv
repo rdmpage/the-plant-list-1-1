@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-407379,A,Poaceae,,Dasypyrum,,"breviaristatum",,"","(H.Lindb.) Fred.",Synonym,,H,WCSP,407379,962615-1,"Nordic J. Bot.","11: 140","","1991",kew-407380
+kew-407380,A,Poaceae,,Dasypyrum,,"hordeaceum",,"","(Hack.) P.Candargy",Accepted,,H,WCSP,407380,,"Arch. Biol. Vég. Pure Appl.","1: 35","","1901",
+tro-50288377,A,Poaceae,,Dasypyrum,,"hordeaceum",var.,"breviaristatum","(H. Lindb.) Maire & Weiller",Synonym,,L,TRO,50288377,,"Fl. Afrique N.","3: 335","335","1955",kew-407380
+kew-407381,A,Poaceae,,Dasypyrum,,"hordeaceum",var.,"velutinum","(Maire) Maire & Weiller",Synonym,,L,WCSP,407381,,"in Fl. Afr. Nord","3: 335","","1955",kew-407380
+kew-407382,A,Poaceae,,Dasypyrum,,"sinaicum",,"","(Steud.) P.Candargy",Synonym,,H,WCSP,407382,397834-1,"Arch. Biol. Vég. Pure Appl.","1: 35","","1901",kew-413483
+kew-407383,A,Poaceae,,Dasypyrum,,"villosum",,"","(L.) Borbás",Accepted,,H,WCSP,407383,,"Term. Közl.","28: 331","","1896",
+tro-25510904,A,Poaceae,,Dasypyrum,,"villosum",,"","(L.) P. Candargy",Synonym,,M,TRO,25510904,397836-1,"Arch. Biol. Veg. Pure Appl.","1: 35, 62","35","1901",kew-407383
+kew-407384,A,Poaceae,,Dasypyrum,,"villosum",f.,"coloratum","(Rohlena) Soó",Synonym,,L,WCSP,407384,881836-1,"Acta Bot. Acad. Sci. Hung.","17: 120","","1971 publ. 1972",kew-407383
+kew-407385,A,Poaceae,,Dasypyrum,,"villosum",var.,"glabratum","Borbás",Synonym,,L,WCSP,407385,,"Balaton Fl.","288","","1900",kew-407383

@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-98255,A,Arecaceae,,Hemithrinax,,"compacta",,"","(Griseb. & H.Wendl.) M.Gómez",Accepted,,H,WCSP,98255,120195-2,"Noc. Bot. Sist.","51","","1893",
+tro-50151544,A,Arecaceae,,Hemithrinax,,"compacta",,"","(Griseb. & H. Wendl.) Hook. f.",Synonym,,M,TRO,50151544,667393-1,"Gen. Pl.","3: 931","931","1883",kew-98255
+kew-98256,A,Arecaceae,,Hemithrinax,,"ekmaniana",,"","Burret",Accepted,,H,WCSP,98256,278108-2,"Kongl. Svenska Vetensk. Acad. Handl.","III, 6(7): 9","","1929",
+kew-98257,A,Arecaceae,,Hemithrinax,,"rivularis",,"","León",Accepted,,H,WCSP,98257,278109-2,"Mem. Soc. Cub. Hist. Nat. ''Felipe Poey''","15: 380","","1941",
+kew-98258,A,Arecaceae,,Hemithrinax,,"rivularis",var.,"rivularis","",Synonym,,L,WCSP,98258,,"Unknown","","","",kew-98257
+kew-98259,A,Arecaceae,,Hemithrinax,,"rivularis",var.,"savannarum","(León) O.Muñiz",Accepted,,L,WCSP,98259,921016-1,"Acta Bot. Acad. Sci. Hung.","28: 312","","1982",
+kew-98260,A,Arecaceae,,Hemithrinax,,"savannarum",,"","León",Synonym,,H,WCSP,98260,278111-2,"Mem. Soc. Cub. Hist. Nat. ''Felipe Poey''","15: 381","","1941",kew-98259

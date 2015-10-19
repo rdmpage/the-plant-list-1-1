@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-36867,A,Compositae,,Ampherephis,,"aristata",,"","Kunth",Synonym,,M,TICA,04E7FED3-A38E-4EE0-9B46-4452507E113C,,"","","25","",gcc-99839
+gcc-79562,A,Compositae,,Ampherephis,,"indica",,"","Wall. ex Less.",Synonym,,M,TICA,7930BF89-008D-4ABD-B162-6BB71DB51119,176225-1,"Linnaea 6","","686","1831",gcc-92876
+gcc-1642,A,Compositae,,Ampherephis,,"intermedia",,"","Link",Synonym,,M,TICA,CDC5D0B2-ED3D-4E15-97D1-02F328DC4575,,"","","t. 29","",gcc-99839
+gcc-107249,A,Compositae,,Ampherephis,,"mollis",,"","Wall.",Synonym,Invalid,M,TICA,41F65B73-FDD1-46F9-A2C4-A9A6CE5E91EF,176227-1,"Numer. List [Wallich] n. 2957","","2957","1831",gcc-24073
+gcc-13293,A,Compositae,,Ampherephis,,"mutica",,"","Kunth",Synonym,,M,TICA,B38552D9-4F96-4E04-9D6A-18C73B41C515,,"","","25","1818",gcc-99839
+gcc-7712,A,Compositae,,Ampherephis,,"pilosa",,"","Cass. ex Steud.",Synonym,,M,TICA,010030E4-7CF7-4175-A248-0E53514098F3,176229-1,"","","324","1840",gcc-99839
+gcc-102304,A,Compositae,,Ampherephis,,"psilocarpa",,"","Nees & Mart.",Synonym,,M,TICA,3F683062-2905-4791-A67D-9ECDD6D54E58,176230-1,"","","4","1824",gcc-122657
+gcc-112176,A,Compositae,,Ampherephis,,"pulchella",,"","Cass. ex Steud.",Synonym,,M,TICA,AF8426EA-1EC4-422F-97D6-B4CE6762C12C,176231-1,"","","79","1840",gcc-99839
+gcc-32200,A,Compositae,,Ampherephis,,"pulchella",,"","Cass.",Synonym,,M,TICA,1F97336D-7D42-4A6E-9187-3BA6DEBDFFC0,,"Dict. Sci. Nat. (ed. 2) 57: 346. 1828.","","346","1828",gcc-99839
+gcc-132751,A,Compositae,,Ampherephis,,"senegalensis",,"","Less.",Synonym,,M,TICA,A0764628-5CB9-4896-A875-E3F46E22B2B4,176232-1,"Linnaea 6","","687","1831",gcc-102568
+gcc-25133,A,Compositae,,Ampherephis,,"wightiana",,"","Wall.",Unresolved,,L,TICA,49DD27DE-B699-4B0B-B76D-2E6672138E87,,"Numer. List [Wallich] n. 2958","","2958","",

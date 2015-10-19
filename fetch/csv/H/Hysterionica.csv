@@ -1,0 +1,39 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-51406,A,Compositae,,Hysterionica,,"aberrans",,"","(Cabrera) Cabrera",Accepted,,M,TICA,C884F99E-A673-4D86-AC07-5F57C87F8816,,"","","","1946",
+gcc-26264,A,Compositae,,Hysterionica,,"aberrans",var.,"aberrans","",Synonym,,L,TICA,9FA661B8-B35C-432A-901B-30912D8E7951,,"""Notas Mus. La Plata, Bot. 11(53): 357 (1946)""","","357","1946",gcc-51406
+gcc-33048,A,Compositae,,Hysterionica,,"bakeri",,"","Hicken",Accepted,,M,TICA,E0CCF29C-D128-44B6-A2EC-3D4443A4EBF8,127235-2,"","","149","1924",
+gcc-69382,A,Compositae,,Hysterionica,,"bakeri",var.,"aberrans","Cabrera",Synonym,,L,TICA,54873320-15A2-4CF8-9C1A-E5D965858B4D,,"""Notas Prelim. Mus. La Plata 1: 325, fig. 2. 1931""","","","1931",gcc-51406
+gcc-145345,A,Compositae,,Hysterionica,,"bakeri",f.,"bakeri","",Synonym,,L,TICA,ACF916E4-EDB1-403E-AA4D-0243014C8A40,,"","","","",gcc-33048
+gcc-147381,A,Compositae,,Hysterionica,,"bakeri",var.,"bakeri","",Synonym,,L,TICA,146C28C3-2517-4845-8EBA-2C532815CF04,,"","","","",gcc-33048
+gcc-107725,A,Compositae,,Hysterionica,,"bakeri",f.,"decumbens","Hicken",Synonym,,L,TICA,2B8D1C2A-F1D8-4338-85BF-AABC201E5A08,127237-2,"Darwiniana 1: 149. 1924","","149","1924",gcc-97829
+gcc-94359,A,Compositae,,Hysterionica,,"cabrerae",,"","Ariza",Accepted,,M,TICA,F0D4AF27-1C83-4975-A215-8CCD9E772651,127238-2,"","","545","1980",
+gcc-108734,A,Compositae,,Hysterionica,,"caurina",,"","I.M.Johnst.",Synonym,,M,TICA,B588A902-69EE-40A7-9555-AD02169F8AD1,127239-2,"Contr. Gray Herb. 95","","54","1931",gcc-33048
+gcc-97987,A,Compositae,,Hysterionica,,"dianthifolia",,"","(Griseb.) Cabrera",Accepted,,M,TICA,91D72549-7735-47E5-B280-951C34EE208D,127240-2,"","","352","1946",
+gcc-65940,A,Compositae,,Hysterionica,,"dianthifolia",var.,"dianthifolia","",Synonym,,L,TICA,6ED6CFB5-B3FF-4ACF-B596-CADCC6EDDD8B,,"""Notas Mus. La Plata, Bot. 11(53): 352 (1946)""","","352","1946",gcc-97987
+gcc-37231,A,Compositae,,Hysterionica,,"famatinensis",,"","Hieron.",Synonym,Invalid,M,TICA,83E21515-29C7-4C8A-994E-44FA9D4EB60E,,"","","","",gcc-97829
+gcc-35577,A,Compositae,,Hysterionica,,"filiforme",,"","Cabrera",Accepted,,L,TICA,6FA5DE7B-C83D-471D-A066-41F67229D026,,"","","","",
+gcc-39839,A,Compositae,,Hysterionica,,"filiformis",,"","(Spreng.) Cabrera",Accepted,,M,TICA,86665736-4694-4530-9E7A-49F058FCD824,127242-2,"","","355","1946",
+gcc-107991,A,Compositae,,Hysterionica,,"glaucifolia",,"","(Kuntze) Solbrig",Accepted,,M,TICA,847AE71F-1984-4E14-B252-AB5C210F40AE,127243-2,"","","29","1955",
+gcc-125785,A,Compositae,,Hysterionica,,"gracilis",,"","(Don ex Sweet) Benth. & Hook.f.",Accepted,,L,TICA,68CECB9D-DC1B-48E2-9393-D3D5C0CBA1F0,,"Gen. ii. 253.","","","1873",
+gcc-94314,A,Compositae,,Hysterionica,,"gracilis",,"","(D.Don) Hook.f. & Hook.f.",Unresolved,,L,TICA,A4B8CED3-C83D-43FB-9803-8CB382B537E4,1052318-2,"","","","",
+gcc-149053,A,Compositae,,Hysterionica,,"gracilis",var.,"gracilis","",Synonym,,L,TICA,F97EC819-99BD-4DB4-A6E8-50839500C157,,"","","","",gcc-125785
+gcc-104361,A,Compositae,,Hysterionica,,"grisebachi",,"","Hieron.",Synonym,Invalid,M,TICA,7C724067-E24E-4D2F-8B63-A3559879A1E2,,"","","","",gcc-33048
+gcc-110656,A,Compositae,,Hysterionica,,"intermedia",,"","Hieron.",Synonym,Invalid,M,TICA,A3A46D7A-FA44-4B08-B767-B166B1E2117C,,"","","","",gcc-23459
+gcc-23459,A,Compositae,,Hysterionica,,"jasionoides",,"","Willd.",Accepted,,M,TICA,A806B047-0E0F-4A95-BA9F-2B6BA997C665,,"in Ges. Naturf. Fr. Berl. Mag. i. (1807) 140.","","","1807",
+gcc-137895,A,Compositae,,Hysterionica,,"linearifolla",,"","Baker",Unresolved,,L,TICA,6BE507E6-2D41-4755-A77C-EF6E405B92C8,,"Fl. Bras. (Martius) 6(3): 13","","13","",
+gcc-8204,A,Compositae,,Hysterionica,,"marginata",,"","(Griseb.) M.Gómez",Unresolved,,L,TICA,6C634BD7-D6DA-4F38-A62A-0F3F636F5C93,1217950-2,"","","272","1890",
+gcc-102917,A,Compositae,,Hysterionica,,"montevidensis",,"","Baker",Accepted,,M,TICA,48C5438A-4EDC-4B41-9EBF-A02E5D85C3FE,,"Fl. Bras. (Martius) 6(3): 13","","13","1882",
+gcc-133291,A,Compositae,,Hysterionica,,"nebularis",,"","""Deble, A.S.Oliveira & Marchiori""",Synonym,,M,TICA,65596C86-E917-4E5E-B85E-E52DAF54B3F0,77077239-1,"Ci. Florest. 14(1): 9 (-11; fig. 1)","","9 (-11; fig. 1)","2004",gcc-105758
+gcc-135563,A,Compositae,,Hysterionica,,"nidorelloides",,"","(DC.) Baker",Synonym,,M,TICA,A0386539-BB1E-49AE-A442-EA4787BEE907,,"Fl. Bras. (Martius) 6(3): 12","","12","1882",gcc-79819
+gcc-107554,A,Compositae,,Hysterionica,,"pinifolia",,"","Poir.",Unresolved,,L,TICA,8A4BD188-1BD3-4703-9208-AA522AC4D02A,1141690-2,"Fl. Bras. (Martius) 6(3): 12. 1882","","12","1882",
+gcc-130508,A,Compositae,,Hysterionica,,"pinifolia",,"","(Poir.) Baker",Accepted,,M,TICA,77C968CD-DE37-4440-9632-DEB3437AE8EF,,"","","12","1882",
+gcc-2043,A,Compositae,,Hysterionica,,"pinifolia",,"","Benth. & Hook.f.",Unresolved,,L,TICA,8FE7159F-2149-4372-9D64-03AC598D0B3C,225641-1,"""Gen. ii. 253; Baker, in Mart. Fl. Bras. vi. III. 12.""","","ii. 253","",
+gcc-30865,A,Compositae,,Hysterionica,,"pinnatiloba",,"","Matzenb. & Sobral",Accepted,,M,TICA,0B08BE65-55AB-4562-B7A6-392557EFFDC0,314709-2,"","","17","1996",
+gcc-105758,A,Compositae,,Hysterionica,,"pinnatisecta",,"","Matzenb. & Sobral",Accepted,,M,TICA,911241B5-812B-47EE-9460-A63DBB5DCCB1,314708-2,"","","16","1996",
+gcc-97829,A,Compositae,,Hysterionica,,"pulchella",,"","Cabrera",Accepted,,M,TICA,3F1E6315-06AA-49E4-828C-94C316CE4547,,"","","","1931",
+gcc-35076,A,Compositae,,Hysterionica,,"pulvinata",,"","Cabrera",Synonym,,M,TICA,7D444B5C-C635-43EF-893A-410996825CB1,127247-2,"","","353","1946",gcc-97987
+gcc-128694,A,Compositae,,Hysterionica,,"scaposa",,"","Benth. & Hook.f.",Unresolved,,L,TICA,4AE1D4DF-A6A5-47B9-8343-DA9D70B28BAD,225644-1,"Gen. ii. 253.","","ii. 253.","",
+gcc-137421,A,Compositae,,Hysterionica,,"setuligera",,"","Gand.",Synonym,,M,TICA,D1A91AC9-7DDB-43AB-A84B-EE711847C841,127248-2,"Bull. Soc. Bot. France 60","","23","1913",gcc-39839
+gcc-115681,A,Compositae,,Hysterionica,,"squarrosa",,"","Baill.",Unresolved,,L,TICA,ABA2DEF5-B47A-4C6E-95BA-BCC1389A52E8,225646-1,"Hist. Pl. (Baillon) 8: 38","","38","1882",
+gcc-39023,A,Compositae,,Hysterionica,,"subvillosa",,"","Griseb.",Unresolved,,L,TICA,C9669321-C40E-4326-A5CA-486612E3F0FA,225647-1,"in Goett. Abh. xix. (1874) 170.","","xix.  170.","1874",
+gcc-144870,A,Compositae,,Hysterionica,,"villosa",,"","(Hook.) Cabrera",Synonym,Illegitimate,M,TICA,942EE2CB-7FF8-400C-99F6-FF1DCDC46895,225648-1,"","","350","1946",gcc-102917

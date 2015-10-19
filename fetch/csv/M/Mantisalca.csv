@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-21171,A,Compositae,,Mantisalca,,"amberboides",,"","(Caball.) Maire",Accepted,,M,TICA,E54B47C0-3C47-42AF-879D-271B4DD77AAB,231703-1,"","","819","1934",
+gcc-90520,A,Compositae,,Mantisalca,,"delestrei",,"","(Spach) Briq. & Cavill.",Accepted,,M,TICA,5CAACF15-D056-4033-8A19-8437EABFB42D,,"","","","1930",
+gcc-36215,A,Compositae,,Mantisalca,,"duriaei",,"","(Spach) Briq. & Cavill.",Accepted,,M,TICA,AD45550A-2AAF-4E6A-AA71-4329215335B5,,"","","","1930",
+gcc-152163,A,Compositae,,Mantisalca,,"duriaei",var.,"duriaei","",Synonym,,L,TICA,B3AE3505-F021-4B68-A9EB-93DBEA758DB4,,"","","","",gcc-36215
+gcc-53013,A,Compositae,,Mantisalca,,"duriaei",var.,"tenella","(Spach) Bonnet & Barratte",Synonym,,L,TICA,023AE7B0-B320-4819-9BD5-62CC40585672,,"","","","",gcc-36215
+gcc-7340,A,Compositae,,Mantisalca,,"elegans",,"","Cass.",Unresolved,,L,TICA,A60A062C-7257-46DA-A632-0DA80CA0EB11,231706-1,"in Dict. Sc. Nat. xxix. 81.","","xxix. 81","",
+gcc-6495,A,Compositae,,Mantisalca,,"iserniana",,"","(J.Gay & Webb ex Graells) M.Laínz",Synonym,,M,TICA,6534F88B-A786-4ABA-A2B0-0C1416685403,231707-1,"","","591","1968",gcc-36215
+gcc-39285,A,Compositae,,Mantisalca,,"salmantica",,"","(L.) Briq. & Cavill.",Accepted,,M,TICA,03CF9DEB-02D9-45AD-8660-48E7A9FBB593,231708-1,"","","111","1930",
+gcc-65169,A,Compositae,,Mantisalca,,"salmantica",var.,"biennis","Maire",Synonym,,L,TICA,18E76D18-2214-44EE-8E9D-C469B4506C86,,"","","","",gcc-39285
+gcc-67737,A,Compositae,,Mantisalca,,"salmantica",var.,"leptoloncha","(Spach) Ball",Synonym,,L,TICA,A6FCEA09-F8E8-420D-9E1B-D992BAE69812,,"","","","",gcc-39285
+gcc-145241,A,Compositae,,Mantisalca,,"salmantica",var.,"salmantica","",Synonym,,L,TICA,B15FF31A-0900-4293-B102-00067D1E2955,,"","","","",gcc-39285

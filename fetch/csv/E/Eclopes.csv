@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-83265,A,Compositae,,Eclopes,,"acicularis",,"","Desf. ex Cass.",Synonym,,M,TICA,415C7D4C-0B99-4888-9059-73E84EEE35FF,,"","","","1827",gcc-27207
+gcc-35382,A,Compositae,,Eclopes,,"apiculata",,"","DC.",Synonym,,M,TICA,4ED9D6A9-4105-43A2-BAA8-419AECCD8142,202795-1,"","","289","1838",gcc-50060
+gcc-146293,A,Compositae,,Eclopes,,"apiculata",var.,"apiculata","",Synonym,,L,TICA,2AC93429-6AE1-4BFE-BD8B-15ACB270B3B7,,"","","","",gcc-50060
+gcc-92302,A,Compositae,,Eclopes,,"buxifolia",,"","Gaertn.",Synonym,,M,TICA,D770CEE3-7D32-4E93-A9B7-88495DF04A64,,"","","441","1791",gcc-30047
+gcc-120518,A,Compositae,,Eclopes,,"centauroides",,"","(L.) DC.",Synonym,,M,TICA,DA9C6904-5972-45D8-8390-C7B9475A00EA,202797-1,"","","288","1838",gcc-34593
+gcc-28306,A,Compositae,,Eclopes,,"cuneata",,"","(L'Hér.) Less.",Unresolved,,L,TICA,1C9E0B22-727E-4FA1-83F7-344B3D72C158,202798-1,"","","379","1832",gcc-99403
+gcc-82579,A,Compositae,,Eclopes,,"decussata",,"","(L'Hér.) DC.",Synonym,,M,TICA,20ABE6F7-DA38-4E7E-8D40-726084484366,202799-1,"","","288","1838",gcc-88456
+gcc-26674,A,Compositae,,Eclopes,,"genistaefolia",,"","(L.) DC.",Synonym,,M,TICA,4D03A5CF-9EA1-42C5-89E3-31468F31E84B,202800-1,"","","288","1838",gcc-41323
+gcc-98123,A,Compositae,,Eclopes,,"glutinosa",,"","DC.",Synonym,,M,TICA,B7ECAF73-DA62-47DB-9B65-956913869A55,202801-1,"","","288","1838",gcc-141183
+gcc-83099,A,Compositae,,Eclopes,,"paleacea",,"","Lam.",Synonym,,M,TICA,AE8C11D3-86DB-4E8B-B265-739138AF2C39,,"","","268","1823",gcc-114050
+gcc-18603,A,Compositae,,Eclopes,,"parallelinervis",,"","Less.",Synonym,,M,TICA,3E72A787-5169-4828-A770-226178215DEC,202803-1,"","","380","1832",gcc-54177
+gcc-23754,A,Compositae,,Eclopes,,"parallelinervis",var.,"angustifolia","DC.",Synonym,,L,TICA,10CEFD30-27A7-4CB1-9E28-2BE674E7706E,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","289","",gcc-57760
+gcc-147649,A,Compositae,,Eclopes,,"parallelinervis",var.,"parallelinervis","",Synonym,,L,TICA,E9EA7B92-456E-4E99-940C-31D44C4745E8,,"","","","",gcc-54177
+gcc-80024,A,Compositae,,Eclopes,,"pumila",,"","(L.f.) Less.",Synonym,,M,TICA,8C01B58F-A1EC-45F3-9723-6CAEDC2C4666,202804-1,"","","382","1832",gcc-101697
+gcc-84324,A,Compositae,,Eclopes,,"punctata",,"","Cass.",Synonym,,M,TICA,911A0C55-CF68-47ED-85C0-7656AB5891CB,,"","","","1827",gcc-41323
+gcc-43122,A,Compositae,,Eclopes,,"pungens",,"","(L'Hér.) Cass.",Synonym,,M,TICA,5F8B20A3-97C7-457D-AFFF-4FE070B87C89,,"","","","1827",gcc-27207
+gcc-121728,A,Compositae,,Eclopes,,"schizolepis",,"","DC.",Synonym,,M,TICA,306AA323-2004-4214-A98C-CA6AC33C4CB7,202807-1,"","","289","1838",gcc-30047
+gcc-28810,A,Compositae,,Eclopes,,"sedifolia",,"","DC.",Synonym,,M,TICA,1415C839-8570-40BB-8A07-3543DD4FB45A,202808-1,"","","288","1838",gcc-4477
+gcc-111576,A,Compositae,,Eclopes,,"speciosa",,"","DC.",Synonym,,M,TICA,1F725B0C-53F6-419A-B0FD-B36855B9B2F2,202809-1,"","","289","1838",gcc-30047
+gcc-78448,A,Compositae,,Eclopes,,"styphelioides",,"","DC.",Synonym,,M,TICA,7C2A5059-A81F-4294-BE32-692E284E4E53,202810-1,"","","289","1838",gcc-30047
+gcc-5080,A,Compositae,,Eclopes,,"subpungens",,"","Cass.",Synonym,,M,TICA,0E8D0C3D-18D9-43AE-9C33-097B40AE036F,,"","","","1819",gcc-27207
+gcc-84986,A,Compositae,,Eclopes,,"tenuifolia",,"","Steud.",Unresolved,,L,TICA,D6891084-2A9E-411A-8CF5-77AED9054784,202812-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 620, in syn.""","","620","1840",
+gcc-96417,A,Compositae,,Eclopes,,"trinervis",,"","(Thunb.) Less.",Synonym,,M,TICA,0C57D9E4-BE32-4FE3-8B9D-9182563C244B,202813-1,"","","381","1832",gcc-54177
+gcc-99045,A,Compositae,,Eclopes,,"viscida",,"","Gaertn.",Synonym,,M,TICA,CF7C9CA6-D96B-4036-8171-977D5F7027A3,,"","","440","1791",gcc-141183

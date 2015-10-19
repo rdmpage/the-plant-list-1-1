@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2553084,A,Ochnaceae,,Poecilandra,,"pumila",,"","Steyerm.",Accepted,,M,WCSP (in review),,204692-2,"Fieldiana, Bot.","28: 371","","1952",
+kew-2553085,A,Ochnaceae,,Poecilandra,,"retusa",,"","Tul.",Accepted,,M,WCSP (in review),,607313-1,"Ann. Sci. Nat., Bot.","III, 8: 242","","1847",
+tro-50226339,A,Ochnaceae,,Poecilandra,,"retusa",var.,"retusa","",Synonym,,L,TRO,50226339,,"","","","",kew-2553085
+kew-2873149,A,Ochnaceae,,Poecilandra,,"retusa",var.,"sclerophylla","(Ule) Sastre",Accepted,,L,WCSP (in review),,,"Mém. Soc. Biogéogr.","II, 4: 7","","1994",
+kew-2553095,A,Ochnaceae,,Poecilandra,,"sclerophylla",,"","Ule",Synonym,,M,WCSP (in review),,204693-2,"Notizbl. Königl. Bot. Gart. Berlin","6: 311","","1915",kew-2873149

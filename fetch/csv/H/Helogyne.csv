@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93566,A,Compositae,,Helogyne,,"apaloidea",,"","Nutt.",Accepted,,M,TICA,07BF14C5-17CB-4346-9455-8B007743E5CC,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 449""","","449","1841",
+gcc-18001,A,Compositae,,Helogyne,,"calocephala",,"","Mattf.",Accepted,,M,TICA,325E85B0-3EE8-4B92-AD63-2141D71569A0,119936-2,"Repert. Spec. Nov. Regni Veg. 19","","78","1923",
+gcc-41974,A,Compositae,,Helogyne,,"fasciculata",,"","Benth.",Synonym,,M,TICA,69331E11-DF35-4F71-9499-4DB3FD8E272A,,"Bot. Voy. Sulphur 20. t. 14 (1844)","","","1844",gcc-35679
+gcc-90135,A,Compositae,,Helogyne,,"ferreyrae",,"","R.M.King & H.Rob.",Unresolved,,L,TICA,7EBCD17E-35AD-4014-929D-8346D1EDCFE0,119937-2,"","","396","1974",
+gcc-150410,A,Compositae,,Helogyne,,"ferreyrii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,FDBA51BD-52BF-46D5-8CF2-6DDE1BFC52DF,,"Phytologia 27: 396. 1974.","","396","1974",
+gcc-97967,A,Compositae,,Helogyne,,"fiebrigii",,"","Hieron.",Synonym,,M,TICA,39DF983E-8549-4EB3-A91A-9511B8BD6847,119938-2,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 40:""","","368","1908",gcc-13687
+gcc-22543,A,Compositae,,Helogyne,,"hutchisonii",,"","R.M.King & H.Rob.",Accepted,,M,TICA,A877E278-2661-4022-96AB-29B3241434D0,213709-1,"Sida 3","","""327, pl. 1""","1969",
+gcc-125876,A,Compositae,,Helogyne,,"macrogyne",,"","(Phil.) B.L.Rob.",Accepted,,M,TICA,34BB903F-86FC-4242-B99B-D411A0289017,119940-2,"Proceedings of the American Academy of Arts and Sciences 42:","","31","1906",
+gcc-13687,A,Compositae,,Helogyne,,"straminea",,"","(DC.) B.L.Rob.",Accepted,,M,TICA,EC75E5A1-5C8A-4612-8A56-1975711C3163,119941-2,"Proc. Amer. Acad. Arts 55: 88. 1919","","88","1919",
+gcc-89434,A,Compositae,,Helogyne,,"tacaquirensis",,"","Hieron.",Accepted,,M,TICA,CD402E20-AF3C-425D-B366-81B4329BDF2F,119942-2,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 40:""","","369","1908",
+gcc-114544,A,Compositae,,Helogyne,,"urenifolia",,"","(Hook. & Arn.) Walp.",Synonym,Illegitimate,L,TICA,A82201BA-FA29-4135-8F84-BA182FC3E574,,"Repertorium Botanices Systematicae. 4:","","457","1847",gcc-127948
+gcc-154016,A,Compositae,,Helogyne,,"urenifolia",,"","(Hook. & Arn.) Benth. Walp.",Synonym,,L,TICA,76491A96-17A2-4826-92C4-BA7AEBBABD0A,,"Repert. Bot. Syst. 4: 457. 1847. ","","457","1847",gcc-127948
+gcc-100422,A,Compositae,,Helogyne,,"virgata",,"","(Rusby) B.L.Rob.",Accepted,,M,TICA,CAE6C8BC-FB0A-4B4C-AC3F-9A95520B56D0,119943-2,"Proceedings of the American Academy of Arts and Sciences 42:","","31","1906",
+gcc-6434,A,Compositae,,Helogyne,,"weberbaueri",,"","B.L.Rob.",Synonym,,M,TICA,FD449D27-99F4-4E81-B0B1-0BF9447C1166,119944-2,"Proceedings of the American Academy of Arts and Sciences 42:","","32","1906",gcc-13687

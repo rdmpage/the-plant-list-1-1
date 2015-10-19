@@ -1,0 +1,30 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2694111,A,Onagraceae,,Calylophus,,"australis",,"","Towner & Raven",Unresolved,,L,WCSP (in review),,43100-2,"Madroño","20: 243","","1970",
+kew-2694112,A,Onagraceae,,Calylophus,,"berlandieri",,"","Spach",Accepted,,M,WCSP (in review),,43101-2,"Ann. Sci. Nat., Bot.","II, 4: 272","","1835",
+tro-23201532,A,Onagraceae,,Calylophus,,"berlandieri",subsp.,"berlandieri","",Synonym,,L,TRO,23201532,,"","","","1977",kew-2694112
+kew-2694115,A,Onagraceae,,Calylophus,,"drummondiana",,"","Spach",Unresolved,,L,WCSP (in review),,611301-1,"Ann. Sci. Nat., Bot.","II, 4: 272","","1835",
+kew-2694116,A,Onagraceae,,Calylophus,,"drummondiana",subsp.,"berlandieri","(Spach) Towner & Raven",Synonym,,L,WCSP (in review),,43104-2,"Madroño","20: 243","","1970",kew-2694112
+tro-23201554,A,Onagraceae,,Calylophus,,"drummondianus",,"","Spach",Accepted,,M,TRO,23201554,,"Ann. Sci. Nat., Bot., sér. 2,","4(5): 272–273","272","1835",
+tro-23201555,A,Onagraceae,,Calylophus,,"drummondianus",subsp.,"drummondianus","",Synonym,,L,TRO,23201555,,"","","","",tro-23201554
+tro-50004811,A,Onagraceae,,Calylophus,,"fendleri",,"","Towner & P.H. Raven",Unresolved,,L,TRO,50004811,,"","","","",
+kew-2694117,A,Onagraceae,,Calylophus,,"hartwegii",,"","(Benth.) P.H.Raven",Accepted,,M,WCSP (in review),,43105-2,"Brittonia","16: 286","","1964",
+kew-2694119,A,Onagraceae,,Calylophus,,"hartwegii",var.,"filifolia","(Eastw.) Munz",Synonym,,L,WCSP (in review),,,"Amer. J. Bot.","16: 707","","1929",kew-2694120
+kew-2694120,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"filifolia","(Eastw.) Towner & Raven",Accepted,,L,WCSP (in review),,43107-2,"Madroño","20: 243","","1970",
+tro-50229578,A,Onagraceae,,Calylophus,,"hartwegii",var.,"filifolius","(Eastw.) Shinners",Synonym,,L,TRO,50229578,43108-2,"Sida","1(6): 345","345","1964",tro-50313856
+tro-23201553,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"hartwegii","",Synonym,,L,TRO,23201553,,"","","","",kew-2694117
+tro-23201552,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"lavandulifolius","(Torr. & A. Gray) Towner & P.H. Raven",Accepted,,L,TRO,23201552,43109-2,"Madroño","20(5): 243","243","1970",
+kew-2694123,A,Onagraceae,,Calylophus,,"hartwegii",var.,"maccartii","Shinners",Synonym,,L,WCSP (in review),,43112-2,"Sida","1: 343","","1964",kew-2694124
+kew-2694124,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"maccartii","(Shinners) Towner & Raven",Accepted,,L,WCSP (in review),,43111-2,"Madroño","20: 243","","1970",
+kew-2694125,A,Onagraceae,,Calylophus,,"hartwegii",var.,"pubescens","(A.Gray) Shinners",Synonym,,L,WCSP (in review),,43114-2,"Sida","1: 344","","1964",kew-2694126
+kew-2694126,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"pubescens","(A.Gray) Towner & Raven",Accepted,,L,WCSP (in review),,43113-2,"Madroño","20: 243","","1970",
+kew-2694127,A,Onagraceae,,Calylophus,,"hartwegii",var.,"toumeyi","(Small) Shinners",Synonym,,L,WCSP (in review),,43116-2,"Sida","1: 341","","1964",kew-2694134
+kew-2694128,A,Onagraceae,,Calylophus,,"hartwegii",subsp.,"toumeyi","(Small) Towner & Raven",Synonym,,L,WCSP (in review),,43115-2,"Madroño","20: 243","","1970",kew-2694134
+kew-2694129,A,Onagraceae,,Calylophus,,"lavandulifolia",,"","(Torr. & A.Gray) P.H.Raven",Accepted,,M,WCSP (in review),,43117-2,"Brittonia","16: 286","","1964",
+kew-2694130,A,Onagraceae,,Calylophus,,"nuttallii",,"","Spach",Unresolved,Invalid,L,WCSP (in review),,611303-1,"Hist. Nat. Vég.","4: 30","","1835",
+kew-2694131,A,Onagraceae,,Calylophus,,"serrulata",,"","(Nutt.) P.H.Raven",Accepted,,M,WCSP (in review),,43118-2,"Brittonia","16: 286","","1964",
+kew-2694132,A,Onagraceae,,Calylophus,,"serrulata",var.,"arizonicus","Shinners",Synonym,,L,WCSP (in review),,43119-2,"Sida","1: 338","","1964",kew-2694131
+tro-50229569,A,Onagraceae,,Calylophus,,"serrulatus",var.,"spinulosus","(Torr. & A. Gray) Nutt. ex Shinners",Unresolved,,L,TRO,50229569,43120-2,"Sida","1(6): 339","339","1964",
+kew-2694134,A,Onagraceae,,Calylophus,,"toumeyi",,"","(Small) Towner",Accepted,,M,WCSP (in review),,43122-2,"Ann. Missouri Bot. Gard.","64: 92","","1977",
+kew-2694135,A,Onagraceae,,Calylophus,,"tubicula",,"","(A.Gray) P.H.Raven",Accepted,,M,WCSP (in review),,43121-2,"Brittonia","16: 286","","1964",
+kew-2694136,A,Onagraceae,,Calylophus,,"tubicula",subsp.,"strigulosus","Towner",Accepted,,L,WCSP (in review),,43123-2,"Ann. Missouri Bot. Gard.","64: 98","","1977",
+tro-50126368,A,Onagraceae,,Calylophus,,"tubicula",subsp.,"tubicula","",Synonym,,L,TRO,50126368,,"","","","",kew-2694135

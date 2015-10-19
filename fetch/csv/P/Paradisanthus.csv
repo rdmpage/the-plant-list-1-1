@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-147440,A,Orchidaceae,,Paradisanthus,,"bahiensis",,"","Rchb.f.",Accepted,,H,WCSP,147440,649890-1,"Bot. Zeitung (Berlin)","10: 931","","1852",
+tro-100239339,A,Orchidaceae,,Paradisanthus,,"ionoptertrs",,"","(Linden & Rchb. f.) Schltr.",Synonym,,M,TRO,100239339,,"Orchideen","419","419","1914",kew-106161
+kew-147441,A,Orchidaceae,,Paradisanthus,,"ionopterus",,"","(Linden & Rchb.f.) Schltr.",Synonym,,H,WCSP,147441,182886-2,"Orchideen","419","","1914",kew-106161
+kew-147442,A,Orchidaceae,,Paradisanthus,,"micranthus",,"","(Barb.Rodr.) Schltr.",Accepted,,H,WCSP,147442,182887-2,"Orchis","12: 36","","1918",
+kew-147443,A,Orchidaceae,,Paradisanthus,,"mosenii",,"","Rchb.f.",Accepted,,H,WCSP,147443,,"Gard. Chron.","n.s., 15: 298","","1881",
+kew-337019,A,Orchidaceae,,Paradisanthus,,"mosenii",var.,"paulensis","(Barb.Rodr.) Hoehne",Synonym,,L,WCSP,337019,182888-2,"Fl. Brasílica","12(7): 153","","1953",kew-147443
+kew-147444,A,Orchidaceae,,Paradisanthus,,"neglectus",,"","Schltr.",Accepted,,H,WCSP,147444,182889-2,"Orchis","12: 34","","1918",
+kew-147445,A,Orchidaceae,,Paradisanthus,,"paranaensis",,"","Barb.Rodr.",Synonym,,H,WCSP,147445,649895-1,"Gen. Spec. Orchid.","2: 215","","1882",kew-147442
+kew-147446,A,Orchidaceae,,Paradisanthus,,"paulensis",,"","Barb.Rodr.",Synonym,,H,WCSP,147446,649896-1,"Gen. Spec. Orchid.","2: 215","","1882",kew-147443

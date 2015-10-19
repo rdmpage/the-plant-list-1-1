@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-48711,A,Lamiaceae,,Craniotome,,"furcata",,"","(Link) Kuntze",Accepted,,H,WCSP,48711,446283-1,"Revis. Gen. Pl.","2: 516","","1891",
+kew-468539,A,Lamiaceae,,Craniotome,,"furcata",var.,"sikkimensis","D.Maity & Maiti",Synonym,,L,WCSP,468539,,"J. Econ. Taxon. Bot.","27(Suppl.): 1240","","2003",kew-48711
+kew-468537,A,Lamiaceae,,Craniotome,,"furcata",var.,"urceolata","D.Maity & Maiti",Synonym,,L,WCSP,468537,60455411-2,"J. Econ. Taxon. Bot.","27(Suppl.): 1242","","2003",kew-48711
+kew-48712,A,Lamiaceae,,Craniotome,,"mauritianum",,"","(Pers.) Bojer",Synonym,,H,WCSP,48712,446284-1,"Hortus Maurit.","249","","1837",kew-9912
+kew-48713,A,Lamiaceae,,Craniotome,,"versicolor",,"","Rchb.",Synonym,,H,WCSP,48713,446285-1,"Iconogr. Bot. Exot.","1: 39","","1825",kew-48711

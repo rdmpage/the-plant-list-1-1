@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-96249,A,Apocynaceae,,Haplophyton,,"cimicidum",,"","A.DC.",Accepted,,H,WCSP,96249,79244-1,"Prodr.","8: 412","","1844",
+tro-1804845,A,Apocynaceae,,Haplophyton,,"cimicidum",var.,"cimicidum","",Synonym,,L,TRO,1804845,,"","","","",kew-96249
+kew-96250,A,Apocynaceae,,Haplophyton,,"cimicidum",var.,"crooksii","L.D.Benson",Synonym,,L,WCSP,96250,117866-2,"Torreya","42: 9","","1942",kew-96249
+kew-96251,A,Apocynaceae,,Haplophyton,,"cinereum",,"","(A.Rich.) Woodson",Synonym,,H,WCSP,96251,117867-2,"Ann. Missouri Bot. Gard.","23: 231","","1936",kew-96249
+kew-96252,A,Apocynaceae,,Haplophyton,,"crooksii",,"","(L.D.Benson) L.D.Benson",Synonym,,H,WCSP,96252,117868-2,"Amer. J. Bot.","30: 630","","1943",kew-96249

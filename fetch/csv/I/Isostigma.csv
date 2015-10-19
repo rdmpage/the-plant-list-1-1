@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-17556,A,Compositae,,Isostigma,,"acaule",,"","(Baker) Chodat",Accepted,,M,TICA,8D627A3E-C702-4E0A-A6EC-2067AF0C9EDB,,"","","","1901",
+gcc-24548,A,Compositae,,Isostigma,,"brasiliense",,"","(Gardner) Benth. & Hook.f.",Accepted,,M,TICA,CE6D07C8-D73C-4C09-8899-2D57287314E1,,"Gen. ii. 389.","","ii. 389.","",
+gcc-24524,A,Compositae,,Isostigma,,"cordobense",,"","Cabrera",Accepted,,M,TICA,A27B7527-4E5E-4D8F-A974-2D484C7144EF,,"","","","1959",
+gcc-100022,A,Compositae,,Isostigma,,"crithmifolium",,"","Sch.Bip. ex Benth. & Hook.f.",Unresolved,,L,TICA,8FF6D84B-1316-481A-8EC0-99A5CFC1B4AB,226316-1,"Gen. ii. 389.","","ii. 389","",
+gcc-9525,A,Compositae,,Isostigma,,"crithmifolium",,"","Less.",Accepted,,M,TICA,BACA8096-7EBE-4FDD-B45D-11C60F3D9049,226317-1,"Linnaea 6: 515. 1831","","515","1831",
+gcc-156250,A,Compositae,,Isostigma,,"crithmifolium",var.,"crithmifolium","",Synonym,,L,TICA,CF481D9D-FCDF-4C90-8513-E97BA0525074,,"","","","",gcc-9525
+gcc-58774,A,Compositae,,Isostigma,,"crithmifolium",var.,"nanum","Sherff",Synonym,,L,TICA,F7D54DFC-096A-4D2D-BAD4-91410162FB7A,130705-2,"Amer. J. Bot. 22: 708","","708","1935",gcc-24524
+gcc-2587,A,Compositae,,Isostigma,,"dissitifolium",,"","Baker",Accepted,,M,TICA,ED865CC0-EAAD-4D90-AAC9-04BE261553B7,,"Fl. Bras. (Martius) 6(3): 239","","239","",
+gcc-34792,A,Compositae,,Isostigma,,"fiebrigii",,"","Hieron.",Unresolved,Illegitimate,L,TICA,4ED6F1E1-587D-422A-8178-407D151B3ACA,,"","","","",
+gcc-95909,A,Compositae,,Isostigma,,"foliosum",,"","Malme",Unresolved,,L,TICA,B14A9507-97D2-4903-ACCC-906A1773DD52,,"","","","1899",
+gcc-105312,A,Compositae,,Isostigma,,"glycinaefolium",,"","Sherff",Unresolved,,L,TICA,09997834-5F22-406A-BAFF-A55172C11507,,"","","","1923",
+gcc-33273,A,Compositae,,Isostigma,,"herzogii",,"","Hassl.",Accepted,,M,TICA,7A5942F4-C78D-42DA-9B53-3DB30945B263,130709-2,"Repert. Spec. Nov. Regni Veg. 7: 358","","358","1909",
+gcc-142101,A,Compositae,,Isostigma,,"hoffmannii",,"","Kuntze",Accepted,,M,TICA,111146D8-635F-4E02-884E-F8E8B5783D61,130710-2,"Revis. Gen. Pl. 3[3]: 160","","160","1898",
+gcc-153987,A,Compositae,,Isostigma,,"lorentzii",,"","Hieron. ex Sherff",Synonym,,M,TICA,B20E266F-5580-49ED-B031-B9D74AF27B6E,,"","","","",gcc-142101
+gcc-84130,A,Compositae,,Isostigma,,"megapotamicum",,"","(Spreng.) Sherff",Synonym,Illegitimate,M,TICA,50DA902E-3F4B-4475-81FC-75D6AA69D3A5,130711-2,"","","252","1926",gcc-119084
+gcc-105424,A,Compositae,,Isostigma,,"microcephalum",,"","Baker",Accepted,,M,TICA,5374C300-A91E-4A81-A92D-A58B5356173C,,"Fl. Bras. (Martius) 6(3): 239","","239","",
+gcc-96475,A,Compositae,,Isostigma,,"microphyllum",,"","Baker",Unresolved,,L,TICA,3B63DAB9-014E-4071-83D5-91A29B148A2E,,"","","","",
+gcc-91184,A,Compositae,,Isostigma,,"molfinianum",,"","Sherff",Accepted,,M,TICA,C3F7F13D-F423-4055-8B17-85C6B72B4990,130712-2,"","","312","1931",
+gcc-116267,A,Compositae,,Isostigma,,"peucedanifolium",,"","(Spreng.) Less.",Accepted,,M,TICA,93694AD5-DFD5-4473-A005-BE0A30E8F5E2,30126755-2,"","","514","1831",
+gcc-75772,A,Compositae,,Isostigma,,"peucedanifolium",f.,"discoidea","Hassl.",Synonym,,L,TICA,1A8BFDE8-2639-426D-A1B1-6333CEFBF411,130715-2,"Repert. Spec. Nov. Regni Veg. 14: 277","","277","1916",gcc-10557
+gcc-62131,A,Compositae,,Isostigma,,"peucedanifolium",var.,"dissitifolium","(Baker) Hassl.",Synonym,,L,TICA,595C4CA4-BCC4-4BF8-8020-AC42B96C6524,130713-2,"Repert. Spec. Nov. Regni Veg. 14: 277","","277","1916",gcc-2587
+gcc-145513,A,Compositae,,Isostigma,,"peucedanifolium",f.,"peucedanifolium","",Synonym,,L,TICA,4E1EC4AF-1A57-47F4-B822-057CC4539739,,"","","","",gcc-116267
+gcc-54988,A,Compositae,,Isostigma,,"peucedanifolium",var.,"peucedanifolium","",Synonym,,L,TICA,3C4F1AE9-D13A-42AB-ADE9-726C6AE9BAD3,,"","","","",gcc-116267
+gcc-74522,A,Compositae,,Isostigma,,"peucedanifolium",f.,"radiata","Hassl.",Synonym,,L,TICA,EF699DF3-80A5-4D6D-91AC-42CBD29650FE,130716-2,"Repert. Spec. Nov. Regni Veg. 14: 277","","277","1916",gcc-10557
+gcc-14733,A,Compositae,,Isostigma,,"riedelii",,"","Sch.Bip. ex Baker",Accepted,,M,TICA,B9B2A1C9-81F9-414C-8375-1B57A14C3890,,"Fl. Bras. (Martius) 6(3): 240","","240","1884",
+gcc-32406,A,Compositae,,Isostigma,,"riedelii",,"","(Baker) Chodat",Unresolved,,L,TICA,035545FD-321F-41FB-8C47-3C130F6EB145,,"","","394","",
+gcc-21928,A,Compositae,,Isostigma,,"scorzoneraefolium",,"","(Baker) Sherff",Accepted,,M,TICA,2351D17B-5A89-434C-9976-28901528EA71,130719-2,"""Bot. Gaz. 1926, lxxxi. 246""","","246","1926",
+gcc-88623,A,Compositae,,Isostigma,,"simplicifolium",,"","Less.",Accepted,,M,TICA,A1390D31-3FB2-489B-AED3-7FD5FFEB7523,226330-1,"Linnaea 6: 513. 1831","","513","1831",
+gcc-148428,A,Compositae,,Isostigma,,"sparsifolium",,"","Guad. Peter",Accepted,,M,TICA,0F92EB94-E9F7-4C4E-9C19-42588CDE07A8,,"Novon 16(3):","","""378-379, f. 1""","2006",
+gcc-10557,A,Compositae,,Isostigma,,"speciosum",,"","Less.",Accepted,,M,TICA,34DA7D2F-CB88-4250-A010-13B6903861F4,130720-2,"Linnaea 6","","515","1831",
+gcc-12160,A,Compositae,,Isostigma,,"speciosum",var.,"riedelii","Baker",Synonym,,L,TICA,140C2852-16E4-4C78-A310-16AD50856F65,130721-2,"""Fl. Bras. (Martius) 6, pt. 3: 240""","","240","1884",gcc-32406
+gcc-152236,A,Compositae,,Isostigma,,"speciosum",var.,"speciosum","",Synonym,,L,TICA,9CE8866E-B25F-425B-8829-9550B876375B,,"","","","",gcc-10557
+gcc-112105,A,Compositae,,Isostigma,,"stellatum",,"","Baker",Unresolved,,L,TICA,16C672E7-40E2-4171-9719-B4A868081C0C,,"","","","",
+gcc-127199,A,Compositae,,Isostigma,,"vailiana",,"","Britton",Synonym,,M,TICA,D1B0038A-A0C8-416C-BA1C-D718C33F38FB,,"","","149","",gcc-17556

@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2633471,G,Taxaceae,,Amentotaxus,,"argotaenia",,"","(Hance) Pilg.",Accepted,,H,WCSP,382185,828260-1,"Bot. Jahrb. Syst.","54: 41","","1916",
+kew-465337,G,Taxaceae,,Amentotaxus,,"argotaenia",var.,"argotaenia","",Synonym,,L,WCSP,465337,,"Unknown","","","",kew-2633471
+kew-462261,G,Taxaceae,,Amentotaxus,,"argotaenia",var.,"assamica","(D.K.Ferguson) Eckenw.",Synonym,,L,WCSP,462261,77103811-1,"Conifers World","647","","2009",kew-2633473
+kew-2872824,G,Taxaceae,,Amentotaxus,,"argotaenia",var.,"cathayensis","(H.L.Li) Keng f.",Synonym,,L,WCSP,386692,,"Rep. 1957 Anniv. Nanjing Univ.","(2): 2","","1957",kew-2633471
+kew-2872825,G,Taxaceae,,Amentotaxus,,"argotaenia",var.,"yunnanensis","(H.L.Li) Keng f.",Synonym,,L,WCSP,386693,,"Rep. 1957 Anniv. Nanjing Univ.","(2): 2","","1957",kew-2633478
+kew-2633473,G,Taxaceae,,Amentotaxus,,"assamica",,"","D.K.Ferguson",Accepted,,H,WCSP,382187,905639-1,"Kew Bull.","40: 115","","1985",
+kew-2633474,G,Taxaceae,,Amentotaxus,,"cathayensis",,"","H.L.Li",Synonym,,H,WCSP,382188,828261-1,"J. Arnold Arbor.","33: 195","","1952",kew-2633471
+kew-2633475,G,Taxaceae,,Amentotaxus,,"formosana",,"","H.L.Li",Accepted,,H,WCSP,382189,828262-1,"J. Arnold Arbor.","33: 196","","1952",
+kew-2633476,G,Taxaceae,,Amentotaxus,,"hatuyenensis",,"","T.H.Nguyên",Accepted,,H,WCSP,382190,988555-1,"in Fl. Camb., Laos & Vietn.","28: 126","","1996",
+kew-2633477,G,Taxaceae,,Amentotaxus,,"poilanei",,"","(Ferré & Rouane) D.K.Ferguson",Accepted,,H,WCSP,382191,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia","11: 316","","1989 publ. 1990",
+kew-2633478,G,Taxaceae,,Amentotaxus,,"yunnanensis",,"","H.L.Li",Accepted,,H,WCSP,382192,828263-1,"J. Arnold Arbor.","33: 197","","1952",
+kew-2633479,G,Taxaceae,,Amentotaxus,,"yunnanensis",var.,"assamica","(D.K.Ferguson) Silba",Synonym,,L,WCSP,382193,956093-1,"Phytologia","68: 25","","1990",kew-2633473
+kew-2633480,G,Taxaceae,,Amentotaxus,,"yunnanensis",var.,"formosana","(H.L.Li) Silba",Synonym,,L,WCSP,382194,956094-1,"Phytologia","68: 25","","1990",kew-2633475
+kew-2633481,G,Taxaceae,,Amentotaxus,,"yunnanensis",var.,"poilanei","Ferré & Rouane",Synonym,,L,WCSP,382195,,"Trav. Lab. Forest. Toulouse","1(9)12: 3","","1978",kew-2633477

@@ -1,0 +1,19 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-4100524,A,Brassicaceae,,Leavenworthia,,"alabamica",,"","Rollins",Accepted,,M,TRO,4100524,,"Contr. Gray Herb.","192: 68–74, pl. 1, f. 4, 9, pl. 3, f. 9, 11, pl. 5, f. 1–2, pl. 6, f. 2, pl. 9, maps 1, 3","68","1963",
+tro-4100525,A,Brassicaceae,,Leavenworthia,,"alabamica",var.,"alabamica","",Synonym,,L,TRO,4100525,,"","","","1963",tro-4100524
+tro-4100862,A,Brassicaceae,,Leavenworthia,,"alabamica",var.,"brachystyla","Rollins",Synonym,,L,TRO,4100862,,"Contr. Gray Herb.","192: 69–74, pl. 1, f. 4, pl. 3, f. 11, pl. 5, f. 2, map 3","69","1963",tro-4100524
+tro-4101318,A,Brassicaceae,,Leavenworthia,,"aurea",,"","Torr.",Accepted,,M,TRO,4101318,30447706-2,"Ann. Lyceum Nat. Hist. New York","4(1): 88–89, pl. 5, f. 1–8","88","1837",
+tro-50129222,A,Brassicaceae,,Leavenworthia,,"aurea",var.,"aurea","",Synonym,,L,TRO,50129222,,"","","","1993",tro-4101318
+tro-50129221,A,Brassicaceae,,Leavenworthia,,"aurea",var.,"texana","(Mahler) Rollins",Synonym,,L,TRO,50129221,1142810-2,"Cruciferae Continental N. Amer.","525","525","1993",tro-4102800
+tro-4100527,A,Brassicaceae,,Leavenworthia,,"crassa",,"","Rollins",Accepted,,M,TRO,4100527,,"Contr. Gray Herb.","192: 62–68, pl. 1, f. 3, 6, pl. 2, f. 4, pl. 5, f. 3–4, pl. 6, f. 1, pl. 7–8, maps 1, 3","62","1963",
+tro-4100528,A,Brassicaceae,,Leavenworthia,,"crassa",var.,"crassa","",Synonym,,L,TRO,4100528,,"","","","1963",tro-4100527
+tro-4100529,A,Brassicaceae,,Leavenworthia,,"crassa",var.,"elongata","Rollins",Synonym,,L,TRO,4100529,,"Contr. Gray Herb.","192: 63–68, pl. 1, f. 6, map 3","63","1963",tro-4100527
+tro-4100530,A,Brassicaceae,,Leavenworthia,,"exigua",,"","Rollins",Accepted,,M,TRO,4100530,136821-2,"Rhodora","58(687): 75–76, pl. 1223, f. 2","75","1956",
+tro-4100531,A,Brassicaceae,,Leavenworthia,,"exigua",var.,"exigua","",Synonym,,L,TRO,4100531,,"","","","1963",tro-4100530
+tro-4100863,A,Brassicaceae,,Leavenworthia,,"exigua",var.,"laciniata","Rollins",Synonym,,L,TRO,4100863,136822-2,"Contr. Gray Herb.","192: 75, map 1","75","1963",tro-4100530
+tro-4100864,A,Brassicaceae,,Leavenworthia,,"exigua",var.,"lutea","Rollins",Synonym,,L,TRO,4100864,,"Contr. Gray Herb.","192: 75, 78–80, pl. 2, f. 2, pl. 12, maps 1, 3","75","1963",tro-4100530
+kew-2338280,A,Brassicaceae,,Leavenworthia,,"michauxii",,"","Torr.",Unresolved,,L,WCSP (in review),,285984-1,"Ann. Lyceum Nat. Hist. New York","3: 89","","1837",
+tro-4101319,A,Brassicaceae,,Leavenworthia,,"stylosa",,"","A. Gray",Accepted,,M,TRO,4101319,321323-2,"Bot. Gaz.","5(3): 26–27","26","1880",
+tro-4102800,A,Brassicaceae,,Leavenworthia,,"texana",,"","Mahler",Accepted,,M,TRO,4102800,279371-2,"Sida","12(1): 239–241, f. 1","239","1987",
+tro-4101320,A,Brassicaceae,,Leavenworthia,,"torulosa",,"","A. Gray",Accepted,,M,TRO,4101320,321324-2,"Bot. Gaz.","5(3): 26","26","1880",
+tro-4101321,A,Brassicaceae,,Leavenworthia,,"uniflora",,"","(Michx.) Britton",Accepted,,L,TRO,4101321,136825-2,"Mem. Torrey Bot. Club","5(12): 171","171","1894",

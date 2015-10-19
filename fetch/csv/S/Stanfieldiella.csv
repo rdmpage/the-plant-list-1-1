@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-266747,A,Commelinaceae,,Stanfieldiella,,"axillaris",,"","J.K.Morton",Accepted,,H,WCSP,266747,173097-1,"J. Linn. Soc., Bot.","60: 207","","1967",
+kew-266748,A,Commelinaceae,,Stanfieldiella,,"brachycarpa",,"","(Gilg & Ledermann ex Mildbr.) Brenan",Accepted,,H,WCSP,266748,173098-1,"Kew Bull.","14: 285","","1960",
+tro-8300790,A,Commelinaceae,,Stanfieldiella,,"brachycarpa",var.,"brachycarpa","",Synonym,,L,TRO,8300790,,"","","","",kew-266748
+kew-266750,A,Commelinaceae,,Stanfieldiella,,"brachycarpa",var.,"hirsuta","(Brenan) Brenan",Synonym,,L,WCSP,266750,,"Kew Bull.","14: 286","","1960",kew-266748
+kew-266751,A,Commelinaceae,,Stanfieldiella,,"imperforata",,"","(C.B.Clarke) Brenan",Accepted,,H,WCSP,266751,173099-1,"Kew Bull.","14: 284","","1960",
+kew-266752,A,Commelinaceae,,Stanfieldiella,,"imperforata",var.,"glabrisepala","(De Wild.) Brenan",Synonym,,L,WCSP,266752,,"Kew Bull.","14: 285","","1960",kew-266751
+tro-8300768,A,Commelinaceae,,Stanfieldiella,,"imperforata",var.,"imperforata","",Synonym,,L,TRO,8300768,,"","","","",kew-266751
+kew-266753,A,Commelinaceae,,Stanfieldiella,,"oligantha",,"","(Mildbr.) Brenan",Accepted,,H,WCSP,266753,173100-1,"Kew Bull.","14: 285","","1960",

@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-147227,A,Compositae,,Leiboldia,,"arctioides",,"","(Less.) Schlecht.",Synonym,,M,TICA,978F0D4C-A5EA-41A6-9FCA-291CEB40744C,,"Linnaea 19: 743. 1847.","","743","1847",gcc-141340
+gcc-125014,A,Compositae,,Leiboldia,,"arctioidis",,"","(Less.) Schltdl.",Synonym,Invalid,M,TICA,E3F360EB-6737-42C7-8F42-D21A557C1D21,229168-1,"Linnaea 19: 743. 1847","","743","1847",gcc-30850
+gcc-144131,A,Compositae,,Leiboldia,,"guerreroana",,"","(S.B.Jones) H.Rob.",Unresolved,,L,TICA,A667F650-6C92-471B-97CC-FD6C1D579FBD,60440492-2,"Phytologia 87(2): 82. 2005 [14 Sep 2005]","","82","2005",
+gcc-39793,A,Compositae,,Leiboldia,,"leiboldiana",,"","(Schltdl.) Gleason",Synonym,,M,TICA,0AA9BAA6-4EEF-4EF1-BBF5-49D5B1694076,137064-2,"","","163","1906",gcc-141340
+gcc-40006,A,Compositae,,Leiboldia,,"leiboldiana",,"","(Schltdl.) Britton",Synonym,,M,TICA,57F74237-36DF-482F-87AC-4A39EE8084FE,,"Bulletin of the New York Botanical Garden 4(13):","","163","1906",gcc-30850
+gcc-100693,A,Compositae,,Leiboldia,,"mexicana",,"","(Less.) Britton",Synonym,,M,TICA,E67A9963-A051-40ED-9D43-9B33E3145CE5,,"Bulletin of the New York Botanical Garden 4(13):","","163","1906",gcc-11455
+gcc-103401,A,Compositae,,Leiboldia,,"mexicana",,"","(Less.) Gleason",Synonym,,L,TICA,2E63EC9E-DB2D-47A8-B0D3-A12FB824E9AE,137065-2,"","","163","1906",gcc-153473
+gcc-125282,A,Compositae,,Leiboldia,,"ovata",,"","Schltdl.",Synonym,Illegitimate,M,TICA,D72E67A9-1833-4C54-96EE-D2B0C827AD14,229171-1,"Linnaea 19: 742. 1847","","742","1847",gcc-30850
+gcc-146552,A,Compositae,,Leiboldia,,"ovata",,"","Schlect.",Synonym,,M,TICA,98D3D3C2-A2E5-4F93-9524-1AD740EF1833,,"Linnaea 19: 742. 1847","","742","1847",gcc-141340
+gcc-99436,A,Compositae,,Leiboldia,,"salvinae",,"","(Hemsl.) Gleason",Synonym,,L,TICA,1207A156-26AC-45D6-8C7A-985C2CC26250,137066-2,"","","162","1906",gcc-146682
+gcc-141340,A,Compositae,,Leiboldia,,"serrata",,"","(D.Don) Gleason",Accepted,,M,TICA,C4B09371-283A-47DF-A688-F7264ED0780C,137067-2,"","","164","1906",

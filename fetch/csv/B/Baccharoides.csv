@@ -1,0 +1,70 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41849,A,Compositae,,Baccharoides,,"adoensis",,"","(Sch.Bip. ex Walp.) H.Rob.",Accepted,,M,TICA,703D5EE7-7656-4F0B-AA3B-4D7F520236B4,962410-1,"","","250","1990",
+gcc-150639,A,Compositae,,Baccharoides,,"adoensis",var.,"adoensis","",Synonym,,L,TICA,F5F879C2-9048-4AF4-A534-73048AB25E20,,"Proc. Biol. Soc. Wash. 103: 250. 1990","","250","1990",gcc-41849
+gcc-64799,A,Compositae,,Baccharoides,,"adoensis",var.,"kotschyana","(Sch.Bip. ex Walp.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,987906C9-78D9-4865-9145-C13C62013077,,"","","219","1996",
+gcc-55378,A,Compositae,,Baccharoides,,"adoensis",var.,"mossambiquensis","(Steetz) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,01A86A5F-C1D7-4160-8BA8-757F77EE8FE8,,"","","219","1996",
+gcc-111955,A,Compositae,,Baccharoides,,"anthelmintica",,"","(L.) Moench",Accepted,,M,TICA,54636395-DC43-40E2-A2F5-B44E719D38AD,183904-1,"","","578","1794",
+gcc-156630,A,Compositae,,Baccharoides,,"ballyi",,"","(C.Jeffrey) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,BDD05AE3-2EEC-4BA5-B6BA-F13E3020F8B3,,"","","219","1996",
+gcc-89380,A,Compositae,,Baccharoides,,"brachylepis",,"","(Sch.Bip. ex Baker) Kuntze",Synonym,,M,TICA,0E669725-5047-4B56-BFEF-8195D3B7C251,28261-2,"Revis. Gen. Pl. 1","","320","1891",gcc-99839
+gcc-125211,A,Compositae,,Baccharoides,,"bracteosa",,"","(O.Hoffm.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,E5726616-8AB6-4D8F-9CF3-D28A00CC3778,,"","","219","1996",
+gcc-113662,A,Compositae,,Baccharoides,,"calvoana",,"","(Hook.f.) Isawumi",Synonym,,M,TICA,E8D7EA66-561A-44A5-8B14-B823BED845EA,,"""Feddes Repert. 104(5-6): 312, without basionym ref.""","","312","1993",gcc-127863
+gcc-127863,A,Compositae,,Baccharoides,,"calvoana",,"","(Hook.f.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,B72D0874-3BDC-404E-ADF2-D8B2A4A7AF6D,,"","","226","1996",
+gcc-149818,A,Compositae,,Baccharoides,,"calvoana",subsp.,"adolfi-friderici","(Muschl.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,436C1C48-78C1-483A-8BA4-60E4279390BF,,"Grana 35. 227. 1996","","227","1996",
+gcc-53089,A,Compositae,,Baccharoides,,"calvoana",subsp.,"adolfi-friderici","(Muschl.) Isawumi",Synonym,,L,TICA,269FC7AD-94C8-43DB-8127-63661B111B47,,"""Grana, 35(4): 227 (1996).""","","","",gcc-149818
+gcc-151190,A,Compositae,,Baccharoides,,"calvoana",subsp.,"calvoana","",Synonym,,L,TICA,F7A457BD-68B3-4EEC-8BD3-7FB66C28FDAB,,"","","","",gcc-127863
+gcc-154008,A,Compositae,,Baccharoides,,"calvoana",var.,"calvoana","",Synonym,,L,TICA,575F48A5-F162-4477-98B8-BA55BC21BC36,,"Feddes Repert. 104: 312. 1993","","312","1993",gcc-127863
+gcc-58522,A,Compositae,,Baccharoides,,"calvoana",var.,"insignis","(Hook.f.) Isawumi",Accepted,,L,TICA,350B26F2-D4E6-400B-9351-8F82694B3C29,,"","","317","1993",
+gcc-150888,A,Compositae,,Baccharoides,,"calvoana",subsp.,"leucocalyx","(O.Hoffm.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,185CDA61-11B8-4DF3-988D-78706A145855,,"Grana 35. 227. 1996. ","","227","1996",
+gcc-151879,A,Compositae,,Baccharoides,,"calvoana",subsp.,"meridonalis","(Wild) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,A88A00E3-E95C-4B76-AF04-8DE9D55B6E85,,"Grana 35. 226. 1996","","226","1996",
+gcc-47213,A,Compositae,,Baccharoides,,"calvoana",var.,"microcephala","(C.D.Adams) Isawumi",Synonym,,L,TICA,A577F0B9-690E-40A9-A2E8-5774CADE9F16,,"","","317","1993",gcc-111464
+gcc-56912,A,Compositae,,Baccharoides,,"calvoana",subsp.,"oehleri","(Muschl.) Isawumi",Synonym,,L,TICA,0F97B380-3111-4F90-A94F-821ACCC9F9CF,,"""Grana, 35(4): 227 (1996).""","","","",gcc-36914
+gcc-148033,A,Compositae,,Baccharoides,,"calvoana",subsp.,"ruwenzoriensis","(C.Jeffrey) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,17BFB9EE-6717-43BC-8908-3A54295356FF,,"Grana 35. 227. 1996","","227","1996",
+gcc-146299,A,Compositae,,Baccharoides,,"calvoana",subsp.,"ulugurensis","(O.Hoffm.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,94258F43-EB87-4CC1-B2A7-15CA111059AC,,"Grana 35. 227. 1996","","227","1996",
+gcc-35795,A,Compositae,,Baccharoides,,"cardiolepis",,"","(O.Hoffm.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,CDB96A8F-2103-4E94-A3B5-425F38FFB826,,"","","219","1996",
+gcc-124295,A,Compositae,,Baccharoides,,"courtallensis",,"","(Wight) Punekar & Vasudeva Rao",Unresolved,,L,TICA,E1D7DA92-7881-4BB3-8866-D058D812D839,77077404-1,"J. Econ. Taxon. Bot. 29(3): 515","","515","2006",
+gcc-43625,A,Compositae,,Baccharoides,,"dumicola",,"","(S.Moore) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,E62B71AD-022D-452F-A2C4-50DD41343A57,,"","","228","1996",
+gcc-13548,A,Compositae,,Baccharoides,,"filigera",,"","(Oliv. & Hiern) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,C63DDDB7-FCD2-4A22-86FC-1932C767420C,,"","","228","1996",
+gcc-42312,A,Compositae,,Baccharoides,,"filipendula",,"","(Hiern) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,967C4D18-A10F-4106-B5DC-4E62B4C1D722,,"","","220","1996",
+gcc-16898,A,Compositae,,Baccharoides,,"frutescens",,"","(Blume) Kuntze",Synonym,,M,TICA,E8DC6067-8B1D-425E-8293-1F3746E1CE5D,183892-1,"Revis. Gen. Pl. 1","","320","1891",gcc-138731
+gcc-24700,A,Compositae,,Baccharoides,,"guineensis",,"","(Benth.) H.Rob.",Accepted,,M,TICA,AFF8747E-A73D-4783-A76E-2D9E40C936B6,962411-1,"","","250","1990",
+gcc-58491,A,Compositae,,Baccharoides,,"guineensis",var.,"cameroonica","(C.D.Adams) Isawumi",Accepted,,L,TICA,972F32EE-7046-4EEB-882D-8F2681F7EDD4,,"","","321","1993",
+gcc-148983,A,Compositae,,Baccharoides,,"guineensis",var.,"guineensis","",Synonym,,L,TICA,E70C375D-3D60-447A-8861-4F27A1A26212,,"Proc. Biol. Soc. Wash. 103: 250. 1990","","250","1990",gcc-24700
+gcc-62914,A,Compositae,,Baccharoides,,"guineensis",var.,"procera","(O.Hoffm.) Isawumi",Accepted,,L,TICA,5EDCCB70-2EA4-4C87-AC2A-B2AD827793D1,,"","","321","1993",
+gcc-50134,A,Compositae,,Baccharoides,,"holtonii",,"","(Baker) Kuntze",Synonym,,M,TICA,94D8B6FE-FCE3-4E43-B968-5CF088E38442,28262-2,"Revis. Gen. Pl. 1","","320","1891",gcc-99839
+gcc-108378,A,Compositae,,Baccharoides,,"hookeri",,"","(C.B.Clarke) M.R.Almeida",Synonym,,M,TICA,0B91798B-CA13-42A7-BC43-AC268D77A14A,20008440-1,"Fl. Maharashtra 3A","","72","2001",gcc-24073
+gcc-111464,A,Compositae,,Baccharoides,,"hymenolepis",,"","(A.Rich.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,B274230D-CCA9-427E-BB68-B32FA5CB0E30,,"","","228","1996",
+gcc-26596,A,Compositae,,Baccharoides,,"incompta",,"","(S.Moore) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,6EFAB6AD-7D5B-4932-B93A-31267D9BF420,,"","","226","1996",
+gcc-95342,A,Compositae,,Baccharoides,,"indica",,"","(Less.) Punekar & Vasudeva Rao",Unresolved,,L,TICA,5C16AFD8-5CA8-496D-92A1-8F18329AA57E,77077405-1,"J. Econ. Taxon. Bot. 29(3): 515","","515","2006",
+gcc-2783,A,Compositae,,Baccharoides,,"kirungae",,"","(R.E.Fr.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,6F93A5B7-7395-4FD5-81DE-051DF2B59041,,"","","222","1996",
+gcc-13038,A,Compositae,,Baccharoides,,"lasiopus",,"","(O.Hoffm.) H.Rob.",Accepted,,M,TICA,61A2F6C0-4316-4457-9AA8-1848B7E5B32B,962412-1,"","","250","1990",
+gcc-58523,A,Compositae,,Baccharoides,,"lasiopus",var.,"acuta","(C.Jeffrey) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,55545F9D-EAF4-4D0B-BE1C-8F834E6A1216,,"","","224","1996",
+gcc-71819,A,Compositae,,Baccharoides,,"lasiopus",var.,"caudata","(C.Jeffrey) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,F9BBDDE8-ECBB-475A-B975-F906BE1E6524,,"","","224","1996",
+gcc-70151,A,Compositae,,Baccharoides,,"lasiopus",var.,"iodocalyx","(O.Hoffm.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,6DE1F970-FC6C-405E-8D9D-EBDEE537DAE4,,"","","224","1996",
+gcc-156556,A,Compositae,,Baccharoides,,"lasiopus",var.,"lasiopus","",Synonym,,L,TICA,398C7C14-1788-4B44-B3ED-EFC9D5216F5E,,"Proc. Biol. Soc. Wash. 103: 250. 1990","","250","1990",gcc-13038
+gcc-130746,A,Compositae,,Baccharoides,,"lilacina",,"","(Dalzell & A.Gibson) M.R.Almeida",Synonym,,M,TICA,D129AB52-762B-406D-8851-DF448EEC64BE,20008441-1,"Fl. Maharashtra 3A","","72","2001",gcc-94545
+gcc-95509,A,Compositae,,Baccharoides,,"longipedunculata",,"","(De Wild.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,F9B9DFCF-B0B6-4B4E-BB76-8F8AE9C2CCEB,,"","","220","1996",
+gcc-146740,A,Compositae,,Baccharoides,,"longipedunculata",var.,"longipedunculata","",Synonym,,L,TICA,5E94F5D8-976E-4EE2-83E0-1EFD06B86F7D,,"Grana 35. 220. 1996","","220","1996",gcc-95509
+gcc-56697,A,Compositae,,Baccharoides,,"longipedunculata",var.,"manikensis","(De Wild.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,7037C218-D016-44F9-A7FB-80854926EDC1,,"","","222","1996",
+gcc-60992,A,Compositae,,Baccharoides,,"longipedunculata",var.,"retusa","(R.E.Fr.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,L,TICA,D16B2312-9715-40CD-982E-A2F46FB65645,,"","","222","1996",
+gcc-34461,A,Compositae,,Baccharoides,,"mayurii",,"","(C.E.C.Fisch.) Punekar & Vasudeva Rao",Unresolved,,L,TICA,C7692424-178F-471A-BBA3-3FE1A068B3A3,77077406-1,"","","516","2006",gcc-140206
+gcc-104025,A,Compositae,,Baccharoides,,"molle",,"","Kuntze",Synonym,,L,TICA,79628D98-31C4-4C5A-A90A-A29B851C51F3,,"Revis. Gen. Pl. 1","","320","1891",gcc-3901
+gcc-112239,A,Compositae,,Baccharoides,,"muticum",,"","(Kunth) Kuntze",Synonym,,M,TICA,7FAA63F6-4C53-4834-A085-B4EE0552D149,28263-2,"Revis. Gen. Pl. 1","","320","1891",gcc-99839
+gcc-86718,A,Compositae,,Baccharoides,,"nimbaensis",,"","(C.D.Adams) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,FAEF4483-1AA7-4100-9ACC-7B8DE7FECCEC,,"","","222","1996",
+gcc-9099,A,Compositae,,Baccharoides,,"pedunculatum",,"","(DC. ex Pers.) Kuntze",Synonym,,M,TICA,85144211-6356-4233-8AC4-1106029FF546,183896-1,"Revis. Gen. Pl. 1","","320","1891",gcc-121917
+gcc-50863,A,Compositae,,Baccharoides,,"phyllolaenum",,"","Kuntze",Unresolved,,L,TICA,2F3C60DA-0613-4B8D-8504-5E58CAFBD9C7,183897-1,"Revis. Gen. Pl. 1","","320","1891",
+gcc-88960,A,Compositae,,Baccharoides,,"prolixa",,"","(S.Moore) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,530D5662-5836-43E4-9FDF-8097B8E290FE,,"","","220","1996",
+gcc-42737,A,Compositae,,Baccharoides,,"pumila",,"","(Kotschy & Peyr.) Isawumi",Accepted,,M,TICA,84462FF7-A3A6-4A5C-BF56-4F2530FDA10D,,"","","321","1993",
+gcc-22540,A,Compositae,,Baccharoides,,"punctatum",,"","(Cass.) Kuntze",Synonym,,M,TICA,4DFA224C-6601-4530-B6FB-29B2291CA4D9,28264-2,"Revis. Gen. Pl. 1","","320","1891",gcc-99839
+gcc-30474,A,Compositae,,Baccharoides,,"rangacharii",,"","(Gamble) Punekar & Vasudeva Rao",Synonym,,M,TICA,4DE2A805-3C09-4E1B-B967-385DFD4CCE9D,77077407-1,"","","516","2006",gcc-128230
+gcc-25040,A,Compositae,,Baccharoides,,"reticulatum",,"","Kuntze",Synonym,,M,TICA,471848FD-EE02-444B-9F88-2E4012BAB885,183900-1,"Revis. Gen. Pl. 1","","320","1891",gcc-138200
+gcc-36164,A,Compositae,,Baccharoides,,"ringoetii",,"","(De Wild.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,88E3B473-0D99-49C9-ADAF-430F1933D31A,,"","","226","1996",
+gcc-138891,A,Compositae,,Baccharoides,,"ritchiei",,"","(Hook.f.) M.R.Almeida",Synonym,,M,TICA,46A1689D-2DD0-4CA9-B269-F18EBAE0FD8C,20008442-1,"Fl. Maharashtra 3A","","73","2001",gcc-24073
+gcc-78584,A,Compositae,,Baccharoides,,"scabrida",,"","(DC.) M.R.Almeida",Synonym,,M,TICA,FB3C7FE2-FA98-4F04-AAC2-697566EEDB1A,20008443-1,"Fl. Maharashtra 3A","","73","2001",gcc-24073
+gcc-133566,A,Compositae,,Baccharoides,,"schimperi",,"","(DC.) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,2961E05B-6361-43D4-81BD-E5C555307392,,"","","222","1996",
+gcc-91877,A,Compositae,,Baccharoides,,"sengaltheriana",,"","(Narayana) Punekar & Vasudeva Rao",Unresolved,,L,TICA,52408E85-F9FA-4687-9B57-87641549C16C,77077408-1,"J. Econ. Taxon. Bot. 29(3): 516","","516","2006",
+gcc-127634,A,Compositae,,Baccharoides,,"stenostegia",,"","(Stapf) Isawumi",Synonym,,L,TICA,422A4F98-EA7C-4EBB-AA42-D81B93351497,,"","","311","1993",gcc-82109
+gcc-34149,A,Compositae,,Baccharoides,,"sunzuensis",,"","(Wild) ""Isawumi, El-Ghazaly & B.Nord.""",Accepted,,M,TICA,4F106559-171E-473C-B547-3F4AD34F15C3,,"","","228","1996",
+gcc-93469,A,Compositae,,Baccharoides,,"tayloriana",,"","Isawumi",Accepted,,M,TICA,3A905A2A-7B54-410F-88BB-8ACD9CEADA98,983901-1,"","","2","1995",
+gcc-121132,A,Compositae,,Baccharoides,,"tenoreana",,"","(Oliv.) Isawumi",Accepted,,M,TICA,E41A5830-E56B-480C-AA80-C91E3478FDA5,,"","","311","1993",
+gcc-98426,A,Compositae,,Baccharoides,,"tolypophora",,"","(Mattf.) ""Isawumi, El-Ghazaly & B.Nord.""",Synonym,,L,TICA,17DF22B6-D039-4379-B558-961ACE46F71A,,"","","228","1996",gcc-77472
+gcc-81684,A,Compositae,,Baccharoides,,"violaceum",,"","(Schrank) Kuntze",Synonym,,M,TICA,B99D2D0A-88E8-48E8-8FA3-7066D654CC04,28265-2,"Revis. Gen. Pl. 1","","320","1891",gcc-99839

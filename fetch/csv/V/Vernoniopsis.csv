@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92775,A,Compositae,,Vernoniopsis,,"caudata",,"","(Drake) Humbert",Accepted,,M,TICA,38B5A3DB-0C0F-4271-A97F-895A17073740,,"""in Mem. Inst. Sci. Madag., Ser. B, vi. 155 (1955).""","","","1955",
+gcc-63503,A,Compositae,,Vernoniopsis,,"caudata",subsp.,"caudata","",Synonym,,L,TICA,7607C8AC-E6A7-439B-9874-B756F810358F,,"","","","",gcc-92775
+gcc-48725,A,Compositae,,Vernoniopsis,,"caudata",subsp.,"lokohensis","Humbert",Unresolved,,L,TICA,9F677356-67C0-4997-AC66-5A4408E89683,77117092-1,"Memoires de l'Institut Scientifique de Madagascar. Serie B. Biologie Vegetale. 6:","","155","1955",tro-100372850
+gcc-136194,A,Compositae,,Vernoniopsis,,"crassipes",,"","Dusén",Unresolved,,L,TICA,6416018F-F805-4791-A933-EBA777AC5D2E,264488-2,"""Beih. Bot. Centralbl. 38, pt. 2: 284, fig. 11""","","""284, fig. 11""","1921",
+tro-100372850,A,Compositae,,Vernoniopsis,,"lokohensis",,"","(Humbert) Callm. & Phillipson",Accepted,,L,TRO,100372850,77117093-1,"Candollea","66(2): 411","411","2011",

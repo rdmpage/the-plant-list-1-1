@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33728,A,Compositae,,Elachanthemum,,"intricatum",,"","(Franch.) Ling & Y.R.Ling",Accepted,,M,TICA,989942FD-27A9-4FEA-AAB3-3E83811E7EE0,202856-1,"Acta Phytotax. Sin. 16(1): 63 (1978)","","63","1978",
+gcc-157023,A,Compositae,,Elachanthemum,,"intricatum",var.,"intricatum","",Synonym,,L,TICA,938A42AA-63BE-4705-BBFA-F925CBDD8F07,,"","","","",gcc-33728
+gcc-31127,A,Compositae,,Elachanthemum,,"intricatum",var.,"macrocephalum","H.C.Fu",Synonym,,L,TICA,DAD1A9A1-2077-4E94-B551-39A152461AA7,916955-1,"","","326","1982",gcc-135523
+gcc-109874,A,Compositae,,Elachanthemum,,"polycephalum",,"","Zong Y.Zhu & C.Z.Liang",Unresolved,,L,TICA,2B137E21-1872-4A09-9DB8-AFA9AB92C5D5,,"","","149","2003",

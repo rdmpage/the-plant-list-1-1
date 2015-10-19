@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-417995,A,Poaceae,,Gouinia,,"barbata",,"","(Hack.) Swallen",Accepted,,H,WCSP,417995,1216654-2,"Amer. J. Bot.","22: 37","","1935",
+kew-417996,A,Poaceae,,Gouinia,,"brandegeei",,"","(Vasey) Hitchc.",Unresolved,,L,WCSP,417996,,"Bull. Bur. Pl. Industr. U.S.D.A.","33: 21","","1903",
+kew-417997,A,Poaceae,,Gouinia,,"brasiliensis",,"","(S.Moore) Swallen",Accepted,,H,WCSP,417997,404230-1,"Amer. J. Bot.","22: 36","","1935",
+kew-417998,A,Poaceae,,Gouinia,,"cearensis",,"","(Ekman) Swallen",Accepted,,H,WCSP,417998,404231-1,"Amer. J. Bot.","22: 39","","1935",
+kew-417999,A,Poaceae,,Gouinia,,"ekmanii",,"","Alain",Unresolved,,L,WCSP,417999,,"Contr. Ocas. Mus. Hist. Nat. Colegio ""De La Salle""","12: 5","","1953",
+kew-418000,A,Poaceae,,Gouinia,,"gracilis",,"","Ekman",Accepted,,H,WCSP,418000,404232-1,"Amer. J. Bot.","22: 33","","1935",
+kew-418001,A,Poaceae,,Gouinia,,"guatemalensis",,"","(Hack.) Swallen",Accepted,,H,WCSP,418001,404233-1,"Publ. Carnegie Inst. Wash.","436: 334","","1934",
+kew-418002,A,Poaceae,,Gouinia,,"isabelensis",,"","J.J.Ortíz",Accepted,,H,WCSP,418002,306586-2,"Acta Bot. Mex.","23: 18","","1993",
+kew-418003,A,Poaceae,,Gouinia,,"latifolia",,"","(Griseb.) Vasey",Accepted,,H,WCSP,418003,112883-2,"Contr. U. S. Natl. Herb.","1: 365","","1895",
+kew-418004,A,Poaceae,,Gouinia,,"latifolia",var.,"guatemalensis","(Hack.) J.J.Ortíz",Synonym,,L,WCSP,418004,974121-1,"Acta Bot. Mex.","23: 21","","1993",kew-418001
+tro-25526862,A,Poaceae,,Gouinia,,"latifolia",var.,"latifolia","",Synonym,,L,TRO,25526862,,"","","","",kew-418003
+kew-418005,A,Poaceae,,Gouinia,,"longiramea",,"","Swallen",Accepted,,H,WCSP,418005,112884-2,"Publ. Carnegie Inst. Wash.","436: 334","","1934",
+kew-418006,A,Poaceae,,Gouinia,,"mexicana",,"","(Scribn.) Vasey",Accepted,,H,WCSP,418006,112885-2,"Contr. U. S. Natl. Herb.","1: 365","","1895",
+kew-418007,A,Poaceae,,Gouinia,,"papillosa",,"","Swallen",Accepted,,H,WCSP,418007,112886-2,"Publ. Carnegie Inst. Wash.","436: 334","","1934",
+kew-418008,A,Poaceae,,Gouinia,,"paraguayensis",,"","(Kuntze) Parodi",Accepted,,H,WCSP,418008,112887-2,"Revista Mus. La Plata","34: 176","","1934",
+tro-25552764,A,Poaceae,,Gouinia,,"paraguayensis",var.,"paraguayensis","",Synonym,,L,TRO,25552764,,"","","","",kew-418008
+kew-418009,A,Poaceae,,Gouinia,,"paraguayensis",var.,"tortuosa","(Swallen) Türpe",Synonym,,L,WCSP,418009,112888-2,"Lilloa","34: 77","","1975",kew-418013
+kew-418010,A,Poaceae,,Gouinia,,"polygama",,"","E.Fourn.",Synonym,,H,WCSP,418010,296800-2,"Mexic. Pl.","2: 103","","1886",kew-418014
+kew-418011,A,Poaceae,,Gouinia,,"polygama",var.,"major","E.Fourn.",Synonym,,L,WCSP,418011,,"Mexic. Pl.","2: 103","","1886",kew-418014
+kew-418012,A,Poaceae,,Gouinia,,"ramosa",,"","Swallen",Accepted,,H,WCSP,418012,112889-2,"Publ. Carnegie Inst. Wash.","436: 333","","1934",
+kew-418013,A,Poaceae,,Gouinia,,"tortuosa",,"","Swallen",Accepted,,H,WCSP,418013,112890-2,"Amer. J. Bot.","22: 41","","1935",
+kew-418014,A,Poaceae,,Gouinia,,"virgata",,"","(J.Presl) Scribn.",Accepted,,H,WCSP,418014,112891-2,"Bull. Div. Agrostol. U.S.D.A.","4: 10","","1897",
+kew-418015,A,Poaceae,,Gouinia,,"virgata",var.,"robusta","J.J.Ortíz",Synonym,,L,WCSP,418015,303936-2,"Acta Bot. Mex.","23: 30","","1993",kew-418014
+tro-25558796,A,Poaceae,,Gouinia,,"virgata",var.,"virgata","",Synonym,,L,TRO,25558796,,"","","","",kew-418014

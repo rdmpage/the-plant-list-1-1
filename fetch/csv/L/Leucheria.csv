@@ -1,0 +1,143 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-84281,A,Compositae,,Leucheria,,"abbreviata",,"","(Bertero) Steud.",Synonym,,M,TICA,CFF2F98E-CCE2-49E2-A9A3-76330929E959,230115-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 36""","","36","1840",gcc-91855
+gcc-80818,A,Compositae,,Leucheria,,"acanthoides",,"","D.Don",Synonym,,M,TICA,D9B0EFA0-3504-44CF-A4A3-6E6BA46204A8,230116-1,"Trans. Linn. Soc. London 16(2): 213","","213","1830",gcc-9712
+gcc-27609,A,Compositae,,Leucheria,,"achillaeifolia",,"","Hook. & Arn.",Accepted,,L,TICA,A270AFFA-7F1E-451F-8D1A-3309A7D8BA69,230117-1,"in Hook. Comp. Bot. Mag. ii. (1836) 43.","","43","1836",
+gcc-125306,A,Compositae,,Leucheria,,"achilleifolia",,"","Ball",Unresolved,,L,TICA,2E293008-4865-4168-8C2A-D2BC5C472A77,,"""J. Linn. Soc., Bot. xxvii. (1891) 495""","","495","",
+gcc-32139,A,Compositae,,Leucheria,,"amoena",,"","Phil.",Accepted,,M,TICA,2DFFF293-143C-4EC2-A8D1-3B88CF32C939,,"Linnaea 28: 714. 1858","","714","1856",
+gcc-34439,A,Compositae,,Leucheria,,"andryaloides",,"","DC.",Synonym,,M,TICA,07949F3B-1757-417F-9027-3FD7436A22E2,230120-1,"in Deless. Ic. Sel. iv. t. 86.","","iv. t. 86.","",gcc-87736
+gcc-85425,A,Compositae,,Leucheria,,"anthemidifolia",,"","Phil.",Synonym,,L,TICA,6D46DBFF-6992-4AA6-9EDA-78A25C774583,139000-2,"","","102","1894",gcc-27609
+gcc-88771,A,Compositae,,Leucheria,,"apiifolia",,"","Phil.",Accepted,,M,TICA,9D4982B0-E507-40EB-B1ED-80362854C0C6,139001-2,"","","111","1894",
+gcc-4591,A,Compositae,,Leucheria,,"araucana",,"","Phil.",Synonym,,L,TICA,E19A11A4-28A8-47E9-9CE0-088C78668E8C,139002-2,"","","105","1894",gcc-109005
+gcc-17613,A,Compositae,,Leucheria,,"aurita",,"","Phil.",Synonym,,L,TICA,02FE6F85-5519-4909-963B-20856B3EE1DD,139003-2,"","","106","1894",gcc-124885
+gcc-35641,A,Compositae,,Leucheria,,"barrasiana",,"","(J.Rémy) Reiche",Unresolved,,L,TICA,6FF13475-823D-46E0-97DF-4217F42646D6,,"","","","",
+gcc-52396,A,Compositae,,Leucheria,,"barrasiana",,"","(J.Rémy) F.Meigen",Unresolved,Illegitimate,L,TICA,7BE5B3F7-3C56-4672-BE70-61240B60253D,139004-2,"","","439","1894",
+gcc-146484,A,Compositae,,Leucheria,,"barrasiana",var.,"barrasiana","",Synonym,,L,TICA,AD490474-EE2A-41C3-AB95-19777C8DECF0,,"","","","",gcc-52396
+gcc-81324,A,Compositae,,Leucheria,,"bridgesii",,"","Hook. & Arn.",Accepted,,M,TICA,6C217A6A-F909-4325-BE1E-6F8D53EE8830,329494-2,"","","36","1835",
+gcc-12365,A,Compositae,,Leucheria,,"candidissima",,"","Gillies & D.Don",Accepted,,M,TICA,0BB07DB8-2FFD-40AC-B0BF-170EF1E9DBB8,230127-1,"in Phil. Mag. (1832) 389.","","389","1832",
+gcc-156243,A,Compositae,,Leucheria,,"candidissima",f.,"candidissima","",Synonym,,L,TICA,FE44D48A-1418-4CB8-B50C-E94183F209FB,,"","","","",gcc-12365
+gcc-116436,A,Compositae,,Leucheria,,"canescens",,"","Phil.",Unresolved,,L,TICA,9D711CCB-F215-4DD1-9DC0-BE688C1225E7,,"","","","",
+gcc-52229,A,Compositae,,Leucheria,,"canescens",,"","(Phil.) Reiche",Synonym,,L,TICA,29F09C8A-0983-46C1-9DC4-60DBA6D540D2,,"","","","1905",gcc-10861
+gcc-89245,A,Compositae,,Leucheria,,"cerberoana",,"","J.Rémy",Accepted,,L,TICA,68E3977F-FE0D-46FF-B7AA-8145FD5A86ED,,"""in C. Gay, Fl. Chil. iii. 386.""","","386","1847",
+gcc-51655,A,Compositae,,Leucheria,,"chillanensis",,"","Reiche",Synonym,,L,TICA,6C6CED90-6CC3-431E-B669-5FCA532CCFED,,"","","","",gcc-35660
+gcc-77166,A,Compositae,,Leucheria,,"chillanensis",,"","Phil.",Unresolved,,L,TICA,AE7BF506-D398-4B8F-BE98-6644D55067DC,,"","","","1905",
+gcc-76013,A,Compositae,,Leucheria,,"cinerea",,"","D.Don",Synonym,,M,TICA,48CD222F-352B-4024-ABF1-63B67FF2ECC7,230130-1,"Trans. Linn. Soc. London 16(2): 215","","215","1830",gcc-91855
+gcc-124885,A,Compositae,,Leucheria,,"coerulescens",,"","J.Rémy",Accepted,,L,TICA,A6E20ED9-4EB9-4219-B548-D1BA46C909B6,,"""in C. Gay, Fl. Chil. iii. 382.""","","382","1849",
+gcc-3183,A,Compositae,,Leucheria,,"concinna",,"","(Phil.) Reiche",Synonym,,L,TICA,CD366D72-09BC-4B96-9616-05E36C6E42E4,,"","","","1905",gcc-11029
+gcc-10861,A,Compositae,,Leucheria,,"congesta",,"","Gill. ex D.Don",Accepted,,L,TICA,1BDDBD7F-6D6F-417D-BCED-14560C637A2A,139013-2,"in Phil. Mag. (1832) 389.","","389","1832",
+gcc-45172,A,Compositae,,Leucheria,,"contrayerba",,"","Kurtz",Synonym,,M,TICA,C12EB5EF-EC36-4E52-BA40-53BBCD6FDE6A,230135-1,"in Bol. Acad. nac. cienc. Cordoba xiii. (1893) 201; et in Verh. Bot. Ver. Brand.xxxv. (1894) 112.","","xiii.  201","1893",gcc-81885
+gcc-42647,A,Compositae,,Leucheria,,"conyzoides",,"","D.Don",Synonym,,M,TICA,3123CD45-3E9D-48F1-8316-4EFE09B7089D,,"Philos. Mag. 11:","","389","1832",gcc-44392
+gcc-48954,A,Compositae,,Leucheria,,"conyzoides",,"","D.Don ex Baker",Unresolved,,L,TICA,5721F7AE-D752-4C73-9C70-5AA80BDA320F,,"Fl. Bras. (Martius) 6(3): 391","","391","",
+gcc-16611,A,Compositae,,Leucheria,,"coquimbana",,"","(Phil.) Reiche",Unresolved,,L,TICA,9577C88A-3A1C-4017-B433-1EB057E044D3,,"","","","1905",
+gcc-137617,A,Compositae,,Leucheria,,"cumingii",,"","Hook. & Arn.",Accepted,,L,TICA,EBC013A2-EC6C-474D-A956-EED0F90CDC73,230138-1,"in Hook. Comp. Bot. Mag. i. (1835) 36.","","36","1835",
+gcc-121154,A,Compositae,,Leucheria,,"daucifolia",,"","(D.Don) Crisci",Accepted,,M,TICA,3F38873E-6DC6-4865-8DCC-C929855D8CAA,,"","","52","1976",
+gcc-91939,A,Compositae,,Leucheria,,"debilis",,"","Phil.",Synonym,,L,TICA,CA148497-082E-4D13-8D10-87856013F4A0,139016-2,"","","107","1894",gcc-137617
+gcc-104799,A,Compositae,,Leucheria,,"diemii",,"","Cabrera",Unresolved,Illegitimate,L,TICA,DF3375E3-8927-49F1-9485-A43CACC8838B,139017-2,"Boletin de la Sociedad Argentina de Botanica 11(4):","","288","1969",
+gcc-101016,A,Compositae,,Leucheria,,"discolor",,"","Phil.",Synonym,,L,TICA,2094E657-D2C2-417C-984D-9BE66AE6996F,139018-2,"Anales de la Universidad de Chile 87:","","107","1894",gcc-109005
+gcc-132436,A,Compositae,,Leucheria,,"divaricata",,"","D.Don",Synonym,,M,TICA,7B602728-2FD9-400D-B0E6-E343DD642ED9,230141-1,"Trans. Linn. Soc. London 16(2): 214","","214","1830",gcc-9712
+gcc-135952,A,Compositae,,Leucheria,,"echioides",,"","D.Don",Synonym,,M,TICA,20A2712A-C21A-47CA-9115-EB0EB71719F0,,"in Phil. Mag. (1832) 38.","","","1832",gcc-16692
+gcc-5894,A,Compositae,,Leucheria,,"eriocephala",,"","Speg.",Accepted,,M,TICA,C1E45077-7C61-41EF-AE15-0AF7F8565BB9,139019-2,"Anales de Sociedad Cientifica Argentina 53:","","31","1902",
+gcc-144962,A,Compositae,,Leucheria,,"eriochlaena",,"","J.Rémy",Synonym,,L,TICA,68D9D771-60E1-467C-979E-FF55C0543E79,,"""in C. Gay, Fl. Chil. iii. 384.""","","384","",gcc-140190
+gcc-24085,A,Compositae,,Leucheria,,"fasciata",,"","Klatt",Synonym,,M,TICA,C84E16A4-76B7-4818-A40B-2C80EC34EFA0,139021-2,"Bot. Jahrb. Syst. viii. (1886) 51.","","51","1886",gcc-91102
+gcc-85343,A,Compositae,,Leucheria,,"floribunda",,"","DC.",Accepted,,M,TICA,E9406341-E2D6-47D7-B76B-787CE35C1919,,"""de Candolle, A. P. 1838: Prodromus Systematis Naturalis Regni Vegetabilis. 7(1).  Paris, 330 p. ""","","58","1838",
+gcc-83701,A,Compositae,,Leucheria,,"foliosa",,"","Phil.",Synonym,,M,TICA,85C14DCF-7AE3-437E-9B10-74DAE0F009DA,139023-2,"Linnaea 28","","720","1856",gcc-14258
+gcc-117723,A,Compositae,,Leucheria,,"fuegiana",,"","Phil.",Synonym,,L,TICA,90CCA00C-8EF7-4050-80B8-C15140912C69,,"","","","",gcc-15337
+gcc-6698,A,Compositae,,Leucheria,,"garciana",,"","J.Rémy",Accepted,,L,TICA,03A0FBDA-1D2A-4F45-B4CB-0C6C6C4A10F9,,"""in C. Gay, Fl. Chil. iii. 381.""","","381","1849",
+gcc-139266,A,Compositae,,Leucheria,,"gayana",,"","(J.Rémy) Reiche",Accepted,,L,TICA,6E493239-9F48-4857-BF5B-F25C5BB3A86A,139026-2,"","","206","1905",
+gcc-90270,A,Compositae,,Leucheria,,"gilliesii",,"","Hook. & Arn.",Accepted,,M,TICA,1DFA3767-8FF3-4152-8FD1-8396B0F75EB8,230152-1,"in Hook. Comp. Bot. Mag. i. (1835) 35.","","35","1835",
+gcc-86495,A,Compositae,,Leucheria,,"glabrata",,"","Phil.",Synonym,,L,TICA,B293AA87-009F-4B27-A9CF-7B0C2CFACE53,139027-2,"","","103","1894",gcc-89245
+gcc-2177,A,Compositae,,Leucheria,,"glabriuscula",,"","(Phil.) Reiche",Accepted,,L,TICA,F3B03FC4-8CE3-4293-BDFE-03EAA61537EE,139028-2,"","","191","1905",
+gcc-109005,A,Compositae,,Leucheria,,"glacialis",,"","(Poepp. ex Less.) Reiche",Unresolved,Illegitimate,L,TICA,2939558B-F5A7-452E-AFB5-ADAB3AA4085A,,"""Anales Univ. Chile 116: 202. 1905 Reiche, Flora de Chile, 4: 425.  1905""","","","1905",
+gcc-19886,A,Compositae,,Leucheria,,"glacialis",var.,"glacialis","",Synonym,,L,TICA,37BC9138-503B-43AB-8BF3-24C6CAE829E9,,"","","","",gcc-109005
+gcc-27048,A,Compositae,,Leucheria,,"glacialis",var.,"longifolia","(Phil.) Cabrera",Synonym,,L,TICA,12EFF997-20FA-427F-AE22-320112566E2B,139030-2,"","","370","1971",gcc-109005
+gcc-28334,A,Compositae,,Leucheria,,"glandulosa",,"","Phil.",Synonym,Illegitimate,L,TICA,04F88383-E681-4498-95F1-3454AF4D7694,230156-1,"Anales Univ. Chile (1872) 743.","","743","",gcc-35660
+gcc-29061,A,Compositae,,Leucheria,,"glandulosa",,"","D.Don",Accepted,,L,TICA,C0239DC0-FDF2-41D3-9F8E-35B7351BCD19,230155-1,"Trans. Linn. Soc. London 16(2): 217","","217","1830",
+gcc-90228,A,Compositae,,Leucheria,,"glomerata",,"","(Kuntze) Schumann & K",Unresolved,,L,TICA,7DE888B8-F3AC-4ADC-9D3D-837E0690A656,,"","","","",
+gcc-142648,A,Compositae,,Leucheria,,"glomerulata",,"","(Kuntze) K.Schum.",Synonym,,L,TICA,91385CAE-5D18-4996-B862-FA0EB4AD8B85,139032-2,"","","378","1900",gcc-10861
+gcc-105867,A,Compositae,,Leucheria,,"gracilis",,"","Albov ex Albov",Synonym,,L,TICA,3416552A-CA3A-411D-9CD3-A684CAE48A27,139036-2,"","","375","1896",gcc-15337
+gcc-50584,A,Compositae,,Leucheria,,"grandis",,"","Hort. ex Gentil",Unresolved,,L,TICA,E560EB1C-A219-4335-A6E9-5DCA6958A321,230160-1,"""Pl. Cult. Serres Jard. Bot. Brux. 110 (1907), nomen.""","","""110 , nomen.""","1907",
+tro-50327614,A,Compositae,,Leucheria,,"graui",,"","Katinas, Tellería & Crisci",Unresolved,,L,TRO,50327614,60450518-2,"Novon","18(3): 366–369, fig. 1, 2","366","2008",
+gcc-15337,A,Compositae,,Leucheria,,"hahnii",,"","Franch.",Unresolved,Illegitimate,L,TICA,4A513333-70A0-45B2-8A0C-1C66F7FC71CC,139037-2,"""Mission Scientifique du Cap Horn, Botanique 5:""","","""349, pl. 3""","1889",
+gcc-69795,A,Compositae,,Leucheria,,"hahnii",var.,"hahnii","",Synonym,,L,TICA,A70BE3AD-904D-42C5-90AE-E919CC410253,,"","","","",gcc-15337
+gcc-9712,A,Compositae,,Leucheria,,"hieracioides",,"","Cass.",Accepted,,M,TICA,0183015C-5675-41AD-BD6A-1225D621BF70,230162-1,"in Dict. Sci. Nat. lv. 392.","","392","1828",
+gcc-2872,A,Compositae,,Leucheria,,"hoffmanni",,"","Dusén",Synonym,Illegitimate,L,TICA,2BC24CC5-D412-4DC1-8031-054DA6E6CEF8,,"","","116","",gcc-128389
+gcc-12814,A,Compositae,,Leucheria,,"ibari",,"","Phil.",Synonym,,L,TICA,AECE1258-9FAD-4EF7-AE53-17E3E73DAD37,139041-2,"","","99","1894",gcc-27609
+gcc-13953,A,Compositae,,Leucheria,,"ibari",var.,"glabrata","Speg.",Synonym,,L,TICA,C84B2C5F-0F3F-419B-AF73-19E7C8419A73,139042-2,"Revista Fac. Agron. Univ. Nac. La Plata 3: 538. 1897","","538","1897",gcc-27609
+gcc-43495,A,Compositae,,Leucheria,,"ibari",var.,"glandulosa","Speg.",Synonym,,L,TICA,526512D8-15D1-45EE-A453-50A4A77F25C6,139043-2,"Revista Fac. Agron. Univ. Nac. La Plata 3: 538. 1897","","538","1897",gcc-27609
+gcc-149545,A,Compositae,,Leucheria,,"ibari",var.,"ibari","",Synonym,,L,TICA,8452F5CD-4764-43EF-B31B-5B45A7457E58,,"","","","",gcc-27609
+gcc-128155,A,Compositae,,Leucheria,,"integrifolia",,"","(Phil.) Crisci",Synonym,,L,TICA,F7D246CD-7A89-4176-805D-D95A06D220AC,139045-2,"","","628","1971",gcc-103784
+gcc-1760,A,Compositae,,Leucheria,,"integrifolia",,"","Reiche",Unresolved,,L,TICA,22D46412-7070-4FC5-B5DA-032D2C76314F,139046-2,"""Anales Univ. Chile 116: 197. 1905 Reiche, Flora de Chile, 4: 420.  1905""","","197","1905",
+gcc-24515,A,Compositae,,Leucheria,,"integrifolia",,"","Hook. & Arn.",Unresolved,Illegitimate,L,TICA,D1BFCD3B-7AD0-4B0A-889C-2D449CF37A29,,"","","","",
+gcc-2366,A,Compositae,,Leucheria,,"laciniata",,"","Hook. & Arn.",Synonym,,M,TICA,7E7786C9-D6A8-48A5-A015-044DB8794B1F,230166-1,"in Hook. Comp. Bot. Mag. i. (1835) 36.","","i.  36.","1835",gcc-12365
+gcc-79047,A,Compositae,,Leucheria,,"lanata",,"","Albov ex Albov",Synonym,,L,TICA,3E23E584-67DA-4AFF-80A5-6A987120FEC6,139047-2,"","","374","1896",gcc-15337
+gcc-147164,A,Compositae,,Leucheria,,"lanata",f.,"lanata","",Synonym,,L,TICA,C1E9369E-065A-4DDD-BA08-27B86F8DB0C5,,"","","","",gcc-15337
+gcc-99216,A,Compositae,,Leucheria,,"lanata",f.,"virescens","Albov",Synonym,,L,TICA,7059CF3C-1288-41A8-BBBC-97DB1D61647F,139048-2,"""Revista Mus. La Plata, Secc. Paleontol. 7: 374. 1896""","","374","1896",gcc-15337
+gcc-11029,A,Compositae,,Leucheria,,"landbeckii",,"","(Phil.) Reiche",Accepted,,L,TICA,13898451-21BD-48E7-90B7-149C5E4A61C0,139049-2,"","","200","1905",
+gcc-97358,A,Compositae,,Leucheria,,"lanigera",,"","O.Hoffm.",Unresolved,Illegitimate,L,TICA,1E0F26EC-2FCA-4A19-BA0F-93AD120A0599,,"Wiss. Erg. Schwed. Exp. Magellans. 3(5):","","115","1901",gcc-128389
+gcc-128389,A,Compositae,,Leucheria,,"leontopodioides",,"","(Kuntze) K.Schum.",Accepted,,L,TICA,C92C137A-DF5F-42AE-903C-D9E9AD346E6F,139052-2,"Just's botanischer Jahresbericht. 26(1):","","378","1900",
+gcc-131654,A,Compositae,,Leucheria,,"lepida",,"","Phil.",Synonym,,M,TICA,28A7B528-D6FB-4E0E-A1D2-E164354A1BA3,139053-2,"","","110","1894",gcc-87736
+gcc-1558,A,Compositae,,Leucheria,,"leucomalla",,"","Phil.",Synonym,,L,TICA,6721190F-3F53-4265-9185-02D2107D5358,139054-2,"Anales de la Universidad de Chile 87:","","100","1894",gcc-35660
+gcc-103784,A,Compositae,,Leucheria,,"lithospermifolia",,"","(Less.) Reiche",Accepted,,L,TICA,65EA671C-4598-453E-8AE0-A2089A1D352C,,"","","","1905",
+gcc-7679,A,Compositae,,Leucheria,,"lithospermifolia",subsp.,"integrifolia","(Phil.) Grau & Zinnecker",Accepted,,L,TICA,195A3E0D-9FE0-44DB-B233-0E446A0EC801,,"Bot. Jahrb. Syst. 108(2–3): 231 (1987):.","","231","1987",
+gcc-31380,A,Compositae,,Leucheria,,"lithospermifolia",subsp.,"lithospermifolia","",Synonym,,L,TICA,F2931CAD-2EA9-46FF-9353-3A1CE606A7E8,,"Anales Univ. Chile 116: 207 (1905)","","207","1905",gcc-103784
+gcc-94944,A,Compositae,,Leucheria,,"longifolia",,"","Phil.",Synonym,Illegitimate,L,TICA,BB1E1DD3-9CBF-44DA-80C7-8E2CF29273BC,139056-2,"Anales Univ. Chile 87: 106. 1894","","106","1894",gcc-109005
+gcc-108297,A,Compositae,,Leucheria,,"magna",,"","Phil.",Accepted,,M,TICA,96FD7AAD-B294-449D-B363-ABFC63789FB5,139057-2,"Anales de la Universidad de Chile 87:","","108","1894",
+gcc-134190,A,Compositae,,Leucheria,,"menana",,"","J.Rémy",Accepted,,L,TICA,17A3AA2D-22D3-4699-B54D-E736E57CE434,,"""in C. Gay, Fl. Chil. iii. 387.""","","387","",
+tro-2706675,A,Compositae,,Leucheria,,"menana",,"","Remy",Unresolved,,L,TRO,2706675,,"Fl. Chil.","3: 387","387","1849",
+gcc-108897,A,Compositae,,Leucheria,,"meyeniana",,"","Walp.",Unresolved,,L,TICA,2E1AB821-693A-4778-9336-AD667290E8B0,230177-1,"in Nov. Act. Nat. Cur. xix. Suppl. I. (1843) 289.","","xix. Suppl. I.  289","1843",gcc-95973
+gcc-52854,A,Compositae,,Leucheria,,"microcephala",,"","Reiche",Synonym,,M,TICA,6611A949-1668-483C-BC9F-62015975098E,,"","","","1905",gcc-81324
+gcc-118171,A,Compositae,,Leucheria,,"millefolium",,"","Dusén & Skottsb.",Accepted,,M,TICA,C06F60EF-643D-4117-93AE-C24F162551A1,139061-2,"Kongliga Svenska Vetenskapsakademiens Handlingar 56(5):","","333","1916",
+gcc-32324,A,Compositae,,Leucheria,,"modesta",,"","(Phil.) Reiche",Synonym,,L,TICA,1998A97C-E75E-45E2-AB3F-3BE8E337D79A,,"","","","1905",gcc-137617
+gcc-81477,A,Compositae,,Leucheria,,"multifida",,"","(DC.) S.Moore ex S.Moore",Synonym,,L,TICA,7FE1749B-118D-4E12-9591-6FEA09C0156A,139063-2,"","","376","1904",gcc-27609
+gcc-47358,A,Compositae,,Leucheria,,"multiflora",,"","Phil.",Accepted,,L,TICA,E41A3B39-46B3-4B92-A105-57B39E8FC29F,230182-1,"Anales Univ. Chile (1872) 743.","","743","1872",
+gcc-16790,A,Compositae,,Leucheria,,"neaei",,"","DC.",Synonym,,L,TICA,BD694EC0-5ECB-43F4-B83D-1F04823DFB63,230183-1,"Prodr. (DC.) 7(1): 58","","58","1838",gcc-35660
+tro-2723581,A,Compositae,,Leucheria,,"neei",,"","DC.",Unresolved,,L,TRO,2723581,139065-2,"","","","",
+gcc-15805,A,Compositae,,Leucheria,,"nivea",,"","Phil.",Synonym,,M,TICA,ACE43A5C-8597-411C-BD57-1D45CEE11FE5,139066-2,"","","104","1894",gcc-90270
+gcc-47130,A,Compositae,,Leucheria,,"nudicaulis",,"","Phil.",Synonym,,L,TICA,C326C510-C95C-431C-BDD3-5753031708AE,139067-2,"Anales Univ. Chile 87: 100. 1894","","100","1894",gcc-139266
+gcc-48734,A,Compositae,,Leucheria,,"nutans",,"","Reiche",Unresolved,Illegitimate,L,TICA,EFE9D437-FE65-48C9-9677-5A496AFEEC09,139068-2,"Anales de la Universidad de Chile 116:","","208","1905",
+gcc-139307,A,Compositae,,Leucheria,,"oligocephala",,"","J.Rémy",Accepted,,L,TICA,CDB15FD8-6934-4523-9304-F2723539F838,,"""in C. Gay, Fl. Chil. iii. 383.""","","383","",
+tro-2723199,A,Compositae,,Leucheria,,"oligocephala",,"","Remy",Unresolved,,L,TRO,2723199,,"Fl. Chil.","3: 383","383","1849",
+gcc-7556,A,Compositae,,Leucheria,,"paniculata",,"","Poepp. ex Less.",Accepted,,M,TICA,07F5E9A1-0133-458D-ABE9-0E04F90C33BB,230188-1,"Syn. Gen. Compos. 403.","","403","1832",
+gcc-28772,A,Compositae,,Leucheria,,"papillosa",,"","Cabrera",Accepted,,M,TICA,FC7B89F6-0A1B-40B2-B9BA-353298113771,139070-2,"Revista Sudamericana de Botanica 3:","","iii. 58.","1936",
+gcc-19902,A,Compositae,,Leucheria,,"patagonica",,"","Speg.",Synonym,,L,TICA,A9E388EE-6800-4FA5-B211-24CC2A5F703A,139071-2,"","","538","1897",gcc-15337
+gcc-130232,A,Compositae,,Leucheria,,"paucicapitata",,"","Reiche",Synonym,,L,TICA,ADF85D38-3ED5-41E8-A8E8-DE17F9E5FD76,,"","","","1905",gcc-11029
+gcc-103892,A,Compositae,,Leucheria,,"pauciflora",,"","Phil.",Synonym,,L,TICA,07F26E9D-61F2-4516-9A1F-A242FD4D469D,139073-2,"Anales Univ. Chile 87","","109","1894",gcc-109005
+tro-2723580,A,Compositae,,Leucheria,,"peducularis",,"","Remy",Unresolved,,L,TRO,2723580,,"","","","",
+gcc-113688,A,Compositae,,Leucheria,,"peduncularis",,"","J.Rémy",Synonym,,L,TICA,730353B9-345F-4E93-BDF8-B830D6DBFA6A,,"""in C. Gay, Fl. Chil. iii. 385.""","","385","",gcc-29061
+gcc-44258,A,Compositae,,Leucheria,,"polyclados",,"","(J.Rémy) Reiche",Accepted,,L,TICA,E94F4912-F407-477B-804A-51F2CA996EDB,230194-1,"","","iv. 415","1905",
+gcc-50912,A,Compositae,,Leucheria,,"popetana",,"","Phil.",Synonym,,L,TICA,B8E0A71A-9AA7-43EC-8622-5E71F329AE0D,139076-2,"","","101","1894",gcc-139266
+gcc-34401,A,Compositae,,Leucheria,,"pteropogon",,"","(Griseb.) Cabrera",Accepted,,M,TICA,DD9C7A5B-EA2A-49F8-AB6E-3FC3D02987AD,139077-2,"Darwiniana 9:","","62","1949",
+gcc-104453,A,Compositae,,Leucheria,,"pulchella",,"","(Phil.) Reiche",Unresolved,,L,TICA,A987656F-5FAA-48A2-A721-A3889C4FD017,,"","","","",
+gcc-39035,A,Compositae,,Leucheria,,"pulchella",,"","D.Don",Synonym,,L,TICA,A3B91645-0138-4E4F-8A7B-486B2E010D32,230197-1,"Trans. Linn. Soc. London 16(2): 216","","216","1830",gcc-140190
+gcc-116052,A,Compositae,,Leucheria,,"purpurea",,"","(Vahl) Hook. & Arn.",Unresolved,,L,TICA,327C4954-A71E-454B-B9BE-BD8F1048BF28,230198-1,"in Hook. Comp. Bot. Mag. ii. (1836) 43.","","43","1836",
+gcc-141168,A,Compositae,,Leucheria,,"purpurea",,"","(Vahl) O.Hoffm. & Dusén",Accepted,,M,TICA,D84785FA-84B8-481E-A9E2-F6B8DBBBC8AB,139078-2,"Wiss. Erg. Schwed. Exp. Magellansl. 3(5): 118","","118","1900",
+gcc-139123,A,Compositae,,Leucheria,,"racemosa",,"","Phil.",Synonym,,M,TICA,0DA9136A-47D2-4296-B694-F20B7FAC1EAF,139079-2,"Anales Univ. Chile 87","","111","1894",gcc-85343
+gcc-25859,A,Compositae,,Leucheria,,"rosea",,"","(Less.) Reiche",Synonym,,L,TICA,6A12886D-AD77-41D7-8605-2FC80475ACF4,,"","","","1905",gcc-35660
+gcc-87736,A,Compositae,,Leucheria,,"rosea",,"","Poepp. ex Less.",Accepted,,M,TICA,0D162260-E34D-463E-849D-7DEB892B9B4F,230201-1,"Syn. Gen. Compos. 402","","402","1832",
+gcc-81198,A,Compositae,,Leucheria,,"runcinata",,"","D.Don",Accepted,,L,TICA,334D621D-F286-450A-B60C-6F443946EB47,,"in Phil. Mag. (1832) 389.","","389","1832",
+gcc-116895,A,Compositae,,Leucheria,,"salina",,"","(J.Rémy) Dusén",Unresolved,Illegitimate,L,TICA,ADF3F87A-0D6C-4FA6-8555-BF752CB8556B,139081-2,"","","32","1903",
+gcc-28315,A,Compositae,,Leucheria,,"salina",,"","Hieron.",Accepted,,L,TICA,43C2533C-76CB-4824-BB71-344DA4E012B2,,"Boletin de la Academia Nacional de Ciencias 4(1):","","50","1881",
+gcc-79851,A,Compositae,,Leucheria,,"salina",,"","(J.Rémy) Reiche",Unresolved,,L,TICA,26C3DBA2-A034-49A7-B04F-6C4C7977A66B,,"","","","",
+gcc-26299,A,Compositae,,Leucheria,,"salina",subsp.,"salina","",Synonym,,L,TICA,22481D0B-C10B-4B32-8BFE-309D7ED01DFA,,"Bol. Acad. Nac. Ci. 4(1): 50 (1881)","","50","",gcc-28315
+gcc-10468,A,Compositae,,Leucheria,,"scrobiculata",,"","D.Don",Accepted,,M,TICA,1C96EECA-D165-44E1-9AEB-1389119B4391,230205-1,"in Phil. Mag. (1832) 389.","","389","1832",
+gcc-157044,A,Compositae,,Leucheria,,"scrobiculata",var.,"scrobiculata","",Synonym,,L,TICA,89E4B271-619E-4143-A100-F9CF214FE307,,"","","","",gcc-10468
+gcc-91855,A,Compositae,,Leucheria,,"senecioides",,"","Hook. & Arn.",Accepted,,M,TICA,ABDE4CAE-45BD-487F-8752-875807385BC0,230206-1,"Bot. Beechey Voy. 28.","","28","1830",
+gcc-40982,A,Compositae,,Leucheria,,"senecioides",var.,"purpurascens","DC.",Synonym,,L,TICA,1BE32F6E-1E9D-4492-B59E-4BF30D82DD61,139086-2,"Prodr. (DC.) 7(1): 57","","57","1838",gcc-91855
+gcc-154023,A,Compositae,,Leucheria,,"senecioides",var.,"senecioides","",Synonym,,L,TICA,02015FAD-1098-4738-B0CE-BAB9B8649022,,"","","","",gcc-91855
+gcc-109321,A,Compositae,,Leucheria,,"sonchifolia",,"","(Turcz.) Reiche",Synonym,,M,TICA,FB2CA2AC-E336-4B48-8575-AE662B941EA8,,"","","","",gcc-85343
+gcc-110778,A,Compositae,,Leucheria,,"sonchoides",,"","Phil.",Synonym,,L,TICA,F89FB7EA-73AB-40FC-ACD5-B1AE919B38DD,139087-2,"Anales Univ. Chile 87","","104","1894",gcc-10861
+gcc-87897,A,Compositae,,Leucheria,,"stricta",,"","Phil.",Synonym,,M,TICA,8E67CFEA-1A59-40E2-AB60-7E425C06E29F,139088-2,"Anales Univ. Chile 87","","109","1894",gcc-108297
+gcc-99221,A,Compositae,,Leucheria,,"stuebelii",,"","Hieron.",Synonym,,M,TICA,EBA462C2-C9CF-4DD0-8087-97DFCA313BB2,308512-2,"Bot. Jahrb. Syst. 21: 372. 1896","","372","1896",gcc-104056
+gcc-102012,A,Compositae,,Leucheria,,"suaveolens",,"","DC.",Unresolved,,L,TICA,2BCB151C-DCBE-4DCC-AEF1-9E158000E2FC,,"","","","",
+gcc-143320,A,Compositae,,Leucheria,,"suaveolens",,"","Druce",Synonym,Illegitimate,M,TICA,20EF62D9-946A-4654-A11A-FB9B3B08AB88,230211-1,"""in Rep. Bot. Exch. Cl. Brit. Isles, 1916, 632 (1917)""","","632","1917",gcc-3096
+gcc-28515,A,Compositae,,Leucheria,,"suaveolens",,"","(dUrv.) B.L.Rob.",Unresolved,Illegitimate,L,TICA,1C3D0EB0-8BEB-42B4-BF65-34B8F1B000E6,139097-2,"Proc. Amer. Acad. Arts 49: 516. 1913","","516","1913",gcc-3096
+gcc-3096,A,Compositae,,Leucheria,,"suaveolens",,"","(d'Urv.) Speg.",Accepted,,M,TICA,DBAC5BB3-0D77-4053-A90C-05B99096E66C,,"","","538","1897",
+gcc-36629,A,Compositae,,Leucheria,,"suaveolens",,"","(d'Urv.) Skottsb.",Synonym,,M,TICA,415F3B20-37F5-4811-9909-43E94379FA4E,,"","","","1909",gcc-3096
+gcc-39478,A,Compositae,,Leucheria,,"tenerifolia",,"","Phil.",Unresolved,,L,TICA,7FF4A446-B6D0-4355-962E-4942E696BDED,139091-2,"Anales Univ. Chile 87: 102. 1894","","102","1894",
+gcc-25215,A,Compositae,,Leucheria,,"tenuis",,"","Less.",Accepted,,L,TICA,9E0AD0E2-4581-401E-BF59-2E8D657C9DDA,139092-2,"Syn. Gen. Compos. 401.","","401","1832",
+gcc-143210,A,Compositae,,Leucheria,,"thermarum",,"","(Phil.) Phil.",Unresolved,Illegitimate,L,TICA,0C55DDBD-C5A4-4B33-AE4E-FB619D5F05EF,,"""in Verh. Deutsch. Wiss. Ver. Santiago (Chile), ii. 203 (1892), in obs.; Reiche,Fl. Chile, iv. 423 (1905).""","","203","1892",
+gcc-70702,A,Compositae,,Leucheria,,"thermarum",var.,"araucana","(Phil.) Reiche",Synonym,,L,TICA,D9907BEE-319F-4D52-89D9-F036046B2836,139094-2,"""Anales Univ. Chile 116: 201. 1905 Reiche, Flora de Chile, 4: 424.  1905""","","201","1905",gcc-109005
+gcc-146237,A,Compositae,,Leucheria,,"thermarum",var.,"thermarum","",Synonym,,L,TICA,755853A6-EAC3-4FD4-98A0-1474001A12A0,,"","","","",gcc-143210
+gcc-79100,A,Compositae,,Leucheria,,"thrincioides",,"","Griseb.",Synonym,,M,TICA,1BEAB4B5-8155-4F5F-AE1E-6AB47B781B7F,139095-2,"Abh. Königl. Ges. Wiss. Göttingen 19: 197. 1874 Plantae Lorentzianae p. 149","","197","1874",gcc-44392
+gcc-140190,A,Compositae,,Leucheria,,"tomentosa",,"","(Less.) Crisci",Accepted,,L,TICA,3424C902-876E-4773-8408-F4738D699515,,"","","114","1976",
+gcc-115427,A,Compositae,,Leucheria,,"viscida",,"","(Bertero ex Colla) Grau & Zinnecker",Unresolved,Illegitimate,L,TICA,835B84F7-971B-46D2-97D4-BC1CB896A7CA,,"Bot. Jahrb. Syst. 108(2–3): 231 (1987):.","","231","1987",
+gcc-35660,A,Compositae,,Leucheria,,"viscida",,"","(Bertero ex Colla) Crisci",Accepted,,L,TICA,D5B63DCC-1B7D-4CD4-9C16-4222E3575266,,"","","67","1976",

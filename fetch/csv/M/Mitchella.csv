@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-128664,A,Rubiaceae,,Mitchella,,"ovata",,"","DC.",Synonym,Invalid,H,WCSP,128664,756212-1,"Prodr.","4: 452","","1830",kew-135232
+kew-128665,A,Rubiaceae,,Mitchella,,"pilosa",,"","Benth.",Synonym,,H,WCSP,128665,756213-1,"Pl. Hartw.","194","","1845",kew-111546
+kew-128666,A,Rubiaceae,,Mitchella,,"repens",,"","L.",Accepted,,H,WCSP,128666,280970-2,"Sp. Pl.","111","","1753",
+kew-335506,A,Rubiaceae,,Mitchella,,"repens",var.,"alba","Beal",Synonym,,L,WCSP,335506,162757-2,"Rep. (Annual) Michigan Acad. Sci.","10: 87","","1908",kew-128666
+kew-335507,A,Rubiaceae,,Mitchella,,"repens",f.,"leucocarpa","Bissell",Synonym,,L,WCSP,335507,162758-2,"Rhodora","13: 32","","1911",kew-128666
+tro-27905406,A,Rubiaceae,,Mitchella,,"repens",f.,"repens","",Synonym,,L,TRO,27905406,,"","","","",kew-128666
+kew-128667,A,Rubiaceae,,Mitchella,,"repens",var.,"undulata","(Siebold & Zucc.) Makino",Synonym,,L,WCSP,128667,,"Bot. Mag. (Tokyo)","23: 69","","1909",kew-128668
+kew-128668,A,Rubiaceae,,Mitchella,,"undulata",,"","Siebold & Zucc.",Accepted,,H,WCSP,128668,756215-1,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.","4(3): 175","","1846",
+kew-335508,A,Rubiaceae,,Mitchella,,"undulata",var.,"minor","Masam.",Synonym,,L,WCSP,335508,60438069-2,"Mem. Fac. Sci. Taihoku Imp. Univ.","11: 420","","1934",kew-128668
+kew-335509,A,Rubiaceae,,Mitchella,,"undulata",f.,"minor","(Masam.) Sugim. ex J.Yokoy., T.Fukuda & Tsukaya",Synonym,,L,WCSP,335509,60438070-2,"J. Pl. Res.","116: 314","","2003",kew-128668

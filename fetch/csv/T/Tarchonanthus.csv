@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-127613,A,Compositae,,Tarchonanthus,,"abyssinicus",,"","Sch.Bip. ex Schweinf.",Unresolved,Invalid,L,TICA,60A5E59E-3770-47F1-8273-D81102757DEA,255152-1,"Beitr. Fl. Aethiop. 287. 1867","","287","1867",gcc-77994
+gcc-96065,A,Compositae,,Tarchonanthus,,"abyssinicus",,"","Sch.Bip.",Synonym,,M,TICA,0F662E7E-3371-4702-B3F6-90BC2FBB3F9F,,"","","","",gcc-77994
+gcc-102751,A,Compositae,,Tarchonanthus,,"angustissimus",,"","DC.",Synonym,,M,TICA,4516ECE3-7DCA-4A62-98A3-9FD3D93E5BAA,255153-1,"Prodr. (DC.) 5: 431","","431","1836",gcc-112321
+gcc-5933,A,Compositae,,Tarchonanthus,,"cacanaca",,"","Sessé & Moc.",Unresolved,,L,TICA,B776F502-384C-4250-BAAB-0B09CCD9DAAD,,"","","","",
+gcc-140368,A,Compositae,,Tarchonanthus,,"camphoratus",,"","Houtt. ex DC.",Unresolved,,L,TICA,F1189242-15AC-47A9-9231-F4D9F7549E63,255155-1,"Prodr. (DC.) 5: 430","","430","1836",
+gcc-77994,A,Compositae,,Tarchonanthus,,"camphoratus",,"","L.",Accepted,,M,TICA,CEB0A999-B38B-4A1F-8A28-6819AF54DD67,,"Sp. Pl. 842.","","","1753",
+gcc-145338,A,Compositae,,Tarchonanthus,,"camphoratus",var.,"camphoratus","",Synonym,,L,TICA,36AF485B-BC3E-44EA-A892-0220B80184FA,,"","","","",gcc-77994
+gcc-62470,A,Compositae,,Tarchonanthus,,"camphoratus",var.,"litakunensis","(DC.) Harv.",Synonym,,L,TICA,0C7049B1-AE3C-4811-A60D-AEF678746626,,"","","","",gcc-77994
+gcc-132845,A,Compositae,,Tarchonanthus,,"dentatus",,"","Thunb.",Synonym,,M,TICA,C4E9477D-2BA6-4391-BF3B-E43623555416,255158-1,"Prodr. Pl. Cap. 145.","","145","",gcc-8195
+gcc-79184,A,Compositae,,Tarchonanthus,,"dentatus",,"","DC.",Synonym,,M,TICA,A3DE52AD-0463-4916-A408-6AE1D9CE5009,255157-1,"Prodr. (DC.) 5: 430","","430","1836",gcc-137833
+gcc-125325,A,Compositae,,Tarchonanthus,,"ellipticus",,"","Thunb.",Synonym,,M,TICA,F64C20E0-DC2D-485E-93EA-D2C6D7489A18,255159-1,"Prodr. Pl. Cap. 145.","","145","",gcc-87095
+gcc-39452,A,Compositae,,Tarchonanthus,,"ericoides",,"","L.f.",Synonym,,M,TICA,4E1AC38C-F469-4F9D-9A86-49390AC3C08F,255160-1,"Suppl. Pl. 360","","360","1782",gcc-105321
+gcc-100919,A,Compositae,,Tarchonanthus,,"galpinii",,"","Hutch. & E.Phillips",Unresolved,,L,TICA,E74AB138-E83D-4E8B-A15C-9BACF83FC61F,255161-1,"""Bull. Misc. Inform. Kew 1936, 85.""","","85","",gcc-44622
+gcc-87628,A,Compositae,,Tarchonanthus,,"galpinii",,"","Hutchinson & Phillips",Synonym,,M,TICA,74E24467-1899-471F-98EF-7DB3C678DFDF,,"Bulletin of Miscellaneous Information Kew 1936:","","85","1936",gcc-44622
+gcc-89986,A,Compositae,,Tarchonanthus,,"glaber",,"","L.f.",Synonym,,M,TICA,48D3B2AE-1D5B-4C6E-A151-82FA78A68C6A,255162-1,"Suppl. 360.","","360","",gcc-8195
+gcc-142127,A,Compositae,,Tarchonanthus,,"lanceolatus",,"","Thunb.",Synonym,,M,TICA,46FD9B85-5F52-4862-878D-F8F8A2CFE1EC,255163-1,"Prodr. Pl. Cap. 145.","","145","",gcc-137833
+gcc-76018,A,Compositae,,Tarchonanthus,,"litakunensis",,"","DC.",Synonym,,M,TICA,F5E54845-C154-44EB-B086-63B90E84635E,255164-1,"Prodr. (DC.) 5: 431","","431","1836",gcc-77994
+gcc-85273,A,Compositae,,Tarchonanthus,,"littoralis",,"","P.P.J.Herman",Accepted,,M,TICA,49136642-8D0F-4BCC-8C13-7855545194E7,,"Bothalia 32(1): 22 (2002).","","22","2002",
+gcc-112321,A,Compositae,,Tarchonanthus,,"minor",,"","Less.",Accepted,,M,TICA,9C7BB62D-4FF3-4E99-ACE8-B522F667E4AC,255165-1,"Syn. Gen. Compos. 208.","","208","",
+gcc-30893,A,Compositae,,Tarchonanthus,,"obovatus",,"","DC.",Accepted,,M,TICA,C294CBE3-E445-498A-A93F-3931D60ECF5A,255166-1,"Prodr. (DC.) 5: 431","","431","1836",
+gcc-50638,A,Compositae,,Tarchonanthus,,"parvicapitulatus",,"","P.P.J.Herman",Accepted,,M,TICA,BA028343-B585-4F79-BC0C-5DE57AA52986,,"Bothalia 32(1): 26 (2002).","","26","2002",
+gcc-43857,A,Compositae,,Tarchonanthus,,"procerus",,"","Salisb.",Synonym,,M,TICA,BD30A254-8377-4565-997E-514219666C43,255167-1,"Prodr. Stirp. Chap. Allerton 189","","189","1796",gcc-77994
+gcc-40204,A,Compositae,,Tarchonanthus,,"purpureus",,"","Moc. & Sessé ex Ramírez",Unresolved,,L,TICA,362D2D50-C0C4-4705-8375-4A8E017CD7F8,,"Estud. Hist. Nat. 300 (1904).","","300","",
+gcc-28284,A,Compositae,,Tarchonanthus,,"racemosus",,"","Thunb.",Synonym,,M,TICA,78352433-3623-4FC2-BA8C-343ED551C558,255169-1,"Prodr. Pl. Cap. 145.","","145","",gcc-131797
+gcc-140275,A,Compositae,,Tarchonanthus,,"trilobus",,"","DC.",Accepted,,M,TICA,A85E13B0-85B3-417E-9D44-F4A2E02FD4BF,255170-1,"Prodr. (DC.) 5: 432","","432","1836",
+gcc-44622,A,Compositae,,Tarchonanthus,,"trilobus",var.,"galpinii","(Hutch. & E.Phillips) Paiva",Accepted,,L,TICA,931A5465-2D3B-498A-8003-52A9B551CE32,,"""Bol. Soc. Brot. sér. 2, 46: 358""","","358","1972",
+gcc-62473,A,Compositae,,Tarchonanthus,,"trilobus",var.,"trilobus","",Synonym,,L,TICA,792F8CB8-5B3A-4521-942D-AEFA577EAE6B,,"","","","",gcc-140275

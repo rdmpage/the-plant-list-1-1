@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-179855,A,Lamiaceae,,Rosmarinus,,"angustifolius",,"","Mill.",Synonym,,H,WCSP,179855,455500-1,"Gard. Dict. ed. 8","1","","1768",kew-179873
+kew-179856,A,Lamiaceae,,Rosmarinus,,"chilensis",,"","Molina",Synonym,,H,WCSP,179856,222520-2,"Sag. Stor. Nat. Chili","158","","1782",kew-110764
+kew-179857,A,Lamiaceae,,Rosmarinus,,"communis",,"","Noronha",Synonym,Invalid,H,WCSP,179857,455502-1,"Verh. Batav. Genootsch. Kunsten","5(4): 25","","1790",kew-179873
+kew-179858,A,Lamiaceae,,Rosmarinus,,"eriocalyx",,"","Jord. & Fourr.",Accepted,,H,WCSP,179858,455503-1,"Brev. Pl. Nov.","1: 44","","1866",
+kew-179859,A,Lamiaceae,,Rosmarinus,,"eriocalyx",var.,"eriocalyx","",Synonym,,L,WCSP,179859,,"Unknown","","","",kew-179858
+kew-179860,A,Lamiaceae,,Rosmarinus,,"eriocalyx",var.,"pallescens","(Maire) Upson & Jury",Accepted,,L,WCSP,179860,996741-1,"Lagascalia","18: 296","","1996",
+kew-179861,A,Lamiaceae,,Rosmarinus,,"eriocalyx",subsp.,"tomentosus","(Hub.-Mor. & Maire) Fern.Casas",Synonym,,L,WCSP,179861,884147-1,"Cuad. Ci. Biol.","2: 40","","1973",kew-179885
+kew-179862,A,Lamiaceae,,Rosmarinus,,"flexuosus",,"","Jord. & Fourr.",Synonym,,H,WCSP,179862,455504-1,"Brev. Pl. Nov.","1: 44","","1866",kew-179873
+kew-179863,A,Lamiaceae,,Rosmarinus,,"latifolius",,"","Mill.",Synonym,,H,WCSP,179863,455505-1,"Gard. Dict. ed. 8","2","","1768",kew-179873
+kew-179864,A,Lamiaceae,,Rosmarinus,×,"lavandulaceus",,"","Noë",Accepted,,H,WCSP,179864,,"Exsicc. (Pl. Alger.)","444","","1852",
+kew-179865,A,Lamiaceae,,Rosmarinus,×,"lavandulaceus",var.,"clementei","Rosua",Synonym,,L,WCSP,179865,949527-1,"Lagascalia","14: 185","","1986",kew-179864
+kew-179866,A,Lamiaceae,,Rosmarinus,×,"lavandulaceus",var.,"noeanus","(Maire) Rosua",Synonym,,L,WCSP,179866,953096-1,"Lagascalia","14: 184","","1986",kew-179864
+kew-179867,A,Lamiaceae,,Rosmarinus,×,"lavandulaceus",var.,"subtomentosus","(Maire & Weiller) Rosua",Synonym,,L,WCSP,179867,953098-1,"Lagascalia","14: 185","","1986",kew-179864
+kew-179868,A,Lamiaceae,,Rosmarinus,×,"lavandulaceus",var.,"trogloditarum","(Maire & Weiller) Rosua",Synonym,,L,WCSP,179868,953097-1,"Lagascalia","14: 185","","1986",kew-179864
+kew-179870,A,Lamiaceae,,Rosmarinus,,"laxiflorus",,"","Noë",Synonym,,H,WCSP,179870,,"Exsicc. (Pl. Alger.)","no. 443","","1852",kew-179873
+tro-100252348,A,Lamiaceae,,Rosmarinus,,"laxiflorus",,"","Noë ex Lange",Synonym,,M,TRO,100252348,455507-1,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn","1863: 12","12","1863",kew-179873
+kew-179871,A,Lamiaceae,,Rosmarinus,×,"mendizabalii",,"","Sagredo ex Rosua",Accepted,,H,WCSP,179871,898618-1,"Anales Jard. Bot. Madrid","37: 594","","1980 publ. 1981",
+kew-179872,A,Lamiaceae,,Rosmarinus,×,"noeanus",,"","Maire",Synonym,,H,WCSP,179872,,"Bull. Soc. Hist. Nat. Afrique N.","30: 297","","1939",kew-179864
+kew-179873,A,Lamiaceae,,Rosmarinus,,"officinalis",,"","L.",Accepted,,H,WCSP,179873,455509-1,"Sp. Pl.","23","","1753",
+kew-371370,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"angustifolius","(Mill.) DC.",Synonym,,L,WCSP,371370,,"Fl. Franç.","ed. 3, 3: 506","","1805",kew-179873
+kew-371367,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"angustissimus","Foucaud & E.Mandon",Synonym,,L,WCSP,371367,,"Bull. Soc. Bot. France","47: 95","","1900",kew-179873
+kew-371369,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"latifolius","(Mill.) DC.",Synonym,,L,WCSP,371369,,"Fl. Franç.","3: 506","","1805",kew-179873
+kew-340374,A,Lamiaceae,,Rosmarinus,,"officinalis",subsp.,"laxiflorus","(Noë) Nyman",Synonym,,L,WCSP,340374,,"Consp. Fl. Eur.","571","","1881",kew-179873
+kew-460375,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"nutans","Cout.",Synonym,,L,WCSP,460375,,"Bol. Soc. Brot.","23: 160","","1907",kew-179873
+kew-179875,A,Lamiaceae,,Rosmarinus,,"officinalis",subsp.,"palaui","(O.Bolòs & Molin. ) Malag.",Synonym,,L,WCSP,179875,884148-1,"Las Subesp. y Variac. Geogr.","23","","1973",kew-179873
+kew-179876,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"palaui","O.Bolòs & Molin.",Synonym,,L,WCSP,179876,70024012-1,"Collect. Bot. (Barcelona)","5: 757","","1959",kew-179873
+kew-262628,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"prostratus","Pasq.",Synonym,,L,WCSP,262628,,"Cat. Ort. Bot. Napoli","91","","1867",kew-179873
+kew-371366,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"rigidus","(Jord. & Fourr.) Cariot & St.-Lag.",Synonym,,L,WCSP,371366,,"Étude Fl.","ed. 8, 2: 657","","1889",kew-179873
+kew-179877,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"subtomentosus","Maire & Weiller",Synonym,,L,WCSP,179877,,"Bull. Soc. Hist. Nat. Afrique N.","30: 297","","1939",kew-179864
+kew-179878,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"tournefortii","Noë ex Murb.",Synonym,,L,WCSP,179878,,"Contr. Fl. Nord-Ouest Afrique","2: 32","","1898",kew-179858
+kew-179879,A,Lamiaceae,,Rosmarinus,,"officinalis",var.,"trogloditarum","Maire & Weiller",Synonym,,L,WCSP,179879,,"Bull. Soc. Hist. Nat. Afrique N.","30: 297","","1939",kew-179864
+kew-262629,A,Lamiaceae,,Rosmarinus,,"palaui",,"","(O.Bolòs & Molin. ) Rivas Mart. & M.J.Costa",Synonym,,H,WCSP,262629,20009404-1,"Itinera Geobot.","15: 707","","2002",kew-179873
+kew-179880,A,Lamiaceae,,Rosmarinus,,"pallescens",,"","(Maire) Sennen",Synonym,,H,WCSP,179880,455510-1,"Campagn. Bot.","141","","1936",kew-179860
+kew-179881,A,Lamiaceae,,Rosmarinus,,"prostratus",,"","Mazziari",Synonym,,H,WCSP,179881,,"Ionios Antologia","2: 446","","1834",kew-179873
+kew-179882,A,Lamiaceae,,Rosmarinus,,"rigidus",,"","Jord. & Fourr.",Synonym,,H,WCSP,179882,455512-1,"Brev. Pl. Nov.","1: 43","","1866",kew-179873
+kew-179883,A,Lamiaceae,,Rosmarinus,,"serotinus",,"","Loscos",Synonym,,H,WCSP,179883,,"Trat. Pl. Aragon","1: 71","","1876",kew-179873
+kew-179884,A,Lamiaceae,,Rosmarinus,,"tenuifolius",,"","Jord. & Fourr.",Synonym,,H,WCSP,179884,455513-1,"Brev. Pl. Nov.","1: 43","","1866",kew-179873
+kew-179885,A,Lamiaceae,,Rosmarinus,,"tomentosus",,"","Hub.-Mor. & Maire",Accepted,,H,WCSP,179885,455514-1,"Bull. Soc. Hist. Nat. Afrique N.","31: 79","","1940",
+kew-179886,A,Lamiaceae,,Rosmarinus,,"tournefortii",,"","(Noë ex Jord. & Fourr.) Jahand. & Maire",Synonym,Illegitimate,H,WCSP,179886,455516-1,"Cat. Pl. Maroc","3: 620","","1934",kew-179858
+kew-179887,A,Lamiaceae,,Rosmarinus,,"tournefortii",f.,"pallescens","Maire",Synonym,,L,WCSP,179887,,"Bull. Soc. Hist. Nat. Afrique N.","20: 34","","1929",kew-179860

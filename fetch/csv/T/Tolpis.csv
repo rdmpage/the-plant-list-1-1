@@ -1,0 +1,77 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49976,A,Compositae,,Tolpis,,"abyssinica",,"","Sch.Bip.",Unresolved,,L,TICA,9697BDAF-36AA-48AF-A48A-5CA6A22DF345,255781-1,"Webb & Berth. Phyt. Canar. ii. 399.","","ii. 399","",
+gcc-89193,A,Compositae,,Tolpis,,"abyssinica",,"","A.Rich.",Synonym,,M,TICA,EAB215F9-1B53-459F-BB29-8124F4FB30C1,,"Tent. Fl. Abyss. i. 459.","","","1848",gcc-96167
+gcc-32725,A,Compositae,,Tolpis,,"altissima",,"","(Balb.) Pers.",Synonym,,M,TICA,495C728C-03FF-4D20-BFAF-3CAE1CB09F45,255782-1,"","","377","1807",gcc-96167
+gcc-84851,A,Compositae,,Tolpis,,"ambigua",,"","Req. ex Nyman",Synonym,,M,TICA,7D51C5F6-643F-4145-970A-7765C4705A62,255783-1,"Consp. 473.","","473","1879",gcc-96167
+gcc-100361,A,Compositae,,Tolpis,,"azorica",,"","(Nutt.) P.Silva",Accepted,,M,TICA,824C18F5-0785-41AC-B443-9A728437AB23,255784-1,"","","129","1966",
+gcc-25346,A,Compositae,,Tolpis,,"baetica",,"","(Mill.) Jord. & Fourr.",Synonym,Illegitimate,M,TICA,CD2B4DF5-439D-460D-A3F3-2EC6761C486D,,"Ic. Fl. Eur. i. 43.","","","1867",gcc-48118
+gcc-48118,A,Compositae,,Tolpis,,"barbata",,"","(L.) Gaertn.",Accepted,,M,TICA,0FAE1297-4176-4164-B6C0-592D36E310EF,255787-1,"Fruct. Sem. Pl. 2: 372 (1791)","","372","1791",
+gcc-94541,A,Compositae,,Tolpis,,"barbata",,"","Biv.",Unresolved,,L,TICA,1B380718-95CB-40BA-AAA6-8D3851F664DC,,"Monog. 13. t. 3.","","13. t. 3","",
+gcc-152460,A,Compositae,,Tolpis,,"barbata",var.,"barbata","",Synonym,,L,TICA,AEDE621B-7B5C-4DC1-84F0-99BFAAA9F571,,"","","","",gcc-48118
+gcc-51589,A,Compositae,,Tolpis,,"barbata",subsp.,"barbata","",Synonym,,L,TICA,243022BC-E86C-4DD2-BB91-5FA7CBDDDEB3,,"","","","",gcc-48118
+gcc-38094,A,Compositae,,Tolpis,,"barbata",var.,"grandiflora","Ball",Synonym,,L,TICA,57C17D2C-2451-404C-B90F-46A8EA47A617,,"","","","",gcc-51685
+gcc-26556,A,Compositae,,Tolpis,,"barbata",subsp.,"liouvillei","(Braun-Blanq. & Maire) H.Lindb.",Synonym,,L,TICA,ED462D30-97CB-46FB-81F1-3114FB27B800,,"","","","",gcc-132511
+gcc-62794,A,Compositae,,Tolpis,,"barbata",var.,"macrantha","Maire",Synonym,,L,TICA,917D4955-29F0-481E-9CC4-B19D7499AB72,,"","","","",gcc-48118
+gcc-54989,A,Compositae,,Tolpis,,"barbata",subsp.,"umbellata","(Bertol.) Maire",Synonym,,L,TICA,2565B649-87B7-4300-89B5-727110BEEF8E,,"","","","",gcc-48118
+gcc-14554,A,Compositae,,Tolpis,,"biaristata",,"","Link",Synonym,,M,TICA,73224403-182E-41B4-A8EB-1B005D1F5CBA,,"""Handb. i. 811, sphalm.""","","","1829",gcc-96167
+gcc-119708,A,Compositae,,Tolpis,,"bivonae",,"","Jord. & Fourr.",Synonym,,M,TICA,076C63FA-0F57-4CD1-AD4A-C5CABF7E2ED3,,"Brev. Pl. Nov. ii. 87. 1868","","","1868",gcc-48118
+gcc-75609,A,Compositae,,Tolpis,,"calderae",,"","Bolle",Accepted,,M,TICA,E1FE8F47-2B22-4FAA-91C7-62D2588401ED,255790-1,"","","298","1859",
+gcc-42826,A,Compositae,,Tolpis,,"canariensis",,"","Jord. & Fourr.",Synonym,,M,TICA,D7C8790C-D19D-4B81-9B28-4F4ED3A623A0,,"Brev. Pl. Nov. ii. 84. 1868","","","1868",gcc-48118
+gcc-84539,A,Compositae,,Tolpis,,"capensis",,"","(L.) Sch.Bip.",Accepted,,M,TICA,243B3F56-4613-402E-BA51-76C5627CEB9A,255792-1,"Bonplandia 9: 172","","172","1861",
+gcc-90221,A,Compositae,,Tolpis,,"concolor",,"","Jord. & Fourr.",Synonym,,M,TICA,4416A71F-D630-4008-9933-8379BA750197,,"Brev. Pl. Nov. ii. 85. 1868","","","1868",gcc-76027
+gcc-80422,A,Compositae,,Tolpis,,"coronopifolia",,"","(Desf.) Biv.",Accepted,,M,TICA,7810E3B9-A2C0-4F47-85D7-6D912C89FBB3,255794-1,"","","17","1809",
+gcc-103311,A,Compositae,,Tolpis,,"crassiuscula",,"","Svent.",Accepted,,M,TICA,246A47D4-E2C0-4B15-8EDA-A0FFD6238861,255795-1,"","","206","1949",
+gcc-87420,A,Compositae,,Tolpis,,"cretica",,"","Sieber ex Nyman",Synonym,,M,TICA,DD915B06-6D2C-482F-9749-7D3E374643CA,255796-1,"Consp. 473.","","473","1879",gcc-96167
+gcc-49430,A,Compositae,,Tolpis,,"crinita",,"","Lowe",Synonym,,M,TICA,28065DFB-8FCD-43E3-B87D-5B9496DE4BB4,,"in Trans. Camb. Phil. Soc. iv. (1831) 24.","","","1831",gcc-48118
+gcc-132852,A,Compositae,,Tolpis,,"crithmifolia",,"","DC.",Accepted,,M,TICA,F6AF300B-1131-481E-AB76-E43C637792E3,255798-1,"Prodr. (DC.) 7(1): 87","","87","1838",
+gcc-41945,A,Compositae,,Tolpis,,"dichroa",,"","Jord. & Fourr.",Synonym,,M,TICA,B27B1750-74BE-4658-8001-4DA801247CDD,,"Brev. Pl. Nov. ii. 86. 1868","","","1868",gcc-48118
+gcc-45844,A,Compositae,,Tolpis,,"discolor",,"","Jord. & Fourr.",Synonym,,M,TICA,EE1F0FD4-95C0-4BA5-80DE-54FE565E9343,,"Brev. Pl. Nov. ii. 86. 1868","","","1868",gcc-48118
+gcc-97779,A,Compositae,,Tolpis,,"ephemera",,"","(Hiern) R.E.Fr.",Synonym,,M,TICA,278C56B6-BB6E-48E4-812E-94ABAEE5D85A,,"in Act. Hort. Berg. viii. 271 (1925).","","","1925",gcc-84539
+gcc-30667,A,Compositae,,Tolpis,,"eriantha",,"","Sch.Bip.",Unresolved,,L,TICA,67221EA6-BDCF-4564-BE81-38C720C7476C,255802-1,"""Bonplandia 9: 173, in syn.""","","173","1861",
+gcc-100102,A,Compositae,,Tolpis,,"farinulosa",,"","(Webb) Walp.",Accepted,,M,TICA,6CBEF74D-93E5-41E8-B39C-99D6684966CE,255803-1,"Ann. ii. 955.","","ii. 955.","",
+gcc-151458,A,Compositae,,Tolpis,,"farinulosa",,"","(Webb) J.A.Schmidt",Unresolved,,L,TICA,A5DAFE3D-2573-49C4-A428-84EF529D854A,,"""J. A. Schmidt, Beitr. Fl. Cap Verd. Ins.. 1852""","","202","1852",
+gcc-78931,A,Compositae,,Tolpis,,"farinulosa",,"","(Webb) Schmidt",Unresolved,,L,TICA,4985E301-4A45-4685-A598-6A53508FACFA,,"","","","",
+gcc-35821,A,Compositae,,Tolpis,,"filiformis",,"","DC.",Accepted,,M,TICA,16A2165B-F81F-4B13-886B-426856140918,255804-1,"Prodr. (DC.) 7(1): 87","","87","1838",
+gcc-119729,A,Compositae,,Tolpis,,"fruticosa",,"","Schrank",Synonym,,M,TICA,AFCB711E-7359-4CBD-A615-C5D3F17CA0B7,,"","","46","1819",gcc-7512
+gcc-151803,A,Compositae,,Tolpis,,"fruticosa",var.,"fruticosa","",Synonym,,L,TICA,2AAA8C86-4611-4CFF-8B20-8C718E6DC424,,"","","","",gcc-7512
+gcc-83341,A,Compositae,,Tolpis,,"glabrescens",,"","Kämmer",Accepted,,M,TICA,E28CBBC2-7EDF-4639-ACEC-740E619CD5C0,255806-1,"Kämmer in Bot. Jahrb. Syst. 97. 1976.","","155","1976",
+gcc-128740,A,Compositae,,Tolpis,,"glandulifera",,"","Bolle",Synonym,,L,TICA,9CD8D6C7-AA26-4291-9D87-DAB660C722D1,255807-1,"Bonplandia 7: 298","","298","1859",gcc-151458
+gcc-7011,A,Compositae,,Tolpis,,"grandiflora",,"","Ten.",Synonym,,M,TICA,1243004F-64C6-4F40-B4EA-0D0A357A5B31,255808-1,"","","128","1827",gcc-44562
+gcc-151875,A,Compositae,,Tolpis,×,"grossii",,"","Talavera",Accepted,,M,TICA,3CDC0E17-D204-41A5-B47E-8DD8CA0A4232,255809-1,"S. Talavera in Lagascalia 9. 1980","","231","1980",
+gcc-24172,A,Compositae,,Tolpis,,"laciniata",,"","(Sch.Bip.) Webb",Accepted,,M,TICA,7A050946-224A-4EBA-9D7A-2CA5F922EF56,255810-1,"","","406","",
+gcc-42301,A,Compositae,,Tolpis,,"lagopoda",,"","C.Sm. ex Link",Accepted,,L,TICA,D8F15E2C-1B02-4F54-97D7-4E5D7E2D7C77,255811-1,"","","","",
+gcc-132511,A,Compositae,,Tolpis,,"liouvillei",,"","Braun-Blanq. & Maire",Accepted,,L,TICA,C0C5486F-FD49-4906-9B3F-E36AF57728A6,255812-1,"","","75","1923",
+gcc-6145,A,Compositae,,Tolpis,,"macrodonta",,"","Jord. & Fourr.",Synonym,,M,TICA,073F11CB-C6FC-4A46-8585-0B6C1D2E66B0,,"Brev. Pl. Nov. ii. 85. 1868","","","1868",gcc-76027
+gcc-15713,A,Compositae,,Tolpis,,"macrorhiza",,"","(Lowe) Lowe",Accepted,,M,TICA,13411303-2CFE-4CA7-99A4-1D1851EE408B,,"","","","",
+gcc-31640,A,Compositae,,Tolpis,,"macrorhiza",,"","H.C.Watson ex Seub.",Unresolved,,L,TICA,9BA9A3CC-89D4-42E1-AA6A-3AA783791014,255814-1,"Fl. Azor. 33.","","33","",
+gcc-97320,A,Compositae,,Tolpis,,"macrorhiza",,"","(Lowe) DC.",Unresolved,,L,TICA,C31C0F7A-721C-475A-AAF1-93945E877A08,255815-1,"","","87","1838",
+gcc-96154,A,Compositae,,Tolpis,,"madagascariensis",,"","(DC. ex DC.) Sch.Bip.",Synonym,,M,TICA,C48500F0-25A0-467A-8D5E-90E794662323,255816-1,"Bonplandia 9: 172","","172","1861",gcc-84539
+gcc-121903,A,Compositae,,Tolpis,,"mbalensis",,"","G.V.Pope",Accepted,,M,TICA,DBF37DB2-5F5A-4340-900C-CACE309D90AA,,"Kew Bull. 39(1): 167 (1984)","","167","1984",
+gcc-21992,A,Compositae,,Tolpis,,"microcephala",,"","Pomel",Synonym,,M,TICA,20C983BB-77CC-4A4F-824F-28AC23115C03,255817-1,"Nouv. Mat. Fl. Atl. 271.","","271","1875",gcc-76027
+gcc-51685,A,Compositae,,Tolpis,,"nemoralis",,"","Font Quer",Accepted,,M,TICA,44B54D49-992C-4687-88B7-5FD68FB3A8C4,,"","","","1932",
+gcc-118457,A,Compositae,,Tolpis,,"nobilis",,"","Hochst. ex Seub.",Synonym,,M,TICA,C1AD689F-7AC5-4B2F-86D4-C2FD269D96F4,,"","","33","1844",gcc-100361
+gcc-123304,A,Compositae,,Tolpis,,"nobilis",,"","Hochst.",Unresolved,,L,TICA,136ACD4C-009E-468E-B54B-CDFCBA47857F,255819-1,"in Seub. Fl. Aeor. 33. t. 11.","","33. t. 11.","",
+gcc-152627,A,Compositae,,Tolpis,,"nobilis",var.,"nobilis","",Synonym,,L,TICA,B2C4D47C-2DF9-42D9-B37E-9D7CD50DEED9,,"","","","",gcc-100361
+gcc-96981,A,Compositae,,Tolpis,,"pallidiflora",,"","Jord. & Fourr.",Unresolved,,L,TICA,0A734B47-6705-48EF-90E6-92CB64AB1350,255820-1,"Brev. Pl. Nov. ii. 85. 1868","","","1868",gcc-48118
+gcc-10166,A,Compositae,,Tolpis,,"pectinata",,"","(Lowe) DC.",Synonym,,M,TICA,52A59043-B083-4D0B-A7F6-13022655DAB4,255821-1,"","","87","1838",gcc-7512
+gcc-84857,A,Compositae,,Tolpis,,"prolifera",,"","Moench",Synonym,Illegitimate,M,TICA,AD37AA00-B962-4889-B69D-776970D367B3,255822-1,"Suppl. Meth. (Moench) 220. 1802 [2 May 1802]","","220","1802",gcc-48118
+gcc-76783,A,Compositae,,Tolpis,,"proustii",,"","Pit.",Accepted,,M,TICA,DB9F852B-5817-4786-A3FD-65687C0AFBB7,,"","","249","1909",
+gcc-99351,A,Compositae,,Tolpis,,"pygmaea",,"","Steud.",Synonym,Invalid,L,TICA,9BA3B08A-8A31-4CC4-BE3C-982FEEE12E5C,255824-1,"""Nomencl. Bot., ed. 2 (Steudel) 2: 691""","","691","1841",gcc-131164
+gcc-101928,A,Compositae,,Tolpis,,"quadriaristata",,"","Biv.",Synonym,,M,TICA,A411AC64-3C04-446C-BA24-9DDBC98EB9B0,255825-1,"","","9","1809",gcc-96167
+gcc-94939,A,Compositae,,Tolpis,,"quercifolia",,"","(Rchb.) Sch.Bip.",Synonym,,M,TICA,6CA55F7B-A497-4EB4-8C8A-8E2B0F0D8C14,,"""Webb & Berth. Phyt. Canar. ii. 398, 399.""","","","",gcc-76027
+gcc-13692,A,Compositae,,Tolpis,,"quinqueradiata",,"","K.Koch",Synonym,,M,TICA,A9D5557C-849D-409A-9EB7-19785FF3D807,255827-1,"Linnaea 23: 654. 1851","","654","1851",gcc-76027
+gcc-32117,A,Compositae,,Tolpis,,"sexaristata",,"","Biv.",Synonym,,M,TICA,839196DC-DF0F-4DC0-89D7-3B79ACB11B7C,255828-1,"","","11","1809",gcc-96167
+gcc-10196,A,Compositae,,Tolpis,,"somalensis",,"","R.E.Fr.",Synonym,,M,TICA,68B6BD8D-91B5-4C6D-8BAD-1310D25E8F9B,,"in Act. Hort. Berg. viii. 271 (1925).","","","1925",gcc-148464
+gcc-109231,A,Compositae,,Tolpis,,"staticifolia",,"","(All.) Sch.Bip.",Accepted,,M,TICA,7281FC05-2D6B-42E4-A3F3-AE317ECD34B9,255830-1,"","","173","1861",
+gcc-7512,A,Compositae,,Tolpis,,"succulenta",,"","Lowe",Accepted,,M,TICA,59AB7A06-EC7C-4EAE-9870-0DF4062EA845,,"","","525","1868",
+gcc-76027,A,Compositae,,Tolpis,,"umbellata",,"","Bertol.",Accepted,,M,TICA,F46C19AD-D236-4DC6-91B4-63BDAFFDDA8A,255833-1,"""Mem. Soc. Emul. Genova,""","","133","1803",
+gcc-54868,A,Compositae,,Tolpis,,"umbellata",var.,"minor","Lange",Synonym,,L,TICA,E56DC69C-7E14-4633-8DA6-71728B584C55,,"Lange in Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 3. 1861","","95","1861",gcc-76027
+gcc-147563,A,Compositae,,Tolpis,,"umbellata",var.,"umbellata","",Synonym,,L,TICA,3BC7DAA0-FD6A-4BBF-A722-3038A57B62E8,,"","","","",gcc-76027
+gcc-144782,A,Compositae,,Tolpis,,"virgata",,"","Biv.",Unresolved,,L,TICA,C94EBE2E-85D7-46F1-AC63-FEE24690462C,255835-1,"Monog. 15. t. 4.","","15. t. 4.","",
+gcc-96167,A,Compositae,,Tolpis,,"virgata",,"","(Desf.) Bertol.",Accepted,,M,TICA,9E45275E-8056-4BE0-831A-90ED9F8C7313,255834-1,"","","135","1803",
+gcc-44562,A,Compositae,,Tolpis,,"virgata",subsp.,"grandiflora","(Ten.) Arcang.",Accepted,,L,TICA,CB2E19E3-80A7-4D1A-A9B6-528E18C1D72F,,"Arcang.. 1894.","","733","1894",
+gcc-56636,A,Compositae,,Tolpis,,"virgata",subsp.,"sexaristata","(Biv.) Giardina & Raimondo",Synonym,,L,TICA,DB46034C-EA45-4CED-9929-800D9E168B85,,"","","","",gcc-96167
+gcc-149724,A,Compositae,,Tolpis,,"virgata",var.,"virgata","",Synonym,,L,TICA,FB0AA20D-B4CB-4E1D-8F2C-5EE67E7E0AD2,,"","","","",gcc-96167
+gcc-60070,A,Compositae,,Tolpis,,"virgata",subsp.,"virgata","",Synonym,,L,TICA,FC6B2941-93E6-47D6-A2E1-9B67241587F3,,"","","","",gcc-96167
+gcc-139191,A,Compositae,,Tolpis,,"webbii",,"","Sch.Bip.",Accepted,,M,TICA,98EB6B10-1082-46DA-A36E-F231125FFBB1,255836-1,"","","409","",
+gcc-21074,A,Compositae,,Tolpis,,"webbii",,"","Webb & Berthel.",Unresolved,,L,TICA,F036A64A-DAEB-44F2-BDB4-26EFD8B11FC2,,"","","","",

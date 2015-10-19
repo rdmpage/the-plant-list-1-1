@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-16416,A,Compositae,,Koelpinia,,"chrysoglochis",,"","Rech.f.",Accepted,,M,TICA,012A6EB6-BB5C-4671-8749-1E556DDDDA27,227569-1,"""in Fl. Iran., 122: 11 (1977).""","","11","1977",
+gcc-77432,A,Compositae,,Koelpinia,,"deflexa",,"","Stschegl.",Accepted,,M,TICA,9821F153-38A8-41BC-A6AE-66E15AB7C155,,"""in Bull. Soc. Nat. Mosc. xxiv. (1851), II. 471.""","","","1851",
+gcc-39362,A,Compositae,,Koelpinia,,"hedypnois",,"","Baill. ex Franch.",Synonym,,L,TICA,93D6EFC1-E94F-4762-8905-490F57CF5BC5,,"","","330","1883",gcc-32867
+gcc-139252,A,Compositae,,Koelpinia,,"latifolia",,"","C.Winkl.",Synonym,,M,TICA,7F6EC1B8-3100-42D4-8360-F256F51B2EB4,227572-1,"Act. Hort. Petrop. xi. (1890) 284.","","284","1890",gcc-401
+gcc-147232,A,Compositae,,Koelpinia,,"leiocarpa",,"","Kovalevsk.",Synonym,,M,TICA,8B0D2F6F-051B-4D30-9E38-293A92F9C76A,,"""Kovalevsk. - in Vvedensky, Fl. Uzbekistan. 6. 1962""","","515","1962",gcc-76086
+gcc-24453,A,Compositae,,Koelpinia,,"leiocarpa",,"","Popov",Unresolved,,L,TICA,565DE61F-5DE9-4B43-8F94-2D2598273801,227573-1,"""in Fl. Uzbekist. vi. 419, 515 (1962).""","","""vi. 419, 515""","1962",
+gcc-401,A,Compositae,,Koelpinia,,"linearis",,"","Pall.",Accepted,,M,TICA,3A654C4B-4A76-4412-A734-00BF187C464B,,"Reise Russ. Reich. 3","","755","1776",
+gcc-153679,A,Compositae,,Koelpinia,,"linearis",var.,"linearis","",Synonym,,L,TICA,EC709256-EED4-480D-A6A0-B32508C5C6AA,,"","","","",gcc-401
+gcc-156337,A,Compositae,,Koelpinia,,"linearis",var.,"macrantha","(C.Winkl.) O.Fedtsch. & B.Fedtsch.",Synonym,,L,TICA,DE3AF429-DAA7-44C6-BBAE-EB068C6DD6FE,,"""O. Fedtsch. & B. Fedtsch., Consp. Fl. Turkest. 4. 1911""","","306","1911",gcc-76023
+gcc-76023,A,Compositae,,Koelpinia,,"macrantha",,"","C.Winkl.",Accepted,,M,TICA,F9A2A000-F208-428B-BCB8-63BBABDDFEF1,227575-1,"","","285","1890",
+gcc-131049,A,Compositae,,Koelpinia,,"rhagadioloides",,"","B.D.Jacks.",Synonym,,L,TICA,0AB17A64-DE19-4A02-9F2C-DFF49082150C,,"B. D. Jacks. in Index Kew. 2. 1894.","","11","1894",gcc-32867
+gcc-94611,A,Compositae,,Koelpinia,,"rhagadioloides",,"","Sch.Bip.",Unresolved,,L,TICA,6EC0AB9A-3722-4353-A3A8-8D651E757907,227576-1,"Webb & Berth. Phyt. Canar. ii. 393.","","ii. 393","",
+gcc-105320,A,Compositae,,Koelpinia,,"scaberrima",,"","Franch.",Synonym,,M,TICA,3B9A74D0-1A6F-48A0-A881-A556F15A198E,,"""Ann. Sci. Nat., Bot. sér. 6, 16: 331""","","331","1883",gcc-39563
+gcc-2952,A,Compositae,,Koelpinia,,"sessilis",,"","Boiss.",Accepted,,M,TICA,A3D84787-0B14-493B-948D-0579D877C6F8,,"""Diagn. Pl. Orient. ser. 1, 11: 34 (-35)""","","34","1849",
+gcc-76086,A,Compositae,,Koelpinia,,"tenuissima",,"","Pavlov & Lipsch.",Accepted,,M,TICA,A794C080-BD76-4CA7-A583-63DA4B7E6410,,"","","332","1938",
+gcc-3916,A,Compositae,,Koelpinia,,"turanica",,"","Vassilcz.",Accepted,,M,TICA,DE0D8321-3C19-4CAE-9723-074629A518AB,227580-1,"""in Fl. Uzbekist. vi. 419, 515 (1962).""","","515","1962",

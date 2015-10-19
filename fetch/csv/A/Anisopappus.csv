@@ -1,0 +1,92 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86556,A,Compositae,,Anisopappus,,"abercornensis",,"","G.Taylor",Accepted,,M,TICA,CBFD3E3B-49E2-4943-AB1A-7B2BB69A5CDD,176770-1,"","","164","1933",
+gcc-149604,A,Compositae,,Anisopappus,,"abercornensis",subsp.,"abercornensis","",Synonym,,L,TICA,B5103CCC-FAF2-4F59-98B7-5C7FE427F2A0,,"","","","",gcc-86556
+gcc-40884,A,Compositae,,Anisopappus,,"abercornensis",subsp.,"anemonifolius","(DC.) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,414BD6EA-B005-4460-9EA1-4BC31223AA89,990352-1,"","","388","1996",gcc-121768
+gcc-114140,A,Compositae,,Anisopappus,,"africanus",,"","A.Chev.",Unresolved,Illegitimate,L,TICA,0D00B7A5-87E7-4C84-9683-B92C031E8A00,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","368","1920",
+gcc-129619,A,Compositae,,Anisopappus,,"africanus",,"","(Hook.f.) Oliv. & Hiern",Synonym,,M,TICA,131D2957-C695-4BF5-93DA-DCAA34A1857E,176771-1,"","","369","1877",gcc-55338
+gcc-62552,A,Compositae,,Anisopappus,,"africanus",var.,"africanus","",Synonym,,L,TICA,56904F93-2B75-4721-8910-AFBCF3B4A280,,"","","","",gcc-55338
+tro-2727727,A,Compositae,,Anisopappus,,"alticola",,"","(Humbert) Wild",Accepted,,M,TRO,2727727,176772-1,"Kirkia","4: 72","72","1964",
+gcc-113571,A,Compositae,,Anisopappus,,"alticolus",,"","(Humbert) Wild",Accepted,,M,TICA,4EC07A51-30DD-4A52-8A5F-B7E7DF0DA357,176772-1,"","","72","1964",
+gcc-121768,A,Compositae,,Anisopappus,,"anemonifolius",,"","(DC.) G.Taylor",Accepted,,M,TICA,4F697519-4A8D-4FFC-8500-CA7E55287319,176773-1,"","","165","1933",
+gcc-155837,A,Compositae,,Anisopappus,,"anemonifolius",subsp.,"anemonifolius","",Synonym,,L,TICA,AB3C7936-B737-42B7-A046-E0D543D6A860,,"","","","",gcc-121768
+gcc-104066,A,Compositae,,Anisopappus,,"angolensis",,"","O.Hoffm.",Synonym,,M,TICA,B02D68E4-6D11-410E-B7A6-A2B69270C867,176774-1,"Bol. Soc. Brot. 10","","170","1892",gcc-121768
+gcc-49054,A,Compositae,,Anisopappus,,"annuus",,"","Lawalrée",Synonym,,M,TICA,45D68259-5AF6-481A-802C-5ADDE5C6B940,176775-1,"","","220","1949",gcc-86556
+gcc-14188,A,Compositae,,Anisopappus,,"athanasioides",,"","Paiva & S.Ortiz",Accepted,,M,TICA,27986353-96C0-4778-93FE-1A526C25BA83,982260-1,"","","40","1995",
+gcc-101410,A,Compositae,,Anisopappus,,"aureus",,"","Hutch. & B.L.Burtt",Synonym,,M,TICA,A7F43BEA-E868-4462-BB5A-9CB8103B4EE3,176776-1,"","","40","1932",gcc-139237
+gcc-98992,A,Compositae,,Anisopappus,,"bampsianus",,"","Lisowski",Accepted,,M,TICA,4052B8B4-BF30-4212-8CDA-975F72C3EA22,,"","","199","1986",
+gcc-126019,A,Compositae,,Anisopappus,,"boinensis",,"","(Humbert) Wild",Accepted,,M,TICA,04B9A30C-1D1A-4582-8BA9-D45F4AEADC13,176777-1,"","","72","1964",
+gcc-1793,A,Compositae,,Anisopappus,,"buchwaldii",,"","(O.Hoffm.) Wild",Synonym,,M,TICA,BDD011C1-CF6E-4120-A8EE-03393F968581,176778-1,"","","60","1964",gcc-37300
+gcc-59079,A,Compositae,,Anisopappus,,"buchwaldii",subsp.,"buchwaldii","",Synonym,,L,TICA,331506E0-7825-461D-85D6-939F0C3BA4F2,,"","","","",gcc-37300
+gcc-69648,A,Compositae,,Anisopappus,,"buchwaldii",subsp.,"iodotrichus","(Brenan) Wild",Synonym,,L,TICA,A197375D-1520-43CB-80A5-E7ECDDA7E0C3,,"Kirkia 4: 60 (1964)","","60","1964",gcc-37300
+gcc-114745,A,Compositae,,Anisopappus,,"burundiensis",,"","Lisowski",Accepted,,M,TICA,561438C2-1A4B-4DDD-9122-BA95036FF2DF,,"","","259","1988",
+gcc-137580,A,Compositae,,Anisopappus,,"candelabrum",,"","H.Lév.",Synonym,,M,TICA,D5CA504B-272F-4529-978B-EEBC47D2D507,176779-1,"Repert. Spec. Nov. Regni Veg. 8","","451","1910",gcc-133281
+gcc-156886,A,Compositae,,Anisopappus,,"candelabrum",,"","Leveille",Synonym,,M,TICA,E4261D9A-B27F-4C1A-B687-F63FDB448577,,"Feddes Repert .8: 451. 1910.","","451","1910",gcc-87620
+gcc-101295,A,Compositae,,Anisopappus,,"canescens",,"","Hutch.",Synonym,,M,TICA,12F2FBAF-F228-41AE-976B-9C7633CAA2A5,176780-1,"","","498","1946",gcc-139237
+gcc-139237,A,Compositae,,Anisopappus,,"chinensis",,"","(L.) Hook. & Arn.",Accepted,,M,TICA,4CC56D7D-A78D-40BB-BCBD-F24E1A9FC2D1,176781-1,"Bot. Beechey Voy.","","196","1837",
+gcc-141693,A,Compositae,,Anisopappus,,"chinensis",,"","A.Chev.",Unresolved,Illegitimate,L,TICA,75634D94-D2D8-4694-8C77-F7F758A39B7F,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","368","1920",
+gcc-55338,A,Compositae,,Anisopappus,,"chinensis",subsp.,"africanus","(Hook.f.) S.Ortiz & Paiva",Accepted,,L,TICA,8637A9D5-4171-48D5-977A-753CB3D1DB67,982262-1,"","","44","1995",
+gcc-37300,A,Compositae,,Anisopappus,,"chinensis",var.,"buchwaldii","(O.Hoffm.) ""S.Ortiz, Paiva & Rodr.Oubiña""",Accepted,,L,TICA,BBC0BB9F-D7A8-49D2-A2A7-451F30640344,,"""An. Jard. Bot. Madrid, 54(1): 383 (1996).""","","","",
+gcc-46823,A,Compositae,,Anisopappus,,"chinensis",subsp.,"buchwaldii","(O.Hoffm.) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,334269D3-BF17-4207-890B-56C1B24DA7FD,990343-1,"","","383","1996",gcc-55338
+gcc-66271,A,Compositae,,Anisopappus,,"chinensis",var.,"buchwaldii","(O.Hoffm.) Beentje",Synonym,,L,TICA,465394E4-A8B1-40D9-8D3A-CD6EBA3799ED,,"""in Fl. Trop. E. Afr., Compos.(2): 344 (2002)""","","344","2002",gcc-55338
+gcc-42988,A,Compositae,,Anisopappus,,"chinensis",subsp.,"chinensis","",Synonym,,L,TICA,50D759B5-F1CC-4124-9C09-4F9DB54C93F6,,"","","","",gcc-139237
+gcc-56453,A,Compositae,,Anisopappus,,"chinensis",var.,"chinensis","",Synonym,,L,TICA,32275107-E9D2-410F-A62C-7EB0D55D4798,,"","","","",gcc-139237
+gcc-38393,A,Compositae,,Anisopappus,,"chinensis",var.,"dentatus","(DC.) ""S.Ortiz, Paiva & Rodr.Oubiña""",Accepted,,L,TICA,8CAAC63C-2B3F-48E2-AA79-473CE07DD90B,990345-1,"","","385","1996",
+gcc-49955,A,Compositae,,Anisopappus,,"chinensis",subsp.,"lobatus","(Wild) S.Ortiz & Paiva",Accepted,,L,TICA,05CAF992-BAE7-46C4-B727-5C9DC51F39A5,982263-1,"","","46","1995",
+gcc-51988,A,Compositae,,Anisopappus,,"chinensis",var.,"macrocephala","(Humbert) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,3FEA66CF-559A-4595-BAC3-606F2488C6C8,,"","","","1996",gcc-37300
+gcc-72631,A,Compositae,,Anisopappus,,"chinensis",subsp.,"oliveranus","(Wild) ""S.Ortiz, Paiva & Rodr.Oubiña""",Accepted,,L,TICA,5ED7BE4D-6A67-4186-9430-FF7A125B6425,,"","","385","1996",
+gcc-61671,A,Compositae,,Anisopappus,,"chinensis",subsp.,"paucidentatus","(Wild) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,5FB5F791-167E-4989-8BC7-A891B2C2E722,990347-1,"","","386","1996",gcc-103072
+gcc-67608,A,Compositae,,Anisopappus,,"chinensis",var.,"rupestris","(DC.) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,868840B4-6DFC-45DD-A027-D88A461FE2CA,990342-1,"","","383","1996",gcc-38393
+gcc-60549,A,Compositae,,Anisopappus,,"chinensis",subsp.,"scrophulariifolius","(Baker) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,E91495F9-8BFD-49A0-85FA-9F206A0E87FF,990348-1,"","","386","1996",gcc-132583
+gcc-85908,A,Compositae,,Anisopappus,,"corymbosus",,"","Wild",Accepted,,M,TICA,4703C639-B596-437E-8791-79BE12B5BA60,176782-1,"","","61","1964",
+gcc-126764,A,Compositae,,Anisopappus,,"dalzielii",,"","Hutch.",Synonym,,M,TICA,022CDEEB-1EF5-4C3D-833B-D60B5FDC5E5A,176783-1,"","","156","1931",gcc-139237
+gcc-17887,A,Compositae,,Anisopappus,,"davyi",,"","S.Moore",Accepted,,M,TICA,BCB8893F-7FFD-4523-B0F3-210AB9DA62A7,176784-1,"","","275","1925",
+gcc-145836,A,Compositae,,Anisopappus,,"davyi",subsp.,"davyi","",Synonym,,L,TICA,490602A6-9F5C-4F51-BDAE-0BBA9FBF43DD,,"","","","",gcc-17887
+gcc-152656,A,Compositae,,Anisopappus,,"davyi",var.,"davyi","",Synonym,,L,TICA,24CAC647-A7AB-4F17-83E8-9E22CC6EFF3D,,"","","","",gcc-17887
+gcc-14831,A,Compositae,,Anisopappus,,"davyi",var.,"pumilus","(Hiern) Wild",Synonym,,L,TICA,8616787D-9EA7-4E3E-8AE3-1B7C700D080C,,"","","","",gcc-27697
+gcc-58732,A,Compositae,,Anisopappus,,"davyi",var.,"pumilus","(Hiern) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,974950B8-2BBD-4503-B1DA-90EB010F09E5,990350-1,"","","387","1996",gcc-27697
+gcc-60237,A,Compositae,,Anisopappus,,"davyi",subsp.,"pumilus","(Hiern) ""S.Ortiz, Paiva & Rodr.Oubiña""",Synonym,,L,TICA,A7259082-A331-40F5-9FC1-9CB817121E4A,990349-1,"","","386","1996",gcc-27697
+gcc-118502,A,Compositae,,Anisopappus,,"dentatus",,"","(DC.) Wild",Accepted,,M,TICA,22356A1C-7633-48D9-A884-C31E36C38204,176785-1,"","","63","1964",
+gcc-30165,A,Compositae,,Anisopappus,,"dentatus",subsp.,"dentatus","",Synonym,,L,TICA,C3D26D7C-4A64-403F-9FBC-37D48B0CE2CD,,"","","","",gcc-38393
+gcc-65887,A,Compositae,,Anisopappus,,"dentatus",subsp.,"lobatus","Wild",Synonym,,L,TICA,C5F63CEC-D1BB-4C63-AD95-CA6DD38BF726,,"Kirkia 4: 64 (1964)","","64","1964",gcc-49955
+gcc-84883,A,Compositae,,Anisopappus,,"discolor",,"","Wild",Accepted,,M,TICA,C6E9B8BD-55AD-4AF0-BDF6-77761D920A68,176786-1,"","","62","1964",
+gcc-49411,A,Compositae,,Anisopappus,,"exellii",,"","Wild",Accepted,,M,TICA,08BF5C99-6085-4F09-AF07-5B89FF7FA388,176787-1,"","","57","1964",
+gcc-33247,A,Compositae,,Anisopappus,,"flexuosus",,"","(Hutch.) Brenan",Synonym,,M,TICA,EECFFF46-ACA1-4921-A2E8-3DA877C88159,176788-1,"","","478","1954",gcc-37061
+gcc-123272,A,Compositae,,Anisopappus,,"fruticosus",,"","S.Ortiz & Paiva",Accepted,,M,TICA,40B1424F-A476-40AD-9948-CDEA0531810D,,"","","","2001",
+gcc-110226,A,Compositae,,Anisopappus,,"gracilis",,"","O.Hoffm.",Synonym,,M,TICA,5047FE23-9BE9-4592-AC8F-B0653E35D6CB,176789-1,"","","416","1903",gcc-139237
+gcc-121071,A,Compositae,,Anisopappus,,"grangeoides",,"","(Vatke & Höpfner ex Klatt) Merxm.",Accepted,,M,TICA,F493444B-C0D0-48FF-8A7C-C8FD590E1CF7,,"","","415","1954",
+gcc-8859,A,Compositae,,Anisopappus,,"hoffmannianus",,"","Hutch.",Synonym,,M,TICA,DBB88C6B-2E7F-45DE-87AC-10961345E3C3,176791-1,"","","498","1946",gcc-139237
+gcc-47248,A,Compositae,,Anisopappus,,"holstii",,"","(O.Hoffm.) Wild",Accepted,,M,TICA,5E4E234A-34D2-4116-81E5-5783EEFEDB29,176792-1,"","","69","1964",
+gcc-86480,A,Compositae,,Anisopappus,,"inuloides",,"","Hutch. & B.L.Burtt",Synonym,,M,TICA,C5B2852D-D79F-4332-B523-7B044D73CB78,176793-1,"","","41","1932",gcc-37300
+gcc-43650,A,Compositae,,Anisopappus,,"iodotrichus",,"","Brenan",Synonym,,M,TICA,B956D725-A65F-4709-8919-50E554991A65,176794-1,"","","477","1954",gcc-37300
+gcc-142093,A,Compositae,,Anisopappus,,"junodii",,"","Hutch.",Accepted,,M,TICA,AE1C46EC-4B01-497C-B065-F8E31DE4CA77,176795-1,"","","249","1906",
+gcc-37061,A,Compositae,,Anisopappus,,"kirkii",,"","(Oliv.) Brenan",Accepted,,M,TICA,1452D3E8-DD5E-4121-A5EB-44AD05CE6C9C,176796-1,"","","478","1954",
+gcc-141143,A,Compositae,,Anisopappus,,"lastii",,"","(O.Hoffm.) Wild",Synonym,,M,TICA,9728207B-E8FC-409A-9B2E-F6A8F4926869,176797-1,"","","67","1964",gcc-38393
+gcc-58303,A,Compositae,,Anisopappus,,"lastii",subsp.,"lastii","",Synonym,,L,TICA,C29EDCAC-3E5B-4C1F-8482-8D820FAC8F4F,,"","","","",gcc-38393
+gcc-64920,A,Compositae,,Anisopappus,,"lastii",subsp.,"welwitschii","(O.Hoffm.) Wild",Synonym,,L,TICA,A2A7FA3C-922A-4822-BC0A-C239D4185E5B,,"Kirkia 4: 68 (1964)","","68","1964",gcc-37300
+gcc-2010,A,Compositae,,Anisopappus,,"latifolius",,"","(S.Moore) B.L.Burtt",Accepted,,M,TICA,1A89CB8F-6C56-42A2-B4CE-039F37ABD74B,176798-1,"","","294","1979",
+gcc-11418,A,Compositae,,Anisopappus,,"lawalreanus",,"","Lisowski",Accepted,,M,TICA,46B1D50E-CE84-48D6-886A-1551A628246B,,"","","200","1986",
+gcc-1615,A,Compositae,,Anisopappus,,"lejolyanus",,"","Lisowski",Accepted,,M,TICA,EA38253C-8375-4F8E-8A25-02E5EC76E30F,,"","","370","1986",
+gcc-78021,A,Compositae,,Anisopappus,,"longipes",,"","(Comm. ex Cass.) Wild",Accepted,,M,TICA,CDFD1488-E999-41B9-80A4-6828194E019B,176799-1,"","","65","1964",
+gcc-92829,A,Compositae,,Anisopappus,,"marianus",,"","Lawalrée",Accepted,,M,TICA,E71BB7A8-85D1-4A05-B238-89755A2D69DE,,"","","188","1974",
+gcc-19153,A,Compositae,,Anisopappus,,"oliveranus",,"","(Oliv.) Wild",Synonym,,M,TICA,E6EF9992-9689-4A32-8E82-2362C84CC86A,176801-1,"","","66","1964",gcc-72631
+gcc-88793,A,Compositae,,Anisopappus,,"orbicularis",,"","(Humbert) Wild",Accepted,,M,TICA,EED02022-51E7-455B-B2FA-8043AF85E172,176802-1,"","","65","1964",
+gcc-103072,A,Compositae,,Anisopappus,,"paucidentatus",,"","Wild",Accepted,,M,TICA,FEC7E02F-F240-4209-8A4B-A07A7462A6A1,176803-1,"","","55","1964",
+gcc-124960,A,Compositae,,Anisopappus,,"petitianus",,"","Lisowski",Accepted,,M,TICA,5E5100EE-7F13-48F1-B1E6-D1F0F9C8C90A,,"","","202","1986",
+gcc-42813,A,Compositae,,Anisopappus,,"pinnatifidus",,"","(Klatt) O.Hoffm. ex Hutch.",Accepted,,M,TICA,314D8DF3-6128-4DC4-BF17-4F47FB76A8FB,176804-1,"","","115","1917",
+gcc-85571,A,Compositae,,Anisopappus,,"pseudopinnatifidus",,"","S.Ortiz & Paiva",Accepted,,M,TICA,EDEA0783-6205-4B4F-8477-78F77CF58676,982261-1,"","","40","1995",
+gcc-27697,A,Compositae,,Anisopappus,,"pumilus",,"","(Hiern) Wild",Accepted,,M,TICA,CAAC2B58-CA65-48F9-9B98-3331E678EAEA,176805-1,"","","65","1964",
+gcc-151047,A,Compositae,,Anisopappus,,"pumilus",var.,"pumilus","",Synonym,,L,TICA,7323E972-615D-46F5-A669-7C1A4B3063E3,,"","","","",gcc-27697
+gcc-152858,A,Compositae,,Anisopappus,,"pumilus",subsp.,"pumilus","",Synonym,,L,TICA,B999D333-BF7E-44E2-AF0E-A1E2391ED630,,"","","","",gcc-27697
+gcc-105236,A,Compositae,,Anisopappus,,"rhombifolius",,"","Wild",Accepted,,M,TICA,37FA4B43-C5EC-4B1E-BE0B-A52BAE0671A0,176806-1,"","","69","1964",
+gcc-19988,A,Compositae,,Anisopappus,,"robynsianus",,"","Lisowski",Accepted,,M,TICA,4D042EEA-E03E-4CD2-AAE1-24F3CA991D3B,,"","","369","1986",
+gcc-125532,A,Compositae,,Anisopappus,,"rogersii",,"","G.Taylor",Synonym,,M,TICA,09C29CC7-7C49-457D-8DD1-D34529F3D694,176807-1,"","","165","1933",gcc-55338
+gcc-117979,A,Compositae,,Anisopappus,,"salviifolius",,"","(DC.) Wild",Accepted,,M,TICA,3E19B74E-AC10-4D52-B22D-C1DF0C9F7238,176808-1,"","","66","1964",
+gcc-132583,A,Compositae,,Anisopappus,,"scrophulariifolius",,"","(Baker) Wild",Accepted,,M,TICA,3FDF88F5-6C8B-4A7C-8631-E39769511CB6,176809-1,"","","65","1964",
+gcc-106478,A,Compositae,,Anisopappus,,"smutsii",,"","Hutch.",Accepted,,M,TICA,29DFDEC5-D73B-48C7-89E0-A7E14A33C324,176810-1,"","","425","1933",
+gcc-41359,A,Compositae,,Anisopappus,,"subdiscoideus",,"","O.Hoffm.",Synonym,,M,TICA,DBB895A0-FC5B-489E-BDBE-4C9C072A2A4A,176811-1,"","","416","1903",gcc-139237
+gcc-75592,A,Compositae,,Anisopappus,,"suborbicularis",,"","Hutch. & B.L.Burtt",Synonym,,M,TICA,279BDF5B-6432-419A-BA7B-62C73736262D,176812-1,"","","41","1932",gcc-37300
+tro-2727724,A,Compositae,,Anisopappus,,"sylvatica",,"","(Humbert) Wild",Accepted,,M,TRO,2727724,176813-1,"Kirkia","4: 71","71","1964",
+gcc-130018,A,Compositae,,Anisopappus,,"sylvaticus",,"","(Humbert) Wild",Accepted,,M,TICA,666CCA94-DB5D-4B3C-A708-DD99E2A66040,176813-1,"","","71","1964",
+gcc-952,A,Compositae,,Anisopappus,,"tenerus",,"","(S.Moore) Brenan",Synonym,,M,TICA,E6D160C0-6391-4308-89FB-01C284917028,176814-1,"","","478","1954",gcc-38393
+gcc-39238,A,Compositae,,Anisopappus,,"triloba",,"","(Klatt) O.Hoffm. ex Merxm.",Synonym,,M,TICA,64197887-E525-48C8-AA91-48D1C563A257,,"","","","",gcc-42813
+gcc-27122,A,Compositae,,Anisopappus,,"upembensis",,"","Lisowski",Accepted,,M,TICA,AA07E277-3D49-4CE5-B26F-322869C587FF,,"","","371","1986",

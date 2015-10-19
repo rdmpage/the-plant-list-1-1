@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-423990,A,Poaceae,,Melocalamus,,"arrectus",,"","T.P.Yi",Accepted,,H,WCSP,423990,935790-1,"Acta Bot. Yunnan.","10: 440","","1988",
+kew-463572,A,Poaceae,,Melocalamus,,"blaoensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463572,77107324-1,"Blumea","55: 131","","2010",
+kew-423991,A,Poaceae,,Melocalamus,,"compactiflorus",,"","(Kurz) Benth.",Accepted,,H,WCSP,423991,408268-1,"J. Linn. Soc., Bot.","19: 134","","1881",
+tro-50294498,A,Poaceae,,Melocalamus,,"compactiflorus",var.,"compactiflorus","",Synonym,,L,TRO,50294498,,"","","","",kew-423991
+kew-423992,A,Poaceae,,Melocalamus,,"compactiflorus",var.,"fimbriatus","(Hsueh & C.M.Hui) D.Z.Li & Z.H.Guo",Synonym,,L,WCSP,423992,1020963-1,"Acta Bot. Yunnan.","23: 178","","2001",kew-423991
+kew-463578,A,Poaceae,,Melocalamus,,"cucphuongensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463578,77107323-1,"Blumea","55: 131","","2010",
+kew-423993,A,Poaceae,,Melocalamus,,"elevatissimus",,"","Hsueh & T.P.Yi",Accepted,,H,WCSP,423993,902551-1,"J. Bamboo Res.","2(1): 28","","1983",
+kew-423994,A,Poaceae,,Melocalamus,,"fimbriatus",,"","Hsueh & C.M.Hui",Synonym,,H,WCSP,423994,961122-1,"Acta Phytotax. Sin.","30: 167","","1992",kew-423991
+kew-423995,A,Poaceae,,Melocalamus,,"gracilis",,"","R.B.Majumdar",Synonym,,H,WCSP,423995,957977-1,"Fl. Ind. Enumerat. - Monocot.","278","","1989",kew-423999
+kew-423996,A,Poaceae,,Melocalamus,,"gracilis",,"","W.T.Lin",Unresolved,,L,WCSP,423996,1011001-1,"J. S. China Agric. Univ.","14(3): 110","","1993",
+kew-423997,A,Poaceae,,Melocalamus,,"indicus",,"","R.B.Majumdar",Accepted,,H,WCSP,423997,929075-1,"Bull. Bot. Surv. India","25: 236","","1983 publ. 1985",
+kew-463571,A,Poaceae,,Melocalamus,,"kbangensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463571,77107325-1,"Blumea","55: 135","","2010",
+kew-423998,A,Poaceae,,Melocalamus,,"macclellandii",,"","(Munro) H.B.Naithani",Synonym,,H,WCSP,423998,1013724-1,"Indian Forester","125: 1135","","1999",kew-409754
+kew-423999,A,Poaceae,,Melocalamus,,"mastersii",,"","(Munro) R.B.Majumdar",Accepted,,H,WCSP,423999,962112-1,"Fl. Ind. Enumerat. - Monocot.","278","","1989",
+kew-424000,A,Poaceae,,Melocalamus,,"ningmingensis",,"","Ohrnb.",Unresolved,,L,WCSP,424000,999671-1,"Bamboos World Intro.","4: 19","","1997",
+kew-463570,A,Poaceae,,Melocalamus,,"pacoensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463570,77107326-1,"Blumea","55: 135","","2010",
+kew-424001,A,Poaceae,,Melocalamus,,"scandens",,"","Hsueh & C.M.Hui",Accepted,,H,WCSP,424001,961121-1,"Acta Phytotax. Sin.","30: 166","","1992",
+kew-463569,A,Poaceae,,Melocalamus,,"truongsonensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463569,77107327-1,"Blumea","55: 135","","2010",
+kew-463568,A,Poaceae,,Melocalamus,,"yenbaiensis",,"","H.N.Nguyen & V.T.Tran",Unresolved,,L,WCSP,463568,77107328-1,"Blumea","55: 138","","2010",
+tro-50315848,A,Poaceae,,Melocalamus,,"yunnanensis",,"","(T.H. Wen) T.P. Yi",Synonym,,M,TRO,50315848,,"J. Sichuan For. Sci. & Techn.","28(3): 18","18","2007",kew-425717

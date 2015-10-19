@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-98986,A,Compositae,,Gymnopsis,,"acuminata",,"","S.F.Blake ex B.L.Rob.",Synonym,,M,TICA,BEE85780-F2FD-41DA-AC99-975A2BC52D54,,"Proc. Amer. Acad. Arts 49: 505. 1913.","","505","1913",gcc-87676
+gcc-308,A,Compositae,,Gymnopsis,,"clausseni",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,8DAAB46C-F4C1-4CFB-8E8E-008E849477BD,,"","","183","1884",gcc-10138
+gcc-11472,A,Compositae,,Gymnopsis,,"connata",,"","(Spreng.) Steud.",Synonym,,M,TICA,19D37C6E-B044-40B2-8A30-156A3A1EC2D9,211006-1,"","","713","1840",gcc-108848
+gcc-142885,A,Compositae,,Gymnopsis,,"costaricensis",,"","Benth. ex Benth.",Synonym,,M,TICA,9F29898A-5D1C-4AEE-9094-FAAA6A35D264,,"Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kjobenhavn 1852(5-7):","","90","1853",gcc-117295
+gcc-118084,A,Compositae,,Gymnopsis,,"dentata",,"","(La Llave ex La Llave) DC.",Synonym,,M,TICA,5C6297CB-9C6F-46DD-9297-C21E830E7B17,211008-1,"Prodr. 5","","561","1836",gcc-87676
+gcc-108521,A,Compositae,,Gymnopsis,,"divaricata",,"","Benth.",Synonym,,M,TICA,E5A2476E-55D8-4DAE-A8D0-AC767163225D,211009-1,"The botany of the voyage of H.M.S. Sulphur","","116","1845",gcc-23087
+gcc-34334,A,Compositae,,Gymnopsis,,"euxemioides",,"","DC.",Synonym,Illegitimate,M,TICA,3ADD6917-B1E4-47D1-A4AB-3FA1813C73B9,211010-1,"","","562","1836",gcc-31245
+gcc-109855,A,Compositae,,Gymnopsis,,"fruticosa",,"","Gardner",Synonym,,L,TICA,E2442082-1254-46CA-95F1-AF9FB2D54952,304113-2,"London J. Bot. 7: 291 (1848).","","291","1848",gcc-126090
+gcc-29822,A,Compositae,,Gymnopsis,,"glaberrima",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,1A82A60A-E6B1-4834-8FBB-3725AA2E566D,,"","","246","1884",gcc-127935
+gcc-134136,A,Compositae,,Gymnopsis,,"helianthoides",,"","DC.",Synonym,,M,TICA,0B317141-B110-4BA3-A440-E7182B9FE59E,211013-1,"Prodromus Systematis Naturalis Regni Vegetabilis 5:","","562","1836",gcc-13920
+gcc-49104,A,Compositae,,Gymnopsis,,"hondensis",,"","(Kunth) DC.",Synonym,,M,TICA,EB7DCFCF-02FD-42DB-A4C6-5AF1D41B829B,211014-1,"","","562","1836",gcc-122622
+gcc-98713,A,Compositae,,Gymnopsis,,"kunthiana",,"","Gardner",Synonym,,M,TICA,938A4B7C-31DA-4CE9-A913-96B4E5DEC314,211015-1,"London J. Bot. 7","","292","1848",gcc-47400
+gcc-13121,A,Compositae,,Gymnopsis,,"mandonii",,"","Sch.Bip.",Unresolved,,L,TICA,4B25C8BB-7CED-497E-B567-1870C748C51C,,"""Linnaea 34: 528, nomen. 1866""","","""528, nomen""","",
+gcc-109837,A,Compositae,,Gymnopsis,,"microcephala",,"","Gardner",Synonym,,M,TICA,593BDF2E-6A75-4A10-93A3-AF944952B56B,211018-1,"London J. Bot. 7","","292","1848",gcc-33587
+gcc-143132,A,Compositae,,Gymnopsis,,"microcephala",,"","(Less.) Steud.",Synonym,,M,TICA,508B578A-FF5B-4E82-A233-FB32DC651B9A,211017-1,"","","713","1840",gcc-117295
+gcc-50728,A,Compositae,,Gymnopsis,,"microthamna",,"","Sch.Bip. ex Baker",Synonym,,L,TICA,DC7BFC89-82D2-4CF4-BC6E-5E1341539936,,"","","204","1884",gcc-126090
+gcc-106389,A,Compositae,,Gymnopsis,,"pohlii",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,E6B9D1F0-9C40-4A2D-B3AD-A7AB39318FCC,,"","","201","1884",gcc-117219
+gcc-120236,A,Compositae,,Gymnopsis,,"rudbeckioides",,"","(Kunth) DC.",Synonym,,M,TICA,41488ABC-E592-4B83-ACF9-C708F349C4E2,211021-1,"","","562","1836",gcc-3547
+gcc-77115,A,Compositae,,Gymnopsis,,"schiedeana",,"","DC.",Synonym,,M,TICA,30BC5BA7-EACB-477D-9B5F-66274EBBF5EA,211022-1,"Prodr. 5","","561","1836",gcc-87676
+gcc-84377,A,Compositae,,Gymnopsis,,"tenella",,"","(Kunth) DC.",Synonym,,M,TICA,EFE42A6C-7E07-461A-9607-7672967C750D,211023-1,"","","562","1836",gcc-122622
+gcc-87228,A,Compositae,,Gymnopsis,,"triplinervia",,"","(Kunth) DC.",Synonym,,M,TICA,E99C1497-9F49-4863-A351-7CCCBE0EFC2F,211024-1,"","","562","1836",gcc-24682
+gcc-39874,A,Compositae,,Gymnopsis,,"uniserialis",,"","Hook.",Accepted,,M,TICA,4D637843-F4B3-4AC9-BF3F-4A00B5082190,211025-1,"","","t. 145","1837",
+gcc-101399,A,Compositae,,Gymnopsis,,"verbesinoides",,"","DC.",Synonym,,M,TICA,B8153D62-5C9F-4CCB-940B-9CB1463544BC,115797-2,"Prodr. (DC.) 5: 561","","561","1836",gcc-37013
+gcc-44672,A,Compositae,,Gymnopsis,,"vulcanica",,"","Steetz",Synonym,,M,TICA,21DF3D1D-6FF7-4023-9D6B-52C3A243B582,211027-1,"The Botany of the Voyage of H.M.S. ~Herald~","","157","1854",gcc-117295
+gcc-114903,A,Compositae,,Gymnopsis,,"weddellii",,"","Sch.Bip. ex Baker",Synonym,,M,TICA,AD2CDF49-18CB-46DB-8DE3-BAF060ABD8B3,,"","","184","1884",gcc-75648
+gcc-47784,A,Compositae,,Gymnopsis,,"wedelioides",,"","DC.",Synonym,,M,TICA,596A3B3A-95B3-4E68-96B9-5884A3FDF32C,211029-1,"","","562","1836",gcc-37013

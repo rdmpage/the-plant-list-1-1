@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-49624,A,Compositae,,Lagurostemon,,"liatroides",,"","Fisch. ex Wydler",Unresolved,,L,TICA,C916894F-36B9-41E0-8CE7-5BFAD1AABAFC,228568-1,"Linnaea 5: 427. 1830","","427","1830",
+tro-50057542,_,,,Lagurostemon,,"pygmaeum",,"","Cass.",Unresolved,,L,TRO,50057542,,"Dict. Sci. Nat. (ed. 2)","53: 467","467","1828",
+gcc-137222,A,Compositae,,Lagurostemon,,"pygmaeus",,"","(Jacq.) Cass.",Synonym,,L,TICA,D9FADBC2-AFB4-4E39-B005-EDFBC0D447BE,,"","","","1828",gcc-82209
+gcc-147733,A,Compositae,,Lagurostemon,,"pygmaeus",var.,"pygmaeus","",Synonym,,L,TICA,334DF333-5C73-4BFF-8738-341751B54029,,"","","","",gcc-82209
+gcc-157202,A,Compositae,,Lagurostemon,,"pygmaeus",var.,"schanginiana","Wydl.",Synonym,,L,TICA,D510AFF6-B04B-4702-BED3-FCFB5AA5E521,,"","","","",gcc-154730

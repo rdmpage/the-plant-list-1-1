@@ -1,0 +1,92 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-51659,A,Compositae,,Geigeria,,"acaulis",,"","(Sch.Bip.) Benth. & Hook.f. ex Oliv. & Hiern",Accepted,,M,TICA,964888DE-1DF7-4D55-AE6A-5FCDA04B08E1,,"Oesterr. Bot. Z. 25","","327","1875",
+gcc-131677,A,Compositae,,Geigeria,,"acicularis",,"","O.Hoffm.",Accepted,,M,TICA,68BEE2F5-FFEF-4164-9A82-E1712A538D5E,,"Bol. Soc. Brot. 10","","","1892",
+gcc-75388,A,Compositae,,Geigeria,,"affinis",,"","S.Moore",Accepted,,M,TICA,1EAB8323-E4B1-4251-BF16-6253B4EDE56F,208745-1,"","","275","1925",
+gcc-144724,A,Compositae,,Geigeria,,"africana",,"","Griess.",Synonym,,M,TICA,3676D8B9-09E7-434F-B395-FEC19108DBC9,,"Linnaea 5","","411","1830",gcc-26988
+gcc-53301,A,Compositae,,Geigeria,,"africana",subsp.,"africana","",Synonym,,L,TICA,53DB3C41-0510-4841-BE4D-6529AF08D8E7,,"""Linnaea, v. (1830) 411""","","","",gcc-26988
+gcc-58251,A,Compositae,,Geigeria,,"africana",subsp.,"filifolia","(Mattf.) Merxm.",Synonym,,L,TICA,879CF413-ED08-42EA-A449-8D13041141C3,,"Mitt. Bot. Staatssamml. München 1: 287 (1953)","","287","1953",gcc-32541
+gcc-64449,A,Compositae,,Geigeria,,"africana",subsp.,"ornativa","(O.Hoffm.) Merxm.",Synonym,,L,TICA,A9E66009-AA72-4E69-9D9A-BEA39BFEF5EF,,"Mitt. Bot. München 1: 288 (1953)","","","",gcc-26988
+gcc-53831,A,Compositae,,Geigeria,,"africana",subsp.,"otaviensis","(Mattf.) Merxm.",Synonym,,L,TICA,8A71BC15-A17E-45BF-A5F4-691CD120ADDA,,"Mitt. Bot. Staatssamml. München 1: 290 (1953)","","290","1953",gcc-5238
+gcc-143024,A,Compositae,,Geigeria,,"alata",,"","Benth. & Hook.f. ex Oliv. & Hiern",Accepted,,M,TICA,4F905875-3245-4CAB-ABC2-FAF4941858A0,208747-1,"","","368","1877",
+gcc-124570,A,Compositae,,Geigeria,,"angolensis",,"","O.Hoffm.",Accepted,,M,TICA,58FACB93-E892-42A7-A161-D10639ADE391,,"Bol. Soc. Brot. 10","","","1892",
+gcc-53352,A,Compositae,,Geigeria,,"angolensis",subsp.,"angolensis","",Synonym,,L,TICA,00884F9B-4A28-4BF7-9500-658F49AA7D30,,"","","","",gcc-124570
+gcc-67466,A,Compositae,,Geigeria,,"angolensis",subsp.,"pteropoda","(S.Moore) Merxm.",Accepted,,L,TICA,63955911-9225-4FFF-8B24-D771198B82D6,,"Mitt. Bot. Staatssamml. München 1: 262 (1953)","","262","1953",
+gcc-121739,A,Compositae,,Geigeria,,"appendiculata",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,CFAC6B59-F759-4B38-B513-CA726FD1EFAD,,"","","","1911",gcc-26988
+gcc-143225,A,Compositae,,Geigeria,,"arenicola",,"","Muschl. ex Dinter",Synonym,,M,TICA,9320CA41-CCAD-4342-A418-FB6C85BD7FA1,,"","","","",gcc-113605
+gcc-78071,A,Compositae,,Geigeria,,"aspalathoides",,"","S.Moore",Accepted,,M,TICA,1132A73E-6871-43B8-814E-6847F30A1215,208750-1,"","","276","1925",
+gcc-147043,A,Compositae,,Geigeria,,"aspalathoides",var.,"aspalathoides","",Synonym,,L,TICA,465FB914-EB1A-4672-865F-2551567EDA3B,,"","","","",gcc-78071
+gcc-62152,A,Compositae,,Geigeria,,"aspalathoides",subsp.,"aspalathoides","",Synonym,,L,TICA,51A23A6A-2323-44FA-AAA5-AC62482D8B6D,,"","","","",gcc-78071
+gcc-27027,A,Compositae,,Geigeria,,"aspera",,"","Harv.",Accepted,,M,TICA,F5B97A50-4FA3-4C01-A27D-31F400E27486,,"","","126","1862",
+gcc-66651,A,Compositae,,Geigeria,,"aspera",var.,"aspera","",Synonym,,L,TICA,767BA5A6-BDF9-48D6-9892-D067F270B9CE,,"","","","",gcc-27027
+gcc-17011,A,Compositae,,Geigeria,,"aspera",var.,"rivularis","(J.M.Wood & M.S.Evans) Merxm.",Accepted,,L,TICA,B81CB617-5E98-4371-8C8A-1F702173AD7E,,"Mitt. Bot. Staatssamml. München 1: 309 (1953)","","309","1953",
+gcc-24807,A,Compositae,,Geigeria,,"brachycephala",,"","Muschl.",Accepted,,M,TICA,7275CFE2-CBE7-4AA2-9A86-2DD9C8F37BFB,,"","","","1911",
+gcc-52418,A,Compositae,,Geigeria,,"brevifolia",,"","(DC.) Harv.",Accepted,,M,TICA,A3A5929F-0BBD-48B3-831B-612BB7E34BA2,,"","","126","1862",
+gcc-133289,A,Compositae,,Geigeria,,"burkei",,"","Harv.",Accepted,,M,TICA,4E7282FD-A841-46DF-8549-E52BAA7B6CF9,,"","","126","1862",
+gcc-58969,A,Compositae,,Geigeria,,"burkei",subsp.,"burkei","",Synonym,,L,TICA,FF5C86D2-7D9D-4B99-BAB3-92C00BF7D780,,"","","","",gcc-133289
+gcc-18073,A,Compositae,,Geigeria,,"burkei",subsp.,"diffusa","(Harv.) Merxm.",Accepted,,L,TICA,C6EA5573-8642-49F2-B7F3-2163131E65FD,,"Mitt. Bot. Staatssamml. München 1: 304 (1953)","","304","1953",
+gcc-64598,A,Compositae,,Geigeria,,"burkei",var.,"diffusa","Harv.",Synonym,,L,TICA,47D8C46A-7678-4A79-922B-BFB3BA632A4A,,"Fl. Cap. 3: 126 (1865)","","126","1865",gcc-18073
+gcc-61032,A,Compositae,,Geigeria,,"burkei",var.,"intermedia","(S.Moore) Merxm.",Accepted,,L,TICA,AEF64CD2-9431-4747-97BC-A33F38A1F413,,"Mitt. Bot. Staatssamml. München 1: 302 (1953)","","302","1953",
+gcc-33459,A,Compositae,,Geigeria,,"burkei",var.,"valida","(Merxm.) S.Ortiz & Rodr.Oubiña",Synonym,,L,TICA,B6042BC4-744B-4C4C-93D5-3E0C02A83CC6,77065610-1,"","","331","2005",gcc-65124
+gcc-65124,A,Compositae,,Geigeria,,"burkei",subsp.,"valida","Merxm.",Accepted,,L,TICA,82973C64-5E9B-4127-A297-C414C374B619,77065609-1,"","","305","1953",
+gcc-53679,A,Compositae,,Geigeria,,"burkei",var.,"zeyheri","(Harv.) Merxm.",Accepted,,L,TICA,0A422548-816D-42A8-8371-680B55977DDF,,"Mitt. Bot. Staatssamml. München 1: 301 (1953)","","301","1953",
+gcc-132108,A,Compositae,,Geigeria,,"chenopodiifolia",,"","Mattf.",Synonym,,M,TICA,E2C332BB-5A98-42C5-A3AF-E277F2101C9A,208755-1,"Repert. Spec. Nov. Regni Veg. 17","","394","1921",gcc-79745
+gcc-132730,A,Compositae,,Geigeria,,"decurrens",,"","""S.Ortiz, Rodr.Oubiña & Buján""",Accepted,,M,TICA,0DA64A6B-6022-41EA-92FF-E3EAB14B6943,,"","","198","2000",
+gcc-136272,A,Compositae,,Geigeria,,"dinteri",,"","Muschl.",Synonym,,M,TICA,BC8B2B9B-425E-48E8-8AA8-EBD87920DBDE,,"","","","1911",gcc-103591
+gcc-91431,A,Compositae,,Geigeria,,"eenii",,"","S.Moore",Synonym,,M,TICA,E848D6BC-49B0-45F1-9DA7-86639D0A8245,,"","","","1899",gcc-26988
+gcc-86781,A,Compositae,,Geigeria,,"elongata",,"","Alston",Accepted,,M,TICA,AFBEB14E-D2CB-4CCF-A3A4-7BB40DBC04C0,208758-1,"","","364","1925",
+gcc-114573,A,Compositae,,Geigeria,,"englerana",,"","Muschl.",Accepted,,M,TICA,6E5E0C58-F281-499E-87CC-BA2AC34419D0,,"Bot. Jahrb. Syst. 46: 115 (1911)","","115","1911",
+gcc-148072,A,Compositae,,Geigeria,,"englerana",var.,"englerana","",Synonym,,L,TICA,4C7E04EC-EF81-4EB9-8687-3B0F61D98557,,"","","","",gcc-114573
+gcc-62934,A,Compositae,,Geigeria,,"englerana",var.,"pubescens","Dinter ex Merxm.",Synonym,,L,TICA,68F384F9-9894-44D1-BC04-B2D04C69C304,,"","","","",gcc-5238
+gcc-96240,A,Compositae,,Geigeria,,"engleriaha",,"","Muschl.",Unresolved,,L,TICA,62C7820C-D4F1-43EE-B9A7-9113DA375A82,208759-1,"Bot. Jahrb. Syst. xlvi. 115 (1911).","","xlvi. 115","1911",
+gcc-32541,A,Compositae,,Geigeria,,"filifolia",,"","Mattf.",Accepted,,M,TICA,7BC6E706-246F-4798-8AF3-3C53CDF61293,208760-1,"Notizbl. Bot. Gart. Berlin-Dahlem 8","","178","1922",
+gcc-21326,A,Compositae,,Geigeria,,"foermeriana",,"","Muschl.",Synonym,,M,TICA,D84E793F-515B-49BB-ADD4-276925025825,,"","","","1911",gcc-103591
+gcc-141750,A,Compositae,,Geigeria,,"foliosa",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,7B1E65FC-3B00-41F2-B37D-F81ABC93C053,,"","","","1911",gcc-103591
+gcc-103918,A,Compositae,,Geigeria,,"helmsiae",,"","F.M.Bailey",Unresolved,,L,TICA,E50595AE-354D-43AA-9956-A255E9F8E68C,208763-1,"Queensl. Fl. 206.","","206","",
+gcc-11182,A,Compositae,,Geigeria,,"hoffmanniana",,"","Hiern",Accepted,,M,TICA,BB74BB0C-7876-4F60-8C56-14E9169D8100,,"","","572","1898",
+gcc-9548,A,Compositae,,Geigeria,,"hoffmanniana",subsp.,"hoffmanniana","",Synonym,,L,TICA,ED7F4C56-2198-4296-8D52-11D5AED7EA2F,,"","","","",gcc-11182
+gcc-63958,A,Compositae,,Geigeria,,"hoffmanniana",subsp.,"obovata","(S.Moore) Merxm.",Accepted,,L,TICA,C08D02A2-FA80-408F-9F77-BAE70910877E,,"Mitt. Bot. Staatssamml. München 1: 267 (1953)","","267","1953",
+gcc-39443,A,Compositae,,Geigeria,,"intermedia",,"","S.Moore",Synonym,,M,TICA,0603FC43-5020-4E2C-A658-493372DA2E17,,"","","","1902",gcc-61032
+gcc-26892,A,Compositae,,Geigeria,,"lata",,"","(Hochst. & Steud.) Oliv. & Hiern",Accepted,,M,TICA,0C53E346-2D5C-456E-858D-31B8AB546CEB,,"","","","",
+gcc-6660,A,Compositae,,Geigeria,,"linosyroides",,"","Welw. ex Hiern",Accepted,,M,TICA,D12626DA-6EB4-40F7-8549-0C5C9DDDEDCF,,"","","570","1898",
+gcc-132204,A,Compositae,,Geigeria,,"luederitziana",,"","O.Hoffm.",Synonym,,M,TICA,2A1667E0-FCF3-49BC-9D19-E2ABDDD21267,,"","","","1893",gcc-26988
+gcc-124548,A,Compositae,,Geigeria,,"macdougalii",,"","S.Moore",Synonym,,M,TICA,3544D5C0-B4D4-4A6C-AA3B-D0F66A95384B,,"","","","1913",gcc-143024
+gcc-106958,A,Compositae,,Geigeria,,"mendoncae",,"","Merxm.",Accepted,,M,TICA,D23E712F-9ACF-41BF-8E57-A8FFF324A4B6,208769-1,"","","265","1953",
+gcc-83459,A,Compositae,,Geigeria,,"monocephala",,"","Hutch.",Synonym,,M,TICA,73B8F0D6-066A-485C-A86F-745A2046CAF0,,"","","","1917",gcc-24807
+gcc-118958,A,Compositae,,Geigeria,,"muschleriana",,"","Dinter ex Merxm.",Synonym,,M,TICA,7A887399-685B-44D7-B6A1-C429A703E280,,"","","","",gcc-79745
+gcc-94710,A,Compositae,,Geigeria,,"namaquensis",,"","Hutch.",Synonym,,M,TICA,031F06CB-2B1E-4C7E-A8A9-8DAACA109970,208771-1,"","","384","1917",gcc-14805
+gcc-103611,A,Compositae,,Geigeria,,"natalensis",,"","J.M.Wood & M.S.Evans",Synonym,,M,TICA,D8EBCFEF-6617-440D-8584-A1A882C9D8BF,208772-1,"Natal Colon. Herb. Annual Rep. 1900","","11","1901",gcc-18073
+gcc-8042,A,Compositae,,Geigeria,,"nianganensis",,"","Dinter ex Merxm.",Accepted,,M,TICA,D60D853B-0DC4-44E0-AA02-0EF6FD2AD5E4,208773-1,"","","294","1953",
+gcc-110481,A,Compositae,,Geigeria,,"nonikamensis",,"","Heering",Synonym,,M,TICA,CE375369-7832-4D85-ABA2-B0FB9A49628D,208774-1,"","","35","1911",gcc-26988
+gcc-6328,A,Compositae,,Geigeria,,"obovata",,"","S.Moore",Synonym,,M,TICA,C82E3CA2-C211-4010-B406-0BC89C77828D,208775-1,"","","277","1925",gcc-63958
+gcc-113605,A,Compositae,,Geigeria,,"obtusifolia",,"","L.Bolus",Accepted,,M,TICA,21CCB05A-6D38-4F13-A8A4-B7F7D72FC4F4,,"","","","1915",
+gcc-19292,A,Compositae,,Geigeria,,"odontoptera",,"","O.Hoffm.",Accepted,,M,TICA,A3BCD09C-5D8E-435D-9732-23A846C740A1,,"","","","1893",
+gcc-26988,A,Compositae,,Geigeria,,"ornativa",,"","O.Hoffm.",Accepted,,M,TICA,1D36F644-DD4C-42F4-832C-31E33419EA38,,"","","","1890",
+gcc-146674,A,Compositae,,Geigeria,,"ornativa",var.,"ornativa","",Synonym,,L,TICA,B9107813-93B6-4C63-A403-1DAF8CBFB516,,"","","","",gcc-26988
+gcc-71635,A,Compositae,,Geigeria,,"ornativa",subsp.,"ornativa","",Synonym,,L,TICA,2B080919-45EA-4602-8167-F796A7E0A3F4,,"""Engl. et Prantl, Naturl. Pflanzenfam. iv. 5 (1890) 208; et in Bull. Herb.Boiss. i.(1893) 82""","","","",gcc-26988
+gcc-63998,A,Compositae,,Geigeria,,"ornativa",subsp.,"rhodesiana","(S.Moore) S.Ortiz & Rodr.Oubiña",Accepted,,L,TICA,21228426-43DF-421E-BAF6-BB289A0B3685,77065607-1,"","","329","2005",
+gcc-5238,A,Compositae,,Geigeria,,"otaviensis",,"","(Merxm.) Merxm.",Accepted,,M,TICA,A847D15D-FC14-4B47-B729-09C84926F5EE,208779-1,"","","486","1967",
+gcc-86910,A,Compositae,,Geigeria,,"passerinoides",,"","(L'Hér.) Harv.",Synonym,,M,TICA,110258C9-B71C-4BD1-BEF9-7C03596CE257,,"","","125","1862",gcc-32541
+gcc-96839,A,Compositae,,Geigeria,,"pearsonii",,"","L.Bolus",Synonym,,M,TICA,30FA3CA6-A304-4BEA-AF9B-9274F41BE326,,"","","","1915",gcc-24807
+gcc-42966,A,Compositae,,Geigeria,,"pectidea",,"","(DC.) Harv.",Accepted,,M,TICA,C16D88EE-192C-4D1B-AA6C-4F93098B3009,,"","","127","1862",
+gcc-79745,A,Compositae,,Geigeria,,"pilifera",,"","Hutch.",Accepted,,M,TICA,EE074ABA-4DA9-46D3-893C-6C1761F2CDE8,208783-1,"","","6","1920",
+gcc-103591,A,Compositae,,Geigeria,,"plumosa",,"","Muschl.",Accepted,,M,TICA,E7B075EC-0977-4011-B4AB-A19CD143A3B2,,"","","","1911",
+gcc-61056,A,Compositae,,Geigeria,,"plumosa",subsp.,"obtusifolia","(L.Bolus) Merxm.",Synonym,,L,TICA,E5219B66-9338-4CC1-9494-A38A5B2554B2,,"Mitt. Bot. Staatssamml. München 1: 277 (1953)","","277","1953",gcc-113605
+gcc-10425,A,Compositae,,Geigeria,,"plumosa",subsp.,"plumosa","",Synonym,,L,TICA,D82D580C-EC41-4170-8AC8-13746311A11D,,"","","","",gcc-103591
+gcc-48330,A,Compositae,,Geigeria,,"protensa",,"","Harv.",Synonym,,M,TICA,26841E54-7B57-41B5-A8FC-598E226581B6,,"","","125","1862",gcc-18073
+gcc-11934,A,Compositae,,Geigeria,,"pteropoda",,"","S.Moore",Synonym,,M,TICA,BF86A074-1876-4266-90ED-163FB14E84B0,208786-1,"","","276","1925",gcc-67466
+gcc-4888,A,Compositae,,Geigeria,,"pubescens",,"","S.Moore",Synonym,,M,TICA,5C99B319-DC66-4802-A335-091A55AAA503,,"","","","1899",gcc-64653
+gcc-132952,A,Compositae,,Geigeria,,"randii",,"","S.Moore",Synonym,,M,TICA,9822062A-2CA1-4B71-9577-E46C54335D45,208788-1,"","","374","1899",gcc-63998
+gcc-125716,A,Compositae,,Geigeria,,"rhodesiana",,"","S.Moore",Synonym,,M,TICA,609C484C-407E-45C3-AA7B-D3A98F3EAA7B,,"","","","1908",gcc-64653
+gcc-100744,A,Compositae,,Geigeria,,"rhombifolia",,"","Dinter",Synonym,,M,TICA,845F036D-8854-4C2F-A607-9B5341050E5A,208790-1,"Repert. Spec. Nov. Regni Veg. 17","","310","1921",gcc-79745
+gcc-132103,A,Compositae,,Geigeria,,"rigida",,"","O.Hoffm.",Accepted,,M,TICA,5B4468BE-5501-443F-9D3A-E275B7B36BD5,,"","","","1893",
+gcc-2966,A,Compositae,,Geigeria,,"rivularis",,"","J.M.Wood & M.S.Evans",Synonym,,M,TICA,34FF23F7-E4F6-4693-8E80-0581696E5F93,208792-1,"","","","1901",gcc-17011
+gcc-114317,A,Compositae,,Geigeria,,"schinzii",,"","O.Hoffm.",Accepted,,M,TICA,C1A5CBBB-73CF-4CD9-890B-B9905422B428,,"","","","1893",
+gcc-64653,A,Compositae,,Geigeria,,"schinzii",subsp.,"rhodesiana","(S.Moore) Merxm.",Accepted,,L,TICA,4EBBC833-72C7-4F99-ABED-C0212DB6A1D8,,"Mitt. Bot. Staatssamml. München 1: 292 (1953)","","292","1953",
+gcc-473,A,Compositae,,Geigeria,,"schinzii",subsp.,"schinzii","",Synonym,,L,TICA,752801DC-BF6E-47D9-BC90-00E119681D06,,"","","","",gcc-114317
+gcc-28461,A,Compositae,,Geigeria,,"schoenfelderi",,"","Dinter ex Merxm.",Synonym,,M,TICA,B637BF47-A320-4DC9-B1DB-349A67BC1B01,,"","","","",gcc-8042
+gcc-78747,A,Compositae,,Geigeria,,"spinosa",,"","O.Hoffm.",Accepted,,M,TICA,C5E3951D-6C83-4F1F-A275-69DF8CB32CE3,208794-1,"Bol. Soc. Brot. 10","","175","1892",
+gcc-14805,A,Compositae,,Geigeria,,"vigintisquamea",,"","O.Hoffm.",Accepted,,M,TICA,FE7948D9-7B1C-4C72-A483-1B739F39C820,,"","","","1893",
+gcc-32025,A,Compositae,,Geigeria,,"wellmanii",,"","Hutch.",Synonym,,M,TICA,21EAE32B-5F63-41DC-9085-3B4F88C8172C,208796-1,"","","49","1907",gcc-11182
+gcc-115418,A,Compositae,,Geigeria,,"zeyheri",,"","Dinter ex Merxm.",Synonym,,M,TICA,3658A3E8-C629-4A9C-9B25-BC16172A44A8,,"","","","",gcc-5238
+gcc-119593,A,Compositae,,Geigeria,,"zeyheri",,"","Dinter",Synonym,,M,TICA,36D9CC02-BB52-496A-9A7A-C5810541EC90,,"","","","",gcc-114573
+gcc-28374,A,Compositae,,Geigeria,,"zeyheri",,"","Harv.",Synonym,,M,TICA,BBF90207-379F-4C89-BF42-346619C15881,,"","","126","1862",gcc-53679

@@ -1,0 +1,58 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-129625,A,Compositae,,Zollikoferia,,"acanthodes",,"","Boiss.",Synonym,,M,TICA,A304657D-4128-40EA-9415-DCAEA06073D2,261388-1,"Fl. Orient. [Boissier] 3: 827","","827","1875",gcc-156304
+gcc-87375,A,Compositae,,Zollikoferia,,"angustifolia",,"","Coss. & Durieu",Synonym,,M,TICA,123FC038-EB5B-4028-952A-7D26D209A8F1,261389-1,"","","254","1855",gcc-1935
+gcc-157111,A,Compositae,,Zollikoferia,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,3F3A9416-DC24-40D7-BA4F-FB17B7F62027,,"","","","",gcc-1935
+gcc-65898,A,Compositae,,Zollikoferia,,"angustifolia",var.,"squarrosa","(Pomel) Batt.",Synonym,,L,TICA,BA6A26A9-C6AB-4293-BE30-CA893DF88A14,,"""J.A. Battandier - in Battandier & Trabut, Fl. Algérie Tunisie. 1905""","","216","1905",gcc-1935
+gcc-76370,A,Compositae,,Zollikoferia,,"anomala",,"","Batt.",Synonym,,M,TICA,19B0FD97-5F5A-4E06-AFFE-6486E6CE5E30,,"","","190","1893",gcc-47896
+gcc-148525,A,Compositae,,Zollikoferia,,"apargioides",,"","Bluff & Fingerh.",Synonym,,M,TICA,86BBB9FD-DC38-4877-A321-448EB45EE96E,,"","","","",gcc-40237
+gcc-91482,A,Compositae,,Zollikoferia,,"arabica",,"","Boiss.",Synonym,,M,TICA,DA1792DF-B96D-457C-B61A-867BF801C34B,,"","","12","1846",gcc-68838
+gcc-105537,A,Compositae,,Zollikoferia,,"arborescens",,"","Batt.",Synonym,,M,TICA,C9270187-C18B-41CD-A8D7-A5CAA8735EB1,261393-1,"","","391","1888",gcc-14764
+gcc-156350,A,Compositae,,Zollikoferia,,"arborescens",var.,"arborescens","",Synonym,,L,TICA,CB863F5F-6B97-4565-8562-EB436CF4110A,,"","","","",gcc-14764
+gcc-62244,A,Compositae,,Zollikoferia,,"arborescens",var.,"cerastina","Chabert",Synonym,,L,TICA,4A822937-798E-43DA-A578-AD15DBD7D07F,,"A.C. Chabert in Bull. Soc. Bot. France 44. 1897","","363","1897",gcc-14764
+gcc-107653,A,Compositae,,Zollikoferia,,"bornmuelleri",,"","Hausskn. ex Bornm.",Synonym,,M,TICA,3932F124-5359-4A47-98BD-AA8E970A0B5A,,"in Mitth. Thur. Bot. Ver. N. Folge. vi. (1894) 56.","","","1894",gcc-30830
+gcc-114584,A,Compositae,,Zollikoferia,,"candolleana",,"","(Jaub. & Spach) Coss.",Unresolved,,L,TICA,1D368055-FA88-4254-82C3-BA31874E47A2,,"""Ann. Sci. Nat., Bot. sér. 4, 4: 285""","","285","1855",gcc-90729
+gcc-129296,A,Compositae,,Zollikoferia,,"candolleana",,"","Coss. ex Pomel",Accepted,,M,TICA,B4AB2E11-7D51-4577-801E-DBF4FDD69826,261396-1,"Nouv. Mat. Fl. Atl. 8","","8","",
+gcc-86095,A,Compositae,,Zollikoferia,,"cassiana",,"","(Jaub. & Spach) Boiss.",Synonym,,M,TICA,5601ECF8-8851-4CF0-B046-7A296F8181E6,,"Fl. Orient. iii. 822.","","","",gcc-55448
+gcc-3761,A,Compositae,,Zollikoferia,,"cassiniana",,"","Boiss.",Synonym,,M,TICA,87C19F74-AAF4-4A7C-844B-070090B9F80C,261398-1,"","","822","1875",gcc-55448
+gcc-120340,A,Compositae,,Zollikoferia,,"chondrilloides",,"","(Desf.) DC.",Synonym,,L,TICA,10D0520F-ED35-424F-B60D-C744D7FE4533,261399-1,"","","183","1838",gcc-90729
+gcc-102834,A,Compositae,,Zollikoferia,,"elquiensis",,"","Phil.",Synonym,,M,TICA,72511946-F0A9-45C8-AE6F-9FFFF311CD3A,271249-2,"","","327","1894",gcc-124963
+gcc-11183,A,Compositae,,Zollikoferia,,"fallax",,"","(Jaub. & Spach) Boiss.",Synonym,,L,TICA,A976CA54-196D-4634-B71A-14E9CF89323E,261401-1,"","","824","1875",gcc-126043
+gcc-104865,A,Compositae,,Zollikoferia,,"foxii",,"","Post",Synonym,,M,TICA,9E444816-0827-4261-A28A-A4621288C0AF,261402-1,"","","19","1896",gcc-68838
+gcc-7382,A,Compositae,,Zollikoferia,,"glomerata",,"","(Cass.) Boiss.",Synonym,,M,TICA,6543B967-DFF4-4779-BDD2-0DB96D68DC55,261403-1,"","","826","1875",gcc-107567
+gcc-152710,A,Compositae,,Zollikoferia,,"granatensis",,"","Amo",Synonym,,M,TICA,E5DF5EFC-74F7-4CED-B84A-9F3E867C8811,,"""M. del Amo y Mora, Descr. Pl. Granada. 1861""","","2","1861",gcc-97661
+gcc-28914,A,Compositae,,Zollikoferia,,"hieracioides",,"","Nees",Synonym,Illegitimate,M,TICA,03DFCD25-FFAF-4CA2-BB9E-35731B01CCA5,,"Bluff & Fingerh. Comp. Fl. Germ. ed. I. ii. 305 (1825).","","","1825",gcc-40237
+gcc-128744,A,Compositae,,Zollikoferia,,"jaumei",,"","Sennen & Sennen",Unresolved,,L,TICA,737BB38D-4F59-4B01-AFA0-DAB980CC465F,261406-1,"""Ann. Soc. Linn. Lyon sér. 2, 69: 112, descr.""","","","1923",
+gcc-140160,A,Compositae,,Zollikoferia,,"korovinii",,"","Popov",Synonym,,M,TICA,F2B1D1E4-4691-4CB7-85B5-F4622EC1BCC9,261407-1,"Not. Syst. Herb. Hort. Petrop. v. 37 (1924).","","37","1924",gcc-150032
+gcc-125938,A,Compositae,,Zollikoferia,,"leucodon",,"","Fisch. & C.A.Mey.",Synonym,,L,TICA,A9CD7722-055C-4B4D-AC60-D431800431A9,,"Bulletin de la societe imperiale des naturalistses de Moscou 12:","","161","1839",gcc-126043
+gcc-154094,A,Compositae,,Zollikoferia,,"leucodon",,"","Kar.",Synonym,,L,TICA,1871971D-30ED-4620-9A1D-BC4F741BAF81,,"""Kar. in Bjull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 12. 1839""","","161","1839",gcc-126043
+gcc-98057,A,Compositae,,Zollikoferia,,"leucodon",,"","Fisch. & Mey. ex Boiss.",Unresolved,,L,TICA,3064D69B-9EB0-4D28-B02D-9542E490B97B,261408-1,"Fl. Orient. [Boissier] 3: 824","","824","1875",
+gcc-129657,A,Compositae,,Zollikoferia,,"longiloba",,"","Boiss. & Reut.",Synonym,,L,TICA,E1F7301A-BA5C-43FA-B41C-DCC6416F3F18,261409-1,"","","70","1852",gcc-90729
+gcc-26764,A,Compositae,,Zollikoferia,,"massavensis",,"","(Fresen.) Boiss.",Synonym,,M,TICA,1915EB2B-93BF-4B50-8880-3172A703EC18,261410-1,"","","825","1875",gcc-151729
+gcc-14117,A,Compositae,,Zollikoferia,,"mucronata",,"","(Forssk.) Boiss.",Synonym,,M,TICA,7EA73D14-AFD6-402A-BFCF-1A2E3830CF0D,,"","","822","1875",gcc-20141
+gcc-145349,A,Compositae,,Zollikoferia,,"mucronata",var.,"latisecta","Bornm.",Synonym,,L,TICA,DDDF5A2E-1F13-406E-9CD0-0259C75DA17F,,"Bornm. in Verh. K. K. Zool.-Bot. Ges. Wien 48. 1898","","606","1898",gcc-90729
+gcc-156861,A,Compositae,,Zollikoferia,,"mucronata",var.,"mucronata","",Synonym,,L,TICA,4B863BA0-0617-4483-A43C-F5B865C89C43,,"","","","",gcc-20141
+gcc-140615,A,Compositae,,Zollikoferia,,"nudicaulis",,"","(L.) Boiss.",Synonym,,M,TICA,C96088C8-8D76-4134-8A70-F57656ECDC7B,261412-1,"","","824","1875",gcc-125560
+gcc-145739,A,Compositae,,Zollikoferia,,"nudicaulis",var.,"divaricata","(Pomel) Batt.",Synonym,,L,TICA,075C93EF-C5C6-458E-A03F-09E3F3314F50,,"""J.A. Battandier, Fl. Algérie 1. 1889""","","558","1889",gcc-125560
+gcc-153881,A,Compositae,,Zollikoferia,,"nudicaulis",var.,"nudicaulis","",Synonym,,L,TICA,4D079C65-682C-47A6-BD2D-B75741EF28CC,,"","","","",gcc-125560
+gcc-148819,A,Compositae,,Zollikoferia,,"oligocephala",,"","Hausskn. & Bornm.",Synonym,,M,TICA,82E4AE95-3B41-4A14-AA33-4B8177E33D00,,"Hausskn. & Bornm. in Mitth. Thüring. Bot. Vereins 6. 1894","","56","1894",gcc-106263
+gcc-91262,A,Compositae,,Zollikoferia,,"oligocephala",,"","Hausskn. & Bornm. ex Bornm.",Synonym,,M,TICA,9D1869A1-45DB-4ABB-9772-85F9105B09E8,261413-1,"""in Mitth. Thur. Bot. Ver. N. Folge, v. (1894) 55.""","","v.  55.","1894",gcc-106263
+gcc-145147,A,Compositae,,Zollikoferia,,"peltidium",,"","Gaudin",Synonym,,M,TICA,67A048F5-0B22-4108-91C9-FFC78EB93C36,261414-1,"Fl. Helvet. v. 143","","143","",gcc-40237
+gcc-20899,A,Compositae,,Zollikoferia,,"polyclada",,"","(Boiss.) Boiss.",Synonym,,M,TICA,F775C66A-0273-4586-A2E2-26A838EE5CC1,261415-1,"","","827","1875",gcc-79103
+gcc-22743,A,Compositae,,Zollikoferia,,"polydichotoma",,"","(Ostenf.) Iljin",Synonym,,M,TICA,C10847E2-C3A2-4BDB-9CBE-2A154EC32E8B,261416-1,"""Crit. Obs. Chondr. (Bull. Sect. Rubber-Produc. Pl., Moscow, No. 3) 61 (1930)""","","61","1930",gcc-115488
+gcc-99319,A,Compositae,,Zollikoferia,,"prenanthoides",,"","Hochst. ex Oliv. & Hiern",Unresolved,,L,TICA,B7E2CC80-E7B4-4BBB-B0DD-981AFE51E95A,261417-1,"Fl. Trop. Afr. [Oliver et al.] 3: 459","","459","1877",
+gcc-104914,A,Compositae,,Zollikoferia,,"pumila",,"","(Cav.) DC.",Synonym,,M,TICA,F5078294-EB24-4EA5-A701-A48369A9721C,261418-1,"","","183","1838",gcc-47896
+gcc-38258,A,Compositae,,Zollikoferia,,"quercifolia",,"","(Desf.) Coss. & Kralik",Synonym,,M,TICA,6E0599ED-9B42-4606-9D83-46F985616D99,261419-1,"Bull. Soc. Bot. France 4: 369","","369","1857",gcc-104582
+gcc-84370,A,Compositae,,Zollikoferia,,"resedifolia",,"","(L.) Coss.",Synonym,,M,TICA,0D0569D8-E10D-4439-9C4F-766DAAD70DF8,261420-1,"Notes Crit. 120","","120","",gcc-53853
+gcc-155515,A,Compositae,,Zollikoferia,,"resedifolia",var.,"longiloba","(Boiss. & Reut.) Bonnet & Barratte",Synonym,,L,TICA,C5143FEC-A7C4-45FB-9442-D9E2D1E4F7D0,,"""E. Bonnet, J.F.G. Barratte, Expl. Sci. Tunisie, Cat. Pl.. 1896""","","266","1896",gcc-90729
+gcc-146154,A,Compositae,,Zollikoferia,,"resedifolia",var.,"minor","Rouy",Synonym,,L,TICA,D2F22B50-2182-425B-A3BF-12867265930D,,"""G.C.C. Rouy in Rev. Sci. Nat. (Montpellier), Sér. 3 3. 1883""","","237","1883",gcc-90729
+gcc-153991,A,Compositae,,Zollikoferia,,"resedifolia",var.,"resedifolia","",Synonym,,L,TICA,82643FD3-6466-44F5-A52A-BA09C72DEFD6,,"","","","",gcc-53853
+gcc-152294,A,Compositae,,Zollikoferia,,"resedifolia",var.,"setacea","Batt.",Synonym,,L,TICA,B9A4DEE1-6E49-4622-A749-966EF819B2EC,,"""J.A. Battandier, Fl. Algérie 1. 1889""","","557","1889",gcc-90729
+gcc-148984,A,Compositae,,Zollikoferia,,"resedifolia",var.,"viminea","Lange",Synonym,,L,TICA,5CA7A607-49A0-4E22-9964-4F2CA126DF10,,"""J.M.C. Lange in Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn, Ser. 2 3. 1861""","","99","1861",gcc-90729
+gcc-139565,A,Compositae,,Zollikoferia,,"secunda",,"","(C.B.Clarke) Boiss.",Synonym,,M,TICA,B0B5ED12-AA22-453F-875E-F2FFECD6C42A,,"","","","1888",gcc-440
+gcc-23190,A,Compositae,,Zollikoferia,,"spinosa",,"","(Forssk.) Boiss.",Synonym,,M,TICA,DE7E4F03-6AA3-416C-AFED-2AEE1DAF8457,261422-1,"","","826","1875",gcc-2931
+gcc-120785,A,Compositae,,Zollikoferia,,"stenocephala",,"","Boiss.",Synonym,,M,TICA,EEB824A9-DAB5-4226-81ED-C8559189E11C,261423-1,"Fl. Orient. [Boissier] 3: 823","","823","1875",gcc-154278
+gcc-78482,A,Compositae,,Zollikoferia,,"stocksiana",,"","Boiss.",Synonym,,M,TICA,200478DB-265A-4FEC-98D2-694625FD5676,261424-1,"Fl. Orient. [Boissier] 3: 825","","825","1875",gcc-39706
+gcc-141239,A,Compositae,,Zollikoferia,,"tapetodes",,"","Boiss.",Synonym,,M,TICA,2A98C07A-D9A9-47E4-95C8-F6EF1AB11383,261425-1,"Fl. Orient. [Boissier] Suppl. 324","","324","1888",gcc-114223
+gcc-12260,A,Compositae,,Zollikoferia,,"tenuiloba",,"","(Pomel) Batt.",Synonym,Illegitimate,M,TICA,D4D3C592-B483-4E56-A553-16DD2F2D0CE1,261427-1,"","","","1889",gcc-20141
+gcc-83684,A,Compositae,,Zollikoferia,,"tenuiloba",,"","Boiss.",Synonym,,L,TICA,985DB439-0028-4A14-9438-74D30851B93D,,"","","50","1849",gcc-90729
+gcc-155816,A,Compositae,,Zollikoferia,,"viminea",,"","Batt.",Synonym,,M,TICA,927B7BF7-55BB-4787-9BEC-E063E2222E2F,,"""J.A. Battandier, Contr. Fl. Atl.. 1919""","","58","1919",gcc-128198

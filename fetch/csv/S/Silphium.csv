@@ -1,0 +1,148 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-93431,A,Compositae,,Silphium,,"albiflorum",,"","A.Gray",Accepted,,M,TICA,5F08760F-2478-4124-8F33-8ABA98FC784C,249110-1,"Proc. Amer. Acad. Arts xix. (1883) 4.","","4","1883",
+gcc-78544,A,Compositae,,Silphium,,"angustum",,"","(A.Gray) Small",Synonym,,M,TICA,0F452DD3-0CF0-4B1D-9DF0-69646644DCF9,249111-1,"","","","1903",gcc-58194
+gcc-30794,A,Compositae,,Silphium,,"arborescens",,"","Mill.",Synonym,,M,TICA,2D1FA60C-533F-4706-A7EE-39019236CAFB,,"","","","1768",gcc-9683
+gcc-42146,A,Compositae,,Silphium,,"asperrimum",,"","Hook.",Accepted,,M,TICA,57C3FD17-E756-4A0E-8F7A-4E1698BA0F90,327207-2,"","","99","1835",
+gcc-111462,A,Compositae,,Silphium,,"asteriscus",,"","L.",Accepted,,M,TICA,EA8B1740-9BE4-4947-B392-B32E50AB0534,249115-1,"","","920","1753",
+gcc-89918,A,Compositae,,Silphium,,"asteriscus",,"","Hornem.",Unresolved,,L,TICA,8143E4D7-A049-43FC-96B0-82D1DF8DCAE0,249114-1,"Hort. Hafn. 854.","","854","",
+gcc-6345,A,Compositae,,Silphium,,"asteriscus",var.,"angustatum","A.Gray",Synonym,,L,TICA,02E9D9C9-6088-4B95-9C5F-0BCEE217CBAF,236417-2,"""Syn. Fl. N. Amer. (ed.  2) 1(2, suppl.): 449. 1886""","","449","1886",gcc-58194
+gcc-66132,A,Compositae,,Silphium,,"asteriscus",var.,"asteriscus","",Synonym,,L,TICA,A52CA9AD-98CF-4D25-995A-CC46F0550253,,"","","","",gcc-111462
+gcc-69249,A,Compositae,,Silphium,,"asteriscus",subsp.,"asteriscus","",Synonym,,L,TICA,F3BAF4AD-3417-4A5B-98B7-E4F73E747ACF,,"","","","",gcc-111462
+gcc-58194,A,Compositae,,Silphium,,"asteriscus",var.,"dentatum","(Elliott) Chapm.",Accepted,,L,TICA,1A622330-3C1A-46A0-8C5D-8C8D7A452498,236419-2,"Fl. South. U.S. 221. 1860","","221","1860",
+gcc-68201,A,Compositae,,Silphium,,"asteriscus",var.,"laevicaule","DC.",Synonym,,L,TICA,6585DE19-31D5-481C-BE46-DD0E2A97EEEE,236420-2,"Prodr. (DC.) 5: 513","","513","1836",gcc-58194
+gcc-65623,A,Compositae,,Silphium,,"asteriscus",var.,"latifolium","(A.Gray) J.A. Clevinger",Accepted,,L,TICA,0FEC8B61-1A5E-4F13-A3E2-C837062181C8,,"Novon 14(3):","","276","2004",
+gcc-53165,A,Compositae,,Silphium,,"asteriscus",var.,"scabrum","Nutt.",Synonym,,L,TICA,0B5403FA-427E-4BE7-B309-63FFE6621B7C,236422-2,"Gen. N. Amer. Pl. [Nuttall] 2: 183. 1818 [14 Jul 1818]","","183","1818",gcc-111462
+gcc-68083,A,Compositae,,Silphium,,"asteriscus",var.,"simpsonii","(Greene) J.A. Clevinger",Accepted,,L,TICA,D0DD08C9-DDC5-492D-BF7D-DC1E927F6354,,"Novon 14(3):","","275","2004",
+gcc-59640,A,Compositae,,Silphium,,"asteriscus",var.,"trifoliatum","(L.) J.A. Clevinger",Accepted,,L,TICA,A3B8F6A4-3BC7-4992-9026-980ADF0D9342,,"Novon 14(3):","","276","2004",
+gcc-91031,A,Compositae,,Silphium,,"atropurpureum",,"","Retz. ex Willd.",Synonym,,M,TICA,04F696CF-4FE7-497A-9BAF-85667DDA428E,,"Sp. Pl. iii. 2334.","","","1803",gcc-59640
+gcc-138004,A,Compositae,,Silphium,,"atropurpureum",f.,"atropurpureum","",Synonym,,L,TICA,083DCE11-566F-43D6-8355-EFA89B360624,,"","","","",gcc-59640
+gcc-140580,A,Compositae,,Silphium,,"betonicifolium",,"","Hook.",Synonym,,M,TICA,D4F2D9BE-9C7C-4D57-AC13-F560C50D63A3,236425-2,"","","99","1835",gcc-35638
+gcc-33886,A,Compositae,,Silphium,,"brachiatum",,"","Gatt.",Accepted,,M,TICA,9B1220F8-BDC0-4A76-A43A-3ED6B95563A2,,"","","192","",
+gcc-44574,A,Compositae,,Silphium,,"chichamangense",,"","Canby",Unresolved,,L,TICA,33B081FB-E175-428D-8991-5293B2B26E65,,"Coult. Bot. Gaz. xxvii. 319.","","319","",
+gcc-38711,A,Compositae,,Silphium,,"chickamaugense",,"","Canby",Synonym,,M,TICA,B9BFB55E-CCC4-4E1F-B18E-47CDC020B2D4,236426-2,"Bot. Gaz. 27: 319. 1899","","319","1899",gcc-55812
+gcc-48698,A,Compositae,,Silphium,,"collinum",,"","Greene",Unresolved,,L,TICA,77091290-1B99-42FF-817C-5A38D2C581AF,236427-2,"","","44","1899",
+gcc-23326,A,Compositae,,Silphium,,"compositum",,"","Michx.",Accepted,,M,TICA,6190A7AB-8989-453B-8A4B-2B287E4DDC36,249122-1,"Fl. Bor.-Amer. (Michaux) ii. 145.","","145","1803",
+gcc-151813,A,Compositae,,Silphium,,"compositum",f.,"compositum","",Synonym,,L,TICA,D23C6F6F-042E-46F1-A06F-8CB330DD149F,,"","","","",gcc-23326
+gcc-43914,A,Compositae,,Silphium,,"compositum",subsp.,"compositum","",Synonym,,L,TICA,45CF6C71-AC61-4410-9E51-515BE626AB39,,"","","","",gcc-23326
+gcc-54666,A,Compositae,,Silphium,,"compositum",var.,"compositum","",Synonym,,L,TICA,CB5B55EB-8732-4423-94B1-6FDE6F3629D6,,"","","","",gcc-23326
+gcc-37014,A,Compositae,,Silphium,,"compositum",var.,"ovatifolium","Torr. & A.Gray",Synonym,,L,TICA,038E5149-3ABD-496D-99F5-449413871B88,236430-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 277. 1842 [Apr 1842]","","277","1842",gcc-23326
+gcc-55936,A,Compositae,,Silphium,,"compositum",subsp.,"ovatifolium","(Torr. & A.Gray) C.R.Sweeney & T.R.Fisher",Unresolved,,L,TICA,CA64751A-6474-42D0-B41D-7A511025F9B6,236431-2,"Ohio J. Sci. 70: 232. 1970","","232","1970",gcc-23326
+gcc-14501,A,Compositae,,Silphium,,"compositum",subsp.,"reniforme","(Raf. ex Nutt.) C.R.Sweeney & T.R.Fisher",Unresolved,,L,TICA,14481BAD-1638-4ED8-9F1B-1AE6E5DE254E,236433-2,"Ohio J. Sci. 70: 230. 1970","","230","1970",gcc-23326
+gcc-292,A,Compositae,,Silphium,,"compositum",var.,"reniforme","(Raf. ex Nutt.) Torr. & A.Gray",Synonym,,L,TICA,523F44DA-A1B6-4711-A79D-00887489B604,236432-2,"A Flora of North America: containing . . . 2(2):","","276","1842",gcc-23326
+gcc-57019,A,Compositae,,Silphium,,"compositum",var.,"venosum","(Small) Kartesz & Gandhi",Synonym,,L,TICA,9B185D4C-3A11-4C64-A592-8305DA7F1949,1046314-2,"","","272","1991",gcc-23326
+gcc-66965,A,Compositae,,Silphium,,"compositum",subsp.,"venosum","(Small) C.R. Sweeney & T.R.Fisher",Synonym,,L,TICA,BE1A3306-8127-4671-AD7D-D319039C3C47,236434-2,"Ohio Journal of Science 70:","","232","1970",gcc-23326
+gcc-134735,A,Compositae,,Silphium,,"compressum",,"","Hort.",Unresolved,,L,TICA,A690372E-4362-4EBF-9272-E86C1D8E83B8,249123-1,"""ex Bull. Jard. Bot. Brux. ix. Fasc. suppl. 1, p. 11 (1931), nomen.""","","""ix. Fasc. suppl. 1, p. 11 , nomen.""","1931",
+gcc-85986,A,Compositae,,Silphium,,"confertiflorum",,"","Small",Unresolved,,L,TICA,612D8794-E7DC-4CD1-960A-79EC63F06CD2,249124-1,"""Man. Southeast. Fl. 1509 (1933), sphalm.""","","1509","",
+gcc-140240,A,Compositae,,Silphium,,"confertifolium",,"","Small",Synonym,,M,TICA,70E8BE6A-0FBE-4B76-B055-F48FA0FEF1E1,236435-2,"","","""1243, 1340""","1903",gcc-65623
+gcc-117971,A,Compositae,,Silphium,,"conjunctum",,"","Willd.",Unresolved,,L,TICA,8CDB4D00-1E4C-40D0-97AD-C1DB22480832,,"Enum. Hort. Berol. 933.","","933","",
+gcc-129833,A,Compositae,,Silphium,,"connatum",,"","L.",Synonym,,M,TICA,C56145B2-FA68-43C0-B5D5-DD292DF2BDD2,236437-2,"","","574","1771",gcc-64798
+gcc-76221,A,Compositae,,Silphium,,"dentatum",,"","Elliott",Synonym,,M,TICA,E093674B-7753-43F5-BC09-64386145B333,,"""Sketch, ii. 468""","","","1824 [1823]",gcc-58194
+gcc-14174,A,Compositae,,Silphium,,"dentatum",var.,"angustatum","(A.Gray) L.M.Perry",Synonym,,L,TICA,7E9D56FE-76E0-4F61-BD0B-1A47D503BC7F,236439-2,"Rhodora 39: 293. 1937","","293","1937",gcc-58194
+gcc-154515,A,Compositae,,Silphium,,"dentatum",f.,"dentatum","",Synonym,,L,TICA,94BEF59D-1EC2-4A09-BA5A-C5307F6D66C3,,"","","","",gcc-58194
+gcc-3978,A,Compositae,,Silphium,,"dentatum",var.,"dentatum","",Synonym,,L,TICA,0B11C2F5-DCE6-4F4E-B583-076181C24DB0,,"","","","",gcc-58194
+gcc-62859,A,Compositae,,Silphium,,"dentatum",var.,"gatesii","(C.Mohr) H.E.Ahles",Synonym,,L,TICA,9B46E75C-724B-4BDD-B593-B23700319215,236440-2,"J. Elisha Mitchell Sci. Soc. 80: 173. 1964","","173","1964",gcc-111462
+gcc-127997,A,Compositae,,Silphium,,"dissectum",,"","Poir.",Unresolved,,L,TICA,37F22331-2E8F-48EC-8C6B-D8FE39FAFDF4,249129-1,"Encycl. (Lamarck) Suppl. 5. 157","","157","1817",
+gcc-10906,A,Compositae,,Silphium,,"doronicifolium",,"","Kunze",Unresolved,,L,TICA,D9D6BD1A-48D4-4072-85A2-14667638BFB8,,"""Del. Sem. Hort. Lips. (1846) 4; et in Linnaea, xx. (1847) 20.""","","4","1846",
+gcc-14440,A,Compositae,,Silphium,,"edule",,"","Baill.",Unresolved,,L,TICA,B0D5269B-09DF-4A85-B1CB-1ACCE5614DF2,249131-1,"Hist. Pl. (Baillon) 8: 306","","306","1882",
+gcc-110873,A,Compositae,,Silphium,,"elatum",,"","herb.banks ex Pursh",Unresolved,,L,TICA,6C9BFAEB-07DA-4438-AC39-B1E00593F807,249132-1,"Fl. Am. Sept. ii. 579.","","ii. 579","",
+gcc-52913,A,Compositae,,Silphium,,"elliottii",,"","Small",Synonym,,M,TICA,31C0518D-C96A-4FFA-865E-622546C72A8D,236442-2,"","","""1243, 1340""","1903",gcc-58194
+gcc-129229,A,Compositae,,Silphium,,"equatoriale",,"","Spruce",Unresolved,Illegitimate,L,TICA,7E51276D-17B9-4554-99D0-DBCFF71D0D31,,"Genera Plantarum 2(1):","","350","1873",
+gcc-35810,A,Compositae,,Silphium,,"equatoriale",,"","Spruce ex Benth. & Hook.f.",Unresolved,,L,TICA,756351EC-AB53-4C46-B3CC-42650654ECA4,249134-1,"Gen. ii. 350.","","ii. 350","",
+gcc-5076,A,Compositae,,Silphium,,"erythrocaulon",,"","Bernh. ex Spreng.",Unresolved,,L,TICA,507F5A1D-2505-4CF7-8BE4-097A11AC7515,249135-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 630","","630","1826",
+gcc-135607,A,Compositae,,Silphium,,"gatesii",,"","C.Mohr",Synonym,,M,TICA,7DF1F167-752A-4DA1-BF9F-EA5E93B7C534,,"","","","1901",gcc-111462
+gcc-147984,A,Compositae,,Silphium,,"gatesii",f.,"gatesii","",Synonym,,L,TICA,74D0B948-98EA-46A4-B7A4-3966F6C3B553,,"","","","",gcc-111462
+gcc-12172,A,Compositae,,Silphium,,"glabrum",,"","Eggert",Synonym,,M,TICA,F8CDD8A4-EC55-4002-950E-16B02129C17C,236445-2,"","","""1243, 1340""","1903",gcc-65623
+gcc-29155,A,Compositae,,Silphium,,"glabrum",,"","Eggert ex Small",Unresolved,,L,TICA,E94E088B-F85F-4B96-8B13-35E5759F8FC8,,"","","","",
+gcc-18596,A,Compositae,,Silphium,,"glaucum",,"","Weinm.",Unresolved,,L,TICA,5B2777F2-5643-451A-B843-225C5FBB2301,,"""Hort. Dorpat. 143; ex DC. Prod. v. 571, in obs.""","","143","",
+gcc-109583,A,Compositae,,Silphium,,"glutinosum",,"","J.R.Allison",Accepted,,M,TICA,54EF5A5D-8415-4ED1-8CA0-AEFDA0BF2611,,"","","","2001",
+gcc-107869,A,Compositae,,Silphium,,"gracile",,"","A.Gray",Synonym,,M,TICA,73D0B1D0-BB56-4D41-88BA-AB143E51B8C1,,"Proc. Amer. Acad. Arts viii. (1873) 653.","","","1873",gcc-49744
+gcc-110932,A,Compositae,,Silphium,,"gummiferum",,"","Elliott",Unresolved,,L,TICA,C17C45E8-0571-4614-B1B8-B1FDD30B1C2A,,"""Sketch, ii. 460""","","460","",
+gcc-91554,A,Compositae,,Silphium,,"helianthoides",,"","L.",Unresolved,,L,TICA,A671F929-FD6A-4AD9-9CC6-86A25889B3BB,249141-1,"Sp. Pl. 920.","","920","1753",
+gcc-99176,A,Compositae,,Silphium,,"helianthoides",,"","Greene",Unresolved,,L,TICA,0B29A9E3-2070-44AD-9CAC-97C5247BF083,,"","","","1899",
+gcc-120505,A,Compositae,,Silphium,,"hornemannii",,"","Schrad. ex DC.",Unresolved,,L,TICA,911CCE77-1027-4E13-A6EE-C7B30FEB79F3,249143-1,"Prodr. (DC.) 5: 514","","514","1836",
+gcc-9108,A,Compositae,,Silphium,,"incisum",,"","Greene",Synonym,,M,TICA,4EA84DBC-D9FA-483E-852B-110873FFC68D,236448-2,"","","45","1899",gcc-58194
+gcc-104796,A,Compositae,,Silphium,,"integrifolium",,"","Michx.",Accepted,,M,TICA,582A5B57-8E16-412F-A042-A4399CD2FA40,30072268-2,"","","146","1803",
+gcc-16548,A,Compositae,,Silphium,,"integrifolium",var.,"deamii","L.M.Perry",Synonym,,L,TICA,CB255EA3-ABA9-42C0-84BB-1E94A0F4FDDC,236449-2,"Rhodora 39: 287. 1937","","287","1937",gcc-65568
+gcc-53760,A,Compositae,,Silphium,,"integrifolium",var.,"gattingeri","L.M.Perry",Synonym,,L,TICA,CD97DC65-A40E-4251-B947-68A8FABF9A4F,,"Rhodora 39: 287. 1937","","","1937",gcc-111462
+gcc-65568,A,Compositae,,Silphium,,"integrifolium",var.,"integrifolium","",Accepted,,L,TICA,BC066808-FBCC-4B8C-BAC4-C7CA0347CCA5,,"","","","",
+gcc-20589,A,Compositae,,Silphium,,"integrifolium",var.,"laeve","Torr. & A.Gray",Accepted,,L,TICA,2CCBD01A-387D-40B2-B213-261C2BF844DC,236452-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 279. 1842 [Apr 1842]","","279","1842",
+gcc-55956,A,Compositae,,Silphium,,"integrifolium",var.,"neglectum","Settle & T.R.Fisher",Synonym,,L,TICA,8B7D8111-4554-4911-B289-7A75CFBF07AE,,"Rhodora 72: 540. 1970","","","1970",gcc-65568
+gcc-76088,A,Compositae,,Silphium,,"laciniatum",,"","Walter",Unresolved,,L,TICA,B45C447C-B6AC-4555-9403-63DBDFA324A5,249146-1,"Fl. Carol. 217","","217","1788",
+gcc-79299,A,Compositae,,Silphium,,"laciniatum",,"","L.",Accepted,,M,TICA,3D90A87D-8528-4E5F-A386-6B1FF1840600,315757-2,"Sp. Pl.","","919","1753",
+gcc-64083,A,Compositae,,Silphium,,"laciniatum",var.,"laciniatum","",Synonym,,L,TICA,79002699-D7AB-40D5-BD6F-BBBB381C8CF2,,"","","","",gcc-79299
+gcc-55248,A,Compositae,,Silphium,,"laciniatum",var.,"robinsonii","L.M.Perry",Synonym,,L,TICA,C2679682-9D48-4F7B-8134-748CB7F9D8A8,236456-2,"Rhodora 39: 297. 1937","","297","1937",gcc-79299
+gcc-50753,A,Compositae,,Silphium,,"laeve",,"","Hook.",Accepted,,M,TICA,E70E2474-CA8B-4D48-8E15-5E1EED3E4E9C,,"Lond. Journ. Bot. vi. (1847) 244.","","","1847",
+gcc-18483,A,Compositae,,Silphium,,"laevigatum",,"","Pursh",Synonym,,M,TICA,403FBC68-95FB-4037-AA54-2221840817E5,249150-1,"""Flora Americae Septentrionalis; or, . . . 2:""","","578","1814 [1813]",gcc-111462
+gcc-49260,A,Compositae,,Silphium,,"laevigatum",,"","Elliott",Unresolved,,L,TICA,8CACD5BF-255C-4BA6-9834-5B3BA6FF24C8,249149-1,"""Sketch, ii. 465""","","465","",
+gcc-120998,A,Compositae,,Silphium,,"lanceolatum",,"","Canby",Unresolved,,L,TICA,979FFD07-0882-4996-A440-C8D1CB91122B,,"","","","1899",
+gcc-86549,A,Compositae,,Silphium,,"lanceolatum",,"","Nutt.",Unresolved,,L,TICA,BAF2AE1E-1C1A-461A-9192-7B260437D311,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 341""","","","1840",
+gcc-125526,A,Compositae,,Silphium,,"lapsuum",,"","Small",Synonym,,M,TICA,B1C5D2BA-FF63-4A25-A4C2-D3433DD1C186,249153-1,"","","1411","1933",gcc-23326
+gcc-141114,A,Compositae,,Silphium,,"latifolium",,"","Hill",Unresolved,,L,TICA,8E61F14A-9499-4CF3-A571-F69C271C764C,249154-1,"Hort. Kew. 11.","","11","",
+gcc-100970,A,Compositae,,Silphium,,"mohrii",,"","Small",Accepted,,M,TICA,FF863AF2-745B-4418-B71F-9BCEE4B7DCA7,249155-1,"","","","1897",
+gcc-52097,A,Compositae,,Silphium,,"nodum",,"","Small",Synonym,,M,TICA,BC74B0B6-0F4C-4C2A-A45C-60A1F330EBE3,249156-1,"Man. Southeast. Fl. 1413 (1933).","","1413","1933",gcc-58194
+gcc-49097,A,Compositae,,Silphium,,"nudicaule",,"","M.A.Curtis",Unresolved,,L,TICA,5BD2BDB7-D224-44FE-AB9A-5AEF71F81923,,"Boston J. Nat. Hist. i. (1837) 127","","127","",
+gcc-134867,A,Compositae,,Silphium,,"nuttallianum",,"","Torr.",Synonym,Illegitimate,M,TICA,78CB15A7-2469-49F8-9BEF-E8B3CA6D70FB,249158-1,"Ann. Lyceum Nat. Hist. New York 2: 216. 1827 [Jun 1827]","","216","1827",gcc-11846
+gcc-124168,A,Compositae,,Silphium,,"orae",,"","Small",Synonym,,M,TICA,065AF7BA-6F2C-4CEC-BC10-D00DBCD4CF15,315886-2,"","","1411","1933",gcc-23326
+gcc-89599,A,Compositae,,Silphium,,"ovatifolium",,"","(Torr. & A.Gray) Small",Synonym,,M,TICA,54D40807-7C81-4E3A-B057-8210E066D4D3,236459-2,"","","""1242, 1340""","1903",gcc-23326
+gcc-33095,A,Compositae,,Silphium,,"ovatum",,"","Sessé & Moc.",Unresolved,,L,TICA,193F9BD5-46F3-4C55-AA54-3D60027A9E50,,"","","","1890",
+gcc-123148,A,Compositae,,Silphium,,"patulum",,"","Banks ex Pursh",Unresolved,,L,TICA,859A8079-4589-402C-AB63-CDA49669FDC9,249162-1,"Fl. Am. Sept. ii. 578.","","ii. 578","",
+gcc-42519,A,Compositae,,Silphium,,"perfoliatum",,"","L.",Accepted,,M,TICA,B35C7561-87A9-434D-936E-4EC088503251,236461-2,"","","1232","1759",
+gcc-64798,A,Compositae,,Silphium,,"perfoliatum",var.,"connatum","(L.) Cronquist",Accepted,,L,TICA,84C70734-9D6F-49E6-A66B-C13A01510692,236464-2,"","","223","1977",
+gcc-70035,A,Compositae,,Silphium,,"perfoliatum",subsp.,"connatum","(L.) Cruden",Synonym,,L,TICA,5F66463A-DF1D-46D2-A3F4-EAE538232EC8,236463-2,"Castanea 27: 90. 1962","","90","1962",gcc-64798
+gcc-146602,A,Compositae,,Silphium,,"perfoliatum",subsp.,"perfoliatum","",Synonym,,L,TICA,435E65DE-AFC1-4F97-B3F5-1C345E38B763,,"","","","",gcc-42519
+gcc-153712,A,Compositae,,Silphium,,"perfoliatum",f.,"perfoliatum","",Synonym,,L,TICA,C7D22568-C835-4D16-A757-B3DFA8618085,,"","","","",gcc-42519
+gcc-62731,A,Compositae,,Silphium,,"perfoliatum",var.,"perfoliatum","",Synonym,,L,TICA,32BFE65F-6177-48CE-99BC-B106CF489BA7,,"","","","",gcc-42519
+gcc-144961,A,Compositae,,Silphium,,"peristenium",,"","Raf.",Synonym,,M,TICA,A59A0E3E-6A65-4922-9A95-FF55B6A5CB70,304167-2,"","","146","1832",gcc-124389
+gcc-112552,A,Compositae,,Silphium,,"perplexum",,"","J.R.Allison",Accepted,,M,TICA,B23825E9-B191-4CB4-B14E-B5AE27449695,,"","","","2001",
+gcc-86966,A,Compositae,,Silphium,,"petiolatum",,"","Poir.",Unresolved,,L,TICA,B092F445-98EB-4FAF-8C4B-7C1F786E3ECA,249165-1,"Encycl. (Lamarck) Suppl. 5. 157","","157","1817",
+gcc-112295,A,Compositae,,Silphium,,"pinnatifidum",,"","T.Nees",Unresolved,,L,TICA,1401E2B7-7A7C-4B67-9E41-B50ED49C73D2,249167-1,"""in Flora vel Bot. Zeitung, xv. 1. 77 (1832).""","","xv. 1. 77","1832",
+gcc-127730,A,Compositae,,Silphium,,"pinnatifidum",,"","Elliott",Synonym,,M,TICA,D6184ADC-3C96-4994-95D3-D86033FB45F1,,"","","462","",gcc-55812
+gcc-51011,A,Compositae,,Silphium,,"platypterum",,"","Spruce ex Benth. & Hook.f.",Unresolved,,L,TICA,E293B178-E9AF-4DC8-B666-5EA2E87E7D60,249168-1,"Gen. ii. 350.","","ii. 350","",
+gcc-12396,A,Compositae,,Silphium,,"pseudo-laciniatum",,"","fras. ex DC.",Unresolved,,L,TICA,1EFB2E71-02EC-4AC7-87EB-171C63CA975A,249169-1,"Prodr. (DC.) 5: 512","","512","1836",
+gcc-129293,A,Compositae,,Silphium,,"pumilum",,"","Pursh",Unresolved,,L,TICA,3CD2B3F0-A2FC-43CA-A86E-DBF46A2F15FB,236468-2,"","","","",
+gcc-93139,A,Compositae,,Silphium,,"pumilum",,"","Michx.",Synonym,,M,TICA,B1BA01B7-600E-4350-9648-8A164EC10D5C,,"Fl. Bor.-Amer. (Michaux) ii. 183","","","1803",gcc-42074
+gcc-147653,A,Compositae,,Silphium,,"pumilum",var.,"pumilum","",Synonym,,L,TICA,A1A74883-32FA-42DE-B6FC-31DDD89B8802,,"","","","",gcc-42074
+gcc-79490,A,Compositae,,Silphium,,"quadrangulum",,"","Hedw.",Unresolved,,L,TICA,5372B148-EB49-4EA1-B761-6B8D4EAD0C52,249171-1,"in Roem. Arch. iii. (1803) 123.","","iii.  123","1803",
+gcc-21314,A,Compositae,,Silphium,,"quercifolium",,"","DC.",Unresolved,,L,TICA,8F4FDA78-5A8E-4D58-A144-27636E659028,249172-1,"Prodr. (DC.) 5: 513","","513","1836",
+gcc-118807,A,Compositae,,Silphium,,"radula",,"","Nutt.",Accepted,,M,TICA,BE3145D7-E8CA-4049-AA56-C3CF5E14D833,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 341""","","341","1840",
+gcc-49744,A,Compositae,,Silphium,,"radula",var.,"gracile","(A.Gray) J.A. Clevinger",Accepted,,L,TICA,0087CEEA-D3A3-4C2A-BC9F-5C33886C5DD9,,"Novon 14(3): 277. 2004 [29 Sep 2004]","","277","2004",
+gcc-60324,A,Compositae,,Silphium,,"radula",var.,"radula","",Synonym,,L,TICA,4AE774A2-7642-4252-B623-9D7D6D71923A,,"","","","",gcc-118807
+gcc-126968,A,Compositae,,Silphium,,"reniforme",,"","Raf. ex Nutt.",Synonym,,M,TICA,EB38D552-12A5-41AF-A7B0-D683958D5E71,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","342","1840",gcc-23326
+gcc-14701,A,Compositae,,Silphium,,"reniforme",,"","Raf.",Unresolved,,L,TICA,75268D40-08D0-4ECD-88AB-1B45AED6C7EC,1173751-2,"","","","",
+gcc-119630,A,Compositae,,Silphium,,"reticulatum",,"","Raf.",Unresolved,,L,TICA,8FDA63C8-0EE4-4168-ADED-C59A6EC9D745,249175-1,"Atl. Journ. 148.","","148","",
+gcc-88430,A,Compositae,,Silphium,,"reticulatum",,"","Pursh",Unresolved,,L,TICA,A46847D9-5489-4213-A1A1-7F64A24B6DFF,249176-1,"Fl. Am. Sept. ii. 579.","","ii. 579","",
+gcc-99903,A,Compositae,,Silphium,,"reticulatum",,"","Moench",Unresolved,,L,TICA,AC6BFB01-966E-41D3-9689-996DCEDE9A60,249177-1,"Methodus (Moench) 606. 1794 [4 May 1794]","","606","1794",
+gcc-105245,A,Compositae,,Silphium,,"reverchonii",,"","Bush",Synonym,,M,TICA,64595AA9-8ED8-4F60-BD1C-A530317FB137,236471-2,"","","125","1906",gcc-118807
+gcc-49695,A,Compositae,,Silphium,,"rigidum",,"","Moench",Unresolved,,L,TICA,AC5C5A65-A5B7-4C6C-9C85-5C1FCF24BE68,249179-1,"Suppl. Meth. (Moench) 258. 1802 [2 May 1802]","","258","1802",
+gcc-38974,A,Compositae,,Silphium,,"rumicifolium",,"","Small",Synonym,,M,TICA,8DF11763-8B5E-4BB1-BE7B-48503653DFB0,236472-2,"","","145","1898",gcc-36338
+gcc-120334,A,Compositae,,Silphium,,"scaberrimum",,"","Elliott",Synonym,,M,TICA,BBABE9F4-81F7-49CF-AC25-C7418DFD84C2,249181-1,"","","466","1823",gcc-111462
+gcc-105531,A,Compositae,,Silphium,,"scabrum",,"","Moench",Synonym,,M,TICA,33B0CD66-85C6-479D-80F6-A5C5F41B1BE7,249182-1,"Methodus (Moench) 606. 1794 [4 May 1794]","","606","1794",gcc-64798
+gcc-89743,A,Compositae,,Silphium,,"scabrum",,"","Walter",Unresolved,,L,TICA,1B4ACBC3-4308-4686-A8B0-826BF3E3D10C,249183-1,"Fl. Carol. 217","","217","1788",
+gcc-52590,A,Compositae,,Silphium,,"simpsonii",,"","Greene",Synonym,,M,TICA,50DBB4DA-302C-4606-97B3-617D8BB402BF,236473-2,"","","44","1899",gcc-68083
+gcc-53374,A,Compositae,,Silphium,,"simpsonii",var.,"simpsonii","",Synonym,,L,TICA,0807D849-596A-4481-8311-65B3783B9E5E,,"","","","",gcc-68083
+gcc-14644,A,Compositae,,Silphium,,"simpsonii",var.,"wrightii","L.M.Perry",Synonym,,L,TICA,4AE5E9D6-157D-4A1F-A737-1B2A3E3E0D30,236474-2,"Rhodora 39: 288. 1937","","288","1937",gcc-118807
+gcc-35249,A,Compositae,,Silphium,,"sinuatum",,"","Banks ex Pursh",Unresolved,,L,TICA,8760CD82-1123-48EF-ACB7-4157B41092E8,249185-1,"Fl. Am. Sept. ii. 577.","","ii. 577","",
+gcc-10820,A,Compositae,,Silphium,,"solidaginoides",,"","L.",Unresolved,,L,TICA,B465C93E-714D-48DB-8C93-1442B84C0061,249186-1,"Sp. Pl. 920.","","920","1753",gcc-110239
+gcc-45631,A,Compositae,,Silphium,,"speciosum",,"","Nutt.",Synonym,,M,TICA,6054A560-B3FF-429B-9DC9-549091D69ED6,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 341""","","341","1840",gcc-20589
+gcc-112644,A,Compositae,,Silphium,,"spicatum",,"","Poir.",Unresolved,,L,TICA,F9044636-ACEC-48DF-827E-B5E20EF4C66A,249188-1,"Encycl. (Lamarck) Suppl. 5. 157","","157","1817",
+gcc-40090,A,Compositae,,Silphium,,"subacaule",,"","Nutt.",Synonym,,M,TICA,5C43DDA7-C556-4318-A7D6-4A5BAAB33C45,249189-1,"Amer. J. Sci. Arts 5: 301. 1822","","301","1822",gcc-11846
+gcc-36338,A,Compositae,,Silphium,,"terebinthinaceum",,"","Jacq.",Accepted,,M,TICA,F7B44FA9-A814-4A3B-9823-4361BC91CA12,,"Hort. Vindob. i. 16.","","","1770",
+gcc-18429,A,Compositae,,Silphium,,"terebinthinaceum",var.,"lucy-brauniae","Steyerm.",Synonym,,L,TICA,0DBB5C74-7350-409D-A186-220C37F534D6,,"Rhodora 53: 134. 1951","","","1951",gcc-36338
+gcc-55812,A,Compositae,,Silphium,,"terebinthinaceum",var.,"pinnatifidum","(Elliott) A.Gray",Accepted,,L,TICA,ACF2367A-ADED-43EE-8A11-79171CF283DE,236476-2,"Manual (Gray) 220. 1848","","220","1848",
+gcc-60175,A,Compositae,,Silphium,,"terebinthinaceum",var.,"terebinthinaceum","",Synonym,,L,TICA,A1888233-036C-4158-8302-9C35ED751843,,"","","","",gcc-36338
+gcc-128756,A,Compositae,,Silphium,,"ternatum",,"","Retz. ex Willd.",Unresolved,,L,TICA,4ECD8964-07D2-41C0-931B-DABEFE49AEFC,249192-1,"Sp. Pl. iii. 2333.","","iii. 2333","",
+gcc-31306,A,Compositae,,Silphium,,"ternatum",,"","Sessé & Moc.",Accepted,,M,TICA,F9D36CB2-D318-490A-A311-39FAAD9FD9CA,236479-2,"""Fl. Mexic., ed. 2 195""","","195","1894",
+gcc-149486,A,Compositae,,Silphium,,"ternatum",var.,"ternatum","",Synonym,,L,TICA,217344B8-8795-443A-8130-59B83FBFEFAA,,"","","","",gcc-31306
+gcc-110753,A,Compositae,,Silphium,,"ternifolium",,"","Michx.",Unresolved,,L,TICA,4E7E8574-CB73-4032-8B7D-B1A0EF3D1FF6,249194-1,"Fl. Bor.-Amer. (Michaux) ii. 146","","146","1803",
+gcc-102107,A,Compositae,,Silphium,,"tetragonotheca",,"","Gaertn.",Unresolved,,L,TICA,F5EC10EB-6104-4C62-996C-9E4E356BD586,,"Fruct. Sem. Pl. ii. 444. t. 171. f. 2","","444","",
+gcc-13206,A,Compositae,,Silphium,,"tetragonum",,"","Moench",Unresolved,,L,TICA,D8C6275B-7402-4D56-A241-1898C986DEE3,249196-1,"Methodus (Moench) 606. 1794 [4 May 1794]","","606","1794",
+gcc-2054,A,Compositae,,Silphium,,"tomentosum",,"","herb.banks ex Pursh",Synonym,,M,TICA,625A95AE-476E-4EAF-8A8D-03B26780D3CB,,"Fl. Am. Sept. ii. 579.","","","1814 [1813]",gcc-42074
+gcc-45866,A,Compositae,,Silphium,,"trachopus",,"","Raf.",Unresolved,,L,TICA,7EA6AA64-93CA-4EA8-B084-55041A61CB36,249198-1,"Herb. 24; Atl. Journ. 178.","","24","",
+gcc-32142,A,Compositae,,Silphium,,"trifoliatum",,"","L.",Accepted,,M,TICA,86B63DEE-B375-4E5F-A9B9-3B8A030BB5F2,315758-2,"Sp. Pl.","","920","1753",
+gcc-56337,A,Compositae,,Silphium,,"trifoliatum",var.,"latifolium","A.Gray",Synonym,,L,TICA,5116DAD6-D40B-4370-936C-7D9F527D2456,236482-2,"""Syn. Fl. N. Amer. 1, pt. 2: 241. 1884""","","241","1884",gcc-65623
+gcc-128873,A,Compositae,,Silphium,,"trifoliatum",f.,"trifoliatum","",Synonym,,L,TICA,19C8D968-12FB-4CDA-B4AB-DB06D3D306BE,,"","","","",gcc-59640
+gcc-60888,A,Compositae,,Silphium,,"trifoliatum",var.,"trifoliatum","",Synonym,,L,TICA,1D362ACE-E8ED-4D6B-8503-A214ED7EF859,,"","","","",gcc-59640
+gcc-63061,A,Compositae,,Silphium,,"trifoliatum",var.,"trifoliatum","",Synonym,,L,TICA,E39F70AA-3F51-4760-BE35-B3D08A620116,236483-2,"Rhodora 47: 401. 1945","","401","1945",gcc-59640
+gcc-107986,A,Compositae,,Silphium,,"trilobatum",,"","L.",Synonym,,M,TICA,28D6AC30-28A4-47B2-9015-AB58AFB2CB8F,236485-2,"""Syst. Nat., ed. 10. 2: 1233. 1759 [7 Jun 1759]""","","1233","1759",gcc-5859
+gcc-24079,A,Compositae,,Silphium,,"venosum",,"","Small",Synonym,,M,TICA,970EBC8C-2D88-4BA8-9E4B-2C7F2796F619,311758-2,"Bull. Torrey Bot. Club 25: 478. 1898","","478","1898",gcc-23326
+gcc-136525,A,Compositae,,Silphium,,"wasiotense",,"","Medley",Accepted,,M,TICA,38DF5C65-1504-4AB8-BC07-EC6BB3ABA4A3,,"","","","1989",

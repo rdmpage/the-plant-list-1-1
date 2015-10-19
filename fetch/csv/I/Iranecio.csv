@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-1791,A,Compositae,,Iranecio,,"bulghardaghensis",,"","(Soldano) D.Heller",Accepted,,M,TICA,B0EDF5D5-A24A-4AB7-9BEA-0338EC40CB62,985734-1,"","","68","1993",
+gcc-91402,A,Compositae,,Iranecio,,"cariensis",,"","(Boiss.) C.Jeffrey",Accepted,,M,TICA,7B3CF7E3-295E-48BF-B39F-865098DB1122,,"","","102","1992",
+gcc-83723,A,Compositae,,Iranecio,,"davisii",,"","(Matthews) C.Jeffrey",Accepted,,M,TICA,03B2B836-0238-414D-932C-74E50F560308,,"","","102","1992",
+gcc-22945,A,Compositae,,Iranecio,,"elbrusensis",,"","(Boiss.) B.Nord.",Accepted,,L,TICA,19AC8617-FA78-4242-B3E9-2A789222E2C8,946759-1,"""in Fl. Iran., 164: 55 (1989):.""","","55","1989",
+gcc-33301,A,Compositae,,Iranecio,,"eriospermus",,"","(DC.) C.Jeffrey",Accepted,,M,TICA,C7DAEE6F-B592-4464-8F34-3DBDD181D772,,"","","102","1992",
+gcc-146389,A,Compositae,,Iranecio,,"eriospermus",var.,"eriospermus","",Synonym,,L,TICA,892040E1-D148-41C4-9F73-17893A82036C,,"","","","",gcc-33301
+gcc-93625,A,Compositae,,Iranecio,,"farfarifolius",,"","(Boiss. & Kotschy) C.Jeffrey",Synonym,,M,TICA,2AA50808-FA25-4AE7-9C36-8B1B09D43410,963681-1,"","","102","1992",gcc-1791
+gcc-76806,A,Compositae,,Iranecio,,"hypochionaeus",,"","(Boiss.) C.Jeffrey",Accepted,,L,TICA,03D59013-C510-4BBB-B274-6574E85A8FD5,,"","","102","1992",
+gcc-157203,A,Compositae,,Iranecio,,"hypochionaeus",var.,"hypochionaeus","",Synonym,,L,TICA,D4E64036-EFE9-4663-BE38-FD04EFF6DC42,,"","","","",gcc-76806
+gcc-111677,A,Compositae,,Iranecio,,"ilkasiensis",,"","(Freyn & Sint.) D.Heller",Unresolved,,L,TICA,E3BB985B-60A9-4310-8FE1-B3A45513CE81,,"Conspectus Florae Orientalis 8:","","171","1993",gcc-76806
+gcc-25603,A,Compositae,,Iranecio,,"jurineifolius",,"","(Boiss. & Balansa) C.Jeffrey",Accepted,,M,TICA,3F6C59C3-8E97-49B2-BF28-2F4B3E5CE698,,"","","102","1992",
+gcc-18373,A,Compositae,,Iranecio,,"kubensis",,"","(Grossh.) C.Jeffrey",Accepted,,M,TICA,60A1CA8E-BE89-4187-8828-21EE9B72EF68,,"","","102","1992",
+gcc-86722,A,Compositae,,Iranecio,,"lazicus",,"","(Boiss. & Balansa) C.Jeffrey",Accepted,,M,TICA,DB58B935-661F-49EA-ABAB-7B8EE112157C,,"","","103","1992",
+gcc-141788,A,Compositae,,Iranecio,,"lipskyi",,"","(Lomak.) C.Jeffrey",Accepted,,M,TICA,6FC405C6-18D1-4515-801E-F834760AFB4F,,"","","103","1992",
+gcc-87950,A,Compositae,,Iranecio,,"lorentii",,"","(Hochst.) C.Jeffrey",Accepted,,M,TICA,821C77E1-F4E0-4623-9C99-7E577C67A694,,"","","103","1992",
+gcc-111085,A,Compositae,,Iranecio,,"massagetovii",,"","(Schischk.) C.Jeffrey",Accepted,,M,TICA,F4B426E5-5157-4374-B2B2-B259DB771FA8,,"","","103","1992",
+gcc-101448,A,Compositae,,Iranecio,,"oligolepis",,"","(Boiss.) B.Nord.",Accepted,,L,TICA,0201813F-44D2-49E5-9A1A-9CCBACFEE111,946758-1,"""in Fl. Iran., 164: 54 (1989):.""","","54","1989",
+gcc-28748,A,Compositae,,Iranecio,,"othonnae",,"","(M.Bieb.) B.Nord.",Synonym,,M,TICA,722A06D6-7AAE-472C-97C4-35296914C0BD,946761-1,"","","58","1989",gcc-104048
+gcc-100395,A,Compositae,,Iranecio,,"pandurifolius",,"","(K.Koch) C.Jeffrey",Accepted,,M,TICA,358BA57A-B82C-4061-B882-9A80CAA314F9,,"","","103","1992",
+gcc-125927,A,Compositae,,Iranecio,,"paucilobus",,"","(DC.) B.Nord.",Accepted,,M,TICA,6C0FE022-9DCB-45F4-9C17-D42A392DDE9E,946760-1,"","","56","1989",
+gcc-77001,A,Compositae,,Iranecio,,"taraxacifolius",,"","(M.Bieb.) C.Jeffrey",Accepted,,M,TICA,228C754E-0359-4A82-8465-65DCA24CA23E,,"","","103","1992",
+gcc-155281,A,Compositae,,Iranecio,,"taraxacifolius",var.,"taraxacifolius","",Synonym,,L,TICA,B149D25C-7801-4A4B-95E5-D4BD27BEE48B,,"","","","",gcc-77001

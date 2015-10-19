@@ -1,0 +1,31 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-39784,A,Compositae,,Jaumea,,"alternifolia",,"","Klatt",Unresolved,,L,TICA,6B2AA734-DA29-451F-8C6C-49CFA2AB368B,226734-1,"in Flora lxviii. (1885) 203.","","lxviii.  203","1885",
+gcc-22318,A,Compositae,,Jaumea,,"altissima",,"","Klatt ex Schinz",Unresolved,,L,TICA,9BCED895-8957-47B1-86F5-294C52A96969,,"Bull. Herb. Boissier iii. (1895) 425.","","iii.  425.","1895",gcc-93248
+gcc-35097,A,Compositae,,Jaumea,,"altissima",,"","Klatt",Synonym,,L,TICA,227FADBF-26D0-4FD6-84A6-41142DC4D16B,,"","","","",gcc-93248
+gcc-87075,A,Compositae,,Jaumea,,"angolensis",,"","O.Hoffm.",Synonym,,M,TICA,C1D63B1F-C5C4-4284-891B-7C6EFF8F0F8D,,"Bol. Soc. Brot. 10: 178","","178","",gcc-90969
+gcc-87295,A,Compositae,,Jaumea,,"carnosa",,"","(Less.) A.Gray",Accepted,,M,TICA,09B8595E-B586-40A5-B887-7CF2357CF299,,"Bot. U. St. Expl. Exped. 360.","","","1874",
+gcc-82358,A,Compositae,,Jaumea,,"chevalieri",,"","O.Hoffm.",Accepted,,M,TICA,5F724510-6C5C-4D50-840B-71DD83F6C538,226738-1,"Bull. Soc. Bot. France 55(Mém. 8b): 41","","41","1908",
+gcc-132402,A,Compositae,,Jaumea,,"compositarum",,"","(Steetz) Benth. & Hook.f.",Unresolved,,L,TICA,FA06028B-6E02-4C48-91C1-E32FA6F90B4A,,"Genera Plantarum 2:","","397","1873",gcc-92714
+gcc-4929,A,Compositae,,Jaumea,,"compositarum",,"","Klatt",Synonym,Illegitimate,M,TICA,40D4399C-234F-49EA-A8ED-09330F5594D0,,"""Ann. Naturhist. Hofmus. Wien, VII: 103 (1892)""","","","",gcc-90969
+gcc-96662,A,Compositae,,Jaumea,,"compositarum",,"","Benth. & Hook.f. ex Oliv.",Unresolved,,L,TICA,F085773B-EFD5-431C-BAAC-9219A38D280D,226739-1,"Fl. Trop. Afr. [Oliver et al.] 3: 395","","395","1877",gcc-92714
+gcc-37404,A,Compositae,,Jaumea,,"congensis",,"","O.Hoffm. ex T.Durand & De Wild.",Unresolved,,L,TICA,143E01CD-09F0-458E-8819-45540AA6A65F,226740-1,"in Compt. Rend. Soc. Bot. Belg. xxxix. 33.","","xxxix. 33.","",
+gcc-6591,A,Compositae,,Jaumea,,"congoensis",,"","O.Hoffm.",Synonym,,M,TICA,A2EEC4E1-B05F-4C87-9AAC-0C3926E4DCF1,,"Boletim da Sociedade Broteriana 10:","","178","1892",gcc-7380
+gcc-129371,A,Compositae,,Jaumea,,"elata",,"","O.Hoffm.",Synonym,,M,TICA,922ADBE7-4B63-4CC3-A760-DC1AC8D505FB,,"Bot. Jahrb. Syst. xxviii. 506.","","","1900",gcc-94730
+gcc-143171,A,Compositae,,Jaumea,,"elata",,"","(N.E.Br.) Eyles",Unresolved,,L,TICA,A8EC72B0-ECE9-4A67-BCEB-FB4B5A5E9286,226742-1,"Trans. Roy. Soc. South Africa v. 516 (1916)","","516","1916",
+gcc-121421,A,Compositae,,Jaumea,,"gossweileri",,"","(S.Moore) Mattf.",Synonym,,M,TICA,A3AC8371-49CB-4AF0-8FA3-C9C57F687BD9,,"""Bot. Jahrb. Syst. lix. Beibl. 133, 23 (1924).""","","","1924",gcc-97814
+gcc-75802,A,Compositae,,Jaumea,,"helenae",,"","Buscal. & Muschl.",Accepted,,M,TICA,844E8D5F-CF74-4BE4-A2BC-63473739F25A,226744-1,"Bot. Jahrb. Syst. xlix. 507 (1913).","","xlix. 507","1913",
+gcc-138637,A,Compositae,,Jaumea,,"hessii",,"","Merxm.",Synonym,,M,TICA,6FA17E49-C098-4FA2-9950-F106828F343D,,"""in Mitt. Bot. Staatssamml. München, Heft 11, 35 (1954).""","","35","",gcc-50145
+gcc-83454,A,Compositae,,Jaumea,,"johnstonii",,"","Baker",Synonym,,L,TICA,78C62B17-EE41-457F-8523-7455795E0105,226746-1,"""Bull. Misc. Inform. Kew 1898, 153.""","","153","",gcc-92714
+gcc-38164,A,Compositae,,Jaumea,,"linearifolia",,"","(Juss.) DC.",Accepted,,M,TICA,1F9903F5-5008-40A9-A84E-46CA7ED9DB7F,226747-1,"Prodr. (DC.) 5: 663","","663","1836",
+gcc-150895,A,Compositae,,Jaumea,,"linearis",,"","Pers.",Accepted,,M,TICA,6820D6B8-C555-48D6-A2BB-788720702722,226748-1,"","","397","1807",
+gcc-9527,A,Compositae,,Jaumea,,"mexicana",,"","(DC.) Benth. & Hook.f. ex Hemsl.",Synonym,,M,TICA,5FB004BB-0291-4D59-A152-11C651CE2C0B,1147876-2,"","","209","1881",gcc-120097
+gcc-25601,A,Compositae,,Jaumea,,"mimuloides",,"","Hieron.",Synonym,,M,TICA,DD3AE411-B68D-41BA-B96C-2F4A73D5D9B2,131638-2,"Bot. Jahrb. Syst. 29: 52. 1900","","52","1900",gcc-93100
+gcc-97360,A,Compositae,,Jaumea,,"mimuloides",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,656B6AFC-99C7-4B2E-9BFD-93ADDF6D19A9,,"Bot. Jahrb. Syst. xxix. 52.","","52","",
+gcc-11840,A,Compositae,,Jaumea,,"multicaulis",,"","(Hutch.) Mattf.",Synonym,,M,TICA,185BC9D4-5596-4835-9BC6-160FAA778417,226751-1,"""Bot. Jahrb. Syst. lix. Beibl. 133, 23 (1924).""","","""lix. Beibl. 133, 23""","1924",gcc-39442
+gcc-48078,A,Compositae,,Jaumea,,"oliveri",,"","Vatke ex Kuntze",Unresolved,,L,TICA,C88C2AA9-694E-4A82-85D4-5917A04CC365,226752-1,"Revis. Gen. Pl. 1: 348","","348","1891",
+gcc-108469,A,Compositae,,Jaumea,,"peduncularis",,"","(Hook. & Arn.) Benth. & Hook.f. ex Oliv.",Accepted,,M,TICA,4AE07C8E-E8E5-45E0-A1D6-AC5A1A8420BD,226753-1,"""Fl. Trop. Afr. [Oliver et al.] 3: 395, in nota""","","395","1877",
+gcc-15066,A,Compositae,,Jaumea,,"rotundifolia",,"","Mattf.",Accepted,,M,TICA,937C978D-8C5C-4753-B4F7-1BE36C7E2B11,226754-1,"Bot. Jahrb. Syst. lix. Beibl. 22 (1924).","","lix. Beibl. 22","1924",
+gcc-80575,A,Compositae,,Jaumea,,"scabrida",,"","(N.E.Br.) Lawalrée",Synonym,,M,TICA,5A5CFA41-8ED5-4B63-8F15-6DE03FC097B1,226755-1,"""in Bull. Jard. Bot. Brux. xix. 224 (1949), in obs.""","","""xix. 224 , in obs.""","1949",gcc-90969
+gcc-7817,A,Compositae,,Jaumea,,"speciosa",,"","Lawalrée",Synonym,,M,TICA,7BCBF71F-5EE2-4E31-92E9-0E887ED016BF,,"in Bull. Jard. Bot. Brux. xix. 224 (1949).","","","1949",gcc-94730
+gcc-143632,A,Compositae,,Jaumea,,"tenuifolia",,"","(Sch.Bip.) Klatt",Synonym,,M,TICA,A951E976-FFCC-4ED6-869B-FC508F094AFF,131639-2,"","","146","1887",gcc-2813
+gcc-141338,A,Compositae,,Jaumea,,"tessmannii",,"","Mattf.",Synonym,,M,TICA,9B8D1A67-292D-46BA-A4B4-F72567D107DF,,"Bot. Jahrb. Syst. lix. Beibl. 23 (1924).","","","1924",gcc-41262

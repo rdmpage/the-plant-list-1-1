@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50277779,A,Apiaceae,,Phlojodicarpus,,"abolinii",,"","Korovin",Synonym,,M,TRO,50277779,846571-1,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R.","5: 74","74","1924",tro-1702900
+tro-1703028,A,Apiaceae,,Phlojodicarpus,,"baicalensis",,"","Popov",Synonym,,M,TRO,1703028,,"","","","",tro-1703032
+kew-2403681,A,Apiaceae,,Phlojodicarpus,,"dahuricus",,"","Turcz.",Unresolved,,L,WCSP (in review),,846573-1,"Bull. Soc. Imp. Naturalistes Moscou","11(1): 93","","1838",
+tro-1703029,A,Apiaceae,,Phlojodicarpus,,"eudahuricus",,"","Popov",Synonym,,M,TRO,1703029,,"","","","",kew-2403677
+kew-2403674,A,Apiaceae,,Phlojodicarpus,,"komarovii",,"","Gorovoj",Unresolved,,L,WCSP (in review),,846579-1,"Novosti Sist. Vyssh. Rast.","1964: 252","","1964",
+kew-2403679,A,Apiaceae,,Phlojodicarpus,,"microcarpus",,"","Ledeb.",Unresolved,,L,WCSP (in review),,846575-1,"Fl. Ross.","2: 331","","1844",
+tro-1703031,A,Apiaceae,,Phlojodicarpus,,"nudiusculus",,"","Turcz. ex Popov",Synonym,,M,TRO,1703031,,"","","","",tro-1703036
+tro-1703032,A,Apiaceae,,Phlojodicarpus,,"popovii",,"","Sipliv.",Accepted,,M,TRO,1703032,,"","","","",
+kew-2403677,A,Apiaceae,,Phlojodicarpus,,"sibiricus",,"","(Fisch.) Koso-Pol.",Accepted,,M,WCSP (in review),,846577-1,"Spisok Rast. Gerb. Russk. Fl. Bot. Muz. Rossiisk. Akad. Nauk","8: 117","","1922",
+tro-1703034,A,Apiaceae,,Phlojodicarpus,,"sibiricus",var.,"baicalensis","Serg.",Synonym,,L,TRO,1703034,,"","","","",tro-1703032
+tro-1703035,A,Apiaceae,,Phlojodicarpus,,"sibiricus",var.,"eudahuricus","Serg.",Synonym,,L,TRO,1703035,,"","","","",kew-2403677
+tro-1704585,A,Apiaceae,,Phlojodicarpus,,"sibiricus",var.,"villosus","(Turcz. ex Fisch. & C.A. Mey.) Chu",Synonym,,L,TRO,1704585,892152-1,"Fl. Pl. Herb. Chin. Bor.-Orient.","6: 287","287","1977",tro-1700192
+tro-50283979,A,Apiaceae,,Phlojodicarpus,,"sibiricus",subsp.,"villosus","(Turcz. ex Fisch. & C.A. Mey.) Vorosch.",Synonym,,L,TRO,50283979,,"","","","",tro-1700192
+tro-1703036,A,Apiaceae,,Phlojodicarpus,,"turczaninovii",,"","Sipliv.",Accepted,,M,TRO,1703036,,"","","","",
+tro-1700192,A,Apiaceae,,Phlojodicarpus,,"villosus",,"","(Turcz. ex Fisch. & C.A. Mey.) Turcz. ex Ledeb.",Accepted,,M,TRO,1700192,,"Fl. Ross.","2: 331","331","1844",

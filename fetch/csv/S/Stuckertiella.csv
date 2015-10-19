@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117421,A,Compositae,,Stuckertiella,,"capitata",,"","(Wedd.) Beauverd",Accepted,,M,TICA,69A7EAC4-5DCC-4C95-A2A2-C09BEDAB4E88,251904-1,"","","206","1913",
+gcc-79997,A,Compositae,,Stuckertiella,,"peregrina",,"","Beauverd",Accepted,,M,TICA,FEC6F4BA-7149-418F-8BEE-6C9E1049C46A,251905-1,"","","208","1913",
+gcc-147711,A,Compositae,,Stuckertiella,,"peregrina",var.,"peregrina","",Synonym,,L,TICA,9D108613-6389-40F0-9E44-33BA710E3443,,"","","","",gcc-79997

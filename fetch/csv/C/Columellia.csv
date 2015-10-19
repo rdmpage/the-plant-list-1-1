@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-46363,A,Columelliaceae,,Columellia,,"andrei",,"","J.F.Macbr.",Synonym,,H,WCSP,46363,63490-2,"Publ. Field Columb. Mus., Bot. Ser.","4: 92","","1925",kew-46368
+kew-46364,A,Columelliaceae,,Columellia,,"arborescens",,"","Pers.",Synonym,,H,WCSP,46364,169711-1,"Syn. Pl.","1: 13","","1805",kew-46368
+kew-46365,A,Columelliaceae,,Columellia,,"frutescens",,"","Pers.",Synonym,,H,WCSP,46365,169712-1,"Syn. Pl.","1: 13","","1805",kew-46368
+kew-46366,A,Columelliaceae,,Columellia,,"lucida",,"","Danguy & Cherm.",Accepted,,H,WCSP,46366,63491-2,"Bull. Mus. Natl. Hist. Nat.","28: 436","","1922",
+kew-46367,A,Columelliaceae,,Columellia,,"matthewsii",,"","Briq.",Synonym,,H,WCSP,46367,169714-1,"Annuaire Conserv. Jard. Bot. Genève","20: 367","","1919",kew-46370
+kew-46368,A,Columelliaceae,,Columellia,,"oblonga",,"","Ruiz & Pav.",Accepted,,H,WCSP,46368,169715-1,"Fl. Peruv.","1: 28","","1798",
+kew-46369,A,Columelliaceae,,Columellia,,"oblonga",subsp.,"oblonga","",Synonym,,L,WCSP,46369,,"Unknown","","","",kew-46368
+kew-46370,A,Columelliaceae,,Columellia,,"oblonga",subsp.,"sericea","(Kunth) Brizicky",Accepted,,L,WCSP,46370,63493-2,"J. Arnold Arbor.","42: 368","","1961",
+kew-46371,A,Columelliaceae,,Columellia,,"oblonga",subsp.,"serrata","(Rusby) Brizicky",Accepted,,L,WCSP,46371,63494-2,"J. Arnold Arbor.","42: 367","","1961",
+kew-46372,A,Columelliaceae,,Columellia,,"obovata",,"","Ruiz & Pav.",Accepted,,H,WCSP,46372,169716-1,"Fl. Peruv.","1: 28","","1798",
+kew-46373,A,Columelliaceae,,Columellia,,"sericea",,"","Kunth",Synonym,,H,WCSP,46373,169717-1,"Nov. Gen. Sp.","2: 388","","1818",kew-46370
+kew-46374,A,Columelliaceae,,Columellia,,"serrata",,"","Rusby",Synonym,,H,WCSP,46374,63496-2,"Mem. Torrey Bot. Club","6: 93","","1896",kew-46371
+kew-46375,A,Columelliaceae,,Columellia,,"subsessilis",,"","Schltr.",Accepted,,H,WCSP,46375,63497-2,"Notizbl. Bot. Gart. Berlin-Dahlem","7: 356","","1920",
+kew-46376,A,Columelliaceae,,Columellia,,"weberbaueri",,"","Schltr.",Accepted,,H,WCSP,46376,63498-2,"Notizbl. Bot. Gart. Berlin-Dahlem","7: 358","","1920",

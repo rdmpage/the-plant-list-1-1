@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-13412,A,Compositae,,Centrocarpha,,"acutifolia",,"","Sweet",Synonym,Invalid,M,TICA,D90E8A54-E017-43E2-809B-19045955B841,192009-1,"","","310","1830",gcc-140245
+gcc-79091,A,Compositae,,Centrocarpha,,"aristata",,"","(Banks ex Pursh) D.Don",Synonym,,M,TICA,76C845C1-6162-4ADB-B05A-6AAF879C200D,,"","","","",gcc-95282
+gcc-103797,A,Compositae,,Centrocarpha,,"chrysantha",,"","Steud.",Unresolved,,L,TICA,B9A3EFEB-8607-4DFD-8700-A20BBB1AACDB,192011-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 321""","","321","1840",
+gcc-20063,A,Compositae,,Centrocarpha,,"chrysomela",,"","(Michx.) G.Don",Unresolved,,L,TICA,0692FE6C-190D-422B-B158-2518B1F3F19A,192012-1,"Hort. Brit. (Sweet) (ed. 3) 357. 1839","","357","1839",
+gcc-8584,A,Compositae,,Centrocarpha,,"chrysomela",,"","D.Don",Unresolved,,L,TICA,DB3E6AD5-1D12-4C52-BB3A-1006F5F1FE1A,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",
+gcc-86721,A,Compositae,,Centrocarpha,,"discolor",,"","(Pursh) D.Don",Unresolved,Invalid,L,TICA,8DC8A692-79D3-45BD-A1E5-7B8EB00053A3,,"","","","",
+gcc-124113,A,Compositae,,Centrocarpha,,"fulgida",,"","(Aiton) D.Don ex G.Don",Unresolved,,L,TICA,FE9A7205-E952-49BD-B06F-CFF2424F6743,192014-1,"Hort. Brit. (Sweet) (ed. 3) 357. 1839","","357","1839",gcc-113773
+gcc-127949,A,Compositae,,Centrocarpha,,"gracilis",,"","(Nutt.) D.Don ex G.Don",Unresolved,,L,TICA,569FA46D-631F-4925-9C8F-D8E16C92ECB2,192015-1,"Hort. Brit. (Sweet) (ed. 3) 357. 1839","","357","1839",
+gcc-93112,A,Compositae,,Centrocarpha,,"gracilis",,"","D.Don ex Sweet",Synonym,,L,TICA,4D33855A-8E20-46E2-8A53-8A09F65D296C,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",gcc-126702
+gcc-43584,A,Compositae,,Centrocarpha,,"grandiflora",,"","D.Don",Synonym,,M,TICA,4A880702-6F9E-4AC2-8152-50CBC568BF74,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",gcc-113753
+gcc-45006,A,Compositae,,Centrocarpha,,"grandiflora",,"","Sweet",Synonym,,M,TICA,ED203B65-6979-494B-94C7-53630B93F149,,"""Brit. Fl. Gard. 4(ser. 2, 1): 87. 1831 [Mar 1831]""","","","1831",gcc-113753
+gcc-11104,A,Compositae,,Centrocarpha,,"hirta",,"","D.Don ex Sweet",Synonym,,L,TICA,32D36DFF-87CC-4F06-9D4D-14C3C81FBFCE,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",gcc-126702
+gcc-38830,A,Compositae,,Centrocarpha,,"hirta",,"","(L.) D.Don ex G.Don",Unresolved,,L,TICA,D47CA774-EF7D-4965-8AE8-4808AB226B0F,192017-1,"Hort. Brit. (Sweet) (ed. 3) 357. 1839","","357","1839",gcc-126702
+gcc-104650,A,Compositae,,Centrocarpha,,"moschata",,"","j.cree ex Steud.",Unresolved,,L,TICA,8C813E69-9ED7-4E0F-8316-A3EC2F505ACF,192018-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 321""","","321","1840",
+gcc-10484,A,Compositae,,Centrocarpha,,"radula",,"","D.Don",Synonym,,M,TICA,1D500E41-F853-44E9-8110-138EED1B630B,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",gcc-144334
+gcc-37675,A,Compositae,,Centrocarpha,,"spathulata",,"","D.Don",Synonym,,M,TICA,17FE3243-818C-466F-9C48-45DCDF5075F6,,"Brit. Fl. Gard. 4: t. 87 (1830)","","t. 87","1830",gcc-50873
+gcc-129595,A,Compositae,,Centrocarpha,,"subtomentosa",,"","Sweet",Synonym,Invalid,M,TICA,F92C53F3-4B7C-45C0-99CA-DC9D0DC31A91,,"","","310","",gcc-140296
+gcc-4730,A,Compositae,,Centrocarpha,,"triloba",,"","(L.) D.Don",Synonym,,M,TICA,524DFB83-0B62-4907-8109-08CAF6538661,,"","","","",gcc-140296
+gcc-96048,A,Compositae,,Centrocarpha,,"triloba",,"","Loudon",Synonym,,M,TICA,46D0F9E2-8937-4496-8D5A-90B2C028AC71,192022-1,"","","","1832",gcc-95282

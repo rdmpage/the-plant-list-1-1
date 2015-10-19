@@ -1,0 +1,27 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-27300033,A,Resedaceae,,Oligomeris,,"burchellii",,"","Harv.",Synonym,,M,TRO,27300033,,"","","","",tro-27300029
+kew-2396480,A,Resedaceae,,Oligomeris,,"capensis",,"","Harv.",Unresolved,,L,WCSP (in review),,715398-1,"Fl .Cap.","1: 64","","1860",
+tro-27300035,A,Resedaceae,,Oligomeris,,"capensis",var.,"burchellii","Abdallah",Synonym,,L,TRO,27300035,,"","","","",tro-27300029
+tro-27300037,A,Resedaceae,,Oligomeris,,"capensis",var.,"capensis","",Synonym,,L,TRO,27300037,,"","","","",tro-27300029
+tro-27300039,A,Resedaceae,,Oligomeris,,"capensis",var.,"pumila","Perkins",Synonym,,L,TRO,27300039,,"","","","",tro-27300029
+tro-27300041,A,Resedaceae,,Oligomeris,,"capensis",var.,"virgata","Harv.",Synonym,,L,TRO,27300041,,"","","","",tro-27300029
+tro-27300029,A,Resedaceae,,Oligomeris,,"dipetala",,"","(Aiton) Turcz.",Accepted,,M,TRO,27300029,715400-1,"Bull. Soc. Imp. Naturalistes Moscou","27(2): 330","330","1854",
+tro-27300043,A,Resedaceae,,Oligomeris,,"dipetala",var.,"capensis","Müll. Arg.",Synonym,,L,TRO,27300043,,"","","","",tro-27300029
+tro-27300030,A,Resedaceae,,Oligomeris,,"dipetala",var.,"dipetala","",Synonym,,L,TRO,27300030,,"","","","",tro-27300029
+tro-27300045,A,Resedaceae,,Oligomeris,,"dipetala",var.,"pumila","Müll. Arg.",Synonym,,L,TRO,27300045,,"","","","",tro-27300029
+tro-27300056,A,Resedaceae,,Oligomeris,,"dipetala",var.,"spathulata","Abdallah",Accepted,,L,TRO,27300056,,"","","","",
+tro-27300047,A,Resedaceae,,Oligomeris,,"dipetala",var.,"virgata","Müll. Arg.",Synonym,,L,TRO,27300047,,"","","","",tro-27300029
+tro-50302471,A,Resedaceae,,Oligomeris,,"dispersa",,"","Müll. Arg.",Synonym,,L,TRO,50302471,,"Monogr. Resedacees","214","214","1857",kew-2396472
+tro-27300060,A,Resedaceae,,Oligomeris,,"dregeana",,"","(Müll. Arg.) Müll. Arg.",Accepted,,M,TRO,27300060,,"Monog. Resed.","216","216","",
+tro-27300065,A,Resedaceae,,Oligomeris,,"dregeana",var.,"sphaerocarpa","Abdallah",Synonym,,L,TRO,27300065,,"","","","",kew-2396472
+kew-2396475,A,Resedaceae,,Oligomeris,,"ellimia",,"","Webb",Unresolved,,L,WCSP (in review),,715403-1,"Fragm. Fl. Aethiop.-Aegypt.","27","","1854",
+tro-27300048,A,Resedaceae,,Oligomeris,,"frutescens",,"","Müll. Hal.",Synonym,,M,TRO,27300048,,"","","","",tro-27300029
+kew-2396473,A,Resedaceae,,Oligomeris,,"glaucescens",,"","Cambess.",Synonym,,L,WCSP (in review),,,"Voy. Inde","4: 24","","1841",kew-2396472
+kew-2396472,A,Resedaceae,,Oligomeris,,"linifolia",,"","(Vahl ex Hornem.) J.F.Macbr.",Accepted,,L,WCSP (in review),,173708-2,"Contr. Gray Herb.","53: 13","","1918",
+tro-27300049,A,Resedaceae,,Oligomeris,,"lycopodioides",,"","Schinz & Dinter",Synonym,,M,TRO,27300049,,"","","","",tro-27300029
+kew-2396470,A,Resedaceae,,Oligomeris,,"resedella",,"","Webb",Unresolved,,L,WCSP (in review),,715408-1,"Fragm. Fl. Aethiop.-Aegypt.","26","","1854",
+tro-50297978,A,Resedaceae,,Oligomeris,,"ruderalis",,"","(Nutt.) A. Nelson & P.B. Kenn.",Synonym,,L,TRO,50297978,173709-2,"Muhlenbergia","3(9): 138","138","1908",kew-2396472
+tro-27300059,A,Resedaceae,,Oligomeris,,"spathulata",,"","E. Mey. ex Harv. & Sond.",Synonym,,M,TRO,27300059,715410-1,"Fl. Cap.","1: 65","65","1860",tro-27300056
+gcc-2636,A,Resedaceae,,Oligomeris,,"subulata",,"","""Webb,""",Accepted,,L,TICA,0EDB99C7-F05E-4D59-9797-04DAF0E07C5A,,"","","","",
+kew-2396467,A,Resedaceae,,Oligomeris,,"subulata",,"","(Webb & Berthel.) Webb",Synonym,,L,WCSP (in review),,,"Fragm. Fl. Aethiop.-Aegypt.","26","","1854",kew-2396472
+tro-27300050,A,Resedaceae,,Oligomeris,,"upingtoniae",,"","Müll. Hal.",Synonym,,M,TRO,27300050,,"","","","",tro-27300029

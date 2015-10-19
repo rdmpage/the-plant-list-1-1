@@ -1,0 +1,86 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-114054,A,Compositae,,Asteriscus,,"aquaticus",,"","(L.) Less.",Accepted,,M,TICA,0DA7EC7F-A893-4DB1-957B-B8F605DF7DE6,182635-1,"","","210","1832",
+gcc-152050,A,Compositae,,Asteriscus,,"aquaticus",var.,"aquaticus","",Synonym,,L,TICA,2F4CD3F8-1690-4530-980B-9194699782EC,,"","","","",gcc-114054
+gcc-154046,A,Compositae,,Asteriscus,,"aquaticus",subsp.,"aquaticus","",Synonym,,L,TICA,E3E88385-4FE7-49BB-BF90-BB2E3C5DA668,,"","","","",gcc-114054
+gcc-58348,A,Compositae,,Asteriscus,,"aquaticus",var.,"nanus","Boiss.",Synonym,,L,TICA,06A2ECF3-9A73-4D22-BF39-8DF12D6F4D52,,"Fl. Orient. 3: 179 (1875)","","179","1875",gcc-114054
+gcc-8621,A,Compositae,,Asteriscus,,"aquaticus",subsp.,"nanus","(Boiss.) O.Bolòs & Vigo",Synonym,,L,TICA,AAE1D655-A21D-4B82-9DE2-10190797F55A,991125-1,"","","761","1995",gcc-114054
+gcc-42566,A,Compositae,,Asteriscus,,"aquaticus",subsp.,"pygmaeus","(DC.) O.Bolòs & Vigo",Synonym,,L,TICA,B843FD54-5BFF-44D4-B37B-4ED6030E55F0,954332-1,"","","90","1988",gcc-114054
+gcc-63673,A,Compositae,,Asteriscus,,"aquaticus",var.,"pygmaeus","DC.",Synonym,,L,TICA,E8CB2BB0-B35E-4DDA-A8DA-B8A0BEC41DF2,,"Prodr. 6: 287 (1838)","","287","1838",gcc-114620
+gcc-13733,A,Compositae,,Asteriscus,,"arabicus",,"","Velen.",Synonym,,M,TICA,56F0A4DE-24AC-47C0-B97A-198CD15369EA,182636-1,"","","11","1911",gcc-93476
+gcc-101276,A,Compositae,,Asteriscus,,"aureus",,"","Lange",Synonym,,M,TICA,E73A9F25-EA01-44D8-B723-9C6F46DBC3CF,,"","","","1861",gcc-100276
+gcc-139994,A,Compositae,,Asteriscus,,"brachiatus",,"","Jord. & Fourr.",Synonym,,M,TICA,D4EBE322-F394-4E04-B9F8-F3F5BDD5FBF6,,"","","","1868",gcc-100276
+gcc-129915,A,Compositae,,Asteriscus,×,"caballeroi",,"","Sennen",Synonym,,L,TICA,ED8C391E-A92A-464B-9912-DD5FBA393BD7,182639-1,"","","99","1932",gcc-34594
+gcc-120931,A,Compositae,,Asteriscus,,"cavanillesi",,"","Caball.",Synonym,,M,TICA,DC440A37-411A-485D-A723-C8A7788A7064,182640-1,"","","20","1935",gcc-61248
+gcc-82356,A,Compositae,,Asteriscus,,"citriodorus",,"","Heldr. & Halácsy",Synonym,,M,TICA,5276C4F5-6A20-43CB-843A-71DB8950421D,182641-1,"Oesterr. Bot. Z. 45","","411","1895",gcc-114054
+gcc-32292,A,Compositae,,Asteriscus,,"confusus",,"","Sennen",Synonym,Illegitimate,M,TICA,BCE95ED7-6FF3-4781-929F-3BD65433DE52,,"","","66","1924",gcc-114054
+gcc-92481,A,Compositae,,Asteriscus,,"cuspidatus",,"","(Pomel) Aurich & Podlech",Synonym,,M,TICA,278A0EA0-AFA0-42CB-95C9-88B506920CFA,947286-1,"Mitt. Bot. Staatssamml. München 28","","280","1989",gcc-15615
+gcc-16888,A,Compositae,,Asteriscus,,"cuspidatus",subsp.,"canescens","(Maire) Aurich & Podlech",Synonym,,L,TICA,C671F21E-F18E-4E52-9F31-1F2FE018651B,955763-1,"Mitt. Bot. Staatssamml. München 28","","285","1989",gcc-52978
+gcc-68062,A,Compositae,,Asteriscus,,"cuspidatus",subsp.,"cuspidatus","",Synonym,,L,TICA,7B8E9076-0B19-47EE-9466-DBFE1E2F0C5D,,"","","","",gcc-15615
+gcc-121301,A,Compositae,,Asteriscus,,"cyrenaicus",,"","(Alavi) Dobignard",Synonym,,M,TICA,A880A7A8-CCB0-4052-8915-C9816836DF62,,"","","147","1997",gcc-115285
+gcc-98920,A,Compositae,,Asteriscus,,"daltonii",,"","(Webb) Walp.",Accepted,,M,TICA,31AAE610-1C4A-434D-863D-972E36A07058,182643-1,"","","844","1852",
+gcc-6578,A,Compositae,,Asteriscus,,"daltonii",subsp.,"daltonii","",Synonym,,L,TICA,07BE2DD2-21EE-4DA2-9B81-0C34E4D32762,,"","","","",gcc-98920
+gcc-49853,A,Compositae,,Asteriscus,,"daltonii",subsp.,"vogelii","(Webb) Greuter",Synonym,,L,TICA,E8DB78C7-6F8D-4AF6-A0A4-5C6D0167DA86,,"","","","1997",gcc-86336
+gcc-89960,A,Compositae,,Asteriscus,,"flosculosus",,"","(Vent.) Decne.",Synonym,,M,TICA,F531F082-85F5-40E8-B3B5-82E77D048077,,"","","202","1835",gcc-79922
+gcc-107756,A,Compositae,,Asteriscus,,"graveolens",,"","(Forssk.) Less.",Accepted,,M,TICA,6A7C94E1-91D5-4CD1-9F28-AACF66C89FB4,182645-1,"","","210","1832",
+gcc-155918,A,Compositae,,Asteriscus,,"graveolens",var.,"graveolens","",Synonym,,L,TICA,AC30F7B5-CC15-404C-81D4-E26FC8A25C5E,,"","","","",gcc-107756
+gcc-55968,A,Compositae,,Asteriscus,,"graveolens",subsp.,"graveolens","",Synonym,,L,TICA,39FECFA6-6787-4504-8CB0-7A952A185970,,"""Flora Medit., 7 (1997):""","","","",gcc-107756
+gcc-61248,A,Compositae,,Asteriscus,,"graveolens",subsp.,"odorus","(Schousb.) Greuter",Accepted,,L,TICA,9F891DEB-D591-49A0-A7EC-A4F276021BFE,999896-1,"","","46","1997",
+gcc-57519,A,Compositae,,Asteriscus,,"graveolens",var.,"pygmaeus","Maire",Synonym,,L,TICA,47EE29C0-CED5-4422-971E-86FA671A5267,,"","","","",gcc-107756
+gcc-13549,A,Compositae,,Asteriscus,,"graveolens",var.,"scaber","Thell.",Synonym,,L,TICA,52589B10-41FE-4A49-8F85-193321731A7D,,"","","","",gcc-107756
+gcc-61662,A,Compositae,,Asteriscus,,"graveolens",var.,"scaber","(Thell.) Emb. & Maire",Synonym,,L,TICA,11543597-870A-43E6-BC0D-A8799F1FC37B,,"","","","",gcc-107756
+gcc-70512,A,Compositae,,Asteriscus,,"graveolens",subsp.,"stenophyllus","(Link) Greuter",Accepted,,L,TICA,423DED61-8194-4AB3-BEE4-EEB77B82E237,999897-1,"","","46","1997",
+gcc-28560,A,Compositae,,Asteriscus,,"graveolens",var.,"villosus","Thell.",Synonym,,L,TICA,B71534C8-CE69-43C3-8CE7-34C83A1FAF81,,"","","","",gcc-107756
+gcc-62506,A,Compositae,,Asteriscus,,"graveolens",var.,"villosus","(Thell.) Emb. & Maire",Synonym,,L,TICA,9A7EEC3E-563E-4644-B65B-AF46C7E6DDBC,,"","","","",gcc-107756
+gcc-81433,A,Compositae,,Asteriscus,,"hierochunticus",,"","(Michon) Wiklund",Synonym,,M,TICA,DD19725D-CD01-4981-AAE7-6FC745D434A4,,"","","307","1985",gcc-114620
+gcc-9858,A,Compositae,,Asteriscus,,"imbricatus",,"","(Cav.) DC.",Accepted,,M,TICA,816E6E3B-290A-4D3A-9403-12675058AA36,182646-1,"","","487","1836",
+gcc-39416,A,Compositae,,Asteriscus,,"intermedius",,"","(DC.) Pit. & Proust",Accepted,,M,TICA,B4AF6B32-5E2D-446D-9FEF-492379F56389,77091461-1,"","","224","",
+gcc-145163,A,Compositae,,Asteriscus,,"lanuginosus",,"","Aucher ex DC.",Synonym,,L,TICA,C62BFE27-A8E8-480E-9795-FFCBA37DDCE2,182647-1,"","","287","1838",gcc-83814
+gcc-80224,A,Compositae,,Asteriscus,,"littoralis",,"","Jord. & Fourr.",Synonym,,M,TICA,DB39982A-4E02-441D-8109-6D283ED48750,,"","","","1868",gcc-100276
+gcc-120304,A,Compositae,,Asteriscus,,"longiradiatus",,"","(Maire) Maire",Synonym,,M,TICA,89743934-DE90-4502-A767-C72F853E477B,,"","","","1939",gcc-85847
+gcc-44472,A,Compositae,,Asteriscus,,"madritensis",,"","(Sennen) Sennen",Synonym,,L,TICA,01AE7840-6310-4E80-AB90-52663EDF45E5,,"","","99","",gcc-34594
+gcc-92422,A,Compositae,,Asteriscus,,"maritimus",,"","(L.) Less.",Synonym,,M,TICA,D9051A31-4460-448F-90BD-88919992F53D,182652-1,"","","210","1832",gcc-100276
+gcc-54952,A,Compositae,,Asteriscus,,"maritimus",var.,"discoideus","Alleiz.",Synonym,,L,TICA,024AFCF0-63D9-46BA-A34C-7227649FC48A,,"Bull. Soc. Hist. Nat. Afrique N. 12: 95 (1921)","","95","1921",gcc-100276
+gcc-53280,A,Compositae,,Asteriscus,,"maritimus",var.,"lanuginosus","Sennen",Synonym,,L,TICA,DDFC7E5D-4B87-4C74-9365-650C493268F3,,"","","","",gcc-100276
+gcc-86464,A,Compositae,,Asteriscus,,"maritimus",f.,"littoralis","(Jord. & Fourr.) Rouy",Synonym,,L,TICA,EB2A5BDE-C525-4CF0-81BC-7AFE159EB7E2,,"Fl. France 8: 215 (1903)","","215","1903",gcc-100276
+gcc-152116,A,Compositae,,Asteriscus,,"maritimus",f.,"maritimus","",Synonym,,L,TICA,87433425-1ED5-45DA-B713-92DCA1DF3403,,"","","","",gcc-100276
+gcc-157342,A,Compositae,,Asteriscus,,"maritimus",var.,"maritimus","",Synonym,,L,TICA,B721BFD8-8986-478B-96F9-FFDEE0E3FE67,,"","","","",gcc-100276
+gcc-25684,A,Compositae,,Asteriscus,,"maritimus",var.,"mauritanicus","(Jord. & Fourr.) Maire",Synonym,,L,TICA,195F56B8-0912-4D53-87F6-2F71E805AE7D,,"Cat. Pl. Maroc 3: 758 (1934)","","758","1934",gcc-100276
+gcc-1891,A,Compositae,,Asteriscus,,"maritimus",var.,"microphyllus","(Ball) Batt.",Synonym,,L,TICA,DA5D5A3E-29F5-4BC6-B6EA-036AAD823A7E,,"","","","",gcc-100276
+gcc-62666,A,Compositae,,Asteriscus,,"maritimus",var.,"parviflorus","Sennen & Mauricio",Synonym,,L,TICA,CF40E44B-FF38-457E-8670-B0AAF3CAA72A,,"","","","",gcc-100276
+gcc-70545,A,Compositae,,Asteriscus,,"maritimus",var.,"perpusillus","Batt.",Synonym,,L,TICA,3A6FBBAE-8CC8-45AC-B1A0-EEECC4329D37,,"","","","",gcc-100276
+gcc-1500,A,Compositae,,Asteriscus,,"maritimus",var.,"sericeus","Maire & Wilczek",Synonym,,L,TICA,312B4192-55E6-4871-BAD4-02B3F8E3B47B,,"Bull. Soc. Hist. Nat. Afrique N. 26: 211 (1935)","","211","1935",gcc-100276
+gcc-67651,A,Compositae,,Asteriscus,,"maritimus",var.,"villosissimus","Batt.",Synonym,,L,TICA,1CB9FE3E-BD3E-4C35-8241-D8E926352167,,"Fl. Algérie 1: 433 (1889)","","433","1889",gcc-100276
+gcc-117134,A,Compositae,,Asteriscus,,"mauritanicus",,"","Jord. & Fourr.",Synonym,,M,TICA,D595C691-A132-4155-924B-BFF7179A8E84,,"","","","1868",gcc-100276
+gcc-49372,A,Compositae,,Asteriscus,,"morrisonii",,"","Bubani",Synonym,Illegitimate,M,TICA,49A4A51E-3DC1-4213-A432-5B7A5EBA9697,182654-1,"","","245","1899",gcc-114054
+gcc-114366,A,Compositae,,Asteriscus,,"nanus",,"","(Boiss.) Nyman",Synonym,,M,TICA,A3D1BF73-EA51-4D0D-85C2-B9AEE61928B3,182655-1,"","","391","1879",gcc-114054
+gcc-96503,A,Compositae,,Asteriscus,,"odorus",,"","(Schousb.) Sch.Bip. ex DC.",Synonym,,M,TICA,8EE83219-E7E4-4412-AB52-91BB430C6950,182656-1,"","","486","1836",gcc-61248
+gcc-20051,A,Compositae,,Asteriscus,,"paui",,"","Caball.",Synonym,,M,TICA,506A7783-EEA1-4EE8-BFCA-2511B9CA6F86,182657-1,"","","21","1935",gcc-61248
+gcc-107058,A,Compositae,,Asteriscus,,"pinifolius",,"","Maire & Wilczek",Accepted,,M,TICA,428D2F1F-A002-4BD4-B745-A93A5C3815BD,182658-1,"""in Bull. Soc. Hist. Nat. Afr. Nord,""","","128","1935",
+gcc-35666,A,Compositae,,Asteriscus,,"pygmaeus",,"","(DC.) Coss. & Durieu",Synonym,,M,TICA,6E23C021-4FBE-4F14-8551-42269C4D1114,182661-1,"Bull. Soc. Bot. France 4: 471","","471","1857",gcc-114620
+gcc-134968,A,Compositae,,Asteriscus,,"schimperi",,"","(Boiss.) Boiss.",Synonym,,M,TICA,4DDE5439-8604-4827-8DD2-E8ECE978CFAE,182663-1,"","","180","1875",gcc-107756
+gcc-85847,A,Compositae,,Asteriscus,,"schultzii",,"","(Bolle) Pit. & Proust",Accepted,,M,TICA,4B78038A-F4B3-4EF1-9DD0-799480632BBC,,"","","224","",
+gcc-46536,A,Compositae,,Asteriscus,,"sericeus",,"","(L.f.) DC.",Accepted,,M,TICA,DF97510A-09CB-4DA7-96F5-56384FBBC371,182664-1,"","","486","1836",
+gcc-69476,A,Compositae,,Asteriscus,,"sericeus",var.,"intermedius","DC.",Synonym,,L,TICA,D87A5E01-1E48-41D9-950F-E6AF05C2B8EC,50942578-1,"","","486","1836",gcc-39416
+gcc-147760,A,Compositae,,Asteriscus,,"sericeus",var.,"sericeus","",Synonym,,L,TICA,53E6915B-565E-4A11-B139-34CF891E78DB,,"","","","",gcc-46536
+gcc-134801,A,Compositae,,Asteriscus,,"sessilis",,"","(Mill.) Moench",Synonym,Illegitimate,M,TICA,C3BA3AF2-DEA0-46CC-9AF4-E89101353D90,182665-1,"","","592","1794",gcc-114054
+gcc-136346,A,Compositae,,Asteriscus,,"smithii",,"","(Webb) Walp.",Accepted,,M,TICA,DC847916-07B5-4B2F-815A-EC046756FC1C,,"","","","1852",
+gcc-48714,A,Compositae,,Asteriscus,,"spinosus",,"","(L.) Sch.Bip.",Synonym,,L,TICA,EC6D26CD-97AB-4E0F-8473-5A3D3F82AF22,,"","","","",gcc-34594
+gcc-71346,A,Compositae,,Asteriscus,,"spinosus",subsp.,"asteroideus","(Viv.) Aurich & Podlech",Synonym,,L,TICA,5B869070-4A96-4DF9-929B-F587A21FEDAE,955761-1,"Mitt. Bot. Staatssamml. München 28","","268","1989",gcc-50479
+gcc-21363,A,Compositae,,Asteriscus,,"spinosus",var.,"aureus","Willk.",Synonym,,L,TICA,EBC6888C-CEBE-49D0-8748-2778A1113946,,"Prodr. Fl. Hispan. 2(1): 48 (1865)","","48","1865",gcc-34594
+gcc-33637,A,Compositae,,Asteriscus,,"spinosus",subsp.,"aureus","(Willk.) Aurich & Podlech",Synonym,,L,TICA,C54C8996-23D7-487B-9CCD-3E61800546E3,955762-1,"Mitt. Bot. Staatssamml. München 28","","271","1989",gcc-34594
+gcc-55444,A,Compositae,,Asteriscus,,"spinosus",var.,"gussonii","(Pasq.) Fiori",Synonym,,L,TICA,1768B400-F533-4B43-A534-760B412CE657,,"Nuov. Fl. Italia 2: 688 (1927)","","688","1927",gcc-34594
+gcc-47094,A,Compositae,,Asteriscus,,"spinosus",var.,"gymnesicus","(O.Bolòs & P.Monts.) O.Bolòs & Vigo",Synonym,,L,TICA,3B89C3DE-1CFD-47D1-8776-574196A74F8F,991123-1,"","","760","1995",gcc-34594
+gcc-53791,A,Compositae,,Asteriscus,,"spinosus",var.,"intermedius","Alleiz.",Synonym,,L,TICA,FA7C18D4-30C1-435A-A4BA-68E2A51FD0DA,,"Bull. Soc. Hist. Nat. Afrique N. 12: 95 (1921)","","95","1921",gcc-34594
+gcc-61071,A,Compositae,,Asteriscus,,"spinosus",subsp.,"maroccanus","Aurich & Podlech",Synonym,,L,TICA,4ECEB53A-52AB-46D8-A0B2-A3A3CE19EEF3,951277-1,"Mitt. Bot. Staatssamml. München 28: 275 (1989)","","275","1989",gcc-31271
+gcc-63928,A,Compositae,,Asteriscus,,"spinosus",subsp.,"microcephalus","(Halácsy) O.Bolòs & Vigo",Synonym,,L,TICA,6AD0C91C-84D6-4667-B2E1-BAA97880DE52,991124-1,"","","760","1995",gcc-34594
+gcc-156440,A,Compositae,,Asteriscus,,"spinosus",var.,"spinosus","",Synonym,,L,TICA,B0F20F33-3567-43F4-979E-ED2B7F6A03F6,,"","","","",gcc-34594
+gcc-56234,A,Compositae,,Asteriscus,,"spinosus",subsp.,"spinosus","",Synonym,,L,TICA,E9BD7CEB-37F6-416E-A5C0-7CCC65BE54A2,,"","","","",gcc-34594
+gcc-72077,A,Compositae,,Asteriscus,,"spinosus",var.,"subacaulis","Rouy",Synonym,,L,TICA,A4D17FA6-20D9-4C2C-AE85-FB1A99FBFEBD,,"Bull. Soc. Bot. France 35: 118 (1888)","","118","1888",gcc-34594
+gcc-121175,A,Compositae,,Asteriscus,,"stenophyllus",,"","(Link) Kuntze",Synonym,,L,TICA,D0915BC3-8F45-4A56-B1E6-C935D3F65BCF,182668-1,"Revis. Gen. Pl. 1","","319","1891",gcc-70512
+gcc-65872,A,Compositae,,Asteriscus,,"stenophyllus",var.,"filifolius","(G.Kunkel) A.Hansen & Sunding",Synonym,,L,TICA,0054D487-CCAA-4D0B-A15C-CA3EB6221E06,876622-1,"","","92","1979",gcc-70512
+gcc-151896,A,Compositae,,Asteriscus,,"stenophyllus",var.,"stenophyllus","",Synonym,,L,TICA,0E0DDB9C-E5D2-47E1-B649-8E37AED45B7B,,"","","","",gcc-70512
+gcc-66194,A,Compositae,,Asteriscus,,"stenophyllus",var.,"villososericeus","Kuntze",Synonym,,L,TICA,4DD9041F-5CD6-4CFA-9F66-CCC3C6774941,,"Revis. Gen. Pl. 1: 319 (1891)","","319","1891",gcc-61248
+gcc-122956,A,Compositae,,Asteriscus,,"teknensis",,"","Dobignard & Jacquemoud",Synonym,,M,TICA,304F9B16-987E-4A8E-BD55-CD344EB0BD80,,"","","145","1997",gcc-15070
+gcc-86336,A,Compositae,,Asteriscus,,"vogelii",,"","(Webb) Walp.",Accepted,,M,TICA,E49773AA-810C-4266-8594-7AAE17B6D4FD,,"","","","1852",
+gcc-68112,A,Compositae,,Asteriscus,,"vogelii",var.,"darwinii","(Webb) Walp.",Accepted,,L,TICA,08B76F1B-CC1E-4E56-B09D-DC4BC072C8E8,,"Ann. Bot. Syst. 2: 845 (1852)","","845","1852",
+gcc-152326,A,Compositae,,Asteriscus,,"vogelii",var.,"vogelii","",Synonym,,L,TICA,2080CB64-F833-43A0-B764-971D81BA105B,,"","","","",gcc-86336

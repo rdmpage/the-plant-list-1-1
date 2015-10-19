@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-334053,G,Ginkgoaceae,,Ginkgo,,"biloba",,"","L.",Accepted,,H,WCSP,334053,262125-1,"Mant. Pl.","2: 313","","1771",
+kew-376198,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"aurea","(J.Nelson) Beissn.",Synonym,,L,WCSP,376198,,"Handb. Conif.","47","","1887",kew-334053
+kew-376199,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"aurea","(J.Nelson) A.Henry",Synonym,,L,WCSP,376199,,"Trees Great Britain","1: 58","","1906",kew-334053
+kew-334054,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"epiphylla","Makino",Synonym,,L,WCSP,334054,,"J. Jap. Bot.","6: 5","","1929",kew-334053
+kew-334055,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"fastigiata","A.Henry",Synonym,,L,WCSP,334055,,"Trees Great Britain","1: 58","","1906",kew-334053
+kew-376194,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"fastigiata","(A.Henry) Rehder",Synonym,,L,WCSP,376194,,"Bibl. Cult. Trees","1","","1949",kew-334053
+kew-349375,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"laciniata","(Carrière) Carrière",Synonym,,L,WCSP,349375,,"Traité Gén. Conif.","ed. 2: 712","","1867",kew-334053
+kew-376195,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"laciniata","(Carrière) Beissn.",Synonym,,L,WCSP,376195,,"Handb. Conif.","24","","1887",kew-334053
+kew-334056,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"microsperma","Sugim.",Synonym,,L,WCSP,334056,974469-1,"J. Geobot.","24: 61","","1977",kew-334053
+kew-334057,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"parvifolia","Sugim.",Synonym,,L,WCSP,334057,974468-1,"J. Geobot.","24: 61","","1977",kew-334053
+kew-334058,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"pendula","(Van Geert) Beissn.",Synonym,,L,WCSP,334058,,"Handb. Conif.","24","","1887",kew-334053
+kew-349376,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"pendula","(Van Geert) Carrière",Synonym,,L,WCSP,349376,,"Traité Gén. Conif.","ed. 2: 713","","1867",kew-334053
+kew-349374,G,Ginkgoaceae,,Ginkgo,,"biloba",var.,"variegata","(Carrière) Carrière",Synonym,,L,WCSP,349374,,"Traité Gén. Conif.","ed. 2: 712","","1867",kew-334053
+kew-376196,G,Ginkgoaceae,,Ginkgo,,"biloba",f.,"variegata","(Carrière) Beissn.",Synonym,,L,WCSP,376196,,"Handb. Conif.","25","","1887",kew-334053
+kew-334059,G,Ginkgoaceae,,Ginkgo,,"macrophylla",,"","K.Koch",Synonym,,H,WCSP,334059,262126-1,"Dendrologie","2(2): 108","","1873",kew-334053
+tro-50187892,G,Ginkgoaceae,,Ginkgo,,"parvifolia",,"","Sugim.",Unresolved,,L,TRO,50187892,,"J. Geobot.","24(3): 61","61","1977",

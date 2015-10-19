@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-34404,A,Compositae,,Pityopsis,,"adenolepis",,"","Semple",Synonym,,M,TICA,A6A74CC8-18A5-4729-9A65-3FC5B6445F7B,200881-2,"","","148","1980",gcc-58239
+gcc-12479,A,Compositae,,Pityopsis,,"argentea",,"","(Pers.) Nutt.",Synonym,,M,TICA,109F2CCA-5952-49F9-8110-1743BEF622B8,,"","","318","1840",gcc-48710
+gcc-144055,A,Compositae,,Pityopsis,,"aspera",,"","(Shuttlew. ex A.Gray) Small",Synonym,,M,TICA,760BB8B0-A789-4457-B604-FD42FEE6D568,238590-1,"","","1341","1933",gcc-71692
+gcc-58239,A,Compositae,,Pityopsis,,"aspera",var.,"adenolepis","Semple & F.D.Bowers",Unresolved,,L,TICA,61219191-A6F7-41DA-9A29-8CED6EB7E05B,952198-1,"","","18","1985",
+gcc-71692,A,Compositae,,Pityopsis,,"aspera",var.,"aspera","",Unresolved,,L,TICA,74A6FF94-9C2A-4FD7-8177-F81BC5842DBA,,"","","","1985",
+gcc-139695,A,Compositae,,Pityopsis,,"falcata",,"","(Pursh) Nutt.",Accepted,,M,TICA,138B5F69-A0C1-438D-846B-F351EA160B9E,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 317""","","","1840",
+gcc-39267,A,Compositae,,Pityopsis,,"flexuosa",,"","(Nash) Small",Accepted,,M,TICA,376B269A-7084-430A-9D15-48DF01B47B2A,238592-1,"","","1341","1933",
+gcc-122128,A,Compositae,,Pityopsis,,"graminifolia",,"","(Michx.) Nutt.",Accepted,,L,TICA,C64024B6-32FB-497E-8705-CB51ED4B1CB9,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 317""","","","1840",
+gcc-71668,A,Compositae,,Pityopsis,,"graminifolia",var.,"graminifolia","",Synonym,,L,TICA,0F47FB38-3EF7-41D1-BE73-F7EB8002BD8F,,"","","","1840",gcc-122128
+gcc-48710,A,Compositae,,Pityopsis,,"graminifolia",var.,"latifolia","(Fernald) Semple & F.D.Bowers",Accepted,,L,TICA,C06243EA-B843-4EF2-BADB-5A3C246C0BA6,952200-1,"","","28","1985",
+gcc-27500,A,Compositae,,Pityopsis,,"graminifolia",var.,"microcephala","(Small) Semple",Synonym,,L,TICA,90CF6C5E-D3BF-46C6-8C81-32D822D598B4,200884-2,"","","148","1980",gcc-60275
+gcc-60275,A,Compositae,,Pityopsis,,"graminifolia",var.,"tenuifolia","(Torr.) Semple & F.D.Bowers",Accepted,,L,TICA,10FC5F65-8B23-47A7-A819-9D1407D7F18C,1025969-2,"","","24","1985",
+gcc-32884,A,Compositae,,Pityopsis,,"graminifolia",var.,"tracyi","(Small) Semple",Accepted,,L,TICA,BACE6E69-4FF9-4C6A-BDF4-3CFB81A3AF6E,283208-2,"","","430","1985",
+gcc-13218,A,Compositae,,Pityopsis,,"microcephala",,"","(Small) Small",Synonym,,M,TICA,B8AB9420-30CC-4406-AAED-189E742AA874,238594-1,"","","1341","1933",gcc-60275
+gcc-139953,A,Compositae,,Pityopsis,,"nervosa",,"","(Willd.) Dress",Synonym,,M,TICA,2552B3DA-CA0B-4762-9DC6-F3DF868DC4DC,200886-2,"","","166","1975",gcc-48710
+gcc-2760,A,Compositae,,Pityopsis,,"nervosa",var.,"nervosa","",Synonym,,L,TICA,F1E4BE62-E99A-4BE0-BE5D-051339E4C36C,,"","","","2004",gcc-48710
+gcc-7916,A,Compositae,,Pityopsis,,"oligantha",,"","(Chapm. ex Torr. & A.Gray) Small",Accepted,,M,TICA,925706A9-994E-4B63-B4CE-0EBEC516D350,200887-2,"","","1341","1933",
+gcc-2884,A,Compositae,,Pityopsis,,"pinifolia",,"","(Elliott) Nutt.",Accepted,,M,TICA,410E4D0C-B24C-4531-B65D-05541DAE6804,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","318","1840",
+gcc-125125,A,Compositae,,Pityopsis,,"ruthii",,"","(Small) Small",Accepted,,M,TICA,E541F7D1-CD37-474B-AF86-D25649077D15,238598-1,"","","1341","1933",
+gcc-99205,A,Compositae,,Pityopsis,,"tracyi",,"","(Small) Small",Synonym,,M,TICA,C1086468-35D4-4DA5-8B1C-97D759FE433D,238599-1,"","","1341","1933",gcc-32884

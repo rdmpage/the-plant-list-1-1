@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-155545,A,Compositae,,Scolymus,,"aggregatus",,"","Ruch.",Synonym,,M,TICA,30F03BFD-4D9A-420F-9886-DA96F7F013B9,,"""Ruch., Fl. Lidi Veneti. 1818""","","198","1818",gcc-121678
+gcc-14903,A,Compositae,,Scolymus,,"angiospermus",,"","Gaertn.",Synonym,Illegitimate,M,TICA,F814F1C0-DA01-4921-8550-1B9A07EF9442,,"Fruct. Sem. Pl. ii. 355. t. 157","","","1791",gcc-48202
+gcc-155380,A,Compositae,,Scolymus,,"annuus",,"","Gérard",Synonym,,M,TICA,D8C5CD79-2371-4029-B987-D714BDF03D97,,"""Gerard, Fl. Gallo-Prov.. 1761""","","175","1761",gcc-48202
+gcc-88579,A,Compositae,,Scolymus,,"annuus",,"","Gérard ex Steud.",Unresolved,,L,TICA,AFED405D-0886-4C12-98BE-7FBEC099FEC9,243004-1,"Nomencl. Bot. (Steudel) 753","","753","1821",
+gcc-129386,A,Compositae,,Scolymus,,"clusii",,"","Bubani",Synonym,Illegitimate,M,TICA,63CC606C-AB14-4999-9027-DC23963895FF,,"Fl. Pyren. (Bubani) ii. 117.","","","1899",gcc-48202
+gcc-25903,A,Compositae,,Scolymus,,"congestus",,"","Lam.",Synonym,,M,TICA,29B2C172-3B9E-4A63-A5BF-2FDF338C09DC,,"Fl. Fr. ii. 116.","","","1779",gcc-121678
+gcc-33933,A,Compositae,,Scolymus,,"giganteus",,"","Roem.",Accepted,,M,TICA,14E568C4-4004-496A-92BE-3EEDEE69FB17,243007-1,"Hort. Turic. ex Steud. Nom. ed. II. ii. 544 (Quid ?).","","ii. 544","",
+gcc-50865,A,Compositae,,Scolymus,,"grandiflorus",,"","Desf.",Accepted,,M,TICA,630ACDBC-1528-48FE-96F3-5E59DACE2BAF,,"","","324","1791",
+gcc-4532,A,Compositae,,Scolymus,,"gymnospermus",,"","Gaertn.",Synonym,Illegitimate,M,TICA,EE352329-13CC-4E03-8314-086AD03630D2,,"Fruct. Sem. Pl. ii. 355","","355","1791",gcc-121678
+gcc-121678,A,Compositae,,Scolymus,,"hispanicus",,"","L.",Accepted,,M,TICA,A99C9D93-CEDC-46EC-A5BC-CA4F804FAFB0,243010-1,"","","813","1753",
+gcc-15473,A,Compositae,,Scolymus,,"hispanicus",var.,"aggregatus","(Ruch.) Vásquez",Synonym,,L,TICA,57C98E1E-4D8B-41EB-ADFA-1CA7D298D4EC,,"","","","",gcc-121678
+gcc-71458,A,Compositae,,Scolymus,,"hispanicus",var.,"aurantiacus","Maire",Synonym,,L,TICA,E4A96AE1-B38E-4D36-BE71-F670A44473B9,,"","","","",gcc-121678
+gcc-59850,A,Compositae,,Scolymus,,"hispanicus",subsp.,"grandiflorus","(Desf.) P.Fourn.",Synonym,,L,TICA,C9F3DCD8-EF9F-4E6A-87AD-99BE156BD2E2,,"P. Fourn.. 1940.","","1027","1940",gcc-50865
+gcc-148420,A,Compositae,,Scolymus,,"hispanicus",var.,"hispanicus","",Synonym,,L,TICA,93EB5F26-5A98-4C88-98F2-423590F7CE3D,,"","","","",gcc-121678
+gcc-38646,A,Compositae,,Scolymus,,"hispanicus",subsp.,"hispanicus","",Synonym,,L,TICA,5B1B7DE4-0EB6-463B-AAB2-47B590E1018B,,"","","","",gcc-121678
+gcc-48202,A,Compositae,,Scolymus,,"maculatus",,"","L.",Accepted,,M,TICA,2E6C97DB-EDBE-475D-A7D3-5958D95BB04E,243011-1,"","","813","1753",
+gcc-133489,A,Compositae,,Scolymus,,"paniculatus",,"","Ucria",Synonym,,M,TICA,F2AEE9A4-E097-48C3-843C-E596EBCC8CC2,243013-1,"","","255","1793",gcc-48202
+gcc-24922,A,Compositae,,Scolymus,,"pectinatus",,"","Cass.",Synonym,,M,TICA,09D8D4F0-2938-47CD-92BD-2E0ADE1B8FA3,,"in Dict. Sc. Nat. xxxiv. 87.","","","1825",gcc-48202
+gcc-143968,A,Compositae,,Scolymus,,"perennis",,"","Gérard ex Steud.",Unresolved,,L,TICA,EFA4AD2A-194B-4D9F-AE2F-FD0B4562823D,243015-1,"Nomencl. Bot. (Steudel) 753","","753","1821",
+gcc-14516,A,Compositae,,Scolymus,,"perennis",,"","Gérard",Synonym,Illegitimate,M,TICA,2D420C40-5354-485D-B9A4-1AED20573B0D,,"Fl. Gallo-Prov. 175 (1761).","","175","1761",gcc-121678
+gcc-143029,A,Compositae,,Scolymus,,"theophrasti",,"","Bubani",Synonym,Illegitimate,M,TICA,58A55F18-0E02-4D3D-B42D-FAF7C59A7238,,"Fl. Pyren. (Bubani) ii. 116.","","","1899",gcc-121678
+gcc-119909,A,Compositae,,Scolymus,,"vivax",,"","Sauvages ex DC.",Synonym,,M,TICA,2FCCAB5E-B427-4794-862D-C64155D42567,243018-1,"Prodr. (DC.) 7(1): 76","","76","1838",gcc-121678

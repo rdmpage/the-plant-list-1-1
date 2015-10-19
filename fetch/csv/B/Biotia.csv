@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-11052,A,Compositae,,Biotia,,"commixta",,"","(Nees) DC.",Synonym,,M,TICA,F436E25D-3CE5-4EE2-A917-14A9D847377E,185391-1,"","","265","1836",gcc-4948
+gcc-107127,A,Compositae,,Biotia,,"corymbosa",,"","DC.",Accepted,,L,TICA,A1BCE5DD-9F7A-4A7E-AD82-A964C14A64DB,185392-1,"","","","",
+gcc-39191,A,Compositae,,Biotia,,"corymbosa",var.,"alata","(W.P.C.Barton) DC.",Synonym,,L,TICA,8A2632B4-3BA6-4F27-A33C-48B559467B9D,1189927-2,"Prodr. (DC.) 5: 265","","265","1836",gcc-17778
+gcc-63780,A,Compositae,,Biotia,,"corymbosa",var.,"corymbosa","",Synonym,,L,TICA,FAF1767C-9F71-4D00-A059-B96EFE040AAD,,"","","","1836",gcc-17778
+gcc-67992,A,Compositae,,Biotia,,"corymbosa",var.,"discolor","(Maxim.) Regel",Synonym,,L,TICA,A8C9ED90-B0FC-4768-9BC0-DB7BFD927216,,"Tent. Fl. Ussur.: 83 (1861)","","","",gcc-83241
+gcc-81982,A,Compositae,,Biotia,,"crenata",,"","Steud.",Unresolved,,L,TICA,81DE352E-9AB8-4D81-B0C4-710569C2CDF5,185393-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 154, in syn.""","","154","1840",
+gcc-51823,A,Compositae,,Biotia,,"discolor",,"","Maxim.",Synonym,,M,TICA,F02FFD87-54DB-46A8-B668-601AC71E1460,185394-1,"Prim. Fl. Amur.","","146","1859",gcc-83241
+gcc-93353,A,Compositae,,Biotia,,"glomerata",,"","(Nees) DC.",Synonym,,M,TICA,6DAF2E38-CA82-486D-8E82-8A8CC3BFE561,185395-1,"Prodr. (DC.) 5: 265","","265","1836",gcc-43499
+gcc-89115,A,Compositae,,Biotia,,"japonica",,"","Miq.",Synonym,,M,TICA,C1D4421A-7782-438B-8489-80F9B88EE760,,"","","170","1866",gcc-114641
+gcc-90363,A,Compositae,,Biotia,,"latifolia",,"","DC.",Synonym,,M,TICA,6D86AA02-2ED3-4C03-89E6-83CBBB492195,185397-1,"","","264","1836",gcc-15007
+gcc-24858,A,Compositae,,Biotia,,"macrophylla",,"","(L.) DC.",Synonym,,M,TICA,4C3D9F53-2302-427C-AAD4-2DEFB67E0B6E,185398-1,"","","265","1836",gcc-15007
+gcc-57048,A,Compositae,,Biotia,,"macrophylla",var.,"divaricata","(L.) DC.",Synonym,,L,TICA,71CFA4BD-88F6-4C02-9FF9-83391DEA3211,33267-2,"","","265","1836",gcc-17778
+gcc-71932,A,Compositae,,Biotia,,"macrophylla",var.,"macrophylla","",Synonym,,L,TICA,13FA7D8D-AB65-4CDE-8C3D-FA08583CDFA5,,"","","","1836",gcc-15007
+gcc-49645,A,Compositae,,Biotia,,"schreberi",,"","(Nees) DC.",Synonym,,M,TICA,BF54E0E9-28A5-453D-BC38-5C0830BFDE80,185399-1,"","","264","1836",gcc-43499
+gcc-81091,A,Compositae,,Biotia,,"viscosa",,"","Cass.",Synonym,Invalid,M,TICA,6E7058C1-35AC-4D23-A64F-6F091858F0C0,,"","","","1825",gcc-120995

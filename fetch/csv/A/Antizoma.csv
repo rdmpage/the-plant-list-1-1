@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2643038,A,Menispermaceae,,Antizoma,,"angolensis",,"","Exell & Mendonça",Accepted,,M,WCSP (in review),,580191-1,"J. Bot.","77: 147","","1939",
+kew-2643039,A,Menispermaceae,,Antizoma,,"angustifolia",,"","(Burch.) Miers ex Harv.",Accepted,,M,WCSP (in review),,580192-1,"Fl. Cap.","1: 11","","1860",
+kew-2643040,A,Menispermaceae,,Antizoma,,"burchelliana",,"","Miers ex Harv.",Synonym,,M,WCSP (in review),,,"Fl. Cap.","1: 11","","1860",kew-2643039
+kew-2643041,A,Menispermaceae,,Antizoma,,"calcarifera",,"","(Burch.) Miers ex Harv.",Synonym,,M,WCSP (in review),,,"Fl. Cap.","1: 12","","1860",kew-2643039
+kew-2643042,A,Menispermaceae,,Antizoma,,"capensis",,"","(L.f.) Diels",Synonym,,M,WCSP (in review),,,"Pflanzenr.","IV, 94: 307","","1910",kew-2721940
+tro-20600202,A,Menispermaceae,,Antizoma,,"capensis",var.,"pulverulenta","Diels",Synonym,,L,TRO,20600202,,"","","","",kew-2721940
+kew-2643043,A,Menispermaceae,,Antizoma,,"harveyana",,"","Miers ex Harv.",Synonym,,M,WCSP (in review),,,"Fl. Cap.","1: 12","","1860",kew-2643039
+kew-2643044,A,Menispermaceae,,Antizoma,,"lycioides",,"","Miers",Synonym,,L,WCSP (in review),,580197-1,"Ann. Mag. Nat. Hist.","III, 17: 266","","1866",kew-2643045
+kew-2643045,A,Menispermaceae,,Antizoma,,"miersiana",,"","Harv.",Accepted,,L,WCSP (in review),,580198-1,"Fl. Cap.","1: 13","","1860",

@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-150194,A,Rubiaceae,,Perama,,"carajensis",,"","J.H.Kirkbr.",Accepted,,H,WCSP,150194,190022-2,"Acta Amazon.","10: 109","","1980",
+kew-150195,A,Rubiaceae,,Perama,,"dichotoma",,"","Poepp.",Accepted,,H,WCSP,150195,760355-1,"Nov. Gen. Sp. Pl.","3: 29","","1841",
+kew-273747,A,Rubiaceae,,Perama,,"dichotoma",var.,"dichotoma","",Synonym,,L,WCSP,273747,,"Unknown","","","",kew-150195
+kew-150196,A,Rubiaceae,,Perama,,"dichotoma",var.,"hirsutula","Steyerm.",Synonym,,L,WCSP,150196,190023-2,"Mem. New York Bot. Gard.","10(5): 236","","1963",kew-150195
+kew-150198,A,Rubiaceae,,Perama,,"dichotoma",var.,"scaposa","(Gleason & Standl.) Steyerm.",Synonym,,L,WCSP,150198,190024-2,"Mem. New York Bot. Gard.","10(5): 236","","1963",kew-150195
+kew-150199,A,Rubiaceae,,Perama,,"ericoides",,"","Poepp.",Synonym,,H,WCSP,150199,760356-1,"Nov. Gen. Sp. Pl.","3: 29","","1841",kew-150206
+kew-150200,A,Rubiaceae,,Perama,,"galioides",,"","(Kunth) Poir.",Accepted,,H,WCSP,150200,760357-1,"Dict. Sci. Nat.","ed. 2, 38: 414","","1825",
+kew-337210,A,Rubiaceae,,Perama,,"galioides",f.,"cinerea","Steyerm.",Synonym,,L,WCSP,337210,294226-2,"Mem. New York Bot. Gard.","10(5): 243","","1964",kew-150200
+kew-150201,A,Rubiaceae,,Perama,,"galioides",var.,"densipila","Steyerm.",Synonym,,L,WCSP,150201,190026-2,"Mem. New York Bot. Gard.","10(5): 244","","1963",kew-150200
+tro-27906903,A,Rubiaceae,,Perama,,"galioides",var.,"galioides","",Synonym,,L,TRO,27906903,,"","","","",kew-150200
+tro-27906904,A,Rubiaceae,,Perama,,"galioides",f.,"galioides","",Synonym,,L,TRO,27906904,,"","","","",kew-150200
+kew-150202,A,Rubiaceae,,Perama,,"galioides",var.,"hispida","(Kunth) Steyerm.",Synonym,,L,WCSP,150202,190027-2,"Mem. New York Bot. Gard.","10(5): 241","","1963",kew-150200
+kew-150203,A,Rubiaceae,,Perama,,"galioides",var.,"intermedia","Steyerm.",Synonym,,L,WCSP,150203,190028-2,"Mem. New York Bot. Gard.","10(5): 243","","1963",kew-150200
+kew-150204,A,Rubiaceae,,Perama,,"galioides",var.,"longiflora","Steyerm.",Synonym,,L,WCSP,150204,190029-2,"Mem. New York Bot. Gard.","10(5): 241","","1963",kew-150200
+kew-337211,A,Rubiaceae,,Perama,,"galioides",f.,"macrocephala","Steyerm.",Synonym,,L,WCSP,337211,190030-2,"Mem. New York Bot. Gard.","10(5): 239","","1964",kew-150200
+kew-337212,A,Rubiaceae,,Perama,,"galioides",f.,"quaternata","Steyerm.",Synonym,,L,WCSP,337212,190031-2,"Mem. New York Bot. Gard.","10(5): 239","","1964",kew-150200
+kew-150205,A,Rubiaceae,,Perama,,"harleyi",,"","J.H.Kirkbr. & Steyerm.",Accepted,,H,WCSP,150205,190032-2,"Brittonia","29: 194","","1977",
+kew-150206,A,Rubiaceae,,Perama,,"hirsuta",,"","Aubl.",Accepted,,H,WCSP,150206,760359-1,"Hist. Pl. Guiane","54","","1775",
+tro-27908447,A,Rubiaceae,,Perama,,"hirsuta",var.,"hirsuta","",Synonym,,L,TRO,27908447,,"","","","",kew-150206
+kew-150207,A,Rubiaceae,,Perama,,"hirsuta",var.,"stricta","(Benth.) Bremek.",Synonym,,L,WCSP,150207,190033-2,"Recueil Trav. Bot. Néerl.","31: 308","","1934",kew-150206
+kew-150208,A,Rubiaceae,,Perama,,"hispida",,"","Poir.",Synonym,,H,WCSP,150208,760360-1,"Dict. Sci. Nat.","ed. 2, 38: 414","","1825",kew-150206
+kew-150209,A,Rubiaceae,,Perama,,"holosericea",,"","(Naudin) Wurdack & Steyerm.",Accepted,,H,WCSP,150209,190034-2,"Bradea","1(16): 151","","1972",
+kew-150210,A,Rubiaceae,,Perama,,"humilis",,"","Benth.",Accepted,,H,WCSP,150210,760362-1,"Hooker's J. Bot. Kew Gard. Misc.","3: 239","","1841",
+kew-150211,A,Rubiaceae,,Perama,,"irwiniana",,"","J.H.Kirkbr. & Steyerm.",Accepted,,H,WCSP,150211,190035-2,"Brittonia","29: 195","","1977",
+kew-150212,A,Rubiaceae,,Perama,,"mexiae",,"","Standl. ex Steyerm.",Accepted,,H,WCSP,150212,760364-1,"Mem. New York Bot. Gard.","10(5): 246","","1963",
+kew-150213,A,Rubiaceae,,Perama,,"parviflora",,"","(Standl.) J.H.Kirkbr. & Steyerm.",Accepted,,H,WCSP,150213,190037-2,"Brittonia","29: 195","","1977",
+kew-150214,A,Rubiaceae,,Perama,,"plantaginea",,"","(Kunth) Hook.f.",Accepted,,H,WCSP,150214,,"Gen. Pl.","2: 148","","1873",
+kew-150215,A,Rubiaceae,,Perama,,"scaposa",,"","Gleason & Standl.",Synonym,,H,WCSP,150215,190038-2,"Publ. Field Mus. Nat. Hist., Bot. Ser.","7: 475","","1931",kew-150195
+kew-150216,A,Rubiaceae,,Perama,,"schultesii",,"","Steyerm.",Accepted,,H,WCSP,150216,190039-2,"Mem. New York Bot. Gard.","23: 832","","1972",
+kew-150217,A,Rubiaceae,,Perama,,"setulosa",,"","Miq.",Synonym,,H,WCSP,150217,760369-1,"Linnaea","18: 617","","1845",kew-150206
+kew-150218,A,Rubiaceae,,Perama,,"sparsiflora",,"","Standl. ex Steyerm. & J.H.Kirkbr.",Accepted,,H,WCSP,150218,190040-2,"Brittonia","29: 196","","1977",
+kew-150219,A,Rubiaceae,,Perama,,"stricta",,"","Benth.",Synonym,,H,WCSP,150219,760371-1,"Hooker's J. Bot. Kew Gard. Misc.","3: 239","","1841",kew-150206
+kew-150220,A,Rubiaceae,,Perama,,"vellerea",,"","K.Schum. ex Glaziou",Synonym,,H,WCSP,150220,,"Bull. Soc. Bot. France","56(3): 364","","1907",kew-150209
+kew-150221,A,Rubiaceae,,Perama,,"wurdackii",,"","Steyerm.",Accepted,,H,WCSP,150221,190043-2,"Bol. Soc. Venez. Ci. Nat.","25: 235","","1964",

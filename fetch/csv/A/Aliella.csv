@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-107603,A,Compositae,,Aliella,,"ballii",,"","(Klatt) Greuter",Accepted,,M,TICA,AA37E06C-4C14-4344-A18C-AA71375AABA9,,"","","241","2003",
+gcc-58340,A,Compositae,,Aliella,,"ballii",subsp.,"ballii","",Synonym,,L,TICA,5E021975-C3B5-4E3C-B17C-8DDB757C53B9,,"","","","",gcc-107603
+gcc-70236,A,Compositae,,Aliella,,"ballii",subsp.,"nitida","(Emb.) Greuter",Accepted,,L,TICA,7DE6E821-F7B2-45FB-8207-EC8AF3120C90,,"","","241","2003",
+gcc-77524,A,Compositae,,Aliella,,"bracteata",,"","Anderb.",Synonym,,M,TICA,35FC7838-E85F-467D-9CBE-6711C1A8A3FB,,"""Opera Bot. 104: 54 (1991), nom. nov., without replaced synonym ref.:.""","","","",gcc-107603
+gcc-10473,A,Compositae,,Aliella,,"embergeri",,"","(Humbert & Maire) Qaiser & Lack",Synonym,,M,TICA,D2BA7321-98A0-4A0F-A311-138AA793071D,942932-1,"","","493","1986",gcc-107603
+gcc-108827,A,Compositae,,Aliella,,"helichrysoides",,"","(Ball) Qaiser & Lack",Synonym,,M,TICA,C53EEA7F-E314-467F-AFCC-AD3B9B703FAC,942931-1,"","","492","1986",gcc-107603
+gcc-960,A,Compositae,,Aliella,,"helichrysoides",subsp.,"helichrysoides","",Synonym,,L,TICA,F8882392-DE8B-4550-B1ED-01C83B8AAD83,,"","","","",gcc-107603
+gcc-57124,A,Compositae,,Aliella,,"helichrysoides",subsp.,"nitidum","(Emb.) Qaiser & Lack",Synonym,,L,TICA,5712FE5F-71AF-41E5-B36E-83DC990E4A36,952654-1,"","","493","1986",gcc-70236
+gcc-140490,A,Compositae,,Aliella,,"iminouakensis",,"","(Emb.) Dobignard & Jeanm.",Accepted,,M,TICA,0F600DB5-988F-4F02-95D1-F5288318E104,,"Candollea 52: 143 (1997)","","143","1997",
+gcc-46162,A,Compositae,,Aliella,,"platyphylla",,"","(Maire) Qaiser & Lack",Accepted,,M,TICA,066AE706-B543-4FA2-B46B-5591DEBF6DE2,942930-1,"","","490","1986",

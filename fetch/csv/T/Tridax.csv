@@ -1,0 +1,72 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-139683,A,Compositae,,Tridax,,"accedens",,"","S.F.Blake",Synonym,,M,TICA,24DEBAFB-2ED1-472E-8A04-F34754ED95FA,257712-2,"","","270","1943",gcc-80213
+gcc-143666,A,Compositae,,Tridax,,"angustifolia",,"","Spruce ex Benth. & Hook.f.",Accepted,,M,TICA,23B2E9A9-21C6-42EF-A5AD-FC6666513CB6,,"Gen. ii. 392.","","","1873",
+gcc-146790,A,Compositae,,Tridax,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,060A601B-611B-4B6A-AB18-1FE14714FC44,,"","","","",gcc-143666
+gcc-151110,A,Compositae,,Tridax,,"angustifolia",subsp.,"angustifolia","",Synonym,,L,TICA,C1E6AE6F-B42C-4B78-88B2-7DCC7D57654C,,"","","","",gcc-143666
+gcc-25886,A,Compositae,,Tridax,,"balbisioides",,"","(Kunth) A.Gray",Accepted,,L,TICA,9BEACC5C-97EA-4EE0-BC1F-2FD4C036958C,,"Proc. Amer. Acad. Arts xv. (1880) 39.","","39","",
+gcc-149559,A,Compositae,,Tridax,,"balbisioides",var.,"balbisioides","",Synonym,,L,TICA,81872AA4-2667-4BB9-A0C7-5B973AF4FA1C,,"","","","",gcc-25886
+gcc-99046,A,Compositae,,Tridax,,"bicolor",,"","A.Gray",Accepted,,M,TICA,7726769E-1A78-4DB5-9836-977D6328A4DA,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) 104.""","","","1849",
+gcc-3858,A,Compositae,,Tridax,,"bilabiata",,"","A.M.Powell",Accepted,,M,TICA,AD9AF18D-DE68-45C2-9982-072C1A948606,257714-2,"","","178","1963",
+gcc-96978,A,Compositae,,Tridax,,"boliviensis",,"","(Wedd.) R.E.Fr.",Accepted,,M,TICA,48431E05-1CA2-4FCC-8B25-92CA19B61D6A,257715-2,"","","21","1906",
+gcc-100151,A,Compositae,,Tridax,,"brachylepis",,"","Hemsl.",Accepted,,M,TICA,57215B8D-C209-4DEB-8655-99EF775E534A,,"""Biol. Cent.-Amer., Bot. ii. 207.""","","207","1881",
+gcc-18762,A,Compositae,,Tridax,,"cajamarcensis",,"","H.Rob.",Accepted,,M,TICA,E3417604-49A2-4292-85D8-22A69E0B1866,315191-2,"","","61","1997",
+gcc-118990,A,Compositae,,Tridax,,"candidissima",,"","A.Gray",Accepted,,M,TICA,5BBDEF54-62F1-411D-821E-C43DB0766091,,"Proc. Amer. Acad. Arts xv. (1880) 39.","","39","1879",
+gcc-110323,A,Compositae,,Tridax,,"coronopifolia",,"","(Kunth) Hemsl.",Accepted,,M,TICA,4EB3FD76-04FE-4FEA-A844-B09D83B0DDD0,,"""Biol. Cent.-Amer., Bot. ii. 207.""","","","1881",
+gcc-19882,A,Compositae,,Tridax,,"coronopifolia",var.,"alboradiata","(A.Gray) B.L.Rob. & Greenm.",Synonym,,L,TICA,03A4D35E-E3AB-4E55-8B90-24C56799156E,257716-2,"Proc. Amer. Acad. Arts 32: 9. 1896","","9","1896",gcc-110323
+gcc-145795,A,Compositae,,Tridax,,"coronopifolia",var.,"coronopifolia","",Synonym,,L,TICA,0D52ABFB-4962-4CFB-A76D-0AF0B17091C2,,"","","","",gcc-110323
+gcc-103007,A,Compositae,,Tridax,,"dubia",,"","Rose",Accepted,,M,TICA,3E53ED20-3904-4077-AE19-A058A7AEED86,257717-2,"","","""337, pl. 33""","1895",
+gcc-7655,A,Compositae,,Tridax,,"durangensis",,"","García Arév.",Unresolved,,L,TICA,EE05759B-5CA9-4227-B104-0E39952F6EAA,958185-1,"Acta Bot. Mex. 12","","","1990",
+gcc-132130,A,Compositae,,Tridax,,"ehrenbergii",,"","Sch.Bip. ex Klatt",Synonym,,M,TICA,CBD25CD5-FFD6-4467-B377-E2833150F62D,256371-1,"","","145","1887",gcc-27378
+gcc-142445,A,Compositae,,Tridax,,"ehrenbergii",,"","Sch.Bip.",Unresolved,,L,TICA,6A3EAE69-8D2A-4962-8970-F9A40E340F49,257718-2,"Leopoldina 23: 145. 1887","","145","1887",
+gcc-79372,A,Compositae,,Tridax,,"erecta",,"","A.Gray",Accepted,,M,TICA,4F665470-6F86-438D-BD37-6B5080B73B90,257719-2,"","","390","1886",
+gcc-99544,A,Compositae,,Tridax,,"gaillardioides",,"","Hook. & Arn.",Synonym,,M,TICA,A446BC94-ADF3-4B27-B568-9891A2505996,,"The Botany of Captain Beechey's Voyage","","148-149","1833",gcc-135571
+gcc-132213,A,Compositae,,Tridax,,"galardioides",,"","Hook. & Arn.",Unresolved,,L,TICA,64E43D51-66E7-46CC-9C8C-E2B27463EC32,256373-1,"Bot. Beechey Voy. 148","","148","",
+gcc-88130,A,Compositae,,Tridax,,"galeottii",,"","Klatt",Unresolved,,L,TICA,51F31A04-A88F-4C4A-92BB-7EBF9CF0D389,,"","","","1887",
+gcc-119495,A,Compositae,,Tridax,,"hintonii",,"","(B.L.Turner & A.M.Powell) ""D.J.Keil, M.A.Luckow & Pinkava""",Accepted,,L,TICA,224C9697-20AD-4BDC-A3FF-C54A111B3D61,,"Madroño 34: 357. 1987","","357","1987",
+gcc-8669,A,Compositae,,Tridax,,"hintoniorum",,"","B.L.Turner",Accepted,,M,TICA,6B73AF3D-0955-4C4D-92F6-102F5D721ED6,,"","","","1992",
+gcc-143851,A,Compositae,,Tridax,,"imbricatus",,"","Sch.Bip.",Unresolved,,L,TICA,40CC3B4F-78AC-4108-997E-FCCDE97B7226,,"","","","",
+gcc-38290,A,Compositae,,Tridax,,"imbricatus",,"","Sch.Bip. ex Klatt",Unresolved,,L,TICA,44D98478-E923-4C08-B971-4708A8476B48,,"","","","1885",
+gcc-85374,A,Compositae,,Tridax,,"lanceolata",,"","Klatt",Synonym,,M,TICA,BE3D7490-417C-439A-9A17-78876CE3D61A,257722-2,"","","145","1887",gcc-110323
+gcc-19185,A,Compositae,,Tridax,,"leptophylla",,"","A.Gray",Unresolved,,L,TICA,C4E9509B-34E8-4CB1-827B-2371F5B8698F,257723-2,"","","391","1886",
+gcc-1864,A,Compositae,,Tridax,,"liebmannii",,"","Sch.Bip. ex Klatt",Unresolved,,L,TICA,B6022E5E-0DA0-442B-B181-03594D946F41,256379-1,"""in Leopoldina, Heft xxiii. (1887) 90, in syn.""","","""xxiii.  90, in syn.""","1887",
+gcc-28936,A,Compositae,,Tridax,,"liebmannii",,"","Sch.Bip.",Unresolved,,L,TICA,BFB3A6D3-9AF2-4077-9AA5-357FEDAE3FB9,1214634-2,"","","","",
+gcc-76867,A,Compositae,,Tridax,,"luisana",,"","Brandegee",Accepted,,M,TICA,91A3111D-6C9A-404C-A241-6597F5C1AE3F,257724-2,"","","392","1909",
+gcc-127910,A,Compositae,,Tridax,,"macropoda",,"","Gand.",Synonym,,M,TICA,60476D96-ACA8-4F5B-AA57-D8CF11334BC5,257725-2,"Bull. Soc. Bot. France 65","","47","1918",gcc-110323
+gcc-27444,A,Compositae,,Tridax,,"mandonii",,"","Sch.Bip.",Synonym,,M,TICA,AC2A9261-1846-4275-A0AD-32BDC9B3A77D,,"Bull. Soc. Bot. France 12: 82","","","1865",gcc-96978
+gcc-920,A,Compositae,,Tridax,,"mexicana",,"","A.M.Powell",Accepted,,M,TICA,BFA7A8BD-A74E-43FA-9DEC-01B2CFB34CAA,257726-2,"","","177","1963",
+gcc-94349,A,Compositae,,Tridax,,"moorei",,"","B.L.Rob.",Accepted,,M,TICA,6B9A941D-320B-4B5E-BCF3-8CC895690C58,,"","","","1979",
+gcc-96910,A,Compositae,,Tridax,,"moorei",,"","H.Rob.",Unresolved,,L,TICA,8A17BA46-3E7E-4679-B5F9-929FD582D66B,,"","","","1979",
+gcc-89503,A,Compositae,,Tridax,,"oaxacana",,"","B.L.Turner",Accepted,,M,TICA,B7AFA8C2-5F86-49FE-8FAA-81D976BA6373,286349-2,"","","139","1988",
+gcc-97176,A,Compositae,,Tridax,,"obovata",,"","Turcz.",Accepted,,M,TICA,F5079289-5AE9-4546-843C-9343D1215F54,,"in Bull. Soc. Nat. Mosc. xxiv. (1851) I. 187.","","","1851",
+gcc-141064,A,Compositae,,Tridax,,"oligantha",,"","C.E.Anderson & Beaman",Accepted,,M,TICA,EA20A58D-CD31-421A-98B1-F67F0091DC96,287732-2,"","","241","1968",
+gcc-49088,A,Compositae,,Tridax,,"oligodonta",,"","S.F.Blake",Synonym,,M,TICA,DF54B2C7-0ED7-43FF-8F8A-5AED8873A77C,257728-2,"","","648","1924",gcc-143666
+gcc-112025,A,Compositae,,Tridax,,"palmeri",,"","A.Gray",Accepted,,M,TICA,1458DD78-1FEE-4FEE-92E8-B473A975DFCA,,"Proc. Amer. Acad. Arts xv. (1880) 38.","","","1879",
+gcc-8071,A,Compositae,,Tridax,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,65E74341-DA22-460E-B250-0F070193B637,,"","","","",gcc-112025
+gcc-85167,A,Compositae,,Tridax,,"paraguayensis",,"","Kuntze",Unresolved,,L,TICA,06DBCBB0-ECDC-48BA-BF66-781717F6890A,257730-2,"Revis. Gen. Pl. 3[3]: 182","","182","1898",
+gcc-48807,A,Compositae,,Tridax,,"peruviensis",,"","A.M.Powell",Unresolved,,L,TICA,341312D7-038F-41DD-96A9-5A699455058E,257731-2,"","","178","1963",
+gcc-43822,A,Compositae,,Tridax,,"petrophila",,"","B.L.Rob. & Greenm.",Unresolved,,L,TICA,28D52DE9-0395-474F-94D9-5131730BCEFF,257732-2,"","","5","1896",
+gcc-141700,A,Compositae,,Tridax,,"platyphylla",,"","B.L.Rob.",Accepted,,M,TICA,C7FBFF33-28D0-4F35-92EB-F7FB337A465B,,"Proc. Amer. Acad. Arts xliii. 41 (1907)","","","1907",
+gcc-507,A,Compositae,,Tridax,,"pringlei",,"","B.L.Rob. & Greenm.",Unresolved,,L,TICA,3F4CA2ED-6294-46AD-8238-00F243FAEBD0,256393-1,"","","4","1896",
+gcc-42420,A,Compositae,,Tridax,,"procumbens",,"","(L.) L.",Accepted,,M,TICA,C2D7811C-813E-4105-BB38-4E93BB24EC9F,257735-2,"Sp. Pl. 900. 1753","","900","1753",
+gcc-30410,A,Compositae,,Tridax,,"procumbens",var.,"canescens","(Rich. ex Pers.) DC.",Synonym,,L,TICA,711E5055-88D6-4E4D-978F-384270A168BC,257736-2,"","","679","1836",gcc-42420
+gcc-70938,A,Compositae,,Tridax,,"procumbens",var.,"ovatifolia","B.L.Rob. ex B.L.Rob. & Greenm.",Synonym,,L,TICA,D7528C59-8299-4F6B-8BDF-F2180142FBAE,257737-2,"Proc. Amer. Acad. Arts 32","","7","1896",gcc-42420
+gcc-67642,A,Compositae,,Tridax,,"procumbens",var.,"procumbens","",Synonym,,L,TICA,7E6BC817-C8DE-45C3-B185-D8DEFA611671,,"","","","",gcc-42420
+gcc-96718,A,Compositae,,Tridax,,"purpurea",,"","S.F.Blake",Accepted,,M,TICA,39E61D2F-1FBC-44B0-A20D-923EB72D7140,257738-2,"","","351-352","1937",
+gcc-105437,A,Compositae,,Tridax,,"purpusii",,"","Brandegee",Unresolved,,L,TICA,DCA526AB-24DE-438B-96BC-A59350F17D7A,257739-2,"","","388","1913",
+gcc-35132,A,Compositae,,Tridax,,"rosea",,"","Sch.Bip. ex B.L.Rob. & Greenm.",Accepted,,M,TICA,6C1136F2-CCA6-4D26-9E07-412626C2972B,,"Proc. Amer. Acad. Arts xxxii. 6.","","6","1896",
+gcc-98893,A,Compositae,,Tridax,,"scabrida",,"","Brandegee",Synonym,,M,TICA,3DB55DAC-743E-411A-A6B8-971FB192C4C5,257741-2,"","","73","1914",gcc-141700
+gcc-12651,A,Compositae,,Tridax,,"sodiroi",,"","Hieron. ex Sodiro",Unresolved,,L,TICA,D271005B-5192-4CE4-8893-179622435193,,"Bot. Jahrb. Syst. xxix. 51.","","51","",
+gcc-39491,A,Compositae,,Tridax,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,B8D359A2-008D-40C5-9B11-494A4DF9EA09,257742-2,"Bot. Jahrb. Syst. 29: 51. 1900","","51","1900",gcc-143666
+gcc-142049,A,Compositae,,Tridax,,"stuebelii",,"","Hieron.",Synonym,,M,TICA,BBF8193C-FA58-42A7-9D81-F8C3E16B05EE,286350-2,"Bot. Jahrb. Syst. 21: 351. 1895","","351","1895",gcc-143666
+gcc-128468,A,Compositae,,Tridax,,"tambensis",,"","Hieron.",Accepted,,M,TICA,015EB2E1-7115-4571-81E6-DA13D170A319,257744-2,"","","351","1895",
+gcc-143876,A,Compositae,,Tridax,,"tenuifolia",,"","Rose",Accepted,,M,TICA,EAE1C62B-FFBD-4C2E-B0DE-FCDAF03C0E1F,257745-2,"","","319","1895",
+gcc-36535,A,Compositae,,Tridax,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,TICA,0E2FD80A-AFBB-466D-96C6-43BCB53F46CA,,"","","","",gcc-143876
+gcc-136269,A,Compositae,,Tridax,,"trianae",,"","Hieron.",Unresolved,,L,TICA,47A3A576-EF81-4CDE-B2EB-EBD829023FAE,,"","","","1895",gcc-106486
+gcc-35478,A,Compositae,,Tridax,,"trifida",,"","(Kunth) A.Gray",Synonym,,M,TICA,37C53A45-78C3-4A54-A9F7-41C85835E993,256404-1,"Proc. Amer. Acad. Arts xv. (1880) 39.","","39","1880 [1879]",gcc-110323
+gcc-72028,A,Compositae,,Tridax,,"trifida",var.,"alboradiata","A.Gray",Synonym,,L,TICA,AD6F3051-C7C9-432F-B12A-FABBF5A84F0B,,"Proc. Amer. Acad. Arts 15: 39. 1880","","39","",gcc-110323
+gcc-147254,A,Compositae,,Tridax,,"trifida",var.,"trifida","",Synonym,,L,TICA,DFF38C69-AB7C-4BCC-B024-29971123FE14,,"","","","",gcc-110323
+gcc-112453,A,Compositae,,Tridax,,"trilobata",,"","(Cav.) Hemsl.",Accepted,,L,TICA,94F91EF9-611B-49CE-B4D4-B57C8C0525D5,,"""Biol. Cent.-Amer., Bot. ii. 208.""","","208","1881",
+gcc-134005,A,Compositae,,Tridax,,"tuberosa",,"","B.L.Rob. & Greenm.",Unresolved,,L,TICA,4FCCE64E-7CDC-4678-9063-E6D991FE1E6C,256406-1,"","","4","1896",
+gcc-117759,A,Compositae,,Tridax,,"venezuelensis",,"","Aristeg. & Cuatrec.",Accepted,,M,TICA,4CAD65D4-254B-44E5-89DE-C164C1C2B8E2,257749-2,"","","694","1964",
+gcc-108225,A,Compositae,,Tridax,,"verticillata",,"","Klatt",Synonym,,M,TICA,C32C72EA-27E1-492A-BBC0-ABD0B842E253,257750-2,"","","107","1889",gcc-16086
+gcc-82226,A,Compositae,,Tridax,,"yecorana",,"","B.L.Turner",Accepted,,M,TICA,6AA7F35A-74B1-4C30-91B6-7192D05D8D71,306031-2,"","","286","1996",

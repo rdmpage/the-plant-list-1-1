@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-140797,A,Compositae,,Philoglossa,,"blakei",,"","H.Rob. & Cuatrec.",Unresolved,,L,TICA,E4AEB0D0-6D90-45F6-AD95-F5E684DE883C,193219-2,"","","383","1973",
+gcc-93100,A,Compositae,,Philoglossa,,"mimuloides",,"","(Hieron.) H.Rob. & Cuatrec.",Accepted,,M,TICA,A2050371-5464-44DE-8DA3-8A054E8BDDC4,193220-2,"","","384","1973",
+gcc-110145,A,Compositae,,Philoglossa,,"mimuloides",f.,"mimuloides","",Synonym,,L,TICA,C4E75353-DA84-421B-B21D-B032CA5E3497,,"","","","",gcc-93100
+gcc-146338,A,Compositae,,Philoglossa,,"mimuloides",var.,"mimuloides","",Synonym,,L,TICA,D9D01406-0C71-44AE-BAE6-167E78A61B6E,,"","","","",gcc-93100
+gcc-109461,A,Compositae,,Philoglossa,,"mimuloides",f.,"sapida","(Bristol) H.Rob. & Cuatrec.",Synonym,,L,TICA,F442FD80-AD9F-4AE2-B7A2-AEB66F7C4A5F,877726-1,"","","385","1973",gcc-93100
+gcc-146104,A,Compositae,,Philoglossa,,"mimuloides",var.,"sapida","(Bristol) H.Rob. & Cuatrec.",Synonym,,L,TICA,A88F636F-0971-4C4F-9EBB-118A21E61ABD,,"","","","",gcc-93100
+gcc-109797,A,Compositae,,Philoglossa,,"mimuloides",f.,"subintegrifolia","Hieron. ex H.Rob. & Cuatrec.",Synonym,,L,TICA,11CCA94E-EB1F-46A8-BDB1-AF7C30DB4712,193222-2,"","","385","1973",gcc-93100
+gcc-21193,A,Compositae,,Philoglossa,,"peruviana",,"","DC.",Accepted,,M,TICA,C3D3498A-32F3-42F1-9E92-2724B49F234D,30330077-2,"Prodr. (DC.) 5: 567","","567","1836",
+gcc-153450,A,Compositae,,Philoglossa,,"peruviana",var.,"peruviana","",Synonym,,L,TICA,63744B72-5671-4881-838B-AEC7D7089613,,"","","","",gcc-21193
+gcc-34451,A,Compositae,,Philoglossa,,"peruviana",var.,"sapida","Bristol",Synonym,,L,TICA,A4B7F987-355B-4FA4-9FD7-3FDD9AEDA5BC,,"Bot. Mus. Leafl. 20(10): 326 (325-333; t. 51)","","","1964",gcc-93100
+gcc-127926,A,Compositae,,Philoglossa,,"pterocarpa",,"","Sandwith",Unresolved,,L,TICA,F0D3AC16-1318-4D43-B3FE-D8D82EDDD927,193224-2,"","","292","1956",
+gcc-21228,A,Compositae,,Philoglossa,,"purpureodisca",,"","H.Rob.",Unresolved,,L,TICA,763D161F-C07D-4774-8423-2737BCDCF20C,193225-2,"","","54","1976",

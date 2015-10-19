@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-102874,A,Compositae,,Helminthia,,"aculeata",,"","(Vahl) Desf.",Synonym,,M,TICA,97AE0863-4719-4789-9E5F-A01181C5C7A1,,"","","","",gcc-140376
+gcc-127722,A,Compositae,,Helminthia,,"aculeata",,"","(Vahl) DC.",Synonym,,M,TICA,8A2220BA-7775-46C3-8E83-D85A2345DD15,213681-1,"","","132","1838",gcc-140376
+gcc-41730,A,Compositae,,Helminthia,,"asplenioides",,"","(L.) DC.",Synonym,,M,TICA,9CE676A8-30C0-41E0-BDDC-4D4771DE016E,213682-1,"","","132","1838",gcc-124
+gcc-132422,A,Compositae,,Helminthia,,"balansae",,"","Coss. & Durieu",Synonym,,M,TICA,D73D57A9-C9CB-40AD-BDC1-E338E745B2EA,,"","","744","1856",gcc-152073
+gcc-28786,A,Compositae,,Helminthia,,"callosa",,"","Pomel",Synonym,,M,TICA,D69E4926-996F-498F-86C2-3539ACAD9A46,213684-1,"Nouv. Mat. Fl. Atl. 14.","","14","1874",gcc-140376
+gcc-92654,A,Compositae,,Helminthia,,"comosa",,"","Boiss.",Synonym,,M,TICA,3950C2E5-A7CF-414B-9052-8910AE22A6EC,213685-1,"","","62","1838",gcc-156689
+gcc-150327,A,Compositae,,Helminthia,,"comosa",subsp.,"comosa","",Synonym,,L,TICA,C26D286E-AFEB-49CC-B9BD-6BD614704B76,,"","","","",gcc-156689
+gcc-12804,A,Compositae,,Helminthia,,"comosa",subsp.,"lusitanica","Rivas Mart.",Synonym,,L,TICA,E7488BC5-7994-41AA-AD48-17DE194C6A6D,966196-1,"","","117","1988",gcc-154889
+gcc-31005,A,Compositae,,Helminthia,,"dichotoma",,"","Dulac",Synonym,Illegitimate,M,TICA,DC55B2C4-2D07-4902-834F-396940F00358,213686-1,"Fl. Hautes-Pyr. 496 (1867).","","","1867",gcc-8501
+gcc-1404,A,Compositae,,Helminthia,,"echioides",,"","(L.) Gaertn.",Synonym,,M,TICA,3BB572F0-2ADD-48DB-A1C0-028882CAE382,,"","","368","1791",gcc-8501
+gcc-78126,A,Compositae,,Helminthia,,"echioides",,"","(L.) Holub",Synonym,,M,TICA,0F923030-53F1-42F6-B1A1-6869CEB80FC1,,"","","","",gcc-8501
+gcc-83297,A,Compositae,,Helminthia,,"echioides",,"","(L.) Juss.",Synonym,,M,TICA,B1358FB5-6B91-4401-895F-73F56FF8C5B6,,"Gen. Pl. : 170 (1789)","","170","1789",gcc-8501
+gcc-149407,A,Compositae,,Helminthia,,"echioides",var.,"echioides","",Synonym,,L,TICA,685B69E8-28E3-4FB4-8AD2-580651E6A77E,,"","","","",gcc-8501
+gcc-111908,A,Compositae,,Helminthia,,"glomerata",,"","Pomel",Synonym,,M,TICA,9CA18B29-329E-477D-9F87-B4384825D7E9,213688-1,"Nouv. Mat. Fl. Atl. 13.","","13","1874",gcc-155615
+gcc-136047,A,Compositae,,Helminthia,,"glomerata",,"","(Pomel) Baratte",Synonym,,M,TICA,A4D44BAB-593B-42FB-AF52-EB44FF217BDC,,"","","","",gcc-155615
+gcc-110697,A,Compositae,,Helminthia,,"humifusa",,"","(Willd.) Trevir.",Synonym,,M,TICA,2DAF5E75-B8C8-4872-B0B0-B182F4A6EDAA,213689-1,"","","195","1826",gcc-8501
+gcc-133250,A,Compositae,,Helminthia,,"lusitanica",,"","Welw. ex Schltdl.",Synonym,,M,TICA,D8FBAB02-667A-480F-A860-E51462A81F3E,,"","","515","1854",gcc-154889
+gcc-82527,A,Compositae,,Helminthia,,"lusitanica",,"","wlw. ex Schlecht.",Unresolved,,L,TICA,7F0CF6D7-8EE5-4214-914C-7243E9E49833,,"","","","",
+gcc-95710,A,Compositae,,Helminthia,,"montana",,"","Pomel",Synonym,,M,TICA,4A228A1A-7375-46AA-B687-8FFE71E8A553,213691-1,"Nouv. Mat. Fl. Atl. 14.","","14","1874",gcc-140376
+gcc-112705,A,Compositae,,Helminthia,,"mucronata",,"","Terrac.",Unresolved,,L,TICA,EC0417A1-27E0-4DD3-969B-B60A46D5EE96,,"Fl. Vult. Syn. 111; et ex Nouv. Giorn. Bot. Ital. iii. (1871) 199.","","111","",
+gcc-152542,A,Compositae,,Helminthia,,"mucronata",,"","Terraciano",Synonym,,M,TICA,FD9BDE8B-3D31-45FF-AB7D-9BC8F4DE6062,,"""Terraciano, Fl. Vult. Syn.. 1869""","","111","1869",gcc-140376
+gcc-127437,A,Compositae,,Helminthia,,"pratensis",,"","Chevall.",Synonym,,M,TICA,F2FEBF87-76E1-4CE7-ACA1-D7A96618E0B4,213693-1,"","","552","1828",gcc-8501
+gcc-41782,A,Compositae,,Helminthia,,"racemosa",,"","Pomel",Synonym,,M,TICA,5ACD96AD-09A6-482A-9028-4D61B03CE116,213694-1,"Nouv. Mat. Fl. Atl. 13.","","13","1874",gcc-156689
+gcc-75476,A,Compositae,,Helminthia,,"rigida",,"","Schult. ex Steud.",Synonym,,M,TICA,56ECE981-2549-47F5-8F88-6285F7BAE68E,213695-1,"Nomencl. Bot. (Steudel) 398","","398","1821",gcc-8501
+gcc-27524,A,Compositae,,Helminthia,,"spinosa",,"","DC.",Synonym,,M,TICA,BD83D764-74A9-4A75-9533-32E49EF80B71,213696-1,"","","58","1805",gcc-8501
+gcc-154095,A,Compositae,,Helminthia,,"sprengeriana",,"","(L.) Gaertn.",Synonym,,M,TICA,92F4D356-424B-4989-9FE0-BC4FEC88A3FD,,"","","","",gcc-122025
+gcc-23009,A,Compositae,,Helminthia,,"sprengeriana",,"","Gaertn. ex DC.",Unresolved,,L,TICA,4E34F199-3F63-4251-899C-2A9C5503839D,213697-1,"Prodr. (DC.) 7(1): 133","","133","1838",
+gcc-41379,A,Compositae,,Helminthia,,"tuberculata",,"","Moench",Synonym,,M,TICA,C29EAE5E-20A1-4107-BE25-4CA14FFB9DDB,213698-1,"","","539","1794",gcc-8501

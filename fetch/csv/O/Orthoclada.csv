@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-426544,A,Poaceae,,Orthoclada,,"africana",,"","C.E.Hubb.",Accepted,,H,WCSP,426544,409981-1,"Hooker's Icon. Pl.","35: t. 3419, p. 2","","1940",
+kew-426545,A,Poaceae,,Orthoclada,,"laxa",,"","(Rich.) P.Beauv.",Accepted,,H,WCSP,426545,,"Ess. Agrostogr.","69","","1812",
+kew-426546,A,Poaceae,,Orthoclada,,"rariflora",,"","(Lam.) P.Beauv.",Synonym,,H,WCSP,426546,409984-1,"Ess. Agrostogr.","70","","1812",kew-426545
+kew-426547,A,Poaceae,,Orthoclada,,"rariflora",var.,"lanceolata","Döll",Synonym,,L,WCSP,426547,176789-2,"Fl. Bras.","2(3): 118","","1878",kew-426545
+tro-25530022,A,Poaceae,,Orthoclada,,"rariflora",var.,"rariflora","",Synonym,,L,TRO,25530022,,"","","","",kew-426545
+kew-426548,A,Poaceae,,Orthoclada,,"rariflora",var.,"sesquiflora","Döll",Synonym,,L,WCSP,426548,176790-2,"Fl. Bras.","2(3): 118","","1878",kew-426545
+kew-426549,A,Poaceae,,Orthoclada,,"rariflora",var.,"sesquitertia","Döll",Synonym,,L,WCSP,426549,176791-2,"Fl. Bras.","2(3): 118","","1878",kew-426545

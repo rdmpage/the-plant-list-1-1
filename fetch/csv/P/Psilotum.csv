@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-26625279,P,Psilotaceae,,Psilotum,,"complanatum",,"","Sw.",Accepted,,M,TRO,26625279,,"J. Bot. (Schrader)","1800(2): 110","110","1801",
+tro-26609077,P,Psilotaceae,,Psilotum,,"complanatum",var.,"latissimum","Spring",Synonym,,L,TRO,26609077,212105-2,"Mém. Acad. Roy. Sci. Belgique","24: 271","271","1849",tro-26625279
+tro-26609084,P,Psilotaceae,,Psilotum,,"domingense",,"","Gand.",Synonym,,M,TRO,26609084,,"Bull. Soc. Bot. France","66: 306","306","1919",tro-26602814
+tro-26608435,P,Psilotaceae,,Psilotum,,"flaccidum",,"","Wall.",Synonym,,M,TRO,26608435,,"Numer. List","45","45","1828",tro-26625279
+tro-26604144,P,Psilotaceae,,Psilotum,,"floridanum",,"","Michx.",Synonym,,M,TRO,26604144,,"Fl. Bor.-Amer.","2: 281","281","1803",tro-26602814
+tro-26602814,P,Psilotaceae,,Psilotum,,"nudum",,"","(L.) P. Beauv.",Accepted,,M,TRO,26602814,212103-2,"Prodr. Aethéogam.","106, 112","106","1805",
+tro-26604143,P,Psilotaceae,,Psilotum,,"triquetrum",,"","Sw.",Synonym,,M,TRO,26604143,,"J. Bot. (Schrader)","1800(2): 109","109","1801",tro-26602814
+tro-26607563,P,Psilotaceae,,Psilotum,,"triquetrum",var.,"gracile","Grev. & Hook.",Synonym,,L,TRO,26607563,212106-2,"Bot. Misc.","2: 362","362","1831",tro-26602814

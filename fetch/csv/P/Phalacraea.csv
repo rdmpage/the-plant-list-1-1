@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-45257,A,Compositae,,Phalacraea,,"callitricha",,"","(B.L.Rob.) R.M.King & H.Rob.",Accepted,,M,TICA,95BCF017-C0CC-4AB8-8493-53E0FC25D255,192242-2,"","","253","1974",
+gcc-15836,A,Compositae,,Phalacraea,,"coelestina",,"","Regel",Synonym,,M,TICA,4D44C8DE-97BE-4B8C-96B5-1D5198C1C151,,"Gartenfl. (1854) 388. t. 107","","","1854",gcc-151487
+gcc-88836,A,Compositae,,Phalacraea,,"ecuadorensis",,"","R.M.King & H.Rob.",Accepted,,M,TICA,BD2CFB40-0C6B-4E79-94E7-8057743CAD0D,192244-2,"","","253","1974",
+gcc-46479,A,Compositae,,Phalacraea,,"latifolia",,"","DC.",Accepted,,M,TICA,7E90C7E3-71E8-45AD-AAB7-561FC57A83E5,,"","","106","1836",
+gcc-150308,A,Compositae,,Phalacraea,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,BD53C760-DB11-49BD-AEC5-6B87DE18CD0A,,"","","","",gcc-46479
+gcc-98649,A,Compositae,,Phalacraea,,"lindenii",,"","Sch.Bip. ex Benth. & Hook.f.",Synonym,Illegitimate,M,TICA,464B1007-0605-45EA-954E-9690D0A449C6,237621-1,"Gen. ii. 240.","","240","1873",gcc-36372
+gcc-49009,A,Compositae,,Phalacraea,,"longipetiolata",,"","(B.L.Rob.) R.M.King & H.Rob.",Accepted,,M,TICA,573EB555-833E-43F5-904C-5AC9017B6F93,909552-1,"","","5","1981",
+gcc-130395,A,Compositae,,Phalacraea,,"pittieri",,"","(R.M.King) R.M.King & H.Rob.",Synonym,,M,TICA,9362F075-474B-4DDD-923F-DE741341A286,192247-2,"","","254","1974",gcc-49009
+gcc-19419,A,Compositae,,Phalacraea,,"wendlandii",,"","Sch.Bip.",Unresolved,,L,TICA,9873DCF7-D8C9-492F-AA7D-23E431DE6C24,192248-2,"","","","",
+gcc-48607,A,Compositae,,Phalacraea,,"wendlandii",,"","Sch.Bip. ex Klatt",Synonym,Illegitimate,M,TICA,C51FF241-4263-4170-B9AE-5A0AA3259933,237623-1,"Leopoldina xx. (1884) 74.","","74","1884",gcc-153365

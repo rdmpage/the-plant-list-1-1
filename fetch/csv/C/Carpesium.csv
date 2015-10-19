@@ -1,0 +1,84 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-16562,A,Compositae,,Carpesium,,"abrotanoides",,"","L.",Accepted,,M,TICA,344938A2-8294-4A6E-934F-1E9BC5490A73,189330-1,"Sp. Pl.: 860 (1753)","","860","1753",
+gcc-156973,A,Compositae,,Carpesium,,"abrotanoides",var.,"abrotanoides","",Synonym,,L,TICA,A41146D9-3669-41FB-9D2A-F8125E8E5833,,"","","","",gcc-16562
+gcc-71801,A,Compositae,,Carpesium,,"abrotanoides",var.,"thunbergianum","(Siebold & Zucc.) Makino",Synonym,,L,TICA,F9B8FE3B-ED89-4A0E-B9D0-F8E862462012,,"","","","",gcc-16562
+gcc-125071,A,Compositae,,Carpesium,,"acutum",,"","Hayata",Synonym,,M,TICA,7BD942C4-B633-4439-B8DF-D23B01FF5AA1,,"","","","1908",gcc-23544
+gcc-1381,A,Compositae,,Carpesium,,"atkinsonianum",,"","Hemsl.",Synonym,,M,TICA,F6B3A82D-A114-4E92-B96B-027AD1C27118,,"","","157","",gcc-119123
+gcc-102488,A,Compositae,,Carpesium,,"cernuum",,"","L.",Accepted,,M,TICA,8BF2C268-9F3D-4496-ADD8-9F3ABCBC5590,189333-1,"Sp. Pl.: 859 (1753)","","859","1753",
+gcc-152123,A,Compositae,,Carpesium,,"cernuum",var.,"cernuum","",Synonym,,L,TICA,3DCAFE3B-8062-4754-8358-93030AC6A778,,"Sp. Pl. 2: 859-860. 1753","","859-860.","1753",gcc-102488
+gcc-38414,A,Compositae,,Carpesium,,"cernuum",var.,"ciliatum","Hook.f.",Synonym,,L,TICA,A690FA3C-4D7E-414B-B72E-474779875629,,"","","301","1881",gcc-56185
+gcc-68887,A,Compositae,,Carpesium,,"cernuum",var.,"glandulosum","Hook.f. & Thomson ex C.B.Clarke",Synonym,,L,TICA,17C01A26-EB5B-4BF3-AF1F-E23647F2F621,77067359-1,"Compos. Ind. 130. 1876","","130","1876",gcc-4725
+gcc-56684,A,Compositae,,Carpesium,,"cernuum",var.,"griffithii","Hook.f.",Synonym,,L,TICA,CD95BCD3-D820-453B-9CBC-806D74C42090,,"","","301","1881",gcc-9644
+gcc-12969,A,Compositae,,Carpesium,,"cernuum",var.,"lanatum","Thomson ex C.B.Clarke",Synonym,,L,TICA,7B4F3F26-0B71-4F72-919B-182DE16ACA6F,,"","","130","1876",gcc-72392
+gcc-50142,A,Compositae,,Carpesium,,"cernuum",var.,"nepalense","(Less.) C.B.Clarke",Synonym,,L,TICA,11FF23A8-3C5E-4E09-AF41-5CF4572DC877,,"Compos. Ind.: 130 (1876)","","130","1876",gcc-23544
+gcc-54728,A,Compositae,,Carpesium,,"cernuum",var.,"nilagiricum","C.B.Clarke",Synonym,,L,TICA,277B7501-49B9-4651-A2AC-7057D0296C2F,,"","","131","1876",gcc-20684
+gcc-66017,A,Compositae,,Carpesium,,"cernuum",var.,"pedunculosa","C.B.Clarke",Synonym,,L,TICA,F4471A21-2A5C-4E79-A64C-CB646F56AB94,,"Compos. Ind.: 131 (1876)","","131","1876",gcc-152320
+gcc-152320,A,Compositae,,Carpesium,,"cernuum",var.,"pedunculosum","C.B.Clarke",Accepted,,L,TICA,EAE32FED-DD8B-4E9E-B54E-97154DAA95AD,,"Compos. Ind. 131. 1876","","131","1876",
+gcc-55946,A,Compositae,,Carpesium,,"cernuum",var.,"queenslandica","Domin",Synonym,,L,TICA,42E1784D-6DDF-42BF-ADF7-7A601F898D33,,"","","","1930",gcc-102488
+tro-50056074,A,Compositae,,Carpesium,,"cernuum",var.,"trachelifolium","(Less.) C.B. Clarke",Synonym,,L,TRO,50056074,,"Compos. Ind.","131","131","1876",gcc-148244
+gcc-62279,A,Compositae,,Carpesium,,"cernuum",var.,"trachrlifolium","(Less.) C.B.Clarke",Synonym,,L,TICA,E45B6B2E-E545-4FBC-8FE1-AD658BEE4318,,"Compos. Ind.: 131 (1876)","","131","1876",gcc-148244
+gcc-117672,A,Compositae,,Carpesium,,"ciliatum",,"","Wall.",Synonym,Invalid,L,TICA,C3C38E5D-68A5-42E9-91FD-C1337D70E773,189334-1,"","","3214","1831",gcc-10741
+gcc-13080,A,Compositae,,Carpesium,,"cordatum",,"","F.H.Chen & C.M.Hu",Accepted,,M,TICA,2F418DB5-FBE5-4AAB-A3EF-185D8D970DA9,189373-1,"","","497","1974",
+gcc-119123,A,Compositae,,Carpesium,,"divaricatum",,"","Siebold & Zucc.",Accepted,,M,TICA,8CE8ECB3-87FB-4030-8BB2-C47F277CF4F3,189335-1,"","","187","1846",
+gcc-55975,A,Compositae,,Carpesium,,"divaricatum",var.,"abrotanoides","(Matsum. & Koidz.) H.Koyama",Accepted,,L,TICA,68CEDBBF-A903-43DC-B631-7A9F2AD21474,982998-1,"","","100","1995",
+gcc-146004,A,Compositae,,Carpesium,,"divaricatum",var.,"divaricatum","",Synonym,,L,TICA,D5513CA3-B1C3-4DC5-B6AD-0FA9CBFF0872,,"","","","",gcc-119123
+gcc-62471,A,Compositae,,Carpesium,,"divaricatum",var.,"matsuei","(Tatew. & Kitam.) Kitam.",Accepted,,L,TICA,C27AA91F-0891-45AF-B7A7-AEF773A1F0D8,,"Mem. Coll. Sci. Kyoto Univ. ser. B. 24: 48 (1957)","","48","1957",
+gcc-22030,A,Compositae,,Carpesium,,"divaricatum",var.,"pygmaea","Miq.",Synonym,,L,TICA,E03B79D0-5CEA-4469-A3FB-28BDAC323343,,"","","","",gcc-119123
+gcc-45529,A,Compositae,,Carpesium,,"erythrolepis",,"","H.Lév.",Synonym,,M,TICA,D20753E2-B007-41B4-AD16-5461D3F4AFF0,189336-1,"Repert. Spec. Nov. Regni Veg. 8","","170","1910",gcc-119123
+gcc-111852,A,Compositae,,Carpesium,,"eximium",,"","C.Winkl.",Synonym,,M,TICA,105055DA-C9B4-45A9-BE74-B41963D4FACB,189337-1,"Act. Hort. Petrop.","","58","1895",gcc-31170
+gcc-78887,A,Compositae,,Carpesium,,"faberi",,"","C.Winkl.",Accepted,,M,TICA,93D7B37E-E6E9-4261-8D92-6A325B24A79A,,"Act. Hort. Petrop.","","","1895",
+gcc-137633,A,Compositae,,Carpesium,,"gigas",,"","H.Lév. & Vaniot",Accepted,,M,TICA,CD7F62B1-9D93-498E-8800-EEDC08FB9AB1,189341-1,"Repert. Spec. Nov. Regni Veg. 6","","330","1909",
+gcc-115278,A,Compositae,,Carpesium,,"glossophylloides",,"","Nakai",Synonym,,M,TICA,CA743F8D-9131-4AFF-A8C9-BBC893E6B4A3,,"","","","1915",gcc-102488
+gcc-35963,A,Compositae,,Carpesium,,"glossophyllum",,"","Maxim.",Accepted,,M,TICA,C45269E3-C58A-41C6-A07D-42AF5C2B88C4,189343-1,"","","475","1874",
+gcc-133506,A,Compositae,,Carpesium,,"hieracioides",,"","H.Lév.",Synonym,,M,TICA,5C457C89-7458-4C99-A19F-E5A2D744AB08,189344-1,"Repert. Spec. Nov. Regni Veg. 8","","170","1910",gcc-35963
+gcc-47590,A,Compositae,,Carpesium,,"hosokawae",,"","Kitam.",Synonym,,M,TICA,99E26D46-0EA0-42CB-90D5-582CE370FA7B,189345-1,"Acta Phytotax. Geobot. 3: 98 (1934)","","98","1934",gcc-78887
+gcc-30,A,Compositae,,Carpesium,,"humile",,"","C.Winkl.",Accepted,,M,TICA,926F9482-F0BE-47F9-8192-0010EAC67079,189346-1,"Act. Hort. Petrop.","","70","1895",
+gcc-2972,A,Compositae,,Carpesium,,"koidzumii",,"","Makino",Synonym,,M,TICA,1DFF17E1-316A-4CF7-970C-0583FB3946D6,189348-1,"J. Jap. Bot. 2: 22 (1922)","","22","1922",gcc-55975
+gcc-153693,A,Compositae,,Carpesium,,"koidzumii",var.,"koidzumii","",Synonym,,L,TICA,75F80B51-7E93-4DEE-B37C-B361013309C5,,"","","","",gcc-55975
+gcc-58990,A,Compositae,,Carpesium,,"koidzumii",var.,"matsuei","(Tatew. & Kitam.) Hara",Synonym,,L,TICA,73CD9BE6-F0CA-4A74-99F1-92F76A282B49,,"","","","",gcc-62471
+gcc-133682,A,Compositae,,Carpesium,,"kweichowense",,"","C.C.Chang",Accepted,,M,TICA,B0483D9E-A612-4981-89F2-E6103AC70887,,"","","","1933",
+gcc-133133,A,Compositae,,Carpesium,,"leptophyllum",,"","F.H.Chen & C.M.Hu",Accepted,,M,TICA,70D57CC7-EDA0-4E6F-B413-E4CFFDBC3C60,189374-1,"","","499","1974",
+gcc-64989,A,Compositae,,Carpesium,,"leptophyllum",var.,"leptophyllum","",Synonym,,L,TICA,7C44FB2E-3C35-4A52-8EBA-C2DCF7E2E107,,"","","","",gcc-133133
+gcc-138552,A,Compositae,,Carpesium,,"lipskyi",,"","C.Winkl.",Accepted,,M,TICA,F0C08C62-3465-4179-A5F6-F0D440205C27,189350-1,"Act. Hort. Petrop.","","68","1895",
+gcc-67028,A,Compositae,,Carpesium,,"lipskyi",var.,"hotonense","C.Winkl.",Synonym,,L,TICA,68D0489D-396F-4527-ABFC-D397ADE8419D,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 14(1):","","69","1895",gcc-138552
+gcc-146137,A,Compositae,,Carpesium,,"lipskyi",var.,"lipskyi","",Synonym,,L,TICA,1F2609B2-BE30-423C-A167-123217297C20,,"","","","",gcc-138552
+gcc-38997,A,Compositae,,Carpesium,,"lipskyi",var.,"potaninii","C.Winkl.",Synonym,,L,TICA,1A145A7F-E806-482B-A11D-485BB8A994B4,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 14(1):","","68-69","1895",gcc-138552
+gcc-68448,A,Compositae,,Carpesium,,"lipskyi",var.,"przewalskii","C.Winkl.",Synonym,,L,TICA,CEE518D0-CD20-480D-9390-DEEE3F00F1EC,,"Trudy Imperatorskago S.-Peterburgskago Botanicheskago Sada 14(1):","","69","1895",gcc-138552
+gcc-141832,A,Compositae,,Carpesium,,"longifolium",,"","F.H.Chen & C.M.Hu",Accepted,,M,TICA,E1A24213-09CC-4A28-8F77-F84DAE27AB22,189375-1,"","","498","1974",
+gcc-31170,A,Compositae,,Carpesium,,"macrocephalum",,"","Franch. & Sav.",Accepted,,M,TICA,6517B21C-904A-4D29-846E-39B38F16B4A8,,"Enum. Pl. Jap. 2","","408","1878",
+gcc-25470,A,Compositae,,Carpesium,,"manshuricum",,"","Kitam.",Synonym,,M,TICA,A625BF64-FEF8-40BE-B324-2F066E572F42,189353-1,"","","71","1935",gcc-110878
+gcc-101288,A,Compositae,,Carpesium,,"matsuei",,"","Tatew. & Kitam.",Synonym,,M,TICA,DD268E91-B30C-476A-ADF2-9C737F9ABBCD,189354-1,"Acta Phytotax. Geobot. 5: 27 (1936)","","27","1936",gcc-62471
+gcc-127547,A,Compositae,,Carpesium,,"minus",,"","Hemsl.",Accepted,,M,TICA,B3B25A67-74BB-4500-AE59-D7E734012C5E,,"","","","1888",
+gcc-23544,A,Compositae,,Carpesium,,"nepalense",,"","Less.",Accepted,,M,TICA,0B95519F-E90C-4C46-ABFF-2B8B78EE8C6C,189356-1,"Linnaea 6: 234. 1831","","234","1831",
+gcc-10741,A,Compositae,,Carpesium,,"nepalense",var.,"ciliatum","(Hook.f.) Sarv.Kumar",Unresolved,,L,TICA,42EDEA3E-E4CC-49B1-A28E-1419FA0947B4,954906-1,"","","","",
+gcc-56185,A,Compositae,,Carpesium,,"nepalense",var.,"ciliatum","(Hook.f.) S.Kumar",Accepted,,L,TICA,C661B6E3-35D0-416E-94A9-7C689553757E,,"","","21","1988",
+gcc-4725,A,Compositae,,Carpesium,,"nepalense",var.,"glandulosum","(Hook.f. & Thomson ex C.B.Clarke) Qaiser & Abid",Accepted,,L,TICA,DADFC063-AE76-4C0A-AC13-08C985FF7605,77067360-1,"","","86","2003",
+gcc-9644,A,Compositae,,Carpesium,,"nepalense",var.,"griffithii","(Hook.f.) S.Kumar",Accepted,,L,TICA,4F666FAC-9564-4420-A867-1203F17F31EB,,"","","","1988",
+gcc-72392,A,Compositae,,Carpesium,,"nepalense",var.,"lanatum","(C.B.Clarke) Kitam.",Accepted,,L,TICA,CE6A9173-ECCC-46D3-AC6E-FD9D3FAF1213,,"","","335","1966",
+gcc-53825,A,Compositae,,Carpesium,,"nepalense",var.,"nepalense","",Synonym,,L,TICA,4DC88398-F88A-415F-A9B7-691462656959,,"","","","",gcc-23544
+gcc-20684,A,Compositae,,Carpesium,,"nepalense",var.,"nilagiricum","(C.B.Clarke) S.Kumar",Accepted,,L,TICA,4B7C8D9C-17E3-4A13-808F-2644059E5E3F,,"","","22","1988",
+gcc-58097,A,Compositae,,Carpesium,,"nepalense",var.,"pedunculosa","(C.B.Clarke) S.Kumar",Accepted,,L,TICA,205D6B8B-AD67-47DD-9D7D-8BCAF3FB3716,,"","","22","1988",
+gcc-150178,A,Compositae,,Carpesium,,"pedunculosum",,"","Wall. ex DC.",Synonym,,M,TICA,12CA82AC-1C46-49D4-AEEE-68CC0F2C40A3,,"Prodr. (DC.) 6: 281. 1836 ","","281","1836",gcc-152320
+gcc-45570,A,Compositae,,Carpesium,,"pedunculosum",,"","Wall.",Synonym,Invalid,M,TICA,089C924F-4F2D-4D11-B45B-547795CDD0DD,189357-1,"","","3200","1831",gcc-58097
+gcc-30592,A,Compositae,,Carpesium,,"pseudotracheliifolium",,"","Ling",Synonym,,M,TICA,F3DB09C7-A8FC-42FB-B8DF-38A5BD0197CD,189358-1,"Contr. Inst. Bot. Natl. Acad. Peiping 2","","482","1934",gcc-72198
+gcc-4400,A,Compositae,,Carpesium,,"pubescens",,"","Wall.",Synonym,Invalid,M,TICA,8C11EFEE-1966-4CE1-9B03-08311794D6D6,189359-1,"","","3199","1831",gcc-23544
+gcc-1636,A,Compositae,,Carpesium,,"racemosum",,"","Wall.",Synonym,Invalid,M,TICA,05ED6FC9-217B-417D-8E6D-02F1A31580C5,189360-1,"","","3201","1831",gcc-16562
+gcc-42220,A,Compositae,,Carpesium,,"rosulatum",,"","Miq.",Accepted,,M,TICA,BE790A73-3F8F-4D05-83BB-4E3A5F76B8CE,,"","","179","1866",
+gcc-141864,A,Compositae,,Carpesium,,"scandens",,"","Schult.f. ex Miq.",Synonym,,M,TICA,C5CC94E8-DB45-4411-A72A-F860C3D36B7B,,"","","172","1866",gcc-148041
+gcc-82779,A,Compositae,,Carpesium,,"scapiforme",,"","F.H.Chen & C.M.Hu",Accepted,,M,TICA,3AB62862-FBA7-4A7A-B73F-72CDF2DEB01F,189376-1,"","","497","1974",
+gcc-75460,A,Compositae,,Carpesium,,"spathiforme",,"","Hosok.",Accepted,,M,TICA,EB5559CF-DF9D-4968-B9EE-627CE19D6E95,,"","","","1932",
+gcc-48000,A,Compositae,,Carpesium,,"szechuanense",,"","F.H.Chen & C.M.Hu",Accepted,,M,TICA,CD75EC30-C28F-4E52-92F1-58EF935D2D12,189377-1,"","","499","1974",
+gcc-37639,A,Compositae,,Carpesium,,"taquetii",,"","H.Lév.",Synonym,,M,TICA,A40386FA-1B30-4789-B847-45C79D223E79,189364-1,"Repert. Spec. Nov. Regni Veg. 8","","170","1910",gcc-102488
+gcc-18218,A,Compositae,,Carpesium,,"thunbergianum",,"","Siebold & Zucc.",Synonym,,M,TICA,A262EE7D-3E60-446D-A72B-21AC8AA122EC,,"","","187","",gcc-16562
+gcc-148244,A,Compositae,,Carpesium,,"trachelifolium",,"","Less.",Accepted,,M,TICA,E7DF3726-2E6E-419F-B186-3E8890E1EA6D,189366-1,"Linnaea 6","","233","1831",
+gcc-110878,A,Compositae,,Carpesium,,"triste",,"","Maxim.",Accepted,,M,TICA,8999FD02-7204-4266-87D9-B1E1B7E657D4,189367-1,"","","479","1874",
+gcc-62404,A,Compositae,,Carpesium,,"triste",var.,"abrotanoides","Matsum. & Koidz.",Synonym,,L,TICA,28FF8D6F-88CA-489E-8BC0-AE8459E9000C,,"Bot. Mag. Tokyo 24: 119 and 378 (1910)","","119 and 378","1910",gcc-55975
+gcc-54730,A,Compositae,,Carpesium,,"triste",var.,"manshuricum","(Kitam.) Kitam.",Synonym,,L,TICA,88A0E00A-736F-41EA-ADDD-705B05E2CD6A,,"""Memoirs of the College of Science, Kyoto Imperial University. Series B. Biology 13:""","","280","1937",gcc-110878
+gcc-72198,A,Compositae,,Carpesium,,"triste",var.,"sinense","Diels",Accepted,,L,TICA,AF314164-D32A-4A8B-9CD7-FC3C78346176,,"""Botanische Jahrbucher fur Systematik, Pflanzengeschichte und Pflanzengeographie 29(5):""","","615","1901",
+gcc-67109,A,Compositae,,Carpesium,,"triste",var.,"triste","",Synonym,,L,TICA,C73D9D69-27D2-4E80-90FA-D438204CB358,,"","","","",gcc-110878
+gcc-84280,A,Compositae,,Carpesium,,"tristiforme",,"","Hand.-Mazz.",Synonym,,M,TICA,A3D0EF4A-C8B8-4390-8EE7-7632050DEA0F,189368-1,"Oesterr. Bot. Z. 83","","236","1934",gcc-72198
+gcc-112737,A,Compositae,,Carpesium,,"velutinum",,"","C.Winkl.",Accepted,,M,TICA,C8F55494-4514-40E5-9D00-B6202333CD91,189369-1,"Act. Hort. Petrop.","","73","1895",
+gcc-22764,A,Compositae,,Carpesium,,"verbascifolium",,"","H.Lév.",Accepted,,M,TICA,821B9E6B-A1D3-4964-9690-2A20FD93E1C6,189371-1,"Repert. Spec. Nov. Regni Veg. 8","","359","1910",
+gcc-127299,A,Compositae,,Carpesium,,"wulfenianum",,"","Schreb. ex DC.",Synonym,,M,TICA,7BE3DB17-75E1-4C36-8E06-D74F0C4D15F9,189372-1,"","","282","1838",gcc-16562
+gcc-5322,A,Compositae,,Carpesium,,"wulfenianum",,"","Bertol.",Synonym,,M,TICA,2C3518AB-2B39-4F60-83CC-09EF57CC325E,,"""Bertol., Fl. Ital. 8. 1851.""","","173","1851",gcc-16562
+gcc-79584,A,Compositae,,Carpesium,,"zhouquensis",,"","J.Q.Fu",Accepted,,M,TICA,7EBAF659-EFD4-47B5-8F4B-6BC191778941,897302-1,"""Bull. Bot. Res., Harbin 1(4)""","","130","1981",

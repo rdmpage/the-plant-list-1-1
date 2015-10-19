@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-423377,A,Poaceae,,Melanocenchris,,"abyssinica",,"","(R.Br. ex Fresen.) Hochst.",Accepted,,H,WCSP,423377,407878-1,"Flora","38: 274","","1855",
+kew-423378,A,Poaceae,,Melanocenchris,,"jacquemontii",,"","Jaub. & Spach",Accepted,,H,WCSP,423378,407880-1,"Ill. Pl. Orient.","4: 36","","1851",
+kew-423379,A,Poaceae,,Melanocenchris,,"monoica",,"","(Rottler) C.E.C.Fisch.",Accepted,,H,WCSP,423379,,"Bull. Misc. Inform. Kew","1934: 148","","1934",
+kew-423380,A,Poaceae,,Melanocenchris,,"perrottetii",,"","Jaub. & Spach",Synonym,,H,WCSP,423380,407884-1,"Ill. Pl. Orient.","4: 38","","1851",kew-423379
+kew-423381,A,Poaceae,,Melanocenchris,,"plumosa",,"","(Steud.) Hochst.",Synonym,Illegitimate,H,WCSP,423381,407886-1,"Flora","38: 273","","1855",kew-423377
+tro-50143464,A,Poaceae,,Melanocenchris,,"plumosa",,"","Jaub. & Spach",Synonym,,M,TRO,50143464,,"Ill. Pl. Orient.","4: 37","37","1851",kew-423377
+kew-423382,A,Poaceae,,Melanocenchris,,"rothiana",,"","Nees",Synonym,Illegitimate,H,WCSP,423382,407888-1,"Proc. Linn. Soc. London","1: 95","","1841",kew-423379
+kew-423383,A,Poaceae,,Melanocenchris,,"royleana",,"","Nees",Synonym,Invalid,H,WCSP,423383,407890-1,"Proc. Linn. Soc. London","1: 95","","1841",kew-423378

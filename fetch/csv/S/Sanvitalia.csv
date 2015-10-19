@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-88736,A,Compositae,,Sanvitalia,,"aberti",,"","A.Gray",Accepted,,M,TICA,BF77F676-24C5-44E1-9E9B-80206D2BAC48,,"","","87","1849",
+gcc-29134,A,Compositae,,Sanvitalia,,"acapulcensis",,"","(DC.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,69D91674-C663-40B0-8EB2-35D903CF0216,242028-1,"","","154","",
+gcc-138216,A,Compositae,,Sanvitalia,,"acinifolia",,"","DC.",Synonym,,M,TICA,7B0D19F2-55AC-4911-B84C-F0230D502EB9,242029-1,"","","628","1836",gcc-51854
+gcc-75822,A,Compositae,,Sanvitalia,,"angustifolia",,"","Engelm. ex A.Gray",Accepted,,M,TICA,6BFC618A-A8E5-4B70-912E-6350787D5892,,"Pl. Wright. i. 12.","","","1852",
+gcc-84488,A,Compositae,,Sanvitalia,,"fruticosa",,"","Hemsl.",Accepted,,M,TICA,B958734A-10BF-4B04-BBCD-76AB185B9365,,"""Biol. Cent.-Amer., Bot. ii. 155.""","","155","1881",
+gcc-102696,A,Compositae,,Sanvitalia,,"helianthoides",,"","Rich.",Unresolved,,L,TICA,6EEDEAB8-28F6-401E-A8FC-9FB469983236,242032-1,"""Sp. Pl., ed. 4. 3: 2190. 1803""","","2190","1803",gcc-36672
+gcc-148179,A,Compositae,,Sanvitalia,,"helianthoides",,"","Rich. ex Willd.",Synonym,,M,TICA,0978D4AE-DF85-4189-834F-3CE9D8AD6358,,"","","","",gcc-85497
+gcc-23844,A,Compositae,,Sanvitalia,,"longepedunculata",,"","M.E.Jones",Synonym,,M,TICA,D0DEFF6D-636F-4A31-BF24-2C13270D644B,227429-2,"Contr. W. Bot. 18","","78","1933",gcc-34111
+gcc-77034,A,Compositae,,Sanvitalia,,"mexicana",,"","Hort. ex Vilm.",Unresolved,,L,TICA,7B76D351-2A11-42DE-975A-65F17DF92B8F,242034-1,"Fl. Pleine Terre (ed. 3) 1238","","1238","1870",
+gcc-98076,A,Compositae,,Sanvitalia,,"ocymoides",,"","DC.",Accepted,,M,TICA,62F9EB23-CDDA-4789-BB54-954C34EB5458,242035-1,"Prodr. (DC.) 5: 628","","628","1836",
+gcc-51854,A,Compositae,,Sanvitalia,,"procumbens",,"","Lam.",Accepted,,M,TICA,7295EC67-D31F-42EE-86E4-6027EF85A856,242036-1,"","","176","1792",
+gcc-66944,A,Compositae,,Sanvitalia,,"procumbens",var.,"oblongifolia","DC.",Synonym,,L,TICA,0131AEED-0D20-476F-B3AF-D2E81242A5C8,227430-2,"","","628","1836",gcc-51854
+gcc-57513,A,Compositae,,Sanvitalia,,"procumbens",var.,"procumbens","",Synonym,,L,TICA,FEE61CF7-F303-484E-A15D-86EC759F9143,,"","","","",gcc-51854
+gcc-123274,A,Compositae,,Sanvitalia,,"tenuis",,"","S.Watson",Synonym,,M,TICA,428EB7FD-63B4-41E1-BA2C-CDEB6B6C5579,227431-2,"","","277","1888",gcc-93489
+gcc-136550,A,Compositae,,Sanvitalia,,"tragiifolia",,"","DC.",Unresolved,,L,TICA,1D866C15-AF32-4AE4-8655-EC78B55CBC4C,242038-1,"Prodr. (DC.) 5: 628","","628","1836",
+gcc-77852,A,Compositae,,Sanvitalia,,"versicolor",,"","Griseb.",Accepted,,M,TICA,CEBD848A-6A73-430E-90D8-67C865A687E6,242039-1,"in Goett. Abh. xxiv. (1879) 189.","","189","1879",
+gcc-130176,A,Compositae,,Sanvitalia,,"villosa",,"","Cav.",Synonym,,M,TICA,9E1C45E1-FC65-491A-A89F-DDF06110E08E,,"","","""31, t. 351""","1797",gcc-51854

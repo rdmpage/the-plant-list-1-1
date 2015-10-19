@@ -1,0 +1,40 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-107051,A,Compositae,,Stemmacantha,,"acaulis",,"","(L.) Dittrich",Synonym,,M,TICA,60B22FC8-9954-4BF1-8F71-A936F8F0AF25,914642-1,"","","46","1984",gcc-81996
+gcc-85644,A,Compositae,,Stemmacantha,,"aulieatensis",,"","(Iljin) Dittrich",Accepted,,M,TICA,EEB36E7F-9169-4EF1-BDD0-791FA5D69928,914643-1,"Candollea 39(1): 46 (1984):.","","46","1984",
+gcc-17444,A,Compositae,,Stemmacantha,,"australis",,"","(Gaudich.) Dittrich",Synonym,,L,TICA,8CBD1CA6-95C2-47CE-9ECF-203DA58EE203,914644-1,"","","46","1984",gcc-145124
+gcc-100904,A,Compositae,,Stemmacantha,,"carthamoides",,"","(Willd.) Dittrich",Synonym,,M,TICA,410210F5-A970-4769-9D84-9BA53CD31CBE,914645-1,"","","46","1984",gcc-147520
+gcc-111267,A,Compositae,,Stemmacantha,,"caulescens",,"","(Coss. & Balansa) Soldano",Synonym,,M,TICA,0DE4ADF0-FBF9-422C-B9A7-B2BAA23FF79D,1003047-1,"","","19","1998",gcc-89531
+gcc-102876,A,Compositae,,Stemmacantha,,"centauroides",,"","(L.) Dittrich",Synonym,,M,TICA,3FF0DF5E-6CCC-4980-87B5-A011A4E67AEC,914646-1,"","","46","1984",gcc-14010
+gcc-46217,A,Compositae,,Stemmacantha,,"chamarensis",,"","(Peschkova) Czerep.",Accepted,,M,TICA,E2B79648-F7F4-4311-AAC8-55AC1EEB4D00,984640-1,"Vasc. Pl. Russia & Adj. States (former USSR): 100 (1995):.","","100","1995",
+gcc-123765,A,Compositae,,Stemmacantha,,"cynaroides",,"","Dittrich",Synonym,,L,TICA,27C9ABA3-78CA-4EBF-B688-CF18E8BE3235,914647-1,"","","46","1984",gcc-1736
+gcc-127868,A,Compositae,,Stemmacantha,,"cynaroides",,"","Cass.",Synonym,,M,TICA,41722002-7954-4EC1-943F-D8B58C9F743B,,"","","","1827",gcc-14010
+gcc-28252,A,Compositae,,Stemmacantha,,"exaltata",,"","(Cutanda) Dittrich",Synonym,,M,TICA,25E89906-FEA8-497A-9FCA-3430FDC1C0F4,914648-1,"","","47","1984",gcc-21401
+gcc-131191,A,Compositae,,Stemmacantha,,"ficifolia",,"","Turcz. ex DC.",Unresolved,,L,TICA,6BA1DEE4-E9AF-47CD-A66C-E05374952FE8,251028-1,"Prodr. (DC.) 6: 663","","663","1838",
+gcc-101776,A,Compositae,,Stemmacantha,,"heleniifolia",,"","(Godr. & Gren.) Dittrich",Synonym,,M,TICA,E8246FAD-0DA0-4550-923C-9D80598E8430,914649-1,"","","47","1984",gcc-130884
+gcc-64618,A,Compositae,,Stemmacantha,,"heleniifolia",subsp.,"bicknellii","(Briq.) Dittrich",Synonym,,L,TICA,45C245E6-02E4-4DAE-816C-BFD11ED40F58,923899-1,"","","47","1984",gcc-52548
+gcc-155058,A,Compositae,,Stemmacantha,,"heleniifolia",subsp.,"heleniifolia","",Synonym,,L,TICA,666B4BFF-CC8C-4731-B8D0-D01F5D446E8C,,"","","","",gcc-130884
+gcc-124675,A,Compositae,,Stemmacantha,,"imatongensis",,"","(Philipson) Soldano",Unresolved,,L,TICA,71FAC68B-F45E-47CF-9B52-D13E54E312A5,1003048-1,"""in Compositae Newsl., 32: 19 (1998):.""","","19","1998",gcc-1073
+gcc-22363,A,Compositae,,Stemmacantha,,"inermis",,"","Dulac",Unresolved,,L,TICA,738407A7-4FED-4008-BC4E-295F3266013B,251029-1,"Fl. Hautes-Pyr. 521 (1867).","","521","1867",
+gcc-127225,A,Compositae,,Stemmacantha,,"insignis",,"","(Boiss.) Dittrich",Synonym,,M,TICA,DD2DEA03-AA93-41DC-8BFF-D7277056B21D,,"","","","",gcc-118458
+gcc-124533,A,Compositae,,Stemmacantha,,"integrifolia",,"","(C.Winkl.) Dittrich",Accepted,,M,TICA,20F6BD75-C175-4976-859C-D0EC4885D42A,251031-1,"""in Fl. Iran., 139b: 452 (1980).""","","452","1980",
+gcc-32457,A,Compositae,,Stemmacantha,,"karatavica",,"","(Regel & Schmalh.) Dittrich",Accepted,,M,TICA,C65EA550-900D-432B-94A9-3C2FBA739EA8,,"Candollea 39(1): 47 (1984):.","","47","",
+gcc-139619,A,Compositae,,Stemmacantha,,"longifolia",,"","(Hoffmanns. & Link) Dittrich",Synonym,,L,TICA,AADB2B50-C595-4740-B6C1-F31E1FF00DB4,914651-1,"","","47","1984",gcc-49992
+gcc-54967,A,Compositae,,Stemmacantha,,"longifolia",var.,"ericeticola","(Font Quer) Dittrich",Synonym,,L,TICA,27D59996-68C8-4DD0-A3BF-7243278F1929,,"""Candollea 39(1): 48 (1984), incorrect basionym ref.:.""","","","",gcc-72500
+gcc-149911,A,Compositae,,Stemmacantha,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,A8C0810B-A795-42F6-AA1D-62CA912F3616,,"","","","",gcc-49992
+gcc-121762,A,Compositae,,Stemmacantha,,"lyrata",,"","(Iljin) Dittrich",Accepted,,M,TICA,89464F12-081F-45E0-BE96-CA7CD3577659,914652-1,"Candollea 39(1): 48 (1984):.","","48","1984",
+gcc-138790,A,Compositae,,Stemmacantha,,"namanganica",,"","(Iljin) Dittrich",Accepted,,M,TICA,14C53D17-4682-4BEF-AAC9-F15C8810A0E5,914653-1,"Candollea 39(1): 48 (1984):.","","48","1984",
+gcc-100541,A,Compositae,,Stemmacantha,,"nana",,"","(Lipsky) Dittrich",Accepted,,M,TICA,65A4C926-BF68-428A-8904-9AD7A6EDBC4B,251032-1,"""in Fl. Iran., 139b: 452 (1980).""","","452","1980",
+gcc-152478,A,Compositae,,Stemmacantha,,"nana",subsp.,"nana","",Synonym,,L,TICA,0EE35D27-1274-4472-B4F9-9A168A6A5ECD,,"","","","",gcc-100541
+gcc-67717,A,Compositae,,Stemmacantha,,"nana",subsp.,"pellucida","(Rech.f.) Dittrich",Accepted,,L,TICA,311B8C74-C93E-4AD2-8431-D96E2FA9D03E,923901-1,"Candollea 39(1): 48 (1984):.","","48","1984",
+gcc-7787,A,Compositae,,Stemmacantha,,"nitida",,"","Dittrich",Accepted,,M,TICA,123AC3E1-68C5-48CC-A360-0E7CC41A8F4A,914654-1,"Candollea 39(1): 48 (1984):.","","48","1984",
+gcc-137349,A,Compositae,,Stemmacantha,,"orientalis",,"","(Serg.) Czerep.",Accepted,,M,TICA,1F2AF12C-BD84-47DE-A35A-EE457A50B79A,984641-1,"Vasc. Pl. Russia & Adj. States (former USSR): 101 (1995):.","","101","1995",
+gcc-114281,A,Compositae,,Stemmacantha,,"pulchra",,"","(Fisch. & C.A.Mey.) Dittrich",Synonym,,M,TICA,B6E1F63B-A982-4580-82AF-B97A5E80339C,914655-1,"","","48","1984",gcc-136888
+gcc-63845,A,Compositae,,Stemmacantha,,"pulchra",subsp.,"zardabii","(Rzazade) Dittrich",Unresolved,,L,TICA,A4596BE0-6900-4B6D-8989-B9EF4DCAF481,923902-1,"Candollea 39(1): 48 (1984):.","","48","1984",
+gcc-144993,A,Compositae,,Stemmacantha,,"rhapontica",,"","(L.) Dittrich",Synonym,,M,TICA,08A92B2D-0D3D-4005-8855-FF68BFDC3992,914656-1,"","","49","1984",gcc-66012
+gcc-13886,A,Compositae,,Stemmacantha,,"rhapontica",subsp.,"lamarckii","Dittrich",Synonym,,L,TICA,50D0DF6C-4CE7-455C-9A54-19CEDBCD3160,919217-1,"","","49","1984",gcc-106771
+gcc-145569,A,Compositae,,Stemmacantha,,"rhapontica",subsp.,"rhapontica","",Synonym,,L,TICA,66125DB6-F7D3-4E2C-A0DE-06C3E399121E,,"","","","",gcc-66012
+gcc-20655,A,Compositae,,Stemmacantha,,"satzyperovii",,"","(Soskov) Czerep.",Accepted,,M,TICA,D061AD35-F57E-42C9-AAA7-26373E1C54BB,984539-1,"Vasc. Pl. Russia & Adj. States (former USSR): 101 (1995):.","","101","1995",
+gcc-84663,A,Compositae,,Stemmacantha,,"serratuloides",,"","(Georgi) Dittrich",Synonym,,M,TICA,D0942E65-3222-402E-9B51-770330CC0ED1,914657-1,"","","49","1984",gcc-24995
+gcc-85079,A,Compositae,,Stemmacantha,,"uniflora",,"","(L.) Dittrich",Accepted,,M,TICA,3A7B98BE-00A7-4FF0-A5CD-77DF659AE296,914658-1,"Candollea 39(1): 49 (1984):.","","49","1984",
+gcc-60227,A,Compositae,,Stemmacantha,,"uniflora",subsp.,"satzyperovii","(Soskov) Dittrich",Synonym,,L,TICA,7D3FFDF9-7CFD-4554-8D9E-9CA958DD7101,923903-1,"Candollea 39(1): 49 (1984):.","","49","1984",gcc-20655
+gcc-149013,A,Compositae,,Stemmacantha,,"uniflora",subsp.,"uniflora","",Synonym,,L,TICA,339814C9-77EA-4E60-8B96-4FBCD5EBE3A6,,"","","","",gcc-85079

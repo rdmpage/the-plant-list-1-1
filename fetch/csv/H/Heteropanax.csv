@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-98793,A,Araliaceae,,Heteropanax,,"balanseanus",,"","C.B.Shang",Accepted,,H,WCSP,98793,995859-1,"Adansonia","n.s., 19: 78","","1997",
+kew-98794,A,Araliaceae,,Heteropanax,,"brevipedicellatus",,"","H.L.Li",Accepted,,H,WCSP,98794,90950-1,"Sargentia","2: 94","","1942",
+kew-98795,A,Araliaceae,,Heteropanax,,"chinensis",,"","(Dunn) H.L.Li",Accepted,,H,WCSP,98795,90951-1,"Sargentia","2: 95","","1942",
+kew-98796,A,Araliaceae,,Heteropanax,,"chinensis",var.,"chinensis","",Synonym,,L,WCSP,98796,,"Unknown","","","",kew-98795
+kew-98798,A,Araliaceae,,Heteropanax,,"fragrans",,"","(Roxb.) Seem.",Accepted,,H,WCSP,98798,90952-1,"Fl. Vit.","114","","1866",
+kew-98800,A,Araliaceae,,Heteropanax,,"fragrans",var.,"chinensis","Dunn",Synonym,,L,WCSP,98800,,"J. Linn. Soc., Bot.","38: 360","","1906",kew-98795
+kew-98801,A,Araliaceae,,Heteropanax,,"fragrans",var.,"fragrans","",Synonym,,L,WCSP,98801,,"Unknown","","","",kew-98798
+kew-98802,A,Araliaceae,,Heteropanax,,"fragrans",var.,"subcordatus","C.B.Clarke",Synonym,,L,WCSP,98802,,"Fl. Brit. India","2: 735","","1879",kew-98798
+kew-98803,A,Araliaceae,,Heteropanax,,"hainanensis",,"","C.B.Shang",Accepted,,H,WCSP,98803,995860-1,"Adansonia","n.s., 19: 80","","1997",
+kew-98804,A,Araliaceae,,Heteropanax,,"nitentifolius",,"","G.Hoo",Accepted,,H,WCSP,98804,90953-1,"Acta Phytotax. Sin., Addit.","1: 166","","1965",
+kew-98805,A,Araliaceae,,Heteropanax,,"phanrangensis",,"","C.B.Shang",Accepted,,H,WCSP,98805,995858-1,"Adansonia","n.s., 19: 78","","1997",
+kew-98806,A,Araliaceae,,Heteropanax,,"yunnanensis",,"","G.Hoo",Accepted,,H,WCSP,98806,90954-1,"Acta Phytotax. Sin., Addit.","1: 167","","1965",

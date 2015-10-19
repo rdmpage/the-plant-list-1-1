@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-42107,A,Compositae,,Roccardia,,"albicans",,"","(A.Cunn.) Voss",Unresolved,,L,TICA,2E5A645A-3E98-48F5-B397-4E0348C536DE,,"","","","",
+gcc-115860,A,Compositae,,Roccardia,,"albicans",f.,"albicans","",Synonym,,L,TICA,FF65A9FF-F1F0-439C-8513-BD25058AC722,62578-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-42107
+gcc-11365,A,Compositae,,Roccardia,,"anthemoides",,"","(DC.) Voss",Unresolved,,L,TICA,F3E84E4A-DD37-4646-A961-153FFEAC63C8,241514-1,"""Vilm. Blumengärtn., ed. 3. 1: 531, in obs.""","","531","1894",
+gcc-80910,A,Compositae,,Roccardia,,"chlorocephala",,"","(Benth.) Voss",Unresolved,,L,TICA,5A894651-03D3-40AC-B46F-6EA628A29171,241515-1,"""Vilm. Blumengärtn., ed. 3. 1: 530, in obs.""","","530","1894",
+gcc-92634,A,Compositae,,Roccardia,,"corymbiflora",,"","Voss",Unresolved,,L,TICA,B607F2BD-3BED-417C-91FC-8905CEB7A768,,"","","","",gcc-108097
+gcc-96925,A,Compositae,,Roccardia,,"cotula",,"","(DC.) Voss",Unresolved,,L,TICA,9EC78842-8CAF-4BDA-9DE4-92A776015AA4,241517-1,"""Vilm. Blumengärtn., ed. 3. 1: 535, in obs.""","","535","1894",
+gcc-42734,A,Compositae,,Roccardia,,"floribunda",,"","(DC.) Voss",Unresolved,,L,TICA,4ACABC60-DEB8-4A51-907C-4F237E8E8B51,241518-1,"""Vilm. Blumengärtn., ed. 3. 1: 531, in obs.""","","531","1894",
+gcc-105329,A,Compositae,,Roccardia,,"humboldtiana",,"","Voss",Unresolved,,L,TICA,3B03ADBE-CFFC-4D32-AECE-A55C72648F4E,,"","","","",
+gcc-22058,A,Compositae,,Roccardia,,"manglesii",,"","Voss",Synonym,,M,TICA,31F9A6D7-CD24-451F-BD9A-28CC6AD279CA,,"","","","",gcc-118232
+gcc-128774,A,Compositae,,Roccardia,,"manglesii",f.,"manglesii","",Synonym,,L,TICA,D6E1A0AD-B4A5-42F5-A6D5-DAC5FA0E7085,62607-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-118232
+gcc-64220,A,Compositae,,Roccardia,,"manglesii",subsp.,"manglesii","",Synonym,,L,TICA,6C96DF5B-2A77-4855-AE54-BCC5DE733F99,62610-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-118232
+gcc-18332,A,Compositae,,Roccardia,,"purpurea",,"","Raf.",Unresolved,,L,TICA,9F74070A-096F-4812-A22C-21DEC87B117E,241521-1,"Fl. Tellur. iv. 119 (1836).","","iv. 119","1836",
+gcc-97169,A,Compositae,,Roccardia,,"rosea",,"","(Hook.) Voss",Synonym,,M,TICA,0DBEF0CD-D290-41E5-827A-93404B405FD1,,"","","531","",gcc-72299
+gcc-29444,A,Compositae,,Roccardia,,"rosea",subsp.,"rosea","",Synonym,,L,TICA,89675F87-59A6-46AE-8980-366E27D3C32B,62633-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-72299
+gcc-89329,A,Compositae,,Roccardia,,"rosea",f.,"rosea","",Synonym,,L,TICA,81978DA1-5629-4405-8A8F-817BA88A47E7,62632-3,"Vilmorin's Blumengartneri 1  1896","","1","1896",gcc-72299
+gcc-46699,A,Compositae,,Roccardia,,"rubella",,"","(Benth.) Voss",Unresolved,,L,TICA,998CF3D3-DDB9-44FF-BCEE-568D6367959D,241523-1,"""Vilm. Blumengärtn., ed. 3. 1: 530, in obs.""","","530","1894",

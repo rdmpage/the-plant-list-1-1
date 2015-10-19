@@ -1,0 +1,43 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-23377,A,Compositae,,Blainvillea,,"acmella",,"","(L.) Philipson",Accepted,,M,TICA,BC2B829D-6B8D-45B6-A9AA-2B49C76BE38E,185404-1,"Blumea 6: 350 (1950)","","350","1950",
+gcc-1707,A,Compositae,,Blainvillea,,"alba",,"","Edgew.",Synonym,,M,TICA,90360B18-B29E-4993-9C18-0315906ED1D3,,"","","70","",gcc-23377
+gcc-140178,A,Compositae,,Blainvillea,,"amazonica",,"","Benth. & Hook.f.",Accepted,,M,TICA,01D1E2FB-276E-4A5E-BEAA-F46C6AB404F2,,"","","","1873",
+gcc-83133,A,Compositae,,Blainvillea,,"amazonica",,"","Benth. & Hook.f. ex B.D.Jacks.",Unresolved,,L,TICA,AC999FDF-D7DD-443F-947C-73A640E42411,1021532-2,"Index Kew. 2(1): 370","","370","1873",
+gcc-86027,A,Compositae,,Blainvillea,,"amazonica",,"","(P. & E.) Benth. & Hook.f. ex A.B.Jacks. & Hook.f.",Unresolved,,L,TICA,0B664771-9910-4F51-8698-7A04D176B303,,"","","","",
+gcc-15543,A,Compositae,,Blainvillea,,"bahiensis",,"","(DC.) Baker",Synonym,,M,TICA,6B3FDEE7-4D21-44BB-91C9-1CC44ACE1F93,,"","","177","1884",gcc-78033
+gcc-10922,A,Compositae,,Blainvillea,,"biaristata",,"","DC.",Synonym,,M,TICA,F06E2415-3843-4E89-95EF-146D3F6BAC2B,33343-2,"Prodr. (DC.) 5","","492","1836",gcc-33104
+gcc-146419,A,Compositae,,Blainvillea,,"biaristata",f.,"biaristata","",Synonym,,L,TICA,CDEECC8E-BF4A-4437-A8A0-1801DFEFAE18,,"","","","",gcc-33104
+gcc-83037,A,Compositae,,Blainvillea,,"biaristata",f.,"multiflora","Hassl.",Synonym,,L,TICA,566AA27D-7ABC-4D1E-ACFD-736658A22BC9,33344-2,"Repert. Spec. Nov. Regni Veg. 14","","272","1916",gcc-33104
+gcc-108479,A,Compositae,,Blainvillea,,"biaristata",f.,"parvifolia","Chodat",Synonym,,L,TICA,ED829854-4FE7-4BB3-B407-AC60F8FDDB9A,,"","","720","1903",gcc-33104
+gcc-74130,A,Compositae,,Blainvillea,,"biaristata",f.,"scaberula","Hassl.",Synonym,,L,TICA,54FFC105-E461-43F1-A41B-352F487A011F,33346-2,"Repert. Spec. Nov. Regni Veg. 14","","271","1916",gcc-33104
+gcc-78033,A,Compositae,,Blainvillea,,"brasiliensis",,"","(Nees & Mart.) S.F.Blake",Accepted,,M,TICA,4B594E3E-3450-4F20-ACA9-682FF9FAC010,33347-2,"Proc. Biol. Soc. Wash. 38","","85","1925",
+gcc-16276,A,Compositae,,Blainvillea,,"dallo-vedovae",,"","Terrac.",Unresolved,,L,TICA,CFF88F00-874D-413A-9BEB-1E1B14C132CA,185410-1,"","","107","1894",gcc-116952
+gcc-127072,A,Compositae,,Blainvillea,,"dichotoma",,"","(Murray) Stewart",Synonym,,M,TICA,03A32450-43A3-4BCC-9139-D6C66B797625,,"","","149","1911",gcc-116952
+gcc-135706,A,Compositae,,Blainvillea,,"dichotoma",,"","Cass.",Accepted,,M,TICA,40FFE461-1368-42F5-8E9F-EA8EC4FA8E80,,"","","","",
+gcc-34044,A,Compositae,,Blainvillea,,"dichotoma",,"","Luetzelb.",Unresolved,,L,TICA,37412532-ECA2-42FB-8479-3F21E2EFCACD,185411-1,"""Estud. Bot. Nordeste, i. (Publ. Insp. Fed. Obras Contr. Secc., Rio de Janeiro,No. 57, Ser. I.A.) 41 (1922-3), nomen.""","","""i. (Publ. Insp. Fed. Obras Contr. Secc., Rio de Janeiro,No. 57, Ser. I.A.)","",
+gcc-123601,A,Compositae,,Blainvillea,,"dubia",,"","Specht",Accepted,,M,TICA,9A63D6DE-D93C-41CD-950F-CEB7F92B3439,185412-1,"","","314","1958",
+gcc-109412,A,Compositae,,Blainvillea,,"gayana",,"","A.Chev.",Unresolved,Illegitimate,L,TICA,978A399D-5423-4FCA-947A-AE97F4F577B9,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","369","1920",
+gcc-139095,A,Compositae,,Blainvillea,,"gayana",,"","Benth.",Unresolved,,L,TICA,35865F6F-6D0B-408C-8AAA-F1F815D3EB1C,185414-1,"""in Hook. Niger Fl. 434, in syn.""","","""434, in syn.""","",
+gcc-37816,A,Compositae,,Blainvillea,,"gayana",,"","Cass.",Accepted,,M,TICA,EC5437DB-0406-4091-89D3-462169008D87,,"Dict. Sc. Nat. 47: 90 (1827)","","","1827",
+gcc-151130,A,Compositae,,Blainvillea,,"gayana",var.,"gayana","",Synonym,,L,TICA,15F3D815-8BAA-4904-9CE8-7E68F991251F,,"","","","",gcc-37816
+gcc-58685,A,Compositae,,Blainvillea,,"gayana",var.,"lanceolata","Chiov.",Synonym,,L,TICA,2B9B732C-C791-441B-8487-908F32610307,,"Annuario Reale Ist. Bot. Roma 8: 182 (1904)","","182","1904",gcc-23377
+gcc-13923,A,Compositae,,Blainvillea,,"hispida",,"","Edgew.",Synonym,,M,TICA,A70E2970-5A99-4FD9-825C-19DB7827010D,,"","","70","",gcc-23377
+gcc-23917,A,Compositae,,Blainvillea,,"lanceolata",,"","Baker",Accepted,,M,TICA,3161F6A9-EFEE-4F18-A29C-2C3407F80C42,,"","","176","1884",
+gcc-42103,A,Compositae,,Blainvillea,,"latifolia",,"","(L.f.) DC.",Synonym,,M,TICA,24085D04-FF59-42ED-AA27-4DFE4F030476,52208-3,"Contributions to the Botany of India","","17","1834",gcc-32071
+gcc-30388,A,Compositae,,Blainvillea,,"latifolia",var.,"angustifolia","DC.",Synonym,,L,TICA,201431A2-7EA9-4AD9-B4F7-38386E1103F8,,"Prodr. 5: 492 (1836)","","492","1836",gcc-23377
+gcc-145676,A,Compositae,,Blainvillea,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,DC604C3C-E687-4BB3-9B05-089898B2D068,,"","","","",gcc-32071
+gcc-14565,A,Compositae,,Blainvillea,,"polycephala",,"","Gardner",Synonym,,M,TICA,529FD9C7-51FB-4B43-9771-1B041EC877BA,185419-1,"London J. Bot. 7","","89","1848",gcc-23377
+gcc-132409,A,Compositae,,Blainvillea,,"prieureana",,"","Benth.",Unresolved,,L,TICA,307C0EC5-6296-4D2D-B905-E3331348A691,185420-1,"""in Hook. Niger Fl. 433, in syn.""","","""433, in syn.""","",
+gcc-46414,A,Compositae,,Blainvillea,,"prieuriana",,"","DC.",Synonym,,M,TICA,6D89DCCA-65DC-4909-8ECB-560580E29B32,185421-1,"","","492","1836",gcc-55141
+gcc-8920,A,Compositae,,Blainvillea,,"prieuriana",,"","Hutch. & Dalziel",Unresolved,,L,TICA,7C38F467-7E3E-4DB9-99D6-10B0A8524F3D,,"953+ed. 1+ 2:","","144","1931",
+gcc-105617,A,Compositae,,Blainvillea,,"racemosa",,"","Gardner",Unresolved,,L,TICA,AE0C3DFA-EB0E-4333-8191-A5F811B0BC76,185422-1,"London J. Bot. 7","","89","1848",
+gcc-116952,A,Compositae,,Blainvillea,,"rhomboidea",,"","Cass.",Accepted,,M,TICA,04ABBAEF-48CE-477F-BECB-BF948D47907E,185423-1,"","","493","1823",
+gcc-67803,A,Compositae,,Blainvillea,,"rhomboidea",var.,"lanceolata","(Poir.) DC.",Synonym,,L,TICA,A67DDB48-87B9-4C18-8D54-DA2A0E86BD70,33350-2,"","","492","1836",gcc-23377
+gcc-6842,A,Compositae,,Blainvillea,,"rhomboidea",var.,"polycephala","(Gardner) Baker",Synonym,,L,TICA,D20CFBB7-0E10-48F4-BD61-0CB93BFD7A72,33351-2,"","","176","1884",gcc-23377
+gcc-65516,A,Compositae,,Blainvillea,,"rhomboidea",var.,"racemosa","(Gardner) Baker",Synonym,,L,TICA,05BFCFE3-C751-49DA-A6A4-C75672CB0599,33352-2,"","","176","1884",gcc-23377
+gcc-155116,A,Compositae,,Blainvillea,,"rhomboidea",var.,"rhomboidea","",Synonym,,L,TICA,B1112150-DCBD-4944-805D-D14EAF89D57B,,"","","","",gcc-116952
+gcc-112158,A,Compositae,,Blainvillea,,"synedrelloides",,"","Benth. & Hook.f.",Unresolved,,L,TICA,BEADE736-AC16-47DA-A4A1-B4C7F9981091,,"","","","1873",
+gcc-109610,A,Compositae,,Blainvillea,,"tampicana",,"","(DC.) Benth. & Hook.f. ex Hemsl.",Accepted,,M,TICA,A03305B1-9118-47B3-A495-AF0B8F617F2D,,"""Biol. Cent.-Amer., Bot. 2: 169 (1881)""","","169","1881",
+gcc-35185,A,Compositae,,Blainvillea,,"tampicana",,"","(DC.) Benth. & Hook.f.",Synonym,,M,TICA,254CCBFD-46CE-4231-9106-413F47E01156,,"","","","1873",gcc-88163
+gcc-36556,A,Compositae,,Blainvillea,,"tenuicaulis",,"","Benth. & Hook.f.",Accepted,,M,TICA,EAA17C98-A9E2-47E2-BE31-43C77CF0549A,,"","","","1873",
+gcc-6273,A,Compositae,,Blainvillea,,"tenuicaulis",,"","(Hook.f.) Benth. & Hook.f. ex B.D.Jacks.",Unresolved,,L,TICA,B5B6F835-11C9-4410-A2A6-0BAE5686C47F,1204665-2,"Index Kew. 1: 310","","310","1893",

@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-293461,A,Amaryllidaceae,,Acis,,"autumnalis",,"","(L.) Sweet",Accepted,,H,WCSP,293461,77084799-1,"Brit. Fl. Gard.","3: t. 297","","1829",
+kew-309229,A,Amaryllidaceae,,Acis,,"autumnalis",var.,"oporantha","(Jord. & Fourr.) Lledó, A.P.Davis & M.B.Crespo",Synonym,,L,WCSP,309229,60436217-2,"Pl. Syst. Evol.","246: 240","","2004",kew-293461
+kew-309230,A,Amaryllidaceae,,Acis,,"autumnalis",var.,"pulchella","(Jord. & Fourr.) Lledó, A.P.Davis & M.B.Crespo",Synonym,,L,WCSP,309230,60436218-2,"Pl. Syst. Evol.","246: 240","","2004",kew-293461
+kew-293462,A,Amaryllidaceae,,Acis,,"broteroi",,"","Jord. & Fourr.",Synonym,,H,WCSP,293462,61784-1,"Icon. Fl. Eur.","1: 25","","1867",kew-309235
+kew-309231,A,Amaryllidaceae,,Acis,,"fabrei",,"","(Quézel & Girerd) Lledó, A.P.Davis & M.B.Crespo",Accepted,,H,WCSP,309231,60436223-2,"Pl. Syst. Evol.","246: 241","","2004",
+kew-309232,A,Amaryllidaceae,,Acis,,"grandiflora",,"","(DC.) G.Don",Synonym,,H,WCSP,309232,77062620-1,"Hort. Brit.","475","","1830",kew-309235
+kew-293463,A,Amaryllidaceae,,Acis,,"hiemalis",,"","M.Roem.",Synonym,,H,WCSP,293463,61787-1,"Fam. Nat. Syn. Monogr.","4: 24","","1847",kew-309233
+kew-345661,A,Amaryllidaceae,,Acis,,"ionica",,"","Bareka, Kamari & Phitos",Accepted,,H,WCSP,345661,,"Willdenowia","36: 360","","2006",
+kew-293464,A,Amaryllidaceae,,Acis,,"longifolia",,"","J.Gay ex M.Roem.",Accepted,,H,WCSP,293464,61789-1,"Fam. Nat. Syn. Monogr.","4: 25","","1847",
+kew-309233,A,Amaryllidaceae,,Acis,,"nicaeensis",,"","(Ardoino) Lledó, A.P.Davis & M.B.Crespo",Accepted,,H,WCSP,309233,60436224-2,"Pl. Syst. Evol.","246: 241","","2004",
+kew-293465,A,Amaryllidaceae,,Acis,,"oporantha",,"","Jord. & Fourr.",Synonym,,H,WCSP,293465,61790-1,"Brev. Pl. Nov.","1: 51","","1866",kew-293461
+kew-293466,A,Amaryllidaceae,,Acis,,"pulchella",,"","Jord. & Fourr.",Synonym,,H,WCSP,293466,61791-1,"Brev. Pl. Nov.","1: 51","","1866",kew-293461
+kew-293467,A,Amaryllidaceae,,Acis,,"rosea",,"","(F.Martin bis) Sweet",Accepted,,H,WCSP,293467,61792-1,"Brit. Fl. Gard.","3: t. 297","","1829",
+tro-100141215,A,Amaryllidaceae,,Acis,,"rosea",,"","(F.Martin bis) Sweet ex Loudon",Synonym,,M,TRO,100141215,,"Suppl. Hort. Brit.","482","482","1850",kew-293467
+kew-309234,A,Amaryllidaceae,,Acis,,"tingitana",,"","(Baker) Lledó, A.P.Davis & M.B.Crespo",Accepted,,H,WCSP,309234,60436219-2,"Pl. Syst. Evol.","246: 241","","2004",
+kew-293468,A,Amaryllidaceae,,Acis,,"trichophylla",,"","(Schousb.) Herb.",Synonym,Illegitimate,H,WCSP,293468,,"Amaryllidaceae","331","","1837",kew-309235
+kew-309235,A,Amaryllidaceae,,Acis,,"trichophylla",,"","G.Don",Accepted,,H,WCSP,309235,77062615-1,"Hort. Brit.","475","","1830",
+kew-309236,A,Amaryllidaceae,,Acis,,"trichophylla",var.,"broteroi","(Jord. & Fourr.) Lledó, A.P.Davis & M.B.Crespo",Synonym,,L,WCSP,309236,60436220-2,"Pl. Syst. Evol.","246: 241","","2004",kew-309235
+kew-309237,A,Amaryllidaceae,,Acis,,"trichophylla",var.,"micrantha","(Gattef. & Maire) Lledó, A.P.Davis & M.B.Crespo",Synonym,,L,WCSP,309237,60436222-2,"Pl. Syst. Evol.","246: 241","","2004",kew-309235
+kew-309238,A,Amaryllidaceae,,Acis,,"valentina",,"","(Pau) Lledó, A.P.Davis & M.B.Crespo",Accepted,,H,WCSP,309238,60436225-2,"Pl. Syst. Evol.","246: 241","","2004",

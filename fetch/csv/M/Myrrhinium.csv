@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-132078,A,Myrtaceae,,Myrrhinium,,"atropurpureum",,"","Schott",Accepted,,H,WCSP,132078,599403-1,"Syst. Veg.","4(2): 404","","1827",
+kew-132079,A,Myrtaceae,,Myrrhinium,,"atropurpureum",var.,"atropurpureum","",Synonym,,L,WCSP,132079,,"Unknown","","","",kew-132078
+kew-132080,A,Myrtaceae,,Myrrhinium,,"atropurpureum",var.,"octandrum","Benth.",Accepted,,L,WCSP,132080,,"Pl. Hartw.","131","","1844",
+kew-132081,A,Myrtaceae,,Myrrhinium,,"lanceolatum",,"","Burret",Synonym,,H,WCSP,132081,166539-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 508","","1941",kew-132080
+kew-132082,A,Myrtaceae,,Myrrhinium,,"loranthoides",,"","(Hook. & Arn.) Burret",Synonym,,H,WCSP,132082,166540-2,"Notizbl. Bot. Gart. Berlin-Dahlem","15: 508","","1941",kew-132080
+kew-132083,A,Myrtaceae,,Myrrhinium,,"octandrum",,"","(Benth.) Mattos",Synonym,,H,WCSP,132083,912864-1,"Loefgrenia","78: 2","","1983",kew-132080
+kew-132084,A,Myrtaceae,,Myrrhinium,,"peruvianum",,"","O.Berg",Synonym,,H,WCSP,132084,,"Linnaea","26: 438","","1855",kew-132080
+kew-132085,A,Myrtaceae,,Myrrhinium,,"rubriflorum",,"","O.Berg",Synonym,Illegitimate,H,WCSP,132085,599407-1,"Fl. Bras.","14(1): 466","","1857",kew-132080
+kew-132086,A,Myrtaceae,,Myrrhinium,,"salicinum",,"","Gand.",Synonym,,H,WCSP,132086,166541-2,"Bull. Soc. Bot. France","65: 26","","1918",kew-132080
+kew-132087,A,Myrtaceae,,Myrrhinium,,"sarcopetalum",,"","Lem.",Synonym,,H,WCSP,132087,599409-1,"Rev. Hort.","IV, 7: 444","","1858",kew-132080

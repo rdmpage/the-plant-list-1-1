@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-288429,A,Asparagaceae,,Semele,,"androgyna",,"","(L.) Kunth",Accepted,,H,WCSP,288429,541142-1,"Enum. Pl.","5: 277","","1850",
+kew-309123,A,Asparagaceae,,Semele,,"androgyna",subsp.,"androgyna","",Synonym,,L,WCSP,309123,,"Unknown","","","",kew-288429
+kew-464633,A,Asparagaceae,,Semele,,"androgyna",var.,"conferta","J.G.Costa",Synonym,,L,WCSP,464633,,"Brotéria, Ci. Nat.","19: 63","","1950",kew-288429
+kew-309122,A,Asparagaceae,,Semele,,"androgyna",var.,"gayae","(Webb & Berthel.) Burchard",Synonym,,L,WCSP,309122,,"Biblioth. Bot.","24: 229","","1929",kew-288430
+kew-464632,A,Asparagaceae,,Semele,,"androgyna",var.,"laxa","J.G.Costa",Synonym,,L,WCSP,464632,,"Brotéria, Ci. Nat.","19: 63","","1950",kew-288429
+kew-464631,A,Asparagaceae,,Semele,,"androgyna",var.,"macrophylla","Menezes",Synonym,,L,WCSP,464631,,"Brotéria, Sér. Bot.","20: 100","","1922",kew-288429
+kew-464634,A,Asparagaceae,,Semele,,"androgyna",subsp.,"pterygophora","(J.G.Costa) M.Â.Carvalho",Accepted,,L,WCSP,464634,,"Proc. Island Ecosys. Con. Mol. Appr.","1: 218","","2001",
+kew-288430,A,Asparagaceae,,Semele,,"gayae",,"","(Webb & Berthel.) Svent. & Kunkel",Accepted,,H,WCSP,288430,,"Cuad. Bot. Canaria","14-15: 81","","1972",
+kew-288405,A,Asparagaceae,,Semele,,"maderensis",,"","J.G.Costa",Synonym,,H,WCSP,288405,541144-1,"Brotéria, Ci. Nat.","19: 70","","1950",kew-288423
+kew-464644,A,Asparagaceae,,Semele,,"maderensis",subsp.,"portumonizensis","J.G.Costa",Synonym,,L,WCSP,464644,,"Brotéria, Ci. Nat.","19: 72","","1950",kew-288423
+kew-288423,A,Asparagaceae,,Semele,,"menezesii",,"","J.G.Costa",Accepted,,H,WCSP,288423,,"Brotéria, Sér. Bot.","23: 124","","1927",
+kew-464639,A,Asparagaceae,,Semele,,"menezesii",var.,"carinata","J.G.Costa",Synonym,,L,WCSP,464639,,"Brotéria, Ci. Nat.","19: 69","","1950",kew-288423
+kew-464640,A,Asparagaceae,,Semele,,"menezesii",var.,"grabhamii","J.G.Costa",Synonym,,L,WCSP,464640,,"Brotéria, Ci. Nat.","19: 69","","1950",kew-288423
+kew-464642,A,Asparagaceae,,Semele,,"menezesii",f.,"juvenilis","J.G.Costa",Synonym,,L,WCSP,464642,,"Brotéria, Ci. Nat.","19: 69","","1950",kew-288423
+kew-288421,A,Asparagaceae,,Semele,,"pterygophora",,"","J.G.Costa",Synonym,,H,WCSP,288421,541146-1,"Brotéria, Ci. Nat.","19: 64","","1950",kew-464634
+kew-464638,A,Asparagaceae,,Semele,,"pterygophora",var.,"barretiana","J.G.Costa",Synonym,,L,WCSP,464638,,"Brotéria, Ci. Nat.","19: 66","","1950",kew-464634
+kew-464636,A,Asparagaceae,,Semele,,"pterygophora",var.,"congeminata","J.G.Costa",Synonym,,L,WCSP,464636,,"Brotéria, Ci. Nat.","19: 66","","1950",kew-464634
+kew-464635,A,Asparagaceae,,Semele,,"pterygophora",var.,"dolichoclados","J.G.Costa",Synonym,,L,WCSP,464635,,"Brotéria, Ci. Nat.","19: 66","","1950",kew-464634
+kew-464637,A,Asparagaceae,,Semele,,"pterygophora",var.,"elegantissima","J.G.Costa",Synonym,,L,WCSP,464637,,"Brotéria, Ci. Nat.","19: 66","","1950",kew-464634
+kew-288396,A,Asparagaceae,,Semele,,"tristonis",,"","J.G.Costa",Synonym,,H,WCSP,288396,541147-1,"Brotéria, Ci. Nat.","19: 57","","1950",kew-288429

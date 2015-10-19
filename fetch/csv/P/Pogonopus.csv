@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-162065,A,Rubiaceae,,Pogonopus,,"caracasensis",,"","(Wedd.) G.Nicholson",Synonym,,H,WCSP,162065,204799-2,"Ill. Dict. Gard.","3: 175","","1886",kew-162070
+kew-162066,A,Rubiaceae,,Pogonopus,,"erythroxylon",,"","(Standl.) J.H.Kirkbr.",Synonym,,H,WCSP,162066,942335-1,"Acta Amazon.","15: 54","","1985 publ. 1986",kew-192307
+kew-162067,A,Rubiaceae,,Pogonopus,,"exsertus",,"","(Oerst.) Oerst.",Accepted,,H,WCSP,162067,204800-2,"Amér. Centr.","17","","1863",
+kew-162068,A,Rubiaceae,,Pogonopus,,"febrifugus",,"","(Wedd.) Hook.f.",Synonym,,H,WCSP,162068,,"Gen. Pl.","2: 47","","1873",kew-162075
+kew-337473,A,Rubiaceae,,Pogonopus,,"febrifugus",var.,"macrosema","Hutch.",Synonym,,L,WCSP,337473,204801-2,"Bull. Misc. Inform. Kew","1910: 200","","1910",kew-162075
+tro-27901833,A,Rubiaceae,,Pogonopus,,"moritzii",,"","Klotzsch",Unresolved,,L,TRO,27901833,,"","","","",
+kew-162069,A,Rubiaceae,,Pogonopus,,"ottonis",,"","Klotzsch",Synonym,,H,WCSP,162069,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin","1853: 501","","1853",kew-162070
+kew-162070,A,Rubiaceae,,Pogonopus,,"speciosus",,"","(Jacq.) K.Schum.",Accepted,,H,WCSP,162070,204802-2,"Nat. Pflanzenfam.","4(4): 21","","1891",
+kew-162071,A,Rubiaceae,,Pogonopus,,"speciosus",subsp.,"exsertus","(Oerst.) Steyerm.",Synonym,,L,WCSP,162071,204803-2,"Acta Bot. Venez.","6: 109","","1971 publ. 1972",kew-162067
+kew-162072,A,Rubiaceae,,Pogonopus,,"speciosus",var.,"sandwithianus","(Steyerm.) Steyerm.",Synonym,,L,WCSP,162072,,"in Fl. Venezuela","9(1): 240","","1974",kew-162070
+kew-162073,A,Rubiaceae,,Pogonopus,,"speciosus",subsp.,"sandwithianus","Steyerm.",Synonym,,L,WCSP,162073,204804-2,"Acta Bot. Venez.","6: 110","","1971 publ. 1972",kew-162070
+tro-50150106,A,Rubiaceae,,Pogonopus,,"speciosus",var.,"speciosus","",Synonym,,L,TRO,50150106,,"","","","",kew-162070
+tro-50150145,A,Rubiaceae,,Pogonopus,,"speciosus",subsp.,"speciosus","",Synonym,,L,TRO,50150145,,"","","","",kew-162070
+kew-162075,A,Rubiaceae,,Pogonopus,,"tubulosus",,"","(A.Rich. ex DC.) K.Schum.",Accepted,,H,WCSP,162075,204805-2,"Fl. Bras.","6(6): 266","","1889",

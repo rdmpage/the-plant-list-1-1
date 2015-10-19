@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87179,A,Compositae,,Spadonia,,"cinerea",,"","Hook. & Arn.",Synonym,,M,TICA,B80FFC10-0C99-4D65-AD65-7CAFB8078CDB,241020-2,"","","109","1835",gcc-102712
+gcc-144009,A,Compositae,,Spadonia,,"paniculata",,"","Less.",Synonym,,M,TICA,B38435F5-9F6B-4CAB-BBAC-FD29E152EBB8,241021-2,"Syn. Gen. Compos. 100. 1832","","100","1832",gcc-46057
+gcc-80952,A,Compositae,,Spadonia,,"polymorpha",,"","Less.",Accepted,,M,TICA,BA8353C8-298B-454C-AF5C-6EBDD3E71B9B,241022-2,"Syn. Gen. Compos.","","101","1832",
+gcc-8321,A,Compositae,,Spadonia,,"polymorpha",var.,"ceanothifolia","Less.",Synonym,,L,TICA,F50BEC25-FB7B-4A27-ACDE-0F7D2790DC18,241023-2,"Syn. Gen. Compos. 102. 1832","","102","1832",gcc-130284
+gcc-5013,A,Compositae,,Spadonia,,"polymorpha",var.,"elaeagnifolia","Less.",Synonym,,L,TICA,3B78FAA3-3ADD-49E5-87A3-09597BC1F1C8,241024-2,"Syn. Gen. Compos.","","102","1832",gcc-130284
+gcc-59727,A,Compositae,,Spadonia,,"polymorpha",var.,"obtusifolia","Less.",Synonym,,L,TICA,8D42C7F0-FEFD-4887-80C5-98D00296D3A7,241025-2,"Syn. Gen. Compos. 102. 1832","","102","1832",gcc-130284
+gcc-146696,A,Compositae,,Spadonia,,"polymorpha",var.,"polymorpha","",Synonym,,L,TICA,ED502D5C-A6AD-41FB-AEFD-1E0845066BD4,,"","","","",gcc-80952
+gcc-39227,A,Compositae,,Spadonia,,"polymorpha",var.,"populifolia","Less.",Synonym,,L,TICA,87261E7A-101B-4ED9-A128-48C7B889A48F,241026-2,"Syn. Gen. Compos. 102. 1832","","102","1832",gcc-130284
+gcc-57930,A,Compositae,,Spadonia,,"polymorpha",var.,"sordida","Less.",Synonym,,L,TICA,C1024F11-9305-4FE4-9F4B-8A6CECFFF47A,241027-2,"Syn. Gen. Compos. 102. 1832","","102","1832",gcc-119111
+gcc-83209,A,Compositae,,Spadonia,,"racemosa",,"","Less.",Unresolved,,L,TICA,1CFEBC0E-ABFC-4ACD-9DC4-73CF893B00DE,250448-1,"Syn. Gen. Compos. 100","","100","",

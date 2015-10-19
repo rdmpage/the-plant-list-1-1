@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-447056,A,Poaceae,,Trichoneura,,"arenaria",,"","(Steud.) Ekman",Synonym,,H,WCSP,447056,424641-1,"Ark. Bot.","11(9): 11","","1912",kew-447066
+kew-447057,A,Poaceae,,Trichoneura,,"ciliata",,"","(Peter) S.M.Phillips",Accepted,,H,WCSP,447057,,"Kew Bull.","29: 270","","1974",
+kew-447058,A,Poaceae,,Trichoneura,,"elegans",,"","Swallen",Accepted,,H,WCSP,447058,257468-2,"Amer. J. Bot.","19: 439","","1932",
+kew-447059,A,Poaceae,,Trichoneura,,"eleusinoides",,"","(Rendle) Ekman",Accepted,,H,WCSP,447059,424644-1,"Ark. Bot.","11(9): 13","","1912",
+kew-447060,A,Poaceae,,Trichoneura,,"grandiglumis",,"","(Nees) Ekman",Accepted,,H,WCSP,447060,424645-1,"Ark. Bot.","11(9): 15","","1912",
+tro-25515317,A,Poaceae,,Trichoneura,,"grandiglumis",var.,"grandiglumis","",Synonym,,L,TRO,25515317,,"","","","",kew-447060
+kew-447061,A,Poaceae,,Trichoneura,,"grandiglumis",var.,"minor","(Rendle) Chippind.",Synonym,,L,WCSP,447061,,"Grass. Past. S. Africa","128","","1955",kew-447060
+kew-447062,A,Poaceae,,Trichoneura,,"hirtella",,"","Napper",Synonym,,H,WCSP,447062,424646-1,"Kirkia","3: 116","","1963",kew-447057
+kew-447063,A,Poaceae,,Trichoneura,,"hookeri",,"","Andersson",Synonym,Illegitimate,H,WCSP,447063,424647-1,"Kongl. Vetensk. Acad. Handl.","1853: 149","","1855",kew-447064
+kew-447064,A,Poaceae,,Trichoneura,,"lindleyana",,"","(Kunth) Ekman",Accepted,,H,WCSP,447064,257469-2,"Ark. Bot.","11(9): 9","","1912",
+kew-447065,A,Poaceae,,Trichoneura,,"lindleyana",var.,"albemarlensis","(B.L.Rob. & Greenm.) Reeder & C.Reeder",Synonym,,L,WCSP,447065,257470-2,"Madroño","20: 253","","1970",kew-447064
+tro-25526728,A,Poaceae,,Trichoneura,,"lindleyana",var.,"lindleyana","",Synonym,,L,TRO,25526728,,"","","","",kew-447064
+kew-447066,A,Poaceae,,Trichoneura,,"mollis",,"","(Kunth) Ekman",Accepted,,H,WCSP,447066,424649-1,"Ark. Bot.","11(9): 10","","1912",
+kew-447067,A,Poaceae,,Trichoneura,,"schlechteri",,"","Ekman",Accepted,,H,WCSP,447067,424650-1,"Ark. Bot.","11(9): 13","","1912",
+kew-447068,A,Poaceae,,Trichoneura,,"weberbaueri",,"","Pilg.",Accepted,,H,WCSP,447068,257471-2,"Bot. Jahrb. Syst.","50(111): 1","","1913",

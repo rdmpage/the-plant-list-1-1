@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-6983,A,Leguminosae,,Angylocalyx,,"boutiqueanus",,"","L.Touss.",Accepted,,H,ILDIS,6983,,"","","","",
+ild-6985,A,Leguminosae,,Angylocalyx,,"braunii",,"","Harms",Accepted,,H,ILDIS,6985,,"","","","",
+ild-6987,A,Leguminosae,,Angylocalyx,,"claessensii",,"","De Wild.",Synonym,,H,ILDIS,6987,,"","","","",ild-6986
+ild-6991,A,Leguminosae,,Angylocalyx,,"gossweileri",,"","Baker f.",Synonym,,H,ILDIS,6991,,"","","","",ild-6990
+ild-6986,A,Leguminosae,,Angylocalyx,,"oligophyllus",,"","(Baker) Baker f.",Accepted,,H,ILDIS,6986,,"","","","",
+ild-6990,A,Leguminosae,,Angylocalyx,,"pynaertii",,"","De Wild.",Accepted,,H,ILDIS,6990,,"","","","",
+ild-6984,A,Leguminosae,,Angylocalyx,,"ramiflorus",,"","sensu auct.",Misapplied,,H,ILDIS,6984,,"","","","",ild-6983
+ild-6988,A,Leguminosae,,Angylocalyx,,"ramiflorus",,"","Taub.",Synonym,,H,ILDIS,6988,,"","","","",ild-6986
+ild-6994,A,Leguminosae,,Angylocalyx,,"schumannianus",,"","Taub.",Accepted,,H,ILDIS,6994,,"","","","",
+ild-6996,A,Leguminosae,,Angylocalyx,,"talbotii",,"","Hutch. & Dalziel",Accepted,,L,ILDIS,6996,,"","","","",
+kew-2639644,A,Leguminosae,,Angylocalyx,,"trifoliolatus",,"","Baker f.",Unresolved,,L,WCSP (in review),,474105-1,"Cat. Pl. Oban","27","","1913",
+ild-6995,A,Leguminosae,,Angylocalyx,,"vermeulenii",,"","De Wild.",Synonym,,H,ILDIS,6995,,"","","","",ild-6994
+ild-6989,A,Leguminosae,,Angylocalyx,,"wellensii",,"","De Wild.",Synonym,,H,ILDIS,6989,,"","","","",ild-6986
+ild-6992,A,Leguminosae,,Angylocalyx,,"zenkeri",,"","Harms",Synonym,,H,ILDIS,6992,,"","","","",ild-6990
+ild-6993,A,Leguminosae,,Angylocalyx,,"zenkeri",var.,"gossweileri","(Baker f.) Pellegr.",Synonym,,L,ILDIS,6993,,"","","","",ild-6990
+ild-32879,A,Leguminosae,,Angylocalyx,,"zeucheri",,"","Harms",Synonym,Spelling variant,H,ILDIS,32879,,"","","","",ild-6990

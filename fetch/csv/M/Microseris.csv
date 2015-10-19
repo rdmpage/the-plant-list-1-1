@@ -1,0 +1,113 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-26707,A,Compositae,,Microseris,,"acuminata",,"","Greene",Accepted,,M,TICA,53B311EE-6F6F-4E0A-9B95-3158CCA08E2C,232605-1,"Bull. Torrey Bot. Club x. (1883) 88.","","88","1883",
+gcc-77246,A,Compositae,,Microseris,,"aliciae",,"","Greene",Accepted,,M,TICA,DF5E6F3E-9570-4E21-871A-66741CBA47BA,160459-2,"","","8","1902",
+gcc-15296,A,Compositae,,Microseris,,"alpestris",,"","(A.Gray) Q.Jones ex Cronquist",Synonym,,M,TICA,D52DA5DA-AEB4-4DBD-9E5D-1C50681D9936,160460-2,"","","267","1955",gcc-20624
+gcc-29955,A,Compositae,,Microseris,,"alpestris",,"","(A.Gray) Q.Jones",Unresolved,,L,TICA,9D914390-81A7-4480-9F4D-376480C415BA,232607-1,"""Univ. Wash. Publ. Biol. xvii. (Vasc. Pl. Pacif. Northw., Pt. 5) 267 (1955)""","","267","1955",
+gcc-109570,A,Compositae,,Microseris,,"anomala",,"","S.Watson",Accepted,,M,TICA,3CD4D815-5CC4-41DF-B1D2-AEF465A42C6C,160461-2,"","","475","1887",
+gcc-43521,A,Compositae,,Microseris,,"aphantocarpha",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,78384A3D-08EA-478D-96C4-50AFF8032B9C,232609-1,"","","308","1866",gcc-27338
+gcc-70305,A,Compositae,,Microseris,,"aphantocarpha",var.,"aphantocarpha","",Synonym,,L,TICA,6A2A5ABD-97DE-4613-80A2-ED0C3790E94C,,"","","","",gcc-27338
+gcc-62395,A,Compositae,,Microseris,,"aphantocarpha",var.,"elegans","(Greene ex A.Gray) Jeps.",Synonym,,L,TICA,A249F68D-AC0C-49F3-A676-AE79640112E3,,"","","991","1925",gcc-130086
+gcc-152441,A,Compositae,,Microseris,,"atrata",,"","Greene",Accepted,,M,TICA,E6AD0DEE-A55E-4F18-A969-9988437184C9,160466-2,"Greene in Pittonia 5. 1902","","14","1902",
+gcc-99153,A,Compositae,,Microseris,,"attenuata",,"","Greene",Synonym,,M,TICA,2010D773-38A5-47F1-A233-97B8B3FE9848,232611-1,"","","111","1882",gcc-110504
+gcc-148062,A,Compositae,,Microseris,,"attenuata",var.,"attenuata","",Synonym,,L,TICA,FB778F4A-B2A2-4FA1-B7DF-3AD04F1836A3,,"","","","",gcc-110504
+gcc-102930,A,Compositae,,Microseris,,"bigelovii",,"","Greene",Unresolved,,L,TICA,1C4668E2-D997-431C-938E-A036A79F7D9E,160468-2,"","","","",
+gcc-34298,A,Compositae,,Microseris,,"bigelovii",,"","(A.Gray) Sch.Bip.",Accepted,,M,TICA,A4A565EF-380C-48F9-A0A5-3F9212D2263F,232612-1,"","","308","1866",
+gcc-11230,A,Compositae,,Microseris,,"bolanderi",,"","(A.Gray) A.Gray",Synonym,,M,TICA,8AABA0BC-8478-42EF-AB63-14FED2313EF4,232613-1,"","","64","1883",gcc-60424
+gcc-128262,A,Compositae,,Microseris,,"borealis",,"","(Bong.) Sch.Bip.",Accepted,,M,TICA,B7E9CE51-5750-452D-800B-D99BD80137CA,232614-1,"in Pollichia xxii-xxiv. (1866) 310.","","310","1866",
+gcc-42888,A,Compositae,,Microseris,,"brevipes",,"","Phil.",Synonym,,M,TICA,8BAB9D28-D97A-4572-8F0F-4F734F8B5E1B,160470-2,"","","311","1894",gcc-102420
+gcc-49523,A,Compositae,,Microseris,,"breviseta",,"","Greene",Accepted,,M,TICA,BADEEFE5-8FA9-4606-AF9C-5BC89863FE08,160471-2,"","","8","1902",
+gcc-17017,A,Compositae,,Microseris,,"callicarpha",,"","Greene",Accepted,,M,TICA,91BF02E0-FA9F-49D5-9F4F-1F731AA1CE41,160472-2,"","","10","1902",
+gcc-4744,A,Compositae,,Microseris,,"campestris",,"","Greene",Accepted,,M,TICA,9F49AFCA-371C-497C-914E-08D3DAED3667,160473-2,"","","15","1902",
+gcc-132948,A,Compositae,,Microseris,,"castanea",,"","Greene",Accepted,,M,TICA,6FABBAD4-82DD-4D95-A982-E46B13D6134E,160474-2,"Pittonia 5: 13. 1902","","13","1902",
+gcc-3559,A,Compositae,,Microseris,,"cognata",,"","Greene",Accepted,,M,TICA,61CE8B3B-7B3B-4145-8784-068F633BAF17,160475-2,"","","15","1902",
+gcc-33165,A,Compositae,,Microseris,,"conjugens",,"","Greene",Accepted,,M,TICA,80ADA588-0E89-453D-8820-3D8679F9C5CE,160476-2,"","","7","1902",
+gcc-102937,A,Compositae,,Microseris,,"cuspidata",,"","(Pursh) Sch.Bip.",Synonym,,M,TICA,390A040C-CF0C-4573-BF47-A039C6C3D86C,232621-1,"in Pollichia xxii-xxiv. (1866) 309.","","309","1866",gcc-47019
+gcc-39672,A,Compositae,,Microseris,,"cyclocarpha",,"","Sch.Bip.",Synonym,,M,TICA,FCD14905-C513-4D6A-A3E5-499CA7E56661,,"","","","1866",gcc-110504
+gcc-154378,A,Compositae,,Microseris,,"cyclocarpha",var.,"cyclocarpha","",Synonym,,L,TICA,1562CBA0-4550-4D3F-9582-C2508E34043C,,"","","","",gcc-110504
+gcc-25185,A,Compositae,,Microseris,,"cyclocarpha",var.,"eriocarpha","(A.Gray) A.Gray",Synonym,,L,TICA,D04042A1-788C-473F-85AF-2E7F38BC0A52,160477-2,"","","210","1874",gcc-110504
+gcc-105392,A,Compositae,,Microseris,,"decipiens",,"","K.L.Chambers",Accepted,,M,TICA,48A40D0B-7D50-47DB-9872-A5799FCDFB35,160478-2,"","","290","1955",
+gcc-110504,A,Compositae,,Microseris,,"douglasii",,"","(DC.) Sch.Bip.",Accepted,,M,TICA,E8332760-2EE4-4B8F-8535-B1077A3E38AF,30258169-2,"in Pollichia xxii-xxiv. (1866) 308.","","308","1866",
+gcc-62820,A,Compositae,,Microseris,,"douglasii",subsp.,"douglasii","",Synonym,,L,TICA,73EEA50F-901A-488E-B8E6-B1E67EFE2518,,"","","","",gcc-110504
+gcc-64887,A,Compositae,,Microseris,,"douglasii",var.,"douglasii","",Synonym,,L,TICA,522E150A-D556-4911-9BD0-C1F2AB8DA512,,"","","","",gcc-110504
+gcc-46018,A,Compositae,,Microseris,,"douglasii",subsp.,"platycarpha","(A.Gray) K.L.Chambers",Accepted,,L,TICA,672C070A-9741-47E0-ADDE-554C23B47556,160479-2,"","","296","1955",
+gcc-7853,A,Compositae,,Microseris,,"douglasii",var.,"platycarpha","(A.Gray) B.L.Turner",Synonym,,L,TICA,F84DEA3D-2C2F-4748-99E7-0E9D9E277292,1059043-2,"Phytologia 69(1): 15 (1990):.","","15","1990",gcc-46018
+gcc-27338,A,Compositae,,Microseris,,"douglasii",subsp.,"tenella","(A.Gray) K.L.Chambers",Accepted,,L,TICA,58E7C852-B3C2-4CD3-B3E3-328F9D19F1BA,160480-2,"","","294","1955",
+gcc-130086,A,Compositae,,Microseris,,"elegans",,"","Greene ex A.Gray",Accepted,,M,TICA,1CCF58AF-41EE-4DA3-B256-DDC3169C6358,232625-1,"Syn. Fl. N. Am. i. II. 419.","","419","1884",
+gcc-95858,A,Compositae,,Microseris,,"elegans",,"","Greene",Unresolved,,L,TICA,5C4B462B-FF3D-4786-9C6E-904F55E210A7,160481-2,"","","","",
+gcc-49946,A,Compositae,,Microseris,,"eriocarpha",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,156FAE21-1F11-4274-B129-5C973FAC3018,,"in Pollichia xxii-xxiv. (1866) 308.","","","1866",gcc-110504
+gcc-45535,A,Compositae,,Microseris,,"forsteri",,"","Hook.f.",Synonym,Illegitimate,M,TICA,7EFF8A23-05E6-4132-A159-5466652A0949,85874-3,"","","151","1853",gcc-122344
+gcc-146558,A,Compositae,,Microseris,,"forsteri",var.,"forsteri","",Synonym,,L,TICA,0E304102-C696-461D-A835-1AF7BEE715BF,,"","","","",gcc-122344
+gcc-21119,A,Compositae,,Microseris,,"forsteri",var.,"subplumosa","Benth.",Synonym,,L,TICA,4D725125-0D72-4285-BA27-2701D9C51872,85900-3,"Flora Australiensis 3  1867","","","1867",gcc-122344
+gcc-32976,A,Compositae,,Microseris,,"furfuracea",,"","Greene",Accepted,,M,TICA,4C131D51-6D53-4502-8A39-3D26756BF617,160482-2,"","","9","1902",
+gcc-84334,A,Compositae,,Microseris,,"heterocarpa",,"","(Nutt.) K.L.Chambers",Accepted,,M,TICA,13330396-4F89-4A4A-ADEA-765B487CBC6E,160483-2,"","","286","1955",
+gcc-113937,A,Compositae,,Microseris,,"howellii",,"","A.Gray",Accepted,,M,TICA,2FBC0A8E-5C6B-4610-B6FB-B8B4439A8228,,"Proc. Amer. Acad. Arts xx. (1855) 300.","","300","1885",
+gcc-3099,A,Compositae,,Microseris,,"indivisa",,"","Greene",Synonym,,M,TICA,AF62C12F-271B-4F09-9742-05BA55FA2499,160485-2,"","","7","1893",gcc-27338
+gcc-49841,A,Compositae,,Microseris,,"insignis",,"","Greene",Accepted,,M,TICA,8B5C0058-C5C2-41F2-8383-5C6714364504,160486-2,"","","13","1902",
+gcc-138335,A,Compositae,,Microseris,,"intermedia",,"","Greene",Accepted,,M,TICA,204416FB-EBB6-41B4-8CC5-F05D08582551,160487-2,"","","100","1895",
+gcc-8875,A,Compositae,,Microseris,,"laciniata",,"","(Hook.) Sch.Bip.",Accepted,,L,TICA,CF1F1F55-E59E-49A6-BBE0-109D153EBBC8,232634-1,"in Pollichia xxii xxiv. (1866) 309.","","309","1866",
+gcc-24854,A,Compositae,,Microseris,,"laciniata",var.,"laciniata","",Synonym,,L,TICA,80E6E768-4F55-4B2C-8677-2DEE7DDB9E83,,"","","","",gcc-8875
+gcc-28814,A,Compositae,,Microseris,,"laciniata",subsp.,"laciniata","",Synonym,,L,TICA,B5541FE4-BED4-4EBF-979E-354565341B35,,"","","","1957",gcc-8875
+gcc-60424,A,Compositae,,Microseris,,"laciniata",subsp.,"leptosepala","(Nutt.) K.L.Chambers",Accepted,,L,TICA,3981ACFD-D127-495A-BA97-9E3A1860377F,160488-2,"Contr. Dudley Herb. 5: 61. 1957","","61","1957",
+gcc-65466,A,Compositae,,Microseris,,"laciniata",subsp.,"siskiyouensis","K.L.Chambers",Accepted,,L,TICA,8371B73D-2308-406A-9B83-C6F99B86AA05,,"Sida 21(1): 195 (-200; figs. 1-3). 2004 [20 Aug 2004]","","","2004",
+gcc-10616,A,Compositae,,Microseris,,"lanceolata",,"","(Walp.) Sch.Bip.",Accepted,,M,TICA,7688656E-533C-4D9E-A448-13DB5E616203,232635-1,"","","310","1866",
+gcc-116629,A,Compositae,,Microseris,,"latifolia",,"","Gand.",Synonym,,M,TICA,95C79B4E-2403-4B01-8BCE-BED63C6C3A17,232474-1,"","","52","1918",gcc-122344
+gcc-105798,A,Compositae,,Microseris,,"leiosperma",,"","Greene",Accepted,,M,TICA,130AB506-0785-48FA-BE0B-A65A7C8DC701,160490-2,"","","10","1902",
+gcc-20936,A,Compositae,,Microseris,,"leptosepala",,"","(Nutt.) A.Gray",Synonym,,M,TICA,5C869318-4DCB-400F-8AFF-26B66D6C7189,,"Proc. Amer. Acad. Arts","","209","1874",gcc-60424
+gcc-116383,A,Compositae,,Microseris,,"leucocarpha",,"","Greene",Accepted,,M,TICA,64F359C2-5856-4C10-9496-BE4A49042037,160491-2,"","","7","1902",
+gcc-75502,A,Compositae,,Microseris,,"lindleyi",,"","(DC.) A.Gray",Synonym,,M,TICA,DE9AAC70-A6EC-4375-82A5-6295737CDCD7,,"Proc. Amer. Acad. Arts ix. (1874) 209; xix. (1883) 210.","","210","1874",gcc-120226
+gcc-59304,A,Compositae,,Microseris,,"lindleyi",var.,"clevelandii","(Greene) H.M.Hall",Synonym,,L,TICA,48AE41B6-EE02-4227-BC8C-95552DF86F8D,160492-2,"","","251","1907",gcc-84334
+gcc-58305,A,Compositae,,Microseris,,"lindleyi",var.,"lindleyi","",Synonym,,L,TICA,A36FAF44-2B39-418C-AD31-8D831E49E0B3,,"","","","",gcc-120226
+gcc-126399,A,Compositae,,Microseris,,"linearifolia",,"","(Nutt.) Sch.Bip.",Synonym,,M,TICA,0C2FCF9B-BFAF-46F4-9CE9-D53CC7869F74,232641-1,"","","308","1866",gcc-120226
+gcc-92978,A,Compositae,,Microseris,,"linearifolia",,"","(Nutt.) A.Gray",Synonym,Illegitimate,M,TICA,BEC58508-2CA3-4D66-9067-89C533FDA1A8,,"Proceedings of the American Academy of Arts and Sciences 9:","","208","1874",gcc-120226
+gcc-9995,A,Compositae,,Microseris,,"macrochaeta",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,F94BF05D-8EB5-4A8D-9EBF-12B1AB276774,,"in Pollichia xxii-xxiv. (1866) 309.","","","1866",gcc-120226
+gcc-113055,A,Compositae,,Microseris,,"major",,"","A.Gray",Unresolved,,L,TICA,2C73131D-C2C1-420B-9D5B-B6CB503D22B7,160493-2,"","","","",
+gcc-97201,A,Compositae,,Microseris,,"major",,"","(A.Gray) Sch.Bip.",Synonym,,L,TICA,F8FFAB82-48BA-42A4-B779-934E3E0B0E68,232643-1,"","","309","1866",gcc-20434
+gcc-47370,A,Compositae,,Microseris,,"major",var.,"laciniata","A.Gray",Unresolved,,L,TICA,5F87AADF-A274-47F4-BE8D-57BBA64BB66B,160494-2,"","","","",gcc-20434
+gcc-150701,A,Compositae,,Microseris,,"major",var.,"major","",Synonym,,L,TICA,9C183B1D-B355-42AE-B675-74AA7F1961D0,,"","","","",gcc-20434
+gcc-17883,A,Compositae,,Microseris,,"maritima",,"","Greene",Accepted,,M,TICA,D693C176-DD40-4506-A556-2108152D6453,160495-2,"","","16","1902",
+gcc-29710,A,Compositae,,Microseris,,"melanocarpha",,"","Greene",Accepted,,M,TICA,069E9944-EBF7-4EBF-8508-36EAABB44A40,160496-2,"","","6","1902",
+gcc-135029,A,Compositae,,Microseris,,"montana",,"","(Greene) H.M.Hall",Synonym,,M,TICA,318B5917-6279-4D4E-91F4-E90F72ABED23,160497-2,"","","252","1907",gcc-133718
+gcc-139225,A,Compositae,,Microseris,,"neozelandica",,"","Gand.",Accepted,,M,TICA,19A0CF5F-336F-4BF7-8DEA-F2465FB059B9,232475-1,"Bull. Soc. Bot. France 65: 52. 1918","","52","1918",
+gcc-147438,A,Compositae,,Microseris,,"nevadensis",,"","Gand.",Accepted,,M,TICA,3A905AD9-F064-4BA1-8EFE-2DA080F8007C,160123-2,"M. Gandoger in Bull. Soc. Bot. France 65. 1918","","52","1918",
+gcc-127234,A,Compositae,,Microseris,,"nigrescens",,"","L.F.Hend.",Synonym,,M,TICA,D0E28CDE-E331-4256-974C-D72A3FE3069E,232647-1,"","","348","1900",gcc-37068
+gcc-20434,A,Compositae,,Microseris,,"nutans",,"","(Hook.) Sch.Bip.",Accepted,,L,TICA,115AAFCF-707C-41C7-8E1C-25C9C4D16E89,232648-1,"","","309","1866",
+gcc-2189,A,Compositae,,Microseris,,"nutans",,"","A.Gray",Unresolved,,L,TICA,3DE8A26F-BED9-4191-B4E7-03EF930BC6F1,160499-2,"","","","",
+gcc-146157,A,Compositae,,Microseris,,"nutans",subsp.,"nutans","",Synonym,,L,TICA,A5F9C891-22E7-408F-A3E4-129248C06FC9,,"","","","",gcc-20434
+gcc-152690,A,Compositae,,Microseris,,"nutans",var.,"nutans","",Synonym,,L,TICA,FA93FB9B-9921-4E28-BDE0-9EBD620A0419,,"","","","",gcc-20434
+gcc-69061,A,Compositae,,Microseris,,"nutans",subsp.,"siskiyouensis","K.L.Chambers",Synonym,,L,TICA,9F81B615-B072-4849-9C8A-E39E83878077,,"","","","",gcc-65466
+gcc-136722,A,Compositae,,Microseris,,"obtusata",,"","Greene",Accepted,,M,TICA,E9E2A3D0-3DB8-4D99-8EAB-ECD66D3CB23D,160502-2,"","","16","1902",
+gcc-22062,A,Compositae,,Microseris,,"obtusifolia",,"","Gand.",Synonym,,M,TICA,927988E6-C764-4FBE-9D26-28CEAAB992B5,232477-1,"","","52","1918",gcc-122344
+gcc-135504,A,Compositae,,Microseris,,"oligantha",,"","Greene",Accepted,,M,TICA,6E7B00BB-8722-45FF-A82E-EA278702A63F,160503-2,"","","9","1902",
+gcc-22598,A,Compositae,,Microseris,,"paludosa",,"","(Greene) J.T.Howell",Accepted,,M,TICA,BC154949-1239-45F1-BD3C-29D28B36695F,160504-2,"","","108","1948",
+gcc-23574,A,Compositae,,Microseris,,"parishii",,"","Greene",Synonym,,M,TICA,4B592E22-DC39-45C2-9AF9-2B971FEB2428,160505-2,"","","46","1886",gcc-110504
+gcc-84976,A,Compositae,,Microseris,,"parryi",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,F15BD18B-E6EA-4031-ACD7-77A9DDD6CBC5,,"in Pollichia xxii-xxiv. (1866) 309.","","","1866",gcc-84334
+gcc-1570,A,Compositae,,Microseris,,"parvula",,"","Greene",Accepted,,M,TICA,1F775D77-8FBB-4810-88A6-02D7410507E8,160506-2,"","","11","1902",
+gcc-31474,A,Compositae,,Microseris,,"picta",,"","Greene",Accepted,,M,TICA,6A6AE23E-5B10-46B0-8646-3A5427897787,160507-2,"","","10","1902",
+gcc-143149,A,Compositae,,Microseris,,"platycarpha",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,0E93CD7C-A270-4E88-9C64-FB3C93C380DC,232656-1,"","","308","1866",gcc-46018
+gcc-72108,A,Compositae,,Microseris,,"platycarpha",var.,"parishii","(Greene) H.M.Hall",Synonym,,L,TICA,FBC0EFDB-27CE-4CF1-81BA-FB67F118344C,160508-2,"Univ. Calif. Publ. Bot. 3: 249. 1907","","249","1907",gcc-110504
+gcc-24019,A,Compositae,,Microseris,,"platycarpha",var.,"platycarpha","",Synonym,,L,TICA,BE71D99A-0897-4A48-B1C1-2C62EE5B4C44,,"","","","",gcc-46018
+gcc-103258,A,Compositae,,Microseris,,"procera",,"","(A.Gray) A.Gray",Synonym,,L,TICA,E2EBB85A-2646-4A14-A3CA-A0DEB0D68729,232657-1,"","","64","1883",gcc-8875
+gcc-122463,A,Compositae,,Microseris,,"proxima",,"","Greene",Accepted,,M,TICA,2027623E-AB41-4EE6-B14D-CC149F799CFF,160509-2,"","","8","1902",
+gcc-115899,A,Compositae,,Microseris,,"pulchella",,"","Greene",Accepted,,M,TICA,E91FA190-043E-448F-973C-BD378213D1C9,160510-2,"","","14","1902",
+gcc-102420,A,Compositae,,Microseris,,"pygmaea",,"","D.Don",Accepted,,M,TICA,F3988E8E-67B6-4A67-9737-9F1772446FEE,232660-1,"","","388","1832",
+gcc-97464,A,Compositae,,Microseris,,"pygmaea",,"","Raoul",Synonym,Illegitimate,M,TICA,F1E1F0FA-5C5B-4A42-8F87-93EFE5E415A6,,"""Raoul, E. 1846: Choix de Plantes de la Nouvelle-Zélande. Paris, ""","","45","1846",gcc-10616
+gcc-122344,A,Compositae,,Microseris,,"scapigera",,"","(Sol. ex A.Cunn.) Sch.Bip.",Accepted,,M,TICA,AE7E40C1-0E16-40EB-8E79-CBCE04BBBA88,232661-1,"","","310","1866",
+gcc-103176,A,Compositae,,Microseris,,"scapigera",f.,"linearis","Allan",Synonym,Invalid,L,TICA,D2E6A4B8-373E-4AF4-9D3D-A0AD065A3767,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","761","1961",gcc-10616
+gcc-92423,A,Compositae,,Microseris,,"scapigera",f.,"major","Allan",Synonym,Invalid,L,TICA,2EAEC86D-2496-4EC9-ADB5-88921354D019,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","761","1961",gcc-10616
+gcc-114325,A,Compositae,,Microseris,,"scapigera",f.,"obovata","Allan",Synonym,Invalid,L,TICA,BA2618F9-3C95-476F-A2AD-B993C836D951,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","761","1961",gcc-10616
+gcc-83882,A,Compositae,,Microseris,,"scapigera",f.,"pinnatifida","Allan",Synonym,Invalid,L,TICA,C57C5656-2801-4773-9AA3-753B880459D9,,"""Allan, H. H. 1961: Flora of New Zealand. Vol. I. Indigenous Tracheophyta.  Psilopsida, Lycopsida, Filicopsida, Gymnospermae, Dicotyledones. 1.  Wellington, N.Z., ""","","761","1961",gcc-10616
+gcc-145864,A,Compositae,,Microseris,,"scapigera",f.,"scapigera","",Synonym,,L,TICA,B2BA8320-A1B9-4A86-96CD-0C77304AA807,,"","","","",gcc-122344
+gcc-107270,A,Compositae,,Microseris,,"stenocarpha",,"","Greene",Accepted,,M,TICA,1D3518A3-DE53-4A94-A11E-A9B1AE62E6D6,160511-2,"","","14","1902",
+gcc-133718,A,Compositae,,Microseris,,"sylvatica",,"","(Benth.) Sch.Bip.",Accepted,,M,TICA,74294FA4-D94D-4F10-AB46-E624B34F5362,232664-1,"","","309","1866",
+gcc-35644,A,Compositae,,Microseris,,"sylvatica",var.,"stillmanii","A.Gray",Synonym,,L,TICA,422D3422-3229-467B-B3B5-421A8C10D440,160512-2,"Proc. Amer. Acad. Arts 9: 208. 1874","","208","1874",gcc-22598
+gcc-145596,A,Compositae,,Microseris,,"sylvatica",var.,"sylvatica","",Synonym,,L,TICA,FE7ACBEA-8703-47E6-958F-071805D179A8,,"","","","",gcc-133718
+gcc-139574,A,Compositae,,Microseris,,"tasmanica",,"","Gand.",Accepted,,M,TICA,8342F4CF-4A3F-43CE-97F1-F302D2450FA3,232479-1,"","","52","1918",
+gcc-44913,A,Compositae,,Microseris,,"teakleana",,"","C.A.Gardner",Unresolved,Invalid,L,TICA,E0155A40-FB90-4332-A630-533BFC1E548A,232665-1,"","","","1931",
+gcc-100972,A,Compositae,,Microseris,,"tenella",,"","Greene",Unresolved,,L,TICA,A5F2B111-A274-421A-932B-9BD062C16ABA,232667-1,"Man. Bot. San Franc. Bay (1894) 222.","","222","1894",
+gcc-49635,A,Compositae,,Microseris,,"tenella",,"","(A.Gray) Sch.Bip.",Synonym,,M,TICA,5B75FF9D-8C29-4771-95BE-5BFFC024B0C7,232666-1,"","","308","1866",gcc-27338
+gcc-58203,A,Compositae,,Microseris,,"tenella",var.,"aphantocarpha","(A.Gray) S.F.Blake",Synonym,,L,TICA,04CF4654-5E49-4D48-89C4-8CA703FF882B,160513-2,"J. Wash. Acad. Sci. 25: 325. 1935","","325","1935",gcc-27338
+gcc-63878,A,Compositae,,Microseris,,"tenella",var.,"tenella","",Synonym,,L,TICA,0310749C-DB10-44F2-9FD7-BA397BC26FAC,,"","","","",gcc-27338
+gcc-41881,A,Compositae,,Microseris,,"tenuicula",,"","Gand.",Synonym,,M,TICA,424CF102-0FCF-4B00-8F5E-4D8DDF903681,232480-1,"","","52","1918",gcc-122344
+gcc-88112,A,Compositae,,Microseris,,"tenuisecta",,"","Greene",Accepted,,M,TICA,2A54B166-5C0F-45BE-A95B-7EB24FB0CA5D,160514-2,"","","6","1902",
+gcc-10766,A,Compositae,,Microseris,,"troximoides",,"","A.Gray",Synonym,,M,TICA,79BE292B-81D1-473A-B36C-1422AF6AF0F3,232669-1,"Proc. Amer. Acad. Arts ix. (1874) 211.","","211","1874",gcc-127563
+gcc-3933,A,Compositae,,Microseris,,"walteri",,"","Gand.",Synonym,,M,TICA,4F43FF5B-1549-426E-B919-074E58A0B2E4,232482-1,"","","52","1918",gcc-122344

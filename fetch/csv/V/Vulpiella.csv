@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-450115,A,Poaceae,,Vulpiella,,"incrassata",,"","(Parl.) Andr.",Synonym,,H,WCSP,450115,426722-1,"Ind. Horti Bot. Univ. Budapest","1934: 95, 97","","1935",kew-450117
+tro-25540617,A,Poaceae,,Vulpiella,,"incrassata",,"","(Salzm. ex Lois.) Burollet",Synonym,,M,TRO,25540617,,"","","","",kew-450117
+kew-450116,A,Poaceae,,Vulpiella,,"incrassata",var.,"tenuis","(Tineo) Andr.",Synonym,,L,WCSP,450116,,"Ind. Horti Bot. Univ. Budapest","1934: 95","","1935",kew-450117
+kew-450117,A,Poaceae,,Vulpiella,,"stipoides",,"","(L.) Maire",Accepted,,H,WCSP,450117,426723-1,"Bull. Soc. Hist. Nat. Afrique N.","33: 95","","1942",
+kew-450118,A,Poaceae,,Vulpiella,,"stipoides",subsp.,"letourneuxii","(Asch.) H.Scholz",Synonym,,L,WCSP,450118,883282-1,"Willdenowia","7: 420","","1974",kew-450117
+kew-450119,A,Poaceae,,Vulpiella,,"stipoides",subsp.,"tenuis","(Tineo) H.Scholz",Synonym,,L,WCSP,450119,883283-1,"Willdenowia","7: 420","","1974",kew-450117
+kew-450120,A,Poaceae,,Vulpiella,,"stipoides",var.,"tenuis","(Tineo) Maire",Synonym,,L,WCSP,450120,,"Bull. Soc. Hist. Nat. Afrique N.","34: 15","","1943",kew-450117
+kew-450121,A,Poaceae,,Vulpiella,,"tenuis",,"","(Tineo) Kerguélen",Synonym,,H,WCSP,450121,,"Bull. Soc. Bot. France","124: 34","","1977",kew-450117
+tro-25519750,A,Poaceae,,Vulpiella,,"tenuis",,"","(Tineo) Parl.",Synonym,,M,TRO,25519750,,"Ann. Sci. Nat., Bot., sér. 2,","15: 299","299","1841",kew-450117
+tro-25556608,A,Poaceae,,Vulpiella,,"tenuis",subsp.,"letourneuxii","(Asch. ex Durand & Barratte) Scholz",Synonym,,L,TRO,25556608,,"Willdenowia","7: 420","420","1974",kew-450117

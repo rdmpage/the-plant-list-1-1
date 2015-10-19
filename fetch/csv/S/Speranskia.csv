@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-193363,A,Euphorbiaceae,,Speranskia,,"cantonensis",,"","(Hance) Pax & K.Hoffm.",Accepted,,H,WCSP,193363,,"Pflanzenr.","IV, 147, VI: 15","","1912",
+kew-193364,A,Euphorbiaceae,,Speranskia,,"henryi",,"","Oliv.",Synonym,,H,WCSP,193364,,"Hooker's Icon. Pl.","16: t. 1577","","1887",kew-193363
+kew-193365,A,Euphorbiaceae,,Speranskia,,"pekinensis",,"","Pax & K.Hoffm.",Synonym,,H,WCSP,193365,,"Pflanzenr.","IV, 147, VI: 15","","1912",kew-193367
+kew-193366,A,Euphorbiaceae,,Speranskia,,"tuberculata",,"","(Bunge) Baill.",Accepted,,H,WCSP,193366,356422-1,"Étude Euphorb.","389","","1858",
+kew-193367,A,Euphorbiaceae,,Speranskia,,"tuberculata",var.,"pekinensis","(Pax & K.Hoffm.) Hurus.",Accepted,,L,WCSP,193367,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.","6: 310","","1954",
+kew-193368,A,Euphorbiaceae,,Speranskia,,"tuberculata",var.,"tuberculata","",Synonym,,L,WCSP,193368,,"Unknown","","","",kew-193366
+kew-193369,A,Euphorbiaceae,,Speranskia,,"yunnanensis",,"","S.M.Hwang",Accepted,,H,WCSP,193369,938190-1,"Bull. Bot. Res., Harbin","9: 38","","1989",

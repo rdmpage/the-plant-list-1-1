@@ -1,0 +1,4 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-49082,A,Apocynaceae,,Crioceras,,"dipladeniiflorus",,"","(Stapf) K.Schum.",Accepted,,H,WCSP,49082,78181-1,"Nat. Pflanzenfam.","Nachtr. 2: 56","","1900",
+tro-1805249,A,Apocynaceae,,Crioceras,,"longiflora",,"","Stapf",Synonym,,M,TRO,1805249,,"","","","",kew-49082
+kew-49083,A,Apocynaceae,,Crioceras,,"longiflorus",,"","Pierre",Synonym,,H,WCSP,49083,78182-1,"Bull. Mens. Soc. Linn. Paris","2: 1312","","1897",kew-49082

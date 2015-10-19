@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-117480,A,Compositae,,Cyanopsis,,"chingoyo",,"","Steud.",Unresolved,,L,TICA,B4DFD74F-4C37-4518-AF53-C0C4FBC93355,200741-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 413, in syn.""","","413","1840",
+gcc-5913,A,Compositae,,Cyanopsis,,"muricata",,"","(L.) Dostál",Synonym,,M,TICA,B6F854F8-4129-4A24-8AFC-0B01B54BE318,200744-1,"","","193","1976",gcc-80012
+gcc-48042,A,Compositae,,Cyanopsis,,"muricata",var.,"muricata","",Synonym,,L,TICA,72A88911-70B3-4ED0-A60F-5904713ADA98,,"","","","",gcc-80012
+gcc-128348,A,Compositae,,Cyanopsis,,"radicatissima",,"","Cass.",Synonym,,M,TICA,A0FF382E-FA3C-42A8-A73B-D9D4E7B8173B,200745-1,"","","200","",gcc-80012
+ild-44020,A,Leguminosae,,Cyanopsis,,"tetragonoloba",,"","(L.) Taub.",Synonym,Spelling variant,H,ILDIS,44020,,"","","","",ild-3648

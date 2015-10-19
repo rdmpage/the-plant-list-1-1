@@ -1,0 +1,49 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-301832,A,Asparagaceae,,Camassia,,"alba",,"","auct.",Synonym,,H,WCSP,301832,,"Gard. Chron.","n.s., 1875: 662","","1875",kew-301833
+kew-301833,A,Asparagaceae,,Camassia,,"angusta",,"","(Engelm. & A.Gray) Blank.",Accepted,,H,WCSP,301833,43738-2,"Rep. (Annual) Missouri Bot. Gard.","18: 115","","1907",
+kew-301834,A,Asparagaceae,,Camassia,,"azurea",,"","A.Heller",Synonym,,H,WCSP,301834,532512-1,"Bull. Torrey Bot. Club","26: 547","","1899",kew-301851
+kew-301835,A,Asparagaceae,,Camassia,,"biflora",,"","Cocucci",Synonym,,H,WCSP,301835,532513-1,"Kurtziana","5: 184","","1969",kew-283548
+kew-301836,A,Asparagaceae,,Camassia,,"cusickii",,"","S.Watson",Accepted,,H,WCSP,301836,,"Proc. Amer. Acad. Arts","22: 479","","1887",
+kew-301837,A,Asparagaceae,,Camassia,,"engelmannii",,"","Sprenger",Unresolved,,L,WCSP,301837,532515-1,"Boll. Soc. Tosc. Ortic.","1889: 101","","1889",
+kew-301838,A,Asparagaceae,,Camassia,,"esculenta",,"","(Nutt.) Lindl.",Synonym,,H,WCSP,301838,30486149-2,"Edwards's Bot. Reg.","18: t. 1486","","1832",kew-301849
+kew-301839,A,Asparagaceae,,Camassia,,"esculenta",,"","(Ker Gawl.) B.L.Rob.",Synonym,Illegitimate,H,WCSP,301839,43743-2,"Rhodora","10: 31","","1908",kew-301866
+kew-301840,A,Asparagaceae,,Camassia,,"esculenta",var.,"leichtlinii","Baker",Synonym,,L,WCSP,301840,43744-2,"Bot. Mag.","103: t. 6287","","1877",kew-301844
+kew-301841,A,Asparagaceae,,Camassia,,"fraseri",,"","Torr.",Synonym,,H,WCSP,301841,30365175-2,"Pacif. Railr. Rep. Parke, Bot.","4(4): 91","","1857",kew-301866
+kew-452406,A,Asparagaceae,,Camassia,,"fraseri",var.,"angusta","(Engelm. & A.Gray) Torr. & A.Gray",Synonym,,L,WCSP,452406,,"Pacif. Railr. Rep. Parke, Bot.","2(2): 176","","1855",kew-301833
+kew-301842,A,Asparagaceae,,Camassia,,"howellii",,"","S.Watson",Accepted,,H,WCSP,301842,43746-2,"Proc. Amer. Acad. Arts","25: 135","","1890",
+kew-301843,A,Asparagaceae,,Camassia,,"hyacinthina",,"","(Raf.) E.J.Palmer & Steyerm.",Synonym,,H,WCSP,301843,43747-2,"Ann. Missouri Bot. Gard.","22: 502","","1935",kew-301866
+kew-301844,A,Asparagaceae,,Camassia,,"leichtlinii",,"","(Baker) S.Watson",Accepted,,H,WCSP,301844,1185087-2,"Proc. Amer. Acad. Arts","20: 376","","1885",
+kew-311214,A,Asparagaceae,,Camassia,,"leichtlinii",subsp.,"leichtlinii","",Synonym,,L,WCSP,311214,,"Unknown","","","",kew-301844
+kew-301845,A,Asparagaceae,,Camassia,,"leichtlinii",subsp.,"suksdorfii","(Greenm.) Gould",Accepted,,L,WCSP,301845,43749-2,"Amer. Midl. Naturalist","28: 723","","1942",
+kew-301846,A,Asparagaceae,,Camassia,,"leichtlinii",var.,"suksdorfii","(Greenm.) C.L.Hitchc.",Synonym,,L,WCSP,301846,,"Vasc. Pl. Pacific Northw.","1: 780","","1968",kew-301845
+kew-301847,A,Asparagaceae,,Camassia,,"leichtlinii",f.,"suksdorfii","(Greenm.) R.L.Taylor & MacBryde",Synonym,,L,WCSP,301847,43750-2,"Canad. J. Bot.","56: 191","","1978",kew-301845
+tro-50101527,A,Asparagaceae,,Camassia,,"leichtlinii",var.,"suksdorfii","(Greenm.) B. Boivin",Synonym,,L,TRO,50101527,43751-2,"Naturaliste Canad.","94(4): 522","522","1967",kew-301845
+kew-301848,A,Asparagaceae,,Camassia,,"leichtlinii",var.,"watsonii","M.E.Jones",Synonym,,L,WCSP,301848,43753-2,"Contr. W. Bot.","14: 29","","1912",kew-301849
+kew-301849,A,Asparagaceae,,Camassia,,"quamash",,"","(Pursh) Greene",Accepted,,H,WCSP,301849,30019006-2,"Man. Bot. San Francisco","313","","1894",
+kew-301850,A,Asparagaceae,,Camassia,,"quamash",f.,"albiflora","A.Henry",Synonym,,L,WCSP,301850,,"Ottawa Naturalist","31: 57","","1917",kew-301849
+kew-301851,A,Asparagaceae,,Camassia,,"quamash",subsp.,"azurea","(A.Heller) Gould",Accepted,,L,WCSP,301851,43757-2,"Amer. Midl. Naturalist","28: 733","","1942",
+kew-301852,A,Asparagaceae,,Camassia,,"quamash",var.,"azurea","(A.Heller) C.L.Hitchc.",Synonym,,L,WCSP,301852,43756-2,"Vasc. Pl. Pacific Northw.","1: 780","","1969",kew-301851
+kew-301853,A,Asparagaceae,,Camassia,,"quamash",subsp.,"breviflora","Gould",Accepted,,L,WCSP,301853,43758-2,"Amer. Midl. Naturalist","28: 737","","1942",
+kew-301854,A,Asparagaceae,,Camassia,,"quamash",var.,"breviflora","(Gould) C.L.Hitchc.",Synonym,,L,WCSP,301854,43759-2,"Vasc. Pl. Pacific Northw.","1: 780","","1969",kew-301853
+kew-301855,A,Asparagaceae,,Camassia,,"quamash",subsp.,"intermedia","Gould",Accepted,,L,WCSP,301855,43760-2,"Amer. Midl. Naturalist","28: 734","","1942",
+kew-301856,A,Asparagaceae,,Camassia,,"quamash",var.,"intermedia","(Gould) C.L.Hitchc.",Synonym,,L,WCSP,301856,43761-2,"Vasc. Pl. Pacific Northw.","1: 780","","1969",kew-301855
+kew-301857,A,Asparagaceae,,Camassia,,"quamash",subsp.,"linearis","Gould",Accepted,,L,WCSP,301857,43762-2,"Amer. Midl. Naturalist","28: 736","","1942",
+kew-301858,A,Asparagaceae,,Camassia,,"quamash",var.,"linearis","(Gould) J.T.Howell",Synonym,,L,WCSP,301858,43763-2,"Leafl. W. Bot.","5: 105","","1948",kew-301857
+kew-301859,A,Asparagaceae,,Camassia,,"quamash",subsp.,"maxima","Gould",Accepted,,L,WCSP,301859,293926-2,"Amer. Midl. Naturalist","28: 732","","1942",
+kew-301860,A,Asparagaceae,,Camassia,,"quamash",var.,"maxima","(Gould) C.L.Hitchc.",Synonym,,L,WCSP,301860,43764-2,"Vasc. Pl. Pacific Northw.","1: 780","","1969",kew-301859
+kew-301861,A,Asparagaceae,,Camassia,,"quamash",f.,"pallida","H.St.John",Synonym,,L,WCSP,301861,,"Fl. S.-E. Washington","88","","1937",kew-301849
+kew-311215,A,Asparagaceae,,Camassia,,"quamash",subsp.,"quamash","",Synonym,,L,WCSP,311215,,"Unknown","","","",kew-301849
+tro-18403812,A,Asparagaceae,,Camassia,,"quamash",var.,"quamash","",Synonym,,L,TRO,18403812,,"","","","",kew-301849
+tro-18403823,A,Asparagaceae,,Camassia,,"quamash",f.,"quamash","",Synonym,,L,TRO,18403823,,"","","","",kew-301849
+kew-301862,A,Asparagaceae,,Camassia,,"quamash",subsp.,"teapeae","(H.St.John) H.St.John",Synonym,,L,WCSP,301862,43766-2,"Fl. S.-E. Washington","ed. 2: 538","","1956",kew-301849
+kew-301863,A,Asparagaceae,,Camassia,,"quamash",subsp.,"utahensis","Gould",Accepted,,L,WCSP,301863,43768-2,"Amer. Midl. Naturalist","28: 740","","1942",
+kew-301864,A,Asparagaceae,,Camassia,,"quamash",var.,"utahensis","(Gould) C.L.Hitchc.",Synonym,,L,WCSP,301864,43769-2,"Vasc. Pl. Pacific Northw.","1: 780","","1969",kew-301863
+kew-301865,A,Asparagaceae,,Camassia,,"quamash",subsp.,"walpolei","(Piper) Gould",Accepted,,L,WCSP,301865,43770-2,"Amer. Midl. Naturalist","28: 735","","1942",
+kew-301866,A,Asparagaceae,,Camassia,,"scilloides",,"","(Raf.) Cory",Accepted,,H,WCSP,301866,43771-2,"Rhodora","38: 405","","1936",
+kew-276079,A,Asparagaceae,,Camassia,,"scilloides",f.,"candida","McGregor",Synonym,,L,WCSP,276079,43772-2,"Trans. Kansas Acad. Sci.","60: 161","","1957",kew-301866
+kew-276080,A,Asparagaceae,,Camassia,,"scilloides",f.,"petersenii","Steyerm.",Synonym,,L,WCSP,276080,43773-2,"Rhodora","40: 178","","1938",kew-301866
+tro-18403985,A,Asparagaceae,,Camassia,,"scilloides",f.,"scilloides","",Synonym,,L,TRO,18403985,,"","","","",kew-301866
+kew-276081,A,Asparagaceae,,Camassia,,"scilloides",f.,"variegata","Steyerm.",Synonym,,L,WCSP,276081,43774-2,"Rhodora","51: 116","","1949",kew-301866
+kew-301867,A,Asparagaceae,,Camassia,,"suksdorfii",,"","Greenm.",Synonym,,H,WCSP,301867,43775-2,"Bot. Gaz.","34: 307","","1902",kew-301845
+kew-301868,A,Asparagaceae,,Camassia,,"teapeae",,"","H.St.John",Synonym,,H,WCSP,301868,43776-2,"Fl. S.-E. Washington","88","","1937",kew-301849
+kew-301869,A,Asparagaceae,,Camassia,,"walpolei",,"","(Piper) J.F.Macbr.",Synonym,,H,WCSP,301869,43777-2,"Contr. Gray Herb.","56: 14","","1918",kew-301865

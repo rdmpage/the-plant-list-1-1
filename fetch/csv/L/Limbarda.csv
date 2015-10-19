@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-79114,A,Compositae,,Limbarda,,"arabica",,"","Raf.",Unresolved,,L,TICA,AEF4D5F0-89AF-41F5-BEAB-6ABD0A2A8AEC,230897-1,"Fl. Tellur. ii. 48.","","ii. 48","",
+gcc-48133,A,Compositae,,Limbarda,,"crithmifolia",,"","Raf.",Unresolved,,L,TICA,A58EF831-6CCF-4C24-9940-5935D8F0DD17,230898-1,"Fl. Tellur. ii. 48.","","ii. 48","",
+gcc-81575,A,Compositae,,Limbarda,,"crithmoides",,"","(L.) Dumort.",Accepted,,M,TICA,850F50C5-E3FD-449C-A3D6-70250D36BFB3,230899-1,"","","68","1827",
+gcc-55198,A,Compositae,,Limbarda,,"crithmoides",subsp.,"crithmoides","",Synonym,,L,TICA,558433E7-3CB9-418F-A2DB-741A7ABD6451,,"","","","",gcc-81575
+gcc-53169,A,Compositae,,Limbarda,,"crithmoides",subsp.,"longifolia","(Arcang.) Greuter",Accepted,,L,TICA,BC1B864B-C334-469C-982A-64063FBADDAA,,"","","244","2003",
+gcc-18636,A,Compositae,,Limbarda,,"japonica",,"","(Thunb.) Raf.",Synonym,,M,TICA,AD5E772E-83D5-45DF-9FFC-226EDA568383,,"Fl. Tellur. ii. 48.","","","1836",gcc-119061
+gcc-81901,A,Compositae,,Limbarda,,"pinifolia",,"","Raf.",Unresolved,,L,TICA,076AA612-170C-482C-93F0-70D2BF89C94D,230901-1,"Fl. Tellur. ii. 48.","","ii. 48","",
+gcc-128851,A,Compositae,,Limbarda,,"salsoloides",,"","(Turcz.) Ikonn.",Accepted,,M,TICA,407563AF-E3FA-4BBF-9C16-DAFBBEA72896,230902-1,"Novosti Sist. Vyssh. Rast. 9: 303 (1972).","","303","1972",
+gcc-10412,A,Compositae,,Limbarda,,"tricuspis",,"","Cass.",Unresolved,,L,TICA,6081882E-1A1A-4709-875F-1370D4F588ED,230903-1,"in Dict. Sc. Nat. xxvi. 438.","","xxvi. 438","",

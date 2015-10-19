@@ -1,0 +1,29 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-90249,A,Compositae,,Smallanthus,,"apus",,"","(S.F.Blake) H.Rob.",Unresolved,,L,TICA,B92CDB97-FC71-4808-9F54-838E21E7EE4E,237493-2,"","","49","1978",
+gcc-104127,A,Compositae,,Smallanthus,,"araucariophilus",,"","Mondin",Accepted,,M,TICA,9FCD1EAC-D57D-420E-9B35-A2D36E234344,,"Compositae Newslett. 41: 3 (-4; figs. 2-3). 2004 [29 Dec 2004]","","3","2004",
+gcc-108848,A,Compositae,,Smallanthus,,"connatus",,"","(Spreng.) H.Rob.",Accepted,,M,TICA,80E3638F-96FC-43E5-A474-AD456B994059,237494-2,"","","49","1978",
+tro-2739827,A,Compositae,,Smallanthus,,"fruticosa",,"","(Benth.) H. Rob.",Synonym,,M,TRO,2739827,237495-2,"Phytologia","39(1): 49","49","1978",gcc-142751
+gcc-142751,A,Compositae,,Smallanthus,,"fruticosus",,"","(Benth.) H.Rob.",Accepted,,M,TICA,6E2075BB-B559-45B3-B2D6-FA575B9CC568,237495-2,"","","49","1978",
+gcc-24359,A,Compositae,,Smallanthus,,"glabratus",,"","(DC.) H.Rob.",Accepted,,M,TICA,1658031D-5416-4012-9552-2D0031EC23AE,237496-2,"","","49","1978",
+gcc-40766,A,Compositae,,Smallanthus,,"jelskii",,"","(Hieron.) H.Rob.",Accepted,,M,TICA,B86C7B24-0713-4472-B68B-4B8CDA9C291C,237497-2,"","","49","1978",
+gcc-48688,A,Compositae,,Smallanthus,,"latisquamus",,"","(S.F.Blake) H.Rob.",Synonym,,L,TICA,D268B5A4-B4BC-491C-ACF6-5A35184A7492,237498-2,"","","49","1978",gcc-144284
+gcc-5167,A,Compositae,,Smallanthus,,"lundellii",,"","H.Rob.",Accepted,,M,TICA,D54393D3-B0BA-4E54-BDCB-09A56D1F0349,237499-2,"Phytologia 39","","49","1978",
+gcc-104434,A,Compositae,,Smallanthus,,"macroscyphus",,"","(Baker) A.Grau ex A.A.Sáenz",Unresolved,,L,TICA,AC69A72B-DD8C-41D3-A4D7-A37E07D72849,1013984-2,"""in Zuloaga & Morrone (eds.), Cat. Pl. Vasc. Rep. Arg. 2 (Monogr. Syst. Bot. Missouri Bot. Gard. 74): 1245 (1999):""","","1245","1999",gcc-75834
+gcc-75834,A,Compositae,,Smallanthus,,"macroscyphus",,"","(Baker ex Baker) A.Grau",Accepted,,L,TICA,9A938FA7-AE26-4D6F-B15D-6356F5E592FD,1013984-2,"","","1245","1999",
+gcc-44338,A,Compositae,,Smallanthus,,"maculatus",,"","(Cav.) H.Rob.",Accepted,,M,TICA,73207A3A-A83F-4D1A-A189-521FD97502F0,237500-2,"Phytologia 39","","50","1978",
+gcc-64101,A,Compositae,,Smallanthus,,"maculatus",var.,"maculatus","",Synonym,,L,TICA,546C51AE-4C67-4FDE-880C-BBE96502DF9B,,"Phytologia 39:","","50","1978",gcc-44338
+gcc-132377,A,Compositae,,Smallanthus,,"macvaughii",,"","(J.R.Wells) H.Rob.",Accepted,,M,TICA,12D47A0E-2B6C-42A9-824D-E3234B20E3B6,237501-2,"","","50","1978",
+gcc-125472,A,Compositae,,Smallanthus,,"meridensis",,"","(Steyerm.) H.Rob.",Accepted,,L,TICA,59EDC989-0888-465C-A1D6-D31EE6F107F5,237502-2,"","","51","1978",
+gcc-97500,A,Compositae,,Smallanthus,,"microcephalus",,"","(Hieron.) H.Rob.",Accepted,,M,TICA,98CB8F2B-3F9F-45D9-87B4-94039194F067,237503-2,"","","51","1978",
+gcc-23301,A,Compositae,,Smallanthus,,"oaxacanus",,"","(Sch.Bip. ex Klatt) H.Rob.",Accepted,,M,TICA,779F8023-DDBA-4D2C-97E1-2B1FD2A82C67,237504-2,"Phytologia 39","","51","1978",
+gcc-138989,A,Compositae,,Smallanthus,,"obscurus",,"","B.L.Turner",Accepted,,M,TICA,7CCF0CFA-02C6-4F45-BB3B-F1C551650060,285159-2,"Phytologia 64(6)","","406","1988",
+gcc-96550,A,Compositae,,Smallanthus,,"parviceps",,"","(S.F.Blake) H.Rob.",Accepted,,M,TICA,71635F35-2C12-4B99-82A8-91D507EE70D5,237505-2,"","","51","1978",
+tro-100366783,A,Compositae,,Smallanthus,,"putlanus",,"","B.L. Turner",Unresolved,,L,TRO,100366783,60455022-2,"Phytologia","92(3): 358","358","2010",
+gcc-98220,A,Compositae,,Smallanthus,,"pyramidalis",,"","(Triana) H.Rob.",Accepted,,M,TICA,564C030C-1BE1-432F-881B-959E2BDDA733,237506-2,"","","51","1978",
+gcc-50516,A,Compositae,,Smallanthus,,"quichensis",,"","(J.M.Coult.) H.Rob.",Unresolved,,L,TICA,1F1783B9-0D14-4883-BEE2-5DA5219FB6DD,237507-2,"Phytologia 39","","51","1978",gcc-144284
+gcc-90454,A,Compositae,,Smallanthus,,"riograndensis",,"","Mondin",Accepted,,M,TICA,E91D2FB9-1FA0-44C0-85FD-840E467AA623,,"""Compositae Newslett. 41: 2 (-3; figs. 1,3). 2004 [29 Dec 2004]""","","2","2004",
+gcc-102460,A,Compositae,,Smallanthus,,"riparius",,"","(Kunth) H.Rob.",Accepted,,M,TICA,EA028808-9E6B-4F6C-96CA-9F2CB63E407A,237508-2,"Phytologia 39","","51","1978",
+gcc-103995,A,Compositae,,Smallanthus,,"siegesbeckius",,"","(DC.) H.Rob.",Accepted,,M,TICA,C0A26448-D594-49EE-9354-A285D29A138C,237509-2,"","","51","1978",
+gcc-3810,A,Compositae,,Smallanthus,,"sonchifolius",,"","(Poepp.) H.Rob.",Accepted,,M,TICA,A9AE33F2-0A02-41E1-828B-071816A6F6F2,237510-2,"","","51","1978",
+gcc-77996,A,Compositae,,Smallanthus,,"suffruticosus",,"","(Baker) H.Rob.",Unresolved,,L,TICA,4A4CFF7F-9AA6-4EE8-B8E1-681AA98F4C46,237511-2,"","","51","1978",gcc-897
+gcc-117314,A,Compositae,,Smallanthus,,"uvedalia",,"","(L.) Mack. ex Mack.",Accepted,,L,TICA,234AAC6E-6184-4F45-B417-C0656D36237B,249361-1,"","","1406","1933",

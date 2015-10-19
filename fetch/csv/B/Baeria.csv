@@ -1,0 +1,68 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-28525,A,Compositae,,Baeria,,"affinis",,"","(Nutt.) A.Gray",Synonym,,M,TICA,ED12B981-5211-455D-A9AF-34BC37772497,183914-1,"","","23","1883",gcc-94146
+gcc-14685,A,Compositae,,Baeria,,"anthemoides",,"","(Nutt.) A.Gray",Synonym,,M,TICA,FD54B6BB-DDC3-467A-9EC9-1B3C405A9526,183915-1,"","","23","1883",gcc-94146
+gcc-20505,A,Compositae,,Baeria,,"aristata",,"","Coville",Unresolved,,L,TICA,B69550BA-1B28-4786-8A91-25EC5EBE36B1,28644-2,"Proc. Biol. Soc. Wash. 13: 121. 1899","","121","1899",
+gcc-89616,A,Compositae,,Baeria,,"aristata",,"","(Nutt.) H.M.Hall",Synonym,,M,TICA,6A750A0F-21E2-4ABB-B335-821ADE03CAE9,183916-1,"","","173","1907",gcc-94146
+gcc-9190,A,Compositae,,Baeria,,"aristosa",,"","(A.Gray) Howell",Synonym,,M,TICA,FFC0D71A-FA95-4A27-92A0-113069650A04,28649-2,"","","354","1900",gcc-94146
+gcc-87492,A,Compositae,,Baeria,,"bakeri",,"","J.T.Howell",Synonym,,M,TICA,539A1E00-2EE8-4422-84CB-7D68FD2DC402,28650-2,"Leafl. W. Bot. 1","","7","1932",gcc-53728
+gcc-105038,A,Compositae,,Baeria,,"burkei",,"","Greene",Synonym,,M,TICA,638C4B04-3E69-4F05-9F08-A4C8059D9345,28651-2,"","","151","1886",gcc-102356
+gcc-132718,A,Compositae,,Baeria,,"californica",,"","(Hook.) K.L.Chambers",Synonym,,M,TICA,3B70027F-65F3-433F-9C66-E3E104806A35,28652-2,"Contr. Dudley Herb. 5","","68","1957",gcc-94146
+gcc-78962,A,Compositae,,Baeria,,"carnosa",,"","Greene",Synonym,,M,TICA,96CC4CAE-2775-4830-BE0D-6A6B94A83BF5,183921-1,"","","86","1883",gcc-5521
+gcc-113005,A,Compositae,,Baeria,,"chrysostoma",,"","Fisch. & C.A.Mey.",Synonym,,M,TICA,ED1B5F73-539E-4728-B4B0-B6AE29238E16,28654-2,"","","29","1836",gcc-49162
+gcc-95390,A,Compositae,,Baeria,,"chrysostoma",f.,"aristosa","(A.Gray) H.M.Hall",Synonym,,L,TICA,44805D4D-93A5-4B12-A158-8F382C349CA6,290622-2,"Univ. Calif. Publ. Bot. 3","","171","1907",gcc-49162
+gcc-146789,A,Compositae,,Baeria,,"chrysostoma",f.,"chrysostoma","",Synonym,,L,TICA,4612D9DF-74BC-4AFA-93EC-1FE0064B2DEC,,"","","","",gcc-49162
+gcc-25748,A,Compositae,,Baeria,,"chrysostoma",subsp.,"chrysostoma","",Synonym,,L,TICA,A03580C0-4E85-40C7-AACF-2F925D863B08,,"","","","",gcc-49162
+gcc-61793,A,Compositae,,Baeria,,"chrysostoma",var.,"chrysostoma","",Synonym,,L,TICA,36F81FDB-8346-440A-A700-A97D001BF587,,"","","","",gcc-49162
+gcc-134740,A,Compositae,,Baeria,,"chrysostoma",f.,"clementina","(A.Gray) H.M.Hall",Synonym,,L,TICA,2E19B9CF-EDE4-4986-829F-E86DFB610D31,290621-2,"Univ. Calif. Publ. Bot. 3","","171","1907",gcc-49162
+gcc-131458,A,Compositae,,Baeria,,"chrysostoma",f.,"crassa","H.M.Hall",Synonym,,L,TICA,2CA4A65B-412D-4025-9B7E-E0EB624EC08F,306879-2,"Univ. Calif. Publ. Bot. 3","","172","1907",gcc-49162
+gcc-106885,A,Compositae,,Baeria,,"chrysostoma",f.,"curta","(A.Gray) H.M.Hall",Synonym,,L,TICA,7BCD160B-B9B7-4A43-8E1D-A8D9F3957FCC,28657-2,"Univ. Calif. Publ. Bot. 3","","172","1907",gcc-49162
+gcc-57631,A,Compositae,,Baeria,,"chrysostoma",var.,"gracilis","(DC.) H.M.Hall",Synonym,,L,TICA,092DB5D4-B0FB-40D4-BEA7-87E2A3EEDD01,28656-2,"University of California Publications in Botany 3(1):","","170","1907",gcc-49162
+gcc-64350,A,Compositae,,Baeria,,"chrysostoma",subsp.,"gracilis","(DC.) Ferris",Synonym,,L,TICA,58F94D32-B8D4-4502-9C76-BDD525DF6C52,28655-2,"Contr. Dudley Herb. 5","","100","1958",gcc-49162
+gcc-59691,A,Compositae,,Baeria,,"chrysostoma",subsp.,"hirsutula","(Greene) Ferris",Synonym,,L,TICA,F257ED38-2C59-488C-8D5D-987E4DB2F461,28658-2,"Contr. Dudley Herb. 5","","99","1958",gcc-49162
+gcc-116821,A,Compositae,,Baeria,,"chrysostoma",f.,"nuda","H.M.Hall",Synonym,,L,TICA,DC1D53DE-54FD-4349-A880-BF4C63A598D7,305779-2,"Univ. Calif. Publ. Bot. 3","","170","1907",gcc-49162
+gcc-83725,A,Compositae,,Baeria,,"chrysostoma",f.,"paleacea","(A.Gray) H.M.Hall",Synonym,,L,TICA,86FA91F9-7C86-44E2-B0C7-74E5742132B1,290620-2,"Univ. Calif. Publ. Bot. 3","","171","1907",gcc-49162
+gcc-63774,A,Compositae,,Baeria,,"chrysostoma",var.,"palmeri","(A.Gray) J.T.Howell",Synonym,,L,TICA,F04126D2-2E36-45B7-A64A-B96700ADF5C1,28660-2,"Leafl. W. Bot. 3","","152","1942",gcc-49162
+gcc-125904,A,Compositae,,Baeria,,"chrysostoma",f.,"tenerrima","(DC.) H.M.Hall",Synonym,,L,TICA,329B0D39-9AE6-4383-8632-D41FD3D398FA,290619-2,"Univ. Calif. Publ. Bot. 3","","171","1907",gcc-49162
+gcc-9073,A,Compositae,,Baeria,,"clevelandi",,"","A.Gray",Unresolved,,L,TICA,38AA30E5-2074-4D31-8050-10F64D05B567,322402-2,"Proc. Amer. Acad. Arts 19","","22","1883",
+gcc-80302,A,Compositae,,Baeria,,"consanguinea",,"","Greene",Unresolved,,L,TICA,6BB4330B-D929-44FB-9004-6D50E91C1C2B,28661-2,"Pittonia 1","","284","1889",
+gcc-42520,A,Compositae,,Baeria,,"coronaria",,"","(Nutt.) A.Gray",Synonym,,M,TICA,58E70CAC-8239-4E0B-A18D-4EC0B1E56787,183925-1,"","","23","1883",gcc-94146
+gcc-120115,A,Compositae,,Baeria,,"coronaria",f.,"anthemoides","(Nutt.) Voss",Synonym,,L,TICA,67FAC5B6-87EB-40E3-A2A7-C6C0DD6A018D,28662-2,"","","494","1894",gcc-94146
+gcc-151046,A,Compositae,,Baeria,,"coronaria",f.,"coronaria","",Synonym,,L,TICA,F72FEFDC-4689-4202-8A05-7C0F78163473,,"","","","",gcc-94146
+gcc-108782,A,Compositae,,Baeria,,"coronaria",f.,"mutica","(Nutt.) Voss",Synonym,,L,TICA,D60C9349-ECAE-458E-9C9B-AD2680246495,28663-2,"","","494","1894",gcc-140402
+gcc-112996,A,Compositae,,Baeria,,"curta",,"","A.Gray",Synonym,,M,TICA,9453E40C-A9E9-4374-999E-B6A9C6191732,28664-2,"Proc. Amer. Acad. Arts 19","","21","1883",gcc-49162
+gcc-135554,A,Compositae,,Baeria,,"debilis",,"","Greene ex A.Gray",Synonym,,M,TICA,025448FD-C609-4B23-94A4-EA427F63E107,183927-1,"","","325","1884",gcc-42608
+gcc-125478,A,Compositae,,Baeria,,"fremontii",,"","(Torr. ex A.Gray) A.Gray",Synonym,,M,TICA,8568F67B-0512-47C3-8190-D323D4276F6B,,"","","196","",gcc-43716
+gcc-60606,A,Compositae,,Baeria,,"fremontii",var.,"conjugens","(Greene) Ferris",Synonym,,L,TICA,7844D039-6EB8-409C-A98F-9FA0123FE051,28667-2,"Contr. Dudley Herb. 5","","100","1958",gcc-139116
+gcc-57183,A,Compositae,,Baeria,,"fremontii",var.,"fremontii","",Synonym,,L,TICA,34EFD351-A8FB-4983-96FA-846D979967BD,,"","","","",gcc-43716
+gcc-33575,A,Compositae,,Baeria,,"fremontii",var.,"heterochaeta","Hoover",Synonym,,L,TICA,0D7BD9C9-5D07-4A2D-B79C-3E4142F68CA0,28668-2,"Leafl. W. Bot. 1","","229","1936",gcc-43716
+gcc-86608,A,Compositae,,Baeria,,"gracilis",,"","(DC.) A.Gray",Synonym,,M,TICA,7BF6E615-FD60-43C8-805E-7B49F59B63C1,28669-2,"Proc. Amer. Acad. Arts 9","","196","1874",gcc-49502
+gcc-69547,A,Compositae,,Baeria,,"gracilis",var.,"aristosa","A.Gray",Synonym,,L,TICA,3F1431E3-419B-4162-BB4A-E73E455DFCB1,28670-2,"Proc. Amer. Acad. Arts 19","","21","1883",gcc-49162
+gcc-61338,A,Compositae,,Baeria,,"gracilis",var.,"gracilis","",Synonym,,L,TICA,4FAB91AC-FEBC-47C0-98BE-A5C394475967,,"","","","",gcc-49502
+gcc-55121,A,Compositae,,Baeria,,"gracilis",var.,"paleacea","A.Gray",Synonym,,L,TICA,F824AA36-D071-4409-AE73-738A315535FC,28671-2,"Proc. Amer. Acad. Arts 19","","21","1883",gcc-49162
+gcc-59881,A,Compositae,,Baeria,,"gracilis",var.,"tenerrima","(DC.) A.Gray",Synonym,,L,TICA,D0FA6D84-0E90-4106-8931-9A0B5BCD1ABB,28672-2,"","","326","1884",gcc-49162
+gcc-43179,A,Compositae,,Baeria,,"hirsutula",,"","(Greene) Greene",Synonym,,M,TICA,8F65FD49-6210-4A29-BBAF-500416DC3AE7,28673-2,"Fl. Francisc.","","438","1897",gcc-49162
+gcc-100649,A,Compositae,,Baeria,,"leptalea",,"","(A.Gray) A.Gray",Synonym,,M,TICA,6CAA6629-9CE2-423A-958D-9B17A0351C7D,1107551-2,"Syn. Fl. N. Amer. 1(2)","","325","1884",gcc-128045
+gcc-75347,A,Compositae,,Baeria,,"macrantha",,"","(A.Gray) A.Gray",Synonym,,M,TICA,8F90FB86-C38C-4D50-A3B9-623D6F8C6C04,28674-2,"Proc. Amer. Acad. Arts 19","","21","1883",gcc-56774
+gcc-61777,A,Compositae,,Baeria,,"macrantha",var.,"bakeri","(J.T.Howell) D.D.Keck",Synonym,,L,TICA,99C37278-2B2B-4ABC-AC78-A964F01CED31,28675-2,"Aliso 4","","101","1958",gcc-53728
+gcc-63767,A,Compositae,,Baeria,,"macrantha",var.,"macrantha","",Synonym,,L,TICA,56858E7B-1DA3-43FF-A142-B95771851A07,,"","","","1883",gcc-56774
+gcc-56812,A,Compositae,,Baeria,,"macrantha",var.,"pauciaristata","A.Gray",Synonym,,L,TICA,01B1C3BD-01FD-4CB2-BF52-81609F84342E,28677-2,"Proc. Amer. Acad. Arts 19","","21","1883",gcc-56774
+gcc-53160,A,Compositae,,Baeria,,"macrantha",var.,"thalassophila","J.T.Howell",Synonym,,L,TICA,F709C818-D44E-4033-A9C1-63F21E4470D5,28678-2,"Leafl. W. Bot. 5","","108","1948",gcc-56774
+gcc-137747,A,Compositae,,Baeria,,"maritima",,"","(A.Gray) A.Gray",Synonym,,L,TICA,73B43A15-8663-41A8-A841-EF1DB0106FA1,1202194-2,"","","196","1874",gcc-46447
+gcc-16926,A,Compositae,,Baeria,,"microglossa",,"","(DC.) Greene",Synonym,,M,TICA,FEE1DED1-3223-4720-BB1A-1F42708AE88E,28680-2,"Fl. Francisc.","","438","1897",gcc-115294
+gcc-44366,A,Compositae,,Baeria,,"minor",,"","(DC.) Ferris",Synonym,,L,TICA,1303F61E-C8D2-4C3F-A242-522EBF534046,28681-2,"Contr. Dudley Herb. 4","","332","1955",gcc-140874
+gcc-56230,A,Compositae,,Baeria,,"minor",subsp.,"maritima","(A.Gray) Ferris",Synonym,,L,TICA,88805CBD-7C69-4B7E-B2A1-7CC107E1A995,,"Contributions from the Dudley Herbarium 4(8):","","334","1955",gcc-46447
+gcc-61425,A,Compositae,,Baeria,,"minor",subsp.,"maritima","(A.Gray) J.T.Howell",Synonym,,L,TICA,C350BB7A-75B1-456B-89A5-A66E509BD2FD,28682-2,"Contr. Dudley Herb. 4","","334","1955",gcc-29327
+gcc-54006,A,Compositae,,Baeria,,"minor",subsp.,"minor","",Synonym,,L,TICA,C223D9CB-3B93-4BCF-B89C-6A8AE1B17E36,,"","","","",gcc-140874
+gcc-46331,A,Compositae,,Baeria,,"mutica",,"","(Nutt.) A.Gray",Synonym,,L,TICA,034EF6BC-DBEC-421E-AC43-55DFE2628C50,183936-1,"","","23","1883",gcc-140402
+gcc-6751,A,Compositae,,Baeria,,"palmeri",,"","A.Gray",Synonym,,M,TICA,AA905FEC-91DC-4E1F-955A-0C85ABD5086B,28683-2,"Bot. California 1","","376","1876",gcc-49162
+gcc-32409,A,Compositae,,Baeria,,"palmeri",var.,"clementina","A.Gray",Synonym,,L,TICA,4E36EDD0-DE31-457D-882C-3C1456107AD8,28684-2,"","","452","1886",gcc-49162
+gcc-145992,A,Compositae,,Baeria,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,F0B80687-93BE-4C71-987C-0F6218037849,,"","","","",gcc-49162
+gcc-144083,A,Compositae,,Baeria,,"parishii",,"","S.Watson",Synonym,,M,TICA,64DF085E-2037-436B-811E-FD518FBF4C44,28685-2,"Proc. Amer. Acad. Arts 24","","83","1889",gcc-94146
+gcc-31671,A,Compositae,,Baeria,,"platycarpha",,"","(A.Gray) A.Gray",Synonym,,M,TICA,7E7A4507-22CA-4E5E-88C0-3AB2D4AA8BF8,183939-1,"","","196","1874",gcc-22557
+gcc-106445,A,Compositae,,Baeria,,"tenella",,"","(Nutt.) Greene",Synonym,Illegitimate,L,TICA,BA9BADAC-96C4-473B-BF78-A7D00F608DB2,28687-2,"Fl. Francisc.","","439","1897",gcc-140874
+gcc-119108,A,Compositae,,Baeria,,"tenella",,"","(Nutt.) A.Gray",Synonym,,M,TICA,01CB91B2-6B73-4ABB-8E09-C478F37A95C1,183940-1,"","","23","1883",gcc-114261
+gcc-81487,A,Compositae,,Baeria,,"tenerrima",,"","(DC.) A.Gray",Synonym,,M,TICA,489489C8-20CC-4ABB-9102-6FEF86A06EBB,1208274-2,"Proc. Amer. Acad. Arts 9","","196","1874",gcc-49162
+gcc-107698,A,Compositae,,Baeria,,"uliginosa",,"","(Nutt.) A.Gray",Synonym,,L,TICA,A45A23CD-AF4D-4CD6-A398-AAACE3F6A81E,183943-1,"","","196","1874",gcc-140874
+gcc-53316,A,Compositae,,Baeria,,"uliginosa",var.,"tenella","(Nutt.) A.Gray",Synonym,,L,TICA,0664D5AC-7B27-45A3-B1FB-65460E58BCE7,28689-2,"Proc. Amer. Acad. Arts 9","","197","1874",gcc-114261
+gcc-72059,A,Compositae,,Baeria,,"uliginosa",var.,"tenera","A.Gray",Synonym,,L,TICA,AA65C611-E901-47B9-8502-FAFCFF381234,28690-2,"Proc. Amer. Acad. Arts 19","","22","1883",gcc-140874
+gcc-150082,A,Compositae,,Baeria,,"uliginosa",var.,"uliginosa","",Synonym,,L,TICA,ACED2BB7-7F0B-4361-9B36-66B89BBE7348,,"","","","",gcc-140874

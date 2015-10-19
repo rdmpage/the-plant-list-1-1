@@ -1,0 +1,71 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-90781,A,Compositae,,Stobaea,,"acanthopoda",,"","DC.",Synonym,,M,TICA,2A5D025C-76ED-49A2-967C-84E097FA39E7,,"Prodr. (DC.) 6: 521","","521","",gcc-90840
+gcc-10364,A,Compositae,,Stobaea,,"acarnoides",,"","DC.",Synonym,,M,TICA,E9CC3579-F308-4299-96FD-135F12ACEC0C,251700-1,"Prodr. (DC.) 6: 519","","519","1838",gcc-33354
+gcc-40296,A,Compositae,,Stobaea,,"adenocarpa",,"","DC.",Accepted,,M,TICA,3EB349A7-D945-4880-BD6D-4AB564C585B1,251701-1,"Prodr. (DC.) 6: 515","","515","1838",
+gcc-152405,A,Compositae,,Stobaea,,"adenocarpa",var.,"adenocarpa","",Synonym,,L,TICA,CDC7476F-8A4A-4A30-8627-98FA02F54ACE,,"","","","",gcc-40296
+gcc-79547,A,Compositae,,Stobaea,,"aristosa",,"","DC.",Synonym,,M,TICA,3338CC5B-2F65-493B-8DFF-6BACA4A5B8A9,251702-1,"Prodr. (DC.) 6: 518","","518","1838",gcc-30743
+gcc-125417,A,Compositae,,Stobaea,,"atractyloides",,"","Thunb.",Accepted,,M,TICA,49C26E85-ABEF-4597-96C8-D30070DCDF8C,251703-1,"Prodr. Pl. Cap. 141.","","141","",
+gcc-149134,A,Compositae,,Stobaea,,"atractyloides",var.,"atractyloides","",Synonym,,L,TICA,176FC8A0-83C6-4B4B-BB82-5237CAD00EDC,,"","","","",gcc-125417
+gcc-64949,A,Compositae,,Stobaea,,"atractyloides",var.,"carlinoides","(Thunb.) DC.",Synonym,,L,TICA,B97EBC5F-4F05-470A-BFC1-C27EB416C8E0,,"","","","",gcc-66337
+gcc-107977,A,Compositae,,Stobaea,,"bergeri",,"","DC.",Unresolved,,L,TICA,4929033B-FDC7-4294-93DC-AB5267A1D9FE,251704-1,"""Prodr. (DC.) 7(1): 37, sphalm.""","","37","1838",
+gcc-9334,A,Compositae,,Stobaea,,"bergii",,"","Spreng.",Unresolved,,L,TICA,5192C538-2296-4D84-AEC1-116A1F2DBF5E,251705-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 394","","394","1826",
+gcc-127012,A,Compositae,,Stobaea,,"biloba",,"","DC.",Synonym,,M,TICA,FF8C6FDC-FC9E-4A4F-8ED2-D6A00BD61A0D,251706-1,"Prodr. (DC.) 6: 516","","516","1838",gcc-81964
+gcc-142507,A,Compositae,,Stobaea,,"bipinnatifida",,"","Harv.",Synonym,,M,TICA,6CC97E3D-12BD-4623-9EEC-F9C176BFCC9B,251707-1,"Fl. Cap. (Harvey) iii. 499","","499","1865",gcc-95876
+gcc-40484,A,Compositae,,Stobaea,,"buphthalmoides",,"","DC.",Synonym,,L,TICA,DDB86182-A76F-4E46-B447-4B073C5A4D52,251708-1,"Prodr. (DC.) 6: 517","","517","1838",gcc-95574
+gcc-151337,A,Compositae,,Stobaea,,"buphthalmoides",var.,"buphthalmoides","",Synonym,,L,TICA,E5539DA2-3D42-4B22-96E8-827E8CD45F75,,"","","","",gcc-95574
+gcc-13858,A,Compositae,,Stobaea,,"cardopatifolia",,"","DC.",Synonym,,M,TICA,D5212BE9-56A0-4037-BBE9-19C31315B2E5,,"Prodr. (DC.) 6: 514","","514","",gcc-77925
+gcc-44055,A,Compositae,,Stobaea,,"carlinaefolia",,"","DC.",Synonym,,M,TICA,2E624668-520E-48FA-A736-5193B64D96A3,,"Prodr. (DC.) 6: 516","","516","",gcc-132902
+gcc-103565,A,Compositae,,Stobaea,,"carlinoides",,"","Thunb.",Synonym,,M,TICA,554C82B6-8985-4E65-B220-A18CE5B0B52D,251711-1,"Prodr. Pl. Cap. 141.","","141","1800",gcc-66337
+gcc-122889,A,Compositae,,Stobaea,,"carlinoides",,"","E.Mey. ex DC.",Unresolved,,L,TICA,E42D4622-B3A9-43CA-B2AC-CD0D0E14CD36,251712-1,"Prodr. (DC.) 6: 516","","516","1838",
+gcc-112675,A,Compositae,,Stobaea,,"cirsiifolia",,"","DC.",Synonym,,M,TICA,4C1B0099-AA45-4033-A56D-B5F9060DDAC2,251713-1,"Prodr. (DC.) 6: 519","","519","1838",gcc-33358
+gcc-37690,A,Compositae,,Stobaea,,"crispa",,"","DC.",Unresolved,,L,TICA,E5FB9686-3077-49DC-994C-45E55FA3EC2F,251714-1,"Prodr. (DC.) 6: 517","","517","1838",
+gcc-101670,A,Compositae,,Stobaea,,"cruciata",,"","(Houtt.) Harv.",Synonym,,M,TICA,F9770442-C552-43AC-8C76-9D4D5C58CE37,,"Fl. Cap. (Harvey) iii. 498","","498","",gcc-138357
+gcc-107351,A,Compositae,,Stobaea,,"decurrens",,"","Thunb.",Unresolved,,L,TICA,059ACA19-7706-4AD4-B570-A9E3230722EF,251716-1,"Prodr. Pl. Cap. 141.","","141","",
+gcc-25954,A,Compositae,,Stobaea,,"discolor",,"","DC.",Synonym,,M,TICA,219F11C9-4CD8-4F87-B934-2FF5969079D2,251717-1,"Prodr. (DC.) 6: 520","","520","1838",gcc-33354
+gcc-96948,A,Compositae,,Stobaea,,"echinacea",,"","Harv.",Synonym,,M,TICA,384D99ED-AE7A-4D27-B93B-92B802507BDF,251718-1,"Fl. Cap. (Harvey) iii. 495","","495","1865",gcc-108336
+gcc-11462,A,Compositae,,Stobaea,,"echinopoda",,"","DC.",Synonym,,M,TICA,D4826B92-A534-479D-ADCC-1566E979E08C,251719-1,"Prodr. (DC.) 6: 521","","521","1838",gcc-88197
+gcc-108357,A,Compositae,,Stobaea,,"epitrachys",,"","DC.",Synonym,,M,TICA,EC7CF662-CE94-4BFD-8747-AC1A63BB450A,251720-1,"Prodr. (DC.) 6: 515","","515","1838",gcc-3584
+gcc-139470,A,Compositae,,Stobaea,,"eriobasis",,"","DC.",Synonym,,M,TICA,83D703A1-51E2-4A33-B3A6-F2CBB4BD5595,251721-1,"Prodr. (DC.) 6: 516","","516","1838",gcc-139177
+gcc-141284,A,Compositae,,Stobaea,,"erysithales",,"","DC.",Synonym,,M,TICA,FF628599-A6C8-4D8E-A333-F70A44691947,,"Prodr. (DC.) 6: 519","","519","",gcc-50763
+gcc-85572,A,Compositae,,Stobaea,,"erysithalis",,"","St.-Lag.",Unresolved,,L,TICA,C505D2B1-E403-40AF-859C-78F89019409D,,"Ann. Soc. Bot. Lyon vii. (1880) 135","","135","",
+gcc-35353,A,Compositae,,Stobaea,,"gaertneri",,"","DC.",Accepted,,M,TICA,BE9A7149-0B80-4FE3-A3A0-418C9B044B57,251724-1,"Prodr. (DC.) 6: 522","","522","1838",
+gcc-33473,A,Compositae,,Stobaea,,"gerrardii",,"","Harv.",Synonym,,M,TICA,80B82EB3-428E-4632-A9E9-3E13E9DC0333,251725-1,"Fl. Cap. (Harvey) iii. 495","","495","1865",gcc-108336
+gcc-136447,A,Compositae,,Stobaea,,"glabrata",,"","Thunb.",Synonym,,M,TICA,909BE6CF-D956-4444-A0AA-EC3E076F246C,251727-1,"Prodr. Pl. Cap. 141.","","141","",gcc-43773
+gcc-84173,A,Compositae,,Stobaea,,"glabrata",,"","alam. ex DC.",Unresolved,,L,TICA,23EC7939-8516-4C4D-815B-75F3FCE034E5,251726-1,"Prodr. (DC.) 5: 660","","660","1836",
+gcc-34296,A,Compositae,,Stobaea,,"glabriuscula",,"","DC.",Synonym,,M,TICA,F725D304-3153-4F8E-B891-3F91A5F96702,251728-1,"Prodr. (DC.) 6: 519","","519","1838",gcc-88197
+gcc-42059,A,Compositae,,Stobaea,,"glauca",,"","DC.",Unresolved,,L,TICA,058A5015-0B8A-44C6-99CA-4DEA66A54A40,251729-1,"Prodr. (DC.) 6: 516","","516","1838",
+gcc-131447,A,Compositae,,Stobaea,,"glomerata",,"","(Thunb.) Spreng.",Synonym,,M,TICA,D8D6B85A-BB03-45B7-9DC3-E0E54297DC6E,251730-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 394","","394","1826",gcc-11096
+gcc-138762,A,Compositae,,Stobaea,,"grandifolia",,"","DC.",Synonym,,M,TICA,38853649-38AA-49B0-AF9E-F15170E4F1D3,251731-1,"Prodr. (DC.) 6: 517","","517","1838",gcc-87219
+gcc-130890,A,Compositae,,Stobaea,,"helianthiflora",,"","DC.",Synonym,,M,TICA,E8D8A7BD-0D44-434F-ABCC-DF944A172216,251732-1,"Prodr. (DC.) 6: 520","","520","1838",gcc-88197
+gcc-84252,A,Compositae,,Stobaea,,"heterophylla",,"","Thunb.",Synonym,,M,TICA,25161579-9BE0-4026-A767-761DD7B1976F,251733-1,"","","141","1800",gcc-81964
+gcc-151060,A,Compositae,,Stobaea,,"heterophylla",var.,"heterophylla","",Synonym,,L,TICA,E0200A67-B034-43F9-B8C5-7C722D3D4D03,,"","","","",gcc-81964
+gcc-64503,A,Compositae,,Stobaea,,"heterophylla",var.,"radiata","DC.",Synonym,,L,TICA,B44D9E7A-8516-4362-95B8-BF1531029B2E,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","517","1838",gcc-61660
+gcc-131935,A,Compositae,,Stobaea,,"insignis",,"","Harv.",Synonym,,M,TICA,BBC9EF03-DA04-4146-8469-E2167C5B9B1B,,"Fl. Cap. (Harvey) iii. 496","","496","",gcc-1504
+gcc-18224,A,Compositae,,Stobaea,,"kraussii",,"","Sch.Bip.",Unresolved,Invalid,L,TICA,0B733816-CD4E-4AD1-94B3-21B0209FA473,251735-1,"Flora 27: 776. 1844","","776","1844",
+gcc-136867,A,Compositae,,Stobaea,,"lanata",,"","Thunb.",Unresolved,,L,TICA,E8F2EDD3-9A41-4376-886B-ED34D6D35A7E,251736-1,"Prodr. Pl. Cap. 141.","","141","",
+gcc-94432,A,Compositae,,Stobaea,,"mackenii",,"","Harv.",Synonym,,M,TICA,B6D95D74-64E4-4016-A2BB-8CF12E811986,,"","","","",gcc-129218
+gcc-23956,A,Compositae,,Stobaea,,"membranifolia",,"","DC.",Synonym,,M,TICA,0F41914C-2D8A-4EF6-9833-2C474BD6D733,251737-1,"Prodr. (DC.) 6: 521","","521","1838",gcc-88197
+gcc-5512,A,Compositae,,Stobaea,,"microcephala",,"","DC.",Synonym,,M,TICA,73360031-CF84-4883-AC18-0A44AF59F987,251738-1,"Prodr. (DC.) 6: 520","","520","1838",gcc-33354
+gcc-129028,A,Compositae,,Stobaea,,"mkenii",,"","Harv.",Synonym,,M,TICA,3CFACFD7-F85D-46C5-A6F8-DB58B8946EE1,251739-1,"Fl. Cap. (Harvey) iii. 494","","494","1865",gcc-102094
+gcc-41641,A,Compositae,,Stobaea,,"multijuga",,"","DC.",Synonym,,M,TICA,131DB55B-DB80-4970-962B-4D1B33AA7E35,251740-1,"Prodr. (DC.) 6: 521","","521","1838",gcc-87219
+gcc-101981,A,Compositae,,Stobaea,,"onobromoides",,"","DC.",Synonym,,M,TICA,9B4F54BF-5212-48EF-B0EA-9E04BCDA377D,251741-1,"Prodr. (DC.) 6: 516","","516","1838",gcc-131060
+gcc-133693,A,Compositae,,Stobaea,,"onopordifolia",,"","DC.",Synonym,,M,TICA,19B9E50D-0015-4753-B9AC-E61695882781,251742-1,"Prodr. (DC.) 6: 521","","521","1838",gcc-82394
+gcc-79154,A,Compositae,,Stobaea,,"oppositifolia",,"","DC.",Synonym,,M,TICA,733E302A-B43B-4EB0-8928-6AD2FC7E9B99,251743-1,"Prodr. (DC.) 6: 517","","517","1838",gcc-15755
+gcc-131028,A,Compositae,,Stobaea,,"petiolata",,"","DC.",Synonym,,M,TICA,D144CC48-C16C-46FF-A553-DFEA71609C48,,"Prodr. (DC.) 6: 520","","","1838",gcc-88197
+gcc-47225,A,Compositae,,Stobaea,,"pinnata",,"","Thunb.",Synonym,,M,TICA,1ED402DA-413B-47EC-BB97-577811A297F0,251745-1,"Prodr. Pl. Cap. 141.","","141","",gcc-3492
+gcc-35899,A,Compositae,,Stobaea,,"pinnatifida",,"","Thunb.",Synonym,,M,TICA,FD075FBF-3D70-49EE-9186-42937C9DBCB2,251746-1,"","","141","1800",gcc-3584
+gcc-18615,A,Compositae,,Stobaea,,"platyptera",,"","Harv.",Synonym,,M,TICA,B740508F-37FA-4755-A0D4-2267206E9174,251747-1,"Fl. Cap. (Harvey) iii. 495","","495","1865",gcc-65161
+gcc-129615,A,Compositae,,Stobaea,,"polyacantha",,"","DC.",Synonym,,M,TICA,D98A3338-4DFB-428E-A52A-DCA9259EA803,251748-1,"Prodr. (DC.) 6: 519","","519","1838",gcc-88197
+gcc-1725,A,Compositae,,Stobaea,,"purpurea",,"","DC.",Synonym,,M,TICA,80B010F3-EFC1-41A6-A126-031C6B136F70,251749-1,"Prodr. (DC.) 6: 518","","518","1838",gcc-76752
+gcc-98472,A,Compositae,,Stobaea,,"radula",,"","Harv.",Synonym,,M,TICA,E834EC12-24E4-49F1-85F1-9637B5C4E0A2,251750-1,"Fl. Cap. (Harvey) iii. 491","","491","1865",gcc-112816
+gcc-87368,A,Compositae,,Stobaea,,"rhapontica",,"","DC.",Synonym,,M,TICA,E629EA61-B3F0-43C1-A837-7D21455CF72F,,"Prodr. (DC.) 6: 519","","519","",gcc-144780
+gcc-116605,A,Compositae,,Stobaea,,"rigida",,"","Thunb.",Synonym,,M,TICA,F2E9507D-9FCB-417D-9C30-BEC8C67502D6,251752-1,"","","","1800",gcc-44174
+gcc-81326,A,Compositae,,Stobaea,,"rubricaulis",,"","DC.",Unresolved,,L,TICA,F2A49126-0CF3-4D16-B491-6F8EBAFBF46C,251753-1,"Prodr. (DC.) 6: 515","","515","1838",
+gcc-89620,A,Compositae,,Stobaea,,"scolymoides",,"","DC.",Synonym,,M,TICA,C9163BA3-9F90-4AB1-8457-821BA3CD3F15,251754-1,"Prodr. (DC.) 6: 520","","520","1838",gcc-88197
+gcc-79153,A,Compositae,,Stobaea,,"seminivea",,"","DC.",Synonym,,M,TICA,B7009E8C-FFFE-48B9-9683-6AD2DE419B75,,"Prodr. (DC.) 6: 518","","518","",gcc-95876
+gcc-4856,A,Compositae,,Stobaea,,"sonchifolia",,"","Harv.",Synonym,,M,TICA,E324F12B-8A7E-433C-9EA3-090AC16BC2B8,251756-1,"Fl. Cap. (Harvey) iii. 496","","496","1865",gcc-50763
+gcc-113290,A,Compositae,,Stobaea,,"speciosa",,"","DC.",Synonym,,M,TICA,35857D9D-8129-4ADD-A679-B74BFF9A89A9,,"Prodr. (DC.) 6: 518","","","1838",gcc-124310
+gcc-135216,A,Compositae,,Stobaea,,"sphaerocephala",,"","DC.",Synonym,,M,TICA,D9EC6790-FDAE-4AEE-A3CB-E97CBC3FF008,251758-1,"Prodr. (DC.) 6: 518","","518","1838",gcc-115460
+gcc-28294,A,Compositae,,Stobaea,,"viscosa",,"","DC.",Synonym,,M,TICA,A933305C-BC61-4C3F-86A8-3446ED841D3C,251759-1,"Prodr. (DC.) 6: 517","","517","1838",gcc-97332
+gcc-113194,A,Compositae,,Stobaea,,"zeyheri",,"","DC.",Unresolved,,L,TICA,D0DE3B60-85BB-4316-AFC6-B7171790A843,251761-1,"Prodr. (DC.) 6: 515","","515","1838",
+gcc-83358,A,Compositae,,Stobaea,,"zeyheri",,"","Sond. & Harv.",Synonym,Illegitimate,M,TICA,A30B15DE-F397-4E89-9430-7418D9B8154C,251760-1,"Fl. Cap. iii. 496","","496","1865",gcc-85530

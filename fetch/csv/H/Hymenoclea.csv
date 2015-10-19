@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33287,A,Compositae,,Hymenoclea,,"fasciculata",,"","A.Nelson",Synonym,,M,TICA,E6F4EA12-84C9-4892-AF2E-3DB7D98E28E5,125595-2,"","","270","1904",gcc-132393
+gcc-56262,A,Compositae,,Hymenoclea,,"fasciculata",var.,"fasciculata","",Synonym,,L,TICA,F5810FCE-AE8B-4FCA-ACDE-7D085DC27B0F,,"","","","1909",gcc-132393
+gcc-39427,A,Compositae,,Hymenoclea,,"hemidioica",,"","A.Nelson",Unresolved,,L,TICA,A1943937-2F20-4FBA-918F-4927E3AD53A4,125597-2,"","","117","1938",
+gcc-113754,A,Compositae,,Hymenoclea,,"monogyra",,"","Torr. & A.Gray",Synonym,,M,TICA,E2C55330-A6AB-466D-978B-B8576CBE3C32,,"","","","1849",gcc-39187
+gcc-98783,A,Compositae,,Hymenoclea,,"monogyra",,"","Torr. & A.Gray ex A.Gray",Synonym,,M,TICA,64B8D68E-4144-4C43-B9E4-96DBD8E72477,,"","","","",gcc-39187
+gcc-7342,A,Compositae,,Hymenoclea,,"pentalepis",,"","Rydb.",Synonym,,M,TICA,4E309835-3DE8-481F-8B8C-0DA917CB1BF7,125598-2,"","","14","1922",gcc-132393
+gcc-24796,A,Compositae,,Hymenoclea,,"platyspina",,"","Seaman",Unresolved,Illegitimate,L,TICA,675E5CF7-03E3-4B64-A369-2DD44A655C91,125599-2,"","","111","1975",gcc-114691
+tro-50244633,A,Compositae,,Hymenoclea,×,"platyspina",,"","Seaman (pro sp.)",Synonym,,L,TRO,50244633,,"Madroño","23: 111","111","1975",gcc-114691
+gcc-139790,A,Compositae,,Hymenoclea,,"salsola",,"","Torr. & A.Gray ex Torr. & A.Gray",Synonym,,M,TICA,ED369CA8-1DF5-4D51-AAA3-F38443292EDA,,"","","79","1849",gcc-132393
+gcc-60998,A,Compositae,,Hymenoclea,,"salsola",var.,"fasciculata","(Nelson) K.M.Peterson & W.W.Payne",Unresolved,,L,TICA,D9E54615-224A-4D3F-9711-A2FEAEE59CBB,877477-1,"""Brittonia 25(3): 255 (1973), contrary to Art. 26.""","","","",gcc-132393
+gcc-10954,A,Compositae,,Hymenoclea,,"salsola",var.,"patula","(A.Nelson) K.M.Peterson & W.W.Payne",Unresolved,,L,TICA,3FF2BE5B-6D55-4B1D-8F81-14788815562F,877478-1,"Brittonia 26(4): 397 (1974).","","397","1974",gcc-132393
+gcc-22741,A,Compositae,,Hymenoclea,,"salsola",var.,"pentalepis","(Rydb.) L.D.Benson",Synonym,,L,TICA,9EA40B98-1789-4440-8D24-2A14ACA056C0,,"Amer. J. Bot. 30: 631. 1943","","","1943",gcc-132393
+gcc-49597,A,Compositae,,Hymenoclea,,"salsola",var.,"salsola","",Synonym,,L,TICA,251658D1-A18A-4BD1-A619-5BEC7035C9A5,,"","","","",gcc-132393
+gcc-85020,A,Compositae,,Hymenoclea,,"sandersonii",,"","(S.L.Welsh) N.H.Holmgren",Accepted,,M,TICA,921F6651-DA53-4D76-8A93-77BDBB98B5CE,979402-1,"""in A. Cronquist, Intermountain Fl., Vasc. Pl. Intermountain West, U.S.A., 5: 473 (1994):.""","","473","1994",
+gcc-97116,A,Compositae,,Hymenoclea,,"sandersonii",,"","S.L.Welsh",Unresolved,,L,TICA,DC7CA3FF-5448-4534-8968-9323A523D349,1022727-2,"Intermount. Fl. 5: 473. 1994","","473","1994",

@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-130576,A,Compositae,,Zoegea,,"aleppica",,"","Jacq.",Unresolved,,L,TICA,0BDB855A-4C7F-47A2-B684-DEDFB96B217A,261377-1,"Coll. i. 89.","","i. 89.","",
+gcc-119522,A,Compositae,,Zoegea,,"aristata",,"","DC.",Unresolved,,L,TICA,B5BC36B0-7AA1-43E7-B676-C55816179190,261378-1,"Prodr. (DC.) 6: 562","","562","1838",
+gcc-88101,A,Compositae,,Zoegea,,"baldschuanica",,"","C.Winkl.",Accepted,,M,TICA,FCC06F7B-F5A9-4620-9703-7EAD0C5919EC,261379-1,"Act. Hort. Petrop. ix. (1886) 426.","","426","1886",
+gcc-108067,A,Compositae,,Zoegea,,"capensis",,"","L.f.",Unresolved,,L,TICA,EA2AF23E-7A07-4BF1-86C3-AB87BD10C6FE,261380-1,"Suppl. Pl. 382","","382","1782",
+gcc-113108,A,Compositae,,Zoegea,,"crinita",,"","Boiss.",Unresolved,,L,TICA,B246699C-B778-42F6-918D-B6E831838913,,"""Diagn. Pl. Orient. ser. 2, 3: 63""","","63","1856",
+gcc-53451,A,Compositae,,Zoegea,,"crinita",subsp.,"baldschuanica","(C.Winkl.) Rech.f.",Synonym,,L,TICA,A918437D-5BE7-41D3-915B-6652BF58AFB4,878558-1,"""in Fl. Iran., 139b: 425 (1980).""","","425","1980",gcc-88101
+gcc-59854,A,Compositae,,Zoegea,,"crinita",subsp.,"glabricaulis","(Czerep.) Rech.f.",Unresolved,,L,TICA,5D4FC997-EF60-49B8-B55F-99C91E9B8BEA,878559-1,"""in Fl. Iran., 139b: 425 (1980).""","","425","1980",
+gcc-140638,A,Compositae,,Zoegea,,"deluensis",,"","Bunge ex Boiss.",Unresolved,,L,TICA,51A90527-C621-4540-879A-F588474E73DA,261382-1,"Fl. Orient. [Boissier] 3: 698","","698","1875",
+gcc-134423,A,Compositae,,Zoegea,,"glabricaulis",,"","Czerep.",Synonym,,M,TICA,3A220A58-B3E7-4BE1-98E8-E7C90697810A,261383-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 447 (1959).""","","xix. 447","1959",gcc-59854
+gcc-28349,A,Compositae,,Zoegea,,"leptaurea",,"","L.",Accepted,,M,TICA,48861ED4-016D-4BBA-A218-345A40E90D12,261384-1,"","","","1767",
+gcc-151226,A,Compositae,,Zoegea,,"leptaurea",subsp.,"leptaurea","",Synonym,,L,TICA,7D10414D-8C41-42D3-94EF-803F23E7CAFA,,"","","","",gcc-28349
+gcc-113891,A,Compositae,,Zoegea,,"mesopotamica",,"","Czerep.",Unresolved,,L,TICA,05C150D1-0513-4B3B-9FFC-B89D5BBBD6A7,261385-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 451 (1959).""","","xix. 451","1959",
+gcc-12897,A,Compositae,,Zoegea,,"mianensis",,"","Bunge ex Boiss.",Unresolved,,L,TICA,8C3F3CFE-20BE-49C2-8182-180D28DFB646,261386-1,"Fl. Orient. [Boissier] 3: 697","","697","1875",
+gcc-117620,A,Compositae,,Zoegea,,"purpurea",,"","Fresen.",Accepted,,M,TICA,BEEB59B9-3FF6-4617-B069-C11A0062784A,,"","","86","1834",

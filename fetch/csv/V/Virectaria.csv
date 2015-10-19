@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-213229,A,Rubiaceae,,Virectaria,,"angustifolia",,"","(Hiern) Bremek.",Accepted,,H,WCSP,213229,770269-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",
+kew-213230,A,Rubiaceae,,Virectaria,,"angustifolia",var.,"angustifolia","",Synonym,,L,WCSP,213230,,"Unknown","","","",kew-213229
+kew-213232,A,Rubiaceae,,Virectaria,,"belingana",,"","N.Hallé",Accepted,,H,WCSP,213232,770270-1,"in Fl. Gabon","12: 84","","1966",
+kew-213233,A,Rubiaceae,,Virectaria,,"herbacoursi",,"","N.Hallé",Accepted,,H,WCSP,213233,770271-1,"in Fl. Gabon","12: 88","","1966",
+kew-213234,A,Rubiaceae,,Virectaria,,"herbacoursi",var.,"herbacoursi","",Synonym,,L,WCSP,213234,,"Unknown","","","",kew-213233
+kew-213236,A,Rubiaceae,,Virectaria,,"heteromera",,"","(K.Schum.) Bremek.",Synonym,,H,WCSP,213236,770272-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",kew-213229
+kew-213237,A,Rubiaceae,,Virectaria,,"kaessneri",,"","(S.Moore) Bremek.",Synonym,,H,WCSP,213237,770273-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",kew-213238
+kew-213238,A,Rubiaceae,,Virectaria,,"major",,"","(K.Schum.) Verdc.",Accepted,,H,WCSP,213238,770274-1,"Bull. Jard. Bot. État","23: 42","","1953",
+kew-213240,A,Rubiaceae,,Virectaria,,"major",subsp.,"major","",Synonym,,L,WCSP,213240,,"Unknown","","","",kew-213238
+tro-27909052,A,Rubiaceae,,Virectaria,,"major",var.,"major","",Synonym,,L,TRO,27909052,,"","","","",kew-213238
+kew-213241,A,Rubiaceae,,Virectaria,,"major",var.,"spathulata","Verdc.",Synonym,,L,WCSP,213241,,"Bull. Jard. Bot. État","23: 46","","1953",kew-213242
+kew-213242,A,Rubiaceae,,Virectaria,,"major",subsp.,"spathulata","(Verdc.) Dessein & Robbr.",Accepted,,L,WCSP,213242,20000207-1,"Bot. J. Linn. Soc.","137: 18","","2001",
+kew-213243,A,Rubiaceae,,Virectaria,,"multiflora",,"","(Sm.) Bremek.",Accepted,,H,WCSP,213243,770275-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",
+kew-213244,A,Rubiaceae,,Virectaria,,"procumbens",,"","(Sm.) Bremek.",Accepted,,H,WCSP,213244,770276-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",
+kew-213245,A,Rubiaceae,,Virectaria,,"salicoides",,"","(C.H.Wright) Bremek.",Accepted,,H,WCSP,213245,770277-1,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2","48(2): 21","","1952",
+kew-213246,A,Rubiaceae,,Virectaria,,"tenella",,"","J.B.Hall",Accepted,,H,WCSP,213246,770278-1,"Kew Bull.","26: 569","","1972",

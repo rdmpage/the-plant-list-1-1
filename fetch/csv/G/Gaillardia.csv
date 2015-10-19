@@ -1,0 +1,119 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-110340,A,Compositae,,Gaillardia,,"acaulis",,"","Pursh",Synonym,,L,TICA,AF4F12C4-D851-4566-A42E-B0AC28F8173A,106480-2,"","","743","1813",gcc-91217
+gcc-13337,A,Compositae,,Gaillardia,,"acaulis",,"","A.Gray",Synonym,Illegitimate,M,TICA,D40CB2A0-5E71-4F77-B268-18DC50AD8F1F,208333-1,"","","73","1874",gcc-82118
+gcc-31717,A,Compositae,,Gaillardia,,"aestivalis",,"","(Walter) H.Rock",Accepted,,M,TICA,D01E6BA9-D2A8-4FDB-B1C8-3AC7C54BFA55,106481-2,"Rhodora 58","","315","1956",
+gcc-11352,A,Compositae,,Gaillardia,,"aestivalis",var.,"aestivalis","",Synonym,,L,TICA,D79B0094-526D-4DBE-88E4-1539A4587108,,"","","","",gcc-31717
+gcc-12198,A,Compositae,,Gaillardia,,"aestivalis",var.,"flavovirens","(C.Mohr) Cronquist",Synonym,,L,TICA,D6C1A576-F2BF-4B8D-B2B3-16BD77DF15CB,877293-1,"Brittonia 29","","221","1977",gcc-31717
+gcc-32598,A,Compositae,,Gaillardia,,"aestivalis",var.,"winkleri","(Cory) B.L.Turner",Synonym,,L,TICA,7FCDE428-E10C-4B5E-9925-3C694D90458E,106483-2,"","","621","1979",gcc-31717
+gcc-89929,A,Compositae,,Gaillardia,,"alternifolia",,"","Steud.",Unresolved,,L,TICA,19D2C923-A1A7-4951-88A2-82D648873E1E,208336-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 652, sphalm.""","","652","1840",
+gcc-25767,A,Compositae,,Gaillardia,,"amara",,"","Raf.",Synonym,,L,TICA,EB2FF186-1F6A-4556-9CF1-2F9B49266CB1,208337-1,"","","69","1817",gcc-32111
+gcc-116470,A,Compositae,,Gaillardia,,"amblyodon",,"","J.Gay",Accepted,,M,TICA,CF13A0A7-C80B-4A32-9D9C-BE7A56161579,,"","","62","1839",
+gcc-8312,A,Compositae,,Gaillardia,,"aristata",,"","Pursh",Accepted,,M,TICA,4E4164A4-37D4-4D7B-8B98-0F78615C261D,,"","","573","1814",
+gcc-104793,A,Compositae,,Gaillardia,,"aristata",f.,"aristata","",Synonym,,L,TICA,7D10B54C-2AB5-4D4C-90A7-A436E26D3903,,"","","","",gcc-8312
+gcc-63131,A,Compositae,,Gaillardia,,"aristata",var.,"aristata","",Synonym,,L,TICA,F588FD02-951B-471C-A634-B461334DD2E3,,"","","","",gcc-8312
+gcc-41174,A,Compositae,,Gaillardia,,"aristata",var.,"foliacea","Lunell",Synonym,,L,TICA,96C8A307-B661-4D7B-AD95-4C4C72BCC524,106484-2,"Amer. Midl. Naturalist 2","","122","1911",gcc-8312
+gcc-68628,A,Compositae,,Gaillardia,,"aristata",var.,"foliosa","Lunell",Synonym,,L,TICA,E9FD5E40-C384-4FC0-918C-E03428C4D429,,"","","","",gcc-8312
+gcc-73447,A,Compositae,,Gaillardia,,"aristata",f.,"monochroma","B.Boivin",Synonym,,L,TICA,E226325B-7ADE-4552-B11D-197B2D5415A9,106485-2,"Naturaliste Canad. 87","","33","1960",gcc-8312
+gcc-73187,A,Compositae,,Gaillardia,,"aristata",f.,"tubuliflora","Clute",Synonym,,L,TICA,1BCEB64F-123C-4C4C-A024-107A8231B308,106486-2,"Amer. Bot. (Binghamton) 21","","101","1915",gcc-8312
+gcc-87511,A,Compositae,,Gaillardia,,"arizonica",,"","A.Gray",Accepted,,M,TICA,83C2FA48-268F-47BF-A6A5-7D7420CF4029,208340-1,"","","353","1884",
+gcc-42861,A,Compositae,,Gaillardia,,"arizonica",var.,"arizonica","",Synonym,,L,TICA,A0F0C1AF-D15A-437C-97CB-4F659B04F301,,"","","","",gcc-87511
+gcc-61908,A,Compositae,,Gaillardia,,"arizonica",subsp.,"arizonica","",Synonym,,L,TICA,282C2D6B-B489-48D0-882F-AA6AE6ACF602,,"","","","",gcc-87511
+gcc-58536,A,Compositae,,Gaillardia,,"arizonica",var.,"pringlei","(Rydb.) S.F.Blake",Synonym,,L,TICA,6B4D928C-35A0-49D8-BE26-8F91E5FF6373,106487-2,"","","472","1940",gcc-87511
+gcc-114120,A,Compositae,,Gaillardia,,"aromatica",,"","Baill.",Synonym,,M,TICA,AABF46C9-35E2-4414-9C77-B921C3A85616,208341-1,"","","307","1882",gcc-131722
+gcc-48197,A,Compositae,,Gaillardia,,"bicolor",,"","Elliott",Synonym,,M,TICA,392259C8-A24A-465D-B01B-595526C77D70,,"","","449","1823",gcc-31717
+gcc-6196,A,Compositae,,Gaillardia,,"bicolor",,"","Lam.",Synonym,,M,TICA,25791B39-EA4E-4A08-BBEE-0B8568804BB5,208342-1,"","","590","1788",gcc-120122
+gcc-93457,A,Compositae,,Gaillardia,,"bicolor",,"","Pursh",Synonym,,M,TICA,47EFA894-FA23-46BC-BA69-8AC732991C05,,"","","","1813",gcc-8312
+gcc-39167,A,Compositae,,Gaillardia,,"bicolor",var.,"bicolor","",Synonym,,L,TICA,1BB646F0-B24C-410C-9E8D-48AB8C0E5D00,,"","","","",gcc-120122
+gcc-76650,A,Compositae,,Gaillardia,,"bracteosa",,"","Standl.",Synonym,,M,TICA,3EB04D63-359D-4C8D-B375-65251710B3B0,106489-2,"","","2","1912",gcc-8312
+gcc-16972,A,Compositae,,Gaillardia,,"cabrerae",,"","Covas",Accepted,,M,TICA,8CF9F3AD-B6C4-4E10-9D13-1F5F0670DECC,106490-2,"Bol. Soc. Argent. Bot. 11","","262","1969",
+gcc-92877,A,Compositae,,Gaillardia,,"chrysantha",,"","Small",Synonym,,M,TICA,0451225A-F2CF-4DFD-85E8-899085C06561,208347-1,"","","","1903",gcc-31717
+gcc-137147,A,Compositae,,Gaillardia,,"coahuilensis",,"","B.L. Turner",Accepted,,M,TICA,E675A5C4-D1FF-430A-AA16-EDD4BF3433A3,106492-2,"","","539","1977",
+gcc-6199,A,Compositae,,Gaillardia,,"comosa",,"","A.Gray",Accepted,,M,TICA,CE1FCCF3-61F4-41DC-BDDD-0B8658ABD49A,,"","","109","",
+gcc-88772,A,Compositae,,Gaillardia,,"crassa",,"","Rydb.",Synonym,,M,TICA,655686BB-16EA-4D30-A62F-8037D291D1C8,208350-1,"N. Amer. Fl. 34","","138","1915",gcc-27953
+gcc-124015,A,Compositae,,Gaillardia,,"crassifolia",,"","A.Nelson & J.F.Macbr.",Synonym,,M,TICA,80D4C8BA-6529-4676-B62B-CFB9F0FAEDEF,106494-2,"Bot. Gaz. 61","","46","1916",gcc-27953
+gcc-42675,A,Compositae,,Gaillardia,,"crinita",,"","Rydb.",Synonym,,M,TICA,A9DD7030-5111-4DFD-9D85-4F0CB821C23C,106495-2,"N. Amer. Fl. 34","","139","1915",gcc-87511
+gcc-82619,A,Compositae,,Gaillardia,,"doniana",,"","(Hook. & Arn.) Griseb.",Accepted,,M,TICA,79F4E6BD-B880-4FE8-961A-727871495858,,"Abh. Königl. Ges. Wiss. Göttingen 19: 188 (1874)","","188","1874",
+gcc-60089,A,Compositae,,Gaillardia,,"doniana",var.,"discoidea","Griseb.",Synonym,,L,TICA,1782E3C2-4BA3-4298-91D1-9B9A4481A649,106496-2,"","","188","1874",gcc-97793
+gcc-146427,A,Compositae,,Gaillardia,,"doniana",var.,"doniana","",Synonym,,L,TICA,7630BB84-A2E6-400F-9A1E-18226DC0AF21,,"","","","",gcc-82619
+gcc-124136,A,Compositae,,Gaillardia,,"drummondii",,"","(Hook.) DC.",Synonym,,M,TICA,7CB25DB5-C84D-483F-93D9-CFFADD7D4D8F,208353-1,"","","652","1836",gcc-120122
+gcc-106371,A,Compositae,,Gaillardia,,"fastigiata",,"","Small",Unresolved,,L,TICA,8EF856ED-B1CF-41D1-9903-A79FD81EA946,296186-2,"","","","",
+gcc-114648,A,Compositae,,Gaillardia,,"fastigiata",,"","Greene",Synonym,,M,TICA,53C91343-339C-44E1-A0DE-BA5C01D15AE8,106497-2,"Pittonia 5","","57","1902",gcc-31717
+gcc-1954,A,Compositae,,Gaillardia,,"fimbriata",,"","Michx.",Synonym,,L,TICA,D2B5AA10-8468-4A70-B767-038489069B27,208355-1,"","","142","1803",gcc-127380
+gcc-28021,A,Compositae,,Gaillardia,,"flava",,"","Rydb.",Synonym,,M,TICA,31C053AE-DD58-41D9-9855-33BD995A138B,106499-2,"N. Amer. Fl. 34","","139","1915",gcc-27953
+gcc-115239,A,Compositae,,Gaillardia,,"gauroides",,"","Greene",Unresolved,,L,TICA,9EBF9502-E637-4AF1-A89A-BBB396202691,106500-2,"Bull. Gulf Biol. Sta. 7: 40. 1907","","40","1907",
+gcc-135583,A,Compositae,,Gaillardia,,"glauca",,"","(Cav.) Baill.",Synonym,,M,TICA,07B31368-BA7D-4CC8-B630-EA53C15B6A86,208357-1,"","","307","1882",gcc-75567
+gcc-121063,A,Compositae,,Gaillardia,,"globosa",,"","A.Nelson",Synonym,,M,TICA,F11D357C-B1CD-4BB6-AC68-C8F74488AD42,106501-2,"","","135","1926",gcc-27953
+gcc-111004,A,Compositae,,Gaillardia,,"gracilis",,"","A.Nelson",Synonym,,M,TICA,DFC0701A-D467-4AAA-9D5B-B228EBA52453,106502-2,"Bot. Gaz. 37","","276","1904",gcc-27953
+gcc-138620,A,Compositae,,Gaillardia,×,"grandiflora",,"","Hort.",Unresolved,,L,TICA,F5440FDE-796E-4076-9A00-F0FED94047E1,208360-1,"""ex Fl. des Serres, xiii. (1857) 1 t. 1183.""","","xiii.  1 t. 1183","1857",
+gcc-27782,A,Compositae,,Gaillardia,×,"grandiflora",,"","Hort. ex Van Houtte",Accepted,,M,TICA,9DD0BD6F-BB0A-4C2E-879C-3359977F5BC2,,"J. Gén. Hort. 13: t. 1183 (1857)","","","1857",
+gcc-97375,A,Compositae,,Gaillardia,,"grandiflora",,"","Pursh",Unresolved,,L,TICA,3EC11A51-8DFC-4A72-A774-93BB112670D8,,"","","","",
+gcc-8437,A,Compositae,,Gaillardia,,"gypsophila",,"","B.L.Turner",Accepted,,M,TICA,CB156F98-C754-48B0-8061-0FB643429787,106503-2,"","","181","1972",
+gcc-94338,A,Compositae,,Gaillardia,,"hallii",,"","Rydb.",Synonym,,M,TICA,4BC4EA86-1AED-4B56-8C80-8CC18C529341,106504-2,"N. Amer. Fl. 34","","135","1915",gcc-8312
+gcc-97435,A,Compositae,,Gaillardia,,"henricksonii",,"","B. L.Turner",Accepted,,M,TICA,305C9D04-C29F-4EE7-88AF-93D93F61156D,208363-1,"Wrightia 5(8)","","305","1976",
+gcc-79988,A,Compositae,,Gaillardia,,"lanceolata",,"","Michx.",Synonym,,M,TICA,A224C7B6-69A6-4184-AB83-6C99005BD7F2,208364-1,"","","142","1803",gcc-31717
+gcc-70292,A,Compositae,,Gaillardia,,"lanceolata",var.,"fastigiata","(Greene) Waterf.",Synonym,,L,TICA,D0C5C0D6-7B36-47AD-9413-ECEEC9B4152A,106506-2,"Rhodora 62","","321","1960",gcc-31717
+gcc-64047,A,Compositae,,Gaillardia,,"lanceolata",var.,"flavovirens","C.Mohr",Synonym,,L,TICA,6F9BD723-47F5-4E5F-BC56-BB814B2CC61E,106507-2,"Contr. U. S. Natl. Herb. 6","","812","1901",gcc-31717
+gcc-40937,A,Compositae,,Gaillardia,,"lanceolata",var.,"lanceolata","",Synonym,,L,TICA,FCE169E8-A3D3-4548-9D4F-4BD9C6B504F9,,"","","","",gcc-31717
+gcc-71741,A,Compositae,,Gaillardia,,"lanceolata",var.,"winkleri","(Cory) Waterf.",Synonym,,L,TICA,1C06C687-5422-4BB9-A6F3-F8853DCB21E8,877295-1,"Rhodora 73","","554","1971",gcc-31717
+gcc-19075,A,Compositae,,Gaillardia,,"linearis",,"","Rydb.",Synonym,,M,TICA,C829737E-CEA7-414A-9342-23366A98D503,106509-2,"N. Amer. Fl. 34","","137","1915",gcc-27953
+gcc-130418,A,Compositae,,Gaillardia,,"lobata",,"","Buckley",Synonym,,M,TICA,EE802530-912E-42D9-8C53-DE851C688773,,"","","","1862",gcc-120122
+gcc-51216,A,Compositae,,Gaillardia,,"lutea",,"","Greene",Synonym,,M,TICA,47A6E772-1549-44D3-8143-5EFA14AF3054,106510-2,"Pittonia 5","","57","1902",gcc-31717
+gcc-11403,A,Compositae,,Gaillardia,,"lutea",var.,"lutea","",Synonym,,L,TICA,11CF01DE-E40A-4CCA-B94E-154E4716F617,,"","","","1946",gcc-31717
+gcc-43533,A,Compositae,,Gaillardia,,"lutea",var.,"winkleri","Cory",Synonym,,L,TICA,13FEF100-9239-4E86-B339-50B54318A992,106511-2,"Madroño 8","","263","1946",gcc-31717
+gcc-33796,A,Compositae,,Gaillardia,,"mearnsii",,"","Rydb.",Synonym,,M,TICA,1411EA25-77E9-4217-BFE4-3EA997640E40,106512-2,"Bull. Torrey Bot. Club 37","","443","1910",gcc-27953
+gcc-97793,A,Compositae,,Gaillardia,,"megapotamica",,"","(Spreng.) Baker",Accepted,,M,TICA,042F46F1-018E-47AA-93D8-94B207208122,,"","","276","1884",
+gcc-86700,A,Compositae,,Gaillardia,,"megapotamica",f.,"bicolor","Kuntze",Synonym,,L,TICA,026A0D94-A32C-4979-93C2-7B814ABB6E3C,291973-2,"","","148","1898",gcc-97793
+gcc-73379,A,Compositae,,Gaillardia,,"megapotamica",f.,"biflava","Kuntze",Synonym,,L,TICA,0F06BB29-28BE-487F-9FF7-16A7517021F5,291974-2,"","","148","1898",gcc-97793
+gcc-104471,A,Compositae,,Gaillardia,,"megapotamica",f.,"fuscorubra","Kuntze",Synonym,,L,TICA,F5E925E7-A282-4A7E-A817-A394FCC9CDCF,291975-2,"","","148","1898",gcc-97793
+gcc-152953,A,Compositae,,Gaillardia,,"megapotamica",f.,"megapotamica","",Synonym,,L,TICA,85C7AE28-B826-4152-BF0C-A415C7528D95,,"","","","",gcc-97793
+gcc-70237,A,Compositae,,Gaillardia,,"megapotamica",var.,"megapotamica","",Synonym,,L,TICA,213F8604-7102-4A6F-BA3C-EC8BDDB32147,,"Fl. Bras. 6(3): 276 (1884)","","276","1884",gcc-97793
+gcc-2456,A,Compositae,,Gaillardia,,"megapotamica",var.,"scabiosoides","(Arn. ex DC.) Baker",Accepted,,L,TICA,C19DFAAC-2B9E-4814-B696-0478C9C1F88A,,"Fl. Bras. 6(3): 276 (1884)","","277","1884",
+gcc-50094,A,Compositae,,Gaillardia,,"mexicana",,"","A.Gray",Accepted,,M,TICA,0FE4F72C-1DFC-4318-92B2-5CDCF1EF7DDD,208370-1,"","","109","1882",
+gcc-145679,A,Compositae,,Gaillardia,,"mexicana",var.,"mexicana","",Synonym,,L,TICA,A3783112-EA3A-4A6B-BBA2-08AAC31FEA6A,,"","","","",gcc-50094
+gcc-124437,A,Compositae,,Gaillardia,,"multiceps",,"","Greene",Accepted,,M,TICA,0F8371A1-4F04-448C-987B-D0B1C87DC178,106515-2,"Bull. Torrey Bot. Club 24","","512","1897",
+gcc-63491,A,Compositae,,Gaillardia,,"multiceps",var.,"microcephala","B.L.Turner",Synonym,,L,TICA,8573C86F-9372-4522-8FFA-B73E3916E037,106517-2,"","","187","1972",gcc-124437
+gcc-57434,A,Compositae,,Gaillardia,,"multiceps",var.,"multiceps","",Synonym,,L,TICA,4B97EFFA-AA8C-456A-927B-864AABDEC6FA,,"","","","",gcc-124437
+gcc-17644,A,Compositae,,Gaillardia,,"neomexicana",,"","A.Nelson",Synonym,,M,TICA,BF44A13B-CC1A-41D8-8AFC-2091F6B7F335,106516-2,"","","135","1926",gcc-120122
+gcc-77174,A,Compositae,,Gaillardia,,"nervosa",,"","Rydb.",Synonym,,M,TICA,87C06EF6-ACFA-4A6C-ADEA-66497E747BEE,106518-2,"N. Amer. Fl. 34","","138","1915",gcc-6199
+gcc-128745,A,Compositae,,Gaillardia,,"odorata",,"","Lindh. ex A.Gray",Synonym,,M,TICA,B0BF50AA-938E-4D3F-B3E3-DABA02C21E65,208374-1,"","","230","1850",gcc-140998
+gcc-82118,A,Compositae,,Gaillardia,,"parryi",,"","Greene",Accepted,,M,TICA,E1483F2D-2137-4D29-B452-71508F449230,,"Bull. Torrey Bot. Club 27: 512 (1897)","","512","1897",
+gcc-117096,A,Compositae,,Gaillardia,,"pedunculata",,"","A.Nelson",Synonym,,M,TICA,992CA4B2-21A3-429E-A7B9-BFE54225AEAA,106519-2,"Bot. Gaz. 47","","432","1909",gcc-87511
+gcc-141406,A,Compositae,,Gaillardia,,"perennis",,"","Loisel.",Synonym,,M,TICA,3C017096-B73A-4C15-AF81-F7567BC5A644,,"","","","1821",gcc-8312
+gcc-113162,A,Compositae,,Gaillardia,,"picta",,"","D.Don",Synonym,,M,TICA,661DA2FD-7770-4BAA-9BF4-B705BF387AFC,106520-2,"Brit. Fl. Gard. 3: t. 267. 1834 [Dec 1834]","","t. 267","1834",gcc-120122
+gcc-131007,A,Compositae,,Gaillardia,,"picta",,"","Sweet",Accepted,,M,TICA,718D63B9-8CBD-40EB-AAC3-DFDF1F6B1FD1,,"Brit. Fl. Gard. 3: t. 267 (1828)","","t. 267","1828",
+gcc-27953,A,Compositae,,Gaillardia,,"pinnatifida",,"","Torr.",Accepted,,M,TICA,57C45DC7-3C49-4512-9E32-33A63FB69383,,"","","214","1827",
+gcc-61196,A,Compositae,,Gaillardia,,"pinnatifida",var.,"linearis","(Rydb.) Biddulph",Synonym,,L,TICA,B1B92E09-E140-45D3-879B-A49743FBF856,106521-2,"Res. Stud. State Coll. Wash. 12","","234","1944",gcc-27953
+gcc-67948,A,Compositae,,Gaillardia,,"pinnatifida",var.,"pinnatifida","",Synonym,,L,TICA,8D5FAE9F-6C87-4C6E-8E60-DB1C558AA5B7,,"","","","",gcc-27953
+gcc-47220,A,Compositae,,Gaillardia,,"powellii",,"","B.L.Turner",Accepted,,M,TICA,B1A8B654-31E3-4050-AF4C-577770394D33,106522-2,"","","183","1972",
+gcc-13846,A,Compositae,,Gaillardia,,"pringlei",,"","Rydb.",Synonym,,M,TICA,BF1A7B13-8FF1-44E6-801A-19BE66BD2015,106523-2,"N. Amer. Fl. 34","","139","1915",gcc-87511
+gcc-120122,A,Compositae,,Gaillardia,,"pulchella",,"","Foug.",Accepted,,M,TICA,004507BB-7831-48F2-A393-C6C37E2491FD,329185-2,"Mem. Acad. Sci. Paris 1786","","5","1788",
+gcc-46894,A,Compositae,,Gaillardia,,"pulchella",var.,"albiflora","Cockerell",Synonym,,L,TICA,4419B069-53B6-424E-B19A-56E75C3576FE,,"","","67","1914",gcc-120122
+gcc-60669,A,Compositae,,Gaillardia,,"pulchella",var.,"drummondii","(Hook.) B.L.Turner",Accepted,,L,TICA,BBAA90CF-57DB-41D2-AEB2-A026276EDDA7,70028925-1,"""Sida, Bot. Misc. 24""","","6","2003",
+gcc-99880,A,Compositae,,Gaillardia,,"pulchella",f.,"lorenziana","Voss",Synonym,,L,TICA,6C59DC1D-8027-440C-8631-9959B3B66840,291977-2,"","","497","1894",gcc-120122
+gcc-105645,A,Compositae,,Gaillardia,,"pulchella",f.,"picta","Voss",Synonym,,L,TICA,4322CF9E-0DCF-41B2-8ACB-A6088620F6C3,291976-2,"","","497","1894",gcc-60669
+gcc-153846,A,Compositae,,Gaillardia,,"pulchella",f.,"pulchella","",Synonym,,L,TICA,B6F01AD9-916A-4BF1-9828-B668372558F1,,"","","","",gcc-120122
+gcc-53638,A,Compositae,,Gaillardia,,"pulchella",var.,"pulchella","",Synonym,,L,TICA,E3483B36-D0BE-454E-A581-67C504B979AF,,"","","","1788",gcc-120122
+gcc-55096,A,Compositae,,Gaillardia,,"pulchella",var.,"simplex","Voss",Synonym,,L,TICA,9CC355D7-070E-4850-A691-733A5F0CAC1C,106527-2,"","","497","1894",gcc-120122
+gcc-68913,A,Compositae,,Gaillardia,,"pulchella",var.,"tubulosa","Voss",Synonym,,L,TICA,6A5C411A-F643-43B5-BB9D-E25F9683506C,106528-2,"","","497","1894",gcc-120122
+gcc-124932,A,Compositae,,Gaillardia,,"richardsonii",,"","Auct.",Synonym,,M,TICA,4297C8ED-A25D-4041-87CF-D1DDF4DF90E1,,"Bull. Misc. Inform. Kew 3: 41 (1889)","","41","1889",gcc-8312
+gcc-35909,A,Compositae,,Gaillardia,,"richardsonii",,"","Hort.",Unresolved,,L,TICA,B6FD486B-B63A-40C3-A05F-4297DAE72802,208382-1,"ex Kew Bull. iii. (1889) 41.","","iii.  41","1889",gcc-8312
+gcc-131322,A,Compositae,,Gaillardia,,"rigida",,"","Small ex Rydb.",Synonym,,M,TICA,50A79AEC-99B4-4D26-827C-E09FAE0F2867,,"North American Flora 34(2):","","135","1915",gcc-31717
+gcc-134744,A,Compositae,,Gaillardia,,"rigida",,"","Small",Synonym,,M,TICA,36967200-0065-4BD8-9800-E87068D7F45C,106529-2,"N. Amer. Fl. 34","","135","1915",gcc-31717
+gcc-114045,A,Compositae,,Gaillardia,,"roemeriana",,"","Scheele",Synonym,,L,TICA,32FB9937-AFC6-4A08-B6BD-B8F20AFB8441,208384-1,"Linnaea 22","","161","1849",gcc-109488
+gcc-99184,A,Compositae,,Gaillardia,,"roezli",,"","Regel",Synonym,,M,TICA,3187AAAC-9F6F-47D6-90CA-97C8C592D749,208385-1,"","","289","1875",gcc-8312
+gcc-25900,A,Compositae,,Gaillardia,,"rustica",,"","Cass.",Synonym,,M,TICA,537E4648-DD2F-4542-A597-2FDE0625ECD8,,"","","","1821",gcc-8312
+gcc-109588,A,Compositae,,Gaillardia,,"scabiosoides",,"","(Arn. ex DC.) Benth. & Hook.f.",Synonym,,M,TICA,81C15BBE-728E-4751-B7F9-AF00B3BF9273,,"","","414","1873",gcc-97793
+gcc-88918,A,Compositae,,Gaillardia,,"scabiosoides",,"","(Arn. ex DC.) Griseb.",Synonym,,M,TICA,5E0DDA01-05FF-4478-AFF7-807F64236BC1,,"","","","1879",gcc-97793
+gcc-17133,A,Compositae,,Gaillardia,,"scabiosoides",var.,"radiata","Griseb.",Synonym,,L,TICA,A9B7A6E5-0445-4818-A74F-1FA95DF46523,106530-2,"","","188","1874",gcc-97793
+gcc-60233,A,Compositae,,Gaillardia,,"scabiosoides",var.,"scabiosoides","",Synonym,,L,TICA,41A475B3-5BC8-4219-93E4-9CB4EEBA11DC,,"","","","",gcc-97793
+gcc-139043,A,Compositae,,Gaillardia,,"scabrosa",,"","Buckley",Synonym,,M,TICA,93342334-8844-4F13-AD22-F1E145AE6808,,"","","","1862",gcc-120122
+tro-50106537,A,Compositae,,Gaillardia,,"serotinum",,"","(Walter) H. Rock",Accepted,,L,TRO,50106537,106531-2,"Rhodora","58(695): 315","315","1956",
+gcc-32517,A,Compositae,,Gaillardia,,"simplex",,"","Scheele",Synonym,,M,TICA,E0CCF2F6-261A-41BC-BAD7-3C48D8A7F36A,208390-1,"Linnaea 22","","160","1849",gcc-140998
+gcc-126815,A,Compositae,,Gaillardia,,"spathulata",,"","A.Gray",Accepted,,M,TICA,BB7DD7AB-43DD-48E7-A167-D62A68A00FAF,208391-1,"","","59","1877",
+gcc-127139,A,Compositae,,Gaillardia,,"straminea",,"","A.Nelson",Synonym,Illegitimate,M,TICA,80B5F8D2-94A2-48A4-B0A6-D6F0DDE276A9,106533-2,"","","137","1926",gcc-27953
+gcc-140998,A,Compositae,,Gaillardia,,"suavis",,"","(A.Gray & Engelm.) Britton & Rusby",Accepted,,M,TICA,AA79A521-0511-4F3F-9958-F65BDE466477,106534-2,"Trans. New York Acad. Sci. 7","","11","1887",
+gcc-134388,A,Compositae,,Gaillardia,,"tontalensis",,"","Hieron.",Accepted,,M,TICA,B0961F78-0202-4F69-8530-E7B71EF62799,208394-1,"","","40","1881",
+gcc-46336,A,Compositae,,Gaillardia,,"trinervata",,"","Small",Synonym,,M,TICA,05549411-FF02-486C-B788-55E2438D6BB8,106535-2,"","","1293","1903",gcc-140998
+gcc-86965,A,Compositae,,Gaillardia,,"tuberculata",,"","Scheele",Synonym,,M,TICA,99463A79-2DB9-4CA1-9111-7C1F58088708,208396-1,"Linnaea 22","","349","1849",gcc-140998
+gcc-34443,A,Compositae,,Gaillardia,,"turneri",,"","Averett & A.M.Powell",Accepted,,M,TICA,9EC7E1F8-FD56-4A37-8528-3FD9DF09B3CC,,"Ann. Missouri Bot. Gard. 63","","375","1976",
+gcc-89831,A,Compositae,,Gaillardia,,"villosa",,"","Rydb.",Synonym,,M,TICA,46622D4D-3075-4095-9B99-82A21DFF5D62,106537-2,"N. Amer. Fl. 34","","135","1915",gcc-120122

@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-136049,A,Compositae,,Heteroderis,,"aegyptiaca",,"","Schweinf. ex Schweinf.",Synonym,,M,TICA,D96A997A-EB2C-400D-A0A1-EB45AB18C5FC,,"Schweinf. in Mém. Inst. Egypt. 2. 1889.","","766","1889",gcc-120027
+gcc-52713,A,Compositae,,Heteroderis,,"leucocephala",,"","(Bunge) Leonova",Synonym,,M,TICA,37D228A0-3A9D-4198-9F8A-61BAEA5B133D,213927-1,"","","590","1964",gcc-120027
+gcc-155499,A,Compositae,,Heteroderis,,"pterothecoides",,"","(Boiss.) Kuntze",Synonym,,M,TICA,07E77A1D-D38E-4B63-9CA5-D97DE81AEE17,,"""C.E.O. Kuntze, Revis. Gen. Pl. 1. 1891""","","346","1891",gcc-136734
+gcc-120027,A,Compositae,,Heteroderis,,"pusilla",,"","(Boiss.) Boiss.",Accepted,,M,TICA,5BE77BF9-7C86-445F-A0D7-C684DD4B1F9A,213928-1,"","","794","1875",
+gcc-145793,A,Compositae,,Heteroderis,,"pusilla",var.,"chaetocephala","(Bunge) Bornm.",Synonym,,L,TICA,968E1E86-0252-43E5-86E8-0AEA2D375854,,"Bornm. in Beih. Bot. Centralbl. 60(B). 1939","","223","1939",gcc-120027
+gcc-64859,A,Compositae,,Heteroderis,,"pusilla",var.,"gymnocephala","Rech.f.",Synonym,,L,TICA,7508F27A-6067-4E0C-8E17-C1B721B8C3A6,877389-1,"""in Fl. Iran., 122: 292 (1977).""","","292","1977",gcc-120027
+gcc-154000,A,Compositae,,Heteroderis,,"pusilla",var.,"khorassanica","Nasseh",Synonym,,L,TICA,5245A2C1-E8B6-40D5-917C-BA39422D3CF6,,"Nasseh in Iran. J. Bot. 16. 2010","","95","2010",gcc-120027
+gcc-43053,A,Compositae,,Heteroderis,,"pusilla",var.,"leucocephala","(Bunge) Rech.f.",Synonym,,L,TICA,14309C32-0047-43F7-BDD3-4FBD6F696770,877390-1,"""in Fl. Iran., 122: 291 (1977).""","","291","1977",gcc-120027
+gcc-151107,A,Compositae,,Heteroderis,,"pusilla",var.,"pusilla","",Synonym,,L,TICA,743432EE-23B0-481D-B884-7DC25ACCBF28,,"","","","",gcc-120027
+gcc-92458,A,Compositae,,Heteroderis,,"stocksiana",,"","Boiss.",Synonym,,M,TICA,66A8EFE5-1FCD-4611-8C77-88A42898A140,213929-1,"Fl. Orient. [Boissier] 3: 794","","794","1875",gcc-120027

@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-91577,A,Compositae,,Landtia,,"hirsuta",,"","Less.",Synonym,,L,TICA,4DBCCEA3-CFFA-4866-AA49-86AC8644B150,228632-1,"Syn. Gen. Compos. 37.","","37","1832",gcc-95037
+gcc-84847,A,Compositae,,Landtia,,"kilimandjarica",,"","Hutch. & M.B.Moss",Synonym,,M,TICA,D6B61F89-2108-463D-ABEE-77635C41A223,228633-1,"""Bull. Misc. Inform. Kew 1930, 118.""","","118","",gcc-113528
+gcc-92499,A,Compositae,,Landtia,,"lobulata",,"","Hutch.",Synonym,,M,TICA,73810214-CDB6-46FF-8B3D-88BD9909AE1C,228634-1,"""Bull. Misc. Inform. Kew 1914, 248.""","","248","",gcc-113528
+gcc-6034,A,Compositae,,Landtia,,"media",,"","DC.",Synonym,,L,TICA,8ADACEA0-F4DE-4DDB-A88D-0B3A522137FC,228635-1,"Prodr. (DC.) 6: 495","","495","1838",gcc-95037
+gcc-127860,A,Compositae,,Landtia,,"nervosa",,"","(Thunb.) Less.",Synonym,,L,TICA,821A5C75-6F33-4F64-B19D-D8AFBAC166AC,228636-1,"Syn. Gen. Compos. 38.","","38","",gcc-95037
+gcc-111126,A,Compositae,,Landtia,,"rueppellii",,"","Benth. & Hook.f.",Unresolved,,L,TICA,8B3825D2-FBF7-466D-BBC9-B269536C2472,228637-1,"""Gen. ii. 457 (Ruppellii); et ex Vatke, in Linnaea, xxxix. (1875) 509.""","","ii. 457","",
+gcc-86148,A,Compositae,,Landtia,,"rueppellii",,"","(Sch.Bip.) Vatke",Synonym,,M,TICA,D521E261-FCC9-461B-A9AF-7A419A20C98D,,"Linnaea 39:","","509","1875",gcc-113528
+gcc-113565,A,Compositae,,Landtia,,"schimperi",,"","Benth. & Hook.f.",Unresolved,,L,TICA,DAC8B4D4-102E-4CFD-9DF4-B7E4AC5C3D02,228638-1,"""Gen. ii. 457 (Ruppellii); et ex Vatke, in Linnaea, xxxix. (1875) 509.""","","ii. 457","",
+gcc-119602,A,Compositae,,Landtia,,"schimperi",,"","(Sch.Bip.) Vatke",Synonym,,L,TICA,94103D31-F78D-425C-A4AA-C5865A4A9E1D,,"","","","",gcc-113849

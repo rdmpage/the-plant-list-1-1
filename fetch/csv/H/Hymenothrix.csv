@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-21478,A,Compositae,,Hymenothrix,,"glandulosa",,"","S.Watson",Accepted,,M,TICA,831BA36C-CD36-4C99-9C18-27B08D09DD2D,125956-2,"","","278","1888",
+gcc-146273,A,Compositae,,Hymenothrix,,"glandulosa",var.,"glandulosa","",Synonym,,L,TICA,F824302D-9C32-4C2F-B0AC-1535360737A0,,"","","","",gcc-21478
+gcc-114275,A,Compositae,,Hymenothrix,,"greenmanii",,"","(Heiser) B.L.Turner",Accepted,,M,TICA,FDEFC2D8-2705-4C44-BE9E-B9779DBF7174,125958-2,"","","103","1962",
+gcc-8489,A,Compositae,,Hymenothrix,,"loomisii",,"","S.F.Blake",Accepted,,M,TICA,95738FD6-465F-46B2-BFDE-0FD191FB4E13,,"","","","1927",
+gcc-84951,A,Compositae,,Hymenothrix,,"palmeri",,"","A.Gray",Accepted,,M,TICA,DAEFC793-C493-4160-899B-779BBDFB65C4,125960-2,"","","391","1886",
+gcc-21259,A,Compositae,,Hymenothrix,,"palmeri",var.,"palmeri","",Synonym,,L,TICA,99C2F635-DB1E-4A3E-B77E-274BB426E7C0,,"","","","",gcc-84951
+gcc-34774,A,Compositae,,Hymenothrix,,"purpurea",,"","Brandegee",Synonym,,M,TICA,BFD84120-DA8F-488B-8346-4076D6BE9BC2,125962-2,"","","392","1909",gcc-38086
+gcc-81114,A,Compositae,,Hymenothrix,,"wislizeni",,"","A.Gray",Accepted,,M,TICA,1EC45858-0F8B-4537-B69D-6F13B4B014AD,,"""Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.) 102""","","102","1849",
+gcc-11504,A,Compositae,,Hymenothrix,,"wislizeni",var.,"wislizeni","",Synonym,,L,TICA,E4E0B653-F95C-4624-8DCE-15758CAE7323,,"","","","",gcc-81114
+gcc-24390,A,Compositae,,Hymenothrix,,"wrightii",,"","A.Gray",Accepted,,M,TICA,E08874D2-FE2F-4B09-901A-2D0E1481908E,,"Pl. Wright. ii. 97.","","","1853",

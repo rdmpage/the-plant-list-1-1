@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-8814,A,Compositae,,Pithocarpa,,"achilleoides",,"","P.Lewis & Summerh.",Synonym,,M,TICA,C5D5BB71-96F2-4048-ABFE-1082E4478488,238577-1,"","","437","1951",gcc-24231
+gcc-133048,A,Compositae,,Pithocarpa,,"corymbulosa",,"","Lindl.",Accepted,,L,TICA,2F092349-F181-46DB-9FC1-E4A17C2290DC,238578-1,"","","23","1839",
+gcc-24292,A,Compositae,,Pithocarpa,,"major",,"","Steetz",Unresolved,,L,TICA,986A2812-23D7-488D-AEEA-2CDD313F2EB0,135464-3,"","","","1845",
+gcc-43628,A,Compositae,,Pithocarpa,,"melanostigma",,"","P.Lewis & Summerh.",Synonym,,M,TICA,16EBD845-DC03-467E-AFBB-50DDE1B0B758,238580-1,"","","438","1951",gcc-56397
+gcc-24231,A,Compositae,,Pithocarpa,,"pulchella",,"","Lindl.",Accepted,,M,TICA,EB44FF8A-A551-43CD-85BE-2CBEEE7AE339,238581-1,"","","23","1839",
+gcc-56397,A,Compositae,,Pithocarpa,,"pulchella",var.,"melanostigma","(P.Lewis & Summerh.) Lepschi",Accepted,,L,TICA,4ACF742A-D866-4F38-AB3A-7E174547EB43,1011718-1,"","","71","1999",
+gcc-34540,A,Compositae,,Pithocarpa,,"pulchella",var.,"pulchella","",Synonym,,L,TICA,85C5AF88-B644-489B-8438-40072B56C751,,"","","","",gcc-24231

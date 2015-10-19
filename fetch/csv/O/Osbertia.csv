@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-144564,A,Compositae,,Osbertia,,"bartlettii",,"","(S.F.Blake) G.L.Nesom",Accepted,,M,TICA,B10C9311-C211-4DF1-881B-FE6218A8FB3B,1092383-2,"","","133","1991",
+gcc-89930,A,Compositae,,Osbertia,,"chihuahuana",,"","B.L.Turner & S.D.Sundb.",Accepted,,L,TICA,95469C82-3823-49BF-A67B-82D65CBCDA00,,"","","","1986",
+gcc-133890,A,Compositae,,Osbertia,,"heleniastrum",,"","(Greene) Greene",Accepted,,M,TICA,BB51FA53-9B58-478D-8C8A-E689C9A24A35,177000-2,"","","14","1895",
+gcc-59797,A,Compositae,,Osbertia,,"heleniastrum",var.,"glabrata","(J.M.Coult.) Greene",Synonym,,L,TICA,9192DC51-9221-4E38-B8CE-995B7AA78B3F,177001-2,"Erythea 3: 14. 1895","","14","1895",gcc-92912
+gcc-21983,A,Compositae,,Osbertia,,"heleniastrum",var.,"heleniastrum","",Synonym,,L,TICA,3CCB6B43-2520-4655-917F-28A83DBB15C4,,"","","","1895",gcc-133890
+gcc-67601,A,Compositae,,Osbertia,,"heleniastrum",var.,"scabrella","Greene",Synonym,,L,TICA,0AEE5E55-9EE7-4EDB-A5C1-D87924E1EC0E,177002-2,"","","14","1895",gcc-92912
+gcc-92912,A,Compositae,,Osbertia,,"stolonifera",,"","(DC.) Greene",Accepted,,M,TICA,447CB094-7896-4B2A-95E5-89A5CAFEF3CF,177003-2,"","","14","1895",

@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-92685,A,Cornaceae,,Griselinia,,"alata",,"","Ball",Synonym,,H,WCSP,92685,309923-2,"J. Linn. Soc., Bot.","22: 161","","1886",kew-92693
+kew-247356,A,Cornaceae,,Griselinia,,"carlomunozii",,"","M.O.Dillon & Muñoz-Schick",Accepted,,H,WCSP,247356,975813-1,"Brittonia","45: 265","","1993",
+kew-92686,A,Cornaceae,,Griselinia,,"jodinifolia",,"","(Griseb.) Taub.",Accepted,,H,WCSP,92686,113658-2,"Bot. Jahrb. Syst.","16: 390","","1893",
+kew-92687,A,Cornaceae,,Griselinia,,"littoralis",,"","(Raoul) Raoul",Accepted,,H,WCSP,92687,271806-1,"Choix Pl. Nouv.-Zél.","22","","1846",
+kew-92688,A,Cornaceae,,Griselinia,,"lucida",,"","(J.R.Forst. & G.Forst.) G.Forst.",Accepted,,H,WCSP,92688,271807-1,"Fl. Ins. Austr.","75","","1786",
+kew-92689,A,Cornaceae,,Griselinia,,"lucida",var.,"macrophylla","Hook.f.",Synonym,,L,WCSP,92689,,"Handb. N. Zeal. Fl.","105","","1867",kew-92688
+kew-92690,A,Cornaceae,,Griselinia,,"racemosa",,"","(Phil.) Taub.",Accepted,,H,WCSP,92690,113659-2,"Bot. Jahrb. Syst.","16: 390","","1893",
+kew-92691,A,Cornaceae,,Griselinia,,"ruscifolia",,"","(Gay) Ball",Accepted,,H,WCSP,92691,271809-1,"J. Linn. Soc., Bot.","22: 167","","1886",
+tro-8700036,A,Griseliniaceae,,Griselinia,,"ruscifolia",,"","(Clos) Taub.",Synonym,,M,TRO,8700036,113660-2,"Bot. Jahrb. Syst.","16: 391","391","1892",kew-92691
+kew-92692,A,Cornaceae,,Griselinia,,"ruscifolia",var.,"itatiaiae","(Wawra) Taub.",Synonym,,L,WCSP,92692,113662-2,"Bot. Jahrb. Syst.","16: 392","","1893",kew-92691
+tro-8700099,A,Griseliniaceae,,Griselinia,,"ruscifolia",var.,"ruscifolia","",Synonym,,L,TRO,8700099,,"","","","",kew-92691
+kew-92693,A,Cornaceae,,Griselinia,,"scandens",,"","(Ruiz & Pav.) Taub.",Accepted,,H,WCSP,92693,271811-1,"Bot. Jahrb. Syst.","16: 398","","1893",

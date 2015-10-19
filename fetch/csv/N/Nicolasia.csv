@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-19418,A,Compositae,,Nicolasia,,"affinis",,"","S.Moore",Synonym,,M,TICA,BAE97B58-1A79-4319-8204-23E2CB56563A,,"Bull. Herb. Boissier Ser. II. iv. 1014.","","1014","",gcc-22114
+gcc-13358,A,Compositae,,Nicolasia,,"coronata",,"","Wild",Accepted,,M,TICA,F2C1182C-6C13-4C8D-B884-18E60F411FFB,,"Kirkia 12(1): 16 (1980)","","","1980",
+gcc-52734,A,Compositae,,Nicolasia,,"coronata",subsp.,"coronata","",Synonym,,L,TICA,940E2D8A-1772-4DA7-9905-61C4CF7367C9,,"","","","",gcc-13358
+gcc-83932,A,Compositae,,Nicolasia,,"costata",,"","(Klatt) Thell.",Accepted,,M,TICA,A4CA1574-733A-41A0-8A16-75605654AEC9,234400-1,"Vierteljahrsschr. Naturf. Ges. Zürich lxviii. 446 (1923).","","lxviii. 446","1923",
+gcc-27672,A,Compositae,,Nicolasia,,"felicioides",,"","(Hiern) S.Moore",Accepted,,M,TICA,74B9ECCD-7354-4D15-825E-33235F077331,234401-1,"""in Journ. Bot. 1927, lxv. Suppl. 2, 52.""","","""lxv. Suppl. 2, 52""","1927",
+gcc-77184,A,Compositae,,Nicolasia,,"heterophylla",,"","S.Moore",Accepted,,M,TICA,51675A0D-857D-4643-BA47-664DA34F2361,234402-1,"""in Journ. Bot. 1900, 458.""","","458","1900",
+gcc-22114,A,Compositae,,Nicolasia,,"heterophylla",subsp.,"affinis","(S.Moore) Merxm.",Accepted,,L,TICA,3109B718-205C-4FAF-8FC5-28E699D8A30C,,"","","","",
+gcc-28618,A,Compositae,,Nicolasia,,"heterophylla",subsp.,"heterophylla","",Synonym,,L,TICA,025D7ABE-8BF7-4180-AE98-34E2A46F4F94,,"","","","",gcc-77184
+gcc-87784,A,Compositae,,Nicolasia,,"lugardi",,"","N.E.Br. ex S.Moore",Synonym,,M,TICA,4D667081-47DD-41DC-B5B8-7E01A1CC3CDF,,"Bull. Herb. Boiss. Ser. II. iv. 1015. (1904)","","","",gcc-83932
+gcc-135135,A,Compositae,,Nicolasia,,"lugardii",,"","N.E.Br.",Unresolved,,L,TICA,84EEF3AF-8858-4C98-A887-E94F8C32893A,,"Bull. Herb. Boissier Ser. II. iv. 1015.","","1015","",
+gcc-120377,A,Compositae,,Nicolasia,,"nitens",,"","(O.Hoffm.) Leins",Unresolved,,L,TICA,35697148-8F00-4A45-8F67-C763FAED5215,234404-1,"Mitt. Bot. Staatssamml. München 9: 107 (1971)","","107","1971",
+gcc-99724,A,Compositae,,Nicolasia,,"nitens",,"","(O.Hoffm.) Eyles",Accepted,,M,TICA,E7D8C465-C2EC-442E-A2EE-99035290F080,,"","","509","1950",
+gcc-62962,A,Compositae,,Nicolasia,,"nitens",var.,"nitens","",Synonym,,L,TICA,CC4B0E91-13B0-4C0A-BE44-B30B6C400C35,,"Transactions of the Royal Society of South Africa 5: 509. 1950.","","","",gcc-99724
+gcc-95703,A,Compositae,,Nicolasia,,"pedunculata",,"","S.Moore",Accepted,,M,TICA,9C443BC6-E27D-40B3-A2F8-8FF8E76D67AC,234405-1,"""in Journ. Bot. 1900, 459.""","","459","1900",
+gcc-43924,A,Compositae,,Nicolasia,,"pedunculata",subsp.,"pedunculata","",Synonym,,L,TICA,77B0A10E-E41F-4BC8-A0B3-516022DF3D2D,,"","","","",gcc-95703
+gcc-7240,A,Compositae,,Nicolasia,,"quinqueseta",,"","O.Hoffm. ex Thell.",Synonym,,M,TICA,26490DCA-72DE-40C2-BD91-0D766BFBE931,234406-1,"Vierteljahrsschr. Naturf. Ges. Zürich lxviii. 444 (1923).","","lxviii. 444","1923",gcc-99724
+gcc-118009,A,Compositae,,Nicolasia,,"stenoptera",,"","(O.Hoffm.) Merxm.",Accepted,,M,TICA,88F3EEAF-EAE7-457D-8025-C1F0E6F804E8,,"""in Mitt. Bot. Staatssamml. München, Heft 9-10, 402 (1954)""","","402","1954",
+gcc-69893,A,Compositae,,Nicolasia,,"stenoptera",subsp.,"makarikariensis","(Bremek. & Oberm.) Merxm.",Accepted,,L,TICA,35B4DE1F-4EFF-4313-B378-E9ED8D90CF0C,,"","","","",
+gcc-49544,A,Compositae,,Nicolasia,,"stenoptera",subsp.,"stenoptera","",Synonym,,L,TICA,70366F07-2459-45D8-9DC3-5BD435DC89D8,,"","","","",gcc-118009
+gcc-94700,A,Compositae,,Nicolasia,,"vedderiana",,"","Dinter ex Merxm.",Synonym,,M,TICA,BEB17F2F-799B-4CBD-AB2B-8DA52EB4977A,,"","","","",gcc-95703

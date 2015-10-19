@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-87377,A,Compositae,,Psilocarphus,,"berteri",,"","I.M.Johnst.",Synonym,,M,TICA,20B94E2B-FA07-4F4E-B7DD-7D2772BA7A7D,,"","","","",gcc-82373
+gcc-82001,A,Compositae,,Psilocarphus,,"brevissimus",,"","Nutt.",Accepted,,M,TICA,1CA16C9D-1A8D-44FD-9729-710D0E334CF9,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","340","1840",
+gcc-57931,A,Compositae,,Psilocarphus,,"brevissimus",var.,"brevissimus","",Accepted,,L,TICA,A8025396-6E05-4626-83E5-8A6F21251140,212018-2,"Res. Stud. State Coll. Wash. 18: 78. 1950","","78","1950",
+gcc-5113,A,Compositae,,Psilocarphus,,"caulescens",,"","Benth.",Synonym,,M,TICA,F48F0C12-80B9-404E-A158-098A0D8A8589,,"Pl. Hartw. 319.","","","1849",gcc-97179
+gcc-102897,A,Compositae,,Psilocarphus,,"chilensis",,"","Reiche",Unresolved,,L,TICA,3526DE21-E258-4B63-955C-A0240CA44AA7,239984-1,"""Fl. Chile, iv. 36.""","","iv. 36","",
+gcc-21415,A,Compositae,,Psilocarphus,,"chilensis",,"","(J.Rémy) A.Gray",Accepted,,M,TICA,214ADF04-488C-4183-95EC-27936F0918FD,,"","","448","1886",
+gcc-84273,A,Compositae,,Psilocarphus,,"chilensis",,"","Remy",Synonym,,M,TICA,54B5BE2C-8CF9-419F-B1DE-762D70D5BDDD,,"","","","1886",gcc-82001
+gcc-89027,A,Compositae,,Psilocarphus,,"chilensis",,"","F.Meigen",Unresolved,,L,TICA,7782545C-0D50-40AD-B580-80BC4EA7438E,,"","","","1893",
+gcc-109152,A,Compositae,,Psilocarphus,,"elatior",,"","(A.Gray) A.Gray",Accepted,,M,TICA,0593482B-6552-4D31-B1B1-ADFF7E51AFE8,212021-2,"","","448","1886",
+tro-2742703,A,Compositae,,Psilocarphus,,"globifer",,"","Nutt.",Synonym,,M,TRO,2742703,327908-2,"Trans. Amer. Philos. Soc., n.s.,","7: 340","340","1840",gcc-82001
+gcc-103681,A,Compositae,,Psilocarphus,,"globiferus",,"","(Bertero ex DC.) Speg.",Accepted,,M,TICA,D652801D-B335-4091-A27F-A1CC7313875B,212022-2,"Anales Soc. Ci. Argent. 48: 330. 1899 as globuliferus","","330","1899",
+gcc-124349,A,Compositae,,Psilocarphus,,"globiferus",,"","(Bertero ex DC.) A.Gray",Unresolved,Illegitimate,L,TICA,8241C835-27E2-4A51-880B-D07AC42F8B17,1004908-2,"Proc. Amer. Acad. Arts 8: 652. 1873","","652","1873",
+gcc-130818,A,Compositae,,Psilocarphus,,"globiferus",,"","Nutt.",Synonym,,M,TICA,86320122-A8E1-4F80-A9C3-DF6E736DFE06,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 340""","","340","1840",gcc-57931
+gcc-148082,A,Compositae,,Psilocarphus,,"globiferus",var.,"globiferus","",Synonym,,L,TICA,3EF118A3-A884-471A-A540-3B1E5D27788F,,"","","","",gcc-103681
+gcc-64195,A,Compositae,,Psilocarphus,,"globiferus",var.,"minimus","Cabrera",Synonym,,L,TICA,04C685F1-C1A9-4707-9307-BC9245111C86,,"","","","",gcc-82373
+gcc-118346,A,Compositae,,Psilocarphus,,"globuliferus",,"","Speg.",Unresolved,,L,TICA,85F6FD58-B991-40B6-9757-C2B7A8F4F9CB,239987-1,"Nov. Add. Fl. Patag. i. (1901) repr. 88.","","i.  repr. 88","1901",
+gcc-90539,A,Compositae,,Psilocarphus,,"oreganus",,"","A.Gray",Unresolved,,L,TICA,9355F784-E899-4F43-8055-8444EE76D148,,"Proc. Amer. Acad. Arts viii. (1873) 390 (non P. oregonus Nutt.).","","390","",
+gcc-8961,A,Compositae,,Psilocarphus,,"oregonus",,"","Nutt.",Accepted,,M,TICA,BB29727F-901D-47B0-BFE5-10C44D6FB2DC,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","341","1840",
+gcc-60441,A,Compositae,,Psilocarphus,,"oregonus",var.,"brevissimus","(Nutt.) Jeps.",Synonym,,L,TICA,803DC0D6-742F-40C8-83CB-9E58A8B2BA40,212024-2,"","","549","1901",gcc-82001
+gcc-65724,A,Compositae,,Psilocarphus,,"oregonus",var.,"elatior","A.Gray",Synonym,,L,TICA,0C800B73-FB3E-4FC3-875B-C9026941A0F5,,"Proceedings of the American Academy of Arts and Sciences 8:","","652","1873",gcc-109152
+gcc-23191,A,Compositae,,Psilocarphus,,"oregonus",var.,"oregonus","",Synonym,,L,TICA,21737FC7-F1DA-47AD-894B-2AEE71C452E0,,"","","","",gcc-8961
+gcc-82373,A,Compositae,,Psilocarphus,,"tenellus",,"","Nutt.",Accepted,,M,TICA,08FC418A-3DB5-42A6-B92E-71EA5EC5B4A8,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","341","1840",
+gcc-26786,A,Compositae,,Psilocarphus,,"tenellus",var.,"globiferus","(Bertero ex DC.) Morefield",Synonym,,L,TICA,13BA7477-CE30-484D-871D-317E16F17A45,967466-1,"","","156","1992",gcc-21415
+gcc-25298,A,Compositae,,Psilocarphus,,"tenellus",var.,"tenellus","",Synonym,,L,TICA,695C6924-2D3D-41D3-85AC-2EB2088BC7DF,212026-2,"Res. Stud. State Coll. Wash. 18: 86. 1950","","86","1950",gcc-82373
+gcc-60823,A,Compositae,,Psilocarphus,,"tenellus",var.,"tenellus","",Synonym,,L,TICA,C9EFB664-C0EC-4BAD-8811-A1831B243480,,"","","","",gcc-82373
+gcc-30629,A,Compositae,,Psilocarphus,,"tenellus",var.,"tenuis","(Eastw.) Cronquist",Synonym,,L,TICA,D156E666-11F9-4D59-9F28-38B2C69E55CC,212027-2,"Res. Stud. State Coll. Wash. 18: 88. 1950","","88","1950",gcc-21415
+gcc-91711,A,Compositae,,Psilocarphus,,"tenuis",,"","Eastw.",Synonym,,M,TICA,1409B7DA-4842-4C0C-B035-86F248C92B31,212028-2,"","","292","1906",gcc-82373

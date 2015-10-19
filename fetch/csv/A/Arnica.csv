@@ -1,0 +1,384 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-47144,A,Compositae,,Arnica,,"abortiva",,"","Greene",Synonym,,M,TICA,EFE5574B-C7EA-40D6-94CE-5759C8D4CD69,19841-2,"Leafl. Bot. Observ. Crit. 2","","47","1910",gcc-3757
+gcc-93150,A,Compositae,,Arnica,,"acaulis",,"","(Walter) ""Britton, Sterns & Poggenb.""",Accepted,,L,TICA,C8EA2545-2800-4329-81A6-8A1D1840E93E,19842-2,"","","30","1888",
+gcc-118559,A,Compositae,,Arnica,,"alata",,"","Rydb.",Synonym,,M,TICA,52AA97AD-29DB-4E59-85E3-C33AF8AD4137,19843-2,"N. Amer. Fl. 34","","342","1927",gcc-43298
+gcc-129022,A,Compositae,,Arnica,,"alpina",,"","Salisb.",Synonym,,M,TICA,C459D087-EC15-4EC6-AB49-DB56F55F5ED5,178875-1,"","","201","1796",gcc-3438
+gcc-134540,A,Compositae,,Arnica,,"alpina",,"","(L.) Olin & Ladau",Synonym,Illegitimate,M,TICA,8E3777D0-1500-49EB-BDA4-E8088802E169,30028291-2,"Diss. 11.","","11","1799",gcc-110508
+gcc-143331,A,Compositae,,Arnica,,"alpina",,"","Willd. ex Steud.",Synonym,Invalid,M,TICA,24A44D39-B8AA-490F-840E-FBA154D33783,178874-1,"","","70","1821",gcc-103364
+gcc-150841,A,Compositae,,Arnica,,"alpina",subsp.,"alpina","",Synonym,,L,TICA,1BE49296-FFBE-4C7E-8A97-7766B6EC69DA,,"","","","",gcc-3438
+gcc-154380,A,Compositae,,Arnica,,"alpina",var.,"alpina","",Synonym,,L,TICA,A881C051-E6B8-4591-ACD7-C25D27218D54,,"","","","",gcc-69145
+gcc-155518,A,Compositae,,Arnica,,"alpina",f.,"alpina","",Synonym,,L,TICA,299B475D-3E43-40C9-8611-D9F92CB4BA14,,"","","","",gcc-69145
+gcc-57234,A,Compositae,,Arnica,,"alpina",var.,"angustifolia","Fernald",Unresolved,,L,TICA,046FA0F9-771F-4215-A398-84CE7D479A08,19845-2,"Rhodora 36(423):","","96","1934",gcc-110508
+gcc-67037,A,Compositae,,Arnica,,"alpina",subsp.,"angustifolia","(Vahl) Maguire",Synonym,,L,TICA,2F447EC6-59CC-46B4-94D9-D3A9584013FF,19844-2,"Madroño 6","","153","1942",gcc-110508
+gcc-49031,A,Compositae,,Arnica,,"alpina",var.,"attenuata","(Greene) Ediger & T.M.Barkley",Synonym,,L,TICA,4203AF6F-879F-42BB-994F-5AD4361F2215,,"""North American Flora, series 2, 10:""","","31","1978",gcc-110508
+gcc-56823,A,Compositae,,Arnica,,"alpina",subsp.,"attenuata","(Greene) Maguire",Synonym,,L,TICA,035F2207-D9B5-42C1-89F4-81788ACDDA8A,19847-2,"Madroño 6","","153","1942",gcc-110508
+gcc-67858,A,Compositae,,Arnica,,"alpina",subsp.,"iljinii","Maguire",Synonym,,L,TICA,1B28F783-0F46-4AC9-9AF6-DA92480915E4,,"","","","1943",gcc-6062
+gcc-73402,A,Compositae,,Arnica,,"alpina",f.,"inundata","Porsild",Synonym,,L,TICA,6EAD19E6-4C5F-4FF6-ACAB-1796AD68512E,19848-2,"","","181","1926",gcc-103364
+gcc-31131,A,Compositae,,Arnica,,"alpina",var.,"linearis","Hultén",Synonym,,L,TICA,B6680F28-734A-48C4-85B1-39A2ED9CAA85,299353-2,"""Acta Universitatis Lundensis, n.s. 46(1):""","","1588","1950",gcc-110508
+gcc-39622,A,Compositae,,Arnica,,"alpina",subsp.,"lonchophylla","(Greene) G.W.Douglas & Ruyle-Dougl.",Unresolved,,L,TICA,1D957697-62F4-4020-BEC1-4987EF38F92D,876524-1,"Canad. J. Bot. 56","","185","1978",gcc-110843
+gcc-61681,A,Compositae,,Arnica,,"alpina",var.,"lonchophylla","(Greene) S.L.Welsh",Synonym,,L,TICA,131B0CD1-9922-41F0-9DE6-A8ADF3E4B941,19849-2,"Great Basin Naturalist 28(3):","","149","1968",gcc-110843
+gcc-68773,A,Compositae,,Arnica,,"alpina",subsp.,"lonchophylla","(Greene) Roy L.Taylor & MacBryde",Synonym,,L,TICA,78E23196-F142-475A-88F7-E14E78F59C47,,"","","","",gcc-110843
+gcc-9941,A,Compositae,,Arnica,,"alpina",var.,"plantaginea","(Pursh) Ediger & T.M.Barkley",Synonym,,L,TICA,5AADCEF9-9079-4A01-9833-12934A65F5ED,,"","","","",gcc-110508
+gcc-69270,A,Compositae,,Arnica,,"alpina",subsp.,"sornborgeri","(Fernald) Maguire",Synonym,,L,TICA,63894D3E-77DA-48A0-81DE-E51A689AAE09,19852-2,"Brittonia 4","","414","1943",gcc-110508
+gcc-47620,A,Compositae,,Arnica,,"alpina",subsp.,"tomentosa","(Macoun) Maguire",Synonym,,L,TICA,2FACC691-6A53-4A5C-9CB9-583A6ECAE021,19853-2,"Madroño 6","","153","1942",gcc-30700
+gcc-67287,A,Compositae,,Arnica,,"alpina",var.,"tomentosa","Cronquist",Synonym,,L,TICA,54B08E47-72EE-4E1A-9426-D5FC87A6B37C,19854-2,"Vascular Plants of the Pacific Northwest 5:","","46","1955",gcc-30700
+gcc-24358,A,Compositae,,Arnica,,"alpina",var.,"ungavensis","(B.Boivin) B.Boivin",Unresolved,,L,TICA,BB61B7C4-B34B-4E21-9D4F-2D001EF44730,876526-1,"Phytologia 23(1):","","95","1972",gcc-110508
+gcc-26647,A,Compositae,,Arnica,,"alpina",var.,"vestita","Hultén",Synonym,,L,TICA,59198733-AB03-47D9-8AF1-313C17DB837E,299352-2,"""Acta Universitatis Lundensis, n.s. 46(1):""","","1588","1950",gcc-110508
+gcc-100446,A,Compositae,,Arnica,,"altaica",,"","(Pall.) Turcz.",Synonym,Illegitimate,M,TICA,452D632F-34E2-48AA-ADC7-9AA6430AD44E,178877-1,"","","12","1847",gcc-99553
+gcc-100461,A,Compositae,,Arnica,,"amplexicaulis",,"","Wall. ex DC.",Synonym,Illegitimate,M,TICA,C1045961-1685-4574-8DD4-9AABDB3EA1AA,178879-1,"","","314","1838",gcc-127955
+gcc-37770,A,Compositae,,Arnica,,"amplexicaulis",,"","Nutt.",Synonym,,M,TICA,EE97C46C-477F-4993-B4E6-460B2CC77751,,"""Trans. Amer. Philos. Soc. ser. 2, 7""","","408","1841",gcc-19052
+gcc-42855,A,Compositae,,Arnica,,"amplexicaulis",var.,"amplexicaulis","",Synonym,,L,TICA,850202AA-6443-4827-8380-4F61A266CB58,,"","","","",gcc-19052
+gcc-71981,A,Compositae,,Arnica,,"amplexicaulis",subsp.,"amplexicaulis","",Synonym,,L,TICA,D7F3B0E5-9440-4633-8714-FA5E9B5A7512,,"","","","",gcc-19052
+gcc-71161,A,Compositae,,Arnica,,"amplexicaulis",var.,"piperi","H.St.John",Unresolved,,L,TICA,C7D325B6-14C2-451F-AC82-F40630E35D3F,19859-2,"Proceedings of the Biological Society of Washington 44(10):","","36","1931",gcc-19052
+gcc-1302,A,Compositae,,Arnica,,"amplexicaulis",var.,"prima","(Maguire) B.Boivin",Unresolved,,L,TICA,46A5ACF3-0FB6-46F9-B75C-025ED00ED0EE,19861-2,"Le Naturaliste Canadien 94(5):","","632","1967",gcc-19052
+gcc-70654,A,Compositae,,Arnica,,"amplexicaulis",subsp.,"prima","(Maguire) Maguire",Synonym,,L,TICA,78183D09-CD0D-44CC-B410-EFBC40800D86,19860-2,"Brittonia 4","","472","1943",gcc-19052
+gcc-96882,A,Compositae,,Arnica,,"amplexifolia",,"","Rydb.",Synonym,Illegitimate,M,TICA,9C44A1D5-6666-4AEA-9E5A-928A74D27681,19862-2,"Mem. New York Bot. Gard. 1","","434","1900",gcc-127955
+gcc-149238,A,Compositae,,Arnica,,"amplexifolia",var.,"amplexifolia","",Synonym,,L,TICA,2ADDB9E1-3821-45C0-A411-54B5C96DA840,,"","","","",gcc-127955
+gcc-154190,A,Compositae,,Arnica,,"amplexifolia",subsp.,"amplexifolia","",Synonym,,L,TICA,165C6DDF-34C6-4071-8292-BE5712A73F48,,"","","","",gcc-127955
+gcc-37284,A,Compositae,,Arnica,,"amplexifolia",var.,"borealis","(Rydb.) Maguire",Synonym,,L,TICA,74978D93-60EA-4828-82DC-4515232FD325,299351-2,"Madroño 6","","154","1942",gcc-127955
+gcc-35563,A,Compositae,,Arnica,,"amplexifolia",subsp.,"prima","Maguire",Synonym,,L,TICA,5A444E73-1BD9-45D8-864D-41F08E31AAB7,19865-2,"Madroño 6","","154","1942",gcc-19052
+gcc-58628,A,Compositae,,Arnica,,"amplexifolia",var.,"trina","(A.Nelson) Maguire",Synonym,,L,TICA,78E42C7D-CB76-40DF-ADA6-903E319B348A,19866-2,"Rhodora 41","","507","1939",gcc-127955
+gcc-20010,A,Compositae,,Arnica,,"amplifolia",,"","Rydb.",Synonym,,M,TICA,FE08468C-282C-4262-A3A0-24FE595BF4F8,19867-2,"N. Amer. Fl. 34","","354","1927",gcc-116833
+gcc-120015,A,Compositae,,Arnica,,"andersonii",,"","Piper",Synonym,,M,TICA,F11C06FE-AC7D-4B28-A452-C67FAB6097FD,19868-2,"Proc. Biol. Soc. Wash. 33","","106","1920",gcc-3757
+gcc-110508,A,Compositae,,Arnica,,"angustifolia",,"","Vahl",Accepted,,M,TICA,EC2A5969-C593-4CF4-A4FA-B108DEF4BC0E,,"","","5","1816",
+gcc-110525,A,Compositae,,Arnica,,"angustifolia",,"","A.Gray",Synonym,Illegitimate,M,TICA,4F48D61E-5927-4659-BB04-B1130F9CFA76,,"","","238","1862",gcc-116615
+gcc-128324,A,Compositae,,Arnica,,"angustifolia",,"","Turcz. ex Ledeb.",Synonym,Illegitimate,M,TICA,0331C9CD-B014-4FF8-A388-D9C33AF5F087,,"","","","1845",gcc-103364
+gcc-69145,A,Compositae,,Arnica,,"angustifolia",subsp.,"alpina","(L.) I.K.Ferguson",Accepted,,L,TICA,04CBD87B-E7C7-40F3-858F-E440624DC5F7,876527-1,"I. K. Ferguson in Bot. J. Linn. Soc. 67. 1973.","","282","1973",
+gcc-157162,A,Compositae,,Arnica,,"angustifolia",var.,"angustifolia","",Synonym,,L,TICA,65863F7F-D9F1-47C2-9CA4-FC42291202E0,,"","","","",gcc-110508
+gcc-65691,A,Compositae,,Arnica,,"angustifolia",subsp.,"angustifolia","",Synonym,,L,TICA,89DED139-DD87-4E62-8A60-C8D0A5ED0D58,,"","","","",gcc-110508
+gcc-67107,A,Compositae,,Arnica,,"angustifolia",subsp.,"attenuata","(Greene) G.W.Douglas & Ruyle-Dougl.",Unresolved,,L,TICA,50D2FA1C-52F0-4DB0-87B5-D436C7C78771,876528-1,"Canad. J. Bot. 56","","1710","1978",gcc-110508
+gcc-56903,A,Compositae,,Arnica,,"angustifolia",var.,"eradiata","A.Gray",Synonym,,L,TICA,B488069A-5C7C-40FB-9D67-82039EC02313,,"Proceedings of the Academy of Natural Sciences of Philadelphia 15(3):","","68","1863 [1864]",gcc-116615
+gcc-6062,A,Compositae,,Arnica,,"angustifolia",subsp.,"iljinii","(Maguire) I.K.Ferguson",Accepted,,L,TICA,1EC2A5CD-3FD2-4252-B0A2-0B474005EB58,876529-1,"I. K. Ferguson in Bot. J. Linn. Soc. 67. 1973.","","282","1973",
+gcc-503,A,Compositae,,Arnica,,"angustifolia",var.,"lessingii","Torr. & A.Gray",Synonym,,L,TICA,5344D95B-F9F2-4D8A-82C2-00EF8C240B01,19872-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 449. 1843 [Feb 1843]","","449","1843",gcc-9518
+gcc-70443,A,Compositae,,Arnica,,"angustifolia",subsp.,"lonchophylla","(Greene) G.W.Douglas & Ruyle-Dougl.",Unresolved,,L,TICA,3BAC7E3E-50AB-48AD-8FA2-EE2F3BA4A23E,876530-1,"Canad. J. Bot. 56","","1710","1978",gcc-110843
+gcc-30700,A,Compositae,,Arnica,,"angustifolia",subsp.,"tomentosa","(J.M.Macoun) G.W.Douglas & Ruyle-Dougl.",Unresolved,,L,TICA,C44D91A4-42A3-4518-BF15-38DBCE46AC65,876531-1,"Canad. J. Bot. 56","","1710","1978",
+gcc-57113,A,Compositae,,Arnica,,"angustifolia",var.,"tomentosa","(Macoun) Dorn",Synonym,,L,TICA,DAF746C5-505C-456E-A7B5-83BFAEBFB83B,,"","","","",gcc-30700
+gcc-40488,A,Compositae,,Arnica,,"aphanactis",,"","Piper",Synonym,,M,TICA,E51F3A37-3EC8-4A11-A5B3-4B08E1D16EC4,19875-2,"Proc. Biol. Soc. Wash. 33","","105","1920",gcc-106281
+gcc-84774,A,Compositae,,Arnica,,"aprica",,"","Greene",Synonym,,M,TICA,7ED8361A-4FC3-421C-8FE1-7742C019B92C,19876-2,"Ottawa Naturalist 15","","280","1902",gcc-106281
+gcc-102971,A,Compositae,,Arnica,,"arachnoidea",,"","Rydb.",Synonym,,M,TICA,BBB053D7-022B-4C30-9654-A04773E1AFC8,19877-2,"N. Amer. Fl. 34","","353","1927",gcc-116833
+gcc-130537,A,Compositae,,Arnica,,"arcana",,"","A.Nelson",Synonym,,M,TICA,6186187E-4013-4BD2-8A51-DEC2302D04BB,19878-2,"Bot. Gaz. 37","","276","1904",gcc-131687
+gcc-10039,A,Compositae,,Arnica,,"arnoglossa",,"","Greene",Synonym,,M,TICA,295AE8EB-1527-4491-A3CB-12C81ACF8C85,19879-2,"Pittonia 4","","166","1900",gcc-110843
+gcc-116508,A,Compositae,,Arnica,,"aspera",,"","Greene",Synonym,,M,TICA,BFA81FC0-2E90-412E-BB99-BE8F723DE0D3,19880-2,"Ottawa Naturalist 15","","281","1902",gcc-116833
+gcc-113240,A,Compositae,,Arnica,,"attenuata",,"","Greene",Synonym,,M,TICA,70E23AD5-A5D3-41B0-9043-B73183848E81,19881-2,"Pittonia 4","","170","1900",gcc-110508
+gcc-89570,A,Compositae,,Arnica,,"attenuata",,"","(Greene) Maguire",Accepted,,M,TICA,7BE42078-978B-4C7D-B709-8200AFF9584E,,"","","","",
+gcc-327,A,Compositae,,Arnica,,"aurantiaca",,"","Greene",Synonym,,M,TICA,DBF30692-9E6C-4399-867E-00963F512A44,19882-2,"Torreya 1","","42","1901",gcc-39642
+gcc-90493,A,Compositae,,Arnica,,"auriculata",,"","Willd. ex Ledeb.",Synonym,,M,TICA,B5680D84-F174-4546-82F7-842A75134AB5,,"","","","1845",gcc-743
+gcc-93038,A,Compositae,,Arnica,,"austinae",,"","Rydb.",Synonym,,M,TICA,AAF786E5-AFDD-4D58-AC02-89E99B0680AA,19883-2,"N. Amer. Fl. 34","","340","1927",gcc-3757
+gcc-3531,A,Compositae,,Arnica,,"austriaca",,"","(Jacq.) Hoppe",Synonym,,M,TICA,45B9D3EE-87E2-4932-B893-067F6977EF69,1017497-2,"","","16","1814",gcc-87190
+gcc-9590,A,Compositae,,Arnica,,"austriaca",,"","Hoppe ex Schur",Unresolved,,L,TICA,81EA2DE1-047F-4E79-AE85-11EAB1AA92E4,178896-1,"Enum. Pl. Transsilv. 340. 1866 [Apr-Jun 1866]","","340","1866",
+gcc-128043,A,Compositae,,Arnica,,"bellidiastrum",,"","All.",Synonym,,M,TICA,E6480E65-B745-4E1E-A8C4-D913F5215F29,178897-1,"","","205","1785",gcc-129401
+gcc-25809,A,Compositae,,Arnica,,"bernardina",,"","Greene",Synonym,,L,TICA,C071E1E2-30D2-4724-9179-2FAE8476E91A,19884-2,"Pittonia 4","","170","1900",gcc-81611
+gcc-7417,A,Compositae,,Arnica,,"betonicifolia",,"","Greene",Synonym,,M,TICA,F40F5C05-D0C1-4357-A67E-0DC9D912E9A9,19885-2,"Pittonia 4","","163","1900",gcc-106281
+gcc-27976,A,Compositae,,Arnica,,"betonicifolia",var.,"betonicifolia","",Synonym,,L,TICA,173A65B6-F7F9-4334-AFB6-33AF8F2E7AAE,,"","","","",gcc-106281
+gcc-59847,A,Compositae,,Arnica,,"betonicifolia",var.,"gracilis","(Rydb.) M.E.Jones",Synonym,,L,TICA,67297CA3-04AE-43BD-BCDA-99BA5035FBAE,19886-2,"""Bull. Montana State Univ., Biol. Ser. 15: 48 (1910)""","","48","1910",gcc-131687
+gcc-99422,A,Compositae,,Arnica,,"borealis",,"","Rydb.",Synonym,,M,TICA,F649A07A-C9BE-4BC9-9D6B-9853DED876EB,178900-1,"N. Amer. Fl. 34","","351","1927",gcc-127955
+gcc-115700,A,Compositae,,Arnica,,"brevicaulis",,"","Raf.",Unresolved,,L,TICA,5EA6A4F7-DE5C-45A2-AEE5-BCC9F2825B2A,,"","","23","1837",
+gcc-15478,A,Compositae,,Arnica,,"brevifolia",,"","Rydb.",Synonym,,M,TICA,D77A0E4C-7C6A-4CAB-B3EB-1CAA2A8F54E3,178902-1,"N. Amer. Fl. 34","","329","1927",gcc-59174
+gcc-2231,A,Compositae,,Arnica,,"bruceae",,"","Rydb.",Synonym,,L,TICA,9F889763-68C7-4C17-8959-040684242199,19887-2,"N. Amer. Fl. 34","","347","1927",gcc-81611
+gcc-104885,A,Compositae,,Arnica,,"caespitosa",,"","A.Nelson",Synonym,,M,TICA,196F7504-DADC-4100-87AB-A46E2DD563B6,19888-2,"Bot. Gaz. 30","","203","1900",gcc-39642
+gcc-140608,A,Compositae,,Arnica,,"caffra",,"","L.",Unresolved,,L,TICA,FB3EB568-A1AF-40CE-A20A-F572739E47E4,178905-1,"","","1219","1759",
+gcc-80050,A,Compositae,,Arnica,,"cana",,"","Greene",Unresolved,,L,TICA,D94FDF61-974A-48E0-AF9D-6CBE5D80CE5F,19889-2,"Ottawa Naturalist 15","","282","1902",gcc-81611
+gcc-45695,A,Compositae,,Arnica,,"cascadensis",,"","H.St.John",Synonym,,M,TICA,EAEBC382-E02A-4A62-B91C-54B358F70E83,19890-2,"","","C10","1927",gcc-39642
+gcc-36210,A,Compositae,,Arnica,,"caudata",,"","Rydb.",Synonym,,M,TICA,1C1A9F24-C658-45BF-9DDA-4326A2609C9A,19891-2,"Bull. Torrey Bot. Club 37","","463","1910",gcc-104237
+gcc-47575,A,Compositae,,Arnica,,"celsa",,"","A.Nelson",Synonym,,L,TICA,5500D7AC-0FF1-4D5C-906E-582733006056,19892-2,"Bot. Gaz. 31","","408","1901",gcc-81611
+gcc-21839,A,Compositae,,Arnica,,"cernua",,"","Howell",Accepted,,M,TICA,988D7841-74A8-4017-9707-286758E91123,60440714-2,"","","373","1900",
+gcc-81611,A,Compositae,,Arnica,,"chamissonis",,"","Less.",Accepted,,L,TICA,C106FD6D-A987-4D67-A724-70373D04E6EB,305804-2,"Linnaea 6: 238. 1831","","238","1831",
+gcc-61031,A,Compositae,,Arnica,,"chamissonis",var.,"andina","(Nutt.) Ediger & T.M.Barkley",Synonym,,L,TICA,4E488EB6-8068-4B33-BA9F-A33E7257DEE1,,"""North American Flora, series 2, 10:""","","21","1978",gcc-81611
+gcc-58335,A,Compositae,,Arnica,,"chamissonis",var.,"bernardina","(Greene) Jeps. ex Maguire",Synonym,,L,TICA,369B524C-02BD-4E5B-9623-8DD5A1FF3AB9,,"American Midland Naturalist 37(1):","","140","1947",gcc-81611
+gcc-156896,A,Compositae,,Arnica,,"chamissonis",f.,"chamissonis","",Synonym,,L,TICA,F6C3E820-1149-4494-AE01-F66BCE9A1C6E,,"","","","",gcc-81611
+gcc-15827,A,Compositae,,Arnica,,"chamissonis",subsp.,"chamissonis","",Synonym,,L,TICA,D7031903-3E42-4C21-997C-1D4DE99F754D,,"","","","",gcc-81611
+gcc-54911,A,Compositae,,Arnica,,"chamissonis",var.,"chamissonis","",Synonym,,L,TICA,325EE41E-101E-4952-A7F6-71D6F858817B,,"","","","",gcc-81611
+gcc-63225,A,Compositae,,Arnica,,"chamissonis",var.,"chamissonis","",Synonym,,L,TICA,4EB3A0A8-33BF-4E11-B7ED-B52CD780C4E1,,"","","","",gcc-81611
+gcc-59247,A,Compositae,,Arnica,,"chamissonis",var.,"foliosa","(Nutt.) Maguire",Synonym,,L,TICA,9DC55C4A-8A17-4E6D-A909-94EF99AA3424,299348-2,"Amer. Midl. Naturalist 37","","139","1947",gcc-81611
+gcc-61628,A,Compositae,,Arnica,,"chamissonis",subsp.,"foliosa","(Nutt.) Maguire",Synonym,,L,TICA,F2F49347-7307-478E-AF69-A8211E5E5779,19894-2,"Rhodora 41","","508","1939",gcc-81611
+gcc-54086,A,Compositae,,Arnica,,"chamissonis",subsp.,"incana","(A.Gray) Maguire",Synonym,,L,TICA,0EA9BA55-2734-4E7B-8B86-6B5B744F9794,19897-2,"Brittonia 4","","466","1943",gcc-81611
+gcc-57013,A,Compositae,,Arnica,,"chamissonis",var.,"incana","(A.Gray) Hultén",Synonym,,L,TICA,26FA0827-2E74-443C-82F1-82F2FBC9F493,299347-2,"""Acta Universitatis Lundensis, n.s. 46(1):""","","1591","1950",gcc-81611
+gcc-37532,A,Compositae,,Arnica,,"chamissonis",var.,"interior","Maguire",Synonym,,L,TICA,FD62AF2B-046E-40BC-854A-458EDBE5DE8C,299344-2,"Madroño 6","","154","1942",gcc-81611
+gcc-66694,A,Compositae,,Arnica,,"chamissonis",var.,"jepsoniana","Maguire",Synonym,,L,TICA,5E09BCF2-6B61-4621-8E9B-D0D8DA392351,299346-2,"Amer. Midl. Naturalist 37","","140","1947",gcc-81611
+gcc-70830,A,Compositae,,Arnica,,"chamissonis",var.,"longinodosa","A.Nelson",Synonym,,L,TICA,3BB65881-DBE1-4378-B9E5-F1326365F299,19899-2,"Bot. Gaz. 30","","199","1900",gcc-81611
+gcc-15187,A,Compositae,,Arnica,,"chamissonis",var.,"maguirei","(A.Nelson) Maguire",Synonym,,L,TICA,1383B086-BBB0-4315-8BC2-1C1D1A091F70,299345-2,"Rhodora 41","","508","1939",gcc-81611
+gcc-67032,A,Compositae,,Arnica,,"chamissonis",var.,"sachalinensis","Regel",Synonym,,L,TICA,C7595B1D-B312-4C91-A1C4-D39DE8E59E1B,,"","","","",gcc-8635
+gcc-127337,A,Compositae,,Arnica,,"chandleri",,"","Rydb.",Synonym,,M,TICA,F67E57FE-C16E-4861-B81E-D76B3E8C7A00,19900-2,"N. Amer. Fl. 34","","339","1927",gcc-21839
+gcc-126517,A,Compositae,,Arnica,,"chionopappa",,"","Fernald",Synonym,,M,TICA,19F33CCA-5873-4116-A368-D57F62EE1049,19901-2,"Rhodora 7","","148","1905",gcc-110843
+gcc-106431,A,Compositae,,Arnica,,"chionophila",,"","Greene",Synonym,,M,TICA,310E29B6-1564-4D84-9E1D-A7C4E743350A,19902-2,"Pittonia 4","","171","1900",gcc-3757
+gcc-39723,A,Compositae,,Arnica,,"ciliaris",,"","Rydb.",Unresolved,,L,TICA,CC442207-A969-491E-9ACD-49B4698EDC4D,19903-2,"N. Amer. Fl. 34","","351","1927",
+gcc-52635,A,Compositae,,Arnica,,"ciliata",,"","Thunb.",Synonym,,L,TICA,0DFD06FD-D523-41CD-9156-618F12641E1C,927452-1,"","","","1784",gcc-137722
+gcc-86144,A,Compositae,,Arnica,,"claytonii",,"","Pursh",Synonym,Illegitimate,L,TICA,CB9988F9-7981-4F72-8AF1-7A40323C70C5,,"","","","",gcc-93150
+gcc-105349,A,Compositae,,Arnica,,"clusii",,"","All.",Synonym,,M,TICA,7BBA53DD-26C4-4870-A2B1-A5670CF8AFB5,,"","","205","",gcc-30150
+gcc-99770,A,Compositae,,Arnica,,"coloradensis",,"","Rydb.",Synonym,,M,TICA,941C7183-5760-4C4B-8382-991777073D97,19904-2,"Bull. Torrey Bot. Club 32","","131","1905",gcc-116833
+gcc-140408,A,Compositae,,Arnica,,"columbiana",,"","Greene",Synonym,Illegitimate,L,TICA,3B352DA4-4664-4E24-B78A-F4F1C219E78D,291423-2,"Pittonia 4","","159","1900",gcc-81611
+gcc-99993,A,Compositae,,Arnica,,"columbiana",,"","A.Nelson",Synonym,,M,TICA,94A6E08A-7D5C-47FD-AAEA-999678116D02,19905-2,"Bot. Gaz. 30","","200","1900",gcc-131687
+gcc-141648,A,Compositae,,Arnica,,"confinis",,"","Greene",Synonym,,M,TICA,09525AB6-B00F-4AC4-A4D1-F7DE17BD5CD8,19906-2,"Ottawa Naturalist 15","","281","1902",gcc-116833
+gcc-118039,A,Compositae,,Arnica,,"cordata",,"","E.Mey. ex DC.",Synonym,,M,TICA,984C1B69-FE91-44D2-B29B-C203BBD0A46B,178923-1,"","","16","1838",gcc-25577
+gcc-118459,A,Compositae,,Arnica,,"cordata",,"","Wulfen",Synonym,,M,TICA,29FC671F-8EA5-4177-BC67-C2FE9CDF4C63,,"","","","1805",gcc-33565
+gcc-44657,A,Compositae,,Arnica,,"cordata",,"","Thunb.",Synonym,,M,TICA,01F3A95E-BFA5-4046-BECE-52BCBB410263,178922-1,"","","154","1800",gcc-21971
+gcc-3757,A,Compositae,,Arnica,,"cordifolia",,"","Hook.",Accepted,,M,TICA,93B59155-A9CF-422D-B6C6-06FB5D62E32D,,"","","331","1834",
+gcc-6685,A,Compositae,,Arnica,,"cordifolia",subsp.,"cordifolia","",Synonym,,L,TICA,1807CC5B-25DC-45F5-AC83-0C6915D89C14,,"","","","",gcc-3757
+gcc-67031,A,Compositae,,Arnica,,"cordifolia",var.,"cordifolia","",Synonym,,L,TICA,740B4475-7687-492B-AE73-D39D942F8321,299343-2,"Amer. Midl. Naturalist 37: 137. 1947","","137","1947",gcc-3757
+gcc-66102,A,Compositae,,Arnica,,"cordifolia",var.,"eradiata","A.Gray",Synonym,,L,TICA,EC573D51-1734-461A-BD26-CC032580BCF3,19907-2,"","","381","1884",gcc-43298
+gcc-5372,A,Compositae,,Arnica,,"cordifolia",var.,"humilis","(Rydb.) Maguire",Synonym,,L,TICA,618C2FEA-FED8-4A04-8DF4-0A0598651D75,299342-2,"Amer. Midl. Naturalist 37","","138","1947",gcc-3757
+gcc-55606,A,Compositae,,Arnica,,"cordifolia",var.,"macrophylla","(Nutt.) Maguire",Synonym,,L,TICA,F4DA7F38-7DAE-4B21-8356-775DD3803B70,299341-2,"Amer. Midl. Naturalist 37","","137","1947",gcc-3757
+gcc-41127,A,Compositae,,Arnica,,"cordifolia",var.,"pumila","(Rydb.) Maguire",Synonym,,L,TICA,C3EF9331-A2B7-405F-BCFC-4C3A1E0CDD44,299340-2,"Madroño 6","","154","1942",gcc-3757
+gcc-62729,A,Compositae,,Arnica,,"cordifolia",var.,"whitneyi","(Fernald) Maguire",Synonym,,L,TICA,2ACB0B48-D235-44DF-9CA5-B100D9F26572,,"","","","",gcc-3757
+gcc-64506,A,Compositae,,Arnica,,"cordifolia",subsp.,"whitneyi","(Fernald) Maguire",Synonym,,L,TICA,4B7FF533-C5FF-4C61-988D-BF1DA2C181E4,19909-2,"Brittonia 4","","452","1943",gcc-3757
+gcc-81286,A,Compositae,,Arnica,,"coronopifolia",,"","L.",Synonym,,M,TICA,FC40251E-3432-4009-9394-6F734BD0579D,178926-1,"","","885","1753",gcc-42970
+gcc-95715,A,Compositae,,Arnica,,"corsica",,"","Loisel.",Synonym,,M,TICA,26D3B289-F91E-418F-B6DA-90004AC0B981,329152-2,"","","576","1807",gcc-30912
+gcc-113484,A,Compositae,,Arnica,,"crenata",,"","Thunb.",Synonym,,M,TICA,2FA5602C-B865-4134-A8E7-B7B8FD61BEA1,178928-1,"","","154","1800",gcc-12278
+gcc-125917,A,Compositae,,Arnica,,"crocea",,"","Greene",Synonym,Illegitimate,M,TICA,68588560-0258-4597-86EE-D424F2BC4C70,19910-2,"Pittonia 4","","159","1900",gcc-116833
+gcc-40738,A,Compositae,,Arnica,,"crocea",,"","L.",Synonym,,M,TICA,98B57945-AF6F-4059-97DD-4B7F65BC4CAC,178929-1,"","","885","1753",gcc-35218
+gcc-124856,A,Compositae,,Arnica,,"crocina",,"","Greene",Synonym,,M,TICA,7854742F-5491-41DD-BD11-D1AF2B6EA251,19911-2,"Torreya 1","","42","1901",gcc-116833
+gcc-82451,A,Compositae,,Arnica,,"cusickii",,"","Rydb.",Synonym,,M,TICA,C06A7924-73B6-4E90-B96B-721C7A5205A5,19912-2,"N. Amer. Fl. 34","","343","1927",gcc-3581
+gcc-123330,A,Compositae,,Arnica,,"dealbata",,"","(A.Gray) B.G.Baldwin",Accepted,,M,TICA,0865EEDD-E774-4EA2-80D3-CE0C3970B347,1012643-1,"Novon 9(4)","","460","1999",
+gcc-107218,A,Compositae,,Arnica,,"denudata",,"","Greene",Accepted,,M,TICA,1589EF70-5049-44BB-B2E6-A99784669866,19913-2,"Pittonia 3","","105","1896",
+gcc-25562,A,Compositae,,Arnica,,"denudata",var.,"alata","(Rydb.) Cronquist",Synonym,,L,TICA,F6CB91FE-56C8-4CFB-B9EF-2F362C9F6650,19915-2,"Contr. Dudley Herb. 5","","102","1958",gcc-43298
+gcc-68465,A,Compositae,,Arnica,,"denudata",var.,"denudata","",Synonym,,L,TICA,B288A3AE-4657-445B-A69A-DF0FFC6FBD3A,,"","","","",gcc-107218
+gcc-13021,A,Compositae,,Arnica,,"denudata",var.,"eradiata","(A.Gray) Cronquist",Synonym,,L,TICA,978ADD9E-11FF-4F04-BD29-183FB111E3A9,19916-2,"Vasc. Pl. Pacific NorthW. 5","","49","1955",gcc-43298
+gcc-43298,A,Compositae,,Arnica,,"discoidea",,"","Benth.",Accepted,,M,TICA,78EC8163-434A-4EBF-9C75-503A2C252FFF,178933-1,"","","319","1849",
+gcc-65812,A,Compositae,,Arnica,,"discoidea",var.,"alata","(Rydb.) Cronquist",Synonym,,L,TICA,CE48B2D6-78FC-4AD0-B0AF-C9C3EB843902,,"Contributions from the Dudley Herbarium 5(4):","","102","1958",gcc-43298
+gcc-16618,A,Compositae,,Arnica,,"discoidea",var.,"discoidea","",Synonym,,L,TICA,74A5455C-574D-4430-B2B2-1EB56AE07F48,,"","","","",gcc-43298
+gcc-6558,A,Compositae,,Arnica,,"discoidea",var.,"eradiata","(A.Gray) Cronquist",Synonym,,L,TICA,CD9542F9-1833-471F-954B-0C2B94E9C752,,"Vascular Plants of the Pacific Northwest 5:","","49","1955",gcc-43298
+gcc-17641,A,Compositae,,Arnica,,"diversifolia",,"","Greene",Synonym,,M,TICA,457461E4-471D-4B6E-A29C-2090CDBD61AF,19917-2,"Pittonia 4","","171","1900",gcc-128309
+gcc-123201,A,Compositae,,Arnica,,"doronicum",,"","Pursh",Synonym,,M,TICA,16B58483-4871-4AC3-93B9-CDC75E55A536,,"","","","1813",gcc-109132
+gcc-41498,A,Compositae,,Arnica,,"doronicum",,"","Jacq.",Synonym,,M,TICA,ED8BDFA5-61FD-4140-8837-4CDAD13E94EA,329157-2,"","","57","1773",gcc-82210
+gcc-138405,A,Compositae,,Arnica,,"eastwoodiae",,"","Rydb.",Synonym,,M,TICA,D868E1B9-0B91-497A-B1AA-F080B72A62A6,19918-2,"N. Amer. Fl. 34","","343","1927",gcc-3581
+gcc-91736,A,Compositae,,Arnica,,"elongata",,"","Rydb.",Synonym,,M,TICA,390163B1-F90D-4250-BC84-87034292B8F8,19919-2,"N. Amer. Fl. 34","","350","1927",gcc-127955
+gcc-28220,A,Compositae,,Arnica,,"eradiata",,"","(A.Gray) A.Heller",Synonym,,M,TICA,74D9A8F2-0EF7-4235-A02B-34262F9761EE,19920-2,"","","7","1898",gcc-116615
+gcc-145025,A,Compositae,,Arnica,,"eriopoda",,"","Gand.",Synonym,,M,TICA,CF32EAEC-07E6-4C96-894A-FF7CF46A3A60,19921-2,"Bull. Soc. Bot. France 65","","38","1918",gcc-106281
+gcc-17643,A,Compositae,,Arnica,,"evermannii",,"","Greene",Synonym,,M,TICA,2FF171B6-8AC3-4A69-AD68-209172B2EBE5,19922-2,"Ottawa Naturalist 23","","215","1910",gcc-3757
+gcc-126473,A,Compositae,,Arnica,,"exigua",,"","A.Nelson",Synonym,,L,TICA,241366F6-49C7-40EB-B84C-D56C0D430A37,19923-2,"Bot. Gaz. 30","","202","1900",gcc-81611
+gcc-10016,A,Compositae,,Arnica,,"falconaria",,"","Greene",Synonym,,M,TICA,8E352CA0-C132-4EDE-A5D3-12BC5E3E76DA,19924-2,"Ottawa Naturalist 23","","215","1910",gcc-43298
+gcc-32215,A,Compositae,,Arnica,,"fennoscandica",,"","Jurtzev & Korobkov",Synonym,,M,TICA,DFBC2BD1-76F9-41B7-9EE5-3BAF36AF64C9,940988-1,"","","191","1987",gcc-69145
+gcc-136485,A,Compositae,,Arnica,,"fernaldii",,"","Rydb.",Synonym,,M,TICA,134E5853-B1E1-4140-AABA-EC539E5DFDCD,19925-2,"N. Amer. Fl. 34","","333","1927",gcc-110843
+gcc-123794,A,Compositae,,Arnica,,"filipes",,"","Greene ex Rydb.",Synonym,,M,TICA,3878AAFE-79F2-4C2D-8F84-CF2F62CAE56C,19926-2,"N. Amer. Fl. 34","","350","1927",gcc-127955
+gcc-24939,A,Compositae,,Arnica,,"floccosa",,"","Bertol.",Synonym,,M,TICA,4FF97848-0EC9-4999-AC85-2E12AFEE8E79,178946-1,"","","36","1822",gcc-63485
+gcc-41845,A,Compositae,,Arnica,,"floccosa",,"","Bertero ex DC.",Synonym,,M,TICA,5C3693F4-71D1-404E-88A5-4D7E89E7E3B2,,"Prodr. 6: 357 (1838)","","357","1838",gcc-15884
+gcc-2146,A,Compositae,,Arnica,,"flodmanii",,"","Rydb.",Synonym,,M,TICA,DF57C36D-3B16-41AE-AE3E-03D98BC915DA,19927-2,"N. Amer. Fl. 34","","334","1927",gcc-106281
+gcc-105409,A,Compositae,,Arnica,,"foliosa",,"","Nutt.",Synonym,,L,TICA,096D9223-822B-41CC-99B4-A580CB640BE5,,"","","407","1841",gcc-81611
+gcc-10635,A,Compositae,,Arnica,,"foliosa",var.,"andina","Nutt.",Synonym,,L,TICA,A0F638ED-E3C8-49E4-ADCC-13E27600F9B6,,"","","407","1841",gcc-81611
+gcc-31818,A,Compositae,,Arnica,,"foliosa",var.,"bernardina","(Greene) Jeps.",Synonym,,L,TICA,DF5573DA-B1DA-4F1A-9F6B-3AF3EBEB08D6,19930-2,"","","1157","1925",gcc-81611
+gcc-150379,A,Compositae,,Arnica,,"foliosa",var.,"foliosa","",Synonym,,L,TICA,58CDF0CF-B115-40EA-B3DD-6D491E1D0336,,"","","","",gcc-81611
+gcc-66061,A,Compositae,,Arnica,,"foliosa",var.,"incana","A.Gray",Synonym,,L,TICA,0F69E437-C7E2-4AAE-8003-CBBED32CDEC6,,"Amer. Naturalist 8","","214","1874",gcc-81611
+gcc-4361,A,Compositae,,Arnica,,"foliosa",var.,"sonnei","(Greene) Jeps.",Synonym,,L,TICA,36C5C4C3-E096-4521-BB63-081BC37AF51A,19932-2,"","","1157","1925",gcc-116615
+gcc-97959,A,Compositae,,Arnica,,"frigida",,"","C.A.Mey. ex Iljin",Synonym,,M,TICA,4B13913A-34D6-4C9D-B02B-950EE61341B6,178949-1,"Trudy Bot. Muz. 19","","112","1926",gcc-59174
+gcc-155072,A,Compositae,,Arnica,,"frigida",var.,"frigida","",Synonym,,L,TICA,6FB6FD76-7444-4BC0-A002-D06AA8FA6891,,"","","","",gcc-59174
+gcc-62484,A,Compositae,,Arnica,,"frigida",subsp.,"frigida","",Synonym,,L,TICA,73535EC9-20ED-4282-9C24-AF10212AFAA0,,"","","","",gcc-59174
+gcc-62586,A,Compositae,,Arnica,,"frigida",var.,"glandulosa","B.Boivin",Synonym,,L,TICA,92DEF488-7BEF-4EF4-9378-B00BBDF9C4A2,19935-2,"Rhodora 55","","56","1953",gcc-59174
+gcc-4494,A,Compositae,,Arnica,,"frigida",subsp.,"griscomii","(Fernald) S.R.Downie",Synonym,,L,TICA,7026F71E-CBE1-4786-A2BC-085B42D996DF,952656-1,"Canad. J. Bot. 64","","1369","1986",gcc-144805
+gcc-108741,A,Compositae,,Arnica,,"fulgens",,"","Pursh",Accepted,,M,TICA,212BE4DC-593D-4D84-98AF-AD08169B575A,,"","","527","",
+gcc-64850,A,Compositae,,Arnica,,"fulgens",var.,"fulgens","",Synonym,,L,TICA,47337FE5-5F11-45FA-9BC2-C1ACE94047FE,,"","","","",gcc-108741
+gcc-71695,A,Compositae,,Arnica,,"fulgens",var.,"sororia","(Greene) G.W.Douglas & Ruyle-Dougl.",Unresolved,,L,TICA,8B1F4261-84D5-478B-B9C9-F8242050A1F2,876533-1,"Canad. J. Bot. 56","","185","1978",gcc-100883
+gcc-134100,A,Compositae,,Arnica,,"gaspensis",,"","Fernald",Synonym,,M,TICA,95C07622-7014-4345-A076-E7069716B080,19938-2,"Rhodora 7","","148","1905",gcc-110843
+gcc-83510,A,Compositae,,Arnica,,"gerbera",,"","Burm.f.",Synonym,,M,TICA,7CE41EBC-097D-4990-A018-747489A21C67,178952-1,"","","27","1768",gcc-114762
+gcc-91294,A,Compositae,,Arnica,,"gerbera",,"","L.",Synonym,,M,TICA,21DBA3A4-8A6F-46FB-A61C-860C8D625782,178953-1,"","","885","1753",gcc-104086
+gcc-119872,A,Compositae,,Arnica,,"glabrata",,"","Rydb.",Synonym,,M,TICA,3247ADB2-89EA-49A8-A52F-C62846E40B84,19939-2,"N. Amer. Fl. 34","","335","1927",gcc-106281
+gcc-46143,A,Compositae,,Arnica,,"glacialis",,"","Wulfen",Synonym,,M,TICA,8BDB1ABF-F8EB-4AD2-B6F2-558727E3C498,329156-2,"","","230","1786",gcc-82210
+gcc-131687,A,Compositae,,Arnica,,"gracilis",,"","Rydb.",Accepted,,M,TICA,299E5B60-1313-4B37-A206-E178AEB0A677,19940-2,"Bull. Torrey Bot. Club 24","","297","1897",
+gcc-10250,A,Compositae,,Arnica,,"grandifolia",,"","Greene",Synonym,,M,TICA,5A176EC9-BEA2-4842-A50D-13292E32E8C4,19941-2,"Pittonia 4","","172","1900",gcc-106281
+gcc-86327,A,Compositae,,Arnica,,"grandis",,"","Thunb.",Synonym,,M,TICA,0D156033-1D23-4C38-8BF3-7AAA10F822AD,178958-1,"","","154","1800",gcc-111621
+gcc-52489,A,Compositae,,Arnica,,"granulifera",,"","Rydb.",Synonym,,M,TICA,0C21E538-0CA3-432B-9603-614B1C56C422,19942-2,"","","978","1917",gcc-106281
+gcc-123530,A,Compositae,,Arnica,,"grayi",,"","A.Heller",Synonym,,M,TICA,DCFF14F6-FDFC-4D35-BA7E-CE8D0D69C9AA,291422-2,"Muhlenbergia 1","","5","1900",gcc-43298
+gcc-102649,A,Compositae,,Arnica,,"greenei",,"","A.Nelson",Synonym,,L,TICA,909FDB40-0E2F-4AD7-9F4D-9F99EEFEB6B6,291421-2,"Bot. Gaz. 31","","406","1901",gcc-81611
+gcc-144805,A,Compositae,,Arnica,,"griscomii",,"","Fernald",Accepted,,M,TICA,ACBA2904-98A9-4C92-849F-FEF41C4B8B10,,"Rhodora 26","","","1924",
+gcc-59174,A,Compositae,,Arnica,,"griscomii",subsp.,"frigida","(C.A.Mey. ex Iljin) S.J.Wolf",Accepted,,L,TICA,6F6AA5C9-F354-4651-BD67-946C14DEC098,1167784-2,"Taxon 38","","142","1989",
+gcc-53113,A,Compositae,,Arnica,,"griscomii",subsp.,"griscomii","",Synonym,,L,TICA,8FD227DA-1474-4883-A7F7-6399ECFFCE22,,"","","","",gcc-144805
+gcc-31450,A,Compositae,,Arnica,,"hardinae",,"","H.St.John",Synonym,,M,TICA,5F8A58ED-ACD4-4E65-9344-3A491E6CB77E,19944-2,"","","419","1937",gcc-3757
+gcc-97640,A,Compositae,,Arnica,,"helvetica",,"","G.Don ex Loudon",Synonym,,M,TICA,AF19846D-37E6-4E8A-855C-945B8EE087E5,178962-1,"","","351","1830",gcc-103364
+gcc-143048,A,Compositae,,Arnica,,"hirsuta",,"","Forssk.",Synonym,,M,TICA,5E4070C7-1498-4EB5-9BD9-FB04E6D78FF5,178963-1,"","","151","1775",gcc-19763
+gcc-101360,A,Compositae,,Arnica,,"hirticaulis",,"","Rydb.",Synonym,,M,TICA,7A942A2D-FBC3-4F13-BE80-9C9DD76FF050,19945-2,"N. Amer. Fl. 34","","349","1927",gcc-127955
+gcc-121654,A,Compositae,,Arnica,,"humilis",,"","Rydb.",Synonym,,M,TICA,F4DB0AD7-D22C-49DA-B200-CA44FE488423,19946-2,"N. Amer. Fl. 34","","341","1927",gcc-3757
+gcc-78838,A,Compositae,,Arnica,,"iljinii",,"","(Maguire) Iljin",Synonym,,M,TICA,3F33A34A-9C7C-4591-BB07-6A17BA096DF4,178966-1,"","","658","1961",gcc-6062
+gcc-150414,A,Compositae,,Arnica,,"iljinii",var.,"iljinii","",Synonym,,L,TICA,826DDDDD-C48A-47CE-985E-6DFAC9A6509A,,"","","","",gcc-6062
+gcc-10894,A,Compositae,,Arnica,,"illiamnae",,"","Rydb.",Synonym,,M,TICA,CFC96AED-E10A-4F67-A36C-14620C2FDB0D,178967-1,"N. Amer. Fl. 34","","331","1927",gcc-59174
+gcc-106076,A,Compositae,,Arnica,,"incana",,"","(Lam.) Pers.",Synonym,,M,TICA,149B6EA9-B917-4C73-A291-A6FAAB4C956E,178968-1,"","","452","1807",gcc-142262
+gcc-36583,A,Compositae,,Arnica,,"incana",,"","(A.Gray) Greene",Unresolved,Illegitimate,L,TICA,7EDB43EB-232D-4A3D-B589-43D5C73BEBC7,19947-2,"Pittonia 4","","169","1900",gcc-81611
+gcc-134396,A,Compositae,,Arnica,,"intermedia",,"","Howell ex Rydb.",Synonym,,M,TICA,6CAEFA50-27FE-4B6F-A0C6-E7BCA6586B06,178971-1,"","","337","1927",gcc-106281
+gcc-20780,A,Compositae,,Arnica,,"intermedia",,"","Turcz.",Accepted,,M,TICA,F00DCF3D-4B8E-44DF-A08D-267001192C39,178970-1,"","","203","1851",
+gcc-118810,A,Compositae,,Arnica,,"inuloides",,"","Vahl",Synonym,,M,TICA,C832080D-5081-4196-9C7C-C3D1B0860B14,178972-1,"","","91","1791",gcc-77623
+gcc-32856,A,Compositae,,Arnica,,"japonica",,"","Thunb.",Synonym,,M,TICA,9E1B24D7-000D-463C-97E5-3CF0E1E4405A,178973-1,"Fl. Jap.","","319","1784",gcc-125732
+gcc-4431,A,Compositae,,Arnica,,"japonica",,"","L.f.",Synonym,,L,TICA,9C0767A0-AC67-4951-B2A1-083CC57D89DF,,"","","","1781",gcc-110749
+gcc-91573,A,Compositae,,Arnica,,"japonicus",,"","Franch. & Sav.",Synonym,,L,TICA,A141CEC7-43B1-45C1-B4AC-86AA3799055A,,"Enum. Pl. Jap. 2: 394 (1878)","","394","1878",gcc-101169
+gcc-109182,A,Compositae,,Arnica,,"jonesii",,"","Rydb.",Synonym,,M,TICA,5A91D9F5-F008-4381-963E-AE0F25F6F4D7,19948-2,"","","979","1917",gcc-131687
+gcc-52217,A,Compositae,,Arnica,,"kodiakensis",,"","Rydb.",Synonym,,L,TICA,9BF9CF9B-7A08-48FA-A56B-60D584C77AF1,19949-2,"N. Amer. Fl. 34","","353","1927",gcc-81611
+gcc-404,A,Compositae,,Arnica,,"lactucina",,"","Greene",Synonym,,M,TICA,754655E4-4712-4CF1-A0DB-00BF65D92E55,19950-2,"Ottawa Naturalist 23","","214","1910",gcc-131687
+gcc-38897,A,Compositae,,Arnica,,"laevigata",,"","Greene",Synonym,,M,TICA,F571BBC2-71A3-4739-9647-48264A4ED69E,19951-2,"Ottawa Naturalist 15","","279","1902",gcc-106281
+gcc-135494,A,Compositae,,Arnica,,"lanata",,"","Thunb.",Synonym,,M,TICA,0BF7403D-97BC-4017-8395-EA2254F11E3F,178977-1,"","","154","1800",gcc-11159
+gcc-133167,A,Compositae,,Arnica,,"lanceolata",,"","Nutt.",Accepted,,M,TICA,017D172B-986C-41BA-AB65-E4E30C88A3BA,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 407""","","407","1841",
+gcc-63921,A,Compositae,,Arnica,,"lanceolata",subsp.,"amplexicaulis","(Nutt.) Gruezo",Synonym,,L,TICA,6465653F-8D6B-4326-9EA0-BA96E710E43B,1133299-2,"Asia Life Sci. 3(2)","","187","1994",gcc-127955
+gcc-62629,A,Compositae,,Arnica,,"lanceolata",subsp.,"lanceolata","",Synonym,,L,TICA,A846BB3D-2BC5-45FC-814C-B06236217164,,"""Trans. Amer. Philos. Soc. ser. 2, 7: 407. 1841 [2 Apr 1841]""","","407","1841",gcc-133167
+gcc-19052,A,Compositae,,Arnica,,"lanceolata",subsp.,"prima","(Maguire) Strother & S.J.Wolf",Accepted,,L,TICA,87F54024-DD49-48A0-AB78-232D03CA32B1,60442759-2,"","","373","2006",
+gcc-7388,A,Compositae,,Arnica,,"lanigera",,"","Ten.",Synonym,,M,TICA,B3ECF3A5-C0AC-41BA-ABE1-0DBAE99F6B0F,,"","","","1811",gcc-63485
+gcc-24574,A,Compositae,,Arnica,,"lanulosa",,"","Greene",Synonym,,L,TICA,C222C3DD-FA5F-4F56-9F4E-2D62DAE13D37,19952-2,"Pl. Baker. 3","","26","1901",gcc-81611
+gcc-117959,A,Compositae,,Arnica,,"lasiosperma",,"","Greene",Synonym,,M,TICA,8859501C-EFB7-493B-A8DA-C1D1DD81798D,19953-2,"Leafl. Bot. Observ. Crit. 2","","48","1910",gcc-39642
+gcc-106281,A,Compositae,,Arnica,,"latifolia",,"","Bong.",Accepted,,M,TICA,1B76449C-B4A9-4F5D-80C8-A76B114D17D1,,"","","","",
+gcc-58187,A,Compositae,,Arnica,,"latifolia",var.,"angustifolia","Herder",Synonym,,L,TICA,5F67533B-2645-4B7A-8B5C-8C7F22A14994,,"","","","",gcc-106281
+gcc-71996,A,Compositae,,Arnica,,"latifolia",var.,"gracilis","(Rydb.) Cronquist",Synonym,,L,TICA,984B8051-BAE6-42E4-985A-FA73FCA63E31,19954-2,"","","51","1955",gcc-131687
+gcc-61906,A,Compositae,,Arnica,,"latifolia",var.,"latifolia","",Synonym,,L,TICA,38073B57-676E-4026-B403-AA63DD0E2AF1,,"","","","",gcc-106281
+gcc-67855,A,Compositae,,Arnica,,"latifolia",var.,"teucriifolia","(Greene) L.O.Williams",Synonym,,L,TICA,44569FD8-5BC4-435F-AF97-DA8D3D346B3D,19955-2,"Leafl. W. Bot. 1","","171","1935",gcc-106281
+gcc-59572,A,Compositae,,Arnica,,"latifolia",var.,"viscidula","A.Gray",Synonym,,L,TICA,A5A3E662-BFC0-4FAC-A070-97998195F514,19956-2,"","","381","1884",gcc-128309
+gcc-144050,A,Compositae,,Arnica,,"leptocaulis",,"","Rydb.",Synonym,,M,TICA,AFCE9D96-94DC-48A6-9560-FD3E90F3687E,19957-2,"N. Amer. Fl. 34","","336","1927",gcc-106281
+gcc-9518,A,Compositae,,Arnica,,"lessingii",,"","(Torr. & A.Gray) Greene",Accepted,,M,TICA,B829863C-66DA-4D6C-B989-11C36F7901C8,19958-2,"Pittonia 4","","167","1900",
+gcc-48415,A,Compositae,,Arnica,,"lessingii",subsp.,"lessingii","",Synonym,,L,TICA,189F46AA-928C-4F1C-B193-59B499559107,,"","","","",gcc-9518
+gcc-16127,A,Compositae,,Arnica,,"lessingii",subsp.,"norbergii","Hultén & Maguire",Synonym,,L,TICA,A1D8C235-85C6-4BC0-AB1B-1DD46AF69E2E,19960-2,"Madroño 6","","155","1942",gcc-9518
+gcc-52053,A,Compositae,,Arnica,,"linifolia",,"","Wall.",Synonym,,M,TICA,B73D19D5-3BB3-4ED0-89C2-608C2B9F426F,178985-1,"","","3285","1831",gcc-62557
+gcc-110843,A,Compositae,,Arnica,,"lonchophylla",,"","Greene",Accepted,,M,TICA,B5587960-93B6-459D-9154-B1CF237189DD,19961-2,"Pittonia 4","","164","1900",
+gcc-61077,A,Compositae,,Arnica,,"lonchophylla",subsp.,"arnoglossa","(Greene) Maguire",Synonym,,L,TICA,438B17E9-8704-4277-AC31-A3AC5A21C204,19962-2,"Brittonia 4","","431","1943",gcc-110843
+gcc-64441,A,Compositae,,Arnica,,"lonchophylla",var.,"arnoglossa","(Greene) B.Boivin",Synonym,,L,TICA,80C7B4B5-494D-4D73-ADDA-BE85CFC2BB9A,19963-2,"Naturaliste Canad. 87","","27","1960",gcc-110843
+gcc-3152,A,Compositae,,Arnica,,"lonchophylla",subsp.,"chionopappa","(Fernald) Maguire",Synonym,,L,TICA,4272932C-05E0-47F6-858F-05D44CAE8718,19964-2,"Brittonia 4","","430","1943",gcc-110843
+gcc-54832,A,Compositae,,Arnica,,"lonchophylla",subsp.,"lonchophylla","",Synonym,,L,TICA,6365E96D-B100-42B9-9916-7132BE2EC3C0,,"","","","",gcc-110843
+gcc-68956,A,Compositae,,Arnica,,"lonchophylla",var.,"lonchophylla","",Synonym,,L,TICA,37BDB190-ED88-406F-97BE-E2AE25EF5F21,,"","","","",gcc-110843
+gcc-104237,A,Compositae,,Arnica,,"longifolia",,"","D.C.Eaton",Accepted,,M,TICA,C17F92B9-381C-4F2F-9C96-A30FFFB5A1DA,303716-2,"""in Bot. King, Exped. 186.""","","186","1871",
+gcc-53621,A,Compositae,,Arnica,,"longifolia",subsp.,"longifolia","",Synonym,,L,TICA,B1D2F340-3559-441E-BD0B-67943CCE5270,,"","","","",gcc-104237
+gcc-29982,A,Compositae,,Arnica,,"longifolia",subsp.,"myriadenia","(Piper) Maguire",Synonym,,L,TICA,5B89C392-4218-4331-A41E-37722FD456DB,20025-2,"Brittonia 4","","470","1943",gcc-104237
+gcc-113487,A,Compositae,,Arnica,,"louiseana",,"","Farr",Accepted,,M,TICA,0FE58464-D820-469C-B5F8-B7BA952B8BAF,20026-2,"Ottawa Naturalist 20","","109","1906",
+gcc-56277,A,Compositae,,Arnica,,"louiseana",var.,"brevifolia","(Rydb.) Maguire",Synonym,,L,TICA,6AC59F46-26B6-4416-ADEE-7D273207ACB9,299338-2,"Madroño 6","","153","1942",gcc-59174
+gcc-44167,A,Compositae,,Arnica,,"louiseana",var.,"frigida","(C.A.Mey. ex Iljin) S.L.Welsh",Synonym,,L,TICA,7FC7AF34-0270-4153-8047-51CA220F441A,20028-2,"Great Basin Naturalist 28","","149","1968",gcc-59174
+gcc-61630,A,Compositae,,Arnica,,"louiseana",subsp.,"frigida","(C.A.Mey. ex Iljin) Maguire",Synonym,,L,TICA,36D65CCA-F4E5-4133-951F-A825417BA43F,20027-2,"Madroño 6","","153","1942",gcc-59174
+gcc-67636,A,Compositae,,Arnica,,"louiseana",subsp.,"griscomii","(Fernald) Maguire",Synonym,,L,TICA,EEEA162A-770C-43D1-BAEE-D8D3568ACCE8,20030-2,"Brittonia 4","","419","1943",gcc-144805
+gcc-14537,A,Compositae,,Arnica,,"louiseana",var.,"illiamnae","(Rydb.) Maguire",Synonym,,L,TICA,64BB07D0-BB63-4E82-82EA-1AF4D00DEFA3,299336-2,"Madroño 6","","153","1942",gcc-59174
+gcc-59463,A,Compositae,,Arnica,,"louiseana",var.,"louiseana","",Synonym,,L,TICA,C6F184CD-04E1-4B9F-9312-969075732311,,"","","","",gcc-113487
+gcc-72141,A,Compositae,,Arnica,,"louiseana",subsp.,"louiseana","",Synonym,,L,TICA,44893CAE-9245-4F61-A76B-FBA8D3CFF372,,"","","","",gcc-113487
+gcc-48595,A,Compositae,,Arnica,,"louiseana",var.,"mendenhallii","(Rydb.) Maguire",Synonym,,L,TICA,DDBF2611-A388-411A-9B86-5A03949EC658,299335-2,"Madroño 6","","153","1942",gcc-59174
+gcc-39746,A,Compositae,,Arnica,,"louiseana",var.,"pilosa","Maguire",Synonym,,L,TICA,118694BC-B18C-4CF1-98CB-49BE230068F9,299334-2,"Madroño 6","","154","1942",gcc-59174
+gcc-21257,A,Compositae,,Arnica,,"lowii",,"","Holm",Synonym,,M,TICA,AFC669E4-A842-40BC-B44A-274A73999C69,20032-2,"Repert. Spec. Nov. Regni Veg. 3","","338","1907",gcc-103364
+gcc-114930,A,Compositae,,Arnica,,"macilenta",,"","Greene",Synonym,,L,TICA,070CA062-5F65-48ED-AC7F-BB0071CCE48E,20033-2,"Pittonia 4","","161","1900",gcc-81611
+gcc-124632,A,Compositae,,Arnica,,"macounii",,"","Greene",Synonym,,M,TICA,1F323564-CCFE-4A85-B9B9-D12A78EDFF94,20034-2,"Pittonia 4","","160","1900",gcc-127955
+gcc-62061,A,Compositae,,Arnica,,"macounii",var.,"aspera","(Greene) G.N.Jones",Synonym,,L,TICA,BB0F75CB-BB5A-4B0F-BD80-ABB8CD6F360B,20035-2,"Univ. Wash. Publ. Biol. 5","","256","1936",gcc-116833
+gcc-59565,A,Compositae,,Arnica,,"macounii",var.,"macounii","",Synonym,,L,TICA,58EF1CDA-91D8-4DDD-B24F-977B3C3EDB1C,,"","","","",gcc-127955
+gcc-129344,A,Compositae,,Arnica,,"macrophylla",,"","Nutt.",Synonym,,M,TICA,22CD9DF2-E1B7-4658-AEA1-DC0C2CC2CB64,,"","","408","1841",gcc-3757
+gcc-98336,A,Compositae,,Arnica,,"maguirei",,"","A.Nelson",Synonym,,L,TICA,B7D10557-031B-46B6-8C01-95DDAEFBDFB6,178993-1,"","","581","1934",gcc-81611
+gcc-101169,A,Compositae,,Arnica,,"mallotopus",,"","(Franch. & Sav.) Makino",Accepted,,L,TICA,7489D35E-42FF-4E30-9FD9-9C400E5B910D,1004802-2,"","","381","1897",
+gcc-126740,A,Compositae,,Arnica,,"maritima",,"","L.",Synonym,,M,TICA,689BD02A-B70D-4207-8BF8-D5F9FF0C1202,315760-2,"Sp. Pl.","","884","1753",gcc-109132
+gcc-81216,A,Compositae,,Arnica,,"membranacea",,"","Rydb.",Synonym,,M,TICA,65666E2A-D019-4790-A1BF-6F4DD865537C,20037-2,"N. Amer. Fl. 34","","338","1927",gcc-106281
+gcc-26353,A,Compositae,,Arnica,,"mendenhallii",,"","Rydb.",Synonym,,M,TICA,9C4F49CC-EA93-4938-824A-30B5903E21A8,299333-2,"N. Amer. Fl. 34","","329","1927",gcc-59174
+gcc-86522,A,Compositae,,Arnica,,"menziesii",,"","Hook.",Synonym,,M,TICA,12EB34E7-19EC-4BA6-964B-7B1B037E8AB4,,"","","331","1834",gcc-106281
+gcc-32944,A,Compositae,,Arnica,,"merriami",,"","Greene",Synonym,,M,TICA,20C562D2-853F-40A4-A525-3D16CE8E9E56,20038-2,"Pittonia 4","","36","1899",gcc-116833
+gcc-51719,A,Compositae,,Arnica,,"microphylla",,"","Walp.",Synonym,,M,TICA,3E4D08FE-7A6B-4AA8-95A4-5FE6396C36CB,,"","","652","1843",gcc-3757
+gcc-50534,A,Compositae,,Arnica,,"mollii",,"","Schrank",Unresolved,,L,TICA,CFF8F862-FA1C-4A6D-933E-5DAD59A53381,179000-1,"","","213","1792",
+gcc-116833,A,Compositae,,Arnica,,"mollis",,"","Hook.",Accepted,,M,TICA,B7D9EC1A-9AEB-428A-AB56-BF56FDE1ADBC,300691-2,"","","331","1834",
+gcc-71890,A,Compositae,,Arnica,,"mollis",var.,"aspera","(Greene) B.Boivin",Synonym,,L,TICA,14D6177B-6FF3-4A82-9784-F996ED7D7E28,20039-2,"Phytologia 23","","98","1972",gcc-127955
+gcc-63611,A,Compositae,,Arnica,,"mollis",var.,"mollis","",Synonym,,L,TICA,C55D405E-25A9-46E2-9C3D-B83CC104F31C,20040-2,"Amer. Midl. Naturalist 37: 141. 1947","","141","1947",gcc-116833
+gcc-22911,A,Compositae,,Arnica,,"mollis",var.,"petiolaris","Fernald",Synonym,,L,TICA,57A546E0-D0A4-4C6B-8175-2A69EF861BCA,20041-2,"Rhodora 7","","150","1905",gcc-133167
+gcc-26097,A,Compositae,,Arnica,,"mollis",var.,"piperi","(St.John & Warren) B.Boivin",Unresolved,,L,TICA,8B630656-3A98-4A5F-A204-30419DA3285A,876536-1,"Phytologia 23","","98","1972",gcc-116833
+gcc-6204,A,Compositae,,Arnica,,"mollis",var.,"scaberrima","(Greene) Smiley",Synonym,,L,TICA,D969BA3C-A1F3-4365-A73A-0B8A12F8FFCF,20043-2,"Univ. Calif. Publ. Bot. 9","","386","1921",gcc-116833
+gcc-63985,A,Compositae,,Arnica,,"mollis",var.,"silvatica","(Greene) Maguire",Synonym,,L,TICA,95CC18C3-A101-4D75-BE57-BB10D1CE3904,20044-2,"Amer. Midl. Naturalist 37","","142","1947",gcc-116833
+gcc-85051,A,Compositae,,Arnica,,"monocephala",,"","Rydb.",Synonym,,M,TICA,E38D1096-0DC7-44B6-8EB8-77D1C36BBB21,20045-2,"Mem. New York Bot. Gard. 1","","435","1900",gcc-108741
+gcc-103364,A,Compositae,,Arnica,,"montana",,"","L.",Accepted,,M,TICA,C22910FB-E527-4AAF-8498-A11D66DD1B4B,30090722-2,"Sp. Pl. 2: 884. 1753","","884","1753",
+gcc-83487,A,Compositae,,Arnica,,"montana",,"","Hook.",Unresolved,,L,TICA,60DBE2E7-2988-44CE-B014-746B0F31D49A,179003-1,"Fl. Bor.-Amer. (Hooker) i. 330 (pro parte)","","330","",
+gcc-40925,A,Compositae,,Arnica,,"montana",var.,"alpina","L.",Synonym,,L,TICA,525CCAD0-C642-42B7-845D-4BD274755FB1,60438631-2,"Species Plantarum 2:","","884","1753",gcc-110508
+gcc-147253,A,Compositae,,Arnica,,"montana",subsp.,"montana","",Synonym,,L,TICA,C83BEC72-CB6D-4C71-8C39-2995E9AE6D83,,"","","","",gcc-103364
+gcc-156249,A,Compositae,,Arnica,,"montana",var.,"montana","",Synonym,,L,TICA,B71F3C39-C9D1-4677-B214-E97723A9BE69,,"","","","",gcc-103364
+gcc-111680,A,Compositae,,Arnica,,"multiflora",,"","Greene",Synonym,,M,TICA,3BC0DF24-18AA-4DC1-B515-B3A526B5A1E3,20048-2,"Pittonia 4","","162","1900",gcc-131687
+gcc-1676,A,Compositae,,Arnica,,"myriadenia",,"","Piper",Synonym,,M,TICA,50048740-EA36-46FA-94EE-03026A185923,20049-2,"Proc. Biol. Soc. Wash. 33","","106","1920",gcc-104237
+gcc-47380,A,Compositae,,Arnica,,"nevadensis",,"","A.Gray",Accepted,,M,TICA,977CD4A3-4251-4B18-97D2-57C1DC8CAB60,179006-1,"","","55","1883",
+gcc-91770,A,Compositae,,Arnica,,"nivea",,"","Wall.",Synonym,,M,TICA,8F52E454-8893-4431-9A4E-87189C9B5831,179007-1,"","","3143","1831",gcc-47844
+gcc-102167,A,Compositae,,Arnica,,"nudicaulis",,"","(Michx.) Nutt.",Unresolved,,L,TICA,6EABAE6A-DA99-442B-9A05-9E741A7A1E8D,,"The Genera of North American Plants 2:","","164","1818",gcc-93150
+gcc-138970,A,Compositae,,Arnica,,"nudicaulis",,"","Elliott",Synonym,,L,TICA,311C6F3C-EFAF-4709-98E8-F1BC958346E3,179009-1,"","","333","1823",gcc-93150
+gcc-120225,A,Compositae,,Arnica,,"nutans",,"","Rydb.",Synonym,,M,TICA,E3F62BB3-4DDE-4A3D-8568-C7012D79C151,20050-2,"N. Amer. Fl. 34","","328","1927",gcc-59174
+gcc-20921,A,Compositae,,Arnica,,"obtusifolia",,"","Wall. ex DC.",Synonym,,M,TICA,085A0294-E1C8-4064-8748-26B063134300,179012-1,"","","314","1838",gcc-16958
+gcc-51791,A,Compositae,,Arnica,,"obtusifolia",,"","Less.",Synonym,,M,TICA,798D048B-69DE-471B-8014-600C8FC3474D,179011-1,"Linnaea 6","","236","1831",gcc-106670
+gcc-66494,A,Compositae,,Arnica,,"obtusifolia",var.,"obtusifolia","",Synonym,,L,TICA,F141D998-9BD6-441E-B643-CF2FA8BCB2B4,,"","","","",gcc-106670
+gcc-96148,A,Compositae,,Arnica,,"ocreata",,"","A.Nelson",Synonym,,L,TICA,0850E464-3D42-47F2-BED2-90E4F2DC1A7C,20052-2,"Bot. Gaz. 30","","201","1900",gcc-81611
+gcc-33295,A,Compositae,,Arnica,,"oligolepis",,"","Rydb.",Synonym,,M,TICA,2CDB512E-75C2-45C8-AC19-3DBB6D1263C0,20053-2,"N. Amer. Fl. 34","","336","1927",gcc-106281
+gcc-123808,A,Compositae,,Arnica,,"operina",,"","A.Lesson & A.Rich.",Unresolved,,L,TICA,ED9522CA-34CC-42A9-BA14-CF3AF662B3A2,179015-1,"","","231","1832",gcc-84444
+gcc-139330,A,Compositae,,Arnica,,"oporina",,"","G.Forst.",Synonym,,M,TICA,18148967-333D-48E0-BD8C-F27EAD16AAF4,179016-1,"","","56","1786",gcc-84444
+gcc-111130,A,Compositae,,Arnica,,"ovalifolia",,"","Greene",Unresolved,,L,TICA,DF16205E-CC89-4229-B7E0-B26BC3C1F3B1,20054-2,"Pittonia 4","","168","1900",
+gcc-136000,A,Compositae,,Arnica,,"ovalis",,"","Rydb.",Unresolved,,L,TICA,970217BE-2F02-4E25-9169-EB290353BBE3,20055-2,"N. Amer. Fl. 34","","338","1927",
+gcc-128309,A,Compositae,,Arnica,,"ovata",,"","Greene",Accepted,,M,TICA,5F038260-1186-4C58-8ABB-D9BAB4B7603E,20056-2,"Pittonia 4","","161","1900",
+gcc-88418,A,Compositae,,Arnica,,"palmata",,"","Thunb.",Synonym,,M,TICA,3F18FF75-7255-499A-87B0-7F60BFCE4259,179020-1,"","","319","1784",gcc-100093
+gcc-92486,A,Compositae,,Arnica,,"paniculata",,"","A.Nelson",Synonym,,M,TICA,C46B65FA-F2D6-4B9D-9DFD-88B82B943FC5,20057-2,"","","572","1909",gcc-3757
+gcc-116615,A,Compositae,,Arnica,,"parryi",,"","A.Gray",Accepted,,M,TICA,D08C105B-778B-4A9C-A347-BECD8B0DCCC5,303234-2,"Amer. Naturalist 8","","213","1874",
+gcc-41810,A,Compositae,,Arnica,,"parryi",var.,"crinita","Osterh.",Synonym,,L,TICA,BB4613F5-24C3-4129-9329-4D6F467FAB18,20058-2,"Muhlenbergia 6","","47","1910",gcc-116615
+gcc-15240,A,Compositae,,Arnica,,"parryi",var.,"parryi","",Synonym,,L,TICA,3ED61B70-A43C-4FC4-95B6-1C35EF9800AE,,"","","","",gcc-116615
+gcc-59540,A,Compositae,,Arnica,,"parryi",subsp.,"parryi","",Synonym,,L,TICA,C0BDCC96-D8B6-4E9C-B6B6-9739A850955D,,"","","","",gcc-116615
+gcc-66781,A,Compositae,,Arnica,,"parryi",subsp.,"sonnei","(Greene) Maguire",Synonym,,L,TICA,7A1FE444-9FAF-4318-A244-D1B4D383AD7D,20060-2,"Brittonia 4","","482","1943",gcc-116615
+gcc-68109,A,Compositae,,Arnica,,"parryi",var.,"sonnei","(Greene) Cronquist",Synonym,,L,TICA,271EABB1-7C0F-4EF7-8EC4-DC47AC3BBCA0,20061-2,"Contr. Dudley Herb. 5","","102","1958",gcc-116615
+gcc-35312,A,Compositae,,Arnica,,"parviflora",,"","A.Gray",Synonym,,M,TICA,7A35636C-EC91-4CDE-AF71-4179DD7E7F94,,"","","363","",gcc-43298
+gcc-89384,A,Compositae,,Arnica,,"parviflora",,"","Greene",Synonym,Illegitimate,M,TICA,8FE95F7F-ECF1-4088-8BEE-8197B2BDE8F2,20064-2,"Pl. Baker. 3","","28","1901",gcc-3757
+gcc-69192,A,Compositae,,Arnica,,"parviflora",subsp.,"alata","(Rydb.) Maguire",Synonym,,L,TICA,C1120C1E-8099-4CA7-AFAA-E498C6758D6F,20062-2,"Brittonia 4","","455","1943",gcc-43298
+gcc-63720,A,Compositae,,Arnica,,"parviflora",subsp.,"parviflora","",Synonym,,L,TICA,CCAEC019-B5BC-4326-BBC6-B8ED78D2D4D1,,"","","","",gcc-43298
+gcc-93287,A,Compositae,,Arnica,,"parvifolia",,"","Greene",Unresolved,,L,TICA,95446EB8-AC46-4FEF-9339-8A64A3DCF7FD,,"","","","1910",
+gcc-113783,A,Compositae,,Arnica,,"paucibracteata",,"","Rydb.",Synonym,,M,TICA,3D9D47F1-0269-4CDD-811D-B86438E3205A,20065-2,"N. Amer. Fl. 34","","336","1927",gcc-106281
+gcc-87008,A,Compositae,,Arnica,,"pedunculata",,"","Rydb.",Synonym,,M,TICA,43428008-626D-4404-A25F-7C460F96C862,20066-2,"Bull. Torrey Bot. Club 24","","297","1897",gcc-108741
+gcc-135497,A,Compositae,,Arnica,,"pedunculata",f.,"monocephala","(Rydb.) Cockerell",Synonym,,L,TICA,58D362E1-B811-43E9-B54F-EA23645682B5,20067-2,"Torreya 18","","183","1918",gcc-108741
+gcc-61685,A,Compositae,,Arnica,,"pedunculata",var.,"monocephala","(Rydb.) Lunell",Synonym,,L,TICA,70D5A582-F752-4A75-914C-A8B3B5E9A8B4,20068-2,"Amer. Midl. Naturalist 5","","241","1919",gcc-108741
+gcc-66003,A,Compositae,,Arnica,,"pedunculata",var.,"pedunculata","",Synonym,,L,TICA,3158FF7A-0059-42BC-8CC1-CB40076E82C8,,"","","","1916",gcc-108741
+gcc-75427,A,Compositae,,Arnica,,"pedunculata",f.,"pedunculata","",Synonym,,L,TICA,FB26411E-2C12-495C-A17D-626519A5976F,,"","","","1918",gcc-108741
+gcc-6900,A,Compositae,,Arnica,,"pedunculata",var.,"tubularis","Cockerell",Synonym,,L,TICA,814D3E5F-0B98-432E-835B-0CD2B26BB142,20069-2,"J. Heredity 7","","428","1916",gcc-108741
+gcc-96786,A,Compositae,,Arnica,,"peruviana",,"","(Lam.) Pers.",Synonym,,L,TICA,4A926555-4FFF-4D2E-AA34-925F17437F8E,179028-1,"","","452","1807",gcc-13985
+gcc-144847,A,Compositae,,Arnica,,"petiolaris",,"","(Fernald) Rydb.",Synonym,,M,TICA,9E18B320-6133-4C2F-8554-FF10CD2BF09C,20070-2,"N. Amer. Fl. 34","","352","1927",gcc-133167
+gcc-130036,A,Compositae,,Arnica,,"petiolata",,"","Schur",Synonym,,M,TICA,9AA295A1-5793-4B7C-BF93-DDA3C01A78A9,179030-1,"","","","1866",gcc-103364
+gcc-113269,A,Compositae,,Arnica,,"pilosella",,"","Burm. ex DC.",Unresolved,,L,TICA,9D325D1A-65D3-4ADF-9FA5-B742707AB0D7,179031-1,"","","17","1838",
+gcc-91708,A,Compositae,,Arnica,,"piloselloides",,"","L.",Synonym,,M,TICA,84E8CD8D-D5BD-468B-B1D6-86F17B765067,179032-1,"","","22","1760",gcc-19763
+gcc-12569,A,Compositae,,Arnica,,"plantaginea",,"","Pursh",Synonym,,M,TICA,376CD7C9-8EED-4654-96A4-176BC605DC15,,"","","527","",gcc-110508
+gcc-115833,A,Compositae,,Arnica,,"plantaginifolia",,"","Gilib.",Synonym,Invalid,M,TICA,303A8EF7-9A8A-42A9-8716-BD178DDB382D,,"","","","1782",gcc-103364
+gcc-112690,A,Compositae,,Arnica,,"platyphylla",,"","A.Nelson",Synonym,,M,TICA,523124EA-7AE0-4A10-A762-B602F9F70DF8,20072-2,"Bot. Gaz. 31","","407","1901",gcc-106281
+gcc-80015,A,Compositae,,Arnica,,"polycephala",,"","A.Nelson",Synonym,,M,TICA,D43A219E-8BE1-4FAF-9E56-6CA8302AAD4E,20073-2,"Bot. Gaz. 30","","202","1900",gcc-104237
+gcc-16279,A,Compositae,,Arnica,,"porsildiorum",,"","B.Boivin",Accepted,,M,TICA,A99538ED-2484-484F-B070-1E1D04BEE86E,20074-2,"Naturaliste Canad. 75","","210","1948",
+gcc-46486,A,Compositae,,Arnica,,"puberula",,"","Rydb.",Synonym,,M,TICA,3F19472D-E485-4D5E-8C27-562151CDBF0F,20075-2,"","","979","1917",gcc-106281
+gcc-84609,A,Compositae,,Arnica,,"pulchella",,"","Fernald",Synonym,,L,TICA,65026A04-E7DB-4468-8458-76E74D6AE4FD,20076-2,"Rhodora 17","","18","1915",gcc-30700
+gcc-80826,A,Compositae,,Arnica,,"pumila",,"","Rydb.",Synonym,,M,TICA,BCFEE400-3F19-4111-96CF-6E71E4C1AD2B,20077-2,"Mem. New York Bot. Gard. 1","","433","1900",gcc-3757
+gcc-109036,A,Compositae,,Arnica,,"pyrolaefolia",,"","Pers.",Synonym,,M,TICA,13059A32-1F9C-4C5E-88CA-ADB951062EB9,179040-1,"","","454","1807",gcc-35218
+gcc-135479,A,Compositae,,Arnica,,"rhizomata",,"","A.Nelson",Synonym,,L,TICA,DBC099D0-C2F7-4EDA-9EDD-EA199DDB0EAB,20078-2,"Bot. Gaz. 31","","409","1901",gcc-81611
+gcc-86626,A,Compositae,,Arnica,,"rivularis",,"","Greene",Synonym,,M,TICA,05B2AE13-481A-4DF5-BF69-7B579DADC653,20079-2,"Pittonia 4","","163","1900",gcc-116833
+gcc-36818,A,Compositae,,Arnica,,"rotundifolia",,"","Willd.",Synonym,,M,TICA,67DBD4E6-BA01-4276-8B60-4440653F8F33,,"","","","1803",gcc-109272
+gcc-110050,A,Compositae,,Arnica,,"rubricaulis",,"","Greene",Synonym,,L,TICA,88121815-B5F4-4CA7-AC46-B00046A388D2,20080-2,"Ottawa Naturalist 23","","213","1910",gcc-81611
+gcc-39642,A,Compositae,,Arnica,,"rydbergii",,"","Greene",Accepted,,M,TICA,5E08F939-E572-425E-AD2B-49902DEA8567,20081-2,"Pittonia 4","","36","1899",
+gcc-153590,A,Compositae,,Arnica,,"rydbergii",var.,"rydbergii","",Synonym,,L,TICA,5FC6E888-13DC-4417-BFD3-B17D2C5848A8,,"","","","",gcc-39642
+gcc-8635,A,Compositae,,Arnica,,"sachalinensis",,"","(Regel) A.Gray",Accepted,,M,TICA,25DE337C-62C8-4865-9D91-101F9177A0AB,179046-1,"","","55","1883",
+gcc-3126,A,Compositae,,Arnica,,"sancti-laurentii",,"","Rydb.",Synonym,,M,TICA,8606A482-4D1F-4A14-B494-05C5A91CFB47,179047-1,"","","328","1927",gcc-59174
+gcc-12309,A,Compositae,,Arnica,,"sanhedrensis",,"","Rydb.",Synonym,,M,TICA,BE882CF0-2111-42AE-8C4B-16F451E46B1A,20082-2,"N. Amer. Fl. 34","","342","1927",gcc-43298
+gcc-47826,A,Compositae,,Arnica,,"scaberrima",,"","Greene",Synonym,,M,TICA,E7F3E78C-5C81-47FE-86D1-589D0F7E26C3,20083-2,"Pittonia 4","","165","1900",gcc-116833
+gcc-123978,A,Compositae,,Arnica,,"scorpioides",,"","Adams ex Ledeb.",Synonym,,M,TICA,7DBD9051-F39D-4D5A-A925-CFA82008CA2D,,"","","","1845",gcc-743
+gcc-126716,A,Compositae,,Arnica,,"scorpioides",,"","L.",Synonym,,M,TICA,D0DF4795-BFAE-4DF8-8DA1-D5EF445C81AA,329171-2,"","","884","1753",gcc-141958
+gcc-81887,A,Compositae,,Arnica,,"scorpioides",,"","Jacq.",Synonym,,M,TICA,87141972-45DC-483B-9762-70CDE2B5ECA6,,"","","","1776",gcc-143816
+gcc-93035,A,Compositae,,Arnica,,"senecionoides",,"","Fenzl ex Boiss.",Synonym,,M,TICA,5202506D-FA17-48FB-BFC7-89E91D377E17,179053-1,"","","396","1875",gcc-89646
+gcc-627,A,Compositae,,Arnica,,"serrata",,"","Thunb.",Synonym,,M,TICA,ED5A5DE9-9320-482B-A513-01312308197C,179054-1,"","","669","1823",gcc-114762
+gcc-41193,A,Compositae,,Arnica,,"silvatica",,"","Greene",Synonym,,M,TICA,A50F0145-777B-470B-8D9D-4C557007FA7F,20084-2,"Pl. Baker. 3","","27","1901",gcc-116833
+gcc-139279,A,Compositae,,Arnica,,"sinuata",,"","Thunb.",Synonym,,M,TICA,7EF10B1F-D066-48BC-B30F-F261F509FA30,179056-1,"","","154","1800",gcc-35218
+gcc-39817,A,Compositae,,Arnica,,"snyderi",,"","Raup",Synonym,,M,TICA,3524B126-58AA-4288-A369-49E2F072B705,20085-2,"Sargentia 6","","250","1947",gcc-59174
+gcc-51070,A,Compositae,,Arnica,,"sonnei",,"","Greene",Synonym,,M,TICA,10284A03-F2A4-414D-AA2D-5EBE8F03BCAD,20086-2,"","","104","1896",gcc-116615
+gcc-136825,A,Compositae,,Arnica,,"sornborgeri",,"","Fernald",Synonym,,M,TICA,BE1939C7-F0A2-432A-8F54-ED1EE1F61F59,20087-2,"Rhodora 7","","147","1905",gcc-110508
+gcc-7144,A,Compositae,,Arnica,,"sornborgeri",var.,"sornborgeri","",Synonym,,L,TICA,E1D54872-D377-435B-A598-0D4ACCC54BEB,,"","","","",gcc-110508
+gcc-70279,A,Compositae,,Arnica,,"sornborgeri",var.,"ungavensis","B.Boivin",Synonym,,L,TICA,197D1510-13D8-4E00-9A92-ECD9CBAF865D,20088-2,"Naturaliste Canad. 75","","211","1948",gcc-3438
+gcc-100883,A,Compositae,,Arnica,,"sororia",,"","Greene",Accepted,,M,TICA,D052ABB2-E4AE-40B6-9E3E-9B9CFF54045C,20089-2,"Ottawa Naturalist 23","","213","1910",
+gcc-3581,A,Compositae,,Arnica,,"spathulata",,"","Greene",Accepted,,M,TICA,E736CC46-0D4A-49F3-AF1A-069F3B52EA0B,20090-2,"","","103","1896",
+gcc-109,A,Compositae,,Arnica,,"spathulata",var.,"eastwoodiae","(Rydb.) Ediger & T.M.Barkley",Synonym,,L,TICA,49AAD299-B444-4108-8BEE-0039E24A3C63,,"","","43","1978",gcc-3581
+gcc-72687,A,Compositae,,Arnica,,"spathulata",subsp.,"eastwoodiae","(Rydb.) Maguire",Synonym,,L,TICA,FA1A0605-6AD2-4B72-B307-FFF560F16C00,20092-2,"Brittonia 4","","458","1943",gcc-3581
+gcc-61466,A,Compositae,,Arnica,,"spathulata",var.,"spathulata","",Synonym,,L,TICA,D167EB4A-A252-4E14-BD47-A6CC736F2F0B,,"","","","1978",gcc-3581
+gcc-65715,A,Compositae,,Arnica,,"spathulata",subsp.,"spathulata","",Synonym,,L,TICA,1C686935-6765-46DE-A5ED-C8F495C1B14A,,"","","","",gcc-3581
+gcc-135422,A,Compositae,,Arnica,,"spinulosa",,"","Pers.",Synonym,,M,TICA,0576BB50-FA2D-42A8-BA47-E9FAA4F13C48,179062-1,"","","452","1807",gcc-92939
+gcc-49170,A,Compositae,,Arnica,,"stiriaca",,"","Vill.",Synonym,,M,TICA,A40736F3-CAF9-423E-BE49-5B0D04B5CB2E,179065-1,"","","32","1779",gcc-30150
+gcc-140031,A,Compositae,,Arnica,,"stricta",,"","Greene",Synonym,Illegitimate,M,TICA,FA5E101C-5689-47F1-9EE8-F40EA76A66AC,20094-2,"Ottawa Naturalist 23","","214","1910",gcc-100883
+gcc-95786,A,Compositae,,Arnica,,"stricta",,"","A.Nelson",Synonym,,L,TICA,0A77F48B-2488-4426-9D14-902904B34099,20095-2,"Bot. Gaz. 31","","407","1901",gcc-81611
+gcc-3438,A,Compositae,,Arnica,,"stricta",subsp.,"alpina","(L.) I.K.Ferguson",Unresolved,,L,TICA,D24DAEAB-0CFA-4607-B24A-0653FD0F2896,,"","","282","1973",
+gcc-67683,A,Compositae,,Arnica,,"stricta",var.,"eradiata","A.Gray",Synonym,,L,TICA,7CB9ECB2-8C91-4FAE-BB2C-D92D5E251A00,,"Proc. Acad. Nat. Sci. Philadelphia 1(5): 68 (1863)","","68","1863",gcc-116615
+gcc-54468,A,Compositae,,Arnica,,"stricta",var.,"lessingii","Torr. & A.Gray",Synonym,,L,TICA,0226F5E0-1AA5-4DEA-A9C1-6E5E28279EC1,,"Fl. N. Amer. 2: 449 (1843)","","449","1843",gcc-9518
+gcc-147997,A,Compositae,,Arnica,,"stricta",var.,"stricta","",Synonym,,L,TICA,3FEEF2ED-3D86-4CEB-BFCC-39A3EFFFC085,,"","","","",gcc-81611
+gcc-98919,A,Compositae,,Arnica,,"styriaca",,"","Vill.",Unresolved,,L,TICA,F90E732F-5327-41F6-A618-972DEC45D91A,179065-1,"","","","",
+gcc-12570,A,Compositae,,Arnica,,"subcordata",,"","Greene",Synonym,,M,TICA,ACB708F4-D036-4974-A4E3-176BEA9F1EED,20096-2,"Pittonia 4","","173","1900",gcc-3757
+gcc-89088,A,Compositae,,Arnica,,"subplumosa",,"","Greene",Synonym,,M,TICA,A73C810D-4A45-4758-81D9-80EABF7ECB00,20097-2,"Pittonia 3","","104","1896",gcc-116833
+gcc-65797,A,Compositae,,Arnica,,"subplumosa",var.,"macilenta","(Greene) A.Nelson",Synonym,,L,TICA,453C3D45-1A1A-4812-B47E-C9B00D370F85,,"","","573","1909",gcc-81611
+gcc-37918,A,Compositae,,Arnica,,"subplumosa",var.,"silvatica","(Greene) A.Nelson",Synonym,,L,TICA,87B09BDA-748D-453F-9928-4654B708AF57,20099-2,"","","573","1909",gcc-116833
+gcc-44482,A,Compositae,,Arnica,,"subplumosa",var.,"subplumosa","",Synonym,,L,TICA,2097A0B6-770F-4A68-9013-526AAD639509,,"","","","",gcc-116833
+gcc-109051,A,Compositae,,Arnica,,"sulcata",,"","Rydb.",Synonym,,M,TICA,D2132897-4876-46BA-8A5E-ADC148042B37,20100-2,"N. Amer. Fl. 34","","344","1927",gcc-39642
+gcc-89592,A,Compositae,,Arnica,,"tabularis",,"","Thunb.",Synonym,,M,TICA,704BD180-7D3A-4A7F-AF84-820CBF32F5BC,179069-1,"","","154","",gcc-92939
+gcc-27092,A,Compositae,,Arnica,,"tenuis",,"","Rydb.",Synonym,,M,TICA,32BA53D2-EA41-43F3-9B56-32175CEB8E42,20101-2,"Bull. Torrey Bot. Club 28","","20","1901",gcc-39642
+gcc-86260,A,Compositae,,Arnica,,"terrae-novae",,"","Fernald",Synonym,,M,TICA,B6EC5E43-8749-44C3-9891-7A86E3006F3C,20102-2,"Rhodora 27","","90","1925",gcc-110508
+gcc-132255,A,Compositae,,Arnica,,"teucriifolia",,"","Greene",Synonym,,M,TICA,D1A680B2-03A0-4CEF-87C7-E2CA2EF8D36A,20103-2,"Pittonia 4","","164","1900",gcc-106281
+gcc-138458,A,Compositae,,Arnica,,"tomentella",,"","Greene",Synonym,,M,TICA,7871EB0D-BC01-4F41-80F5-F0A05D329F02,20104-2,"Pittonia 4","","166","1900",gcc-47380
+gcc-124289,A,Compositae,,Arnica,,"tomentosa",,"","J.M.Macoun ex Greene",Unresolved,Illegitimate,L,TICA,82FBA38C-3F6B-4890-BEBF-D056E22B33DC,,"Pittonia 4: 168. 1900","","","1900",
+gcc-28410,A,Compositae,,Arnica,,"tomentosa",,"","Macoun",Synonym,,L,TICA,7A05777B-95F2-4F01-AD28-347C639814DD,,"Ottawa Naturalist 13","","","1899",gcc-30700
+gcc-2190,A,Compositae,,Arnica,,"tomentulosa",,"","Rydb.",Synonym,,L,TICA,04F2A6CA-8676-4FCA-B473-03F030F23077,20107-2,"Bull. Torrey Bot. Club 28","","20","1901",gcc-81611
+gcc-45182,A,Compositae,,Arnica,,"trina",,"","A.Nelson",Synonym,,M,TICA,B00563A2-20B1-45A2-8A76-53BE487B3500,20108-2,"Amer. J. Bot. 21","","581","1934",gcc-127955
+gcc-123955,A,Compositae,,Arnica,,"trinervata",,"","Rydb.",Synonym,,M,TICA,A481B543-10CD-421D-8518-CF970C85F378,20109-2,"N. Amer. Fl. 34","","344","1927",gcc-108741
+gcc-124689,A,Compositae,,Arnica,,"tschonoskyi",,"","Iljin",Synonym,,M,TICA,3312A5CE-AFF4-4CAD-BA76-D1463133E5F3,20110-2,"Trudy Bot. Muz. 19","","119","1926",gcc-8152
+gcc-39177,A,Compositae,,Arnica,,"tussilaginea",,"","Burm.f.",Synonym,,M,TICA,4E14A010-81CA-4F25-AF08-48AFA2EF5133,179079-1,"","","182","1768",gcc-95700
+gcc-106670,A,Compositae,,Arnica,,"unalaschcensis",,"","Less.",Accepted,,M,TICA,0A5FD9B6-EACA-4EA8-9C27-A857D5275091,179080-1,"Linnaea 6: 238 (1831)","","238","1831",
+gcc-8152,A,Compositae,,Arnica,,"unalaschcensis",var.,"tschonoskyi","(Iljin) Kitam. & H.Hara",Accepted,,L,TICA,F698DC1A-EB04-40E6-8903-0F2BFB3A0E64,20111-2,"","","3","1938",
+gcc-64922,A,Compositae,,Arnica,,"unalaschcensis",var.,"unalaschcensis","",Synonym,,L,TICA,AA78E8A6-3481-40F5-9724-C23EE6634E0C,,"","","","",gcc-106670
+gcc-99756,A,Compositae,,Arnica,,"venosa",,"","H.M.Hall",Accepted,,M,TICA,803E246B-C7CF-442F-B96B-990F9F262E68,20112-2,"Univ. Calif. Publ. Bot. 6","","174","1915",
+gcc-892,A,Compositae,,Arnica,,"ventorum",,"","Greene",Synonym,,M,TICA,B109EE15-999B-4B89-9718-01AAB869854E,20113-2,"Pittonia 4","","173","1900",gcc-106281
+gcc-115391,A,Compositae,,Arnica,,"viscosa",,"","A.Gray",Accepted,,M,TICA,3284FADE-022A-4F24-BDFB-BC0A9CAFBC7C,179083-1,"","","374","1878",
+gcc-140613,A,Compositae,,Arnica,,"whitneyi",,"","Fernald",Synonym,,M,TICA,4A06FC1A-A367-4D15-B901-F57518E583B4,,"Rhodora 37","","","1935",gcc-3757
+gcc-142754,A,Compositae,,Arnica,,"wilsonii",,"","Rydb.",Synonym,,M,TICA,6C959317-7FBB-4C83-87AD-FA59FB4956F1,20115-2,"N. Amer. Fl. 34","","332","1927",gcc-3438
+gcc-76580,A,Compositae,,Arnica,,"wulfeniana",,"","Pollini",Synonym,,M,TICA,BDC649FC-855F-452D-B16A-650896071ADF,,"","","","1826",gcc-144376

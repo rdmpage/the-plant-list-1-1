@@ -1,0 +1,12 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-116911,A,Apocynaceae,,Macoubea,,"fasciculata",,"","(Poir.) Lemée",Synonym,,H,WCSP,116911,148748-2,"in Fl. Guyane Franç.","3: 298","","1954",kew-147481
+kew-116912,A,Apocynaceae,,Macoubea,,"guianensis",,"","Aubl.",Accepted,,H,WCSP,116912,,"Hist. Pl. Guiane","Suppl.: 18","","1775",
+kew-452042,A,Apocynaceae,,Macoubea,,"guianensis",var.,"pubiflora","Monach.",Synonym,,L,WCSP,452042,148750-2,"Lloydia","8: 298","","1945",kew-116912
+kew-116913,A,Apocynaceae,,Macoubea,,"guianensis",var.,"reticulata","(A.DC.) L.Allorge",Synonym,,L,WCSP,116913,280230-2,"Mém. Mus. Natl. Hist. Nat., B, Bot.","30: 174","","1985",kew-116912
+kew-116914,A,Apocynaceae,,Macoubea,,"mesoamericana",,"","J.F.Morales",Accepted,,H,WCSP,116914,1006674-1,"Novon","9: 86","","1999",
+kew-116915,A,Apocynaceae,,Macoubea,,"paucifolia",,"","(Müll.Arg.) Markgr. ex Ll.Williams",Synonym,,H,WCSP,116915,79853-1,"Publ. Field Mus. Nat. Hist., Bot. Ser.","15: 422","","1936",kew-116912
+kew-116916,A,Apocynaceae,,Macoubea,,"reticulata",,"","(A.DC.) Markgr.",Synonym,,H,WCSP,116916,148752-2,"Notizbl. Bot. Gart. Berlin-Dahlem","14: 178","","1938",kew-116912
+kew-116917,A,Apocynaceae,,Macoubea,,"sinuosa",,"","(Miers) Markgr.",Synonym,,H,WCSP,116917,148753-2,"Notizbl. Bot. Gart. Berlin-Dahlem","14: 178","","1938",kew-116912
+kew-116918,A,Apocynaceae,,Macoubea,,"sprucei",,"","(Müll.Arg.) Markgr.",Accepted,,H,WCSP,116918,148754-2,"Notizbl. Bot. Gart. Berlin-Dahlem","14: 179","","1938",
+kew-452043,A,Apocynaceae,,Macoubea,,"sprucei",var.,"paucifolia","(Spruce ex Müll.Arg.) Monach.",Synonym,,L,WCSP,452043,148755-2,"Lloydia","8: 299","","1945",kew-116912
+kew-116919,A,Apocynaceae,,Macoubea,,"witotorum",,"","R.E.Schult.",Synonym,,H,WCSP,116919,148756-2,"Bot. Mus. Leafl.","24: 193","","1976",kew-116912

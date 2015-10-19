@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-24000097,A,Papaveraceae,,Meconella,,"californica",,"","Torr. & Frém.",Accepted,,M,TRO,24000097,,"Rep. Exped. Rocky Mts.","312","312","1845",
+kew-2502245,A,Papaveraceae,,Meconella,,"collina",,"","Greene",Unresolved,,L,WCSP (in review),,155704-2,"Pittonia","5: 143","","1903",
+tro-24000098,A,Papaveraceae,,Meconella,,"denticulata",,"","Greene",Accepted,,M,TRO,24000098,155705-2,"Bull. Calif. Acad. Sci.","2(5B): 59","59","1886",
+kew-2502243,A,Papaveraceae,,Meconella,,"kakoethes",,"","Fedde",Unresolved,,L,WCSP (in review),,155706-2,"Repert. Spec. Nov. Regni Veg.","3: 275","","1907",
+tro-24000099,A,Papaveraceae,,Meconella,,"linearis",,"","(Benth.) A. Nelson & J.F. Macbr.",Synonym,,M,TRO,24000099,155707-2,"Bot. Gaz.","61(1): 31","31","1916",tro-24000315
+tro-24000100,A,Papaveraceae,,Meconella,,"linearis",var.,"pulchellum","(Greene) Jeps.",Synonym,,L,TRO,24000100,,"Fl. Calif.","556","556","1922",tro-24000315
+tro-50308967,A,Papaveraceae,,Meconella,,"octandra",,"","Greene",Synonym,,M,TRO,50308967,155709-2,"Pittonia","5: 142","142","1903",tro-50308966
+kew-2502250,A,Papaveraceae,,Meconella,,"oregana",,"","Nutt.",Accepted,,M,WCSP (in review),,30032832-2,"Fl. N. Amer.","1: 64","","1838",
+tro-24000363,A,Papaveraceae,,Meconella,,"oregana",var.,"californica","(Torr. & Frém.) Jeps.",Synonym,,L,TRO,24000363,155711-2,"Fl. Calif.","1: 558","558","1922",tro-24000097
+tro-24000305,A,Papaveraceae,,Meconella,,"oregana",var.,"denticulata","(Greene) Jeps.",Synonym,,L,TRO,24000305,155712-2,"Man. Fl. Pl. Calif.","399","399","1925",tro-24000098
+tro-50308966,A,Papaveraceae,,Meconella,,"oregana",var.,"octandra","(Greene) Jeps.",Accepted,,L,TRO,50308966,155713-2,"Man. Fl. Pl. Calif.","399","399","1925",
+tro-24000306,A,Papaveraceae,,Meconella,,"oregana",var.,"oregana","",Synonym,,L,TRO,24000306,,"","","","1922",kew-2502250

@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-201564,A,Euphorbiaceae,,Tannodia,,"congolensis",,"","J.Léonard",Accepted,,H,WCSP,201564,356826-1,"Bull. Jard. Bot. État","25: 300","","1955",
+kew-201565,A,Euphorbiaceae,,Tannodia,,"cordifolia",,"","(Baill.) Baill.",Accepted,,H,WCSP,201565,356827-1,"Recueil Observ. Bot.","1: 251","","1861",
+kew-201566,A,Euphorbiaceae,,Tannodia,,"grandiflora",,"","Radcl.-Sm.",Accepted,,H,WCSP,201566,1000380-1,"Kew Bull.","53: 180","","1998",
+kew-201567,A,Euphorbiaceae,,Tannodia,,"grandiflora",var.,"grandiflora","",Synonym,,L,WCSP,201567,,"Unknown","","","",kew-201566
+kew-201569,A,Euphorbiaceae,,Tannodia,,"nitida",,"","Radcl.-Sm.",Accepted,,H,WCSP,201569,1000378-1,"Kew Bull.","53: 178","","1998",
+kew-201570,A,Euphorbiaceae,,Tannodia,,"obovata",,"","Radcl.-Sm.",Accepted,,H,WCSP,201570,1000379-1,"Kew Bull.","53: 180","","1998",
+kew-201571,A,Euphorbiaceae,,Tannodia,,"pennivenia",,"","Radcl.-Sm.",Accepted,,H,WCSP,201571,1000383-1,"Kew Bull.","53: 184","","1998",
+kew-201572,A,Euphorbiaceae,,Tannodia,,"perrieri",,"","(Leandri) Radcl.-Sm.",Accepted,,H,WCSP,201572,1000375-1,"Kew Bull.","53: 177","","1998",
+kew-201575,A,Euphorbiaceae,,Tannodia,,"perrieri",var.,"perrieri","",Synonym,,L,WCSP,201575,,"Unknown","","","",kew-201572
+kew-201576,A,Euphorbiaceae,,Tannodia,,"sessiliflora",,"","(Pax) Prain",Synonym,,H,WCSP,201576,356828-1,"J. Bot.","50: 128","","1912",kew-201579
+kew-201577,A,Euphorbiaceae,,Tannodia,,"swynnertonii",,"","(S.Moore) Prain",Accepted,,H,WCSP,201577,356829-1,"J. Bot.","50: 127","","1912",
+kew-201578,A,Euphorbiaceae,,Tannodia,,"tenuifolia",,"","(Pax) Prain",Accepted,,H,WCSP,201578,356830-1,"J. Bot.","50: 128","","1912",
+kew-201579,A,Euphorbiaceae,,Tannodia,,"tenuifolia",var.,"glabrata","Prain",Accepted,,L,WCSP,201579,,"J. Bot.","50: 128","","1912",
+kew-201580,A,Euphorbiaceae,,Tannodia,,"tenuifolia",var.,"tenuifolia","",Synonym,,L,WCSP,201580,,"Unknown","","","",kew-201578

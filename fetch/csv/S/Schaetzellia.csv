@@ -1,0 +1,7 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113241,A,Compositae,,Schaetzellia,,"columbica",,"","Sch.Bip.",Unresolved,,L,TICA,5C62C44A-80FF-4C2B-8801-B732965C6E81,242829-1,"Otto & Dietr. Allg. Gartenz. xvii. (1849) 192.","","xvii.  192","1849",
+gcc-5302,A,Compositae,,Schaetzellia,,"deckeri",,"","Klotzsch",Synonym,,L,TICA,1568F291-5C65-4B06-A93A-09E4A7F113E6,,"Otto & Dietr. Allg. Gartenz. xvii. (1849) 82.","","","1849",gcc-122510
+gcc-124868,A,Compositae,,Schaetzellia,,"mexicana",,"","Sch.Bip.",Synonym,,M,TICA,261133BF-6822-48D5-B9A7-D1B4D8FD4ABA,242831-1,"Flora 33: 419. 1850.","","419","1850",gcc-43143
+gcc-149391,A,Compositae,,Schaetzellia,,"mexicana",var.,"mexicana","",Synonym,,L,TICA,5BCBB33C-AC8D-44E5-9CB7-57BED5EC92AC,,"","","","",gcc-43143
+gcc-69197,A,Compositae,,Schaetzellia,,"mexicana",var.,"standleyi","(Steyerm.) R.M.King & H.Rob.",Synonym,,L,TICA,DEE74E0D-C1D5-49B9-884F-E4A0E35F5BA9,,"","","","1970",gcc-43143
+gcc-25515,A,Compositae,,Schaetzellia,,"standleyi",,"","Steyerm.",Synonym,,M,TICA,49666D9A-671A-43F1-8B78-2F1A6529A8A0,228917-2,"""Publ. Field Mus. Nat. Hist., Bot. Ser. 23""","","107","1944",gcc-43143

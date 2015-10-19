@@ -1,0 +1,77 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-86507,A,Compositae,,Amellus,,"abyssinicus",,"","(Sch.Bip. ex Rich.) Kuntze",Synonym,,M,TICA,EBCE30DC-F319-4CE6-9ACC-7B11C14C60BC,176144-1,"Revis. Gen. Pl. 1","","306","1891",gcc-76205
+gcc-95771,A,Compositae,,Amellus,,"alternifolius",,"","Roth",Accepted,,M,TICA,D5083E86-1B08-4432-A4D0-90202B68F877,,"","","","1800",
+gcc-42853,A,Compositae,,Amellus,,"alternifolius",subsp.,"alternifolius","",Synonym,,L,TICA,CCF1F089-1104-40C5-AC11-4F60B0355E53,,"","","","",gcc-95771
+gcc-67830,A,Compositae,,Amellus,,"alternifolius",subsp.,"angustissimus","(DC.) Rommel",Accepted,,L,TICA,88FB9141-0071-4E1E-8E3D-DA640F366C75,876408-1,"","","616","1977",
+gcc-118766,A,Compositae,,Amellus,,"angustifolius",,"","(Gardner) Kuntze",Synonym,,M,TICA,CCE5AAB7-6B33-4B88-BF31-C3B301358024,11260-2,"Revis. Gen. Pl. 1","","306","1891",gcc-92027
+gcc-82807,A,Compositae,,Amellus,,"anisatus",,"","Cass.",Synonym,,M,TICA,FE94A076-CDF7-4570-8614-72E0291BE5EE,,"","","","1825",gcc-122573
+gcc-120274,A,Compositae,,Amellus,,"annuus",,"","Willd.",Synonym,,M,TICA,1B805E2B-8BAF-49A8-913F-C71B3E5F9C18,,"","","","1803",gcc-95771
+gcc-524,A,Compositae,,Amellus,,"arenarius",,"","S.Moore",Synonym,,M,TICA,C35D7E48-F421-4D15-9A90-00FAD10EF903,,"","","1013","1904",gcc-601
+gcc-44358,A,Compositae,,Amellus,,"asper",,"","(Jacq.) Kuntze",Synonym,,M,TICA,2E949E95-BF37-47B6-A959-522C41B961A7,11261-2,"Revis. Gen. Pl. 1","","305","1891",gcc-137177
+gcc-149606,A,Compositae,,Amellus,,"asper",f.,"asper","",Synonym,,L,TICA,D1996DFF-C3BD-4B82-9E67-5C98D60505D5,,"","","","",gcc-137177
+gcc-151771,A,Compositae,,Amellus,,"asper",var.,"asper","",Synonym,,L,TICA,D68AF1E6-2ED3-4207-BD5E-8BF967004C19,,"","","","",gcc-137177
+gcc-141546,A,Compositae,,Amellus,,"asper",f.,"bicolor","Kuntze",Synonym,,L,TICA,ADA67595-EA3F-4A24-8F52-F7A21C4192CF,289648-2,"Revis. Gen. Pl. 1","","306","1891",gcc-137177
+gcc-69062,A,Compositae,,Amellus,,"asper",var.,"canescens","Kuntze",Synonym,,L,TICA,F9E649F2-948C-44B9-B999-E39FF0B63E01,11262-2,"Revis. Gen. Pl. 1","","306","1891",gcc-137177
+gcc-10353,A,Compositae,,Amellus,,"asper",var.,"glabriusculus","Kuntze",Synonym,,L,TICA,3B99527E-22C2-4975-8C07-1358174D9570,11263-2,"Revis. Gen. Pl. 1","","306","1891",gcc-137177
+gcc-70974,A,Compositae,,Amellus,,"asper",var.,"normalis","Kuntze",Synonym,,L,TICA,F456A942-BF01-4AF2-B8DC-F25F5724E549,11264-2,"Revis. Gen. Pl. 1","","305","1891",gcc-137177
+gcc-77037,A,Compositae,,Amellus,,"asteroides",,"","(L.) Druce",Accepted,,M,TICA,0C86FE66-01FD-406A-AFE2-65F32798E428,176151-1,"","","413","1914",
+gcc-38166,A,Compositae,,Amellus,,"asteroides",subsp.,"asteroides","",Synonym,,L,TICA,67E7B2DD-2B7C-4978-AC9C-46CACD448F95,,"","","","",gcc-77037
+gcc-34615,A,Compositae,,Amellus,,"capensis",,"","(Walp.) Hutch.",Accepted,,M,TICA,B3B53E67-8DCD-4A21-968D-402C0DFD9982,176152-1,"","","510","1932",
+gcc-51168,A,Compositae,,Amellus,,"carolinianus",,"","Walter",Synonym,,M,TICA,CD1A1677-5B01-49ED-9EB4-5EE6E794CBD9,176153-1,"","","213","1788",gcc-6746
+gcc-34486,A,Compositae,,Amellus,,"coilopodius",,"","DC.",Accepted,,M,TICA,77DEC3D3-E335-4D43-A2F7-3FEA7A743294,176154-1,"","","214","1836",
+gcc-34074,A,Compositae,,Amellus,,"diffusus",,"","G.Forst.",Synonym,,M,TICA,657AEB4F-4EDA-4976-9AFA-3F2DAE42889F,176155-1,"","","39","1787",gcc-23364
+gcc-40928,A,Compositae,,Amellus,,"discoideus",,"","(Baker) Kuntze",Synonym,,M,TICA,C57E9A42-52AA-4B03-BCE7-4BD46143CE2B,11266-2,"Revis. Gen. Pl. 1","","306","1891",gcc-134566
+gcc-97552,A,Compositae,,Amellus,,"divaricatus",,"","Gaterau",Synonym,,M,TICA,E9BF26C2-96BF-43A3-9E3F-9423CF370FA2,176157-1,"Fl. Montaub.","","147","1789",gcc-31839
+gcc-49770,A,Compositae,,Amellus,,"echinocephalon",,"","Kuntze",Synonym,,M,TICA,8A61F959-79CB-4319-BD98-5C415A6E0C1E,11267-2,"Revis. Gen. Pl. 1","","306","1891",gcc-92027
+gcc-104463,A,Compositae,,Amellus,,"epaleaceus",,"","O.Hoffm.",Accepted,,M,TICA,1C66A399-5FB7-46A6-9FEF-A38EB66936F4,,"","","","1893",
+gcc-30610,A,Compositae,,Amellus,,"floribundus",,"","Willd. ex DC.",Synonym,,M,TICA,B7A7E22B-74A1-4FCB-B518-38ADD8AC3ACB,176161-1,"","","96","1836",gcc-13624
+gcc-144261,A,Compositae,,Amellus,,"flosculosus",,"","DC.",Accepted,,M,TICA,9C4D2D2B-3E14-4AF1-A1B1-FDB0B4665CA0,176162-1,"","","214","1836",
+gcc-4198,A,Compositae,,Amellus,,"fruticosus",,"","L. ex B.D.Jacks.",Unresolved,,L,TICA,94CB4F41-E713-4EF7-B6EF-07CE77109189,176160-1,"""Index Linn. Herb. 33 (1912), nomen.""","","33","",
+gcc-121832,A,Compositae,,Amellus,,"hirsutus",,"","(Host) Opiz",Synonym,,M,TICA,70DEF7E3-12AB-46EF-97FD-CAA244264733,176163-1,"","","14","1852",gcc-75797
+gcc-17699,A,Compositae,,Amellus,,"hispidus",,"","DC.",Synonym,,M,TICA,74841739-9A3E-489B-A19A-20AACBF8AE2B,176164-1,"","","214","1836",gcc-95771
+gcc-58771,A,Compositae,,Amellus,,"hispidus",var.,"angustissimus","DC.",Synonym,,L,TICA,AF08929B-A9E0-4344-84C6-913D4DB1B26C,,"Prodr. 5: 214 (1836)","","214","1836",gcc-67830
+gcc-50451,A,Compositae,,Amellus,,"hispidus",var.,"flosculosus","(DC.) Harv.",Synonym,,L,TICA,CC1AE6FB-65EE-4AB7-B2AE-5D8A0255C6F8,,"","","","",gcc-144261
+gcc-25781,A,Compositae,,Amellus,,"hispidus",var.,"hispidus","",Synonym,,L,TICA,B428809C-FEB1-4265-B41C-2FA14B49A33C,,"","","","",gcc-95771
+gcc-86892,A,Compositae,,Amellus,,"humilis",,"","Heering",Synonym,,M,TICA,A49F56CD-885E-4BB0-804A-7BF96BB8C20E,176165-1,"","","34","1911",gcc-601
+gcc-103573,A,Compositae,,Amellus,,"lanceolatus",,"","(Benth.) Kuntze",Synonym,,M,TICA,4D927CF6-B8CA-47EC-9159-A19061AD608B,11268-2,"Revis. Gen. Pl. 1","","306","1891",gcc-128253
+gcc-34607,A,Compositae,,Amellus,,"latifolius",,"","(Gardner) Kuntze",Synonym,,M,TICA,2DBC784D-55C5-4DAB-A5B2-40284107791D,11269-2,"Revis. Gen. Pl. 1","","306","1891",gcc-92027
+gcc-41178,A,Compositae,,Amellus,,"linearis",,"","Sessé & Moc.",Unresolved,,L,TICA,1CC06627-69D0-43DB-8D1A-4C4E5113D3E3,,"","","144","1890",
+gcc-142803,A,Compositae,,Amellus,,"lychnitis",,"","L.",Synonym,,M,TICA,9BA3B03E-CE83-4A6E-AE57-FA75B5462790,176170-1,"","","1255","1759",gcc-77037
+gcc-31663,A,Compositae,,Amellus,,"lychnitis",,"","E.Mey. ex Steud.",Synonym,,M,TICA,37F90D5D-0CD2-4C12-83B8-3AB09266D7AF,176169-1,"","","76","1840",gcc-122573
+gcc-56985,A,Compositae,,Amellus,,"lychnitis",var.,"flosculosus","Benth. ex Harv.",Synonym,,L,TICA,67E1DC8A-F83B-41A2-B6B9-82AF47BD6C9F,,"Fl. Cap. 3: 62 (1865)","","62","1865",gcc-34615
+gcc-148001,A,Compositae,,Amellus,,"lychnitis",var.,"lychnitis","",Synonym,,L,TICA,52F22EA3-C428-4D5C-912C-39AF20DC8ABF,,"","","","",gcc-77037
+gcc-138610,A,Compositae,,Amellus,,"madagascariensis",,"","(Baker) Kuntze",Unresolved,,L,TICA,292E2AC6-A9B4-451B-91C1-F0F8B51646FF,176171-1,"Revis. Gen. Pl. 1","","306","1891",gcc-27220
+gcc-76670,A,Compositae,,Amellus,,"microglossus",,"","DC.",Accepted,,M,TICA,F2B36060-1FFA-4862-9C50-65336D24BA0D,176172-1,"","","215","1836",
+gcc-909,A,Compositae,,Amellus,,"microphyllus",,"","(Steetz) Kuntze",Synonym,,M,TICA,C3FDC03D-FB45-47BF-997A-01AF76267DE6,11271-2,"Revis. Gen. Pl. 1","","306","1891",gcc-128253
+gcc-104855,A,Compositae,,Amellus,,"mutabilis",,"","Gaterau",Synonym,,M,TICA,3D9736E0-FA84-4C09-9D1B-A45F8CF4ACAB,176174-1,"","","147","1789",gcc-43942
+gcc-121623,A,Compositae,,Amellus,,"nanus",,"","DC.",Accepted,,M,TICA,2E2D3D93-A673-4950-A58B-CA34A6C14D67,176175-1,"","","215","1836",
+gcc-152186,A,Compositae,,Amellus,,"nivea",,"","(L.) Kuntze",Synonym,,M,TICA,74B033B0-33EF-40BE-A069-94533809942D,,"","","","",gcc-137177
+gcc-37285,A,Compositae,,Amellus,,"niveus",,"","(L.) Kuntze",Synonym,,M,TICA,4209F6E6-0756-4A58-9248-451555C53774,11272-2,"Revis. Gen. Pl. 1","","306","1891",gcc-137177
+gcc-133424,A,Compositae,,Amellus,,"novae-belgii",,"","(L.) Opiz",Synonym,,M,TICA,125327EF-04F9-4C7E-85D2-E57A1598BC8C,176177-1,"","","14","1852",gcc-31839
+gcc-92138,A,Compositae,,Amellus,,"officinalis",,"","Gaterau",Synonym,,M,TICA,9810BB92-5025-4A44-8DF9-87F51954A786,176178-1,"","","147","1789",gcc-6220
+gcc-133270,A,Compositae,,Amellus,,"oxylepis",,"","(DC.) Kuntze",Synonym,,M,TICA,6360B96A-D2A4-483F-B4CB-E52143F374C2,11273-2,"Revis. Gen. Pl. 1","","306","1891",gcc-120885
+gcc-145190,A,Compositae,,Amellus,,"pallidus",,"","Salisb.",Synonym,,M,TICA,CB8EDE7B-4A5E-4EDA-B98B-FFDD204AF3C4,176180-1,"","","205","1796",gcc-122573
+gcc-7444,A,Compositae,,Amellus,,"paniculatus",,"","Sessé & Moc.",Unresolved,,L,TICA,2C0BA84E-2154-4668-8E96-0DD642FC1C3F,,"","","144","1890",
+gcc-112336,A,Compositae,,Amellus,,"pedunculatus",,"","Ortega ex Willd.",Synonym,Illegitimate,M,TICA,23F3EE98-1E87-4CD7-9FAE-B52B0B578836,,"","","","1803",gcc-42420
+gcc-115612,A,Compositae,,Amellus,,"pungens",,"","(Oliv. & Hiern) Kuntze",Synonym,,M,TICA,E35BC9E6-B938-417B-ADAC-BC94D4670B64,176183-1,"Revis. Gen. Pl. 1","","306","1891",gcc-41569
+gcc-78692,A,Compositae,,Amellus,,"reductus",,"","Rommel",Accepted,,M,TICA,5BC7CA86-7780-440E-AB22-69B2E39DB14B,176184-1,"Mitt. Bot. Staatssamml. München 13: 651 (1977)","","651","1977",
+gcc-84533,A,Compositae,,Amellus,,"rosmarinifolius",,"","Poepp. ex DC.",Synonym,,M,TICA,95398C48-FC4C-4443-8A20-76C21F52B643,,"","","216","",gcc-130214
+gcc-137708,A,Compositae,,Amellus,,"salignus",,"","(L.) Opiz",Synonym,,M,TICA,B2AABC5D-A582-45A8-90B9-EF0C51CAC415,176186-1,"","","14","1852",gcc-60091
+gcc-39345,A,Compositae,,Amellus,,"scabridus",,"","DC.",Synonym,,M,TICA,B7F180D1-2AB0-4E9F-85D7-490614CA1756,,"","","","1836",gcc-63902
+gcc-88173,A,Compositae,,Amellus,,"scandens",,"","(Schumach. & Thonn.) Kuntze",Synonym,,M,TICA,92F74BB4-3664-4990-B03D-7EDE95C53956,176188-1,"Revis. Gen. Pl. 1","","306","1891",gcc-39068
+gcc-15305,A,Compositae,,Amellus,,"speciosus",,"","Gaterau",Synonym,,M,TICA,EAC04669-E0DC-4E34-8F58-1C55D46A4E13,176189-1,"Fl. Montaub.","","146","1789",gcc-7371
+gcc-23345,A,Compositae,,Amellus,,"spinulosus",,"","Pursh",Synonym,,M,TICA,67D97CC3-9121-4C04-B145-2B31D21F4EE7,,"","","564","",gcc-135337
+gcc-51826,A,Compositae,,Amellus,,"strigosus",,"","(Thunb.) Less.",Accepted,,M,TICA,B9D00776-AA01-439B-80AB-601CB834B004,176191-1,"Linnaea 6","","110","1831",
+gcc-63902,A,Compositae,,Amellus,,"strigosus",subsp.,"scabridus","(DC.) Rommel",Accepted,,L,TICA,AD6F0510-D803-400D-A6F4-BA6C83941D71,876411-1,"Mitt. Bot. Staatssamml. München 13: 649 (1977)","","649","1977",
+gcc-150497,A,Compositae,,Amellus,,"strigosus",var.,"strigosus","",Synonym,,L,TICA,9788B7C2-C93A-49CC-BACD-701682DFC2DE,,"","","","",gcc-51826
+gcc-66411,A,Compositae,,Amellus,,"strigosus",subsp.,"strigosus","",Synonym,,L,TICA,379E63E5-0D74-492C-9E81-CE9BC2BE64C9,,"","","","",gcc-51826
+gcc-9870,A,Compositae,,Amellus,,"strigosus",var.,"thunbergii","Harv.",Synonym,,L,TICA,B53F6AE9-1159-458C-858D-126D50EF05DC,,"Fl. Cap. 3: 63 (1865)","","63","1865",gcc-13055
+gcc-66300,A,Compositae,,Amellus,,"strigosus",var.,"willdenowii","Harv. p.p.",Synonym,,L,TICA,5C90F8E1-0A5B-4322-96BC-CDA77F907683,,"","","","",gcc-13055
+gcc-122573,A,Compositae,,Amellus,,"tenuifolius",,"","Burm.f.",Accepted,,L,TICA,9B559CAF-DC03-4D5D-948D-CC4E91FDC4DE,,"","","","1768",
+gcc-8398,A,Compositae,,Amellus,,"ternifolius",,"","Lam. ex Nees",Synonym,,M,TICA,4220300C-37BB-4480-B65E-0F9F13C78E47,,"Gen. Sp. Aster.: 244 (1832)","","244","1832",gcc-122573
+gcc-13055,A,Compositae,,Amellus,,"tridactylus",,"","DC.",Accepted,,M,TICA,95AF47F6-D53A-4DC7-9947-1850FB72A1AE,176193-1,"","","215","1836",
+gcc-601,A,Compositae,,Amellus,,"tridactylus",subsp.,"arenarius","(S.Moore) Rommel",Accepted,,L,TICA,5D917713-E694-4628-BB50-01244524F132,876412-1,"Mitt. Bot. Staatssamml. München 13: 634 (1977)","","634","1977",
+gcc-36986,A,Compositae,,Amellus,,"tridactylus",subsp.,"tridactylus","",Synonym,,L,TICA,65C49976-6192-4156-861D-448239634D38,,"","","","",gcc-13055
+gcc-89770,A,Compositae,,Amellus,,"umbellatus",,"","L.",Synonym,,M,TICA,79EC57CC-5404-4E61-A46C-827D769D5306,,"","","24","1759",gcc-22211
+gcc-144466,A,Compositae,,Amellus,,"villosus",,"","Pursh",Synonym,,M,TICA,02C797B9-F452-4569-A41E-FE291E764676,,"","","564","1814",gcc-91042
+gcc-44340,A,Compositae,,Amellus,,"vulgaris",,"","Opiz",Synonym,,M,TICA,C4417BAA-07D2-43F0-9E01-52202D7CC51B,176196-1,"","","14","1852",gcc-6220

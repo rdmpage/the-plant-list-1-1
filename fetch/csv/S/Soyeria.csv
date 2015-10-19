@@ -1,0 +1,28 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-34501,A,Compositae,,Soyeria,,"alpestris",,"","(Jacq.) Mutel",Synonym,,M,TICA,B6376937-3B40-4B26-9EE2-3FF33B479A04,,"Fl. Fr. ii. 223.","","","1835",gcc-4421
+gcc-124575,A,Compositae,,Soyeria,,"alpina",,"","Gren. & Godr.",Unresolved,,L,TICA,EB8CE35C-916E-4C73-B6C9-D10880C74362,250424-1,"Fl. Fr. ii. 327.","","ii. 327","",
+gcc-29283,A,Compositae,,Soyeria,,"aurea",,"","(L.) Mutel",Synonym,,M,TICA,994A2CBC-135B-451F-8311-361C15AE6F92,,"""Fl. Fr. ii. 223, 418.""","","","1835",gcc-122367
+gcc-127033,A,Compositae,,Soyeria,,"blattarioides",,"","Monn.",Unresolved,,L,TICA,17226F11-E149-4E36-86F4-D6A9F4DA0C7C,,"Ess. Hierac. 76.","","76","",
+gcc-155770,A,Compositae,,Soyeria,,"blattarioides",,"","(L.) Monnier",Synonym,,M,TICA,07145A1D-ED05-41C3-B5E8-DF908AC241A5,250426-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","76","1829",gcc-34648
+gcc-134496,A,Compositae,,Soyeria,,"chrysantha",,"","(Ledeb.) D.Dietr.",Synonym,,M,TICA,90B3E0AB-BB94-4935-A82C-E7F229F7D9E0,,"Syn. Pl. (D. Dietrich) iv. 1331.","","1331","1847",gcc-95911
+gcc-77505,A,Compositae,,Soyeria,,"crocifolia",,"","(Boiss. & Heldr.) Sch.Bip.",Synonym,,M,TICA,A7CDF90F-63CF-4D85-B9A0-670A13399E5E,,"in Pollichia xxii-xxiv. (1866) 322.","","","1866",gcc-22926
+gcc-149410,A,Compositae,,Soyeria,,"grandiflora",,"","(All.) Monnier",Synonym,,M,TICA,7C938A0A-6B86-41B7-A92B-58271B377A85,250429-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","76","1829",gcc-126959
+gcc-83393,A,Compositae,,Soyeria,,"grandiflora",,"","Monn.",Unresolved,,L,TICA,A7C9E0D6-DDE9-4B38-B49F-742EC86421C5,,"Ess. Hierac. 76.","","76","",
+gcc-94592,A,Compositae,,Soyeria,,"hieracioides",,"","(Sweet) Sch.Bip.",Synonym,,M,TICA,73A5D868-4ADA-402C-B07E-8D5CBD586E28,,"in Pollichia xxii-xxiv. (1866) 321.","","","1866",gcc-57024
+gcc-1215,A,Compositae,,Soyeria,,"hyoseridifolia",,"","Koch",Unresolved,,L,TICA,718EC192-BCDB-480A-8D7C-023D9E1A58A1,,"Syn. Fl. Germ. Helv. (Koch) 1(2): 442","","442","1837",
+gcc-151077,A,Compositae,,Soyeria,,"hyoseridifolia",,"","(Pers.) W.D.J.Koch",Synonym,,M,TICA,35BECE87-A497-46F1-85BD-7CF0318DB902,250431-1,"""W. D. J. Koch, Syn. Fl. Germ. Helv.. 1837""","","442","1837",gcc-25403
+gcc-30660,A,Compositae,,Soyeria,,"jubata",,"","(W.D.J.Koch) Rouy",Synonym,,M,TICA,70377C04-B611-4645-8D41-38C306FF1D4B,250432-1,"","","232","1905",gcc-115935
+gcc-119639,A,Compositae,,Soyeria,,"lampsanoides",,"","(Gouan) Monnier",Synonym,,M,TICA,7193CB5C-FC79-42B6-A958-C5A1E7F655CE,250433-1,"","","77","1829",gcc-131982
+gcc-147879,A,Compositae,,Soyeria,,"lampsanoides",var.,"lampsanoides","",Synonym,,L,TICA,C39AB383-7986-4B48-8402-373A820CF04E,,"","","","",gcc-131982
+gcc-156417,A,Compositae,,Soyeria,,"lampsanoides",var.,"simplex","Rouy",Synonym,,L,TICA,9874CDA2-DC9E-4CFB-9250-ECBE46AA4233,,"""G.C.C. Rouy, Fl. France 9. 1905""","","231","1905",gcc-131982
+gcc-131767,A,Compositae,,Soyeria,,"lapsanoides",,"","Mutel",Unresolved,,L,TICA,D1CDEF86-A2CE-460E-B089-E1AED1DFB90A,250434-1,"Fl. Fr. ii. 223.","","ii. 223","",
+gcc-78881,A,Compositae,,Soyeria,,"lyrata",,"","(L.) Sch.Bip.",Synonym,,M,TICA,D876BD1E-3F23-4E00-80FD-6A3055DDAAB8,,"in Pollichia xxii-xxiv. (1866) 322.","","","1866",gcc-135350
+gcc-122133,A,Compositae,,Soyeria,,"montana",,"","Monn.",Unresolved,,L,TICA,3E909DA7-F540-4D53-9312-CB54DAEA5919,,"Ess. Hierac. 75.","","75","",
+gcc-154777,A,Compositae,,Soyeria,,"montana",,"","(Jacq.) Monnier",Synonym,,M,TICA,C502754D-FE69-4464-AD5E-CAC45CEECAEE,250436-1,"""A. Monnier, Ess. Monogr. Hieracium. 1829""","","75","1829",gcc-124715
+gcc-49334,A,Compositae,,Soyeria,,"paludosa",,"","(L.) Godr.",Synonym,,M,TICA,C4C9B67E-27C6-4C19-94F2-5B606D3EDB88,250437-1,"","","72","1843",gcc-90103
+gcc-131405,A,Compositae,,Soyeria,,"praemorsa",,"","(L.) Mutel",Synonym,,L,TICA,0A45645E-ECE2-42E9-A48A-E0CF42E8E651,,"Fl. Fr. ii. 224.","","","1835",gcc-96411
+gcc-78436,A,Compositae,,Soyeria,,"pyrenaica",,"","(L.) Sch.Bip.",Synonym,,M,TICA,7BCA3991-55D4-480C-9B18-692478D8F729,,"in Pollichia xxii-xxiv. (1866) 322.","","","1866",gcc-34648
+gcc-150455,A,Compositae,,Soyeria,,"rhaetica",,"","(Hegetschw.) Ducommun",Synonym,,M,TICA,D696B38B-3687-430E-BA5F-6EFB2264B88D,,"""Ducommun, Taschenb. Schweiz. Bot.. 1869""","","455","1869",gcc-115935
+gcc-97261,A,Compositae,,Soyeria,,"serbica",,"","Sch.Bip.",Synonym,,M,TICA,3D3EFBFA-5D9C-4376-BFE6-9371AB24D7CD,,"in Pollichia xxii-xxiv. (1866) 322.","","","1866",gcc-17969
+gcc-19827,A,Compositae,,Soyeria,,"sibirica",,"","(L.) Monnier",Synonym,,M,TICA,26EDAFF2-1A54-43EF-9B8B-24AE11D85027,250441-1,"Ess. Hierac. 77.","","77","1829",gcc-38811
+gcc-27223,A,Compositae,,Soyeria,,"viscidula",,"","D.Dietr.",Accepted,,M,TICA,F88ECC04-8097-4EF1-9BD0-325BCF1CE4B8,,"Syn. Pl. (D. Dietrich) iv. 1332.","","","1847",

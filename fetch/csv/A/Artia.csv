@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-16012,A,Apocynaceae,,Artia,,"amieuensis",,"","Guillaumin",Accepted,,H,WCSP,16012,77308-1,"J. Agric. Trop. Bot. Appl.","11: 189","","1964",
+kew-16013,A,Apocynaceae,,Artia,,"balansae",,"","(Baill.) Pichon ex Guillaumin",Accepted,,H,WCSP,16013,,"Bull. Mus. Natl. Hist. Nat.","II, 21: 260","","1949",
+kew-16014,A,Apocynaceae,,Artia,,"brachycarpa",,"","(Baill.) Boiteau",Accepted,,L,WCSP,16014,908352-1,"in Fl. Nouv.-Caléd.","10: 289","","1981",
+kew-16015,A,Apocynaceae,,Artia,,"brachycarpa",var.,"brachycarpa","",Synonym,,L,WCSP,16015,,"Unknown","","","",kew-16014
+kew-16016,A,Apocynaceae,,Artia,,"brachycarpa",var.,"coriacea","(Guillaumin) Boiteau",Accepted,,L,WCSP,16016,919694-1,"in Fl. Nouv.-Caléd.","10: 293","","1981",
+kew-16017,A,Apocynaceae,,Artia,,"brachycarpa",var.,"lanceolata","(Guillaumin) Boiteau",Accepted,,L,WCSP,16017,919695-1,"in Fl. Nouv.-Caléd.","10: 293","","1981",
+kew-16018,A,Apocynaceae,,Artia,,"coriacea",,"","Guillaumin",Synonym,,H,WCSP,16018,77310-1,"Notul. Syst. (Paris)","12: 80","","1945",kew-16016
+kew-16019,A,Apocynaceae,,Artia,,"francii",,"","(Guillaumin) Pichon",Accepted,,H,WCSP,16019,77311-1,"Notul. Syst. (Paris)","14: 21","","1950",
+kew-16020,A,Apocynaceae,,Artia,,"lanceolata",,"","Guillaumin",Synonym,,H,WCSP,16020,77312-1,"Bull. Soc. Bot. France","88: 380","","1941",kew-16017
+kew-16021,A,Apocynaceae,,Artia,,"lifuana",,"","(Baill.) Pichon ex Guillaumin",Accepted,,H,WCSP,16021,,"Bull. Mus. Natl. Hist. Nat.","II, 21: 259","","1949",
+kew-16022,A,Apocynaceae,,Artia,,"orbicularis",,"","Guillaumin",Synonym,,L,WCSP,16022,77314-1,"Bull. Soc. Bot. France","88: 380","","1941",kew-16014
+kew-16023,A,Apocynaceae,,Artia,,"penangiana",,"","(King & Gamble) Pichon",Synonym,,H,WCSP,16023,77315-1,"Notul. Syst. (Paris)","14: 19","","1950",kew-147956

@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-24866,A,Compositae,,Plagius,,"ageratifolius",,"","L'Hér. ex DC.",Synonym,,M,TICA,10128C63-989F-48E3-A088-2DF44A002BE7,238670-1,"","","135","1838",gcc-137050
+gcc-101693,A,Compositae,,Plagius,,"allionii",,"","L'Hér. ex DC.",Unresolved,,L,TICA,2B604280-B406-4ED6-966A-9D5504208B1F,238671-1,"Prodr. (DC.) 6: 135","","135","1838",
+gcc-137050,A,Compositae,,Plagius,,"flosculosus",,"","(L.) S.Alavi & V.H.Heywood",Accepted,,L,TICA,FBB8A200-2B34-451F-8AA8-ED922D51FB5F,,"","","273","1976",
+tro-2703012,A,Compositae,,Plagius,,"flosculosus",,"","(L.) Alavi & Heyw.",Unresolved,,L,TRO,2703012,,"Bot. J. Linn. Soc.","71(4): 273","273","1975",
+gcc-27461,A,Compositae,,Plagius,,"fontanesii",,"","(Boiss. & Reut.) Vogt",Synonym,,M,TICA,36DDCEDC-4379-4BF6-B541-32C7098C9629,996744-1,"Lagascalia 18(2): 303 (1996):","","303","1996",gcc-140131
+gcc-2106,A,Compositae,,Plagius,,"grandiflorus",,"","(Desf.) L'Hér. ex DC.",Synonym,,M,TICA,BFE7EF1E-3940-414A-AFEF-03C6F428240A,238673-1,"","","135","1838",gcc-19206
+gcc-2239,A,Compositae,,Plagius,,"grandiflorus",,"","(Desf.) L'Hér.",Synonym,,M,TICA,95ABAEFA-6110-487C-B038-040E21E8B9BF,,"","","","",gcc-19206
+gcc-19206,A,Compositae,,Plagius,,"grandis",,"","(L.) Alavi & Heywood",Accepted,,M,TICA,225F3F4B-4CD7-436E-B702-2379ACAEB8CA,238674-1,"","","273","1976",
+gcc-140131,A,Compositae,,Plagius,,"maghrebinus",,"","Vogt & Greuter",Accepted,,M,TICA,F98DC429-E916-46CF-A484-F446FE72EA2D,70029010-1,"","","42","2003",
+gcc-45376,A,Compositae,,Plagius,,"virgatus",,"","DC.",Unresolved,,L,TICA,9B86829F-9C88-4215-9AB4-54162B411E2F,238675-1,"Prodr. (DC.) 6: 135","","135","1838",

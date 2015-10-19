@@ -1,0 +1,15 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-302085,A,Asparagaceae,,Chamaescilla,,"corymbosa",,"","(R.Br.) F.Muell. ex Benth.",Accepted,,H,WCSP,302085,,"Fragm.","7: 68","","1870",
+kew-302086,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"alba","Guilf.",Synonym,,L,WCSP,302086,,"Austral. Pl. Parks","106","","1922",kew-302085
+kew-311216,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"corymbosa","",Synonym,,L,WCSP,311216,,"Unknown","","","",kew-302085
+kew-302087,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"latifolia","(F.Muell.) R.J.F.Hend.",Accepted,,L,WCSP,302087,953652-1,"in Fl. Australia","45: 473","","1987",
+kew-302088,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"paradoxa","(Endl.) R.J.F.Hend.",Accepted,,L,WCSP,302088,953653-1,"in Fl. Australia","45: 473","","1987",
+kew-302089,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"versicolor","(Lindl.) Baker",Synonym,,L,WCSP,302089,,"J. Linn. Soc., Bot.","15: 361","","1876",kew-302087
+kew-302090,A,Asparagaceae,,Chamaescilla,,"corymbosa",var.,"versicolor","Domin",Synonym,,L,WCSP,302090,,"J. Linn. Soc., Bot.","41: 263","","1912",kew-302087
+kew-302091,A,Asparagaceae,,Chamaescilla,,"dyeri",,"","Domin",Synonym,,H,WCSP,302091,532654-1,"J. Linn. Soc., Bot.","41: 264","","1912",kew-300062
+kew-302092,A,Asparagaceae,,Chamaescilla,,"gibsonii",,"","Keighery",Accepted,,H,WCSP,302092,1018680-1,"Nuytsia","13: 476","","2001",
+kew-302093,A,Asparagaceae,,Chamaescilla,,"paradoxa",,"","(Endl.) Domin",Synonym,,H,WCSP,302093,532655-1,"J. Linn. Soc., Bot.","41: 264","","1912",kew-302088
+kew-302094,A,Asparagaceae,,Chamaescilla,,"spiralis",,"","(Endl.) F.Muell.",Accepted,,H,WCSP,302094,532656-1,"Fragm.","7: 68","","1870",
+tro-18405677,A,Asparagaceae,,Chamaescilla,,"spiralis",,"","(Endl.) F. Muell. ex Benth.",Synonym,,M,TRO,18405677,,"Fl. Austral.","7: 48","48","1878",kew-302094
+kew-302095,A,Asparagaceae,,Chamaescilla,,"tasmanica",,"","Gand.",Synonym,,H,WCSP,302095,532657-1,"Bull. Soc. Bot. France","66: 291","","1919 publ. 1920",kew-302085
+kew-302096,A,Asparagaceae,,Chamaescilla,,"versicolor",,"","(Lindl.) Ostenf.",Synonym,,H,WCSP,302096,532658-1,"Biol. Meddel. Kongel. Danske Vidensk. Selsk.","3(2): 20","","1921",kew-302087

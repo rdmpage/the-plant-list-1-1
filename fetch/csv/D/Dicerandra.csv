@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-61139,A,Lamiaceae,,Dicerandra,,"christmanii",,"","Huck & Judd",Synonym,,H,WCSP,61139,275803-2,"Syst. Bot.","14: 198","","1989",kew-457134
+kew-61140,A,Lamiaceae,,Dicerandra,,"cornutissima",,"","Huck",Synonym,,H,WCSP,61140,79220-2,"Phytologia","47: 313","","1981",kew-457135
+kew-61141,A,Lamiaceae,,Dicerandra,,"densiflora",,"","Benth.",Accepted,,H,WCSP,61141,446360-1,"Prodr.","12: 243","","1848",
+kew-61142,A,Lamiaceae,,Dicerandra,,"frutescens",,"","Shinners",Accepted,,H,WCSP,61142,79221-2,"Sida","1: 89","","1962",
+kew-457134,A,Lamiaceae,,Dicerandra,,"frutescens",var.,"christmanii","(Huck & Judd) D.B.Ward",Accepted,,L,WCSP,457134,77102596-1,"Phytologia","91: 272","","2009",
+kew-457135,A,Lamiaceae,,Dicerandra,,"frutescens",var.,"cornutissima","(Huck) D.B.Ward",Accepted,,L,WCSP,457135,77102597-1,"Phytologia","91: 272","","2009",
+kew-61143,A,Lamiaceae,,Dicerandra,,"frutescens",subsp.,"frutescens","",Synonym,,L,WCSP,61143,,"Sida","1: 89","","1962",kew-61142
+kew-457136,A,Lamiaceae,,Dicerandra,,"frutescens",var.,"immaculata","(Lakela) D.B.Ward",Accepted,,L,WCSP,457136,77102598-1,"Phytologia","91: 272","","2009",
+kew-239356,A,Lamiaceae,,Dicerandra,,"frutescens",subsp.,"modesta","Huck",Accepted,,L,WCSP,239356,20003131-1,"Novon","11: 417","","2001",
+kew-457137,A,Lamiaceae,,Dicerandra,,"frutescens",var.,"modesta","(Huck) D.B.Ward",Synonym,,L,WCSP,457137,77102599-1,"Phytologia","91: 272","","2009",kew-239356
+kew-457138,A,Lamiaceae,,Dicerandra,,"frutescens",subsp.,"savannarum","(Huck) D.B.Ward",Accepted,,L,WCSP,457138,77102600-1,"Phytologia","91: 273","","2009",
+kew-457139,A,Lamiaceae,,Dicerandra,,"frutescens",subsp.,"thinicola","(H.A.Mill.) D.B.Ward",Accepted,,L,WCSP,457139,77102603-1,"Phytologia","91: 273","","2009",
+kew-465863,A,Lamiaceae,,Dicerandra,,"fumella",,"","Huck",Accepted,,H,WCSP,465863,,"Rhodora","112: 218","","2010",
+kew-61144,A,Lamiaceae,,Dicerandra,,"immaculata",,"","Lakela",Synonym,,H,WCSP,61144,79222-2,"Sida","1: 184","","1963",kew-457136
+kew-61146,A,Lamiaceae,,Dicerandra,,"immaculata",f.,"nivea","Lakela",Synonym,,L,WCSP,61146,79223-2,"Sida","1: 185","","1963",kew-457136
+kew-239357,A,Lamiaceae,,Dicerandra,,"immaculata",var.,"savannarum","Huck",Synonym,,L,WCSP,239357,322117-2,"Novon","11: 419","","2001",kew-457138
+kew-61147,A,Lamiaceae,,Dicerandra,,"linearifolia",,"","(Elliott) Benth.",Accepted,,H,WCSP,61147,60442904-2,"Prodr.","12: 243","","1848",
+kew-61148,A,Lamiaceae,,Dicerandra,,"linearifolia",var.,"linearifolia","",Synonym,,L,WCSP,61148,,"Unknown","","","",kew-61147
+kew-61150,A,Lamiaceae,,Dicerandra,,"linearis",,"","Benth.",Synonym,,H,WCSP,61150,446364-1,"Labiat. Gen. Spec.","413","","1834",kew-61147
+kew-457140,A,Lamiaceae,,Dicerandra,,"modesta",,"","(Huck) Huck",Synonym,,H,WCSP,457140,77099755-1,"J. Bot. Res. Inst. Texas","2: 1163","","2008",kew-239356
+kew-61151,A,Lamiaceae,,Dicerandra,,"odaratissima",,"","R.M.Harper",Accepted,,H,WCSP,61151,79224-2,"Bull. Torrey Bot. Club","28: 479","","1901",
+kew-61152,A,Lamiaceae,,Dicerandra,,"radfordiana",,"","Huck",Accepted,,H,WCSP,61152,79225-2,"Phytologia","48: 433","","1981",
+kew-61153,A,Lamiaceae,,Dicerandra,,"thinicola",,"","H.A.Mill.",Synonym,,H,WCSP,61153,300981-2,"Phytologia","75: 185","","1993 publ. 1994",kew-457139

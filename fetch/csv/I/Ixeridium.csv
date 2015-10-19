@@ -1,0 +1,40 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76554,A,Compositae,,Ixeridium,,"aculeolatum",,"","C.Shih",Accepted,,M,TICA,3E7E9E4D-DD07-4423-9D0B-64FA11C35C06,975626-1,"Acta Phytotax. Sin. 31(6): 544 (1993)","","544","1993",
+gcc-3459,A,Compositae,,Ixeridium,,"alpicola",,"","(Takeda) Pak & Kawano",Accepted,,L,TICA,9C222419-4E01-4FF7-990F-065CD2F7FBCA,972095-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 42 (1992):""","","42","1992",
+gcc-135790,A,Compositae,,Ixeridium,,"beauverdianum",,"","(H.Lév.) Spring.",Accepted,,M,TICA,91802C0C-EA19-4C03-B201-EABBC6C3B827,1016740-1,"","","402","2000",
+gcc-105516,A,Compositae,,Ixeridium,,"biparum",,"","C.Shih",Accepted,,M,TICA,C2026694-2D76-4CEE-AD11-A5C09D955164,975623-1,"Acta Phytotax. Sin. 31(6): 539 (1993)","","539","1993",
+gcc-22137,A,Compositae,,Ixeridium,,"chinense",,"","(Thunb.) Tzvelev",Synonym,,M,TICA,4418163F-CEF2-41C6-82AF-28F44E4BC97D,226363-1,"","","390","1964",gcc-108473
+gcc-57998,A,Compositae,,Ixeridium,,"chinense",subsp.,"graminifolium","(Ledeb.) Tzvelev",Synonym,,L,TICA,EAAB5DFF-153C-45E6-8363-8B0E38C01970,,"N.N. Tzvelev in Spisok Rast. Gerb. Fl. SSSR Bot. Inst. Komarova Akad. Nauk SSSR 17. 1967","","103","1967",gcc-81313
+gcc-40771,A,Compositae,,Ixeridium,,"chinense",subsp.,"versicolor","(Fisch. ex Link) Tzvelev",Synonym,,L,TICA,369A2869-D807-4CB1-B64F-4B909B008D62,,"N.N. Tzvelev in Spisok Rast. Gerb. Fl. SSSR Bot. Inst. Komarova Akad. Nauk SSSR 17. 1967","","102","1967",gcc-13707
+gcc-131178,A,Compositae,,Ixeridium,,"dentatum",,"","(Thunb. ex Thunb.) Tzvelev",Accepted,,M,TICA,8F21206E-D871-446E-9147-E04935E5556E,226364-1,"","","392","1964",
+gcc-146533,A,Compositae,,Ixeridium,,"dentatum",f.,"dentatum","",Synonym,,L,TICA,55E31C1A-3C9D-49C9-B74A-1A8F642194F5,,"","","","",gcc-131178
+gcc-152653,A,Compositae,,Ixeridium,,"dentatum",var.,"dentatum","",Synonym,,L,TICA,042D976D-63D2-4DD1-8085-9E0D9BB1BA3E,,"","","","",gcc-131178
+gcc-61844,A,Compositae,,Ixeridium,,"dentatum",subsp.,"dentatum","",Synonym,,L,TICA,B84613E9-9C7D-4C15-A1B2-A9EF028B88A2,,"","","","",gcc-131178
+gcc-35167,A,Compositae,,Ixeridium,,"dentatum",subsp.,"kimuranum","(Kitam.) Pak & Kawano",Unresolved,,L,TICA,3B81D218-6253-47CA-8805-4137DA153E48,972096-1,"","","44","1992",
+gcc-56851,A,Compositae,,Ixeridium,,"dentatum",subsp.,"kitayamense","(Murata) Pak & Kawano",Unresolved,,L,TICA,AD0852D0-A622-4240-919A-81B3C6C13C7C,972097-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 44 (1992):""","","44","1992",
+gcc-58440,A,Compositae,,Ixeridium,,"dentatum",subsp.,"nipponicum","(Nakai) Pak & Kawano",Unresolved,,L,TICA,1C43DA79-645E-401C-9640-8EB42B3C9C37,972098-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 45 (1992):""","","45","1992",
+gcc-64329,A,Compositae,,Ixeridium,,"dentatum",subsp.,"shiranense","(Kitam.) Pak & Kawano",Unresolved,,L,TICA,AEDC5A26-E5E0-4AF9-B757-BDAED3745A46,972099-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 45 (1992):""","","45","1992",
+gcc-42894,A,Compositae,,Ixeridium,,"elegans",,"","(Franch.) C.Shih",Synonym,,L,TICA,C9ED67E1-664E-457D-8E12-4F75B365CE59,975624-1,"Acta Phytotax. Sin. 31(6): 543 (1993):","","543","1993",gcc-147510
+gcc-19078,A,Compositae,,Ixeridium,,"gracile",,"","(DC.) Pak & Kawano",Accepted,,L,TICA,8260D74F-2F8C-4D77-907E-233916E25F6F,972100-1,"","","45","1992",
+gcc-47762,A,Compositae,,Ixeridium,,"gracile",,"","(DC.) C.Shih",Synonym,Illegitimate,M,TICA,3D7BE479-143B-4573-B51C-587A7975FBB1,,"","","","1993",gcc-19078
+gcc-52839,A,Compositae,,Ixeridium,,"gramineum",,"","(Fisch.) Tzvelev",Synonym,,M,TICA,4984BE23-6AD2-4C66-B895-61F973955C87,226365-1,"Fl. URSS xxix. 391 (1964).","","391","1964",gcc-13707
+gcc-89811,A,Compositae,,Ixeridium,,"graminifolium",,"","(Ledeb.) Tzvelev",Synonym,,M,TICA,BE3C990C-A889-4C7D-8EFF-829825EEDB2E,226366-1,"Fl. URSS xxix. 392 (1964).","","392","1964",gcc-81313
+gcc-126310,A,Compositae,,Ixeridium,,"kurilense",,"","Barkalov",Accepted,,M,TICA,6E22A517-4322-4372-81EE-D50D343B5B69,975507-1,"""in Sosud. Rast. Sovet. Dal'nego Vostoka, 6: 353 (1992)""","","353","1992",
+gcc-32600,A,Compositae,,Ixeridium,,"laevigatum",,"","(Blume) C.Shih",Synonym,,M,TICA,58A1BEDB-DCF1-4F0C-8AD0-3C6A16C3CD7B,,"","","","1993",gcc-5053
+gcc-5053,A,Compositae,,Ixeridium,,"laevigatum",,"","(Blume) Pak & Kawano",Accepted,,M,TICA,D2C7F00D-FAA5-4B3F-9ECA-0972EC088CA2,972101-1,"""Memoirs of the Faculty of Science, Kyoto University, Series of Biology 15(1-2):""","","45","1992",
+gcc-150998,A,Compositae,,Ixeridium,,"makinoanum",,"","(Kitam.) Pak & Kawano",Synonym,,M,TICA,2B20E836-BDBC-4042-A0CB-7AC613187166,972102-1,"""Pak & Kawano in Mem. Fac. Sci. Kyoto Univ., Ser. Biol. 15. 1992""","","47","1992",gcc-135790
+gcc-103400,A,Compositae,,Ixeridium,,"nipponicum",,"","(Nakai) Pak & Kawano",Unresolved,,L,TICA,07537DB8-64D2-41FE-A29D-A12EC9EA86EC,,"""Memoirs of the Faculty of Science, Kyoto University, Series of Biology 15(1-2):""","","45","1992",
+gcc-142399,A,Compositae,,Ixeridium,,"oldhamii",,"","(Maxim.) Sennikov",Synonym,,M,TICA,2DFFE609-C092-421E-AE55-F982AF9DC064,998906-1,"","","116","1997",gcc-5053
+gcc-112468,A,Compositae,,Ixeridium,,"parvum",,"","(Kitam.) Pak & Kawano",Accepted,,L,TICA,994CEE51-D34E-4AD1-A1D6-B58588AB21DC,972103-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 47 (1992):""","","47","1992",
+gcc-132986,A,Compositae,,Ixeridium,,"pusillum",,"","(Mattf.) Pak & Kawano",Synonym,,M,TICA,5EE43EDC-23F4-45FD-A34F-E482C79614C4,972104-1,"","","47","1992",gcc-5053
+gcc-39674,A,Compositae,,Ixeridium,,"pygmaeum",,"","(Zoll. & Moritzi) Pak & Kawano",Synonym,,M,TICA,18275FB4-BBBE-4D07-9247-499D43EC0F26,972105-1,"","","48","1992",gcc-5053
+gcc-128168,A,Compositae,,Ixeridium,,"sagittarioides",,"","(C.B.Clarke) Pak & Kawano",Accepted,,M,TICA,4DA410E1-98D1-41B3-BC85-D9612B6D20D8,972106-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 48 (1992):""","","48","1992",
+gcc-30159,A,Compositae,,Ixeridium,,"sagittarioides",,"","(C.B.Clarke) C.Shih",Synonym,,M,TICA,9A7657E0-A6EB-459B-BC38-37D1D95FCEA3,975621-1,"Acta Phytotax. Sin. 31(6): 538 (1993):.","","538","1993",gcc-128168
+gcc-149437,A,Compositae,,Ixeridium,,"sandsii",,"","D.J.N.Hind & R.J.Johns",Accepted,,M,TICA,298B0720-4C63-4423-8F28-58B4FAABDB96,20007998-1,"D. J. N. Hinds & R. J. Johns in Kew Bull. 57. 2002","","698","2002",
+gcc-93787,A,Compositae,,Ixeridium,,"siamense",,"","(Kerr) Pak & Kawano",Accepted,,L,TICA,08EB9FC9-3D1D-4528-852D-8B71E85B1447,972107-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 49 (1992):""","","49","1992",
+gcc-1578,A,Compositae,,Ixeridium,,"sonchifolium",,"","(Maxim.) C.Shih",Synonym,,L,TICA,6995FBBC-7300-4510-9A9C-02D9325E67C7,975625-1,"","","543","1993",gcc-147510
+gcc-123907,A,Compositae,,Ixeridium,,"strigosum",,"","(H.Lév. & Vaniot) Tzvelev",Synonym,,M,TICA,CA8B5FE5-8105-4D4E-92C4-CF7AED0BFEC7,226367-1,"","","390","1964",gcc-145718
+gcc-99543,A,Compositae,,Ixeridium,,"subacaule",,"","(J.Kost.) Pak & Kawano",Accepted,,M,TICA,E3E31636-46E8-4F81-BD52-989194888343,972108-1,"","","49","1992",
+gcc-28738,A,Compositae,,Ixeridium,,"transnokoense",,"","(Sasaki) Pak & Kawano",Accepted,,M,TICA,18BF903F-5793-45E5-A427-35266F6F042E,972109-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 49 (1992):""","","49","1992",
+gcc-17013,A,Compositae,,Ixeridium,,"yakuinsulare",,"","(Yahara) Pak & Kawano",Accepted,,L,TICA,EE5E061A-8BF1-4F99-95F0-1F70A38A0510,972110-1,"""in Mem. Fac. Sci. Kyoto Univ., Biol., 15(1–2): 50 (1992):""","","50","1992",
+gcc-115010,A,Compositae,,Ixeridium,,"yunnanense",,"","C.Shih",Accepted,,M,TICA,6520C0F3-F49E-43A3-A487-BB2DD2DB6CC1,975622-1,"Acta Phytotax. Sin. 31(6): 538 (1993)","","538","1993",

@@ -1,0 +1,170 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-35526,A,Compositae,,Athanasia,,"acerosa",,"","(DC.) Harv.",Synonym,,M,TICA,A2215E0F-49F8-44F9-9B17-41E00BADE9EC,,"","","","",gcc-49109
+gcc-96477,A,Compositae,,Athanasia,,"acerosa",,"","(DC.) D.Dietr.",Synonym,,M,TICA,F46ED21E-3BC8-4BFB-8FE8-91A4E9805D18,,"","","","1847",gcc-49109
+gcc-143742,A,Compositae,,Athanasia,,"adenantha",,"","(Harv.) Källersjö",Accepted,,M,TICA,BFB10215-BCDE-4CD0-B503-FC94C6CE9B5D,962628-1,"Opera Bot. 106","","70","1991",
+gcc-33820,A,Compositae,,Athanasia,,"alba",,"","Källersjö",Accepted,,M,TICA,95B50449-0C2B-4498-A4B6-3EB80BDFA2AB,959108-1,"Opera Bot. 106: 33 (1991)","","33","1991",
+gcc-143102,A,Compositae,,Athanasia,,"annua",,"","L.",Synonym,,M,TICA,362E7EFA-8215-4DF4-B83D-FB2322637E56,182734-1,"","","1182","1763",gcc-22510
+gcc-42308,A,Compositae,,Athanasia,,"aspera",,"","Thunb.",Synonym,,L,TICA,44D77601-C43C-450F-8308-4E604309CFA7,182735-1,"","","","1800",gcc-37307
+gcc-77934,A,Compositae,,Athanasia,,"bremeri",,"","Källersjö",Accepted,,M,TICA,979CB6CA-1070-4E1A-9DB4-67FB887B9090,959115-1,"Opera Bot. 106: 66 (1991)","","66","1991",
+gcc-11949,A,Compositae,,Athanasia,,"brownii",,"","Hochr.",Synonym,,M,TICA,A4C9889F-AC79-4B4A-8BC1-16436A59427A,182736-1,"","","120","1908",gcc-122395
+gcc-19054,A,Compositae,,Athanasia,,"calophylla",,"","Källersjö",Accepted,,M,TICA,C4DF322F-8A7D-4E3A-9A63-232EE5A3432E,959110-1,"Opera Bot. 106: 55 (1991)","","55","1991",
+gcc-118356,A,Compositae,,Athanasia,,"calva",,"","Hutch.",Synonym,,M,TICA,D3A2A4A9-090C-4B13-973C-C2BC5160C5B2,182737-1,"","","83","1936",gcc-133345
+gcc-129810,A,Compositae,,Athanasia,,"canescens",,"","Thunb.",Synonym,,M,TICA,B6BD19C6-08E9-4854-91DD-DD1C239EF719,182738-1,"","","","1800",gcc-24141
+gcc-44532,A,Compositae,,Athanasia,,"capitata",,"","(L.) L.",Accepted,,M,TICA,EAD88FA2-322A-4642-8FD0-52833B46055C,,"","","","1763",
+gcc-4551,A,Compositae,,Athanasia,,"capitata",,"","P.J.Bergius",Synonym,Illegitimate,M,TICA,950F46F2-E3BD-4E38-98F2-0873D2F6643F,182739-1,"","","237","1767",gcc-133103
+gcc-147279,A,Compositae,,Athanasia,,"capitata",var.,"capitata","",Synonym,,L,TICA,313FDBA5-96F6-4647-B82F-2A310511C4DC,,"","","","",gcc-44532
+gcc-3754,A,Compositae,,Athanasia,,"capitata",var.,"glabrata","Harv.",Synonym,,L,TICA,8E13F52F-6E03-4647-A9E3-06F77A08ED55,,"","","","",gcc-44532
+gcc-34243,A,Compositae,,Athanasia,,"cinerea",,"","L.f.",Synonym,,M,TICA,2C244CCA-4E42-4690-923B-3F78724FF8DA,182741-1,"","","361","1782",gcc-88691
+gcc-46223,A,Compositae,,Athanasia,,"cochlearifolia",,"","Källersjö",Accepted,,M,TICA,0E2FC7AE-353D-4FE3-8EBA-55AE19525CE3,959111-1,"Opera Bot. 106","","","1991",
+gcc-85734,A,Compositae,,Athanasia,,"coronopifolia",,"","Harv.",Synonym,,M,TICA,6D083256-E279-44B2-BF19-79581E056DE3,182742-1,"","","191","1865",gcc-110080
+gcc-34593,A,Compositae,,Athanasia,,"crenata",,"","(L.) L.",Accepted,,M,TICA,261A3F41-A6B2-462E-941B-402023F56290,,"","","","1763",
+gcc-121292,A,Compositae,,Athanasia,,"crithmifolia",,"","Scop.",Unresolved,,L,TICA,391A88E0-8A62-4DBF-BF55-C97BBC6DA1E7,182745-1,"Introd. 127.","","127","",
+gcc-97859,A,Compositae,,Athanasia,,"crithmifolia",,"","(L.) L.",Accepted,,M,TICA,F219D154-9802-48BB-8F19-94D11F2045D8,,"","","","1763",
+gcc-68007,A,Compositae,,Athanasia,,"crithmifolia",subsp.,"crithmifolia","",Synonym,,L,TICA,1C45B484-C777-42F3-8B3E-DB990BAFAD1F,,"","","","",gcc-97859
+gcc-31060,A,Compositae,,Athanasia,,"crithmifolia",subsp.,"palmatifida","(DC.) Källersjö",Accepted,,L,TICA,A1E4A489-CFB1-495A-A1B5-3985280C3321,966774-1,"Opera Bot. 106: 48 (1991)","","48","1991",
+gcc-78996,A,Compositae,,Athanasia,,"cuneifolia",,"","Lam.",Accepted,,M,TICA,AC759411-B9CB-4996-893F-6A7D77EABA60,182746-1,"","","327","1783",
+gcc-131262,A,Compositae,,Athanasia,,"cuneiformis",,"","DC.",Synonym,,M,TICA,22C95379-F237-4CB0-BC2B-E07FEA5AC088,182747-1,"","","89","1838",gcc-138444
+gcc-8431,A,Compositae,,Athanasia,,"cupressiformis",,"","Comm. ex DC.",Synonym,,M,TICA,11807E97-0506-4F33-BC89-0FB483C72DE4,182748-1,"","","314","1836",gcc-7337
+gcc-37307,A,Compositae,,Athanasia,,"dentata",,"","(L.) L.",Accepted,,L,TICA,A83E9D99-CAA4-4708-8812-45225AD0828F,,"","","","",
+gcc-151918,A,Compositae,,Athanasia,,"dentata",var.,"dentata","",Synonym,,L,TICA,53F331CD-CF71-40BF-BE3E-8E85A909A3E1,,"","","","",gcc-37307
+gcc-66751,A,Compositae,,Athanasia,,"dentata",var.,"pachyphylla","(Sch.Bip.) Harv.",Synonym,,L,TICA,EC4F172C-76DA-4E67-A58B-D16E137ACBDE,,"","","","",gcc-37307
+gcc-5458,A,Compositae,,Athanasia,,"dentata",var.,"subintegrifolia","Harv.",Synonym,,L,TICA,8B2F4A03-6EF1-4808-98DD-0A2B6505A6E7,,"","","","",gcc-37307
+gcc-106450,A,Compositae,,Athanasia,,"dimorpha",,"","DC.",Synonym,,M,TICA,63C09BD2-C0BE-46ED-ADFC-A7D4AAA3F856,182751-1,"","","87","1838",gcc-100314
+gcc-54761,A,Compositae,,Athanasia,,"dimorpha",var.,"dimorpha","",Synonym,,L,TICA,DB3C513E-C33A-4D0E-859A-70A8A43759BA,,"","","","",gcc-100314
+gcc-33874,A,Compositae,,Athanasia,,"dimorpha",var.,"minor","(Pappe) Harv.",Synonym,,L,TICA,71578CD8-2A30-4DFA-851F-3ED005CBB924,,"","","","",gcc-100314
+gcc-68504,A,Compositae,,Athanasia,,"dimorpha",var.,"obovata","Harv.",Synonym,,L,TICA,5DDC3DC3-CCE5-4E7F-88E4-DF5428519719,,"","","","",gcc-100314
+gcc-90641,A,Compositae,,Athanasia,,"dregeana",,"","(DC.) Harv.",Synonym,,M,TICA,41AE31F9-BB56-49F6-A6BB-848B84257103,182752-1,"","","191","1865",gcc-3834
+gcc-102594,A,Compositae,,Athanasia,,"ebracteata",,"","E.Mey. ex DC.",Synonym,,M,TICA,C180EFE3-5B01-42F0-8721-9F7F58AF725F,182753-1,"","","87","1838",gcc-34593
+gcc-59107,A,Compositae,,Athanasia,,"ebracteata",var.,"araneosa","DC.",Synonym,,L,TICA,22091923-D6D0-4EAD-9119-93D13BA740B6,,"Prodr. 6: 88 (1838).","","","",gcc-136714
+gcc-57980,A,Compositae,,Athanasia,,"ebracteata",var.,"brachypoda","DC.",Synonym,,L,TICA,B2E4E4FE-41A2-465F-B6CB-8AEB5BA13872,,"Prodr. 6: 88 (1838).","","","",gcc-136714
+gcc-147074,A,Compositae,,Athanasia,,"ebracteata",var.,"ebracteata","",Synonym,,L,TICA,C2AE609C-0529-489C-A368-25E04EA85BE5,,"","","","",gcc-34593
+gcc-54795,A,Compositae,,Athanasia,,"ebracteata",var.,"hirsuta","DC.",Synonym,,L,TICA,CE841863-8554-4711-93CE-70E8F3E18D11,,"Prodr. 6: 88 (1838).","","","",gcc-34593
+gcc-131625,A,Compositae,,Athanasia,,"elsiae",,"","Källersjö",Accepted,,M,TICA,F68F2808-995F-47B9-9EA5-E1540F3E1965,959114-1,"Opera Bot. 106: 66 (1991)","","66","1991",
+gcc-101648,A,Compositae,,Athanasia,,"eriopoda",,"","E.Mey. ex DC.",Synonym,,M,TICA,22EB6D49-419E-4819-B764-9D3DF56D9664,,"","","","1838",gcc-71745
+gcc-38739,A,Compositae,,Athanasia,,"eriopoda",var.,"depauperata","DC.",Synonym,,L,TICA,6FE43B3E-F162-4475-94A7-47D885C6EB22,,"","","","",gcc-126453
+gcc-151704,A,Compositae,,Athanasia,,"eriopoda",var.,"eriopoda","",Synonym,,L,TICA,693097DF-D3AA-44DF-B8BF-8A988EA330BD,,"","","","",gcc-71745
+gcc-7542,A,Compositae,,Athanasia,,"fasciculata",,"","(Less.) D.Dietr.",Synonym,,M,TICA,9A1A1F88-59CA-441A-9551-0E002B419764,,"","","","1847",gcc-47610
+gcc-88691,A,Compositae,,Athanasia,,"filiformis",,"","L.f.",Accepted,,M,TICA,D7494B0D-8B04-474A-8E93-8005D58718C4,182756-1,"","","361","1782",
+gcc-64173,A,Compositae,,Athanasia,,"filiformis",var.,"cinerea","(L.f.) Harv.",Synonym,,L,TICA,2C657DFE-991B-46DC-9843-BC65F161E035,,"","","","",gcc-88691
+gcc-153107,A,Compositae,,Athanasia,,"filiformis",var.,"filiformis","",Synonym,,L,TICA,D39EA7B3-4BDE-4377-92C8-A75413AB3F0B,,"","","","",gcc-88691
+gcc-29701,A,Compositae,,Athanasia,,"flabellifera",,"","Salisb.",Synonym,,M,TICA,1D812B05-BBD7-4747-8742-36E7B2155F00,182757-1,"","","189","1796",gcc-31115
+gcc-136714,A,Compositae,,Athanasia,,"flexuosa",,"","Thunb.",Accepted,,M,TICA,931917C7-47D6-41C9-B819-ECD206F0C02C,182759-1,"","","","1800",
+gcc-52595,A,Compositae,,Athanasia,,"flexuosa",,"","E.Mey. ex DC.",Synonym,,M,TICA,448BF2AE-1B18-46FA-9321-617E663BA9DC,182758-1,"","","91","1838",gcc-107562
+gcc-145634,A,Compositae,,Athanasia,,"flexuosa",var.,"flexuosa","",Synonym,,L,TICA,3ED48CEF-2475-47B7-A889-07BE6A37D888,,"","","","",gcc-136714
+gcc-24676,A,Compositae,,Athanasia,,"flexuosa",var.,"oligocephala","DC.",Synonym,,L,TICA,B2FC4348-1379-4111-8A9C-2D967F07A2ED,,"","","","",gcc-34593
+gcc-39662,A,Compositae,,Athanasia,,"flexuosa",var.,"tomentella","Hutch.",Synonym,,L,TICA,61D95A98-AD37-46BF-97F3-4996BB33F1B2,,"","","","",gcc-136714
+gcc-125960,A,Compositae,,Athanasia,,"genistifolia",,"","L.",Synonym,,M,TICA,17B4A820-32B6-49F8-8AE0-D43C3685415A,,"","","464","",gcc-41323
+gcc-103277,A,Compositae,,Athanasia,,"glabra",,"","Thunb.",Synonym,,M,TICA,99ECB49C-FC5F-47F4-8B33-A0E9BD7019AB,182761-1,"","","144","1800",gcc-138444
+gcc-88514,A,Compositae,,Athanasia,,"glabrescens",,"","DC.",Synonym,,M,TICA,AD203584-1790-45F1-82B5-7F9986B36385,182762-1,"","","88","1838",gcc-136714
+gcc-108028,A,Compositae,,Athanasia,,"glutinosa",,"","E.Mey. ex DC.",Synonym,,M,TICA,C7428D7D-B044-4C0B-8835-AB70BD53F6AF,182763-1,"","","288","1838",gcc-41323
+gcc-25333,A,Compositae,,Athanasia,,"graminifolia",,"","Walter",Synonym,,M,TICA,5B6E83EE-1AB6-49A5-8B3C-2EC16C7D3954,182764-1,"","","200","1788",gcc-142160
+gcc-101767,A,Compositae,,Athanasia,,"grandiceps",,"","Hilliard & B.L.Burtt",Accepted,,M,TICA,1B8D5DAF-18EB-4739-A49E-9D7958CC223E,182765-1,"","","75","1975",
+gcc-118797,A,Compositae,,Athanasia,,"hameri",,"","E.Phillips",Synonym,,M,TICA,2ED5A2D8-F0B0-4808-B316-C3CA91F03C8A,182766-1,"Ann. S. African Mus. 9: 345 (1917)","","345","1917",gcc-31060
+gcc-16677,A,Compositae,,Athanasia,,"hastata",,"","Walter",Synonym,,M,TICA,59AA1C33-2D34-4C1F-A59F-1ED62D0CF645,182767-1,"","","201","1788",gcc-137177
+gcc-108986,A,Compositae,,Athanasia,,"hirsuta",,"","Thunb.",Accepted,,M,TICA,3B1685D8-68E7-4AA1-9531-ADA12142F36C,182768-1,"","","","1800",
+gcc-96566,A,Compositae,,Athanasia,,"humilis",,"","Källersjö",Accepted,,M,TICA,DE3FA97B-122A-47FE-A496-91D9EFC29653,959109-1,"Opera Bot. 106: 39 (1991)","","39","1991",
+gcc-144429,A,Compositae,,Athanasia,,"imbricata",,"","Harv.",Accepted,,M,TICA,54EECB6C-B151-489F-88D8-FE13D67113AB,182769-1,"","","196","1865",
+gcc-39268,A,Compositae,,Athanasia,,"incisa",,"","(DC.) Harv.",Synonym,,M,TICA,F4269E79-1F1A-43F6-A1CB-48DF269ED713,182770-1,"","","190","1865",gcc-87102
+gcc-38574,A,Compositae,,Athanasia,,"indica",,"","Roxb.",Synonym,,M,TICA,3812540E-54E9-40C5-B438-47968A35EF18,,"","","","1832",gcc-105443
+gcc-14692,A,Compositae,,Athanasia,,"indivisa",,"","Harv.",Synonym,,M,TICA,EB2BC757-D03B-4526-871A-1B3FACAC94D4,182772-1,"","","190","1865",gcc-100340
+gcc-5495,A,Compositae,,Athanasia,,"inopinata",,"","(Hutch.) Källersjö",Accepted,,M,TICA,44B46B5E-E5B7-47F7-822D-0A3CB6889546,942525-1,"","","533","1986",
+gcc-113621,A,Compositae,,Athanasia,,"juncea",,"","(DC.) D.Dietr.",Accepted,,M,TICA,3448B94A-DF83-44B3-9657-B80482C7C41E,,"","","","1847",
+gcc-26797,A,Compositae,,Athanasia,,"laevigata",,"","(L.) L.",Synonym,,L,TICA,8EFD41C4-0063-4952-833E-318555CE0173,,"","","","1760",gcc-37307
+gcc-48153,A,Compositae,,Athanasia,,"lanuginosa",,"","Cav.",Synonym,,M,TICA,F534BA47-395D-43C5-A559-59400B36E9C6,,"","","","1791",gcc-44532
+gcc-22101,A,Compositae,,Athanasia,,"leptocephala",,"","Källersjö",Accepted,,M,TICA,EA5A574D-F6C8-4FFB-AB89-28E1673DB67B,959113-1,"Opera Bot. 106: 61 (1991)","","61","1991",
+gcc-125331,A,Compositae,,Athanasia,,"leucoclada",,"","(DC.) Harv.",Synonym,,M,TICA,ADAEC78F-C6E0-448C-9D3F-D2C98A33AEF0,182776-1,"","","191","1865",gcc-1323
+gcc-124304,A,Compositae,,Athanasia,,"linifolia",,"","Burm.f.",Accepted,,L,TICA,54E5CCBA-D91F-450C-BBED-D05E4460CC8A,182777-1,"","","23","1768",
+gcc-18336,A,Compositae,,Athanasia,,"linifolia",,"","Harv.",Synonym,Illegitimate,M,TICA,E7DCC1BE-8B0B-46F8-A6DD-21E03651F81D,,"","","","1865",gcc-107562
+gcc-32834,A,Compositae,,Athanasia,,"linifolia",,"","L.f.",Synonym,Illegitimate,M,TICA,3630AB4F-02B1-4356-816A-3CE488A1E52A,,"Suppl. Pl.: 361 (1781).","","","",gcc-124304
+gcc-6567,A,Compositae,,Athanasia,,"longifolia",,"","Lam.",Synonym,,M,TICA,9BEC3081-9971-4643-99BC-0C2E0710E25B,182779-1,"","","326","1783",gcc-124304
+gcc-38433,A,Compositae,,Athanasia,,"maritima",,"","(L.) L.",Synonym,,M,TICA,B4E2A3A5-D886-439C-BBA0-474D26653C8F,182780-1,"","","1182","1763",gcc-49688
+gcc-107562,A,Compositae,,Athanasia,,"microcephala",,"","(DC.) D.Dietr.",Accepted,,M,TICA,62C5865C-3125-4FAC-8A3F-AA5654EB3323,,"","","","1847",
+gcc-43116,A,Compositae,,Athanasia,,"microphylla",,"","DC.",Accepted,,M,TICA,BBA09C6B-F3D0-4170-92E9-4FDED3073A24,182782-1,"","","87","1838",
+gcc-76976,A,Compositae,,Athanasia,,"minuta",,"","(L.f.) Källersjö",Accepted,,M,TICA,9F85AB02-DE36-4A2A-9F4B-65D06818ECF1,962627-1,"Opera Bot. 106","","37","1991",
+gcc-29519,A,Compositae,,Athanasia,,"minuta",subsp.,"inermis","(E.Phillips) Källersjö",Accepted,,L,TICA,55F711B2-FBE8-4C21-AC07-368EE734F07B,966773-1,"Opera Bot. 106","","39","1991",
+gcc-65129,A,Compositae,,Athanasia,,"minuta",subsp.,"minuta","",Synonym,,L,TICA,098F7708-9E2F-41C4-BFEA-C420E21F9432,,"","","","",gcc-76976
+gcc-50905,A,Compositae,,Athanasia,,"montana",,"","J.M.Wood & M.S.Evans",Synonym,,M,TICA,44B64B2F-035B-41A5-AB1F-5E6D7EB65527,182783-1,"Natal Colon. Herb. Annual Rep. 1900","","10","1901",gcc-96088
+gcc-89613,A,Compositae,,Athanasia,,"mundtii",,"","Harv.",Synonym,,M,TICA,8CC70EE4-530E-40DE-B8C9-82187ED50B4A,182784-1,"","","196","1865",gcc-100314
+gcc-82815,A,Compositae,,Athanasia,,"natalensis",,"","Schltr.",Synonym,,M,TICA,53BD24A6-2502-47E1-907B-72E504F32CD2,,"","","","1907",gcc-49109
+gcc-118460,A,Compositae,,Athanasia,,"nudisperma",,"","Sessé & Moc.",Synonym,,M,TICA,97E11D6F-B81B-4E6A-9827-C2FEAF366E18,26066-2,"""Fl. Mexic., ed. 2 183""","","183","1894",gcc-34365
+gcc-103831,A,Compositae,,Athanasia,,"obovata",,"","Walter",Synonym,,L,TICA,78319381-A82A-4785-9612-A21F1CE99E06,182787-1,"","","201","1788",gcc-48286
+gcc-86749,A,Compositae,,Athanasia,,"obtusa",,"","Compton",Synonym,,M,TICA,7FFA2596-081D-4336-BA19-7B9EFAC1C6A2,,"","","","1944",gcc-78996
+gcc-128653,A,Compositae,,Athanasia,,"oligocephala",,"","(DC.) Harv.",Synonym,,M,TICA,198578A7-FEA6-4A30-98CA-DA824D746A4D,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-34593
+gcc-53693,A,Compositae,,Athanasia,,"oligocephala",var.,"adenantha","Harv.",Synonym,,L,TICA,8ED6F8F6-0DE2-46D4-BC7B-682909A7911E,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-143742
+gcc-49381,A,Compositae,,Athanasia,,"oligocephala",var.,"araneosa","(DC.) Harv.",Synonym,,L,TICA,B048C568-090C-4BE0-8634-5B7E31EDC053,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-136714
+gcc-57369,A,Compositae,,Athanasia,,"oligocephala",var.,"brachypoda","(DC.) Harv.",Synonym,,L,TICA,CE898480-27AA-4372-A57A-85D7A9358D00,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-136714
+gcc-55810,A,Compositae,,Athanasia,,"oligocephala",var.,"glabra","Harv.",Synonym,,L,TICA,73B74090-5E80-45AD-BEDF-790FDB1F55B8,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-34593
+gcc-66982,A,Compositae,,Athanasia,,"oligocephala",var.,"hirsuta","(DC.) Harv.",Synonym,,L,TICA,F10D6A1D-6E53-4B9C-894A-D33E07618FC2,,"Fl. Cap. 3: 194 (1865)","","194","1865",gcc-34593
+gcc-153328,A,Compositae,,Athanasia,,"oligocephala",var.,"oligocephala","",Synonym,,L,TICA,924EEA92-8CF1-425F-B25E-AC02D7102038,,"","","","",gcc-34593
+gcc-141170,A,Compositae,,Athanasia,,"oocephala",,"","(DC.) Källersjö",Accepted,,M,TICA,7D0D98CA-48E8-4134-A842-F6BA912D930A,942526-1,"","","533","1986",
+gcc-126453,A,Compositae,,Athanasia,,"pachycephala",,"","DC.",Accepted,,M,TICA,DC98C15D-22B7-4688-9C04-D55DF3AF32CE,182789-1,"","","88","1838",
+gcc-71745,A,Compositae,,Athanasia,,"pachycephala",subsp.,"eriopoda","(DC.) Källersjö",Accepted,,L,TICA,C06DFC80-5857-4247-B679-F88E5247BDA7,966775-1,"Opera Bot. 106","","66","1991",
+gcc-69430,A,Compositae,,Athanasia,,"pachycephala",subsp.,"pachycephala","",Synonym,,L,TICA,54BA3152-9A1D-4B95-AD2D-E6342368999C,,"","","","",gcc-126453
+gcc-77200,A,Compositae,,Athanasia,,"palmatifida",,"","DC.",Synonym,,M,TICA,89FF8BF2-4FD7-4855-BCE4-665526FF6E7B,182790-1,"","","89","1838",gcc-31060
+gcc-111243,A,Compositae,,Athanasia,,"paniculata",,"","Walter",Synonym,,M,TICA,E4EC7AC6-D44C-4DEB-A4E7-B2AE199E60E3,182791-1,"","","201","1788",gcc-104754
+gcc-14444,A,Compositae,,Athanasia,,"parviflora",,"","Ait.",Unresolved,,L,TICA,48BEF271-07CD-4B3A-90B7-1ACF48399101,182793-1,"Hort. Kew. iii. 167.","","iii. 167.","",
+gcc-44343,A,Compositae,,Athanasia,,"parviflora",,"","Thunb.",Unresolved,,L,TICA,8033C201-F4BB-4B81-A699-522153A411A5,182792-1,"Prodr. Pl. Cap. 145.-.","","145","",
+gcc-47022,A,Compositae,,Athanasia,,"parviflora",,"","L.",Synonym,,M,TICA,E99AECCE-E976-4B6C-8C82-5722413DDB26,,"Syst. Veg. ed. 13: 617 (1774)","","617","1774",gcc-6281
+gcc-6576,A,Compositae,,Athanasia,,"parviflora",,"","Murr.",Unresolved,,L,TICA,39958F86-34DF-42FF-BA1C-0C33A00367B9,,"""Syst. Veg., ed. 13 617""","","617","1774",
+gcc-2068,A,Compositae,,Athanasia,,"pauciflora",,"","(DC.) D.Dietr.",Synonym,,M,TICA,340E131D-1D31-408E-B979-03B94D8D9A74,,"","","","1847",gcc-107562
+gcc-101387,A,Compositae,,Athanasia,,"pectinata",,"","L.f.",Accepted,,M,TICA,C8C4E15F-799A-4184-B74D-9CA9C61368CD,182796-1,"","","361","1782",
+gcc-113930,A,Compositae,,Athanasia,,"peruviana",,"","(Zahlbr.) Durieu",Unresolved,,L,TICA,8E2A5626-DFC6-47DF-8270-B8B17FE3AE9F,1113131-2,"","","","",
+gcc-99032,A,Compositae,,Athanasia,,"peruviana",,"","Zahlb.",Unresolved,,L,TICA,57F956C2-94DC-442D-BC27-97726B092586,182797-1,"","","7","1892",
+gcc-102046,A,Compositae,,Athanasia,,"pinnata",,"","E.Mey. ex DC.",Synonym,,M,TICA,F2ACD5B9-3707-4470-B9FB-9E2D5C40365B,182798-1,"","","85","1838",gcc-87102
+gcc-49921,A,Compositae,,Athanasia,,"pinnata",,"","L.f.",Accepted,,M,TICA,F64EFCC4-C1D7-433B-BF0B-5C8ACA639725,182799-1,"","","361","1782",
+gcc-104242,A,Compositae,,Athanasia,,"pinnatifida",,"","(Oliv.) Hilliard",Synonym,,M,TICA,C0A2BB60-47C0-483F-BE49-A311D85F0C26,182800-1,"","","330","1973",gcc-52304
+gcc-41320,A,Compositae,,Athanasia,,"procumbens",,"","Sessé & Moc.",Synonym,,M,TICA,2BF247EE-6851-40F5-96A5-4C8AAFE640F3,,"","","137","1890",gcc-123928
+gcc-19427,A,Compositae,,Athanasia,,"pubescens",,"","Thunb.",Synonym,,M,TICA,9D28390B-33C3-4F51-B493-23E6F282C760,182802-1,"","","144","1800",gcc-79125
+gcc-24141,A,Compositae,,Athanasia,,"pubescens",,"","(L.) L.",Accepted,,M,TICA,D52F9954-B221-4540-A2E4-2C9977113FAA,182803-1,"","","1182","1763",
+gcc-140127,A,Compositae,,Athanasia,,"pumila",,"","L.f.",Synonym,,M,TICA,AB40C853-D21F-4DD4-AA5C-F442FC22034A,182804-1,"","","362","1782",gcc-101697
+gcc-126528,A,Compositae,,Athanasia,,"punctata",,"","P.J.Bergius",Synonym,,M,TICA,23F60266-E30C-4728-A7F7-D589EA5C23D9,182807-1,"","","238","1767",gcc-44532
+gcc-21019,A,Compositae,,Athanasia,,"punctata",,"","(DC.) Harv.",Synonym,,M,TICA,54C68207-4BA5-47A3-80E9-26D7E3DB7364,182806-1,"","","190","1865",gcc-3834
+gcc-96848,A,Compositae,,Athanasia,,"punctata",,"","Thunb.",Synonym,Illegitimate,M,TICA,688BF022-D31D-415C-9A26-927994C8CA88,182805-1,"","","144","1800",gcc-44532
+gcc-100314,A,Compositae,,Athanasia,,"quinquedentata",,"","Thunb.",Accepted,,M,TICA,158F3C97-0F82-49FC-89DC-9A57D66AE1C3,182808-1,"","","","1800",
+gcc-57340,A,Compositae,,Athanasia,,"quinquedentata",subsp.,"quinquedentata","",Synonym,,L,TICA,7F5572C2-DCE2-444D-BBF5-85A04439D831,,"","","","",gcc-100314
+gcc-82415,A,Compositae,,Athanasia,,"ramosa",,"","Klatt ex Schinz",Synonym,,M,TICA,45888944-A380-4B34-959E-7208D4CE5B66,,"Bull. Herb. Boissier 3: 428 (1895)","","428","1895",gcc-90161
+gcc-92863,A,Compositae,,Athanasia,,"ramosa",,"","Klatt",Synonym,,M,TICA,14645BA7-F4D6-408B-834C-898A1E9B1EF2,182809-1,"Bull. Herb. Boissier 3: 428. 1895","","428","1895",gcc-90161
+gcc-31984,A,Compositae,,Athanasia,,"recurvifolia",,"","Salisb.",Synonym,,L,TICA,51503BA0-D27D-4599-894A-3B3E0BE15B2B,182810-1,"","","189","1796",gcc-37307
+gcc-50843,A,Compositae,,Athanasia,,"rigida",,"","Scop.",Synonym,,M,TICA,2F67500C-170F-4AD8-8345-5E4DC64FA449,182811-1,"","","127","1777",gcc-124582
+gcc-29918,A,Compositae,,Athanasia,,"rotundifolia",,"","DC.",Synonym,,M,TICA,27DA6666-7158-4CA0-85C1-3750986D2EF4,182812-1,"","","87","1838",gcc-100314
+gcc-79125,A,Compositae,,Athanasia,,"rugulosa",,"","E.Mey. ex DC.",Accepted,,M,TICA,487EFB41-0546-4D88-85DB-6AC30CCC3863,182813-1,"","","87","1838",
+gcc-129068,A,Compositae,,Athanasia,,"salicifolia",,"","Dietr. ex Steud.",Unresolved,,L,TICA,494DDFE6-E7BD-480A-A960-DB6FE9D8582A,182814-1,"Nomencl. Bot. (Steudel) 91","","91","1821",
+gcc-133103,A,Compositae,,Athanasia,,"scabra",,"","Thunb.",Accepted,,M,TICA,0B6B6B98-B36F-43B4-99BA-E4BF437B2570,182815-1,"","","","1800",
+gcc-41143,A,Compositae,,Athanasia,,"scariosa",,"","DC.",Synonym,,M,TICA,66BD1C35-FFAE-4ED4-B676-4C40D76997A4,182816-1,"","","88","1838",gcc-138444
+gcc-11870,A,Compositae,,Athanasia,,"schistostephiodes",,"","Hiern",Synonym,,M,TICA,093137EB-4695-4BB2-A8AD-161D81F5AEE1,,"","","589","1898",gcc-85316
+gcc-108881,A,Compositae,,Athanasia,,"schizolepis",,"","Harv.",Synonym,,M,TICA,FAA178FE-EF88-4E4A-8300-AD5BDC3A9320,182818-1,"","","190","1865",gcc-81321
+gcc-94672,A,Compositae,,Athanasia,,"serrata",,"","Vitman",Unresolved,,L,TICA,A607A166-F07C-43E3-A1C7-8D8E45D55E20,,"","","","1790",
+gcc-30460,A,Compositae,,Athanasia,,"sertulifera",,"","DC.",Accepted,,M,TICA,3FC0B962-C8AB-4924-AB58-38591A7BFBED,182820-1,"","","87","1838",
+gcc-429,A,Compositae,,Athanasia,,"sessiliflora",,"","L.f.",Synonym,,M,TICA,1A90737C-66C4-4658-BA9E-00C940703729,182821-1,"","","362","1782",gcc-10183
+gcc-21844,A,Compositae,,Athanasia,,"spathulata",,"","(DC.) D.Dietr.",Accepted,,M,TICA,35954999-6C54-4844-8D0B-2868DD093A28,,"","","","1847",
+gcc-2578,A,Compositae,,Athanasia,,"speciosa",,"","Hutch.",Synonym,,M,TICA,9FCE6E0F-8598-490B-B2D0-04B979F9BC90,182823-1,"","","114","1946",gcc-50224
+gcc-133673,A,Compositae,,Athanasia,,"squarrosa",,"","L.",Synonym,,M,TICA,F747FA5A-01B9-4D43-96B0-E60AFC66EBAC,,"","","","1760",gcc-108583
+gcc-26463,A,Compositae,,Athanasia,,"subtriflora",,"","(Miers) Zahlbr.",Unresolved,,L,TICA,6A598AAA-DE6F-40AB-A8F9-30E81E1DDE5A,,"Ann. K. K. Naturhist. Hofmus. 7: 8 (1892)","","8","1892",
+gcc-32803,A,Compositae,,Athanasia,,"subtriflora",,"","Zahlb.",Unresolved,,L,TICA,FADB63F0-256F-4837-BC3B-3CD940854948,182825-1,"Ann. Nat. Hofmus. Wien. vii. (1892) 8 in obs.","","8","",
+gcc-81262,A,Compositae,,Athanasia,,"tanacetifolia",,"","Roth",Unresolved,,L,TICA,7030311A-9A3E-4448-BEB8-6F6704292084,,"","","","1800",
+gcc-130355,A,Compositae,,Athanasia,,"thodei",,"","Bolus",Synonym,,M,TICA,CF541629-AE00-4C14-B380-DE5C718077CD,182827-1,"","","387","1906",gcc-124654
+gcc-44531,A,Compositae,,Athanasia,,"tomentella",,"","Hutch.",Synonym,,M,TICA,956B3FA5-1F4E-4D4C-9F35-52830EF0A5D4,182828-1,"","","388","1917",gcc-136714
+gcc-29925,A,Compositae,,Athanasia,,"tomentosa",,"","Thunb.",Accepted,,M,TICA,54B307C2-49D3-4D0E-9C69-375779748524,182829-1,"","","","1800",
+gcc-92807,A,Compositae,,Athanasia,,"tricuspis",,"","Poir.",Synonym,,M,TICA,EEBFD1DA-7B7B-4EED-8E97-8969E58AD3A6,182830-1,"","","533","1811",gcc-138444
+gcc-36765,A,Compositae,,Athanasia,,"tridens",,"","Oliv.",Synonym,,M,TICA,A3649935-2AE1-4CB8-BB00-4428E4C9BEBC,,"","","","1892",gcc-38453
+gcc-77336,A,Compositae,,Athanasia,,"tridentata",,"","Salisb.",Synonym,,M,TICA,F9B21187-FC88-4082-ADFD-66A5A8790E72,182832-1,"","","189","1796",gcc-138444
+gcc-138444,A,Compositae,,Athanasia,,"trifurcata",,"","(L.) L.",Accepted,,M,TICA,B659113B-0940-4C87-A815-F096852B3E94,182833-1,"""Sp. Pl., ed. 2 (1763)""","","1181","1763",
+gcc-56034,A,Compositae,,Athanasia,,"trifurcata",var.,"cuneiformis","(DC.) Harv.",Synonym,,L,TICA,7B6FCF36-4746-4434-9D6D-7B2CB5F01C8C,,"","","","",gcc-138444
+gcc-61290,A,Compositae,,Athanasia,,"trifurcata",var.,"glabra","(Thunb.) Harv.",Synonym,,L,TICA,0EB25D2D-865F-41ED-BBB1-A550FFF5DF31,,"","","","",gcc-138444
+gcc-45738,A,Compositae,,Athanasia,,"trifurcata",var.,"thunbergii","Harv.",Synonym,,L,TICA,0903DF0B-73F7-4438-9468-54CF32A47A0E,,"","","","",gcc-138444
+gcc-36355,A,Compositae,,Athanasia,,"trifurcata",var.,"tricuspis","(Poir.) DC.",Synonym,,L,TICA,46C89038-CCA9-4B7F-AD61-436C22374CD0,,"","","","",gcc-138444
+gcc-151695,A,Compositae,,Athanasia,,"trifurcata",var.,"trifurcata","",Synonym,,L,TICA,D940C26F-0BFB-46C1-83C6-8A48FE7DA412,,"","","","",gcc-138444
+gcc-41814,A,Compositae,,Athanasia,,"trifurcata",var.,"virgata","(Jacq.) Harv.",Synonym,,L,TICA,4E389B18-D4B2-42B2-90BB-4D7133D7833F,,"","","","",gcc-96593
+gcc-39360,A,Compositae,,Athanasia,,"triloba",,"","Klatt ex Schinz",Synonym,,M,TICA,9EF45ACD-9949-44A0-B8B8-490EE0FCA1E3,,"","","","1895",gcc-42813
+gcc-6270,A,Compositae,,Athanasia,,"triloba",,"","Klatt",Synonym,,M,TICA,29CF0EC9-8C07-4B5D-8081-0BAD55BBEF5D,182834-1,"Bulletin de l'Herbier Boissier 3:","","435","1895",gcc-42813
+gcc-4337,A,Compositae,,Athanasia,,"trinervia",,"","Walter",Synonym,,L,TICA,6FF45B8F-7CBC-44B4-B0A2-080F42BA0480,182835-1,"","","201","1788",gcc-32949
+gcc-22746,A,Compositae,,Athanasia,,"turbinata",,"","Burtt Davy",Synonym,,M,TICA,560227AC-8DB7-4E03-84B0-2A166F79ECE8,182836-1,"","","84","1936",gcc-98312
+gcc-112154,A,Compositae,,Athanasia,,"uniflora",,"","L.f.",Synonym,,L,TICA,EE6F4EF8-CC65-4C4A-983D-B4C61CEF3072,182837-1,"","","362","1782",gcc-99403
+gcc-45546,A,Compositae,,Athanasia,,"velutina",,"","(DC.) D.Dietr.",Synonym,,M,TICA,A3300DF3-615E-4DCA-A999-546BA4044674,,"","","","1847",gcc-29925
+gcc-47610,A,Compositae,,Athanasia,,"vestita",,"","(Thunb.) Druce",Accepted,,M,TICA,6379DC65-D2ED-4A49-B629-583660B86E2F,182839-1,"","","607","1917",
+gcc-3275,A,Compositae,,Athanasia,,"villosa",,"","Hilliard",Synonym,,M,TICA,6BA7AA20-7DE4-464B-B820-060C3B2A0EB7,182840-1,"","","330","1973",gcc-101813
+gcc-96593,A,Compositae,,Athanasia,,"virgata",,"","Jacq.",Accepted,,M,TICA,D599FCAD-22DD-4890-9CEB-91E9785AD632,,"","","","1797",
+gcc-33115,A,Compositae,,Athanasia,,"virgata",var.,"glabra","(Thunb.) DC.",Synonym,,L,TICA,92DF30D8-CCDD-436E-8BCF-3D6894D9557E,,"","","","",gcc-138444
+gcc-149519,A,Compositae,,Athanasia,,"virgata",var.,"virgata","",Synonym,,L,TICA,22CCED3E-358F-4D49-9A73-5A908CB17F65,,"","","","",gcc-96593
+gcc-143001,A,Compositae,,Athanasia,,"viridis",,"","Källersjö",Accepted,,M,TICA,25E57805-1DD7-4EE5-B600-FAEAFF75A6D3,959112-1,"Opera Bot. 106: 58 (1991)","","58","1991",
+gcc-139864,A,Compositae,,Athanasia,,"woodii",,"","(Thell.) Hilliard",Synonym,,M,TICA,A325BD32-76C2-4CE9-8EF5-F3A76D1F312A,182842-1,"","","331","1973",gcc-90401

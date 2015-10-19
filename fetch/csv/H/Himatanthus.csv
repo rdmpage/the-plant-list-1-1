@@ -1,0 +1,24 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-99294,A,Apocynaceae,,Himatanthus,,"articulatus",,"","(Vahl) Woodson",Accepted,,H,WCSP,99294,122688-2,"Ann. Missouri Bot. Gard.","25: 196","","1938 publ. 1937",
+kew-99295,A,Apocynaceae,,Himatanthus,,"attenuatus",,"","(Benth.) Woodson",Accepted,,H,WCSP,99295,122689-2,"Ann. Missouri Bot. Gard.","25: 197","","1938 publ. 1937",
+kew-99296,A,Apocynaceae,,Himatanthus,,"attenuatus",var.,"attenuatus","",Synonym,,L,WCSP,99296,,"Unknown","","","",kew-99295
+kew-99297,A,Apocynaceae,,Himatanthus,,"attenuatus",var.,"malongo","(Müll.Arg.) Plumel",Accepted,,L,WCSP,99297,966475-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 118","","1990",
+kew-99298,A,Apocynaceae,,Himatanthus,,"attenuatus",var.,"obtusifolius","(Müll.Arg.) Plumel",Accepted,,L,WCSP,99298,966476-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 118","","1990",
+kew-99299,A,Apocynaceae,,Himatanthus,,"bracteatus",,"","(A.DC.) Woodson",Accepted,,H,WCSP,99299,122690-2,"Ann. Missouri Bot. Gard.","25: 200","","1938 publ. 1937",
+kew-99300,A,Apocynaceae,,Himatanthus,,"bracteatus",var.,"bracteatus","",Synonym,,L,WCSP,99300,,"Unknown","","","",kew-99299
+kew-99301,A,Apocynaceae,,Himatanthus,,"bracteatus",var.,"revolutus","(Huber) Plumel",Accepted,,L,WCSP,99301,966474-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 114","","1990",
+kew-99302,A,Apocynaceae,,Himatanthus,,"drasticus",,"","(Mart.) Plumel",Accepted,,H,WCSP,99302,962260-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 108","","1990",
+kew-99303,A,Apocynaceae,,Himatanthus,,"fallax",,"","(Müll.Arg.) Plumel",Accepted,,H,WCSP,99303,962261-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 109","","1990",
+kew-99304,A,Apocynaceae,,Himatanthus,,"lancifolius",,"","(Müll.Arg.) Woodson",Accepted,,H,WCSP,99304,122691-2,"Ann. Missouri Bot. Gard.","25: 200","","1938 publ. 1937",
+kew-99305,A,Apocynaceae,,Himatanthus,,"obovatus",,"","(Müll.Arg.) Woodson",Accepted,,H,WCSP,99305,122692-2,"Ann. Missouri Bot. Gard.","25: 201","","1938 publ. 1937",
+tro-1804846,A,Apocynaceae,,Himatanthus,,"obovatus",var.,"obovatus","",Synonym,,L,TRO,1804846,,"","","","",kew-99305
+kew-99306,A,Apocynaceae,,Himatanthus,,"obovatus",var.,"puberulus","(Müll.Arg.) Woodson",Synonym,,L,WCSP,99306,122693-2,"Ann. Missouri Bot. Gard.","25: 201","","1938 publ. 1937",kew-99305
+kew-99307,A,Apocynaceae,,Himatanthus,,"obovatus",var.,"velutinus","(Müll.Arg.) Plumel",Synonym,,L,WCSP,99307,966473-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 108","","1990",kew-99305
+kew-99308,A,Apocynaceae,,Himatanthus,,"phagedaenicus",,"","(Mart.) Woodson",Accepted,,H,WCSP,99308,122695-2,"Ann. Missouri Bot. Gard.","25: 199","","1938 publ. 1937",
+kew-99309,A,Apocynaceae,,Himatanthus,,"rigida",,"","Hoffmanns. ex Schult.",Synonym,,H,WCSP,99309,,"Syst. Veg.","5: 221","","1819",kew-99294
+tro-1801501,A,Apocynaceae,,Himatanthus,,"rigidus",,"","Willd. ex Roem. & Schult.",Synonym,,M,TRO,1801501,,"Syst. Veg.","5: p. xiii, 221","p. xiii","1819",kew-99294
+kew-99310,A,Apocynaceae,,Himatanthus,,"semilunatus",,"","Markgr.",Accepted,,H,WCSP,99310,119968-2,"Acta Bot. Venez.","6: 73","","1971 publ. 1972",
+kew-99311,A,Apocynaceae,,Himatanthus,,"speciosus",,"","(Müll.Arg.) Plumel",Accepted,,H,WCSP,99311,962263-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 114","","1990",
+kew-99312,A,Apocynaceae,,Himatanthus,,"stenophyllus",,"","Plumel",Accepted,,H,WCSP,99312,958285-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 116","","1990",
+kew-99313,A,Apocynaceae,,Himatanthus,,"sucuuba",,"","(Spruce ex Müll.Arg.) Woodson",Accepted,,H,WCSP,99313,79283-1,"Ann. Missouri Bot. Gard.","25: 198","","1938 publ. 1937",
+kew-99314,A,Apocynaceae,,Himatanthus,,"tarapotensis",,"","(K.Schum. ex Markgr.) Plumel",Accepted,,H,WCSP,99314,962262-1,"Compt. Rend. Séances Soc. Biogéogr.","66: 112","","1990",

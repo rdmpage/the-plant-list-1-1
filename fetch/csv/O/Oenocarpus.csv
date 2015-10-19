@@ -1,0 +1,59 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-2400589,A,Arecaceae,,Oenocarpus,,"altissima",,"","H. Karst.",Unresolved,,L,TRO,2400589,,"","","","",
+kew-138043,A,Arecaceae,,Oenocarpus,,"altissimus",,"","Klotzsch ex H.Wendl.",Unresolved,,L,WCSP,138043,668508-1,"Index Palm.","30","","1854",
+kew-138044,A,Arecaceae,,Oenocarpus,×,"andersonii",,"","Balick",Accepted,,H,WCSP,138044,971655-1,"Bol. Mus. Paraense Emilio Gouldi, Bot.","7: 506","","1991",
+kew-138045,A,Arecaceae,,Oenocarpus,,"bacaba",,"","Mart.",Accepted,,H,WCSP,138045,,"Hist. Nat. Palm.","2: 24","","1823",
+tro-50238760,A,Arecaceae,,Oenocarpus,,"bacaba",var.,"bacaba","",Synonym,,L,TRO,50238760,,"","","","",kew-138045
+kew-138046,A,Arecaceae,,Oenocarpus,,"bacaba",var.,"grandis","(Burret) Wess.Boer",Synonym,,L,WCSP,138046,966185-1,"Pittieria","17: 131","","1988",kew-138045
+kew-138047,A,Arecaceae,,Oenocarpus,,"bacaba",var.,"parvus","Wess.Boer",Synonym,,L,WCSP,138047,319736-2,"Pittieria","17: 130","","1988",kew-138048
+tro-50238761,A,Arecaceae,,Oenocarpus,,"bacaba",var.,"xanthocarpa","Trail",Synonym,,L,TRO,50238761,,"","","","",kew-138045
+tro-50238762,A,Arecaceae,,Oenocarpus,,"baccata",,"","Cuervo Marquez",Synonym,,M,TRO,50238762,,"","","","",kew-138045
+kew-138048,A,Arecaceae,,Oenocarpus,,"balickii",,"","F.Kahn",Accepted,,H,WCSP,138048,281514-2,"Candollea","45: 351","","1990",
+kew-138049,A,Arecaceae,,Oenocarpus,,"bataua",,"","Mart.",Accepted,,H,WCSP,138049,668510-1,"Hist. Nat. Palm.","2: 23","","1823",
+kew-138050,A,Arecaceae,,Oenocarpus,,"bataua",var.,"bataua","",Synonym,,L,WCSP,138050,,"Unknown","","","",kew-138049
+tro-50151456,A,Arecaceae,,Oenocarpus,,"bataua",var.,"oligocarpa","(Griseb. & H. Wendl.) A.J. Hend.",Synonym,,L,TRO,50151456,981487-1,"","120","120","1995",kew-138051
+kew-138051,A,Arecaceae,,Oenocarpus,,"bataua",var.,"oligocarpus","(Griseb. & H.Wendl.) A.J.Hend.",Accepted,,L,WCSP,138051,981487-1,"Palms Amazon","120","","1995",
+kew-138052,A,Arecaceae,,Oenocarpus,,"batawa",,"","Wallace",Synonym,Spelling variant,H,WCSP,138052,668511-1,"Palm Trees Amazon","31","","1853",kew-138049
+kew-138053,A,Arecaceae,,Oenocarpus,,"bolivianus",,"","H.Wendl.",Unresolved,,L,WCSP,138053,668512-1,"Index Palm.","30","","1854",
+kew-138054,A,Arecaceae,,Oenocarpus,,"calaber",,"","H.Wendl.",Synonym,,H,WCSP,138054,668513-1,"Index Palm.","30","","1854",kew-165271
+kew-138055,A,Arecaceae,,Oenocarpus,,"caracasanus",,"","H.Wendl.",Synonym,,H,WCSP,138055,668514-1,"Index Palm.","30","","1854",kew-165271
+tro-50092931,A,Arecaceae,,Oenocarpus,,"caracasanus",,"","Mart.",Synonym,,M,TRO,50092931,,"Hist. Nat. Palm.","3: 310","310","1849",kew-165271
+kew-138056,A,Arecaceae,,Oenocarpus,,"chiragua",,"","H.Wendl.",Unresolved,,L,WCSP,138056,668515-1,"Index Palm.","30","","1854",
+kew-138057,A,Arecaceae,,Oenocarpus,,"circumtextus",,"","Mart.",Accepted,,H,WCSP,138057,,"Hist. Nat. Palm.","2: 26","","1823",
+kew-138058,A,Arecaceae,,Oenocarpus,,"cubarro",,"","H.Wendl.",Unresolved,,L,WCSP,138058,668517-1,"Index Palm.","30","","1854",
+kew-138059,A,Arecaceae,,Oenocarpus,,"dealbatus",,"","H.Wendl.",Synonym,,H,WCSP,138059,668518-1,"Palmiers","252","","1878",kew-122255
+kew-138060,A,Arecaceae,,Oenocarpus,,"discolor",,"","Barb.Rodr.",Synonym,,H,WCSP,138060,172657-2,"Palm. Mattogross.","8","","1898",kew-138061
+kew-138061,A,Arecaceae,,Oenocarpus,,"distichus",,"","Mart.",Accepted,,H,WCSP,138061,,"Hist. Nat. Palm.","2: 22","","1823",
+kew-138062,A,Arecaceae,,Oenocarpus,,"dryanderae",,"","Burret",Synonym,,H,WCSP,138062,172658-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 865","","1933",kew-138073
+kew-138063,A,Arecaceae,,Oenocarpus,,"edulis",,"","W.Watson",Unresolved,,L,WCSP,138063,,"Gard. Chron.","1887(2): 157","","1887",
+tro-50238777,A,Arecaceae,,Oenocarpus,,"excelsus",,"","Mart.",Unresolved,,L,TRO,50238777,,"","","","",
+kew-138064,A,Arecaceae,,Oenocarpus,,"frigidus",,"","(Kunth) Spreng.",Synonym,,H,WCSP,138064,668523-1,"Syst. Veg.","2: 140","","1825",kew-165271
+kew-138065,A,Arecaceae,,Oenocarpus,,"glaucus",,"","Lodd. ex H.Wendl.",Synonym,,H,WCSP,138065,668524-1,"Index Palm.","30","","1854",kew-165271
+kew-138066,A,Arecaceae,,Oenocarpus,,"grandis",,"","Burret",Synonym,,H,WCSP,138066,172659-2,"Notizbl. Bot. Gart. Berlin-Dahlem","12: 612","","1935",kew-138045
+kew-138067,A,Arecaceae,,Oenocarpus,,"hoppii",,"","Burret",Synonym,,H,WCSP,138067,172660-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 1041","","1934",kew-138045
+kew-138068,A,Arecaceae,,Oenocarpus,,"huebneri",,"","Burret",Synonym,,H,WCSP,138068,172661-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 297","","1928",kew-138076
+kew-138069,A,Arecaceae,,Oenocarpus,,"intermedius",,"","Burret",Synonym,,H,WCSP,138069,172662-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 298","","1928",kew-138076
+kew-138070,A,Arecaceae,,Oenocarpus,,"iriartoides",,"","H.Karst. & Triana",Unresolved,,L,WCSP,138070,,"Nuev. Jen. Esp.","15","","1855",
+tro-50238781,A,Arecaceae,,Oenocarpus,,"laguayra",,"","hort. ex H. Wendl.",Unresolved,,L,TRO,50238781,,"","","","",
+tro-50238782,A,Arecaceae,,Oenocarpus,,"lutescens",,"","Mart.",Unresolved,,L,TRO,50238782,,"","","","",
+kew-138071,A,Arecaceae,,Oenocarpus,,"macrocalyx",,"","Burret",Synonym,,H,WCSP,138071,172663-2,"Notizbl. Bot. Gart. Berlin-Dahlem","11: 1043","","1934",kew-138073
+kew-138072,A,Arecaceae,,Oenocarpus,,"makeru",,"","R.Bernal, Galeano & A.J.Hend.",Accepted,,H,WCSP,138072,959997-1,"Brittonia","43: 158","","1991",
+kew-138073,A,Arecaceae,,Oenocarpus,,"mapora",,"","H.Karst.",Accepted,,H,WCSP,138073,668532-1,"Linnaea","28: 274","","1857",
+kew-138074,A,Arecaceae,,Oenocarpus,,"mapora",subsp.,"dryanderae","(Burret) Balick",Synonym,,L,WCSP,138074,985767-1,"Syst. Econ. Bot. Oenocarpus-Jessenia","110","","1986",kew-138073
+tro-2401319,A,Arecaceae,,Oenocarpus,,"mapora",subsp.,"mapora","",Synonym,,L,TRO,2401319,,"","","","",kew-138073
+kew-138075,A,Arecaceae,,Oenocarpus,,"microspadix",,"","Burret",Synonym,,H,WCSP,138075,172664-2,"Notizbl. Bot. Gart. Berlin-Dahlem","10: 297","","1928",kew-138076
+kew-138076,A,Arecaceae,,Oenocarpus,,"minor",,"","Mart.",Accepted,,H,WCSP,138076,668534-1,"Hist. Nat. Palm.","2: 25","","1823",
+kew-138077,A,Arecaceae,,Oenocarpus,,"minor",subsp.,"intermedius","(Burret) Balick",Synonym,,L,WCSP,138077,985768-1,"Syst. Econ. Bot. Oenocarpus-Jessenia","113","","1986",kew-138076
+tro-50238768,A,Arecaceae,,Oenocarpus,,"minor",subsp.,"minor","",Synonym,,L,TRO,50238768,,"","","","",kew-138076
+kew-138078,A,Arecaceae,,Oenocarpus,,"multicaulis",,"","Spruce",Synonym,,H,WCSP,138078,668535-1,"J. Linn. Soc., Bot.","11: 42","","1869",kew-138073
+tro-50238765,A,Arecaceae,,Oenocarpus,,"oligocarpa",,"","(Griseb. & H. Wendl.) Wess. Boer",Synonym,,M,TRO,50238765,172665-2,"Fl. Suriname","5(1): 58","58","1965",kew-138051
+kew-138079,A,Arecaceae,,Oenocarpus,,"oligocarpus",,"","(Griseb. & H.Wendl.) Wess.Boer",Synonym,,H,WCSP,138079,172665-2,"in Fl. Suriname","5: 58","","1965",kew-138051
+kew-138080,A,Arecaceae,,Oenocarpus,,"panamanus",,"","L.H.Bailey",Synonym,,H,WCSP,138080,172666-2,"Gentes Herb.","3: 71","","1933",kew-138073
+kew-138081,A,Arecaceae,,Oenocarpus,,"pulchellus",,"","Linden",Unresolved,,L,WCSP,138081,668538-1,"Ill. Hort.","28: 32","","1881",
+kew-138082,A,Arecaceae,,Oenocarpus,,"regius",,"","(Kunth) Spreng.",Synonym,,H,WCSP,138082,668539-1,"Syst. Veg.","2: 140","","1825",kew-180149
+kew-138083,A,Arecaceae,,Oenocarpus,,"sancona",,"","(Kunth) Spreng.",Synonym,,H,WCSP,138083,668540-1,"Syst. Veg.","2: 140","","1825",kew-198841
+kew-460511,A,Arecaceae,,Oenocarpus,,"seje",,"","Cuervo Márquez",Synonym,Invalid,H,WCSP,460511,,"Trat. Elem. Bot.","458","","1913",kew-138049
+kew-138084,A,Arecaceae,,Oenocarpus,,"simplex",,"","R.Bernal, Galeano & A.J.Hend.",Accepted,,H,WCSP,138084,959996-1,"Brittonia","43: 154","","1991",
+kew-138085,A,Arecaceae,,Oenocarpus,,"tarampabo",,"","Mart.",Synonym,,H,WCSP,138085,668541-1,"Voy. Amér. Mér.","7(3): 12","","1842",kew-138061
+tro-50238783,A,Arecaceae,,Oenocarpus,,"tenuis",,"","Mart.",Unresolved,,L,TRO,50238783,,"","","","",
+kew-138086,A,Arecaceae,,Oenocarpus,,"utilis",,"","Klotzsch",Synonym,,H,WCSP,138086,668542-1,"Linnaea","20: 447","","1847",kew-165271

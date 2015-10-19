@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-27501212,A,Rhamnaceae,,Hovenia,,"acerba",,"","Lindl.",Accepted,,M,TRO,27501212,717557-1,"Bot. Reg.","6: , pl. 501","","1820",
+tro-27501215,A,Rhamnaceae,,Hovenia,,"acerba",var.,"acerba","",Synonym,,L,TRO,27501215,,"","","","",tro-27501212
+tro-27501216,A,Rhamnaceae,,Hovenia,,"acerba",var.,"kiukiangensis","(Hu & W.C. Cheng) C.Y. Wu ex Y.L. Chen & P.K. Chou",Accepted,,L,TRO,27501216,889460-1,"Bull. Bot. Lab. N.-E. Forest. Inst., Harbin","5: 87","87","1979",
+kew-2853957,A,Rhamnaceae,,Hovenia,,"dulcis",,"","Thunb.",Accepted,,M,WCSP (in review),,717558-1,"Nov. Gen. Pl.","8","","1781",
+tro-50314127,A,Rhamnaceae,,Hovenia,,"dulcis",var.,"acerba","(Lindl.) Sengupta & Safui",Synonym,,L,TRO,50314127,,"","","","",tro-27501212
+kew-2853959,A,Rhamnaceae,,Hovenia,,"dulcis",var.,"glabra","Makino",Synonym,,L,WCSP (in review),,,"Bot. Mag. (Tokyo)","28: 155","","1914",kew-2853957
+tro-27501211,A,Rhamnaceae,,Hovenia,,"dulcis",var.,"latifolia","Nakai ex Y. Kimura",Synonym,,L,TRO,27501211,,"Fl. Jap.","476","476","1939",kew-2853957
+kew-2853960,A,Rhamnaceae,,Hovenia,,"dulcis",var.,"tomentella","Makino",Synonym,,L,WCSP (in review),,,"Bot. Mag. (Tokyo)","28: 156","","1914",kew-2853957
+tro-27501221,A,Rhamnaceae,,Hovenia,,"fulvotomentosa",,"","Hu & F.H. Chen",Synonym,,M,TRO,27501221,717559-1,"Acta Phytotax. Sin.","1(2): 227–228","227","1951",tro-27501218
+tro-27501213,A,Rhamnaceae,,Hovenia,,"inaequalis",,"","DC.",Synonym,,M,TRO,27501213,717560-1,"Prodr.","2: 40","40","1825",tro-27501212
+tro-27501217,A,Rhamnaceae,,Hovenia,,"kiukiangensis",,"","Hu & W.C. Cheng",Synonym,,M,TRO,27501217,717561-1,"Bull. Fan Mem. Inst. Biol., n.s.,","1: 195","195","1948",tro-27501216
+tro-27501214,A,Rhamnaceae,,Hovenia,,"parviflora",,"","Nakai & Y. Kimura",Synonym,,M,TRO,27501214,717562-1,"Bot. Mag. (Tokyo)","53: 478","478","1939",tro-27501212
+kew-2853965,A,Rhamnaceae,,Hovenia,,"pubescens",,"","Sweet",Unresolved,,L,WCSP (in review),,717563-1,"Hort. Brit.","91","","1826",kew-2853957
+tro-27501224,A,Rhamnaceae,,Hovenia,,"robusta",,"","Nakai & Y. Kimura",Synonym,,M,TRO,27501224,717564-1,"Bot. Mag. (Tokyo)","53: 479","479","1939",tro-27501223
+kew-2853967,A,Rhamnaceae,,Hovenia,,"tomentella",,"","(Makino) Nakai",Unresolved,,L,WCSP (in review),,717565-1,"Bot. Mag. (Tokyo)","53: 478","","1939",
+tro-27501218,A,Rhamnaceae,,Hovenia,,"trichocarpa",,"","Chun & Tsiang",Accepted,,M,TRO,27501218,717566-1,"Sunyatsenia","4(1–2): 16–17, pl. 6, f. 3","16","1939",
+tro-27501133,A,Rhamnaceae,,Hovenia,,"trichocarpa",var.,"fulvotomentosa","(Hu & F.H. Chen) Y. L. Chen & P. K. Chou",Synonym,,L,TRO,27501133,889461-1,"Bull. Bot. Lab. N.-E. Forest. Inst., Harbin","5: 88","88","1979",tro-27501218
+tro-27501223,A,Rhamnaceae,,Hovenia,,"trichocarpa",var.,"robusta","(Nakai & Y. Kimura) Y.L. Chen & P.K. Chou",Accepted,,L,TRO,27501223,921029-1,"Fl. Reipubl. Popularis Sin.","48(1): 93","93","1982",
+tro-27501222,A,Rhamnaceae,,Hovenia,,"trichocarpa",var.,"trichocarpa","",Synonym,,L,TRO,27501222,,"","","","",tro-27501218

@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-92503,A,Compositae,,Chimantaea,,"acopanensis",,"","Steyerm.",Accepted,,M,TICA,AD229676-5BED-4D6D-88D7-88BE6FE15DA3,274511-2,"Ann. Missouri Bot. Gard. 71","","335","1984",
+gcc-105221,A,Compositae,,Chimantaea,,"cinerea",,"","(Gleason & S.F.Blake) ""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,3F2E56B6-988C-4C31-BE90-A522495A366F,56481-2,"Mem. New York Bot. Gard. 9","","429","1957",
+gcc-153842,A,Compositae,,Chimantaea,,"cinerea",f.,"cinerea","",Synonym,,L,TICA,552B2AD7-203D-4325-A711-B65ECE79C2F5,,"","","","",gcc-105221
+gcc-64880,A,Compositae,,Chimantaea,,"cinerea",subsp.,"cinerea","",Synonym,,L,TICA,8DD74EC3-E567-4402-878E-C1E6E56252ED,,"","","","",gcc-105221
+gcc-130350,A,Compositae,,Chimantaea,,"cinerea",f.,"glabra","Steyerm.",Synonym,,L,TICA,172FCF95-D32D-477D-A082-DE58486D7E54,274512-2,"Ann. Missouri Bot. Gard. 71","","337","1984",gcc-105221
+gcc-28038,A,Compositae,,Chimantaea,,"cinerea",subsp.,"similis","(""Maguire, Steyerm. & Wurdack"") Pruski & O.Huber",Accepted,,L,TICA,668EDB4E-D6A7-42A4-979D-33C3445D71EA,998013-1,"","","242","1997",
+gcc-36175,A,Compositae,,Chimantaea,,"eriocephala",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,87EAF036-B262-4167-8294-431432BEB94E,56482-2,"Mem. New York Bot. Gard. 9","","431","1957",
+gcc-31636,A,Compositae,,Chimantaea,,"espeletoidea",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,ADFEE2DC-C0E1-4D86-AD76-3AA69D18594B,56483-2,"Mem. New York Bot. Gard. 9","","433","1957",
+gcc-5212,A,Compositae,,Chimantaea,,"huberi",,"","Steyerm.",Accepted,,M,TICA,CFAFFA08-854A-483D-A4DC-09BE2D1F1C2C,274513-2,"Ann. Missouri Bot. Gard. 71","","335","1984",
+gcc-95270,A,Compositae,,Chimantaea,,"humilis",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,BBC1B76D-76B5-4956-8984-8EEB7B760353,56484-2,"Mem. New York Bot. Gard. 9","","432","1957",
+gcc-11510,A,Compositae,,Chimantaea,,"lanocaulis",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,56DACD7C-D196-4079-BA05-157A041297D8,56485-2,"Mem. New York Bot. Gard. 9","","430","1957",
+gcc-71774,A,Compositae,,Chimantaea,,"lanocaulis",subsp.,"lanocaulis","",Synonym,,L,TICA,C2DCF4D4-A7FF-43DE-AA24-F8B9047643CA,,"","","","",gcc-11510
+gcc-26262,A,Compositae,,Chimantaea,,"mirabilis",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,0B6912E1-DEBA-447D-A53F-3090D8A1760F,56486-2,"Mem. New York Bot. Gard. 9","","432","1957",
+gcc-126381,A,Compositae,,Chimantaea,,"rupicola",,"","""Maguire, Steyerm. & Wurdack""",Accepted,,M,TICA,93727B41-B494-47A9-877D-D53482A5099C,56487-2,"Mem. New York Bot. Gard. 9","","431","1957",
+gcc-32813,A,Compositae,,Chimantaea,,"similis",,"","""Maguire, Steyerm. & Wurdack""",Synonym,,M,TICA,5C890008-D95F-40C5-B1DD-3CDCD43FAA6F,56488-2,"Mem. New York Bot. Gard. 9","","429","1957",gcc-28038

@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-3661,A,Compositae,,Plagiobasis,,"centauroides",,"","Schrenk",Accepted,,M,TICA,36FF3043-0DC7-42CC-84F9-06C6D8FBEAAC,,"in Bull. Phys.-Math. Acad. Petersb. iii. (1845) 109.","","","1845",
+tro-100376219,A,Compositae,,Plagiobasis,,"dshungarica",,"","Iljin",Synonym,,M,TRO,100376219,,"","","","",gcc-3661
+gcc-115338,A,Compositae,,Plagiobasis,,"dshungaricus",,"","Iljin",Synonym,,M,TICA,573B0263-0FD1-4338-AF74-BBED40345C86,,"""in Bull. Jard. Bot. Acad. Sc. URSS, 1931, xxx. 357 (1932).""","","","",gcc-3661
+gcc-34139,A,Compositae,,Plagiobasis,,"sogdiana",,"","Bunge",Synonym,,M,TICA,98950499-623E-4D14-A89A-3F46BD60606E,,"","","361","",gcc-3395

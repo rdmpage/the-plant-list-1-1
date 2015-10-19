@@ -1,0 +1,5 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50180398,A,Cactaceae,,Mammilloydia,,"candida",,"","(Scheidw.) Buxb.",Accepted,,M,TRO,50180398,,"","","","",
+tro-50335474,A,Cactaceae,,Mammilloydia,,"candida",subsp.,"candida","",Synonym,,L,TRO,50335474,,"","","","1951",tro-50180398
+tro-50335478,A,Cactaceae,,Mammilloydia,,"candida",subsp.,"ortiz-rubiana","(Bravo) Buxb.",Accepted,,L,TRO,50335478,,"","","","1974",
+tro-50335482,A,Cactaceae,,Mammilloydia,,"ortiz-rubiana",,"","(Bravo) Buxb.",Synonym,,M,TRO,50335482,,"","","","1951",tro-50335478

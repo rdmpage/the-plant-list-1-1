@@ -1,0 +1,56 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-19437,A,Zygophyllaceae,,Balanites,,"aegyptiaca",,"","(L.) Delile",Accepted,,H,WCSP,19437,813589-1,"Descr. Egypte, Hist. Nat.","221","","1813",
+kew-19438,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"aegyptiaca","",Synonym,,L,WCSP,19438,,"Unknown","","","",kew-19437
+kew-19439,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"angolensis","Welw.",Synonym,,L,WCSP,19439,,"Ann. Conselho Ultram.","585","","1859",kew-19447
+kew-19440,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"ferox","(Poir.) DC.",Accepted,,L,WCSP,19440,28791-2,"Prodr.","1: 708","","1824",
+kew-19441,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"indica","Voigt",Synonym,,L,WCSP,19441,,"Hort. Suburb. Calcutt.","32","","1845",kew-19478
+kew-19442,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"microphylla","Guill. & Perr.",Synonym,,L,WCSP,19442,,"Fl. Seneg. Tent.","104","","1831",kew-19440
+kew-19443,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"pallida","Sands",Accepted,,L,WCSP,19443,917615-1,"Kew Bull.","38: 40","","1983",
+kew-19444,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"quarrei","(De Wild.) G.Gilbert",Accepted,,L,WCSP,19444,,"in Fl. Congo Belge","7: 68","","1958",
+kew-19445,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"roxburghii","(Planch.) Duthie",Synonym,,L,WCSP,19445,,"Fl. Gangetic Plain","1: 145","","1903",kew-19478
+kew-19446,A,Zygophyllaceae,,Balanites,,"aegyptiaca",var.,"tomentosa","(Mildbr. & Schltr.) Sands",Accepted,,L,WCSP,19446,1020434-1,"Kew Bull.","56: 72","","2001",
+tro-34600001,A,Zygophyllaceae,,Balanites,,"aegyptiacus",,"","(L.) Delile",Synonym,,M,TRO,34600001,813589-1,"Descr. Égypte, Hist. Nat.","221, t. 28, f. 1","221","1813",kew-19437
+tro-50278960,A,Zygophyllaceae,,Balanites,,"aegyptiacus",var.,"quarrei","(De Wild.) G.C.C. Gilbert",Synonym,,L,TRO,50278960,,"Fl. Congo Belge","7: 68, t. 10","68","1958",kew-19444
+kew-19447,A,Zygophyllaceae,,Balanites,,"angolensis",,"","(Welw.) Mildbr. & Schltr.",Accepted,,H,WCSP,19447,1020721-1,"Bot. Jahrb. Syst.","51: 157, 163","","1913",
+kew-19448,A,Zygophyllaceae,,Balanites,,"angolensis",subsp.,"angolensis","",Synonym,,L,WCSP,19448,,"Unknown","","","",kew-19447
+kew-19449,A,Zygophyllaceae,,Balanites,,"angolensis",subsp.,"welwitschii","(Tiegh.) Sands",Accepted,,L,WCSP,19449,1020435-1,"Kew Bull.","56: 89","","2001",
+kew-19450,A,Zygophyllaceae,,Balanites,,"arabica",,"","(Tiegh.) Blatt.",Synonym,,H,WCSP,19450,873102-1,"Rec. Bot. Surv. India","8: 109","","1919",kew-19437
+kew-19451,A,Zygophyllaceae,,Balanites,,"australis",,"","Bremek.",Synonym,,H,WCSP,19451,873103-1,"Ann. Transvaal Mus.","15: 244","","1933",kew-19468
+kew-19452,A,Zygophyllaceae,,Balanites,,"dawei",,"","Sprague",Synonym,,H,WCSP,19452,873104-1,"Bull. Misc. Inform. Kew","1913: 137","","1913",kew-19464
+kew-19453,A,Zygophyllaceae,,Balanites,,"ferox",,"","(Poir.) G.Don",Synonym,,H,WCSP,19453,813592-1,"Gen. Hist.","1: 774","","1831",kew-19440
+kew-19454,A,Zygophyllaceae,,Balanites,,"fischeri",,"","Mildbr. & Schltr.",Synonym,,H,WCSP,19454,873105-1,"Bot. Jahrb. Syst.","51: 157","","1913",kew-19437
+kew-19455,A,Zygophyllaceae,,Balanites,,"gillettii",,"","Cufod.",Synonym,,H,WCSP,19455,103170-1,"Senckenberg. Biol.","39: 302","","1958",kew-19474
+kew-19456,A,Zygophyllaceae,,Balanites,,"gillettii",var.,"renifolia","Cufod.",Synonym,,L,WCSP,19456,,"Senckenberg. Biol.","39: 303","","1958",kew-19474
+kew-19457,A,Zygophyllaceae,,Balanites,,"glabra",,"","Mildbr. & Schltr.",Accepted,,H,WCSP,19457,,"Bot. Jahrb. Syst.","51: 163","","1913",
+kew-19458,A,Zygophyllaceae,,Balanites,,"horrida",,"","Mildbr. & Schltr.",Synonym,,H,WCSP,19458,873107-1,"Bot. Jahrb. Syst.","51: 160","","1913",kew-19468
+kew-19459,A,Zygophyllaceae,,Balanites,,"indica",,"","Tiegh.",Synonym,,H,WCSP,19459,873108-1,"Ann. Sci. Nat., Bot.","IX, 4: 252","","1906",kew-19478
+kew-19460,A,Zygophyllaceae,,Balanites,,"jacquemontii",,"","Tiegh.",Synonym,,H,WCSP,19460,873109-1,"Ann. Sci. Nat., Bot.","IX, 4: 252","","1906",kew-19478
+kew-19461,A,Zygophyllaceae,,Balanites,,"latifolia",,"","(Tiegh.) Chiov.",Synonym,,H,WCSP,19461,873110-1,"Fl. Somala","2: 46","","1932",kew-19437
+kew-19462,A,Zygophyllaceae,,Balanites,,"maughamii",,"","Sprague",Accepted,,H,WCSP,19462,873111-1,"Bull. Misc. Inform. Kew","1913: 136","","1913",
+kew-19464,A,Zygophyllaceae,,Balanites,,"maughamii",subsp.,"maughamii","",Accepted,,L,WCSP,19464,,"Unknown","","","",
+kew-19465,A,Zygophyllaceae,,Balanites,,"mayumbensis",,"","Exell",Synonym,,H,WCSP,19465,873112-1,"J. Bot.","65(Suppl. 1): 55","","1927",kew-19489
+kew-19466,A,Zygophyllaceae,,Balanites,,"orbicularis",,"","Sprague",Synonym,,H,WCSP,19466,873113-1,"Bull. Misc. Inform. Kew","1908: 57","","1908",kew-19474
+kew-19467,A,Zygophyllaceae,,Balanites,,"patriziana",,"","Lusina",Synonym,,H,WCSP,19467,873114-1,"Ann. Bot. (Rome)","20: 138","","1933",kew-19474
+kew-19468,A,Zygophyllaceae,,Balanites,,"pedicellaris",,"","Mildbr. & Schltr.",Accepted,,H,WCSP,19468,873115-1,"Bot. Jahrb. Syst.","51: 162","","1913",
+kew-19469,A,Zygophyllaceae,,Balanites,,"pedicellaris",subsp.,"pedicellaris","",Synonym,,L,WCSP,19469,,"Unknown","","","",kew-19468
+kew-19470,A,Zygophyllaceae,,Balanites,,"pedicellaris",subsp.,"somalensis","(Mildbr. & Schltr.) Sands",Accepted,,L,WCSP,19470,921813-1,"Kew Bull.","38: 40","","1983",
+kew-19471,A,Zygophyllaceae,,Balanites,,"quarrei",,"","De Wild.",Synonym,,H,WCSP,19471,873116-1,"Contr. Fl. Katanga","Suppl. 5: 33","","1933",kew-19444
+kew-19472,A,Zygophyllaceae,,Balanites,,"racemosa",,"","Chiov.",Synonym,,H,WCSP,19472,873117-1,"Fl. Somala","1: 119","","1929",kew-19443
+kew-19473,A,Zygophyllaceae,,Balanites,,"rigida",,"","Royle ex B.D.Jacks.",Synonym,,H,WCSP,19473,,"Index Kew.","2: 1257","","1895",kew-19478
+kew-19474,A,Zygophyllaceae,,Balanites,,"rotundifolia",,"","(Tiegh.) Blatt.",Accepted,,H,WCSP,19474,873118-1,"Rec. Bot. Surv. India","8: 109","","1919",
+kew-19475,A,Zygophyllaceae,,Balanites,,"rotundifolia",var.,"rotundifolia","",Synonym,,L,WCSP,19475,,"Unknown","","","",kew-19474
+kew-19476,A,Zygophyllaceae,,Balanites,,"rotundifolia",var.,"scillin","(Chiov.) Sands",Accepted,,L,WCSP,19476,1020437-1,"Kew Bull.","56: 97","","2001",
+kew-19478,A,Zygophyllaceae,,Balanites,,"roxburghii",,"","Planch.",Accepted,,H,WCSP,19478,813594-1,"Ann. Sci. Nat., Bot.","IV, 2: 258","","1854",
+kew-19479,A,Zygophyllaceae,,Balanites,,"roxburghii",var.,"gracilis","Kurz",Synonym,,L,WCSP,19479,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist.","44: 139","","1876",kew-19485
+kew-19480,A,Zygophyllaceae,,Balanites,,"scillin",,"","Chiov.",Synonym,,H,WCSP,19480,873119-1,"Fl. Somala","1: 120","","1929",kew-19476
+kew-19481,A,Zygophyllaceae,,Balanites,,"somalensis",,"","Mildbr. & Schltr.",Synonym,,H,WCSP,19481,873120-1,"Bot. Jahrb. Syst.","51: 159","","1913",kew-19470
+kew-19482,A,Zygophyllaceae,,Balanites,,"suckertii",,"","Chiov.",Synonym,,H,WCSP,19482,873121-1,"Atti Soc. Naturalisti Mat. Modena","66: 5","","1934",kew-19437
+kew-19483,A,Zygophyllaceae,,Balanites,,"tieghemii",,"","A.Chev.",Synonym,,H,WCSP,19483,873122-1,"Bull. Soc. Bot. France","58(8): 145","","1911 publ. 1912",kew-19487
+kew-19484,A,Zygophyllaceae,,Balanites,,"tomentosa",,"","Mildbr. & Schltr.",Synonym,,H,WCSP,19484,873123-1,"Bot. Jahrb. Syst.","51: 159","","1913",kew-19446
+kew-19485,A,Zygophyllaceae,,Balanites,,"triflora",,"","Tiegh.",Accepted,,H,WCSP,19485,873124-1,"Ann. Sci. Nat., Bot.","IX, 4: 253","","1906",
+kew-19486,A,Zygophyllaceae,,Balanites,,"welwitschii",,"","(Tiegh.) Exell & Mendonça",Synonym,,H,WCSP,19486,873125-1,"Consp. Fl. Angol.","1: 283","","1951",kew-19449
+kew-19487,A,Zygophyllaceae,,Balanites,,"wilsoniana",,"","Dawe & Sprague",Accepted,,H,WCSP,19487,873126-1,"J. Linn. Soc., Bot.","37: 506","","1906",
+kew-19489,A,Zygophyllaceae,,Balanites,,"wilsoniana",var.,"mayumbensis","(Exell) Sands",Accepted,,L,WCSP,19489,1020431-1,"Kew Bull.","56: 28","","2001",
+kew-19490,A,Zygophyllaceae,,Balanites,,"wilsoniana",var.,"wilsoniana","",Synonym,,L,WCSP,19490,,"Unknown","","","",kew-19487
+tro-34600168,A,Zygophyllaceae,,Balanites,,"wilsonianus",,"","Dawe & Sprague",Accepted,,M,TRO,34600168,,"Bot. Miss. Uganda Prot.","14, 23, 40","14","1906",
+tro-50057651,A,Zygophyllaceae,,Balanites,,"zizyphoides",,"","Mildbr. & Schltr.",Unresolved,,L,TRO,50057651,,"Bot. Jahrb. Syst.","51: 159","159","1913",

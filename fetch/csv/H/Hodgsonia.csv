@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-50043861,A,Cucurbitaceae,,Hodgsonia,,"capniocarpa",,"","Ridl.",Synonym,,M,TRO,50043861,292937-1,"J. Fed. Malay States Mus.","10: 135","135","1920",tro-9200863
+kew-2852181,A,Cucurbitaceae,,Hodgsonia,,"heteroclita",,"","(Roxb.) Hook.f. & Thomson",Accepted,,M,WCSP (in review),,292939-1,"Proc. Linn. Soc. London","2: 257","","1853",
+tro-100367260,A,Cucurbitaceae,,Hodgsonia,,"heteroclita",subsp.,"indochinensis","W.J. de Wilde & Duyfjes",Synonym,,L,TRO,100367260,,"","","","",kew-2852181
+kew-278328,A,Xanthorrhoeaceae,,Hodgsonia,,"junciformis",,"","F.Muell.",Synonym,,H,WCSP,278328,536501-1,"Fragm.","2: 96","","1860",kew-278330
+kew-2852182,A,Cucurbitaceae,,Hodgsonia,,"macrocarpa",,"","(Blume) Cogn.",Accepted,,M,WCSP (in review),,292940-1,"Monogr. Phan.","3: 349","","1881",
+tro-9200863,A,Cucurbitaceae,,Hodgsonia,,"macrocarpa",var.,"capniocarpa","(Ridl.) Tsai",Accepted,,L,TRO,9200863,,"Fl. Reipubl. Popularis Sin.","73(1): 259","259","1986",
+tro-50043860,A,Cucurbitaceae,,Hodgsonia,,"macrocarpa",var.,"macrocarpa","",Synonym,,L,TRO,50043860,,"","","","",kew-2852182
+tro-35204156,B,Marchantiaceae,,Hodgsonia,,"mirabilis",,"","Perss.",Synonym,,M,TRO,35204156,,"Hodgsonia","[1]","","1953",tro-35207320

@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+ild-32518,A,Leguminosae,,Euchresta,,"formosana",,"","(Hayata) Ohwi",Accepted,,H,ILDIS,32518,,"","","","",
+ild-45232,A,Leguminosae,,Euchresta,,"formosana",,"","(Hayata) Nakai",Synonym,,H,ILDIS,45232,,"","","","",ild-32518
+ild-38818,A,Leguminosae,,Euchresta,,"formosana",var.,"riukiuensis","Ohwi",Synonym,,L,ILDIS,38818,,"","","","",ild-32518
+ild-32756,A,Leguminosae,,Euchresta,,"horsfeldii",,"","(Lesch.) Benn.",Synonym,Spelling variant,H,ILDIS,32756,,"","","","",ild-32755
+ild-32755,A,Leguminosae,,Euchresta,,"horsfieldii",,"","(Lesch.) Benn.",Accepted,,H,ILDIS,32755,,"","","","",
+ild-51101,A,Leguminosae,,Euchresta,,"horsfieldii",var.,"bhutanica","H.Ohashi",Synonym,,L,ILDIS,51101,,"","","","",ild-32755
+ild-38819,A,Leguminosae,,Euchresta,,"horsfieldii",var.,"formosana","Hayata",Synonym,,L,ILDIS,38819,,"","","","",ild-32518
+ild-46705,A,Leguminosae,,Euchresta,,"horsfieldii",var.,"horsfieldii","",Synonym,,L,ILDIS,46705,,"","","","",ild-32755
+ild-33073,A,Leguminosae,,Euchresta,,"japonica",,"","Benth.",Synonym,,H,ILDIS,33073,,"","","","",ild-38820
+ild-38820,A,Leguminosae,,Euchresta,,"japonica",,"","Regel",Accepted,,H,ILDIS,38820,,"","","","",
+ild-38821,A,Leguminosae,,Euchresta,,"japonica",,"","Oliv.",Synonym,,H,ILDIS,38821,,"","","","",ild-38820
+ild-45238,A,Leguminosae,,Euchresta,,"longiracemosa",,"","S.Lee & H.Q.Wen",Synonym,,H,ILDIS,45238,,"","","","",ild-45237
+ild-45233,A,Leguminosae,,Euchresta,,"strigillosa",,"","C.Y.Wu",Synonym,,H,ILDIS,45233,,"","","","",ild-32755
+kew-2802615,A,Leguminosae,×,Euchresta,,"strigillosa",,"","C.Y.Wu",Unresolved,,L,WCSP (in review),,494675-1,"Acta Phytotax. Sin.","6: 249","","1957",
+ild-43751,A,Leguminosae,,Euchresta,,"tenuifolia",,"","Hemsl.",Synonym,,H,ILDIS,43751,,"","","","",ild-43753
+ild-38822,A,Leguminosae,,Euchresta,,"trifoliolata",,"","Merr.",Synonym,,H,ILDIS,38822,,"","","","",ild-38820
+ild-45235,A,Leguminosae,,Euchresta,,"tubulosa",,"","Dunn",Accepted,,H,ILDIS,45235,,"","","","",
+ild-45237,A,Leguminosae,,Euchresta,,"tubulosa",var.,"longiracemosa","(S.Lee & H.Q.Wen) C.Chen",Accepted,,L,ILDIS,45237,,"","","","",
+ild-45239,A,Leguminosae,,Euchresta,,"tubulosa",var.,"tubulosa","",Synonym,,L,ILDIS,45239,,"","","","",ild-45235

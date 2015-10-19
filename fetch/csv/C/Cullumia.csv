@@ -1,0 +1,41 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-16509,A,Compositae,,Cullumia,,"aculeata",,"","(Houtt.) Roessler",Accepted,,M,TICA,9CCC5D96-CFBD-420B-9D62-1E873221B50B,200692-1,"","","291","1959",
+gcc-62516,A,Compositae,,Cullumia,,"aculeata",var.,"aculeata","",Synonym,,L,TICA,60CD40DE-CC24-4518-B1CA-AF5E278693BD,,"Mitt. Bot. Staatssamml. München iii. 291 (1959).","","","",gcc-16509
+gcc-61919,A,Compositae,,Cullumia,,"aculeata",var.,"sublanata","(DC.) Roessler",Accepted,,L,TICA,80D67D68-350C-49BB-8145-AA8A60193B47,,"Mitt. Bot. Staatssamml. München 3: 293 (1959)","","293","1959",
+gcc-32950,A,Compositae,,Cullumia,,"adnata",,"","DC.",Synonym,,M,TICA,08520A85-A4CB-4337-8534-3D1A3B5EDFB8,200693-1,"","","499","1838",gcc-58749
+gcc-119545,A,Compositae,,Cullumia,,"adpressifolia",,"","Sond.",Synonym,,M,TICA,66FF1438-1604-4C6F-8BB7-C5651078AE71,200694-1,"Linnaea 23","","69","1850",gcc-142240
+gcc-13650,A,Compositae,,Cullumia,,"bisulca",,"","(Thunb.) Less.",Accepted,,M,TICA,C73B697D-352B-4612-9F4E-1963D8885543,200695-1,"","","82","1832",
+gcc-26638,A,Compositae,,Cullumia,,"carlinoides",,"","DC.",Accepted,,M,TICA,A653B3D0-13D2-4EB6-A2B5-31382507945D,200696-1,"","","499","1838",
+gcc-34001,A,Compositae,,Cullumia,,"ciliaris",,"","(L.) R.Br. ex R.Br.",Synonym,,M,TICA,7A866416-43ED-4B48-AFC9-3F11F66058EB,200697-1,"","","137","1813",gcc-25897
+gcc-64520,A,Compositae,,Cullumia,,"ciliaris",subsp.,"angustifolia","(Hutch.) Roessler",Unresolved,,L,TICA,77DCB93F-6CAC-4163-A574-BF32C6F8A1DC,,"Mitt. Bot. Staatssamml. München 3: 281 (1959)","","281","1959",
+gcc-67615,A,Compositae,,Cullumia,,"ciliaris",var.,"angustifolia","Hutch.",Synonym,,L,TICA,230076E5-571E-439E-9EC5-D893D95BFEE7,,"Ann. S. African Mus. 9: 425 (1917)","","425","1917",gcc-64520
+gcc-150991,A,Compositae,,Cullumia,,"ciliaris",var.,"ciliaris","",Synonym,,L,TICA,0BF62856-E032-4E29-894B-7AA6DE07EDD9,,"","","","",gcc-105274
+gcc-25897,A,Compositae,,Cullumia,,"ciliaris",subsp.,"ciliaris","",Unresolved,,L,TICA,63105E7C-DA93-49E6-B33A-2FDBA9EFB099,,"Ait. Hort. Kew. ed. II. v. 137.","","","",
+gcc-97196,A,Compositae,,Cullumia,,"ciliata",,"","(L.) Druce",Synonym,,M,TICA,5EE862DF-1FC1-4C33-980F-934C387AFDEF,200698-1,"","","416","1914",gcc-89992
+gcc-33855,A,Compositae,,Cullumia,,"cirsioides",,"","DC.",Accepted,,M,TICA,5E4803DB-F608-4662-9B63-3EC8B647D590,200699-1,"","","499","1838",
+gcc-60584,A,Compositae,,Cullumia,,"cirsioides",var.,"carlinoides","(DC.) Harv.",Synonym,,L,TICA,70B6A256-FF87-4F91-BD00-9F717244635B,,"","","","",gcc-26638
+gcc-64266,A,Compositae,,Cullumia,,"cirsioides",var.,"cirsioides","",Synonym,,L,TICA,F6632B99-4AF0-4E4D-9038-BD23311F5EF5,,"","","","",gcc-33855
+gcc-97316,A,Compositae,,Cullumia,,"decurrens",,"","Less.",Accepted,,M,TICA,0C7AF332-4398-449D-8EE3-939232879F0A,200700-1,"","","83","1832",
+gcc-98251,A,Compositae,,Cullumia,,"floccosa",,"","E.Mey. ex DC.",Accepted,,M,TICA,A9340068-2AE7-4B78-8A5A-95B07E223044,200701-1,"","","499","1838",
+gcc-135760,A,Compositae,,Cullumia,,"hispida",,"","(L.f.) Less.",Synonym,,M,TICA,8498C6B1-7AF2-4932-88A7-EAACF45F6449,200702-1,"","","87","1832",gcc-16509
+gcc-123265,A,Compositae,,Cullumia,,"intermedia",,"","DC.",Synonym,,M,TICA,1F03AFF4-6FB8-40F7-AD65-CDE49A890251,200703-1,"","","498","1838",gcc-97316
+gcc-25818,A,Compositae,,Cullumia,,"massoni",,"","S.Moore",Synonym,,M,TICA,BE305000-6A09-4B0C-9253-2FB3DB8F3B4B,,"","","","1899",gcc-90905
+gcc-37366,A,Compositae,,Cullumia,,"micracantha",,"","DC.",Accepted,,M,TICA,49B598D6-E3FB-4500-B115-453F665359B8,200705-1,"","","499","1838",
+gcc-79259,A,Compositae,,Cullumia,,"micrantha",,"","DC.",Accepted,,L,TICA,827EC199-E769-41AD-BC1B-6B08865A72C4,,"","","","",
+gcc-35509,A,Compositae,,Cullumia,,"obovata",,"","E.Mey. ex DC.",Synonym,,M,TICA,B8627376-CA8B-4908-883D-41D33DB79F74,200706-1,"","","499","1838",gcc-37366
+gcc-25679,A,Compositae,,Cullumia,,"patula",,"","(Thunb.) Less.",Accepted,,M,TICA,85376D23-6093-4BD0-A880-2F7083AD5F81,200707-1,"","","82","1832",
+gcc-58149,A,Compositae,,Cullumia,,"patula",subsp.,"patula","",Synonym,,L,TICA,72C773A8-316D-4F11-BFB7-8C286636BB00,,"","","","",gcc-25679
+gcc-85718,A,Compositae,,Cullumia,,"pauciflora",,"","DC.",Synonym,,M,TICA,B4C42CD5-CA71-4546-9D7C-7950DA9B4DA5,200708-1,"","","500","1838",gcc-16509
+gcc-90905,A,Compositae,,Cullumia,,"pectinata",,"","(Thunb.) Less.",Accepted,,M,TICA,ABD4FCF4-9E42-4B52-9BCC-852270DF5EB9,200709-1,"","","85","1832",
+gcc-82769,A,Compositae,,Cullumia,,"reflexa",,"","Sch.Bip.",Synonym,,M,TICA,08DE4C44-65BC-4AD4-9DEB-72C55C0386C8,200710-1,"Flora 27","","777","1844",gcc-97316
+gcc-105274,A,Compositae,,Cullumia,,"reticulata",,"","(L.) ""Greuter, M.V.Agab. & Wagenitz""",Accepted,,M,TICA,3094FEE4-7922-4307-BED0-A53F544107DB,77065725-1,"","","155","2005",
+gcc-44029,A,Compositae,,Cullumia,,"rigida",,"","DC.",Accepted,,M,TICA,E7F28F4B-F3E3-4713-A424-518DF74FE35D,200711-1,"","","500","1838",
+gcc-42202,A,Compositae,,Cullumia,,"selago",,"","Roessler",Accepted,,M,TICA,206FD9BD-5196-4E13-96F0-4E30730B22E7,200712-1,"","","287","1959",
+gcc-115341,A,Compositae,,Cullumia,,"setosa",,"","(L.) Sieber ex R.Br.",Accepted,,M,TICA,CEA87738-FA3D-4AC3-8853-BBEE220CD856,,"","","","1813",
+gcc-58749,A,Compositae,,Cullumia,,"setosa",var.,"adnata","(DC.) Harv.",Accepted,,L,TICA,02D8F07F-73D6-41BB-A1B7-9110E5DC3364,,"Fl. Cap. 3: 483 (1865)","","483","1865",
+gcc-36879,A,Compositae,,Cullumia,,"setosa",var.,"setosa","",Synonym,,L,TICA,3349701E-440C-4C70-B9F7-44577D5842DD,,"","","","",gcc-115341
+gcc-137565,A,Compositae,,Cullumia,,"squarrosa",,"","(L.) R.Br. ex R.Br.",Accepted,,M,TICA,AD9F4F86-254E-4549-860E-EEB3B2A1F28B,200715-1,"","","138","1813",
+gcc-137751,A,Compositae,,Cullumia,,"stricta",,"","Compton",Synonym,,M,TICA,78B4EAC7-091B-4C67-9FB7-EF2002C4EDD1,,"","","","1949",gcc-142240
+gcc-127194,A,Compositae,,Cullumia,,"sublanata",,"","DC.",Synonym,,M,TICA,91B1EE50-1400-4EAC-9F02-D716C29C1C52,200717-1,"","","500","1838",gcc-61919
+gcc-142240,A,Compositae,,Cullumia,,"sulcata",,"","(Thunb.) Drège ex Less.",Accepted,,M,TICA,EE03B53D-03B8-4A12-A6AE-F9343DE52FD4,,"","","","",
+gcc-70773,A,Compositae,,Cullumia,,"sulcata",var.,"sulcata","",Synonym,,L,TICA,71599B05-9FDE-4434-BC7D-F0B40D25D01C,,"","","","",gcc-142240

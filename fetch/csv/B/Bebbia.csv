@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-41887,A,Compositae,,Bebbia,,"aspera",,"","(Greene) A.Nelson",Synonym,,M,TICA,1A14CD51-E460-4757-B614-4D8FBC5ED7F2,30324-2,"Bot. Gaz. 37","","273","1904",gcc-50743
+gcc-148043,A,Compositae,,Bebbia,,"atriplicifolia",,"","(A.Gray) Greene",Accepted,,M,TICA,3BB202F9-76A5-463B-BA44-3A7BE145EF6E,,"","","181","1885",
+gcc-89549,A,Compositae,,Bebbia,,"atriplicifolia",,"","A.Gray",Unresolved,,L,TICA,2E4BEEFF-3414-48AE-AC5F-81F3B268D838,,"","","","",
+gcc-4043,A,Compositae,,Bebbia,,"filifolia",,"","M.E.Jones",Synonym,,M,TICA,82602C3E-DD05-47D3-AF23-0783CF62F492,,"Contr. W. Bot. 18","","80","",gcc-88517
+gcc-88517,A,Compositae,,Bebbia,,"juncea",,"","(Benth.) Greene",Accepted,,M,TICA,19CBA4B7-B94A-4947-9D69-7F9B844BF9CC,,"","","","1885",
+gcc-50743,A,Compositae,,Bebbia,,"juncea",var.,"aspera","(Benth.) Greene",Accepted,,L,TICA,6BE9523F-3434-462E-8EB4-5E18DBA83FCB,,"","","","1885",
+gcc-56660,A,Compositae,,Bebbia,,"juncea",var.,"juncea","",Synonym,,L,TICA,1E27EC5E-D077-45A3-A811-803178ABD04E,,"","","","",gcc-88517

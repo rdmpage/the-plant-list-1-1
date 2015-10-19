@@ -1,0 +1,313 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81064,A,Compositae,,Aspilia,,"abyssinica",,"","Oliv. & Hiern",Unresolved,,L,TICA,384AD2AE-1B99-49A2-A796-6EFA9F570887,180331-1,"Fl. Trop. Afr. [Oliver et al.] 3: 379","","379","1877",
+gcc-89511,A,Compositae,,Aspilia,,"abyssinica",,"","(Sch.Bip.) Vatke",Synonym,,M,TICA,42F53482-172F-4D55-A3BA-81DE3D622CF5,180332-1,"Linnaea 39","","495","1875",gcc-28535
+gcc-83812,A,Compositae,,Aspilia,,"africana",,"","(Pers.) C.D.Adams",Accepted,,M,TICA,63EC0242-84D6-47A8-A23F-7516F9130579,180333-1,"","","236","1956",
+gcc-60062,A,Compositae,,Aspilia,,"africana",var.,"africana","",Synonym,,L,TICA,00B682FF-85C6-41E3-AB9F-9B4D7EE13123,,"","","","",gcc-83812
+gcc-70696,A,Compositae,,Aspilia,,"africana",subsp.,"africana","",Synonym,,L,TICA,16D5857A-B057-4181-B7C4-F029EE4B144A,,"","","","",gcc-83812
+gcc-33961,A,Compositae,,Aspilia,,"africana",var.,"ambigua","C.D.Adams",Synonym,,L,TICA,2739D996-BCAE-4FF8-9CED-3EFB4054AFCB,,"Webbia 12: 236 (1956)","","","1956",gcc-83812
+gcc-68781,A,Compositae,,Aspilia,,"africana",var.,"guineensis","(O.Hoffm. & Muschl.) C.D.Adams",Synonym,,L,TICA,D2FF6621-A94C-421F-AFA7-E1657A554641,,"Webbia 12: 238 (1956)","","238","1956",gcc-83812
+gcc-35999,A,Compositae,,Aspilia,,"africana",subsp.,"magnifica","(Chiov.) Wild",Accepted,,L,TICA,27B51A5D-79B0-4F5F-95AA-42BC91A09CD8,,"Kirkia 5: 219 (1966)","","219","1966",
+gcc-65314,A,Compositae,,Aspilia,,"africana",var.,"minor","C.D.Adams",Synonym,,L,TICA,63846871-C14B-4AC6-A601-C5DE35DC3CDD,,"Webbia 12: 237 (1956)","","237","1956",gcc-83812
+gcc-70487,A,Compositae,,Aspilia,,"africana",var.,"ubanguensis","O.Hoffm. & Muschl.",Synonym,,L,TICA,4C0F2AF1-ABDE-496F-B6DC-EE886779279F,,"","","","",gcc-83812
+gcc-1887,A,Compositae,,Aspilia,,"aggregata",,"","Greenm.",Synonym,,M,TICA,15E520C8-CD27-4628-8523-0368E6F4B79F,272751-2,"Proc. Amer. Acad. Arts 39","","102","1903",gcc-7917
+gcc-83644,A,Compositae,,Aspilia,,"albiflora",,"","A.Gray",Synonym,,M,TICA,F6FCD01E-91BF-43C1-B1D1-74BE958AC931,22089-2,"Proc. Amer. Acad. Arts 22","","425","1887",gcc-139844
+gcc-21659,A,Compositae,,Aspilia,,"albuquerquei",,"","J.U.Santos",Accepted,,M,TICA,ADE32242-A50C-4D8D-959E-2810C46B0E89,992230-1,"","","209","1994",
+gcc-48509,A,Compositae,,Aspilia,,"almasensis",,"","D.J.N.Hind",Accepted,,M,TICA,9CFE9598-9940-4DAE-BCDF-59D6C69D72DD,303151-2,"Kew Bull. 48","","273","1993",
+gcc-87742,A,Compositae,,Aspilia,,"alterniflora",,"","Klatt",Synonym,,M,TICA,E22BFEBC-55B3-422A-9819-7DEE36749C19,,"Annalen des K. K. Naturhistorischen Hofmuseums 7:","","298","1892",gcc-78021
+gcc-122575,A,Compositae,,Aspilia,,"alternifolia",,"","Klatt",Synonym,,M,TICA,02C3E3C3-208F-4D27-B814-CC50CE6195B5,180336-1,"","","298","1892",gcc-78021
+gcc-4374,A,Compositae,,Aspilia,,"andersonii",,"","H.Rob.",Synonym,,L,TICA,83B88C7B-9D60-4E62-BDB4-0823423F8868,22090-2,"""Phytologia 55: 415 (-416), fig. 1984""","","415","1984",gcc-126090
+gcc-3621,A,Compositae,,Aspilia,,"andrade-limae",,"","J.U.Santos",Accepted,,M,TICA,88825649-67D7-4E1B-B7B5-06B0212FC958,929220-1,"","","5","1985",
+gcc-93094,A,Compositae,,Aspilia,,"angolensis",,"","(Klatt) Muschl.",Accepted,,M,TICA,37ABD41A-5D20-4FC7-82E5-8A01AB94D203,180337-1,"","","337","1914",
+gcc-110561,A,Compositae,,Aspilia,,"angusta",,"","S.F.Blake",Synonym,,M,TICA,0E9517D5-C2C0-4E45-8B19-B12BFDCC70CF,22091-2,"Contr. U. S. Natl. Herb. 22","","619","1924",gcc-139822
+gcc-103005,A,Compositae,,Aspilia,,"angustifolia",,"","A.Chev.",Unresolved,,L,TICA,683E177A-77CE-489B-9D08-A05843FFF6ED,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","370","1920",
+gcc-15350,A,Compositae,,Aspilia,,"angustifolia",,"","A.Gray",Synonym,Illegitimate,M,TICA,330F8284-A8D9-4106-A59B-1C6DD96AC28D,22092-2,"Proc. Amer. Acad. Arts 22","","425","1887",gcc-139822
+gcc-43511,A,Compositae,,Aspilia,,"angustifolia",,"","Oliv. & Hiern",Accepted,,M,TICA,5129BD0B-8D56-4C0C-9E25-50ACB7D9007F,180339-1,"","","380","1877",
+gcc-105668,A,Compositae,,Aspilia,,"anomala",,"","Baker",Synonym,,L,TICA,3A22481F-4759-4EDB-BF65-A613EBE6B536,,"","","204","1884",gcc-133401
+gcc-46327,A,Compositae,,Aspilia,,"apensis",,"","Chodat",Synonym,,L,TICA,9B414C6E-6B96-476F-A94B-55DBAC64BA44,309558-2,"","","721","1903",gcc-51376
+gcc-139459,A,Compositae,,Aspilia,,"archeri",,"","H.Rob. & Brettell",Synonym,,M,TICA,CA61D9CE-F320-4CE9-B12D-F2C591BA0BAA,22094-2,"""Phytologia 32: 419 (-420), figs. 1975""","","419","1975",gcc-125262
+gcc-8960,A,Compositae,,Aspilia,,"arillata",,"","(DC.) Griseb.",Unresolved,,L,TICA,8A2835E2-F159-4C37-9C18-10C409D7E214,,"","","191","1879",
+gcc-144729,A,Compositae,,Aspilia,,"aristata",,"","Griseb.",Accepted,,M,TICA,9F8655F2-C738-420F-9BAF-FEC741F3F7D2,,"","","","1879",
+gcc-6574,A,Compositae,,Aspilia,,"asperifolia",,"","O.Hoffm.",Synonym,,M,TICA,FBFAB974-DC8E-4CA6-A5B7-0C31788D820D,,"","","","1895",gcc-95303
+gcc-136382,A,Compositae,,Aspilia,,"asperrima",,"","(Gardner) Baker",Synonym,,L,TICA,8F27CB7F-8456-4591-8A98-EC1C4B6D9872,302652-2,"Fl. Bras. (Martius) 6(3)","","200","1884",gcc-31049
+gcc-156230,A,Compositae,,Aspilia,,"asperrima",var.,"asperrima","",Synonym,,L,TICA,36B3F8DA-B413-493C-9AC0-E91D76E642CE,,"","","","",gcc-31049
+gcc-59620,A,Compositae,,Aspilia,,"asperrima",var.,"latifolia","Baker",Synonym,,L,TICA,895B48F2-8D8A-4A10-83F2-97E82CD5128E,,"","","","1884",gcc-31049
+gcc-1497,A,Compositae,,Aspilia,,"aspilioides",,"","(Baker) S.Moore",Synonym,,M,TICA,B4DC5EF7-1127-4639-9AC2-02B295C9FF5B,180347-1,"","","115","1911",gcc-11589
+gcc-31049,A,Compositae,,Aspilia,,"attenuata",,"","(Gardner) Baker",Accepted,,L,TICA,965C019A-81D7-443C-9C65-397E05527AF9,,"","","199","1884",
+gcc-119202,A,Compositae,,Aspilia,,"attrivittata",,"","Merxm.",Synonym,,M,TICA,A5C2AE32-B068-44D7-930C-C4A3A31579BB,180348-1,"","","33","1950",gcc-77797
+gcc-80951,A,Compositae,,Aspilia,,"aurantiaca",,"","Griseb.",Accepted,,L,TICA,0CEA4967-D1AE-4308-9B3A-6EBC016564C5,305433-2,"Abh. Königl. Ges. Wiss. Göttingen 19","","183","1874",
+gcc-53968,A,Compositae,,Aspilia,,"aurantiaca",var.,"aurantiaca","",Synonym,,L,TICA,415A63AC-018E-4E70-B047-6A46E99A00B9,,"Abh. Königl. Ges. Wiss. Göttingen 19: 183 (1874)","","183","1874",gcc-80951
+gcc-106514,A,Compositae,,Aspilia,,"avilensis",,"","Aristeg. & Steyerm.",Synonym,,L,TICA,0E1BEE2A-50F5-4A3E-A9FD-A7F8B55BDED3,22097-2,"","","552","1964",gcc-94274
+gcc-42665,A,Compositae,,Aspilia,,"baoulensis",,"","A.Chev.",Synonym,,L,TICA,A7BB5731-E201-4073-8FD0-4F0708F2367C,180351-1,"""Explor. Bot. Afrique Occ. Franc. i. 370 (1920), nomen.""","","370","1920",gcc-16185
+gcc-38010,A,Compositae,,Aspilia,,"baronii",,"","Baker",Synonym,,M,TICA,01CEB0C3-E1AF-4358-AF5C-467E1D977036,,"","","188","",gcc-140026
+gcc-138693,A,Compositae,,Aspilia,,"baumii",,"","O.Hoffm.",Accepted,,M,TICA,03F10F00-D35F-4EE0-A1DF-F12C1F0BB72F,180353-1,"","","417","1903",
+gcc-131373,A,Compositae,,Aspilia,,"belo-horizontinae",,"","J.U.Santos",Accepted,,M,TICA,71A0730D-4A2D-497A-9E6F-E0B9B965F0DD,304716-2,"Revista Brasil. Bot. 19","","96","1996",
+gcc-78058,A,Compositae,,Aspilia,,"bipartita",,"","O.Hoffm.",Accepted,,M,TICA,C4BD7F27-F1F6-4D48-877E-683F180D9484,180354-1,"Bol. Soc. Brot. 13","","30","1896",
+gcc-12229,A,Compositae,,Aspilia,,"bishoplecta",,"","H.Rob.",Accepted,,L,TICA,1E9791AF-3E02-4190-B931-16CAB993FD44,272752-2,"Phytologia 56","","264","1984",
+gcc-140026,A,Compositae,,Aspilia,,"bojeri",,"","DC.",Accepted,,M,TICA,09173B03-D51A-4CB0-A64F-F40A13737DDF,180355-1,"","","561","1836",
+gcc-11166,A,Compositae,,Aspilia,,"bolivarana",,"","V.M.Badillo",Synonym,,M,TICA,8790F378-E97A-456B-9DBD-14E192875B2F,272753-2,"Ernstia 23","","14","1984",gcc-31245
+gcc-122386,A,Compositae,,Aspilia,,"bonplandiana",,"","(Gardner) S.F.Blake",Accepted,,L,TICA,CD606A45-4376-4DF8-A451-CBE188CDFB5E,22098-2,"Contr. U. S. Natl. Herb. 20","","421","1921",
+gcc-34822,A,Compositae,,Aspilia,,"brachyphylla",,"","S.Moore",Synonym,,M,TICA,BFF173AE-E8C5-4059-8AA3-408D419723D2,180357-1,"","","115","1911",gcc-95303
+gcc-19984,A,Compositae,,Aspilia,,"bracteosa",,"","C.D.Adams",Synonym,,M,TICA,01405A9B-9D11-4F51-A6DA-24F07B0A07FD,180358-1,"","","238","1956",gcc-55141
+gcc-113622,A,Compositae,,Aspilia,,"buphthalmiflora",,"","(DC.) Griseb.",Accepted,,L,TICA,AAF6F70F-4351-464D-94C4-B8051876E0CC,180359-1,"","","136","1874",
+gcc-66703,A,Compositae,,Aspilia,,"buphthalmiflora",var.,"angustifolia","(DC.) Baker",Synonym,,L,TICA,022168C0-9361-4AA9-8142-D0E9ACA4555F,22099-2,"","","195","1884",gcc-36122
+gcc-149941,A,Compositae,,Aspilia,,"buphthalmiflora",var.,"buphthalmiflora","",Synonym,,L,TICA,E38FED0C-A7FD-40CB-A7D7-638AEFCD68F7,,"","","","",gcc-113622
+gcc-1962,A,Compositae,,Aspilia,,"buphthalmiflora",var.,"calendulacea","(DC.) Baker",Synonym,,L,TICA,1B27F4C0-8C13-4F6D-979A-038780C5DD29,22100-2,"","","195","1884",gcc-36122
+gcc-129176,A,Compositae,,Aspilia,,"burchellii",,"","Sch.Bip. ex Baker",Synonym,,L,TICA,F0A8CF1C-5B66-400D-B497-DBB1C0BB8AF1,304067-2,"Fl. Bras. (Martius) 6(3)","","194","1884",gcc-100774
+gcc-130455,A,Compositae,,Aspilia,,"bussei",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,55ECBE98-FE8D-4546-BEBF-DE97D4D643EF,180361-1,"","","341","1914",
+gcc-152098,A,Compositae,,Aspilia,,"bussei",var.,"bussei","",Synonym,,L,TICA,974FC745-50CD-4E3F-AC54-928E1A2948D7,,"","","","",gcc-130455
+gcc-17263,A,Compositae,,Aspilia,,"cachimboensis",,"","H.Rob.",Synonym,,L,TICA,3F2FB3D0-970E-4BB5-8601-1FEAF883D6F2,272754-2,"Phytologia 58","","245","1985",gcc-109908
+gcc-92618,A,Compositae,,Aspilia,,"calendulacea",,"","(DC.) Griseb.",Unresolved,,L,TICA,7F075287-D8B6-4FE7-A1D6-88FB5D18E158,180362-1,"","","191","1879",
+gcc-113102,A,Compositae,,Aspilia,,"callosa",,"","Chodat",Synonym,,M,TICA,C0D44241-B175-4ACA-8BD6-B6E5D800B21B,,"""Bull. Herb. Boissier ser. 2, 3: 720. 1903""","","720","1903",gcc-48629
+gcc-18459,A,Compositae,,Aspilia,,"camporum",,"","Chodat",Accepted,,M,TICA,176F44D0-BAC6-4751-AFFA-2217D10CED21,,"""Bull. Herb. Boissier ser. 2, 3: 720. 1903""","","720","1903",
+gcc-27762,A,Compositae,,Aspilia,,"cardenasii",,"","H.Rob.",Accepted,,M,TICA,C6528442-AA1D-4444-A133-33509F641BD5,22150-2,"""Phytologia 56: 265 (-266), fig. 1984""","","265","1984",
+gcc-142783,A,Compositae,,Aspilia,,"caudata",,"","J.U.Santos",Accepted,,M,TICA,9A1AD482-7475-4B75-8685-FA6C79988F85,301587-2,"Revista Brasil. Bot. 19","","93","1996",
+gcc-129501,A,Compositae,,Aspilia,,"cavalcantei",,"","J.U.Santos",Accepted,,M,TICA,C7B7E35F-C59F-4F3E-89FA-DC660ED6F9F5,968133-1,"","","154","1991",
+gcc-96462,A,Compositae,,Aspilia,,"cearensis",,"","J.U.Santos",Accepted,,M,TICA,068BB3EA-AABE-4737-AB41-91995A6559A5,992231-1,"","","210","1994",
+gcc-104980,A,Compositae,,Aspilia,,"chariensis",,"","O.Hoffm. & Muschl. ex A.Chev.",Unresolved,,L,TICA,114DC1CF-AC61-4EED-AC6A-A4ABFC7306E3,180365-1,"""Etudes Fl. Afr. Centr. Franc. i. 175 (1913), sphalm.""","","""i. 175 , sphalm.""","1913",
+gcc-98990,A,Compositae,,Aspilia,,"chevalieri",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,72F66FA8-5841-4F1F-9C58-975C1A160603,180366-1,"","","115","1910",
+gcc-38372,A,Compositae,,Aspilia,,"chrysops",,"","S.Moore",Synonym,,M,TICA,5634B29D-A5D9-4F0D-BD7E-473195AAB9DB,,"","","","1900",gcc-11589
+gcc-4169,A,Compositae,,Aspilia,,"ciliata",,"","(Schumach.) Wild",Synonym,,M,TICA,5C477873-D37A-45FF-9415-07C2D49C309F,180368-1,"","","41","1967",gcc-28535
+gcc-92853,A,Compositae,,Aspilia,,"clausseniana",,"","Baker",Accepted,,M,TICA,5924C1A0-D834-4127-9674-898395C870C7,,"","","202","1884",
+gcc-102762,A,Compositae,,Aspilia,,"congoensis",,"","S.Moore",Synonym,,M,TICA,D2966243-DEC1-427A-9199-9FDD2DA16081,180370-1,"","","45","1920",gcc-35999
+gcc-14925,A,Compositae,,Aspilia,,"cordifolia",,"","J.U.Santos",Accepted,,M,TICA,9C909637-0BF7-462B-9C6A-1BA2D3059D12,,"","","","1987",
+gcc-91153,A,Compositae,,Aspilia,,"costa-ricensis",,"","Klatt ex T.Durand & Pittier",Unresolved,,L,TICA,ED90240B-DCCF-4DBC-94E9-85B289A31DE1,180371-1,"","","201","1893",gcc-117295
+gcc-138930,A,Compositae,,Aspilia,,"costaricensis",,"","(Benth.) Klatt",Synonym,,M,TICA,F6185202-7688-4D58-A53B-F1A208160E92,22151-2,"","","201","1892",gcc-117295
+gcc-105674,A,Compositae,,Aspilia,,"courtetii",,"","O.Hoffm. & Muschl.",Synonym,,L,TICA,CCE2A4C2-8EC8-4549-AA8E-A614EA984EF1,180372-1,"","","116","1910",gcc-18902
+gcc-24664,A,Compositae,,Aspilia,,"culuensis",,"","S.Moore",Synonym,,M,TICA,C15A1454-3064-4048-9805-2D90822AFF70,,"","","","1927",gcc-93094
+gcc-103101,A,Compositae,,Aspilia,,"cupulata",,"","S.F.Blake",Synonym,,L,TICA,C24E2E2F-9CDD-407B-9FCE-A08D3920DC42,22152-2,"Contr. U. S. Natl. Herb. 20","","421","1921",gcc-77614
+gcc-124420,A,Compositae,,Aspilia,,"cuyabensis",,"","Malme",Synonym,,L,TICA,364C9BF5-9077-481C-8CF4-D0A810CA48E6,22153-2,"Ark. Bot. 24A(8)","","44","1932",gcc-16057
+gcc-10634,A,Compositae,,Aspilia,,"cylindrocephala",,"","H.Rob.",Accepted,,L,TICA,B053D78B-6BB6-40A4-BE4D-13E22AB4D17E,272756-2,"Phytologia 56","","266","1984",
+gcc-44744,A,Compositae,,Aspilia,,"decumbens",,"","D.J.N.Hind",Synonym,,L,TICA,0D35539D-3D85-4C23-86F0-52DF50995D19,302598-2,"Kew Bull. 49(3)","","517","1994",gcc-1220
+gcc-13172,A,Compositae,,Aspilia,,"dewevrei",,"","O.Hoffm.",Synonym,,M,TICA,B7B87671-1CC4-45F0-8B33-188CC1041FD5,,"","","","",gcc-28535
+gcc-89874,A,Compositae,,Aspilia,,"dewevrei",,"","O.Hoffm. ex T.Durand & De Wild.",Unresolved,,L,TICA,90FF4B34-1A3A-45EF-83A5-82BC6CB75872,180376-1,"","","","1900",gcc-28535
+gcc-98012,A,Compositae,,Aspilia,,"diamantinae",,"","J.U.Santos",Accepted,,M,TICA,9BF1F2A4-4F05-41C4-8E97-952BF13B8C23,300955-2,"Revista Brasil. Bot. 19","","96","1996",
+gcc-97139,A,Compositae,,Aspilia,,"diffusiflora",,"","H.Rob.",Accepted,,L,TICA,AD9F58D5-BCD4-44BB-845D-9332D26623EF,,"Phytologia 55","","416","1984",
+gcc-123080,A,Compositae,,Aspilia,,"diniz-cruzeanae",,"","J.U.Santos",Accepted,,M,TICA,14027A4E-0CF2-4371-A53F-CD7E5F0AF172,,"""Revista Brasil. Bot. 19: 102, fig. 1996""","","""102, fig""","1996",
+gcc-82722,A,Compositae,,Aspilia,,"diniz-cruziana",,"","J.U.Santos",Accepted,,M,TICA,5102E6C5-5A64-4D0F-9C27-72AF48213706,306074-2,"","","102","1996",
+gcc-92598,A,Compositae,,Aspilia,,"discolor",,"","J.U.Santos",Accepted,,M,TICA,2A6376D4-7CE8-422D-833B-88F14CB36397,996549-1,"","","113","1995",
+gcc-123246,A,Compositae,,Aspilia,,"duarteana",,"","J.U.Santos",Accepted,,M,TICA,E7372E30-A4AA-4A68-A5C5-CDDAAF4EF846,305623-2,"Revista Brasil. Bot. 19","","90","1996",
+gcc-38596,A,Compositae,,Aspilia,,"eckendorfii",,"","Philipson",Accepted,,M,TICA,709DAB35-9841-4899-8CD7-479F401862B3,180377-1,"","","86","1939",
+gcc-107258,A,Compositae,,Aspilia,,"ecliptaefolia",,"","(DC.) Baker",Synonym,,M,TICA,D80551E5-6D3C-43EB-A7F3-A9AB0B6404E1,,"","","197","1884",gcc-22248
+gcc-77797,A,Compositae,,Aspilia,,"eenii",,"","S.Moore",Accepted,,M,TICA,3B2777C8-4D6B-45A0-9425-67AD8C484D52,,"","","345","1903",
+gcc-13887,A,Compositae,,Aspilia,,"eggersii",,"","Hieron.",Synonym,,M,TICA,CBFBDCD7-2F7E-49CF-807D-19CF63B761DD,310047-2,"Bot. Jahrb. Syst. 28: 606. 1901","","606","1901",gcc-127312
+gcc-133834,A,Compositae,,Aspilia,,"eglerii",,"","J.U.Santos",Accepted,,M,TICA,26E26015-F0A9-4E26-8A45-E664A9FAA7D2,301164-2,"Revista Brasil. Bot. 19","","99","1996",
+gcc-117761,A,Compositae,,Aspilia,,"elata",,"","Pilg.",Accepted,,M,TICA,58C07AE1-F0E7-4498-A763-C165B585188D,307620-2,"Bot. Jahrb. Syst. 30: 203. 1901","","203","1901",
+gcc-150952,A,Compositae,,Aspilia,,"elata",,"","Pilger",Unresolved,,L,TICA,17A4C7C8-B07E-45B5-AAFE-79B855E33ECE,,"","","","",
+gcc-8700,A,Compositae,,Aspilia,,"elata",,"","Lindau",Unresolved,,L,TICA,3BAD78B6-5DC6-4C63-A796-1041BE374D8D,,"","","203","1901",
+gcc-105936,A,Compositae,,Aspilia,,"elegans",,"","(Gardner) Benth. & Hook.f.",Synonym,,L,TICA,71BC4F52-6709-4406-B6E2-A6AE6C96BFB1,180382-1,"Gen. ii. 372.","","ii. 372.","",gcc-100774
+gcc-27489,A,Compositae,,Aspilia,,"elegans",,"","(C.D.Adams) J.-P.Lebrun & Stork",Accepted,,M,TICA,221C0FA3-509D-475F-B4C2-32D2B59651D9,,"","","","",
+gcc-82068,A,Compositae,,Aspilia,,"elegans",,"","(Gardner) Hook.f. & Hook.f.",Unresolved,,L,TICA,CF0120CF-44BE-4097-BC87-713498387155,1001476-2,"","","","",
+gcc-90017,A,Compositae,,Aspilia,,"elegans",,"","(Gardner) Benth. & Hook.f. ex B.D.Jacks.",Synonym,,L,TICA,ACB8DA51-A34E-4DD5-988E-8308558E991D,,"Index Kew. 1: 217 (1893)","","217","1893",gcc-100774
+gcc-21168,A,Compositae,,Aspilia,,"elliptica",,"","(DC.) Baker",Synonym,,L,TICA,D373CCE5-5032-4A50-B57A-271A37719501,,"","","192","1884",gcc-100774
+gcc-35864,A,Compositae,,Aspilia,,"engleriana",,"","Muschl.",Synonym,,M,TICA,D9F63F71-D366-4CF5-8650-427EEDD25459,,"","","","1914",gcc-93094
+gcc-78830,A,Compositae,,Aspilia,,"epascopalis",,"","H.Rob.",Unresolved,,L,TICA,A2513DB3-1A39-46DD-AD72-6A13592BEDDF,303574-2,"Phytologia 54: 55. 1983","","55","1983",
+gcc-143538,A,Compositae,,Aspilia,,"erosa",,"","J.U.Santos",Accepted,,M,TICA,05BE8BEE-3A5C-4A9D-9EF1-FC21B801D026,304412-2,"Revista Brasil. Bot. 19","","90","1996",
+gcc-27250,A,Compositae,,Aspilia,,"espinhacensis",,"","J.U.Santos",Accepted,,M,TICA,9702A6F1-569E-4973-8C6F-326719E20F6B,272757-2,"","","55","1987",
+gcc-112225,A,Compositae,,Aspilia,,"eylesii",,"","S.Moore",Synonym,,M,TICA,30F3504F-52CA-4E16-B293-B4E842D4F49D,180385-1,"","","45","1907",gcc-50554
+gcc-107119,A,Compositae,,Aspilia,,"falconiensis",,"","V.M.Badillo",Synonym,,M,TICA,E7D73036-E89C-406A-885C-A960BC42DF14,311398-2,"Ernstia 9","","13","1983",gcc-105166
+gcc-119669,A,Compositae,,Aspilia,,"fischeri",,"","O.Hoffm.",Accepted,,M,TICA,85CEE45A-443D-4EAC-9B92-C5B21BAF46A6,,"","","","1895",
+gcc-110238,A,Compositae,,Aspilia,,"floribunda",,"","(Gardner) Baker",Accepted,,L,TICA,3CA3A20F-5F79-485C-A949-B06C24458E5A,,"","","198","1884",
+gcc-100774,A,Compositae,,Aspilia,,"foliacea",,"","(Spreng.) Baker",Accepted,,L,TICA,9A0B0B91-4D75-4257-9B19-9B62A8CF4542,,"","","193","1884",
+gcc-70788,A,Compositae,,Aspilia,,"foliacea",var.,"angustifolia","(Gardner) Baker",Synonym,,L,TICA,DDD73DAD-127F-47DC-BF0F-F0CDD6265F9F,22106-2,"","","193","1884",gcc-100774
+gcc-146921,A,Compositae,,Aspilia,,"foliacea",var.,"foliacea","",Synonym,,L,TICA,C2181740-E15E-409B-B4E3-229577750612,,"","","","",gcc-100774
+gcc-51597,A,Compositae,,Aspilia,,"foliacea",var.,"hirsuta","(Gardner) Baker",Synonym,,L,TICA,B130E5CB-F1AF-4E63-BDE3-5FAB071BFCF6,22107-2,"","","193","1884",gcc-100774
+gcc-35804,A,Compositae,,Aspilia,,"foliacea",var.,"oblonga","Baker",Synonym,,L,TICA,9D187C5F-B07E-498F-835F-42632D32E3D1,22108-2,"","","193","1884",gcc-100774
+gcc-23112,A,Compositae,,Aspilia,,"foliosa",,"","(Gardner) Baker",Accepted,,M,TICA,51A91422-AD55-4ADA-AC34-2ACA088B1C08,,"Fl. Bras. 6(3): 203 (1884)","","203","1884",
+gcc-44255,A,Compositae,,Aspilia,,"foliosa",,"","Benth. & Hook.f.",Unresolved,,L,TICA,B21582BA-C75F-4AAB-B713-51F26700BAC8,180389-1,"Gen. ii. 372.","","ii. 372.","",
+gcc-117498,A,Compositae,,Aspilia,,"fontinalis",,"","Hiern",Synonym,,M,TICA,945C2BB5-2895-4315-AE96-C0D0872A35D8,,"","","578","1898",gcc-39506
+gcc-126090,A,Compositae,,Aspilia,,"fruticosa",,"","(Gardner) Baker",Accepted,,L,TICA,EBD90533-7189-4E77-9D0F-D4848E95772C,180391-1,"","","204","1884",
+gcc-23036,A,Compositae,,Aspilia,,"gayana",,"","(Cass.) Benth. & Hook.f. ex B.D.Jacks.",Synonym,,M,TICA,AC869FD2-09C3-4F07-BCD1-2AA6504A6246,,"Index Kew. 1: 217 (1893)","","217","1893",gcc-37816
+gcc-42315,A,Compositae,,Aspilia,,"gayana",,"","Benth. & Hook.f.",Unresolved,,L,TICA,9292A38E-14C3-49FF-8E2C-4E6375CA3B8D,180392-1,"Gen. ii. 372.","","ii. 372.","",
+gcc-141714,A,Compositae,,Aspilia,,"gillettii",,"","Wild",Synonym,,M,TICA,41836C61-E3E5-4E4B-82AB-F801AF3B8D62,180393-1,"","","215","1966",gcc-11589
+tro-2704548,A,Compositae,,Aspilia,,"glabia",,"","Baker",Unresolved,,L,TRO,2704548,,"","","","",
+gcc-130138,A,Compositae,,Aspilia,,"glabra",,"","(Gardner) Benth. & Hook.f.",Synonym,,L,TICA,0D2957E2-0411-4C07-AA46-DDD77B072E75,180394-1,"Gen. ii. 372.","","ii. 372","",gcc-100774
+gcc-26706,A,Compositae,,Aspilia,,"glabra",,"","(Gardner) Benth. ex Baker",Synonym,,L,TICA,E5795525-95DE-47BF-ADA8-31587D059BC5,,"Fl. Bras. 6(3): 191 (1884)","","191","1884",gcc-100774
+gcc-144370,A,Compositae,,Aspilia,,"glaziovii",,"","Baker",Accepted,,M,TICA,0C3D5CB6-6438-400C-A811-FDED16C65225,22109-2,"Bull. Misc. Inform. Kew 1895","","106","1895",
+gcc-120263,A,Compositae,,Aspilia,,"goiazensis",,"","J.U.Santos",Accepted,,M,TICA,F969225C-64CF-404A-BF47-C716461E55F6,996547-1,"","","109","1995",
+gcc-80545,A,Compositae,,Aspilia,,"gondensis",,"","O.Hoffm.",Synonym,,M,TICA,D56ECC3D-2F2F-424C-8F91-6DD07B1E496A,180396-1,"","","413","1895",gcc-95303
+gcc-115765,A,Compositae,,Aspilia,,"gracilis",,"","(Gardner) Baker",Synonym,,L,TICA,31826000-B6A5-432F-91EC-BCEF903A3599,306032-2,"Fl. Bras. (Martius) 6(3)","","198","1884",gcc-110238
+gcc-124069,A,Compositae,,Aspilia,,"grazielae",,"","J.U.Santos",Accepted,,M,TICA,26B308CA-CDE3-4272-84A8-CFD8FC9AA6BE,899230-1,"","","71","1982",
+gcc-105249,A,Compositae,,Aspilia,,"grosseserrata",,"","M.E.Jones",Synonym,,M,TICA,7129DBEB-A4AA-490D-9D6C-A531F587895B,272759-2,"Contr. W. Bot. 18","","84","1933",gcc-49578
+gcc-83845,A,Compositae,,Aspilia,,"guineensis",,"","O.Hoffm. & Muschl.",Synonym,,M,TICA,EAE374F2-ADF0-4821-A645-7528A9523701,180399-1,"","","116","1910",gcc-83812
+gcc-77926,A,Compositae,,Aspilia,,"hassleriana",,"","Chodat",Accepted,,M,TICA,39D30060-E15E-4EF0-81E4-67F7F5A994FD,,"""Bull. Herb. Boissier ser. 2, 2: 391. 1902""","","391","1902",
+gcc-151925,A,Compositae,,Aspilia,,"hassleriana",var.,"hassleriana","",Synonym,,L,TICA,5CF1F191-67CC-4B52-A266-8ECEB3351A9B,,"","","","",gcc-77926
+gcc-56136,A,Compositae,,Aspilia,,"hassleriana",var.,"scaberrima","Chodat",Synonym,,L,TICA,9784688F-5923-4E62-BF34-7C19E976C4E0,,"","","392","1902",gcc-77926
+gcc-134634,A,Compositae,,Aspilia,,"hatschbachii",,"","J.U.Santos",Accepted,,M,TICA,7A4FF206-55E1-47F3-A62C-E8356CD3A950,996546-1,"","","106","1995",
+gcc-103338,A,Compositae,,Aspilia,,"helianthoides",,"","A.Chev.",Unresolved,,L,TICA,70729F2F-A5BA-4348-84DE-A10FEF089DDB,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","370","1920",
+gcc-135078,A,Compositae,,Aspilia,,"helianthoides",,"","(Schumach. & Thonn.) Oliv. & Hiern",Accepted,,L,TICA,A8752DE3-AF28-48F2-A335-E92BDA0FA2BD,,"","","381","1877",
+gcc-98022,A,Compositae,,Aspilia,,"helianthoides",,"","Benth. & Hook.f.",Unresolved,,L,TICA,C1622C7A-C474-4409-BAD7-9531059852D2,180401-1,"Gen. ii. 372.","","ii. 372.","",
+gcc-28535,A,Compositae,,Aspilia,,"helianthoides",subsp.,"ciliata","(Schumach.) C.D.Adams",Accepted,,L,TICA,329E33E1-449D-40B6-9CDE-34C0400B5F8A,,"Webbia 12: 245 (1956)","","245","1956",
+gcc-154368,A,Compositae,,Aspilia,,"helianthoides",var.,"helianthoides","",Synonym,,L,TICA,A839EC41-599F-44DD-8100-C220A3230D09,,"","","","",gcc-135078
+gcc-64239,A,Compositae,,Aspilia,,"helianthoides",subsp.,"helianthoides","",Synonym,,L,TICA,1272B41D-B421-4C58-A32C-BCE481F99611,,"","","","",gcc-135078
+gcc-43543,A,Compositae,,Aspilia,,"helianthoides",var.,"papposa","O.Hoffm. & Muschl.",Synonym,,L,TICA,A42140BC-5F8E-4DB4-A297-50BA7A54B9BC,,"Bot. Jahrb. Syst. 50(Suppl.): 341 (1914)","","341","1914",gcc-55141
+gcc-59954,A,Compositae,,Aspilia,,"helianthoides",subsp.,"papposa","(O.Hoffm. & Muschl.) C.D.Adams",Synonym,,L,TICA,2D38EF37-3D51-4B5A-AC0F-9A9A54F59174,,"Webbia 12: 247 (1956)","","247","1956",gcc-55141
+gcc-55141,A,Compositae,,Aspilia,,"helianthoides",subsp.,"prieuriana","(DC.) C.D.Adams",Accepted,,L,TICA,78F90E09-6194-49B2-9B26-73A7BB6B2493,,"Webbia 12: 246 (1956)","","246","1956",
+gcc-89817,A,Compositae,,Aspilia,,"heringeriana",,"","H.Rob.",Accepted,,L,TICA,04A22D17-539F-4129-BEDF-8299C8C6C7F8,308674-2,"""Phytologia 56: 267 (-268), fig. 1984""","","267","1984",
+gcc-14917,A,Compositae,,Aspilia,,"hermogenesii",,"","J.U.Santos",Synonym,,L,TICA,57643501-BD3B-4AA3-992D-1B9FA1B85D66,22112-2,"","","1","1982",gcc-122386
+gcc-123819,A,Compositae,,Aspilia,,"hirsuta",,"","(Gardner) Benth. & Hook.f. ex B.D.Jacks. & Hook.f.",Synonym,,L,TICA,A4179FBE-2C62-4E68-95F2-CF452DF66458,,"Index Kew. 1: 217 (1893)","","","1893",gcc-100774
+gcc-1262,A,Compositae,,Aspilia,,"hirsuta",,"","Benth. & Hook.f.",Unresolved,,L,TICA,B6FD3AB0-BF2C-4BCD-97F5-024FF64DDCAA,180402-1,"Gen. ii. 372.","","ii. 372","",
+gcc-114509,A,Compositae,,Aspilia,,"hispida",,"","Brandegee",Synonym,,M,TICA,E09AF3EC-16E8-4042-8812-BA05BC86FFA8,22113-2,"Univ. Calif. Publ. Bot. 4","","94","1910",gcc-117295
+gcc-1220,A,Compositae,,Aspilia,,"hispidantha",,"","H.Rob.",Accepted,,L,TICA,B2BE89F6-C086-4C7A-B2F8-023F549E6EAE,309699-2,"""Phytologia 56: 268 (-269), fig. 1984""","","268","1984",
+gcc-11570,A,Compositae,,Aspilia,,"hispidula",,"","(ex Martius) Baker",Synonym,,M,TICA,13B93539-00EE-420E-A816-1594A1A2B664,272762-2,"Fl. Bras. (Martius) 6(3): 201. 1884","","201","1884",gcc-124636
+gcc-58382,A,Compositae,,Aspilia,,"hispidula",var.,"angustifolia","Hassl.",Synonym,,L,TICA,9E325FD6-25EF-499B-9A87-8E3718A2BB5E,22114-2,"Repert. Spec. Nov. Regni Veg. 14","","276","1916",gcc-124636
+gcc-149740,A,Compositae,,Aspilia,,"hispidula",var.,"hispidula","",Synonym,,L,TICA,DE648A2E-297B-4781-830E-5F4E172EA0B1,,"","","","",gcc-124636
+gcc-13235,A,Compositae,,Aspilia,,"holstii",,"","O.Hoffm.",Synonym,,M,TICA,6A3CAC3B-387B-441D-9AEF-18A7CC62B792,,"","","","1895",gcc-11589
+gcc-139833,A,Compositae,,Aspilia,,"huillensis",,"","(Hiern) S.Moore",Synonym,,M,TICA,9AEA6149-87FD-436A-91B4-F398C497E8D1,,"","","","1927",gcc-93094
+gcc-18454,A,Compositae,,Aspilia,,"induta",,"","Chodat",Synonym,,L,TICA,1A5CCEE4-0146-44D9-ACB2-2215AEEF36F6,,"""Bull. Herb. Boissier ser. 2, 3: 720. 1903""","","720","1903",gcc-37041
+gcc-133474,A,Compositae,,Aspilia,,"involucrata",,"","O.Hoffm.",Synonym,,M,TICA,EA5E3284-8ACF-43E2-AAF6-E592238FC9B5,,"","","","1895",gcc-95303
+gcc-133094,A,Compositae,,Aspilia,,"ioletae",,"","J.U.Santos",Accepted,,M,TICA,1D8118B4-EA35-4FAF-8163-E4BBC54E94A3,992229-1,"","","208","1994",
+gcc-139626,A,Compositae,,Aspilia,,"itabaianenis",,"","J.U.Santos",Accepted,,M,TICA,4DCF590B-4402-4A7E-AF04-F323454CD5CD,992232-1,"","","212","1994",
+gcc-118123,A,Compositae,,Aspilia,,"jariensis",,"","C.Jeffrey ex Pires-O'Brien",Synonym,,L,TICA,9E54EA9E-C395-49AC-8460-C232D0421002,960848-1,"","","30","1992",gcc-109908
+gcc-50359,A,Compositae,,Aspilia,,"jelskii",,"","(Hieron.) S.F.Blake",Accepted,,M,TICA,E560C060-2840-44E0-9403-5D5F83E89A07,22116-2,"Contr. U. S. Natl. Herb. 22","","619","1924",
+gcc-84671,A,Compositae,,Aspilia,,"jolyana",,"","G.M.Barroso",Accepted,,M,TICA,500EDA59-DBD1-485C-9E01-7705DB491DE5,180410-1,"","","106","1975",
+gcc-105842,A,Compositae,,Aspilia,,"jugata",,"","H.Rob.",Accepted,,L,TICA,BB076D92-C8AC-4777-ADB3-A67A96DF7324,308182-2,"""Phytologia 55: 417 (-418), fig. 1984""","","417","1984",
+gcc-76972,A,Compositae,,Aspilia,,"kakondensis",,"","S.Moore",Synonym,,M,TICA,19ED0BD8-CED9-4144-8A63-65CF9CF25326,180411-1,"","","277","1925",gcc-39506
+gcc-10614,A,Compositae,,Aspilia,,"kitsonii",,"","S.Moore",Synonym,,M,TICA,E232CBB6-2102-4ECF-8096-13D930037CF4,180412-1,"","","14","1927",gcc-130455
+gcc-126628,A,Compositae,,Aspilia,,"kotschyana",,"","Benth. & Hook.f.",Unresolved,,L,TICA,A3F625E4-B389-44AE-8E3E-D5BC3BA2A75C,180413-1,"Gen. ii. 372.","","ii. 372.","",
+gcc-138091,A,Compositae,,Aspilia,,"kotschyana",,"","Benth. & Hook.f. ex B.D.Jacks.",Synonym,Illegitimate,L,TICA,DB9D1002-71A7-443E-BD2C-EFD45488F198,,"Index Kew. 1: 217 (1893)","","217","1893",gcc-18902
+gcc-82231,A,Compositae,,Aspilia,,"kotschyana",,"","A.Chev.",Unresolved,,L,TICA,F58034E9-74C8-4A3B-8982-71944A5E9912,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","371","1920",
+gcc-18902,A,Compositae,,Aspilia,,"kotschyi",,"","(Sch.Bip. ex Hochst.) Oliv.",Accepted,,L,TICA,EC5147AA-A3D2-4D4D-A805-22E29960D138,180414-1,"","","98","1873",
+gcc-67613,A,Compositae,,Aspilia,,"kotschyi",var.,"alba","Berhaut",Accepted,,L,TICA,E942B3C1-5604-4659-B4FC-D88F971051F8,,"Trans. Linn. Soc. London 29: 98 (1873)","","","",
+gcc-51777,A,Compositae,,Aspilia,,"kotschyi",var.,"kotschyi","",Synonym,,L,TICA,98D2BA9F-0A18-4D73-B5B8-6002F9D1DC45,,"Kirkia 5: 203 (1966).","","","",gcc-18902
+gcc-51013,A,Compositae,,Aspilia,,"kunthiana",,"","(Gardner) S.F.Blake",Accepted,,M,TICA,97776B26-D452-4142-A65A-5EA38D1C5A20,22119-2,"Contr. U. S. Natl. Herb. 26","","251","1930",
+gcc-47247,A,Compositae,,Aspilia,,"laevissima",,"","(Less. ex Baker) Baker",Accepted,,L,TICA,A84AA37D-0AD3-406C-9A2C-5783E1630CD7,306033-2,"Fl. Bras. (Martius) 6(3)","","202","1884",
+gcc-92433,A,Compositae,,Aspilia,,"lanceolata",,"","S.F.Blake",Synonym,,M,TICA,AAD8743A-A7A5-4C85-8140-889ADDDAB80A,22120-2,"Contr. U. S. Natl. Herb. 22","","619","1924",gcc-77210
+gcc-35035,A,Compositae,,Aspilia,,"latifolia",,"","Oliv. & Hiern",Accepted,,M,TICA,4074BD4E-8C49-42B8-A836-40F6D57B5A07,180418-1,"","","379","1877",
+gcc-45186,A,Compositae,,Aspilia,,"latifolia",,"","A.Chev.",Unresolved,,L,TICA,CD161195-DA95-49F2-8594-53BF0AF0581A,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","371","1920",
+gcc-16057,A,Compositae,,Aspilia,,"latissima",,"","Malme",Accepted,,L,TICA,571F965A-C468-4E7F-9FD1-1DB60F8BD2AB,,"","","","1899",
+gcc-94436,A,Compositae,,Aspilia,,"laxa",,"","(DC.) S.F.Blake",Synonym,,M,TICA,8FFDA7DC-8917-440C-BDE9-8CF354582B52,22122-2,"Contr. Gray Herb. 54: 187","","187","1918",gcc-112501
+gcc-96134,A,Compositae,,Aspilia,,"lehmannii",,"","Hieron.",Synonym,,M,TICA,1FC10DB0-BFC2-4E62-982A-90DCC0B14EED,309039-2,"Bot. Jahrb. Syst. 28: 605. 1901","","605","1901",gcc-41647
+tro-2704555,A,Compositae,,Aspilia,,"leucanthema",,"","Chodat",Accepted,,M,TRO,2704555,22124-2,"Bull. Herb. Boissier, sér. 2,","2: 391","391","1902",
+gcc-133002,A,Compositae,,Aspilia,,"leucanthemum",,"","Chodat",Accepted,,M,TICA,2D3F13F9-7201-4770-ACE0-E48BA92279DF,,"""Bull. Herb. Boissier ser. 2, 2: 391. 1902""","","391","1902",
+gcc-82781,A,Compositae,,Aspilia,,"leucoglossa",,"","Malme",Accepted,,L,TICA,40952950-29BF-496E-8D4C-72CF1628FBA8,,"","","","1899",
+gcc-128212,A,Compositae,,Aspilia,,"linearifolia",,"","Oliv. & Hiern",Synonym,,M,TICA,424D2CB0-C77A-47C3-8F8F-D97C85A132BD,180424-1,"","","380","1877",gcc-43511
+gcc-39808,A,Compositae,,Aspilia,,"linearifolia",,"","Baker",Synonym,Illegitimate,M,TICA,EE39CDB2-CCF8-462F-8781-49DBC51CFE1F,,"","","192","1884",gcc-118829
+gcc-118829,A,Compositae,,Aspilia,,"linearis",,"","S.F.Blake",Accepted,,M,TICA,9B342A8B-E295-41A0-BC4F-C3E2292B2E7C,290345-2,"Contr. U. S. Natl. Herb. 22","","619","1924",
+gcc-143133,A,Compositae,,Aspilia,,"lucidula",,"","S.F.Blake",Synonym,,M,TICA,3DF1C19C-D728-43CA-9B49-FB3315F24281,312076-2,"Proc. Biol. Soc. Wash. 36: 52. 1923","","52","1923",gcc-52774
+gcc-109665,A,Compositae,,Aspilia,,"macrolepis",,"","S.F.Blake",Synonym,,M,TICA,06DDA660-3D66-4E34-A521-AF29ECB1EE9D,311189-2,"Contr. U. S. Natl. Herb. 22: 617. 1924","","617","1924",gcc-94109
+gcc-37720,A,Compositae,,Aspilia,,"macrorrhiza",,"","Chiov.",Accepted,,M,TICA,97FA4BE9-C969-4DFC-B5A8-45F2D5DD4548,180429-1,"","","105","1916",
+gcc-138884,A,Compositae,,Aspilia,,"malaissei",,"","Lisowski",Accepted,,M,TICA,9050E3AC-729A-406A-BE87-F18C1D02F50C,,"","","557","1988",
+gcc-101346,A,Compositae,,Aspilia,,"malinvaudii",,"","Glaz.",Unresolved,,L,TICA,EF642FDD-2DE3-44F5-B600-9C9789420FF1,22129-2,"Bull. Soc. Bot. France 57(Mém. 3e)","","412","1910",
+gcc-77614,A,Compositae,,Aspilia,,"martii",,"","Baker",Accepted,,L,TICA,12631241-5DEC-462A-BA07-6747644E2400,305523-2,"Fl. Bras. (Martius) 6(3)","","195","1884",
+gcc-126446,A,Compositae,,Aspilia,,"matogrossensis",,"","J.U.Santos",Accepted,,M,TICA,591E1993-2C31-4AD5-8E6B-D55AC8A2A494,,"","","111","",
+gcc-76064,A,Compositae,,Aspilia,,"mendoncae",,"","Wild",Accepted,,M,TICA,867C6DA8-5315-4904-BA01-63CC9289D737,180432-1,"","","212","1966",
+gcc-106821,A,Compositae,,Aspilia,,"meridensis",,"","V.M.Badillo",Synonym,,L,TICA,F65AC66A-BFE1-405E-8ABB-A8B1E5A34D2D,903621-1,"","","15","1984",gcc-94274
+gcc-102332,A,Compositae,,Aspilia,,"mexicana",,"","(Sch.Bip.) Benth. & Hook.f.",Synonym,,M,TICA,830603B7-9C61-4237-9EF0-9EE196FD48BA,,"Gen. ii. 372.","","","1873",gcc-94080
+gcc-17039,A,Compositae,,Aspilia,,"mexicana",,"","(Sch.Bip.) Hemsl.",Unresolved,,L,TICA,4FA2820A-F3FF-43F4-9C0F-1F7E111C474F,1173799-2,"","","","",
+gcc-92460,A,Compositae,,Aspilia,,"mexicana",,"","(Sch.Bip.) Benth. & Hook.f. ex B.D.Jacks.",Synonym,,M,TICA,ED002FE6-3D37-4610-80BD-88A7EBFBDB43,,"Index Kew. 1: 217 (1893)","","217","1893",gcc-94080
+gcc-37792,A,Compositae,,Aspilia,,"mildbraedii",,"","Muschl.",Accepted,,M,TICA,A58AB57C-8A5E-4864-88EF-46165D01F4B2,,"","","","1911",
+gcc-86613,A,Compositae,,Aspilia,,"minima",,"","Humbert",Accepted,,M,TICA,58B8D595-79EF-46AF-868C-7B4ED4612CDB,,"","","","1923",
+gcc-78735,A,Compositae,,Aspilia,,"monocephala",,"","Baker",Synonym,,M,TICA,28EE13EA-7084-44A2-8332-69D8963EEF3B,180436-1,"","","152","1898",gcc-11589
+gcc-114989,A,Compositae,,Aspilia,,"monopetala",,"","Baker",Unresolved,,L,TICA,A32C5951-D722-4546-9A62-BB2318EC04AB,180437-1,"""Bull. Misc. Inform. Kew 1898, 152.""","","152","",
+gcc-21163,A,Compositae,,Aspilia,,"monopetala",,"","Dyer",Unresolved,,L,TICA,1FCF563E-04AE-40EC-8E9D-27185FA5DBE6,180438-1,"""Ind. Kew. Suppl. II. 19, sphalm.""","","""II. 19, sphalm.""","",
+gcc-36122,A,Compositae,,Aspilia,,"montevidensis",,"","(Spreng.) Kuntze",Accepted,,M,TICA,B3F32027-B856-42F5-AF3C-42FC2D0FE3C0,22130-2,"Revis. Gen. Pl. 3[3]: 129","","129","1898",
+gcc-35879,A,Compositae,,Aspilia,,"montevidensis",var.,"angustifolia","(DC.) Kuntze",Synonym,,L,TICA,D2D5BECA-1A4B-47A5-9DC2-4288C7949B17,,"Revis. Gen. Pl. 3(2): 120 (1898)","","120","1898",gcc-36122
+gcc-10755,A,Compositae,,Aspilia,,"montevidensis",var.,"montevidensis","",Synonym,,L,TICA,3D458330-CEF7-4555-9AFA-141F721071A8,,"Revis. Gen. Pl. 3(2): 129 (1898)","","129","1898",gcc-36122
+gcc-94537,A,Compositae,,Aspilia,,"mortonii",,"","C.D.Adams",Synonym,,M,TICA,EFCF7A2F-391A-4862-B0ED-8D36A8887699,,"","","240","",gcc-43511
+gcc-11589,A,Compositae,,Aspilia,,"mossambicensis",,"","(Oliv.) Wild",Accepted,,M,TICA,C3EA824D-069A-4A42-B270-159A77242F80,180441-1,"","","221","1966",
+gcc-8806,A,Compositae,,Aspilia,,"multiflora",,"","Fenzl ex Oliv. & Hiern",Synonym,,M,TICA,1609B46D-C49B-455A-AC3A-107CEAECE5F1,180442-1,"","","378","1877",gcc-55141
+gcc-39506,A,Compositae,,Aspilia,,"natalensis",,"","(Sond.) Wild",Accepted,,M,TICA,1BF38D52-681A-4436-80D3-494F964FE006,180443-1,"","","213","1966",
+gcc-117192,A,Compositae,,Aspilia,,"nigropunctata",,"","S.F.Blake",Synonym,,M,TICA,83C96D3B-2B64-43D0-9D47-C012EA8B7F6E,22132-2,"Proc. Biol. Soc. Wash. 34","","119","1921",gcc-37013
+gcc-12426,A,Compositae,,Aspilia,,"noneaefolia",,"","(DC.) S.F.Blake",Accepted,,L,TICA,FE0AE1E1-5057-4AB5-B523-172B5054CE1F,22133-2,"Contr. Gray Herb. 54: 188","","188","1918",
+gcc-139015,A,Compositae,,Aspilia,,"oblonga",,"","(Gardner) Baker",Unresolved,,L,TICA,D3EF97E5-B3B6-47FF-9024-F1D2BA7A9CC5,1140858-2,"Fl. Bras. (Martius) 6(3)","","198","1884",gcc-29013
+gcc-7891,A,Compositae,,Aspilia,,"ovalifolia",,"","(DC.) Baker",Accepted,,L,TICA,12DD8800-C787-43A3-AF09-0EB256051443,,"","","199","1884",
+gcc-95510,A,Compositae,,Aspilia,,"pachyphyllum",,"","Sch.Bip. ex Klatt",Synonym,,M,TICA,203D4BC8-3D82-406B-91C1-8F8AEB34F03F,180448-1,"Leopoldina 23","","143","1887",gcc-31382
+gcc-15869,A,Compositae,,Aspilia,,"pallida",,"","Philipson",Synonym,,M,TICA,3BBEE5AB-BA04-473B-BC81-1D5E32A9548A,,"","","","1939",gcc-18905
+gcc-48038,A,Compositae,,Aspilia,,"paludosa",,"","Berhaut",Accepted,,M,TICA,561CFAB9-DEA0-40B4-ADAE-5902C43ED0E8,180450-1,"Bull. Soc. Bot. France 101","","375","1955",
+gcc-109908,A,Compositae,,Aspilia,,"paraensis",,"","(Huber) J.U.Santos",Accepted,,L,TICA,58750E28-6721-48A1-A097-AFBB7C005E78,910046-1,"","","7","1982",
+gcc-124659,A,Compositae,,Aspilia,,"paranensis",,"","Malme",Synonym,,M,TICA,51A502E9-A198-43D6-8422-D139CE4DD297,22136-2,"","","88","1933",gcc-49407
+gcc-85861,A,Compositae,,Aspilia,,"parvifolia",,"","Mattf.",Synonym,,M,TICA,A5804FB2-78E3-48FC-8AF9-799B613CADBD,22137-2,"Notizbl. Bot. Gart. Berlin-Dahlem 9","","386","1925",gcc-23112
+gcc-109744,A,Compositae,,Aspilia,,"pascalioides",,"","Griseb.",Accepted,,M,TICA,DCA84B25-BEB0-4BE8-839F-AF5BFE864552,305888-2,"Abh. Königl. Ges. Wiss. Göttingen 24","","191","1879",
+gcc-11491,A,Compositae,,Aspilia,,"pastazensis",,"","H.Rob.",Synonym,,M,TICA,B44F76D4-01F8-49CC-BE64-15708D1B53CF,,"""Phytologia 55: 419, fig. 1984""","","","1984",gcc-110716
+gcc-114622,A,Compositae,,Aspilia,,"patentipilis",,"","S.F.Blake",Synonym,,L,TICA,4EFF0A6A-74BD-41FE-A528-BA47A9EEAB92,310147-2,"Contr. U. S. Natl. Herb. 22: 617. 1924","","617","1924",gcc-126887
+gcc-34279,A,Compositae,,Aspilia,,"pereirae",,"","J.U.Santos",Accepted,,M,TICA,AD478B66-D912-4976-B194-3F88A77B254A,306105-2,"Revista Brasil. Bot. 19","","93","1996",
+gcc-104702,A,Compositae,,Aspilia,,"phyllostachya",,"","Baker",Accepted,,M,TICA,DEBC7278-C66E-4F7B-92B7-A408710DF964,300898-2,"Fl. Bras. (Martius) 6(3)","","201","1884",
+gcc-127044,A,Compositae,,Aspilia,,"platyphylla",,"","(Baker) S.F.Blake",Accepted,,M,TICA,B9E0FE58-67C0-4AE4-B992-D6B0AAAD83A3,22140-2,"Contr. Gray Herb. 54: 188","","188","1918",
+gcc-95303,A,Compositae,,Aspilia,,"pluriseta",,"","Schweinf. ex Schweinf.",Accepted,,M,TICA,E27416DE-B6D1-43C0-9471-8EFEB01BCBF7,,"","","","1892",
+gcc-23570,A,Compositae,,Aspilia,,"pluriseta",subsp.,"gondensis","(O.Hoffm.) Wild",Synonym,,L,TICA,9D2CC4EF-76AE-4881-828A-2B9533A3F0BC,,"Kirkia 5: 212 (1966)","","212","1966",gcc-95303
+gcc-65562,A,Compositae,,Aspilia,,"pluriseta",subsp.,"pluriseta","",Synonym,,L,TICA,308CEFB4-AA7C-4491-954A-C7B89812E250,,"","","","",gcc-95303
+gcc-84236,A,Compositae,,Aspilia,,"podophylla",,"","Baker",Accepted,,L,TICA,7F3B2404-55DD-489F-B830-76141988E13E,303209-2,"Fl. Bras. (Martius) 6(3)","","200","1884",
+gcc-121938,A,Compositae,,Aspilia,,"pohlii",,"","(Sch.Bip. ex Baker) Baker",Accepted,,M,TICA,CE9A1522-52C8-4BCE-BDE0-CAE5D9778D31,,"","","201","1884",
+gcc-94447,A,Compositae,,Aspilia,,"polycephala",,"","S.Moore",Synonym,,M,TICA,11D12C31-16E5-4A28-A050-8CFA427560CB,,"","","","1907",gcc-67613
+gcc-24463,A,Compositae,,Aspilia,,"potosina",,"","Brandegee",Synonym,,M,TICA,590BE77E-63E4-4F46-B493-2D28F4760288,22141-2,"Univ. Calif. Publ. Bot. 4","","280","1912",gcc-32073
+gcc-108651,A,Compositae,,Aspilia,,"prieureana",,"","Benth. & Hook.f.",Unresolved,,L,TICA,3D76E228-A8C6-4C96-82BB-ACCBB980BAB5,180462-1,"Gen. ii. 372.","","ii. 372.","",
+gcc-117473,A,Compositae,,Aspilia,,"prieureana",,"","(DC.) Benth. & Hook.f. ex B.D.Jacks.",Synonym,,M,TICA,7FA6B9A7-0BCD-43B5-B30A-C0C0EBDA0147,,"Index Kew. 1: 217 (1893)","","217","1893",gcc-28535
+gcc-26665,A,Compositae,,Aspilia,,"procumbens",,"","Baker",Accepted,,L,TICA,80F88C2F-505F-4D68-B6C7-314328B9ECBC,304111-2,"Fl. Bras. (Martius) 6(3)","","194","1884",
+gcc-119506,A,Compositae,,Aspilia,,"prostrata",,"","J.U.Santos",Accepted,,M,TICA,E3200585-23E9-4749-81D2-C550164C0844,306481-2,"Revista Brasil. Bot. 19","","88","1996",
+gcc-81647,A,Compositae,,Aspilia,,"pseudolinearifolia",,"","A.A. Senz & Bender",Unresolved,,L,TICA,E23710FE-C531-42F9-B01B-704FF79D9DBD,,"","","","",
+gcc-98798,A,Compositae,,Aspilia,,"pseudoviguiera",,"","H.Rob.",Synonym,,L,TICA,15D65A8E-F3D3-46C4-B8BA-96E3545B9B01,310148-2,"""Phytologia 56: 269 (-270), fig. 1984""","","269","1984",gcc-110238
+gcc-136448,A,Compositae,,Aspilia,,"pseudoyedaea",,"","H.Rob.",Accepted,,L,TICA,4A6B1BCF-FACD-4F26-9313-EC3EBE76A596,307838-2,"""Phytologia 56: 270 (-271), fig. 1984""","","270","1984",
+gcc-96568,A,Compositae,,Aspilia,,"purpurea",,"","Greenm.",Synonym,,M,TICA,AC4F606E-7B59-42C6-BA5C-91DAE852B1DA,272766-2,"Proc. Amer. Acad. Arts 40: 39. 1904","","39","1904",gcc-79037
+gcc-17010,A,Compositae,,Aspilia,,"pusilla",,"","Baker",Synonym,,L,TICA,3C2375AE-846B-46AF-A71E-1F700F4F09C9,300573-2,"Fl. Bras. (Martius) 6(3)","","193","1884",gcc-100774
+gcc-76643,A,Compositae,,Aspilia,,"quinquenervis",,"","S.F.Blake",Synonym,,M,TICA,C5D2A2A4-2810-4813-A7B3-6521297CBB74,310661-2,"J. Wash. Acad. Sci. 18: 26. 1928","","26","1928",gcc-20927
+gcc-108411,A,Compositae,,Aspilia,,"ramagii",,"","Ridl.",Synonym,,M,TICA,880D2E73-0969-40AE-9F93-AC361C18782D,22144-2,"""J. Linn. Soc., Bot. 27""","","42","1890",gcc-33657
+gcc-136057,A,Compositae,,Aspilia,,"ramosissima",,"","(Gardner) H.Rob.",Unresolved,Illegitimate,L,TICA,26D10864-001E-4D2B-BFE3-EB48EEAC6695,,"","","","",
+gcc-23435,A,Compositae,,Aspilia,,"reflexa",,"","(Sch.Bip. ex Baker) Baker",Accepted,,M,TICA,1F215943-F3CF-4DFF-9CF0-2B6371F47C44,308693-2,"Fl. Bras. (Martius) 6(3)","","196","1884",
+gcc-27156,A,Compositae,,Aspilia,,"reticulata",,"","Baker",Accepted,,L,TICA,9CD7FAEB-9726-4D85-830A-3237FE668FC7,,"","","202","1884",
+gcc-141424,A,Compositae,,Aspilia,,"retroflexa",,"","S.F.Blake",Synonym,,L,TICA,4DCD8B36-4361-4B68-A569-F7634F37F694,22146-2,"Contr. U. S. Natl. Herb. 22: 618. 1924","","618","1924",gcc-47055
+gcc-32761,A,Compositae,,Aspilia,,"riedelii",,"","Baker",Accepted,,M,TICA,5FF98738-722E-43C1-9EF6-3CBEAD52D7FB,303521-2,"Fl. Bras. (Martius) 6(3)","","196","1884",
+gcc-103076,A,Compositae,,Aspilia,,"ritellii",,"","Chiov.",Synonym,,M,TICA,68433D55-F694-41FE-B309-A07C30A30334,180472-1,"Fl. Somala 2","","266","1932",gcc-11589
+gcc-47520,A,Compositae,,Aspilia,,"rosei",,"","Greenm.",Synonym,,M,TICA,DB64EC35-41F5-4EC0-A445-580A7C9084AE,22147-2,"Proc. Amer. Acad. Arts 40","","39","1904",gcc-139822
+gcc-52464,A,Compositae,,Aspilia,,"rubra",,"","Aristeg.",Synonym,,M,TICA,5F6D4E4F-1B74-4D99-B230-61404450167E,22148-2,"Mem. New York Bot. Gard. 9: 369. 1957","","369","1957",gcc-36567
+gcc-16185,A,Compositae,,Aspilia,,"rudis",,"","Oliv. & Hiern",Accepted,,L,TICA,4D232C85-5F4C-42D0-BA0B-1DF2B58DAA3C,180475-1,"","","380","1877",
+gcc-30832,A,Compositae,,Aspilia,,"rudis",,"","A.Chev.",Unresolved,,L,TICA,7F58C2F4-294A-44AA-A0D7-39153EAA8B61,,"Exploration Botanique de l'Afrique Occidentale Francaise  ...","","371","1920",
+gcc-18905,A,Compositae,,Aspilia,,"rudis",subsp.,"fontinaloides","C.D.Adams",Accepted,,L,TICA,56A50551-4EC3-4EFF-ACBE-22E37964C0FB,,"Webbia 12:","","233","1956",
+gcc-57450,A,Compositae,,Aspilia,,"rudis",subsp.,"rudis","",Synonym,,L,TICA,17DFDCA6-2685-451A-900D-86631BC61186,,"","","","",gcc-16185
+gcc-118541,A,Compositae,,Aspilia,,"rugulosa",,"","Humbert",Accepted,,M,TICA,AF726AC7-7766-43C6-A3AE-C3316D4EC428,,"","","","1958",
+gcc-59279,A,Compositae,,Aspilia,,"rugulosa",var.,"rugulosa","",Synonym,,L,TICA,7E394A37-7C2E-49AA-9BF8-9524C2508647,,"","","","",gcc-118541
+gcc-7668,A,Compositae,,Aspilia,,"sahariensis",,"","O.Hoffm. & Muschl.",Accepted,,M,TICA,F50868D2-2F0C-41AD-85DC-0E3EF5DEAD7C,180477-1,"","","115","1910",
+tro-50333003,A,Compositae,,Aspilia,,"samariensis",,"","O. Hoffm. & Muschl.",Unresolved,,L,TRO,50333003,,"","","","",
+gcc-43316,A,Compositae,,Aspilia,,"scabrida",,"","Brandegee",Synonym,,M,TICA,DF689C7F-EBDE-4B2A-B678-5040DECFB498,22149-2,"Univ. Calif. Publ. Bot. 10","","420","1924",gcc-79037
+gcc-45238,A,Compositae,,Aspilia,,"schimperi",,"","(Sch.Bip. ex A.Rich.) Oliv. & Hiern",Synonym,,M,TICA,532ED02D-86D8-4CFD-B988-53D4EBB5BE75,180479-1,"","","379","1877",gcc-55141
+gcc-106704,A,Compositae,,Aspilia,,"serrulata",,"","Baker",Accepted,,L,TICA,D391CA7A-1673-4985-8B93-A86CB185CE12,306153-2,"Fl. Bras. (Martius) 6(3)","","204","1884",
+gcc-85104,A,Compositae,,Aspilia,,"setosa",,"","Griseb.",Synonym,,M,TICA,995AA706-7A3F-489D-9BAD-77EC89470029,22154-2,"","","192","1879",gcc-36122
+gcc-48715,A,Compositae,,Aspilia,,"setosa",var.,"reflexa","(Sch.Bip. ex Baker) Chodat",Synonym,,L,TICA,871B2C7B-5FB4-498A-B8A6-5A3D4BB9C921,,"","","721","1903",gcc-23435
+gcc-105104,A,Compositae,,Aspilia,,"setosa",f.,"robusta","Chodat",Synonym,,L,TICA,8A8657C3-13A4-42B5-AB7F-A4E6B4E33037,,"","","721","1903",gcc-36122
+gcc-146485,A,Compositae,,Aspilia,,"setosa",f.,"setosa","",Synonym,,L,TICA,D584644F-ABFB-40D6-BC0D-197A7772E085,,"","","","",gcc-36122
+gcc-146951,A,Compositae,,Aspilia,,"setosa",var.,"setosa","",Synonym,,L,TICA,F385FB9E-95B8-493A-8315-237D388D3AF5,,"","","","",gcc-36122
+gcc-13920,A,Compositae,,Aspilia,,"silphioides",,"","(Hook. & Arn.) Benth. ex Benth. & Hook.f.",Accepted,,M,TICA,BC8FF78B-439C-4586-AF8E-19DAD43AB6E8,180482-1,"","","372","1873",
+gcc-72820,A,Compositae,,Aspilia,,"silphioides",f.,"aristata","Hicken",Synonym,,L,TICA,B1091579-DCF8-45E5-84C5-039158099009,22157-2,"Darwiniana 1","","143","1924",gcc-13920
+gcc-150819,A,Compositae,,Aspilia,,"silphioides",f.,"major","Chodat",Synonym,,L,TICA,B608FB3E-7DA5-45E2-BE21-769E71548A42,,"""Bull. Herb. Boissier, II, 2: 381 (1902)""","","381","1902",gcc-13920
+gcc-156731,A,Compositae,,Aspilia,,"silphioides",f.,"parvifolia","Chodat",Synonym,,L,TICA,0049FAB6-8927-42A1-BF16-F30FAEA0071B,,"""Bull. Herb. Boissier, II, 2: 391 (1902)""","","391","1902",gcc-13920
+gcc-154913,A,Compositae,,Aspilia,,"silphioides",f.,"silphioides","",Synonym,,L,TICA,E7C3E38E-AADF-429A-BEF2-CD492D49B174,,"","","","",gcc-13920
+gcc-129807,A,Compositae,,Aspilia,,"simpsonae",,"","H.Rob.",Synonym,,L,TICA,DAF04933-9F34-4BE5-AFF4-DD1A2B26462C,272767-2,"Phytologia 56","","271","1984",gcc-82781
+gcc-132021,A,Compositae,,Aspilia,,"smithiana",,"","Oliv. & Hiern",Synonym,,M,TICA,2E31E558-8239-43B8-B8DB-E24C5FA99829,180483-1,"","","380","1877",gcc-28535
+gcc-136773,A,Compositae,,Aspilia,,"sodiroi",,"","Hieron. ex Sodiro",Synonym,,M,TICA,7AF67ACC-CC73-4AE5-AEA0-ECF9420DE38B,180484-1,"","","38","1900",gcc-16307
+gcc-92442,A,Compositae,,Aspilia,,"sodiroi",,"","Hieron.",Synonym,,M,TICA,22B8ECED-9028-4473-964F-889D01E4DD05,22159-2,"Bot. Jahrb. Syst. 29: 38. 1900","","38","1900",gcc-16307
+gcc-137643,A,Compositae,,Aspilia,,"spenceriana",,"","Muschl.",Synonym,,L,TICA,7AD9FC3C-3C6B-47B7-A4A8-EEE0C14EDDDF,180485-1,"","","334","1914",gcc-16185
+gcc-133401,A,Compositae,,Aspilia,,"squarrosa",,"","Baker",Accepted,,L,TICA,19269C5F-6225-49F5-A38E-E56BF24D8C4F,305324-2,"Fl. Bras. (Martius) 6(3)","","203","1884",
+gcc-148533,A,Compositae,,Aspilia,,"squarrosa",var.,"squarrosa","",Synonym,,L,TICA,10513A6B-6B0A-48F8-9672-44D24C33CF60,,"","","","",gcc-133401
+gcc-141360,A,Compositae,,Aspilia,,"steinbachii",,"","H.Rob. & Brettell",Synonym,,M,TICA,CE2142E8-F376-422D-8121-F733F557CB74,22161-2,"Phytologia 32","","420","1975",gcc-52774
+gcc-147349,A,Compositae,,Aspilia,,"steinbachii",,"","H.Rob. & R. D. Brettell",Synonym,,M,TICA,DAEDB8E7-159F-41FF-920C-2BB06985CE7B,,"","","","",gcc-52774
+gcc-42630,A,Compositae,,Aspilia,,"stenophylla",,"","Greenm.",Accepted,,M,TICA,AB702FEE-FC17-45CA-8325-4EF8CE18EC64,22162-2,"Proc. Amer. Acad. Arts 39","","102","1903",
+gcc-102918,A,Compositae,,Aspilia,,"strigosa",,"","(Hook. & Arn.) Benth. & Hook.f.",Unresolved,Illegitimate,L,TICA,76011C6E-C858-4D7B-8121-A02EAB3BBE67,,"","","","",gcc-4408
+gcc-120328,A,Compositae,,Aspilia,,"strigosa",,"","(Hook. & Arn.) Hemsl.",Synonym,,L,TICA,4F5C133F-DC82-4F45-8280-C73E43B086F9,,"","","171","1881",gcc-4408
+gcc-18178,A,Compositae,,Aspilia,,"strigosa",,"","(Hook. & Arn.) B.D.Jacks. & Hook.f.",Unresolved,,L,TICA,189082FF-BEC7-4820-BF73-219A371191D6,1170120-2,"","","","",
+gcc-33355,A,Compositae,,Aspilia,,"subalpestris",,"","Baker",Synonym,,L,TICA,B180941D-FAD6-482A-B99A-3DD28ACFED4B,305325-2,"Fl. Bras. (Martius) 6(3)","","202","1884",gcc-130106
+gcc-3260,A,Compositae,,Aspilia,,"subpandurata",,"","O.Hoffm.",Accepted,,M,TICA,FC4F7487-C9DE-46A2-B211-0607D561FF1C,180491-1,"","","413","1895",
+gcc-88985,A,Compositae,,Aspilia,,"subpetiolata",,"","Baker",Accepted,,L,TICA,B9853E0E-6276-43AA-BDF9-80A43C651F71,302612-2,"Fl. Bras. (Martius) 6(3)","","203","1884",
+gcc-121614,A,Compositae,,Aspilia,,"subscandens",,"","J.U.Santos",Accepted,,M,TICA,93DF1475-1C7D-4C63-8E0D-CA2F6EBAD8D9,992233-1,"","","213","1994",
+gcc-84078,A,Compositae,,Aspilia,,"sucrensis",,"","Aristeg.",Synonym,,M,TICA,8F8262F6-B6CF-4CC0-8262-75B2C6989B34,180493-1,"Acta Bot. Venez. 1(2)","","80","1966",gcc-37013
+gcc-131820,A,Compositae,,Aspilia,,"tanganyikensis",,"","Lawalrée",Synonym,,M,TICA,86EE1EE6-EDCF-4378-A9D7-E1CF17E72BE5,180494-1,"","","222","1949",gcc-11589
+gcc-131439,A,Compositae,,Aspilia,,"tenella",,"","(Kunth) S.F.Blake",Accepted,,M,TICA,6F423A86-6F0D-41D9-96A1-E0E16772D0D4,1113447-2,"Contr. U. S. Natl. Herb. 22: 620. 1924","","620","1924",
+gcc-130409,A,Compositae,,Aspilia,,"thouarsii",,"","DC.",Synonym,,M,TICA,1274EE7F-38CE-4AD0-98A7-DE7FBA14C37B,180496-1,"","","561","1836",gcc-100379
+gcc-119337,A,Compositae,,Aspilia,,"tomentosa",,"","Baker",Synonym,,L,TICA,A28FB89C-DE80-4F50-BE8E-C4F2B1256D45,306911-2,"Fl. Bras. (Martius) 6(3)","","199","1884",gcc-133401
+gcc-89708,A,Compositae,,Aspilia,,"trichodesmoides",,"","O.Hoffm.",Accepted,,M,TICA,DE025823-2636-41EA-BCA1-82518A081080,180498-1,"Bol. Soc. Brot. 13","","28","1896",
+gcc-24682,A,Compositae,,Aspilia,,"triplinervia",,"","(Kunth) S.F.Blake",Accepted,,M,TICA,843FF759-99CE-490C-A5B9-2D98F2EFF65D,22167-2,"Contr. U. S. Natl. Herb. 22","","620","1924",
+gcc-22629,A,Compositae,,Aspilia,,"ulei",,"","Hieron.",Synonym,,M,TICA,B728736C-069F-42A1-B8A4-29E2DB6D276E,309727-2,"Verh. Bot. Vereins Prov. Brandenburg 48: 205. 1907","","205","1907",gcc-20816
+gcc-15080,A,Compositae,,Aspilia,,"vandenbergiana",,"","J.U.Santos",Synonym,,L,TICA,2BF9EF96-9C95-49F9-8B5E-1BEAA8C8B526,22169-2,"","","4","1982",gcc-31049
+gcc-27473,A,Compositae,,Aspilia,,"verbesinoides",,"","(DC.) S.F.Blake",Synonym,,M,TICA,5BA6E330-3496-469F-AD2C-32CC873451D7,1148017-2,"Proc. Biol. Soc. Wash. 34: 120. 1921","","120","1921",gcc-37013
+gcc-130319,A,Compositae,,Aspilia,,"vernayi",,"","Brenan",Synonym,,M,TICA,BF9EFD30-F19B-4BC1-979D-DE421EDD0F1F,,"","","","1954",gcc-11589
+gcc-10108,A,Compositae,,Aspilia,,"verticillata",,"","J.U.Santos",Synonym,,L,TICA,B8DD409E-4FFF-4789-9429-12EA950E42A8,929221-1,"","","9","1985",gcc-51841
+gcc-144972,A,Compositae,,Aspilia,,"vieirae",,"","H.Rob.",Synonym,,L,TICA,59DBEF9D-76BA-4D63-A510-FF5B07AB95C2,308227-2,"""Phytologia 56: 272 (-273), fig. 1984""","","272","1984",gcc-82781
+gcc-18000,A,Compositae,,Aspilia,,"vulgaris",,"","N.E.Br.",Synonym,,M,TICA,0574DAF9-D5D4-4037-AC01-214157810F01,180503-1,"","","164","1906",gcc-95303
+gcc-51841,A,Compositae,,Aspilia,,"warmingii",,"","Baker",Accepted,,L,TICA,BBB162AF-4593-478A-884C-60224600AF54,,"Fl. Bras. (Martius) 6(3)","","192","1884",
+gcc-21142,A,Compositae,,Aspilia,,"wedeliaeformis",,"","Vatke",Synonym,,M,TICA,22AA4CBF-0E1A-47FF-BD10-271151306F7F,180505-1,"Oesterr. Bot. Z. 27","","197","1877",gcc-11589
+gcc-8541,A,Compositae,,Aspilia,,"wedelioides",,"","(DC.) S.F.Blake",Synonym,,M,TICA,52272706-CC8B-4A4A-BF03-0FF0BAAA5623,22171-2,"Contr. U. S. Natl. Herb. 26","","252","1930",gcc-37013
+gcc-22451,A,Compositae,,Aspilia,,"welwitschii",,"","O.Hoffm.",Synonym,,M,TICA,DC699D58-9364-4E80-A0D7-2988A327FB13,180507-1,"Bol. Soc. Brot. 13","","29","1896",gcc-39506
+gcc-65731,A,Compositae,,Aspilia,,"welwitschii",var.,"serrata","Hiern",Synonym,,L,TICA,4F70FDEB-BC33-4118-85D9-C91177B35A15,,"Cat. Afr. Pl. 1(3): 578 (1898)","","578","1898",gcc-39506
+gcc-145789,A,Compositae,,Aspilia,,"welwitschii",var.,"welwitschii","",Synonym,,L,TICA,7B8E0263-502F-4A2B-97A8-0ADEA6FC4BC8,,"","","","",gcc-39506
+gcc-119241,A,Compositae,,Aspilia,,"xylopoda",,"","Greenm.",Synonym,,M,TICA,E3C2943A-DA1C-49E5-AF45-C4B6F34F1946,22172-2,"Proc. Amer. Acad. Arts 40","","40","1904",gcc-139822
+gcc-7080,A,Compositae,,Aspilia,,"zombensis",,"","Baker",Synonym,,M,TICA,B3623D72-CB10-4BC1-A489-0D2DC1275A19,180509-1,"","","152","1898",gcc-50554
+gcc-53003,A,Compositae,,Aspilia,,"zombensis",var.,"longifolia","S.Moore",Synonym,,L,TICA,784B08D3-6DB1-4043-858D-62C0CBF8813E,,"""J. Linn. Soc., Bot. 35: 345 (1902)""","","345","1902",gcc-50554
+gcc-155479,A,Compositae,,Aspilia,,"zombensis",var.,"zombensis","",Synonym,,L,TICA,6500DEF3-9420-4439-A8B9-D91CF5CAB7B4,,"","","","",gcc-50554

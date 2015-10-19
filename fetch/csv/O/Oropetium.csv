@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-426517,A,Poaceae,,Oropetium,,"africanum",,"","(Coss. & Durieu) Chiov.",Synonym,,H,WCSP,426517,409960-1,"Annuario Reale Ist. Bot. Roma","8: 345","","1908",kew-447459
+kew-426518,A,Poaceae,,Oropetium,,"aristatum",,"","(Stapf) Pilg.",Accepted,,H,WCSP,426518,409962-1,"Bot. Jahrb. Syst.","74: 14","","1947",
+kew-426519,A,Poaceae,,Oropetium,,"capense",,"","Stapf",Accepted,,H,WCSP,426519,409963-1,"Fl. Cap.","7: 742","","1900",
+kew-426520,A,Poaceae,,Oropetium,,"capense",var.,"arabicum","H.Scholz & P.König",Synonym,,L,WCSP,426520,918552-1,"Willdenowia","14: 160","","1984",kew-426519
+tro-25544525,A,Poaceae,,Oropetium,,"capense",var.,"capense","",Synonym,,L,TRO,25544525,,"","","","",kew-426519
+kew-426521,A,Poaceae,,Oropetium,,"capense",var.,"hesperidum","(Maire) H.Scholz & P.König",Synonym,,L,WCSP,426521,923606-1,"Willdenowia","14: 160","","1984",kew-426519
+kew-450885,A,Poaceae,,Oropetium,,"capense",subsp.,"hesperidum","(Maire) Marrero Rodr.",Synonym,,L,WCSP,450885,77085611-1,"Bot. Macaronés.","26: 78","","2006",kew-426519
+kew-426522,A,Poaceae,,Oropetium,,"ennedicum",,"","H.Gillet & Quézel",Synonym,Invalid,H,WCSP,426522,409964-1,"J. Agric. Trop. Bot. Appl.","6: 50","","1959",kew-426527
+kew-426523,A,Poaceae,,Oropetium,,"erythraeum",,"","Chiov.",Synonym,,H,WCSP,426523,409965-1,"Ann. Bot. (Rome)","2: 366","","1905",kew-426519
+kew-426524,A,Poaceae,,Oropetium,,"hesperidum",,"","Maire",Synonym,,H,WCSP,426524,409966-1,"Bull. Soc. Hist. Nat. Afrique N.","33: 33, 90","","1942",kew-426519
+kew-426525,A,Poaceae,,Oropetium,,"lepturoides",,"","Peter",Synonym,,H,WCSP,426525,409967-1,"Repert. Spec. Nov. Regni Veg. Beih.","40(1 Anh.): 115","","1936",kew-426519
+kew-426526,A,Poaceae,,Oropetium,,"majusculum",,"","(C.E.Hubb.) Cufod.",Synonym,,H,WCSP,426526,409968-1,"Bull. Jard. Bot. Natl. Belg.","38(Suppl.: 1285","","1968",kew-426527
+kew-426527,A,Poaceae,,Oropetium,,"minimum",,"","(Hochst.) Pilg.",Accepted,,H,WCSP,426527,409969-1,"Bot. Jahrb. Syst.","74: 14","","1947",
+kew-426528,A,Poaceae,,Oropetium,,"roxburghianum",,"","(Schult.) S.M.Phillips",Accepted,,H,WCSP,426528,409970-1,"Kew Bull.","30: 469","","1975",
+kew-426529,A,Poaceae,,Oropetium,,"thomaeum",,"","(L.f.) Trin.",Accepted,,H,WCSP,426529,409971-1,"Fund. Agrost.","98","","1820",
+kew-426530,A,Poaceae,,Oropetium,,"tibesticum",,"","H.Gillet & Quézel",Synonym,Invalid,H,WCSP,426530,409972-1,"J. Agric. Trop. Bot. Appl.","6: 45","","1959",kew-426519
+kew-426531,A,Poaceae,,Oropetium,,"villosulum",,"","Stapf ex Bor",Accepted,,H,WCSP,426531,409973-1,"Kew Bull.","4: 571","","1949 publ. 1950",

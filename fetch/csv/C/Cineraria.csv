@@ -1,0 +1,496 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-99928,A,Compositae,,Cineraria,,"abrutanifolia",,"","(L.) P.J.Bergius",Synonym,,M,TICA,3E1638A2-8596-4EA9-918F-9976C4F7CA40,194546-1,"","","","1767",gcc-115108
+gcc-138736,A,Compositae,,Cineraria,,"abyssinica",,"","Sch.Bip. ex A.Rich.",Accepted,,M,TICA,F8AE17DE-8208-474D-A213-F1436B116378,,"","","","1848",
+gcc-149963,A,Compositae,,Cineraria,,"abyssinica",f.,"abyssinica","",Synonym,,L,TICA,EE0D4229-E9C7-414B-824E-641290044BD5,,"","","","",gcc-138736
+gcc-129054,A,Compositae,,Cineraria,,"abyssinica",f.,"longiradiata","Oliv. & Hiern",Synonym,,L,TICA,9D47E64B-A38E-4EAA-90E8-DB67D4FF3DBF,,"Fl. Trop. Afr. 3: 404 (1877)","","404","1877",gcc-106727
+gcc-141828,A,Compositae,,Cineraria,,"abyssinica",f.,"rothii","Oliv. & Hiern",Synonym,,L,TICA,801AC8E9-D1E2-4B8B-851D-F84B51ED3E2D,,"Fl. Trop. Afr. 3","","404","1877",gcc-138736
+gcc-102250,A,Compositae,,Cineraria,,"acanthifolia",,"","Rchb.",Synonym,,M,TICA,B6B1C87F-D10C-4AFE-B223-9EA5164985DB,194548-1,"","","t. 24","1824",gcc-31568
+gcc-44364,A,Compositae,,Cineraria,,"acutangula",,"","Bertol.",Synonym,,M,TICA,9416318E-AC0B-4565-8D4A-522E69C2F461,194549-1,"","","","1840",gcc-120249
+gcc-96693,A,Compositae,,Cineraria,,"aitaniana",,"","Spreng.",Synonym,,M,TICA,28F9AEE9-E18A-4224-A373-922DB9552073,194550-1,"","","51","1807",gcc-127683
+gcc-94036,A,Compositae,,Cineraria,,"alata",,"","L.f.",Synonym,,M,TICA,FE9F163A-7B66-462E-BE0E-8C0D736199F0,194551-1,"","","374","1782",gcc-86477
+gcc-114603,A,Compositae,,Cineraria,,"albicans",,"","N.E.Br.",Accepted,,M,TICA,5016C542-D8C9-42F4-A6CB-BA3D46256B2A,194552-1,"","","39","1895",
+gcc-88863,A,Compositae,,Cineraria,,"albomontana",,"","Hilliard",Synonym,,M,TICA,56C6F298-9BE0-4577-AB16-8061F52C56EB,936713-1,"","","185","1989",gcc-50573
+gcc-90302,A,Compositae,,Cineraria,,"alchemilloides",,"","DC.",Accepted,,M,TICA,BC1A0636-BE8E-42C4-AA7B-83A9B9AF1455,194553-1,"","","307","1838",
+gcc-55015,A,Compositae,,Cineraria,,"alchemilloides",subsp.,"alchemilloides","",Synonym,,L,TICA,6BE75EE7-BFE2-406D-9E00-729C2BA4A613,,"","","","",gcc-90302
+gcc-4119,A,Compositae,,Cineraria,,"alliarifolia",,"","Desf.",Unresolved,,L,TICA,0A1C9BAE-EF29-480E-AC3A-07AC5D8CC420,194554-1,"","","403","1829",
+gcc-12035,A,Compositae,,Cineraria,,"alpestris",,"","Pall.",Accepted,,M,TICA,DA99883E-7181-4D3A-B4D6-166CE1FE7ED7,,"","","","1773",
+gcc-12155,A,Compositae,,Cineraria,,"alpestris",,"","Hoppe",Synonym,,M,TICA,1BDC48BC-D281-4B77-80F5-16ABDFAAAF81,194557-1,"","","","1806",gcc-82160
+gcc-123474,A,Compositae,,Cineraria,,"alpestris",,"","W.D.J.Koch",Synonym,,M,TICA,403FCD79-1639-453F-997D-CE6A4008F3FA,,"W. D. J. Koch in Flora 6. 1823.","","513","1823",gcc-82160
+gcc-1492,A,Compositae,,Cineraria,,"alpestris",,"","Willk.",Synonym,,M,TICA,B06473C8-8F80-449C-8F29-02B050481FA7,,"","","","1865",gcc-69178
+gcc-152488,A,Compositae,,Cineraria,,"alpestris",subsp.,"alpestris","",Synonym,,L,TICA,76680028-E974-4EFA-AB7D-9A56887E272E,,"","","","",gcc-12035
+gcc-61851,A,Compositae,,Cineraria,,"alpestris",subsp.,"ovirensis","(W.D.J.Koch) Nyman",Synonym,,L,TICA,A65EF82F-9F56-4D75-9258-A9F4F8BD6E99,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-82160
+gcc-112887,A,Compositae,,Cineraria,,"alpina",,"","Huds.",Synonym,,M,TICA,95B49F5F-77A5-4A31-8D18-B672AE753B88,,"","","870","1778",gcc-137600
+gcc-7115,A,Compositae,,Cineraria,,"alpina",,"","(L.) L.",Synonym,,L,TICA,DEF82E64-ECAD-449F-B53F-0D3EAE90D061,194558-1,"","","1243","1763",gcc-142563
+gcc-90020,A,Compositae,,Cineraria,,"alpina",,"","All.",Synonym,,M,TICA,CAA1B17C-D473-49B3-A076-830975979375,194560-1,"","","203","1785",gcc-56319
+gcc-156810,A,Compositae,,Cineraria,,"alpina",var.,"alpina","",Synonym,,L,TICA,CE688E77-E3A4-40A4-83F5-F4B0AE9AF884,,"","","","",gcc-142563
+gcc-3398,A,Compositae,,Cineraria,,"altaica",,"","C.A.Mey. ex DC.",Synonym,,M,TICA,E2F8AE69-8E3C-472B-9000-06473EADC1F2,194561-1,"","","315","1838",gcc-134374
+gcc-135717,A,Compositae,,Cineraria,,"ambigua",,"","Biv.",Synonym,,M,TICA,89F0D8B3-CDCB-4688-A4BA-EA936A206837,194562-1,"Stirp. Rar. Sicilia 3","","5","1815",gcc-91638
+gcc-131284,A,Compositae,,Cineraria,,"ambracea",,"","Fisch. ex Colla",Unresolved,,L,TICA,A7EE1082-79F1-496E-8A79-E08BBA9CC4F5,194564-1,"","","398","1834",
+gcc-44291,A,Compositae,,Cineraria,,"ambracea",,"","Hornem.",Synonym,,M,TICA,EDAA58E6-F5F2-4A06-8ED7-5209A8297B1E,194563-1,"","","972","1815",gcc-20806
+gcc-82401,A,Compositae,,Cineraria,,"amelloides",,"","L.",Synonym,,M,TICA,01AB9845-075D-4295-9F76-72006E7A9D47,194565-1,"","","1245","1763",gcc-9098
+gcc-41908,A,Compositae,,Cineraria,,"americana",,"","L.f.",Synonym,,M,TICA,5B3207E3-776B-4D42-B4FA-4D9A55536019,58742-2,"Suppl. Pl. 373","","373","1782",gcc-44020
+gcc-134909,A,Compositae,,Cineraria,,"amoena",,"","Salisb.",Synonym,,M,TICA,F27302A9-A669-4633-8FF0-E8C6CF61E5A8,194567-1,"","","200","1796",gcc-9098
+gcc-20703,A,Compositae,,Cineraria,,"anampoza",,"","(Baker) Baker",Accepted,,M,TICA,49F760D6-D407-4EB3-8C81-264B75919FA1,194568-1,"""J. Linn. Soc., Bot. 22""","","496","1887",
+gcc-151012,A,Compositae,,Cineraria,,"anampoza",f.,"anampoza","",Synonym,,L,TICA,92EF21A8-A178-4E33-A86B-7B4F4F9413BA,,"","","","",gcc-20703
+gcc-74026,A,Compositae,,Cineraria,,"anampoza",f.,"hygrophila","(Klatt) Cron",Accepted,,L,TICA,39BB9F19-189A-4510-9BCB-30002AE00EFE,77075882-1,"Kew Bull. 61(4): 490","","490","2007",
+gcc-120778,A,Compositae,,Cineraria,,"angulata",,"","alam. ex DC.",Unresolved,Illegitimate,L,TICA,918F42C2-5EF4-40D1-8242-C851FAA723F1,194570-1,"Prodr. 6: 431 (1838)","","431","1838",
+gcc-103141,A,Compositae,,Cineraria,,"angulosa",,"","Lam.",Accepted,,M,TICA,140D9321-DC12-437D-B45E-A09CFDD25403,194571-1,"","","6","1786",
+gcc-12346,A,Compositae,,Cineraria,,"angulosa",,"","DC.",Synonym,,M,TICA,AF74DA56-30BD-4249-9B18-1703FA9987B6,194572-1,"","","337","1838",gcc-139143
+gcc-78248,A,Compositae,,Cineraria,,"angustata",,"","Schur",Synonym,,M,TICA,912538E3-53C7-4F2B-B9BF-68B53B7D6837,194573-1,"","","346","1866",gcc-14224
+gcc-136264,A,Compositae,,Cineraria,,"angustifolia",,"","Kunth",Synonym,,M,TICA,989C4A39-FD29-44C6-9FAA-EBD57BBF15CC,,"","","148","1820 [1818]",gcc-42774
+gcc-1358,A,Compositae,,Cineraria,,"anomala",,"","Sm.",Synonym,,M,TICA,94F9676C-B1EE-4FFC-A6F5-0273CBE35EAA,,"Fl. Graec. Prodr. 2: 179 (1813)","","179","1813",gcc-114052
+gcc-19442,A,Compositae,,Cineraria,,"anomala",,"","Sibth. & Sm.",Unresolved,,L,TICA,1E0AD68E-452D-4BA9-B2E0-23EDDC9B1672,,"Fl. Graec. Prod. ii. 179; Fl. Graec. ix. 56.","","ii. 179","",
+gcc-82427,A,Compositae,,Cineraria,,"anthemoides",,"","Spreng. ex DC.",Synonym,,M,TICA,A9445613-AC40-43B0-A265-720DF9DF58CA,194576-1,"","","365","1838",gcc-153065
+gcc-86737,A,Compositae,,Cineraria,,"anthemoides",,"","Lam.",Synonym,,M,TICA,C2613663-8AFA-4AF5-9D34-7B992CF4D185,194577-1,"","","9","1786",gcc-18319
+gcc-24739,A,Compositae,,Cineraria,,"appendiculata",,"","Steud.",Synonym,,M,TICA,B7B41C17-38DD-4CB0-BEFD-2DB33E7746B0,194578-1,"","","363","1840",gcc-135871
+gcc-90879,A,Compositae,,Cineraria,,"appendiculata",,"","(L.f.) Poir.",Synonym,,M,TICA,73F03B32-7091-4228-BB3B-85187810A075,1070206-2,"Encycl. (Lamarck) Suppl. 2. 263","","263","1811",gcc-135871
+gcc-110420,A,Compositae,,Cineraria,,"arachnoidea",,"","Turcz. ex Ledeb.",Synonym,,M,TICA,2CD1DB03-9F2D-4CEA-B4BD-B0DC96BE6237,,"Fl. Ross. 2: 632 (1845)","","632","1845",gcc-133637
+gcc-118919,A,Compositae,,Cineraria,,"arctotidea",,"","DC.",Accepted,,M,TICA,4FDB9F72-87E1-4B1F-917D-C4180E895EA7,194582-1,"","","306","1838",
+gcc-18753,A,Compositae,,Cineraria,,"arctotidea",,"","Drège ex Harv. & Sond.",Synonym,Illegitimate,M,TICA,845843CF-E714-47C0-AC7C-22A1A98E2CC0,194583-1,"","","309","1865",gcc-113248
+gcc-90468,A,Compositae,,Cineraria,,"argillacea",,"","Cron",Synonym,,M,TICA,5622717D-1459-45F2-A21D-8419808781DB,,"","","402","1997",gcc-123351
+gcc-77878,A,Compositae,,Cineraria,,"arnautorum",,"","(Velen.) Nyman",Synonym,,M,TICA,677A0946-D3BF-4232-AA22-67D3E7858371,,"","","163","1889",gcc-21666
+gcc-129139,A,Compositae,,Cineraria,,"arvernensis",,"","Rouy",Synonym,,M,TICA,E588BA20-12CE-4419-9A9C-DB9F876F3BEE,194585-1,"Bull. Soc. Bot. France 28","","68","1881",gcc-64542
+gcc-38795,A,Compositae,,Cineraria,,"aspasia",,"","Hort.",Unresolved,,L,TICA,7C1724D9-27B3-4F05-8B69-47F5C03386F2,194586-1,"ex Gard. Chron. (1888) i. 799 nomen.",""," i. 799 nomen.","1888",
+gcc-8968,A,Compositae,,Cineraria,,"aspera",,"","Thunb.",Accepted,,M,TICA,12CF7F88-E6A4-42D5-853F-10C74FFB0D7D,194587-1,"","","","1800",
+gcc-116727,A,Compositae,,Cineraria,,"atriplicifolia",,"","DC.",Accepted,,M,TICA,67C0F7EB-BC10-4648-9007-BF164BD29603,194588-1,"","","308","1838",
+gcc-41240,A,Compositae,,Cineraria,,"atropurpurea",,"","Ledeb.",Synonym,,M,TICA,7CEFE67D-7DAE-4383-B82D-4C6B5D560B87,,"","","574","",gcc-133637
+gcc-105853,A,Compositae,,Cineraria,,"aucheri",,"","K.Koch",Unresolved,,L,TICA,CD72D23D-7A1E-44A7-A951-A67F389E8ACF,194590-1,"Linnaea 24","","358","1851",
+gcc-82152,A,Compositae,,Cineraria,,"aucheri",,"","(DC.) Nyman",Synonym,,M,TICA,E1668229-763D-4D1A-86DA-7163A02416D2,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-53068
+gcc-78386,A,Compositae,,Cineraria,,"aurantiaca",,"","Besser",Synonym,,M,TICA,1510B69D-132B-4761-9F19-6904179FF69B,,"","","33","1821",gcc-137600
+gcc-92770,A,Compositae,,Cineraria,,"aurantiaca",,"","Hoppe ex Willd.",Synonym,,M,TICA,66360198-7F6C-406E-ABCE-895471A0996F,194592-1,"","","2081","1803",gcc-56319
+gcc-145303,A,Compositae,,Cineraria,,"aurantiaca",var.,"aurantiaca","",Synonym,,L,TICA,5D74AAD4-4F5A-4D19-8448-017CD930BCB8,,"","","","",gcc-56319
+gcc-147314,A,Compositae,,Cineraria,,"aurantiaca",subsp.,"aurantiaca","",Synonym,,L,TICA,42FE94E9-4144-45AD-A2F4-2B1A88EF4766,,"","","","",gcc-56319
+gcc-30175,A,Compositae,,Cineraria,,"aurantiaca",subsp.,"capitata","(Wahlenb.) Nyman",Synonym,,L,TICA,1AF85DD0-F04A-4985-9FA8-37D965457872,,"""Nyman, Consp. Fl. Eur. 1879.""","","352","1879",gcc-69423
+gcc-142328,A,Compositae,,Cineraria,,"aurea",,"","L.",Synonym,,L,TICA,A16B1826-0815-43DE-82E5-F96235201B57,194593-1,"","","1244","1763",gcc-70388
+gcc-46594,A,Compositae,,Cineraria,,"auriculata",,"","Ledeb.",Synonym,,M,TICA,A4E5B648-9CEA-4BA6-85B8-5655CE4A5268,,"","","","1833",gcc-81481
+gcc-11596,A,Compositae,,Cineraria,,"aurita",,"","Andrews",Synonym,,M,TICA,4E6659DE-3F1A-4F1D-A02E-159F2F933FCC,,"","","","1798",gcc-9965
+gcc-29757,A,Compositae,,Cineraria,,"aurita",,"","Hort.",Unresolved,,L,TICA,82B91645-EB92-478F-971D-3702CBA3D4CC,194597-1,"""ex Garden, xxxviii. (1890) 252 t. 770.""","","xxxviii.  252 t. 770","1890",
+gcc-33387,A,Compositae,,Cineraria,,"aurita",,"","L'Hér.",Synonym,,M,TICA,4B9D8EB1-5DA1-4CA5-A06B-3DE471AD91E3,194596-1,"","","26","1789",gcc-118843
+gcc-35268,A,Compositae,,Cineraria,,"aurito",,"","Auct.",Synonym,,M,TICA,625CC1DF-A12D-4075-9817-4162A504394E,,"Garden (London 1871-1927) 38: 252 (1890)","","252","1890",gcc-92954
+gcc-34495,A,Compositae,,Cineraria,,"austrotransvaalensis",,"","Cron",Accepted,,M,TICA,5914F606-5E54-4B96-AF17-3FF119E34B32,,"","","162","1994",
+gcc-109421,A,Compositae,,Cineraria,,"balbisiana",,"","(DC.) Bertol.",Synonym,,M,TICA,C069009B-D149-4D74-B688-AE9D3564EDE8,,"","","290","1854",gcc-140600
+gcc-125862,A,Compositae,,Cineraria,,"balsamita",,"","Lam.",Synonym,,M,TICA,B72DB49F-FDFA-4E99-AE48-D40DD2ADB78D,194599-1,"","","7","1786",gcc-106640
+gcc-25971,A,Compositae,,Cineraria,,"belbeisia",,"","Spreng.",Synonym,,M,TICA,394DBEF5-D13B-4DC9-A3E5-30003E1BEDD6,194600-1,"","","552","1826",gcc-32928
+gcc-9637,A,Compositae,,Cineraria,,"bequaertii",,"","De Wild.",Synonym,,M,TICA,E6FC4A75-268A-4215-B5CF-11FF3BABD5D7,,"","","","1932",gcc-106727
+gcc-127855,A,Compositae,,Cineraria,,"bergeriana",,"","Spreng.",Synonym,,M,TICA,646948AD-3FE5-4605-9862-D8AD8709D09C,194602-1,"","","551","1826",gcc-123640
+gcc-111458,A,Compositae,,Cineraria,,"bicolor",,"","Willd.",Synonym,,M,TICA,E52686F9-7C9C-408F-B2AB-B3298E86B738,194603-1,"","","2085","1803",gcc-68794
+gcc-51617,A,Compositae,,Cineraria,,"bicolor",subsp.,"ambigua","(Biv.) Nyman",Synonym,,L,TICA,941FB12F-5E01-4B02-A8C2-5FB47C68A152,,"""Nyman, Consp. Fl. Eur. 1879.""","","350","1879",gcc-91638
+gcc-155418,A,Compositae,,Cineraria,,"bicolor",subsp.,"bicolor","",Synonym,,L,TICA,C7CF1523-43BA-4A5B-83C0-D7E310C28734,,"","","","",gcc-68794
+gcc-84622,A,Compositae,,Cineraria,,"bipinnata",,"","Willd.",Synonym,,M,TICA,EF589E4C-8006-4B09-815D-76EDA02DFDDB,,"","","","1803",gcc-124282
+gcc-104180,A,Compositae,,Cineraria,,"bosniaca",,"","(Beck) Nyman",Synonym,,M,TICA,99FFDBBD-7098-4E44-A9DB-A2F6A7DF620A,,"Nyman. 1889.","","162","1889",gcc-10113
+gcc-98813,A,Compositae,,Cineraria,,"bosniaca",,"","Beck",Unresolved,,L,TICA,8C6BD7F9-F060-4FE4-AE24-96F06453354A,194605-1,"","","163","1887",
+gcc-91507,A,Compositae,,Cineraria,,"bracteata",,"","C.Sm. ex Link",Synonym,,M,TICA,3C363701-F658-474F-8087-86870B143CCC,,"","","148","1828",gcc-19026
+gcc-84546,A,Compositae,,Cineraria,,"bracteosa",,"","O.Hoffm.",Unresolved,,L,TICA,132184FB-FA61-4D02-BCE5-76C830BA2FDE,194607-1,"""in Goetzen, Durch Afr. (repr.) 10.""","","10","",
+gcc-94565,A,Compositae,,Cineraria,,"bracteosa",,"","O.Hoffm. ex Engl.",Synonym,,M,TICA,F4FEE3D5-B3AF-4D8D-9D6E-8D43378A9733,,"""Durch Afr., Repr.: 10 (1896)""","","10","1896",gcc-106727
+gcc-4906,A,Compositae,,Cineraria,,"brasiliensis",,"","Spreng.",Synonym,,M,TICA,BB928009-AF29-41F9-AD54-0927B508BEC6,315588-2,"Neue Entdeck. Pflanzenk. 2","","142","1821",gcc-26693
+gcc-113183,A,Compositae,,Cineraria,,"britteniae",,"","Hutch. & R.A.Dyer",Accepted,,M,TICA,875C3D27-7AB5-42C3-8790-B70FA7189FC3,194609-1,"""Bull. Misc. Inform. Kew 1934, 266.""","","266","1934",
+gcc-99728,A,Compositae,,Cineraria,,"buchananii",,"","S.Moore",Synonym,,M,TICA,1675EB9C-45E9-48AA-A8B5-99061D9555CC,,"","","352","",gcc-106727
+gcc-136930,A,Compositae,,Cineraria,,"burkei",,"","Burtt Davy",Synonym,,M,TICA,AE1C1CB8-68E9-47D9-86F5-ED5A522B6A14,194611-1,"","","80","1936",gcc-8968
+gcc-100635,A,Compositae,,Cineraria,,"cacaliformis",,"","Lam.",Synonym,,M,TICA,0FA08D77-395B-4AED-983C-9B115EDDDB82,,"","","","1779",gcc-23467
+gcc-5785,A,Compositae,,Cineraria,,"cacalioides",,"","L.f.",Synonym,,M,TICA,0391F7C6-5349-4FD8-82E0-0AC476EA62FD,194613-1,"","","374","1782",gcc-86514
+gcc-124839,A,Compositae,,Cineraria,,"caledoniae",,"","Spreng.",Synonym,,M,TICA,E3BFE650-3E0F-47D4-BCA9-D1A2D8DF7516,,"","","50","1807",gcc-12774
+gcc-138136,A,Compositae,,Cineraria,,"calvescens",,"","Nyman",Synonym,,M,TICA,D6387AF9-F13B-4218-9FAE-EFEDDFDC3A1D,194615-1,"","","1","1865",gcc-31568
+gcc-111116,A,Compositae,,Cineraria,,"campestris",,"","Willk. & Lange",Synonym,,M,TICA,089716B1-E622-454C-8CAC-B266107472F3,,"","","","1865",gcc-100383
+gcc-145048,A,Compositae,,Cineraria,,"campestris",,"","DC.",Synonym,,M,TICA,AE2B488A-BDA9-4B88-B1A6-FF8B69E97522,,"","","","1805",gcc-137600
+gcc-20573,A,Compositae,,Cineraria,,"campestris",,"","Ledeb.",Synonym,,M,TICA,16EE592F-7BFD-49DB-8F81-2611A91B95E1,,"","","","1845",gcc-56319
+gcc-82308,A,Compositae,,Cineraria,,"campestris",,"","Retz.",Synonym,,M,TICA,FA13222B-2825-46EB-9A8A-71BF61F380F9,,"Retz.. 1779.","","","",gcc-137600
+gcc-39701,A,Compositae,,Cineraria,,"campestris",subsp.,"alpina","Nyman",Synonym,,L,TICA,8B2CE7C0-41D3-477C-BEDC-49A90CEE9FDA,,"""Nyman, Consp. Fl. Eur. 1879.""","","352","1879",gcc-137600
+gcc-155489,A,Compositae,,Cineraria,,"campestris",subsp.,"campestris","",Synonym,,L,TICA,F6759189-84EE-4C7D-A661-D944B924A5EA,,"","","","",gcc-137600
+gcc-33635,A,Compositae,,Cineraria,,"canadensis",,"","Walter",Unresolved,,L,TICA,13ACD7D0-4B23-4FE5-B260-3E60E612554E,194620-1,"Fl. Carol. 207","","207","1788",
+gcc-76021,A,Compositae,,Cineraria,,"canadensis",,"","L.",Synonym,,M,TICA,62DEEC3A-C899-480E-BCCD-63B9BB9A7CB9,194619-1,"","","1244","1763",gcc-31568
+gcc-34467,A,Compositae,,Cineraria,,"candida",,"","J.Presl & C.Presl",Synonym,,M,TICA,94DB3215-7B10-4FB8-8FAF-3FE30DE9FA91,194621-1,"","","95","1822",gcc-127638
+gcc-127683,A,Compositae,,Cineraria,,"canescens",,"","J.C.Wendl. ex Link",Accepted,,M,TICA,84EBA896-C036-49C3-B3CE-D83F2AEDBBF3,,"","","","1822",
+gcc-98196,A,Compositae,,Cineraria,,"canescens",,"","Spreng.",Synonym,,M,TICA,ED1CE946-919A-4049-BAF5-958E91E248E0,194622-1,"","","549","1826",gcc-116636
+gcc-16889,A,Compositae,,Cineraria,,"canescens",var.,"canescens","",Synonym,,L,TICA,81BBB591-A353-43D2-807D-1F31753CBADE,,"","","","",gcc-127683
+gcc-17734,A,Compositae,,Cineraria,,"cantabrica",,"","Nyman",Synonym,,M,TICA,E6E608CD-FF1F-41E9-A12B-20BBFFCF6686,194624-1,"","","2","1855",gcc-69178
+gcc-21503,A,Compositae,,Cineraria,,"capillacea",,"","Thunb.",Synonym,,M,TICA,140D6FE7-8C4B-4C55-9CA9-27C2B0857222,,"","","","",gcc-76307
+gcc-93456,A,Compositae,,Cineraria,,"capillacea",,"","L.f.",Synonym,,M,TICA,4052661B-2B57-4D7E-924D-8AC64AEE0790,194625-1,"","","375","1782",gcc-76307
+gcc-113476,A,Compositae,,Cineraria,,"capitata",,"","Wahlenb.",Synonym,,M,TICA,0B3CA72A-90B3-49A6-86C4-B7B502A91D91,194627-1,"","","271","1814",gcc-69423
+gcc-90090,A,Compositae,,Cineraria,,"capitata",,"","Ledeb.",Synonym,,M,TICA,9DA9C9EC-79D0-4DFA-A207-832F9FB07224,,"","","","1833",gcc-137600
+gcc-87706,A,Compositae,,Cineraria,,"carolinensis",,"","Walter",Unresolved,,L,TICA,1012BE9E-A822-4EDA-9AAC-7DD90338C256,194628-1,"","","207","1788",
+gcc-104403,A,Compositae,,Cineraria,,"caspica",,"","Pers.",Synonym,,M,TICA,13F83F77-1B85-489F-8059-A36E94BA9061,194629-1,"","","439","1807",gcc-81481
+gcc-142494,A,Compositae,,Cineraria,,"caucasica",,"","M.Bieb.",Synonym,,M,TICA,C29BFA12-AE9C-4129-B083-F9BA988ADC93,,"","","313","1808",gcc-144726
+gcc-79719,A,Compositae,,Cineraria,,"caucasica",,"","Hoffm.",Synonym,,M,TICA,325DF574-70F3-4AFE-8521-6C0548D5687E,194630-1,"","","598","1808",gcc-79499
+gcc-91969,A,Compositae,,Cineraria,,"caucasica",,"","Ledeb.",Synonym,,M,TICA,11872CE9-2135-4267-86CF-87936507BDA9,,"","","","1846",gcc-28233
+gcc-94022,A,Compositae,,Cineraria,,"ceratophylla",,"","Ten.",Synonym,,M,TICA,0B242CBC-E87E-4A15-A31D-8C04B3BA2DCA,194633-1,"","","s.p.","1825",gcc-31568
+gcc-12575,A,Compositae,,Cineraria,,"cernua",,"","Wall. ex DC.",Synonym,,L,TICA,FA34C187-3ED5-46C5-8D09-176F42F09101,194634-1,"","","314","1838",gcc-88917
+gcc-46372,A,Compositae,,Cineraria,,"cernua",,"","Thore",Synonym,,M,TICA,EC974626-553B-487F-88D3-55F16E6B37D9,194635-1,"","","344","1803",gcc-103364
+gcc-93973,A,Compositae,,Cineraria,,"chamaedrifolia",,"","Lam.",Synonym,,M,TICA,A31DB2A6-3F6E-4DEB-84B3-8BE704109D63,194636-1,"","","9","1786",gcc-108762
+gcc-107979,A,Compositae,,Cineraria,,"chinensis",,"","Spreng.",Synonym,,M,TICA,17D197F0-C188-4E4D-AEC9-AB54AD86F9B9,194637-1,"Syst. Veg. 3","","549","1826",gcc-104777
+gcc-112744,A,Compositae,,Cineraria,,"cinia",,"","Webb",Synonym,,M,TICA,0AE08CE1-20F9-4FB4-A387-B623F6FF54AB,,"","","","1847",gcc-106701
+gcc-126514,A,Compositae,,Cineraria,,"cladobotrys",,"","Griseb. & Schenk",Synonym,,M,TICA,DC5DE60C-3CEB-4429-94E3-D57D6C80105A,,"","","","1852",gcc-95193
+gcc-30446,A,Compositae,,Cineraria,,"clusiana",,"","Host",Synonym,,M,TICA,06C76CC7-28E7-468F-9F36-3853074DEEA8,,"","","","1831",gcc-82160
+gcc-136726,A,Compositae,,Cineraria,,"coderi",,"","Nyman",Synonym,,M,TICA,13B1801E-A793-400C-89A2-ECD82FF17BE3,194641-1,"","","352","1879",gcc-69178
+gcc-106483,A,Compositae,,Cineraria,,"coincyi",,"","(Rouy) Willk.",Synonym,,M,TICA,A13C205F-4557-4BE6-83FC-A7E4AC0F9442,194642-1,"","","86","1893",gcc-11311
+gcc-111609,A,Compositae,,Cineraria,,"collina",,"","Salisb.",Synonym,,M,TICA,E02A2636-EEF7-40FE-8413-B37DB247E0D6,194643-1,"","","200","1796",gcc-137600
+gcc-144861,A,Compositae,,Cineraria,,"conformis",,"","Rochel",Synonym,,M,TICA,32B97A8E-1F4D-4596-83D3-FF191BF2AB8D,,"","","Index","1828",gcc-56319
+gcc-34254,A,Compositae,,Cineraria,,"congesta",,"","R.Br.",Synonym,,L,TICA,40C1CCA8-7BB8-468B-935F-3F7E1D4CF5CD,58744-2,"","","279","",gcc-100473
+gcc-20938,A,Compositae,,Cineraria,,"cordata",,"","Jacq.",Synonym,,L,TICA,DF47D1FA-DE40-4067-94A1-26B6BA3E0971,,"","","","1774",gcc-142563
+gcc-11287,A,Compositae,,Cineraria,,"cordifolia",,"","Jacq.",Synonym,,M,TICA,D86D4308-AE4B-4A87-B8A8-151B1ECA0E9F,,"","","t. 177","1774",gcc-51107
+gcc-130193,A,Compositae,,Cineraria,,"cordifolia",,"","Gouan",Synonym,,L,TICA,FD7EAFD1-B973-4085-A7AF-DDFD4FE884BA,194647-1,"","","69","1773",gcc-142563
+gcc-27000,A,Compositae,,Cineraria,,"cordifolia",,"","Lapeyr. ex Willk. & Lange",Synonym,,M,TICA,07F59237-D235-45EB-A5A0-31E854ACC16A,,"","","","1865",gcc-43965
+gcc-69316,A,Compositae,,Cineraria,,"cordifolia",var.,"auriculata","Jacq.",Synonym,,L,TICA,DBEDA645-3838-40A7-A169-E5637F4BA0FD,,"""Jacq., Fl. Austriac. 2. 1774.""","","47","1774",gcc-51107
+gcc-151093,A,Compositae,,Cineraria,,"cordifolia",var.,"cordifolia","",Synonym,,L,TICA,278B4CEE-55EB-4F54-9907-7D5BE33D83B3,,"","","","",gcc-142563
+gcc-39225,A,Compositae,,Cineraria,,"cordifolia",var.,"samnitum","Nyman",Synonym,,L,TICA,92FD97B1-A724-4B10-A176-48C6DCD51CF6,50426508-2,"""Nyman, Consp. Fl. Eur. 1879.""","","352","1879",gcc-143464
+gcc-42681,A,Compositae,,Cineraria,,"coronata",,"","Thunb.",Synonym,,M,TICA,9C5CE3E3-E073-4FC8-A3BD-4F0FC264097F,194650-1,"","","154","",gcc-7044
+gcc-88156,A,Compositae,,Cineraria,,"coronata",,"","Zeyh. ex DC.",Synonym,,M,TICA,DEE8A0AB-13DA-498D-BE4A-7ED218BCF48F,194651-1,"","","438","1838",gcc-129532
+gcc-129088,A,Compositae,,Cineraria,,"corymbosa",,"","Moench",Synonym,,M,TICA,613FAAF8-2486-46FE-8BA0-DB7C403BAFEE,194652-1,"","","588","1794",gcc-106887
+gcc-145210,A,Compositae,,Cineraria,,"crassiflora",,"","Poir.",Synonym,,M,TICA,26ECF024-22F8-4E69-91E4-FFE978E3B491,194653-1,"","","267","1811",gcc-111501
+gcc-77322,A,Compositae,,Cineraria,,"crassifolia",,"","Kit.",Synonym,,M,TICA,BF04140F-C813-4FD2-BB78-669D2BBEAD23,,"","","","1814",gcc-82160
+gcc-88453,A,Compositae,,Cineraria,,"crassifolia",,"","Host",Unresolved,,L,TICA,417A6E68-BF56-4D07-AD39-7F7685139198,,"Fl. Austr. 2: 482 (1831)","","482","1831",
+gcc-90026,A,Compositae,,Cineraria,,"crassifolia",,"","Schult.",Synonym,,M,TICA,A04694C3-84F0-408B-A691-830D0C3BDBD3,,"Schult.. 1814.","","514","1814",gcc-10113
+gcc-43878,A,Compositae,,Cineraria,,"crenata",,"","Spreng.f.",Synonym,,M,TICA,E8168A7F-8E73-4BE8-8AF2-5149FDF203F3,,"","","23","1828",gcc-140130
+gcc-7039,A,Compositae,,Cineraria,,"crenata",,"","Spreng. ex DC.",Synonym,,M,TICA,96A9B0CF-AA35-4C9B-A137-0D186141F8D8,194656-1,"","","388","1838",gcc-80011
+gcc-46235,A,Compositae,,Cineraria,,"crispa",,"","Jacq.",Synonym,,M,TICA,49002FC2-5764-4894-9E04-55B1CB6F8595,194658-1,"","","48","1774",gcc-92749
+gcc-154347,A,Compositae,,Cineraria,,"crispa",subsp.,"crispa","",Synonym,,L,TICA,BD6DDF99-1503-4C22-B049-C1BE364DEE51,,"","","","",gcc-92749
+gcc-48180,A,Compositae,,Cineraria,,"crispa",subsp.,"rivularis","(Waldst. & Kit.) Nyman",Synonym,,L,TICA,7CF7CB3D-DDD1-4345-8DEC-594BD01D3D8F,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-92749
+gcc-12191,A,Compositae,,Cineraria,,"crocea",,"","Tratt.",Synonym,,M,TICA,4AFA2324-2496-406F-B23D-16B8E0EFB8FC,,"","","","1812",gcc-92749
+gcc-141175,A,Compositae,,Cineraria,,"cruenta",,"","Masson ex L'Hér.",Synonym,,M,TICA,E4CC8BE7-4205-4B7E-BF67-F6BDDAED0844,329685-2,"Sert. Angl.","","26","1789",gcc-9965
+gcc-126445,A,Compositae,,Cineraria,,"cuneata",,"","E.Mey. ex DC.",Synonym,,M,TICA,FF923782-D3B0-461B-8BFC-D55A588CA32D,194661-1,"","","439","1838",gcc-60134
+gcc-92882,A,Compositae,,Cineraria,,"cyanomontana",,"","Cron",Accepted,,M,TICA,3C3A9CA0-156F-46BB-9EB1-8995CD5A1A14,,"","","400","",
+gcc-94713,A,Compositae,,Cineraria,,"cymbalarifolia",,"","Thunb.",Synonym,,M,TICA,078E0456-315F-41E3-BEAB-8DAB6B78CF16,,"","","","",gcc-6983
+gcc-145035,A,Compositae,,Cineraria,,"cymbalariifolia",,"","L.",Synonym,,M,TICA,E3EB98D0-6C5A-4436-A52F-FF844E16CA90,,"","","","1763",gcc-6983
+gcc-46763,A,Compositae,,Cineraria,,"dealbata",,"","Spreng. ex DC.",Synonym,,L,TICA,D1B33D2D-79E7-44C1-9CE7-56A70766687B,194663-1,"","","369","1838",gcc-98129
+gcc-132216,A,Compositae,,Cineraria,,"decipiens",,"","Harv.",Accepted,,M,TICA,4F74E922-10CC-47B7-8CDA-E2B41ACF468B,194664-1,"","","312","1865",
+gcc-93667,A,Compositae,,Cineraria,,"decipiens",,"","Spreng. ex DC.",Synonym,Invalid,M,TICA,954AEB37-5230-428D-91B1-8B3023B54D56,194665-1,"","","366","1838",gcc-7683
+gcc-113206,A,Compositae,,Cineraria,,"degenerans",,"","Kit. ex Kanitz",Synonym,,M,TICA,3C031BC7-3EF1-4F65-B40B-B71D8318BA10,194666-1,"","","523","1863",gcc-82160
+gcc-106727,A,Compositae,,Cineraria,,"deltoidea",,"","Sond.",Accepted,,M,TICA,83DFDDF7-E711-4280-9D89-A8748334FB78,194667-1,"Linnaea 23","","68","1850",
+gcc-5024,A,Compositae,,Cineraria,,"densiflora",,"","R.E.Fr.",Synonym,,M,TICA,024F8F13-3830-4F3A-944C-096044055C2F,194668-1,"","","147","1928",gcc-106727
+gcc-110912,A,Compositae,,Cineraria,,"denticulata",,"","L.f.",Synonym,,M,TICA,36AF02CE-458E-45B1-A2E2-B1F05152C7A3,194670-1,"","","375","1782",gcc-124197
+gcc-91186,A,Compositae,,Cineraria,,"denticulata",,"","DC.",Unresolved,,L,TICA,6EF5348D-D42C-446F-8023-85C809005249,194669-1,"""Prodr. (DC.) 6: 416, in syn.""","","416","1838",
+gcc-86770,A,Compositae,,Cineraria,,"dieterlenii",,"","E.Phillips",Accepted,,M,TICA,CB312BE8-67BA-4466-A73F-7BAD08D9FD6F,,"","","","1917",
+gcc-88915,A,Compositae,,Cineraria,,"difformis",,"","Rochel",Synonym,,L,TICA,28257893-98AD-421B-BE0F-807D0A74FABF,,"","","Index","1828",gcc-142563
+gcc-119884,A,Compositae,,Cineraria,,"discoidea",,"","Kit.",Unresolved,,L,TICA,0D9AF4D2-FB55-4C81-8124-C6308D03F163,,"Linnaea 32","","","",
+gcc-137108,A,Compositae,,Cineraria,,"discolor",,"","Sw.",Synonym,,M,TICA,BD89B3AC-50D7-4D27-BDBD-EDBA56A042A6,318960-2,"Prodr. (Swartz) 114","","114","1788",gcc-142438
+gcc-144090,A,Compositae,,Cineraria,,"distans",,"","Kunze",Synonym,,M,TICA,48EB8D14-2F2D-4649-8AE1-FD57339F063B,,"Linnaea 17","","571","",gcc-744
+gcc-88576,A,Compositae,,Cineraria,,"divaricata",,"","Spreng. ex DC.",Unresolved,,L,TICA,1F85FB31-96CD-4646-911D-7FBBE6C4A64C,194676-1,"","","370","1838",
+gcc-22593,A,Compositae,,Cineraria,,"doria",,"","Spreng. ex DC.",Synonym,,M,TICA,DC7D9393-D826-4E9E-8BD7-29D0F5F62887,194677-1,"","","364","1838",gcc-90208
+gcc-50290,A,Compositae,,Cineraria,,"dracunculoides",,"","Moc. & Sessé ex DC.",Synonym,,M,TICA,5B6D8109-0946-4B8F-BB96-5D44347EC6D3,194678-1,"","","430","1838",gcc-110808
+gcc-96721,A,Compositae,,Cineraria,,"dregeana",,"","DC.",Accepted,,M,TICA,E813D86A-4861-4EF5-8652-9242D91861D2,194679-1,"","","305","1838",
+gcc-123225,A,Compositae,,Cineraria,,"dryogeton",,"","Cron",Accepted,,M,TICA,299A5577-589F-4248-B966-CDD20B11B78B,77073010-1,"""S. African J. Bot. 72(1): 37 (35-38; figs. 1, 2d-f, 3e-g)""","","""37 (35-38; figs. 1, 2d-f, 3e-g)""","2006",
+gcc-14437,A,Compositae,,Cineraria,,"dubia",,"","Weigel",Unresolved,,L,TICA,AE9A14A7-2ED1-49C8-85C0-1ACAE7B7FE16,927248-1,"","","32","1782",
+gcc-30646,A,Compositae,,Cineraria,,"dubia",,"","Spreng.",Unresolved,,L,TICA,A9824401-BD1B-4D78-AE72-38BBB9C6F394,194680-1,"","","550","1826",
+gcc-141437,A,Compositae,,Cineraria,,"eenii",,"","(S.Moore) S.Moore",Synonym,,M,TICA,B3B45985-091C-41DC-BADA-F76DDFE050E1,,"","","","1899",gcc-93331
+gcc-86918,A,Compositae,,Cineraria,,"elata",,"","Steud.",Synonym,,M,TICA,C78C608C-3133-469C-946D-7C06CCA5485B,194682-1,"","","364","1840",gcc-10137
+gcc-45450,A,Compositae,,Cineraria,,"elatior",,"","Bouché",Unresolved,,L,TICA,C70FC779-C82C-46BF-AD10-5439D2A83B68,,"","","333","1821",
+gcc-92648,A,Compositae,,Cineraria,,"elegantissima",,"","Hoffmanns.",Unresolved,,L,TICA,C42E01C5-DD49-497E-A48F-890F416F0BEB,,"","","","1842",
+gcc-34037,A,Compositae,,Cineraria,,"elodes",,"","(DC.) Nyman",Synonym,,M,TICA,41CD91F5-99F7-4687-A998-3F1EE7C4E170,194685-1,"","","2","1855",gcc-22964
+gcc-138755,A,Compositae,,Cineraria,,"elongata",,"","L.f.",Synonym,,M,TICA,3143751E-ABF9-44ED-8BB0-F14E10D0ABE2,194686-1,"","","374","1782",gcc-60134
+gcc-51087,A,Compositae,,Cineraria,,"eminii",,"","Asch. ex Schweinf.",Unresolved,,L,TICA,8F30CD42-8A73-475B-90EF-5EC5DB339777,194687-1,"","","173","1892",
+gcc-1994,A,Compositae,,Cineraria,,"erodioides",,"","DC.",Accepted,,M,TICA,7975F51C-CA40-4C59-94DF-0399069A6011,194688-1,"","","307","1838",
+gcc-55355,A,Compositae,,Cineraria,,"erodioides",var.,"erodioides","",Synonym,,L,TICA,C90C17D3-CA59-48CE-8966-7551048D5F51,,"","","","",gcc-1994
+gcc-116095,A,Compositae,,Cineraria,,"erosa",,"","(Thunb.) Willd.",Accepted,,M,TICA,584B2695-66CD-4442-89A7-BDA9512D2282,,"","","","1803",
+gcc-136489,A,Compositae,,Cineraria,,"erosa",,"","(Thunb.) Harv.",Unresolved,,L,TICA,9D0EF9C2-7850-425B-961E-EC56BBE56BC5,,"Fl. Cap. (Harvey) iii. 309","","309","",
+gcc-85035,A,Compositae,,Cineraria,,"erucifolia",,"","Viv. ex Illar.",Unresolved,,L,TICA,898FA1E7-CD1C-404A-89C9-77C86F2A3B69,194691-1,"""in Archiv. Bot., Forli, 1938, xiv. (n. s. iv.) 150, in obs., pro syn.""","","""xiv. (n. s. iv.) 150, in obs., pro syn.""","1938",
+gcc-30603,A,Compositae,,Cineraria,,"exilis",,"","DC.",Accepted,,M,TICA,E579E9B6-6A2E-4DC1-84A3-38AC0253459B,194692-1,"","","305","1838",
+gcc-134460,A,Compositae,,Cineraria,,"exsquamata",,"","Sweet",Unresolved,,L,TICA,D2BDFCE5-2DBB-4CB3-B4CE-E7DE82056BEE,927776-1,"","","305","1830",
+gcc-85449,A,Compositae,,Cineraria,,"farfara",,"","Bernh.",Synonym,,M,TICA,C6E71943-CDEA-4DC4-9430-78AF6F6271C8,194693-1,"","","146","1800",gcc-78510
+gcc-136498,A,Compositae,,Cineraria,,"filifolia",,"","Thunb.",Synonym,,M,TICA,90FE8CAD-0C13-47EC-93FD-EC5B6330F398,194694-1,"","","154","1800",gcc-62557
+tro-2720986,A,Compositae,,Cineraria,,"filifolius",,"","Thunb.",Synonym,,M,TRO,2720986,,"","","","",gcc-101140
+gcc-50466,A,Compositae,,Cineraria,,"fischeri",,"","Ledeb.",Synonym,,M,TICA,955E5C20-42E1-4CA9-BF44-5D8EB7C3E300,194695-1,"","","17","1820",gcc-10137
+gcc-23582,A,Compositae,,Cineraria,,"flammea",,"","Turcz. ex DC.",Synonym,,M,TICA,5B736C63-341C-4CF4-A328-2B9AC4A4E233,,"","","862","1838",gcc-2057
+gcc-107038,A,Compositae,,Cineraria,,"flatnitzensis",,"","Pacher",Unresolved,,L,TICA,3F57DB4C-E583-4569-9D33-A92F12FEE28E,194697-1,"","","","1894",
+gcc-35680,A,Compositae,,Cineraria,,"foliosa",,"","O.Hoffm.",Synonym,,M,TICA,A3F7E11F-155A-4320-B279-422EF72A55D3,,"","","","1901",gcc-106727
+gcc-29297,A,Compositae,,Cineraria,,"forsteri",,"","Spreng.",Synonym,,M,TICA,6F28AA8F-44A3-4DEC-8EC2-36222EA3E23C,194699-1,"Pl. Min. Cogn. Pug. 1","","58","1813",gcc-99746
+gcc-14450,A,Compositae,,Cineraria,,"fragrans",,"","Hoffmanns. ex Steud.",Synonym,,M,TICA,392FAE95-D338-4A08-87AA-1AD41BE751C9,,"","","864","1840",gcc-6575
+gcc-7488,A,Compositae,,Cineraria,,"frigida",,"","Richardson",Synonym,,M,TICA,0EFEC036-C416-443E-902E-0DEC25C330D3,,"","","748","1823",gcc-133637
+gcc-150917,A,Compositae,,Cineraria,,"frigida",f.,"frigida","",Synonym,,L,TICA,F6B6EB06-69E3-4C37-B1B8-78F3CDE211A4,,"","","","",gcc-133637
+tro-100378469,A,Compositae,,Cineraria,,"frigida",var.,"robusta","Herder",Synonym,,L,TRO,100378469,,"","","","",gcc-100512
+gcc-73440,A,Compositae,,Cineraria,,"frigida",f.,"taimyrensis","Herder",Synonym,,L,TICA,1436200C-B71D-4CF0-8421-192B2ADBA6B4,,"Bull. Soc. Nat. Moscou 40 : 438 (1867)","","438","1867",gcc-133637
+gcc-74190,A,Compositae,,Cineraria,,"frigida",f.,"tomentosa","Kjellm.",Synonym,,L,TICA,CD422E1B-70F1-443F-A2F3-36CBFCB3A015,,"Norra Ishav. Algfl. 2","","","1883",gcc-40948
+gcc-8217,A,Compositae,,Cineraria,,"fulva",,"","Steven",Synonym,,M,TICA,57F2AB1F-655A-4CFD-A844-0F46C3D3A3B2,194702-1,"","","64","1816",gcc-56319
+gcc-31310,A,Compositae,,Cineraria,,"fuscata",,"","(Hayek) Hoppe",Synonym,,L,TICA,909586A8-1CAF-4BBD-82FD-39FCF32D363C,,"","","","",gcc-104275
+gcc-111346,A,Compositae,,Cineraria,,"fussii",,"","Griseb. & Schenk",Synonym,,M,TICA,4AB2B959-54D4-4120-AE05-B2EA1C2C2847,,"","","","1852",gcc-14224
+gcc-132475,A,Compositae,,Cineraria,,"geifolia",,"","C.A.Mey. ex Steud.",Unresolved,,L,TICA,C1283985-0741-480B-BABA-E35928FB4DD8,194705-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 364""","","364","1840",
+gcc-89238,A,Compositae,,Cineraria,,"geifolia",,"","(L.) L.",Accepted,,M,TICA,EF64FDE3-2131-4E46-A8CB-814195D53E5B,194704-1,"","","1242","1763",
+gcc-151174,A,Compositae,,Cineraria,,"geifolia",var.,"geifolia","",Synonym,,L,TICA,B62501E7-E241-455E-8DA9-7F3ECD344662,,"","","","",gcc-89238
+gcc-15668,A,Compositae,,Cineraria,,"geifolia",var.,"glabra","DC.",Synonym,,L,TICA,F9E99B69-D912-4DF3-92F8-1D061ACB1BA4,,"Prodr. 6: 521 (1838).","","","",gcc-89238
+gcc-84866,A,Compositae,,Cineraria,,"geniculata",,"","Steud.",Synonym,,M,TICA,14A448A2-0340-4E34-81D8-776F0A415406,194706-1,"","","364","1840",gcc-96233
+gcc-108884,A,Compositae,,Cineraria,,"geraniifolia",,"","DC.",Accepted,,M,TICA,D0A653DB-96D2-4DCE-B92C-AD5D4F45ACBC,194707-1,"","","308","1838",
+gcc-31349,A,Compositae,,Cineraria,,"gibbosa",,"","Guss.",Synonym,,M,TICA,07021574-2822-469A-8654-3A100969D6E5,194708-1,"","","3","1821",gcc-4129
+gcc-121430,A,Compositae,,Cineraria,,"gigantea",,"","Sm.",Synonym,,M,TICA,0839AE38-8405-436F-BE6E-C9CA2DF9C4CC,,"","","","1805",gcc-105393
+gcc-138764,A,Compositae,,Cineraria,,"glabella",,"","Turcz. ex DC.",Synonym,,M,TICA,60BE51A9-BCA9-45FF-BBC0-F152F71290EC,194710-1,"","","360","1838",gcc-137600
+gcc-40629,A,Compositae,,Cineraria,,"glaberrima",,"","Spreng. ex DC.",Unresolved,,L,TICA,B322883A-A091-431A-912E-4B508F33286E,194711-1,"","","25","1836",
+gcc-140452,A,Compositae,,Cineraria,,"glabra",,"","Sw.",Synonym,,M,TICA,0F69611E-9E3B-4982-AA34-F50B83098ABC,58748-2,"Prodr. (Swartz) 113","","113","1788",gcc-61
+gcc-103434,A,Compositae,,Cineraria,,"glabrata",,"","Sw.",Synonym,Illegitimate,M,TICA,BA87DC2E-C96E-4C2A-BD57-A1403129C5DF,194714-1,"","","1354","1806",gcc-61
+gcc-93083,A,Compositae,,Cineraria,,"glabrata",,"","Ledeb.",Synonym,,M,TICA,FC9DF85E-DA5B-4684-98D3-89FDF332E3CC,194713-1,"","","t. 94","1829",gcc-81481
+gcc-20548,A,Compositae,,Cineraria,,"glandulifera",,"","Vuk.",Synonym,,M,TICA,283C2F39-C31F-46DE-ABBB-26053AE9DDAB,,"","","","1880",gcc-92749
+gcc-1987,A,Compositae,,Cineraria,,"glandulosa",,"","Cron",Accepted,,M,TICA,83C79B3C-F741-49BF-931E-03959EADFA16,77073009-1,"""S. African J. Bot. 72(1): 35 (-37; figs. 1, 2a, 3a-b)""","","""35 (-37; figs. 1, 2a, 3a-b)""","2006",
+gcc-87151,A,Compositae,,Cineraria,,"glastifolia",,"","Banks & Sol. ex Hook.f.",Unresolved,,L,TICA,F55C9C20-5F7C-4B45-84A5-7C9BB7A7D18E,,"","","","1852",
+gcc-144191,A,Compositae,,Cineraria,,"glauca",,"","L.",Synonym,,M,TICA,F1DD03CC-5674-4845-8567-FD8D87B204C4,194717-1,"","","1242","1763",gcc-103656
+gcc-95653,A,Compositae,,Cineraria,,"gnaphailoides",,"","(Spreng.) Nyman",Synonym,,M,TICA,6B6A38A3-2D86-43B0-B42B-8FDA1CAD7882,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-92451
+gcc-76005,A,Compositae,,Cineraria,,"gnaphalodes",,"","Nyman",Unresolved,,L,TICA,1E9AF7C1-A7AB-4134-8A84-63B3979F8539,,"","","","1879",
+gcc-125482,A,Compositae,,Cineraria,,"gracilis",,"","O.Hoffm.",Accepted,,M,TICA,4F1AA22B-80B6-4B55-B1D8-D324F9A502E0,,"","","","1906",
+gcc-84608,A,Compositae,,Cineraria,,"grandibracteata",,"","Hilliard",Accepted,,M,TICA,635AB097-BCE3-4FFF-91F0-76E6C66C4F1D,899485-1,"","","248","1982",
+gcc-50973,A,Compositae,,Cineraria,,"grandiflora",,"","Spreng. ex DC.",Synonym,,L,TICA,3BE36A1E-5450-4916-A04C-5E93DBFE5150,194720-1,"","","314","1838",gcc-88917
+gcc-90991,A,Compositae,,Cineraria,,"grandiflora",,"","Vatke",Synonym,,M,TICA,58FAFBA4-5AA2-4557-AA51-854D02FFF92B,194721-1,"Linnaea 39","","503","1875",gcc-106727
+gcc-47578,A,Compositae,,Cineraria,,"grisebachii",,"","Degen & Dörfl.",Unresolved,,L,TICA,9915014A-FEB3-42D2-B66A-58278E8E3BE4,,"","","725","1897",
+gcc-118278,A,Compositae,,Cineraria,,"gualtata",,"","Hook. & Arn.",Synonym,,M,TICA,A9FB7DC2-0FB5-487E-AFAA-C290368B2E01,,"","","","1841",gcc-90274
+gcc-113007,A,Compositae,,Cineraria,,"hamiltonii",,"","S.Moore",Synonym,,M,TICA,198E5C90-8BAC-4169-BCD8-B6B09CD1AAFD,194724-1,"","","382","1902",gcc-8968
+gcc-122300,A,Compositae,,Cineraria,,"hastifolia",,"","L.f.",Synonym,,M,TICA,2C3AC9A4-F90B-45F0-9E92-CBB4A548B1AF,,"","","876","1782",gcc-6983
+gcc-29030,A,Compositae,,Cineraria,,"hastifolia",,"","Thunb.",Synonym,,M,TICA,E6EE4964-8007-4D75-B391-35A2219AF995,,"","","","",gcc-6983
+gcc-119541,A,Compositae,,Cineraria,,"hederifolia",,"","Cron",Accepted,,M,TICA,E3F2E31B-AA1A-454D-82CD-C563DF898C22,,"","","166","1994",
+gcc-109542,A,Compositae,,Cineraria,,"heldreichii",,"","(Boiss.) Nyman",Synonym,,M,TICA,63780889-EF4F-4CAB-AF05-AEE45D4C4E85,194726-1,"","","2","1855",gcc-137600
+gcc-42389,A,Compositae,,Cineraria,,"helenitis",,"","Steud.",Synonym,,M,TICA,E0CC8353-837D-4C89-ADCD-4E89CDC87BCE,194727-1,"","","364","1840",gcc-69178
+gcc-85198,A,Compositae,,Cineraria,,"helenitis",,"","Georgi",Synonym,,M,TICA,A3FFC862-48E4-4FCD-8DA6-782829F47316,,"","","1246","1775",gcc-137600
+gcc-106456,A,Compositae,,Cineraria,,"heterophylla",,"","Pursh",Synonym,,M,TICA,436607E9-9491-45F4-9AE9-A7D6A8637F42,,"","","","1814",gcc-3715
+gcc-138213,A,Compositae,,Cineraria,,"heterophylla",,"","Ortega",Unresolved,,L,TICA,881DA3BB-E58A-4D38-9531-F0222DF4D45E,194731-1,"","","71","1798",gcc-44177
+gcc-32739,A,Compositae,,Cineraria,,"heterophylla",,"","Fisch.",Synonym,,M,TICA,277561E4-8952-4795-85FB-3CB4479B64B0,321390-2,"Mém. Soc. Imp. Naturalistes Moscou 3","","79","1812",gcc-52273
+gcc-111790,A,Compositae,,Cineraria,,"heuffelii",,"","Hoppe ex Nyman",Synonym,,M,TICA,6F665D32-5C40-4656-9FA0-B3F034B1DF46,,"","","851","1882",gcc-113566
+gcc-91044,A,Compositae,,Cineraria,,"hinniculus",,"","Hort. ex Marnock",Unresolved,,L,TICA,169F9E95-DEB4-4B18-881C-856EC0E32AC0,,"","","","1839",
+gcc-52308,A,Compositae,,Cineraria,,"hirsuta",,"","Vent.",Synonym,,M,TICA,2FA55BA6-49FC-44B8-89BA-610347626BB2,194734-1,"","","95","1805",gcc-75797
+gcc-3072,A,Compositae,,Cineraria,,"hirta",,"","Vahl ex DC.",Synonym,,L,TICA,277F9DB5-CE21-488A-90DB-05AFE1DB4060,194735-1,"","","226","1836",gcc-141336
+gcc-34193,A,Compositae,,Cineraria,,"hualtata",,"","Walp.",Synonym,,M,TICA,E909AEB2-5933-4038-8262-3F62DAD7D4EF,,"","","658","1843",gcc-90274
+gcc-26220,A,Compositae,,Cineraria,,"huilensis",,"","Cron",Accepted,,M,TICA,7CFE1CB2-2AC3-40F9-83C2-307C1D071476,77074643-1,"""Kew Bull. 61(2): 174 (173-175, 177; fig. 3d-f, map 2)""","","""174 (173-175, 177; fig. 3d-f, map 2)""","2006",
+gcc-88747,A,Compositae,,Cineraria,,"humifusa",,"","L'Hér.",Accepted,,M,TICA,887BE38A-02E6-4E81-B5E1-802850213BD1,,"","","","1789",
+gcc-116810,A,Compositae,,Cineraria,,"humilis",,"","Poepp.",Synonym,,M,TICA,1E7C8BA1-9304-471A-A226-BF45C5144947,,"","","","",gcc-136653
+gcc-40526,A,Compositae,,Cineraria,,"humilis",,"","Poepp. ex DC.",Synonym,,M,TICA,E03B3A1D-7381-4B2B-831F-4B170B0D6A09,194738-1,"","","417","1838",gcc-99298
+gcc-141015,A,Compositae,,Cineraria,,"hybrida",,"","Bernh.",Synonym,,M,TICA,41B6CFB7-1C59-417A-84CD-F6667292FB75,194739-1,"","","146","1800",gcc-143847
+gcc-79093,A,Compositae,,Cineraria,,"hybrida",,"","Willd.",Synonym,Illegitimate,L,TICA,5217FA7B-6051-4026-80E2-6AB01A971608,329686-2,"","","893","1809",gcc-31561
+gcc-22967,A,Compositae,,Cineraria,,"hygrophila",,"","(Klatt) Klatt",Synonym,,M,TICA,12423C3D-7329-47AD-9FD1-2A859BF7AE81,194741-1,"","","299","1892",gcc-74026
+gcc-1074,A,Compositae,,Cineraria,,"hypoleuca",,"","Sieber",Synonym,,M,TICA,A75704DF-FD19-4538-87C5-01F753833E93,,"","","","",gcc-102041
+gcc-31741,A,Compositae,,Cineraria,,"hypoleuca",,"","DC.",Synonym,,M,TICA,7580141D-B021-4D8B-81A8-3AD0C769D1B7,194742-1,"Prodr. 6","","389","1838",gcc-96371
+gcc-78618,A,Compositae,,Cineraria,,"hypoleuca",,"","Harv. & Sond.",Synonym,,M,TICA,E1121F45-D190-4D8F-9517-698A35992BDB,194744-1,"","","381","1865",gcc-102041
+gcc-14302,A,Compositae,,Cineraria,,"incana",,"","Sw.",Synonym,,M,TICA,2519DB86-89E8-456A-9457-1A89ABA8E691,58749-2,"Fl. Ind. Occid. 3","","1356","1806",gcc-41139
+gcc-103195,A,Compositae,,Cineraria,,"incisa",,"","Houtt. ex DC.",Synonym,,M,TICA,31CA6D6E-9E41-4CC4-BB1C-A0B597C88827,194746-1,"","","438","1838",gcc-92473
+gcc-104322,A,Compositae,,Cineraria,,"incisa",,"","Thunb.",Synonym,,M,TICA,3B0DDE9D-65DD-4C89-9754-A34260385C76,194747-1,"","","156","1800",gcc-99298
+gcc-113616,A,Compositae,,Cineraria,,"incisa",,"","Willd.",Synonym,,M,TICA,90216BC0-006D-479B-A445-B8013E1DE2F7,,"","","","1803",gcc-80011
+gcc-105055,A,Compositae,,Cineraria,,"integrifolia",,"","Schkuhr",Synonym,Illegitimate,M,TICA,EC37E861-9856-45D2-A360-A4D1B41B9AB7,194753-1,"","","t. 246","1802",gcc-92749
+gcc-106185,A,Compositae,,Cineraria,,"integrifolia",,"","Jacq. ex Willd.",Unresolved,Illegitimate,L,TICA,C440D265-4648-45A4-8D12-A733F5F17D01,,"","","","1803",
+gcc-11355,A,Compositae,,Cineraria,,"integrifolia",,"","(L.) Murray",Synonym,,M,TICA,AD5BCF3F-20D1-4BCC-9E09-153B8D114BEE,,"""Murray, Syst. Veg., ed. 14. 1784.""","","764","1784",gcc-137600
+gcc-115429,A,Compositae,,Cineraria,,"integrifolia",,"","Vill. ex Steud.",Unresolved,,L,TICA,2B2EFBAF-36BD-4298-9BD0-BC1E97D290AD,194754-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 364""","","364","1840",
+gcc-121542,A,Compositae,,Cineraria,,"integrifolia",,"","Richardson",Synonym,Illegitimate,L,TICA,2264D291-6405-488E-AA71-CA04DBDD292C,194749-1,"Bot. App.: 31 (1823)","","31","1823",gcc-105007
+gcc-145466,A,Compositae,,Cineraria,,"integrifolia",,"","Richards.",Unresolved,,L,TICA,83763683-2E36-4FC0-86BB-047DF884E83C,,"in Frankl. Narr. Ist Journ. ed. II. 31.","","II. 31","",
+gcc-41755,A,Compositae,,Cineraria,,"integrifolia",,"","With.",Synonym,,M,TICA,BE8C45BA-1C4A-4BC9-A5E5-4D53801136D8,,"","","","1787",gcc-137600
+gcc-6949,A,Compositae,,Cineraria,,"integrifolia",,"","Pursh",Synonym,Illegitimate,M,TICA,7B371256-8AA3-4799-8070-0CEC5A1CD29C,,"","","","1814",gcc-3715
+gcc-78850,A,Compositae,,Cineraria,,"integrifolia",,"","Hook. & Arn.",Synonym,Illegitimate,M,TICA,7501B6AF-98AB-45AE-8314-6A21B42B81DF,194757-1,"","","126","1832",gcc-113566
+gcc-87936,A,Compositae,,Cineraria,,"integrifolia",,"","Benth. ex Willk. & Lange",Synonym,Illegitimate,M,TICA,8D2F9F23-A11D-4931-A860-7E51013FF9BE,,"","","","1865",gcc-100383
+gcc-152503,A,Compositae,,Cineraria,,"integrifolia",var.,"integrifolia","",Synonym,,L,TICA,F2929085-C44E-4C66-AFB2-9ABE073DDA5E,,"","","","",gcc-106185
+gcc-54803,A,Compositae,,Cineraria,,"integrifolia",var.,"minor","Pursh",Synonym,,L,TICA,11A96693-69A6-4A61-9719-70FDFAABB211,,"","","528","",gcc-3715
+gcc-130805,A,Compositae,,Cineraria,,"japonica",,"","Thunb.",Synonym,,M,TICA,6E13F403-391C-424C-927B-DF65DB032329,927449-1,"","","766","1784",gcc-41176
+gcc-117595,A,Compositae,,Cineraria,,"kilimandscharica",,"","Engl.",Synonym,,M,TICA,961BAC52-E4B1-4D17-8F14-C106EDE3B780,194759-1,"","","439","1892",gcc-106727
+gcc-46366,A,Compositae,,Cineraria,,"korabensis",,"","Kümmerle & Jáv.",Synonym,,M,TICA,21240CD8-0900-4B9B-A6E2-55EE90F5FAB5,,"","","29","1921",gcc-137600
+gcc-120272,A,Compositae,,Cineraria,,"laciniata",,"","Sw.",Synonym,,L,TICA,B8CA06AC-D609-4EC1-9950-C71AC2DAAF67,291663-2,"Fl. Ind. Occid. 3: 1352. 1806","","1352","1806",gcc-105942
+gcc-135331,A,Compositae,,Cineraria,,"lactea",,"","Willd.",Synonym,,M,TICA,EC266CFE-AEAD-4D06-81AF-E9D0A94146CB,194763-1,"","","59","",gcc-135871
+gcc-141450,A,Compositae,,Cineraria,,"lactea",,"","(DC.) J.Jacq.",Synonym,Illegitimate,L,TICA,05483BAA-7ECA-41A0-834F-F77563A7DACD,194762-1,"","","t. 105","1844",gcc-31561
+gcc-110297,A,Compositae,,Cineraria,,"laevis",,"","Spreng. ex DC.",Unresolved,,L,TICA,0A4B3025-3705-4ECE-96B4-B08EEDC9ACAB,194764-1,"Prodr. (DC.) 6: 404","","404","1838",
+gcc-119756,A,Compositae,,Cineraria,,"laevis",,"","A.Spreng.",Unresolved,,L,TICA,7C23127C-150E-4DC3-9C78-C5E353B93189,194765-1,"","","23","1828",gcc-1601
+gcc-135737,A,Compositae,,Cineraria,,"lanata",,"","(L.f.) Druce",Synonym,Illegitimate,M,TICA,7260750A-4A1D-4E5B-94C2-EA9B1B5C539A,194769-1,"","","615","1917",gcc-75900
+gcc-137851,A,Compositae,,Cineraria,,"lanata",,"","Link",Unresolved,,L,TICA,CF2DE6B7-F8D5-429D-A396-EF5666519666,194767-1,"Enum. Hort. Berol. ii. 333.","","ii. 333","",
+gcc-38883,A,Compositae,,Cineraria,,"lanata",,"","Lam.",Synonym,,M,TICA,1EAEC610-B94D-4FFF-AD36-4821290659E3,194766-1,"","","7","1786",gcc-92954
+gcc-40877,A,Compositae,,Cineraria,,"lanata",,"","L'Hér.",Synonym,,M,TICA,56907591-C3BA-421E-854C-4BC2546E7046,329696-2,"","","25","1789",gcc-92954
+gcc-79541,A,Compositae,,Cineraria,,"lanata",,"","Jacq.",Synonym,,M,TICA,A1673A05-D43B-4937-BCEF-6BAA08D9112D,,"","","","1791",gcc-91408
+gcc-4442,A,Compositae,,Cineraria,,"lanceolata",,"","Lam.",Synonym,,M,TICA,E5025D42-5FD6-48A2-B513-0843367CEE2B,194770-1,"","","125","1779",gcc-100383
+gcc-8423,A,Compositae,,Cineraria,,"lanceolata",var.,"candida","Corb.",Synonym,,L,TICA,159614C8-E084-4ED4-A913-0FB0B6DE158C,,"Corb.. 1894.","","318","1894",gcc-56113
+gcc-151935,A,Compositae,,Cineraria,,"lanceolata",var.,"lanceolata","",Synonym,,L,TICA,CE14FE81-26C6-414E-BEA8-8F078E33B286,,"","","","",gcc-100383
+gcc-91408,A,Compositae,,Cineraria,,"lanosa",,"","DC.",Accepted,,M,TICA,2472DC2B-9766-4F6C-BD14-8651E77D5691,,"","","809","1838",
+gcc-124862,A,Compositae,,Cineraria,,"laricifolia",,"","Lam.",Synonym,,L,TICA,A90D1C36-BAE6-4E2A-A883-D1B12F39E566,194772-1,"","","8","1786",gcc-33987
+gcc-15779,A,Compositae,,Cineraria,,"laxiflora",,"","R.E.Fr.",Synonym,,M,TICA,C07901BB-CBC2-419A-8072-1D38192B6613,194773-1,"","","146","1928",gcc-106727
+gcc-33954,A,Compositae,,Cineraria,,"leucantha",,"","Banks & Sol. ex Walp.",Synonym,,M,TICA,D5AAD11E-BB08-46BA-95E8-3EF79B40F16D,,"","","","",gcc-105393
+gcc-8219,A,Compositae,,Cineraria,,"leucanthema",,"","Banks & Sol. ex Hook.f.",Synonym,,M,TICA,BA1B61BB-8563-46BC-A282-0F475585B3BF,,"","","","1847",gcc-105393
+gcc-26646,A,Compositae,,Cineraria,,"lewisii",,"","Richardson",Synonym,,M,TICA,571D7AC9-12D8-4C63-95C9-313BD391F871,,"","","","1823",gcc-102530
+gcc-140246,A,Compositae,,Cineraria,,"lineata",,"","Vahl ex DC.",Unresolved,,L,TICA,0014500E-50EE-424E-BC77-F491FB3BF0B3,,"Prodr. (DC.) 6: 395","","895","1838",
+gcc-92080,A,Compositae,,Cineraria,,"lineata",,"","L.f.",Synonym,,M,TICA,D6588C93-A7DD-4BE9-9B31-87CC7738FF65,194776-1,"","","375","1782",gcc-113864
+gcc-116214,A,Compositae,,Cineraria,,"linifolia",,"","Zeyh. ex DC.",Synonym,Invalid,M,TICA,196DB730-4F30-4AC3-9CA6-BDF0D318B50D,194779-1,"Prodr. (DC.) 5: 224","","224","1836",gcc-121694
+gcc-35670,A,Compositae,,Cineraria,,"linifolia",,"","(L.) L.",Synonym,,M,TICA,C1024440-0FAA-4D73-8837-422883C6C742,,"","","106","1763",gcc-18790
+gcc-37689,A,Compositae,,Cineraria,,"littoralis",,"","Vest",Synonym,,M,TICA,664DB954-F77B-4EAF-A07A-45E526BEBDB1,,"","","","1820",gcc-4129
+gcc-109074,A,Compositae,,Cineraria,,"lobata",,"","L'Hér.",Accepted,,M,TICA,2B34A182-9031-4E7E-AEB3-ADD08F727AF4,,"","","","1789",
+gcc-14345,A,Compositae,,Cineraria,,"lobata",,"","DC.",Unresolved,Illegitimate,L,TICA,B9037B74-3EC9-4392-ADB5-1AA4642F33D4,,"Prodr. (DC.) 6: 431","","431","",
+gcc-20035,A,Compositae,,Cineraria,,"lobata",subsp.,"lobata","",Synonym,,L,TICA,9CF88F29-3793-429E-A6EF-250C7BF400EF,,"","","","",gcc-109074
+gcc-102794,A,Compositae,,Cineraria,,"longifolia",,"","All.",Synonym,,M,TICA,E97AAC46-7726-4A9A-9E71-9FEACD224714,194784-1,"","","203","1785",gcc-140600
+gcc-114241,A,Compositae,,Cineraria,,"longifolia",,"","Jacq.",Synonym,,M,TICA,AD79AFB0-C248-4B48-A0BC-B960D08D8F1D,194787-1,"","","49","1774",gcc-82160
+gcc-11966,A,Compositae,,Cineraria,,"longifolia",,"","Griseb. & Schenk",Synonym,,M,TICA,C1190C7E-C75F-4996-8DC4-164EE6F7ACA4,,"","","","1852",gcc-95193
+gcc-31191,A,Compositae,,Cineraria,,"longifolia",,"","Besser",Synonym,,M,TICA,4F495495-F4B5-4286-A99A-39C21C7A94B5,,"","","33","1821",gcc-82160
+gcc-92820,A,Compositae,,Cineraria,,"longifolia",,"","Eichw.",Synonym,,M,TICA,3CF58456-1BF1-44D6-A7D8-8970C45EB8B5,194786-1,"","","22","1835",gcc-95193
+gcc-9375,A,Compositae,,Cineraria,,"longifolia",,"","Lapeyr.",Synonym,,M,TICA,6A947D04-1D7C-4FAC-99C5-118253AF4837,194783-1,"","","521","1813",gcc-100383
+gcc-61055,A,Compositae,,Cineraria,,"longifolia",subsp.,"arvernensis","(Rouy) Nyman",Synonym,,L,TICA,6AB9E817-A49F-4A63-BFEF-A38834E11674,,"Nyman. 1889.","","162","1889",gcc-64542
+gcc-157144,A,Compositae,,Cineraria,,"longifolia",subsp.,"longifolia","",Synonym,,L,TICA,C08218E8-F5E9-47AA-B238-FBF02CC70FFD,,"","","","",gcc-82160
+gcc-157271,A,Compositae,,Cineraria,,"longifolia",var.,"longifolia","",Synonym,,L,TICA,EEDCCA35-C564-44FF-9D12-FE72E101D08B,,"","","","",gcc-140600
+gcc-67120,A,Compositae,,Cineraria,,"longifolia",var.,"macrochaeta","Willk.",Synonym,,L,TICA,8D6DC6FC-F9ED-43F3-A69F-D45757068254,,"""Willk. in Willkomm & Lange, Prodr. Fl. Hispan. 2. 1865.""","","111","1865",gcc-53741
+gcc-19098,A,Compositae,,Cineraria,,"longifolia",subsp.,"pyrenaica","(Nyman) Nyman",Synonym,,L,TICA,DADE1F06-A308-4B06-ADA2-2343C8761CDE,,"""Nyman, Consp. Fl. Eur. 1879.""","","352","1879",gcc-100383
+gcc-53605,A,Compositae,,Cineraria,,"longifolia",var.,"sulphurea","Baumg.",Synonym,,L,TICA,C1065630-43E4-41E7-AC0C-677C6D5F6C22,,"Baumg.. 1817.","","125","1817",gcc-14224
+gcc-104130,A,Compositae,,Cineraria,,"longipes",,"","S.Moore",Accepted,,M,TICA,EB6B6A64-924E-4C3D-AB69-A2D3C5E20314,194789-1,"","","400","1903",
+gcc-10437,A,Compositae,,Cineraria,,"lucida",,"","Sw.",Synonym,,M,TICA,D1C4C65C-8A8D-4863-8E58-1378E2C98C72,300468-2,"Fl. Ind. Occid. 3","","1360","1806",gcc-28446
+gcc-26023,A,Compositae,,Cineraria,,"lyrata",,"","Ledeb.",Synonym,,M,TICA,0552AA54-5AEE-4C4D-A244-301AE96A7B7E,,"","","576","1818",gcc-52273
+gcc-75874,A,Compositae,,Cineraria,,"lyrata",,"","DC.",Synonym,Illegitimate,M,TICA,B8A29346-3D37-47D0-A5F8-636E0CA0452F,194792-1,"","","308","1838",gcc-23966
+gcc-84283,A,Compositae,,Cineraria,,"lyratifolia",,"","Bluff & Fing.",Unresolved,,L,TICA,C35A1712-727D-4F9F-B0D4-76345C1160DC,194793-1,"","","","1825",gcc-142563
+gcc-23966,A,Compositae,,Cineraria,,"lyratiformis",,"","Cron",Accepted,,M,TICA,F9257A80-79F6-401F-ABEB-2C4B54865142,,"","","287","1999",
+gcc-121807,A,Compositae,,Cineraria,,"lyratipartita",,"","(Sch.Bip. ex A.Rich.) Cufod.",Synonym,,M,TICA,9C57CF76-9188-4BAB-92E0-CA934BA2EEDC,194794-1,"","","1152","1967",gcc-119510
+gcc-15193,A,Compositae,,Cineraria,,"macrophylla",,"","Ledeb.",Synonym,,M,TICA,8BCEDBF0-40EC-4380-A7C1-1C1E5E3A911E,194795-1,"","","108","1833",gcc-36762
+gcc-26906,A,Compositae,,Cineraria,,"magnicephala",,"","Cron",Accepted,,M,TICA,3F01BBED-C102-4C74-AC0D-31C11C91CE17,77075884-1,"""Kew Bull. 61(4): 511 (-512; figs. 13D, 14A)""","","""511 (-512; figs. 13D, 14A)""","2007",
+gcc-88416,A,Compositae,,Cineraria,,"malvifolia",,"","L'Hér.",Synonym,,M,TICA,E3D23F8A-7C7D-442C-96B5-7F5F3F47354E,329691-2,"Sert. Angl.","","26","1789",gcc-129403
+gcc-414,A,Compositae,,Cineraria,,"maritima",,"","Wulf. ex Steud.",Unresolved,,L,TICA,8B3C4F0F-C3B0-4980-A354-00C45750A008,194798-1,"""Nomencl. Bot., ed. 2 (Steudel) 1: 364""","","364","1840",
+gcc-5540,A,Compositae,,Cineraria,,"maritima",,"","(L.) L.",Synonym,,M,TICA,631743E4-EC77-474E-9A82-0A5420BD1421,,"","","","1763",gcc-31568
+gcc-78576,A,Compositae,,Cineraria,,"mazoensis",,"","S.Moore",Accepted,,M,TICA,B124E655-2277-4971-B89F-6970BB91474A,194799-1,"","","43","1908",
+gcc-51471,A,Compositae,,Cineraria,,"mazoensis",var.,"mazoensis","",Synonym,,L,TICA,AC611F3C-70F7-40A6-850E-5F764B5785D2,,"Kew Bull. 61(2): 171 (2006)","","","",gcc-78576
+gcc-126158,A,Compositae,,Cineraria,,"megapotamica",,"","Spreng.",Unresolved,,L,TICA,441717CB-8760-46C6-95CB-D4AE41B30A62,194800-1,"Syst. Veg. 3: 547 (1826)","","547","1826",
+gcc-15264,A,Compositae,,Cineraria,,"microglossa",,"","DC.",Accepted,,M,TICA,6210ACB3-E2EB-4089-B6C2-1C410521EA1B,,"","","805","1838",
+gcc-125195,A,Compositae,,Cineraria,,"microphylla",,"","(Cass.) Vahl ex DC.",Synonym,,M,TICA,BF5B1F31-77E3-4472-BB67-D27FACD9EB5C,194802-1,"","","225","1836",gcc-46545
+gcc-26366,A,Compositae,,Cineraria,,"microrhiza",,"","Schur",Synonym,,M,TICA,6F5BC47F-CC28-4447-8D9A-30BB9D40A416,194803-1,"","","","1859",gcc-137600
+gcc-85450,A,Compositae,,Cineraria,,"minuta",,"","Cav.",Synonym,,M,TICA,297C1E04-A378-4145-B595-78B0293CE54D,,"","","21","1791",gcc-44177
+gcc-138550,A,Compositae,,Cineraria,,"mitellifolia",,"","L'Hér.",Accepted,,M,TICA,59740195-6358-463F-A939-F0D2ACC92413,,"","","","1789",
+gcc-113248,A,Compositae,,Cineraria,,"mollis",,"","E.Mey. ex DC.",Accepted,,M,TICA,32A0CC9B-5BD7-4710-A98A-B736EEFBFF3F,194806-1,"","","306","1838",
+gcc-109962,A,Compositae,,Cineraria,,"mongolica",,"","Turcz.",Synonym,,M,TICA,656C2FAE-335D-4F4E-886A-AFD2395009D8,194807-1,"","","199","1832",gcc-42753
+gcc-108576,A,Compositae,,Cineraria,,"montana",,"","Bolus",Synonym,,M,TICA,AA680C1A-5920-4EE5-8910-AC986B815BBC,194808-1,"","","396","1907",gcc-23648
+gcc-90643,A,Compositae,,Cineraria,,"montevidensis",,"","Spreng.",Synonym,,M,TICA,887C53C8-66AE-4C55-8B3A-848CA8600A86,194809-1,"","","548","1826",gcc-36353
+gcc-27344,A,Compositae,,Cineraria,,"monticola",,"","Hutch.",Synonym,,M,TICA,0264F5FA-BD06-49A7-B570-329257F9F2B2,194810-1,"","","251","1931",gcc-106727
+gcc-22691,A,Compositae,,Cineraria,,"multiflora",,"","L'Hér.",Synonym,,M,TICA,AEAC3B7E-B3DD-4F00-8472-29FF9E5964AF,329695-2,"Sert. Angl.","","26","1789",gcc-133733
+gcc-120312,A,Compositae,,Cineraria,,"nebrodensis",,"","Guss.",Synonym,,M,TICA,8DD5225C-4E0B-4464-A489-C732B9EBFAD5,194812-1,"","","4","1821",gcc-127638
+gcc-148240,A,Compositae,,Cineraria,,"nebrodensis",subsp.,"nebrodensis","",Synonym,,L,TICA,0BBFAD8E-EA73-4B49-8BA2-3E6DE4F8E540,,"","","","",gcc-127638
+gcc-37167,A,Compositae,,Cineraria,,"nebrodensis",subsp.,"taygetea","(Boiss.) Nyman",Synonym,,L,TICA,06F6B330-E00E-4FFA-90D6-44DC282417A7,,"""Nyman, Consp. Fl. Eur. 1879.""","","350","1879",gcc-60427
+gcc-117055,A,Compositae,,Cineraria,,"ngwenyensis",,"","Cron",Accepted,,M,TICA,3A0E1FD6-75C5-4997-AB3D-BFCAFF511DE9,77075889-1,"""Kew Bull. 61(4): 519 (-520; figs. 14D, 16)""","","""519 (-520; figs. 14D, 16)""","2007",
+gcc-49748,A,Compositae,,Cineraria,,"nivea",,"","Willd.",Synonym,,M,TICA,CBB82152-EE15-492E-A975-5C34798879D7,,"","","","",gcc-43514
+gcc-23113,A,Compositae,,Cineraria,,"nuda",,"","Kit.",Synonym,,M,TICA,7D7A12F7-FBA2-42CE-9EF0-2ACAC9BAB814,,"Linnaea 32","","389","",gcc-82160
+gcc-91925,A,Compositae,,Cineraria,,"oppositifolia",,"","Moench",Synonym,,M,TICA,29B60520-203F-479B-B58B-87804B45E43D,194815-1,"","","588","1794",gcc-9098
+gcc-103001,A,Compositae,,Cineraria,,"othonnitis",,"","L.",Synonym,,M,TICA,630004D9-6360-4715-96AB-A0540CB545E8,194816-1,"","","1244","1763",gcc-85952
+gcc-50814,A,Compositae,,Cineraria,,"othonnoides",,"","Harv.",Accepted,,M,TICA,85D232DB-F5E4-4434-8F99-5E3F2FA94ABD,194817-1,"","","314","1865",
+gcc-88741,A,Compositae,,Cineraria,,"ovata",,"","Spreng. ex DC.",Synonym,,M,TICA,9B4CC78D-D495-46BB-AB59-80243F6E0274,,"","","844","1836",gcc-81459
+gcc-94148,A,Compositae,,Cineraria,,"ovirensis",,"","Koch",Synonym,,M,TICA,101953DC-8F94-4A65-BB39-8C521EAC9C55,,"","","507","1823",gcc-82160
+gcc-144385,A,Compositae,,Cineraria,,"oxyodonta",,"","DC.",Synonym,,L,TICA,68B7C315-9C45-4B5C-BF4C-FDF1A3ED6080,194820-1,"","","306","1838",gcc-136489
+gcc-85929,A,Compositae,,Cineraria,,"palmensis",,"","Nees",Synonym,,L,TICA,12A3C72F-B665-42DB-B9D8-79CB848A036F,194821-1,"","","115 (t. 24)","1820",gcc-83730
+gcc-133855,A,Compositae,,Cineraria,,"palustris",,"","(L.) L.",Synonym,,L,TICA,7E0A747F-C1EE-4976-9F34-E670B82EBEE3,1025614-2,"""Sp. Pl., ed. 2. 2""","","1243","1763",gcc-100473
+gcc-7754,A,Compositae,,Cineraria,,"palustris",subsp.,"congesta","(R.Br.) Nyman",Synonym,,L,TICA,028D1450-7FF4-4338-94EA-0E6C9CAE9C2F,,"""Nyman, Consp. Fl. Eur. 1879.""","","352","1879",gcc-100473
+gcc-146816,A,Compositae,,Cineraria,,"palustris",f.,"palustris","",Synonym,,L,TICA,E7D670D4-B309-455A-AE13-204A340EB3E9,,"","","","",gcc-100473
+gcc-148253,A,Compositae,,Cineraria,,"palustris",subsp.,"palustris","",Synonym,,L,TICA,D6672F11-2BE4-4AF9-82C6-3EC6DF790A17,,"","","","",gcc-100473
+gcc-83115,A,Compositae,,Cineraria,,"pandurata",,"","Thunb.",Synonym,,M,TICA,F972F9B0-9AF3-4A87-803D-739C9E7651D5,194823-1,"","","155","1800",gcc-20212
+gcc-94757,A,Compositae,,Cineraria,,"papposa",,"","Rchb.",Synonym,,M,TICA,877DDB35-0BA1-4291-9BB4-8DC284FF2BBE,,"","","","",gcc-14224
+gcc-60748,A,Compositae,,Cineraria,,"papposa",subsp.,"heuffelii","(Hoppe & Fürnr.) Nyman",Synonym,,L,TICA,44227E82-C9F0-451F-BD6A-A0E0F05B48FA,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-14224
+gcc-150434,A,Compositae,,Cineraria,,"papposa",subsp.,"papposa","",Synonym,,L,TICA,4C2C695E-7FD6-448F-9DFA-6E7673F6C200,,"","","","",gcc-14224
+gcc-28379,A,Compositae,,Cineraria,,"papposa",subsp.,"wolffii","(Schur) Nyman",Synonym,,L,TICA,DDCC71F2-1D05-404D-BCBD-346A0F52D656,,"Nyman. 1889.","","162","1889",gcc-14224
+gcc-102942,A,Compositae,,Cineraria,,"parnassi",,"","(Boiss. & Heldr.) Nyman",Synonym,,M,TICA,5FF9419D-011B-4C27-9C86-A03C2153960E,,"","","852","",gcc-137600
+gcc-14484,A,Compositae,,Cineraria,,"parviflora",,"","M.Bieb.",Synonym,,M,TICA,0B2AB31F-0E42-4E6D-94FE-1AE13F385886,,"","","316","1808",gcc-6002
+gcc-36822,A,Compositae,,Cineraria,,"parviflora",,"","R.Br. ex Aiton",Synonym,Illegitimate,M,TICA,17940F92-1F03-47E1-970A-444235FAE245,,"","","72","1813",gcc-127683
+gcc-5139,A,Compositae,,Cineraria,,"parvifolia",,"","Burtt Davy",Accepted,,M,TICA,44962355-66FB-4129-A5F9-0992B7CD9C26,194828-1,"","","81","1936",
+gcc-20399,A,Compositae,,Cineraria,,"pauciflora",,"","Spreng. ex DC.",Synonym,,M,TICA,92245A12-9B7D-4633-B49B-25BB57CF2583,,"","","867","1838",gcc-115136
+gcc-132073,A,Compositae,,Cineraria,,"pedunculosa",,"","DC.",Synonym,,M,TICA,3357884D-3D33-4C74-BCD7-E26A21C4C1A4,194830-1,"","","305","1838",gcc-50573
+gcc-2261,A,Compositae,,Cineraria,,"pentactina",,"","Hook.f.",Unresolved,,L,TICA,51FB7136-4572-4FED-BA47-0419D8B9145B,,"Bot. Mag. 127","","","1901",
+gcc-34863,A,Compositae,,Cineraria,,"perfoliata",,"","Thunb.",Unresolved,,L,TICA,D778205A-633D-4603-AE11-40A19A982F63,,"","","","",
+gcc-77927,A,Compositae,,Cineraria,,"perfoliata",,"","L.f.",Synonym,,L,TICA,2F3AE133-C7C8-4B7C-9381-67F8194D9BE2,194832-1,"","","375","1782",gcc-24507
+gcc-106376,A,Compositae,,Cineraria,,"petasites",,"","(L.) Bernh.",Unresolved,,L,TICA,BE554846-AB21-49EB-911C-A7A1C823A6B8,941321-1,"","","146","1800",
+gcc-76422,A,Compositae,,Cineraria,,"petasitis",,"","Sims",Synonym,,M,TICA,102BBF90-E343-4C74-850F-64AD40B8395F,58752-2,"Bot. Mag. 37","","t. 1536","1813",gcc-80780
+gcc-112231,A,Compositae,,Cineraria,,"phylicifolia",,"","Poepp. ex DC.",Synonym,,M,TICA,22F38849-FA5E-4204-8E9B-B4EB23FF768D,194834-1,"","","415","1838",gcc-33574
+gcc-22055,A,Compositae,,Cineraria,,"pinnata",,"","O.Hoffm. ex Schinz",Accepted,,M,TICA,946E8534-3B77-4AD7-8A3C-28CAEB1CF9AC,,"","","","1900",
+gcc-81306,A,Compositae,,Cineraria,,"pinnata",,"","La Llave",Synonym,,M,TICA,76D66ECA-F303-49C1-BEAA-6F80E06ADF11,194835-1,"","","29","1824",gcc-23219
+gcc-135119,A,Compositae,,Cineraria,,"pinnatifida",,"","(Thunb.) Druce",Synonym,,M,TICA,825F550E-C052-4F88-AB97-E944F0CA0A5D,194837-1,"","","615","1917",gcc-50814
+gcc-25981,A,Compositae,,Cineraria,,"pinnatifida",,"","Willd.",Synonym,,M,TICA,D7B4F24D-17BD-4EA4-91F4-300470BEFE48,,"","","","1803",gcc-92473
+gcc-37248,A,Compositae,,Cineraria,,"platanifolia",,"","Schrank",Synonym,,M,TICA,94E04FEF-DD20-45B3-BCF6-45034CE2D73A,194839-1,"","","fol. 95","1819 [1821]",gcc-80780
+gcc-32332,A,Compositae,,Cineraria,,"platycarpa",,"","DC.",Accepted,,M,TICA,C3D86F30-D337-48EE-9623-3BED4080486B,194840-1,"","","305","1838",
+gcc-86794,A,Compositae,,Cineraria,,"polycephala",,"","DC.",Accepted,,M,TICA,70DEB3C5-79B7-47DC-BE8F-7BBAD42347DC,194841-1,"","","307","1838",
+gcc-87643,A,Compositae,,Cineraria,,"polyglossa",,"","DC.",Synonym,,M,TICA,C0A36EFB-FA65-494F-94EE-7DBBE655740C,194842-1,"","","306","1838",gcc-113248
+gcc-116096,A,Compositae,,Cineraria,,"populifolia",,"","Lam.",Synonym,,M,TICA,C07991A4-28CE-49F2-A017-BDA980C44346,194843-1,"","","8","1786",gcc-135871
+gcc-124395,A,Compositae,,Cineraria,,"populifolia",,"","L'Hér.",Synonym,,M,TICA,56163145-3D83-4A68-803B-D095C2E8824B,194844-1,"","","25","1789",gcc-135871
+gcc-86044,A,Compositae,,Cineraria,,"praecox",,"","Cav.",Synonym,,M,TICA,B935D24D-C641-4EC3-BE89-7A0D6F4283A6,,"","","","1795",gcc-11705
+gcc-130527,A,Compositae,,Cineraria,,"pratensis",,"","Herder",Synonym,,M,TICA,F64D8A3C-5B96-4DE5-B229-DEBCC74398CD,,"","","","1867",gcc-113566
+gcc-138278,A,Compositae,,Cineraria,,"pratensis",,"","Hoppe ex Rchb.",Synonym,,M,TICA,03952155-4C86-451B-98BC-F03E478D00C1,194847-1,"","","241","",gcc-137600
+gcc-95926,A,Compositae,,Cineraria,,"pratensis",,"","Hoppe",Synonym,,M,TICA,553C69F8-7051-4788-A62E-9074AE15F675,,"Neues Bot. Taschenb. Anfanger Wiss. Apothekerkunst [BPH 647.14] : 128 (1806)","","128","1806",gcc-137600
+gcc-5947,A,Compositae,,Cineraria,,"pratensis",var.,"borealis","Herder",Unresolved,,L,TICA,36827236-06BA-4F6D-9412-0B0F1F0FE81A,,"Bulletin de la societe imperiale des naturalistses de Moscou 40(1):","","441","1867",gcc-115465
+gcc-155606,A,Compositae,,Cineraria,,"pratensis",var.,"pratensis","",Synonym,,L,TICA,E1911478-38E4-453C-B413-DBC07B4EF96A,,"","","","",gcc-137600
+gcc-24445,A,Compositae,,Cineraria,,"prittwitzii",,"","O.Hoffm. ex Engl.",Synonym,,M,TICA,22D97106-3ED1-4BE5-9FF0-2D230F0026F3,,"""Durch Afr., Repr.: 10 (1896)""","","10","1896",gcc-106727
+gcc-76054,A,Compositae,,Cineraria,,"prittwitzii",,"","O.Hoffm.",Unresolved,,L,TICA,D44A9619-86B5-445E-9C99-63C8FE452EA3,194848-1,"""in Goetzen, Durch Afr. (repr.) 10.""","","10","",
+gcc-19819,A,Compositae,,Cineraria,,"procera",,"","Griseb.",Synonym,,M,TICA,F3815F57-2929-475A-9166-24A85C2363AE,,"","","219","1846",gcc-14224
+gcc-78330,A,Compositae,,Cineraria,,"pulchella",,"","Sweet",Unresolved,,L,TICA,53514380-F1C7-4B8D-A367-68E49E000C33,194850-1,"","","232","1826",
+gcc-79069,A,Compositae,,Cineraria,,"pulchella",,"","E.Mey. ex DC.",Synonym,,M,TICA,0F0C910B-269D-40CE-A4C2-6AA2D82C79E7,194851-1,"","","438","1838",gcc-6983
+gcc-135096,A,Compositae,,Cineraria,,"pulchra",,"","Cron",Accepted,,M,TICA,23AF6DC2-EBBB-4D8D-B458-E93868D7E501,77074641-1,"""Kew Bull. 61(2): 168 (-170, 176; fig. 1, map 1)""","","""168 (-170, 176; fig. 1, map 1)""","2006",
+gcc-39377,A,Compositae,,Cineraria,,"pumila",,"","Thunb.",Synonym,,M,TICA,3C52B6D2-6790-4E52-9607-491501DCDE77,194852-1,"","","155","1800",gcc-19769
+gcc-102281,A,Compositae,,Cineraria,,"punctata",,"","Sessé & Moc.",Unresolved,,L,TICA,B25FF9EC-EEAE-44EC-ABA9-9EBABF31B932,58754-2,"""Fl. Mexic., ed. 2 188""","","188","1894",
+gcc-32072,A,Compositae,,Cineraria,,"purpurascens",,"","Banks & Sol. ex Hook.f.",Synonym,,M,TICA,F0FFC55E-D86D-429F-A0B1-3B65C24DC709,,"","","","1846",gcc-138518
+gcc-18005,A,Compositae,,Cineraria,,"purpurata",,"","L.",Unresolved,,L,TICA,4D85AC33-B009-42AA-AD33-214352761E66,194855-1,"","","","1771",
+gcc-110906,A,Compositae,,Cineraria,,"pyrenaica",,"","Nyman",Synonym,,M,TICA,1F2DBC1F-7CAD-4259-B3B8-B1EEC491C22E,194856-1,"","","2","1855",gcc-100383
+gcc-79935,A,Compositae,,Cineraria,,"pyroglossa",,"","(Kar. & Kir.) Kamelin",Synonym,,M,TICA,A11D23ED-AE3F-4A46-BE5B-6C70E7327C4A,986118-1,"Opred. Rast. Sred. Azii 10","","440","1993",gcc-37860
+gcc-17715,A,Compositae,,Cineraria,,"racemosa",,"","M.Bieb.",Synonym,,M,TICA,04AC4798-7E99-47DB-AC5F-20B5158FC135,,"","","119","1798",gcc-81481
+gcc-139838,A,Compositae,,Cineraria,,"ramentosa",,"","L'Hér.",Synonym,,M,TICA,C9076F10-4BC2-4129-BAE0-F39B42F4A5F3,1099120-2,"Sert. Angl.","","26","1789",gcc-19026
+gcc-77822,A,Compositae,,Cineraria,,"ramosa",,"","Vuk.",Unresolved,,L,TICA,4A4458F3-BF5B-4040-91E1-67BB3EAC367B,,"","","","1880",
+gcc-119259,A,Compositae,,Cineraria,,"renifolia",,"","C.A.Mey.",Synonym,,M,TICA,2F5025B0-ABB3-4DA9-893A-C4C28C2E6095,194860-1,"","","82","1831",gcc-28233
+gcc-49036,A,Compositae,,Cineraria,,"reniformis",,"","Spreng. ex DC.",Synonym,Invalid,M,TICA,D2CB980D-8891-4A88-B2BD-5AD654F45705,194861-1,"","","315","1838",gcc-23507
+gcc-130602,A,Compositae,,Cineraria,,"repanda",,"","Lour.",Synonym,,M,TICA,A76F006E-8A40-4C3B-AB10-DEED366C4A9E,194863-1,"Fl. Cochinch.","","501","1790",gcc-104777
+gcc-44731,A,Compositae,,Cineraria,,"repanda",,"","Willd.",Synonym,,M,TICA,87AA1174-0C25-4D15-8AFC-52DC19C324AE,,"","","","1803",gcc-99572
+gcc-50387,A,Compositae,,Cineraria,,"repanda",,"","G.Forst.",Synonym,,M,TICA,9DC30E60-81FD-4F5B-A5DC-5D705A34CB99,194864-1,"","","56","1786",gcc-18107
+gcc-89356,A,Compositae,,Cineraria,,"retusa",,"","Wall. ex C.B.Clarke",Synonym,,M,TICA,A83AD5A2-00A4-48A1-AF6B-818CFDBE9A13,194865-1,"","","206","1876",gcc-36359
+gcc-126771,A,Compositae,,Cineraria,,"rivularis",,"","Waldst. & Kit.",Synonym,,M,TICA,6216B0EA-4907-4E84-9938-D60FD204A894,194866-1,"","","265","",gcc-92749
+gcc-7436,A,Compositae,,Cineraria,,"robusta",,"","Ledeb.",Synonym,,M,TICA,B72A420E-B717-4B4A-9C63-0DD335256423,194867-1,"","","106","1833",gcc-21294
+gcc-123519,A,Compositae,,Cineraria,,"rotundifolia",,"","(J.R.Forst. & G.Forst.) G.Forst.",Synonym,,M,TICA,E7B02D4C-0568-4769-9A03-CE86B2FD994A,,"""Forster, J. G. 1786: Florulae Insularum Australium Prodromus. Göttingen, ""","","56","1786",gcc-86053
+gcc-83464,A,Compositae,,Cineraria,,"rotundifolia",,"","(J.R.Forst. & G.Forst.) J.F.Gmel.",Synonym,,M,TICA,BC7056FE-6615-4DFB-B483-745E1333A839,,"","","","1792",gcc-86053
+gcc-49763,A,Compositae,,Cineraria,,"rupicola",,"","Nyman",Synonym,,M,TICA,F88F012C-95A4-4F56-8D11-5C3D1456EA24,194869-1,"","","351","1879",gcc-14224
+gcc-80127,A,Compositae,,Cineraria,,"salicifolia",,"","Kunth",Synonym,,M,TICA,8F1BED6F-C347-40FD-ABC9-6CEEEF108BC5,,"","","148","",gcc-110808
+gcc-19498,A,Compositae,,Cineraria,,"samnitum",,"","Nyman",Synonym,,L,TICA,28883BBF-501E-439D-9BFA-2406C2AF3E5F,194871-1,"","","352","1879",gcc-142563
+gcc-128442,A,Compositae,,Cineraria,,"saracenica",,"","L.",Synonym,,M,TICA,56146371-0FFD-49C2-A60E-DA0323DD5A35,,"""L., Sp. Pl., ed. 2. 1763.""","","1169","1763",gcc-76412
+gcc-83255,A,Compositae,,Cineraria,,"sarmentosa",,"","Lesch. ex DC.",Synonym,,M,TICA,F04D8B5B-8BDA-44E9-91ED-73E35093AF3E,194872-1,"","","369","1838",gcc-103386
+gcc-112714,A,Compositae,,Cineraria,,"saxifraga",,"","DC.",Accepted,,M,TICA,CE19FD9C-F7DE-4E8F-914E-B6121EECC1E4,194873-1,"","","306","1838",
+gcc-33018,A,Compositae,,Cineraria,,"saxifraga",var.,"axillipila","DC.",Synonym,,L,TICA,3371C318-4387-4EEB-BE46-3D3A00ADECFE,,"Prod. 6: 307 (1838).","","","",gcc-112714
+gcc-151306,A,Compositae,,Cineraria,,"saxifraga",var.,"saxifraga","",Synonym,,L,TICA,FBB89DF3-85A0-43EC-A13D-81BA0A6462C1,,"","","","",gcc-112714
+gcc-85550,A,Compositae,,Cineraria,,"scandens",,"","Mutis",Unresolved,,L,TICA,53C0FFDD-56E8-4691-8E5E-78EBA7310A11,58756-2,"","","352","1958",
+gcc-118082,A,Compositae,,Cineraria,,"scapiflora",,"","L'Hér.",Synonym,,M,TICA,F48BB3BD-DCC5-4045-AF72-C21CDF9D2EAE,194875-1,"","","25","1789",gcc-60134
+gcc-103506,A,Compositae,,Cineraria,,"scapigera",,"","Banks ex DC.",Synonym,,M,TICA,A4CDA454-593A-41F8-A3CA-A16F2AAD860F,194876-1,"","","439","1838",gcc-60134
+gcc-101938,A,Compositae,,Cineraria,,"schimperi",,"","Sch.Bip. ex A.Rich.",Unresolved,,L,TICA,243625D2-B8D3-4BB8-9857-9DE3CEF81EB4,194877-1,"Tent. Fl. Abyss. i. 439.","","i. 439.","",
+gcc-95829,A,Compositae,,Cineraria,,"schimperi",,"","Sch.Bip. ex Oliv. & Hiern",Synonym,Illegitimate,M,TICA,C44835FC-65E0-40DA-989D-903E0D309C0D,,"Fl. Trop. Afr. 3: 404 (1877)","","404","1877",gcc-119510
+gcc-118447,A,Compositae,,Cineraria,,"schkuhrii",,"","Rchb.",Synonym,,M,TICA,2D278ED0-95CD-4105-AD95-C2F56BD9F0AD,,"","","","1829",gcc-92749
+gcc-7649,A,Compositae,,Cineraria,,"scirpina",,"","E.Mey. ex DC.",Synonym,,M,TICA,092C626B-9300-4905-90E8-0E371F90878C,194879-1,"","","438","1838",gcc-129532
+gcc-91465,A,Compositae,,Cineraria,,"scordifolia",,"","Link ex DC.",Synonym,,M,TICA,A04F428D-0544-45A4-8E5E-86722DC2A40B,194880-1,"","","489","1838",gcc-60134
+gcc-45137,A,Compositae,,Cineraria,,"sebaldii",,"","Cufod.",Synonym,,M,TICA,39FE880F-19CE-4EB7-BABC-53ACC5C110A4,,"","","","1968",gcc-138736
+gcc-134166,A,Compositae,,Cineraria,,"selloi",,"","Spreng.",Synonym,,M,TICA,B7A1A113-C31B-4C94-9626-E7262188F43C,,"","","","1826",gcc-24651
+gcc-37033,A,Compositae,,Cineraria,,"seminuda",,"","Klatt ex Schinz",Synonym,,M,TICA,F4613E99-25BF-4079-A992-449F62B6EA38,,"","","438","1895",gcc-20339
+gcc-82992,A,Compositae,,Cineraria,,"seminuda",,"","Klatt",Synonym,,M,TICA,B95AA8F4-E2AB-4D51-92B4-734B53A8A5F3,,"Bull. Herb. Boissier iii. (1895) 438.","","","",gcc-20339
+gcc-94127,A,Compositae,,Cineraria,,"senecifolia",,"","Poir.",Synonym,,L,TICA,0A88B9CE-CA99-46C5-852E-8C48CD0223B6,194884-1,"","","265","1811",gcc-142563
+gcc-78335,A,Compositae,,Cineraria,,"senecionis",,"","L'Hér.",Unresolved,,L,TICA,A2D8B814-DE88-4438-9128-68E7FEB5158C,,"","","","1789",
+gcc-133844,A,Compositae,,Cineraria,,"serrata",,"","Willd.",Synonym,,M,TICA,D244B451-9AE2-4BC4-A4E3-E66962FE90A2,,"","","","1803",gcc-113791
+gcc-130502,A,Compositae,,Cineraria,,"serratifolia",,"","Gray",Synonym,,M,TICA,A2C1CEA6-9ECC-4A54-8F0D-DEADF22B1518,,"","","469","1821",gcc-108052
+gcc-110996,A,Compositae,,Cineraria,,"sessilifolia",,"","Jacquem.",Synonym,,M,TICA,362D54D5-13AC-41B5-A9DE-B222F30AE4F8,194888-1,"","","91","1843",gcc-137576
+gcc-120912,A,Compositae,,Cineraria,,"sibirica",,"","(L.) L.",Synonym,,M,TICA,E2317487-7DDA-4D01-9236-C89E71E315A3,194889-1,"","","1242","1763",gcc-50651
+gcc-18756,A,Compositae,,Cineraria,,"solidaginifolia",,"","Fisch. ex Ledeb.",Synonym,,M,TICA,494A1270-3FDE-44E5-914A-22A339D69733,,"","","","1846",gcc-81481
+gcc-47279,A,Compositae,,Cineraria,,"sonchifolia",,"","L.",Accepted,,M,TICA,6AB13B44-E9A9-4E27-82FC-57904D8806A3,194891-1,"","","1243","1763",
+gcc-101885,A,Compositae,,Cineraria,,"spathulata",,"","Lam.",Synonym,,M,TICA,C73151CB-7390-40B8-9DE7-9DC496C225C7,194893-1,"","","8","1786",gcc-86477
+gcc-114667,A,Compositae,,Cineraria,,"spathulifolia",,"","C.C.Gmel.",Synonym,,M,TICA,88E0214A-F92C-4053-9C73-BA634787F07C,,"","","454","1808",gcc-100383
+gcc-121199,A,Compositae,,Cineraria,,"speciosa",,"","Fisch. ex Turcz.",Synonym,,M,TICA,06FAB9B6-F492-4DFE-9C64-C9494F9D60DF,,"","","","1847",gcc-10137
+gcc-213,A,Compositae,,Cineraria,,"speciosa",,"","Schrad. ex Link",Synonym,,M,TICA,8F237993-44BD-498C-8C6B-0061EB9452A1,194894-1,"","","334","1822",gcc-10137
+gcc-18082,A,Compositae,,Cineraria,,"spinulosa",,"","Lam.",Synonym,,L,TICA,B45E5B47-AAD9-4ECA-ABAF-2168F5F8A132,194896-1,"","","9","1786",gcc-87719
+gcc-137783,A,Compositae,,Cineraria,,"stenophylla",,"","Porcius",Unresolved,,L,TICA,D88EE980-172F-4182-B96E-EF2F067BE932,,"","","136","1892",
+gcc-152584,A,Compositae,,Cineraria,,"stipulacea",,"","Willd. ex Less.",Synonym,,M,TICA,19860C5C-D94D-4F96-8205-9C887E917BCF,,"","","","",gcc-15596
+gcc-80853,A,Compositae,,Cineraria,,"subdentata",,"","Bunge",Synonym,,L,TICA,31C0FFDD-5D9C-4F00-B4C1-6E7DF798A8FF,194898-1,"","","39","1833",gcc-115465
+gcc-14861,A,Compositae,,Cineraria,,"sudetica",,"","Koch",Synonym,,M,TICA,5C3A30DA-DA3A-45CA-BEEB-1B89EC0B7EBA,,"","","","1823",gcc-92749
+gcc-86976,A,Compositae,,Cineraria,,"sumneviczii",,"","(Schischk. & Serg.) Kamelin",Synonym,,M,TICA,A79C7F81-67E4-45C3-B933-7C29169A550E,986119-1,"Opred. Rast. Sred. Azii 10","","440","1993",gcc-100512
+gcc-94044,A,Compositae,,Cineraria,,"taraxacifolia",,"","M.Bieb.",Synonym,,M,TICA,D6806AA8-8B80-4DDB-9DBB-8C12EF5C25D0,194900-1,"","","313","1808",gcc-77001
+gcc-110317,A,Compositae,,Cineraria,,"taygetea",,"","Nyman",Synonym,,M,TICA,AECBE988-AA5E-4F71-A9E9-B09ABFF1DA90,194901-1,"","","2","1855",gcc-127638
+gcc-108915,A,Compositae,,Cineraria,,"tenella",,"","(L.) Link",Synonym,,M,TICA,A9C94F67-1CB7-4556-9F6D-AD7273E1D4E9,,"","","","1822",gcc-141000
+gcc-140710,A,Compositae,,Cineraria,,"tenuifolia",,"","Gaudin",Synonym,,M,TICA,46914357-E732-427F-8D18-F5B822F3CF83,,"","","","1829",gcc-2137
+gcc-126507,A,Compositae,,Cineraria,,"thapsoides",,"","(DC.) Nyman",Synonym,,M,TICA,417EFF6F-F7C6-445B-96FA-D57AA255894F,,"""Nyman, Syll. Fl. Eur. 1854.""","","2","1854",gcc-90744
+gcc-148227,A,Compositae,,Cineraria,,"thapsoides",subsp.,"thapsoides","",Synonym,,L,TICA,5368EB00-659E-4DB2-BBFD-3E113CD089D7,,"","","","",gcc-90744
+gcc-53149,A,Compositae,,Cineraria,,"thapsoides",subsp.,"visianiana","(Vis.) Nyman",Synonym,,L,TICA,47919167-F5C1-41F0-8F92-63DC5777447C,,"""Nyman, Consp. Fl. Eur. 1879.""","","351","1879",gcc-55044
+gcc-40632,A,Compositae,,Cineraria,,"tharsoidea",,"","Nyman",Synonym,,M,TICA,07E8B514-909C-4210-8BAA-4B5156FA5BD7,194904-1,"","","2","1855",gcc-90744
+gcc-11038,A,Compositae,,Cineraria,,"thyrsoidea",,"","Host",Synonym,,M,TICA,76EF0535-16E6-4F86-9B7E-14A4159ED716,,"","","","1831",gcc-33915
+gcc-43982,A,Compositae,,Cineraria,,"thyrsoidea",,"","Ledeb.",Synonym,,M,TICA,68DDE589-35FE-463D-B681-517A87CB8BDF,,"","","18","1830",gcc-4643
+gcc-78779,A,Compositae,,Cineraria,,"tillandsiaefolia",,"","Poepp. ex DC.",Unresolved,,L,TICA,05AA2149-1115-4009-ABF2-69F3058B821C,194907-1,"","","415","1838",
+gcc-90920,A,Compositae,,Cineraria,,"tillandsiaefolia",,"","Poepp.",Unresolved,,L,TICA,8803D88A-9729-4E77-901E-85299B414CA9,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","415","1837",
+gcc-87308,A,Compositae,,Cineraria,,"tomentolanata",,"","Govaerts",Accepted,,M,TICA,DC79AA98-AD1F-4B3B-B4BA-7CF9EB912D6C,,"","","15","1999",
+tro-50206084,A,Compositae,,Cineraria,,"tomentolanatus",,"","Govaerts",Unresolved,,L,TRO,50206084,1009760-1,"World Checkl. Seed Pl.","3(1): 15","15","1999",
+gcc-123799,A,Compositae,,Cineraria,,"tomentosa",,"","Less. & Hutch.",Unresolved,,L,TICA,606630D9-B2A9-4408-9BCF-CF32EF5E0F20,194910-1,"""Botanist S. Afr. 114 (1946), in adnot., descr. ampl.""","","114","",
+gcc-124332,A,Compositae,,Cineraria,,"tomentosa",,"","(DC.) Less.",Synonym,Illegitimate,M,TICA,6694F567-BFF0-4D89-9125-D06CB855A4DC,,"","","390","1832",gcc-118369
+gcc-124511,A,Compositae,,Cineraria,,"tomentosa",,"","Mill.",Synonym,,M,TICA,D5DE73CB-F637-476F-B625-D0E0D29BB29A,194909-1,"","","5","1768",gcc-92593
+gcc-75900,A,Compositae,,Cineraria,,"tomentosolanatus",,"","Govaerts",Accepted,,L,TICA,D2729748-0AB6-411C-AE6B-637E76A08B2D,,"","","","",
+gcc-89438,A,Compositae,,Cineraria,,"trachyphylla",,"","Spreng.",Synonym,,L,TICA,6E9607D0-1AD0-473E-9274-81B66F4473DE,,"","","","1822",gcc-28685
+gcc-93490,A,Compositae,,Cineraria,,"transsilvanica",,"","Schur",Synonym,,M,TICA,4D7A6BCC-4090-433E-8D4B-8ADB5ADD82DD,194912-1,"","","345","1866",gcc-14224
+gcc-152275,A,Compositae,,Cineraria,,"transsilvanica",subsp.,"transsilvanica","",Synonym,,L,TICA,B16539A5-B3F0-4FC5-94C2-95FC7F248F53,,"","","","",gcc-14224
+gcc-114152,A,Compositae,,Cineraria,,"trifurcata",,"","Spreng.",Synonym,,M,TICA,19C0C456-234A-4903-92B3-B930E73EF624,194913-1,"","","551","1826",gcc-76987
+gcc-10254,A,Compositae,,Cineraria,,"tuberosa",,"","E.Mey. ex DC.",Synonym,,M,TICA,09C4B362-420A-480D-886E-132B067F2CFF,194914-1,"","","438","1838",gcc-92473
+gcc-80969,A,Compositae,,Cineraria,,"tussilaginea",,"","Thunb.",Synonym,,M,TICA,58290083-9FE3-48C3-BD17-6ECA6B237304,194915-1,"","","671","1823",gcc-1994
+gcc-115909,A,Compositae,,Cineraria,,"tussilaginis",,"","L'Hér.",Synonym,,M,TICA,71C3F9E5-6DA8-46D8-B28D-BD406355124D,329697-2,"Sert. Angl.","","26","1789",gcc-131229
+gcc-87574,A,Compositae,,Cineraria,,"tussilaginoides",,"","Webb ex Loudon",Unresolved,,L,TICA,7902E6E4-F310-4EF3-8CFA-7D94F3BD6D54,,"""Hort. Brit. Suppl. ii. 621, nomen.""","","""ii. 621, nomen""","",
+gcc-119903,A,Compositae,,Cineraria,,"uliginosa",,"","Ledeb.",Synonym,,M,TICA,D6B7F2B5-13E3-4C57-B8F3-C63FBB4D611D,194918-1,"","","","1818",gcc-18319
+gcc-124468,A,Compositae,,Cineraria,,"uncinata",,"","Spreng. ex DC.",Synonym,,M,TICA,62F8FCF7-AC7B-48A0-9220-D0C2DFBA60AE,194919-1,"","","369","1838",gcc-50443
+gcc-94936,A,Compositae,,Cineraria,,"unctuosa",,"","Gilib.",Synonym,Invalid,L,TICA,30D4605C-B587-4C1D-AEC0-8E2AAC393A9A,,"","","","1782",gcc-100473
+gcc-10845,A,Compositae,,Cineraria,,"undulata",,"","Willd.",Synonym,,M,TICA,99E88697-02B4-4EF0-8529-14504D41B2FF,,"","","","1803",gcc-116978
+gcc-90273,A,Compositae,,Cineraria,,"vagans",,"","Hilliard",Accepted,,M,TICA,4BF928D4-EA5E-4C3B-AECE-8397ADBA68EB,936714-1,"","","186","1989",
+gcc-96631,A,Compositae,,Cineraria,,"vallis-pacis",,"","Dinter ex Merxm.",Accepted,,M,TICA,814363DB-8518-449A-AD94-9206C29B2C15,194922-1,"","","605","1960",
+gcc-104899,A,Compositae,,Cineraria,,"vallispacis",,"","Range",Unresolved,,L,TICA,3C91CF42-A280-43E5-A0D6-A47982175411,194923-1,"""Repert. Spec. Nov. Regni Veg. 43: 268, nomen""","","268","1938",
+gcc-40251,A,Compositae,,Cineraria,,"verna",,"","DC.",Synonym,,M,TICA,A4FB9DF9-4802-4612-97F7-4AA0DEF50253,194924-1,"","","430","1838",gcc-110808
+gcc-36144,A,Compositae,,Cineraria,,"verticillata",,"","Mairet",Unresolved,,L,TICA,6EE2756A-56EF-4202-8696-4306167E7534,,"Prodromus Systematis Naturalis Regni Vegetabilis 6:","","430","1837",
+gcc-94500,A,Compositae,,Cineraria,,"verticillata",,"","DC.",Synonym,,M,TICA,A4859633-58D1-4586-81AD-8D223F963CDA,194925-1,"","","430","1838",gcc-99781
+gcc-107611,A,Compositae,,Cineraria,,"vestita",,"","Spreng.",Unresolved,,L,TICA,C5B9D11A-8C5F-4639-8452-AA75C4129F3D,194927-1,"","","550","1826",
+gcc-143577,A,Compositae,,Cineraria,,"vestita",,"","Haw.",Synonym,,M,TICA,8C55F360-FC2A-4BA0-9D3D-FC3842E65BD6,,"","","","1828",gcc-50911
+gcc-106825,A,Compositae,,Cineraria,,"viscosa",,"","L'Hér.",Unresolved,,L,TICA,12A58EFB-5F61-48AB-826B-A8B3BE87302C,,"","","","1789",
+gcc-88550,A,Compositae,,Cineraria,,"visianiana",,"","Nyman",Synonym,,M,TICA,43FAD909-F96D-4FB4-ADF0-7FAE4999F8BC,194929-1,"","","351","1879",gcc-90744
+gcc-39473,A,Compositae,,Cineraria,,"volubilis",,"","A.Spreng.",Unresolved,,L,TICA,02BFCC76-E24D-423A-9439-4942213504DC,194930-1,"","","24","1828",
+gcc-4657,A,Compositae,,Cineraria,,"vulneraria",,"","alam. ex DC.",Synonym,,M,TICA,F5B46C72-5998-431A-95EB-08A9C828F508,194931-1,"","","428","1838",gcc-140250
+gcc-52658,A,Compositae,,Cineraria,,"waterhousiana",,"","Paxton",Synonym,,M,TICA,58613B5B-BC84-4FA3-A255-619B46F0D745,,"","","","1838",gcc-131229
+gcc-12301,A,Compositae,,Cineraria,,"webberiana",,"","Paxton",Unresolved,,L,TICA,64C8DFC6-B396-409B-85A8-16F1A37AD646,,"","","","1842",
+gcc-46799,A,Compositae,,Cineraria,,"wolffii",,"","Schur ex Nyman",Synonym,,M,TICA,B575E420-0C9E-49F3-A6F9-56B5619C190C,194934-1,"","","352","1879",gcc-137600
+gcc-79051,A,Compositae,,Cineraria,,"zahlbruckneri",,"","Host",Synonym,,L,TICA,70D3FC37-1758-400E-B04F-6A998A9BD800,,"","","","1831",gcc-8365

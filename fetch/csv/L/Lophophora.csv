@@ -1,0 +1,21 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2607767,A,Cactaceae,,Lophophora,,"alberto-vojtechii",,"","Bohata, Myšák & Šnicer",Unresolved,,L,WCSP (in review),,77091505-1,"Cactus & Co.","12: 108","","2008",
+tro-50180796,A,Cactaceae,,Lophophora,,"diffusa",,"","(Croizat) Bravo",Accepted,,M,TRO,50180796,143598-2,"Cact. Suc. Mex.","12: 13","13","1967",
+tro-50335358,A,Cactaceae,,Lophophora,,"diffusa",subsp.,"diffusa","",Synonym,,L,TRO,50335358,,"","","","1967",tro-50180796
+tro-50335359,A,Cactaceae,,Lophophora,,"diffusa",var.,"koehresii","Riha",Synonym,,L,TRO,50335359,,"","","","1996",tro-50180796
+tro-50335364,A,Cactaceae,,Lophophora,,"diffusa",subsp.,"viridescens","Halda",Accepted,,L,TRO,50335364,,"","","","1997",
+kew-2337290,A,Cactaceae,,Lophophora,,"echinata",,"","Croizat",Unresolved,,L,WCSP (in review),,143599-2,"Desert Pl. Life","16: 43","","1944",
+tro-50180797,A,Cactaceae,,Lophophora,,"echinata",var.,"diffusa","Croizat",Synonym,,L,TRO,50180797,,"","","","",tro-50180796
+kew-2337291,A,Cactaceae,,Lophophora,,"fricii",,"","Haberm.",Unresolved,,L,WCSP (in review),,,"Kaktusy (Brno)","10: 123","","1975",
+kew-2337292,A,Cactaceae,,Lophophora,,"jourdaniana",,"","Haberm.",Unresolved,,L,WCSP (in review),,134094-1,"Kaktusy (Brno)","11: 3","","1975",
+kew-2604834,A,Cactaceae,,Lophophora,,"koehresii",,"","(Říha) Bohata, Myšák & Šnicer",Unresolved,,L,WCSP (in review),,77077403-1,"Kaktusy (Brno)","Special 2: 20","","2005",
+tro-50218064,A,Cactaceae,,Lophophora,,"lewinii",,"","(Hennings ex Lewin) C.H. Thomps.",Synonym,,L,TRO,50218064,134095-1,"Rep. (Annual) Missouri Bot. Gard.","9: 133","133","1898",tro-5101145
+kew-2337295,A,Cactaceae,,Lophophora,,"lutea",,"","(Rouhier) Backeb.",Unresolved,,L,WCSP (in review),,143604-2,"Cactac.: Handb. Kakteenk.","5: 1901","","1961",kew-2782427
+kew-2337305,A,Cactaceae,,Lophophora,,"pentagona",,"","(Croizat) V.Gapon",Unresolved,,L,WCSP (in review),,77073756-1,"Kaktus Klub","2004: 49","","2004",
+kew-2337297,A,Cactaceae,,Lophophora,,"pluricostata",,"","(Croizat) V.Gapon",Unresolved,,L,WCSP (in review),,77073757-1,"Kaktus Klub","2004: 49","","2004",
+tro-50335365,A,Cactaceae,,Lophophora,,"viridescens",,"","(Halda) Halda",Synonym,,M,TRO,50335365,,"","","","1997",tro-50335364
+tro-5101145,A,Cactaceae,,Lophophora,,"williamsii",,"","(Lem. ex Salm-Dyck) J.M. Coult.",Accepted,,L,TRO,5101145,143606-2,"Contr. U.S. Natl. Herb.","3(2): 131","131","1894",
+tro-50335360,A,Cactaceae,,Lophophora,,"williamsii",var.,"diffusa","(Croizat) G.D. Rowley",Synonym,,L,TRO,50335360,,"","","","1979",tro-50180796
+tro-50335361,A,Cactaceae,,Lophophora,,"williamsii",var.,"koehresii","(Riha) Grym",Synonym,,L,TRO,50335361,,"","","","1997",tro-50180796
+kew-2356538,A,Cactaceae,,Lophophora,,"williamsii",var.,"pentagona","Croizat",Unresolved,,L,WCSP (in review),,143612-2,"Desert Pl. Life","16: 44","","1944",kew-2337305
+kew-2356537,A,Cactaceae,,Lophophora,,"williamsii",var.,"pluricostata","Croizat",Unresolved,,L,WCSP (in review),,143613-2,"Desert Pl. Life","16: 8","","1944",kew-2337297

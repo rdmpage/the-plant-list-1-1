@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-30982,A,Compositae,,Stenachaenium,,"adenanthum",,"","(Sch.Bip. ex Krasch.) Krasch.",Accepted,,M,TICA,8DED2EC6-2660-4BC0-924C-395F757D397D,244484-2,"","","49","1923",
+gcc-47165,A,Compositae,,Stenachaenium,,"campestre",,"","Baker",Accepted,,M,TICA,3C4EE4CD-C857-4BC8-910B-57602A95B662,251051-1,"J. Bot. 16: 79","","79","1878",
+gcc-109531,A,Compositae,,Stenachaenium,,"macrocephalum",,"","Benth. ex Benth. & Hook.f.",Accepted,,M,TICA,996799C9-C662-498F-AA46-AEE01FBEFD9E,251052-1,"Gen. ii. 289.","","ii. 289.","",
+gcc-133035,A,Compositae,,Stenachaenium,,"macrocephalum",,"","Griseb.",Synonym,,M,TICA,CA354DAF-9047-46A9-A2BE-E49C51115BC7,251053-1,"in Goett. Abh. xxiv. (1879) 183.","","xxiv.  183","1879",gcc-47165
+gcc-140167,A,Compositae,,Stenachaenium,,"megapotamicum",,"","(Spreng.) Baker",Accepted,,M,TICA,41B9BA3D-E65A-482B-A710-F46614C6CF14,,"Fl. Bras. (Martius) 6(3): 105","","105","",
+gcc-147810,A,Compositae,,Stenachaenium,,"megapotamicum",f.,"megapotamicum","",Synonym,,L,TICA,12232F41-83E2-49EA-8B79-35B34A66D4D0,,"","","","",gcc-140167
+gcc-60259,A,Compositae,,Stenachaenium,,"megapotamicum",var.,"megapotamicum","",Synonym,,L,TICA,B7636E5F-5298-430C-9CC4-9CECFD661719,,"","","","",gcc-140167
+gcc-139596,A,Compositae,,Stenachaenium,,"riedelii",,"","Baker",Accepted,,M,TICA,669CDA53-DB56-472E-89B8-F30CAF6B13E1,251055-1,"J. Bot. 16: 78","","78","1878",
+gcc-147969,A,Compositae,,Stenachaenium,,"riedelii",var.,"riedelii","",Synonym,,L,TICA,AF9276E7-4D81-4049-AC61-39239B8C9DFF,,"","","","",gcc-139596
+gcc-156909,A,Compositae,,Stenachaenium,,"riedelli",,"","Baker",Accepted,,M,TICA,00196EBD-EEFD-4791-BB6E-F6A941899F2A,,"","","","",

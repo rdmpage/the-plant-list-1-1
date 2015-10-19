@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-140376,A,Compositae,,Helminthotheca,,"aculeata",,"","(Vahl) Lack",Accepted,,M,TICA,5AB0F811-8C52-41F4-8E39-F4E1DF63BDA4,,"","","111","1975",
+gcc-145385,A,Compositae,,Helminthotheca,,"aculeata",subsp.,"aculeata","",Synonym,,L,TICA,4C6024A7-1707-40A1-AE33-0328F5F474C4,,"","","","",gcc-140376
+gcc-71162,A,Compositae,,Helminthotheca,,"aculeata",subsp.,"maroccana","(Sauvage) Greuter",Accepted,,L,TICA,5C2E3081-3EE8-4F21-9548-F40949BEF4C8,,"","","233","2003",
+gcc-24219,A,Compositae,,Helminthotheca,,"algarbiensis",,"","(Franco) Zidorn",Synonym,,M,TICA,3507B48D-89DF-4A55-8B8C-2CBA43DF213F,77079965-1,"Biochem. Syst. Ecol. 34(2): 146","","146","2006",gcc-154889
+gcc-152073,A,Compositae,,Helminthotheca,,"balansae",,"","(Coss. & Durieu) Lack",Accepted,,M,TICA,39BDCBDD-B211-4396-A80E-91F814527542,,"""Lack, in Taxon 24. 1975""","","111","1975",
+gcc-156689,A,Compositae,,Helminthotheca,,"comosa",,"","(Boiss.) Holub",Accepted,,M,TICA,08098950-B3D9-44CC-8FAF-F2495041908D,213701-1,"Holub in Folia Geobot. Phytotax. 11. 1976","","83","1976",
+gcc-17127,A,Compositae,,Helminthotheca,,"comosa",,"","(Boiss.) Lack",Unresolved,,L,TICA,8FF855D1-51C4-4ECA-B75A-1FA6D5622221,,"","","83","1976",
+gcc-154889,A,Compositae,,Helminthotheca,,"comosa",subsp.,"lusitanica","(Schltdl.) P.Silva & Escud.",Accepted,,L,TICA,4BC9C98F-5BFA-4977-9E02-CCB517E8E8C0,,"""P. Silva & Escud. in Bol. Soc. Brot., ser. 2 60. 1987""","","156","1987",
+gcc-132571,A,Compositae,,Helminthotheca,,"echioides",,"","(L.) Lack",Synonym,,M,TICA,A07B7AE0-42BF-489B-A2E4-E38FCCD6955D,,"""in Diss. Univ. Wien. 116 (Die Gattung Picris L., etc.): 67 (1974 publ. Apr.1975).""","","67","1975",gcc-8501
+gcc-8501,A,Compositae,,Helminthotheca,,"echioides",,"","(L.) Holub",Accepted,,M,TICA,7FC26C79-FC44-4BF0-899E-0FDA160BB81B,213702-1,"","","176","1973",
+gcc-155615,A,Compositae,,Helminthotheca,,"glomerata",,"","(Pomel) Greuter",Accepted,,M,TICA,BE75D9F6-F846-4317-B8E4-DBE4C0AB9E18,,"Greuter in Willdenowia 33. 2003","","233","2003",
+gcc-114797,A,Compositae,,Helminthotheca,,"spinifera",,"","(Franco) Zidorn",Synonym,,M,TICA,053EAC93-6709-48E4-A644-BAB25589D21D,77079966-1,"Biochem. Syst. Ecol. 34(2): 146","","146","2006",gcc-154889

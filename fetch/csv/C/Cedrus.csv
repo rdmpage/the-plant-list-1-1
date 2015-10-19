@@ -1,0 +1,67 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2707312,G,Pinaceae,,Cedrus,,"africana",,"","Gordon ex Knight",Synonym,,H,WCSP,382683,261798-1,"Syn. Conif. Pl.","42","","1850",kew-2707315
+kew-2707313,A,Malvaceae,,Cedrus,,"alternifolia",,"","Mill.",Synonym,,H,WCSP,382684,577815-1,"Gard. Dict. ed. 8","3","","1768",kew-2496860
+kew-2707314,G,Pinaceae,,Cedrus,,"argentea",,"","Renou",Synonym,,H,WCSP,382685,,"Ann. Forrest. (Paris, 1842-54)","3: 3","","1854",kew-2707315
+kew-2707315,G,Pinaceae,,Cedrus,,"atlantica",,"","(Endl.) Manetti ex Carrière",Accepted,,H,WCSP,382686,50881822-1,"Traité Gén. Conif.","285","","1855",
+kew-2707316,G,Pinaceae,,Cedrus,,"atlantica",var.,"argentea","(Renou) A.Murray",Synonym,,L,WCSP,382687,,"Pinet. Brit.","3: 224","","1867",kew-2707315
+kew-2707317,G,Pinaceae,,Cedrus,,"atlantica",f.,"argentea","(Renou) Rehder",Synonym,,L,WCSP,382688,,"Bibl. Cult. Trees","31","","1949",kew-2707315
+kew-460916,G,Pinaceae,,Cedrus,,"atlantica",f.,"fastigiata","(Carrière) Rehder",Synonym,,L,WCSP,460916,,"Bibl. Cult. Trees","31","","1949",kew-2707315
+kew-2707318,G,Pinaceae,,Cedrus,,"atlantica",var.,"glauca","Carrière",Synonym,,L,WCSP,382689,,"Traité Gén. Conif.","ed. 2: 374","","1867",kew-2707315
+kew-460912,G,Pinaceae,,Cedrus,,"atlantica",f.,"glauca","(Carrière) Beissn.",Synonym,,L,WCSP,460912,,"Handb. Conif.","32","","1887",kew-2707315
+kew-460913,G,Pinaceae,,Cedrus,,"atlantica",f.,"pendula","(Carrière) Rehder",Synonym,,L,WCSP,460913,,"Bibl. Cult. Trees","31","","1949",kew-2707315
+kew-460959,G,Pinaceae,,Cedrus,,"atlantica",var.,"pendula","(Carrière) Carrière",Synonym,,L,WCSP,460959,,"Rev. Hort.","47: 160","","1875",kew-2707315
+kew-2872247,G,Pinaceae,,Cedrus,,"atlantica",var.,"variegata","Carrière",Synonym,,L,WCSP,386310,,"Traité Gén. Conif.","ed. 2: 374","","1867",kew-2707315
+kew-2707320,G,Pinaceae,,Cedrus,,"brevifolia",,"","(Hook.f.) Elwes & A.Henry",Synonym,,H,WCSP,382691,676698-1,"Trees Great Britain","3: 467","","1908",kew-2707330
+kew-2707321,G,Pinaceae,,Cedrus,,"cedrus",,"","(L.) Huth",Synonym,Invalid,H,WCSP,382692,676700-1,"Helios","11: 133","","1893",kew-2707327
+kew-2707322,G,Pinaceae,,Cedrus,,"deodara",,"","(Roxb. ex D.Don) G.Don",Accepted,,H,WCSP,382693,676701-1,"Hort. Brit.","1: 388","","1830",
+kew-2872242,G,Pinaceae,,Cedrus,,"deodara",var.,"argentea","J.Nelson",Synonym,,L,WCSP,386305,,"Pinaceae","56","","1866",kew-2707322
+kew-460923,G,Pinaceae,,Cedrus,,"deodara",f.,"argentea","(J.Nelson) Beissn.",Synonym,,L,WCSP,460923,,"Handb. Conif.","32","","1887",kew-2707322
+kew-456839,G,Pinaceae,,Cedrus,,"deodara",f.,"aurea","(J.Nelson) Rehder",Synonym,,L,WCSP,456839,60453342-2,"Bibl. Cult. Trees","32","","1949",kew-2707322
+kew-460924,G,Pinaceae,,Cedrus,,"deodara",var.,"aurea","J.Nelson",Synonym,,L,WCSP,460924,,"Pinaceae","56","","1855",kew-2707322
+kew-2872244,G,Pinaceae,,Cedrus,,"deodara",var.,"compacta","Carrière",Synonym,,L,WCSP,386307,,"Traité Gén. Conif.","ed. 2: 369","","1867",kew-2707322
+kew-2872243,G,Pinaceae,,Cedrus,,"deodara",var.,"fastigiata","Carrière",Synonym,,L,WCSP,386306,,"Traité Gén. Conif.","ed. 2: 368","","1867",kew-2707322
+kew-2872246,G,Pinaceae,,Cedrus,,"deodara",var.,"flava","Carrière",Synonym,,L,WCSP,386309,,"Traité Gén. Conif.","ed. 2: 369","","1867",kew-2707322
+kew-2872571,G,Pinaceae,,Cedrus,,"deodara",f.,"pendula","Beissn.",Synonym,,L,WCSP,386514,,"Mitt. Deutsch. Dendrol. Ges.","9: 100","","1900",kew-2707322
+kew-460926,G,Pinaceae,,Cedrus,,"deodara",f.,"robusta","(C.Lawson) Beissn.",Synonym,,L,WCSP,460926,,"Handb. Conif.","32","","1887",kew-2707322
+kew-2872245,G,Pinaceae,,Cedrus,,"deodara",var.,"tristis","Carrière",Synonym,,L,WCSP,386308,,"Traité Gén. Conif.","ed. 2: 369","","1867",kew-2707322
+kew-2872241,G,Pinaceae,,Cedrus,,"deodara",var.,"variegata","Carrière",Synonym,,L,WCSP,386304,,"Traité Gén. Conif.","ed. 2: 368","","1867",kew-2707322
+kew-2707323,G,Pinaceae,,Cedrus,,"effusa",,"","(Salisb.) Voss",Synonym,Illegitimate,H,WCSP,382694,676702-1,"Mitt. Deutsch. Dendrol. Ges.","16: 92","","1907",kew-2707327
+kew-2707324,G,Pinaceae,,Cedrus,,"elegans",,"","Knight",Synonym,,H,WCSP,382695,261802-1,"Syn. Conif. Pl.","42","","1850",kew-2707327
+kew-2707325,G,Pinaceae,,Cedrus,,"indica",,"","Chambray",Synonym,,H,WCSP,382696,,"Traité Prat. Arb. Résin.","341","","1845",kew-2707322
+kew-2707326,G,Pinaceae,,Cedrus,,"libanensis",,"","Juss. ex Mirb.",Synonym,,H,WCSP,382697,676703-1,"Mém. Mus. Hist. Nat.","13: 71","","1825",kew-2707327
+kew-2707327,G,Pinaceae,,Cedrus,,"libani",,"","A.Rich.",Accepted,,H,WCSP,382698,676705-1,"Dict. Class. Hist. Nat.","3: 299","","1823",
+kew-460910,G,Pinaceae,,Cedrus,,"libani",var.,"africana","A.Murray bis",Synonym,,L,WCSP,460910,,"Pinet. Brit.","3: 223","","1867",kew-2707315
+kew-2707328,G,Pinaceae,,Cedrus,,"libani",var.,"argentea","Antoine & Kotschy",Synonym,,L,WCSP,382699,,"Conif. Cilic. Taurus","417","","1855",kew-2707327
+kew-2707329,G,Pinaceae,,Cedrus,,"libani",subsp.,"atlantica","(Endl.) Batt. & Trab.",Synonym,,L,WCSP,382700,,"Fl. Algérie Tunisie","397","","1905",kew-2707315
+kew-2871620,G,Pinaceae,,Cedrus,,"libani",var.,"atlantica","(Endl.) Hook.f.",Synonym,,L,WCSP,385962,,"Nat. Hist. Rev.","II, 2: 15","","1862",kew-2707315
+kew-2707330,G,Pinaceae,,Cedrus,,"libani",var.,"brevifolia","Hook.f.",Accepted,,L,WCSP,382701,,"J. Linn. Soc., Bot.","17: 518","","1880",
+kew-2707331,G,Pinaceae,,Cedrus,,"libani",subsp.,"brevifolia","(Hook.f.) Meikle",Synonym,,L,WCSP,382702,888178-1,"Fl. Cyprus","1: 22, 806","","1977",kew-2707330
+kew-2871621,G,Pinaceae,,Cedrus,,"libani",var.,"deodara","(Roxb. ex D.Don) Hook.f.",Synonym,,L,WCSP,385963,,"Himal. J.","1: 257","","1854",kew-2707322
+kew-2707332,G,Pinaceae,,Cedrus,,"libani",subsp.,"deodora","(Roxb. ex D.Don) P.D.Sell",Synonym,,L,WCSP,382703,956060-1,"Watsonia","18: 92","","1990",kew-2707322
+kew-2707333,G,Pinaceae,,Cedrus,,"libani",var.,"glauca","Carrière",Synonym,,L,WCSP,382704,,"Traité Gén. Conif.","284","","1855",kew-2707315
+kew-2707334,G,Pinaceae,,Cedrus,,"libani",f.,"glauca","(Carrière) Beissn.",Synonym,,L,WCSP,382705,,"Handb. Conif.","31","","1887",kew-2707315
+tro-100307692,G,Pinaceae,,Cedrus,,"libani",f.,"glauca","(Carrière) Geerinck",Synonym,,L,TRO,100307692,50425971-2,"Taxonomania","10: 7","7","2003",kew-2707315
+kew-465668,G,Pinaceae,,Cedrus,,"libani",var.,"libani","",Synonym,,L,WCSP,465668,,"Unknown","","","",kew-2707327
+kew-460919,G,Pinaceae,,Cedrus,,"libani",var.,"nana","Loudon",Synonym,,L,WCSP,460919,,"Arbor. Frutic. Brit.","4: 2403","","1838",kew-2707327
+kew-460920,G,Pinaceae,,Cedrus,,"libani",f.,"nana","(Loudon) Beissn.",Synonym,,L,WCSP,460920,,"Handb. Conif.","32","","1887",kew-2707327
+kew-2707337,G,Pinaceae,,Cedrus,,"libani",var.,"pendula","Carrière",Synonym,,L,WCSP,382707,,"Traité Gén. Conif.","294","","1855",kew-2707327
+kew-460921,G,Pinaceae,,Cedrus,,"libani",f.,"pendula","(Carrière) Beissn.",Synonym,,L,WCSP,460921,,"Handb. Conif.","32","","1887",kew-2707327
+kew-2872574,G,Pinaceae,,Cedrus,,"libani",var,"pendula-sargentii","Hornibr.",Synonym,,L,WCSP,386517,,"Dwarf Conifers","26","","1923",kew-2707327
+kew-2707338,G,Pinaceae,,Cedrus,,"libani",subsp.,"stenocoma","(O.Schwarz) Greuter & Burdet",Synonym,,L,WCSP,382708,919758-1,"Willdenowia","11: 26","","1981",kew-2707327
+kew-2707339,G,Pinaceae,,Cedrus,,"libani",var.,"stenocoma","(O.Schwarz) Frankis",Synonym,,L,WCSP,382709,1020711-1,"Fl. Turkey","11: 5","","2000 publ. 2001",kew-2707327
+tro-50230748,G,Pinaceae,,Cedrus,,"libani",subsp.,"stenocoma","(O. Schwarz) P.H. Davis",Synonym,,L,TRO,50230748,,"J. Roy. Hort. Soc.","74: 113","113","1949",kew-2707327
+kew-2707340,G,Pinaceae,,Cedrus,,"libanitica",,"","Trew ex Pilg.",Synonym,Illegitimate,H,WCSP,382710,50916408-1,"Nat. Pflanzenfam. ed. 2","13: 329","","1926",kew-2707327
+kew-2707341,G,Pinaceae,,Cedrus,,"libanitica",subsp.,"atlantica","(Endl.) O.Schwarz",Synonym,,L,WCSP,382711,,"Feddes Repert. Spec. Nov. Regni Veg.","54: 29","","1944",kew-2707315
+kew-2707342,G,Pinaceae,,Cedrus,,"libanitica",subsp.,"brevifolia","(Hook.f.) O.Schwarz",Synonym,,L,WCSP,382712,,"Feddes Repert. Spec. Nov. Regni Veg.","54: 29","","1944",kew-2707330
+kew-2872576,G,Pinaceae,,Cedrus,,"libanitica",var,"pendula","(Carrière) L.H.Bailey",Synonym,,L,WCSP,386519,,"Cult. Conif.","130","","1933",kew-2707327
+kew-2707344,G,Pinaceae,,Cedrus,,"libanitica",subsp.,"stenocoma","O.Schwarz",Synonym,,L,WCSP,382714,,"Feddes Repert. Spec. Nov. Regni Veg.","54: 27","","1944",kew-2707327
+kew-2707345,G,Pinaceae,,Cedrus,,"libanotica",,"","Link",Synonym,,H,WCSP,382715,676706-1,"Handbuch","2: 480","","1831",kew-2707327
+kew-464374,G,Pinaceae,,Cedrus,,"libanotica",subsp.,"atlantica","(Endl.) Jahand. & Maire",Synonym,,L,WCSP,464374,,"Cat. Pl. Maroc","1: 13","","1931",kew-2707315
+kew-2707346,G,Pinaceae,,Cedrus,,"libanotica",subsp.,"brevifolia","(Hook.f.) Holmboe",Synonym,,L,WCSP,382716,,"Stud. Veg. Cypr.","29","","1914",kew-2707330
+kew-464373,G,Pinaceae,,Cedrus,,"libanotica",var.,"glauca","Carrière",Synonym,,L,WCSP,464373,,"Traité Gén. Conif.","285","","1855",kew-2707315
+kew-2707347,G,Pinaceae,,Cedrus,,"libanotica",subsp.,"libani","(A.Rich.) Holmboe",Synonym,,L,WCSP,382717,,"Stud. Veg. Cypr.","30","","1914",kew-2707327
+kew-2872577,G,Pinaceae,,Cedrus,,"libanotica",var,"pendula","(Carrière) Rehder",Synonym,,L,WCSP,386520,,"Man. Cult. Trees","53","","1927",kew-2707327
+kew-460922,G,Pinaceae,,Cedrus,,"libanotica",f.,"pendula","(Carrière) Rehder",Synonym,,L,WCSP,460922,,"J. Arnold Arbor.","6: 205","","1925",kew-2707327
+kew-2707348,A,Meliaceae,,Cedrus,,"mahogani",,"","Mill.",Unresolved,,L,WCSP (in review),,,"Gard. Dict. ed. 8","2","","1768",
+kew-2707349,A,Meliaceae,,Cedrus,,"odorata",,"","Mill.",Synonym,,M,WCSP (in review),,,"Gard. Dict. ed. 8","1","","1768",kew-2707234
+kew-2707350,G,Pinaceae,,Cedrus,,"patula",,"","K.Koch",Synonym,Illegitimate,H,WCSP,382718,261805-1,"Dendrologie","2(2): 268","","1873",kew-2707327

@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-303737,A,Tecophilaeaceae,,Cyanella,,"alba",,"","L.f.",Accepted,,H,WCSP,303737,429680-1,"Suppl. Pl.","201","","1782",
+kew-345520,A,Tecophilaeaceae,,Cyanella,,"alba",subsp.,"alba","",Synonym,,L,WCSP,345520,,"Unknown","","","",kew-303737
+kew-303738,A,Tecophilaeaceae,,Cyanella,,"amboensis",,"","Schinz",Synonym,,H,WCSP,303738,429681-1,"Bull. Herb. Boissier","II, 2: 943","","1902",kew-346832
+kew-303739,A,Tecophilaeaceae,,Cyanella,,"aquatica",,"","Oberm. ex G.Scott",Accepted,,H,WCSP,303739,958785-1,"S. African J. Bot.","57: 40","","1991",
+kew-303740,A,Tecophilaeaceae,,Cyanella,,"capensis",,"","L.",Synonym,Illegitimate,H,WCSP,303740,,"Gen. Pl. ed. 5","149","","1754",kew-303743
+kew-303741,A,Tecophilaeaceae,,Cyanella,,"coerulea",,"","Eckl.",Synonym,Invalid,H,WCSP,303741,429683-1,"Topogr. Verz. Pflanzensamml. Ecklon","4","","1827",kew-303743
+kew-303742,A,Tecophilaeaceae,,Cyanella,,"cygnea",,"","G.Scott",Accepted,,H,WCSP,303742,958786-1,"S. African J. Bot.","57: 50","","1991",
+kew-303743,A,Tecophilaeaceae,,Cyanella,,"hyacinthoides",,"","Royen ex L.",Accepted,,H,WCSP,303743,64182-1,"Gen. Pl. ed. 5","Add.: 522","","1754",
+kew-303744,A,Xanthorrhoeaceae,,Cyanella,,"illcu",,"","Molina",Synonym,,H,WCSP,303744,429684-1,"Sag. Stor. Nat. Chili","ed. 2: 130","","1810",kew-283874
+kew-303745,A,Tecophilaeaceae,,Cyanella,,"krauseana",,"","Dinter & G.M.Schulze",Synonym,,H,WCSP,303745,64183-1,"Bot. Jahrb. Syst.","71: 525","","1941",kew-303753
+tro-1201231,A,Tecophilaeaceae,,Cyanella,,"krauseana",,"","Dinter & Schulze",Synonym,,L,TRO,1201231,,"","","","",tro-1201230
+kew-303746,A,Tecophilaeaceae,,Cyanella,,"lineata",,"","Burch.",Synonym,,H,WCSP,303746,429685-1,"Trav. S. Africa","2: 589","","1824",kew-303747
+kew-303747,A,Tecophilaeaceae,,Cyanella,,"lutea",,"","L.f.",Accepted,,H,WCSP,303747,429686-1,"Suppl. Pl.","201","","1782",
+tro-1200105,A,Tecophilaeaceae,,Cyanella,,"lutea",var.,"lutea","",Synonym,,L,TRO,1200105,,"","","","",kew-303747
+kew-303748,A,Tecophilaeaceae,,Cyanella,,"odoratissima",,"","Lindl.",Synonym,,H,WCSP,303748,429687-1,"Bot. Reg.","13: t. 1111","","1828",kew-303747
+kew-303749,A,Tecophilaeaceae,,Cyanella,,"orchidiformis",,"","Jacq.",Accepted,,H,WCSP,303749,429688-1,"Collectanea","4: 211","","1790",
+kew-303750,A,Tecophilaeaceae,,Cyanella,,"pentheri",,"","Zahlbr.",Synonym,,H,WCSP,303750,429689-1,"Ann. K. K. Naturhist. Hofmus.","15: 26","","1901",kew-303743
+kew-303751,A,Tecophilaeaceae,,Cyanella,,"pulchella",,"","Salisb.",Synonym,Illegitimate,H,WCSP,303751,429691-1,"Prodr. Stirp. Chap. Allerton","249","","1796",kew-303743
+kew-303752,A,Tecophilaeaceae,,Cyanella,,"racemosa",,"","Schinz",Synonym,,H,WCSP,303752,429692-1,"Bull. Herb. Boissier","3: 394","","1895",kew-303747
+kew-303753,A,Tecophilaeaceae,,Cyanella,,"ramosissima",,"","(Engl. & Krause) Engl. & K.Krause",Accepted,,H,WCSP,303753,64184-1,"Bot. Jahrb. Syst.","57: 239","","1921",
+tro-1201230,A,Tecophilaeaceae,,Cyanella,,"ramosissima",,"","Engl. & Krause",Unresolved,,L,TRO,1201230,,"","","","",
+kew-303754,A,Tecophilaeaceae,,Cyanella,,"rosea",,"","Eckl. ex Baker",Synonym,,H,WCSP,303754,429693-1,"J. Linn. Soc., Bot.","17: 498","","1879",kew-303747

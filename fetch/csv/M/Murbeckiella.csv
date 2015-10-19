@@ -1,0 +1,10 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-2360431,A,Brassicaceae,,Murbeckiella,,"boryi",,"","(Boiss.) Rothm.",Accepted,,L,WCSP (in review),,287183-1,"Bot. Not.","1939: 469","","1939",
+kew-2360432,A,Brassicaceae,,Murbeckiella,,"glaberrima",,"","(Rothm.) Rothm.",Synonym,,L,WCSP (in review),,287184-1,"Bot. Not.","1939: 472","","1939",kew-2360431
+tro-4104109,A,Brassicaceae,,Murbeckiella,,"huetii",,"","Rothm.",Accepted,,M,TRO,4104109,,"","","","",
+kew-2360434,A,Brassicaceae,,Murbeckiella,,"pinnatifida",,"","(Lam.) Rothm.",Accepted,,M,WCSP (in review),,287186-1,"Bot. Not.","1939: 469","","1939",
+tro-100361405,A,Brassicaceae,,Murbeckiella,,"pinnatifida",subsp.,"boryi","Maire",Synonym,,L,TRO,100361405,,"Cat. Pl. Maroc","4: 1003.","1003.","1941",kew-2360431
+tro-100361406,A,Brassicaceae,,Murbeckiella,,"pinnatifida",subsp.,"herminii","Greuter & Burdet",Synonym,,L,TRO,100361406,924362-1,"Willdenowia","15: 68.","68.","1985",kew-2360431
+tro-100357859,A,Brassicaceae,,Murbeckiella,,"pinnatifida",subsp.,"pinnatifida","",Synonym,,L,TRO,100357859,,"","","","",kew-2360434
+kew-2360445,A,Brassicaceae,,Murbeckiella,,"sousae",,"","Rothm.",Accepted,,M,WCSP (in review),,287187-1,"Bot. Not.","1939: 474","","1939",
+kew-2360437,A,Brassicaceae,,Murbeckiella,,"zanonii",,"","(Ball) Rothm.",Accepted,,M,WCSP (in review),,287188-1,"Bot. Not.","1939: 471","","1939",

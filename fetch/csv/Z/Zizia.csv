@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-1700262,A,Apiaceae,,Zizia,,"aptera",,"","(A. Gray) Fernald",Accepted,,M,TRO,1700262,271187-2,"Rhodora","41(489): 441","441","1939",
+tro-1701980,A,Apiaceae,,Zizia,,"aptera",var.,"aptera","",Synonym,,L,TRO,1701980,,"","","","",tro-1700262
+tro-1702173,A,Apiaceae,,Zizia,,"arenicola",,"","Rose",Accepted,,M,TRO,1702173,,"","","","",
+tro-1700263,A,Apiaceae,,Zizia,,"aurea",,"","Koch",Accepted,,M,TRO,1700263,,"","","","",
+tro-1702033,A,Apiaceae,,Zizia,,"aurea",f.,"aurea","",Synonym,,L,TRO,1702033,,"","","","",tro-1700263
+tro-100364935,A,Apiaceae,,Zizia,,"aurea",var.,"bebbii","J.M. Coult. & Rose",Synonym,,L,TRO,100364935,271191-2,"Bot. Gaz.","12: 138","138","1887",tro-1702174
+tro-1702032,A,Apiaceae,,Zizia,,"aurea",f.,"obtusifolia","(Bissell) Fernald",Accepted,,L,TRO,1702032,271192-2,"Rhodora","41(489): 444","444","1939",
+tro-50067045,A,Apiaceae,,Zizia,,"aurea",var.,"obtusifolia","Bissell",Synonym,,L,TRO,50067045,271193-2,"Rhodora","2(23): 225","225","1900",tro-1702032
+tro-1702174,A,Apiaceae,,Zizia,,"bebbii",,"","(J.M. Coult. & Rose) Britton",Accepted,,M,TRO,1702174,271194-2,"Mem. Torrey Bot. Club","2: 35","35","1890",
+tro-1702172,A,Apiaceae,,Zizia,,"cordata",,"","DC.",Accepted,,M,TRO,1702172,,"","","","",
+tro-50239141,A,Apiaceae,,Zizia,,"hallii",,"","(A. Gray) J.M. Coult. & Rose",Synonym,,M,TRO,50239141,271195-2,"Bot. Gaz.","12: 137","137","1887",kew-2750705
+tro-50095782,A,Apiaceae,,Zizia,,"integerrima",,"","DC.",Synonym,,M,TRO,50095782,,"","","","",tro-50095784
+kew-2468782,A,Apiaceae,,Zizia,,"latifolia",,"","Small",Synonym,,M,WCSP (in review),,850048-1,"Man. S.E. Fl.","982","","1933",kew-2468777
+kew-2468781,A,Apiaceae,,Zizia,,"parvifolia",,"","Raf.",Unresolved,,L,WCSP (in review),,850049-1,"New Fl.","4: 31","","1838",
+tro-50140490,A,Apiaceae,,Zizia,,"pinnatifida",,"","Buckley",Synonym,,M,TRO,50140490,850050-1,"Amer. J. Sci. Arts","45(1): 175","175","1843",tro-1701044
+tro-50166987,A,Apiaceae,,Zizia,,"stricklandi",,"","K.-Pol.",Unresolved,,L,TRO,50166987,,"Bull. Soc. Imp. Naturalistes Moscou","29(1915): 200","200","1916",
+kew-2468779,A,Apiaceae,,Zizia,,"stricklandii",,"","Koso-Pol.",Unresolved,,L,WCSP (in review),,271196-2,"Bull. Soc. Imp. Naturalistes Moscou","n.s., 29: 200","","1916",
+kew-2468778,A,Apiaceae,,Zizia,,"sylvatica",,"","Benke",Unresolved,,L,WCSP (in review),,271197-2,"Rhodora","35: 45","","1933",
+kew-2468777,A,Apiaceae,,Zizia,,"trifoliata",,"","(Michx.) Fernald",Accepted,,M,WCSP (in review),,271198-2,"Rhodora","42: 298","","1940",

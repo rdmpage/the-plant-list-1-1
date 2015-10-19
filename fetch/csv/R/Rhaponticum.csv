@@ -1,0 +1,94 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-81996,A,Compositae,,Rhaponticum,,"acaule",,"","(L.) DC.",Accepted,,M,TICA,AE5E2FA3-D2A6-49A0-8C0C-710BEDF9BF0F,241379-1,"","","664","1838",
+gcc-152760,A,Compositae,,Rhaponticum,,"acaule",var.,"acaule","",Synonym,,L,TICA,059E4690-F5F4-4BF5-9F46-9FF94FEDCB7B,,"","","","",gcc-81996
+gcc-51623,A,Compositae,,Rhaponticum,,"acaule",var.,"ochroleucum","Maire",Synonym,,L,TICA,ED14B2A0-3D03-454F-93D2-5FB80D161806,,"","","","",gcc-81996
+gcc-56322,A,Compositae,,Rhaponticum,,"acaule",var.,"purpureum","Emb. & Maire",Synonym,,L,TICA,BB7FDB39-34FF-4127-9937-7D869375F29A,,"","","","",gcc-81996
+gcc-110032,A,Compositae,,Rhaponticum,,"altaicum",,"","(Fisch. ex Spreng.) Soskov",Synonym,,M,TICA,58BFAD78-8E1C-40B6-ABD5-AFF8D4336941,,"","","","1959",gcc-24995
+gcc-75635,A,Compositae,,Rhaponticum,,"annae-bentiae",,"","Rech.f.",Unresolved,,L,TICA,00C9BEEF-6F45-4CFF-8A5D-62E38F4817E5,241381-1,"""in Anz. Osterr. Akad. Wiss., Mat.-Naturwiss. xcviii. 12(1961).""","","xcviii. 12","1961",
+gcc-133283,A,Compositae,,Rhaponticum,,"argentatum",,"","Moench",Unresolved,,L,TICA,B8C1BB25-9267-4B64-8B3A-E528B09CCDF1,241382-1,"Methodus (Moench) 562. 1794 [4 May 1794]","","562","1794",
+gcc-101662,A,Compositae,,Rhaponticum,,"atriplicifolium",,"","(Trevis.) DC.",Synonym,,M,TICA,5CAAE2BA-D557-4DAC-8431-9D4509B324BE,,"Prodr. (DC.) 6: 663","","663","",gcc-121601
+gcc-26769,A,Compositae,,Rhaponticum,,"aulieatense",,"","Iljin",Accepted,,M,TICA,4DF4E53E-4D00-4B73-ADD0-31752F22161C,241384-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 205 (1933)""","","205","1933",
+gcc-145124,A,Compositae,,Rhaponticum,,"australe",,"","(Gaudich.) Soják",Accepted,,L,TICA,DAE90ACA-E15A-454D-AD72-FFB4D8B2DA3A,,"","","","1962",
+gcc-29015,A,Compositae,,Rhaponticum,,"australe",,"","(Gaudich.) Soskov",Unresolved,,L,TICA,F11C6756-B7C8-43CB-A8C5-359D65852A16,,"","","","1971",
+gcc-105157,A,Compositae,,Rhaponticum,,"behen",,"","(L.) Ratier",Unresolved,,L,TICA,F95D2DF4-988A-4D50-A58B-A505E734FC60,941445-1,"","","","1827",
+gcc-29540,A,Compositae,,Rhaponticum,,"behen",,"","Kostel.",Unresolved,,L,TICA,6D47251D-B582-4671-896E-36989EAD9D47,241388-1,"Allg. Med.-Pharm. Fl. ii. 606","","606","",
+gcc-40930,A,Compositae,,Rhaponticum,,"berardioides",,"","(Batt.) Hidalgo",Synonym,,L,TICA,92E8CEF4-6E51-4BAC-A3BD-4BD4B49B75E1,77073842-1,"","","714","2006",gcc-97168
+gcc-97168,A,Compositae,,Rhaponticum,,"berardioides",,"","(Batt.) Dobignard",Unresolved,Invalid,L,TICA,B2A2BF74-2512-4D20-A513-933FD774B811,,"","","","",
+gcc-140643,A,Compositae,,Rhaponticum,,"bicknellii",,"","(Briq.) Banfi, Galasso & Soldano",Unresolved,,L,TICA,95A8D714-7BB4-4361-89D6-F589EF623470,77116748-1,"","","","",gcc-52548
+gcc-13875,A,Compositae,,Rhaponticum,,"calcitrapa",,"","Scop.",Unresolved,,L,TICA,1627033A-872C-48CC-9E2E-19C9FF534C98,241389-1,"""Fl. Carniol., ed. 2. 2: 136""","","136","1772",
+gcc-1736,A,Compositae,,Rhaponticum,,"canariense",,"","DC.",Accepted,,L,TICA,D1A0CC96-E36B-4FC5-A45E-03231281C449,241390-1,"","","664","1838",
+gcc-147520,A,Compositae,,Rhaponticum,,"carthamoides",,"","(Willd.) Iljin",Accepted,,M,TICA,B6C5822C-26B1-4486-865F-2F3999B98D47,241391-1,"","","204","1933",
+gcc-148905,A,Compositae,,Rhaponticum,,"carthamoides",subsp.,"carthamoides","",Synonym,,L,TICA,3C62354B-A0C3-4A4F-BDEB-4D6D31FED0FC,,"","","","",gcc-147520
+gcc-82016,A,Compositae,,Rhaponticum,,"caspium",,"","Karel. ex Ledeb.",Unresolved,,L,TICA,AD972094-7632-4AC3-B5B1-71188E8B8DB7,241392-1,"Fl. Ross. ii. 751.","","ii. 751","",
+gcc-99849,A,Compositae,,Rhaponticum,,"caulescens",,"","Coss. & Balansa",Synonym,,M,TICA,1230EB9E-2965-4081-92CE-994735F4ACAC,,"","","","1874",gcc-89531
+gcc-14010,A,Compositae,,Rhaponticum,,"centauroides",,"","(L.) O.Bolòs",Accepted,,M,TICA,7D93996C-6C30-45A4-AC2C-1A028A13950E,,"O. Bolòs in Arch. Naturschutz Landschaftsf. 10. 1970.","","139","1970",
+gcc-34453,A,Compositae,,Rhaponticum,,"centauroides",,"","G.Don ex Loudon",Unresolved,,L,TICA,36F3B07D-6F6A-4809-B972-3FDE561FC522,241394-1,"Encyc. Pl. Suppl. ii. 1440.","","ii. 1440","",
+gcc-143258,A,Compositae,,Rhaponticum,,"chamarense",,"","Peschkova",Synonym,,M,TICA,88265954-8FA5-4C2A-80FD-FB7A32A1D793,241395-1,"","","227","1977",gcc-46217
+tro-2717677,A,Compositae,,Rhaponticum,,"chamarensis",,"","Peshkova",Unresolved,,L,TRO,2717677,,"","","","",
+gcc-143579,A,Compositae,,Rhaponticum,,"chinense",,"","(S.Moore) L.Martins & Hidalgo",Unresolved,,L,TICA,236A4D8C-29C0-4F64-93BC-FC38D6614425,77075837-1,"Bot. J. Linn. Soc. 152(4): 461","","461","2006",
+gcc-92456,A,Compositae,,Rhaponticum,,"ciliatum",,"","Lam.",Unresolved,,L,TICA,DF99D5BD-7592-4976-97CA-88A37F8D9BEE,241396-1,"Fl. Fr. ii. 39.","","ii. 39","",
+gcc-4790,A,Compositae,,Rhaponticum,,"coniferum",,"","(L.) Greuter",Accepted,,M,TICA,53CF8795-C9C0-4E4D-A975-08EA77F990F4,70029200-1,"","","61","2003",
+gcc-56206,A,Compositae,,Rhaponticum,,"coniferum",subsp.,"coniferum","",Synonym,,L,TICA,A106E3D4-665F-4A07-9472-7C917368E941,,"","","","",gcc-4790
+gcc-89531,A,Compositae,,Rhaponticum,,"cossonianum",,"","(Ball) Greuter",Accepted,,M,TICA,3ECAB382-1D80-487F-A173-81E865AEF26D,70029202-1,"","","61","2003",
+gcc-128519,A,Compositae,,Rhaponticum,,"cynaroides",,"","Less.",Synonym,,M,TICA,015E042D-0399-42AF-A099-DA33A9B1263C,241397-1,"","","6","1832",gcc-14010
+gcc-113437,A,Compositae,,Rhaponticum,,"dahuricum",,"","(Bunge) Turcz.",Synonym,,M,TICA,37359E84-DBC6-43FC-B45D-B7A171CA37DE,,"in Bull. Soc. Nat. Mosc. xi. (1838) 96.","","","1838",gcc-85079
+gcc-2886,A,Compositae,,Rhaponticum,,"davuricum",,"","Ledeb.",Unresolved,,L,TICA,E097F7F6-6589-4564-B063-0555ABF92BEB,241399-1,"Fl. Ross. ii. 751.","","ii. 751","",
+gcc-140727,A,Compositae,,Rhaponticum,,"deltoidum",,"","G.Don ex Loudon",Unresolved,,L,TICA,A90AD016-63B8-4D5A-897C-F5C039F6E716,241400-1,"Encyc. Pl. Suppl. ii. 1440.","","ii. 1440","",
+gcc-36896,A,Compositae,,Rhaponticum,,"doronicaefolium",,"","Fisch. ex Sweet",Unresolved,,L,TICA,6B2D1155-93CE-46C0-9A51-445FFAC6EE26,241401-1,"""Hort. Brit. (Sweet), ed. 2. 287""","","287","1830",
+gcc-49994,A,Compositae,,Rhaponticum,,"ericeticola",,"","(Font Quer) Soják",Unresolved,,L,TICA,D532D932-662A-41A8-BDB6-5CB0F4C2E5CF,241402-1,"""Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 48 (1962).""","","48 (1962)","1962",
+gcc-44298,A,Compositae,,Rhaponticum,,"eriophorum",,"","Scop.",Unresolved,,L,TICA,0959F3F3-533E-4368-BD12-520CC4FF9FE9,241403-1,"""Fl. Carniol., ed. 2. 2: 135""","","135","1772",
+gcc-21401,A,Compositae,,Rhaponticum,,"exaltatum",,"","(Willk.) Greuter",Accepted,,M,TICA,19A80BD2-188E-48B4-B5A4-278F5C1E6F71,70029203-1,"","","61","2003",
+gcc-98751,A,Compositae,,Rhaponticum,,"font-queri",,"","(Sauvage) Hidalgo",Synonym,,L,TICA,A07B618F-102C-465F-8747-96C95C7EDF26,77073844-1,"","","714","2006",gcc-97168
+gcc-25197,A,Compositae,,Rhaponticum,,"froedinii",,"","(Rech.f.) Wagenitz",Unresolved,,L,TICA,2A71545A-0B78-47A8-BC1B-2E874FD600DB,241404-1,"""in Anz. Osterr. Akad. Wiss., Mat.-Naturwiss. xcviii. 13 (1961), in clavi.""","","""xcviii. 13 , in clavi""","1961",
+gcc-130884,A,Compositae,,Rhaponticum,,"heleniifolium",,"","Gren. & Godr.",Accepted,,M,TICA,1EE9AE1C-7616-43DF-B254-DF91FF2FFAD2,,"","","","1850",
+gcc-52548,A,Compositae,,Rhaponticum,,"heleniifolium",subsp.,"bicknellii","(Briq.) Greuter",Accepted,,L,TICA,B5B92CEF-7EB6-46BD-9946-616A5B4A528E,70029204-1,"","","61","2003",
+gcc-70249,A,Compositae,,Rhaponticum,,"heleniifolium",subsp.,"heleniifolium","",Synonym,,L,TICA,A068706F-AC9D-4AC4-82FF-ECA0AB38DE45,,"","","","",gcc-130884
+gcc-2706,A,Compositae,,Rhaponticum,,"imatongense",,"","(Philipson) Soják",Synonym,,L,TICA,A6D68053-387E-4630-A938-04F5E214DC96,,"","","","1962",gcc-1073
+gcc-118458,A,Compositae,,Rhaponticum,,"insigne",,"","(Boiss.) Wagenitz",Accepted,,M,TICA,6C22AF72-2C59-4D36-AF48-C2FDBFBC46F6,,"","","","1961",
+gcc-128959,A,Compositae,,Rhaponticum,,"integrifolium",,"","C.Winkl.",Accepted,,M,TICA,069C7342-3485-498F-802D-DB32D069D187,241408-1,"Act. Hort. Petrop. ix. (1886) 425.","","425","1886",
+gcc-111249,A,Compositae,,Rhaponticum,,"jacea",,"","Scop.",Unresolved,,L,TICA,EA4E50EE-1B33-44A7-803E-B2B197B3FD52,241409-1,"""Fl. Carniol., ed. 2. 2: 136""","","136","1772",
+gcc-22771,A,Compositae,,Rhaponticum,,"karatavicum",,"","Regel & Schmalh.",Accepted,,M,TICA,62288814-FE65-4A83-A7CD-2A23A23C8ADA,,"Act. Hort. Petrop. vi. (1879) 320.","","320","",
+gcc-115886,A,Compositae,,Rhaponticum,,"longifolium",,"","(Hoffmanns. & Link) Soskov",Accepted,,M,TICA,667F65CA-B411-482E-90E4-BD32801C81CF,,"","","","1959",
+gcc-49992,A,Compositae,,Rhaponticum,,"longifolium",,"","(Hoffmanns. & Link) Dittrich",Unresolved,,L,TICA,54180E37-27C4-4D21-B050-5CB0C3600F5C,241413-1,"Oesterr. Bot. Z. 115: 380","","380","1969",
+gcc-72500,A,Compositae,,Rhaponticum,,"longifolium",subsp.,"ericeticola","(Font Quer) Greuter",Accepted,,L,TICA,8E12E40F-F7E9-44A4-B80E-FE63BEB5E2C3,50426536-2,"","","250","2003",
+gcc-40214,A,Compositae,,Rhaponticum,,"longifolium",var.,"ericetifolia","(Font Quer) Dittrich",Synonym,,L,TICA,BD672786-30EC-4009-88DE-4A92EDF4D9FC,,"","","","",gcc-72500
+gcc-153451,A,Compositae,,Rhaponticum,,"longifolium",var.,"longifolium","",Synonym,,L,TICA,1587EE47-8B22-4859-AA2E-AECA4ADD830F,,"","","","",gcc-49992
+gcc-44162,A,Compositae,,Rhaponticum,,"longifolium",subsp.,"longifolium","",Synonym,,L,TICA,041F29A7-7179-48DF-8940-51C750E829E6,,"","","","",gcc-49992
+gcc-135110,A,Compositae,,Rhaponticum,,"lyratum",,"","Nyman",Unresolved,,L,TICA,8CFFFA5B-EDD8-45F3-8C63-E940074A2D6C,,"Consp. 416.","","416","",
+gcc-140903,A,Compositae,,Rhaponticum,,"lyratum",,"","C.Winkl. ex Iljin",Accepted,,L,TICA,2138500A-A108-4CDC-8B6D-F621D5EB38D0,241416-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R, Ser. 1 1 : 204 (1933)""","","204","1933",
+gcc-4021,A,Compositae,,Rhaponticum,,"lyratum",,"","(DC.) Bergmans",Synonym,,M,TICA,F7962430-EBAD-4B45-8BE2-077936CBFB87,241417-1,"","","","1939",gcc-130884
+gcc-86238,A,Compositae,,Rhaponticum,,"lyratum",,"","C.Winkl. ex O.Fedtsch. & B.Fedtsch.",Unresolved,,L,TICA,E9C0B1F0-368E-4956-9F9E-7A7A005FD001,,"","","","",gcc-140903
+gcc-48608,A,Compositae,,Rhaponticum,,"monanthos",,"","(Georgi) Vorosch.",Unresolved,,L,TICA,50B75574-E5DC-4A9E-A3D1-5A0B0A2A2F77,,"""in Seed List State Bot. Gard. Acad. Sci. URSS, viii. 28 (1953); cf. Botsch. inNot. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 642 (1959)""","","642","1959",
+gcc-123318,A,Compositae,,Rhaponticum,,"monanthum",,"","(Georgi) Vorosch.",Synonym,,M,TICA,18A28003-0A0C-4071-8BBD-CE065DB73BCE,,"?","","8","1953",gcc-85079
+gcc-110742,A,Compositae,,Rhaponticum,,"namanganicum",,"","Iljin",Accepted,,M,TICA,E9D9B709-8830-46D0-986A-B19D2A0AF453,241419-1,"""Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 1: 206 (1933)""","","206","1933",
+gcc-126393,A,Compositae,,Rhaponticum,,"nanum",,"","Lipsky",Accepted,,M,TICA,6FD428BA-6BFB-42E8-8AB1-D537F59A6BFE,,"Act. Hort. Petrop. xviii. 80.","","80","1900",
+gcc-156798,A,Compositae,,Rhaponticum,,"nanum",subsp.,"nanum","",Synonym,,L,TICA,C27C588E-DAF0-4087-86DB-F471ADAEA2E0,,"","","","",gcc-126393
+gcc-94666,A,Compositae,,Rhaponticum,,"nitidum",,"","Fisch.",Accepted,,M,TICA,9A5DB380-9093-4ED8-8F07-8D8BD276500E,241421-1,"Prodr. (DC.) 6: 664","","664","1838",
+gcc-12879,A,Compositae,,Rhaponticum,,"orientale",,"","(Serg.) Peshkova",Unresolved,,L,TICA,674EDEEA-C62C-44B6-8E6A-180481BAEC40,,"""Bot. Zhurn. 62, 2 : 277 (1977)""","","277","1977",
+gcc-40176,A,Compositae,,Rhaponticum,,"pallasii",,"","G.Don ex Loudon",Unresolved,,L,TICA,CFFBAEE0-4CB8-4A53-915E-4A81730F8811,241422-1,"""Hort. Brit. 360, nomen.""","","""360, nomen""","",
+gcc-87550,A,Compositae,,Rhaponticum,,"paniculatum",,"","Scop.",Unresolved,,L,TICA,C99A65A3-B6F8-4622-A551-7D8C954CF43D,241423-1,"""Fl. Carniol., ed. 2. 2: 136""","","136","1772",
+gcc-109525,A,Compositae,,Rhaponticum,,"pellucidum",,"","(Rech.f.) Rech.f.",Synonym,,M,TICA,F25F9821-F8E4-4961-85C6-AEDE1BA8536A,241424-1,"""in K. Danske Vid. Selsk., Biol. Skrift., viii. No. 2 (Symb. Afghan. II.) 184(1955).""","","viii. No. 2 (Symb. Afghan. II.) 184","1955",gcc-67717
+gcc-136888,A,Compositae,,Rhaponticum,,"pulchrum",,"","Fisch. & C.A.Mey.",Accepted,,M,TICA,8565227B-DEF8-42E5-A6EC-ED3F32378F5B,,"","","36","1835",
+gcc-131779,A,Compositae,,Rhaponticum,,"pungens",,"","Franch. & Sav.",Synonym,,M,TICA,7F206F01-7150-416C-BF6F-E1B55E40B048,,"","","415","1877",gcc-121601
+gcc-15892,A,Compositae,,Rhaponticum,,"pusillum",,"","(Labill.) Boiss.",Synonym,,M,TICA,0E924935-930D-47E0-B240-1D6636D5138B,241428-1,"","","592","1875",gcc-43577
+gcc-143462,A,Compositae,,Rhaponticum,,"pygmaeum",,"","DC.",Unresolved,,L,TICA,9DC760C1-1AD9-4EA2-BFC0-FBF6B9BCE552,241429-1,"Prodr. (DC.) 6: 665","","665","1838",
+gcc-86951,A,Compositae,,Rhaponticum,,"repens",,"","(L.) Hidalgo",Accepted,,M,TICA,39A2282E-15EE-49E1-B5B3-7C1B7B05D60C,77073843-1,"","","714","2006",
+gcc-110688,A,Compositae,,Rhaponticum,,"rhaponticoides",,"","(Graells) Soskov",Unresolved,,L,TICA,B29838FB-F007-4C26-AD58-B17A1118FBB1,241430-1,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 398 (1959).""","","xix. 398","1959",
+gcc-136157,A,Compositae,,Rhaponticum,,"rhaponticoides",,"","(Graells) Soják",Unresolved,,L,TICA,09F85DBF-0735-446A-BD25-EB94BBA88D49,241431-1,"""Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 48 (1962).""","","48 (1962)","1962",
+gcc-21749,A,Compositae,,Rhaponticum,,"rhaponticoides",,"","(Graells) Dittrich",Unresolved,,L,TICA,519FDE5F-3101-4E82-8552-2840F0DC64D6,241432-1,"Oesterr. Bot. Z. 115: 381","","381","1969",
+gcc-11509,A,Compositae,,Rhaponticum,,"rhaponticum",,"","(L.) Voss",Unresolved,,L,TICA,8F2CD91E-C3DF-45EB-AF40-15783BA78385,241433-1,"""Vilm. Blumengärtn., ed. 3. 1: 554""","","554","1894",
+gcc-6210,A,Compositae,,Rhaponticum,,"salinum",,"","(Spreng.) Less.",Synonym,,M,TICA,5E75F1E5-1C46-4BD5-B0DD-0B8BED30E0C5,,"","","179","",gcc-24995
+gcc-128840,A,Compositae,,Rhaponticum,,"satzyperovii",,"","Soskov",Synonym,,M,TICA,750E0395-9B39-4D82-B7D2-DAF44B7ADAA2,,"""in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, xix. 400 (1959).""","","","1959",gcc-85079
+gcc-106771,A,Compositae,,Rhaponticum,,"scariosum",,"","Lam.",Accepted,,M,TICA,DC52CBF4-4FA5-4434-B91B-A893BCCBF4A5,,"","","","1779",
+gcc-57705,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"bicknellii","Pignatti",Synonym,,L,TICA,C5C28513-B1D1-484B-8DCF-886F52A51799,,"","","57","1977",gcc-52548
+gcc-64123,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"heleniifolium","(Godr. & Gren.) Nyman",Synonym,,L,TICA,280F6802-9932-4830-B211-BC14A60534EB,,"""Nyman, Consp. Fl. Eur. 1879.""","","416","1879",gcc-130884
+gcc-64669,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"lamarckii","(Dittrich) Greuter",Synonym,,L,TICA,69CFF72B-92C5-4264-B25F-C048C79A25EA,70029205-1,"Willdenowia 33(1): 61 (2003).","","61","2003",gcc-106771
+gcc-22683,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"lyratum","(DC.) Hayek",Synonym,,L,TICA,43B83D96-2F1E-4C41-ADFE-29FB90F2450D,,"""Hayek in Hegi, Ill. Fl. Mitt.-Eur. 6. 1928.""","","933","1928",gcc-130884
+gcc-66012,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"rhaponticum","(L.) Greuter",Accepted,,L,TICA,AD6CCB0A-49BC-4B62-BA27-CB59BB89C487,77071572-1,"","","237","2005",
+gcc-62412,A,Compositae,,Rhaponticum,,"scariosum",subsp.,"scariosum","",Synonym,,L,TICA,86DCADBC-9B01-498E-B2FC-AE925DE44ABE,,"","","","",gcc-106771
+gcc-92164,A,Compositae,,Rhaponticum,,"serotinum",,"","Dubois",Synonym,,M,TICA,2331CCE2-E19D-454B-865F-88068936C1CD,,"""Dubois, Méth. Eprouv. 1803.""","","402","1803",gcc-75671
+gcc-24995,A,Compositae,,Rhaponticum,,"serratuloides",,"","(Georgi) Bobrov",Accepted,,M,TICA,5F86B205-8267-4CD1-8B15-2E2B0DE27559,241437-1,"","","19","1960",
+gcc-144154,A,Compositae,,Rhaponticum,,"uniflorum",,"","(L.) DC.",Accepted,,M,TICA,19B55218-DC8E-425F-86C1-FD751379EBC9,,"Diss. Comp. 33.","","189","1810",
+gcc-69328,A,Compositae,,Rhaponticum,,"uniflorum",subsp.,"satzyperovii","(Soskov) Vorosch.",Synonym,,L,TICA,F51A28ED-44F4-4C16-8B73-E575BCC216E7,987839-1,"""in A.K. Skvortsov (ed.), Florist. issl. v razn. raĭonakh SSSR: 198 (1985):.""","","198","1985",gcc-20655
+gcc-153004,A,Compositae,,Rhaponticum,,"uniflorum",subsp.,"uniflorum","",Synonym,,L,TICA,6B6E388D-7B62-4417-9367-A53C11E2B94E,,"","","","",gcc-144154
+gcc-125636,A,Compositae,,Rhaponticum,,"zardabii",,"","Rzazade",Synonym,,M,TICA,A67B3254-AD1C-4619-9B4D-D37D9CD2606F,,"Dokl. Akad. Nauk Azerbajdzansk. SSR 14 : 241 (1958)","","241","1958",gcc-63845

@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-6344,A,Compositae,,Macvaughiella,,"chiapensis",,"","R.M.King & H.Rob.",Accepted,,M,TICA,09DAB90D-3DF9-4DDB-A82F-0BCE941F99AA,304505-2,"","","""640-641, f. 7-8""","1991",
+gcc-43143,A,Compositae,,Macvaughiella,,"mexicana",,"","(Sch.Bip.) R.M.King & H.Rob.",Accepted,,M,TICA,D6A19C02-A4FE-4053-B7C8-4FEA9CC5533A,149143-2,"Sida 3(4): 282. 1968.","","282","1968",
+gcc-156087,A,Compositae,,Macvaughiella,,"mexicana",var.,"mexicana","",Synonym,,L,TICA,F56FF498-3EF9-4660-9492-E624509FF037,,"","","","",gcc-43143
+gcc-143675,A,Compositae,,Macvaughiella,,"oaxacensis",,"","R.M.King & H.Rob.",Synonym,,M,TICA,9E07124C-54D6-4880-8E7F-FC6F2954F5E2,305240-2,"","","""642, f. 9-10""","1991",gcc-6344
+gcc-91077,A,Compositae,,Macvaughiella,,"standleyi",,"","(Steyerm.) R.M.King & H.Rob.",Synonym,,M,TICA,B555E4DD-9512-47A8-A3D8-85844106C162,149145-2,"Sida 3","","282","1968",gcc-43143

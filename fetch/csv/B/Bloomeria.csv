@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-300613,A,Asparagaceae,,Bloomeria,,"aurea",,"","Kellogg",Synonym,,H,WCSP,300613,33976-2,"Proc. Calif. Acad. Sci.","2: 11","","1863",kew-300616
+kew-300614,A,Asparagaceae,,Bloomeria,,"clevelandii",,"","S.Watson",Accepted,,H,WCSP,300614,531925-1,"Proc. Amer. Acad. Arts","20: 376","","1885",
+kew-300615,A,Asparagaceae,,Bloomeria,,"crocea",,"","(Torr.) Coville",Accepted,,H,WCSP,300615,531926-1,"Ill. Fl. Pacific States","1: 398","","1923",
+kew-300616,A,Asparagaceae,,Bloomeria,,"crocea",var.,"aurea","(Kellogg) Ingram",Accepted,,L,WCSP,300616,,"Madroño","12: 22","","1953",
+kew-311208,A,Asparagaceae,,Bloomeria,,"crocea",var.,"crocea","",Synonym,,L,WCSP,311208,,"Unknown","","","",kew-300615
+kew-300617,A,Asparagaceae,,Bloomeria,,"crocea",var.,"montana","(Greene) Ingram",Accepted,,L,WCSP,300617,,"Madroño","12: 23","","1953",
+kew-300618,A,Asparagaceae,,Bloomeria,,"gracilis",,"","Borzí",Synonym,,H,WCSP,300618,33981-2,"Boll. Reale Ort. Bot. Palermo","1897: 19","","1897",kew-300615
+kew-300619,A,Asparagaceae,,Bloomeria,,"humilis",,"","Hoover",Accepted,,H,WCSP,300619,33982-2,"Pl. Life","11: 21","","1955",
+kew-300620,A,Asparagaceae,,Bloomeria,,"maritima",,"","(Torr.) J.F.Macbr.",Synonym,,H,WCSP,300620,33983-2,"Contr. Gray Herb.","56: 8","","1918",kew-281703
+kew-275961,A,Asparagaceae,,Bloomeria,,"maritima",var.,"serotina","(Greene) J.F.Macbr.",Synonym,,L,WCSP,275961,33984-2,"Contr. Gray Herb.","56: 8","","1918",kew-281703
+kew-300621,A,Asparagaceae,,Bloomeria,,"montana",,"","Greene",Synonym,,H,WCSP,300621,531931-1,"Bull. Calif. Acad. Sci.","1(4): 281","","1885",kew-300617
+kew-300622,A,Asparagaceae,,Bloomeria,,"purpusii",,"","(Brandegee) J.F.Macbr.",Synonym,,H,WCSP,300622,33986-2,"Contr. Gray Herb.","56: 9","","1918",kew-303940
+kew-300623,A,Asparagaceae,,Bloomeria,,"transmontana",,"","(Greene) J.F.Macbr.",Synonym,,H,WCSP,300623,33987-2,"Contr. Gray Herb.","56: 8","","1918",kew-281692

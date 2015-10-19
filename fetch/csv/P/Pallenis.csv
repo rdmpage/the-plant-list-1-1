@@ -1,0 +1,35 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-31071,A,Compositae,,Pallenis,,"aurea",,"","(Willk.) Pomel",Synonym,,M,TICA,4F2CCB6B-4E90-4A24-8625-3989679638E4,236394-1,"","","","1874",gcc-17551
+gcc-31498,A,Compositae,,Pallenis,,"aurea",,"","Nyman",Unresolved,,L,TICA,E5B219B2-A1F2-4228-8491-3A6325168B84,,"Consp. 391.","","391","",
+gcc-87231,A,Compositae,,Pallenis,,"aurea",,"","(Willk.) DC.",Synonym,,M,TICA,75E17F9E-8C27-4B2F-AC0D-7CCE827A8EDB,,"","","","",gcc-17551
+gcc-38748,A,Compositae,,Pallenis,×,"caballeroi",,"","Sennen",Unresolved,,L,TICA,15F35A5C-40BD-4779-BD05-47DE652A78C5,,"""Butl. Inst. Catalana Hist. Nat. 1932, xxxii. 99, in obs.""","","99","",
+gcc-139709,A,Compositae,,Pallenis,,"canescens",,"","Viv.",Unresolved,,L,TICA,E5B9DD94-9121-4741-8D72-F357ECAAAAEA,236397-1,"Mem. Alc. Plag. (1838) 11.","","11","1838",
+gcc-45824,A,Compositae,,Pallenis,,"croatica",,"","Graebn.",Unresolved,,L,TICA,4AD74CB8-5660-41F6-AF4D-54F29B7FC96C,236398-1,"","","252","1906",gcc-34594
+gcc-15615,A,Compositae,,Pallenis,,"cuspidata",,"","Pomel",Accepted,,M,TICA,4C56AAD5-643E-4D13-908A-1CEAD715DDCA,236399-1,"","","","1874",
+gcc-52978,A,Compositae,,Pallenis,,"cuspidata",subsp.,"canescens","(Maire) Greuter",Accepted,,L,TICA,E9518960-ECEE-41A3-B0D0-627FBEE4FC66,999898-1,"","","47","1997",
+gcc-70070,A,Compositae,,Pallenis,,"cuspidata",subsp.,"cuspidata","",Synonym,,L,TICA,4C230B6C-8539-4920-9081-EB3B8949945D,,"","","","",gcc-15615
+gcc-115285,A,Compositae,,Pallenis,,"cyrenaica",,"","Alavi",Accepted,,M,TICA,EFDA8EB8-7B34-44C7-B612-BBD0DBD0526F,,"","","109","",
+gcc-114620,A,Compositae,,Pallenis,,"hierochuntica",,"","(Michon) Greuter",Accepted,,M,TICA,93E690B1-4256-4853-84F7-BA47022ED193,999902-1,"","","47","1997",
+gcc-144545,A,Compositae,,Pallenis,,"madritensis",,"","Sennen",Unresolved,,L,TICA,3B88C9FC-F90F-4FA2-8EDB-FE5721BAB500,,"""Butl. Inst. Catalana Hist. Nat. 1932, xxxii. 99, in obs.""","","99","",gcc-34594
+gcc-100276,A,Compositae,,Pallenis,,"maritima",,"","(L.) Greuter",Accepted,,M,TICA,39A6A63F-5E54-4250-BAF9-9A404072746F,999903-1,"","","47","1997",
+gcc-34594,A,Compositae,,Pallenis,,"spinosa",,"","(L.) Cass.",Accepted,,L,TICA,73B9D144-BC06-4E44-B80E-402058321474,236401-1,"","","276","1825",
+gcc-23970,A,Compositae,,Pallenis,,"spinosa",var.,"asteroidea","(Viv.) Asch.",Synonym,,L,TICA,3A348A39-5408-42DC-AB82-2C4E0ABBA6E4,,"","","","",gcc-50479
+gcc-50479,A,Compositae,,Pallenis,,"spinosa",subsp.,"asteroidea","(Viv.) Greuter",Accepted,,L,TICA,52CF0A78-5793-4891-987D-5D9543F382BC,999899-1,"","","47","1997",
+gcc-17551,A,Compositae,,Pallenis,,"spinosa",subsp.,"aurea","(Willk.) Nyman",Accepted,,L,TICA,23AB526B-B95F-4699-86C4-2065833A5297,,"""Nyman, Consp. Fl. Eur. 1879.""","","391","1879",
+gcc-63797,A,Compositae,,Pallenis,,"spinosa",var.,"aurea","Batt.",Synonym,,L,TICA,8687ECA3-1353-489D-8878-B98B4D95FB75,,"","","","",gcc-17551
+gcc-36534,A,Compositae,,Pallenis,,"spinosa",var.,"canescens","Maire",Synonym,,L,TICA,76C0BDD2-EF2C-493F-95E2-43BC9757CC41,,"","","","",gcc-52978
+gcc-67063,A,Compositae,,Pallenis,,"spinosa",var.,"crocea","Webb & Heldr.",Synonym,,L,TICA,46811984-18AE-4706-BE89-D3DC2964D740,,"","","","",gcc-34594
+gcc-10872,A,Compositae,,Pallenis,,"spinosa",subsp.,"cuspidata","(Pomel) Batt.",Synonym,,L,TICA,034411A6-5119-4619-BBC2-14597BA5E025,,"""Batt. in Battandier & Trabut, Fl. Algérie, Dicot. 1889.""","","434","1889",gcc-15615
+gcc-72384,A,Compositae,,Pallenis,,"spinosa",var.,"cuspidata","(Pomel) Hochr.",Synonym,,L,TICA,9423B012-65B8-4B54-A6EE-FD899FB877B8,,"","","","",gcc-17551
+gcc-53807,A,Compositae,,Pallenis,,"spinosa",var.,"eriophora","Burnat",Synonym,,L,TICA,E7DC80CB-ABF6-44D7-8792-68FE13BB9C7F,,"","","","",gcc-34594
+gcc-72358,A,Compositae,,Pallenis,,"spinosa",var.,"gymnesica","O.Bolòs & P.Monts.",Unresolved,,L,TICA,18FA45F9-6975-4B39-8008-FD58DCD50E64,,"""in Collect. Bot., 17(1): 90 (1987 publ. 1988)""","","90","",gcc-34594
+gcc-31271,A,Compositae,,Pallenis,,"spinosa",subsp.,"maroccana","(Aurich & Podlech) Greuter",Accepted,,L,TICA,C9F5C5B4-33A8-42E1-9E3B-39E84CE236C1,999900-1,"","","47","1997",
+gcc-125557,A,Compositae,,Pallenis,,"spinosa",f.,"microcephala","Halácsy",Synonym,,L,TICA,C9FFB713-2925-497E-AF44-D354364955FE,,"""Halácsy, Consp. Fl. Graec. 2. 1902.""","","18","1902",gcc-34594
+gcc-4205,A,Compositae,,Pallenis,,"spinosa",subsp.,"microcephala","(Halácsy) Rech.f.",Synonym,,L,TICA,A72E8837-8A75-4842-BEF9-07D210B32256,,"Rech. f. in Österr. Bot. Z. 85. 1936.","","62","1936",gcc-34594
+gcc-35212,A,Compositae,,Pallenis,,"spinosa",var.,"pallida","Bornm.",Synonym,,L,TICA,7F86EA0E-A574-41C0-8205-414A5F0535D5,,"","","","",gcc-34594
+gcc-147899,A,Compositae,,Pallenis,,"spinosa",f.,"spinosa","",Synonym,,L,TICA,E2800E7B-F2DE-4A02-8FF5-37AF46642B67,,"","","","",gcc-34594
+gcc-149397,A,Compositae,,Pallenis,,"spinosa",var.,"spinosa","",Synonym,,L,TICA,E06D8BD2-DBB4-4779-85C9-57DDB2B15A9C,,"","","","",gcc-34594
+gcc-67145,A,Compositae,,Pallenis,,"spinosa",subsp.,"spinosa","",Synonym,,L,TICA,01B3377E-C80D-4CAB-A427-D49BFE010F1B,,"","","","",gcc-34594
+gcc-58374,A,Compositae,,Pallenis,,"spinosa",var.,"straminea","""Maire, Weiller & Wilczek""",Synonym,,L,TICA,7A1CB569-5BB1-4EB4-B736-8E2802C26050,,"","","","",gcc-34594
+gcc-29593,A,Compositae,,Pallenis,,"spinosa",var.,"sulfurea","Braun-Blanq. & Maire",Synonym,,L,TICA,442C2AC2-B3C5-42B5-9422-36B37DB9D461,,"","","","",gcc-34594
+gcc-15070,A,Compositae,,Pallenis,,"teknensis",,"","(Dobignard & Jacquemoud) Greuter & Jury",Accepted,,M,TICA,0AC31399-5BF4-41C8-8847-1BE465A5E98C,,"","","244","2003",

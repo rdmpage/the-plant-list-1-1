@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+tro-8901929,A,Penthoraceae,,Penthorum,,"chinense",,"","Pursh",Accepted,,M,TRO,8901929,,"Fl. Amer. Sept.","1: 323","323","1814",
+kew-2562600,A,Penthoraceae,,Penthorum,,"circinale",,"","Salisb.",Unresolved,,L,WCSP (in review),,274679-1,"Prodr. Stirp. Chap. Allerton","308","","1796",
+tro-8900081,A,Penthoraceae,,Penthorum,,"humile",,"","Regel & Maack",Synonym,,M,TRO,8900081,,"Tent. Fl. Ussur.","65","65","1861",tro-8901929
+tro-8903395,A,Penthoraceae,,Penthorum,,"intermedium",,"","Turcz.",Synonym,,M,TRO,8903395,274681-1,"Bull. Soc. Imp. Naturalistes Moscou","7: 152","152","1837",tro-8901929
+tro-8901440,A,Penthoraceae,,Penthorum,,"sedoides",,"","L.",Accepted,,M,TRO,8901440,274682-1,"Sp. Pl.","1: 432","432","1753",
+tro-50094045,A,Penthoraceae,,Penthorum,,"sedoides",subsp.,"chinense","(Pursh) S.Y. Li & K.T. Adair",Synonym,,L,TRO,50094045,979235-1,"Sida","16(1): 190","190","1994",tro-8901929
+tro-8903396,A,Penthoraceae,,Penthorum,,"sedoides",var.,"chinense","(Pursh) Maxim.",Synonym,,L,TRO,8903396,,"Mélanges Biol. Bull. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg","11: 774","774","1883",tro-8901929

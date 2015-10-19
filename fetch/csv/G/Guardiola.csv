@@ -1,0 +1,25 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-40637,A,Compositae,,Guardiola,,"angustifolia",,"","B.L.Rob.",Accepted,,M,TICA,640959B6-6B5D-451A-A6E7-4B52BCECDF93,113993-2,"""Bull. Torrey Bot. Club 1899, 235.""","","235","1899",
+gcc-143633,A,Compositae,,Guardiola,,"arguta",,"","B.L.Rob.",Accepted,,M,TICA,BEE45904-C8D7-47F5-8794-FC50D2DB4F5B,113994-2,"Bull. Torrey Bot. Club 26","","234","1899",
+gcc-28454,A,Compositae,,Guardiola,,"atriplicifolia",,"","A.Gray",Synonym,,M,TICA,FA6B7075-6386-4FB4-B252-34948F24B500,210704-1,"","","111","1852",gcc-19487
+gcc-83215,A,Compositae,,Guardiola,,"carinata",,"","B.L.Rob.",Accepted,,M,TICA,40CD2C0B-DA53-43D1-8E22-73D1FD13B9F0,113995-2,"Bull. Torrey Bot. Club 26","","233","1899",
+gcc-78456,A,Compositae,,Guardiola,,"diehlii",,"","M.E.Jones",Unresolved,,L,TICA,A4AEDE53-A58F-491F-8338-693412FF4BDE,113996-2,"","","48","1908",
+gcc-19487,A,Compositae,,Guardiola,,"mexicana",,"","Humb. & Bonpl.",Accepted,,M,TICA,6246B506-2DF3-491D-939C-240162408611,,"","","","1807",
+tro-50155969,A,Compositae,,Guardiola,,"mexicana",,"","Bonpl.",Unresolved,,L,TRO,50155969,210707-1,"Pl. Aequinoct.","1(6): 144, pl. 41","144","1808",
+gcc-70465,A,Compositae,,Guardiola,,"mexicana",var.,"angustifolia","(A.Gray ex A.Gray) McVaugh",Accepted,,L,TICA,CE12E4B3-8A36-434E-B2F4-EE5BE5301CE9,113997-2,"Contr. Univ. Michigan Herb. 9","","416","1972",
+gcc-20512,A,Compositae,,Guardiola,,"odontophylla",,"","B.L.Rob.",Accepted,,M,TICA,B5AF79D9-EDF2-4CAE-9EF6-25EFA82CB7CE,113998-2,"""Bull. Torrey Bot. Club 1899, 234.""","","234","1899",
+gcc-132964,A,Compositae,,Guardiola,,"palmeri",,"","B.L.Rob.",Accepted,,M,TICA,15D4B51F-156E-4407-A4A3-E47546143CBF,113999-2,"Proc. Amer. Acad. Arts 43","","38","1907",
+gcc-111537,A,Compositae,,Guardiola,,"pappifera",,"","Paul G.Wilson",Accepted,,M,TICA,E15CB812-D61F-4D5A-A2A1-B351C9AE2430,114000-2,"","","162","1958",
+gcc-80610,A,Compositae,,Guardiola,,"platyphylla",,"","A.Gray",Accepted,,M,TICA,9F4B3526-84FD-4359-ACC4-6DF3452A1F65,210711-1,"","","91","1853",
+gcc-46245,A,Compositae,,Guardiola,,"rosei",,"","B.L.Rob.",Accepted,,M,TICA,BFE7308D-FBBB-42F6-AA99-55B4F3680F4D,114001-2,"""Bull. Torrey Bot. Club 1899, 233.""","","233","1899",
+gcc-116639,A,Compositae,,Guardiola,,"rotundiflora",,"","B.L.Rob.",Accepted,,M,TICA,86CAA94A-3193-4BE9-B8D3-BEDCA8CCF74D,,"","","","1894",
+gcc-124573,A,Compositae,,Guardiola,,"rotundifolia",,"","B.L.Rob.",Accepted,,M,TICA,2D10C942-60BC-445F-AE2D-D1079A91FB71,114002-2,"Proc. Amer. Acad. Arts xxix. (1894) 317.","","317","1894",
+gcc-92216,A,Compositae,,Guardiola,,"stenodonta",,"","S.F.Blake",Accepted,,M,TICA,691BD505-292E-4212-A1F2-881FABCB5C06,114003-2,"Proc. Biol. Soc. Wash. 37","","56","1924",
+gcc-96842,A,Compositae,,Guardiola,,"thompsonii",,"","P.Van Faasen",Accepted,,M,TICA,1DF0C577-D86C-459C-ADF9-9276304D6BD2,210715-1,"","","27","1976",
+gcc-81712,A,Compositae,,Guardiola,,"tulocarpus",,"","A.Gray",Accepted,,L,TICA,D98CCE9F-C73E-4149-8B23-70710FFD59D9,,"","","111","1852",
+gcc-22521,A,Compositae,,Guardiola,,"tulocarpus",var.,"angustifolia","A.Gray ex S.Watson",Synonym,,L,TICA,D620DD43-C560-4E51-AE35-29A70ED3AB73,,"Proc. Amer. Acad. Arts 22: 423 (1887)","","423","1887",gcc-70465
+gcc-5549,A,Compositae,,Guardiola,,"tulocarpus",var.,"angustifolia","A.Gray",Synonym,,L,TICA,9AB7F067-B3B3-407D-B7EE-0A57279C0BE7,114005-2,"Proc. Amer. Acad. Arts 22: 423. 1887","","423","1887",gcc-40637
+gcc-62601,A,Compositae,,Guardiola,,"tulocarpus",var.,"arguta","A.Gray",Synonym,,L,TICA,EF7DAF5C-E63D-4F5B-B949-B023C9DFDD07,114006-2,"Proc. Amer. Acad. Arts 21: 387. 1886","","387","1886",gcc-143633
+gcc-64289,A,Compositae,,Guardiola,,"tulocarpus",var.,"arguta","A.Gray ex S.Watson",Synonym,,L,TICA,00879E7E-8E74-4D5C-9A59-BD62788952A8,,"Proc. Amer. Acad. Arts 21: 387 (1886)","","387","1886",gcc-143633
+gcc-150443,A,Compositae,,Guardiola,,"tulocarpus",var.,"tulocarpus","",Synonym,,L,TICA,D4CF2382-0ECA-4AF2-8B02-6E9A93FA765C,,"","","","",gcc-81712
+gcc-150682,A,Compositae,,Guardiola,,"tulocarpus",subsp.,"tulocarpus","",Synonym,,L,TICA,1E723572-CF0C-4C3D-A001-73FE1929F251,,"","","","",gcc-81712

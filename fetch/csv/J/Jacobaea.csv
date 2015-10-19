@@ -1,0 +1,153 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-13050,A,Compositae,,Jacobaea,,"abrotanifolia",,"","(L.) Moench",Accepted,,M,TICA,703B894F-FB92-4B59-84D4-184D50741677,226578-1,"","","587","1794",
+gcc-65707,A,Compositae,,Jacobaea,,"abrotanifolia",subsp.,"abrotanifolia","",Synonym,,L,TICA,377C3098-934C-4522-A7A2-C8E9E433B96B,,"","","","",gcc-13050
+gcc-35518,A,Compositae,,Jacobaea,,"abrotanifolia",subsp.,"carpathica","(Herbich) B.Nord. & Greuter",Accepted,,L,TICA,B8D63DEB-CA3A-4EA3-9CD8-41D97DDA92EB,77075560-1,"","","711","2006",
+gcc-44404,A,Compositae,,Jacobaea,,"abrotanifolia",subsp.,"tiroliensis","(Dalla Torre) B.Nord. & Greuter",Accepted,,L,TICA,77E30784-54BC-4D0F-9EA6-5248A3AC3793,77075563-1,"","","711","2006",
+gcc-143752,A,Compositae,,Jacobaea,,"adonidifolia",,"","(Loisel.) Pelser & Veldkamp",Accepted,,M,TICA,41487F66-585B-4AD9-917F-FC9975296555,60442183-2,"","","2","2006",
+gcc-105900,A,Compositae,,Jacobaea,,"aegyptia",,"","(L.) Cav.",Unresolved,,L,TICA,C618F840-7BEF-44A4-A7A1-A69C95F791E8,226579-1,"""in Elench. Pl. Hort. Matrit. 19 (1803); cf. Rothm. in Fedde, Repert. xlix. 52(1940).""","","19","1803",
+gcc-142563,A,Compositae,,Jacobaea,,"alpina",,"","(L.) Moench",Accepted,,L,TICA,43CBB9A4-D222-4A73-8DDB-F9DF6826BC4F,226580-1,"","","587","1794",
+gcc-91638,A,Compositae,,Jacobaea,,"ambigua",,"","(Biv.) Pelser & Veldkamp",Accepted,,M,TICA,062AA4DA-5C67-423F-BD62-86CD140DA621,60442208-2,"","","3","2006",
+gcc-20520,A,Compositae,,Jacobaea,,"ambigua",subsp.,"ambigua","",Synonym,,L,TICA,D705DFD7-8378-4711-B7CA-25F3A00DF317,,"","","","",gcc-91638
+gcc-5147,A,Compositae,,Jacobaea,,"ambigua",subsp.,"nebrodensis","(Guss.) Peruzzi & al.",Synonym,,L,TICA,F45A9F58-293F-413A-B6CE-09997F55D97F,,"Peruzzi & al. in Taxon 55. 2007.","","1002","2007",gcc-127638
+gcc-60427,A,Compositae,,Jacobaea,,"ambigua",subsp.,"taygetea","(Boiss. & Heldr.) B.Nord. & Greuter",Accepted,,L,TICA,446FF9A4-C7FE-442E-913C-9E3C1137E04C,77075564-1,"","","712","2006",
+gcc-106234,A,Compositae,,Jacobaea,,"ambracea",,"","(Turcz. ex DC.) B.Nord.",Unresolved,,L,TICA,E2AEC575-2CE2-4FA2-A0CC-A74EF55706BA,60443627-2,"Compositae Newslett. 44: 13","","13","2006",
+gcc-13486,A,Compositae,,Jacobaea,,"analoga",,"","(DC.) Veldkamp",Synonym,,M,TICA,64678210-068E-4C0D-8648-191BC6AD3928,60442233-2,"Compositae Newslett. 44: 3. 2006 [20 Feb 2006]","","3","2006",gcc-39453
+gcc-9145,A,Compositae,,Jacobaea,,"andrzejowskyi",,"","(Tzvelev) B.Nord. & Greuter",Accepted,,M,TICA,39C386C3-D48F-47FA-A08F-1118FBA3BC62,77075565-1,"","","712","2006",
+gcc-38332,A,Compositae,,Jacobaea,,"angustifolia",,"","Thunb.",Synonym,,M,TICA,D86678C4-99B7-41F2-AB90-4719FE5E714F,226581-1,"Prodr. Pl. Cap. 156.","","156","",gcc-104426
+gcc-104414,A,Compositae,,Jacobaea,,"anthoraefolia",,"","Presl",Unresolved,,L,TICA,2AF1BA0C-6BD5-4738-B01B-A3750161FAAF,226582-1,"Delic. Prag. 92. 1822 [Jul 1822]","","92","1822",
+gcc-139900,A,Compositae,,Jacobaea,,"aquatica",,"","(Hill) ""G.Gaertn., B.Mey. & Scherb.""",Accepted,,M,TICA,8985563B-606C-42FF-AA73-F3BA740FB445,226583-1,"","","210","1801",
+gcc-157263,A,Compositae,,Jacobaea,,"aquatica",var.,"aquatica","",Synonym,,L,TICA,AB73BF8E-CD4B-455C-8A1E-FE52474CDA27,,"","","","",gcc-139900
+gcc-24670,A,Compositae,,Jacobaea,,"aquatica",var.,"erratica","(Bertol.) Pelser & Meijden",Accepted,,L,TICA,25A28DDA-0DA4-49BE-8D77-2D9431B64E7D,77076743-1,"Heukels' Fl. Nederland 677","","677","2005",
+gcc-88104,A,Compositae,,Jacobaea,,"arenaria",,"","(M.Bieb.) E.Wiebe",Unresolved,Invalid,L,TICA,2561CB47-D485-481A-81BA-7EAE7B4A44D0,20004937-1,"in Turczaninowia 3(4): 62 (2000).","","62","2000",
+gcc-98979,A,Compositae,,Jacobaea,,"argunensis",,"","(Turcz.) B.Nord.",Accepted,,M,TICA,C96F09BF-B4DE-4E0E-BAD1-9754A614A27C,60443628-2,"","","13","2006",
+gcc-21666,A,Compositae,,Jacobaea,,"arnautorum",,"","(Velen.) Pelser",Accepted,,M,TICA,F7D9BB0E-58A4-4097-9A2C-28134F6C48DC,60443482-2,"","","5","2006",
+gcc-99549,A,Compositae,,Jacobaea,,"aurea",,"","Moench",Unresolved,,L,TICA,EA944E4E-D78C-4306-A751-9894E90951C5,226584-1,"Suppl. Meth. (Moench) 239. 1802 [2 May 1802]","","239","1802",
+gcc-128991,A,Compositae,,Jacobaea,,"auricula",,"","(Bourg. ex Coss.) Pelser",Accepted,,M,TICA,0DB3BCAE-C7B8-4093-B3E5-DB4497D88883,60443483-2,"","","5","2006",
+gcc-110684,A,Compositae,,Jacobaea,,"auriculata",,"","Schrank",Unresolved,,L,TICA,7F831E0B-E5B0-49CD-9F9F-B1770EB15EAB,,"Denkschr. Akad. Muench. (1816-17) 194","","194","",
+gcc-97280,A,Compositae,,Jacobaea,,"balsamita",,"","Raf.",Unresolved,,L,TICA,78F4E7BA-D5CF-44EC-A5A6-937B31586DFC,226586-1,"Fl. Ludov. 140.","","140","",
+gcc-37028,A,Compositae,,Jacobaea,,"bidentata",,"","Thunb.",Unresolved,,L,TICA,D7CF601D-30BC-4F93-B17F-449B750EE8D4,226587-1,"Prodr. Pl. Cap. 156.","","156","",
+gcc-30158,A,Compositae,,Jacobaea,,"boissieri",,"","(DC.) Pelser",Accepted,,M,TICA,DA80B630-5C74-4444-9FA8-37D11A4028AF,60443484-2,"","","5","2006",
+gcc-112966,A,Compositae,,Jacobaea,,"borysthenica",,"","(DC.) B.Nord. & Greuter",Accepted,,M,TICA,DE004793-DF34-4393-BF57-B69E78182906,77075588-1,"","","712","2006",
+gcc-24309,A,Compositae,,Jacobaea,,"buschiana",,"","(Sosn.) B.Nord. & Greuter",Accepted,,M,TICA,9AF8526C-F56F-4AEF-8D4F-2CE5BA31CBF2,77075591-1,"","","712","2006",
+gcc-127638,A,Compositae,,Jacobaea,,"candida",,"","(C.Presl) B.Nord. & Greuter",Accepted,,M,TICA,67DBA3A6-B147-44D6-8984-D81E2C78FF60,77075566-1,"","","712","2006",
+gcc-76461,A,Compositae,,Jacobaea,,"cannabifolia",,"","(Less.) E.Wiebe",Accepted,,M,TICA,82AA1982-C999-4F02-BD03-64C264060B9B,1171303-2,"Turczaninowia 3(4)","","62","2000",
+gcc-118808,A,Compositae,,Jacobaea,,"carniolica",,"","(Willd.) Schrank",Synonym,,M,TICA,5229C321-2E00-4689-98BE-C3D0A77EC8D0,226588-1,"","","316","1814",gcc-64142
+gcc-156992,A,Compositae,,Jacobaea,,"carniolica",subsp.,"carniolica","",Synonym,,L,TICA,DF163003-EBA1-4FC8-81B1-F879EF3ED170,,"","","","",gcc-64142
+gcc-771,A,Compositae,,Jacobaea,,"carniolica",subsp.,"insubrica","(Chenevard) Pelser",Synonym,,L,TICA,D6FE752A-041A-4D1E-B4C0-016EDA5AFACE,60443486-2,"","","5","2006",gcc-16528
+gcc-18527,A,Compositae,,Jacobaea,,"carnosa",,"","Presl",Unresolved,,L,TICA,3832C3D1-90C5-4E8D-9A0C-22379D8721B6,226589-1,"Delic. Prag. 93. 1822 [Jul 1822]","","93","1822",
+gcc-89086,A,Compositae,,Jacobaea,,"cernua",,"","Kuntze",Unresolved,,L,TICA,5C6FC4F1-BAD4-4107-AD39-80EA31BF983F,226590-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-89646,A,Compositae,,Jacobaea,,"cilicia",,"","(Boiss.) B.Nord.",Accepted,,M,TICA,9AF955F8-704B-4BA0-AB67-822BD59A9ED6,77086102-1,"B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-95408,A,Compositae,,Jacobaea,,"conzyae",,"","(Griess.) Merino",Synonym,,M,TICA,B911A9B0-540B-4469-A199-8F3FA053F46F,,"""Merino, Fl. Galicia 2. 1906.""","","337","1906",gcc-87765
+gcc-15497,A,Compositae,,Jacobaea,,"cordata",,"","Opiz",Unresolved,,L,TICA,FC8EF30A-5246-40FA-B1D1-1CAE25A7F29E,226591-1,"Seznam 54. 1852","","54","1852",
+gcc-127414,A,Compositae,,Jacobaea,,"crassifolia",,"","Raf.",Unresolved,,L,TICA,572D691B-5F15-495B-905E-D799C6AFD072,226592-1,"""in Med. Repos. N. York, v. (1808) 354, nomen. (Quid ?).""","","""v. (1808) 354, nomen.""","",
+gcc-90355,A,Compositae,,Jacobaea,,"crithmoides",,"","(L.) Merino",Synonym,,M,TICA,034D9AE5-82EF-4E82-B105-83C476DCABD9,,"""Merino, Fl. Galicia 2. 1906.""","","337","1906",gcc-81575
+gcc-75400,A,Compositae,,Jacobaea,,"delphiniifolia",,"","(Vahl) Pelser & Veldkamp",Accepted,,M,TICA,508BC751-4B02-4F67-84A1-6258ED952E48,60443487-2,"","","5","2006",
+gcc-11569,A,Compositae,,Jacobaea,,"denticulata",,"","Gilib.",Unresolved,,L,TICA,BACD88BF-BA41-407B-96DC-15939BD1F46F,226593-1,"Fl. Lit. Inch. i. 200. 1782","","i. 200","1782",
+gcc-95069,A,Compositae,,Jacobaea,,"divaricata",,"","Kuntze",Unresolved,,L,TICA,F65E594A-5497-4446-B8E1-8E77C6412F62,226594-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-128256,A,Compositae,,Jacobaea,,"doria",,"","""G.Gaertn., B.Mey. & Scherb.""",Unresolved,,L,TICA,B673083E-03F9-4C91-BA87-D997C8243DFE,226595-1,"Oekon. Fl. Wetterau 3(1): 214","","214","1801",
+gcc-99661,A,Compositae,,Jacobaea,,"echaeta",,"","(Y.L.Chen & K.Y.Pan) B.Nord.",Unresolved,,L,TICA,04CEB8E7-27D8-47D7-AFA5-98E04E6FCCB9,60443626-2,"Compositae Newslett. 44: 13","","13","2006",
+gcc-96410,A,Compositae,,Jacobaea,,"elegans",,"","Moench",Unresolved,,L,TICA,669213EF-05B7-4FE2-B75E-917C5F95AD72,226596-1,"Methodus (Moench) 586. 1794 [4 May 1794]","","586","1794",
+gcc-21287,A,Compositae,,Jacobaea,,"erratica",,"","(Bertol.) Fourr.",Accepted,,M,TICA,D2C3E39D-0F44-427A-8BA0-275B0971BE50,,"","","404","1868",
+gcc-80383,A,Compositae,,Jacobaea,,"erucifolia",,"","(L.) ""P.Gaertn., B.Mey. & Schreb.""",Accepted,,M,TICA,5A0C24C1-D7E6-440F-99A7-6D7B82D56DA6,,"","","208","1801",
+tro-50229786,A,Compositae,,Jacobaea,,"erucifolia",,"","(L.) P. Gaertn., B. Mey. & Scherb.",Synonym,,M,TRO,50229786,,"Oekon. Fl. Wetterau","3: 208","208","1802",gcc-25415
+gcc-57144,A,Compositae,,Jacobaea,,"erucifolia",subsp.,"arenaria","(Soó) B.Nord. & Greuter",Accepted,,L,TICA,A7031342-C73A-4D5E-8835-84161A27014B,77075568-1,"","","712","2006",
+gcc-57922,A,Compositae,,Jacobaea,,"erucifolia",subsp.,"erucifolia","",Synonym,,L,TICA,B42EA65D-9EA1-4444-A00D-8A5C133AA28A,,"","","","",gcc-80383
+gcc-72002,A,Compositae,,Jacobaea,,"erucifolia",subsp.,"praealta","(Betol.) Greuter & B.Nord.",Accepted,,L,TICA,5BA78ECD-5083-40B1-9EA3-FA7FA290BA72,,"Greuter & B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-69287,A,Compositae,,Jacobaea,,"erucifolia",subsp.,"tenuifolia","B.Nord. & Greuter",Accepted,,L,TICA,C3FE4CC3-81EC-448E-B0AA-E539E672139D,77075570-1,"","","712","2006",
+gcc-77589,A,Compositae,,Jacobaea,,"ferganensis",,"","(Schischk.) B.Nord. & Greuter",Accepted,,M,TICA,781ECF78-EA6B-41EF-B9F4-6733D7E7483E,77075571-1,"","","712","2006",
+gcc-141040,A,Compositae,,Jacobaea,,"flexuosa",,"","Kuntze",Unresolved,,L,TICA,A3AA084B-6A8D-40A5-9EBE-F67522596168,226599-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-557,A,Compositae,,Jacobaea,,"flosculosa",,"","Fourr.",Unresolved,,L,TICA,67DB4E79-798C-4696-859D-010DA8F35C3F,,"""Ann. Soc. Linn. Lyon sér. 2, 16: 404""","","404","1868",
+gcc-128710,A,Compositae,,Jacobaea,,"frondosa",,"","Opiz.",Unresolved,,L,TICA,11AC41FF-4418-4810-BB84-DAA6FEB22237,226601-1,"Seznam 54. 1852","","54","1852",
+gcc-105244,A,Compositae,,Jacobaea,,"fuchsii",,"","C.A.Mey.",Unresolved,,L,TICA,3965EE11-785A-4988-BD36-A53004AF0ED7,226602-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 81","","81","1831",
+gcc-49691,A,Compositae,,Jacobaea,,"gallerandiana",,"","(Coss. & Durieu) Pelser",Accepted,,M,TICA,FC914A03-73AF-48E9-965B-5C1F4857F1D2,60443507-2,"","","6","2006",
+gcc-4129,A,Compositae,,Jacobaea,,"gibbosa",,"","(Guss.) B.Nord. & Greuter",Accepted,,M,TICA,30F57DAB-674E-4C4A-B831-07B1B048D276,77075573-1,"","","712","2006",
+gcc-23164,A,Compositae,,Jacobaea,,"gigantea",,"","(Desf.) Pelser",Accepted,,M,TICA,304AE338-DC2A-4C29-8724-2AE3992845E7,60443508-2,"","","6","2006",
+gcc-50150,A,Compositae,,Jacobaea,,"glastifolia",,"","Schrank",Unresolved,,L,TICA,B2C763D7-0E3D-42F5-AA58-5CF6AA137C92,,"in Syll. Ratisb. i. (1824) 45","","45","",
+gcc-92451,A,Compositae,,Jacobaea,,"gnaphalioides",,"","(Sieber ex Spreng.) Veldkamp",Accepted,,M,TICA,3386CEFF-AF6C-481B-88F9-88A153FCC5E5,60443509-2,"""Pelser, Veldkamp & Meijden Compositae Newslett. 44. 2006.""","","6","2006",
+gcc-89200,A,Compositae,,Jacobaea,,"gracilis",,"","Raf. ex DC.",Unresolved,,L,TICA,9201FFFA-A618-4621-8152-8126EB8B7A33,226604-1,"Prodr. (DC.) 6: 432","","432","1838",
+gcc-34424,A,Compositae,,Jacobaea,,"graveolens",,"","(L.) Merino",Synonym,,M,TICA,CFE38124-6A92-4122-96E4-3FCD044C04E4,,"""Merino, Fl. Galicia 2. 1906.""","","336","1906",gcc-103204
+gcc-142092,A,Compositae,,Jacobaea,,"hirta",,"","(L.) Merino",Synonym,,M,TICA,2382CF6C-771E-48CA-8608-F8E2BCD0A976,,"""Merino, Fl. Galicia 2. 1906.""","","339","1906",gcc-29409
+gcc-10608,A,Compositae,,Jacobaea,,"incana",,"","(L.) Veldkamp",Accepted,,M,TICA,67603FAC-CFDC-4B79-822C-13D206AE056B,77073758-1,"","","7","2006",
+gcc-130650,A,Compositae,,Jacobaea,,"incana",,"","Gilib.",Unresolved,,L,TICA,1258BB7D-0891-4EF0-A9BF-DF0ADB44E8A8,226605-1,"Fl. Lit. Inch. 1: 202","","202","1782",
+gcc-91593,A,Compositae,,Jacobaea,,"incana",,"","Raf.",Unresolved,,L,TICA,A89AA65F-CFD1-4748-B77E-86B674225D32,,"""Med. Repos. ser. 2, 5: 354""","","354","1808",
+gcc-64142,A,Compositae,,Jacobaea,,"incana",subsp.,"carniolica","(Willd.) B.Nord. & Greuter",Accepted,,L,TICA,7BC4A607-E793-4DFC-BB6F-BC31961D2D79,77075575-1,"","","712","2006",
+gcc-5493,A,Compositae,,Jacobaea,,"incana",subsp.,"incana","",Synonym,,L,TICA,63A308C4-7B12-4273-97CD-0A3BE392656B,,"","","","",gcc-10608
+gcc-16528,A,Compositae,,Jacobaea,,"incana",subsp.,"insubrica","(Chenevard) B.Nord. & Greuter",Accepted,,L,TICA,3CDE4FE3-2684-454B-905B-1E8CB6E97F82,77075576-1,"","","712","2006",
+gcc-48285,A,Compositae,,Jacobaea,,"incisa",,"","C.Presl",Unresolved,,L,TICA,59DB180B-B3B4-4CF9-A677-597C0E76D36F,226607-1,"","","94","1822",gcc-99298
+gcc-133436,A,Compositae,,Jacobaea,,"indica",,"","Kuntze",Unresolved,,L,TICA,84B1E1C0-C5CA-4F98-941F-E57F612A8490,226608-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-111845,A,Compositae,,Jacobaea,,"inops",,"","(Boiss. & Balansa) B.Nord.",Accepted,,M,TICA,7F2F6490-7A2D-4CA9-A5C9-B415CB30059D,77086103-1,"B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-42338,A,Compositae,,Jacobaea,,"kirghisica",,"","(DC.) E.Wiebe",Unresolved,,L,TICA,10CCABC3-3E1A-42E7-931A-4E6EDD49C5B6,20001918-1,"in Turczaninowia 3(4): 62 (2000).","","62","2000",gcc-17529
+gcc-34635,A,Compositae,,Jacobaea,,"korshinskyi",,"","(Krasch.) B.Nord.",Unresolved,,L,TICA,4DC2BC11-D8D4-49F5-A38B-403610371784,60443620-2,"Compositae Newslett. 44: 13","","13","2006",
+gcc-131535,A,Compositae,,Jacobaea,,"kosteleckii",,"","Opiz",Unresolved,,L,TICA,CDFC9862-9883-4499-B532-E121D947A82B,226609-1,"Seznam 54. 1852","","54","1852",
+gcc-111535,A,Compositae,,Jacobaea,,"lanuginosa",,"","Presl",Unresolved,,L,TICA,E2178286-9772-4599-8401-B3516B2C7590,226610-1,"Delic. Prag. 90. 1822 [Jul 1822]","","90","1822",
+gcc-82835,A,Compositae,,Jacobaea,,"leucophylla",,"","(DC.) Pelser",Accepted,,M,TICA,3E9ABFC8-10DE-4CC1-AF40-72F09F9B1B87,77073759-1,"","","7","2006",
+gcc-26370,A,Compositae,,Jacobaea,,"lycopifolia",,"","(Poir.) Greuter & B.Nord.",Accepted,,M,TICA,35ED0B44-8CBC-440C-93EF-30BE55EDFCA7,77086130-1,"Greuter & B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-144774,A,Compositae,,Jacobaea,,"macrophylla",,"","Claus",Unresolved,,L,TICA,9B1C6621-1657-4941-9199-FEDF6E0400A5,226611-1,"""in Goebel, Reise. ii. 288.""","","ii. 288","",
+gcc-25500,A,Compositae,,Jacobaea,,"macrophylla",,"","C.A.Mey.",Unresolved,,L,TICA,9EB6EB69-C03E-4633-B2F4-2F1513F6C40C,226612-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 81","","81","1831",
+gcc-31568,A,Compositae,,Jacobaea,,"maritima",,"","(L.) Pelser & Meijden",Accepted,,M,TICA,23723414-35AC-46A4-951C-3A84C4D1233E,77075194-1,"","","677","2005",
+gcc-68794,A,Compositae,,Jacobaea,,"maritima",subsp.,"bicolor","(Willd.) B.Nord. & Greuter",Accepted,,L,TICA,B2DF9755-2D98-409B-BE43-E1771CBE479F,77075578-1,"","","712","2006",
+gcc-11936,A,Compositae,,Jacobaea,,"maritima",subsp.,"gibbosa","(Guss.) Peruzzi & al.",Synonym,,L,TICA,2851796E-755C-47D1-98F4-1640DD3C9D11,,"Peruzzi & al. in Taxon 55. 2007.","","1002","2007",gcc-4129
+gcc-10132,A,Compositae,,Jacobaea,,"maritima",subsp.,"maritima","",Synonym,,L,TICA,A2AFA082-2EDF-4853-A657-12F3F79335CE,,"","","","",gcc-31568
+gcc-88021,A,Compositae,,Jacobaea,,"maroccana",,"","(P.H.Davis) Pelser",Accepted,,M,TICA,203D23D4-A1CA-4543-8120-7E82D13873A9,77073760-1,"","","8","2006",
+gcc-44177,A,Compositae,,Jacobaea,,"minuta",,"","(Cav.) Pelser & Veldkamp",Accepted,,M,TICA,6A2767AE-4BE3-43E5-A06C-51CFD5DF03E3,77073761-1,"","","8","2006",
+gcc-118577,A,Compositae,,Jacobaea,,"mollis",,"","(Willd.) B.Nord.",Accepted,,M,TICA,662195CF-0BF4-41CE-A9B8-C34BE739552C,60443615-2,"","","12","2006",
+gcc-21238,A,Compositae,,Jacobaea,,"mouterdei",,"","(Arènes) Greuter & B.Nord.",Accepted,,M,TICA,4CAB1F45-81E7-4E97-967F-273E8870540D,77086105-1,"Greuter & B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-79920,A,Compositae,,Jacobaea,,"mucronata",,"","Thunb.",Synonym,,M,TICA,B40D8BEE-A478-48E4-A5C1-6C6B1162BBB6,226613-1,"Prodr. Pl. Cap. 156.","","156","",gcc-98839
+gcc-86843,A,Compositae,,Jacobaea,,"multibracteolata",,"","(C.Jeffrey & Y.L.Chen) B.Nord.",Unresolved,,L,TICA,6B8CABF6-EEB9-4D28-AC90-7BDF34463354,60443623-2,"Compositae Newslett. 44: 13","","13","2006",
+gcc-103215,A,Compositae,,Jacobaea,,"nebrodensis",,"","Raf.",Unresolved,,L,TICA,F475BC52-3FF3-4784-B017-A0C1C9AE593E,226614-1,"Chlor. Aetn. 6.","","6","",
+gcc-100686,A,Compositae,,Jacobaea,,"nemorensis",,"","(L.) E.Wiebe",Unresolved,,L,TICA,A79565C3-5E2C-435C-B697-9B2DA455561F,20001922-1,"in Turczaninowia 3(4): 62 (2000).","","62","2000",
+gcc-116415,A,Compositae,,Jacobaea,,"nemorensis",,"","Moench",Unresolved,,L,TICA,60029E59-A016-45A3-9E6B-BE5A490F5D03,226615-1,"Methodus (Moench) 587. 1794 [4 May 1794]","","587","1794",
+gcc-110455,A,Compositae,,Jacobaea,,"nemorosa",,"","Fourr.",Unresolved,,L,TICA,48364633-68F3-4095-A807-B0ED585F6E41,,"""Ann. Soc. Linn. Lyon sér. 2, 16: 404""","","404","1868",
+gcc-126416,A,Compositae,,Jacobaea,,"nivea",,"","Thunb.",Synonym,,M,TICA,32C35B53-1C81-4E9B-8DFF-D5496AC0876E,226617-1,"Prodr. Pl. Cap. 156; Nov. Gen. 171.","","156","",gcc-43514
+gcc-144463,A,Compositae,,Jacobaea,,"nudicaulis",,"","(Buch.-Ham. ex D.Don) B.Nord.",Unresolved,,L,TICA,F1396B53-4256-4FAA-A324-FE26A32DBD25,60443616-2,"Compositae Newslett. 44: 12","","12","2006",
+gcc-82192,A,Compositae,,Jacobaea,,"opuntiifolia",,"","Raf.",Unresolved,,L,TICA,A8679E81-26D0-4880-A78A-717C61C57906,226618-1,"Fl. Ludov. 67","","67","",
+gcc-139301,A,Compositae,,Jacobaea,,"ornata",,"","(Druce) Greuter & B.Nord.",Accepted,,M,TICA,94612331-E7FB-4B0E-8C7E-F26E94CE5ECF,77086106-1,"Greuter & B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-104048,A,Compositae,,Jacobaea,,"othonnae",,"","(M.Bieb.) C.A.Mey.",Accepted,,M,TICA,88D572EB-1640-4D6C-8399-A2ADDDC6583C,226619-1,"","","81","1831",
+gcc-129122,A,Compositae,,Jacobaea,,"ovata",,"","G.Gaertn., B.Mey. & Scherb.",Unresolved,,L,TICA,60E09C6C-022C-41D1-AAF2-DB929A5FC2B0,226620-1,"G. Gaertn. & al.. 1801.","","212","1801",gcc-106886
+tro-100378515,A,Compositae,,Jacobaea,,"palmata",,"","(Pall.) Sennikov",Synonym,,M,TRO,100378515,77107279-1,"Komarovia","6(2): 89","89","2010",gcc-51442
+gcc-108052,A,Compositae,,Jacobaea,,"paludosa",,"","(L.) ""G.Gaertn., B.Mey. & Scherb.""",Accepted,,L,TICA,097BA197-526C-4E39-9DE4-AB7CB1F441E2,,"""G. Gaertn. & al., Oekon Fl. Wetterau 3(1). 1801.""","","211","1801",
+gcc-9178,A,Compositae,,Jacobaea,,"paludosa",subsp.,"angustifolia","(Holub) B.Nord. & Greuter",Accepted,,L,TICA,3AA9F9F5-A3A5-4D1F-8AC9-112A2D14E1EA,77075585-1,"","","712","2006",
+gcc-70388,A,Compositae,,Jacobaea,,"paludosa",subsp.,"lanata","(Holub) B.Nord. & Greuter",Accepted,,L,TICA,50A4AB5A-7680-45E5-B06D-EDB65D5EBFAB,77075587-1,"","","712","2006",
+gcc-66708,A,Compositae,,Jacobaea,,"paludosa",subsp.,"paludosa","",Synonym,,L,TICA,F81DE85B-52B9-41F8-B098-D0EDC59B6232,,"","","","",gcc-108052
+gcc-76211,A,Compositae,,Jacobaea,,"paniculata",,"","Thunb.",Unresolved,,L,TICA,913FAB72-A6C2-4542-A420-6430CFF67085,226622-1,"Prodr. Pl. Cap. 156.","","156","",
+gcc-95859,A,Compositae,,Jacobaea,,"persicifolia",,"","(L.) Thunb.",Synonym,,M,TICA,0549C504-B3BD-4BF9-B0DA-90500BF74171,226623-1,"Prodr. Pl. Cap. 156.","","156","",gcc-130826
+gcc-22185,A,Compositae,,Jacobaea,,"persoonii",,"","(De Not.) Pelser",Accepted,,M,TICA,EA1E33D2-7675-4BAF-843F-290C37F6D2FD,77073762-1,"","","9","2006",
+gcc-94467,A,Compositae,,Jacobaea,,"peucedanifolia",,"","Thunb.",Unresolved,,L,TICA,813AF4C2-71C9-41D2-A328-8D03C42BAD33,226624-1,"Prodr. Pl. Cap. 157.","","157","",
+gcc-117843,A,Compositae,,Jacobaea,,"pulicariaeformis",,"","Kuntze",Unresolved,,L,TICA,098D2A6A-7F09-49A6-98C8-C193703BAC14,226625-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-116182,A,Compositae,,Jacobaea,,"purpurea",,"","Thunb.",Unresolved,,L,TICA,7DB43801-AD37-4811-8CEF-BDDABE35154A,226626-1,"Prodr. Pl. Cap. 157.","","157","",
+gcc-130835,A,Compositae,,Jacobaea,,"raphanifolia",,"","(Wall. ex DC.) B.Nord.",Synonym,,M,TICA,18CD1BA2-7DF0-4D10-B948-DF7A6A112E47,60443625-2,"Compositae Newslett. 44: 13","","13","2006",gcc-127617
+gcc-51568,A,Compositae,,Jacobaea,,"reclinata",,"","Thunb.",Unresolved,,L,TICA,923D2FB4-1959-47B5-AA00-5F9C96D75BCA,226627-1,"Prodr. Pl. Cap. 157.","","157","",
+gcc-84882,A,Compositae,,Jacobaea,,"renardii",,"","(Winkl.) B.Nord.",Unresolved,,L,TICA,D22E885C-E97A-42DE-807D-7775E047A2E8,60443619-2,"Compositae Newslett. 44: 13","","13","2006",
+gcc-93110,A,Compositae,,Jacobaea,,"rigescens",,"","(Jacq.) Cav.",Unresolved,,L,TICA,4393FFD0-6E93-4B8A-98A1-8A09BA2290AA,226628-1,"""in Elench. Pl. Hort. Matrit. 19 (1803); cf. Rothm. in Fedde, Repert. xlix. 52(1940).""","","19","1803",
+gcc-88646,A,Compositae,,Jacobaea,,"rosmarinifolia",,"","Moench",Unresolved,,L,TICA,4F59DE53-7A1E-4B83-A85B-7FE47585059C,226629-1,"Suppl. Meth. (Moench) 239. 1802 [2 May 1802]","","239","1802",
+gcc-10579,A,Compositae,,Jacobaea,,"rubella",,"","Moench",Unresolved,,L,TICA,546062C3-C114-45D6-823E-13C3F3DD1C28,226630-1,"Methodus (Moench) 586. 1794 [4 May 1794]","","586","1794",
+gcc-25850,A,Compositae,,Jacobaea,,"salicina",,"","(L.) Merino",Synonym,,M,TICA,D2014A13-5F51-4B41-A4CA-2FC4CD0D3372,,"""Merino, Fl. Galicia 2. 1906.""","","338","1906",gcc-4252
+gcc-143464,A,Compositae,,Jacobaea,,"samnitum",,"","(Nyman) B.Nord. & Greuter",Accepted,,M,TICA,B646315D-5B68-4AE4-91ED-FBF8258990B7,77075592-1,"","","713","2006",
+gcc-42386,A,Compositae,,Jacobaea,,"sandrasica",,"","(P.H.Davis) B.Nord. & Greuter",Accepted,,M,TICA,7C62B145-B1ED-4D88-8092-4E884F477209,77075593-1,"","","713","2006",
+gcc-13530,A,Compositae,,Jacobaea,,"saracenica",,"","Moench",Unresolved,,L,TICA,42587DD7-6A4A-4EA0-9877-192CD762D540,226631-1,"Methodus (Moench) 588. 1794 [4 May 1794]","","588","1794",
+gcc-88236,A,Compositae,,Jacobaea,,"sarana",,"","Kuntze",Unresolved,,L,TICA,9164DCB9-5F26-4DCB-9741-7EFCD2990685,226632-1,"Revis. Gen. Pl. 1: 347","","347","1891",
+gcc-47798,A,Compositae,,Jacobaea,,"scabra",,"","Thunb.",Unresolved,,L,TICA,78E02D1D-3EE8-470E-BDDA-588C588FC7EE,,"","","","",
+gcc-7948,A,Compositae,,Jacobaea,,"schischkiniana",,"","(Sofieva) B.Nord. & Greuter",Accepted,,M,TICA,5A16DF1E-4C2C-42A9-BD7A-0EC88EC11374,77075594-1,"","","713","2006",
+gcc-78364,A,Compositae,,Jacobaea,,"sicca",,"","Gilib.",Unresolved,,L,TICA,C53C731D-CEEF-4EB4-884E-68FA331F4EAB,226635-1,"Fl. Lit. Inch. i. 199. 1782","","i. 199","1782",
+gcc-105804,A,Compositae,,Jacobaea,,"sinuata",,"","Gilib.",Unresolved,,L,TICA,85553A24-E47E-4386-AA8D-A65CF471499C,226636-1,"Fl. Lit. Inch. i. 201. 1782","","i. 201","1782",
+gcc-120339,A,Compositae,,Jacobaea,,"sinuata",,"","Moench",Unresolved,,L,TICA,949019B4-5FD6-4C5A-BFF3-C744D389E66A,226637-1,"Suppl. Meth. (Moench) 239. 1802 [2 May 1802]","","239","1802",
+gcc-31499,A,Compositae,,Jacobaea,,"squalida",,"","C.A.Mey.",Unresolved,,L,TICA,275273C9-2522-4AC7-B35A-3A63B208334F,226638-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 81","","81","1831",
+gcc-6149,A,Compositae,,Jacobaea,,"suaveolens",,"","Gilib.",Unresolved,,L,TICA,1D358A83-5B7E-4C09-8F86-0B710B269EE2,226639-1,"Fl. Lit. Inch. i. 201. 1782","","i. 201","1782",
+gcc-51107,A,Compositae,,Jacobaea,,"subalpina",,"","(W.D.J.Koch) Pelser & Veldkamp",Accepted,,M,TICA,2F0E2A0B-5A06-45ED-A112-5ECF2BBEAA31,77073763-1,"","","9","2006",
+gcc-110053,A,Compositae,,Jacobaea,,"sylvatica",,"","Moench",Unresolved,,L,TICA,1FA77597-B507-4E64-9ABA-B001153F4B64,226640-1,"Methodus (Moench) 586. 1794 [4 May 1794]","","586","1794",
+gcc-28418,A,Compositae,,Jacobaea,,"tatarica",,"","(Less.) E.Wiebe",Unresolved,,L,TICA,88A38E4E-EEF0-4A33-8C1B-34803AB533D4,20001923-1,"in Turczaninowia 3(4): 62 (2000).","","62","2000",gcc-70388
+gcc-41552,A,Compositae,,Jacobaea,,"tenuifolia",,"","J.Presl & C.Presl",Unresolved,,L,TICA,DA596031-C3A5-4771-9FF3-4CF232647B9F,226641-1,"","","175","1819",gcc-69287
+gcc-138023,A,Compositae,,Jacobaea,,"tibetica",,"","(Hook.f.) B.Nord.",Synonym,,M,TICA,C6623A15-4C49-4623-9898-EFB0B786FF59,60443621-2,"Compositae Newslett. 44: 13","","13","2006",gcc-102599
+gcc-16261,A,Compositae,,Jacobaea,,"tomentosa",,"","Thunb.",Unresolved,,L,TICA,71FBDF66-0A4F-4503-963D-1E1467F707A4,,"Nov. Gen. 175; Prod. Pl. Cap. 157.","","175","",
+gcc-83642,A,Compositae,,Jacobaea,,"tomentosa",,"","Moench",Unresolved,,L,TICA,A3B231BA-1F13-47ED-8513-74BCECBBFA39,226642-1,"Methodus (Moench) 587. 1794 [4 May 1794]","","587","1794",
+gcc-34992,A,Compositae,,Jacobaea,,"trapezuntina",,"","(Boiss.) B.Nord.",Accepted,,M,TICA,71A4462D-CC20-49B2-BE64-40E1EE66D1B8,77086107-1,"B. Nord. in Willdenowia 37. 2007.","","181","2007",
+gcc-38908,A,Compositae,,Jacobaea,,"uniflora",,"","(All.) Veldkamp",Accepted,,M,TICA,CE4C1089-C1EE-4BFA-903D-482BCA94406A,77073764-1,"","","9","2006",
+gcc-35095,A,Compositae,,Jacobaea,,"verna",,"","Raf.",Unresolved,,L,TICA,D5B51816-EFBE-4922-AFE5-4113DF504CD9,226644-1,"Chlor. Aetn. 6.","","6","",
+gcc-105642,A,Compositae,,Jacobaea,,"vernalis",,"","C.A.Mey.",Unresolved,,L,TICA,5214E9DB-1C79-4E0F-8C0F-A606E6E0F7D0,226645-1,"Verz. Pfl. Casp. Meer. (C.A. von Meyer). 81","","81","1831",
+gcc-133655,A,Compositae,,Jacobaea,,"vestita",,"","Thunb.",Synonym,,M,TICA,E2D844E1-F98F-4774-BFC7-E5FBECFA805F,,"","","","1891",gcc-36397
+gcc-4578,A,Compositae,,Jacobaea,,"viscosa",,"","(L.) Merino",Synonym,,M,TICA,1387A464-25F3-42CB-BBF8-08824AB04F4C,,"""Merino, Fl. Galicia 2. 1906.""","","336","1906",gcc-16305
+gcc-77058,A,Compositae,,Jacobaea,,"viscosa",,"","Gilib.",Unresolved,,L,TICA,CA21BDB5-2039-4510-BEDE-6602C8E01BA9,226648-1,"Fl. Lit. Inch. i. 200. 1782","","i. 200","1782",
+gcc-130819,A,Compositae,,Jacobaea,,"vulgaris",,"","Gaertn.",Accepted,,M,TICA,E9C83F64-5164-422C-8CB0-DF705D1F4192,226649-1,"","","445","1791",
+gcc-54851,A,Compositae,,Jacobaea,,"vulgaris",subsp.,"dunensis","(Dumort.) Pelser & Meijden",Accepted,,L,TICA,4453F834-C13F-4C4A-9686-715FDA1FCEB6,77076744-1,"","","677","2005",
+gcc-145929,A,Compositae,,Jacobaea,,"vulgaris",subsp.,"vulgaris","",Synonym,,L,TICA,D2D8B6FD-6597-4A1E-BD97-0DCFB33A2E3B,,"","","","",gcc-130819
+gcc-156073,A,Compositae,,Jacobaea,,"vulgaris",var.,"vulgaris","",Synonym,,L,TICA,3B4FB40F-7A64-41A8-B3EC-E5F1E38F94B8,,"","","","",gcc-130819

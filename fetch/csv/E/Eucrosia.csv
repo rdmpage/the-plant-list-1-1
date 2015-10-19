@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-305912,A,Amaryllidaceae,,Eucrosia,,"aurantiaca",,"","(Baker) Pax",Accepted,,H,WCSP,305912,97950-2,"Nat. Pflanzenfam. ed. 2","15a: 415","","1930",
+tro-100188881,A,Amaryllidaceae,,Eucrosia,,"aurantiaca",,"","(Baker) Traub",Synonym,,M,TRO,100188881,64333-1,"Pl. Life","22: 62","62","1966",kew-305912
+kew-305913,A,Amaryllidaceae,,Eucrosia,,"bicolor",,"","Ker Gawl.",Accepted,,H,WCSP,305913,276932-2,"Bot. Reg.","3: t. 207","","1817",
+kew-310849,A,Amaryllidaceae,,Eucrosia,,"bicolor",var.,"bicolor","",Synonym,,L,WCSP,310849,,"Unknown","","","",kew-305913
+kew-305915,A,Amaryllidaceae,,Eucrosia,,"brachyandra",,"","Meerow & Dehgan",Synonym,,H,WCSP,305915,907766-1,"Brittonia","37: 54","","1985",kew-305923
+kew-305916,A,Amaryllidaceae,,Eucrosia,,"calendulina",,"","Meerow & Sagást.",Accepted,,H,WCSP,305916,1000741-1,"Sida","17: 761","","1997",
+tro-1201954,A,Amaryllidaceae,,Eucrosia,,"cucrosioides",,"","Pax",Unresolved,,L,TRO,1201954,,"","","","",
+kew-305917,A,Amaryllidaceae,,Eucrosia,,"dodsonii",,"","Meerow & Dehgan",Accepted,,H,WCSP,305917,276934-2,"Brittonia","37: 47","","1985",
+kew-305918,A,Amaryllidaceae,,Eucrosia,,"eucrosioides",,"","(Herb.) Pax",Accepted,,H,WCSP,305918,97951-2,"Nat. Pflanzenfam.","2(5): 115","","1887",
+kew-276610,A,Amaryllidaceae,,Eucrosia,,"eucrosioides",var.,"rauhiana","(Traub) Traub",Synonym,,L,WCSP,276610,97952-2,"Pl. Life","22: 62","","1966",kew-305918
+kew-305919,A,Amaryllidaceae,,Eucrosia,,"lehmannii",,"","Hieron.",Synonym,,H,WCSP,305919,64336-1,"Notizbl. Königl. Bot. Gart. Berlin","1: 33","","1895",kew-305913
+kew-305920,A,Amaryllidaceae,,Eucrosia,,"mirabilis",,"","(Baker) Pax",Accepted,,H,WCSP,305920,97953-2,"Nat. Pflanzenfam. ed. 2","15a: 415","","1930",
+tro-100188882,A,Amaryllidaceae,,Eucrosia,,"mirabilis",,"","(Baker) Traub",Synonym,,M,TRO,100188882,64337-1,"Pl. Life","22: 62","62","1966",kew-305920
+kew-305921,A,Amaryllidaceae,,Eucrosia,,"morleyana",,"","Rose",Synonym,,H,WCSP,305921,97954-2,"Addisonia","7: 3","","1922",kew-305912
+kew-305922,A,Amaryllidaceae,,Eucrosia,,"peruviana",,"","Ravenna",Synonym,,H,WCSP,305922,904161-1,"Phytologia","56: 197","","1984",kew-287762
+kew-305923,A,Amaryllidaceae,,Eucrosia,,"stricklandii",,"","(Baker) Meerow",Accepted,,H,WCSP,305923,276935-2,"Phytologia","58: 499","","1985",
+kew-305924,A,Amaryllidaceae,,Eucrosia,,"stricklandii",var.,"montana","Meerow",Accepted,,L,WCSP,305924,276936-2,"Phytologia","60: 101","","1986",
+kew-310850,A,Amaryllidaceae,,Eucrosia,,"stricklandii",var.,"stricklandii","",Synonym,,L,WCSP,310850,,"Unknown","","","",kew-305923
+kew-305925,A,Amaryllidaceae,,Eucrosia,,"tubiflora",,"","Meerow",Accepted,,H,WCSP,305925,276937-2,"Brittonia","37: 305","","1985",

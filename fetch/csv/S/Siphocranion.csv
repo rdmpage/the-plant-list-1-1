@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-192453,A,Lamiaceae,,Siphocranion,,"macranthum",,"","(Hook.f.) C.Y.Wu",Accepted,,H,WCSP,192453,459141-1,"Acta Phytotax. Sin.","8: 56","","1959",
+tro-17608440,A,Lamiaceae,,Siphocranion,,"macranthum",var.,"macranthum","",Synonym,,L,TRO,17608440,,"","","","",kew-192453
+kew-217027,A,Lamiaceae,,Siphocranion,,"macranthum",var.,"microphyllum","C.Y.Wu",Synonym,,L,WCSP,217027,,"Acta Phytotax. Sin.","8: 57","","1959",kew-192453
+kew-217028,A,Lamiaceae,,Siphocranion,,"macranthum",var.,"prainianum","(H.Lév.) C.Y.Wu & H.W.Li",Synonym,,L,WCSP,217028,,"Acta Phytotax. Sin.","10: 239","","1965",kew-192453
+kew-192454,A,Lamiaceae,,Siphocranion,,"nudipes",,"","(Hemsl.) Kudô",Accepted,,H,WCSP,192454,459142-1,"Mem. Fac. Sci. Taihoku Imp. Univ.","2: 53","","1929",

@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-96043,A,Compositae,,Strophopappus,,"bicolor",,"","(DC.) DC.",Synonym,,M,TICA,B41CB740-19D5-4E96-86F8-90B1800AAED3,251893-1,"Prodr. (DC.) 5: 75","","75","1836",gcc-76006
+gcc-102099,A,Compositae,,Strophopappus,,"bullatus",,"","(Krasch.) Sch.Bip. ex R.Esteves",Synonym,Invalid,M,TICA,532835C8-9C2B-4301-A008-9E49BD92E092,,"","","279","1994",gcc-136896
+gcc-137605,A,Compositae,,Strophopappus,,"emarginatus",,"","Gardner ex Baker",Synonym,,M,TICA,B6C289F8-CDC7-4EAB-A6D6-EEC7DECBE634,251894-1,"""Fl. Bras. (Martius) 6(2): 141, sphalm.""","","141","1873",gcc-94854
+gcc-152450,A,Compositae,,Strophopappus,,"emarginatus",,"","(Gardner) R.Esteves",Accepted,,M,TICA,0A529392-E66F-48B1-BBC1-99A473463137,,"","","","",
+gcc-4873,A,Compositae,,Strophopappus,,"ferrugineus",,"","(Baker) R.Esteves",Synonym,Invalid,M,TICA,0BC29303-F134-49D3-B84F-09119915026B,,"","","279","1994",gcc-91866
+gcc-148111,A,Compositae,,Strophopappus,,"glomeratus",,"","(Gardner) R.Esteves",Synonym,Invalid,M,TICA,D87DCCD5-C66C-4477-AB72-3BD4C6531343,,"","","279","1994",gcc-49989
+gcc-32979,A,Compositae,,Strophopappus,,"pohlii",,"","(Baker) R.Esteves",Unresolved,Invalid,L,TICA,41D6FC6F-2A4A-4F9C-BFAF-3D27A8B8E5F6,,"","","279","1994",
+gcc-85606,A,Compositae,,Strophopappus,,"regnellii",,"","(Baker) R.Esteves",Synonym,Invalid,M,TICA,736D6E9F-A3E5-437F-B2DE-7909A80A1DC2,,"","","279","1994",gcc-137411
+gcc-127484,A,Compositae,,Strophopappus,,"riedelianus",,"","Baker",Unresolved,,L,TICA,B78DDE90-D9DA-445A-9BEA-D7C084BB40A7,,"""Fl. Bras. (Martius) 6(2): 140, sphalm.""","","140","",
+gcc-89671,A,Compositae,,Strophopappus,,"riedelianus",,"","Gardner",Synonym,,M,TICA,E1548941-61E8-41DE-AA44-8237B0D4AABA,,"","","213","1846",gcc-76006
+gcc-124681,A,Compositae,,Strophopappus,,"sellowianus",,"","Sch.Bip. ex Krasch.",Synonym,,M,TICA,CC51582D-7E22-4E11-B6CB-D140FE174532,251896-1,"""in Not. Syst. Herb. Hort. Bot. U.S.S.R. iii. 158 (1922), in syn.""","","""iii. 158 , in syn.""","1922",gcc-37460
+gcc-4928,A,Compositae,,Strophopappus,,"sellowianus",,"","(Krasch.) R.Esteves",Synonym,Invalid,M,TICA,30ABD796-1001-4A4C-869A-0932B4DA8FDB,,"","","279","1994",gcc-34346
+gcc-88893,A,Compositae,,Strophopappus,,"speciosus",,"","(Less.) R.Esteves",Synonym,Invalid,M,TICA,B5E8FDD3-CD67-4581-A847-806EF04A9871,,"","","279","1994",gcc-37460
+gcc-92273,A,Compositae,,Strophopappus,,"speciosus",,"","(Less.) Stuntz",Synonym,,M,TICA,2A9F4B02-BAE8-48CE-AB4D-883DF842C69F,,"","","","1914",gcc-37460
+gcc-133125,A,Compositae,,Strophopappus,,"villosus",,"","(Mart. ex Baker) R.Esteves",Unresolved,Invalid,L,TICA,5F2E4CCD-649C-4A04-B643-E4CBEE1BF2DB,,"","","279","1994",
