@@ -8,6 +8,8 @@ preg_match_all('/genus">(?<genus>.*)<\/i>/Uu', $html, $m);
 
 //print_r($m);
 
+//exit();
+
 $skip = false;
 
 $skip = true;
@@ -22,35 +24,76 @@ foreach ($m['genus'] as $genus)
 
 	if (!$skip)
 	{
-
-
-		$prefix = mb_substr($genus, 0, 1);
-	
-		$dirname = dirname(__FILE__) . '/csv/' . $prefix;
-	
-		// Ensure cache subfolder exists for this item
-		if (!file_exists($dirname))
+		// fix 
+		if (1)
 		{
-			$oldumask = umask(0); 
-			mkdir($dirname, 0777);
-			umask($oldumask);
+			if (preg_match('/×&nbsp;/Uu', $genus))
+			{
+				echo $genus . "\n";
+				$genus = preg_replace('/×&nbsp;/Uu', '', $genus);
+				echo $genus . "\n";
+				
+				$prefix = mb_substr($genus, 0, 1);
+	
+				$dirname = dirname(__FILE__) . '/csv/' . $prefix;
+	
+				// Ensure cache subfolder exists for this item
+				if (!file_exists($dirname))
+				{
+					$oldumask = umask(0); 
+					mkdir($dirname, 0777);
+					umask($oldumask);
+				}
+				
+				
+				
+				$url = 'http://www.theplantlist.org/tpl1.1/search?q=' . $genus . '&csv=true';
+	
+				$csv = get($url);
+	
+				//echo $csv;
+	
+				file_put_contents($dirname . '/' . $genus . '.csv', $csv);
+	
+				if (($count++ % 10) == 0)
+				{
+					$rand = rand(1000000, 4000000);
+					echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
+					usleep($rand);
+				}
+			}
 		}
-
-		$genus = preg_replace('/&nbsp;/Uu', ' ', $genus);
-		echo $genus . "\n";
-		$url = 'http://www.theplantlist.org/tpl1.1/search?q=' . $genus . '&csv=true';
-	
-		$csv = get($url);
-	
-		//echo $csv;
-	
-		file_put_contents($dirname . '/' . $genus . '.csv', $csv);
-	
-		if (($count++ % 10) == 0)
+		else		
 		{
-			$rand = rand(1000000, 4000000);
-			echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
-			usleep($rand);
+			$genus = preg_replace('/×&nbsp;/Uu', ' ', $genus);
+			echo $genus . "\n";
+		
+			$prefix = mb_substr($genus, 0, 1);
+	
+			$dirname = dirname(__FILE__) . '/csv/' . $prefix;
+	
+			// Ensure cache subfolder exists for this item
+			if (!file_exists($dirname))
+			{
+				$oldumask = umask(0); 
+				mkdir($dirname, 0777);
+				umask($oldumask);
+			}
+		
+			$url = 'http://www.theplantlist.org/tpl1.1/search?q=' . $genus . '&csv=true';
+	
+			$csv = get($url);
+	
+			//echo $csv;
+	
+			file_put_contents($dirname . '/' . $genus . '.csv', $csv);
+	
+			if (($count++ % 10) == 0)
+			{
+				$rand = rand(1000000, 4000000);
+				echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
+				usleep($rand);
+			}
 		}
 	}
 	
