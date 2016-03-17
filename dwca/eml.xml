@@ -1,0 +1,241 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId=""  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>The Plant List with literature</title>
+  
+  <creator>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <organizationName>University of Glasgow</organizationName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </creator>
+  
+<associatedParty>
+	<individualName>
+			<givenName>Bob</givenName>
+			<surName>Allkin</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Project Manager</role>
+</associatedParty>
+
+<associatedParty>
+	<individualName>
+			<givenName>Bob</givenName>
+			<surName>Allkin</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Project Manager</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Abigail</givenName>
+			<surName>Barker</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Applications Development Manager</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Matthew</givenName>
+			<surName>Blissett</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Lead Developer Web Application</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Charlotte</givenName>
+			<surName>Couch</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Support Families and Genera Index</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Paramjit</givenName>
+			<surName>Dhaliwal</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>IT Operations team</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Jeff</givenName>
+			<surName>Eden</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Graphic Designer</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Rafaël</givenName>
+			<surName>Govaerts</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Editor of the World Checklist of Selected Plant Families</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Graham</givenName>
+			<surName>Hawkes</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Developer responsible for The Plant List data and procedures</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Chris</givenName>
+			<surName>Hopkins</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Developer Web Application</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Eimear Nic</givenName>
+			<surName>Lughadha</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Senior Responsible Owner</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Nicky</givenName>
+			<surName>Nicolson</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Developer responsible for IPNI</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Alan</givenName>
+			<surName>Paton</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Assistant Keeper, Herbarium</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>John</givenName>
+			<surName>Stone</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Graphic Designer</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Julius</givenName>
+			<surName>Welby</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>Data administration</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Ian</givenName>
+			<surName>Wright</surName>
+	</individualName>
+	<organizationName>Royal Botanic Gardens, Kew</organizationName>
+	<role>IT Operations team leader</role>
+</associatedParty>
+
+<associatedParty>
+	<individualName>
+			<givenName>Bob</givenName>
+			<surName>Magill</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Senior Vice President of Science &amp; Conservation</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Chuck</givenName>
+			<surName>Miller</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Vice President of Information Technology</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Chris</givenName>
+			<surName>Freeland</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Director of Center for Biodiversity Informatics</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Jay</givenName>
+			<surName>Paige</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Application and Database Developer</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Heather</givenName>
+			<surName>Stimmel</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Application and Database Developer</role>
+</associatedParty>
+<associatedParty>
+	<individualName>
+			<givenName>Craig</givenName>
+			<surName>Geil</surName>
+	</individualName>
+	<organizationName>Missouri Botanical Garden</organizationName>
+	<role>Application and Database Developer</role>
+</associatedParty>
+
+<language>en</language>
+<abstract>
+  <para>This dataset is a derivative work under the "Terms of Use for The Plant List" http://www.theplantlist.org/1.1/terms/ that (a) converts The Plant List version 1.1 CSV files into a Darwin Core Archive, and (b) adds identifiers (e.g., DOIs) and complete bibliographic details to the original citations for many of the plant names.</para>
+
+  <para>The Plant List http://www.theplantlist.org/ is a working list of all known plant species. Version 1.1, released in September 2013, aims to be comprehensive for species of Vascular plant (flowering plants, conifers, ferns and their allies) and of Bryophytes (mosses and liverworts). It does not include algae or fungi. Version 1.1 contains 1,293,685 scientific plant names of which 350,699 are accepted species names. It includes no vernacular or common plant names.</para>
+  
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.theplantlist.org/</url>
+    </online>
+  </distribution>
+  <coverage>
+	<taxonomicCoverage>
+		<taxonomicClassification>
+		  <taxonRankName>kingdom</taxonRankName>
+		  <taxonRankValue>Plantae</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		  <taxonRankValue>Angiosperms</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		  <taxonRankValue>Gymnosperms</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		  <taxonRankValue>Pteridophytes</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		  <taxonRankValue>Bryophytes</taxonRankValue>
+		</taxonomicClassification>
+  	</taxonomicCoverage>
+  </coverage>
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <citation>The Plant List (2013). Version 1.1. Published on the Internet; http://www.theplantlist.org/.</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

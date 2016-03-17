@@ -21,6 +21,10 @@ $fieldsEnclosedBy = "\"";
 $basedir = 'fetch/csv';
 
 $folders = scandir(dirname(__FILE__) . '/' . $basedir);
+
+//----------------S
+$folders = array('S');
+
 //print_r($folders);exit();
 
 foreach ($folders as $folder)
@@ -28,6 +32,10 @@ foreach ($folders as $folder)
 	if (!preg_match('/^\./', $folder))
 	{
 		$files = scandir(dirname(__FILE__) . '/' . $basedir . '/' . $folder);
+		
+		//--------------Schottarum
+		$files = array('Schottarum.csv');
+		
 		foreach ($files as $filename)
 		{
 			if (preg_match('/\.csv$/', $filename))
@@ -131,9 +139,6 @@ foreach ($folders as $folder)
 					
 								// Name elements
 					
-					
-					
-					
 								// genus
 								echo "\t" . $row[$heading_key['Genus']];
 								// specificEpithet
@@ -226,6 +231,7 @@ foreach ($folders as $folder)
 								echo "\n";
 								break;
 							
+							// TPL to IPNI map
 							case 1:
 								if (trim($row[$heading_key['IPNI id']] != ''))
 								{
