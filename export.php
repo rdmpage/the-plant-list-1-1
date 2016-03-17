@@ -114,7 +114,18 @@ while (!$done)
 		// acceptedNameUsageID
 		$taxon_row[] = $result->fields['AcceptedID'];
 		// taxonomicStatus
-		$taxon_row[] = $result->fields['Taxonomic_status_in_TPL'];
+		
+		$status = strtolower($result->fields['Taxonomic_status_in_TPL']);
+		switch ($status)
+		{
+			case 'unresolved':
+				$status = 'doubtful';
+				break;
+				
+			default:
+				break;
+		}
+		$taxon_row[] = $status;
 		
 		// phylum (ignore for now as not always monophyletic)
 		// A = Angiosperms
