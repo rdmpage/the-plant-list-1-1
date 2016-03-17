@@ -14,7 +14,7 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 $db->EXECUTE("set names 'utf8'"); 
 
 
-//--------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------
 function get_reference($guid)
 {
 	$url = 'http://localhost/~rpage/microcitation/www/gbif.php?guid=' . $guid;
@@ -26,8 +26,90 @@ function get_reference($guid)
 	return $obj;
 }
 
+//----------------------------------------------------------------------------------------
+function get_formatted_reference($ipni_id)
+{
+	global $db;
+	
+	$citation = '';
 
-//--------------------------------------------------------------------------------------------------
+	$sql = 'SELECT * FROM names WHERE Id="' . $ipni_id . '" LIMIT 1';
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	if ($result->NumRows() == 1)
+	{	
+		$identifier = '';
+	
+		$guid = '';
+	
+		if ($result->fields['doi'] != '')
+		{
+			$guid = $result->fields['doi'];
+		}
+		
+		if ($guid == '')
+		{
+			if ($result->fields['jstor'] != '')
+			{
+				$guid = 'http://www.jstor.org/stable/' . $result->fields['jstor'];
+			}		
+		}
+		
+		
+		if ($guid != '')
+		{
+			$url = 'http://localhost/~rpage/microcitation/www/pub.php?guid=' . $guid;
+	
+			$json = get($url);
+			//echo $json;
+	
+			$obj = json_decode($json);
+		
+		
+			$citation = $obj->html;
+		}	
+	
+	}
+	
+	return $citation;
+}
+
+
+
+//----------------------------------------------------------------------------------------
+function get_ipni_references_link($ipni_id)
+{
+	global $db;
+	
+	$link = '';
+	
+	$sql = 'SELECT * FROM names WHERE Id="' . $ipni_id . '" LIMIT 1';
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	if ($result->NumRows() == 1)
+	{	
+	
+		if ($result->fields['doi'] != '')
+		{
+			$link = 'http://doi.org/' . $result->fields['doi'];
+		}
+		
+		if ($link == '')
+		{
+			if ($result->fields['jstor'] != '')
+			{
+				$link = 'http://www.jstor.org/stable/' . $result->fields['jstor'];
+			}		
+		}
+	
+	}
+	
+	return $link;
+}
+
+//----------------------------------------------------------------------------------------
 function get_ipni($ID, $namePublishedIn, $ipni_id)
 {
 	global $db;
@@ -80,12 +162,12 @@ function get_ipni($ID, $namePublishedIn, $ipni_id)
 //--------------------------------------------------------------------------------------------------
 
 $mode = 0; // taxa
-//$mode = 1; // references
+$mode = 1; // references
 
 
 $count = 0;
 
-$page = 10;
+$page = 1000;
 $offset = 0;
 
 $result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
@@ -219,7 +301,7 @@ while (!$done)
 			$taxon_row[] = '';
 		}
 			
-		// Publication
+		// Publication based on TPL1-1
 		// namePublishedIn
 		$keys = array('Publication', 'Collation', 'Page', 'Date');
 		$parts = array();
@@ -231,9 +313,23 @@ while (!$done)
 				$parts[] = $v;
 			}
 		}
-		$taxon_row[] =  join(", ", $parts);
-		
 		$namePublishedIn = join(", ", $parts);
+		
+		// OK, can we do better?
+		
+		if (trim($result->fields['IPNI_id'] != ''))
+		{		
+			$namePublishedIn = get_formatted_reference($result->fields['IPNI_id']);
+		}
+		
+		$taxon_row[] =  $namePublishedIn;
+		
+		$reference_link = '';
+		if (trim($result->fields['IPNI_id'] != ''))
+		{
+			$reference_link = get_ipni_references_link($result->fields['IPNI_id']);
+		}
+		$taxon_row[] = $reference_link;
 		
 		if ($mode == 0)
 		{
@@ -253,7 +349,8 @@ while (!$done)
 					'nameAccordingTo',
 					'nameAccordingToID',
 					'scientificNameID',
-					'namePublishedIn'
+					'namePublishedIn',
+					'references'
 				);
 					
 				echo join ("\t", $headings) . "\n";		
@@ -265,6 +362,7 @@ while (!$done)
 		
 		if ($mode == 1)
 		{
+			/*
 			if ($count == 0)
 			{
 				$headings = array('taxonID', 'identifier', 'bibliographicCitation', 'title', 'creator', 'date', 'source', 'type');
@@ -276,7 +374,27 @@ while (!$done)
 			{
 				get_ipni($ID, $namePublishedIn, $ipni);
 			}
-		}		
+			*/
+			
+			// More detailed but unparsed bibliography
+			if ($count == 0)
+			{
+				$headings = array('taxonID', 'identifier', 'bibliographicCitation');
+				echo join ("\t", $headings) . "\n";
+			}
+			// Publication identifier(s)
+			if ($reference_link != '')
+			{
+				$reference_row = array();
+				$reference_row[] = $ID;
+				$reference_row[] = $reference_link;
+				$reference_row[] = $namePublishedIn;
+				
+				echo join ("\t", $reference_row) . "\n";
+				
+			}
+			
+		}
 		
 		
 		//echo "\n";
@@ -296,7 +414,7 @@ while (!$done)
 	{
 		$offset += $page;
 		
-		if ($offset > 1000) { $done = true; }
+		if ($offset > 2000) { $done = true; }
 	}
 	
 	
