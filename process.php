@@ -19,11 +19,13 @@ $fieldsTerminatedBy = ",";
 $fieldsEnclosedBy = "\"";
 
 $basedir = 'fetch/csv';
+$basedir = 'extra/csv';
+
 
 $folders = scandir(dirname(__FILE__) . '/' . $basedir);
 
 //----------------S
-$folders = array('C');
+//$folders = array('C');
 
 //print_r($folders);exit();
 
@@ -36,11 +38,11 @@ foreach ($folders as $folder)
 		//--------------Schottarum
 		
 		//----------------Commitheca
-		$files = array('Commitheca.csv');
+		//$files = array('Commitheca.csv');
 		
 		foreach ($files as $filename)
 		{
-			if (preg_match('/\.csv$/', $filename))
+			if (preg_match('/\.csv(\.txt)?$/', $filename))
 			{	
 				$filename = dirname(__FILE__) . '/' . $basedir . '/' . $folder . '/' . $filename;
 
