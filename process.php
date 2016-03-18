@@ -23,7 +23,7 @@ $basedir = 'fetch/csv';
 $folders = scandir(dirname(__FILE__) . '/' . $basedir);
 
 //----------------S
-$folders = array('S');
+$folders = array('C');
 
 //print_r($folders);exit();
 
@@ -34,7 +34,9 @@ foreach ($folders as $folder)
 		$files = scandir(dirname(__FILE__) . '/' . $basedir . '/' . $folder);
 		
 		//--------------Schottarum
-		$files = array('Schottarum.csv');
+		
+		//----------------Commitheca
+		$files = array('Commitheca.csv');
 		
 		foreach ($files as $filename)
 		{
