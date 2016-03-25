@@ -1,0 +1,16 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-75615,A,Compositae,,Mycelis,,"ambigua",,"","Cass.",Synonym,Illegitimate,M,TICA,E08F8B64-68DD-4269-8326-62D5CD30E5D3,,"in Dict. Sci. Nat. xlviii. 426 (1824).","","","1824",gcc-137702
+gcc-88600,A,Compositae,,Mycelis,,"angulosa",,"","Cass.",Synonym,Illegitimate,L,TICA,F475CE49-4B01-4946-B51A-7FCAC5DE8CE6,,"in Dict. Sc. Nat. xxxiii. 484 (1824).","","","1824",gcc-116089
+gcc-77180,A,Compositae,,Mycelis,,"aurea",,"","O.Schwarz",Synonym,,M,TICA,9E864703-1F25-4FCC-BBFB-664B7BAAD2DD,,"","","","1949",gcc-142070
+gcc-97686,A,Compositae,,Mycelis,,"deltoidea",,"","(M.Bieb.) Sennikov",Synonym,,M,TICA,5123C8D3-767B-44C9-8FC8-9477BC0B37A2,998884-1,"","","111","1997",gcc-137702
+gcc-85318,A,Compositae,,Mycelis,,"glandulosa",,"","(Boiss.) Hayek",Synonym,,M,TICA,13F6F9DD-A068-4963-9378-786E2CA21E87,233979-1,"","","842","1931",gcc-131317
+gcc-90734,A,Compositae,,Mycelis,,"hispida",,"","(DC.) Hayek",Synonym,,M,TICA,B0D2037A-D9F9-44AB-B804-84C6B75B934A,,"","","842","1931",gcc-131317
+gcc-86616,A,Compositae,,Mycelis,,"muralis",,"","(L.) Dumort.",Synonym,,L,TICA,650BD92F-B240-4E90-8894-7B50FBE2FFA3,,"","","60","1827",gcc-116089
+gcc-154125,A,Compositae,,Mycelis,,"muralis",f.,"muralis","",Synonym,,L,TICA,7F25A402-C1BE-4B25-95A8-BCFBC1EB84B3,,"","","","",gcc-116089
+gcc-19057,A,Compositae,,Mycelis,,"sagittarioides",,"","(C.B.Clarke) Sennikov",Synonym,,M,TICA,644CFC60-AD5C-4BCE-AF7F-23300F6A3C1E,998897-1,"","","112","1997",gcc-128168
+gcc-137982,A,Compositae,,Mycelis,,"sonchifolia",,"","(Vis. & Pančić) Hayek",Synonym,,M,TICA,6DF91062-A27D-43BF-BF43-EF9D7490F006,233982-1,"","","211","1924",gcc-142070
+gcc-30076,A,Compositae,,Mycelis,,"sororia",,"","(Miq.) Nakai",Synonym,,M,TICA,2CEAA297-0438-4011-98C4-37ABFE6AA147,233983-1,"","","24","1922",gcc-129711
+gcc-28206,A,Compositae,,Mycelis,,"sororia",var.,"nudipes","Migo",Synonym,Invalid,L,TICA,7FD6CCB7-848B-48CC-BF65-341E601CAFE5,,"","","173","1939",gcc-129711
+gcc-21071,A,Compositae,,Mycelis,,"sororia",var.,"pilipes","Migo",Synonym,,L,TICA,8D877878-1ABF-47BC-A671-26EE74FEE4C9,50946976-1,"""J. Shanghai. Sci. Inst. III, 4: 173 (1939)""","","173","1939",gcc-129711
+gcc-148130,A,Compositae,,Mycelis,,"sororia",var.,"sororia","",Synonym,,L,TICA,9E620C3F-652C-414E-98DE-3C3B6F88D953,,"","","","",gcc-129711
+gcc-139008,A,Compositae,,Mycelis,,"yunnanensis",,"","(Franch.) Y.Ling",Synonym,,M,TICA,34EDEF9B-49F1-41B3-94BA-F1CE6D96D48B,961832-1,"""in Contrib. Bot. Surv. N.-West. China, 1(2): 46 (1939):""","","46","1939",gcc-10439

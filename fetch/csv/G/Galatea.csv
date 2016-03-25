@@ -1,0 +1,20 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-40622,A,Compositae,,Galatea,,"albiflora",,"","Cass.",Synonym,Invalid,L,TICA,7C34A866-5A3C-49A9-8906-4B4CA238700F,,"","","58","",gcc-98642
+gcc-16931,_,,,Galatea,,"americana",,"","(Aubl.) Kuntze",Unresolved,,L,TICA,DC4FEDAB-326C-4AAF-8975-1F4820A414F4,106776-2,"Revis. Gen. Pl. 2: 701. 1891","","701","1891",
+kew-327472,A,Iridaceae,,Galatea,,"americana",,"","(Aubl.) Kuntze",Synonym,,H,iPlants,327472,106776-2,"Revis. Gen. Pl.","2: 701","","1891",kew-327974
+gcc-133399,_,,,Galatea,,"anomala",,"","Kuntze",Unresolved,,L,TICA,EE20C04D-3808-4D63-B4FC-E56B78A31EE2,106777-2,"Revis. Gen. Pl. 2: 701. 1891","","701","1891",
+gcc-17665,_,,,Galatea,,"bulbosa",,"","(Mill.) Britton",Unresolved,,L,TICA,839CD7A9-019F-487C-A8B0-2098EE2FE7F6,106778-2,"Brooklyn Bot. Gard. Mem. 1: 37. 1918","","37","1918",
+kew-327473,A,Iridaceae,,Galatea,,"bulbosa",,"","(Mill.) Britton",Synonym,,H,iPlants,327473,437038-1,"Brooklyn Bot. Gard. Mem.","1: 37","","1918",kew-327974
+gcc-103964,_,,,Galatea,,"canescens",,"","Cass. ex Less.",Unresolved,,L,TICA,AED0F6BB-93C8-4B4A-8879-A272E5DB9C3C,60434408-2,"","","187","1832",gcc-52094
+gcc-106437,_,,,Galatea,,"canescens",,"","Cass.",Unresolved,Invalid,L,TICA,E944674F-30C6-4408-B28D-A7C9898FECBE,,"""in Dict. Sci. Nat., ed. 2, 18: 57. 1820""","","57","1820",
+gcc-87489,A,Compositae,,Galatea,,"intermedia",,"","Cass.",Synonym,Invalid,L,TICA,98140B66-FCDA-4D11-B03A-7D68366E8597,,"","","58","",gcc-98642
+gcc-137769,_,,,Galatea,,"pauciflora",,"","Cass.",Unresolved,Invalid,L,TICA,E37D307C-657D-440A-BEA9-EF28A33C089C,,"""in Dict. Sci. Nat., ed. 2, 18: 56. 1820""","","56","1820",
+gcc-27428,A,Compositae,,Galatea,,"pauciflora",,"","Cass. ex Less.",Synonym,Illegitimate,M,TICA,B2BF9E0C-BA34-49D5-80E3-32B815255946,60434407-2,"","","187","1832",gcc-61786
+kew-327474,A,Iridaceae,,Galatea,,"plicata",,"","(Sw.) Baker",Synonym,,H,iPlants,327474,,"J. Linn. Soc., Bot.","16: 101","","1877",kew-327974
+gcc-129600,_,,,Galatea,,"punctata",,"","Cass.",Unresolved,Invalid,L,TICA,85E2EAD5-F7E0-4782-B3F6-DC9F97104E97,,"""in Dict. Sci. Nat., ed. 2, 18: 57. 1820""","","57","1820",
+gcc-2875,A,Compositae,,Galatea,,"punctata",,"","(Waldst. & Kit.) Cass. ex Less.",Synonym,,M,TICA,A5631526-37DA-42EB-A36F-054E0273633F,60434409-2,"","","","1832",gcc-126884
+gcc-104418,A,Compositae,,Galatea,,"rigida",,"","Cass.",Synonym,Invalid,L,TICA,32AFA088-619D-4ACD-AABE-A375FAB0992E,,"","","58","",gcc-54451
+kew-307619,A,Amaryllidaceae,,Galatea,,"rosea",,"","Herb.",Synonym,Invalid,H,WCSP,307619,,"Bot. Mag.","47: 5, t. 2113","","1819",kew-282170
+kew-307620,A,Amaryllidaceae,,Galatea,,"sarniensis",,"","(L.) Herb. ex Steud.",Synonym,Invalid,H,WCSP,307620,64517-1,"Nomencl. Bot.","ed. 2, 1: 654","","1840",kew-282170
+gcc-144921,_,,,Galatea,,"vespertina",,"","Salisb.",Unresolved,,L,TICA,B24B5BC9-55B4-4C3A-A8CD-FF41B0EBBBDC,437040-1,"Transactions of the Horticultural Society of London 1:","","310","1812",
+kew-327475,A,Iridaceae,,Galatea,,"vespertina",,"","Salisb.",Synonym,Invalid,H,iPlants,327475,437040-1,"Trans. Hort. Soc. London","1: 310","","1812",kew-327974

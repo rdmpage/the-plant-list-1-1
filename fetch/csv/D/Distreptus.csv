@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-113233,A,Compositae,,Distreptus,,"angustifolius",,"","(Sw.) Cass.",Synonym,Illegitimate,L,TICA,544106EC-9DA0-4EDD-9897-B72CF95FCEB1,201866-1,"","","368","1819",gcc-94583
+gcc-91956,A,Compositae,,Distreptus,,"angustifolius",,"","(Sw.) Cass. ex Baker",Synonym,Illegitimate,L,TICA,878F815F-C4A3-49BC-BFD1-878D483A820B,,"Fl. Bras. 6(2): 177. 1873.","","177","1873",gcc-94583
+gcc-44083,A,Compositae,,Distreptus,,"crispus",,"","Cass.",Synonym,Illegitimate,L,TICA,EE3B58FF-3023-4DC8-B527-51A237D35FE3,201867-1,"","","601","1830",gcc-94583
+gcc-121331,A,Compositae,,Distreptus,,"nudiflorus",,"","(Willd.) Less.",Unresolved,,L,TICA,857121DD-DC65-4670-904C-C992D35213DE,,"Linnaea 4(4):","","329","1829",gcc-94583
+gcc-125429,A,Compositae,,Distreptus,,"nudiflorus",,"","Cass.",Synonym,,L,TICA,0ACCCCEE-7D11-4D3E-AB15-D30862CA6DF7,,"","","","1819",gcc-151067
+gcc-134313,A,Compositae,,Distreptus,,"replicatus",,"","Cass.",Synonym,Illegitimate,L,TICA,C2FF8870-5B7D-400A-A176-E7815FE03E0D,201869-1,"","","601","1830",gcc-151067
+gcc-91481,A,Compositae,,Distreptus,,"spicatus",,"","(B.Juss. ex Aubl.) Cass.",Synonym,Illegitimate,M,TICA,99DD5332-2FB6-4E80-AC6F-867B8BAA3C55,201870-1,"","","367","1819",gcc-148626
+gcc-30218,A,Compositae,,Distreptus,,"spicatus",var.,"interrupta","Ram.Goyena",Synonym,,L,TICA,3B4C3825-529E-4079-9E20-37EF27E73806,82415-2,"Fl. Nicarag. 2","","448","1911",gcc-151067
+gcc-65016,A,Compositae,,Distreptus,,"spicatus",var.,"nicaraguensis","Ram.Goyena",Synonym,,L,TICA,085D93B1-1E30-45A1-A69F-C320EC25EC5F,82416-2,"Fl. Nicarag. 2","","448","1911",gcc-151067
+gcc-77905,A,Compositae,,Distreptus,,"spiralis",,"","Less.",Synonym,Illegitimate,L,TICA,9D85788E-CD34-48A6-9CAD-67EAF21FB949,82417-2,"Linnaea 6: 690. 1831","","690","1831",gcc-41151

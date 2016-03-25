@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-142700,A,Compositae,,Calydermos,,"atriplicifolius",,"","(L.) Spreng.",Synonym,,M,TICA,62C2304B-2614-4FF9-A3DD-FA33A26B2C67,188149-1,"Syst. Veg. 3","","457","1826",gcc-87011
+kew-2694109,A,Solanaceae,,Calydermos,,"erosus",,"","Ruiz & Pav.",Synonym,,M,WCSP (in review),,814716-1,"Fl. Peruv.","2: 43","","1799",kew-2383030
+gcc-101839,A,Compositae,,Calydermos,,"jamaicensis",,"","Spreng.",Synonym,Illegitimate,M,TICA,ABE6A6F0-A762-4EEE-AB01-9DA994C5710B,188150-1,"","","457","1826",gcc-52156
+gcc-129777,A,Compositae,,Calydermos,,"longifolius",,"","Lag.",Synonym,,M,TICA,C03329CF-42A6-4B4C-B393-DD0BE1440582,273924-2,"","","","1816",gcc-34365
+gcc-141902,A,Compositae,,Calydermos,,"peduncularis",,"","(Kunth) DC.",Synonym,,M,TICA,8A74A2AF-64CE-4F4B-B46B-F876A3210466,,"Prodr. 5","","","1836",gcc-123928
+gcc-57334,A,Compositae,,Calydermos,,"peduncularis",var.,"epapposa","Kunth ex DC.",Synonym,,L,TICA,E022B397-F169-4016-89A7-858B2BB49874,,"Prodr. 5: 669. 1836.","","669","1836",gcc-123928
+gcc-146426,A,Compositae,,Calydermos,,"peduncularis",var.,"peduncularis","",Synonym,,L,TICA,B944DEC9-9A45-4690-B226-182236BD13C0,,"","","","",gcc-123928
+gcc-114788,A,Compositae,,Calydermos,,"repens",,"","Spreng.",Synonym,,M,TICA,6BF9FD1C-6003-46AC-A69C-BAADCD0F8DBC,188153-1,"","","278","1820",gcc-122657
+gcc-22485,A,Compositae,,Calydermos,,"rugosus",,"","DC.",Synonym,,L,TICA,BD8B7CB9-B7EC-44A3-AB2B-299968ED9D27,273925-2,"Prodr. (DC.) 5: 670","","670","1836",gcc-147778
+gcc-129579,A,Compositae,,Calydermos,,"salmeifolius",,"","DC.",Synonym,,L,TICA,A4848144-3B58-452A-B60F-DC9457D46F36,273926-2,"Prodr. (DC.) 5: 670","","670","1836",gcc-147778
+gcc-36247,A,Compositae,,Calydermos,,"scaber",,"","Lag.",Synonym,,M,TICA,AE47152A-676B-4E1F-802C-43390E839B34,43095-2,"","","","1816",gcc-123928
+gcc-11154,A,Compositae,,Calydermos,,"spilanthoides",,"","Griseb.",Synonym,,M,TICA,6DD5FB70-BA95-44B4-9B5D-14DC3882847F,,"","","514","1863",gcc-49392

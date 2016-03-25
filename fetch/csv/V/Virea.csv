@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-123214,A,Compositae,,Virea,,"asplenioides",,"","(L.) Vahl ex Hornem.",Synonym,,M,TICA,37F33B9F-5BBF-437E-8E04-CDCD635D2D08,260009-1,"Hort. Hafn. 759.","","759","1815",gcc-124
+gcc-97026,A,Compositae,,Virea,,"autumnalis",,"","(L.) Gray",Synonym,,M,TICA,251A4E46-F45D-4B4C-AAD7-92E72CB90BDE,,"","","430","1821",gcc-121516
+gcc-148692,A,Compositae,,Virea,,"autumnalis",var.,"autumnalis","",Synonym,,L,TICA,533CC1B1-F3D0-45C4-8B37-489699BE77A1,,"","","","",gcc-121516
+gcc-58825,A,Compositae,,Virea,,"autumnalis",var.,"pratensis","House",Synonym,,L,TICA,D5158168-9D15-4035-A97C-91C6B51BEA65,267099-2,"Bull. New York State Mus. Nat. Hist. 243-244: 69. 1923","","69","1923",gcc-56160
+gcc-140423,A,Compositae,,Virea,,"hastilis",,"","(L.) Gaertn.",Synonym,,M,TICA,DF355075-2D60-42FE-86B7-F4FB2CCEF945,,"Fruct. Sem. Pl. ii. 365. t. 159. f. 3","","365","1791",gcc-151768
+gcc-20725,A,Compositae,,Virea,,"hispida",,"","(L.) Gray",Synonym,,M,TICA,8A550162-1E4D-41EB-9E4B-2655EFCBEED1,,"","","429","1821",gcc-117551
+gcc-59283,A,Compositae,,Virea,,"hispida",var.,"hastilis","(L.) House",Synonym,,L,TICA,BD5FDED3-A568-4C9A-918E-952C03A58668,267100-2,"Bull. New York State Mus. Nat. Hist. 243-244: 69. 1923","","69","1923",gcc-151768
+gcc-148973,A,Compositae,,Virea,,"hispida",var.,"hispida","",Synonym,,L,TICA,58D1ABF5-4D7C-471F-A9B2-4EDF75E4BBC5,,"","","","",gcc-117551
+gcc-83359,A,Compositae,,Virea,,"incana",,"","(L.) Gray",Synonym,,M,TICA,47FEC81E-8E00-4A66-B727-7419EE43508E,,"Nat. Arr. Brit. Pl. ii. 429","","429","1821",gcc-122945
+gcc-90074,A,Compositae,,Virea,,"nudicaulis",,"","(L.) House",Synonym,,L,TICA,30936CF7-EE1C-4757-B5B4-8326C0856209,267101-2,"","","69","1923",gcc-131164
+gcc-5651,A,Compositae,,Virea,,"pyrenaica",,"","(Gouan) Gray",Synonym,,M,TICA,8AD538CA-5653-4BF9-93BA-0A88BC398945,,"Nat. Arr. Brit. Pl. ii. 429","","429","1821",gcc-151734
+gcc-16809,A,Compositae,,Virea,,"scabra",,"","Scop.",Synonym,,M,TICA,E79ED726-6D3B-4834-90D8-1F0C05938E79,,"Delic. Insubr. ii. 25. t. 13.","","","1787",gcc-124

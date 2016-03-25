@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-76150,A,Compositae,,Panargyrum,,"abbreviatum",,"","Hook. & Arn.",Synonym,,M,TICA,7FF103B0-CDA4-42FB-B5FE-640519104BB7,,"in Hook. Comp. Bot. Mag. ii. (1836) 43.","","43","1836",gcc-70186
+gcc-151693,A,Compositae,,Panargyrum,,"abbreviatum",var.,"abbreviatum","",Synonym,,L,TICA,01C5D792-5DF1-4F2D-989C-8A483958448C,,"","","","",gcc-70186
+gcc-44441,A,Compositae,,Panargyrum,,"acerosum",,"","Phil.",Synonym,,M,TICA,7B4B372C-440D-4D17-94C4-52587050A90C,236416-1,"","","97","1894",gcc-19852
+gcc-37444,A,Compositae,,Panargyrum,,"darwinii",,"","Hook. & Arn.",Synonym,,M,TICA,88A80248-29F1-4637-ACDA-456686192D58,,"","","43","1836",gcc-80400
+gcc-88201,A,Compositae,,Panargyrum,,"densifolium",,"","Phil.",Synonym,,M,TICA,C0575B59-33C1-458B-A57E-7EED3565D5C4,,"Linnaea 30","","192","1859",gcc-88613
+gcc-110352,_,,,Panargyrum,,"diazi",,"","Phil.",Unresolved,,L,TICA,7783D023-A984-41EE-AF0F-B0AFBE934FB7,,"Linnaea 33","","117","1864",
+gcc-104399,A,Compositae,,Panargyrum,,"glomeratum",,"","Gill. ex D.Don",Synonym,,M,TICA,2D866D8A-5F37-4B26-A699-A36D88B5F493,,"in Phil. Mag. xi. (1832) 390.","","390","1832",gcc-88613
+gcc-136944,A,Compositae,,Panargyrum,,"heterophyllum",,"","Phil.",Synonym,,M,TICA,6DA8581C-C56A-4D80-A785-ED6263BA083C,,"Linnaea 33","","118","1864",gcc-19852
+gcc-42575,A,Compositae,,Panargyrum,,"lagascae",,"","DC.",Synonym,,M,TICA,BF59CAE9-5A83-479C-86FD-4EDB526EA046,,"Prodr. (DC.) 7(1): 54","","54","1838",gcc-80400
+gcc-145099,_,,,Panargyrum,,"latifolium",,"","Phil.",Unresolved,,L,TICA,7F387853-9A38-4B51-802C-FFA701C94AC8,,"Linnaea 33","","119","1864",
+gcc-22217,A,Compositae,,Panargyrum,,"laxum",,"","Phil.",Synonym,,M,TICA,6C09C64D-9928-4229-8B5D-2919D2963178,236417-1,"","","97","1894",gcc-80400
+gcc-49797,A,Compositae,,Panargyrum,,"oligocephalum",,"","DC.",Synonym,,M,TICA,DEFB7D0D-7835-4003-8A30-5C50E15902BE,,"Prodr. (DC.) 7(1): 54","","54","1838",gcc-125445
+gcc-12603,_,,,Panargyrum,,"pectinatum",,"","Phil.",Unresolved,,L,TICA,F1B64AFA-4663-421D-9C3A-177F31CE08E0,,"Anales Univ. Chile","","","",
+gcc-51702,_,,,Panargyrum,,"spinosum",,"","D.Don",Unresolved,,L,TICA,671C2AEF-1E01-4CCF-AC66-5FDDD74A1741,,"","","390","1832",
+gcc-101630,A,Compositae,,Panargyrum,,"subspinosum",,"","Phil.",Synonym,,M,TICA,0BCDFEF8-B029-4922-8B19-9D3326EC976B,236419-1,"","","98","1894",gcc-70186
+gcc-7418,A,Compositae,,Panargyrum,,"uniflorum",,"","D.Don",Synonym,,M,TICA,674890CA-EA2A-410E-BA9C-0DCA07502ECE,,"","","","1832",gcc-125445

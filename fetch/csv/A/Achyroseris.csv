@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-111624,A,Compositae,,Achyroseris,,"alaica",,"","(Lipsch.) Kamelin & Tagaev",Synonym,,M,TICA,59856DBF-D193-4581-8AF6-B389E9DAB477,986106-1,"Opred. Rast. Sred. Azii 10","","197","1993",gcc-20610
+gcc-38590,A,Compositae,,Achyroseris,,"albertoregelia",,"","(C.Winkl.) Kamelin & Tagaev",Synonym,,M,TICA,CE84B3A9-D269-47EF-BBEE-479CF4E1A4E6,986107-1,"Opred. Rast. Sred. Azii 10","","197","1993",gcc-99900
+gcc-153507,A,Compositae,,Achyroseris,,"albicaulis",,"","(Bunge) Kamelin & Tagaev",Synonym,,M,TICA,D9C461A9-8B0D-4BA9-923C-AFC59B133246,986169-1,"Opred. Rast. Sred. Azii 10","","631","1993",gcc-51946
+gcc-120453,A,Compositae,,Achyroseris,,"bracteosa",,"","(C.Winkl.) Kamelin & Tagaev",Synonym,,M,TICA,2EFCC22F-7586-4BFA-A61B-C795681BE975,986105-1,"Opred. Rast. Sred. Azii 10","","196","1993",gcc-104583
+gcc-152499,A,Compositae,,Achyroseris,,"macrosperma",,"","Sch.Bip.",Synonym,,M,TICA,10CE985E-98F6-4626-A8F5-9AB1A4B91037,,"""Schultz, Carl(Karl) Heinrich `Bipontinus' in Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 21. 1845""","","166","1845",gcc-51946
+gcc-36446,A,Compositae,,Achyroseris,,"macrospermum",,"","Sch.Bip.",Synonym,,M,TICA,7F820951-72C3-45D3-8E91-4396250A7CFE,,"","","","1845",gcc-51946
+gcc-88155,A,Compositae,,Achyroseris,,"petrovii",,"","(Lipsch.) Kamelin & Tagaev",Synonym,,M,TICA,87132523-44FB-4007-BFAE-7ED184563E58,986109-1,"Opred. Rast. Sred. Azii 10","","198","1993",gcc-49163
+gcc-136068,A,Compositae,,Achyroseris,,"tragopogonoides",,"","(Regel & Schmalh.) Kamelin & Tagaev",Synonym,,M,TICA,1543B3E3-BB10-49A9-B869-EB5024465DEB,986108-1,"Opred. Rast. Sred. Azii 10","","197","1993",gcc-118269
+gcc-61532,A,Compositae,,Achyroseris,,"tragopogonoides",subsp.,"baldshuanica","(Lipsch.) Kamelin & Tagaev",Synonym,,L,TICA,56D26510-28B5-4106-9054-A7627BD6FA82,986170-1,"Opred. Rast. Sred. Azii 10","","631","1993",gcc-44013
+gcc-150889,A,Compositae,,Achyroseris,,"tragopogonoides",subsp.,"tragopogonoides","",Synonym,,L,TICA,CE2F55C0-608B-4ECE-B2CC-7876CFCC2E4E,,"","","","",gcc-118269

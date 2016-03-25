@@ -1,0 +1,13 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-108553,A,Compositae,,Cynthia,,"amplexicaulis",,"","(Michx.) L.C.Beck",Synonym,,L,TICA,2A38CB54-785D-479E-AD5B-AC8B0EB66725,,"","","168","1833",gcc-21406
+gcc-95741,A,Compositae,,Cynthia,,"boscii",,"","DC.",Synonym,,M,TICA,B27FDE9E-D700-48AD-9473-900F08E3F7B3,200914-1,"","","89","1838",gcc-138526
+gcc-118546,A,Compositae,,Cynthia,,"dandelion",,"","(L.) DC.",Synonym,,M,TICA,5BEF4D40-A343-416E-9683-C333715DC8D5,200915-1,"","","89","1838",gcc-138526
+gcc-696,A,Compositae,,Cynthia,,"dandelion",var.,"dandelion","",Synonym,,L,TICA,D90DCC4B-F32B-4113-9160-014DB55C192B,,"","","","",gcc-138526
+gcc-99099,A,Compositae,,Cynthia,,"falcata",,"","Standl.",Synonym,,L,TICA,B9C9C35B-48E5-4A9C-9DDF-979EAFC868D0,200916-1,"","","356","1911",gcc-21406
+gcc-37402,A,Compositae,,Cynthia,,"griffithii",,"","Nutt.",Synonym,,L,TICA,C6E80228-A591-49FD-AF02-45529643EF3E,200917-1,"","","69","1834",gcc-21406
+gcc-114367,A,Compositae,,Cynthia,,"lyrata",,"","Nutt.",Synonym,,M,TICA,A7A9B7E6-EF45-4B11-A2C4-B9AEF4003818,200918-1,"","","68","1834",gcc-138526
+gcc-2387,A,Compositae,,Cynthia,,"montana",,"","(Michx.) Standl.",Synonym,,M,TICA,07EC26DA-99FF-4BD8-8BC7-0455B90E74B5,200919-1,"","","356","1911",gcc-124215
+gcc-131190,A,Compositae,,Cynthia,,"virginica",,"","(L.) D.Don ex DC.",Synonym,,L,TICA,2272D0C3-C510-4C53-8777-E05279F42892,60439879-2,"","","89","1838",gcc-21406
+gcc-132155,A,Compositae,,Cynthia,,"virginica",,"","(L.) D.Don",Synonym,Invalid,L,TICA,EEC1993F-B30F-43B5-A7DE-E29190D970EE,200920-1,"in Edinb. N. Phil. Journ. (Mar 1829) 309","","309","1829",gcc-21406
+gcc-21604,A,Compositae,,Cynthia,,"virginica",,"","(L.) Standl.",Unresolved,,L,TICA,54C078AC-3524-4BC6-A15D-27EEF4B82F87,200921-1,"Contr. U.S. Natl. Herb. xiii. 356 (1911)","","356","1911",gcc-21406
+gcc-117706,A,Compositae,,Cynthia,,"viridis",,"","Standl.",Synonym,,L,TICA,99FC21F4-9613-412B-8FE1-C1412D59DE97,302828-2,"Contr. U. S. Natl. Herb. 13","","357","1911",gcc-21406

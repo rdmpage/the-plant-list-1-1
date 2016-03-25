@@ -1,0 +1,6 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-34555,A,Compositae,,Isopappus,,"divaricatus",,"","(Nutt.) Torr. & A.Gray",Synonym,,M,TICA,74BCB8CE-49F9-4C86-9BE0-400C61EC5D44,30264874-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 239. 1842 [Apr 1842]","","239","1842",gcc-127853
+gcc-63224,A,Compositae,,Isopappus,,"divaricatus",var.,"divaricatus","",Synonym,,L,TICA,05508E2D-D694-4AE2-B56D-B52C5AC2A494,,"","","","",gcc-127853
+gcc-59664,A,Compositae,,Isopappus,,"divaricatus",var.,"hirtellus","Shinners",Synonym,,L,TICA,14C9FE1C-8957-4F4C-9B1A-983DDE5242BC,130692-2,"Field & Lab. 18: 157. 1950","","157","1950",gcc-3552
+gcc-27545,A,Compositae,,Isopappus,,"hookerianus",,"","Torr. & A.Gray",Synonym,,M,TICA,19682B5B-E898-474B-A7A1-32EE6ADF7A2B,130694-2,"Fl. N. Amer. (Torr. & A. Gray) 2: 239 (-240). 1842 [Apr 1842]","","239 (-240)","1842",gcc-38213
+gcc-83220,A,Compositae,,Isopappus,,"validus",,"","Rydb.",Synonym,,M,TICA,1944D87E-ADC8-4178-B43B-73D48B37831E,,"","","","1931",gcc-40891

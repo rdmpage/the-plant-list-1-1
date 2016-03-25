@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-116491,A,Compositae,,Myriogyne,,"cunninghamii",,"","DC.",Synonym,,M,TICA,837892A8-35D6-40BC-84A5-BE84680E7689,234041-1,"","","139","1838",gcc-131755
+gcc-95350,A,Compositae,,Myriogyne,,"elatinoides",,"","Less.",Synonym,,M,TICA,D97C179E-AA86-47D4-AE54-8F1CFF5814EE,234042-1,"Linnaea 6","","219","1831",gcc-76774
+gcc-2431,A,Compositae,,Myriogyne,,"latifolia",,"","Hassk.",Synonym,,M,TICA,0678B5A8-7527-48FA-866E-046F14AE58F5,234043-1,"","","102","",gcc-88645
+gcc-104327,A,Compositae,,Myriogyne,,"minima",,"","(L.) Less. ex Seem.",Synonym,,M,TICA,0DAF916A-A41D-489C-BBC9-A3458823AE4C,,"Bonplandia 9 (1861)","","257","1861",gcc-76774
+gcc-136504,A,Compositae,,Myriogyne,,"minuta",,"","(G.Forst.) Less.",Synonym,,M,TICA,9F2B190A-6CEA-4287-9EFC-EC5E5D49123F,234044-1,"Linnaea 6","","219","1831",gcc-75376
+gcc-70641,A,Compositae,,Myriogyne,,"minuta",var.,"lanuginosa","DC.",Synonym,,L,TICA,02397D1A-5B53-4FC4-97CA-EF9DEBCDF2B7,,"","","139","",gcc-76774
+gcc-150805,A,Compositae,,Myriogyne,,"minuta",var.,"minuta","",Synonym,,L,TICA,07EE4280-455D-4E68-BAA5-767035BFADF3,,"","","","",gcc-75376
+gcc-127780,A,Compositae,,Myriogyne,,"racemosa",,"","Hook.",Unresolved,,L,TICA,710EDB42-1440-4EFD-BD18-D87EDD617961,234045-1,"","","353","1848",gcc-19446

@@ -1,0 +1,17 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-112899,A,Compositae,,Rea,,"berteroana",,"","Decne.",Synonym,,M,TICA,8D725CDE-C4DB-4D4F-8833-B67AF815FC1D,,"in Guill. Arch. Bot. i. (1833) 515.","","","1833",gcc-82523
+gcc-135661,A,Compositae,,Rea,,"beteriana",,"","Decne.",Synonym,,M,TICA,E14B5FBE-EBB7-42F0-AED7-EA75CE9587AC,,"","","","",gcc-82523
+gcc-142110,A,Compositae,,Rea,,"lacerata",,"","Phil.",Synonym,,M,TICA,8D106485-D122-4B79-A49D-F8EBE0F08C4F,241215-1,"Bot. Zeitung (Berlin) 28: 499","","499","1870",gcc-148926
+gcc-139406,A,Compositae,,Rea,,"leucantha",,"","Bertero ex DC.",Synonym,,M,TICA,ADF92343-27E5-410E-AB51-F2AD1850D6FF,241216-1,"Prodr. (DC.) 7(1): 243","","243","1838",gcc-111150
+gcc-27602,A,Compositae,,Rea,,"leucantha",,"","Bertero",Synonym,,M,TICA,C9C36B24-8C01-4B76-A107-3305E7F8E03F,,"","","","",gcc-111150
+gcc-32278,A,Compositae,,Rea,,"longifolia",,"","Phil.",Synonym,Invalid,M,TICA,7E17DF59-A4E0-420C-8945-3BCC600818AD,218023-2,"Estud. H. Juan Fernandez 68. 1896","","68","1896",gcc-45604
+gcc-42572,A,Compositae,,Rea,,"longifolia",,"","Phil. ex Reiche",Synonym,,M,TICA,21CA508A-6579-4606-9DE2-4ED8F3891230,,"""Fl. Chile, v. 3 (1910).""","","3","",gcc-45604
+gcc-81603,A,Compositae,,Rea,,"macrantha",,"","Bertero ex Decne.",Synonym,,M,TICA,A6AACC7A-817E-4A61-8CC1-703352D0AD7F,,"Guill. Arch. Bot.","","","1833",gcc-136307
+gcc-47250,A,Compositae,,Rea,,"marginata",,"","Bertero ex Decne.",Synonym,,M,TICA,673F7E27-EB36-4C37-A37F-578454D98775,,"in Guill. Arch. Bot. i. (1833) 518. t. 9.","","","1833",gcc-26217
+gcc-5375,A,Compositae,,Rea,,"micrantha",,"","Bertero ex Decne.",Synonym,,M,TICA,767077EC-9F01-4988-83CE-0A074ECF39C9,,"J. Decaisne in Arch. Bot. (Paris) 1. 1833","","518","1833",gcc-45604
+gcc-78014,A,Compositae,,Rea,,"mollis",,"","Bertero ex Decne.",Synonym,,M,TICA,BE478299-CE1B-4B5B-9702-6823F68DFE39,,"in Guill. Arch. Bot. i. (1833) 519.","","","1833",gcc-20298
+gcc-31430,A,Compositae,,Rea,,"neriifolia",,"","Decne.",Synonym,,M,TICA,0140F63B-E7AD-4F3B-9DC5-3A3BDC5C9691,,"in Guill. Arch. Bot. i. (1833) 517.","","","1833",gcc-111150
+gcc-77303,A,Compositae,,Rea,,"pinnata",,"","Bertero ex Decne.",Synonym,,M,TICA,0C934645-017C-43D5-8C49-669454AC017B,,"","","","1833",gcc-46498
+gcc-62126,A,Compositae,,Rea,,"pinnata",var.,"insignis","Bertero",Synonym,,L,TICA,00E3E1D8-5896-4132-BA9C-AC39BF06681E,218025-2,"Estud. H. Juan Fernandez 71. 1896","","71","1896",gcc-82523
+gcc-151651,A,Compositae,,Rea,,"pinnata",var.,"pinnata","",Synonym,,L,TICA,06F7C9E3-51F2-472B-8BD3-897278A3FF97,,"","","","",gcc-46498
+gcc-7736,A,Compositae,,Rea,,"pruinata",,"","(Johow) Skottsb.",Synonym,,M,TICA,FFD2998F-F724-4914-B84E-0E5D2501812B,241224-1,"","","788","1953",gcc-139643

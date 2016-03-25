@@ -1,0 +1,14 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-25561,A,Compositae,,Notoptera,,"brevipes",,"","(B.L.Rob.) S.F.Blake",Synonym,,M,TICA,F5C3C746-5F9F-46AB-9BBD-2F3628689A34,170756-2,"J. Bot. 53","","227","1915",gcc-46060
+gcc-28037,A,Compositae,,Notoptera,,"curviflora",,"","(R.Br.) S.F.Blake",Unresolved,,L,TICA,8A25BF7F-4B5A-4240-A9A4-33C2EE944A8A,,"","","","1915",gcc-22334
+gcc-127933,A,Compositae,,Notoptera,,"epaleaceus",,"","(Hemsl.) S.F.Blake",Synonym,,M,TICA,AEDF1723-C264-4FB6-9901-D8DD7E849BE3,170758-2,"J. Bot. 53","","229","1915",gcc-87307
+gcc-842,A,Compositae,,Notoptera,,"gaumeri",,"","(Greenm.) Greenm.",Synonym,,M,TICA,F4802A44-2B9D-4AC4-9F04-0196BF44C817,,"""Publ. Field Columbian Mus., Bot. Ser. 2""","","","1907",gcc-137673
+gcc-101634,A,Compositae,,Notoptera,,"guatemalensis",,"","Urb.",Synonym,,M,TICA,3A4C46A6-B967-4D8D-BAF3-9D35691324C3,170760-2,"Symb. Antill. 2","","465","1901",gcc-137673
+gcc-134996,A,Compositae,,Notoptera,,"hirsuta",,"","(Sw.) Urb.",Synonym,,M,TICA,EE80D705-B387-48A6-9C40-E8FB5CE69173,170761-2,"Symb. Antill. 2: 466. 1901","","466","1901",gcc-124971
+gcc-26734,A,Compositae,,Notoptera,,"hirsuta",var.,"eggersii","Urb.",Synonym,,L,TICA,8D4C4907-AE75-4C31-A1DB-3165BC76191A,170762-2,"Symb. Antill. 2: 466. 1901","","466","1901",gcc-124971
+gcc-153405,A,Compositae,,Notoptera,,"hirsuta",var.,"hirsuta","",Synonym,,L,TICA,057B5114-11AE-4EF0-87CC-ADA668EBF19C,,"","","","",gcc-124971
+gcc-3231,A,Compositae,,Notoptera,,"leptocephala",,"","S.F.Blake",Synonym,,M,TICA,6ABBB772-B495-4BCA-9839-05FB63C2C056,170763-2,"Proc. Biol. Soc. Wash. 34","","46","1921",gcc-137673
+gcc-89510,A,Compositae,,Notoptera,,"scabridula",,"","S.F.Blake",Synonym,,L,TICA,23FF0D4A-FEDA-4246-8CA3-81DE3562D986,170764-2,"","","226","1915",gcc-22334
+gcc-6773,A,Compositae,,Notoptera,,"tequilana",,"","(A.Gray) S.F.Blake",Synonym,,M,TICA,32147259-C669-4CD6-81D3-0C90CDFCAB81,170765-2,"","","228","1915",gcc-93564
+gcc-53507,A,Compositae,,Notoptera,,"tequilana",var.,"acuminata","(S.Watson) S.F.Blake",Synonym,,L,TICA,EEAD9227-3468-4BB5-9E1A-66CEE02CEF40,170766-2,"J. Bot. 53: 228. 1915","","228","1915",gcc-37815
+gcc-148461,A,Compositae,,Notoptera,,"tequilana",var.,"tequilana","",Synonym,,L,TICA,3E320A5F-B838-430F-B12D-4300083378BD,,"","","","",gcc-93564

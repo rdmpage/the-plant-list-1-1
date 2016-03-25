@@ -1,0 +1,9 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-139985,A,Compositae,,Lasiopus,,"ambiguus",,"","Cass.",Synonym,,M,TICA,F01FA361-BD34-4004-9411-F3F0ACCB649B,,"","","","",gcc-49873
+gcc-24671,A,Compositae,,Lasiopus,,"bojeri",,"","DC.",Synonym,,M,TICA,6ED0488A-7E42-4678-A331-2D946EDA6227,228840-1,"Prodr. (DC.) 7(1): 19","","19","1838",gcc-84702
+gcc-50978,A,Compositae,,Lasiopus,,"candollei",,"","DC.",Synonym,,M,TICA,6F880263-B094-4983-A54D-5E965C55439A,228841-1,"Prodr. (DC.) 7(1): 19","","19","1838",gcc-19763
+gcc-25363,A,Compositae,,Lasiopus,,"coriaceus",,"","DC.",Synonym,,M,TICA,9F9F2911-711F-41D0-A3EF-2ED3CF49EB0B,228842-1,"Prodr. (DC.) 7(1): 19","","19","1838",gcc-49873
+gcc-35887,A,Compositae,,Lasiopus,,"sonchoides",,"","D.Don",Synonym,,M,TICA,C002F56A-C2DE-4849-8C57-428BF3109B37,228843-1,"""in Sweet, Brit. Flow. Gard. Ser. II. t. 346 (1836)""","","346","1836",gcc-156418
+gcc-122002,A,Compositae,,Lasiopus,,"viridifolius",,"","DC.",Synonym,,M,TICA,E92F73C9-F9A9-46E2-81FE-CB0AF2067113,228844-1,"Prodr. (DC.) 7(1): 19","","19","1838",gcc-48746
+gcc-61382,A,Compositae,,Lasiopus,,"viridifolius",var.,"hirsutus","DC.",Synonym,,L,TICA,E6A7B858-9E05-4736-9720-A6106143F021,,"","","","",gcc-48746
+gcc-152928,A,Compositae,,Lasiopus,,"viridifolius",var.,"viridifolius","",Synonym,,L,TICA,DA93C47A-04D0-4802-A357-A34A4A2B9793,,"","","","",gcc-48746

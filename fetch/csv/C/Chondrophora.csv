@@ -1,0 +1,11 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-33318,A,Compositae,,Chondrophora,,"drummondii",,"","(A.Gray) A.Heller",Synonym,,M,TICA,A5AF315B-FF1A-47BE-837B-3DC30997F540,57148-2,"","","101","1895",gcc-105010
+gcc-105423,A,Compositae,,Chondrophora,,"engelmannii",,"","(A.Gray) Britton",Synonym,,M,TICA,A0FAE80E-33BA-4B99-9A30-A58A9595A0D3,57149-2,"Mem. Torrey Bot. Club 5","","317","1894",gcc-114665
+gcc-142247,A,Compositae,,Chondrophora,,"howardii",,"","(Parry ex A.Gray) Britton",Synonym,,M,TICA,0F900A2E-299C-495B-AF2A-F938D7C81F97,57150-2,"Mem. Torrey Bot. Club 5","","317","1894",gcc-68319
+gcc-101349,A,Compositae,,Chondrophora,,"nauseosa",,"","(Pall. ex Pursh) Britton",Synonym,,M,TICA,224154F7-409D-4EFC-9AD8-9C98C4B4AB01,57151-2,"Mem. Torrey Bot. Club 5","","317","1894",gcc-51707
+gcc-53393,A,Compositae,,Chondrophora,,"nauseosa",var.,"glabrata","(A.Gray) Rydb.",Synonym,,L,TICA,A84E09D6-8E52-440D-A677-65E2BDEC19D6,57152-2,"Mem. Torrey Bot. Club 5","","317","1894",gcc-60662
+gcc-49195,A,Compositae,,Chondrophora,,"nauseosa",var.,"nauseosa","",Synonym,,L,TICA,D9F15769-FF34-491B-BC4B-5B1756F67029,,"","","","1894",gcc-60662
+gcc-98911,A,Compositae,,Chondrophora,,"nudata",,"","(Michx.) Britton",Synonym,,L,TICA,19EE3493-668F-4056-8339-9728746AB035,57153-2,"Mem. Torrey Bot. Club 5","","317","1894",gcc-10265
+gcc-42621,A,Compositae,,Chondrophora,,"nudata",var.,"nudata","",Synonym,,L,TICA,F9B0C577-E82F-45A5-AEB8-4EF2D82103A6,,"","","","1894",gcc-10265
+gcc-612,A,Compositae,,Chondrophora,,"nudata",var.,"virgata","(Nutt.) Rydb.",Synonym,,L,TICA,C6B48C35-54CD-4A4E-AE88-0127D3C9828E,,"Mem. Torrey Bot. Club 5: 317 (1894)","","317","1894",gcc-10265
+gcc-139368,A,Compositae,,Chondrophora,,"virgata",,"","(Nutt.) Greene",Synonym,,L,TICA,F83723A1-1996-4458-9A8B-F29B78634F97,57155-2,"Erythea 3","","91","1895",gcc-10265

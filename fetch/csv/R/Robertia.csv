@@ -1,0 +1,8 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+kew-179133,A,Sapotaceae,,Robertia,,"decandra",,"","(L.) Scop.",Synonym,,H,WCSP,179133,789397-1,"Intr. Hist. Nat.","154","","1777",kew-191993
+kew-2525281,A,Ranunculaceae,,Robertia,,"hiemalis",,"","(L.) Mérat",Synonym,,M,WCSP (in review),,714136-1,"Nouv. Fl. Env. Paris","211","","1812",kew-2791911
+gcc-37322,A,Compositae,,Robertia,,"pinnatifida",,"","(Ten.) Spreng.",Synonym,,M,TICA,FF917814-C5C3-49FF-B19E-4529933C9800,241500-1,"Syst. Veg. (ed. 16) [Sprengel] 3: 661","","661","1826",gcc-101451
+gcc-86000,A,Compositae,,Robertia,,"taraxacoides",,"","(Loisel.) DC.",Synonym,,M,TICA,EE9453BC-5CD8-4CEC-B2D7-79F520807756,241501-1,"","","453","1815",gcc-139726
+gcc-157043,A,Compositae,,Robertia,,"taraxacoides",var.,"taraxacoides","",Synonym,,L,TICA,AB48BBE2-E2E4-4E79-94CD-F9CC3A7DCEAA,,"","","","",gcc-139726
+gcc-146637,A,Compositae,,Robertia,,"taraxacoides",var.,"taurina","Pamp.",Synonym,,L,TICA,C638EBC0-DA0B-4598-B3AB-1CF6CBDE946F,,"""R. Pampanini, in Rendiconti Seminario Fac. Sci. Univ. Cagliari 16. 1948""","","138","1948",gcc-28994
+gcc-105626,A,Compositae,,Robertia,,"tenuiflora",,"","Boiss.",Synonym,,M,TICA,DB5D3BE4-54B0-42DA-A778-A5FD7E192229,,"","","35","1849",gcc-33144

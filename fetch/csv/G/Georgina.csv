@@ -1,0 +1,18 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-932,A,Compositae,,Georgina,,"astrantiaeflota",,"","Sweet",Synonym,,M,TICA,E324D534-1FCC-4088-959E-01B903EFDD08,208809-1,"","","310","1830",gcc-21066
+gcc-107868,A,Compositae,,Georgina,,"cervantesii",,"","Lag. ex Sweet",Synonym,,L,TICA,23FB83E1-6310-4C2F-8003-AB140FE79C95,109035-2,"","","t. 22","",gcc-7025
+gcc-126253,A,Compositae,,Georgina,,"coccinea",,"","Cav.",Unresolved,,L,TICA,46FA37D1-DCA8-45FF-934B-D4E8581B1878,,"","","","",gcc-7025
+gcc-49365,A,Compositae,,Georgina,,"coccinea",,"","(Cav.) Willd.",Synonym,,L,TICA,471B8020-1B94-48D9-9A6D-5B750D161254,,"Sp. Pl. 3","","","1803",gcc-7025
+gcc-61194,A,Compositae,,Georgina,,"coccinea",var.,"coccinea","",Synonym,,L,TICA,C30295D4-0DA8-433F-B219-A493F34B5434,109036-2,"Hort. Berol. 2: tab. 96","","tab. 96","1809",gcc-7025
+gcc-1254,A,Compositae,,Georgina,,"coccinea",var.,"crocea","Willd.",Synonym,,L,TICA,5A37C525-1887-4734-98FF-024D3814C19D,,"Hort. Berol. 2","","","1809",gcc-7025
+gcc-68692,A,Compositae,,Georgina,,"coccinea",var.,"flava","Willd.",Synonym,,L,TICA,197E3879-6FDC-4E21-95D7-E0C953574F00,,"Hort. Berol. 2","","","1809",gcc-7025
+gcc-123608,A,Compositae,,Georgina,,"crocata",,"","Sweet",Synonym,,L,TICA,604A6B22-542F-4E35-8E0F-CEB9F3D6B1BC,,"","","","1829",gcc-7025
+gcc-26584,A,Compositae,,Georgina,,"frustranea",,"","DC.",Synonym,,L,TICA,C88B5180-AF11-4AF0-B5DB-311E55B55D0D,30094213-2,"","","310","1810",gcc-7025
+gcc-772,A,Compositae,,Georgina,,"frustranea",var.,"coccinea","DC.",Synonym,,L,TICA,35C55973-AF5D-43BF-8B2C-016EDBD659AE,109039-2,"","","310","1810",gcc-7025
+gcc-55442,A,Compositae,,Georgina,,"frustranea",var.,"crocea","(Willd.) DC.",Synonym,,L,TICA,586D8C0C-39B5-4C2C-B72D-760A3823EC1F,109040-2,"","","310","1810",gcc-7025
+gcc-60524,A,Compositae,,Georgina,,"frustranea",var.,"flava","(Willd.) DC.",Synonym,,L,TICA,D6CF32E7-3B41-49A9-8ADD-9EDE90F43113,109041-2,"","","310","1810",gcc-7025
+gcc-152631,A,Compositae,,Georgina,,"frustranea",var.,"frustranea","",Synonym,,L,TICA,FED3EAD5-E897-43CE-91EC-9D94011D700C,,"","","","",gcc-7025
+gcc-106517,A,Compositae,,Georgina,,"purpurea",,"","Willd.",Synonym,,M,TICA,9EB92C5A-AAA3-4BA4-954F-A7F994BD6CC6,208814-1,"","","2124","1803",gcc-21066
+gcc-120643,A,Compositae,,Georgina,,"rosea",,"","(Cav.) Willd.",Synonym,,M,TICA,99E8DDB9-AAB9-48CB-BB1A-C80A55267D45,208815-1,"","","2142","1803",gcc-21066
+gcc-129117,A,Compositae,,Georgina,,"scapigera",,"","A.Dietr.",Synonym,,M,TICA,06959C2D-63CC-4C84-B377-DB8E44603AE9,208816-1,"","","197","1833",gcc-43451
+gcc-108228,A,Compositae,,Georgina,,"variabilis",,"","Willd.",Synonym,,M,TICA,AD766DE9-ACA1-47EA-91FB-ABD1BF4B3478,,"Hort. Berol. 2: 93 (t. 93)","","","1809",gcc-21066

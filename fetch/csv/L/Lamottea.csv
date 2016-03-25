@@ -1,0 +1,23 @@
+﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
+gcc-133577,_,,,Lamottea,,"arenosa",,"","Pomel",Unresolved,,L,TICA,0AF575EC-3E53-4074-B31B-E5CD05B5766D,228571-1,"Bull. Soc. Bot. France 17: 235","","235","1871",
+gcc-20740,A,Compositae,,Lamottea,,"caerulea",,"","(L.) Pomel",Synonym,,M,TICA,FF784DE4-C7C1-4277-A7AD-265B6ED52BC8,228572-1,"Mat. Fl. Atl. 4.","","4","",gcc-139701
+gcc-157210,A,Compositae,,Lamottea,,"caerulea",var.,"caerulea","",Synonym,,L,TICA,4D0DE2E9-6111-4055-A875-FD3AE67F13A0,,"","","","",gcc-139701
+gcc-55281,A,Compositae,,Lamottea,,"caerulea",var.,"centaureoides","Pomel",Synonym,,L,TICA,9F5D369C-80AF-4ED3-B5D4-74C12C505FBA,,"","","","",gcc-139701
+gcc-23121,A,Compositae,,Lamottea,,"caerulea",var.,"montana","Pomel",Synonym,,L,TICA,B1983C76-6498-492C-B6FB-2ACE2E630F50,,"","","","",gcc-139701
+gcc-90013,A,Compositae,,Lamottea,,"calva",,"","(Boiss. & Reut.) Pomel",Synonym,,M,TICA,9C242FF5-7D9B-4DC5-B0F9-8306C0B3EF1E,228573-1,"Mat. Fl. Atl. 7.","","7","",gcc-3302
+gcc-12890,A,Compositae,,Lamottea,,"carlinoides",,"","Pomel",Synonym,,M,TICA,4EC27E03-91A8-4ACF-99E9-1809A4D16D5C,228574-1,"","","5","1860",gcc-3302
+gcc-6770,A,Compositae,,Lamottea,,"carthamoides",,"","Pomel",Synonym,,M,TICA,71699D24-9134-41BC-B175-0C8FFC872DD1,228575-1,"","","6","1860",gcc-84480
+gcc-90314,_,,,Lamottea,,"centaureoides",,"","Pomel",Unresolved,,L,TICA,EA0DDB5A-274A-4E0C-9964-83B07B8835DC,228576-1,"Mat. Fl. Atl. 5.","","5","",
+gcc-25227,A,Compositae,,Lamottea,,"chouletteana",,"","Pomel",Synonym,,M,TICA,F9B59992-0858-4827-9B9B-2E9439123B46,228577-1,"","","3","1860",gcc-141274
+gcc-22770,A,Compositae,,Lamottea,,"depauperata",,"","Pomel",Synonym,,M,TICA,75EEBC76-00D5-4E7B-A03C-2A225B70F3FE,228578-1,"Mat. Fl. Atl. 6.","","6","",gcc-3302
+gcc-91305,_,,,Lamottea,,"diania",,"","(Webb) G.López",Unresolved,,L,TICA,1EA351C6-4B96-4B50-8F13-86170088B611,962340-1,"","","","",
+gcc-94515,A,Compositae,,Lamottea,,"diania",,"","(Webb) G.López",Synonym,,M,TICA,88671BD4-DB8B-448C-9ECB-8D2AD4EFF137,962340-1,"","","27","1990",gcc-104944
+gcc-112198,_,,,Lamottea,×,"faurei",,"","(Maire) G.López",Unresolved,,L,TICA,CB24B508-99BD-4BFF-A5BC-B4DC2B6CA048,,"""in An. Jard. Bot. Madrid, 47(1): 28 (1989 publ. 1990):""","","28","",
+gcc-17870,A,Compositae,,Lamottea,,"helenoides",,"","(Desf.) G.López",Synonym,,M,TICA,CE98F2B5-9550-4F6E-9E1B-20FC369356A1,962341-1,"","","28","1990",gcc-127485
+gcc-107920,_,,,Lamottea,,"hispanica",,"","Pomel",Unresolved,,L,TICA,99361A62-3792-4AED-96E7-AB2F9F23938C,228579-1,"Bull. Soc. Bot. France 17: 235","","235","1871",
+gcc-112810,_,,,Lamottea,,"incrassata",,"","Pomel",Unresolved,,L,TICA,AE613D3E-A1E0-47F4-B5BC-B646DC6B23F9,228580-1,"Mat. Fl. Atl. 5.","","5","",
+gcc-12071,_,,,Lamottea,,"montana",,"","Pomel",Unresolved,,L,TICA,9F260F75-49A9-4E80-AED5-1680FC87D434,228581-1,"Mat. Fl. Atl. 4.","","4","",
+gcc-88843,A,Compositae,,Lamottea,,"multifida",,"","(Desf.) Pomel",Synonym,,M,TICA,F73FE130-9AA0-49E7-AC4A-8058E7699044,228582-1,"Mat. Fl. Atl. 4.","","4","",gcc-139701
+gcc-92285,A,Compositae,,Lamottea,,"pectinata",,"","(Desf.) Pomel",Synonym,,M,TICA,AFBBA397-A04A-4126-B737-8842B5962559,228583-1,"Mat. Fl. Atl. 6.","","6","",gcc-139445
+kew-2350992,A,Boraginaceae,,Lamottea,,"polystachya",,"","Pomel",Unresolved,,L,WCSP (in review),,501477-1,"Bull. Soc. Bot. France","17: 235","","1870",kew-2375655
+gcc-83277,A,Compositae,,Lamottea,,"stricta",,"","(Pomel) G.López",Synonym,,M,TICA,CD08ED02-6A08-47AE-A731-73EDD8D6C6DF,962342-1,"","","28","1990",gcc-10987
