@@ -21,3 +21,16 @@ SELECT DISTINCT CONCAT(“’”, tplmarkus.Genus, “’,”) FROM tplmarkus LE
 
 I then grabbed those additional genus files from TPL.
 
+## Matching to IPNI
+
+Many IPNI records are not matched in TPL, can find matches to local IPNI by queries such as:
+
+```
+SELECT * FROM `tpl1-1` 
+INNER JOIN `names` 
+ON CONCAT(`tpl1-1`.Genus, ' ', `tpl1-1`.Species) = `names`.`Full_name_without_family_and_authors` 
+WHERE `tpl1-1`.Infraspecific_rank = '' 
+AND `names`.Infra_species = '' 
+AND `names`.Id LIKE "%-1" 
+AND `tpl1-1`.Publication = 'Telopea';
+```

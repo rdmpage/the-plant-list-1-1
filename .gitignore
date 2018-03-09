@@ -1,3 +1,5 @@
+.DS_Store
+
 adodb5
 
 references.txt
@@ -8,5 +10,8 @@ cookie.txt
 dwca/references.txt
 dwca/taxa.txt
 dwca/dwca.zip
+
+fetch/.DS_Store
+fetch/csv/.DS_Store
 
 junk
