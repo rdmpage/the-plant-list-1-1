@@ -2,13 +2,10 @@
 
 adodb5
 
-references.txt
-taxa.txt
-
 cookie.txt
 
-dwca/references.txt
-dwca/taxa.txt
+#dwca/references.txt
+#dwca/taxa.txt
 dwca/dwca.zip
 
 fetch/.DS_Store

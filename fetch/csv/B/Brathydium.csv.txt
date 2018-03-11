@@ -1,15 +1,3 @@
-﻿ID,Major group,Family,Genus hybrid marker,Genus,Species hybrid marker,Species,Infraspecific rank,Infraspecific epithet,Authorship,Taxonomic status in TPL,Nomenclatural status from original data source,Confidence level,Source,Source id,IPNI id,Publication,Collation,Page,Date,Accepted ID
-kew-2682910,_,,,Brathydium,,"ambiguum",,"","K.Koch",Unresolved,,L,WCSP (in review),,427075-1,"Hort. Dendrol.","66","","1853",
-kew-2682911,A,Hypericaceae,,Brathydium,,"aureum",,"","K.Koch",Synonym,,M,WCSP (in review),,427076-1,"Hort. Dendrol.","66","","1853",kew-2858520
-kew-2682912,A,Hypericaceae,,Brathydium,,"canadense",,"","Spach",Synonym,,M,WCSP (in review),,432963-1,"Hist. Nat. Vég.","5: 446","","1836",kew-2857751
-kew-2682913,_,,,Brathydium,,"chamaenerium",,"","Spach",Unresolved,,L,WCSP (in review),,432964-1,"Hist. Nat. Vég.","5: 445","","1836",tro-50111864
-kew-2682914,_,,,Brathydium,,"dolabriforme",,"","(Vent.) Y.Kimura",Unresolved,,L,WCSP (in review),,427077-1,"Nov. Fl. Jap.","10: 24","","1951",
-kew-2682915,_,,,Brathydium,,"fastigiatum",,"","K.Koch",Unresolved,,L,WCSP (in review),,427078-1,"Hort. Dendrol.","67","","1853",
-kew-2682916,A,Hypericaceae,,Brathydium,,"fulgidum",,"","K.Koch",Synonym,,L,WCSP (in review),,427079-1,"Hort. Dendrol.","67","","1853",kew-2858149
-kew-2682917,_,,,Brathydium,,"grandiflorum",,"","Spach",Unresolved,,L,WCSP (in review),,432966-1,"Hist. Nat. Vég.","5: 443","","1836",
-kew-2682918,_,,,Brathydium,,"hyssopifolium",,"","Spach",Unresolved,,L,WCSP (in review),,432967-1,"Hist. Nat. Vég.","5: 445","","1836",
-tro-100377119,A,Clusiaceae,,Brathydium,,"microsepalum",,"","(Torr. & A. Gray) K. Koch",Synonym,,L,TRO,100377119,,"Hort. Dendrol.","67","67","1853",kew-2742980
-kew-2682919,_,,,Brathydium,,"myrtifolium",,"","K.Koch",Unresolved,,L,WCSP (in review),,427080-1,"Hort. Dendrol.","67","","1853",
-kew-2682920,_,,,Brathydium,,"nudiflorum",,"","K.Koch",Unresolved,,L,WCSP (in review),,427081-1,"Hort. Dendrol.","67","","1853",
-kew-2682921,_,,,Brathydium,,"rugelianum",,"","K.Koch",Unresolved,,L,WCSP (in review),,427082-1,"Hort. Dendrol.","67","","1853",
-kew-2682922,_,,,Brathydium,,"sphaerocarpum",,"","Spach",Unresolved,,L,WCSP (in review),,432968-1,"Hist. Nat. Vég.","5: 444","","1836",
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f30239307283f864519d7fcb09f23962b82d74fb77a5be009dd66db5d31ebdc
+size 2228
