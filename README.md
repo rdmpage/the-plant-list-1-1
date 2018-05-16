@@ -21,6 +21,17 @@ SELECT DISTINCT CONCAT(“’”, tplmarkus.Genus, “’,”) FROM tplmarkus LE
 
 I then grabbed those additional genus files from TPL.
 
+## Mapping to publication identifiers
+
+As of 2018-05-16 there were 1297759 taxa in the database, and the number of taxa with name or bibliographic identifiers were:
+
+| identifier | count |
+| ---|---:| 
+| IPNI | 872848 |
+| DOI | 103499 | 
+| JSTOR | 22330 | 
+| CiNii | 40 | 
+
 ## Matching to IPNI
 
 Many IPNI records are not matched in TPL, can find matches to local IPNI by queries such as:
